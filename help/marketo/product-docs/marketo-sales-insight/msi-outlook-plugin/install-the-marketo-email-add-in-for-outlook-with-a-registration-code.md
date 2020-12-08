@@ -1,0 +1,118 @@
+---
+unique-page-id: 2949711
+description: Installazione del componente aggiuntivo e-mail Marketo per Outlook con un codice di registrazione - Documenti Marketo - Documentazione del prodotto
+title: Installazione del componente aggiuntivo e-mail di Marketo per Outlook con un codice di registrazione
+translation-type: tm+mt
+source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+workflow-type: tm+mt
+source-wordcount: '391'
+ht-degree: 0%
+
+---
+
+
+# Installazione del componente aggiuntivo e-mail di Marketo per Outlook con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+
+Se gli utenti possono accedere alle impostazioni dell&#39;amministratore sui propri computer portatili, potete inviare loro direttamente un codice di registrazione.
+
+Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amministratore di Marketo di invitarvi.
+
+>[!NOTE]
+>
+>**Prerequisiti**
+>
+>* È necessario [che venga rilasciata una licenza](issue-a-marketo-email-add-in-license.md)del componente aggiuntivo e-mail Marketo.
+
+>
+
+
+
+## Download del programma {#download-installer}
+
+1. Identificazione della versione di [Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Fate clic sul collegamento per scaricare il programma di installazione appropriato per la versione in uso di Microsoft Outlook.
+
+   >[!NOTE]
+   >
+   >I collegamenti di seguito al momento funzionano solo in Chrome. Mi dispiace per qualsiasi inconveniente.
+
+   | Versione di Outlook | Outlook a 32 bit | Outlook a 64 bit |
+   |---|---|---|
+   | Outlook 2000 | Non supportato | N/D |
+   | Outlook 2003 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
+   | Outlook 2007 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
+   | Outlook 2010 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook O365 (solo Windows) | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook per Mac | Non supportato | Non supportato |
+   | Outlook Web App | Non supportato | Non supportato |
+
+## Copiare il codice di registrazione {#copy-your-registration-code}
+
+1. Copiate il codice di registrazione dal messaggio e-mail di invito ricevuto.
+
+   ![](assets/image2016-7-22-10-3a45-3a10.png)
+
+1. Chiudere Microsoft Outlook.
+
+   ![](assets/ent-key-close-outlook-hand.png)
+
+## Installazione {#install}
+
+1. Eseguite il programma di installazione.
+
+   ![](assets/image2016-7-25-10-3a23-3a33.png)
+
+   >[!NOTE]
+   >
+   >Se ricevi un avviso di sicurezza, non preoccuparti! Fai clic su **Esegui**.
+
+1. Fate clic su **Avanti**.
+
+   ![](assets/welcome-to-the-setup-wizard-hand.png)
+
+1. Compila **Nome**, **Cognome**, Indirizzo **e-mail, quindi copia e incolla il codice **Registrazione **dall&#39;e-mail nel modulo e fai clic su** Avanti ****.
+
+   ![](assets/enter-your-information-hands.png)
+
+   >[!TIP]
+   >
+   >Se l&#39;installazione non riesce, controllate con il reparto IT per verificare che il traffico HTTPS non sia bloccato. Il programma di installazione richiede l&#39;apertura del traffico HTTPS.
+
+1. Fare clic su** Avanti** per eseguire l&#39;installazione nel percorso predefinito.
+
+   ![](assets/select-installation-folder-hand.png)
+
+1. Fate clic su **Avanti**.
+
+   ![](assets/confirm-installation-hand.png)
+
+   >[!NOTE]
+   >
+   >Se viene visualizzato un messaggio di protezione relativo a un editore sconosciuto, fare clic su **Sì**.
+
+1. L&#39;installazione è ora completa, fate clic su **Chiudi**.
+
+   ![](assets/image2014-9-23-15-3a52-3a11.png)
+
+1. Ora aprire Microsoft Outlook e vedere i pulsanti Marketo.
+
+   ![](assets/image2016-8-24-15-3a47-3a38.png)
+
+   Eccellente! Ora i pulsanti Marketo sono in un posto migliore.
+
+Ulteriori informazioni sull&#39;utilizzo delle azioni Messaggio di Marketo e Registro con Marketo.
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail Marketo per Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Invio e tracciamento da Outlook con un modello Marketo](send-and-track-from-outlook-using-a-marketo-template.md)
+
+>
+
+
+
