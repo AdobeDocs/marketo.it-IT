@@ -1,0 +1,78 @@
+---
+unique-page-id: 1146901
+description: Utilizzo della logica avanzata della regola degli elenchi avanzati - Documenti Marketo - Documentazione del prodotto
+title: Utilizzo della logica delle regole avanzate per gli elenchi avanzati
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 0%
+
+---
+
+
+# Utilizzo della logica delle regole avanzate per gli elenchi avanzati {#using-advanced-smart-list-rule-logic}
+
+Potete trovare le persone esatte necessarie applicando la logica della regola di elenchi avanzati a più filtri all&#39;interno di un elenco avanzato. Ecco come.
+
+>[!NOTE]
+>
+>**Prerequisiti**
+>
+>* [Trovare e aggiungere filtri a un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definire i filtri per elenchi avanzati](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+
+>
+
+
+
+>[!NOTE]
+>
+>La logica di filtro avanzata è disponibile solo se sono presenti tre o più filtri nell’elenco avanzato.
+
+## Aggiungere una logica a un elenco avanzato {#add-logic-to-a-smart-list}
+
+Per impostazione predefinita, nell&#39;elenco avanzato vengono visualizzate le persone che corrispondono ai filtri **ALL** (filtri 1 *e* 2 *e* 3). È possibile modificare la logica delle regole per individuare persone che corrispondono a **ANY** dei filtri definiti (filtri 1 *o* 2 *o* 3), oppure utilizzare filtri avanzati (filtri 1 ** e 2 *o *3).
+
+In questo esempio, supponiamo che vogliate trovare persone in California *e* con un punteggio di almeno 50 punti *o* con uno stato di &quot;Sales Qualified&quot;.
+
+1. Selezionate **Usa** **filtri** **avanzati** dal menu a discesa.
+
+   ![](assets/one.png)
+
+   >[!NOTE]
+   >
+   >L’utilizzo di filtri **avanzati** riduce la necessità di creare elenchi avanzati con il filtro Membro di Elenco avanzato. Questo consente di ottimizzare le prestazioni.
+
+1. La casella di testo **Advanced** **Filters** visualizzerà &quot;e&quot; come valore predefinito tra tutti i filtri.
+
+   ![](assets/two-2.png)
+
+1. Digitare un paio di parentesi intorno a &quot;2 e 3&quot;.
+
+   ![](assets/three-2.png)
+
+   >[!CAUTION]
+   >
+   >È necessario utilizzare &quot;and&quot; prima di &quot;or&quot; quando si immette la logica della regola.
+
+1. Cambia &quot;e&quot; tra &quot;2 e 3&quot; e &quot;or&quot;.
+
+   ![](assets/four-1.png)
+
+## Usare le parentesi per miscelare &quot;And&quot; e &quot;OR&quot; {#use-parentheses-when-mixing-and-and-or}
+
+La combinazione di logica &quot;and&quot; e &quot;or&quot; richiede parentesi per chiarire la propria intenzione.
+
+![](assets/advancedfilters-parent.png)
+
+## Usa parentesi nidificate per quattro o più filtri, se necessario {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+
+A seconda delle intenzioni, potrebbe essere necessario aggiungere parentesi nidificate quando si utilizzano quattro o più filtri.
+
+![](assets/advancedfilters-nested.png)
+
+>[!TIP]
+>
+>Se si immette una regola non valida, sotto la regola verrà visualizzata una linea rossa. Scorrete il testo per visualizzare il relativo messaggio di errore.
+
