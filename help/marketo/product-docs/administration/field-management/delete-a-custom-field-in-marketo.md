@@ -1,0 +1,27 @@
+---
+unique-page-id: 2360339
+description: Eliminazione di un campo personalizzato in Marketo - Marketo Docs - Documentazione prodotto
+title: Eliminazione di un campo personalizzato in Marketo
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 0%
+
+---
+
+
+# Eliminazione di un campo personalizzato in Marketo {#delete-a-custom-field-in-marketo}
+
+>[!NOTE]
+>
+>**Autorizzazioni amministratore richieste**
+
+È possibile eliminare un campo creato in passato se non è più necessario utilizzarlo. Purtroppo non è possibile eliminare i campi in Marketo, ma *è possibile* nasconderli dall&#39;interfaccia utente.
+
+1. In **Admin**, andate a **Field Management **e selezionate il vostro campo. In Azioni **** campo fare clic su **Nascondi campo**.
+
+   ![](assets/image2014-9-19-9-3a49-3a10.png)
+
+   Per istruzioni dettagliate dettagliate dettagliate, vedere [nascondere e scoprire un campo](hide-and-unhide-a-field.md).
+
