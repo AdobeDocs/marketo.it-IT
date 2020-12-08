@@ -1,0 +1,74 @@
+---
+unique-page-id: 4718666
+description: Utilizzo delle fasi dell'inventario del modello di ricavi - Documenti Marketo - Documentazione del prodotto
+title: Utilizzo delle fasi di magazzino del modello di ricavi
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 0%
+
+---
+
+
+# Utilizzo delle fasi di magazzino del modello di ricavi {#using-revenue-model-inventory-stages}
+
+Tutti i lead e i conti noti risiedono inizialmente nella fase Inventory. Questo pool di potenziali clienti è il luogo in cui i lead vengono nutriti fino alla fase di vendita. Non esiste alcun limite di tempo per una fase di inventario.
+
+>[!TIP]
+>
+>È una grande idea creare un modello di pratica in un programma grafico o di presentazione e confermarlo prima con i colleghi.
+
+## Aggiungere Una Fase Di Inventario {#add-an-inventory-stage}
+
+1. Per aggiungere una nuova fase Inventario modello ciclo ricavi, fare clic sul pulsante **Analisi** nella schermata iniziale **Marketo** personale.
+
+   ![](assets/image2015-4-27-11-3a54-3a41.png)
+
+1. Nella sezione **Analisi** , selezionate il modello esistente o [createne uno](create-a-new-revenue-model.md)nuovo.
+
+   ![](assets/image2015-4-27-14-3a31-3a53.png)
+
+1. Fate clic su **Modifica bozza**.
+
+   ![](assets/image2015-4-27-12-3a10-3a49.png)
+
+1. Per aggiungere una nuova fase di magazzino, fare clic sul pulsante **Inventory (Inventario** ), quindi trascinare e rilasciare in qualsiasi punto del quadro.
+
+   ![](assets/image2015-4-28-13-3a9-3a37.png)
+
+1. Potete modificare il Nome, aggiungere una Descrizione e regolare il Tipo dopo l’aggiunta di un’area di visualizzazione. Al momento potete anche selezionare ** [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md)**.
+
+   ![](assets/image2015-4-27-13-3a29-3a2.png)
+
+## Modifica di una fase di magazzino {#edit-an-inventory-stage}
+
+Quando si seleziona un&#39;icona Inventory è possibile modificare il **Nome**, aggiungere una **Descrizione** o regolare il **Tipo**. Potete anche selezionare [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md).
+
+1. Fate clic sull&#39;icona Inventory (Inventario).
+
+   ![](assets/image2015-4-27-15-3a55-3a10.png)
+
+1. Fate clic all’interno dei campi **Nome** e **Descrizione** per modificarne il contenuto.
+
+   ![](assets/image2015-4-27-13-3a34-3a58.png)
+
+1. Selezionare il **pulldown Tipo** da modificare.
+
+   ![](assets/image2015-4-27-13-3a36-3a52.png)
+
+## Eliminazione Di Una Fase Di Magazzino {#delete-an-inventory-stage}
+
+1. È possibile eliminare una fase di magazzino facendo clic con il pulsante destro del mouse o selezionando l&#39;icona di una fase di inventario.
+
+   ![](assets/image2015-4-28-13-3a0-3a20.png)
+
+1. È inoltre possibile eliminare un passaggio facendo clic su di esso, quindi nel menu a discesa Azioni **** fase selezionare **Elimina**.
+
+   ![](assets/image2015-4-28-13-3a1-3a17.png)
+
+1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Fate clic su **Elimina**.
+
+   ![](assets/image2015-4-28-13-3a5-3a26.png)
+
+Congratulazioni! Ora puoi capire il meraviglioso mondo delle fasi di inventario.
