@@ -1,0 +1,61 @@
+---
+unique-page-id: 2360225
+description: Filtrare le risorse in un report e-mail - Documenti Marketo - Documentazione prodotto
+title: Filtrare le risorse in un rapporto e-mail
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '164'
+ht-degree: 0%
+
+---
+
+
+# Filtrare le risorse in un rapporto e-mail {#filter-assets-in-an-email-report}
+
+Concentrare il report Prestazioni [](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e-mail o Prestazioni [collegamento](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e-mail sulle e-mail nei programmi (risorse locali), su quelle in Design Studio (risorse globali) o su quelle archiviate.
+
+1. Andate all&#39;area **Analytics** (o **Marketing Activities**).
+
+   ![](assets/image2014-9-16-15-3a53-3a26.png)
+
+1. Selezionate il rapporto e-mail.
+
+   ![](assets/image2014-9-16-15-3a53-3a29.png)
+
+1. Fate clic sulla scheda **Configurazione** e trascinate su un filtro.
+
+   ![](assets/image2014-9-16-15-3a53-3a32.png)
+
+   * **E-mail** di Design Studio: Risorse globali, gestite in Design Studio.
+   * **E-mail** attività di marketing: Risorse locali nei programmi nella scheda Attività di marketing.
+   * **E-mail** archiviate: E-mail inattive e ritirate.
+
+1. Scegliete le cartelle e le e-mail specifiche da includere nel rapporto.
+
+   ![](assets/image2014-9-16-15-3a53-3a36.png)
+
+   >[!TIP]
+   >
+   >Se selezionate una cartella, il rapporto includerà tutto ciò che contiene al momento dell&#39;esecuzione del rapporto.
+
+1. Hai finito! Fai clic sulla scheda **Rapporto** per visualizzare il rapporto filtrato.
+
+   ![](assets/image2014-9-16-15-3a53-3a59.png)
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>* [Filtrare le risorse in un report e-mail campagna](filter-assets-in-a-campaign-email-reports.md)
+
+>
+
+
+
+>[!NOTE]
+>
+>**Tubo profondo**
+>
+>Scopri tutte le informazioni sui report in [Basic Reporting (Rapporti](http://docs.marketo.com/display/docs/basic+reporting)di base).
+
