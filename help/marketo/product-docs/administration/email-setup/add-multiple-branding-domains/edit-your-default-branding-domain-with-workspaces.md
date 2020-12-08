@@ -1,0 +1,49 @@
+---
+unique-page-id: 11377406
+description: Modifica del dominio di branding predefinito con Workspaces - Marketo Docs - Documentazione prodotto
+title: Modifica del dominio di branding predefinito con Workspaces
+translation-type: tm+mt
+source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 0%
+
+---
+
+
+# Modifica del dominio di branding predefinito con Workspaces {#edit-your-default-branding-domain-with-workspaces}
+
+1. Vai ad **Admin**, quindi fai clic su **Email**.
+
+   ![](assets/image2016-6-29-16-3a42-3a20.png)
+
+1. Nella tabella Domini marchio, selezionate il dominio generico corrente e fate clic su Modifica per modificarlo nel dominio con il marchio della società.
+
+   ![](assets/image2016-8-12-10-3a30-3a34.png)
+
+   >[!NOTE]
+   >
+   >**Aggiungi**** **non funziona finché non hai modificato il dominio generico.** Elimina ******non funziona finché non aggiungi un secondo dominio.
+   >
+   >Non puoi aggiungere un dominio aggiuntivo finché non modifichi prima il dominio generico.
+
+1. Immettete il nome del dominio predefinito e fate clic su Avanti.
+
+   ![](assets/image2016-8-12-10-3a32-3a31.png)
+
+1. Fate clic su Salva.
+
+   ![](assets/edit-branding-domain-9-12-16-hand.png)
+
+>[!NOTE]
+>
+>Quando aggiungete altri domini di branding, potete scegliere di renderli il vostro dominio principale per una o più aree di lavoro, e tutte le e-mail non inviate esistenti impostate su &quot;Predefinito&quot; e tutte le e-mail appena create verranno automaticamente sul dominio principale. Potete ignorare questo problema per ogni e-mail.
+
+Ora puoi [aggiungere altri domini](add-an-additional-branding-domain-with-workspaces.md) di branding necessari per le aree di lavoro.
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>* [Aggiunta di un dominio di branding aggiuntivo con Workspaces](add-an-additional-branding-domain-with-workspaces.md)
+
