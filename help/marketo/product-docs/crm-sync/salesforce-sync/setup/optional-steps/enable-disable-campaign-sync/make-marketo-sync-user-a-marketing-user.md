@@ -1,0 +1,39 @@
+---
+unique-page-id: 8782944
+description: Make Marketo Sync User a Marketing User - Marketo Docs - Documentazione prodotto
+title: Come rendere Marketo Sync User un Marketing User
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 0%
+
+---
+
+
+# Come rendere Marketo Sync User un Marketing User {#make-marketo-sync-user-a-marketing-user}
+
+Affinché la sincronizzazione della campagna Salesforce funzioni correttamente, l’utente [di sincronizzazione](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) Marketo deve essere un utente Marketing. Questo è come rendere l&#39;utente un utente Marketing in Salesforce.
+
+>[!NOTE]
+>
+>**Autorizzazioni amministratore richieste**
+
+1. Accedi a Salesforce. Cercate gli utenti nella barra di ricerca a sinistra e fate clic su **Utenti** in **Gestione utenti**.
+
+   ![](assets/image2015-7-8-14-3a25-3a49.png)
+
+1. Individua l’utente di sincronizzazione e fai clic sul suo nome.
+
+   ![](assets/image2015-7-8-14-3a27-3a32.png)
+
+1. Fate clic su **Modifica**.
+
+   ![](assets/image2015-7-8-14-3a29-3a7.png)
+
+1. Selezionate la casella di controllo Utente **** marketing e fate clic su **Salva**.
+
+   ![](assets/image2015-7-8-14-3a30-3a16.png)
+
+   Fantastico! Questo utente di sincronizzazione Marketo è ora un utente di marketing.
+
