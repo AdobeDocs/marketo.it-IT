@@ -1,0 +1,57 @@
+---
+unique-page-id: 2360423
+description: Trova tutti i lead in un modello di ciclo delle entrate - Documenti Marketo - Documentazione del prodotto
+title: Trova tutti i lead in un modello di ciclo delle entrate
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '184'
+ht-degree: 0%
+
+---
+
+
+# Trova tutti i lead in un modello di ciclo delle entrate {#find-all-leads-in-a-revenue-cycle-model}
+
+Utilizzando elenchi intelligenti, è possibile trovare facilmente tutti i membri del modello del ciclo del fatturato.
+
+>[!NOTE]
+>
+>**Prerequisiti**
+>
+>[Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+
+1. Con lo smart list selezionato, fare clic sulla scheda **Smart List** .
+
+   ![](assets/image2015-4-29-14-3a6-3a36.png)
+
+1. Individuare il filtro **Membro del modello** di ricavi e trascinarlo nell&#39;area di lavoro.
+
+   ![](assets/image2015-4-29-14-3a12-3a33.png)
+
+1. Selezionare un **modello**.
+
+   ![](assets/image2015-5-13-18-3a2-3a23.png)
+
+   In questo modo tutti i lead nel modello, indipendentemente dal palco. In genere si desidera un passaggio specifico. Utilizzate invece il filtro seguente.
+
+1. Trovare il filtro **Revenue Stage **e trascinarlo nel quadro.
+
+   ![](assets/image2015-5-13-17-3a27-3a0.png)
+
+1. Selezionare uno **stage.**
+
+   ![](assets/image2015-5-13-17-3a31-3a9.png)
+
+1. Passate alla scheda **Lead** per visualizzare i risultati.
+
+   ![](assets/2.png)
+
+   >[!TIP]
+   >
+   >Non hai bisogno di entrambi i filtri, scegli quello che ti serve. Stiamo solo mostrando a entrambi di essere meticolosi. ![(sorridi)](assets/smile.svg) >
+
+   >[!CAUTION]
+   >
+   >Se l’area di un lead viene modificata da una campagna esterna durante la creazione iniziale del lead, un’attività non viene registrata nel database. Questo significa che il lead non sarà incluso nel filtro per elenchi avanzati.
+
