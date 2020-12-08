@@ -1,0 +1,109 @@
+---
+unique-page-id: 14745611
+description: Aggiungi a campagna di marketing - Documenti Marketo - Documentazione prodotto
+title: Aggiungi a campagna di marketing
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '340'
+ht-degree: 0%
+
+---
+
+
+# Aggiungi a campagna di marketing {#add-to-marketing-campaign}
+
+>[!NOTE]
+>
+>**Prerequisiti**
+>
+>[Rendere una campagna visibile agli utenti di vendita](http://docs.marketo.com/x/NwDh)
+
+## Aggiunta di individui a una campagna {#add-individuals-to-a-campaign}
+
+>[!NOTE]
+>
+>Per aggiungere una persona a una campagna Marketo da Sales Connect, è necessario che il Marketing Connect della persona disponga dell&#39;ID lead Marketo. [Scopri come acquisire gli ID Marketo qui](http://docs.marketo.com/x/CQXLAQ).
+
+1. Fate clic sulla scheda **Persone** .
+
+   ![](assets/one-3.png)
+
+1. Trova i contatti da aggiungere.
+
+   ![](assets/two-3.png)
+
+1. Fate clic sulla casella di controllo per selezionare i contatti.
+
+   ![](assets/three-3.png)
+
+1. Fate clic su **Aggiungi selezionato a campagna**.
+
+   ![](assets/four-3.png)
+
+1. Dato che state aggiungendo a una campagna Marketing, saltate selezionando un indirizzo &quot;da&quot;. È tuttavia possibile scegliere di aggiungere altri contatti. Se scegliete di farlo, fate clic su Singoli e digitateli. Al termine, fate clic su **Avanti** .
+
+   ![](assets/five-2.png)
+
+1. Fate clic su **Marketing Campaign**.
+
+   ![](assets/six-1.png)
+
+1. Fate clic sul menu a discesa Aree di lavoro e scegliete l’area di lavoro che contiene la campagna alla quale desiderate aggiungere il gruppo.
+
+   ![](assets/seven-1.png)
+
+   >[!NOTE]
+   >
+   >Se non trovi l&#39;area di lavoro desiderata, accertati che sia disponibile tramite la pagina di accesso al team marketing.
+
+1. Selezionate la campagna desiderata e fate clic su **Avanti**.
+
+   ![](assets/eight.png)
+
+1. Vengono visualizzati i contatti idonei. Fate clic su **Start** per aggiungerli.
+
+   ![](assets/nine.png)
+
+## Aggiunta di un gruppo a una campagna {#add-a-group-to-a-campaign}
+
+1. Fate clic sulla scheda **Persone** .
+
+   ![](assets/one-3.png)
+
+1. In Gruppi personali, selezionate il gruppo da aggiungere a una campagna.
+
+   ![](assets/eleven.png)
+
+1. Fate clic su **Aggiungi gruppo a campagna**.
+
+   ![](assets/twelve.png)
+
+1. Dato che state aggiungendo a una campagna Marketing, saltate selezionando un indirizzo &quot;da&quot;. È tuttavia possibile scegliere di aggiungere altri contatti. Se scegliete di farlo, fate clic su Singoli e digitateli. Al termine, fate clic su **Avanti** .
+
+   ![](assets/thirteen.png)
+
+1. Selezionate **Marketing Campaign**.
+
+   ![](assets/six-1.png)
+
+   >[!NOTE]
+   >
+   >Per aggiungere una persona a una campagna Marketo da Sales Connect, è necessario che il Marketing Connect della persona disponga dell&#39;ID lead Marketo. [Scopri come acquisire gli ID Marketo qui](http://docs.marketo.com/x/CQXLAQ).
+
+1. Fate clic sul menu a discesa Aree di lavoro e scegliete l’area di lavoro che contiene la campagna alla quale desiderate aggiungere il gruppo.
+
+   ![](assets/seven-1.png)
+
+   >[!NOTE]
+   >
+   >Se non trovi l&#39;area di lavoro desiderata, accertati che sia disponibile tramite la pagina di accesso al team marketing.
+
+1. Selezionate la campagna desiderata e fate clic su **Avanti**.
+
+   ![](assets/eight.png)
+
+1. Vengono visualizzati i contatti idonei. Fate clic su **Start** per aggiungerli.
+
+   ![](assets/nine.png)
+
