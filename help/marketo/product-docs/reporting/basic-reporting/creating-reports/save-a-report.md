@@ -1,0 +1,46 @@
+---
+unique-page-id: 7511980
+description: Salva un rapporto - Documenti Marketo - Documentazione del prodotto
+title: Salva un rapporto
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 0%
+
+---
+
+
+# Salva un rapporto {#save-a-report}
+
+A volte può essere necessario salvare un rapporto predefinito per visualizzarlo di nuovo in seguito. Ecco come farlo:
+
+1. Andate all&#39;area **Analytics** .
+1. ![](assets/image2015-4-30-11-3a50-3a5.png)
+
+1. Selezionare un tipo [di](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)rapporto.
+
+   ![](assets/image2015-4-20-16-3a57-3a42.png)
+
+1. Fare clic su **Azioni report **e selezionare **Salva con nome**.
+
+   ![](assets/image2015-4-20-17-3a4-3a11.png)
+
+1. **Salva in** una posizione e seleziona una **cartella**.
+
+   ![](assets/image2015-4-20-17-3a33-3a25.png)
+
+1. **Denominate** il rapporto e fate clic su **Salva**.
+
+   ![](assets/image2015-4-20-17-3a34-3a57.png)
+
+   Fantastico! Il rapporto salvato verrà ora visualizzato nella struttura ad albero.
+
+   ![](assets/image2015-4-21-11-3a12-3a40.png)
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>Scopri come [duplicare un report per raggruppare i report](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+
