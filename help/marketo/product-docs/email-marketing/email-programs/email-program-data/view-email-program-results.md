@@ -1,0 +1,47 @@
+---
+unique-page-id: 2951167
+description: Visualizza risultati del programma e-mail - Documenti Marketo - Documentazione del prodotto
+title: Visualizza risultati del programma e-mail
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 0%
+
+---
+
+
+# Visualizza risultati del programma e-mail {#view-email-program-results}
+
+Come la scheda Risultati nelle campagne intelligenti, potete visualizzare le stesse informazioni nei programmi e-mail.
+
+1. Vai a Attività **** di marketing.
+
+   ![](assets/login-marketing-activities-2.png)
+
+1. Trova e seleziona il tuo programma e-mail.
+
+   ![](assets/selectemailprogram3.jpg)
+
+   >[!NOTE]
+   >
+   >Se il programma e-mail è già in esecuzione, verrete indirizzati direttamente al dashboard del programma e-mail.
+
+1. In **Visualizza**, selezionare **Pannello di controllo Campaign**.
+
+   ![](assets/controlpanelview.jpg)
+
+1. Nella sezione **Pubblico** , fate clic su **Visualizza risultati**.
+
+   ![](assets/audiencetile.jpg)
+
+   Ce l&#39;avete!
+
+   ![](assets/image2014-9-22-11-3a15-3a49.png)
+
+>[!NOTE]
+>
+>**Tubo profondo**
+>
+>Vuoi saperne di più sui programmi [](http://docs.marketo.com/display/docs/email+program+actions)e-mail?
+
