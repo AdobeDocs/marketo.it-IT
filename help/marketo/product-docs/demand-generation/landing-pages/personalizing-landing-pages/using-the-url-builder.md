@@ -1,0 +1,42 @@
+---
+unique-page-id: 2359801
+description: Utilizzo di URL Builder - Marketo Docs - Documentazione prodotto
+title: Utilizzo di URL Builder
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '188'
+ht-degree: 0%
+
+---
+
+
+# Utilizzo di URL Builder {#using-the-url-builder}
+
+URL Builder consente di creare URL in grado di compilare i campi dei moduli nascosti Marketo.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+
+>[!NOTE]
+>
+>**Prerequisiti**
+>
+>Scoprite come creare campi nascosti nei moduli e modificarne le impostazioni in [Impostare un campo modulo come nascosto](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
+
+1. Selezionate una pagina di destinazione, fate clic su Azioni **pagina di** destinazione, passate il puntatore del mouse su Strumenti **** URL, quindi fate clic su **URL Builder**.
+
+   ![](assets/image2014-9-18-13-3a5-3a19.png)
+
+1. Selezionate i campi da usare, immettete il valore e fate clic su **Aggiorna URL**.
+
+   ![](assets/image2014-9-18-13-3a5-3a28.png)
+
+   >[!NOTE]
+   >
+   >Se nel modulo non sono disponibili campi, assicurarsi che i campi del modulo siano nascosti e che siano [impostati in modo da accettare i parametri](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter)URL.
+
+Ottimo lavoro! Ora potete copiare e incollare l’URL e usarlo sul Web.
