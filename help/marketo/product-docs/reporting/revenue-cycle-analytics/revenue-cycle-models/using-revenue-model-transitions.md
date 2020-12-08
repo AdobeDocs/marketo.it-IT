@@ -1,0 +1,69 @@
+---
+unique-page-id: 4718672
+description: Utilizzo delle transizioni dei modelli di ricavi - Documenti Marketo - Documentazione del prodotto
+title: Utilizzo delle transizioni dei modelli di ricavi
+translation-type: tm+mt
+source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+workflow-type: tm+mt
+source-wordcount: '216'
+ht-degree: 0%
+
+---
+
+
+# Utilizzo delle transizioni dei modelli di ricavi {#using-revenue-model-transitions}
+
+>[!NOTE]
+>
+>**Prerequisiti**
+>
+>[Creare un nuovo modello di ricavi](create-a-new-revenue-model.md)
+
+Quando si crea il modello e si selezionano e si organizzano le fasi di inventario, è ora di impostare le transizioni.
+
+![](assets/one-2.png)
+
+1. Fate clic con il pulsante destro del mouse (potete anche fare doppio clic) su una delle frecce per iniziare e selezionate **Modifica transizione**.
+
+   ![](assets/two-2.png)
+
+   >[!NOTE]
+   >
+   >Non è possibile modificare le regole di transizione &#39;Anonymous ⇒ Known&#39;.
+
+1. Viene aperta una nuova scheda per la transizione selezionata.   ![](assets/three-1.png)
+1. Le transizioni controllano il modo in cui i lead si spostano tra le fasi. Trascinate l’attivatore (o filtro) desiderato da destra e rilasciatelo ovunque sul quadro. In questo esempio, verrà selezionato il trigger Compilazione modulo.
+
+   >[!TIP]
+   >
+   >Poiché il modellatore delle entrate sta configurando l&#39;utente per il reporting, è consigliabile che le transizioni includano sempre attivatori. In questo modo, i rapporti rifletteranno la velocità reale del flusso di modello/stadio. I filtri possono essere aggiunti con i trigger per ulteriori vincoli.
+
+   ![](assets/four-2.png)
+
+1. Scegliete i parametri per il trigger/filtro selezionato.
+
+   ![](assets/five-2.png)
+
+1. Per tornare al modello, fare clic su **Modeler**.
+
+   ![](assets/six.png)
+
+1. Nella parte inferiore dello schermo vengono ora visualizzate le regole di transizione.
+
+   ![](assets/seven.png)
+
+1. Dopo aver configurato le regole per tutte le transizioni, fai clic su **Convalida** per verificare.
+
+   ![](assets/eight.png)
+
+1. Se eseguito correttamente, verrà visualizzato il seguente messaggio.
+
+   ![](assets/nine.png)
+
+Ben fatto! Le transizioni del modello sono state modificate correttamente.
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>[Approvare/annullare l&#39;approvazione di un modello di ricavi](approve-unapprove-a-revenue-model.md)
