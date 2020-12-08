@@ -1,0 +1,74 @@
+---
+unique-page-id: 2359608
+description: Cambia la famiglia di font del modulo - Marketo Docs - Documentazione prodotto
+title: Modificare la famiglia di font del modulo
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '146'
+ht-degree: 0%
+
+---
+
+
+# Modificare la famiglia di font del modulo {#change-the-form-font-family}
+
+Google Fonts è fantastico, e li abbiamo creati direttamente nell&#39;editor di moduli. Guardate!
+
+>[!NOTE]
+>
+>Questa impostazione interessa l’etichetta del modulo, il testo di input e qualsiasi testo RTF.
+
+1. Vai a **Marketing** **Activities**.
+
+   ![](assets/login-marketing-activities.png)
+
+1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+
+   ![](assets/image2014-9-15-15-3a47-3a27.png)
+
+1. In **Impostazioni** **modulo**, selezionare **Impostazioni**.
+
+   ![](assets/image2014-9-15-15-3a47-3a56.png)
+
+1. Selezionate la famiglia **di** font desiderata.
+
+   >[!TIP]
+   >
+   >Sono disponibili per l&#39;uso molti [Google Fonts](http://www.google.com/fonts) .
+
+   ![](assets/image2014-9-15-16-3a0-3a8.png)
+
+1. Fare clic su **Fine**.
+
+   ![](assets/image2014-9-15-16-3a0-3a15.png)
+
+1. Fate clic su **Approva e chiudi**.
+
+   >[!NOTE]
+   >
+   >Il modulo deve essere approvato per essere utilizzato sulle pagine di destinazione.
+
+   ![](assets/image2014-9-15-16-3a1-3a28.png)
+
+   >[!NOTE]
+   >
+   >**Promemoria**
+   >
+   >
+   >Ricordare di approvare la bozza della pagina di destinazione creata dalle modifiche al modulo.
+
+   ![](assets/image2014-9-15-16-3a2-3a1.png)
+
+Vedere quanto era semplice modificare la famiglia di font in un modulo? Ora che questo è fatto, impariamo a modificare la dimensione del font del modulo.
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>* [Modifica delle dimensioni del font del modulo](change-the-form-font-size.md)
+
+>
+
+
+
