@@ -1,0 +1,31 @@
+---
+unique-page-id: 7504060
+description: Eliminazione di una presentazione - Documenti Marketo - Documentazione prodotto
+title: Eliminazione di una presentazione
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 0%
+
+---
+
+
+# Eliminazione di una presentazione {#delete-a-presentation}
+
+A volte puoi avere troppe cose buone. Eliminate vecchie presentazioni per fare spazio a nuove!
+
+1. Selezionate una presentazione.
+
+   ![](assets/image2015-3-26-12-3a26-3a41.png)
+
+1. Fare clic con il pulsante destro del mouse e selezionare **Elimina**.
+
+   ![](assets/image2015-3-26-12-3a26-3a51.png)
+
+1. Fate clic su **Elimina** per confermare.
+
+   ![](assets/image2015-3-20-16-3a21-3a10.png)
+
+   Poca! Fuori dalla vista, fuori dalla mente.
+
