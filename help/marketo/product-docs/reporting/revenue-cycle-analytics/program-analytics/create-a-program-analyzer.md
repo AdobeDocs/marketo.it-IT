@@ -1,0 +1,84 @@
+---
+unique-page-id: 2360399
+description: Creare un analizzatore di programma - Documenti Marketo - Documentazione di prodotto
+title: Creare un analizzatore di programmi
+translation-type: tm+mt
+source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 0%
+
+---
+
+
+# Creare un analizzatore di programmi {#create-a-program-analyzer}
+
+Scopri quali programmi e canali ti stanno dando il più grande vantaggio per il tuo budget di marketing. Utilizzare l&#39;analizzatore di programma per analizzare e confrontare ogni costo e ritorno in dettaglio, per programma o per canale.
+
+>[!NOTE]
+>
+>**Promemoria**
+>
+>Per ottenere buoni dati da un analizzatore di programma, assicurarsi che i contatti CRM abbiano ruoli nelle opportunità, e che i tuoi programmi Marketo siano completamente configurati, con costi [di](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)periodo, stati di programma e successo definiti.
+
+>[!TIP]
+>
+>Per far apparire i programmi senza costi nell&#39;analizzatore di programma, [impostare il costo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) del periodo su $0.
+
+1. Fate clic sulla sezione Analisi.
+
+   ![](assets/image2014-9-17-13-3a7-3a1.png)
+
+1. Fate clic sulla sezione Analisi programma.
+
+   ![](assets/program-analyzer-icon-hand.png)
+
+1. Viene visualizzato l&#39;analizzatore di programma standard. Apportate le modifiche necessarie.
+
+   ![](assets/image2016-10-31-15-3a3-3a9.png)
+
+1. Fate clic sulla scheda Configurazione per aggiungere e personalizzare i filtri.
+
+   ![](assets/image2016-10-31-15-3a25-3a57.png)
+
+1. Ad esempio, per personalizzare il filtro Costo periodo, fare doppio clic su di esso.
+
+   ![](assets/image2016-10-31-15-3a33-3a2.png)
+
+1. Selezionare il periodo di tempo da analizzare e fare clic su Applica.
+
+   ![](assets/image2016-10-31-15-3a30-3a32.png)
+
+   >[!TIP]
+   >
+   >Per selezionare un intervallo specifico, selezionate **Personalizzato** e utilizzate i campi **Da** e **A** .
+
+1. Per salvare il nuovo analizzatore personalizzato, nel menu a discesa Azioni analizzatore, selezionare Salva con nome.
+
+   ![](assets/image2016-10-31-15-3a5-3a8.png)
+
+1. Selezionate il percorso in cui salvare l’analizzatore personalizzato, utilizzando i menu a discesa Salva in e Cartella. Denominate il nuovo analizzatore personalizzato. Una descrizione è facoltativa. Fate clic su Salva.
+
+   ![](assets/image2016-10-31-15-3a7-3a19.png)
+
+1. Ce l&#39;hai fatta! Fare clic sulla scheda principale per iniziare a esplorare e confrontare i programmi e i canali.
+
+![](assets/november-custom-report.png)
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>* [Confronto dell&#39;efficacia dei canali con l&#39;analisi dei programmi](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Confronta l&#39;efficacia del programma con Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Esplora i dettagli di programma e canale con il programma Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Clona un analizzatore di programma](clone-a-program-analyzer.md)
+
+
+>[!NOTE]
+>
+>Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la [differenza tra l&#39;attribuzione](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+
+>[!NOTE]
+>
+>Ulteriori informazioni in [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
