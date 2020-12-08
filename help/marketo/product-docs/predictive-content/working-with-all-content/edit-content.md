@@ -1,0 +1,33 @@
+---
+unique-page-id: 11384653
+description: Edit Content - Marketo Docs - Documentazione prodotto
+title: Modifica contenuto
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
+
+---
+
+
+# Modifica contenuto {#edit-content}
+
+È possibile apportare alcune modifiche agli elenchi nella pagina Tutto il contenuto.
+
+1. Nella pagina **Tutto il contenuto** , passate il puntatore del mouse sulla riga del titolo da modificare e fate clic sull’icona di modifica.
+
+   ![](assets/image2017-10-3-9-3a8-3a1.png)
+
+1. Apportate modifiche al Titolo contenuto e all’URL contenuto (la casella di controllo Parametri query è facoltativa).
+
+   ![](assets/edit-content-2.png)
+
+1. Fare clic sul campo **Categorie** per aggiungere o rimuovere categorie. Selezionatene di nuovi dal menu a discesa. Per rimuovere una categoria attualmente selezionata, fai clic sulla relativa **X**.
+
+   ![](assets/edit-content-3.png)
+
+1. Selezionare la casella **Approva per l&#39;approvazione del contenuto** predittivo oppure deselezionare la casella per annullare l&#39;approvazione. Al termine, fate clic su **Salva** .
+
+   ![](assets/edit-content-4.png)
+
