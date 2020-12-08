@@ -1,0 +1,61 @@
+---
+unique-page-id: 1146995
+description: Utilizzare i token nei passaggi di flusso - Documenti Marketo - Documentazione prodotto
+title: Utilizzare i token nei passaggi di flusso
+translation-type: tm+mt
+source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+workflow-type: tm+mt
+source-wordcount: '203'
+ht-degree: 0%
+
+---
+
+
+# Utilizzare i token nei passaggi di flusso {#use-tokens-in-flow-steps}
+
+>[!NOTE]
+>
+>**Prerequisiti**
+>
+>* [Aggiunta di un passaggio di flusso a una campagna intelligente](add-a-flow-step-to-a-smart-campaign.md)
+
+
+Un token è una variabile. Potete utilizzarlo nelle e- [mail](https://docs.marketo.com/pages/viewpage.action?pageId=557076), nelle pagine [di](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)destinazione e nelle campagne [](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) intelligenti per semplificare la vostra vita. È possibile utilizzare i token [](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) personali (token personalizzati) in passaggi di flusso, collegamenti Web, e-mail e pagine di destinazione.  È possibile utilizzare i token per includere il contenuto variabile nei seguenti passaggi di flusso:
+
+* Modifica valore dati
+* Momento interessante
+* Passaggi campagna Salesforce (aggiungere, rimuovere, modificare lo stato)
+* Crea attività
+* Invia avviso (solo nelle campagne di attivazione)
+
+>[!NOTE]
+>
+>**Disponibilità**
+>
+>Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+
+1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie di token. ![](assets/image2014-9-22-14-3a3-3a17.png)>
+
+   >[!NOTE]
+   >
+   >**Tubo profondo**
+   >
+   >Consulta Panoramica [](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) token per un elenco di diversi token disponibili.
+
+1. Continuate a digitare fino a trovare il token desiderato e fate clic per selezionarlo.
+
+   ![](assets/image2014-9-22-14-3a3-3a48.png)
+
+   >[!TIP]
+   >
+   >Più token possono essere utilizzati nei passaggi del flusso Momento interessante, Crea attività e Invia avviso.
+
+   >[!NOTE]
+   >
+   >**Articoli correlati**
+   >
+   >* [Gestione dei token personali](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+   >* [Informazioni sui token personali in un programma](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+
+
+Fantastico! I dati verranno estratti dal token quando viene eseguita la campagna intelligente.
