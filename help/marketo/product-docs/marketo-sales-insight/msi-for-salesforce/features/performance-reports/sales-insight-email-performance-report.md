@@ -1,0 +1,67 @@
+---
+unique-page-id: 4720314
+description: Rapporto sulle prestazioni delle e-mail in Sales Insight - Documenti Marketo - Documentazione del prodotto
+title: Rapporto sulle prestazioni delle e-mail in base alle informazioni sulle vendite
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
+
+---
+
+
+# Rapporto sulle prestazioni delle e-mail in base alle informazioni sulle vendite {#sales-insight-email-performance-report}
+
+Visualizzare le prestazioni dei messaggi e-mail inviati tramite Salesforce, Microsoft Dynamics o un plug-in Gmail o Outlook.
+
+## Genera un report {#generate-a-report}
+
+1. Fate clic su **Analytics**.
+
+   ![](assets/mainnav-analyticshand-small.png)
+
+1. Fai clic su **Sales Insight Email Performance**(Prestazioni e-mail in visualizzazione vendite).
+
+   ![](assets/analytics-salesemailreporthand.png)
+
+1. Fate clic sulla scheda **Configurazione** e scegliete i valori desiderati.
+
+   ![](assets/three.png)
+
+1. Fate clic sulla scheda **Rapporto** .
+
+   ![](assets/image2014-12-9-12-3a5-3a35.png)
+
+   Fantastico! Ora puoi vedere come sono state inviate le e-mail dal team di vendita.
+
+   >[!NOTE]
+   >
+   >Lo stato consegnato non viene acquisito per le e-mail inviate tramite Sales Insight e non sarà incluso in questo rapporto o nei registri delle attività.
+
+>[!TIP]
+>
+>Fate clic sul nome di un messaggio e-mail per aprirlo nel visualizzatore di anteprima e-mail.
+
+## Raggruppa per rappresentante vendite {#group-by-sales-rep}
+
+Puoi visualizzare questo rapporto raggruppato per rappresentante commerciale modificando le impostazioni.
+
+1. Fate clic su **Configurazione**. Fate doppio clic su **E-mail**.
+
+   ![](assets/image2014-12-9-12-3a12-3a19.png)
+
+1. Selezionate Raggruppa e-mail per rappresentante **commerciale**.
+
+   ![](assets/image2014-12-9-12-3a16-3a42.png)
+
+1. Fate clic su **Salva**.
+
+   ![](assets/image2014-12-9-12-3a17-3a39.png)
+
+1. Fate clic sulla scheda **Rapporto** .
+
+   ![](assets/image2014-12-9-12-3a19-3a7.png)
+
+   Fantastico, eh? Ora puoi vedere le prestazioni delle e-mail raggruppate per rappresentante commerciale.
+
