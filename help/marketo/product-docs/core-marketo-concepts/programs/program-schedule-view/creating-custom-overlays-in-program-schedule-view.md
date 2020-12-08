@@ -1,0 +1,37 @@
+---
+unique-page-id: 1147251
+description: Creazione di sovrapposizioni personalizzate in visualizzazione Pianificazione programma - Documenti Marketo - Documentazione prodotto
+title: Creazione di sovrapposizioni personalizzate in visualizzazione Pianificazione programma
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 0%
+
+---
+
+
+# Creazione di sovrapposizioni personalizzate in visualizzazione Pianificazione programma {#creating-custom-overlays-in-program-schedule-view}
+
+Potete creare sovrapposizioni personalizzate per visualizzare le voci pertinenti alle vostre esigenze.
+
+1. Fai clic sul menu a discesa **Agenda** .
+
+   ![](assets/image2014-9-24-10-3a20-3a11.png)
+
+1. Selezionate **Sovrapposizioni**.
+
+   ![](assets/image2014-9-24-10-3a20-3a17.png)
+
+1. Selezionate i tipi di voci che desiderate rendere visibili nella sovrapposizione.
+
+   ![](assets/image2014-9-24-10-3a20-3a26.png)
+
+1. Potete anche filtrare in base ai tag [](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)del programma.
+
+   ![](assets/image2014-9-24-10-3a20-3a32.png)
+
+   Fantastico. Ora la sovrapposizione visualizzerà solo le voci definite.
+
+   ![](assets/image2014-9-24-10-3a20-3a37.png)
+
