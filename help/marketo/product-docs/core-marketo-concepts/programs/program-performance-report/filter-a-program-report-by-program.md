@@ -1,0 +1,57 @@
+---
+unique-page-id: 2360047
+description: Filtrare un rapporto sul programma per programma - Marketo Docs - Documentazione sul prodotto
+title: Filtrare un rapporto sul programma per programma
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 0%
+
+---
+
+
+# Filtrare un rapporto sul programma per programma {#filter-a-program-report-by-program}
+
+Concentrare il report [sulle prestazioni del](create-a-program-performance-report.md) programma su programmi specifici per confrontare le loro prestazioni.
+
+1. Vai a **Marketing** **Activities** (o **Analytics**).
+
+   ![](assets/login-marketing-activities-3.png)
+
+1. Selezionare il rapporto sulle prestazioni del programma.
+
+   ![](assets/image2014-9-23-16-3a4-3a4.png)
+
+1. Fate clic sulla scheda **Configurazione** e trascinate su **Programmi**.
+
+   ![](assets/prospect3.jpg)
+
+1. Scegliete le cartelle e i programmi specifici da includere nel rapporto.
+
+   ![](assets/image2014-9-23-16-3a5-3a5.png)
+
+   >[!TIP]
+   >
+   >Se selezionate una cartella, il rapporto includerà tutto ciò che contiene al momento dell&#39;esecuzione del rapporto.
+
+1. È tutto! Fare clic sulla scheda **Rapporto** per visualizzare *solo* i programmi selezionati nel rapporto.
+
+   ![](assets/image2014-9-23-16-3a5-3a41.png)
+
+   >[!NOTE]
+   >
+   >**Articoli correlati**
+   >
+   >    
+   >    
+   >    * [Filtrare un report del programma per tag](filter-a-program-report-by-tag.md)
+
+
+   >[!NOTE]
+   >
+   >**Tubo profondo**
+   >
+   >
+   >Scopri tutte le informazioni sui report in [Basic Reporting (Rapporti](http://docs.marketo.com/display/docs/basic+reporting)di base).
+
