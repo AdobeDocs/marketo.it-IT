@@ -1,17 +1,15 @@
 ---
 cloud: experience-cloud
-solution-title: Documenti legacy
-solution-hub-url: https://docs.marketo.com/
-solution-image: help/assets/experience-cloud-logo-24.png
-getting-started-title: Community
-getting-started-url: https://nation.marketo.com/
-tutorials-title: Marketo U
-tutorials-url: https://www.marketo.com/education/
+solution: Experience Cloud
+product: experience cloud
+type: Documentation
+mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.it-IT
+index: false
 translation-type: tm+mt
-source-git-commit: 2c1f87786f63e1f4b614deff4ce2d2c15ce9ca3d
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -21,12 +19,4 @@ ht-degree: 0%
 
 Il file metadata.md include metadati a livello di repo che passano ai file TOC.md della guida utente nella repo. Se desiderate modificare il contenuto metadata.md per qualsiasi guida utente, effettuate questa operazione in qualsiasi file TOC.md.
 
-| metadata | cosa |
-|--- |--- |
-| solution-title | Utilizzato nell&#39;intestazione dell&#39;articolo come collegamento |
-| solution-hub-url | Apre la pagina centrale helpx |
-| solution-icon | Visualizza l&#39;icona della soluzione accanto al titolo della soluzione. Non ancora implementato |
-| getting-started | Link alla pagina di guida introduttiva |
-| tutorials-url | Collegamento alle esercitazioni video: esercitazioni helpx o esercitazioni KT |
-| mini-livelli | Determina il numero di livelli di intestazione visualizzati nella barra a destra. il valore predefinito è 2 |
-| git-repo | Specifica la posizione del repo principale per uso interno |
+Consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**.
