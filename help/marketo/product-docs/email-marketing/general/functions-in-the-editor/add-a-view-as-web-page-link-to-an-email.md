@@ -1,0 +1,42 @@
+---
+unique-page-id: 1900560
+description: Aggiungere un collegamento Visualizza come pagina Web a un'e-mail - Documenti Marketo - Documentazione prodotto
+title: Aggiunta di un collegamento di visualizzazione come pagina Web a un indirizzo e-mail
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 0%
+
+---
+
+
+# Aggiunta di un collegamento di visualizzazione come pagina Web a un indirizzo e-mail {#add-a-view-as-web-page-link-to-an-email}
+
+Le e-mail dispongono di funzionalità limitate (CSS limitato e nessun JavaScript o moduli). Utilizzate Visualizza come pagina Web per fornire un collegamento per visualizzare l’e-mail in un browser. Questo cookie il destinatario utilizza il Munchkin.
+
+>[!NOTE]
+>
+>Quando si crea un nuovo messaggio e-mail, Visualizza come pagina Web non è abilitato. Se lo attivate e duplicate, questa impostazione verrà copiata.
+
+1. Selezionate il messaggio e-mail e fate clic su **Modifica bozza**.
+
+   ![](assets/one-5.png)
+
+1. Nell’editor e-mail, fate clic su Impostazioni **e-** mail.
+
+   ![](assets/two-5.png)
+
+1. Selezionate la casella **Includi visualizzazione come pagina** Web e fate clic su **Salva**.
+
+   ![](assets/three-4.png)
+
+Ecco un esempio di come si presenta:
+
+![](assets/four-3.png)
+
+>[!TIP]
+>
+>Il collegamento Visualizza come pagina Web verrà visualizzato solo dopo l’invio del messaggio e-mail. Inviati un test per visualizzarlo.
+
+Per modificare il testo predefinito, vedere [Modificare il messaggio](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)&quot;Visualizza come pagina Web&quot;.
