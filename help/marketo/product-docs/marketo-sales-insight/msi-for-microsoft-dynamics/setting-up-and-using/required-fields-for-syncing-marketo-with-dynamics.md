@@ -1,0 +1,63 @@
+---
+unique-page-id: 11375827
+description: Campi obbligatori per la sincronizzazione del Marketo con Dynamics - Marketo Docs - Documentazione prodotto
+title: Campi obbligatori per la sincronizzazione del marketing con Dynamics
+translation-type: tm+mt
+source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+workflow-type: tm+mt
+source-wordcount: '180'
+ht-degree: 0%
+
+---
+
+
+# Campi obbligatori per la sincronizzazione del marketing con Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
+
+Questi campi *devono* essere sincronizzati con Marketo sia per il lead che per il contatto per il funzionamento di Sales Insight:
+
+* Priorità
+* Urgenza
+* Punteggio relativo
+
+Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, controllate che i campi siano sincronizzati sia per **Lead** che per **Contatto**. In caso contrario, aggiungeteli.
+
+Questo è il modo in cui verificare e aggiungere campi di sincronizzazione.
+
+1. Vai ad Admin e fai clic su Microsoft Dynamics.
+
+   ![](assets/image2015-10-9-9-3a50-3a9.png)
+
+1. Fate clic su Modifica in Dettagli sincronizzazione campo.
+
+   ![](assets/image2015-10-9-9-3a52-3a23.png)
+
+1. In Lead, seleziona la casella Priorità.
+
+   ![](assets/image2016-6-8-13-3a33-3a50.png)
+
+1. A questo punto, scorrete verso il basso e selezionate la casella di controllo Urgenza...
+
+   ![](assets/image2016-6-8-13-3a35-3a22.png)
+
+1. ...e la casella Valutazione relativa.
+
+   ![](assets/image2016-6-8-13-3a36-3a1.png)
+
+1. Quindi, selezionare le caselle di controllo relative a Priorità, Urgenza e Valutazione relativa per contatto.
+
+   ![](assets/image2016-6-8-13-3a36-3a36.png)
+
+1. Fate clic su Salva.
+
+   ![](assets/image2016-6-8-13-3a41-3a27.png)
+
+>[!NOTE]
+>
+>Prima di verificare di aver risolto il problema, attendete almeno 10 minuti prima di eseguire la sincronizzazione.
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>[Impostazione di stelle e fiamme per i record lead/contatto](http://docs.marketo.com/x/BICMAg)
+
