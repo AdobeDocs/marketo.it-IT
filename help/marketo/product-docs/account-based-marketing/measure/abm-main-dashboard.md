@@ -1,0 +1,43 @@
+---
+unique-page-id: 11380783
+description: Dashboard principale di ABM - Documenti Marketo - Documentazione prodotto
+title: Pannello principale ABM
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 0%
+
+---
+
+
+# Pannello principale ABM {#abm-main-dashboard}
+
+Il dashboard principale fornisce un riepilogo delle attività di marketing basate sull&#39;account. Potete visualizzare gli account o gli elenchi di account di destinazione che mostrano il successo, e quelli che necessitano di maggiore attenzione.
+
+![](assets/one.png)
+
+Per filtrare in base all’elenco degli account, fate clic sull’elenco a discesa Visualizza.
+
+![](assets/two.png)
+
+...ed effettuare una selezione. In questo esempio, scegliamo la nostra lista di account &quot;High Tech&quot;.
+
+![](assets/three.png)
+
+Per visualizzare il dashboard [Elenco](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)account, fate clic sul nome dell&#39;elenco account selezionato...
+
+![](assets/four.png)
+
+...e il dashboard viene caricato.
+
+![](assets/five.png)
+
+Se invece di visualizzare il Pannello elenco account che desiderate espandere in un account denominato, fate clic su **Maggiori dettagli** sotto il nome...
+
+![](assets/six.png)
+
+...e visualizzare le informazioni relative all&#39;account [denominato](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+
+![](assets/seven.png)
+
