@@ -1,0 +1,43 @@
+---
+unique-page-id: 4720075
+description: Visualizza campagne Web da un'etichetta specifica - Documenti Marketo - Documentazione prodotto
+title: Visualizzazione di campagne Web da un'etichetta specifica
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 0%
+
+---
+
+
+# Visualizzazione di campagne Web da un&#39;etichetta specifica {#view-web-campaigns-from-a-specific-label}
+
+Stai cercando di visualizzare e filtrare le campagne in base a un&#39;etichetta specifica?
+
+## Filtra per etichette esistenti {#filter-by-existing-labels}
+
+1. Vai a **Web** **Campaigns**.
+
+   ![](assets/web-campaigns-hand-4.jpg)
+
+1. Nell&#39;elenco a discesa delle etichette, selezionare l&#39;etichetta desiderata.
+
+   ![](assets/web-campaigns-my-campaigns-dropdown-1.jpg)
+
+1. Ora vengono visualizzate solo le campagne associate all&#39;etichetta selezionata?
+
+   ![](assets/web-campaigns-label-showing-1.jpg)
+
+>[!NOTE]
+>
+>**Articoli correlati**
+>
+>* [Etichettare le campagne Web](label-your-web-campaigns.md)
+>* [Visualizzare i segmenti da un’etichetta specifica](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Etichettare i segmenti](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+
+>
+
+
+
