@@ -2,9 +2,9 @@
 title: tipi di pubblico di riferimento
 description: Guida introduttiva all'audience predittiva
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ Le prestazioni dei modelli AI/ML dipendono dai dati contenuti nell&#39;abbonamen
 
 Predictive Audiences viene incluso automaticamente e attivato per le istanze che utilizzano i bundle di prezzo Prime o Ultimate. Per ulteriori informazioni su come accedere a questa funzione, contattare il Customer Success Manager.
 
-1. Una volta aggiunta la funzione all&#39;istanza, andate alla pagina Pubblico [!UICONTROL ****] predittivo nell&#39;area [!UICONTROL **Amministratore**] di [!DNL Marketo Classic].
+1. Dopo aver aggiunto la funzione all’istanza, passate alla **[!UICONTROL Predictive Audiences]** pagina nell’ **[!UICONTROL Admin]** area di [!DNL Marketo Classic].
 
-1. Selezionate [!UICONTROL **Abilita pubblico**] predittivo per attivare la funzione. Per completare la configurazione, potrebbero essere necessarie fino a 24 ore.
+1. Selezionare **[!UICONTROL Enable Predictive Audiences]** per attivare la funzione. Per completare la configurazione, potrebbero essere necessarie fino a 24 ore.
 
    ![Immagine uno](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
