@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-batch-campaign
 description: Definire un elenco avanzato per una campagna batch
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Gli elenchi avanzati sono il meccanismo utilizzato da Marketo per definire &quot;chi&quot; (quali persone) da includere, sia che si tratti di un rapporto, un elenco o una campagna intelligente. Di seguito viene illustrato come definire un elenco smart per una campagna batch.
 
-1. Scegliete una campagna intelligente, quindi fate clic su [!UICONTROL **Smart List**].
+1. Scegliete una campagna intelligente, quindi fate clic su **[!UICONTROL Smart List]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ Gli elenchi avanzati sono il meccanismo utilizzato da Marketo per definire &quot
    >
    >Potete eseguire una campagna intelligente su una persona alla volta in base agli eventi in diretta aggiungendo attivatori, che attivano la campagna in modalità Trigger.
 
-1. Fate clic sul menu a discesa e scegliete un operatore di filtro (ad es. [!UICONTROL **is**], not [!UICONTROL ****], etc.) per il filtro scelto.
+1. Fate clic sul menu a discesa e scegliete un operatore di filtro (ad es. **[!UICONTROL is]**, **[!UICONTROL is not]** ecc.) per il filtro scelto.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
