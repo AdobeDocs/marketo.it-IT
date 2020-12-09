@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Programmazione dei tipi di voce - Documenti Marketo - Documentazione prodotto
 title: Tipi di voci di visualizzazione programmati del programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Sono disponibili otto tipi di voci integrate che saranno visibili e utilizzabili
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare un tipo di voce personalizzato](create-custom-entry-types.md)
 
