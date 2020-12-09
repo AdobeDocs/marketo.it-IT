@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: Panoramica sulle e-mail - Documenti Marketo - Documentazione sui prodotti
 title: Panoramica sugli approfondimenti e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Fate clic sulle barre Metriche per tradurre i colori in numeri.
 
 Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere fino a 10 dimensioni personalizzate. [Le dimensioni](custom-dimensions-for-email-insights.md) personalizzate sono composte da segmentazioni e tag di programma.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Panoramica sull&#39;analisi degli approfondimenti e-mail](email-insights-analytics-overview.md)
 >* [Panoramica sulle e-mail Insights](email-insights-sends-overview.md)
