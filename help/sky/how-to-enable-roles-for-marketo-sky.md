@@ -2,9 +2,9 @@
 title: how-to-enable-roles-for-marketo-sky.md
 description: 'Come abilitare i ruoli per il Marketo Sky '
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 [!DNL Marketo] Gli amministratori possono abilitare i ruoli [!DNL Sky] nell&#39; [!UICONTROL Admin] area di [!DNL Marketo Classic].
 
-1. In [!DNL Marketo Classic], fai clic su [!UICONTROL **Admin**].
+1. In [!DNL Marketo Classic], fate clic **[!UICONTROL Admin]**.
 
    ![Immagine uno](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-1.png)
 
-1. Nella struttura ad albero, selezionare [!UICONTROL **Marketo Sky**].
+1. Nella struttura ad albero, selezionare **[!UICONTROL Marketo Sky]**.
 
    ![Immagine due](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![Immagine tre](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. I ruoli selezionati ora potranno accedere [!DNL Marketo Sky] tramite la sezione nel [!UICONTROL **mio markto**].
+1. I ruoli selezionati potranno ora accedere [!DNL Marketo Sky] tramite la sezione all&#39;interno della **[!UICONTROL My Marketo]**.
 
    ![Immagine quattro](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
