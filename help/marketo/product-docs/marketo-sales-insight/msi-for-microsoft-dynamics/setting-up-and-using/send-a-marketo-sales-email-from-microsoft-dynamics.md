@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: Invia un messaggio e-mail di vendita Marketo da Microsoft Dynamics - Documenti Marketo - Documentazione prodotto
 title: Invia un messaggio e-mail di vendita marketing da Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Il team di vendita può inviare e-mail e tenerne traccia per aprire e fare clic 
 
 Ben fatto! Ora sai come inviare le e-mail tracciate da Marketo direttamente da Microsoft Dynamics.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiunta di un lead/contatto a una campagna marketing da Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
