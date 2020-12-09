@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: Script di conversione per eventi personalizzati - Documenti Marketo - Documentazione prodotto
 title: Script di conversione per eventi personalizzati
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ In questo esempio sulla pagina Web è presente un pulsante con ID &quot;#myButto
 
 Fantastico! Il sito Web ora sta acquisendo obiettivi di promozione sociale personalizzati con Marketo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Specificare l&#39;obiettivo per l&#39;offerta di riferimento](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [Creare un&#39;offerta di riferimento](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
