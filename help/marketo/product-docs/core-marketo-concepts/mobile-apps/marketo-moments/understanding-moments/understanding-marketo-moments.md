@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Informazioni sui tempi di Marketo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui momenti di marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -153,9 +153,7 @@ Per ogni passaggio, puoi confermare o annullare un’azione. Se cambi idea, tocc
 
 Pronti per saperne di più?
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sulle schede del programma e-mail](understanding-email-program-cards.md)
 >* [Informazioni sulle schede evento](understanding-event-cards.md)
