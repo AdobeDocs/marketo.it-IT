@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Informazioni sulle schede di Analytics - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle schede Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ La scheda **Unsubscribes** mostra un rapporto di tendenza mensile relativo al ta
 
 Ora lo sai.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sui momenti di marketing](understanding-marketo-moments.md)
 >* [Informazioni sulle schede evento](understanding-event-cards.md)
