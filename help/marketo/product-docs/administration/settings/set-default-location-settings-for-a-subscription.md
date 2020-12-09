@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: Impostazione delle impostazioni di posizione predefinite per un'iscrizione - Documenti Marketo - Documentazione prodotto
 title: Impostazione delle impostazioni di posizione predefinite per una sottoscrizione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Se si modificano le impostazioni internazionali predefinite per gli utenti, è a
 
    Congratulazioni! Avete modificato le impostazioni di posizione per l&#39;iscrizione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Selezionare la lingua, le impostazioni internazionali e il fuso orario](select-your-language-locale-and-time-zone.md)
 
