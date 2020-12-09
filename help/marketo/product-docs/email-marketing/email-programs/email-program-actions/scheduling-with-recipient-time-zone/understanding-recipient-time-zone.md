@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: Fuso orario destinatario - Documenti Marketo - Documentazione prodotto
 title: Informazioni sul fuso orario del destinatario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Se non è ancora possibile determinare il fuso orario di un utente da una qualsi
 >
 >Marketo ricalcola automaticamente il fuso orario di una persona quando uno dei campi di input di cui sopra cambia.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Pianificazione dei programmi e-mail con il fuso orario del destinatario](schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
