@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: Crea nuova cartella campagna - Documenti Marketo - Documentazione prodotto
 title: Crea nuova cartella campagna
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Le cartelle delle campagne consentono di mantenere un’area di lavoro ordinata.
 
    Quando [create un nuovo programma](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), questa cartella della campagna verrà visualizzata come opzione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare un programma](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Creare una nuova campagna intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
