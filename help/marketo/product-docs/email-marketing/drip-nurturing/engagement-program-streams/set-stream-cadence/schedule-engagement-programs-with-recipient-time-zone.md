@@ -3,9 +3,9 @@ unique-page-id: 12982909
 description: Pianificazione dei programmi di coinvolgimento con il fuso orario del destinatario - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione dei programmi di coinvolgimento con il fuso orario del destinatario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Quando si [pianifica un flusso](https://docs.marketo.com/display/DOCS/Schedule+E
 
    ![](assets/image2017-12-5-13-3a56-3a21.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sul fuso orario del destinatario](../../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Imposta cadenza flusso](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
