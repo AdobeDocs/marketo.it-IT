@@ -3,9 +3,9 @@ unique-page-id: 1147068
 description: Filtra i risultati delle campagne intelligenti - Documenti Marketo - Documentazione prodotto
 title: Filtrare i risultati delle campagne intelligenti
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Filtrare i risultati delle campagne intelligenti {#filter-smart-campaign-results}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Visualizzare i risultati delle campagne intelligenti](view-smart-campaign-results.md)
 
