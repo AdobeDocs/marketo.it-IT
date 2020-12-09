@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Panoramica del plug-in di Account Insight - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del plug-in di Account Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Fate clic sul menu a discesa **Filtro** per filtrare in base a diversi tipi di a
 
 Roba fantastica!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Impostazione di Account Insight](set-up-account-insight.md)
 
