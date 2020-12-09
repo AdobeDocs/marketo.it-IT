@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Bounts rigidi e morbidi in e-mail - Marketo Docs - Documentazione prodotto
 title: Punti rigidi e morbidi nell'e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Un rimbalzo duro può rendere non valido l&#39;indirizzo e-mail di una persona q
 >
 >**FYI**
 >
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Classificazione rimbalzo {#bounce-classification}
 
@@ -37,9 +37,7 @@ Ci sono 5 stringhe di persona in Marketo correlate alla consegna delle e-mail co
 >
 >Quando una persona è contrassegnata come **e-mail non valida**, può essere reimpostata solo manualmente (cosa che consigliamo di fare solo se si sa per certo che la sua e-mail è valida) deselezionando la casella &quot;E-mail non valida&quot; nella scheda Informazioni persona del record.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Segui [questi passaggi](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) per creare un report sulle prestazioni dell&#39;e-mail, che genererà dati di rimbalzo.
 
