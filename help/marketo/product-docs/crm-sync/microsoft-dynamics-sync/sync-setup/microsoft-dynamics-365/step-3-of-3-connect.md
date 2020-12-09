@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Passaggio 3 di 3 - Connetti Microsoft Dynamics con Marketo (Online) - Marketo Docs - Documentazione prodotto
 title: Passaggio 3 di 3 - Connetti Microsoft Dynamics con Marketo (online)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Questo è l&#39;ultimo passaggio della sincronizzazione. Siamo quasi lì!
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Passaggio 1 di 3: Installazione della soluzione Marketo (online)](step-1-of-3-install.md)
    >
