@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-trigger-campaign
 description: Definire un elenco avanzato per una campagna di attivazione
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Fai in modo che una campagna intelligente venga eseguita su una persona alla volta in base agli eventi live aggiungendo attivatori.
 
-1. Scegliete una campagna intelligente, quindi fate clic su [!UICONTROL **Smart List**].
+1. Scegliete una campagna intelligente, quindi fate clic su **[!UICONTROL Smart List]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Fai in modo che una campagna intelligente venga eseguita su una persona alla vol
    >
    >Una campagna intelligente con trigger viene eseguita in modalità Trigger. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
 
-1. Fare clic sul menu a discesa e scegliere un operatore (ad es. [!UICONTROL **è**], non [!UICONTROL **è**], ecc.) per il trigger scelto.
+1. Fate clic sul menu a discesa e scegliete un operatore (ad es. **[!UICONTROL is]**, **[!UICONTROL is not]** ecc.) per il trigger scelto.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
