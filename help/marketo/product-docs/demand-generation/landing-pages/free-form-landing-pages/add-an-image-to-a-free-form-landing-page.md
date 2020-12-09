@@ -3,9 +3,9 @@ unique-page-id: 2359703
 description: Aggiungere un'immagine a una pagina di destinazione a forma libera - Marketo Docs - Documentazione prodotto
 title: Aggiungere un’immagine a una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Aggiungere un’immagine a una pagina di destinazione a forma libera {#add-an-image-to-a-free-form-landing-page}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungi immagini e file a Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
