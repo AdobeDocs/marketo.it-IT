@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Elenchi account - Documenti Marketo - Documentazione prodotto
 title: Elenchi account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Oltre agli elenchi degli account, puoi anche creare elenchi di account dinamici 
 
    ![](assets/six.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiunta di un account denominato esistente a un elenco account](named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Approfondimenti elenco account](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
