@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Utilizzo della pagina Dettagli persona - Marketo Docs - Documentazione prodotto
 title: Utilizzo della pagina Dettagli persona
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ La pagina dei dettagli della persona contiene tutte le informazioni che Marketo 
 >
 >**FYI**
 >
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Ottenere la pagina Dettagli persona {#getting-to-person-detail-page}
 
@@ -115,9 +115,7 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 >
 Ulteriori informazioni sui campi [gestiti](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)di sistema.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creazione di una scheda personalizzata per la pagina Dettagli persona](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 
