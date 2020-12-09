@@ -2,9 +2,9 @@
 title: activate-and-deactivate-stream-content
 description: Attivare e disattivare il contenuto del flusso
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attivate il
 
    ![Immagine uno](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Fare clic sulla scheda [!UICONTROL **Streams**] .
+1. Fate clic sulla **[!UICONTROL Streams]** scheda.
 
    ![Immagine due](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attivate il
 
    ![Immagine tre](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-3.png)
 
-1. Selezionate [!UICONTROL **Attiva**].
+1. Selezionare **[!UICONTROL Activate]**.
 
    ![Immagine quattro](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-4.png)
 
@@ -38,7 +38,7 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attivate il
 
 >[!TIP]
 >
->Potete inoltre attivare tutto il contenuto di un flusso facendo clic sull&#39;icona a forma di ingranaggio nella parte superiore e selezionando [!UICONTROL **Attiva tutto**].
+>Potete inoltre attivare tutto il contenuto di un flusso facendo clic sull&#39;icona a forma di ingranaggio nella parte superiore e selezionando **[!UICONTROL Activate All]**.
 
 ## Disattiva contenuto flusso
 
@@ -46,7 +46,7 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attivate il
 
    ![Immagine cinque](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Fare clic sulla scheda [!UICONTROL **Streams**] .
+1. Fate clic sulla **[!UICONTROL Streams]** scheda.
 
    ![Immagine Sei](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
@@ -54,6 +54,6 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attivate il
 
    ![Immagine sette](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-7.png)
 
-1. Selezionate [!UICONTROL **Disattiva**].
+1. Selezionare **[!UICONTROL Deactivate]**.
 
    ![Immagine otto](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-8.png)
