@@ -2,9 +2,9 @@
 title: marketo-image-editor
 description: Editor immagini Marketo
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ L’editor di immagini consente di apportare modifiche rapide alle immagini inte
 
    ![Immagine due](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. Fate clic sul pulsante [!UICONTROL **Modifica immagine**] .
+1. Fate clic sul **[!UICONTROL Edit Image]** pulsante.
 
    ![Immagine tre](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. Scegliere tra diverse funzioni nella barra degli strumenti nella parte superiore. Al termine, fate clic su [!UICONTROL **Salva**] .
+1. Scegliere tra diverse funzioni nella barra degli strumenti nella parte superiore. Al **[!UICONTROL Save]** termine, fate clic.
 
    ![Immagine quattro](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
