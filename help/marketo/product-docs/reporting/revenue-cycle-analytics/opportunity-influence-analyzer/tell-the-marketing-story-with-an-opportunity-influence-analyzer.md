@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Raccontate la storia di marketing con un analizzatore di influenza opportunità - Marketo Docs - Documentazione del prodotto
 title: Comunicare la storia di marketing con un analizzatore di influenza opportunità
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilizzate un analizzatore di influenza opportunità per illustrare il ruolo del marketing in opportunità importanti. Mostra come il marketing ha influenzato un&#39;opportunità, dal primo tocco alla creazione di opportunità e alla vittoria, e oltre.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un analizzatore di influenza opportunità](create-an-opportunity-influence-analyzer.md)
 
