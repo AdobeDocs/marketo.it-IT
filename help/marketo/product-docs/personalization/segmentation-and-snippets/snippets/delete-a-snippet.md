@@ -3,9 +3,9 @@ unique-page-id: 2359518
 description: Eliminare un frammento di codice - Documenti Marketo - Documentazione prodotto
 title: Eliminare un frammento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Eliminare un frammento {#delete-a-snippet}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Disapprovare uno snippet](unapprove-a-snippet.md)
 
