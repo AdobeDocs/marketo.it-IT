@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: Utilizzo di contenuti dinamici in una pagina di destinazione a forma libera - Marketo Docs - Documentazione prodotto
 title: Utilizzo di contenuti dinamici in una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 L&#39;utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge il pubblico con informazioni mirate.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creazione di una segmentazione](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Creare una pagina di destinazione a forma libera](create-a-free-form-landing-page.md)
