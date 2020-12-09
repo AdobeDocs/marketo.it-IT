@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Campagne intelligenti - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulle campagne intelligenti
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Infine, questo comando viene applicato all’esecuzione della campagna intellige
 
 C&#39;è un&#39;enorme quantità di cose che la campagna intelligente può fare. Sappia il blocco e troverai tutto a Marketo che diventa molto più semplice da capire.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare una nuova campagna intelligente](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
