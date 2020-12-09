@@ -3,9 +3,9 @@ unique-page-id: 2949154
 description: Etichettare le campagne Web - Documenti Marketo - Documentazione prodotto
 title: Etichettare le campagne Web
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Fantastico! Ora è possibile creare etichette e assegnarle alle campagne.
 
    ![](assets/web-campaigns-label-showing.jpg)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [L](create-a-new-in-zone-web-campaign.md) &#39; [etichetta di un segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
