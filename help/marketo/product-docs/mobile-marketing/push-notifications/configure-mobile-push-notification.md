@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Configurare le notifiche push per dispositivi mobili - Documenti Marketo - Documentazione prodotto
 title: Configura notifica push mobile
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -101,9 +101,7 @@ Un URI di collegamento profondo è composto da tre parti: nome, percorso e ident
 
 Detto questo, la struttura di collegamento profondo dell&#39;app potrebbe essere diversa dall&#39;esempio precedente. Lo sviluppatore dispone di numerose opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push verranno indirizzati nei punti giusti. Lo sviluppatore può [trovare ulteriori informazioni qui](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Invia una notifica push mobile](send-a-mobile-push-notification.md)
 
