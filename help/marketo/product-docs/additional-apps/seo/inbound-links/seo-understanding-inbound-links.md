@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO - Informazioni sui collegamenti in entrata - Documenti Marketo - Documentazione prodotto
 title: SEO - Informazioni sui collegamenti in entrata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ I collegamenti in entrata indicano ai motori di ricerca che il sito vale la pena
 
 Dolce! Ora che hai compreso i collegamenti in entrata, possiamo suggerire ulteriori opportunità di collegamento in ingresso per il tuo sito.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Ottieni suggerimenti collegamenti in entrata](seo-get-inbound-link-suggestions.md)
 
