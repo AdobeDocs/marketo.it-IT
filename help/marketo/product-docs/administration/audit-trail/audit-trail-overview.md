@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Panoramica della traccia di controllo - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della traccia di controllo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Scopri chi ha effettuato l’accesso al tuo abbonamento e quando. Sono inclusi a
 >
 >**Sconosciuto:** Nell&#39;area di controllo potete visualizzare il nome e l&#39;e-mail di un utente elencati come &quot;Sconosciuto&quot;. Ciò si verifica quando si apporta una modifica ai valori dell&#39;elenco di selezione in CRM. Questi valori vengono visualizzati nei moduli Marketo e nelle pagine di destinazione. Se si esegue questo aggiornamento sul lato CRM, le pagine di destinazione che fanno riferimento al modulo verranno automaticamente sbozzate. Nella traccia di audit, acquisiremo che la pagina di destinazione è stata redatta, ma il nome dell&#39;utente e l&#39;e-mail saranno visualizzati come &quot;Sconosciuto&quot;, in quanto non siamo in grado di acquisire le informazioni utente dal lato CRM.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Abilita traccia di controllo](enable-audit-trail.md)
 
