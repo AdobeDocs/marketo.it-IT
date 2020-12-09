@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Modifica di un'area di lavoro - Documenti Marketo - Documentazione prodotto
 title: Modifica di un’area di lavoro
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
    >
    >Non è possibile modificare la lingua dell’area di lavoro.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare una nuova area di lavoro](create-a-new-workspace.md)
 >* [Informazioni su aree di lavoro e partizioni di persone](understanding-workspaces-and-person-partitions.md)
