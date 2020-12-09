@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Utilizzo di azioni di massa in Salesforce Lightning - Marketo Docs - Documentazione prodotto
 title: Utilizzo di azioni di massa in Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, inviare un messaggio e-mail in massa o inviare i lead da Salesforce a Sales Connect.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Effettuate l&#39;aggiornamento alla versione più recente del pacchetto Sales Connect e installate i pulsanti di azione in blocco nella vista lead/contatto. [Fare clic qui per le istruzioni](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
@@ -58,7 +56,7 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
    ![](assets/five-4.png)
 
-1. Viene visualizzata una finestra a comparsa &quot;Aggiungi persone alla campagna&quot;. Fate clic su **Avanti** e seguite il flusso tipico della campagna per attivare una campagna MSC.
+1. Viene visualizzata una finestra a comparsa &quot;Aggiungi persone alla campagna&quot;. Fate clic su **Avanti** e seguite il flusso di campagne tipico per attivare una campagna MSC.
 
    ![](assets/six-1.png)
 
