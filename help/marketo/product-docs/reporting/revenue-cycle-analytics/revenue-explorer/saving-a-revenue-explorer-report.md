@@ -3,9 +3,9 @@ unique-page-id: 7504725
 description: Salvataggio di un report Esplora entrate - Documenti Marketo - Documentazione prodotto
 title: Salvataggio di un rapporto di Esplora entrate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ I rapporti di Esplora entrate possono essere salvati nel file di tua scelta.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Iscriviti a un report di Esplora entrate](subscribe-to-a-revenue-explorer-report.md)
 
