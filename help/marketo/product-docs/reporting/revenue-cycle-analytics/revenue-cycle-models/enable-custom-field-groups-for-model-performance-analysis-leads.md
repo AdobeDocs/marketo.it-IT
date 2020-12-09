@@ -3,9 +3,9 @@ unique-page-id: 3571890
 description: Abilitare i gruppi di campi personalizzati per l'analisi delle prestazioni del modello (lead) - Marketo Docs - Documentazione del prodotto
 title: Abilita gruppi di campi personalizzati per l'analisi delle prestazioni del modello (Lead)
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Abilita gruppi di campi personalizzati per l&#39;analisi delle prestazioni del modello (Lead) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Classificate i campi standard o personalizzati in gruppi per la creazione di report tramite l&#39;organizzatore di campi in Marketo. Per informazioni dettagliate, consultate [Creare gruppi di campi personalizzati tramite l&#39;organizzatore](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)dei campi.
 
