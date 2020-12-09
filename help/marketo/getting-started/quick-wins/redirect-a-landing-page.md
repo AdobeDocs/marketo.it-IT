@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: Reindirizza una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
 title: Reindirizza una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Configurazione e aggiunta di una persona](get-set-up-and-add-a-person.md)
 >* [Pagina di destinazione con un modulo](landing-page-with-a-form.md)
