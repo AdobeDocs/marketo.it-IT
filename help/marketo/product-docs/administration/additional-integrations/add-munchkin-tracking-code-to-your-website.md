@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Aggiungi Munchkin Tracking Code al tuo sito web - Marketo Docs - Documentazione del prodotto
 title: Aggiungi Munchkin Tracking Code al tuo sito Web
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Il codice di tracciamento JavaScript personalizzato di Marketo, chiamato Munchkin, tiene traccia di tutti gli utenti che visitano il sito Web e potrai reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati con i loro indirizzi IP e altre informazioni. ** Senza questo codice di tracciamento, non potrai monitorare visite o altre attività sul tuo sito web!**
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Assicuratevi di avere accesso a uno sviluppatore JavaScript esperto. Il supporto tecnico di Marketo non è configurato per la risoluzione dei problemi relativi a JavaScript personalizzati.
 
