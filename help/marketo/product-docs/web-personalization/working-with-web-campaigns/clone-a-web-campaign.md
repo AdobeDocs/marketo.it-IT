@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: Clona una campagna Web - Documenti Marketo - Documentazione del prodotto
 title: Clonare una campagna Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Utilizzate la funzione di duplicazione nella pagina Campagne Web per copiare le 
    >
    >Tutto il contenuto della campagna Web viene copiato nella campagna clone tranne i test con suddivisione, quindi non dimenticate di aggiungere un gruppo di test con suddivisione alla campagna clonata se desiderate eseguire il test su altri elementi.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare una nuova campagna Web nella zona](create-a-new-in-zone-web-campaign.md)
 >* [Creare una nuova campagna Web Widget](create-a-new-widget-web-campaign.md)
