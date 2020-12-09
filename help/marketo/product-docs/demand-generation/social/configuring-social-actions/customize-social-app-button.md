@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: Pulsante Personalizza app social - Documenti Marketo - Documentazione prodotto
 title: Personalizza pulsante App Social
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Quando create un pulsante [](../../../../product-docs/demand-generation/landing-
 >
 >In un&#39;offerta di riferimento, potete personalizzare anche il pulsante **Traccia avanzamento** . Vai a Impostazioni **** app > **Tieni traccia dello stile** di avanzamento e segui la stessa procedura descritta sopra.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Per un pulsante di tipo social network, [configurate quando si apre](configure-when-social-button-opens.md). Per un&#39;offerta di riferimento, [specificate l&#39;obiettivo](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)dell&#39;offerta.
 
