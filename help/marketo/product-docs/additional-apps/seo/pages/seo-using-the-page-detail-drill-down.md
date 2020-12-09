@@ -3,9 +3,9 @@ unique-page-id: 2949186
 description: SEO - Utilizzo del dettaglio pagina - Documenti Marketo - Documentazione prodotto
 title: SEO - Utilizzo del drill-down dei dettagli pagina
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ I risultati dell&#39;ottimizzazione della pagina ti indicheranno esattamente i p
 
 Molto dolce, giusto? Ulteriori informazioni su Pagine qui.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Ottimizzare pagine specifiche con parole chiave mirate](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
