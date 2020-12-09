@@ -2,9 +2,9 @@
 title: comprensivo di campagne intelligenti batch e trigger
 description: Informazioni sulle campagne in batch e di attivazione
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Le campagne smart in batch includeranno solo filtri nella sezione degli elenchi 
 
 ![Immagine uno](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Facendo clic sulla scheda [!UICONTROL **Schedule (Pianificazione**] ), la campagna smart viene impostata su &quot;Batch&quot;.
+Facendo clic sulla **[!UICONTROL Schedule]** scheda si confermerà che la campagna intelligente è impostata su &quot;Batch&quot;.
 
 ![Immagine due](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ Se una campagna intelligente utilizza almeno un trigger all&#39;interno della se
 
 ![Immagine tre](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Facendo clic sulla scheda [!UICONTROL **Schedule (Pianificazione**] ), la campagna smart viene impostata su &quot;Trigger&quot; (Attivatore).
+Facendo clic sulla **[!UICONTROL Schedule]** scheda si confermerà che la campagna intelligente è impostata su &quot;Trigger&quot;.
 
 ![Immagine quattro](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
