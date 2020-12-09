@@ -2,9 +2,9 @@
 title: create-a-new-program
 description: Creare un nuovo programma
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 I programmi sono uno degli elementi più importanti in [!DNL Marketo]. Li userete molto!
 
-1. Fare clic con il pulsante destro del mouse sul globo dell&#39;area di lavoro nella parte superiore della struttura e selezionare [!UICONTROL **Nuovo programma**] dal menu a discesa.
+1. Fare clic con il pulsante destro del mouse sul globo dell&#39;area di lavoro nella parte superiore della struttura e selezionare **[!UICONTROL New Program]** dall&#39;elenco a discesa.
 
    ![Immagine uno](/help/sky/assets/programs/create-a-new-program/create-a-new-program-1.png)
 
@@ -24,6 +24,6 @@ I programmi sono uno degli elementi più importanti in [!DNL Marketo]. Li useret
 
    ![Immagine due](/help/sky/assets/programs/create-a-new-program/create-a-new-program-2.png)
 
-1. Facoltativamente, puoi inserire un [!UICONTROL Description] e/o aggiungere [!UICONTROL Labels] al programma. Fate clic su [!UICONTROL **Aggiungi**] per completare la creazione del programma.
+1. Facoltativamente, puoi inserire un [!UICONTROL Description] e/o aggiungere [!UICONTROL Labels] al programma. Fare clic **[!UICONTROL Add]** per completare la creazione del programma.
 
    ![Immagine tre](/help/sky/assets/programs/create-a-new-program/create-a-new-program-3.png)
