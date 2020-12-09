@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Dimension di account denominato in RCA - Documenti Marketo - Documentazione del prodotto
 title: Dimension di account denominato in RCA
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Copertura di lead di qualità e coinvolgimento all&#39;interno di account denomi
 
 ![](assets/five-2.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Analisi del ciclo delle entrate](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
 
