@@ -3,9 +3,9 @@ unique-page-id: 2359661
 description: Impostare un campo modulo come nascosto - Documenti Marketo - Documentazione prodotto
 title: Impostazione di un campo modulo come nascosto
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ I campi modulo nascosti possono acquisire i dati in modo invisibile senza l&#39;
 >
 >Scelte rapide da tastiera! Dopo aver selezionato un campo modulo, premere Ctrl+Alt+H per nasconderlo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Impostazione di un valore campo modulo nascosto](set-a-hidden-form-field-value.md)
 
