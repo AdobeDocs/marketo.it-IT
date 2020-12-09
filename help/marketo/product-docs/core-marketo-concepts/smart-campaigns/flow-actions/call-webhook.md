@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Call Webhook - Marketo Docs - Documentazione prodotto
 title: Chiama Webhook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Chiama Webhook {#call-webhook}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un Webhook](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
 
