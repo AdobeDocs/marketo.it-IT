@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Impostazioni sincronizzazione Salesforce - Documenti Marketo - Documentazione prodotto
 title: Impostazioni sincronizzazione Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Per utilizzare questa funzionalità è necessario utilizzare l&#39;edizione Enterprise/Unlimited di Salesforce o Professional se hai acquistato l&#39;integrazione tramite l&#39;API Web Services.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >È necessario collegare Salesforce e Sales Engage.
 
@@ -47,9 +45,7 @@ Per utilizzare questa funzionalità è necessario utilizzare l&#39;edizione Ente
 
 Una volta attivato &quot;Email to Salesforce (CCN)&quot;, riceverai un CCN delle tue e-mail di vendita e i tuoi messaggi verranno registrati come attività su opportunità, lead e contatti.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >È necessario collegare Salesforce e Sales Engage.
 
