@@ -3,9 +3,9 @@ unique-page-id: 2359880
 description: Organizzare le immagini e i file utilizzando le cartelle - Documenti Marketo - Documentazione prodotto
 title: Organizzare immagini e file utilizzando le cartelle
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ La creazione di cartelle consente di spostare immagini e file, visualizzare solo
 
 Cinque in alto! Siete tutti pronti per l&#39;utopia delle cartelle.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Cerca immagini e file caricati](search-uploaded-images-and-files.md)
 
