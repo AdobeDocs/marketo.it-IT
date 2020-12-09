@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Token per momenti interessanti - Documenti Marketo - Documentazione prodotto
 title: Token per momenti interessanti
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Token per momenti interessanti {#tokens-for-interesting-moments}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* Scopri come utilizzare il passaggio [Momento](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)interessante.
 >* Ulteriori informazioni sui [token](http://docs.marketo.com/display/docs/tokens).
