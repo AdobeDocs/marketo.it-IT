@@ -3,9 +3,9 @@ unique-page-id: 1146985
 description: Riordinare i passaggi di flusso in una campagna intelligente - Documenti Marketo - Documentazione del prodotto
 title: Riordinare i passaggi di flusso in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 I passaggi di flusso vengono eseguiti dall&#39;alto verso il basso. Ecco come riordinare i passaggi di flusso in base alle vostre esigenze.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiunta di un passaggio di flusso a una campagna intelligente](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
