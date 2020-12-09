@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Confronta l'efficacia del programma con il programma Analyzer - Marketo Docs - Documentazione del prodotto
 title: Confronta l'efficacia del programma con Program Analyzer
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilizzate Program Analyzer per identificare i programmi più e meno efficaci, confrontando i costi dei programmi, l&#39;acquisizione dei membri, la pipeline e le entrate.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un analizzatore di programmi](create-a-program-analyzer.md)
 
