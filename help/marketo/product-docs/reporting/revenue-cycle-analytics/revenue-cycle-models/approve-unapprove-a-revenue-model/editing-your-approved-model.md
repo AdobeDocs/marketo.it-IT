@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: Modifica del modello approvato - Documenti Marketo - Documentazione del prodotto
 title: Modifica del modello approvato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 È possibile avere un solo modello approvato alla volta. Se si desidera approvare un modello ma ne è già stato approvato uno, sarà necessario prima annullare l&#39;approvazione del modello corrente. Se possibile, provare a modificare il modello anziché crearne uno nuovo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Creare un nuovo modello di ricavi](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
