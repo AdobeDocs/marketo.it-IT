@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: Specificare l'obiettivo per l'offerta di riferimento - Documenti Marketo - Documentazione prodotto
 title: Specificare l'obiettivo per l'offerta di riferimento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Obiettivi di esempio:
 >
 >Nelle campagne intelligenti sono disponibili nuovi filtri e attivatori per monitorare l&#39;attività social. Consultate [Utilizzare trigger e filtri per le attività](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)social.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Quindi, potete [selezionare le e-mail](send-referral-offer-fulfillment-email.md) di registrazione e di evasione da inviare dall&#39;offerta di riferimento.
 
