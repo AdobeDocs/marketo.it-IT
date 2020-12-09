@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Panoramica del centro comandi - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del centro comandi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Ad esempio, se aggiungete 100 persone a una campagna in MSC, potreste voler rein
 
 Bonus: Se salvate la ricerca avanzata, funzionerà come un elenco dinamico e aggiungerete e-mail che soddisfano i criteri di partecipazione una volta che il destinatario visualizzerà il messaggio o farà clic sul messaggio e-mail.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Attività](http://docs.marketo.com/x/qwDb)
 >* [Panoramica della ricerca avanzata](http://docs.marketo.com/x/KQM6Ag)
