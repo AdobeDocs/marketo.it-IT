@@ -3,9 +3,9 @@ unique-page-id: 10099413
 description: Panoramica sulle e-mail - Documenti Marketo - Documentazione prodotto
 title: Panoramica sulle e-mail Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Se desiderate visualizzare le statistiche dell&#39;e-mail in Analytics, passate 
 
 Roba bella!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Panoramica sull&#39;analisi degli approfondimenti e-mail](email-insights-analytics-overview.md)
 
