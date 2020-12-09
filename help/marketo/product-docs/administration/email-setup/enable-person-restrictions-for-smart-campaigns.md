@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: Abilita limitazioni di persona per campagne intelligenti - Documenti Marketo - Documentazione prodotto
 title: Abilita limitazioni di persona per le campagne intelligenti
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ In Marketo è disponibile una funzione che consente di limitare il numero ***mas
 
 Bingo! Hai appena acceso l&#39;interruttore di sicurezza. Buona idea, giusto?
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Escludere le limitazioni di persona in una campagna intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
