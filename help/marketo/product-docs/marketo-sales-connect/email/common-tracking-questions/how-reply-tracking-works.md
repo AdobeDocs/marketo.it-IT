@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Come funziona il tracciamento delle risposte - Documenti Marketo - Documentazione del prodotto
 title: Come funziona il tracciamento delle risposte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Il tracciamento delle risposte viene effettuato osservando un ID messaggio presente in ogni e-mail inviata. Ogni e-mail contiene un ID messaggio univoco che ci consente di ottenere il miglior tracciamento delle risposte.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >**Connessione con il server e-mail:** È necessario collegare il reparto vendite alla inbox in modo da sapere quando è arrivata una nuova risposta. Dovrai avere il tuo account di vendita Connect [collegato a Gmail](http://docs.marketo.com/x/kYMOAQ). Se si utilizza Outlook, sarà necessario integrare il server [di](http://toutapp.com/next#settings/exchange_settings)Exchange.
 
