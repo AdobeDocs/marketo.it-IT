@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: Attiva/Disattiva sincronizzazione oggetti personalizzata - Documenti Marketo - Documentazione prodotto
 title: Attiva/Disattiva sincronizzazione oggetti personalizzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    Eccellente! È ora possibile utilizzare i dati di questo oggetto personalizzato nelle campagne smart ed elenchi smart.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiungi/rimuovi campo oggetto personalizzato come vincolo di elenco avanzato/trigger](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
