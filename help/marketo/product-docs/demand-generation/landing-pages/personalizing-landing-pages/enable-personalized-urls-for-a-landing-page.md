@@ -3,9 +3,9 @@ unique-page-id: 2359803
 description: Abilita URL personalizzati per una pagina di destinazione - Documenti Marketo - Documentazione prodotto
 title: Abilitare gli URL personalizzati per una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gli URL personalizzati sono ottimi per le campagne di stampa.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Abilita URL personalizzati per il tuo account](enable-personalized-urls-for-your-account.md)
 
