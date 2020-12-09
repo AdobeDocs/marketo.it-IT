@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Comprendere/attivare il programma - Documenti Marketo - Documentazione prodotto
 title: Comprendere/attivare lo stato attivo del programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Il Calendario marketing offre una visione d&#39;insieme delle cose, ma permette 
 
 Fantastico! Ora vai avanti e impara a interagire con i contributi.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare Voci Direttamente Nel Calendario Di Marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [Modificare Le Voci Direttamente Nel Calendario Di Marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
