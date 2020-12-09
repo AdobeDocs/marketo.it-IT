@@ -3,9 +3,9 @@ unique-page-id: 11380734
 description: Attivatori di account - Documenti Marketo - Documentazione di prodotto
 title: Triggers account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ascoltare e agire su attività comportamentali importanti a livello di account tra canali diversi (ad es. e-mail, Web, annunci) tramite attivatori a livello di account.
 
-Selezionate la campagna intelligente e fate clic su Elenco avanzato.
+Selezionate la campagna intelligente e fate clic su **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
@@ -23,13 +23,14 @@ Digitate &quot;Account denominato&quot; nella casella di ricerca per individuare
 
 ![](assets/two-1.png)
 
-Trascinare il trigger desiderato sul quadro. In questo esempio viene utilizzato *Aggiunto a Account* denominato.
+Trascinare il trigger desiderato sul quadro. In questo esempio viene utilizzato _Aggiunto a Account_ denominato.
 
 ![](assets/three-1.png)
 
 Scegliete un qualificatore.
 
-![](assets/four-1.png)\
+![](assets/four-1.png)
+
 Fare clic sul menu a discesa Account denominato...
 
 ![](assets/five-1.png)
@@ -40,13 +41,7 @@ Fare clic sul menu a discesa Account denominato...
 
 È tutto! Dopo aver completato il resto della campagna intelligente, ricordatevi di attivarla.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Filtri account](account-filters.md)
-
->
-
-
 
