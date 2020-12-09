@@ -3,9 +3,9 @@ unique-page-id: 10094576
 description: Durable Unsubscription - Marketo Docs - Documentazione del prodotto
 title: Annullamento della sottoscrizione
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Così come un annullamento dell’iscrizione causerebbe l’annullamento dell’
 
 Le definizioni di modifica del valore dei dati per *updateLeadEmailStatus* e *resetLeadEmailStatus* sono disponibili in [questo articolo](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)della community.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Informazioni su Annulla sottoscrizione](understanding-unsubscribe.md)
 
