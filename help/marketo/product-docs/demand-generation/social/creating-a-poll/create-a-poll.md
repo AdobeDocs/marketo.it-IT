@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Creazione di un sondaggio - Documenti Marketo - Documentazione del prodotto
 title: Creare un sondaggio
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Coinvolgi le persone con un sondaggio che possono votare e condividere con i lor
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Se desiderate utilizzare le immagini nel sondaggio, aggiungetele alla libreria Immagini e file di Marketo prima di iniziare. Aggiungete un’immagine da 60x60px per ogni voce del sondaggio. Consultate [Aggiungere immagini e file a Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
