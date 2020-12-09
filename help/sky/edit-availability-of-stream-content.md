@@ -2,9 +2,9 @@
 title: edit-availability-of-stream-content
 description: Modifica disponibilità contenuto flusso
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Potete impostare un intervallo di tempo per l&#39;attivazione del contenuto nel 
 
    ![Immagine uno](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Fare clic sulla scheda [!UICONTROL **Streams**] .
+1. Fate clic sulla **[!UICONTROL Streams]** scheda.
 
    ![Immagine due](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Potete impostare un intervallo di tempo per l&#39;attivazione del contenuto nel 
 
    ![Immagine tre](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. Selezionare [!UICONTROL **Modifica disponibilità**].
+1. Selezionare **[!UICONTROL Edit Availability]**.
 
    ![Immagine quattro](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -36,7 +36,7 @@ Potete impostare un intervallo di tempo per l&#39;attivazione del contenuto nel 
 
    ![Immagine cinque](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Fate clic su [!UICONTROL **Salva**].
+1. Fate clic **[!UICONTROL Save]**.
 
    ![Immagine Sei](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
