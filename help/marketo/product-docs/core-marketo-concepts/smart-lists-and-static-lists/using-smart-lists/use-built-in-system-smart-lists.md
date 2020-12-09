@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: Usa Smart List integrati/di sistema - Marketo Docs - Documentazione prodotto
 title: Usa elenchi avanzati integrati/di sistema
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Di seguito viene fornito un riepilogo delle operazioni eseguite dagli elenchi sm
 >
 >Impossibile eliminare gli elenchi smart del sistema. Ad eccezione dell’elenco dei possibili duplicati, non è possibile modificarli.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
