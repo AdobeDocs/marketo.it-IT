@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: Approvare uno snippet senza bozza - Documenti Marketo - Documentazione prodotto
 title: Approvare uno snippet senza bozza
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Non viene attivata alcuna bozza ogni volta che viene approvato uno snippet. Ques
 >
 >Questa funzione è stata progettata per risparmiare tempo con il flusso di lavoro di approvazione degli snippet. Tuttavia, ci sono alcuni limiti da conoscere. Per informazioni dettagliate, consultate [questo documento](https://nation.marketo.com/docs/DOC-4415) . Il documento contiene anche informazioni sulla gestione degli errori e sulla risoluzione dei problemi.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Abilita nessuna bozza per gli snippet](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
