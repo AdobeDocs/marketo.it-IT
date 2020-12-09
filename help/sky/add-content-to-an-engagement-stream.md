@@ -2,9 +2,9 @@
 title: add-content-to-an-Engagement-stream
 description: Aggiunta di contenuto a un flusso di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto al
 
    ![Immagine uno](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Fare clic sulla scheda [!UICONTROL **Streams**] .
+1. Fate clic sulla **[!UICONTROL Streams]** scheda.
 
    ![Immagine due](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Fate clic su [!UICONTROL **Aggiungi contenuto**].
+1. Fate clic **[!UICONTROL Add Content]**.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -42,11 +42,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto al
 
    ![Immagine cinque](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Fare clic sulla scheda [!UICONTROL **Streams**] .
+1. Fate clic sulla **[!UICONTROL Streams]** scheda.
 
    ![Immagine Sei](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Fate clic su [!UICONTROL **Aggiungi contenuto**].
+1. Fate clic **[!UICONTROL Add Content]**.
 
    ![Immagine sette](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
