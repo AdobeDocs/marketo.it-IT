@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: Creazione di un modulo - Documenti Marketo - Documentazione prodotto
 title: Creazione di un modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Creare e utilizzare un modulo su una pagina di destinazione per generare nuovi n
 
 Dolce! Ora che il modulo è stato creato, andiamo avanti e mettiamolo in ordine.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Selezione di un tema modulo](select-a-form-theme.md)
 >* [Aggiunta di un set di campi a un modulo](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
