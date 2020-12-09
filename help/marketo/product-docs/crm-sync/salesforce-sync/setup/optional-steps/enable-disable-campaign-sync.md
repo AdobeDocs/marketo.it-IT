@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: Attiva/Disattiva sincronizzazione campagna - Documenti Marketo - Documentazione prodotto
 title: Attiva/Disattiva sincronizzazione campagna
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Questa opzione consente a Marketo di sincronizzare gli stati e l&#39;iscrizione 
 
 Ecco qua. Dia alla sincronizzazione un po&#39; di tempo per estrarre i dati da Salesforce e sei pronto ad andare.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Sincr. SFDC: Sincronizzazione campagna](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [Imposta Cognome lead predefinito e valori società](set-default-person-last-name-and-company-name.md)
