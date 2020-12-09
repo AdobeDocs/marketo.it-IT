@@ -3,9 +3,9 @@ unique-page-id: 2359400
 description: Selezionare un tema del modulo - Documenti Marketo - Documentazione del prodotto
 title: Selezione di un tema modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Abbiamo creato una serie di bei temi per i vostri moduli. Quale ti piace di più
 
 Quanto era facile?! Potete lasciare che il vostro libro HTML/CSS raccolga della polvere ora.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Modificare il CSS di un tema modulo](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Aggiunta di un campo a un modulo](add-a-field-to-a-form.md)
