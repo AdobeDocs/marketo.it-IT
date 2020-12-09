@@ -2,9 +2,9 @@
 title: priorità-override-per-trigger-campaign
 description: Override di priorità per le campagne di attivazione
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Gli amministratori possono ignorare la priorità determinata di Marketo per atti
 
 ## Priorità di sostituzione
 
-1. Nella campagna di attivazione, fare clic sulla scheda [!UICONTROL **Pianificazione**] , quindi su [!UICONTROL **Ignora priorità**].
+1. Nella campagna di attivazione, fare clic sulla **[!UICONTROL Schedule]** scheda, quindi su **[!UICONTROL Override Priority]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Scegliete un nuovo livello di priorità dal menu a discesa. Fate clic su [!UICONTROL **Conferma**].
+1. Scegliete un nuovo livello di priorità dal menu a discesa. Fate clic **[!UICONTROL Confirm]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ Gli amministratori possono ignorare la priorità determinata di Marketo per atti
 
 ## Ripristina priorità
 
-1. Per ripristinare la priorità della campagna all&#39;impostazione predefinita del sistema, andate alla scheda [!UICONTROL **Pianificazione**] nella campagna di attivazione e fate clic su [!UICONTROL **Ripristina priorità**].
+1. Per ripristinare la priorità della campagna all&#39;impostazione predefinita del sistema, andate alla **[!UICONTROL Schedule]** scheda nella campagna di attivazione e fate clic su **[!UICONTROL Reset Priority]**.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. Fate clic su [!UICONTROL **Ripristina**] per confermare.
+1. Fate clic **[!UICONTROL Reset]** per confermare.
 
    ![Immagine cinque](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ Gli amministratori possono ignorare la priorità determinata di Marketo per atti
 >
 >Solo gli amministratori o gli utenti con responsabilità di amministratore devono avere la priorità della campagna come accesso alternativo.
 
-1. Nell&#39; [!UICONTROL Admin] area fare clic su [!UICONTROL **Utenti e ruoli**].
+1. Nell&#39; [!UICONTROL Admin] area fare clic su **[!UICONTROL Users & Roles]**.
 
    ![Immagine Sei](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Fare clic sulla scheda [!UICONTROL **Ruoli**] , selezionare l&#39;utente a cui si desidera concedere l&#39;accesso, quindi fare clic su [!UICONTROL **Modifica ruolo**].
+1. Fate clic sulla **[!UICONTROL Roles]** scheda, selezionate l&#39;utente a cui concedere l&#39;accesso, quindi fate clic su **[!UICONTROL Edit Role]**.
 
    ![Immagine sette](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. In [!UICONTROL Access Marketing Activities], seleziona [!UICONTROL **Modifica priorità**] campagna attivatore. Fate clic su [!UICONTROL **Salva**].
+1. Sotto [!UICONTROL Access Marketing Activities], check **[!UICONTROL Edit Trigger Campaign Priority]**. Fate clic **[!UICONTROL Save]**.
 
    ![Immagine otto](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Visualizza priorità campagna in Marketo Classic
 
-Per visualizzare la priorità della campagna nell&#39; [!DNL Classic] esperienza, fai clic sulla scheda [!UICONTROL **Pianificazione**] all&#39;interno di una campagna di attivazione.
+Per visualizzare la priorità della campagna nell&#39; [!DNL Classic] esperienza, fai clic sulla **[!UICONTROL Schedule]** scheda all&#39;interno di una campagna di attivazione.
 
 ![Image Nine](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
