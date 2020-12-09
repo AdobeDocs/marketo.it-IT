@@ -2,9 +2,9 @@
 title: delete-an-entry-in-program-schedule-view
 description: Eliminazione di una voce nella vista Pianificazione programma
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Puoi eliminare qualsiasi voce nel calendario in pochi semplici passaggi.
 
    ![Immagine due](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Fate clic su [!UICONTROL **Conferma**] per eliminare la voce.
+1. Fare clic **[!UICONTROL Confirm]** per eliminare la voce.
 
    ![Immagine tre](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
