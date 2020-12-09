@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Pubblicare pagine di destinazione su Facebook - Documenti Marketo - Documentazione prodotto
 title: Pubblicare le pagine di destinazione su Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Puoi pubblicare le pagine di destinazione su Facebook, incontrare il pubblico do
 >
 >Spark SMB, Standard &amp; Select. Enterprise con licenza separata.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Prima di poter pubblicare contenuti su Facebook, la pagina deve disporre di almeno 2.000 &quot;Mi piace&quot;.
 
