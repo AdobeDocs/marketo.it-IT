@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: Informazioni sugli stati del programma webinar - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sugli stati del programma webinar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Di seguito viene fornita una breve descrizione degli stati del programma associa
 >
 >Affinché Marketo possa ottenere lo stato No Show, le persone devono essere state registrate *a Marketo*. Non è possibile acquisire No Show proveniente dal feed di dati On24.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
