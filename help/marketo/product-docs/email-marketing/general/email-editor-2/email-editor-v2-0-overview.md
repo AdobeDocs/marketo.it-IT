@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Panoramica di Editor e-mail v2.0 - Documenti Marketo - Documentazione prodotto
 title: Panoramica di Editor e-mail v2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,7 @@ Un sacco di nuove funzioni fantastiche! Divertiti!
 >
 >Per approfondire ulteriormente la ricerca, guardate questo [utile video](https://nation.marketo.com/videos/1463).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Sintassi modello e-mail](email-template-syntax.md)
 
