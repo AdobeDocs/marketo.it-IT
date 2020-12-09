@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Aggiunta di un test A/B - Documenti Marketo - Documentazione prodotto
 title: Aggiungere un test A/B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Aggiungere un test A/B {#add-an-a-b-test}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un programma e-mail](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definire un pubblico con un elenco](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) avanzato o [definire un pubblico importando un elenco](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
