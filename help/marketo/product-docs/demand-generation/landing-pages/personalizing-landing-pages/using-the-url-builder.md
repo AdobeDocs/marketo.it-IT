@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Utilizzo di URL Builder - Marketo Docs - Documentazione prodotto
 title: Utilizzo di URL Builder
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ URL Builder consente di creare URL in grado di compilare i campi dei moduli nasc
 >
 >Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Scoprite come creare campi nascosti nei moduli e modificarne le impostazioni in [Impostare un campo modulo come nascosto](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
