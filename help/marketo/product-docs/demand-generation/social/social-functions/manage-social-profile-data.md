@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gestisci dati profilo sociale - Documenti Marketo - Documentazione prodotto
 title: Gestisci dati profilo social
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ A seconda delle impostazioni di privacy della rete e dell&#39;utente, vengono re
 >
 >Il modulo Social acquisisce l&#39;indirizzo e-mail *solo* se l&#39;utente lo inserisce nel modulo. Se è necessario utilizzare l&#39;indirizzo e-mail, è necessario [renderlo un campo obbligatorio nel modulo](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Per acquisire queste informazioni dai moduli, abilitare la compilazione [del modulo](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)social.
 
