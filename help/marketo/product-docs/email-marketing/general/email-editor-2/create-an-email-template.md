@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: Creare un modello e-mail - Documenti Marketo - Documentazione prodotto
 title: Creare un modello e-mail
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Se avete creato un messaggio e-mail che desiderate salvare come modello da utili
 
 Per personalizzare il modello e-mail, controllate l’articolo riportato di seguito.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Sintassi modello e-mail](email-template-syntax.md)
 
