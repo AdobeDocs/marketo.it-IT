@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: Pianificazione di programmi e-mail con fuso orario destinatario - Documenti Marketo - Documentazione prodotto
 title: Pianificazione dei programmi e-mail con il fuso orario del destinatario
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ In breve, i programmi e-mail pianificati con il fuso orario del destinatario dev
 >
 >Chiunque annulla l’iscrizione tra il momento in cui viene avviata l’invio e-mail e il momento in cui viene effettivamente recapitato riceverà comunque l’e-mail. È consigliabile regolare la notifica di annullamento dell’iscrizione in modo da riflettere il fatto che l’elaborazione degli abbonamenti potrebbe richiedere 1-2 giorni lavorativi.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sul fuso orario del destinatario](understanding-recipient-time-zone.md)
 >* [Head Start for Email Programs](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
