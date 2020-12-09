@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Aggiungere contenuto a un flusso - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di contenuto a un flusso
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai fl
 
 Ottimo lavoro! Ora è possibile utilizzare diversi metodi per aggiungere contenuti ai flussi dei programmi. Aggiungete quanti ne avete bisogno per la vostra cura. Per ulteriori informazioni, consulta l’articolo correlato di seguito.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiunta di un programma a un flusso del programma di coinvolgimento](adding-a-program-to-an-engagement-program-stream.md)
 
