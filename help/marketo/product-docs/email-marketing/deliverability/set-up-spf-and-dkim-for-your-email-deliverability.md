@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: Impostazione di SPF e DKIM per la distribuzione delle e-mail - Marketo Docs - Documentazione del prodotto
 title: Impostazione di SPF e DKIM per la distribuzione tramite e-mail
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Come si configura DKIM?
 
 Fare riferimento a [Configurare una firma](set-up-a-custom-dkim-signature.md)DKIM personalizzata.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Scopri di più su SPF e come funziona](http://www.open-spf.org/Introduction/)
 >* [Strumenti di distribuzione delle e-mail di Marketo](https://www.marketo.com/software/email-marketing/email-deliverability/)
