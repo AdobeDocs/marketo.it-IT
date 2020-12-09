@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: Configurare l'acquisizione di una persona per un'app social - Documenti Marketo - Documentazione del prodotto
 title: Configurare l'acquisizione delle persone per un'app Social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Quando create un&#39;offerta [di](../../../../product-docs/demand-generation/soc
 >
 >**FYI**
 >
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!NOTE]
 >
@@ -54,9 +54,7 @@ Quando create un&#39;offerta [di](../../../../product-docs/demand-generation/soc
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Ora puoi [configurare il flusso](configure-social-sign-up-share-flow.md) di accesso ai social network e modificare i messaggi di condivisione che verranno inviati a ogni social network.
 
