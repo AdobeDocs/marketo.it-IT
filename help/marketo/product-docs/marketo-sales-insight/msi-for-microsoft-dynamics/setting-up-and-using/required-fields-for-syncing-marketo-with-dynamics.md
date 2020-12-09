@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Campi obbligatori per la sincronizzazione del Marketo con Dynamics - Marketo Docs - Documentazione prodotto
 title: Campi obbligatori per la sincronizzazione del marketing con Dynamics
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Questo è il modo in cui verificare e aggiungere campi di sincronizzazione.
 >
 >Prima di verificare di aver risolto il problema, attendete almeno 10 minuti prima di eseguire la sincronizzazione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Impostazione di stelle e fiamme per i record lead/contatto](http://docs.marketo.com/x/BICMAg)
 
