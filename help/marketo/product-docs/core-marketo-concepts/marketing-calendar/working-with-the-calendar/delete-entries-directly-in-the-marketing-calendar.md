@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Elimina Voci Direttamente Nel Calendario Marketing - Documenti Marketo - Documentazione Prodotto
 title: Elimina Voci Direttamente Nel Calendario Di Marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Oltre a [creare](create-entries-directly-in-the-marketing-calendar.md) e [modifi
 
 A seconda della voce, potrebbe essere necessario confermare l&#39;eliminazione. Ma è tutto! Facile.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Confermare Le Voci Direttamente Nel Calendario Di Marketing](confirm-entries-directly-in-the-marketing-calendar.md)
 
