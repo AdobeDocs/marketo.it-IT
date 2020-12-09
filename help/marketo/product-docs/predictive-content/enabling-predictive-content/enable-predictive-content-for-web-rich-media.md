@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Abilita contenuti predittivi per contenuti multimediali Web - Documenti Marketo - Documentazione prodotto
 title: Abilita contenuto predittivo per contenuti multimediali Web
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 I contenuti predittivi coinvolgono i visitatori Web con i contenuti più rilevanti, basati sull&#39;apprendimento automatico e l&#39;analisi predittiva. I contenuti multimediali avanzati per il Web consentono di migliorare i contenuti con descrizioni di testo e immagini e di incorporare più raccomandazioni di contenuto predittivo sul sito Web.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Prima di abilitare Predictive Content (Contenuto predittivo), dovete:
 >
