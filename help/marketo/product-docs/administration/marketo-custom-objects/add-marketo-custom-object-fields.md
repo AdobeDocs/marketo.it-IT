@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Aggiungi campi oggetto personalizzati Marketo - Documenti Marketo - Documentazione prodotto
 title: Aggiungi campi oggetto personalizzati Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
    >
    >Se si sta creando una struttura uno-molti, è necessario aggiungere un campo Collegamento all&#39;oggetto personalizzato. Per una struttura molti-a-molti, non è necessario un campo di collegamento nell&#39;oggetto personalizzato, ma è necessario aggiungere due campi di collegamento nell&#39;oggetto intermedio. Per ulteriori informazioni sui tipi di oggetti personalizzati, vedere [Aggiunta di campi](add-marketo-custom-object-link-fields.md) di collegamento oggetto personalizzato a Marketo e [Informazioni sugli oggetti](understanding-marketo-custom-objects.md) personalizzati Marketo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiungi campi collegamento oggetto personalizzato marketing](add-marketo-custom-object-link-fields.md)
 >* [Modifica ed eliminazione di un oggetto personalizzato Marketo](edit-and-delete-a-marketo-custom-object.md)
