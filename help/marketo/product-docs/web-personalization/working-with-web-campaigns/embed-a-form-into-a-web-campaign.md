@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Incorporare un modulo in una campagna Web - Documenti Marketo - Documentazione prodotto
 title: Incorporare un modulo in una campagna Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ Per aggiungere il codice CSS allo script:
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Modificare il CSS di un tema modulo](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [Mostra messaggio di ringraziamento senza una pagina di destinazione di follow-up](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
