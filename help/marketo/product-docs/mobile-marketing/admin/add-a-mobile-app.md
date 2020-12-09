@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Aggiungere un'app mobile - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere un'app mobile
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Le app di solito iniziano in un ambiente sandbox, dove vengono eseguiti lo svilu
 
    Bello! Configurate ora l&#39;app in modo che funzioni con i dispositivi Android e iOS.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Configurare l&#39;accesso push Android dell&#39;app mobile](configure-mobile-app-android-push-access.md)
 >* [Configurare l&#39;accesso push iOS dell&#39;app mobile](configure-mobile-app-ios-push-access.md)
