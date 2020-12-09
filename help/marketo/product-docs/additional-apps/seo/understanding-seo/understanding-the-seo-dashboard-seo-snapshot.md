@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: Informazioni sul dashboard SEO - Istantanea SEO - Documenti Marketo - Documentazione prodotto
 title: Informazioni sul dashboard SEO -SEO Snapshot
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Il grafico Tendenze classifica parole chiave estrae le parole chiave con i cinqu
 
 Facile, vero? Ora vediamo la sezione Recommendations di questo dashboard.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sul dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
