@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: Crea testo messaggio in-app - Documenti Marketo - Documentazione prodotto
 title: Crea testo messaggio in-app
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
 È dorata. Quindi, devi [configurare il pulsante](set-up-the-in-app-message-button.md)dei messaggi in-app.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sui messaggi in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Scegliere un layout per il messaggio in-app](choose-a-layout-for-your-in-app-message.md)
