@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: Analisi delle opportunità in Revenue Explorer - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sull'analisi delle opportunità in Esplora entrate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
    | Importo opportunità (aperto) | Importo totale per le opportunità aperte. Se a un&#39;opportunità è associato più di un lead, l&#39;importo dell&#39;allocazione si basa sul punteggio iniziale. |
    | Importo opportunità (won) | Importo totale per le opportunità di vincita. Se a un&#39;opportunità è associato più di un lead, l&#39;importo dell&#39;allocazione si basa sul punteggio iniziale. |
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creazione di un rapporto di Esplora entrate](create-a-revenue-explorer-report.md)
 >* [Aggiunta di campi a un rapporto di Esplora entrate](adding-fields-to-a-revenue-explorer-report.md)
