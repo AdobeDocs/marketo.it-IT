@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Informazioni sui programmi di coinvolgimento - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui programmi di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ I programmi di coinvolgimento sono concepiti per commercializzare nuove persone 
 >
 >**FYI**
 >
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!NOTE]
 >
@@ -94,9 +94,7 @@ Una volta che una persona ha ricevuto ogni contenuto in un flusso, chiamiamo la 
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Persone Con Contenuto Esaurito](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ Una volta che una persona ha ricevuto ogni contenuto in un flusso, chiamiamo la 
 
 Il livello di coinvolgimento dei contenuti è un punteggio compreso tra 0 e 100 che Marketo fornirà ai vostri contenuti. Questo numero è determinato da una sofisticata formula che utilizza aperture, clic, annullamento dell&#39;iscrizione, successo del programma e altri fattori.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Comprendere il punteggio di coinvolgimento](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
