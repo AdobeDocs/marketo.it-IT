@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analisti - Documenti Marketo - Documentazione prodotto
 title: Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analizzatori
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Alcuni programmi potrebbero dover essere inclusi anche se non hanno un costo per
 
 Bel lavoro! Ora qualsiasi programma che utilizza il canale modificato sarà incluso in elenco ricavi e analizzatori senza la necessità di un costo di periodo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Escludi comportamento Analytics a livello di programma](override-analytics-behavior-at-the-program-level.md)
 
