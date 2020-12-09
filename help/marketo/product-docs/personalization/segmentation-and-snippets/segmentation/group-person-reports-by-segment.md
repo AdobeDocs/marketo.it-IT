@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Rapporti di gruppi di persone per segmento - Documenti Marketo - Documentazione prodotto
 title: Rapporti sulla persona del gruppo per segmento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Potete raggruppare i rapporti [](http://docs.marketo.com/display/docs/basic+repo
 >
 >Per ulteriori informazioni sui segmenti e su come crearli e gestirli, consulta l’esercitazione [Segmentazione](http://docs.marketo.com/display/docs/segmentation+and+snippets) .
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiunta di colonne personalizzate a un report di persona](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 
