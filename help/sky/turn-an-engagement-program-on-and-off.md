@@ -2,9 +2,9 @@
 title: attivare e disattivare un programma di coinvolgimento
 description: Attivazione e disattivazione di un programma di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![Immagine uno](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Fate clic sulla scheda [!UICONTROL **Configurazione**] .
+1. Fate clic sulla **[!UICONTROL Setup]** scheda.
 
    ![Immagine due](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >I programmi di coinvolgimento sono attivati per impostazione predefinita, a meno che non si superi il limite di iscrizione.
 
-1. C&#39;è un [!UICONTROL Program] pulsante a destra. Selezionate [!UICONTROL **Attiva**] o [!UICONTROL **Disattiva**].
+1. C&#39;è un [!UICONTROL Program] pulsante a destra. Selezionare **[!UICONTROL On]** o **[!UICONTROL Off]**.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
