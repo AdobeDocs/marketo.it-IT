@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Utilizzo dei modelli per creare campagne Web - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di modelli per creare campagne Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Velocizzate e semplificate il processo di creazione delle campagne Web utilizzan
 
 Ben fatto! Hai visto quanto tempo hai risparmiato utilizzando un modello?
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Salva una campagna come modello](save-your-campaign-as-a-template.md)
 
