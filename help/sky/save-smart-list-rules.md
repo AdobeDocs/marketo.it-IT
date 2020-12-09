@@ -2,9 +2,9 @@
 title: save-smart-list-rules
 description: Salva regole per elenchi avanzati
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Salvare le regole di elenchi intelligenti è un ottimo modo per risparmiare temp
 
    ![Immagine uno](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Fate clic su [!UICONTROL **Smart List**].
+1. Fate clic **[!UICONTROL Smart List]**.
 
    ![Immagine due](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,11 +32,11 @@ Salvare le regole di elenchi intelligenti è un ottimo modo per risparmiare temp
 
    ![Immagine quattro](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Dopo aver aggiunto filtri/attivatori, fai clic sul menu a discesa Azioni [!UICONTROL ****] Smart Campaign e seleziona [!UICONTROL **Salva regola**] elenco avanzato.
+1. Dopo aver aggiunto filtri/attivatori, fai clic sul **[!UICONTROL Smart Campaign Actions]** menu a discesa e seleziona **[!UICONTROL Save Smart List Rule]**.
 
    ![Immagine cinque](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. Assegnate un nome al set di regole e fate clic su [!UICONTROL **Salva**].
+1. Assegnate un nome al set di regole e fate clic su **[!UICONTROL Save]**.
 
    ![Immagine Sei](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -48,11 +48,11 @@ Ed è tutto! La prossima volta che create una campagna intelligente, avrete acce
 
    ![Immagine sette](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Fate clic su [!UICONTROL **Smart List**].
+1. Fate clic **[!UICONTROL Smart List]**.
 
    ![Immagine otto](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Fate clic sul menu a discesa Regola [!UICONTROL ****] salvata.
+1. Fare clic sul **[!UICONTROL Saved Rule]** menu a discesa.
 
    ![Image Nine](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
