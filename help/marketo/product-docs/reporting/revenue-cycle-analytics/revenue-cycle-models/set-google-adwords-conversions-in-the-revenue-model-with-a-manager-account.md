@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: Imposta le conversioni di Google AdWords nel modello delle entrate con un account manager - Documenti Marketo - Documentazione del prodotto
 title: Imposta conversioni Google AdWords nel modello delle entrate con un account manager
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Se disponete di più account Google Adwords, potete utilizzare un account [](htt
 * Azione fase
 * Mappatura AdWords
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungi Google AdWords come servizio di avvio con un account manager](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
