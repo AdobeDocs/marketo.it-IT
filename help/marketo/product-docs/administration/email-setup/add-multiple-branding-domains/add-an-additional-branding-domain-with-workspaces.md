@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Aggiungere un dominio di branding aggiuntivo con aree di lavoro - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un dominio di branding aggiuntivo con Workspaces
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Se disponete di aree di lavoro, potete aggiungere altri domini di branding.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >È necessario [modificare prima il dominio](edit-your-default-branding-domain.md) di branding predefinito.
 >
