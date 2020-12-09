@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Correggi problemi di sincronizzazione convalida delle dinamiche - Documenti Marketo - Documentazione del prodotto
 title: Correggi problemi di sincronizzazione convalida delle dinamiche
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -111,9 +111,7 @@ Se disponete di un ![—](assets/delete.png) qui, accertatevi che l&#39;utente S
 
 Se disponete di un ![—](assets/delete.png) qui, accertatevi di assegnare l&#39;utente di sincronizzazione corretto nel campo Utente marketing nel passaggio Configurazione predefinita configurazione configurazione Marketo in Microsoft Dynamics.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Convalida della sincronizzazione di Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
