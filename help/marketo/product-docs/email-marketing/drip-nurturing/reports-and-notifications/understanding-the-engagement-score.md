@@ -3,9 +3,9 @@ unique-page-id: 2359890
 description: Valutazione di coinvolgimento - Documenti Marketo - Documentazione del prodotto
 title: Comprendere il punteggio di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ I punteggi di coinvolgimento sono universali per tutti i clienti. Potete confron
 >
 >L&#39;algoritmo proprietario si applica anche al punteggio di coinvolgimento nei programmi e-mail.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sui programmi di coinvolgimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 
