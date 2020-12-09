@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Approva il test e-mail - Marketo Docs - Documentazione del prodotto
 title: Champion/Challenger - Approva il tuo test e-mail
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Campione/Sfida: Configurare gli avvisi di rapporti](champion-challenger-configure-report-alerts.md)
 
