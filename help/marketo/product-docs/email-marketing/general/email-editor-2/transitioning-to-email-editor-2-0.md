@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: Passaggio all'editor di posta elettronica 2.0 - Documenti Marketo - Documentazione prodotto
 title: Passaggio all'editor di posta elettronica 2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Cose da notare
 
 * In alcuni **rari** casi, non è possibile aprire un&#39;e-mail v1.0 in Editor e-mail 2.0. In tal caso, eliminate la bozza e contattate il supporto di Marketo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Panoramica di Email Editor 2.0](email-editor-v2-0-overview.md)
 >* [Sintassi modello e-mail](email-template-syntax.md)
