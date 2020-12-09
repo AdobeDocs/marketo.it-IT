@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: Autenticazione della sicurezza di accesso mobile - Documenti Marketo - Documentazione del prodotto
 title: Autenticazione della sicurezza di accesso mobile
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Per migliorare la sicurezza degli utenti di Mobile, Marketo fornisce due nuovi I
 
 Per abilitare gli ID, devi acquisirli e trasmetterli al reparto IT in modo che possano impostare una corrispondenza sicura.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per abilitare questa funzione, contattate il supporto e richiedete &quot;Modalità protetta Vespa&quot;.
 
