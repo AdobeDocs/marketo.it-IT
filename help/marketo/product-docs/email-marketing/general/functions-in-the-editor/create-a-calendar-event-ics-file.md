@@ -3,9 +3,9 @@ unique-page-id: 1900563
 description: Creare un file evento calendario (.ics) - Documenti Marketo - Documentazione prodotto
 title: Creare un file evento calendario (.ics)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Un token per file di calendario consente di aggiungere un collegamento evento di
 
 Missione compiuta! Assicuratevi di testarlo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Includi un evento del calendario (.ics) in un messaggio e-mail](include-a-calendar-event-ics-in-an-email.md)
 >* [Includere un file ICS evento del calendario in una pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
