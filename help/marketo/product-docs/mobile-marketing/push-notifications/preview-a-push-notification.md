@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: Anteprima di una notifica push - Documenti Marketo - Documentazione prodotto
 title: Anteprima di una notifica push
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Nella schermata Centro notifiche, si trova nella parte superiore,
 
 Quindi, con l&#39;anteprima delle notifiche push, sai sempre cosa vedranno i tuoi clienti!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare una notifica push](create-a-push-notification.md)
 >* [Configura notifica push mobile](configure-mobile-push-notification.md)
