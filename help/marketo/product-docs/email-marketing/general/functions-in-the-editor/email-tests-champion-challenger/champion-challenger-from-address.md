@@ -3,9 +3,9 @@ unique-page-id: 2359559
 description: Champion/Challenger - Da Indirizzo - Marketo Docs - Documentazione del prodotto
 title: Campione/Sfida - Da indirizzo
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungi un campione e-mail/Challenger](add-an-email-champion-challenger.md)
 
