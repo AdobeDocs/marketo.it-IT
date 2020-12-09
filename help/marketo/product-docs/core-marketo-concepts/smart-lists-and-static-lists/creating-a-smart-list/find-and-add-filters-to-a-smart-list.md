@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: Ricerca e aggiunta di filtri a un elenco avanzato - Documenti Marketo - Documentazione prodotto
 title: Trovare e aggiungere filtri a un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ In questo esempio, troviamo tutte le persone in California con un punteggio supe
 >
 >**FYI**
 >
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!TIP]
 >
@@ -45,9 +45,7 @@ In questo esempio, troviamo tutte le persone in California con un punteggio supe
 
 Perfetto! Andiamo avanti e definiamo questi filtri.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare un elenco avanzato](create-a-smart-list.md)
 >* [Definire i filtri per elenchi avanzati](define-smart-list-filters.md)
