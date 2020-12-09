@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: Modifica di contenuti predittivi per contenuti multimediali avanzati - Documenti Marketo - Documentazione prodotto
 title: Modifica di contenuti predittivi per contenuti multimediali avanzati
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Come impostare i contenuti predittivi per i contenuti multimediali avanzati.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Il contenuto deve essere [approvato per il contenuto](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) predittivo nella pagina Tutto il contenuto.
 
