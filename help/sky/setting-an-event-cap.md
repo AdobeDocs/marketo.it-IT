@@ -2,9 +2,9 @@
 title: setting-an-event-cap
 description: Come impostare un capolettera evento
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Limitate la quantità di persone che possono registrarsi per l&#39;evento con un
 
    ![Immagine uno](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. In Panoramica, trovate [!UICONTROL Event Cap] e fate clic su [!UICONTROL **Non impostato**].
+1. In Panoramica, trova [!UICONTROL Event Cap] e fai clic su **[!UICONTROL Not Set]**.
 
    ![Immagine due](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Immettete il numero massimo di persone che desiderate registrare per l’evento e fate clic su [!UICONTROL **Avanti**].
+1. Immettete il numero massimo di persone che desiderate registrare per l’evento e fate clic su **[!UICONTROL Next]**.
 
    ![Immagine tre](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
@@ -41,7 +41,7 @@ Limitate la quantità di persone che possono registrarsi per l&#39;evento con un
 
    ![Immagine quattro](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Fate clic sul menu a discesa [!UICONTROL **Registrazione Pagina**] completa e selezionate la pagina di destinazione che fungerà da pagina completa per la registrazione. Al termine, fate clic su [!UICONTROL **Set (Imposta) e Enable (Abilita)**] (Abilita).
+1. Fate clic sul **[!UICONTROL Registration Full Page]** menu a discesa e selezionate la pagina di destinazione che fungerà da pagina completa per la registrazione. Al **[!UICONTROL Set and Enable]** termine, fate clic.
 
    ![Immagine cinque](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
