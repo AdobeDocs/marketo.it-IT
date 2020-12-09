@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: Acquisire le immagini da una pagina Web - Marketo Docs - Documentazione prodotto
 title: Acquisire le immagini da una pagina Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Per aggiungere immagini da una pagina Web, copiate l’indirizzo Web (URL) della
 
 Bel lavoro, maestro dell&#39;immagine!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiungi immagini e file a Marketo](add-images-and-files-to-marketo.md)
 >* [Organizzare immagini e file utilizzando le cartelle](organize-your-images-and-files-using-folders.md)
