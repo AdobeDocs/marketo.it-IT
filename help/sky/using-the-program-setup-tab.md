@@ -2,9 +2,9 @@
 title: using-the-program-setup-tab
 description: Utilizzo della scheda Impostazione programma
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ Per modificare il canale del programma, selezionatene uno diverso dal menu a dis
 
 ## Aggiungi tag
 
-1. Nella sezione [!UICONTROL Tags] , fate clic sul menu a discesa [!UICONTROL **Attributo**] e scegliete un attributo di tag dalle opzioni disponibili.
+1. Nella [!UICONTROL Tags] sezione, fate clic sul menu a **[!UICONTROL Attribute]** discesa e scegliete un attributo di tag dalle opzioni disponibili.
 
    ![Immagine tre](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Fate clic sul menu a discesa [!UICONTROL **Valore**] e scegliete un valore di tag dalle opzioni disponibili. Fate clic su [!UICONTROL **Aggiungi**].
+1. Fate clic sul **[!UICONTROL Value]** menu a discesa e scegliete un valore di tag tra le opzioni disponibili. Fate clic **[!UICONTROL Add]**.
 
    ![Immagine quattro](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Per modificare il canale del programma, selezionatene uno diverso dal menu a dis
 
 ## Aggiungi costi periodo
 
-1. Nella [!UICONTROL Period Costs] sezione selezionare un mese, inserire un costo e aggiungere un nome o una descrizione breve. Fate clic su [!UICONTROL **Aggiungi**].
+1. Nella [!UICONTROL Period Costs] sezione selezionare un mese, inserire un costo e aggiungere un nome o una descrizione breve. Fate clic **[!UICONTROL Add]**.
 
    ![Immagine Sei](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
