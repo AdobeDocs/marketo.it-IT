@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Abilita la barra delle raccomandazioni sul contenuto - Documenti Marketo - Documentazione sul prodotto
 title: Abilita la barra delle raccomandazioni del contenuto
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Content Recommendation Engine utilizza gli algoritmi di analisi predittiva e machine learning per distribuire contenuti pertinenti a ogni visitatore Web. Il motore di raccomandazione prevede quale contenuto eseguirebbe meglio per visitatore. Il contenuto del motore è monitorato e controllato nella pagina Recommendations, aiutando a ottimizzare il ROI del contenuto.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Prima di abilitare il contenuto predittivo, dovete:
 >
