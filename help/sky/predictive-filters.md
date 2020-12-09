@@ -2,9 +2,9 @@
 title: filtri predittivi
 description: Filtri predittivi
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Questo filtra l&#39;audience a seconda che abbia un&#39;alta o bassa probabilit�
 
 Questi due filtri consentono di espandere il pubblico corrente mediante il targeting di altri lead simili ai membri di un altro programma o Smart List. I filtri simili prendono in considerazione più di 50 fattori, inclusi gli attributi lead, l’attività e-mail, l’attività Web e il coinvolgimento.
 
-Fate clic su [!UICONTROL **Aggiungi vincolo**] per scegliere i criteri di successo per i membri dei programmi selezionati.
+Fare clic **[!UICONTROL Add Constraint]** per scegliere i criteri di successo per i membri dei programmi selezionati.
 
 Fare clic sull&#39;icona + accanto al menu a discesa del programma per aggiungere facilmente più programmi/elenchi smart a un filtro.
 
