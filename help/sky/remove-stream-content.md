@@ -2,9 +2,9 @@
 title: remove-stream-content
 description: Rimuovi contenuto flusso
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Potete rimuovere o archiviare una parte del contenuto. A differenza della rimozi
 
    ![Immagine uno](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Fare clic sulla scheda [!UICONTROL **Streams**] .
+1. Fate clic sulla **[!UICONTROL Streams]** scheda.
 
    ![Immagine due](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Potete rimuovere o archiviare una parte del contenuto. A differenza della rimozi
 
    ![Immagine tre](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-3.png)
 
-1. Selezionare [!UICONTROL **Rimuovi**].
+1. Selezionare **[!UICONTROL Remove]**.
 
    ![Immagine quattro](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-4.png)
 
