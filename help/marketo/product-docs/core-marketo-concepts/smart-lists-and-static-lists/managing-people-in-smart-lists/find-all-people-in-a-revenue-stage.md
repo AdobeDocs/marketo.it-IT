@@ -3,9 +3,9 @@ unique-page-id: 557331
 description: Trova tutte le persone in una fase di ricavo - Documenti Marketo - Documentazione prodotto
 title: Trova tutte le persone in una fase di ricavo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Trova tutte le persone in una fase di ricavo {#find-all-people-in-a-revenue-stage}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
