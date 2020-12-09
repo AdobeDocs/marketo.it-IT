@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Definire un pubblico con un elenco avanzato - Marketo Docs - Documentazione prodotto
 title: Definire un pubblico con un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Una volta [creato un programma](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)e-mail, si desidera indicare a chi inviare l&#39;e-mail. A tale scopo, è possibile [importare un elenco di persone](define-an-audience-by-importing-a-list.md) o un elenco avanzato. Ecco come farlo con una lista intelligente.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
