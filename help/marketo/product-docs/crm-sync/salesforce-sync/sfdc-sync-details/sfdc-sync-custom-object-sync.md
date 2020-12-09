@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: Sincr. SFDC - Sincronizzazione oggetti personalizzata - Documenti Marketo - Documentazione prodotto
 title: Sincr. SFDC - Sincronizzazione oggetti personalizzata
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per utilizzare un oggetto personalizzato, deve essere associato a un oggetto [lead](sfdc-sync-lead-sync.md), [](sfdc-sync-contact-sync.md)contactor [](sfdc-sync-account-sync.md)accountobject in Salesforce.
 
