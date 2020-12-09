@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: Eseguire un singolo passaggio di flusso da un elenco avanzato - Marketo Docs - Documentazione prodotto
 title: Eseguire un singolo passaggio di flusso da un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile utilizzare un singolo passaggio di flusso all&#39;interno di un elenco smart invece di creare un&#39;intera campagna smart.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
