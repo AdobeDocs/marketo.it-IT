@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Approvare una segmentazione - Documenti Marketo - Documentazione prodotto
 title: Approvare una segmentazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Prima di poter utilizzare una segmentazione, è necessario approvarla.
 >
 >Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creazione di una segmentazione](create-a-segmentation.md)
 >* [Definire le regole di segmento](define-segment-rules.md)
