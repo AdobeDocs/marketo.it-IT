@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Panoramica delle funzioni MSI - Documenti Marketo - Documentazione del prodotto
 title: Panoramica delle funzioni MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Classic: Aggiungi a elenco di controllo, Aggiungi a campagna Marketo 
 * Configurazione MSI: Include la configurazione della scheda Marketo e del pannello delle forze visive MSI
 * Reimposta analisi vendite marketing: Include la possibilità di cancellare tutte le configurazioni
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Scheda Configurazione analisi vendite Marketo in Salesforce](http://docs.marketo.com/x/UoCMAg)
 
