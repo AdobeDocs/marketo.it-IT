@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Aggiungi Marketo Custom Object Link Fields - Marketo Docs - Documentazione prodotto
 title: Aggiungi campi collegamento oggetto personalizzato marketing
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Come creare un campo di collegamento in un oggetto personalizzato per una strutt
 
 Come creare un campo di collegamento in un oggetto intermediario da utilizzare in una struttura molti-a-molti.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >È necessario aver già creato l&#39;oggetto intermediario ed eventuali oggetti personalizzati a cui si desidera collegarlo.
 
