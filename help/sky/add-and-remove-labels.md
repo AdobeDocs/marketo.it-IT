@@ -2,9 +2,9 @@
 title: add-and-remove-label
 description: Aggiungi e rimuovi etichette
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Potete assegnare etichette a qualsiasi risorsa in [!UICONTROL Marketing Activiti
 Per aggiungere nuove etichette a una risorsa, andate alla [!UICONTROL Details] pagina della risorsa sotto la [!UICONTROL Overview] scheda.
 <br> 
 
-Nella [!UICONTROL Labels] sezione fare clic su [!UICONTROL **Aggiungi nuove etichette**].
+Nella [!UICONTROL Labels] sezione fare clic su **[!UICONTROL Add New Labels]**.
 
 ![Immagine uno](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Se aggiungete un&#39;etichetta che non è stata utilizzata in precedenza, immettete il nome dell&#39;etichetta e fate clic su [!UICONTROL **Crea nuovo ____**].
+Se aggiungete un&#39;etichetta che non è stata utilizzata in precedenza, immettete il nome dell&#39;etichetta e fate clic **[!UICONTROL Create New ____]**.
 
 ![Immagine due](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Se si aggiunge un&#39;etichetta già creata altrove, digitare per la ricerca e s
 
 ## Rimuovi etichette
 
-Per rimuovere un’etichetta, fai clic sulla [!UICONTROL **X**].
+Per rimuovere un’etichetta, fate clic su di essa **[!UICONTROL X]**.
 
 ![Immagine quattro](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
