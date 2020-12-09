@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: Aggiungere immagini e file a Marketo - Marketo Docs - Documentazione prodotto
 title: Aggiungi immagini e file a Marketo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Ben fatto!
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Organizzare immagini e file utilizzando le cartelle](organize-your-images-and-files-using-folders.md)
 
