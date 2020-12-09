@@ -2,9 +2,9 @@
 title: override-persona-restrictions-in-a-smart-campaign
 description: Escludere le limitazioni di persona in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Marketo consente di impostare il numero massimo di persone idonee per una campag
 >
 >Assicurati di [abilitare le restrizioni per le persone per le campagne](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) intelligenti in Marketo [!UICONTROL Admin].
 
-1. Individuate la campagna intelligente e fate clic su [!UICONTROL **Pianificazione**].
+1. Individuate la campagna intelligente e fate clic su **[!UICONTROL Schedule]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Fate clic su Regole [!UICONTROL **di qualifica**].
+1. Fate clic **[!UICONTROL Qualification Rules]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Marketo consente di impostare il numero massimo di persone idonee per una campag
    >
    >Il limite predefinito è quello impostato in Amministratore.
 
-1. Accanto a [!UICONTROL **Interrompi campagna se i lead qualificati superano**], immettete un nuovo limite.
+1. Accanto a **[!UICONTROL Abort campaign if qualified leads exceed]**, immettete un nuovo limite.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
