@@ -3,9 +3,9 @@ unique-page-id: 2949182
 description: SEO - Parole chiave - Documenti Marketo - Documentazione prodotto
 title: SEO - Informazioni sulle parole chiave
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Puoi anche visualizzare le prestazioni dei tuoi concorrenti utilizzando le stess
 
 Fantastico! Ora che comprendete la sezione delle parole chiave, impariamo a conoscere le pagine e i collegamenti in entrata.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sulle pagine](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
 >* [Informazioni sui collegamenti in entrata](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
