@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Usa messaggi SMS Vibs in Smart List Triggers e Filtri - Marketo Docs - Documentazione del prodotto
 title: Utilizzare i messaggi SMS Vibs in attivatori e filtri di elenchi avanzati
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Per contro, il **filtro** **Member of Vibes List **trova** **chiunque** ***attua
 
 Dopo aver impostato attivatori e filtri Vibes nell&#39;elenco avanzato, potete [definire il flusso](add-a-flow-step-for-sms.md).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Definisci elenco avanzato per Smart Campaign | Trigger](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Trovare e aggiungere filtri a un elenco avanzato](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
