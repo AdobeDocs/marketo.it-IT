@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Pianificazione del test A/B - Marketo Docs - Documentazione del prodotto
 title: Programmare il test A/B
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincenti, dovrete pianificare quando il test ha inizio. Ecco come.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungere un test A/B](add-an-a-b-test.md)
 
