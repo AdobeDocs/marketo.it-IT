@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: Aggiornare un elenco o un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Aggiornare un elenco o un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Se hai eseguito una smart list e sono passati alcuni minuti, ora i risultati pot
 >
 >A volte, quando si esegue una smart list e ci si torna più tardi, si potrebbe vedere la parola &quot;About&quot; davanti al conteggio delle persone nell&#39;angolo in basso a destra. Questo indica che il numero è approssimativo - fare clic sul conteggio stesso per aggiornarlo e ottenere un conteggio aggiornato e accurato.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Esportare le persone in Excel da un elenco o da un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
