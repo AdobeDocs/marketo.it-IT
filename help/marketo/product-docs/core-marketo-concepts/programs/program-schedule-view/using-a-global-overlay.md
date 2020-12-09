@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Utilizzo di una sovrapposizione globale - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di una sovrapposizione globale
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La sovrapposizione globale nella vista Pianificazione programma consente di visualizzare il programma in relazione ad altre risorse pianificate.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per utilizzare questa funzione è necessario disporre di una licenza [Calendario](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) marketing.
 
