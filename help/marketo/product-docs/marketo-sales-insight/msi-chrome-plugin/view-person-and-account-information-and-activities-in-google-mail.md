@@ -3,9 +3,9 @@ unique-page-id: 10095358
 description: Visualizza informazioni su utenti e account e attività in Google Mail - Marketo Docs - Documentazione prodotto
 title: Visualizza informazioni su utenti e account in Google Mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**FYI**
 >
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Visualizza attività in Google Mail {#view-activities-in-google-mail}
 
@@ -53,9 +53,7 @@ Fare clic sull&#39;icona Marketo per aprire il riquadro.
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Utilizzo di Marketo Insights per Google Chrome](using-marketo-insights-for-google-chrome.md)
 
