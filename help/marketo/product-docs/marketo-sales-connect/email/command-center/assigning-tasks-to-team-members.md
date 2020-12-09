@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Assegnazione di attività ai membri del team - Documenti Marketo - Documentazione prodotto
 title: Assegnazione di attività ai membri del team
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Se desiderate collaborare con altri membri del team, l’assegnazione delle atti
 
    ![](assets/nine.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Come condividere un gruppo](http://docs.marketo.com/x/fwDb)
 
