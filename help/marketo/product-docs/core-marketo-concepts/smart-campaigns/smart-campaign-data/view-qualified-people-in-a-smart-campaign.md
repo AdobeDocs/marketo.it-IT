@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Visualizzazione di persone qualificate in una campagna intelligente - Documenti Marketo - Documentazione prodotto
 title: Visualizzare le persone qualificate in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Visualizzare le persone idonee ad attraversare il flusso quando si esegue una ca
 
 Dolce! Potete utilizzare questo elenco per verificare quali persone potrebbero attraversare il flusso prima di eseguire una campagna intelligente.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Visualizzare i membri di Smart Campaign](view-smart-campaign-members.md)
 >* [Visualizzare le persone bloccate in una campagna intelligente](view-blocked-people-in-a-smart-campaign.md)
