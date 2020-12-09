@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: Abilita limiti di comunicazione - Documenti Marketo - Documentazione del prodotto
 title: Abilita limiti di comunicazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Fate clic su Modifica.
    >
    >I limiti di comunicazione si applicano automaticamente a tutti i programmi e-mail e di coinvolgimento.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Applica limiti di comunicazione a Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
