@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Report attività Web società - Documenti Marketo - Documentazione prodotto
 title: Report attività Web società
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,11 @@ Scopri quali aziende stanno visitando il tuo sito Web. Potete scegliere di visua
 >
 >**FYI**
 >
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Creare un rapporto [Attività pagina](web-page-activity-report.md) Web per vedere le singole persone che visitano il sito.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per acquisire l&#39;attività dal sito Web di Marketo, è prima necessario configurare [Munchkin sul sito](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
