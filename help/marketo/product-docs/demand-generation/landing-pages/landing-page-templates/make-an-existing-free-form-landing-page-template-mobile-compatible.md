@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: Creare un modello di pagina di destinazione gratuito esistente compatibile con Mobile - Documenti Marketo - Documentazione prodotto
 title: Creare un modello di pagina di destinazione gratuito esistente compatibile con Mobile
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Quando si modifica una pagina di destinazione e si fa clic sulla scheda mobile, 
 
 Fantastico! Ora potete [personalizzare la visualizzazione](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) mobile di tutte le pagine di destinazione che utilizzano questo modello.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Personalizza visualizzazione mobile per la pagina di destinazione a forma libera](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
