@@ -3,9 +3,9 @@ unique-page-id: 7514146
 description: Attribuzione Esempio 2 - Documenti Marketo - Documentazione prodotto
 title: Attribuzione Esempio 2
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero es
 
 Prova tutti gli esempi e sarai un professionista di attribuzione!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Esempio di attribuzione 1](attribution-example-1.md)
 >* [Esempio di attribuzione 3](attribution-example-3.md)
