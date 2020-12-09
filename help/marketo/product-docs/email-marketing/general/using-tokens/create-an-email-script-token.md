@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Creare un token di script e-mail - Documenti Marketo - Documentazione prodotto
 title: Creare un token di script e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Per gli sviluppatori avanzati, potete utilizzare gli script [](http://velocity.a
 
 Ora puoi usare questo token nelle e-mail. Lo script verrà eseguito ogni volta che viene inviato un messaggio e-mail.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiungere un token di script e-mail al messaggio e-mail](add-an-email-script-token-to-your-email.md)
 
