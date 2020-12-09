@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Impostare un valore campo modulo nascosto - Documenti Marketo - Documentazione prodotto
 title: Impostazione di un valore campo modulo nascosto
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 In genere, i campi nascosti vengono compilati in modo dinamico. Non vengono mostrate alla persona che compila il modulo. Come impostare il valore.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Impostazione di un campo modulo come nascosto](set-a-form-field-as-hidden.md)
 
