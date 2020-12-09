@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Personalizza visualizzazione mobile per la tua pagina di destinazione a forma libera - Documenti Marketo - Documentazione prodotto
 title: Personalizza visualizzazione mobile per la pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Personalizza visualizzazione mobile per la pagina di destinazione a forma libera {#customize-mobile-view-for-your-free-form-landing-page}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungere una vista mobile alla pagina di destinazione a forma libera](add-a-mobile-view-for-your-free-form-landing-page.md)
 
