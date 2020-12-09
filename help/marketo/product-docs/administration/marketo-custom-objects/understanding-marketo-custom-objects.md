@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Informazioni sugli oggetti personalizzati Marketo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sugli oggetti personalizzati Marketo
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Utilizzare oggetti personalizzati per tenere traccia delle metriche specifiche d
 >
 >**FYI**
 >
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!NOTE]
 >
@@ -99,9 +99,7 @@ Gli oggetti personalizzati possono collegarsi direttamente a un singolo record. 
 
 Per ulteriori informazioni, vedere [Importare dati](import-custom-object-data.md) oggetto personalizzati.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare oggetti personalizzati Marketo](create-marketo-custom-objects.md)
 >* [Approvare un oggetto personalizzato](approve-a-custom-object.md)
