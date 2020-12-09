@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Aggiungere audience personalizzate Facebook come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungere audience personalizzate di Facebook come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Con questa integrazione potete inviare i dati del pubblico da Marketo agli elenc
    >
    >Oh, prima di andare, assicurati di [accettare i Termini](https://www.facebook.com/ads/manage/customaudiences/tos.php) Personalizzati di Facebook per il Pubblico all&#39;interno del tuo account Facebook! Senza questo, gli aggiornamenti del pubblico non riusciranno.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare un pubblico personalizzato in Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
