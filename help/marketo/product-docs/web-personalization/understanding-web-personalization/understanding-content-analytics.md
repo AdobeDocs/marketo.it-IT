@@ -3,9 +3,9 @@ unique-page-id: 10093159
 description: Analisi dei contenuti - Documenti Marketo - Documentazione sui prodotti
 title: Informazioni sull'analisi dei contenuti
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -98,9 +98,7 @@ L&#39;analisi dei contenuti aggiuntiva include:
 
 Dalla pagina Analisi dei contenuti, fate clic sull&#39;icona di eliminazione del contenuto da eliminare. Viene visualizzato un messaggio di conferma dell’eliminazione del contenuto.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Abilita la barra delle raccomandazioni del contenuto](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Abilita contenuto predittivo per contenuti multimediali Web](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
