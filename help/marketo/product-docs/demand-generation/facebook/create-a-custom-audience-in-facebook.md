@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Creare un pubblico personalizzato in Facebook - Marketo Docs - Documentazione prodotto
 title: Creare un pubblico personalizzato in Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Creare un pubblico personalizzato in Facebook {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungi pubblico personalizzato Facebook come servizio](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint nella sezione Admin.
 >* [Accettate i Termini](https://www.facebook.com/ads/manage/customaudiences/tos.php) di audience personalizzati di Facebook nel vostro account Facebook.
