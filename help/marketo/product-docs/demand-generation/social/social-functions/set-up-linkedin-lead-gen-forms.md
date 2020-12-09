@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Imposta LinkedIn Lead Gen Forms - Marketo Docs - Documentazione prodotto
 title: Imposta LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ Ben fatto! Gli utenti che inviano moduli di LinkedIn Lead Gen inizieranno a far 
 >
 >È possibile autorizzare un solo account utente LinkedIn. Se si dispone di più account Business che si desidera collegare a Marketo, assicurarsi che l&#39;account LinkedIn dell&#39;utente che viene autorizzato disponga delle autorizzazioni per il Gestore dei moduli lead Gen all&#39;account Business in LinkedIn.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzare i filtri e gli attivatori per moduli principali LinkedIn in una campagna avanzata](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
