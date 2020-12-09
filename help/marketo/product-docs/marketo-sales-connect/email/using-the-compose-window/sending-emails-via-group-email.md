@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Invio di e-mail tramite posta elettronica di gruppo - Documenti Marketo - Documentazione del prodotto
 title: Invio di e-mail tramite e-mail di gruppo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
    >
    >Potete apportare modifiche collettive all’e-mail o al modello al momento dell’invio di un’e-mail di gruppo, ma non potete apportare modifiche univoche a destinatari specifici nell’elenco.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Opzioni di invio in blocco](http://docs.marketo.com/x/HwQ6Ag)
 >* [Utilizzo di un modello nella finestra Componi](http://docs.marketo.com/x/MQQ6Ag)
