@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Cambia la famiglia di font del modulo - Marketo Docs - Documentazione prodotto
 title: Modificare la famiglia di font del modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Google Fonts è fantastico, e li abbiamo creati direttamente nell&#39;editor di 
 
 Vedere quanto era semplice modificare la famiglia di font in un modulo? Ora che questo è fatto, impariamo a modificare la dimensione del font del modulo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Modifica delle dimensioni del font del modulo](change-the-form-font-size.md)
 
