@@ -3,9 +3,9 @@ unique-page-id: 1146901
 description: Utilizzo della logica avanzata della regola degli elenchi avanzati - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo della logica delle regole avanzate per gli elenchi avanzati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Potete trovare le persone esatte necessarie applicando la logica della regola di elenchi avanzati a più filtri all&#39;interno di un elenco avanzato. Ecco come.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Trovare e aggiungere filtri a un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [Definire i filtri per elenchi avanzati](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
