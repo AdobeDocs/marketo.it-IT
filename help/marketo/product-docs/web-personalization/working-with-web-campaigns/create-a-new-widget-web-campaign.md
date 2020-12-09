@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: Creare una nuova campagna Web Widget - Marketo Docs - Documentazione prodotto
 title: Creare una nuova campagna Web Widget
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -125,9 +125,7 @@ Dalla pagina Campagne Web, fate clic su **Anteprima** nella campagna Web da visu
 
 1. Viene visualizzato un messaggio di conferma per confermare se si desidera eliminare la campagna Web.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare una nuova campagna Web nella zona](create-a-new-in-zone-web-campaign.md)
 >* [Creazione di una nuova finestra di dialogo Web Campaign](create-a-new-dialog-web-campaign.md)
