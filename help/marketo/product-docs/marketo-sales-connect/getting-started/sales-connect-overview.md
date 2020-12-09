@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Panoramica di Sales Connect - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Sales Connect
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Crea una semplice campagna intelligente per consentire agli utenti di vendita di
 
 Pronti per iniziare? Per le istruzioni di configurazione, fai clic sul collegamento sottostante.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Guida introduttiva a Sales Connect](http://docs.marketo.com/x/coTS)
 
