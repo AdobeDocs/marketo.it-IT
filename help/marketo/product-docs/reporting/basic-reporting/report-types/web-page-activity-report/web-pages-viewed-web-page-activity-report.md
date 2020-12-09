@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Pagine Web visualizzate, Rapporto Attività pagina Web - Documenti Marketo - Documentazione prodotto
 title: Pagine Web visualizzate, Report attività pagina Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Da un rapporto [Attività pagina](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Web potete vedere le pagine specifiche visualizzate dagli utenti nel rapporto.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per acquisire l&#39;attività dal tuo sito Web a Marketo, devi prima [configurare Munchkin sul tuo sito](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
