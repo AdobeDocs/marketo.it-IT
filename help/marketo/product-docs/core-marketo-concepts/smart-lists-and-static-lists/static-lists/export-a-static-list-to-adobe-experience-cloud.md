@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Esportazione di un elenco statico in Adobe Experience Cloud - Marketo Docs - Documentazione prodotto
 title: Esportazione di un elenco statico in Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Una distribuzione HIPAA di un&#39;istanza di Marketo non può utilizzare questa funzione.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Configurare la condivisione dell&#39;audience di Adobe Experience Cloud](http://docs.marketo.com/x/D4GMAg)
 
