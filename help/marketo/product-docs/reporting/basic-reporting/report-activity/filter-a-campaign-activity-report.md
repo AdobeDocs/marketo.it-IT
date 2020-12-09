@@ -3,9 +3,9 @@ unique-page-id: 2360184
 description: Filtrare un rapporto sulle attività della campagna - Documenti Marketo - Documentazione del prodotto
 title: Filtrare un rapporto attività campagna
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Concentrate il [Rapporto sulle attività della](../../../../product-docs/reporti
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Rapporto sulle prestazioni e-mail della campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 
