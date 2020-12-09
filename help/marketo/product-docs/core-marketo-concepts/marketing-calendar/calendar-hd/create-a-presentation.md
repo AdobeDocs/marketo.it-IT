@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Creare una presentazione - Documenti Marketo - Documentazione del prodotto
 title: Creare una presentazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Create una presentazione per proiettare le visualizzazioni e gli obiettivi del c
 
    Bel lavoro! Ora è possibile personalizzare la presentazione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Personalizzare una presentazione](customize-a-presentation.md)
 
