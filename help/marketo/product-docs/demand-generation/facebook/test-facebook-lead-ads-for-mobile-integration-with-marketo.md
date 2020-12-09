@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: Test annunci lead Facebook per l'integrazione mobile con Marketo - Marketo Docs - Documentazione prodotto
 title: Test degli annunci lead Facebook per l'integrazione mobile con Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Dopo aver creato il tuo annuncio lead, devi testarlo!
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Devi [configurare l&#39;integrazione](set-up-facebook-lead-ads.md)degli annunci lead di Facebook.
 
