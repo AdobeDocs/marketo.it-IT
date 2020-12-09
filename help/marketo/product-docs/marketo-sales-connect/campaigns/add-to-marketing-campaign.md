@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: Aggiungi a campagna di marketing - Documenti Marketo - Documentazione prodotto
 title: Aggiungi a campagna di marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Aggiungi a campagna di marketing {#add-to-marketing-campaign}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Rendere una campagna visibile agli utenti di vendita](http://docs.marketo.com/x/NwDh)
 
