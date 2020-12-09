@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Creare un nuovo elenco account - Documenti Marketo - Documentazione prodotto
 title: Creare un nuovo elenco account
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ Il file CSV sostituirà il file esistente. L&#39;elenco esistente rimarrà attiv
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creazione di un segmento tramite un elenco di account](create-a-segment-using-an-account-list.md)
 >* [Visualizzazione di un elenco di account denominato](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
