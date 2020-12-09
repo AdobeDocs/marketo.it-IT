@@ -3,9 +3,9 @@ unique-page-id: 10098134
 description: Aggiunta di un programma a un flusso del programma di coinvolgimento - Documenti Marketo - Documentazione del prodotto
 title: Aggiunta di un programma a un flusso del programma di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Generazione dei rapporti sulle modifiche con la posizione dell’e-mail. Quindi,
 >
 >Se si desidera inviare nuovamente qualcosa, è più sicuro creare un nuovo programma e una campagna intelligente.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiunta di contenuto a un flusso](add-content-to-a-stream.md)
 >* [Informazioni sui programmi](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
