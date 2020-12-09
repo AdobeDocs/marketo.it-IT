@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Creare oggetti personalizzati Marketo - Documenti Marketo - Documentazione del prodotto
 title: Creare oggetti personalizzati Marketo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ Utilizzare un oggetto intermediario per collegare un oggetto personalizzato a pe
 
    Il passaggio successivo prevede l&#39; [aggiunta di campi](add-marketo-custom-object-link-fields.md) di collegamento per collegare l&#39;oggetto intermediario a una persona/società e a un oggetto personalizzato.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiungi campi oggetto personalizzati Marketo](add-marketo-custom-object-fields.md)
 >* [Aggiungi campi collegamento oggetto personalizzato marketing](add-marketo-custom-object-link-fields.md)
