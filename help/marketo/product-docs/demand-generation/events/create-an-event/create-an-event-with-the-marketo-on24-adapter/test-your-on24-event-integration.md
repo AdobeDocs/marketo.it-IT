@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: Verificare L'Integrazione Degli Eventi ON24 - Documenti Marketo - Documentazione Del Prodotto
 title: Verificare l'integrazione degli eventi ON24
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Di seguito è spiegato in che modo i dati vengono aggiornati dopo l’evento:
 * Marketo recupera i dati dei partecipanti da ON24 ogni notte.
 * Dopo la sincronizzazione dei dati dei partecipanti tra Marketo e ON24, Marketo aggiorna lo stato dell’iscrizione a Partecipante, Partecipato on-demand o Nessun evento. Nella scheda **Riepilogo** dell&#39;evento, lo stato dell&#39;evento viene aggiornato a **Evento completato**.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Esempio di integrazione evento ON24](example-on24-event-integration.md)
 >* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](understanding-marketo-on24-adapter-events.md)
