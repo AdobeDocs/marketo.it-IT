@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: Utilizzo dei costi del periodo in un programma - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo dei costi del periodo in un programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Un costo [](understanding-period-costs.md) periodo è l&#39;importo speso per un
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sui costi del periodo](understanding-period-costs.md)
 >* [Analisi del ciclo delle entrate](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
