@@ -2,9 +2,9 @@
 title: use-filter-to-sort-the-tree
 description: Usare i filtri per ordinare la struttura ad albero
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Per accedere al pannello dei filtri, fai clic sull’icona Filtri nella parte su
 
 Potete utilizzare questa funzione per trovare le risorse create o modificate entro un intervallo di date specifico; Ad esempio, la settimana scorsa, negli ultimi tre mesi, ecc.
 
-Per impostazione predefinita, Marketo carica tutti i contenuti degli ultimi sei mesi. Per modificare questa impostazione, seleziona un intervallo dal menu a discesa [!UICONTROL **Scegli intervallo**] date. Queste impostazioni saranno applicate anche al successivo accesso a Marketo.
+Per impostazione predefinita, Marketo carica tutti i contenuti degli ultimi sei mesi. Per modificare questa impostazione, selezionate un intervallo dal **[!UICONTROL Choose Date Range]** menu a discesa. Queste impostazioni saranno applicate anche al successivo accesso a Marketo.
 
 ![Immagine due](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
