@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Report attività pagina Web - Documenti Marketo - Documentazione prodotto
 title: Report attività pagina Web
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ In questo rapporto puoi vedere chi visita il tuo sito Web e iscriverti a una ver
 
 Potete scegliere di visualizzare persone conosciute o anonime, ma non entrambi i tipi nello stesso rapporto.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungi Munchkin Tracking Code al tuo sito Web](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
