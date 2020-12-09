@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Informazioni su tutto il contenuto - Documenti Marketo - Documentazione del prodotto
 title: Informazioni su tutto il contenuto
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Filtrare il contenuto selezionando una o più categorie. Quindi, configurate l&#
 
 1. A questo punto, l&#39;analisi mostra il contenuto nell&#39;intervallo di date selezionato.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiungi nuovo contenuto](add-new-content.md)
 >* [Elimina contenuto](delete-content.md)
