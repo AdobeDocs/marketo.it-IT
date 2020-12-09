@@ -3,9 +3,9 @@ unique-page-id: 1147360
 description: Aggiunta di token a un collegamento e-mail - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di token a un collegamento e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Per inserire parametri aggiuntivi e specifici per una persona nei collegamenti, 
 
    Ed è tutto!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzo degli URL nei token personali](using-urls-in-my-tokens.md)
 
