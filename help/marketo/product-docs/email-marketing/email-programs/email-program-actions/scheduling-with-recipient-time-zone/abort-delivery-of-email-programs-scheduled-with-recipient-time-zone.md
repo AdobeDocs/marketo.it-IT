@@ -3,9 +3,9 @@ unique-page-id: 13795727
 description: Interrompi la consegna dei programmi e-mail pianificati con il fuso orario del destinatario - Documenti Marketo - Documentazione del prodotto
 title: Interrompi consegna programmi e-mail pianificati con il fuso orario del destinatario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Poiché i programmi e-mail pianificati con il fuso orario del destinatario posso
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sul fuso orario del destinatario](understanding-recipient-time-zone.md)
 >* [Pianificazione dei programmi e-mail con il fuso orario del destinatario](schedule-email-programs-with-recipient-time-zone.md)
