@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Retargeting con dati di personalizzazione Web - Documenti Marketo - Documentazione prodotto
 title: Ritargeting con dati di personalizzazione Web
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Un pubblico segmentato consente di selezionare un segmento esistente come audien
 
    È stata completata l&#39;impostazione di retargeting in Web Personalization (Personalizzazione Web), è possibile accedere alle piattaforme di retargeting e creare il pubblico in base a tali dati e impostare le campagne di retargeting.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Osservazioni personalizzate in Google](personalized-remarketing-in-google.md)
 >* [Osservazioni personalizzate su Facebook](personalized-remarketing-in-facebook.md)
