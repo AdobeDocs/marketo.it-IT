@@ -3,9 +3,9 @@ unique-page-id: 2359587
 description: Champion/Challenger - Elimina un test e-mail - Marketo Docs - Documentazione prodotto
 title: Champion/Challenger - Elimina un test e-mail
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Se, in qualsiasi momento, decidete di non voler continuare a eseguire il test e-mail, potete eliminarlo. Ecco come.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Campione/Sfida: Approva il test e-mail](champion-challenger-approve-your-email-test.md)
 
