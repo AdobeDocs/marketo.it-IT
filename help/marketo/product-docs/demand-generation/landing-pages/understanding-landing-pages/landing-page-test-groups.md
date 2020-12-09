@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: Gruppi di test della pagina di destinazione - Marketo Docs - Documentazione del prodotto
 title: Gruppi di test della pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti del modulo su ciascuna pagina sottoposta a test all’interno di un gruppo di test. Potete utilizzare i risultati dei gruppi di test per stabilire quale pagina di destinazione sia più interessante. Come creare un gruppo di test.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Creare due o più pagine](../../../../getting-started/quick-wins/landing-page-with-a-form.md)di destinazione, preferibilmente con un modulo.
 
