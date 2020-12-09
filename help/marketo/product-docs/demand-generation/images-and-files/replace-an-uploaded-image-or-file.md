@@ -3,9 +3,9 @@ unique-page-id: 2359876
 description: Sostituire un'immagine o un file caricato - Documenti Marketo - Documentazione del prodotto
 title: Sostituire un'immagine o un file caricato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 Ce l&#39;hai fatta!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Cerca immagini e file caricati](search-uploaded-images-and-files.md)
 >* [Trovare l’URL di un’immagine o di un file caricato](find-the-url-of-an-uploaded-image-or-file.md)
