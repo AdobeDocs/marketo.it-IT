@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: Aggiornamenti alla registrazione degli eventi ON24 - Documenti Marketo - Documentazione del prodotto
 title: Aggiornamenti alla registrazione degli eventi ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Se una persona finisce per non essere registrata, ma piuttosto impostata sullo s
 
 Marketo raccoglie automaticamente le informazioni di presenza all&#39;incirca alle 11:00 del Pacifico ogni notte. Per aggiornare manualmente le informazioni di partecipazione, fate clic su **Aggiorna dal provider** webinar in Azioni **** evento.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
