@@ -3,9 +3,9 @@ unique-page-id: 8783141
 description: Invio di un esempio di notifica push - Documenti Marketo - Documentazione prodotto
 title: Invio di un esempio di notifica push
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Potete inviare un esempio per verificare il corretto funzionamento della notifica push!
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Accertatevi che l&#39;app sia installata sul dispositivo a cui state inviando l&#39;esempio.
 
