@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segmenti Web - Documenti Marketo - Documentazione prodotto
 title: Segmenti Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Dalla pagina **Segmenti** , fai clic su **Crea nuovo** sotto il grafico. Viene v
 
 Definite i parametri generali per il segmento:
 
-1. &#x200B;
+1. 
 
    * **Nome:**  Denominate il segmento.
    * **Descrizione:**  Fornire una spiegazione più dettagliata dei criteri del segmento.
@@ -109,22 +109,24 @@ Definite i parametri generali per il segmento:
 >
 >1. Usa tutti i filtri (1, 2 e 3...)
 >1. Usare eventuali filtri (1, 2 o 3...)
->1. Filtri avanzati (tramite e/o espressioni)
->    1. &#x200B;
->       
->       I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
->       * 1 e 2 e 3
->       * 1 o 2 o 3
->
->       La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
->       * 1 e (2 o 3)
->       * (1 e 2) o 3
->
->       Le parentesi nidificate sono accettate per logica più complessa, ad esempio
->       * (1 e 2) o (3 e 4)
->       * 1 e 2 o 3 e 4)
->
->      Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
+>1. Filtri avanzati (tramite e/o espressioni) >
+   >    1. >    
+   >       
+
+      >I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.  >
+      >        * 1 e 2 e 3
+      >        * 1 o 2 o 3
+
+      >
+      La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:  >
+      * 1 e (2 o 3)
+      * (1 e 2) o 3
+
+      Le parentesi nidificate sono accettate per logica più complessa, ad esempio  >
+      * (1 e 2) o (3 e 4)
+      * 1 e 2 o 3 e 4)
+
+      Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
 
 
 
@@ -340,8 +342,7 @@ Non è possibile eliminare un segmento associato a una campagna. Prima è necess
 
 Fantastico! Ora che hai compreso la sezione Segmenti, impariamo a conoscere le campagne.
 
->[!NOTE]
-**Articoli correlati**
+>[!MORELIKETHIS]
 * [Creare un segmento Web di base](create-a-basic-web-segment.md)
 * [Creazione di una nuova finestra di dialogo Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Creare una nuova campagna Web nella zona](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
