@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: Creare un analizzatore di influenza opportunità - Documenti Marketo - Documentazione prodotto
 title: Creare un analizzatore di influenza opportunità
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contribu
 >
 >È inoltre possibile guardare un video su Opportunity Influence Analyzer all&#39;Università di [Marketo](https://learn.marketo.com). (Ora sembra un po&#39; diverso, ma c&#39;è ancora molto da imparare!)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Comunicare la storia di marketing con un analizzatore di influenza opportunità](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Configurare un analizzatore di influenza opportunità](configure-an-opportunity-influence-analyzer.md)
