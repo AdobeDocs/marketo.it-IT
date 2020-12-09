@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Priorità, Urgenza, Punteggio relativo e Migliori Scommesse - Marketo Docs - Documentazione prodotto
 title: Priorità, Urgenza, Punteggio relativo e migliori risultati
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Con la modifica dei punteggi, i valori di urgenza, priorità e punteggio relativ
 >
 >Il conteggio Urgenza relativa (fiamme) e Valutazione relativa (stelle) sono numeri interi in Marketo. I valori possibili per ciascun valore sono 0-3.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sulle vendite di Marketo](http://docs.marketo.com/display/docs/marketo+sales+insight)
 
