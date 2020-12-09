@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Campi personalizzati per i membri del programma - Documenti Marketo - Documentazione prodotto
 title: Campi personalizzati membri del programma
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 * Sono supportate l&#39;importazione e l&#39;esportazione tramite [](http://docs.marketo.com/x/egAk)listand [](http://developers.marketo.com/)API.
 * Quando si uniscono due persone, verranno utilizzati i dati del campo personalizzato Membro programma del vincitore. Tuttavia, se il vincitore non ne ha, verrà utilizzato il valore del perdente.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Creare un campo personalizzato in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
