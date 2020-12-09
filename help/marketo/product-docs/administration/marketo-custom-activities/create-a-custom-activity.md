@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: Creare un'attività personalizzata - Documenti Marketo - Documentazione prodotto
 title: Creazione di un'attività personalizzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Per creare una nuova attività personalizzata, effettuate le seguenti operazioni
 
    Ed è tutto!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sulle attività personalizzate](understanding-custom-activities.md)
 
