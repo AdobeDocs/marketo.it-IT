@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: Gestisci dati persona - Documenti Marketo - Documentazione prodotto
 title: Gestisci dati persona
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ Sfruttare Dati persona per la personalizzazione Web selezionando i campi persona
 
 Per i nuovi account Web Personalization sono disponibili i seguenti campi lead:
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creazione di un segmento utilizzando dati di persona nota](create-a-segment-using-known-person-data.md)
 
