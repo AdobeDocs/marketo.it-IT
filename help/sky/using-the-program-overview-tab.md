@@ -2,9 +2,9 @@
 title: using-the-program-overview-tab
 description: Utilizzo della scheda Panoramica del programma
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Nella [!UICONTROL Program Overview] scheda sono disponibili tre sezioni: [!UICONTROL **Dettagli**], [!UICONTROL **Pianificazione**] e [!UICONTROL **Rapporti**]. Ecco un rapido sguardo a ciascuno.
+Nella [!UICONTROL Program Overview] scheda sono disponibili tre sezioni: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** e **[!UICONTROL Reports]**. Ecco un rapido sguardo a ciascuno.
 
 ## Dettagli
 
@@ -22,7 +22,7 @@ Nella pagina dei dettagli principale vengono visualizzate informazioni generali 
 
 ![Immagine uno](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Nella parte inferiore della pagina sono presenti due sezioni: [!UICONTROL **Statistiche**] del programma e [!UICONTROL **utilizzato da**]. [!UICONTROL **Le statistiche**] del programma mostrano le metriche chiave sulle prestazioni del programma, e [!UICONTROL **Usato da**] è un modo semplice per vedere dove viene utilizzato il programma in Marketo.
+Nella parte inferiore della pagina sono presenti due sezioni: **[!UICONTROL Program Stats]** e **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** mostra le metriche chiave sulle prestazioni del programma, ed **[!UICONTROL Used By]** è un modo semplice per vedere dove viene utilizzato il programma in Marketo.
 
 ![Immagine due](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
