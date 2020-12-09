@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: Approvazione delle fasi e assegnazione dei lead a un modello di ricavi - Documenti Marketo - Documentazione prodotto
 title: Approvazione di fasi e assegnazione di lead a un modello di ricavi
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Create una regola Punteggio lead per assegnare i nuovi lead con un punteggio min
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Per approvare il modello, consultare la nostra pagina della guida in ** [Approvazione e annullamento dell&#39;approvazione di un modello](approve-unapprove-a-revenue-model.md)di ricavi**.
 
