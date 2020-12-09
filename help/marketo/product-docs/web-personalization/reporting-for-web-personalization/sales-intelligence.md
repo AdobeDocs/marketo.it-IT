@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: Informazioni sulle vendite - Documenti Marketo - Documentazione sui prodotti
 title: Informazioni sulle vendite
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ In Impostazioni [](/help/marketo/product-docs/web-personalization/getting-starte
 >
 >È consigliabile configurare gli amministratori delle vendite con l&#39;autorizzazione di sola visualizzazione in Marketing Web Personalization. Ciò significa che possono visualizzare tutte le pagine, ma non creare, modificare o eliminare alcuna funzionalità.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Rapporti e-mail](email-reports.md)
 
