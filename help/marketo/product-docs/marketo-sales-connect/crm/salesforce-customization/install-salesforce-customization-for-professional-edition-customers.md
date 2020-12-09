@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Installazione della personalizzazione Salesforce per i clienti Professional Edition - Documenti Marketo - Documentazione del prodotto
 title: Installazione della personalizzazione Salesforce per i clienti Professional Edition
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Per installare la personalizzazione, i clienti che dispongono di Salesforce Professional Edition dovranno seguire questi passaggi.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* L&#39;amministratore di Sales Connect deve collegare i propri account Salesforce e Sales Connect.
 >* L&#39;istanza di Salesforce utilizzata deve disporre di spazio per installare tredici campi attività personalizzati.
