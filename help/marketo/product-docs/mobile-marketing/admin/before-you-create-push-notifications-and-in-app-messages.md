@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Prima di creare notifiche push e messaggi in-app - Documenti Marketo - Documentazione prodotto
 title: Prima di creare notifiche push e messaggi in-app
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ Per i messaggi in-app, l&#39;attivatore di visualizzazione è impostato su **App
 
 Dopo aver preparato tutti i messaggi in-app e le notifiche push, è ora di iniziare!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare un messaggio in-app](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
