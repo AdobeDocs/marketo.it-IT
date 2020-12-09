@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: Elenco di controllo configurazione - Documenti Marketo - Documentazione prodotto
 title: Elenco di controllo installazione
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di contro
 
 1. Collaborazione con uno sviluppatore Web per aggiungere codice di tracciamento al sito Web
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Procedura di impostazione](../../getting-started/setup-steps.md)
 
