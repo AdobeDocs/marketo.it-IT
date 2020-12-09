@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: Aggiungere un video a una pagina di destinazione a forma libera - Marketo Docs - Documentazione del prodotto
 title: Aggiungere un video a una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Inserite i video con opzioni di condivisione per social network nelle pagine di 
 
 Congratulazioni! È stata aggiunta una condivisione video alla pagina di destinazione a forma libera. Approva la pagina di destinazione e la condivisione video è live. Potete anche [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video nel sito](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)Web.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Al termine, potete tuttavia modificare le impostazioni della condivisione video, se necessario. Iniziate con [la personalizzazione del flusso](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) di condivisione (quando e dove si apre il prompt di condivisione).
 
