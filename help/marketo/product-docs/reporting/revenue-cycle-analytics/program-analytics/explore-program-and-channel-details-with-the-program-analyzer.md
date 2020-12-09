@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Esplora i dettagli di programma e canale con il programma Analyzer - Marketo Docs - Documentazione prodotto
 title: Esplora i dettagli di programma e canale con il programma Analyzer
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 È possibile visualizzare informazioni dettagliate su programmi e canali in Program Analyzer. È inoltre possibile aprirli in Esplora ciclo ricavi.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un analizzatore di programmi](create-a-program-analyzer.md)
 
