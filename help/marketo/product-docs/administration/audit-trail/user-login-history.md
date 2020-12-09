@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Cronologia login utente - Documenti Marketo - Documentazione prodotto
 title: Cronologia login utente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La cronologia di accesso dell&#39;utente consente di mantenere la responsabilità e la sicurezza mostrando esattamente chi ha effettuato l&#39;accesso all&#39;iscrizione, compresi i tentativi di accesso non riusciti.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per visualizzare la cronologia di login utente, è necessario avere attivato un ruolo con l&#39;autorizzazione Cronologia di accesso.
 
