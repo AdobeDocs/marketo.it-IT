@@ -2,9 +2,9 @@
 title: disable-or-enable-esaurimento-content-notifications
 description: Disattivazione o abilitazione delle notifiche di contenuto con esaurimento
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Quando gli utenti esauriscono tutto il contenuto in un flusso, [!DNL Marketo] po
 
    ![Immagine uno](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Fate clic sulla scheda [!UICONTROL **Configurazione**] .
+1. Fate clic sulla **[!UICONTROL Setup]** scheda.
 
    ![Immagine due](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Scorrete verso il basso [!UICONTROL Settings] e selezionate [!UICONTROL **Disattiva**] (o [!UICONTROL On]).
+1. Scorri verso il basso fino [!UICONTROL Settings] a selezionare **[!UICONTROL Off]** (o [!UICONTROL On]).
 
    ![Immagine tre](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
