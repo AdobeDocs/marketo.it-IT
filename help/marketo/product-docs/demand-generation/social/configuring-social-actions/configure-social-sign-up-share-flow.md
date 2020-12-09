@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: Configurare il flusso di registrazione/condivisione social network - Documenti Marketo - Documentazione prodotto
 title: Configurare il flusso di registrazione/condivisione mediante social network
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ Se scegliete i valori dei tag della pagina (og:title, og:caption e og:descriptio
 >
 >Se caricate un&#39;immagine, non la visualizzerete qui finché non chiuderete e riaprite l&#39;editor dell&#39;app per social network.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Successivamente, puoi fare clic su **Fine > Approva e chiudi** e inserire l&#39;app social in una pagina di destinazione. Potete anche configurare l’acquisizione [di](configure-person-capture-for-a-social-app.md) persona o il prompt di [condivisione](configure-re-share-email-and-prompt-for-a-social-app.md).
 
