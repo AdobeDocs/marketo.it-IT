@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: Utilizzare le e-mail in Promozioni social - Documenti Marketo - Documentazione prodotto
 title: Utilizzare le e-mail nelle promozioni social
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Nelle e-mail, utilizzate i seguenti token:
 
 * **E-mail** di evasione: Utilizzate **`{{social.Promo Code}}`** per inviare a ciascun vincitore un codice [](use-promo-codes-for-offer-fulfillment.md)promozionale.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per poter aggiungere un&#39;e-mail a un&#39;app social, è necessario che sia *operativa* e *approvata*. Consultate [Modificare le impostazioni per un messaggio e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
