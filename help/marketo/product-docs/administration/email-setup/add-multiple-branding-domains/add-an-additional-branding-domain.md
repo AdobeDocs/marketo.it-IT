@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Aggiungere un dominio di branding aggiuntivo - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un dominio di branding aggiuntivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una singola istanza di Marketo e vuoi che ciascuno di essi disponga di propri collegamenti di tracciamento con il proprio marchio.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Prima di aggiungere altri domini con marchio, devi [sostituire il collegamento](edit-your-default-branding-domain.md) di tracciamento generico con un dominio con marchio.
 
