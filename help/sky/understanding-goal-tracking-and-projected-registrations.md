@@ -2,9 +2,9 @@
 title: tracking-obiettivo-obiettivo-e-proiezioni-registrazioni
 description: Comprendere il tracciamento degli obiettivi e le registrazioni previste
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '969'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Dopo aver [fissato gli obiettivi](/help/sky/setting-event-goals.md)dell&#39;even
 
 ## Tracciamento degli obiettivi e registrazioni previste
 
-1. Potete trovare i dettagli di tracciamento obiettivo nella scheda [!UICONTROL **Rapporti**] del programma dell&#39;evento. In questo particolare esempio, ci sono 150 iscritti finora contro l&#39;obiettivo di 200 (75%).
+1. Potete trovare i dettagli di tracciamento dell&#39;obiettivo nella **[!UICONTROL Reports]** scheda del programma dell&#39;evento. In questo particolare esempio, ci sono 150 iscritti finora contro l&#39;obiettivo di 200 (75%).
 
    ![Immagine uno](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Verranno inoltre visualizzate le registrazioni [!UICONTROL **previste**] . Passa il cursore del mouse sull’icona info per visualizzare una suddivisione di questo numero per segmento probabilità.
+Verranno inoltre visualizzate **[!UICONTROL Projected]** le registrazioni. Passa il cursore del mouse sull’icona info per visualizzare una suddivisione di questo numero per segmento probabilità.
 
 ![Immagine due](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ Nella parte superiore della pagina Rapporti potete trovare raccomandazioni basat
 
 ## previsioni a livello di persona
 
-Fare clic sulla scheda [!UICONTROL **Membri**] per visualizzare tutti i membri del programma. Passa il cursore del mouse sulle barre di probabilità di [!UICONTROL **registrazione**] o di [!UICONTROL **probabilità**] di partecipazione per visualizzare le percentuali e le categorie esatte. Potete quindi intervenire sui membri di una particolare categoria (ad esempio, tutti nella categoria &quot;Minori probabilità&quot; di registrare) e mirare specificatamente a incrementare i numeri di registrazione.
+Fare clic sulla **[!UICONTROL Members]** scheda per visualizzare tutti i membri del programma. Passa il cursore del mouse sulle **[!UICONTROL Registration Likelihood]** barre per visualizzare **[!UICONTROL Attendance Likelihood]** le percentuali e le categorie esatte. Potete quindi intervenire sui membri di una particolare categoria (ad esempio, tutti nella categoria &quot;Minori probabilità&quot; di registrare) e mirare specificatamente a incrementare i numeri di registrazione.
 
 ![Immagine sette](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
