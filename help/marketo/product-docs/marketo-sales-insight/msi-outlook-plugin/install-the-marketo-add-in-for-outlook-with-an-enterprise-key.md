@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise - Marketo Docs - Documentazione del prodotto
 title: Installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Molte volte, i rappresentanti delle vendite non dispongono di privilegi amministrativi sui loro laptop, e i loro team IT sono responsabili dell&#39;installazione remota di tutti i software. Il componente aggiuntivo Marketo per Outlook può essere installato in questo modo utilizzando la chiave Enterprise, che si trova nella sezione Sales Insight di Admin.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >L&#39;amministratore deve aver [emesso una licenza](issue-a-marketo-email-add-in-license.md)per il componente aggiuntivo e-mail Marketo.
 
