@@ -3,9 +3,9 @@ unique-page-id: 10099411
 description: Panoramica sull'analisi delle informazioni e-mail - Documenti Marketo - Documentazione del prodotto
 title: Panoramica sull'analisi degli approfondimenti e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ You can also specify what you see (left to right): All, Audience, Content, and P
 `  ` ![](assets/guided-bar.png)  
 `
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Panoramica sulle e-mail Insights](email-insights-sends-overview.md)
 
