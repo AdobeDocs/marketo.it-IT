@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: Utilizzo di Field Organizers - Marketo Docs - Documentazione prodotto
 title: Utilizzo di organizzatori di campi
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ Gli organizzatori di campi sono utilizzati in Model Performance Analysis.
 
 Se necessario, create più organizzatori di campi nello stesso modo. Ed eccoci qui.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Creazione di gruppi di campi personalizzati con l&#39;organizzatore dei campi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
