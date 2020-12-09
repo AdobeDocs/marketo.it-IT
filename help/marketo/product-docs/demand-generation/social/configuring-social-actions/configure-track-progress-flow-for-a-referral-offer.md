@@ -3,9 +3,9 @@ unique-page-id: 2950573
 description: Configurare il flusso di avanzamento del monitoraggio per un'offerta di riferimento - Documenti Marketo - Documentazione del prodotto
 title: Configurare il flusso di avanzamento del tracciamento per un'offerta di riferimento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Quando [create un&#39;offerta](../../../../product-docs/demand-generation/social
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Quindi, fate clic su **Fine > Approva e chiudi** e [pubblicate l’offerta](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)di riferimento.
 
