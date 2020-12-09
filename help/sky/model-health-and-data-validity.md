@@ -2,9 +2,9 @@
 title: modello-integrità e validità dei dati
 description: Stato del modello e validità dei dati
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Le prestazioni dei modelli dipendono dalla qualità e completezza dei dati di input. Ecco come valutare lo stato di salute del modello.
 
-Andate alla sezione [!UICONTROL **Modelli e integrità**] dati in Pubblico [!UICONTROL ****] predittivo nell&#39;area [!UICONTROL **Amministratore**] di Marketo Classic. Qui troverete tutti i vostri modelli e i loro stati.
+Andate alla **[!UICONTROL Models and Data Health]** sezione in **[!UICONTROL Predictive Audiences]** nell&#39; **[!UICONTROL Admin]** &#39;area di Marketo Classic. Qui troverete tutti i vostri modelli e i loro stati.
 
 ![Immagine uno](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
