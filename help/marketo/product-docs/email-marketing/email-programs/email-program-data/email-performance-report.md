@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: Rapporto sulle prestazioni e-mail - Documenti Marketo - Documentazione prodotto
 title: Report prestazioni e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ In generale, cerchiamo di usare il buon senso per registrare queste statistiche.
 >
 >Più invii dalla stessa campagna alla stessa persona vengono conteggiati solo una volta.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Filtrare le risorse nei rapporti e-mail della campagna](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Report prestazioni collegamento e-mail](email-link-performance-report.md)
