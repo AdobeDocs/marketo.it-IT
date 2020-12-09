@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Impostazioni di consenso bipartito - Documenti Marketo - Documentazione del prodotto
 title: Impostazioni di consenso biparte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Al fine di garantire la conformità con le leggi di consenso biparte degli Stati Uniti durante la registrazione delle chiamate, in qualità di Amministratore puoi abilitare un messaggio preregistrato di tua scelta a essere riprodotto all&#39;inizio delle chiamate quando viene registrato.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Prima di seguire i passaggi indicati di seguito, devi prima [abilitare la registrazione delle chiamate.](http://docs.marketo.com/x/dAC1Ag)
 
