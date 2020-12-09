@@ -2,9 +2,9 @@
 title: my-token-rich-text
 description: Testo RTF token personale
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Come impostare un token RTF da utilizzare nei programmi e nelle cartelle delle c
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
-1. Immettete un nome per il nuovo token, quindi aggiungete il testo desiderato nell’editor. Fate clic su [!UICONTROL **Salva**].
+1. Immettete un nome per il nuovo token, quindi aggiungete il testo desiderato nell’editor. Fate clic **[!UICONTROL Save]**.
 
    ![Immagine due](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
