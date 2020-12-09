@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Utilizzo di azioni di massa in Salesforce Classic - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di azioni di massa in Salesforce Classic
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, inviare un messaggio e-mail in massa o inviare i lead da Salesforce a Sales Connect.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Effettuate l&#39;aggiornamento alla versione più recente del pacchetto Sales Connect e installate i pulsanti di azione in blocco nella vista lead/contatto. [Fare clic qui per le istruzioni](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
