@@ -3,9 +3,9 @@ unique-page-id: 4718656
 description: Creare un nuovo modello di entrate - Documenti Marketo - Documentazione prodotto
 title: Creare un nuovo modello di ricavi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 Sembra intelligente! Siete appena entrati nel meraviglioso mondo della modellazione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Ulteriori informazioni sull&#39; [utilizzo delle fasi](using-revenue-model-inventory-stages.md)di inventario dei modelli di ricavi.
 
