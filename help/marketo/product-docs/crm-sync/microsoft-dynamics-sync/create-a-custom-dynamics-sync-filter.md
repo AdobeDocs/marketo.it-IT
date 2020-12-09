@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: Creare un filtro di sincronizzazione dinamica personalizzato - Documenti Marketo - Documentazione prodotto
 title: Creare un filtro di sincronizzazione dinamica personalizzato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo cerca questo campo durante la sincronizzazione automatica in background 
 >
 >L&#39;unico modo per indicare a Marketo di saltare un record è impostare il valore del campo in modo esplicito su **No**. Marketo sincronizza ancora i record anche se i valori dei campi sono vuoti.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Installate la versione più recente del plug-in Marketo (3.0.0.1 o versione successiva). Vai a Marketing > Amministratore > Microsoft Dynamics > Scarica soluzione Marketo.
 
