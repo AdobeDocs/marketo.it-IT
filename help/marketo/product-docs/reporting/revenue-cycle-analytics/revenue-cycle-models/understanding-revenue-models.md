@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: I modelli delle entrate - Marketo Docs - Documentazione del prodotto
 title: Informazioni sui modelli di ricavi
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Chiarisci esattamente in che modo un lead si sposta da una fase all’altra util
 
 Di seguito sono riportati alcuni collegamenti che possono essere utili. (o eventualmente disponibile - scegli la tua scelta!)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Creare un nuovo modello di ricavi](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ Aggiunta di una fase del percorso di riuscita   ![](assets/image2015-6-12-10-3a1
 
 Lost è una buona da aggiungere, ma notare che non è sul percorso verde. Questo perché non è un &quot;successo&quot;.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Report sul modello di ricavi](report-on-your-revenue-model.md)
 >
