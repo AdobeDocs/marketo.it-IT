@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: Informazioni sui contenuti dinamici - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui contenuti dinamici
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Dopo aver creato diversi segmenti, puoi aggiungere blocchi di contenuto dinamici
 
 Provateci e raccontateci la vostra storia di successo!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creazione di una segmentazione](create-a-segmentation.md)
 >* [Creare uno snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
