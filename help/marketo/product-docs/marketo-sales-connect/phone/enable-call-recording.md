@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Abilita registrazione chiamate - Documenti Marketo - Documentazione prodotto
 title: Abilita registrazione chiamate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ In qualità di amministratore potete abilitare la registrazione delle chiamate p
 
    ![](assets/four.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Impostazioni di consenso di due parti](http://docs.marketo.com/x/dgC1Ag)
 
