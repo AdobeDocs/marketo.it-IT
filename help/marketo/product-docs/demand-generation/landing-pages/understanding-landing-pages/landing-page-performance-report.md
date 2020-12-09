@@ -3,9 +3,9 @@ unique-page-id: 2359713
 description: Rapporto sulle prestazioni della pagina di destinazione - Documenti Marketo - Documentazione del prodotto
 title: Rapporto sulle prestazioni della pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Guarda quante persone hanno riempito il `forms` tuo `landing pages`e quante eran
 >
 >Scopri ulteriori informazioni su altri report interessanti nella sezione [Base Reporting (Generazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting) di base).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Filtra il rapporto](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) sulle prestazioni della pagina di destinazione in base a risorse locali o globali.
 
