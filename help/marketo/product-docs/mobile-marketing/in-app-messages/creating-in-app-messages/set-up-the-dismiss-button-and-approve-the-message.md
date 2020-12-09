@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: Impostare il pulsante di disattivazione e approvare il messaggio - Documenti Marketo - Documentazione del prodotto
 title: Impostazione del pulsante Ignora e approvazione del messaggio
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Tante scelte, ma ora hai un messaggio in-app di grande impatto, pronto per esser
 
 Ora è il momento di [inviare il tuo messaggio](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sui messaggi in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Invia messaggio in-app](http://docs.marketo.com/display/docs/send+your+in-app+message)
