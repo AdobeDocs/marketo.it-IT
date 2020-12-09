@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: Il Predictive Content Summary - Marketo Docs - Documentazione del prodotto
 title: Riepilogo contenuto predittivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Quali categorie di contenuti sono più coinvolgenti? Vedetela in questo grafico.
 >
 >Se fate clic su un collegamento di categoria (esempi nell’immagine precedente: e-mail, ecc.) apre la pagina Tutto il contenuto con la categoria su cui hai fatto clic e che mostra l&#39;analisi del contenuto in quella categoria.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzo di tutto il contenuto](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [Utilizzo dei contenuti predittivi](http://docs.marketo.com/display/docs/working+with+predictive+content)
