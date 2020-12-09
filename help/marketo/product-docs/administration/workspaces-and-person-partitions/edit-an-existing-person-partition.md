@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: Modifica di una partizione di persona esistente - Documenti Marketo - Documentazione di prodotto
 title: Modifica di una partizione di persona esistente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Una partizione di persona è come avere un secondo (o terzo) database. È possib
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creazione di una partizione di persona](create-a-person-partition.md)
 
