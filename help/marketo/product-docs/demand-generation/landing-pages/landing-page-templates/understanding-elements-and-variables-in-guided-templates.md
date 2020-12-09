@@ -3,9 +3,9 @@ unique-page-id: 7515069
 description: Informazioni sugli elementi e le variabili nei modelli guidati - Documenti Marketo - Documentazione prodotto
 title: Informazioni sugli elementi e le variabili nei modelli guidati
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Esistono tre tipi di variabili: variabili stringa, variabili colore e variabili 
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Creare un modello di pagina di destinazione guidato](create-a-guided-landing-page-template.md)
 
