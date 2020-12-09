@@ -3,9 +3,9 @@ unique-page-id: 7504437
 description: Aggiungere un'immagine di sfondo a una presentazione - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un'immagine di sfondo a una presentazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Personalizzate una presentazione selezionando un’immagine di sfondo.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare una presentazione](create-a-presentation.md)
 
