@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: Utilizzo dell'editor Rich Text per la personalizzazione del Web - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo dell’editor Rich Text per la personalizzazione del Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Le icone importanti nell’editor Rich Text includono:
 >
 >I token Web utilizzano i dati [](http://docs.marketo.com/display/DOCS/Manage+Person+Data) delle persone del database Marketo gestito in Web Personalization in Impostazioni account > Database. Se il token Web è un nuovo campo di database non ancora disponibile in Impostazioni account > Database, verrà aggiunto automaticamente e l&#39;attivazione richiederà fino a 24 ore.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Utilizzo dell’editor Rich Text](http://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
 
