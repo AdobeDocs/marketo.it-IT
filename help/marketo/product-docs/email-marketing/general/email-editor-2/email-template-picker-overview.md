@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Panoramica del selettore dei modelli e-mail - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del selettore dei modelli e-mail
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Potete anche fare clic con il pulsante destro del mouse sulla miniatura di un mo
 
 Abbastanza pulito!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Sintassi modello e-mail](email-template-syntax.md)
 >* [Creare un messaggio e-mail](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
