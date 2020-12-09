@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: Scegliere un layout per il messaggio in-app - Documenti Marketo - Documentazione prodotto
 title: Scegliere un layout per il messaggio in-app
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Il terzo layout Schermo intero è lo stesso del secondo, tranne il secondo pulsa
 
 Ora che conosci i modelli, è il momento di sceglierne uno quando [crei le immagini](add-in-app-message-images.md)dei messaggi in-app.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Creare un messaggio in-app](http://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [Informazioni sui messaggi in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
