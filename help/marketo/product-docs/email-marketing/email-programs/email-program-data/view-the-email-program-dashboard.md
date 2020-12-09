@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: Visualizza il Pannello programma e-mail - Documenti Marketo - Documentazione prodotto
 title: Visualizza il dashboard del programma e-mail
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ In alternativa, se non avete aggiunto un test A/B *o* se il test è terminato, d
 >
 >Sperimentate spostando il cursore sui widget del grafico. Verranno visualizzate ulteriori informazioni.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzare il Pannello programma e-mail - Visualizzazione test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [Utilizzare il dashboard del programma e-mail](use-the-email-program-dashboard.md)
