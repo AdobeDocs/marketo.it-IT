@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Invia e tieni traccia da Outlook utilizzando un modello Marketo - Documenti Marketo - Documentazione prodotto
 title: Invio e tracciamento da Outlook con un modello Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Se il team di marketing ti ha reso disponibili i modelli, ecco come utilizzarli 
 
    Ed eccola! È stato possibile risparmiare un sacco di tempo utilizzando modelli creati dal team di marketing straordinario per voi.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Registra posta in entrata dai lead di Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
