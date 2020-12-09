@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: Creazione e modifica di visualizzazioni per elenchi ed elenchi avanzati - Documenti Marketo - Documentazione prodotto
 title: Creare e modificare le visualizzazioni per elenchi e elenchi avanzati
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Un elenco avanzato visualizza un set predefinito di colonne. Sapevate che poteva
 
 Puoi solo visualizzare le viste personalizzate create nel menu a discesa Visualizza, per cui chiedi ai tuoi amici di crearne una nuova!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Usa elenchi avanzati integrati/di sistema](use-built-in-system-smart-lists.md)
 >* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
