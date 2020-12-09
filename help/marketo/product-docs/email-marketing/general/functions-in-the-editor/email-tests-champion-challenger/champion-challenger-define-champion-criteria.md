@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Champion/Challenger - Definisci i criteri di promozione - Marketo Docs - Documentazione del prodotto
 title: Campione/Sfida - Definizione dei criteri di promozione
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Una volta configurato il tipo di test, è necessario definire i criteri campione. Ecco come.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungi un campione e-mail/Challenger](add-an-email-champion-challenger.md)
 
