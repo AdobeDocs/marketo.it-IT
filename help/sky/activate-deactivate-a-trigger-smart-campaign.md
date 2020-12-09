@@ -2,9 +2,9 @@
 title: activate-deactivate-a-trigger-smart-campaign
 description: Attivare/Disattivare una campagna di attivazione intelligente
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ L&#39;attivazione/disattivazione di una campagna smart trigger consiste fondamen
 
 ## Attivare una campagna di attivazione
 
-1. Nella campagna intelligente, fai clic sulla scheda [!UICONTROL **Pianificazione**] .
+1. Nella campagna intelligente, fate clic sulla **[!UICONTROL Schedule]** scheda.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ L&#39;attivazione/disattivazione di una campagna smart trigger consiste fondamen
    >
    >Rivedete la campagna intelligente prima di attivarla.
 
-1. Fate clic su [!UICONTROL **Attiva**].
+1. Fate clic **[!UICONTROL Activate]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ Da questo momento in poi, chiunque si qualifichi per l’elenco smart passerà a
 
 ## Disattiva una campagna di attivazione
 
-1. Nella campagna intelligente, fai clic sulla scheda [!UICONTROL **Pianificazione**] .
+1. Nella campagna intelligente, fate clic sulla **[!UICONTROL Schedule]** scheda.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Fate clic su [!UICONTROL **Disattiva**].
+1. Fate clic **[!UICONTROL Deactivate]**.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
