@@ -2,9 +2,9 @@
 title: understanding-my-token
 description: Informazioni sui token personali
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Quando si crea un nuovo token, è possibile farvi riferimento da altri oggetti d
 * **[Token ignorato:](/help/sky/override-an-inherited-my-token.md)** Il token è stato ereditato, ma è stata fatta un&#39;eccezione in questo programma o cartella.
 * **Token ereditato:** Il token è stato creato nella struttura ad albero in un programma o in una cartella di livello superiore.
 
-Questi tre tipi si trovano nella scheda [!UICONTROL **My Tokens**] (Token personali) nella cartella del programma o della campagna.
+Potete trovare questi tre tipi nella **[!UICONTROL My Tokens]** scheda nella cartella del programma o della campagna.
 
 ![Immagine due](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
