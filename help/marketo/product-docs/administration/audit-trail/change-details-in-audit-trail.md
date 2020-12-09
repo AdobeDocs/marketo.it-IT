@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Modifica dei dettagli nella traccia di controllo - Documenti Marketo - Documentazione del prodotto
 title: Modifica dettagli nella traccia di audit
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1901'
 ht-degree: 0%
 
 ---
@@ -799,9 +799,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Filtro nella traccia di controllo](filtering-in-audit-trail.md)
 
