@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Imposta l'attribuzione delle entrate per le campagne pubblicitarie digitali - Marketo Docs - Documentazione del prodotto
 title: Impostazione dell'attribuzione delle entrate per le campagne pubblicitarie digitali
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Dopo aver configurato il primo programma di annunci in Marketo, puoi duplicarlo 
 
 Con programmi separati, puoi quindi tenere traccia del numero di conversioni da ciascuna di esse e visualizzare i tuoi programmi in Program Analyzer, Opportunity Influence Analyzer e altre funzionalità di Marketing Analytics.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* Impostare un tag canale con valori di stato e successo del programma (ad esempio, Digital Advertising o Social Paid e PPC)
 >* Creare o modificare un modulo per passare una stringa di query con la persona
