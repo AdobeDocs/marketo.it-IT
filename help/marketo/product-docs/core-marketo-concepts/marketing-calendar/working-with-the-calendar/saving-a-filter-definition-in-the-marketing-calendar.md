@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: Salvataggio di una definizione di filtro nel calendario di marketing - Documenti Marketo - Documentazione prodotto
 title: Salvataggio di una definizione di filtro nel calendario di marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Il salvataggio di un filtro consente di passare da una definizione di filtro all’altra.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Filtrare il calendario di marketing](filtering-the-marketing-calendar.md)
 
