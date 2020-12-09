@@ -3,9 +3,9 @@ unique-page-id: 7515107
 description: Aggiungere un modulo a una pagina di destinazione guidata - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un modulo a una pagina di destinazione guidata
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di riunione.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare una pagina di destinazione guidata](create-a-guided-landing-page.md)
 
