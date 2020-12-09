@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Aggiungere un campione e-mail/Challenger - Marketo Docs - Documentazione prodotto
 title: Aggiungi un campione e-mail/Challenger
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 L’e-mail esistente che state testando è considerata il campione. Tutte le varianti create all’interno di un test vengono considerate come sfidanti. Potete determinare la percentuale di persone che ricevono il contenuto campione o il contenuto del partecipante. Se hai definito più sfidanti, questi saranno distribuiti in modo uniforme tra i partecipanti.\
 Ecco come iniziare.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un programma](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Creare un messaggio e-mail](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
