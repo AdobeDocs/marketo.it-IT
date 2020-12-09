@@ -2,9 +2,9 @@
 title: archive-a-program
 description: Archiviare un programma
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Per archiviare un programma è necessario spostarlo in una cartella di archiviazione separata.
 
-1. Per creare una nuova cartella di campagna, fai clic con il pulsante destro del mouse sul mondo di lavoro e seleziona [!UICONTROL **Nuova cartella**] campagna.
+1. Per creare una nuova cartella di campagna, fai clic con il pulsante destro del mouse sul globo di Workspace e seleziona **[!UICONTROL New Campaign Folder]**.
 
    ![Immagine uno](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Immettete un nome per la nuova cartella, quindi aggiungete una descrizione facoltativa. Fate clic su [!UICONTROL **Crea**].
+1. Immettete un nome per la nuova cartella, quindi aggiungete una descrizione facoltativa. Fate clic **[!UICONTROL Create]**.
 
    ![Immagine due](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Per archiviare un programma, aggiungetelo prima alla cartella appena creata facendo clic con il pulsante destro del mouse nella struttura ad albero e selezionando [!UICONTROL **Sposta**].
+1. Per archiviare un programma, aggiungetelo prima alla cartella appena creata facendo clic con il pulsante destro del mouse nella struttura ad albero e selezionando **[!UICONTROL Move]**.
 
    ![Immagine tre](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Digitate per cercare la nuova cartella, quindi selezionatela dall’elenco a discesa. Fate clic su [!UICONTROL **Sposta**].
+1. Digitate per cercare la nuova cartella, quindi selezionatela dall’elenco a discesa. Fate clic **[!UICONTROL Move]**.
 
    ![Immagine quattro](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Fate clic con il pulsante destro del mouse sulla cartella e selezionate [!UICONTROL **Converti in cartella**] archivio.
+1. Fate clic con il pulsante destro del mouse sulla cartella e selezionate **[!UICONTROL Convert To Archive Folder]**.
 
    ![Immagine cinque](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
