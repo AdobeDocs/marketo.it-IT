@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Passaggio 1 di 3 - Installare la soluzione Marketo (On-Premises 2011) - Marketo Docs - Documentazione del prodotto
 title: Passaggio 1 di 3 - Installare la soluzione Marketo (2011 On-Premises)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Prima di poter sincronizzare Microsoft Dynamics On-Premises e Marketo, è necess
 >
 >Dopo aver sincronizzato Marketo con un CRM, non puoi eseguire una nuova sincronizzazione senza sostituire l&#39;istanza.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >È necessario avere [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) configurato con [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 o 3.0 (ADFS). **Nota**: Il documento IFD viene scaricato automaticamente quando si fa clic sul collegamento.
 >
