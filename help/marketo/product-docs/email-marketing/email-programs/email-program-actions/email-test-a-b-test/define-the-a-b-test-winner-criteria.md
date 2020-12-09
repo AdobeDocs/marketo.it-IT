@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Definizione dei criteri vincitori del test A/B - Marketo Docs - Documentazione prodotto
 title: Definire i criteri vincitori del test A/B
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Quando [aggiungete un test](add-an-a-b-test.md) A/B al programma e-mail, dovrete scegliere un tipo di test, [pianificare il test](schedule-the-a-b-test.md)A/B, quindi definire i criteri per il vincitore. Ecco come decidere quale e-mail vince.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungere un test A/B](add-an-a-b-test.md)
 
