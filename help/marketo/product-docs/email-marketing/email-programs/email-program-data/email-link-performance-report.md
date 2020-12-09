@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Rapporto sulle prestazioni dei collegamenti e-mail - Documenti Marketo - Documentazione prodotto
 title: Report prestazioni collegamento e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare l’ef
 >
 >Se si desidera sapere esattamente cosa ha fatto una singola persona, è possibile aprire il registro [delle](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) attività nella pagina Dettagli [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persona dalla scheda Membri del programma.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Report prestazioni e-mail](email-performance-report.md)
 >* [Filtrare le risorse in un rapporto e-mail](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
