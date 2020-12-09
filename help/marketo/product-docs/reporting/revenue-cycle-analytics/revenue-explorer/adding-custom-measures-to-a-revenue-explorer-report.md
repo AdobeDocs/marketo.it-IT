@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Aggiunta di misure personalizzate a un report Revenue Explorer - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di misure personalizzate a un report di Esplora ricavi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ A volte, è necessario includere una misura personalizzata in un rapporto. È fa
 
 Nell&#39;esempio seguente, si sta creando una misura calcolata per i rimbalzi morbidi, che prende le metriche già presenti nel rapporto e utilizza la matematica di base per creare una nuova metrica. Potete anche creare altri tipi di misure.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >È necessaria almeno una metrica nel rapporto, ma non deve essere una delle misure utilizzate per definire la misura personalizzata.
 
