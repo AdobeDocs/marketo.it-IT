@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Approvare un modulo - Documenti Marketo - Documentazione del prodotto
 title: Approvare un modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Come approvare un modulo esistente pronto per l&#39;uso.
 
 Se si apportano modifiche a un modulo, è possibile approvare la pagina direttamente dall&#39;editor.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Modifica di un modulo](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
