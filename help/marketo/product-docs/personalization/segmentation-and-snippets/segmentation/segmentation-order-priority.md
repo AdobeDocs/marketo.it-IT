@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Priorità ordine di segmentazione - Documenti Marketo - Documentazione prodotto
 title: Priorità ordine di segmentazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 È importante comprendere in che modo l’ **ordine** imposta la priorità per la valutazione delle persone in una segmentazione.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creazione di una segmentazione](create-a-segmentation.md)
 >* [Definire le regole di segmento](define-segment-rules.md)
