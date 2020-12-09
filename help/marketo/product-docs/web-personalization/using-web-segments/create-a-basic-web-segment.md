@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Creare un segmento Web di base - Documenti Marketo - Documentazione del prodotto
 title: Creare un segmento Web di base
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Creiamo un segmento di base per tutti i visitatori Web provenienti dagli Stati U
 
 Ora avete segmentato i vostri visitatori dagli Stati Uniti, andate avanti e aggiungete il settore dei servizi finanziari.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Segmenti Web](http://docs.marketo.com/x/9QFI)
 
