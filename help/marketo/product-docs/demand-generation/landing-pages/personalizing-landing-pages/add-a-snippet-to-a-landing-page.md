@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: Aggiungere uno snippet a una pagina di destinazione - Marketo Docs - Documentazione prodotto
 title: Aggiungere uno snippet a una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gli snippet sono piccoli frammenti di codice HTML che possono seguire le regole e contenere contenuto personalizzato.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare uno snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
