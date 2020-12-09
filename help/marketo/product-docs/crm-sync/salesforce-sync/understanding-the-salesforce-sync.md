@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Informazioni sulla sincronizzazione di Salesforce - Marketo Docs - Documentazione del prodotto
 title: Informazioni sulla sincronizzazione di Salesforce
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,7 @@ La sincronizzazione tra Salesforce e Marketo è bidirezionale solo per lead, con
 
 La sincronizzazione Salesforce presenta numerose sfumature e funzionalità. Consultate i dettagli nella sezione [dei dettagli di sincronizzazione](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Configurazione sincronizzazione Salesforce](http://docs.marketo.com/display/docs/setup)
 >* [Dettagli sincronizzazione SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details)
