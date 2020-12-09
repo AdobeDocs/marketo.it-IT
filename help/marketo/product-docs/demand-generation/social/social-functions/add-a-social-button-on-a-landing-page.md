@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: Aggiungere un pulsante Social su una pagina di destinazione - Documenti Marketo - Documentazione prodotto
 title: Aggiungere un pulsante Social su una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Congratulazioni! È stato aggiunto un pulsante per social network alla pagina di
 >
 >Per risparmiare tempo, potete utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da un pulsante social esistente.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Avete finito, ma potete cambiare le impostazioni del pulsante per social network se necessario. Iniziate con [la personalizzazione dello stile](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) del pulsante e la [modifica dei messaggi](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) di condivisione visualizzati.
