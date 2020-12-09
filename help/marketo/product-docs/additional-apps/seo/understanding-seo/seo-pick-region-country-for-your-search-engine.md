@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Scegli regione/Paese per il tuo motore di ricerca - Marketo Docs - Documentazione prodotto
 title: SEO - Scegli regione/Paese per il motore di ricerca
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Ottimo lavoro. Verranno ora visualizzate le classifiche delle parole chiave per 
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sul dashboard: Istantanea SEO](understanding-the-seo-dashboard-seo-snapshot.md)
 >* [Informazioni sul dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
