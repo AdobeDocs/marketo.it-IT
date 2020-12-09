@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Utilizzare il dashboard del programma e-mail - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare il dashboard del programma e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -75,9 +75,7 @@ Per visualizzare i dati più aggiornati, fai clic sull’icona di aggiornamento 
 
 ![](assets/refreshicon.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzare il Pannello programma e-mail - Visualizzazione test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 
