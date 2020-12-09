@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Comprendere l'analizzatore dell'influenza opportunità - Marketo Docs - Documentazione del prodotto
 title: Nozioni di base su Opportunity Influence Analyzer
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Se vuoi mantenere questo comportamento, prendi in considerazione la possibilità
 >
 >Ogni volta che chiudete un accordo, lo trovate in questo analizzatore il giorno successivo. Condividi con il rappresentante commerciale. Si renderanno conto di tutto il duro lavoro che fai - oltre, si può chiedere perché certe persone &quot;sembrano&quot; influenti ma non hanno un ruolo assegnato nel CRM.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Comunicare la storia di marketing con un analizzatore di influenza opportunità](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Creare un analizzatore di influenza opportunità](create-an-opportunity-influence-analyzer.md)
