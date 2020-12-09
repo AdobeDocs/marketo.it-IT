@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Utilizzare il Pannello programma e-mail - Visualizzazione test A/B - Documenti Marketo - Documentazione prodotto
 title: Utilizzare il Pannello programma e-mail - Visualizzazione test A/B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Qui puoi vedere una suddivisione di clic e di annullamento dell&#39;iscrizione p
 
 Bel cruscotto, non pensa?
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzare il dashboard del programma e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
