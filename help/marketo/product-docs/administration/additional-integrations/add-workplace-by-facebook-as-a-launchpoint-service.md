@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Aggiungi luogo di lavoro per Facebook come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungi luogo di lavoro per Facebook come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ L&#39;integrazione Workspace include due tipi di notifica:
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Se le notifiche di lavoro non sono già abilitate, [contattate il supporto](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
