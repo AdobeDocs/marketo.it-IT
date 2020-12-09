@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: Imposta le conversioni di Google AdWords nel modello delle entrate - Documenti Marketo - Documentazione del prodotto
 title: Imposta conversioni Google AdWords nel modello Revenue
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
 Puoi creare una nuova conversione offline AdWords da Marketo se utilizzi Action stage.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungi Google AdWords come servizio LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
