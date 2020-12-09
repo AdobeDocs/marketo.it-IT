@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: Aggiungi WebEx come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungi WebEx come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Marketo gestisce la registrazione e la partecipazione al webinar WebEx.
 
    ![](assets/webex.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Scoprite come [creare un evento con WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
 
