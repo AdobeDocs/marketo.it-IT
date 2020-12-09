@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Abilita traccia di controllo - Documenti Marketo - Documentazione prodotto
 title: Abilita traccia di controllo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Audit Trail è disponibile per tutti i clienti e controllato da due autorizzazio
 
 ## Assegnazione del ruolo di audit trail a un utente {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Crea](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) o [abilita](#Enable) un ruolo esistente, concedendo le autorizzazioni Audit Trail.
 
