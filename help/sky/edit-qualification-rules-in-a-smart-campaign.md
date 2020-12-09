@@ -2,9 +2,9 @@
 title: modifica-qualifica-rules-in-a-smart-campaign
 description: Modifica delle regole di qualifica in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 Le regole di qualifica controllano quante volte un utente può eseguire il flusso in una campagna intelligente. Per impostazione predefinita, anche se un utente attiva più volte una campagna intelligente, questa viene inviata solo una volta attraverso il flusso. Ecco come modificare queste impostazioni.
 
-1. Selezionate la campagna e passate alla scheda [!UICONTROL **Pianificazione**] .
+1. Selezionate la campagna e passate alla **[!UICONTROL Schedule]** scheda.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Fate clic su [!UICONTROL **Modifica ricorrenza**].
+1. Fate clic **[!UICONTROL Edit Recurrence]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. Scegliete la frequenza con cui eseguire le persone tramite il flusso di campagne intelligenti: [!UICONTROL **giornaliero**], [!UICONTROL **settimanale**], [!UICONTROL **mensile**] o [!UICONTROL **una volta ogni # giorni**].
+1. Scegliete la frequenza con cui eseguire le persone tramite il flusso di campagne intelligenti: **[!UICONTROL daily]**, **[!UICONTROL weekly]**, **[!UICONTROL monthly]** o **[!UICONTROL once every # days]**.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -34,7 +34,7 @@ Le regole di qualifica controllano quante volte un utente può eseguire il fluss
    >
    >Questa logica si applica anche quando si utilizzano settimane o mesi. Un mese è sempre contato come 30 giorni.
 
-1. Al termine, fate clic su [!UICONTROL **Conferma**] .
+1. Al **[!UICONTROL Confirm]** termine, fate clic.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
