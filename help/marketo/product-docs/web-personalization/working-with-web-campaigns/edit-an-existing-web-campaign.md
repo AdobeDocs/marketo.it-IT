@@ -3,9 +3,9 @@ unique-page-id: 4719408
 description: Modifica di una campagna Web esistente - Documenti Marketo - Documentazione prodotto
 title: Modifica di una campagna Web esistente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >Per trovare più facilmente la campagna Web desiderata, utilizzate la funzione [](filter-web-campaigns.md)filtro.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Eliminare una campagna Web](delete-a-web-campaign.md)
 >* [Avviare/mettere in pausa una](launch-pause-a-web-campaign.md) [campagna](launch-pause-a-web-campaign.md)
