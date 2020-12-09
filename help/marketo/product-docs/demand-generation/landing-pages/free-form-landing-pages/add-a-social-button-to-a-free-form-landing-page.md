@@ -3,9 +3,9 @@ unique-page-id: 2359718
 description: Aggiungere un pulsante Social a una pagina di destinazione a forma libera - Marketo Docs - Documentazione del prodotto
 title: Aggiunta di un pulsante Social a una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Un pulsante per social network incoraggia le persone a condividere i contenuti c
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Una volta che la pagina di destinazione è attiva, vedete l&#39;attività generata dal vostro pulsante social (con Analytics) sul [Social Dashboard](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Una volta che la pagina di destinazione è attiva, vedete l&#39;attività generata dal pulsante social (con Analytics) nel dashboard [](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md)Social.
 
    Se invece aggiungete un Pulsante Mi piace/Consiglia (Lite), consultate il numero di condivisioni nel rapporto [sulle prestazioni della pagina di](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)destinazione.
 
@@ -55,8 +55,6 @@ Un pulsante per social network incoraggia le persone a condividere i contenuti c
 
 Congratulazioni! È stato aggiunto un pulsante per social network alla pagina di destinazione. Accertatevi di approvare la pagina di destinazione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Avete finito, ma potete cambiare le impostazioni del pulsante per social network se necessario. Iniziate con [la personalizzazione dello stile](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) del pulsante o la [modifica dei messaggi](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) di condivisione visualizzati.
