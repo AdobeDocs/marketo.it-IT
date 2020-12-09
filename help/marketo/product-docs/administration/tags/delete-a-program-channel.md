@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Eliminazione di un canale di programma - Marketo Docs - Documentazione di prodotto
 title: Eliminare un canale di programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Se ne fai uno per caso o non ne hai più bisogno, puoi cancellarlo.
 
 Bam! Potete anche [eliminare stati specifici dai canali](delete-a-program-status-from-a-program-channel.md).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Eliminare lo stato di un programma da un canale di programma](delete-a-program-status-from-a-program-channel.md)
 
