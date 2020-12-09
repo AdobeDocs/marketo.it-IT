@@ -3,9 +3,9 @@ unique-page-id: 1900565
 description: Includere un evento del calendario (.ics) in un messaggio e-mail - Documenti Marketo - Documentazione del prodotto
 title: Includi un evento del calendario (.ics) in un messaggio e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Un token per file di calendario consente di aggiungere un collegamento evento di calendario (.ics) alle e-mail di Marketo.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un file evento calendario (.ics)](create-a-calendar-event-ics-file.md)
 
