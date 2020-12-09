@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: Aggiungere una vista mobile alla pagina di destinazione a forma libera - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere una vista mobile alla pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Personalizza visualizzazione mobile per la pagina di destinazione a forma libera](customize-mobile-view-for-your-free-form-landing-page.md)
 
