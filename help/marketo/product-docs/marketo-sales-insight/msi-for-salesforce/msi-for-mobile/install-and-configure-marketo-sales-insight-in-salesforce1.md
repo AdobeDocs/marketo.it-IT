@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Installazione e configurazione di Marketing Sales Insight in Salesforce1 - Marketo Docs - Documentazione prodotto
 title: Installazione e configurazione di Marketing Sales Insight in Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >I clienti esistenti, [aggiorna il pacchetto](http://docs.marketo.com/x/_gU6Ag) MSI prima di continuare!
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Se disponi di Salesforce Enterprise/Unlimited:
 >
