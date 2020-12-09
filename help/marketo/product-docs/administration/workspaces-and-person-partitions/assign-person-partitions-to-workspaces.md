@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Assegnare le partizioni delle persone alle aree di lavoro - Documenti Marketo - Documentazione del prodotto
 title: Assegnare le partizioni delle persone alle aree di lavoro
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Come modificare le assegnazioni di partizione/area di lavoro personali:
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Creare una nuova area di lavoro](create-a-new-workspace.md)
 
