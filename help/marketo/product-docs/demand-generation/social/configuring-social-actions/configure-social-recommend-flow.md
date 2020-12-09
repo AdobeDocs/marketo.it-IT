@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Configurare il flusso di consigli social - Documenti Marketo - Documentazione prodotto
 title: Configura flusso consigli social network
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -127,9 +127,7 @@ Se scegliete , i valori dei tag OpenGraph della pagina (og:title, og:caption e o
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Il passaggio successivo consiste nell’ [aggiungere la condivisione](customize-video-share-flow.md) video o il [sondaggio](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) a una pagina di destinazione, a Facebook o al proprio sito Web.
 
