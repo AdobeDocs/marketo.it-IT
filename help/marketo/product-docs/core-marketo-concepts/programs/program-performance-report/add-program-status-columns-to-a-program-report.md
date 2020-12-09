@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: Aggiungere colonne di stato del programma a un report del programma - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi colonne di stato del programma a un rapporto del programma
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del]
 >
 >Se non viene visualizzata una colonna per ogni stato del programma, assicurarsi di aver [selezionato le colonne da visualizzare](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) nel rapporto.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Filtrare un report del programma per tag](filter-a-program-report-by-tag.md)
 
