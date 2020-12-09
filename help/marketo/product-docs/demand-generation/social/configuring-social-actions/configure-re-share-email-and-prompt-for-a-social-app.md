@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: Configura e-mail di condivisione e richiedi un'app social network - Documenti Marketo - Documentazione prodotto
 title: Configurare l'e-mail di condivisione e richiedere un'app per social network
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Quando create un&#39;offerta [di](../../../../product-docs/demand-generation/soc
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Quindi, potete configurare il [tracciamento del flusso di avanzamento in un&#39;offerta](configure-track-progress-flow-for-a-referral-offer.md)di riferimento oppure fare clic su **Fine > Approva e chiudi** per [pubblicare l&#39;offerta](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) di riferimento o [gli avvisi](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
 
