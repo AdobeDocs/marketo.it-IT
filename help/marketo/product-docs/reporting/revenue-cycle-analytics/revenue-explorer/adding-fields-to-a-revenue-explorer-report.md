@@ -3,9 +3,9 @@ unique-page-id: 7504383
 description: Aggiunta di campi a un report di Esplora ricavi - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di campi a un rapporto di Esplora entrate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ Per personalizzare i rapporti dell&#39;elenco delle entrate, trascinate e rilasc
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Eliminazione di un campo in un rapporto di Esplora entrate](deleting-a-field-in-a-revenue-explorer-report.md)
 
