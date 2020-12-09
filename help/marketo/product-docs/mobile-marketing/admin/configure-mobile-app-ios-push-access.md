@@ -3,9 +3,9 @@ unique-page-id: 7512434
 description: Configurare l'accesso push iOS per app mobile - Documenti Marketo - Documentazione prodotto
 title: Configurare l'accesso push iOS dell'app mobile
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 Ottimo lavoro! Accertatevi anche di configurare l&#39;app con Android.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Configurare l&#39;accesso push Android dell&#39;app mobile](configure-mobile-app-android-push-access.md)
 
