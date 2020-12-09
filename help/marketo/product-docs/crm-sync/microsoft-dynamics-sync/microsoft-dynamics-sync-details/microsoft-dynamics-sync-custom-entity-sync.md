@@ -3,9 +3,9 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync -Custom Entity Sync - Marketo Docs - Documentazione prodotto
 title: Microsoft Dynamics Sync - Sincronizzazione entità personalizzata
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Se devi abilitare la sincronizzazione entità personalizzata iniziale per render
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >Per utilizzare un oggetto personalizzato, deve essere associato a un oggetto [lead](microsoft-dynamics-sync-lead-sync.md), a un [contatto](microsoft-dynamics-sync-contact-sync.md)o a un [](microsoft-dynamics-sync-account-sync.md)oggetto account in Dynamics.
 
