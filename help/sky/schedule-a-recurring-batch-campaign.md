@@ -2,9 +2,9 @@
 title: pianificazione-a-periodico-batch-campaign
 description: Pianificazione di una campagna batch ricorrente
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -22,23 +22,23 @@ In questo esempio scegliamo una volta alla settimana, il martedì alle 8:00.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. Passate alla scheda [!UICONTROL **Pianificazione**] e fate clic su [!UICONTROL **Imposta ricorrenza**].
+1. Vai alla **[!UICONTROL Schedule]** scheda e fai clic su **[!UICONTROL Set Recurrence]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
-1. Fare clic sul menu a [!UICONTROL **discesa Periodico**] e selezionare [!UICONTROL **Settimanale**].
+1. Fare clic sul **[!UICONTROL Recurring]** menu a discesa e selezionare **[!UICONTROL Weekly]**.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. Fare clic sull&#39;icona del calendario accanto a Data [!UICONTROL **inizio**] ricorrenza, quindi selezionare il giorno per la prima esecuzione e l&#39;ora. Per questo esempio, utilizzeremo il prossimo martedì disponibile. Al termine, fai clic fuori dal calendario.
+1. Fare clic sull&#39;icona del calendario accanto a **[!UICONTROL Recurrence Start Date]** e selezionare il giorno per la prima esecuzione e l&#39;ora. Per questo esempio, utilizzeremo il prossimo martedì disponibile. Al termine, fai clic fuori dal calendario.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. Impostare [!UICONTROL **Ripeti ogni**] su 1 e selezionare [!UICONTROL **Martedì**].
+1. Impostare **[!UICONTROL Repeat every]** su 1 e selezionare **[!UICONTROL Tuesday]**.
 
    ![Immagine cinque](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. Fate clic sull&#39;icona del calendario accanto a [!UICONTROL **Fine**] e scegliete una data di fine. Al termine, fate clic su [!UICONTROL **Conferma**] .
+1. Fate clic sull&#39;icona del calendario accanto a **[!UICONTROL Ending on]** e scegliete una data di fine. Al **[!UICONTROL Confirm]** termine, fate clic.
 
    ![Immagine Sei](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
