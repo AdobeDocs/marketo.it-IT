@@ -3,9 +3,9 @@ unique-page-id: 1147304
 description: Condivisione di una definizione di filtro nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
 title: Condivisione di una definizione di filtro nel calendario di marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 I filtri possono essere condivisi tra diversi utenti.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un filtro nel calendario di marketing](filtering-the-marketing-calendar.md)
 >* [Salvataggio di una definizione di filtro nel calendario di marketing](saving-a-filter-definition-in-the-marketing-calendar.md)
