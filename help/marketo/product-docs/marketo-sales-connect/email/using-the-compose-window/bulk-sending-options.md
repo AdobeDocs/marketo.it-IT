@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Opzioni di invio in massa - Documenti Marketo - Documentazione del prodotto
 title: Opzioni di invio in blocco
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Utilizzo di Seleziona e invia
 
 Per impostazione predefinita, vengono apportate modifiche a tutti i destinatari. Tuttavia, potete anche selezionare ogni singolo messaggio e-mail per il quale apportare modifiche personalizzate. Questa funzione può essere utile per aggiungere una o più righe di personalizzazione univoche ai destinatari con cui desiderate adottare un approccio più personalizzato.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Composizione di e-mail in blocco con Seleziona e invia](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [Invio di e-mail tramite e-mail di gruppo](http://docs.marketo.com/x/KAQ6Ag)
