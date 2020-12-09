@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: Installazione del pacchetto Marketing Sales Insight in Salesforce  AppExchange - Marketo Docs - Documentazione del prodotto
 title: Installazione del pacchetto marketing Sales Insight in Salesforce  AppExchange
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -74,9 +74,7 @@ Devi installare l&#39;app Marketing Sales Insight nel tuo abbonamento Salesforce
 
 Ottimo lavoro! Ora hai installato e implementato Marketing Sales Insight. Vai avanti e configuralo per il tuo team di vendita e guarda il razzo di vendita.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Configurare Marketing Sales Insight in Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
