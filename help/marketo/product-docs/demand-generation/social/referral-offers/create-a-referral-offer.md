@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: Creare un'offerta di riferimento - Documenti Marketo - Documentazione prodotto
 title: Creare un'offerta di riferimento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ In caso di problemi nell&#39;offerta di riferimento, prima dell&#39;approvazione
 
 Congratulazioni! Hai creato la tua offerta di riferimento.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >Il passo successivo consiste nel [pubblicare l’offerta](publish-a-referral-offer.md) di riferimento su una pagina di destinazione, sul sito Web o su Facebook.
 
