@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: Utilizzo delle fasi del Gate del modello di ricavi - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo delle fasi del cancello del modello di ricavi
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Modificate Nome, Descrizione e regolate il Tipo dell’area di visualizzazione P
 
 Congratulazioni! Ora capite il meraviglioso mondo dei Gate Stages.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzo delle fasi di magazzino del modello di ricavi](using-revenue-model-inventory-stages.md)
 >* [Utilizzo delle fasi SLA del modello di ricavi](using-revenue-model-sla-stages.md)
