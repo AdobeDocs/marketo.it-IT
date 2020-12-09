@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: Creare un analizzatore di programma - Documenti Marketo - Documentazione di prodotto
 title: Creare un analizzatore di programmi
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Scopri quali programmi e canali ti stanno dando il più grande vantaggio per il 
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Confronto dell&#39;efficacia dei canali con l&#39;analisi dei programmi](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Confronta l&#39;efficacia del programma con Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)
