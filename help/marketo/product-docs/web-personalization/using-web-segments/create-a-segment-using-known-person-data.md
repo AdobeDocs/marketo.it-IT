@@ -3,9 +3,9 @@ unique-page-id: 7504343
 description: Crea un segmento utilizzando i dati di persona nota - Documenti Marketo - Documentazione del prodotto
 title: Creazione di un segmento utilizzando dati di persona nota
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Ecco come creare un segmento utilizzando i valori Dati persona nota.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Gestisci dati persona](manage-person-data.md)
 
