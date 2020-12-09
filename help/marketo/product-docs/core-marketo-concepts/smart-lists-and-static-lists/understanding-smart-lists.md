@@ -3,9 +3,9 @@ unique-page-id: 557130
 description: Informazioni sugli elenchi avanzati - Documenti Marketo - Documentazione prodotto
 title: Informazioni sugli elenchi avanzati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Potete aggiungere e definire i filtri per visualizzare un gruppo specifico di pe
 
 OK, cominciamo!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Usa elenchi avanzati integrati/di sistema](using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Creare un elenco avanzato](creating-a-smart-list/create-a-smart-list.md)
