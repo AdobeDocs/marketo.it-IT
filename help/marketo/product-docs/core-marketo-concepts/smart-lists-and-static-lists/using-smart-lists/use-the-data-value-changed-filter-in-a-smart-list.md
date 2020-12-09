@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Utilizzare il filtro Valore dati modificato in un elenco avanzato - Documenti Marketo - Documentazione prodotto
 title: Utilizzare il filtro Valore dati modificato in un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 I valori cambiano costantemente e vengono aggiornati nel database Marketo. A volte invece di cercare un valore specifico, si desidera cercare persone che hanno subito un cambiamento di valore. Ecco come.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
