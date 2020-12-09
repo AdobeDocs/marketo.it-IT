@@ -2,9 +2,9 @@
 title: run-a-batch-smart-campaign-now
 description: Esegui subito una campagna smart batch
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Dopo aver creato la campagna batch, potete scegliere di eseguirla subito o in un
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. Vai alla scheda [!UICONTROL **Pianificazione**] e fai clic su [!UICONTROL **Aggiungi esecuzione**].
+1. Vai alla **[!UICONTROL Schedule]** scheda e fai clic su **[!UICONTROL Add Run]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. Accertatevi che [!UICONTROL **Esegui ora**] sia selezionato e fate clic su [!UICONTROL **Conferma**].
+1. Accertatevi che **[!UICONTROL Run Now]** sia selezionato e fate clic su **[!UICONTROL Confirm]**.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
