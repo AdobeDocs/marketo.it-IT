@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: Rimozione di un membro da un programma di coinvolgimento - Documenti Marketo - Documentazione prodotto
 title: Rimozione di un membro da un programma di partecipazione
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Oops! Come sono entrate quelle persone? Puoi rimuovere i membri da un programma 
 
 A volte si desidera mettere in pausa le persone in un programma di coinvolgimento e non rimuoverle. Questo è fatto con il **Change Engagement Program Cadence**.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Sospendi utenti in un programma di coinvolgimento](pause-people-in-an-engagement-program.md)
 
