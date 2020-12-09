@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Creazione di campagne figlio e risorse locali - Documenti Marketo - Documentazione prodotto
 title: Creare campagne figlio e risorse locali
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ Il passaggio **Invia e-mail** DEVE essere il secondo passaggio. L&#39;e-mail di 
 
 Il passaggio successivo consiste nel [verificare l&#39;integrazione](test-your-on24-event-integration.md)degli eventi ON24.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](understanding-marketo-on24-adapter-events.md)
 >* [Esempio di integrazione evento ON24](example-on24-event-integration.md)
