@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: Utilizzo delle transizioni dei modelli di ricavi - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo delle transizioni dei modelli di ricavi
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Utilizzo delle transizioni dei modelli di ricavi {#using-revenue-model-transitions}
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >[Creare un nuovo modello di ricavi](create-a-new-revenue-model.md)
 
