@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installazione del componente aggiuntivo e-mail Marketo per Outlook con un codice di registrazione - Documenti Marketo - Documentazione del prodotto
 title: Installazione del componente aggiuntivo e-mail di Marketo per Outlook con un codice di registrazione
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Se gli utenti possono accedere alle impostazioni dell&#39;amministratore sui pro
 
 Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amministratore di Marketo di invitarvi.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* È necessario [che venga rilasciata una licenza](issue-a-marketo-email-add-in-license.md)del componente aggiuntivo e-mail Marketo.
 
