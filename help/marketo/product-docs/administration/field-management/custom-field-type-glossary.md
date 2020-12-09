@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Glossario sul tipo di campo personalizzato - Documenti Marketo - Documentazione sul prodotto
 title: Glossario tipo di campo personalizzato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Quando si crea un campo personalizzato in Marketo è disponibile un elenco di tipi tra cui scegliere.
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Creare un campo personalizzato in Marketo](create-a-custom-field-in-marketo.md)
 
