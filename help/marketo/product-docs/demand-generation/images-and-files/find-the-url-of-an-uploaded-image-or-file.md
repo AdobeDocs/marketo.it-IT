@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: Trova l'URL di un'immagine o di un file caricato - Documenti Marketo - Documentazione del prodotto
 title: Trovare l’URL di un’immagine o di un file caricato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Cercare l’indirizzo Web (URL) di un’immagine o di un file caricato? Marketo 
 
 Datevi una pacca sulla schiena per un lavoro ben fatto!
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Sostituire un&#39;immagine o un file caricato](replace-an-uploaded-image-or-file.md)
 
