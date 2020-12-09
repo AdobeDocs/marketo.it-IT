@@ -3,9 +3,9 @@ unique-page-id: 4719410
 description: Eliminare una campagna Web - Documenti Marketo - Documentazione prodotto
 title: Eliminare una campagna Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
 
 1. Viene visualizzato un messaggio di conferma per confermare se si desidera eliminare la campagna Web.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Modifica di una campagna Web](edit-an-existing-web-campaign.md)
 >* [Avviare/mettere in pausa una campagna Web](launch-pause-a-web-campaign.md)
