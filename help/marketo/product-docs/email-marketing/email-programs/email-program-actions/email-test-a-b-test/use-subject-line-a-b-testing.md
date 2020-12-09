@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: Usa test A/B "Subject Line" - Marketo Docs - Documentazione prodotto
 title: Usa test A/B "Subject Line"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 È possibile testare facilmente le e-mail mediante test A/B. Uno dei test più comuni è il test **Subject Line** .
 
->[!NOTE]
->
->**Prerequisiti**
+>[!PREREQUISITES]
 >
 >* [Aggiungere un test A/B](add-an-a-b-test.md)
 
