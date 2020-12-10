@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Elenco di controllo configurazione - Documenti Marketo - Documentazione prodotto
 title: Elenco di controllo installazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Elenco di controllo installazione {#setup-checklist}
 
-Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di controllo come elenco di attività visive per iniziare a fare le cose. I dettagli sono disponibili in [Procedura](../../getting-started/setup-steps.md)di impostazione.
+Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di controllo come elenco di attività visive per iniziare a fare le cose. I dettagli sono disponibili in [Procedura](/help/marketo/getting-started/setup-steps.md)di impostazione.
 
 ## Accesso a Marketo e creazione di utenti aggiuntivi {#log-in-to-marketo-and-create-additional-users}
 
-1. Login a Marketo
+1. Accedi a Marketo
 1. Creazione di altri utenti
 
 ## Impostazione di un contatto di assistenza autorizzato {#set-up-an-authorized-support-contact}
@@ -34,7 +34,7 @@ Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di contro
 1. Chiedi all’IT di impostare un record DNS per il CNAME di posta elettronica
 1. Chiedi al reparto IT di  inserire nell&#39;elenco Consentiti Marketo
 1. Configurare DKIM e SPF nell&#39;area di amministrazione
-1. Impostazione di MX per [FromDomain1]
+1. Imposta MX per `[FromDomain1]`
 1. Al termine dell’IT con il CNAME e-mail, configura il CNAME per l’e-mail in Marketo
 
 ## Invia un URL per i modelli pagina di destinazione e e-mail {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di contro
 
 >[!MORELIKETHIS]
 >
->[Procedura di impostazione](../../getting-started/setup-steps.md)
-
+>[Procedura di impostazione](/help/marketo/getting-started/setup-steps.md)
