@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Impostazione di una campagna di attivazione per le vendite con "Campaign is Required" - Marketo Docs - Documentazione del prodotto
 title: Impostazione di una campagna di attivazione per le vendite con "Campaign is Required"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Impostazione di una campagna di attivazione per le vendite con &quot;Campaign is Required&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Una delle caratteristiche più interessanti di Marketo è la capacità di consentire alle persone di vendita di partecipare alle attività di marketing. Sono in prima linea, interagiscono con le persone. I rappresentanti delle vendite dovrebbero essere in grado di indirizzare il marketing nella direzione giusta.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!NOTE]
 >
