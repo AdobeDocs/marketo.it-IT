@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Imposta e aggiungi una persona - Documenti Marketo - Documentazione prodotto
 title: Configurazione e aggiunta di una persona
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Ci sono alcune cose da fare prima di iniziare le missioni.
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
-
 ## Passaggio 1: Login a Marketo {#step-log-in-to-marketo}
 
-1. [Accedete a Marketo](http://app.marketo.com) utilizzando le credenziali ricevute per e-mail.
+1. [Accedete a Marketo](https://app.marketo.com) utilizzando le credenziali ricevute per e-mail.
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ Aggiungi te stesso come persona in Marketo in modo da poter inviare le e-mail di
 
    ![](assets/seven.png)
 
-1. Digita il tuo nome e cognome, l&#39;indirizzo e-mail e il nome della società, quindi fai clic su **Create **per aggiungere te stesso come persona.
+1. Digita il tuo nome e cognome, l&#39;indirizzo e-mail e il nome della società, quindi fai clic su **Crea** per aggiungere te stesso come persona.
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ Aggiungi te stesso come persona in Marketo in modo da poter inviare le e-mail di
 
    ![](assets/nine.png)
 
-1. Fare clic sulla scheda **Persone **2. Dovresti vedere te stesso nel database.
+1. Fate clic sulla scheda **Persone** . Dovresti vedere te stesso nel database.
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ Siete pronti a iniziare la vostra prima missione!
 
 <br> 
 
-[Missione 1: Invia e-mail di esplosione ►](send-an-email.md)
+[Missione 1: Invia e-mail di esplosione ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
