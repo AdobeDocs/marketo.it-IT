@@ -3,21 +3,15 @@ unique-page-id: 2359953
 description: Persone Che Hanno Esaurito Il Contenuto - Marketo Docs - Documentazione Di Prodotto
 title: Persone Con Contenuto Esaurito
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Persone Con Contenuto Esaurito {#people-who-have-exhausted-content}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaurito tutte le possibilità e aspetterà inattivo fino a quando non viene aggiunto altro. Potete trovare persone &quot;esauste&quot; in molti modi.
 
