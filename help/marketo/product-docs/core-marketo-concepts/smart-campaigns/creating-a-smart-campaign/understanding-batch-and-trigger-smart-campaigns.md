@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Campagne intelligenti per batch e trigger - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulle campagne in batch e di attivazione
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Informazioni sulle campagne in batch e di attivazione {#understanding-batch-and-trigger-smart-campaigns}
 
 Esistono due tipi di campagne intelligenti: Batch e Trigger.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Batch Smart Campaign {#batch-smart-campaign}
 
