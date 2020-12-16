@@ -3,21 +3,15 @@ unique-page-id: 2360360
 description: Creare un Webhook - Documenti Marketo - Documentazione prodotto
 title: Creare un Webhook
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 
 # Creare un Webhook {#create-a-webhook}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Utilizza i webhooks per sfruttare i servizi Web di terze parti per inviare messaggi di testo, espandere i dati delle persone e altro ancora.
 
