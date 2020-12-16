@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Preparare l'evento - Marketo Docs - Documentazione prodotto
 title: Preparare l’evento
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Preparare l’evento {#prepare-for-your-event}
 
 Ci sono diverse cose da fare per prepararsi all&#39;evento.
-
->[!NOTE]
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](/help/marketo/getting-started/updates-to-marketo-terminology.md)informazioni.
 
 ## Crea nuovo ruolo marketing {#create-a-new-marketo-role}
 
