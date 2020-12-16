@@ -3,21 +3,15 @@ unique-page-id: 6848747
 description: Descrizioni delle autorizzazioni dei ruoli - Documenti Marketo - Documentazione del prodotto
 title: Descrizioni delle autorizzazioni dei ruoli
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
 
 
 # Descrizioni delle autorizzazioni dei ruoli {#descriptions-of-role-permissions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Di seguito è riportato un elenco di tutte le autorizzazioni disponibili che potete assegnare ai vostri ruoli. Le autorizzazioni sono generalmente associate ad aree funzionali specifiche all&#39;interno di Marketo e possono essere utili per controllare le aree e le funzionalità a cui hanno accesso i diversi utenti.
 
