@@ -3,21 +3,15 @@ unique-page-id: 2951259
 description: Glossario sul tipo di campo personalizzato - Documenti Marketo - Documentazione sul prodotto
 title: Glossario tipo di campo personalizzato
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 
 # Glossario tipo di campo personalizzato {#custom-field-type-glossary}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Quando si crea un campo personalizzato in Marketo è disponibile un elenco di tipi tra cui scegliere.
 
