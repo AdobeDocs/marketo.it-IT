@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: Invia un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Invia un messaggio e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,9 @@ ht-degree: 0%
 
 È la prima cosa che tutti vogliono fare. Inviiamo una email da Marketo!
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
-
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](get-set-up-and-add-a-person.md)
-
->
-
-
+>[Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## Creare un programma e-mail {#create-an-email-program}
 
@@ -39,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. Immettete un **Name **e selezionate **E-mail** per Tipo di **programma.**
+1. Immettete un **nome** e selezionate **E-mail** per Tipo di **programma.**
 
    >[!TIP]
    >
@@ -47,11 +37,9 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. In **Canale, **selezionate Invia** per **e-mail e fate clic su** Crea **.** **
+1. In **Canale**, selezionate Invia **per** e-mail e fate clic su **Crea**.
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## Definire il pubblico {#define-your-audience}
 
@@ -73,10 +61,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Se l’e-mail non viene compilata automaticamente, potreste aver dimenticato di [impostarla e aggiungere un lead.](get-set-up-and-add-a-person.md)
+   >Se l’e-mail non viene compilata automaticamente, potreste aver dimenticato di [impostarla e aggiungere un lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -94,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Immettete un **nome**, selezionate un **modello** e fate clic su*** Crea*.
+1. Immettete un **nome**, selezionate un **modello** e fate clic su **Crea**.
 
    ![](assets/ten-1.png)
 
@@ -106,7 +91,7 @@ ht-degree: 0%
    >
    >Se disponete di un blocco dei pop-up, fate clic su **Modifica bozza** per accedere all’editor e-mail.
 
-1. Selezionate l&#39;area da modificare, fate clic sull&#39;icona a forma di ingranaggio a destra, quindi selezionate **Edit ** (potete anche fare doppio clic sulla sezione modificabile).
+1. Selezionate l’area da modificare, fate clic sull’icona a forma di ingranaggio a destra, quindi selezionate **Modifica** (potete anche fare doppio clic sulla sezione modificabile da modificare).
 
    ![](assets/twelve.png)
 
@@ -124,7 +109,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Desiderate inviarvi un esempio rapido per vedere l&#39;aspetto dell&#39;e-mail prima di avviarla? Selezionate **Invia esempio** nel menu sopra, oppure fate clic su Azioni **e-** mail e quindi su [**Invia esempio**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >Desiderate inviarvi un esempio rapido per vedere l&#39;aspetto dell&#39;e-mail prima di avviarla? Selezionate **Invia esempio** nel menu sopra, oppure fate clic su Azioni **e-** mail e quindi su [**Invia esempio**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Selezionate il programma e-mail nella struttura a sinistra.
 
@@ -140,7 +125,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Il fuso orario predefinito non è tuo? Scopri come [aggiornarlo qui](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone).
+   >Il fuso orario predefinito non è tuo? Scopri come [aggiornarlo qui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
 1. Fai clic su **Approva programma** nella sezione Approvazione e hai finito!
 
@@ -150,4 +135,6 @@ Dovreste ricevere l&#39;e-mail poco dopo il giorno/l&#39;ora pianificata.
 
 <br> 
 
-[◄ Imposta e aggiungi una pagina di](get-set-up-and-add-a-person.md) destinazione lead [con un modulo ►](landing-page-with-a-form.md)
+[◄ Imposta e aggiungi un lead](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[Pagina di destinazione con un modulo ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
