@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: Individuare il registro delle attività per una persona - Documenti Marketo - Documentazione del prodotto
 title: Individuare il log delle attività per una persona
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Individuare il log delle attività per una persona {#locate-the-activity-log-for-a-person}
 
 Il registro attività è la fonte ultima di verità. Questa è la storia completa del viaggio di una persona a Marketo.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Andate al database****.
 
