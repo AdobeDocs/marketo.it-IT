@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione di prodotto Marketo
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '7850'
+source-wordcount: '7840'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,6 @@ ht-degree: 0%
       + [Elementi da disattivare](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Cose da rivedere: Competenze di base](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Modalità per ottenere assistenza](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-   + [Informazioni e utilizzo di Launch Pack](getting-started/understanding-and-using-the-launch-pack.md)
-   + [Aggiornamenti alla terminologia di Marketo](getting-started/updates-to-marketo-terminology.md)
 + Documenti sui prodotti {#product-docs}
    + Marketing basato su account {#account-based-marketing}
       + Configurazione {#setup}
