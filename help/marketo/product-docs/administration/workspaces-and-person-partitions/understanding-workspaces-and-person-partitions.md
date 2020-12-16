@@ -3,21 +3,15 @@ unique-page-id: 2360309
 description: Aree di lavoro e partizioni di persone - Documenti Marketo - Documentazione prodotto
 title: Informazioni su aree di lavoro e partizioni di persone
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
 
 
 # Informazioni su aree di lavoro e partizioni di persone {#understanding-workspaces-and-person-partitions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Workspaces {#workspaces}
 
