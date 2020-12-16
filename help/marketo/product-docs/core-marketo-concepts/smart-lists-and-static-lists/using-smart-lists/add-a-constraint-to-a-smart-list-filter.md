@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: Aggiunta di un vincolo a un filtro di elenco avanzato - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un vincolo a un filtro elenco avanzato
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Durante la creazione di elenchi avanzati, alcuni filtri presentano opzioni avanzate denominate *limitazioni. *Queste sono condizioni aggiuntive che è possibile aggiungere a filtri e attivatori per aiutare a restringere ulteriormente la ricerca.
 
 In questo esempio, aggiungiamo alcuni vincoli a un filtro ** Valore [dati modificato](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** per individuare le persone che hanno subito una modifica dello stato da MQL a SQL.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!PREREQUISITES]
 >
