@@ -3,21 +3,15 @@ unique-page-id: 1146987
 description: Eliminazione di un passaggio di flusso - Documenti Marketo - Documentazione prodotto
 title: Eliminare un passaggio di flusso
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 
 # Eliminare un passaggio di flusso {#delete-a-flow-step}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!CAUTION]
 >
