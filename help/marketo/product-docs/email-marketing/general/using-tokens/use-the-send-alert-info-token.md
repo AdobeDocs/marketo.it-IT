@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Utilizzare il token Invia informazioni avviso {{SP_Send_Alert_Info}} - Documenti Marketo - Documentazione prodotto
 title: Utilizzare il token Invia informazioni avviso
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Utilizzare il token Invia informazioni avviso {#use-the-send-alert-info-token-sp-send-alert-info}
 
 Il `{{SP_Send_Alert_Info}}` token è un token speciale da utilizzare per la creazione di e-mail di avviso per il team di vendita.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!TIP]
 >
