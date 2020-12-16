@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importa un programma - Documenti Marketo - Documentazione prodotto
 title: Importare un programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Importare un programma {#import-a-program}
 
 Un programma può essere importato da un’iscrizione a Marketo a un’altra. Ad esempio, potete creare un programma in una sandbox e importarlo nell&#39;abbonamento live. È inoltre possibile importare un programma pregenerato dalla libreria dei programmi Marketo.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Importare un programma {#import-a-program-1}
 
