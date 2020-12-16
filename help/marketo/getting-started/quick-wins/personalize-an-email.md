@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Personalizzare un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Personalizzare un'e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## Missione: Rendere le e-mail personali aggiungendo token di dati {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
-
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](get-set-up-and-add-a-person.md)
->* [Invio di un messaggio e-mail con esplosione](send-an-email.md)
->* [Drip, Drip, Cura](drip-drip-nurture.md)
+>* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Invio di un messaggio e-mail con esplosione](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Drip, Drip, Cura](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Passaggio 1: Selezionare un&#39;e-mail da personalizzare {#step-select-an-email-to-personalize}
 
-1. Selezionate una delle e-mail di nutrizione create nella vittoria [rapida](drip-drip-nurture.md) precedente e fate clic su **Modifica bozza**.
+1. Selezionate una delle e-mail di nutrizione create nella vittoria [rapida](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) precedente e fate clic su **Modifica bozza**.
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >Viene creata una copia dell’e-mail come bozza. È necessario approvare la bozza affinché le modifiche diventino attive.
 
-   **Modifica bozza**
-
-Se non avete attivato il blocco dei pop-up, l&#39;editor e-mail si aprirà in una nuova scheda o finestra. In caso contrario, fate clic due volte.
+Se non avete attivato il blocco dei pop-up, l&#39;editor e-mail si aprirà in una nuova scheda o finestra. In caso contrario, fate clic due volte su **Modifica bozza** .
 
 ## Passaggio 2: Imposta il venditore come mittente {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ Se non avete attivato il blocco dei pop-up, l&#39;editor e-mail si aprirà in un
 
 >[!TIP]
 >
->Hai bisogno di un aggiornamento rapido su come inviarti l&#39;e-mail? Consultate [Inviare un messaggio e-mail](send-an-email.md)con esplosione.
-
-### Video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>Hai bisogno di un aggiornamento rapido su come inviarti l&#39;e-mail? Consultate [Inviare un messaggio e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md)con esplosione.
 
 ### Missione completata {#mission-complete}
 
@@ -120,4 +108,6 @@ Congratulazioni, hai personalizzato la tua email!
 
 <br> 
 
-[◄ Missione 6: Drip, Drip, Nurture](drip-drip-nurture.md) [Mission 8: Avvisa il rappresentante commerciale ►](alert-the-sales-rep.md)
+[◄ Missione 6: Drip, Drip, Cura](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Missione 8: Avvisa il rappresentante commerciale ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
