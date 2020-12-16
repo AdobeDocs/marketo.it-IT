@@ -3,21 +3,15 @@ unique-page-id: 3571809
 description: Passaggio 3 di 3 - Connetti Microsoft Dynamics con Marketo (On-Premises 2011) - Marketo Docs - Documentazione prodotto
 title: Passaggio 3 di 3 - Connetti Microsoft Dynamics con Marketo (On-Premises 2011)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
 
 # Passaggio 3 di 3: Connect Microsoft Dynamics con Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincronizzazione. Quindi, dobbiamo collegare Marketo e Dynamics.
 
