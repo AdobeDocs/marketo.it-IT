@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Documentazione prodotto
 title: Glossario di Marketo
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>Ad <strong>Marketo Engage</strong>, lead è il termine precedente (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">sostituito da <strong>persona</strong></a>) utilizzato per descrivere un individuo nel <strong>database</strong> Marketo con il quale si interagisce attraverso le campagne di marketing. In <strong>CRM</strong>, un lead può rappresentare un concetto diverso (ovvero, un individuo associato a un' <strong>opportunità</strong>), indipendente dalle funzionalità di Marketo.</td> 
+   <td>Ad <strong>Marketo Engage</strong>, lead è il termine precedente (sostituito da <strong>persona</strong>) utilizzato per descrivere un individuo nel <strong>database</strong> Marketo con il quale si interagisce attraverso le campagne di marketing. In <strong>CRM</strong>, un lead può rappresentare un concetto diverso (ovvero, un individuo associato a un' <strong>opportunità</strong>), indipendente dalle funzionalità di Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Database lead</strong></td> 
@@ -524,7 +524,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing sospeso</strong></a></td> 
-   <td colspan="1">Questo campo viene impostato manualmente dall' <strong>utente</strong> per rendere temporaneamente impossibile l'invio di dati <strong>al database</strong> Marketo.</td> 
+   <td colspan="1">Questo campo viene impostato manualmente dall' <strong>utente</strong> per rendere temporaneamente non inviabile qualcuno nel <strong>database</strong> Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Engage</strong></td> 
