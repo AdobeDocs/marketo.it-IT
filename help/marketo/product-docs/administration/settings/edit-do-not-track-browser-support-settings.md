@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: Modifica le impostazioni di supporto del browser "Non tenere traccia" - Marketo Docs - Documentazione del prodotto
 title: Modifica le impostazioni di supporto del browser "Non tenere traccia"
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # Modifica le impostazioni di supporto del browser &quot;Non tenere traccia&quot; {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 &quot;Non tenere traccia&quot; è una richiesta di browser per non essere tracciata in sistemi come Marketo. Potete soddisfare tale richiesta con i seguenti passaggi.
 
