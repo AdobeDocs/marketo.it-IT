@@ -3,9 +3,9 @@ unique-page-id: 2359965
 description: Panoramica sul tipo di rapporto - Documenti Marketo - Documentazione sul prodotto
 title: Panoramica tipo di rapporto
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Panoramica tipo di rapporto {#report-type-overview}
 
 Quando [create un rapporto in un programma](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), scegliete il tipo di rapporto desiderato.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Report più utilizzati {#most-used-reports}
 
