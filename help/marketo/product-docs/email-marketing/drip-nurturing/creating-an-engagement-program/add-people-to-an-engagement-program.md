@@ -3,21 +3,15 @@ unique-page-id: 2359782
 description: Aggiunta di utenti a un programma di coinvolgimento - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di persone a un programma di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 
 # Aggiunta di persone a un programma di coinvolgimento {#add-people-to-an-engagement-program}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Esistono diversi modi in cui le persone possono diventare membri di un programma di coinvolgimento:
 
