@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Rapporti di gruppi di persone per attributo - Documenti Marketo - Documentazione prodotto
 title: Rapporti sulla persona del gruppo per attributo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapporti sulla persona del gruppo per attributo {#group-person-reports-by-attribute}
 
 Potete raggruppare i rapporti sulle [persone](http://docs.marketo.com/display/docs/basic+reporting) in base a qualsiasi attributo di persona o società.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Andate all&#39;area **Attività** di marketing (o **Analytics**).
 
