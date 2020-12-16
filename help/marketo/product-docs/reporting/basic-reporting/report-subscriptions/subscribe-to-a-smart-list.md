@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: Iscriviti a un Smart List - Marketo Docs - Documentazione prodotto
 title: Iscriviti a un Smart List
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Iscriviti a un Smart List {#subscribe-to-a-smart-list}
 
 La sottoscrizione a smart list è un ottimo modo per tenere traccia delle persone, con i rapporti inviati direttamente alla casella in entrata.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Potete creare un’iscrizione a un elenco smart in due posizioni distinte:
 
