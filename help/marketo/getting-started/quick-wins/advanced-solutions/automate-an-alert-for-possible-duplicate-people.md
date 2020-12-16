@@ -3,9 +3,9 @@ unique-page-id: 7513680
 description: Automatizzare un avviso per possibili duplicati di persone - Documenti Marketo - Documentazione prodotto
 title: Automatizzare un avviso per eventuali persone duplicate
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,10 @@ ht-degree: 0%
 
 Vuoi un avviso ogni volta che è possibile creare una persona duplicata? Ecco come impostare una Smart Campaign per farlo.
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
+1. [Create una nuova campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)intelligente. Definire il seguente elenco di smart:
 
-1. [Create una nuova campagna](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)intelligente. Definire il seguente elenco di smart:
-
-   * Trigger: **Persona creata**
-   * Filtro: **Duplica campi. **Il nome del campo **è** **Nome** completo.
+* Trigger: **Persona creata**
+* Filtro: **Duplica campi.** Nome campo **completo**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -32,18 +26,17 @@ Vuoi un avviso ogni volta che è possibile creare una persona duplicata? Ecco co
    >
    >Siate creativi. Sperimentate con campi diversi per ottenere risultati di filtraggio migliori.
 
-1. Nel passaggio del flusso, scegliete [Invia azione flusso avvisi](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) .
+1. Nel passaggio del flusso, scegliete [Invia azione flusso avvisi](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) .
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Utilizzo del token [](../../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Invia informazioni avviso per includere un collegamento alla persona in CRM.
+   >Utilizzo del token [](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Invia informazioni avviso per includere un collegamento alla persona in CRM.
 
    >[!CAUTION]
    >
    >Se importate un elenco di grandi dimensioni, potreste ricevere una serie di avvisi contemporaneamente!
-   >
    >
    >Inoltre, due persone con lo stesso nome non significa automaticamente che sono la stessa persona.
 
@@ -55,5 +48,4 @@ Vuoi un avviso ogni volta che è possibile creare una persona duplicata? Ecco co
 
 >[!MORELIKETHIS]
 >
->* [Trova e unisci persone duplicate](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
-
+>[Trova e unisci persone duplicate](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
