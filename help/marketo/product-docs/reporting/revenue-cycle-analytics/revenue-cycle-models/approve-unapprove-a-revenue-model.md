@@ -3,9 +3,9 @@ unique-page-id: 4718687
 description: Approvare/annullare l'approvazione di un modello di ricavi - Documenti Marketo - Documentazione prodotto
 title: Approvare/annullare l'approvazione di un modello di ricavi
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Approvare/annullare l&#39;approvazione di un modello di ricavi {#approve-unapprove-a-revenue-model}
 
 È possibile avere un solo modello approvato in un dato momento.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!CAUTION]
 >
