@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: Rimozione di un membro da un programma di coinvolgimento - Documenti Marketo - Documentazione prodotto
 title: Rimozione di un membro da un programma di partecipazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rimozione di un membro da un programma di partecipazione {#remove-a-member-from-an-engagement-program}
 
 Oops! Come sono entrate quelle persone? Puoi rimuovere i membri da un programma di coinvolgimento con il passaggio di flusso **Modifica stato** programma.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!TIP]
 >
