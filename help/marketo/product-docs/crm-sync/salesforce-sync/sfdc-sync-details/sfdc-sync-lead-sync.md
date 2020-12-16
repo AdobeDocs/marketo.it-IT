@@ -3,21 +3,15 @@ unique-page-id: 2953455
 description: Sincr. SFDC - Sincr. lead - Documenti Marketo - Documentazione del prodotto
 title: Sincr. SFDC - Sincronizzazione lead
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 
 # Sincr. SFDC: Sincronizzazione lead {#sfdc-sync-lead-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Conoscevi le sincronizzazioni di Marketo dal tuo database Salesforce? Si sincronizza, aspetta 5 minuti, poi si sincronizza di nuovo. Tutto il giorno, ogni giorno. Di seguito sono riportati alcuni dettagli su come Marketo gestisce in modo specifico i lead Salesforce.
 
