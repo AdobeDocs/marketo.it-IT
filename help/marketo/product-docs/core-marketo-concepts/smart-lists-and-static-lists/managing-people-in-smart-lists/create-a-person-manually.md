@@ -3,9 +3,9 @@ unique-page-id: 1147316
 description: Creare manualmente una persona - Documenti Marketo - Documentazione del prodotto
 title: Creazione manuale di una persona
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Creazione manuale di una persona {#create-a-person-manually}
 
 Ci sono molti modi per portare una persona a Marketo. Se devi crearne uno manualmente, ecco come farlo.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Vai al **database**.
 
