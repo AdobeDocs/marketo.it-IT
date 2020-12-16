@@ -3,21 +3,15 @@ unique-page-id: 3571819
 description: Passaggio 3 di 3 - Connect Marketo e Dynamics (On-Premises 2013) - Marketo Docs - Documentazione prodotto
 title: Passaggio 3 di 3 - Connect Marketo e Dynamics (On-Premises 2013)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
 
 # Passaggio 3 di 3: Connect Marketo e Dynamics (On-Premises 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincronizzazione. Quindi, dobbiamo collegare Marketo e Dynamics.
 
