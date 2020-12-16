@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Documentazione prodotto
 title: Drip, Drip, Cura
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecco come!
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
-
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](get-set-up-and-add-a-person.md)
->* [Importa un elenco di persone](import-a-list-of-people.md)
-
->
-
+>* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importa un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## Passaggio 1: Creazione di un programma di coinvolgimento {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    >[!NOTE]
    >
-   >Non vedete l&#39;editor e-mail? Il browser probabilmente ha bloccato la finestra. Attivate i pop-up da [app.marketo.com](http://app.marketo.com) nel browser e fate clic su **Modifica bozza** nella barra dei menu superiore.
+   >Non vedete l&#39;editor e-mail? Il browser probabilmente ha bloccato la finestra. Attivate i pop-up da [app.marketo.com](https://app.marketo.com) nel browser e fate clic su **Modifica bozza** nella barra dei menu superiore.
 
 1. Immettete un oggetto.
 
@@ -92,9 +83,6 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Non dimenticare di approvare le e-mail o di non poterle attivare in un secondo momento.
 
 1. Ora create un&#39;altra e-mail ripetendo le azioni Passo 2.
@@ -104,6 +92,7 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 ## Passaggio 3: Aggiungi contenuto al flusso {#step-add-content-to-your-stream}
 
 1. Ora è il momento di creare un flusso di contenuti per il programma di coinvolgimento utilizzando le e-mail che hai creato.
+
 1. Selezionate il programma di coinvolgimento e fate clic sulla scheda **Streams** .
 
    ![](assets/fourteen-2.png)
@@ -114,11 +103,11 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    >[!TIP]
    >
-   >Potete anche utilizzare il pulsante **Aggiungi contenuto** o l&#39;icona Flusso **+ **.
+   >Potete anche utilizzare il pulsante **Aggiungi contenuto** o l&#39;icona Flusso **+** .
 
 ## Passaggio 4: Attiva contenuto flusso {#step-activate-stream-content}
 
-1. Attivate tutti i contenuti contemporaneamente facendo clic sull&#39;icona a forma di ingranaggio del flusso, quindi fate clic su **Attiva tutti i contenuti** .
+1. Attivate tutti i contenuti contemporaneamente facendo clic sull&#39;icona a forma di ingranaggio del flusso, quindi fate clic su **Attiva tutto il contenuto**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -134,7 +123,7 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    ![](assets/seventeen.png)
 
-1. Modificate le impostazioni in base alla pianificazione desiderata e fate clic su **SALVA**.
+1. Modificate le impostazioni in base alla pianificazione desiderata e fate clic su **Salva**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
    ![](assets/twenty-two.png)
 
 1. Missione Completa!
+
 1. Dovreste ricevere e-mail all&#39;ora e alla cadenza specificata.
 
    >[!NOTE]
    >
-   >**Tubo profondo**
-   >
-   >
-   >Ulteriori informazioni sui programmi [di](http://docs.marketo.com/display/docs/drip+nurturing)coinvolgimento.
+   >Ulteriori informazioni sui programmi [di](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)coinvolgimento.
 
 <br> 
 
-[◄ Missione 5: Importa un elenco di lead](import-a-list-of-people.md) [Mission 7: Personalizza un&#39;e-mail ►](personalize-an-email.md)
+[◄ Missione 5: Importa un elenco di lead](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Missione 7: Personalizza un&#39;e-mail ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
