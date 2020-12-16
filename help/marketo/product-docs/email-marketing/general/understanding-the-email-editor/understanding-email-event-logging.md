@@ -3,9 +3,9 @@ unique-page-id: 1147356
 description: Registrazione eventi e-mail - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulla registrazione degli eventi tramite e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Informazioni sulla registrazione degli eventi tramite e-mail {#understanding-email-event-logging}
 
 Quando si inviano e-mail, Marketo registra diversi punti dati nei registri attività della persona. Ecco quelli di base.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 | Evento | Descrizione |
 |---|---|
