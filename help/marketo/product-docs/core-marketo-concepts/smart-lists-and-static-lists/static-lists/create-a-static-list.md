@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: Creare un elenco statico - Documenti Marketo - Documentazione del prodotto
 title: Creare un elenco statico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Creare un elenco statico {#create-a-static-list}
 
 Gli elenchi statici sono un gruppo di persone già presenti nel database. Ecco come crearne uno.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Vai a **Database**.
 
