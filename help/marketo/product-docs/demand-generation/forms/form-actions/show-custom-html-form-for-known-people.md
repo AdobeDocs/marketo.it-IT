@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Mostra modulo HTML personalizzato per le persone note - Documenti Marketo - Documentazione prodotto
 title: Mostra modulo HTML personalizzato per le persone note
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Mostra modulo HTML personalizzato per le persone note {#show-custom-html-form-for-known-people}
 
 Se un visitatore riceve un cookie (persona nota che in passato ha fornito un indirizzo e-mail), perché preoccuparsi del modulo? Basta dare loro il pulsante di download. Ecco come.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Vai a **Marketing** **Activities**.
 
