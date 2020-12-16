@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Punteggio semplice - Marketo Docs - Documentazione del prodotto
 title: Punteggio semplice
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # Punteggio semplice {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
-
 >[!PREREQUISITES]
 >
 >* [Configurazione e aggiunta di una persona](get-set-up-and-add-a-person.md)
 >* [Pagina di destinazione con un modulo](landing-page-with-a-form.md)
-
->
-
 
 
 ## Passaggio 1: Creazione di una campagna di punteggio {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se la pagina di [destinazione è stata completata con un modulo](landing-page-with-a-form.md) , è necessario avere il modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
+   >Se la pagina di [destinazione è stata completata con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) , è necessario avere il modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Fare clic sulla scheda **Flusso **2.
+1. Fate clic sulla scheda **Flusso** .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Buone campagne di assegnazione dei punteggi sono fondamentali per la distribuzione di personale di alta qualità alle vendite. Leggi [**La Guida Definitiva Al Punteggio**](http://www.marketo.com/definitive-guides/lead-scoring/)Lead.
+   >Buone campagne di assegnazione dei punteggi sono fondamentali per la distribuzione di personale di alta qualità alle vendite. Leggi [**La Guida Definitiva Al Punteggio**](https://www.marketo.com/definitive-guides/lead-scoring/)Lead.
 
 1. Fare clic sulla scheda **Pianificazione** e sul pulsante **Attiva** .
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## Passaggio 2: Compilare il modulo {#step-fill-out-the-form}
 
-1. Selezionate la pagina di destinazione creata nella pagina di [destinazione con una vittoria rapida per il modulo](landing-page-with-a-form.md) .
+1. Selezionate la pagina di destinazione creata nella pagina di [destinazione con una vittoria rapida per il modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Compilate il modulo con il vostro nome, cognome e indirizzo e-mail, quindi fate clic su **Invia** .
+1. Compilate il modulo con il vostro nome, cognome e indirizzo e-mail, quindi fate clic su **Invia**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ I dettagli della persona verranno aperti in una nuova scheda o in una nuova fine
 ![](assets/twenty.png)
 
 **Congratulazioni!** È stata creata una campagna di valutazione.
-[◄ Missione 2: Pagina di destinazione con una](landing-page-with-a-form.md) missione modulo [4: Risposta automatica e-mail ►](email-auto-response.md)
+[◄ Missione 2: Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[Missione 4: Risposta automatica e-mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
