@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Domande frequenti sul monitoraggio Munchkin di nuova generazione - Marketo Docs - Documentazione prodotto
 title: Domande frequenti sul monitoraggio Munchkin di nuova generazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Domande frequenti sul monitoraggio Munchkin di nuova generazione {#next-generation-munchkin-tracking-faq}
 
 Siamo entusiasti di annunciare che presto inizieremo un&#39;implementazione graduale della nostra tecnologia di monitoraggio web di nuova generazione.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Ecco le cose più importanti da sapere:
 
