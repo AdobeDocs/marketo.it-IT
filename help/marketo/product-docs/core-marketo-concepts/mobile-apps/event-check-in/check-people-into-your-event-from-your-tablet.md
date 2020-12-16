@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: Controllare le persone all'evento dal Tablet - Marketo Docs - Documentazione prodotto
 title: Controllare le persone all'evento dal Tablet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Quando le persone si presentano all&#39;evento, potete trovare le loro informazioni nell&#39;app. Dopo il check-in, vengono promossi allo stato Partecipante al momento della sincronizzazione con Marketo.
 
 L&#39;app funziona allo stesso modo sia su iPad che su Android, fatta eccezione per lievi differenze di layout e progettazione.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 >[!PREREQUISITES]
 >
