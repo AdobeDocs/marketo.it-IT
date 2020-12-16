@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Pagina di destinazione con un modulo - Documenti Marketo - Documentazione prodotto
 title: Pagina di destinazione con un modulo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,9 @@ ht-degree: 0%
 
 ## Missione: Creare una pagina di destinazione con un modulo per acquisire nuove persone. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
-
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](get-set-up-and-add-a-person.md)
-
+>[Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## PASSAGGIO 1: Creare un programma {#step-create-a-program}
 
@@ -32,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. Selezionate la cartella** Learning* creata nella vittoria rapida [precedente](send-an-email.md).
+1. Selezionate la cartella **Apprendimento** creata nella vincita rapida [precedente](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -40,12 +33,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Immettete un **nome** programma, selezionate un** Canale** e fate clic su*** Crea*.
+1. Immettete un **nome** programma, selezionate un **canale** e fate clic su **Crea**.
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Includi le iniziali alla fine del programma Nome per renderlo univoco.
 
@@ -53,10 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definizione**
-   >
-   >
-   >Un programma è una specifica iniziativa di marketing. Il **canale** deve essere il meccanismo di distribuzione, ad esempio Webinar, Sponsorship o Online Ad. Nel menu a discesa possono essere visualizzate diverse opzioni di canale, a seconda di quanto è disponibile nella propria istanza. Puoi anche [creare un canale personale.](../../product-docs/administration/tags/create-a-program-channel.md)
+   >Un programma è una specifica iniziativa di marketing. Il **canale** deve essere il meccanismo di distribuzione, ad esempio Webinar, Sponsorship o Online Ad. Nel menu a discesa possono essere visualizzate diverse opzioni di canale, a seconda di quanto è disponibile nella propria istanza. Puoi anche [creare un canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)personale.
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -64,7 +51,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 ## PASSAGGIO 2: Creazione di un modulo {#step-create-a-form}
 
-1. Con il programma selezionato, fate clic su **Nuovo** e quindi** Nuova risorsa locale**.
+1. Con il programma selezionato, fate clic su **Nuovo** , quindi su **Nuova risorsa** locale.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -78,13 +65,13 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    >[!NOTE]
    >
-   >Accertatevi che la casella **Apri nell’editor** sia selezionata. In caso contrario, sarà necessario fare clic sulla **scheda****Modifica modulo.**
+   >Accertatevi che la casella **Apri nell’editor** sia selezionata. In caso contrario, sarà necessario fare clic sulla scheda **Modifica modulo** .
 
    >[!TIP]
    >
-   >L&#39;editor del modulo non viene visualizzato? Il browser probabilmente ha bloccato la finestra. Attivate i pop-up da [app.marketo.com](http://app.marketo.com/) nel browser e fate clic su Modifica bozza nella barra dei menu principale.
+   >L&#39;editor del modulo non viene visualizzato? Il browser probabilmente ha bloccato la finestra. Attivate i pop-up da [app.marketo.com](https://app.marketo.com/) nel browser e fate clic su Modifica bozza nella barra dei menu principale.
 
-1. Selezionare il campo** Indirizzo e-mail** e selezionare **Obbligatorio**.
+1. Selezionate il campo Indirizzo **e-** mail e selezionate **Obbligatorio**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -96,7 +83,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Fare clic su** Avanti**.
+1. Fate clic su **Avanti**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -110,9 +97,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    >[!NOTE]
    >
-   >**Definizione**
-   >
-   >La pagina di completamento è la posizione in cui il visitatore viene reindirizzato dopo aver compilato il modulo. L&#39;URL esterno è un&#39;opzione, ma ce ne sono altre. Consultate [Impostare una pagina](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)di ringraziamento per il modulo.
+   >La pagina di completamento è la posizione in cui il visitatore viene reindirizzato dopo aver compilato il modulo. L&#39;URL esterno è un&#39;opzione, ma ce ne sono altre. Consultate [Impostare una pagina](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)di ringraziamento per il modulo.
 
 1. Fare clic su **Fine**.
 
@@ -136,11 +121,11 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Inserite una pagina** Nome**, selezionate un modello e fate clic su **Crea**.
+1. Immettete un **nome** pagina, selezionate un modello e fate clic su **Crea**.
 
    >[!NOTE]
    >
-   >Potreste avere un modello diverso da quello nel nostro screenshot, va bene, selezionatene uno e continuate.
+   >Potreste avere un modello diverso da quello nella nostra schermata, va bene, selezionatene uno e continuate.
 
    ![](assets/image2014-9-24-11-3a8-3a23.png)
 
@@ -168,9 +153,6 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    >[!NOTE]
    >
-   >**Definizione**
-   >
-   >
    >L’approvazione della pagina di destinazione la renderà disponibile e accessibile da Internet.
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -181,7 +163,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 ## PASSAGGIO 5: Verificare Il Modulo {#step-test-your-form}
 
-1. Selezionate la pagina di destinazione e fate clic su** Visualizza pagina approvata*.
+1. Selezionate la pagina di destinazione e fate clic su **Visualizza pagina** approvata.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -205,4 +187,6 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 <br> 
 
-[◄ Invia un&#39;e-mail di esplosione](send-an-email.md) [semplice ►](simple-scoring.md)
+[◄ Invia un messaggio e-mail con esplosione](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[Punteggio semplice ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
