@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Inoltro a un collegamento amico nelle e-mail - Documenti Marketo - Documentazione prodotto
 title: Inoltra a un collegamento amico nelle e-mail
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 L&#39;aggiunta del collegamento &quot;Inoltra a amico&quot; alle e-mail consente di tenere traccia delle persone che hanno ricevuto un&#39;e-mail inoltrata tramite questo collegamento e di aggiungerle automaticamente come nuova persona, se non sono già presenti nel database.
 
 Ad esempio, Keith utilizza il collegamento &quot;Inoltra all’amico&quot; per inoltrare l’e-mail a una persona sconosciuta, Mark. Mark viene aggiunto automaticamente come persona nuova, viene assegnato il proprio cookie e una qualsiasi delle sue attività e-mail e web è collegata a lui. Tuttavia, se Keith utilizza il pulsante di inoltro nel client di posta elettronica, Mark riceve un cookie non corretto come Keith e la sua attività viene registrata come Keith.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ## Aggiungere il collegamento a un modello e-mail {#add-the-link-to-an-email-template}
 
