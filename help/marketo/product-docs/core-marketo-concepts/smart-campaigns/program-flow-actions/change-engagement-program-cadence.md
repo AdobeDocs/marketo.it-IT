@@ -3,21 +3,15 @@ unique-page-id: 1147013
 description: Modifica della cadenza del programma di coinvolgimento - Marketo Docs - Documentazione del prodotto
 title: Modifica della cadenza del programma di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
 # Modifica della cadenza del programma di coinvolgimento {#change-engagement-program-cadence}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Panoramica
 
