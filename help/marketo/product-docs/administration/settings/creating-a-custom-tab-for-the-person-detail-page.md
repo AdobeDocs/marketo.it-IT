@@ -3,21 +3,15 @@ unique-page-id: 2360305
 description: Creazione di una scheda personalizzata per la pagina Dettagli persona - Documenti Marketo - Documentazione prodotto
 title: Creazione di una scheda personalizzata per la pagina Dettagli persona
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Creazione di una scheda personalizzata per la pagina Dettagli persona {#creating-a-custom-tab-for-the-person-detail-page}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Se cercate più volte un set specifico di campi nei dettagli delle persone, provate a creare un layout personalizzato per semplificare le cose.
 
