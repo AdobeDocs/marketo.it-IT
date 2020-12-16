@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Avvisare il rappresentante vendite - Documenti Marketo - Documentazione prodotto
 title: Avvisa il rappresentante vendite
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 Per inviare automaticamente le e-mail di avviso agli agenti di vendita, è sufficiente disporre di un messaggio e-mail di avviso e di una campagna e-mail. Ecco come farlo.
 
->[!NOTE]
->
->**FYI**
->
->Marketo sta ora standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che l&#39;iscrizione contenga lead/lead e la persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
-
 >[!PREREQUISITES]
 >
->* [Pagina di destinazione con un modulo](landing-page-with-a-form.md)
-
->
-
-
+>[Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Passaggio 1: Creare un messaggio e-mail di avviso {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ Per inviare automaticamente le e-mail di avviso agli agenti di vendita, è suffi
 
    ![](assets/one-5.png)
 
-1. Selezionate **Il programma** personale creato nella pagina di [destinazione con una vittoria rapida del modulo](landing-page-with-a-form.md) , quindi in **Nuovo** fate clic su **Nuova risorsa** locale.
+1. Selezionate **Il programma** personale creato nella pagina di [destinazione con una vittoria rapida del modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) , quindi in **Nuovo** fate clic su **Nuova risorsa** locale.
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ Per inviare automaticamente le e-mail di avviso agli agenti di vendita, è suffi
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} è un token speciale per le e-mail di avviso. Consultate [Usare il token](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Invia informazioni di avviso per ulteriori informazioni.
+   >{{SP_Send_Alert_Info}} è un token speciale per le e-mail di avviso. Consultate [Usare il token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Invia informazioni di avviso per ulteriori informazioni.
 
 1. Fate clic su **Salva**.
 
@@ -87,7 +77,7 @@ Per inviare automaticamente le e-mail di avviso agli agenti di vendita, è suffi
 
 ## Passaggio 2: Creare una campagna di attivazione avvisi {#step-create-an-alert-trigger-campaign}
 
-1. Selezionate **Il programma** precedentemente creato, quindi in **Nuovo **fate clic su **Nuova campagna** avanzata.
+1. Selezionate **Il mio programma** creato in precedenza, quindi in **Nuovo** fate clic su **Nuova campagna** avanzata.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ Per inviare automaticamente le e-mail di avviso agli agenti di vendita, è suffi
 
    ![](assets/nineteen-2.png)
 
-1. Vai alla scheda **Pianificazione** e fai clic sul pulsante **Activate **button.
+1. Vai alla scheda **Pianificazione** e fai clic sul pulsante **Attiva** .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Imposta le regole **di** qualifica su **ogni volta** (modificando Smart Campaign) per consentire alla stessa persona di attivare gli avvisi più volte.
 
@@ -135,9 +124,6 @@ Per inviare automaticamente le e-mail di avviso agli agenti di vendita, è suffi
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Non dimenticare di approvare le pagine di destinazione; non vanno in diretta fino all&#39;approvazione.
 
@@ -155,4 +141,6 @@ Per inviare automaticamente le e-mail di avviso agli agenti di vendita, è suffi
 
 <br> 
 
-[◄ Missione 7: Personalizza una](personalize-an-email.md) missione e-mail [9: Aggiorna dati lead ►](update-person-data.md)
+[◄ Missione 7: Personalizzare un&#39;e-mail](personalize-an-email.md)
+
+[Missione 9: Aggiorna dati lead ►](update-person-data.md)
