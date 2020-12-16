@@ -3,21 +3,15 @@ unique-page-id: 2360243
 description: Abilita limitazioni di persona per campagne intelligenti - Documenti Marketo - Documentazione prodotto
 title: Abilita limitazioni di persona per le campagne intelligenti
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 
 # Abilita limitazioni di persona per le campagne intelligenti {#enable-person-restrictions-for-smart-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 In Marketo è disponibile una funzione che consente di limitare il numero ***massimo ***di persone che possono essere qualificate per una campagna intelligente. In questo modo si evita di inviare accidentalmente l&#39;intero database.
 
