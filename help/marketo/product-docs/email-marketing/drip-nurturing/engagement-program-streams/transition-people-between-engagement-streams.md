@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: Transizione tra i flussi di coinvolgimento - Marketo Docs - Documentazione del prodotto
 title: Persone Di Transizione Tra I Flussi Di Coinvolgimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Persone Di Transizione Tra I Flussi Di Coinvolgimento {#transition-people-between-engagement-streams}
 
 I programmi di coinvolgimento possono avere più di un flusso. Se si [aggiunge un flusso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), sarà necessario definire un modo per consentire agli utenti di spostarsi da un flusso all&#39;altro. Queste sono chiamate regole di **transizione.**
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Vai a Attività **** di marketing.
 
