@@ -3,21 +3,15 @@ unique-page-id: 2949891
 description: Informazioni sugli elenchi statici - Documenti Marketo - Documentazione prodotto
 title: Informazioni sugli elenchi statici
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 
 # Informazioni sugli elenchi statici {#understanding-static-lists}
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 Gli elenchi statici sono una delle funzioni più semplici e utili di Marketo. Si tratta semplicemente di un elenco di nomi del database. Troverete molte ragioni per usarle.
 
