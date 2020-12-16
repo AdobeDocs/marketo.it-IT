@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: Informazioni sui contenuti dinamici - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui contenuti dinamici
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Informazioni sui contenuti dinamici {#understanding-dynamic-content}
 
 C&#39;è molto di più nella personalizzazione che solo &quot;Hi `{{First Name}}`&quot;. Con il contenuto dinamico Marketo, potete personalizzare il modo in cui persone diverse visualizzano una pagina di destinazione o un’e-mail.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 ![](assets/artboard-1.png)
 
