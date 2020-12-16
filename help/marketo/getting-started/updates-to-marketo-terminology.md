@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Aggiornamenti alla terminologia di Marketo - Marketo Docs - Documentazione del prodotto
 title: Aggiornamenti alla terminologia di Marketo
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ Oltre alla modifica del nome, ora è composta da quattro app separate:
 >Le sezioni visibili nella schermata iniziale rifletteranno i moduli acquistati.
 
 Grazie per la pazienza dimostrata durante questo aggiornamento.
-
