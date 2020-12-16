@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gestisci dati profilo sociale - Documenti Marketo - Documentazione prodotto
 title: Gestisci dati profilo social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Gestisci dati profilo social {#manage-social-profile-data}
 
 Quando un utente interagisce con un&#39;app [](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)per social network Marketo o autorizza il proprio social network a precompilare un modulo Marketo con il modulo per [](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)social network, Marketo acquisisce tutti i dati disponibili dal proprio profilo sociale. Potete visualizzare queste informazioni nella pagina [Dettagli](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)persona o aggiungerle come colonna in una visualizzazione [personalizzata di un elenco](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)avanzato.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 La compilazione del modulo social e le app per social network acquisiscono insiemi leggermente diversi di campi; vedete la sezione per ciascuno di questi elementi di seguito.
 
