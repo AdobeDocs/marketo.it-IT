@@ -3,9 +3,9 @@ unique-page-id: 2359839
 description: Test di un flusso di coinvolgimento - Marketo Docs - Documentazione prodotto
 title: Test di un flusso di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Test di un flusso di coinvolgimento {#test-an-engagement-stream}
 
 Dopo aver aggiunto tutto il contenuto a uno streaming, potete testarlo un pezzo alla volta.
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. Vai a Attività **** di marketing.
 
