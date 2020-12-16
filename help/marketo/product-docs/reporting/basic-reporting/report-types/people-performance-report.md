@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: Rapporto sulle prestazioni delle persone - Documenti Marketo - Documentazione del prodotto
 title: Report Prestazioni Persone
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Report Prestazioni Persone {#people-performance-report}
 
 Utilizzare un report sulle prestazioni delle persone per misurare la crescita del database nel tempo. Potete vedere quante persone avete aggiunto e quando. Scopri di più sulle persone e valuta i tuoi programmi. Raggruppare i risultati per qualsiasi attributo di persona o società o per [segmentazione](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informazioni.
 
 1. [Create un rapporto](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selezionate il tipo di **rapporto** Prestazioni [persone](report-type-overview.md).
 1. [Impostate l&#39;intervallo di tempo del rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fate clic sulla scheda **Rapporto** .
