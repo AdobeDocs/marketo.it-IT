@@ -25,7 +25,7 @@ Per filtrare in base all’elenco degli account, fate clic sull’elenco a disce
 
 ![](assets/three.png)
 
-Per visualizzare il dashboard [Elenco](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)account, fate clic sul nome dell&#39;elenco account selezionato...
+Per visualizzare il [Pannello elenco account](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard), fare clic sul nome dell&#39;elenco account selezionato...
 
 ![](assets/four.png)
 
@@ -33,11 +33,11 @@ Per visualizzare il dashboard [Elenco](http://docs.marketo.com/display/DOCS/Acco
 
 ![](assets/five.png)
 
-Se invece di visualizzare il Pannello elenco account che desiderate espandere in un account denominato, fate clic su **Maggiori dettagli** sotto il nome...
+Se invece di visualizzare il Pannello elenco account che si desidera espandere in un account denominato, fare clic su **Maggiori dettagli** sotto il nome...
 
 ![](assets/six.png)
 
-...e visualizzare le informazioni relative all&#39;account [denominato](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...e visualizzare le informazioni sull&#39;account [denominato](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
 
 ![](assets/seven.png)
 
