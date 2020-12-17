@@ -22,7 +22,7 @@ I passaggi di flusso indicano a Marketo cosa si desidera accadere a un gruppo di
 
    ![Immagine uno](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. Dopo aver impostato l’elenco avanzato, fate clic su **[!UICONTROL Flow]**.
+1. Dopo aver impostato l&#39;elenco smart, fare clic su **[!UICONTROL Flow]**.
 
    ![Immagine due](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ I passaggi di flusso indicano a Marketo cosa si desidera accadere a un gruppo di
 
    ![Immagine quattro](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Dopo aver aggiunto filtri/attivatori, fai clic sul **[!UICONTROL Smart Campaign Actions]** menu a discesa e seleziona **[!UICONTROL Save New Flow]**.
+1. Dopo aver aggiunto filtri/attivatori, fai clic sul menu a discesa **[!UICONTROL Smart Campaign Actions]** e seleziona **[!UICONTROL Save New Flow]**.
 
    ![Immagine cinque](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Denominate il flusso e fate clic **[!UICONTROL Save]**.
+1. Denominate il flusso e fate clic su **[!UICONTROL Save]**.
 
    ![Immagine Sei](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -48,11 +48,11 @@ E hai finito. La prossima volta che create una campagna intelligente, avrete acc
 
    ![Immagine sette](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Fate clic **[!UICONTROL Flow]**.
+1. Fare clic su **[!UICONTROL Flow]**.
 
    ![Immagine otto](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Fare clic sul **[!UICONTROL Saved Flows]** menu a discesa.
+1. Fare clic sul menu a discesa **[!UICONTROL Saved Flows]**.
 
    ![Image Nine](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
