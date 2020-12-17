@@ -19,13 +19,13 @@ Le campagne intelligenti sono lo strumento più importante di Marketo. Possono a
 >
 >**Tubo profondo**
 >
->Le campagne intelligenti sono fantastiche. Scopri di più su di loro [qui](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Le campagne intelligenti sono fantastiche. Ulteriori informazioni su di loro [qui](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Scegliete un **programma**, quindi in **Nuovo** fate clic su **Nuova risorsa** locale.
+1. Scegliete un **programma**, quindi in **Nuovo** fate clic su **Nuova risorsa locale**.
 
    ![](assets/program-localassethands.png)
 
@@ -33,7 +33,7 @@ Le campagne intelligenti sono lo strumento più importante di Marketo. Possono a
    >
    >Puoi creare campagne intelligenti come risorse locali di qualsiasi programma.
 
-1. Fate clic su **Smart Campaign**.
+1. Fare clic su **Smart Campaign**.
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
