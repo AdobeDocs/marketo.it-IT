@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creare un campo personalizzato in Marketo {#create-a-custom-field-in-marketo}
+# Crea un campo personalizzato in Marketo {#create-a-custom-field-in-marketo}
 
 Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acquisire dati, ecco come crearne uno.
 
@@ -31,7 +31,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acqui
 
    >[!TIP]
    >
-   >Verificare il Glossario [dei tipi di campo personalizzati](custom-field-type-glossary.md).
+   >Controllare il Glossario [Custom Field Types](custom-field-type-glossary.md).
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
