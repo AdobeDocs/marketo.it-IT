@@ -14,17 +14,17 @@ ht-degree: 0%
 
 <br> 
 
-Quando gli utenti esauriscono tutto il contenuto in un flusso, [!DNL Marketo] possono inviare una notifica. Puoi disattivare/abilitare le notifiche in base alle tue esigenze.
+Quando gli utenti esauriscono tutto il contenuto in un flusso, [!DNL Marketo] può inviare una notifica. Puoi disattivare/abilitare le notifiche in base alle tue esigenze.
 
 1. Selezionate il programma di coinvolgimento.
 
    ![Immagine uno](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Fate clic sulla **[!UICONTROL Setup]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Setup]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Scorri verso il basso fino [!UICONTROL Settings] a selezionare **[!UICONTROL Off]** (o [!UICONTROL On]).
+1. Scorrete verso il basso fino a [!UICONTROL Settings] e selezionate **[!UICONTROL Off]** (o [!UICONTROL On]).
 
    ![Immagine tre](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
