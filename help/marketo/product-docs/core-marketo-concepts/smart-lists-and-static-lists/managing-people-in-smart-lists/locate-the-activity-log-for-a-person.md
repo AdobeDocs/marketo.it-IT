@@ -19,15 +19,15 @@ Il registro attività è la fonte ultima di verità. Questa è la storia complet
 
    ![](assets/db-2.png)
 
-1. Selezionate **Tutte le persone**.
+1. Selezionare **Tutte le persone**.
 
    ![](assets/two-6.png)
 
-1. Fate clic sulla scheda **Persone** . Selezionate un numero **ID** persona.
+1. Fare clic sulla scheda **Persone**. Selezionare un numero di persona **Id**.
 
    ![](assets/three-5.png)
 
-1. Fate clic su Registro **attività**.
+1. Fare clic su **Registro attività**.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ Il registro attività è la fonte ultima di verità. Questa è la storia complet
    >**Articoli correlati**
    >
    >
-   >Ulteriori informazioni sul [filtraggio del](filter-activity-types-in-the-activity-log-of-a-person.md)registro attività per visualizzare attività specifiche per le persone.
+   >Ulteriori informazioni su [filtraggio del log attività](filter-activity-types-in-the-activity-log-of-a-person.md)per visualizzare attività specifiche di una persona.
 
