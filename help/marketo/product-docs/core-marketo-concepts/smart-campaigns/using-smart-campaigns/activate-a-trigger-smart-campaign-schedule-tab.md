@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Attivare una campagna intelligente attiva è come attivarla. Ecco cosa fare.
 
-1. Nella scheda **Pianificazione** della campagna intelligente, fai clic su **Attiva**.
+1. Nella scheda **Schedule** della campagna smart, fare clic su **Activate**.
 
    ![](assets/activateprogram-hands.png)
 
@@ -23,7 +23,7 @@ Attivare una campagna intelligente attiva è come attivarla. Ecco cosa fare.
    >
    >Rivedete la campagna intelligente prima di attivarla.
 
-1. Fate di nuovo clic su **Attiva** .
+1. Fare di nuovo clic su **Attiva**.
 
    ![](assets/activatecampaign-hand.png)
 
