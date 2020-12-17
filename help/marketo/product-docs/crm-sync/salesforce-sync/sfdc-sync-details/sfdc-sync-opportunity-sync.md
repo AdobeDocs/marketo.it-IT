@@ -19,7 +19,7 @@ La sincronizzazione è unidirezionale: da Salesforce a Marketo. Gli aggiornament
 
 >[!NOTE]
 >
->Le [credenziali immesse in Marketo per Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzate per sincronizzare i dati. Saranno inclusi solo i dati a cui tali credenziali hanno accesso.
+>Le [credenziali immesse in Marketo per Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzate per la sincronizzazione dei dati. Saranno inclusi solo i dati a cui tali credenziali hanno accesso.
 
 ## Posso avviare una sincronizzazione delle opportunità? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,15 +27,15 @@ No, non puoi. Le modifiche apportate a qualsiasi opportunità in Salesforce verr
 
 ## Marketo supporta più di una valuta nell&#39;importo opportunità? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo supporta una sola valuta. L&#39;importo dell&#39;opportunità verrà sincronizzato da Salesforce, ma la valuta sarà la valuta [](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) predefinita nell&#39;abbonamento a Marketo.
+No, Marketo supporta una sola valuta. L&#39;importo dell&#39;opportunità verrà sincronizzato da Salesforce, ma la valuta sarà la [valuta predefinita](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) nell&#39;abbonamento a Marketo.
 
 ## In che modo Marketo associa opportunità e contatti? {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo associa opportunità e contatti tramite Ruoli [di contatto](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm)opportunità. Le opportunità senza i ruoli di contatto assegnati verranno sincronizzate su Marketo, ma non appartengono a nessuno. Ad esempio, la persona non sarà qualificata con il filtro Con opportunità.
+Marketo associa opportunità e contatti utilizzando [Ruoli di contatto opportunità](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Le opportunità senza i ruoli di contatto assegnati verranno sincronizzate su Marketo, ma non appartengono a nessuno. Ad esempio, la persona non sarà qualificata con il filtro Con opportunità.
 
 ## Come posso vedere tutte le opportunità di una persona? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-Potete visualizzare un elenco delle opportunità nella scheda Informazioni **** opportunità nella pagina Dettagli [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persona.
+Potete visualizzare un elenco delle opportunità nella scheda **Informazioni opportunità** nella pagina [Dettagli persona](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ## Quali sono i trigger/filtri correlati alle opportunità? {#what-are-the-triggers-filters-related-to-opportunity}
 
