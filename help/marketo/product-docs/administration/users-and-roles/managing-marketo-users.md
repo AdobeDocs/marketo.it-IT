@@ -15,25 +15,25 @@ ht-degree: 0%
 
 ## Crea utenti {#create-users}
 
-1. Vai ad **Admin** e fai clic su **Utenti e ruoli**.
+1. Accedete a **Admin** e fate clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
-1. Fate clic su **Invita nuovo utente**.
+1. Fare clic su **Invita nuovo utente**.
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Immettete l’indirizzo **e-** mail, il **nome** e il cognome **Cognome. **
+1. Immettere l&#39; **Indirizzo e-mail**, **Nome** e **Cognome. **
 
    ** ![](assets/image2016-5-24-9-3a45-3a30.png)
 
    **
 
-1. Facoltativamente, immettete un motivo per l’invito e selezionate una data di scadenza nel campo Scadenza **accesso** utilizzando il selettore data.
+1. Facoltativamente, immettete un motivo per l&#39;invito e selezionate una data di scadenza nel campo **Scade accesso** utilizzando il selettore data.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-5-24-9-3a58-3a10.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
    >
    >Quando arriva la data di scadenza, l&#39;utente riceve una notifica di scadenza e il suo account viene bloccato.
 
-1. Selezionare il **Ruolo **di tua scelta e fare clic su **Avanti**.
+1. Selezionare **Role **of your choice e fare clic su **Next**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
-1. Apportate le modifiche necessarie al messaggio di invito. Fate clic su **Invia**.
+1. Apportate le modifiche necessarie al messaggio di invito. Fare clic su **Send**.
 
    ![](assets/image2016-5-24-10-3a3-3a56.png)
 
@@ -103,7 +103,7 @@ L&#39;utente riceverà un&#39;e-mail con le istruzioni per la reimpostazione del
 
 ## Modifica autorizzazioni e modifica informazioni utente {#change-permissions-and-edit-user-information}
 
-1. Vai ad **Admin** e fai clic su **Utenti e ruoli.**
+1. Vai a **Admin** e fai clic su **Utenti e ruoli.**
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
@@ -111,7 +111,7 @@ L&#39;utente riceverà un&#39;e-mail con le istruzioni per la reimpostazione del
 
    ![](assets/image2014-9-9-11-3a37-3a16.png)
 
-1. Potete modificare le informazioni utente e cambiare il ruolo associato. Fate clic su **Salva**.
+1. Potete modificare le informazioni utente e cambiare il ruolo associato. Fare clic su **Salva**.
 
    ![](assets/image2014-9-9-11-3a37-3a31.png)
 
