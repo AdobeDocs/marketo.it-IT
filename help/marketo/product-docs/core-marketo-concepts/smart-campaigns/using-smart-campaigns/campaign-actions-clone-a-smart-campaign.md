@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Azioni campagna: Clonare una campagna intelligente {#campaign-actions-clone-a-smart-campaign}
+# Azioni campagna: Clona una campagna intelligente {#campaign-actions-clone-a-smart-campaign}
 
 La duplicazione delle campagne consente di risparmiare tempo. Non è necessario creare tutto da zero: la duplicazione crea una campagna identica con esattamente gli stessi filtri per elenchi smart e passaggi di flusso.
 
-1. Individua la campagna da clonare, selezionala, quindi in Azioni **** campagna fai clic su **Clona**.
+1. Trovate la campagna da clonare, selezionatela, quindi in **Azioni campagna** fate clic su **Clone**.
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
@@ -23,7 +23,7 @@ La duplicazione delle campagne consente di risparmiare tempo. Non è necessario 
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
-1. Scegliete un **programma**. Immettete un nome **** campagna e fate clic su **Clona**.
+1. Scegliere un **programma**. Immettete un **nome campagna** e fate clic su **Clone**.
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
