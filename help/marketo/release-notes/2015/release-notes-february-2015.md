@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella release di febbraio 2015. Per infor
 
 ## Miglioramenti dell&#39;automazione marketing {#marketing-automation-enhancements}
 
-** [Sposta campagna](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)intelligente**
+** [Sposta campagna intelligente](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)*
 
 Felice! Ora puoi spostare le campagne intelligenti all&#39;interno e all&#39;esterno dei programmi tramite trascinamento o la funzione Sposta nella struttura.
 
@@ -33,7 +33,7 @@ e sostituirà i protocolli di sicurezza attualmente utilizzati (SHA-1 e SSL) con
 
 `·` [marketo.com](http://marketo.com) (principali applicazioni SaaS)
 
-Ciò si verificherà poco dopo questa versione. Il protocollo SHA-1 sarà temporaneamente supportato sul dominio [mktoapi.com](http://mktoapi.com) fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i loro sistemi con la compatibilità SHA-2.
+Ciò si verificherà poco dopo questa versione. Il protocollo SHA-1 sarà temporaneamente supportato su [mktoapi.com](http://mktoapi.com) dominio fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i propri sistemi con la compatibilità SHA-2.
 
 **Munchkin sicuro**
 
@@ -41,12 +41,12 @@ Stiamo rimuovendo il supporto per SSL3. Abbiamo mantenuto SSL3 fino ad ora per m
 
 ## Miglioramenti della personalizzazione in tempo reale {#real-time-personalization-enhancements}
 
-** URL [di destinazione per campagne](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+** [URL di destinazione per campagne](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
 Selezionate le pagine sulle quali desiderate visualizzare la campagna in tempo reale utilizzando l&#39;opzione &quot;Aggiungi un URL di destinazione&quot;. Questa funzione funziona con tutti i tipi di campagne (finestra di dialogo, area, widget), ma è particolarmente utile per le campagne In Zone, dove una campagna verrà rappresentata nell’ID di zona solo per l’URL di destinazione selezionato. Supporta l’aggiunta di più URL per diverse pagine Web.
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [Paese e stato aggiunti al targeting](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)basato su account**
+** [Paese e stato aggiunti al targeting basato su account](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
 
 È ora possibile aggiungere Paese e Stato agli elenchi degli account denominati. Esegue il targeting dei potenziali account chiave da posizioni specifiche.
