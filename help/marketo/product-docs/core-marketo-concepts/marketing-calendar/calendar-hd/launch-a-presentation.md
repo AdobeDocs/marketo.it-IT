@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Avviare una presentazione {#launch-a-presentation}
+# Avvia una presentazione {#launch-a-presentation}
 
 Dopo aver impostato le viste e la frequenza di rotazione per la presentazione, è ora di spegnersi!
 
@@ -32,13 +32,13 @@ Dopo aver impostato le viste e la frequenza di rotazione per la presentazione, �
 
 >[!TIP]
 >
->Accertatevi di **visualizzare l’anteprima di una presentazione** prima di avviarla.
+>Assicurarsi di **visualizzare l&#39;anteprima di una presentazione** prima di avviarla.
 
-1. Fate clic su **Avvia**.
+1. Fare clic su **Avvia**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Fai clic su **Avvia** una volta. Questo vi disconnetterà da Marketo in modo che la presentazione possa essere visualizzata in modo sicuro.
+1. Fare clic su **Avvia** una volta. Questo vi disconnetterà da Marketo in modo che la presentazione possa essere visualizzata in modo sicuro.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
