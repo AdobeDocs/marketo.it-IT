@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Il rapporto sulle vendite di ABM è un messaggio e-mail settimanale personalizzato inviato al team dell&#39;account.
 
-## Impostazione rapporto {#report-setup}
+## Impostazione report {#report-setup}
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-3.png)
 
-1. Fate clic su **ABM**.
+1. Fare clic su **ABM**.
 
    ![](assets/two-2.png)
 
-1. In Rapporto settimanale, fate clic su **Modifica**.
+1. In Rapporto settimanale, fare clic su **Modifica**.
 
    ![](assets/three-3.png)
 
-1. Fate clic sul menu a discesa **Giorno** e selezionate il giorno della settimana in cui i destinatari dovranno ricevere il messaggio e-mail.
+1. Fare clic sul menu a discesa **Giorno** e selezionare il giorno della settimana in cui si desidera che i destinatari ricevano il messaggio e-mail.
 
    ![](assets/four-4.png)
 
@@ -37,7 +37,7 @@ Il rapporto sulle vendite di ABM è un messaggio e-mail settimanale personalizza
 
    ![](assets/five-3.png)
 
-1. Selezionate la casella **Utenti** , quindi fate clic sul menu a discesa e selezionate chi desiderate ricevere il messaggio e-mail.
+1. Selezionate la casella **Utenti**, quindi fate clic sul menu a discesa e selezionate chi desiderate ricevere il messaggio e-mail.
 
    ![](assets/six-2.png)
 
@@ -45,25 +45,25 @@ Il rapporto sulle vendite di ABM è un messaggio e-mail settimanale personalizza
    >
    >Le notifiche verranno inviate solo ai proprietari dell&#39;account o ai membri del team.
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/seven-2.png)
 
 Ed è tutto!
 
-## Come annullare l’iscrizione {#how-to-unsubscribe}
+## Come annullare la sottoscrizione {#how-to-unsubscribe}
 
-A ogni rapporto viene fornita l&#39;opzione di rifiuto. Per farlo, fai clic su **Annulla sottoscrizione** nella parte inferiore dell’e-mail.
+A ogni rapporto viene fornita l&#39;opzione di rifiuto. Per farlo, fai clic su **Annulla sottoscrizione** in fondo all&#39;e-mail.
 
 ![](assets/eight-1.png)
 
-## Come effettuare l’iscrizione {#how-to-resubscribe}
+## Come eseguire nuovamente l&#39;iscrizione {#how-to-resubscribe}
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-3.png)
 
-1. Fate clic su **ABM**.
+1. Fare clic su **ABM**.
 
    ![](assets/two-2.png)
 
@@ -75,7 +75,7 @@ A ogni rapporto viene fornita l&#39;opzione di rifiuto. Per farlo, fai clic su *
 
    ![](assets/ten.png)
 
-1. Selezionate di nuovo l’utente a cui desiderate ricevere i messaggi e-mail e fate clic su **Ripristina sottoscrizione**.
+1. Selezionate di nuovo l&#39;utente a cui desiderate ricevere le e-mail e fate clic su **Resubscription**.
 
    ![](assets/eleven.png)
 
