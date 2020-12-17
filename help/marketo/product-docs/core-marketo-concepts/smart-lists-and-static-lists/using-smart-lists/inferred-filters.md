@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtri indiretti {#inferred-filters}
 
-Quando qualcuno visita il tuo sito web, [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li mette nel sistema. Cerchiamo il loro IP in un database speciale e informiamo tutti i tipi di informazioni buone. Controllala.
+Quando qualcuno visita il tuo sito Web, [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e informiamo tutti i tipi di informazioni buone. Controllala.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +34,7 @@ Se si utilizza uno di questi filtri in un elenco avanzato, i risultati produrran
 >Utilizzate questi filtri in un rapporto di attività Web. Utilizzate i territori degli agenti di vendita e iscrivetevi a un rapporto giornaliero personalizzato con i visitatori del sito Web nelle ultime 24 ore. Lo ameranno!
 >
 >* Pagina Web visitata - Ultime 24 ore
->* Lo Stato di provenienza [seleziona il proprio territorio]
+>* Lo stato di provenienza è [selezionare il proprio territorio]
 
 >
 
@@ -46,5 +46,5 @@ Questi visitatori anonimi vengono automaticamente convertiti in persone quando f
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sull&#39;attività [anonima e sui lead](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Ulteriori informazioni su [attività anonima e lead](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
 
