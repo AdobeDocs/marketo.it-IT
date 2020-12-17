@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Glossario Scelte Rapide Da Tastiera {#keyboard-shortcuts-glossary}
+# Glossario Scelte rapide da tastiera {#keyboard-shortcuts-glossary}
 
 Sei una persona con le scelte rapide da tastiera? Ti abbiamo coperto!
 
