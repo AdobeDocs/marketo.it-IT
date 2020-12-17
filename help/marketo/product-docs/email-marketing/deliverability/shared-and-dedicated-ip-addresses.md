@@ -33,15 +33,15 @@ Come al solito, ci sono pro e contro a entrambe le opzioni.
 
 *Pros*
 
-**Reputazione** - Lei possiede tutta la sua reputazione e la sua realizzabilità.\
-**Monitoraggio** - Il monitoraggio della generazione di rapporti consente di rispondere rapidamente ai cambiamenti nelle metriche di distribuzione.\
-**Risoluzione** dei problemi - È più facile ricercare, capire e risolvere i problemi di consegna.
+**Reputazione**  - Lei possiede tutta la sua reputazione e la sua realizzabilità.\
+**Monitoraggio** : il monitoraggio del reporting sulla recapito consente di rispondere rapidamente ai cambiamenti nelle metriche di distribuzione.\
+**Risoluzione**  dei problemi: è più facile ricercare, capire e risolvere i problemi di consegna.
 
 *Cons*
 
-**Modifiche** del volume: i picchi nel volume possono influenzare negativamente la vostra reputazione e devono essere gestiti.\
-**Processo** di riscaldamento IP - La reputazione è costruita nel tempo. Alcuni provider di servizi Internet (ISP, Internet Service Provider) riducono gli indirizzi IP senza cronologia del volume, quindi sarà necessario costruire una reputazione nelle prime settimane (Marketo può aiutarti).\
-**Costo** - In genere, esiste un costo aggiuntivo da inviare da un IP dedicato con qualsiasi fornitore.
+**Modifiche**  del volume: i picchi nel volume possono influenzare negativamente la reputazione e devono essere gestiti.\
+**Processo**  di riscaldamento IP - La reputazione è costruita nel tempo. Alcuni provider di servizi Internet (ISP, Internet Service Provider) riducono gli indirizzi IP senza cronologia del volume, quindi sarà necessario costruire una reputazione nelle prime settimane (Marketo può aiutarti).\
+**Costo** : in genere esiste un costo aggiuntivo da inviare da un IP dedicato con qualsiasi fornitore.
 
 **Pros and Cons di un IP condiviso**
 
@@ -53,7 +53,7 @@ Come al solito, ci sono pro e contro a entrambe le opzioni.
 
 *Cons*
 
-**Cattivi compagni di stanza** - Se le persone che condividete il vostro IP si dedicano a procedure di invio errate, le campagne e-mail potrebbero essere influenzate negativamente.\
+**Stanze**  errate - Se le persone che condividete il vostro IP si dedicano a procedure di invio errate, le campagne e-mail potrebbero essere influenzate negativamente.\
 **Controllo **- Hai molto meno controllo sulla reputazione del mittente.\
 **Risoluzione dei problemi **- Spesso può essere più difficile risolvere un problema durante l&#39;invio da IP condivisi.
 
