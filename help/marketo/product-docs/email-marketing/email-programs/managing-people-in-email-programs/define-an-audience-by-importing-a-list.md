@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[Creare un&#39;e-mail per un programma e-mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Dopo aver creato un programma e-mail, è necessario indicare a chi inviare l&#39;e-mail. È possibile eseguire questa operazione [creando un elenco](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) avanzato o importando un elenco. Questo è il modo per farlo importando un elenco.
+Dopo aver creato un programma e-mail, è necessario indicare a chi inviare l&#39;e-mail. A tal fine, è possibile creare un [elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importare un elenco. Questo è il modo per farlo importando un elenco.
 
 >[!NOTE]
 >
@@ -25,14 +25,14 @@ Dopo aver creato un programma e-mail, è necessario indicare a chi inviare l&#39
 >
 >Tutti i campi data/ora importati vengono considerati come Ora centrale. Se i campi data/ora si trovano in un fuso orario diverso, è possibile utilizzare una formula Excel per trasformarla in Ora centrale (America/Chicago).
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
    Selezionate il programma e-mail e fate clic su Importa elenco sotto la sezione Pubblico.
    ![](assets/importlist.png)
 
-1. Viene visualizzata la finestra di importazione dell’elenco, fate clic su **Sfoglia** e selezionate il file da importare. Dopo aver selezionato l’elenco delle persone, fate clic su Avanti.
+1. Viene visualizzata la finestra di importazione dell&#39;elenco, fate clic su **Sfoglia** e selezionate il file da importare. Dopo aver selezionato l’elenco delle persone, fate clic su Avanti.
 1. ![](assets/importlist1.png)
 
    >[!CAUTION]
@@ -46,7 +46,7 @@ Dopo aver creato un programma e-mail, è necessario indicare a chi inviare l&#39
    >
    >Marketo ricorderà le mappature per le importazioni future!
 
-1. Immettete un **nome** per l’elenco e fate clic su **Importa**.
+1. Immettere un **Nome** per l&#39;elenco e fare clic su **Importa**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
