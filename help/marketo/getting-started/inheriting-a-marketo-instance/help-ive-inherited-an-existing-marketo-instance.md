@@ -29,4 +29,4 @@ Prendete la vostra bevanda preferita e guardate in giro.
 * [Cose da rivedere: Competenze di base](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [Modalità per ottenere assistenza](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-Se già conosci la tua strada intorno alla tua istanza e sei a tuo agio con i concetti di base di Marketo, consulta i documenti di prodotto di Marketo, o visita la community online [Marketing Nation](https://nation.marketo.com/) per vedere cosa stanno dicendo gli altri utenti di Marketo.
+Se già conosci la tua strada intorno alla tua istanza e sei a tuo agio con i concetti di base di Marketo, consulta i documenti di prodotto di Marketo, o visita la [Marketing Nation](https://nation.marketo.com/) community online per vedere cosa stanno dicendo gli altri utenti di Marketo.
