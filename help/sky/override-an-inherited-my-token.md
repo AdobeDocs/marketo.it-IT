@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Come ignorare un token ereditato in un programma secondario o in una cartella di campagna.
 
-1. Nella [!UICONTROL My Tokens] scheda, trovate il token che desiderate ignorare nella [!UICONTROL Inherited Tokens] sezione.
+1. Nella scheda [!UICONTROL My Tokens], individuare il token da ignorare nella sezione [!UICONTROL Inherited Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. Fate clic sul token **[!UICONTROL Value]** e modificatelo. Se si modifica il valore di questo token, questo verrà automaticamente spostato nella [!UICONTROL Overridden Tokens] sezione.
+1. Fare clic sul token **[!UICONTROL Value]** e modificarlo. Se si modifica il valore di questo token, questo verrà automaticamente spostato nella sezione [!UICONTROL Overridden Tokens].
 
    ![Immagine due](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
