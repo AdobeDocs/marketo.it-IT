@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Impostare una data/ora di scadenza per annullare la pubblicazione delle pagine di destinazione, disattivare le campagne di attivazione o interrompere le campagne batch ricorrenti. Questa funzione è disponibile nella **[!UICONTROL Expiration]** sezione sotto la **[!UICONTROL Assets]** scheda.
+Impostare una data/ora di scadenza per annullare la pubblicazione delle pagine di destinazione, disattivare le campagne di attivazione o interrompere le campagne batch ricorrenti. Questa funzione è disponibile nella sezione **[!UICONTROL Expiration]** della scheda **[!UICONTROL Assets]**.
 
 ![Immagine uno](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## Impostazione di una data di scadenza
 
-1. Controlla le risorse per le quali vuoi impostare una data di scadenza, quindi fai clic su **[!UICONTROL Set Expiration]**.
+1. Controllate le risorse per le quali desiderate impostare una data di scadenza, quindi fate clic su **[!UICONTROL Set Expiration]**.
 
    ![Immagine due](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ Impostare una data/ora di scadenza per annullare la pubblicazione delle pagine d
 
    ![Immagine tre](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. Controllate le risorse interessate e fate clic su **[!UICONTROL Confirm]**.
+1. Rivedete le risorse interessate, quindi fate clic su **[!UICONTROL Confirm]**.
 
    ![Immagine quattro](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->Per modificare una data di scadenza esistente, controlla semplicemente le risorse e fai clic su **[!UICONTROL Set Expiration]**.
+>Per modificare una data di scadenza esistente, è sufficiente controllare le risorse e fare clic su **[!UICONTROL Set Expiration]**.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Impostare una data/ora di scadenza per annullare la pubblicazione delle pagine d
 
    ![Immagine cinque](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. Controllate le risorse interessate e fate clic su **[!UICONTROL Confirm]**.
+1. Rivedete le risorse interessate, quindi fate clic su **[!UICONTROL Confirm]**.
 
    ![Immagine Sei](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
