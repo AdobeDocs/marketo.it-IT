@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Dopo aver aggiunto il contenuto al flusso, potrebbe essere utile modificare la priorità. Il contenuto viene sempre distribuito dall’alto verso il basso in ciascun cast e non viene inviato due volte alcun contenuto alla stessa persona.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Selezionate il programma di coinvolgimento e fate clic sulla scheda **Streams** .
+1. Selezionate il programma di coinvolgimento e fate clic sulla scheda **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
