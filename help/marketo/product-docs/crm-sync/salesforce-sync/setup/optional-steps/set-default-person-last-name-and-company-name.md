@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Per i lead e i contatti di Salesforce sono necessari (minimo) cognome e nome società. I record incompleti non verranno sincronizzati con Salesforce. Se desideri sincronizzare record parziali, devi impostare i valori predefiniti per Marketo da usare con Salesforce.
 
-1. Vai ad **Admin** e fai clic su **Salesforce**.
+1. Vai a **Admin** e fai clic su **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Fate clic su **Modifica opzioni** sincronizzazione.
+1. Fare clic su **Modifica opzioni sincronizzazione**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Immettete un cognome **** predefinito per la persona e una società&#x200B;****** persona predefinita, quindi fate clic su **Salva**.
+1. Immettete un **cognome persona predefinito** e un **Predefinito ****società persona**, quindi fate clic su **Salva**.
 
    ![](assets/sync-options-hands.png)
 
