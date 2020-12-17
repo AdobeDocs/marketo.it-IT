@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # SEO - Ottieni suggerimenti collegamenti in entrata {#seo-get-inbound-link-suggestions}
 
-Marketo può suggerire quali collegamenti in entrata sono utili per l&#39;ottimizzazione [fuori pagina](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo può suggerire quali collegamenti in entrata sono utili per l&#39; [ottimizzazione fuori pagina](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Vai alla sezione Collegamenti **in entrata** .
+1. Andate alla sezione **Collegamenti in ingresso**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. Fate clic su **GET SUGGERIMENTI**.
+1. Fare clic su **SUGGERIMENTI DI GET**.
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. Inserite una parola chiave. Fate clic su **SUGGEST LINK**.
+1. Inserite una parola chiave. Fare clic su **SUGGEST LINKS**.
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
@@ -33,7 +33,7 @@ Marketo può suggerire quali collegamenti in entrata sono utili per l&#39;ottimi
 
    >[!TIP]
    >
-   >Sapevate di poter [aggiungere il collegamento a un elenco](seo-add-remove-an-inbound-link-url-from-a-list.md)nuovo o esistente? Guardate!
+   >Sapevate di poter [aggiungere il collegamento a un elenco nuovo o esistente](seo-add-remove-an-inbound-link-url-from-a-list.md)? Guardate!
 
 1. Fantastico! Questi collegamenti aggiunti verranno tracciati.
 
