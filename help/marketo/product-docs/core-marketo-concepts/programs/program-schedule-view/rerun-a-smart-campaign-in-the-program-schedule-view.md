@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Eseguire nuovamente una campagna intelligente nella visualizzazione Pianificazione programma {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Eseguire nuovamente una campagna intelligente nella vista Pianificazione programma {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 È possibile creare facilmente nuove esecuzioni di una campagna intelligente esistente direttamente dalla vista di pianificazione del programma.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >È inoltre possibile eseguire questa operazione mediante il focus [del](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)programma.
+   >È possibile eseguire questa operazione anche dal programma [focus](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Proprio così, hai pianificato un&#39;altra corsa per quella campagna intelligente. Se la campagna intelligente conteneva dei passaggi per l&#39;invio di e-mail, potrai vedere anche quelli!
