@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per convertire un lead in un contatto in Microsoft Dynamics, assicurarsi di utilizzare il processo Qualifica predefinito. Quindi, sincronizzala con Marketo.
 
-## Il processo di conversione {#the-conversion-process}
+## Processo di conversione {#the-conversion-process}
 
 Ecco come funzionano i filtri durante il processo di conversione.
 
