@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Automatizzare un avviso per eventuali persone duplicate {#automate-an-alert-for-possible-duplicate-people}
+# Automatizzare un avviso per le possibili persone duplicate {#automate-an-alert-for-possible-duplicate-people}
 
 Vuoi un avviso ogni volta che è possibile creare una persona duplicata? Ecco come impostare una Smart Campaign per farlo.
 
-1. [Create una nuova campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)intelligente. Definire il seguente elenco di smart:
+1. [Create una nuova campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente. Definire il seguente elenco di smart:
 
-* Trigger: **Persona creata**
-* Filtro: **Duplica campi.** Nome campo **completo**
+* Trigger: **La persona viene creata**
+* Filtro: **Campi duplicati.** Nome campo  **completo**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ Vuoi un avviso ogni volta che è possibile creare una persona duplicata? Ecco co
    >
    >Siate creativi. Sperimentate con campi diversi per ottenere risultati di filtraggio migliori.
 
-1. Nel passaggio del flusso, scegliete [Invia azione flusso avvisi](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) .
+1. Nella fase di flusso, scegliere l&#39;azione di flusso [Invia avviso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md).
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Utilizzo del token [](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Invia informazioni avviso per includere un collegamento alla persona in CRM.
+   >Utilizzo del [token di invio delle informazioni di avviso](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) per includere un collegamento alla persona nel CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Vuoi un avviso ogni volta che è possibile creare una persona duplicata? Ecco co
    >
    >Inoltre, due persone con lo stesso nome non significa automaticamente che sono la stessa persona.
 
-1. Attivate la campagna nella scheda **Pianificazione** .
+1. Attivare la campagna nella scheda **Schedule**.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
