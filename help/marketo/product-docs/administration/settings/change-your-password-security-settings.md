@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica delle impostazioni di protezione password {#change-your-password-security-settings}
+# Modifica le impostazioni di protezione password {#change-your-password-security-settings}
 
 Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
 
@@ -19,15 +19,15 @@ Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fai clic su Impostazioni **di** accesso.
+1. In **Admin**, fare clic su **Impostazioni di accesso**.
 
    ![](assets/image2014-9-16-12-3a41-3a40.png)
 
-1. In Impostazioni **** protezione, fate clic su **Modifica**.
+1. In **Impostazioni di protezione**, fare clic su **Modifica**.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Selezionate un **modello**. Per le opzioni avanzate, fate clic sul menu a discesa **Avanzate** .
+1. Selezionare un **modello**. Per le opzioni avanzate, fare clic sul menu a discesa **Avanzate**.
 
    >[!NOTE]
    >
@@ -40,9 +40,9 @@ Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
 
    >[!TIP]
    >
-   >In **Personalizzato**, selezionate le caselle per indicare quali caratteristiche desiderate includere dagli utenti al momento della creazione delle password.
+   >In **Custom**, selezionare le caselle per indicare quali caratteristiche si desidera che gli utenti includano quando creano le password.
 
-1. Impostate la **scadenza**.** **Questa funzione richiede automaticamente che gli utenti reimpostino la password dopo un certo periodo di tempo. Questo include anche l&#39;utente Admin.
+1. Impostare la **Scadenza**.** **Questa funzione richiede automaticamente che gli utenti reimpostino la password dopo un certo periodo di tempo. Questo include anche l&#39;utente Admin.
 
    >[!CAUTION]
    >
@@ -50,7 +50,7 @@ Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
 
    ![](assets/expiration.png)
 
-1. Impostate il timeout **della sessione** inattiva. Questo determina per quanto tempo un utente può rimanere inattivo prima di dover nuovamente accedere a Marketo.
+1. Impostare il **Timeout sessione inattiva**. Questo determina per quanto tempo un utente può rimanere inattivo prima di dover nuovamente accedere a Marketo.
 
    ![](assets/inactivesession.png)
 
