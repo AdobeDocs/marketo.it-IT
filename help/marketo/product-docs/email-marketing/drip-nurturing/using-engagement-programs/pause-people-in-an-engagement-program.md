@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Sospendi utenti in un programma di coinvolgimento {#pause-people-in-an-engagement-program}
 
-Quando una persona è membro di un programma di partecipazione, riceve i contenuti fino a quando non ha [esaurito tutti i contenuti](people-who-have-exhausted-content.md). Potete utilizzare il passaggio [Change Engagement Program Cadence](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) (Modifica flusso programma di coinvolgimento) per impedire alle persone di ricevere contenuto anche se non hanno ancora esaurito.
+Quando una persona è membro di un programma di partecipazione, riceve il contenuto fino a quando non ha esaurito tutti i contenuti[. ](people-who-have-exhausted-content.md) Potete utilizzare il passaggio di flusso [Change Engagement Program Cadence](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) per impedire alle persone di ricevere contenuto anche se non hanno ancora esaurito.
 
 1. Selezionate il programma di coinvolgimento.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Selezionate **Paused **come **nuovo valore** per impedire alla persona di ricevere contenuti.
+1. Selezionare **Paused **come **Nuovo valore** per impedire alla persona di ricevere contenuti.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Potete ripristinare la persona su **Normale** se desiderate che inizi nuovamente a ricevere il contenuto. Riprenderanno dove hanno lasciato.
+   È possibile impostare nuovamente la persona su **Normale** se si desidera che inizi nuovamente a ricevere il contenuto. Riprenderanno dove hanno lasciato.
 
    >[!NOTE]
    >
