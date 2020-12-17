@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere moduli all’e-mail {#add-modules-to-your-email}
+# Aggiungere moduli all&#39;e-mail {#add-modules-to-your-email}
 
 In Editor e-mail 2.0, un modulo è una sezione del messaggio e-mail definito nel modello. I moduli possono contenere qualsiasi combinazione di elementi, variabili e altro contenuto HTML. Aggiungeteli alla vostra e-mail è semplice.
 
@@ -21,9 +21,9 @@ In Editor e-mail 2.0, un modulo è una sezione del messaggio e-mail definito nel
 
    >[!NOTE]
    >
-   >La maggior parte dei modelli di avvio di Marketo contiene moduli. Potete anche [crearne uno](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)personalizzato.
+   >La maggior parte dei modelli di avvio di Marketo contiene moduli. È inoltre possibile [creare il proprio](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules).
 
-1. All’estrema destra dell’e-mail, fate clic su **Moduli**.
+1. All&#39;estrema destra dell&#39;e-mail, fare clic su **Moduli**.
 
    ![](assets/two-3.png)
 
@@ -39,7 +39,7 @@ In Editor e-mail 2.0, un modulo è una sezione del messaggio e-mail definito nel
 
    ![](assets/five-3.png)
 
-## Spostamento di un modulo all’interno di un messaggio e-mail {#moving-a-module-within-an-email}
+## Spostamento di un modulo all&#39;interno di un&#39;e-mail {#moving-a-module-within-an-email}
 
 Esistono due modi per spostare un modulo.
 
@@ -59,7 +59,7 @@ Esistono due modi per spostare un modulo.
 
    ![](assets/nine-2.png)
 
-1. Fate clic sull&#39;icona a forma di ingranaggio e selezionate **Sposta su** o **Sposta giù**, a seconda di dove desiderate che vada il modulo.
+1. Fare clic sull&#39;icona dell&#39;ingranaggio e selezionare **Sposta su** o **Sposta giù**, a seconda di dove si desidera che il modulo vada.
 
    ![](assets/ten-2.png)
 
