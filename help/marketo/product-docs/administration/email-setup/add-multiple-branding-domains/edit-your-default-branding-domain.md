@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Modifica il dominio del marchio predefinito {#edit-your-default-branding-domain}
+# Modifica dominio marchio predefinito {#edit-your-default-branding-domain}
 
 La modifica del dominio di branding predefinito è il primo passo per lavorare con i domini di branding.
 
 >[!PREREQUISITES]
 >
->Prima di aggiungere i domini di branding in Marketo, accertati di aver [configurato un CNAME nel DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) .
+>Prima di aggiungere i domini di branding in Marketo, assicurarsi di aver [configurato un CNAME nel DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md).
 
-1. Vai ad **Admin** e fai clic su **E-mail**.
+1. Accedete a **Admin** e fate clic su **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -35,5 +35,5 @@ La modifica del dominio di branding predefinito è il primo passo per lavorare c
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Ora puoi [aggiungere altri domini](add-an-additional-branding-domain.md) di branding.
+Ora puoi [aggiungere tutti i domini di branding aggiuntivi](add-an-additional-branding-domain.md) necessari.
 
