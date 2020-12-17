@@ -23,11 +23,11 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
 
 
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionate un elenco o un elenco avanzato con le persone al suo interno, quindi passate alla scheda **Persone** .
+1. Selezionate un elenco o un elenco smart con le persone al suo interno, quindi passate alla scheda **Persone**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -35,15 +35,15 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
    >
    >Questa funzionalità è disponibile sia per gli elenchi statici che per gli elenchi avanzati.
 
-1. Fate clic su **Seleziona tutto**. È inoltre possibile utilizzare** Ctrl/Comando** e fare clic per selezionare alcuni record manualmente.
+1. Fare clic su **Seleziona tutto**. È inoltre possibile utilizzare** Ctrl/Comando** e fare clic per selezionare alcuni record manualmente.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** verranno selezionate tutte le persone su tutte le pagine.
+   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** si selezioneranno tutte le persone su tutte le pagine.
 
-1. In **Persona** **Azioni**, selezionare il passaggio di flusso desiderato. In questo esempio utilizzeremo [Modifica valore](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)dati.
+1. In **Person** **Actions**, selezionare il passaggio di flusso desiderato. In questo esempio verrà utilizzato [Change Data Value](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
@@ -51,11 +51,11 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
 
    ![](assets/runaction-hands.png)
 
-1. Immettete un nuovo valore. Fate clic su **Esegui ora**.
+1. Immettete un nuovo valore. Fare clic su **Esegui ora**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Se si modificano i valori dei dati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fate Clic Su **Vai**.
+1. Se si modificano i valori dei dati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fare clic su **Vai per**.
 
    ![](assets/changedatavalue.jpg)
 
