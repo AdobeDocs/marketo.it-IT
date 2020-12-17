@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Impostare le preferenze per gli avvisi e-mail {#seo-set-your-email-alert-preferences}
+# SEO - Impostare le preferenze per l&#39;avviso e-mail {#seo-set-your-email-alert-preferences}
 
 Potete personalizzare le preferenze e-mail per determinare quando aggiornerete le vostre attività SEO.
 
-1. Nella barra di navigazione superiore, fate clic sul nome utente. Fate clic su Preferenze **e-** mail.
+1. Nella barra di navigazione superiore, fate clic sul nome utente. Fare clic su **Preferenze e-mail**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
