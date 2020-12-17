@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Pianificazione di una campagna in batch intelligente da eseguire in un secondo momento {#schedule-a-batch-smart-campaign-to-run-later}
+# Pianificazione di una campagna in batch intelligente da eseguire più tardi {#schedule-a-batch-smart-campaign-to-run-later}
 
 Per impostare una campagna in batch intelligente da eseguire in futuro, vedere come.
 
 >[!TIP]
 >
->Potete anche [ripianificare una campagna in batch nella visualizzazione](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)Pianificazione programma.
+>È inoltre possibile [riprogrammare una campagna smart batch nella vista di pianificazione del programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
-1. Selezionate la campagna dinamica batch da eseguire, passate alla scheda **Pianificazione** e fate clic su **Esegui una volta**.
+1. Selezionate la campagna batch intelligente da eseguire, andate alla scheda **Schedule** e fate clic su **Run Once** (Esegui una volta&lt;a3/>).
 
    ![](assets/scheduledruns2.png)
 
@@ -31,11 +31,11 @@ Per impostare una campagna in batch intelligente da eseguire in futuro, vedere c
 
    ![](assets/runoncetime.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/runoncetimesave.png)
 
-1. È possibile confermare l&#39;esecuzione pianificata esaminando la scheda **Pianificazione** .
+1. È possibile confermare l&#39;esecuzione pianificata esaminando la scheda **Schedule**.
 
    ![](assets/scheduledrunsbox.png)
 
