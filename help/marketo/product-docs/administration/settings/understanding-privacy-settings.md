@@ -22,19 +22,19 @@ Marketo offre agli esperti di marketing un modo per ottenere il consenso dei vis
 
 Oppure, l&#39;esperto di marketing può monitorare gli utenti, ma utilizzare un IP anonimo.
 
-Questi metodi possono influenzare il valore e la funzionalità di Marketo in aree specifiche. Tuttavia, se l’esperto di marketing *non* cambia nulla nella configurazione di Marketo, la funzionalità di Marketo rimane la stessa.
+Questi metodi possono influenzare il valore e la funzionalità di Marketo in aree specifiche. Tuttavia, se l&#39;esperto di marketing *non modifica nulla nella configurazione di Marketo, la funzionalità di Marketo rimane la stessa.*
 
-## Impostazioni browser per Do Not Track {#browser-settings-for-do-not-track}
+## Impostazioni browser per non tenere traccia {#browser-settings-for-do-not-track}
 
 I visitatori Web possono impostare il proprio browser per impedire il tracciamento da parte di qualsiasi sito Web scegliendo &quot;Non tenere traccia&quot; (DNT). Questo impedisce il monitoraggio di questo particolare browser e dispositivo. Per informazioni dettagliate, consultate le impostazioni di privacy del browser.
 
-A Munchkin, un esperto di marketing può [decidere se supportare o ignorare l&#39;impostazione](edit-do-not-track-browser-support-settings.md)DNT del browser.
+A Monaco, un esperto di marketing può [decidere se supportare o ignorare l&#39;impostazione DNT del browser](edit-do-not-track-browser-support-settings.md).
 
-In Personalizzazione Web, un esperto di marketing può decidere se [supportare o ignorare l&#39;impostazione](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)DNT del browser.
+In Web Personalization (Personalizzazione Web), un esperto di marketing può decidere se [supportare o ignorare l&#39;impostazione DNT del browser](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
 ## Rifiuto da un sito Web specifico {#opt-out-from-a-specific-website}
 
-Potete anche consentire ai visitatori del sito di rifiutare il tracciamento del sito Web, indipendentemente dalla configurazione delle impostazioni **del browser Non tenere traccia** . Questo consente al visitatore del sito di specificare le proprie preferenze di tracciamento direttamente dal sito Web.
+Potete inoltre consentire ai visitatori del sito di rifiutare il tracciamento del sito Web, indipendentemente dalla configurazione delle impostazioni **Browser Do Not Track**. Questo consente al visitatore del sito di specificare le proprie preferenze di tracciamento direttamente dal sito Web.
 
 A tal fine, dovete aggiungere un parametro a un collegamento di rifiuto in una pagina Web in cui sia attivato il tracciamento dei mecchi. Può trattarsi di una qualsiasi pagina Web, ma il collegamento della pagina Web deve contenere il seguente parametro:
 
@@ -52,7 +52,7 @@ Potete creare e pubblicare una pagina di destinazione come pagina di follow-up q
 
 Quando si fa clic sul collegamento, Marketo aggiunge un cookie denominato **mkto_opt_out** al browser del visitatore che disabilita il tracciamento di Munchkin per il visitatore del sito che fa clic sul collegamento con il parametro precedente.
 
-Per verificare che il cookie possa essere impiantato, verifica di essere un lead cucinato e fai clic sul collegamento. Quindi controllate i cookie del browser per verificare che sia stato aggiunto il cookie **mkto_opt_out** .
+Per verificare che il cookie possa essere impiantato, verifica di essere un lead cucinato e fai clic sul collegamento. Quindi controllate i cookie del browser per verificare che sia stato aggiunto il cookie **mkto_opt_out**.
 
 ![](assets/opt-out-3.png)
 
@@ -60,7 +60,7 @@ Per verificare che il cookie possa essere impiantato, verifica di essere un lead
 >
 >Attualmente funziona solo con Munchkin versioni 152 e successive.
 
-## Opz In {#opt-in}
+## Opt In {#opt-in}
 
 Gli addetti al marketing possono consentire agli utenti di scegliere se utilizzare le funzionalità di Marketo nelle e-mail, nei moduli, nelle pagine di destinazione e in altri metodi.
 
@@ -72,7 +72,7 @@ Gli addetti al marketing possono preservare la privacy monitorando gli utenti co
 
    >[!NOTE]
    >
-   >L&#39;utilizzo di questo parametro richiede che Munchkin V2 sia abilitato. Per attivarla per l&#39;abbonamento, contattate il [supporto](http://nation.marketo.com/community/support_solutions)di Marketo.
+   >L&#39;utilizzo di questo parametro richiede che Munchkin V2 sia abilitato. Per attivarla per l&#39;iscrizione, contattate il [Supporto marketing](http://nation.marketo.com/community/support_solutions).
 
 * Per la personalizzazione Web (RTP), aggiungete questo al javascript:
 
