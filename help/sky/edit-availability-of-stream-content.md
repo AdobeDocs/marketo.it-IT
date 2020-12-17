@@ -20,7 +20,7 @@ Potete impostare un intervallo di tempo per l&#39;attivazione del contenuto nel 
 
    ![Immagine uno](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -32,11 +32,11 @@ Potete impostare un intervallo di tempo per l&#39;attivazione del contenuto nel 
 
    ![Immagine quattro](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Seleziona la [!UICONTROL Active From] data e [!UICONTROL Active Through] le date.
+1. Selezionare la data [!UICONTROL Active From] e le date [!UICONTROL Active Through].
 
    ![Immagine cinque](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Fate clic **[!UICONTROL Save]**.
+1. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine Sei](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
