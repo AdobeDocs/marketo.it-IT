@@ -19,13 +19,13 @@ Il potere di Marketo ora è nelle vostre mani, letteralmente! Visualizzate l&#39
 >
 >**Disponibilità**
 >
->L&#39;autorizzazione per l&#39;accesso alle app mobili è obbligatoria. Contatta il tuo amministratore di Marketing per [aggiornare il tuo ruolo](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>L&#39;autorizzazione per l&#39;accesso alle app mobili è obbligatoria. Contatta l&#39;amministratore di Marketing per [aggiornare il tuo ruolo](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Introduzione ai momenti {#introducing-moments}
+## Presentazione di Momenti {#introducing-moments}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
 
-## Streams {#streams}
+## Flussi {#streams}
 
 Ecco i diversi flussi nei Momenti.
 
@@ -49,21 +49,21 @@ Ok, ora che abbiamo questo, diamo un&#39;occhiata a Marketo Moments al telefono!
 
 Marketo Moments offre tre diverse schede per seguire l&#39;avanzamento dell&#39;e-mail:
 
-**On-deck** - Questa email sta per uscire. È l&#39;ultima possibilità per visualizzarlo in anteprima, inviare un campione o, se necessario, annullarlo.
+**On-deck**  - Questa email sta per uscire. È l&#39;ultima possibilità per visualizzarlo in anteprima, inviare un campione o, se necessario, annullarlo.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**battito** cardiaco - Ehi - questa e-mail è stata consegnata ora! Ed ecco anche delle statistiche. Vai avanti e condividila.
+**cuore battito** - Ehi - questa email è stata consegnata ora! Ed ecco anche delle statistiche. Vai avanti e condividila.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Risultati** - Ecco come ha fatto l&#39;e-mail. Al termine dell&#39;esecuzione dell&#39;e-mail, nella scheda Risultati viene visualizzato il punteggio di coinvolgimento e altri stati.
+**Risultati**  - Ecco come è andata a finire l&#39;e-mail. Al termine dell&#39;esecuzione dell&#39;e-mail, nella scheda Risultati viene visualizzato il punteggio di coinvolgimento e altri stati.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Flusso Momenti {#moments-stream}
 
-Quando aprite l&#39;app o toccate **Momenti** nel menu, vengono visualizzate per prime le schede pertinenti. Ognuna contiene informazioni su quella specifica iniziativa di marketing e sulle sue prestazioni complessive.
+La prima volta che aprite l&#39;app o toccate **Momenti** nel menu, vengono visualizzate le schede pertinenti. Ognuna contiene informazioni su quella specifica iniziativa di marketing e sulle sue prestazioni complessive.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -105,11 +105,11 @@ La sezione Successivo mostra le attività imminenti.
 
    >[!NOTE]
    >
-   >Secondo il [Guinness dei primati](http://www.guinnessworldrecords.com/world-records/largest-hamburger), il più grande hamburger al mondo pesava 2.014 libbre.
+   >Secondo il [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger), il più grande hamburger al mondo pesava 2.014 libbre.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Toccate **Più Tardi**.
+1. Toccate **Più tardi**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -139,13 +139,13 @@ Le schede Momento di Analytics mostrano le prestazioni mensili delle e-mail e de
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
-## Schede di esecuzione Smart Campaign {#smart-campaign-run-cards}
+## Schede di esecuzione della campagna intelligente {#smart-campaign-run-cards}
 
 Le schede delle campagne intelligenti rappresentano una singola esecuzione di una campagna. Una nuova scheda viene visualizzata ogni volta che la campagna smart viene eseguita. Toccate per visualizzare i filtri per l&#39;elenco smart utilizzati, il flusso della campagna e ciascuno dei messaggi e-mail utilizzati nella campagna.
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 
-## Confermare o annullare un’azione {#confirm-or-cancel-an-action}
+## Confermare o annullare un&#39;azione{#confirm-or-cancel-an-action}
 
 Per ogni passaggio, puoi confermare o annullare un’azione. Se cambi idea, tocca **Non importa**.
 
@@ -164,7 +164,7 @@ Pronti per saperne di più?
 
 
 
-## Versioni supportate  {#supported-versions}
+## Versioni supportate {#supported-versions}
 
 Marketo Moments supporta le seguenti versioni del sistema operativo:
 
