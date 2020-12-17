@@ -21,7 +21,7 @@ Per modificare il testo &quot; [Visualizza come pagina Web](../../../product-doc
 
 ## Modifica il messaggio &quot;Visualizza come pagina Web&quot; {#edit-the-view-as-web-page-message-1}
 
-1. In **Amministratore**, fai clic su **E-mail**.
+1. In **Admin**, fare clic su **Email**.
 
    ![](assets/image2014-9-18-17-3a13-3a2.png)
 
