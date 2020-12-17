@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica del nome di un’area di lavoro {#change-the-name-of-a-workspace}
+# Modifica del nome di un&#39;area di lavoro {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
@@ -27,17 +27,17 @@ Gli utenti possono cambiare il nome di un’area di lavoro. È piuttosto semplic
 >
 >**Tubo profondo**
 >
->Comprendere innanzitutto [le aree di lavoro e le partizioni](understanding-workspaces-and-person-partitions.md)delle persone.
+>Comprendere prima con [Informazioni su aree di lavoro e partizioni di persone](understanding-workspaces-and-person-partitions.md).
 
-1. In **Admin**, fai clic su **Workspaces &amp; Partitions.**
+1. In **Admin**, fare clic su **Workspaces &amp; Partitions.**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
-1. Selezionate l’area di lavoro e fate clic su **Modifica area di lavoro**.
+1. Selezionare l&#39;area di lavoro e fare clic su **Modifica area di lavoro**.
 
    ![](assets/two-4.png)
 
-1. Immettete un nuovo **nome** per l’area di lavoro e fate clic su **Salva.**
+1. Immettete un nuovo **Nome** per l&#39;area di lavoro e fate clic su **Salva.**
 
    ![](assets/three-4.png)
 
