@@ -43,9 +43,9 @@ Immaginiamo che alla tua recente fiera, una persona ti abbia fornito ulteriori i
 
    >[!TIP]
    >
-   >Ci sono molti modi per aggiornare i dati delle persone in Marketo. Consultate [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Modificare il valore](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)dei dati.
+   >Ci sono molti modi per aggiornare i dati delle persone in Marketo. Vedere [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [Modificare il valore dei dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
-## Aggiornare i dati della persona {#update-the-person-data}
+## Aggiorna dati persona {#update-the-person-data}
 
 1. Digita le nuove informazioni ricevute e chiudi la scheda.
 
