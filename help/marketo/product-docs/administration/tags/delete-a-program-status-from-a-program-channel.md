@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Gli stati del programma sono i punti di controllo attraverso un percorso del programma (canale). Se si crea uno stato per errore o non ne ha più bisogno, non esitate a eliminarlo.
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/admin.png)
 
-1. Fate clic su **Tag**.
+1. Fare clic su **Tag**.
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Selezionate il canale da cui desiderate rimuovere uno stato, quindi in Azioni **** tag fate clic su **Modifica**.
+1. Selezionare il canale da cui si desidera rimuovere uno stato, quindi in **Azioni tag** fare clic su **Modifica**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Fate clic su ![—](assets/image2014-9-24-15-3a52-3a39.png) per rimuovere lo stato, quindi fate clic su **SALVA**.
+1. Fare clic su ![—](assets/image2014-9-24-15-3a52-3a39.png) per rimuovere lo stato, quindi fare clic su **SAVE**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ Gli stati del programma sono i punti di controllo attraverso un percorso del pro
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Ben fatto! Puoi anche [eliminare un intero canale](delete-a-program-channel.md) .
+Ben fatto! È inoltre possibile [eliminare un intero canale](delete-a-program-channel.md) se necessario.
