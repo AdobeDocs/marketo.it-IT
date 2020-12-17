@@ -23,7 +23,7 @@ Test di e-mail intere tra loro. Quando il test è finito, inviare l&#39;esecutor
 
 
 
-1. Nell&#39;editor di test e-mail, selezionate **Intera e-mail** nel menu a discesa **Test Type **a discesa.
+1. Nell&#39;editor di test e-mail, selezionare **Intera e-mail** nel menu a discesa **Test Type **Test.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -31,7 +31,7 @@ Test di e-mail intere tra loro. Quando il test è finito, inviare l&#39;esecutor
    >
    >Ricorda: L&#39;email originale è il campione. I sfidanti competono contro di esso.
 
-1. Trova e seleziona le e-mail **Challengers** , quindi fai clic su **Clona**.
+1. Trova e seleziona le e-mail **Challengers**, quindi fai clic su **Clone**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -50,9 +50,9 @@ Test di e-mail intere tra loro. Quando il test è finito, inviare l&#39;esecutor
    >
    >Nella distribuzione sopra mostrata, il 15% del pubblico totale specificato nella lista intelligente riceve una delle e-mail dei contestatori e l&#39;85% riceve le e-mail dei campioni. Più e-mail di sfida condividono lo stesso 15%. Al termine del test, potete dichiarare manualmente un vincitore. Da quel momento in poi, tutti i futuri utenti riceveranno i contenuti più performanti.
 
-   [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval)statistica.
+   [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
