@@ -25,11 +25,11 @@ Questa opzione consente a Marketo di sincronizzare gli stati e l&#39;iscrizione 
 
    **
 
-1. Fate clic su **Modifica impostazioni** sincronizzazione.
+1. Fare clic su **Modifica impostazioni sincronizzazione**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Seleziona **Abilita sincronizzazione** campagna Salesforce e fai clic su **SALVA**.
+1. Selezionare **Abilita sincronizzazione campagna Salesforce** e fare clic su **SALVA**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
