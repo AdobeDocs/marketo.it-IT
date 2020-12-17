@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Filtrare un rapporto sul programma per programma {#filter-a-program-report-by-program}
+# Filtrare un report del programma per programma {#filter-a-program-report-by-program}
 
-Concentrare il report [sulle prestazioni del](create-a-program-performance-report.md) programma su programmi specifici per confrontare le loro prestazioni.
+Mettere a fuoco il [report sulle prestazioni del programma](create-a-program-performance-report.md) su programmi specifici per confrontare le loro prestazioni.
 
-1. Vai a **Marketing** **Activities** (o **Analytics**).
+1. Andate a **Marketing** **Activities** (o **Analytics**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Concentrare il report [sulle prestazioni del](create-a-program-performance-repor
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Fate clic sulla scheda **Configurazione** e trascinate su **Programmi**.
+1. Fare clic sulla scheda **Configurazione** e trascinare su **Programmi**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,7 +35,7 @@ Concentrare il report [sulle prestazioni del](create-a-program-performance-repor
    >
    >Se selezionate una cartella, il rapporto includerà tutto ciò che contiene al momento dell&#39;esecuzione del rapporto.
 
-1. È tutto! Fare clic sulla scheda **Rapporto** per visualizzare *solo* i programmi selezionati nel rapporto.
+1. È tutto! Fare clic sulla scheda **Report** per visualizzare *solo* i programmi selezionati nel report.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
@@ -53,5 +53,5 @@ Concentrare il report [sulle prestazioni del](create-a-program-performance-repor
    >**Tubo profondo**
    >
    >
-   >Scopri tutte le informazioni sui report in [Basic Reporting (Rapporti](http://docs.marketo.com/display/docs/basic+reporting)di base).
+   >Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
