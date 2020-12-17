@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Visualizzare l’URL del servizio organizzazione {#view-the-organization-service-url}
+# Visualizza URL servizio organizzazione {#view-the-organization-service-url}
 
 Per sincronizzare le istanze di Dynamics On-Premises, è necessario che Marketo disponga dell&#39;URL del servizio organizzazione. Ecco come trovarlo in Dynamics.
 
-1. Accedi a Dynamics. Fate clic sull&#39;icona Impostazioni e selezionate Impostazioni **avanzate**.
+1. Accedi a Dynamics. Fate clic sull&#39;icona Impostazioni e selezionate **Impostazioni avanzate**.
 
    ![](assets/one.png)
 
-1. Fate clic su** Settings** e selezionate **Personalizzazioni**.
+1. Fare clic su** Settings** e selezionare **Personalizzazioni**.
 
    ![](assets/two.png)
 
-1. Fate clic su Risorse **per** sviluppatori.
+1. Fare clic su **Risorse per sviluppatori**.
 
    ![](assets/three.png)
 
