@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Le cartelle delle campagne consentono di mantenere un’area di lavoro ordinata. Seguite questi semplici passi e state andando verso la magia dell&#39;automazione.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate **Nuovo**.
+1. Selezionare **New**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Selezionate **Nuova cartella** campagna.
+1. Selezionare **Nuova cartella campagna**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Immettete un **nome** per la cartella della campagna.
+1. Immettete un **Nome** per la cartella della campagna.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facoltativo: Inserite una **descrizione** e fate clic su** Crea. **
+1. Facoltativo: Immettete una **Descrizione** e fate clic su** Crea. **
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ Le cartelle delle campagne consentono di mantenere un’area di lavoro ordinata.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Quando [create un nuovo programma](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), questa cartella della campagna verrà visualizzata come opzione.
+   Ora, quando [si crea un nuovo programma](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verrà visualizzata la cartella della campagna come opzione.
 
 >[!MORELIKETHIS]
 >
