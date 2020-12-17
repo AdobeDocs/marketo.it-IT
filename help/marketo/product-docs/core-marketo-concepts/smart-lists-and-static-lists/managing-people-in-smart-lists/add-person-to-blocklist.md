@@ -19,12 +19,12 @@ L&#39;aggiunta di persone al Inserire nell&#39;elenco Bloccati di  impedisce lor
 >
 >Marketo sta cambiando termini come Blacklist e Whitelist per  Inserii nell&#39;elenco Bloccati e  Inserire nell&#39;elenco Consentiti nel nostro prodotto. Nel corso di questo aggiornamento, i vecchi termini possono essere visualizzati nella nostra interfaccia utente e nelle schermate della documentazione, nonché i nuovi termini nel nostro testo della documentazione. Ci scusiamo per ogni confusione.
 
-1. [Create un nuovo programma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) predefinito e denominatelo **Aggiungi a  Inserii nell&#39;elenco Bloccati**.
-1. Fate clic su **Nuovo** e selezionate **Nuova risorsa** locale.
+1. [Create un nuovo ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programma predefinito e denominatelo  **Aggiungi a  Inserii nell&#39;elenco Bloccati**.
+1. Fare clic su **Nuovo** e selezionare **Nuova risorsa locale**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
 
-1. Denominate l’elenco e fate clic su **Crea**.
+1. Assegnate un nome all&#39;elenco e fate clic su **Crea**.
 
    ![](assets/image2015-8-14-11-3a2-3a26.png)
 
@@ -36,15 +36,15 @@ L&#39;aggiunta di persone al Inserire nell&#39;elenco Bloccati di  impedisce lor
 
    ![](assets/three-6.png)
 
-1. Fate clic su **Nuovo** e selezionate **Nuova campagna** avanzata.
+1. Fare clic su **New** e selezionare **New Smart Campaign**.
 
    ![](assets/image2015-8-14-11-3a12-3a35.png)
 
-1. Denominate la **nuova Smart Campaign**. Fate clic su **Crea**.
+1. Denominate la **Nuova campagna intelligente**. Fare clic su **Crea**.
 
    ![](assets/image2015-8-14-11-3a13-3a36.png)
 
-1. Trascinate e rilasciate **il membro di Smart List**.
+1. Trascinare **Membro di Smart List**.
 
    ![](assets/image2015-8-14-11-3a16-3a34.png)
 
@@ -52,19 +52,19 @@ L&#39;aggiunta di persone al Inserire nell&#39;elenco Bloccati di  impedisce lor
 
    ![](assets/image2015-8-14-11-3a17-3a5.png)
 
-1. Trascina e rilascia **Modifica valore** dati.
+1. Trascinare **Modifica valore dati**.
 
    ![](assets/image2015-8-14-11-3a18-3a41.png)
 
-1. Per il **flusso**, immettere **Blocca elenco** per l&#39; **attributo** e impostare **Nuovo valore** su **true**.
+1. Per **Flusso**, immettere **Blocca elencato** per l&#39; **Attributo** e impostare **Nuovo valore** su **true**.
 
    ![](assets/image2015-8-14-11-3a21-3a1.png)
 
-1. Nella scheda **Pianificazione** , selezionare **Esegui una volta**.
+1. Nella scheda **Pianificazione**, selezionare **Esegui una volta**.
 
    ![](assets/ten.png)
 
-1. Seleziona **Esegui ora** e fai clic su **Esegui**.
+1. Selezionare **Esegui ora** e fare clic su **Esegui**.
 
    ![](assets/image2015-8-14-11-3a24-3a50.png)
 
@@ -72,5 +72,5 @@ L&#39;aggiunta di persone al Inserire nell&#39;elenco Bloccati di  impedisce lor
 
    >[!TIP]
    >
-   >Creare una campagna [intelligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) di attivazione utilizzando **Modifica valore** dati con **Blocca elenco è vero** per tutte le persone che in futuro avranno  attributi che possono essere .
+   >Creare una [campagna intelligente di attivazione](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) utilizzando **Change Data Value** con **Block List è true** per tutte le persone che in futuro avranno  attributi .
 
