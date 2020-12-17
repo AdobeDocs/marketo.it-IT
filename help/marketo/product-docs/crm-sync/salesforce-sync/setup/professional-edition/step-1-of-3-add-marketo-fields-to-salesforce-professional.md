@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Passaggio 1 di 3: Aggiunta di campi Marketo a Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
@@ -29,9 +29,9 @@ Tutti questi campi personalizzati sono facoltativi e non sono necessari per sinc
 
 Aggiungi tre campi personalizzati al lead e agli oggetti di contatto in Salesforce elencati sopra. Per aggiungere di più, vedere la tabella dei campi disponibili alla fine di questa sezione.
 
-Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per aggiungerli. Inizia con **punteggio**.
+Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per aggiungerli. Iniziate con **Punteggio**.
 
-1. Accedi a Salesforce e fai clic su **Configurazione.**
+1. Accedete a Salesforce e fate clic su **Configurazione.**
 
    ** ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -41,15 +41,15 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Fate clic su **Nuovo** nella sezione Campi e relazioni personalizzati nella parte inferiore della pagina.
+1. Fare clic su **Nuovo** nella sezione Campi e relazioni personalizzati nella parte inferiore della pagina.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Scegliete il tipo di campo appropriato (per Punteggio — **numero**; Programma di acquisizione — **text**; Data acquisizione — **Data/Ora**).
+1. Scegliete il tipo di campo appropriato (per Punteggio — **number**; Programma di acquisizione — **text**; Data acquisizione — **Data/Ora**).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -81,7 +81,7 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
    <td>Punteggio</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Numero</td> 
-   <td>Lunghezza 10<br>Decimali 0 </td> 
+   <td>Lunghezza 10<br>Posti decimali 0 </td> 
   </tr> 
   <tr> 
    <td>Data acquisizione</td> 
@@ -108,19 +108,19 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 >
 >I campi di testo e numerici richiedono una lunghezza, ma non i campi data/ora. Una descrizione è facoltativa.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Specificate le impostazioni di accesso e fate clic su **Avanti**:
+1. Specificate le impostazioni di accesso e fate clic su **Next**:
 
-   * Impostate tutti i ruoli su **Visible **and **Read-Only (Visibile **e Sola lettura)**
+   * Impostate tutti i ruoli su **Visible **and **Read Only**
 
-   * Deselezionate la casella di controllo **Sola** lettura per il profilo dell’utente sincronizzato:
+   * Deselezionare la casella di controllo **Solo lettura** per il profilo dell&#39;utente di sincronizzazione:
 
-      * Se disponete di un utente con il profilo di un amministratore *di* sistema come utente di sincronizzazione, deselezionate la casella di controllo **Sola** lettura per il profilo Amministratore di sistema (come mostrato di seguito)
+      * Se si dispone di un utente con il profilo di *Amministratore di sistema* come utente di sincronizzazione, deselezionare la casella di controllo **Solo lettura** per il profilo Amministratore di sistema (come mostrato di seguito)
 
-      * Se avete creato un profilo ** personalizzato per l&#39;utente di sincronizzazione, deselezionate la casella di controllo **Sola** lettura per tale profilo personalizzato
+      * Se avete creato un profilo *personalizzato* per l&#39;utente della sincronizzazione, deselezionate la casella di controllo **Solo lettura** per tale profilo personalizzato
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -128,11 +128,11 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Fate clic su **Salva e nuovo** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fate clic su **Salva** con il comando &quot;Save&quot; (Salva).
+1. Fare clic su **Salva e nuovo** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fare clic su **Salva** per terminare con tutte e tre le operazioni.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Nel menu Genera a sinistra, fate clic su **Personalizza **e selezionate **Contatti**. Fare clic su **Campi**.
+1. Nel menu Genera a sinistra, fare clic su **Customize **e selezionare **Contatti**. Fare clic su **Campi**.
 1. Effettuate i passaggi da 3 a 10 per i campi Valutazione, Data acquisizione e Programma di acquisizione sull’oggetto di contatto, come per l’oggetto lead.
 1. Facoltativamente, utilizzare la procedura descritta sopra per tutti i campi personalizzati aggiuntivi di questa tabella.
 
@@ -148,7 +148,7 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
    <td>Id Programma Di Acquisizione</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Numero</td> 
-   <td>Lunghezza 18<br>Decimali 0 </td> 
+   <td>Lunghezza 18<br>Posti decimali 0 </td> 
   </tr> 
   <tr> 
    <td>Referente originale</td> 
@@ -225,7 +225,7 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
  </tbody> 
 </table>
 
-## Mappa campi personalizzati per le conversioni  {#map-custom-fields-for-conversions}
+## Mappa campi personalizzati per le conversioni {#map-custom-fields-for-conversions}
 
 Un campo personalizzato sull&#39;oggetto lead in Salesforce deve essere mappato su un campo contatto sull&#39;oggetto contatto in modo che i dati vengano trasferiti quando si verifica una conversione.
 
