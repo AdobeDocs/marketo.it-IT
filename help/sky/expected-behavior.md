@@ -27,9 +27,9 @@ In questo articolo troverete informazioni sul comportamento previsto associato a
    * Filtri predittivi - [!DNL Sky/Classic]
    * Registrazioni previste - [!DNL Sky/Classic]
    * Previsioni di probabilità a livello di lead - [!DNL Sky/Classic]
-   * Obiettivi e tracciamento - [!DNL Sky] solo
-   * Approfondimenti e raccomandazioni - [!DNL Sky] solo
-* [L&#39;attivazione](/help/sky/getting-started-with-predictive-audiences.md) iniziale richiede **24-48 ore** per completare tutti i processi dopo l&#39;abilitazione dell&#39;PA. Nell&#39;interfaccia verranno visualizzate tutte le funzionalità Predictive Audiences (Pubblico predittivo) e Predictive Filters (Filtri predittivi), ma potrebbero essere necessarie fino a 24 ore prima che queste funzioni inizino a funzionare.
+   * Obiettivi e monitoraggio - solo [!DNL Sky]
+   * Approfondimenti e raccomandazioni - solo [!DNL Sky]
+* [L&#39;](/help/sky/getting-started-with-predictive-audiences.md) attivazione iniziale richiede **24-48** ore per completare tutti i processi dopo l&#39;abilitazione dell&#39;PA. Nell&#39;interfaccia verranno visualizzate tutte le funzionalità Predictive Audiences (Pubblico predittivo) e Predictive Filters (Filtri predittivi), ma potrebbero essere necessarie fino a 24 ore prima che queste funzioni inizino a funzionare.
 * **Le previsioni verranno generate solo per le nuove campagne create dopo l&#39;attivazione della funzione.**
 
 ## Esistono alcune considerazioni aggiuntive specifiche per i filtri predittivi:
@@ -39,9 +39,9 @@ In questo articolo troverete informazioni sul comportamento previsto associato a
 * I filtri predittivi non sono disponibili per le campagne di attivazione.
 * Per eseguire una campagna intelligente, è necessario utilizzare i filtri di probabilità insieme ad altri filtri regolari.
 * La funzione Regole salvate non è disponibile per le campagne che contengono filtri predittivi.
-* In un elenco avanzato potete utilizzare **fino a 5** filtri predittivi.
-* I filtri predittivi possono elaborare un **massimo di 1 milione di lead** qualificati.
-* È possibile avere **fino a 50 programmi** attivi con filtri predittivi. Un programma attivo è qualsiasi programma che utilizza filtri predittivi ed è stato pianificato almeno una volta.
+* In un elenco avanzato è possibile utilizzare un massimo di 5 **filtri predittivi.**
+* I filtri predittivi possono elaborare un **massimo di 1 milione di lead qualificati**.
+* È possibile avere **fino a 50 programmi attivi** con filtri predittivi. Un programma attivo è qualsiasi programma che utilizza filtri predittivi ed è stato pianificato almeno una volta.
 
 ## Quando non sono disponibili le registrazioni previste?
 
