@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Cartella campagna: Scheda Attività
 
-Trova informazioni chiave sulle campagne nella **[!UICONTROL Activities]** scheda.
+Trova informazioni chiave sulle campagne nella scheda **[!UICONTROL Activities]**.
 
 ![Immagine uno](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-Utilizzate l&#39; **[!UICONTROL Filter by]** elenco a discesa per filtrare le campagne in base al tipo di attività. Potete anche eseguire ricerche per campagna, tipo di attività, ecc.
+Utilizzate il menu a discesa **[!UICONTROL Filter by]** per filtrare le campagne in base al tipo di attività. Potete anche eseguire ricerche per campagna, tipo di attività, ecc.
 
 ![Immagine due](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
