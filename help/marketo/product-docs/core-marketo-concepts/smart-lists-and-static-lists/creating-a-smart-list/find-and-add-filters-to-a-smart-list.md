@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Trovare e aggiungere filtri a un elenco avanzato {#find-and-add-filters-to-a-smart-list}
+# Trova e aggiungi filtri a un elenco avanzato {#find-and-add-filters-to-a-smart-list}
 
-Dopo aver [creato un elenco](create-a-smart-list.md)avanzato, è necessario aggiungere e [definire](define-smart-list-filters.md) i filtri. Ecco come trovare e aggiungere filtri.
+Dopo aver creato un [smart list](create-a-smart-list.md), è necessario aggiungere e [definire ](define-smart-list-filters.md) filtri. Ecco come trovare e aggiungere filtri.
 
 In questo esempio, troviamo tutte le persone in California con un punteggio superiore a 50.
 
@@ -21,19 +21,19 @@ In questo esempio, troviamo tutte le persone in California con un punteggio supe
 >
 >Esplorare l&#39;albero sulla destra - i filtri sono molto potenti e hanno una vasta gamma di funzioni possibili.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Selezionate l’elenco avanzato a cui desiderate aggiungere i filtri e fate clic sulla scheda Elenco **** avanzato.
+1. Selezionate l&#39;elenco avanzato a cui desiderate aggiungere i filtri e fate clic sulla scheda **Smart List**.
 
    ![](assets/two.png)
 
-1. Individuate e trascinate il filtro **Stato** sul quadro.
+1. Individuare e trascinare il filtro **State** sul quadro.
 
    ![](assets/three.png)
 
-1. Trovate e trascinate anche il filtro **Punteggio** .
+1. Trovate e trascinate anche il filtro **Punteggio**.
 
    ![](assets/four.png)
 
