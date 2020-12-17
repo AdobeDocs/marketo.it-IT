@@ -33,13 +33,13 @@ L&#39;app funziona allo stesso modo sia su iPad che su Android, fatta eccezione 
 
    ![](assets/1.jpg)
 
-1. Immettete il nome utente e la password di Marketing e fate clic su **Login**.
+1. Inserite il nome utente e la password di Marketo e fate clic su **Login**.
 
    >[!NOTE]
    >
    >È necessario avere un ruolo con accesso al database per vedere le persone nell&#39;app.
 
-1. Selezionate un **evento**.
+1. Selezionare un evento **Event**.
 
    ![](assets/2.jpg)
 
@@ -79,13 +79,13 @@ L&#39;ospite ora ha uno stato Partecipante e riceve un segno di spunta. Il recor
 
 >[!TIP]
 >
->Se una persona è invitata ma non si è registrata, potete cercare il nome facendo clic su **Cerca sul server**, subito sotto la casella di ricerca. Lo stato Invitato diventa **Partecipato** per l’evento.
+>Se una persona è invitata ma non si è registrata, è possibile cercare il nome facendo clic su **Cerca sul server**, immediatamente sotto la casella di ricerca. Lo stato Invitato cambia in **Partecipato** per l&#39;evento.
 
-## Creare una nuova persona sul tablet {#create-a-new-person-on-the-tablet}
+## Crea una nuova persona sul tablet {#create-a-new-person-on-the-tablet}
 
 Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel database Marketo. Verranno automaticamente archiviati e aggiunti al tuo database al momento della sincronizzazione con Marketo.
 
-1. Fate clic su **Aggiungi**.
+1. Fare clic su **Aggiungi**.
 
    **iPad**
 
@@ -95,7 +95,7 @@ Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel databa
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Completate tutti i campi di informazioni di base possibili e toccate **Fine**.
+1. Completate tutti i campi di informazioni di base possibili e toccate **Done**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -109,21 +109,21 @@ Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel databa
 
 La nuova persona viene registrata come selezionata nell’evento e verrà aggiunta al database Marketo con stato Partecipante al momento della sincronizzazione con Marketo.
 
-## Invertire un check-in {#reverse-a-check-in}
+## Inverti un check-in {#reverse-a-check-in}
 
 Se avete eseguito il check-in di una persona per errore, *prima di eseguire la sincronizzazione con Marketo*, potete annullare lo stato Partecipante.
 
-1. Toccate il nome nell’elenco e, nel record della persona, toccate **Annulla**.
+1. Toccate il nome nell&#39;elenco e, nel record della persona, toccate **Annulla**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
    Tutto fisso!
 
-## Modifica di un record di persona al momento del check-in {#edit-a-person-record-at-check-in}
+## Modifica di un record di persona al check-in {#edit-a-person-record-at-check-in}
 
 Potete aggiungere e modificare le informazioni sugli ospiti direttamente all&#39;evento!
 
-1. Toccate il nome nell’elenco delle persone e toccate **Modifica**.
+1. Toccate il nome nell&#39;elenco delle persone e toccate **Modifica**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
