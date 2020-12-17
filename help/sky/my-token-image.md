@@ -16,14 +16,14 @@ ht-degree: 0%
 
 Come impostare un token immagine da utilizzare nei programmi e nelle cartelle delle campagne.
 
-1. Nella [!UICONTROL My Tokens] scheda del programma o della cartella, trascinate un token **immagine** nel [!UICONTROL Local Tokens] quadro.
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **Image** nel quadro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
-1. Immettete un nome per il token immagine, quindi immettete l’URL immagine. Fate clic **[!UICONTROL Save]**.
+1. Immettete un nome per il token immagine, quindi immettete l’URL immagine. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine due](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-In alternativa, potete scegliere un’immagine esistente tra [!UICONTROL Design Studio]. Fate clic **[!UICONTROL Save]**.
+In alternativa, è possibile scegliere un&#39;immagine esistente tra [!UICONTROL Design Studio]. Fare clic su **[!UICONTROL Save]**.
 
 ![Immagine tre](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)
