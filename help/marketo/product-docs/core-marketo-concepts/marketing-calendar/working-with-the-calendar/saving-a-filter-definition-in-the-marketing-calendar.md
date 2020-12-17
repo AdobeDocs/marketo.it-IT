@@ -31,7 +31,7 @@ Il salvataggio di un filtro consente di passare da una definizione di filtro all
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Denominate il filtro. Fate clic su **Salva**.
+1. Denominate il filtro. Fare clic su **Salva**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
