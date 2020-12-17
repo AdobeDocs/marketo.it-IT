@@ -20,7 +20,7 @@ Se desiderate rimanere organizzati, potete rinominare i flussi.
 
    ![Immagine uno](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
