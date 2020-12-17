@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sulle campagne intelligenti {#understanding-smart-campaigns}
+# Campagne intelligenti {#understanding-smart-campaigns}
 
 ![](assets/image2014-12-24-11-3a37-3a0.png)
 
 Se Marketo è una macchina potente, la campagna intelligente è davvero il motore. È semplice iniziare, ma può fare quasi tutto quello che gli viene chiesto.
 
-La campagna intelligente ha tre aree principali: Le schede Elenco [](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)avanzato, [Flusso](http://docs.marketo.com/display/DOCS/Flow+Actions) e [Pianificazione](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) .
+La campagna intelligente ha tre aree principali: Le schede [Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](http://docs.marketo.com/display/DOCS/Flow+Actions) e [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
-## Smart List {#smart-list}
+## Elenco avanzato {#smart-list}
 
 L&#39;elenco smart è il modo in cui definisci l&#39;utente a cui destinare la campagna intelligente. Contiene filtri e attivatori.
 
