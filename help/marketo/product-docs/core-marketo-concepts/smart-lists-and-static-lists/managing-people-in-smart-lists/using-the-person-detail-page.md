@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo della pagina Dettagli persona {#using-the-person-detail-page}
+# Utilizzo della pagina dei dettagli della persona {#using-the-person-detail-page}
 
 La pagina dei dettagli della persona contiene tutte le informazioni che Marketo conosce su una persona. Puoi modificare i dati direttamente da questa pagina.
 
-## Ottenere la pagina Dettagli persona {#getting-to-person-detail-page}
+## Ottenere la pagina dei dettagli sulla persona {#getting-to-person-detail-page}
 
 Ci sono molti modi per aprire persone specifiche. Alcuni esempi sono elencati di seguito.
 
@@ -23,11 +23,11 @@ Ci sono molti modi per aprire persone specifiche. Alcuni esempi sono elencati di
 >
 >**Esempio**
 >
->* Dal **database**, è possibile eseguire la ricerca in Ricerca rapida
->* Qualsiasi **elenco** o elenco avanzato
->* **Scheda Membri** di un programma
->* **Visualizzare i membri** della campagna in una campagna intelligente
->* Alcuni **rapporti**
+>* Dal **Database**, è possibile effettuare ricerche nella Ricerca rapida
+>* Qualsiasi elenco **intelligente** o elenco
+>* **** Appartenenza a un programma
+>* **Visualizzare** i membri di una campagna in una campagna intelligente
+>* Alcuni **report**
 
 >
 
@@ -41,7 +41,7 @@ Ci sono molti modi per aprire persone specifiche. Alcuni esempi sono elencati di
 
    ![](assets/two-5.png)
 
-## Organizzazione pagina - Salesforce {#page-organization-salesforce}
+## Organizzazione delle pagine - Salesforce {#page-organization-salesforce}
 
 Le informazioni sulla persona sono suddivise in categorie nelle seguenti schede:
 
@@ -98,7 +98,7 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 >
 >**Tubo profondo**
 >
->Alcuni campi *non* sono modificabili:
+>Alcuni campi sono *non* modificabili:
 >
 >* Informazioni sulla società
 >* Opportunità per i contatti con la DSC
@@ -107,7 +107,7 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 
 >
 >
-Ulteriori informazioni sui campi [gestiti](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)di sistema.
+Ulteriori informazioni su [Campi gestiti di sistema](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
