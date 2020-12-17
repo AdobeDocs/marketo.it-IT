@@ -17,13 +17,13 @@ Le parole chiave sono frasi che le persone digitano nei motori di ricerca. Aggiu
 
 >[!NOTE]
 >
->Se avete molte parole chiave, potete [importarle con un file](seo-importing-keywords-with-a-csv.md)CSV.
+>Se disponete di molte parole chiave, potete [importarle con un file CSV](seo-importing-keywords-with-a-csv.md).
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Inserite le parole chiave da destinare e fate clic su **SALVA**.
+1. Inserite le parole chiave da destinare e fate clic su **SAVE**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
