@@ -22,21 +22,21 @@ ht-degree: 0%
 
 
 
-Supponiamo che vogliate trovare tutti in California, ma potreste memorizzare sia **California** che **CA** nel vostro Database. Per includere tutte le persone applicabili, è possibile utilizzare due filtri **di stato** , ma è più semplice con uno.
+Supponiamo che si desideri trovare tutti in California, ma potresti memorizzare sia **California** che **CA** nel database. Per includere tutte le persone applicabili, è possibile utilizzare due filtri **State**, ma è più semplice con uno.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Individuate e selezionate un elenco avanzato e fate clic sulla scheda Elenco **** avanzato.
+1. Trovate e selezionate un elenco avanzato e fate clic sulla scheda **Smart List**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Fate clic sul **segno** più (+) del filtro.
+1. Fare clic sul simbolo **più** sul filtro.
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. Potete scegliere i valori da sinistra o semplicemente digitarli a destra, quindi fare clic su **OK**.
+1. È possibile scegliere i valori da sinistra o semplicemente digitarli a destra, quindi fare clic su **OK**.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
