@@ -25,11 +25,11 @@ Abilitare/disabilitare i token utente e aziendale utilizzati nelle e-mail.
 >
 >La codifica converte i caratteri nelle rispettive versioni di codice HTML per evitare confusione durante la trasmissione (ad es. &quot;&amp;&quot; viene modificato in &quot;&amp;&quot;). Per ulteriori informazioni, consultate lo sviluppatore Web.
 
-1. Vai ad **Admin**.
+1. Vai a **Admin**.
 
    ![](assets/admin.png)
 
-1. Seleziona Gestione **** campi.
+1. Selezionare **Gestione dei campi**.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ Abilitare/disabilitare i token utente e aziendale utilizzati nelle e-mail.
 
    ![](assets/five.png)
 
-1. Selezionate la casella Token di codifica **HTML in E-mail** per attivarla, deselezionate per disabilitarla.
+1. Per attivare la casella **Token di codifica HTML in e-mail**, deselezionate per disattivare.
 
    ![](assets/six.png)
 
