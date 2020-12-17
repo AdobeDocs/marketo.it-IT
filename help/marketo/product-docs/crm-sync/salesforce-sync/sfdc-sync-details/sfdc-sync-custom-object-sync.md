@@ -21,11 +21,11 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 >[!PREREQUISITES]
 >
->Per utilizzare un oggetto personalizzato, deve essere associato a un oggetto [lead](sfdc-sync-lead-sync.md), [](sfdc-sync-contact-sync.md)contactor [](sfdc-sync-account-sync.md)accountobject in Salesforce.
+>Per utilizzare un oggetto personalizzato, deve essere associato a un oggetto [lead](sfdc-sync-lead-sync.md), [contact](sfdc-sync-contact-sync.md)o [account](sfdc-sync-account-sync.md)in Salesforce.
 
-## Abilita oggetto personalizzato  {#enable-custom-object}
+## Abilita oggetto personalizzato {#enable-custom-object}
 
-1. Fai clic su **Admin** e sul **collegamento** di sincronizzazione** degli oggetti Salesforce.**
+1. Fare clic su **Admin** e sul** Salesforce Objects Sync **link**.**
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
@@ -33,7 +33,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    ![](assets/rtaimage-2.png)
 
-1. Fate clic su **Disattiva sincronizzazione globale.**
+1. Fare clic su **Disattiva sincronizzazione globale.**
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -51,11 +51,11 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
    >
    >Gli oggetti personalizzati devono avere nomi univoci. Marketo non supporta due diversi oggetti personalizzati con lo stesso nome.
 
-1. Fate clic su **Abilita sincronizzazione.**
+1. Fare clic su **Abilita sincronizzazione.**
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Fate di nuovo clic su **Abilita sincronizzazione** .
+1. Fare di nuovo clic su **Abilita sincronizzazione**.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -70,11 +70,11 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Fate clic su **Abilita sincronizzazione.**
+1. Fare clic su **Abilita sincronizzazione.**
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Per visualizzare tutti gli oggetti personalizzati Salesforce, fai clic su **Admin** e sul collegamento** Salesforce Objects Sync **link (come nel passaggio 1 precedente).
+1. Per visualizzare tutti gli oggetti personalizzati Salesforce, fai clic su **Admin** e sul collegamento** Salesforce Objects Sync **link (come nel passaggio 1 sopra).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
