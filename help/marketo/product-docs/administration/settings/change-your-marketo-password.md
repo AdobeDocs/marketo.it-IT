@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Modifica la password del marketing {#change-your-marketo-password}
+# Modifica la password del Marketo {#change-your-marketo-password}
 
 Modifica la password del Marketo con questi semplici passaggi.
 
-1. Ogni utente di Marketing può fare clic sul suo nome e sul **mio account**.
+1. Ogni utente di Marketing può fare clic sul proprio nome e **Account**.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
