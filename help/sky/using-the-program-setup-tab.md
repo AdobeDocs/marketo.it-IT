@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Dalla [!UICONTROL Setup] scheda del programma è possibile selezionare un canale, aggiungere tag e costi del periodo e modificare le impostazioni.
+Dalla scheda [!UICONTROL Setup] del programma è possibile selezionare un canale, aggiungere tag e costi del periodo e modificare le impostazioni.
 
 ![Immagine uno](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,11 +30,11 @@ Per modificare il canale del programma, selezionatene uno diverso dal menu a dis
 
 ## Aggiungi tag
 
-1. Nella [!UICONTROL Tags] sezione, fate clic sul menu a **[!UICONTROL Attribute]** discesa e scegliete un attributo di tag dalle opzioni disponibili.
+1. Nella sezione [!UICONTROL Tags], fate clic sul menu a discesa **[!UICONTROL Attribute]** e scegliete un attributo di tag dalle opzioni disponibili.
 
    ![Immagine tre](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Fate clic sul **[!UICONTROL Value]** menu a discesa e scegliete un valore di tag tra le opzioni disponibili. Fate clic **[!UICONTROL Add]**.
+1. Fate clic sul menu a discesa **[!UICONTROL Value]** e scegliete un valore di tag dalle opzioni disponibili. Fare clic su **[!UICONTROL Add]**.
 
    ![Immagine quattro](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Per modificare il canale del programma, selezionatene uno diverso dal menu a dis
 
 ## Aggiungi costi periodo
 
-1. Nella [!UICONTROL Period Costs] sezione selezionare un mese, inserire un costo e aggiungere un nome o una descrizione breve. Fate clic **[!UICONTROL Add]**.
+1. Nella sezione [!UICONTROL Period Costs], selezionare un mese, immettere un costo e aggiungere un nome o una descrizione breve. Fare clic su **[!UICONTROL Add]**.
 
    ![Immagine Sei](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ Per modificare il canale del programma, selezionatene uno diverso dal menu a dis
 
 ## Modifica impostazioni
 
-Sotto la [!UICONTROL Settings] sezione, puoi scegliere una campagna CRM a cui sincronizzare (se l&#39;iscrizione ha un&#39;integrazione CRM) e/o modificare il comportamento di analisi per il tuo programma.
+Nella sezione [!UICONTROL Settings], puoi scegliere una campagna CRM a cui eseguire la sincronizzazione (se l&#39;iscrizione include l&#39;integrazione CRM) e/o modificare il comportamento di analisi per il tuo programma.
 
 ![Immagine otto](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
