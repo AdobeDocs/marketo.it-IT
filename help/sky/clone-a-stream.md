@@ -20,7 +20,7 @@ Duplica un flusso per vari motivi, incluso il test di ordini diversi e cadenze d
 
    ![Immagine uno](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
