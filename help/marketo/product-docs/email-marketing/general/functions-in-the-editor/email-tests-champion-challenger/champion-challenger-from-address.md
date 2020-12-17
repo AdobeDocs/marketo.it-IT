@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campione/Sfida: Indirizzo Da {#champion-challenger-from-address}
+# Campione/Sfida: Da indirizzo {#champion-challenger-from-address}
 
 Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
 
@@ -23,7 +23,7 @@ Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
 
 
 
-1. Nell&#39;editor di test e-mail, selezionare **Da indirizzo** nel menu a discesa **Test Type **a.
+1. Nell&#39;editor di test e-mail, selezionare **Da indirizzo** nel menu a discesa **Test Type **Test.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -50,9 +50,9 @@ Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
    >
    >Nella distribuzione sopra mostrata, il 15% del pubblico totale specificato nell&#39;elenco smart riceve una delle e-mail con un concorrente Da Indirizzo e l&#39;85% riceve l&#39;e-mail con il campione Da Indirizzo. Le e-mail per più sfidanti da indirizzi condividono lo stesso 15%. Al termine del test, potete dichiarare manualmente un vincitore. Da quel momento in poi, tutti i futuri utenti riceveranno i contenuti più performanti.
 
-   Per ottenere la certezza statistica, scegliete una percentuale che includa abbastanza persone per verificare la validità del test. Non fatevi ingannare da risultati inconcludenti.  [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval)statistica.
+   Per ottenere la certezza statistica, scegliete una percentuale che includa abbastanza persone per verificare la validità del test. Non fatevi ingannare da risultati inconcludenti.  [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
