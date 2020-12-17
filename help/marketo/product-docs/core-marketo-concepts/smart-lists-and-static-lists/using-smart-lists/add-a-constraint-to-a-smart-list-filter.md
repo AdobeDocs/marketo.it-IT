@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di un vincolo a un filtro elenco avanzato {#add-a-constraint-to-a-smart-list-filter}
+# Aggiungere un vincolo a un filtro elenco avanzato {#add-a-constraint-to-a-smart-list-filter}
 
 Durante la creazione di elenchi avanzati, alcuni filtri presentano opzioni avanzate denominate *limitazioni. *Queste sono condizioni aggiuntive che è possibile aggiungere a filtri e attivatori per aiutare a restringere ulteriormente la ricerca.
 
-In questo esempio, aggiungiamo alcuni vincoli a un filtro ** Valore [dati modificato](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** per individuare le persone che hanno subito una modifica dello stato da MQL a SQL.
+In questo esempio, aggiungiamo alcuni vincoli a un filtro ** [Valore dati modificato](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** per individuare le persone che hanno subito una modifica dello stato da MQL a SQL.
 
 >[!PREREQUISITES]
 >
@@ -26,19 +26,19 @@ In questo esempio, aggiungiamo alcuni vincoli a un filtro ** Valore [dati modifi
 
 
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
-1. Selezionate l’elenco avanzato con un filtro a cui aggiungere un vincolo e fate clic sulla scheda Elenco **** avanzato.
+1. Selezionare l&#39;elenco smart con un filtro a cui si desidera aggiungere un vincolo e fare clic sulla scheda **Smart List**.
 
    ![](assets/two-3.png)
 
-1. In **Aggiungi vincolo**, selezionare Valore **** precedente.
+1. In **Aggiungi vincolo**, selezionare **Valore precedente**.
 
    ![](assets/three-3.png)
 
-1. Immettere il valore **** precedente. In questo esempio stiamo utilizzando MQL.
+1. Immettere il **Valore precedente**. In questo esempio stiamo utilizzando MQL.
 
    ![](assets/four-2.png)
 
@@ -46,9 +46,9 @@ In questo esempio, aggiungiamo alcuni vincoli a un filtro ** Valore [dati modifi
 
    ![](assets/five.png)
 
-1. Immettere il **nuovo valore**. In questo esempio stiamo utilizzando SQL.
+1. Immettere il **Nuovo valore**. In questo esempio stiamo utilizzando SQL.
 
    ![](assets/six.png)
 
-1. Ben fatto! Fate clic sulla scheda **Persone** per vedere tutti gli utenti che hanno apportato una modifica **Stato** da **MQL** a **SQL** negli ultimi 30 giorni.
+1. Ben fatto! Fare clic sulla scheda **Persone** per vedere tutte le persone che hanno avuto una **Stato** modifica da **MQL** a **SQL** negli ultimi 30 giorni.
 
