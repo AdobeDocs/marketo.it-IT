@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di un account denominato esistente a un elenco account {#add-an-existing-named-account-to-an-account-list}
+# Aggiungere un account denominato esistente a un elenco di account {#add-an-existing-named-account-to-an-account-list}
 
 Aggiungere un account denominato a un elenco di account è semplice.
 
 >[!NOTE]
 >
->Questo vale solo per gli elenchi di account, **non** per gli elenchi di account dinamici.
+>Questo vale solo per gli elenchi di account, **non** gli elenchi di account dinamici.
 
 1. Selezionare la riga dell&#39;account denominato a cui si desidera aggiungere.
 
    ![](assets/four-1.png)
 
-1. Fate clic sul menu a **discesa Azioni** account denominato e selezionate **Aggiungi a elenco** account.
+1. Fare clic sul menu a discesa **Azioni account denominato** e selezionare **Aggiungi a elenco account**.
 
    ![](assets/five-1.png)
 
-1. Fate clic sul menu a discesa Elenco **** account, selezionate l&#39;elenco account desiderato e fate clic su **Aggiungi**.
+1. Fare clic sul menu a discesa **Elenco account**, selezionare l&#39;elenco di account desiderato e fare clic su **Aggiungi**.
 
    ![](assets/six-1.png)
 
