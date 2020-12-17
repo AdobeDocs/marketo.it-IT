@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Scheda Stato sincronizzazione {#sync-status-tab}
 
-1. Fai clic su **Admin** e **Microsoft Dynamics**.
+1. Fare clic su **Admin** e **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Fate clic sulla scheda Stato **** sincronizzazione.
+1. Fare clic sulla scheda **Stato sincronizzazione**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Fare clic su **View: **a discesa** **e selezionare **Ultima ora **per visualizzare le informazioni sul throughput.
+1. Fare clic su **View: **menu a discesa** **e selezionare **Ultima ora **per visualizzare le informazioni sul throughput.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >Nella visualizzazione Ultima ora, vengono visualizzate le colonne Inserti e aggiornamenti N/D. Questo comportamento è previsto.
 
-## Scheda Errori di sincronizzazione {#sync-errors-tab}
+## Scheda Errori sincronizzazione {#sync-errors-tab}
 
 Sfogliare, cercare o esportare lead (e altri oggetti) che non sono stati sincronizzati con dettagli quali funzionamento, direzione, codice di errore e messaggio di errore.
 
