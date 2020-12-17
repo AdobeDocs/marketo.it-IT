@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Impostazione del profilo di account {#setting-up-account-profiling}
+# Impostazione del profilo account {#setting-up-account-profiling}
 
 Per iniziare a utilizzare Profilo account, effettuate le seguenti operazioni.
 
-1. In My Marketo, aprite Marketing **basato su** account.
+1. In My Marketo, aprite **Account Based Marketing**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Per iniziare a utilizzare Profilo account, effettuate le seguenti operazioni.
 
    ![](assets/two-1.png)
 
-1. La scheda Modello viene aperta per impostazione predefinita. Fate clic su **Inizia**.
+1. La scheda Modello viene aperta per impostazione predefinita. Fare clic su **Introduzione**.
 
    ![](assets/three.png)
 
-1. Assegna un nome al modello, scegli chi sarà incluso nei risultati e chi servirà come base per il profilo cliente ideale (ICP). Al termine, fare clic su **Crea modello** .
+1. Assegna un nome al modello, scegli chi sarà incluso nei risultati e chi servirà come base per il profilo cliente ideale (ICP). Fare clic su **Crea modello** al termine.
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ Per iniziare a utilizzare Profilo account, effettuate le seguenti operazioni.
 
    ![](assets/five.png)
 
-1. Per visualizzare i risultati del modello, fare clic su **Vedere Risultato** del modello.
+1. Per visualizzare i risultati del modello, fare clic su **Vedere Risultato modello**.
 
    ![](assets/six.png)
 
@@ -45,5 +45,5 @@ Per iniziare a utilizzare Profilo account, effettuate le seguenti operazioni.
 
    >[!TIP]
    >
-   >Una volta creato il modello, scoprite come sintonizzarlo nella panoramica [del profilo](http://docs.marketo.com/x/NIDv)account.
+   >Una volta creato il modello, è possibile apprendere come sintonizzarlo in [Panoramica sul profilo dell&#39;account](http://docs.marketo.com/x/NIDv).
 
