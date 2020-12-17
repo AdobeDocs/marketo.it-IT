@@ -23,19 +23,19 @@ Marketo gestisce la registrazione e la partecipazione al webinar ON24.
 >
 >Per questo passaggio sono necessari una sottoscrizione esistente a ON24 e diritti di amministrazione. Disponete delle seguenti impostazioni: Chiave client e ID client. Potete ottenere l&#39;ID client e la chiave client direttamente dal vostro Account Manager ON24.
 
-1. Vai ad **Admin** e fai clic su **LaunchPoint**.
+1. Accedete a **Admin** e fate clic su **LaunchPoint**.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Selezionate **Nuovo** , quindi **Nuovo** **Servizio**.
+1. Selezionare **New**, quindi **New** **Service**.
 
    ![](assets/on24-new-service.png)
 
-1. Immettere un **nome** visualizzato ****. In **Servizio**, selezionare **ON24**.
+1. Immettere un **Display** **Name**. In **Service**, selezionare **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Completare il processo immettendo la **chiave** **client** e l&#39; **ID** **client** in **Impostazioni** ****, quindi fare clic suCreate.
+1. Completare il processo immettendo **Client** **Key** e **Client** **ID** in **Settings**, quindi fare clic su **Crea**.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
@@ -45,5 +45,5 @@ Marketo gestisce la registrazione e la partecipazione al webinar ON24.
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento webinar in ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
+>Scoprite come [creare un evento del seminario Web in ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
