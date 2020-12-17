@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Note sulla versione: Gennaio 2014 {#release-notes-january}
 
-Le seguenti funzionalità sono incluse nella release di gennaio 2014. Per informazioni sulla disponibilità delle funzioni, consulta [Marketo Edition](http://www.marketo.com/pricing/) .
+Le seguenti funzionalità sono incluse nella release di gennaio 2014. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](http://www.marketo.com/pricing/).
 
 ## Forms 2.0 {#forms}
 
-Punti in alto: La documentazione per Forms 2.0 sarà disponibile a breve. Nel frattempo, scopri di più qui sotto, e nel [video](http://docs.marketo.com/display/docs/forms)introduttivo!
+Punti in alto: La documentazione per Forms 2.0 sarà disponibile a breve. Nel frattempo, scopri di più qui sotto e nel [video introduttivo](http://docs.marketo.com/display/docs/forms)!
 
-È possibile controllare il processo di creazione dei moduli e interrompere gli sviluppatori Web. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 è progettato per consentire agli esperti di marketing di creare moduli potenti sia dal punto di vista visivo che funzionale, senza la necessità di conoscenze sulla programmazione.
+È possibile controllare il processo di creazione dei moduli e interrompere gli sviluppatori Web. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 è progettato per consentire agli esperti di marketing di creare moduli potenti sia dal punto di vista visivo che funzionale, senza bisogno di conoscenze sulla programmazione.
 
 **Dare al proprio Forms il makeover visivo che meritano:**
 
@@ -38,17 +38,17 @@ Sono finiti i giorni in cui è stato rimosso il codice HTML dai moduli posiziona
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Ulteriori informazioni sono disponibili nel video [introduttivo di](http://docs.marketo.com/display/docs/forms)Forms 2.0. (Presto disponibile la documentazione [Forms](http://docs.marketo.com/display/docs/forms) !)
+Ulteriori informazioni sono disponibili nel video introduttivo di [Forms 2.0](http://docs.marketo.com/display/docs/forms). (La documentazione arriva al [Forms](http://docs.marketo.com/display/docs/forms) immersione profonda presto!)
 
 ## Limiti di comunicazione per il programma e-mail {#communication-limits-for-email-program}
 
-[Impostate Limiti di comunicazione su un programma](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) e-mail per evitare comunicazioni eccessive con il database. Se una persona supera il limite definito, non riceverà l&#39;e-mail.
+[Impostate Limiti di comunicazione su un ](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) programma e-mail per evitare che venga eccessiva la comunicazione con il database. Se una persona supera il limite definito, non riceverà l&#39;e-mail.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## Campi aggiuntivi nell’analisi dell’iscrizione al programma {#additional-fields-in-program-membership-analysis}
+## Campi aggiuntivi nell&#39;analisi dell&#39;appartenenza al programma {#additional-fields-in-program-membership-analysis}
 
-Ora puoi aggiungere e raggruppare le metriche di analisi [dell&#39;iscrizione al](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) programma in base agli attributi lead e aziendali. Ad esempio, è possibile aggiungere il campo Settore per visualizzare la suddivisione dei membri e dei successi del programma.
+Ora puoi aggiungere e raggruppare le metriche [Analisi iscrizione al programma](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) in base agli attributi del lead e della società. Ad esempio, è possibile aggiungere il campo Settore per visualizzare la suddivisione dei membri e dei successi del programma.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
 
