@@ -31,11 +31,11 @@ Se hai bisogno di eliminare un flusso dal tuo programma di coinvolgimento, segui
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Confermate l&#39;eliminazione facendo clic su **Elimina**.
+1. Confermare l&#39;eliminazione facendo clic su **Elimina**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >Se il flusso contiene persone, vi verrà chiesto di [spostarle](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) prima.
+   >Se il flusso contiene persone, verrà chiesto di [spostare](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) prima di uscire.
 
