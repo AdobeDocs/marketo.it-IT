@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Gli stati del programma consentono di tenere traccia del modo in cui le persone stanno avanzando all&#39;interno di un programma o di un evento. Per ulteriori informazioni, consulta [Personalizzare, Creare E Gestire I Canali](../../../../product-docs/administration/tags/create-a-program-channel.md).
+Gli stati del programma consentono di tenere traccia del modo in cui le persone stanno avanzando all&#39;interno di un programma o di un evento. Per ulteriori informazioni, consulta [Personalizza, crea e gestisci canali](../../../../product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ Gli stati del programma consentono di tenere traccia del modo in cui le persone 
 
 ## Utilizzo {#usage}
 
-1. Trascina il passaggio **Modifica stato** programma.
+1. Trascinare nel passaggio di flusso **Modifica stato programma**.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Selezionate il **nuovo stato** da impostare. La persona sarà anche membro del programma, se non è già stato.
+1. Selezionare il **Nuovo stato** da impostare. La persona sarà anche membro del programma, se non è già stato.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
