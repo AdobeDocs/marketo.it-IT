@@ -21,7 +21,7 @@ I miei token sono variabili personalizzate che puoi creare e utilizzare nei tuoi
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-Per accedere e creare i Token personali, seleziona la cartella del programma o della campagna e vai alla [!UICONTROL My Tokens] scheda. Trascinate e rilasciate qualsiasi token sul [!UICONTROL Local Tokens] quadro.
+Per accedere e creare i Token personali, seleziona la cartella del programma o della campagna e vai alla scheda [!UICONTROL My Tokens]. Trascina e rilascia qualsiasi token sul quadro [!UICONTROL Local Tokens].
 
 ![Immagine uno](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -41,11 +41,11 @@ Per accedere e creare i Token personali, seleziona la cartella del programma o d
 
 Quando si crea un nuovo token, è possibile farvi riferimento da altri oggetti della struttura. È possibile ignorare le variabili globali a livelli inferiori nella struttura. Esiste una struttura di denominazione in cui è stato creato il token per una gestione semplice.
 
-* **Token locale:** Il token è stato creato direttamente nel programma o nella cartella.
-* **[Token ignorato:](/help/sky/override-an-inherited-my-token.md)** Il token è stato ereditato, ma è stata fatta un&#39;eccezione in questo programma o cartella.
-* **Token ereditato:** Il token è stato creato nella struttura ad albero in un programma o in una cartella di livello superiore.
+* **Token locale:** il token è stato creato direttamente in tale programma o cartella.
+* **[Token ignorato:](/help/sky/override-an-inherited-my-token.md)** il token è stato ereditato, ma è stata fatta un&#39;eccezione in questo programma o in questa cartella.
+* **Token ereditato:** il token è stato creato nella struttura ad albero in un punto qualsiasi di un programma o una cartella di livello superiore.
 
-Potete trovare questi tre tipi nella **[!UICONTROL My Tokens]** scheda nella cartella del programma o della campagna.
+Questi tre tipi si trovano nella scheda **[!UICONTROL My Tokens]** nella cartella del programma o della campagna.
 
 ![Immagine due](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
