@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Trova tutte le persone in una fase di ricavo {#find-all-people-in-a-revenue-stage}
+# Trova tutte le persone in una fase delle entrate {#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 
 
-## Trova tutti i membri di una fase delle entrate specifica {#find-all-members-of-a-specific-revenue-stage}
+## Trova tutti i membri di una fase specifica di ricavi {#find-all-members-of-a-specific-revenue-stage}
 
 1. In un elenco avanzato, fare clic sulla scheda **Smart List **, individuare il filtro **Revenue Stage** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Selezionare una fase **** Revenue (Entrate).
+1. Selezionare una **Fase ricavi**.
 
    ![](assets/two.jpg)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
 ## Eseguire un passaggio di flusso sui membri di un&#39;area ricavi {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Ora che sapete quali persone sono in fase di fatturato, potete commercializzare direttamente a loro. Oltre a scegliere **Revenue Stage** come filtro per elenchi smart, potete anche sceglierlo come filtro &quot;if&quot; nel flusso.
+Ora che sapete quali persone sono in fase di fatturato, potete commercializzare direttamente a loro. Oltre a scegliere **Revenue Stage** come filtro smart list, è anche possibile sceglierlo come filtro &quot;if&quot; nel flusso.
 
-1. Nel passaggio di flusso desiderato, fai clic su **Aggiungi scelta** e seleziona Fase **** ricavi dal menu a discesa.
+1. Nel passaggio di flusso desiderato, fare clic su **Aggiungi scelta** e selezionare **Fase ricavi** dall&#39;elenco a discesa.
 
    ![](assets/six.png)
 
