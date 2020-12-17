@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Aprile 2013 {#release-notes-april}
 
-Le seguenti funzionalità sono incluse nella release di aprile. Per informazioni sulla disponibilità delle funzioni, consulta [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Le seguenti funzionalità sono incluse nella release di aprile. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php).
 
 Dopo il rilascio, accertatevi di controllare la scheda [Nuova versione](release-notes-december-2013.md) nella Community per gli articoli dettagliati della Knowledge Base per ogni funzione!
 
