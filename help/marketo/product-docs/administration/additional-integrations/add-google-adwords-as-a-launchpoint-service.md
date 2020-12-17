@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Aggiungi Google AdWords come servizio LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
 
-Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall&#39;interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di fatturato desideri monitorare) dopo aver [aggiunto colonne](https://support.google.com/adwords/answer/3073556) personalizzate in AdWords. Queste informazioni non vengono visualizzate nell’interfaccia di Marketo.
+Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall&#39;interfaccia utente di AdWords, potrete vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di fatturato si desideri monitorare) dopo l&#39;aggiunta di [colonne personalizzate](https://support.google.com/adwords/answer/3073556) in AdWords. Queste informazioni non vengono visualizzate nell’interfaccia di Marketo.
 
-Ulteriori informazioni sulla funzione di importazione delle conversioni offline di [Google](https://support.google.com/adwords/answer/2998031?hl=en).
+Ulteriori informazioni sulla [funzionalità di importazione delle conversioni offline di Google](https://support.google.com/adwords/answer/2998031?hl=en).
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
 >[!NOTE]
 >
->È inoltre possibile integrare un [Google AdWords come servizio Launchpoint con un account](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)manager.
+>È inoltre possibile integrare un [Google AdWords come servizio Launchpoint con un account manager](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -33,7 +33,7 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selezionate **Nuovo** e **Nuovo servizio**.
+1. Selezionare **New** e **New Service**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
@@ -41,7 +41,7 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    ![](assets/new-service-google.png)
 
-1. Seleziona **Autorizza marketing**.
+1. Selezionare **Autorizza Marketo**.
 
    >[!NOTE]
    >
@@ -53,19 +53,19 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    ![](assets/image2015-2-23-15-3a31-3a16.png)
 
-1. Selezionate **Accetta**.
+1. Selezionare **Accetta**.
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. Lo stato verrà visualizzato come **Success**. Selezionare **Avanti**.
+1. Lo stato verrà visualizzato come **Success**. Selezionare **Next**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Carica le conversioni offline da Marketo a Google AdWords **Settimanale **o **Giornaliero**.
+1. Carica le conversioni offline da Marketo a Google AdWords **Settimanale **o **Quotidianamente**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
-1. Conversione attributi in **First Click** o **Last Click**.
+1. Conversione attributi in **Primo clic** o **Ultimo clic**.
 
    | Tipo | Definizione |
    |---|---|
@@ -78,13 +78,13 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    ![](assets/image2015-2-23-16-3a57-3a49.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/image2015-2-23-17-3a50-3a9.png)
 
    >[!NOTE]
    >
-   >[Per il funzionamento di questa funzione è necessario selezionare l’opzione Assegnazione tag](https://support.google.com/adwords/answer/1752125?hl=en) automatica. La disattivazione deve essere eseguita in AdWords.
+   >[Per il funzionamento di questa funzione, è ](https://support.google.com/adwords/answer/1752125?hl=en) necessario selezionare il tag automatico. La disattivazione deve essere eseguita in AdWords.
 
    >[!NOTE]
    >
