@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Impostazione di iPad o Android Tablet {#set-up-the-ipad-or-android-tablet}
+# Configurare l&#39;iPad o Android Tablet {#set-up-the-ipad-or-android-tablet}
 
 Per un&#39;esperienza fluida durante la giornata dell&#39;evento, preparate l&#39;iPad o il tablet Android e verificate l&#39;app Marketo Events prima dell&#39;evento.
 
@@ -25,7 +25,7 @@ Dopo aver creato l&#39;evento in Marketo, questo viene caricato nell&#39;app Mar
 >
 >Per scaricare le app è necessario essere connessi a Internet.
 
-## Scaricare e installare l’app per iPad Marketo Events {#download-and-install-the-marketo-events-ipad-app}
+## Scarica e installa l&#39;app per iPad Marketo Events {#download-and-install-the-marketo-events-ipad-app}
 
 Se il tuo iPad non dispone già dell&#39;app Marketo Events installata, ecco come ottenerla.
 
@@ -33,7 +33,7 @@ Se il tuo iPad non dispone già dell&#39;app Marketo Events installata, ecco com
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. Nella casella di ricerca, immettete **Marketo** e, in Suggerimenti, toccate **il simbolo per gli eventi**.
+1. Nella casella di ricerca, immettere **Marketo** e, in Suggerimenti, toccare **marketo events**.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
@@ -44,8 +44,8 @@ Se il tuo iPad non dispone già dell&#39;app Marketo Events installata, ecco com
 Se il tablet Android non ha ancora installato l&#39;app Marketo Events, ecco come ottenerlo.
 
 1. Apri il tablet e tocca l&#39;app** Google Play Store**.
-1. Nella casella Ricerca, immettete **Marketo** e toccate **Ritorna**.
-1. Nei risultati della ricerca, toccate l&#39;app **Marketo Events** .
+1. Nella casella Ricerca, immettere **Marketo** e toccare **Return**.
+1. Nei risultati della ricerca, toccate l&#39;app **Marketo Events**.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
@@ -62,9 +62,9 @@ Prima di assegnare gli iPad o i tablet al personale dei saloni, verificate che l
 
    >[!NOTE]
    >
-   >Dopo la creazione di un nuovo evento, potrebbero essere necessari alcuni minuti perché venga visualizzato nell&#39;app per iPad o per tablet. Se non viene visualizzato, toccate **Disconnessione** nella schermata iniziale, attendete qualche minuto, quindi effettuate di nuovo l&#39;accesso.
+   >Dopo la creazione di un nuovo evento, potrebbero essere necessari alcuni minuti perché venga visualizzato nell&#39;app per iPad o per tablet. Se non viene visualizzato, toccare **Logout** nella schermata iniziale, attendere alcuni minuti, quindi accedere di nuovo.
 
-## Sincronizzare l&#39;app per popolare l&#39;evento {#sync-the-app-to-populate-the-event}
+## Sincronizzate l&#39;app per popolare l&#39;evento {#sync-the-app-to-populate-the-event}
 
 Sincronizza per essere sicuro che le persone aggiunte siano presenti.
 
@@ -79,17 +79,17 @@ Sincronizza per essere sicuro che le persone aggiunte siano presenti.
 
    ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
 
-## Conferma funzionamento check-in {#confirm-check-ins-are-working}
+## Conferma il funzionamento dei check-in {#confirm-check-ins-are-working}
 
 Accertatevi di confermare che i check-in funzionano dall’iPad o dal tablet prima dell’evento.
 
-1. Nell&#39;app, [controllate un lead di test](check-people-into-your-event-from-your-tablet.md).
-1. Toccate l&#39;icona **Sinc** per sincronizzare l&#39;app.
-1. In Marketo, aprite l’evento e fate clic su **Membri**.
+1. Nell&#39;app, [verifica un lead di test in](check-people-into-your-event-from-your-tablet.md).
+1. Toccate l&#39;icona **Sinc.** per sincronizzare l&#39;app.
+1. In Marketo, aprite l&#39;evento e fate clic su **Membri**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. Verificate che lo stato della persona sia cambiato in **Partecipante** e che sia selezionato Successo.
+1. Verificare che lo stato della persona sia cambiato in **Partecipato** e che il successo sia selezionato.
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
