@@ -20,15 +20,15 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto al
 
    ![Immagine uno](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Fate clic **[!UICONTROL Add Content]**.
+1. Fare clic su **[!UICONTROL Add Content]**.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. Lasciate il [!UICONTROL Type] set impostato su E-mail, quindi cercate/selezionate il messaggio e-mail che desiderate aggiungere.
+1. Lasciate il [!UICONTROL Type] impostato su E-mail, quindi cercate/selezionate l&#39;e-mail che desiderate aggiungere.
 
    ![Immagine quattro](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -42,11 +42,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto al
 
    ![Immagine cinque](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine Sei](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Fate clic **[!UICONTROL Add Content]**.
+1. Fare clic su **[!UICONTROL Add Content]**.
 
    ![Immagine sette](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
