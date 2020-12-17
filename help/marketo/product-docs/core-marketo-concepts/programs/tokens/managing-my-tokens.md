@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Gestione dei token personali {#managing-my-tokens}
 
-L&#39;utilizzo di token consente di semplificare le attività in Marketo. È possibile utilizzare i token [](understanding-my-tokens-in-a-program.md) personali (token personalizzati) in passaggi di flusso, collegamenti Web, e-mail e pagine di destinazione. Ecco come farle.
+L&#39;utilizzo di token consente di semplificare le attività in Marketo. È possibile utilizzare [My Tokens](understanding-my-tokens-in-a-program.md) (token personalizzati) in passaggi di flusso, webhooks, e-mail e pagine di destinazione. Ecco come farle.
 
 >[!TIP]
 >
->Ulteriori informazioni sui token già disponibili in Panoramica [](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)token.
+>Ulteriori informazioni sui token già disponibili in [Panoramica sui token](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 ## Creare un token personale {#create-a-my-token}
 
-1. Vai a Attività **di marketing.**
+1. Vai a **Attività di marketing.**
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate una cartella di programma o campagna. Fate clic su **Token personali.**
+1. Selezionate una cartella di programma o campagna. Fare clic su **My Tokens.**
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Selezionate un tipo di token **** personale. Trascinala sul quadro.
+1. Selezionare un tipo **My Token**. Trascinala sul quadro.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -37,17 +37,17 @@ L&#39;utilizzo di token consente di semplificare le attività in Marketo. È pos
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
-1. Fate clic su **Salva.**
+1. Fare clic su **Salva.**
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   Sì! Hai creato un token **personale.**
+   Sì! Hai creato un **My Token.**
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
-## Modifica di un token personale {#edit-a-my-token}
+## Modifica token personale {#edit-a-my-token}
 
-1. Fate doppio clic sul token **** personale e apportate le modifiche. Fate clic su **Salva.**
+1. Fare doppio clic su **My Token** e apportare le modifiche. Fare clic su **Salva.**
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,11 +57,11 @@ L&#39;utilizzo di token consente di semplificare le attività in Marketo. È pos
 >
 >Quando eliminate un token personale, accertatevi di non farvi riferimento in alcuna risorsa. Uno spazio vuoto verrà visualizzato in qualsiasi punto a cui si fa riferimento se eliminato.
 
-1. Fate clic con il pulsante destro del mouse sul token **personale.** Selezionate **Elimina token.**
+1. Fare clic con il pulsante destro del mouse sul **Token personale.** Selezionate  **Elimina token.**
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. Fate clic su **Elimina.**
+1. Fare clic su **Elimina.**
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
