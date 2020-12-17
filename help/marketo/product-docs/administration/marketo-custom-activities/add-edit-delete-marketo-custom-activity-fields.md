@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi/Modifica/Elimina campi attività personalizzati Marketo {#add-edit-delete-marketo-custom-activity-fields}
+# Aggiungi/Modifica/Elimina campi attività personalizzati del marketing {#add-edit-delete-marketo-custom-activity-fields}
 
 Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo attività personalizzato. Ecco come.
 
-## Aggiunta di un campo attività personalizzato {#add-a-custom-activity-field}
+## Aggiungere un campo attività personalizzato {#add-a-custom-activity-field}
 
-1. In Attività personalizzate marketing, fai clic su **Campi**.
+1. In Attività personalizzate marketing, fare clic su **Campi**.
 
    ![](assets/one-3.png)
 
@@ -37,15 +37,15 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo a
    >
    >Non sei sicuro di cosa selezionare? Ti abbiamo coperto! Tutti i tipi di dati disponibili sono definiti in [questo articolo](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Denominate il campo. Il Nome Api Viene compilato automaticamente. Al termine, fate clic su **Salva**.
+1. Denominate il campo. Il Nome Api Viene compilato automaticamente. Al termine, fare clic su **Salva**.
 
    ![](assets/five-3.png)
 
    È tutto! Il nuovo campo è stato aggiunto.
 
-## Modifica di un campo di attività personalizzato {#edit-a-custom-activity-field}
+## Modifica campo attività personalizzato {#edit-a-custom-activity-field}
 
-1. In Attività personalizzate marketing, fai clic su **Campi**.
+1. In Attività personalizzate marketing, fare clic su **Campi**.
 
    ![](assets/one-3.png)
 
@@ -53,7 +53,7 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo a
 
    ![](assets/seven.png)
 
-1. Selezionare il campo che si desidera modificare, fare clic sul menu a discesa Azioni **** campo e selezionare **Modifica campo**.
+1. Selezionare il campo che si desidera modificare, fare clic sul menu a discesa **Azioni campo**, quindi selezionare **Modifica campo**.
 
    ![](assets/eight.png)
 
@@ -61,7 +61,7 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo a
 
    ![](assets/nine.png)
 
-1. Immettete il nuovo nome e il nome dell’API, quindi fate clic su **Salva**.
+1. Immettete il nuovo nome e il nome dell&#39;API, quindi fate clic su **Salva**.
 
    ![](assets/ten.png)
 
@@ -79,9 +79,9 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo a
 
 Il campo è stato modificato.
 
-## Eliminazione di un campo attività personalizzato {#delete-a-custom-activity-field}
+## Eliminare un campo attività personalizzato {#delete-a-custom-activity-field}
 
-1. In Attività personalizzate marketing, fai clic su **Campi**.
+1. In Attività personalizzate marketing, fare clic su **Campi**.
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ Il campo è stato modificato.
 
    ![](assets/twelve.png)
 
-1. Selezionare il campo da eliminare, fare clic sul menu a discesa Azioni **** campo e selezionare **Elimina campo**.
+1. Selezionare il campo da eliminare, fare clic sul menu a discesa **Azioni campo**, quindi selezionare **Elimina campo**.
 
    ![](assets/thirteen.png)
 
