@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Informazioni sulle pagine {#seo-understanding-pages}
 
-## Punteggio ottimizzazione pagina / Per fare widget {#page-optimization-score-to-do-widget}
+## Punteggio ottimizzazione pagina / Widget attività {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
