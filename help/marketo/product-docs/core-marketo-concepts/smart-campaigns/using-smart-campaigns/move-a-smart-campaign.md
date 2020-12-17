@@ -17,7 +17,7 @@ Spostate una campagna intelligente tra diversi programmi o cartelle utilizzando 
 
 ## Usa trascinamento {#use-drag-and-drop}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,15 +31,15 @@ Spostate una campagna intelligente tra diversi programmi o cartelle utilizzando 
    >
    >Le regole della campagna intelligente non cambieranno, ma saranno solo nidificate in un luogo diverso.
 
-## Utilizzo della funzione Sposta {#use-the-move-feature}
+## Utilizzare la funzione Sposta {#use-the-move-feature}
 
 È inoltre possibile spostare le campagne intelligenti utilizzando la funzione di spostamento nella struttura ad albero.
 
-1. Fate clic con il pulsante destro del mouse sulla campagna avanzata. Selezionate **Sposta**.
+1. Fate clic con il pulsante destro del mouse sulla campagna avanzata. Selezionare **Move**.
 
    ![](assets/rockclimbing2.jpg)
 
-1. Scegli se passare a un **programma** o a una **cartella**.
+1. Scegliere se passare a un **programma** o a una **cartella**.
 
    ![](assets/image2015-2-25-13-3a34-3a20.png)
 
@@ -47,7 +47,7 @@ Spostate una campagna intelligente tra diversi programmi o cartelle utilizzando 
 
    ![](assets/image2015-2-25-13-3a36-3a4.png)
 
-1. Fate clic su **Sposta**.
+1. Fare clic su **Sposta**.
 
    ![](assets/image2015-2-25-13-3a37-3a44.png)
 
