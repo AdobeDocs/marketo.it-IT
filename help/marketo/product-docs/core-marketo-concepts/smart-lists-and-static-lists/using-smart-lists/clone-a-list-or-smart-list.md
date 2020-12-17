@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Invece di creare un elenco avanzato da zero, risparmiate tempo clonando un elenco simile e apportando modifiche. Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ Invece di creare un elenco avanzato da zero, risparmiate tempo clonando un elenc
 
    ![](assets/smartlist-find.png)
 
-1. In Azioni **** elenco, fare clic su **Clona elenco** avanzato.
+1. In **Elenca azioni**, fare clic su **Clona Smart List**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Immettete un **nome** e fate clic su **Clona**.
+1. Immettere un **Nome** e fare clic su **Clone**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
