@@ -19,11 +19,11 @@ Potresti voler sapere a quali campi Salesforce è associato uno specifico campo 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. Trova il campo che ti interessa e fai clic su **+** per espandere la mappatura.
+1. Trovate il campo che vi interessa e fate clic su **+** per espandere la mappatura.
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
