@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Ci sono alcune cose da fare prima di iniziare le missioni.
 
-## Passaggio 1: Login a Marketo {#step-log-in-to-marketo}
+## Passaggio 1: Accedere al Marketo {#step-log-in-to-marketo}
 
-1. [Accedete a Marketo](https://app.marketo.com) utilizzando le credenziali ricevute per e-mail.
+1. [Accedete a ](https://app.marketo.com) Marketing mediante le credenziali ricevute per e-mail.
 
    ![](assets/one.png)
 
@@ -25,11 +25,11 @@ Ci sono alcune cose da fare prima di iniziare le missioni.
 
 Creiamo una cartella per contenere tutto ciò che farete nelle missioni.
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/two.png)
 
-1. Fai clic sul menu a **discesa Nuovo** e seleziona **Nuova cartella** campagna.
+1. Fare clic sul menu a discesa **Nuovo** e selezionare **Nuova cartella campagna**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
@@ -45,11 +45,11 @@ Creiamo una cartella per contenere tutto ciò che farete nelle missioni.
 
 Aggiungi te stesso come persona in Marketo in modo da poter inviare le e-mail di prova a te stesso in un secondo momento.
 
-1. Passare all&#39;area **Database** .
+1. Passare all&#39;area **Database**.
 
    ![](assets/db.png)
 
-1. Fate clic sul menu a **discesa Nuovo** e selezionate **Nuova persona**.
+1. Fare clic sul menu a discesa **New** e selezionare **New Person**.
 
    ![](assets/seven.png)
 
@@ -61,11 +61,11 @@ Aggiungi te stesso come persona in Marketo in modo da poter inviare le e-mail di
 
    ![](assets/nine.png)
 
-1. Fate clic sulla scheda **Persone** . Dovresti vedere te stesso nel database.
+1. Fare clic sulla scheda **Persone**. Dovresti vedere te stesso nel database.
 
    ![](assets/ten.png)
 
-## Impostazione completata {#set-up-complete}
+## Impostazione completa {#set-up-complete}
 
 Siete pronti a iniziare la vostra prima missione!
 
