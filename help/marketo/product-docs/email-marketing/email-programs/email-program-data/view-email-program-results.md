@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Visualizza risultati del programma e-mail {#view-email-program-results}
+# Visualizza risultati programma e-mail {#view-email-program-results}
 
 Come la scheda Risultati nelle campagne intelligenti, potete visualizzare le stesse informazioni nei programmi e-mail.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ Come la scheda Risultati nelle campagne intelligenti, potete visualizzare le ste
    >
    >Se il programma e-mail è già in esecuzione, verrete indirizzati direttamente al dashboard del programma e-mail.
 
-1. In **Visualizza**, selezionare **Pannello di controllo Campaign**.
+1. In **View**, selezionare **Pannello di controllo Campaign**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Nella sezione **Pubblico** , fate clic su **Visualizza risultati**.
+1. Sotto la sezione **Audience**, fare clic su **Visualizza risultati**.
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ Come la scheda Risultati nelle campagne intelligenti, potete visualizzare le ste
 >
 >**Tubo profondo**
 >
->Vuoi saperne di più sui programmi [](http://docs.marketo.com/display/docs/email+program+actions)e-mail?
+>Vuoi saperne di più su [Programmi e-mail](http://docs.marketo.com/display/docs/email+program+actions)?
 
