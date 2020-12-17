@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rimuovi da flusso {#remove-from-flow}
+# Rimuovi da Flusso {#remove-from-flow}
 
 Immaginate di avere un flusso di campagne intelligente che utilizza &quot;Invia avviso&quot; per ricordare a un rappresentante di vendita di chiamare un potenziali clienti. Invia un messaggio ogni giorno fino a quando il rappresentante non effettua la chiamata. È possibile utilizzare &quot;Remove from Flow&quot; in una campagna di attivazione una volta che il potenziale è stato contattato per interrompere ulteriori avvisi. È come un seggiolino di espulsione intelligente per una persona.
 
@@ -21,7 +21,7 @@ Immaginate di avere un flusso di campagne intelligente che utilizza &quot;Invia 
 
 ## Panoramica {#overview}
 
-Potete rimuovere le persone dal flusso di una campagna utilizzando il passaggio **Rimuovi dal flusso di flusso** .
+È possibile rimuovere le persone dal flusso di una campagna utilizzando il passaggio di flusso **Rimuovi da Flusso**.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +33,7 @@ Individuate e selezionate la campagna intelligente da cui desiderate rimuovere l
 
 >[!NOTE]
 >
->Potete scegliere una campagna intelligente specifica oppure &quot;questa campagna&quot; nel menu a discesa **Campagna** per selezionare la campagna in cui vi trovate fisicamente.
+>Potete scegliere una campagna intelligente specifica oppure &quot;questa campagna&quot; nel menu a discesa **Campaign** per selezionare la campagna in cui vi trovate fisicamente al momento.
 
 >[!NOTE]
 >
