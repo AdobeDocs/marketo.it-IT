@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se cercate più volte un set specifico di campi nei dettagli delle persone, provate a creare un layout personalizzato per semplificare le cose.
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Fare clic sulla scheda **Custom Layout Designer** .
+1. Fare clic sulla scheda **Designer layout personalizzato**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
