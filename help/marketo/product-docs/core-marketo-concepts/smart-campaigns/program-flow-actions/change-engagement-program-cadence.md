@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Selezionate **Pausa** come **Nuovo valore** per impedire alla persona di ricevere contenuto.
+1. Selezionare **Paused** come **New Value** per impedire alla persona di ricevere contenuti.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Potete ripristinare la persona su **Normale** se desiderate che inizi nuovamente a ricevere il contenuto.
+   È possibile impostare nuovamente la persona su **Normale** se si desidera che inizi nuovamente a ricevere il contenuto.
 
