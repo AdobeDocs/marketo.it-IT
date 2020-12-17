@@ -18,7 +18,7 @@ ht-degree: 0%
 >* [Aggiunta di un passaggio di flusso a una campagna intelligente](add-a-flow-step-to-a-smart-campaign.md)
 
 
-Un token è una variabile. Potete utilizzarlo nelle e- [mail](https://docs.marketo.com/pages/viewpage.action?pageId=557076), nelle pagine [di](https://docs.marketo.com/pages/viewpage.action?pageId=2359689)destinazione e nelle campagne [](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) intelligenti per semplificare la vostra vita. È possibile utilizzare i token [](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) personali (token personalizzati) in passaggi di flusso, collegamenti Web, e-mail e pagine di destinazione.  È possibile utilizzare i token per includere il contenuto variabile nei seguenti passaggi di flusso:
+Un token è una variabile. Lo si utilizza nelle [e-mail](https://docs.marketo.com/pages/viewpage.action?pageId=557076), [pagine di destinazione](https://docs.marketo.com/pages/viewpage.action?pageId=2359689) e nelle [campagne intelligenti](https://docs.marketo.com/display/DOCS/Smart+Lists+and+Lists) per semplificare la vita. È possibile utilizzare [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (token personalizzati) in passaggi di flusso, webhooks, e-mail e pagine di destinazione.  È possibile utilizzare i token per includere il contenuto variabile nei seguenti passaggi di flusso:
 
 * Modifica valore dati
 * Momento interessante
@@ -32,13 +32,13 @@ Un token è una variabile. Potete utilizzarlo nelle e- [mail](https://docs.marke
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie di token. ![](assets/image2014-9-22-14-3a3-3a17.png)>
+1. Nella fase di flusso, iniziate a digitare `{{` per ottenere le categorie di token. ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
    >**Tubo profondo**
    >
-   >Consulta Panoramica [](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) token per un elenco di diversi token disponibili.
+   >Per un elenco dei diversi token disponibili, consultare [Panoramica token](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
 
 1. Continuate a digitare fino a trovare il token desiderato e fate clic per selezionarlo.
 
