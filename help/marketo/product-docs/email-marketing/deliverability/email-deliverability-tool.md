@@ -21,11 +21,11 @@ Lo strumento di recapito e-mail di Marketo fornisce un’unica applicazione per 
 >
 >Non tutti i clienti dispongono dello strumento di recapito tramite e-mail. Per ulteriori informazioni, contattate il rappresentante commerciale.
 
-Per ulteriori informazioni su questa funzione, consulta [Email Deliverability PowerPack su Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
+Per ulteriori informazioni su questa funzione, consultare il [Email Deliverability PowerPack on Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
->Per istruzioni specifiche, fare riferimento alla Guida [utente](https://250ok.com/guides/marketo/)per la distribuzione marketing.
+>Per istruzioni specifiche, fare riferimento alla Guida per l&#39;utente [Consegna ](https://250ok.com/guides/marketo/) di Marketo.
 
