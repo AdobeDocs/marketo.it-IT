@@ -22,7 +22,7 @@ Uscite a pranzo ma dovete riprogrammare un&#39;e-mail? L&#39;app Marketo Moments
 ## Aggiornamento editor Rich Text {#rich-text-editor-update}
 
 Editor di testo aggiornato con aspetto e aspetto moderni, con formattazione del testo semplificata, modifica delle immagini, inserimento di collegamenti e modifica HTML. L&#39;editor HTML ora dispone di una convalida minima, che consente di modificare il codice in modo meno restrittivo.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà automaticamente distribuito entro pochi giorni dal rilascio di luglio. In seguito, potrai passare dalle versioni Nuovo a quelle Legacy dell’editor da **Admin (Amministratore) > Email (E-mail) > Edit Editor Settings (Modifica impostazioni** editor) e viceversa. Se riscontri dei problemi con la nuova versione dell&#39;editor di testo, ti consigliamo di saperlo! Invia una breve descrizione a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà automaticamente distribuito entro pochi giorni dal rilascio di luglio. In seguito, potrai passare dalle versioni Nuovo a quelle Legacy dell&#39;editor da **Admin > Email > Edit Editor Settings** (Amministratore > E-mail > Modifica impostazioni editor). Se riscontri dei problemi con la nuova versione dell&#39;editor di testo, ti consigliamo di saperlo! Invia una breve descrizione a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -46,7 +46,7 @@ Hai creato diverse campagne RTP personalizzate e hai notato che alcune di esse p
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
-## API società {#company-api}
+## API della società {#company-api}
 
 **Accesso agli oggetti aziendali tramite REST API**: L&#39;API REST ora fornisce l&#39;accesso alla società Marketo (alias Account). Questo significa che puoi leggere, aggiornare ed eliminare gli oggetti aziendali creati in Marketo e associare i lead con tali società utilizzando l&#39;API Lead aggiornata.
 
