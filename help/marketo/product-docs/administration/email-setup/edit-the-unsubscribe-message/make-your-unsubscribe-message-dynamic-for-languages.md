@@ -20,23 +20,23 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
 >Abbiamo preparato questa piccola esercitazione qui sotto per voi. Rappresenta una procedura ottimale, ma può essere eseguita in altri modi.
 
 1. Preparare i dati
-1. [Create un](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)campo personalizzato denominato &quot;Lingua preferita&quot;. (Configuratelo in CRM se desiderate che questo campo sia sincronizzato).
+1. [Create un ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)campo personalizzato denominato &quot;Lingua preferita&quot;. (Configuratelo in CRM se desiderate che questo campo sia sincronizzato).
 
    >[!TIP]
    >
-   >In futuro, utilizzare questo campo quando si [crea un modulo](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) per acquisire le preferenze della lingua.
+   >In futuro, utilizzare questo campo quando si [crea un modulo](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) per acquisire le preferenze per la lingua.
 
 1. Crea segmentazione
-1. Vai al **database**.
+1. Accedere al **Database**.
 ** ![](assets/db.png)
 
    **
 
-1. Nel menu a discesa **Nuovo** , fai clic su **Nuova segmentazione**.
+1. Nel menu a discesa **New**, fare clic su **New Segmentation** (Nuova segmentazione).
 
    ![](assets/two.png)
 
-1. Denominate la segmentazione **Preferred Language (Lingua** preferita). Fate clic su **Aggiungi segmento**. Digita una lingua.
+1. Denominate la segmentazione **Lingua preferita**. Fare clic su **Aggiungi segmento**. Digita una lingua.
 
    ![](assets/image2015-3-9-8-3a33-3a44.png)
 
@@ -44,7 +44,7 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
    >
    >Il segmento predefinito è Inglese.
 
-1. Continua ad aggiungere segmenti fino a quando tutte le tue lingue non saranno rappresentate. Fate clic su **Crea**.
+1. Continua ad aggiungere segmenti fino a quando tutte le tue lingue non saranno rappresentate. Fare clic su **Crea**.
 
    ![](assets/image2015-3-9-8-3a38-3a5.png)
 
@@ -52,7 +52,7 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Passate alla scheda Elenco **** avanzato. Immettere **Preferred Language** nel campo di ricerca. Trascinate e rilasciate il filtro sul quadro.
+1. Passate alla scheda **Smart List**. Immettere **Lingua preferita** nel campo di ricerca. Trascinate e rilasciate il filtro sul quadro.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
 
    ![](assets/seven.png)
 
-1. Ripetere questa operazione per tutte le lingue. Quindi, seleziona il menu a discesa Azioni **di** segmentazione e fai clic su **Approva**.
+1. Ripetere questa operazione per tutte le lingue. Quindi, selezionate il menu a discesa **Azioni segmentazione** e fate clic su **Approva**.
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
@@ -69,13 +69,13 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
 
    ![](assets/ds.png)
 
-1. Nel menu a discesa **Nuovo** , fate clic su **Nuovo snippet**.
+1. Nel menu a discesa **New**, fare clic su **New Snippet**.
 
    ** ![](assets/ten.png)
 
    **
 
-1. Denominate lo snippet **Cancella sottoscrizione**. Fate clic su **Crea**.
+1. Denominate lo snippet **Annulla sottoscrizione a messaggio**. Fare clic su **Crea**.
 
    ![](assets/image2015-3-9-8-3a40-3a54.png)
 
@@ -83,15 +83,15 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copiate e incollate questo token: **`{{system.unsubscribeLink}}`** nel campo URL **** collegamento. Fate clic su **Inserisci**.
+1. Copiate e incollate questo token: **`{{system.unsubscribeLink}}`** nel campo **Collega URL**. Fare clic su **Inserisci**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
-1. Selezionare **Segmento per** nella sezione Segmentazione.
+1. Selezionare **Segment By** nella sezione Segmentazione.
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
-1. Dal menu a discesa Segmentazione, digitate **Preferred (Preferito** ) e selezionate **Preferred Language (Lingua** preferita). Fate clic su **Salva**.
+1. Dal menu a discesa Segmentazione, digitare **Preferred** e selezionare **Preferred Language**. Fare clic su **Salva**.
 
    ![](assets/image2015-3-9-8-3a44-3a32.png)
 
@@ -99,22 +99,22 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copiate e incollate lo stesso token: **`{{system.unsubscribeLink}}`** nel campo URL **** collegamento. Fate clic su **Inserisci**.
+1. Copiate e incollate lo stesso token: **`{{system.unsubscribeLink}}`** nel campo **Collega URL**. Fare clic su **Inserisci**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. Ripetete la procedura per tutti i segmenti. Quindi, tornate a Design Studio, fate clic sul menu a discesa Azioni **frammento e fate clic su** Approva ****.
+1. Ripetete la procedura per tutti i segmenti. Quindi, tornare a Design Studio, fare clic sul menu a discesa **Azioni snippet**, quindi fare clic su **Approva**.
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 
    Fantastico. Quasi lì.
 
 1. Utilizzare lo snippet in un messaggio e-mail
-1. All’interno dell’editor e-mail, fate clic sull’elemento modificabile. Fate clic sull’icona a forma di ingranaggio e selezionate **Sostituisci con snippet**. Se selezionate un elemento snippet modificabile, fate clic sull’icona a forma di ingranaggio e selezionate **Modifica**.
+1. All’interno dell’editor e-mail, fate clic sull’elemento modificabile. Fate clic sull&#39;icona dell&#39;ingranaggio e selezionate **Sostituisci con snippet**. Se state selezionando un elemento snippet modificabile, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Edit**.
 
    ![](assets/4.1.png)
 
-1. Trova e seleziona lo snippet dal menu a discesa e fai clic su **Salva**.
+1. Trova e seleziona il frammento dal menu a discesa e fai clic su **Salva**.
 
    ![](assets/image2015-3-9-8-3a50-3a16.png)
 
@@ -122,7 +122,7 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
 
    ![](assets/4.3.png)
 
-1. ...quindi la scheda **Dinamico** .
+1. ...quindi la scheda **Dynamic**.
 
    ![](assets/4.4.png)
 
@@ -165,5 +165,5 @@ Il messaggio e il collegamento di annullamento della sottoscrizione predefiniti 
    >**Tubo profondo**
    >
    >
-   >Scopri di più sul contenuto [](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) dinamico e su tutte le attività interessanti che puoi realizzare.
+   >Scopri di più su [contenuti dinamici](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e su tutte le cose interessanti che puoi fare.
 
