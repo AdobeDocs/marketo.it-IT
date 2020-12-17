@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Potete sovrascrivere il dominio con il marchio principale in base alle e-mail. Questo cambierà il marchio dei collegamenti quando questi vengono inviati.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate un messaggio e-mail e fate clic su **Modifica bozza**.
+1. Selezionate un&#39;e-mail e fate clic su **Modifica bozza**.
 
    ![](assets/image2016-8-26-11-3a48-3a7.png)
 
