@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di un dominio di branding aggiuntivo con Workspaces {#add-an-additional-branding-domain-with-workspaces}
+# Aggiungi un dominio di branding aggiuntivo con aree di lavoro {#add-an-additional-branding-domain-with-workspaces}
 
 Se disponete di aree di lavoro, potete aggiungere altri domini di branding.
 
 >[!PREREQUISITES]
 >
->È necessario [modificare prima il dominio](edit-your-default-branding-domain.md) di branding predefinito.
+>È necessario [modificare prima il dominio di branding predefinito](edit-your-default-branding-domain.md).
 >
->Prima di aggiungere altri domini di branding, devi [sostituire il collegamento](edit-your-default-branding-domain-with-workspaces.md) di tracciamento generico con un dominio di branding.
+>Prima di aggiungere altri domini di branding, è necessario sostituire il collegamento di tracciamento generico [ con un dominio di branding.](edit-your-default-branding-domain-with-workspaces.md)
 
-1. Vai a **Admin **e fai clic su **E-mail**.
+1. Vai a **Admin **e fai clic su **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -29,7 +29,7 @@ Se disponete di aree di lavoro, potete aggiungere altri domini di branding.
 
    ![](assets/branding-domains-add-workspaces.png)
 
-1. Immettete un nuovo dominio di branding. Fate clic su **Avanti**.
+1. Immettete un nuovo dominio di branding. Fare clic su **Next**.
 
    ![](assets/new-branding-domain-8-31.png)
 
