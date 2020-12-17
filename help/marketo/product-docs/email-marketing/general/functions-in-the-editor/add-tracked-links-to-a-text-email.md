@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di collegamenti tracciati a un messaggio e-mail di testo {#add-tracked-links-to-a-text-email}
+# Aggiungere collegamenti tracciati a un&#39;e-mail di testo {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
