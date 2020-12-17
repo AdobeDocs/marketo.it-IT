@@ -35,7 +35,7 @@ Utilizzo della gerarchia
 >
 >L&#39;interfaccia di Marketo verrà visualizzata solo fino a 10 livelli in basso (account figlio e nipote dell&#39;account padre), ma non vi è alcun limite al numero di account figlio che è possibile creare.
 
-Esegue il targeting e il report su intere gerarchie con [un solo clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Esegue il targeting e il report su intere gerarchie con [un clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
 
 ![](assets/member.png)
 
