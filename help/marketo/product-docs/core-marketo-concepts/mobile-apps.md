@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# App per dispositivi mobili {#mobile-apps}
+# App mobili {#mobile-apps}
 
-** ![Check-in](assets/mobile-checkin-icon.png)eventi Check-in** [Check-in eventi per i clienti del check-in eventi da un tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Marketo](assets/moments-icon.png)MomentsMarketo Moments** [Marketo Moments Vedere cosa è importante, quando è importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+** ![Check-in evento](assets/mobile-checkin-icon.png)Check-in evento** [Check-in evento dei clienti agli eventi da un tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **  ![Marketo ](assets/moments-icon.png)MomentsMarketo Moments**  [Marketo Moments Vedere cosa è importante, quando è importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
