@@ -21,7 +21,7 @@ I risultati mostrano tutti gli account noti suddivisi per grado. A è il grado p
 
 ![](assets/results.png)
 
-Anche se opzionale, si consiglia di selezionare la casella di controllo Promuovi automaticamente, in quanto consente di risparmiare un sacco di tempo. Tuttavia, se desiderate esaminare ciascun account e [aggiungerlo manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), lasciate la casella deselezionata.
+Anche se opzionale, si consiglia di selezionare la casella di controllo Promuovi automaticamente, in quanto consente di risparmiare un sacco di tempo. Tuttavia, se si desidera esaminare ciascun account e [aggiungerlo manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), è sufficiente lasciare deselezionata la casella.
 
 <table> 
  <tbody> 
@@ -89,13 +89,13 @@ Fate clic sul menu a discesa Aggiungi indicatore ICP per inserire altri indicato
 
 ![](assets/add-icp.png)
 
-Selezionando la casella Esporta è possibile visualizzare l&#39;indicatore ICP nella pagina Dettagli conto denominato, nonché utilizzare l&#39;indicatore ICP selezionato come vincoli nei filtri [account](http://docs.marketo.com/display/DOCS/Account+Filters)denominati.
+Selezionando la casella Esporta è possibile visualizzare l&#39;indicatore ICP nella pagina Dettagli account denominato, nonché utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](http://docs.marketo.com/display/DOCS/Account+Filters).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Gli indicatori ICP sono inclusi come vincoli in **Membro dei filtri e attivatori di conto** denominato.
+>Gli indicatori ICP sono inclusi come vincoli in **Membro di Account denominato** Filtri e attivatori.
 
 Spessore indicatore è ciò che controlla il livello di importanza che ogni indicatore riceve nel modello.
 
@@ -105,7 +105,7 @@ Fate clic su Aggiorna modello per rendere effettive le modifiche.
 
 ![](assets/refresh-button.png)
 
-Una volta sintonizzato il modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica blocchi**.
+Una volta completata l&#39;ottimizzazione del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica blocchi**.
 
 ![](assets/ranks.png)
 
