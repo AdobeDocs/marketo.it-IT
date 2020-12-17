@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Utilizzare il Pannello programma e-mail - Visualizzazione test A/B {#use-the-email-program-dashboard-a-b-test-view}
+# Utilizzare il dashboard del programma e-mail - Visualizzazione test A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Scopri le prestazioni del test [A/B del programma](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) e-mail con questo dashboard.
+Verificare le prestazioni del [programma di posta elettronica A/B test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) con questo dashboard.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -23,7 +23,7 @@ Qui puoi vedere il totale consegnato e le suddivisioni per varianti.
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## Clic {#clicks}
+## Clic su {#clicks}
 
 Qui puoi vedere quanti clic ha ciascuna variante.
 
