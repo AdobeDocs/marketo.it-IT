@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi Munchkin Tracking Code al tuo sito Web {#add-munchkin-tracking-code-to-your-website}
+# Aggiungi il codice di monitoraggio Munchkin al tuo sito Web {#add-munchkin-tracking-code-to-your-website}
 
 Il codice di tracciamento JavaScript personalizzato di Marketo, chiamato Munchkin, tiene traccia di tutti gli utenti che visitano il sito Web e potrai reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati con i loro indirizzi IP e altre informazioni. ** Senza questo codice di tracciamento, non potrai monitorare visite o altre attività sul tuo sito web!**
 
@@ -23,9 +23,9 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, chiamato Munchki
 
 >[!NOTE]
 >
->I clienti Adobe Experience Cloud possono inoltre utilizzare l&#39;integrazione di Marketo  Launch Adobe per includere nelle proprie pagine Web lo script Munchkin. Acquista l&#39;app [qui](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>I clienti Adobe Experience Cloud possono inoltre utilizzare l&#39;integrazione di Marketo  Launch Adobe per includere nelle proprie pagine Web lo script Munchkin. Scarica l&#39;app [qui](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
-1. Vai ad **Admin** e fai clic su **Munchkin** nella struttura ad albero a sinistra.
+1. Accedete a **Admin** e fate clic su **Munchkin** nella struttura ad albero a sinistra.
 
    ![](assets/image2015-8-25-16-3a21-3a14.png)
 
@@ -49,7 +49,7 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, chiamato Munchki
    >
    >Inserite il codice di tracciamento nelle pagine Web da monitorare. Può trattarsi di ogni pagina per siti più piccoli, o solo di pagine chiave per siti con molte pagine Web generate in modo dinamico, forum utenti e così via.
 
-   Per risultati ottimali, usate il codice Munchkin asincrono e inseritelo negli `<head>` elementi delle pagine. Se si utilizza un codice semplice (non consigliato), questo è immediatamente prima del `</body>` tag .
+   Per risultati ottimali, usate il codice Munchkin asincrono e inseritelo negli elementi `<head>` delle pagine. Se si utilizza il codice semplice (non consigliato), questo è immediatamente prima del tag `</body>`.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
@@ -84,7 +84,7 @@ Se utilizzate Workspaces nell’account Marketo, probabilmente avrete anche dive
 >
 >Non utilizzate il codice mostrato in questa schermata; dovete usare il codice univoco che appare nel vostro account!
 
-1. Inserite il codice di tracciamento nelle pagine Web nell’ `<head>` elemento . Le nuove persone che visitano questa pagina verranno assegnate a questa partizione.
+1. Inserite il codice di tracciamento nelle pagine Web nell&#39;elemento `<head>`. Le nuove persone che visitano questa pagina verranno assegnate a questa partizione.
 
 ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -109,19 +109,19 @@ Ci sono 3 tipi di codici di monitoraggio Munchkin tra cui potete scegliere. Ogni
 Per verificare che il codice Munchkin funzioni dopo averlo aggiunto:
 
 1. Visita la tua pagina Web.
-1. Vai ad **Analytics**.
+1. Vai a **Analytics**.
 
    ![](assets/mainnav-analytics-hand.png)
 
-1. Fare clic su Attività **pagina** Web.
+1. Fare clic su **Attività pagina Web**.
 
    ![](assets/webanalytics.png)
 
-1. Fate clic sulla scheda **Configurazione** , fate doppio clic su Origine **** attività e cambiate la scheda Visitatori **anonimi (inclusi i provider di servizi Internet)**.
+1. Fare clic sulla scheda **Configurazione**, fare doppio clic su **Origine attività** e modificarla in **Visitatori anonimi (inclusi ISP)**.
 
    ![](assets/analytics-activity-source.png)
 
    ![](assets/activitysource.png)
 
-1. Fate clic sulla scheda **Rapporto** . Se non visualizzi alcun dato, attendi alcuni minuti, quindi fai clic sull&#39;icona di aggiornamento in basso.
+1. Fare clic sulla scheda **Report**. Se non visualizzi alcun dato, attendi alcuni minuti, quindi fai clic sull&#39;icona di aggiornamento in basso.
 
