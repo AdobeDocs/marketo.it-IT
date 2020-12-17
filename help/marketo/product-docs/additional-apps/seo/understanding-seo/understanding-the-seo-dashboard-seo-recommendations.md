@@ -19,9 +19,9 @@ Utilizzate il dashboard per ottenere una visualizzazione di alto livello delle t
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Problemi di ottimizzazione delle pagine principali {#top-page-optimization-issues}
+## Problemi principali di ottimizzazione delle pagine {#top-page-optimization-issues}
 
-Questo vi mostrerà cinque metodi ad alto impatto per iniziare subito a ottimizzare il vostro sito! È sufficiente fare clic su uno dei collegamenti per visualizzare l&#39;intera sezione Dettagli [pagina](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Questo vi mostrerà cinque metodi ad alto impatto per iniziare subito a ottimizzare il vostro sito! Basta fare clic su uno dei collegamenti per visualizzare il percorso completo [Dettagli pagina](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
