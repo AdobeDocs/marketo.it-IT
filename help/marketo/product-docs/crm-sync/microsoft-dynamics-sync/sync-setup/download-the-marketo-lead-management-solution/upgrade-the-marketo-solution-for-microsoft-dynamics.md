@@ -21,17 +21,17 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente *prima* di eseguire qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente *prima di* eseguire qualsiasi aggiornamento.
 
 1. Vai all&#39;area **Admin **e.
 
    ![](assets/admin.png)
 
-1. Fate clic su **Microsoft Dynamics**.
+1. Fare clic su **Microsoft Dynamics**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Selezionate **Scarica soluzione** Marketo.
+1. Selezionare **Scarica la soluzione Marketo**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
