@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Pannello di coinvolgimento {#the-engagement-dashboard}
 
-Il Pannello di coinvolgimento è il modo più semplice per vedere le prestazioni del contenuto nei programmi [di](http://docs.marketo.com/display/docs/drip+nurturing) coinvolgimento.
+Il Pannello di coinvolgimento è il modo più semplice per vedere le prestazioni del contenuto nei [programmi di coinvolgimento](http://docs.marketo.com/display/docs/drip+nurturing).
 
 >[!NOTE]
 >
->Il punteggio di coinvolgimento è calcolato 72 ore dopo ogni cast. Ulteriori informazioni sul punteggio relativo al [coinvolgimento](understanding-the-engagement-score.md).
+>Il punteggio di coinvolgimento è calcolato 72 ore dopo ogni cast. Ulteriori informazioni sul punteggio di coinvolgimento [](understanding-the-engagement-score.md).
 
-## Visualizzare il pannello Partecipazione {#view-the-engagement-dashboard}
+## Visualizza il pannello Partecipazione {#view-the-engagement-dashboard}
 
 Selezionate il programma di coinvolgimento e fate clic su **Visualizza > Dashboard**.
 
@@ -27,9 +27,9 @@ Selezionate il programma di coinvolgimento e fate clic su **Visualizza > Dashboa
 
 >[!TIP]
 >
->Per statistiche più dettagliate, consulta il rapporto [sulle prestazioni del flusso di](engagement-stream-performance-report.md) coinvolgimento.
+>Per informazioni statistiche più dettagliate, consultare il [report sulle prestazioni del flusso di coinvolgimento](engagement-stream-performance-report.md).
 
-## Comprendere il widget Esaurimento {#understand-the-exhaustion-widget}
+## Comprendere il widget di esaurimento {#understand-the-exhaustion-widget}
 
 Questo widget consente di anticipare quando i lead avranno esaurito tutto il contenuto. Il punteggio di esaurimento viene calcolato immediatamente dopo ogni cast. L’esempio seguente mostra che in 1 cast, 195 lead avranno esaurito tutto il contenuto.
 
@@ -37,7 +37,7 @@ Questo widget consente di anticipare quando i lead avranno esaurito tutto il con
 
 >[!NOTE]
 >
->Per visualizzare il grafico qui sopra, è necessario accedere alla scheda Configurazione e assicurarsi che le notifiche di contenuto con esaurimento siano **attivate** . Se sono spenti, il grafico avrà un aspetto diverso.
+>Per visualizzare il grafico, è necessario accedere alla scheda Configurazione e assicurarsi che le notifiche di contenuto con esaurimento siano **On**. Se sono spenti, il grafico avrà un aspetto diverso.
 
 >[!CAUTION]
 >
@@ -59,7 +59,7 @@ Per visualizzare un singolo contenuto invece di una media, fate clic sull’icon
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## Comprendere il Widget di coinvolgimento più alto {#understand-the-highest-engagement-widget}
+## Comprendere il widget di coinvolgimento più alto {#understand-the-highest-engagement-widget}
 
 Un elenco di tutti i contenuti, ordinati in base al punteggio di coinvolgimento più alto.
 
@@ -69,11 +69,11 @@ Per modificare l&#39;ordinamento, fare clic sull&#39;icona a forma di ingranaggi
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Ultimi* e *meno recenti* si basano sull’ora dell’ultima approvazione.
+*Edicola* e  ** Oldefissare sulla base del tempo dell&#39;ultima approvazione.
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
->Scopri di più in [Creazione di un programma](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) di coinvolgimento.
+>Per saperne di più, consulta la sezione [Creazione di un programma di coinvolgimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).
 
