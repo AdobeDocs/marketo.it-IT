@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-Ora che avete [creato un elenco](create-a-smart-list.md) avanzato e vi avete [aggiunto dei filtri](find-and-add-filters-to-a-smart-list.md) , definiamo i filtri. Ecco come.
+Ora che avete [creato un elenco smart ](create-a-smart-list.md) e [aggiunto dei filtri](find-and-add-filters-to-a-smart-list.md), definiamo i filtri. Ecco come.
 
 Continuando il nostro esempio, definiamo questi filtri per trovare tutte le persone in California con un punteggio superiore a 50.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionate l’elenco avanzato e fate clic sulla scheda Elenco **** avanzato.
+1. Selezionare l&#39;elenco smart e fare clic sulla scheda **Smart List**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Trova e seleziona **CA** per il filtro **Stato** .
+1. Trovare e selezionare **CA** per il filtro **State**.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,9 +43,9 @@ Continuando il nostro esempio, definiamo questi filtri per trovare tutte le pers
    >**Promemoria**
    >
    >
-   >È possibile memorizzare sia **California** che **CA**. Per filtrare entrambi i valori e includere *tutti *gli abitanti della California, scopri come [aggiungere più valori a un filtro](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)smart list.
+   >È possibile memorizzare sia **California** che **CA**. Per filtrare entrambi i valori e includere *tutte le persone della California, imparare ad [aggiungere più valori a un filtro di elenco intelligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
-1. Selezionare l&#39;operatore **maggiore** e immettere **50**.
+1. Selezionare l&#39;operatore **maggiore di** e immettere **50**.
 
    ![](assets/smartlistfilter-personscore.png)
 
@@ -55,5 +55,5 @@ Continuando il nostro esempio, definiamo questi filtri per trovare tutte le pers
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sugli elenchi [smart ed elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)statici.
+>Ulteriori informazioni sugli [elenchi smart ed elenchi statici](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
