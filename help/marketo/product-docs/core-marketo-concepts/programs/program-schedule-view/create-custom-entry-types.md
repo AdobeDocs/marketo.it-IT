@@ -15,15 +15,15 @@ ht-degree: 0%
 
 È possibile creare tipi di voci personalizzati da utilizzare nella vista Pianificazione programma. Questo ti permetterà di tenere traccia di tutti i tuoi elementi di agenda non Marketo che interessano il tuo programma.
 
-1. Andate alla sezione **Admin** e fate clic su **Tag**.
+1. Andate alla sezione **Admin** e fate clic su **Tags**.
 
    ![](assets/admintags.png)
 
-1. Fare clic su Tipo **voce** calendario.
+1. Fare clic su **Tipo voce calendario**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Fare clic sul menu a **discesa Nuovo** e selezionare Tipo **** voce.
+1. Fare clic sul menu a discesa **New** e selezionare **Entry Type**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Selezionare un colore **di** immissione.
+1. Selezionare un **colore voce**.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 
