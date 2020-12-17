@@ -24,14 +24,14 @@ Se disponete di una vecchia campagna intelligente di cui non avete più bisogno,
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
 
-1. Nell&#39; [!UICONTROL Campaign Actions] elenco a discesa selezionare **[!UICONTROL Delete]**.
+1. Nell&#39;elenco a discesa [!UICONTROL Campaign Actions] selezionare **[!UICONTROL Delete]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Per annullare l&#39;elaborazione di una campagna intelligente attiva senza eliminarla, scopri come [interrompere una campagna](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)intelligente.
+   >Per annullare l&#39;elaborazione di una campagna intelligente attiva senza eliminarla, scopri come [interrompere una campagna intelligente](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign).
 
-1. Fate clic **[!UICONTROL Confirm]**.
+1. Fare clic su **[!UICONTROL Confirm]**.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
