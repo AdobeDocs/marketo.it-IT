@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Creare un ruolo utente solo API {#create-an-api-only-user-role}
+# Creare un ruolo utente di sola API {#create-an-api-only-user-role}
 
-Se desiderate effettuare l&#39;integrazione con Marketo tramite l&#39;API [](http://developers.marketo.com/documentation/rest/)REST, è consigliabile [assegnare a un utente il ruolo](create-an-api-only-user.md) Solo API e quindi [creare un servizio personalizzato da utilizzare con l&#39;API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)ReST. Di seguito viene illustrato come creare il ruolo utente solo dell&#39;API.
+Se desiderate integrare Marketo tramite l&#39;API [REST](http://developers.marketo.com/documentation/rest/), è consigliabile [assegnare a un utente il ruolo Solo API](create-an-api-only-user.md) e quindi [creare un servizio personalizzato da utilizzare con l&#39;API ReST](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene illustrato come creare il ruolo utente solo dell&#39;API.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Da My Marketo, fai clic su **Admin**.
+1. Da My Marketo, fare clic su **Admin**.
 
    ![](assets/adminhand-1.png)
 
-1. In Protezione, fate clic su **Utenti e ruoli**.
+1. In Protezione, fare clic su **Utenti e ruoli**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Se desiderate effettuare l&#39;integrazione con Marketo tramite l&#39;API [](htt
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
-1. Immettete un Nome ruolo, selezionate le autorizzazioni di accesso API da concedere e fate clic su **Crea.**
+1. Immettete un nome ruolo, selezionate le autorizzazioni di accesso API che desiderate concedere e fate clic su **Crea.**
 
    ![](assets/image2014-9-16-13-3a47-3a36.png)
 
@@ -41,5 +41,5 @@ Se desiderate effettuare l&#39;integrazione con Marketo tramite l&#39;API [](htt
 
 >[!MORELIKETHIS]
 >
->Ok, ben fatto! Ora [create un utente](create-an-api-only-user.md)Solo API.
+>Ok, ben fatto! Ora [create un utente Solo API](create-an-api-only-user.md).
 
