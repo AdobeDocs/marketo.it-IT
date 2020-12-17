@@ -27,7 +27,7 @@ I filtri Opportunità consentono di approfondire i lead Salesforce che dispongon
 * Opportunità rimossa
 * Opportunità aggiornata
 
-Se cercate i campi Opportunità (personalizzati o standard), utilizzate il filtro **Con opportunità** o **Opportunità come`[Added/Removed/Updated]`** filtri o attivatori.
+Se cercate i campi Opportunità (personalizzati o standard), utilizzate il filtro **Con opportunità** o **Opportunità era`[Added/Removed/Updated]`** filtri o attivatori.
 
 **Numero di opzioni, importo totale dell&#39;opzione, ricavi previsti dell&#39;opzione totale**
 
@@ -37,19 +37,19 @@ Grazie a questi filtri è possibile individuare i lead in base al numero totale,
 
 **Ha un&#39;opportunità, è stata aggiunta all&#39;opportunità, è stata rimossa dall&#39;opportunità**
 
-Se cercate lead con opportunità basate su una combinazione di criteri, utilizzate **Con opportunità**, **È stato aggiunto all&#39;opportunità** o **È stato rimosso dal filtro Opportunità** . Vi dicono:
+Se cercate lead con opportunità basate su una combinazione di criteri, utilizzate il filtro **Con opportunità**, **È stato aggiunto a opportunità** o **È stato rimosso dal filtro Opportunità**. Vi dicono:
 
 * **Presenta opportunità**: Se questo lead dispone attualmente di un&#39;opportunità di corrispondenza
 * **È stato aggiunto all&#39;opportunità**: Se questo lead è stato aggiunto a un&#39;opportunità di corrispondenza
 * **È stato rimosso dall&#39;opportunità**: Se questo lead è stato rimosso da un&#39;opportunità di corrispondenza
 
-Aggiungi i criteri di ricerca come **Vincoli** sul filtro. I vincoli includono i campi standard delle opportunità e personalizzati:
+Aggiungete i criteri di ricerca come **Vincoli** sul filtro. I vincoli includono i campi standard delle opportunità e personalizzati:
 
 ![](assets/image2015-6-11-12-3a31-3a0.png)
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Ad esempio, supponiamo di voler trovare lead con opportunità aperte di almeno $5.000. Trascinate nel filtro **Con opportunità** e utilizzate i vincoli **È chiuso** e **Importo** :
+Ad esempio, supponiamo di voler trovare lead con opportunità aperte di almeno $5.000. Trascinare nel filtro **Con opportunità** e utilizzare i vincoli **È chiusa** e **Importo**:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -59,7 +59,7 @@ Ad esempio, supponiamo di voler trovare lead con opportunità aperte di almeno $
 
 **Opportunità aggiornata**
 
-Il filtro **Opportunità è stato aggiornato** cerca qualsiasi opportunità quando un campo opportunità specifico è stato aggiornato. Selezionare il campo da controllare con il pulldown Attributo attivatore, quindi utilizzare i vincoli per restringere il set di modifiche.
+Il filtro **Opportunità è stata aggiornata** cerca qualsiasi opportunità quando un campo opportunità specifico è stato aggiornato. Selezionare il campo da controllare con il pulldown Attributo attivatore, quindi utilizzare i vincoli per restringere il set di modifiche.
 
 Ad esempio, questo filtro mostrerà tutti i lead che hanno subito una modifica della data di chiusura negli ultimi 30 giorni:
 
@@ -77,7 +77,7 @@ Ad esempio, potete utilizzare questo Smart List per attivare eventuali lead aggi
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Per disattivare i campi personalizzati delle opportunità, utilizza l&#39;attivatore **Opportunità è aggiornato** e scegli il campo nel pulldown:
+Per attivare i campi personalizzati delle opportunità, utilizzare l&#39;attivatore **Opportunità è stata aggiornata** e selezionare il campo nel pulldown:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
 
