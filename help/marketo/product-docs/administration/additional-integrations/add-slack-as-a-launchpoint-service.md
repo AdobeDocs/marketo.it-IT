@@ -24,21 +24,21 @@ L&#39;integrazione del Slack  include due tipi di notifica:
 
 >[!PREREQUISITES]
 >
->Se non avete già attivato  Slack Notifiche di sistema, [contattate il supporto](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>Se non hai già attivato  Slack Notifiche di sistema, [contatta il supporto](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
 
-1. Vai a **LaunchPoint**, quindi in **Nuovo** fai clic su **Nuovo servizio**.
+1. Passare a **LaunchPoint**, quindi in **New** fare clic su **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. Immettete un nome da visualizzare per l&#39;integrazione  Slack. Nel menu a discesa **Servizio** , selezionate **Slack**. Fate clic su **Crea**.
+1. Immettete un nome da visualizzare per l&#39;integrazione  Slack. Nel menu a discesa **Service**, selezionare **Slack**. Fare clic su **Crea**.
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
-1. Fate clic su **Autorizza**. Viene aperto  Slack in una nuova scheda, in cui si completa l&#39;autorizzazione e si concede a Marketo l&#39;autorizzazione per estrarre informazioni dal Slack .
+1. Fare clic su **Autorizza**. Viene aperto  Slack in una nuova scheda, in cui si completa l&#39;autorizzazione e si concede a Marketo l&#39;autorizzazione per estrarre informazioni dal Slack .
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
-1. Nella nuova scheda Slack , immettete l’URL dell’area di lavoro e fate clic su **Continua**.
+1. Nella nuova scheda Slack , immettete l&#39;URL dell&#39;area di lavoro e fate clic su **Continue**.
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
@@ -46,7 +46,7 @@ L&#39;integrazione del Slack  include due tipi di notifica:
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. Nel menu a discesa **Post to** (Post to Post to Post), selezionate il canale in cui desiderate inviare le notifiche da Marketo. Rivedete le autorizzazioni richieste, quindi fate clic su **Autorizza**.
+1. Nel menu a discesa **Post to**, selezionate il canale in cui desiderate inviare le notifiche da Marketo. Rivedete le autorizzazioni richieste, quindi fate clic su **Autorizza**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
