@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campione/Sfida: Eliminazione di un test e-mail {#champion-challenger-discard-an-email-test}
+# Campione/Sfida: Elimina test e-mail {#champion-challenger-discard-an-email-test}
 
 Se, in qualsiasi momento, decidete di non voler continuare a eseguire il test e-mail, potete eliminarlo. Ecco come.
 
@@ -23,7 +23,7 @@ Se, in qualsiasi momento, decidete di non voler continuare a eseguire il test e-
 
 
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,11 +31,11 @@ Se, in qualsiasi momento, decidete di non voler continuare a eseguire il test e-
 
    ![](assets/champion5.jpg)
 
-1. Fate clic su **Elimina** per confermare.
+1. Fare clic su **Elimina** per confermare.
 
    ` ![](assets/image2014-9-15-14-3a17-3a11.png)
 
    `
 
-   Hai finito! Se decidi di voler impostare di nuovo un test, vai avanti e [aggiungi un campione e-mail/concorrente](add-an-email-champion-challenger.md).
+   Hai finito! Se decidi di voler impostare di nuovo un test, vai avanti e [aggiungi un campione e-mail/sfidante](add-an-email-champion-challenger.md).
 
