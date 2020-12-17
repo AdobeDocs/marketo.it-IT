@@ -47,13 +47,13 @@ La scheda **Lead acquisiti **mostra un rapporto mensile di tendenza del numero d
 
 ## Nuovi lead {#new-leads}
 
-La scheda **Nuovi lead** mostra un rapporto mensile con tendenze del numero totale di nuovi lead nell&#39;istanza negli ultimi sei mesi.
+La scheda **Nuovi lead** mostra un rapporto mese-su-mese di tendenza del numero totale di nuovi lead nell&#39;istanza negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Annulla sottoscrizione {#unsubscribes}
 
-La scheda **Unsubscribes** mostra un rapporto di tendenza mensile relativo al tasso di annullamento dell&#39;iscrizione negli ultimi sei mesi.
+La scheda **Unsubscribes** mostra un rapporto di tendenza mensile relativo al tasso di annullamento della sottoscrizione negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
