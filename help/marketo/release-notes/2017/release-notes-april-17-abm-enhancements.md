@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella release di aggiornamento di aprile &#39;17 di ABM. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo.
 
-## Sincronizzazione di campi standard CRM mappati {#synching-of-crm-mapped-standard-fields}
+## Sincronizzazione dei campi standard CRM mappati {#synching-of-crm-mapped-standard-fields}
 
 L&#39;ABM marketing sta modificando il comportamento relativo ai CRM. In futuro, Marketo ABM stabilisce e mantiene una relazione 1-1 tra gli account ABM e gli account nel CRM. Questo consente a Marketo di mantenere i campi dell&#39;account mappati in sincronia con CRM.
 
@@ -25,7 +25,7 @@ Ora puoi aggiungere campi personalizzati agli account, mapparli al CRM e utilizz
 
 ![](assets/new-custom-field.png)
 
-## Filtri basati su account nella griglia dell&#39;account denominato {#account-based-filters-in-the-named-account-grid}
+## Filtri basati sull&#39;account nella griglia dell&#39;account denominato {#account-based-filters-in-the-named-account-grid}
 
 Ora potete filtrare facilmente gli account denominati in base a un Elenco account.
 
