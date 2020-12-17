@@ -79,7 +79,7 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
    <td>Punteggio</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Numero</td> 
-   <td>Lunghezza 10<br>Decimali 0 </td> 
+   <td>Lunghezza 10<br>Posti decimali 0 </td> 
   </tr> 
   <tr> 
    <td>Data acquisizione</td> 
@@ -112,12 +112,12 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 
 1. Specificate le impostazioni di accesso e fate clic su Avanti:
 
-   * Impostate tutti i ruoli su **Visible **and **Read-Only (Visibile **e Sola lettura)**
+   * Impostate tutti i ruoli su **Visible **and **Read Only**
 
-   * Deselezionate la casella di controllo **Sola** lettura per il profilo dell’utente sincronizzato:
+   * Deselezionare la casella di controllo **Solo lettura** per il profilo dell&#39;utente di sincronizzazione:
 
-      * Se disponete di un utente con il profilo di un amministratore *di* sistema come utente di sincronizzazione, deselezionate la casella di controllo **Sola** lettura per il profilo Amministratore di sistema (come mostrato di seguito)
-      * Se avete creato un profilo ** personalizzato per l&#39;utente di sincronizzazione, deselezionate la casella di controllo **Sola** lettura per tale profilo personalizzato
+      * Se si dispone di un utente con il profilo di *Amministratore di sistema* come utente di sincronizzazione, deselezionare la casella di controllo **Solo lettura** per il profilo Amministratore di sistema (come mostrato di seguito)
+      * Se avete creato un profilo *personalizzato* per l&#39;utente della sincronizzazione, deselezionate la casella di controllo **Solo lettura** per tale profilo personalizzato
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -159,7 +159,7 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
    <td>Id Programma Di Acquisizione</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Numero</td> 
-   <td>Lunghezza 18<br>Decimali 0 </td> 
+   <td>Lunghezza 18<br>Posti decimali 0 </td> 
   </tr> 
   <tr> 
    <td>Referente originale</td> 
@@ -240,15 +240,15 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 
 Un campo personalizzato sull&#39;oggetto lead in Salesforce deve essere mappato su un campo contatto sull&#39;oggetto contatto in modo che i dati vengano trasferiti quando si verifica una conversione.
 
-1. Nell’angolo in alto a destra, fate clic su **Configurazione**.
+1. Nell&#39;angolo in alto a destra, fare clic su **Setup**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Digitare &quot;Fields&quot; in Nav Search senza premere Invio. I campi sono visualizzati sotto diversi oggetti; Fate clic su **Campi** in Lead.
+1. Digitare &quot;Fields&quot; in Nav Search senza premere Invio. I campi sono visualizzati sotto diversi oggetti; Fare clic su **Campi** in Lead.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Andate alla sezione Campi personalizzati e relazioni lead e fate clic su **Mappa campi** lead.
+1. Andate alla sezione Campi personalizzati lead e correlazioni e fate clic su **Mappa campi lead**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -261,7 +261,7 @@ Un campo personalizzato sull&#39;oggetto lead in Salesforce deve essere mappato 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Ripetete i passaggi indicati sopra per tutti gli altri campi creati.
-1. Al termine, fate clic su **Salva** .
+1. Fare clic su **Save** al termine.
 
    Abbastanza facile, giusto?
 
@@ -269,7 +269,7 @@ Un campo personalizzato sull&#39;oggetto lead in Salesforce deve essere mappato 
 >
 >**Tubo profondo**
 >
->Ecco un link a un [video dell&#39;intera procedura](https://nation.marketo.com/videos/1475) che dovrebbe renderlo chiaro!
+>Ecco un collegamento a un [video dell&#39;intera procedura](https://nation.marketo.com/videos/1475) che dovrebbe renderlo più chiaro!
 
 >[!NOTE]
 >
