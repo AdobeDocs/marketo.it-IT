@@ -31,7 +31,7 @@ Crea bellissime e-mail utilizzando i nostri nuovi modelli iniziali! Inoltre, pot
 
 >[!NOTE]
 >
->Editor e-mail 2.0 (con il selettore dei modelli) verrà implementato gradualmente a partire dal 3 giugno. Completeremo il lancio entro il 30 giugno. A differenza di Email Insights, non riceverai alcuna notifica quando avrai accesso. Per verificare se lo fai, segui i passaggi descritti in [questo articolo](https://docs.marketo.com/pages/viewpage.action?pageId=11373011).
+>Editor e-mail 2.0 (con il selettore dei modelli) verrà implementato gradualmente a partire dal 3 giugno. Completeremo il lancio entro il 30 giugno. A differenza di Email Insights, non riceverai alcuna notifica quando avrai accesso. Per vedere se lo fai, segui i passaggi descritti in [questo articolo](https://docs.marketo.com/pages/viewpage.action?pageId=11373011).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -55,7 +55,7 @@ Sono finiti i giorni in cui è necessario riapprovare tutto ogni volta che uno s
 
 ## [Attività personalizzate](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-Gli amministratori di marketing ora possono definire e gestire i loro tipi di attività personalizzati tramite il modellatore di definizione dell&#39;attività personalizzata di Marketo. Simili a (e in combinazione con) il modello di oggetti personalizzato Marketo, gli amministratori possono ora estendere il modello di dati in base alle proprie esigenze aziendali. I dettagli sull’utilizzo di questa funzionalità sono disponibili sul sito della documentazione [Marketo](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
+Gli amministratori di marketing ora possono definire e gestire i loro tipi di attività personalizzati tramite il modellatore di definizione dell&#39;attività personalizzata di Marketo. Simili a (e in combinazione con) il modello di oggetti personalizzato Marketo, gli amministratori possono ora estendere il modello di dati in base alle proprie esigenze aziendali. Per informazioni su come utilizzare questa funzionalità, vedere il [sito della documentazione di Marketo](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
 ## [API Pagina di destinazione, Modello pagina di destinazione e Modulo](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
@@ -63,7 +63,7 @@ Le API REST di Marketo ora supportano il controllo sulle pagine di destinazione 
 
 ## [INSERIRE NELL&#39;ELENCO CONSENTITI di  IP in  di accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Come per la funzione di inserire nell&#39;elenco Consentiti di  IP per gli accessi utente di Marketo, gli amministratori di Marketo possono ora impostare un inserire nell&#39;elenco Consentiti  di indirizzi IP che possono accedere alle API SOAP e REST di Marketo, bloccando in tal modo l&#39;accesso da indirizzi IP non autorizzati. Questo fornisce un ulteriore livello di sicurezza all&#39;istanza di Marketo e garantisce che l&#39;accesso API possa avvenire solo dall&#39;interno della rete aziendale. I dettagli su come impostare questa configurazione sono disponibili sul sito della documentazione [Marketo](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
+Come per la funzione di inserire nell&#39;elenco Consentiti di  IP per gli accessi utente di Marketo, gli amministratori di Marketo possono ora impostare un inserire nell&#39;elenco Consentiti  di indirizzi IP che possono accedere alle API SOAP e REST di Marketo, bloccando in tal modo l&#39;accesso da indirizzi IP non autorizzati. Questo fornisce un ulteriore livello di sicurezza all&#39;istanza di Marketo e garantisce che l&#39;accesso API possa avvenire solo dall&#39;interno della rete aziendale. Per informazioni su come impostare questa configurazione, consultare il [sito della documentazione di Marketo](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
 
 ## [Nuovo connettore Microsoft Dynamics Sync ad alta velocità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -75,13 +75,13 @@ Costruito sopra l&#39;architettura Orion, il nuovo connettore ad alta velocità 
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Scheda** Amministratore errori di sincronizzazione:  Sfogliare, cercare o esportare lead (e altri oggetti) che non sono stati sincronizzati con dettagli quali funzionamento, direzione, codice di errore e messaggio di errore.
+**Scheda** Amministratore errori di sincronizzazione: Sfogliare, cercare o esportare lead (e altri oggetti) che non sono stati sincronizzati con dettagli quali funzionamento, direzione, codice di errore e messaggio di errore.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: Il connettore è certificato per le versioni online e locali di Dynamics 2016.
 
-**Gli aggiornamenti dei plug-in sono ora documentati:** Consultate l&#39;articolo [docs sugli aggiornamenti dei](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)plug-in.
+**Gli aggiornamenti dei plug-in sono ora documentati:** Consultate l&#39;articolo [ docs degli aggiornamenti dei ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)plug-in.
 
 ## [Nome istanza intuitivo](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
