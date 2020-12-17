@@ -23,7 +23,7 @@ Fate clic sui collegamenti del titolo per visualizzare gli articoli dettagliati 
 
 La personalizzazione Web ora supporta più aree di lavoro.
 
-## Coinvolgimento vendite Marketo {#marketo-sales-engage}
+## Coinvolgimento vendite marketing {#marketo-sales-engage}
 
 * **Supporto** per fulmini SFDC: Gli utenti che migrano a o utilizzano attualmente Lightning possono sfruttare MSE per un coinvolgimento più intelligente nel percorso dell&#39;acquirente.
 
@@ -38,7 +38,7 @@ La personalizzazione Web ora supporta più aree di lavoro.
 
 ## Marketo Sky {#marketo-sky}
 
-Per maggiori dettagli e aggiornamenti, consulta le note [sulla versione di](https://help.marketo.com)Sky.
+Per maggiori dettagli e aggiornamenti, consulta le [Note sulla versione di Sky](https://help.marketo.com).
 
 * **Aggiornamenti del sistema di progettazione**
 
@@ -56,7 +56,7 @@ Per maggiori dettagli e aggiornamenti, consulta le note [sulla versione di](http
 * Visualizzazione elenco di Design Studio: Gli utenti possono ora visualizzare i modelli delle pagine di destinazione e i modelli delle e-mail in formato vista elenco, consentendo la navigazione rapida e azioni in blocco su un singolo tipo di risorsa.
 * Pagine Dettagli risorsa di Design Studio: Risparmiate tempo e difficoltà grazie alla visualizzazione, all’organizzazione e all’esecuzione di azioni in blocco su tutte le risorse in un’unica posizione.
 * **Programmi predefiniti ora disponibili in Marketo Sky**: Marketo Sky ora supporta programmi predefiniti, lo stile versatile del programma che consente di creare qualsiasi campagna si possa immaginare.
-* **Programmi e-mail - Fase 1**: Ora potete visualizzare i programmi e-mail in Sky. Date un&#39;occhiata alla nuova progettazione e [fateci sapere cosa ne pensate](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programmi e-mail - Fase 1**: Ora potete visualizzare i programmi e-mail in Sky. Date un&#39;occhiata al nuovo design e [fateci sapere cosa pensate](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
@@ -86,7 +86,7 @@ Per maggiori dettagli e aggiornamenti, consulta le note [sulla versione di](http
 * **Coinvolgimento per data** attività: Gli utenti possono selezionare per visualizzare le metriche di coinvolgimento in base alla data dell&#39;attività o al periodo di costo.
 * **Filtri** account denominati ABM: Filtrare le dashboard pipeline e ricavi per specifici account denominati.
 
-## Reti pubblicitarie {#ad-networks}
+## Reti annunci {#ad-networks}
 
 **[Aggiorna token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
