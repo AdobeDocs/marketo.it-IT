@@ -21,7 +21,7 @@ Identificazione e coinvolgimento di Account denominati e delle persone al loro i
 
    ![](assets/one.png)
 
-1. Fate clic su **+** per espandere la cartella Filtri **** account.
+1. Fare clic su **+** per espandere la cartella **Filtri account**.
 
    ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Per utilizzare questo filtro, fate clic sull&#39;elenco a discesa dell&#39;accou
 
    ![](assets/eight.png)
 
-1. Se utilizzate il qualificatore &quot;è qualsiasi&quot;, potete utilizzare [vincoli](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) per limitare i risultati della ricerca. Aggiungetene quanti ne vorreste!
+1. Se si utilizza il qualificatore &quot;is any&quot;, è possibile utilizzare [limits](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) per limitare i risultati della ricerca. Aggiungetene quanti ne vorreste!
 
    ![](assets/nine.png)
 
