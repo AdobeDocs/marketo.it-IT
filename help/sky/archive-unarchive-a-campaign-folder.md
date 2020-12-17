@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Converti in cartella di archiviazione
 
-Fate clic con il pulsante destro del mouse su una cartella e selezionatela **[!UICONTROL Convert To Archive Folder]**.
+Fare clic con il pulsante destro del mouse su una cartella e selezionare **[!UICONTROL Convert To Archive Folder]**.
 
 ![Immagine uno](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
