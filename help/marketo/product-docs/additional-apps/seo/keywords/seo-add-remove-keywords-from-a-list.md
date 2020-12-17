@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Aggiungi a un elenco {#add-to-a-list}
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passate il puntatore del mouse sulla parola chiave da aggiungere a un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA ELENCO**.
+1. Passate il puntatore del mouse sulla parola chiave da aggiungere a un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
 
 Woohoo! Selezionate l’elenco per visualizzare le nuove parole chiave.
 
-## Rimuovi parola chiave da elenco {#remove-keyword-from-list}
+## Rimuovi parola chiave dall&#39;elenco {#remove-keyword-from-list}
 
 È inoltre possibile rimuovere le parole chiave da un elenco.
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passate il puntatore del mouse sulla parola chiave da rimuovere da un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA ELENCO**.
+1. Passate il puntatore del mouse sulla parola chiave da rimuovere da un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
