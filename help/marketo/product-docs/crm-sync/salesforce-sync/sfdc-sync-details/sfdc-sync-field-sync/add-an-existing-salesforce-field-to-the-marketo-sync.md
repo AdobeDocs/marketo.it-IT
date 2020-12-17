@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un campo Salesforce esistente alla sincronizzazione Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Aggiungi un campo Salesforce esistente alla sincronizzazione di Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Solitamente, i nuovi campi personalizzati in Salesforce si sincronizzano automaticamente su Marketo. In caso contrario, i campi potrebbero non essere visibili all’utente di Marketing Cloud Sync. Ecco come si può riparare questo.
 
-1. Fate clic sul vostro nome e selezionate **Configurazione**.
+1. Fate clic sul vostro nome, quindi selezionate **Setup**.
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. Immettete il **profilo** nella barra di ricerca a sinistra e fate clic su **Profili** in **Gestisci utenti**.
+1. Immettere **profile** nella barra di ricerca a sinistra e fare clic su **Profili** in **Gestisci utenti**.
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,15 +31,15 @@ Solitamente, i nuovi campi personalizzati in Salesforce si sincronizzano automat
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. Nella sezione Protezione **a livello di** campo fare clic su **Visualizza** accanto all&#39;oggetto che contiene il campo.
+1. Nella sezione **Sicurezza a livello di campo**, fare clic su **Visualizza** accanto all&#39;oggetto che contiene il campo.
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/image2015-6-30-14-3a24-3a28.png)
 
-1. Selezionate la casella **Visibile** per il campo da aggiungere alla sincronizzazione e fate clic su **Salva**.
+1. Selezionare la casella **Visible** per il campo da aggiungere alla sincronizzazione e fare clic su **Save**.
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
