@@ -31,7 +31,7 @@ Queste regole si applicano *quando la persona non è attualmente in [Salesforce.
   </tr> 
   <tr> 
    <td>Modifica dello stato nella campagna SFDC</td> 
-   <td>Sincronizza persona con<br>SFDCA per la campagna SFDC</td> 
+   <td>Sincronizza persona con SFDC<br>Aggiungi a campagna SFDC</td> 
   </tr> 
   <tr> 
    <td>Cambia proprietario</td> 
@@ -48,7 +48,7 @@ Queste regole si applicano *quando la persona non è attualmente in [Salesforce.
  </tbody> 
 </table>
 
-È possibile filtrare i record SFDC in uno Smart List utilizzando il filtro Tipo **** SFDC con l&#39;operatore impostato su &quot;non è vuoto&quot;. Tutti i record della DSC hanno un valore in questo campo.
+È possibile filtrare i record SFDC in un Smart List utilizzando il filtro **SFDC Type** con l&#39;operatore impostato su &quot;non è vuoto&quot;. Tutti i record della DSC hanno un valore in questo campo.
 
 Ricordate, queste azioni automatiche si verificano solo se il lead non si trova attualmente in [Salesforce.com](http://Salesforce.com)
 
