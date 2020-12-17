@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Munchkin è lo snippet JavaScript inserito nel sito Web. Consente di tenere traccia di visite, clic e compilazione del modulo. Ha anche una ricca API per fare ogni sorta di trucchi ordinati.
 
-Guardate la pagina [dello sviluppatore su Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+Consultate la pagina [sviluppatore su Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
