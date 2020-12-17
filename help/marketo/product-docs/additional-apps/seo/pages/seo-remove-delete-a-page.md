@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Eliminare una pagina? Niente sudore, ecco come:
 
-1. Vai alla sezione **Pagine** .
+1. Vai alla sezione **Pagine**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
