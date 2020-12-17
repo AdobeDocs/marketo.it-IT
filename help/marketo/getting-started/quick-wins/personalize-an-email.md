@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personalizzare un&#39;e-mail {#personalize-an-email}
 
-## Missione: Rendere le e-mail personali aggiungendo token di dati {#mission-make-your-emails-personal-by-adding-data-tokens}
+## Missione: Rendi le tue e-mail personali aggiungendo token di dati {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
@@ -22,9 +22,9 @@ ht-degree: 0%
 >* [Drip, Drip, Cura](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
-## Passaggio 1: Selezionare un&#39;e-mail da personalizzare {#step-select-an-email-to-personalize}
+## Passaggio 1: Selezionare un&#39;e-mail per personalizzare {#step-select-an-email-to-personalize}
 
-1. Selezionate una delle e-mail di nutrizione create nella vittoria [rapida](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) precedente e fate clic su **Modifica bozza**.
+1. Selezionare una delle e-mail di supporto create nella [precedente vittoria rapida](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) e fare clic su **Modifica bozza**.
 
    ![](assets/one-4.png)
 
@@ -32,53 +32,53 @@ ht-degree: 0%
    >
    >Viene creata una copia dell’e-mail come bozza. È necessario approvare la bozza affinché le modifiche diventino attive.
 
-Se non avete attivato il blocco dei pop-up, l&#39;editor e-mail si aprirà in una nuova scheda o finestra. In caso contrario, fate clic due volte su **Modifica bozza** .
+Se non avete attivato il blocco dei pop-up, l&#39;editor e-mail si aprirà in una nuova scheda o finestra. In caso contrario, fare clic due volte su **Modifica bozza**.
 
 ## Passaggio 2: Imposta il venditore come mittente {#step-make-the-salesperson-the-sender}
 
-1. Selezionare il campo **Da** , evidenziare ed **eliminare** il nome corrente.
+1. Selezionare il campo **From**, evidenziare e **eliminare** il nome corrente.
 
    ![](assets/two-5.png)
 
-1. Fate clic sull&#39;icona **Token** a destra del campo **Da** .
+1. Fare clic sull&#39;icona **Token** a destra del campo **Da**.
 
    ![](assets/three-4.png)
 
-1. Trova e seleziona il **`{{lead.Lead Owner First Name}}`** token.
+1. Individuate e selezionate il token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/four-3.png)
 
-1. Digitare il nome della società e un trattino per il valore **** predefinito per assicurarsi che venga visualizzato qualcosa nel caso in cui il nome del rappresentante della vendita non sia disponibile. Fate clic su **Inserisci**.
+1. Digitare il nome della società e un trattino per il **Valore predefinito** per assicurarsi che venga visualizzato qualcosa nel caso in cui il nome del rappresentante commerciale non sia disponibile. Fare clic su **Inserisci**.
 
    ![](assets/five-4.png)
 
-1. Premete la barra spaziatrice nel campo **Da** , assicurandovi che il cursore lampeggi uno spazio dopo il token appena inserito. Quindi fate di nuovo clic sull&#39;icona **Token** .
+1. Premete la barra spaziatrice nel campo **Da**, verificando che il cursore lampeggi uno spazio dopo il token appena inserito. Quindi fate di nuovo clic sull&#39;icona **Token**.
 
    ![](assets/six-4.png)
 
-1. Trova e seleziona il **`{{lead.Lead Owner Last Name}}`** token.
+1. Individuate e selezionate il token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/seven-5.png)
 
-1. Digitare &quot;Vendite&quot; per il valore **** predefinito e fare clic su **Inserisci**.
+1. Digitare &quot;Sales&quot; per il **Valore predefinito** e fare clic su **Insert**.
 
    ![](assets/eight-3.png)
 
-## Passaggio 3: Aggiungi il nome del lead all’e-mail {#step-add-the-leads-name-to-the-email}
+## Passaggio 3: Aggiungi il nome del lead all&#39;e-mail {#step-add-the-leads-name-to-the-email}
 
-1. Selezionate la sezione modificabile superiore, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Modifica**.
+1. Selezionate la sezione modificabile superiore, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Edit**.
 
    ![](assets/nine-2.png)
 
-1. Aggiungi uno spazio dopo &quot;Hello&quot; e posiziona il cursore davanti alla virgola, quindi fai clic sull&#39;icona **Inserisci token** .
+1. Aggiungi uno spazio dopo &quot;Hello&quot; e posiziona il cursore davanti alla virgola, quindi fai clic sull&#39;icona **Inserisci token**.
 
    ![](assets/ten-4.png)
 
-1. Trova e seleziona il **`{{lead.First Name}}`** token.
+1. Individuate e selezionate il token **`{{lead.First Name}}`**.
 
    ![](assets/eleven-4.png)
 
-1. Immettere &quot;Friend&quot; (o qualsiasi etichetta desiderata) nel campo Valore **** predefinito e fare clic su **Inserisci**.
+1. Immettere &quot;Friend&quot; (o qualsiasi etichetta desiderata) nel campo **Valore predefinito** e fare clic su **Inserisci**.
 
    ![](assets/twelve-3.png)
 
@@ -86,7 +86,7 @@ Se non avete attivato il blocco dei pop-up, l&#39;editor e-mail si aprirà in un
    >
    >Includi sempre un valore predefinito per i token; in questo modo il valore predefinito verrà visualizzato nel messaggio e-mail se manca parte delle informazioni personali.
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/thirteen-3.png)
 
@@ -94,13 +94,13 @@ Se non avete attivato il blocco dei pop-up, l&#39;editor e-mail si aprirà in un
 
    ![](assets/fourteen-3.png)
 
-1. In Azioni **e-** mail, selezionare **Approva bozza**.
+1. In **Azioni e-mail**, selezionare **Approva bozza**.
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->Hai bisogno di un aggiornamento rapido su come inviarti l&#39;e-mail? Consultate [Inviare un messaggio e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md)con esplosione.
+>Hai bisogno di un aggiornamento rapido su come inviarti l&#39;e-mail? Vedere [Invia un messaggio di posta elettronica ](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Missione completata {#mission-complete}
 
