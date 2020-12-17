@@ -27,7 +27,7 @@ Puntare le persone è semplice e potente per aiutare il team di vendita a dare p
 
    >[!TIP]
    >
-   >Potete creare più campi valutazione. Per informazioni, consulta [Creare un campo personalizzato in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) .
+   >Potete creare più campi valutazione. Per ulteriori informazioni, vedere [Creare un campo personalizzato in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 1. Inserire la modifica della valutazione desiderata.
 
