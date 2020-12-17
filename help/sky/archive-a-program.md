@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Per archiviare un programma è necessario spostarlo in una cartella di archiviazione separata.
 
-1. Per creare una nuova cartella di campagna, fai clic con il pulsante destro del mouse sul globo di Workspace e seleziona **[!UICONTROL New Campaign Folder]**.
+1. Per creare una nuova cartella di campagna, fai clic con il pulsante destro del mouse sul globo di lavoro e seleziona **[!UICONTROL New Campaign Folder]**.
 
    ![Immagine uno](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Immettete un nome per la nuova cartella, quindi aggiungete una descrizione facoltativa. Fate clic **[!UICONTROL Create]**.
+1. Immettete un nome per la nuova cartella, quindi aggiungete una descrizione facoltativa. Fare clic su **[!UICONTROL Create]**.
 
    ![Immagine due](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
@@ -26,11 +26,11 @@ Per archiviare un programma è necessario spostarlo in una cartella di archiviaz
 
    ![Immagine tre](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Digitate per cercare la nuova cartella, quindi selezionatela dall’elenco a discesa. Fate clic **[!UICONTROL Move]**.
+1. Digitate per cercare la nuova cartella, quindi selezionatela dall’elenco a discesa. Fare clic su **[!UICONTROL Move]**.
 
    ![Immagine quattro](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Fate clic con il pulsante destro del mouse sulla cartella e selezionate **[!UICONTROL Convert To Archive Folder]**.
+1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Convert To Archive Folder]**.
 
    ![Immagine cinque](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
