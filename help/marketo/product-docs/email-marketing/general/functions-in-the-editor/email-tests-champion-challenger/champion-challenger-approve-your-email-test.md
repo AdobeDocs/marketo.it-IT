@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campione/Sfida: Approva il test e-mail {#champion-challenger-approve-your-email-test}
+# Campione/Sfida: Approva test e-mail {#champion-challenger-approve-your-email-test}
 
 Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
 
@@ -23,11 +23,11 @@ Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
 
 
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Trova e fai clic con il pulsante destro del mouse sul test **e-** mail, quindi fai clic su **Approva test**.
+1. Trova e fai clic con il pulsante destro del mouse sul **Test e-mail**, quindi fai clic su **Approva**.
 
    ![](assets/champion3.jpg)
 
@@ -36,7 +36,7 @@ Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
    >**Promemoria**
    >
    >
-   >Quando si approva un test **completo dell&#39;e-mail******, approvare prima l&#39;e-mail del concorrente.
+   >Durante l&#39;approvazione di un **Email***** test, approvare prima il messaggio e-mail del concorrente.
 
    >[!NOTE]
    >
