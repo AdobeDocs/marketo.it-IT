@@ -43,7 +43,7 @@ No, per niente. Marketo è facile da iniziare e si evolverà con voi. Si possono
 
 ## Devo fare qualche configurazione? {#do-i-need-to-do-any-setup}
 
-Sì, abbiamo fatto una [lista di cose da fare](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Sì, abbiamo fatto una [lista di controllo delle cose da fare](/help/marketo/getting-started/setup-steps/setup-checklist.md).
 
 ## Devo aspettare che la configurazione sia finita per imparare? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
