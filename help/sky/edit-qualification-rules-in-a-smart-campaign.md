@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Le regole di qualifica controllano quante volte un utente può eseguire il flusso in una campagna intelligente. Per impostazione predefinita, anche se un utente attiva più volte una campagna intelligente, questa viene inviata solo una volta attraverso il flusso. Ecco come modificare queste impostazioni.
 
-1. Selezionate la campagna e passate alla **[!UICONTROL Schedule]** scheda.
+1. Selezionate la campagna e passate alla scheda **[!UICONTROL Schedule]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Fate clic **[!UICONTROL Edit Recurrence]**.
+1. Fare clic su **[!UICONTROL Edit Recurrence]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -30,11 +30,11 @@ Le regole di qualifica controllano quante volte un utente può eseguire il fluss
 
    >[!NOTE]
    >
-   >Quando impostate una regola per una volta al giorno, [!DNL Marketo] la converte in ore. Ad esempio, se imposti la regola per una volta al giorno e una persona si qualifica alle 10 di domenica sera, non potrà qualificarsi fino alle 10 di lunedì sera.
+   >Quando si imposta una regola per ogni giorno, [!DNL Marketo] la converte in ore. Ad esempio, se imposti la regola per una volta al giorno e una persona si qualifica alle 10 di domenica sera, non potrà qualificarsi fino alle 10 di lunedì sera.
    >
    >Questa logica si applica anche quando si utilizzano settimane o mesi. Un mese è sempre contato come 30 giorni.
 
-1. Al **[!UICONTROL Confirm]** termine, fate clic.
+1. Fare clic su **[!UICONTROL Confirm]** al termine.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
@@ -42,4 +42,4 @@ Le regole di qualifica controllano quante volte un utente può eseguire il fluss
 
 **Promemoria**
 
-Per impostazione predefinita, i limiti di comunicazione non sono applicati alle campagne intelligenti. Scopri come [applicare i limiti di comunicazione a una campagna](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign)intelligente.
+Per impostazione predefinita, i limiti di comunicazione non sono applicati alle campagne intelligenti. Scopri come [applicare i limiti di comunicazione a una campagna intelligente](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign).
