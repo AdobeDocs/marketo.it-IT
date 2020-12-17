@@ -25,19 +25,19 @@ Marketo gestisce la registrazione e la partecipazione alle riunioni Web di livel
 >
 >Per questo passaggio è necessaria una sottoscrizione esistente ai diritti di amministrazione e riunione Web di livello 3. Avere a portata di mano il numero di accesso, il codice di accesso e la passcode.
 
-1. Vai ad **Admin** e seleziona **LaunchPoint**.
+1. Accedere a **Admin** e selezionare **LaunchPoint**.
 
    ![](assets/image2015-4-23-10-3a5-3a12.png)
 
-1. Selezionate **Nuovo** , quindi **Nuovo** **Servizio**.
+1. Selezionare **New**, quindi **New** **Service**.
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. Immettere un **nome** visualizzato ****. In **Servizio**, selezionate Riunione **Web di** livello 3.
+1. Immettere un **Display** **Name**. In **Servizio**, selezionare **Riunione Web di livello 3**.
 
    ![](assets/new-service-level-3.png)
 
-1. Immettete il **numero** di **accesso**, il **codice** di accesso **e il** codice ******** di accesso, quindi fate clic su Create.
+1. Immettere **Access** **Number**, **Access** **Code** e **Passcode**, quindi fare clic su **Create**.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
@@ -47,5 +47,5 @@ Marketo gestisce la registrazione e la partecipazione alle riunioni Web di livel
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento con una riunione](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)Web di livello 3.
+>Scoprite come [creare un evento con una riunione Web di livello 3](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
 
