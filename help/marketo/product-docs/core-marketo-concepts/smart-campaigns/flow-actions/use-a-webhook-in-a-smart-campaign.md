@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utilizzo di un Webhook in una campagna intelligente {#use-a-webhook-in-a-smart-campaign}
 
-Per utilizzare un [webhook](http://developers.marketo.com/documentation/webhooks/), aggiungetelo a una campagna [](add-a-flow-step-to-a-smart-campaign.md) intelligente come azione di flusso.
+Per utilizzare un [webhook](http://developers.marketo.com/documentation/webhooks/), aggiungerlo a una [campagna intelligente](add-a-flow-step-to-a-smart-campaign.md) come azione di flusso.
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Per utilizzare un [webhook](http://developers.marketo.com/documentation/webhooks
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. [Creare una campagna](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)intelligente.
+1. [Creare una campagna](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente.
 
    >[!NOTE]
    >
    >I webhooks possono essere utilizzati solo nelle campagne di attivazione.
 
-1. Vai alla scheda **Flusso** e trascina nell’azione di flusso **Chiama Webhook** .
+1. Passare alla scheda **Flusso** e trascinare nell&#39;azione di flusso **Chiama Webhook**.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -39,7 +39,7 @@ Per utilizzare un [webhook](http://developers.marketo.com/documentation/webhooks
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. Infine, puoi utilizzare i webhook in **Aggiungi scelta** in un passaggio di flusso.
+1. Infine, è possibile utilizzare i webhook in **Aggiungi scelta** in un passaggio di flusso.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
 
