@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Per visualizzare l’aspetto del contenuto all’interno di un motore di ricerca, è stato aggiunto un piccolo e pratico accorciamento.
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Passa il cursore del mouse su una parola chiave. Fate clic su **Visualizza risultati**.
+1. Passa il cursore del mouse su una parola chiave. Fare clic su **Visualizza risultati**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
