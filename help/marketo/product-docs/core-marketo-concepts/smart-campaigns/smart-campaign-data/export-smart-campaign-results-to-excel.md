@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esportate i risultati delle campagne intelligenti in Excel da usare all’esterno di Marketo.
 
-1. Nella campagna intelligente, fai clic su **Risultati** e quindi sull’icona di esportazione in basso.
+1. Nella campagna intelligente, fate clic su **Results** e quindi sull&#39;icona di esportazione in basso.
 
    ![](assets/exportexcel-hands.png)
 
