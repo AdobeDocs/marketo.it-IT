@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Invia e-mail dal proprietario principale {#send-emails-from-the-lead-owner}
+# Invia e-mail dal proprietario lead {#send-emails-from-the-lead-owner}
 
 Cosa succede se si desidera inviare un&#39;e-mail a un lead per conto del proprietario principale?  Ecco come.
 
@@ -19,27 +19,27 @@ Cosa succede se si desidera inviare un&#39;e-mail a un lead per conto del propri
 
    ![](assets/one.png)
 
-1. Fate clic nel campo **Da** (eliminate il nome esistente), quindi fate clic sul pulsante **Inserisci token** .
+1. Fare clic nel campo **Da** (eliminare qualsiasi nome esistente), quindi fare clic sul pulsante **Inserisci token**.
 
    ![](assets/two.png)
 
-1. Iniziate a digitare &quot;`{{lead.Lead Owner`&quot; e selezionate il **`{{lead.Lead Owner First Name}}`** token.
+1. Iniziate a digitare &quot;`{{lead.Lead Owner`&quot; e selezionate il token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Immettete un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario per lead e fate clic su **Inserisci**.
+1. Immettete un valore predefinito nel caso in cui il lead non disponga ancora di un lead proprietario e fate clic su **Inserisci**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Fate clic dopo il primo token, aggiungete uno spazio, quindi fate clic sul pulsante **Inserisci token** .
+1. Fate clic dopo il primo token, aggiungete uno spazio, quindi fate clic sul pulsante **Inserisci token**.
 
    ![](assets/five.png)
 
-1. Iniziate a digitare &quot;`{{lead.Lead Owner`&quot; e selezionate il **`{{lead.Lead Owner Last Name}}`** token.
+1. Iniziate a digitare &quot;`{{lead.Lead Owner`&quot; e selezionate il token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Immettete un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario per lead e fate clic su **Inserisci**.
+1. Immettete un valore predefinito nel caso in cui il lead non disponga ancora di un lead proprietario e fate clic su **Inserisci**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -50,15 +50,15 @@ Cosa succede se si desidera inviare un&#39;e-mail a un lead per conto del propri
    Fate clic nel campo Da e-mail (eliminate eventuali indirizzi e-mail esistenti), quindi fate clic sul pulsante Inserisci token.
    ![](assets/eight.png)
 
-1. Iniziate a digitare &quot;`{{lead.Lead Owner`&quot; e selezionate il **`{{lead.Lead Owner Email Address}}`** token.
+1. Iniziate a digitare &quot;`{{lead.Lead Owner`&quot; e selezionate il token **`{{lead.Lead Owner Email Address}}`**.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Immettete un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario per lead e fate clic su **Inserisci**.
+1. Immettete un valore predefinito nel caso in cui il lead non disponga ancora di un lead proprietario e fate clic su **Inserisci**.
 
    ![](assets/ten.png)
 
-1. Accertatevi che i campi **Rispondi** e **Oggetto** siano popolati e che sia fatto!
+1. Accertatevi che i campi **Rispondi a** e **Oggetto** siano compilati e che l&#39;operazione sia completata.
 
    ![](assets/eleven.png)
 
