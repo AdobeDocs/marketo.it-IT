@@ -11,35 +11,35 @@ ht-degree: 0%
 ---
 
 
-# Creazione di un campo personalizzato per l&#39;individuazione CRM {#create-a-custom-field-for-crm-discovery}
+# Crea un campo personalizzato per l&#39;individuazione CRM {#create-a-custom-field-for-crm-discovery}
 
 Aggiungi campi personalizzati agli account, mapparli al CRM e utilizzarli per l&#39;individuazione dell&#39;account CRM in Marketo.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/admin.png)
 
-1. Fare clic su Gestione **** dei campi, quindi su **Nuovo campo** personalizzato.
+1. Fare clic su **Gestione dei campi**, quindi su **Nuovo campo personalizzato**.
 
    ![](assets/two-4.png)
 
-1. Fare clic sul menu a discesa **Oggetto** e selezionare Account **** denominato.
+1. Fare clic sul menu a discesa **Oggetto** e selezionare **Account denominato**.
 
    ![](assets/three-3.png)
 
-1. Fare clic sul menu a **discesa Tipo** e selezionare un tipo.
+1. Fare clic sul menu a discesa **Tipo** e selezionare un tipo.
 
    ![](assets/four-3.png)
 
-1. Immettete un **nome** (il nome API verrà compilato automaticamente) e fate clic su **Crea**.
+1. Immettete un **Nome** (il nome dell&#39;API verrà compilato automaticamente) e fate clic su **Crea**.
 
    ![](assets/five-3.png)
 
-1. Dopo aver creato il campo, selezionatelo dalla struttura ad albero a destra. Fai clic sul menu a discesa Azioni **** campo e seleziona **Mappa su campo** CRM.
+1. Dopo aver creato il campo, selezionatelo dalla struttura ad albero a destra. Fare clic sul menu a discesa **Azioni campo** e selezionare **Mappa nel campo CRM**.
 
    ![](assets/six-2.png)
 
-1. Seleziona il campo account CRM a cui vuoi eseguire la mappatura e fai clic su **Salva**.
+1. Selezionare il campo account CRM a cui si desidera eseguire la mappatura e fare clic su **Salva**.
 
    ![](assets/seven-1.png)
 
