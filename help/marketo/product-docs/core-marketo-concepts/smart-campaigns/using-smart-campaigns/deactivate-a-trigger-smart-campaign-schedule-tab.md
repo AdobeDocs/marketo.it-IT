@@ -29,5 +29,5 @@ Se hai una vecchia campagna di attivazione che devi disattivare, procedi come se
 
 >[!NOTE]
 >
->In questo modo si impedirà a *nuove* persone di entrare nel flusso, ma le persone in fase di attesa o qualsiasi altro passaggio del flusso continueranno a spostarsi attraverso il flusso fino a quando non sarà completato.
+>In questo modo *new* le persone non entreranno nel flusso, ma le persone in fase di attesa o in qualsiasi altro passaggio del flusso continueranno a spostarsi nel flusso fino al completamento.
 
