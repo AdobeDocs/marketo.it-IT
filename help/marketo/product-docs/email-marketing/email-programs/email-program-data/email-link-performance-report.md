@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Report prestazioni collegamento e-mail {#email-link-performance-report}
+# Rapporto sulle prestazioni dei collegamenti e-mail {#email-link-performance-report}
 
 Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare l’efficacia delle prestazioni dei collegamenti contenuti nelle e-mail.
 
-1. [Crea un rapporto in un programma](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona **Email Link Performance** come tipo di rapporto.
+1. [Crea un rapporto in un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma e seleziona  **Invia** prestazioni collegamento e-mail come tipo di rapporto.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Fate clic su **Configurazione**.
+1. Fare clic su **Setup**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
@@ -31,7 +31,7 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare l’ef
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Fate clic su **Rapporto**.
+1. Fare clic su **Report**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -39,7 +39,7 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare l’ef
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Le colonne disponibili](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto sulle prestazioni dei collegamenti e-mail includono:
+[Le colonne ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibili per un rapporto sulle prestazioni dei collegamenti e-mail includono:
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare l’ef
 
 >[!TIP]
 >
->Se si desidera sapere esattamente cosa ha fatto una singola persona, è possibile aprire il registro [delle](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) attività nella pagina Dettagli [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persona dalla scheda Membri del programma.
+>Se si desidera sapere esattamente cosa ha fatto una singola persona, è possibile aprire il [log attività](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) nella pagina [Dettagli persona](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) dalla scheda Membri del programma.
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare l’ef
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sui rapporti [di](http://docs.marketo.com/display/docs/basic+reporting)base.
+>Ulteriori informazioni su [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
