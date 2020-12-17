@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di uno snippet a un messaggio e-mail {#add-a-snippet-to-an-email}
+# Aggiungere uno snippet a un&#39;e-mail {#add-a-snippet-to-an-email}
 
 Gli snippet sono blocchi riutilizzabili di testo RTF e grafica utilizzabili nelle e-mail e nelle pagine di destinazione.
 
@@ -22,17 +22,17 @@ Gli snippet sono blocchi riutilizzabili di testo RTF e grafica utilizzabili nell
 
 >[!NOTE]
 >
->Non è possibile incorporare snippet di [sincronizzazione](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)di Marketo; **non** funzionerà in un&#39;e-mail. Gli snippet devono essere semplicemente contenuti body (HTML + TEXT).
+>Non è possibile incorporare [sintassi di posta elettronica di marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)negli snippet; **not** funzionerà in un&#39;e-mail. Gli snippet devono essere semplicemente contenuti body (HTML + TEXT).
 
 1. Individuate il messaggio e-mail, selezionatelo e fate clic su **Modifica bozza**.
 
    ![](assets/one-2.png)
 
-1. Selezionate l’area modificabile da convertire in snippet, fate clic sull’icona a forma di ingranaggio e selezionate **Sostituisci con snippet**.
+1. Selezionate l&#39;area modificabile da convertire in snippet, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Sostituisci con snippet**.
 
    ![](assets/two-2.png)
 
-1. Selezionate lo snippet di codice desiderato e fate clic su **Salva**.
+1. Selezionare il frammento di codice desiderato e fare clic su **Salva**.
 
    ![](assets/three-1.png)
 
@@ -44,6 +44,6 @@ Gli snippet sono blocchi riutilizzabili di testo RTF e grafica utilizzabili nell
 
    >[!NOTE]
    >
-   >Ogni volta che aggiornate e approvate lo snippet, le modifiche verranno riportate nell’e-mail. Il messaggio e-mail verrà redatto a meno che non si approvi lo snippet con [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Ogni volta che aggiornate e approvate lo snippet, le modifiche verranno riportate nell’e-mail. L&#39;e-mail verrà redatta a meno che non venga approvato lo snippet con [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
 Questo è un modo semplice e rapido per riutilizzare i contenuti dinamici.
