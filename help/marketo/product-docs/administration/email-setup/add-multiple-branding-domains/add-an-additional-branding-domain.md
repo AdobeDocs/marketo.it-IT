@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di un dominio di branding aggiuntivo {#add-an-additional-branding-domain}
+# Aggiungi un dominio di branding aggiuntivo {#add-an-additional-branding-domain}
 
 Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una singola istanza di Marketo e vuoi che ciascuno di essi disponga di propri collegamenti di tracciamento con il proprio marchio.
 
 >[!PREREQUISITES]
 >
->Prima di aggiungere altri domini con marchio, devi [sostituire il collegamento](edit-your-default-branding-domain.md) di tracciamento generico con un dominio con marchio.
+>Devi [sostituire il collegamento di tracciamento generico](edit-your-default-branding-domain.md) con un dominio con marchio prima di aggiungere altri domini con marchio.
 
-1. In My Marketo, fare clic su **Admin **e quindi sul collegamento **Email** .
+1. In My Marketo, fare clic su **Admin **e quindi sul collegamento **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -33,7 +33,7 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una sing
 
 >[!NOTE]
 >
->Potete scegliere di renderlo il dominio principale, e tutte le e-mail non inviate esistenti impostate su &quot;Predefinito&quot; e tutte le e-mail create di recente verranno automaticamente inviate al dominio principale. Potrete [sovrascrivere l’operazione in base](overwrite-primary-domain-for-emails.md)a ogni e-mail.
+>Potete scegliere di renderlo il dominio principale, e tutte le e-mail non inviate esistenti impostate su &quot;Predefinito&quot; e tutte le e-mail create di recente verranno automaticamente inviate al dominio principale. Potrete [sovrascrivere questo elemento in base al numero di e-mail](overwrite-primary-domain-for-emails.md).
 
 >[!NOTE]
 >
