@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se avete bisogno di risultati di elenchi o elenchi smart al di fuori di Marketo, potete facilmente esportarli in Excel. Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Selezionate l’elenco o l’elenco avanzato da esportare e passate alla scheda **Persone** .
+1. Selezionare l&#39;elenco o l&#39;elenco smart da esportare e passare alla scheda **Persone**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,25 +27,25 @@ Se avete bisogno di risultati di elenchi o elenchi smart al di fuori di Marketo,
 
    ![](assets/exportpeople.png)
 
-1. Selezionate Colonne **** visibili e fate clic su **Esporta**.
+1. Selezionare **Colonne visibili** e fare clic su **Esporta**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Se scegliete **Tutte le colonne**, l’esportazione avrà dimensioni maggiori e richiederà più tempo per generare o scaricare.
+   >Se scegliete **Tutte le colonne**, l&#39;esportazione avrà dimensioni maggiori e richiederà più tempo per generare o scaricare.
 
    >[!TIP]
    >
-   >Se i record di persona contengono caratteri stranieri il cui rendering non è corretto al momento dell&#39;esportazione, provare a modificare il tipo di file nel menu a discesa **Formato** .
+   >Se i record di persona contengono caratteri stranieri il cui rendering non è corretto al momento dell&#39;esportazione, provare a modificare il tipo di file nel menu a discesa **Format**.
 
-1. L&#39;esportazione verrà eseguita. Al termine, potete fare clic su **Scarica ora** per acquisire il file.
+1. L&#39;esportazione verrà eseguita. Al termine, è possibile fare clic su **Scarica ora** per acquisire il file.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Se l’esportazione richiede un po’ di tempo, potete sempre disconnettervi e tornare ad essa in seguito. Per accedere al collegamento **Scarica ora** , selezionate **Mostra stato** esportazione nel menu Azioni **** elenco ed è valido per una settimana.
+   >Se l’esportazione richiede un po’ di tempo, potete sempre disconnettervi e tornare ad essa in seguito. È possibile accedere al collegamento **Scarica ora** selezionando **Mostra stato esportazione** nel menu **Elenca azioni** ed è valido per una settimana.
 
    Dopo l&#39;esportazione di un elenco smart in Excel, Marketo memorizzerà automaticamente nella cache l&#39;elenco. Al successivo accesso o aggiornamento del browser, noterete una piccola clip di carta e una nota sull&#39;icona dell&#39;elenco smart.
 
