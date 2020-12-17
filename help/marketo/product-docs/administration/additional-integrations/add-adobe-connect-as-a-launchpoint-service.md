@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere  Adobe Connect come servizio LaunchPoint {#add-adobe-connect-as-a-launchpoint-service}
+# Aggiungi  Adobe Connect come servizio LaunchPoint {#add-adobe-connect-as-a-launchpoint-service}
 
 Marketo gestisce la registrazione e la partecipazione  webinar Adobe Connect.
 
@@ -29,23 +29,23 @@ Marketo gestisce la registrazione e la partecipazione  webinar Adobe Connect.
 >
 > Adobe Connect On Site al momento non è supportato.
 
-1. Vai ad **Admin** e fai clic su **LaunchPoint**.
+1. Accedete a **Admin** e fate clic su **LaunchPoint**.
 
    ![](assets/image2015-4-22-11-3a33-3a51.png)
 
-1. Selezionate **Nuovo** , quindi **Nuovo servizio**.
+1. Selezionare **New**, quindi **New Service**.
 
    ![](assets/image2015-4-22-11-3a40-3a19.png)
 
-1. Immettere un nome **** visualizzato. In **Servizio**, selezionate  Adobe Connect.
+1. Immettere un **nome visualizzato**. In **Service**, selezionare  Adobe Connect.
 
    ![](assets/new-service-adobe-connect.png)
 
-1. Immettete il vostro **nome** utente e il codice **di** accesso.
+1. Immettere il **Nome utente** e il **Codice di accesso**.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Completate il processo immettendo l&#39;URL **della cartella della** riunione e la **password** del partecipante **,**** quindi fate clic **** su Crea.**
+1. Completate il processo immettendo l&#39; **URL cartella riunioni** e **partecipante** **Password**,** **quindi fate clic su** Crea.**
 
    ** ![](assets/image2015-4-22-11-3a55-3a36.png)
 
@@ -60,9 +60,9 @@ Marketo gestisce la registrazione e la partecipazione  webinar Adobe Connect.
    >**Esempio**
    >
    >
-   >Dopo aver effettuato l’accesso al vostro account Adobe Connect , selezionate la scheda **Seminari** . Senza eseguire il drill-down in un seminario specifico, copiate l’URL dalla barra del browser nell’ **impostazione** URL cartella **riunione.**
+   >Dopo aver effettuato l&#39;accesso al vostro account Adobe Connect , selezionate la scheda **Seminari**. Senza eseguire il drill-down in un seminario specifico, copiate l&#39;URL dalla barra del browser nell&#39; **URL cartella riunioni** impostazione **.**
 
-1. Fenomenale! Il servizio **Adobe Connect** ora è sincronizzato con Marketo.
+1. Fenomenale! Il **Adobe Connect Service** è ora sincronizzato con Marketo.
 
    ![](assets/adobe-connect-service.png)
 
