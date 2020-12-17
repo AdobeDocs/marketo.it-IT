@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Cartelle {#understanding-folders}
+# Informazioni sulle cartelle {#understanding-folders}
 
-Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse intelligenti. Sono diversi dalle cartelle [delle](create-new-campaign-folder.md)campagne.
+Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse intelligenti. Sono diverse dalle cartelle [delle campagne](create-new-campaign-folder.md).
 
 ## Creare una cartella {#create-a-folder}
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/ma.png)
 
@@ -25,7 +25,7 @@ Le cartelle all’interno di un programma possono essere utilizzate per organizz
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Assegnate un nome alla nuova cartella e premete **Invio**.
+1. Assegnare un nome alla nuova cartella e premere **Invio**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -51,7 +51,7 @@ Va bene cambiare idea.
 >
 >Prima di eliminarla, verificate che la cartella sia vuota.
 
-1. Fate clic con il pulsante destro del mouse sulla cartella e selezionate **Elimina cartella**.
+1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **Elimina cartella**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
