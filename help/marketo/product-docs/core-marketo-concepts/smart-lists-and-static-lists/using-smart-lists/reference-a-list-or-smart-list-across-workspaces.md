@@ -17,15 +17,15 @@ Gli elenchi e gli elenchi smart possono essere condivisi e utilizzati come rifer
 
 >[!NOTE]
 >
->Si applicano le regole delle partizioni delle persone (elenchi smart ed elenchi statici in un&#39;area di lavoro visualizzano solo gli utenti membri dell&#39;elenco *e i membri dell* &#39;area di lavoro corrente).
+>Si applicano le regole sulle partizioni delle persone (gli elenchi smart ed i elenchi statici in un&#39;area di lavoro visualizzano solo le persone che sono entrambi membri dell&#39;elenco *e* membri dell&#39;area di lavoro corrente).
 
-## Condivisione di un elenco o di un elenco avanzato  {#share-a-list-or-smart-list}
+## Condivisione di un elenco o di un elenco avanzato {#share-a-list-or-smart-list}
 
-1. Vai al **database**.
+1. Accedere al **Database**.
 
    ![](assets/db-1.png)
 
-1. Fate clic con il pulsante destro del mouse sulla cartella di una campagna. Selezionate **Nuova cartella**.
+1. Fate clic con il pulsante destro del mouse sulla cartella di una campagna. Selezionare **Nuova cartella**.
 
    >[!NOTE]
    >
@@ -37,11 +37,11 @@ Gli elenchi e gli elenchi smart possono essere condivisi e utilizzati come rifer
 
    ![](assets/three-4.png)
 
-1. Fate clic con il pulsante destro del mouse su **Nuova cartella** e selezionate **Condividi cartella**.
+1. Fare clic con il pulsante destro del mouse su **Nuova cartella** e selezionare **Condividi cartella**.
 
    ![](assets/four-3.png)
 
-1. Scegliete un **Workspace **con cui condividere. Selezionate **Salva**.
+1. Scegliete un **Workspace **con cui condividere. Selezionare **Save**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
