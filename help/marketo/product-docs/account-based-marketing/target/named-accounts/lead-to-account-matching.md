@@ -17,11 +17,11 @@ La corrispondenza a destra conduce agli account denominati a destra utilizzando 
 
 >[!NOTE]
 >
->**La corrispondenza** lead-to-account è una funzione integrata del marketing basato su account di Marketo. Utilizza una logica sfocata per far corrispondere automaticamente i lead ai giusti account denominati in tempo quasi reale. Questi account denominati potrebbero essere account CRM o società Marketo.
+>**La** corrispondenza lead-to-account è una funzione integrata del marketing basato su account marketing Marketo. Utilizza una logica sfocata per far corrispondere automaticamente i lead ai giusti account denominati in tempo quasi reale. Questi account denominati potrebbero essere account CRM o società Marketo.
 
 L&#39;associazione tra lead e account di marketing segue un processo in 4 fasi:
 
-**Passaggio 1 -** Il nostro processo di corrispondenza inizia utilizzando le informazioni chiave sui record principali, come:
+**Passaggio 1 - Il** nostro processo di corrispondenza inizia utilizzando le informazioni chiave sui record principali, come:
 
 * Dominio e-mail (ad esempio, acme.com)
 * Nome società indicato dall&#39;indirizzo IP
@@ -39,7 +39,7 @@ Poiché la corrispondenza lead-to-account di Marketo è una funzione integrata d
 
 >[!NOTE]
 >
->Se utilizzi LeanData in Salesforce per effettuare la corrispondenza lead-to-account, Marketo dispone di un&#39;integrazione che consente di sincronizzare tali corrispondenze all&#39;istanza di Marketo. Per abilitare questa funzione, contatta il [supporto](https://nation.marketo.com/t5/Support/ct-p/Support)di Marketo.
+>Se utilizzi LeanData in Salesforce per effettuare la corrispondenza lead-to-account, Marketo dispone di un&#39;integrazione che consente di sincronizzare tali corrispondenze all&#39;istanza di Marketo. Per abilitare questa funzione, contattare il supporto [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >
