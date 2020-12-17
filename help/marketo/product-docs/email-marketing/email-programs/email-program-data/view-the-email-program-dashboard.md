@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Scopri le prestazioni del programma e-mail (con o senza test A/B) con questo dashboard.
 
-## Selezionate il programma e-mail {#select-your-email-program}
+## Selezionare il programma e-mail {#select-your-email-program}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -37,7 +37,7 @@ Se avete aggiunto un test A/B al programma e-mail e il test è in esecuzione, ve
 
 ## Visualizzazione programma e-mail {#email-program-view}
 
-In alternativa, se non avete aggiunto un test A/B *o* se il test è terminato, dovrebbe essere visualizzato quanto segue:
+In alternativa, se non avete aggiunto un test A/B *o* se il test è terminato, deve essere visualizzato quanto segue:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
