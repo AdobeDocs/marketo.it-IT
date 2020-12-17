@@ -17,7 +17,7 @@ Ricevi un&#39;e-mail settimanale contenente i tuoi account principali e le loro 
 
 >[!NOTE]
 >
->Scopri come impostare questo rapporto [qui](https://docs.marketo.com/x/drat).
+>Scopri come impostare il report [qui](https://docs.marketo.com/x/drat).
 
 La relazione condivide:
 
