@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rinominare una risorsa marketing {#rename-a-marketo-asset}
+# Rinominare una risorsa di marketing {#rename-a-marketo-asset}
 
 Le cartelle, i programmi e le risorse locali possono essere facilmente rinominati.
 
@@ -19,7 +19,7 @@ Le cartelle, i programmi e le risorse locali possono essere facilmente rinominat
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. Digitare un nuovo nome all&#39;interno del campo di testo. Fate clic su **Salva**.
+1. Digitare un nuovo nome all&#39;interno del campo di testo. Fare clic su **Salva**.
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 
