@@ -17,7 +17,7 @@ I tipi di voci personalizzati possono essere nascosti nella sezione Admin. Una v
 
 ## Nascondi un tipo di voce personalizzato {#hide-a-custom-entry-type}
 
-1. Andate alla sezione **Admin** e fate clic su **Calendar** **Entry** **Types**(Tipidi immissione calendario).
+1. Andate alla sezione **Admin** e fate clic su **Calendar** **Entry** **Types**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -31,7 +31,7 @@ I tipi di voci personalizzati possono essere nascosti nella sezione Admin. Una v
 
 Se vuoi scoprire un tipo di voce personalizzato, è anche facile.
 
-1. Fate clic con il pulsante destro del mouse sulla voce e selezionate **Mostra**.
+1. Fare clic con il pulsante destro del mouse sulla voce e selezionare **Scopri**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
