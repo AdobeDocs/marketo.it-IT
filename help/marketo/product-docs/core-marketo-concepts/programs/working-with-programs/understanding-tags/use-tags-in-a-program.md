@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo dei tag in un programma {#use-tags-in-a-program}
+# Utilizzare i tag in un programma {#use-tags-in-a-program}
 
 I tag sono attributi che descrivono i programmi e sono utilizzati per raggruppare i tipi di programmi nei rapporti.
 
-## Utilizzo di un tag in un programma {#use-a-tag-in-a-program}
+## Utilizza un tag in un programma {#use-a-tag-in-a-program}
 
-1. Selezionare il programma. Fate clic su **Configurazione**.
+1. Selezionare il programma. Fare clic su **Setup**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -29,7 +29,7 @@ I tag sono attributi che descrivono i programmi e sono utilizzati per raggruppar
 
    ![](assets/image2014-9-23-15-3a45-3a30.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
@@ -39,7 +39,7 @@ I tag sono attributi che descrivono i programmi e sono utilizzati per raggruppar
 
 ## Modificare un tag {#edit-a-tag}
 
-1. Passate alla scheda **Configurazione** . Fare clic con il pulsante destro del mouse sul tag . Selezionate **Modifica**.
+1. Passate alla scheda **Setup**. Fare clic con il pulsante destro del mouse sul tag . Selezionare **Edit**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -47,7 +47,7 @@ I tag sono attributi che descrivono i programmi e sono utilizzati per raggruppar
 
    ![](assets/image2014-9-23-15-3a46-3a12.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
@@ -55,9 +55,9 @@ I tag sono attributi che descrivono i programmi e sono utilizzati per raggruppar
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Eliminare un tag  {#delete-a-tag}
+## Eliminare un tag {#delete-a-tag}
 
-1. Passate alla scheda **Configurazione** . Fare clic con il pulsante destro del mouse sul tag e selezionare **Elimina**.
+1. Passate alla scheda **Setup**. Fare clic con il pulsante destro del mouse sul tag e selezionare **Elimina**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
