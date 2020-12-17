@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Quando apporti modifiche importanti alle impostazioni di sincronizzazione o campo, devi disattivare la sincronizzazione durante la configurazione. Di seguito è riportata la procedura seguente:
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
    **
 
-1. In **Salesforce**, fai clic su **Disattiva sincronizzazione**.
+1. In **Salesforce**, fare clic su **Disattiva sincronizzazione**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
