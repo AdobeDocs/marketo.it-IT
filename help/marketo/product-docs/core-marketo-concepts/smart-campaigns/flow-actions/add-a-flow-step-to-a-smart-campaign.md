@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I passaggi di flusso indicano a Marketo cosa si desidera che accada a un gruppo di persone idonee. Sono le tue istruzioni, e la campagna intelligente farà la tua offerta!
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Digitate per cercare un passaggio di scorrimento, quindi trascinatelo e rilascia
 >**Tubo profondo**
 >
 >
->Ulteriori informazioni sui diversi passaggi [di](http://docs.marketo.com/display/DOCS/Flow+Actions)flusso.
+>Ulteriori informazioni sui diversi [passaggi di flusso](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Fate clic sul menu a discesa e scegliete un’opzione appropriata.
 
@@ -47,7 +47,7 @@ Digitate per cercare un passaggio di scorrimento, quindi trascinatelo e rilascia
    >**Promemoria**
    >
    >
-   >I passaggi di flusso vengono eseguiti nell&#39;ordine in cui sono elencati.  [Riordinate i passaggi](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) di flusso per assicurarvi che siano nella sequenza corretta.
+   >I passaggi di flusso vengono eseguiti nell&#39;ordine in cui sono elencati.  [Riordinate le ](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) fasi del flusso per assicurarvi che siano nella sequenza corretta.
 
    >[!TIP]
    >
