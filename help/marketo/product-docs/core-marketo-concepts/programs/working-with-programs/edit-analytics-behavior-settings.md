@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modifica impostazioni di comportamento di Analytics {#edit-analytics-behavior-settings}
+# Modifica impostazioni comportamento Analytics {#edit-analytics-behavior-settings}
 
-Potete impostare il comportamento [di analisi a livello di amministratore sui canali](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma potete anche modificarlo a livello di programma. Ecco come.
+È possibile impostare il comportamento di [analisi a livello di amministratore sui canali](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma è anche possibile modificarlo a livello di programma. Ecco come.
 
 1. Vai a Attività di marketing.
 
