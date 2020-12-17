@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Archiviare e annullare l&#39;archiviazione dei contenuti dei flussi {#archive-and-unarchive-stream-content}
+# Archivia e annulla l&#39;archiviazione del contenuto del flusso {#archive-and-unarchive-stream-content}
 
-Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimuoverlo](remove-stream-content.md) o archiviarlo. Ecco come archiviare i contenuti.
+Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimuovere](remove-stream-content.md) o archiviarlo. Ecco come archiviare i contenuti.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimu
 
 ## Archivia contenuto flusso {#archive-stream-content}
 
-1. Seleziona il programma di coinvolgimento e vai alla scheda **Streams** .
+1. Selezionate il programma di coinvolgimento e andate alla scheda **Streams**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Passa il cursore del mouse sull’e-mail che desideri archiviare, quindi fai clic su **Archivia** sotto l’icona a forma di ingranaggio.
+1. Passa il cursore del mouse sull&#39;e-mail che desideri archiviare, quindi fai clic su **Archive** sotto l&#39;icona a forma di ingranaggio.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
