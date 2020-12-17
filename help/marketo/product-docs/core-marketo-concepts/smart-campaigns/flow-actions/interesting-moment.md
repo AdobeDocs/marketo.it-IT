@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Se hai [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), puoi utilizzare il passaggio del flusso del Momento **** Interessante per dare visibilità al tuo team di vendita sulle cose fantastiche che stai facendo.
+Se si dispone di [Marketing Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), è possibile utilizzare il passaggio **Interessante Moment** per dare visibilità al team di vendita sulle cose interessanti che le persone stanno facendo.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Utilizzo {#usage}
 
-1. Selezionate il **tipo** di momento interessante da usare.
+1. Selezionare il momento interessante **type** che si desidera utilizzare.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. Crea una **descrizione** che illustri il momento interessante per il tuo team di vendita.
+1. Crea una **descrizione** che spiega il momento interessante per il tuo team di vendita.
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
