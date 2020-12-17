@@ -41,7 +41,7 @@ Dopo l&#39;invio dell&#39;e-mail, la scheda visualizza altre informazioni import
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Toccate **Confirm **per completare il processo, oppure **Never Mind** se avete avuto dei ripensamenti.
+1. Toccate **Confirm **per completare il processo, oppure **Non importa** se avete avuto dei ripensamenti.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,7 +49,7 @@ Dopo l&#39;invio dell&#39;e-mail, la scheda visualizza altre informazioni import
    >
    >Ora la tua carta diventerà arancione!
 
-## Annullamento dell’invio di una scheda e-mail {#canceling-an-email-card-send}
+## Annullamento dell&#39;invio di una scheda e-mail {#canceling-an-email-card-send}
 
 1. Se decidi di non inviare il messaggio e-mail confermato, tocca il menu dei tre punti.
 
@@ -71,11 +71,11 @@ Potete riprogrammare le schede e-mail confermate o non confermate.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Toccate **Ripeti programmazione**.
+1. Toccare **Riprogrammare**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Selezionate una data nel calendario e toccate **Riprogrammazione**.
+1. Selezionare una data nel calendario e toccare **Riprogrammare**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Potete condividere un esempio di momento e-mail direttamente con un utente.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Immettete un indirizzo e-mail e fate clic su **Invia esempio**.
+1. Inserite un indirizzo e-mail e fate clic su **Invia esempio**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Anteprima di un messaggio e-mail {#previewing-an-email}
+## Anteprima di un&#39;e-mail {#previewing-an-email}
 
 Fate clic con il pulsante destro del mouse su una scheda e-mail per visualizzarla in anteprima.
 
