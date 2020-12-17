@@ -16,9 +16,9 @@ ht-degree: 0%
 L’intestazione dell’e-mail in Marketo è completamente personalizzabile. È costituito da quattro campi:
 
 * **Da** : il nome del mittente desiderato
-* **Da indirizzo** - L&#39;indirizzo e-mail del mittente che si desidera visualizzare
-* **Risposta** - L&#39;indirizzo e-mail a cui si desidera inviare la risposta di una persona (può essere diverso dall&#39;indirizzo Da)
-* **Oggetto** - L&#39;oggetto del messaggio e-mail
+* **Da indirizzo** : l&#39;indirizzo e-mail del mittente che si desidera visualizzare
+* **Risposta**  - L&#39;indirizzo e-mail a cui si desidera inviare la risposta di una persona (può essere diverso dall&#39;indirizzo Da)
+* **Oggetto**  - L&#39;oggetto dell&#39;e-mail
 
 Per modificare questi valori, fate clic in ciascun campo e immettete le informazioni.
 
@@ -26,7 +26,7 @@ Per modificare questi valori, fate clic in ciascun campo e immettete le informaz
 
 >[!TIP]
 >
->Per impostare un valore predefinito Da nome e Da e-mail, consultate [Modificare il valore predefinito Da e-mail e Da etichetta](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>Per impostare un valore predefinito Da nome e Da e-mail, vedere [Modificare il valore predefinito Da e-mail e Da etichetta](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Se desiderate utilizzare un token, fate clic prima all&#39;interno del campo desiderato, quindi fate clic sull&#39;icona del token.
 
