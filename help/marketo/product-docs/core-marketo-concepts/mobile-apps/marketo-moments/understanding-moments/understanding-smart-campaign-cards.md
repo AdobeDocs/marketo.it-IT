@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sulle schede delle campagne intelligenti {#understanding-smart-campaign-cards}
+# Schede delle campagne intelligenti {#understanding-smart-campaign-cards}
 
 Utilizza i Momenti Marketo per visualizzare ogni esecuzione delle tue campagne smart dallo smartphone o dall’iPad. La smart card Marketo Moments rappresenta un&#39;unica esecuzione di una campagna; una nuova scheda viene visualizzata ogni volta che la campagna smart viene eseguita. Le schede delle campagne intelligenti sono contrassegnate da una lampadina in alto a sinistra.
 
@@ -26,7 +26,7 @@ Per le campagne intelligenti future pianificate ma non ancora eseguite, la sched
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. La scheda dei dettagli consente di accedere alle informazioni sui filtri Elenco avanzato, Flusso e Riepilogo e-mail.
-1. Toccate Elenco **** avanzato.
+1. Toccate **Smart List**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -42,7 +42,7 @@ Per le campagne intelligenti future pianificate ma non ancora eseguite, la sched
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Fate clic su Riepilogo **e-** mail.
+1. Fare clic su **Riepilogo e-mail**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -58,7 +58,7 @@ Per le campagne intelligenti future pianificate ma non ancora eseguite, la sched
    >
    >L&#39;altro punto è ora evidenziato.
 
-## Creazione di esempi e anteprime per e-mail {#creating-email-samples-and-previews}
+## Creazione di esempi e anteprime di e-mail {#creating-email-samples-and-previews}
 
 È una buona idea dare un&#39;occhiata a un&#39;email prima che esca. Oppure, mandate un campione a qualcun altro per farci vedere un secondo set di occhi.
 
@@ -70,7 +70,7 @@ Per le campagne intelligenti future pianificate ma non ancora eseguite, la sched
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Conferma dell&#39;esecuzione di una campagna intelligente {#confirming-a-smart-campaign-run}
+## Conferma di esecuzione di una campagna intelligente {#confirming-a-smart-campaign-run}
 
 Le schede per le campagne intelligenti non confermate sono grigie fino a quando non vengono confermate. Poi diventano arancioni.
 
@@ -82,7 +82,7 @@ Le schede per le campagne intelligenti non confermate sono grigie fino a quando 
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Toccate **Conferma** per completare il processo oppure **Non importa** se avete dei ripensamenti.
+1. Toccate **Conferma** per completare il processo, oppure **Non imitare** se avete dei ripensamenti.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -102,7 +102,7 @@ Potete annullare un&#39;esecuzione confermata di una campagna intelligente piani
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Toccate **Annulla esecuzione**. Se all&#39;ultimo minuto decidete di non annullare l&#39;esecuzione, toccate **Non importa** mai e la campagna intelligente verrà eseguita come pianificato.
+1. Toccate **Annulla esecuzione**. Se all&#39;ultimo minuto decidete di non annullare l&#39;esecuzione, toccate **Non importa** e la campagna smart verrà eseguita come pianificato.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -114,11 +114,11 @@ Potete ripianificare una campagna smart confermata che non è ancora stata esegu
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Toccate **Ripeti programmazione**.
+1. Toccare **Riprogrammare**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Selezionate una data nel calendario e toccate **Riprogrammazione**.
+1. Selezionare una data nel calendario e toccare **Riprogrammare**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -136,7 +136,7 @@ Come con altre schede Marketo Moments, potete toccare i tre punti su qualsiasi s
 
 >[!NOTE]
 >
->Potete anche toccare l&#39;icona **Condividi** su una scheda Smart Campaign da condividere, e le icone **Fine** e **Preferiti** sulla scheda dei dettagli.
+>Potete anche toccare l&#39;icona **Condividi** su una scheda Smart Campaign per la condivisione, nonché le icone **Done** e **Favorite** sulla scheda dei dettagli.
 
 ## Eliminazione rapida di una smart card {#quickly-delete-a-smart-campaign-card}
 
