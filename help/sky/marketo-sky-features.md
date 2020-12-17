@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Funzioni Marketo Sky
 
-Di seguito troverai i contenuti disponibili in [!DNL Marketo Sky].
+Qui di seguito troverai le informazioni disponibili in [!DNL Marketo Sky].
 
 ## Navigazione
 
