@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->È inoltre possibile impedire l&#39;aggiornamento di un campo. Per informazioni dettagliate, consultate [Blocco degli aggiornamenti di un campo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) .
+>È inoltre possibile impedire l&#39;aggiornamento di un campo. Per ulteriori informazioni, vedere [Blocca aggiornamenti a un campo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Utilizzo {#usage}
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >**Promemoria**
    >
    >
-   >Puoi anche utilizzare i token in **Nuovo valore**.
+   >È inoltre possibile utilizzare i token in **Nuovo valore**.
 
    >[!TIP]
    >
-   >Per cancellare il campo, è possibile immettere &quot;NULL&quot; (senza virgolette, senza didascalie) in **Nuovo valore** . Per ulteriori informazioni, vedere [Cancella valori](change-data-value/clear-field-values.md) dei campi.
+   >Per cancellare il campo, è possibile immettere &quot;NULL&quot; (senza virgolette, tutte maiuscole) in **Nuovo valore**. Per ulteriori informazioni, vedere [Cancella valori campo](change-data-value/clear-field-values.md).
 
    >[!NOTE]
    >
