@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Modificare la versione di testo di un messaggio e-mail {#edit-the-text-version-of-an-email}
+# Modificare la versione di testo di un&#39;e-mail {#edit-the-text-version-of-an-email}
 
 Quando create un messaggio e-mail, potete desiderare che la versione di testo del messaggio venga formulata in modo diverso rispetto alla versione HTML. Per impostazione predefinita, Marketo copia automaticamente il contenuto di testo di qualsiasi elemento RTF contenuto nel messaggio e-mail sulla versione Testo. Ecco come modificarlo.
 
 >[!NOTE]
 >
->Questo non è un articolo sulla creazione di un&#39;e-mail di solo testo. Per ulteriori informazioni, consultate [Creare un messaggio e-mail](create-a-text-only-email.md)di solo testo.
+>Questo non è un articolo sulla creazione di un&#39;e-mail di solo testo. Per ulteriori informazioni, vedere [Creare un&#39;e-mail solo testo](create-a-text-only-email.md).
 
-1. Nell’editor e-mail, fate clic sulla scheda **Testo** in fondo all’e-mail.
+1. Nell&#39;editor e-mail, fate clic sulla scheda **Testo** in fondo all&#39;e-mail.
 
    ![](assets/one-5.png)
 
