@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Esportare un elenco di tutti i nomi dei campi API Marketo {#export-a-list-of-all-marketo-api-field-names}
+# Esportazione di un elenco di tutti i nomi dei campi API Marketo {#export-a-list-of-all-marketo-api-field-names}
 
 Se utilizzi le nostre API SOAP o Munchkin, avrai bisogno di un elenco di tutti i tuoi campi e dei loro nomi API. Ecco come ottenere questa lista.
 
@@ -19,11 +19,11 @@ Se utilizzi le nostre API SOAP o Munchkin, avrai bisogno di un elenco di tutti i
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 
-1. Fate clic su **Esporta nomi** campi per scaricare il foglio di calcolo.
+1. Fate clic su **Esporta nomi campi** per scaricare il foglio di calcolo.
 
    ![](assets/image2014-9-24-14-3a5-3a6.png)
 
