@@ -17,8 +17,8 @@ ht-degree: 0%
 
 Non riesci ancora a trovare quello di cui hai bisogno? Non sa cosa non sa? Connettiti con noi! Possiamo aiutare.
 
-![—](assets/seo-29.png) Per assistenza tecnica su un problema che non funziona, contatta l&#39;Assistenza [**clienti di**](https://nation.marketo.com/t5/Support/ct-p/Support)Marketo.
+![—](assets/seo-29.png) Per assistenza tecnica su un problema che non funziona, contattate l&#39;Assistenza [**clienti di**](https://nation.marketo.com/t5/Support/ct-p/Support)Marketo.
 
-![—](assets/seo-30.png) Per contattare il nostro team di servizi professionali, contattate **marketoservices@adobe.com**.
+![—](assets/seo-30.png) Per contattare il nostro team di servizi professionali, contattate  **marketoservices@adobe.com**.
 
-![—](assets/education-science-08.png) Per sviluppare le tue competenze Marketo, visita [**Marketo University**](https://learn.marketo.com).
+![—](assets/education-science-08.png) Per sviluppare le tue competenze Marketo, visita  [**Marketo University**](https://learn.marketo.com).
