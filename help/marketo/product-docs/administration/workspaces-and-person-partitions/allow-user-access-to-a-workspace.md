@@ -23,7 +23,7 @@ Le aree di lavoro possono essere per qualsiasi motivo (ad esempio, unità aziend
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sulle [aree di lavoro](understanding-workspaces-and-person-partitions.md).
+>Ulteriori informazioni su [aree di lavoro](understanding-workspaces-and-person-partitions.md).
 
 1. In Amministratore, fai clic su Utenti e ruoli.
 
@@ -33,7 +33,7 @@ Le aree di lavoro possono essere per qualsiasi motivo (ad esempio, unità aziend
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Selezionate il **ruolo e l’area di lavoro** a cui l’utente deve avere accesso.
+1. Selezionare il **ruolo e l&#39;area di lavoro** a cui si desidera che l&#39;utente possa accedere.
 
    >[!NOTE]
    >
