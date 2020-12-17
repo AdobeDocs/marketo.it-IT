@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gestione dei valori dei tag {#managing-tag-values}
 
-[I tag](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) vengono utilizzati per descrivere i programmi. Potete creare quanti ne avete bisogno, ciascuno con valori univoci. Ecco come gestire questi valori.
+[I ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) tag vengono utilizzati per descrivere i programmi. Potete creare quanti ne avete bisogno, ciascuno con valori univoci. Ecco come gestire questi valori.
 
 >[!NOTE]
 >
@@ -23,21 +23,21 @@ ht-degree: 0%
 >
 >[Creare un nuovo tag e nuovi valori tag del programma](create-a-new-program-tag-and-tag-values.md)
 
-## Aggiunta di valori tag {#adding-tag-values}
+## Aggiunta di valori di tag {#adding-tag-values}
 
-1. In **Admin**, fai clic su **Tag**.
+1. In **Admin**, fare clic su **Tags**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Fare clic su** Nuovo*, quindi su **Nuovo valore** tag.
+1. Fare clic su** Nuovo*, quindi **Nuovo valore tag**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Selezionate il tipo **di** tag.
+1. Selezionare il **Tipo di tag**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Immettete un **valore** e fate clic su **Aggiungi un altro**. È possibile aggiungere tutti i valori desiderati.
+1. Immettere un **Valore** e fare clic su **Aggiungi un altro**. È possibile aggiungere tutti i valori desiderati.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
@@ -49,15 +49,15 @@ ht-degree: 0%
 
 ![](assets/image2014-9-24-12-3a27-3a34.png)
 
-## Nascondere I Valori Dei Tag {#hiding-tag-values}
+## Nascondere i valori dei tag {#hiding-tag-values}
 
 I tag possono essere utilizzati da vecchi programmi. Potete rendere obsoleti i tag per un uso futuro nascondendo il tipo di tag.
 
-1. Selezionate il **tag** ** **e selezionate il **valore** da nascondere.
+1. Selezionare il tag*****Tag** e selezionare il **Valore** da nascondere.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. In Azioni **** tag, selezionare **Nascondi**.
+1. In **Azioni tag**, selezionare **Nascondi**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
