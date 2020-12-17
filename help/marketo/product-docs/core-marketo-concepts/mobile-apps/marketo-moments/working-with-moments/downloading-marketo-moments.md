@@ -23,7 +23,7 @@ Scarica Marketo Moments dall&#39;App Store o Google Play e voila! Magia di Marke
 1. Cerca Momenti di marketing e selezionalo.\
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
-1. Quindi, toccate **Apri**.\
+1. Quindi, toccare **Apri**.\
    ![](assets/image2015-7-7-17-3a20-3a51.png)
 
 ## Per Android {#for-android}
