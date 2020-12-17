@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Dopo aver [fissato gli obiettivi](/help/sky/setting-event-goals.md)dell&#39;evento e aver inviato gli inviti tramite una campagna [](/help/sky/create-a-smart-campaign.md)intelligente, ecco come monitorare i progressi dell&#39;obiettivo e capire le previsioni di Marketo.
+Dopo [l&#39;impostazione degli obiettivi dell&#39;evento](/help/sky/setting-event-goals.md) e l&#39;invio di inviti tramite una [campagna intelligente](/help/sky/create-a-smart-campaign.md), ecco come monitorare l&#39;avanzamento dell&#39;obiettivo e comprendere le previsioni di Marketo.
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ Dopo aver [fissato gli obiettivi](/help/sky/setting-event-goals.md)dell&#39;even
 
 ## Tracciamento degli obiettivi e registrazioni previste
 
-1. Potete trovare i dettagli di tracciamento dell&#39;obiettivo nella **[!UICONTROL Reports]** scheda del programma dell&#39;evento. In questo particolare esempio, ci sono 150 iscritti finora contro l&#39;obiettivo di 200 (75%).
+1. I dettagli sul tracciamento dell&#39;obiettivo sono disponibili nella scheda **[!UICONTROL Reports]** del programma dell&#39;evento. In questo particolare esempio, ci sono 150 iscritti finora contro l&#39;obiettivo di 200 (75%).
 
    ![Immagine uno](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Verranno inoltre visualizzate **[!UICONTROL Projected]** le registrazioni. Passa il cursore del mouse sull’icona info per visualizzare una suddivisione di questo numero per segmento probabilità.
+Verranno inoltre visualizzate le registrazioni **[!UICONTROL Projected]**. Passa il cursore del mouse sull’icona info per visualizzare una suddivisione di questo numero per segmento probabilità.
 
 ![Immagine due](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -44,11 +44,11 @@ Tutti i membri (registrati e non ancora registrati) sono classificati in base al
 
 >[!NOTE]
 >
->I numeri di previsione vengono aggiornati ogni 24 ore fino al giorno dell’evento. Tutti i membri elencati come _Elaborazione_ verranno inclusi nel prossimo ciclo di calcolo.
+>I numeri di previsione vengono aggiornati ogni 24 ore fino al giorno dell’evento. Tutti i membri elencati come _Elaborazione_ saranno inclusi nel prossimo ciclo di calcolo.
 
 ## Programmi simili
 
-È possibile ottenere informazioni dettagliate sull&#39;evento corrente analizzando le prestazioni di programmi simili in passato. Questa sezione mostra fino a 5 programmi simili degli ultimi 6 mesi, con il numero/percentuale di membri _registrati_ o superiori.
+È possibile ottenere informazioni dettagliate sull&#39;evento corrente analizzando le prestazioni di programmi simili in passato. Questa sezione mostra fino a 5 programmi simili degli ultimi 6 mesi, con il numero/percentuale di membri _Registrati_ o superiori.
 
 Nel calcolo di programmi simili, includiamo, tra l&#39;altro, i seguenti fattori:
 
@@ -69,7 +69,7 @@ Nella parte superiore della pagina Rapporti potete trovare raccomandazioni basat
 
 ## previsioni a livello di persona
 
-Fare clic sulla **[!UICONTROL Members]** scheda per visualizzare tutti i membri del programma. Passa il cursore del mouse sulle **[!UICONTROL Registration Likelihood]** barre per visualizzare **[!UICONTROL Attendance Likelihood]** le percentuali e le categorie esatte. Potete quindi intervenire sui membri di una particolare categoria (ad esempio, tutti nella categoria &quot;Minori probabilità&quot; di registrare) e mirare specificatamente a incrementare i numeri di registrazione.
+Fare clic sulla scheda **[!UICONTROL Members]** per visualizzare tutti i membri del programma. Passa il cursore del mouse sulle barre **[!UICONTROL Registration Likelihood]** o **[!UICONTROL Attendance Likelihood]** per visualizzare le percentuali e le categorie esatte. Potete quindi intervenire sui membri di una particolare categoria (ad esempio, tutti nella categoria &quot;Minori probabilità&quot; di registrare) e mirare specificatamente a incrementare i numeri di registrazione.
 
 ![Immagine sette](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ Inseriamo i valori di probabilità in tre segmenti:
 * Probabilità di registrazione > 25% a &lt;50% = probabile segmento
 * Probabilità di registrare &lt;25% = segmento meno probabile
 
-Quando una persona ha la probabilità di registrarsi, la previsione cadrà in uno di questi segmenti (ogni persona che è membro di un programma rientrerà in uno di essi). Ad esempio, se un programma di eventi ha 1000 membri in base alle previsioni di probabilità, questi 1000 verranno distribuiti in segmenti _Altamente probabili_, _Probabili_ o _Meno probabili_ .
+Quando una persona ha la probabilità di registrarsi, la previsione cadrà in uno di questi segmenti (ogni persona che è membro di un programma rientrerà in uno di essi). Ad esempio, se un programma di eventi ha 1000 membri in base alle previsioni di probabilità, questi 1000 verranno distribuiti nei segmenti _Altamente probabili_, _Probabili_ o _Meno probabili_.
 
 Pertanto, le persone che rientrano nel segmento Altamente probabile avranno maggiori possibilità di registrarsi all’evento.
 
@@ -103,7 +103,7 @@ A: La best practice prevede quanto segue:
 
 i. Potete creare un programma, e poi una Smart Campaign utilizza filtri predittivi con &quot;maggiore di X&quot;, che genererebbero una certa quantità di persone (ad esempio 1000) ed eseguireste la campagna.
 
-ii) Dopo 24 ore, nella [!UICONTROL Reports] scheda è possibile visualizzare le registrazioni previste calcolate in base alla probabilità di registrare i valori di tutte le persone attualmente invitate.
+ii) Dopo 24 ore, nella scheda [!UICONTROL Reports] è possibile visualizzare le registrazioni previste calcolate in base alla probabilità di registrare i valori di tutte le persone attualmente invitate.
 
 iii) Se le registrazioni previste sono inferiori all&#39;obiettivo, dovrete invitare più persone. A questo punto, potete vedere le intuizioni che vi dicono quale fosse la soglia che funzionava nei programmi passati.
 
@@ -117,9 +117,9 @@ v. In qualsiasi momento, se si desidera comprendere il motivo per cui un numero 
 
 A: Tre barre, ciascuna delle quali rappresenta un segmento (molto probabile, probabile, meno probabile).
 
-**Linea punteggiata viola:** Tasso di conversazione medio per la registrazione in quel segmento, in base a programmi simili passati.
+**Linea punteggiata viola: tasso** medio di conversazione con registrazione in quel segmento, basato su programmi simili passati.
 
-**Barra blu:** Percentuale di registrazione di tutte le persone in quel segmento.
+**Barra blu:percentuale di** registrazione di tutte le persone in quel segmento.
 
 ![Image Nine](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-9.png)
 
