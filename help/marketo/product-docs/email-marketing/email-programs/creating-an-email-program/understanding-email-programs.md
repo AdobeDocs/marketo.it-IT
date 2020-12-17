@@ -17,7 +17,7 @@ Saluta il tuo nuovo amico Marketo, il programma e-mail. Invia e-mail, crea test 
 
 ## Pannello di controllo Campaign {#control-panel}
 
-Quattro scatole ti tengono concentrato. **Audience** definisce il &quot;chi&quot;, l&#39; **e-mail** fornisce il &quot;cosa&quot;, la **pianificazione** definisce &quot;quando&quot; e l&#39; **approvazione** lo rende pronto.
+Quattro scatole ti tengono concentrato. **Audience** definisce il &quot;chi&quot;,  **** Emailprovider il &quot;cosa&quot;,  **** Scheduledefinisce &quot;quando&quot;, e  **** Avvisi lo rende pronto.
 
 ![](assets/emailprogram.png)
 
@@ -62,7 +62,7 @@ Utilizzate un programma e-mail all&#39;interno di un programma predefinito per t
 
 >[!NOTE]
 >
->I programmi e-mail non possono essere nidificati nei programmi [di](../../../../getting-started/quick-wins/drip-drip-nurture.md)coinvolgimento. Inoltre, non possono essere reinviati e possono eseguire un solo test alla volta.
+>I programmi e-mail non possono essere nidificati in [programmi di coinvolgimento](../../../../getting-started/quick-wins/drip-drip-nurture.md). Inoltre, non possono essere reinviati e possono eseguire un solo test alla volta.
 
 ## Impostazioni pianificazione {#schedule-settings}
 
