@@ -16,7 +16,7 @@ I passaggi di flusso indicano a Marketo cosa si desidera che accada a un gruppo 
 
 ## Aggiungere un passaggio di flusso
 
-1. In [!UICONTROL Marketing Activities], selezionate la campagna intelligente e fate clic su **[!UICONTROL Flow]**.
+1. In [!UICONTROL Marketing Activities], selezionate la campagna smart e fate clic su **[!UICONTROL Flow]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ I passaggi di flusso indicano a Marketo cosa si desidera che accada a un gruppo 
 
 **Tubo profondo**
 
-Ulteriori informazioni sui diversi passaggi [di](http://docs.marketo.com/display/DOCS/Flow+Actions)flusso.
+Ulteriori informazioni sui diversi [passaggi di flusso](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Fate clic sul menu a discesa e scegliete un’opzione appropriata.
 
@@ -38,13 +38,13 @@ Ulteriori informazioni sui diversi passaggi [di](http://docs.marketo.com/display
 
 **Promemoria**
 
-I passaggi di flusso vengono eseguiti nell&#39;ordine in cui sono elencati. [Riordinate i passaggi](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) di flusso per assicurarvi che siano nella sequenza corretta.
+I passaggi di flusso vengono eseguiti nell&#39;ordine in cui sono elencati. [Riordinate le ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) fasi di flusso per assicurarvi che siano nella sequenza corretta.
 
 >[!TIP]
 >
 >In caso di voce non valida viene visualizzata una linea rossa. Passate il mouse sulla riga per vedere come correggerla.
 >
->Accertatevi di [rivedere e convalidare la campagna](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) intelligente prima di programmarla o attivarla.
+>Prima di pianificare o attivare la campagna intelligente, è necessario [rivedere e convalidare la campagna intelligente](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist).
 
 ## Riordina passaggi flusso
 
