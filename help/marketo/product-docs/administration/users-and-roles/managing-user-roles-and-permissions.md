@@ -25,7 +25,7 @@ Marketo offre diversi ruoli predefiniti, con diversi livelli di accesso:
 
 * **Amministratore **- tutte le parti dell&#39;applicazione, inclusa la sezione Amministratore
 * **Utente standard **- tutte le parti dell&#39;applicazione, tranne la sezione Amministratore
-* **Marketing User** - tutte le parti dell&#39;applicazione, tranne la sezione Admin
+* **Marketing User**  - tutte le parti dell&#39;applicazione, tranne la sezione Admin
 * **Web Designer **- solo Design Studio
 * **Utente Analytics **- solo la sezione Analytics
 
@@ -33,23 +33,23 @@ Non potete modificare i ruoli Amministratore e Utente standard, ma potete modifi
 
 ## Assegnazione di ruoli a un utente {#assign-roles-to-a-user}
 
-Potete assegnare i ruoli a un utente al momento della [creazione degli utenti per la prima volta](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) o [modificando un utente](managing-marketo-users.md)esistente.
+È possibile assegnare i ruoli a un utente quando si [creano gli utenti per la prima volta](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) o modificando un utente esistente](managing-marketo-users.md).[
 
-1. Per modificare un utente esistente, andate ad **Admin** e fate clic su **Utenti e ruoli**.
+1. Per modificare un utente esistente, andate a **Admin** e fate clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-9-18-3a7-3a32.png)
 
-1. Dall’elenco, selezionate l’utente da modificare e fate clic su **Modifica utente**.
+1. Dall&#39;elenco, selezionare l&#39;utente che si desidera modificare e fare clic su **Modifica utente**.
 
    ![](assets/image2014-9-9-18-3a7-3a42.png)
 
-1. In **Ruoli**, selezionate i ruoli da assegnare all’utente, in base alle autorizzazioni necessarie, e fate clic su **Salva**.
+1. In **Ruoli**, selezionare i ruoli che si desidera assegnare all&#39;utente, in base alle autorizzazioni necessarie, quindi fare clic su **Salva**.
 
    ![](assets/image2014-9-9-18-3a7-3a57.png)
 
    >[!NOTE]
    >
-   >Per informazioni su ciascun ruolo, consultate [Descrizioni delle autorizzazioni](managing-user-roles-and-permissions/descriptions-of-role-permissions.md)per i ruoli.
+   >Per informazioni su ciascun ruolo, vedere [Descrizioni delle autorizzazioni del ruolo](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Creare un nuovo ruolo {#create-a-new-role}
 
@@ -75,7 +75,7 @@ A volte, la vostra organizzazione ha dipendenti in ruoli molto specifici che ric
 
 Per modificare le autorizzazioni associate a un ruolo esistente, è possibile modificare il ruolo.
 
-1. Vai ad **Admin** e fai clic su **Utenti e ruoli**.
+1. Accedete a **Admin** e fate clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
@@ -83,11 +83,11 @@ Per modificare le autorizzazioni associate a un ruolo esistente, è possibile mo
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
-1. Dall’elenco, selezionate il ruolo da modificare e fate clic su **Modifica ruolo**.
+1. Dall&#39;elenco, selezionare il ruolo che si desidera modificare e fare clic su **Modifica ruolo**.
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Modificate i valori Nome **ruolo e **Descrizione **se necessario, quindi modificate la selezione delle** autorizzazioni **** associate.
+1. Modificare il **Nome ruolo** e **Descrizione **se necessario, quindi modificare la selezione delle **Autorizzazioni** associate.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -117,10 +117,10 @@ Se un ruolo diventa inutile, è possibile eliminarlo.
 
 >[!MORELIKETHIS]
 >
->Scopri come creare altri utenti e assegnarli ruoli in [Guida introduttiva a Marketo](../../../getting-started.md).
+>Ulteriori informazioni sulla creazione di utenti aggiuntivi e l&#39;assegnazione di ruoli in [Guida introduttiva a Marketo](../../../getting-started.md).
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sulle altre attività amministrative nell&#39;attività [Amministratore](http://docs.marketo.com/display/docs/administration) .
+>Ulteriori informazioni sulle altre attività amministrative nell&#39;attività [Admin](http://docs.marketo.com/display/docs/administration) approfondita.
