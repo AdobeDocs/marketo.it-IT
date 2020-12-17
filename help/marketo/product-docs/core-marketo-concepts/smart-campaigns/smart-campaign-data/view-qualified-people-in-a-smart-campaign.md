@@ -23,7 +23,7 @@ Visualizzare le persone idonee ad attraversare il flusso quando si esegue una ca
 >
 >Le campagne intelligenti di attivazione non visualizzano le persone qualificate, in quanto vengono eseguite in base agli eventi in diretta.
 
-1. Nella scheda Persone **** qualificate sono elencate le persone idonee ad attraversare il flusso durante l&#39;esecuzione della campagna.
+1. La scheda **Persone qualificate** elenca le persone idonee a superare il flusso durante l&#39;esecuzione della campagna.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ Visualizzare le persone idonee ad attraversare il flusso quando si esegue una ca
 
    >[!NOTE]
    >
-   >Il numero di persone qualificate dipende anche dalle regole di qualificazione delle campagne intelligenti. Scopri come [modificare le regole](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)di qualifica.
+   >Il numero di persone qualificate dipende anche dalle regole di qualificazione delle campagne intelligenti. Scopri come [modificare le regole di qualifica](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Dolce! Potete utilizzare questo elenco per verificare quali persone potrebbero attraversare il flusso prima di eseguire una campagna intelligente.
 
