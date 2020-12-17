@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Elenco di controllo della campagna intelligente {#smart-campaign-checklist}
+# Elenco di controllo delle campagne intelligenti {#smart-campaign-checklist}
 
 Seguite i passaggi riportati di seguito per garantire il corretto svolgimento della campagna intelligente e prevenire gli errori il più possibile.
 
@@ -26,17 +26,17 @@ Seguite i passaggi riportati di seguito per garantire il corretto svolgimento de
    >Le linee rosse brusche indicano errori o informazioni mancanti. Se non viene corretta, la campagna non sarà valida e non verrà eseguita.
    >
    >
-   >Inoltre, **rendi le cose semplici**. Se avete dozzine o centinaia di filtri, è difficile mantenerli e tenerne traccia. Il caricamento di un numero inferiore di filtri è inoltre più rapido.
+   >Inoltre, **mantenere le cose semplici**. Se avete dozzine o centinaia di filtri, è difficile mantenerli e tenerne traccia. Il caricamento di un numero inferiore di filtri è inoltre più rapido.
 
    >[!NOTE]
    >
    >**Promemoria**
    >
    >
-   >L&#39;utilizzo di **Member of Smart List** potrebbe presentare errori in quell&#39;altro elenco. Controlla anche lì.
+   >L&#39;utilizzo di **Member of Smart List** potrebbe presentare errori nell&#39;altro elenco. Controlla anche lì.
 
 1. Elimina errori di flusso
-1. Nella campagna intelligente, fai clic su **Flusso**. Eliminate eventuali linee rosse stridanti, correggendo gli errori.
+1. Nella campagna intelligente, fate clic su **Flusso**. Eliminate eventuali linee rosse stridanti, correggendo gli errori.
 
    ![](assets/image2014-9-22-16-3a10-3a49.png)
 
@@ -45,23 +45,23 @@ Seguite i passaggi riportati di seguito per garantire il corretto svolgimento de
    >Passate il puntatore del mouse sopra la linea rossa strizzata per visualizzare i dettagli dell&#39;errore.
 
 1. Revisione della scheda Pianificazione
-1. Nella scheda **Pianificazione** , selezionate **Smart** **List** **Status** per verificare la presenza di eventuali errori nella campagna intelligente che è necessario correggere.
+1. Nella scheda **Pianificazione**, selezionare **Smart** **List** **Status** per verificare se sono presenti errori nella campagna smart che è necessario correggere.
 
    ![](assets/three.png)
 
 1. Limite limitazioni persona controllo
-1. Nella scheda **Schedule (Pianificazione** ), assicurarsi che il numero di persone qualificate non superi il limite di limitazioni per la persona.
+1. Nella scheda **Schedule**, assicurarsi che il numero di persone qualificate non superi il limite di restrizione della persona.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Se necessario, potete [ignorare le restrizioni per le persone in una campagna](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)intelligente.
+   >Se necessario, è possibile [ignorare le limitazioni relative alle persone in una campagna intelligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Promemoria**
 >
->Se la campagna intelligente continua a fallire, scopri come [comprendere le notifiche](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) per capire cosa è andato storto e come correggerlo.
+>Se la campagna intelligente continua a fallire, scopri come [comprendere le notifiche](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) per scoprire cosa è andato storto e come correggerlo.
 
 Ottimo lavoro! Tenete a portata di mano questa lista di controllo prima di eseguire una campagna intelligente.
