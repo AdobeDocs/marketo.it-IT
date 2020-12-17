@@ -20,7 +20,7 @@ Se hai bisogno di eliminare un flusso dal tuo programma di coinvolgimento, segui
 
    ![Immagine uno](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ Se hai bisogno di eliminare un flusso dal tuo programma di coinvolgimento, segui
    >L&#39;eliminazione di un flusso comporterà la perdita di dati storici per
    >il contenuto in tale flusso.
 
-1. Fate clic sull&#39;icona dell&#39;ingranaggio, quindi selezionate **[!UICONTROL Delete]**.
+1. Fare clic sull&#39;icona a forma di ingranaggio, quindi selezionare **[!UICONTROL Delete]**.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
