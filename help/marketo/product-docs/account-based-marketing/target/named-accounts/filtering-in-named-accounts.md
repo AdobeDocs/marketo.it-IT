@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Applicazione di filtri agli account denominati {#filtering-in-named-accounts}
+# Filtro negli account denominati {#filtering-in-named-accounts}
 
 Filtrare i dati è un ottimo modo per ridurli rapidamente.
 
@@ -25,17 +25,17 @@ Filtrare i dati è un ottimo modo per ridurli rapidamente.
 
    >[!NOTE]
    >
-   >Esistono diverse combinazioni di parametri di ricerca. In questo esempio si trova: *Industria = Banche, Paese = Stati Uniti, Max Dipendenti = 10000*.
+   >Esistono diverse combinazioni di parametri di ricerca. In questo esempio si trova: *Industria = Banche, Paese = Stati Uniti, Massimo Dipendenti = 10000*.
 
 1. Fare clic sul menu a discesa **Industria** e selezionare **Banche**.
 
    ![](assets/filter-2.png)
 
-1. Fare clic sul menu a discesa **Paese** e selezionare Stati **** Uniti.
+1. Fare clic sul menu a discesa **Paese** e selezionare **Stati Uniti**.
 
    ![](assets/filter-3.png)
 
-1. In **Dipendenti**, digitare &quot;0&quot; nel campo **Min** , &quot;10000&quot; nel campo **Max** , quindi fare clic su **Applica**.
+1. In **Dipendenti**, digitare &quot;0&quot; nel campo **Min**, &quot;10000&quot; nel campo **Max**, quindi fare clic su **Applica**.
 
    ![](assets/four-2.png)
 
