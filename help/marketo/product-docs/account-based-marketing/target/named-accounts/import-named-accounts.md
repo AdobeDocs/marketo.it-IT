@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Hai già un CSV pieno di potenziali account di destinazione? Importateli direttamente in ABM!
 
-1. Fate clic sul menu a **discesa Nuovo** e selezionate **Importa account** denominati.
+1. Fare clic sul menu a discesa **Nuovo** e selezionare **Importa account denominati**.
 
    ![](assets/inaone.png)
 
-1. Si aprirà una nuova finestra. Fate clic su **Sfoglia**, quindi selezionate il file di account denominati da importare.
+1. Si aprirà una nuova finestra. Fare clic su **Sfoglia**, quindi selezionare il file di account denominati da importare.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >Nel file, fornite [il maggior numero possibile di informazioni](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) . È possibile aggiungere solo informazioni relative alla fotografia; nessun valore calcolato da Marketo (ad es. Pipeline). Per creare account denominati basati su account CRM, è sufficiente esportare il nome account e l&#39;ID CRM dal CRM in un file CSV, utilizzare l&#39;opzione Nome account e mappare l&#39;ID CRM durante il processo di importazione. Per collegare correttamente un account CRM a un account denominato, devi fornire il nome esatto dell&#39;account CRM.
+   >Nel file, fornire [tutte le informazioni](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) possibili. È possibile aggiungere solo informazioni relative alla fotografia; nessun valore calcolato da Marketo (ad es. Pipeline). Per creare account denominati basati su account CRM, è sufficiente esportare il nome account e l&#39;ID CRM dal CRM in un file CSV, utilizzare l&#39;opzione Nome account e mappare l&#39;ID CRM durante il processo di importazione. Per collegare correttamente un account CRM a un account denominato, devi fornire il nome esatto dell&#39;account CRM.
 
-1. Scegliete tra due modalità di deduplicazione: Nome account o Nome dominio. In questo esempio sceglieremo Account. Fate clic sul menu a **discesa Modalità** e selezionate **Per nome** account.
+1. Scegliete tra due modalità di deduplicazione: Nome account o Nome dominio. In questo esempio sceglieremo Account. Fare clic sul menu a discesa **Modes** e selezionare **Per nome account**.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Se scegliete **Per modalità** dominio, è necessario includere sia l’account con nome che i campi del dominio.
+   >Se si sceglie **Per modalità di dominio**, è necessario includere sia l&#39;account denominato che i campi di dominio.
 
-1. Per scegliere l&#39;elenco di account a cui aggiungere l&#39;account, fate clic sul menu a discesa Elenco **** account ed effettuate la selezione.
+1. Per scegliere l&#39;elenco account a cui aggiungere l&#39;account, fare clic sul menu a discesa **Elenco account** ed effettuare la selezione.
 
    ![](assets/inafour.png)
 
@@ -43,15 +43,15 @@ Hai già un CSV pieno di potenziali account di destinazione? Importateli diretta
    >
    >Potete anche creare un nuovo elenco account digitandone semplicemente il nome nella casella a discesa.
 
-1. Per inviare una notifica dell’importazione, fate clic sul menu a discesa **Invia avviso** e selezionate un utente di Marketing. Non *potete* immettere manualmente un indirizzo e-mail.
+1. Per inviare una notifica dell&#39;importazione, fate clic sul menu a discesa **Invia avviso a** e selezionate un utente di Marketing. *non è possibile* inserire manualmente un indirizzo e-mail.
 
    ![](assets/inafive-2.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/inasix-2.png)
 
-1. Mappare ciascun campo facendo doppio clic sul menu a discesa Campo **** marketing e selezionando il campo appropriato. Al termine, fate clic su **Avanti** .
+1. Mappare ciascun campo facendo doppio clic sul campo **Campo marketing** e selezionando il campo appropriato. Fare clic su **Next** al termine.
 
    ![](assets/inaseven.png)
 
