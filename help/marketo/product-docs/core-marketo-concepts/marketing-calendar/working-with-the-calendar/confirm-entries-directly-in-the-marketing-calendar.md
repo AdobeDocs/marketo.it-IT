@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Confermare Le Voci Direttamente Nel Calendario Di Marketing {#confirm-entries-directly-in-the-marketing-calendar}
+# Confermare le voci direttamente nel calendario di marketing {#confirm-entries-directly-in-the-marketing-calendar}
 
 Le campagne intelligenti e i programmi email possono essere creati come voci provvisorie e devono essere confermati affinché tutto possa effettivamente accadere. Ecco come.
 
-1. Vai al **calendario**.
+1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Selezionate la voce da confermare e fate clic su **Mostra stato attivo** programma.
+1. Selezionare la voce da confermare e fare clic su **Mostra messa a fuoco programma**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
