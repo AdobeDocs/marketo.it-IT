@@ -20,11 +20,11 @@ Puoi creare nuove campagne batch intelligenti direttamente nel calendario.
 >
 >Solo le campagne smart batch possono essere create nella visualizzazione Pianificazione programma. Campagne di trigger non supportate.
 
-1. Selezionare il programma nella struttura ad albero, quindi passare alla **[!UICONTROL Schedule]** scheda sotto **[!UICONTROL Overview]**.
+1. Selezionare il programma nella struttura ad albero, quindi passare alla scheda **[!UICONTROL Schedule]** in **[!UICONTROL Overview]**.
 
    ![Immagine uno](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-1.png)
 
-1. Passa il cursore del mouse sul giorno a cui si desidera aggiungere una voce, quindi fai clic **[!UICONTROL Add]**.
+1. Passa il cursore del mouse sul giorno a cui si desidera aggiungere una voce, quindi fai clic su **[!UICONTROL Add]**.
 
    ![Immagine due](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-2.png)
 
@@ -32,7 +32,7 @@ Puoi creare nuove campagne batch intelligenti direttamente nel calendario.
    >
    >Potete inoltre seguire passaggi simili per creare una campagna in batch intelligente a partire dalle viste Giorno, Settimana o Agenda.
 
-1. Immettete un nome per la nuova campagna smart, quindi passate **[!UICONTROL Type]** a [!UICONTROL Smart Campaign]. Potete inoltre modificare la voce **[!UICONTROL Start Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se desiderate rimanere nel calendario dopo la creazione della voce. Fate clic **[!UICONTROL Save]**.
+1. Immettete un nome per la nuova campagna smart, quindi passate da **[!UICONTROL Type]** a [!UICONTROL Smart Campaign]. È inoltre possibile modificare il **[!UICONTROL Start Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se si desidera rimanere nel calendario dopo la creazione della voce. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine tre](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
