@@ -19,15 +19,15 @@ L&#39;aggiunta di concorrenti consente di tenere traccia delle prestazioni delle
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Fate clic sulla scheda **Concorrenti** .
+1. Fare clic sulla scheda **Concorrenti**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Fare clic su **AGGIUNGI CONCORRENTE**.
+1. Fare clic su **ADD COMPETITOR**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
