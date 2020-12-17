@@ -24,6 +24,6 @@ Puoi eliminare qualsiasi voce nel calendario in pochi semplici passaggi.
 
    ![Immagine due](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Fare clic **[!UICONTROL Confirm]** per eliminare la voce.
+1. Fare clic su **[!UICONTROL Confirm]** per eliminare la voce.
 
    ![Immagine tre](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
