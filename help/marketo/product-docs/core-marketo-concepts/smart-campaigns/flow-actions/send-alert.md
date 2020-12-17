@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiunque, il proprietario della vendita, un partner o qualcun altro. Utilizzare il passaggio **Invia avviso** .
+Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiunque, il proprietario della vendita, un partner o qualcun altro. Utilizzare il passaggio di flusso **Invia avviso**.
 
 ![](assets/one-1.png)
 
@@ -29,7 +29,7 @@ Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiun
    >
    >**Promemoria**
    >
-   >L’avviso e-mail deve contenere tutte le informazioni dell’intestazione e trovarsi nello stato **Approvato** .
+   >L&#39;avviso e-mail deve contenere tutte le informazioni di intestazione e deve trovarsi nello stato **Approvato**.
 
 1. Potete fare clic sull’icona di anteprima per verificare di aver selezionato l’e-mail corretta.
 
@@ -39,7 +39,7 @@ Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiun
    >
    >**Promemoria**
    >
-   >Assicuratevi di usare il token **Invia informazioni** avviso nel messaggio e-mail.
+   >Assicurarsi di utilizzare il token **Invia informazioni avviso** nell&#39;e-mail.
 
 1. Seleziona il destinatario dell’avviso. È possibile scegliere Proprietario vendita o Proprietario account.
 
@@ -51,9 +51,9 @@ Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiun
 
    >[!TIP]
    >
-   >Nelle campagne di attivazione, è possibile utilizzare i token in **Altre e-mail** , ad esempio `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. I token in **Alle altre e-mail** non funzioneranno in una campagna batch.
+   >Nelle campagne di attivazione, è possibile utilizzare i token in **Alle altre e-mail** come `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. I token in **Ad altre e-mail** non funzioneranno in una campagna batch.
 
-È tutto! Ora sai come utilizzare il passaggio **Invia avviso** .
+È tutto! Ora è possibile utilizzare il passaggio di flusso **Invia avviso**.
 
 >[!MORELIKETHIS]
 >
