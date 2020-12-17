@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Attivatori e filtri per le campagne mobili intelligenti {#triggers-and-filters-for-mobile-smart-campaigns}
+# Attivatori e filtri per campagne mobili intelligenti {#triggers-and-filters-for-mobile-smart-campaigns}
 
 Puoi impostare attivatori e filtri per una campagna intelligente per app mobile.
 
-Per la maggior parte delle attività sono presenti un trigger, un filtro e un filtro di inattività. Usate i filtri di inattività per tenere traccia di un’azione, ad esempio toccando una notifica push, che *non* è avvenuta.
+Per la maggior parte delle attività sono presenti un trigger, un filtro e un filtro di inattività. Utilizzate i filtri di inattività per tenere traccia di un&#39;azione, ad esempio toccando una notifica push, che *non è stata eseguita*.
 
 * L&#39;App Mobile È/È Stata Installata
 * App Mobile Aperta
@@ -27,7 +27,7 @@ Esistono solo filtri per questa attività:
 
 * È stata inviata una notifica push - filtro e filtro di inattività
 
-Cerca l’app **** mobile nel pannello a destra per elencare tutti gli attivatori e i filtri per l’app mobile.
+Cerca **app mobile** nel pannello a destra per elencare tutti i trigger e i filtri dell&#39;app mobile.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -57,7 +57,7 @@ Alcuni attivatori e filtri offrono vincoli aggiuntivi, ad esempio:
 
 * Durata sessione (secondi) - Ora della sessione in cui l&#39;app è in primo piano
 
-* È abilitato per push - **True** significa che è possibile inviare le notifiche push. **False** significa che non possono; ad esempio, la persona potrebbe aver rinunciato alla ricezione delle notifiche push
+* È abilitato il push - **True** significa che è possibile inviare le notifiche push. **** Falsemei che non possono; ad esempio, la persona potrebbe aver rinunciato alla ricezione delle notifiche push
 
 ## Triggers e filtri {#triggers-and-filters}
 
@@ -103,7 +103,7 @@ App Mobile Aperta
 
 Con/Avevano Attività App Mobile
 
-che forniscono un modo efficace per monitorare l&#39;attività mobile personalizzata. Dovrai collaborare con il tuo sviluppatore per configurare il tracciamento [per Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+che forniscono un modo efficace per monitorare l&#39;attività mobile personalizzata. Per impostare il tracciamento [per Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios) sarà necessario lavorare con il vostro sviluppatore.
 
 * Con attività app mobile - attivatore
 
@@ -180,7 +180,7 @@ Toccate/toccate la notifica push
 >
 >Utilizzate il filtro di inattività delle notifiche push non toccate per individuare le persone che non hanno toccato una notifica push inviata di recente, in modo da poter essere seguite tramite e-mail.
 
-**È stata inviata una notifica** push Questa attività è disponibile solo come filtro.
+**È stata inviata** la notifica pushQuesta attività è disponibile solo come filtro.
 
 * È stata inviata una notifica push - filtro
 
