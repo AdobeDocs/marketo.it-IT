@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È possibile apportare modifiche ai diversi elementi del programma nella vista Pianificazione.
 
-## Modifica del nome di una voce {#edit-an-entrys-name}
+## Modificare il nome di una voce {#edit-an-entrys-name}
 
 1. Selezionate la voce da modificare.
 
@@ -29,13 +29,13 @@ ht-degree: 0%
 >
 >Questo modifica solo il nome visualizzato nella vista Pianificazione. Il nome della risorsa nel programma rimarrà invariato.
 
-## Modifica della descrizione di una voce {#edit-an-entrys-description}
+## Modifica la descrizione di una voce {#edit-an-entrys-description}
 
 1. Fate clic sull’icona della descrizione.
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Modificate la descrizione. Fate clic su **Salva**.
+1. Modificate la descrizione. Fare clic su **Salva**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
