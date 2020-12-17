@@ -23,15 +23,15 @@ ht-degree: 0%
 
 
 
-1. Nell&#39;editor di test e-mail, selezionare **Riga** oggetto nel menu a discesa **Test Type **a discesa.
+1. Nell&#39;editor di test e-mail, selezionare **Riga oggetto** nel menu a discesa **Test Type **Test.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >In un test con oggetto, la prima riga oggetto inserita è designata come **Campione**. Le righe oggetto successive sono denominate **Challengers**.
+   >In una prova con oggetto, la prima riga dell&#39;oggetto inserita è indicata come &quot;Champion **&quot;.** Le righe oggetto successive sono denominate **Challengers**.
 
-1. Inserisci le righe oggetto per i **Challengers**.
+1. Immettere l&#39;oggetto o le righe per i **Challengers**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -50,9 +50,9 @@ ht-degree: 0%
    >
    >Nella distribuzione sopra riportata, il 10% del pubblico totale specificato nell&#39;elenco smart riceve una delle e-mail con l&#39;oggetto dello sfidante e il 90% riceve e-mail con l&#39;oggetto campione. Le e-mail con più righe oggetto dello sfidante condividono lo stesso 10%. Al termine del test, potete dichiarare manualmente un vincitore. Da quel momento in poi, tutti i futuri utenti riceveranno i contenuti più performanti.
 
-   Per ottenere la certezza statistica, accertatevi che la percentuale selezionata includa abbastanza persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti.  [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval)statistica.
+   Per ottenere la certezza statistica, accertatevi che la percentuale selezionata includa abbastanza persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti.  [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
