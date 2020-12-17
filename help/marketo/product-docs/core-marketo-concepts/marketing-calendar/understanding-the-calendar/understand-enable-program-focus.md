@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Comprendere/attivare lo stato attivo del programma {#understand-enable-program-focus}
 
-Il Calendario marketing offre una visione d&#39;insieme delle cose, ma permette anche alcune interazioni. Potete [creare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [modificare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)e [confermare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) le voci. Per interagire con le voci, è necessario concentrarsi prima su un programma.
+Il Calendario marketing offre una visione d&#39;insieme delle cose, ma permette anche alcune interazioni. È possibile [creare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [modificare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) e [confermare](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) voci. Per interagire con le voci, è necessario concentrarsi prima su un programma.
 
-1. Andate al **Marketing** **Calendar**.
+1. Andate al **Marketing** **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Selezionate una voce e fate clic su **Mostra stato attivo** programma.
+1. Selezionare una voce e fare clic su **Mostra messa a fuoco programma**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
