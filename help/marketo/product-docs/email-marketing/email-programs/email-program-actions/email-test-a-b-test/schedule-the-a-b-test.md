@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programmare il test A/B {#schedule-the-a-b-test}
+# Pianificare il test A/B {#schedule-the-a-b-test}
 
 Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincenti, dovrete pianificare quando il test ha inizio. Ecco come.
 
@@ -31,7 +31,7 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincen
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Selezionate l’ora di **invio del test** .
+1. Selezionare l&#39;ora **Invia test**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -52,12 +52,12 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincen
 
    >[!NOTE]
    >
-   >Se avete scelto di dichiarare il vincitore manualmente, definite la data/ora di invio **del** rapporto invece di **Termina invio** postale.
+   >Se si sceglie di dichiarare il vincitore manualmente, sarà possibile definire **Invia report** data/ora invece di **Termina invio** data/ora.
 
    Super! Hai finito, controlla il riepilogo e fai clic su Chiudi.
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Noterete che la sezione **Pianificazione** è stata aggiornata.
+   Noterete che la sezione **Schedule** è stata aggiornata.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
