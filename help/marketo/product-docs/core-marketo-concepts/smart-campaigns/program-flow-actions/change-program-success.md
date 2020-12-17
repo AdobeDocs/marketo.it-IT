@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica riuscita del programma {#change-program-success}
+# Modifica riuscita programma {#change-program-success}
 
 ## Panoramica {#overview}
 
@@ -37,7 +37,7 @@ Se avete un gruppo di persone contrassegnato accidentalmente con Successo progra
    >
    >Impostando la Data di completamento su qualsiasi valore, il Success viene impostato automaticamente su true. Impostando Success su true, la Data di completamento viene impostata automaticamente sulla data corrente.
 
-1. Impostare il **nuovo valore** su **True** o **False**.
+1. Impostare il **Nuovo valore** su **True** o su **False**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
