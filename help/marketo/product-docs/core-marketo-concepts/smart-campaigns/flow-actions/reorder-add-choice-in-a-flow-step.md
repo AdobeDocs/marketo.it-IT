@@ -19,15 +19,15 @@ Poiché solo la prima scelta di corrispondenza si applica a una persona, l&#39;o
 
    ![](assets/one.png)
 
-1. Spostiamo la scelta 3 sopra la scelta 2. Fare clic su **Scelta 3** , quindi fare clic su **Sposta su**.
+1. Spostiamo la scelta 3 sopra la scelta 2. Fare clic su **Scelta 3**, quindi fare clic su **Sposta su**.
 
    >[!NOTE]
    >
-   >Al momento del riordinamento, potete **spostarvi su**, **spostare giù** o **spostare su**.
+   >Durante il riordinamento, è possibile **Spostarsi su**, **Spostarsi giù** o **Spostarsi su**.
 
    ![](assets/two.png) ![](assets/three.png)
 
-1. Se sono disponibili numerose opzioni e è necessario spostare uno o più livelli verso l&#39;alto o il basso, è possibile utilizzare questo metodo alternativo per risparmiare tempo. Fate clic sulla scelta da spostare, quindi, in **Sposta a**, trascinate il cursore nella posizione in cui desiderate spostare la scelta.
+1. Se sono disponibili numerose opzioni e è necessario spostare uno o più livelli verso l&#39;alto o il basso, è possibile utilizzare questo metodo alternativo per risparmiare tempo. Fare clic sulla scelta da spostare, quindi, in **Sposta a**, trascinare il cursore nella posizione in cui si desidera spostare la scelta.
 
    ![](assets/four.png)
 
