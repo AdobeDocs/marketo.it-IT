@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Cartella campagna: Scheda Panoramica
 
-Nella scheda della cartella della campagna sono disponibili due sezioni [!UICONTROL Overview] : **[!UICONTROL Details]** e **[!UICONTROL Reports]**.
+Nella cartella della campagna [!UICONTROL Overview] sono presenti due sezioni: **[!UICONTROL Details]** e **[!UICONTROL Reports]**.
 
 ![Immagine uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
 [!UICONTROL ## Details]
 
-La [!UICONTROL Details] pagina principale contiene informazioni generali sulla cartella della campagna.
+La pagina principale [!UICONTROL Details] contiene informazioni generali sulla cartella della campagna.
 
 ![Immagine uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
@@ -28,7 +28,7 @@ Fate clic sul menu a discesa Azioni cartella in alto a destra per accedere rapid
 
 [!UICONTROL ## Reports]
 
-Nella [!UICONTROL Reports] sezione sono disponibili informazioni chiave sulle diverse campagne all’interno della cartella.
+Nella sezione [!UICONTROL Reports] potete trovare informazioni chiave sulle diverse campagne all&#39;interno della cartella.
 
 ![Immagine uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
