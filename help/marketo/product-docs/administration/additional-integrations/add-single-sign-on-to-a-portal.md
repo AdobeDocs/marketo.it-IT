@@ -25,13 +25,13 @@ Una volta attivato SSO, l&#39;IdP può convalidare le credenziali di un utente. 
 
 >[!NOTE]
 >
->Sei un utente di Microsoft Azure? Guardate la loro esercitazione [sull&#39;](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/)integrazione.
+>Sei un utente di Microsoft Azure? Controlla la loro [esercitazione sull&#39;integrazione](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/).
 
 ## Come inviare la richiesta {#how-to-send-the-request}
 
 * Invia la richiesta SSO, che è una risposta SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Come URL pubblico dell&#39;SP. Usa [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Se utilizzate l&#39;attributo SPNameQualifier, impostate l&#39;elemento NameID per Subject su [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
+* Come URL pubblico dell&#39;SP. Utilizzare [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
+* Se utilizzate l&#39;attributo SPNameQualifier, impostate l&#39;elemento NameID per l&#39;elemento Subject su [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
 * Se state federando più iscrizioni Marketo allo stesso provider SSO, potete utilizzare URL SP univoci per ogni sottomodulo Marketo con il formato `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
@@ -40,10 +40,10 @@ Una volta attivato SSO, l&#39;IdP può convalidare le credenziali di un utente. 
 
 ## Note aggiuntive {#additional-notes}
 
-* **Tempo** di sincronizzazione: per un nuovo utente, si verifica circa 10 minuti di ritardo prima dell&#39;elaborazione di una richiesta SSO iniziale.
-* **Provisioning** utente - Il provisioning degli utenti viene eseguito manualmente da Marketo.
-* **Autorizzazione** - Le autorizzazioni degli utenti vengono mantenute in Marketo.
-* **Supporto** OAuth - Marketo non supporta attualmente OAuth.
+* **Tempo**  di sincronizzazione: per un nuovo utente, si verifica circa 10 minuti di ritardo prima dell&#39;elaborazione di una richiesta SSO iniziale.
+* **Provisioning**  utente: il provisioning degli utenti viene eseguito manualmente da Marketo.
+* **Autorizzazione**  - Le autorizzazioni utente vengono mantenute in Marketing Cloud.
+* **Supporto**  OAuth: Marketo non supporta attualmente OAuth.
 
 >[!NOTE]
 >
@@ -59,43 +59,43 @@ SSO è disattivato per impostazione predefinita. Segui i passaggi per abilitare 
 
    >[!NOTE]
    >
-   >Se non trovi **Single Sign-On** in **Admin**, contatta [`[email protected]`](http://mailto:support@marketo.com).
+   >Se **Single Sign-On** non è visualizzato in **Admin**, contattare [`[email protected]`](http://mailto:support@marketo.com).
 
-1. Nella sezione Impostazioni **** SAML fare clic su **Modifica**.
+1. Nella sezione **Impostazioni SAML** fare clic su **Modifica**.
 
    ![](assets/image2014-9-24-14-3a37-3a3.png)
 
-1. Modificate **SAML Single Sign-On** in **Enabled**.
+1. Cambia **Single Sign-On** SAML in **Abilitato**.
 
    ![](assets/image2014-9-24-14-3a37-3a17.png)
 
-1. Immettete il vostro **ID** emittente, l&#39;ID **** entità, selezionate il percorso **ID** utente, quindi fate clic su **Sfoglia**.
+1. Immettete l&#39; **ID emittente**, **ID entità**, selezionate la **Posizione ID utente**, quindi fate clic su **Sfoglia**.
 
    ![](assets/image2014-9-24-14-3a37-3a32.png)
 
-1. Selezionate il file del certificato **del provider di** identità.
+1. Selezionare il file **Certificato provider di identità**.
 
    ![](assets/image2014-9-24-14-3a38-3a8.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-24-14-3a38-3a22.png)
 
 ## Aggiorna impostazioni pagina di reindirizzamento {#update-redirect-page-settings}
 
-1. Nella sezione **Reindirizza pagine** , fare clic su **Modifica**.
+1. Nella sezione **Reindirizza pagine**, fare clic su **Modifica**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >I clienti che utilizzano l’ID universale insieme a SSO devono immettere l’URL di accesso del provider di identità nel campo URL **** di accesso.
+   >I clienti che utilizzano l&#39;ID universale insieme a SSO devono immettere l&#39;URL di accesso del provider di identità nel campo **URL di accesso**.
 
-1. Immettete un URL **per il** logout. Questo è l&#39;URL a cui si desidera indirizzare l&#39;utente quando esce da Marketo.
+1. Immettere un **URL di disconnessione**. Questo è l&#39;URL a cui si desidera indirizzare l&#39;utente quando esce da Marketo.
 
    ![](assets/eight.png)
 
-1. Immettete un URL **** errore. Questo è l&#39;URL a cui si desidera indirizzare l&#39;utente nel caso in cui l&#39;accesso a Marketo non riesca. Fate clic su **Salva**.
+1. Immettere un **URL errore**. Questo è l&#39;URL a cui si desidera indirizzare l&#39;utente nel caso in cui l&#39;accesso a Marketo non riesca. Fare clic su **Salva**.
 
    ![](assets/nine.png)
 
