@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sulle campagne in batch e di attivazione {#understanding-batch-and-trigger-smart-campaigns}
+# Campagne avanzate in batch e trigger {#understanding-batch-and-trigger-smart-campaigns}
 
 Esistono due tipi di campagne intelligenti: Batch e Trigger.
 
@@ -27,19 +27,19 @@ Le campagne smart in batch includeranno solo filtri nella sezione degli elenchi 
 
 ![](assets/batch-filter.png)
 
-Facendo clic sulla scheda **Schedule (Pianificazione** ), verrà confermato che la campagna smart è impostata su &quot;Batch&quot;.
+Facendo clic sulla scheda **Schedule** (Pianificazione), verrà confermato che la campagna smart è impostata su &quot;Batch&quot;.
 
 ![](assets/batch-c4.png)
 
 **Campagne intelligenti in batch**
 
 * Può essere pianificato per le ricorrenze, ad esempio giornaliere, settimanali e mensili. Potete anche farli correre una sola volta.
-* Sono visibili nella vista [Pianificazione](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)programma.\
+* Sono visibili nella [vista programmazione programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
    *Si noti che qualsiasi cosa dopo un passaggio &quot;Wait&quot; all&#39;interno della campagna intelligente non sarà incluso nella vista.
 
 <br> 
 
-## Attivate Smart Campaign {#trigger-smart-campaign}
+## Trigger Smart Campaign {#trigger-smart-campaign}
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Se una campagna intelligente utilizza almeno un trigger all&#39;interno della se
 
 ![](assets/trigger.png)
 
-Facendo clic sulla scheda **Pianificazione** , si confermerà che la campagna intelligente è impostata su &quot;Attivato&quot;.
+Facendo clic sulla scheda **Schedule** (Pianificazione), verrà confermato che la campagna smart è impostata su &quot;Triggered&quot; (Attivazione).
 
 ![](assets/trigger2.png)
 
@@ -60,11 +60,11 @@ Facendo clic sulla scheda **Pianificazione** , si confermerà che la campagna in
 * Impossibile pianificare le ricorrenze. Possono essere impostati solo su attivi o inattivi.
 * È possibile impostare più attivatori. Tuttavia, se viene attivato un attivatore, le azioni della campagna verranno eseguite.
 
-## Video sulla creazione di campagne e-mail attivate {#watch-a-video-on-creating-triggered-email-campaigns}
+## Guarda un video sulla creazione di campagne e-mail attivate {#watch-a-video-on-creating-triggered-email-campaigns}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
 >[!TIP]
 >
->Utilizzate il registro [delle](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) attività per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Potete trovare il registro attività nell&#39;ultima scheda della pagina dei dettagli di una persona.
+>Utilizzate il [registro attività](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Potete trovare il registro attività nell&#39;ultima scheda della pagina dei dettagli di una persona.
 
