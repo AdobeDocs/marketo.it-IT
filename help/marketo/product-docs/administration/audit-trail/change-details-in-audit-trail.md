@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica dettagli nella traccia di audit {#change-details-in-audit-trail}
+# Modifica dettagli nella traccia di controllo {#change-details-in-audit-trail}
 
 Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa nell&#39;abbonamento a Marketo. Ecco i dettagli.
 
@@ -32,7 +32,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="15">Programma predefinito<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Crea</td> 
-   <td>Tipo di canale "tipo di canale"<br><br>o "Clonato da "nome del programma"</td> 
+   <td>Tipo di canale "tipo di canale"<br>o<br>Duplicato da "nome del programma"</td> 
   </tr> 
   <tr> 
    <td>Rinomina</td> 
@@ -40,7 +40,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato sull'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna" o "programma di coinvolgimento" Nome <br>del programma "nuovo nome"</td> 
+   <td>Cliccato per l'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna" o "programma di coinvolgimento" <br>Nome del programma "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -93,7 +93,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="18">E-mail<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Crea</td> 
-   <td>Creato utilizzando il modello "nome modello" <br>o <br>clonato da "nome risorsa"</td> 
+   <td>Creato utilizzando il modello "nome modello" <br>o <br>Duplicato da "nome risorsa"</td> 
   </tr> 
   <tr> 
    <td>Modifica</td> 
@@ -101,11 +101,11 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>Aggiornato "Da E-mail" a "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"</td> 
+   <td>Aggiornato "Da e-mail" a "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"</td> 
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>"Rispondi a" aggiornato a "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[protetto tramite e-mail]</a>"</td> 
+   <td>"Rispondi a" aggiornato a "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[email protected]</a>"</td> 
   </tr> 
   <tr> 
    <td>Modifica</td> 
@@ -145,11 +145,11 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "Design studio" nella cartella "nome cartella" Nome risorsa <br>clonata "nome"<br><br>o "Attività di marketing" in "nome programma" Nome risorsa<br>clonata "nome"</td> 
+   <td>Clonato su "Design studio" nella cartella "nome cartella" <br>Nome risorsa "nome"<br>o<br>Clonato su "Attività marketing" nel programma "nome programma"<br>Nome risorsa "nome"</td> 
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Spostato in "Design studio" nella cartella "nome cartella"<br><br>o spostato in "Attività di marketing" in "nome programma"</td> 
+   <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Spostato in "Attività di marketing" in "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Approva</td> 
@@ -161,12 +161,12 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Bozza</td> 
-   <td>L'e-mail è stata redatta perché lo snippet "snippet name" è stato<br><br>approvato o l'e-mail è stata compilata perché il modello "template name" è stato approvato</td> 
+   <td>L'e-mail è stata compilata perché il frammento "nome frammento" è stato approvato<br>o<br>L'e-mail è stata redatta perché il modello "nome modello" è stato approvato</td> 
   </tr> 
   <tr> 
    <td rowspan="17">Programma e-mail</td> 
    <td>Crea</td> 
-   <td>Tipo di canale "tipo di canale"<br><br>o "Clonato da "nome del programma"</td> 
+   <td>Tipo di canale "tipo di canale"<br>o<br>Duplicato da "nome del programma"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Rinomina</td> 
@@ -174,7 +174,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato sull'area di lavoro "nome dell'area di lavoro" <br>Posizione "Cartella campagna o programma di coinvolgimento" Nome del programma <br>clonato "nuovo nome"</td> 
+   <td>Cliccato per l'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna o programma di coinvolgimento" <br>Nome del programma "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -214,7 +214,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
-   <td>Modifica il comportamento di analisi "nome comportamento"<br>Vecchio comportamento "nome comportamento"</td> 
+   <td>Modifica il comportamento di analisi "nome comportamento"<br>Nome comportamento precedente</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
@@ -255,7 +255,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "nome cartella" Nome risorsa <br> clonata "nome"</td> 
+   <td>Clonato su "nome cartella" <br> Nome risorsa clonata "nome"</td> 
   </tr> 
   <tr> 
    <td>Approva</td> 
@@ -268,7 +268,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="23">Programma di coinvolgimento</td> 
    <td>Crea</td> 
-   <td>Tipo di canale "tipo di canale"<br> o<br> Clona da "nome del programma"</td> 
+   <td>Tipo di canale "tipo di canale"<br> o<br> Duplicato da "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Rinomina</td> 
@@ -276,7 +276,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato sull'area di lavoro "nome dell'area di lavoro" <br>Posizione "Cartella campagna o programma di coinvolgimento" Nome del programma <br>clonato "nuovo nome"</td> 
+   <td>Cliccato per l'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna o programma di coinvolgimento" <br>Nome del programma "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -300,19 +300,19 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Modifica flusso di programmi</td> 
-   <td>Aggiungi<br>contentSteam name "stream name"<br>Tipo "Email" o "Program"<br>Nome "email name" o "program name"<br>Smart Campaign "smart campaign name"</td> 
+   <td>Aggiungere contenuto<br>Nome flusso "nome flusso"<br>Digitare "Email" o "Program"<br>Nome "nome e-mail" o "nome programma"<br>Nome campagna smart</td> 
   </tr> 
   <tr> 
    <td>Modifica flusso di programmi</td> 
-   <td>Attivare il nome<br>contentStream "stream name" Nome<br>contenuto "email name" o "program name"</td> 
+   <td>Attivare il contenuto<br>Nome flusso "nome flusso"<br>Nome contenuto "nome e-mail" o "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Modifica flusso di programmi</td> 
-   <td>Disattiva il nome<br>contentStream "nome flusso" Nome<br>contenuto "nome e-mail" o "nome programma"</td> 
+   <td>Disattivare il contenuto<br>Nome flusso "nome flusso"<br>Nome contenuto "nome e-mail" o "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Modifica flusso di programmi</td> 
-   <td>Rimuovi nome<br>contentStream "nome flusso" Nome<br>contenuto "nome e-mail" o "nome programma"</td> 
+   <td>Rimuovi contenuto<br>Nome flusso "nome flusso"<br>Nome contenuto "nome e-mail" o "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Modifica token programma</td> 
@@ -332,7 +332,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
-   <td>Modifica il comportamento di analisi "nome comportamento"<br>Vecchio comportamento "nome comportamento"</td> 
+   <td>Modifica il comportamento di analisi "nome comportamento"<br>Nome comportamento precedente</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
@@ -361,7 +361,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="18">Programma evento</td> 
    <td>Crea</td> 
-   <td>Tipo di canale "tipo di canale"<br><br>o "Clonato da "nome del programma"</td> 
+   <td>Tipo di canale "tipo di canale"<br>o<br>Duplicato da "nome del programma"</td> 
   </tr> 
   <tr> 
    <td>Rinomina</td> 
@@ -373,7 +373,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato sull'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna" o "programma di coinvolgimento" Nome <br>del programma "nuovo nome"</td> 
+   <td>Cliccato per l'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna" o "programma di coinvolgimento" <br>Nome programma "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Modifica canale</td> 
@@ -405,7 +405,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
-   <td>Modifica il comportamento di analisi "nome comportamento"<br>Vecchio comportamento "nome comportamento"</td> 
+   <td>Modifica il comportamento di analisi "nome comportamento"<br>Nome comportamento precedente</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
@@ -479,11 +479,11 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "Design studio" nella cartella "nome cartella" Nome risorsa <br>clonata "nome"<br><br>o "Attività di marketing" in "nome programma" Nome risorsa<br>clonata "nome"</td> 
+   <td>Clonato su "Design studio" nella cartella "nome cartella" <br>Nome risorsa "nome"<br>o<br>Clonato su "Attività marketing" nel programma "nome programma"<br>Nome risorsa "nome"</td> 
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Spostato in "Design studio" nella cartella "nome cartella"<br><br>o spostato in "Attività di marketing" in "nome programma"</td> 
+   <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Spostato in "Attività di marketing" in "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -493,7 +493,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="9">Pagina di destinazione</td> 
    <td>Crea</td> 
-   <td>Creato utilizzando il modello "nome modello" <br>o <br>clonato da "nome risorsa"</td> 
+   <td>Creato utilizzando il modello "nome modello" <br>o <br>Duplicato da "nome risorsa"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -509,11 +509,11 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "Design studio" nella cartella "nome cartella" Nome risorsa<br>clonata "nome" URL risorsa<br>clonata "www.url.com"<br><br>o "Attività di marketing" nel programma "nome programma" Nome risorsa <br>clonata "nome"URL risorsa<br>clonata "www.url.com"</td> 
+   <td>Clonato su "Design Studio" nella cartella "foldername"<br>Nome risorsa "name"<br>URL risorsa "www.url.com"<br>o<br>Clonato su "Marketing Activities" in program "program name" <br>Nome risorsa "name"<br>URL risorsa clonata "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Spostato in "Design studio" nella cartella "nome cartella"<br> o<br> spostato in "Attività di marketing" in "nome programma"</td> 
+   <td>Spostato in "Design studio" nella cartella "nome cartella"<br> o<br> Spostato in "Attività di marketing" in "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Approva</td> 
@@ -530,7 +530,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="8">Modello pagina di destinazione</td> 
    <td>Crea</td> 
-   <td><p>BlankorClonato da "nome risorsa"<br><br></p></td> 
+   <td><p>Blank<br>o<br>Clonato da "nome risorsa"</p></td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -546,7 +546,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "nome cartella" Nome risorsa <br>clonata "nome"</td> 
+   <td>Clonato su "nome cartella" <br>Nome risorsa clonata "nome"</td> 
   </tr> 
   <tr> 
    <td>Esporta</td> 
@@ -571,7 +571,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "Database Persona" nella cartella "nome cartella" Nome risorsa <br>clonato "nome"<br><br>o su "Attività marketing" in "nome programma" Nome risorsa<br>clonata "nome"</td> 
+   <td>Clonato su "Database persona" nella cartella "nome cartella" <br>Nome risorsa clonata "nome"<br>o<br>Clonato su "Attività marketing" nel programma "nome programma"<br>Nome risorsa clonata "nome"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -600,7 +600,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Spostato in "Programmi" nel programma "nome programma"<br><br>o spostato in "Cartelle" nella cartella "nome cartella"</td> 
+   <td>Spostato in "Programmi" nel programma "nome programma"<br>o<br>Spostato in "Cartelle" nella cartella "nome cartella"</td> 
   </tr> 
   <tr> 
    <td>Rinomina</td> 
@@ -616,7 +616,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "Programmi" nel programma "nome programma" Nome risorsa <br>clonata "nome"<br><br>o "Cartella" nella cartella "nome cartella" Nome risorsa<br>clonata "nome"</td> 
+   <td>Clonato su "Programmi" nel programma "nome programma" <br>Nome risorsa "nome"<br>o<br>Clonato su "Cartella" nella cartella "nome cartella"<br>Nome risorsa "nome"</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione elenco smart</td> 
@@ -653,7 +653,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "Database Persona" nella cartella "nome cartella" Nome risorsa <br>clonato "nome"<br><br>o su "Attività marketing" in "nome programma" Nome risorsa <br>clonata "nome"</td> 
+   <td>Clonato su "Database persona" nella cartella "nome cartella" <br>Nome risorsa clonata "nome"<br>o<br>Clonato su "Attività marketing" nel programma "nome programma" <br>Nome risorsa clonata "nome"</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione elenco smart</td> 
@@ -662,7 +662,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="11">Snippet</td> 
    <td>Crea</td> 
-   <td><p><br><br>BlankorCloning from "snippet name"</p></td> 
+   <td><p>Blank<br>o<br>Duplicato da "nome frammento"</p></td> 
   </tr> 
   <tr> 
    <td>Modifica</td> 
@@ -690,7 +690,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Clona</td> 
-   <td>Clonato su "nome cartella" Nome frammento <br>clonato "nome"</td> 
+   <td>Clonato su "nome cartella" <br>Nome frammento di codice "nome"</td> 
   </tr> 
   <tr> 
    <td>Approva</td> 
@@ -761,7 +761,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   <tr> 
    <td rowspan="7">Utente<br><br><br><br></td> 
    <td>Crea (invito)</td> 
-   <td>Utente invitato con: L'e-mail "indirizzo e-mail", il nome "nome e cognome", l'accesso scadrà "vuoto o con una data", l'utente API "vero o falso" - <br>mostra un'istantanea dei ruoli e delle aree di lavoro assegnati all'utente</td> 
+   <td>Utente invitato con: Indirizzo e-mail, Nome "nome e cognome", Accesso Scade "vuoto o con una data", Utente API "true o false" - <br>mostra un'istantanea dei ruoli e delle aree di lavoro assegnati all'utente</td> 
   </tr> 
   <tr> 
    <td colspan="1">Elimina</td> 
