@@ -47,24 +47,24 @@ Marketo dispone di una nuova opzione per selezionare un segmento quando invia e-
 
 Personalizzate i moduli di LinkedIn Lead Gen per la raccolta di attributi lead personalizzati. È ora possibile porre fino a tre domande personalizzate per modulo, scegliere tra testo di input a riga singola o domande a scelta multipla e mappare nuovamente i campi lead Marketo.
 
-## [Integrazione Slack](../../product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Integrazione Slack ](../../product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 Abbiamo introdotto due funzionalità nell&#39;ambito della nuova integrazione di Slack :
 
 * Notifiche di sistema: Ricevi notifiche  Slack relative a eventi importanti nell’istanza di Marketo, come avvisi sugli stati delle campagne correnti e su eventuali problemi che richiedono un’attenzione immediata.
 * Momenti interessanti: Quando un Marketo Insight è stato attivato da un individuo noto da un conto di vendita, i proprietari principali possono essere informati tramite  Slack. Le notifiche includono informazioni sui lead e dettagli sul conto di vendita.
 
-## Miglioramenti di ABM {#abm-enhancements}
+## Miglioramenti ABM {#abm-enhancements}
 
-** [Mostra account senza contatti](https://docs.marketo.com/x/fKCt)**
+** [Mostra account senza contatti](https://docs.marketo.com/x/fKCt)*
 
 Marketo ABM ora sincronizza e visualizza gli account CRM senza contatti. Includi nuovi account senza precedenti vendite o cronologia marketing e monitora l&#39;avanzamento confrontando i lead successivi agli account.
 
-## `<sup>AI </sup>`ContentAnalytics {#contentai-analytics}
+## Content`<sup>AI </sup>`Analytics {#contentai-analytics}
 
-** [Nuovo filtro](https://docs.marketo.com/x/1BPG) elenco account ABM **
+** [Nuovo filtro elenco account ABM](https://docs.marketo.com/x/1BPG) **
 
-Visualizzate e confrontate le prestazioni del contenuto negli elenchi di account ABM per ottimizzare il contenuto esistente. Il contenuto`<sup>AI</sup>` mostra quanto segue:
+Visualizzate e confrontate le prestazioni del contenuto negli elenchi di account ABM per ottimizzare il contenuto esistente. Content`<sup>AI</sup>` mostra:
 
 * contenuto principale visualizzato
 * contenuto convertito principale
@@ -72,24 +72,24 @@ Visualizzate e confrontate le prestazioni del contenuto negli elenchi di account
 
 ## Miglioramenti della personalizzazione Web {#web-personalization-enhancements}
 
-** [Token per campagne](https://docs.marketo.com/x/SwJI)Web**
+** [Token per campagne Web](https://docs.marketo.com/x/SwJI)**
 
 I token sono ora disponibili per l&#39;utilizzo all&#39;interno delle campagne Web. Sfruttate i token per inviare messaggi e contenuti personalizzati per aumentare il coinvolgimento nelle campagne Web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [Design Studio Images in Web Campaign Editor](https://docs.marketo.com/x/SwJI)**
+** [Progetta immagini da studio nell&#39;editor di campagne Web](https://docs.marketo.com/x/SwJI)**
 
 Risparmia tempo riutilizzando risorse creative e immagini su più canali in Marketo.
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integrazione  {#integration}
+## Integrazione {#integration}
 
-** [Email Preview API](https://developers.marketo.com/rest-api/assets/emails/)**
+** [Email Preview API](https://developers.marketo.com/rest-api/assets/emails/)*
 
 Ora potete visualizzare in anteprima le e-mail all&#39;esterno di Marketo, semplificando il processo di localizzazione del contenuto delle e-mail e riducendo gli errori.
 
-** [Sostituisci API](https://developers.marketo.com/rest-api/assets/emails/)HTML**
+** [Sostituisci API HTML](https://developers.marketo.com/rest-api/assets/emails/)*
 
 Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.
