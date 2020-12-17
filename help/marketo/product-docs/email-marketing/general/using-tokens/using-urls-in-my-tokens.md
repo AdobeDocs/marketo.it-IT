@@ -19,23 +19,23 @@ Segui i passaggi indicati di seguito per utilizzare i Token personali per inseri
 
    ![](assets/one-4.png)
 
-1. Selezionate il **testo** Token personale, trascinatelo e rilasciatelo nell’area di lavoro.
+1. Selezionare il **Testo** Token personale, trascinarlo e rilasciarlo nell&#39;area di lavoro.
 
    ![](assets/two-4.png)
 
-1. Assegna al token un nome univoco, immetti un URL (senza http://) e fai clic su **Salva**.
+1. Assegna al token un nome univoco, immetti un URL (senza il http://) e fai clic su **Salva**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Per essere certi che i clic siano tracciati nel messaggio e-mail, **non** immettete http:// nel valore del token.
+   >Per essere certi che i clic siano tracciati nell&#39;e-mail, **not** immettete http:// all&#39;interno del valore del token.
 
 1. Selezionate il messaggio e-mail nel programma.
 
    ![](assets/four-3.png)
 
-1. Fate clic su **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/five-3.png)
 
@@ -63,11 +63,11 @@ Segui i passaggi indicati di seguito per utilizzare i Token personali per inseri
 
    ![](assets/ten.png)
 
-1. Premete Ctrl/Comando+V per incollare il contenuto nella casella **URL** e fate clic su **Inserisci**.
+1. Premere Ctrl/Cmd+V per incollare il contenuto nella casella **URL** e fare clic su **Inserisci**.
 
    ![](assets/eleven.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/twelve.png)
 
