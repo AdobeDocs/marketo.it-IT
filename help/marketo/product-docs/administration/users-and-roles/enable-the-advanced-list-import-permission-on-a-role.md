@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abilitare l&#39;autorizzazione di importazione degli elenchi avanzati per un ruolo {#enable-the-advanced-list-import-permission-on-a-role}
+# Abilita l&#39;autorizzazione di importazione degli elenchi avanzati per un ruolo {#enable-the-advanced-list-import-permission-on-a-role}
 
 La modalità di importazione elenco è disponibile solo per gli utenti con un ruolo che dispone dell’autorizzazione di importazione avanzata per l’elenco. Tutti gli altri utenti non visualizzeranno il menu a discesa Modalità importazione elenco durante l’importazione di un elenco di persone e di tutti gli elenchi importati, per impostazione predefinita, in modalità di importazione Normale.
 
@@ -19,11 +19,11 @@ La modalità di importazione elenco è disponibile solo per gli utenti con un ru
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin**.
+1. Vai a **Admin**.
 
    ![](assets/adminhand-2.png)
 
-1. Fate clic su **Utenti e ruoli**.
+1. Fare clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
@@ -31,7 +31,7 @@ La modalità di importazione elenco è disponibile solo per gli utenti con un ru
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
-1. In Database di accesso, selezionare Importazione **elenco** avanzata, quindi fare clic su **Salva**.
+1. In Database di accesso, selezionare **Importazione elenco avanzata**, quindi fare clic su **Salva**.
 
    ![](assets/four-1.png)
 
