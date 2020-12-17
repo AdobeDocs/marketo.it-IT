@@ -19,7 +19,7 @@ Per utilizzare i Marketo Sky, è necessario abilitare i ruoli per gli utenti des
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In Marketing Classic, fai clic su **Admin**.
+1. In Marketo Classic, fare clic su **Admin**.
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
