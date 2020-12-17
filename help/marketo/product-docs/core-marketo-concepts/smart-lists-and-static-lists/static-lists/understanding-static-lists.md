@@ -23,8 +23,8 @@ La differenza tra un elenco statico e uno avanzato è fondamentale per comprende
 
 | Tipo | Logica |
 |---|---|
-| Smart List | In base a regole **definite** |
-| Elenco statico | In base all&#39; **aggiunta o alla rimozione di ogni persona** |
+| Smart List | Basato su **regole definite** |
+| Elenco statico | Basato su **aggiunta/rimozione di ogni persona** |
 
 >[!CAUTION]
 >
