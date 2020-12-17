@@ -16,14 +16,14 @@ ht-degree: 0%
 
 I programmi sono uno degli elementi più importanti in [!DNL Marketo]. Li userete molto!
 
-1. Fare clic con il pulsante destro del mouse sul globo dell&#39;area di lavoro nella parte superiore della struttura e selezionare **[!UICONTROL New Program]** dall&#39;elenco a discesa.
+1. Fare clic con il pulsante destro del mouse sul globo dell&#39;area di lavoro nella parte superiore della struttura e selezionare **[!UICONTROL New Program]** dal menu a discesa.
 
    ![Immagine uno](/help/sky/assets/programs/create-a-new-program/create-a-new-program-1.png)
 
-1. Inserisci un nome per il nuovo programma. Quindi scegliete il [!UICONTROL Type], [!UICONTROL Workspace], la [!UICONTROL Destination] cartella e [!UICONTROL Channel] dai rispettivi menu a discesa.
+1. Inserisci un nome per il nuovo programma. Quindi scegliete la cartella [!UICONTROL Type], [!UICONTROL Workspace], [!UICONTROL Destination] e [!UICONTROL Channel] dai rispettivi menu a discesa.
 
    ![Immagine due](/help/sky/assets/programs/create-a-new-program/create-a-new-program-2.png)
 
-1. Facoltativamente, puoi inserire un [!UICONTROL Description] e/o aggiungere [!UICONTROL Labels] al programma. Fare clic **[!UICONTROL Add]** per completare la creazione del programma.
+1. Facoltativamente, è possibile inserire un [!UICONTROL Description] e/o aggiungere [!UICONTROL Labels] al programma. Fare clic su **[!UICONTROL Add]** per completare la creazione del programma.
 
    ![Immagine tre](/help/sky/assets/programs/create-a-new-program/create-a-new-program-3.png)
