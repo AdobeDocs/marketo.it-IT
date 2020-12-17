@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Note sulla versione: Aprile 2012 {#release-notes-april}
 
-## Filtri e attivatori di segmentazione {#segmentation-filters-and-triggers}
+## Filtri di segmentazione e attivatori {#segmentation-filters-and-triggers}
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
->Per altre versioni, consulta la sezione approfondita [Note](http://docs.marketo.com/display/docs/release+notes) sulla versione.
+>Per altre versioni, vedere le [Note sulla versione](http://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
 Esegue il targeting dello stesso gruppo di lead in modo coerente? In tal caso, utilizzate la segmentazione negli elenchi smart per eseguire il targeting dei lead. Con la segmentazione, l’intero database dei lead è sempre segmentato e può essere riutilizzato nei programmi per garantire la coerenza. I risultati della segmentazione vengono estratti rapidamente perché non richiedono l&#39;esecuzione dell&#39;elenco avanzato al momento della richiesta.
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
 
-## Inserimento di valori esterni nel contenuto dell&#39;e-mail e in altri passaggi di flusso tramite le funzionalità API estese {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
+## Inserire valori esterni nel contenuto dell&#39;e-mail e in altri passaggi di flusso tramite le funzionalità API estese {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
 
 * L&#39;API Request Campaign ora consente di inviare valori per i Token personali per l&#39;esecuzione particolare della campagna. Questo è particolarmente utile per la compilazione del contenuto delle e-mail tramite l&#39;API
 * Le nuove API Upload To List (Carica in elenco) e Schedule Campaign supportano quanto indicato sopra per gli elenchi di lead e le campagne batch.
@@ -46,7 +46,7 @@ Nota: Al momento, questa funzione non è supportata in Internet Explorer a causa
 
 ![](assets/image2014-9-23-10-3a4-3a46.png)
 
-## Sposta testo in un messaggio e-mail {#move-text-in-an-email}
+## Sposta testo in un&#39;e-mail {#move-text-in-an-email}
 
 Potete riordinare i blocchi di testo in un messaggio e-mail. Nell&#39;editor di testo, selezionare un blocco di testo; quando si fa clic sull&#39;icona di modifica, viene visualizzata l&#39;opzione per spostare il blocco verso l&#39;alto o verso il basso.
 
