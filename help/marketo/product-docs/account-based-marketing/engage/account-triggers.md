@@ -23,7 +23,7 @@ Digitate &quot;Account denominato&quot; nella casella di ricerca per individuare
 
 ![](assets/two-1.png)
 
-Trascinare il trigger desiderato sul quadro. In questo esempio viene utilizzato _Aggiunto a Account_ denominato.
+Trascinare il trigger desiderato sul quadro. In questo esempio viene utilizzato _Aggiunto a Account denominato_.
 
 ![](assets/three-1.png)
 
