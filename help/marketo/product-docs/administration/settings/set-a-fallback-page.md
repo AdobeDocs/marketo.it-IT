@@ -19,15 +19,15 @@ Le pagine di fallback sono l&#39;ultima riga di difesa se la pagina di destinazi
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fai clic su **Pagine** di destinazione.
+1. In **Admin**, fare clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. Nella scheda Pagine **di** destinazione, fare clic su **Modifica**.
+1. Nella scheda **Pagine di destinazione** fare clic su **Modifica**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Immettete una pagina **** di fallback nella finestra di dialogo e fate clic su **Salva**.
+1. Immettere una **pagina di fallback** nella finestra di dialogo e fare clic su **Salva**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
