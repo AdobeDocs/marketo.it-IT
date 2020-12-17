@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Importare un programma {#import-a-program}
+# Importa un programma {#import-a-program}
 
 Un programma può essere importato da un’iscrizione a Marketo a un’altra. Ad esempio, potete creare un programma in una sandbox e importarlo nell&#39;abbonamento live. È inoltre possibile importare un programma pregenerato dalla libreria dei programmi Marketo.
 
-## Importare un programma {#import-a-program-1}
+## Importa un programma {#import-a-program-1}
 
-1. Vai a Attività **di marketing.**
+1. Vai a **Attività di marketing.**
 
    ![](assets/ma.png)
 
@@ -30,21 +30,21 @@ Un programma può essere importato da un’iscrizione a Marketo a un’altra. Ad
    >Importazione programma è disponibile solo per gli utenti che hanno attivato i ruoli con l&#39;autorizzazione Importa programma. Ulteriori informazioni sulla [gestione di ruoli utente e autorizzazioni](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
    >
-   >Per collegare un account sandbox al tuo abbonamento live, contatta il [supporto](http://www.marketo.com/services/support/)di Marketo.
+   >Per collegare un account sandbox al tuo abbonamento live, contatta il [Supporto marketing](http://www.marketo.com/services/support/).
 
-1. Selezionate un’ **iscrizione** Marketo e un programma da importare. Fate clic su **Avanti**.
+1. Selezionare un&#39;iscrizione **Marketing** e un programma da importare. Fare clic su **Next**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Specificate una cartella **** campagna per il programma importato. Fate clic su **Avanti.**
+1. Specificate una **cartella campagna** per il programma importato. Fare clic su **Avanti.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Assicurarsi che** ****Usa regole di conflitto** predefinite sia selezionato. Le regole di conflitto sono necessarie quando si importano programmi in un&#39;istanza con risorse dello stesso nome.
+   >Assicurarsi che** ****Usa regole di conflitto predefinite** sia selezionato. Le regole di conflitto sono necessarie quando si importano programmi in un&#39;istanza con risorse dello stesso nome.
 
-1. Visualizzare l&#39;anteprima dei dettagli e **importare** il programma.
+1. Visualizza in anteprima i dettagli e **Importa** il programma.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -58,7 +58,7 @@ Al termine dell’importazione, riceverete un messaggio e-mail di conferma.
 >
 >Sarà necessario riprogrammare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente i programmi delle campagne e attiva le campagne nel programma importato.
 
-## Identificare i programmi pregenerati nella libreria dei programmi Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identificare i programmi pregenerati nella libreria dei programmi di Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 
 La libreria del programma Marketo contiene programmi preconfigurati e testati che puoi importare nell&#39;abbonamento. I programmi disponibili includono:
 
@@ -77,13 +77,13 @@ La libreria del programma Marketo contiene programmi preconfigurati e testati ch
 1. **Sincronizza nuove persone con CRM.** La campagna che sincronizza nuove persone con il sistema CRM. Assegna uno stato a una persona in modo che venga riconosciuta come non pronta per le vendite.
 1. **Webinar con adattatore evento.** Una serie completa di e-mail, ad esempio inviti e promemoria, oltre a pagine di destinazione con moduli e campagne per l&#39;indirizzamento delle persone attraverso il programma. Questo programma ottiene aggiornamenti su registrazione, partecipazione, ecc. da provider di eventi online come WebEx.
 1. **Webinar senza adattatore evento.** Come sopra, ma con processi manuali per la registrazione, la partecipazione, ecc.
-1. **Programma** di Punteggio Decisioni Sirius. Questo programma è costruito per supportare il modello standard di valutazione delle decisioni di Sirius, incluse le regole di punteggio implicite ed esplicite e l&#39;assegnazione di persona matrixed. Visualizzare [il](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF per ulteriori dettagli.
+1. **Programma** di Punteggio Decisioni Sirius. Questo programma è costruito per supportare il modello standard di valutazione delle decisioni di Sirius, incluse le regole di punteggio implicite ed esplicite e l&#39;assegnazione di persona matrixed. Per ulteriori informazioni, vedere [questo PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf).
 
 >[!CAUTION]
 >
 >È necessario creare due campi personalizzati (&quot;Punteggio demografico&quot; e &quot;Punteggio comportamentale&quot;) prima di importare il programma Scoring - Standard &amp; Select Editions.
 
-## Impatto sulle attività esterne durante le importazioni del programma {#impact-on-external-assets-during-program-imports}
+## Impatto sulle risorse esterne durante le importazioni del programma {#impact-on-external-assets-during-program-imports}
 
 I programmi utilizzano risorse esterne come i modelli e-mail, i modelli delle pagine di destinazione, le immagini, i moduli, i token e i tag dei programmi. È possibile configurare il modo in cui vengono gestiti i modelli e i tag dei programmi delle pagine di destinazione e Marketo gestisce automaticamente gli altri.
 
@@ -103,8 +103,8 @@ I programmi utilizzano risorse esterne come i modelli e-mail, i modelli delle pa
 
 >[!CAUTION]
 >
->Durante l&#39;importazione di un programma, le pagine di destinazione/e-mail contenenti contenuto [](http://docs.marketo.com/x/yRAt) dinamico verranno ignorate.
+>Durante l&#39;importazione di un programma, le pagine/e-mail di destinazione contenenti [contenuto dinamico](http://docs.marketo.com/x/yRAt) verranno ignorate.
 
-## Video {#watch-a-video}
+## Guarda il video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
