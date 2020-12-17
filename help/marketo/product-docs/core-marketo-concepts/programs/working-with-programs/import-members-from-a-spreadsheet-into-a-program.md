@@ -27,31 +27,31 @@ ht-degree: 0%
 
 ## Importa il file CSV in Marketo {#import-your-csv-into-marketo}
 
-1. Nel programma, andate alla sezione **Membri** .
+1. Nel programma, andate alla sezione **Membri**.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Fate clic su **Importa membri**.
+1. Fare clic su **Importa membri**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selezionate il CSV e fate clic su **Avanti**.
+1. Selezionate il CSV e fate clic su **Next**.
 
    ![](assets/importlist1.png)
 
-1. Mappare i valori dei dati dall&#39;elenco ai campi Marketo corrispondenti e fare clic su **Avanti**.
+1. Mappare i valori dei dati dall&#39;elenco ai campi Marketo corrispondenti e fare clic su **Next**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >In presenza di campi che non desiderate importare, selezionate **IGNORE** nel menu a discesa Campo marketing.
+   >Se non si desidera importare alcun campo, selezionare **IGNORE** nel menu a discesa Campo marketing.
 
-1. Selezionare lo Stato **** membro per l&#39;elenco.
+1. Selezionare il **Stato membro** per l&#39;elenco.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Fate clic su **Importa**.
+1. Fare clic su **Importa**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
