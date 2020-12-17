@@ -45,7 +45,7 @@ Scegli la versione beta aperta Marketo Sky per accedere a oltre 100 nuove funzio
 * Guide in-app e aiuto contestuale
 * Etichette delle risorse e visualizzazioni del calendario più flessibili
 
-## Approfondimenti sulle prestazioni {#performance-insights}
+## Approfondimenti delle prestazioni {#performance-insights}
 
 [Approfondimenti sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
@@ -69,11 +69,11 @@ Condividi facilmente i tuoi grafici rapidi con altri utenti di Performance Insig
 
 La navigazione ottimizzata e i flussi di lavoro migliorati offrono visibilità ai criteri di successo del programma e accesso ai dettagli del programma.
 
-## <sup>ContentAI</sup>  {#contentai}
+## Contenuto<sup>AI</sup> {#contentai}
 
 [Impostazione obiettivo](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Impostate l&#39;obiettivo dell&#39;algoritmo di ottimizzazione<sup>ContentAI</sup> per generare più visualizzazioni, clic o conversioni.
+Impostate l&#39;obiettivo dell&#39;algoritmo di ottimizzazione Content<sup>AI</sup> per generare più visualizzazioni, clic o conversioni.
 
 ## Integrazione e API {#integration-and-apis}
 
