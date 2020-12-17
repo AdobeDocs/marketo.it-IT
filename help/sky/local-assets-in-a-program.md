@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Le risorse locali sono i contenuti che compongono il programma. Le risorse sono personalizzabili e consentono di creare iniziative di marketing automatizzate. Di seguito viene illustrata la maggior parte delle risorse locali in cui è possibile creare [!DNL Marketo Sky].
+Le risorse locali sono i contenuti che compongono il programma. Le risorse sono personalizzabili e consentono di creare iniziative di marketing automatizzate. Di seguito viene illustrata la maggior parte delle risorse locali che è possibile creare in [!DNL Marketo Sky].
 
 ![Immagine uno](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
