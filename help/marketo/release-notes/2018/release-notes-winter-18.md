@@ -25,9 +25,9 @@ Marketo sfrutta la nostra grande architettura dei dati per aumentare il throughp
 
 Sono stati introdotti due miglioramenti all&#39;integrazione CRM Salesforce:
 
-* [Notifiche](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) agli amministratori di marketing per alcuni errori di sincronizzazione CRM (credenziali scadute, limiti API raggiunti, ecc.)
+* [Notifiche ](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) agli amministratori di marketing per alcuni errori di sincronizzazione CRM (credenziali scadute, limiti API raggiunti, ecc.)
 
-* [Possibilità di disattivare le notifiche](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) e-mail ai proprietari principali in caso di assegnazione lead
+* [Possibilità di disattivare le ](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) notifiche e-mail ai proprietari principali in caso di assegnazione lead
 
 Questi miglioramenti verranno introdotti nel 2018.
 
@@ -43,29 +43,29 @@ Scopri in che modo campagne e canali stanno influenzando i risultati aziendali c
 
 ## Miglioramenti del marketing basati su account {#account-based-marketing-enhancements}
 
-** Gerarchie [](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)ABM*
+** [Gerarchie ABM](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
 Per i clienti ABM con Salesforce o Microsoft Dynamics, ABM erediterà automaticamente (e visualizzerà) le relazioni padre-figlio stabilite in CRM. Potrete utilizzare queste relazioni sia nel reporting rollup che nell&#39;esecuzione della campagna.
 
 ## Marketing e-mail {#email-marketing}
 
-** Script [e-mail](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)dinamico**
+** [Script e-mail dinamico](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)*
 
 Gli script Velocity ora sono supportati nelle e-mail che utilizzano il contenuto dinamico. Combinate velocità e contenuti dinamici basati sulla segmentazione per creare e-mail altamente personalizzate.
 
 **Fuso orario destinatario**
 
-* ** [Cadenza ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**dell&#39;urta mensile:** **Abbiamo aggiunto la possibilità di programmare programmi di cura su cadenza mensile.
+* ** [Cadenza naturale mensile ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **Abbiamo aggiunto la possibilità di programmare programmi di nutrizione su cadenza mensile.
 
 * ** [Arresta consegna](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: È ora possibile arrestare qualsiasi invio rimanente a metà esecuzione.
 
 ## Integrazioni di rete annunci {#ad-network-integrations}
 
-** [Integrazione](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)con Google Customer Match**
+** [Integrazione della corrispondenza dei clienti Google](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 Con questa integrazione, potete inviare un pubblico di Marketo a Google per il targeting tramite Google AdWords, così come rieseguire il targeting del pubblico su YouTube, Search e Gmail.
 
-** Miglioramento delle API [LinkedIn Corrispondenti](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)di Audiences**
+** [Miglioramento dell&#39;API per l&#39;audience di LinkedIn abbinato](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 La nostra nuova API LinkedIn ora consente di rieseguire il targeting delle persone nel database Marketo tra più account LinkedIn Campaign Manager.
 
@@ -75,7 +75,7 @@ La nostra nuova API LinkedIn ora consente di rieseguire il targeting delle perso
 
 Marketo sta aggiungendo un&#39;origine dati giapponese aggiuntiva per la personalizzazione Web per migliorare l&#39;identificazione dei visitatori Web (ricerca IP inversa) e la personalizzazione per i visitatori provenienti dal Giappone. I nomi dell&#39;organizzazione verranno visualizzati in giapponese.
 
-** [Creare un segmento Web utilizzando elenchi](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)statici**
+** [Crea un segmento Web utilizzando elenchi statici](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 Web Personalization (Personalizzazione Web) ora può personalizzare il contenuto per un visitatore Web noto che fa parte di un elenco statico definito in Marketing Activities (MLM). Con questo miglioramento, ora potete commercializzare elenchi statici tra canali diversi e rivolgervi a persone in questi elenchi con contenuti personalizzati sul vostro sito Web.
 
@@ -83,11 +83,11 @@ Web Personalization (Personalizzazione Web) ora può personalizzare il contenuto
 
 **Miglioramento dell&#39;algoritmo predittivo**
 
-I contenuti consigliati tramite gli algoritmi`<sup>AI </sup>`Contenuto ottimizzati di Marketo generano fino al doppio dei clic rispetto al contenuto casuale.
+I contenuti consigliati tramite gli algoritmi Content`<sup>AI </sup>`ottimizzati di Marketo generano fino al doppio dei clic rispetto al contenuto casuale.
 
 ## Integrazione {#integration}
 
-** [Attiva/Disattiva API](http://developers.marketo.com/rest-api/assets/campaigns/)campagna**
+** [Attiva/Disattiva API campagna](http://developers.marketo.com/rest-api/assets/campaigns/)*
 
 Questa nuova API consente di attivare e disattivare in remoto le campagne attivatore, per creare modelli di programma completamente automatizzati. Crea un modello di programma una volta, quindi automatizza la duplicazione, gli aggiornamenti collaterali di marketing e ora l&#39;attivazione/pianificazione di campagne intelligenti.
 
@@ -95,7 +95,7 @@ Questa nuova API consente di attivare e disattivare in remoto le campagne attiva
 
 **Annulla sottoscrizione aggiornamento**
 
-A partire dal 1 marzo 2018, tutte le e-mail inviate da [ToutApp.com](http://ToutApp.com) (e utilizzando il pulsante &quot;Email with Tout&quot; in Salesforce) avranno un collegamento per l’annullamento della sottoscrizione aggiunto in basso.
+A partire dal 1 marzo 2018, tutte le e-mail inviate da [ToutApp.com](http://ToutApp.com) (e utilizzando il pulsante &quot;Email with Tout&quot; in Salesforce) avranno un collegamento di annullamento della sottoscrizione aggiunto in basso.
 
 **Live Feed Update**
 
