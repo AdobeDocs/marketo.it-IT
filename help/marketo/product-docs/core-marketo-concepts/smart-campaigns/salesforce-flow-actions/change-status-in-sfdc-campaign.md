@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica dello stato nella campagna SFDC {#change-status-in-sfdc-campaign}
+# Modifica dello stato della campagna SFDC {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Se un lead non esiste in Salesforce o non è ancora membro della campagna, verr�
 
 ## Utilizzo {#usage}
 
-1. Individua e seleziona la **campagna** Salesforce in cui si trova il record.
+1. Individua e seleziona Salesforce **Campaign** in cui si trova il record.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Selezionate quindi il **nuovo** **stato** che desiderate impostare e avete finito!
+1. Selezionare quindi il **Nuovo** **Stato** che si desidera impostare e si è pronti!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
