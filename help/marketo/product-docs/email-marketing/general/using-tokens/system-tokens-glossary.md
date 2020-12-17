@@ -21,57 +21,57 @@ Oltre ai token per le persone, è possibile utilizzare anche alcuni token di sis
 
 ## system.date {#system-date}
 
-Il `{{system.date}}` token esegue il rendering della data corrente in fase di esecuzione, come segue: **08 agosto 2013**
+Il token `{{system.date}}` esegue il rendering della data corrente in fase di esecuzione, come segue: **08 agosto 2013**
 
 **Funziona in:**
 
-* [Modifica passaggio del flusso del valore](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) dei dati
-* [Interessante fase del flusso del momento](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-* [Crea passaggio flusso attività](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+* [Passaggio Modifica ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valore dati
+* [Interessante passo ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) Momentflow
+* [Crea passaggio ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flusso di task
 * Il corpo di un’e-mail o di un modello
 
 ## system.time {#system-time}
 
-Il `{{system.time}}` token eseguirà il rendering dell&#39;ora corrente in fase di esecuzione come segue: **04:34 PM (GMT -0700)**
+Il token `{{system.time}}` eseguirà il rendering dell&#39;ora corrente in fase di esecuzione come segue: **04:34 PM (GMT -0700)**
 
 **Funziona in:**
 
-* [Modifica passaggio del flusso del valore](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) dei dati
-* [Interessante fase del flusso del momento](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-* [Crea passaggio flusso attività](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+* [Passaggio Modifica ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valore dati
+* [Interessante passo ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) Momentflow
+* [Crea passaggio ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flusso di task
 * Il corpo di un’e-mail o di un modello
 
 ## system.dateTime {#system-datetime}
 
-Il `{{system.dateTime}}` token esegue il rendering della data e dell&#39;ora correnti in fase di esecuzione, come segue: **2013-08-08 16:36:13**
+Il token `{{system.dateTime}}` esegue il rendering della data e dell&#39;ora correnti in fase di esecuzione come segue: **2013-08-08 16:36:13**
 
 **Funziona in:**
 
-* [Modifica passaggio del flusso del valore](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) dei dati
-* [Interessante fase del flusso del momento](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-* [Crea passaggio flusso attività](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
+* [Passaggio Modifica ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valore dati
+* [Interessante passo ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) Momentflow
+* [Crea passaggio ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) flusso di task
 * Il corpo di un’e-mail o di un modello
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Il `{{system.forwardToFriendLink}}` token consente di controllare la posizione del [&quot;Inoltra a un collegamento amico&quot; nelle e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+Il token `{{system.forwardToFriendLink}}` consente di controllare il posizionamento del [&#39;Inoltra a un collegamento amico&#39; in E-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
 
 **Funziona in:**
 
-* [Aggiungere un token di sistema come collegamento in un messaggio e-mail](add-a-system-token-as-a-link-in-an-email.md) o in un modello
+* [Aggiunta di un token di sistema come collegamento in un modello ](add-a-system-token-as-a-link-in-an-email.md) Emailor
 
 ## system.unsubscriptionLink {#system-unsubscribelink}
 
-Il `{{system.unsubscribLink}}` token consente di controllare la posizione del collegamento per l’annullamento della sottoscrizione in un messaggio e-mail.
+Il token `{{system.unsubscribLink}}` consente di controllare il posizionamento del collegamento di annullamento della sottoscrizione in un&#39;e-mail.
 
 **Funziona in:**
 
-* [Aggiungere un token di sistema come collegamento in un messaggio e-mail](add-a-system-token-as-a-link-in-an-email.md) o in un modello
+* [Aggiunta di un token di sistema come collegamento in un modello ](add-a-system-token-as-a-link-in-an-email.md) Emailor
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-Il `{{system.viewAsWebpageLink}}` token consente di controllare il posizionamento del collegamento Visualizza come pagina Web in un messaggio e-mail.
+Il token `{{system.viewAsWebpageLink}}` consente di controllare il posizionamento del collegamento Visualizza come pagina Web in un messaggio e-mail.
 
 **Funziona con:**
 
-* [Aggiungere un token di sistema come collegamento in un messaggio e-mail](add-a-system-token-as-a-link-in-an-email.md) o in un modello
+* [Aggiunta di un token di sistema come collegamento in un modello ](add-a-system-token-as-a-link-in-an-email.md) Emailor
