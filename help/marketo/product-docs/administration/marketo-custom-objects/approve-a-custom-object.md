@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Approvare un oggetto personalizzato {#approve-a-custom-object}
+# Approva un oggetto personalizzato {#approve-a-custom-object}
 
 È necessario approvare un oggetto personalizzato prima di poterlo utilizzare. Il processo è leggermente diverso per i nuovi oggetti personalizzati e per quelli modificati.
 
-## Approvare un nuovo oggetto personalizzato {#approve-a-new-custom-object}
+## Approva un nuovo oggetto personalizzato {#approve-a-new-custom-object}
 
 È stato creato un nuovo oggetto personalizzato. Ecco come approvarlo.
 
-1. In Amministratore, fare clic su **Contrassegna oggetti** personalizzati e selezionare un oggetto che si trova nello stato Bozza.
+1. In Amministratore, fare clic su **Contrassegna oggetti personalizzati** e selezionare un oggetto che si trova nello stato Bozza.
 
    ![](assets/one.png)
 
-1. Fare clic sul menu a discesa Azioni **oggetto** personalizzate e selezionare **Approva oggetto**.
+1. Fare clic sul menu a discesa **Azioni oggetto personalizzate** e selezionare **Approva oggetto**.
 
    ![](assets/two.png)
 
@@ -33,16 +33,16 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Un oggetto personalizzato utilizzato in una struttura ** uno-molti deve avere almeno un campo duplicato, un campo di collegamento, un nome oggetto collegato e un nome campo collegato da approvare.
+   >Un oggetto personalizzato utilizzato in una struttura *uno-a-molti* deve avere almeno un campo di deduplicazione, un campo di collegamento, un nome oggetto collegato e un nome campo collegato da approvare.
    >
    >
-   >Un oggetto personalizzato utilizzato in una struttura ** multi-molti **non** necessita di un campo di collegamento, un nome oggetto collegato o un nome campo collegato al momento dell&#39;approvazione (poiché si trova nell&#39;oggetto intermediario).
+   >Un oggetto personalizzato utilizzato in una struttura *molti-a-molti* **non** necessita di un campo di collegamento, di un nome oggetto collegato o di un nome campo collegato al momento dell&#39;approvazione (perché risiedono nell&#39;oggetto intermedio).
    >
    >
-   >Un oggetto personalizzato utilizzato come oggetto ** intermedio richiede un campo di collegamento, un nome oggetto collegato e un nome campo collegato, ma **non** richiede un campo duplicato.
+   >Un oggetto personalizzato utilizzato come oggetto *intermediario* richiede un campo di collegamento, un nome oggetto collegato e un nome campo collegato, ma **non richiede un campo duplicato.**
    >
    >
-   >Per ulteriori informazioni, vedere [Informazioni sugli oggetti](understanding-marketo-custom-objects.md) personalizzati Marketo.
+   >Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati Marketo](understanding-marketo-custom-objects.md).
 
 È tutto! Ora puoi selezionare l&#39;oggetto personalizzato nei vincoli dei filtri e degli attivatori da utilizzare nelle campagne.
 
@@ -54,11 +54,11 @@ Dopo aver modificato un oggetto personalizzato approvato, è necessario approvar
 
    ![](assets/four.png)
 
-1. Quando si è pronti per approvare la bozza, fare clic sul menu a discesa Azioni **oggetto** personalizzate e selezionare **Approva oggetto**.
+1. Quando si è pronti per approvare la bozza, fare clic sul menu a discesa **Azioni oggetto personalizzate** e selezionare **Approva oggetto**.
 
    ![](assets/five-1.png)
 
-1. Un&#39;anteprima mostra gli elementi modificati nella bozza. Fate clic su **Approva**.
+1. Un&#39;anteprima mostra gli elementi modificati nella bozza. Fare clic su **Approva**.
 
    ![](assets/six-1.png)
 
