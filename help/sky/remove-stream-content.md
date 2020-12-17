@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Potete rimuovere o archiviare una parte del contenuto. A differenza della rimozione del contenuto del flusso, l&#39; [archiviazione](/help/sky/archive-and-unarchive-stream-content.md) conserva tutta la cronologia associata al contenuto. Se non vi dispiace perdere le statistiche storiche di alcuni contenuti e volete solo rimuoverli, ecco come farlo.
+Potete rimuovere o archiviare una parte del contenuto. A differenza della rimozione del contenuto del flusso, [l&#39;archiviazione](/help/sky/archive-and-unarchive-stream-content.md) conserva tutta la cronologia associata al contenuto. Se non vi dispiace perdere le statistiche storiche di alcuni contenuti e volete solo rimuoverli, ecco come farlo.
 
 1. Selezionate il programma di coinvolgimento.
 
    ![Immagine uno](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
