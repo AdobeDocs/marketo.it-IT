@@ -21,26 +21,26 @@ Una delle caratteristiche più interessanti di Marketo è la capacità di consen
 >
 >Esempi di campagne intelligenti da richiedere:
 >
->1. **Allevamento** a lungo termine - quando non hanno un budget quest&#39;anno e si vuole solo rimanere sul radar
->1. **Ciclo** di vendita attivo - quando il venditore non desidera alcun messaggio alla persona tranne il proprio. (utilizzare il flag marketing sospeso per annullarne temporaneamente la sottoscrizione)
+>1. **Allevamento**  a lungo termine - quando non hanno un budget quest&#39;anno e si vuole solo rimanere sul radar
+>1. **Ciclo**  di vendita attivo - quando il venditore non desidera alcun messaggio alla persona tranne il proprio. (utilizzare il flag marketing sospeso per annullarne temporaneamente la sottoscrizione)
 
 >
 >
 Siate creativi. Cosa vorrebbe automatizzare il venditore? Chiedilo a loro e lo cavi!
 
-1. Create una **Smart Campaign.**
+1. Creare una **campagna intelligente.**
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Trova e trascina la **campagna** **è** **Richiesto **nell&#39;area di lavoro.
+1. Trova e trascina **Campaign** **is** **Richiesto **nell&#39;area di lavoro.
 
    ![](assets/campaignfilterdrag.png)
 
-1. Le scelte di origine indicano che tipo di richiesta sarà rispettata. Per la funzionalità Salesforce, accertati di scegliere **Sales** **Insight**.
+1. Le scelte di origine indicano che tipo di richiesta sarà rispettata. Per la funzionalità Salesforce, scegliere **Vendite** **Insight**.
 
    >[!TIP]
    >
-   >Gli operatori di origine sono per la sicurezza. Potete limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne intelligenti o sviluppatori. Scegliete **Qualsiasi** nella prima casella se desiderate consentire le richieste da tutte le origini.
+   >Gli operatori di origine sono per la sicurezza. Potete limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne intelligenti o sviluppatori. Scegliete **Is Any** nella prima casella se desiderate consentire le richieste da tutte le origini.
    >
    >
    >**Ricordate**, scegliendo Vendite Insight, verrà magicamente visualizzato nella casella per le vendite. Non esagerate. Troppi verranno ignorati da loro.
