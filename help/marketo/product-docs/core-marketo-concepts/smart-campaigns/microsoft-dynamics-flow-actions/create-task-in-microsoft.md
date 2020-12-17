@@ -19,7 +19,7 @@ Crea attività in Microsoft crea un&#39;attività in Attività relative alla Per
 
 >[!NOTE]
 >
->Questo passaggio di flusso funziona **solo se utilizzato con attivatori**, non con filtri, nella campagna smart.
+>Questo passaggio di flusso funziona **solo se utilizzato con trigger**, non con filtri, nella campagna smart.
 
 Per impostazione predefinita, il passaggio di scorrimento avrà il seguente aspetto:   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ Personalizzate tutti i campi per creare l’attività nel modo desiderato.   ![]
 
 >[!TIP]
 >
->È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in **Oggetto** e **Descrizione**. Per ulteriori informazioni, consulta [Token per i passaggi](http://docs.marketo.com/x/c4AR) di flusso.
+>È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in **Subject** e **Description**. Per ulteriori informazioni, vedere [Token per i passaggi di flusso](http://docs.marketo.com/x/c4AR).
 
