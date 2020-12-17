@@ -23,11 +23,11 @@ Una volta al trimestre, Marketo troverà campagne intelligenti rimaste inattive 
 
 Certo! Una volta al trimestre, riceverete una notifica con una settimana di anticipo, in cui viene mostrata ogni campagna pianificata per la disattivazione.
 
-1. Vai alla scheda **Notifiche** .
+1. Vai alla scheda **Notifiche**.
 
    ![](assets/notifications.png)
 
-1. Fate clic su **Inattiva pulizia campagna attivatore pianificata**. Quindi fate clic sul **collegamento **Queste campagne attivatore inattivo verranno disattivate.** **
+1. Fare clic su **Pulizia campagna attivatore inattivo pianificata**. Fare clic sul collegamento **Queste campagne attivatore inattivo verranno disattivate **.** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +52,7 @@ Verrà ripristinato il contatore di 6 mesi.
 
 Assolutamente - una settimana dopo la notifica originale, disattiveremo le campagne elencate (meno tutte quelle qualificate almeno una persona o disattivate/riattivate) e pubblicheremo una notifica di conferma.
 
-1. Selezionate la notifica **Idle Trigger Campaign Cleanup Scheduled **o. Fate clic sul collegamento **Queste campagne** di attivatore inattivo.
+1. Selezionate la notifica **Idle Trigger Campaign Cleanup Scheduled **o. Fare clic sul collegamento **Queste campagne attivatore inattivo**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
