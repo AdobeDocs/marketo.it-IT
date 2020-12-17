@@ -37,7 +37,7 @@ Quando importate un elenco con intestazioni sconosciute, potete creare alias di 
 
 >[!TIP]
 >
->Fate clic su **Aggiungi un altro** e immettete altri alias, se necessario.
+>Fare clic su **Aggiungi un altro** e immettere altri alias, se necessario.
 
 Guardate quello! Se importate un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.  ![](assets/image2014-9-19-9-3a57-3a20.png)
 
