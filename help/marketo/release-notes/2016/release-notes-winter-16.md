@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella release invernale &#39;16. Fate cli
 
 ## [Filtro anonimo](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Il filtro Is Anonymous è stato rimosso per gli Smart List. Per ulteriori informazioni, consulta il documento Domande frequenti [sul tracciamento Munchkin di](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) nuova generazione. Questa modifica non influisce sulla Web Personalization (RTP), che continua a identificare visitatori Web anonimi e noti e a personalizzare i contenuti in tempo reale per tali visitatori.
+Il filtro Is Anonymous è stato rimosso per gli Smart List. Per ulteriori informazioni, consultare il documento [Next Generation Munchkin Tracking FAQ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md). Questa modifica non influisce sulla Web Personalization (RTP), che continua a identificare visitatori Web anonimi e noti e a personalizzare i contenuti in tempo reale per tali visitatori.
 
 ## [Pannello database](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,11 +27,11 @@ Il database lead dispone di un dashboard di riepilogo aggiornato che include la 
 
 ## [Microsoft Edge Browser](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Microsoft Edge è stato aggiunto all&#39; [elenco dei browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supportati da Marketo.
+Microsoft Edge è stato aggiunto all&#39;elenco [dei browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supportati da Marketo.
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) ora è supportato.
+[Microsoft Outlook 2016 ora ](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) è supportato.
 
 ## [Inizio programma e-mail](../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -49,7 +49,7 @@ Per utilizzare questa funzione, il programma e-mail deve essere pianificato alme
 
 ## [Miglioramenti di Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Supporto PhoneGap:** Ora offriamo il supporto PhoneGap per la tua app mobile. [Ulteriori](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)informazioni.
+**Supporto PhoneGap:** ora offriamo il supporto PhoneGap per la vostra app mobile. [Ulteriori](http://developers.marketo.com/documentation/mobile/phonegap-plugin/) informazioni.
 
 **Supporto per le app** sandbox:
 
@@ -61,7 +61,7 @@ Creare, aggiornare e duplicare i programmi tramite REST API. Ciò non include la
 
 ## [Miglioramenti di Microsoft Dynamics](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** [Stato](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)sincronizzazione:** Tenere schede sulla velocità effettiva corrente e sul backlog del processo di sincronizzazione. Suddividerlo per numero di inserimenti e aggiornamenti per oggetto.
+** [Stato sincronizzazione](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Tenere schede sulla velocità effettiva corrente e sul backlog del processo di sincronizzazione. Suddividerlo per numero di inserimenti e aggiornamenti per oggetto.
 
 ![](assets/pending-backog-cropped.png)
 
@@ -77,7 +77,7 @@ Creare, aggiornare e duplicare i programmi tramite REST API. Ciò non include la
 
 ## [Annunci lead Facebook](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Gli annunci](https://www.facebook.com/business/a/lead-ads) lead di Facebook rappresentano un modo più diretto per consentire a un&#39;azienda di realizzare campagne di generazione lead su Facebook. Le persone compilano un modulo per esprimere interesse per un prodotto o un servizio, in modo che l&#39;azienda possa seguirli. L’integrazione di Marketo con gli Annunci lead di Facebook acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Annuncio lead. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo attivatore di annunci lead per la compilazione Facebook.
+[I ](https://www.facebook.com/business/a/lead-ads) principali indirizzi di Facebook rappresentano un modo più diretto per consentire a un&#39;azienda di gestire campagne di generazione dei lead su Facebook. Le persone compilano un modulo per esprimere interesse per un prodotto o un servizio, in modo che l&#39;azienda possa seguirli. L’integrazione di Marketo con gli Annunci lead di Facebook acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Annuncio lead. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo attivatore di annunci lead per la compilazione Facebook.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
