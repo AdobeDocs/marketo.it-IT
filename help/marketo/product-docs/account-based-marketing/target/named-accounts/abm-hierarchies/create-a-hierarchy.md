@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le gerarchie devono essere create in CRM. Tuttavia, se non hai un CRM, segui questi passaggi per creare manualmente una gerarchia.
 
-1. In Account denominati, fare clic sulla casella di controllo **Raggruppa per gerarchia** .
+1. In Account denominati, fare clic sulla casella di controllo **Raggruppa per gerarchia**.
 
    ![](assets/one.png)
 
@@ -30,15 +30,15 @@ Le gerarchie devono essere create in CRM. Tuttavia, se non hai un CRM, segui que
 
    ![](assets/two.png)
 
-1. Fate clic sul menu a **discesa Azioni** account denominato e selezionate **Collega a account** denominato.
+1. Fare clic sul menu a discesa **Azioni account denominato** e selezionare **Collega a Account denominato**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Se desiderate scollegare gli account, seguite i passaggi descritti sopra, ma scegliete **Scollega da account** denominato.
+   >Se desiderate scollegare gli account, seguite i passaggi descritti sopra ma scegliete **Scollega da account denominato**.
 
-1. Selezionate un account principale denominato dal menu a discesa e fate clic su **Collega**.
+1. Selezionate un account principale denominato dal menu a discesa e fate clic su **Link**.
 
    ![](assets/four.png)
 
