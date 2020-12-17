@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di contenuto a un flusso {#add-content-to-a-stream}
+# Aggiungere contenuto a un flusso {#add-content-to-a-stream}
 
 Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai flussi. Puoi aggiungere e-mail o programmi a un flusso.
 
 ## Aggiunta di un&#39;e-mail a un flusso {#add-an-email-to-a-stream}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il programma di coinvolgimento e vai alla scheda **Streams** .
+1. Selezionate il programma di coinvolgimento e andate alla scheda **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -29,11 +29,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai fl
 
 **Pulsante Aggiungi contenuto**
 
-1. Fate clic sul pulsante **Aggiungi contenuto** .
+1. Fate clic sul pulsante **Aggiungi contenuto**.
 
    ![](assets/addcontentbutton.jpg)
 
-1. Lasciate **Tipo** impostato su **E-mail**, quindi selezionate il messaggio e-mail da aggiungere.
+1. Lasciate il **Type** impostato su **Email**, quindi selezionate il messaggio e-mail che desiderate aggiungere.
 
    ![](assets/image2014-9-15-15-3a44-3a58.png)
 
@@ -43,7 +43,7 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai fl
 
 **Flusso + Icona**
 
-1. Fate clic sull&#39;icona Fluams **+** , lasciate **Tipo** come **E-mail** e selezionate l&#39;e-mail da aggiungere.
+1. Fare clic sull&#39;icona dei flussi **+**, lasciare **Type** come **Email** e selezionare il messaggio e-mail che si desidera aggiungere.
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
@@ -55,11 +55,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai fl
 
 ## Aggiunta di un programma a un flusso {#add-a-program-to-a-stream}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il programma di coinvolgimento e vai alla scheda **Streams** .
+1. Selezionate il programma di coinvolgimento e andate alla scheda **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -67,11 +67,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai fl
 
 **Pulsante Aggiungi contenuto**
 
-1. Fate clic su **Aggiungi contenuto**.
+1. Fare clic su **Aggiungi contenuto**.
 
    ![](assets/image2014-9-15-15-3a45-3a51.png)
 
-1. Cambia **tipo** in Programma.
+1. Cambia **Tipo** in Programma.
 
    ![](assets/image2014-9-15-15-3a46-3a0.png)
 
@@ -88,11 +88,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai fl
    >**Promemoria**
    >
    >
-   >La campagna intelligente deve contenere il filtro **Membro del programma** di coinvolgimento affinché questo funzioni correttamente.
+   >Per il corretto funzionamento della campagna smart, il filtro **Membro del programma di coinvolgimento** deve contenere il filtro &lt;a0/>Membro del programma di coinvolgimento.
 
 **Flusso + Icona**
 
-1. Fai clic sull&#39;icona stream **+** , quindi modifica **Tipo** in Programma.
+1. Fare clic sull&#39;icona del flusso **+**, quindi modificare **Type** in Program.
 
    ![](assets/image2014-9-15-15-3a46-3a43.png)
 
