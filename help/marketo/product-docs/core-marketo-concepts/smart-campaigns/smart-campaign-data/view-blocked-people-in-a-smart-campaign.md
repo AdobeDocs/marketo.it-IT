@@ -19,13 +19,13 @@ Le persone bloccate nel database di Marketo sono contrassegnate  inserire nell&#
 >
 >Marketo sta cambiando termini come Blacklist e Whitelist per  Inserii nell&#39;elenco Bloccati e  Inserire nell&#39;elenco Consentiti nel nostro prodotto. Nel corso di questo aggiornamento, i vecchi termini possono essere visualizzati nella nostra interfaccia utente e nelle schermate della documentazione, nonché i nuovi termini nel nostro testo della documentazione. Ci scusiamo per ogni confusione.
 
-1. Nella campagna intelligente, fai clic su **Pianifica**. In Stato **elenco** avanzato fare clic sul secondo collegamento.
+1. Nella campagna intelligente, fate clic su **Schedule**. In **Stato elenco avanzato** fare clic sul secondo collegamento.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Alle persone che hanno raggiunto i limiti di comunicazione può anche essere impedito di ricevere posta elettronica. Scopri come [modificare i limiti](../../../../product-docs/administration/email-setup/enable-communication-limits.md) di comunicazione nella sezione Amministratore.
+   >Alle persone che hanno raggiunto i limiti di comunicazione può anche essere impedito di ricevere posta elettronica. Scopri come [modificare i limiti di comunicazione](../../../../product-docs/administration/email-setup/enable-communication-limits.md) nella sezione Admin.
 
    La scheda Persone bloccate mostra le persone che potrebbero non ricevere le e-mail.
 
