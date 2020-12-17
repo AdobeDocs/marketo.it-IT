@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Utilizzate i programmi e-mail per inviare rapidamente e facilmente un&#39;e-mail a un gruppo di persone.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/one.png)
 
-1. Selezionate la cartella in cui desiderate creare il programma, fate clic sul menu a discesa **Nuovo** e selezionate **Nuovo programma**.
+1. Selezionare la cartella in cui si desidera creare il programma, fare clic sul menu a discesa **Nuovo** e selezionare **Nuovo programma**.
 
    ![](assets/two.png)
 
-1. Immettete un nome, selezionate **E-mail** come tipo di programma e fate clic su **Crea**.
+1. Immettere un nome, selezionare **E-mail** come tipo di programma, quindi fare clic su **Crea**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Quando si seleziona **E-mail** come tipo di programma, il canale verrà impostato automaticamente su Invia **per** e-mail. Può cambiarlo se vuole.
+   >Quando si seleziona **E-mail** come tipo di programma, il canale verrà impostato automaticamente su **Invia per e-mail**. Può cambiarlo se vuole.
 
    ![](assets/four.png)
 
 Bello! Notate che il programma è ora nella struttura ad albero e pronto per essere utilizzato. Il passo successivo sarà quello di definire il pubblico. Consulta gli articoli correlati al marketing di seguito.
 
-## Video {#watch-a-video}
+## Guarda il video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
