@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**I programmi** di archiviazione mantengono i dati del programma, ma ne impediscono la realizzazione. Selezionate tale opzione e fate clic su **Avanti** per visualizzare ulteriori dettagli sull&#39;archiviazione.
+>**Archiviazione** Programmazione consente di monitorare i dati del programma, ma di evitare che il programma venga ostacolato. Selezionare questa opzione, quindi fare clic su **Next** per visualizzare ulteriori dettagli sull&#39;archiviazione.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Per risolvere il problema, potrebbe essere necessario approfondire e disapprovar
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Fate clic su **Usato** **da** per vedere dove si trova la risorsa.
+1. Fate clic su **Usato** **Da** per vedere dove si trova la risorsa.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
