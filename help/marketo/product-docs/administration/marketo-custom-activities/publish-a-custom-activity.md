@@ -15,11 +15,11 @@ ht-degree: 0%
 
 L&#39;attività personalizzata è esattamente come si desidera. Ora, è ora di pubblicarlo!
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-2.png)
 
-1. In Gestione **** database fare clic su Attività **personalizzate** Marketo.
+1. In **Gestione database** fare clic su **Attività personalizzate marketing**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ L&#39;attività personalizzata è esattamente come si desidera. Ora, è ora di p
 
    ![](assets/three-2.png)
 
-1. Fate clic sul menu a discesa Azioni **attività** personalizzate e selezionate Attività **di** pubblicazione.
+1. Fare clic sul menu a discesa **Azioni attività personalizzate** e selezionare **Attività pubblicazione**.
 
    ![](assets/four-2.png)
 
