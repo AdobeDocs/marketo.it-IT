@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Elenco di controllo installazione {#setup-checklist}
 
-Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di controllo come elenco di attività visive per iniziare a fare le cose. I dettagli sono disponibili in [Procedura](/help/marketo/getting-started/setup-steps.md)di impostazione.
+Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di controllo come elenco di attività visive per iniziare a fare le cose. I dettagli sono disponibili in [Procedura di impostazione](/help/marketo/getting-started/setup-steps.md).
 
-## Accesso a Marketo e creazione di utenti aggiuntivi {#log-in-to-marketo-and-create-additional-users}
+## Login a Marketo e creazione di utenti aggiuntivi {#log-in-to-marketo-and-create-additional-users}
 
 1. Accedi a Marketo
 1. Creazione di altri utenti
 
-## Impostazione di un contatto di assistenza autorizzato {#set-up-an-authorized-support-contact}
+## Impostazione di un contatto di supporto autorizzato {#set-up-an-authorized-support-contact}
 
 1. Impostazione di un contatto di assistenza autorizzato
 1. Personalizzare gli URL delle pagine di destinazione
@@ -37,7 +37,7 @@ Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di contro
 1. Imposta MX per `[FromDomain1]`
 1. Al termine dell’IT con il CNAME e-mail, configura il CNAME per l’e-mail in Marketo
 
-## Invia un URL per i modelli pagina di destinazione e e-mail {#submit-a-url-for-landing-page-and-email-templates}
+## Invia un URL per i modelli di pagina di destinazione e di e-mail {#submit-a-url-for-landing-page-and-email-templates}
 
 1. Compilare un modulo per inviare un URL per i nuovi modelli
 
