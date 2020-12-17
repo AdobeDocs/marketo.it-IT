@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Per verificare il livello di prestazioni dei messaggi e-mail con stati come consegnati, aperti, su cui è stato fatto clic, ecc., create un report sulle prestazioni dell&#39;e-mail.
 
-1. [Create un report in un programma](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selezionate il tipo **di** report Prestazioni [e-mail](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Modificate la cornice](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) temporale del rapporto e fate clic sulla scheda **Rapporto** .
+1. [Crea un report in un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma e seleziona il tipo **di report** [Email ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)PerformanceReport.
+1. [Modificate il ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) frame dell&#39;ora del rapporto e fate clic sulla scheda  **** Rapporto.
 1. Sei lì! Esplorate il rapporto per vedere come sono state inviate le e-mail.
 
    >[!NOTE]
@@ -32,9 +32,9 @@ Per verificare il livello di prestazioni dei messaggi e-mail con stati come cons
    >[!NOTE]
    >
    >
-   >Un rapporto sulle prestazioni dell&#39;e-mail include attività per tutte le persone, comprese quelle che sono state eliminate dall&#39;invio dell&#39;e-mail. A volte, si desidera visualizzare le attività solo per le persone attive. In tal caso, dovete filtrare le persone eliminate dal rapporto. Utilizzate la scheda Elenco **** avanzato per [creare un elenco](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) avanzato per il rapporto. Se non state applicando un filtro su un campo specifico, impostate il filtro Indirizzo e-mail su: **non è vuoto**.
+   >Un rapporto sulle prestazioni dell&#39;e-mail include attività per tutte le persone, comprese quelle che sono state eliminate dall&#39;invio dell&#39;e-mail. A volte, si desidera visualizzare le attività solo per le persone attive. In tal caso, dovete filtrare le persone eliminate dal rapporto. Utilizzate la scheda **Smart List** per [creare un elenco smart](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il report. Se non state applicando un filtro su un campo specifico, impostate il filtro Indirizzo e-mail su: **non è vuoto**.
 
-   [Seleziona colonne](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) report per un report di prestazioni e-mail:
+   [Seleziona ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Colori rapporto per un rapporto Prestazioni e-mail:
 
    | Colonna | Descrizione |
    |---|---|
@@ -42,7 +42,7 @@ Per verificare il livello di prestazioni dei messaggi e-mail con stati come cons
    | Soft Bounce | L&#39;e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una inbox completa. |
    | In sospeso | Questo numero viene calcolato sottraendo il numero di e-mail distribuite, rimbalzate e rimbalzate rispetto al numero totale inviato. |
    | Collegamento selezionato | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
-   | Annulla sottoscrizione | Numero di destinatari e-mail che hanno fatto clic sul collegamento **Annulla sottoscrizione** nell’e-mail e hanno compilato il modulo. |
+   | Annulla sottoscrizione | Numero di destinatari e-mail che hanno fatto clic sul collegamento **Annulla sottoscrizione** nell&#39;e-mail e hanno compilato il modulo. |
 
    >[!NOTE]
    >
@@ -50,13 +50,13 @@ Per verificare il livello di prestazioni dei messaggi e-mail con stati come cons
 
 In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un&#39;e-mail, ovviamente ha aperto prima l&#39;e-mail. Seguiamo queste regole specifiche per il report sulle prestazioni delle e-mail:
 
-* **Articolo 1**: Ogni record di attività e-mail è impostato su uno e solo uno dei seguenti: *Consegnato*, *Bloccato* duro, *Soft Bounced* o *In sospeso*.
+* **Articolo 1**: Ogni record di attività e-mail è impostato su uno e solo uno dei seguenti:  *Consegnato*,  *Bloccato* duro,  *Soft Bounced* o  *In sospeso*.
 
-* **Articolo 2**: Se il record e-mail è *Aperto*, viene conteggiato come *Consegnato*.
+* **Articolo 2**: Se il record e-mail è  *Aperto*, viene conteggiato come  *Consegnato*.
 
-* **Articolo 3**: Se il record e-mail mostra *Messaggio e-mail* selezionato o *Non iscritto*, viene conteggiato come *Consegnato* e *Aperto*.
+* **Articolo 3**: Se il record e-mail mostra  *Messaggio* e-mail selezionato  *Non iscritto*, viene conteggiato come  ** Consegna e  *Aperto*.
 
-* **Articolo 4**: Se l’e-mail viene *aperta*, i rimbalzi vengono ignorati. Se l’e-mail non è stata aperta, *Bloccato* rigido ha la precedenza su *Soft Bounced* and *Delivery*.
+* **Articolo 4**: Se l’e-mail viene  *aperta*, i rimbalzi vengono ignorati. Se l&#39;e-mail non è stata aperta, *Hard Bounced* ha la precedenza su *Soft Bounced* e *Delivery*.
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ In generale, cerchiamo di usare il buon senso per registrare queste statistiche.
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni in [Reporting](http://docs.marketo.com/display/docs/basic+reporting)di base.
+>Ulteriori informazioni in [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
