@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programmazione di una campagna in batch nella vista Pianificazione programma {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# Riprogrammare una campagna in batch nella vista Pianificazione programma {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Desiderate riprogrammare l&#39;esecuzione di una campagna intelligente in batch? Trascinateli e rilasciateli in futuro nella visualizzazione Pianificazione del programma.
 
@@ -21,7 +21,7 @@ Desiderate riprogrammare l&#39;esecuzione di una campagna intelligente in batch?
 
 1. Trascinare nella nuova data in cui si desidera eseguire la campagna. ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Fantastico! La campagna intelligente è stata ripianificata. L’ora può anche essere modificata dall’elenco a discesa **Data** nei dettagli della voce.
+1. Fantastico! La campagna intelligente è stata ripianificata. L&#39;ora può anche essere modificata dal menu a discesa **Date** nei dettagli della voce.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
