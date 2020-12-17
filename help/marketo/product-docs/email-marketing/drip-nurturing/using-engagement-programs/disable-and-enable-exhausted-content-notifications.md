@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Quando gli utenti esauriscono tutto il contenuto in un flusso, Marketo può inviare una notifica. Puoi disattivare/abilitare le notifiche in base alle tue esigenze. Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionate un programma di partecipazione e fate clic sulla scheda **Configurazione** .
+1. Selezionate un programma di coinvolgimento e fate clic sulla scheda **Setup**.
 
    ![](assets/setuptab.jpg)
 
-1. Fate doppio clic su Notifiche di contenuto **con esaurimento**.
+1. Fate doppio clic su **Notifiche contenuto con esaurimento**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Selezionare **Off **(o **On**) e fare clic su **Salva**.
+1. Selezionare **Off **(o **On**) e fare clic su **Save**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
