@@ -25,7 +25,7 @@ Fai in modo che una campagna intelligente venga eseguita su una persona alla vol
 
    >[!NOTE]
    >
-   >Una campagna intelligente con trigger viene eseguita in modalità **Trigger** . Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
+   >Una campagna intelligente con trigger viene eseguita in modalità **Trigger**. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
 
 1. Fare clic sul menu a discesa e scegliere un operatore.
 
@@ -45,7 +45,7 @@ Fai in modo che una campagna intelligente venga eseguita su una persona alla vol
 
    >[!NOTE]
    >
-   >Con più attivatori, una persona attraversa il flusso se **ANY** uno degli attivatori viene attivato.
+   >Con più attivatori, una persona attraversa il flusso se **ANY** uno dei trigger viene attivato.
 
    [Definisci elenco avanzato per Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
 
