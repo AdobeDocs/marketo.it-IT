@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Attiva modifiche a oggetti personalizzati {#trigger-off-custom-object-changes}
+# Attivazione delle modifiche dell&#39;oggetto personalizzato {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 >
 >
-Contattate [il supporto](http://support.marketo.com) di Marketo per abilitare gli attivatori per le modifiche agli oggetti personalizzati.
+Contattare il supporto [Marketo](http://support.marketo.com) per avere attivati attivatori di modifica oggetti personalizzati.
 
-Nell&#39;elenco smart di una campagna, puoi attivare un&#39;azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o una società. È inoltre possibile creare un elenco smart che utilizza come trigger una *modifica* in un oggetto personalizzato. Ad esempio, utilizzatelo per inviare un messaggio e-mail quando il nome di un corso viene aggiornato.
+Nell&#39;elenco smart di una campagna, puoi attivare un&#39;azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o una società. È inoltre possibile creare un elenco smart che utilizza come trigger *change* in un oggetto personalizzato. Ad esempio, utilizzatelo per inviare un messaggio e-mail quando il nome di un corso viene aggiornato.
 
 >[!NOTE]
 >
 >Una voce del registro attività non viene creata quando viene modificato un record oggetto personalizzato.
 
-1. In Marketo, vai a Attività **di marketing.**
+1. In Marketo, passare a **Attività di marketing.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
