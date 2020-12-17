@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sulle schede evento {#understanding-event-cards}
+# Schede evento {#understanding-event-cards}
 
 Utilizzate Momenti marketing per visualizzare i programmi dell&#39;evento sul vostro telefono o iPad.
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` Toccando una scheda del programma e-mail puoi:
