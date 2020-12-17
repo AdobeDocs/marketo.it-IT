@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dopo aver eseguito un programma e-mail e aver inserito alcuni dati nel dashboard, potete esportare i dati non elaborati in modo da ottenere risultati ottimali per ulteriori analisi. Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ Dopo aver eseguito un programma e-mail e aver inserito alcuni dati nel dashboard
 >
 >**Tubo profondo**
 >
->Vuoi saperne di più sui programmi [e-](http://docs.marketo.com/display/docs/email+programs)mail?
+>Vuoi saperne di più su [Programmi e-mail](http://docs.marketo.com/display/docs/email+programs)?
 
