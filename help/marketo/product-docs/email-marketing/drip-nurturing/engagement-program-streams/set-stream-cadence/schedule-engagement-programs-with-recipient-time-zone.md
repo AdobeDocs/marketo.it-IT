@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Pianificazione dei programmi di coinvolgimento con il fuso orario del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
+# Pianificare i programmi di coinvolgimento con il fuso orario del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
-Quando si [pianifica un flusso](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) di programmi di coinvolgimento e il fuso orario del destinatario è attivo, l&#39;esecuzione del programma inizia a mezzanotte nel primo fuso orario (UTC +14:00). Ti chiediamo di programmare il primo cast **almeno 25 ore** in futuro, perché ci possono essere persone idonee per il cast in ogni fuso orario del mondo. L&#39;avvio dell&#39;elaborazione a questa ora nel primo fuso orario garantisce che l&#39;e-mail verrà inviata alla data e all&#39;ora previste per ogni destinatario.
+Quando [pianificate un flusso di programmi di coinvolgimento](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) e il fuso orario del destinatario è attivo, l&#39;esecuzione del programma inizierà a mezzanotte nel primo fuso orario (UTC +14:00). È necessario pianificare il primo cast **almeno 25 ore** in futuro, perché potrebbero esserci persone idonee per il cast in ogni fuso orario del mondo. L&#39;avvio dell&#39;elaborazione a questa ora nel primo fuso orario garantisce che l&#39;e-mail verrà inviata alla data e all&#39;ora previste per ogni destinatario.
 
 1. Nel programma di coinvolgimento, andate alla scheda **Streams** e fate clic sulla pianificazione di cadenza di un flusso per modificarlo.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Impostate le impostazioni](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) di cadenza come fareste normalmente, quindi selezionate la casella **Recipient Time Zone*. Ricorda che il tuo primo cast deve avere almeno 25 ore in futuro. Fate clic su **Salva**.
+1. [Impostate le ](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) impostazioni di cadenza come fareste normalmente, quindi selezionate la casella **Recipient Time Zone*. Ricorda che il tuo primo cast deve avere almeno 25 ore in futuro. Fare clic su **Salva**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
