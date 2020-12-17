@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo della scheda Home del programma {#using-the-program-home-tab}
+# Utilizzo della scheda Pagina iniziale del programma {#using-the-program-home-tab}
 
 La scheda principale del programma offre una visualizzazione di alto livello di ciò che accade nel programma.
 
-## Visualizzazione di riepilogo {#summary-view}
+## Visualizzazione riepilogo {#summary-view}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,13 +37,13 @@ La scheda principale del programma offre una visualizzazione di alto livello di 
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Usato da Visualizza {#used-by-view}
+## Usato da vista {#used-by-view}
 
 1. In Attività di marketing, seleziona un programma.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Fare clic sul menu a discesa **Visualizza** . Selezionate **Usato da**.
+1. Fare clic sul menu a discesa **Visualizza**. Selezionare **Usato da**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +57,7 @@ La scheda principale del programma offre una visualizzazione di alto livello di 
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Fare clic sul menu a discesa **Visualizza** . Selezionare **Appartenenza**.
+1. Fare clic sul menu a discesa **Visualizza**. Selezionare **Appartenenza**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ La scheda principale del programma offre una visualizzazione di alto livello di 
 
    >[!NOTE]
    >
-   >**Historical** indica chiunque abbia mai passato il programma, mentre **Current** include solo le persone attualmente presenti nel programma.
+   >**Storico** indica chiunque abbia mai seguito il programma, mentre  **** Attualmente include solo le persone presenti nel programma.
 
    >[!NOTE]
    >
