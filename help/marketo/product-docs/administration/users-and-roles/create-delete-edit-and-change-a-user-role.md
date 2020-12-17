@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Creare, eliminare, modificare e modificare un ruolo utente {#create-delete-edit-and-change-a-user-role}
 
-**I ruoli** raggruppano una serie di autorizzazioni. **Le autorizzazioni** consentono di eseguire attività in Marketo. Potete assegnare un **ruolo** a un utente. Facile come una torta.
+**** Rolesgroup riunisce una serie di autorizzazioni. **Le** autorizzazioni consentono di fare delle cose a Marketo. È possibile assegnare un **ruolo** a un utente. Facile come una torta.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-## Creazione di un ruolo {#create-a-role}
+## Creare un ruolo {#create-a-role}
 
 1. Vai a **Admin **e fai clic su **Utenti e ruoli**.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
-1. Confermate l&#39;eliminazione facendo clic su **Elimina**.
+1. Confermare l&#39;eliminazione facendo clic su **Elimina**.
 
    ![](assets/image2014-9-16-13-3a32-3a25.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 >
 >Per modificare il tuo ruolo utente, dovrai effettuare l’accesso come un altro utente con diritti di amministratore.
 
-1. Vai ad **Admin** e fai clic su **Utenti e ruoli**.
+1. Accedete a **Admin** e fate clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
 ## Modifica del ruolo di un utente {#change-a-users-role}
 
-1. Vai ad **Admin** e fai clic su **Utenti e ruoli**.
+1. Accedete a **Admin** e fate clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Selezionate l’utente a cui desiderate assegnare un ruolo diverso e fate clic su **Modifica utente.**
+1. Selezionare l&#39;utente a cui si desidera assegnare un ruolo diverso e fare clic su **Modifica utente.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Deselezionate il ruolo precedente, selezionatene uno nuovo, quindi fate clic su **Salva**.
+1. Deselezionare il ruolo precedente, selezionarne uno nuovo, quindi fare clic su **Salva**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
