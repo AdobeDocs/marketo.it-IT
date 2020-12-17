@@ -33,11 +33,11 @@ Per ogni contatto, sincronizziamo i cinque campi del proprietario del lead indic
 
 ## Posso cambiare il proprietario del lead in Marketo? {#can-i-change-the-lead-owner-in-marketo}
 
-Assolutamente, usa solo l&#39;azione di flusso [Modifica proprietario](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) .
+Assolutamente, basta utilizzare l&#39;azione di flusso [Modifica proprietario](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md).
 
 >[!NOTE]
 >
->Non potete modificare le informazioni sul proprietario utilizzando la pagina [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)Utilizzo dei dettagli sulla persona.
+>Non è possibile modificare le informazioni sul proprietario utilizzando la [Pagina di dettaglio persona](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ## Cosa posso fare con questi dati? {#what-can-i-do-with-this-data}
 
@@ -46,6 +46,6 @@ Ci sono molti motivi per utilizzare questi dati, come
 * Inviare un&#39;e-mail personalizzata con firma dal proprietario della vendita
 * Filtra su agenti di vendita specifici per il marketing o anche per l&#39;analisi dell&#39;efficacia
 * Regole di assegnazione (e riassegnazione) in Marketo
-* Utilizzateli nelle azioni [Cambia proprietario](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Sincronizza persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)e [Crea flusso di attività](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) .
+* Utilizzateli nelle azioni di flusso [Cambia proprietario](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Sincronizza persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) e [Crea attività](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
 
 Marketo ha sicuramente un&#39;incredibile sincronizzazione Salesforce. Nessun altro lo fa così bene!
