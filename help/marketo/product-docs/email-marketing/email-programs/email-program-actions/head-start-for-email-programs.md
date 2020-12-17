@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Head Start for Email Programs {#head-start-for-email-programs}
+# Avvio principale per programmi e-mail {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Quando si sceglie una data/ora per un programma e-mail, questo determina quando 
 
 ## Inizio testina standard {#standard-head-start}
 
-1. Fate clic su Attività **** di marketing.
+1. Fate clic su **Attività marketing**.
 
    ![](assets/one-1.png)
 
@@ -37,7 +37,7 @@ Quando si sceglie una data/ora per un programma e-mail, questo determina quando 
    >
    >Impossibile utilizzare Head Start con test A/B.
 
-1. Nella sezione Pianificazione, pianificate il messaggio e-mail, quindi selezionate la casella Inizio **** intestazione.
+1. Nella sezione Pianificazione, pianificate l&#39;e-mail, quindi selezionate la casella **Inizio intestazione**.
 
    ![](assets/three-1.png)
 
@@ -47,20 +47,20 @@ Quando si sceglie una data/ora per un programma e-mail, questo determina quando 
    >
    >Chiunque dal pubblico che annulla l&#39;iscrizione dopo il blocco del programma riceverà comunque l&#39;e-mail. È consigliabile regolare la notifica di annullamento dell’iscrizione in modo da riflettere il fatto che l’elaborazione degli abbonamenti potrebbe richiedere 1-2 giorni lavorativi.
 
-1. Fate clic su **Approva programma**.
+1. Fare clic su **Approva programma**.
 
    ![](assets/four-1.png)
 
    Dopo l&#39;approvazione del programma, ci sono quattro stati diversi che si possono vedere nella sezione Approvazione.
 
-   * **In attesa di esecuzione:** Dopo l&#39;approvazione del programma.
+   * **Attesa dell&#39;esecuzione:** dopo l&#39;approvazione del programma.
    * **Elaborazione avviata, in attesa di esecuzione:** Elaborazione in corso.
-   * **Elaborazione completata, in attesa di esecuzione:** Elaborazione completata. E-mail in attesa dell&#39;ora pianificata per l&#39;avvio.
-   * **Completato:** Programma completato.
+   * **Elaborazione completata, in attesa di esecuzione:** Elaborazione completata, ora l&#39;e-mail è in attesa dell&#39;ora pianificata per l&#39;avvio.
+   * **Finito:** Programma completato.
 
    >[!TIP]
    >
-   >Vuoi annullare dopo che il programma si blocca ma prima che l&#39;e-mail invia? Nessun problema! Fate clic su **Interrompi programma** in basso a destra nella sezione Approvazione.
+   >Vuoi annullare dopo che il programma si blocca ma prima che l&#39;e-mail invia? Nessun problema! Fare clic su **Interrompi programma** in basso a destra nella sezione Approvazione.
 
    >[!NOTE]
    >
@@ -68,13 +68,13 @@ Quando si sceglie una data/ora per un programma e-mail, questo determina quando 
 
 ## Inizio intestazione con fuso orario destinatario {#head-start-with-recipient-time-zone}
 
-La funzione Head Start richiede che il programma sia pianificato almeno con 12 ore di anticipo. Cosa significa questo per il fuso orario del destinatario? Ricorda che quando il fuso orario del destinatario è attivo, il programma e-mail inizia a essere eseguito a mezzanotte nel primo fuso orario (UTC +14:00). Pertanto, per attivare **sia** Head Start che Recipient Time Zone, i programmi devono essere programmati **almeno 12 ore prima del fuso orario iniziale (UTC +14:00**.)
+La funzione Head Start richiede che il programma sia pianificato almeno con 12 ore di anticipo. Cosa significa questo per il fuso orario del destinatario? Ricorda che quando il fuso orario del destinatario è attivo, il programma e-mail inizia a essere eseguito a mezzanotte nel primo fuso orario (UTC +14:00). Pertanto, per abilitare **sia** Head Start che Recipient Time Zone, i programmi devono essere programmati **almeno 12 ore prima del fuso orario precedente (UTC +14:00**).
 
-Ciò significa che se sei in America/Los Angeles e vuoi attivare sia Head Start che Recipient Time Zone, devi pianificare il programma con **34 ore** di anticipo. Come siamo arrivati a questo numero?
+Ciò significa che se siete in America/Los Angeles e desiderate attivare sia Head Start che Recipient Time Zone, è necessario pianificare il programma **34 ore** in anticipo. Come siamo arrivati a questo numero?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Scopri di più](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) su come pianificare programmi e-mail con il fuso orario del destinatario.
+[Scopri ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) di più su come pianificare programmi e-mail con il fuso orario del destinatario.
 
 >[!NOTE]
 >
