@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usa elenchi avanzati integrati/di sistema {#use-built-in-system-smart-lists}
+# Usa elenchi smart di sistema incorporati {#use-built-in-system-smart-lists}
 
 Marketo dispone di alcuni elenchi avanzati integrati molto utili. Controlliamole!
 
@@ -27,7 +27,7 @@ Marketo dispone di alcuni elenchi avanzati integrati molto utili. Controlliamole
 
    ![](assets/two.png)
 
-1. Per visualizzare un esempio: Selezionate **Tutte le persone**, quindi fate clic sulla scheda **Persone** .
+1. Per visualizzare un esempio: Selezionare **Tutte le persone**, quindi fare clic sulla scheda **Persone**.
 
    ![](assets/three.png)
 
