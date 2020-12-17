@@ -57,7 +57,7 @@ I campi di ricerca in SFDC sincronizzano l’ID ma non il nome di riferimento.
 
 ## E i campi di Formula SFDC? {#what-about-sfdc-formula-fields}
 
-I campi formula sono sincronizzati, tuttavia, gli aggiornamenti ai riferimenti nella formula non vengono sincronizzati fino a quando non viene eseguito un aggiornamento a un [timbro](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US)di sistema.
+I campi formula sono sincronizzati, tuttavia, gli aggiornamenti ai riferimenti nella formula non vengono sincronizzati finché non viene eseguito un aggiornamento a un [Timbro del sistema](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
 
 ## Cosa succede quando si elimina un campo da Salesforce precedentemente sincronizzato con Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
