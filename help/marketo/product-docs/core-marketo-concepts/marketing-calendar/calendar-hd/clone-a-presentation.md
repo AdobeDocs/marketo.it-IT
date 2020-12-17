@@ -19,11 +19,11 @@ Duplicate una presentazione da riutilizzare in diversi punti.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Fate clic con il pulsante destro del mouse sulla presentazione e selezionate **Clona**.
+1. Fare clic con il pulsante destro del mouse sulla presentazione e selezionare **Clone**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 
-1. Immettete un nome per la presentazione duplicata e fate clic su **Clona**.
+1. Immettete un nome per la presentazione duplicata e fate clic su **Clone**.
 
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
