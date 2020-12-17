@@ -17,7 +17,7 @@ ht-degree: 0%
 È facile aggiungere un&#39;e-mail a un flusso in un programma di coinvolgimento, e funziona bene. Tuttavia, se le esigenze aziendali sono più complesse, potrebbe essere utile inserire l&#39;e-mail all&#39;interno di un programma. Ad esempio, potrebbe essere utile:
 
 * Inviare un&#39;e-mail a un sottogruppo di persone nello streaming
-* Inviare e-mail _diverse_ ai sottogruppi all&#39;interno del flusso
+* Inviare _e-mail diverse_ ai sottogruppi all&#39;interno del flusso
 * Includere pagine di destinazione, moduli o altre risorse nel programma di partecipazione
 * Abilita attribuzione multi-touch
 * Aggiunta di passaggi di flusso aggiuntivi, come e-mail di avviso
@@ -30,7 +30,7 @@ Quando si utilizza un programma nidificato, la decisione di inviare un&#39;e-mai
 * Se siete membri del programma, non riceverete l&#39;e-mail
 * Se non siete più membri ma avete già ricevuto l&#39;e-mail in precedenza tramite tale programma, non riceverete l&#39;e-mail
 
-Quando utilizzi un programma in un flusso, non importa se hai già ricevuto quell&#39;e-mail specifica. Fintanto che l&#39;e-mail non è stata inviata prima _in quel programma_ specifico, potete riceverla nuovamente.
+Quando utilizzi un programma in un flusso, non importa se hai già ricevuto quell&#39;e-mail specifica. Fintanto che l&#39;e-mail non è stata inviata prima di _in quel programma specifico_, è possibile riceverla nuovamente.
 
 Può ottenere e-mail e programmi di mixaggio complicati in un programma di coinvolgimento. Potreste voler usare l&#39;uno o l&#39;altro.
 
@@ -40,7 +40,7 @@ Può ottenere e-mail e programmi di mixaggio complicati in un programma di coinv
 
 ## Cosa succede alle persone che non soddisfano i criteri della lista intelligente?
 
-Nel caso in cui un utente venga escluso dall&#39;elenco smart della campagna smart di un programma nidificato, durante il cast corrente non passa al contenuto successivo. Passeranno alla parte successiva del contenuto nello streaming per il cast _seguente_ .
+Nel caso in cui un utente venga escluso dall&#39;elenco smart della campagna smart di un programma nidificato, durante il cast corrente non passa al contenuto successivo. Passeranno al contenuto successivo nello streaming per il cast _successivo_.
 
 ## Cosa contiene un programma nidificato?
 
