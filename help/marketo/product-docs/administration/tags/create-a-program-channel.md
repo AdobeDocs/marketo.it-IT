@@ -23,9 +23,9 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 >
 >**Tubo profondo**
 >
->Scopri di più sui [programmi](http://docs.marketo.com/display/docs/programs), l&#39;elemento più importante di Marketo.
+>Scopri di più su [programs](http://docs.marketo.com/display/docs/programs), l&#39;elemento più importante di Marketo.
 
-1. Nella sezione **Amministratore** , fate clic su **Tag**.
+1. Nella sezione **Admin**, fare clic su **Tags**.
 
    ![](assets/image2014-9-24-12-3a57-3a27.png)
 
@@ -33,11 +33,11 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >
    >Perché i tag? Un canale è un modo per descrivere un programma, proprio come altri tag. Il canale dispone di particolari funzioni aggiuntive.
 
-1. Fai clic sul segno **+** accanto a **Canale** per espandere e visualizzare i canali esistenti.
+1. Fare clic sul segno **+** accanto a **Canale** per espandere e visualizzare i canali esistenti.
 
    ![](assets/image2014-9-24-12-3a58-3a33.png)
 
-1. In **Nuovo**, fate clic su **Nuovo canale**.
+1. In **New**, fare clic su **New Channel**.
 
    ![](assets/image2014-9-24-12-3a58-3a53.png)
 
@@ -68,13 +68,13 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >    
    >Scopri le Progressioni dei canali esistenti per avere un&#39;idea di come utilizzarli.
 
-1. Passiamo all&#39;esempio del canale del Partito. Assegnare un nome al nuovo **canale** e selezionare il tipo di programma a cui si applicherà.
+1. Passiamo all&#39;esempio del canale del Partito. Assegnare un nome al nuovo **Canale** e selezionare il tipo di programma a cui si applicherà.
 
    ![](assets/image2014-9-24-13-3a0-3a17.png)
 
    >[!NOTE]
    >
-   >Applicare a cosa? Esistono diversi tipi di programmi. Corrispondenza del canale con il tipo di canale destro. In caso di dubbi, scegliete **Predefinito**.
+   >Applicare a cosa? Esistono diversi tipi di programmi. Corrispondenza del canale con il tipo di canale destro. In caso di dubbio, scegliere **Predefinito**.
 
    >[!NOTE]
    >
@@ -83,15 +83,15 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    Inserire i primi due nomi di stato del programma, quindi fare clic su Aggiungi passo.
    ![](assets/image2014-9-24-15-3a37-3a0.png)
 
-1. Immettere un altro **Stato** del programma e un numero **Passo** , quindi fare clic su **Aggiungi passo**.
+1. Inserire un altro programma **Stato** e **Numero passo**, quindi fare clic su **Aggiungi passo**.
 
    ![](assets/image2014-9-24-15-3a37-3a30.png)
 
    >[!TIP]
    >
-   >Il numero **Passo** viene utilizzato per ordinare gli stati del programma. Ricordate che le persone non possono andare indietro in questi passi di progressione. Possono solo cambiare lo stato in uno stato di valore superiore o uguale. Utilizzate i valori uguali quando gli stati sono destinati a passare avanti e indietro anziché a una progressione.
+   >Il numero **Step** viene utilizzato per ordinare gli stati del programma. Ricordate che le persone non possono andare indietro in questi passi di progressione. Possono solo cambiare lo stato in uno stato di valore superiore o uguale. Utilizzate i valori uguali quando gli stati sono destinati a passare avanti e indietro anziché a una progressione.
 
-1. Inserire l&#39;ultimo **Stato** del programma e il numero del **passo** .
+1. Inserire l&#39;ultimo programma **Stato** e il numero **Passo**.
 
    ![](assets/image2014-9-24-15-3a39-3a15.png)
 
@@ -99,11 +99,11 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >
    >Quando si utilizza il tipo &quot;Evento&quot;, è necessaria la mappatura di sistema per gli stati Registrato, In lista d&#39;attesa e Partecipato. Di conseguenza, tali stati non possono essere nascosti.
 
-1. Selezionate Stato **di check-in** Mobile per **registrato**.
+1. Selezionare il **Stato del check-in mobile** per **Registrato**.
 
    ![](assets/image2014-9-24-15-3a39-3a43.png)
 
-1. Scegliete lo stato **di check-in** Mobile per **i partecipanti**.
+1. Selezionare il **Stato del check-in mobile** per **Partecipato**.
 
    ![](assets/image2014-9-24-15-3a40-3a21.png)
 
@@ -116,13 +116,13 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >**Promemoria**
    >
    >
-   >Solo le persone con stato **di check-in** Mobile**** di **registrato** e **Partecipato** saranno visibili nelle app di check-in [](http://docs.marketo.com/display/docs/events)Mobile.
+   >Nelle [App di check-in mobili **Registrate** e **Partecipate** saranno visibili solo gli utenti con un **Stato di check-in mobile****** di &lt;a2/>Registrato&lt;a3/> e &lt;a4/>Partecipato&lt;a5/>.](http://docs.marketo.com/display/docs/events)
 
    >[!TIP]
    >
    >Se una nuova persona viene creata nell&#39;app di check-in per dispositivi mobili, verrà impostata su Registrata nel programma dell&#39;evento. Se una persona viene selezionata nell&#39;evento nell&#39;app, viene impostata su Partecipante nel programma dell&#39;evento.
 
-1. Selezionate lo stato del programma **Success** , quindi fate clic su **Create (Crea)**.
+1. Selezionare lo stato del programma **Success**, quindi fare clic su **Create**.
 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
