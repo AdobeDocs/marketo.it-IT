@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di dati a un campo {#append-data-to-a-field}
+# Aggiungi dati a un campo {#append-data-to-a-field}
 
 Esiste un modo semplice per aggiungere dati a un campo. Ecco come.
 
@@ -23,7 +23,7 @@ Esiste un modo semplice per aggiungere dati a un campo. Ecco come.
 
 
 
-1. Nella scheda **Flusso** , trascina il passaggio **Modifica valore** dati.
+1. Sotto la scheda **Flusso**, trascinare nel passaggio di flusso **Change Data Value**.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
