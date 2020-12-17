@@ -33,7 +33,7 @@ Puoi organizzare gli URL di collegamento in entrata per il contenuto del tuo cuo
 >
 >È inoltre possibile creare un nuovo elenco in cui inserire la parola chiave. Digita il nome desiderato in Create un nuovo elenco.
 
-## Rimozione di un URL di collegamento in entrata da un elenco {#remove-an-inbound-link-url-from-a-list}
+## Rimuovere un URL di collegamento in ingresso da un elenco {#remove-an-inbound-link-url-from-a-list}
 
 1. A volte può essere utile rimuovere un URL di collegamento in entrata da un elenco.
 
