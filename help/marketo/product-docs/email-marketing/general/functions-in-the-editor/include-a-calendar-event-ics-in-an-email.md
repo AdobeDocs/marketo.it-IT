@@ -27,7 +27,7 @@ Un token per file di calendario consente di aggiungere un collegamento evento di
 
 ![](assets/one-6.png)
 
-1. Selezionate il token del file di calendario e fate clic su **Inserisci**.
+1. Selezionare il token del file di calendario e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
