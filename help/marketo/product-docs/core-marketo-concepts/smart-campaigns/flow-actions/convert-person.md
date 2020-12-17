@@ -33,11 +33,11 @@ Utilizza questo passaggio di flusso per convertire una persona in un contatto in
    >
    >La conversione di una persona in Marketo darà luogo a un nuovo account e a nuove opportunità in Salesforce. Se non vuoi duplicare account, usa Salesforce per convertire.
 
-1. Scegliete se desiderate inviare o meno una **notifica** al proprietario.
+1. Scegliere se si desidera inviare o meno una **notifica** al proprietario.
 
    ![](assets/three-2.png)
 
-1. Selezionare lo stato **** convertito.
+1. Selezionare lo stato **convertito**.
 
    ![](assets/four-3.png)
 
