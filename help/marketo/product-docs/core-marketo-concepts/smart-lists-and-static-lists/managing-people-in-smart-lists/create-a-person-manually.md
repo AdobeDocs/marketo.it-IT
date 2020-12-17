@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Creazione manuale di una persona {#create-a-person-manually}
+# Creare manualmente una persona {#create-a-person-manually}
 
 Ci sono molti modi per portare una persona a Marketo. Se devi crearne uno manualmente, ecco come farlo.
 
-1. Vai al **database**.
+1. Accedere al **Database**.
 
    ![](assets/db-1.png)
 
-1. In **Nuovo**, fare clic su **Nuova persona**.
+1. In **New**, fare clic su **New Person**.
 
    ![](assets/two-2.png)
 
