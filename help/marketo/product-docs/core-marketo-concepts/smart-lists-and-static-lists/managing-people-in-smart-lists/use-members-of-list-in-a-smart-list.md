@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo dei membri dell&#39;elenco in un elenco avanzato {#use-members-of-list-in-a-smart-list}
+# Utilizza membri elenco in un elenco avanzato {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
->È possibile aggiungere persone a un elenco tramite [Importa](../../../../getting-started/quick-wins/import-a-list-of-people.md) o il passaggio [di flusso](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)Aggiungi a elenco.
+>È possibile aggiungere persone a un elenco utilizzando [Importa](../../../../getting-started/quick-wins/import-a-list-of-people.md) o il passaggio [Aggiungi a flusso elenco](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Con questo filtro, potete estrarre i membri da un altro elenco facendovi riferimento nelle regole dell&#39;elenco avanzato. Ecco come.
 
-1. Selezionate un elenco avanzato e fate clic sulla scheda Elenco **** avanzato.
+1. Selezionate un elenco avanzato e fate clic sulla scheda **Smart List**.
 
    ![](assets/smartlist-sltab.png)
 
-1. Nel pannello dei filtri a destra, cercate e trascinate il filtro **Membro di elenco** sul quadro.
+1. Nel pannello dei filtri a destra, cercate e trascinate il filtro **Membro di List** sul quadro.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
