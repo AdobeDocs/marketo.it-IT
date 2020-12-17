@@ -37,5 +37,5 @@ Puoi eliminare da Marketo e non dal CRM, come segue:
 
 >[!NOTE]
 >
->La rimozione della persona dal CRM funziona **solo con Salesforce**. Se elimini una persona da Marketo e scegli di tenerla in Salesforce, verrà ricreata a Marketo se il record Salesforce viene aggiornato.
+>La rimozione della persona dal CRM **funziona solo con Salesforce**. Se elimini una persona da Marketo e scegli di tenerla in Salesforce, verrà ricreata a Marketo se il record Salesforce viene aggiornato.
 
