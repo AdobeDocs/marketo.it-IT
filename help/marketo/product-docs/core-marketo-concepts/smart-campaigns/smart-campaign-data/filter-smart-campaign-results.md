@@ -25,7 +25,7 @@ Filtrate i risultati delle campagne intelligenti per visualizzare attività spec
 
 ## Filtra per filtri salvati {#filter-by-saved-filters}
 
-1. Nella scheda **Risultati** campagna smart, fai clic su **Filtro** e seleziona un filtro salvato.
+1. Nella scheda **Risultati** della campagna smart, fare clic su **Filtro** e selezionare un filtro salvato.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -35,17 +35,17 @@ Filtrate i risultati delle campagne intelligenti per visualizzare attività spec
 
 ## Creare un filtro personalizzato {#create-a-custom-filter}
 
-1. Fate clic su **Filtro** e quindi su **Personalizzato**.
+1. Fare clic su **Filtro**, quindi su **Personalizzato**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Selezionate i tipi di attività che desiderate visualizzare, quindi fate clic su **Salva con nome** .
+1. Selezionare i tipi di attività che si desidera visualizzare, quindi fare clic su **Salva con nome** .
 
    ![](assets/activityfiltersettings-hands.png)
 
    >[!TIP]
    >
-   >Fate clic su **Applica** per applicare direttamente un filtro personalizzato ai risultati senza salvarlo.
+   >Fare clic su **Applica** per applicare direttamente un filtro personalizzato ai risultati senza salvarlo.
 
 1. Immettete un nome per il filtro e fate clic su **Salva**.
 
