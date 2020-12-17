@@ -29,11 +29,11 @@ Marketo gestisce la registrazione e la partecipazione GoToWebinar.
 >
 >GoToMeeting, GoToWebcast e GoToTraining non sono attualmente supportati.
 
-1. Vai ad **Admin** e seleziona **LaunchPoint**.
+1. Accedere a **Admin** e selezionare **LaunchPoint**.
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Selezionate **Nuovo** e **Nuovo servizio**.
+1. Selezionare **New** e **New Service**.
 
    ![](assets/new-service-gotowebinar.png)
 
@@ -41,19 +41,19 @@ Marketo gestisce la registrazione e la partecipazione GoToWebinar.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Quindi, fate clic su **Accedi** al **webinar GoTo**.
+1. Fare clic su **Accesso a** **GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >Se desiderate sincronizzare Nome società e Titolo processo dal modulo Marketo a GoToWebinar, selezionate la casella **Abilita campi** aggiuntivi.
+   >Se desiderate sincronizzare Nome società e Titolo processo dal modulo Marketo a GoToWebinar, selezionate la casella **Abilita campi aggiuntivi**.
 
-1. Nella finestra a comparsa Accesso GoToWebinar, immettete il messaggio e-mail e la password **GoToWebinar** e fate clic su **Accesso**.
+1. Nella finestra a comparsa Accesso GoToWebinar, immettete il messaggio e-mail e la password **GoToWebinar** e fate clic su &lt;a2/>Accesso **.**
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
-1. Una volta chiusa la finestra, fate clic su **Crea**.
+1. Dopo la chiusura della finestra, fare clic su **Crea**.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
@@ -67,5 +67,5 @@ Marketo gestisce la registrazione e la partecipazione GoToWebinar.
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento con GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
+>Scopri come [creare un evento con GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
 
