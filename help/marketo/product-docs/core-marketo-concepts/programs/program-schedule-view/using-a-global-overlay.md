@@ -17,15 +17,15 @@ La sovrapposizione globale nella vista Pianificazione programma consente di visu
 
 >[!PREREQUISITES]
 >
->Per utilizzare questa funzione è necessario disporre di una licenza [Calendario](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) marketing.
+>Per utilizzare questa funzione è necessario disporre di una [licenza Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md).
 
-## Utilizzo della sovrapposizione globale {#use-the-global-overlay}
+## Utilizzate la sovrapposizione globale {#use-the-global-overlay}
 
 1. Selezionare il programma.
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Selezionate **Sovrapposizione** nell’angolo in basso a destra.
+1. Selezionate **Overlay** nell&#39;angolo inferiore destro.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -37,11 +37,11 @@ La sovrapposizione globale nella vista Pianificazione programma consente di visu
 
    ![](assets/image2014-9-24-10-3a16-3a19.png)
 
-## Utilizzo di un filtro salvato come sovrapposizione {#use-a-saved-filter-as-an-overlay}
+## Usare un filtro salvato come sovrapposizione {#use-a-saved-filter-as-an-overlay}
 
 Se avete [salvato un filtro in Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), potete usarlo come sovrapposizione nella vista Pianificazione programma.
 
-1. Fate clic sul menu a discesa **Sovrapposizione** e selezionate la definizione del filtro.
+1. Fate clic sul menu a discesa **Overlay** e selezionate la definizione del filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
