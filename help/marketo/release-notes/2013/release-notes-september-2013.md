@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Settembre 2013 {#release-notes-september}
 
-Le seguenti funzionalità sono incluse nella release di settembre. Per informazioni sulla disponibilità delle funzioni, consulta [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Le seguenti funzionalità sono incluse nella release di settembre. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php).
 
 Dopo il rilascio, accertatevi di controllare la scheda [Nuova versione](release-notes-december-2013.md) nella Community per gli articoli dettagliati della Knowledge Base per ogni funzione!
 
@@ -29,11 +29,11 @@ Utilizzate i dati provenienti da oggetti personalizzati di Marketo o aggiungete 
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
-## Modifica test di invio dell’esempio {#change-send-test-to-send-sample}
+## Modifica Invia test per inviare l&#39;esempio {#change-send-test-to-send-sample}
 
 L&#39;azione Invia test è stata rinominata come Invia esempio
 
-## E-mail di esempio di invio personalizzata {#personalized-send-sample-email}
+## E-mail di invio del campione personalizzata {#personalized-send-sample-email}
 
 Quando inviate un esempio e-mail, potete selezionare il nome di un lead per personalizzare l’e-mail di esempio.
 
@@ -45,11 +45,11 @@ Potete sincronizzare Nome società e Titolo processo dal modulo Marketo al GoToW
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
-## Limita accesso utente solo a SSO {#restrict-user-login-to-sso-only}
+## Limita accesso utente a SSO solo {#restrict-user-login-to-sso-only}
 
 Configurare le iscrizioni per consentire solo agli utenti di Marketo di accedere tramite SSO e non attraverso la normale schermata di accesso
 
-## Analisi virus dei file caricati {#virus-scan-of-uploaded-files}
+## Scansione virus dei file caricati {#virus-scan-of-uploaded-files}
 
 I file caricati in Design Studio ora vengono analizzati automaticamente e bloccati se i file contengono virus
 
@@ -69,7 +69,7 @@ L&#39;impostazione Esplicito esaminerà solo i contatti con i ruoli (comportamen
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Insight delle vendite disponibile in francese e tedesco (solo Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
+## Informazioni sulle vendite disponibili in francese e tedesco (solo Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
 
 Scarica la versione più recente di Marketing Lead Management e Marketing Sales Insight dalla  AppExchange in modo che i tuoi venditori francesi e tedeschi possano vedere i contenuti di Sales Insight nella loro lingua preferita.
 
