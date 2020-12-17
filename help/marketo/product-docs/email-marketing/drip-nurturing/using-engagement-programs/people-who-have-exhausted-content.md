@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Persone Con Contenuto Esaurito {#people-who-have-exhausted-content}
+# Persone con contenuto con esaurimento {#people-who-have-exhausted-content}
 
 Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaurito tutte le possibilità e aspetterà inattivo fino a quando non viene aggiunto altro. Potete trovare persone &quot;esauste&quot; in molti modi.
 
-## Filtro Membro del programma di coinvolgimento {#member-of-engagement-program-filter}
+## Membro del filtro Programma di coinvolgimento {#member-of-engagement-program-filter}
 
-1. Crea un nuovo elenco smart, quindi trova e trascina nel filtro **Membro del programma** di coinvolgimento.
+1. Crea un nuovo elenco smart, quindi trova e trascina nel filtro **Membro del programma di coinvolgimento**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. In **Aggiungi vincolo**, selezionare Contenuto **con esaurimento**.
+1. In **Aggiungi vincolo**, selezionare **Contenuto esaurito**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Impostate **Esaurito contenuto** su **true**.
+1. Impostate **Exhausted Content** su **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
 ## Scheda Membri {#members-tab}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Selezionate il programma di partecipazione e andate alla scheda **Membri** .
+1. Selezionate il programma di coinvolgimento e andate alla scheda **Membri**.
 
    ![](assets/memberstab.jpg)
 
-1. Osservate la colonna Contenuto **Esaurito**.
+1. Osservate la colonna **Contenuto con esaurimento**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
