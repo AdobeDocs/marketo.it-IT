@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Puoi cambiare il modo in cui Marketo collega i contatti alle opportunità per l’attribuzione iniziale e multi-touch, le metriche di conversione principali e il flag delle opportunità influenzato dal marketing.
 
-Queste impostazioni avranno effetto sui rapporti di Esplora entrate nelle aree Analisi [opportunità](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)programma, Analisi [](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)opportunità e Analisilead. Questo influirà anche sul rapporto di Program Analyzer.
+Queste impostazioni interesseranno i report Revenue Explorer nelle aree [Program Opportunity Analysis](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportunity Analysis](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) e Lead Analysis. Questo influirà anche sul rapporto di Program Analyzer.
 
-1. Nella sezione **Admin** , fai clic su **Revenue Cycle Analytics**.
+1. Nella sezione **Admin** fare clic su **Analisi del ciclo di ricavi**.
 
    ![](assets/image2014-9-24-11-3a55-3a19.png)
 
-1. Fate clic sul collegamento **Modifica** in **Attribuzione**.
+1. Fare clic sul collegamento **Modifica** in **Attribuzione**.
 
    ![](assets/image2014-9-24-11-3a56-3a33.png)
 
@@ -29,7 +29,7 @@ Queste impostazioni avranno effetto sui rapporti di Esplora entrate nelle aree A
    >
    >La modifica di questa impostazione non modifica i dati Marketo; cambia semplicemente il modo in cui vengono eseguiti i rapporti. Può essere ripristinato in qualsiasi momento.
 
-1. Selezionate un’opzione e fate clic su **Salva**.
+1. Selezionare un&#39;opzione e fare clic su **Salva**.
 
    ![](assets/image2014-9-24-11-3a57-3a39.png)
 
