@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creare un messaggio e-mail solo testo {#create-a-text-only-email}
+# Creare un&#39;e-mail di solo testo {#create-a-text-only-email}
 
 Se desiderate inviare solo messaggi e-mail di testo, ecco come creare un&#39;e-mail che verrà inviata senza alcun contenuto HTML.
 
@@ -19,39 +19,39 @@ Se desiderate inviare solo messaggi e-mail di testo, ecco come creare un&#39;e-m
 >
 >Poiché le aperture vengono tracciate dal destinatario che scarica le immagini del messaggio e-mail (che include un pixel di tracciamento invisibile), le aperture **non** possono essere tracciate per le e-mail Solo testo.
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/one-1.png)
 
-1. Selezionate il programma, fate clic sul menu a **discesa Nuovo** e selezionate **Nuova risorsa** locale.
+1. Selezionate il programma, fate clic sul menu a discesa **Nuovo** e selezionate **Nuova risorsa locale**.
 
    ![](assets/two-1.png)
 
-1. Selezionate **E-mail**.
+1. Selezionare **Email**.
 
    ![](assets/three-1.png)
 
-1. Immettete un **nome**, selezionate un modello e fate clic su **Crea**.
+1. Immettete un **Nome**, selezionate un modello e fate clic su **Crea**.
 
    ![](assets/four-1.png)
 
-1. Nell’editor e-mail, fate clic su Impostazioni **e-** mail.
+1. Nell&#39;editor e-mail, fare clic su **Impostazioni e-mail**.
 
    ![](assets/five.png)
 
-1. Selezionate Solo **** testo e fate clic su **Salva**.
+1. Selezionare **Solo testo** e fare clic su **Salva**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >I collegamenti non vengono tracciati automaticamente nelle e-mail di solo testo. Scopri come [aggiungere collegamenti tracciati a un messaggio e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)di testo.
+   >I collegamenti non vengono tracciati automaticamente nelle e-mail di solo testo. Vedere come [aggiungere collegamenti tracciati a un&#39;e-mail di testo](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Potete anche modificare un’e-mail esistente e modificare questa impostazione. Non dimenticare di approvare la bozza.
 
-1. Deselezionate la casella di controllo Copia **automatica da HTML** .
+1. Deselezionare la casella di controllo **Copia automatica da HTML**.
 
    ![](assets/seven.png)
 
