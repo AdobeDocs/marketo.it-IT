@@ -62,11 +62,11 @@ Questo aggiornamento include molte nuove funzionalità:
 * [Invia esempio](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Anteprima](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalizzare facilmente le notifiche push con [i token](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
+Personalizzare facilmente le notifiche push con [token](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Potete anche [visualizzare l’anteprima](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o inviare una notifica push di [esempio](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) prima di distribuirla ai clienti.
+Potete anche [preview](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o inviare una notifica push [sample](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) prima di distribuirla ai clienti.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -87,7 +87,7 @@ Le statistiche sulle e-mail inviate tramite le campagne intelligenti sono ora di
 
 ## RTP - Content Analytics e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content Analytics](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e Recommendations
+[Content ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics e Recommendations
 
 L&#39;analisi dei contenuti RTP mostra le prestazioni delle risorse di contenuto Web grazie a visite Web regolari e alle visite generate dal motore di raccomandazione dei contenuti di RTP.
 
@@ -97,8 +97,8 @@ L&#39;analisi dei contenuti RTP mostra le prestazioni delle risorse di contenuto
 
 La pagina Risorse di RTP ora è suddivisa in Content Analytics e Content Recommendations.
 
-* **Analisi dei contenuti:** Mostra le viste e i lead diretti di tutti i contenuti Web scoperti e definiti, aiutandoti ad analizzare i contenuti con le prestazioni migliori
-* **Content Recommendations**: Mostra impression e clic dal contenuto consigliato di RTP e l’attribuzione dei lead associata. Potete inoltre modificare e abilitare le raccomandazioni per i contenuti da questa pagina per le raccomandazioni per la [barra](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) e per i contenuti multimediali [](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) avanzati.
+* **Analisi dei contenuti:** mostra le viste e i lead diretti di tutti i contenuti Web scoperti e definiti, aiutandoti ad analizzare i contenuti con le prestazioni migliori
+* **Content Recommendations**: Mostra impression e clic dal contenuto consigliato di RTP e l’attribuzione dei lead associata. Potete inoltre modificare e abilitare le raccomandazioni sul contenuto da questa pagina per le raccomandazioni [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) e [rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine).
 
 * Tutti i dati lead diretti contenuti in queste due pagine sono stati aggiornati retroattivamente dall&#39;inizio dell&#39;anno (1° gennaio 2015).
 
@@ -138,7 +138,7 @@ Stiamo apportando diversi miglioramenti all&#39;editor Rich Text. Dopo il rilasc
    <![endif]-->
    ```
 
-* Non inserire celle vuote nella tabella `**`
+* Non riempire celle vuote di tabella con `**`
 
 * Pulsante Ingrandisci/Riduci a icona aggiunto all&#39;editor sorgente HTML
 * Le proprietà di tabella preesistenti ora vengono identificate e visualizzate nella finestra di dialogo Proprietà tabella
@@ -182,7 +182,7 @@ Aggiungi facilmente nuovi campi agli oggetti personalizzati sincronizzati da Sal
 
 Ora è ufficialmente supportato il browser Microsoft Internet Explorer 11 e viene rimosso il supporto per il browser Microsoft Internet Explorer 9.
 
-## Supporto per interfaccia utente Lightning per MSI {#lightning-ui-support-for-msi}
+## Supporto dell&#39;interfaccia utente Lightning per MSI {#lightning-ui-support-for-msi}
 
 L&#39;ultimo pacchetto MSI sullo scambio di app funziona con le versioni Lightning e Legacy dell&#39;interfaccia utente di Salesforce.
 
