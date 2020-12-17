@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Risposta automatica e-mail {#email-auto-response}
 
-## Missione: Invio di un messaggio e-mail di ringraziamento quando una persona compila il modulo {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Missione: Invia un messaggio e-mail di ringraziamento quando una persona compila un modulo {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >* [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## Passaggio 1: Creare un messaggio e-mail {#step-create-an-email}
+## Passaggio 1: Creare un&#39;e-mail {#step-create-an-email}
 
 1. Andate all&#39;area Attività di marketing.
 
@@ -65,49 +65,49 @@ ht-degree: 0%
 
 ## Passaggio 2: Creare una campagna intelligente {#step-create-a-smart-campaign}
 
-1. Fai clic con il pulsante destro del mouse sul **programma** personale e fai clic su **Nuova campagna** avanzata.
+1. Fare clic con il pulsante destro del mouse su **My Program** e scegliere **New Smart Campaign**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Denominate** la campagna intelligente &quot;Auto Response Campaign&quot; e fate clic su **Crea**.
+1. **Denominate** la campagna intelligente &quot;Auto Response Campaign&quot; e fate clic su  **Crea**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Passate alla scheda Elenco **** avanzato.
+1. Passate alla scheda **Smart List**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Questa campagna viene impostata per essere eseguita ogni volta che una persona compila il modulo creato in Pagina di [**destinazione con un modulo**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   Questa campagna viene impostata per essere eseguita ogni volta che una persona compila il modulo creato in [**Pagina di destinazione con un modulo**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
-1. Individua e trascina l&#39;attivatore **Riempimento modulo** sul quadro sinistro.
+1. Individuare e trascinare il trigger **Riempie il modulo** nell&#39;area di lavoro sinistra.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Selezionare **Modulo** personale dal menu a discesa. Fate clic sulla scheda **Flusso** .
+1. Selezionare **Modulo** nell&#39;elenco a discesa. Fare clic sulla scheda **Flusso**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Trascinate l’azione **Invia flusso e-mail** sul quadro sinistro.
+1. Trascinare l&#39;azione di flusso **Invia e-mail** sul quadro sinistro.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Selezionate il messaggio e-mail **di risposta** automatica e passate alla scheda **Pianificazione** .
+1. Selezionare il **messaggio di risposta automatica** e passare alla scheda **Schedule**.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/8.png)
 
-1. Selezionate **ogni volta** e fate clic su **Salva**.
+1. Selezionare **ogni volta** e fare clic su **Salva**.
 
    ![](assets/9.png)
 
-1. Fate clic su **Attiva**.
+1. Fare clic su **Attiva**.
 
    ![](assets/10.png)
 
-1. Fate clic su **Attiva** nella schermata di conferma.
+1. Fare clic su **Attiva** nella schermata di conferma.
 
    ![](assets/11.png)
 
@@ -117,17 +117,17 @@ ht-degree: 0%
 
 ## Passaggio 3: Compilare il modulo {#step-fill-out-the-form}
 
-1. Selezionate **Pagina** personale. Questo è stato creato nella pagina di [destinazione con una vittoria rapida Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Selezionare **My Page**. Questo è stato creato nella [pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Fate clic su **Visualizza pagina** approvata.
+1. Fare clic su **Visualizza pagina approvata**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
    La pagina di destinazione &quot;Versione di prova gratuita&quot; verrà aperta in una nuova scheda.
 
-1. Compilate il modulo con il vostro nome, cognome e indirizzo e-mail, quindi fate clic su **Invia**.
+1. Compila il modulo con il tuo nome, cognome e indirizzo e-mail, quindi fai clic su **Invia**.
 
    ![](assets/image2014-9-24-12-3a0-3a28.png)
 
