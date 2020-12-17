@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vedere i membri di un programma di coinvolgimento {#see-members-of-an-engagement-program}
+# Vedere Membri di un programma di coinvolgimento {#see-members-of-an-engagement-program}
 
 Puoi vedere rapidamente i membri di un programma di coinvolgimento. Ecco come.
 
@@ -21,7 +21,7 @@ Puoi vedere rapidamente i membri di un programma di coinvolgimento. Ecco come.
 
    >[!NOTE]
    >
-   >Il valore della colonna Contenuto [](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) con esaurimento viene aggiornato dopo ogni cast.
+   >Il valore della colonna [Contenuto con esaurimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) viene aggiornato dopo ogni cast.
 
 1. È ora possibile visualizzare tutti i membri del programma.
 
