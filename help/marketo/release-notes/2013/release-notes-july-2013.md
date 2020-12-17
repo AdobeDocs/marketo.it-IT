@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Note sulla versione: Luglio 2013 {#release-notes-july}
 
-Le seguenti funzionalità sono incluse nella release di luglio pianificata per venerdì 26 luglio.  Per informazioni sulla disponibilità delle funzioni, consulta [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Le seguenti funzionalità sono incluse nella release di luglio pianificata per venerdì 26 luglio.  Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php).
 
-Dopo il rilascio, accertatevi di controllare la scheda [Nuova versione](release-notes-december-2013.md) nella Community per gli articoli della Guida dettagliati per ogni funzione!
+Dopo il rilascio, controllate la scheda [Nuova versione](release-notes-december-2013.md) nella community per gli articoli della Guida dettagliati per ciascuna funzione!
 
 ## Widget contenuto con esaurimento nel dashboard {#exhausted-content-widget-on-the-dashboard}
 
@@ -35,7 +35,7 @@ Nei prossimi mesi, noterete più del nostro nuovo tema che si estende in diverse
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 
-## Colonna data membro del programma {#program-member-date-column}
+## Colonna data del membro del programma {#program-member-date-column}
 
 Visualizzate e ordinate la griglia dei membri in base alla data di aggiunta del lead.
 
