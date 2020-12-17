@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abilita nessuna bozza per gli snippet {#enable-no-draft-for-snippets}
+# Abilita No-Draft per snippet {#enable-no-draft-for-snippets}
 
 No-Draft for Snippet consente di distribuire le modifiche apportate agli snippet senza creare risorse approvate. Tutte le risorse che utilizzano lo snippet modificato ottengono gli aggiornamenti e mantengono i rispettivi stati:
 
@@ -25,29 +25,29 @@ Nessuna bozza viene abilitata automaticamente per tutti i ruoli Amministratore. 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin** e fai clic su **Utenti e ruoli**.
+1. Accedete a **Admin** e fate clic su **Utenti e ruoli**.
 
    ![](assets/usersandroles.png)
 
-1. Passate alla scheda **Ruoli** , selezionate un ruolo, quindi fate clic su **Modifica ruolo**.
+1. Vai alla scheda **Ruoli**, seleziona un ruolo, quindi fai clic su **Modifica ruolo**.
 
    ![](assets/editrole2.png)
 
-1. Espandete l&#39;opzione **Access Design Studio** .
+1. Espandere l&#39;opzione **Access Design Studio**.
 
    ![](assets/expanddesignstudio.png)
 
-1. Espandete l’opzione **Accedi al frammento** .
+1. Espandete l&#39;opzione **Accedi allo snippet**.
 
    ![](assets/expandsnippet.png)
 
-1. Espandete l&#39;autorizzazione **Approva snippet** e selezionate la casella **Nessuna bozza** . Fate clic su **Salva**.
+1. Espandete l&#39;autorizzazione **Approva snippet** e selezionate la casella **No-Draft**. Fare clic su **Salva**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
->Per disattivare No-Draft, seguite i passaggi da 1 a 4 indicati sopra, deselezionate la casella di controllo No-Draft (No-Draft) e fate clic su **Save (Salva)**.
+>Per disattivare No-Draft, seguire i passaggi da 1 a 4 sopra, deselezionare la casella di controllo No-Draft e fare clic su **Save**.
 
 >[!MORELIKETHIS]
 >
