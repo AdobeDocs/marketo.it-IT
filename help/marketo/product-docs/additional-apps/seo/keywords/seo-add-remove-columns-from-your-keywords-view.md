@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Aggiungi/rimuovi colonne dalla vista Parole chiave {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Aggiungi/rimuovi colonne dalla visualizzazione delle parole chiave {#seo-add-remove-columns-from-your-keywords-view}
 
 È possibile regolare la visualizzazione delle parole chiave per visualizzare i dati più interessanti.
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selezionare o deselezionare le colonne che si desidera visualizzare. Fate clic su **SALVA**.
+1. Selezionare o deselezionare le colonne che si desidera visualizzare. Fare clic su **SAVE**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
