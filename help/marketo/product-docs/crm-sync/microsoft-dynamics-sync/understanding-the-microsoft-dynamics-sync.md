@@ -41,9 +41,9 @@ La sincronizzazione tra Marketo e Dynamics è bidirezionale per lead e contatti.
 
 >[!NOTE]
 >
->Le [credenziali immesse in Marketo per Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) vengono utilizzate per sincronizzare i dati.
+>Le [credenziali immesse in Marketo per Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) vengono utilizzate per la sincronizzazione dei dati.
 
-Esistono molte sfumature e funzionalità sulla sincronizzazione Dynamics. Consultate i dettagli nella sezione [Dettagli sincronizzazione di](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft Dynamics.
+Esistono molte sfumature e funzionalità sulla sincronizzazione Dynamics. Controllate i dettagli nella sezione [Dettagli sincronizzazione Microsoft Dynamics](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
 
 >[!CAUTION]
 >
