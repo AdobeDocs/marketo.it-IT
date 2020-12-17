@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un token di sistema come collegamento in un messaggio e-mail {#add-a-system-token-as-a-link-in-an-email}
+# Aggiungere un token di sistema come collegamento in un&#39;e-mail {#add-a-system-token-as-a-link-in-an-email}
 
 Potete utilizzare questi token di sistema per personalizzare la posizione dei collegamenti speciali nelle e-mail.
 
@@ -23,11 +23,11 @@ I seguenti token possono essere utilizzati come collegamenti in un modello e-mai
 
 >[!NOTE]
 >
->Questi token **non** potranno essere cliccati a meno che non si trovi all&#39;interno di un collegamento di ancoraggio. Inoltre, **non** possono essere incorporati in un Token personale.
+>I token **non** saranno cliccabili a meno che all&#39;interno di un collegamento di ancoraggio. Inoltre, possono **not** essere incorporati in un token personale.
 
 Di seguito è illustrato come aggiungerli a un messaggio e-mail:
 
-1. Individuate e selezionate il messaggio e-mail, quindi fate clic su **Modifica bozza**.
+1. Trova e seleziona il tuo indirizzo e-mail, quindi fai clic su **Modifica bozza**.
 
    ![](assets/one-1.png)
 
@@ -35,19 +35,19 @@ Di seguito è illustrato come aggiungerli a un messaggio e-mail:
 
    ![](assets/two-1.png)
 
-1. Evidenziare il testo da convertire in un collegamento contenente il token e fare clic sul pulsante **Inserisci/Modifica collegamento** .
+1. Evidenziare il testo da convertire in un collegamento che avrà il token e fare clic sul pulsante **Inserisci/Modifica collegamento**.
 
    ![](assets/three-1.png)
 
-1. Immettete il token in URL collegamento e fate clic su **Inserisci**.
+1. Immettete il token nell&#39;URL collegamento e fate clic su **Inserisci**.
 
    ![](assets/four-1.png)
 
    >[!TIP]
    >
-   >Copiate/incollate il token desiderato: **`{{system.forwardToFriendLink}}`** o **`{{system.unsubscribeLink}}`** **`{{system.viewAsWebpageLink}}`**
+   >Copiate/incollate il token desiderato: **`{{system.forwardToFriendLink}}`** o **`{{system.unsubscribeLink}}`** o **`{{system.viewAsWebpageLink}}`**
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
@@ -55,6 +55,6 @@ Di seguito è illustrato come aggiungerli a un messaggio e-mail:
 >
 >**Promemoria**
 >
->Non dimenticare di [approvare la tua e-mail](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) al termine.
+>Non dimenticare di [approvare l&#39;e-mail](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) al termine.
 
 Ben fatto! Ora sai come aggiungere un token di sistema come collegamento in un messaggio e-mail.
