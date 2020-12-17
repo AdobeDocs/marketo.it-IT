@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Tubo profondo**
 >
->Per altre versioni, consulta la sezione approfondita [Note](http://docs.marketo.com/display/docs/release+notes) sulla versione.
+>Per altre versioni, vedere le [Note sulla versione](http://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 >
 >## Risolvi token personali {#resolve-my-tokens}>
 
