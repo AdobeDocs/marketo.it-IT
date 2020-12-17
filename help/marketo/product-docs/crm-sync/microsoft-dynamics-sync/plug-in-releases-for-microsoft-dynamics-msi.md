@@ -15,7 +15,7 @@ ht-degree: 4%
 
 La prima volta che effettuate la sincronizzazione con Microsoft Dynamics, scaricate e installate la versione più recente dei plug-in per Marketing Sales Insight (MSI). Marketo aggiorna periodicamente questi plug-in, in modo da poter tornare nella stessa posizione in cui scaricare la nuova versione.
 
-Scaricate [l&#39;ultimo plug-in](http://docs.marketo.com/x/LoJo) corrispondente alla release di Dynamics.
+[scarica il plug-in più recente](http://docs.marketo.com/x/LoJo) corrispondente alla versione di Dynamics.
 
 >[!NOTE]
 >
@@ -23,8 +23,8 @@ Scaricate [l&#39;ultimo plug-in](http://docs.marketo.com/x/LoJo) corrispondente 
 
 ## Aggiornamento della soluzione MSI {#updating-your-msi-solution}
 
-1. Importa la versione più recente della soluzione sulla versione esistente di Dynamics CRM (ad esempio: se Dynamics CRM dispone della versione 1.4 e la versione più recente è 1.5, importerete *oltre* la versione 1.4).
-1. Verrà visualizzato il seguente pop-up. Selezionate le opzioni di personalizzazione **Aggiorna** e **Sovrascrivi** , quindi fate clic su **Importa**.
+1. Importa la versione più recente della soluzione sulla versione esistente di Dynamics CRM (ad esempio: se Dynamics CRM dispone della versione 1.4 e la versione più recente è 1.5, importerai *oltre* versione 1.4).
+1. Verrà visualizzato il seguente pop-up. Selezionare le opzioni **Aggiorna** e **Sovrascrivi personalizzazione**, quindi fare clic su **Importa**.
 
    ![](assets/one.png)
 
@@ -43,27 +43,27 @@ Scaricate [l&#39;ultimo plug-in](http://docs.marketo.com/x/LoJo) corrispondente 
    <th colspan="1">Note</th> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
+   <td colspan="1">20/07/20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Correzione dei bug: Aggiunta di un messaggio di convalida per i record non sincronizzati</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
+   <td colspan="1">12/06/20</td> 
    <td colspan="1">2.0.0.19</td> 
    <td colspan="1"><p>Correzione dei bug: Per nascondere la password segreta MSI nella configurazione API MSD</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
+   <td colspan="1">26/05/20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1"><p>Correzione dei bug: Per modificare la convalida ID ruolo MSI per la visualizzazione dei pulsanti MSI</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
+   <td colspan="1">21/05/20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1"><p>Correzione dei bug: Visualizzare il campo proprietario e rendere i campi non obbligatori</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
+   <td colspan="1">28/04/20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1"><p>Correzione dei bug: Rimozione della dipendenza del collegamento di impostazione del sitemap MSD CRM</p></td> 
   </tr> 
