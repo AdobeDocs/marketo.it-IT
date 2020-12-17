@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Cartella campagna: Scheda Token personali
 
-Nella [!UICONTROL My Tokens] scheda sono elencati tutti i Token personali presenti nella cartella della campagna.
+Nella scheda [!UICONTROL My Tokens] sono elencati tutti i Token personali presenti nella cartella della campagna.
 
 ![Immagine uno](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
@@ -24,4 +24,4 @@ Per trovare la posizione in cui vengono utilizzati i Token personali, seleziona 
 
 **Tubo profondo**
 
-Ulteriori informazioni sull&#39;utilizzo dei [Token](/help/sky/understanding-my-tokens.md)personali.
+Ulteriori informazioni sull&#39;utilizzo di [My Tokens](/help/sky/understanding-my-tokens.md).
