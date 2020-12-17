@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# SEO - Aggiungi/rimuovi edizione pagina da un elenco {#seo-add-remove-page-issue-from-a-list}
+# SEO - Aggiungi/rimuovi edizione di pagina da un elenco {#seo-add-remove-page-issue-from-a-list}
 
 Potete organizzare le edizioni delle pagine in elenchi. È inoltre possibile rimuovere le edizioni di pagina da un elenco.
 
 ## Aggiungere edizioni di pagina a un elenco {#add-page-issues-to-a-list}
 
-1. Vai alla sezione **Pagine** .
+1. Vai alla sezione **Pagine**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Nella scheda delle pagine, fate clic su **Problemi**.
+1. Nella scheda delle pagine, fare clic su **Problemi**.
 1. ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Passate il puntatore del mouse sul problema della pagina da aggiungere. Fare clic su **AGGIUNGI/RIMUOVI DA ELENCO**.
+1. Passate il puntatore del mouse sul problema della pagina da aggiungere. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -41,7 +41,7 @@ Potete organizzare le edizioni delle pagine in elenchi. È inoltre possibile rim
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Nella scheda delle pagine, fate clic su **Problemi**.
+1. Nella scheda delle pagine, fare clic su **Problemi**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -49,7 +49,7 @@ Potete organizzare le edizioni delle pagine in elenchi. È inoltre possibile rim
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passate il puntatore del mouse sul problema della pagina da rimuovere. Fare clic su **AGGIUNGI/RIMUOVI DA ELENCO**.
+1. Passate il puntatore del mouse sul problema della pagina da rimuovere. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
