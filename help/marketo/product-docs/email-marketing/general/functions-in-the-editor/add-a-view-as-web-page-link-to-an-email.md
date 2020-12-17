@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di un collegamento di visualizzazione come pagina Web a un indirizzo e-mail {#add-a-view-as-web-page-link-to-an-email}
+# Aggiungere un collegamento di visualizzazione come pagina Web a un&#39;e-mail {#add-a-view-as-web-page-link-to-an-email}
 
 Le e-mail dispongono di funzionalità limitate (CSS limitato e nessun JavaScript o moduli). Utilizzate Visualizza come pagina Web per fornire un collegamento per visualizzare l’e-mail in un browser. Questo cookie il destinatario utilizza il Munchkin.
 
@@ -23,11 +23,11 @@ Le e-mail dispongono di funzionalità limitate (CSS limitato e nessun JavaScript
 
    ![](assets/one-5.png)
 
-1. Nell’editor e-mail, fate clic su Impostazioni **e-** mail.
+1. Nell&#39;editor e-mail, fare clic su **Impostazioni e-mail**.
 
    ![](assets/two-5.png)
 
-1. Selezionate la casella **Includi visualizzazione come pagina** Web e fate clic su **Salva**.
+1. Selezionare la casella **Includi visualizzazione come pagina Web** e fare clic su **Salva**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Ecco un esempio di come si presenta:
 >
 >Il collegamento Visualizza come pagina Web verrà visualizzato solo dopo l’invio del messaggio e-mail. Inviati un test per visualizzarlo.
 
-Per modificare il testo predefinito, vedere [Modificare il messaggio](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)&quot;Visualizza come pagina Web&quot;.
+Per modificare il testo predefinito, vedere [Modificare il messaggio &quot;Visualizza come pagina Web&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
