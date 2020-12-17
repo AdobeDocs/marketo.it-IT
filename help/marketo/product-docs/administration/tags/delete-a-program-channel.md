@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eliminare un canale di programma {#delete-a-program-channel}
+# Eliminare un canale del programma {#delete-a-program-channel}
 
 I canali di programma sono una raccolta di stati o punti di controllo che i lead dovrebbero attraversare in un programma.
 
@@ -21,7 +21,7 @@ Se ne fai uno per caso o non ne hai più bisogno, puoi cancellarlo.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
-1. Fate clic su **Tag**.
+1. Fare clic su **Tag**.
 
    ![](assets/image2014-9-24-16-3a7-3a33.png)
 
@@ -33,7 +33,7 @@ Se ne fai uno per caso o non ne hai più bisogno, puoi cancellarlo.
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! Potete anche [eliminare stati specifici dai canali](delete-a-program-status-from-a-program-channel.md).
+Bam! È inoltre possibile [eliminare stati specifici dai canali](delete-a-program-status-from-a-program-channel.md).
 
 >[!MORELIKETHIS]
 >
