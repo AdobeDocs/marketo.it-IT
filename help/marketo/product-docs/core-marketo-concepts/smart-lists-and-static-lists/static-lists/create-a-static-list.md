@@ -19,7 +19,7 @@ Gli elenchi statici sono un gruppo di persone già presenti nel database. Ecco c
 
    ![](assets/db.png)
 
-1. Fare clic sul menu a **discesa Nuovo** e selezionare **Nuovo elenco**.
+1. Fare clic sul menu a discesa **Nuovo** e selezionare **Nuovo elenco**.
 
    ![](assets/two.png)
 
