@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Il punteggio di coinvolgimento facilita la visualizzazione dell&#39;efficacia dei contenuti del programma di coinvolgimento. Il punteggio va da 0 a 100. Controllate [il pannello](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) Partecipazione per vedere come tenere traccia delle prestazioni del contenuto.
+Il punteggio di coinvolgimento facilita la visualizzazione dell&#39;efficacia dei contenuti del programma di coinvolgimento. Il punteggio va da 0 a 100. Controllate [il pannello Partecipazione](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) per vedere come tenere traccia delle prestazioni del contenuto.
 
 ![Immagine uno](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
