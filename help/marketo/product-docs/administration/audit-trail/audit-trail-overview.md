@@ -31,9 +31,9 @@ Fino a che punto è arrivato l&#39;utente X?
 
 Chi accede al nostro account?
 
-## Che cosa controlliamo {#what-we-audit}
+## Elementi di controllo {#what-we-audit}
 
-Marketing controllerà le azioni di [creazione, modifica ed eliminazione](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) per:
+Marketo controllerà le azioni [create, modificate ed eliminate](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) per:
 
 * Progettare le risorse di studio
 * Tutti i programmi Marketo
@@ -46,29 +46,29 @@ Marketing controllerà le azioni di [creazione, modifica ed eliminazione](http:/
 
 >[!NOTE]
 >
->Al momento, Marketo **non** sta verificando le modifiche apportate in Personalizzazione Web, Predictive Content o Sales Insight.
+>Al momento, Marketo è **non** il controllo delle modifiche effettuate in Web Personalization (Personalizzazione Web), Predictive Content (Contenuto predittivo) o Sales Insight (Informazioni sulle vendite).
 
 ## Componenti della traccia di controllo {#audit-trail-components}
 
 Audit Trail è costituito da tre componenti.
 
-**1) [Descrizione attività](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1)  [Descrizione attività](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
 
 Consultate attività eseguite su risorse specifiche.
 
-**2) Audit Trail [Amministratore](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2) Audit Trail  [Amministratore](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
 
 Monitorate i dettagli basati sull’utente.
 
-**3) Cronologia login [utente](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3) Cronologia login  [utente](http://docs.marketo.com/display/DOCS/User+Login+History)**
 
 Scopri chi ha effettuato l’accesso al tuo abbonamento e quando. Sono inclusi anche i tentativi di accesso non riusciti.
 
 >[!TIP]
 >
->C&#39;è così tanto che si può controllare utilizzando Audit Trail, assicurarsi di utilizzare [Filtraggio](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>C&#39;è così tanto che puoi eseguire il controllo utilizzando la traccia di audit, assicurati di utilizzare [Filtering](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
 
-## Esportazione dei dati {#exporting-data}
+## Esportazione dati {#exporting-data}
 
 È possibile visualizzare solo 30 giorni di dati nell&#39;istanza. Per ottenere (fino a) sei mesi, utilizzare l&#39;opzione di esportazione.
 
@@ -78,7 +78,7 @@ Scopri chi ha effettuato l’accesso al tuo abbonamento e quando. Sono inclusi a
 >
 >**Definizione**
 >
->**Sconosciuto:** Nell&#39;area di controllo potete visualizzare il nome e l&#39;e-mail di un utente elencati come &quot;Sconosciuto&quot;. Ciò si verifica quando si apporta una modifica ai valori dell&#39;elenco di selezione in CRM. Questi valori vengono visualizzati nei moduli Marketo e nelle pagine di destinazione. Se si esegue questo aggiornamento sul lato CRM, le pagine di destinazione che fanno riferimento al modulo verranno automaticamente sbozzate. Nella traccia di audit, acquisiremo che la pagina di destinazione è stata redatta, ma il nome dell&#39;utente e l&#39;e-mail saranno visualizzati come &quot;Sconosciuto&quot;, in quanto non siamo in grado di acquisire le informazioni utente dal lato CRM.
+>**Sconosciuto:** nella traccia di controllo, il nome e l&#39;e-mail di un utente potrebbero essere elencati come &quot;Sconosciuto&quot;. Ciò si verifica quando si apporta una modifica ai valori dell&#39;elenco di selezione in CRM. Questi valori vengono visualizzati nei moduli Marketo e nelle pagine di destinazione. Se si esegue questo aggiornamento sul lato CRM, le pagine di destinazione che fanno riferimento al modulo verranno automaticamente sbozzate. Nella traccia di audit, acquisiremo che la pagina di destinazione è stata redatta, ma il nome dell&#39;utente e l&#39;e-mail saranno visualizzati come &quot;Sconosciuto&quot;, in quanto non siamo in grado di acquisire le informazioni utente dal lato CRM.
 
 >[!MORELIKETHIS]
 >
