@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definire un pubblico con un elenco avanzato {#define-an-audience-with-a-smart-list}
 
-Una volta [creato un programma](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)e-mail, si desidera indicare a chi inviare l&#39;e-mail. A tale scopo, è possibile [importare un elenco di persone](define-an-audience-by-importing-a-list.md) o un elenco avanzato. Ecco come farlo con una lista intelligente.
+Dopo aver [creato un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), si desidera indicare a chi inviare l&#39;e-mail. È possibile eseguire questa operazione importando un elenco di persone [o con un elenco avanzato. ](define-an-audience-by-importing-a-list.md) Ecco come farlo con una lista intelligente.
 
 >[!PREREQUISITES]
 >
@@ -29,17 +29,17 @@ Una volta [creato un programma](../../../../product-docs/email-marketing/email-p
 >
 >La definizione del pubblico funzionerà solo se il programma e-mail non è approvato.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate il programma e-mail e fate clic su **Modifica elenco** avanzato nella sezione **Pubblico** .
+1. Selezionate il programma e-mail e fate clic su **Edit Smart List** nella sezione **Audience**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Accertatevi che Visualizza sia impostato su **Pannello di controllo Campaign** per trovare questa impostazione.
+   >Per trovare questa impostazione, verificare che la vista sia impostata su **Pannello di controllo Campaign**.
 
 1. Individuate i filtri che desiderate usare e trascinateli nell’area di lavoro.
 
@@ -54,13 +54,13 @@ Una volta [creato un programma](../../../../product-docs/email-marketing/email-p
    >**Tubo profondo**
    >
    >
-   >Per ulteriori informazioni sull&#39;uso e la definizione dei filtri, consultate [elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) avanzati ed elenchi statici.
+   >Per ulteriori informazioni sull&#39;utilizzo e la definizione dei filtri, consultare [elenchi smart ed elenchi statici](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Dopo aver aggiunto e definito i filtri, tornare alla scheda principale del programma. Vedrai quante persone si qualificano.
 
    ![](assets/myemailprogram.jpg)
 
-   Ottimo lavoro! Ora è il momento di [scegliere un&#39;e-mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) esistente o di [creare un&#39;e-mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da inviare a queste persone.
+   Ottimo lavoro! Ora è il momento di [scegliere un&#39;e-mail esistente](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o di [creare un&#39;e-mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da inviare a queste persone.
 
 >[!NOTE]
 >
@@ -76,9 +76,9 @@ Una volta [creato un programma](../../../../product-docs/email-marketing/email-p
 
 >
 >
-Fare clic sul numero per un elenco dettagliato di persone bloccate dalle spedizioni. **Nota:** Le e-mail operative verranno inviate alle persone contrassegnate come non sottoscritte e il marketing verrà sospeso.
+Fare clic sul numero per un elenco dettagliato di persone bloccate dalle spedizioni. **Nota: le e-mail** operative continueranno a essere inviate alle persone contrassegnate come non sottoscritte e il marketing verrà sospeso.
 >
->Utilizzate il ![—](assets/image2014-10-23-16-3a32-3a36.png) pulsante nella sezione Pubblico per vedere quante persone riceveranno l&#39;e-mail.
+>Utilizzate il pulsante ![—](assets/image2014-10-23-16-3a32-3a36.png) nella sezione Pubblico per vedere quante persone riceveranno l&#39;e-mail.
 
 >[!NOTE]
 >
