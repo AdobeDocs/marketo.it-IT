@@ -21,7 +21,7 @@ Marketo si sincronizza sia sugli eventi che sulle attività associati a un lead 
 
 ## In che modo i dettagli dell&#39;attività vengono mantenuti sincronizzati tra i due sistemi? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-La sincronizzazione è unidirezionale, da Salesforce a Marketo. Tuttavia puoi creare un&#39;attività in Salesforce utilizzando il passaggio [Crea flusso di attività](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) o [Personalizza sincronizzazione](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) attività in Salesforce.
+La sincronizzazione è unidirezionale, da Salesforce a Marketo. Tuttavia, puoi creare un&#39;attività in Salesforce utilizzando il passaggio di flusso [Crea attività](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) o [Personalizza sincronizzazione attività](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) in Salesforce.
 
 ## Posso creare un&#39;attività con Marketo? {#can-i-create-a-task-using-marketo}
 
@@ -41,5 +41,5 @@ Filtri
 
 >[!TIP]
 >
->Non sei sicuro della formulazione &quot;Not Activity&quot;? Il termine &quot;not&quot; si riferisce a un filtro di inattività. Per saperne di più, consulta: [Utilizzo dei filtri per l&#39;inattività in un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>Non sei sicuro della formulazione &quot;Not Activity&quot;? Il termine &quot;not&quot; si riferisce a un filtro di inattività. Per saperne di più, consulta: [Utilizzare i filtri per l&#39;inattività in un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
