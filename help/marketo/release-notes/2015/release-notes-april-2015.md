@@ -23,15 +23,15 @@ Le seguenti funzionalità sono incluse nella release di aprile 2015. Per informa
 >
 >Questa funzionalità verrà rilasciata martedì 28 aprile.
 
-La nuova home page [di](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) Analytics consente l&#39;accesso rapido per l&#39;esecuzione di report ad hoc tra i tipi di report disponibili.   ![](assets/image2015-4-20-11-3a18-3a8.png)
+La nuova [Home page di Analytics](../../product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) consente di accedere rapidamente all&#39;esecuzione di report ad hoc tra i tipi di report disponibili.   ![](assets/image2015-4-20-11-3a18-3a8.png)
 
 Inoltre, ora è disponibile l&#39;organizzazione di report condivisa o privata. Create o trascinate i rapporti nella cartella Report personali per impedirne la visualizzazione, la modifica o l’eliminazione da parte di altri utenti. Rapporti sui gruppi è condiviso tra tutti gli utenti.
 
-## Coinvolgimento Marketo Mobile {#marketo-mobile-engagement}
+## Coinvolgimento di Marketo Mobile {#marketo-mobile-engagement}
 
 [Coinvolgimento Marketo Mobile](http://docs.marketo.com/display/docs/mobile+marketing)
 
-Con [Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing), distribuire esperienze mobili accattivanti è semplice. Crea campagne altamente personalizzate che forniscono contenuti coinvolgenti senza dover mai affidarsi a un team di sviluppo di app. I nuovi filtri e attivatori consentono di ascoltare e rispondere sul canale mobile attraverso le notifiche push.
+Grazie a [Marketing Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing), è facile offrire esperienze mobili accattivanti. Crea campagne altamente personalizzate che forniscono contenuti coinvolgenti senza dover mai affidarsi a un team di sviluppo di app. I nuovi filtri e attivatori consentono di ascoltare e rispondere sul canale mobile attraverso le notifiche push.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -39,7 +39,7 @@ Con [Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+mark
 
 [Integrazione con Lead Accelerator di LinkedIn](../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Amplia la tua strategia di sviluppo dei lead a display a pagamento e annunci social. L&#39;integrazione [della rete](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) pubblicitaria con LinkedIn Lead Accelerator consente di creare in modo sicuro un segmento di pubblico all&#39;interno di LinkedIn in base ai membri di qualsiasi elenco statico o avanzato. I membri all&#39;interno di un segmento di pubblico LinkedIn possono quindi essere nutriti con una sequenza di annunci pertinenti.
+Amplia la tua strategia di sviluppo dei lead a display a pagamento e annunci social. L&#39;integrazione di [ad network ](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator consente di creare in modo sicuro un segmento di pubblico all&#39;interno di LinkedIn in base ai membri di qualsiasi elenco statico o statico. I membri all&#39;interno di un segmento di pubblico LinkedIn possono quindi essere nutriti con una sequenza di annunci pertinenti.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -49,10 +49,10 @@ Le tue funzioni di Sales Insight preferite - feed lead, puntate migliori, moment
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP - Analisi di marketing basate sull&#39;account {#rtp-account-based-marketing-analytics}
+## RTP - Analisi di marketing basata su account {#rtp-account-based-marketing-analytics}
 
-RTP - Analisi di marketing [basate su account](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Analisi marketing basata su account](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Ottenete una visibilità immediata delle [prestazioni degli elenchi](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) Account con nome chiave in base a ogni fase del ciclo di acquisto, con il nuovo grafico delle prestazioni per gli elenchi Account con nome. Il grafico mostra la fase della visita da parte dell&#39;organizzazione chiave che parte dalla consapevolezza fino all&#39;azione, in base al numero di visite e allo stato del visitatore.
+Ottenete visibilità immediata delle [prestazioni delle vostre liste Account con nome ](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) chiave in base a ogni fase del ciclo di acquisto, con il nuovo grafico delle prestazioni per gli elenchi Account con nome. Il grafico mostra la fase della visita da parte dell&#39;organizzazione chiave che parte dalla consapevolezza fino all&#39;azione, in base al numero di visite e allo stato del visitatore.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
