@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin** e fai clic su Servizi **** Web.
+1. Accedete a **Admin** e fate clic su **Web Services**.
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. Impostate una chiave **di** crittografia appropriata, fate clic su **Salva modifiche** e passate tutte le informazioni al vostro sviluppatore.
+1. Impostate una **chiave di crittografia** appropriata, fate clic su **Salva modifiche** e trasmettete tutte le informazioni al vostro sviluppatore.
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
