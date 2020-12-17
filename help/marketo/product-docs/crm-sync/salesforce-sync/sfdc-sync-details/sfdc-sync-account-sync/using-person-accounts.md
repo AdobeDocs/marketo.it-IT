@@ -33,11 +33,11 @@ Un account utente viene sincronizzato con Marketo come azienda e come persona.
 
 ## Come si differenziano gli account aziendali e gli account delle persone? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilizzate il filtro Account **persona** presente nell&#39;elenco smart per separare gli account delle persone dagli account aziendali standard.
+Utilizzate il filtro **Is Person Account** nell&#39;elenco smart per separare gli account delle persone dagli account aziendali standard.
 
 ## Dove sono visualizzate le informazioni sugli account personali in Marketing Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Le attività relative agli account utente vengono visualizzate nel pannello **Account** .
+Le attività relative agli account utente vengono visualizzate nel pannello **Account**.
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Marketo dipende dal ruolo di contatto opportunità per determinare a quale perso
 
 ## Quale campo e-mail devo utilizzare per gli account utente? {#which-email-field-should-i-use-for-person-accounts}
 
-Esistono due campi e-mail per un account utente. Utilizzare il campo Indirizzo **e-** mail nei moduli (non l&#39;indirizzo **e-mail** Persona) per garantire il corretto funzionamento della deduplicazione di Marketo e di altre elaborazioni e-mail.
+Esistono due campi e-mail per un account utente. Utilizzare il campo **Indirizzo e-mail** nei moduli (non l&#39; **Indirizzo e-mail persona**) per garantire il corretto funzionamento della deduplicazione di Marketo e di altre elaborazioni e-mail.
