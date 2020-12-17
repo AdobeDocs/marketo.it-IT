@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Abilitare/disabilitare i limiti di comunicazione in un programma e-mail {#enable-disable-communication-limits-in-an-email-program}
 
-Quando eseguite un programma e-mail, potete scegliere di ignorare o rispettare i limiti [di comunicazione a livello di](../../../../product-docs/administration/email-setup/enable-communication-limits.md) amministratore [stabiliti](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Ecco come farlo.
+Durante l&#39;esecuzione di un programma e-mail, è possibile scegliere di ignorare o rispettare il limite di comunicazione a livello di amministratore [ ](../../../../product-docs/administration/email-setup/enable-communication-limits.md)s[. ](../../../../product-docs/administration/email-setup/enable-communication-limits.md) Ecco come farlo.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->I limiti di comunicazione sono [impostati nella sezione](../../../../product-docs/administration/email-setup/enable-communication-limits.md) Amministratore e consentono di evitare l&#39;invio di un numero eccessivo di messaggi e-mail da parte di una persona.
+>I limiti di comunicazione sono [impostati nella sezione Amministratore](../../../../product-docs/administration/email-setup/enable-communication-limits.md) e consentono di evitare di inviare troppi messaggi e-mail a una persona.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -29,7 +29,7 @@ Quando eseguite un programma e-mail, potete scegliere di ignorare o rispettare i
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Nella scheda **Configurazione** , fate doppio clic sull’elemento della riga limite di comunicazione.
+1. Nella scheda **Setup** fare doppio clic sull&#39;elemento della riga limite di comunicazione.
 
    ![](assets/blockoperational.png)
 
@@ -37,5 +37,5 @@ Quando eseguite un programma e-mail, potete scegliere di ignorare o rispettare i
 
    ![](assets/ifaperson.jpg)
 
-   Se **Blocca e-mail** non operative viene selezionato, verrà impedito l&#39;invio dell&#39;e-mail a chiunque abbia ricevuto più e-mail di quante ne consentano le impostazioni dell&#39;amministratore.
+   Lasciando l&#39;opzione **Blocca e-mail non operative** selezionata, l&#39;e-mail non verrà inviata a chiunque abbia ricevuto più e-mail di quante ne consentano le impostazioni dell&#39;amministratore.
 
