@@ -45,7 +45,7 @@ Gli oggetti personalizzati molti-molti utilizzano due campi di collegamento, par
 
 ## Accesso agli oggetti personalizzati Marketo {#accessing-marketo-custom-objects}
 
-1. Per creare o modificare oggetti personalizzati Marketo, fare clic su **Admin **e quindi sul collegamento **Marketo Custom** Objects (Oggetti personalizzati Marketo).
+1. Per creare o modificare oggetti personalizzati Marketo, fare clic su **Admin **e quindi sul collegamento **Marketo Custom Object** s.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -71,11 +71,11 @@ Dopo aver creato la struttura dell&#39;oggetto personalizzato, quando si carican
 
    ![](assets/db.png)
 
-1. Aprite il database e fate clic sulla scheda **Persone** . Fare doppio clic sul record per la persona associata a un oggetto personalizzato.
+1. Aprite il database e fate clic sulla scheda **Persone**. Fare doppio clic sul record per la persona associata a un oggetto personalizzato.
 
    ![](assets/five.png)
 
-1. Nella pagina dei dettagli della persona, fare clic sulla scheda Oggetti **** personalizzati. Selezionare l&#39;oggetto dall&#39;elenco a discesa.
+1. Nella pagina dei dettagli della persona, fare clic sulla scheda **Oggetti personalizzati**. Selezionare l&#39;oggetto dall&#39;elenco a discesa.
 
    ![](assets/six.png)
 
@@ -83,7 +83,7 @@ Dopo aver creato la struttura dell&#39;oggetto personalizzato, quando si carican
 
    ![](assets/seven.png)
 
-## Utilizzo di oggetti personalizzati con le aziende {#using-custom-objects-with-companies}
+## Utilizzo di oggetti personalizzati con le società {#using-custom-objects-with-companies}
 
 Un oggetto personalizzato collegato alla società funziona meglio se si sincronizzano società da CRM o se si creano società in modo esplicito utilizzando l&#39;API. È inoltre consigliabile utilizzare l&#39;ID società come campo di collegamento.
 
@@ -91,7 +91,7 @@ Se hai più persone in Marketo che sono record nei record CRM o Marketo, un ogge
 
 Gli oggetti personalizzati possono collegarsi direttamente a un singolo record. Ciò significa che quando il tipo di oggetto personalizzato è collegato per campo società, è necessario assicurarsi che i record di persona siano associati a una società utilizzando la conversione dei contatti in CRM, oppure utilizzando il campo externalCompanyId, se si gestiscono società utilizzando le API REST di Marketo. Per i record di persona che non sono collegati esplicitamente ai record aziendali, gli oggetti personalizzati collegati tramite la società saranno collegati in modo casuale a un singolo record, anche se il valore del campo della società viene condiviso tra più persone.
 
-Per ulteriori informazioni, vedere [Importare dati](import-custom-object-data.md) oggetto personalizzati.
+Per ulteriori informazioni, vedere [Importa dati oggetto personalizzati](import-custom-object-data.md).
 
 >[!MORELIKETHIS]
 >
