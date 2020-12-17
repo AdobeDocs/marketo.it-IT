@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usa test A/B &quot;Subject Line&quot; {#use-subject-line-a-b-testing}
 
-È possibile testare facilmente le e-mail mediante test A/B. Uno dei test più comuni è il test **Subject Line** .
+È possibile testare facilmente le e-mail mediante test A/B. Uno dei test più comuni è il test **Subject Line**.
 
 >[!PREREQUISITES]
 >
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Puoi fare clic sul segno **più****** per aggiungere altre righe oggetto.
+   >È possibile fare clic sul simbolo **più****** per aggiungere altre righe oggetto.
 
-1. Usate il cursore per scegliere la percentuale di pubblico per il quale desiderate ricevere il test A/B e fate clic su **Avanti**.
+1. Usate il cursore per scegliere la percentuale di pubblico che desiderate ricevere il test A/B e fate clic su **Next**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >Le diverse varianti di oggetto includeranno parti pari della dimensione del campione di prova selezionata.
 
-   Ok, siamo quasi lì. Ora è necessario [definire i criteri](define-the-a-b-test-winner-criteria.md)per i vincitori del test A/B.
+   Ok, siamo quasi lì. Ora è necessario [definire i criteri per il vincitore del test A/B](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
