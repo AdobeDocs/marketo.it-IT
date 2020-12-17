@@ -48,7 +48,7 @@ Quando sincronizzate inizialmente l’account Marketo con Salesforce, Marketo cr
 | Titolo | Titolo processo |
 | Sito Web | Sito Web |
 
-## Campi contatto {#contact-fields}
+## Campi di contatto {#contact-fields}
 
 | Campo SFDC | Campo Marketo |
 |---|---|
