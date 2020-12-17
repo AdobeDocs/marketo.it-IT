@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campione/Sfida: Definisci criteri campione {#champion-challenger-define-champion-criteria}
+# Campione/Sfida: Definire i criteri campione {#champion-challenger-define-champion-criteria}
 
 Una volta configurato il tipo di test, è necessario definire i criteri campione. Ecco come.
 
@@ -25,7 +25,7 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
 
 ## Criteri campione standard {#standard-champion-criteria}
 
-1. Scegli uno dei criteri **** campione disponibili.
+1. Selezionare uno dei **criteri di campione** disponibili.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,11 +33,11 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
    >
    >Seguiremo questa metrica e ti invieremo un rapporto con i dati via e-mail.
 
-1. Se hai scelto uno dei criteri **** campione predefiniti, vai avanti e passa a [Champion/Challenger: Configurare gli avvisi](champion-challenger-configure-report-alerts.md)dei rapporti
+1. Se hai scelto uno dei **criteri campione** predefiniti, vai avanti e passa a [Campione/Sfida: Configura avvisi report](champion-challenger-configure-report-alerts.md)!
 
 ## Criteri campione personalizzati {#custom-champion-criteria}
 
-1. Per ottenere un risultato personalizzato, selezionare Conversione **** personalizzata e fare clic su **Modifica**.
+1. Se si desidera ottenere la fantasia, è possibile utilizzare la personalizzazione selezionando **Conversione personalizzata** e facendo clic su **Modifica**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -55,7 +55,7 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
 
    Marketo consente solo attivatori per le persone che hanno ricevuto l&#39;e-mail da questo programma e-mail. Non è necessario aggiungere un filtro &quot;È stato inviato un messaggio e-mail&quot;.
 
-1. Fate clic su **Chiudi**.
+1. Fare clic su **Chiudi**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
