@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Importa dati oggetto personalizzati {#import-custom-object-data}
 
-È facile importare dati oggetto personalizzati nel database. Se si utilizzano oggetti personalizzati con le società, per ulteriori informazioni vedere [Uso di oggetti personalizzati con le società](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies) .
+È facile importare dati oggetto personalizzati nel database. Se si utilizzano oggetti personalizzati con le società, per ulteriori informazioni vedere [Uso di oggetti personalizzati con le società](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies).
 
-1. In My Marketo, andate a **Database**.
+1. In My Marketo, andare a **Database**.
 
    ![](assets/db-1.png)
 
-1. Fare clic su **Nuovo** e selezionare **Importa dati** oggetto personalizzati.
+1. Fare clic su **Nuovo** e selezionare **Importa dati oggetto personalizzati**.
 
    ![](assets/image2016-4-7-10-6-54.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-13-14-3a24-3a54.png)
 
-1. Selezionate la modalità Deduplica dal menu a discesa. Fate clic su **Avanti**.
+1. Selezionate la modalità Deduplica dal menu a discesa. Fare clic su **Next**.
 
    ![](assets/image2016-4-13-14-3a28-3a7.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >Assicuratevi che i valori nel file corrispondano al tipo di campo a cui si sta confrontando (ad es. testo, numero intero, ecc.), in caso contrario il file verrà rifiutato.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-4-13-14-3a38-3a41.png)
 
-1. Fate clic su **Importa**.
+1. Fare clic su **Importa**.
 
    ![](assets/image2016-4-7-13-3a15-3a9.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Inserisci il tuo indirizzo e-mail in **Invia avviso a:** field e Marketo ti invieranno un&#39;e-mail al termine dell&#39;importazione!
+   >Inserisci il tuo indirizzo e-mail nel campo **Invia avviso a:** e Marketo ti invierà un messaggio e-mail al termine dell&#39;importazione!
 
 1. Nell’angolo in alto a destra della schermata, viene visualizzata una notifica mentre è in esecuzione l’importazione e i risultati finali al termine dell’operazione.
 
