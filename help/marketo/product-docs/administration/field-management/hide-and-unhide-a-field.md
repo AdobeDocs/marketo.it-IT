@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nascondere e visualizzare un campo {#hide-and-unhide-a-field}
+# Nascondere e scoprire un campo {#hide-and-unhide-a-field}
 
 Se non si utilizza più un campo in Marketo, è possibile nasconderlo dall&#39;interfaccia utente in modo che non venga più visualizzato nell&#39;applicazione.
 
@@ -21,11 +21,11 @@ Se non si utilizza più un campo in Marketo, è possibile nasconderlo dall&#39;i
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Trovare il campo, selezionarlo, quindi in Azioni **** campo fare clic su **Nascondi campo**.
+1. Trovare il campo, selezionarlo, quindi in **Azioni campo** fare clic su **Nascondi campo**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -42,13 +42,13 @@ Se non si utilizza più un campo in Marketo, è possibile nasconderlo dall&#39;i
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
-## Visualizzare un campo {#unhide-a-field}
+## Scopri un campo {#unhide-a-field}
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Trova e seleziona il campo, quindi fai clic su **Azioni** campo in **`Unhide Field`**.
+1. Trovare e selezionare il campo, quindi in **Azioni campo** fare clic su **`Unhide Field`**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
