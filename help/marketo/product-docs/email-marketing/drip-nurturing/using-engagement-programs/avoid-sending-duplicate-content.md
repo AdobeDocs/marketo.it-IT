@@ -25,9 +25,9 @@ Una persona riceve un messaggio e-mail inviato dal modulo di gestione del coinvo
 |---|---|---|
 | Una campagna in un programma separato, autonomo e predefinito | Non è membro del programma predefinito | Yes |
 | Una campagna in un programma separato, autonomo e predefinito | Un membro del programma predefinito | No |
-| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno dello **stesso** programma CEE | Un membro del programma predefinito | No |
-| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno dello **stesso** programma CEE | Non è membro del programma predefinito | Yes |
-| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno di un programma CEE **diverso** | Un membro del programma predefinito | No |
-| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno di un programma CEE **diverso** | Non è membro del programma predefinito | Yes |
-| Un programma CEE **diverso** che utilizza un flusso intelligente | Membro di entrambi i programmi CEE | No |
+| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno del programma **same** CEE | Un membro del programma predefinito | No |
+| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno del programma **same** CEE | Non è membro del programma predefinito | Yes |
+| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno di un programma **diverso** CEE | Un membro del programma predefinito | No |
+| Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno di un programma **diverso** CEE | Non è membro del programma predefinito | Yes |
+| Un programma **diverso** CEE che utilizza un flusso intelligente | Membro di entrambi i programmi CEE | No |
 
