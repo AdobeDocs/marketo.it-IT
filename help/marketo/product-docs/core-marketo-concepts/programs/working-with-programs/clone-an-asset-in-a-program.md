@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Duplicare una risorsa in un programma {#clone-an-asset-in-a-program}
+# Clonare una risorsa in un programma {#clone-an-asset-in-a-program}
 
-Clonare un programma clona *tutto*. A volte è sufficiente clonare una risorsa. Ecco come.
+Clonazione di un programma cloni *tutto*. A volte è sufficiente clonare una risorsa. Ecco come.
 
 >[!NOTE]
 >
->Sarà necessario eseguire ulteriori passaggi per [duplicare un gruppo](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)di test della pagina di destinazione.
+>Sarà necessario eseguire ulteriori passaggi per [duplicare un gruppo di test della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Duplica una risorsa locale {#clone-a-local-asset}
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,17 +29,17 @@ Clonare un programma clona *tutto*. A volte è sufficiente clonare una risorsa. 
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Fate clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fate clic su **Clona**.
+1. Fate clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fare clic su **Clone**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. È sufficiente compilare le informazioni e fare clic su **Clona.**
+1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. È sufficiente compilare le informazioni e fare clic su **Clone.**
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >Potete anche duplicare una risorsa in un altro programma. Utilizzate il menu a discesa **Programma** per effettuare la selezione.
+   >Potete anche duplicare una risorsa in un altro programma. Utilizzate il menu a discesa **Program** per effettuare la selezione.
 
 1. Fantastico! Ora dovresti vedere la nuova risorsa clonata.
 
