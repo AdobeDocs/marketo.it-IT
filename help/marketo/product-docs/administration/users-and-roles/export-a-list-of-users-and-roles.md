@@ -19,11 +19,11 @@ ht-degree: 0%
 
 È abbastanza facile esportare un elenco completo dei vostri utenti e ruoli utente. Ecco come.
 
-1. Vai ad **Admin**.
+1. Vai a **Admin**.
 
    ![](assets/adminhand.png)
 
-1. Fate clic su **Utenti e ruoli**.
+1. Fare clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-10-9-3a25-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Per esportare i ruoli, andate alla scheda **Ruoli**** **prima e quindi esportate.
+   >Per esportare i ruoli, passare alla scheda **Ruoli**** **prima di esportare.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
