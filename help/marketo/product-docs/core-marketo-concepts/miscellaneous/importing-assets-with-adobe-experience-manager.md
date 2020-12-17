@@ -23,17 +23,17 @@ Il Selettore risorse consente ai clienti di Marketo di accedere, selezionare e i
 
 >[!PREREQUISITES]
 >
->Accertatevi di aver già eseguito la configurazione [](https://docs.marketo.com/x/FwPLAQ)AEM.
+>Assicurarsi di aver già eseguito la [AEM Configuration](https://docs.marketo.com/x/FwPLAQ).
 
 >[!CAUTION]
 >
 >Al momento, questa funzione è supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nella versione più recente di Chrome (v. 80), a seconda delle impostazioni del cookie SameSite.
 
-1. Fate clic su **Design Studio**.
+1. Fare clic su **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. Fate clic sul menu a discesa Nuovo e selezionate **Importa da Adobe Experience Manager**.
+1. Fare clic sul menu a discesa Nuovo e selezionare **Importa da Adobe Experience Manager**.
 
    ![](assets/two-1.png)
 
@@ -45,7 +45,7 @@ Il Selettore risorse consente ai clienti di Marketo di accedere, selezionare e i
 
    ![](assets/four-1.png)
 
-1. Scegliete la cartella. Selezionate quindi le immagini desiderate facendo clic sulla miniatura (potete scegliere fino a 10). Al termine, fate clic su **Seleziona** .
+1. Scegliete la cartella. Selezionate quindi le immagini desiderate facendo clic sulla miniatura (potete scegliere fino a 10). Fare clic su **Seleziona** al termine.
 
    ![](assets/five.png)
 
@@ -53,15 +53,15 @@ Il Selettore risorse consente ai clienti di Marketo di accedere, selezionare e i
    >
    >Le immagini non possono superare i 100 MB di dimensione.
 
-1. Fate clic su **Importa** per completare il processo.
+1. Fare clic su **Importa** per completare il processo.
 
    ![](assets/six-1.png)
 
-   Ed è tutto! Fate clic su **Chiudi** per tornare a Design Studio.
+   Ed è tutto! Fare clic su **Chiudi** per tornare a Design Studio.
 
    ![](assets/seven-1.png)
 
-## Cose da notare {#things-to-note}
+## Note {#things-to-note}
 
 Al momento, Marketo supporta Adobe Experience Manager versioni 6.4 e 6.5.
 
