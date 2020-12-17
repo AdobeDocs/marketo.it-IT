@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Modificare Le Voci Direttamente Nel Calendario Di Marketing {#edit-entries-directly-in-the-marketing-calendar}
+# Modifica delle voci direttamente nel calendario di marketing {#edit-entries-directly-in-the-marketing-calendar}
 
 Una volta attiva la modalità di attivazione del programma, è possibile apportare rapidamente modifiche alle voci del calendario. Ecco come.
 
 ## Attiva programma {#enable-program-focus}
 
-1. Vai al **calendario**.
+1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selezionate una voce che appartiene al programma sul quale desiderate concentrarvi e fate clic su **Mostra stato attivo** programma.
+1. Selezionare una voce che appartiene al programma su cui si desidera concentrarsi e fare clic su **Show Program Focus**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## Riprogrammazione della voce {#reschedule-entry}
+## Riprogrammare la voce {#reschedule-entry}
 
 1. È sufficiente trascinare e rilasciare una voce per riprogrammarla.
 
@@ -46,7 +46,7 @@ Una volta attiva la modalità di attivazione del programma, è possibile apporta
    >Potete anche modificare la descrizione.
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
 ## Converti tipo di voce {#convert-entry-type}
 
