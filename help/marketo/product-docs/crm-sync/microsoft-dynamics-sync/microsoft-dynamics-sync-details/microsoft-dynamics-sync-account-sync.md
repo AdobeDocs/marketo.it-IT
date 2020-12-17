@@ -29,7 +29,7 @@ No. Impossibile creare account in Dynamics.
 
 ## Quali campi verranno sincronizzati con Marketo? {#which-fields-will-sync-to-marketo}
 
-Potete [selezionare i campi da sincronizzare](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante l&#39;impostazione. Tuttavia, Marketo sincronizzerà solo i campi a cui l&#39;utente della sincronizzazione Dynamics ha accesso.
+È possibile [selezionare i campi da sincronizzare](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configurazione. Tuttavia, Marketo sincronizzerà solo i campi a cui l&#39;utente della sincronizzazione Dynamics ha accesso.
 
 ## Se una modifica in un campo account di Dynamics restituisce un log attività di modifica del valore dei dati per ogni contatto?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
