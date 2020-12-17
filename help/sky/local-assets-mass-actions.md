@@ -14,15 +14,15 @@ ht-degree: 0%
 
 <br> 
 
-Potete eseguire azioni in blocco su più risorse direttamente dalla **[!UICONTROL Actions]** sezione sotto la **[!UICONTROL Assets]** scheda. Ecco come trovare le risorse necessarie e applicare un&#39;azione di massa.
+Potete eseguire azioni in blocco su più risorse direttamente dalla sezione **[!UICONTROL Actions]** nella scheda **[!UICONTROL Assets]**. Ecco come trovare le risorse necessarie e applicare un&#39;azione di massa.
 
 ## Filtra per tipo di risorsa e/o condizione
 
-Per trovare risorse specifiche su cui intervenire, potete filtrare **[!UICONTROL asset type]** scegliendo uno o più tipi dall’elenco a discesa.
+Per trovare risorse specifiche su cui intervenire, potete filtrare per **[!UICONTROL asset type]** scegliendo uno o più tipi dall’elenco a discesa.
 
 ![Immagine uno](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-Inoltre, potete filtrare **[!UICONTROL asset condition]** scegliendo una o più condizioni dal menu a discesa. Potete eseguire questa operazione separatamente o in combinazione con il filtro per tipo di risorsa.
+Inoltre, puoi filtrare per **[!UICONTROL asset condition]** scegliendo una o più condizioni dall&#39;elenco a discesa. Potete eseguire questa operazione separatamente o in combinazione con il filtro per tipo di risorsa.
 
 ![Immagine due](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ Inoltre, potete filtrare **[!UICONTROL asset condition]** scegliendo una o più 
 
 ## Applicazione di un&#39;azione di massa
 
-Selezionate un gruppo di risorse, quindi scegliete un’azione dall’ **[!UICONTROL Select Action]** elenco a discesa. Le azioni che non possono essere applicate a _nessuna_ delle risorse selezionate vengono automaticamente disattivate.
+Selezionate un gruppo di risorse, quindi scegliete un&#39;azione dal menu a discesa **[!UICONTROL Select Action]**. Le azioni che non possono essere applicate a _qualsiasi_ delle risorse selezionate vengono automaticamente disabilitate.
 
 ![Immagine tre](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ Quando selezionate un&#39;azione di massa, un messaggio a comparsa di conferma e
 
 ## Notifiche di stato
 
-È possibile trovare lo stato delle azioni di massa nel **[!UICONTROL Recent Notifications]** vassoio.
+È possibile trovare lo stato delle azioni di massa nel vassoio **[!UICONTROL Recent Notifications]**.
 
 ![Immagine cinque](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## Errori azione di massa
 
-Se l’azione scelta non può essere applicata perché la risorsa richiede una correzione, riceverete una notifica di errore parziale (con un simbolo di avviso giallo). Se l’azione non è stata applicata a _tutte_ le risorse selezionate, la notifica avrà un simbolo di avviso rosso. Fate clic **[!UICONTROL View Failures]** per i dettagli.
+Se l’azione scelta non può essere applicata perché la risorsa richiede una correzione, riceverete una notifica di errore parziale (con un simbolo di avviso giallo). Se l&#39;azione non è stata applicata a _tutti_ delle risorse selezionate, la notifica avrà un simbolo di avviso rosso. Fare clic su **[!UICONTROL View Failures]** per informazioni dettagliate.
 
 ![Immagine Sei](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
