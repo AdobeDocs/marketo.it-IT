@@ -18,11 +18,11 @@ Se si dispone di una campagna batch ricorrente che non si desidera più, è poss
 
 ## Annulla intera ricorrenza
 
-1. Selezionate la campagna e passate alla **[!UICONTROL Schedule]** scheda.
+1. Selezionate la campagna e passate alla scheda **[!UICONTROL Schedule]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Fate clic **[!UICONTROL Edit Recurrence]**.
+1. Fare clic su **[!UICONTROL Edit Recurrence]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
@@ -36,15 +36,15 @@ Se si dispone di una campagna batch ricorrente che non si desidera più, è poss
 
 ## Annulla una singola esecuzione
 
-1. Selezionate la campagna e passate alla **[!UICONTROL Schedule]** scheda.
+1. Selezionate la campagna e passate alla scheda **[!UICONTROL Schedule]**.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. Fate clic **[!UICONTROL Scheduled Runs]**.
+1. Fare clic su **[!UICONTROL Scheduled Runs]**.
 
    ![Immagine cinque](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. Individua la singola esecuzione da annullare e fai clic sull&#39; **[!UICONTROL X]** estrema destra.
+1. Individuate la singola esecuzione da annullare e fate clic sul simbolo **[!UICONTROL X]** all&#39;estrema destra.
 
    ![Immagine Sei](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
