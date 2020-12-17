@@ -33,19 +33,19 @@ Marketo gestisce la registrazione e la partecipazione al webinar WebEx.
 >
 >Attenzione: Non immettete l’intero URL in questo campo; immettete solo il nome del sito!
 
-1. Vai ad **Admin** e fai clic su **LaunchPoint**.
+1. Accedete a **Admin** e fate clic su **LaunchPoint**.
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. Selezionate **Nuovo** , quindi **Nuovo servizio**.
+1. Selezionare **New**, quindi **New Service**.
 
    ![](assets/webex-new-service.png)
 
-1. Immettere un nome **** visualizzato. In **Servizio**, selezionare **WebEx**.
+1. Immettere un **nome visualizzato**. In **Service**, selezionare **WebEx**.
 
    ![](assets/new-service-webex.png)
 
-1. Immettete il vostro **nome** utente e la vostra **password**.
+1. Inserite il vostro **Nome utente** e **Password**.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
