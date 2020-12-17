@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Creare un token di script e-mail {#create-an-email-script-token}
 
-Per gli sviluppatori avanzati, potete utilizzare gli script [](http://velocity.apache.org/engine/1.7/user-guide.html) Velocity nelle e-mail. Ecco come farlo.
+Per gli sviluppatori avanzati, nelle e-mail puoi utilizzare [script Velocity](http://velocity.apache.org/engine/1.7/user-guide.html). Ecco come farlo.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Per gli sviluppatori avanzati, potete utilizzare gli script [](http://velocity.a
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Nella scheda **Token** personali trascinare un token script **** e-mail.
+1. Nella scheda **My Tokens** (Token personali), trascinare un token **Email Script**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Assegnate un nome al token script e-mail e **fate clic per modificarne** il contenuto.
+1. Assegnate un nome al token di script e **fate clic per modificare il contenuto**.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Utilizzate la struttura ad albero a destra per trascinare i token **Persona, Opportunità** o Oggetto **** personalizzato.
+1. Utilizzate la struttura ad albero a destra per trascinare i token **Persona, Opportunità** o **Oggetto personalizzato**.
 
    ![](assets/five-2.png)
 
@@ -57,11 +57,11 @@ Per gli sviluppatori avanzati, potete utilizzare gli script [](http://velocity.a
    * [Guida di riferimento della velocità](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Javadoc strumenti Velocity](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Al termine dello script, fare clic su **Salva**.
+1. Una volta completato lo script, fare clic su **Salva**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Fai clic su **Salva** una volta di più.
+1. Fare clic su **Salva** una volta.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
