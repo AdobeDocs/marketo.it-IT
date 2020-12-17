@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Scoprite Quali Autorizzazioni Disponete {#find-out-what-permissions-you-have}
+# Scopri le autorizzazioni di cui disponi {#find-out-what-permissions-you-have}
 
 Se ti stai chiedendo quali autorizzazioni hai o non hai a Marketo, c&#39;è un modo semplice per scoprirlo.
 
@@ -19,7 +19,7 @@ Se ti stai chiedendo quali autorizzazioni hai o non hai a Marketo, c&#39;è un m
 
    ![](assets/login-marketing-activities.png)
 
-1. Fate clic su Accesso **** completo per visualizzare le autorizzazioni disponibili.
+1. Fare clic su **Accesso completo** per visualizzare le autorizzazioni disponibili.
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
