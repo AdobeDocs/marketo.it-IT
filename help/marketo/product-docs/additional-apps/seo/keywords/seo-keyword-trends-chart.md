@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO - Grafico delle tendenze delle parole chiave {#seo-keyword-trends-chart}
 
-È importante monitorare la tendenza dei [SERP Rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) nel tempo. Controllare questo grafico per monitorare l&#39;avanzamento.
+È importante monitorare l&#39;andamento della parola chiave [SERP Ranks](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) nel tempo. Controllare questo grafico per monitorare l&#39;avanzamento.
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Vedete? Mostra il tuo [SERP Rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) per gli ultimi 30 giorni:
+   Vedete? Mostra il tuo [SERP Rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) negli ultimi 30 giorni:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
