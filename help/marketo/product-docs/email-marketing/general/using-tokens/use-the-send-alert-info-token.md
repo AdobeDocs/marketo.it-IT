@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Utilizzare il token Invia informazioni avviso {#use-the-send-alert-info-token-sp-send-alert-info}
+# Utilizzare il token di invio delle informazioni di avviso {#use-the-send-alert-info-token-sp-send-alert-info}
 
-Il `{{SP_Send_Alert_Info}}` token è un token speciale da utilizzare per la creazione di e-mail di avviso per il team di vendita.
+Il token `{{SP_Send_Alert_Info}}` è un token speciale da utilizzare per la creazione di e-mail di avviso per il team di vendita.
 
 >[!TIP]
 >
->Questo token funziona solo come previsto quando si invia l’e-mail che lo contiene con il passaggio del flusso di [invio avvisi](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) . Non funzionerà se utilizzato in un passaggio Invia flusso e-mail.
+>Questo token funziona solo come previsto quando si invia l&#39;e-mail che lo contiene con il passaggio di flusso [Invia avviso](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Non funzionerà se utilizzato in un passaggio Invia flusso e-mail.
 
 Esempio di avviso:   ![](assets/image2014-9-25-15-3a17-3a58.png)
 
@@ -38,7 +38,7 @@ Le seguenti informazioni sono incluse nell&#39; `{{SP_Send_Alert_Info}}`:
 
 ## Aggiungere il token SP_Send_Alert_Info a un messaggio e-mail {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Selezionate l’e-mail e fate clic su **Modifica bozza**.
+1. Selezionate l&#39;e-mail e fate clic su **Modifica bozza**.
 
    ![](assets/one-3.png)
 
@@ -46,15 +46,15 @@ Le seguenti informazioni sono incluse nell&#39; `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Posizionare il cursore nel punto in cui si desidera inserire il token, quindi fare clic sul pulsante **Inserisci token** .
+1. Posizionare il cursore nel punto in cui si desidera inserire il token, quindi fare clic sul pulsante **Inserisci token**.
 
    ![](assets/three-3.png)
 
-1. Individuate e selezionate il **`{{SP_Send_Alert_Info}}`** token e fate clic su **Inserisci**.
+1. Trovare e selezionare il token **`{{SP_Send_Alert_Info}}`** e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
