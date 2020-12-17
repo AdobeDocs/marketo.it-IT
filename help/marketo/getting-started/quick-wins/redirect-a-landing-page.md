@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Reindirizza una pagina di destinazione {#redirect-a-landing-page}
 
-## Missione: Reindirizzare una pagina di destinazione a un’altra pagina Web {#mission-redirect-a-landing-page-to-a-different-web-page}
+## Missione: Reindirizzare una pagina di destinazione a un&#39;altra pagina Web {#mission-redirect-a-landing-page-to-a-different-web-page}
 
 >[!NOTE]
 >
@@ -28,33 +28,33 @@ ht-degree: 0%
 
 ## Passaggio 1: Avvia una nuova regola di reindirizzamento {#step-start-a-new-redirect-rule}
 
-1. Andate all&#39;area **Admin** .
+1. Andate all&#39;area **Admin**.
 
    ![](assets/admin.png)
 
-1. Vai a Pagine **di** destinazione.
+1. Vai a **Pagine di destinazione**.
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
-1. Fare clic sulla scheda **Regole** , quindi su **Nuova** regola e **Nuova regola** di reindirizzamento.
+1. Fare clic sulla scheda **Regole**, quindi fare clic su **Nuovo** e **Nuova regola di reindirizzamento**.
 
    ![](assets/image2014-9-24-13-3a28-3a59.png)
 
 ## Passaggio 2: Definire la regola di reindirizzamento {#step-define-the-redirect-rule}
 
-1. Fai clic sul primo elenco a discesa URL **** originale e seleziona il CNAME Marketo.
+1. Fare clic sul primo **URL originale** a discesa e selezionare il CNAME Marketo.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >Ricorda, puoi reindirizzare solo le pagine di destinazione che iniziano con il tuo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)Marketo.
+   >Ricorda, è possibile reindirizzare solo le pagine di destinazione che iniziano con il Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Fate clic sul secondo elenco a discesa URL **** originale e selezionate la pagina di destinazione da reindirizzare.
+1. Fare clic sul secondo **URL originale** a discesa e selezionare la pagina di destinazione da reindirizzare.
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. Per URL **di** reindirizzamento, selezionate la pagina a cui desiderate reindirizzare e fate clic su **Crea**.
+1. Per **Redirect URL** selezionate la pagina a cui desiderate reindirizzare e fate clic su **Create**.
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
