@@ -19,11 +19,11 @@ In qualità di Amministratore, potete esportare le risorse correlate di un campo
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one.png)
 
-1. Fate clic su Gestione **** campi.
+1. Fare clic su **Gestione dei campi**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +31,7 @@ In qualità di Amministratore, potete esportare le risorse correlate di un campo
 
    ![](assets/three.png)
 
-1. Fare clic sul menu a discesa Azioni **** campo e selezionare **Esporta utilizzato da**.
+1. Fare clic sul menu a discesa **Azioni campo** e selezionare **Esporta utilizzata da**.
 
    ![](assets/four.png)
 
