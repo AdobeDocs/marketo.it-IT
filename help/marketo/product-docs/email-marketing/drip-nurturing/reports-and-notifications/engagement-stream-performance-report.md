@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vuoi sapere come si comportano i tuoi contenuti di coinvolgimento? Prova il rapporto sulle prestazioni del flusso di coinvolgimento.
 
-## Creare il rapporto {#create-the-report}
+## Creare il report {#create-the-report}
 
-1. Trova e seleziona il programma di coinvolgimento, quindi in **Nuovo** fai clic su **Nuova risorsa** locale.
+1. Trova e seleziona il programma di coinvolgimento, quindi in **New** fai clic su **New Local Asset** (Nuova risorsa locale).
 
    ![](assets/localassetnutring.jpg)
 
-1. Selezionare **Rapporto**.
+1. Selezionare **Report**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -32,7 +32,7 @@ Vuoi sapere come si comportano i tuoi contenuti di coinvolgimento? Prova il rapp
    Selezionate Prestazioni flusso di coinvolgimento come tipo di rapporto.
    ![](assets/engagementreportchoose.png)
 
-1. Denominate il rapporto e fate clic su **Crea**.
+1. Assegnate un nome al rapporto e fate clic su **Crea**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,24 +44,24 @@ Vuoi sapere come si comportano i tuoi contenuti di coinvolgimento? Prova il rapp
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Nella scheda **Configurazione** , fate doppio clic sul filtro E-mail **del programma di** coinvolgimento.
+1. Nella scheda **Setup**, fare doppio clic sul filtro **Email del programma di coinvolgimento**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Selezionate i messaggi e-mail sui quali desiderate creare un rapporto e fate clic su **Applica**.
+1. Selezionare le e-mail su cui si desidera eseguire il rapporto e fare clic su **Applica**.
 
    ![](assets/engagementfilter.jpg)
 
-## Esegui rapporto {#run-report}
+## Esegui report {#run-report}
 
-1. Per eseguire il rapporto, fai clic sulla scheda **Rapporto** .
+1. Per eseguire il rapporto, fare clic sulla scheda **Report**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
    >
-   >Anche se non illustrato, il criterio di coinvolgimento è una colonna in questo rapporto. Per informazioni dettagliate su [cosa si tratta, consultate Valutazione](understanding-the-engagement-score.md) di coinvolgimento.
+   >Anche se non illustrato, il criterio di coinvolgimento è una colonna in questo rapporto. Per informazioni dettagliate, vedere [Il punteggio di coinvolgimento](understanding-the-engagement-score.md).
 
    Ottimo lavoro! Il rapporto è raggruppato per programma di coinvolgimento.
 
