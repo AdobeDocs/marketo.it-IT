@@ -19,9 +19,9 @@ Le seguenti funzionalità sono incluse nella release di gennaio/febbraio. Per in
 >
 >**Tubo profondo**
 >
->Per altre versioni, consulta la sezione approfondita [Note](http://docs.marketo.com/display/docs/release+notes) sulla versione.
+>Per altre versioni, vedere le [Note sulla versione](http://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
-## Contenuti dinamici avanzati {#advanced-dynamic-content}
+## Contenuto dinamico avanzato {#advanced-dynamic-content}
 
 *Disponibile per versioni Pro ed Enterprise*
 
@@ -29,7 +29,7 @@ Grazie a contenuti dinamici avanzati, puoi creare comunicazioni e pagine di dest
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentazione  {#segmentation}
+## Segmentazione {#segmentation}
 
 *Disponibile per versioni Pro ed Enterprise*
 
@@ -86,7 +86,7 @@ La gestione semplificata dei programmi migliora l&#39;usabilità con l&#39;elimi
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## Annulla sottoscrizione al rapporto di iscrizione {#unsubscribe-from-subscription-report}
+## Annulla sottoscrizione al report di iscrizione {#unsubscribe-from-subscription-report}
 
 Ora puoi annullare l’iscrizione direttamente dal report!
 
