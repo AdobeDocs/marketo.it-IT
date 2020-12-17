@@ -23,11 +23,11 @@ ht-degree: 0%
 
 
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/ma-1.png)
 
-1. Selezionate l’elenco o l’elenco avanzato che contiene tutte le persone da eliminare e passate alla scheda **Persone** .
+1. Selezionare l&#39;elenco o l&#39;elenco smart che contiene tutte le persone da eliminare e passare alla scheda **Persone**.
 
    ![](assets/two-1.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
    >
    >Quando si elimina una persona, non solo la si sta rimuovendo dall&#39;elenco, ma sarà completamente rimosso dal database.
 
-1. Fate clic su **Seleziona** **tutto**. Potete anche scegliere alcuni record utilizzando Ctrl/Comando e facendo clic.
+1. Fare clic su **Seleziona** **Tutto**. Potete anche scegliere alcuni record utilizzando Ctrl/Comando e facendo clic.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona** **tutto** verranno selezionate tutte le persone in tutte le pagine.
+   >Se i risultati si estendono su più pagine, facendo clic su **Select** **All** tutte le persone verranno selezionate su tutte le pagine.
 
-1. Per rimuovere completamente le persone da Marketo, fare clic su **Elimina** **persona**.
+1. Per rimuovere completamente le persone da Marketo, fare clic su **Elimina** **Persona**.
 
    ![](assets/four-1.png)
 
-1. Imposta **Rimuovi** **da** **CRM** su **true** se vuoi eliminare anche i record dal CRM.
+1. Impostare **Remove** **da** **CRM** su **true** se si desidera eliminare anche i record dal CRM.
 
    ![](assets/five.png)
 
@@ -59,17 +59,17 @@ ht-degree: 0%
    >
    >Se il tuo Marketo non è legato al tuo CRM, l&#39;opzione è disattivata come nello screenshot.
 
-1. Fate clic su **Esegui** **ora**.
+1. Fare clic su **Esegui** **Ora**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Se state cancellando più di 50 persone vedrete questo. Digitare il numero di persone da eliminare, selezionare la casella **Impossibile annullare** , quindi fare clic su **Elimina**.
+1. Se state cancellando più di 50 persone vedrete questo. Digitare il numero di persone da eliminare, selezionare la casella **Impossibile annullare**, quindi fare clic su **Elimina**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Per visualizzare i risultati dell’eliminazione di massa, fate clic su **Visualizza risultati** nella casella a comparsa Azione flusso singolo nell’angolo superiore destro dello schermo. I tempi di eliminazione possono variare notevolmente, a seconda di diversi fattori.
+   >Per visualizzare i risultati dell&#39;eliminazione di massa, fate clic su **Visualizza risultati** nella casella a comparsa Azione flusso singolo nell&#39;angolo superiore destro dello schermo. I tempi di eliminazione possono variare notevolmente, a seconda di diversi fattori.
 
    Questa è una grande caratteristica, basta essere molto attenti quando si utilizza!
 
