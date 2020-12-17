@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Tubo profondo**
 >
->Per altre versioni, consulta la sezione approfondita [Note](http://docs.marketo.com/display/docs/release+notes) sulla versione.
+>Per altre versioni, vedere le [Note sulla versione](http://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
 ## Riprogettazione report prestazioni e-mail {#email-performance-report-redesign}
 
@@ -57,9 +57,9 @@ Figura 4. Check-in evento: Selezionate l’evento!
 
 Figura 5. Controllali
 
-## URL di conferma webinar avanzato {#enhanced-webinar-confirmation-url}
+## URL di conferma webinar migliorato {#enhanced-webinar-confirmation-url}
 
-Ora disponibile per ON24 e  Adobe Connect! Includete un collegamento univoco nell&#39;e-mail di conferma per ogni partecipante registrato utilizzando il nuovo `{{member.webinar URL}}` token.  miglioramenti di Adobe Connect includono anche la possibilità di attivare/disattivare l&#39;e-mail delle informazioni sull&#39;account  Adobe che include l&#39;ID di accesso e la password per l&#39;utente.
+Ora disponibile per ON24 e  Adobe Connect! Includete un collegamento univoco nell&#39;e-mail di conferma per ogni partecipante registrato utilizzando il nuovo token `{{member.webinar URL}}`.  miglioramenti di Adobe Connect includono anche la possibilità di attivare/disattivare l&#39;e-mail delle informazioni sull&#39;account  Adobe che include l&#39;ID di accesso e la password per l&#39;utente.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -85,7 +85,7 @@ Figura 8. Configurazione della precompilazione del modulo in Amministratore
 
 Figura 9. Modifica impostazione di precompilazione del modulo in una pagina di destinazione
 
-## Marketo Treasure Chest {#marketo-treasure-chest}
+## Torace del tesoro Marketo {#marketo-treasure-chest}
 
 Accedete alle funzioni sperimentali sviluppate da Marketo Engineers per migliorare l&#39;esperienza utente. Questa versione include l’opzione Annulla e-mail e la possibilità di inserire commenti e collaborare con altri utenti sulle pagine di destinazione.
 
@@ -101,7 +101,7 @@ Sincronizza account, contatti e lead tra Marketo e Microsoft Dynamics CRM Online
 
 Figura 11. Configurazione di Microsoft Dynamics
 
-## Miglioramenti a Marketing Sales Insight {#marketo-sales-insight-enhancements}
+## Miglioramenti di Marketing Sales Insight {#marketo-sales-insight-enhancements}
 
 **Opzioni Annulla sottoscrizione piè di pagina**
 
@@ -111,7 +111,7 @@ Configura quando e se visualizzare il piè di pagina per l’annullamento della 
 
 Figura 12. Impostazioni di Sales Insight in Amministratore
 
-## Cartelle per i modelli e-mail di vendita {#folders-for-sales-email-templates}
+## Cartelle per i modelli di e-mail di vendita {#folders-for-sales-email-templates}
 
 Ora puoi organizzare i modelli e-mail condivisi con Marketing Sales Insight in cartelle specifiche, semplificando la ricerca dell&#39;e-mail corretta da parte dei rappresentanti commerciali.
 
@@ -139,7 +139,7 @@ Espandete le pagine visualizzate da un lead anonimo dalla visualizzazione Anonym
 
 Figura 15. Consultate Attività Web anonime
 
-## Lead e contatto migliorati {#enhanced-lead-and-contact-subscribe}
+## Sottoscrivi lead e contatti migliorati {#enhanced-lead-and-contact-subscribe}
 
 Seguite un lead o contattate in qualsiasi momento utilizzando il nuovo pulsante Iscrizione nella pagina dei dettagli del record.
 
