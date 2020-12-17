@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Annullamento del test A/B {#cancel-the-a-b-test}
+# Annullare il test A/B {#cancel-the-a-b-test}
 
-Se hai [aggiunto un test](add-an-a-b-test.md) A/B al programma e-mail e hai deciso di non volerlo più, il test è facilmente annullato. Ecco come.
+Se hai [aggiunto un test A/B](add-an-a-b-test.md) al tuo programma e-mail e hai deciso di non volerlo più, è facilmente annullabile. Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
 1. Selezionate il programma e-mail.
 1. ![](assets/selectemailprogram-1.jpg)
 
-1. Nella sezione **E-mail** , fate clic su **Rimuovi test** A/B.
+1. Nella sezione **Email** fare clic su **Rimuovi test A/B**.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
@@ -31,6 +31,6 @@ Se hai [aggiunto un test](add-an-a-b-test.md) A/B al programma e-mail e hai deci
    >**Promemoria**
    >
    >
-   >Il programma e-mail deve essere non approvato prima di poter rimuovere il test A/B. Per informazioni dettagliate, consultate [Approvare/Annullare l’approvazione di un programma](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) e-mail.
+   >Il programma e-mail deve essere non approvato prima di poter rimuovere il test A/B. Per ulteriori informazioni, vedere [Approvare/Annullare l&#39;approvazione di un programma e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md).
 
 Vedete? Facile!
