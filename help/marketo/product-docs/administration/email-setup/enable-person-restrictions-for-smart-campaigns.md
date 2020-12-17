@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abilita limitazioni di persona per le campagne intelligenti {#enable-person-restrictions-for-smart-campaigns}
+# Attiva limitazioni persona per campagne intelligenti {#enable-person-restrictions-for-smart-campaigns}
 
 In Marketo è disponibile una funzione che consente di limitare il numero ***massimo ***di persone che possono essere qualificate per una campagna intelligente. In questo modo si evita di inviare accidentalmente l&#39;intero database.
 
@@ -23,7 +23,7 @@ In Marketo è disponibile una funzione che consente di limitare il numero ***mas
 >
 >Questo vale solo per campagne batch e programmi e-mail.
 
-1. Fate clic su **Admin **e quindi su **Smart Campaign**.
+1. Fare clic su **Admin **e quindi su **Smart Campaign**.
 
    ![](assets/image2014-9-18-15-3a58-3a29.png)
 
@@ -48,7 +48,7 @@ In Marketo è disponibile una funzione che consente di limitare il numero ***mas
    >[!CAUTION]
    >
    >
-   >Questo limite viene applicato a tutte le campagne intelligenti, ma può essere ignorato a livello di campagna. Scoprite come [ignorare le restrizioni per le persone in una campagna](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)intelligente.
+   >Questo limite viene applicato a tutte le campagne intelligenti, ma può essere ignorato a livello di campagna. Scoprite come [ignorare le limitazioni relative alle persone in una campagna intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 Bingo! Hai appena acceso l&#39;interruttore di sicurezza. Buona idea, giusto?
 
