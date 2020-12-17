@@ -16,15 +16,15 @@ ht-degree: 0%
 
 Se hai pianificato un&#39;esecuzione per una delle campagne batch e desideri annullarla, ecco come.
 
-1. Selezionate la campagna e passate alla **[!UICONTROL Schedule]** scheda.
+1. Selezionate la campagna e passate alla scheda **[!UICONTROL Schedule]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Fate clic **[!UICONTROL Scheduled Runs]**.
+1. Fare clic su **[!UICONTROL Scheduled Runs]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Trova l&#39;esecuzione pianificata che vuoi annullare e fai clic sull&#39; **[!UICONTROL X]** estrema destra.
+1. Individuare l&#39;esecuzione pianificata che si desidera annullare e fare clic su **[!UICONTROL X]** all&#39;estrema destra.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 
