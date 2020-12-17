@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Note sulla versione: Gennaio 2013 {#release-notes-january}
 
-La versione di gennaio espande la nostra offerta social con Offerte **di riferimento**. Inoltre, gli utenti di gestione dei lead Marketo possono impostare le proprie preferenze per il fuso orario, la lingua e le impostazioni internazionali. Le funzioni contrassegnate con un * sono disponibili solo in Select Edition.
+La versione di gennaio amplia la nostra offerta social con **Offerte di riferimento**. Inoltre, gli utenti di gestione dei lead Marketo possono impostare le proprie preferenze per il fuso orario, la lingua e le impostazioni internazionali. Le funzioni contrassegnate con un * sono disponibili solo in Select Edition.
 
-## Offerte Di Riferimento {#referral-offers}
+## Offerte di riferimento {#referral-offers}
 
-Un&#39;offerta **di riferimento** offre ai lead un incentivo a fare riferimento ai loro amici. Crea obiettivi e premi per i riferimenti di successo. Potete utilizzarlo sulle pagine di destinazione, sul sito Web e persino su Facebook.
+Un **Offerta di riferimento** offre ai lead un incentivo a rinviare i loro amici. Crea obiettivi e premi per i riferimenti di successo. Potete utilizzarlo sulle pagine di destinazione, sul sito Web e persino su Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -29,7 +29,7 @@ Puoi cambiare il fuso orario predefinito per il tuo account Marketo personale. A
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Selezionare la lingua di gestione del lead marketing {#select-your-marketo-lead-management-language}
+## Selezionare la lingua di gestione dei lead di marketing {#select-your-marketo-lead-management-language}
 
 È possibile modificare la lingua predefinita per l&#39;account utente Marketo. Anche se il valore predefinito per l’iscrizione è in inglese, potete modificarlo in tedesco o francese per uso personale.
 
@@ -57,7 +57,7 @@ I nomi di visualizzazione dei campi possono visualizzare il testo in lingue dive
 
 ![](assets/image2014-9-22-15-3a22-3a56.png)
 
-## Modifica dei dati del programma {#change-program-data}
+## Modifica dati programma {#change-program-data}
 
 Il passaggio Modifica flusso dati programma consente di modificare manualmente lo stato di Successo e la Data di Successo di un membro del programma attraverso una campagna. È possibile utilizzare questo passaggio di flusso per correggere un errore o per modificare manualmente un membro che potrebbe non aver partecipato al programma come previsto.
 
