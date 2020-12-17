@@ -29,23 +29,23 @@ Assicurati la coerenza di messaggi e contenuti impedendo le modifiche apportate 
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
-## Miglioramenti di ABM {#abm-enhancements}
+## Miglioramenti ABM {#abm-enhancements}
 
 **Origine dati per ricerca società giapponese**
 
 Fate corrispondere le persone ai nomi delle società giapponesi nella lingua locale.
 
-** Integrazione [](https://docs.marketo.com/x/pKmt)ABM e LeanData**
+** [Integrazione ABM e LeanData](https://docs.marketo.com/x/pKmt)**
 
 L&#39;integrazione LeanData ora consente la corrispondenza lead-to-account in Marketo. Mantieni allineati marketing e vendite avendo gli stessi lead associati agli account all&#39;interno dei sistemi di vendita e marketing dei record. Le opzioni più flessibili forniscono alle Operazioni di marketing e di vendita maggiore controllo sulle regole di corrispondenza lead-to-account, in modo che possano raggiungere il livello di precisione desiderato.
 
 ## Miglioramenti della personalizzazione Web {#web-personalization-enhancements}
 
-** Miglioramenti nell&#39;anteprima delle [campagne](https://docs.marketo.com/x/fQGa)**
+** [Miglioramenti nell&#39;anteprima delle campagne](https://docs.marketo.com/x/fQGa)**
 
-I professionisti del marketing possono ora assicurarsi che le campagne Web abbiano un aspetto ottimale su qualsiasi dispositivo *prima* di avviarle. Grazie a questi miglioramenti, potrai vedere come verranno eseguite le campagne Web su computer desktop, dispositivi mobili e tablet. Il nuovo plug-in per Chrome offre anche anteprime più coerenti e precise.
+I professionisti del marketing possono ora garantire che le campagne Web abbiano un aspetto ottimale su qualsiasi dispositivo *prima di* di avviarle. Grazie a questi miglioramenti, potrai vedere come verranno eseguite le campagne Web su computer desktop, dispositivi mobili e tablet. Il nuovo plug-in per Chrome offre anche anteprime più coerenti e precise.
 
-** [Miglioramenti](https://docs.marketo.com/x/KgNI)delle campagne Widget**
+** [Miglioramenti delle campagne widget](https://docs.marketo.com/x/KgNI)**
 
 Sono ora disponibili nuove opzioni per le campagne Widget, tra cui:
 
@@ -55,7 +55,7 @@ Sono ora disponibili nuove opzioni per le campagne Widget, tra cui:
 
 ## Contenuto`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics e suggerimenti](https://docs.marketo.com/x/1BPG)**
+** [Contenuto`<sup>AI </sup>`Analisi e suggerimenti](https://docs.marketo.com/x/1BPG)**
 
 Incrementate il ritorno sul marketing dei contenuti con analisi più approfondite e suggerimenti basati sull&#39;intelligenza artificiale per aumentare il coinvolgimento.** **Le potenti analisi mostrano le prestazioni dei contenuti consigliati, comprese le visualizzazioni popolari, di tendenza e basate sul pubblico. Vedrete anche suggerimenti per contenuti aggiuntivi da includere.
 
