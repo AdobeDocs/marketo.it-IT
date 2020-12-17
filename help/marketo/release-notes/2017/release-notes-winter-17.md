@@ -39,7 +39,7 @@ Esportate tutti i dettagli e le analisi della campagna Web in formato CSV. Potet
 
 ## [Localizzazione](http://docs.marketo.com/display/docs/web+personalization) {#localization}
 
-Le app Web Personalization (Personalizzazione Web), Predictive Content (Contenuto predittivo) e Email Insights sono ora disponibili in giapponese, tedesco e spagnolo. Per visualizzare il contenuto in queste lingue, [selezionate la lingua e le impostazioni internazionali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) .
+Le app Web Personalization (Personalizzazione Web), Predictive Content (Contenuto predittivo) e Email Insights sono ora disponibili in giapponese, tedesco e spagnolo. [selezionate la lingua e le impostazioni internazionali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) per visualizzare il contenuto in queste lingue.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -57,7 +57,7 @@ Utilizzate Account o Elenco account denominati come dimensioni in Approfondiment
 
 ![](assets/ei.png)
 
-## Miglioramenti Predictive Content {#predictive-content-enhancements}
+## Miglioramenti predittivi dei contenuti {#predictive-content-enhancements}
 
 **[Filtra per origine abilitata](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
