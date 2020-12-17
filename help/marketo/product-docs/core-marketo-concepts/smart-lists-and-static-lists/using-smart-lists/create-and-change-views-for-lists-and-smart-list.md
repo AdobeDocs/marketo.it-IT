@@ -17,7 +17,7 @@ Un elenco avanzato visualizza un set predefinito di colonne. Sapevate che poteva
 
 ## Creare una vista {#create-a-view}
 
-1. Passate a un elenco o a un elenco avanzato, fate clic sulla scheda **Persone** e fate clic su **Crea** **vista** nel menu a discesa **Visualizza** .
+1. Passate a un elenco o a un elenco avanzato, fate clic sulla scheda **Persone**, quindi fate clic su **Crea** **Visualizza** nel menu a discesa **Visualizza**.
 1. ![](assets/smartlist-createview.png)
 
 1. Denominate la visualizzazione e individuate la colonna da aggiungere o rimuovere.
@@ -30,11 +30,11 @@ Un elenco avanzato visualizza un set predefinito di colonne. Sapevate che poteva
 
 >[!TIP]
 >
->Per eseguire rapidamente la ricerca, utilizzare la casella **Trova** .
+>Per eseguire rapidamente la ricerca, utilizzare la casella **Trova**.
 
-## Cambiare le visualizzazioni {#switch-views}
+## Visualizzazioni switch {#switch-views}
 
-1. Fare clic sul menu a discesa **Visualizza** , quindi selezionare la visualizzazione desiderata. Se necessario, passate da una vista all’altra.
+1. Fare clic sul menu a discesa **Visualizza**, quindi selezionare la visualizzazione desiderata. Se necessario, passate da una vista all’altra.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -44,11 +44,11 @@ Un elenco avanzato visualizza un set predefinito di colonne. Sapevate che poteva
 
 ## Modifica di una vista {#edit-a-view}
 
-1. Accertatevi che la visualizzazione da modificare sia selezionata nell’elenco a discesa **Visualizza** .
+1. Accertatevi che la vista da modificare sia selezionata nel menu a discesa **View**.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Fate clic sull’opzione **Modifica** .
+1. Fare clic sull&#39;opzione **Modifica**.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -60,11 +60,11 @@ Un elenco avanzato visualizza un set predefinito di colonne. Sapevate che poteva
 
 ## Eliminare una vista {#delete-a-view}
 
-1. Selezionate l’opzione **Modifica** per la visualizzazione da eliminare dall’elenco a discesa **Visualizza** .
+1. Selezionare l&#39;opzione **Modifica** per la visualizzazione da eliminare dal menu a discesa **Visualizza**.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Fate clic su **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
