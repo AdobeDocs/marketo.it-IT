@@ -16,14 +16,14 @@ Potete assegnare etichette a qualsiasi risorsa in [!UICONTROL Marketing Activiti
 
 ## Aggiungi etichette
 
-Per aggiungere nuove etichette a una risorsa, andate alla [!UICONTROL Details] pagina della risorsa sotto la [!UICONTROL Overview] scheda.
+Per aggiungere nuove etichette a una risorsa, andate alla pagina [!UICONTROL Details] della risorsa nella scheda [!UICONTROL Overview].
 <br> 
 
-Nella [!UICONTROL Labels] sezione fare clic su **[!UICONTROL Add New Labels]**.
+Nella sezione [!UICONTROL Labels], fare clic su **[!UICONTROL Add New Labels]**.
 
 ![Immagine uno](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Se aggiungete un&#39;etichetta che non è stata utilizzata in precedenza, immettete il nome dell&#39;etichetta e fate clic **[!UICONTROL Create New ____]**.
+Se state aggiungendo un&#39;etichetta che non avete usato in precedenza, immettete il nome dell&#39;etichetta e fate clic su **[!UICONTROL Create New ____]**.
 
 ![Immagine due](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Se si aggiunge un&#39;etichetta già creata altrove, digitare per la ricerca e s
 
 ## Rimuovi etichette
 
-Per rimuovere un’etichetta, fate clic su di essa **[!UICONTROL X]**.
+Per rimuovere un&#39;etichetta, fare clic su **[!UICONTROL X]**.
 
 ![Immagine quattro](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
