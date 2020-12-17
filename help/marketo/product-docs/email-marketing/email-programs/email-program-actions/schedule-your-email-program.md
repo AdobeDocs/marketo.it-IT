@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Pianificazione del programma e-mail {#schedule-your-email-program}
+# Programmare il programma e-mail {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Creare un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definire un pubblico con un elenco](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) avanzato o [definire un pubblico importando un elenco](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definire un pubblico con un ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) elenco avanzato  [Definire un pubblico importando un elenco](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Scegliere un&#39;e-mail](choose-an-existing-email.md) esistente o [creare un&#39;e-mail per un programma e-mail](create-an-email-for-an-email-program.md)
+* [Scegliere un ](choose-an-existing-email.md) e-mail esistente o  [creare un&#39;e-mail per un programma e-mail](create-an-email-for-an-email-program.md)
 
 >
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Con il programma e-mail creato, il pubblico definito e l&#39;e-mail selezionato, si desidera indicare al programma *quando* inviare l&#39;e-mail. Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -36,7 +36,7 @@ Con il programma e-mail creato, il pubblico definito e l&#39;e-mail selezionato,
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Nella sezione **Pianificazione** , impostare la data.
+1. Nella sezione **Pianificazione**, impostare la data.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -44,11 +44,11 @@ Con il programma e-mail creato, il pubblico definito e l&#39;e-mail selezionato,
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Potete anche scegliere di utilizzare le funzioni Fuso orario [destinatario](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/o Inizio [](head-start-for-email-programs.md) intestazione.
+1. È inoltre possibile scegliere di utilizzare le funzioni [Destinent Time Zone](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/o [Head Start](head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Quanto era facile? L&#39;unica cosa che rimane è [approvare un programma](approve-unapprove-an-email-program.md) e-mail e si è pronti ad andare.
+   Quanto era facile? L&#39;unica cosa che rimane è [approvare un programma di posta elettronica](approve-unapprove-an-email-program.md) e si è pronti a partire.
 
 >[!NOTE]
 >
