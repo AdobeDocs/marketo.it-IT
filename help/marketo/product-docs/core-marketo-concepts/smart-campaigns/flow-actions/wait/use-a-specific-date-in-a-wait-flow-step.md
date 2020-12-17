@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Utilizzare una data specifica in un passaggio del flusso di attesa {#use-a-specific-date-in-a-wait-flow-step}
+# Utilizzare una data specifica in un passaggio di flusso di attesa {#use-a-specific-date-in-a-wait-flow-step}
 
-Potete utilizzare il passaggio **Attendere** per mettere in pausa il viaggio di una persona attraverso una campagna intelligente fino a una data particolare.
+È possibile utilizzare il passaggio di scorrimento **Wait** per mettere in pausa il viaggio di una persona attraverso una campagna intelligente fino a una data specifica.
 
-1. Nella scheda **Flusso** campagna intelligente, trascina il passaggio del flusso di **attesa** .
+1. Nella scheda **Flusso** della campagna smart, trascina il passaggio **Aspetta**.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
