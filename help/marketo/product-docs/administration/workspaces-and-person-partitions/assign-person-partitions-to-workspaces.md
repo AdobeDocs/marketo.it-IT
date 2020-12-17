@@ -25,13 +25,13 @@ Come modificare le assegnazioni di partizione/area di lavoro personali:
 
 >[!CAUTION]
 >
->Le aree di lavoro e le partizioni delle persone possono essere complesse. Contatta [Markeper assistenza](http://support.marketo.com/) sulla loro configurazione.
+>Le aree di lavoro e le partizioni delle persone possono essere complesse. Contattare [Marketo supporto](http://support.marketo.com/) per assistenza nella configurazione.
 
 1. In Admin, fai clic su Workspaces e partizioni.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. Selezionate l’area di lavoro e fate clic su **Modifica area di lavoro**.
+1. Selezionate l&#39;area di lavoro e fate clic su **Modifica area di lavoro**.
 
    ![](assets/two-3.png)
 
@@ -43,9 +43,9 @@ Come modificare le assegnazioni di partizione/area di lavoro personali:
 
    ![](assets/three-3.png)
 
-   Le partizioni primarie sono le partizioni predefinite in cui verranno inseriti tutti i popoli. Utilizzare passaggi [di](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) flusso o regole [di](assigning-person-partitions-with-assignment-rules.md) assegnazione per spostare le persone.
+   Le partizioni primarie sono le partizioni predefinite in cui verranno inseriti tutti i popoli. Utilizzare [passaggi di flusso](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [regole di assegnazione](assigning-person-partitions-with-assignment-rules.md) per spostare le persone.
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/four-3.png)
 
@@ -59,5 +59,5 @@ Come modificare le assegnazioni di partizione/area di lavoro personali:
 >
 >**Tubo profondo**
 >
->[Aree di lavoro e partizioni](understanding-workspaces-and-person-partitions.md)di persone.
+>[Aree di lavoro e partizioni](understanding-workspaces-and-person-partitions.md) di persone.
 
