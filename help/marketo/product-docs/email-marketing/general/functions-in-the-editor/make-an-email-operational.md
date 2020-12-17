@@ -29,11 +29,11 @@ I messaggi e-mail operativi ignorano gli stati Non sottoscritti e Sospesa market
 >
 >È consigliabile utilizzare solo le e-mail operative per le e-mail critiche e per le risposte automatiche. Non sono destinati alle e-mail di marketing.
 
-1. Una volta aperto l’editor, fate clic su Impostazioni **e-** mail.
+1. Una volta aperto l&#39;editor, fare clic su **Impostazioni e-mail**.
 
    ![](assets/two-1.png)
 
-1. Selezionate E-mail **** operativa e fate clic su **Salva**.
+1. Selezionare **E-mail operativa** e fare clic su **Salva**.
 
    ![](assets/three.png)
 
@@ -41,4 +41,4 @@ I messaggi e-mail operativi ignorano gli stati Non sottoscritti e Sospesa market
 >
 >Le e-mail operative non sono state progettate per funzionare con i programmi di coinvolgimento. Pertanto, un programma di coinvolgimento ignorerà lo stato operativo di un&#39;e-mail. Tenetelo presente quando lavorate con loro.
 
-Non dimenticare di approvare questo messaggio e-mail per rendere effettive le modifiche. Scoprite come [approvare un messaggio e-mail](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Non dimenticare di approvare questo messaggio e-mail per rendere effettive le modifiche. Scoprite come [approvare un&#39;e-mail](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
