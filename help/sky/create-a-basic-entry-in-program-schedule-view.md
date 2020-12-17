@@ -16,11 +16,11 @@ ht-degree: 0%
 
 È possibile creare nuove voci di base direttamente dalla vista programmazione del programma.
 
-1. Selezionare il programma nella struttura ad albero, quindi passare alla **[!UICONTROL Schedule]** scheda sotto **[!UICONTROL Overview]**.
+1. Selezionare il programma nella struttura ad albero, quindi passare alla scheda **[!UICONTROL Schedule]** in **[!UICONTROL Overview]**.
 
    ![Immagine uno](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. Passa il cursore del mouse sul giorno a cui si desidera aggiungere una voce, quindi fai clic **[!UICONTROL Add]**.
+1. Passa il cursore del mouse sul giorno a cui si desidera aggiungere una voce, quindi fai clic su **[!UICONTROL Add]**.
 
    ![Immagine due](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >Potete inoltre seguire passaggi simili per creare una voce di base dalle viste Giorno, Settimana o Ordine del giorno.
 
-1. Inserite un nome per la nuova voce di base, quindi passate **[!UICONTROL Type]** a [!UICONTROL Basic Entry] , se necessario. Potete inoltre modificare la voce **[!UICONTROL Start & End Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se desiderate rimanere nel calendario dopo la creazione della voce. Fate clic **[!UICONTROL Save]**.
+1. Inserite un nome per la nuova voce di base, quindi cambiate **[!UICONTROL Type]** in [!UICONTROL Basic Entry] se necessario. È inoltre possibile modificare il **[!UICONTROL Start & End Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se si desidera rimanere nel calendario dopo la creazione della voce. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine tre](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 **Articoli correlati**
 
-Potete anche creare una campagna [dinamica](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) batch o un programma [e-](/help/sky/create-an-email-program-in-program-schedule-view.md) mail dalla vista Pianificazione.
+È inoltre possibile creare una [campagna smart batch](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) o un [programma e-mail](/help/sky/create-an-email-program-in-program-schedule-view.md) dalla vista di pianificazione.
