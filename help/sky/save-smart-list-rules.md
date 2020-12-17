@@ -22,7 +22,7 @@ Salvare le regole di elenchi intelligenti è un ottimo modo per risparmiare temp
 
    ![Immagine uno](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Fate clic **[!UICONTROL Smart List]**.
+1. Fare clic su **[!UICONTROL Smart List]**.
 
    ![Immagine due](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,7 +32,7 @@ Salvare le regole di elenchi intelligenti è un ottimo modo per risparmiare temp
 
    ![Immagine quattro](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Dopo aver aggiunto filtri/attivatori, fai clic sul **[!UICONTROL Smart Campaign Actions]** menu a discesa e seleziona **[!UICONTROL Save Smart List Rule]**.
+1. Dopo aver aggiunto filtri/attivatori, fai clic sul menu a discesa **[!UICONTROL Smart Campaign Actions]** e seleziona **[!UICONTROL Save Smart List Rule]**.
 
    ![Immagine cinque](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -48,11 +48,11 @@ Ed è tutto! La prossima volta che create una campagna intelligente, avrete acce
 
    ![Immagine sette](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Fate clic **[!UICONTROL Smart List]**.
+1. Fare clic su **[!UICONTROL Smart List]**.
 
    ![Immagine otto](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Fare clic sul **[!UICONTROL Saved Rule]** menu a discesa.
+1. Fare clic sul menu a discesa **[!UICONTROL Saved Rule]**.
 
    ![Image Nine](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
