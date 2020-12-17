@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Anteprima di un messaggio e-mail con contenuto dinamico {#preview-an-email-with-dynamic-content}
+# Visualizzare in anteprima un&#39;e-mail con contenuto dinamico {#preview-an-email-with-dynamic-content}
 
 Visualizzate l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto dinamico per verificarlo.
 
@@ -32,7 +32,7 @@ Visualizzate l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto d
 
 Potete anche visualizzare l&#39;anteprima del contenuto dinamico direttamente nell&#39;editor e-mail.
 
-1. In **Contenuto**, fate clic sulla scheda **Dinamico** .
+1. In **Content**, fare clic sulla scheda **Dynamic**.
 
    ![](assets/five-1.png)
 
