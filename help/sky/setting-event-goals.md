@@ -23,12 +23,12 @@ Dare agli eventi obiettivi specifici e vedere come si svolgono.
 
    ![Immagine uno](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. Assegnate all’evento un nome [!UICONTROL Name], selezionate la [!UICONTROL Destination] cartella e [!UICONTROL Channel].
+1. Assegnate all&#39;evento un [!UICONTROL Name], selezionate la cartella [!UICONTROL Destination] e [!UICONTROL Channel].
 
    ![Immagine due](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Immettete l&#39;obiettivo per [!UICONTROL Registered] e [!UICONTROL Attended], quindi fate clic **[!UICONTROL Create]** ([!UICONTROL Description] e [!UICONTROL Labels] sono facoltativi).
+1. Immettere l&#39;obiettivo per [!UICONTROL Registered] e [!UICONTROL Attended], quindi fare clic su **[!UICONTROL Create]** ([!UICONTROL Description] e [!UICONTROL Labels] sono facoltativi).
 
    ![Immagine uno](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
-Ed è tutto! Controllate lo stato dell&#39;obiettivo dell&#39;evento facendo clic sulla [!UICONTROL Reports] scheda.
+Ed è tutto! Controllate lo stato dell&#39;obiettivo dell&#39;evento facendo clic sulla scheda [!UICONTROL Reports].
