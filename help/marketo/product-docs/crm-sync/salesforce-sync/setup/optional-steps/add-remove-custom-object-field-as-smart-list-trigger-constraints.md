@@ -19,15 +19,15 @@ Marketo fornisce un controllo a granulosità fine sulla sincronizzazione di ogge
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Fate clic su **Admin (Amministratore).**
+1. Fare clic su **Amministratore.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Fai clic su **Admin** , quindi su **Salesforce Objects Sync.**
+1. Fare clic su **Admin**, quindi su **Sincronizzazione oggetti Salesforce.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **Salesforce Objects Sync** (Sincronizzazioneoggetti Salesforce) viene visualizzata nella colonna sinistra.
+1. **Oggetti Salesforce** Sincronizzati nella colonna sinistra.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,19 +35,19 @@ Marketo fornisce un controllo a granulosità fine sulla sincronizzazione di ogge
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Fai clic su **Modifica campi** visibili.
+1. Fare clic su **Modifica campi visibili**.
 
    >[!TIP]
    >
-   >Se il pulsante **Modifica campi** visibili è disattivato, l&#39;oggetto è attualmente utilizzato in un elenco avanzato o in una campagna smart. Rimuovere tutte le associazioni per proseguire.
+   >Se il pulsante **Edit Visible Fields** (Modifica campi visibili) è disattivato, l&#39;oggetto è attualmente in uso in un elenco smart o in una campagna smart. Rimuovere tutte le associazioni per proseguire.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Se la sincronizzazione globale è abilitata, fate clic su **Disattiva sincronizzazione** globale.
+1. Se la sincronizzazione globale è attivata, fate clic su **Disattiva sincronizzazione globale**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Selezionare le caselle accanto ai vincoli filtro/attivatore necessari e fare clic su **Salva**.
+1. Selezionare le caselle accanto ai vincoli di filtro/trigger necessari e fare clic su **Salva**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
