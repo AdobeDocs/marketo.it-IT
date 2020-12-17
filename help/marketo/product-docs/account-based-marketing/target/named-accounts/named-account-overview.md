@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Gli account denominati contengono le persone delle società di destinazione. Il dashboard fornisce i dati correnti di ciascun attributo per tutti gli account denominati.
 
-## Pannello account denominati {#named-accounts-dashboard}
+## Dashboard account denominati {#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -61,7 +61,7 @@ Gli account denominati contengono le persone delle società di destinazione. Il 
   </tr> 
   <tr> 
    <td><strong>Codice SIC</strong></td> 
-   <td><span><strong></strong>Standard <strong></strong>Industrial <strong></strong>Classification - codice a quattro cifre per classificare le industrie<br></span></td> 
+   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - codice a quattro cifre per classificare le industrie<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Entrate</strong></td> 
