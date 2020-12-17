@@ -16,23 +16,23 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definire un pubblico con un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) avanzato o [definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definire un pubblico con un ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) elenco avanzato  [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Dopo aver creato il programma e-mail e definito il pubblico, sarà necessario decidere quale e-mail inviare. Potete [scegliere un&#39;e-mail](choose-an-existing-email.md) esistente o crearne una da zero. Ecco come creare un nuovo messaggio e-mail.
+Dopo aver creato il programma e-mail e definito il pubblico, sarà necessario decidere quale e-mail inviare. Potete [scegliere un&#39;e-mail esistente](choose-an-existing-email.md) oppure crearne una da zero. Ecco come creare un nuovo messaggio e-mail.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/one.png)
 
-1. Selezionate il programma e-mail. Nella sezione **E-mail** , fate clic su **Nuova e-mail**.
+1. Selezionate il programma e-mail. Nella sezione **Email** fare clic su **Nuova e-mail**.
 
    ![](assets/newemaildashboard.png)
 
-1. Immettete un **nome**, selezionate il modello desiderato e fate clic su **Crea**.
+1. Immettete un **Nome**, selezionate il modello desiderato e fate clic su **Crea**.
 
    ![](assets/three.png)
 
@@ -42,13 +42,13 @@ Dopo aver creato il programma e-mail e definito il pubblico, sarà necessario de
 
    >[!NOTE]
    >
-   >Scoprite come [modificare gli elementi in un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
+   >Scoprite come [modificare gli elementi in un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
 
 1. Non dimenticare di approvare la tua e-mail.
 
    ![](assets/five.png)
 
-Fantastico! Ora che abbiamo creato un&#39;e-mail da inviare, [aggiungiamo un test](email-test-a-b-test/add-an-a-b-test.md) A/B o saltiamo direttamente alla [programmazione del programma](schedule-your-email-program.md)e-mail.
+Fantastico! Ora che abbiamo creato un&#39;e-mail che vogliamo inviare, aggiungiamo un test A/B[ o saltiamo direttamente a ](email-test-a-b-test/add-an-a-b-test.md)pianificare il programma e-mail[.](schedule-your-email-program.md)
 
 >[!MORELIKETHIS]
 >
