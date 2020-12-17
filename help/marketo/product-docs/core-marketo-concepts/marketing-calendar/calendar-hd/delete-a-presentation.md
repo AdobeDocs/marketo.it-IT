@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eliminazione di una presentazione {#delete-a-presentation}
+# Eliminare una presentazione {#delete-a-presentation}
 
 A volte puoi avere troppe cose buone. Eliminate vecchie presentazioni per fare spazio a nuove!
 
@@ -23,7 +23,7 @@ A volte puoi avere troppe cose buone. Eliminate vecchie presentazioni per fare s
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Fate clic su **Elimina** per confermare.
+1. Fare clic su **Elimina** per confermare.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
