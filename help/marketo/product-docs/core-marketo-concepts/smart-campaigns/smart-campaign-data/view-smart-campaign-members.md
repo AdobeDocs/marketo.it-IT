@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visualizzare i membri di Smart Campaign {#view-smart-campaign-members}
+# Visualizza membri campagna smart {#view-smart-campaign-members}
 
 Visualizzare le persone che hanno già eseguito il flusso di campagne intelligenti; ad esempio, i membri delle campagne intelligenti.
 
@@ -27,7 +27,7 @@ Visualizzare le persone che hanno già eseguito il flusso di campagne intelligen
 >
 >Potete visualizzare i membri della campagna ovunque vi troviate all&#39;interno di una campagna intelligente.
 
-1. La scheda Membri **della** campagna mostra le persone che hanno già eseguito il flusso di campagne intelligenti.
+1. La scheda **Membri campagna** mostra le persone che hanno già eseguito il flusso di campagne intelligenti.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ Visualizzare le persone che hanno già eseguito il flusso di campagne intelligen
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni sulle operazioni che è possibile eseguire con [gli elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Ulteriori informazioni sulle operazioni che è possibile eseguire con [elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    >[!NOTE]
    >
