@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Come impostare un token di testo da utilizzare nei programmi e nelle cartelle delle campagne.
 
-1. Nella [!UICONTROL My Tokens] scheda del programma o della cartella, trascinate un token di **testo** nel [!UICONTROL Local Tokens] quadro.
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **Text** nel quadro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-text/my-token-text-1.png)
 
-1. Immettete un nome per il nuovo token, quindi aggiungete il testo desiderato. Fate clic **[!UICONTROL Save]**.
+1. Immettete un nome per il nuovo token, quindi aggiungete il testo desiderato. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine due](/help/sky/assets/my-tokens/my-token-text/my-token-text-2.png)
