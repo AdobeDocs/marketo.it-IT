@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abilitare gli URL personalizzati per l&#39;account (Amministrazione) {#enable-personalized-urls-for-your-account-administration}
+# Abilita URL personalizzati per l&#39;account (Amministrazione) {#enable-personalized-urls-for-your-account-administration}
 
 Gli URL personalizzati sono ottimi per le campagne di stampa.
 
@@ -19,19 +19,19 @@ Gli URL personalizzati sono ottimi per le campagne di stampa.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a** Admin** e fai clic su Pagine **di** destinazione.
+1. Vai a** Admin* e fai clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-24-11-3a38-3a51.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. Selezionate la casella **Abilita URL** personalizzati e fate clic su **S****ave**.
+1. Selezionare la casella **Abilita URL personalizzati** e fare clic su **S****ave**.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-Ottimo lavoro! Ora che avete attivato i URL per il vostro account, potete [attivarli per singole pagine](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)di destinazione.
+Ottimo lavoro! Ora che avete attivato i URL per il vostro account, potete [attivarli per singole pagine di destinazione](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
