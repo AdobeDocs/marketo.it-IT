@@ -25,27 +25,27 @@ Marketo gestisce la registrazione e la partecipazione del webinar ReadyTalk.
 >
 >Per questo passaggio è necessaria un&#39;iscrizione esistente a ReadyTalk e diritti di amministrazione. Disponete delle seguenti impostazioni: Numero di accesso, codice di accesso e passcode.
 
-1. Vai ad **Admin** e fai clic su **ReadyTalk**.
+1. Accedete a **Admin** e fate clic su **ReadyTalk**.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Selezionate **Nuovo** , quindi **Nuovo** **Servizio**.
+1. Selezionare **New**, quindi **New** **Service**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Immettere un **nome** visualizzato ****. In **Servizio**, selezionare** ReadyTalk*.
+1. Immettere un **Display** **Name**. In **Service**, selezionare** ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Immettete il numero **di** accesso e **il** codice **** di accesso.
+1. Immettere il numero di accesso **** e **Access** **Code**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
-1. Completate il processo immettendo la **passcode** e fate clic su **Crea**.
+1. Completare il processo immettendo la **Passcode** e facendo clic su **Create**.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. Fenomenale! Il tuo account **ReadyTalk** ora è sincronizzato con Marketo.
+1. Fenomenale! L&#39;account **ReadyTalk** ora è sincronizzato con Marketo.
 
    ![](assets/readytalk.png)
 
