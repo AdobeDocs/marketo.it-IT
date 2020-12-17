@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Dare credito al referente {#give-credit-to-referrer}
+# Crediti al referente {#give-credit-to-referrer}
 
 ## Panoramica {#overview}
 
-Quando eseguite un&#39;offerta [di](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) riferimento o una [ricerca](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)avanzata, potete dare credito al referente utilizzando metodi diversi:
+Quando si esegue un&#39;offerta di riferimento [](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [suddivisioni](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), è possibile dare credito al referente utilizzando metodi diversi:
 
 * Visite con riferimento
 * Sign-Ups di riferimento
 * **Trigger elenco avanzato**
 * Evento JavaScript personalizzato
 
-Se si sceglie di utilizzare l&#39;opzione Attivatore **elenco** avanzato per specificare un obiettivo, sarà necessario utilizzare il passaggio **Assegna credito** **al referente** .   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Se si sceglie di utilizzare l&#39;opzione **Trigger elenco avanzato** per specificare un obiettivo, sarà necessario utilizzare il passaggio di flusso **Assegna credito** **al referente**.   ![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Utilizzo {#usage}
 
@@ -35,6 +35,6 @@ Se si sceglie di utilizzare l&#39;opzione Attivatore **elenco** avanzato per spe
    >**Promemoria**
    >
    >
-   >Accertatevi che l&#39;app per social network sia configurata per l&#39;utilizzo di Smart List Trigger. Per informazioni dettagliate, consultate [Specificare l&#39;obiettivo per l&#39;offerta](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) di riferimento.
+   >Accertatevi che l&#39;app per social network sia configurata per l&#39;utilizzo di Smart List Trigger. Per ulteriori informazioni, vedere [Specificare l&#39;obiettivo per l&#39;offerta di riferimento](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
 Eccellente! Qualsiasi persona elaborata da questo passaggio di flusso ora darà credito al suo referente.
