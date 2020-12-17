@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica ed eliminazione dei campi oggetto personalizzati Marketo {#edit-and-delete-marketo-custom-object-fields}
+# Modifica ed eliminazione di campi oggetto personalizzati Marketo {#edit-and-delete-marketo-custom-object-fields}
 
 ## Modifica di un campo {#edit-a-field}
 
@@ -21,7 +21,7 @@ A volte è necessario modificare un campo non ancora approvato.
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. Nella scheda Campi fare clic su Azioni **** campo e su **Modifica campo**.
+1. Nella scheda Campi fare clic su **Azioni campo** e su **Modifica campo**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
@@ -41,11 +41,11 @@ A volte è necessario modificare un campo non ancora approvato.
 
 Se non è più necessario inserire un campo in un oggetto personalizzato, è possibile eliminarlo.
 
-1. Nella scheda Campi fare clic su Azioni **** campo ed **Elimina campo**.
+1. Nella scheda Campi, fare clic su **Azioni campo** e **Elimina campo**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   Assicurarsi di voler eliminare il campo prima di premere il trigger! Fate clic su **Elimina**.
+   Assicurarsi di voler eliminare il campo prima di premere il trigger! Fare clic su **Elimina**.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
