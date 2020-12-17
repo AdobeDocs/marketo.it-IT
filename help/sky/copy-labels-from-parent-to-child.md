@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Per copiare le etichette da una risorsa padre a una risorsa figlia, andate alla [!UICONTROL Details] pagina della risorsa sotto la [!UICONTROL Overview] scheda.
+Per copiare le etichette da una risorsa padre a una risorsa figlia, andate alla pagina [!UICONTROL Details] della risorsa sotto la scheda [!UICONTROL Overview].
 
-Nella [!UICONTROL Labels] sezione fare clic su **[!UICONTROL Copy Labels From Parent]**.
+Nella sezione [!UICONTROL Labels], fare clic su **[!UICONTROL Copy Labels From Parent]**.
 
 ![Immagine uno](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
