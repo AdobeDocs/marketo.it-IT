@@ -19,17 +19,23 @@ In primo luogo, è necessario apprendere le nozioni di base con questo comodo gl
 
 ## Glossario SEO {#seo-glossary}
 
-**Ottimizzazione del motore di ricerca (SEO)** Un mix di strategie e tecniche utilizzate per aumentare il traffico del sito ottenendo un posizionamento di alto livello nelle pagine dei risultati del motore di ricerca (SERP).
+**Ottimizzazione del motore di ricerca (SEO)**
+Un mix di strategie e tecniche utilizzate per aumentare il traffico del sito ottenendo un posizionamento di alto livello nelle pagine dei risultati del motore di ricerca (SERP).
 
-**Parola chiave** Una parola chiave è la parola o la frase che la gente digita in motori di ricerca come Google, Yahoo o Bing.
+**Parola**
+chiaveUna parola chiave è la parola o la frase che la gente digita in motori di ricerca come Google, Yahoo o Bing.
 
-**Collegamenti** in entrata Collegamenti in altri siti che indirizzano il traffico verso il sito. Più alta è la reputazione del sito di collegamento, più prezioso è questo collegamento in ingresso.
+**Collegamenti**
+in entrataCollegamenti in altri siti che indirizzano il traffico verso il sito. Più alta è la reputazione del sito di collegamento, più prezioso è questo collegamento in ingresso.
 
-**Pagina Risultati classificazione** di SERP per il motore di ricerca. I motori di ricerca restituiscono più pagine di risultati. La classifica SERP è la pagina visualizzata dal collegamento. In genere sono disponibili 10 risultati per pagina.
+**SERP**
+rankingStands for Search Engine Result Page. I motori di ricerca restituiscono più pagine di risultati. La classifica SERP è la pagina visualizzata dal collegamento. In genere sono disponibili 10 risultati per pagina.
 
-**Visualizzazione** motore di ricerca Il modo in cui un computer del motore di ricerca percepisce il sito rispetto a come lo percepisce un essere umano.
+**Motore di ricerca**
+VistaIl modo in cui un computer del motore di ricerca percepisce il sito rispetto al modo in cui un essere umano lo percepisce.
 
-**Termini** Generici di ricerca di testa grasso che generano una rete molto grande. Rappresentano circa il 19% di tutti i termini di ricerca utilizzati.
+**Fat Head Search**
+TermsParole chiave generiche che generano una rete molto grande. Rappresentano circa il 19% di tutti i termini di ricerca utilizzati.
 
 >[!NOTE]
 >
@@ -61,7 +67,8 @@ Parole chiave super specifiche. Vengono utilizzati circa il 70% del tempo.
 
 Il punteggio di ottimizzazione è un punteggio proprietario di Marketo che misura tutte le pagine del sito su una scala da 1 a 100. Si basa su una raccolta di dozzine di best practice. Un punteggio di 70 o superiore indica un sito ottimizzato.
 
-**Ottimizzazione** paginaMisure che possono essere adottate direttamente all’interno del sito Web per migliorarne la posizione nelle pagine dei risultati del motore di ricerca.
+**On-Page**
+OptimizationMisure che possono essere adottate direttamente all’interno del sito Web per migliorarne la posizione nelle pagine dei risultati del motore di ricerca.
 
 >[!NOTE]
 >
@@ -83,8 +90,8 @@ Vedete, non era così male.
 
 ## Come si inizia? {#how-do-i-get-started}
 
-1. Sviluppare la strategia con [le parole chiave](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-1. Risolvere problemi esistenti in [Informazioni sulle pagine](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. Amplia il tuo raggio di azione grazie alla [comprensione dei collegamenti in entrata](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Sviluppare la strategia con [Parole chiave](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+1. Risolvere i problemi esistenti in [Informazioni sulle pagine](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+1. Ampliate il vostro raggio d&#39;azione con [Informazioni sui collegamenti in ingresso](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
 L&#39;obiettivo è di essere vicini alla prima pagina (e al primo risultato) per le parole chiave che contano per la vostra attività.
