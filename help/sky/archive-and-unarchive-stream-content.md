@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Archiviare e annullare l&#39;archiviazione dei contenuti dei flussi
 
-Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimuoverlo](/help/sky/remove-stream-content.md) o archiviarlo.
+Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimuovere](/help/sky/remove-stream-content.md) o archiviarlo.
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimu
 
    ![Immagine uno](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Fare clic sulla **[!UICONTROL Streams]** scheda
+1. Fare clic sulla scheda **[!UICONTROL Streams]**
 
    ![Immagine due](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -45,11 +45,11 @@ Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimu
 
    ![Immagine cinque](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine Sei](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Fai clic sull&#39;icona dell&#39;ingranaggio per il flusso, quindi fai clic su **[!UICONTROL Show Archived Content]**.
+1. Fare clic sull&#39;icona dell&#39;ingranaggio per il flusso, quindi fare clic su **[!UICONTROL Show Archived Content]**.
 
    ![Immagine sette](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
