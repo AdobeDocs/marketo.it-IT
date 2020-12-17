@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Informazioni sulle date provvisorie/confermate {#understanding-tentative-confirmed-dates}
 
-Le campagne intelligenti e i programmi e-mail hanno una potente capacità di essere contrassegnati come **Tentativi** o **Confermati**. Ecco come funzionano.
+Le campagne intelligenti e i programmi e-mail hanno una potente capacità di essere contrassegnati come **Tentative** o **Confermato**. Ecco come funzionano.
 
-## Provvisorio {#tentative}
+## Tentativi {#tentative}
 
 Le date provvisorie indicano l&#39;intento. Pensate a questo come *penciling *qualcosa nel calendario. Le voci tentative non verranno eseguite, ma solo dei segnaposto.
 
@@ -41,9 +41,9 @@ Le voci confermate verranno sicuramente eseguite. Hanno regole, risorse approvat
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Completato  {#finished}
+## Finito {#finished}
 
-Le voci completate sono già in esecuzione. Possono essere solo nel passato (ovviamente). Una volta eseguita una voce e **terminata**, non è possibile spostarla o renderla provvisoria. (Nessuna realtà che cambia e l&#39;interruzione del continuum del flusso temporale).
+Le voci completate sono già in esecuzione. Possono essere solo nel passato (ovviamente). Una volta eseguita una voce ed è **Finitura**, non è possibile spostarla o renderla provvisoria. (Nessuna realtà che cambia e l&#39;interruzione del continuum del flusso temporale).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
