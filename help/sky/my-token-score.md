@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Come impostare un token di punteggio da utilizzare nei programmi e nelle cartelle delle campagne.
 
-1. Nella [!UICONTROL My Tokens] scheda del programma o della cartella, trascinate un token **Valutazione** nel [!UICONTROL Local Tokens] quadro.
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **Valutazione** nel quadro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
-1. Inserisci un nome per il nuovo token, immetti un valore di punteggio (ad es. -5, +10, =50), quindi fai clic **[!UICONTROL Save]**.
+1. Immettete un nome per il nuovo token, immettete un valore per il punteggio (ad es., -5, +10, =50), quindi fate clic su **[!UICONTROL Save]**.
 
    ![Immagine due](/help/sky/assets/my-tokens/my-token-score/my-token-score-2.png)
