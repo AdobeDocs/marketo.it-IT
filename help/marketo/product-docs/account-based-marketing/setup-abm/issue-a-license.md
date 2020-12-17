@@ -19,19 +19,19 @@ Dovrete impostare gli utenti con una licenza per utilizzare ABM. Ecco come farlo
 >
 >Il numero di licenze disponibili varia in base all&#39;abbonamento. Per maggiori informazioni, contattate il vostro rappresentante commerciale.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one.png)
 
-1. Fate clic su **Utenti e ruoli**. Selezionate l&#39;utente a cui rilasciare la licenza, fate clic sul menu a discesa **Rilascia licenza** e selezionate Marketing **basato su** account.
+1. Fare clic su **Utenti e ruoli**. Selezionate l&#39;utente a cui rilasciare la licenza, fate clic sul menu a discesa **Rilascia licenza**, quindi selezionate **Account Based Marketing**.
 
    ![](assets/two.png)
 
-1. Selezionate la casella di controllo **Abilita licenza** e fate clic su **Salva**.
+1. Selezionare la casella di controllo **Abilita licenza** e fare clic su **Salva**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Per rimuovere la licenza di un utente, seguite il passaggio 1, quindi ** deselezionate la casella di controllo e fate clic su **Salva**.
+   >Per rimuovere la licenza di un utente, seguire il passaggio 1, quindi *un* selezionare la casella di controllo e fare clic su **Salva**.
 
