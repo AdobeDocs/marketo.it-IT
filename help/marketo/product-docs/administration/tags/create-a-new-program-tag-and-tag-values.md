@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Creare un nuovo tag e nuovi valori tag del programma {#create-a-new-program-tag-and-tag-values}
+# Creare un nuovo tag del programma e valori dei tag {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Potete creare [tag](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizzati per i programmi e assegnare valori al tag.
+È possibile creare [tag](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizzati per i programmi e assegnare valori al tag.
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ Potete creare [tag](../../../product-docs/core-marketo-concepts/programs/working
 >
 >Valore tag programma: SMB, Enterprise, Media Market
 
-1. In **Admin**, fai clic su **Tag**.
+1. In **Admin**, fare clic su **Tags**.
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
-1. Fate clic su **Nuovo** e selezionate **Nuovo tipo** di tag.
+1. Fare clic su **Nuovo** e selezionare **Nuovo tipo di tag**.
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Inserite il tipo **di** tag e un **valore** di tag. Quindi fate clic su **Aggiungi un altro**.
+1. Immettere il **Tipo di tag** e un tag **Valore**. Fare clic su **Aggiungi un altro**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
@@ -47,7 +47,7 @@ Potete creare [tag](../../../product-docs/core-marketo-concepts/programs/working
    >
    >È possibile selezionare più tipi di programmi. Quando viene creato un nuovo programma, questo tipo di tag sarà disponibile.
 
-1. Selezionate **Obbligatorio** e fate clic su **Crea**.
+1. Selezionare **Obbligatorio** e fare clic su **Crea**.
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
