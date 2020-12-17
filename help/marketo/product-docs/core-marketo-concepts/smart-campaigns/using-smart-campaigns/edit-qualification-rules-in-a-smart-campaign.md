@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le regole di qualifica controllano quante volte un utente può eseguire il flusso in una campagna intelligente. Per impostazione predefinita, anche se un utente attiva più volte una campagna intelligente, questa viene inviata solo una volta attraverso il flusso. Ecco come modificare queste impostazioni.
 
-1. Nella campagna intelligente, fai clic sulla scheda **Pianificazione** , quindi su **Modifica impostazioni**.
+1. Nella campagna smart, fare clic sulla scheda **Schedule**, quindi su Edit Settings **(Modifica impostazioni).**
 
    ![](assets/programeditsettings-hands.png)
 
@@ -23,7 +23,7 @@ Le regole di qualifica controllano quante volte un utente può eseguire il fluss
    >
    >Puoi anche fare clic su **Modifica** a destra di &quot;Impostazioni Smart Campaign&quot;.
 
-1. Scegliete la frequenza con cui eseguire le persone tramite il flusso di campagne intelligenti: **una sola volta**, **ogni volta**, o **una volta ogni # giorni**/**settimane**/**mesi**.
+1. Scegliete la frequenza con cui eseguire le persone tramite il flusso di campagne intelligenti: **una sola volta**, **ogni volta** o **una volta ogni # giorni**/**settimane**/**mesi**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -36,7 +36,7 @@ Le regole di qualifica controllano quante volte un utente può eseguire il fluss
    >**Promemoria**
    >
    >
-   >Per impostazione predefinita, i limiti di comunicazione non sono applicati alle campagne intelligenti. Scopri come [applicare i limiti di comunicazione a una campagna](apply-communication-limits-to-smart-campaign.md)intelligente.
+   >Per impostazione predefinita, i limiti di comunicazione non sono applicati alle campagne intelligenti. Scopri come [applicare i limiti di comunicazione a una campagna intelligente](apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
