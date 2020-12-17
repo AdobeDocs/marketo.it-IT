@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Creare una voce di base {#create-a-basic-entry}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il programma. Fare clic sul menu a discesa **Visualizza** . Selezionare **Pianificazione**.
+1. Selezionare il programma. Fare clic sul menu a discesa **Visualizza**. Selezionare **Schedule**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -51,15 +51,15 @@ ht-degree: 0%
 
 ## Cambia tipo di voce {#change-entry-type}
 
-1. Selezionate una voce di base dalla vista **Agenda** .
+1. Selezionare una voce di base dalla vista **Agenda**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Selezionate l’elenco a discesa **Tipo** . Scegliete un nuovo tipo di voce.
+1. Selezionare il menu a discesa **Tipo**. Scegliete un nuovo tipo di voce.
 
    >[!NOTE]
    >
-   >Fare è una voce [](create-custom-entry-types.md)personalizzata. Potete creare un oggetto da fare e altre voci personalizzate per tenere traccia degli elementi dell&#39;agenda non Marketo.
+   >Fare è una [voce personalizzata](create-custom-entry-types.md). Potete creare un oggetto da fare e altre voci personalizzate per tenere traccia degli elementi dell&#39;agenda non Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Potete anche creare una campagna [](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) intelligente o un programma [e-](creating-a-new-email-program-in-the-schedule-view.md) mail dalla vista Pianificazione.
+> È inoltre possibile creare un [campagna intelligente](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o un [programma e-mail](creating-a-new-email-program-in-the-schedule-view.md) dalla vista di pianificazione.
 
