@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Punteggio account {#account-score}
+# Valutazione account {#account-score}
 
 Il punteggio account è una parte fondamentale del marketing basato su account. Consente di determinare il livello di coinvolgimento degli account.
 
@@ -34,7 +34,7 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 >
 >**Spiegazione**
 >
->Per calcolare i punteggi dei conti, è innanzitutto necessario creare i punteggi dei lead. Marketo ABM aggrega automaticamente i punteggi dei lead ai punteggi dei conti. Ad esempio, prenderemo due degli esempi di cui sopra (*Account *Punteggio interessi *prodotto* e punteggio *di coinvolgimento Web account*).
+>Per calcolare i punteggi dei conti, è innanzitutto necessario creare i punteggi dei lead. Marketo ABM aggrega automaticamente i punteggi dei lead ai punteggi dei conti. Ad esempio, prenderemo in considerazione due degli esempi di cui sopra (*Account **Product Interest Score* and *Account Web Engagement Score*).
 >
 >Innanzitutto, create campi per il punteggio iniziale che acquisiscano i dettagli rilevanti da ciascun lead di un account di destinazione.\
 >Quindi assegnate i punteggi dei lead ai rispettivi punteggi del conto:\
@@ -47,11 +47,11 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 
 Una volta configurato il punteggio iniziale, procedete come segue.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-1.png)
 
-1. Fate clic su **ABM**.
+1. Fare clic su **ABM**.
 
    ![](assets/two-1.png)
 
@@ -63,7 +63,7 @@ Una volta configurato il punteggio iniziale, procedete come segue.
    >
    >È possibile scegliere fino a **cinque campi **per calcolare il punteggio account.
 
-1. Immettete il nome Valutazione account, fate clic sul menu a discesa **Seleziona punteggio** persona e selezionate la valutazione corrispondente.
+1. Immettete il nome del punteggio account, fate clic sul menu a discesa **Seleziona punteggio persona** e selezionate il punteggio corrispondente.
 
    ![](assets/four.png)
 
@@ -71,7 +71,7 @@ Una volta configurato il punteggio iniziale, procedete come segue.
 
    ![](assets/five.png)
 
-1. Aggiungete tutti i punteggi desiderati. Al termine, fate clic su **Salva** .
+1. Aggiungete tutti i punteggi desiderati. Fare clic su **Salva** al termine.
 
    ![](assets/six.png)
 
