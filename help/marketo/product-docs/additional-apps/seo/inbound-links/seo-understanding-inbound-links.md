@@ -17,7 +17,7 @@ I collegamenti in entrata indicano ai motori di ricerca che il sito vale la pena
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
-## Definizione di colonne {#definition-of-columns}
+## Definizione delle colonne {#definition-of-columns}
 
 | Titolo colonna | Descrizione |
 |---|---|
