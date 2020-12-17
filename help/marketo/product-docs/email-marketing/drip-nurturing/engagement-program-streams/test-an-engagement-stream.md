@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dopo aver aggiunto tutto il contenuto a uno streaming, potete testarlo un pezzo alla volta.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/one.png)
 
@@ -37,12 +37,12 @@ Dopo aver aggiunto tutto il contenuto a uno streaming, potete testarlo un pezzo 
 
    >[!TIP]
    >
-   >Se la persona di prova ricercata non esiste, utilizzate l&#39;opzione **Crea persona** per crearne una al volo.
+   >Se la persona che stai cercando non esiste, utilizza l&#39;opzione **Crea persona** per crearne una al volo.
 
    Fate clic su Flusso iniziale, selezionate il flusso da verificare e fate clic su Esegui cast.
    ![](assets/five-rubiks.png)
 
-1. Dopo che la persona ha eseguito le regole [di](transition-people-between-engagement-streams.md) transizione precedentemente impostate, fate clic sull&#39;icona Aggiorna.
+1. Dopo che la persona ha eseguito le [regole di transizione](transition-people-between-engagement-streams.md) precedentemente impostate, fare clic sull&#39;icona Aggiorna.
 
    ![](assets/six-rubiks.png)
 
