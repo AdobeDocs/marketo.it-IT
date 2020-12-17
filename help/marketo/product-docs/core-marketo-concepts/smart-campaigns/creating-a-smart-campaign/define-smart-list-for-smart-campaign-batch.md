@@ -25,14 +25,14 @@ Gli elenchi avanzati sono il meccanismo utilizzato da Marketo per definire &quot
 
    >[!NOTE]
    >
-   >Una campagna intelligente con solo filtri viene eseguita in modalità **Batch** . Trova persone nel database che si qualificano in base ai filtri ed esegue tutte le persone attraverso il flusso contemporaneamente.
+   >Una campagna intelligente con solo filtri viene eseguita in modalità **Batch**. Trova persone nel database che si qualificano in base ai filtri ed esegue tutte le persone attraverso il flusso contemporaneamente.
 
    >[!NOTE]
    >
    >**Promemoria**
    >
    >
-   >Puoi eseguire una campagna intelligente su una persona alla volta in base agli eventi in diretta aggiungendo attivatori, che attivano la campagna intelligente in modalità **Trigger** .
+   >È possibile eseguire una campagna intelligente su una persona alla volta in base agli eventi in diretta aggiungendo attivatori, che attivano la campagna intelligente in modalità **Trigger**.
 
 1. Fate clic sul menu a discesa e scegliete un operatore di filtro per il filtro scelto.
 
@@ -48,9 +48,9 @@ Gli elenchi avanzati sono il meccanismo utilizzato da Marketo per definire &quot
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, le persone che soddisfano TUTTE le regole dell&#39;elenco smart sono qualificate. Può essere modificato in base alle esigenze della campagna. Per ulteriori informazioni, consulta Regole [Smart List per la logica](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) complessa.
+   >Per impostazione predefinita, le persone che soddisfano TUTTE le regole dell&#39;elenco smart sono qualificate. Può essere modificato in base alle esigenze della campagna. Per ulteriori informazioni, consultare le [Regole di elenchi avanzati per la logica complessa](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md).
 
-   Per attivare gli eventi in diretta una persona alla volta, scopri come [definire l&#39;elenco avanzato per Smart Campaign | Trigger](define-smart-list-for-smart-campaign-trigger.md).
+   Per attivare eventi in diretta una persona alla volta, scopri come [Definire l&#39;elenco avanzato per la campagna intelligente | Trigger](define-smart-list-for-smart-campaign-trigger.md).
 
    >[!NOTE]
    >
