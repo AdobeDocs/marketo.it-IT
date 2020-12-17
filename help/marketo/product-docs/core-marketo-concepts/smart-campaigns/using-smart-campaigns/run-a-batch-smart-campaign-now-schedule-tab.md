@@ -19,15 +19,15 @@ Dopo aver creato la campagna batch, potete scegliere di eseguirla subito o in un
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Assicurarsi che **Run Now **sia selezionato e fare clic su **Run**.
+1. Assicurarsi che **Run Now **is selected e fare clic su **Run**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
-1. Per confermare, fai clic su **Esegui** un&#39;altra volta.
+1. Per confermare, fai clic su **Esegui** una volta di più.
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Facile! Puoi anche [pianificare le esecuzioni in un secondo momento](schedule-a-batch-smart-campaign-to-run-later.md) .
+   Facile! È inoltre possibile eseguire [programmazioni per le esecuzioni successive](schedule-a-batch-smart-campaign-to-run-later.md), se lo si preferisce.
 
    >[!NOTE]
    >
