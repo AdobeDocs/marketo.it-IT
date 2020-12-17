@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Aggiungi Google AdWords come servizio di avvio con un account manager {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall&#39;interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di fatturato desideri monitorare) dopo aver [aggiunto colonne](https://support.google.com/adwords/answer/3073556) personalizzate in AdWords. Queste informazioni non vengono visualizzate nell’interfaccia di Marketo.
+Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall&#39;interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di fatturato desideri monitorare) dopo che hai [aggiunto colonne personalizzate](https://support.google.com/adwords/answer/3073556) in AdWords. Queste informazioni non vengono visualizzate nell’interfaccia di Marketo.
 
-Se disponete di più account Google Adwords, potete utilizzare un account [](https://www.google.com/adwords/manager-accounts/) Google AdWords Manager (precedentemente denominato My Client Center) per integrarli con Marketo.
+Se disponete di più account Google Adwords, potete utilizzare un [account Google AdWords Manager](https://www.google.com/adwords/manager-accounts/) (precedentemente denominato My Client Center) per integrarli con Marketo.
 
-Ulteriori informazioni sulla funzione di importazione delle conversioni offline di [Google](https://support.google.com/adwords/answer/2998031?hl=en).
+Ulteriori informazioni sulla [funzionalità di importazione delle conversioni offline di Google](https://support.google.com/adwords/answer/2998031?hl=en).
 
 >[!NOTE]
 >
@@ -25,9 +25,9 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
 >[!NOTE]
 >
->Puoi anche integrare un account Google AdWords [autonomo come servizio](add-google-adwords-as-a-launchpoint-service.md)Launchpoint.
+>È inoltre possibile integrare un account [autonomo Google AdWords come servizio Launchpoint](add-google-adwords-as-a-launchpoint-service.md).
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/login-admin-1.png)
 
@@ -35,7 +35,7 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selezionate **Nuovo** e **Nuovo servizio**.
+1. Selezionare **New** e **New Service**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
@@ -43,7 +43,7 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    ![](assets/new-service-google-1.png)
 
-1. Seleziona **Autorizza marketing**.
+1. Selezionare **Autorizza Marketo**.
 
    >[!NOTE]
    >
@@ -55,19 +55,19 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    ![](assets/image2015-2-23-15-3a31-3a16.png)
 
-1. Selezionate **Accetta**.
+1. Selezionare **Accetta**.
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. Lo stato verrà visualizzato come **Success**. Selezionare **Avanti**.
+1. Lo stato verrà visualizzato come **Success**. Selezionare **Next**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Carica le conversioni offline da Marketo a Google AdWords **Settimanale **o **Giornaliero**.
+1. Carica le conversioni offline da Marketo a Google AdWords **Settimanale **o **Quotidianamente**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
-1. Conversione attributi in **First Click** o **Last Click**.
+1. Conversione attributi in **Primo clic** o **Ultimo clic**.
 
    | Tipo | Definizione |
    |---|---|
@@ -78,13 +78,13 @@ Ulteriori informazioni sulla funzione di importazione delle conversioni offline 
 
    >[!NOTE]
    >
-   >[Per il funzionamento di questa funzione è necessario selezionare l’opzione Assegnazione tag](https://support.google.com/adwords/answer/1752125?hl=en) automatica. Deve essere attivato in AdWords.
+   >[Per il funzionamento di questa funzione, è ](https://support.google.com/adwords/answer/1752125?hl=en) necessario selezionare il tag automatico. Deve essere attivato in AdWords.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2015-3-27-14-3a11-3a31.png)
 
-1. Deselezionate gli account che non desiderate aggiornare. Fate clic su **Crea**.
+1. Deselezionate gli account che non desiderate aggiornare. Fare clic su **Crea**.
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
