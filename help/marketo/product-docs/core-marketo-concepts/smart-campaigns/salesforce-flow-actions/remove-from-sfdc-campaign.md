@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rimuovi da campagna SFDC {#remove-from-sfdc-campaign}
+# Rimuovi dalla campagna SFDC {#remove-from-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Proprio come per [aggiungere](add-to-sfdc-campaign.md)campagne e [modificare lo stato della DSC in una campagna](change-status-in-sfdc-campaign.md)della DSC, puoi anche rimuovere persone o lead da una campagna Salesforce.
+Proprio come per [Aggiungi a SFDC Campaign](add-to-sfdc-campaign.md)e [Modifica stato in SFDC Campaign](change-status-in-sfdc-campaign.md), puoi anche rimuovere persone o lead da una campagna Salesforce.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
