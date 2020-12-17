@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Impostazione di una firma DKIM personalizzata {#set-up-a-custom-dkim-signature}
+# Imposta una firma DKIM personalizzata {#set-up-a-custom-dkim-signature}
 
 Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono automaticamente firmati con una firma DKIM Marketo condivisa.
 
@@ -21,7 +21,7 @@ Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono aut
 
 È possibile personalizzare la firma DKIM in modo da riflettere i domini di propria scelta. Ecco come.
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -30,11 +30,11 @@ Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono aut
    >
    >Se imposti una firma DKIM personalizzata nel modo precedente, continuerà a funzionare e dovrebbe comparire qui.
 
-1. Fate clic su **E-mail**, quindi sulla scheda **DKIM** e infine su **Aggiungi dominio**.
+1. Fare clic su **Email**, quindi sulla scheda **DKIM** e infine su **Aggiungi dominio**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Immettete il dominio che verrà utilizzato nelle e-mail di Marketo come indirizzo Da e fate clic su **Aggiungi**.
+1. Immettete il dominio che utilizzerete nelle e-mail di Marketo come indirizzo Da e fate clic su **Aggiungi**.
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono aut
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Inviate il record **** host e il valore **** TXT all&#39;IT. Chiedete loro di creare il record e assicuratevi che si propaghi a tutti i server dei nomi associati al dominio da. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio in cui è firmata DKIM.
+1. Inviate all&#39;IT **Record host** e **TXT Value**. Chiedete loro di creare il record e assicuratevi che si propaghi a tutti i server dei nomi associati al dominio da. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio in cui è firmata DKIM.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
