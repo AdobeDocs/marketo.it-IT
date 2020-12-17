@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Passaggio 1: Creazione di una campagna di punteggio {#step-create-a-scoring-campaign}
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/ma-1.png)
 
-1. Fate clic con il pulsante destro del mouse sulla cartella **Formazione** e fate clic su **Nuova cartella** campagna.
+1. Fare clic con il pulsante destro del mouse sulla cartella **Learning** e scegliere **Nuova cartella campagna**.
 
    ![](assets/two-2.png)
 
@@ -37,53 +37,53 @@ ht-degree: 0%
    >
    >Se disponete già di una cartella Punteggio, denominatela come qualcosa di diverso, ad esempio Punteggio 1. I nomi delle cartelle devono essere univoci.
 
-1. Fate clic con il pulsante destro del mouse sulla nuova cartella **Punteggio** e selezionate **Nuova campagna** avanzata.
+1. Fate clic con il pulsante destro del mouse sulla nuova cartella **Scoring** e selezionate **New Smart Campaign**.
 
    ![](assets/four.png)
 
-1. **Denominate** la campagna &quot;Change Score&quot; e fate clic su **Create (Crea)**.
+1. **Denominate** la campagna &quot;Change Score&quot; e fate clic su  **Create (Crea)**.
 
    ![](assets/five-1.png)
 
-1. Fate clic sulla scheda Elenco **** avanzato.
+1. Fare clic sulla scheda **Smart List**.
 
    ![](assets/six-1.png)
 
-   Vogliamo che questa campagna venga eseguita ogni volta che una persona compila il modulo **di richiesta di** prova.
+   Vogliamo che questa campagna venga eseguita ogni volta che una persona compila il **modulo di richiesta di prova**.
 
-1. Individua e trascina il trigger Modulo **di** riempimento sul quadro sinistro.
+1. Individuare e trascinare il trigger **Riempie il modulo** sul quadro sinistro.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
-1. Selezionare **Modulo** personale.
+1. Selezionare **My Form**.
 
    >[!NOTE]
    >
-   >Se la pagina di [destinazione è stata completata con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) , è necessario avere il modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
+   >Se hai completato la [pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), dovresti avere il modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Fate clic sulla scheda **Flusso** .
+1. Fare clic sulla scheda **Flusso**.
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
-1. Trascinate l’azione **Cambia flusso punteggio** sul quadro sinistro.
+1. Trascinare l&#39;azione di flusso **Modifica punteggio** sul quadro sinistro.
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. È possibile digitare qualsiasi valore da aggiungere al punteggio della persona. Immettete &quot;+5&quot; nel campo **Cambia** .
+1. È possibile digitare qualsiasi valore da aggiungere al punteggio della persona. Immettete &quot;+5&quot; nel campo **Change**.
 
    ![](assets/eleven-1.png)
 
    >[!TIP]
    >
-   >Buone campagne di assegnazione dei punteggi sono fondamentali per la distribuzione di personale di alta qualità alle vendite. Leggi [**La Guida Definitiva Al Punteggio**](https://www.marketo.com/definitive-guides/lead-scoring/)Lead.
+   >Buone campagne di assegnazione dei punteggi sono fondamentali per la distribuzione di personale di alta qualità alle vendite. Leggi [**La guida definitiva al punteggio lead**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
-1. Fare clic sulla scheda **Pianificazione** e sul pulsante **Attiva** .
+1. Fare clic sulla scheda **Schedule** e sul pulsante **Activate**.
 
    ![](assets/twelve-1.png)
 
-1. Fate clic su **Attiva** nella schermata di conferma.
+1. Fare clic su **Attiva** nella schermata di conferma.
 
    ![](assets/thirteen-1.png)
 
@@ -93,15 +93,15 @@ ht-degree: 0%
 
 ## Passaggio 2: Compilare il modulo {#step-fill-out-the-form}
 
-1. Selezionate la pagina di destinazione creata nella pagina di [destinazione con una vittoria rapida per il modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Selezionare la pagina di destinazione creata nella [pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/fourteen-1.png)
 
-1. Fate clic su **Visualizza pagina** approvata. La pagina di destinazione verrà aperta in una nuova scheda.
+1. Fare clic su **Visualizza pagina approvata**. La pagina di destinazione verrà aperta in una nuova scheda.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Compilate il modulo con il vostro nome, cognome e indirizzo e-mail, quindi fate clic su **Invia**.
+1. Compila il modulo con il tuo nome, cognome e indirizzo e-mail, quindi fai clic su **Invia**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
    >
    >Utilizzate lo stesso nome e indirizzo e-mail usato la prima volta che vi siete inseriti come persona per applicare l&#39;aumento di punteggio &quot;+5&quot;.
 
-## Passaggio 3: Visualizzazione delle informazioni sulla persona {#step-view-the-person-info}
+## Passaggio 3: Visualizza informazioni persona {#step-view-the-person-info}
 
 1. Passare all&#39;area Database.
 
