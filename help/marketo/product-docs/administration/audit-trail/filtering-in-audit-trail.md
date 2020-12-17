@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Filtrare per intervallo di tempo, tipo di risorsa, utenti, azioni eseguite e altro ancora.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-1.png)
 
-1. In **Protezione**, selezionare **Audit Trail**.
+1. In **Security**, selezionare **Audit Trail**.
 
    ![](assets/two-1.png)
 
@@ -29,13 +29,13 @@ Filtrare per intervallo di tempo, tipo di risorsa, utenti, azioni eseguite e alt
 
    >[!NOTE]
    >
-   >Sono disponibili numerose combinazioni di parametri di ricerca. In questo esempio si trova: *tutte le e-mail - modificate da chiunque - nei sette giorni* precedenti.
+   >Sono disponibili numerose combinazioni di parametri di ricerca. In questo esempio si trova: *tutte le e-mail - modificate da chiunque - nei sette giorni precedenti*.
 
 1. Fare clic sul menu a discesa **Periodo** e selezionare **Ultimi 7 giorni**.
 
    ![](assets/four.png)
 
-1. Fate clic sul menu a discesa Tipo **di** risorsa e selezionate **E-mail**.
+1. Fare clic sul menu a discesa **Tipo risorsa** e selezionare **E-mail**.
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ Filtrare per intervallo di tempo, tipo di risorsa, utenti, azioni eseguite e alt
 
    ![](assets/six.png)
 
-1. Fate clic su **Applica**.
+1. Fare clic su **Applica**.
 
    ![](assets/seven.png)
 
