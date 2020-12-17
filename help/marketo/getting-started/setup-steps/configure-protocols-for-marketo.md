@@ -27,7 +27,7 @@ Questo articolo deve essere condiviso con il reparto IT della società che desid
 
 * `*.mktoweb.com`
 
-## Passaggio 1: Creare record DNS per le pagine di destinazione e le e-mail {#step-create-dns-records-for-landing-pages-and-email}
+## Passaggio 1: Creare record DNS per le pagine di destinazione e l&#39;e-mail {#step-create-dns-records-for-landing-pages-and-email}
 
 **Tracciamento dei CNAME di collegamento**
 
@@ -35,7 +35,7 @@ Il team marketing deve averti inviato due richieste per nuovi record CNAME. Il p
 
 `1` **Aggiungi CNAME per pagine di destinazione**
 
-Aggiungete il CNAME della pagina di destinazione che vi hanno inviato al record DNS, in modo che punti `[YourLandingPageCNAME]` alla stringa account univoca assegnata alle pagine di destinazione Marketo. Accedete al sito del registrar del vostro dominio e immettete la pagina di destinazione CNAME e Stringa account. In genere si tratta di tre campi:
+Aggiungete il CNAME della pagina di destinazione che vi ha inviato al record DNS, in modo che `[YourLandingPageCNAME]` punti alla stringa account univoca assegnata alle pagine di destinazione Marketo. Accedete al sito del registrar del vostro dominio e immettete la pagina di destinazione CNAME e Stringa account. In genere si tratta di tre campi:
 
 * Alias: Invio `[YourLandingPageCNAME]` (fornito da marketing)
 * Tipo: CNAME
@@ -43,8 +43,8 @@ Aggiungete il CNAME della pagina di destinazione che vi hanno inviato al record 
 
 `2` **Aggiungi CNAME per i collegamenti di tracciamento e-mail**
 
-Aggiungi l’e-mail di marketing CNAME inviata, in modo che `[YourEmailCNAME]` punti a [MktoTrackingLink], il collegamento di tracciamento predefinito assegnato da Marketo, nel formato:\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+Aggiungete l&#39;e-mail di marketing CNAME inviata, in modo che `[YourEmailCNAME]` punti a [MktoTrackingLink], il collegamento di tracciamento predefinito assegnato da Marketo, nel formato:\
+`[YourEmailCNAME].[YourDomain].com` IN CNAME  `[MktoTrackingLink]`
 
 Ad esempio:
 
@@ -54,7 +54,7 @@ Ad esempio:
 
 Notifica al team di marketing una volta completata la procedura.
 
-## Passaggio 2:  Inserire nell&#39;elenco Consentiti gli IP Marketo {#step-allowlist-marketo-ips}
+## Passaggio 2:  Inserire nell&#39;elenco Consentiti gli IP di Marketo {#step-allowlist-marketo-ips}
 
 Quando il gruppo Marketing utilizza Marketo per inviare e-mail di prova (una procedura consigliata prima dell&#39;invio delle esplosioni), le e-mail di prova talvolta vengono bloccate dai sistemi anti-spam che si affidano agli indirizzi IP del mittente per verificare la validità dell&#39;e-mail. Per garantire l&#39;arrivo di tali e-mail di test, aggiungi Marketo al tuo inserire nell&#39;elenco Consentiti di .
 
@@ -73,7 +73,7 @@ Alcuni sistemi anti-spam utilizzano il campo email Return-Path invece dell&#39;i
 
 >[!NOTE]
 >
->Postini utilizza una tecnologia unica e richiede  intervalli IP inserì nell&#39;elenco Consentiti. Consulta [Inserire nell&#39;elenco Consentiti con Postini](https://nation.marketo.com/docs/DOC-1066).
+>Postini utilizza una tecnologia unica e richiede  intervalli IP inserì nell&#39;elenco Consentiti. Vedere [ Inserire nell&#39;elenco Consentiti con Postini](https://nation.marketo.com/docs/DOC-1066).
 
 ## Passaggio 3: Configurare SPF e DKIM {#step-set-up-spf-and-dkim}
 
@@ -91,11 +91,11 @@ Il team di marketing deve inoltre aver inviato informazioni DKIM da aggiungere a
 
 1. Per DKIM, crea record di risorse DNS per ogni dominio che desideri impostare. Di seguito sono riportati i record host e i valori TXT per ciascun dominio per il quale verranno firmati:
 
-   `[DKIMDomain1]`: Record host è `[HostRecord1]` e il valore TXT è `[TXTValue1]`.
+   `[DKIMDomain1]`: Record host è  `[HostRecord1]` e il valore TXT è  `[TXTValue1]`.
 
-   `[DKIMDomain2]`: Record host è `[HostRecord2]` e il valore TXT è `[TXTValue2]`.
+   `[DKIMDomain2]`: Record host è  `[HostRecord2]` e il valore TXT è  `[TXTValue2]`.
 
-   Copiate HostRecord e TXTVvalue per ogni DKIMDomain configurato dopo aver seguito le [istruzioni riportate qui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Non dimenticare di verificare ogni dominio in Admin (Amministratore) > Email (E-mail) > DKIM dopo che il personale IT ha completato questo passaggio.
+   Copiare HostRecord e TXTVvalue per ogni DKIMDomain configurato dopo aver seguito le [istruzioni qui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Non dimenticare di verificare ogni dominio in Admin (Amministratore) > Email (E-mail) > DKIM dopo che il personale IT ha completato questo passaggio.
 
 ## Passaggio 4: Configurare i record MX per il dominio {#step-set-up-mx-records-for-your-domain}
 
