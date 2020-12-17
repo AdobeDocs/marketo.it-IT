@@ -20,7 +20,7 @@ Dopo aver aggiunto il contenuto al flusso, potrebbe essere utile modificare la p
 
    ![Immagine uno](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
