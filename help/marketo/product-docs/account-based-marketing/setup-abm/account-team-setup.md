@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Configurazione team account {#account-team-setup}
+# Impostazione team account {#account-team-setup}
 
 Un team di account è un gruppo di parti interessate che lavorano insieme su un account denominato. Segui questi passaggi per scegliere quali ruoli dell&#39;account CRM aggiungere.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-3.png)
 
-1. Fate clic su **ABM**.
+1. Fare clic su **ABM**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +31,7 @@ Un team di account è un gruppo di parti interessate che lavorano insieme su un 
    >
    >Per Ruolo account, assegnategli un nome e abbinalo al campo di ricerca utente desiderato nel CRM.
 
-1. Digita il nome del ruolo account e seleziona il campo **CRM** . Aggiungete fino a 10.
+1. Digitare il nome del ruolo dell&#39;account e selezionare il campo **CRM**. Aggiungete fino a 10.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Un team di account è un gruppo di parti interessate che lavorano insieme su un 
    >
    >Impossibile selezionare Proprietario account. È selezionata per impostazione predefinita dal livello dell&#39;account nel CRM.
 
-1. Al termine, fate clic su **Salva** .
+1. Fare clic su **Salva** al termine.
 
    ![](assets/five-2.png)
 
