@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Aggiungere note ai problemi delle pagine {#seo-add-notes-to-page-issues}
+# SEO - Aggiungi note ai problemi di pagina {#seo-add-notes-to-page-issues}
 
 Sapevate di poter aggiungere note ai problemi delle pagine come promemoria personali o messaggi del team?
 
@@ -47,11 +47,11 @@ Sapevate di poter aggiungere note ai problemi delle pagine come promemoria perso
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Passate il puntatore del mouse sul problema della pagina a cui desiderate aggiungere una nota e fate clic su **AGGIUNGI NOTA**.
+1. Passate il puntatore del mouse sul problema della pagina a cui desiderate aggiungere una nota e fate clic su **ADD NOTE**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Inserite la nota. Fate clic su **SALVA**.
+1. Inserite la nota. Fare clic su **SAVE**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
