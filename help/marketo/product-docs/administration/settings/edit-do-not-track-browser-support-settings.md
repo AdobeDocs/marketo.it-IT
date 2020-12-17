@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Fate clic su **Munchkin**.
+1. Fare clic su **Munchkin**.
 
    ![](assets/two.png)
 
-1. In Tracciamento **** persona, fate clic su **Modifica**.
+1. In **Tracciamento persona**, fare clic su **Modifica**.
 
    ![](assets/three-2.png)
 
-1. Selezionate **Supporto** e fate clic su **Salva**.
+1. Selezionare **Supporto** e fare clic su **Salva**.
 1. ![](assets/four-1.png)
 
    Dopo aver salvato le modifiche, verrà visualizzato l&#39;aggiornamento.
@@ -48,5 +48,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Per saperne di più su &quot;Non tenere traccia&quot; e su come funziona, visita [questa pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Per saperne di più su &quot;Non tenere traccia&quot; e come funziona, visitare [questa pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
 
