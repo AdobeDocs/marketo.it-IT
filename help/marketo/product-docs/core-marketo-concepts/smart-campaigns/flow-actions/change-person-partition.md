@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Se si utilizzano [aree di lavoro e partizioni](http://docs.marketo.com/x/9QMk), è necessario creare campagne intelligenti per spostare le persone da una partizione all&#39;altra.
+Se si utilizzano [aree di lavoro e partizioni](http://docs.marketo.com/x/9QMk), sarà necessario creare campagne intelligenti per spostare le persone da una partizione all&#39;altra.
 
 ![](assets/one-3.png)
 
