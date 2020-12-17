@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Limita accesso utente solo a SSO {#restrict-user-login-to-sso-only}
+# Limita accesso utente a SSO solo {#restrict-user-login-to-sso-only}
 
-Se si [utilizza SSO](add-single-sign-on-to-a-portal.md) e si desidera garantire che gli utenti non possano ignorare la sicurezza SSO, seguire queste istruzioni.
+Se [utilizzi SSO](add-single-sign-on-to-a-portal.md) e vuoi essere certo che gli utenti non possano ignorare la sicurezza SSO, segui queste istruzioni.
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ Se si [utilizza SSO](add-single-sign-on-to-a-portal.md) e si desidera garantire 
 
 >[!TIP]
 >
->Se selezionate **Richiedi SSO**, potete escludere un ruolo [](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) utente da questa restrizione selezionando l&#39;opzione **Ignora Single Sign-On** durante la configurazione del ruolo. In questo modo gli utenti potranno effettuare normalmente l&#39;accesso. Ad esempio, gli utenti Admin potrebbero comunque dover accedere a Marketo tramite la schermata di accesso.
+>Se si seleziona **Richiedi SSO**, è possibile escludere un ruolo utente [ruolo utente](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **Ignora Single Sign-On** durante la configurazione del ruolo. In questo modo gli utenti potranno effettuare normalmente l&#39;accesso. Ad esempio, gli utenti Admin potrebbero comunque dover accedere a Marketo tramite la schermata di accesso.
 
 >[!CAUTION]
 >
->Quando i nuovi utenti vengono invitati, ricevono e-mail di invito. Tuttavia, se è selezionata l&#39;opzione **Richiedi SSO** , questi messaggi e-mail non vengono ricevuti, a meno che non siano assegnati a un ruolo impostato su **Ignora Single Sign-On**.
+>Quando i nuovi utenti vengono invitati, ricevono e-mail di invito. Tuttavia, se è selezionata l&#39;opzione **Richiedi SSO**, questi messaggi e-mail non vengono ricevuti, a meno che non siano assegnati a un ruolo impostato su **Ignora Single Sign-On**.
 
 È tutto! Ora tutti gli utenti (ad eccezione degli utenti con l&#39;autorizzazione per bypassare il single sign-on) saranno limitati a utilizzare solo l&#39;accesso SSO.
