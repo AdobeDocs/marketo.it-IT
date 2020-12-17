@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Definire i criteri vincitori del test A/B {#define-the-a-b-test-winner-criteria}
+# Definire i criteri vincitori test A/B {#define-the-a-b-test-winner-criteria}
 
-Quando [aggiungete un test](add-an-a-b-test.md) A/B al programma e-mail, dovrete scegliere un tipo di test, [pianificare il test](schedule-the-a-b-test.md)A/B, quindi definire i criteri per il vincitore. Ecco come decidere quale e-mail vince.
+Quando [aggiungete un test A/B](add-an-a-b-test.md) al programma e-mail, dovrete scegliere un tipo di test, [pianificare il test A/B](schedule-the-a-b-test.md), quindi definire i criteri vincenti. Ecco come decidere quale e-mail vince.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Quando [aggiungete un test](add-an-a-b-test.md) A/B al programma e-mail, dovrete
 
 ## Criteri vincente {#winner-criteria}
 
-1. Vengono elencate per prime le opzioni **Criterio** vincitore.
+1. Le opzioni predefinite **Criterio vincitore** sono elencate per prime.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ Quando [aggiungete un test](add-an-a-b-test.md) A/B al programma e-mail, dovrete
    |---|---|
    | **Clic** | Per impostazione predefinita, i collegamenti nelle e-mail presentano un tracciamento incorporato che consente di vedere chi ha fatto clic sul collegamento, quanti collegamenti totali è stato fatto clic su di esso, ecc. |
    | **Fare clic per aprire %** | Percentuale di e-mail che sono state aperte e per cui è stato fatto clic su un collegamento nel messaggio e-mail. Questo misura la rilevanza e il contesto di un’e-mail prendendo il numero di clic univoci diviso per il numero di aperture univoche, e poi moltiplicando per 100 per mostrarlo come percentuale. |
-   | **Punteggio di coinvolgimento** | Il punteggio [di](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) coinvolgimento consente di determinare l&#39;efficacia dei contenuti. |
+   | **Punteggio di coinvolgimento** | La [valutazione del coinvolgimento](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) consente di determinare l&#39;efficacia dei contenuti. |
 
    >[!TIP]
    >
-   >Se si sceglie il punteggio di coinvolgimento, il test dovrà essere eseguito per almeno 24 ore. Scopri di più sulla [comprensione del punteggio](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)di coinvolgimento.
+   >Se si sceglie il punteggio di coinvolgimento, il test dovrà essere eseguito per almeno 24 ore. Ulteriori informazioni su [come comprendere il punteggio relativo al coinvolgimento](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Potete inoltre personalizzare i criteri selezionando Conversione personalizzata e facendo clic su Modifica.
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -54,7 +54,7 @@ Quando [aggiungete un test](add-an-a-b-test.md) A/B al programma e-mail, dovrete
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni sugli elenchi [smart ed elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)statici.
+   >Ulteriori informazioni sugli [elenchi smart ed elenchi statici](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    Definire il trigger.
    ![](assets/image2014-9-12-15-3a53-3a11.png)
@@ -79,17 +79,17 @@ Quando [aggiungete un test](add-an-a-b-test.md) A/B al programma e-mail, dovrete
    >**Promemoria**
    >
    >
-   >Se state eseguendo un test A/B **Data/Ora** , potete scegliere solo **Manuale**.
+   >Se si esegue un test A/B **Data/Ora**, è possibile scegliere solo **Manuale**.
 
    Una volta terminato il test A/B, Marketo può inviare automaticamente l&#39;e-mail vincente all&#39;ora pianificata, oppure potete esaminare i risultati e decidere quale e-mail inviare.
 
-1. Automatico è fantastico ed è l&#39;opzione predefinita. Fai clic su **Avanti**.
+1. Automatico è fantastico ed è l&#39;opzione predefinita. Fare clic su **Next**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >Se scegliete **Manuale** , il test verrà inviato e attendete di dichiarare un vincitore. Riceverete un rapporto dei risultati.
+   >Se si sceglie **Manual**, il test verrà inviato e si attende di dichiarare un vincitore. Riceverete un rapporto dei risultati.
 
    [programmare il test A/B](schedule-the-a-b-test.md)
 
