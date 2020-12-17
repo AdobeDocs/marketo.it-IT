@@ -27,7 +27,7 @@ Marketo è bravo a scegliere le persone giuste per un programma o una campagna i
 >
 >Scopri [come creare segmentazioni](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Una volta configurate queste persone (**e utilizzate** le aree di lavoro), sarà necessario condividerle nelle aree di lavoro. Ecco alcune buone cose da sapere:
+Una volta configurate queste persone (**e** utilizzate le aree di lavoro), sarà necessario condividerle tra le aree di lavoro. Ecco alcune buone cose da sapere:
 
 ## Regole e suggerimenti {#rules-tips}
 
