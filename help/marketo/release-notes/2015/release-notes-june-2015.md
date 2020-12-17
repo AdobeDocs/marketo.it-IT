@@ -17,8 +17,8 @@ Le seguenti funzionalità sono incluse nella release di giugno 2015. Per informa
 
 ## [Rapporto e-mail attribuzione](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)  {#attribution-email-report}
 
-Consulta la personalizzazione dei valori e i contenuti consigliati per le tue attività di marketing. [Il report](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Attribution Email (E-mail di attribuzione) mostra i lead diretti e assistiti attribuiti dalle campagne di personalizzazione di RTP e dai contenuti consigliati. Nelle impostazioni utente e nei rapporti e-mail dell’RTP, aggiungete il Rapporto e-mail di attribuzione per ricevere e-mail mensili o trimestrali.
+Consulta la personalizzazione dei valori e i contenuti consigliati per le tue attività di marketing. [Il ](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) rapporto e-mail di attribuzione mostra i lead diretti e assistiti attribuiti dalle campagne di personalizzazione e di contenuto consigliate di RTP. Nelle impostazioni utente e nei rapporti e-mail dell’RTP, aggiungete il Rapporto e-mail di attribuzione per ricevere e-mail mensili o trimestrali.
 
 ## Vuoi influenzare la nostra roadmap? {#want-to-influence-our-roadmap}
 
-Aggiungi marcatore di livello con questa scheda [per report](https://www.surveymonkey.com/s/VG9YCT5)rapido. Stiamo utilizzando il vostro contributo per aiutare a pianificare il 2016 e oltre!
+Grade Marketo con questa [scheda report rapido](https://www.surveymonkey.com/s/VG9YCT5). Stiamo utilizzando il vostro contributo per aiutare a pianificare il 2016 e oltre!
