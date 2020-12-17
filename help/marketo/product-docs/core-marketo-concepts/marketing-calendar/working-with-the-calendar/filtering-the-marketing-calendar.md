@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrare il calendario di marketing {#filtering-the-marketing-calendar}
+# Filtro del calendario di marketing {#filtering-the-marketing-calendar}
 
 Utilizzate i tipi di voce, i tag di programma o le aree di lavoro per filtrare le informazioni visualizzate nel calendario.
 
@@ -19,11 +19,11 @@ Utilizzate i tipi di voce, i tag di programma o le aree di lavoro per filtrare l
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Fate clic sul menu a discesa **Entry** **Type** (Tipo di voce).
+1. Fare clic sul menu a discesa **Entry** **Type**.
 
    >[!NOTE]
    >
-   >I tipi di voce predefiniti saranno **Programmi** e-mail **e** Campagne **** intelligenti **** con **** **** Email.
+   >I tipi di voce predefiniti saranno **E-mail** **Programmi** e **Smart** **Campagne** **con** **E-mail**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Utilizzate i tipi di voce, i tag di programma o le aree di lavoro per filtrare l
 
    >[!TIP]
    >
-   >Per una descrizione dei tipi di voci standard, selezionare i tipi [di voci di visualizzazione programmate](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)del programma.
+   >Per una descrizione dei tipi di voci standard, controllare [i tipi di voci di visualizzazione programmate del programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Selezionare i tag del programma che interessano.
 
