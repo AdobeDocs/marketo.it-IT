@@ -17,11 +17,11 @@ Il quadro delle risorse è una rappresentazione visiva del programma. Potete uti
 
 ## Aggiunta di risorse {#adding-assets}
 
-Nell’area **Attività** di marketing, fate clic sulla scheda **Risorse** . Scegliete una delle risorse seguenti e aggiungetele al programma.
+Nell&#39;area **Attività di marketing**, fare clic sulla scheda **Risorse**. Scegliete una delle risorse seguenti e aggiungetele al programma.
 
 ![](assets/programassets.png)
 
-## Gestione del programma  {#manage-your-program}
+## Gestione del programma {#manage-your-program}
 
 Quando sono presenti risorse nel programma, queste vengono elencate qui.
 
