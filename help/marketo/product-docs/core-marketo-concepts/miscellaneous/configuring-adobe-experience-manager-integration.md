@@ -31,7 +31,7 @@ Configura AEM per accedere, selezionare e importare risorse AEM in Design Studio
 
    ![](assets/two.png)
 
-1. In **Strumenti**, fare clic su **Operazioni** e selezionare Console **** Web.
+1. In **Strumenti**, fare clic su **Operazioni** e selezionare **Console Web**.
 
    ![](assets/2a.png)
 
@@ -43,23 +43,23 @@ Configura AEM per accedere, selezionare e importare risorse AEM in Design Studio
 
    ![](assets/four.png)
 
-1. Nella casella di testo Origini **consentite (Regexp)** , digitare &quot;https://.*\.marketo\.com&quot; (senza le virgolette) e fate clic su **Salva**.
+1. Nella casella di testo **Origini consentite (Regexp)**, digitare &quot;https://.*\.marketo\.com&quot; (senza le virgolette) e fare clic su **Salva**.
 
    ![](assets/five-psd.png)
 
-1. Nell’intestazione nella parte superiore della pagina, fate clic su Console **** Web e selezionate Informazioni **** sul sistema.
+1. Nell&#39;intestazione nella parte superiore della pagina, fare clic su **Console Web** e selezionare **Informazioni sul sistema**.
 
    ![](assets/six.png)
 
-1. In Informazioni sul server, fate clic sul pulsante **Riavvia** .
+1. In Informazioni sul server, fare clic sul pulsante **Riavvia**.
 
    ![](assets/seven.png)
 
-1. Fate clic su **OK** per confermare.
+1. Fare clic su **OK** per confermare.
 
    ![](assets/eight.png)
 
-1. In Marketing Classic, fai clic su **Admin**.
+1. In Marketo Classic, fare clic su **Admin**.
 
    ![](assets/nine.png)
 
@@ -67,13 +67,13 @@ Configura AEM per accedere, selezionare e importare risorse AEM in Design Studio
 
    ![](assets/ten.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/eleven.png)
 
-1. Inserite l’URL AEM e fate clic su **OK**.
+1. Inserite l&#39;URL AEM e fate clic su **OK**.
 
    ![](assets/twelve.png)
 
-   Siete tutti pronti! Ora potete [importare AEM risorse in Design Studio in Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
+   Siete tutti pronti! Ora è possibile [importare AEM risorse in Design Studio in Marketo Sky](http://help.marketo.com/hc/en-us/articles/360036765993).
 
