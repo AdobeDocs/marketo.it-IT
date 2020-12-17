@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SEO - Utilizzare il rapporto Tendenze parole chiave {#seo-use-the-keyword-trends-report}
+# SEO - Utilizzare il report Tendenze parole chiave {#seo-use-the-keyword-trends-report}
 
 In questo rapporto potete vedere come siete classificati in base alle parole chiave nel tempo.
 
 ## Carica rapporto {#load-report}
 
-1. Vai a **Rapporti**.
+1. Vai a **Reports**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Fare clic su **Tendenze** di classificazione parole chiave.
+1. Fare clic su **Tendenze di classificazione parole chiave**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -38,7 +38,7 @@ In questo rapporto potete vedere come siete classificati in base alle parole chi
    | Media rank | Il livello medio delle parole chiave nell’intervallo impostato. |
    | Media search | Numero medio di ricerche effettuate sulle parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, nella ricerca Google US |
 
-## Filtrare i dati {#filtering-data}
+## Filtro dati {#filtering-data}
 
 1. Fai clic sul menu a discesa e seleziona il periodo di tempo desiderato.
 
@@ -48,7 +48,7 @@ In questo rapporto potete vedere come siete classificati in base alle parole chi
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Esportazione dei dati  {#exporting-data}
+## Esportazione dati {#exporting-data}
 
 >[!TIP]
 >
