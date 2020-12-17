@@ -21,11 +21,11 @@ Per creare un nuovo modello e-mail, effettuate le seguenti operazioni.
 
 ## Creare un nuovo modello e-mail {#create-a-new-email-template}
 
-1. Fate clic su **Design Studio**.
+1. Fare clic su **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Fate clic su **Nuovo**, quindi selezionate **Nuovo modello** e-mail.
+1. Fare clic su **Nuovo**, quindi selezionare **Nuovo modello e-mail**.
 
    ![](assets/ds-two.png)
 
@@ -33,7 +33,7 @@ Per creare un nuovo modello e-mail, effettuate le seguenti operazioni.
 
    ![](assets/three-1.png)
 
-1. Per iniziare a modificare il nuovo modello, fate clic su **Modifica bozza**.
+1. Per iniziare a modificare il nuovo modello, fare clic su **Modifica bozza**.
 
    ![](assets/4.png)
 
@@ -41,23 +41,23 @@ Per creare un nuovo modello e-mail, effettuate le seguenti operazioni.
    >
    >Sebbene non vi sia alcun limite rigido, una volta che un modello e-mail viene utilizzato da oltre 500 e-mail, la riapprovazione del modello dopo un aggiornamento potrebbe causare problemi di prestazioni. Una volta che a un modello e-mail sono associate 500 e-mail, è consigliabile creare un nuovo modello.
 
-## Salva un messaggio e-mail come modello {#save-an-email-as-a-template}
+## Salva e-mail come modello {#save-an-email-as-a-template}
 
 Se avete creato un messaggio e-mail che desiderate salvare come modello da utilizzare in futuro, attenetevi alla procedura seguente.
 
-1. Fate clic su Attività **** di marketing.
+1. Fate clic su **Attività marketing**.
 
    ![](assets/one.png)
 
-1. Individuate e selezionate il messaggio e-mail, quindi fate clic su **Modifica bozza**.
+1. Trova e seleziona il tuo indirizzo e-mail, quindi fai clic su **Modifica bozza**.
 
    ![](assets/two-1.png)
 
-1. Fate clic sul menu a discesa Azioni **e-** mail e selezionate **Salva come modello**.
+1. Fare clic sul menu a discesa **Azioni e-mail** e selezionare **Salva come modello**.
 
    ![](assets/four-1.png)
 
-1. Fate clic sul menu a discesa **Cartella** , selezionate la posizione in cui il modello deve vivere e fate clic su **Salva**.
+1. Fare clic sul menu a discesa **Cartella**, selezionare il punto in cui si desidera che il modello risieda e fare clic su **Salva**.
 
    ![](assets/five-1.png)
 
