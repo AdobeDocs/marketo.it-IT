@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Creazione di un programma di coinvolgimento {#create-an-engagement-program}
+# Creare un programma di coinvolgimento {#create-an-engagement-program}
 
 Puoi utilizzare i programmi di coinvolgimento di Marketo per realizzare con facilità l&#39;e-mail di supporto.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 1. ![](assets/login-marketing-activities.png)
 
 1. Selezionate la cartella in cui desiderate creare il programma di coinvolgimento, quindi fate clic su **Nuovo** e **Nuovo programma**.
 1. ![](assets/newprogramlifecycle.jpg)
 
-1. Immettete un **nome**, selezionate **Partecipazione** per Tipo **** programma e fate clic su **Crea**.
+1. Immettete un **Nome**, selezionate **Coinvolgimento** per **Tipo di programma** e fate clic su **Crea**.
 1. ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. Bene, ora che avete un programma di coinvolgimento, andiamo avanti e mettiamola da parte.
