@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi a elenco {#add-to-list}
+# Aggiungi all&#39;elenco {#add-to-list}
 
 ## Panoramica {#overview}
 
