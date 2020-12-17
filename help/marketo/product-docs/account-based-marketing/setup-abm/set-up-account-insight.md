@@ -17,17 +17,17 @@ Ecco come impostare Account Insight.
 
 >[!PREREQUISITES]
 >
->Il punteggio dell&#39;account ABM [deve essere configurato](http://docs.marketo.com/display/DOCS/Account+Score) per primo.
+>Il punteggio dell&#39;account ABM [deve essere configurato per primo](http://docs.marketo.com/display/DOCS/Account+Score).
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Fare clic su **ABM** nella struttura, quindi sulla scheda Vendite **** ABM.
+1. Fare clic su **ABM** nella struttura, quindi sulla scheda **ABM Sales**.
 
    ![](assets/two-5.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/three-4.png)
 
@@ -37,9 +37,9 @@ Ecco come impostare Account Insight.
 
    >[!NOTE]
    >
-   >Se le impostazioni [Punteggio](http://docs.marketo.com/display/DOCS/Account+Score) account vengono aggiornate in qualsiasi momento, la configurazione in Vendite ABM deve essere aggiornata da un amministratore per essere certi che i punteggi riflettano accuratamente le preferenze dell&#39;utente. Per visualizzare le modifiche, l&#39;utente deve disconnettersi ed effettuare nuovamente l&#39;accesso.
+   >Se le [Impostazioni punteggio account](http://docs.marketo.com/display/DOCS/Account+Score) vengono aggiornate in qualsiasi momento, la configurazione in Vendite ABM deve essere aggiornata da un amministratore per assicurarsi che i punteggi riflettano accuratamente le preferenze dell&#39;utente. Per visualizzare le modifiche, l&#39;utente deve disconnettersi ed effettuare nuovamente l&#39;accesso.
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/five-4.png)
 
