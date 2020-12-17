@@ -17,11 +17,11 @@ I programmi di coinvolgimento sono concepiti per commercializzare nuove persone 
 
 >[!NOTE]
 >
->Esiste un limite di 100 programmi **attivi** per abbonamento.
+>Esiste un limite di 100 **programmi di coinvolgimento attivi** per iscrizione.
 
 ## Programma di coinvolgimento {#engagement-program}
 
-Un **impegno pr****ogramma** è un tipo di programma che può realizzare un&#39;educazione complessa con facilità.
+Un **coinvolgimento pr***ogramma** è un tipo di programma che può realizzare un&#39;elaborazione complessa con facilità.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +31,7 @@ Articolo correlato:
 
 ## Flusso {#stream}
 
-Un **flusso** è un insieme di contenuti con priorità che il programma di coinvolgimento utilizzerà per alimentare le persone.
+Un **flusso** è un insieme di contenuti con priorità che il programma di coinvolgimento utilizzerà per generare nuove persone.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -64,7 +64,7 @@ Un **cast** è l&#39;evento di invio di e-mail da un programma di partecipazione
 
 ## Cadenza flusso {#stream-cadence}
 
-Si decide quando avviene un cast impostando la cadenza del **flusso**. Questo è il modo in cui pianificate l&#39;uscita dei contenuti a intervalli regolari.
+È possibile decidere quando si verifica un cast impostando **cadenza del flusso**. Questo è il modo in cui pianificate l&#39;uscita dei contenuti a intervalli regolari.
 
 ` ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,9 +74,9 @@ Articolo correlato:
 
 * [Imposta cadenza flusso](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## Cadenza Persona {#person-cadence}
+## Cadenza persona {#person-cadence}
 
-Una cadenza **** personale è uno stato che definisce la capacità di ricevere contenuti da un programma di coinvolgimento. Potete utilizzare il passaggio **Modifica frequenza** programma di coinvolgimento per cambiare questa impostazione in Pausa o Normale.
+Uno **cadenza di persona** è uno stato che ne definisce la capacità di ricevere contenuti da un programma di coinvolgimento. È possibile utilizzare il passaggio di flusso **Change Engagement Program Cadence** per modificare il passaggio in Paused o Normal.
 
 ` ![](assets/image2014-9-15-15-3a25-3a55.png)
 
@@ -84,7 +84,7 @@ Una cadenza **** personale è uno stato che definisce la capacità di ricevere c
 
 ## Esaurito {#exhausted}
 
-Una volta che una persona ha ricevuto ogni contenuto in un flusso, chiamiamo la persona **Esaurita**.
+Una volta che una persona ha ricevuto ogni contenuto in un flusso, chiamiamo la persona **Esaurito**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
