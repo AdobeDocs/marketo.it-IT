@@ -13,29 +13,29 @@ ht-degree: 0%
 
 # Utilizzo dei costi del periodo in un programma {#using-period-costs-in-a-program}
 
-Un costo [](understanding-period-costs.md) periodo è l&#39;importo speso per un programma. Può essere utilizzato per uno o più mesi e per riportare il ROI.
+Un [costo periodo](understanding-period-costs.md) è l&#39;importo speso per un programma. Può essere utilizzato per uno o più mesi e per riportare il ROI.
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
-> Scopri di più su [Revenue Cycle Analytics](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+> Ulteriori informazioni su [Analisi del ciclo economico](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
-## Aggiungi un costo periodo  {#add-a-period-cost}
+## Aggiungi un costo periodo {#add-a-period-cost}
 
-1. Passate alla scheda **Configurazione** del programma.
+1. Vai alla scheda **Setup** del programma.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Trascina e rilascia **Periodo Costo** nell’area di lavoro.
+1. Trascinare **Costo periodo** nell&#39;area di lavoro.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. Fate clic sull&#39;icona del calendario. Selezionate un mese. Fate clic su **OK**.
+1. Fate clic sull&#39;icona del calendario. Selezionate un mese. Fare clic su **OK**.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Inserire un costo **** periodo (senza decimali o virgole). Fate clic su **Salva**.
+1. Inserire un **Costo periodo** (senza decimali o virgole). Fare clic su **Salva**.
 
    >[!NOTE]
    >
@@ -58,21 +58,21 @@ Un costo [](understanding-period-costs.md) periodo è l&#39;importo speso per un
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Fare clic con il pulsante destro del mouse sul costo **del** periodo. Selezionate **Modifica**.
+1. Fare clic con il pulsante destro del mouse sul **Costo periodo**. Selezionare **Edit**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. Apportate le modifiche necessarie. Fate clic su **Salva**.
+1. Apportate le modifiche necessarie. Fare clic su **Salva**.
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
 ## Elimina un costo periodo {#delete-a-period-cost}
 
-1. Passate alla scheda **Configurazione** del programma.
+1. Vai alla scheda **Setup** del programma.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Fare clic con il pulsante destro del mouse sul costo **del** periodo. Selezionate **Elimina**.
+1. Fare clic con il pulsante destro del mouse sul **Costo periodo**. Selezionare **Elimina**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
