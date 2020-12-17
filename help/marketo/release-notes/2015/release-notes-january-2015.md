@@ -19,11 +19,11 @@ Le seguenti funzionalità sono incluse nella release di gennaio 2015. Per inform
 
 **Nuove foto di Rick DeCosta!**
 
-Rick è un cliente Marketo di SmartBear e ha una [incredibile collezione di foto](https://www.flickr.com/photos/rickdecosta). Controllali!
+Rick è un cliente di Marketo da SmartBear e ha una [incredibile collezione di foto](https://www.flickr.com/photos/rickdecosta). Controllali!
 
 ## Pagine di destinazione intuitive per dispositivi mobili {#mobile-friendly-landing-pages}
 
-È ora possibile [creare viste mobili per le pagine](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) di destinazione dall’editor della pagina di destinazione. Distribuite i vostri messaggi in modo efficace indipendentemente dal dispositivo e aumentate il coinvolgimento personalizzando i vostri contenuti per un facile consumo in movimento. Questa funzione verrà implementata gradualmente per tutta la settimana successiva al rilascio.
+Ora è possibile [creare visualizzazioni mobili per le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) dall&#39;editor della pagina di destinazione. Distribuite i vostri messaggi in modo efficace indipendentemente dal dispositivo e aumentate il coinvolgimento personalizzando i vostri contenuti per un facile consumo in movimento. Questa funzione verrà implementata gradualmente per tutta la settimana successiva al rilascio.
 
 `<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
 
@@ -45,7 +45,7 @@ Ora è possibile accedere agli oggetti personalizzati associati all&#39;oggetto 
 
 **Osservazioni personalizzate per Google e Facebook**
 
-Notizie mostra annunci a persone che hanno visitato il tuo sito Web. Ora puoi personalizzare le tue campagne di remarketing su [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) utilizzando i dati di Real-Time Personalization (Personalizzazione in tempo reale). Notizie a tipi di pubblico provenienti da settori diversi, elenchi di account denominati, dimensioni aziendali o qualsiasi dato proveniente da lead noti.
+Notizie mostra annunci a persone che hanno visitato il tuo sito Web. Ora puoi personalizzare le campagne di remarketing su [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) utilizzando i dati di Real-Time Personalization (Personalizzazione in tempo reale). Notizie a tipi di pubblico provenienti da settori diversi, elenchi di account denominati, dimensioni aziendali o qualsiasi dato proveniente da lead noti.
 
 [Modulo elenco account denominato](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -59,13 +59,13 @@ I miglioramenti al modulo Account denominati miglioreranno i tassi di corrispond
 
 Opzioni tag RTP aggiornate
 
-[Le opzioni dei tag](http://docs.marketo.com/display/docs/rtp+tag+implementation) RTP in Impostazioni account sono state aggiornate per includere:
+[Le opzioni ](http://docs.marketo.com/display/docs/rtp+tag+implementation) tag RTP in Impostazioni account sono state aggiornate per includere:
 
 1. CDN e asincrono (tag consigliato)
 1. CDN e sincrono (alta velocità)
 1. Tag asincrono senza CDN
 1. Tag sincrono senza CDN
 
-Per ottenere migliori prestazioni, si consiglia di posizionare il tag nella parte superiore dell’intestazione della pagina Web dopo `<head>`. Tutti i tag consentono l’utilizzo dell’API [](http://developers.marketo.com/documentation/websites/rtp-js-api/)RTP. Per informazioni su come distribuire il tag RTP, consultate [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Per ottenere migliori prestazioni, si consiglia di posizionare il tag nella parte superiore dell&#39;intestazione nella pagina Web dopo `<head>`. Tutti i tag consentono l&#39;utilizzo dell&#39;API [RTP](http://developers.marketo.com/documentation/websites/rtp-js-api/). Per informazioni su come distribuire il tag RTP, vedere [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
