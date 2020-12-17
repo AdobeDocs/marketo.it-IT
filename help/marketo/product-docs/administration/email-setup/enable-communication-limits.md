@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fai clic su Limiti **di** comunicazione.
+1. In **Admin**, fare clic su **Limiti di comunicazione**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
 Fate clic su Modifica.
@@ -30,7 +30,7 @@ Fate clic su Modifica.
    >
    >Per giorno si basa sul giorno del calendario nel fuso orario dell&#39;iscrizione (mezzanotte-mezzanotte).
 
-1. Fate clic sul menu a discesa **Per giorno** e selezionate il limite desiderato. In questo esempio scegliamo 1.
+1. Fare clic sul menu a discesa **Per giorno** e selezionare il limite desiderato. In questo esempio scegliamo 1.
 
    ![](assets/three.png)
 
@@ -38,19 +38,19 @@ Fate clic su Modifica.
    >
    >Potete anche scegliere **Personalizzato** se nessuna delle opzioni del predefinito funziona.
 
-1. Fate clic sul menu a discesa **Per 7 giorni** e selezionate il limite desiderato. In questo esempio scegliamo 5.
+1. Fare clic sul menu a discesa **Per 7 Days** e selezionare il limite desiderato. In questo esempio scegliamo 5.
 
    ![](assets/four.png)
 
-1. Selezionate **Blocca e-mail** non operative.
+1. Selezionare **Blocca e-mail non operative**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Ulteriori informazioni sulle e-mail [](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) operative.
+   >Ulteriori informazioni sulle [e-mail operative](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational).
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/six.png)
 
@@ -59,7 +59,7 @@ Fate clic su Modifica.
    >**Esempio**
    >
    >
-   >Le impostazioni di cui sopra indicano che le persone non riceveranno più di **1 e-mail al giorno** o più di **5 in un periodo** di sette giorni.
+   >Le impostazioni di cui sopra indicano che le persone non riceveranno più di **1 e-mail al giorno** o più di **5 in un periodo di sette giorni**.
 
    >[!NOTE]
    >
