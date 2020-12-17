@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È possibile aggiungere elementi agli elenchi quando si aggiungono parole chiave, pagine, problemi di pagina o collegamenti in entrata. Gli elenchi consentono di rimanere organizzati e di filtrare i rapporti per visualizzare solo i dati presenti nell’elenco. Ecco come crearli:
 
-1. Fate clic su **AGGIUNGI PAROLE CHIAVE**.
+1. Fare clic su **AGGIUNGI PAROLE CHIAVE**.
 
    >[!NOTE]
    >
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >È possibile creare un nuovo elenco a discesa. Inserite un titolo e premete il tasto di ritorno.  ![—](assets/image2014-9-18-13-3a25-3a8.png) >
+   >È possibile creare un nuovo elenco a discesa. Inserite un titolo e premete il tasto di ritorno.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
 
-1. Fate clic su **SALVA**.
+1. Fare clic su **SAVE**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
