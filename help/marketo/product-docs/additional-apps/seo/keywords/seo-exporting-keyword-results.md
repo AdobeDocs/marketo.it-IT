@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Potete esportare i risultati delle parole chiave da condividere con il team o per creare un rapporto.
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
