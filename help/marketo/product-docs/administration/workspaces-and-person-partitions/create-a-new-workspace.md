@@ -28,34 +28,34 @@ Come creare una nuova area di lavoro.
 >
 >**Tubo profondo**
 >
->Comprendere innanzitutto [le aree di lavoro e le partizioni](understanding-workspaces-and-person-partitions.md)delle persone.
+>Comprendere prima con [Informazioni su aree di lavoro e partizioni di persone](understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Per ulteriori informazioni sulle procedure ottimali per Workspace, contattare [Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>Per ulteriori informazioni sulle procedure ottimali per Workspace, contattare [Marketing Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
 
-1. In **Admin**, fai clic su **Workspaces e partizioni**.
+1. In **Admin**, fare clic su **Workspaces &amp; Partitions**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. Fate clic su **Nuova area di lavoro**.
+1. Fare clic su **Nuova area di lavoro**.
 
    ![](assets/two-1.png)
 
-1. Immettete un** Nome**, quindi selezionate le partizioni **Persona** da utilizzare. Scegliere una partizione **di persona** principale.
+1. Immettete un** Name**, quindi selezionate le **partizioni di persone** che desiderate utilizzare. Scegliere una **partizione di persona principale**.
 
    >[!NOTE]
    >
    >**Promemoria**
    >
    >
-   >Assicuratevi di [creare partizioni](create-a-person-partition.md) personali se non lo avete già fatto.
+   >Assicurarsi di [creare partizioni di persona](create-a-person-partition.md) se non è già stato.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La casella di controllo **Tutte le partizioni** di persona** **significa che questa area di lavoro può utilizzare tutte le partizioni di persona nel sistema.
+   >La casella di controllo **Tutte le partizioni di persona**** **indica che questa area di lavoro può utilizzare tutte le partizioni di persona nel sistema.
 
    >[!NOTE]
    >
@@ -76,7 +76,7 @@ Come creare una nuova area di lavoro.
 
    ![](assets/five.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/six.png)
 
