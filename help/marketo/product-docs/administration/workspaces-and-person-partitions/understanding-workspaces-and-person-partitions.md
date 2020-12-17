@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Informazioni su aree di lavoro e partizioni di persone {#understanding-workspaces-and-person-partitions}
+# Aree di lavoro e partizioni di persone {#understanding-workspaces-and-person-partitions}
 
-## Workspaces {#workspaces}
+## Aree di lavoro {#workspaces}
 
 >[!CAUTION]
 >
->Le aree di lavoro possono essere complesse da configurare.  Contattate il [supporto](http://support.marketo.com/) di Marketo per sapere se è il momento giusto per voi.
+>Le aree di lavoro possono essere complesse da configurare.  Contattate il supporto [Marketo](http://support.marketo.com/) per sapere se è adatto a voi.
 
 Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing come programmi, pagine di destinazione, e-mail e altro ancora. Possono essere utilizzati da più persone. Ogni utente ha accesso a una o più aree di lavoro.
 
@@ -60,7 +60,7 @@ Di seguito viene illustrato come condividere risorse tra diverse aree di lavoro.
 
    ![](assets/three.png)
 
-1. Fate clic con il pulsante destro del mouse sulla cartella e selezionate **Condividi cartella**.
+1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **Condividi cartella**.
 
    ![](assets/four.png)
 
@@ -105,9 +105,9 @@ Per spostare le risorse in una nuova area di lavoro, inseritele in una cartella 
 
 ## Partizioni di persona {#person-partitions}
 
-Le partizioni delle persone si comportano come database separati. Ogni partizione ha le proprie persone che non disaccoppiano o si mescolano con altre partizioni. Se ritieni di avere un caso d&#39;uso aziendale che potrebbe richiedere la presenza di record duplicati con lo stesso indirizzo e-mail, contatta il [supporto](http://support.marketo.com)Marketo.
+Le partizioni delle persone si comportano come database separati. Ogni partizione ha le proprie persone che non disaccoppiano o si mescolano con altre partizioni. Se ritieni di avere un caso d&#39;uso aziendale che potrebbe richiedere la presenza di record duplicati con lo stesso indirizzo e-mail, contatta il [Supporto marketing](http://support.marketo.com).
 
-È possibile assegnare partizioni di persone alle aree di [lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
+È possibile assegnare partizioni di persona a [aree di lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
 
 * un&#39;area di lavoro a una partizione personale (1:1)
 * un&#39;area di lavoro a più partizioni (1:x)
@@ -134,5 +134,5 @@ Le partizioni delle persone si comportano come database separati. Ogni partizion
 >
 >**Tubo profondo**
 >
-> Scopri come [creare una partizione](create-a-person-partition.md)personale.
+> Scopri come [creare una partizione per persona](create-a-person-partition.md).
 
