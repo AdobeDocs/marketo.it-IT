@@ -26,13 +26,13 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-## Immettere le informazioni utente di Dynamics Sync {#enter-dynamics-sync-user-information}
+## Immettere le informazioni sull&#39;utente di sincronizzazione delle dinamiche {#enter-dynamics-sync-user-information}
 
-1. Accedi a Marketo e fai clic su **Admin**.
+1. Accedete a Marketo e fate clic su **Admin**.
 
    ![](assets/login-admin.png)
 
-1. Fate clic su **CRM**.
+1. Fare clic su **CRM**.
 
    ![](assets/image2015-3-16-9-47-34.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Fate clic su **Modifica** nel **passaggio 1: Immettere le credenziali**.
+1. Fare clic su **Modifica** in **Passaggio 1: Immettere Credentials**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -48,25 +48,25 @@ ht-degree: 0%
    >
    >Verificate che le credenziali siano corrette in quanto non sarà possibile ripristinare le modifiche successive dello schema dopo l&#39;invio. Se vengono salvate credenziali errate, dovrete ottenere una nuova iscrizione a Marketo.
 
-1. Immettete il **nome** utente, la **password** un **URL** di Microsoft Dynamics e un ID **** client facoltativo. Al termine, fate clic su **Salva** .
+1. Immettete il **Nome utente**, **Password** in Microsoft Dynamics **URL** e un **ID client** facoltativo. Fare clic su **Salva** al termine.
 
    ![](assets/client-id.png)
 
    >[!NOTE]
    >
-   >Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1) o DOMINIO\utente.
+   >Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1) o DOMAIN\user.
 
    >[!TIP]
    >
-   >Non conosci l&#39;URL? Verrà illustrato come trovare l&#39;URL [del servizio](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) Dynamics Organization.
+   >Non conosci l&#39;URL? Verrà illustrato come trovare l&#39; [URL del servizio di organizzazione dinamica](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) qui.
 
-## Seleziona campi da sincronizzare {#select-fields-to-sync}
+## Selezionare i campi da sincronizzare {#select-fields-to-sync}
 
-1. Fate clic su **Modifica** nel **passaggio 2: Selezionare Campi da sincronizzare**.
+1. Fare clic su **Modifica** in **Passaggio 2: Selezionare Campi da sincronizzare**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Selezionate i campi che desiderate sincronizzare con Marketo, in modo che siano preselezionati. Fate clic su **Salva**.
+1. Selezionate i campi che desiderate sincronizzare con Marketo, in modo che siano preselezionati. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
@@ -74,21 +74,21 @@ ht-degree: 0%
 
 Se avete creato un filtro personalizzato, accertatevi di entrare e selezionare i nuovi campi da sincronizzare con Marketo.
 
-1. Vai ad Admin e seleziona **Microsoft Dynamics**.
+1. Accedi ad Admin e seleziona **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Fate clic su **Modifica** in Dettagli sincronizzazione campo.
+1. Fare clic su **Modifica** in Dettagli sincronizzazione campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scorri verso il basso fino al campo e controllalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fate clic su **Salva**.
+1. Scorri verso il basso fino al campo e controllalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 
 ## Abilita sincronizzazione {#enable-sync}
 
-1. Fate clic su **Modifica** nel **passaggio 3: Abilita sincronizzazione**.
+1. Fare clic su **Modifica** in **Passaggio 3: Abilita Sync**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
