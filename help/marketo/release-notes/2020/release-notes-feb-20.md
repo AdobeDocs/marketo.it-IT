@@ -19,9 +19,9 @@ Le seguenti funzionalità sono incluse nella release di febbraio 20. Per informa
 >
 >**Disponibilità**
 >
->Le caratteristiche indicate da una stella ( ![(stella)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contattate il rappresentante del Marketo Engage.
+>Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contattate il rappresentante del Marketo Engage.
 
-***Rilasci*** trimestrali Le seguenti funzionalità sono state rilasciate il 21 **febbraio 2020**.
+***Rilasci*** trimestraliLe seguenti funzionalità sono state rilasciate il 21  **febbraio 2020**.
 
 ## Marketo Engage di base {#core-marketo-engage}
 
@@ -38,7 +38,7 @@ Le seguenti funzionalità sono incluse nella release di febbraio 20. Per informa
 ***Rilascio per tutto il trimestre***
 
 Le seguenti funzionalità sono su un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
-**Bizible ![(stella)](assets/star-yellow.svg)
+**Bizible ![(star)](assets/star-yellow.svg)
 
 **
 
@@ -46,7 +46,7 @@ Le seguenti funzionalità sono su un ciclo non trimestrale e verranno rilasciate
 * **Salvataggio dei filtri**: Salvate i filtri specifici per ogni utente, per analizzare le dashboard in modo rapido e coerente.
 * **Esporta in PDF**: Condividi approfondimenti preziosi all’interno dell’organizzazione esportando dashboard Bizible come PDF.
 
-## Connect vendite  {#sales-connect}
+## Connect vendite {#sales-connect}
 
 * **Componi aggiornamenti** finestra: Abbiamo semplificato la procedura per la selezione dei modelli e l&#39;invio di e-mail tramite Sales Connect. Utilizza la finestra Componi nel nostro client Web e Salesforce come punto vendita unico per i venditori, con la possibilità di salvare le categorie dei modelli, pianificare e-mail, inviare e-mail in massa e inviare e-mail con la visualizzazione e fare clic sul tracciamento.
 * **Aggiornamenti** del centro comandi: Stiamo ricostruendo il centro di comando di vendita di Connect per fornire ai venditori informazioni approfondite su tutte le e-mail, le chiamate e le attività che sono state avviate da Sales Connect. Possono inoltre visualizzare informazioni come l&#39;impegno e la recapito delle e-mail dal Centro comandi.
@@ -59,7 +59,7 @@ Le seguenti funzionalità sono su un ciclo non trimestrale e verranno rilasciate
 
 ## Deprecazioni {#deprecations}
 
-* **Parametro**&quot;_method&quot; dell&#39;API risorsa: Dopo settembre 2020, gli endpoint API risorsa non accetteranno più &quot;_method&quot; per passare i parametri di query in un corpo POST per bypassare i limiti di lunghezza URI. Per soddisfare le richieste che richiedevano questo parametro, il limite URI per le API delle risorse verrà aumentato da 6KiB a 65KiB, in modo da poter inviare gli URI delle richieste lunghe.
+* **Parametro** &quot;_method&quot; dell&#39;API risorsa: Dopo settembre 2020, gli endpoint API risorsa non accetteranno più &quot;_method&quot; per passare i parametri di query in un corpo POST per bypassare i limiti di lunghezza URI. Per soddisfare le richieste che richiedevano questo parametro, il limite URI per le API delle risorse verrà aumentato da 6KiB a 65KiB, in modo da poter inviare gli URI delle richieste lunghe.
 * **Deprecazione** supporto Internet Explorer: A partire dalla release di luglio del 31 luglio 2020, l&#39;interfaccia utente del Marketo Engage non sarà più supportata in Internet Explorer.
 
-***Webinar*** sulla versione del prodotto [Partecipa](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) il 3 marzo alle ore 11:00 PT / 2:00 PM ET per un webinar live ospitato dal nostro team di prodotti e scopri ulteriori informazioni sulle funzionalità incluse in questa versione.
+***Webinar*** [sul rilascio del prodottoIscriviti ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) il 3 marzo alle 11:00 PT / 2:00 PM ET per un webinar live ospitato dal nostro team di prodotti e scopri ulteriori informazioni sulle funzionalità incluse in questa versione.
