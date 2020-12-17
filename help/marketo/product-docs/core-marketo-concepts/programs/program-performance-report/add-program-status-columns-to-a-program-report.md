@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi colonne di stato del programma a un rapporto del programma {#add-program-status-columns-to-a-program-report}
+# Aggiungi colonne stato programma a un report programma {#add-program-status-columns-to-a-program-report}
 
-Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del](create-a-program-performance-report.md)programma.
+Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del programma](create-a-program-performance-report.md).
 
 1. Vai a Attività di marketing (o Analytics).
 
@@ -33,7 +33,7 @@ Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del]
 
    >[!TIP]
    >
-   >Per visualizzare le colonne di stato del programma, il rapporto deve essere filtrato per *un solo* canale.
+   >Per visualizzare le colonne di stato del programma, il rapporto deve essere filtrato per *un solo canale*.
 
 1. Selezionare l&#39;opzione Mostra colonne stato programma. Fate clic su Applica.
 
@@ -45,7 +45,7 @@ Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del]
 
 >[!NOTE]
 >
->Se non viene visualizzata una colonna per ogni stato del programma, assicurarsi di aver [selezionato le colonne da visualizzare](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) nel rapporto.
+>Se non viene visualizzata una colonna per ogni stato del programma, assicurarsi di aver [selezionato le colonne da mostrare](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) nel rapporto.
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del]
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni in [Reporting](http://docs.marketo.com/display/docs/basic+reporting)di base.
+>Ulteriori informazioni in [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
