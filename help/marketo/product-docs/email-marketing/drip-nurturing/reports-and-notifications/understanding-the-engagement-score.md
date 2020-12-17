@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Comprendere il punteggio di coinvolgimento {#understanding-the-engagement-score}
+# Nozioni di base sul punteggio di coinvolgimento {#understanding-the-engagement-score}
 
-Il punteggio di coinvolgimento facilita la visualizzazione dell&#39;efficacia dei contenuti del programma di coinvolgimento. Il punteggio va da 0 a 100. Controllate [il pannello](the-engagement-dashboard.md) Partecipazione per vedere come tenere traccia delle prestazioni del contenuto.
+Il punteggio di coinvolgimento facilita la visualizzazione dell&#39;efficacia dei contenuti del programma di coinvolgimento. Il punteggio va da 0 a 100. Controllate [il pannello Partecipazione](the-engagement-dashboard.md) per vedere come tenere traccia delle prestazioni del contenuto.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -23,7 +23,7 @@ Il punteggio si basa su un algoritmo proprietario che tiene conto del comportame
 
 >[!NOTE]
 >
->Quando i programmi vengono utilizzati come contenuto nei flussi, il punteggio di coinvolgimento si basa sull&#39;appartenenza al programma e sullo stato di successo, **non** sull&#39;interazione e-mail (clic, aperture, annullamento dell&#39;iscrizione).
+>Quando i programmi vengono utilizzati come contenuto nei flussi, il punteggio di coinvolgimento si basa sull&#39;appartenenza al programma e sullo stato di successo, l&#39;interazione e-mail **non** (clic, aperture, annullamento dell&#39;iscrizione).
 
 I punteggi di coinvolgimento sono universali per tutti i clienti. Potete confrontarli per vedere chi dispone dei contenuti più coinvolgenti.
 
