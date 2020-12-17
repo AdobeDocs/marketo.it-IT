@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Trovare una persona dai risultati di un elenco o di un elenco avanzato utilizzando la funzione di ricerca rapida.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate l’elenco avanzato da cercare e fate clic sulla scheda **Persone** .
+1. Selezionate l&#39;elenco di smart list da cercare, quindi fate clic sulla scheda **Persone**.
 
    ![](assets/smartlistpeople.png)
 
 ## Trova persone che utilizzano informazioni personali {#find-people-using-personal-info}
 
-1. Nella casella Trova **** rapida in fondo alla schermata, digitate una parola chiave (nome **** personale, indirizzo **** e-mail o titolo **** processo).
+1. Nella casella **Ricerca rapida** in fondo allo schermo, digitare una parola chiave (**nome personale**, **indirizzo e-mail** o **titolo processo**).
 
    ![](assets/searchpeople.png)
 
 1. Premere Invio o fare clic sull&#39;icona di ricerca e si è pronti!
 
-## Trova persone che utilizzano un nome società {#find-people-using-a-company-name}
+## Trova persone che utilizzano il nome della società {#find-people-using-a-company-name}
 
-1. Per trovare una società, digitare [**company**] nella casella Trova **** rapido, seguita da qualsiasi parte del nome della società che si sta cercando.
+1. Per trovare una società, digitare [**company**] nella casella **Ricerca rapida**, seguita da una parte qualsiasi del nome della società che si sta cercando.
 
    ![](assets/supersmartlistsearch.jpg)
 
