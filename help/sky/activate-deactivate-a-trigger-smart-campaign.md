@@ -16,7 +16,7 @@ L&#39;attivazione/disattivazione di una campagna smart trigger consiste fondamen
 
 ## Attivare una campagna di attivazione
 
-1. Nella campagna intelligente, fate clic sulla **[!UICONTROL Schedule]** scheda.
+1. Nella campagna intelligente, fate clic sulla scheda **[!UICONTROL Schedule]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ L&#39;attivazione/disattivazione di una campagna smart trigger consiste fondamen
    >
    >Rivedete la campagna intelligente prima di attivarla.
 
-1. Fate clic **[!UICONTROL Activate]**.
+1. Fare clic su **[!UICONTROL Activate]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,14 +36,14 @@ Da questo momento in poi, chiunque si qualifichi per l’elenco smart passerà a
 
 ## Disattiva una campagna di attivazione
 
-1. Nella campagna intelligente, fate clic sulla **[!UICONTROL Schedule]** scheda.
+1. Nella campagna intelligente, fate clic sulla scheda **[!UICONTROL Schedule]**.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Fate clic **[!UICONTROL Deactivate]**.
+1. Fare clic su **[!UICONTROL Deactivate]**.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
 >[!NOTE]
 >
->In questo modo si impedirà a _nuove_ persone di entrare nel flusso, ma le persone in fase di attesa o qualsiasi altro passaggio del flusso continueranno a spostarsi attraverso il flusso fino a quando non sarà completato.
+>In questo modo _new_ le persone non entreranno nel flusso, ma le persone in fase di attesa o in qualsiasi altro passaggio del flusso continueranno a spostarsi nel flusso fino al completamento.
