@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketing o Vendite vuole un nuovo campo. Oppure, forse ne hai dimenticato uno nella selezione iniziale del campo. Oppure, le vostre esigenze sono cambiate. In ogni caso, potete utilizzare la sincronizzazione rapida per risincronizzare campi specifici.
 
-In genere, per aggiungere un nuovo campo e aggiornare i valori si utilizza la sincronizzazione rapida. Tuttavia, in alcuni casi potrebbe essere utile sincronizzare un campo esistente. Puoi limitare la sincronizzazione dei campi in base a un intervallo di date aggiornato o creato. Consultate Opzioni [di sincronizzazione](#Advanced_Sync_Options) avanzate di seguito.
+In genere, per aggiungere un nuovo campo e aggiornare i valori si utilizza la sincronizzazione rapida. Tuttavia, in alcuni casi potrebbe essere utile sincronizzare un campo esistente. Puoi limitare la sincronizzazione dei campi in base a un intervallo di date aggiornato o creato. Per ulteriori informazioni, vedere [Opzioni di sincronizzazione avanzate](#Advanced_Sync_Options) di seguito.
 
 Sincronizzazione rapida può sincronizzare valori null. Ad esempio, se utilizzi i valori A e B e cambi il valore B in Dynamics su null, sincronizzerà il valore null su Marketo.
 
@@ -23,7 +23,7 @@ Sincronizzazione rapida può sincronizzare valori null. Ad esempio, se utilizzi 
 
 Come utilizzare la sincronizzazione rapida per eseguire nuovamente la sincronizzazione per i nuovi campi.
 
-1. In Marketo, fai clic su **Admin**.
+1. In Marketo, fare clic su **Admin**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,7 +31,7 @@ Come utilizzare la sincronizzazione rapida per eseguire nuovamente la sincronizz
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. In Dettagli sincronizzazione campo, fate clic su **Modifica**.
+1. In Dettagli sincronizzazione campo, fare clic su **Modifica**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -55,7 +55,7 @@ Come utilizzare la sincronizzazione rapida per eseguire nuovamente la sincronizz
 
 Cosa succede se vuoi sincronizzare un campo esistente, ma solo per un set limitato di dati? Ecco come.
 
-1. Deselezionare la casella di controllo per un campo esistente. Fate clic su **Salva**.
+1. Deselezionare la casella di controllo per un campo esistente. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
@@ -63,11 +63,11 @@ Cosa succede se vuoi sincronizzare un campo esistente, ma solo per un set limita
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Fate clic su Sincronizzazione **** avanzata.
+1. Fare clic su **Advanced Sync**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Scegliere **Aggiornato **e selezionare un intervallo di date utilizzando i selettori data. Fate clic su **Salva**.
+1. Scegliere **Aggiornato **e selezionare un intervallo di date utilizzando i selettori data. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -77,11 +77,11 @@ Cosa succede se vuoi sincronizzare un campo esistente, ma solo per un set limita
 
 Nel raro caso in cui un campo Dynamics e Marketo non siano sincronizzati, esiste un modo rapido e semplice per sincronizzarli.
 
-1. Deselezionate il campo e fate clic su **Salva**.
+1. Deselezionare il campo e fare clic su **Salva**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. Selezionate nuovamente il campo e fate clic su **Salva**. È tutto!
+1. Selezionare nuovamente il campo e fare clic su **Salva**. È tutto!
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
