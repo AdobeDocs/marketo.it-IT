@@ -27,7 +27,7 @@ Quando [create o modificate un ruolo](../../../../product-docs/administration/us
 
 ![](assets/createnewrole.png)
 
-## Accesso amministratore  {#access-admin}
+## Accedi all&#39;amministratore {#access-admin}
 
 Visualizza e apporta modifiche alle impostazioni nella sezione Account personale dell&#39;amministratore.
 
@@ -35,7 +35,7 @@ Visualizza e apporta modifiche alle impostazioni nella sezione Account personale
 * Canali di accesso: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
 * Limite di comunicazione di accesso: consente agli utenti di abilitare un limite di comunicazione in Amministratore
 * Accesso a CRM: consente agli utenti di accedere a CRM, ad esempio Salesforce o Microsoft Dynamics, in Amministratore
-* Access [Data.com](http://Data.com) - Fornisce agli utenti l&#39;accesso all&#39;azione di flusso Data.com
+* Accesso [Data.com](http://Data.com) - Consente agli utenti di accedere all&#39;azione di flusso Data.com
 * Accedi all’amministratore delle e-mail: offre agli utenti l’amministratore delle e-mail, per modificare le impostazioni predefinite, ad esempio i domini di annullamento della sottoscrizione e del marchio
 * Accesso ai partner dell&#39;evento - Consente agli utenti di accedere a LaunchPoint in Admin
 * Accesso a Gestione dei campi - Consente agli utenti di accedere a Gestione dei campi in Amministratore
@@ -59,9 +59,9 @@ Visualizza e apporta modifiche alle impostazioni nella sezione Account personale
 * Accesso ai webhooks - Consente agli utenti di accedere ai webhooks in Amministratore, per impostare i dettagli e le mappature delle risposte
 * Accesso a aree di lavoro e partizioni: consente agli utenti di creare, modificare ed eliminare aree di lavoro e partizioni in Amministratore
 
-## API Access  {#access-api}
+## API Access {#access-api}
 
-Fornisce agli utenti l&#39;accesso **API Only** **Role** (Solo API) alle singole API elencate di seguito.
+Fornisce agli utenti l&#39;accesso **Solo API** **Ruolo** alle singole API elencate di seguito.
 
 * Approva risorse
 * Esegui campagna
@@ -108,7 +108,7 @@ Consente agli utenti di accedere alla scheda Design Studio e alla visualizzazion
 
    * Modifica e-mail: consente agli utenti di modificare, creare e duplicare e-mail
 
-      * Rendi e-mail operativa: consente agli utenti di rendere operativa un&#39;e-mail. Vedere: [Impostazione di un&#39;e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Rendi e-mail operativa: consente agli utenti di rendere operativa un&#39;e-mail. Vedere: [Rendere operativo un&#39;e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * Approva e-mail: consente agli utenti di approvare le e-mail.
    * Elimina e-mail: consente agli utenti di eliminare i messaggi e-mail.
    * Imposta dominio con brand: consente agli utenti di lavorare con i domini di branding. Vedere: [Aggiungi più domini di branding](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
@@ -154,7 +154,7 @@ Consente agli utenti di accedere alla scheda Design Studio e alla visualizzazion
    * Elimina app social
    * Modifica app social
 
-## Database di Access {#access-database}
+## Database di accesso {#access-database}
 
 Visualizzare il database, nonché visualizzare e modificare gli elenchi smart/statici.
 
@@ -172,7 +172,7 @@ Visualizzare il database, nonché visualizzare e modificare gli elenchi smart/st
 * Importa oggetto personalizzato
 * Importa elenco
 * Unisci persone
-* Esecuzione di azioni di flusso singolo - Consente agli utenti di eseguire il passaggio **Modifica flusso valore** dati sulle persone provenienti dal database
+* Esecuzione di azioni di flusso singolo - Consente agli utenti di eseguire il passaggio di flusso **Modifica valore dati** sulle persone provenienti dal database
 
 * Visualizza dati opportunità - Nasconde le informazioni sull&#39;opportunità nella pagina dei dettagli della persona
 
