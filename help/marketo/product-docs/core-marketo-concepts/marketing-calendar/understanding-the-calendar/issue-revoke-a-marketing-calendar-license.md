@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-Per utilizzare le postazioni [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar) , dovete rilasciare licenze agli utenti che ne hanno bisogno. Ecco come.
+Per utilizzare le postazioni [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar), è necessario rilasciare licenze agli utenti che necessitano dell&#39;accesso. Ecco come.
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/adminhand.png)
 
-1. Fate clic su **Utenti e ruoli**.
+1. Fare clic su **Utenti e ruoli**.
 
    ![](assets/2.png)
 
-1. Selezionate gli utenti e fate clic su Licenza **edizione.**
+1. Selezionare gli utenti e fare clic su **Licenza edizione.**
 
    >[!TIP]
    >
-   >Usate **Ctrl/Comando+clic** per selezionare più utenti contemporaneamente.
+   >Utilizzate **Ctrl/Comando+clic** per selezionare più utenti contemporaneamente.
 
    ![](assets/3.png)
 
-1. Selezionate **Abilita licenza** e fate clic su **Salva.**
+1. Selezionare **Abilita licenza** e fare clic su **Salva.**
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Per utilizzare le postazioni [Marketing Calendar](http://docs.marketo.com/displa
 
    ![](assets/4.png)
 
-   Ben fatto! Vedere il segno di spunta verde in **Calendario**?
+   Ben fatto! Vedere il segno di spunta verde in **Calendar**?
 
    ![](assets/5.png)
 
