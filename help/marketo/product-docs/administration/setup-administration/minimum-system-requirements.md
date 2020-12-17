@@ -22,6 +22,6 @@ Se ti stai chiedendo a cosa devi accedere e usare Marketo, ecco le informazioni 
 * Computer o laptop con Windows, OS X o Linux
 * Tastiera e mouse
 * Monitor con una risoluzione minima di 1280 x 768
-* Browser aggiornato. Per informazioni, consultate Browser [supportati](supported-browsers.md) .
+* Browser aggiornato, consultare [Browser supportati](supported-browsers.md) per ulteriori informazioni
 * Connessione Internet
 
