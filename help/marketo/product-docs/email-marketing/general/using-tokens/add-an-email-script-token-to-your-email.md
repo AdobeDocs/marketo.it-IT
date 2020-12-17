@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un token di script e-mail al messaggio e-mail {#add-an-email-script-token-to-your-email}
+# Aggiungere un token di script e-mail all&#39;e-mail {#add-an-email-script-token-to-your-email}
 
-Dopo aver [creato lo script e-mail,](create-an-email-script-token.md)è necessario aggiungerlo a un messaggio e-mail per visualizzarlo in azione. Ecco come.
+Dopo aver [creato lo script e-mail,](create-an-email-script-token.md)aggiungere lo script a un&#39;e-mail per visualizzarlo in azione. Ecco come.
 
 >[!NOTE]
 >
