@@ -23,21 +23,21 @@ Creare una nuova partizione di persona seguendo questi passaggi.
 >
 >**Tubo profondo**
 >
->Comprendere innanzitutto [le aree di lavoro e le partizioni](understanding-workspaces-and-person-partitions.md)delle persone.
+>Comprendere prima con [Informazioni su aree di lavoro e partizioni di persone](understanding-workspaces-and-person-partitions.md).
 
 >[!CAUTION]
 >
->Le partizioni delle persone possono essere complesse. Contatta [Markeper assistenza](http://support.marketo.com/) sulla loro configurazione.
+>Le partizioni delle persone possono essere complesse. Contattare [Marketo supporto](http://support.marketo.com/) per assistenza nella configurazione.
 
 1. In Admin (Amministratore), selezionate Workspaces e partizioni.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
-1. Fare clic sulla scheda **Partizioni** di persona e quindi su **Nuova partizione** di persona.
+1. Passare alla scheda **Partizioni di persona** e fare clic su **Nuova partizione di persona**.
 
    ![](assets/two-2.png)
 
-1. Denominate la partizione, scegliete le **aree di lavoro** in cui apparirà e fate clic **su Crea.**
+1. Denominate la partizione, scegliete le **aree di lavoro** in cui apparirà e fate clic su **Crea.**
 
    ![](assets/three-2.png)
 
