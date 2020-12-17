@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modificare gli elementi in un messaggio e-mail {#edit-elements-in-an-email}
+# Modificare gli elementi in un&#39;e-mail {#edit-elements-in-an-email}
 
 Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e video. Ecco come modificare ciascuno.
 
@@ -21,7 +21,7 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
 
    ![](assets/one-edited.png)
 
-1. Viene aperto l’editor e-mail. Selezionate il testo RTF, fate clic sull’icona a forma di ingranaggio e selezionate **Modifica**.
+1. Viene aperto l’editor e-mail. Selezionate il testo RTF, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Modifica**.
 
    ![](assets/two.png)
 
@@ -38,19 +38,19 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
    >**Promemoria**
    >
    >
-   >Potete inoltre aggiungere immagini, token, tabelle e altri elementi. Vedere [Utilizzo dell&#39;Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)Rich Text.
+   >Potete inoltre aggiungere immagini, token, tabelle e altri elementi. Vedere [Utilizzo dell&#39;Editor Rich Text](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
    >Evitate di copiare e incollare testo da un’origine di testo RTF, ad esempio un sito Web o un documento Word. Invece, incollate prima il testo RTF in un editor di testo normale, ad esempio Blocco note (Windows) o TextEdit (Mac). Una volta &quot;pulito&quot;, potete copiarlo dall&#39;editor di testo semplice e incollarlo nell&#39;e-mail.
 
-## Come modificare l’elemento immagine {#how-to-edit-the-image-element}
+## Come modificare l&#39;elemento immagine {#how-to-edit-the-image-element}
 
 1. Fate clic all’interno del modulo con l’elemento Immagine per selezionarlo.
 
    ![](assets/five.png)
 
-1. Fate clic sull’elemento immagine da modificare, quindi fate clic sull’icona a forma di ingranaggio e selezionate **Modifica**.
+1. Fare clic sull&#39;elemento Immagine che si desidera modificare, quindi fare clic sull&#39;icona a forma di ingranaggio e selezionare **Modifica**.
 
    ![](assets/six.png)
 
@@ -74,7 +74,7 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
 
    **Risorse del computer**
 
-   Per caricare un’immagine dal computer, fate clic su **Sfoglia**.
+   Per caricare un&#39;immagine dal computer, fare clic su **Sfoglia**.
 
    ![](assets/nine.png)
 
@@ -88,7 +88,7 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
 
    >[!NOTE]
    >
-   >Per sostituire un’immagine, è necessario selezionare la casella **Sovrascrivi immagine** esistente visualizzata sotto l’URL/nome immagine.
+   >Per sostituire un&#39;immagine, è necessario selezionare la casella **Sovrascrivi immagine esistente** visualizzata sotto l&#39;URL/nome immagine.
 
    **Design** StudioPer inserire un&#39;immagine da Design Studio, è sufficiente individuarla...
 
@@ -99,13 +99,13 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
 
 Per usare un URL esterno, incollate prima l’URL dell’immagine. Modificate le dimensioni in base alle vostre esigenze e aggiungete del testo Alt (facoltativo). Quindi premere .               ...e inserirla. Modificate le dimensioni in base alle vostre esigenze, modificate il Testo Alt (facoltativo), quindi premete .
 
-## Come modificare l’elemento snippet {#how-to-edit-the-snippet-element}
+## Come modificare l&#39;elemento snippet {#how-to-edit-the-snippet-element}
 
 1. Fate clic all&#39;interno del modulo con l&#39;elemento Snippet.
 
    ![](assets/fourteen.png)
 
-1. Fate clic sull’elemento Snippet, quindi sull’icona a forma di ingranaggio e selezionate **Modifica**.
+1. Fare clic sull&#39;elemento Snippet, quindi sull&#39;icona a forma di ingranaggio e selezionare **Edit**.
 
    ![](assets/fifteen.png)
 
@@ -123,11 +123,11 @@ Per usare un URL esterno, incollate prima l’URL dell’immagine. Modificate le
 
    ![](assets/nineteen.png)
 
-1. Fate clic sull’elemento Video, quindi sull’icona a forma di ingranaggio e selezionate **Modifica**.
+1. Fate clic sull&#39;elemento Video, quindi sull&#39;icona a forma di ingranaggio e selezionate **Modifica**.
 
    ![](assets/twenty.png)
 
-1. Incolla nell’URL del video da Vimeo o YouTube. Fate clic fuori dalla casella URL per il caricamento dell’anteprima. Modificate le dimensioni in base alle vostre esigenze, aggiungete Testo Alt (facoltativo), quindi premete **Inserisci**.
+1. Incolla nell’URL del video da Vimeo o YouTube. Fate clic fuori dalla casella URL per il caricamento dell’anteprima. Modificate le dimensioni in base alle vostre esigenze, aggiungete Alt Text (facoltativo), quindi premete **Insert**.
 
    ![](assets/twentyone.png)
 
