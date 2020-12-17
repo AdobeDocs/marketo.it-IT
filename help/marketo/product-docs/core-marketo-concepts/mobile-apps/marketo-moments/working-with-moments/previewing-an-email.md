@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Anteprima di un messaggio e-mail {#previewing-an-email}
+# Anteprima di un&#39;e-mail {#previewing-an-email}
 
 Fare clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l&#39;anteprima, prima di premere il trigger.
 
