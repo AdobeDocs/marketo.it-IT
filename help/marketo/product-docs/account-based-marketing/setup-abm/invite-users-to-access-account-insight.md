@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Invitare gli utenti ad accedere a Visione account {#invite-users-to-access-account-insight}
+# Invito degli utenti ad accedere all&#39;account Insight {#invite-users-to-access-account-insight}
 
 Seguite questi passaggi per consentire agli utenti di accedere a Account Insight.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Fate clic su **Utenti e ruoli** nella struttura. Quindi fate clic sulla scheda **Sales Users** (Utenti **di vendita) e** Invite New Sales User (Invita nuovo utentedi vendita).
+1. Fare clic su **Utenti e ruoli** nella struttura. Quindi fare clic sulla scheda **Vendite utenti** e **Invita nuovo utente vendite**.
 
    ![](assets/two-6.png)
 
@@ -29,27 +29,27 @@ Seguite questi passaggi per consentire agli utenti di accedere a Account Insight
    >
    >Quando inviti nuovi utenti (non Marketo) tramite l&#39;elenco di utenti CRM, puoi invitare più persone alla volta. L’invito per e-mail è 1 per 1.
 
-1. Fai clic sul menu a discesa Utente **** CRM e seleziona l&#39;utente desiderato.
+1. Fare clic sul menu a discesa **Utente CRM** e selezionare l&#39;utente desiderato.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Se scegliete **Invita utente per e-mail**, immettete semplicemente il nome, il cognome e l’indirizzo e-mail dell’utente, quindi continuate con il passaggio 4.
+   >Se scegliete **Invita utente per e-mail**, immettete semplicemente il nome, il cognome e l&#39;indirizzo e-mail e continuate con il passaggio 4.
 
 1. Per impostare una data di scadenza per l&#39;accesso dell&#39;utente (facoltativo), fate clic sull&#39;icona del calendario. Per impostazione predefinita è impostata su &quot;never&quot;.
 
    ![](assets/four-5.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/five-5.png)
 
-1. Selezionate la casella di controllo **Account Insight** e fate clic su **Avanti**.
+1. Selezionare la casella **Account Insight** e fare clic su **Next**.
 
    ![](assets/six-3.png)
 
-1. Controllate il messaggio di invio, apportate le modifiche desiderate (facoltativo) e fate clic su **Invia**.
+1. Controllate il messaggio di invio, apportate le modifiche desiderate (facoltativo) e fate clic su **Send**.
 
    ![](assets/seven-2.png)
 
