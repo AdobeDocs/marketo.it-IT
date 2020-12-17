@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella versione di agosto 2014. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo. Tornate dopo il rilascio per i collegamenti alla documentazione dettagliata sulle funzioni.
 
-## Licenze Marketing Calendar {#marketing-calendar-licenses}
+## Licenze calendario marketing {#marketing-calendar-licenses}
 
-Dopo il 5 settembre 2014, solo 5 utenti possono accedere gratuitamente al calendario di marketing. Assicuratevi di [emettere/revocare una licenza](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) Marketing Calendar agli utenti di vostra scelta prima di tale data, per un accesso senza interruzioni.
+Dopo il 5 settembre 2014, solo 5 utenti possono accedere gratuitamente al calendario di marketing. Assicurati di [Rilasciare/revocare una licenza di Marketing Calendar](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti di tua scelta prima di allora per un accesso senza interruzioni.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nuove autorizzazioni utente {#new-user-permissions}
 
@@ -33,13 +33,13 @@ Sono state aggiunte le seguenti nuove autorizzazioni utente:
 | Attiva campagna di attivazione | Controllare chi può e non può attivare le campagne di attivazione. |
 | Pianificazione campagna batch | Controllare chi può e non può pianificare l&#39;esecuzione di campagne batch. |
 
-## Esportare utenti e ruoli da Amministratore {#export-users-and-roles-from-admin}
+## Esportare utenti e ruoli dall&#39;amministratore {#export-users-and-roles-from-admin}
 
-Ora puoi [esportare un elenco di utenti e ruoli](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Potete anche includere una marca temporale &quot;Ultimo login&quot; da includere nell’esportazione.
+È ora possibile [Esportare un elenco di utenti e ruoli](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Potete anche includere una marca temporale &quot;Ultimo login&quot; da includere nell’esportazione.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
-## Eliminare canali e tag {#delete-channels-and-tags}
+## Elimina canali e tag {#delete-channels-and-tags}
 
 È ora possibile eliminare tutti i canali e gli stati inutilizzati. Come sempre, potete nascondere solo uno che è attualmente in uso.
 
@@ -69,19 +69,19 @@ Hai chiesto alla comunità e abbiamo consegnato! Ora puoi includere, escludere o
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Segmentazione e targeting migliorati 1:1 {#enhanced-segmentation-and-targeting}
+## Segmentazione 1:1 e targeting migliorati {#enhanced-segmentation-and-targeting}
 
 Ora potete utilizzare operatori di filtri avanzati per eseguire il targeting dei visitatori noti.
 
 ![](assets/image2014-9-16-12-3a23-3a56.png)
 
-## Condivisione delle campagne {#campaign-sharing}
+## Condivisione campagna {#campaign-sharing}
 
 Ora è possibile condividere in modo rapido e semplice un collegamento di anteprima della campagna RTP.
 
 ![](assets/image2014-9-16-12-3a24-3a22.png)
 
-## Report del motore di raccomandazione contenuto {#content-recommendation-engine-report}
+## Report motore di raccomandazione contenuto {#content-recommendation-engine-report}
 
 Abbiamo aggiunto un nuovo report sul motore di raccomandazione per il contenuto per consentirvi di visualizzare un bel riepilogo.
 
