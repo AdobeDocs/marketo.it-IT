@@ -17,11 +17,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Fate clic su Azioni **persona** e **Microsoft,** quindi selezionate **Sincronizza persona con Microsoft**.
+1. Fare clic su **Azioni persona** e **Microsoft,** e selezionare **Sincronizza persona con Microsoft**.
 
    ![](assets/two.png)
 
-1. Fate clic su **Sincronizza con nome** e selezionate **Contatto**. Fate clic su **Esegui ora**.
+1. Fare clic su **Sincronizza con nome** e selezionare **Contatto**. Fare clic su **Esegui ora**.
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Ora, potete selezionare **Contatta** quando utilizzate il vincolo Sinc. come in un filtro per campagne smart.
+1. Ora, potete selezionare **Contact** quando utilizzate il vincolo Sinc. come in un filtro di campagna intelligente.
 
    ![](assets/five.png)
 
