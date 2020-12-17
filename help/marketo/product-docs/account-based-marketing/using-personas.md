@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Le persone sono un ottimo modo per segmentare il pubblico e il mercato di ABM a uno specifico sottoinsieme di persone.
 
-## Aggiungi una Persona {#add-a-persona}
+## Aggiungere una persona {#add-a-persona}
 
-1. In My Marketo, fai clic su **Admin**.
+1. In My Marketo, fare clic su **Admin**.
 
    ![](assets/one.png)
 
@@ -25,7 +25,7 @@ Le persone sono un ottimo modo per segmentare il pubblico e il mercato di ABM a 
 
    ![](assets/two.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ Le persone sono un ottimo modo per segmentare il pubblico e il mercato di ABM a 
 
    ![](assets/four.png)
 
-1. Assegna un nome al tuo utente e seleziona il campo corrispondente nel menu a discesa. Potete aggiungere fino a due persone aggiuntive. Al termine, fate clic su **Salva** .
+1. Assegna un nome al tuo utente e seleziona il campo corrispondente nel menu a discesa. Potete aggiungere fino a due persone aggiuntive. Fare clic su **Salva** al termine.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Visualizza le tue persone visitando uno specifico Account con nome.
 
    ![](assets/one-a.png)
 
-1. Fate clic sulla scheda **Personas** .
+1. Fare clic sulla scheda **Personas**.
 
    ![](assets/two-a.png)
 
