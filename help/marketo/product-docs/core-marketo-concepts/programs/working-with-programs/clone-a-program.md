@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È possibile duplicare rapidamente e facilmente un intero programma e tutte le relative risorse invece di ricostruire manualmente tutto. Ecco come.
 
-1. Trovare e selezionare il programma da clonare, quindi in Azioni **** programma fare clic su **Clona.**
+1. Trovare e selezionare il programma da clonare, quindi in **Azioni programma** fare clic su **Clone.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >I programmi possono essere copiati nelle [cartelle](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) delle [campagne o nelle](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) aree di lavoro [](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicuratevi di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l’area di lavoro di destinazione prima della duplicazione.
+   >I programmi possono essere clonati in [campagna](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [cartelle](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [aree di lavoro](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicuratevi di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l’area di lavoro di destinazione prima della duplicazione.
 
    ![](assets/cloneto.png)
 
