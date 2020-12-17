@@ -29,11 +29,11 @@ La cronologia di login utente identifica le persone che effettuano l’accesso:
 
 Per visualizzare la cronologia di login utente:
 
-1. Fate clic sulla scheda **Amministratore** e, in Protezione, fate clic su **Utenti e ruoli**.
+1. Fare clic sulla scheda **Amministratore** e, in Protezione, fare clic su **Utenti e ruoli**.
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. Fate clic sulla scheda Cronologia **di** accesso. Nell’elenco sono riportati i login più recenti.
+1. Fare clic sulla scheda **Cronologia login**. Nell’elenco sono riportati i login più recenti.
 
    ![](assets/login-history-tab.jpg)
 
@@ -49,17 +49,17 @@ Per visualizzare la cronologia di login utente:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Selezionate gli utenti dal menu a discesa **Utenti** .** **
+1. Seleziona gli utenti dall&#39;elenco a discesa **Utenti**.** **
 
    ** ![](assets/user-dropdown.jpg)
 
    **
 
-1. Nella casella **Solo login** non riusciti, selezionate la casella di controllo per visualizzare solo gli accessi non riusciti nella ricerca.
+1. Per visualizzare solo gli accessi non riusciti nella ricerca, selezionate la casella **Solo login non riusciti**.
 
    ![](assets/only-failed-logins.jpg)
 
-1. Fate clic su **Applica**.
+1. Fare clic su **Applica**.
 
    ![](assets/click-apply-real.jpg)
 
