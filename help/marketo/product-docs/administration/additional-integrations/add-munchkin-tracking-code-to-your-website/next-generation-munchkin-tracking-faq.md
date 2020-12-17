@@ -46,7 +46,7 @@ Se utilizzate già questo filtro in un Smart List (ad esempio, in una Smart Camp
 >**Esempio**
 >
 >**Trigger**: Visita pagina Web, pagina Web è la pagina prezzi\
->**Flusso**: Modifica punteggio +10 e Momento interessante, **Web**: Pagina dei prezzi visualizzata
+>**Flusso**: Modifica punteggio +10 e Momento interessante,  **Web**: Pagina dei prezzi visualizzata
 >
 >Con Munchkin V2, se una persona anonima visita la pagina dei prezzi, non inserisce la campagna immediatamente. Nel momento in cui la persona anonima viene a conoscenza, eseguiremo questa campagna su di lei. Sarà:
 >
@@ -98,4 +98,4 @@ Consultate i seguenti collegamenti:
 
 ## Ho più domande! Come posso farle rispondere? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Per favore, contattate la [comunità](https://nation.marketo.com/welcome). Puoi anche inviare un&#39;e-mail a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Loro sarà felice di rispondere alle tue domande.
+Si prega di contattare la [community](https://nation.marketo.com/welcome). È inoltre possibile inviare un&#39;e-mail a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Saranno felici di rispondere alle tue domande.
