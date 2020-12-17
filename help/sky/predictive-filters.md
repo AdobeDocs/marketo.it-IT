@@ -20,13 +20,13 @@ Come parte di Predictive Audiences, Marketo offre un gruppo di filtri basati su 
 
 ## Probabilità di partecipare
 
-Questo filtro viene utilizzato per restringere efficacemente il pubblico. Questo consente di eseguire il targeting e invitare i lead che hanno maggiore probabilità di **partecipare** al seminario Web o all’evento. Notate che il vostro &quot;[!UICONTROL Likelihood to attend program]&quot; sarà il programma dell&#39;evento corrente.
+Questo filtro viene utilizzato per restringere efficacemente il pubblico. Questo consente di eseguire il targeting e invitare i lead che hanno maggiore probabilità di partecipare **al seminario Web o all&#39;evento**. Tenete presente che &quot;[!UICONTROL Likelihood to attend program]&quot; sarà il programma dell&#39;evento corrente.
 
 ![Immagine due](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilità di registrazione
 
-Simile al filtro [!UICONTROL _Probabilità di partecipare_], utilizzate questo filtro per limitare il pubblico e limitare il pubblico ai lead di destinazione che hanno maggiore probabilità di **registrarsi** per il webinar o l&#39;evento.
+Simile al filtro [!UICONTROL _Probabilità di partecipare_], utilizzate questo filtro per limitare il pubblico e limitare i lead di destinazione che hanno una probabilità maggiore di registrare **un evento o un seminario Web.**
 
 ![Immagine tre](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +44,7 @@ Questo filtra l&#39;audience a seconda che abbia un&#39;alta o bassa probabilit�
 
 Questi due filtri consentono di espandere il pubblico corrente mediante il targeting di altri lead simili ai membri di un altro programma o Smart List. I filtri simili prendono in considerazione più di 50 fattori, inclusi gli attributi lead, l’attività e-mail, l’attività Web e il coinvolgimento.
 
-Fare clic **[!UICONTROL Add Constraint]** per scegliere i criteri di successo per i membri dei programmi selezionati.
+Fare clic su **[!UICONTROL Add Constraint]** per scegliere i criteri di successo per i membri dei programmi selezionati.
 
 Fare clic sull&#39;icona + accanto al menu a discesa del programma per aggiungere facilmente più programmi/elenchi smart a un filtro.
 
