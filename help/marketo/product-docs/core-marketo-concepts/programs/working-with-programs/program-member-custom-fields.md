@@ -17,15 +17,15 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 
 ## Creare un campo personalizzato membro del programma {#create-a-program-member-custom-field}
 
-1. In Marketo, fai clic su **Admin**.
+1. In Marketo, fare clic su **Admin**.
 
    ![](assets/one.png)
 
-1. Fate clic su Gestione **** campi.
+1. Fare clic su **Gestione dei campi**.
 
    ![](assets/two.png)
 
-1. Fare clic su **Nuovo campo** personalizzato.
+1. Fare clic su **Nuovo campo personalizzato**.
 
    ![](assets/three.png)
 
@@ -37,13 +37,13 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
    >
    >I campi personalizzati della persona e del membro del programma non possono condividere lo stesso nome.
 
-1. Compilate i campi rimanenti e fate clic su **Crea**.
+1. Compilare i campi rimanenti e fare clic su **Crea**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >I tipi supportati per i campi personalizzati dei membri del programma sono: booleano, data, datetime, float, integer, stringa, URL. [Ulteriori informazioni sui tipi](http://docs.marketo.com/x/Wwgt)di campo.
+   >I tipi supportati per i campi personalizzati dei membri del programma sono: booleano, data, datetime, float, integer, stringa, URL. [Ulteriori informazioni sui tipi](http://docs.marketo.com/x/Wwgt) di campo.
 
 ## Descrizioni oggetto {#object-descriptions}
 
@@ -56,11 +56,11 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 
 ## Triggers e filtri {#triggers-and-filters}
 
-È possibile utilizzare questi dati specifici del programma in elenchi smart tramite [](http://docs.marketo.com/x/PoAR)attivatori e/o [filtri](http://docs.marketo.com/x/2YAI).
+È possibile utilizzare questi dati specifici del programma negli elenchi smart tramite [trigger](http://docs.marketo.com/x/PoAR)e/o [filtri](http://docs.marketo.com/x/2YAI).
 
 ![](assets/six.png)
 
-## Cose da sapere {#things-to-know}
+## Informazioni da conoscere {#things-to-know}
 
 * I campi personalizzati per i membri del programma sono disponibili solo nelle risorse locali. Non sono supportati in Design Studio perché non è possibile collegarli a un programma specifico.
 * Non è possibile duplicare/spostare in Design Studio un modulo (o una pagina di destinazione con un modulo) contenente campi personalizzati per i membri del programma.
@@ -68,7 +68,7 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 * L&#39;oggetto Member del programma può avere fino a 20 campi personalizzati. Questi campi sono disponibili per qualsiasi programma.
 * Quando si rimuove un membro di un programma, se nel campo personalizzato Membro programma sono presenti dati, i dati verranno eliminati da tale campo.
 * Per visualizzare i dati, fare clic sulla scheda Membri del programma e creare una visualizzazione personalizzata che includa tali campi.
-* Sono supportate l&#39;importazione e l&#39;esportazione tramite [](http://docs.marketo.com/x/egAk)listand [](http://developers.marketo.com/)API.
+* Sono supportate l&#39;importazione e l&#39;esportazione tramite [list](http://docs.marketo.com/x/egAk)e [API](http://developers.marketo.com/).
 * Quando si uniscono due persone, verranno utilizzati i dati del campo personalizzato Membro programma del vincitore. Tuttavia, se il vincitore non ne ha, verrà utilizzato il valore del perdente.
 
 >[!MORELIKETHIS]
