@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo dei filtri per l&#39;inattività in un elenco avanzato {#use-inactivity-filters-in-a-smart-list}
+# Usare i filtri per l&#39;inattività in un elenco avanzato {#use-inactivity-filters-in-a-smart-list}
 
-Sapevate che potete cercare persone in una Smart List che *non* hanno fatto qualcosa? Guardate questi filtri di inattività.
+Sapevate che potete cercare persone in una Smart List che *non ha* fatto qualcosa? Guardate questi filtri di inattività.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selezionate l’elenco avanzato da modificare, quindi fate clic sulla scheda Elenco **** avanzato.
+1. Selezionate l&#39;elenco smart da modificare, quindi fate clic sulla scheda **Smart List**.
 
    ![](assets/smartlist-choose.png)
 
@@ -29,9 +29,9 @@ Sapevate che potete cercare persone in una Smart List che *non* hanno fatto qual
 
    >[!TIP]
    >
-   >La cartella Filtri **inattività contiene molti filtri** . Cercare **Not** e controllarli.
+   >Nella cartella **Filtri di inattività** sono presenti molti filtri. Cercare **Not** e archiviarli.
 
-1. Selezionare l&#39; **operatore qualsiasi** . Verranno trovate tutte le persone che non hanno visitato alcuna pagina negli ultimi 30 giorni.
+1. Selezionare l&#39;operatore **è qualsiasi**. Verranno trovate tutte le persone che non hanno visitato alcuna pagina negli ultimi 30 giorni.
 
    ![](assets/mysmartlist-people.jpg)
 
