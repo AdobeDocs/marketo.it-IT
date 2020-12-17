@@ -43,5 +43,5 @@ Potete abbonarvi alle notifiche per riceverle nell’e-mail.
 
 >[!TIP]
 >
->Desiderate annullare l’iscrizione alle e-mail di notifica? Nessun problema. Fate clic sul collegamento **Annulla sottoscrizione a notifiche** presente nella parte inferiore dell’e-mail.
+>Desiderate annullare l’iscrizione alle e-mail di notifica? Nessun problema. È sufficiente fare clic sul collegamento **Annulla sottoscrizione a Notifiche** nella parte inferiore dell&#39;e-mail.
 
