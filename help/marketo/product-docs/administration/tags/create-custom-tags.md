@@ -19,7 +19,7 @@ I tag consentono di organizzare i programmi mentre i canali assistono nella racc
 >
 >**Tubo profondo**
 >
->Per ulteriori informazioni, consulta [Informazioni sui tag](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) .
+>Per ulteriori informazioni, consultare [Informazioni sui tag](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
 
 >[!NOTE]
 >
@@ -29,23 +29,23 @@ I tag consentono di organizzare i programmi mentre i canali assistono nella racc
 
 Per creare un nuovo tipo di tag:
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/image2015-4-23-14-3a37-3a48.png)
 
-1. Fate clic su **Tag**.
+1. Fare clic su **Tag**.
 
    ![](assets/image2015-4-23-14-3a41-3a18.png)
 
-1. Fate clic su **Nuovo** e selezionate **Nuovo tipo di tag.**
+1. Fare clic su **Nuovo** e selezionare **Nuovo tipo di tag.**
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
-1. Immettete un nome per il tipo **di** tag.
+1. Immettere un nome per il **Tipo di tag**.
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
-1. Immettere il **valore** desiderato per il tipo di tag. Fate clic su **Aggiungi un altro** per immettere ulteriori valori di tag.
+1. Immettere il **Valore** desiderato per il tipo di tag. Fare clic su **Aggiungi un altro** per immettere valori di tag aggiuntivi.
 
    ![](assets/image2015-4-22-11-3a30-3a30.png)
 
@@ -55,9 +55,9 @@ Per creare un nuovo tipo di tag:
 
    >[!NOTE]
    >
-   >Selezionate **Obbligatorio per tutti i programmi** per aggiungere questo tag ogni volta che viene creato un nuovo programma.
+   >Selezionare **Obbligatorio per tutti i programmi** per aggiungere questo tag ogni volta che viene creato un nuovo programma.
 
-1. Fate clic su **Crea** per salvare.
+1. Fare clic su **Crea** per salvare.
 
    ![](assets/image2015-4-22-11-3a38-3a34.png)
 
