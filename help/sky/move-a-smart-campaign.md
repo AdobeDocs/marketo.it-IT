@@ -28,6 +28,6 @@ Spostate una campagna intelligente in un altro programma o cartella.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. Fate clic **[!UICONTROL Move]**.
+1. Fare clic su **[!UICONTROL Move]**.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
