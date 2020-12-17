@@ -17,10 +17,10 @@ Verifica le e-mail per migliorare il loro livello di coinvolgimento. Ci sono due
 
 ## Test A/B {#a-b-testing}
 
-Si tratta di e-mail una tantum che utilizzano programmi [e-](http://docs.marketo.com/display/docs/email+programs)mail. Aggiungete test [](add-an-a-b-test.md) A/B e un piccolo gruppo otterrà il test e il resto avrà il vincitore.
+Questo è per le e-mail una tantum utilizzando [programmi e-mail](http://docs.marketo.com/display/docs/email+programs). Aggiungete [A/B testing](add-an-a-b-test.md) e un piccolo gruppo otterrà il test e il resto avrà il vincitore.
 
 ## Email Champion/Challenger {#email-champion-challenger}
 
-Per le e-mail in corso utilizzate per attivare campagne intelligenti o programmi [di](http://docs.marketo.com/display/docs/drip+nurturing)coinvolgimento, potete aggiungere il test campione e- [mail/concorrente](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) . Ciò introdurrà variazioni a una percentuale continua dei beneficiari.
+Per le e-mail in corso utilizzate per attivare campagne intelligenti o programmi di coinvolgimento ](http://docs.marketo.com/display/docs/drip+nurturing), potete aggiungere il test [email champion/Challer](http://docs.marketo.com/pages/viewpage.action?pageid=2359551). [ Ciò introdurrà variazioni a una percentuale continua dei beneficiari.
 
 Felice test!
