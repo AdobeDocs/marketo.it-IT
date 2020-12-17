@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi/rimuovi valori elenco di selezione {#add-remove-picklist-values}
+# Aggiungi/rimuovi valori elenco puntato {#add-remove-picklist-values}
 
 Seguono alcune informazioni sull’aggiunta e la rimozione dei valori degli elenchi di selezione in Salesforce.
 
-## Aggiunta Di Valori Di Elenco Di Pagine {#adding-picklist-values}
+## Aggiunta di valori di elenchi di contatti {#adding-picklist-values}
 
-1. Se a un tipo di campo elenco di selezione viene aggiunto un valore aggiuntivo in Salesforce, riceverai una [notifica](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) che identifica i moduli interessati.
+1. Se un valore aggiuntivo viene aggiunto in Salesforce a un tipo di campo elenco di selezione, riceverete una [notifica](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) che identifica i moduli interessati.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Passate all’editor del modulo e [aggiungete il valore](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) aggiuntivo all’elenco dei suggerimenti.
+1. Accedere all&#39;editor del modulo e [aggiungere il valore aggiuntivo](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) all&#39;elenco dei suggerimenti.
 
-## Rimuovi valori elenco di selezione {#remove-picklist-values}
+## Rimuovi valori elenco puntato {#remove-picklist-values}
 
 Quando un valore di elenco di selezione viene rimosso da un campo in Salesforce, sarà necessario rimuovere manualmente questo valore da tutti i moduli che ospitano il campo.
 
