@@ -19,9 +19,9 @@ Le seguenti funzionalità sono incluse nella release Estate &#39;16. Per informa
 
 Marketing basato su account Marketo fornisce tutti gli elementi essenziali in un&#39;unica piattaforma unificata:
 
-* **Target** - Rilevamento account, Corrispondenza lead-to-account ed Elenchi di account denominati
-* **Coinvolgimento** : personalizzazione basata su account, coinvolgimento tra canali e flussi di lavoro specifici per l&#39;account
-* **Misura** - Approfondimenti a livello di account e elenco, punteggio di coinvolgimento dell&#39;account e impatto pipeline e ricavi
+* **Target** : individuazione dell&#39;account, corrispondenza lead-to-account ed elenchi di account denominati
+* **Coinvolgi** : personalizzazione basata su account, coinvolgimento tra canali e flussi di lavoro specifici per l&#39;account
+* **Misura** : approfondimenti a livello di account e elenco, punteggio di coinvolgimento dell&#39;account e impatto pipeline e ricavi
 
 ![](assets/abm-5-acme.png)
 
@@ -60,7 +60,7 @@ Precedentemente, tutte le variabili specificate in Modelli e-mail 2.0 erano &quo
 **Aggiornamenti sintassi**
 
 * Ora potete utilizzare &quot;mktoAddByDefault&quot; sui moduli specificati in Modelli e-mail 2.0 per indicare quali moduli devono essere visualizzati nelle nuove e-mail per impostazione predefinita. Questo è molto più conveniente se si sta creando un modello e-mail con un gran numero di moduli.
-* Sugli elementi immagine, ora potete specificare se le proprietà &quot;height&quot; e &quot;width&quot; dell&#39;elemento `<img>` HTML sottostante devono essere bloccate o modificate per l&#39;utente finale. mktoLockImgSize=&quot;true&quot; blocca l’altezza/larghezza (anche se l’immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; causerà il blocco della proprietà &quot;style&quot;.
+* Sugli elementi immagine, ora potete specificare se le proprietà &quot;height&quot; e &quot;width&quot; dell&#39;elemento HTML sottostante devono essere bloccate o modificate dall&#39;utente finale. `<img>` mktoLockImgSize=&quot;true&quot; blocca l’altezza/larghezza (anche se l’immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; causerà il blocco della proprietà &quot;style&quot;.
 
 **Ricerca codice**
 
@@ -70,7 +70,7 @@ Utilizzate la nuova funzionalità di ricerca per trovare e sostituire in modo ef
 
 **Supporto token negli elementi immagine**
 
-I token possono ora essere utilizzati nell&#39;area &quot;URL esterno&quot; dell&#39;esperienza di inserimento immagine! Se avete specificato delle immagini con `{{my.tokens}}`, ora potete fare riferimento a questi token in Editor e-mail 2.0. L’immagine apparirà comunque interrotta nel quadro di Email Editor 2.0. Tuttavia, prima di inviare l’e-mail visualizzerete il rendering all’interno di Preview e Send Sample.
+I token possono ora essere utilizzati nell&#39;area &quot;URL esterno&quot; dell&#39;esperienza di inserimento immagine! Se avete specificato delle immagini con `{{my.tokens}}`, ora potete fare riferimento a questi token all&#39;interno di Editor e-mail 2.0. L’immagine apparirà comunque interrotta nel quadro di Email Editor 2.0. Tuttavia, prima di inviare l’e-mail visualizzerete il rendering all’interno di Preview e Send Sample.
 
 ## [Più domini marchio](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
