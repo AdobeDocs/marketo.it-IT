@@ -41,7 +41,7 @@ Immaginate un evento, come un webinar, che si terrà a marzo. Le nuove persone v
 
    ![](assets/graph1.png)
 
-   ...I contatti aggiunti nei mesi precedenti e successivi saranno conteggiati *solo* verso marzo.
+   ...i contatti aggiunti nei mesi precedenti e successivi saranno conteggiati *solo* verso marzo.
 
    ![](assets/graph2.png)
 
@@ -66,7 +66,7 @@ Immaginate un evento, come un webinar, che si terrà a marzo. Le nuove persone v
    >**Promemoria**
    >
    >
-   >In sintesi: mesi senza un periodo definito i costi passeranno &quot;indietro&quot; all&#39;ultimo che è stato definito. Se non esiste un costo per il periodo precedente, i mesi verranno &quot;inoltrati&quot; a quello successivo definito. Se il costo di un periodo non è stato definito per *alcun* mese, la segnalazione in RCE non sarà disponibile per il programma.
+   >In sintesi: mesi senza un periodo definito i costi passeranno &quot;indietro&quot; all&#39;ultimo che è stato definito. Se non esiste un costo per il periodo precedente, i mesi verranno &quot;inoltrati&quot; a quello successivo definito. Se il costo del periodo non è stato definito per *qualsiasi* mesi, la segnalazione in RCE non sarà disponibile per il programma.
 
    >[!NOTE]
    >
