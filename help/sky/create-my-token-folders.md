@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Ecco come ordinare i Token personali in cartelle.
 
-1. Nella [!UICONTROL My Tokens] scheda della cartella della campagna o del programma, fate clic sull&#39; [!UICONTROL Create Folder] icona in alto a destra.
+1. Nella scheda [!UICONTROL My Tokens] della cartella o del programma della campagna, fate clic sull&#39;icona [!UICONTROL Create Folder] in alto a destra.
 
    ![Immagine uno](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Immettete un nome per la nuova cartella, quindi selezionate **[!UICONTROL Local Tokens]** o **[!UICONTROL Overridden Tokens]** dal menu a discesa di destinazione. Fate clic **[!UICONTROL Save]**.
+1. Immettete un nome per la nuova cartella, quindi selezionate **[!UICONTROL Local Tokens]** o **[!UICONTROL Overridden Tokens]** dall&#39;elenco a discesa di destinazione. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine due](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ Ecco come ordinare i Token personali in cartelle.
 
 >[!TIP]
 >
->Per rinominare una cartella, fate clic su di essa con il pulsante destro del mouse e fate clic **[!UICONTROL Rename]**.
+>Per rinominare una cartella, fate clic con il pulsante destro del mouse su di essa e fate clic su **[!UICONTROL Rename]**.
