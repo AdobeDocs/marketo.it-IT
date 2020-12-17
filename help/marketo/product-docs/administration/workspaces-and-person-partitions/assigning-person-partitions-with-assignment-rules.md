@@ -35,7 +35,7 @@ Quando si utilizzano partizioni personali, impostare regole di assegnazione per 
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Nella scheda **Partizioni di persone **fare clic su Regole **di** assegnazione.
+1. Sotto la scheda **People Partitions **, fare clic su **Assignment Rules**.
 
    ![](assets/two-6.png)
 
