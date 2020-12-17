@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Nella [!UICONTROL Program Overview] scheda sono disponibili tre sezioni: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** e **[!UICONTROL Reports]**. Ecco un rapido sguardo a ciascuno.
+Nella scheda [!UICONTROL Program Overview] sono disponibili tre sezioni: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** e **[!UICONTROL Reports]**. Ecco un rapido sguardo a ciascuno.
 
 ## Dettagli
 
@@ -22,7 +22,7 @@ Nella pagina dei dettagli principale vengono visualizzate informazioni generali 
 
 ![Immagine uno](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Nella parte inferiore della pagina sono presenti due sezioni: **[!UICONTROL Program Stats]** e **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** mostra le metriche chiave sulle prestazioni del programma, ed **[!UICONTROL Used By]** è un modo semplice per vedere dove viene utilizzato il programma in Marketo.
+Nella parte inferiore della pagina sono presenti due sezioni: **[!UICONTROL Program Stats]** e **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** mostra le metriche chiave sulle prestazioni del programma ed  **[!UICONTROL Used By]** è un modo semplice per vedere dove viene utilizzato il programma in Marketo.
 
 ![Immagine due](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ La visualizzazione della pianificazione del programma è una funzione potente ch
 
 **Tubo profondo**
 
-* Scoprite come [utilizzare la visualizzazione](/help/sky/navigating-program-schedule-view.md)Pianificazione programma.
+* Scopri come [utilizzare la vista di pianificazione del programma](/help/sky/navigating-program-schedule-view.md).
 
 ## Rapporti
 
-La [!UICONTROL Reports] scheda mostra le metriche chiave sulle prestazioni del programma, incluse le tendenze e gli stati di iscrizione.
+La scheda [!UICONTROL Reports] mostra le metriche chiave sulle prestazioni del programma, incluse le tendenze e gli stati di iscrizione.
 
 ![Immagine quattro](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
