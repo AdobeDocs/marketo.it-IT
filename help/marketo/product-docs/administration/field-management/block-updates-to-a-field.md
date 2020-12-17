@@ -19,19 +19,19 @@ Il blocco degli aggiornamenti a un campo consente di scrivere sul campo una sola
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-24-13-3a54-3a40.png)
 
-1. Trovare il campo, selezionarlo, quindi in Azioni **** campo fare clic su **Blocca aggiornamenti** campo.
+1. Trovare il campo, selezionarlo, quindi in **Azioni campo** fare clic su **Blocca aggiornamenti campo**.
 
    ![](assets/two-1.png)
 
-1. Selezionate le origini **di** input da bloccare e fate clic su **Applica**.
+1. Selezionare le **Origini di input** che si desidera bloccare e fare clic su **Applica**.
 
    ![](assets/image2014-9-24-13-3a55-3a16.png)
 
    >[!CAUTION]
    >
-   >Durante l&#39;importazione di un elenco, lo stato di un campo bloccato nell&#39;anteprima di importazione viene visualizzato solo se il campo viene riconosciuto automaticamente da Marketo in base al nome del campo che corrisponde **esattamente** (o se sono stabiliti alias). Se il campo viene selezionato manualmente dal menu a discesa Campo Marketo, lo stato bloccato non viene visualizzato nell’anteprima di importazione, ma il blocco degli aggiornamenti a tale campo viene comunque implementato.
+   >Durante l&#39;importazione di un elenco, lo stato di un campo bloccato nell&#39;anteprima di importazione viene visualizzato solo se il campo viene riconosciuto automaticamente da Marketo in base al nome del campo corrispondente a **esattamente** (o se sono stabiliti degli alias). Se il campo viene selezionato manualmente dal menu a discesa Campo Marketo, lo stato bloccato non viene visualizzato nell’anteprima di importazione, ma il blocco degli aggiornamenti a tale campo viene comunque implementato.
 
