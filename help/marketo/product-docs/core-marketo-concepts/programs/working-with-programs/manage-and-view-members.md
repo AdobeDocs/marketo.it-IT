@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gestione e visualizzazione dei membri {#manage-and-view-members}
+# Gestisci e visualizza membri {#manage-and-view-members}
 
 È possibile gestire e visualizzare i membri nei programmi utilizzando la scheda Membri.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Tubo profondo**
 >
-> Approfondisci l&#39;iscrizione [al](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)programma.
+> Approfondisci la sezione [appartenenza al programma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Cerca un membro {#search-for-a-member}
 
@@ -55,17 +55,17 @@ Per esportare l’elenco dei membri, fai clic sull’icona Excel accanto al camp
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Denominate la visualizzazione personalizzata. Selezionate i titoli delle colonne. Fare clic su** Aggiungi **** e rimuovi **per spostare le colonne e creare una vista.
+1. Denominate la visualizzazione personalizzata. Selezionate i titoli delle colonne. Fare clic** Aggiungi **e** Rimuovi **per spostare le colonne e creare una vista.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrare la griglia dei membri  {#filter-the-members-grid}
+## Filtrare la griglia dei membri {#filter-the-members-grid}
 
-1. Fate clic sul menu a discesa **Filtro** e selezionate un passaggio di avanzamento per l’ordinamento.
+1. Fare clic sul menu a discesa **Filtro** e selezionare un passaggio di avanzamento per l&#39;ordinamento.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -73,11 +73,11 @@ Per esportare l’elenco dei membri, fai clic sull’icona Excel accanto al camp
 
 Potete modificare lo stato delle persone all’interno della griglia dei membri.
 
-1. Tenere premuto **Ctrl/Comando** e selezionare le persone.
+1. Tenere premuto **Ctrl/Cmd** e selezionare le persone.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Fate clic sul menu a discesa **Modifica stato** e selezionate uno stato.
+1. Fare clic sul menu a discesa **Modifica stato** e selezionare uno stato.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
