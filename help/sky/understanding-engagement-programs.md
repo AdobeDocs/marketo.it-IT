@@ -18,7 +18,7 @@ I programmi di coinvolgimento sono concepiti per commercializzare nuove persone 
 
 >[!NOTE]
 >
->Esiste un limite di 100 programmi _attivi_ per abbonamento.
+>Esiste un limite di 100 _programmi di coinvolgimento attivi_ per iscrizione.
 
 ## Programma di coinvolgimento
 
