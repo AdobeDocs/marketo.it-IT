@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# SEO - Importazione di parole chiave con un CSV {#seo-importing-keywords-with-a-csv}
+# SEO - Importazione di parole chiave con un file CSV {#seo-importing-keywords-with-a-csv}
 
-1. Potete [aggiungere le parole chiave](seo-add-keywords.md) manualmente, [ottenere suggerimenti](seo-get-suggested-keywords.md) per le parole chiave e persino importare le parole chiave da un file CSV. Di seguito viene illustrato come effettuare l’importazione.
-1. Andate alla sezione **Parole chiave** .
+1. Potete [aggiungere manualmente le parole chiave](seo-add-keywords.md), [ottenere i suggerimenti per le parole chiave](seo-get-suggested-keywords.md) e persino importare le parole chiave da un file CSV. Di seguito viene illustrato come effettuare l’importazione.
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Fate clic su **Importa**.
+1. Fare clic su **Importa**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Fate clic su **Scegli file**.
+1. Fare clic su **Scegli file**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >I limiti di importazione variano a seconda dell’iscrizione. Per ulteriori informazioni, contattate il rappresentante commerciale.
 
-1. Fate clic su **IMPORTA**.
+1. Fare clic su **IMPORT**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
