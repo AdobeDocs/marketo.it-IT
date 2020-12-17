@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincr. SFDC: Coda lead {#sfdc-sync-lead-queue}
 
-Marketo consente di aggiungere persone alle code [lead di](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) Salesforce per facilitare la distribuzione dei lead. Ecco i dettagli.
+Marketo consente di aggiungere persone alle [code lead Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) per facilitare la distribuzione dei lead. Ecco i dettagli.
 
 ## Come assegnare una persona a una coda in Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
