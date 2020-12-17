@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per inserire parametri aggiuntivi e specifici per una persona nei collegamenti, potete utilizzare i token. Ecco come.
 
-1. Selezionate il messaggio e-mail e fate clic sulla scheda **Modifica bozza** .
+1. Selezionate il messaggio e-mail e fate clic sulla scheda **Modifica bozza**.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Per inserire parametri aggiuntivi e specifici per una persona nei collegamenti, 
 
    ![](assets/two.png)
 
-1. Individua o scrive il testo del collegamento. Evidenziatelo e fate clic sull&#39;icona **Inserisci/Modifica collegamento** .
+1. Individua o scrive il testo del collegamento. Evidenziatelo e fate clic sull&#39;icona **Inserisci/Modifica collegamento**.
 
    ![](assets/three.png)
 
-1. Digitate i token desiderati nell&#39; **URL** e fate clic su **Inserisci**.
+1. Digitare i token desiderati in **URL** e fare clic su **Inserisci**.
 
    ![](assets/four.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/five.png)
 
