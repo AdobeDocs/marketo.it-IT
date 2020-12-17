@@ -21,14 +21,14 @@ Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 
 ## Marketo Engage di base {#core-marketo-engage}
 
-* **Framework webinar estensibile:** Risparmiate tempo con il nuovo framework di webinar out-of-the-box di Marketo (introdotto nelle note [sulla versione](release-notes-winter-19.md)Inverno 19) che trasferisce senza problemi i dati dai provider di webinar a Marketo e viceversa. Cvent and Zoom sono ora disponibili in questo nuovo framework.
-* **Aggiornamento API Smart Campaign:** Gestire le funzionalità smart campaign lifecycle (ciclo di vita delle campagne intelligenti) mentre si completa l&#39;interfaccia CRUD (creazione, lettura, aggiornamento, eliminazione).
-* **Aggiorna modifica API intestazioni e-mail:** L&#39;API Aggiorna intestazione e-mail non richiede più un messaggio e-mail con un modello allegato per aggiornare i campi dell&#39;intestazione, ad esempio l&#39;oggetto.
+* **Extensible Webinar Framework:** Risparmiate tempo con il nuovo framework di webinar out-of-the-box di Marketo (introdotto nelle note [ sulla versione ](release-notes-winter-19.md)Inverno &#39;19) che trasferisce senza soluzione di continuità i dati dai provider di webinar a Marketo e viceversa. Cvent and Zoom sono ora disponibili in questo nuovo framework.
+* **Aggiornamento delle API per Smart Campaign:** gestisci le funzionalità del ciclo di vita delle campagne smart mentre esegui il ciclo di vita dell’interfaccia CRUD (creazione, lettura, aggiornamento, eliminazione).
+* **Aggiorna modifica API intestazioni e-mail:** l&#39;API Aggiorna intestazione e-mail non richiede più un&#39;e-mail con un modello allegato per aggiornare i campi dell&#39;intestazione, ad esempio l&#39;oggetto.
 
-**Marketing** basato su account ![(star)](assets/star-yellow.svg)
+**Marketing** ![ basato su account (star)](assets/star-yellow.svg)
 
 * **LinkedIn Account Matching**, in precedenza nella versione beta, è ora disponibile in genere.
-* **L&#39;account`<sup>AI</sup>`** viene ufficialmente classificato come profilo **account**.
+* **I`<sup>AI</sup>`** conti vengono ufficialmente riassegnati come profili  **account**.
 
 <br> 
 
@@ -36,16 +36,16 @@ Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 
 Le seguenti funzionalità si trovano su un ciclo non trimestrale e verranno rilasciate per tutto il terzo trimestre e per l’inizio del quarto trimestre 2019.
 
-**Marketo Sales Connect** ![(star)](assets/star-yellow.svg)
+**Marketo Sales Connect**  ![(star)](assets/star-yellow.svg)
 
-* **Onboarding:** La procedura dettagliata semplifica e rende più efficiente l&#39;accesso guidando nuovi utenti attraverso la configurazione dell&#39;istanza.
-* **Miglioramento del layout delle pagine Persone:** Gestisci le persone e i gruppi tramite le importazioni di elenchi e le azioni in blocco nel layout della pagina delle nuove persone.
+* **Onboarding:guida dettagliata** passo-passo per semplificare e migliorare l&#39;onboarding guidando nuovi utenti attraverso la configurazione delle istanze.
+* **Miglioramento del layout delle pagine Persone:** gestite le persone e i gruppi attraverso le importazioni di elenchi e le azioni in blocco nel layout delle nuove persone.
 
 >[!NOTE]
 >
 >**Disponibilità**
 >
->Le caratteristiche indicate da una stella ( ![(stella)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Contatta il tuo rappresentante di Marketo per saperne di più.
+>Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Contatta il tuo rappresentante di Marketo per saperne di più.
 
 >[!NOTE]
 >
@@ -53,4 +53,4 @@ Le seguenti funzionalità si trovano su un ciclo non trimestrale e verranno rila
 >
 >**Per mantenere l&#39;accesso al Marketo Engage, accertatevi che tutti i sistemi client siano conformi a TLS 1.2 prima del 13 dicembre 2019**. Informazioni più dettagliate sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-***Webinar*** sulla versione del prodotto [Partecipa](https://engage.marketo.com/August_19_Release_Webinar.html) il 28 agosto alle 13:00 PT / 4:00 PM ET per un webinar live ospitato dal nostro team di prodotti e scopri ulteriori informazioni sulle funzionalità incluse in questa versione.
+***Webinar*** [sul rilascio del prodottoIscriviti ](https://engage.marketo.com/August_19_Release_Webinar.html) il 28 agosto alle 13:00 PT / 4:00 PM ET per un webinar live ospitato dal nostro team di prodotti e scopri ulteriori informazioni sulle funzionalità incluse in questa versione.
