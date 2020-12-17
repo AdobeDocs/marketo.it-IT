@@ -24,7 +24,7 @@ Per accedere al pannello dei filtri, fai clic sull’icona Filtri nella parte su
 
 Potete utilizzare questa funzione per trovare le risorse create o modificate entro un intervallo di date specifico; Ad esempio, la settimana scorsa, negli ultimi tre mesi, ecc.
 
-Per impostazione predefinita, Marketo carica tutti i contenuti degli ultimi sei mesi. Per modificare questa impostazione, selezionate un intervallo dal **[!UICONTROL Choose Date Range]** menu a discesa. Queste impostazioni saranno applicate anche al successivo accesso a Marketo.
+Per impostazione predefinita, Marketo carica tutti i contenuti degli ultimi sei mesi. Per modificare questa impostazione, selezionate un intervallo dal menu a discesa **[!UICONTROL Choose Date Range]**. Queste impostazioni saranno applicate anche al successivo accesso a Marketo.
 
 ![Immagine due](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
@@ -34,7 +34,7 @@ Immettete un’etichetta per la quale desiderate ordinare e selezionate le etich
 
 ![Immagine tre](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-Fate clic sulla **X** per rimuovere un’etichetta dalla ricerca filtrata.
+Fare clic su **X** per rimuovere un&#39;etichetta dalla ricerca filtrata.
 
 ![Immagine quattro](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 
