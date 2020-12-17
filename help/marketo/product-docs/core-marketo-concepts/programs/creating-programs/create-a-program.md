@@ -15,15 +15,15 @@ ht-degree: 0%
 
 I programmi sono uno degli elementi più importanti di Marketo. Li userete molto!
 
-1. Vai a Attività **di marketing.**
+1. Vai a **Attività di marketing.**
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare la cartella del nuovo programma. Selezionate **Nuovo** e fate clic su **Nuovo programma****.**
+1. Selezionare la cartella del nuovo programma. Selezionare **Nuovo** e fare clic su **Nuovo programma****.**
 
    ![](assets/leadlifecycle.jpg)
 
-1. Immettete un **Nome****,** selezionate un ** [Canale](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** nell&#39;elenco a discesa, quindi fate clic su **Crea.**
+1. Immettete un **Nome****,** selezionate un ** [Canale](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** nel menu a discesa, quindi fate clic su **Crea.**
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
@@ -31,5 +31,5 @@ I programmi sono uno degli elementi più importanti di Marketo. Li userete molto
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sui [programmi](http://docs.marketo.com/display/docs/programs).
+>Ulteriori informazioni su [programmi](http://docs.marketo.com/display/docs/programs).
 
