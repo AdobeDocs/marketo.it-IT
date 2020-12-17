@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usa test A/B &quot;Date/Time&quot; {#use-date-time-a-b-testing}
+# Usa test A/B &quot;Data/ora&quot; {#use-date-time-a-b-testing}
 
 È possibile testare facilmente le e-mail mediante test A/B. Una delle prove è la **Date/Time **test. Questo consente di verificare l&#39;ora del giorno o del giorno della settimana migliore per l&#39;invio delle e-mail. Ecco come impostarlo.
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 
 
-1. Nella sezione **E-mail** , fate clic su **Aggiungi test** A/B.
+1. Nella sezione **E-mail**, fare clic su **Aggiungi test A/B**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. Si apre una nuova finestra. Selezionare **Data/Ora** per il tipo **di** test.
+1. Si apre una nuova finestra. Selezionare **Data/Ora** per **Tipo di test**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. Se disponete delle informazioni di test precedenti (come un test oggetto), potete fare clic su **Ripristina test** in modo sicuro.
+1. Se disponete delle informazioni di test precedenti (come un test oggetto), potete fare clic su **Reset Test** in modo sicuro.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. Usate il cursore per scegliere la percentuale di pubblico desiderata nel test A/B e fate clic su **Avanti**.
+1. Usate il cursore per scegliere la percentuale di pubblico desiderata nel test A/B e fate clic su **Next**.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se usate un elenco statico, impostando la dimensione del campione su 100% l’e-mail viene inviata a tutti gli utenti e il vincitore non viene inviato a nessuno. Se utilizzi un elenco **avanzato** , l&#39;impostazione della dimensione del campione su 100% invia l&#39;e-mail a tutti gli utenti *in quel momento. *Quando il programma e-mail verrà eseguito di nuovo in un secondo momento, tutte le nuove persone idonee all&#39;elenco smart riceveranno anche l&#39;e-mail, dal momento che ora sono incluse nel pubblico.
+   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se usate un elenco statico, impostando la dimensione del campione su 100% l’e-mail viene inviata a tutti gli utenti e il vincitore non viene inviato a nessuno. Se si utilizza un elenco **smart**, impostando la dimensione del campione su 100%, l&#39;e-mail viene inviata a tutti gli utenti *in quel momento. *Quando il programma e-mail verrà eseguito di nuovo in un secondo momento, tutte le nuove persone idonee all&#39;elenco smart riceveranno anche l&#39;e-mail, dal momento che ora sono incluse nel pubblico.
 
    [definire i criteri per il vincitore del test A/B](define-the-a-b-test-winner-criteria.md)
 
