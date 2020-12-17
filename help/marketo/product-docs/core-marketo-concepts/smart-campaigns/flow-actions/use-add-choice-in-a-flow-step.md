@@ -21,7 +21,7 @@ ht-degree: 0%
 
 
 
-**Aggiungi scelta** consente di utilizzare un passaggio di flusso e di specificare &quot;Dipende&quot; quando si scelgono i dettagli.
+**Aggiungi** i set di scelte puoi usare un passaggio di flusso e dire &quot;Dipende&quot; quando stai scegliendo i dettagli.
 
 1. Nella scheda **Flusso** della campagna intelligente, aggiungi un passaggio di flusso e fai clic su **Aggiungi scelta**.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >I token **non** funzioneranno nella parte di condizione di un passaggio di flusso di scelta.
+   >I token **non** funzionano nella parte condizione di un passaggio di scelta del flusso.
 
 1. Ripetete i passaggi indicati sopra per aggiungere più opzioni, quindi aggiungete o regolate il valore predefinito.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Al passaggio di flusso viene applicata solo la prima scelta corrispondente. Scopri come [riordinare &quot;Add Choice&quot; in un’azione](reorder-add-choice-in-a-flow-step.md)di flusso.
+   >Al passaggio di flusso viene applicata solo la prima scelta corrispondente. Scopri come [riordinare &quot;Add Choice&quot; in un&#39;azione di flusso](reorder-add-choice-in-a-flow-step.md).
 
    >[!NOTE]
    >
