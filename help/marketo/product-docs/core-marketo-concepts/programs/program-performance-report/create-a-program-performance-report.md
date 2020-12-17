@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Creare un rapporto sulle prestazioni del programma {#create-a-program-performance-report}
+# Creare un report sulle prestazioni del programma {#create-a-program-performance-report}
 
 Con questo rapporto potete vedere grandi statistiche sui vostri programmi.
 
-1. [Create un rapporto in un programma](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selezionate il tipo di **rapporto Prestazioni** [programma](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Fate clic sulla scheda **Rapporto** .
+1. [Create un rapporto in un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma e selezionate il tipo **** [Program ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performancereport.
+1. Fare clic sulla scheda **Report**.
 1. Sei lì! Esplora il tuo rapporto per vedere come si comportano i tuoi programmi.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Per individuare i programmi con il *costo per successo* più basso, ad esempio, [ordinate il rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) su quella colonna e scegliete **Ordinamento crescente**.
+>Per individuare i programmi con il costo per successo più basso, ad esempio *ordinate il rapporto* in quella colonna e scegliete [Ordinamento crescente](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md).****
 
 Le colonne in un rapporto Prestazioni programma includono:
 
@@ -58,5 +58,5 @@ Le colonne in un rapporto Prestazioni programma includono:
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni in [Reporting](http://docs.marketo.com/display/docs/basic+reporting)di base.
+>Ulteriori informazioni in [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
