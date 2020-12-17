@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Aspetta {#wait}
+# Attendere {#wait}
 
 ## Panoramica {#overview}
 
-Metti in pausa una persona in un flusso di campagna intelligente con il pratico passaggio **di** attesa.
+Metti in pausa una persona in un flusso di campagna intelligente con il comodo **passaggio di attesa**.
 
 ![](assets/wait-overview.png)
 
-Notate come si può digitare in lingua naturale come &quot;4 ore&quot;. Tuttavia, **non** abbreviate le parole (cioè, 4 ore). La campagna intelligente sarebbe ancora in esecuzione, ma il passaggio di attesa sarebbe ignorato.
+Notate come si può digitare in lingua naturale come &quot;4 ore&quot;. Fare **not**, tuttavia, abbreviare le parole (ovvero, 4 ore). La campagna intelligente sarebbe ancora in esecuzione, ma il passaggio di attesa sarebbe ignorato.
 
 >[!CAUTION]
 >
@@ -27,7 +27,7 @@ Notate come si può digitare in lingua naturale come &quot;4 ore&quot;. Tuttavia
 
 >[!TIP]
 >
->Se si dispone di un utente già in un passaggio di attesa e non si desidera che avanzi al termine del periodo di attesa, inserire [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) subito dopo il passaggio di attesa. Specificate chi desiderate rimuovere utilizzando l&#39;opzione [Aggiungi scelta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) .
+>Se si dispone di un utente già in un passaggio di attesa e non si desidera che avanzi al termine del periodo di attesa, inserire [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) subito dopo il passaggio di attesa. Specificare gli utenti da rimuovere utilizzando l&#39;opzione [Aggiungi scelta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 ## Utilizzo {#usage}
 
