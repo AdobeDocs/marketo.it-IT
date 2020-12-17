@@ -21,21 +21,21 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 >
 >Diritti di amministratore richiesti.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ** ![](assets/one.png)
 
    **
 
-1. Nel menu Gestione del database, fate clic su Sincronizzazione **** Salesforce **** Objects.
+1. Nel menu Gestione database, fare clic su **Salesforce** **Sincronizzazione oggetti**.
 
    ![](assets/two-2.png)
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su **Sincronizza schema.** In caso contrario, fare clic su **Aggiorna schema** per verificare di disporre della versione più recente.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **Sincronizza schema.** In caso contrario, fare clic su  **Aggiorna** schema per verificare di disporre della versione più recente.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Se la sincronizzazione globale è in esecuzione, sarà necessario disattivarla facendo clic su **Disattiva sincronizzazione globale.**
+1. Se la sincronizzazione globale è in esecuzione, è necessario disattivarla facendo clic su **Disattiva sincronizzazione globale.**
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -47,7 +47,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Selezionate l’oggetto da sincronizzare e fate clic su **Attiva sincronizzazione**.
+1. Selezionare l&#39;oggetto da sincronizzare e fare clic su **Abilita sincronizzazione**.
 
    >[!TIP]
    >
@@ -55,23 +55,23 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Fate di nuovo clic su **Abilita sincronizzazione** .
+1. Fare di nuovo clic su **Abilita sincronizzazione**.
 
    ** ![](assets/image2014-12-10-10-3a15-3a40.png)
 
    **
 
-1. Torna alla scheda **Salesforce** e fai clic su **Abilita sincronizzazione**.
+1. Tornate alla scheda **Salesforce** e fate clic su **Abilita sincronizzazione**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
-## Utilizzo degli oggetti personalizzati {#using-your-custom-objects}
+## Uso degli oggetti personalizzati {#using-your-custom-objects}
 
 >[!NOTE]
 >
 >Non è possibile utilizzare oggetti personalizzati nelle campagne smart con i trigger.
 
-1. Nell’elenco avanzato, trascinate il mouse sul **filtro** Con opportunità e impostate su **true**.
+1. Nell&#39;elenco smart, trascinare il mouse sul filtro **Con opportunità** e impostare su **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
