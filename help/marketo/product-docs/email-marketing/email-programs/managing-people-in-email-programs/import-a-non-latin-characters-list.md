@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Importa elenco caratteri non latini {#import-a-non-latin-characters-list}
+# Importa un elenco di caratteri non latini {#import-a-non-latin-characters-list}
 
 Stai tentando di importare un file non in inglese? L&#39;elenco è perfetto quando viene aperto con Excel.
 
@@ -23,11 +23,11 @@ Ma quando lo importate in Marketo, potreste vedere che i caratteri non inglesi n
 
 Questo perché il file non viene salvato correttamente affinché Marketo riconosca tutti i caratteri non latini. La buona notizia è che ci sono alcuni semplici passi da seguire per ripararlo.
 
-1. Seleziona **Salva con nome...** dal menu **File** in Excel.
+1. Selezionare **Salva con nome...** dal menu **File** in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Scegliete Testo Unicode **UTF-16 (.txt)** come opzione **Formato** . Questo codificherà il file nel modo in cui Marketo può visualizzarlo.
+1. Scegliete **UTF-16 Unicode Text (.txt)** come opzione **Format**. Questo codificherà il file nel modo in cui Marketo può visualizzarlo.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Questo perché il file non viene salvato correttamente affinché Marketo riconos
 
    >[!TIP]
    >
-   >Potete aprire il file di testo utilizzando **Blocco note** se utilizzate Windows o **TextEdit** se utilizzate Mac.
+   >È possibile aprire il file di testo utilizzando **Blocco note** se si utilizza Windows o **TextEdit** se si utilizza Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,7 +47,7 @@ Questo perché il file non viene salvato correttamente affinché Marketo riconos
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Seleziona **Trova e sostituisci...** dal menu **Modifica** .
+1. Selezionare **Trova e sostituisci...** dal menu **Modifica**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
@@ -55,7 +55,7 @@ Questo perché il file non viene salvato correttamente affinché Marketo riconos
    >
    >L&#39;azione equivalente per gli utenti Windows è: **Modifica > Sostituisci...**
 
-1. Incollare la scheda copiata al punto 4 nella prima casella (da sostituire) e digitare una virgola nella seconda casella (sostituire con). Fate clic su **Tutto**.
+1. Incollare la scheda copiata al punto 4 nella prima casella (da sostituire) e digitare una virgola nella seconda casella (sostituire con). Fare clic su **All**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
