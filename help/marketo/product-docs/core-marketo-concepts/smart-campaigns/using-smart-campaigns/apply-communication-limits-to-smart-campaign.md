@@ -41,6 +41,6 @@ Non è una buona idea mandare email a qualcuno più volte al giorno o troppe vol
 
 >[!TIP]
 >
->Per impostare questa impostazione come predefinita, modifica i limiti [di](../../../../product-docs/administration/email-setup/enable-communication-limits.md) comunicazione nella sezione Amministratore.
+>Per impostare questa impostazione come predefinita, modificare i limiti di [comunicazione](../../../../product-docs/administration/email-setup/enable-communication-limits.md) nella sezione Amministratore.
 
 Dolce. Ora puoi essere certo che non stai inviando accidentalmente troppe e-mail al tuo pubblico.
