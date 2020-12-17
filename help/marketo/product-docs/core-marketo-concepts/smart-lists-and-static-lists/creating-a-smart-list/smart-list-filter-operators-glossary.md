@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Glossario degli operatori di filtri per elenchi avanzati {#smart-list-filter-operators-glossary}
 
-Un operatore è una parte dell&#39;elenco [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) avanzato che consente di ottenere informazioni specifiche. Consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ciascun tipo di campo.\
+Un operatore fa parte dell&#39; [smart list](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) che consente di ottenere informazioni specifiche. Consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ciascun tipo di campo.\
 Questo è un glossario che descrive ogni insieme di operatori.
 
 ## Campi data {#date-fields}
@@ -51,11 +51,11 @@ Basta digitare il numero e l&#39;unità insieme e funzionerà!
 
 >[!NOTE]
 >
->In passato **include** il giorno (fino all’ora, non dopo) in cui si crea l’elenco avanzato.
+>In passato **fa** include il giorno (fino all&#39;ora, non dopo) in cui si crea l&#39;elenco smart.
 
 >[!CAUTION]
 >
->Quando si crea un elenco avanzato utilizzando un filtro di campo data (ad esempio, Data di nascita, Data di creazione SFDC) e si utilizzano i vincoli **precedenti** o **successivi** , l&#39;elenco smart includerà anche le persone che non hanno alcun valore in tale campo data.
+>Quando si crea un elenco avanzato utilizzando un filtro di campo data (ad esempio, Data di nascita, Data di creazione SFDC) e si utilizzano i vincoli **before** o **on o precedenti**, l&#39;elenco smart list includerà anche le persone che non hanno alcun valore in tale campo data.
 
 Usare il diagramma seguente per comprendere la differenza tra gli operatori data.
 
@@ -108,7 +108,7 @@ Usare il diagramma seguente per comprendere la differenza tra gli operatori data
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">is</td> 
-   <td colspan="1" rowspan="1">Corrispondenza numero esatta ( = 0 restituirà entrambi i lead con 0 <em></em> e NULL)</td> 
+   <td colspan="1" rowspan="1">Corrispondenza numero esatta ( = 0 restituisce entrambi i lead con 0 <em>e</em> NULL)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is not</td> 
@@ -136,7 +136,7 @@ Usare il diagramma seguente per comprendere la differenza tra gli operatori data
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">è vuoto</td> 
-   <td colspan="1" rowspan="1">Record senza valore (NULL) - zero è un numero, <em>non</em> è NULL</td> 
+   <td colspan="1" rowspan="1">Record senza valore (NULL) - zero è un numero, è <em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">non è vuoto</td> 
