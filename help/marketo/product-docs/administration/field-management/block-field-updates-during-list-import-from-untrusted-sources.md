@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Blocca aggiornamenti dei campi durante l&#39;importazione dell&#39;elenco da origini non attendibili {#block-field-updates-during-list-import-from-untrusted-sources}
+# Blocca aggiornamenti dei campi durante l&#39;importazione degli elenchi da origini non affidabili {#block-field-updates-during-list-import-from-untrusted-sources}
 
 È possibile considerare affidabili i dati in alcuni elenchi più di altri. A volte si dispone di dati discutibili e si desidera utilizzarli se il campo è vuoto, ma non se esiste un valore esistente. È possibile eseguire questa operazione bloccando gli aggiornamenti dei campi sui campi chiave.
 
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-## Blocco Degli Aggiornamenti Dei Campi Da Origini Non Affidabili {#blocking-field-updates-from-untrusted-sources}
+## Blocco degli aggiornamenti dei campi da origini non attendibili {#blocking-field-updates-from-untrusted-sources}
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-19-9-3a38-3a38.png)
 
-1. Trovare il campo desiderato, selezionarlo, quindi in Azioni **** campo fare clic su **Blocca aggiornamenti** campo.
+1. Trovare il campo desiderato, selezionarlo, quindi in **Azioni campo** fare clic su **Blocca aggiornamenti campo**.
 
    ![](assets/image2014-9-19-9-3a39-3a40.png)
 
-1. Selezionare **Importa elenco come origine** non attendibile e fare clic su **Applica**.
+1. Selezionare **List Import untrusted source** e fare clic su **Apply**.
 
    ![](assets/blockupdates.png)
 
 >[!TIP]
 >
->È possibile mantenere i campi al sicuro da tutti gli elenchi, attendibili e non attendibili, anche selezionando l&#39;origine **affidabile** Importa elenco.
+>È possibile mantenere i campi al sicuro da tutti gli elenchi, attendibili e non attendibili, anche selezionando **Origine attendibile importazione elenco**.
 
 Ripetere i passaggi indicati sopra per tutti gli altri campi che si desidera mantenere al sicuro dagli elenchi non attendibili.
 
