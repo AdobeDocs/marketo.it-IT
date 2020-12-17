@@ -28,7 +28,7 @@ Fai in modo che una campagna intelligente venga eseguita su una persona alla vol
    >
    >Una campagna intelligente con trigger viene eseguita in modalità Trigger. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
 
-1. Fate clic sul menu a discesa e scegliete un operatore (ad es. **[!UICONTROL is]**, **[!UICONTROL is not]** ecc.) per il trigger scelto.
+1. Fate clic sul menu a discesa e scegliete un operatore (ad es. **[!UICONTROL is]**, **[!UICONTROL is not]**, ecc.) per il trigger scelto.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -48,4 +48,4 @@ Fai in modo che una campagna intelligente venga eseguita su una persona alla vol
 >
 >Con più attivatori, una persona attraversa il flusso se viene attivata una qualsiasi delle attivazioni.
 >
->Per eseguire la campagna su un insieme di persone allo stesso tempo, scopri come [definire l&#39;elenco avanzato per la campagna intelligente | Batch](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
+>Per eseguire la campagna su un insieme di persone allo stesso tempo, scopri come [Definire l&#39;elenco avanzato per la campagna intelligente | Batch](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
