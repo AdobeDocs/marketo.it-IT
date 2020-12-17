@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Informazioni sui programmi {#understanding-programs}
 
-I programmi rappresentano una singola iniziativa di marketing. Potete considerarlo come un contenitore con tutto il materiale necessario per far funzionare il programma, che sono chiamati risorse locali e includono pagine **di** destinazione, **e-mail**, campagne **** intelligenti e altro ancora. I programmi fanno molto, ma è facile iniziare.
+I programmi rappresentano una singola iniziativa di marketing. È possibile considerarlo come un contenitore con tutte le cose necessarie per far funzionare il programma - questi sono chiamati risorse locali e includono **pagine di destinazione**, **email**, **campagne intelligenti** e altro ancora. I programmi fanno molto, ma è facile iniziare.
 
 Esistono quattro tipi di programmi:
 
 **Programmi di eventi**
 
-**[Gli eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** hanno una data e un&#39;ora specifiche. che consentono di coordinare, semplificare e monitorare gli eventi in diretta e online.
+**[L’](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** evento deve avere una data e un’ora specifiche. che consentono di coordinare, semplificare e monitorare gli eventi in diretta e online.
 
 **Programmi di coinvolgimento**
 
-**[Drip Nurturing](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** è utilizzato per nutrire le persone a un programma periodico stabilito.
+**[Drip](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** Nurturingè utilizzato per nutrire le persone a un programma periodico stabilito.
 
 **Programmi e-mail**
 
-Il **[classico spuntino](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)** della posta. Offre funzioni integrate fantastiche come test A/B e avvio **[della testina](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)** e-mail.
+**[posta classica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. È dotato di funzioni integrate fantastiche come test A/B e **[Email Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Programmi predefiniti**
 
