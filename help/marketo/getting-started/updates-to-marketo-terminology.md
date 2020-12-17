@@ -19,7 +19,7 @@ Anche se nella documentazione di Marketo potrebbero essere presenti termini dive
 
 Allora, cosa è cambiato?
 
-## Lead è ora persona {#lead-is-now-person}
+## Il lead ora è la persona {#lead-is-now-person}
 
 Il cambiamento più importante è la ridenominazione di Lead/Lead per persona/persona.
 
@@ -75,11 +75,11 @@ Lead e Persona **sono la stessa cosa**.
 
 ## Token {#tokens}
 
-I token con la parola lead non **cambiano**. Ci scusiamo per ogni confusione; tuttavia, la modifica di tutti i token in base alla nuova terminologia potrebbe interrompere l&#39;uso di molti token. Vedrete ancora token come &quot;`{{lead.First Name}}`&quot;. Non esistono token specifici per una persona.
+I token con la parola lead **non cambiano**. Ci scusiamo per ogni confusione; tuttavia, la modifica di tutti i token in base alla nuova terminologia potrebbe interrompere l&#39;uso di molti token. Quindi vedrete ancora token come &quot;`{{lead.First Name}}`&quot;. Non esistono token specifici per una persona.
 
 >[!NOTE]
 >
->C&#39; *è* un token chiamato &quot;Note sulla persona&quot;, tuttavia quel token era sempre presente. In genere viene utilizzato per un campo di descrizione in CRM, se disponibile.
+>*è* presente un token denominato &quot;Note sulla persona&quot;, ma tale token è sempre presente. In genere viene utilizzato per un campo di descrizione in CRM, se disponibile.
 
 ## Gestione dei campi {#field-management}
 
@@ -110,7 +110,7 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
 
 >[!NOTE]
 >
->Per un elenco completo dei nomi dei campi interessati, visitate questo articolo [](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)di supporto.
+>Per un elenco completo dei nomi di campo interessati, visitare questo [articolo di supporto](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
 
 ## La personalizzazione in tempo reale (RTP) ora è la personalizzazione Web {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -139,11 +139,11 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
 
 Oltre alla modifica del nome, ora è composta da quattro app separate:
 
-| ** [Web Personalization](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Dispone di una propria sezione nella schermata principale |
+| ** [Personalizzazione Web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)* | Dispone di una propria sezione nella schermata principale |
 |---|---|
-| ** Marketing [Web basato su](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)account** | Accessibile tramite il riquadro Personalizzazione Web |
-| ** [Retargeting](http://docs.marketo.com/display/DOCS/Website+Retargeting)personalizzato** | Accessibile tramite il riquadro Personalizzazione Web |
-| ** [Predictive Content](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Dispone di una propria sezione nella schermata principale |
+| ** [Marketing Web basato su account](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessibile tramite il riquadro Personalizzazione Web |
+| ** [Retargeting personalizzato](http://docs.marketo.com/display/DOCS/Website+Retargeting)* | Accessibile tramite il riquadro Personalizzazione Web |
+| ** [Predictive Content](http://docs.marketo.com/display/DOCS/Predictive+Content)* | Dispone di una propria sezione nella schermata principale |
 
 >[!NOTE]
 >
