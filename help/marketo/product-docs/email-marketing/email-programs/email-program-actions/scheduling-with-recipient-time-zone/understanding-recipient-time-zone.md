@@ -17,31 +17,31 @@ I programmi di e-mail e di coinvolgimento possono essere configurati per essere 
 
 >[!NOTE]
 >
->Il fuso orario del destinatario funziona **solo** con il contenuto dell&#39;e-mail. Non funzionerà per i programmi di coinvolgimento predefiniti.
+>Il fuso orario del destinatario attualmente funziona **solo** con il contenuto dell&#39;e-mail. Non funzionerà per i programmi di coinvolgimento predefiniti.
 
 ## Programmi e-mail {#email-programs}
 
-Quando si [pianifica un programma](schedule-email-programs-with-recipient-time-zone.md)e-mail si possono verificare due scenari principali:
+Esistono due scenari principali in cui [pianificare un programma e-mail](schedule-email-programs-with-recipient-time-zone.md):
 
 1. Programmare l&#39;esecuzione del programma entro le prossime 25 ore.
 1. Programmare l&#39;esecuzione del programma per più di 25 ore in futuro (ad esempio, la settimana successiva).
 
-Per adattarsi a ogni fuso orario, i programmi e-mail pianificati con il fuso orario del destinatario iniziano a essere in esecuzione a mezzanotte nel **primo/primo** fuso orario del mondo (UTC +14:00).
+Per adattarsi a ogni fuso orario, i programmi e-mail pianificati con il fuso orario del destinatario iniziano a essere in esecuzione a mezzanotte nel fuso orario **primo/primo** del mondo (UTC +14:00).
 
 ## Programmi di coinvolgimento {#engagement-programs}
 
-Quando [pianifichi un flusso](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) di programmi di coinvolgimento e il fuso orario del destinatario è attivo, il cast del programma inizierà a partire da mezzanotte in UTC +14:00. È necessario pianificare il primo cast per almeno 25 ore in futuro (24 ore + un po&#39; di tempo per avviare la campagna) perché le persone possono qualificarsi per il cast in ogni fuso orario del mondo. A partire da questa elaborazione in UTC +14:00 garantiamo che l&#39;e-mail verrà inviata alla data e all&#39;ora previste per ogni utente idoneo per questo cast.
+Quando [pianificate un flusso di programmi di coinvolgimento](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e il fuso orario destinatario è attivo, il cast del programma inizierà a partire da mezzanotte all&#39;ora UTC +14:00. È necessario pianificare il primo cast per almeno 25 ore in futuro (24 ore + un po&#39; di tempo per avviare la campagna) perché le persone possono qualificarsi per il cast in ogni fuso orario del mondo. A partire da questa elaborazione in UTC +14:00 garantiamo che l&#39;e-mail verrà inviata alla data e all&#39;ora previste per ogni utente idoneo per questo cast.
 
 ## Calcolo del fuso orario {#calculating-time-zone}
 
 Marketo calcola il fuso orario in base alla città, allo stato, al paese o al codice postale di una persona. Se non siamo in grado di calcolare il fuso orario di qualcuno in base a questi valori, torneremo ai campi Città inferta, Stato inferto, Paese ferito e Codice postale.
 
-Nei casi in cui abbiamo **solo **Paese o **solo** Stato disponibile:
+Nei casi in cui è disponibile **only **Country o **solo** State:
 
 * Per i paesi con tre o meno fusi orari, selezioniamo il fuso orario intermedio.
 * Per gli stati con due fusi orari, viene selezionata la prima delle due.
 
-Se non è ancora possibile determinare il fuso orario di un utente da una qualsiasi combinazione di questi campi, **non** verrà assegnato un fuso orario e l&#39;e-mail verrà recapitata in base al fuso orario dell&#39;iscrizione a Marketo. Pertanto, se il programma è pianificato per le 9:00 PDT, le persone senza fuso orario riceveranno l&#39;e-mail alle 9:00 PDT.
+Se non riusciamo ancora a determinare il fuso orario di un utente da una qualsiasi combinazione di questi campi, **non** assegneremo un fuso orario e l&#39;e-mail verrà recapitata in base al fuso orario dell&#39;iscrizione di Marketo. Pertanto, se il programma è pianificato per le 9:00 PDT, le persone senza fuso orario riceveranno l&#39;e-mail alle 9:00 PDT.
 
 >[!NOTE]
 >
