@@ -19,15 +19,15 @@ ht-degree: 0%
 
 A volte si avvia una campagna intelligente e immediatamente si rende conto che era un errore. Ecco come tirare il freno di emergenza e fermare la campagna intelligente a metà corsa.
 
-1. In Attività **** di marketing, selezionate la campagna intelligente e passate alla scheda **Pianificazione** .
+1. In **Marketing Activities**, selezionate la campagna smart e andate alla scheda **Schedule** (Pianificazione).
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Fai clic sul menu a discesa** Campaign Actions*. Selezionate **Interrompi campagna**.
+1. Fai clic sul menu a discesa** Campaign Actions*. Selezionare **Interrompi campagna**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. Fate clic su **Interrompi** per confermare.
+1. Fare clic su **Interrompi** per confermare.
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
@@ -42,10 +42,10 @@ A volte si avvia una campagna intelligente e immediatamente si rende conto che e
 
    >[!NOTE]
    >
-   >Osservate la scheda **Risultati** della campagna intelligente per vedere quali azioni sono state eseguite prima dell’interruzione. Troverete anche una [notifica](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
+   >Date un&#39;occhiata alla scheda **Results** della campagna intelligente per vedere quali azioni sono state eseguite prima dell&#39;interruzione. Troverete anche una [notifica](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
 
    >[!TIP]
    >
-   >Vuoi rimuovere una persona dal flusso in una campagna attivatore? Estrai [Rimuovi dal flusso](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Vuoi rimuovere una persona dal flusso in una campagna attivatore? Estrarre [Rimuovi da Flusso](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Controlla sempre il tuo lavoro, ma questo freno di emergenza potrebbe venire utile in futuro.
