@@ -25,7 +25,7 @@ Utilizza i webhooks per sfruttare i servizi Web di terze parti per inviare messa
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
-1. Fate clic su **Nuovo Webhook**.
+1. Fare clic su **Nuovo Webhook**.
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
@@ -37,13 +37,13 @@ Utilizza i webhooks per sfruttare i servizi Web di terze parti per inviare messa
    >
    >Ciò spesso include l&#39;immissione delle credenziali del servizio di terze parti come parametro URL o nel modello POST.
 
-   * **URL**: Inserite l’URL che utilizzate per POST della richiesta al servizio Web. Per inserire un token, ad esempio l&#39;indirizzo e-mail della persona (**`{{lead.Email Address}}`**), nella richiesta fate clic su **Inserisci token**.
+   * **URL**: Inserite l’URL che utilizzate per POST della richiesta al servizio Web. Per inserire un token, ad esempio l&#39;indirizzo e-mail della persona (**`{{lead.Email Address}}`**), nella richiesta fare clic su **Inserisci token**.
 
-   * **Modello**: Se desiderate trasmettere le informazioni nel corpo del POST, inserite il modello. Utilizzate qualsiasi formato di dati che supporti POST HTTP, inclusi XML, JSON o SOAP. Per inserire un token nel modello, fate clic su **Inserisci token**.
+   * **Modello**: Se desiderate trasmettere le informazioni nel corpo del POST, inserite il modello. Utilizzate qualsiasi formato di dati che supporti POST HTTP, inclusi XML, JSON o SOAP. Per inserire un token nel modello, fare clic su **Inserisci token**.
 
-   * **Richiedi codifica** token: Se i valori del token includono caratteri speciali (ad esempio una e commerciale, &#39;&amp;&#39;), indicate il formato della richiesta (**JSON** o **Form/Url**).
+   * **Richiedi codifica** token: Se i valori del token includono caratteri speciali (ad esempio una e commerciale, &#39;&amp;&#39;), indicate il formato della richiesta (**** JSONo  **Form/Url**).
 
-   * **Tipo** di risposta: Selezionate il formato della risposta ricevuta dal servizio (**JSON** o **XML**).
+   * **Tipo** di risposta: Selezionate il formato della risposta ricevuta dal servizio (**** JSONo  **XML**).
 
    Fate clic su Crea.
 
@@ -53,5 +53,5 @@ Utilizza i webhooks per sfruttare i servizi Web di terze parti per inviare messa
 >
 >**Tubo profondo**
 >
->Scopri di più nella [tuffi](http://developers.marketo.com/documentation/webhooks/) di webhooks.
+>Ulteriori informazioni sono disponibili nella [webhooks](http://developers.marketo.com/documentation/webhooks/) immersione profonda.
 
