@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di un&#39;immagine di sfondo a una presentazione {#add-a-background-image-to-a-presentation}
+# Aggiungere un&#39;immagine di sfondo a una presentazione{#add-a-background-image-to-a-presentation}
 
 Personalizzate una presentazione selezionando un’immagine di sfondo.
 
@@ -39,11 +39,11 @@ Personalizzate una presentazione selezionando un’immagine di sfondo.
 
    >[!TIP]
    >
-   >Per un aspetto più pulito, usate un’immagine da **1920 x 1080** o **1280 x 720**.
+   >Per un aspetto più pulito, usate un&#39;immagine che sia **1920 x 1080** o **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Fate clic su **Anteprima** per estrarlo.
+1. Fare clic su **Anteprima** per estrarlo.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
