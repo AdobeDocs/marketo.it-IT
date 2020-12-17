@@ -22,7 +22,7 @@ Marketo consente di creare voci direttamente nel calendario di marketing utilizz
 
 Ecco come.
 
-1. Vai al **calendario**.
+1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -39,7 +39,7 @@ Ecco come.
 
    >[!TIP]
    >
-   >Potete anche creare campagne **** intelligenti, programmi **e-** mail e voci **** di base allo stesso modo.
+   >È inoltre possibile creare **Campagne intelligenti**, **Programmi e-mail** e **Voci di base** allo stesso modo.
 
 1. Al termine della modifica, chiudere la modalità di messa a fuoco del programma.
 
