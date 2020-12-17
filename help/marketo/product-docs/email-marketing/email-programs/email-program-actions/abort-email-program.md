@@ -19,7 +19,7 @@ Oops! Colpite i freni! Questo programma e-mail non dovrebbe uscire.
 >
 >Questo articolo è inteso a impedire che le e-mail vengano inviate prima del loro invio. Non c&#39;è modo di ricordare le e-mail inviate.
 
-1. In un programma e-mail, fai clic su **Interrompi programma.**
+1. In un programma di posta elettronica, fare clic su **Interrompi programma.**
 
    ![](assets/dashboardleads.jpg)
 
