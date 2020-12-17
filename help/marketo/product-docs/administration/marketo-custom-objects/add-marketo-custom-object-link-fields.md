@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi campi collegamento oggetto personalizzato marketing {#add-marketo-custom-object-link-fields}
+# Aggiungi campi collegamento oggetto personalizzato Marketo {#add-marketo-custom-object-link-fields}
 
 Quando si creano oggetti personalizzati, è necessario fornire campi di collegamento per collegare il record oggetto personalizzato al record padre corretto.
 
 * Per una struttura personalizzata uno-molti, utilizzare il campo di collegamento nell&#39;oggetto personalizzato per collegarlo a una persona o una società.
 * Per una struttura molti-molti, si utilizzano due campi di collegamento, collegati da un oggetto intermedio creato separatamente (anch&#39;esso un tipo di oggetto personalizzato). Un collegamento si collega alle persone o alle società presenti nel database e l&#39;altro all&#39;oggetto personalizzato. In questo caso, il campo del collegamento non si trova nello stesso oggetto personalizzato.
 
-## Creare un campo collegamento per una struttura uno-a-molti {#create-a-link-field-for-a-one-to-many-structure}
+## Creare un campo collegamento per una struttura uno-molti {#create-a-link-field-for-a-one-to-many-structure}
 
 Come creare un campo di collegamento in un oggetto personalizzato per una struttura uno-molti.
 
-1. Fare clic su **Admin** e, in Gestione **** database, selezionare **Marketo oggetti** personalizzati.
+1. Fare clic su **Admin** e in **Database Management** selezionare **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +30,7 @@ Come creare un campo di collegamento in un oggetto personalizzato per una strutt
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Nella scheda **Campi** , fare clic su **Nuovo campo**.
+1. Nella scheda **Campi** fare clic su **Nuovo campo**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -61,7 +61,7 @@ Come creare un campo di collegamento in un oggetto personalizzato per una strutt
    >
    >Nel campo del collegamento sono supportati solo i tipi di campo stringa.
 
-1. Fate clic su **Salva.**
+1. Fare clic su **Salva.**
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
@@ -73,7 +73,7 @@ Come creare un campo di collegamento in un oggetto intermediario da utilizzare i
 >
 >È necessario aver già creato l&#39;oggetto intermediario ed eventuali oggetti personalizzati a cui si desidera collegarlo.
 
-1. Fare clic su **Admin** e, in Gestione **** database, selezionare **Marketo oggetti** personalizzati.
+1. Fare clic su **Admin** e in **Database Management** selezionare **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -81,7 +81,7 @@ Come creare un campo di collegamento in un oggetto intermediario da utilizzare i
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Nella scheda **Fields **, fare clic su **New Field (Nuovo campo**).
+1. Nella scheda **Fields **, fare clic su **New Field**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -105,7 +105,7 @@ Come creare un campo di collegamento in un oggetto intermediario da utilizzare i
    >
    >Nel campo del collegamento sono supportati solo i tipi di campo stringa.
 
-1. Fate clic su **Salva.**
+1. Fare clic su **Salva.**
 
    ![](assets/image2016-1-18-9-3a55-3a18.png)
 
