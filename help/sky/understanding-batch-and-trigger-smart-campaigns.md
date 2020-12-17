@@ -24,14 +24,14 @@ Le campagne smart in batch includeranno solo filtri nella sezione degli elenchi 
 
 ![Immagine uno](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Facendo clic sulla **[!UICONTROL Schedule]** scheda si confermerà che la campagna intelligente è impostata su &quot;Batch&quot;.
+Facendo clic sulla scheda **[!UICONTROL Schedule]** si verificherà che la campagna intelligente sia impostata su &quot;Batch&quot;.
 
 ![Immagine due](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campagne intelligenti in batch**
 
 * Può essere pianificato per le ricorrenze, ad esempio giornaliere, settimanali e mensili. Potete anche farli correre una sola volta.
-* Sono visibili nella vista [Pianificazione](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)programma.
+* Sono visibili nella [vista programmazione programma](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
 * Tutto ciò che segue un passaggio &quot;Wait&quot; all&#39;interno della campagna intelligente non verrà incluso nella vista.
 
 ## Attivate Smart Campaign
@@ -42,15 +42,15 @@ Se una campagna intelligente utilizza almeno un trigger all&#39;interno della se
 
 ![Immagine tre](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Facendo clic sulla **[!UICONTROL Schedule]** scheda si confermerà che la campagna intelligente è impostata su &quot;Trigger&quot;.
+Facendo clic sulla scheda **[!UICONTROL Schedule]** si verificherà che la campagna intelligente sia impostata su &quot;Trigger&quot;.
 
 ![Immagine quattro](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Attiva campagne intelligenti**
 
 * Impossibile pianificare le ricorrenze. Possono essere impostati solo su attivi o inattivi.
-* È possibile impostare più attivatori. Tuttavia, se viene attivato _un qualsiasi_ attivatore, le azioni della campagna verranno eseguite.
+* È possibile impostare più attivatori. Tuttavia, se viene attivato _qualsiasi trigger_, le azioni della campagna verranno eseguite.
 
 >[!TIP]
 >
->Utilizzate il registro [delle](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) attività per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Potete trovare il registro attività nell&#39;ultima scheda della pagina dei dettagli di una persona.
+>Utilizzate il [registro attività](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Potete trovare il registro attività nell&#39;ultima scheda della pagina dei dettagli di una persona.
