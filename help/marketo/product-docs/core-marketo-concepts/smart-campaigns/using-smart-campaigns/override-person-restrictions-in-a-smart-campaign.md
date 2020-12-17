@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Escludere le limitazioni di persona in una campagna intelligente {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo consente di impostare il numero massimo* *di persone idonee per una campagna intelligente; in questo modo si evita di inviare accidentalmente l&#39;intero database. Se vuoi *ignorare* questo limite, ecco come.
+Marketo consente di impostare il numero massimo* *di persone idonee per una campagna intelligente; in questo modo si evita di inviare accidentalmente l&#39;intero database. Se si desidera *ignorare* questo limite, vedere come.
 
 >[!PREREQUISITES]
 >
->Assicurati di [abilitare le restrizioni per le persone per le campagne](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) intelligenti in Marketo Admin.
+>Assicurati di [abilitare le restrizioni per le persone per le campagne intelligenti](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) nell&#39;amministratore di Marketing.
 
-1. In Marketing Activities (Attività di marketing), andate alla campagna** **smart e fate clic su **Schedule (Pianificazione**).
+1. In Marketing Activities (Attività marketing), andate alla campagna** **smart e fate clic su **Schedule**.
 
    ![](assets/one.png)
 
