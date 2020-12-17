@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sull&#39;iscrizione al programma {#understanding-program-membership}
+# Informazioni sull&#39;appartenenza al programma {#understanding-program-membership}
 
 >[!NOTE]
 >
->Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)informazioni.
+>Marketo sta standardizzando la lingua tra tutte le iscrizioni, pertanto è possibile che nell&#39;abbonamento siano presenti lead/lead e persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md) informazioni.
 
 >[!NOTE]
 >
@@ -23,24 +23,24 @@ ht-degree: 0%
 
 ## Come le persone diventano membri di un programma {#how-people-become-members-of-a-program}
 
-1. Una persona compila un [modulo in una pagina](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) di destinazione del programma.
+1. Una persona compila un [modulo su una pagina di destinazione](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) nel programma.
 
    1. La persona avrà automaticamente il primo stato nella progressione.
 
-1. Potete [importare membri nel programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) da un file CSV.
+1. I membri [importati nel programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) da un file CSV.
 
    1. La persona avrà automaticamente il primo stato nella progressione.
 
-1. È possibile utilizzare il passaggio di flusso dello stato [del programma di](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) modifica.
-1. Una persona registra o partecipa a un [seminario Web sincronizzato con un programma](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)evento.
-1. Una persona viene [creata utilizzando l’applicazione](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)di check-in per iPad Marketo.
-1. Una persona viene aggiunta a una campagna SFDC, [sincronizzata con il programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
+1. È possibile utilizzare il passaggio di flusso [modifica dello stato del programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
+1. Una persona registra o partecipa a un seminario Web [sincronizzato con un programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
+1. Una persona viene [creata utilizzando l&#39;applicazione di check-in per iPad Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. Una persona viene aggiunta a una campagna SFDC, che è [sincronizzata con il programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
 >
 >Per un programma e-mail, una persona viene aggiunta all&#39;iscrizione solo quando l&#39;e-mail viene inviata.
 
-## Stati del programma {#program-statuses}
+## Stati programma {#program-statuses}
 
 Gli stati del programma sono i passi che le persone attraversano in un programma (ad esempio, Invitato, RSVP, Partecipato, No Show). Questi passaggi sono definiti dal [canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
@@ -58,9 +58,9 @@ Lo scopo di un programma è quello di creare un&#39;interazione significativa co
 >
 >Per un webinar, la registrazione non è un&#39;interazione significativa se non guarda effettivamente il webinar. Partecipare è un successo in questo caso.
 
-## Programma di acquisizione  {#acquisition-program}
+## Programma di acquisizione {#acquisition-program}
 
-Quando un nuovo nome entra nel sistema come membro del programma, Marketo lo imposta automaticamente come &quot;acquisizione&quot;. Questo stabilisce il merito per l&#39;attribuzione [](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)First-Touch.
+Quando un nuovo nome entra nel sistema come membro del programma, Marketo lo imposta automaticamente come &quot;acquisizione&quot;. Viene così riconosciuta l&#39;attribuzione [First-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
