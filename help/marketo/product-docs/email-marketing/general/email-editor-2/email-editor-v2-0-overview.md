@@ -17,7 +17,7 @@ Quando decidi di attivare Editor e-mail v2.0, noterai diverse nuove funzioni.
 
 **Selettore modello e-mail**
 
-Quando create un nuovo messaggio e-mail, viene visualizzato il selettore [Modello e-](email-template-picker-overview.md)mail.
+Quando create un nuovo messaggio e-mail, viene visualizzato il selettore [Modello e-mail](email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Quando iniziate a modificare l&#39;e-mail, noterete che l&#39;editor ha un aspet
 
 **Moduli**
 
-Quelle cose sul lato destro dell&#39;editor sono chiamate moduli. Scoprite come [aggiungere moduli all’e-mail](add-modules-to-your-email.md).
+Quelle cose sul lato destro dell&#39;editor sono chiamate moduli. Scoprite come [aggiungere moduli all&#39;e-mail](add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Versione testo**
 
-Il passaggio tra la versione HTML e le versioni di testo dell&#39;e-mail ora si trova in una comoda scheda in basso. Scoprite come [modificare la versione di testo di un messaggio e-mail](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Il passaggio tra la versione HTML e le versioni di testo dell&#39;e-mail ora si trova in una comoda scheda in basso. Scoprite come [modificare la versione di testo di un&#39;e-mail](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **Intestazione e-mail**
 
-Vuoi più spazio di progettazione? L’intestazione dell’e-mail può essere nascosta al termine della [modifica](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
+Vuoi più spazio di progettazione? L&#39;intestazione dell&#39;e-mail può essere nascosta dopo che è stata effettuata [la modifica](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
 
 ![](assets/five-4.png)
 
@@ -59,7 +59,7 @@ Per impostazione predefinita, l’e-mail viene visualizzata come verrebbe visual
 
 ![](assets/eight-3.png)
 
-Per un’anteprima più grande, fate clic su **Anteprima** in alto a destra nell’e-mail.
+Per un&#39;anteprima più grande, fate clic su **Anteprima** in alto a destra nell&#39;e-mail.
 
 ![](assets/preview1.png)
 
@@ -67,13 +67,13 @@ La vista predefinita è desktop...
 
 ![](assets/preview2.png)
 
-...ma potete anche vedere come si presenterà su un dispositivo mobile. Potete anche visualizzare l&#39;anteprima della versione di testo! Fate clic su **Modifica bozza** in alto a destra per riprendere la modifica.
+...ma potete anche vedere come si presenterà su un dispositivo mobile. Potete anche visualizzare l&#39;anteprima della versione di testo! È sufficiente fare clic su **Modifica bozza** in alto a destra per riprendere la modifica.
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **Azioni e-mail**
 
-In Azioni **e-** mail noterete alcune nuove funzioni. **Caricate un’immagine o un file** e **acquisite immagini dal Web**. Potete anche salvare l’e-mail stessa come nuovo modello e-mail. Tutto quello che devi fare è dargli un nome e una destinazione.
+In **Azioni e-mail** sono disponibili alcune nuove funzioni. **Caricate un’immagine o un file** e  **acquisite immagini dal Web**. Potete anche salvare l’e-mail stessa come nuovo modello e-mail. Tutto quello che devi fare è dargli un nome e una destinazione.
 
 ![](assets/nine-3.png)
 
@@ -85,7 +85,7 @@ In Azioni **e-** mail noterete alcune nuove funzioni. **Caricate un’immagine o
 >
 >** [Acquisire immagini da Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funziona esattamente come in Design Studio.
 
-**Se necessario, disattivate Apri tracciamento** in Impostazioni **e-** mail.
+**Disattiva Apri** tracciamentoIn Impostazioni **e-** mail, se necessario puoi disattivare il tracciamento aperto.
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ Un sacco di nuove funzioni fantastiche! Divertiti!
 >
 >**Tubo profondo**
 >
->Per approfondire ulteriormente la ricerca, guardate questo [utile video](https://nation.marketo.com/videos/1463).
+>Per approfondire ulteriormente la ricerca, guardate questo [video utile](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
