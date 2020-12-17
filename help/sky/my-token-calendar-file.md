@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Un [!UICONTROL Calendar File] token consente di aggiungere un collegamento evento di calendario (.ics) alle e-mail e alle pagine di destinazione di Marketo. Come impostare un programma da utilizzare nei programmi e nelle cartelle delle campagne.
+Un token [!UICONTROL Calendar File] consente di aggiungere un collegamento evento del calendario (.ics) alle e-mail e alle pagine di destinazione di Marketo. Come impostare un programma da utilizzare nei programmi e nelle cartelle delle campagne.
 
-1. Nella [!UICONTROL My Tokens] scheda del programma o della cartella, trascinate un **[!UICONTROL Calendar File]** token sul [!UICONTROL Local Tokens] quadro.
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **[!UICONTROL Calendar File]** nell&#39;area di lavoro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
@@ -28,6 +28,6 @@ Un [!UICONTROL Calendar File] token consente di aggiungere un collegamento event
 
    ![Immagine tre](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-3.jpg)
 
-1. Inserite il collegamento associato e scegliete quando inviare il promemoria dell’evento. Potete anche immettere una descrizione facoltativa. Fate clic **[!UICONTROL Save]**.
+1. Inserite il collegamento associato e scegliete quando inviare il promemoria dell’evento. Potete anche immettere una descrizione facoltativa. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine quattro](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-4.jpg)
