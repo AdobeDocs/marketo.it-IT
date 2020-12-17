@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Spostare un&#39;e-mail {#move-an-email}
+# Sposta un&#39;e-mail {#move-an-email}
 
 Hai bisogno di spostare un&#39;e-mail da un programma all&#39;altro? Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/one-2.png)
 
-1. Individuate il messaggio e-mail da spostare, fate clic con il pulsante destro del mouse su di esso e selezionate **Sposta**.
+1. Individuare l&#39;e-mail da spostare, fare clic con il pulsante destro del mouse su di essa e selezionare **Sposta**.
 
    ![](assets/leadperformance.jpg)
 
-1. Fate clic sul menu a **discesa Sposta a** e selezionate Attività **** di marketing.
+1. Fare clic sul menu a discesa **Sposta a** e selezionare **Attività di marketing**.
 
    ![](assets/three-2.png)
 
@@ -31,7 +31,7 @@ Hai bisogno di spostare un&#39;e-mail da un programma all&#39;altro? Ecco come.
    >
    >In questo esempio stiamo spostando un&#39;e-mail in un altro programma, ma potete anche spostare un&#39;e-mail in una cartella in Design Studio.
 
-1. Fare clic sul menu a discesa **Programma** , individuare e selezionare il programma di destinazione, quindi fare clic su **Sposta**.
+1. Fare clic sul menu a discesa **Program**, individuare e selezionare il programma di destinazione, quindi fare clic su **Move**.
 
    ![](assets/four-2.png)
 
