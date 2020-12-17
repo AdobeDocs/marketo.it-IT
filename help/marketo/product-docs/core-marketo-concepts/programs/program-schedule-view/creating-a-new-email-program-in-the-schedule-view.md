@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È possibile creare un programma e-mail dall&#39;interno della vista di pianificazione del programma. Ecco come.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Immettete un nome. Selezionate **Email** **Program**.
+1. Immettete un nome. Selezionare **Email** **Program**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configurate il programma](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e-mail e fate clic su **Approva programma**.
+1. [Configurate il ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programma e-mail e fate clic su  **Approva programma**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Oltre al dashboard dettagliato, un vantaggio nell&#39;utilizzo di un programma [e-](http://docs.marketo.com/display/docs/email+programs) mail invece di una campagna intelligente è la capacità di implementare facilmente un test [](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B. Divertiti!
+   Oltre al dashboard dettagliato, un vantaggio nell&#39;utilizzo di un [programma e-mail](http://docs.marketo.com/display/docs/email+programs) invece di una campagna intelligente è la possibilità di implementare facilmente un [test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Divertiti!
 
