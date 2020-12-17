@@ -19,15 +19,15 @@ Il Treasure Chest contiene divertenti funzionalità sperimentali che non sono co
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin **fare clic su **Treasure Chest**.
+1. In **Admin **fare clic su **Cestino del tesoro**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
-1. Fate clic su **Modifica** per la funzione da attivare o disattivare.
+1. Fare clic su **Modifica** per specificare la funzione da attivare o disattivare.
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. Selezionare la casella **Abilitato** per abilitare o deselezionare per disabilitare, quindi fare clic su **Salva**.
+1. Selezionare la casella **Abilitato** per attivare o deselezionare per disattivare, quindi fare clic su **Salva**.
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
