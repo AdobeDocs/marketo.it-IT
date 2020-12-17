@@ -21,7 +21,7 @@ Se devi abilitare la sincronizzazione entità personalizzata iniziale per render
 
 >[!PREREQUISITES]
 >
->Per utilizzare un oggetto personalizzato, deve essere associato a un oggetto [lead](microsoft-dynamics-sync-lead-sync.md), a un [contatto](microsoft-dynamics-sync-contact-sync.md)o a un [](microsoft-dynamics-sync-account-sync.md)oggetto account in Dynamics.
+>Per utilizzare un oggetto personalizzato, deve essere associato a un oggetto [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md) o [account](microsoft-dynamics-sync-account-sync.md)in Dynamics.
 
 >[!CAUTION]
 >
@@ -35,17 +35,17 @@ Se devi abilitare la sincronizzazione entità personalizzata iniziale per render
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Installa una versione di Microsoft Dynamics che supporta la sincronizzazione di entità personalizzata (dopo 2_0_0_2). Consultate Rilasci plug-in [Marketo per Microsoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Installa una versione di Microsoft Dynamics che supporta la sincronizzazione di entità personalizzata (dopo 2_0_0_2). Vedere [Rilasci plug-in Marketo per Microsoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 1. Consentite a Marketing Sync User di accedere in lettura alle entità che pianificate di sincronizzare.
 1. In Gestione database, fai clic sul collegamento** Dynamics Entities Sync**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Fate clic sul collegamento **Sincronizza schema** per riportare l&#39;elenco delle entità personalizzate disponibili.
+1. Fare clic sul collegamento **Sincronizza schema** per riportare l&#39;elenco delle entità personalizzate disponibili.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Dopo la sincronizzazione dell&#39;elenco, selezionate i campi da sincronizzare e quelli da utilizzare come [vincoli](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fate clic su **Abilita sincronizzazione**.
+1. Dopo la sincronizzazione dell&#39;elenco, selezionare i campi da sincronizzare e quelli che si desidera utilizzare come [vincoli](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fare clic su **Abilita sincronizzazione**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
