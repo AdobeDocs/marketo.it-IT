@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Alcune parole chiave vanno molto bene con determinate pagine. Questo è come si abbina la parola chiave perfetta alla sua pagina perfetta. Questo fornirà i dati più accurati e le migliori raccomandazioni per il miglioramento.
 
-1. Vai alla sezione **Pagine** .
+1. Vai alla sezione **Pagine**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a
 
@@ -23,7 +23,7 @@ Alcune parole chiave vanno molto bene con determinate pagine. Questo è come si 
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Selezionare la parola chiave per la quale si sta tentando di ottimizzare la pagina. Fate clic su **AGGIORNA**.
+1. Selezionare la parola chiave per la quale si sta tentando di ottimizzare la pagina. Fare clic su **UPDATE**.
 
    >[!TIP]
    >
