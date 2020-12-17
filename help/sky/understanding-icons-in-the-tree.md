@@ -20,6 +20,6 @@ Le icone presenti nella struttura ad albero possono fornire molte informazioni s
 
 ## Caricamento on-demand
 
-Un’icona di cartella vuota indica che la cartella contiene risorse che non sono state modificate nell’intervallo [di date](/help/sky/configuring-the-tree.md) selezionato e che sono pertanto nascoste. Per visualizzare queste risorse, passate il mouse sull’icona della cartella, che verrà sostituita dall’icona di aggiornamento illustrata di seguito. Fate clic per aggiornare e caricare tutte le risorse.
+Un&#39;icona di cartella vuota indica che la cartella contiene risorse che non sono state modificate nell&#39;intervallo di date [selezionato](/help/sky/configuring-the-tree.md) e che sono pertanto nascoste. Per visualizzare queste risorse, passate il mouse sull’icona della cartella, che verrà sostituita dall’icona di aggiornamento illustrata di seguito. Fate clic per aggiornare e caricare tutte le risorse.
 
 ![Immagine due](/help/sky/assets/tree/understanding-icons-in-the-tree/understanding-icons-in-the-tree-2.png)
