@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Vuoi gestire le tue pagine? È possibile farlo facilmente creando un elenco. È possibile utilizzare gli elenchi per organizzare le pagine o filtrare i dati nelle dashboard.
 
-## Aggiungere una pagina a un elenco {#add-page-to-a-list}
+## Aggiungi pagina a un elenco {#add-page-to-a-list}
 
-1. Vai alla sezione **Pagine** .
+1. Vai alla sezione **Pagine**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passate il puntatore del mouse sulla pagina da aggiungere a un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA ELENCO**.
+1. Passate il puntatore del mouse sulla pagina da aggiungere a un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +49,7 @@ Vuoi gestire le tue pagine? È possibile farlo facilmente creando un elenco. È 
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passate il puntatore del mouse sulla pagina da rimuovere. Fare clic su **AGGIUNGI/RIMUOVI DA ELENCO**.
+1. Passate il puntatore del mouse sulla pagina da rimuovere. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
