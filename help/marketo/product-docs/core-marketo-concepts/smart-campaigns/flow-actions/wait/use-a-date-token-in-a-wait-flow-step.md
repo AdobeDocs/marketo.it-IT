@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzare un token di data in un passaggio di flusso di attesa {#use-a-date-token-in-a-wait-flow-step}
+# Utilizzare un token di data in un passaggio del flusso di attesa {#use-a-date-token-in-a-wait-flow-step}
 
 Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viaggio di una persona attraverso una campagna intelligente fino a una data specifica che utilizza un token di data. È inoltre possibile modificare la data di fine di un certo numero di giorni.
 
@@ -19,7 +19,7 @@ Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viag
 >
 >Ciò vale solo per attivare le campagne. Non è possibile utilizzare questa funzione nelle campagne batch.
 
-1. Nella scheda **Flusso** campagna intelligente, trascina il passaggio del flusso di **attesa** .
+1. Nella scheda **Flusso** della campagna smart, trascina il passaggio **Aspetta**.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +27,7 @@ Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viag
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Dall&#39;elenco a discesa **Tipo** , selezionate Token **** data.
+1. Dall&#39;elenco a discesa **Tipo**, selezionare **Data Token**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,7 +54,7 @@ Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viag
 
    >[!NOTE]
    >
-   >È inoltre possibile specificare il numero di giorni utilizzando un `{{lead.` token o un `{{company.` campo intero o un `{{my.` token di tipo numerico.
+   >È inoltre possibile specificare il numero di giorni utilizzando un token `{{lead.` o `{{company.` che rappresenta un campo intero o un token `{{my.` di tipo numerico.
 
 1. Fate clic su Salva.
 
