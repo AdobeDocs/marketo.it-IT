@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personalizzare gli URL della pagina di destinazione con un CNAME (Amministrazione) {#customize-your-landing-page-urls-with-a-cname-administration}
+# Personalizzare gli URL delle pagine di destinazione con un CNAME (Amministrazione) {#customize-your-landing-page-urls-with-a-cname-administration}
 
 Anche se Marketo ospita le pagine di destinazione, l’URL deve essere personalizzato per la società.
 
@@ -37,17 +37,17 @@ Prepariamoci!
 
    * **vai**.YourCompany.com/NameOfPage.html
    * **info**.YourCompany.com/NameOfPage.html
-   * **pagine**.YourCompany.com/NameOfPage.html
+   * **pagine** .YourCompany.com/NameOfPage.html
 
    La parola (più YourCompany.com) è denominata CNAME. Ne avrete bisogno in un secondo momento, quindi prendetene nota.
 
 1. Trovate la stringa account.
 
-1. Andate nell&#39;area **Admin** e fate clic su Pagine **di** destinazione.
+1. Andate nell&#39;area **Admin** e fate clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Nella scheda Pagine **di** destinazione, copiate la stringa account dalla sezione Impostazioni.
+1. Nella scheda **Pagine di destinazione**, copiare la stringa account dalla sezione Impostazioni.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,21 +55,21 @@ Prepariamoci!
 
 1. Invia richiesta all&#39;IT.
 
-1. Chiedete al personale IT di impostare il seguente CNAME (sostituite la parola [CNAME] e STRING [] ACCOUNT con il testo del passaggio precedente):
+1. Chiedete al personale IT di impostare il seguente CNAME (sostituite la parola [CNAME] e [ACCOUNT STRING] con il testo del passaggio precedente):
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 1. Completate l’impostazione del CNAME.
 
-1. Una volta che il CNAME è stato creato dal reparto IT, accedi ad **Admin** e fai clic su Pagine **di** destinazione.
+1. Una volta che il CNAME è stato creato dal reparto IT, andate a **Admin** e fate clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Nella sezione **Impostazioni** , fate clic su **Modifica**.
+1. Nella sezione **Impostazioni**, fare clic su **Modifica**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Immettete il CNAME nel nome **di dominio per le pagine** di destinazione, immettete la pagina **di** fallback, immettete la **homepage** e fate clic su **Salva**.
+1. Immettete il CNAME in **Nome di dominio per le pagine di destinazione**, immettete la pagina di fallback **Fallback**, immettete la pagina **Homepage** e fate clic su **Salva**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
