@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Persone Di Transizione Tra I Flussi Di Coinvolgimento {#transition-people-between-engagement-streams}
+# Persone di transizione tra flussi di coinvolgimento {#transition-people-between-engagement-streams}
 
-I programmi di coinvolgimento possono avere più di un flusso. Se si [aggiunge un flusso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), sarà necessario definire un modo per consentire agli utenti di spostarsi da un flusso all&#39;altro. Queste sono chiamate regole di **transizione.**
+I programmi di coinvolgimento possono avere più di un flusso. Se [aggiungete un flusso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), è necessario definire un modo per consentire agli utenti di spostarsi da un flusso all&#39;altro. Tali regole sono denominate **regole di transizione.**
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Seleziona il tuo programma di coinvolgimento multi-streaming e vai a **Streams**.
+1. Selezionate il programma di coinvolgimento con più flussi e passate a **Streams**.
 
    ![](assets/multistream.jpg)
 
-1. Fare clic su Regole **di** transizione per il flusso in cui si desidera eseguire il pulling da altri flussi, quindi fare clic su **Edit Transition Rules (Modifica regole di transizione). **
+1. Fare clic su **Regole di transizione** per il flusso in cui si desidera eseguire il pulling da altri flussi, quindi fare clic su **Edit Transition Rules. **
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -46,7 +46,7 @@ I programmi di coinvolgimento possono avere più di un flusso. Se si [aggiunge u
    >
    >Potete aggiungere più attivatori e filtri a una regola di transizione, ma la regola di transizione utilizza tutti i filtri (l&#39;uso di TUTTI i filtri è l&#39;unica opzione). Se è necessario utilizzare O in una regola di transizione, è consigliabile impostare una campagna smart esterna.
 
-1. Fate clic su **Chiudi**.
+1. Fare clic su **Chiudi**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
@@ -58,5 +58,5 @@ I programmi di coinvolgimento possono avere più di un flusso. Se si [aggiunge u
 
    >[!NOTE]
    >
-   >I passaggi descritti in precedenza *si applicano* anche alle persone [in pausa](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program) .
+   >I passaggi descritti sopra *do* si applicano anche alle persone [in pausa](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program).
 
