@@ -24,25 +24,25 @@ L&#39;integrazione Workspace include due tipi di notifica:
 
 >[!PREREQUISITES]
 >
->Se le notifiche di lavoro non sono già abilitate, [contattate il supporto](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
+>Se non hai già attivato Notifiche sul posto di lavoro, [contatta il supporto](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
-1. Vai a **LaunchPoint**, quindi in **Nuovo** fai clic su **Nuovo servizio**.
+1. Passare a **LaunchPoint**, quindi in **New** fare clic su **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Immettere un nome visualizzato per l&#39;integrazione di Workspace. Nel menu a discesa **Servizio** , selezionate **Area di lavoro per Facebook**. Fate clic su **Crea**.
+1. Immettere un nome visualizzato per l&#39;integrazione di Workspace. Nel menu a discesa **Service**, selezionare **Workplace by Facebook**. Fare clic su **Crea**.
 
    ![](assets/newservice.png)
 
-1. Per ricevere le notifiche di sistema e i momenti interessanti, lasciate invariate le opzioni. Fate clic su **Crea**.
+1. Per ricevere le notifiche di sistema e i momenti interessanti, lasciate invariate le opzioni. Fare clic su **Crea**.
 
    ![](assets/create.png)
 
-1. Fate clic su **Autorizza**. Si apre Workplace in una nuova scheda, in cui si completa l&#39;autorizzazione e si concede l&#39;autorizzazione Marketo per estrarre informazioni da Workplace.
+1. Fare clic su **Autorizza**. Si apre Workplace in una nuova scheda, in cui si completa l&#39;autorizzazione e si concede l&#39;autorizzazione Marketo per estrarre informazioni da Workplace.
 
    ![](assets/authorize.png)
 
-1. Nella nuova scheda Area di lavoro, immettere il nome utente dell&#39;e-mail aziendale o del luogo di lavoro e fare clic su **Continua**.
+1. Nella nuova scheda Workplace, immettere il nome utente dell&#39;e-mail aziendale o del luogo di lavoro e fare clic su **Continue**.
 
    ![](assets/workplacelogin.png)
 
@@ -50,7 +50,7 @@ L&#39;integrazione Workspace include due tipi di notifica:
 
    ![](assets/workplacelogininfo.png)
 
-1. Nella finestra a comparsa Area di lavoro, scegliete un gruppo Facebook in cui desiderate inviare le notifiche da Marketo (ad esempio, Integrazioni partner). Fate clic su **Installa**.
+1. Nella finestra a comparsa Area di lavoro, scegliete un gruppo Facebook in cui desiderate inviare le notifiche da Marketo (ad esempio, Integrazioni partner). Fare clic su **Installa**.
 
    ![](assets/installmarketo.png)
 
