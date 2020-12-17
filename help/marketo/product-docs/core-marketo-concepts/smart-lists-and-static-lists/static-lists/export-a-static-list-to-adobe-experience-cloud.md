@@ -36,11 +36,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Fate clic sul menu a discesa **Azioni** elenco e selezionate **Invia a  Experience Cloud**.
+1. Fare clic sul menu a discesa **Azioni elenco** e selezionare **Invia a  Experience Cloud**.
 
    ![](assets/two-1.png)
 
-1. Fate clic sul menu a discesa Cartella **Audience Manager** e selezionate la cartella di destinazione desiderata nel Experience Cloud .
+1. Fare clic sul menu a discesa **cartella Audience Manager** e selezionare la cartella di destinazione desiderata nel Experience Cloud .
 
    ![](assets/three-1.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Fate clic su **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/five.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
    >
    >Possono essere necessarie fino a 6-8 ore prima che l&#39;iscrizione al pubblico venga compilata completamente nel  Adobe.
 
-## Cose da notare {#things-to-note}
+## Note {#things-to-note}
 
 **Condivisione su  Adobe Analytics**
 
