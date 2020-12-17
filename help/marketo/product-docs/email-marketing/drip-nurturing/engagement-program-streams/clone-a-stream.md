@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Duplica un flusso per vari motivi, incluso il test di ordini diversi e cadenze diverse.
 
-1. Seleziona il programma di coinvolgimento e vai alla scheda **Streams** .
+1. Selezionate il programma di coinvolgimento e andate alla scheda **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Fate clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fate clic su **Clone**.
+1. Fare clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fare clic su **Clone**.
 
    ` ![](assets/image2014-9-15-17-3a0-3a23.png)
 
