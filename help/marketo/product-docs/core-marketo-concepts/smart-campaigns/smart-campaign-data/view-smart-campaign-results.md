@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Visualizzare i risultati delle campagne intelligenti {#view-smart-campaign-results}
+# Visualizza risultati delle campagne intelligenti {#view-smart-campaign-results}
 
 Volete vedere un resoconto di tutto ciò che è accaduto in una campagna intelligente? È facile, ecco come.
 
-1. Nella campagna intelligente, fai clic su **Risultati**.
+1. Nella campagna intelligente, fate clic su **Results**.
 
    >[!TIP]
    >
-   >Per visualizzare l&#39;elenco delle persone elaborate dalla campagna intelligente, fai clic su [Visualizza membri](view-smart-campaign-members.md)campagna.
+   >Per visualizzare l&#39;elenco delle persone elaborate dalla campagna intelligente, fai clic su [Visualizza membri campagna](view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >Potete anche filtrare i risultati in base al tipo di attività. Scoprite come [filtrare i risultati](filter-smart-campaign-results.md)delle campagne intelligenti.
+   >Potete anche filtrare i risultati in base al tipo di attività. Scoprite come [filtrare i risultati delle campagne intelligenti](filter-smart-campaign-results.md).
 
 1. Fate clic su un **ID** per visualizzare maggiori dettagli su tale attività.
 
