@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Potete disattivare le notifiche e-mail automatiche inviate ai proprietari principali di Salesforce all&#39;assegnazione del lead. Ecco come.
 
-1. Vai ad **Admin**.
+1. Vai a **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Fate clic su **Salesforce**.
+1. Fare clic su **Salesforce**.
 
    ![](assets/adminsalesforce.png)
 
-1. In Opzioni **** sincronizzazione, fate clic su **Modifica**.
+1. In **Opzioni di sincronizzazione**, fare clic su **Modifica**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Deselezionate la casella **Invia notifica e-mail al proprietario in Salesforce al momento dell’assegnazione** del lead. Fate clic su **Salva**.
+1. Deselezionate la casella **Invia notifica e-mail al proprietario in Salesforce all&#39;assegnazione lead**. Fare clic su **Salva**.
 
    ![](assets/new-screen.png)
 
