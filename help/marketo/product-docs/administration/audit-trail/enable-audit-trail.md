@@ -21,11 +21,11 @@ Audit Trail è disponibile per tutti i clienti e controllato da due autorizzazio
 
 ## Abilita traccia di controllo per un ruolo {#enable-audit-trail-for-a-role}
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-2.png)
 
-1. Selezionate **Utenti e ruoli** e fate clic su **Ruoli**.
+1. Selezionare **Utenti e ruoli** e fare clic su **Ruoli**.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ Audit Trail è disponibile per tutti i clienti e controllato da due autorizzazio
    >
    >È inoltre disponibile l&#39;opzione per creare un nuovo ruolo e concedergli l&#39;accesso a Audit Trail.
 
-1. Espandete l&#39;autorizzazione **Accesso amministratore** . Selezionare **Accedi alla traccia** di controllo e/o alla cronologia **** di accesso, a seconda delle esigenze. Fate clic su **Salva**.
+1. Espandi l&#39;autorizzazione **Accedi ad Amministratore**. Selezionare **Access Audit Trail** e/o **Access Login History**, a seconda delle esigenze. Fare clic su **Salva**.
 
    ![](assets/four-1.png)
 
@@ -46,22 +46,22 @@ Audit Trail è disponibile per tutti i clienti e controllato da due autorizzazio
    >**Definizione**
    >
    >
-   >**Barra di controllo degli accessi:** Consente agli utenti di accedere sia alla traccia di audit delle risorse che alla traccia di audit dell’amministratore.
+   >**Accesso alla traccia di audit:** consente agli utenti di accedere sia alla traccia di audit delle risorse che alla traccia di audit dell’amministratore.
    >
    >
-   >**Cronologia accesso:** Consente agli utenti di accedere alla cronologia [di accesso](user-login-history.md)utente.
+   >**Cronologia di accesso:** consente agli utenti di accedere alla cronologia [ di accesso ](user-login-history.md)utente.
 
-## Assegnazione del ruolo di audit trail a un utente {#assign-audit-trail-role-to-a-user}
+## Assegna ruolo traccia di controllo a un utente {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Crea](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) o [abilita](#Enable) un ruolo esistente, concedendo le autorizzazioni Audit Trail.
+>[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Creazione o  [](#Enable) abilitazione di un ruolo esistente, assegnando ad esso le autorizzazioni Audit Trail.
 
-1. In **Utenti e ruoli**, fai clic su **Utenti**.
+1. In **Utenti e ruoli**, fare clic su **Utenti**.
 
    ![](assets/five-1.png)
 
-1. Selezionare l&#39;utente a cui si desidera concedere l&#39;accesso alla traccia di controllo e fare clic su **Modifica utente**.
+1. Selezionare l&#39;utente a cui si desidera consentire l&#39;accesso alla traccia di audit e fare clic su **Edit User**.
 
    ![](assets/six-1.png)
 
@@ -75,9 +75,9 @@ Audit Trail è disponibile per tutti i clienti e controllato da due autorizzazio
 
    >[!CAUTION]
    >
-   >Se le aree di lavoro sono abilitate, selezionate la casella di controllo del ruolo, che seleziona tutte le aree di lavoro. Se si deseleziona una singola area di lavoro, verrà nascosta la traccia di controllo. Questo significa che vedrai i dati della traccia di controllo per ogni area di lavoro. Potete nascondere le aree di lavoro durante il [filtraggio](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Se le aree di lavoro sono abilitate, selezionate la casella di controllo del ruolo, che seleziona tutte le aree di lavoro. Se si deseleziona una singola area di lavoro, verrà nascosta la traccia di controllo. Questo significa che vedrai i dati della traccia di controllo per ogni area di lavoro. È possibile nascondere le aree di lavoro durante il [filtraggio](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/eight-1.png)
 
