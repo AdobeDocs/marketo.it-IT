@@ -22,15 +22,15 @@ In questo esempio scegliamo una volta alla settimana, il martedì alle 8:00.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. Vai alla **[!UICONTROL Schedule]** scheda e fai clic su **[!UICONTROL Set Recurrence]**.
+1. Vai alla scheda **[!UICONTROL Schedule]** e fai clic su **[!UICONTROL Set Recurrence]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
-1. Fare clic sul **[!UICONTROL Recurring]** menu a discesa e selezionare **[!UICONTROL Weekly]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Recurring]** e selezionare **[!UICONTROL Weekly]**.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. Fare clic sull&#39;icona del calendario accanto a **[!UICONTROL Recurrence Start Date]** e selezionare il giorno per la prima esecuzione e l&#39;ora. Per questo esempio, utilizzeremo il prossimo martedì disponibile. Al termine, fai clic fuori dal calendario.
+1. Fare clic sull&#39;icona del calendario accanto a **[!UICONTROL Recurrence Start Date]**, quindi selezionare il giorno per la prima esecuzione e l&#39;ora. Per questo esempio, utilizzeremo il prossimo martedì disponibile. Al termine, fai clic fuori dal calendario.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
@@ -38,7 +38,7 @@ In questo esempio scegliamo una volta alla settimana, il martedì alle 8:00.
 
    ![Immagine cinque](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. Fate clic sull&#39;icona del calendario accanto a **[!UICONTROL Ending on]** e scegliete una data di fine. Al **[!UICONTROL Confirm]** termine, fate clic.
+1. Fate clic sull&#39;icona del calendario accanto a **[!UICONTROL Ending on]** e scegliete una data di fine. Fare clic su **[!UICONTROL Confirm]** al termine.
 
    ![Immagine Sei](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
