@@ -26,11 +26,11 @@ Gli amministratori possono ignorare la priorità determinata di Marketo per atti
 
 ## Priorità di sostituzione
 
-1. Nella campagna di attivazione, fare clic sulla **[!UICONTROL Schedule]** scheda, quindi su **[!UICONTROL Override Priority]**.
+1. Nella campagna di attivazione, fare clic sulla scheda **[!UICONTROL Schedule]**, quindi fare clic su **[!UICONTROL Override Priority]**.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Scegliete un nuovo livello di priorità dal menu a discesa. Fate clic **[!UICONTROL Confirm]**.
+1. Scegliete un nuovo livello di priorità dal menu a discesa. Fare clic su **[!UICONTROL Confirm]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -38,23 +38,23 @@ Gli amministratori possono ignorare la priorità determinata di Marketo per atti
 
 >[!NOTE]
 >
->* Potete visualizzare la priorità predefinita della campagna nella [!UICONTROL Campaign Queue] sezione [!UICONTROL Marketing Activities]. Per aumentare il tasso di esecuzione, si consiglia di impostare la priorità della campagna su un livello superiore a quello predefinito.
+>* È possibile visualizzare la priorità predefinita della campagna in [!UICONTROL Campaign Queue] in [!UICONTROL Marketing Activities]. Per aumentare il tasso di esecuzione, si consiglia di impostare la priorità della campagna su un livello superiore a quello predefinito.
 >* La priorità definita dall&#39;utente si applica solo alle nuove persone idonee alla campagna; le persone che sono già in coda non ne verranno interessate.
 
 
 ## Ripristina priorità
 
-1. Per ripristinare la priorità della campagna all&#39;impostazione predefinita del sistema, andate alla **[!UICONTROL Schedule]** scheda nella campagna di attivazione e fate clic su **[!UICONTROL Reset Priority]**.
+1. Per ripristinare la priorità della campagna all&#39;impostazione predefinita del sistema, andate alla scheda **[!UICONTROL Schedule]** nella campagna di attivazione e fate clic su **[!UICONTROL Reset Priority]**.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. Fate clic **[!UICONTROL Reset]** per confermare.
+1. Fare clic su **[!UICONTROL Reset]** per confermare.
 
    ![Immagine cinque](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
 >[!NOTE]
 >
->Le sostituzioni e i ripristini con priorità vengono acquisiti nella traccia di audit. Potete visualizzare la traccia di [controllo](https://docs.marketo.com/x/GZ2t) nell&#39;area [!UICONTROL Admin] dell&#39;esperienza classica.
+>Le sostituzioni e i ripristini con priorità vengono acquisiti nella traccia di audit. È possibile visualizzare la [traccia di controllo](https://docs.marketo.com/x/GZ2t) attraverso l&#39;area [!UICONTROL Admin] nell&#39;esperienza classica.
 
 ## Accesso all&#39;override della priorità di sovvenzione
 
@@ -62,24 +62,24 @@ Gli amministratori possono ignorare la priorità determinata di Marketo per atti
 >
 >Solo gli amministratori o gli utenti con responsabilità di amministratore devono avere la priorità della campagna come accesso alternativo.
 
-1. Nell&#39; [!UICONTROL Admin] area fare clic su **[!UICONTROL Users & Roles]**.
+1. Nell&#39;area [!UICONTROL Admin] fare clic su **[!UICONTROL Users & Roles]**.
 
    ![Immagine Sei](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Fate clic sulla **[!UICONTROL Roles]** scheda, selezionate l&#39;utente a cui concedere l&#39;accesso, quindi fate clic su **[!UICONTROL Edit Role]**.
+1. Fare clic sulla scheda **[!UICONTROL Roles]**, selezionare l&#39;utente a cui si desidera concedere l&#39;accesso, quindi fare clic su **[!UICONTROL Edit Role]**.
 
    ![Immagine sette](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Sotto [!UICONTROL Access Marketing Activities], check **[!UICONTROL Edit Trigger Campaign Priority]**. Fate clic **[!UICONTROL Save]**.
+1. In [!UICONTROL Access Marketing Activities], selezionare **[!UICONTROL Edit Trigger Campaign Priority]**. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine otto](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Visualizza priorità campagna in Marketo Classic
 
-Per visualizzare la priorità della campagna nell&#39; [!DNL Classic] esperienza, fai clic sulla **[!UICONTROL Schedule]** scheda all&#39;interno di una campagna di attivazione.
+Per visualizzare la priorità della campagna nell&#39;esperienza [!DNL Classic], fai clic sulla scheda **[!UICONTROL Schedule]** all&#39;interno di una campagna di attivazione.
 
 ![Image Nine](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
 >[!NOTE]
 >
->La priorità nell&#39; [!DNL Classic] esperienza è di sola visualizzazione. La modifica o il ripristino della priorità della campagna è disponibile solo tramite Marketo Sky.
+>La priorità nell&#39;esperienza [!DNL Classic] è di sola visualizzazione. La modifica o il ripristino della priorità della campagna è disponibile solo tramite Marketo Sky.
