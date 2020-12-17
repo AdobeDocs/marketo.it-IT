@@ -19,11 +19,11 @@ Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponib
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Selezionate **Microsoft Dynamics** e fate clic su **Disattiva sincronizzazione**.
+1. Selezionare **Microsoft Dynamics** e fare clic su **Disattiva sincronizzazione**.
 
    Per abilitare o disabilitare un&#39;entità personalizzata, è necessario disabilitare temporaneamente la sincronizzazione globale.
    ![](assets/image2015-11-10-9-3a0-3a6.png)
@@ -32,7 +32,7 @@ Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponib
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Fate clic sul collegamento **Sincronizza schema** .
+1. Fare clic sul collegamento **Sincronizza schema**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
@@ -40,7 +40,7 @@ Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponib
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fate clic su **Abilita sincronizzazione**.
+1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fare clic su **Abilita sincronizzazione**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
