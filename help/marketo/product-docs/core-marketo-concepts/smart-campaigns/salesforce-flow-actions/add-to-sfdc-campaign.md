@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi a campagna SFDC {#add-to-sfdc-campaign}
+# Aggiungi alla campagna SFDC {#add-to-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -35,8 +35,8 @@ Questo passaggio di flusso può essere utilizzato nelle campagne Marketo o come 
    >
    >    
    >    
-   >    1. Accertatevi che la sincronizzazione della [campagna sia abilitata](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >    1. Verifica che [Marketo Sync User](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sia un utente [](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) Marketing in Salesforce.
+   >    1. Assicuratevi che la sincronizzazione delle [campagne sia abilitata](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >    1. Confermate che la [sincronizzazione di marketing utente](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) sia un [utente di marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce.
 
 
    >[!TIP]
@@ -49,5 +49,5 @@ Questo passaggio di flusso può essere utilizzato nelle campagne Marketo o come 
 
    >[!CAUTION]
    >
-   >Se una persona è già un membro principale della campagna Salesforce, verrà saltata e il suo stato NON verrà aggiornato. È invece possibile [modificarne lo stato in una campagna](change-status-in-sfdc-campaign.md) SFDC.
+   >Se una persona è già un membro principale della campagna Salesforce, verrà saltata e il suo stato NON verrà aggiornato. È possibile utilizzare [per modificare il proprio stato in una campagna SFDC](change-status-in-sfdc-campaign.md).
 
