@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo di una durata in un passaggio del flusso di attesa {#use-a-duration-in-a-wait-flow-step}
+# Usare una durata in un passaggio di flusso di attesa {#use-a-duration-in-a-wait-flow-step}
 
 Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viaggio di una persona attraverso una campagna intelligente per un certo periodo di tempo. Potete inoltre specificare i criteri per il giorno della settimana e l’ora in cui termina.
 
-1. Nella scheda **Flusso** campagna intelligente, trascina il passaggio del flusso di **attesa** .
+1. Nella scheda **Flusso** della campagna smart, trascina il passaggio **Aspetta**.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -31,7 +31,7 @@ Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viag
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Facoltativamente, specificate l’ora. Fate clic su **Salva**.
+1. Facoltativamente, specificate l’ora. Fare clic su **Salva**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -43,7 +43,7 @@ Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viag
    >Una persona attiva una campagna intelligente venerdì alle 17:00. Il passaggio di attesa è avanzato: 48 ore e deve terminare il lunedì-venerdì alle 9.
    >
    >
-   >Il risultato sarebbe che la persona continuerebbe a scorrere il **lunedì alle 9**. Questa è la prima data M-F dopo 48 ore.
+   >Il risultato sarebbe che la persona continuerebbe nel flusso il **Lunedì, 9am**. Questa è la prima data M-F dopo 48 ore.
 
    >[!NOTE]
    >
