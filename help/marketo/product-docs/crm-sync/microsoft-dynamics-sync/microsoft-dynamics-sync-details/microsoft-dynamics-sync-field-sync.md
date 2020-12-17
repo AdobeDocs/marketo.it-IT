@@ -31,15 +31,15 @@ No, al momento non è supportato.
 
 ## Ho creato un campo in Dynamics. Posso sincronizzarlo con Marketo? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Sì, è possibile [sincronizzare il campo](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) finché l&#39;utente sincronizzato ha accesso ad esso in Dynamics.
+Sì, è possibile [sincronizzare il campo](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) purché l&#39;utente della sincronizzazione abbia accesso ad esso in Dynamics.
 
 Quali campi verranno sincronizzati con Marketo?
 
-Potete [selezionare i campi da sincronizzare](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante l&#39;impostazione.
+È possibile [selezionare i campi da sincronizzare](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configurazione.
 
 ## Cosa succede se devo aggiungere un campo personalizzato dopo che Marketo e Dynamics sono stati sincronizzati? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-Puoi aggiungere campi in qualsiasi momento e prevedere che i dati saranno aggiornati da Dynamics a Marketo. Per ulteriori informazioni, consulta [Utilizzare la sincronizzazione rapida con Microsoft Dynamics per un nuovo campo](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) personalizzato.
+Puoi aggiungere campi in qualsiasi momento e prevedere che i dati saranno aggiornati da Dynamics a Marketo. Per ulteriori informazioni, vedere [Utilizzare la sincronizzazione rapida con Microsoft Dynamics per un nuovo campo personalizzato](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md).
 
 >[!MORELIKETHIS]
 >
