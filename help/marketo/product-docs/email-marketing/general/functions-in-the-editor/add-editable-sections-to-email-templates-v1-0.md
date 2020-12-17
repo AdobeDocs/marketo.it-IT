@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungere sezioni modificabili ai modelli e-mail v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-Se create un modello nell’editor modelli e-mail v1.0, potete rendere modificabile qualsiasi sezione inserendo un `<div>` elemento speciale attorno ad esso.
+Se state creando un modello nell&#39;Editor modelli e-mail v1.0, potete rendere modificabile qualsiasi sezione inserendo un `<div>` speciale attorno ad esso.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Se create un modello nell’editor modelli e-mail v1.0, potete rendere modificab
 Regole:
 
 1. L&#39;HTML deve sempre essere valido.
-1. La classe di **mktEditable** deve essere inclusa.
+1. È necessario includere la classe di **mktEditable**.
 1. L’ID deve essere univoco in tale HTML.
 1. Nessun spazio nell’ID.
 
@@ -31,4 +31,4 @@ Regole:
 >
 >le istruzioni mktEditable non possono essere nidificate.
 
-Per informazioni su come eseguire questa operazione in Editor modelli e-mail v2.0, controllate la sintassi [del modello di](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)e-mail.
+Per informazioni su come eseguire questa operazione in Editor modelli e-mail v2.0, controllare [sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).
