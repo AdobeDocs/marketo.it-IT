@@ -18,11 +18,11 @@ I programmi di coinvolgimento possono contenere più di un flusso.
 
    ![Immagine uno](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. Fate clic sulla **[!UICONTROL Streams]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![Immagine due](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
-1. Fate clic **[!UICONTROL Add Stream]**.
+1. Fare clic su **[!UICONTROL Add Stream]**.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-3.png)
 
