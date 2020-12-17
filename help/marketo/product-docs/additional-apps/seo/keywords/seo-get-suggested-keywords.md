@@ -17,21 +17,21 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
 ## Ottieni suggerimenti parole chiave utilizzando una parola chiave {#get-keyword-suggestions-using-a-keyword}
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Fate clic su **GET SUGGERIMENTI**.
+1. Fare clic su **SUGGERIMENTI DI GET**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Inserite una **parola chiave**. Fate clic su **SUGGEST KEYWORDS**.
+1. Immettere una **parola chiave**. Fare clic su **SUGGEST KEYWORDS**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Sapevate che potete [aggiungere la parola chiave a un elenco](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nuovo o esistente proprio qui?
+   >Sapevate che potete [aggiungere la parola chiave a un elenco nuovo o esistente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
 1. Selezionare le parole chiave suggerite. Fare clic su **AGGIUNGI SELEZIONATO**.
 
@@ -43,17 +43,17 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
    Yeeeeeehaw! Ora che sapete come ottenere suggerimenti basati su una parola chiave, provate a ottenere suggerimenti basati su un URL.
 
-## Ottenere suggerimenti da un URL  {#get-keyword-suggestions-from-a-url}
+## Ottieni suggerimenti parole chiave da un URL {#get-keyword-suggestions-from-a-url}
 
-1. Andate alla sezione **Parole chiave** .
+1. Andate alla sezione **Parole chiave**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Fate clic su **GET SUGGERIMENTI**.
+1. Fare clic su **SUGGERIMENTI DI GET**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Impostate **Suggerisci per** su **URL**.
+1. Impostare **Suggerisci per** su **URL**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
@@ -63,7 +63,7 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
    >[!TIP]
    >
-   >Sapevate che potete [aggiungere la parola chiave a un elenco](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nuovo o esistente proprio qui?
+   >Sapevate che potete [aggiungere la parola chiave a un elenco nuovo o esistente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
 1. Selezionare le parole chiave suggerite. Fare clic su **AGGIUNGI SELEZIONATO**.
 
