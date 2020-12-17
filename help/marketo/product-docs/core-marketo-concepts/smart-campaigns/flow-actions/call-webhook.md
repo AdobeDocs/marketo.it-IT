@@ -35,7 +35,7 @@ I ganci Web consentono di interagire con i servizi di terze parti. Inviare/ricev
 
 ## Utilizzo {#usage}
 
-Selezionate un **Webhook** dal menu a discesa.
+Selezionare un **Webhook** dall&#39;elenco a discesa.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
