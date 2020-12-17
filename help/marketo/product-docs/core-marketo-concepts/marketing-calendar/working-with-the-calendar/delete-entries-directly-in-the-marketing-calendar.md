@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Elimina Voci Direttamente Nel Calendario Di Marketing {#delete-entries-directly-in-the-marketing-calendar}
+# Elimina voci direttamente nel calendario di marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Oltre a [creare](create-entries-directly-in-the-marketing-calendar.md) e [modificare](edit-entries-directly-in-the-marketing-calendar.md) le voci, potete anche eliminarle direttamente nel calendario di marketing. Ecco come.
+Oltre a [creare ](create-entries-directly-in-the-marketing-calendar.md) e [modificare](edit-entries-directly-in-the-marketing-calendar.md) le voci, potete eliminarle direttamente nel calendario di marketing. Ecco come.
 
-1. Vai al **calendario**.
+1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Selezionate la voce da eliminare e fate clic su **Mostra stato attivo** programma.
+1. Selezionare la voce da eliminare e fare clic su **Mostra stato attivo programma**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
