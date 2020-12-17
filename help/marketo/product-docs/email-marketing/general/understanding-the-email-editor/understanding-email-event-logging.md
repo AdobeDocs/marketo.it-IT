@@ -27,5 +27,5 @@ Quando si inviano e-mail, Marketo registra diversi punti dati nei registri attiv
 
 >[!CAUTION]
 >
->Se la stessa e-mail viene inviata due volte alla stessa persona dalla stessa campagna, l&#39;evento **Open** verrà registrato al massimo 1 volta.
+>Se la stessa e-mail viene inviata alla stessa persona due volte dalla stessa campagna, l&#39;evento **Opened** verrà registrato al massimo 1 volta.
 
