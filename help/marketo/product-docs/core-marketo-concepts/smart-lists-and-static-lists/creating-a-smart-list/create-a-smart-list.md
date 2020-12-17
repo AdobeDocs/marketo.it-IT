@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Gli elenchi avanzati consentono di trovare specifici gruppi di persone utilizzando semplici filtri. Ecco come crearne uno.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
 1. Selezionare il programma in cui si desidera creare l&#39;elenco smart.
 1. ![Questo è un test](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. In **Nuovo**, fate clic su **Nuova risorsa** locale.
+1. In **Nuova**, fare clic su **Nuova risorsa locale**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Selezionate **Smart List**.
+1. Selezionare **Smart List**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Immettete un **nome** e fate clic su **Crea**.
+1. Immettere un **Nome** e fare clic su **Crea**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
