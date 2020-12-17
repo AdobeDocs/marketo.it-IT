@@ -17,7 +17,7 @@ Se a un proprietario sono già assegnate persone esistenti, puoi utilizzare ques
 
 >[!NOTE]
 >
->Questo passaggio di flusso funziona **solo se utilizzato con attivatori**, non con filtri, nella campagna smart.
+>Questo passaggio di flusso funziona **solo se utilizzato con trigger**, non con filtri, nella campagna smart.
 
 ![](assets/one-1.png)
 
