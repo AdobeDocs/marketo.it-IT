@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Utilizzo del drill-down dei dettagli pagina {#seo-using-the-page-detail-drill-down}
+# SEO - Utilizzo del dettaglio pagina {#seo-using-the-page-detail-drill-down}
 
 Potete visualizzare molte informazioni sulle pagine utilizzando il drill-down dei dettagli delle pagine.
 
-## Trova Drill-down pagina {#find-page-drill-down}
+## Trova Espansione pagina {#find-page-drill-down}
 
 1. Vai alla sezione Pagine.
 
@@ -44,9 +44,9 @@ Potete visualizzare molte informazioni sulle pagine utilizzando il drill-down de
 | Facebook Piace | Numero di volte in cui questa condivisione di pagina era su Facebook. |
 | Clic su Facebook | Numero di clic dalla condivisione Facebook. |
 
-## Parole chiave per cui la pagina è ottimizzata  {#keyword-s-that-page-is-optimized-for}
+## Parole chiave per cui la pagina è ottimizzata per {#keyword-s-that-page-is-optimized-for}
 
-In questa area è [selezionata la parola chiave per la quale si sta tentando di ottimizzare la pagina](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Qui si [selezionare la parola chiave che si sta cercando di ottimizzare la pagina per ](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
