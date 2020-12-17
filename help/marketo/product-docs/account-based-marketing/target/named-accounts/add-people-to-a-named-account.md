@@ -25,17 +25,17 @@ Esistono tre modi diversi per aggiungere manualmente le persone a un account den
 
    ![](assets/two.png)
 
-1. Fare clic sulla persona per selezionarla. Fate clic sul menu a discesa Azioni **** persona, fate clic su **Marketing** e selezionate **Aggiungi a account** denominato.
+1. Fare clic sulla persona per selezionarla. Fare clic sul menu a discesa **Azioni persona**, fare clic su **Marketing** e selezionare **Aggiungi a account denominato**.
 
    ![](assets/three.png)
 
-1. Fate clic sul menu a **discesa Account** denominato, selezionate l&#39;account denominato desiderato e fate clic su **Esegui ora**.
+1. Fare clic sul menu a discesa **Account denominato**, selezionare l&#39;account denominato desiderato, quindi fare clic su **Esegui ora**.
 
    ![](assets/four.png)
 
 ## Passaggio flusso campagna intelligente {#smart-campaign-flow-step}
 
-1. Seleziona la tua Smart Campaign e fai clic su **Flusso**.
+1. Selezionate la campagna avanzata e fate clic su **Flusso**.
 
    ![](assets/five.png)
 
@@ -47,23 +47,23 @@ Esistono tre modi diversi per aggiungere manualmente le persone a un account den
 
    ![](assets/seven.png)
 
-1. Fate clic sul menu a **discesa Account** denominato e selezionate l&#39;account denominato desiderato.
+1. Fare clic sul menu a discesa **Account denominato** e selezionare l&#39;account denominato desiderato.
 
    ![](assets/eight.png)
 
    È tutto! Ora puoi semplicemente pianificare (o attivare) la tua campagna intelligente, e il passaggio di flusso inizierà ad aggiungere persone idonee all&#39;account denominato designato.
 
-## Importa elenco {#list-import}
+## Importazione elenco {#list-import}
 
-1. Selezionate l’elenco, fate clic sul menu a discesa Azioni **** elenco e selezionate **Importa elenco**.
+1. Selezionate l&#39;elenco, fate clic sul menu a discesa **Azioni elenco** e selezionate **Importa elenco**.
 
    ![](assets/nine.png)
 
-1. Dopo aver scelto il file e le impostazioni, fate clic su **Avanti**.
+1. Dopo aver scelto il file e le impostazioni, fare clic su **Next**.
 
    ![](assets/ten.png)
 
-1. Mappare i campi desiderati. Assicuratevi che il campo Account **** denominato sia mappato.
+1. Mappare i campi desiderati. Assicurarsi che il campo **Account denominato** sia mappato.
 
    ![](assets/eleven.png)
 
