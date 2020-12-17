@@ -21,23 +21,23 @@ Questo articolo descrive come un amministratore visualizzerebbe e modificherebbe
 
 ## Impostazione delle impostazioni di posizione predefinite per una sottoscrizione {#set-default-location-settings-for-a-subscription-1}
 
-Quando un amministratore modifica le impostazioni di posizione predefinite, gli utenti appena creati ereditano tali impostazioni. Gli utenti possono sempre [modificare le proprie preferenze](select-your-language-locale-and-time-zone.md) di lingua, lingua e fuso orario nei propri account.
+Quando un amministratore modifica le impostazioni di posizione predefinite, gli utenti appena creati ereditano tali impostazioni. Gli utenti possono sempre [modificare la lingua, le impostazioni internazionali e le preferenze del fuso orario](select-your-language-locale-and-time-zone.md) nei propri account.
 
-1. In **Amministratore**,** **fare clic su **Posizione**.
+1. In **Admin**,** **fare clic su **Location**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/image2014-11-7-11-3a40-3a39.png)
 
    L&#39;iscrizione è stata creata in inglese. Supponiamo che ti trovassi a Londra e che desideri cambiare le impostazioni internazionali e il fuso orario predefiniti. Le impostazioni internazionali determinano la formattazione di numeri, date e ore.
 
-1. Selezionate le **impostazioni internazionali** e modificatele in **inglese** (Regno Unito).
+1. Selezionare le **Impostazioni internazionali** e modificarle in **Inglese** (Regno Unito).
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
-1. Infine, scegliete il **fuso** orario appropriato.
+1. Infine, scegliete il **fuso orario** appropriato.
 
    ![](assets/image2014-11-7-14-3a42-3a34.png)
 
@@ -45,7 +45,7 @@ Quando un amministratore modifica le impostazioni di posizione predefinite, gli 
    >
    >Marketing Sales Insight for [Salesforce.com](http://salesforce.com/) supporta francese, tedesco, giapponese, portoghese e spagnolo.
 
-## Impostare le impostazioni predefinite della valuta per una sottoscrizione {#set-the-default-currency-settings-for-a-subscription}
+## Imposta le impostazioni predefinite della valuta per una sottoscrizione {#set-the-default-currency-settings-for-a-subscription}
 
 Se si modificano le impostazioni internazionali predefinite per gli utenti, è anche possibile modificare le impostazioni del formato della valuta.
 
