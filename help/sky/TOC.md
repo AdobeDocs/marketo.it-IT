@@ -20,7 +20,7 @@ ht-degree: 0%
 + Guida introduttiva {#getting-started}
    + [Funzioni Marketo Sky](marketo-sky-features.md)
    + [Come iniziare](how-to-enable-roles-for-marketo-sky.md)
-+ Programmi di eventi {#event-programs}
++ Programmi evento {#event-programs}
    + [Impostazione di un evento Cap](setting-an-event-cap.md)
    + [Impostazione Degli Obiettivi Dell’Evento](setting-event-goals.md)
 + Cartelle campagna {#campaign-folders}
@@ -118,7 +118,7 @@ ht-degree: 0%
 + Elenchi avanzati ed elenchi statici {#smart-lists-and-static-lists}
    + [Salva azioni di flusso](save-flow-actions.md)
    + [Salva regole per elenchi avanzati](save-smart-list-rules.md)
-+ Struttura {#tree}
++ Albero {#tree}
    + [Configurazione della struttura ad albero](configuring-the-tree.md)
    + [Informazioni sulle icone nella struttura ad albero](understanding-icons-in-the-tree.md)
    + [Usare i filtri per ordinare la struttura ad albero](use-filters-to-sort-the-tree.md)
