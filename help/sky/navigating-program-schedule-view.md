@@ -18,7 +18,7 @@ Di seguito sono riportate le nozioni di base per navigare nella vista della pian
 
 ## Trova la vista Pianificazione
 
-Selezionare il programma dalla struttura. Nella [!UICONTROL Details] scheda fare clic su [!UICONTROL Schedule].
+Selezionare il programma dalla struttura. Nella scheda [!UICONTROL Details] fare clic su [!UICONTROL Schedule].
 
 ![Immagine uno](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ L&#39;Agenda mostra tutte le voci in un mese particolare.
 
 ## Visualizza impostazioni
 
-Nell&#39;angolo in alto a destra della vista di pianificazione del programma, fare clic [!UICONTROL View Settings] per filtrare le voci per [!UICONTROL Tentative], [!UICONTROL Confirmed]e/o [!UICONTROL Finished].
+Nell&#39;angolo in alto a destra della vista di pianificazione del programma, fare clic su [!UICONTROL View Settings] per filtrare le voci per [!UICONTROL Tentative], [!UICONTROL Confirmed] e/o [!UICONTROL Finished].
 
 ![Immagine quattro](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
