@@ -29,7 +29,7 @@ Marketo gestisce la registrazione e la partecipazione dello zoom.
 
    ![](assets/launchpoint.png)
 
-1. Fare clic sul menu a discesa **Nuovo **e selezionare **Nuovo servizio**.
+1. Fare clic sul menu a discesa **New **e selezionare **New Service**.
 
    ![](assets/newservicelp.png)
 
@@ -37,7 +37,7 @@ Marketo gestisce la registrazione e la partecipazione dello zoom.
 
    ![](assets/newservice-1.png)
 
-1. Fate clic su **Esegui login in zoom**.
+1. Fare clic su **Accedi allo zoom**.
 
    ![](assets/login.png)
 
@@ -45,7 +45,7 @@ Marketo gestisce la registrazione e la partecipazione dello zoom.
 
    ![](assets/zoomlogin.png)
 
-1. Una volta chiusa la finestra, fate clic su **Crea**.
+1. Dopo la chiusura della finestra, fare clic su **Crea**.
 
    ![](assets/create-1.png)
 
@@ -57,5 +57,5 @@ Marketo gestisce la registrazione e la partecipazione dello zoom.
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento con lo zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Scoprite come [creare un evento con Zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
 
