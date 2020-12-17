@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Aggiungere un sito/Eliminare un sito {#seo-add-a-site-delete-a-site}
+# SEO - Aggiunta di un sito/eliminazione di un sito {#seo-add-a-site-delete-a-site}
 
 Affinché Marketo possa estrarre dati (collegamenti in entrata e raccomandazioni) relativi alle pagine del sito, è necessario definire qui l&#39;URL del sito.
 
@@ -23,7 +23,7 @@ Affinché Marketo possa estrarre dati (collegamenti in entrata e raccomandazioni
 
 ## Aggiungere un sito {#add-a-site}
 
-1. Fai clic sul menu a discesa Admin (Amministratore) e seleziona **Admin (Amministratore)**.
+1. Fai clic sul menu a discesa Admin (Amministratore) e seleziona **Admin**.
 
    >[!NOTE]
    >
@@ -31,15 +31,15 @@ Affinché Marketo possa estrarre dati (collegamenti in entrata e raccomandazioni
 
    ![](assets/one.png)
 
-1. Fate clic su **Aggiungi sito**.
+1. Fare clic su **Aggiungi sito**.
 
    ![](assets/two.png)
 
-1. Immettete il **nome, l’URL** del sito Web e fate clic su **Salva**.
+1. Immettete il **Nome, URL del sito Web** e fate clic su **Salva**.
 
    >[!TIP]
    >
-   >Potete anche aggiungere un** ****URL** blog se ne avete uno.
+   >Potete anche aggiungere un** ****URL del blog**, se ne avete uno.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -51,7 +51,7 @@ Affinché Marketo possa estrarre dati (collegamenti in entrata e raccomandazioni
 
 Se tenete traccia di più siti, potete anche eliminare un sito che non siete più interessati a ottimizzare.
 
-1. Fai clic sul menu a discesa Admin (Amministratore) e seleziona **Admin (Amministratore)**.
+1. Fai clic sul menu a discesa Admin (Amministratore) e seleziona **Admin**.
 
    ![](assets/one.png)
 
@@ -59,7 +59,7 @@ Se tenete traccia di più siti, potete anche eliminare un sito che non siete pi�
 
    ![](assets/six.png)
 
-1. Fate clic su **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/seven.png)
 Confermate l&#39;eliminazione.
@@ -67,5 +67,5 @@ Confermate l&#39;eliminazione.
 
    >[!NOTE]
    >
-   >È possibile eliminare un sito solo se si dispone di più siti. Se ne avete solo uno, potete eseguire un ripristino selezionando il sito e facendo clic su **Ripristina**. Reimpostando un sito si *elimineranno tutti i dati* del sito e si ricreerà il sito.
+   >È possibile eliminare un sito solo se si dispone di più siti. Se si dispone solo di uno, è possibile eseguire una reimpostazione selezionando il sito e facendo clic su **Reset**. Reimpostando un sito *verranno eliminati tutti i dati del sito* e ricreato il sito.
 
