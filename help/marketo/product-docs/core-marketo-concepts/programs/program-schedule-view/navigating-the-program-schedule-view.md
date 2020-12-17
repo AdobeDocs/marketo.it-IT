@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Navigazione nella vista Pianificazione del programma {#navigating-the-program-schedule-view}
+# Navigazione nella vista Pianificazione programma {#navigating-the-program-schedule-view}
 
 Di seguito sono riportate le nozioni di base per navigare nella vista della pianificazione del programma.
 
 ## Trova la vista Pianificazione {#find-the-schedule-view}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare il programma. Fare clic sul menu a discesa **Visualizza** . Selezionare **Pianificazione**.
+1. Selezionare il programma. Fare clic sul menu a discesa **Visualizza**. Selezionare **Schedule**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -49,7 +49,7 @@ Di seguito sono riportate le nozioni di base per navigare nella vista della pian
 
 ## Modifica tra modalità {#changing-between-modes}
 
-1. Fai clic su **3 settimane** o **mese** per cambiare le date visibili sul tuo display.
+1. Facendo clic su **3 Settimane** o **Mese**, si modificheranno le date visibili sul display.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
