@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Modifica di un&#39;attività personalizzata {#edit-a-custom-activity}
+# Modificare un&#39;attività personalizzata {#edit-a-custom-activity}
 
 È necessario apportare modifiche a un&#39;attività personalizzata già creata? Ecco come.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one-1.png)
 
-1. In Gestione **** database fare clic su Attività **** personalizzate.
+1. In **Gestione database** fare clic su **Attività personalizzate**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Fate clic su Azioni **attività** personalizzate e selezionate **Modifica attività**.
+1. Fare clic su **Azioni attività personalizzate** e selezionare **Modifica attività**.
 
    ![](assets/four-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-1. Immettete le nuove informazioni e fate clic su **Invia**.
+1. Inserite le nuove informazioni e fate clic su **Invia**.
 
    ![](assets/six-1.png)
 
