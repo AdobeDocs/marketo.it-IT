@@ -30,13 +30,13 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Siamo quasi lì!
 >
 >**Autorizzazioni amministratore richieste**
 
-## Immettere le informazioni utente di Dynamics Sync {#enter-dynamics-sync-user-information}
+## Immettere le informazioni sull&#39;utente di sincronizzazione delle dinamiche {#enter-dynamics-sync-user-information}
 
-1. Accedi a Marketo e fai clic su **Admin**.
+1. Accedete a Marketo e fate clic su **Admin**.
 
    ![](assets/login-admin.png)
 
-1. Fate clic su **CRM**.
+1. Fare clic su **CRM**.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
@@ -44,7 +44,7 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Siamo quasi lì!
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Fate clic su **Modifica** nel **passaggio 1: Immettere le credenziali**.
+1. Fare clic su **Modifica** in **Passaggio 1: Immettere Credentials**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -52,21 +52,21 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Siamo quasi lì!
    >
    >Verificate che le credenziali siano corrette in quanto non sarà possibile ripristinare le modifiche successive dello schema dopo l&#39;invio. Se vengono salvate credenziali errate, dovrete ottenere una nuova iscrizione a Marketo.
 
-1. Immettete il **nome** utente, la **password** e l&#39; **URL** di Microsoft Dynamics (ID client e Segreto cliente sono facoltativi). Al termine, fate clic su **Salva** .
+1. Immettere **Nome utente**, **Password** e Microsoft Dynamics **URL** (ID client e Segreto cliente sono facoltativi). Fare clic su **Salva** al termine.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) o DOMINIO\utente.
+   >Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) o DOMAIN\user.
 
-## Seleziona campi da sincronizzare {#select-fields-to-sync}
+## Selezionare i campi da sincronizzare {#select-fields-to-sync}
 
-1. Fate clic su **Modifica** nel **passaggio 2: Selezionare Campi da sincronizzare**.
+1. Fare clic su **Modifica** in **Passaggio 2: Selezionare Campi da sincronizzare**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Selezionate i campi che desiderate sincronizzare con Marketo, in modo che siano preselezionati. Fate clic su **Salva**.
+1. Selezionate i campi che desiderate sincronizzare con Marketo, in modo che siano preselezionati. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -74,21 +74,21 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Siamo quasi lì!
 
 Se avete creato un filtro personalizzato, accertatevi di entrare e selezionare i nuovi campi da sincronizzare con Marketo.
 
-1. Vai ad Admin e seleziona **Microsoft Dynamics**.
+1. Accedi ad Admin e seleziona **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Fate clic su **Modifica** in Dettagli sincronizzazione campo.
+1. Fare clic su **Modifica** in Dettagli sincronizzazione campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scorri verso il basso fino al campo e controllalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fate clic su **Salva**.
+1. Scorri verso il basso fino al campo e controllalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
 ## Abilita sincronizzazione {#enable-sync}
 
-1. Fate clic su **Modifica** nel **passaggio 3: Abilita sincronizzazione**.
+1. Fare clic su **Modifica** in **Passaggio 3: Abilita Sync**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
