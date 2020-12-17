@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo di un ID universale per l’accesso all’iscrizione {#using-a-universal-id-for-subscription-login}
+# Utilizzo di un ID universale per l&#39;accesso all&#39;iscrizione {#using-a-universal-id-for-subscription-login}
 
 Un ID universale consente di accedere a più iscrizioni Marketo con un singolo login e di passare rapidamente da un’iscrizione all’altra. Tuttavia, potete utilizzare accessi diversi per le iscrizioni.
 
@@ -21,11 +21,11 @@ Le impostazioni a livello di iscrizione vengono rispettate per gli utenti che ut
 
 ## Impostazione di un ID universale {#setting-up-a-universal-id}
 
-Da ogni singola istanza, l’amministratore di Marketo deve invitarvi a ciascuna delle vostre diverse iscrizioni con lo stesso login. Marketo non può unire automaticamente i tuoi accessi esistenti. Una volta attivato l&#39;ID universale, **l&#39;istanza Marketo non sarà più disponibile** per un massimo di 30 minuti. Se si dispone di una base utente più ampia, potrebbe essere un po&#39; più lunga.
+Da ogni singola istanza, l’amministratore di Marketo deve invitarvi a ciascuna delle vostre diverse iscrizioni con lo stesso login. Marketo non può unire automaticamente i tuoi accessi esistenti. Una volta abilitato l&#39;ID universale, l&#39;istanza **Marketo non sarà più disponibile** per un massimo di 30 minuti. Se si dispone di una base utente più ampia, potrebbe essere un po&#39; più lunga.
 
 >[!CAUTION]
 >
->Se per un utente è abilitato Single ID o Universal ID, i ruoli e le aree di lavoro di tale utente **non** possono essere modificati dopo la configurazione iniziale.
+>Se per un utente è abilitato un ID singolo o un ID universale, i ruoli e le aree di lavoro di tale ID possono **non** essere modificati dopo la configurazione iniziale.
 
 >[!NOTE]
 >
