@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # SEO - Problemi di esportazione in CSV {#seo-export-issues-to-csv}
 
-1. Potete esportare i dati dei problemi [di](seo-understanding-pages.md) pagina in un file CSV se desiderate condividere tali informazioni con persone esterne a Marketo. Ecco come.
-1. Vai alla sezione **Pagine** .
+1. Potete esportare i dati [edizione pagina](seo-understanding-pages.md) in un file CSV se desiderate condividere tali informazioni con persone esterne a Marketo. Ecco come.
+1. Vai alla sezione **Pagine**.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Questa è la sezione [Dettagli pagina](seo-using-the-page-detail-drill-down.md). **I risultati** di ottimizzazione delle pagine sono un elenco di tutti i problemi con quella particolare pagina.
+   Questa è la [Page Detail Drill Down](seo-using-the-page-detail-drill-down.md). **Ottimizzazione pagina** Risultato: un elenco di tutti i problemi con quella particolare pagina.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. Fate clic su **Esporta**.
+1. Fare clic su **Esporta**.
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
