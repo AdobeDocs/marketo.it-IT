@@ -27,19 +27,19 @@ I valori cambiano costantemente e vengono aggiornati nel database Marketo. A vol
 
    ![](assets/ma.png)
 
-1. Selezionate l’elenco avanzato e fate clic sulla scheda Elenco **** avanzato.
+1. Selezionate l&#39;elenco smart e fate clic sulla scheda **Smart List**.
 
    ![](assets/two-1.png)
 
-1. Trova il filtro Valore **dati modificato** e trascinalo nell&#39;area di lavoro.
+1. Individuare il filtro **Valore dati modificato** e trascinarlo sull&#39;area di lavoro.
 
    ![](assets/three-1.png)
 
-1. Impostare **Attributo** sul campo in cui si desidera cercare le modifiche ai valori dei dati.
+1. Impostare **Attribute** sul campo in cui si desidera cercare le modifiche ai valori dei dati.
 
    ![](assets/four.png)
 
-Questo filtro cercherà tutte le persone che hanno apportato modifiche (o modifiche) al proprio stato. Se desiderate ottenere un risultato ancora più semplice, provate ad [aggiungere un vincolo a un filtro](add-a-constraint-to-a-smart-list-filter.md)per elenchi smart.
+Questo filtro cercherà tutte le persone che hanno apportato modifiche (o modifiche) al proprio stato. Se desiderate ottenere un livello ancora più elevato, provate ad aggiungere un vincolo a un filtro elenco avanzato[.](add-a-constraint-to-a-smart-list-filter.md)
 
 >[!NOTE]
 >
