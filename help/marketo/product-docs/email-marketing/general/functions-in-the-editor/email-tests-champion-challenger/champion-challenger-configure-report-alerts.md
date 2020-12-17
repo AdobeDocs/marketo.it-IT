@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campione/Sfida: Configurare gli avvisi di rapporti {#champion-challenger-configure-report-alerts}
+# Campione/Sfida: Configurare gli avvisi di report {#champion-challenger-configure-report-alerts}
 
 Marketo vi invierà dei rapporti sull&#39;andamento del test e-mail. Ecco come programmarlo.
 
@@ -35,11 +35,11 @@ Marketo vi invierà dei rapporti sull&#39;andamento del test e-mail. Ecco come p
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. Verificate che tutte le informazioni siano corrette e fate clic su **Chiudi**.
+1. Verificare che tutte le informazioni siano corrette e fare clic su **Chiudi**.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
