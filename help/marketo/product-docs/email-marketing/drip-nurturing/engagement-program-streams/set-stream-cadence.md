@@ -17,11 +17,11 @@ Potete inviare il contenuto del coinvolgimento a qualsiasi intervallo. Ad esempi
 
 ## Imposta cadenza {#set-cadence}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Trova e seleziona il tuo programma di coinvolgimento, fai clic sulla scheda **Streams **e poi su **Imposta cadenza** flusso.
+1. Trova e seleziona il programma di coinvolgimento, fai clic sulla scheda **Streams **e poi su **Imposta cadenza flusso**.
 
    ![](assets/selectstreamcadence.jpg)
 
@@ -29,7 +29,7 @@ Potete inviare il contenuto del coinvolgimento a qualsiasi intervallo. Ad esempi
 
 ## Settimanale {#weekly}
 
-1. Selezionate **Settimanale**.
+1. Selezionare **Settimanale**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
@@ -51,9 +51,9 @@ Potete inviare il contenuto del coinvolgimento a qualsiasi intervallo. Ad esempi
 
    >[!TIP]
    >
-   >Puoi impostare la cadenza per eseguire ogni giorno scegliendo **Ripeti: Settimanale** /** Ogni: 1 Settimana** /** ****Attivato**: tutti i giorni.
+   >È possibile impostare la cadenza da eseguire ogni giorno scegliendo **Ripeti: Settimanale** /** Ogni: 1 settimana** /** ****On**: tutti i giorni.
 
-   Ora scegli il Tempo. Selezionare la casella se si desidera utilizzare il fuso [orario del](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)destinatario (ad es., distribuire in base ai fusi orari locali), quindi fare clic su Salva.
+   Ora scegli il Tempo. Selezionare la casella se si desidera utilizzare il fuso orario [Destinatario](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(ovvero, distribuire in base ai fusi orari locali), quindi fare clic su Salva.
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -92,7 +92,7 @@ Potete inviare il contenuto del coinvolgimento a qualsiasi intervallo. Ad esempi
    >
    >In alternativa, potete scegliere il giorno della settimana.
 
-1. Scegliete un **orario** e fate clic su **Salva**.
+1. Selezionare un **Time** e fare clic su **Save**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
