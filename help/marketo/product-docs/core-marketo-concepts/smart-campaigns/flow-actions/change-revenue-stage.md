@@ -25,7 +25,7 @@ Se si utilizza il modello Revenue Cycle Modeler e si dispone di un modello appro
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Selezionare il **nuovo stage** da assegnare e completare l&#39;operazione.
+1. Selezionare la **Nuova fase** che si desidera assegnare e che è stata completata.
 
    ![](assets/image2014-9-22-17-5-8.png)
 
