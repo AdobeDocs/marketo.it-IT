@@ -19,15 +19,15 @@ Talvolta, potete concedere l&#39;accesso API solo a un indirizzo IP specifico o 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin** e fai clic su Servizi **** Web.
+1. Accedete a **Admin** e fate clic su **Web Services**.
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Nell&#39;area Limitazioni IP, fare clic su **Modifica **o su** Modifica limitazioni IP **in alto a sinistra.
+1. Nell&#39;area Limitazioni IP, fare clic su **Edit, **o su** Edit IP Restrictions **in alto a sinistra.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
-1. Selezionate la casella **Abilita limitazioni** IP e immettete gli indirizzi IP che desiderate  inserire nell&#39;elenco Consentiti.
+1. Selezionare la casella **Abilita limitazioni IP** e immettere gli indirizzi IP che si desidera  inserire nell&#39;elenco Consentiti.
 
    ![](assets/image2016-2-25-9-3a18-3a28.png)
 
@@ -35,11 +35,11 @@ Talvolta, potete concedere l&#39;accesso API solo a un indirizzo IP specifico o 
    >
    >Potete inserire un indirizzo IP singolo o un intervallo di indirizzi IP oppure utilizzare un carattere jolly.
 
-1. Fate clic su **Aggiungi** per aprire altri campi e immettere altri indirizzi IP.
+1. Fare clic su **Aggiungi** per aprire altri campi per immettere altri indirizzi IP.
 
    ![](assets/image2016-2-25-9-3a20-3a47.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
 
