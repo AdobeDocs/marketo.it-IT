@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo di contenuti dinamici in un messaggio e-mail {#using-dynamic-content-in-an-email}
+# Utilizzo di contenuto dinamico in un messaggio e-mail {#using-dynamic-content-in-an-email}
 
 >[!PREREQUISITES]
 >
@@ -33,13 +33,13 @@ Utilizzate Contenuti dinamici nelle e-mail per inviare ai lead informazioni mira
 
    ![](assets/1.2.png)
 
-1. In questo esempio stiamo rendendo dinamica la Linea oggetto. Fare clic nel campo Oggetto, quindi fare clic sul pulsante **Rendi dinamico** .
+1. In questo esempio stiamo rendendo dinamica la Linea oggetto. Fare clic nel campo Oggetto, quindi fare clic sul pulsante **Crea dinamico**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Potete inoltre rendere dinamico un elemento all’interno dell’e-mail. A questo scopo, selezionate l’area, fate clic sull’icona a forma di ingranaggio e selezionate **Rendi dinamico** (o [Sostituisci con snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), a seconda delle operazioni eseguite).
+   >Potete inoltre rendere dinamico un elemento all’interno dell’e-mail. A questo scopo, selezionate l&#39;area, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Crea dinamico** (o [Sostituisci con snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), a seconda delle operazioni eseguite).
 
    Immettete il nome Segmentazione, selezionatelo e fate clic su Salva.
 
