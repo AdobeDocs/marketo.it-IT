@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sui tag {#understanding-tags}
+# Tag {#understanding-tags}
 
 Probabilmente ora sapete che i programmi sono come mattoni di costruzione a Marketo. L’utilizzo di tag e canali vi aiuterà a filtrare i dati a scopo di reporting.
 
@@ -23,7 +23,7 @@ I tipi di tag identificano il tipo di informazioni da ordinare.
 
 >[!TIP]
 >
->Per creare tag personalizzati, rivolgiti all&#39;amministratore di [Marketing](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) .
+>Per creare tag personalizzati, rivolgiti all&#39; [Amministratore marketing](http://docs.marketo.com/display/DOCS/Create+Custom+Tags).
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Ogni tipo di tag avrà dei valori tra cui scegliere.
 
 ## Canale {#channel}
 
-I canali vengono utilizzati per segnalare il modo in cui [i membri](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) si sono spostati all&#39;interno del programma. Ogni canale ha un set di stati di progressione e uno stato impostato su uguale successo.
+I canali vengono utilizzati per segnalare il modo in cui i [membri](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) si sono spostati all&#39;interno del programma. Ogni canale ha un set di stati di progressione e uno stato impostato su uguale successo.
 
 >[!NOTE]
 >
