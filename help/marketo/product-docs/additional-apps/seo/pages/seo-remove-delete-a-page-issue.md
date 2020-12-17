@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Non tutti i problemi di pagina potrebbero essere utili. Come rimuovere uno:
 
-1. Vai alla sezione **Pagine** .
+1. Vai alla sezione **Pagine**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Nella sezione pagine, fate clic su **Problemi**.
+1. Nella sezione delle pagine, fare clic su **Problemi**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Passate il puntatore del mouse sul problema della pagina da rimuovere. Fate clic su **REMOVE (REMOVE)**.
+1. Passate il puntatore del mouse sul problema della pagina da rimuovere. Fare clic su **REMOVE**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Facendo clic su **DELETE** il problema della pagina viene rimosso definitivamente.
+1. Facendo clic su **DELETE** il problema di pagina verrà rimosso definitivamente.
 
    >[!CAUTION]
    >
