@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica di un’area di lavoro {#edit-a-workspace}
+# Modifica di un&#39;area di lavoro {#edit-a-workspace}
 
 A volte è necessario apportare modifiche in un’area di lavoro. È facile.
 
@@ -23,13 +23,13 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
 >
 >**Tubo profondo**
 >
->Esegui il pennello sulle aree di lavoro con [Informazioni sulle aree di lavoro e le partizioni](understanding-workspaces-and-person-partitions.md)delle persone.
+>Esegui il pennello sulle aree di lavoro con [Informazioni sulle aree di lavoro e le partizioni delle persone](understanding-workspaces-and-person-partitions.md).
 
-1. In **Admin**, fai clic su **Workspaces e partizioni**.
+1. In **Admin**, fare clic su **Workspaces &amp; Partitions**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
-1. Selezionate l’area di lavoro da modificare e fate clic su **Modifica area di lavoro**.
+1. Selezionare l&#39;area di lavoro da modificare e fare clic su **Modifica area di lavoro**.
 
    ![](assets/two-7.png)
 
@@ -40,13 +40,13 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
    >**Promemoria**
    >
    >
-   >È possibile [creare più partizioni](create-a-person-partition.md) personali se ne ha bisogno.
+   >È possibile [creare più partizioni di persona](create-a-person-partition.md) se necessario.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >La casella di controllo **Tutte le partizioni** di persona** **significa che questa area di lavoro può utilizzare tutte le partizioni principali nel sistema.
+   >La casella di controllo **Tutte le partizioni di persona**** **indica che questa area di lavoro può utilizzare tutte le partizioni principali nel sistema.
 
    >[!NOTE]
    >
