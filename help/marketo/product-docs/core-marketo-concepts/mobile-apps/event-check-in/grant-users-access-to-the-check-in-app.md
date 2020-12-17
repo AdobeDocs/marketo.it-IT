@@ -17,19 +17,19 @@ Marketo ha un ruolo utente speciale per l&#39;app di check-in dell&#39;evento. E
 
 ## Creare un nuovo ruolo utente per Mobile {#create-a-new-user-role-for-mobile}
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Fate clic su **Utenti e ruoli**.
+1. Fare clic su **Utenti e ruoli**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Fare clic sulla scheda **Ruoli** , quindi su **Nuovo ruolo**.
+1. Fare clic sulla scheda **Ruoli**, quindi fare clic su **Nuovo ruolo**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Immettete un nome per il nuovo ruolo e una descrizione facoltativa. Selezionate la casella **Accedi all’applicazione** mobile e fate clic su **Crea**.
+1. Immettete un nome per il nuovo ruolo e una descrizione facoltativa. Selezionare la casella **Accedi all&#39;applicazione mobile** e fare clic su **Crea**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,7 +37,7 @@ Marketo ha un ruolo utente speciale per l&#39;app di check-in dell&#39;evento. E
 
 ## Invito di nuovi utenti per l&#39;app di check-in {#invite-new-users-for-the-check-in-app}
 
-1. Fate clic sulla scheda **Utenti** .
+1. Fare clic sulla scheda **Utenti**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
@@ -45,7 +45,7 @@ Marketo ha un ruolo utente speciale per l&#39;app di check-in dell&#39;evento. E
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Inserite le informazioni del nuovo utente. Selezionate le caselle di controllo per tutti i ruoli appropriati e il nuovo ruolo con l&#39;autorizzazione per accedere all&#39;app mobile. Al termine, fate clic su **Invita** .
+1. Inserite le informazioni del nuovo utente. Selezionate le caselle di controllo per tutti i ruoli appropriati e il nuovo ruolo con l&#39;autorizzazione per accedere all&#39;app mobile. Fare clic su **Invite** al termine.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 
