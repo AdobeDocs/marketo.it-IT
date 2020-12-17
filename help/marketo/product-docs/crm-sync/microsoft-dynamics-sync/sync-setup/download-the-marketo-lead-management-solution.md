@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Scaricate la soluzione di gestione dei lead Marketo {#download-the-marketo-lead-management-solution}
+# Download della soluzione di gestione dei lead di marketing {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente *prima* di eseguire qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente *prima di* eseguire qualsiasi aggiornamento.
 
 >[!NOTE]
 >
 >Marketo supporta solo certificati SSL compatibili con Java 7.
 
-1. Andate all&#39;area **Admin** .
+1. Andate all&#39;area **Admin**.
 
    ![](assets/admin.png)
 
-1. Fate clic su **CRM**.
+1. Fare clic su **CRM**.
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
@@ -39,7 +39,7 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Selezionate **Scarica soluzione** Marketo.
+1. Selezionare **Scarica la soluzione Marketo**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
