@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Creazione di sovrapposizioni personalizzate in visualizzazione Pianificazione programma {#creating-custom-overlays-in-program-schedule-view}
+# Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma {#creating-custom-overlays-in-program-schedule-view}
 
 Potete creare sovrapposizioni personalizzate per visualizzare le voci pertinenti alle vostre esigenze.
 
-1. Fai clic sul menu a discesa **Agenda** .
+1. Fare clic sul menu a discesa **Agenda**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Selezionate **Sovrapposizioni**.
+1. Selezionate **Overlays**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ Potete creare sovrapposizioni personalizzate per visualizzare le voci pertinenti
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Potete anche filtrare in base ai tag [](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)del programma.
+1. È inoltre possibile filtrare i tag [programma](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
