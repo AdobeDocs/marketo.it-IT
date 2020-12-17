@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Dopo aver creato un oggetto personalizzato, è necessario aggiungere campi per soddisfare le esigenze aziendali.
 
-I campi definiscono le informazioni specifiche utilizzate da un oggetto personalizzato. I campi di collegamento hanno un lavoro speciale, per collegare oggetti personalizzati e sono trattati in un articolo [](add-marketo-custom-object-link-fields.md)separato.
+I campi definiscono le informazioni specifiche utilizzate da un oggetto personalizzato. I campi di collegamento hanno un lavoro speciale, per collegare oggetti personalizzati e sono trattati in un [articolo separato](add-marketo-custom-object-link-fields.md).
 
-1. Fare clic su **Admin** e, in Gestione **** database, selezionare **Marketo oggetti** personalizzati.
+1. Fare clic su **Admin** e in **Database Management** selezionare **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +25,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. Nella scheda **Fields **, fare clic su **New Field (Nuovo campo**).
+1. Nella scheda **Fields **, fare clic su **New Field**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -60,7 +60,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
    >**Promemoria**
    >
    >
-   >Se si sta creando una struttura uno-molti, è necessario aggiungere un campo Collegamento all&#39;oggetto personalizzato. Per una struttura molti-a-molti, non è necessario un campo di collegamento nell&#39;oggetto personalizzato, ma è necessario aggiungere due campi di collegamento nell&#39;oggetto intermedio. Per ulteriori informazioni sui tipi di oggetti personalizzati, vedere [Aggiunta di campi](add-marketo-custom-object-link-fields.md) di collegamento oggetto personalizzato a Marketo e [Informazioni sugli oggetti](understanding-marketo-custom-objects.md) personalizzati Marketo.
+   >Se si sta creando una struttura uno-molti, è necessario aggiungere un campo Collegamento all&#39;oggetto personalizzato. Per una struttura molti-a-molti, non è necessario un campo di collegamento nell&#39;oggetto personalizzato, ma è necessario aggiungere due campi di collegamento nell&#39;oggetto intermedio. Per ulteriori informazioni sui tipi di oggetti personalizzati, vedere [Aggiunta di campi di collegamento oggetto personalizzato a Marketo](add-marketo-custom-object-link-fields.md) e [Informazioni sugli oggetti personalizzati a Marketo](understanding-marketo-custom-objects.md).
 
 >[!MORELIKETHIS]
 >
