@@ -16,15 +16,15 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Creare un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definire un pubblico con un elenco](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) avanzato o [definire un pubblico importando un elenco](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definire un pubblico con un ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) elenco avanzato  [Definire un pubblico importando un elenco](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Dopo aver [creato un programma](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e-mail e definito il pubblico, sarà necessario decidere quale e-mail inviare. Potete [creare un&#39;e-mail per un programma](create-an-email-for-an-email-program.md) e-mail da zero o sceglierne una già esistente. Ecco come scegliere uno che esiste già.
+Dopo aver [creato un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definito il pubblico, sarà necessario decidere quale e-mail inviare. È possibile [creare un&#39;e-mail per un programma e-mail](create-an-email-for-an-email-program.md) da zero o scegliere una che esiste già. Ecco come scegliere uno che esiste già.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Dopo aver [creato un programma](../../../../product-docs/email-marketing/email-p
 
    ![](assets/selectemailprogram.jpg)
 
-1. Nella sezione **E-mail** , selezionate quella da inviare.
+1. Nella sezione **E-mail**, selezionare quello che si desidera inviare.
 
    ` ![](assets/image2014-9-12-11-3a28-3a10.png)
 
