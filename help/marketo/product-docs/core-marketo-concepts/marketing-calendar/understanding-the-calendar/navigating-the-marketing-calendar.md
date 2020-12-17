@@ -17,7 +17,7 @@ Navigare intorno al Calendario di Marketing è facile come uno, due, tre!
 
 >[!PREREQUISITES]
 >
->Accertatevi di disporre di una licenza [Calendario](issue-revoke-a-marketing-calendar-license.md) marketing, altrimenti la sezione Calendario marketing non verrà visualizzata in My Marketo.
+>Accertatevi di disporre di una [licenza Marketing Calendar](issue-revoke-a-marketing-calendar-license.md). In caso contrario la sezione Marketing Calendar (Calendario marketing) non verrà visualizzata nel mio marketing.
 
 1. Andate a **Marketing Calendar**.
 
@@ -33,7 +33,7 @@ Navigare intorno al Calendario di Marketing è facile come uno, due, tre!
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Utilizzo della visualizzazione Agenda {#use-the-agenda-view}
+## Utilizzare la vista Agenda {#use-the-agenda-view}
 
 La vista Agenda visualizza tutte le voci come un elenco.
 
@@ -43,7 +43,7 @@ La vista Agenda visualizza tutte le voci come un elenco.
 
    `
 
-1. Selezionate la vista **Agenda** .
+1. Selezionare la vista **Agenda**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -51,7 +51,7 @@ La vista Agenda visualizza tutte le voci come un elenco.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Tempo di navigazione {#navigate-through-time}
+## Spostamento nel tempo {#navigate-through-time}
 
 Senza un DeLorean! È sufficiente fare clic sui pulsanti di navigazione.
 
