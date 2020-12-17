@@ -21,11 +21,11 @@ Marketo deduplica automaticamente quando nuove persone entrano nel sistema. Tutt
 
 >[!PREREQUISITES]
 >
->La ricerca e l&#39;unione di duplicati implica l&#39;utilizzo di elenchi [intelligenti](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)integrati/di sistema.
+>La ricerca e l&#39;unione di duplicati comporterà l&#39;utilizzo di [smart list integrate / system ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Trova duplicati {#find-duplicates}
 
-1. Passare all&#39;area **Database** .
+1. Passare all&#39;area **Database**.
 
    ![](assets/db.png)
 
@@ -33,13 +33,13 @@ Marketo deduplica automaticamente quando nuove persone entrano nel sistema. Tutt
    >
    >L&#39;unione di persone in Marketo potrebbe non funzionare se utilizzi un account Salesforce Person. Unisci i record in Salesforce, se possibile.
 
-1. Selezionate l&#39;elenco smart **Possibile** sistema **Duplicati** e fate clic sulla scheda **Persone** .
+1. Selezionare l&#39;elenco smart di sistema **Possibile** **Duplicati** e fare clic sulla scheda **Persone**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >È inoltre possibile [trovare persone duplicate con logica](find-duplicate-people-with-custom-logic.md)personalizzata.
+   >È inoltre possibile [trovare persone duplicate con logica personalizzata](find-duplicate-people-with-custom-logic.md).
 
 ## Unisci manualmente le persone {#merge-people-manually}
 
@@ -54,7 +54,7 @@ Per selezionare i duplicati, tenete premuto Ctrl/Comando e fate clic su Unisci p
 >
 >È possibile avere due o più duplicati per la stessa persona, selezionarli tutti contemporaneamente.
 
-1. Verranno visualizzati i valori tra i record che *non* corrispondono. Selezionare il valore da mantenere per ciascun campo. Al termine, fate clic su **Unisci** . Se non si desidera alcun valore, è possibile selezionare **Personalizzato** e immettere un valore di propria scelta.
+1. Verranno visualizzati i valori tra i record che *non corrispondono*. Selezionare il valore da mantenere per ciascun campo. Fare clic su **Merge** al termine. Se non si desidera alcun valore, è possibile selezionare **Personalizzato** e immettere un valore desiderato.
 
    ![](assets/four.png)
 
@@ -78,7 +78,7 @@ Per informazioni specifiche sul comportamento di Salesforce durante l&#39;unione
     * [Unione di lead duplicati](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
     * [Unione di contatti duplicati](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## Unione in blocco {#bulk-merging}
+## Unione di massa {#bulk-merging}
 
 Se hai troppi duplicati da unire manualmente, contatta il tuo Customer Success Manager per conoscere le tue opzioni.
 
