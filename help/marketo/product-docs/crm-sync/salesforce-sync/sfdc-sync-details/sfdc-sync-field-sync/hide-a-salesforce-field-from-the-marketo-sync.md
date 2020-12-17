@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nascondere un campo Salesforce dalla sincronizzazione Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
+# Nascondere un campo Salesforce dalla sincronizzazione di Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Non tutti i campi di Salesforce sono utili per Marketing. Potete ottimizzare le prestazioni di sincronizzazione includendo solo i campi necessari. Ecco come si può nascondere un campo da Marketo.
 
-1. Fate clic sul menu del nome e selezionate **Configurazione**.
+1. Fare clic sul menu del nome e selezionare **Configurazione**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Immettete **i profili** nella barra di ricerca e fate clic su **Profili** in **Gestisci utenti**.
+1. Immettere **profili** nella barra di ricerca e fare clic su **Profili** in **Gestisci utenti**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Non tutti i campi di Salesforce sono utili per Marketing. Potete ottimizzare le 
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Nella sezione Protezione **a livello di** campo fare clic su **Visualizza** accanto all&#39;oggetto che contiene il campo di destinazione.
+1. Nella sezione **Sicurezza a livello di campo**, fare clic su **Visualizza** accanto all&#39;oggetto che contiene il campo di destinazione.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Deselezionare la casella **Visibile** accanto al campo da nascondere. Fate clic su **Salva**.
+1. Deselezionare la casella di controllo **Visibile** accanto al campo da nascondere. Fare clic su **Salva**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
