@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informazioni sui campi gestiti di sistema {#understanding-system-managed-fields}
 
-Potreste aver notato che la pagina [dei dettagli della](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persona presenta una serie di campi non modificabili creati da Marketo. Questi dati provengono da varie fonti, e ci sono innumerevoli valori che possono essere visualizzati.
+Potreste aver notato che la [pagina dei dettagli della persona](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) include una serie di campi non modificabili creati da Marketo. Questi dati provengono da varie fonti, e ci sono innumerevoli valori che possono essere visualizzati.
 
 ## Tipi di campi {#field-types}
 
