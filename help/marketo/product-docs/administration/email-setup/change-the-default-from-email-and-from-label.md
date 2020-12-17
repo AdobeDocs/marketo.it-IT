@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modificare i valori predefiniti da e-mail e da etichetta {#change-the-default-from-email-and-from-label}
+# Modificare il valore predefinito Da e-mail e Da etichetta {#change-the-default-from-email-and-from-label}
 
 Ogni utente amministratore ha la possibilità di modificare i valori predefiniti per **Da e-mail** e **Da etichetta** in modo che, quando crea nuove e-mail, vengano utilizzate le impostazioni predefinite.
 
@@ -19,15 +19,15 @@ Ogni utente amministratore ha la possibilità di modificare i valori predefiniti
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/adminhand.png)
 
-1. Fate clic su **E-mail**.
+1. Fare clic su **E-mail**.
 
    ![](assets/image2014-9-18-16-3a27-3a19.png)
 
-1. Immettete i valori predefiniti desiderati per **Da e-mail** e **Da etichetta** , quindi fate clic su **Salva modifiche**.
+1. Immettete i valori predefiniti desiderati per **Da e-mail** e **Da etichetta**, quindi fate clic su **Salva modifiche**.
 
    ![](assets/change-default-hands.png)
 
