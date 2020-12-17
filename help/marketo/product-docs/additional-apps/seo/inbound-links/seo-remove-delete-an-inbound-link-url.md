@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A volte vuoi rimuovere i collegamenti in entrata. Di seguito viene illustrato come:
 
-1. Vai alla sezione Collegamenti **in entrata** .
+1. Andate alla sezione **Collegamenti in ingresso**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
