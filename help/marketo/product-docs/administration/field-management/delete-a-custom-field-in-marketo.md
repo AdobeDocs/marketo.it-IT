@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-È possibile eliminare un campo creato in passato se non è più necessario utilizzarlo. Purtroppo non è possibile eliminare i campi in Marketo, ma *è possibile* nasconderli dall&#39;interfaccia utente.
+È possibile eliminare un campo creato in passato se non è più necessario utilizzarlo. Purtroppo non è possibile eliminare i campi in Marketo, ma è possibile *nasconderli dall&#39;interfaccia utente.*
 
-1. In **Admin**, andate a **Field Management **e selezionate il vostro campo. In Azioni **** campo fare clic su **Nascondi campo**.
+1. In **Admin**, andate a **Field Management **e selezionate il campo. In **Azioni campo**, fare clic su **Nascondi campo**.
 
    ![](assets/image2014-9-19-9-3a49-3a10.png)
 
-   Per istruzioni dettagliate dettagliate dettagliate, vedere [nascondere e scoprire un campo](hide-and-unhide-a-field.md).
+   Per istruzioni dettagliate dettagliate, vedere [nascondere e scoprire un campo](hide-and-unhide-a-field.md).
 
