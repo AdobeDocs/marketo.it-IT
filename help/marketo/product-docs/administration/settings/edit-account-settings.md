@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin**.
+1. Vai a **Admin**.
 
    ![](assets/adminhand.png)
 
-1. Selezionate **Account** personale.
+1. Selezionare **My Account**.
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Selezionate **Modifica impostazioni** account.
+1. Selezionare **Modifica impostazioni account**.
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
