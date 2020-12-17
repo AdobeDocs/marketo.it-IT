@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eliminare un dominio di marchio {#delete-a-branding-domain}
+# Eliminare un dominio di branding {#delete-a-branding-domain}
 
 1. In My Marketo, fare clic su **Admin **e quindi sul collegamento **Email **link.
 
