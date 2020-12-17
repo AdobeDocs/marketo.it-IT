@@ -19,15 +19,15 @@ I collegamenti nelle e-mail di iscrizione al rapporto scadono dopo tre giorni. P
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fai clic su Impostazioni **di** accesso.
+1. In **Admin**, fare clic su **Impostazioni di accesso**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Fate clic su **Modifica scadenza** URL.
+1. Fare clic su **Modifica scadenza URL**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
-1. Dall’elenco a discesa, selezionate il numero di giorni prima della scadenza del collegamento. Fate clic su **Salva**.
+1. Dall’elenco a discesa, selezionate il numero di giorni prima della scadenza del collegamento. Fare clic su **Salva**.
 
    ![](assets/emaillinkexpiration.png)
 
