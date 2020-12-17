@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esistono diversi tipi di notifica.
 
-## Errore campagna  {#campaign-failure}
+## Errore campagna {#campaign-failure}
 
 Gli errori delle campagne ti segnalano eventuali errori nelle tue campagne intelligenti.
 
@@ -47,7 +47,7 @@ Se provate a inviare i lead a Facebook senza accettare i termini di servizio, o 
 
 Pulizia campagna attivatore inattivo
 
-Disattiva campagne intelligenti attivate che non ottengono più alcuna attività. Ulteriori informazioni sulla pulizia [automatica delle campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)di attivazione.
+Disattiva campagne intelligenti attivate che non ottengono più alcuna attività. Ulteriori informazioni su [pulizia automatica delle campagne di attivazione](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Riceverai una notifica quando raggiungi la quota giornaliera. La quota viene rip
 
 >[!NOTE]
 >
->Alcuni dei codici di errore che potresti ricevere sono descritti nella nostra Documentazione [per](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)sviluppatori.
+>Alcuni dei codici di errore che potresti ricevere sono descritti nella nostra [Documentazione sviluppatore](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
 
