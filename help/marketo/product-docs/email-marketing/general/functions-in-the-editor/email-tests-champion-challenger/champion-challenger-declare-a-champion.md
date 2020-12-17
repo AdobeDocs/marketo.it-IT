@@ -20,7 +20,7 @@ Quando siete pronti, potete dichiarare un campione per il test e-mail.
 >* [Campione/Sfida: Approva il test e-mail](champion-challenger-approve-your-email-test.md)
 
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -28,15 +28,15 @@ Quando siete pronti, potete dichiarare un campione per il test e-mail.
 
    ![](assets/champion4.jpg)
 
-1. Selezionare il **vincitore** desiderato.
+1. Selezionare il **Vincitore** desiderato.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Impostate la data **di** dichiarazione.
+1. Impostare la **Data dichiarazione**.
 
    >[!NOTE]
    >
-   >Fino alla data **di** dichiarazione, Marketo continuerà a inviare il vecchio campione e sfidante. Una volta raggiunta la data/ora, verrà inviato solo il nuovo campione.
+   >Fino alla **Dichiara data**, Marketo continuerà a inviare il vecchio campione e sfidante. Una volta raggiunta la data/ora, verrà inviato solo il nuovo campione.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
@@ -44,7 +44,7 @@ Quando siete pronti, potete dichiarare un campione per il test e-mail.
    >
    >Il valore predefinito **Dichiara data** è domani, non oggi.
 
-   Selezionate un’ora e fate clic su **Salva**.
+   Selezionare un&#39;ora e fare clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
