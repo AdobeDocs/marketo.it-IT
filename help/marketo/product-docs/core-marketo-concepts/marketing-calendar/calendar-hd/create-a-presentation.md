@@ -25,15 +25,15 @@ Create una presentazione per proiettare le visualizzazioni e gli obiettivi del c
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Fate clic su **Presentazione** nell’angolo in basso a destra.
+1. Fare clic su **Presentation** nell&#39;angolo in basso a destra.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Fate clic su Azioni **** presentazione e selezionate **Nuova presentazione**.
+1. Fare clic su **Azioni presentazione** e selezionare **Nuova presentazione**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Scegliete un nome per la presentazione. Fate clic su **Crea**.
+1. Scegliete un nome per la presentazione. Fare clic su **Crea**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
