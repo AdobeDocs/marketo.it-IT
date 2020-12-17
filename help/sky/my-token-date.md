@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Come impostare un token di data da utilizzare nei programmi e nelle cartelle delle campagne.
 
-1. Nella [!UICONTROL My Tokens] scheda del programma o della cartella, trascinate un **[!UICONTROL Date]** token sul [!UICONTROL Local Tokens] quadro.
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **[!UICONTROL Date]** nell&#39;area di lavoro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. Immetti un nome per il token data e seleziona una data dal calendario. Fate clic **[!UICONTROL Save]**.
+1. Immetti un nome per il token data e seleziona una data dal calendario. Fare clic su **[!UICONTROL Save]**.
 
    ![Immagine due](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
