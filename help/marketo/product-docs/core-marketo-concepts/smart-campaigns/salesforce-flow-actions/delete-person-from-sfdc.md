@@ -19,7 +19,7 @@ Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come utent
 >
 >Disponibile solo se integrato con Salesforce.
 
-1. Nel database, fai clic sulla persona da rimuovere da Salesforce. Quindi fai clic su Azioni **** persona e seleziona **Salesforce**.
+1. Nel database, fai clic sulla persona da rimuovere da Salesforce. Fare clic su **Azioni persona** e selezionare **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
@@ -27,7 +27,7 @@ Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come utent
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Accertatevi che l&#39;impostazione **Elimina in Marketo** sia **false**, quindi fate clic su **Esegui ora**.
+1. Assicurarsi che l&#39;impostazione **Elimina in Marketo** sia **false**, quindi fare clic su **Esegui ora**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,5 +35,5 @@ Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come utent
 
    >[!CAUTION]
    >
-   >Se imposti **Elimina in Marketo** su **true** e elimini le persone da Marketo e i lead da Salesforce, saranno eliminati per sempre. Questo non può essere annullato.
+   >Se si imposta **Elimina in Marketo** su **true** ed elimina le persone da Marketo e i lead da Salesforce, questi non saranno più disponibili per sempre. Questo non può essere annullato.
 
