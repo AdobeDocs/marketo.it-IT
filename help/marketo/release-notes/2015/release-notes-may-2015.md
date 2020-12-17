@@ -29,7 +29,7 @@ Viene rilasciata una nuova modalità di modifica della pagina di destinazione e 
 
 Hai premuto Invia prima che un programma di posta elettronica fosse pronto per uscire? Tirare i freni con il nuovo pulsante del programma di e-mail abort. Questo arresterà i programmi di posta elettronica in volo proprio nelle loro tracce.
 
-## Distribuzione tramite e-mail  {#email-deliverability}
+## Distribuzione tramite e-mail {#email-deliverability}
 
 Marketo eseguirà ora settimanalmente controlli SPF e DKIM automatizzati sui domini aggiunti. Controlla le tue notifiche per restare sempre al passo.
 
