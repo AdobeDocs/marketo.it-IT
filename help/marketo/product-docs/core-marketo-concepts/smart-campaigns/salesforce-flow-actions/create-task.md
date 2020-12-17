@@ -19,7 +19,7 @@ In qualità di esperto di marketing, hai informazioni che possono aiutare le ven
 
 >[!NOTE]
 >
->Quando l’utente di sincronizzazione Marketo crea attività, **Due in** è un campo obbligatorio per la creazione dell’attività in Salesforce. Per impostazione predefinita, Marketo inserisce cinque giorni in assenza di valore.
+>Quando l&#39;utente di sincronizzazione marketing crea attività, **Due in** è un campo obbligatorio per la creazione dell&#39;attività in Salesforce. Per impostazione predefinita, Marketo inserisce cinque giorni in assenza di valore.
 
 Per impostazione predefinita, il passaggio di scorrimento avrà il seguente aspetto:   ![](assets/image2014-9-22-14-3a54-3a49.png)
 
@@ -29,5 +29,5 @@ Personalizzate tutti i campi per creare l’attività nel modo desiderato.
 
 >[!TIP]
 >
->È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in **Oggetto** e **Descrizione**. Per ulteriori informazioni, consulta [Token per i passaggi](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) di flusso.
+>È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in **Subject** e **Description**. Per ulteriori informazioni, vedere [Token per i passaggi di flusso](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
