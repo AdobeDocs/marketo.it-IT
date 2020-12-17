@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eliminazione di un account denominato {#delete-a-named-account}
+# Eliminare un account denominato {#delete-a-named-account}
 
 Per eliminare un account denominato, effettuate le seguenti operazioni.
 
@@ -23,11 +23,11 @@ Per eliminare un account denominato, effettuate le seguenti operazioni.
    >
    >Per selezionare più account denominati, tenete premuto Ctrl (Windows) o Comando (Mac OS) e fate clic.
 
-1. Fate clic sul menu a **discesa Azioni** account denominato e selezionate **Elimina account** denominato.
+1. Fare clic sul menu a discesa **Azioni account denominato** e selezionare **Elimina account denominato**.
 
    ![](assets/eight-1.png)
 
-1. Fate clic su **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/nine-1.png)
 
