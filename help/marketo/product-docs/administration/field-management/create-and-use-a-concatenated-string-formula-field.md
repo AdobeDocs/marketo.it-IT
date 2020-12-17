@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Creazione e utilizzo di un campo stringa concatenata (formula) {#create-and-use-a-concatenated-string-formula-field}
+# Creare e utilizzare un campo stringa concatenata (formula) {#create-and-use-a-concatenated-string-formula-field}
 
 È possibile combinare valori provenienti da più campi o creare un valore condizionale utilizzando un campo Formula di Marketo.
 
-1. Vai ad **Admin** e fai clic su Gestione **** dei campi.
+1. Accedete a **Admin** e fate clic su **Field Management**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
-1. Fare clic su **Nuovo campo** personalizzato.
+1. Fare clic su **Nuovo campo personalizzato**.
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. Selezionare **Formula** per il **Tipo**.
+1. Selezionare **Formula** per **Tipo**.
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. Inserisci un **nome** per il campo e fai clic su **Crea**.
+1. Immettere un **Nome** per il campo, quindi fare clic su **Crea**.
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Ulteriori informazioni sui [token per i passaggi](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)di flusso.
+   Ulteriori informazioni sui [token per i passaggi di flusso](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Ora è possibile aggiungere il campo formula come token in un messaggio e-mail.
 
