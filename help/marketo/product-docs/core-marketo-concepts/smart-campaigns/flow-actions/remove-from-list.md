@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Rimuovi da elenco {#remove-from-list}
+# Rimuovi dall&#39;elenco {#remove-from-list}
 
 ## Panoramica {#overview}
 
-Poiché hai la capacità di ** [Aggiungi a Elenco](add-to-list.md)**, hai anche bisogno di un modo per rimuovere le persone dagli elenchi.
+Poiché hai la capacità di ** [Aggiungi a elenco](add-to-list.md)**, hai anche bisogno di un modo per rimuovere le persone dagli elenchi.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
 ## Utilizzo {#usage}
 
-1. Individuate e selezionate l’ **Elenco** dal quale desiderate rimuovere le persone.
+1. Trovare e selezionare l&#39; **Elenco** da cui si desidera rimuovere le persone.
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
