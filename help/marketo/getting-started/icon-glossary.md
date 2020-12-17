@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Cartella</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">La cartella di origine condivisa con un’altra area di lavoro</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Cartella di destinazione condivisa da un’altra area di lavoro <br>(il lucchetto indica che non è possibile apportare modifiche)</td> 
+   <td colspan="1">Cartella di destinazione condivisa da un'altra area di lavoro <br>(il blocco indica che non è possibile apportare modifiche)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">Trigger</td> 
   </tr> 
@@ -140,7 +140,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## Icone Amministratore {#admin-icons}
+## Icone amministratore {#admin-icons}
 
 <table> 
  <tbody> 
@@ -312,7 +312,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Icone Attività Di Marketing {#marketing-activities-icons}
+### Icone Attività Marketing {#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -409,12 +409,12 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programma e-mail <br>(flag rosso premuto = e-mail non ancora inviata)</td> 
+   <td>Programma e-mail <br>(Segnalazione rossa = l'e-mail non è ancora stata inviata)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">Programma e-mail pianificato con Head Start</td> 
   </tr> 
@@ -975,7 +975,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Icone dei token personali {#my-tokens-icons}
+### Icone token personali {#my-tokens-icons}
 
 <table> 
  <tbody> 
@@ -1042,7 +1042,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Menu della campagna {#campaign-menus}
+### Menu campagna {#campaign-menus}
 
 <table> 
  <tbody> 
