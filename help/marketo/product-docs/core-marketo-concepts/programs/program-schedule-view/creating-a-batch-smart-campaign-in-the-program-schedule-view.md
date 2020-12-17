@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Creazione di una campagna in batch nella vista Pianificazione del programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# Creazione di una campagna in batch nella vista Pianificazione programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-È possibile creare nuove campagne intelligenti e [ripetere quelle](rerun-a-smart-campaign-in-the-program-schedule-view.md) esistenti all&#39;interno del programma dalla visualizzazione Pianificazione del programma.
+È possibile creare nuove campagne intelligenti e [eseguire nuovamente quelle esistenti](rerun-a-smart-campaign-in-the-program-schedule-view.md) all&#39;interno del programma dalla vista di pianificazione del programma.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Scegliete un nome per la voce, che diventerà la nuova campagna intelligente. Premere il tasto **Invio** per confermare il nome.
+1. Scegliete un nome per la voce, che diventerà la nuova campagna intelligente. Premere il tasto **Invio/A capo** per confermare il nome.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Fate clic sul menu a **discesa Tipo** e scegliete **Smart** **Campaign**.
+1. Fare clic sul menu a discesa **Tipo** e scegliere **Smart** **Campaign**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Scegliete le regole [smart campaign](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) .
+1. Scegliete le regole della [campagna intelligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
    ![](assets/changeprogramstatus-hands.png)
 
