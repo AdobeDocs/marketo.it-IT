@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Puoi aggiungere manualmente i collegamenti in entrata. Di seguito viene illustrato come:
 
-1. Vai alla sezione Collegamenti **in entrata** .
+1. Andate alla sezione **Collegamenti in ingresso**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Fate clic su **AGGIUNGI URL**.
+1. Fare clic su **AGGIUNGI URL**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Digitate l’URL. Fate clic su **ADD**.
+1. Digitate l’URL. Fare clic su **ADD**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Sapevate di poter [aggiungere il collegamento in entrata a un elenco](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)nuovo o esistente? Guardate!
+   >Sapevate che è possibile [aggiungere il collegamento in entrata a un elenco nuovo o esistente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Guardate!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
