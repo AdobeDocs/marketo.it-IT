@@ -18,17 +18,17 @@ Dopo aver creato la campagna batch, potete scegliere di eseguirla subito o in un
 
 >[!TIP]
 >
->Potete anche [ripianificare una campagna in batch nella visualizzazione](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)Pianificazione programma.
+>È inoltre possibile [riprogrammare una campagna smart batch nella vista di pianificazione del programma](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View).
 
 1. Selezionate la campagna dinamica batch da eseguire.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. Vai alla **[!UICONTROL Schedule]** scheda e fai clic su **[!UICONTROL Add Run]**.
+1. Vai alla scheda **[!UICONTROL Schedule]** e fai clic su **[!UICONTROL Add Run]**.
 
    ![Immagine due](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. Selezionate **[!UICONTROL Set Run Date/Time]**, quindi fate clic sull&#39;icona del calendario e selezionate la data in cui desiderate che venga eseguita la campagna intelligente.
+1. Selezionare **[!UICONTROL Set Run Date/Time]**, quindi fare clic sull&#39;icona del calendario e selezionare la data in cui si desidera che venga eseguita la campagna intelligente.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -36,6 +36,6 @@ Dopo aver creato la campagna batch, potete scegliere di eseguirla subito o in un
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. Fate clic **[!UICONTROL Confirm]**.
+1. Fare clic su **[!UICONTROL Confirm]**.
 
    ![Immagine cinque](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
