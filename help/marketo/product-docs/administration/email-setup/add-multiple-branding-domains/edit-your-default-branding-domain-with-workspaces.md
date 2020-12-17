@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modifica del dominio di branding predefinito con Workspaces {#edit-your-default-branding-domain-with-workspaces}
+# Modifica del dominio di branding predefinito con aree di lavoro {#edit-your-default-branding-domain-with-workspaces}
 
-1. Vai ad **Admin**, quindi fai clic su **Email**.
+1. Vai a **Admin**, quindi fai clic su **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Aggiungi**** **non funziona finché non hai modificato il dominio generico.** Elimina ******non funziona finché non aggiungi un secondo dominio.
+   >**Aggiungi****  **non funziona finché non hai modificato il dominio generico.** Elimina ******non funziona finché non aggiungi un secondo dominio.
    >
    >Non puoi aggiungere un dominio aggiuntivo finché non modifichi prima il dominio generico.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >Quando aggiungete altri domini di branding, potete scegliere di renderli il vostro dominio principale per una o più aree di lavoro, e tutte le e-mail non inviate esistenti impostate su &quot;Predefinito&quot; e tutte le e-mail appena create verranno automaticamente sul dominio principale. Potete ignorare questo problema per ogni e-mail.
 
-Ora puoi [aggiungere altri domini](add-an-additional-branding-domain-with-workspaces.md) di branding necessari per le aree di lavoro.
+Ora puoi [aggiungere altri domini di branding](add-an-additional-branding-domain-with-workspaces.md) necessari per le aree di lavoro.
 
 >[!MORELIKETHIS]
 >
