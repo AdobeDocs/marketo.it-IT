@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Tubo profondo**
 >
->Per altre versioni, consulta la sezione approfondita [Note](http://docs.marketo.com/display/docs/release+notes) sulla versione.
+>Per altre versioni, vedere le [Note sulla versione](http://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
-## Miglioramenti alla gestione dei lead Marketo {#marketo-lead-management-enhancements}
+## Miglioramenti della gestione dei lead marketing {#marketo-lead-management-enhancements}
 
 ### Rinomina {#rename}
 
@@ -71,7 +71,7 @@ Quando pianificate una campagna, potete fare clic sul collegamento per visualizz
 
 ## Passaggio di attesa - Token lead e Token personale {#wait-step-lead-token-and-my-token}
 
-Nella release di maggio, abbiamo aggiunto opzioni avanzate al passaggio del flusso di attesa. Con queste modifiche, potete specificare una giornata lavorativa, una data e un&#39;ora. In questa versione è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, potete utilizzare `{{lead.Birthday}}` per inviare un&#39;e-mail durante il compleanno, oppure per inviare un promemoria Web `{{my.Event Date}}` finale.
+Nella release di maggio, abbiamo aggiunto opzioni avanzate al passaggio del flusso di attesa. Con queste modifiche, potete specificare una giornata lavorativa, una data e un&#39;ora. In questa versione è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, potete utilizzare `{{lead.Birthday}}` per inviare un&#39;e-mail durante il compleanno, oppure utilizzare `{{my.Event Date}}` per inviare un promemoria Web finale.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
@@ -87,7 +87,7 @@ Promemoria: Aggiornamento report prestazioni e-mail in corso.
 
 ## Miglioramenti del ciclo di analisi dei ricavi di Marketo {#marketo-revenue-cycle-analytics-enhancements}
 
-### Nuove metriche nell&#39;analisi delle opportunità del programma  {#new-metrics-in-program-opportunity-analysis}
+### Nuove metriche nell&#39;analisi delle opportunità del programma {#new-metrics-in-program-opportunity-analysis}
 
 Ora puoi ottenere informazioni sul numero medio di contatti di marketing prima che le opportunità vengano create o chiuse, nonché sul valore medio di un tocco di marketing.
 
@@ -101,13 +101,13 @@ La funzione multi-grafico consente di visualizzare più grafici in un singolo re
 
 ![](assets/image2014-9-23-10-3a27-3a41.png)
 
-## Tipo di grafico griglia di calore  {#heat-grid-chart-type}
+## Tipo di grafico della griglia di calore {#heat-grid-chart-type}
 
 Le griglie di calore consentono di visualizzare i dati per identificare i pattern delle prestazioni Marketing. Questo tipo di visualizzazione determinerà il colore dei risultati e ti consentirà di visualizzare un’analisi aziendale complessa in una visualizzazione di facile comprensione.
 
 ![](assets/image2014-9-23-10-3a28-3a21.png)
 
-## Tipo grafico a dispersione  {#scatter-chart-type}
+## Tipo di grafico a dispersione {#scatter-chart-type}
 
 I grafici a dispersione consentono di visualizzare i dati su più dimensioni in un unico grafico. Questo tipo di visualizzazione traccia una bolla su un grafico in base agli attributi utilizzati. Potete quindi utilizzare una misura per codificare il colore della bolla e/o utilizzare una misura per specificare la dimensione della bolla.
 
