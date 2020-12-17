@@ -23,7 +23,7 @@ Ad esempio, Keith utilizza il collegamento &quot;Inoltra all’amico&quot; per i
 
    ![](assets/one-8.png)
 
-1. Individuate e selezionate il modello e-mail a cui desiderate aggiungere il collegamento. Fate clic su **Modifica bozza**.
+1. Individuate e selezionate il modello e-mail a cui desiderate aggiungere il collegamento. Fare clic su **Modifica bozza**.
 
    ![](assets/two-7.png)
 
@@ -44,7 +44,7 @@ Ad esempio, Keith utilizza il collegamento &quot;Inoltra all’amico&quot; per i
    >
    >Non è consigliabile utilizzare lo stile **position:relative** nel modello e-mail. Può creare problemi con la posizione e la visualizzazione della casella &quot;Inoltra all&#39;amico&quot;.
 
-1. Fate clic su **Anteprima bozza** per assicurarvi che il modello abbia l&#39;aspetto desiderato.
+1. Fare clic su **Anteprima bozza** per verificare che il modello sia nel modo desiderato.
 
    ![](assets/four-5.png)
 
@@ -65,11 +65,11 @@ Puoi anche aggiungere il collegamento &quot;Inoltra a amico&quot; direttamente i
 
    ![](assets/five-4.png)
 
-1. Posizionare il cursore nel punto in cui si desidera visualizzare il collegamento e fare clic sul pulsante **Inserisci token** .
+1. Posizionare il cursore nel punto in cui si desidera visualizzare il collegamento e fare clic sul pulsante **Inserisci token**.
 
    ![](assets/six-2.png)
 
-1. Selezionate il **`{{system.forwardToFriendLink}}`** token.
+1. Selezionare il token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -81,11 +81,11 @@ Puoi anche aggiungere il collegamento &quot;Inoltra a amico&quot; direttamente i
 
    ![](assets/seven-1.png)
 
-1. Tagliate il **`{{system.forwardToFriendLink}}`** token utilizzando Ctrl+X (Windows) o Cmd+X (Mac). Evidenzia &quot;Inoltra a un amico&quot; e fai clic sul pulsante **Inserisci/Modifica collegamento** .
+1. Tagliate il token **`{{system.forwardToFriendLink}}`** utilizzando Ctrl+X (Windows) o Cmd+X (Mac). Evidenziare &quot;Inoltra a un amico&quot; e fare clic sul pulsante **Inserisci/Modifica collegamento**.
 
    ![](assets/eight-1.png)
 
-1. Incollate il **`{{system.forwardToFriendLink}}`** token nella casella **URL** utilizzando Ctrl/Comando+V, quindi fate clic su** Inserisci*.
+1. Incollate il token **`{{system.forwardToFriendLink}}`** nella casella **URL** utilizzando Ctrl/Cmd+V, quindi fate clic su** Inserisci**.
 
    ![](assets/nine.png)
 
@@ -101,7 +101,7 @@ Puoi anche aggiungere il collegamento &quot;Inoltra a amico&quot; direttamente i
 
 Puoi vedere chi ha inoltrato e ricevuto le e-mail nel log delle attività della persona.
 
-1. Vai al **`Database`**.
+1. Passare alla cartella **`Database`**.
 
    ![](assets/db.png)
 
@@ -109,7 +109,7 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel log delle attività della 
 
    ![](assets/fourteen.png)
 
-1. Passate alla scheda Registro **** attività. Fate doppio clic su **Ricevuto inoltrato a Amica e-mail** o **Inviato a Amica e-mail** per visualizzare i dettagli.
+1. Passate alla scheda **Activity Log**. Fare doppio clic su **Ricevuto e-mail a amico** o **Inviato a e-mail amico** per visualizzare i dettagli.
 
    ![](assets/fifteen.png)
 
@@ -131,16 +131,16 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel log delle attività della 
 
    >[!NOTE]
    >
-   >Faremo clic sull’ID **** persona e collegheremo direttamente alla persona in una patch imminente.
+   >Facendo clic sull&#39; **ID persona** e collegandoci direttamente alla persona in una patch imminente.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Se l&#39;amico che riceve il avanti è una persona sconosciuta, viene creata una nuova persona con &quot;Inoltra all&#39;amico&quot; contrassegnato come **Origine** della persona.\
-   >Se l’e-mail è una risorsa locale di un programma, il programma viene contrassegnato come programma **di** acquisizione della persona.
+   >Se l&#39;amico che riceve l&#39;inoltro è una persona sconosciuta, viene creata una nuova persona con &quot;Inoltra all&#39;amico&quot; contrassegnato come **Origine** della persona.\
+   >Se l&#39;e-mail è una risorsa locale di un programma, il programma è contrassegnato come **Programma di acquisizione della persona**.
 
-## Attivazione o filtro tramite l&#39;attività di inoltro {#trigger-or-filter-using-forwarding-activity}
+## Trigger o Filtro utilizzando l&#39;attività di inoltro {#trigger-or-filter-using-forwarding-activity}
 
 Esistono sei attivatori/filtri che puoi usare per attivare azioni di flusso o filtrare le persone mediante l’attività &quot;Inoltra all’amico&quot; inviata e ricevuta.
 
@@ -150,4 +150,4 @@ Nell&#39;elenco smart della campagna, se cercate &quot;avanti&quot;, troverete l
 
 ## Test inoltrato all&#39;amico {#test-forward-to-friend}
 
-Per testare ‘Inoltra all’amico’, inviatevi un’e-mail con il collegamento in avanti. Accertatevi di inviarlo tramite il passaggio **Invia flusso e-mail** , *non* tramite **Invia e-mail** di prova.
+Per testare ‘Inoltra all’amico’, inviatevi un’e-mail con il collegamento in avanti. Assicurarsi di inviarlo tramite il passaggio di flusso **Invia e-mail**, *not* tramite **Invia e-mail di prova**.
