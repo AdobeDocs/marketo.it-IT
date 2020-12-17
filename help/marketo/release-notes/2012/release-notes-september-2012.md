@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Questa versione include funzionalità social integrate e vantaggi per la gestione dei lead! Nota: le funzioni per social network sono disponibili come componente aggiuntivo o come parte di pacchetti selezionati.
 
-## Pubblicare un video di YouTube con la condivisione per social network {#publish-a-youtube-video-with-social-sharing}
+## Pubblicare un video di YouTube con condivisione per social network {#publish-a-youtube-video-with-social-sharing}
 
 Amplificate il pubblico dei video incoraggiando i visitatori a condividerli socialmente, utilizzando la nuova condivisione video sulle pagine di destinazione.
 
 ![](assets/image2014-9-23-10-3a39-3a21.png)
 
-## Aggiunta di un pulsante di condivisione {#add-a-share-button}
+## Aggiungere un pulsante di condivisione {#add-a-share-button}
 
 Personalizzare completamente i messaggi di condivisione e l&#39;aspetto di un nuovo set di pulsanti di condivisione social network. Inoltre, potete acquisire i dati del profilo sociale mentre i lead condividono i contenuti.
 
@@ -33,7 +33,7 @@ Ottenere informazioni approfondite e ridurre gli attriti consentendo ai lead di 
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Pubblicare le pagine di destinazione su Facebook {#publish-landing-pages-to-facebook}
+## Pubblica pagine di destinazione su Facebook {#publish-landing-pages-to-facebook}
 
 Ampliate il raggio d&#39;azione delle pagine di destinazione pubblicandole direttamente su Facebook, complete di app per social network, moduli e tutte le funzionalità delle pagine di destinazione di Marketo.
 
@@ -47,7 +47,7 @@ Collegate facilmente un evento Marketo a una riunione ReadyTalk. Utilizza un mod
 
 È ora disponibile il supporto per Microsoft Dynamics 2011 in sede con una distribuzione Internet.
 
-## Ganci Web (Cesto del tesoro) {#webhooks-treasure-chest}
+## Ganci Web (Torace del Tesoro) {#webhooks-treasure-chest}
 
 Un Webhook è un callback HTTP definito dall&#39;utente. È un ottimo modo per inviare i dati da Marketo a qualsiasi altro servizio. Al momento questa funzione è disponibile nel Cesto del tesoro ed è supportata solo nelle campagne di attivazione.
 
