@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Drip, Drip, Cura {#drip-drip-nurture}
+# Drip, Drip, Nurture {#drip-drip-nurture}
 
 ## Missione: Cura le persone che hanno partecipato alla tua recente fiera {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
@@ -23,53 +23,53 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 >* [Importa un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
-## Passaggio 1: Creazione di un programma di coinvolgimento {#step-create-an-engagement-program}
+## Passaggio 1: Creare un programma di coinvolgimento {#step-create-an-engagement-program}
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/one-3.png)
 
-1. Selezionate la cartella **Apprendimento** , fate clic sul menu a discesa **Nuovo** e selezionate **Nuovo programma**.
+1. Selezionate la cartella **Learning**, fate clic sul menu a discesa **New** e selezionate **New Program** (Nuovo programma).
 
    ![](assets/two-4.png)
 
-1. Immettete un **nome** e selezionate **Partecipazione** per il tipo **di** programma.
+1. Immettete un **Nome** e selezionate **Coinvolgimento** per il **Tipo di programma**.
 
    ![](assets/three-3.png)
 
-1. Accertatevi che il campo **Canale** sia **Natura** e fate clic su **Crea**.
+1. Assicurarsi che il campo **Canale** sia **Natura** e fare clic su **Crea**.
 
    ![](assets/four-2.png)
 
    Ora hai creato un programma di coinvolgimento.
 
-## Passaggio 2: Creare un messaggio e-mail {#step-create-an-email}
+## Passaggio 2: Creare un&#39;e-mail {#step-create-an-email}
 
-1. Selezionate il programma di coinvolgimento, quindi fate clic su **Nuovo** e selezionate **Nuova risorsa** locale.
+1. Selezionate il programma di coinvolgimento, quindi fate clic su **Nuovo** e selezionate **Nuova risorsa locale**.
 
    ![](assets/five-3.png)
 
-1. Fate clic su **E-mail**.
+1. Fare clic su **E-mail**.
 
    ![](assets/six-3.png)
 
-1. Immettete un **nome**, selezionate il **modello** da usare e fate clic su **Crea**.
+1. Immettere un **Nome**, selezionare il **Modello** che si desidera utilizzare e fare clic su **Crea**.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >Non vedete l&#39;editor e-mail? Il browser probabilmente ha bloccato la finestra. Attivate i pop-up da [app.marketo.com](https://app.marketo.com) nel browser e fate clic su **Modifica bozza** nella barra dei menu superiore.
+   >Non vedete l&#39;editor e-mail? Il browser probabilmente ha bloccato la finestra. Attivate le finestre a comparsa da [app.marketo.com](https://app.marketo.com) nel browser e fate clic su **Modifica bozza** nella barra dei menu principale.
 
 1. Immettete un oggetto.
 
    ![](assets/eight-2.png)
 
-1. Selezionate l’area dell’e-mail da modificare, fate clic sull’icona a forma di ingranaggio e selezionate **Modifica**.
+1. Selezionate l&#39;area dell&#39;e-mail da modificare, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Edit**.
 
    ![](assets/nine-1.png)
 
-1. Modificate il messaggio e-mail e fate clic su **Salva**.
+1. Modificate il messaggio e fate clic su **Salva**.
 
    ![](assets/ten-3.png)
 
@@ -77,7 +77,7 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    ![](assets/eleven-3.png)
 
-1. In Azioni **e-** mail fare clic su **Approva**.
+1. In **Azioni e-mail**, fare clic su **Approva**.
 
    ![](assets/twelve-2.png)
 
@@ -93,7 +93,7 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
 1. Ora è il momento di creare un flusso di contenuti per il programma di coinvolgimento utilizzando le e-mail che hai creato.
 
-1. Selezionate il programma di coinvolgimento e fate clic sulla scheda **Streams** .
+1. Selezionate il programma di coinvolgimento e fate clic sulla scheda **Streams**.
 
    ![](assets/fourteen-2.png)
 
@@ -103,11 +103,11 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    >[!TIP]
    >
-   >Potete anche utilizzare il pulsante **Aggiungi contenuto** o l&#39;icona Flusso **+** .
+   >È inoltre possibile utilizzare il pulsante **Aggiungi contenuto** o l&#39;icona del flusso **+**.
 
 ## Passaggio 4: Attiva contenuto flusso {#step-activate-stream-content}
 
-1. Attivate tutti i contenuti contemporaneamente facendo clic sull&#39;icona a forma di ingranaggio del flusso, quindi fate clic su **Attiva tutto il contenuto**.
+1. Attivate tutti i contenuti contemporaneamente facendo clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fate clic su **Attiva tutti i contenuti**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -117,13 +117,13 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    Ottimo lavoro! Un altro passo e il programma di coinvolgimento è pronto.
 
-## Passaggio 5: Imposta la cadenza del flusso {#step-set-the-stream-cadence}
+## Passaggio 5: Impostare la cadenza del flusso {#step-set-the-stream-cadence}
 
-1. Fate clic su **Imposta cadenza** flusso.
+1. Fare clic su **Imposta cadenza flusso**.
 
    ![](assets/seventeen.png)
 
-1. Modificate le impostazioni in base alla pianificazione desiderata e fate clic su **Salva**.
+1. Modificate le impostazioni in modo che corrispondano alla pianificazione desiderata e fate clic su **Save**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -133,9 +133,9 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
    >
    >La persona che esegue il test è la persona che controlla il programma di coinvolgimento per verificare che sia corretto prima di inviarlo ai clienti.
 
-## Passaggio 6: Aggiunta di una persona di test al programma di coinvolgimento {#step-add-a-test-person-to-your-engagement-program}
+## Passaggio 6: Aggiunta di una persona di prova al programma di coinvolgimento {#step-add-a-test-person-to-your-engagement-program}
 
-1. Passare all&#39;area **Database** .
+1. Passare all&#39;area **Database**.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    ![](assets/twenty-one.png)
 
-1. Seleziona il **programma** e il **flusso**, quindi fai clic su **Esegui ora**.
+1. Selezionare il **programma** e **Stream**, quindi fare clic su **Esegui ora**.
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ Puoi creare facilmente un sistema di cura avanzato e sofisticato in Marketo. Ecc
 
    >[!NOTE]
    >
-   >Ulteriori informazioni sui programmi [di](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)coinvolgimento.
+   >Ulteriori informazioni su [Programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
