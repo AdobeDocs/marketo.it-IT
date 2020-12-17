@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Per creare manualmente un account denominato, effettuate le seguenti operazioni.
 
-1. In Account denominati, fate clic sul menu a discesa **Nuovo** e selezionate **Crea account** con nome.
+1. In Account denominati, fare clic sul menu a discesa **Nuovo** e selezionare **Crea account denominato**.
 
    ![](assets/two-1.png)
 
-1. Compilate i campi desiderati e fate clic su **Crea**.
+1. Compila i campi desiderati e fai clic su **Crea**.
 
    ![](assets/three-1.png)
 
