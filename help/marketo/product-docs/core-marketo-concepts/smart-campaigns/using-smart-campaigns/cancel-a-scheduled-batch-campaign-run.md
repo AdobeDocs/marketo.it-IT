@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Annullamento di una campagna batch pianificata {#cancel-a-scheduled-batch-campaign-run}
+# Annullamento di una campagna batch pianificata eseguita {#cancel-a-scheduled-batch-campaign-run}
 
 Se hai pianificato un&#39;esecuzione per una delle campagne batch e desideri annullarla, ecco come.
 
