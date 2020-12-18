@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Confronto dell&#39;efficacia dei canali con l&#39;analisi dei programmi {#compare-channel-effectiveness-with-the-program-analyzer}
+# Confronta l&#39;efficacia del canale con l&#39;analizzatore del programma {#compare-channel-effectiveness-with-the-program-analyzer}
 
 Utilizzare Program Analyzer per confrontare i costi di canale, l&#39;acquisizione di membri, la pipeline, le entrate e altro ancora, per identificare i canali più efficaci e meno efficaci.
 
@@ -20,31 +20,31 @@ Utilizzare Program Analyzer per confrontare i costi di canale, l&#39;acquisizion
 >* [Creare un analizzatore di programmi](create-a-program-analyzer.md)
 
 
-1. Fai clic su **Analytics** in **My Marketo.**
+1. Fare clic su **Analytics** in **My Marketo.**
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Selezionare **Program Analyzer.**
+1. Selezionare il programma **Analizzatore programmi.**
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Cambia la vista in **Per** **canale**.
+1. Cambia la vista in **By** **Canale**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Utilizzate il menu a discesa Asse **** X per scegliere una metrica per l&#39;asse orizzontale. Cominciamo con il costo **del** programma.
+1. Utilizzate il menu a discesa **Asse X** per scegliere una metrica per l&#39;asse orizzontale. Cominciamo con **Costo programma**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Utilizzate il menu a discesa Asse Y per scegliere una metrica per l&#39;asse verticale. Qui, andremo con **(FT) Pipeline Creata**.
+1. Utilizzate il menu a discesa Asse Y per scegliere una metrica per l&#39;asse verticale. A questo punto, verrà creata la tubazione **(FT) Create**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la [differenza tra l&#39;attribuzione](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+   >Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la differenza [tra l&#39;attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Utilizzate il menu a discesa Asse **** Y per scegliere **(MT) tubazione creata**.
+1. Utilizzate il menu a discesa **Y Axis** (Asse Y) per scegliere la tubazione **(MT) creata**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -52,7 +52,7 @@ Utilizzare Program Analyzer per confrontare i costi di canale, l&#39;acquisizion
 
    Ora aggiungiamo altre due dimensioni!
 
-1. Utilizzate il menu a discesa **Dimensione** bolla per selezionare una misura aggiuntiva, come **Nuovi nomi**.
+1. Utilizzate il menu a discesa **Dimensione bolla** per selezionare una misura aggiuntiva, come **Nuovi nomi**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -60,7 +60,7 @@ Utilizzare Program Analyzer per confrontare i costi di canale, l&#39;acquisizion
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vediamo che il canale del webinar si restringe, come misurato da **Nuovi nomi**. Possiamo concludere che, pur avendo molti membri, è meno efficace nel generare nuovi lead rispetto al canale Tradeshow.
+   Il canale del webinar si restringe, come misurato da **New Names**. Possiamo concludere che, pur avendo molti membri, è meno efficace nel generare nuovi lead rispetto al canale Tradeshow.
 
 1. Infine, utilizzate il menu a discesa Colore per aggiungere la quarta dimensione. Selezionare **(FT) Revenue** **Won**.
 
@@ -72,7 +72,7 @@ Utilizzare Program Analyzer per confrontare i costi di canale, l&#39;acquisizion
 
    Dai colori, impariamo che il canale Tradeshow, la bolla più verde, ha influenzato le maggiori entrate, misurate dall&#39;attribuzione del primo tocco.
 
-1. Ora, se cambiamo la metrica Colore in **(MT) Revenue Won**, vediamo che il canale pubblicitario online, ora il più verde, ha influenzato più entrate - nel tempo - rispetto ai canali webinar e Tradeshow.
+1. Ora, se cambiamo la metrica Colore in **(MT) Revenue Won**, vediamo che il canale pubblicitario online, ora il più verde, ha influenzato più ricavi -nel tempo_ che i canali webinar e Tradeshow.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -95,4 +95,4 @@ Nel nostro esempio, vediamo che il canale di presentazione è sia il più costos
 
 >[!NOTE]
 >
->Ulteriori informazioni sulle analisi avanzate in [Esplora](http://docs.marketo.com/display/docs/revenue+cycle+analytics)ciclo delle entrate.
+>Ulteriori informazioni sulle analisi avanzate in [Esplora ciclo di entrate](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
