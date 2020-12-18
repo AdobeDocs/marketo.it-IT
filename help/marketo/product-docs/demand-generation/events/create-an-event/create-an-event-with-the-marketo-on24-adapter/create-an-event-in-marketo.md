@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creare un evento in Marketo {#create-an-event-in-marketo}
+# Creazione di un evento in Marketo {#create-an-event-in-marketo}
 
 Un evento Marketo tiene traccia della progressione delle persone attraverso un programma. Invia le informazioni di registrazione e richiama le informazioni di partecipazione utilizzando l&#39;adattatore ON24. L’evento acquisisce lo stato delle persone che vi stanno avanzando.
 
@@ -19,7 +19,7 @@ Ecco come vengono scambiati i dati:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Quando create l&#39;evento Marketo, selezionate **Webinar** come tipo di canale. Puoi modificare questo canale in Amministratore e creare un nuovo canale. Se create un nuovo canale, deve essere del tipo **Evento con webinar** affinché l&#39;integrazione funzioni. Per ulteriori informazioni, consulta [Creazione di un canale](../../../../../product-docs/administration/tags/create-a-program-channel.md) del programma.
+Quando create l&#39;evento Marketo, selezionate **Webinar** come tipo di canale. Puoi modificare questo canale in Amministratore e creare un nuovo canale. Se create un nuovo canale, per il funzionamento dell&#39;integrazione deve essere di tipo **Evento con webinar**. Per ulteriori informazioni, vedere [Creare un canale del programma](../../../../../product-docs/administration/tags/create-a-program-channel.md).
 
 Il passaggio successivo consiste nel [configurare le impostazioni dell&#39;evento e sincronizzare Marketo con il webinar](https://docs.marketo.com/x/IRCa).
 
