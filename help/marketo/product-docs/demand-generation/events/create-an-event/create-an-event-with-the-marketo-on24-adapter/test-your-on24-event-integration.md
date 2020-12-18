@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Assicuratevi di verificare accuratamente l&#39;integrazione degli eventi.
 
-## Sequenza Di Test Consigliata Prima Di Eseguire La Prima Campagna {#recommended-test-sequence-before-running-your-first-campaign}
+## Sequenza di test consigliata prima di eseguire la prima campagna {#recommended-test-sequence-before-running-your-first-campaign}
 
 1. Compilate il modulo di registrazione dell&#39;evento e utilizzate un indirizzo e-mail valido per il test.
-1. Confermate la visualizzazione del nome del test con uno stato **Registrato** nella griglia Appartenenza dell&#39;evento Marketo.
-1. Confermate che il nome del test venga visualizzato anche come **Registrato** in ON24.
+1. Confermate che il nome del test venga visualizzato con uno stato **Registrato** nella griglia Appartenenza dell&#39;evento Marketo.
+1. Confermate che il nome del test sia indicato anche come **Registered** in ON24.
 1. Confermate che l&#39;indirizzo e-mail valido usato per registrare il nome del test abbia ricevuto un messaggio e-mail di conferma all&#39;evento e che l&#39;URL univoco sia stato risolto nell&#39;e-mail.
 
    >[!NOTE]
    >
-   >Affinché l’URL univoco possa essere visualizzato nell’e-mail di ciascun utente registrato, dovete usare il `{{member.webinar url}}` token nell’e-mail di conferma.
+   >Affinché l&#39;URL univoco possa essere visualizzato nell&#39;e-mail di ciascun utente registrato, dovete utilizzare il token `{{member.webinar url}}` nel messaggio e-mail di conferma.
 
-## Dopo l’evento {#after-the-event}
+## Dopo l&#39;evento {#after-the-event}
 
 Di seguito è spiegato in che modo i dati vengono aggiornati dopo l’evento:
 
 * Marketo recupera i dati dei partecipanti da ON24 ogni notte.
-* Dopo la sincronizzazione dei dati dei partecipanti tra Marketo e ON24, Marketo aggiorna lo stato dell’iscrizione a Partecipante, Partecipato on-demand o Nessun evento. Nella scheda **Riepilogo** dell&#39;evento, lo stato dell&#39;evento viene aggiornato a **Evento completato**.
+* Dopo la sincronizzazione dei dati dei partecipanti tra Marketo e ON24, Marketo aggiorna lo stato dell’iscrizione a Partecipante, Partecipato on-demand o Nessun evento. Nella scheda **Summary** dell&#39;evento, lo stato dell&#39;evento viene aggiornato a **Event Complete**.
 
 >[!MORELIKETHIS]
 >
