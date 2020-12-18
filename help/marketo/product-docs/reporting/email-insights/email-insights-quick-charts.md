@@ -27,7 +27,7 @@ In questo esempio, sceglieremo il tasso aperto per le prime tre settimane di feb
 
    ![](assets/two-2.png)
 
-1. Quando l’intervallo di date è selezionato, fate clic su **Applica**.
+1. Quando l&#39;intervallo di date è selezionato, fare clic su **Applica**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ In questo esempio, sceglieremo il tasso aperto per le prime tre settimane di feb
 
    ![](assets/5.png)
 
-1. Sul lato destro del grafico, fate clic sull’icona di esportazione e selezionate **Salva come grafico** rapido.
+1. Sul lato destro del grafico, fare clic sull&#39;icona di esportazione e selezionare **Salva come grafico rapido**.
 
    ![](assets/six.png)
 
@@ -65,15 +65,15 @@ In questo esempio, sceglieremo il tasso aperto per le prime tre settimane di feb
 
 Vuoi eliminare uno dei tuoi grafici rapidi? È facile!
 
-1. Fate clic sull’icona **Grafici** rapidi.
+1. Fare clic sull&#39;icona **Quick Charts**.
 
    ![](assets/nine.png)
 
-1. Passa il cursore del mouse sul grafico desiderato, ma non fai clic su di esso. Al passaggio del mouse, verrà visualizzata una X. Fate clic sulla **X**.
+1. Passa il cursore del mouse sul grafico desiderato, ma non fai clic su di esso. Al passaggio del mouse, verrà visualizzata una X. Fare clic su **X**.
 
    ![](assets/ten.png)
 
-1. Fate clic su **Ok**.
+1. Fare clic su **Ok**.
 
    ![](assets/eleven.png)
 
