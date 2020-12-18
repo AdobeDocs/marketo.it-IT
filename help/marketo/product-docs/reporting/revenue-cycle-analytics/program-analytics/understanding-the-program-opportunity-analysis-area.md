@@ -35,7 +35,7 @@ Quali opportunità ha influenzato un determinato programma?
 
 ![](assets/four-1.png)
 
-## Misure di attribuzione analisi delle opportunità del programma (punti blu) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Misure di attribuzione analisi opportunità programma (punti blu) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
 Le misure disponibili per l&#39;analisi sono generalmente numeri e sono rappresentate da punti blu. I Dimension sono attributi che forniscono diverse viste delle misure e sono rappresentati da punti gialli.
 
@@ -120,7 +120,7 @@ Di seguito è riportato uno scenario che descrive come vengono calcolate le Unit
 
 Marketo concede il credito in modo appropriato senza il doppio conteggio delle opportunità tra i programmi. Quindi, in questo caso, ogni programma riceve 0,5 Unità Opportunità. In altre parole, ogni programma riceve la metà del credito per l&#39;Opportunità generata. Inoltre, metà delle entrate associate all&#39;opportunità viene assegnata a ciascun programma.
 
-## Varie Misure Relative Ai Programmi {#miscellaneous-program-related-measures}
+## Varie misure relative ai programmi {#miscellaneous-program-related-measures}
 
 Le altre misure disponibili rispecchiano i risultati complessivi del programma.
 
@@ -169,15 +169,15 @@ Mentre le misure (punti blu) vengono calcolate e richiedono riflessione e spiega
   </tr> 
   <tr> 
    <td>Attributi opportunità</td> 
-   <td><p>Opportunità<br>ClosedOpportunity Name*<br>Opportunity Owner<br>NameOpportunity<br>StageOpportunity Type</p></td> 
+   <td><p>Opportunità chiusa<br>Nome opportunità*<br>Nome proprietario opportunità<br>Stage opportunità<br>Tipo opportunità</p></td> 
   </tr> 
   <tr> 
    <td>Timeframe opportunità</td> 
-   <td><p>Opportunità Anno/Trimestre/<br>MeseOpportunità creata Anno/Trimestre/Mese</p></td> 
+   <td><p>Opportunità chiusa anno/trimestre/mese<br>Opportunità creata anno/trimestre/mese</p></td> 
   </tr> 
   <tr> 
    <td>Attributi del programma</td> 
-   <td><p>Nome programma<br>ChannelProgram</p></td> 
+   <td><p>Canale programma<br>Nome programma</p></td> 
   </tr> 
   <tr> 
    <td>Calendario costi programma</td> 
