@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Usare un modulo in una casella di controllo {#use-a-form-in-a-lightbox}
+# Utilizzare un modulo in una casella di controllo Lightbox {#use-a-form-in-a-lightbox}
 
 Una Lightbox è una tecnica che consente di aprire un modulo davanti al contenuto per consentirne la visualizzazione. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ Una Lightbox è una tecnica che consente di aprire un modulo davanti al contenut
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. In **Azioni** modulo **fare clic su** Incorpora **** codice ****.
+1. In **Form** **Actions**, fare clic su **Embed** **Code**.
 
    >[!NOTE]
    >
@@ -34,11 +34,11 @@ Una Lightbox è una tecnica che consente di aprire un modulo davanti al contenut
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Impostate **il** tipo **di codice** su **Lightbox**.
+1. Impostare **Code** **Type** su **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Selezionate/copiate il codice e fate clic su **Chiudi**.
+1. Selezionare/copiare il codice e fare clic su **Chiudi**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
