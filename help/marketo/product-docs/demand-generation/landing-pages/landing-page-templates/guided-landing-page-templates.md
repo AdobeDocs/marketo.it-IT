@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modelli per pagine di destinazione guidati {#guided-landing-page-templates}
+# Modelli per pagine di destinazione guidate {#guided-landing-page-templates}
 
-Sfoglia la nostra raccolta di modelli di esempio, da usare con l’Editor [pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)guidato. Ogni modello è completamente reattivo e basato sul framework di Bootstrap.
+Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con l&#39; [Editor pagina di destinazione guidato](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è completamente reattivo e basato sul framework di Bootstrap.
 
 >[!NOTE]
 >
@@ -24,10 +24,10 @@ Per importare un modello in Marketo:
 1. Fate clic sul nome del modello per una visualizzazione più grande.
 1. Scaricate il modello scelto.
 1. In Marketo, passare a **Design Studio.**
-1. Fate clic su Pagine **di** destinazione nella struttura a sinistra, quindi selezionate **Modelli.**
+1. Fare clic su **Pagine di destinazione** nella struttura a sinistra, quindi selezionare **Modelli.**
 
-1. Nella barra dei menu, fate clic su **Importa modello.**
-1. Scegliete il file scaricato, immettete un nome per il modello, quindi fate clic su **Importa** (accertatevi di scegliere un nome descrittivo e indicate che la modalità di modifica è **guidata**).
+1. Nella barra dei menu, fare clic su **Importa modello.**
+1. Scegliete il file scaricato, immettete un nome per il modello, quindi fate clic su **Importa** (accertatevi di scegliere un nome descrittivo e indicate che la modalità di modifica è **Guidata**).
 
 |  |  |  |
 |---|---|---|
