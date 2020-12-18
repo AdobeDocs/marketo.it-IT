@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Impedire l&#39;integrazione dell&#39;indirizzo e-mail secondario con Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
+# Impedire l&#39;integrazione dell&#39;indirizzo di posta elettronica secondario con il servizio di vendita {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
 ## Integrazione Gmail interrotta (perché il mio personale Gmail invia email) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
 
@@ -23,7 +23,7 @@ Sales Connect si integra con Gmail tramite un&#39;estensione installata nel brow
 
 Accesso Come Altro Utente Chrome (Consigliato)
 
-Fate clic su [questo collegamento](http://support.google.com/chrome/answer/2364824?hl=en) per leggere come creare un altro profilo Chrome.
+Fare clic su [questo collegamento](http://support.google.com/chrome/answer/2364824?hl=en) per leggere come creare un altro profilo Chrome.
 
 **Pros**: L&#39;accesso come un altro utente aprirà una nuova istanza di Chrome. Questa istanza è una nuovissima finestra di Chrome, e nessuna delle vostre vecchie estensioni esisterà in questo. Inoltre tiene i cookie in modo da non dover accedere sempre al Gmail.
 
@@ -31,12 +31,12 @@ Fate clic su [questo collegamento](http://support.google.com/chrome/answer/23648
 
 Usa un altro browser
 
-**Pro:** L&#39;utilizzo di un altro browser Internet (IE o Firefox) che non dispone dell&#39;estensione installata impedirà che ciò accada.
+**Pros:** L&#39;utilizzo di un altro browser Internet (IE o Firefox) che non dispone dell&#39;estensione installata impedirà che ciò si verifichi.
 
 **Cons**: L&#39;utilizzo di più browser può essere fastidioso.
 
 Utilizzare Una Finestra In Incognito
 
-**Pro:** Una finestra incognito è come aprire una versione nuda di Chrome. Ciò significa che non sarà installata alcuna delle vostre estensioni e che i servizi di vendita Connect non saranno presenti per connettersi.
+**Pros:** Una finestra incognito è come aprire una versione nuda di Chrome. Ciò significa che non sarà installata alcuna delle vostre estensioni e che i servizi di vendita Connect non saranno presenti per connettersi.
 
 **Cons**: Dovrai accedere a Gmail ogni volta che inizi la tua giornata, e di nuovo se chiudi accidentalmente la finestra.
