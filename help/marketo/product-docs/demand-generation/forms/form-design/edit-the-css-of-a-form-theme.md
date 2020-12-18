@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Modificare il CSS di un tema modulo {#edit-the-css-of-a-form-theme}
 
-Ci sono alcuni [temi pre-costruiti tra](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)cui scegliere. Tuttavia, se apprezzate la modifica dei CSS, potete apportare le modifiche desiderate. Ecco come.
+Sono disponibili alcuni [temi pregenerati tra cui è possibile scegliere ](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Tuttavia, se apprezzate la modifica dei CSS, potete apportare le modifiche desiderate. Ecco come.
 
 >[!NOTE]
 >
 >Assicuratevi di conoscere i CSS se desiderate provarlo, in quanto il supporto di Marketo non è impostato per fornire assistenza con la codifica personalizzata. Inoltre, le modifiche apportate verranno applicate solo al modulo in corso di modifica.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Vai a **Impostazioni** **modulo**.
+1. Passare a **Form** **Settings**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ Ci sono alcuni [temi pre-costruiti tra](../../../../product-docs/demand-generati
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. Sotto l&#39;icona a forma di ingranaggio, fate clic su **Visualizza CSS** tema.
+1. Sotto l&#39;icona a forma di ingranaggio, fate clic su **Visualizza CSS tema**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -43,11 +43,11 @@ Ci sono alcuni [temi pre-costruiti tra](../../../../product-docs/demand-generati
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
-1. Fate clic su **Chiudi**.
+1. Fare clic su **Chiudi**.
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Sotto l&#39;icona a forma di ingranaggio, fate clic su **Modifica** **CSS** personalizzato ****.
+1. Sotto l&#39;icona ingranaggio, fare clic su **Modifica** **Personalizzato** **CSS**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -55,11 +55,11 @@ Ci sono alcuni [temi pre-costruiti tra](../../../../product-docs/demand-generati
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. Al termine, fate clic su **Salva**.
+1. Al termine, fare clic su **Salva**.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Per visualizzare il modulo personalizzato, fare clic su **Anteprima** **bozza**.
+1. Per visualizzare il modulo personalizzato, fare clic su **Anteprima** **Bozza**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
