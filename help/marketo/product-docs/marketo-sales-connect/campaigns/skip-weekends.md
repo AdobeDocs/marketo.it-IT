@@ -23,11 +23,11 @@ Quando si automatizza una campagna, probabilmente non si desidera che le e-mail 
 
    ![](assets/two-2.png)
 
-1. Fate clic su **Impostazioni**.
+1. Fare clic su **Impostazioni**.
 
    ![](assets/three-2.png)
 
-1. Selezionate la casella **Ignora fine settimana** .
+1. Selezionare la casella di controllo **Ignora fine settimana**.
 
    ![](assets/four-2.png)
 
