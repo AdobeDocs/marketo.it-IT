@@ -19,45 +19,45 @@ SLA significa &quot;contratto di servizio&quot;. Tali fasi vengono utilizzate qu
 >
 >È una grande idea creare un modello di pratica in un programma grafico o di presentazione e confermarlo con i colleghi.
 
-## Aggiungere Un’Area Di SLA {#add-an-sla-stage}
+## Aggiungere un&#39;area di servizio SLA {#add-an-sla-stage}
 
-1. Per aggiungere una nuova fase SLA per il modello di ciclo delle entrate, fai clic sul pulsante **Analisi** nella schermata iniziale Marketo personale.
+1. Per aggiungere una nuova fase SLA per il modello di ciclo delle entrate, fare clic sul pulsante **Analytics** nella schermata iniziale Marketo personale.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Nella sezione Analytics, selezionate il modello esistente o [createne uno](create-a-new-revenue-model.md)nuovo.
+1. Nella sezione Analytics, selezionate il modello esistente oppure [createne uno nuovo](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Fate clic su **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Per aggiungere una nuova fase SLA, fai clic sul pulsante **SLA** , quindi trascina e rilascia il contenuto in qualsiasi punto del quadro.
+1. Per aggiungere una nuova fase SLA, fate clic sul pulsante **SLA**, quindi trascinate e rilasciate in qualsiasi punto del quadro.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Potete modificare il **Nome**, aggiungere una **Descrizione** e regolare il **Tipo** dopo l’aggiunta di un’area di visualizzazione. Al momento potete anche selezionare ** [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md)**.
+1. È possibile modificare il **Nome**, aggiungere una **Descrizione** e regolare il **Tipo** dopo l&#39;aggiunta di un passaggio. Al momento è inoltre possibile selezionare ** [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md)**.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
-## Modificare un’area di visualizzazione SLA {#edit-an-sla-stage}
+## Modifica di uno stage SLA {#edit-an-sla-stage}
 
-Quando selezionate un&#39;icona dell&#39;area di visualizzazione SLA potete modificare il Nome, aggiungere una Descrizione e regolare il Tipo. Potete anche selezionare [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md).
+Quando selezionate un&#39;icona dell&#39;area di visualizzazione SLA potete modificare il Nome, aggiungere una Descrizione e regolare il Tipo. È inoltre possibile selezionare [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Fate clic sull’icona di un passaggio SLA.
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Fate clic all’interno dei campi **Nome** e **Descrizione** per modificarne il contenuto.
+1. Fare clic all&#39;interno dei campi **Name** e **Description** per modificarne il contenuto.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Selezionare il **pulldown Tipo** da modificare.
+1. Selezionare il pulldown **Type** da modificare.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
-## Eliminazione Di Un’Area SLA {#delete-an-sla-stage}
+## Eliminazione di uno stadio SLA {#delete-an-sla-stage}
 
 1. È possibile eliminare uno stage SLA facendo clic con il pulsante destro del mouse o selezionando il controllo che fa clic sull&#39;icona di un passaggio SLA.
 
