@@ -29,25 +29,25 @@ Marketing Sales Insight utilizza stelle e fiamme per dare priorità ai lead. Mar
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Nella sezione Impostazioni **punteggio** lead fare clic su **Modifica**.
+1. Nella sezione **Impostazioni punteggio lead** fare clic su **Modifica**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Selezionare il metodo **di** punteggio desiderato.
+1. Selezionare il **Metodo di punteggio** desiderato.
 
    >[!NOTE]
    >
    >**Definizione**
    >
    >
-   >**Dinamico** - Valore percentuale derivato da dati [](priority-urgency-relative-score-and-best-bets.md)relativi. Roba fantastica. Questo metodo è consigliato.
+   >**Dynamic**  - È un valore percentuale derivato da dati [ ](priority-urgency-relative-score-and-best-bets.md)relativi. Roba fantastica. Questo metodo è consigliato.
    >
    >
-   >**Statico** - Consente di definire i numeri esatti di punteggio - niente più percentuali, niente più salse segrete.
+   >**Statico**  - Consente di definire i numeri esatti di punteggio - niente più percentuali, niente più salse segrete.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Modificate le parentesi quadre in base alle vostre preferenze e **salvate**.
+1. Modificate le parentesi quadre e **Salva**.
 
    >[!TIP]
    >
