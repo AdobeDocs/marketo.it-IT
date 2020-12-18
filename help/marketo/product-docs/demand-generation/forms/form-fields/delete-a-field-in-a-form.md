@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Se nel modulo non è più necessario inserire un campo, è possibile eliminarlo facilmente. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Selezionate il campo e fate clic sull’icona **Elimina** .
+1. Selezionare il campo e fare clic sull&#39;icona **delete**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 Fare clic su Fine.
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Fate clic su **Approva e chiudi.**
+1. Fare clic su **Approva e chiudi.**
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
@@ -37,6 +37,6 @@ Fare clic su Fine.
 >
 >**Promemoria**
 >
->Non dimenticare di [approvare la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) della pagina di destinazione creata dalle modifiche al modulo.
+>Non dimenticare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
 
 Quanto ritenevate difficile eliminare un campo?
