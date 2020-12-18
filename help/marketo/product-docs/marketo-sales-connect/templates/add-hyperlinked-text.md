@@ -17,5 +17,5 @@ ht-degree: 0%
 1. Selezionare il testo.
 1. Fate clic sul pulsante di collegamento nell’editor.
 1. Inserite l’URL al quale desiderate collegarlo (ad es. http://www.mywebsite.com).
-1. Fate clic su **OK**.
+1. Fare clic su **OK**.
 
