@@ -37,7 +37,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 |---|---|
 | **Periodo YOUT** | Impostare il periodo precedente sullo stesso mese o trimestre dell&#39;anno precedente. |
 
-## Opportunità Di Marketing {#marketing-influenced-opportunities}
+## Opportunità di impatto sul marketing {#marketing-influenced-opportunities}
 
 **Pannello pipeline - Contributo e Tendenza**
 
