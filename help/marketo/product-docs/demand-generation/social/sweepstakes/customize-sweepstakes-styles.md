@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Personalizza stili Sweepstakes {#customize-sweepstakes-styles}
+# Personalizza gli stili Sweepstakes {#customize-sweepstakes-styles}
 
-Quando [create una pagina di destinazione](create-sweepstakes.md), potete personalizzare l’aspetto che avrà sulla pagina di destinazione.
+Quando [create una pagina di destinazione ](create-sweepstakes.md), potete personalizzare l&#39;aspetto che avrà sulla pagina di destinazione.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Quando [create una pagina di destinazione](create-sweepstakes.md), potete person
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Selezionate gli sweep e fate clic su **Modifica** **bozza**.
+1. Selezionate le aree di interesse e fate clic su **Modifica** **Bozza**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Nell’editor Sweepstakes, vai a **App** **Settings** **>** Appearance **(Impostazioni app**).
+1. Nell&#39;editor Sweepstakes, andate a **App** **Settings** **** **Appearance**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -40,8 +40,8 @@ Quando [create una pagina di destinazione](create-sweepstakes.md), potete person
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Esempio di CSS per il pulsante **Invio**:
-   `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` Immagine di esempio per il pulsante **Invio**:
+   Esempio di CSS per **Pulsante Invio**:
+   `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` Immagine di esempio per il pulsante  **Invio**:
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
@@ -64,5 +64,5 @@ Quando [create una pagina di destinazione](create-sweepstakes.md), potete person
    >**Articoli correlati**
    >
    >
-   >Il passo successivo consiste nell’aggiungere e-mail di [registrazione e di evasione alle vostre esigenze](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Il passaggio successivo consiste nell&#39;aggiungere [e-mail di registrazione e di evasione alle proprie suddivisioni ](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
