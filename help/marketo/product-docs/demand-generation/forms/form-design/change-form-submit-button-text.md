@@ -15,15 +15,15 @@ ht-degree: 0%
 
 È possibile modificare rapidamente e facilmente un pulsante di modulo da &quot;Invia&quot; a qualsiasi altra parola. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Fate clic sul pulsante e modificate l’ **etichetta**.
+1. Selezionare il pulsante e modificare l&#39;etichetta **Label**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 
