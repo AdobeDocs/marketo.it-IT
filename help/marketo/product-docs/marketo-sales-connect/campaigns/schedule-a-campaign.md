@@ -19,8 +19,8 @@ Potete pianificare ogni singolo passaggio e-mail della campagna in modo che veng
 
 Se non hai pianificato il primo passaggio o hai bisogno di scegliere l&#39;ora &quot;Invia a&quot;, ti verrà chiesto di scegliere quando inviare la campagna, ogni volta che aggiungi una persona o un gruppo.
 
-Aprite il modale Aggiungi a campagna, aggiungendo individui, un gruppo o persone selezionate, quindi fate clic su **Avanti**.
+Aprite il modale Aggiungi alla campagna, aggiungendo individui, un gruppo o persone selezionate, quindi fate clic su **Avanti**.
 
-Dopo aver fatto clic su **Avanti**, potete visualizzare in anteprima il primo messaggio e-mail.
+Dopo aver fatto clic su **Next**, potete visualizzare in anteprima il primo messaggio e-mail.
 
 Dopo aver fatto di nuovo clic su **Next **successivo, verrà visualizzata un&#39;opzione per il momento in cui si desidera che la campagna esca. È possibile avviarlo ora oppure pianificare un&#39;ora per avviare la campagna in un secondo momento.
