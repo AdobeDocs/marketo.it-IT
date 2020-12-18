@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sui contenuti dinamici {#understanding-dynamic-content}
+# Informazioni sul contenuto dinamico {#understanding-dynamic-content}
 
-C&#39;è molto di più nella personalizzazione che solo &quot;Hi `{{First Name}}`&quot;. Con il contenuto dinamico Marketo, potete personalizzare il modo in cui persone diverse visualizzano una pagina di destinazione o un’e-mail.
+C&#39;è molto di più nella personalizzazione rispetto a &quot;Hi `{{First Name}}`&quot;. Con il contenuto dinamico Marketo, potete personalizzare il modo in cui persone diverse visualizzano una pagina di destinazione o un’e-mail.
 
 ![](assets/artboard-1.png)
 
 ## Segmentazione {#segmentation}
 
-Innanzitutto, dovrete dividere la vostra gente in sottogruppi. Si chiama [segmentazione](create-a-segmentation.md).
+Innanzitutto, dovrete dividere la vostra gente in sottogruppi. Questa operazione è denominata [segmentazione](create-a-segmentation.md).
 
 >[!NOTE]
 >
 >**Definizione**
 >
->La segmentazione classifica il pubblico in diversi sottogruppi in base a una [Smart](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)List. Questi gruppi sono denominati segmenti.
+>La segmentazione classifica il pubblico in diversi sottogruppi in base a una regola [Smart List](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)regola. Questi gruppi sono denominati segmenti.
 
 Ad esempio, in presenza di una segmentazione denominata Industria, alcuni segmenti potrebbero essere: Assistenza sanitaria, tecnologia, finanza, beni di consumo, ecc.   ![](assets/artboard-2.png)
 
@@ -37,7 +37,7 @@ Dopo aver creato diversi segmenti, puoi aggiungere blocchi di contenuto dinamici
 
 ## Snippet {#snippets}
 
-[Gli snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) sono uno strumento utile in Marketo. Createla una volta e utilizzatela in più posizioni! Se aggiornate lo snippet, tutte le risorse (pagine di destinazione o e-mail) mediante lo snippet verranno automaticamente aggiornate.
+[Gli ](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) snippet sono uno strumento utile in Marketo. Createla una volta e utilizzatela in più posizioni! Se aggiornate lo snippet, tutte le risorse (pagine di destinazione o e-mail) mediante lo snippet verranno automaticamente aggiornate.
 
 >[!NOTE]
 >
