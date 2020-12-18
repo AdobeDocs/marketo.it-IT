@@ -19,7 +19,7 @@ Le campagne possono essere condivise solo se sono state rese visibili. Ecco come
 
    ![](assets/one.png)
 
-1. Fate clic sulla scheda Elenco **** avanzato.
+1. Fare clic sulla scheda **Smart List**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Le campagne possono essere condivise solo se sono state rese visibili. Ecco come
 
    ![](assets/three.png)
 
-1. Per l&#39;origine, scegliete &quot;is&quot; **Web Service API**.
+1. Per l&#39;origine, scegliere &quot;is&quot; **Web Service API**.
 
    ![](assets/4.png)
 
-1. Fate clic sulla scheda **Flusso** .
+1. Fare clic sulla scheda **Flusso**.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Le campagne possono essere condivise solo se sono state rese visibili. Ecco come
 
    ![](assets/six.png)
 
-1. Per Tipo, selezionate **Web**.
+1. Per Tipo, selezionare **Web**.
 
    ![](assets/seven.png)
 
@@ -47,7 +47,7 @@ Le campagne possono essere condivise solo se sono state rese visibili. Ecco come
 
    ![](assets/eight.png)
 
-1. Fate clic sulla scheda **Pianificazione** e **attivate** la campagna.
+1. Fare clic sulla scheda **Schedule** e **Activate** la campagna.
 
    ![](assets/nine.png)
 
