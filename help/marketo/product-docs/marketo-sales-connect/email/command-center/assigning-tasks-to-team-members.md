@@ -19,7 +19,7 @@ Se desiderate collaborare con altri membri del team, l’assegnazione delle atti
 >
 >È possibile assegnare solo le attività per i contatti condivisi. Prima di collaborare con le attività condivise, è necessario [condividere un gruppo di contatti](http://docs.marketo.com/x/fwDb) con i membri del team.
 
-1. Fare clic sul centro **comandi**.
+1. Fare clic sul **Centro comandi**.
 
    ![](assets/one-1.png)
 
