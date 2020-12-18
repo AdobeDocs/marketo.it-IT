@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Vi offriamo la possibilità di configurare il tracciamento del dominio personalizzato per i vostri collegamenti, in modo che quando un utente passa il puntatore del mouse su un collegamento legga &quot;go.yourcompany.com&quot; invece di &quot;go.toutapp.com&quot;.
 
-Per configurare questa configurazione, l&#39;amministratore IT deve seguire i passaggi elencati nella pagina [delle](http://toutapp.com/custom_tracking_domain)impostazioni.
+Per configurare questa configurazione, l&#39;amministratore IT deve seguire i passaggi elencati nella [pagina delle impostazioni](http://toutapp.com/custom_tracking_domain).
 
 Una volta impostata, inserire nell&#39;elenco Consentiti tutti i collegamenti presenti nell’e-mail verranno  come &quot;go.yourcompany.com&quot;.
