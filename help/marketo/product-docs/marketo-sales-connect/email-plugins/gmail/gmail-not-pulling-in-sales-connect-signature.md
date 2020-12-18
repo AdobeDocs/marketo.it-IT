@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Gmail Che Non Viene Pubblicato Nella Firma Di Sales Connect {#gmail-not-pulling-in-sales-connect-signature}
+# Gmail che non è stato inserito nella firma di Connect vendite {#gmail-not-pulling-in-sales-connect-signature}
 
-In realtà, utilizziamo la firma Gmail in Gmail, invece di inserire la firma [di](http://toutapp.com/next#settings)Sales Connect.
+Utilizziamo la firma Gmail in Gmail, invece di inserire la firma [Sales Connect](http://toutapp.com/next#settings).
 
 È possibile modificare la firma in Gmail [qui](http://mail.google.com/mail/u/0/#settings/general).
