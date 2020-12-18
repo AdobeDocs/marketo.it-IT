@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Desiderate modificare le impostazioni internazionali dell&#39;utente per visualizzare solo i dati per la vostra area geografica specifica?
 
-1. Vai a Impostazioni **** utente.
+1. Vai a **Impostazioni utente**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Fare clic su **Modifica aree**.
+1. Fare clic su **Modifica regioni**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
