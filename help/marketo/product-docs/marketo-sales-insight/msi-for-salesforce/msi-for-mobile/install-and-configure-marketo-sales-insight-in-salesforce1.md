@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Promemoria**
 >
->I clienti esistenti, [aggiorna il pacchetto](http://docs.marketo.com/x/_gU6Ag) MSI prima di continuare!
+>I clienti esistenti devono [aggiornare il pacchetto MSI](http://docs.marketo.com/x/_gU6Ag) prima di continuare.
 
 >[!PREREQUISITES]
 >
@@ -43,31 +43,31 @@ Se disponete di Salesforce Professional:
 >Marketing Sales Insight in Salesforce1 include: Migliori Scommesse, Feed lead, Momenti interessanti e Aggiungi alla campagna Marketo.
 
 1. Abilitare l’app mobile Salesforce1
-1. Fate clic su **Configurazione** , quindi su Amministrazione **** mobile.
+1. Fare clic su **Setup**, quindi su **Mobile Administration**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
-1. Fate clic su **Salesforce1**.
+1. Fare clic su **Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. Fate clic su Impostazioni **** Salesforce1.
+1. Fare clic su **Impostazioni Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Fai clic su **Abilita l’app** browser mobile Salesforce1.
+1. Fai clic su **Abilita l&#39;app browser mobile Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. Selezionate Amministrazione **** mobile.
+1. Selezionare **Mobile Administration**.
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. Fate clic su **Gestione del menu** di navigazione mobile.
+1. Fare clic su **Gestisci il menu di navigazione mobile**.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,20 +75,20 @@ Se disponete di Salesforce Professional:
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Selezionate **Marketo**, spostatelo **Su **Su* nell&#39;area desiderata, quindi fate clic su **Salva**.
+1. Selezionare **Marketo**, spostarlo **Su **Su **Fino all&#39;area desiderata, quindi fare clic su **Salva**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
 1. Nascondi oggetto personalizzato Marketo obsoleto
-1. Fate clic su **Configurazione**.
+1. Fare clic su **Setup**.
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. Selezionate **Gestisci utenti**.
+1. Selezionare **Gestisci utenti**.
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
-1. Selezionate **Profili**.
+1. Selezionare **Profili**.
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
@@ -96,13 +96,13 @@ Se disponete di Salesforce Professional:
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. In Impostazioni **** tabulazione selezionare il *primo* **Marketo**.
+1. In **Impostazioni scheda**, selezionare il *primo* **Marketo**.
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
    **
 
-1. Selezionare **Tabulazione nascosta**.
+1. Selezionare **Tab Hidden**.
 
    ** ![](assets/image2015-5-5-14-3a2-3a29.png)
 
@@ -117,7 +117,7 @@ Se disponete di Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. Fate clic su **Personalizza schede**.
+1. Fare clic su **Personalizza schede**.
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
@@ -125,16 +125,16 @@ Se disponete di Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Selezionate **Marketo**, spostatelo **Su **Su* nell&#39;area desiderata, quindi fate clic su **Salva**.
+1. Selezionare **Marketo**, spostarlo **Su **Su **Fino all&#39;area desiderata, quindi fare clic su **Salva**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
 1. Personalizzare i layout di pagina
-1. Fate clic su **Configurazione**.
+1. Fare clic su **Setup**.
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Fate clic su **Configurazione**, digitate Layout **di** pagina e fate clic su Layout **di** pagina in Lead.
+1. Fare clic su **Setup**, digitare **Layout di pagina**, quindi fare clic su **Layout di pagina** in Lead.
 
    >[!NOTE]
    >
@@ -142,19 +142,19 @@ Se disponete di Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. Fate clic su **Modifica** per apportare modifiche al layout Lead.
+1. Fate clic su **Modifica** per apportare modifiche al layout lead.
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Fate clic su **Visualforce Pages **e trascinate** Lead Mobile **nella sezione Mobile Cards (Schede mobili).
+1. Fare clic su **Visualforce Pages **e quindi trascinare** Lead Mobile **nella sezione Mobile Card.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
-1. Cambia l’altezza in 66 e fai clic su **OK**.
+1. Cambia l&#39;altezza in 66 e fai clic su **OK**.
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Fai clic su **Campi** e trascina **Aggiungi alla campagna Marketo **nella** sezione Marketing Sales Insight **a.
+1. Fare clic su **Campi** e trascinare **Add to Marketo Campaign **nella sezione** Marketing Sales Insight **a.
 
    ![](assets/configure-step-6.png)
 
@@ -162,7 +162,7 @@ Se disponete di Salesforce Professional:
    >
    >Digita &quot;Aggiungi a&quot; nella ricerca rapida per facilitare la ricerca di Aggiungi a campagna marketing.
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
