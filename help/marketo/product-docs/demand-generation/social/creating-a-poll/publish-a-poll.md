@@ -19,11 +19,11 @@ Dopo aver [creato un sondaggio](create-a-poll.md), potete pubblicarlo sulle pagi
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Trascinate il puntatore sul **sondaggio** dalla palette a destra.
+1. Trascinare il cursore su **Sondaggio** dalla palette a destra.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
-1. Selezionate il sondaggio e fate clic su **Inserisci.**
+1. Selezionare il sondaggio e fare clic su **Inserisci.**
 
    ![](assets/image2014-9-19-10-3a45-3a58.png)
 
@@ -33,7 +33,7 @@ Dopo aver [creato un sondaggio](create-a-poll.md), potete pubblicarlo sulle pagi
 >
 >È necessario approvare il sondaggio per renderlo disponibile qui.
 
-Congratulazioni! Approva la pagina di destinazione e il sondaggio è live. Potete anche [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire il sondaggio nel vostro sito Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Congratulazioni! Approva la pagina di destinazione e il sondaggio è live. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire il sondaggio nel sito Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
