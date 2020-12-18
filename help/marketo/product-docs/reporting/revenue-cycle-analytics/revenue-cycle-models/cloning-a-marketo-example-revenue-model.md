@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo dispone di modellatori di fatturato di esempio per aiutarvi a ispirarvi. Clonate questi modellatori e createli vostri. Di seguito è riportata la procedura seguente:
 
-1. Andate all&#39;area **Analytics** .
+1. Andate all&#39;area **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
@@ -30,7 +30,7 @@ Marketo dispone di modellatori di fatturato di esempio per aiutarvi a ispirarvi.
    In Azioni modello, selezionare Modello clone.
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Immettete un **Name **e fate clic su **CLONE**.
+1. Immettere un **Name **e fare clic su **CLONE**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 
