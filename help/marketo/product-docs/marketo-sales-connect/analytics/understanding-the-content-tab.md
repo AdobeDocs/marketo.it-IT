@@ -23,7 +23,7 @@ Si tratta di un modello e-mail che non è ancora stato condiviso con il team, ma
 
 Questo è il modello condiviso che sta ottenendo il massimo livello di coinvolgimento globale.
 
-## Partecipazione più bassa {#lowest-engagement}
+## Partecipazione minima {#lowest-engagement}
 
 Può essere condiviso o meno, si tratta del modello con il minor numero di partecipanti possibile.
 
