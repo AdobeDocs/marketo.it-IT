@@ -20,5 +20,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Puoi anche regolare la modalità di visualizzazione di questi messaggi di annullamento della sottoscrizione dalla scheda **Fuso orario e Annulla sottoscrizione** in **Impostazioni**.
+>È inoltre possibile regolare la modalità di visualizzazione di questi messaggi di annullamento della sottoscrizione dalla scheda **Fuso orario e Annulla sottoscrizione** in **Impostazioni**.
 
