@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modificare gli snippet con il contenuto dinamico {#edit-snippets-with-dynamic-content}
+# Modificare gli snippet con contenuto dinamico {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >
@@ -30,11 +30,11 @@ Utilizzate Segmentazione in Snippet per gestire facilmente il contenuto dinamico
 
    ![](assets/designstudio-1.png)
 
-1. Clicca sul tuo **Snippet **e poi **Modifica bozza**.
+1. Clicca sul tuo **Snippet **e poi **Edit Draft**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Fate clic su **Segmento per**.
+1. Fare clic su **Segmento per**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
