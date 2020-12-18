@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ripristino di un&#39;iscrizione annullata {#resubscribing-an-unsubscribe}
+# Ripristino di un&#39;iscrizione {#resubscribing-an-unsubscribe}
 
 A volte la gente vuole tornare a ricevere e-mail. Questo è come rendere gli abbonamenti di nuovo inviabili.
 
@@ -27,16 +27,16 @@ A volte la gente vuole tornare a ricevere e-mail. Questo è come rendere gli abb
 >
 >Se la sincronizzazione dell&#39;annullamento della sottoscrizione è attivata, devi rimuovere l&#39;annullamento della sottoscrizione da ToutApp e deselezionare l&#39;opzione di rifiuto in Salesforce affinché il record della persona non venga più sincronizzato.
 
-1. Andate all’applicazione [](http://toutapp.com/login) Web e fate clic su **Persone**.
+1. Andate all&#39;applicazione Web [](http://toutapp.com/login) e fate clic su **Persone**.
 1. Selezionate la persona per aprire la visualizzazione Dettagli persona.
 
    ![](assets/two.png)
 
-1. Fate clic sui tre punti nella visualizzazione dei dettagli della persona e selezionate **Rimuovi annullamento sottoscrizione**.
+1. Fare clic sui tre punti nella visualizzazione dei dettagli della persona e selezionare **Rimuovi annullamento sottoscrizione**.
 
    ![](assets/three.png)
 
-1. Selezionate il motivo per cui l’utente ha acconsentito alla ricezione di e-mail, quindi fate clic su **Rimuovi annullamento sottoscrizione**.
+1. Selezionate il motivo per cui la persona viene riaperta per ricevere e-mail, quindi fate clic su **Rimuovi annullamento sottoscrizione**.
 
    ![](assets/four.png)
 
