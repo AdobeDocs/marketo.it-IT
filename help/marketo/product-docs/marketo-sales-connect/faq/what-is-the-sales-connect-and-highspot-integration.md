@@ -31,7 +31,7 @@ Oltre a lavorare in Sales Connect in un browser, l&#39;integrazione Highspot è 
 
 ## Abilitazione di Sales Connect e integrazione Highspot {#enabling-the-sales-connect-and-highspot-integration}
 
-Se sei interessato ad abilitare l&#39;integrazione Highspot per il tuo team, contatta il supporto [Marketo](http://support.marketo.com).
+Se sei interessato ad abilitare l&#39;integrazione con Highspot per il tuo team, contatta il [Supporto di Marketo](http://support.marketo.com).
 
 ## Come utilizzare l&#39;integrazione {#how-to-use-the-integration}
 
