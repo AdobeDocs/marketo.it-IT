@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Qual è la differenza tra il contenuto e un allegato di file? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-Un **file allegato** è simile a un file allegato utilizzato nel normale client di posta elettronica.
+Un **file allegato** è simile a un file allegato che si desidera utilizzare nel normale client di posta elettronica.
 
-**Per contenuto** si intende qualsiasi file (PPT, PDF, documento Word, ecc.) che desideri essere monitorato da Sales Connect.
+**Contenuto è** utilizzato per descrivere qualsiasi file (PPT, PDF, documento Word, ecc.) che desideri essere monitorato da Sales Connect.
 
 Dopo aver fatto clic su tale pulsante, potete scegliere un file già caricato o caricare un nuovo file da monitorare. Inseriamo quindi un collegamento nell’e-mail o nel modello in uso.
 
