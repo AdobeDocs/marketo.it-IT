@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un collegamento a un’immagine di pagina di destinazione a forma libera {#add-a-link-to-a-free-form-landing-page-image}
+# Aggiungere un collegamento a un&#39;immagine di destinazione a forma libera {#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >Questo vale solo per le pagine di destinazione a forma libera.
 
-1. Selezionate l’immagine aggiunta alla pagina di destinazione ed espandete la finestra delle **proprietà.**
+1. Selezionate l&#39;immagine aggiunta alla pagina di destinazione ed espandete la **finestra delle proprietà.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Digita il collegamento mailto nell’URL del **collegamento.**
+1. Digitare il collegamento mailto nell&#39; **URL collegamento.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
