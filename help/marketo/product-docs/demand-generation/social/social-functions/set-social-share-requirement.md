@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Imposta requisito condivisione mediante social network {#set-social-share-requirement}
+# Imposta requisito condivisione tramite social network {#set-social-share-requirement}
 
-Quando [create un&#39;offerta](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)di riferimento, potete richiedere agli utenti di condividere l&#39;offerta per registrarsi o renderla facoltativa.
+Quando [create un&#39;offerta di riferimento](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), potete richiedere agli utenti di condividere l&#39;offerta per registrarsi o renderla facoltativa.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
@@ -23,7 +23,7 @@ Quando [create un&#39;offerta](../../../../product-docs/demand-generation/social
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Nell&#39;editor delle offerte di riferimento, andate a Impostazioni **** app e quindi a Passaggi **flusso di** registrazione.
+1. Nell&#39;editor delle offerte di riferimento, andate a **Impostazioni app** e quindi a **Passaggi di flusso di registrazione**.
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ Quando [create un&#39;offerta](../../../../product-docs/demand-generation/social
    * **Persona Capture > Condividi**: La persona può saltare la condivisione e semplicemente registrarsi.
    * **Condividi > Acquisizione** persona: La persona deve condividere per poter registrarsi.
 
-1. Per ciascuna opzione, consultate l’anteprima nella finestra **Visualizza e modifica** .
+1. Per ciascuna opzione, vedere l&#39;anteprima nella finestra **Visualizza e modifica**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
