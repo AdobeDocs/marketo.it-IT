@@ -41,4 +41,4 @@ Per specificare una posizione dei file di registro, è possibile specificare il 
 >
 >La disinstallazione remota del plug-in comporterà la chiusura forzata di Outlook nel computer dell&#39;utente.
 
-Per provare a utilizzare livelli di accesso o interfaccia utente diversi, consultare l&#39;elenco completo delle opzioni [di](https://support.microsoft.com/en-us/kb/227091) Microsoft.
+Fare riferimento all&#39; [elenco completo di switch di Microsoft](https://support.microsoft.com/en-us/kb/227091) se si desidera provare diversi livelli di registrazione o di interfaccia utente.
