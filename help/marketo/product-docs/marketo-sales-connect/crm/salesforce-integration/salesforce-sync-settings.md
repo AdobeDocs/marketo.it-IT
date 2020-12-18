@@ -29,7 +29,7 @@ Per utilizzare questa funzionalità è necessario utilizzare l&#39;edizione Ente
 
    ![](assets/two-2.png)
 
-1. Fate clic sulla scheda **Impostazioni** sincronizzazione.
+1. Fare clic sulla scheda **Impostazioni sincronizzazione**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Per utilizzare questa funzionalità è necessario utilizzare l&#39;edizione Ente
 
    ![](assets/four-1.png)
 
-1. Fate clic sulla scheda API **** Salesforce. In questa scheda puoi impostare la preferenza per la registrazione delle informazioni su Salesforce. Al termine, fate clic su **Salva** .
+1. Fate clic sulla scheda **API Salesforce**. In questa scheda puoi impostare la preferenza per la registrazione delle informazioni su Salesforce. Fare clic su **Salva** al termine.
 
    ![](assets/five.png)
 
@@ -59,11 +59,11 @@ Una volta attivato &quot;Email to Salesforce (CCN)&quot;, riceverai un CCN delle
 
    ![](assets/two-3.png)
 
-1. Fate clic sulla scheda **Impostazioni** sincronizzazione.
+1. Fare clic sulla scheda **Impostazioni sincronizzazione**.
 
    ![](assets/three-1.png)
 
-1. Fai clic sulla scheda **E-mail a Salesforce (CCN)** e fai clic su **Attiva**.
+1. Fare clic sulla scheda **Invia per e-mail a Salesforce (CCN)**, quindi fare clic su **Attiva**.
 
    ![](assets/six-2.png)
 
@@ -71,12 +71,12 @@ Se per qualche motivo il tuo indirizzo e-mail a Salesforce non è incluso, esegu
 
 1. Accedi alla tua istanza Salesforce.
 1. Trovate il nome utente nell’angolo superiore destro e selezionate la barra a discesa.
-1. Selezionate **Impostazioni** personali.
-1. Selezionate **E-mail**.
-1. Seleziona **My Email to Salesforce**.
+1. Selezionare **My Settings**.
+1. Selezionare **Email**.
+1. Selezionare **My Email to Salesforce**.
 1. In questa pagina verrà visualizzato un campo con l&#39;etichetta &quot;Email to Salesforce Address&quot;. Se accanto a esso non è presente nulla, scorrete verso il basso fino a &quot;Indirizzi e-mail personali accettabili&quot;.
 1. Inserite gli indirizzi e-mail che desiderate ricevere in CCN.
-1. Fate clic su **Salva modifiche**.
+1. Fare clic su **Salva modifiche**.
 
 **Impossibile trovare il mio messaggio e-mail a Salesforce nelle mie impostazioni**
 
@@ -86,16 +86,16 @@ Se non visualizzi My Email to Salesforce in Settings (Il mio messaggio e-mail a 
 >
 >Per configurare questa configurazione, è necessario disporre dei privilegi di amministratore.
 
-1. Fate clic su **Configurazione *.* **
-1. Fate clic su Amministrazione **e-*mail.* **
-1. Fai clic su **Invia per e-mail a Salesforce *.* **
-1. Fate clic su **Modifica**.
+1. Fare clic su **Setup *.* **
+1. Fare clic su **Amministrazione e-mail *.* **
+1. Fare clic su **Invia per e-mail a Salesforce *.* **
+1. Fare clic su **Modifica**.
 1. Selezionare la casella accanto a &quot;Attivo*&quot;.*
-1. Fate clic su **Salva *.* **
+1. Fare clic su **Salva *.* **
 
-## Sincronizza attività/promemoria di coinvolgimento delle vendite con le attività Salesforce {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
+## Sincronizza attività/promemoria di coinvolgimento delle vendite con attività Salesforce {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
-1. Fate clic sull&#39;icona dell&#39;ingranaggio in alto a destra e selezionate **Impostazioni**.
+1. Fare clic sull&#39;icona dell&#39;ingranaggio in alto a destra e selezionare **Impostazioni**.
 
    ![](assets/one-3.png)
 
@@ -103,7 +103,7 @@ Se non visualizzi My Email to Salesforce in Settings (Il mio messaggio e-mail a 
 
    ![](assets/two-2.png)
 
-1. Fate clic sulla scheda **Impostazioni** sincronizzazione.
+1. Fare clic sulla scheda **Impostazioni sincronizzazione**.
 
    ![](assets/three-1.png)
 
