@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il Feed lead è un elenco aggiornato di eventi interessanti realizzati dai lead.
 
-1. Andate all&#39;area **Marketo** di Salesforce1.
+1. Passare all&#39;area **Marketo** in Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ Il Feed lead è un elenco aggiornato di eventi interessanti realizzati dai lead.
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Toccate Feed **** lead.
+1. Toccate **Feed lead**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
