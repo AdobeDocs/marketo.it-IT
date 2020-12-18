@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di un modulo a una pagina di destinazione guidata {#add-a-form-to-a-guided-landing-page}
+# Aggiungere un modulo a una pagina di destinazione guidata {#add-a-form-to-a-guided-landing-page}
 
 Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di riunione.
 
@@ -23,7 +23,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
 
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/one.png)
 
@@ -35,7 +35,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
    >
    >Gli elementi disponibili nelle pagine di destinazione guidate sono definiti dal modello. Se il modulo non viene visualizzato nel pannello Elementi, selezionare un nuovo modello o parlare con il creatore del modello.
 
-1. Fare doppio clic sul **modulo** nel pannello degli elementi.
+1. Fare doppio clic su **Form** nel pannello degli elementi.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -53,7 +53,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
    >
    >La pagina che segue è la pagina che gli utenti vedranno dopo aver inviato il modulo.
 
-1. In questo esempio verrà utilizzato il modulo definito. Fate clic su **Inserisci**.
+1. In questo esempio verrà utilizzato il modulo definito. Fare clic su **Inserisci**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -61,4 +61,4 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ora chiudete l&#39;editor della pagina di destinazione e [approvate la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)della pagina di destinazione.
+Ora basta chiudere l&#39;editor della pagina di destinazione e [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
