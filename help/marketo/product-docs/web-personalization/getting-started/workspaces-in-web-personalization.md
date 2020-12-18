@@ -21,13 +21,13 @@ Per passare da un’area di lavoro all’altra nella personalizzazione Web, fate
 
 ![](assets/ss7.png)
 
-## Modifica dell’area di lavoro di un segmento {#change-a-segments-workspace}
+## Modifica dell&#39;area di lavoro di un segmento {#change-a-segments-workspace}
 
-1. Vai alla pagina **Segmenti** , seleziona un segmento e fai clic sull’icona di modifica.
+1. Vai alla pagina **Segments**, seleziona un segmento e fai clic sull&#39;icona di modifica.
 
    ![](assets/ss4.png)
 
-1. Selezionate un’area di lavoro diversa dall’elenco a discesa **Area di lavoro** .
+1. Selezionate un&#39;area di lavoro diversa dall&#39;elenco a discesa **Area di lavoro**.
 
    ![](assets/ss6.png)
 
