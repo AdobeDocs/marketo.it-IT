@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Come impostare le azioni di massa in Salesforce Lightning.
 
-1. In Salesforce, fate clic sull’icona Configurazione e selezionate **Configurazione**.
+1. In Salesforce, fai clic sull&#39;icona Configurazione e seleziona **Configurazione**.
 
    ![](assets/one.png)
 
-1. Fare clic sulla scheda **Gestione** oggetti.
+1. Fare clic sulla scheda **Object Manager**.
 
    ![](assets/two.png)
 
-1. Individuate e selezionate l’etichetta **Lead** .
+1. Individuare e selezionare l&#39;etichetta **Lead**.
 
    ![](assets/three-2.png)
 
-1. Fate clic su **Cerca layout per Salesforce Classic**.
+1. Fare clic su **Cerca layout per Salesforce Classic**.
 
    ![](assets/four-1.png)
 
-   Trovate il layout Visualizzazione elenco. Fate clic sul menu a discesa a destra e selezionate **Modifica**.
+   Trovate il layout Visualizzazione elenco. Fare clic sul menu a discesa a destra e selezionare **Modifica**.
 
    ![](assets/five.png)
 
-1. In Pulsanti personalizzati, trova e seleziona **Aggiungi alla campagna Marketo (fulmine)** e **Invia e-mail Marketo (fulmine)**. Fate clic sul pulsante **Aggiungi** .
+1. In Pulsanti personalizzati, individua e seleziona **Aggiungi a campagna marketing (fulmine)** e **Invia e-mail marketing (fulmine)**. Fare clic sul pulsante **Aggiungi**.
 
    ![](assets/six.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/seven.png)
 
