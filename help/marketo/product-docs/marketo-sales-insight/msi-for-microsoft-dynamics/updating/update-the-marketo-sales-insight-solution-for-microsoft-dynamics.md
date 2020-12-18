@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiornamento della soluzione Marketing to Sales Insight per Microsoft Dynamics {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Aggiornamento della soluzione Marketing Sales Insight per Microsoft Dynamics {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 Quando viene rilasciata una nuova soluzione Microsoft Dynamics per Sales Insight, puoi scaricare l&#39;aggiornamento dall&#39;area Admin del tuo account.
 
@@ -19,15 +19,15 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics per Sales Insight
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate all&#39;area **Admin** .
+1. Andate all&#39;area **Admin**.
 
    ![](assets/mainnavhand.png)
 
-1. Fate clic su **Microsoft Dynamics**.
+1. Fare clic su **Microsoft Dynamics**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Selezionate **Scarica soluzione** Marketo.
+1. Selezionare **Scarica la soluzione Marketo**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
