@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I modelli delle pagine di destinazione guidati hanno due tipi di sezioni modificabili: elementi e variabili.
 
-## Elements  {#elements}
+## Elementi {#elements}
 
 Gli elementi sono i diversi contenuti che compongono una pagina di destinazione. Possono essere immagini, testo o risorse Marketo.
 
@@ -24,14 +24,14 @@ Gli elementi sono i diversi contenuti che compongono una pagina di destinazione.
 Quando modificate una pagina di destinazione guidata, gli elementi vengono visualizzati se sono stati contrassegnati come modificabili nel modello. Gli elementi avranno le seguenti icone:
 
 * ![—](assets/image2015-5-20-12-3a30-3a48.png) Immagine
-* ![—Modulo](assets/image2015-5-20-12-3a31-3a33.png)Marketo
+* ![—Modulo ](assets/image2015-5-20-12-3a31-3a33.png)Marketo
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Testo
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Video
-* ![—Pulsante](assets/image2015-5-20-12-3a44-3a17.png)Marketo Share
-* ![—Sondaggio](assets/image2015-5-20-12-3a43-3a21.png)Marketo
+* ![—Pulsante ](assets/image2015-5-20-12-3a44-3a17.png)Marketo Share
+* ![—Sondaggio ](assets/image2015-5-20-12-3a43-3a21.png)Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Riferimento Marketo
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
-* ![—Snippet](assets/image2015-5-20-12-3a47-3a45.png)Marketo
+* ![—Snippet ](assets/image2015-5-20-12-3a47-3a45.png)Marketo
 
 Variabili
 
@@ -49,11 +49,11 @@ Esistono tre tipi di variabili: variabili stringa, variabili colore e variabili 
   </tr> 
   <tr> 
    <td>Colore</td> 
-   <td><p>Codice esadecimale modificabile per il colore</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempio: Colore di sfondo, colore del font, colore del bordo</p></td> 
+   <td><p>Codice esadecimale modificabile per il colore</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Esempio: Colore di sfondo, colore del font, colore del bordo</p></td> 
   </tr> 
   <tr> 
    <td>Booleano</td> 
-   <td><p>Leva che controlla gli stati di attivazione/disattivazione per oggetti o formati sulla pagina di destinazione</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempi: Mostra piè di pagina (Sì/No), Conteggio colonne (1/2), Google Analytics da incorporare (Vero/Falso)</p></td> 
+   <td><p>Leva che controlla gli stati di attivazione/disattivazione per oggetti o formati sulla pagina di destinazione</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Esempi: Mostra piè di pagina (Sì/No), Conteggio colonne (1/2), Google Analytics da incorporare (Vero/Falso)</p></td> 
   </tr> 
  </tbody> 
 </table>
