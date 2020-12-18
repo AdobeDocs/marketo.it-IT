@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modificare una sottoscrizione a un elenco avanzato {#edit-a-smart-list-subscription}
+# Modifica iscrizione a Smart List {#edit-a-smart-list-subscription}
 
 Potete modificare queste colonne direttamente nella scheda Iscrizioni, che viene visualizzata in Attività di marketing o nel database:
 
@@ -21,7 +21,7 @@ Potete modificare queste colonne direttamente nella scheda Iscrizioni, che viene
 * Fine consegna
 * Formato
 
-1. Selezionate **Database** (lo utilizzeremo in questo esempio, ma Marketing Activities funziona esattamente allo stesso modo).
+1. Selezionate **Database** (in questo esempio viene utilizzato anche se Marketing Activities funziona esattamente allo stesso modo).
 
    ![](assets/db-1.png)
 
@@ -33,11 +33,11 @@ Potete modificare queste colonne direttamente nella scheda Iscrizioni, che viene
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Fate clic sulla colonna **Frequenza** per scegliere o modificare l’impostazione.
+1. Fare clic sulla colonna **Frequenza** per scegliere o modificare l&#39;impostazione.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Aprite la colonna **Colonne** e utilizzate il selettore per aggiungere o rimuovere colonne dal rapporto. Colonne rapporto contiene tutte le colonne disponibili e Colonne marketing mostra solo quelle selezionate per essere visualizzate nel rapporto. Fate clic su **Salva**.
+1. Aprite la colonna **Colonne** e utilizzate il selettore per aggiungere o rimuovere colonne dal rapporto. Colonne rapporto contiene tutte le colonne disponibili e Colonne marketing mostra solo quelle selezionate per essere visualizzate nel rapporto. Fare clic su **Salva**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,7 +45,7 @@ Potete modificare queste colonne direttamente nella scheda Iscrizioni, che viene
    >
    >Le colonne sotto Marketo Colonne sono le colonne del rapporto, non quelle utilizzate nella scheda del rapporto Iscrizioni.
 
-1. Fai clic sulla colonna Data **di** fine per modificare la data di fine. Selezionare **Mai** o **Data**. Per una data, immettetela o sceglietela dal calendario. Fate clic su **Approva**.
+1. Fare clic sulla colonna **Data di fine** per modificare la data di fine. Selezionare **Never** o **Date**. Per una data, immettetela o sceglietela dal calendario. Fare clic su **Approva**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
