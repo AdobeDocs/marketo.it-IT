@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di contenuti video {#add-video-content}
+# Aggiungi contenuto video {#add-video-content}
 
 Purtroppo, al momento non è possibile aggiungere contenuto video a un modello e riprodurlo in linea nel messaggio inviato.
 
-Tuttavia, potete inserire un’immagine in linea (GIF incluse) nei modelli facendo clic sul pulsante **Inserisci immagine** . Un suggerimento potrebbe essere quello di inserire un&#39;immagine fissa del video desiderato, quindi renderla cliccabile evidenziandola e facendo clic sull&#39;icona del collegamento ipertestuale per inserire l&#39;URL del video.
+Tuttavia, è possibile inserire un&#39;immagine in linea (GIF incluse) nei modelli facendo clic sul pulsante **Inserisci immagine**. Un suggerimento potrebbe essere quello di inserire un&#39;immagine fissa del video desiderato, quindi renderla cliccabile evidenziandola e facendo clic sull&#39;icona del collegamento ipertestuale per inserire l&#39;URL del video.
