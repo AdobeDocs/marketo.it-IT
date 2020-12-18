@@ -21,11 +21,11 @@ Potete escludere singoli IP e tutti o parte di un intervallo di IP.
 >
 >Il completamento di questa procedura può richiedere fino a cinque minuti.
 
-1. Accedete a Web Personalization (Personalizzazione Web) e, sotto l&#39;accesso, fate clic su **Account Settings (Impostazioni** account).
+1. Accedete a Web Personalization e, sotto l&#39;accesso, fate clic su **Account Settings**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Scorrete verso il basso fino all&#39;area di esclusione **dell&#39;** IP. Se escludete per la prima volta gli indirizzi IP, fate clic nel campo **Escludi indirizzi** IP vuoto.
+1. Scorrete verso il basso fino all&#39;area **IP exclude**. Se escludete per la prima volta gli indirizzi IP, fate clic nel campo **Escludi indirizzi IP** vuoto.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
