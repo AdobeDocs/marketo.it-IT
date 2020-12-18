@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Per impostazione predefinita, il team non sarà in grado di condividere il contenuto nell&#39;abbonamento. Potete disattivare questa funzione in qualsiasi momento e limitare i team (o solo gli amministratori del team) al contenuto in categorie specifiche. Questo non aggiunge o rimuove l&#39;accesso alla visualizzazione per queste categorie di modelli, ma solo la possibilità di condividere nuovo contenuto in una categoria.
 
-Puoi abilitare o disabilitare la condivisione di categorie da Impostazioni **** amministratore.
+Potete abilitare o disabilitare la condivisione delle categorie da **Impostazioni amministratore**.
