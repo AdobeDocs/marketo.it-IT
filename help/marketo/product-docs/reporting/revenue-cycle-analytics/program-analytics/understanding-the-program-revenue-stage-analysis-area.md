@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sull&#39;area di analisi della fase delle entrate del programma {#understanding-the-program-revenue-stage-analysis-area}
+# Informazioni sull&#39;area dell&#39;analisi delle fasi del fatturato del programma {#understanding-the-program-revenue-stage-analysis-area}
 
 Quest&#39;area di analisi consente di analizzare l&#39;efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale. Fornisce informazioni sul numero di nuovi nomi generati che hanno raggiunto particolari fasi del percorso di successo all&#39;interno del modello del ciclo di ricavi.
 
