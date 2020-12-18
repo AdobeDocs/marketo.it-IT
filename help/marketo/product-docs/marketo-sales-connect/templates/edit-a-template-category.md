@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modificare una categoria di modelli {#edit-a-template-category}
+# Modifica una categoria di modelli {#edit-a-template-category}
 
 Al momento non è possibile eliminare un&#39;intera categoria o spostare i modelli in massa in una nuova categoria.
 
