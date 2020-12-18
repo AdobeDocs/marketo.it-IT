@@ -27,17 +27,17 @@ La visualizzazione mobile della pagina di destinazione a forma libera è prevale
 
    ![](assets/selectlandingapge.jpg)
 
-1. Fate clic su **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Fate clic sulla scheda **Mobile** .
+1. Fare clic sulla scheda **Mobile**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Visualizzazione mobile e visualizzazione desktop {#mobile-vs-desktop-view}
+## Visualizzazione mobile e desktop {#mobile-vs-desktop-view}
 
-In Elementi pagina sono disponibili un’icona ![](assets/image2015-1-22-18-3a39-3a53.png) (desktop) e un’icona ![](assets/image2015-1-22-18-3a40-3a31.png) (mobile). Questo consente di mostrare/nascondere elementi diversi in modo dinamico.
+In Elementi pagina sono disponibili un&#39;icona ![](assets/image2015-1-22-18-3a39-3a53.png) (desktop) e un&#39;icona ![](assets/image2015-1-22-18-3a40-3a31.png) (mobile). Questo consente di mostrare/nascondere elementi diversi in modo dinamico.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -86,15 +86,15 @@ Per impostazione predefinita, tutto ciò che si trova nella visualizzazione desk
 
 >[!TIP]
 >
->La vista mobile può anche avere una diversa disposizione di elementi di pagina. Spostare gli elementi nella pagina di destinazione a forma libera oppure riordinare gli oggetti elencati in Elementi **di** pagina trascinandoli.
+>La vista mobile può anche avere una diversa disposizione di elementi di pagina. Spostare gli elementi nella pagina di destinazione a forma libera, oppure riordinare gli oggetti elencati in **Page Elements** mediante trascinamento.
 
-## Anteprima vista mobile {#preview-mobile-view}
+## Anteprima visualizzazione mobile {#preview-mobile-view}
 
-1. Fate clic su **Anteprima bozza**.
+1. Fare clic su **Anteprima bozza**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Vuoi vedere qualcosa di figo? Selezionare **Side By Side (Lato**).
+1. Vuoi vedere qualcosa di figo? Selezionare **Side By Side**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
