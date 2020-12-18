@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Impostazione di un valore campo modulo nascosto {#set-a-hidden-form-field-value}
+# Impostare il valore del campo modulo nascosto {#set-a-hidden-form-field-value}
 
 In genere, i campi nascosti vengono compilati in modo dinamico. Non vengono mostrate alla persona che compila il modulo. Come impostare il valore.
 
@@ -21,7 +21,7 @@ In genere, i campi nascosti vengono compilati in modo dinamico. Non vengono most
 
 ## Selezionare il campo {#select-the-field}
 
-1. Nel modulo, selezionare il campo nascosto e fare clic su **Modifica** per la compilazione **automatica**.
+1. Nel modulo, selezionare il campo nascosto e fare clic su **Modifica** per **Riempimento automatico**.
 
    ![](assets/autofill.png)
 
@@ -33,17 +33,17 @@ Selezionando Usa valore predefinito è possibile codificare un valore specifico 
 
 ## Parametro URL {#url-parameter}
 
-Se si desidera acquisire i parametri URL (stringhe di query) dalla pagina in cui si trova l&#39;utente durante la compilazione del modulo, è possibile utilizzare **URL** **Parameters** per compilare il campo nascosto.
+Se si desidera acquisire i parametri URL (stringhe di query) dalla pagina in cui si trova l&#39;utente durante la compilazione del modulo, è possibile utilizzare **URL** **Parametri** per compilare il campo nascosto.
 
 >[!NOTE]
 >
->I parametri sono un po&#39; tecnologici, vero? Ma una volta che li ottenete, sono potenti. Questa pagina [Wikipedia sulle stringhe](http://en.wikipedia.org/wiki/Query_string) di query è in qualche modo utile.
+>I parametri sono un po&#39; tecnologici, vero? Ma una volta che li ottenete, sono potenti. Questa pagina di [Wikipedia sulle stringhe di query](http://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
 
-1. Selezionate Parametro **** URL per **Ottieni tipo** di valore.
+1. Selezionare **Parametro URL** per **Ottieni tipo di valore**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Immettete il nome **del** parametro e fate clic su **Salva**.
+1. Immettete il **Nome parametro** e fate clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
@@ -53,7 +53,7 @@ Se si desidera acquisire i parametri URL (stringhe di query) dalla pagina in cui
 
 ## Valore cookie {#cookie-value}
 
-Se si memorizzano i dati nei cookie, è possibile utilizzare **Cookie** **Value** per recuperare i dati all&#39;invio del modulo.
+Se si memorizzano i dati nei cookie, è possibile utilizzare **Cookie** **Value** per raccogliere i dati all&#39;invio del modulo.
 
 1. Selezionare **Cookie** **Value** per **Get** **Value** **From**.
 
@@ -67,28 +67,28 @@ Se si memorizzano i dati nei cookie, è possibile utilizzare **Cookie** **Value*
    >
    >Potete immettere un valore predefinito nel caso in cui il parametro/cookie non venga trovato.
 
-## Parametro referrer {#referrer-parameter}
+## Parametro referente {#referrer-parameter}
 
 Se si desidera acquisire i dati dalla pagina di origine del visitatore prima di compilare il modulo, è possibile utilizzare **Referrer** **Parameter**.
 
-1. Impostate **Get** **Value** **From** to **Referrer** **Parameter**.
+1. Impostare **Get** **Value** **From** su **Referrer** **Parameter**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Immettete il nome **del** parametro da acquisire dall’URL del referente e fate clic su **Salva**.
+1. Immettete il **Nome parametro** che desiderate acquisire dall&#39;URL del referente e fate clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >Potete immettere un **valore** **predefinito** nel caso in cui il parametro del referente non venga trovato.
+   >È possibile immettere un **Default** **Value** nel caso in cui il parametro del referente non sia stato trovato.
 
 1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
 
-Dolce! Stai piuttosto bene. Per saperne di più sui [moduli](http://docs.marketo.com/display/docs/forms).
+Dolce! Stai piuttosto bene. Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms).
