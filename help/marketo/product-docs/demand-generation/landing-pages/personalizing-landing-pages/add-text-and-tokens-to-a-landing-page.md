@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >La finestra di progettazione della pagina di destinazione si apre in una nuova finestra.
 
-1. Trascinate sull’elemento **RTF** .
+1. Trascinare sull&#39;elemento **Rich Text**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
@@ -65,11 +65,11 @@ I token sono parti dinamiche di testo che possono personalizzare la pagina di de
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Immettete un valore **** predefinito e fate clic su **Inserisci**.
+1. Immettere un **Valore predefinito** e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
