@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l’iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano contenuti predittivi, Marketo attiva le funzioni di analisi dei contenuti`<sup>AI</sup>` fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento al contenuto`<sup>AI</sup>`di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Create categorie in Predictive Content (Contenuto predittivo) per raggruppare i risultati predittivi sul Web o nell&#39;e-mail. Ad esempio, potete utilizzare solo i blog o il contenuto di una lingua particolare. Consente inoltre di cercare e filtrare la visualizzazione della pagina.  Le categorie sono visualizzate nelle pagine Tutto il contenuto e Predictive Content (Contenuto predittivo) per un riferimento semplice.
 
@@ -33,11 +33,11 @@ Quando aggiungete del contenuto, potete assegnargli dei tag con le categorie sel
 
 Come creare i tag categoria.
 
-1. Vai a Impostazioni **** contenuto.
+1. Vai a **Impostazioni contenuto**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Fate clic su **Categorie**.
+1. Fare clic su **Categorie**.
 
    ![](assets/content-discovery-categories-hand.png)
 
@@ -45,11 +45,11 @@ Come creare i tag categoria.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Per rimuovere un tag categoria, fate clic sulla **x** accanto ad esso.
+1. Per rimuovere un tag categoria, fare clic sul simbolo **x** accanto a esso.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Al termine, fate clic su **Salva** .
+1. Fare clic su **Save** al termine.
 
    ![](assets/save-new.png)
 
