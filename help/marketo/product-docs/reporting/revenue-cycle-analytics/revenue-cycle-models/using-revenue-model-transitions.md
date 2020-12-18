@@ -21,7 +21,7 @@ Quando si crea il modello e si selezionano e si organizzano le fasi di inventari
 
 ![](assets/one-2.png)
 
-1. Fate clic con il pulsante destro del mouse (potete anche fare doppio clic) su una delle frecce per iniziare e selezionate **Modifica transizione**.
+1. Fare clic con il pulsante destro del mouse (è anche possibile fare doppio clic) su una delle frecce per iniziare, quindi selezionare **Edit Transition** (Modifica transizione).
 
    ![](assets/two-2.png)
 
@@ -50,7 +50,7 @@ Quando si crea il modello e si selezionano e si organizzano le fasi di inventari
 
    ![](assets/seven.png)
 
-1. Dopo aver configurato le regole per tutte le transizioni, fai clic su **Convalida** per verificare.
+1. Dopo aver configurato le regole per tutte le transizioni, fare clic su **Validate** per verificare.
 
    ![](assets/eight.png)
 
