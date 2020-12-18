@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Scoprite come gestire i gruppi in Sales Connect.
 
-## Creare un gruppo {#create-a-group}
+## Crea un gruppo {#create-a-group}
 
-1. Nella pagina Persone, fate clic sul segno **più** accanto a Gruppi.
+1. Nella pagina Persone, fare clic sul segno **più** accanto a Gruppi.
 
    ![](assets/one-4.png)
 
@@ -33,13 +33,13 @@ Scoprite come gestire i gruppi in Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Fate clic su Azioni **** gruppo e selezionate **Crea contatto**.
+1. Fare clic su **Azioni gruppo** e selezionare **Crea contatto**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Questo aggiungerà un contatto alla volta. Per aggiungere contemporaneamente più contatti, procedere come [segue](http://docs.marketo.com/x/VADb).
+   >Questo aggiungerà un contatto alla volta. Per aggiungere contemporaneamente più contatti, seguire [i passaggi indicati di seguito](http://docs.marketo.com/x/VADb).
 
 1. Compila le informazioni del contatto e fai clic su **Crea** (oppure su **Crea e aggiungi nuovo** per aggiungerne un altro).
 
@@ -57,7 +57,7 @@ Scoprite come gestire i gruppi in Sales Connect.
 
    ![](assets/six.png)
 
-1. Fate clic sul punto (tre punti verticali) e selezionate **Condividi**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Condividi**.
 
    ![](assets/seven.png)
 
@@ -65,19 +65,19 @@ Scoprite come gestire i gruppi in Sales Connect.
 
    ![](assets/eight.png)
 
-1. Fate clic su **Condividi**.
+1. Fare clic su **Condividi**.
 
    ![](assets/nine.png)
 
    Il gruppo è ancora proprietario, ma ora verrà visualizzato in Gruppi team.
 
-## Annullamento della condivisione di un gruppo {#unshare-a-group}
+## Annulla condivisione di un gruppo {#unshare-a-group}
 
 1. Nella pagina Persone, individuate e selezionate il gruppo da annullare la condivisione.
 
    ![](assets/ten.png)
 
-1. Fate clic sul punto (tre punti verticali) e selezionate **Condividi**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Condividi**.
 
    ![](assets/eleven.png)
 
@@ -107,11 +107,11 @@ Scoprite come gestire i gruppi in Sales Connect.
 
    ![](assets/fifteen.png)
 
-1. Fate clic sulla data (tre punti verticali) e selezionate **Elimina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
 
    ![](assets/sixteen.png)
 
-1. Fate clic su **Elimina** per confermare.
+1. Fare clic su **Elimina** per confermare.
 
    ![](assets/seventeen.png)
 
