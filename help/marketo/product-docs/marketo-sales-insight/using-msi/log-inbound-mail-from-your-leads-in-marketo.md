@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Registra posta in entrata dai lead di Marketo {#log-inbound-mail-from-your-leads-in-marketo}
+# Registra posta in entrata dai lead in Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
 È possibile registrare le risposte dai lead direttamente in Outlook con il componente aggiuntivo e-mail Marketo.
 
@@ -29,7 +29,7 @@ Dovresti vedere una conferma.
 
 ![](assets/image2014-9-23-17-3a13-3a39.png)
 
-## Dall&#39;e-mail stessa {#from-the-email-itself}
+## Dall&#39;e-mail {#from-the-email-itself}
 
 Se avete aperto l&#39;e-mail, potete semplicemente fare clic sul pulsante Log with Marketo da lì.
 
