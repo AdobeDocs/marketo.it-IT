@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Non ho effettuato il login a Salesforce {#didnt-log-to-salesforce}
+# Impossibile eseguire il login a Salesforce {#didnt-log-to-salesforce}
 
 Se non visualizzi il registro delle chiamate su Salesforce, potrebbe essere perché non è possibile individuare un lead/contatto in Salesforce.
 
-Affinché le chiamate possano essere effettuate al lead/contatto corretto, il reparto vendite deve disporre dell’ID Salesforce. Il modo migliore per aggiungere l&#39;ID Salesforce a Sales Connect è utilizzare la funzione [Push to Sales Connect](http://docs.marketo.com/x/XQDb) . Quando utilizzi Push to Sales Connect, inseriamo l&#39;ID Salesforce nella migrazione dei contatti.
+Affinché le chiamate possano essere effettuate al lead/contatto corretto, il reparto vendite deve disporre dell’ID Salesforce. Il modo migliore per aggiungere l&#39;ID Salesforce a Sales Connect è utilizzare la funzione [Push to Sales Connect](http://docs.marketo.com/x/XQDb). Quando utilizzi Push to Sales Connect, inseriamo l&#39;ID Salesforce nella migrazione dei contatti.
