@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Ordina rapporto sulle colonne {#sort-report-on-columns}
+# Ordina report sulle colonne {#sort-report-on-columns}
 
 Usa le colonne per ordinare i dati nel report e semplificare la ricerca delle figure più importanti.
 
-1. Andate ad **Analytics** (o **Marketing Activities**).
+1. Andate a **Analytics** (o **Marketing Activities**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Rapporto** .
+1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Report**.
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ Usa le colonne per ordinare i dati nel report e semplificare la ricerca delle fi
    >**Tubo profondo**
    >
    >
-   >Scopri tutto il potenziale dell&#39;utilizzo dei report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Scopri tutta la potenza dell&#39;utilizzo dei report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
