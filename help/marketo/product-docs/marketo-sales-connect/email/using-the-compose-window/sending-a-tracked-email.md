@@ -20,7 +20,7 @@ Quando si invia un&#39;e-mail con Marketo Sales Connect, vengono tracciate le vi
 >Prima di inviare un&#39;e-mail tracciata, è necessario verificare l&#39;identità e impostare un canale di consegna e-mail.
 >
 >* [Verifica l&#39;indirizzo e-mail](http://docs.marketo.com/x/ewPh)
->* Impostazione di un canale di consegna per [Outlook](http://docs.marketo.com/x/Z4AOAQ) o [Gmail](http://docs.marketo.com/x/kYMOAQ)
+>* Impostare un canale di consegna per [Outlook](http://docs.marketo.com/x/Z4AOAQ) o [Gmail](http://docs.marketo.com/x/kYMOAQ)
 
 >
 
@@ -30,7 +30,7 @@ Quando si invia un&#39;e-mail con Marketo Sales Connect, vengono tracciate le vi
 
    ![](assets/one.png)
 
-1. Immettere il nome o l&#39;e-mail di un destinatario nel campo **A** .
+1. Immettere il nome o l&#39;e-mail di un destinatario nel campo **A**.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ Quando si invia un&#39;e-mail con Marketo Sales Connect, vengono tracciate le vi
 
    >[!NOTE]
    >
-   >Se un utente CC o CCN apre il messaggio e-mail, questo verrà registrato come visualizzazione nel record della persona nel campo **A** .
+   >Se un utente CC o CCN apre il messaggio e-mail, questo verrà registrato come visualizzazione nel record della persona nel campo **To**.
 
 1. Aggiungere un oggetto.
 
@@ -52,9 +52,9 @@ Quando si invia un&#39;e-mail con Marketo Sales Connect, vengono tracciate le vi
 
    >[!NOTE]
    >
-   >Per inviare l’e-mail è necessario specificare l’oggetto e il destinatario. La bozza **verrà salvata** automaticamente dopo l&#39;aggiunta dell&#39;oggetto e del destinatario.
+   >Per inviare l’e-mail è necessario specificare l’oggetto e il destinatario. Dopo l&#39;aggiunta di un oggetto e di un destinatario, **verrà automaticamente salvata la bozza**.
 
-1. Componete l’e-mail utilizzando l’editor. Al termine, fate clic su **Invia** (o [Pianifica](http://docs.marketo.com/x/GAQ6Ag)).
+1. Componete l’e-mail utilizzando l’editor. Fare clic su **Invia** (o su [Programma](http://docs.marketo.com/x/GAQ6Ag), se lo si preferisce) al termine.
 
    ![](assets/five.png)
 
