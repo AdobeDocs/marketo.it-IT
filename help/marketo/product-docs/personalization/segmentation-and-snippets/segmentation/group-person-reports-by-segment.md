@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Rapporti sulla persona del gruppo per segmento {#group-person-reports-by-segment}
 
-Potete raggruppare i rapporti [](http://docs.marketo.com/display/docs/basic+reporting) personali in base a qualsiasi [segmento](http://docs.marketo.com/display/docs/basic+reporting) [definito nelle segmentazioni](create-a-segmentation.md).
+È possibile raggruppare i report [persona](http://docs.marketo.com/display/docs/basic+reporting) per qualsiasi [segmento](http://docs.marketo.com/display/docs/basic+reporting) che si ha [definito nelle segmentazioni](create-a-segmentation.md).
 
-1. Andate alla sezione **Attività** di marketing (o **Analytics**).
+1. Andate alla sezione **Marketing Activities** (o **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -28,21 +28,21 @@ Potete raggruppare i rapporti [](http://docs.marketo.com/display/docs/basic+repo
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni sui rapporti sulle persone e altri tipi di rapporti nella sezione [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting) (Generazione di rapporti di base).
+   >Ulteriori informazioni sui report delle persone e altri tipi di report nel video dettagliato [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
-1. Fate clic sulla scheda **Configurazione** e fate doppio clic su **Raggruppa persone per**.
+1. Fare clic sulla scheda **Configurazione** e fare doppio clic su **Raggruppa persone per**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Potete anche [raggruppare i rapporti sulle persone per persona o per attributo](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)società.
+   >È inoltre possibile [raggruppare i rapporti personali per persona o per attributo della società](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
 
-1. Nella finestra di dialogo **Raggruppa persone per** , iniziate a digitare Segmentazione nella casella di testo. Quando compare l’intestazione **Segmenti** , selezionatene uno dall’elenco al di sotto dell’intestazione.
+1. Nella finestra di dialogo **Raggruppa persone per**, iniziate a digitare Segmentazione nella casella di testo. Quando viene visualizzata l&#39;intestazione **Segmentazioni**, selezionarne una dall&#39;elenco al di sotto dell&#39;intestazione.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Fai clic sulla scheda **Rapporto** per visualizzare il rapporto raggruppato per il segmento selezionato.
+1. Fare clic sulla scheda **Report** per visualizzare il rapporto raggruppato per il segmento selezionato.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
@@ -50,7 +50,7 @@ Potete raggruppare i rapporti [](http://docs.marketo.com/display/docs/basic+repo
 >
 >**Tubo profondo**
 >
->Per ulteriori informazioni sui segmenti e su come crearli e gestirli, consulta l’esercitazione [Segmentazione](http://docs.marketo.com/display/docs/segmentation+and+snippets) .
+>Per ulteriori informazioni sui segmenti e su come crearli e gestirli, consulta la sezione approfondita [Segmentazione](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!MORELIKETHIS]
 >
