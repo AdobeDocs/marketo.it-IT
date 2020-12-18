@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un allegato o contenuti tracciabili all’e-mail {#add-an-attachment-or-trackable-content-to-your-email}
+# Aggiungere un allegato o contenuto tracciabile all&#39;e-mail {#add-an-attachment-or-trackable-content-to-your-email}
 
 Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un file come allegato o creare un file come collegamento scaricabile (e tracciabile).
 
@@ -55,7 +55,7 @@ L’allegato compare nella parte inferiore dell’e-mail.
 
    ![](assets/three-4.png)
 
-1. Selezionate il contenuto da aggiungere, fate clic sul cursore **Contenuto tracciato** e fate clic su **Inserisci**.
+1. Selezionate il contenuto da aggiungere, fate clic sul cursore **Contenuto è tracciato**, quindi fate clic su **Inserisci**.
 
    ![](assets/four-4.png)
 
