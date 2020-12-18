@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se viene visualizzato un messaggio e-mail nella cartella di distribuzione non riuscita che indica che la campagna è terminata, significa che il messaggio e-mail in questione è stato pianificato per la campagna.
 
-## Possibili ragioni per cui non è riuscito {#possible-reasons-it-failed}
+## Possibili motivi per cui non è riuscito {#possible-reasons-it-failed}
 
 * Il messaggio e-mail prima del rimbalzo
 * Un contatto ha risposto e ha terminato la campagna
