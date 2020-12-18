@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configura notifica push mobile {#configure-mobile-push-notification}
+# Configurare le notifiche push mobili {#configure-mobile-push-notification}
 
 1. Andate all&#39;area Attività di marketing.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
-1. Passate a **Configurazione**.
+1. Vai a **Setup**.
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Immetti il testo del messaggio o seleziona l&#39;icona del token per aggiungere i token. Quindi, selezionate un’azione **** Toccate.
+1. Immetti il testo del messaggio o seleziona l&#39;icona del token per aggiungere i token. Quindi, selezionare un **Toccate Action**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
    >Esistono tre tipi di azioni di tocco**:**
    >
    >
-   >**Avvia app** - **Questa app** apre la pagina principale dell&#39;app quando viene toccata la notifica. **Personalizzato** utilizza un collegamento profondo per aprire altre aree dell&#39;app o qualsiasi altra app a cui hai collegamento (consulta URI [di collegamento](#Deeplink) profondo per i dettagli).
+   >**Avvia app**  -  **Viene** visualizzata la pagina principale dell&#39;app quando viene toccata la notifica. **** Personalizza un collegamento diretto per aprire altre aree dell&#39;app o qualsiasi altra app a cui hai collegamento (consulta  [URI collegamento profondo ](#Deeplink) di seguito).
    >
    >
-   >**Pagina** di destinazione: consente di passare a una specifica pagina di destinazione Marketo.
+   >**Pagina**  di destinazione: consente di passare a una specifica pagina di destinazione Marketo.
    >
    >
-   >**URL** esterno: consente di passare a una pagina di destinazione non Marketo.
+   >**URL**  esterno: consente di passare a una pagina di destinazione non Marketo.
 
-   Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, fai clic su Personalizzato e immetti l&#39;URI [del collegamento](#Deeplink) profondo nel campo.
+   Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, fai clic su Personalizzato e immetti nel campo l&#39; [URI del collegamento profondo](#Deeplink).
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Fare clic su **APPROVE E CHIUDI**.
+1. Fare clic su **APPROVE AND CLOSE**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
