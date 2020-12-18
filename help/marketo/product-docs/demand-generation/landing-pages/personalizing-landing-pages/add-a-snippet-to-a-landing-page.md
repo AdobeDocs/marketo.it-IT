@@ -27,7 +27,7 @@ Gli snippet sono piccoli frammenti di codice HTML che possono seguire le regole 
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Nell’editor della pagina di destinazione, trascinate sull’elemento **Snippet** .
+1. Nell&#39;editor della pagina di destinazione, trascinare sull&#39;elemento **Snippet**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
