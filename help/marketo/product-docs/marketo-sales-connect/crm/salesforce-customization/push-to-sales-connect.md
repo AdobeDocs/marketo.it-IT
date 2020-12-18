@@ -17,24 +17,24 @@ Il nostro pulsante Premi a Tout fornirà un elenco dei lead/contatti in Salesfor
 
 ## Requisiti {#requirements}
 
-* Pacchetto [Salesforce di Sales Connect](http://docs.marketo.com/x/C4PS) installato da `Salesforce Admin`
+* Connect di vendita [Pacchetto Salesforce](http://docs.marketo.com/x/C4PS) installato da `Salesforce Admin`
 
-* `Push to Sales Connect`pulsante installato nella visualizzazione elenco per `Salesforce Admin`
+* `Push to Sales Connect`pulsante installato nella visualizzazione elenco per  `Salesforce Admin`
 
 * Connessione Salesforce realizzata con Sales Connect per gli utenti che eseguono il push
 
-## Come fare per {#how-to}
+## Come {#how-to}
 
-1. Fate clic sulla scheda **Lead/Contatto** in Salesforce.
+1. Fare clic sulla scheda **Lead/Contact** in Salesforce.
 1. Passate alla vista Elenco a cui desiderate aggiungere il pulsante Premi per il collegamento vendite accanto al pulsante Vai.
-1. Fate clic su **Vai**.
+1. Fare clic su **Go**.
 1. Seleziona tutti i lead/contatti che desideri inviare al tout.
-1. Selezionate **Invia a MSE**.
-1. Viene visualizzata una nuova finestra per verificare il numero di lead/contatti da spostare. Selezionate **Procedi a gruppo**. Connetti alle vendite `will not push over` tutti i contatti contrassegnati come `Email Opt Out` in Salesforce o `Unsubscribed` in Sales Connect.
+1. Selezionare **Push to MSE**.
+1. Viene visualizzata una nuova finestra per verificare il numero di lead/contatti da spostare. Selezionare **Procedi a Group**. Connect vendite `will not push over` tutti i contatti contrassegnati come `Email Opt Out` in Salesforce o `Unsubscribed` in Sales Connect.
 
    >[!NOTE]
    >
-   >In Sales Connect verrà aggiunto il gruppo denominato &quot;SFDC-...&quot; nella pagina Relazioni dell’applicazione [](http://toutapp.com/login)Web.
+   >In Sales Connect verrà aggiunto il gruppo denominato &quot;SFDC-...&quot; nella pagina Relazioni dell&#39; [applicazione Web](http://toutapp.com/login).
 
-1. Selezionate **Invia per e-mail a tutto il gruppo** per inviare l’e-mail a questo gruppo.
+1. Selezionare **Email Entire Group** per inviare l&#39;e-mail del gruppo.
 
