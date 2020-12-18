@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Scegliere un layout per il messaggio in-app {#choose-a-layout-for-your-in-app-message}
+# Scegli un layout per il messaggio in-app {#choose-a-layout-for-your-in-app-message}
 
 Marketo fornisce sei layout per la creazione di messaggi in-app.
 
 * I layout a comparsa sono più tradizionali e ideali se non disponete di un team creativo per fornire contenuti e non avete bisogno di un aspetto specifico. Puoi creare e modificare facilmente i tuoi messaggi in-app, all&#39;interno di Marketo
 * I layout a schermo intero vi consentono di importare i vostri progetti finiti, offrendovi la massima flessibilità grafica
 
-## Layout a comparsa {#pop-up-layouts}
+## Layout popup {#pop-up-layouts}
 
 I tre layout a comparsa offrono tutti elementi di progettazione predefiniti, tra cui un’immagine, testo, pulsanti e uno sfondo.
 
@@ -58,7 +58,7 @@ Il terzo layout Schermo intero è lo stesso del secondo, tranne il secondo pulsa
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Ora che conosci i modelli, è il momento di sceglierne uno quando [crei le immagini](add-in-app-message-images.md)dei messaggi in-app.
+Ora che conosci i modelli, è il momento di sceglierne uno quando [crei le immagini dei messaggi in-app](add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
