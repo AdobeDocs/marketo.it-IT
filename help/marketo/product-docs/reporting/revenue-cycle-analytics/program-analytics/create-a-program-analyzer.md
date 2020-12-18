@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creare un analizzatore di programmi {#create-a-program-analyzer}
+# Creare un programma Analyzer {#create-a-program-analyzer}
 
 Scopri quali programmi e canali ti stanno dando il più grande vantaggio per il tuo budget di marketing. Utilizzare l&#39;analizzatore di programma per analizzare e confrontare ogni costo e ritorno in dettaglio, per programma o per canale.
 
@@ -19,11 +19,11 @@ Scopri quali programmi e canali ti stanno dando il più grande vantaggio per il 
 >
 >**Promemoria**
 >
->Per ottenere buoni dati da un analizzatore di programma, assicurarsi che i contatti CRM abbiano ruoli nelle opportunità, e che i tuoi programmi Marketo siano completamente configurati, con costi [di](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)periodo, stati di programma e successo definiti.
+>Per ottenere buoni dati da un analizzatore di programma, assicurarsi che i contatti CRM abbiano ruoli nelle opportunità, e che i programmi Marketo siano completamente configurati, con [costi di periodo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), stati di programma e successo definiti.
 
 >[!TIP]
 >
->Per far apparire i programmi senza costi nell&#39;analizzatore di programma, [impostare il costo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) del periodo su $0.
+>Per fare in modo che i programmi senza costi vengano visualizzati nell&#39;analizzatore di programma, [impostare il loro costo di periodo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) su $0.
 
 1. Fate clic sulla sezione Analisi.
 
@@ -51,7 +51,7 @@ Scopri quali programmi e canali ti stanno dando il più grande vantaggio per il 
 
    >[!TIP]
    >
-   >Per selezionare un intervallo specifico, selezionate **Personalizzato** e utilizzate i campi **Da** e **A** .
+   >Per selezionare un intervallo specifico, selezionare i campi **Personalizzato** e utilizzare i campi **Da** e **A**.
 
 1. Per salvare il nuovo analizzatore personalizzato, nel menu a discesa Azioni analizzatore, selezionare Salva con nome.
 
@@ -75,8 +75,8 @@ Scopri quali programmi e canali ti stanno dando il più grande vantaggio per il 
 
 >[!NOTE]
 >
->Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la [differenza tra l&#39;attribuzione](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+>Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la differenza [tra l&#39;attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!NOTE]
 >
->Ulteriori informazioni in [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Ulteriori informazioni in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
