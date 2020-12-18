@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Carica immagini e file da una casella {#upload-images-and-files-from-box}
+# Caricare immagini e file dalla casella {#upload-images-and-files-from-box}
 
 Potete caricare i file da Box per utilizzarli nelle pagine di destinazione e nelle e-mail.
 
-1. Vai a **Design** **Studio**.
+1. Passare a **Design** **Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Vai a** Immagini e file**. Fare clic su Azioni **** file e selezionare **Acquisisci immagini dal Web**.
+1. Vai a** Immagini e file**. Fare clic su **Azioni file** e selezionare **Acquisisci immagini da Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Fare clic su **Casella**.
+1. Fare clic su **Box**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -35,11 +35,11 @@ Potete caricare i file da Box per utilizzarli nelle pagine di destinazione e nel
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Scegliete dove salvare i file. Selezionate quindi la cartella **Box** da cui desiderate caricare i file. Fate clic su **Avanti**.
+1. Scegliete dove salvare i file. Selezionate quindi la cartella **Box** da cui desiderate caricare i file. Fare clic su **Next**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Selezionate i file da caricare. Fate clic su **Importa**.
+1. Selezionate i file da caricare. Fare clic su **Importa**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
