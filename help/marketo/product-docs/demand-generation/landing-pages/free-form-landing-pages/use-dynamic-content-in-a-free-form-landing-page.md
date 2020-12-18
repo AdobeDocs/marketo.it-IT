@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo di contenuti dinamici in una pagina di destinazione a forma libera {#use-dynamic-content-in-a-free-form-landing-page}
+# Utilizzare contenuti dinamici in una pagina di destinazione a forma libera {#use-dynamic-content-in-a-free-form-landing-page}
 
 L&#39;utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge il pubblico con informazioni mirate.
 
@@ -27,7 +27,7 @@ L&#39;utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge il p
 
 ## Aggiungi segmentazione {#add-segmentation}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,17 +53,17 @@ L&#39;utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge il p
 
 ## Rendi elemento dinamico {#make-element-dynamic}
 
-1. Trascinate e rilasciate gli elementi di contenuto dinamico da **Static** a **Dynamic.**
+1. Trascinare gli elementi di contenuto dinamico da **Static** a **Dynamic.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. È inoltre possibile creare elementi **statici** o **dinamici** dalle **Impostazioni elemento.**
+1. È inoltre possibile creare elementi **statici** o **dinamici** dall&#39;elemento **Settings.**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Applica contenuto dinamico {#apply-dynamic-content}
 
-1. Selezionate un elemento sotto un segmento, fate clic sull&#39;icona delle impostazioni, quindi fate clic su **Modifica**. Ripetere la procedura per ciascun segmento.
+1. Selezionate un elemento sotto un segmento, fate clic sull&#39;icona delle impostazioni, quindi fate clic su **Edit**. Ripetere la procedura per ciascun segmento.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
