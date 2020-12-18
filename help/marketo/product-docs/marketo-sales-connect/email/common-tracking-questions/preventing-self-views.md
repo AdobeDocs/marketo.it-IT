@@ -33,19 +33,19 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel immagine invisi
 
    ![](assets/win-1.png)
 
-1. Fate clic su **Opzioni**.
+1. Fare clic su **Opzioni**.
 
    ![](assets/win-2.png)
 
-1. Nella finestra di dialogo Opzioni di Outlook, fare clic su Centro **** protezione.
+1. Nella finestra di dialogo Opzioni di Outlook, fare clic su **Centro protezione**.
 
    ![](assets/win-3.png)
 
-1. In Centro protezione di Microsoft Outlook fare clic su Impostazioni **centro** protezione.
+1. In Centro protezione Microsoft Outlook fare clic su **Impostazioni centro protezione**.
 
    ![](assets/win-4.png)
 
-1. Fate clic su Scarica automatica nel menu a sinistra, quindi selezionate la casella di controllo **Non scaricare automaticamente le immagini nelle e-mail HTML o negli elementi** RSS.
+1. Fate clic su Scarica automatica nel menu a sinistra, quindi selezionate la casella di controllo **Non scaricare automaticamente le immagini nel messaggio e-mail HTML o negli elementi RSS**.
 
    ![](assets/win-5.png)
 
@@ -69,7 +69,7 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel immagine invisi
 
    ![](assets/mac-2.png)
 
-1. In Protezione fare clic sul pulsante di scelta **Mai** .
+1. In Protezione, fare clic sul pulsante di scelta **Mai**.
 
    ![](assets/mac-3.png)
 
