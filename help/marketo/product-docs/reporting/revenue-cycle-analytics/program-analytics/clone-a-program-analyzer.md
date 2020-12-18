@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Clona un analizzatore di programma {#clone-a-program-analyzer}
+# Clonare un analizzatore di programma {#clone-a-program-analyzer}
 
 Dopo aver salvato un analizzatore, è facile duplicarlo per crearne uno nuovo. Quindi, se necessario, entrate e modificate la nuova.
 
@@ -19,19 +19,19 @@ Dopo aver salvato un analizzatore, è facile duplicarlo per crearne uno nuovo. Q
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Fate clic sulla sezione **Program Analyzer** .
+1. Fare clic sulla sezione **Programma Analyzer**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Quando l’analizzatore salvato è aperto, aprite il menu a discesa Azioni analizzatore e selezionate Analizzatore **** clone.
+1. Quando l&#39;analizzatore salvato è aperto, aprire il menu a discesa Azioni analizzatore e selezionare **Analizzatore cloni**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Selezionate il percorso per l’analizzatore clonato dal menu a discesa **Clone** To e **Folder** (Clona a e Cartella).
+1. Selezionare il percorso per l&#39;analizzatore duplicato dai menu a discesa **Clone To** e **Folder**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Denominate l’analizzatore clonato e fate clic su **Clona**.
+1. Assegnate un nome all&#39;analizzatore clonato e fate clic su **Clone**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
