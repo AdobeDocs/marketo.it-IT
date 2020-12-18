@@ -33,26 +33,26 @@ Di seguito sono riportati i nomi consigliati delle regole del flusso di lavoro e
  <tbody> 
   <tr> 
    <td>Aggiorna Campo Desc Momento Interessante</td> 
-   <td><p>Copia da: Last Marketo Engagement<br>DescCopy to: Ultimo interessante momento</p></td> 
+   <td><p>Copia da: Desc. ultimo coinvolgimento Marketo<br>Copia in: Ultimo interessante momento</p></td> 
   </tr> 
   <tr> 
    <td>Aggiorna campo Interessante tipo di momento</td> 
-   <td><p>Copia da: Last Marketo Engagement<br>TypeCopy to: Ultimo tipo di momento interessante</p></td> 
+   <td><p>Copia da: Ultimo tipo di coinvolgimento del marketing<br>Copia in: Ultimo tipo di momento interessante</p></td> 
   </tr> 
   <tr> 
    <td>Aggiorna campo Interessante origine momento</td> 
-   <td><p>Copia da: Ultimo Marketo Engagement<br>SourceCopy in: Ultima origine momento interessante</p></td> 
+   <td><p>Copia da: Ultima origine di coinvolgimento Marketo<br>Copia in: Ultima origine momento interessante</p></td> 
   </tr> 
   <tr> 
    <td>Aggiorna campo data momento interessante</td> 
-   <td><p>Copia da: Ultima<br>data di coinvolgimento marketingCopia in: Data ultimo momento interessante</p></td> 
+   <td><p>Copia da: Data ultimo coinvolgimento Marketo<br>Copia in: Data ultimo momento interessante</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Istruzioni {#instructions}
 
-1. Dopo aver fatto clic su **Configurazione**, cercate **Flusso di lavoro** e selezionate Regole **** flusso di lavoro.
+1. Dopo aver fatto clic su **Setup**, cercare **Workflow** e selezionare **Workflow Rules**.
 
    ![](assets/one-1.png)
 
@@ -64,39 +64,39 @@ Di seguito sono riportati i nomi consigliati delle regole del flusso di lavoro e
 
    ![](assets/three-1.png)
 
-1. Immettete &quot;Update Interesting Moment Desc Field&quot; come nome della regola. Selezionate il pulsante di scelta **creato e ogni volta che viene modificato**. Nel menu a discesa Criteri regola, la **formula selezionata restituisce true**. Cercare e selezionare la funzione ISCHANGED. Evidenziare quindi il valore predefinito del campo e fare clic su **Inserisci campo**.
+1. Immettete &quot;Update Interesting Moment Desc Field&quot; come nome della regola. Selezionare il pulsante di scelta **creato e ogni volta che viene modificato**. Nel menu a discesa Criteri regola, selezionare **formula restituisce true**. Cercare e selezionare la funzione ISCHANGED. Evidenziare quindi il valore del campo predefinito e fare clic su **Inserisci campo**.
 
    ![](assets/four-1.png)
 
-1. Nel menu a comparsa &quot;Inserisci campo&quot;, scegliete **Ultimo punto di coinvolgimento del marketing** e fate clic su **Inserisci**.
+1. Nella finestra a comparsa &quot;Inserisci campo&quot;, scegliere **Ultimo punto di coinvolgimento del marketing** e fare clic su **Inserisci**.
 
    ![](assets/five-1.png)
 
-1. Fate clic su **Salva e successivo**.
+1. Fare clic su **Save &amp; Next**.
 
    ![](assets/6.png)
 
-1. Nel menu a discesa Aggiungi azione flusso di lavoro, seleziona **Nuovo aggiornamento** campo.
+1. Nel menu a discesa Aggiungi azione flusso di lavoro, selezionare **Nuovo aggiornamento campo**.
 
    ![](assets/seven.png)
 
-1. Nel campo Nome, immettete &quot;Update Interesting Moment Desc Field&quot; (Aggiorna campo Moment Desc Interessante) (il nome univoco verrà generato automaticamente). Nel menu a discesa Campo da aggiornare, scegliete **Ultima descrizione** momento interessante. Selezionare il pulsante di scelta **Usa una formula per impostare un nuovo valore** , quindi fare clic su **Mostra editor** formule.
+1. Nel campo Nome, immettete &quot;Update Interesting Moment Desc Field&quot; (Aggiorna campo Moment Desc Interessante) (il nome univoco verrà generato automaticamente). Nel menu a discesa Campo da aggiornare, scegliete **Ultima descrizione momento interessante**. Selezionare il pulsante di scelta **Utilizzare una formula per impostare un nuovo valore**, quindi fare clic su **Mostra editor formule**.
 
    ![](assets/eight.png)
 
-1. Fare clic sul pulsante **Inserisci campo** .
+1. Fare clic sul pulsante **Inserisci campo**.
 
    ![](assets/9a.png)
 
-1. Selezionate **Ultimo Desc** di coinvolgimento Marketo e fate clic su **Inserisci**. Nella pagina successiva, fate clic su **Salva**.
+1. Selezionare **Desc. ultimo coinvolgimento del marketing**, quindi fare clic su **Inserisci**. Nella pagina successiva, fare clic su **Salva**.
 
    ![](assets/nine.png)
 
-1. Fate clic su **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/twelve.png)
 
-1. Fate clic su **Attiva** per attivare la regola del flusso di lavoro.
+1. Fare clic su **Attiva** per attivare la regola del flusso di lavoro.
 
    ![](assets/thirteen.png)
 
