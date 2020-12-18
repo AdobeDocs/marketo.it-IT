@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Invia messaggio in-app {#send-your-in-app-message}
+# Invia il messaggio in-app {#send-your-in-app-message}
 
 Dopo aver creato il messaggio in-app, è ora di inviarlo. Di seguito sono riportati i passaggi da seguire:
 
@@ -34,4 +34,4 @@ Dopo aver creato il messaggio in-app, è ora di inviarlo. Di seguito sono riport
 
    ![Immagine quattro](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Pronti? Iniziate con [l&#39;impostazione dell&#39;audience](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Pronti? Iniziate con l&#39;impostazione di [audience](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
