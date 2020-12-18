@@ -19,7 +19,7 @@ Potete utilizzare la struttura del pulsante predefinita, modificarla o caricare 
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Per modificare il colore del pulsante standard, fare clic sul pulsante **Colore** .
+1. Per modificare il colore del pulsante standard, fare clic sul pulsante **Colore**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Potete utilizzare la struttura del pulsante predefinita, modificarla o caricare 
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Se desiderate usare una vostra immagine per un pulsante, fate clic sul pulsante Immagine e fate clic su **Seleziona immagine**.
+1. Se desiderate utilizzare la vostra immagine per un pulsante, fate clic sul pulsante Immagine e fate clic su **Seleziona immagine**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Scegliete l’immagine e fate clic su **Seleziona**.
+1. Scegliete l&#39;immagine e fate clic su **Seleziona**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
