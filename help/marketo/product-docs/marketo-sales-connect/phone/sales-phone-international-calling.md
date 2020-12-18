@@ -11,7 +11,7 @@ ht-degree: 8%
 ---
 
 
-# Chiamata internazionale per il telefono di vendita {#sales-phone-international-calling}
+# Chiamata internazionale di vendita {#sales-phone-international-calling}
 
 Sales Phone semplifica la comunicazione internazionale. Per i clienti che effettuano chiamate dall&#39;interno degli Stati Uniti, Sales Phone può essere utilizzato per chiamate in uscita verso paesi internazionali. Per i clienti al di fuori degli Stati Uniti, sosteniamo le chiamate dai paesi internazionali.
 
@@ -33,7 +33,7 @@ Sales Phone semplifica la comunicazione internazionale. Per i clienti che effett
   </tr> 
   <tr> 
    <td colspan="1">Austria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 436 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahama</td> 
@@ -137,7 +137,7 @@ Sales Phone semplifica la comunicazione internazionale. Per i clienti che effett
   </tr> 
   <tr> 
    <td>Stati Uniti</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800.1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
