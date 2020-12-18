@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Creare un modello di pagina di destinazione gratuito esistente compatibile con Mobile {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Rendere un modello di pagina di destinazione gratuito esistente compatibile con Mobile {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 >[!NOTE]
 >
->I modelli delle pagine di destinazione creati prima del [rilascio di gennaio 2015](../../../../release-notes/2015/release-notes-january-2015.md)devono essere aggiornati in modo da essere compatibili con i dispositivi mobili.
+>I modelli delle pagine di destinazione creati prima della [release di gennaio 2015](../../../../release-notes/2015/release-notes-january-2015.md)devono essere aggiornati per essere compatibili con i dispositivi mobili.
 
 Può essere eseguito in due posizioni: Editor modelli ed Editor pagina di destinazione.
 
@@ -25,23 +25,23 @@ Può essere eseguito in due posizioni: Editor modelli ed Editor pagina di destin
 
    ![](assets/designstudio-1.png)
 
-1. Selezionate **Modelli**.
+1. Selezionare **Templates**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Selezionate un modello in cui **Mobile Compatible** è **No**.
+1. Selezionare un modello in cui **Mobile Compatible** è **No**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Fate clic su **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Fate clic su **Rendi compatibile** con i dispositivi mobili.
+1. Fare clic su **Rendi compatibile con dispositivi mobili**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Fate clic su **Aggiorna**.
+1. Fare clic su **Aggiorna**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -67,15 +67,15 @@ Se si verifica un errore, viene visualizzato un messaggio di errore, fare clic s
 
 Se apportate delle modifiche al modello, fate clic su Azioni modello e selezionate Convalida compatibilità mobile.
 
-## Aggiornamento di un modello dall’Editor pagina di destinazione a forma libera {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Aggiornamento di un modello dall&#39;Editor pagina di destinazione a forma libera {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 Quando si modifica una pagina di destinazione e si fa clic sulla scheda mobile, talvolta si nota che il modello non è stato aggiornato. Non abbiate paura! Puoi aggiornarlo proprio qui.
 
-1. Fate clic sulla scheda **Mobile** .
+1. Fare clic sulla scheda **Mobile**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Fate clic sulla casella di controllo e fate clic su **Attiva**.
+1. Fare clic sulla casella di controllo e fare clic su **Attiva**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -83,7 +83,7 @@ Quando si modifica una pagina di destinazione e si fa clic sulla scheda mobile, 
    >
    >Attivando la versione mobile di un modello si creano le bozze delle pagine di destinazione che lo utilizzano.
 
-Fantastico! Ora potete [personalizzare la visualizzazione](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) mobile di tutte le pagine di destinazione che utilizzano questo modello.
+Fantastico! Ora è possibile [personalizzare la visualizzazione mobile](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) di tutte le pagine di destinazione che utilizzano questo modello.
 
 >[!MORELIKETHIS]
 >
