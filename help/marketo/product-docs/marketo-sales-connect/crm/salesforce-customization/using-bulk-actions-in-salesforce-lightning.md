@@ -25,7 +25,7 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
 ## E-mail di massa {#bulk-email}
 
-1. In Salesforce, fate clic sulla scheda **Lead** , quindi scegliete l’elenco dei lead desiderati.
+1. In Salesforce, fare clic sulla scheda **Lead**, quindi scegliere l&#39;elenco dei lead desiderati.
 
    ![](assets/one-6.png)
 
@@ -33,7 +33,7 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
    >
    >Se siete già sulla lista che userete, dovrete eseguire nuovamente la lista scegliendo dall&#39;elenco a discesa per essere certi che i pulsanti di azione sfusi MSC siano visualizzati. Si tratta di un comportamento Salesforce che non può essere modificato.
 
-1. Fate clic sul menu a discesa freccia (all&#39;estrema destra della schermata) e selezionate **E-mail con MSC**.
+1. Fare clic sul menu a discesa freccia (all&#39;estrema destra dello schermo) e selezionare **E-mail con MSC**.
 
    ![](assets/two-6.png)
 
@@ -46,31 +46,31 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
    ![](assets/three-5.png)
 
-## Aggiungi a campagna {#add-to-campaign}
+## Aggiungi alla campagna {#add-to-campaign}
 
-1. In Salesforce, fate clic sulla scheda **Lead** , quindi scegliete l’elenco dei lead desiderati.
+1. In Salesforce, fare clic sulla scheda **Lead**, quindi scegliere l&#39;elenco dei lead desiderati.
 
    ![](assets/four-4.png)
 
-1. Fate clic sul menu a discesa freccia (all&#39;estrema destra della schermata) e selezionate **Aggiungi a campagna** MSC.
+1. Fate clic sul menu a discesa freccia (all&#39;estrema destra della schermata) e selezionate **Aggiungi a MSC Campaign**.
 
    ![](assets/five-4.png)
 
-1. Viene visualizzata una finestra a comparsa &quot;Aggiungi persone alla campagna&quot;. Fate clic su **Avanti** e seguite il flusso di campagne tipico per attivare una campagna MSC.
+1. Viene visualizzata una finestra a comparsa &quot;Aggiungi persone alla campagna&quot;. Fate clic su **Next** e seguite il flusso di campagne tipico per attivare una campagna MSC.
 
    ![](assets/six-1.png)
 
 ## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. In Salesforce, fate clic sulla scheda **Lead** , quindi scegliete l’elenco dei lead desiderati.
+1. In Salesforce, fare clic sulla scheda **Lead**, quindi scegliere l&#39;elenco dei lead desiderati.
 
    ![](assets/seven-2.png)
 
-1. Fate clic sul menu a discesa freccia (all&#39;estrema destra della schermata) e selezionate **Premi a MSC**.
+1. Fare clic sul menu a discesa freccia (all&#39;estrema destra dello schermo) e selezionare **Premi a MSC**.
 
    ![](assets/eight-2.png)
 
-1. Viene aperta una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fate clic sul **pulsante Procedi a raggruppare** .
+1. Viene aperta una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fare clic sul pulsante **Procedi al gruppo →**.
 
    ![](assets/nine-2.png)
 
