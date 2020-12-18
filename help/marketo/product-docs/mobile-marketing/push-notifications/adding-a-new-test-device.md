@@ -19,10 +19,10 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Fate clic su **Admin **e quindi sul collegamento App **** mobili.\
+1. Fare clic su **Admin **e quindi sul collegamento **App mobili**.\
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Fate clic sulla scheda Dispositivi **di** prova e su **Nuovo dispositivo** di prova.
+1. Fare clic sulla scheda **Dispositivi di prova** e **Nuovo dispositivo di prova**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. Viene aperta l&#39;app. Denominate il dispositivo e toccate **Sì**.
+1. Viene aperta l&#39;app. Assegnare un nome al dispositivo e toccare **Sì**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
