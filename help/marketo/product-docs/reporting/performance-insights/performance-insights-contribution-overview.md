@@ -23,7 +23,7 @@ Selezionare la metrica per la quale si desidera visualizzare le prestazioni. In 
 
 >[!NOTE]
 >
->Ulteriori informazioni su [First-Touch e Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Informazioni su [First-Touch and Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Scegliere il periodo per il quale visualizzare le metriche. In questo esempio stiamo osservando l&#39;anno corrente (anno-to-date).   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ Il grafico a barre mostra le prestazioni del programma su tutti i canali (dieci 
 
 >[!TIP]
 >
->Se desiderate che le barre del grafico vengano ridimensionate durante lo scorrimento dei gruppi, selezionate la casella di controllo **Adatta** asse Y.
+>Se desiderate che le barre del grafico vengano ridimensionate durante lo scorrimento dei gruppi, selezionate la casella di controllo **Scala Y per adattare**.
 
 Passate il puntatore del mouse su una barra per visualizzare ulteriori dettagli.   ![](assets/seven.png)
 
