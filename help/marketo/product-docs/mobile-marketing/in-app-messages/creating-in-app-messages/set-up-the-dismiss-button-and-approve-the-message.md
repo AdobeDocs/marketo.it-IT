@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Impostazione del pulsante Ignora e approvazione del messaggio {#set-up-the-dismiss-button-and-approve-the-message}
+# Impostare il pulsante di disattivazione e approvare il messaggio {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Configura proprietà pulsante di disattivazione  {#configure-dismiss-button-properties}
+## Configura proprietà pulsante di disattivazione {#configure-dismiss-button-properties}
 
 Il pulsante Ignora offre diverse opzioni per configurarlo nel modo desiderato.
 
@@ -45,11 +45,11 @@ Il pulsante Ignora offre diverse opzioni per configurarlo nel modo desiderato.
    >
    >È necessario attivare il pulsante Ignora, quindi non è disponibile alcuna casella di controllo per attivarlo. Dismiss Message è la scelta predefinita (e ovvia).
 
-## Indossalo {#wrap-it-up}
+## A capo automatico {#wrap-it-up}
 
 Tutte le selezioni per grafica, testo e pulsanti sono state salvate automaticamente. Ora, sei pronto a finire il lavoro.
 
-1. Per visualizzare l&#39;anteprima del messaggio in-app, fai clic sul menu a discesa Azioni **** messaggio e seleziona **Anteprima**.
+1. Per visualizzare l&#39;anteprima del messaggio in-app, fai clic sul menu a discesa **Azioni messaggio** e seleziona **Anteprima**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Tutte le selezioni per grafica, testo e pulsanti sono state salvate automaticame
 
    >[!NOTE]
    >
-   >Puoi anche selezionare **Approva e chiudi** direttamente dal menu a discesa Azioni messaggio (vedere il passaggio 1), ma perché non visualizzare prima l&#39;anteprima del messaggio, ma solo per essere sicuro?
+   >È inoltre possibile selezionare **Approva e chiudi** direttamente dal menu a discesa Azioni messaggio (vedere il punto 1), ma perché non visualizzare prima l&#39;anteprima del messaggio, solo per essere sicuro?
 
 1. Per chiudere l&#39;editor senza approvare, chiudete semplicemente la scheda. Viene salvato automaticamente, quindi potrai restituirlo e approvarlo in un secondo momento.
 
@@ -71,7 +71,7 @@ Tutte le selezioni per grafica, testo e pulsanti sono state salvate automaticame
 
 Tante scelte, ma ora hai un messaggio in-app di grande impatto, pronto per essere lanciato!
 
-Ora è il momento di [inviare il tuo messaggio](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Ora è il momento di [inviare il messaggio](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
 >[!MORELIKETHIS]
 >
