@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È possibile apportare alcune modifiche agli elenchi nella pagina Tutto il contenuto.
 
-1. Nella pagina **Tutto il contenuto** , passate il puntatore del mouse sulla riga del titolo da modificare e fate clic sull’icona di modifica.
+1. Nella pagina **All Content** (Tutti i contenuti), passate il puntatore del mouse sulla riga del titolo da modificare e fate clic sull&#39;icona di modifica.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/edit-content-2.png)
 
-1. Fare clic sul campo **Categorie** per aggiungere o rimuovere categorie. Selezionatene di nuovi dal menu a discesa. Per rimuovere una categoria attualmente selezionata, fai clic sulla relativa **X**.
+1. Fare clic sul campo **Categorie** per aggiungere o rimuovere categorie. Selezionatene di nuovi dal menu a discesa. Per rimuovere una categoria attualmente selezionata, fai clic su **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Selezionare la casella **Approva per l&#39;approvazione del contenuto** predittivo oppure deselezionare la casella per annullare l&#39;approvazione. Al termine, fate clic su **Salva** .
+1. Selezionare la casella **Approva per contenuto predittivo** per approvare o deselezionare la casella per annullare l&#39;approvazione. Fare clic su **Salva** al termine.
 
    ![](assets/edit-content-4.png)
 
