@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Scegliere l&#39;URL di condivisione per un&#39;app Social {#choose-the-share-url-for-a-social-app}
+# Scegliete l&#39;URL di condivisione per un&#39;app Social {#choose-the-share-url-for-a-social-app}
 
 Quando create un&#39;app per social network, potete scegliere l&#39;URL che verrà condiviso nei post dai partecipanti.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Quando create un&#39;app per social network, potete scegliere l&#39;URL che verr
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Nell&#39;editor delle app per social network, andate a Impostazioni **** app e quindi a Opzioni **** avanzate.
+1. Nell&#39;editor delle app social, andate a **Impostazioni app** e quindi a **Opzioni avanzate**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
