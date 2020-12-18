@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Per configurare le impostazioni dell&#39;evento Marketo e collegare Marketo e ON24, effettuate le seguenti operazioni.
 
-## Impostate l’evento {#set-the-event}
+## Impostate l&#39;evento {#set-the-event}
 
-1. Scegliete l&#39;evento da associare a un webinar ON24, quindi fate clic sul menu a discesa Azioni **** evento e selezionate Impostazioni **** evento.
+1. Scegliete l&#39;evento da associare a un webinar ON24, quindi fate clic sul menu a discesa **Azioni evento** e selezionate **Impostazioni evento**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Per configurare le impostazioni dell&#39;evento Marketo e collegare Marketo e ON
 
    ![](assets/three.png)
 
-1. Inserite l&#39;ID evento (ottenete questo da ON24). Fate clic su **Salva**.
+1. Inserite l&#39;ID evento (ottenete questo da ON24). Fare clic su **Salva**.
 
    ![](assets/four.png)
 
@@ -37,21 +37,21 @@ Per configurare le impostazioni dell&#39;evento Marketo e collegare Marketo e ON
    >
    >Durante i periodi di picco, per ON24 possono essere necessari dai 15 ai 20 minuti per rendere disponibili le informazioni sull’evento a Marketo. Se ricevete un messaggio &quot;ID sessione non valido&quot;, riprovate più tardi.
 
-## Imposta la pianificazione {#set-the-schedule}
+## Impostare la pianificazione {#set-the-schedule}
 
 Quando configurate un evento associato a un webinar ON24, la pianificazione dell&#39;evento viene compilata con i dati di ON24. Per accedere alla finestra di dialogo Pianificazione evento, effettuate le seguenti operazioni.
 
-1. Selezionate l’evento. Fate clic sul menu a discesa Azioni **** evento e selezionate **Pianificazione.**
+1. Selezionate l’evento. Fare clic sul menu a discesa **Azioni evento** e selezionare **Pianificazione.**
 
    ![](assets/five.png)
 
-1. Scegliete la data di **inizio, la data** di fine e il fuso **** orario. Fate clic su **Salva**.
+1. Scegliete la **Data inizio, Data fine** e il **Fuso orario**. Fare clic su **Salva**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Se aggiornate le informazioni sull&#39;evento in ON24, è necessario fare clic su **Aggiorna da provider** webinar nel menu Azioni evento per visualizzare la compilazione dei nuovi dati.
+   >Se aggiornate le informazioni sull&#39;evento in ON24, per visualizzare i nuovi dati è necessario fare clic su **Aggiorna da provider webinar** nel menu Azioni evento.
 
    [creazione di campagne figlio e risorse locali](create-child-campaigns-and-local-assets.md)
 
