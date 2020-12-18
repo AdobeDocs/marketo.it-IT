@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Non è possibile utilizzare uno snippet non autorizzato nelle e-mail o nelle pagine di destinazione.
 
-1. Andate a **Design Studio.**
+1. Vai a **Design Studio.**
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Andate allo snippet e accertatevi che non sia **utilizzato da** alcuna risorsa.
+1. Accedete allo snippet e accertatevi che non siano presenti risorse **Utilizzate da**.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Se lo snippet è utilizzato da altre risorse, rimuovete tali associazioni prima di procedere.
 
-1. In Azioni **** snippet, fare clic su **Annulla approvazione**.
+1. In **Azioni snippet**, fare clic su **Disapprova**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
