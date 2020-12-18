@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se si desidera apportare modifiche a un modulo esistente, è possibile iniziare il processo in questo modo.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/editform.png)
 
@@ -27,5 +27,5 @@ Se si desidera apportare modifiche a un modulo esistente, è possibile iniziare 
 >
 >**Tubo profondo**
 >
->Per ulteriori informazioni sulla modifica e la personalizzazione dei [moduli](http://docs.marketo.com/display/docs/forms) , fare clic qui.
+>Ulteriori informazioni sulla modifica e la personalizzazione di [moduli](http://docs.marketo.com/display/docs/forms) sono disponibili qui.
 
