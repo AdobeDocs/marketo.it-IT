@@ -17,8 +17,8 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
 
 >[!PREREQUISITES]
 >
->* Devi [configurare gli annunci](set-up-facebook-lead-ads.md)lead di Facebook.
->* È necessario avere un modello approvato in [Revenue Cycle Modeler](http://docs.marketo.com/display/docs/revenue+cycle+models).
+>* È necessario [impostare Facebook Lead Ads](set-up-facebook-lead-ads.md).
+>* È necessario disporre di un modello approvato in [Modellatore ciclo ricavi](http://docs.marketo.com/display/docs/revenue+cycle+models).
 
 >
 
@@ -26,31 +26,31 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
 
 ## Configurazione amministratore {#admin-configuration}
 
-1. Vai ad **Amministratore** Marketo.
+1. Vai a Marketo **Admin**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Passate a **LaunchPoint** e fate doppio clic sul servizio Annunci lead di Facebook creato in precedenza.
+1. Accedete a **LaunchPoint** e fate doppio clic sul servizio Annunci lead di Facebook creato in precedenza.
 
    >[!NOTE]
    >
-   >Se non l&#39;avete ancora fatto, andate avanti e [configurate Facebook Lead Ads](set-up-facebook-lead-ads.md), quindi tornate qui.
+   >Se non l&#39;hai ancora fatto, vai avanti e [configura gli annunci lead Facebook](set-up-facebook-lead-ads.md), quindi torna qui.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Se lo desiderate, modificate il Nome **** visualizzato per includere le conversioni offline. Fate clic su **Avanti**.
+1. Se lo desiderate, modificate il **Nome visualizzato** per includere le conversioni offline. Fare clic su **Next**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Selezionate **Abilita conversioni** offline e fate clic su **Avanti**.
+1. Selezionare **Abilita conversioni offline** e fare clic su **Next**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
@@ -60,11 +60,11 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
 
 ## Configurazione del modello del ciclo delle entrate {#revenue-cycle-modeler-configuration}
 
-1. Vai ad **Analytics**.
+1. Vai a **Analytics**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. Selezionate il modello e fate clic su **Modifica bozza**.
+1. Selezionare il modello e fare clic su **Modifica bozza**.
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
@@ -86,7 +86,7 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
    >    * Visualizzazioni contenuto
 
 
-1. Selezionate il passaggio da mappare, quindi dall’elenco a discesa Conversione **** Facebook, selezionate l’evento Facebook a cui desiderate mappare. Ripetete questo passaggio per mappare tutti gli stadi di RCM sulle fasi di conversione offline di Facebook.
+1. Selezionate il passaggio da mappare, quindi dal menu a discesa **Conversione Facebook** selezionate l&#39;evento Facebook a cui desiderate mappare. Ripetete questo passaggio per mappare tutti gli stadi di RCM sulle fasi di conversione offline di Facebook.
 
    ![](assets/1-1.png)
 
@@ -102,7 +102,7 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
 
    >[!CAUTION]
    >
-   >Controllate il vostro account Facebook e accertatevi che tutti [gli annunci siano associati](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) al set di eventi di conversione offline di Marketo. In caso contrario, l&#39;attribuzione degli annunci potrebbe non funzionare.
+   >Controllate l&#39;account Facebook e accertatevi che tutti gli [annunci siano associati](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) al set di eventi di conversione offline di Marketo. In caso contrario, l&#39;attribuzione degli annunci potrebbe non funzionare.
 
    >[!NOTE]
    >
