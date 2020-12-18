@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Come configurare il server SMTP di Outlook365 con Connect di vendita {#how-to-set-up-your-outlook-smtp-server-with-sales-connect}
+# Come impostare il server SMTP di Outlook365 con il servizio di vendita {#how-to-set-up-your-outlook-smtp-server-with-sales-connect}
 
 >[!NOTE]
 >
->Se l&#39;azienda utilizza Outlook e si sta tentando di configurare un canale di consegna e-mail con Marketo Sales Connect, si consiglia di connettersi al server di Exchange [utilizzando la funzione](http://docs.marketo.com/x/Z4AOAQ)di connessione e-mail.
+>Se l&#39;azienda utilizza Outlook e si sta tentando di configurare un canale di consegna e-mail con Marketo Sales Connect, si consiglia di connettersi al server Exchange [utilizzando la funzionalità di connessione e-mail](http://docs.marketo.com/x/Z4AOAQ).
 
-Per impostare un server [SMTP](http://docs.marketo.com/x/zYTS) personalizzato come canale di consegna alternativo, ToutApp richiede l&#39;utilizzo di un qualche tipo di autenticazione a scopo di sicurezza. È possibile configurare qualsiasi server SMTP nella pagina [di configurazione](http://toutapp.com/next#settings/email-servers/smtp/configure)SMTP. Per configurare un server SMTP di Office365, Microsoft consiglia la configurazione seguente:\
+Per impostare un server [SMTP](http://docs.marketo.com/x/zYTS) personalizzato come canale di consegna alternativo, ToutApp richiede l&#39;utilizzo di una qualche forma di autenticazione a scopo di sicurezza. È possibile configurare qualsiasi server SMTP nella [pagina di configurazione SMTP](http://toutapp.com/next#settings/email-servers/smtp/configure). Per configurare un server SMTP di Office365, Microsoft consiglia la configurazione seguente:\
 **Server** SMTP: smtp.office365.com\
 **Porta** server: Porta 587 - Protetto\
 **Metodo** di autenticazione: Login (SSL/TLS)\
@@ -29,5 +29,5 @@ Se riscontri ancora problemi durante la configurazione del server SMTP, collabor
 
 >[!NOTE]
 >
->Quando si invia tramite Office365 SMTP, Microsoft impone un limite `limit of 30 messages sent per minute`e un limite di 10.000 destinatari al giorno. Inoltre, `each member` il team che desidera inviare e-mail tramite il server SMTP di Office365 dovrà configurarlo con il proprio indirizzo e-mail e la propria password nelle proprie impostazioni di vendita Connect. Selezionando la casella per l&#39;impostazione &quot; `Make this deliverability channel to all my team members` `" will not work` per questa configurazione, in conformità ai criteri account di Microsoft Office365.
+>Durante l&#39;invio tramite Office365 SMTP, Microsoft impone un `limit of 30 messages sent per minute` e un limite di 10.000 destinatari al giorno. Inoltre, `each member` del team che desidera inviare le e-mail tramite il server SMTP di Office365 dovrà impostare questa impostazione con il proprio indirizzo e-mail e la propria password nelle impostazioni di Sales Connect. Selezionando la casella per l&#39;impostazione &quot; `Make this deliverability channel to all my team members` `" will not work` per questa configurazione, in conformità ai criteri dell&#39;account Microsoft Office365.
 
