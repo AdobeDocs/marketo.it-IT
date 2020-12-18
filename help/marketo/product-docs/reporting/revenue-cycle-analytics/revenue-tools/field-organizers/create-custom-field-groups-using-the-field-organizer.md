@@ -36,19 +36,19 @@ Nelle tre sezioni seguenti viene descritto come creare un gruppo di campi person
 
 ## Crea gruppo di campi personalizzato - Editor di stringhe {#create-custom-field-group-string-editor}
 
-1. Fate clic su Database **** lead.
+1. Fare clic su **Database lead**.
 
    ![](assets/one.png)
 
-1. Fate clic su **Nuovo** e selezionate **Nuovo organizzatore** campi.
+1. Fare clic su **Nuovo**, quindi selezionare **Nuovo organizzatore di campi**.
 
    ![](assets/two.png)
 
-1. Fare clic su **Campo** e selezionare un campo standard o personalizzato con un tipo di dati associato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). Il paese è usato qui.
+1. Fare clic su **Field** e selezionare un campo standard o personalizzato con un tipo di dati associato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). Il paese è usato qui.
 
    ![](assets/three.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ Nelle tre sezioni seguenti viene descritto come creare un gruppo di campi person
 
    ![](assets/five.png)
 
-1. Per impostazione predefinita, tutti i valori dei dati sono inseriti nel sottogruppo &quot;Altro&quot;. Per classificare i valori dei dati, fate clic su **Aggiungi gruppo** per creare un sottogruppo e assegnategli un nome.
+1. Per impostazione predefinita, tutti i valori dei dati sono inseriti nel sottogruppo &quot;Altro&quot;. Per classificare i valori dei dati, fare clic su **Aggiungi gruppo** per creare un sottogruppo e assegnare un nome.
 
    >[!NOTE]
    >
@@ -90,21 +90,21 @@ Nelle tre sezioni seguenti viene descritto come creare un gruppo di campi person
    >
    >Una volta definiti i gruppi, è possibile abilitare il gruppo di campi personalizzato per il reporting in Analisi prestazioni modello (Lead) tramite la scheda Analisi ciclo ricavi in Gestione lead Marketo.
 
-## Crea gruppo di campi personalizzato - Editor di numeri interi {#create-custom-field-group-integer-editor}
+## Crea gruppo di campi personalizzato - Editor intero {#create-custom-field-group-integer-editor}
 
-1. Fate clic su Database **** lead.
+1. Fare clic su **Database lead**.
 
    ![](assets/one.png)
 
-1. Fate clic su **Nuovo** e selezionate **Nuovo organizzatore** campi.
+1. Fare clic su **Nuovo**, quindi selezionare **Nuovo organizzatore di campi**.
 
    ![](assets/two.png)
 
-1. Fare clic su **Campo** e selezionare un campo standard o personalizzato con un tipo di dati associato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). Le entrate annuali sono utilizzate qui.
+1. Fare clic su **Field** e selezionare un campo standard o personalizzato con un tipo di dati associato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). Le entrate annuali sono utilizzate qui.
 
    ![](assets/nine.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ Nelle tre sezioni seguenti viene descritto come creare un gruppo di campi person
 
    ![](assets/9.6.png)
 
-1. Fate clic sul nome del gruppo personalizzato predefinito sopra l’editor di numeri interi per personalizzare il nome. Ad esempio, è possibile rinominare il gruppo di ricavi annuali in &quot;Ricavi annuali per dimensione&quot;. Fate clic su **Salva**.
+1. Fate clic sul nome del gruppo personalizzato predefinito sopra l’editor di numeri interi per personalizzare il nome. Ad esempio, è possibile rinominare il gruppo di ricavi annuali in &quot;Ricavi annuali per dimensione&quot;. Fare clic su **Salva**.
 
    ![](assets/eleven.png)
 
    L’editor di numeri interi consente di creare più sottogruppi per definire ciascun sottogruppo per dimensione. In questo esempio, verranno creati tre gruppi per le aziende piccole, medie e Enterprise.
 
-1. Per aggiungere il primo gruppo, immettete un nome nel campo Nome **** gruppo (ad esempio: Piccolo) e inserite un valore massimo nel campo Intervallo **** gruppo (ad esempio: 200000). Fate clic su **Aggiungi gruppo**.
+1. Per aggiungere il primo gruppo, immettete un nome nel campo **Nome gruppo** (ad esempio: Piccolo) e immettete un valore massimo nel campo **Intervallo gruppi** (esempio: 200000). Fare clic su **Aggiungi gruppo**.
 
    ![](assets/twelve.png)
 
@@ -144,21 +144,21 @@ Nelle tre sezioni seguenti viene descritto come creare un gruppo di campi person
    >
    >Una volta definiti i gruppi, è possibile abilitare il gruppo di campi personalizzato per il reporting in Analisi prestazioni modello (Lead) tramite la scheda Analisi ciclo ricavi in Gestione lead Marketo.
 
-## Crea gruppo di campi personalizzato - Editor data {#create-custom-field-group-date-editor}
+## Crea gruppo di campi personalizzato - Editor di date {#create-custom-field-group-date-editor}
 
-1. Fate clic su Database **** lead.
+1. Fare clic su **Database lead**.
 
    ![](assets/one.png)
 
-1. Fate clic su **Nuovo** e selezionate **Nuovo organizzatore** campi.
+1. Fare clic su **Nuovo**, quindi selezionare **Nuovo organizzatore di campi**.
 
    ![](assets/two.png)
 
-1. Fare clic su **Campo** e selezionare un campo standard o personalizzato con un tipo di dati associato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). Data acquisizione è utilizzata qui.
+1. Fare clic su **Field** e selezionare un campo standard o personalizzato con un tipo di dati associato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). Data acquisizione è utilizzata qui.
 
    ![](assets/fourteen.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/14.5.png)
 
@@ -166,13 +166,13 @@ Nelle tre sezioni seguenti viene descritto come creare un gruppo di campi person
 
    ![](assets/14.6.png)
 
-1. Fate clic sul nome del gruppo personalizzato predefinito sopra l’editor date per personalizzare il nome. Ad esempio, puoi rinominare &quot;Acquisition Date Group&quot; in &quot;Acquisition Date Categories&quot;. Fate clic su **Salva**.
+1. Fate clic sul nome del gruppo personalizzato predefinito sopra l’editor date per personalizzare il nome. Ad esempio, puoi rinominare &quot;Acquisition Date Group&quot; in &quot;Acquisition Date Categories&quot;. Fare clic su **Salva**.
 
    ![](assets/fifteen.png)
 
    L’editor date consente di creare più sottogruppi e di definire ciascun sottogruppo per data. In questo esempio, verranno creati tre gruppi: Q1-15 Lead, Q2-15 Lead e Q3-15 Lead.
 
-1. Per aggiungere il primo gruppo, immettete un nome nel campo Nome **** gruppo (ad esempio: Q1-15 Lead) e immettete una data nel campo della data che rappresenti la data in cui il lead è stato acquisito o precedente (ad esempio: 3/31/2015 per l&#39;ultimo giorno del primo trimestre (15). Fate clic su **Aggiungi gruppo**.
+1. Per aggiungere il primo gruppo, immettete un nome nel campo **Nome gruppo** (ad esempio: Q1-15 Lead) e immettete una data nel campo della data che rappresenti la data in cui il lead è stato acquisito o precedente (ad esempio: 3/31/2015 per l&#39;ultimo giorno del primo trimestre (15). Fare clic su **Aggiungi gruppo**.
 
    ![](assets/sixteen.png)
 
