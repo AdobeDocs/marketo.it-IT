@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abilitare la compilazione del modulo per social network su un modulo (Social) {#enable-social-form-fill-on-a-form-social}
+# Abilita compilazione modulo social su un modulo (Social) {#enable-social-form-fill-on-a-form-social}
 
 Consentire ai visitatori di compilare il modulo utilizzando il social network. Ottieni automaticamente dati aggiuntivi e ottengono un&#39;esperienza più rapida. Ecco come.
 
@@ -21,7 +21,7 @@ Consentire ai visitatori di compilare il modulo utilizzando il social network. O
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -39,13 +39,13 @@ Consentire ai visitatori di compilare il modulo utilizzando il social network. O
 
    >[!TIP]
    >
-   >Date un&#39;occhiata ai [dati che Marketo acquisirà](manage-social-profile-data.md) se le persone usano i pulsanti dei social network.
+   >Date un&#39;occhiata a quanto [data Marketo acquisirà](manage-social-profile-data.md) se le persone usano i pulsanti dei social network.
 
 1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
