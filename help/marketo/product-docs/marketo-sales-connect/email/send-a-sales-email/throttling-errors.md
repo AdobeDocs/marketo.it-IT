@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ## Limite file raggiunto {#file-limit-reached}
 
-Se invii tramite il tuo server, il numero di e-mail che puoi inviare contemporaneamente risulterà limitato. Quando invii tramite Sales Connect, hai la possibilità di inviare molti messaggi e-mail, ma cerchiamo di inviarli tutti allo stesso tempo. Se siete consapevoli che il vostro server vi taglierà a 100 e-mail al minuto, dovrete inviare solo fino a 100 e-mail tramite l&#39;applicazione [](http://toutapp.com/login)Web. In caso contrario, le e-mail possono essere inviate qui a causa di una limitazione delle e-mail nel server.
+Se invii tramite il tuo server, il numero di e-mail che puoi inviare contemporaneamente risulterà limitato. Quando invii tramite Sales Connect, hai la possibilità di inviare molti messaggi e-mail, ma cerchiamo di inviarli tutti allo stesso tempo. Se siete consapevoli che il vostro server vi taglierà a 100 e-mail al minuto, dovrete inviare solo fino a 100 e-mail tramite l&#39; [applicazione Web](http://toutapp.com/login). In caso contrario, le e-mail possono essere inviate qui a causa di una limitazione delle e-mail nel server.
 
 ## Errore di autenticazione {#authentication-error}
 
 Ciò significa che non è stato possibile autenticare la connessione al server SMTP. Probabilmente, la password è stata modificata di recente e devi solo autenticare le nuove credenziali.
 
-Per eseguire questa operazione, passare alle impostazioni [SMTP](http://docs.marketo.com/display/docs/assets/external-link-1.jspa) `where you should see the same error message. Update your credentials and hit **Authenticate and Save** to see a confirmation message.`
+A tal fine, passare alle [Impostazioni SMTP](http://docs.marketo.com/display/docs/assets/external-link-1.jspa) `where you should see the same error message. Update your credentials and hit **Authenticate and Save** to see a confirmation message.`
 
 Accedi alle Consegne non riuscite per provare a inviare nuovamente tali e-mail.
