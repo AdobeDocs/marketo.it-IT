@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Duplica un rapporto {#clone-a-report}
+# Duplica un report {#clone-a-report}
 
 Create un duplicato del rapporto per personalizzare ulteriormente il rapporto senza modificare l&#39;originale.
 
-1. Andate all&#39;area **Attività** di marketing (o **Analytics**).
+1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Selezionate il rapporto. Selezionare Azioni **rapporto > Duplica un rapporto**.
+1. Selezionate il rapporto. Selezionare **Azioni report > Duplica un report**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -42,5 +42,5 @@ Create un duplicato del rapporto per personalizzare ulteriormente il rapporto se
    >    * [Filtrare le persone in un report con un elenco avanzato](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   Fai molto di più per personalizzare il tuo rapporto! Consultate Rapporti [di](http://docs.marketo.com/display/docs/basic+reporting)base.
+   Fai molto di più per personalizzare il tuo rapporto! Vedere [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
 
