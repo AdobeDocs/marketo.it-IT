@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sull&#39;analisi delle opportunità in Esplora entrate {#understanding-opportunity-analysis-in-revenue-explorer}
+# Analisi delle opportunità in Esplora entrate {#understanding-opportunity-analysis-in-revenue-explorer}
 
 L&#39;analisi delle opportunità in Esplora entrate consente di esaminare le opportunità a un livello più profondo. Consente di suddividere i dati in base a qualsiasi attributo lead/società, ad esempio origine principale, settore o area geografica. Analizzare la creazione di opportunità e chiudere in base al nome, all’area di visualizzazione o alla probabilità. Scopri i contributi di marketing alla pipeline.
 
-## Esempio di analisi {#example-analysis}
+## Analisi di esempio {#example-analysis}
 
 Di seguito sono riportati alcuni rapporti che potete creare nell&#39;area Analisi opportunità.
 
