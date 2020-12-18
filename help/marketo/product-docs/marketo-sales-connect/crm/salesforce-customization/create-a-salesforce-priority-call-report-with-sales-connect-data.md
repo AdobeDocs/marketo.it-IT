@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creazione di un rapporto sulla chiamata di priorità Salesforce con i dati di connessione delle vendite {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Crea un rapporto sulla chiamata di priorità Salesforce con i dati di connessione delle vendite {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Scopri come creare un elenco di rapporti/chiamate Salesforce utilizzando i dati di coinvolgimento relativi alle e-mail di Sales Connect per concentrarsi sulle persone o sulle opportunità che si presentano con slancio.
 
