@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un collegamento a un’immagine in una pagina di destinazione a forma libera {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# Aggiungere un collegamento a un&#39;immagine in una pagina di destinazione a forma libera {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 Desideri creare un collegamento a un’altra pagina o sito con un’immagine sulla pagina di destinazione? Ecco come.
 
@@ -27,7 +27,7 @@ Desideri creare un collegamento a un’altra pagina o sito con un’immagine sul
 
    ![](assets/click-on-image.png)
 
-1. Espandete il foglio delle **proprietà**.
+1. Espandere la **finestra delle proprietà**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
@@ -35,7 +35,7 @@ Desideri creare un collegamento a un’altra pagina o sito con un’immagine sul
 
    ![](assets/add-link.png)
 
-   Congratulazioni! È stato aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora è possibile [visualizzare in anteprima la pagina](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) per visualizzarla in azione.
+   Congratulazioni! È stato aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora è possibile visualizzare in anteprima la pagina [per visualizzarla in azione.](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 >[!TIP]
 >
