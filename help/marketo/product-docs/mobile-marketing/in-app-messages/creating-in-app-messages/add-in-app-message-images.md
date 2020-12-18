@@ -23,7 +23,7 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    >[!TIP]
    >
-   >Qual è la differenza tra i modelli? Consultate [Scegliere un layout per il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) in-app prima di iniziare.
+   >Qual è la differenza tra i modelli? Consultate [Scegliere un layout per il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) prima di iniziare.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
@@ -31,7 +31,7 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Fate clic su **Seleziona immagine**.
+1. Fare clic su **Seleziona immagine**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
@@ -43,11 +43,11 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
    >
    >Le dimensioni delle immagini sono limitate a 1440 x 2560 px e 5 MB.
 
-1. Cambiate idea e volete usare un&#39;altra immagine? Nessun problema. Fate clic sulla **X** accanto al nome del file immagine.
+1. Cambiate idea e volete usare un&#39;altra immagine? Nessun problema. Fare clic su **X** accanto al nome del file immagine.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Fate clic su **Rimuovi**. Ora, potete sceglierne un altro.
+1. Fare clic su **Rimuovi**. Ora, potete sceglierne un altro.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -55,7 +55,7 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. Se necessario, applicate un bordo immagine. L&#39;impostazione predefinita è **Disattivato**. Innanzitutto, selezionate il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB nel selettore colore.
+1. Se necessario, applicate un bordo immagine. L&#39;impostazione predefinita è **Off**. Innanzitutto, selezionate il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB nel selettore colore.
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -67,7 +67,7 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Selezionare un margine (attivato o disattivato). **On** è l&#39;impostazione predefinita.
+1. Selezionare un margine (attivato o disattivato). **L&#39;impostazione** predefinita è Onis.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +85,9 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    >[!NOTE]
    >
-   >Per le azioni di tocco per immagini, pulsanti o sfondi, potete impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita oppure selezionare **Nessuna**.
+   >Per le azioni di tocco per immagini, pulsanti o sfondi, potete impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita oppure selezionare **None**.
 
-Ottimo lavoro! Ora è il momento di [creare il testo per il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)in-app.
+Ottimo lavoro! Ora è il momento di [creare il testo per il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
