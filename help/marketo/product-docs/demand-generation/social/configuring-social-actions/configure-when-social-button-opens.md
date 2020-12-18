@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Configura all&#39;apertura del pulsante Social {#configure-when-social-button-opens}
+# Configura quando il pulsante Social apre {#configure-when-social-button-opens}
 
-Quando create un pulsante [](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)per social network, potete configurare quando il pulsante presenta il prompt di condivisione.
+Quando create un [pulsante sociale](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), potete configurare quando il pulsante presenta il prompt di condivisione.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma-3.png)
 
@@ -23,7 +23,7 @@ Quando create un pulsante [](../../../../product-docs/demand-generation/landing-
 
    ![](assets/image2014-9-22-16-3a35-3a50.png)
 
-1. Nell&#39;editor delle app per social network, andate a Impostazioni **** app > Opzioni **avanzate.**
+1. Nell&#39;editor delle app per social network, andate a **Impostazioni app** > **Opzioni avanzate.**
 
    ![](assets/image2014-9-22-16-3a36-3a6.png)
 
@@ -31,14 +31,14 @@ Quando create un pulsante [](../../../../product-docs/demand-generation/landing-
 
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
-   * **Al clic:** Quando una persona fa clic sul pulsante del social network.
-   * **Al caricamento della pagina:** Non appena la pagina di destinazione contenente il pulsante per social network viene caricata nel browser di una persona.
-   * **Al passaggio del mouse:** Quando una persona passa il mouse sul pulsante social.
+   * **Al clic:** quando una persona fa clic sul pulsante per social network.
+   * **Al caricamento della pagina:** non appena la pagina di destinazione contenente il pulsante per social network viene caricata nel browser di una persona.
+   * **Al passaggio del mouse:** quando una persona passa il mouse sul pulsante del social network.
 
    >[!NOTE]
    >
    >**Articoli correlati**
    >
    >
-   >Dopo che la persona ha condiviso, potete richiedere il suo indirizzo e-mail o presentare un messaggio di conferma. Scoprite come [configurare i prompt](configure-after-share-prompts.md)di post-condivisione.
+   >Dopo che la persona ha condiviso, potete richiedere il suo indirizzo e-mail o presentare un messaggio di conferma. Scoprite come [configurare i prompt di post-condivisione](configure-after-share-prompts.md).
 
