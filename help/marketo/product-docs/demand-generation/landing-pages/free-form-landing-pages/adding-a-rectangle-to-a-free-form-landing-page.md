@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I rettangoli sulle pagine di destinazione sono particolarmente indicati per evidenziare un’area del testo.
 
-1. Selezionate una pagina di destinazione a forma libera e fate clic su **Modifica** **bozza**.
+1. Selezionare una pagina di destinazione a forma libera e fare clic su **Modifica** **Bozza**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ I rettangoli sulle pagine di destinazione sono particolarmente indicati per evid
    >
    >La finestra di progettazione della pagina di destinazione a forma libera si apre in una nuova finestra.
 
-1. Trascinare sull’elemento **Rettangolo** .
+1. Trascinare sull&#39;elemento **Rettangolo**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Selezionate il rettangolo e utilizzate il **foglio delle proprietà** **Foglio** per apportare le modifiche necessarie.
+1. Selezionare il rettangolo e utilizzare la **Proprietà** **Foglio** per apportare le modifiche necessarie.
 
    >[!TIP]
    >
