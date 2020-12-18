@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Come aggiungere un modello {#how-to-add-a-template}
 
-1. In un nuovo messaggio, fai clic su **Modelli**.
+1. In un nuovo messaggio, fai clic su **Templates**.
 1. Per impostazione predefinita, verranno visualizzati i modelli utilizzati di recente.
 
    >[!TIP]
