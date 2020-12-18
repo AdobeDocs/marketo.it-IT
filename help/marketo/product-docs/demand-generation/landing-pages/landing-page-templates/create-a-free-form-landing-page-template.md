@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Le pagine di destinazione a forma libera richiedono meno conoscenze tecniche rispetto alle controparti guidate. Per creare un modello per le pagine di destinazione future, attenetevi alla procedura riportata di seguito.
 
-1. Andate a **Design Studio**.
+1. Vai a **Design Studio**.
 
    ![](assets/one.png)
 
-1. Fate clic su **Nuovo**, quindi selezionate **Nuovo modello** pagina di destinazione.
+1. Fare clic su **Nuovo**, quindi selezionare **Nuovo modello pagina di destinazione**.
 
    ![](assets/two.png)
 
-1. Scegliete la cartella, quindi assegnate un nome al modello. Il modulo gratuito è la modalità di modifica predefinita; quindi, dopo aver assegnato un nome al modello, fate clic su **Crea**.
+1. Scegliete la cartella, quindi assegnate un nome al modello. Il modulo gratuito è la modalità di modifica predefinita, quindi dopo aver assegnato un nome al modello, fare clic su **Crea**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Le pagine di destinazione a forma libera richiedono meno conoscenze tecniche ris
    >
    >Il supporto di Marketo non è impostato per fornire assistenza nella risoluzione di problemi HTML personalizzati. Per assistenza HTML, consultate uno sviluppatore Web.
 
-1. Dopo aver apportato le modifiche, fai clic su Azioni **** modello, quindi seleziona **Approva e Chiudi**.
+1. Dopo aver apportato le modifiche, fare clic su **Azioni modello**, quindi selezionare **Approva e Chiudi**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ Le pagine di destinazione a forma libera richiedono meno conoscenze tecniche ris
 
    >[!NOTE]
    >
-   >Selezionare **Disattiva tracciamento** Munchkin se si desidera impedire la precompilazione dei moduli, oppure se non si desidera tenere traccia del comportamento Web in una pagina specifica.\
-   >Selezionate **Convalida compatibilità** mobile per assicurarvi che il codice sia compatibile con i dispositivi mobili.
+   >Selezionare **Disabilita monitoraggio Munchkin** se si desidera impedire la precompilazione dei moduli, oppure se non si desidera tenere traccia del comportamento Web in una pagina specifica.\
+   >Selezionate **Convalida compatibilità mobile** per essere certi che il codice sia compatibile con i dispositivi mobili.
 
    >[!NOTE]
    >
