@@ -28,11 +28,11 @@ Utilizzate gli elenchi avanzati per filtrare i rapporti in base ad attributi di 
 * [Attività Web società](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Attività pagina Web](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda Elenco **** avanzato.
+1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Smart List**.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +44,7 @@ Utilizzate gli elenchi avanzati per filtrare i rapporti in base ad attributi di 
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Fai clic sulla scheda **Rapporto** per visualizzare il rapporto filtrato.
+1. Fare clic sulla scheda **Report** per visualizzare il rapporto filtrato.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
@@ -55,5 +55,5 @@ Utilizzate gli elenchi avanzati per filtrare i rapporti in base ad attributi di 
    >**Tubo profondo**
    >
    >
-   >Per ulteriori modi di utilizzare i rapporti, consulta [Informazioni](http://docs.marketo.com/display/docs/basic+reporting) approfondite di base.
+   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
