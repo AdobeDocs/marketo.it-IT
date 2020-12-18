@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l’iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano contenuti predittivi, Marketo attiva le funzioni di analisi dei contenuti`<sup>AI</sup>` fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento al contenuto`<sup>AI</sup>`di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 La pagina Tutto il contenuto visualizza tutto il contenuto che è stato scoperto o aggiunto manualmente.   ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -30,11 +30,11 @@ I campi della pagina includono:
 
 Potete aggiungere una nuova parte di contenuto e tenerne traccia, rimuovere una parte di contenuto o approvare una parte di contenuto. Dopo aver approvato il contenuto, potete modificarlo nella pagina Predictive Content (Contenuto predittivo).
 
-## Filtra contenuto per categorie  {#filter-content-by-categories}
+## Filtra contenuto per categorie {#filter-content-by-categories}
 
 Filtrare il contenuto selezionando una o più categorie. Quindi, configurate l&#39;intervallo di date o date per l&#39;analisi dei contenuti, utilizzando le impostazioni standard o personalizzate.
 
-1. Nella pagina **Tutto il contenuto** , fate clic sull&#39;icona del filtro e, in **Categoria**, selezionate una o più categorie di contenuto.
+1. Nella pagina **All Content** (Tutti i contenuti), fate clic sull&#39;icona del filtro e, in **Category**, selezionate una o più categorie di contenuto.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -44,7 +44,7 @@ Filtrare il contenuto selezionando una o più categorie. Quindi, configurate l&#
 
 ## Visualizza analisi per un intervallo di date o date {#display-analytics-for-a-date-or-date-range}
 
-1. Per visualizzare i dati per una data o un intervallo di date specifico, fai clic sull&#39;icona del calendario, quindi seleziona il calendario dal pannello a sinistra. Per un intervallo di date personalizzato, fai clic sul primo e sull&#39;ultimo giorno dell&#39;intervallo di date nel calendario (come mostrato). Fate clic su **Applica**.
+1. Per visualizzare i dati per una data o un intervallo di date specifico, fai clic sull&#39;icona del calendario, quindi seleziona il calendario dal pannello a sinistra. Per un intervallo di date personalizzato, fai clic sul primo e sull&#39;ultimo giorno dell&#39;intervallo di date nel calendario (come mostrato). Fare clic su **Applica**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
