@@ -19,15 +19,15 @@ Per ogni modello del ciclo di ricavi, puoi generare un rapporto sul numero di le
 >
 >I lead devono essere membri del modello da includere nel rapporto.
 
-1. Vai ad **Analytics**.
+1. Vai a **Analytics**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Fate clic su **Lead per fase** ricavi.
+1. Fare clic su **Lead per fase ricavi**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Fare clic sulla scheda **Configurazione** , quindi, sotto la sezione del filtro, fare doppio clic su Modello **ciclo** ricavi.
+1. Fare clic sulla scheda **Setup**, quindi fare doppio clic su **Revenue Cycle Model** sotto la sezione del filtro.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
@@ -39,7 +39,7 @@ Per ogni modello del ciclo di ricavi, puoi generare un rapporto sul numero di le
    >
    >Per essere disponibile da questo menu a discesa, il modello deve essere approvato, o almeno avere fasi approvate.
 
-1. Fare clic sulla scheda **Rapporto** per vedere quanti lead si trovano in ogni fase del modello del ciclo delle entrate.
+1. Fare clic sulla scheda **Report** per vedere quanti lead si trovano in ogni fase del modello del ciclo di ricavi.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
