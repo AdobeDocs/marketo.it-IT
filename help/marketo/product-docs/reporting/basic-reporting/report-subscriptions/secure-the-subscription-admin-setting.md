@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Un amministratore può scegliere di effettuare il login per visualizzare un rapporto.
 
-1. Fate clic su **Admin**, quindi su **Login Settings (Impostazioni** di accesso).
+1. Fare clic su **Admin**, quindi su **Impostazioni di accesso**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Fate clic su **Modifica** per le impostazioni dei rapporti Elenco avanzato.
+1. Fate clic su **Modifica** per le impostazioni dei rapporti degli elenchi avanzati.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Selezionate **Sì** per richiedere un login per scaricare i rapporti.
+1. Selezionare **Sì** per richiedere un login per scaricare i rapporti.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 
