@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Invio di e-mail tramite e-mail di gruppo {#sending-emails-via-group-email}
+# Invio di e-mail tramite posta elettronica di gruppo {#sending-emails-via-group-email}
 
 Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opzione Raggruppa e-mail.
 
-## Invio di un messaggio e-mail di gruppo {#sending-a-group-email}
+## Invio di un&#39;e-mail di gruppo {#sending-a-group-email}
 
-1. Fate clic sulla scheda **Persone** .
+1. Fare clic sulla scheda **Persone**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
    ![](assets/two-3.png)
 
-1. Fate clic sul pulsante Azioni gruppo e selezionate Gruppo **e-** mail.
+1. Fate clic sul pulsante Azioni gruppo e selezionate **Gruppo e-mail**.
 
    ![](assets/three-3.png)
 
@@ -33,9 +33,9 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
    ![](assets/four-3.png)
 
-## Modifica di un messaggio e-mail di gruppo {#editing-a-group-email}
+## Modifica di un&#39;e-mail di gruppo {#editing-a-group-email}
 
-1. Create un&#39;e-mail di gruppo utilizzando i [passaggi da 1 a 3 indicati sopra](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Create un&#39;e-mail di gruppo utilizzando i [Passaggi da 1 a 3 sopra](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
 1. Scegliete un modello o compilate il messaggio e-mail.
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
    ![](assets/edit-four.png)
 
-1. Fate clic su **Anteprima campi** dinamici e visualizzate l’anteprima a destra.
+1. Fare clic su **Anteprima campi dinamici** e visualizzare l&#39;anteprima a destra.
 
    ![](assets/edit-five.png)
 
