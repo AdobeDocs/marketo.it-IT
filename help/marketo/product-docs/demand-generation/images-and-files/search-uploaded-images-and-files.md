@@ -23,13 +23,13 @@ In Marketo, trovare immagini e file è un gioco da ragazzi.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. Nella casella **Ricerca** rapida, in fondo alla schermata, digitare il nome del file che si sta cercando e fare clic su **Invio**.
+1. Nella casella **Ricerca rapida** in fondo allo schermo, digitare il nome del file che si sta cercando e fare clic su **Invio**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Per avviare una nuova ricerca, fare clic sulla **x** nella casella **Ricerca** rapida **trovare** .
+>Per avviare una nuova ricerca, fare clic sulla **x** nella casella **Quick** **Find**.
 
 Alzate i piedi - avete finito!
 
