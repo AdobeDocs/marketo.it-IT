@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Aggiunta di testo di suggerimento a un campo modulo {#add-hint-text-to-a-form-field}
 
-Suggerimenti e [istruzioni](add-tooltip-instructions-to-a-form-field.md) per compilare i moduli. Ecco come aggiungere un suggerimento.
+Suggerimenti e [istruzioni](add-tooltip-instructions-to-a-form-field.md) per consentire agli utenti di compilare i moduli. Ecco come aggiungere un suggerimento.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->I **suggerimenti** modulo sono testo all’interno del campo che scompare quando il visitatore inizia a digitare nel campo.
+>Il modulo **Suggerimenti** è testo all&#39;interno del campo che scompare quando il visitatore inizia a digitare nel campo.
 >
->Le **istruzioni** per i moduli sono piccole descrizioni comandi che vengono visualizzate quando il visitatore passa il mouse sul campo.
+>Le **Istruzioni** del modulo sono piccole descrizioni comandi che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Selezionate il campo e immettete il **testo per i suggerimenti** **Testo**.
+1. Selezionare il campo e inserire il **Suggerimento** **Testo**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -39,7 +39,7 @@ Suggerimenti e [istruzioni](add-tooltip-instructions-to-a-form-field.md) per com
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
@@ -48,11 +48,11 @@ Suggerimenti e [istruzioni](add-tooltip-instructions-to-a-form-field.md) per com
    >**Promemoria**
    >
    >
-   >Non dimenticare di [approvare la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) della pagina di destinazione creata dalle modifiche al modulo.
+   >Non dimenticare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Guardate! Andiamo avanti e aggiungiamo qualche [istruzione](add-tooltip-instructions-to-a-form-field.md) .
+Guardate! Andiamo avanti e aggiungiamo alcune [istruzioni](add-tooltip-instructions-to-a-form-field.md) ora.
 
 >[!MORELIKETHIS]
 >
