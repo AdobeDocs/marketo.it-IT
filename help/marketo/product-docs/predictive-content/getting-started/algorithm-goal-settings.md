@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Impostazioni obiettivo algoritmo {#algorithm-goal-settings}
+# Impostazioni degli obiettivi dell&#39;algoritmo {#algorithm-goal-settings}
 
 Le Impostazioni degli obiettivi dell&#39;algoritmo consentono di impostare l&#39;obiettivo finale dell&#39;algoritmo di intelligenza artificiale Predictive Content in modo da allinearlo con gli obiettivi aziendali.
 
-1. In Predictive Content (Contenuto predittivo), fate clic sul nome di accesso e selezionate **Content Settings (Impostazioni** contenuto).
+1. In Predictive Content (Contenuto predittivo), fate clic sul nome di accesso e selezionate **Content Settings** (Impostazioni contenuto).
 
    ![](assets/1.png)
 
-1. In Impostazioni contenuto, selezionate **Algoritmo**.
+1. In Impostazioni contenuto, selezionate **Algorithm**.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ Le Impostazioni degli obiettivi dell&#39;algoritmo consentono di impostare l&#39
    |---|---|
    | **`Conversions`** | Visualizza il contenuto con la probabilità che la persona che visualizza il contenuto invii un modulo |
 
-1. Al termine, fate clic su **Salva** .
+1. Fare clic su **Salva** al termine.
 
    ![](assets/four.png)
 
