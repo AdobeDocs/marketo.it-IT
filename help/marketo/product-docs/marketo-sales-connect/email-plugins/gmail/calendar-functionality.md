@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Funzionalità calendario {#calendar-functionality}
 
-Informare i destinatari della disponibilità premendo il pulsante **Calendario** . Richiama il tuo calendario Google e ti permette di aggiungere date e ore specifiche che sei libero, e il destinatario può rispondere con un&#39;ora che funziona per loro.
+Informare i destinatari della disponibilità premendo il pulsante **Calendar**. Richiama il tuo calendario Google e ti permette di aggiungere date e ore specifiche che sei libero, e il destinatario può rispondere con un&#39;ora che funziona per loro.
