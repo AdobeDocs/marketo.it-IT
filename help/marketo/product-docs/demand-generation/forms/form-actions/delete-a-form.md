@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Eliminazione di un modulo {#delete-a-form}
+# Eliminare un modulo {#delete-a-form}
 
 Se si dispone di un modulo non necessario e non utilizzato, è possibile eliminarlo. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. In **Azioni** modulo **fare clic su** Elimina **** modulo ****.
+1. In **Form** **Actions** fare clic su **Elimina** **Form**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -34,7 +34,7 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
    >
    >Ricordare di rimuovere il modulo da una o tutte le pagine di destinazione che lo utilizzano. Inoltre, verificare che il modulo non sia utilizzato in un sito Web pubblico.
 
-1. Per confermare, fate clic su **Elimina**.
+1. Confermare facendo clic su **Elimina**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -44,5 +44,5 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
 
 >[!CAUTION]
 >
->Se si elimina un modulo utilizzato dal sito Web pubblico, non verrà visualizzato alcun avviso e il modulo verrà interrotto. Considerare [l&#39;archiviazione](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) .
+>Se si elimina un modulo utilizzato dal sito Web pubblico, non verrà visualizzato alcun avviso e il modulo verrà interrotto. Analizzare [l&#39;archiviazione](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
