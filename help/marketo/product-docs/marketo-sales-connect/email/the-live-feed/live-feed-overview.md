@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il Feed dal vivo è una finestra mobile che può essere avviata dall&#39;applicazione Web o dal plug-in Gmail e offre un&#39;analisi in tempo reale del potenziale di coinvolgimento.
 
-## Scheda Partecipazione {#engagement-tab}
+## Scheda Engagement {#engagement-tab}
 
 ![](assets/engagement.jpg)
 
@@ -46,7 +46,7 @@ Controlla rapidamente l&#39;elenco da fare direttamente da Live Feed.
 
 Creare nuove attività o gestire attività aperte.
 
-Filtrate oggi, domani, oggi *e* domani, o i prossimi 7 giorni.
+Filtrare oggi, domani, oggi *e* domani o nei prossimi 7 giorni.
 
 >[!NOTE]
 >
@@ -75,28 +75,28 @@ Visualizzare le persone migliori (ordinate dal più alto al più basso) classifi
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Qualcuno ha visualizzato il messaggio e-mail</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Qualcuno ha fatto clic su un collegamento nel messaggio e-mail</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Qualcuno ha risposto alla vostra e-mail</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">Qualsiasi notifica elencata in Momenti interessanti, inclusi E-mail, Web e pietre miliari</td> 
   </tr> 
