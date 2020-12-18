@@ -14,11 +14,11 @@ ht-degree: 0%
 # Utilizzo di HTML {#using-html}
 
 1. Copiate il codice sorgente dalle e-mail nello strumento che usate per creare e-mail in HTML (ad esempio, Editor e-mail di Marketo)
-1. Fate clic sul pulsante **Sorgente** nell’editor modelli.
+1. Fate clic sul pulsante **Source** nell&#39;editor modelli.
 1. Incollate il codice sorgente.
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
 >[!NOTE]
 >
->Se viene visualizzato l&#39;errore &quot;Errore - per rimuovere i tag style/java/html&quot;, significa che hai uno stile che non siamo in grado di supportare. È necessario cercare nel codice sorgente lo stile della parola ed eliminare tutto da `<style>` attraverso `</style>`.
+>Se viene visualizzato l&#39;errore &quot;Errore - per rimuovere i tag style/java/html&quot;, significa che hai uno stile che non siamo in grado di supportare. È necessario cercare il codice sorgente per lo stile della parola ed eliminare tutto da `<style>` a `</style>`.
 
