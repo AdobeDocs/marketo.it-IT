@@ -17,12 +17,12 @@ Consentiamo di personalizzare i modelli delle e-mail con attributi predefiniti c
 
 >[!TIP]
 >
->I campi &quot;first_name&quot; e &quot;company&quot; sono i `only fields that will look to both Sales Connect and Salesforce.` Che significa che se un contatto non esiste nell’applicazione [](http://toutapp.com/login)Web, in Salesforce verifichiamo se è possibile trovare un contatto/lead record con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
+>I campi &quot;first_name&quot; e &quot;company&quot; sono i `only fields that will look to both Sales Connect and Salesforce.`. Ciò significa che se un contatto non esiste nell&#39; [applicazione Web](http://toutapp.com/login), in Salesforce verifichiamo se è possibile trovare un contatto/record lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
 
 ## Inserire un campo dinamico in un modello {#insert-a-dynamic-field-into-a-template}
 
 1. In **Modelli e campagne**, individua il modello da modificare e fai clic su **Modifica modello**.
-1. Fare clic su **Tout Dynamic Fields**.
+1. Fare clic su **Campi dinamici Tout**.
 
    >[!NOTE]
    >
@@ -30,6 +30,6 @@ Consentiamo di personalizzare i modelli delle e-mail con attributi predefiniti c
 
 Se invii tramite e-mail contatti esistenti in Salesforce, puoi sfruttare i campi dinamici di Salesforce. Tutto questo inizia con &quot;sfdc&quot;. Se hai una connessione a Salesforce, questi campi richiederanno direttamente al lead/contatto di Salesforce per compilare le informazioni nel modello.
 
-## Inserimento di campi dinamici in una riga oggetto {#insert-dynamic-fields-in-a-subject-line}
+## Inserisci campi dinamici in una riga oggetto {#insert-dynamic-fields-in-a-subject-line}
 
 È sufficiente copiarli e incollarli manualmente nel campo oggetto di un messaggio e-mail, avendo cura di avere la corretta formattazione.
