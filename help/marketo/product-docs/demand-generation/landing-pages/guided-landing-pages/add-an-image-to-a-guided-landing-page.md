@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un’immagine a una pagina di destinazione guidata {#add-an-image-to-a-guided-landing-page}
+# Aggiungere un&#39;immagine a una pagina di destinazione guidata {#add-an-image-to-a-guided-landing-page}
 
 A differenza delle pagine di destinazione a forma libera, le pagine di destinazione guidate dispongono di spazi bloccati predefiniti in cui è possibile aggiungere immagini.
 
-1. Selezionate una pagina di destinazione guidata. Fate clic su **Modifica bozza**.
+1. Selezionate una pagina di destinazione guidata. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ A differenza delle pagine di destinazione a forma libera, le pagine di destinazi
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. Selezionate l’immagine desiderata e fate clic su **Inserisci**.
+1. Selezionare l&#39;immagine desiderata e fare clic su **Inserisci**.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +31,7 @@ A differenza delle pagine di destinazione a forma libera, le pagine di destinazi
 
    >[!NOTE]
    >
-   >La modalità di ridimensionamento dell’immagine dipende dal modello. Ulteriori informazioni sui modelli [delle pagine di destinazione](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)guidati.
+   >La modalità di ridimensionamento dell’immagine dipende dal modello. Ulteriori informazioni su [Modelli per pagina di destinazione guidati](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
