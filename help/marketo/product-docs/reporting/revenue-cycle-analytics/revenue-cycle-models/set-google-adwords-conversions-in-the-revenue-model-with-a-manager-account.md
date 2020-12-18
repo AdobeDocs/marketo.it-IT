@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Imposta conversioni Google AdWords nel modello delle entrate con un account manager {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
+# Imposta conversioni Google AdWords nel modello Revenue con un account Manager {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall&#39;interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di fatturato desideri monitorare) dopo aver [aggiunto colonne](https://support.google.com/adwords/answer/3073556) personalizzate in AdWords.
+Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall&#39;interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di fatturato desideri monitorare) dopo che hai [aggiunto colonne personalizzate](https://support.google.com/adwords/answer/3073556) in AdWords.
 
-Se disponete di più account Google Adwords, potete utilizzare un account [](https://www.google.com/adwords/manager-accounts/) Google AdWords Manager (precedentemente denominato My Client Center) per integrarli con Marketo.
+Se disponete di più account Google Adwords, potete utilizzare un [account Google AdWords Manager](https://www.google.com/adwords/manager-accounts/) (precedentemente denominato My Client Center) per integrarli con Marketo.
 
 È possibile mappare le conversioni offline di AdWords su uno o più stadi in un modello Revenue. Esistono due modi:
 
@@ -38,11 +38,11 @@ Mappare una conversione AdWords in Azioni fase.
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. Nel menu a discesa Azioni **** fase, selezionare **Imposta conversione** AdWords.
+1. Nel menu a discesa **Azioni fase**, selezionare **Imposta conversione AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Impostate una conversione **** AdWords.
+1. Impostare una **Conversione AdWords**.
 
    >[!NOTE]
    >
@@ -54,11 +54,11 @@ Mappare una conversione AdWords in Azioni fase.
 
    ![](assets/image2015-3-27-17-3a18-3a58.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2015-3-27-17-3a21-3a15.png)
 
-1. Dopo aver mappato tutte le conversioni AdWords alle fasi ricavo, torna alla pagina di riepilogo. Selezionare Azioni **** modello e scegliere **Approva fasi**.
+1. Dopo aver mappato tutte le conversioni AdWords alle fasi ricavo, torna alla pagina di riepilogo. Selezionare **Azioni modello** e scegliere **Approva fasi**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
@@ -70,7 +70,7 @@ Suggerimento Pro! Da Marketo è possibile creare una nuova conversione offline A
 >
 >Nuove conversioni create da Marketo con l&#39;impostazione &quot;ottimizzazione&quot; abilitata. Ciò significa che le strategie di offerta AdWords possono ottimizzare le offerte per tali conversioni. Puoi modificare questa impostazione dal tuo account AdWords.
 
-1. Nel menu a discesa Azioni **** fase, selezionare **Imposta conversione** AdWords.
+1. Nel menu a discesa **Azioni fase**, selezionare **Imposta conversione AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
@@ -80,7 +80,7 @@ Suggerimento Pro! Da Marketo è possibile creare una nuova conversione offline A
 
    **
 
-1. Immettere un nome **** conversione. Fate clic su **Salva**.
+1. Immettere un **Nome conversione**. Fare clic su **Salva**.
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 
@@ -90,20 +90,20 @@ Suggerimento Pro! Da Marketo è possibile creare una nuova conversione offline A
 
 Puoi associare tutte le fasi del modello alla conversione AdWords in un&#39;unica posizione utilizzando le mappature AdWords.
 
-1. Selezionate **Modifica mappature AdWords**.
+1. Selezionare **Modifica mappature AdWords**.
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. Selezionate l&#39;account **** AdWords desiderato e la conversione **** AdWords desiderata per ogni fase da monitorare.
+1. Selezionare l&#39;account **AdWords** desiderato e **Conversione AdWords** per ogni fase da monitorare.
 
    ![](assets/image2015-3-27-17-3a30-3a15.png)
 
-1. Dopo aver mappato le fasi, fate clic su **Salva**.
+1. Dopo aver mappato le fasi, fare clic su **Salva**.
 
    ![](assets/image2015-3-27-17-3a30-3a48.png)
 
-1. Dopo aver mappato tutte le conversioni AdWords alle fasi ricavo, torna alla pagina di riepilogo. Selezionare Azioni **** modello e scegliere **Approva fasi**.
+1. Dopo aver mappato tutte le conversioni AdWords alle fasi ricavo, torna alla pagina di riepilogo. Selezionare **Azioni modello** e scegliere **Approva fasi**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Per visualizzare i dati di conversione offline, dovrai accedere al tuo account AdWords. È consigliabile utilizzare la funzione [Colonne](https://support.google.com/adwords/answer/3073556) personalizzate per creare le colonne del conteggio di conversione per ogni conversione offline importata da Marketo.
+Per visualizzare i dati di conversione offline, dovrai accedere al tuo account AdWords. È consigliabile utilizzare la funzione [Colonne personalizzate](https://support.google.com/adwords/answer/3073556) per creare le colonne del conteggio di conversione per ogni conversione offline importata da Marketo.
