@@ -25,7 +25,7 @@ ht-degree: 0%
 
 `<iframe width="630" height="470" src="//play.vidyard.com/FwDFo9H3gciM6oDCWZw74B.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
-## Installazione di personalizzazioni in Salesforce {#installing-customizations-in-salesforce}
+## Installazione delle personalizzazioni in Salesforce {#installing-customizations-in-salesforce}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
