@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile {#build-a-people-performance-report-with-mobile-platform-columns}
+# Creare un report sulle prestazioni delle persone con le colonne della piattaforma mobile {#build-a-people-performance-report-with-mobile-platform-columns}
 
 Per creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile (iOS/Android), effettuate le seguenti operazioni.
 
-## Creare elenchi smart per dispositivi mobili {#create-mobile-smart-lists}
+## Creazione di elenchi smart per dispositivi mobili {#create-mobile-smart-lists}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
@@ -25,15 +25,15 @@ Per creare un rapporto sulle prestazioni delle persone con le colonne della piat
 
    ![](assets/two-1.png)
 
-1. In **Nuovo**, selezionate **Nuova risorsa** locale.
+1. In **Nuova**, selezionare **Nuova risorsa locale**.
 
    ![](assets/three-1.png)
 
-1. Fate clic su **Smart List**.
+1. Fare clic su **Smart List**.
 
    ![](assets/four-1.png)
 
-1. Digitate un nome e fate clic su **Crea**.
+1. Digitare un nome e fare clic su **Crea**.
 
    ![](assets/five-1.png)
 
@@ -41,11 +41,11 @@ Per creare un rapporto sulle prestazioni delle persone con le colonne della piat
 
    ![](assets/six-1.png)
 
-1. Impostate E-mail su **qualsiasi**.
+1. Impostate E-mail su **è qualsiasi**.
 
    ![](assets/seven.png)
 
-1. Fate clic su **Aggiungi vincolo** e selezionate **Piattaforma**.
+1. Fare clic su **Aggiungi vincolo** e selezionare **Piattaforma**.
 
    ![](assets/eight.png)
 
@@ -63,33 +63,33 @@ Per creare un rapporto sulle prestazioni delle persone con le colonne della piat
 
    Ora create un secondo elenco avanzato per la piattaforma &quot;Android&quot;. Una volta fatto, passate alla sezione successiva.
 
-## Creare un rapporto sulle prestazioni delle persone {#create-a-people-performance-report}
+## Creare un report sulle prestazioni delle persone {#create-a-people-performance-report}
 
-1. In Attività di marketing, selezionate il programma che ospita gli elenchi smart di **iOS** e **Android** .
+1. In Attività di marketing, selezionate il programma che contiene gli elenchi smart **iOS** e **Android**.
 
    ![](assets/ten.png)
 
-1. In **Nuovo**, selezionate **Nuova risorsa** locale.
+1. In **Nuova**, selezionare **Nuova risorsa locale**.
 
    ![](assets/eleven.png)
 
-1. Fate clic su **Rapporto**.
+1. Fare clic su **Report**.
 
    ![](assets/twelve.png)
 
-1. Impostate Tipo su Prestazioni **** persone.
+1. Impostate Tipo su **Prestazioni persone**.
 
    ![](assets/thirteen.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/fourteen.png)
 
    Stai andando alla grande! Passiamo ora alla sezione successiva.
 
-## Aggiungi Smart List Mobile come colonne {#add-mobile-smart-lists-as-columns}
+## Aggiungi elenchi smart mobili come colonne {#add-mobile-smart-lists-as-columns}
 
-1. Nel rapporto appena creato, fate clic su **Configurazione**, quindi trascinate Colonne **** personalizzate nel quadro.
+1. Nel rapporto appena creato, fare clic su **Setup**, quindi trascinare **Colonne personalizzate** nell&#39;area di lavoro.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Per creare un rapporto sulle prestazioni delle persone con le colonne della piat
    >
    >Per impostazione predefinita, il rapporto Prestazioni persone sta esaminando gli ultimi 7 giorni. Potete modificare il periodo di tempo facendo doppio clic su di esso.
 
-1. Individuate e selezionate gli elenchi smart creati in precedenza e fate clic su **Applica**.
+1. Trovate e selezionate gli elenchi smart creati in precedenza e fate clic su **Applica**.
 
    ![](assets/sixteen.png)
 
-1. Fai clic su **Rapporto** per eseguire il rapporto e visualizzare i dati.
+1. Fare clic su **Report** per eseguire il rapporto e visualizzare i dati.
 
    ![](assets/seventeen.png)
 
