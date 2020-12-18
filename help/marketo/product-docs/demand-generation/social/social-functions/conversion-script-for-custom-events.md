@@ -17,11 +17,11 @@ Definite l&#39;obiettivo di evasione quando create un&#39;offerta di riferimento
 
 ## Recuperare lo script di conversione {#retrieve-the-conversion-script}
 
-1. Nell&#39;editor delle offerte di riferimento, fate clic su Dettagli **** offerta, quindi selezionate Evento **JavaScript** cliente dal menu a discesa dell&#39;obiettivo di evasione.
+1. Nell&#39;editor delle offerte di riferimento, fate clic su **Dettagli offerta**, quindi selezionate **Evento JavaScript cliente** dal menu a discesa dell&#39;obiettivo di evasione.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copiate lo script superiore nella casella grigia e inseritelo nella pagina Web all’interno dei `<body>` tag. Lo script inferiore viene posizionato all&#39;interno dei `<header>` tag.
+1. Copiate lo script superiore nella casella grigia e inseritelo nella pagina Web all&#39;interno dei tag `<body>`. Lo script inferiore viene posizionato all&#39;interno dei tag `<header>`.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -32,13 +32,13 @@ Definite l&#39;obiettivo di evasione quando create un&#39;offerta di riferimento
    >
    >Ricordate di copiare e incollare entrambi gli script se si trovano su un sito Web non Marketo.
 
-## Recuperare lo script Loader {#retrieve-the-loader-script}
+## Recuperare lo script di caricamento {#retrieve-the-loader-script}
 
-1. Selezionate l&#39;offerta di riferimento dalla struttura, quindi fate clic su Azioni **offerta di** riferimento e codice **da** incorporare.
+1. Selezionate l&#39;offerta di riferimento dalla struttura, quindi fate clic su **Azioni offerta di riferimento** e **Incorpora codice**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Fare clic con il pulsante destro del mouse sul codice **di** intestazione e inserirlo nell&#39;intestazione della pagina Web. Quindi, effettuate la stessa operazione per il **codice** del corpo.
+1. Fare clic con il pulsante destro del mouse sul **Codice intestazione** e inserirlo nell&#39;intestazione della pagina Web. Quindi eseguire le stesse operazioni per il **Codice del corpo**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
