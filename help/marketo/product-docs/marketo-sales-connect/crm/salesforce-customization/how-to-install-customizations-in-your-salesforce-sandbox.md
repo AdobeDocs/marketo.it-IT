@@ -21,17 +21,17 @@ ht-degree: 0%
 >
 >[Connetti alle vendite per la sandbox Salesforce](http://docs.marketo.com/x/DYDq)
 
-1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio in alto a destra e selezionate **Impostazioni**.
+1. In Sales Connect, fate clic sull&#39;icona dell&#39;ingranaggio in alto a destra e selezionate **Settings**.
 
    ![](assets/one-3.png)
 
-1. In Impostazioni amministratore, fai clic su **Salesforce.**
+1. In Impostazioni amministratore fare clic su **Salesforce.**
 
    ![](assets/two-3.png)
 
-1. Fate clic su **Installa personalizzazioni**.
+1. Fare clic su **Installa personalizzazioni**.
 
    ![](assets/three-3.png)
 
-   Segui semplicemente i passaggi necessari per installare la personalizzazione come faresti con un normale account Salesforce. Per ulteriori informazioni, passate al punto di un minuto di [questo video](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) .
+   Segui semplicemente i passaggi necessari per installare la personalizzazione come faresti con un normale account Salesforce. Per ulteriori informazioni, passate al punto di un minuto di [questo video](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce).
 
