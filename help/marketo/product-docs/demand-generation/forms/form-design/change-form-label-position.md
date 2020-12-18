@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Modifica posizione etichetta modulo {#change-form-label-position}
 
-Quando si [crea un modulo](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), è possibile modificare molto facilmente il posizionamento delle etichette dei campi del modulo. Ecco come.
+Quando si crea un modulo [è possibile modificare molto facilmente il posizionamento delle etichette dei campi del modulo. ](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Selezionate **Impostazioni**.
+1. Selezionare **Settings**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selezionate la **Posizione** etichetta **** desiderata.
+1. Selezionare la **Label** **Position** desiderata.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -40,7 +40,7 @@ Quando si [crea un modulo](../../../../product-docs/demand-generation/forms/crea
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    >[!NOTE]
    >
