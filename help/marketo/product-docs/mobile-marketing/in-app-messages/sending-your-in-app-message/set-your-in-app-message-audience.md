@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Imposta l&#39;audience dei messaggi in-app {#set-your-in-app-message-audience}
+# Imposta il pubblico dei messaggi in-app {#set-your-in-app-message-audience}
 
 Il primo passaggio consiste nel decidere chi deve ricevere il messaggio in-app. È necessario impostare l&#39;elenco smart.
 
-1. Fate clic su **Modifica elenco** avanzato.
+1. Fare clic su **Edit Smart List**.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
@@ -27,19 +27,19 @@ Il primo passaggio consiste nel decidere chi deve ricevere il messaggio in-app. 
    >
    >Più valori per il campo App mobile non sono attualmente supportati per i programmi di messaggi in-app.
 
-1. **App Open** è l&#39;impostazione predefinita Azione, ma potete selezionare qualsiasi evento personalizzato già configurato.
+1. **App** Openes è l&#39;impostazione predefinita Azione, ma potete selezionare qualsiasi evento personalizzato già configurato.
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
    >[!NOTE]
    >
-   >L&#39;attivatore predefinito (App Open) ed eventuali attivatori personalizzati aggiunti al codice dallo sviluppatore vengono visualizzati automaticamente nel selettore Azione. Se manca un evento personalizzato, rivolgetevi al vostro sviluppatore per assicurarvi che abbia aggiunto gli eventi personalizzati all&#39;app. Tenete presente che la codifica e il processo di approvazione dell&#39;evento personalizzato potrebbero richiedere del tempo per il completamento. Consultate [questo articolo](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) per ulteriori informazioni.
+   >L&#39;attivatore predefinito (App Open) ed eventuali attivatori personalizzati aggiunti al codice dallo sviluppatore vengono visualizzati automaticamente nel selettore Azione. Se manca un evento personalizzato, rivolgetevi al vostro sviluppatore per assicurarvi che abbia aggiunto gli eventi personalizzati all&#39;app. Tenete presente che la codifica e il processo di approvazione dell&#39;evento personalizzato potrebbero richiedere del tempo per il completamento. Per ulteriori informazioni, vedere [questo articolo](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
-1. Sono disponibili vincoli per l&#39;attivatore **Con attività** app mobile, se necessario.
+1. Sono disponibili vincoli per il trigger **Con attività app mobile** se necessario.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. Puoi aggiungere filtri all&#39;elenco smart per limitare la ricezione del messaggio in-app da parte degli utenti. In questo esempio, utilizzando il filtro Data **** acquisizione, solo le persone acquisite il 9 giugno 2016 riceveranno il messaggio in-app.
+1. Puoi aggiungere filtri all&#39;elenco smart per limitare la ricezione del messaggio in-app da parte degli utenti. In questo esempio, utilizzando il filtro **Data acquisizione**, solo le persone acquisite il 9 giugno 2016 verranno inviate al messaggio in-app.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +49,10 @@ Il primo passaggio consiste nel decidere chi deve ricevere il messaggio in-app. 
 
    >[!NOTE]
    >
-   >Il limite di visualizzazione predefinito è **Una volta per sessione**. Se vuoi che il messaggio smetta di essere visualizzato dopo che il destinatario ha risposto, seleziona **Ogni volta fino a quando non viene toccato**. Se deve essere visualizzato ogni volta, indipendentemente da cosa fa il destinatario, scegliere **Ogni volta**.
+   >Il limite di visualizzazione predefinito è **Una volta per sessione**. Se si desidera che il messaggio smetta di essere visualizzato dopo che il destinatario ha risposto, selezionare **Ogni volta che non è stato toccato**. Se deve essere visualizzato ogni volta, indipendentemente da cosa fa il destinatario, scegliere **Ogni volta**.
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 Bel lavoro! Hai il tuo pubblico impostato. Hai guadagnato la barra blu e il segno di spunta verde.
 
-È ora di [selezionare il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)in-app!
+Tempo per [selezionare il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
