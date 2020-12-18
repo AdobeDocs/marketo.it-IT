@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Installazione del componente aggiuntivo e-mail di Marketo per Outlook con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installare il componente aggiuntivo e-mail di Marketo per Outlook con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Se gli utenti possono accedere alle impostazioni dell&#39;amministratore sui propri computer portatili, potete inviare loro direttamente un codice di registrazione.
 
@@ -19,15 +19,15 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
 
 >[!PREREQUISITES]
 >
->* È necessario [che venga rilasciata una licenza](issue-a-marketo-email-add-in-license.md)del componente aggiuntivo e-mail Marketo.
+>* È necessario essere [rilasciati un Marketo Email Add-in License](issue-a-marketo-email-add-in-license.md).
 
 >
 
 
 
-## Download del programma {#download-installer}
+## Download del programma di installazione {#download-installer}
 
-1. Identificazione della versione di [Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identificare la [versione di Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Fate clic sul collegamento per scaricare il programma di installazione appropriato per la versione in uso di Microsoft Outlook.
 
    >[!NOTE]
@@ -57,7 +57,7 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## Installazione {#install}
+## Installazione di {#install}
 
 1. Eseguite il programma di installazione.
 
@@ -65,13 +65,13 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
 
    >[!NOTE]
    >
-   >Se ricevi un avviso di sicurezza, non preoccuparti! Fai clic su **Esegui**.
+   >Se ricevi un avviso di sicurezza, non preoccuparti! Basta fare clic su **Esegui**.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Compila **Nome**, **Cognome**, Indirizzo **e-mail, quindi copia e incolla il codice **Registrazione **dall&#39;e-mail nel modulo e fai clic su** Avanti ****.
+1. Compila **Nome**, **Cognome**, **Indirizzo e-mail**, quindi copia e incolla il codice **Registrazione **dall&#39;e-mail nel modulo e fai clic su **Avanti**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -83,7 +83,7 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/confirm-installation-hand.png)
 
@@ -91,7 +91,7 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
    >
    >Se viene visualizzato un messaggio di protezione relativo a un editore sconosciuto, fare clic su **Sì**.
 
-1. L&#39;installazione è ora completa, fate clic su **Chiudi**.
+1. L&#39;installazione è stata completata. Fare clic su **Chiudi**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
