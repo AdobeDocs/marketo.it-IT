@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Creazione di una nuova finestra di dialogo Web Campaign {#create-a-new-dialog-web-campaign}
+# Creare una nuova campagna Web finestra di dialogo {#create-a-new-dialog-web-campaign}
 
-## Creazione di una finestra di dialogo Web Campaign {#create-a-dialog-web-campaign}
+## Creazione di una campagna Web finestra di dialogo {#create-a-dialog-web-campaign}
 
 Create una campagna Web per personalizzare il contenuto Web in tempo reale e fornire il messaggio giusto all&#39;utente giusto al momento giusto.
 
-Una campagna Web è una reazione personalizzata associata a un segmento specifico. La reazione può essere una finestra di dialogo sul sito Web, una [sostituzione](create-a-new-in-zone-web-campaign.md)dell’area, una [funzione](create-a-new-widget-web-campaign.md)widget o un avviso e-mail.
+Una campagna Web è una reazione personalizzata associata a un segmento specifico. La reazione può essere una finestra di dialogo sul sito Web, un [nella zona sostitutiva](create-a-new-in-zone-web-campaign.md), una [funzione widget](create-a-new-widget-web-campaign.md)o un avviso e-mail.
 
-1. Vai a Campagne **Web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Selezionate **Crea nuova campagna** Web.
+1. Selezionare **Crea nuova campagna Web**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Selezionate il tipo di campagna Web **Dialog** . Progettate e aggiungete contenuti creativi nell&#39;editor. Fate clic su **Anteprima** per vedere come reagirà la campagna Web sul sito.
+1. Selezionare il tipo di campagna Web **Dialog**. Progettate e aggiungete contenuti creativi nell&#39;editor. Fate clic su **Anteprima** per vedere come reagirà la campagna Web sul sito.
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Visualizza su</strong></td> 
-   <td colspan="1">Consente di <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizzare quando e come</a> viene visualizzata la campagna Web.</td> 
+   <td colspan="1">Consente di <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizzare quando e come viene visualizzata la campagna Web.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Stile finestra di dialogo</strong></td> 
@@ -115,11 +115,11 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anteprima sul sito</strong></td> 
-   <td colspan="1">Anteprima delle campagne prima del loro avvio.<br> 
+   <td colspan="1">Visualizzare l'anteprima delle campagne prima del loro avvio.<br> 
     <ul> 
      <li>URL - Immettete un URL di esempio in cui verrebbe eseguita la campagna per visualizzare un esempio di anteprima dell'aspetto della campagna in diretta.</li> 
      <li>Dispositivo - Anteprima dell'aspetto della campagna in base al dispositivo: Desktop, Verticale Mobile, Orizzontale Mobile, Verticale Tablet, Orizzontale Verticale.<br></li> 
-     <li>Anteprima - Fate clic su <strong>Anteprima </strong>per aprire una nuova finestra dell'URL di esempio in cui vedere come reagisce la campagna. </li> 
+     <li>Anteprima - Fare clic su <strong>Anteprima </strong>per aprire una nuova finestra dell'URL di esempio per vedere come reagisce la campagna. </li> 
      <li>Condivisione - Utilizzate il pulsante Condividi per inviare un'e-mail a un collega con un collegamento per visualizzare la campagna proxy.</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 >[!TIP]
 >
->Velocizzate e semplificate il processo di creazione delle campagne utilizzando i modelli [](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) integrati oppure [salvando la campagna](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) esistente come modello da riutilizzare.
+>Velocizzate e semplificate il processo di creazione delle campagne utilizzando i nostri [modelli integrati](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) o [salvando la campagna esistente](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) come modello da riutilizzare.
 
 ## Modifica di una campagna Web {#edit-a-web-campaign}
 
-1. Dalla pagina **Web** **Campaigns** , fare clic su **Edit** (Modifica) nella campagna Web.
+1. Dalla pagina **Web** **Campaigns**, fare clic su **Edit** nella campagna Web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Per trovare più facilmente la campagna Web desiderata, utilizzate la funzione [](filter-web-campaigns.md)filtro.
+>Per trovare più facilmente la campagna Web desiderata, utilizzate la [funzionalità filtro](filter-web-campaigns.md).
 
 ## Anteprima di una campagna Web {#preview-a-web-campaign}
 
-1. Dalla pagina Campagne **** Web, fare clic su **Anteprima** sulla campagna Web che si desidera visualizzare.
+1. Dalla pagina **Campagne Web**, fare clic su **Anteprima** nella campagna Web che si desidera visualizzare.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## Clonare una campagna Web {#clone-a-web-campaign}
+## Clona una campagna Web {#clone-a-web-campaign}
 
-Consultate [Clonare una campagna](clone-a-web-campaign.md)Web.
+Vedere [Clonare una campagna Web](clone-a-web-campaign.md).
 
 ## Eliminare una campagna Web {#delete-a-web-campaign}
 
-1. Nella pagina Campagne **** Web fare clic su **Elimina **nella campagna Web che si desidera eliminare.
+1. Dalla pagina **Campagne Web**, fare clic su **Elimina **nella campagna Web che si desidera eliminare.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
