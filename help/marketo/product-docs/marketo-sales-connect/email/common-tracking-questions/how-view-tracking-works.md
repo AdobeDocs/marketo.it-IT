@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Come funziona il tracciamento della vista {#how-view-tracking-works}
+# Funzionamento del tracciamento delle viste {#how-view-tracking-works}
 
 Le e-mail vengono tracciate posizionando un&#39;immagine invisibile all&#39;interno delle e-mail inviate.
 
-Se qualcuno risponde all&#39;e-mail ma Sales Connect dice che non è stata visualizzata, è probabile che il destinatario abbia risposto `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+Se qualcuno risponde all&#39;e-mail ma Sales Connect dice che non è stata visualizzata, è probabile che il destinatario abbia `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
 
 Alcuni suggerimenti per migliorare il tracciamento delle statistiche sulle e-mail:
 
