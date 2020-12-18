@@ -26,7 +26,7 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 
 1. Accedete alle Google Analytics.
 1. Fare clic su **Customization **nel menu superiore.
-1. Fate clic su **+Nuovo rapporto personalizzato.**
+1. Fare clic su **+Nuovo rapporto personalizzato.**
 
 ** ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -37,14 +37,14 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 1. Denominate il report **RTP B2B Report**.
 1. Nome della prima scheda **Industria **
 
-   1. (Nota: si **duplica questa scheda** e ne si creano altre simili - passaggio 5)
+   1. (Nota: **Duplica questa scheda** e crea altre schede simili - passaggio 5)
 
 1. Selezionare il tipo di rapporto** Explorer*.\
    ** ![](assets/image2015-3-22-16-3a15-3a25.png)
 
    **
 
-1. Nella sezione Gruppi **** metriche, seleziona le metriche rilevanti per la tua attività.
+1. Nella sezione **Gruppi di metriche**, seleziona le metriche rilevanti per la tua attività.
 
    1. Consigliamo quanto segue:\
       ** ![](assets/image2015-3-22-16-3a16-3a40.png)
@@ -61,7 +61,7 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Nella sezione **Dimension a discesa** impostare le dimensioni rilevanti per ciascuna scheda come segue.
+1. Nella sezione **Dimension Drill downs** impostare le dimensioni rilevanti per ciascuna scheda come indicato di seguito.
 
 <table> 
  <thead> 
@@ -101,17 +101,17 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 </table>
 
 1. Non impostare filtri e impostare il rapporto in modo che sia disponibile per **Tutti i dati del sito Web **(o modificare se pertinente per un account Analytics specifico).
-1. Fate clic su **Salva**.\
+1. Fare clic su **Salva**.\
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
-## Report Coinvolgimento RTP {#rtp-engagement-report}
+## Rapporto di coinvolgimento RTP {#rtp-engagement-report}
 
-1. Denominate il rapporto di coinvolgimento **RTP del rapporto.**
-1. Impostate il nome della prima scheda su **Tutti i partecipanti**
+1. Denominate il report **Rapporto di coinvolgimento RTP.**
+1. Impostare il nome della prima scheda su **All Engagement**
 
    1. (Nota: duplicare questa scheda e crearne altre simili - passaggio 5)
 
-1. Selezionare il tipo di rapporto **Explorer** .\
+1. Selezionare il tipo di rapporto **Explorer**.\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. Nella sezione Gruppi di metriche, seleziona le metriche rilevanti per la tua attività. Di seguito è riportata una raccomandazione:\
@@ -125,9 +125,9 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
    1. **Coinvolgimento per categoria**
    1. **Engagement by ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\*
 
-1. Nella sezione **Dimension a discesa** impostare le dimensioni rilevanti per ciascuna scheda come segue:
+1. Nella sezione **Dimension Drill downs** impostare le dimensioni relative a ciascuna scheda come segue:
 
 <table> 
  <thead> 
@@ -216,7 +216,7 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
