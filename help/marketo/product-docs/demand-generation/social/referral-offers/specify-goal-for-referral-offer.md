@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Specificare l&#39;obiettivo per l&#39;offerta di riferimento {#specify-goal-for-referral-offer}
 
-Quando [create un&#39;offerta](create-a-referral-offer.md)di riferimento, dovete definire l&#39;obiettivo di evasione. L&#39;obiettivo può essere definito in base all&#39;attività della persona sulla pagina Web, ad esempio visite di pagina o registrazioni. È anche possibile utilizzare un evento [JavaScript](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)personalizzato.
+Quando [create un&#39;offerta di riferimento](create-a-referral-offer.md), dovete definire l&#39;obiettivo di evasione. L&#39;obiettivo può essere definito in base all&#39;attività della persona sulla pagina Web, ad esempio visite di pagina o registrazioni. È anche possibile utilizzare un evento JavaScript [personalizzato](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-In alternativa, è possibile utilizzare un attivatore [per elenchi](specify-goal-for-referral-offer.md) smart in Marketo per attendere un&#39;attività cardine, ad esempio la creazione di un&#39;opportunità per la persona di riferimento.
+In alternativa, è possibile utilizzare un [attivatore smart list](specify-goal-for-referral-offer.md) in Marketo per attendere qualsiasi attività cardine, ad esempio la creazione di un&#39;opportunità per la persona di riferimento.
 
 Obiettivi di esempio:
 
@@ -25,7 +25,7 @@ Obiettivi di esempio:
 * 2 acquisti e-commerce di riferimento
 * 5 partecipanti al webinar di riferimento
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
@@ -33,29 +33,29 @@ Obiettivi di esempio:
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. Nell&#39;editor delle offerte di riferimento, andate a Impostazioni **** app > Dettagli **offerta.**
+1. Nell&#39;editor delle offerte di riferimento, andate a **Impostazioni app** > **Dettagli offerta.**
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. In **Impostazioni**, scegliete un tipo di evento dal menu a discesa **Obiettivo** di evasione.
+1. In **Impostazioni**, scegliete un tipo di evento dal menu a discesa **Obiettivo di evasione**.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->Se si prevede di utilizzare il passaggio **di flusso Assegna credito al referente** , è necessario selezionare Attivazione **elenco** avanzato come tipo di obiettivo di evasione.
+>Se si prevede di utilizzare il passaggio di flusso **Assegna credito al referente**, è necessario selezionare il trigger **Smart List** come tipo di obiettivo di evasione.
 
 * Visite di riferimento: I partecipanti all&#39;offerta ricevono credito per ogni visita da un amico alla pagina in cui è presente l&#39;offerta.
 * Sign-Ups Di Riferimento: I partecipanti all&#39;offerta ricevono credito per ogni amico che si registra per l&#39;offerta.
-* Trigger elenco avanzato: I partecipanti all&#39;offerta ottengono credito per ogni amico che soddisfa le condizioni di un attivatore di elenco [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) avanzato in una campagna [](http://docs.marketo.com/display/docs/smart+campaigns)intelligente. Ad esempio, potete utilizzare un trigger che si attiva quando un potenziale potenziale di ricerca di riferimento si registra per un seminario Web.
+* Trigger elenco avanzato: I partecipanti all&#39;offerta ottengono credito per ogni amico che soddisfa le condizioni di un [trigger di elenco smart](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) in una [campagna smart](http://docs.marketo.com/display/docs/smart+campaigns). Ad esempio, potete utilizzare un trigger che si attiva quando un potenziale potenziale di ricerca di riferimento si registra per un seminario Web.
 
-* Evento JavaScript personalizzato: I partecipanti all&#39;offerta ottengono credito per ogni amico che attiva un evento JavaScript definito sulla pagina. Vedere Script di [conversione per eventi](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)personalizzati.
+* Evento JavaScript personalizzato: I partecipanti all&#39;offerta ottengono credito per ogni amico che attiva un evento JavaScript definito sulla pagina. Vedere [Script di conversione per eventi personalizzati](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
->Nelle campagne intelligenti sono disponibili nuovi filtri e attivatori per monitorare l&#39;attività social. Consultate [Utilizzare trigger e filtri per le attività](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)social.
+>Nelle campagne intelligenti sono disponibili nuovi filtri e attivatori per monitorare l&#39;attività social. Consultate [usare attivatori e filtri per attività social](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!MORELIKETHIS]
 >
->Quindi, potete [selezionare le e-mail](send-referral-offer-fulfillment-email.md) di registrazione e di evasione da inviare dall&#39;offerta di riferimento.
+>Successivamente, è possibile [selezionare le e-mail di registrazione e di evasione](send-referral-offer-fulfillment-email.md) da inviare dall&#39;offerta di riferimento.
 
