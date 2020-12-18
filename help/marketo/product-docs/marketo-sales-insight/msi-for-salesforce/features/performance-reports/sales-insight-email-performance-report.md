@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Rapporto sulle prestazioni delle e-mail in base alle informazioni sulle vendite {#sales-insight-email-performance-report}
+# Rapporto sulle prestazioni delle e-mail in fase di vendita {#sales-insight-email-performance-report}
 
 Visualizzare le prestazioni dei messaggi e-mail inviati tramite Salesforce, Microsoft Dynamics o un plug-in Gmail o Outlook.
 
 ## Genera un report {#generate-a-report}
 
-1. Fate clic su **Analytics**.
+1. Fare clic su **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Fai clic su **Sales Insight Email Performance**(Prestazioni e-mail in visualizzazione vendite).
+1. Fare clic su **Sales Insight Email Performance**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Fate clic sulla scheda **Configurazione** e scegliete i valori desiderati.
+1. Fare clic sulla scheda **Setup** e scegliere i valori desiderati.
 
    ![](assets/three.png)
 
-1. Fate clic sulla scheda **Rapporto** .
+1. Fare clic sulla scheda **Report**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,23 +43,23 @@ Visualizzare le prestazioni dei messaggi e-mail inviati tramite Salesforce, Micr
 >
 >Fate clic sul nome di un messaggio e-mail per aprirlo nel visualizzatore di anteprima e-mail.
 
-## Raggruppa per rappresentante vendite {#group-by-sales-rep}
+## Raggruppa per rappresentante commerciale {#group-by-sales-rep}
 
 Puoi visualizzare questo rapporto raggruppato per rappresentante commerciale modificando le impostazioni.
 
-1. Fate clic su **Configurazione**. Fate doppio clic su **E-mail**.
+1. Fare clic su **Setup**. Fare doppio clic su **E-mail**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Selezionate Raggruppa e-mail per rappresentante **commerciale**.
+1. Selezionare Raggruppa e-mail per **rappresentante commerciale**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Fate clic sulla scheda **Rapporto** .
+1. Fare clic sulla scheda **Report**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
