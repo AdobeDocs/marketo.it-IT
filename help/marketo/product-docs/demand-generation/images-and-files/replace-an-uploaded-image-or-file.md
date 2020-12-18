@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Sostituire un&#39;immagine o un file caricato {#replace-an-uploaded-image-or-file}
 
-1. Andate a **Design** **Studio**.
+1. Passare alla **Progettazione** **Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Fare clic su **Immagini** **e** **File**, quindi selezionare il file da sostituire.
+1. Fare clic su **Images** **and** **Files**, quindi selezionare il file da sostituire.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >Potete anche [cercare le immagini o i file](search-uploaded-images-and-files.md)caricati.
+   >È inoltre possibile [cercare immagini caricate o file](search-uploaded-images-and-files.md).
 
-1. Fare clic su Azioni **** file e selezionare **Sostituisci immagine o file**.
+1. Fare clic su **Azioni file** e selezionare **Sostituisci immagine o file**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
