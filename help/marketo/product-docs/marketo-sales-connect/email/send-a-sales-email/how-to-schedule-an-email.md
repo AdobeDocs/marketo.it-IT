@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Pianificazione di un&#39;e-mail {#schedule-an-email}
 
-1. Nella finestra Componi, fate clic su **Pianifica: Pulsante Invia ora** .
+1. Nella finestra Componi, fate clic su **Pianificazione: Pulsante Invia ora**.
 1. Nella finestra di programmazione, seleziona l&#39;ora in cui il messaggio deve essere inviato.
-1. Fate clic su **Pianificazione**.
+1. Fare clic su **Schedule**.
 
    Il messaggio e-mail verrà messo in coda per la consegna al momento selezionato nella cartella Pianificati del Centro comandi.
 
@@ -25,9 +25,9 @@ ht-degree: 0%
    >
    >Per pianificare un&#39;e-mail da inviare successivamente da **Gmail, **check out [`this article`](http://docs.marketo.com/x/r4PS) `.`
 
-## Annullamento di un&#39;e-mail pianificata {#cancel-a-scheduled-email}
+## Annulla un&#39;e-mail pianificata {#cancel-a-scheduled-email}
 
-1. Andate all&#39;applicazione [](http://toutapp.com/login) Web e andate al `Command` Centro.
-1. Fate clic sul filtro [Pianificato](http://toutapp.com/next#emails/filter/sent/1) .
-1. Fai clic su **Elimina** accanto al messaggio.
+1. Andate all&#39;applicazione Web [](http://toutapp.com/login) e andate al centro `Command`.
+1. Fare clic sul filtro [Pianificato](http://toutapp.com/next#emails/filter/sent/1).
+1. Fare clic su **Elimina** accanto al messaggio.
 
