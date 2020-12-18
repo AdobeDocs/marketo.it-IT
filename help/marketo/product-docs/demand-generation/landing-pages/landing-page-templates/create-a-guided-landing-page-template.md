@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Dive profonde:** Stanco di leggere? [Guardate questo video](https://youtu.be/3O7e4GdZKsM) con istruzioni dettagliate.
+>**Dive profonde:** Stanchi della lettura? [Guardate questo ](https://youtu.be/3O7e4GdZKsM) video con istruzioni dettagliate.
 
 I modelli delle pagine di destinazione guidati hanno una sintassi particolare. Utilizzate questa sintassi per specificare cosa è personalizzabile e dove termina il contenuto su ciascuna pagina di destinazione creata a partire dal modello. Solo le aree o le variabili specificate come modificabili saranno disponibili per la personalizzazione nell’editor della pagina di destinazione &quot;Guidata&quot;.
 
@@ -34,7 +34,7 @@ Gli elementi vengono dichiarati aggiungendo al modello un normale elemento DOM, 
 
 ## Testo {#text}
 
-Se definite un&#39;area come RTF, gli utenti potranno modificarne il contenuto [utilizzando l&#39;Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)Rich Text di Marketo.
+Se si definisce un&#39;area come RTF, gli utenti potranno modificarne il contenuto [utilizzando l&#39;Editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Attributi richiesti:\
 **class**: &quot;mktoText&quot;\
@@ -50,7 +50,7 @@ Esempio:
 
 ### Immagine {#image}
 
-Sono disponibili due opzioni per definire gli elementi immagine modificabili. Potete usare un `<div>`, che specifica un contenitore in cui inserire l’immagine, o un `<img>` tag.
+Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare un `<div>`, che specifica un contenitore in cui inserire l&#39;immagine, oppure un tag `<img>`.
 
 ## Opzione 1 - Utilizzate un <div> {#option-use-a-div}
 
@@ -61,13 +61,13 @@ id: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e caratter
 mktoName : Stringa. Questo è il nome visualizzato che verrà visualizzato nell&#39;editor della pagina di destinazione. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:\
-mktoImgClass: Stringa. Il valore qui verrà aggiunto all&#39;attributo class dell&#39; `<img>` elemento all&#39;interno del div.
+mktoImgClass: Stringa. Il valore qui verrà aggiunto all&#39;attributo class dell&#39;elemento `<img>` all&#39;interno del div.
 
 Esempio:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Opzione 2 - Utilizzate un `<img>` {#option-use-a-img}
+## Opzione 2 - Utilizzare un `<img>` {#option-use-a-img}
 
 Attributi richiesti:\
 class: &quot;mktoImg&quot;\
@@ -83,7 +83,7 @@ Esempio:
 
 >[!NOTE]
 >
->Quando si utilizza la `<img>` versione, l&#39;HTML rappresentato conterrà un wrapper div generato intorno al `<img>` tag . Sarà impostato su class.&quot;mktoImg.mktoGen,&quot; e sarà display:inline-block.
+>Quando si utilizza la versione `<img>`, l&#39;HTML rappresentato conterrà un wrapper div generato intorno al tag `<img>`. Sarà impostato su class.&quot;mktoImg.mktoGen,&quot; e sarà display:inline-block.
 
 ## Modulo {#form}
 
@@ -123,7 +123,8 @@ Esempio:
 >Quando si utilizza l’elemento video in una pagina di destinazione, Marketo supporta solo i video di YouTube. Se utilizzate un altro servizio, è consigliabile utilizzare una casella di testo RTF e incollare nel codice da incorporare del video.
 
 Attributi richiesti:
-**class**: &quot;mktoVideo&quot;**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
+**class**: &quot;mktoVideo&quot;
+**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
 **mktoName** : Stringa. Questo è il nome visualizzato che verrà visualizzato nell&#39;editor della pagina di destinazione. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
@@ -152,7 +153,7 @@ Esempio:
 
 `<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
 
-## Sweepstakes {#sweepstakes}
+## Marca {#sweepstakes}
 
 Attributi richiesti:\
 **class**: &quot;mktoSweepstakes&quot;\
@@ -173,7 +174,7 @@ Esempio:
 
 **Dichiarazione:**
 
-Le variabili sono dichiarate come tag meta all&#39;interno dell&#39; `<head>` elemento del modello. Sono disponibili tre tipi di variabili: Stringa, Colore e Booleano.
+Le variabili sono dichiarate come meta tag all&#39;interno dell&#39;elemento `<head>` del modello. Sono disponibili tre tipi di variabili: Stringa, Colore e Booleano.
 
 ## Stringa {#string}
 
