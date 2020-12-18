@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Archiviare una campagna Web {#archive-a-web-campaign}
 
-1. Vai a Campagne **Web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/one.jpg)
 
-1. Fate clic sul menu a discesa dello stato della campagna Web desiderata e selezionate **Archivia**.
+1. Fai clic sul menu a discesa dello stato della campagna Web desiderata e seleziona **Archivia**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Le campagne Web archiviate non verranno visualizzate nel filtro predefinito. Per visualizzarli, fate clic sull’icona Filtro e, in **Stato**, selezionate la casella di controllo **Archiviato** e fate clic su **Applica**.
+   >Le campagne Web archiviate non verranno visualizzate nel filtro predefinito. Per visualizzarli, fare clic sull&#39;icona Filtro e, in **Stato**, selezionare la casella di controllo **Archiviato** e fare clic su **Applica**.
 
 >[!MORELIKETHIS]
 >
