@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Disponibilità**
 >
->Il retargeting dei siti Web ora si trova nella sezione Personalizzazione Web. Se avete acquistato solo il retargeting, vedrete questa sezione e accedete al prodotto Web Personalization con **solo** le funzioni di retargeting abilitate. Questo consente di accedere alle impostazioni dell’account, alla pagina Retargeting, ai segmenti e alle pagine di tracciamento aggiuntive.
+>Il retargeting dei siti Web ora si trova nella sezione Personalizzazione Web. Se avete acquistato solo Retargeting, visualizzerete questa sezione e accederete al prodotto Web Personalization con le funzioni di **solo** Retargeting abilitate. Questo consente di accedere alle impostazioni dell’account, alla pagina Retargeting, ai segmenti e alle pagine di tracciamento aggiuntive.
 
 Notizie si rivolge ai potenziali clienti che hanno visitato il tuo sito in passato con una pubblicità basata su chi sono e cosa hanno fatto. Il retargeting personalizzato si rivolge a audience specifiche con annunci pertinenti basati su settori, account denominati e dati di persone conosciute.
 
@@ -54,7 +54,7 @@ Web Personalization invia i seguenti dati alle piattaforme di remarketing per cr
  </tbody> 
 </table>
 
-## Configurazione della notorietà {#remarketing-configuration}
+## Configurazione della notazione {#remarketing-configuration}
 
 1. Vai a **Retargeting**.
 
@@ -75,11 +75,11 @@ Web Personalization invia i seguenti dati alle piattaforme di remarketing per cr
 
    ![](assets/two.png)
 
-1. Attivate la configurazione per Facebook. Fate clic su e espandete la struttura di navigazione Facebook, fate clic su **On **per inviare i rispettivi eventi e i dati al Audience Manager di  Facebook. Fate clic su **Salva**.
+1. Attivate la configurazione per Facebook. Fate clic su e espandete la struttura di navigazione Facebook, fate clic su **On **per inviare i rispettivi eventi e i dati al Audience Manager di  Facebook. Fare clic su **Salva**.
 
    >[!NOTE]
    >
-   >Affinché questa funzione funzioni, è necessario che [Facebook Custom Audience](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pixelinstall nel sito Web.
+   >Affinché questa funzione funzioni funzioni, è necessario che sul sito Web sia installato [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)di Facebook.
 
    ![](assets/three.png)
 
@@ -91,7 +91,7 @@ Un pubblico segmentato consente di selezionare un segmento esistente come audien
 >
 >Non è necessario creare un pubblico segmentato per il settore o altri dati già inviati tramite in Configurazione dominio. È consigliabile utilizzare Audience segmentate per segmenti basati su dati di persone note.
 
-1. Fate clic su **Crea pubblico** segmentato.
+1. Fate clic su **Crea pubblico segmentato**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -99,7 +99,7 @@ Un pubblico segmentato consente di selezionare un segmento esistente come audien
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Fate clic su **SALVA**.
+1. Fare clic su **SAVE**.
 
    È stata completata l&#39;impostazione di retargeting in Web Personalization (Personalizzazione Web), è possibile accedere alle piattaforme di retargeting e creare il pubblico in base a tali dati e impostare le campagne di retargeting.
 
