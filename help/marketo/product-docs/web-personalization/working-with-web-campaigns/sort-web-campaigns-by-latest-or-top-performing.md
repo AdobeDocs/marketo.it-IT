@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ordina campagne Web per ultime o migliori prestazioni {#sort-web-campaigns-by-latest-or-top-performing}
+# Ordinare le campagne Web in base alle più recenti o più performanti {#sort-web-campaigns-by-latest-or-top-performing}
 
 Potete ordinare le campagne Web in un paio di modi diversi.
 
-1. Vai a Campagne **Web.**
+1. Vai a **Campagne Web.**
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -29,7 +29,7 @@ Potete ordinare le campagne Web in un paio di modi diversi.
    >**Ultimo** : l&#39;ordinamento si basa sulla data di creazione della campagna. La campagna più recente in cima.
    >
    >
-   >**Top** **Performing** : consente di ordinare le campagne in base al tasso di click-through. Clic più alto nella parte superiore.
+   >**** **TopPerforming** : consente di ordinare le campagne in base al tasso di click-through. Clic più alto nella parte superiore.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
