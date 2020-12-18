@@ -24,15 +24,15 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
 
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Individuate la pagina di destinazione e fate clic su **Modifica** **bozza**.
+1. Individuate la pagina di destinazione e fate clic su **Modifica** **Bozza**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Trascinare l’elemento **Modulo** sulla pagina.
+1. Trascinare l&#39;elemento **Form** sulla pagina.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -42,7 +42,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
 1. Quando si sceglie la pagina di follow-up sono disponibili tre opzioni:
 
-   * **Pagina** di destinazione - per selezionare una pagina di destinazione Marketo
+   * **Pagina**  di destinazione: per selezionare una pagina di destinazione Marketo
    * **URL esterno***** - per scegliere l&#39;URL desiderato
 
    * **Modulo**** Defined** - per utilizzare le impostazioni definite a livello di modulo
@@ -53,10 +53,10 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
    >
    >La pagina che segue è la pagina che gli utenti vedranno dopo aver inviato il modulo.
 
-1. Fate clic su **Inserisci**.
+1. Fare clic su **Inserisci**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
    Ben fatto!
 
-Chiudi l’editor della pagina di destinazione e [approva la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)della pagina di destinazione.
+Basta chiudere l&#39;editor della pagina di destinazione e [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
