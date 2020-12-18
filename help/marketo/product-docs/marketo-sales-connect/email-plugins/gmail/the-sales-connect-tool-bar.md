@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Barra degli strumenti di vendita Connect {#the-sales-connect-tool-bar}
+# Barra degli strumenti di Connect per le vendite {#the-sales-connect-tool-bar}
 
 Cinque pulsanti di collegamento alle vendite verranno aggiunti nella parte superiore della pagina Gmail al momento dell&#39;accesso.
 
-| **Pulsante Live Feed** | Consente di aprire il feed [](http://toutapp.com/next#live) live di Sales Connect in cui è possibile ottenere informazioni di tracciamento in tempo reale sulle e-mail. |
+| **Pulsante Live Feed** | Consente di aprire il servizio di vendita [Live Feed](http://toutapp.com/next#live) di Adobe Connect, in cui è possibile ottenere informazioni sul tracciamento in tempo reale nelle e-mail. |
 |---|---|
 | **Pulsante Attività** | Visualizza un elenco a discesa di tutte le attività. |
-| **Modelli e *pulsanti*Conversazioni** | Apre rispettivamente la pagina Modelli dell&#39;applicazione [](http://toutapp.com/login)Web e la pagina Conversazioni. Tutto all&#39;interno della pagina Gmail. |
+| **Modelli **e conversazioni, pulsanti** | Apre rispettivamente la pagina Modelli e le pagine Conversazioni dell&#39;applicazione Web [dell&#39;applicazione Web](http://toutapp.com/login). Tutto all&#39;interno della pagina Gmail. |
 | **Pulsante Gong di vendita ** | Consente di celebrare le vostre offerte chiuse/vinte con i vostri compagni di squadra. |
 
