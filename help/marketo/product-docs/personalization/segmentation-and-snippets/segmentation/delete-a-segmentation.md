@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Eliminazione di una segmentazione {#delete-a-segmentation}
+# Eliminare una segmentazione {#delete-a-segmentation}
 
 Una segmentazione può essere eliminata seguendo la procedura riportata di seguito.
 
-1. Vai al **database**.
+1. Accedere al **Database**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Passate alla segmentazione e fate clic su **Usato da** per controllare le associazioni.
+1. Andate alla segmentazione e fate clic su **Usato da** per controllare le associazioni.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Se la segmentazione viene utilizzata da altre risorse, rimuovete tutte queste associazioni prima di procedere.
 
-1. Rimuovere tutte le associazioni, quindi in Azioni **** segmentazione fare clic su **Annulla approvazione**.
+1. Rimuovere tutte le associazioni, quindi in **Azioni segmentazione** fare clic su **Disapprova**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
