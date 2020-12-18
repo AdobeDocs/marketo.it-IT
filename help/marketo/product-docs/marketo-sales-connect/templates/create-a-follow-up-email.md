@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Creare un messaggio e-mail di follow-up {#create-a-follow-up-email}
+# Creare un&#39;e-mail di follow-up {#create-a-follow-up-email}
 
-Grazie alla funzione [Campagne](http://docs.marketo.com/display/TEST/Campaigns) di Sales Connect, la creazione di un&#39;e-mail di follow-up è semplice.
+Grazie alla funzione [Campaigns](http://docs.marketo.com/display/TEST/Campaigns) di Sales Connect, la creazione di un&#39;e-mail di follow-up è semplice.
 
-Nella scheda **Configura** della campagna, selezionate la casella per creare un messaggio e-mail come follow-up, che verrà automaticamente associato al messaggio e-mail precedente nel messaggio e-mail successivo della campagna.
+Nella scheda **Configura** della campagna, selezionate la casella per creare un&#39;e-mail come follow-up, che verrà automaticamente collegata all&#39;e-mail successiva della campagna.
 
