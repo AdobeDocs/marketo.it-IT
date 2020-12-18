@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Sincronizzazione delle attività di vendita Connect con Salesforce per la prima volta {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+# Sincronizzazione delle attività di vendita di Connect con Salesforce per la prima volta {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-La prima volta che attivi la sincronizzazione tra le attività di Sales Connect e Salesforce, importiamo le attività di Salesforce. **Non** eseguiremo il push delle attività correnti di cui disponete in Sales Connect per Salesforce. Per ridurre il disordine e i duplicati, le uniche attività che vengono sincronizzate da Sales Connect a Salesforce sono le attività create *dopo* la sincronizzazione di Sales Connect con SFDC.
+La prima volta che attivi la sincronizzazione tra le attività di Sales Connect e Salesforce, importiamo le attività di Salesforce. **non** eseguiremo il push per tutte le attività correnti che hai in Sales Connect per Salesforce. Per ridurre il disordine e i duplicati, le uniche attività che vengono sincronizzate da Sales Connect a Salesforce sono le attività create *dopo* la sincronizzazione di Sales Connect con SFDC.
 
 Ecco cosa accade quando si sincronizzano le attività di Sales Connect e SFDC:
 
@@ -27,5 +27,5 @@ Ecco cosa accade quando si sincronizzano le attività di Sales Connect e SFDC:
 
 Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Sales Connect verranno sincronizzate nell&#39;elenco delle attività in Salesforce. Inoltre, qualsiasi cosa creata, modificata, completata o eliminata in Salesforce aggiornerà l&#39;elenco delle attività in Sales Connect.
 
-Per attivare questa sincronizzazione, è sufficiente selezionare la casella di sincronizzazione nella pagina [](http://toutapp.com/next#settings/crm/salesforce/configure) Impostazioni dell&#39;applicazione Web.
+Per attivare questa sincronizzazione, è sufficiente selezionare la casella di sincronizzazione nella [pagina Settings](http://toutapp.com/next#settings/crm/salesforce/configure) nell&#39;applicazione Web.
 
