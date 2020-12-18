@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sull&#39;area di analisi per l&#39;iscrizione al programma {#understanding-the-program-membership-analysis-area}
+# Informazioni sull&#39;area di analisi dell&#39;appartenenza al programma {#understanding-the-program-membership-analysis-area}
 
 L&#39;area Analisi iscrizione al programma consente di analizzare l&#39;efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale per un determinato periodo di tempo.
 
@@ -35,7 +35,7 @@ Quanti nuovi nomi sono stati generati mensilmente da ogni programma/canale?
 >
 >I punti gialli sono dimensioni e i punti blu sono misure.
 
-### iscrizione {#membership}
+### Appartenenza {#membership}
 
 | Misura | Descrizione |
 |---|---|
