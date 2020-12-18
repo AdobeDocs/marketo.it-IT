@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di colonne personalizzate a un report di persona {#add-custom-columns-to-a-person-report}
+# Aggiungi colonne personalizzate a un report di persona {#add-custom-columns-to-a-person-report}
 
-Potete filtrare ulteriormente le metriche nei rapporti [](http://docs.marketo.com/display/docs/basic+reporting) personali utilizzando gli elenchi [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) avanzati come colonne personalizzate.
+Puoi filtrare ulteriormente le metriche nei report [persona](http://docs.marketo.com/display/docs/basic+reporting) utilizzando gli [smart lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) come colonne personalizzate.
 
-1. Andate all&#39;area **Attività** di marketing (o **Analytics**).
+1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Selezionate il rapporto e fate clic sulla scheda **Configurazione** .
+1. Selezionate il rapporto e fate clic sulla scheda **Configurazione**.
 
    ![](assets/two-1.png)
 
-1. Trascinate su Colonne **** personalizzate.
+1. Trascinare su **Colonne personalizzate**.
 
    ![](assets/three-1.png)
 
@@ -36,9 +36,9 @@ Potete filtrare ulteriormente le metriche nei rapporti [](http://docs.marketo.co
    >**Tubo profondo**
    >
    >
-   >Scoprite come creare e configurare gli elenchi smart nelle sezioni [profonde Elenchi smart ed Elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) statici.
+   >Scoprite come creare e configurare gli elenchi smart in [Smart Lists and Static Lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) deep dive.
 
-1. Ce l&#39;hai fatta! Fare clic sulla scheda **Rapporto** per visualizzare il rapporto con le nuove colonne.
+1. Ce l&#39;hai fatta! Fare clic sulla scheda **Report** per visualizzare il rapporto con le nuove colonne.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Potete filtrare ulteriormente le metriche nei rapporti [](http://docs.marketo.co
    >**Articoli correlati**
    >
    >
-   >Potete anche [aggiungere colonne opportunità a un rapporto](add-opportunity-columns-to-a-lead-report.md)lead.
+   >Potete anche [aggiungere colonne opportunità a un report lead](add-opportunity-columns-to-a-lead-report.md).
 
    >[!NOTE]
    >
    >**Tubo profondo**
    >
    >
-   >Scopri di più sulle numerose operazioni che puoi eseguire con i report nel dettaglio [Basic Reporting (Generazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting) di base).
+   >Scopri di più sulle numerose operazioni che puoi eseguire con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
