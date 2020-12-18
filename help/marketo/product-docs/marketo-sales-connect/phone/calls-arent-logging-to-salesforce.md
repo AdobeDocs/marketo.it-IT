@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Se desideri che le tue chiamate dal telefono di vendita siano registrate automaticamente a Salesforce, assicurati che sia presente quanto segue.
 
-Per connettersi all&#39;account [Salesforce, è necessario disporre dell&#39;account](http://docs.marketo.com/x/q4LS) di Sales Connect tramite la connessione API.
+Sarà necessario collegare l&#39;account di Sales Connect al [account Salesforce](http://docs.marketo.com/x/q4LS) tramite la connessione API.
 
-Se effettui una chiamata dall’applicazione [](http://toutapp.com/login)Web, avrai bisogno di un ID Salesforce salvato per quel contatto. [Fai clic qui](http://docs.marketo.com/x/G4PS) per vedere come puoi assicurarti che a tutti i tuoi contatti di Sales Connect sia associato un ID Salesforce.
+Se effettui una chiamata dall&#39; [applicazione Web](http://toutapp.com/login), avrai bisogno di un ID Salesforce salvato per quel contatto. [Fai clic ](http://docs.marketo.com/x/G4PS) qui per vedere come puoi fare in modo che tutti i contatti di vendita di Adobe Connect abbiano un ID Salesforce associato a tali contatti.
 
 >[!NOTE]
 >
