@@ -25,29 +25,29 @@ Un pulsante per social network incoraggia le persone a condividere i contenuti c
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Trascinate il puntatore sul pulsante **** Social dagli elementi a destra.
+1. Trascinate il puntatore sul **Pulsante Social** dagli elementi a destra.
 
    ![](assets/image2014-9-17-10-3a35-3a6.png)
 
-1. Selezionate Pulsanti **social (con Analytics)**.
+1. Selezionate **Pulsanti social (con Analytics)**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Una volta che la pagina di destinazione è attiva, vedete l&#39;attività generata dal pulsante **** Social (con Analytics) nel dashboard [](view-social-performance.md)Social.
+   Una volta che la pagina di destinazione è attiva, vedete l&#39;attività generata dal **Pulsante Social** (con Analytics) nel [Social Dashboard](view-social-performance.md).
 
-   Se aggiungete un pulsante **Come/Consiglia (Lite)** , consultate il numero di condivisioni nel rapporto [sulle prestazioni della pagina di](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)destinazione.
+   Se si aggiunge un **Pulsante Mi piace/Consiglia (Lite)**, vedere il numero di condivisioni nel report [prestazioni della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Selezionate **Crea nuovo** dal menu a discesa.
+1. Selezionare **Crea nuovo** dall&#39;elenco a discesa.
 
    >[!NOTE]
    >
-   >Potete anche creare un pulsante per social network all’interno di un programma selezionando **Nuovo > Nuova risorsa** locale.
+   >Potete anche creare un pulsante per social network all&#39;interno di un programma selezionando **Nuovo > Nuova risorsa locale**.
 
-1. Assegnate un nome al pulsante per social network, selezionate **Nessuno** da **Duplica** **da**, quindi fate clic su **Inserisci**.
+1. Assegnate un nome al pulsante sociale, selezionate **None** da **Clone** **Da** e fate clic su **Inserisci**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-Congratulazioni! È stato aggiunto un pulsante per social network alla pagina di destinazione. Accertatevi di approvare la pagina di destinazione. Potete anche [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire il pulsante per social network nel sito Web](deploy-social-on-your-website.md).
+Congratulazioni! È stato aggiunto un pulsante per social network alla pagina di destinazione. Accertatevi di approvare la pagina di destinazione. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire il pulsante per social network nel sito Web](deploy-social-on-your-website.md).
 
 >[!TIP]
 >
@@ -55,4 +55,4 @@ Congratulazioni! È stato aggiunto un pulsante per social network alla pagina di
 
 >[!MORELIKETHIS]
 >
->Avete finito, ma potete cambiare le impostazioni del pulsante per social network se necessario. Iniziate con [la personalizzazione dello stile](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) del pulsante e la [modifica dei messaggi](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) di condivisione visualizzati.
+>Avete finito, ma potete cambiare le impostazioni del pulsante per social network se necessario. Iniziate con [personalizzazione dello stile del pulsante](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) e [modifica dei messaggi di condivisione](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) presentati.
