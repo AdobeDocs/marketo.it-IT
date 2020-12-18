@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi immagini e file a Marketo {#add-images-and-files-to-marketo}
+# Aggiungi immagini e file al Marketo {#add-images-and-files-to-marketo}
 
 È facile aggiungere più immagini e file contemporaneamente.
 
-1. Andate a **Design** **Studio**.
+1. Passare alla **Progettazione** **Studio**.
 
    ![](assets/designstudio.png)
 
-1. In **Nuovo**, fate clic su** Carica immagine** **o** **file**.
+1. In **New**, fare clic su** Carica immagine** **o** **File**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
    >
    >La dimensione massima per file è 100 MB.
 
-1. Per aggiungere più immagini e file, individuate la cartella corretta sul computer, premete **Ctrl/Comando** e fate clic su ciascun file da aggiungere, quindi fate clic su **Apri**.
+1. Per aggiungere più immagini e file, individuare la cartella corretta sul computer, premere **Ctrl/Cmd** e fare clic su ciascun file da aggiungere, quindi fare clic su **Apri**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Espandete Dettagli **** file per verificare di aver selezionato le immagini corrette, quindi fate clic su **Carica**.
+1. Espandete **Dettagli file** per verificare di aver selezionato le immagini corrette, quindi fate clic su **Carica**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -63,7 +63,7 @@ Ben fatto!
 >
 >Anche se Marketo accetta tutti i tipi di file per il caricamento, solo i tipi di immagine principali (JPG, PNG, GIF, ecc.) funzionerà nel nostro editor e-mail.
 
-## Video {#watch-a-video}
+## Guarda il video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
