@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica di annullamento sottoscrizione {#unsubscribe-overview}
+# Annulla sottoscrizione Panoramica {#unsubscribe-overview}
 
 È sempre più importante che le organizzazioni rispettino le leggi sulla privacy delle e-mail. Per facilitare questa fase, abbiamo apportato alcuni miglioramenti alla nostra esperienza di annullamento della sottoscrizione.
 
