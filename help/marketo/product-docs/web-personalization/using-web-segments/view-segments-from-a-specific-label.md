@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visualizzare i segmenti da un’etichetta specifica {#view-segments-from-a-specific-label}
+# Visualizzare i segmenti da un&#39;etichetta specifica {#view-segments-from-a-specific-label}
 
 Stai cercando di visualizzare e filtrare i segmenti in base a una specifica etichetta?
 
