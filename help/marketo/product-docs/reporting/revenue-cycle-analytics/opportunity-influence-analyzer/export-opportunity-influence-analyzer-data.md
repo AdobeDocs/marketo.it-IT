@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Esporta dati analizzatore di influenza opportunità {#export-opportunity-influence-analyzer-data}
 
-Per ricevere gli aggiornamenti dai rapporti di Esplora [ciclo](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ricavi e condividerli, puoi sottoscrivere qualsiasi indirizzo e-mail a un rapporto esistente.
+Per ricevere gli aggiornamenti dai report [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e per condividerli, puoi sottoscrivere qualsiasi indirizzo e-mail a un report esistente.
 
-1. Vai ad **Analytics** e seleziona **Nuovo** **>** Nuovo **** report **** **** Iscrizione.
+1. Andate su **Analytics** e selezionate **New** **>** **New** **Report** **Subscription**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Per sottoscrivere un rapporto di base creato in un programma, vedere [Sottoscrivere un rapporto](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) di base.
+   >Per iscriversi a un report di base creato in un programma, vedere [Iscriviti a un report di base](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
 
-1. Per Origine rapporto, selezionare Esplora **ricavi.**
+1. Per Origine rapporto, selezionare **Esplora entrate.**
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ Per ricevere gli aggiornamenti dai rapporti di Esplora [ciclo](http://docs.marke
 
 >[!MORELIKETHIS]
 >
->Scopri come [gestire tutte le iscrizioni](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) ai rapporti in un&#39;unica posizione.
+>Scopri come [gestire tutte le iscrizioni per report](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un&#39;unica posizione.
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sulle analisi avanzate di Marketo sono disponibili nella sezione approfondita di [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) .
+>Ulteriori informazioni sulle analisi avanzate di Marketo sono disponibili in [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
