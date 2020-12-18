@@ -25,7 +25,7 @@ Per impedire agli utenti CRM di modificare i modelli di vendita, gli amministrat
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Admin**, quindi fai clic su **Sales Insight**.
+1. Vai a **Admin**, quindi fai clic su **Sales Insight**.
 
    ![](assets/1.png)
 
@@ -33,7 +33,7 @@ Per impedire agli utenti CRM di modificare i modelli di vendita, gli amministrat
 
    ![](assets/2.png)
 
-1. Selezionate **Abilita possibilità di bloccare i modelli**. Fate clic su **Salva**.
+1. Selezionare **Abilita la possibilità di bloccare i modelli**. Fare clic su **Salva**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,19 +43,19 @@ Per impedire agli utenti CRM di modificare i modelli di vendita, gli amministrat
 
 >[!NOTE]
 >
->La modifica di questa impostazione come amministratore **non** influirà retroattivamente sui modelli esistenti; ad esempio, non li bloccherà automaticamente.
+>La modifica di questa impostazione come amministratore non avrà effetti retroattivi sui modelli esistenti; ad esempio, non li bloccherà automaticamente.****
 
-## Blocca modello nell’editor e-mail {#lock-template-in-the-email-editor}
+## Blocca modello nell&#39;Editor e-mail {#lock-template-in-the-email-editor}
 
-1. Selezionate il messaggio e-mail da bloccare, quindi fate clic su **Modifica bozza**.
+1. Selezionare l&#39;e-mail che si desidera bloccare, quindi fare clic su **Modifica bozza**.
 
    ![](assets/5.png)
 
-1. Nell’editor e-mail, fate clic su Impostazioni **e-** mail.
+1. Nell&#39;editor e-mail, fare clic su **Impostazioni e-mail**.
 
    ![](assets/6.png)
 
-1. Se non è già selezionato, seleziona **Pubblica in Marketing** . Ora puoi deselezionare **Consenti agli utenti CRM di modificare le e-mail** per bloccare il modello. Fate clic su **Salva**.
+1. Selezionare **Pubblica in Marketing Sales Insight** se non è già selezionato. Ora puoi deselezionare **Consenti all&#39;utente CRM di modificare l&#39;e-mail** per bloccare il modello. Fare clic su **Salva**.
 
    ![](assets/7.png)
 
