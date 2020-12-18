@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica dell’ora di scadenza per gli URL nelle e-mail dei rapporti {#change-the-expiration-time-for-urls-in-report-emails}
+# Modificare il tempo di scadenza per gli URL nelle e-mail dei rapporti {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 I collegamenti nelle e-mail di iscrizione al rapporto scadono dopo tre giorni. Per modificare l&#39;ora di scadenza di questi collegamenti, attenetevi alla seguente procedura.
 
-1. In **Admin**, fai clic su Impostazioni **di** accesso.
+1. In **Admin**, fare clic su **Impostazioni di accesso**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
@@ -27,7 +27,7 @@ I collegamenti nelle e-mail di iscrizione al rapporto scadono dopo tre giorni. P
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Dal menu a discesa, scegliete quanti giorni prima della scadenza del collegamento. Fate clic su **Salva**.
+1. Dal menu a discesa, scegliete quanti giorni prima della scadenza del collegamento. Fare clic su **Salva**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
