@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puoi modificare qualsiasi modello di pagina di destinazione in Marketo.
 
-1. Andate a **Design Studio**.
+1. Vai a **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Espandete Pagine **di** destinazione per mostrare i modelli.
+1. Espandete **Pagine di destinazione** per mostrare i modelli.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selezionate il **modello** da modificare. Fare clic su** Modifica bozza*.
+1. Selezionare il **Modello** da modificare. Fare clic su** Modifica bozza*.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
