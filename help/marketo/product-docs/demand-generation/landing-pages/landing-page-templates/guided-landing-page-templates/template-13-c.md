@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modello 13-A {#template-c}
+# Modello 13-C {#template-c}
 
 [Scarica modello 13-C](http://docs.marketo.com/download/attachments/9437792/template-13c.html?version=1&amp;modificationdate=1438980021000&amp;api=v2)
 
