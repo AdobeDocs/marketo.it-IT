@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Aggiungi colonne opportunità a un report lead {#add-opportunity-columns-to-a-lead-report}
 
-Per visualizzare le statistiche sulle opportunità nei rapporti [](http://docs.marketo.com/display/docs/basic+reporting)personali, puoi aggiungere colonne sulle opportunità.
+Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](http://docs.marketo.com/display/docs/basic+reporting), puoi aggiungere delle colonne sulle opportunità.
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Configurazione** .
+1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Configurazione**.
 
    ![](assets/two.png)
 
-1. Fate doppio clic su Colonne **** opportunità.
+1. Fare doppio clic su **Colonne opportunità**.
 
    ![](assets/three.png)
 
-1. Selezionate **Mostrato** dal menu a discesa.
+1. Selezionare **Shown** dal menu a discesa.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Fai clic sulla scheda **Rapporto** per visualizzare il rapporto con le metriche delle opportunità.
+1. Fai clic sulla scheda **Report** per visualizzare il report con le metriche delle opportunità.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Per visualizzare le statistiche sulle opportunità nei rapporti [](http://docs.m
    >
    >Scorri a destra per visualizzare altre colonne.
 
-1. Per [aggiungere o rimuovere colonne dal rapporto](select-report-columns.md), fai clic su un&#39;intestazione di colonna e seleziona **Colonne**.
+1. Per [aggiungere o rimuovere colonne dal report](select-report-columns.md), fare clic su un&#39;intestazione di colonna e selezionare **Colonne**.
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ Per visualizzare le statistiche sulle opportunità nei rapporti [](http://docs.m
 
    | Colonna | Descrizione |
    |---|---|
-   | Nessuna opportunità | Numero di persone che *non* sono un contatto di opportunità principale. |
-   | Giorni senza opportunità | Età media, in giorni, di persone che *non* sono un contatto primario. |
+   | Nessuna opportunità | Numero di persone che non sono *non* un contatto di opportunità principale. |
+   | Giorni senza opportunità | Età media, in giorni, delle persone che sono *non* un contatto primario. |
    | Con opportunità | Numero di persone che costituiscono un contatto principale per le opportunità. |
    | Con opportunità % | Percentuale di persone che costituiscono un contatto principale con le opportunità. |
    | Giorni fino all&#39;opportunità | Numero medio di giorni per la conversione da persona a contatto opportunità principale. |
@@ -71,12 +71,12 @@ Per visualizzare le statistiche sulle opportunità nei rapporti [](http://docs.m
    >**Articoli correlati**
    >
    >
-   >Scopri come [gestire le dimensioni del rapporto](configure-report-size.md).
+   >Scopri come [gestire le dimensioni del report](configure-report-size.md).
 
    >[!NOTE]
    >
    >**Tubo profondo**
    >
    >
-   >Scopri cosa puoi fare con i report nel dettaglio [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting) (Generazione di rapporti di base).
+   >Scopri cos&#39;altro puoi fare con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
