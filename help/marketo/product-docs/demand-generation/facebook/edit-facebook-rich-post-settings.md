@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Modifica impostazioni post RTF Facebook {#edit-facebook-rich-post-settings}
+# Modifica impostazioni post RTF di Facebook {#edit-facebook-rich-post-settings}
 
-Personalizzate i post quando gli utenti vi [condividono](http://docs.marketo.com/display/docs/social) su Facebook.
+Personalizzate i post quando le persone [condividono ](http://docs.marketo.com/display/docs/social) su Facebook.
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Personalizzate i post quando gli utenti vi [condividono](http://docs.marketo.com
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-Le app [](http://docs.marketo.com/display/docs/social) social marketing consentono ai lead di condividere le pagine di destinazione con le loro connessioni sui social network come Facebook, Twitter, ecc. I tag OpenGraph di Facebook (tag OG) consentono di specificare quali informazioni della pagina di destinazione sono incluse nei post di Facebook.
+Le [app per social network](http://docs.marketo.com/display/docs/social) consentono ai lead di condividere le pagine di destinazione con le loro connessioni sui social network come Facebook, Twitter, ecc. I tag OpenGraph di Facebook (tag OG) consentono di specificare quali informazioni della pagina di destinazione sono incluse nei post di Facebook.
 
-## Selezione delle opzioni per i post avanzati {#select-rich-post-options}
+## Seleziona le opzioni per i post avanzati {#select-rich-post-options}
 
 Potete specificare i tipi di informazioni di pagina da utilizzare nei post ricchi di Facebook generati dalle condivisioni dalla pagina di destinazione.
 
-1. Selezionate Messaggio **** Facebook nell’editor per il pulsante video o social di **YouTube** .
+1. Selezionate **Facebook Message** nell&#39;editor per il pulsante video o social di **YouTube**.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -37,12 +37,12 @@ Potete specificare i tipi di informazioni di pagina da utilizzare nei post ricch
 
       ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Aggiungi contenuto dinamico: L&#39;app per social network può utilizzare i `<TITLE>`tag, `<CAPTION>`e `<DESCRIPTION>` le pagine di destinazione per popolare i post avanzati.
+   * Aggiungi contenuto dinamico: L&#39;app per social network può utilizzare i tag `<TITLE>`, `<CAPTION>` e `<DESCRIPTION>` della pagina di destinazione per compilare il post RTF.
 
       ![](assets/image2014-9-22-16-3a48-3a9.png)
    >[!NOTE]
    >
-   >Questi dovrebbero già esistere nell&#39;origine della pagina, ma per un maggiore controllo, potete [aggiungere alla pagina](edit-facebook-rich-post-settings.md)di destinazione specifici tag OG di Facebook.
+   >Questi dovrebbero già esistere nell&#39;origine della pagina, ma per un maggiore controllo, è possibile [aggiungere specifici tag OG di Facebook alla pagina di destinazione](edit-facebook-rich-post-settings.md).
 
    * Non aggiungere contenuti avanzati: Limita i post di Facebook dalla pagina di destinazione al messaggio e al collegamento principali.
 
@@ -50,17 +50,17 @@ Potete specificare i tipi di informazioni di pagina da utilizzare nei post ricch
 
 
 
-## Aggiunta di tag OG di Facebook a una pagina di destinazione {#add-facebook-og-tags-to-a-landing-page}
+## Aggiungere tag OG di Facebook a una pagina di destinazione {#add-facebook-og-tags-to-a-landing-page}
 
 Per controllare gli elementi della pagina che verranno inclusi nelle condivisioni Facebook dalla pagina di destinazione, potete aggiungere alla pagina di destinazione tag OG (Open Graph) di Facebook per titolo, didascalia e descrizione.
 
-1. Aprite la pagina di destinazione che contiene il pulsante video **o social di** YouTube.
+1. Aprite la pagina di destinazione che contiene il **pulsante video di YouTube** o il pulsante per social network.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Il Designer **pagina di** destinazione si apre in una nuova finestra.
+   La **pagina di destinazione Designer** si apre in una nuova finestra.
 
-1. Selezionare Azioni **pagina di** destinazione > **Modifica metadati pagina****.**
+1. Selezionare **Azioni pagina di destinazione** > **Modifica tag metadati pagina***.**
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
