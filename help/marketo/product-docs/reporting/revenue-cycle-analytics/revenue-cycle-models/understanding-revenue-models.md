@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sui modelli di ricavi {#understanding-revenue-models}
+# I modelli di ricavi {#understanding-revenue-models}
 
 I modelli del ciclo dei ricavi portano il marketing al livello successivo. Esse modellano tutte le fasi dell&#39;intero imbuto delle entrate, dal momento in cui si interagisce per la prima volta con un lead fino a quando il lead non è un cliente vincente.
 
@@ -31,15 +31,15 @@ Il modellatore misura tutti la quantità di lead nel bucket in un dato momento. 
 
 I modelli sono generalmente per i clienti che si sentono a proprio agio con campagne e programmi intelligenti e desiderano portare le proprie analisi al livello successivo.
 
-## Avvio con un nuovo modello {#starting-with-a-new-model}
+## A partire da un nuovo modello {#starting-with-a-new-model}
 
 Per impostazione predefinita, un nuovo modello inizia con sei fasi di ricavo. Questo modello è perfetto da solo, ma può essere profondamente personalizzato.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Notate che sono tutti su uno sfondo verde. Questo è denominato Percorso **di** successo. Ulteriori informazioni sul percorso di successo [qui](understanding-revenue-model-success-path.md).
+Notate che sono tutti su uno sfondo verde. Questo è denominato **Percorso di successo**. Ulteriori informazioni sul percorso di successo [qui](understanding-revenue-model-success-path.md).
 
-**Le tappe** sono le tappe di un avanzamento lead verso i loro obiettivi.
+**Le** fasi sono le pietre miliari su un avanzamento lead verso i loro obiettivi.
 
 **Le transizioni **sono visualizzate come frecce e controllano il modo in cui i lead si spostano tra le fasi.
 
@@ -53,13 +53,13 @@ Ogni azienda è diversa. È possibile aggiungere elementi al modello trascinando
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Fase di inventario {#inventory-stage}
+## Fase magazzino {#inventory-stage}
 
 Questo sembra una scatola ed è il più basilare di stadi. Analytics terrà traccia dell’afflusso, dell’uscita e dell’equilibrio di questa fase.
 
 ## Fase SLA {#sla-stage}
 
-Questo è breve per la fase del contratto **a livello di** servizio. L&#39;intento qui è che alcune fasi si desidera applicare un limite di tempo.
+Breve per il passaggio **Contratto a livello di servizio**. L&#39;intento qui è che alcune fasi si desidera applicare un limite di tempo.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Un passaggio Gate è destinato alle situazioni in cui si desidera filtrare i lea
 >
 >**Esempio**
 >
->È possibile utilizzare un gate per i lead che fanno parte di un elenco **di account** denominato per separare questo processo dal normale.
+>È possibile utilizzare un gate per i lead che fanno parte di un **elenco di account denominati** per separare questo tipo di account dal normale processo.
 
 ## Transizioni {#transitions}
 
