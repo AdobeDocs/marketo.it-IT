@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Organizzare immagini e file utilizzando le cartelle {#organize-your-images-and-files-using-folders}
+# Organizzare le immagini e i file utilizzando le cartelle {#organize-your-images-and-files-using-folders}
 
 La creazione di cartelle consente di spostare immagini e file, visualizzare solo il set di immagini desiderato e caricare direttamente in una cartella specifica.
 
-1. Andate a **Design** **Studio**.
+1. Passare alla **Progettazione** **Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Fare clic con il pulsante destro del mouse su** Immagini e File** nel menu di sinistra, quindi selezionare **Nuova cartella**.
+1. Fare clic con il pulsante destro del mouse su** Immagini e file** nel menu a sinistra, quindi selezionare **Nuova cartella**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
