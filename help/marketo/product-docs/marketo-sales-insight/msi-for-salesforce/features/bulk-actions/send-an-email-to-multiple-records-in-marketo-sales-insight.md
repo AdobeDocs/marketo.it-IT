@@ -15,25 +15,25 @@ ht-degree: 0%
 
 È molto facile inviare un&#39;e-mail Marketo a più persone tramite Marketing Sales Insight. Cominciamo.
 
-1. In Salesforce, fai clic su **Lead** o **Contatti**.
+1. In Salesforce, fare clic su **Lead** o **Contatti**.
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
-1. Fate clic su **Vai** per visualizzare tutti i lead aperti.
+1. Fare clic su **Vai** per visualizzare tutti i lead aperti.
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
-1. Nella vista a elenco, controllate tutti i lead/contatti a cui desiderate inviare il messaggio e-mail e fate clic su **Invia e-mail a Marketo (interfaccia classica)**.
+1. Nella vista a elenco, controllate tutti i lead/contatti a cui desiderate inviare l&#39;e-mail e fate clic su **Invia e-mail a Marketo (classico)**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Se utilizzi Salesforce Lightning, il pulsante è **Invia e-mail a Marketo (fulmine)**.
+   >Se utilizzi Salesforce Lightning, il pulsante ti dirà **Invia e-mail Marketo (fulmine)**.
 
    >[!TIP]
    >
-   >Non vede il pulsante? Accertatevi di aver [aggiunto i pulsanti Marketo alla vista](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)Elenco.
+   >Non vede il pulsante? Assicurarsi di aver [aggiunto i pulsanti Marketo alla vista elenco](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
 1. Continua a comporre la tua e-mail. Fare clic su **Send with Marketo **al termine.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Potete [pubblicare un messaggio e-mail in Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e scegliere tra tali messaggi.
+   >È possibile [pubblicare un&#39;e-mail su Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e scegliere tra queste e-mail.
 
    >[!NOTE]
    >
