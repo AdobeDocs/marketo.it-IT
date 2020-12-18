@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Approfondimenti in un report sulle prestazioni delle persone {#drill-down-in-a-people-performance-report}
+# Approfondisci in un report sulle prestazioni delle persone {#drill-down-in-a-people-performance-report}
 
 Espandete in un report sulle prestazioni delle persone per visualizzare informazioni aggiuntive sulle persone.
 
-1. Fare clic sulla scheda **Rapporto** per visualizzare qualsiasi rapporto esistente.
+1. Fare clic sulla scheda **Report** per visualizzare qualsiasi rapporto esistente.
 
    ![](assets/one.png)
 
@@ -27,7 +27,7 @@ Espandete in un report sulle prestazioni delle persone per visualizzare informaz
 
    ![](assets/three.png)
 
-1. Nel menu a comparsa **Drill-Down** , selezionate l&#39;attributo a cui desiderate eseguire il drill-down. Quindi fare clic su** Drill-Down**.
+1. Nel menu a comparsa **Drill-Down**, selezionate l&#39;attributo a cui desiderate eseguire il drill-down. Quindi fare clic su** Drill-Down**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Espandete in un report sulle prestazioni delle persone per visualizzare informaz
 
    ![](assets/five.png)
 
-1. Per salvare i risultati (facoltativo), fate clic sull’icona **Esporta** in basso a sinistra.
+1. Per salvare i risultati (facoltativo), fate clic sull&#39;icona **Export** in basso a sinistra.
 
    ![](assets/six.png)
 
