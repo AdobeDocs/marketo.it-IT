@@ -17,11 +17,11 @@ Utilizzando la ricerca avanzata per target di potenziali clienti che hanno visua
 
 ## Come accedere alla ricerca avanzata {#how-to-access-advanced-search}
 
-1. Fare clic su **Centro** comandi.
+1. Fare clic su **Centro comandi**.
 
    ![](assets/one.png)
 
-1. Fate clic su **E-mail**.
+1. Fare clic su **E-mail**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Utilizzando la ricerca avanzata per target di potenziali clienti che hanno visua
 
    ![](assets/three.png)
 
-1. Fate clic su Ricerca **avanzata**.
+1. Fare clic su **Ricerca avanzata**.
 
    ![](assets/four.png)
 
@@ -102,7 +102,7 @@ Filtri per e-mail mai consegnati.
 
 Come creare una ricerca salvata.
 
-1. Dopo aver inserito tutti i filtri, fate clic su **Salva filtri come**.
+1. Dopo aver inserito tutti i filtri, fare clic su **Salva filtri come**.
 
    ![](assets/save-search-1.png)
 
