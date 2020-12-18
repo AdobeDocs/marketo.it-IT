@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Colonne e-mail e layout pagina e-mail {#email-columns-and-email-page-layout}
+# Colonne e layout pagina e-mail {#email-columns-and-email-page-layout}
 
 È possibile configurare una qualsiasi delle colonne disponibili affinché sia visibile nella sezione e-mail del Centro comandi. Le impostazioni di configurazione verranno salvate per ogni sottocartella dell’e-mail (ad esempio, Consegnato, Non riuscito, Pianificato, ecc.).
 
@@ -122,7 +122,7 @@ Per configurare il layout, effettuate le seguenti operazioni.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Selezionate la sezione **E-mail** .
+1. Selezionare la sezione **E-mail**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
