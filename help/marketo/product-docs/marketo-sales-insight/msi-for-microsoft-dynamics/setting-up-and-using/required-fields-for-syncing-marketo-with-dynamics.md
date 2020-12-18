@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Campi obbligatori per la sincronizzazione del marketing con Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Questi campi *devono* essere sincronizzati con Marketo sia per il lead che per il contatto per il funzionamento di Sales Insight:
+Questi campi *devono essere sincronizzati con Marketo sia per il lead che per il funzionamento di Contatto per il reparto Vendite:*
 
 * Priorità
 * Urgenza
 * Punteggio relativo
 
-Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, controllate che i campi siano sincronizzati sia per **Lead** che per **Contatto**. In caso contrario, aggiungeteli.
+Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, verificare che i campi siano sincronizzati sia per **Lead** che per **Contact**. In caso contrario, aggiungeteli.
 
 Questo è il modo in cui verificare e aggiungere campi di sincronizzazione.
 
