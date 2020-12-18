@@ -23,7 +23,7 @@ Le app di solito iniziano in un ambiente sandbox, dove vengono eseguiti lo svilu
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -35,7 +35,7 @@ Le app di solito iniziano in un ambiente sandbox, dove vengono eseguiti lo svilu
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Immettete un nome. Nel menu a **discesa Tipo** , selezionate il tipo di ambiente in uso: Sandbox o Produzione. Fate clic su **Salva**.
+1. Immettete un nome. Nel menu a discesa **Tipo**, selezionate il tipo di ambiente in uso: Sandbox o Production. Fare clic su **Salva**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
