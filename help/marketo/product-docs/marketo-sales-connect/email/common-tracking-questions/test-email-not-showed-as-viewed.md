@@ -19,7 +19,7 @@ La ragione? Sales Connect è intelligente e i nostri utenti attivi non ci perdon
 
 Ecco come arrivare all&#39;unico posto in cui mostreremo l&#39;autotracciamento.
 
-1. Andate al centro [comandi](http://toutapp.com/next#emails/command_center).
+1. Andate al centro [Comando](http://toutapp.com/next#emails/command_center).
 1. Individuate il messaggio e-mail che avete inviato nella cartella Posta inviata e selezionatelo.
-1. Fate clic sul pulsante **Dettagli** . Dovreste vedere le vostre opinioni da voi presentate.
+1. Fare clic sul pulsante **Dettagli**. Dovreste vedere le vostre opinioni da voi presentate.
 
