@@ -21,7 +21,7 @@ Scoprite come inviare un messaggio e-mail a un intero gruppo o aggiungere un gru
 
    ![](assets/one-6.png)
 
-1. Fate clic sul pulsante **Azioni** gruppo e selezionate Gruppo **e-** mail.
+1. Fare clic sul pulsante **Azioni gruppo** e selezionare **Gruppo e-mail**.
 
    ![](assets/two-5.png)
 
@@ -37,11 +37,11 @@ Scoprite come inviare un messaggio e-mail a un intero gruppo o aggiungere un gru
 
    ![](assets/one-6.png)
 
-1. Fate clic sul pulsante **Azioni** gruppo e selezionate **Aggiungi gruppo a campagna**.
+1. Fare clic sul pulsante **Azioni gruppo** e selezionare **Aggiungi gruppo a campagna**.
 
    ![](assets/four-4.png)
 
-1. Confermate la selezione delle persone giuste e fate clic su **Avanti**.
+1. Confermate la selezione delle persone giuste e fate clic su **Next**.
 
    ![](assets/six-1.png)
 
@@ -49,7 +49,7 @@ Scoprite come inviare un messaggio e-mail a un intero gruppo o aggiungere un gru
    >
    >Potresti visualizzare un&#39;opzione da aggiungere a una campagna Marketo. [È un altro articolo](http://docs.marketo.com/x/CwDh).
 
-1. Selezionate una campagna (potete selezionare una categoria per limitare i risultati) e fate clic su **Avanti**.
+1. Selezionate una campagna (potete selezionare una categoria per limitare i risultati) e fate clic su **Next**.
 
    ![](assets/seven-1.png)
 
@@ -57,7 +57,7 @@ Scoprite come inviare un messaggio e-mail a un intero gruppo o aggiungere un gru
 
    ![](assets/eight-1.png)
 
-1. Pianificate la campagna e fate clic su **Avvia**.
+1. Pianificare la campagna e fare clic su **Start**.
 
    ![](assets/nine-1.png)
 
