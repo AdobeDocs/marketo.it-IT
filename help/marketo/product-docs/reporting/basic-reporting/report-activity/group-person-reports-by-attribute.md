@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Rapporti sulla persona del gruppo per attributo {#group-person-reports-by-attribute}
 
-Potete raggruppare i rapporti sulle [persone](http://docs.marketo.com/display/docs/basic+reporting) in base a qualsiasi attributo di persona o società.
+Potete raggruppare i rapporti [persona](http://docs.marketo.com/display/docs/basic+reporting) per qualsiasi persona o attributo della società.
 
-1. Andate all&#39;area **Attività** di marketing (o **Analytics**).
+1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Selezionate il rapporto sulla persona nella struttura di navigazione e fate clic sulla scheda **Configurazione** .
+1. Selezionate il rapporto sulla persona nella struttura di navigazione e fate clic sulla scheda **Setup**.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Fate doppio clic su **Raggruppa persone per**.
+1. Fare doppio clic su **Raggruppa persone per**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
    >[!NOTE]
    >
-   >Potete anche [raggruppare i rapporti sulle persone per segmento](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >È inoltre possibile [raggruppare i rapporti personali per segmento](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Nella finestra di dialogo Raggruppa persone per, selezionate l’attributo persona o società da usare per il raggruppamento.
 
@@ -37,7 +37,7 @@ Potete raggruppare i rapporti sulle [persone](http://docs.marketo.com/display/do
 
    >[!TIP]
    >
-   >Se scegliete un attributo con un valore numerico, ad esempio *Creato a* o Ricavo ** annuale, selezionate le metriche dal menu a discesa **Unità** a destra.
+   >Se scegliete un attributo con un valore numerico, ad esempio *Creato a* o *Entrate annuali*, selezionate le metriche dal menu a discesa **Unità** a destra.
 
    È tutto! Fai clic sulla scheda Rapporto per visualizzare il rapporto raggruppato di conseguenza.
 
@@ -48,7 +48,7 @@ Potete raggruppare i rapporti sulle [persone](http://docs.marketo.com/display/do
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni sui rapporti sulle persone e altri tipi di rapporti nel documento [Base](http://docs.marketo.com/display/docs/basic+reporting)Reporting (Creazione di rapporti di base).
+   >Ulteriori informazioni sui report delle persone e altri tipi di report nel corso [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)informazioni approfondite.
 
    >[!NOTE]
    >
