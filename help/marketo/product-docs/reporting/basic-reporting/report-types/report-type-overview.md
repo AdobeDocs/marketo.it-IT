@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica tipo di rapporto {#report-type-overview}
+# Panoramica sul tipo di rapporto {#report-type-overview}
 
 Quando [create un rapporto in un programma](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), scegliete il tipo di rapporto desiderato.
 
@@ -47,7 +47,7 @@ Quando [create un rapporto in un programma](../../../../product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Report stato Persone per ricavi</a>  </strong></td> 
-   <td>Report di base per il modello <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics"></a>Revenue. Consulta <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi</a> del ciclo delle entrate per report più approfonditi.</td> 
+   <td>Reporting di base per il <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Modello ricavi</a>. Per informazioni dettagliate, vedere <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestazioni della pagina di destinazione</a>  </strong></td> 
@@ -55,7 +55,7 @@ Quando [create un rapporto in un programma](../../../../product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Prestazioni del programma</a>  </strong></td> 
-   <td>Metriche di base del programma come membri e successo. Consulta <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi</a> del ciclo delle entrate per report più approfonditi.</td> 
+   <td>Metriche di base del programma come membri e successo. Per informazioni dettagliate, vedere <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Attività Web società</a>  </strong></td> 
@@ -71,7 +71,7 @@ Quando [create un rapporto in un programma](../../../../product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Report prestazioni flusso di coinvolgimento</a> </strong></td> 
-   <td><p>Scopri come funziona il tuo programma <a href="http://docs.marketo.com/display/docs/drip+nurturing">di</a> coinvolgimento.</p></td> 
+   <td><p>Scopri il funzionamento del <a href="http://docs.marketo.com/display/docs/drip+nurturing">programma di coinvolgimento</a>.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -82,12 +82,12 @@ Non è utile come i tipi di rapporto sopra, ma è ancora disponibile.
 
 | Report | Descrizione |
 |---|---|
-| ** Attività [](campaign-activity-report.md) campagna ** | Stati di elaborazione delle campagne intelligenti. |
-| ** Prestazioni [e-mail](campaign-email-performance-report.md) campagna ** | Prestazioni e-mail, raggruppate per campagne intelligenti. |
+| ** [Attività campagna](campaign-activity-report.md) ** | Stati di elaborazione delle campagne intelligenti. |
+| ** [Prestazioni e-mail campagna](campaign-email-performance-report.md) ** | Prestazioni e-mail, raggruppate per campagne intelligenti. |
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
->Per visualizzare tutte le operazioni che puoi eseguire con questi rapporti, consulta la sezione [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting) (Generazione di rapporti di base).
+>Per visualizzare tutte le operazioni che puoi eseguire con questi report, consulta la sezione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
