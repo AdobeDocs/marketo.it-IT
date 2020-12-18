@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Filtrare un rapporto attività campagna {#filter-a-campaign-activity-report}
+# Filtrare un report Attività campagna {#filter-a-campaign-activity-report}
 
-Concentrate il [Rapporto sulle attività della](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)campagna su campagne [](http://docs.marketo.com/display/docs/smart+campaigns)intelligenti specifiche.
+Concentrate il vostro [Rapporto attività campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)su [campagne intelligenti ](http://docs.marketo.com/display/docs/smart+campaigns) specifiche.
 
 1. Andate a **Marketing Activities** (o **Analytics**) e selezionate il rapporto sulle attività della campagna.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. Fate clic sulla scheda **Configurazione** e fate doppio clic su **Campagne.**
+1. Fare clic sulla scheda **Configurazione** e fare doppio clic su **Campagne.**
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
-1. Scegliete le cartelle e specifiche campagne intelligenti da includere nel rapporto. Fate clic su **Applica**.
+1. Scegliete le cartelle e specifiche campagne intelligenti da includere nel rapporto. Fare clic su **Applica**.
 
    ![](assets/image2014-9-16-16-3a14-3a11.png)
 
@@ -31,7 +31,7 @@ Concentrate il [Rapporto sulle attività della](../../../../product-docs/reporti
    >
    >Se selezionate una cartella, il rapporto includerà tutto ciò che contiene al momento dell&#39;esecuzione del rapporto.
 
-1. Hai finito! Fai clic sulla scheda **Rapporto** per visualizzare *solo* le campagne avanzate selezionate nel rapporto.
+1. Hai finito! Fare clic sulla scheda **Report** per visualizzare *solo* le campagne smart selezionate nel report.
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
@@ -47,5 +47,5 @@ Concentrate il [Rapporto sulle attività della](../../../../product-docs/reporti
 >
 >**Tubo profondo**
 >
->Scopri tutte le informazioni sui report in [Basic Reporting (Rapporti](http://docs.marketo.com/display/docs/basic+reporting)di base).
+>Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
