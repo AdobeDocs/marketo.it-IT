@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Definizione della priorità per le campagne Web {#prioritizing-web-campaigns}
+# Definizione delle priorità per le campagne Web {#prioritizing-web-campaigns}
 
 Assegnate priorità alle campagne Web quando due o più campagne Web si sovrappongono impostando un punteggio prioritario.
 
@@ -34,7 +34,7 @@ Una campagna In Zone e una campagna (Widget o Dialog) possono reagire sulla stes
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna Web desiderata, utilizzate la funzione [](filter-web-campaigns.md)filtro.
+   >Per trovare più facilmente la campagna Web desiderata, utilizzate la [funzionalità filtro](filter-web-campaigns.md).
 
 1. Nella pagina Edit Campaign (Modifica campagna), imposta il punteggio prioritario (9999 = Highest Priority 1 = Lower Priority (Priorità più bassa).
 
