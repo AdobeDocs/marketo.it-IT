@@ -32,19 +32,19 @@ Marketing Sales Insight è memorizzato per lingua. Se desiderate che funzioni pe
 Per impostazione predefinita, qualsiasi altra lingua è inglese.
 
 1. Aggiunta di una nuova lingua per Marketing Sales Insight
-1. Accedi a Salesforce. Nell’elenco a discesa sotto il vostro nome, nell’angolo in alto a destra, fate clic su **Configurazione**.
+1. Accedi a Salesforce. Nell&#39;elenco a discesa sotto il vostro nome nell&#39;angolo in alto a destra, fate clic su **Setup**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. In** Dati personali**, fare clic su Informazioni **** personali.
+1. In** Dati personali**, fare clic su **Informazioni personali**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. Selezionate una lingua e fate clic su **Salva**.
+1. Selezionare una lingua e fare clic su **Salva**.
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
@@ -56,7 +56,7 @@ Per impostazione predefinita, qualsiasi altra lingua è inglese.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Vai a Marketo. Individua i dettagli di configurazione [dell&#39; **API Marketing** to Sales Insight](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
+1. Vai a Marketo. Individua la [Marketing Sales Insight **configurazione API** dettagli](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -64,7 +64,7 @@ Per impostazione predefinita, qualsiasi altra lingua è inglese.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## Cambia Salesforce in inglese {#change-salesforce-back-to-english}
+## Cambia Salesforce in inglese{#change-salesforce-back-to-english}
 
 Quando hai finito di personalizzare la tua organizzazione Salesforce, ecco come riportare la tua configurazione personale in inglese.
 
@@ -76,15 +76,15 @@ Quando hai finito di personalizzare la tua organizzazione Salesforce, ecco come 
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Fate clic su Informazioni **** personali in **Dati** personali.
+1. Fare clic su **Informazioni personali** in **Informazioni personali**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. Selezionate **Inglese** dal menu a discesa Lingua e fate clic su **Salva**.
+1. Selezionare **English** dal menu a discesa Lingua e fare clic su **Save**.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
