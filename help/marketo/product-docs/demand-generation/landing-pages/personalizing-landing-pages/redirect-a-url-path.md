@@ -19,15 +19,15 @@ Consente di reindirizzare facilmente un percorso URL a qualsiasi pagina selezion
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin,** fate clic su **Pagine** di destinazione.
+1. In **Amministratore,** fare clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Fare clic sulla scheda **Regole** , quindi fare clic su **Nuovo **e **Nuova regola** di reindirizzamento.
+1. Fare clic sulla scheda **Regole**, quindi fare clic su **New **and **New Redirect Rule** (Nuova regola di reindirizzamento).
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Fai clic sul primo elenco a discesa URL **** originale e seleziona il CNAME Marketo.
+1. Fare clic sul primo **URL originale** a discesa e selezionare il CNAME Marketo.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -36,17 +36,17 @@ Consente di reindirizzare facilmente un percorso URL a qualsiasi pagina selezion
    >**Promemoria**
    >
    >
-   >Ricorda, puoi reindirizzare solo gli URL che iniziano con il [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)Marketo.
+   >Ricorda, puoi reindirizzare solo gli URL che iniziano con il tuo Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Digitate il percorso dell’URL (o pagina specifica) da reindirizzare nel secondo campo URL **** originale a destra.
+1. Digitate il percorso dell&#39;URL (o pagina specifica) che desiderate reindirizzare nel secondo campo **URL originale** a destra.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Fate clic su **Usa pagina** di destinazione senza marketing, digitate la pagina a cui desiderate reindirizzare i visitatori nel campo URL **di** reindirizzamento e fate clic su **Crea**.
+1. Fare clic su **Usa pagina di destinazione non marketing**, digitare la pagina a cui si desidera reindirizzare i visitatori nel campo **Redirect URL**, quindi fare clic su **Crea**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Potete [utilizzare Marketo anche le pagine](https://docs.marketo.com/x/vAEk) di destinazione.
+   È possibile [utilizzare Marketo landing pages](https://docs.marketo.com/x/vAEk) anche come destinazione.
 
 Congratulazioni!  Il percorso dell&#39;URL è stato reindirizzato.
 
