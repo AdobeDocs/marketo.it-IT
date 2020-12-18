@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Imposta campi punteggio da utilizzare per stelle e fiamme in Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Imposta campi punteggio da utilizzare per le stelle e le fiamme in Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Per impostazione predefinita, Marketing Sales Insight utilizza il campo **Punteggio** lead per calcolare stelle e fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
+Per impostazione predefinita, Marketing Sales Insight utilizza il campo **Lead Score** per calcolare stelle e fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
 >[!TIP]
 >
->Se non hai già i campi di valutazione personalizzati, ecco come [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)crearli.
+>Se non hai già i campi di valutazione personalizzati, ecco come [crearli](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)in questo modo.
 
 >[!NOTE]
 >
@@ -34,19 +34,19 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo **Punteg
 
 
 
-1. In **Admin**, fai clic su **Sales Insight**.
+1. In **Admin**, fare clic su **Sales Insight**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. In Impostazioni **punteggio** lead fare clic su **Modifica**.
+1. In **Impostazioni punteggio lead**, fare clic su **Modifica**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Selezionate il campo da usare per **le stelle**.
+1. Selezionare il campo che si desidera utilizzare per **Stelle**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Selezionare il campo da utilizzare per **Fiamme**.
+1. Selezionare il campo che si desidera utilizzare per **Fiamme**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
