@@ -23,7 +23,7 @@ Hai così tante campagne che lo scorrimento sta diventando ingombrante? Potete u
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna desiderata, utilizzate la funzione [](filter-web-campaigns.md)filtro.
+   >Per trovare più facilmente la campagna desiderata, utilizzate la [funzione filtro](filter-web-campaigns.md).
 
 1. Selezionate le campagne a cui desiderate assegnare un’etichetta.
 
@@ -51,7 +51,7 @@ Fantastico! Ora è possibile creare etichette e assegnarle alle campagne.
 
 >[!MORELIKETHIS]
 >
->* [L](create-a-new-in-zone-web-campaign.md) &#39; [etichetta di un segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [Etichettare ](create-a-new-in-zone-web-campaign.md) [un segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
