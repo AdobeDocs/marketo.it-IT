@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Personalizza flusso di condivisione video {#customize-video-share-flow}
+# Personalizza flusso condivisione video {#customize-video-share-flow}
 
-Quando [create una condivisione](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)video, potete personalizzare quando e dove viene visualizzato il prompt di condivisione.
+Quando [create una condivisione video](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), potete personalizzare quando e dove viene visualizzato il prompt di condivisione.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Quando [create una condivisione](../../../../product-docs/demand-generation/land
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Nell&#39;editor di condivisione video, andate a Impostazioni **** app > Opzioni **avanzate.**
+1. Nell&#39;editor di condivisione video, andate a **Impostazioni app** > **Opzioni avanzate.**
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,5 +33,5 @@ Quando [create una condivisione](../../../../product-docs/demand-generation/land
 
 >[!MORELIKETHIS]
 >
->Il passo successivo consiste nel [configurare ciò che accade dopo la condivisione](configure-after-share-prompts.md)video.
+>Il passaggio successivo è [configurare ciò che accade dopo la condivisione video](configure-after-share-prompts.md).
 
