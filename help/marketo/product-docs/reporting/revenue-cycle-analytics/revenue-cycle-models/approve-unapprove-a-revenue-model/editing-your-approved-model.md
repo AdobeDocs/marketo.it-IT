@@ -19,15 +19,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Non è possibile eliminare le fasi durante la modifica di una bozza di modello (dopo l&#39;approvazione del modello). È invece possibile unire tale fase a un altro nel modello. Fare clic con il pulsante destro del mouse sullo stage da unire e scegliere **Unisci**.
+1. Non è possibile eliminare le fasi durante la modifica di una bozza di modello (dopo l&#39;approvazione del modello). È invece possibile unire tale fase a un altro nel modello. Fare clic con il pulsante destro del mouse sull&#39;area di visualizzazione da unire e scegliere **Merge**.
 
    ![](assets/two.png)
 
-1. Scegliere la nuova fase per i lead attualmente in quella selezionata, oppure selezionare **Nessuno **per rimuovere i lead dal modello. Al termine, fate clic su **Unisci**.
+1. Scegliere la nuova fase per i lead attualmente in quella selezionata, oppure selezionare **Nessuno **per rimuovere i lead dal modello. Al termine, fare clic su **Merge**.
 
    ![](assets/three.png)
 
-1. Dopo aver apportato le modifiche al modello, riapprovarlo selezionando **Approva bozza** modello nel menu Azioni **** modello.
+1. Dopo aver apportato le modifiche al modello, riapprovarlo selezionando **Approva bozza modello** nel menu **Azioni modello**.
 
    ![](assets/four.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 >
 >Se non si approva il modello, tutti i relativi lead verranno rimossi e la relativa cronologia nel modello verrà eliminata. È consigliabile modificare il modello anziché annullarlo.
 
-1. Selezionare il modello da non approvare. Dal menu Azioni **** modello, selezionare **Annulla approvazione modello**.
+1. Selezionare il modello da non approvare. Dal menu **Azioni modello**, selezionare **Disapprova modello**.
 
    ![](assets/five.png)
 
-1. Fate clic su **Annulla approvazione**.
+1. Fare clic su **Disapprova**.
 
    ![](assets/six.png)
 
