@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Creare un nuovo modello di ricavi {#create-a-new-revenue-model}
 
-1. Per creare un nuovo modello di ciclo delle entrate, fai clic sul pulsante **Analisi** nella schermata iniziale Marca personale.
+1. Per creare un nuovo modello di ciclo delle entrate, fare clic sul pulsante **Analytics** nella schermata iniziale Marketo personale.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Nella scheda **Analytics** , fare clic su **Nuovo** e selezionare **Nuovo modello** di ciclo delle entrate.
+1. Nella scheda **Analytics**, fare clic su **New** e selezionare **New Revenue Cycle Model** (Nuovo modello di ciclo delle entrate).
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Viene visualizzata la finestra modale **Nuovo modello** ciclo ricavi. Immettete un nome e fate clic su **Crea**.
+1. Viene visualizzata una finestra modale **Nuovo modello di ciclo delle entrate**. Immettete un nome e fate clic su **Crea**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. Fare clic su **Modifica bozza** nella vista home del modello.
+1. Fare clic su **Modifica bozza** nella vista principale del modello.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,5 +37,5 @@ Sembra intelligente! Siete appena entrati nel meraviglioso mondo della modellazi
 
 >[!MORELIKETHIS]
 >
->Ulteriori informazioni sull&#39; [utilizzo delle fasi](using-revenue-model-inventory-stages.md)di inventario dei modelli di ricavi.
+>Ulteriori informazioni su [Utilizzo delle fasi di inventario dei modelli di ricavi](using-revenue-model-inventory-stages.md).
 
