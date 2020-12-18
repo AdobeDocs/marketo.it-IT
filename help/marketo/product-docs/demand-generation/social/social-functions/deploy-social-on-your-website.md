@@ -27,11 +27,11 @@ Potete implementare app social sul vostro sito Web per coinvolgere il pubblico e
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Selezionate **Incorpora** **codice****** dalle azioni delle app social.
+1. Selezionare **Incorpora** **Codice***** dalle azioni delle app social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copiate il codice per l’intestazione (`<head>`) e il corpo (`<body>`) della pagina del sito.
+1. Copiate il codice per l&#39;intestazione della pagina del sito (`<head>`) e il corpo (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -43,7 +43,7 @@ Potete implementare app social sul vostro sito Web per coinvolgere il pubblico e
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Per impostare le dimensioni dell&#39;app social su dimensioni specifiche sulla pagina, aggiungi le opzioni **outsideHeight** e **outsideWidth** al secondo frammento di codice. Ad esempio, puoi aggiungere options=&#39;{&quot;externalHeight&quot;:400, &quot;outsideWidth&quot;:600}&#39;, come in:
+1. Per impostare le dimensioni dell&#39;app social su dimensioni specifiche sulla pagina, aggiungete le opzioni **externalHeight** e **outerWidth** al secondo frammento di codice. Ad esempio, puoi aggiungere options=&#39;{&quot;externalHeight&quot;:400, &quot;outsideWidth&quot;:600}&#39;, come in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
