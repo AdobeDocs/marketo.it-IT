@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Disattivazione di una campagna {#turn-off-a-campaign}
+# Disattivare una campagna {#turn-off-a-campaign}
 
 Hai bisogno di terminare automaticamente una campagna quando un destinatario risponde? Ecco come.
 
 >[!NOTE]
 >
->Questa funzione è disponibile solo per i clienti che sono integrati con [Gmail o Exchange](https://toutapp.com/next#settings/email-tracking) e hanno attivato il tracciamento delle risposte.
+>Questa funzione è disponibile solo per i clienti che sono integrati con [Gmail o Exchange](https://toutapp.com/next#settings/email-tracking) e hanno abilitato il tracciamento delle risposte.
 
 ## Disattivazione di una campagna per una persona {#turn-off-a-campaign-for-one-person}
 
-Dopo aver creato la campagna, è sufficiente passare alla scheda **Impostazioni** e scegliere il comportamento della campagna in caso di risposta da parte di un utente.
+Dopo aver creato la campagna, andate semplicemente alla scheda **Settings** (Impostazioni) e scegliete come desiderate comportarvi la campagna se qualcuno risponde.
 
 Entrambe le opzioni termineranno la campagna e il destinatario non riceverà più e-mail dall&#39;utente.
 
