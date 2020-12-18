@@ -23,13 +23,13 @@ Coinvolgi le persone con un sondaggio che possono votare e condividere con i lor
 
 >[!PREREQUISITES]
 >
->Se desiderate utilizzare le immagini nel sondaggio, aggiungetele alla libreria Immagini e file di Marketo prima di iniziare. Aggiungete un’immagine da 60x60px per ogni voce del sondaggio. Consultate [Aggiungere immagini e file a Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Se desiderate utilizzare le immagini nel sondaggio, aggiungetele alla libreria Immagini e file di Marketo prima di iniziare. Aggiungete un’immagine da 60x60px per ogni voce del sondaggio. Vedere [Aggiungi immagini e file a Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. All’interno del programma, selezionate **Nuovo** > **Nuova risorsa locale.**
+1. All&#39;interno del programma, selezionare **Nuovo** > **Nuova risorsa locale.**
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Nella Raccolta risorse **locale,** fate clic su **Sondaggio.**
+1. Nella **Raccolta risorse locali,** fare clic su **Sondaggio.**
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -39,7 +39,7 @@ Coinvolgi le persone con un sondaggio che possono votare e condividere con i lor
 
    >[!TIP]
    >
-   >Per risparmiare tempo, potete usare l’opzione **Duplica da** per copiare tutte le impostazioni da una condivisione video esistente.
+   >Per risparmiare tempo, potete utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
 
 1. Assegna un titolo al sondaggio (in genere una domanda breve).
 
@@ -49,7 +49,7 @@ Coinvolgi le persone con un sondaggio che possono votare e condividere con i lor
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Per aggiungere una voce, fate clic sul simbolo **+** e modificate il titolo e la descrizione.
+1. Per aggiungere una voce, fare clic sul simbolo **+** e modificare il titolo e la descrizione.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -57,7 +57,7 @@ Coinvolgi le persone con un sondaggio che possono votare e condividere con i lor
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Selezionate l’immagine desiderata, quindi fate clic su **Seleziona.**
+1. Selezionare l&#39;immagine desiderata, quindi fare clic su **Seleziona.**
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
@@ -65,7 +65,7 @@ Coinvolgi le persone con un sondaggio che possono votare e condividere con i lor
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Fate clic su **Approva** e **Chiudi.**
+1. Fare clic su **Approva** e **Chiudi.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -73,7 +73,7 @@ L’editor del sondaggio si apre in una nuova finestra. Le impostazioni predefin
 
 >[!TIP]
 >
->Per modificare i valori predefiniti nel sondaggio, fate clic su **Indietro**. Per salvare il lavoro in un secondo momento senza approvazione, fare clic su **Chiudi**.
+>Per modificare le impostazioni predefinite del sondaggio, fare clic su **Indietro**. Per salvare il lavoro in un secondo momento senza approvazione, fare clic su **Chiudi**.
 
 In caso di problemi nel sondaggio, prima dell’approvazione del sondaggio vi verrà richiesto di risolverli. Congratulazioni! Il sondaggio è stato creato.
 
@@ -81,5 +81,5 @@ In caso di problemi nel sondaggio, prima dell’approvazione del sondaggio vi ve
 >
 >**Articoli correlati**
 >
->Il passaggio successivo consiste nel [pubblicare il sondaggio](publish-a-poll.md), ma se necessario potete modificare le impostazioni del sondaggio. Iniziate con [la personalizzazione delle impostazioni](customize-poll-settings.md)del sondaggio.
+>Il passaggio successivo consiste nel [pubblicare il sondaggio](publish-a-poll.md), ma se necessario è possibile modificare le impostazioni del sondaggio. Iniziate con [personalizzazione delle impostazioni del sondaggio](customize-poll-settings.md).
 
