@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l’iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano contenuti predittivi, Marketo attiva le funzioni di analisi dei contenuti`<sup>AI</sup>` fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento al contenuto`<sup>AI</sup>`di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Il Predictive Content Summary (Riepilogo contenuti predittivi) visualizza rapidamente le informazioni necessarie sul contenuto predittivo, con tabelle, grafici e numeri correnti.
 
@@ -37,7 +37,7 @@ Visualizzare il tasso di conversione confrontando clic totali e lead diretti e c
 
 ![](assets/predictive-engagement-actual.png)
 
-## Tendenza del contenuto per visualizzazioni  {#content-trend-by-views}
+## Tendenza del contenuto per visualizzazioni {#content-trend-by-views}
 
 Confrontate la corrispondenza tra le diverse viste di tutti i contenuti e il contenuto predittivo.
 
