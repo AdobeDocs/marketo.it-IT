@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Eliminare un gruppo {#delete-a-group}
 
-1. Accedete al gruppo da eliminare e fate clic su **Azioni**.
-1. Selezionate **Elimina gruppo** dal menu a discesa.
-1. Fate clic sul pulsante giallo **Elimina** nella finestra a comparsa.
+1. Accedete al gruppo da eliminare e fate clic su **Actions**.
+1. Selezionare **Elimina gruppo** dall&#39;elenco a discesa.
+1. Fare clic sul pulsante giallo **Elimina** nella finestra a comparsa.
 
    Preoccupata di eliminare accidentalmente un gruppo? Va bene, verificheremo se hai intenzione di farlo!
 
