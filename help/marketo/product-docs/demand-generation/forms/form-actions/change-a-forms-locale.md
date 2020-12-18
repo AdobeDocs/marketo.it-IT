@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Modifica delle impostazioni internazionali di un modulo {#change-a-forms-locale}
+# Modifica delle impostazioni internazionali del modulo {#change-a-forms-locale}
 
 Quando si utilizzano moduli internazionali, è necessario visualizzare le date/ore nei formati corretti. Marketo farà questo automaticamente per voi, tutto quello che dovete fare è impostare le impostazioni internazionali del modulo e ci occupiamo del resto.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. In **Impostazioni** **modulo** fare clic su **Impostazioni**.
+1. In **Form** **Settings** fare clic su **Settings**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Selezionare le **impostazioni internazionali** desiderate.
+1. Selezionare la **lingua** desiderata.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
@@ -48,7 +48,7 @@ Quando si utilizzano moduli internazionali, è necessario visualizzare le date/o
    >**Promemoria**
    >
    >
-   >Ricordare di [approvare la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) della pagina di destinazione creata dalle modifiche al modulo.
+   >Ricordare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche al modulo.
 
 1. 
 1. È così! Gli utenti possono visualizzare la data/ora nelle impostazioni internazionali corrette.
