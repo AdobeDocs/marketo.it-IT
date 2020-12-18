@@ -25,7 +25,7 @@ Gli amministratori possono [visualizzare tutte le campagne](http://docs.marketo.
 
 ![](assets/campaigns.jpg)
 
-Gli amministratori possono [visualizzare tutte le attività](http://docs.marketo.com/x/SYAXAQ)relative alle e-mail.
+Gli amministratori possono [visualizzare tutte le attività relative alle e-mail](http://docs.marketo.com/x/SYAXAQ).
 
 ![](assets/email-activity.png)
 
