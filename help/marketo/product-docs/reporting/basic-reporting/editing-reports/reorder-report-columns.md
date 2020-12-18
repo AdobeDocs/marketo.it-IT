@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Riordina colonne rapporto {#reorder-report-columns}
+# Riordina colonne report {#reorder-report-columns}
 
 È possibile modificare l&#39;ordine delle colonne in un rapporto.
 
-1. Andate all&#39;area **Attività** di marketing (o **Analytics**).
+1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Rapporto** .
+1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Report**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -47,5 +47,5 @@ ht-degree: 0%
    >**Tubo profondo**
    >
    >
-   >Scopri tutto il potenziale dell&#39;utilizzo dei report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Scopri tutta la potenza dell&#39;utilizzo dei report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
