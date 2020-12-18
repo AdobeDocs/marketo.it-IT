@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Eliminare un rapporto {#delete-a-report}
+# Eliminare un report {#delete-a-report}
 
-Una volta iniziato a [creare i rapporti](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), potete rapidamente completarne molti. Ricorda di eliminare i report non più necessari.
+Una volta avviata la creazione di [report](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), è possibile ottenere rapidamente numerosi report. Ricorda di eliminare i report non più necessari.
 
-1. Fare clic con il pulsante destro del mouse sul rapporto non necessario nella struttura e selezionare **Elimina rapporto**.
+1. Fare clic con il pulsante destro del mouse sul report non necessario nella struttura e selezionare **Elimina report**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -30,5 +30,5 @@ Una volta iniziato a [creare i rapporti](../../../../product-docs/reporting/basi
    >**Tubo profondo**
    >
    >
-   >Scopri tutte le altre operazioni che puoi eseguire con i report nel dettaglio [Basic Reporting (Generazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting) di base).
+   >Vedi tutte le altre cose che puoi fare con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
