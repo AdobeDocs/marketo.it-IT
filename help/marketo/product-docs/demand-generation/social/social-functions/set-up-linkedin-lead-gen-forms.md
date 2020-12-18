@@ -19,15 +19,15 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad **Amministratore** Marketo.
+1. Vai a Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vai a **LaunchPoint**, fai clic su **Nuovo** e seleziona **Nuovo servizio**.
+1. Vai a **LaunchPoint**, fai clic su **New** e seleziona **New Service**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Immettete un nome **** visualizzato per il servizio, selezionate il servizio **LinkedIn Lead Gen **dall&#39;elenco a discesa, quindi fate clic su **Avanti**.
+1. Immettere un **Nome visualizzato** per il servizio, selezionare il servizio **LinkedIn Lead Gen **dall&#39;elenco a discesa, quindi fare clic su **Next**.
 
    ![](assets/linkedin-lead-gen.png)
 
@@ -39,7 +39,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    ![](assets/linkedin-login.png)
 
-1. Dopo aver effettuato l’accesso a LinkedIn, tornate a Marketo e fate clic su **Autorizza**.
+1. Dopo aver eseguito l&#39;accesso a LinkedIn, tornate a Marketo e fate clic su **Autorizza**.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
@@ -47,15 +47,15 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Noterete che ora siete autorizzati. Fate clic su **Avanti**.
+1. Noterete che ora siete autorizzati. Fare clic su **Next**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >Il servizio scade automaticamente un anno dopo l&#39;autorizzazione. Per recuperare l’accesso, fate clic su **Riattiva autorizzazione**. A seconda delle impostazioni del browser, potrebbe essere necessario immettere nuovamente la password LinkedIn.
+   >Il servizio scade automaticamente un anno dopo l&#39;autorizzazione. Per recuperare l&#39;accesso, fai clic su **Riautorizzi**. A seconda delle impostazioni del browser, potrebbe essere necessario immettere nuovamente la password LinkedIn.
 
-1. Selezionate gli account da cui desiderate che i lead di LinkedIn Lead Gen arrivino a Marketo e fate clic su **Avanti**.
+1. Selezionare gli account da cui si desidera che i lead di LinkedIn Lead Gen arrivino a Marketo e fare clic su **Next**.
 
    >[!TIP]
    >
@@ -63,7 +63,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. Per accettare le mappature dei campi da LinkedIn a Marketo predefinite, fai clic su **Crea**. Se si desidera modificare la mappatura dei campi predefinita, rimuovere una mappatura dei campi o aggiungere una nuova mappatura dei campi, è possibile eseguire questa operazione in base ai campi utilizzando la modalità indicata di seguito.
+1. Per accettare le mappature predefinite dei campi da LinkedIn a Marketo, fare clic su **Crea**. Se si desidera modificare la mappatura dei campi predefinita, rimuovere una mappatura dei campi o aggiungere una nuova mappatura dei campi, è possibile eseguire questa operazione in base ai campi utilizzando la modalità indicata di seguito.
 
    >[!CAUTION]
    >
@@ -73,7 +73,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    >[!NOTE]
    >
-   >Solo i campi LinkedIn che sono già stati salvati in un modello [di](https://www.linkedin.com/help/lms/answer/79634) modulo in Gestione campagne LinkedIn verranno visualizzati come Campi LinkedIn che è possibile mappare ai campi Marketo.
+   >Solo i campi LinkedIn che sono già stati salvati in un [modello di modulo](https://www.linkedin.com/help/lms/answer/79634) in Gestione campagne LinkedIn verranno visualizzati come Campi LinkedIn che è possibile mappare ai campi Marketo.
 
    ![](assets/linkedin-installed-services.png)
 
