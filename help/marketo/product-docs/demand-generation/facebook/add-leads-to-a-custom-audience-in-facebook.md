@@ -18,7 +18,7 @@ Disponete già di un&#39;audience personalizzata in Facebook e desiderate aggiun
 >[!PREREQUISITES]
 >
 >* [Creare un pubblico personalizzato in Facebook](create-a-custom-audience-in-facebook.md)
->* [Accettate i termini](https://www.facebook.com/ads/manage/customaudiences/tos.php) di pubblico personalizzati di Facebook nel vostro account Facebook.
+>* [Accettate i ](https://www.facebook.com/ads/manage/customaudiences/tos.php) termini di pubblico personalizzati di Facebook all&#39;interno dell&#39;account Facebook.
 
 >
 
@@ -28,21 +28,21 @@ Disponete già di un&#39;audience personalizzata in Facebook e desiderate aggiun
 
    ![](assets/one.png)
 
-1. Selezionate la scheda **Lead** , quindi fate clic sull&#39;icona **Send Via Ad Bridge **nella parte inferiore.
+1. Selezionate la scheda **Lead**, quindi fate clic sull&#39;icona **Send Via Ad Bridge **in basso.
 
    ![](assets/two-1.png)
 
-1. Selezionare **Facebook **e fare clic su **Avanti**.
+1. Selezionare **Facebook **e fare clic su **Next**.
 
    ![](assets/three.png)
 
-1. Fai clic sul menu a discesa **Audience** , seleziona il pubblico a cui vuoi aggiungere i lead, quindi fai clic su **Aggiorna**.
+1. Fare clic sul menu a discesa **Audience**, selezionare il pubblico a cui si desidera aggiungere i lead, quindi fare clic su **Aggiorna**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Aggiungi i lead all&#39;audience:** saranno disponibili solo audience Facebook con un sottotipo personalizzato.\
+   >**Aggiunta di lead al pubblico:saranno disponibili** solo audience di Facebook con un sottotipo personalizzato.\
    >**Rimuovere i lead dall&#39;audience**: rimuove i lead nell&#39;elenco statico o avanzato da un&#39;audience di Facebook.
 
 1. Al termine, lo stato verrà aggiornato.
