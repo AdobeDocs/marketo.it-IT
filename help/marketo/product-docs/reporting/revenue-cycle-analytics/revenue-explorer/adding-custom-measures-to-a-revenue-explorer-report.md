@@ -21,8 +21,8 @@ Nell&#39;esempio seguente, si sta creando una misura calcolata per i rimbalzi mo
 >
 >È necessaria almeno una metrica nel rapporto, ma non deve essere una delle misure utilizzate per definire la misura personalizzata.
 
-1. Estrai i campi necessari per il rapporto. Per informazioni dettagliate, vedere [Aggiunta di campi a un rapporto](adding-fields-to-a-revenue-explorer-report.md) Esplora entrate.
-1. Fai clic con il pulsante destro del mouse su una metrica esistente (cella blu), fai clic su Misura **definita dall&#39;** utente e seleziona Misura **** calcolata.
+1. Estrai i campi necessari per il rapporto. Per ulteriori informazioni, vedere [Aggiunta di campi a un report Esplora entrate](adding-fields-to-a-revenue-explorer-report.md).
+1. Fare clic con il pulsante destro del mouse su una metrica esistente (cella blu), fare clic su **Misura definita dall&#39;utente** e selezionare **Misura calcolata**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -38,7 +38,7 @@ Nell&#39;esempio seguente, si sta creando una misura calcolata per i rimbalzi mo
    >
    >È possibile digitare personalmente i simboli matematici oppure utilizzare la casella di selezione.
 
-1. Al termine, fate clic su **OK**.
+1. Al termine, fare clic su **OK**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
