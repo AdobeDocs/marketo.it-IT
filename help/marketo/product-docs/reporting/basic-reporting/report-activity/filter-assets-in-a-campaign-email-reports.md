@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrare le risorse in un report e-mail campagna {#filter-assets-in-a-campaign-email-reports}
 
-Concentrare il report [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) (Prestazioni e-mail della [campagna) su campagne](http://docs.marketo.com/display/docs/smart+campaigns) intelligenti specifiche nei programmi (risorse locali) o su quelle archiviate.
+Concentrare il report [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sulle [campagne intelligenti ](http://docs.marketo.com/display/docs/smart+campaigns) specifiche nei programmi (&#39;risorse locali&#39;) o su quelle archiviate.
 
-1. Vai all&#39;area **Analytics **(o **Marketing Activities**).
+1. Andate all&#39;area **Analytics **(o **Marketing Activities**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -23,7 +23,7 @@ Concentrare il report [Campaign Email Performance](../../../../product-docs/repo
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Fate clic sulla scheda **Configurazione** e trascinate su un filtro.
+1. Fare clic sulla scheda **Setup** e trascinare su un filtro.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -38,7 +38,7 @@ Concentrare il report [Campaign Email Performance](../../../../product-docs/repo
    >
    >Se selezionate una cartella, il rapporto includerà tutto ciò che contiene al momento dell&#39;esecuzione del rapporto.
 
-1. Hai finito! Fai clic sulla scheda **Rapporto** per visualizzare il rapporto filtrato.
+1. Hai finito! Fare clic sulla scheda **Report** per visualizzare il rapporto filtrato.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
@@ -57,5 +57,5 @@ Concentrare il report [Campaign Email Performance](../../../../product-docs/repo
    >**Tubo profondo**
    >
    >
-   >Scopri tutte le informazioni sui report in [Basic Reporting (Rapporti](http://docs.marketo.com/display/docs/basic+reporting)di base).
+   >Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
