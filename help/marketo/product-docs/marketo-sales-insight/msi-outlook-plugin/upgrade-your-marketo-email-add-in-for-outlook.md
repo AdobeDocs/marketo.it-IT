@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando è disponibile una nuova versione del componente aggiuntivo e-mail di Marketo per Outlook, seguite le istruzioni riportate di seguito per effettuare l&#39;aggiornamento.
 
-## Download del programma {#download-installer}
+## Download del programma di installazione {#download-installer}
 
 Scaricate il programma di installazione appropriato per la versione in uso di Microsoft Outlook.
 
@@ -130,7 +130,7 @@ Scaricate il programma di installazione appropriato per la versione in uso di Mi
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Noterete che tutte le vostre informazioni sono precompilate. Fai clic su **Avanti**.
+1. Noterete che tutte le vostre informazioni sono precompilate. È sufficiente fare clic su **Next**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -142,11 +142,11 @@ Scaricate il programma di installazione appropriato per la versione in uso di Mi
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. Installazione completata. Fate clic su **Chiudi**.
+1. Installazione completata. Fare clic su **Chiudi**.
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
