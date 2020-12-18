@@ -17,8 +17,8 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
 >[!PREREQUISITES]
 >
->* Completare il [retargeting con la configurazione dei dati](retargeting-with-web-personalization-data.md) di personalizzazione Web
->* Consulta la [sezione Osservazioni con la documentazione della Guida](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) sulle Google Analytics
+>* Completare la configurazione [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md)
+>* Rivedere la documentazione di [Note con Google Analytics Guida](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)
 
 >
 
@@ -26,20 +26,20 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
 ## Creazione di un pubblico straordinario in Google {#creating-a-remarketing-audience-in-google}
 
-1. Accedi alle tue Google Analytics. Fate clic su **Amministratore**, **Account**, **Proprietà**. Fate clic su Definizioni **di** pubblico e **pubblico**.
+1. Accedi alle tue Google Analytics. Fare clic su **Admin**, **Account**, **Property**. Fare clic su **Definizioni dell&#39;audience** e **Audiences**.
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. Fai clic su **+Nuovo pubblico**.
+1. Fare clic su **+Nuovo pubblico**.
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
 1. **Configurazione** collegamento: Collegamento all&#39;account Google Adwords
-1. **Definisci pubblico**: Fate clic su **Crea nuovo**.
+1. **Definisci pubblico**: Fate clic su  **Crea nuovo**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. In Audience Builder, fai clic su **Sequenze** e **trova i dati** RTP in Dimension personalizzati, variabili personalizzate, eventi.
+1. In Audience Builder, fai clic su **Sequences** e **Trova i dati RTP** in Custom Dimension, Custom Variables, Events.
 
 >[!TIP]
 >
@@ -65,10 +65,10 @@ In Google Universal Analytics:
 
 **Esempio di notorietà dell&#39;audience dai dati dell&#39;audience segmentata RTP**
 
-1. Fate clic su **Sequenze.**
-1. Selezionate Etichetta **evento.**
-1. Immettete il **nome dell’audience** segmentata (così come viene visualizzata in RTP).
-1. Fate clic su **Applica**.
+1. Fare clic su **Sequenze.**
+1. Selezionare **Etichetta evento.**
+1. Immettete **Nome dell&#39;audience segmentata** (come viene visualizzato in RTP).
+1. Fare clic su **Applica**.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
@@ -76,25 +76,25 @@ In Google Universal Analytics:
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
-1. Fate clic su **Sequenze**.
+1. Fare clic su **Sequenze**.
 1. Selezionare** RTP-Industry**.
-1. Immettere il **nome dell&#39;industria** (ad esempio Servizi finanziari, istruzione...)
-1. Fate clic su **Applica**.
-1. Immettete un nome per **l&#39;audience**. Fate clic su **Salva**.
+1. Immettere **Nome dell&#39;industria** (ad esempio Servizi finanziari, istruzione...)
+1. Fare clic su **Applica**.
+1. Immettete un **Nome audience**. Fare clic su **Salva**.
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 
-## Creazione di una campagna pubblicitaria per commenti in Google Adwords {#create-a-remarketing-ad-campaign-in-google-adwords}
+## Creazione di una campagna di annunci per commenti in Google Adwords {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. Accedi a **Google Adwords**. Fate clic su **Campagne**, quindi selezionate **Visualizza solo** rete.
+1. Accedi a **Google Adwords**. Fare clic su **Campagne**, selezionare **Visualizza solo rete**.
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. Immettete Nome **** Campagna, Selezionate **Tipo Di Notazione.**
+1. Immettere **Nome campagna**, selezionare **Tipo di commento.**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. Immettere Nome gruppo **annunci,** immettere **Enhanced CPC**, selezionare **Elenco** commenti.
+1. Immettere **Nome gruppo annunci,** immettere **CPC avanzato**, selezionare **Elenco commenti**.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
