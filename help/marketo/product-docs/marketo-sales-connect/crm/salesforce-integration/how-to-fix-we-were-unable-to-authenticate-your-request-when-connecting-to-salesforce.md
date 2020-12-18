@@ -18,17 +18,17 @@ Se durante il tentativo di connettere Sales Connect a Salesforce ricevi il messa
 ## Abilita API nelle autorizzazioni utente {#enable-api-in-user-permissions}
 
 1. Accedi a un amministratore Salesforce in SFDC.
-1. Selezionate **Configurazione**.
-1. Selezionate **Gestisci utenti**.
-1. Selezionate **Profili**.
-1. Trova il profilo in cui si trovano gli utenti di ToutApp e fai clic su **Modifica**.
-1. Scorrete verso il basso fino a Autorizzazioni **** amministrative e accertatevi che l&#39; **API abilitata** sia selezionata.
+1. Selezionare **Setup**.
+1. Selezionare **Gestisci utenti**.
+1. Selezionare **Profili**.
+1. Individua il profilo in cui si trovano gli utenti ToutApp e fai clic su **Modifica**.
+1. Scorrete verso il basso fino a **Autorizzazioni amministrative** e accertatevi che l&#39;opzione **API abilitata** sia selezionata.
 
 ## Verifica se Salesforce sta bloccando la connessione delle vendite {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. Accedi a Salesforce Admin da SFDC.
-1. Selezionate **Configurazione**.
-1. Selezionate **Gestisci app**.
-1. Selezionate Utilizzo **OAuth delle app** collegate.
+1. Selezionare **Setup**.
+1. Selezionare **Gestisci app**.
+1. Selezionare **Applicazioni collegate OAuth Usage**.
 1. Verificate che il Sales Connect mostri &quot;Blocca&quot; accanto ad esso. Se viene visualizzato &quot;Sblocca&quot;, fate clic sul pulsante per sbloccare l&#39;accesso di Sales Connect a Salesforce.
 
