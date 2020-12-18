@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Salvataggio di un rapporto di Esplora entrate {#saving-a-revenue-explorer-report}
+# Salvataggio di un report di Esplora ricavi {#saving-a-revenue-explorer-report}
 
 I rapporti di Esplora entrate possono essere salvati nel file di tua scelta.
 
@@ -23,11 +23,11 @@ I rapporti di Esplora entrate possono essere salvati nel file di tua scelta.
    >
    >Le modifiche apportate al rapporto non vengono salvate automaticamente. Assicuratevi quindi di risparmiare spesso!
 
-1. Assegna un nome descrittivo al rapporto, seleziona un percorso e fai clic su **Salva**!
+1. Assegna un nome descrittivo al rapporto, seleziona una posizione e fai clic su **Salva**!
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   È tutto! Ora potete accedere al file in **Sfoglia file**.
+   È tutto! È ora possibile accedere al file in **Sfoglia file**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
