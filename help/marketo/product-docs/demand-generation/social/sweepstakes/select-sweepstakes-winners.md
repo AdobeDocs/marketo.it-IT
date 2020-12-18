@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Selezione dei vincitori di Sweepstakes {#select-sweepstakes-winners}
+# Selezionare i vincitori di Sweepstakes {#select-sweepstakes-winners}
 
-Quando [pubblicate una pagina di ricerca](publish-a-sweepstakes.md), dovete selezionare i vincitori per ogni disegno. In questo caso, l&#39;e-mail [di](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) evasione viene inviata automaticamente.
+Quando si [pubblica una sweepstakes](publish-a-sweepstakes.md), è necessario selezionare i vincitori per ogni disegno. In questo caso, l&#39;e-mail di [evasione](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) viene inviata automaticamente.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Quando [pubblicate una pagina di ricerca](publish-a-sweepstakes.md), dovete sele
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Quando [pubblicate una pagina di ricerca](publish-a-sweepstakes.md), dovete sele
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Fate clic su **Scegli** **vincitori**.
+1. Fare clic su **Pick** **Winners**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -37,15 +37,15 @@ Quando [pubblicate una pagina di ricerca](publish-a-sweepstakes.md), dovete sele
    >
    >Per visualizzare un elenco delle persone che si sono iscritte per la vostra partecipazione, fate clic sulla scheda **Partecipanti **4.
 
-1. Scegliete il numero di vincitori, selezionate **Sono pronto per scegliere**, quindi fate clic su **Avanti**.
+1. Scegliere il numero di vincitori, selezionare **Sono pronto a scegliere**, quindi fare clic su **Next**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Se scegliete 0 vincitori per un disegno particolare, tali informazioni non vengono visualizzate nella scheda **Vincitori** .
+   >Se si sceglie 0 vincitori per un particolare disegno, tali informazioni non vengono visualizzate nella scheda **Vincitori**.
 
-1. Fate clic su **Finalize** (Finalizza) per inviare l&#39;e-mail [di](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) evasione ai vincitori elencati.
+1. Fare clic su **Finalize** per inviare l&#39;e-mail di [evasione](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) ai vincitori elencati.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
