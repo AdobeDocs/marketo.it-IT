@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# AB Test Your Web Campaign {#ab-test-your-web-campaign}
+# AB Test della campagna Web {#ab-test-your-web-campaign}
 
 Il test è un ottimo modo per ottimizzare le campagne Web per un migliore coinvolgimento. Ecco come iniziare.
 
-Per sottoporre a test A/B le campagne personalizzate, potete selezionare due o più campagne, associarle allo stesso gruppo **Split Test** (Test **diviso) e selezionare** Auto-Tuneper continuare automaticamente con la campagna con le prestazioni migliori.
+Per sottoporre a test A/B le campagne personalizzate, potete selezionare due o più campagne, associarle allo stesso gruppo **Split Test** e selezionare **Auto-Tune** per continuare automaticamente con la campagna con le prestazioni migliori.
 
 >[!TIP]
 >
@@ -29,17 +29,17 @@ Per sottoporre a test A/B le campagne personalizzate, potete selezionare due o p
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna desiderata, utilizzate la funzione [](filter-web-campaigns.md)filtro.
+   >Per trovare più facilmente la campagna desiderata, utilizzate la [funzione filtro](filter-web-campaigns.md).
 
-1. Selezionate la prima campagna da sottoporre a test A/B. Fate clic su **Modifica**.
+1. Selezionate la prima campagna da sottoporre a test A/B. Fare clic su **Modifica**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Nella pagina della campagna, selezionate **Dividi test** e fate clic su **Crea nuovo**.
+1. Nella pagina della campagna, selezionare **Split Testing** e fare clic su **Create New**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Immettete il nome **del gruppo di test** divisa e fate clic su **Crea.** Selezionate **Regola automatica.**
+1. Immettere il **Nome del gruppo di test divisa**, fare clic su **Crea.****Seleziona regolazione automatica.**
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
@@ -47,16 +47,16 @@ Per sottoporre a test A/B le campagne personalizzate, potete selezionare due o p
 
    >[!TIP]
    >
-   >Selezionando **Auto-Tune** la piattaforma Web Personalization (Personalizzazione Web) riconosce automaticamente la campagna di test con suddivisione più performante e continua con la campagna di conversione più elevata, mettendo in pausa gli altri.
+   >Se si seleziona **Auto-Tune**, la piattaforma Web Personalization è in grado di riconoscere automaticamente la campagna di test con suddivisione più performante e di continuare con la campagna di conversione più elevata, mettendo in pausa le altre.
 
 1. Ripetete la procedura descritta sopra con la seconda campagna.
-1. Selezionate la seconda campagna da sottoporre a test A/B. Fate clic su **Modifica**.
+1. Selezionate la seconda campagna da sottoporre a test A/B. Fare clic su **Modifica**.
 
    ** ![](assets/image2016-11-4-13-3a51-3a39.png)
 
    **
 
-1. Nella pagina **Imposta campagna** , selezionate **S****plit Testing** e scegliete il **gruppo** dall&#39;elenco a discesa. Selezionare** Auto-Tune**.
+1. Nella pagina **Imposta campagna**, selezionare **S****plit Testing** e scegliere il **Gruppo** dal menu a discesa. Selezionare** Auto-Tune**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
