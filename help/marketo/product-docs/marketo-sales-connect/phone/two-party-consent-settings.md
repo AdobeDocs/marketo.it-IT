@@ -17,7 +17,7 @@ Al fine di garantire la conformità con le leggi di consenso biparte degli Stati
 
 >[!PREREQUISITES]
 >
->Prima di seguire i passaggi indicati di seguito, devi prima [abilitare la registrazione delle chiamate.](http://docs.marketo.com/x/dAC1Ag)
+>Prima di seguire i passaggi indicati di seguito, è necessario prima [abilitare la registrazione delle chiamate.](http://docs.marketo.com/x/dAC1Ag)
 
 1. Fate clic sull&#39;icona Impostazioni e selezionate **Impostazioni**.
 
@@ -27,11 +27,11 @@ Al fine di garantire la conformità con le leggi di consenso biparte degli Stati
 
    ![](assets/two-1.png)
 
-1. Scorrete verso il basso fino a Impostazioni telefono di vendita Connect e fate clic su **Gestisci avviso** registrazione.
+1. Scorri verso il basso fino a Impostazioni telefono di vendita Connect e fai clic su **Gestisci avviso di registrazione**.
 
    ![](assets/three-1.png)
 
-1. Fate clic su **Importa registrazione**.
+1. Fare clic su **Importa registrazione**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Al fine di garantire la conformità con le leggi di consenso biparte degli Stati
 
    ![](assets/five.png)
 
-1. Una volta completato il caricamento, selezionate i punti (tre punti) nel file manager e fate clic su **Seleziona come avviso** di consenso. Al termine, fate clic su **OK** .
+1. Al termine del caricamento, selezionate i punti (tre punti) nel file manager e fate clic su **Seleziona come avviso di consenso**. Fare clic su **OK** al termine.
 
    ![](assets/six.png)
 
