@@ -20,14 +20,14 @@ Per implementare il tag RTP, segui le istruzioni di installazione riportate di s
    1. Se avete già ricevuto il tag JavaScript dal supporto, continuate con il passaggio 3.\
       ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. In Dominio, individua il dominio appropriato e fai clic su **Genera tag**.
+1. In Domain (Dominio), individua il dominio appropriato e fai clic su **Generate Tag**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. Copiate il tag JavaScript RTP.
 1. Accedi al tuo account WordPress come utente amministratore
 
-   1. In **Aspetto**, passare a JavaScript **** personalizzato.
+   1. In **Aspetto**, passare a **JavaScript personalizzato**.
    1. Incolla il tag Javascript RTP subito dopo il codice esistente.
 
       ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -43,4 +43,4 @@ Per implementare il tag RTP, segui le istruzioni di installazione riportate di s
    >    
    >Inserire lo script stesso SOLO.
 
-1. Fate clic su **Aggiorna**.
+1. Fare clic su **Aggiorna**.
