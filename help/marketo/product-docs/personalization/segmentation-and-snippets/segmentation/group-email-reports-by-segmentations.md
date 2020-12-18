@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Raggruppa rapporti e-mail per segmenti {#group-email-reports-by-segmentations}
+# Rapporti e-mail per gruppo per segmenti {#group-email-reports-by-segmentations}
 
-Le segmentazioni non sono solo per contenuti dinamici. Potete anche raggruppare il rapporto [delle prestazioni](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e-mail per [segmentazione](http://docs.marketo.com/display/docs/segmentation+and+snippets).
+Le segmentazioni non sono solo per contenuti dinamici. È possibile raggruppare il report [prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) anche per [segmentazioni](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!PREREQUISITES]
 >
@@ -23,23 +23,23 @@ Le segmentazioni non sono solo per contenuti dinamici. Potete anche raggruppare 
 
 
 
-1. Andate all&#39;area **Attività** di marketing (o **Analytics**).
+1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Selezionate il rapporto Prestazioni **e-** mail.
+1. Selezionare il report **Email Performance**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Fate clic sulla scheda **Configurazione** e trascinate il mouse su **Gruppo per segmenti**.
+1. Fare clic sulla scheda **Configurazione** e trascinare su **Raggruppa per segmenti**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Scegliete uno o due segmenti da utilizzare per raggruppare il rapporto. Fate clic su **APPLY**.
+1. Scegliete uno o due segmenti da utilizzare per raggruppare il rapporto. Fare clic su **APPLY**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. È tutto! Fate clic sulla scheda **Rapporto** . Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
+1. È tutto! Fare clic sulla scheda **Report**. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
