@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Selezione di un tema modulo {#select-a-form-theme}
+# Selezionare un tema modulo {#select-a-form-theme}
 
 Abbiamo creato una serie di bei temi per i vostri moduli. Quale ti piace di più?
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/editform.png)
 
-1. Vai a **Impostazioni** **modulo**.
+1. Passare a **Form** **Settings**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Spostarsi avanti e indietro per scegliere il **modulo** **Tema** desiderato.
+1. Spostatevi avanti e indietro per scegliere il **Modulo** **Tema** desiderato.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +43,9 @@ Abbiamo creato una serie di bei temi per i vostri moduli. Quale ti piace di più
 
    >[!TIP]
    >
-   >È inoltre possibile [modificare il CSS del tema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)del modulo.
+   >È inoltre possibile [modificare il CSS del tema del modulo](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Fare clic su **Avanti** per configurare altre opzioni del modulo oppure su **Fine** se si desidera modificare solo il tema del modulo.
+1. Fare clic su **Next** per configurare altre opzioni del modulo oppure su **Finish** se si desidera modificare solo il tema del modulo.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
