@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi sottodomini in Impostazioni account {#add-subdomains-in-account-settings}
+# Aggiungi sottodomini nelle impostazioni account {#add-subdomains-in-account-settings}
 
 Ecco come aggiungere sottodomini ai domini primari in Impostazioni account. Questo ti consentirà di gestire i sottodomini correlati allo specifico Javascript RTP del tuo dominio primario. È consigliabile distribuire il tag Javascript a tutti i sottodomini aggiunti.
 
-1. In Personalizzazione Web, andate a Impostazioni **** account.
+1. In Personalizzazione Web, andate a **Impostazioni account**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
@@ -23,11 +23,11 @@ Ecco come aggiungere sottodomini ai domini primari in Impostazioni account. Ques
 
    ![](assets/highlightprimary2.png)
 
-1. Fate clic su **Aggiungi**.
+1. Fare clic su **Aggiungi**.
 
    ![](assets/add.png)
 
-1. Immettete l’URL del sottodominio. Fai clic su **Aggiungi** o **Elimina** per gestire l&#39;elenco dei sottodomini, quindi fai clic su **OK** al termine.
+1. Immettete l’URL del sottodominio. Fare clic su **Aggiungi** o **Elimina** per gestire l&#39;elenco dei sottodomini, quindi fare clic su **OK** al termine.
 
    ![](assets/newsubdomain.png)
 
@@ -37,5 +37,5 @@ Ecco come aggiungere sottodomini ai domini primari in Impostazioni account. Ques
 
    >[!NOTE]
    >
-   >Se desideri aggiungere domini *primari* al tuo account, contatta il [supporto](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)Marketo.
+   >Se si desidera aggiungere i domini *primari* al proprio account, contattare [Supporto marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
 
