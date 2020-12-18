@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Approvare uno snippet senza bozza {#approve-a-snippet-with-no-draft}
+# Approvare uno snippet con No-Draft {#approve-a-snippet-with-no-draft}
 
 ## Approvare lo snippet {#approve-the-snippet}
 
 Non viene attivata alcuna bozza ogni volta che viene approvato uno snippet. Questo include uno snippet condiviso o a cui fanno riferimento le risorse in altre aree di lavoro.
 
-1. Andate a **Design Studio**.
+1. Vai a **Design Studio**.
 
    ![](assets/go-to-design-studio.png)
 
-1. Selezionate uno snippet e, nel menu a discesa Azioni **** snippet, scegliete **Approva**.
+1. Selezionate uno snippet e, nel menu a discesa **Azioni snippet**, scegliete **Approva**.
 
    ![](assets/approve-snippet.png)
 
-1. Selezionate un’opzione nella finestra di dialogo Approva snippet e fate clic su **Approva**:
+1. Selezionate un&#39;opzione nella finestra di dialogo Approva snippet e fate clic su **Approva**:
 
    * **Aggiorna tutto**: Questa opzione non crea le bozze delle risorse approvate utilizzando lo snippet. Tutte le risorse ricevono gli aggiornamenti e mantengono i loro stati precedenti. Un modulo di avanzamento viene visualizzato nella parte superiore destra dello schermo; può essere chiuso in qualsiasi momento. Per ripristinarlo, fare clic con il pulsante destro del mouse sul nome dello snippet e selezionare Mostra stato approvazione.
    * **Creare le bozze**: Questa opzione crea le bozze delle risorse approvate utilizzando lo snippet. Selezionate questa opzione se prima è necessario rivedere le modifiche apportate ai frammenti. Tutte le bozze devono essere approvate manualmente.
@@ -38,7 +38,7 @@ Non viene attivata alcuna bozza ogni volta che viene approvato uno snippet. Ques
 
 >[!CAUTION]
 >
->Questa funzione è stata progettata per risparmiare tempo con il flusso di lavoro di approvazione degli snippet. Tuttavia, ci sono alcuni limiti da conoscere. Per informazioni dettagliate, consultate [questo documento](https://nation.marketo.com/docs/DOC-4415) . Il documento contiene anche informazioni sulla gestione degli errori e sulla risoluzione dei problemi.
+>Questa funzione è stata progettata per risparmiare tempo con il flusso di lavoro di approvazione degli snippet. Tuttavia, ci sono alcuni limiti da conoscere. Per ulteriori informazioni, vedere [questo documento](https://nation.marketo.com/docs/DOC-4415). Il documento contiene anche informazioni sulla gestione degli errori e sulla risoluzione dei problemi.
 
 >[!MORELIKETHIS]
 >
