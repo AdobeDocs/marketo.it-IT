@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Glossario Icona Feed Live {#live-feed-icon-glossary}
+# Glossario icona feed live {#live-feed-icon-glossary}
 
-| ![--](assets/1.png) | Qualcuno ha visualizzato il tuo messaggio e-mail. |
+| ![—](assets/1.png) | Qualcuno ha visualizzato il tuo messaggio e-mail. |
 |---|---|
-| ![--](assets/2.png) | Qualcuno ha fatto clic su un collegamento nel messaggio e-mail. |
-| ![--](assets/3.png) | Qualcuno ha visualizzato un tuo allegato tracciabile o ha visitato il tuo sito Web. |
+| ![—](assets/2.png) | Qualcuno ha fatto clic su un collegamento nel messaggio e-mail. |
+| ![—](assets/3.png) | Qualcuno ha visualizzato un tuo allegato tracciabile o ha visitato il tuo sito Web. |
 
 Se qualcuno visualizza ripetutamente il messaggio e-mail nel feed dal vivo, potrebbe averlo inoltrato ad altri destinatari. Questo è molto probabile se notate che la posizione inizia a cambiare per quelle viste.
