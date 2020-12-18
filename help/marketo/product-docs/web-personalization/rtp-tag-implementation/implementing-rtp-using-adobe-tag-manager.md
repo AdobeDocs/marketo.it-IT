@@ -16,22 +16,22 @@ ht-degree: 0%
 Per implementare il tag RTP, segui le istruzioni di installazione riportate di seguito:
 
 1. Accedi al tuo account RTP.
-1. Vai a Impostazioni **account.**
+1. Vai a **Impostazioni account.**
 
    Se avete già ricevuto il tag JavaScript dal supporto, continuate con il passaggio 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. In Dominio, individua il dominio appropriato e fai clic su **Genera tag**.
+1. In Domain (Dominio), individua il dominio appropriato e fai clic su **Generate Tag**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. Accedi al tuo account Dynamic Tag Manager ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
-1. Andate al **dashboard.** Fare clic sulla proprietà Web corrispondente.
+1. Vai a **Dashboard.** Fare clic sulla proprietà Web corrispondente.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Vai a **Regole,** fai clic su **Crea nuova regola.**
+1. Vai a **Regole,** fare clic su **Crea nuova regola.**
 
 1. Compila quanto segue
 
@@ -57,10 +57,10 @@ Per implementare il tag RTP, segui le istruzioni di installazione riportate di s
 
 1. Fare clic su **Salva codice** nell&#39;editor di script e su **Salva regola** nell&#39;editor di regole.
 
-1. Nel pannello Regole, individuare la regola di caricamento della pagina Marketo RTP e, nel menu a discesa **Azioni** , selezionare **Attiva regole**.
+1. Nel pannello Regole, individuare la regola di caricamento della pagina Marketo RTP e nel menu a discesa **Actions** selezionare **Activate Rules** (Attiva regole).
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1. **Verifica** che venga visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini.
+1. **Verificate** che venga visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini.
 
    Per farlo, fate clic con il pulsante destro del mouse sulle pagine del sito Web. Vai a **Inspect Element**, fai clic su **Network, **Search: **RTP**.
