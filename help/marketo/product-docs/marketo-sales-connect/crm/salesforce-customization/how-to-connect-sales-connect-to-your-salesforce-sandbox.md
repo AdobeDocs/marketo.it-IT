@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Come collegare le vendite alla sandbox di Salesforce {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
+# Come collegare le vendite alla sandbox Salesforce {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->Non è possibile collegare l&#39;account di Sales Connect a Salesforce quando si stabilisce una connessione alla sandbox. In caso affermativo, [accertatevi di disconnettervi](http://docs.marketo.com/x/FoDq) prima di seguire i passaggi descritti in questo articolo.
+>Non è possibile collegare l&#39;account di Sales Connect a Salesforce quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurarsi di scollegare](http://docs.marketo.com/x/FoDq) prima di seguire i passaggi descritti in questo articolo.
 
-1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio in alto a destra e selezionate **Impostazioni**.
+1. In Sales Connect, fate clic sull&#39;icona dell&#39;ingranaggio in alto a destra e selezionate **Settings**.
 
    ![](assets/one-2.png)
 
-1. In Integrazioni, fai clic su **CRM**.
+1. In Integrazioni, fare clic su **CRM**.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Nella parte inferiore della pagina, fate clic su **Connetti a sandbox**.
+1. Nella parte inferiore della pagina, fare clic su **Connetti a sandbox**.
 
    ![](assets/four-2.png)
 
