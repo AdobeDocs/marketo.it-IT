@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creazione di un rapporto di Esplora entrate {#create-a-revenue-explorer-report}
+# Creare un report di Esplora ricavi {#create-a-revenue-explorer-report}
 
 Il rapporto Revenue Explorer consente di monitorare il ROI delle iniziative di marketing.
 
@@ -25,7 +25,7 @@ Il rapporto Revenue Explorer consente di monitorare il ROI delle iniziative di m
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Fate clic su **Crea nuovo** , quindi selezionate **Rapporto**.
+1. Fare clic su **Crea nuovo**, quindi selezionare **Report**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
