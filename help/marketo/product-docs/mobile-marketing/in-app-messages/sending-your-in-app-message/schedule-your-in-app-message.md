@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Pianificazione del messaggio in-app {#schedule-your-in-app-message}
+# Pianificare il messaggio in-app {#schedule-your-in-app-message}
 
 Invia subito il messaggio o programmana un secondo tempo.
 
-1. Per pianificare un messaggio in-app, seleziona **Imposta data** futura e scegli una data di inizio dal calendario a discesa.
+1. Per pianificare un messaggio in-app, seleziona **Imposta data futura** e scegli una data di inizio dal calendario a discesa.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -31,4 +31,4 @@ Invia subito il messaggio o programmana un secondo tempo.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Facile! Ultimo ma non meno importante è il passaggio [Approvazione](approve-your-in-app-message.md) .
+Facile! Ultimo ma non meno importante è il passaggio [Approval](approve-your-in-app-message.md).
