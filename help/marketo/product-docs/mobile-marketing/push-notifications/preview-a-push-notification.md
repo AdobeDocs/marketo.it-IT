@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È facile visualizzare l&#39;anteprima dell&#39;aspetto della notifica push, sia per Android che per iOS. Ci sono quattro modi per farlo.
 
-Nella struttura di navigazione, fate clic con il pulsante destro del mouse sul file della notifica di cui desiderate visualizzare l’anteprima e fate clic su **Anteprima**.
+Nella struttura di navigazione, fare clic con il pulsante destro del mouse sul file della notifica di cui si desidera visualizzare l&#39;anteprima e fare clic su **Anteprima**.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Nella struttura di navigazione, fate clic con il pulsante destro del mouse sul f
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-In alternativa, nella pagina di visualizzazione delle notifiche push, fate clic su Azioni **delle notifiche** push e quindi su **Anteprima**. Oppure fate clic su **Anteprima **a destra.** **
+In alternativa, nella pagina della visualizzazione Notifica push, fate clic su **Azioni notifiche push**, quindi su **Anteprima**. Oppure fare clic su **Anteprima **a destra.** **
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -31,7 +31,7 @@ Infine, nell&#39;editor, potete fare clic sulla scheda **Anteprima bozza** in al
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
-## Android Previews {#android-previews}
+## Android Android Anteprime {#android-previews}
 
 Fate clic sull&#39;icona a sinistra per vedere esattamente dove verrà visualizzata la notifica push al momento dell&#39;invio. Fare clic o utilizzare le frecce della tastiera per alternare tra le due.
 
