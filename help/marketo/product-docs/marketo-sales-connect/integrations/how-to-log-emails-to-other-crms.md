@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se CRM ti fornisce un indirizzo CCN, puoi utilizzare l&#39;altra sezione CRM per configurare la registrazione delle e-mail. Una volta impostata la configurazione, le e-mail inviate verranno automaticamente registrate al CRM.
 
-## CRM Con Cui Ci Integriamo {#crms-we-integrate-with}
+## CRM con cui ci integriamo con {#crms-we-integrate-with}
 
 **`Almost every CRM`**:
 
@@ -27,11 +27,11 @@ Se CRM ti fornisce un indirizzo CCN, puoi utilizzare l&#39;altra sezione CRM per
 
 ## Come connettersi ad altri CRM {#how-to-connect-to-other-crms}
 
-1. Fate clic su **Impostazioni**.
-1. Fate clic su **CRM**.
-1. Fai clic su **Connect** in Altri CRM.
-1. Fai clic su **Configura**, quindi incolla il tuo indirizzo CCN sotto E-mail a CCN.
-1. Fai clic su **Salva** e il tuo indirizzo CCN verrà salvato in Sales Connect.
+1. Fare clic su **Impostazioni**.
+1. Fare clic su **CRM**.
+1. Fare clic su **Connect** in Altri CRM.
+1. Fare clic su **Configura**, quindi incollare l&#39;indirizzo CCN sotto E-mail a CCN.
+1. Fai clic su **Salva** per salvare l&#39;indirizzo CCN in Sales Connect.
 
    Le e-mail verranno ora registrate in CRM tramite CCN.
 
