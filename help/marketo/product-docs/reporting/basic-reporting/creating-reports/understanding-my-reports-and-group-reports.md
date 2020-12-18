@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sui rapporti personali e sui rapporti dei gruppi {#understanding-my-reports-and-group-reports}
+# Informazioni sui rapporti personali e di gruppo {#understanding-my-reports-and-group-reports}
 
-Puoi creare **Report personali **e **Report di gruppo **dalla pagina principale [di](navigating-the-analytics-home-page.md)Analytics.
+Puoi creare **Report personali **e **Report di gruppo **dalla [Home di Analytics](navigating-the-analytics-home-page.md).
 
-**I miei rapporti** sono visibili solo a voi.
+**I miei** rapporti sono visibili solo a voi.
 
-**I rapporti** sui gruppi sono visibili a tutti gli utenti nell’area di lavoro.
+**I** rapporti sui gruppi sono visibili a tutti gli utenti nell’area di lavoro.
 
 >[!NOTE]
 >
->Ogni area di lavoro è dotata di **My Reports **e Report **** gruppo.
+>Ogni area di lavoro ha un set di **My Reports **e **Group Reports**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
