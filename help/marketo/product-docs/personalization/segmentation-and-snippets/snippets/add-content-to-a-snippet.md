@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di contenuto a uno snippet {#add-content-to-a-snippet}
+# Aggiungere contenuto a uno snippet {#add-content-to-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -21,13 +21,13 @@ Potete aggiungere token, immagini, file o testo RTF a uno snippet.
 
 >[!NOTE]
 >
->Non è possibile incorporare sintassi [e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) Marketo negli snippet; **non** funzionerà in un&#39;e-mail. Gli snippet devono essere semplicemente contenuti body (HTML + TEXT).
+>Non è possibile incorporare [sintassi e-mail di marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) negli snippet; **not** funzionerà in un&#39;e-mail. Gli snippet devono essere semplicemente contenuti body (HTML + TEXT).
 
-1. Andate a **Design Studio.**
+1. Vai a **Design Studio.**
 
    ![](assets/designstudio-2.png)
 
-1. Selezionate il **frammento** e fate clic su **Modifica bozza**.
+1. Selezionare il **snippet** e fare clic su **Edit Draft**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,17 +35,17 @@ Potete aggiungere tre tipi di contenuto a uno snippet.
 
 ## Aggiungi token {#add-token}
 
-1. Trascinate e rilasciate l’elemento **Token** .
+1. Trascinare l&#39;elemento **Token**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Immettete **Token** e fate clic su **Inserisci**.
+1. Immettere **Token** e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Aggiungi immagine/file {#add-image-file}
 
-1. Trascinate e rilasciate l’elemento **Immagine/File** .
+1. Trascinare l&#39;elemento **Immagine/File**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Potete aggiungere tre tipi di contenuto a uno snippet.
    >
    >Potete aggiungere immagini o file personalizzati a Marketo. Ulteriori informazioni su [immagini e file](http://docs.marketo.com/display/docs/images+and+files).
 
-1. Selezionate l’ **immagine** da usare e fate clic su **Inserisci**.
+1. Selezionare l&#39; **Immagine** da utilizzare e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ Potete aggiungere tre tipi di contenuto a uno snippet.
    >
    >Usate gli strumenti di formattazione per personalizzare il testo.
 
-1. Per E-mail, fate clic sulla scheda Versione **** testo.
+1. Per E-mail, fare clic sulla scheda **Versione testo**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Fate clic su **Copia da HTML**.
+1. Fare clic su **Copia da HTML**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 
