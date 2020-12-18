@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Cercare campagne Web che utilizzano un segmento specifico?
 
-1. Vai a **Segmenti**.\
+1. Vai a **Segments**.\
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Cercare un **segmento**. Selezionate il Nome **** segmento. Nel pannello a destra, fate clic su Campagne **associate** per visualizzare le campagne associate a questo segmento specifico.\
+1. Cercare un **segmento**. Selezionare il **Nome segmento**. Nel pannello a destra, fare clic su **Campagne associate** per visualizzare le campagne associate a questo segmento specifico.\
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Visualizza le **campagne** associate al segmento selezionato.\
+1. Visualizzare le **Campagne** associate al segmento selezionato.\
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sui [segmenti](web-segments.md) e su come [creare un segmento](create-a-basic-web-segment.md)di base.
+>Ulteriori informazioni sui [segmenti](web-segments.md) e su come [creare un segmento di base](create-a-basic-web-segment.md).
 
