@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# E-mail report, Prestazioni Della Campagna Nelle Aree Di Lavoro {#report-email-campaign-performance-across-workspaces}
+# E-mail report, prestazioni della campagna nelle aree di lavoro {#report-email-campaign-performance-across-workspaces}
 
-Attivate Global Reporting per includere i dati di tutte le [aree](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) di lavoro Marketo nei rapporti Prestazioni [e-](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)mail, [Collegamento email](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)e Attività [](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) campagna.
+Attivate Global Reporting per includere i dati provenienti da tutte le aree di lavoro di Marketing [aree di lavoro](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nei rapporti [Prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Prestazioni collegamento e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e [Attività campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).
 
 1. Andate all&#39;area **Analytics** (o **Marketing Activities**).
 
@@ -23,15 +23,15 @@ Attivate Global Reporting per includere i dati di tutte le [aree](../../../../pr
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Fate clic sulla scheda **Configurazione** e fate doppio clic su Reporting **globale**.
+1. Fare clic sulla scheda **Setup** e fare doppio clic su **Global Reporting**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Selezionate **Abilitato**.
+1. Selezionare **Enabled**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. È tutto! Fate clic sulla scheda **Rapporto** per visualizzare i dati di tutte le aree di lavoro.
+1. È tutto! Fare clic sulla scheda **Report** per visualizzare i dati di tutte le aree di lavoro.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
@@ -49,5 +49,5 @@ Attivate Global Reporting per includere i dati di tutte le [aree](../../../../pr
    >**Tubo profondo**
    >
    >
-   >Scopri tutte le informazioni sui report in [Basic Reporting (Generazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting) di base).
+   >Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
 
