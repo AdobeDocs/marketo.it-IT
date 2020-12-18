@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eliminare un frammento {#delete-a-snippet}
+# Eliminare uno snippet {#delete-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 Elimina un frammento di codice che non ti serve più.
 
-1. Andate a **Design Studio.**
+1. Vai a **Design Studio.**
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Andate allo snippet e quindi in Azioni **** snippet fate clic su **Elimina**.
+1. Vai al tuo snippet e poi in **Azioni snippet** fai clic su **Elimina**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Fare clic su **Delete **per confermare o semplicemente **Annulla**.
+1. Fare clic su **Delete **per confermare o selezionare **Annulla**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
