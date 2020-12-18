@@ -15,9 +15,9 @@ ht-degree: 0%
 
 La visualizzazione dei dettagli della persona fornisce un profilo dettagliato di ogni persona nel tuo account MSC.
 
-## Come accedere {#how-to-access}
+## Come accedere a {#how-to-access}
 
-1. Per accedere alla visualizzazione dei dettagli della persona, fate clic sulla scheda **Persone** .
+1. Per accedere alla visualizzazione dei dettagli della persona, fare clic sulla scheda **Persone**.
 
    ![](assets/people-tab.png)
 
@@ -29,7 +29,7 @@ La visualizzazione dei dettagli della persona fornisce un profilo dettagliato di
    >
    >Praticamente ovunque tu possa vedere il nome di una persona, puoi cliccarci sopra e arrivare alla loro visualizzazione Dettagli persona.
 
-## Scheda {#about-tab}
+## Informazioni sulla scheda {#about-tab}
 
 Include tutte le informazioni di contatto della persona.
 
@@ -56,7 +56,7 @@ Include tutte le informazioni di contatto della persona.
 
 * Creare note personalizzate
 
-## Scheda Partecipazione {#engagement-tab}
+## Scheda Engagement {#engagement-tab}
 
 Scopri in che modo questa persona si sta impegnando con la tua attività.
 
