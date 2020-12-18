@@ -37,7 +37,7 @@ Assegniamo automaticamente una fonte a ogni contatto che entra nel database. Uti
 
 ## Autorizzazione {#authorization}
 
-In conformità al [GDPR](http://eugdpr.org/), utilizza l&#39;autorizzazione per indicare in che modo hai ricevuto l&#39;autorizzazione per interagire con questi contatti.
+In conformità con [GDPR](http://eugdpr.org/), utilizzare l&#39;autorizzazione per indicare in che modo hai ricevuto l&#39;autorizzazione per interagire con questi contatti.
 
 ![](assets/authorization.png)
 
