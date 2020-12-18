@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Per pianificare un&#39;e-mail da Gmail, segui questi passaggi.
 
-1. Quando componete un messaggio e-mail, fate clic sul pulsante **Pianificazione** .
+1. Durante la composizione di un&#39;e-mail, fare clic sul pulsante **Schedule**.
 1. Viene visualizzata una finestra che consente di scegliere l’ora in cui inviare l’e-mail.
 1. Se si sceglie di inviarlo in un secondo momento, il pulsante verrà aggiornato all&#39;ora selezionata.
-1. Dopo aver pianificato l&#39;e-mail, questa verrà visualizzata nella cartella **Bozze** in Gmail con l&#39;etichetta **Tout Scheduled Emails**(Invia per timeout).
-1. Se aprite la bozza, potete modificare il contenuto del messaggio e-mail, ma fate di nuovo clic su **Pianifica** , selezionate nuovamente l&#39;ora pianificata e fate clic su **Tout**!
+1. Dopo aver pianificato l&#39;e-mail, questa verrà visualizzata nella cartella **Bozze** in Gmail con l&#39;etichetta **Tout Scheduled Emails**.
+1. Se apri la bozza, puoi modificare il contenuto del messaggio e-mail, ma assicurati di fare di nuovo clic su **Schedule**, selezionare nuovamente l&#39;ora pianificata e fare clic su **Tout It**!
 
    >[!NOTE]
    >
-   >Puoi sempre controllare l&#39;e-mail pianificata nella cartella **Scheduled **nell&#39;applicazione [Web](http://toutapp.com/login)
+   >È sempre possibile controllare l&#39;e-mail pianificata nella cartella **Pianificato **all&#39;interno dell&#39; [applicazione Web](http://toutapp.com/login)
 
