@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Modifica stile e colore pulsante Invia {#change-submit-button-style-and-color}
+# Modifica stile pulsante Invia e colore {#change-submit-button-style-and-color}
 
 Se trovi il pulsante di invio standard vuoto, o se hai bisogno di qualcosa di più fantasia, non esitare a scegliere tra una vasta gamma di stili di pulsante pronti all&#39;uso.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Fate clic sul pulsante **Invia** e su **Modifica** accanto a Stile pulsante.
+1. Selezionare il pulsante **Invia** e fare clic su **Modifica** accanto a Stile pulsante.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,7 +43,7 @@ Se trovi il pulsante di invio standard vuoto, o se hai bisogno di qualcosa di pi
    >
    >Potete anche inserire manualmente il codice colore.
 
-1. Fate clic su **Seleziona**.
+1. Fare clic su **Seleziona**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
@@ -51,7 +51,7 @@ Se trovi il pulsante di invio standard vuoto, o se hai bisogno di qualcosa di pi
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
