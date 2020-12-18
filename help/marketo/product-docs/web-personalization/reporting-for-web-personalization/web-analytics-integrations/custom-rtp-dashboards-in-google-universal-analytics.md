@@ -28,9 +28,9 @@ Questo post spiega come impostare le dashboard RTP in Google Universal Analytics
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Selezionate **Blank Canvas**(canvas vuoto), aggiungete un nome **** dashboard e fate clic su **Create Dashboard (Crea dashboard**).
+1. Selezionare **Blank Canvas**, aggiungere un **Nome dashboard** e fare clic su **Crea dashboard**.
 
-1. Fate clic su **Aggiungi widget** per creare un nuovo widget.\
+1. Fare clic su **Aggiungi widget** per creare un nuovo widget.\
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## Dashboard RTP B2B {#rtp-b-b-dashboard}
@@ -157,7 +157,7 @@ Questo dashboard consente agli utenti di analizzare le prestazioni della campagn
    * Coinvolto (impression e clic su una campagna personalizzata)
    * Fate clic sul motore di raccomandazione e sul contenuto principale consigliato
 
-Create una nuova dashboard denominata Dashboard **di coinvolgimento** RTP e definite i seguenti widget:
+Create una nuova dashboard denominata **Dashboard partecipazione RTP** e definite i seguenti widget:
 
 ![](assets/image2015-3-22-17-3a7-3a19.png)
 
@@ -181,22 +181,22 @@ Create una nuova dashboard denominata Dashboard **di coinvolgimento** RTP e defi
     <ul> 
      <li>Nome: <strong>CTA totale (coinvolgimento)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
-     <li>Mostra la metrica seguente: <strong>Totale eventi</strong></li> 
-     <li>Filtri:<br><strong>[mostra] categoria evento (contiene): Campagne</strong><br><strong>RTP[mostra solo] Azione evento (esattamente corrispondente): Impression</strong><strong>[don't show] Etichetta evento (contenente): #</strong></li> 
+     <li>Mostra la metrica seguente: <strong>Eventi totali</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (contiene): Azione evento RTP-Campaigns</strong><br><strong>[mostra solo] (esattamente corrispondente): Etichetta evento Impression</strong><strong>[non mostrare] (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
      <li>Nome: <strong>CTA totale (click-through)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
-     <li>Mostra la metrica seguente: <strong>Totale eventi</strong></li> 
-     <li>Filtri:<br><strong>[mostra] categoria evento (contiene): RTP-Campaigns</strong><br><strong>[show only] Azione evento (esattamente corrispondente): Fate clic</strong><strong>su [non mostrare] Etichetta evento (contenente): #</strong></li> 
+     <li>Mostra la metrica seguente: <strong>Eventi totali</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (contiene): Azione evento RTP-Campaigns</strong><br><strong>[mostra solo] (esattamente corrispondente): Fate clic su</strong><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
      <li>Nome: <strong>CRE - Clic totali</strong></li> 
-     <li>Tipo: <strong>2.1 Metrica</strong><br></li> 
-     <li>Mostra la metrica seguente: <strong>Pagvisi</strong></li> 
-     <li>Filtro: <strong>[mostra] Pagina (contenente): rcmd</strong></li> 
+     <li>Tipo: <strong>2.1 Metric</strong><br></li> 
+     <li>Mostra la metrica seguente: <strong>Pagevisepagine</strong></li> 
+     <li>Filtro: <strong>[mostra solo] pagina (contenente): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -205,39 +205,39 @@ Create una nuova dashboard denominata Dashboard **di coinvolgimento** RTP e defi
      <li>Nome: <strong>Media Durata sessione (coinvolgimento)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
      <li>Mostra la metrica seguente: <strong>Media Durata sessione</strong></li> 
-     <li>Filtri:<br><strong>[mostra] Categoria evento (esattamente corrispondenti): RTP-Campaigns</strong><br><strong>[show only] Azione evento (esattamente corrispondente): impression</strong><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (esattamente corrispondente): Azione evento RTP-Campaigns</strong><br><strong>[mostra solo] (esattamente corrispondente): impression</strong><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Nome: <strong>Media Durata sessione (click-through)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
      <li>Mostra la metrica seguente: <strong>Media Durata sessione</strong></li> 
-     <li>Filtri:<br><strong>[mostra] Categoria evento (esattamente corrispondenti): RTP-Campaigns</strong><br><strong>[show only] Azione evento (esattamente corrispondente): click</strong><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (esattamente corrispondente): Azione evento RTP-Campaigns</strong><br><strong>[mostra solo] (esattamente corrispondente): Click</strong><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Nome: <strong>CRE - Contenuto consigliato principale</strong></li> 
      <li>Tipo: <strong>Tabella</strong><br></li> 
-     <li>Visualizza le colonne seguenti: <br><strong>Titolo pagina | Pagevisi</strong><br></li> 
-     <li>Filtri:<br>Filtro: <strong>[mostra] Pagina (contenente): rcmd</strong></li> 
+     <li>Visualizza le colonne seguenti: <br><strong>Titolo pagina | Pageviews</strong><br></li> 
+     <li>Filtri:<br>Filtro: <strong>[mostra solo] pagina (contenente): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Pagine/Sessione (Coinvolgimento)</strong></li> 
+     <li>Nome: <strong>Pagine / Sessione (coinvolgimento)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
-     <li>Mostra la metrica seguente: <strong>Pagine/Sessione</strong></li> 
-     <li>Filtri:<br><strong>[mostra] Categoria evento (esattamente corrispondenti): Campagne RTP</strong></li> 
+     <li>Mostra la metrica seguente: <strong>Pagine / Sessione</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (esattamente corrispondente): RTP-Campaigns</strong></li> 
      <li><strong>[Mostra solo] Azione evento (esattamente corrispondente): impression</strong></li> 
      <li><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Pagine/Sessione (Clickthrough)</strong></li> 
+     <li>Nome: <strong>Pagine / Sessione (Clickthrough)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
-     <li>Mostra la metrica seguente: <strong>Pagine/Sessione</strong></li> 
-     <li>Filtri:<br><strong>[mostra] Categoria evento (esattamente corrispondenti): Campagne RTP</strong></li> 
+     <li>Mostra la metrica seguente: <strong>Pagine / Sessione</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (esattamente corrispondente): RTP-Campaigns</strong></li> 
      <li><strong>[Mostra solo] Azione evento (esattamente corrispondente): click</strong></li> 
      <li><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -249,14 +249,14 @@ Create una nuova dashboard denominata Dashboard **di coinvolgimento** RTP e defi
      <li>Nome: <strong>Impressioni di CTA</strong></li> 
      <li>Tipo: <strong>Tabella</strong></li> 
      <li>Visualizza le colonne seguenti: <strong>Etichetta evento | Totale eventi | Utenti</strong></li> 
-     <li>Filtri:<br><strong>[mostra] Categoria evento (esattamente corrispondenti): RTP-Campaigns</strong><br><strong>[show only] Azione evento (esattamente corrispondente): impression</strong><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (esattamente corrispondente): Azione evento RTP-Campaigns</strong><br><strong>[mostra solo] (esattamente corrispondente): impression</strong><strong>[non mostrare] Etichetta evento (contenente): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nome: <strong>ClickThrough di CTA</strong></li> 
      <li>Tipo: <strong>Tabella</strong></li> 
      <li>Visualizza le colonne seguenti: <strong>Etichetta evento | Totale eventi | Utenti</strong></li> 
-     <li>Filtri:<br><strong>[mostra] Categoria evento (esattamente corrispondenti): RTP-Campaigns</strong><br><strong>[show only] Azione evento (esattamente corrispondente): click</strong></li> 
+     <li>Filtri:<br><strong>[mostra solo] categoria evento (esattamente corrispondente): Azione evento RTP-Campaigns</strong><br><strong>[mostra solo] (esattamente corrispondente): click</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
