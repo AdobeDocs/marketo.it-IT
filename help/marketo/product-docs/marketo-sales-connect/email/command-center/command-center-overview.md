@@ -53,7 +53,7 @@ La sezione e-mail offre una panoramica di tutte le e-mail e semplifica la loro o
   <tr> 
    <td title="Colore di sfondo: Grigio"><br></td> 
    <td title="Colore di sfondo: Grigio">Bozza</td> 
-   <td title="Colore di sfondo: Grigio"><p>E-mail salvate come bozza.<br><strong>Nota:</strong> Solo le singole e-mail possono essere salvate come bozze. Le e-mail di massa (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td> 
+   <td title="Colore di sfondo: Grigio"><p>E-mail salvate come bozza.<br><strong>Nota:</strong> solo le singole e-mail possono essere salvate come bozze. Le e-mail di massa (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo: Grigio"><br></td> 
@@ -68,12 +68,12 @@ La sezione e-mail offre una panoramica di tutte le e-mail e semplifica la loro o
   <tr> 
    <td title="Colore di sfondo: Blu"><br></td> 
    <td title="Colore di sfondo: Blu">Rimbalzato</td> 
-   <td title="Colore di sfondo: Blu"><p>E-mail rifiutate dal server e-mail dei destinatari. <br><strong>Nota:</strong> Questo viene rilevato solo se siete utenti ToutApp legacy e avete accesso ai server MSC come canale di consegna.</p></td> 
+   <td title="Colore di sfondo: Blu"><p>E-mail rifiutate dal server e-mail dei destinatari. <br><strong>Nota:</strong> Questo viene rilevato solo se siete un utente ToutApp legacy e avete accesso ai server MSC come canale di consegna.</p></td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo: Blu"><br></td> 
    <td title="Colore di sfondo: Blu">Spam</td> 
-   <td title="Colore di sfondo: Blu"><p>E-mail contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> Questo viene rilevato solo se siete utenti ToutApp legacy e avete accesso ai server MSC come canale di consegna.</p></td> 
+   <td title="Colore di sfondo: Blu"><p>E-mail contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> Questo viene rilevato solo se siete un utente ToutApp legacy e avete accesso ai server MSC come canale di consegna.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -84,7 +84,7 @@ La sezione attività è il vostro punto vendita unico per la gestione e il compl
 
 ![](assets/command-center-overview-2.png)
 
-## Follow-up con i potenziali clienti coinvolti {#follow-up-with-engaged-prospects}
+## Seguito con Prospetti coinvolti {#follow-up-with-engaged-prospects}
 
 Dopo aver iniziato a interagire con i potenziali clienti tramite la finestra di composizione o le campagne, puoi iniziare a reindirizzare i potenziali più attivi utilizzando la funzionalità di ricerca avanzata.
 
