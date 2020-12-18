@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Esportare un rapporto in Excel {#export-a-report-to-excel}
+# Esportare un report in Excel {#export-a-report-to-excel}
 
 È possibile esportare qualsiasi rapporto in un file Excel per lavorare con i dati in un altro software.
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Rapporto** .
+1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Report**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Fate clic sul pulsante **Esporta** .
+1. Fare clic sul pulsante **Export**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -34,12 +34,12 @@ ht-degree: 0%
    >**Articoli correlati**
    >
    >
-   >Se il file scaricato è troppo grande, potete [modificare la dimensione](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) del rapporto.
+   >Se il file scaricato è troppo grande, è possibile [modificare la dimensione del report](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) .
 
    >[!NOTE]
    >
    >**Tubo profondo**
    >
    >
-   >Scopri tutte le altre cose utili che puoi fare con i report nel dettaglio [Basic Reporting (Generazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting) di base).
+   >Vedi tutte le altre cose utili che puoi fare con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
