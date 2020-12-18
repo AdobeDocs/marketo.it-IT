@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Percorso di successo {#success-path}
 
-Nel modello, il percorso verde noto come Percorso **di** successo è il percorso ottimale per il passaggio lineare di un lead a un business chiuso/won.
+Nel modello, il percorso verde noto come **Percorso di successo** rappresenta il percorso ottimale per il passaggio lineare di un lead a un&#39;attività chiusa/aziendale chiusa.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Esempi di fasi su un percorso di successo:
 
