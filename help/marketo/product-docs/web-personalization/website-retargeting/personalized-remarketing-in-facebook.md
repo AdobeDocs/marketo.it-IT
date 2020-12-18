@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Osservazioni personalizzate su Facebook {#personalized-remarketing-in-facebook}
+# Osservazioni personalizzate in Facebook {#personalized-remarketing-in-facebook}
 
 La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli utenti utilizzando i dati RTP e la potenza della funzione di marcatura di Facebook.
 
 >[!PREREQUISITES]
 >
->* Completa il [retargeting con la configurazione dei dati](retargeting-with-web-personalization-data.md) di personalizzazione Web
->* Consulta la documentazione di [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook su [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pubblico personalizzato e Osservazioni
+>* Completa la configurazione di [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md)
+>* Leggi la documentazione di [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook su Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)e Notizie
 
 >
 
@@ -26,16 +26,16 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
 ## Creazione di un pubblico in Facebook {#creating-an-audience-in-facebook}
 
-1. In Facebook, andate alla scheda [](https://www.facebook.com/ads/audience_manager) Audience in Ads Manager.
-1. Fate clic su **Strumenti** e selezionate **Audience**.
+1. In Facebook, andate alla [scheda Pubblico](https://www.facebook.com/ads/audience_manager) in Ads Manager.
+1. Fare clic su **Strumenti** e selezionare **Audiences**.
 
    ![](assets/one-1.png)
 
-1. Fate clic su **Crea un pubblico** personalizzato.
+1. Fate clic su **Crea un pubblico personalizzato**.
 
    ![](assets/two-1.png)
 
-1. Selezionate Traffico **sito Web**.
+1. Selezionare **Traffico sito Web**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -51,7 +51,7 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. In questo esempio, selezionare Settore per contenere **Istruzione**. Accedete **a Education** e modificate **In the Last** in modo da ottenere 180 giorni. Inserisci nome pubblico: **Istruzione**. Fate clic su **Crea pubblico**.
+1. In questo esempio, selezionare Industria per contenere **Istruzione**. Immettere **Istruzione** e modificare **Nell&#39;ultima** fino a 180 giorni. Inserisci nome pubblico: **Settore dell&#39;istruzione**. Fare clic su **Crea pubblico**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -106,7 +106,7 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
 ## Esegue il targeting del pubblico con un annuncio {#target-your-audience-with-an-ad}
 
-Per ulteriori dettagli, consultate la documentazione [di](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)Facebook.
+Per ulteriori dettagli, consultare la [documentazione di Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
 1. Vai a Gestione annunci, fai clic su **Crea annuncio**.
 
