@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questo è il nostro vecchio componente aggiuntivo. Se è già installato, continuerà a funzionare fino al 2020. Se siete un nuovo utente, installate il nuovo componente aggiuntivo [di](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)Office 365.
+>Questo è il nostro vecchio componente aggiuntivo. Se è già installato, continuerà a funzionare fino al 2020. Se sei un nuovo utente, installa il nuovo componente aggiuntivo [Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Collegamento di un contenuto {#attaching-a-piece-of-content}
 
@@ -25,16 +25,16 @@ Eventuali contenuti caricati in precedenza verranno visualizzati per la selezion
 
 ## Funzionalità calendario {#calendar-functionality}
 
-Informare i destinatari della disponibilità premendo il pulsante **Calendario** .
+Informare i destinatari della disponibilità premendo il pulsante **Calendar**.
 
 Questo richiama il calendario di Outlook e consente di aggiungere date e ore specifiche gratuite e di aggiungere le informazioni al messaggio e-mail.
 
-## Caricamento in un modello {#pulling-in-a-template}
+## Pulizia in un modello {#pulling-in-a-template}
 
-Inserire un modello Tout predefinito nel messaggio di Outlook premendo il pulsante **Modelli** .
+Inserire un modello Tout predefinito nel messaggio di Outlook premendo il pulsante **Templates**.
 
-Siamo `sync with all of your personal templates and any shared templates` nella squadra. Per facilitare l&#39;accesso, è inoltre possibile inserire automaticamente l&#39;ultimo modello utilizzato e il modello più utilizzato.
+Siamo `sync with all of your personal templates and any shared templates` tra i membri del team. Per facilitare l&#39;accesso, è inoltre possibile inserire automaticamente l&#39;ultimo modello utilizzato e il modello più utilizzato.
 
 ## Pulsante Tout It {#the-tout-it-button}
 
-Dopo aver compilato la tua email personalizzata e pronto per andare, fai sempre clic sul pulsante **Tout It** per ottenere il tracciamento. Apparirà una casella con la scritta &quot;Attendi, stiamo aggiungendo la magia del tracciamento.&quot;
+Dopo aver compilato l&#39;e-mail personalizzata e pronto per l&#39;uso, fai sempre clic sul pulsante **Tout It** per ottenere il tracciamento. Apparirà una casella con la scritta &quot;Attendi, stiamo aggiungendo la magia del tracciamento.&quot;
