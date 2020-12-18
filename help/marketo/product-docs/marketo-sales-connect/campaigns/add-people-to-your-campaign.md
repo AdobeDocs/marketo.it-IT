@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere persone alla campagna {#add-people-to-your-campaign}
+# Aggiungi persone alla tua campagna {#add-people-to-your-campaign}
 
 Esistono diversi modi per aggiungere un utente a una campagna.
 
