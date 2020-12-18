@@ -17,7 +17,7 @@ In Analytics, esplorate i dati aggregati per la distribuzione e-mail e il coinvo
 
 ![](assets/emailanalytics-1.jpg)
 
-[Il filtraggio](filtering-in-email-insights.md) è disponibile per consentire di approfondire la ricerca di metriche specifiche.
+[Il ](filtering-in-email-insights.md) filtraggio è disponibile per consentire di approfondire la ricerca di metriche specifiche.
 
 ![](assets/filter-field.png)
 
@@ -50,7 +50,7 @@ Il grafico visualizza i criteri filtrati. Per nascondere uno dei filtri, fai cli
 ` ![](assets/chart2.png)  
 `
 
-Se create un grafico che desiderate utilizzare nuovamente, impostatelo come grafico [](email-insights-quick-charts.md)rapido.
+Se create un grafico che desiderate utilizzare nuovamente, impostatelo come grafico [rapido](email-insights-quick-charts.md).
 
 ` ![](assets/quick-chart.png)  
 `
