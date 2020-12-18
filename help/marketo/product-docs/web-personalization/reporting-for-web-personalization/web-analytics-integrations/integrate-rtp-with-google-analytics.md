@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Questo articolo mostra come utilizzare il vecchio Google Standard Analytics, ma ti consigliamo di passare a Universal Analytics.
 >
->Se non utilizzi già il codice [di tracciamento](https://developers.google.com/analytics/devguides/collection/analyticsjs/)analytics.js, Google consiglia vivamente di assegnare nuovamente il tag al tuo sito per utilizzarlo. Google ha dichiarato obsoleti i seguenti prodotti:
+>Se non utilizzi già il codice di monitoraggio [analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/), Google consiglia vivamente di riassegnare il sito per utilizzarlo. Google ha dichiarato obsoleti i seguenti prodotti:
 >
 >* ga.js
 >* urchin.js
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Scopri come integrare la personalizzazione [Web con Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Scopri come integrare [Web Personalization con Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduzione {#introduction}
 
@@ -46,7 +46,7 @@ Con l&#39;integrazione, hai una nuova dimensione nel tuo account GA. RTP ottimiz
 
 Concentrati sulle tue prospettive chiave per il settore B2B. Analizzare i canali per settori e segmenti mirati.
 
-## Report canale {#channel-report}
+## Rapporto canale {#channel-report}
 
 ![](assets/image2014-11-28-16-3a39-3a28.png)
 
@@ -66,28 +66,28 @@ Misurate le campagne RTP e collegatele alla media complessiva del sito. Scopri i
 
 ## Impostazione di RTP con Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Aggiungi l&#39;e-mail [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b), come utente Leggi e analizza al tuo account GA. Per ulteriori dettagli, vedere [qui](https://support.google.com/analytics/answer/2884495?hl=en).
-1. Nel tuo account RTP. Vai a Impostazioni **** account.
+1. Aggiungi l&#39;e-mail [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) come utente Leggi e analizza nel tuo account GA. Per ulteriori dettagli, vedere [qui](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Nel tuo account RTP. Vai a **Impostazioni account**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. In Impostazioni **** account, **Dominio** e **Analytics**
+1. In **Impostazioni account**, **Domain** e **Analytics**
 1. Fare clic su** Google Analytics.**
-1. Attivate le variabili **e gli** eventi **** personalizzati pertinenti per aggiungere questi dati da RTP alle Google Analytics.
-1. Immettere il numero **Slot** per inviare i dati delle variabili personalizzate (il valore predefinito è 1,2).
+1. Attivate le **Variabili personalizzate** e **Eventi** pertinenti per aggiungere questi dati dalla RTP alle Google Analytics.
+1. Immettere il numero **Slot** per inviare i dati della variabile personalizzata (il valore predefinito è 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Fate clic su **SALVA**.
+Fare clic su **SAVE**.
 
 >[!NOTE]
 >
->Per inviare i dati del segmento a GA, nella pagina [](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) Modifica segmento della piattaforma RTP, selezionare la casella di controllo **Invia evento alle Google Analytics sulla corrispondenza** del segmento.
+>Per inviare i dati del segmento a GA, nella sezione [Edit Segment page](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) della piattaforma RTP, selezionare la casella di controllo **Send Event to Google Analytics on Segment Match** (Invia evento a  su Segment Match).
 
 ## Impostazione dei rapporti sulle Google Analytics con i dati RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
 Nelle Google Analytics è possibile utilizzare dashboard, segmentazione GA e reporting per visualizzare i dati RTP:
 
-* [I dashboard](https://support.google.com/analytics/answer/1068216?hl=en) forniscono una panoramica delle prestazioni del sito Web.
-* Un segmento GA è destinato a filtrare i visitatori nell’interfaccia GA e visualizzare il traffico per segmento. Scopri come creare un segmento [qui](https://support.google.com/analytics/answer/3124493?hl=en).
-* Creazione di rapporti [](https://support.google.com/analytics/answer/1033013?hl=en) personalizzati per visualizzare e/o impostare le e-mail pianificate. Vedere in Personalizzazione > Nuovo rapporto personalizzato.
+* [I ](https://support.google.com/analytics/answer/1068216?hl=en) dashboard forniscono una panoramica delle prestazioni del sito Web.
+* Un segmento GA è destinato a filtrare i visitatori nell’interfaccia GA e visualizzare il traffico per segmento. Vedere come creare un segmento [qui](https://support.google.com/analytics/answer/3124493?hl=en).
+* Creazione di [report personalizzati](https://support.google.com/analytics/answer/1033013?hl=en) per visualizzare e/o impostare le e-mail pianificate. Vedere in Personalizzazione > Nuovo rapporto personalizzato.
