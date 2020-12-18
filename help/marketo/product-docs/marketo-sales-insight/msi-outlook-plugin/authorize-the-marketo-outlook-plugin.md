@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Autorizzazione del plug-in Marketo Outlook {#authorize-the-marketo-outlook-plugin}
+# Autorizzare il plug-in Marketo Outlook {#authorize-the-marketo-outlook-plugin}
 
 Per utilizzare il plug-in Marketo MSI in Outlook, è necessario autorizzarlo.
 
@@ -23,7 +23,7 @@ Per utilizzare il plug-in Marketo MSI in Outlook, è necessario autorizzarlo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Quando viene visualizzata la finestra di dialogo Autorizza plug-in Marketo, fate clic su **Richiedi codice**.
+1. Quando viene visualizzata la finestra di dialogo Autorizza plug-in Marketo, fare clic su **Richiedi codice**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
