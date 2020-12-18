@@ -17,15 +17,15 @@ I modelli consigliati di Sales Connect consentono di ricevere i messaggi corrett
 
 1. Vai alla scheda Modelli.
 1. Selezionate il modello da raccomandare e fate clic su **Modifica**.
-1. Per abilitare la funzionalità Modello consigliato nel modello, seleziona Suggerisci **automaticamente quando**.
+1. Per abilitare la funzionalità Modello consigliato nel modello, selezionare **Suggerisci automaticamente questo modello quando**.
 
 ## Tutti rispetto a qualsiasi {#all-vs-any}
 
-Ora è il momento di selezionare le impostazioni dei criteri. Selezionate **Tutto** se desiderate che il modello sia consigliato quando tutti i criteri sono soddisfatti. Selezionate **Qualsiasi** se desiderate che il modello sia consigliato quando viene soddisfatto uno dei criteri.
+Ora è il momento di selezionare le impostazioni dei criteri. Selezionare **All** se si desidera che il modello sia consigliato quando tutti i criteri sono soddisfatti. Selezionare **Any** se si desidera che il modello sia consigliato quando viene soddisfatto uno dei criteri.
 
 ## Impostazione dei criteri {#setting-criteria}
 
-I criteri imposteranno le condizioni per i quali i modelli saranno raccomandati. Potete impostare un massimo di 3 elementi di criteri. Selezionare innanzitutto i campi [](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) dinamici a cui si desidera evidenziare il modello.
+I criteri imposteranno le condizioni per i quali i modelli saranno raccomandati. Potete impostare un massimo di 3 elementi di criteri. Selezionare innanzitutto i [Campi dinamici](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) ai quali si desidera indicare il punto nel modello.
 
 ## Condizioni {#conditions}
 
