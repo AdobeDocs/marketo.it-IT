@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Chi ha votato per cosa nel suo sondaggio? Scopriamolo.
 
-1. In Attività **** di marketing, selezionate il sondaggio e fate clic sulla scheda **Partecipanti** .
+1. In **Attività di marketing**, selezionate il sondaggio e fate clic sulla scheda **Partecipanti**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Fare clic sul numero nella colonna **Voti** .
+1. Fare clic sul numero nella colonna **Voti**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
-1. Ciò su cui hanno votato verrà visualizzato. Fate clic su **Chiudi**.
+1. Ciò su cui hanno votato verrà visualizzato. Fare clic su **Chiudi**.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
@@ -32,5 +32,5 @@ Chi ha votato per cosa nel suo sondaggio? Scopriamolo.
    >**Articoli correlati**
    >
    >
-   >Scopri di più sulla portata e l&#39;impatto sociale delle tue app in [Visualizza prestazioni](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md)social.
+   >Ulteriori informazioni sulla portata e l&#39;impatto delle app sui social network in [View Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
