@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica sugli approfondimenti e-mail {#email-insights-overview}
+# Panoramica sulle e-mail {#email-insights-overview}
 
 Le informazioni sulle e-mail forniscono informazioni potenti dai dati storici per gli addetti al marketing delle e-mail. È costituito da due sezioni distinte ma associate: Analytics e Send.
 
@@ -29,19 +29,19 @@ Utilizzate [Analytics](email-insights-analytics-overview.md) per esplorare i dat
 
 **Filtri **
 
-Sono stati utilizzati [filtri](filtering-in-email-insights.md) avanzati per suddividere i risultati per pubblico, contenuto o piattaforma. Gli stessi filtri si applicano sia ad Analytics che a Sending.
+Sono stati utilizzati filtri [avanzati](filtering-in-email-insights.md) per suddividere i risultati per pubblico, contenuto o piattaforma. Gli stessi filtri si applicano sia ad Analytics che a Sending.
 
 ![](assets/filter.png)
 
 **Grafici rapidi**
 
-[I grafici](email-insights-quick-charts.md) rapidi sono miniature che potete creare e salvare e forniscono una rapida visualizzazione dei grafici che sono importanti per voi.
+[I ](email-insights-quick-charts.md) grafici rapidi sono miniature che potete creare e salvare e forniscono una rapida visualizzazione dei grafici che sono importanti per voi.
 
 ![](assets/three.png)
 
-## Invio {#sends}
+## Invia {#sends}
 
-Nella pagina [Invia](email-insights-sends-overview.md) , esamina le caratteristiche delle comunicazioni e-mail recenti.
+Nella pagina [Invia](email-insights-sends-overview.md), esamina le caratteristiche della comunicazione e-mail recente.
 
 ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Fate clic sulle barre Metriche per tradurre i colori in numeri.
 
 ## Dimension personalizzati {#custom-dimensions}
 
-Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere fino a 10 dimensioni personalizzate. [Le dimensioni](custom-dimensions-for-email-insights.md) personalizzate sono composte da segmentazioni e tag di programma.
+Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere fino a 10 dimensioni personalizzate. [La ](custom-dimensions-for-email-insights.md) dimensione personalizzata è costituita da segmentazioni e tag di programma.
 
 >[!MORELIKETHIS]
 >
