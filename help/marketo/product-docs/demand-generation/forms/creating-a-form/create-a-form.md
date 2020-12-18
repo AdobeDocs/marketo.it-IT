@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Creazione di un modulo {#create-a-form}
+# Creare un modulo {#create-a-form}
 
 Creare e utilizzare un modulo su una pagina di destinazione per generare nuovi nomi. È davvero facile - ecco come iniziare.
 
 >[!NOTE]
 >
->Scoprite le operazioni eseguite da Marketo per [proteggere](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)i moduli.
+>Scopri le operazioni eseguite da Marketo per [proteggere i moduli](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,15 +27,15 @@ Creare e utilizzare un modulo su una pagina di destinazione per generare nuovi n
 
    ![](assets/programseelct.png)
 
-1. In **Nuovo**, fate clic su **Nuova** **risorsa** **locale**.
+1. In **New**, fare clic su **New** **Local** **Asset**.
 
    ![](assets/newlocalasset.png)
 
-1. Selezionare **Modulo**.
+1. Selezionare **Form**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Inserire un **nome** del modulo e fare clic su **Crea**.
+1. Inserire un modulo **Nome** e fare clic su **Crea**.
 
    ![](assets/newformwithhands.png)
 
