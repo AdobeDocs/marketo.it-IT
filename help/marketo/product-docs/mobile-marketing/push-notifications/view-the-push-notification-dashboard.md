@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Visualizzare il dashboard delle notifiche push {#view-the-push-notification-dashboard}
+# Visualizzare il dashboard di notifica push {#view-the-push-notification-dashboard}
 
 È facile vedere come vengono eseguite le notifiche push.
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Fate clic su **Visualizza: Riepilogo** e seleziona **Dashboard**.
+1. Fare clic su **Visualizza: Summary** e selezionare **Dashboard**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >La metrica **Inviato** potrebbe riflettere più invii del numero esatto di persone a cui è stata inviata la notifica push. Questo perché viene calcolato in base al *numero di dispositivi* idonei a ricevere il push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
+   >La metrica **Inviato** può riflettere più invii rispetto al numero esatto di persone a cui è stata inviata la notifica push. Questo perché è calcolato in base al *numero di dispositivi* idonei a ricevere il push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
 
    >[!NOTE]
    >
