@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Se disponete di un&#39;identità e-mail non verificata, seguite i passaggi indicati di seguito.
 
-1. Fate clic sull’icona dell’ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Fate clic sull&#39;icona dell&#39;ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/verify-your-email-1.png)
 
-1. In Account personale, fate clic su Impostazioni **e-** mail.
+1. In Account personale, fate clic su **Impostazioni e-mail**.
 
    ![](assets/verify-your-email-2.png)
 
-1. In Indirizzo e firma, trova l’identità dell’e-mail da verificare e fai clic su **Invia nuovamente verifica e-mail**. Verrà inviata una nuova e-mail di verifica.
+1. In Indirizzo e firma, individuare l&#39;identità dell&#39;e-mail che si desidera verificare e fare clic su **Invia nuovamente verifica e-mail**. Verrà inviata una nuova e-mail di verifica.
 
    ![](assets/verify-your-email-3.png)
 
-1. Fate clic su **Ripeti**.
+1. Fare clic su **Invia di nuovo**.
 
    ![](assets/verify-your-email-4.png)
 
