@@ -19,7 +19,7 @@ Seguite questi passaggi per iniziare a utilizzare il potente componente aggiunti
 >
 >Non è necessario essere un amministratore di Marketo per installare l’estensione.
 
-1. Installate [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) da Chrome Web Store.
+1. Installate il [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) dal Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -27,17 +27,17 @@ Seguite questi passaggi per iniziare a utilizzare il potente componente aggiunti
 
    ![](assets/two.png)
 
-1. Inserite il codice **** reg, l’indirizzo **** e-mail, il **nome** e il **cognome**. Fate clic su **Verifica e salva**.
+1. Inserite il **Codice Reg**, **Indirizzo e-mail**, **Nome** e **Cognome**. Fare clic su **Verifica e salva**.
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >Accertatevi di utilizzare il vostro account **e-mail** principale al momento della registrazione, in quanto non è supportato l&#39;uso di alias per questo plug-in.
+   >Accertatevi di utilizzare il vostro **account e-mail principale** durante la registrazione, in quanto non supportiamo l&#39;uso di alias per questo plug-in.
 
    >[!NOTE]
    >
-   >Il codice Reg sarà presente nell’e-mail inviata dopo che un amministratore di Marketo [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) avrà [pubblicato una licenza](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) del componente aggiuntivo e-mail di Marketo [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Scade dopo 14 giorni.**
+   >Il codice Reg sarà presente nell&#39;e-mail inviata dopo che un amministratore di Marketo [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [ &lt;a2/>ha risolto un problema relativo a un componente aggiuntivo di e-mail di Marketo](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Scade dopo 14 giorni.**
 
 1. Fare clic** Consenti **per consentire l&#39;accesso offline.
 
