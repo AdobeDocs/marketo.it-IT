@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dopo aver approvato il modello, non è possibile eliminare le fasi durante la modifica di una bozza. È invece possibile unire tale fase a un altro.
 
-1. Fai clic su **Marketo Home** (Marketo Home) e seleziona **Analytics**.
+1. Fare clic su **Marketing Home** e selezionare **Analytics**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,7 +23,7 @@ Dopo aver approvato il modello, non è possibile eliminare le fasi durante la mo
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. Fate clic su **Modifica bozza.**
+1. Fare clic su **Modifica bozza.**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
@@ -43,5 +43,5 @@ Dopo aver approvato il modello, non è possibile eliminare le fasi durante la mo
 
 >[!NOTE]
 >
->Selezionare **Nessuno** nell&#39;area di visualizzazione Unisci per rimuovere i lead dal modello
+>Selezionare **None** nello stage Unisci per rimuovere i lead dal modello
 
