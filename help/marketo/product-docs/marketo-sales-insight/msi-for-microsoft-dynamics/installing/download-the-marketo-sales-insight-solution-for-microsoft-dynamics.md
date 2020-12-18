@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Marketing per Sales Insight nel tuo account Microsoft Dynamics.
 
-1. Andate all&#39;area **Admin** .
+1. Andate all&#39;area **Admin**.
 
    ![](assets/mainnavhand.png)
 
-1. Fate clic su **CRM**.
+1. Fare clic su **CRM**.
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
@@ -31,7 +31,7 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
    ![](assets/image2016-5-3.png)
 
-1. Selezionate **Scarica soluzione** Marketo.
+1. Selezionare **Scarica la soluzione Marketo**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
