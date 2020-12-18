@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Disabilita sincronizzazione MS Dynamics globale {#disable-global-ms-dynamics-sync}
+# Disattivazione sincronizzazione MS Dynamics globale {#disable-global-ms-dynamics-sync}
 
 Segui questi semplici passaggi per disabilitare la sincronizzazione MS Dynamics.
 
-1. In Marketo, fai clic su **Admin**.
+1. In Marketo, fare clic su **Admin**.
 
    ![](assets/one.png)
 
-1. In Integrazione, fai clic su **Microsoft Dynamics**.
+1. In Integrazione, fare clic su **Microsoft Dynamics**.
 
    ![](assets/two.png)
 
-1. Fate clic su **Disattiva sincronizzazione**.
+1. Fare clic su **Disattiva sincronizzazione**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Se nell’istanza non è presente un pulsante Disattiva sincronizzazione, contattate il [supporto](http://nation.marketo.com/community/support_solutions)di Marketo.
+   >Se nell&#39;istanza non è presente un pulsante Disattiva sincronizzazione, contattare il supporto [Marketo](http://nation.marketo.com/community/support_solutions).
 
