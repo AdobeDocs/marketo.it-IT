@@ -29,19 +29,19 @@ Gli organizzatori di campi sono utilizzati in Model Performance Analysis.
 
    ![](assets/db.png)
 
-1. In **Nuovo**, selezionate **Nuovo organizzatore** campi.
+1. In **New**, selezionare **New Field Organizer**.
 
    ![](assets/two-1.png)
 
-1. In **Campo**, selezionare un attributo. La descrizione è facoltativa.
+1. In **Field**, selezionare un attributo. La descrizione è facoltativa.
 
    ![](assets/three-1.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Denominate il gruppo e immettete i dati appropriati (a seconda del tipo di dati del campo selezionato). Fate clic su **Aggiungi gruppo**.
+1. Denominate il gruppo e immettete i dati appropriati (a seconda del tipo di dati del campo selezionato). Fare clic su **Aggiungi gruppo**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
