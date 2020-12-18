@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
 
-1. Se tutto è a posto, fate clic su **Approva e su Avvia**.
+1. Se tutto è a posto, fare clic su **Approva e su Avvia**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm-281-29.png)
 
@@ -23,7 +23,7 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
    >
    >Se una parte del processo di invio è incompleta, ad esempio, il messaggio in-app non è approvato, viene visualizzato un messaggio di avviso che indica quale area richiede l&#39;attenzione dell&#39;utente. Correggi il problema e dovresti visualizzare il messaggio al punto 2.
 
-1. Fate clic su **Approva e su Avvia**.
+1. Fare clic su **Approva e Avvia**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
@@ -41,7 +41,7 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
 
    Potete mettere in pausa o interrompere un programma attivo, ma c&#39;è una grande differenza tra queste due opzioni.
 
-1. Fate clic su **Pausa programma** se dovete interrompere il programma per un po&#39; ma riprenderlo più tardi. Verrà impostato lo stato **Pausa** .
+1. Fare clic su **Pausa programma** se è necessario interrompere il programma per un po&#39;, ma riprenderlo successivamente. Verrà impostato lo stato **Paused**.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,7 +49,7 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
    >
    >I motivi della pausa potrebbero essere semplicemente per interromperla per un po&#39;, o se si desidera modificare il messaggio o regolare la pianificazione. Tuttavia, non puoi passare a un altro messaggio, ma solo modificare quello esistente.
 
-1. Se si desidera che il programma in pausa continui a essere in esecuzione, fare clic su **Riprendi** **programma**.
+1. Per continuare l&#39;esecuzione del programma in pausa, fare clic su **Riprendi** **Programma**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -57,7 +57,7 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. Se sei sicuro di voler interrompere il programma, fai clic su **Stop**.
+1. Se si è certi di voler arrestare il programma, fare clic su **Stop**.
 
    ** ![](assets/image2016-5-24-13-3a31-3a22.png)
 
@@ -65,7 +65,7 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
 
    >[!NOTE]
    >
-   >Quando interrompete un programma, questo non viene più eseguito e non può essere ripreso. Se vuoi riavviarlo, dovrai ricostruirlo. Quindi, accertatevi di aver finito con un programma prima di fare clic su **Stop Program**!
+   >Quando interrompete un programma, questo non viene più eseguito e non può essere ripreso. Se vuoi riavviarlo, dovrai ricostruirlo. Quindi, assicurarsi di aver finito con un programma prima di fare clic su **Stop Program**!
 
 ## Dashboard in-app {#in-app-dashboard}
 
