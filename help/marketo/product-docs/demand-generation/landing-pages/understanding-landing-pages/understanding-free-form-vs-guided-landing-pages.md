@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sulle pagine di destinazione a forma libera e guidate {#understanding-free-form-vs-guided-landing-pages}
+# Informazioni sulle pagine di destinazione gratuite e guidate {#understanding-free-form-vs-guided-landing-pages}
 
-Il modello scelto determina la modalità di modifica della pagina di destinazione in cui lavorerete. Esistono due percorsi possibili: [a forma](http://docs.marketo.com/display/docs/free-form+landing+pages) libera e [guidata](http://docs.marketo.com/display/docs/guided+landing+pages). Di seguito viene fornito un breve riepilogo delle differenze importanti.
+Il modello scelto determina la modalità di modifica della pagina di destinazione in cui lavorerete. Esistono due percorsi possibili: [free-form](http://docs.marketo.com/display/docs/free-form+landing+pages) e [guidato](http://docs.marketo.com/display/docs/guided+landing+pages). Di seguito viene fornito un breve riepilogo delle differenze importanti.
 
 ## Pagine a forma libera {#free-form-pages}
 
