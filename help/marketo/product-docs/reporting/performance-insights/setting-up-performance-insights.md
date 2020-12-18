@@ -17,19 +17,19 @@ Seguite i passaggi riportati di seguito per impostare MPI.
 
 ## Impostazione opportunità {#opportunity-setup}
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/admin.png)
 
-1. Fai clic su Analisi del ciclo **delle entrate**.
+1. Fare clic su **Analisi del ciclo economico**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Se non si dispone di RCA, è necessario selezionare Analisi **** programma per il Passaggio 2.
+   >Se non si dispone di RCA, è necessario selezionare **Analisi programma** per il passaggio 2.
 
-1. In Attribuzione, fate clic su **Modifica**.
+1. In Attribuzione, fare clic su **Modifica**.
 
    ![](assets/three-1.png)
 
@@ -59,7 +59,7 @@ Seguite i passaggi riportati di seguito per impostare MPI.
 
 Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o utilizzando l&#39;API del programma. In questo esempio lo facciamo manualmente.
 
-1. Fate clic su Attività **** di marketing.
+1. Fate clic su **Attività marketing**.
 
    ![](assets/ma.png)
 
@@ -67,15 +67,15 @@ Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o ut
 
    ![](assets/select-program.png)
 
-1. Fate clic sulla scheda **Configurazione** .
+1. Fare clic sulla scheda **Setup**.
 
    ![](assets/setup-tab.png)
 
-1. Trascina Costo **** periodo sul quadro.
+1. Trascinare **Costo periodo** nell&#39;area di lavoro.
 
    ![](assets/period-cost.png)
 
-1. Impostare il mese del programma almeno 12 mesi fa e fare clic su **OK**.
+1. Impostare il mese del programma almeno 12 mesi fa e fare clic su **Ok**.
 
    ![](assets/set-period.png)
 
@@ -85,11 +85,11 @@ Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o ut
 
 Quindi, controlla il comportamento di analisi per indicare se un particolare canale deve essere incluso nell&#39;analisi. Impostate il comportamento di Analytics (Normale, Inclusivo, Operativo).
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/admin.png)
 
-1. Fate clic su **Tag**.
+1. Fare clic su **Tag**.
 
    ![](assets/tags.png)
 
@@ -101,7 +101,7 @@ Quindi, controlla il comportamento di analisi per indicare se un particolare can
 
    ![](assets/channel-click.png)
 
-1. Fai clic sul menu a discesa Comportamento **di** Analytics e seleziona il comportamento desiderato.
+1. Fai clic sul menu a discesa **Comportamento analisi** e seleziona il comportamento desiderato.
 
    ![](assets/edit-channel.png)
 
@@ -109,11 +109,11 @@ Quindi, controlla il comportamento di analisi per indicare se un particolare can
 
    ![](assets/success.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/save.png)
 
-## Legare il programma alla persona {#tie-the-program-to-the-person}
+## Collegare il programma alla persona {#tie-the-program-to-the-person}
 
 1. Accertati che il programma di acquisizione e la data di acquisizione siano stati impostati per ogni persona presente nel tuo database al fine di poter utilizzare la funzione First Touch Attribution.
 1. Assicurati che i tuoi programmi stiano impostando gli stati di successo per le persone.
