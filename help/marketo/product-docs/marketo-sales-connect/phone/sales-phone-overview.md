@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## Come posso essere configurato rapidamente con il telefono di vendita? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Numero di telefono:** Sarà necessario digitare il testo solo una volta. Il numero di riferimento per tutte le chiamate future verrà memorizzato in Adobe Connect.
+**Numero di telefono:** sarà necessario digitarlo una sola volta. Il numero di riferimento per tutte le chiamate future verrà memorizzato in Adobe Connect.
 
-**Presenza locale:** Dovrai solo controllare &quot;use local presence&quot; e registrare la chiamata per la tua prima chiamata. In Sales Connect vengono memorizzate le impostazioni per tutte le chiamate future.
+**Presenza locale:** dovrete solo controllare &quot;use local presence&quot; (usa presenza locale) e registrare la chiamata per la prima chiamata. In Sales Connect vengono memorizzate le impostazioni per tutte le chiamate future.
 
 Se desiderate che Sales Connect crei automaticamente un&#39;attività di chiamata in Salesforce, controllate [questo articolo](http://docs.marketo.com/x/joLS).
 
@@ -37,6 +37,6 @@ In Centro comandi, puoi utilizzare l&#39;elenco delle chiamate dalla scheda invi
 
 Una volta raggiunta la chiamata o effettuata una chiamata, il Sales Connect effettua il pulling del numero di telefono del lead/contatto da Salesforce. Se in Salesforce non è elencato alcun numero, Sales Connect recupererà il numero di telefono del record dell&#39;account.
 
-Per i team che utilizzano altri CRMS, Sales Connect estrae il numero di telefono dal numero registrato in Sales Connect. Questi dati possono essere facilmente disponibili tramite un caricamento [](http://docs.marketo.com/x/HIPS)CSV.
+Per i team che utilizzano altri CRMS, Sales Connect estrae il numero di telefono dal numero registrato in Sales Connect. Questi dati possono essere facilmente disponibili tramite un [caricamento CSV](http://docs.marketo.com/x/HIPS).
 
-Premi il grande pulsante **Call** verde. Il telefono inizierà a suonare. Il telefono e il reparto vendite chiameranno automaticamente il lead/contatto.
+Premere il grande tasto **Call** verde. Il telefono inizierà a suonare. Il telefono e il reparto vendite chiameranno automaticamente il lead/contatto.
