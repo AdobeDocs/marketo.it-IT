@@ -1,7 +1,7 @@
 ---
 unique-page-id: 9437783
 description: Modello 13-A - Marketo Docs - Documentazione prodotto
-title: Modello 13-A
+title: Modello 13-C
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
