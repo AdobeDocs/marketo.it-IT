@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Errore di autenticazione non riuscita {#authentication-unsuccessful-error}
+# Errore di autenticazione non riuscito {#authentication-unsuccessful-error}
 
 Le e-mail vengono visualizzate in Consegna non riuscita con un errore di tipo &quot;Autenticazione non riuscita&quot;? Ciò significa che non è stato possibile autenticare la connessione al server SMTP. Probabilmente, la password è stata modificata di recente e devi autenticare le nuove credenziali.
 
-1. Vai alle impostazioni [](http://toutapp.com/next#settings/email-servers/smtp/configure) SMTP in cui dovresti visualizzare lo stesso messaggio di errore &quot;Autenticazione non riuscita&quot;.
-1. Aggiornate le credenziali e fate clic su **Autenticazione e salva**.
+1. Accedi alle [Impostazioni SMTP](http://toutapp.com/next#settings/email-servers/smtp/configure) in cui dovresti visualizzare lo stesso messaggio di errore &quot;Autenticazione non riuscita&quot;.
+1. Aggiornate le credenziali e fate clic su **Autenticare e salvare**.
 1. Andate alle consegne non riuscite e provate a inviare nuovamente tali e-mail.
 
-Se si verificano dei problemi, [inviare un caso](http://nation.marketo.com/community/support_solutions) per l&#39;assistenza.
+Se continui a causare problemi, [invia una pratica](http://nation.marketo.com/community/support_solutions) per assistenza.
