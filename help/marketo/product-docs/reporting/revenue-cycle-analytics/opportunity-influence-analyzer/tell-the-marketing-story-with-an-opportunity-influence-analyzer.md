@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Comunicare la storia di marketing con un analizzatore di influenza opportunità {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Comunicate la storia di marketing con un analizzatore di influenza opportunità {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Utilizzate un analizzatore di influenza opportunità per illustrare il ruolo del marketing in opportunità importanti. Mostra come il marketing ha influenzato un&#39;opportunità, dal primo tocco alla creazione di opportunità e alla vittoria, e oltre.
 
@@ -23,27 +23,27 @@ Utilizzate un analizzatore di influenza opportunità per illustrare il ruolo del
 
 
 
-1. Andate ad **Analytics** e selezionate **Opportunity Influence Analyzer**.
+1. Andate su **Analytics** e selezionate **Opportunity Influence Analyzer**.
 
    ![](assets/analytics-opportunityhand.png)
 
    L&#39;analizzatore dell&#39;influenza opportunità è una rappresentazione visiva delle interazioni e dei successi del programma e dell&#39;evento coinvolti in tale opportunità. Esploriamo il grafico:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**I punti** arancione rappresentano momenti [](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) interessanti nell&#39;opportunità (e-mail aperte, visite alle sale fieristiche, download di whitepaper, ecc.). Punti più grandi indicano più interazioni.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**I** dotsini arancioni rappresentano  [interessanti ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) momenti di opportunità (e-mail aperte, visite a stand di fiere, download di whitepaper, ecc.). Punti più grandi indicano più interazioni.
 
-   * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)
+   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
 
-      ` Icone **** Binder indicano i successi [del programma](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) .
+      ` **Icone del legante** indicano i successi di [programma](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM).
 
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Le icone Calendario** indicano i successi [dell&#39;evento](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) .
+   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Icone calendario** indicano i successi [event](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM).
 
    * **Periodo** opportunità. L&#39;area verde rappresenta l&#39;opportunità stessa, dalla creazione di opportunità alla chiusura di opportunità (vinta o persa).
    * **Ciclo** di vita delle opportunità. Le aree grigie prima e dopo il periodo di opportunità verde mostrano le interazioni che hanno portato all’opportunità e che l’hanno seguita.
 
-   Nel pannello **Impostazioni** sono elencate le persone dell’account:
+   Il pannello **Impostazioni** elenca le persone dell&#39;account:
 
-   * Il **numero tra parentesi** corrisponde al numero di interazioni con tale contatto.
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)La stella **** gialla indica il contatto principale.
+   * Il numero **tra parentesi** corrisponde al numero di interazioni con tale contatto.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)La  **stella** gialla indica il contatto principale.
 
 
 1. Passa il cursore del mouse sul nome per vedere il titolo del lavoro della persona e la fonte del suo coinvolgimento con l&#39;opportunità.
