@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Seleziona colonne rapporto {#select-report-columns}
+# Seleziona colonne report {#select-report-columns}
 
 Potete scegliere quali colonne includere nel rapporto e quali no.
 
@@ -23,7 +23,7 @@ Potete scegliere quali colonne includere nel rapporto e quali no.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Fare clic sulla scheda **Rapporto** , quindi su un&#39;intestazione di colonna e selezionare **Colonne**, quindi scegliere le colonne da includere.
+1. Fare clic sulla scheda **Report**, quindi fare clic sull&#39;intestazione di una colonna e selezionare **Colonne**, quindi scegliere le colonne da includere.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
@@ -36,5 +36,5 @@ Potete scegliere quali colonne includere nel rapporto e quali no.
    >    * [Ordina rapporto sulle colonne](sort-report-on-columns.md)
 
 
-   Fai di più con i report! Consultate Rapporti [di](http://docs.marketo.com/display/docs/basic+reporting)base.
+   Fai di più con i report! Vedere [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
 
