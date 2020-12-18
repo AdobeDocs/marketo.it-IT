@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Best Bets in Salesforce1 {#best-bets-in-salesforce}
 
-Le vostre [migliori Scommesse](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sono i vostri lead e contatti con la massima urgenza e il punteggio relativo. Nell’elenco sono visibili solo i lead di proprietà e l’elenco viene aggiornato in seguito alla modifica dei punteggi dei lead.
+Le [migliori Scommesse](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sono i lead e i contatti con la massima urgenza e il punteggio relativo. Nell’elenco sono visibili solo i lead di proprietà e l’elenco viene aggiornato in seguito alla modifica dei punteggi dei lead.
 
 1. Andate all&#39;area di Marketo nell&#39;app Salesforce.
 
