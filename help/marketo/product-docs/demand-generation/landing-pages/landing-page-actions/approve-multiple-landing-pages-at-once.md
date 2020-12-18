@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Approva più pagine di destinazione contemporaneamente {#approve-multiple-landing-pages-at-once}
 
-1. Andate a **Design Studio.**
+1. Vai a **Design Studio.**
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Fate clic su Pagine **di destinazione.**
+1. Fare clic su **Pagine di destinazione.**
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Non fate clic sul nome effettivo della pagina di destinazione; si tratta di collegamenti che vi porteranno alla pagina stessa.
 
-1. Con le pagine di destinazione selezionate, andate a Azioni **pagina di** destinazione e fate clic su **Approva.**
+1. Con le pagine di destinazione selezionate, andate a **Azioni pagina di destinazione** e fate clic su **Approva.**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
