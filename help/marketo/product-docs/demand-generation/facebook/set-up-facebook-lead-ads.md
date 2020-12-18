@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Impostazione Di Annunci Lead Facebook {#set-up-facebook-lead-ads}
+# Impostazione annunci lead Facebook {#set-up-facebook-lead-ads}
 
-Utilizzate gli annunci [lead di](https://www.facebook.com/business/a/lead-ads) Facebook per eseguire campagne pubblicitarie in Facebook e generare lead per Marketo.
+Utilizzate [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) per eseguire campagne pubblicitarie in Facebook e generare lead per Marketo.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Utilizzate gli annunci [lead di](https://www.facebook.com/business/a/lead-ads) F
 >
 >Per aggiungere gli annunci lead Facebook all&#39;istanza, contattate il Customer Success Manager.
 
-1. Vai ad **Amministratore** Marketo.
+1. Vai a Marketo **Admin**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vai a **LaunchPoint**, fai clic su **Nuovo,** quindi seleziona **Nuovo servizio**.
+1. Vai a **LaunchPoint**, fai clic su **Nuovo,** e seleziona **Nuovo servizio**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Immettete un nome **** visualizzato per il servizio, selezionate il servizio Annunci **lead di** Facebook dal menu a discesa e fate clic su **Crea**.
+1. Immettete un **Nome visualizzato** per il servizio, selezionate il servizio **Annunci lead Facebook** dall&#39;elenco a discesa e fate clic su **Crea**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -45,19 +45,19 @@ Utilizzate gli annunci [lead di](https://www.facebook.com/business/a/lead-ads) F
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Dopo aver effettuato l’accesso a Facebook, tornate a Marketo e fate clic su **Autorizza**.
+1. Dopo aver effettuato l&#39;accesso a Facebook, tornate a Marketo e fate clic su **Autorizza**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Se richiesto, fate clic su **OK** per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
+1. Se richiesto, fate clic su **Ok** per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Noterete che ora siete autorizzati. Fate clic su **Avanti**.
+1. Noterete che ora siete autorizzati. Fare clic su **Next**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Selezionate le pagine da cui desiderate che Marketo estragga gli annunci lead Facebook e fate clic su **Avanti**.
+1. Selezionate le pagine da cui desiderate che Marketo estragga gli annunci lead Facebook e fate clic su **Next**.
 
    >[!TIP]
    >
@@ -65,11 +65,11 @@ Utilizzate gli annunci [lead di](https://www.facebook.com/business/a/lead-ads) F
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Per accettare le mappature dei campi predefinite da Facebook a Marketo, fai clic su **Crea**.
+1. Per accettare le mappature predefinite dei campi Facebook su Marketo, fai clic su **Crea**.
 
    >[!TIP]
    >
-   >Modificando le mappature, potete personalizzare la posizione in cui i dati degli annunci lead sono memorizzati in Marketo. Puoi anche [estrarre i dati dalle domande](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)personalizzate relative agli annunci lead.
+   >Modificando le mappature, potete personalizzare la posizione in cui i dati degli annunci lead sono memorizzati in Marketo. È inoltre possibile [estrarre i dati da Domande personalizzate lead Ads](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
