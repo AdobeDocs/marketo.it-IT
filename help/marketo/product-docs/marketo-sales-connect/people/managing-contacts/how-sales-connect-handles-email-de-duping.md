@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Gestione della disattivazione delle e-mail in Adobe Connect {#how-sales-connect-handles-email-de-duping}
+# Gestione della disattivazione delle e-mail da parte di Adobe Connect{#how-sales-connect-handles-email-de-duping}
 
-Quando [caricate un file CSV](http://docs.marketo.com/x/VADb) in Sales Connect, uniamo tutti i contatti simili nel CSV prima dell&#39;importazione.
+Durante il [caricamento di un file CSV](http://docs.marketo.com/x/VADb) in Sales Connect, uniamo tutti i contatti simili nel CSV prima dell&#39;importazione.
 
 Lo facciamo sulla base di un indirizzo e-mail simile. Quindi, se ci sono due indirizzi e-mail identici, li uniamo in un unico contatto.
 
