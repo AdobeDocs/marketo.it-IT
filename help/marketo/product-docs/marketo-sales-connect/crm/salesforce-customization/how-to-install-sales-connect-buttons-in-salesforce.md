@@ -15,16 +15,16 @@ ht-degree: 0%
 
 Installa facilmente Call con Marketing Sales Connect, Invia e-mail di vendita Marketo e Aggiungi a campagna. Per installare questi campi è necessario disporre dei privilegi di amministratore in Salesforce.
 
-1. Accedi a [Salesforce.com.](http://Salesforce.com)
-1. Fate clic su **Personalizza**.
-1. Fate clic su **Lead**.
-1. Fate clic su Layout **di** pagina.
+1. Accedete a [Salesforce.com.](http://Salesforce.com)
+1. Fare clic su **Personalizza**.
+1. Fare clic su **Lead**.
+1. Fare clic su **Layout di pagina**.
 1. Fare clic su **Edit **accanto al layout lead a cui si desidera aggiungere i pulsanti.
-1. Fate clic su **Pulsanti**.
+1. Fare clic su **Pulsanti**.
 1. Trascinate i pulsanti di connessione alle vendite nella sezione Dettagli lead.
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    >[!NOTE]
    >
-   >È possibile ripetere questi passaggi per installarli nel layout dei contatti. Accertatevi di scegliere **Contatti** per il Passaggio 3.
+   >È possibile ripetere questi passaggi per installarli nel layout dei contatti. Assicurarsi di scegliere **Contatti** per il passaggio 3.
 
