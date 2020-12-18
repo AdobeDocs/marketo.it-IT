@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Domande frequenti per la compilazione del modulo per social network LinkedIn {#linkedin-social-form-fill-faqs}
+# Domande frequenti su LinkedIn Social Form Fill{#linkedin-social-form-fill-faqs}
 
 La nuova politica API di LinkedIn ci ha richiesto di rimuovere LinkedIn Social Form Fill dal nostro prodotto.
 
-## Cose importanti da sapere {#important-things-to-know}
+## Cose importanti da conoscere {#important-things-to-know}
 
 * I pulsanti per la compilazione del modulo per social network LinkedIn non sono più un&#39;opzione da aggiungere a Marketo a partire dal 28 aprile 2016
 
@@ -61,11 +61,11 @@ No, i moduli per i quali è stata rimossa questa funzionalità restano pubblicat
 
 No, verrà rimosso solo il pulsante LinkedIn dal modulo. Ogni volta che a un modulo viene applicato il tipo di modulo Social, sopra di esso viene creato un contenitore contenente i pulsanti Compila modulo Social. Prima del 28 aprile 2016, se LinkedIn era l&#39;unica opzione, l&#39;aspetto del contenitore era simile all&#39;immagine seguente:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Dopo il 28 aprile 2016, nella parte superiore di un modulo è ora presente un contenitore vuoto lasciato nella parte superiore del modulo per il quale è stato rimosso il modulo LinkedIn Social:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
