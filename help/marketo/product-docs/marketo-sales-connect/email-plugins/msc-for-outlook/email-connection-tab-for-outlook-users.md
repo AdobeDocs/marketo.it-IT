@@ -23,27 +23,27 @@ Scopri come collegare il tuo account di Sales Connect con Outlook.
 
 La connessione a Outlook consente di ricevere il tracciamento delle risposte, accedere al canale di consegna di Outlook, pianificare e-mail in Outlook e inviare la conformità.
 
-1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Settings**.
 
    ![](assets/one.png)
 
-1. In Account personale, selezionate Impostazioni **e-** mail.
+1. In Account personale, selezionare **Impostazioni e-mail**.
 
    ![](assets/two.png)
 
-1. Fate clic sulla scheda Connessione **e-** mail.
+1. Fare clic sulla scheda **Connessione e-mail**.
 
    ![](assets/three.png)
 
-1. Fate clic su **Inizia**.
+1. Fare clic su **Introduzione**.
 
    ![](assets/four.png)
 
-1. Selezionate **Utilizzo Outlook per inviare e-mail** e fate clic su **Avanti**.
+1. Selezionare **Utilizzo Outlook per inviare e-mail** e fare clic su **Avanti**.
 
    ![](assets/five-a.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Avanti**. In questo esempio è possibile scegliere Outlook Online.
+1. Selezionare la versione di Outlook in uso e fare clic su **Next**. In questo esempio è possibile scegliere Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -51,19 +51,19 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, ac
    |---|---|
    | **Exchange locale** | Include Exchange 2013 e 2016 |
 
-1. Fate clic su **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/seven-a.png)
 
-1. Se non avete effettuato l’accesso a Outlook, immettete le informazioni di accesso e fate clic su **Avanti**. In caso affermativo, scegliete l’account a cui desiderate connettervi e fate clic su **Avanti**. In questo esempio, abbiamo già eseguito l&#39;accesso.
+1. Se non avete eseguito l&#39;accesso a Outlook, immettete le informazioni di accesso e fate clic su **Next**. In caso affermativo, scegliete l&#39;account a cui desiderate connettervi e fate clic su **Next**. In questo esempio, abbiamo già eseguito l&#39;accesso.
 
    ![](assets/eight-a.png)
 
-1. Fate clic su **Accetta**.
+1. Fare clic su **Accetta**.
 
    ![](assets/nine-a.png)
 
-   È possibile utilizzare questa connessione per tenere traccia delle e-mail e [come canale](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)di consegna.
+   È possibile utilizzare questa connessione per tenere traccia delle e-mail e [anche come canale di consegna](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
    >[!NOTE]
    >
@@ -73,27 +73,27 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, ac
 
 La connessione a Exchange On-Premise consente di ricevere il tracciamento delle risposte, accedere al canale di consegna di Outlook, pianificare e-mail in Outlook e inviare la conformità.
 
-1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Settings**.
 
    ![](assets/one.png)
 
-1. In Account personale, selezionate Impostazioni **e-** mail.
+1. In Account personale, selezionare **Impostazioni e-mail**.
 
    ![](assets/two.png)
 
-1. Fate clic sulla scheda Connessione **e-** mail.
+1. Fare clic sulla scheda **Connessione e-mail**.
 
    ![](assets/three.png)
 
-1. Fate clic su **Inizia**.
+1. Fare clic su **Introduzione**.
 
    ![](assets/four.png)
 
-1. Selezionate **Utilizzo Outlook per inviare e-mail** e fate clic su **Avanti**.
+1. Selezionare **Utilizzo Outlook per inviare e-mail** e fare clic su **Avanti**.
 
    ![](assets/five-a.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Avanti**. In questo esempio, stiamo scegliendo Exchange locale.
+1. Selezionare la versione di Outlook in uso e fare clic su **Next**. In questo esempio, stiamo scegliendo Exchange locale.
 
    ![](assets/six-b.png)
 
