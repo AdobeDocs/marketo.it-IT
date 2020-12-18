@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modifica di un canale evento {#edit-an-event-channel}
 
-Potete modificare il tipo di canale dalla scheda **Riepilogo** dell’evento o dalla scheda **Configurazione** .
+È possibile modificare il tipo di canale dalla scheda **Riepilogo** dell&#39;evento o dalla scheda **Configurazione**.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Potete modificare il tipo di canale dalla scheda **Riepilogo** dell’evento o d
 
 >[!NOTE]
 >
->Un programma è una specifica iniziativa di marketing. Il **canale** deve essere il meccanismo di distribuzione, ad esempio Webinar, Tradeshow o Online Ad. Nel menu a discesa possono essere visualizzate diverse opzioni di canale, a seconda di quanto è disponibile nella propria istanza. Puoi anche [creare un canale personale.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Un programma è una specifica iniziativa di marketing. Il **canale** è destinato ad essere il meccanismo di distribuzione, ad esempio Webinar, Tradeshow o Online Ad. Nel menu a discesa possono essere visualizzate diverse opzioni di canale, a seconda di quanto è disponibile nella propria istanza. È inoltre possibile [creare un proprio canale.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
 
 ## Dalla scheda Riepilogo {#from-the-summary-tab}
 
-1. Da Attività **** marketing, selezionate l&#39;evento dalla struttura.
+1. In **Attività di marketing**, selezionate l&#39;evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Passate alla vista **Riepilogo** .
+1. Passare alla visualizzazione **Riepilogo**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Nella categoria **Impostazioni** , selezionate il **canale** corrente visualizzato come collegamento ipertestuale.
+1. Nella categoria **Impostazioni**, selezionare il canale **Canale** corrente visualizzato come collegamento ipertestuale.
 
    ![](assets/channeltypeevent.png)
 
@@ -41,27 +41,27 @@ Potete modificare il tipo di canale dalla scheda **Riepilogo** dell’evento o d
 
    ![](assets/tradeshowchange.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Dalla scheda Configurazione {#from-the-setup-tab}
 
-Un nuovo tipo di canale può essere assegnato anche dalla scheda **Configurazione** dell’evento.
+Un nuovo tipo di canale può essere assegnato anche dalla scheda **Setup** dell&#39;evento.
 
 1. Selezionate l’evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Passate alla scheda **Configurazione** . Fate doppio clic sul **canale** corrente.
+1. Passate alla scheda **Setup**. Fare doppio clic sul canale **corrente**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Selezionate un nuovo **canale**.
+1. Selezionare un nuovo **Canale**.
 
    ![](assets/tradeshowchange.png)
 
-1. Fate clic su **Salva.**
+1. Fare clic su **Salva.**
 
    ![](assets/2017-06-13-09-35-53.png)
 
