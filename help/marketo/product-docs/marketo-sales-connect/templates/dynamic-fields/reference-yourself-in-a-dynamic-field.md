@@ -17,4 +17,4 @@ I campi dinamici sono la nostra forma di stampa unione.
 
 Consentiamo di personalizzare i modelli delle e-mail con attributi predefiniti come `{{my_name}}` o `{{my_title}}`. Questi campi consentono di fare rapidamente riferimento a se stessi nei modelli delle e-mail.
 
-Per aggiungere a un modello un campo dinamico con riferimento autonomo, è sufficiente selezionare quello che si desidera utilizzare dal pulsante Campi **dinamici** MSE nell&#39;editor modelli.
+Per aggiungere a un modello un campo dinamico con riferimento autonomo, è sufficiente selezionare quello che si desidera utilizzare dal pulsante **MSE Dynamic Fields** nell&#39;editor modelli.
