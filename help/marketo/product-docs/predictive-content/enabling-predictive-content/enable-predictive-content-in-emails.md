@@ -27,9 +27,9 @@ Fai prevedere una o più immagini nel tuo messaggio e-mail, adattando l&#39;espe
 >* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## Aggiunta di contenuti predittivi tramite l&#39;editor e-mail 2.0 {#adding-predictive-content-using-the-email-editor}
+## Aggiunta di contenuti predittivi tramite l&#39;editor di e-mail 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Fate clic su Attività **** di marketing.
+1. Fate clic su **Attività marketing**.
 
    ![](assets/one.png)
 
@@ -37,11 +37,11 @@ Fai prevedere una o più immagini nel tuo messaggio e-mail, adattando l&#39;espe
 
    ![](assets/two.png)
 
-1. Fate clic sull’immagine da rendere predittiva. Quando viene visualizzata l&#39;icona a forma di ingranaggio, fate clic su di essa e selezionate **Abilita contenuto`AI`** (il contenuto`AI` è il nome precedente per Contenuto predittivo).
+1. Fate clic sull’immagine da rendere predittiva. Quando viene visualizzata l&#39;icona a forma di ingranaggio, fate clic su di essa e selezionate **Abilita contenuto`AI`** (Content`AI` è il nome precedente per Contenuto predittivo).
 
    ![](assets/three.png)
 
-1. Per selezionare una o più categorie, fare clic sul menu a discesa **Categorie** , effettuare le selezioni e fare clic su **Applica**.
+1. Per selezionare una o più categorie, fare clic sul menu a discesa **Categorie**, effettuare le selezioni e fare clic su **Applica**.
 
    ![](assets/four.png)
 
@@ -53,19 +53,19 @@ Fai prevedere una o più immagini nel tuo messaggio e-mail, adattando l&#39;espe
 
    ![](assets/five.png)
 
-1. Per visualizzare l’anteprima del messaggio e-mail, fate clic su **Anteprima** nell’angolo in alto a destra.
+1. Per visualizzare l&#39;anteprima del messaggio e-mail, fate clic su **Anteprima** nell&#39;angolo superiore destro.
 
    ![](assets/six.png)
 
-1. Per visualizzare diverse immagini possibili, fate clic su **Aggiorna**.
+1. Per visualizzare diverse immagini possibili, fare clic su **Aggiorna**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >L’immagine non viene selezionata **_fino a quando il destinatario non apre il messaggio e-mail_**. Quello che vedete nell&#39;anteprima è solo un esempio, e non sarà necessariamente l&#39;immagine che il destinatario vede.
+   >L&#39;immagine non viene selezionata **_finché il destinatario non apre l&#39;e-mail_**. Quello che vedete nell&#39;anteprima è solo un esempio, e non sarà necessariamente l&#39;immagine che il destinatario vede.
 
-1. Dopo aver visualizzato l’anteprima del messaggio e-mail, fate clic sul menu a discesa **Anteprima azioni** e selezionate **Approva e Chiudi**. Oppure, se dovete comunque apportare delle modifiche, fate clic su **Modifica bozza** a destra.
+1. Dopo aver visualizzato l&#39;anteprima del messaggio e-mail, fare clic sul menu a discesa **Azioni anteprima** e selezionare **Approva e Chiudi**. Oppure, se è ancora necessario apportare modifiche, fare clic su **Modifica bozza** a destra.
 
    ![](assets/eight.png)
 
@@ -81,9 +81,9 @@ Dopo l&#39;approvazione, l&#39;e-mail sarà dotata di contenuti predittivi e pro
 
 ## Aggiunta di contenuti predittivi quando non si utilizza l&#39;editor di e-mail 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Se non utilizzate un modello [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) , potete aggiungere contenuto predittivo al messaggio e-mail semplicemente assegnando un tag a un’immagine nel modello come elemento immagine modificabile Marketo.
+Se non state utilizzando un modello [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md), l&#39;aggiunta di contenuto predittivo al messaggio e-mail può essere fatta semplicemente assegnando un&#39;immagine nel modello come elemento immagine modificabile Marketo.
 
-Ulteriori informazioni sulla sintassi [specifica di Marketo sono disponibili qui](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
+Informazioni sulla [sintassi specifica di Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
 
 Di seguito è riportato un esempio di come dovrebbe essere il codice (questo è solo un esempio, non copiate esattamente il codice riportato di seguito).
 
