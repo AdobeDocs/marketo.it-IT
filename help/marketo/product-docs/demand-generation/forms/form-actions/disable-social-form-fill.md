@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Disattiva compilazione modulo social {#disable-social-form-fill}
+# Disattiva compilazione modulo social network {#disable-social-form-fill}
 
 A volte non si desidera più che i visitatori del sito inviino moduli utilizzando un profilo sociale. Ecco come disattivarlo.
 
@@ -21,7 +21,7 @@ A volte non si desidera più che i visitatori del sito inviino moduli utilizzand
 >
 >Non tutti i clienti hanno acquistato questa funzionalità.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-10.png)
 
@@ -41,7 +41,7 @@ A volte non si desidera più che i visitatori del sito inviino moduli utilizzand
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
