@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica sulle tendenze di Performance Insights {#performance-insights-trend-overview}
+# Panoramica sulle tendenze delle prestazioni {#performance-insights-trend-overview}
 
 La tendenza mostra le prestazioni del canale in un periodo di tempo.
 
