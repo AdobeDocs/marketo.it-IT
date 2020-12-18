@@ -22,15 +22,15 @@ ht-degree: 0%
 
 
 
-1. Selezionate l’elenco o l’elenco avanzato, fate clic sulla scheda **Lead** per ottenere i risultati desiderati, quindi fate clic sull’icona excel. INLINE Accertarsi che siano visibili **le** colonne **Marketo Unique Code **e Marketo Unique Name [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Selezionate l&#39;elenco o l&#39;elenco smart, fate clic sulla scheda **Lead** per ottenere i risultati e quindi sull&#39;icona excel. INLINE Accertarsi che siano visibili **Marketo Unique Code **e **Marketo Unique Name** [colonne](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Selezionate **Includi URL** personalizzato, individuate e selezionate la pagina di destinazione per la quale desiderate generare i URL.
+1. Selezionare **Includi URL personalizzato**, individuare e selezionare la pagina di destinazione per la quale si desidera generare i URL.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. Selezionate l’ **URL**.
+1. Selezionare l&#39; **URL**.
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >
    >Se visualizzi più URL per la stessa pagina di destinazione, è probabile che l’URL delle pagine sia stato modificato in un determinato momento in precedenza e che sia stato creato un reindirizzamento.
 
-1. Scegliete uno **stile** e fate clic su **Esporta**.
+1. Scegliete uno stile **Style** e fate clic su **Esporta**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. Al termine dell’esportazione, fate clic sul collegamento **Scarica ora** per salvare il file.
+1. Al termine dell&#39;esportazione, fate clic sul collegamento **Scarica ora** per salvare il file.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
