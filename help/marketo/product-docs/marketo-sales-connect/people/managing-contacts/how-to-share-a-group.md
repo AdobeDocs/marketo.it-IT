@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La condivisione di un gruppo di lead o contatti con il team è molto semplice in Sales Connect.
 
-1. Passate alla scheda **Persone** .
+1. Passate alla scheda **Persone**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ La condivisione di un gruppo di lead o contatti con il team è molto semplice in
 
    ![](assets/two-1.png)
 
-1. Fate clic sul pulsante** Azioni gruppo** e selezionate **Condivisione gruppo**.
+1. Fate clic sul pulsante** Azioni gruppo** e selezionate **Condividi gruppo**.
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ La condivisione di un gruppo di lead o contatti con il team è molto semplice in
 
    ![](assets/four-1.png)
 
-1. Fate clic su **Condividi**.
+1. Fare clic su **Condividi**.
 
    ![](assets/five-1.png)
 
