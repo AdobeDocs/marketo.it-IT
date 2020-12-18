@@ -19,8 +19,8 @@ Se il tuo account Marketo è connesso a Salesforce tramite un&#39;integrazione p
 >
 >* Rivolgiti al tuo Customer Success Manager per abilitare la funzionalità &quot;MSI non nativa&quot; per l&#39;istanza di Marketo.
 >* Un account Salesforce con configurazione pacchetto MSI.
->* Configurazione dell&#39;API REST di Marketo [completata](http://developers.marketo.com/rest-api/). Le API CRUD esposte costituiranno la base per eseguire la sincronizzazione non nativa.
->* Leggi [questo post](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) di blog per conoscere l&#39;oggetto e le relazioni.
+>* Impostazione dell&#39;API REST di Marketo [completata](http://developers.marketo.com/rest-api/). Le API CRUD esposte costituiranno la base per eseguire la sincronizzazione non nativa.
+>* Leggi [questo post di blog](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) per conoscere l&#39;oggetto e le relazioni.
 >* Configurate gli oggetti Salesforce per visualizzare l&#39;identificatore univoco globale senza distinzione tra maiuscole e minuscole di 18 caratteri anziché l&#39;identificatore univoco globale con distinzione tra maiuscole e minuscole di 15 caratteri.
 
 >
@@ -31,7 +31,7 @@ Se il tuo account Marketo è connesso a Salesforce tramite un&#39;integrazione p
 >
 >La configurazione REST API nel pannello di amministrazione MSI di Marketo non può essere utilizzata per la sincronizzazione non nativa.
 
-## La sincronizzazione non nativa corretta per MSI richiede quanto segue {#successful-non-native-sync-for-msi-requires-the-following}
+## La sincronizzazione non nativa corretta per MSI richiede quanto segue{#successful-non-native-sync-for-msi-requires-the-following}
 
 1. Sincronizza l’utente di vendita Salesforce con il marketing.
 
@@ -62,7 +62,7 @@ Documentazione API per la sincronizzazione della persona di vendita: [https://de
 
 1. Sincronizza gli account Salesforce con Marketo.
 
-   Per l&#39;account Salesforce sarà necessario aggiornare una società Marketing. I campi *externalCompanyId* e *externalSalesPersonId* sono obbligatori per l&#39;aggiornamento della società.
+   Per l&#39;account Salesforce sarà necessario aggiornare una società Marketing. I campi *externalCompanyId* e *externalSalesPersonId* sono obbligatori per l&#39;aggiornamento della Società.
 
 <table> 
  <colgroup> 
@@ -94,7 +94,7 @@ Documentazione API per le aziende: [https://developers.marketo.com/rest-api/lead
 
 1. Sincronizza i lead/contatti Salesforce con Marketo.
 
-   Dovrai aggiornare un lead marketing per il lead/contatto Salesforce. I campi *externalPersonId*, *externalSalesPersonId* e *externalCompanyId* sono obbligatori per l’aggiornamento del lead.
+   Dovrai aggiornare un lead marketing per il lead/contatto Salesforce. I campi *externalPersonId*, *externalSalesPersonId* e *externalCompanyId* sono obbligatori per l&#39;aggiornamento del lead.
 
 <table> 
  <colgroup> 
@@ -168,7 +168,7 @@ Documentazione API per Opportunità: [`https://developers.marketo.com/rest-api/l
 
 1. Sincronizza i ruoli dei contatti Salesforce con Marketo.
 
-   I ruoli dei contatti di Salesforce per un&#39;opportunità Salesforce possono essere quindi sincronizzati tramite il ruolo opportunità di marketing. Il record Ruolo opportunità richiede i campi *externalOpportunityId*, *role* e *leadId* .
+   I ruoli dei contatti di Salesforce per un&#39;opportunità Salesforce possono essere quindi sincronizzati tramite il ruolo opportunità di marketing. Il record Ruolo opportunità richiede i campi *externalOpportunityId*, *role* e *leadId*.
 
 <table> 
  <colgroup> 
@@ -207,7 +207,7 @@ Documentazione API per Opportunità: [`https://developers.marketo.com/rest-api/l
 
    Una volta che gli oggetti Salesforce sono stati sincronizzati correttamente su Marketo, potete sfruttare le funzioni MSI. I campi MSI Last Interesting Moment/Scoring (Ultimo momento/punteggio) saranno esposti nell&#39;API REST per i lead. Questi campi sono calcolati da MSI e sono di sola lettura.
 
-   I campi Momento/Punteggio ultimo interesse di un lead Marketo dovranno essere sincronizzati regolarmente con Salesforce utilizzando l’endpoint Lead API REST. Esegui una query su questo endpoint per un lead Marketo utilizzando *externalPersonId* come filterType e trasferisci il GUID lead Salesforce come filterValue.
+   I campi Momento/Punteggio ultimo interesse di un lead Marketo dovranno essere sincronizzati regolarmente con Salesforce utilizzando l’endpoint Lead API REST. Esegui una query su questo endpoint per un lead Marketo utilizzando *externalPersonId* come filterType e trasferendo il GUID del lead Salesforce come filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -228,7 +228,7 @@ Documentazione API per Opportunità: [`https://developers.marketo.com/rest-api/l
   </tr> 
   <tr> 
    <td>msiLastInterestingMomentType</td> 
-   <td>Etichetta: Ultimo<br>tipo di momento interessante: Last_Interesting_Moment_Type_c</td> 
+   <td>Etichetta: Ultimo tipo di momento interessante<br>Nome: Last_Interesting_Moment_Type_c</td> 
    <td>Tipo dell'ultimo momento interessante per il lead</td> 
   </tr> 
   <tr> 
