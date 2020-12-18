@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Eliminazione di un campo in un rapporto di Esplora entrate {#deleting-a-field-in-a-revenue-explorer-report}
+# Eliminazione di un campo in un report Revenue Explorer {#deleting-a-field-in-a-revenue-explorer-report}
 
 A volte è possibile trascinare un campo errato nel rapporto. Come rimuoverlo:
 
-1. Trascina il campo da rimuovere sull’icona del **cestino** in basso a destra del rapporto.
+1. Trascina il campo da rimuovere sull&#39;icona **cestino** in basso a destra del rapporto.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
