@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modello preferito {#favorite-a-template}
+# Preferito a Template {#favorite-a-template}
 
 Potete aggiungere i modelli di qualsiasi categoria all&#39;elenco Preferiti. Questo genera automaticamente una nuova categoria nella parte superiore dell’elenco, in modo da poter accedere rapidamente ai modelli più utilizzati.
 
