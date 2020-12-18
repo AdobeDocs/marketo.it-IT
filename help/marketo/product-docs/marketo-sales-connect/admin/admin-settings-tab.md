@@ -15,9 +15,9 @@ ht-degree: 0%
 
 La scheda Impostazioni amministratore consente all&#39;amministratore di qualsiasi account di visualizzare le impostazioni del team (per quanto riguarda i limiti della pianificazione) e di controllare in massa il modo in cui i messaggi e-mail del team vengono registrati in Salesforce.
 
-Se selezioni la casella di controllo **Ignora tutte le impostazioni di sincronizzazione Salesforce per il mio team** , vedrai l&#39;opzione per consentire l&#39;accesso solo tramite CCN o solo tramite API.
+Se selezioni la casella di controllo **Ignora tutte le impostazioni di sincronizzazione Salesforce per il mio team**, visualizzerai l&#39;opzione per consentire l&#39;accesso solo tramite CCN o solo tramite API.
 
-Se scegliete Registrazione **** API, tutte le impostazioni selezionate per Opportunità, Lead, Contatti `will be set for the entire team after you click **Save Changes**.`
+Se scegliete **Registrazione API**, tutte le impostazioni selezionate per Opportunità, Lead, Contatti `will be set for the entire team after you click **Save Changes**.`
 
 Da qui, potrai anche abilitare in massa le opportunità e la sincronizzazione delle attività in tutto il team.
 
