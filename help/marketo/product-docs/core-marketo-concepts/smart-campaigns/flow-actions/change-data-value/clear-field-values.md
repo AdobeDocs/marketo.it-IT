@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Cancella valori campo {#clear-field-values}
 
-** [Modifica valore](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)dati** è ottimo, ma come si *rimuove* completamente il valore? Buona domanda!
+** [Modifica valore dati](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** è ottimo, ma come si *rimuovere* completamente il valore? Buona domanda!
 
-1. Nella fase di flusso, scegliete il campo da cancellare e digitate in **NULL **(tutti i caps) come **Nuovo valore**.
+1. Nella fase di flusso, scegliere il campo da cancellare e digitare in **NULL **(tutti i caps) come **Nuovo valore**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
