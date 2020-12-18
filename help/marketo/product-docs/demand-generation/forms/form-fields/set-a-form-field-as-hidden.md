@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Impostazione di un campo modulo come nascosto {#set-a-form-field-as-hidden}
+# Imposta campo modulo come nascosto {#set-a-form-field-as-hidden}
 
 I campi modulo nascosti possono acquisire i dati in modo invisibile senza l&#39;input del visitatore. Ecco come funziona.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Selezionare il campo e impostare il **campo** **Tipo** su **Nascosto.**
+1. Selezionare il campo e impostare il campo **Campo** **Tipo** su **Nascosto.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
