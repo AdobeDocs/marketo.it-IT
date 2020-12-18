@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Abilita URL personalizzati per il tuo account {#enable-personalized-urls-for-your-account}
+# Abilita URL personalizzati per l&#39;account {#enable-personalized-urls-for-your-account}
 
 Gli URL personalizzati sono ottimi per le campagne di stampa.
 
@@ -19,15 +19,15 @@ Gli URL personalizzati sono ottimi per le campagne di stampa.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate alla sezione **Admin** e fate clic su Pagine **di** destinazione.
+1. Andate alla sezione **Admin** e fate clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Fate clic su **Modifica**.
+1. Fare clic su **Modifica**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Selezionate la casella **Abilita URL** personalizzati e fate clic su **Salva**.
+1. Selezionare la casella **Abilita URL personalizzati** e fare clic su **Salva**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
