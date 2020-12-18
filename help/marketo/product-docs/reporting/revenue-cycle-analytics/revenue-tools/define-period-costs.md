@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Definisci costi periodo {#define-period-costs}
+# Definizione costi periodo {#define-period-costs}
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ Monitora e associa i costi di sviluppo dei lead e di acquisizione dei lead per u
 
 ## Definire un costo periodo {#define-a-period-cost}
 
-1. Accedete alla scheda **Configurazione** del programma o dell’evento.
+1. Accedete alla scheda **Setup** del programma o dell&#39;evento.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Trascinare il campo Costo **** periodo nell’area di lavoro e visualizzare la finestra di dialogo **Nuovo costo** .
+1. Trascinare **Costo periodo** nell&#39;area di lavoro e viene visualizzata la finestra di dialogo **Nuovo costo**.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Inserire il Mese **** programma da associare al costo definito.
+1. Inserire il **Mese del programma** che si desidera associare al costo definito.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Inserire un numero intero di Costo **** periodo senza decimali o virgole (limite massimo: 99999999)
+1. Immettere un numero intero **Costo periodo** senza decimali o virgole (limite massimo: 99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -47,13 +47,13 @@ Monitora e associa i costi di sviluppo dei lead e di acquisizione dei lead per u
    >
    >Valuta (ad esempio USD, EUR, ecc.) è un&#39;impostazione globale gestita da un amministratore di Marketo
 
-1. Immettete una **nota** descrittiva (facoltativo) e fate clic su **Salva**.
+1. Immettete un **Note** descrittivo (facoltativo) e fate clic su **Salva**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
 ## Modifica costo periodo {#edit-a-period-cost}
 
-1. Fare clic con il pulsante destro del mouse su Costo periodo e selezionare **Modifica **dal menu a comparsa per aprire la finestra di dialogo **Modifica costo** .
+1. Fare clic con il pulsante destro del mouse sul costo del periodo e selezionare **Edit **dal menu a comparsa per aprire la finestra di dialogo **Edit Cost**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -67,7 +67,7 @@ Monitora e associa i costi di sviluppo dei lead e di acquisizione dei lead per u
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Fare clic su **Elimina** per eliminare definitivamente il costo periodo oppure su **Annulla** per tornare indietro.
+1. Fare clic su **Elimina** per eliminare definitivamente il costo periodo, oppure su **Annulla** per tornare indietro.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
 
