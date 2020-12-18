@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Visualizza elenco modelli come altro utente {#view-template-list-as-a-another-user}
+# Visualizza elenco modelli come un altro utente {#view-template-list-as-a-another-user}
 
 In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente.
 
@@ -19,11 +19,11 @@ In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Fate clic su **Modelli**.
+1. Fare clic su **Templates**.
 
    ![](assets/one.png)
 
-1. Fate clic sul menu a **discesa Visualizza come** e selezionate l’utente desiderato.
+1. Fare clic sul menu a discesa **Visualizza come** e selezionare l&#39;utente desiderato.
 
    ![](assets/two.png)
 
