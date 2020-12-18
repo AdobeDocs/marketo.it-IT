@@ -15,21 +15,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l’iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano contenuti predittivi, Marketo attiva le funzioni di analisi dei contenuti`<sup>AI</sup>` fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento al contenuto`<sup>AI</sup>`di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Potete annullare l’approvazione di qualsiasi titolo per il contenuto predittivo nella pagina Tutto il contenuto o nella finestra a comparsa Modifica contenuto.
 
-## Pagina Tutto il contenuto {#all-content-page}
+## Tutte le pagine di contenuto {#all-content-page}
 
 1. Nella pagina Tutto il contenuto, selezionate la casella accanto al contenuto per selezionarlo.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Fate clic sul menu a discesa Azioni **** contenuto e selezionate **Annulla approvazione per Predictive Content (Contenuto predittivo)**.
+1. Fare clic sul menu a discesa **Azioni contenuto** e selezionare **Disapprova per Predictive Content**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Finestra a comparsa Modifica contenuto {#edit-content-pop-up}
+## Menu a comparsa Modifica contenuto {#edit-content-pop-up}
 
 È possibile disapprovare un titolo mentre lo si sta modificando.
 
@@ -37,7 +37,7 @@ Potete annullare l’approvazione di qualsiasi titolo per il contenuto predittiv
 
    ![](assets/click-icon-hand.png)
 
-1. Deselezionate la casella **Approva per contenuto** predittivo e fate clic su **Salva**.
+1. Deselezionare la casella **Approva per contenuto predittivo** e fare clic su **Salva**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
