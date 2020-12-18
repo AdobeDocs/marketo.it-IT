@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica di Sales Connect {#sales-connect-overview}
+# Panoramica di Connect sulle vendite {#sales-connect-overview}
 
 Marketo Sales Connect è una soluzione di supporto alle vendite multi-sfaccettato con una varietà di funzioni, che vi consente di guidare il coinvolgimento lungo tutto il ciclo di vendita.
 
@@ -21,15 +21,15 @@ Marketo Sales Connect è una soluzione di supporto alle vendite multi-sfaccettat
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta il tuo Customer Success Manager.
 
-## Feed dal vivo {#the-live-feed}
+## Feed live {#the-live-feed}
 
-I rappresentanti delle vendite possono visualizzare il coinvolgimento [in tempo](http://docs.marketo.com/x/d4TS) reale sia dei contenuti di marketing che dei contenuti di vendita.
+I rappresentanti delle vendite possono visualizzare [il coinvolgimento in tempo reale](http://docs.marketo.com/x/d4TS) sia dei contenuti di marketing che di vendita.
 
 ![](assets/engagement.jpg)
 
 ## Visualizzazione dettagli persona {#person-detail-view}
 
-Accedi agli stati [delle persone](http://docs.marketo.com/x/e4TS)dettagliati.
+Accedere alle [informazioni dettagliate relative alle persone: stati](http://docs.marketo.com/x/e4TS).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -63,7 +63,7 @@ Scopri in che modo le tue prospettive stanno coinvolgendo le tue attività di ve
   </tr> 
   <tr> 
    <td colspan="1"><p>Ricevi chiamata di vendita</p></td> 
-   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore che utilizza il <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Sales Phone</a>.</p></td> 
+   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore che utilizza il <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">telefono di vendita</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Aggiungi alla campagna di vendita</p></td> 
@@ -80,9 +80,9 @@ Scopri in che modo le tue prospettive stanno coinvolgendo le tue attività di ve
  </tbody> 
 </table>
 
-## Condivisione di campagne di marketing {#share-marketing-campaigns}
+## Condivisione di campagne marketing {#share-marketing-campaigns}
 
-Crea una semplice campagna intelligente per consentire agli utenti di vendita di accedere ai dati [della campagna](http://docs.marketo.com/x/NwDh)Marketo.
+Crea una semplice campagna intelligente per consentire agli utenti di vendita di accedere ai dati della campagna [Marketo](http://docs.marketo.com/x/NwDh).
 
 ![](assets/campaign-is-requested.jpg)
 
