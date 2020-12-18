@@ -23,17 +23,17 @@ Il coinvolgimento con Marketo Mobile ti consente di creare, configurare e inviar
 >
 >Le notifiche push sono un componente aggiuntivo e devono essere attivate da un amministratore di Marketing prima di iniziare.
 
-## Passaggio 1: Impostazioni iniziali eseguite dall&#39;amministratore e dallo sviluppatore {#step-admin-and-developer-perform-initial-setups}
+## Passaggio 1: Amministratore e sviluppatore eseguono le impostazioni iniziali {#step-admin-and-developer-perform-initial-setups}
 
-Lo sviluppatore di app marketing e per dispositivi mobili collabora per configurarti. Consultate [Prima di creare notifiche push e messaggi](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) in-app per ulteriori dettagli.
+Lo sviluppatore di app marketing e per dispositivi mobili collabora per configurarti. Per informazioni, consultate [Prima di creare notifiche push e messaggi in-app](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Passaggio 2: Creare una notifica push {#step-create-a-push-notification}
 
-[Crea la tua messaggistica](create-a-push-notification.md) e visualizza in anteprima come viene visualizzata sui dispositivi Android e iOS.
+[Crea il tuo ](create-a-push-notification.md) messaggio e visualizza in anteprima la visualizzazione su dispositivi Android e iOS.
 
 ## Passaggio 3: Invia! {#step-send}
 
-[Le notifiche push possono essere inviate](send-a-mobile-push-notification.md) utilizzando le campagne attivatore e in batch. Fantastico, eh?
+[Le notifiche push possono essere ](send-a-mobile-push-notification.md) inviate tramite attivatore e campagne smart in batch. Fantastico, eh?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
