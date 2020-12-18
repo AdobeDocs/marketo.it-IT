@@ -17,24 +17,24 @@ Scoprite come configurare le dashboard di seguito.
 
 ## Apri e fai clic su Rapporto {#open-and-click-report}
 
-1. Selezionare il tipo di record **Attività ed Eventi** .
+1. Selezionare il tipo di record **Attività ed eventi**.
 1. Definite i parametri del rapporto in base all&#39;intervallo di tempo e alla struttura gerarchica desiderati.
 1. Aggiungete un filtro per rimuovere le e-mail interne registrate in Salesforce (ad es. Azienda/Account non uguale a Marketo).
-1. Selezionare il formato del rapporto **Riepilogo** .
+1. Selezionare il formato di report **Summary**.
 1. Aggiungi al rapporto i campi Oggetto, Assegnato e Vendita marketing Clic/Vendite marketing.
 1. Fare doppio clic su **Aggiungi formula** nel riquadro Campi.
-1. Aggiungete un nome alla formula, selezionate **Percent **nel formato, quindi selezionate** Grouping 1 *.***
-1. Selezionare Vendite **marketing cliccate/Vendite marketing visualizzate,** quindi **Somma** nei campi Riepilogo.
-1. Aggiungere un segno di divisione alla formula, quindi selezionare **Record Count** (Conteggio record) nei campi Summary (Riepilogo) - *Save As (Salva con nome*).
+1. Aggiungere un nome alla formula, selezionare **Percent **nel formato, quindi selezionare** Grouping 1 *.***
+1. Selezionare **Vendite marketing Click/Marketing Vendite visualizzate,** then **Sum** nei campi Riepilogo.
+1. Aggiungere un segno di divisione alla formula, quindi selezionare **Conteggio record** nei campi Riepilogo - *Salva con nome*.
 
 ## Report prestazioni modello {#template-performance-report}
 
-1. Personalizzate il rapporto Apri e fai clic per includere i seguenti campi: *Salva con nome.*
+1. Personalizzare il rapporto Apri e fai clic per includere i seguenti campi: *Salva con nome.*
 
 ## Report volume modello {#template-volume-report}
 
 1. Modificate il Report prestazioni modello e includete il filtro &quot;Modello vendite marketing non uguale a vuoto&quot;.
-1. Rimuovi il campo Vendite marketing Click - *Salva con nome*.
+1. Rimuovere il campo Vendite marketing Click - *Salva con nome*.
 
 ## Report dei conti di tendenza {#trending-accounts-report}
 
