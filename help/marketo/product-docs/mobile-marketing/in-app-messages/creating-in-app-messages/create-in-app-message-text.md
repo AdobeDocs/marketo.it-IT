@@ -77,7 +77,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
    Eventuali modifiche apportate ai token utilizzati in un programma di messaggi in-app approvato non avranno effetto nel messaggio in-app finché il programma non viene messo in pausa e quindi ripreso.
 
-È dorata. Quindi, devi [configurare il pulsante](set-up-the-in-app-message-button.md)dei messaggi in-app.
+È dorata. Successivamente, è necessario [impostare il pulsante dei messaggi in-app](set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
