@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurare un analizzatore di influenza opportunità {#configure-an-opportunity-influence-analyzer}
 
-Una volta [creato un analizzatore](create-an-opportunity-influence-analyzer.md)di influenza opportunità, potete configurare i tipi di momenti [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) interessanti inclusi.
+Una volta che [create un analizzatore di influenza opportunità](create-an-opportunity-influence-analyzer.md), potete configurare i tipi di [momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) inclusi.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Una volta [creato un analizzatore](create-an-opportunity-influence-analyzer.md)d
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Se il grafico dell’analizzatore contiene troppi momenti interessanti, potete ridurli deselezionando le persone nel pannello **Impostazioni** o riducendo i tipi di momenti interessanti.
+   Se il grafico dell&#39;analizzatore contiene troppi momenti interessanti, puoi ridurli deselezionando le persone nel pannello **Impostazioni** o riducendo i tipi di momenti interessanti.
 
 1. Per configurare quali tipi di momenti interessanti includere, andate alla scheda Configurazione e trascinate il filtro Momenti interessanti.
 
@@ -49,7 +49,7 @@ Una volta [creato un analizzatore](create-an-opportunity-influence-analyzer.md)d
 
 >[!NOTE]
 >
->Per altri analizzatori, consultate [Creazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting)di base.
+>Per gli altri analizzatori, vedere [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
 
 >[!MORELIKETHIS]
 >
