@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurare lo sfondo del messaggio in-app {#set-up-the-in-app-message-background}
+# Impostazione dello sfondo dei messaggi in-app {#set-up-the-in-app-message-background}
 
 La selezione dello sfondo di un messaggio è un passo importante per completare il messaggio in-app.
 
@@ -31,11 +31,11 @@ La selezione dello sfondo di un messaggio è un passo importante per completare 
    >
    >Bianco semplice, il valore predefinito, è in genere un vincitore.
 
-1. Se desiderate utilizzare uno sfondo, fate clic su **Immagine** e quindi sul collegamento **Seleziona immagine** .
+1. Se si desidera utilizzare uno sfondo, fare clic su **Immagine**, quindi sul collegamento **Seleziona immagine**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Scegliete tra i file caricati in Design Studio. Fate clic su **Seleziona**.
+1. Scegliete tra i file caricati in Design Studio. Fare clic su **Seleziona**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +47,7 @@ La selezione dello sfondo di un messaggio è un passo importante per completare 
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Consente di applicare un bordo immagine facoltativo. L&#39;impostazione predefinita è **Disattivato**. Innanzitutto, selezionate il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB nel selettore colore.
+1. Consente di applicare un bordo immagine facoltativo. L&#39;impostazione predefinita è **Off**. Innanzitutto, selezionate il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB nel selettore colore.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,7 +65,7 @@ La selezione dello sfondo di un messaggio è un passo importante per completare 
 
    >[!NOTE]
    >
-   >Per le azioni di tocco per gli sfondi, potete impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita oppure selezionare **Nessuna**.
+   >Per le azioni di tocco per gli sfondi, potete impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita oppure selezionare **None**.
 
    [impostare il pulsante Ignora](set-up-the-dismiss-button-and-approve-the-message.md)
 
