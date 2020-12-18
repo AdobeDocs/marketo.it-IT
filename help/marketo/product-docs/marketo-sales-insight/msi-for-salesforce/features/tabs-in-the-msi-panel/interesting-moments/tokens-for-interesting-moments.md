@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Scopri come utilizzare il passaggio [Momento](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)interessante.
+>* Scopri come utilizzare il passaggio [Interessante Flusso di Momenti](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 >* Ulteriori informazioni sui [token](http://docs.marketo.com/display/docs/tokens).
 
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## Token disponibili {#available-tokens}
 
-Consulta Panoramica [](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) suitoken per vedere tutti i token che puoi inserire in un momento interessante.
+Controlla [Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che puoi inserire in un momento interessante.
 
 ## Token trigger {#trigger-tokens}
 
@@ -236,9 +236,9 @@ In base all&#39;attivatore utilizzato in una campagna intelligente, sono disponi
 
 >[!NOTE]
 >
->Se non ha un check ![(tick)](assets/check.svg) , restituirebbe una stringa vuota (niente) nel momento interessante.
+>Se non ha un segno di spunta ![(tick)](assets/check.svg), nel momento interessante restituirà una stringa vuota (niente).
 
-*La pagina **Web** Visite trigger include alcuni token aggiuntivi:
+*L&#39;attivatore **Visita pagina Web** dispone di alcuni token aggiuntivi:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
