@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Aggiunta di istruzioni per la descrizione comandi a un campo modulo {#add-tooltip-instructions-to-a-form-field}
 
-[Suggerimenti](add-hint-text-to-a-form-field.md) e istruzioni per compilare i moduli. Come aggiungere le istruzioni per la descrizione comando.
+[Istruzioni e ](add-hint-text-to-a-form-field.md) suggerimenti per la compilazione dei moduli. Come aggiungere le istruzioni per la descrizione comando.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->Per **Suggerimenti** modulo si intende il testo all’interno del campo che scompare quando il visitatore inizia a digitare nel campo.
+>Modulo **Suggerimenti** è un testo all&#39;interno del campo che scompare quando il visitatore inizia a digitare nel campo.
 >
->Le **istruzioni** del modulo sono piccole descrizioni che vengono visualizzate quando il visitatore passa il mouse sul campo.
+>Le **Istruzioni** del modulo sono piccole descrizioni che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Selezionate il campo e immettete **le istruzioni**.
+1. Selezionare il campo e immettere **Istruzioni**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**Promemoria**
    >
    >
-   >Non dimenticare di [approvare la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) della pagina di destinazione creata dalle modifiche al modulo.
+   >Non dimenticare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
@@ -58,5 +58,5 @@ Impressionante lavoro! La descrizione comando viene visualizzata quando un visit
 >
 >**Tubo profondo**
 >
->C&#39;è così tanto che si può fare con [i moduli](http://docs.marketo.com/display/docs/forms).
+>C&#39;è così tanto da fare con [moduli](http://docs.marketo.com/display/docs/forms).
 
