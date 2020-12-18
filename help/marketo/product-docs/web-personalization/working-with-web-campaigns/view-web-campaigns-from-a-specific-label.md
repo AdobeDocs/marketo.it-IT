@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Visualizzazione di campagne Web da un&#39;etichetta specifica {#view-web-campaigns-from-a-specific-label}
+# Visualizzare le campagne Web da un&#39;etichetta specifica {#view-web-campaigns-from-a-specific-label}
 
 Stai cercando di visualizzare e filtrare le campagne in base a un&#39;etichetta specifica?
 
-## Filtra per etichette esistenti {#filter-by-existing-labels}
+## Filtrare per etichette esistenti {#filter-by-existing-labels}
 
-1. Vai a **Web** **Campaigns**.
+1. Andate a **Web** **Campaigns**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
