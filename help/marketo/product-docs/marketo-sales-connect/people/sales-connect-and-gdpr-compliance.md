@@ -43,7 +43,7 @@ Esistono due aspetti chiave del GDPR in cui gli esperti di marketing devono esam
 
 Forniamo informazioni approfondite sul consenso e sulla responsabilità all&#39;interno della piattaforma Marketo nel nostro e-book, [GDPR e The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In questo articolo, tuttavia, ci concentreremo specificatamente sulle nuove funzioni di Marketo Sales Connect che aiuteranno la vostra azienda a rispettare le regole GDPR.
 
-## Conformità ai requisiti GDPR in Marketing Connect {#gdpr-compliance-in-marketo-sales-connect}
+## Conformità al Regolamento GDPR in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
 Marketo Sales Connect è un&#39;applicazione potente, parte della Piattaforma di coinvolgimento di Marketo, che fornisce un unico flusso di lavoro e una vista che consentono a vendite e marketing di guidare collettivamente la pipeline più rapidamente attraverso il coinvolgimento collaborativo. Sono state create nuove funzionalità in Marketo Sales Connect, in particolare tenendo conto della conformità ai requisiti GDPR. Descriveremo tutte e tre le funzioni e illustreremo in che modo, se utilizzate correttamente, aiuteranno gli sforzi di conformità ai requisiti GDPR della vostra organizzazione.
 
@@ -118,7 +118,7 @@ Dopo aver selezionato il tipo di origine corretto per i contatti selezionati, ve
 
 ![](assets/12.png)
 
-## Esportazione Dei Dati Di Contatto Da Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Esportazione dei dati di contatto da Marketing a Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
 
 Potete esportare le informazioni di contatto dalla visualizzazione Dettagli persona. L’esportazione scaricherà un file .CSV con le seguenti colonne:
 
@@ -166,7 +166,7 @@ Potete esportare le informazioni di contatto dalla visualizzazione Dettagli pers
 >
 >Questo può essere fatto solo un contatto alla volta. Al momento non esiste alcuna funzionalità che consenta esportazioni in massa di contatti.
 
-Per esportare le informazioni di contatto, fate clic sui tre punti verticali nell’intestazione della visualizzazione Dettagli persona e selezionate **Esporta**. Il file .CSV viene scaricato automaticamente.   ![](assets/thirteen.png)
+Per esportare le informazioni di contatto, fate clic sui tre punti verticali nell&#39;intestazione della visualizzazione Dettagli persona e selezionate **Esporta**. Il file .CSV viene scaricato automaticamente.   ![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -176,13 +176,13 @@ Per esportare le informazioni di contatto, fate clic sui tre punti verticali nel
 
 Un’area del GDPR comunemente fraintesa include i contatti che cancellano l’iscrizione al database dell’organizzazione. Per rispettare le nuove regole sulla protezione dei dati di coloro che scelgono di annullare l’iscrizione, in Marketo Sales Connect è stata inclusa la seguente funzionalità:
 
-**Cancella collegamenti sottoscrizione:** I collegamenti di annullamento della sottoscrizione verranno aggiunti automaticamente a tutte le e-mail inviate dall’applicazione Web di Adobe Connect per garantire che ai contatti venga fornito un modo accessibile per rifiutare.\
-**Annulla sottoscrizione sincronizzazione:** Gli utenti possono sincronizzare gli abbonamenti a e da CRM (Salesforce) per assicurarsi che i rinuncia siano aggiornati.\
-**Cronologia annullamento sottoscrizione:** Gli utenti possono visualizzare le opzioni di rinuncia e di rinuncia cronologica nella visualizzazione Dettagli persona.\
-**Rimuovi sottoscrizione:** Per rifiutare un contatto non iscritto, è necessario che l&#39;utente disponga di privilegi di amministratore e dimostri che il contatto ha dato un nuovo consenso per contattarlo.
+**Cancella collegamenti sottoscrizione:** i collegamenti Annulla sottoscrizione verranno aggiunti automaticamente a tutte le e-mail inviate dall’applicazione Web di Adobe Connect per garantire che ai contatti sia consentito un accesso facilitato per l’opzione di rifiuto.\
+**Annulla sottoscrizione sincronizzazione:** gli utenti possono sincronizzare gli abbonamenti a e da CRM (Salesforce) per assicurare che le opzioni di rifiuto siano aggiornate.\
+**Cronologia di annullamento sottoscrizione:** gli utenti possono visualizzare le opzioni di rifiuto e di annullamento della sottoscrizione nella visualizzazione Dettagli persona.\
+**Annullamento sottoscrizione:** per rifiutare un contatto non iscritto è necessario che l&#39;utente disponga di privilegi di amministratore e dimostri che il contatto ha dato un nuovo consenso per contattarlo.
 
 ## Aggiornamenti futuri {#future-updates}
 
 Come entusiasta sostenitore del potere e della centralità del cliente dell&#39;economia di coinvolgimento, Marketo capisce l&#39;importanza di mettere la privacy e la protezione dei dati nelle mani dell&#39;interessato. Come per le altre leggi sulla protezione dei dati, la conformità al GDPR richiede l&#39;impegno sia di Marketo che dei nostri clienti. Questo articolo è inteso ad aiutarti a utilizzare Marketo in modo appropriato per supportare la conformità ai requisiti GDPR della tua organizzazione.
 
-Continueremo a seguire da vicino le linee guida del GDPR emanate dalle autorità di regolamentazione e dalla relativa legislazione. Gli aggiornamenti verranno inviati al nostro Centro protezione all&#39;indirizzo [trust.marketo.com](http://trust.marketo.com).
+Continueremo a seguire da vicino le linee guida del GDPR emanate dalle autorità di regolamentazione e dalla relativa legislazione. Gli aggiornamenti verranno inviati al Centro protezione all&#39;indirizzo [trust.marketo.com](http://trust.marketo.com).
