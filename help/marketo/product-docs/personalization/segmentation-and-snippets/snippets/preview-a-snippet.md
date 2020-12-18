@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Gli snippet sono blocchi di contenuto dinamico che si modificano in base alle regole di segmentazione.
 
-1. Andate a **Design Studio.**
+1. Vai a **Design Studio.**
 
    ![](assets/designstudio-3.png)
 
-1. Fate clic sullo snippet e quindi su **Anteprima snippet**.
+1. Fare clic sul frammento di codice e quindi **Anteprima snippet**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
