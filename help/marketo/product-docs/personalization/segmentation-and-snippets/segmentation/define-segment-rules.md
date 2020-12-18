@@ -27,13 +27,13 @@ La definizione delle regole di segmento consente di classificare le persone in d
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Fate clic su **Smart List** e aggiungete i filtri.
+1. Fare clic su **Smart List** e aggiungere i filtri.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
    >[!CAUTION]
    >
-   >I segmenti attualmente non supportano gli operatori *In passato* e *In Timeframe *sui filtri. Questo perché le segmentazioni controllano solo la disponibilità di aggiornamenti quando viene registrato un valore di dati di modifica. Questi valori *non* vengono registrati per elementi che si modificano automaticamente, come campi formula e date. Inoltre, gli operatori di date con intervalli di date relativi non sono supportati in quanto vengono calcolati al momento dell&#39;approvazione della segmentazione, non al momento di un&#39;attività Modifica valore dati.
+   >I segmenti attualmente non supportano gli operatori *In Past* e *In Timeframe *nei filtri. Questo perché le segmentazioni controllano solo la disponibilità di aggiornamenti quando viene registrato un valore di dati di modifica. Questi valori sono *not* registrati per elementi che si modificano automaticamente, come campi formula e date. Inoltre, gli operatori di date con intervalli di date relativi non sono supportati in quanto vengono calcolati al momento dell&#39;approvazione della segmentazione, non al momento di un&#39;attività Modifica valore dati.
 
    >[!NOTE]
    >
@@ -48,13 +48,13 @@ La definizione delle regole di segmento consente di classificare le persone in d
    >**Tubo profondo**
    >
    >
-   >Gli elenchi intelligenti sono straordinari. Scopri tutto ciò che puoi fare con [Smart List ed Elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)statici.
+   >Gli elenchi intelligenti sono straordinari. Scopri tutto quello che puoi fare con [Smart Lists and Static Lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
-1. Fare clic sulla scheda **Persone (Bozza)** per visualizzare le persone che possono essere membri di questo segmento.
+1. Fare clic sulla scheda **Persone (Bozza)** per visualizzare le persone che possono essere considerate membri di questo segmento.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Vai a Azioni **di** segmentazione. Fate clic su **Approva**.
+1. Vai a **Azioni segmentazione**. Fare clic su **Approva**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -63,7 +63,7 @@ La definizione delle regole di segmento consente di classificare le persone in d
    >Il numero totale di segmenti che è possibile creare in una segmentazione dipende dal numero e dal tipo di filtri utilizzati e anche dalla complessità della logica dei segmenti. Anche se è possibile creare fino a 100 segmenti utilizzando campi standard, l&#39;uso di altri tipi di filtri può aumentare la complessità e la segmentazione potrebbe non essere approvata. Alcuni esempi sono: campi personalizzati, membri dell’elenco, campi del proprietario del lead e fasi delle entrate.
    >
    >
-   >Se ricevi un messaggio di errore durante l&#39;approvazione e richiedi assistenza per ridurre la complessità della segmentazione, contatta il [supporto](http://nation.marketo.com/t5/Support/ct-p/Support)Marketo.
+   >Se durante l&#39;approvazione ricevete un messaggio di errore e richiedete assistenza per ridurre la complessità della segmentazione, contattate il supporto [Marketo](http://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Controlla il dashboard per una panoramica rapida dei segmenti in un grafico a torta, così come le regole applicate.
 
@@ -73,7 +73,7 @@ Ottimo lavoro! Questi segmenti saranno utili in molti punti di Marketo.
 
 >[!NOTE]
 >
->Una persona può essere qualificata per segmenti diversi, ma alla fine appartiene solo a uno che dipende dall&#39;ordine di [priorità dei segmenti](segmentation-order-priority.md).
+>Una persona può essere qualificata per segmenti diversi, ma alla fine appartiene solo a uno che dipende dall&#39;ordine di priorità [dei segmenti](segmentation-order-priority.md).
 
 >[!NOTE]
 >
