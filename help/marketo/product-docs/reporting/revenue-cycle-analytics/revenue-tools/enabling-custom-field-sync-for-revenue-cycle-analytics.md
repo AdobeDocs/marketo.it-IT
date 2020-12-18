@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Abilitazione della sincronizzazione dei campi personalizzata per l&#39;analisi del ciclo delle entrate {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Abilitazione della sincronizzazione dei campi personalizzata per l&#39;analisi del ciclo dei ricavi {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 La procedura seguente consente di utilizzare campi personalizzati nei rapporti RCA.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Revenue Cycle Analytics**, quindi su **Custom Field Sync**(Sincronizzazione campo personalizzato).
+1. Fare clic su **Analisi del ciclo di ricavi**, quindi su **Sincronizzazione campo personalizzata**.
 
    ![](assets/two.png)
 
-1. Selezionate il nome **del** campo, quindi fate clic su **Modifica opzione** di sincronizzazione.
+1. Selezionare il **Nome campo**, quindi fare clic su **Modifica opzione di sincronizzazione**.
 
    ![](assets/three.png)
 
-1. In Stato sincronizzazione, selezionate **Abilitato**, quindi fate clic su **Salva**.
+1. In Stato sincronizzazione, selezionare **Abilitato**, quindi fare clic su **Salva**.
 
    ![](assets/four.png)
 
