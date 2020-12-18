@@ -23,13 +23,13 @@ Potete pianificare la campagna Web in base all&#39;ora del visitatore Web o a un
 >
 >La pianificazione delle date di inizio e di fine è ottima per un evento programmato, ad esempio un webinar, che viene eseguito per un periodo specifico. Le ripetizioni sono perfette per un&#39;offerta speciale che si svolge ogni settimana solo in un giorno particolare.
 
-1. Vai a Campagne **Web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna desiderata, utilizzate la funzione [](filter-web-campaigns.md)filtro.
+   >Per trovare più facilmente la campagna desiderata, utilizzate la [funzione filtro](filter-web-campaigns.md).
 
 1. Aprite il menu Stato campagna e selezionate **Pianificazione**.
 
@@ -51,11 +51,11 @@ Potete pianificare la campagna Web in base all&#39;ora del visitatore Web o a un
    >
    >Puoi selezionare la data e l’ora dal menu a discesa e dal calendario oppure inserirli manualmente. I tempi sono di 12 ore AM/PM.
 
-1. Per impostazione predefinita, la campagna viene eseguita ogni giorno tra la data di inizio e la data di fine. Se desiderate eseguire la campagna solo in giorni specifici o in orari specifici, utilizzate le impostazioni **Ripeti** . Selezionate il giorno e l’ora di inizio e fine per visualizzare la campagna. Utilizzate il segno più + per aggiungere altri giorni.
+1. Per impostazione predefinita, la campagna viene eseguita ogni giorno tra la data di inizio e la data di fine. Se desiderate eseguire la campagna solo in giorni specifici o in orari specifici, utilizzate le impostazioni **Repeat**. Selezionate il giorno e l’ora di inizio e fine per visualizzare la campagna. Utilizzate il segno più + per aggiungere altri giorni.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Fate clic su **Pianificazione**.
+1. Fare clic su **Schedule**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
@@ -65,5 +65,5 @@ Potete pianificare la campagna Web in base all&#39;ora del visitatore Web o a un
 
    >[!NOTE]
    >
-   >Lo stato della campagna rimane **Pianificato** anche quando è in esecuzione durante gli orari pianificati selezionati. Una volta trascorsa la data di fine pianificata, lo stato della campagna diventa **Pausa**.
+   >Lo stato della campagna rimane **Pianificato** anche quando la campagna viene eseguita durante gli orari pianificati selezionati. Una volta trascorsa la data di fine pianificata, lo stato della campagna diventa **Paused**.
 
