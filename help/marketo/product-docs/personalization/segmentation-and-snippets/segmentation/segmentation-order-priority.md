@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Priorità ordine di segmentazione {#segmentation-order-priority}
 
-È importante comprendere in che modo l’ **ordine** imposta la priorità per la valutazione delle persone in una segmentazione.
+È importante comprendere in che modo **order** imposta la priorità per la valutazione delle persone in una segmentazione.
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 
 
-1. Vai al **database**.
+1. Accedere al **Database**.
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Seleziona la **segmentazione**. In Azioni **di** segmentazione, fai clic su **Modifica segmenti**.
+1. Selezionare la **segmentazione**. In **Azioni segmentazione**, fare clic su **Modifica segmenti**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-Fantastico, eh? Puoi utilizzare i segmenti per contenuti dinamici, [rapporti](http://docs.marketo.com/display/docs/basic+reporting) e persino in elenchi [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)avanzati.
+Fantastico, eh? Puoi utilizzare i segmenti per contenuti dinamici, [reporting](http://docs.marketo.com/display/docs/basic+reporting) e anche in [smart list](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
