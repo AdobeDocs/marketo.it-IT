@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Impostazione dell&#39;attribuzione delle entrate per le campagne pubblicitarie digitali {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Imposta attribuzione ricavi per campagne pubblicitarie digitali {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 Ecco come impostare l&#39;attribuzione dei ricavi per canali e campagne pubblicitarie digitali. Una volta configurato, puoi eseguire l&#39;attribuzione dei ricavi &quot;first-touch&quot; e &quot;multi-touch&quot; per gli annunci digitali come in altri programmi Marketo.
 
@@ -33,15 +33,15 @@ Con programmi separati, puoi quindi tenere traccia del numero di conversioni da 
 
 A differenza di alcuni programmi (come l&#39;e-mail) che possono essere eseguiti periodicamente per un periodo di tempo specifico, i programmi predefiniti sono sempre attivati.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Fate clic su **Nuovo** e selezionate **Nuovo programma**.
+1. Fare clic su **Nuovo** e selezionare **Nuovo programma**.
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Se avete già un programma in funzione, potete [clonarlo](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Se disponete già di un programma, potete [duplicarlo](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -65,7 +65,7 @@ A differenza di alcuni programmi (come l&#39;e-mail) che possono essere eseguiti
    >
    >In alternativa, impostatela come Channel_Adsource_AssetName_Region_UniqueIdNumber. Può essere simile a: Social-Paid_Facebook_NewGuide_NA_123.
 
-## Creare una campagna intelligente per i nuovi nomi {#create-a-smart-campaign-for-new-names}
+## Creazione di una campagna intelligente per i nuovi nomi {#create-a-smart-campaign-for-new-names}
 
 1. Nella campagna smart, create un elenco smart che contenga due attivatori e due filtri, come mostrato.
 
@@ -73,19 +73,19 @@ A differenza di alcuni programmi (come l&#39;e-mail) che possono essere eseguiti
 
    >[!NOTE]
    >
-   >La stringa di query utilizzata nelle due attivazioni e nel filtro Nome **** programma acquisito è univoca. Le stringhe di query visualizzate qui sono solo ad esempio. Se hai clonato il campo, sostituisci semplicemente questi campi.
+   >La stringa di query utilizzata nelle due attivazioni e nel filtro **Program That Capturing Name** è univoca per voi. Le stringhe di query visualizzate qui sono solo ad esempio. Se hai clonato il campo, sostituisci semplicemente questi campi.
 
-1. Crea un passaggio di flusso per modificare l&#39;attributo in **Acquisition Program** e impostare New Value (Nuovo valore) sul valore definito per le campagne social a pagamento.
+1. Create un passaggio di flusso per modificare l&#39;attributo in **Acquisition Program** e impostare New Value (Nuovo valore) sul valore definito per le campagne social a pagamento.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. Pianificare e attivare la campagna.
 
-## Creazione di una campagna intelligente per il successo dello stato/del programma {#create-a-smart-campaign-for-status-program-success}
+## Creazione di una campagna intelligente per il successo di stato/programma {#create-a-smart-campaign-for-status-program-success}
 
 È necessaria una seconda campagna intelligente per modificare lo stato delle persone, in modo che possano raggiungere il successo del programma e essere incluse nei calcoli di attribuzione delle entrate.
 
-1. Nell&#39;attivatore **Modulo** di compilazione, immettere il nome del programma nella stringa di query. Se state clonando il programma, sostituite il nome della vecchia stringa di query con il nuovo.
+1. Nell&#39;attivatore **Compilazione modulo**, immettere il nome del programma nella stringa di query. Se state clonando il programma, sostituite il nome della vecchia stringa di query con il nuovo.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -120,10 +120,10 @@ Dopo aver configurato il programma e le campagne, crea il nuovo annuncio.
    >
    >    
    >    
-   >    * **source** è l’Origine Persona utilizzata come identificatore del canale
-   >    * **comment** è l&#39;identificatore univoco creato per ciascun programma
-   >    * **camp** è la campagna su Facebook, LinkedIn o Google
-   >    * **kk** è la parola chiave o il nome della risorsa da acquisire
+   >    * **Origine** è l&#39;Origine Persona utilizzata come identificatore del canale
+   >    * **** commenti è l&#39;identificatore univoco creato per ogni programma
+   >    * **** campeggi è la campagna in Facebook, LinkedIn o Google
+   >    * **Nome della** parola chiave o risorsa da acquisire
 
    >    
    >    
