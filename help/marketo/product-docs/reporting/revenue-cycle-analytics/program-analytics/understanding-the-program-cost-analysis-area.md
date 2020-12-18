@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informazioni sull&#39;area Analisi costi del programma {#understanding-the-program-cost-analysis-area}
+# Informazioni sull&#39;area di analisi dei costi del programma {#understanding-the-program-cost-analysis-area}
 
 L&#39;area Analisi costi programma consente di analizzare l&#39;efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale per un determinato periodo di tempo.
 
@@ -49,7 +49,7 @@ Quanto ho speso per programma al mese?
 | Costo per successo (nuovi nomi) | Costo medio per lead acquisito dal programma E raggiunto il successo nella progressione del programma |
 | Costo del programma | Costo del periodo totale del programma |
 
-## iscrizione {#membership}
+## Appartenenza {#membership}
 
 <table> 
  <tbody> 
