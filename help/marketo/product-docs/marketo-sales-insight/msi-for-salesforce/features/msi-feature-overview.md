@@ -97,7 +97,7 @@ Campi:
 
 * Informazioni sulle vendite - Apre la pagina elenco completo dei contatti
 
-Le seguenti funzioni **non sono disponibili** nella pagina Layout account:
+Le seguenti funzionalità sono **non disponibili** nella pagina Layout account:
 
 * Azioni: Aggiungi a campagna Marketo, Invia e-mail Marketo, Aggiungi/Rimuovi da elenco di controllo
 * Stelle e fiamme
@@ -115,7 +115,7 @@ Campi:
 * Informazioni sulle vendite - Apre la pagina elenco completo dei contatti
 * Analisi opportunità Marketo - Apre l&#39;analisi dell&#39;influenza opportunità in Marketo
 
-Le seguenti funzioni **non sono disponibili** nella pagina Layout opportunità:
+Le seguenti funzionalità sono **non disponibili** nella pagina Layout opportunità:
 
 * Azioni: Aggiungi a campagna Marketo, Invia e-mail Marketo, Aggiungi/Rimuovi da elenco di controllo
 * Stelle e fiamme
@@ -162,7 +162,7 @@ Salesforce Classic: Aggiungi a elenco di controllo, Aggiungi a campagna Marketo 
    * Iscriviti per ricevere le notifiche e-mail per questo tipo di evento
    * Icona ad alta priorità per mostrare a questa persona una migliore scommessa
 
-## Scheda Configurazione analisi vendite Marketo {#marketo-sales-insight-configuration-tab}
+## Scheda Configurazione analisi vendite marketing {#marketo-sales-insight-configuration-tab}
 
 * Impostazioni operative: Include le credenziali API Soap &amp; Rest necessarie per configurare MSI in SFDC
 * Configurazione MSI: Include la configurazione della scheda Marketo e del pannello delle forze visive MSI
@@ -172,7 +172,7 @@ Salesforce Classic: Aggiungi a elenco di controllo, Aggiungi a campagna Marketo 
 >
 >[Scheda Configurazione analisi vendite Marketo in Salesforce](http://docs.marketo.com/x/UoCMAg)
 
-## Rapporti sulle prestazioni di Sales Insight {#sales-insight-performance-reports}
+## Report sulle prestazioni di Sales Insight {#sales-insight-performance-reports}
 
 Visualizzare le prestazioni dei messaggi e-mail inviati tramite Salesforce, Microsoft Dynamics o un plug-in Gmail o Outlook
 
@@ -180,6 +180,6 @@ Visualizzare le prestazioni dei messaggi e-mail inviati tramite Salesforce, Micr
 
 Le funzioni MSI sono supportate nell’applicazione mobile Salesforce
 
-## Language Support {#language-support}
+## Supporto lingua {#language-support}
 
 Marketing Sales Insight è memorizzato per lingua. Se desiderate che funzioni per più lingue, dovete immettere le credenziali separatamente per ciascuna lingua.
