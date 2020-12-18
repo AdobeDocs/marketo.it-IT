@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Definire i valori in una radio o in un campo selezionato in un modulo {#define-values-in-a-radio-or-selected-field-in-a-form}
+# Definire i valori in una casella di scelta o in un campo selezionato in un modulo {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Dopo aver [impostato un tipo](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) di campo come pulsante di scelta o aver selezionato il tipo, è necessario definire i valori da cui l&#39;utente può scegliere. Ecco come.
+Dopo aver [impostato un tipo di campo ](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o selezionato il tipo, è necessario definire i valori da cui l&#39;utente può scegliere. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/ma.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. Selezionate il campo e fate clic su **Modifica**.
+1. Selezionare il campo e fare clic su **Modifica**.
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
@@ -40,10 +40,10 @@ Dopo aver [impostato un tipo](../../../../product-docs/administration/field-mana
    >**Definizione**
    >
    >
-   >**Valore visualizzato:** Cosa viene mostrato al visitatore.
+   >**Valore visualizzato:** ciò che viene mostrato al visitatore.
    >
    >
-   >**Valore memorizzato:** Ciò che viene registrato in Marketo.
+   >**Valore memorizzato:** ciò che viene registrato in Marketo.
 
 1. Aggiungete tutti i valori necessari, quindi fate clic su **Salva**.
 
@@ -55,14 +55,14 @@ Dopo aver [impostato un tipo](../../../../product-docs/administration/field-mana
 
    >[!TIP]
    >
-   >Fate clic su Editor **** avanzato per copiare/incollare un elenco di valori, se lo desiderate. Può essere un risparmio in tempo reale.
+   >Fare clic su **Editor avanzato** per copiare/incollare un elenco di valori, se lo si desidera. Può essere un risparmio in tempo reale.
 
 1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Ottimo lavoro! State davvero bene. Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms).
+Ottimo lavoro! State davvero bene. Ulteriori informazioni su [forms](http://docs.marketo.com/display/docs/forms).
