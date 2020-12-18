@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Se l&#39;attività di tracciamento non viene visualizzata, accertatevi che i campi dell&#39;attività personalizzata forniti da Sales Connect siano visibili o modificabili in Salesforce. Se i campi sono installati ma non vengono compilati, è possibile che la funzione Sicurezza a livello di campo impedisca la compilazione delle informazioni. Controlla con il tuo amministratore Salesforce.
 
-Ulteriori informazioni sulla sicurezza [a livello di](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) campo in Salesforce.
+Ulteriori informazioni su [Sicurezza a livello di campo](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) in Salesforce.
