@@ -17,7 +17,7 @@ Potete utilizzare le attività di personalizzazione Web nei filtri e nelle attiv
 
 Utilizza un attivatore per inviare un messaggio e-mail o un avviso, oppure modifica un valore o una valutazione in base ai visitatori che hanno fatto clic su di essi e che hanno partecipato a una chiamata all&#39;azione di Web Personalization. Potete anche filtrare e visualizzare i lead che hanno fatto clic su una chiamata all&#39;azione di Personalizzazione Web.
 
-1. Nella campagna intelligente, fate clic sulla scheda Elenco **** avanzato.
+1. Nella campagna intelligente, fate clic sulla scheda **Smart List**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -26,7 +26,7 @@ Utilizza un attivatore per inviare un messaggio e-mail o un avviso, oppure modif
    >**Tubo profondo**
    >
    >
-   >Smart List può fare cose straordinarie. Scopri di più in [Smart List Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Smart List può fare cose straordinarie. Ulteriori informazioni sono disponibili nella sezione [Smart List Deep Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Cercare l&#39;attivatore, quindi trascinare e rilasciare l&#39;attivatore sul quadro.
 
@@ -54,7 +54,7 @@ Utilizza un attivatore per inviare un messaggio e-mail o un avviso, oppure modif
 
    >[!TIP]
    >
-   >In una campagna intelligente con attivatori e filtri, i trigger si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passeranno attraverso il flusso.
+   >In una campagna intelligente con attivatori e filtri, gli attivatori si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passeranno attraverso il flusso.
 
    >[!NOTE]
    >
