@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiunta di contenuto {#adding-content}
 
-Per aggiungere contenuti tracciabili ai messaggi e-mail, aprite una nuova finestra Componi. Fate clic su **Contenuto**.
+Per aggiungere contenuti tracciabili ai messaggi e-mail, aprite una nuova finestra Componi. Fare clic su **Content**.
 
 Se avete aggiunto precedentemente del contenuto, questi file vengono visualizzati. In caso contrario, fate clic su **Carica** per aggiungere contenuto dal computer.
 
