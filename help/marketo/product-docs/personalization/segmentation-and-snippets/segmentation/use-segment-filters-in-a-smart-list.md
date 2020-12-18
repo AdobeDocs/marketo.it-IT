@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo dei filtri dei segmenti in un elenco avanzato {#use-segment-filters-in-a-smart-list}
+# Utilizzare i filtri dei segmenti in un elenco avanzato {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Ottimizzate le prestazioni degli elenchi avanzati utilizzando i filtri Segmento.
 
-1. Nell’elenco avanzato creato, cercate la parola **Segmento**, trascinate e rilasciate il filtro.
+1. Nell&#39;elenco smart creato, cercare la parola **Segment**, trascinare e rilasciare il filtro.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
