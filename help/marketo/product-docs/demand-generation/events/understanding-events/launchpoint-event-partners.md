@@ -23,7 +23,7 @@ Connetti Marketo a un partner evento LaunchPoint per automatizzare gli eventi on
 Consulta le istruzioni sull’integrazione degli eventi Marketo online con il partner evento LaunchPoint:
 
 * [WebEx](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-* [Adobe Connect](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+* [ Adobe Connect](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](http://docs.marketo.com/pages/viewpage.action?pageid=2949868)
 * [ReadyTalk](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
 * [VaiAwebinar](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
