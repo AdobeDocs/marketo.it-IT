@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica delle dimensioni del font del modulo {#change-the-form-font-size}
+# Modificare le dimensioni del font del modulo {#change-the-form-font-size}
 
 Marketo semplifica la personalizzazione dell&#39;aspetto dei moduli. È possibile modificare la dimensione del font. Ecco come.
 
@@ -19,19 +19,19 @@ Marketo semplifica la personalizzazione dell&#39;aspetto dei moduli. È possibil
 >
 >Questa impostazione interessa l&#39;etichetta del modulo, il testo di input e il testo del pulsante di invio.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. In **Impostazioni** **Modulo**, Selezionare **Impostazioni**.
+1. In **Form** **Settings**, selezionare **Settings**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Selezionare la **dimensione** del **font** desiderata.
+1. Selezionare il **Font** **Size** desiderato.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -39,7 +39,7 @@ Marketo semplifica la personalizzazione dell&#39;aspetto dei moduli. È possibil
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    >[!NOTE]
    >
