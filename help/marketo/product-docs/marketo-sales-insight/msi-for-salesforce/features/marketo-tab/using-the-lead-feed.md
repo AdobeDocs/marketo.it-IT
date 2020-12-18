@@ -82,7 +82,7 @@ Potete anche ottenere gli aggiornamenti dei feed lead tramite feed RSS.  Un feed
 
 >[!NOTE]
 >
->L&#39;amministratore di Marketo della società deve [abilitare i feed](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) RSS per il corretto funzionamento.
+>Affinché questo funzioni, l&#39;amministratore di Marketing della società deve [abilitare i feed RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md).
 
 Per ottenere gli aggiornamenti RSS, avrete bisogno di due cose: il collegamento RSS e un lettore di feed RSS. Per ottenere il collegamento RSS, fai clic sull’icona RSS nel feed lead:   ![](assets/three.png)
 
