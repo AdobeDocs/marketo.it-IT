@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Se ricevi un &quot;Errore imprevisto&quot; in Gmail durante il tentativo di inviare un&#39;e-mail, probabilmente devi eseguire un ripristino sulla connessione Gmail.
 
-1. Vai a **Impostazioni** > Tracciamento **e-** mail > **Gestisci**.
-1. Fate clic su **Disconnetti da Gmail**.
-1. Dopo la disconnessione, fate clic su **Connetti a Google**.
+1. Andate a **Settings** > **Email Tracking** > **Manage**.
+1. Fare clic su **Disconnetti da Gmail**.
+1. Dopo la disconnessione, fare clic su **Connetti a Google**.
 
-   Una volta ricollegato, tornate a Gmail e aggiornate la pagina e provate a inviare di nuovo l&#39;e-mail. Se non funziona, [invia un biglietto](http://nation.marketo.com/community/support_solutions) al team di assistenza.
+   Una volta ricollegato, tornate a Gmail e aggiornate la pagina e provate a inviare di nuovo l&#39;e-mail. Se il problema persiste, [inviare un ticket](http://nation.marketo.com/community/support_solutions) al team di supporto.
 
