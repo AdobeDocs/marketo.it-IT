@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Pubblicare le pagine di destinazione su Facebook {#publish-landing-pages-to-facebook}
+# Pubblica pagine di destinazione su Facebook {#publish-landing-pages-to-facebook}
 
 Puoi pubblicare le pagine di destinazione su Facebook, incontrare il pubblico dove già si trovano e generare più traffico per i tuoi programmi.
 
@@ -31,7 +31,7 @@ Se stai lanciando un nuovo libro, potresti raggiungere alcuni dei tuoi destinata
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Selezionate **Pubblica su Facebook** dalle azioni della pagina di destinazione.
+1. Selezionare **Pubblica su Facebook** dalle azioni della pagina di destinazione.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -51,13 +51,13 @@ Se stai lanciando un nuovo libro, potresti raggiungere alcuni dei tuoi destinata
    >
    >Dovrete utilizzare un account che disponga delle autorizzazioni di amministratore per la pagina Facebook sulla quale desiderate pubblicare la pagina di destinazione Marketo.
 
-1. Selezionate la pagina **** Facebook in cui desiderate pubblicare la pagina di destinazione e immettete il nome in base al quale la pagina di destinazione Marketo deve essere visualizzata.
+1. Selezionate la **pagina di Facebook** in cui desiderate pubblicare la pagina di destinazione e immettete il nome in base al quale deve essere visualizzata la pagina di destinazione Marketo.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Per sostituire le pagine di destinazione Marketo pubblicate in precedenza su Facebook, selezionate **Sostituisci scheda** esistente e scegliete la scheda da sostituire dall’elenco a discesa. Si noti che questo non sostituirà le schede non Marketo.
+   >Per sostituire le pagine di destinazione Marketo pubblicate in precedenza su Facebook, selezionare **Sostituisci scheda esistente** e scegliere la scheda da sostituire dall&#39;elenco a discesa. Si noti che questo non sostituirà le schede non Marketo.
 
 1. I lead possono ora visitare la pagina di destinazione direttamente sulla pagina Facebook. Fai clic sul nome della scheda sotto l&#39;immagine Copertina.
 
