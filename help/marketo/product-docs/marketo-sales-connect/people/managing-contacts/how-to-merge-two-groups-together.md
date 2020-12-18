@@ -14,7 +14,7 @@ ht-degree: 0%
 # Come unire due gruppi {#how-to-merge-two-groups-together}
 
 1. Entra in uno dei gruppi da unire e seleziona tutti i contatti.
-1. Selezionate **Aggiungi persone al gruppo**.
+1. Selezionare **Aggiungi persone al gruppo**.
 1. Viene visualizzato un riquadro della finestra per verificare l&#39;unione. Selezionare il gruppo a cui si desidera spostare i contatti.
 
    >[!NOTE]
