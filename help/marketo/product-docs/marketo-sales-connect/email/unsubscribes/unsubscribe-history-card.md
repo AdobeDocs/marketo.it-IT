@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Scheda Cronologia annullamento sottoscrizione {#unsubscribe-history-card}
+# Annulla sottoscrizione scheda cronologia {#unsubscribe-history-card}
 
 La scheda Cronologia di annullamento sottoscrizione consente agli amministratori e agli utenti di ottenere informazioni contestuali sulla cronologia di annullamento della sottoscrizione dei loro contatti.
 
