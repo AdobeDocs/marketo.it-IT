@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creare un rapporto di analisi e-mail in cui siano elencati i lead {#build-an-email-analysis-report-that-lists-leads}
+# Creare un report di analisi e-mail in cui siano elencati i lead {#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
