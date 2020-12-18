@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Configurare l&#39;accesso push Android dell&#39;app mobile {#configure-mobile-app-android-push-access}
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selezionate App **mobili**.
+1. Selezionare **App mobili**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. In Tipo **di accesso** push, selezionate **Android** e fate clic su **Configura.**
+1. In **Tipo di accesso push**, selezionare **Android** e fare clic su **Configura.**
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Avrete bisogno di una chiave **API** Server e di un numero **di** progetto dallo sviluppatore di app mobili. Lo sviluppatore riceve questi dati effettuando l&#39;accesso a Google Play Developer Console per registrare l&#39;app e abilitare i messaggi cloud.
+   >Sarà necessario **Server API Key** e **Project Number** dallo sviluppatore delle app mobili. Lo sviluppatore riceve questi dati effettuando l&#39;accesso a Google Play Developer Console per registrare l&#39;app e abilitare i messaggi cloud.
 
    Immettete la chiave API del server e il numero di progetto. Fate clic su Salva.
 
