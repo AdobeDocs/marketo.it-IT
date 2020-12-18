@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sfruttare Dati persona per la personalizzazione Web selezionando i campi persona da utilizzare nella segmentazione.
 
-1. Vai a Impostazioni **** account.\
+1. Vai a **Impostazioni account**.\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
 1. Vai a **Database**.\
@@ -23,7 +23,7 @@ Sfruttare Dati persona per la personalizzazione Web selezionando i campi persona
 
 ## Aggiunta di un campo Nuova persona {#adding-a-new-person-field}
 
-1. Selezionare **Campo da aggiungere** dall&#39;elenco a discesa per aggiungere all&#39;elenco un campo di dati per la persona.
+1. Selezionare **Campo da aggiungere** dall&#39;elenco a discesa per aggiungere un campo dati persona all&#39;elenco.
 
    ![](assets/add-a-person-field-hand.jpg)
 
