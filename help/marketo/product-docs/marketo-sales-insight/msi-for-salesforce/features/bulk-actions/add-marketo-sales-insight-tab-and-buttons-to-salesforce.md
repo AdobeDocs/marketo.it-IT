@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Puoi aggiungere la scheda Marketing a Sales Insight personalizzata e pulsanti alla tua visualizzazione Salesforce per un accesso facilitato. Interessato? Ecco come.
 
-## Aggiunta della scheda Marketo  {#adding-the-marketo-tab}
+## Aggiunta della scheda Marketo {#adding-the-marketo-tab}
 
-1. Fate clic su** + **e fate clic su **Personalizza schede** personali.
+1. Fare clic su** + **e fare clic su **Personalizza schede**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. Selezionare Marketo nell&#39;elenco a sinistra. Fate clic su **Aggiungi** per aggiungerlo alle schede **** selezionate.
+1. Selezionare Marketo nell&#39;elenco a sinistra. Fare clic su **Aggiungi** per aggiungerlo alle **Schede selezionate**.
 
    >[!TIP]
    >
-   >Utilizzate la freccia **Su** e **Giù** per riordinare le schede.
+   >Utilizzare la freccia **Su** e **Giù** per riordinare le schede.
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
@@ -39,7 +39,7 @@ Puoi aggiungere pulsanti Marketo ai tuoi layout Salesforce. Esempio:
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. Fate clic su **Configurazione**. Cercate &quot;layout di ricerca&quot; e fate clic su **Cerca layout** in **Lead**.
+1. Fare clic su **Setup**. Cercare &quot;layout di ricerca&quot; e fare clic su **Cerca layout** in **Lead**.
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
@@ -47,7 +47,7 @@ Puoi aggiungere pulsanti Marketo ai tuoi layout Salesforce. Esempio:
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. Aggiungi **Aggiungi a campagna** marketing, **Invia e-mail** marketing e **Aggiungi a elenco** di controllo ai pulsanti **** selezionati e **Salva**.
+1. Aggiungete i pulsanti **Aggiungi a campagna marketing**, **Invia e-mail marketing** e **Aggiungi a elenco di controllo** ai pulsanti **Selezionati** e **Salva**.
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
