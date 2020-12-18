@@ -29,7 +29,7 @@ Per accedere a Performance Insights, fai clic sulla relativa icona nella scherma
 
 ## Contributo {#contribution}
 
-Valuta il [contributo di Marketing ai](http://docs.marketo.com/x/QAvG)ricavi in funzione dell&#39;acquisizione, dell&#39;influenza, della conversione e persino della crescita di base installata.
+Valuta il [contributo di Marketing alle entrate](http://docs.marketo.com/x/QAvG)in funzione dell&#39;acquisizione, dell&#39;influenza, della conversione, anche della crescita di base installata.
 
 ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Per impostazione predefinita, i dati visualizzati riflettono le prestazioni in b
 
 ## Tendenza {#trend}
 
-Scopri le tendenze [a](http://docs.marketo.com/x/QgvG) lungo termine per individuare strategie di vincita coerenti.
+Scopri le [tendenze a lungo termine](http://docs.marketo.com/x/QgvG) per individuare strategie di vincita coerenti.
 
 ![](assets/4.png)
 
@@ -51,7 +51,7 @@ Nelle dashboard Entrate e tubazione, fate clic sull&#39;icona [Impostazioni](htt
 
 ## Esporta dati {#export-data}
 
-È possibile esportare i dati e i grafici in PowerPoint o Excel. È inoltre possibile salvarli come grafico [](https://docs.marketo.com/x/iRLG)rapido.
+È possibile esportare i dati e i grafici in PowerPoint o Excel. È inoltre possibile salvarli come [Quick Chart](https://docs.marketo.com/x/iRLG).
 
 ![](assets/6.png)
 
