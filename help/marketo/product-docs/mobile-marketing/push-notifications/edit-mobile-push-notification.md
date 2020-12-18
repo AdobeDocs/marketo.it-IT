@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sulla [configurazione delle notifiche](configure-mobile-push-notification.md) push sono disponibili qui.
+>Ulteriori informazioni sulla [configurazione delle notifiche push](configure-mobile-push-notification.md) sono disponibili qui.
 
