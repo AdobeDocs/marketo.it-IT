@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Come tenere traccia degli allegati e-mail {#how-to-track-your-email-attachments}
 
-In Sales Connect è disponibile il tracciamento degli allegati (.doc, .ppt, .pdf) per vedere quando sono stati `opened/` e `downloaded`quando `see what pages your recipient is looking through`. Vi consentiremo di utilizzare la nostra funzione di allegati tracciabili sia dall&#39;applicazione [](http://toutapp.com/login) Web che da Gmail (o da Google Apps).
+Connect di vendita offre il tracciamento degli allegati (.doc, .ppt, .pdf) in modo da poter vedere quando sono stati `opened/` `downloaded` e `see what pages your recipient is looking through`. Vi consentiremo di utilizzare la nostra funzione di allegati tracciabili sia dall&#39; [applicazione Web](http://toutapp.com/login) che da Gmail (o da Google Apps).
 
 >[!NOTE]
 >
@@ -21,10 +21,10 @@ In Sales Connect è disponibile il tracciamento degli allegati (.doc, .ppt, .pdf
 
 ## Come inviare il primo allegato tracciabile {#how-to-send-your-first-trackable-attachment}
 
-1. Componete un’e-mail o modificate un modello, quindi fate clic sul pulsante **Contenuto** .
+1. Componi un&#39;e-mail o modifica un modello, quindi fai clic sul pulsante **Content**.
 1. Caricate l&#39;allegato e inviatelo. Supportiamo PDF, documenti Word e presentazioni PowerPoint.
-1. Selezionate **Aggiungi a e-mail**.
-1. Fai clic su **Invia** e attiva il feed dal vivo. I destinatari verranno visualizzati quando si aprono e scorrono gli allegati.* *
+1. Selezionare **Aggiungi a e-mail**.
+1. Fare clic su **Invia** e attivare il feed dal vivo. I destinatari verranno visualizzati quando si aprono e scorrono gli allegati.* *
 
    >[!TIP]
    >
