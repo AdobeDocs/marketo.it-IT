@@ -24,7 +24,7 @@ Inviate una notifica push alle persone che utilizzano la vostra app mobile.
 
 
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
@@ -32,11 +32,11 @@ Inviate una notifica push alle persone che utilizzano la vostra app mobile.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definite l’elenco avanzato e fate clic su **FLUSSO.**
+1. Definire l&#39;elenco smart, quindi fare clic su **FLUSSO.**
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Selezionate una notifica push. Fate clic su **Pianificazione**
+1. Selezionate una notifica push. Fare clic su **Schedule**
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,11 +44,11 @@ Inviate una notifica push alle persone che utilizzano la vostra app mobile.
    >
    >La notifica push deve essere approvata prima che venga visualizzata nell&#39;elenco a discesa.
 
-1. Fai clic su **Esegui una volta**
+1. Fare clic su **Esegui una volta**
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Scegliete una data e un’ora. Fate clic su **SALVA.**
+1. Scegliete una data e un’ora. Fare clic su **SALVA.**
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
