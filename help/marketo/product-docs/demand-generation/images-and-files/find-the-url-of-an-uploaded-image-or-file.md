@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Trovare l’URL di un’immagine o di un file caricato {#find-the-url-of-an-uploaded-image-or-file}
+# Trovare l&#39;URL di un&#39;immagine o di un file caricato {#find-the-url-of-an-uploaded-image-or-file}
 
 Cercare l’indirizzo Web (URL) di un’immagine o di un file caricato? Marketo ti ha coperto.
 
@@ -19,11 +19,11 @@ Cercare l’indirizzo Web (URL) di un’immagine o di un file caricato? Marketo 
 
    ![](assets/designstudio-4.png)
 
-1. Fate clic su **Immagini** **e** **file** nel menu a sinistra, quindi selezionate il file per il quale desiderate l’URL.
+1. Fare clic su **Images** **and** **Files** nel menu a sinistra, quindi selezionare il file per il quale si desidera inserire l&#39;URL.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. L’ **URL** viene visualizzato nella pagina dei dettagli. Fare clic con il pulsante destro del mouse sull&#39; **URL** e scegliere **Copia** dal menu visualizzato.
+1. L&#39; **URL** viene visualizzato nella pagina dei dettagli. Fare clic con il pulsante destro del mouse sull&#39; **URL** e scegliere **Copia** nel menu visualizzato.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
