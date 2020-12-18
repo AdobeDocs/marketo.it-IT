@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Esportazione di un rapporto di Esplora entrate {#exporting-a-revenue-explorer-report}
+# Esportazione di un report Esplora entrate {#exporting-a-revenue-explorer-report}
 
 Puoi esportare qualsiasi rapporto di elenco ricavi e condividerlo con altri utenti.
 
@@ -30,7 +30,7 @@ Puoi esportare qualsiasi rapporto di elenco ricavi e condividerlo con altri uten
    >    * CSV
 
 
-1. Selezionate il formato **e l’** orientamento **di** pagina desiderati e fate clic su **Esporta**.
+1. Selezionare il **Formato pagina** e **Orientamento** desiderati, quindi fare clic su **Esporta**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
