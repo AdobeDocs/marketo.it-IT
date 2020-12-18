@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Aggiungi firma e-mail {#add-your-email-signature}
+# Aggiungi firma elettronica {#add-your-email-signature}
 
 Desideriamo inviare e-mail da Sales Connect come un&#39;esperienza senza soluzione di continuità durante l&#39;invio dal client di posta elettronica. Un ottimo modo per farlo è aggiungere la tua firma e-mail.
 
-1. Fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. Fare clic sull&#39;icona dell&#39;ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/add-your-email-signature-1.png)
 
-1. In Account personale, selezionate Impostazioni **e-** mail.
+1. In Account personale, selezionare **Impostazioni e-mail**.
 
    ![](assets/add-your-email-signature-2.png)
 
@@ -27,7 +27,7 @@ Desideriamo inviare e-mail da Sales Connect come un&#39;esperienza senza soluzio
 
    ![](assets/add-your-email-signature-3.png)
 
-1. Nella scheda Firma fare clic su **Modifica**.
+1. Nella scheda Firma, fare clic su **Modifica**.
 
    ![](assets/add-your-email-signature-4.png)
 
