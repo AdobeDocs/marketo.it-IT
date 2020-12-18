@@ -17,15 +17,15 @@ Un URL di destinazione si trova nella pagina Imposta campagna e definisce l&#39;
 
 ## Aggiunta di un URL Target per la finestra di dialogo o per le campagne Web Widget {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Vai a Campagne **Web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selezionate **Crea nuova campagna** Web.
+1. Selezionare **Crea nuova campagna Web**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Aggiungi un nome **** campagna. Selezionate un segmento **** di destinazione. Aggiungi URL **** Target.
+1. Aggiungete un **nome campagna**. Selezionare un **segmento di destinazione**. Aggiungete **URL di destinazione**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -48,9 +48,9 @@ Un URL di destinazione si trova nella pagina Imposta campagna e definisce l&#39;
  </tbody> 
 </table>
 
-## Aggiunta di più URL all&#39;URL di Target {#adding-multiple-urls-to-target-url}
+## Aggiunta di più URL all&#39;URL di destinazione {#adding-multiple-urls-to-target-url}
 
-Facendo clic sull’icona più (![—](assets/image2015-2-18-8-3a40-3a59.png)) si aprirà la finestra di dialogo Immissione più valori per aggiungere più URL. Aggiungete un URL per riga.
+Facendo clic sull&#39;icona più (![—](assets/image2015-2-18-8-3a40-3a59.png)) si aprirà la finestra di dialogo Immissione più valori per aggiungere più URL. Aggiungete un URL per riga.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -62,17 +62,17 @@ Facendo clic sull’icona più (![—](assets/image2015-2-18-8-3a40-3a59.png)) s
 * L’URL fa distinzione tra maiuscole e minuscole
 
 
-## Aggiunta di un URL Target per campagne Web In Zone {#adding-a-target-url-for-in-zone-web-campaigns}
+## Aggiunta di un URL di destinazione per campagne Web in zona {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Vai a **Web** **Campaigns**.
+1. Andate a **Web** **Campaigns**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selezionate **Crea nuova campagna** Web.
+1. Selezionare **Crea nuova campagna Web**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Aggiungi un** Nome campagna**. Selezionate un segmento **** di destinazione. Aggiungi URL **** Target.
+1. Aggiungi un** Nome campagna**. Selezionare un **segmento di destinazione**. Aggiungete **URL di destinazione**.
 
    >[!NOTE]
    L’URL di destinazione con Nelle aree deve definire un URL o URL specifici. In casi di utilizzo avanzati, le campagne Web In Zone possono utilizzare caratteri jolly alla fine del percorso URL. Esempio: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
