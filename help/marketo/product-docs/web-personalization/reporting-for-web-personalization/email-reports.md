@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapporti e-mail {#email-reports}
 
-Per personalizzare il rapporto e-mail automatico ricevuto dall’utente, consultate la sezione [Impostazioni](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)utente.
+Per personalizzare il rapporto e-mail automatico ricevuto dall&#39;utente, consultate la sezione [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Report e-mail di personalizzazione Web {#web-personalization-email-reports}
 
@@ -45,13 +45,13 @@ Il report Campagne in tempo reale con le migliori prestazioni invia all&#39;uten
 
 Il report Risorse con prestazioni principali invia all&#39;utente un&#39;e-mail delle risorse di contenuto con prestazioni migliori, con il nome e la percentuale di corrispondenze rispetto ad altre risorse.
 
-## Report Risorse Consigliate {#recommended-assets-report}
+## Rapporto sulle risorse consigliate {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
 Il rapporto Risorse consigliate invia all&#39;utente un&#39;e-mail con tutti i contenuti e il numero di clic provenienti dal contenuto visualizzato nel modulo di gestione delle raccomandazioni di contenuto.
 
-## Report di riepilogo {#summary-report}
+## Rapporto di riepilogo {#summary-report}
 
 ![](assets/six.png)
 
@@ -69,4 +69,4 @@ Il rapporto Riepilogo invia all&#39;utente un&#39;e-mail (mensile o trimestrale)
 >
 >Marketing Web Personalization acquisisce l&#39;indirizzo e-mail del visitatore Web per qualsiasi modulo compilato sul sito Web. Viene visualizzato nella pagina Persone di Web Personalization (Personalizzazione Web) ed è la persona utilizzata nel rapporto Riepilogo.
 
-Per personalizzare il rapporto e-mail automatico ricevuto dall’utente, consultate la sezione [Impostazioni](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)utente.
+Per personalizzare il rapporto e-mail automatico ricevuto dall&#39;utente, consultate la sezione [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
