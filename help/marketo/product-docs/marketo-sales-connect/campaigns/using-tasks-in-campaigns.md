@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo delle attività nelle campagne {#using-tasks-in-campaigns}
+# Utilizzo delle attività in campagne {#using-tasks-in-campaigns}
 
 Le attività sono uno strumento efficace per inviare una campagna a un contatto, specialmente se il processo di vendita è multicanale/touch.
 
