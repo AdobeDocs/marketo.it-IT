@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Personalizza pulsante App Social {#customize-social-app-button}
+# Personalizza pulsante app social network {#customize-social-app-button}
 
-Quando create un pulsante [](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) social network o un&#39;offerta [di](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)riferimento, potete personalizzare l&#39;aspetto dei pulsanti.
+Quando create un [pulsante social](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o un&#39;offerta di riferimento [](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), potete personalizzare l&#39;aspetto dei pulsanti.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Quando create un pulsante [](../../../../product-docs/demand-generation/landing-
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Nell&#39;editor delle app per social network, andate a Impostazioni **** app > Stile **pulsante** (o Stile **registrazione,** per le offerte di riferimento).
+1. Nell&#39;editor delle app per social network, andate a **Impostazioni app** > **Stile pulsante** (oppure **Stile registrazione,** per le offerte di riferimento).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +37,7 @@ Quando create un pulsante [](../../../../product-docs/demand-generation/landing-
 
    >[!NOTE]
    >
-   >Per le offerte di riferimento, selezionate le reti in **2. Flusso Di Accesso > Social Network**.
+   >Per le offerte di riferimento, selezionate le reti in **2. Flusso di registrazione > Social Network**.
 
 1. Scegliete un tipo di pulsante.
 
@@ -45,21 +45,21 @@ Quando create un pulsante [](../../../../product-docs/demand-generation/landing-
 
    >[!TIP]
    >
-   >Se avete scelto **Carica immagini sotto Stile** pulsante sopra, le sezioni seguenti consentono di caricare le immagini dei pulsanti invece di modificare il testo.
+   >Se avete scelto **Carica immagini in Stile pulsante** sopra, le sezioni seguenti consentono di caricare le immagini dei pulsanti invece di modificare il testo.
 
 1. Modificare le etichette del pulsante prima e dopo aver fatto clic su di esso.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Per ogni scelta, controllate il risultato nella finestra **Visualizza e modifica** .
+1. Per ogni scelta, controllate il risultato nella finestra **Visualizza e modifica**.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In un&#39;offerta di riferimento, potete personalizzare anche il pulsante **Traccia avanzamento** . Vai a Impostazioni **** app > **Tieni traccia dello stile** di avanzamento e segui la stessa procedura descritta sopra.
+>In un&#39;offerta di riferimento, potete personalizzare anche il pulsante **Track Progress**. Vai a **Impostazioni app** > **Stile avanzamento traccia** e segui la stessa procedura descritta sopra.
 
 >[!MORELIKETHIS]
 >
->Per un pulsante di tipo social network, [configurate quando si apre](configure-when-social-button-opens.md). Per un&#39;offerta di riferimento, [specificate l&#39;obiettivo](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)dell&#39;offerta.
+>Per un pulsante social, [configurare quando apre](configure-when-social-button-opens.md). Per un&#39;offerta di riferimento, [specificate l&#39;obiettivo dell&#39;offerta](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
