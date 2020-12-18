@@ -31,4 +31,4 @@ Qui puoi selezionare il messaggio che hai creato per utilizzare nel programma.
    >
    >Per selezionare un altro messaggio, eliminatelo nel campo Messaggio in-app. Quindi, torna il collegamento Nuovo messaggio in-app. Fai clic su di esso e seleziona un altro messaggio.
 
-Siete sulla buona strada. Tempo per [pianificare l’invio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+Siete sulla buona strada. Tempo per [programmare l&#39;invio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
