@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La pagina Analisi dei contenuti mostra il contenuto esistente scoperto (studi di casi, post di blog, video, comunicati stampa e così via) dal sito Web. Vengono inoltre visualizzate le prestazioni dei contenuti e le persone generate quando i visitatori interagiscono con loro.
 
-## Visualizza analisi dei contenuti {#view-content-analytics}
+## Visualizza analisi contenuto {#view-content-analytics}
 
 Andate a **Content Analytics**.
 
@@ -45,10 +45,10 @@ La tabella Analisi fornisce i seguenti dettagli:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titolo</strong></td> 
-   <td colspan="1" rowspan="1">Nome della risorsa di contenuto digitale. Fate clic su <strong>Titolo</strong> per aprire l’URL contenuto in una nuova scheda.</td> 
+   <td colspan="1" rowspan="1">Nome della risorsa di contenuto digitale. Fate clic su <strong>Titolo</strong> per aprire l'URL contenuto in una nuova scheda.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icona </strong><strong>raccomandazione</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icona  </strong><strong>raccomandazione</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Indica se il contenuto è stato aggiunto per <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
@@ -60,17 +60,17 @@ La tabella Analisi fornisce i seguenti dettagli:
    <td colspan="1" rowspan="1">Visitatori Web che hanno visualizzato il contenuto e compilato un modulo nella stessa visita</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icona Analisi</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icona Analisi</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Ulteriori analisi sul contenuto</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icona Elimina</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Icona Elimina</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Elimina il contenuto da Content Analytics</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Visualizzazione di analisi aggiuntive dei contenuti {#view-additional-content-analytics}
+## Visualizza analisi contenuto aggiuntivo {#view-additional-content-analytics}
 
 Fate clic sull&#39;icona Analisi di un contenuto.
 
@@ -90,7 +90,7 @@ L&#39;analisi dei contenuti aggiuntiva include:
 
 **Tendenze**
 
-* Un grafico **Trends (Tendenze** ) che mostra gli ultimi 30 giorni di visualizzazioni della parte di contenuto specifica. Passate il puntatore del mouse sul grafico a linee per visualizzare il numero di visualizzazioni del contenuto di un giorno specifico
+* Un grafico **Tendenze** che mostra gli ultimi 30 giorni di visualizzazioni della parte di contenuto specifica. Passate il puntatore del mouse sul grafico a linee per visualizzare il numero di visualizzazioni del contenuto di un giorno specifico
 
 ## Elimina contenuto {#delete-content}
 
