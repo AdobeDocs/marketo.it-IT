@@ -17,7 +17,7 @@ Esistono due modi per ridimensionare sia la larghezza dell&#39;etichetta del cam
 
 ## Trascinare e rilasciare la larghezza {#drag-and-drop-the-width}
 
-1. Nell&#39;editor [](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)modulo selezionare il campo da ridimensionare.
+1. Nell&#39;editor [modulo](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), selezionare il campo da ridimensionare.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
