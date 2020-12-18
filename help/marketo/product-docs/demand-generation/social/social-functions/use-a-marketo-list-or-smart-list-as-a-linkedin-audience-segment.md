@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# Utilizzate un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
 
@@ -31,11 +31,11 @@ Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
 
    ![](assets/two.png)
 
-1. Fate clic sulla scheda **Persone** .
+1. Fare clic sulla scheda **Persone**.
 
    ![](assets/three-1.png)
 
-1. Fate clic sull&#39;icona** Invia tramite Ad Bridge ** ![—](assets/image2015-4-20-18-3a18-3a41.png) in fondo all&#39;elenco.
+1. Fare clic sull&#39;icona** Invia tramite Ad Bridge **a ![—](assets/image2015-4-20-18-3a18-3a41.png) in fondo all&#39;elenco.
 
    ![](assets/four-1.png)
 
@@ -43,15 +43,15 @@ Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
    >
    >Quando si utilizzano le integrazioni di rete di annunci per inviare un&#39;audience a LinkedIn, Marketo invia solo l&#39;indirizzo e-mail.
 
-1. Selezionare** LinkedIn** e fare clic su **Avanti**.
+1. Selezionare** LinkedIn** e fare clic su **Next**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Selezionate un pubblico **LinkedIn**.
+1. Selezionare un **LinkedIn Audience**.
 
    >[!NOTE]
    >
-   >Facendo clic su **+Nuova audience** , verrà creata un&#39;audience in LinkedIn Campaign Manager.
+   >Facendo clic su **+New Audience** verrà creato un pubblico in LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
@@ -59,7 +59,7 @@ Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
    >
    >LinkedIn ha dichiarato obsolete le API utilizzate per il tipo di push &quot;Cancella pubblico e aggiungi lead&quot; a marzo 2018. Questa opzione non è più disponibile a partire dal rilascio di Marketo del primo trimestre 2018.
 
-1. Selezionate un tipo **** push. Fate clic su **Aggiorna**.
+1. Selezionare un **Tipo push**. Fare clic su **Aggiorna**.
 
    ![](assets/7.png)
 
