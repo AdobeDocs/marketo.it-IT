@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Modifica titolo e metadati della pagina di destinazione {#edit-landing-page-title-and-metadata}
+# Modifica titolo pagina di destinazione e metadati {#edit-landing-page-title-and-metadata}
 
-Marketo consente di modificare i [meta tag della pagina di destinazione per scopi](http://www.w3schools.com/tags/tag_meta.asp) SEO e personalizzare la `<head>` parte del codice HTML.
+Marketo consente di modificare i tag meta della pagina di destinazione [a scopo di SEO](http://www.w3schools.com/tags/tag_meta.asp) e personalizzare la porzione `<head>` del codice HTML.
 
-1. Selezionate una pagina di destinazione e fate clic su **Modifica** **bozza**.
+1. Selezionare una pagina di destinazione e fare clic su **Modifica** **Bozza**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,20 +23,20 @@ Marketo consente di modificare i [meta tag della pagina di destinazione per scop
    >
    >La finestra di progettazione della pagina di destinazione si aprirà in una nuova finestra.
 
-1. In Azioni pagina di **destinazione,** fate clic su **Modifica metadati pagina**.
+1. In **Azioni pagina di destinazione,** fare clic su **Modifica tag metadati pagina**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Inserite **Titolo,** **Parole** chiave e **Descrizione** per la pagina. Selezionate l&#39;opzione **Robot** desiderata e immettete il contenuto personalizzato desiderato per la sezione HTML `<head>` . Fate clic su **Salva.**
+1. Immettere il **Titolo,** **Parole chiave** e **Descrizione** per la pagina. Selezionate l&#39;opzione **Robots** desiderata e immettete il contenuto personalizzato desiderato per la sezione HTML `<head>`. Fare clic su **Salva.**
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Cosa significa [robot](http://www.robotstxt.org/meta.html) ?**
+   >**Che cosa significa  [](http://www.robotstxt.org/meta.html) robotizzato?**
    >
    >
-   >**index:** è ricercabile sul Web. **seguire:** i motori di ricerca possono seguire i collegamenti su pagine indicizzate.
+   >**index:** page è ricercabile sul Web. **follow:I motori di** ricerca possono seguire i collegamenti su pagine indicizzate.
 
 1. Modificate i tag in qualsiasi momento e approvate la pagina di destinazione.
 
