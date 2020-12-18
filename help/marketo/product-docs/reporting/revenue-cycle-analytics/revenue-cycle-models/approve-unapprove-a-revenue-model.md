@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[È necessario approvare](approving-stages-and-assigning-leads-to-a-revenue-model.md) i singoli stadi e aggiungere altri utenti prima di approvare un intero modello.
+>[È necessario ](approving-stages-and-assigning-leads-to-a-revenue-model.md) approvare i singoli stadi e aggiungere altri utenti prima di approvare un intero modello.
 
 ## Approva {#approve}
 
-1. Andate all&#39;area **Analytics** .
+1. Andate all&#39;area **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Dal menu Azioni **** modello, scegliete **Approva modello**.
+1. Dal menu **Azioni modello**, scegliere **Approva modello**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Viene visualizzata una finestra di dialogo per confermare la scelta. Fate clic su **Approva**.
+1. Viene visualizzata una finestra di dialogo per confermare la scelta. Fare clic su **Approva**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Il tuo modello ora è live!
 >
 >Se non approvi il modello, tutti i tuoi dipendenti vengono rimossi dal modello e la loro cronologia nel modello viene eliminata!
 
-1. Andate all&#39;area **Analytics** .
+1. Andate all&#39;area **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,7 +53,7 @@ Il tuo modello ora è live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Fare clic sul menu Azioni **** modello e scegliere **Annulla approvazione modello**.
+1. Fare clic sul menu **Azioni modello** e scegliere **Disapprova modello**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
