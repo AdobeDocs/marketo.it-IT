@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Presenza locale telefono di vendita {#sales-phone-local-presence}
+# Presenza locale telefono vendita {#sales-phone-local-presence}
 
-Se vuoi dare l&#39;impressione che stai chiamando dallo stesso prefisso di un altro utente, seleziona semplicemente la casella Presenza **** locale prima di effettuare la chiamata.
+Se vuoi avere l&#39;aspetto che stai chiamando dallo stesso prefisso di un altro utente, seleziona semplicemente la casella **Presenza locale** prima di effettuare la chiamata.
 
 ## Domande frequenti sulla presenza locale {#local-presence-faq}
 
