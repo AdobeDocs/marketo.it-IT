@@ -19,23 +19,23 @@ Google Fonts è fantastico, e li abbiamo creati direttamente nell&#39;editor di 
 >
 >Questa impostazione interessa l’etichetta del modulo, il testo di input e qualsiasi testo RTF.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. In **Impostazioni** **modulo**, selezionare **Impostazioni**.
+1. In **Form** **Settings**, selezionare **Settings**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selezionate la famiglia **di** font desiderata.
+1. Selezionare la **Famiglia di font** desiderata.
 
    >[!TIP]
    >
-   >Sono disponibili per l&#39;uso molti [Google Fonts](http://www.google.com/fonts) .
+   >Per l&#39;uso sono disponibili numerosi [Google Fonts](http://www.google.com/fonts).
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -43,7 +43,7 @@ Google Fonts è fantastico, e li abbiamo creati direttamente nell&#39;editor di 
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    >[!NOTE]
    >
