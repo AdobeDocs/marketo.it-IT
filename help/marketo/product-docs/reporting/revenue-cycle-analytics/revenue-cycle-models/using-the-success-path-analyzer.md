@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo di Success Path Analyzer {#using-the-success-path-analyzer}
+# Utilizzo dell&#39;analizzatore percorso di successo {#using-the-success-path-analyzer}
 
-Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifici che riflettono sia il flusso (quantità) che la velocità (in termini di giorni) delle persone attraverso le fasi del modello [di ciclo di](understanding-revenue-models.md)ricavi.
+Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifici che riflettono sia il flusso (quantità) che la velocità (in termini di giorni) delle persone attraverso le fasi del [Modello ciclo di ricavi](understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
 >[Creare un analizzatore percorso di successo](create-a-success-path-analyzer.md)
 
-1. Vai ad **Analytics** e seleziona il tuo **Success Path Analyzer**.
+1. Vai a **Analytics** e seleziona il **Success Path Analyzer**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    Il grafico a destra riflette i dati contenuti nel pulsante selezionato a sinistra. Per impostazione predefinita, è Bilanciamento.
 
-1. Fate clic su **In flusso** per rappresentare il numero di persone entrate nell’area di visualizzazione durante l’intervallo di tempo selezionato.
+1. Fare clic su **In Flusso** per rappresentare il numero di persone entrate nell&#39;area di visualizzazione durante l&#39;intervallo di tempo selezionato.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,15 +33,15 @@ Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifi
    * Fate clic su Conv % (Conv %) per visualizzare il grafico del tasso di conversione da questo a quello successivo.
    * Fate clic su Tempo medio per vedere quanto tempo le persone hanno trascorso in questa fase prima di passare alla fase successiva.
 
-1. Fai clic su Azioni **** grafico > Confronta periodo per confrontare i dati con un diverso intervallo di tempo di uguale lunghezza.
+1. Fare clic su **Azioni grafico** > Confronta periodo per confrontare i dati con un diverso intervallo di tempo di uguale lunghezza.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Selezionare la data **Da** per il periodo di confronto.
+1. Selezionare la data **From** per il periodo di confronto.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   La data **A** viene impostata automaticamente in modo che corrisponda alla lunghezza del periodo di tempo originale.
+   La data **To** viene impostata automaticamente in modo che corrisponda alla lunghezza del periodo di tempo originale.
 
 1. Fare clic su **Confronta**.
 
@@ -51,11 +51,11 @@ Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifi
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Per modificare la scala temporale del grafico, fate clic su uno dei pulsanti **Grafico per** : giornaliero (predefinito), settimanale e mensile
+1. Per modificare la scala temporale del grafico, fare clic su uno dei pulsanti **Grafico di**: giornaliero (predefinito), settimanale e mensile
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Per le fasi con SLA (Service-Level Agreement), fai clic su Azioni **** grafico >** Mostra SLA con scadenza** per mostrare a tutti gli utenti che non hanno raggiunto un target SLA entro il periodo di tempo specificato.
+1. Per le fasi con SLA (Service-Level Agreement), fare clic su **Chart Actions** >*** Mostra SLA Due** per mostrare a ogni persona che ha mai mancato un target SLA entro il periodo di tempo specificato.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifi
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   Le persone visualizzate in arancione potrebbero *o meno* trovarsi ancora nello stadio SLA.
+   Le persone visualizzate in arancione potrebbero essere *o non* ancora nel passaggio SLA.
 
-1. Fate clic su Azioni **** grafico >** Mostra SLA scaduto** per mostrare a tutte le persone con target SLA scaduti che si trovano ancora nella fase SLA alla fine del periodo di tempo specificato.
+1. Fare clic su **Azioni grafico** >** Mostra SLA scaduto** per mostrare a tutti gli utenti con target SLA scaduti che si trovano ancora nella fase SLA alla fine del periodo di tempo specificato.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifi
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Per stampare il grafico, fare clic su** **Azioni **grafico >** Stampa grafico ****.
+1. Per stampare il grafico, fare clic su** ****Azioni grafico** > **Stampa grafico**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
