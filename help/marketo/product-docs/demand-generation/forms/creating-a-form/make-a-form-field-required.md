@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Impostazione di un campo modulo {#make-a-form-field-required}
+# Imposta campo modulo obbligatorio {#make-a-form-field-required}
 
-Quando si [aggiungono campi a un modulo](add-a-field-to-a-form.md) , potrebbe essere necessario specificarne alcuni alla persona che li compila. Ecco come.
+Quando si aggiungono campi a un modulo [è possibile che sia necessario specificarne alcuni per la persona che li compila. ](add-a-field-to-a-form.md) Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/editform-2.png)
 
@@ -31,7 +31,7 @@ Quando si [aggiungono campi a un modulo](add-a-field-to-a-form.md) , potrebbe es
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
@@ -39,6 +39,6 @@ Quando si [aggiungono campi a un modulo](add-a-field-to-a-form.md) , potrebbe es
 >
 >**Promemoria**
 >
->Non dimenticare di [approvare le pagine](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) di destinazione su cui si trova il modulo per rendere attive le modifiche.
+>Non dimenticare di [approvare le pagine di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) in cui il modulo continua a pubblicare le modifiche.
 
 È necessario [riordinare i campi aggiunti al modulo](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
