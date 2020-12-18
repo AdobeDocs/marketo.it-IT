@@ -19,11 +19,11 @@ Utilizzando elenchi intelligenti, è possibile trovare facilmente tutti i membri
 >
 >[Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con lo smart list selezionato, fare clic sulla scheda **Smart List** .
+1. Con lo smart list selezionato, fare clic sulla scheda **Smart List**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Individuare il filtro **Membro del modello** di ricavi e trascinarlo nell&#39;area di lavoro.
+1. Individuare il filtro **Membro del modello di ricavi** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -37,7 +37,7 @@ Utilizzando elenchi intelligenti, è possibile trovare facilmente tutti i membri
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selezionare uno **stage.**
+1. Selezionare un **stage.**
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,7 +47,7 @@ Utilizzando elenchi intelligenti, è possibile trovare facilmente tutti i membri
 
    >[!TIP]
    >
-   >Non hai bisogno di entrambi i filtri, scegli quello che ti serve. Stiamo solo mostrando a entrambi di essere meticolosi. ![(sorridi)](assets/smile.svg) >
+   >Non hai bisogno di entrambi i filtri, scegli quello che ti serve. Stiamo solo mostrando a entrambi di essere meticolosi. ![(sorridi)](assets/smile.svg)   >
 
    >[!CAUTION]
    >
