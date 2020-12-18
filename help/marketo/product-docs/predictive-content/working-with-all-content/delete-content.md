@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l’iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano contenuti predittivi, Marketo attiva le funzioni di analisi dei contenuti`<sup>AI</sup>` fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento al contenuto`<sup>AI</sup>`di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Quando non hai più bisogno di un contenuto, è facile eliminarlo.
 
@@ -23,7 +23,7 @@ Quando non hai più bisogno di un contenuto, è facile eliminarlo.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Fate clic sul menu a discesa Azioni **** contenuto e selezionate **Elimina contenuto**.
+1. Fare clic sul menu a discesa **Azioni contenuto** e selezionare **Elimina contenuto**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
