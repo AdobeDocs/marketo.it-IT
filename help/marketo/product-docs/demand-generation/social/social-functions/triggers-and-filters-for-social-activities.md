@@ -21,11 +21,11 @@ Le app per social network di Marketo dispongono di attivatori e filtri specifici
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Per utilizzare *gli attivatori* per social network, selezionate la campagna smart e fate clic sulla scheda **Elenco** avanzato. A destra, fai clic su + per espandere **Triggers**, quindi su **Social**.
+1. Per utilizzare i trigger *social*, selezionate la campagna smart e fate clic sulla scheda **Smart List**. A destra, fare clic su + per espandere **Triggers**, quindi **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Per utilizzare *i filtri* per social network, fate clic su **+** per espandere i **filtri**.
+1. Per utilizzare i *filtri* social network, fare clic su **+** per espandere i **filtri**.
 
    ![](assets/two-282-29.png)
 
