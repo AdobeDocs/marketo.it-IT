@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l’iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano contenuti predittivi, Marketo attiva le funzioni di analisi dei contenuti`<sup>AI</sup>` fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento al contenuto`<sup>AI</sup>`di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
-Potete utilizzare le attività di contenuto predittivo in attivatori e filtri quando definite un elenco smart in una campagna intelligente. Potete attivare un’azione per chiunque faccia clic sul contenuto predittivo tramite il modello [](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)Contenuti multimediali avanzati, la barra [delle raccomandazioni sul](enabling-predictive-content/enable-the-content-recommendation-bar.md)contenuto o un messaggio e-mail.
+Potete utilizzare le attività di contenuto predittivo in attivatori e filtri quando definite un elenco smart in una campagna intelligente. È possibile attivare un&#39;azione per chiunque faccia clic sul contenuto predittivo tramite il [modello di contenuti multimediali avanzati](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barra delle raccomandazioni sui contenuti](enabling-predictive-content/enable-the-content-recommendation-bar.md) o un&#39;e-mail.
 
-1. Nella campagna intelligente, andate alla scheda Elenco **** avanzato.
+1. Nella campagna intelligente, andate alla scheda **Smart List**.
 
    ![](assets/smart-list-1.png)
 
@@ -28,7 +28,7 @@ Potete utilizzare le attività di contenuto predittivo in attivatori e filtri qu
    >**Tubo profondo**
    >
    >
-   >Gli elenchi intelligenti possono fare cose straordinarie. Ulteriori informazioni sono disponibili nella sezione approfondita dell&#39;elenco [avanzato](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Gli elenchi intelligenti possono fare cose straordinarie. Per saperne di più, consulta la sezione [smart list deep dive](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Cercare l&#39;attivatore, quindi trascinarlo e rilasciarlo sul quadro.
 
@@ -46,7 +46,7 @@ Potete utilizzare le attività di contenuto predittivo in attivatori e filtri qu
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Aggiungete il vincolo **Tipo** .
+1. Aggiungete il vincolo **Type**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -54,7 +54,7 @@ Potete utilizzare le attività di contenuto predittivo in attivatori e filtri qu
 
    ![](assets/pc-add-constraint.png)
 
-1. Se utilizzate l&#39;origine e-mail per il contenuto predittivo, aggiungete l&#39;attivatore **Click Link in Email*. Selezionate il messaggio e-mail e aggiungete il vincolo **Predictive** , definito come **true**.
+1. Se utilizzate l&#39;origine e-mail per il contenuto predittivo, aggiungete l&#39;attivatore **Click Link in Email*. Selezionate l&#39;e-mail e aggiungete il vincolo **Predictive**, definito come **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -64,7 +64,7 @@ Potete utilizzare le attività di contenuto predittivo in attivatori e filtri qu
 
    >[!TIP]
    >
-   >In una campagna intelligente con attivatori e filtri, gli attivatori si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passano attraverso il flusso.
+   >In una campagna intelligente con attivatori e filtri, i trigger si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passano attraverso il flusso.
 
    >[!NOTE]
    >
