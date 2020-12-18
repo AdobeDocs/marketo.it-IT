@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Imposta Come Viene Visualizzata La Campagna Web {#set-how-your-web-campaign-displays}
+# Imposta la modalità di visualizzazione della campagna Web {#set-how-your-web-campaign-displays}
 
 Esistono diversi metodi da utilizzare quando si tratta di quando/come viene visualizzata la campagna Web.
 
@@ -25,17 +25,17 @@ Selezionata per impostazione predefinita, questa opzione mostra semplicemente la
 
 Specificate un ritardo (in secondi totali) per consentire alle campagne Web di reagire sul sito Web.
 
-1. Fate clic sul menu a **discesa Visualizza su** e selezionate **Ritardo**.
+1. Fare clic sul menu a discesa **Visualizza su** e selezionare **Ritardo**.
 
    ![](assets/d1.png)
 
-1. Fate clic sul menu a discesa **Attendi** e selezionate il tempo desiderato.
+1. Fare clic sul menu a discesa **Aspetta** e selezionare il tempo desiderato.
 
    ![](assets/d2.png)
 
-## Scorri {#scroll}
+## Scorrimento {#scroll}
 
-1. Fate clic sul menu a **discesa Visualizza su** e selezionate **Scorrimento**.
+1. Fare clic sul menu a discesa **Visualizza su** e selezionare **Scorri**.
 
    ![](assets/s1.png)
 
@@ -64,7 +64,7 @@ Specificate un ritardo (in secondi totali) per consentire alle campagne Web di r
 
 L&#39;intento di uscita visualizzerà la campagna Web all&#39;uscita del mouse dal browser.
 
-1. Fate clic sul menu a **discesa Visualizza su** e selezionate **Chiudi intento**.
+1. Fare clic sul menu a discesa **Visualizza su** e selezionare **Intento di uscita**.
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ L&#39;intento di uscita visualizzerà la campagna Web all&#39;uscita del mouse d
 
 >[!TIP]
 >
->Vuoi vedere come saranno anticipati i tuoi effetti? Controllali tramite un&#39;anteprima [](preview-and-test-a-web-campaign.md)Web Campaign.
+>Vuoi vedere come saranno anticipati i tuoi effetti? Controllali tramite un [Anteprima campagna Web](preview-and-test-a-web-campaign.md).
 
