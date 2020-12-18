@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Utilizzare i messaggi SMS Vibs in attivatori e filtri di elenchi avanzati {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
+# Utilizzare i messaggi SMS Vibb in attivatori e filtri di elenchi avanzati {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Dopo aver [creato un messaggio](create-a-vibes-sms-message.md)Vibes SMS, è possibile utilizzare attivatori e filtri per elenchi smart all&#39;interno di una campagna intelligente per ottenere i vantaggi. Ecco come.
+Dopo aver [creato un messaggio Vibes SMS](create-a-vibes-sms-message.md), sarà necessario utilizzare attivatori e filtri per elenchi intelligenti all&#39;interno di una campagna intelligente per ottenere i vantaggi. Ecco come.
 
-1. In My Marketo fate clic su **Marketing Activities (Attività** marketing).
+1. In My Marketo, fate clic su **Marketing Activities**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Scegliete una campagna intelligente in cui desiderate utilizzare la risorsa SMS. Trascinare su un trigger, ad esempio il popolare **Modulo** di compilazione.
+1. Scegliete una campagna intelligente in cui desiderate utilizzare la risorsa SMS. Trascinare su un trigger, ad esempio il popolare **Riempie il modulo**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
-## Attivatori SMS {#sms-triggers}
+## Triggers SMS {#sms-triggers}
 
 Sono disponibili altri attivatori SMS. Gli attivatori SMS vengono visualizzati solo se il servizio Vibes è abilitato.
 
@@ -35,7 +35,7 @@ L&#39;attivatore Bounces messaggio SMS avvia un flusso, ad esempio l&#39;invio d
 
 ![](assets/sms-message-bounces-real.jpg)
 
-L’attivazione **Iscrizione a elenco** vibrazioni avvia un flusso quando una persona si iscrive.
+Il trigger **Iscrizioni a elenco vibrazioni** avvia un flusso quando una persona si iscrive.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
@@ -45,11 +45,11 @@ L&#39;attivatore** Click Link in SMS Message** avvia un flusso quando una person
 
 ## Filtri SMS {#sms-filters}
 
-Potete anche utilizzare i filtri Vibes negli elenchi smart. Il filtro **Iscrizione a elenco** vibrazioni individua chiunque abbia *mai* effettuato l’iscrizione a Vibes. Questo include sia persone non sottoscritte che eliminate, anche se le persone eliminate vengono omesse dal flusso. Questo filtro è ideale per i report.
+Potete anche utilizzare i filtri Vibes negli elenchi smart. Il filtro **Iscrizione a Vibes List** individua chiunque abbia *mai* sottoscritto a Vibes. Questo include sia persone non sottoscritte che eliminate, anche se le persone eliminate vengono omesse dal flusso. Questo filtro è ideale per i report.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Per contro, il **filtro** **Member of Vibes List **trova** **chiunque** ***attualmente* iscritto a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi intelligenti.
+Per contro, il **Member of Vibes List **filter** **trova** **chiunque** ***attualmente* ha effettuato l&#39;iscrizione a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi smart.
 
 ![](assets/image001.png)
 
@@ -57,7 +57,7 @@ Per contro, il **filtro** **Member of Vibes List **trova** **chiunque** ***attua
 >
 >Tutti i filtri SMS includono il vincolo **Data dell&#39;attività** per impostazione predefinita.
 
-Dopo aver impostato attivatori e filtri Vibes nell&#39;elenco avanzato, potete [definire il flusso](add-a-flow-step-for-sms.md).
+Dopo aver impostato attivatori e filtri Vibes nell&#39;elenco smart, è possibile definire il flusso[.](add-a-flow-step-for-sms.md)
 
 >[!MORELIKETHIS]
 >
