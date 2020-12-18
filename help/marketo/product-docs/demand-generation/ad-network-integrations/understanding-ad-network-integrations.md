@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
-## Come funzionano le integrazioni di rete pubblicitarie {#how-ad-network-integrations-work}
+## Funzionamento delle integrazioni di rete annunci {#how-ad-network-integrations-work}
 
 Le integrazioni di rete pubblicitaria collegano i dati di audience unici di Marketo ai sistemi multimediali a pagamento, in modo da poter eseguire campagne pubblicitarie digitali mirate e personalizzate. Queste integrazioni funzionano attualmente con Facebook, LinkedIn e Google.
 
@@ -36,7 +36,7 @@ Le funzionalità includono:
 
    * Ad esempio, una persona cerca, vede e fa clic su un annuncio, quindi compila un modulo online. Dopo questo, riceve una demo offline e diventa un&#39;opportunità CRM. Ecco dove l&#39;inserzionista lo colpisce
 
-* Ritargeting dei visitatori di siti Web, tramite [Web Personalization (Personalizzazione](http://docs.marketo.com/display/docs/web+personalization)Web) per riportarli al sito Web
+* Ritargeting dei visitatori di siti Web, utilizzando [Web Personalization](http://docs.marketo.com/display/docs/web+personalization) per riportarli al sito Web
 
    * Personalizza per segmento o verticale
 
@@ -52,11 +52,11 @@ Puoi utilizzare le integrazioni per:
 
 |  | Dati audience | Ingestione lead | Conversione offline |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
-## Video {#watch-a-video}
+## Guarda il video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
