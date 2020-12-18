@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Marketing Web basato su account con ABM {#account-based-web-marketing-with-abm}
 
-Marketo ha introdotto una nuova applicazione ABM ( [Account Based Marketing](http://docs.marketo.com/display/docs/account+based+marketing) ).
+Marketo ha introdotto una nuova applicazione [Account Based Marketing](http://docs.marketo.com/display/docs/account+based+marketing) (ABM).
 
 Quando si utilizza la personalizzazione Web di Marketo e il nuovo marketing basato su account (ABM):
 
@@ -23,18 +23,18 @@ Quando si utilizza la personalizzazione Web di Marketo e il nuovo marketing basa
 
    * **Nota**: La sincronizzazione può richiedere fino a 5 minuti
 
-* In Web Personalization (Personalizzazione Web), puoi creare [segmenti di targeting degli account dall&#39;elenco](create-a-segment-using-an-account-list.md) account creato in ABM e personalizzare il contenuto per questi account
+* In Web Personalization (Personalizzazione Web), puoi creare [segmenti di targeting account dall&#39;elenco account](create-a-segment-using-an-account-list.md) creato in ABM e personalizzare il contenuto per questi account
 
-## Per clienti Web ABM esistenti {#for-existing-web-abm-customers}
+## Per i clienti Web ABM esistenti {#for-existing-web-abm-customers}
 
 Se state già utilizzando Web ABM:
 
-* È possibile creare elenchi di account in Web ABM *e in ABM*
+* È possibile creare elenchi di account in ABM Web *e* in ABM
 * È possibile creare, modificare ed eliminare gli elenchi di account in ABM *e *in Web ABM
 * Gli elenchi degli account (da Web ABM e ABM) vengono sincronizzati in Web Personalization (Personalizzazione Web) per l&#39;utilizzo in Segmentazione
 
    * **Nota**: La sincronizzazione può richiedere fino a 5 minuti
 
-* In Web Personalization (Personalizzazione Web), puoi creare segmenti di targeting degli account da Account List creati in *sia* Web ABM che ABM e personalizzare il contenuto di questi account
+* In Web Personalization (Personalizzazione Web) potete creare segmenti per gli account da elenchi di account creati in *sia* Web ABM che ABM e personalizzare il contenuto per questi account
 * Potete caricare i file CSV nella pagina Elenco account personalizzazione Web
 
