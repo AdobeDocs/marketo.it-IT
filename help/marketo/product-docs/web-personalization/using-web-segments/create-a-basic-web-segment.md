@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Creiamo un segmento di base per tutti i visitatori Web provenienti dagli Stati Uniti e dall&#39;industria dei servizi finanziari.
 
-1. Vai a **Segmenti**.
+1. Vai a **Segments**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Fate clic su **Crea nuovo**.
+1. Fare clic su **Crea nuovo**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -31,7 +31,7 @@ Creiamo un segmento di base per tutti i visitatori Web provenienti dagli Stati U
 
    ![](assets/location-drag-hand.jpg)
 
-1. Selezionate un paese da aggiungere dall’elenco a discesa. Selezionate gli Stati **Uniti**.
+1. Selezionate un paese da aggiungere dall’elenco a discesa. Selezionare **Stati Uniti**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -49,7 +49,7 @@ Creiamo un segmento di base per tutti i visitatori Web provenienti dagli Stati U
 
    Ora hai impostato un segmento di base per tutti i potenziali clienti che visitano il tuo sito web dagli Stati Uniti e l&#39;industria finanziaria.
 
-1. Fai clic su** Salva **per salvare il segmento o su **Salva e definisci campagna** per passare alla pagina Campagne.
+1. Fai clic su** Salva **per salvare il segmento oppure **Salva e definisci campagna** per passare alla pagina Campagne.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
