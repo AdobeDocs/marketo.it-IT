@@ -27,11 +27,11 @@ Quando viene raccolto un annullamento della sottoscrizione in Sales Connect, lo 
 
 Dopo aver attivato la sincronizzazione dell’annullamento della sottoscrizione (passaggio 3 qui sotto), verrà attivata la sincronizzazione notturna. La sincronizzazione avviene una volta al giorno intorno alle 20:00 PST. Sincronizzerà bidirezionalmente tutti gli utenti senza sottoscrizione in MSE/ToutApp con il campo Rifiuto in Salesforce.
 
-## Configurare Annulla sottoscrizione sincronizzazione a Salesforce {#configure-unsubscribe-sync-to-salesforce}
+## Configurare Annulla sottoscrizione sincronizzazione su Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
 Gli utenti possono decidere se desiderano sincronizzare le proprie iscrizioni con il campo Rifiuto e-mail standard con cui Marketo può anche eseguire la sincronizzazione, oppure possono sincronizzarsi con il campo Rifiuto vendite Marketo in modo che gli abbonamenti alle vendite e gli annulli di marketing possano essere differenziati.
 
-1. Passate all’applicazione [](http://toutapp.com/login)Web, fate clic sull’icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
 
    ![](assets/one-1.png)
 
@@ -39,7 +39,7 @@ Gli utenti possono decidere se desiderano sincronizzare le proprie iscrizioni co
 
    ![](assets/two-2.png)
 
-1. Fai clic su **Sincronizzazione su Salesforce**, quindi abilita la sincronizzazione notturna.
+1. Fate clic su **Sincronizzazione su Salesforce**, quindi abilitate la sincronizzazione notturna.
 
    ![](assets/three-2.png)
 
@@ -49,7 +49,7 @@ Gli utenti possono decidere se desiderano sincronizzare le proprie iscrizioni co
 
    | **Sincronizzazione con il campo Rifiuto Salesforce** | Selezionato per impostazione predefinita, aggiorna solo il campo Rifiuto Salesforce. |
    |---|---|
-   | **Campo Sincr. su Vendita Marketo** | Se desiderate separare le sottoscrizioni Vendite e Marketing, scegliete questa opzione per aggiornare il campo Rifiuto vendite [marketing aggiuntivo.](#msoo) |
+   | **Campo Sincr. su Vendita Marketo** | Se desiderate separare le sottoscrizioni Vendite e Marketing, scegliete questa opzione per aggiornare il campo aggiuntivo [Rinuncia alle vendite marketing.](#msoo) |
 
 ## Installazione del campo Rifiuto nel layout di pagina {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -57,11 +57,11 @@ Gli utenti possono decidere se desiderano sincronizzare le proprie iscrizioni co
 
 Rifiuto e-mail è un campo standard di Salesforce che può essere installato da Salesforce. Devi essere un amministratore Salesforce per installarlo.
 
-1. Andate su [Salesforce.com](http://Salesforce.com) ed effettuate l&#39;accesso.
+1. Vai a [Salesforce.com](http://Salesforce.com) ed effettua l&#39;accesso.
 
    ![](assets/five-1.png)
 
-1. Fate clic sul nome utente e selezionate **Configurazione**.
+1. Fare clic sul nome utente e selezionare **Setup**.
 
    ![](assets/six-1.png)
 
@@ -69,11 +69,11 @@ Rifiuto e-mail è un campo standard di Salesforce che può essere installato da 
 
    ![](assets/seven-1.png)
 
-1. Selezionate Layout **di** pagina.
+1. Selezionare **Layout di pagina**.
 
    ![](assets/eight-1.png)
 
-1. Selezionare **Modifica** accanto al layout della pagina a cui si desidera aggiungere il campo.
+1. Selezionare **Edit** accanto al layout della pagina a cui si desidera aggiungere il campo.
 
    ![](assets/nine.png)
 
@@ -85,11 +85,11 @@ Rifiuto e-mail è un campo standard di Salesforce che può essere installato da 
 
    ![](assets/11.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/twelve.png)
 
-## Rifiuto vendite Marketo {#marketo-sales-opt-out}
+## Rinuncia alle vendite di Marketo {#marketo-sales-opt-out}
 
 Il campo Rifiuto vendite Marketo è un campo personalizzato disponibile per gli utenti che hanno installato le Personalizzazioni di Marketing Connect.
 
