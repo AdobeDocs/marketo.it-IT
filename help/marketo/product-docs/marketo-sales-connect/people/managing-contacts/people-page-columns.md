@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/one-5.png)
 
-1. Scorri e seleziona le colonne desiderate (puoi anche fare clic su **Seleziona tutto** se vuoi). Al termine, fate clic fuori dall’elenco.
+1. Scorri e seleziona le colonne desiderate (puoi anche fare clic su **Seleziona tutto** se desideri ogni colonna). Al termine, fate clic fuori dall’elenco.
 
    ![](assets/two-4.png)
 
