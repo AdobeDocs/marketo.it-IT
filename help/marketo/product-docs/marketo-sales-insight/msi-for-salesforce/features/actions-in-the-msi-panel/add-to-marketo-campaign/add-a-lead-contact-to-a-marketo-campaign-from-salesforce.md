@@ -19,7 +19,7 @@ Puoi facilmente aggiungere lead o contatti alle campagne smart di Marketo dirett
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
-1. Selezionate dall’elenco a discesa l’elenco delle persone da visualizzare e fate clic su **Vai**.
+1. Selezionate dall&#39;elenco a discesa l&#39;elenco delle persone da visualizzare e fate clic su **Go**.
 
    ![](assets/image2016-3-22-9-3a24-3a6.png)
 
@@ -31,16 +31,16 @@ Puoi facilmente aggiungere lead o contatti alle campagne smart di Marketo dirett
 
    ![](assets/three.png)
 
-1. Nel record, scorri verso il basso fino all&#39;area Visiva marketing, fai clic sul menu a discesa **Azioni** , seleziona **Aggiungi a campagna marketing** e fai clic **su Vai.**
+1. Nel record, scorrete verso il basso fino all&#39;area Visiva marketing, fate clic sul menu a discesa **Azioni**, selezionate **Aggiungi a campagna marketing,** e fate clic su **Vai.**
 
    ![](assets/four.png)
 
-1. Fai clic sul menu a discesa Nome **** campagna, seleziona la campagna Marketo desiderata, quindi fai clic su **Aggiungi a campagna** marketing.
+1. Fai clic sul menu a discesa **Nome campagna**, seleziona la campagna Marketo desiderata, quindi fai clic su **Aggiungi a campagna marketing**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Affinché la campagna venga visualizzata nell&#39;elenco a discesa, utilizzate l&#39;attivatore [**** Campaign is Required](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con **Sales Insight** come origine, quando configurate la campagna.
+   >Affinché la campagna venga visualizzata nell&#39;elenco a discesa, utilizzate il trigger [**Campaign is Required**](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con **Sales Insight** come origine, quando configurate la campagna.
 
 Ed è tutto! La persona viene aggiunta alla campagna Marketo.
