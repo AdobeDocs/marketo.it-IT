@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mail in arrivo {#emails-going-to-spam}
+# E-mail che vanno a spam {#emails-going-to-spam}
 
 Ci impegniamo a fondo per garantire che i nostri tassi di recapito restino elevati. Esistono tuttavia alcuni comportamenti degli utenti che possono indirizzare le e-mail alla cartella Spam.
 
