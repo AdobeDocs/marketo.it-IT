@@ -17,21 +17,21 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
 
 >[!NOTE]
 >
->Oltre a configurare il server SMTP, è necessario verificare [l&#39;identità dell&#39;](http://docs.marketo.com/x/ewPh) e-mail prima di poter inviare le e-mail.
+>Oltre a configurare il server SMTP, è necessario verificare l&#39;identità dell&#39;e-mail [prima di poter inviare le e-mail.](http://docs.marketo.com/x/ewPh)
 
 È possibile scegliere di inviare e-mail utilizzando un server SMTP personalizzato, un server SMTP Team o Gmail come canale di consegna. Passiamo a ogni opzione.
 
 ## SMTP personalizzato {#custom-smtp}
 
-1. Accedete all’applicazione [](http://toutapp.com/login)Web, fate clic sull’icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/one.png)
 
-1. In Account personale, fate clic su Impostazioni **e-** mail.
+1. In Account personale, fate clic su **Impostazioni e-mail**.
 
    ![](assets/two.png)
 
-1. Selezionare Server **** SMTP.
+1. Selezionare **Server SMTP**.
 
    ![](assets/three.png)
 
@@ -43,19 +43,19 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
    >
    >Se questo è il tuo unico canale di distribuzione, viene automaticamente assegnato a tutte le tue identità e-mail, e hai finito qui. Se questo non è l&#39;unico canale di consegna, continuate con il Passo 5.
 
-1. In Impostazioni e-mail fare clic su **Indirizzo e firma**.
+1. In Impostazioni e-mail, fare clic su **Indirizzo e firma**.
 
    ![](assets/five.png)
 
-1. Individuate l&#39;identità e-mail per la quale desiderate scegliere un canale di consegna e fate clic su **Scegli canale** di consegna.
+1. Individuate l&#39;identità e-mail per la quale desiderate scegliere un canale di consegna e fate clic su **Scegli canale di consegna**.
 
    ![](assets/six.png)
 
-1. Nella scheda Consegne, fate clic su **Modifica**.
+1. Nella scheda Consegna, fare clic su **Modifica**.
 
    ![](assets/seven-new.png)
 
-1. Fai clic sul menu a discesa Canale e scegli il canale di consegna personalizzato appena aggiunto. Fate clic su **Salva**.
+1. Fai clic sul menu a discesa Canale e scegli il canale di consegna personalizzato appena aggiunto. Fare clic su **Salva**.
 
    ![](assets/eight-new.png)
 
@@ -71,11 +71,11 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedete all’applicazione [](http://toutapp.com/login)Web, fate clic sull’icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/nine.png)
 
-1. In Impostazioni amministratore, fai clic su Server SMTP **Team**.
+1. In Impostazioni amministratore, fai clic su **Server SMTP del team**.
 
    ![](assets/ten.png)
 
@@ -91,24 +91,24 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
 
 ## Gmail {#gmail}
 
-1. Accedete all’applicazione [](http://toutapp.com/login)Web, fate clic sull’icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/twelve.png)
 
-1. In Account personale, fate clic su Impostazioni **e-** mail.
+1. In Account personale, fate clic su **Impostazioni e-mail**.
 
    ![](assets/thirteen.png)
 
-1. Fate clic su **Sincronizzazione** e-mail.
+1. Fare clic su **Sincronizzazione e-mail**.
 
    ![](assets/fourteen.png)
 
-1. Fate clic su **Connetti a Google**.
+1. Fare clic su **Connetti a Google**.
 
    ![](assets/fifteen.png)
 
 1. Effettuate l&#39;accesso utilizzando le vostre credenziali Google.
-1. Quando viene visualizzata questa schermata, fate clic su **Consenti**.
+1. Quando si arriva a questa schermata, fare clic su **Consenti**.
 
    ![](assets/sixteen.png)
 
@@ -128,7 +128,7 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
 
    ![](assets/nineteen.png)
 
-1. Fai clic sul menu a discesa Canale e scegli il canale di consegna Gmail che hai appena aggiunto. Fate clic su **Salva**.
+1. Fai clic sul menu a discesa Canale e scegli il canale di consegna Gmail che hai appena aggiunto. Fare clic su **Salva**.
 
    ![](assets/twenty.png)
 
