@@ -23,7 +23,7 @@ Inviare e tenere traccia di qualsiasi e-mail Google con Marketo Insights for Goo
 
 
 
-## Invia un&#39;e-mail con approfondimenti Marketo {#send-an-email-with-marketo-insights}
+## Invia un&#39;e-mail con informazioni Marketo {#send-an-email-with-marketo-insights}
 
 1. Dalla finestra Componi, fate clic sull’icona Marketo.
 
@@ -45,11 +45,11 @@ Inviare e tenere traccia di qualsiasi e-mail Google con Marketo Insights for Goo
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Selezionate un modello **** disponibile e fate clic su **OK.**
+1. Selezionare un **modello disponibile** e fare clic su **OK.**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Inserite il contenuto, un indirizzo e-mail e fate clic su **Invia**.
+1. Inserite il contenuto, un indirizzo e-mail e fate clic su **Send**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
