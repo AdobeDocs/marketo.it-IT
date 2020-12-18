@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abilitare gli URL personalizzati per una pagina di destinazione {#enable-personalized-urls-for-a-landing-page}
+# Abilita URL personalizzati per una pagina di destinazione {#enable-personalized-urls-for-a-landing-page}
 
 Gli URL personalizzati sono ottimi per le campagne di stampa.
 
@@ -23,11 +23,11 @@ Gli URL personalizzati sono ottimi per le campagne di stampa.
 
 
 
-1. Selezionate una pagina di destinazione e fate clic sulle impostazioni per l’URL **** personalizzato.
+1. Selezionate una pagina di destinazione e fate clic sulle impostazioni per **URL personalizzato**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Ora puoi selezionare **Abilita URL** personalizzati e fare clic su **Salva**.
+1. Ora è possibile selezionare **Abilita URL personalizzati** e fare clic su **Salva**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
