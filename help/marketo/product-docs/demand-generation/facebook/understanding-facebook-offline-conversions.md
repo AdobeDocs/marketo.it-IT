@@ -40,9 +40,9 @@ Ciò significa che l&#39;annuncio 1, nonostante avesse generato meno lead, aveva
 >
 >Senza le conversioni offline, l&#39;inserzionista probabilmente investirebbe più soldi in Ad 3. Con i dati di conversione offline, l&#39;inserzionista investirà più probabilmente in Ad 1.
 
-Potete [impostare le conversioni](set-up-facebook-offline-conversions.md) offline di Facebook per inviare le prestazioni degli annunci offline a Facebook.
+Potete [configurare le conversioni offline di Facebook](set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
 
-1. Accertati che l’integrazione [con LaunchPoint di](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) Facebook sia aggiornata.
+1. Accertati che l&#39;integrazione di [Facebook LaunchPoint](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) sia aggiornata.
 1. Mappa le fasi del modello del ciclo di ricavi sulle fasi di conversione offline su Facebook.
 1. Quando un lead Facebook viene generato da un annuncio lead Facebook e raggiunge una fase mappata, Marketo invia i dati di conversione offline a Facebook diverse volte al giorno tramite un&#39;API sicura e automatizzata. I dati vengono visualizzati nel report Facebook Ads Manager (Gestione annunci Facebook).
 
