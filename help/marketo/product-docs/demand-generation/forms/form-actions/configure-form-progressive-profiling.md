@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Configura profilo progressivo modulo {#configure-form-progressive-profiling}
+# Configurare il profilo progressivo modulo {#configure-form-progressive-profiling}
 
 Le forme brevi sono buone! Quando un utente torna a un modulo, è possibile presentare nuovi campi e compilare progressivamente il profilo del visitatore. Ecco come.
 
 >[!NOTE]
 >
->Affinché questa funzione funzioni correttamente, accertatevi che la funzione di precompilazione del modulo sia abilitata per i campi visibili e [disattivata](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) per i campi nascosti.
+>Affinché questa funzione funzioni correttamente, accertatevi che la funzione di precompilazione del modulo sia abilitata per i campi visibili e che i campi nascosti [disabilitati](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) siano disattivati.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/ma-1.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. In **Impostazioni** **modulo** fare clic su **Impostazioni**.
+1. In **Form** **Settings** fare clic su **Settings**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Imposta **Profiling progressivo** **su** Abilitato ****.
+1. Impostare **Progressivo** **Profiling** su **Abilitato**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Ok, ora configuriamolo. Vai a **Dettagli** campo ****.
+1. Ok, ora configuriamolo. Vai a **Field** **Details**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 Trascinate tutti i campi che fanno parte del set di profili progressivo.
@@ -47,9 +47,9 @@ Trascinate tutti i campi che fanno parte del set di profili progressivo.
 
    >[!NOTE]
    >
-   >I campi all’esterno della casella **Profilamento progressivo** **** vengono sempre visualizzati nel modulo, anche se sono compilati.
+   >I campi all&#39;esterno della casella **Progressivo** **Profiling** verranno sempre visualizzati nel modulo, anche se compilati.
 
-1. Selezionate la casella **Profilamento progressivo** **** .
+1. Selezionare la casella **Progressivo** **Profiling**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,7 +57,7 @@ Trascinate tutti i campi che fanno parte del set di profili progressivo.
    >
    >Prestate attenzione quando utilizzate i campi obbligatori in Profiling progressivo. Questi campi potrebbero comunque essere lasciati vuoti se il visitatore immette un nuovo indirizzo e-mail (che creerebbe una nuova persona) dopo l&#39;invio in precedenza dei dati per gli altri campi, in quanto sarebbero stati eliminati nel modulo più recente.
 
-1. Ora scegliete quanti campi vuoti desiderate vengano visualizzati dalla casella **Progressi** **Profili** in qualsiasi momento.
+1. Scegliere ora quanti campi vuoti si desidera visualizzare dalla casella **Progressivo** **Profiling** in qualsiasi momento.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -66,7 +66,7 @@ Trascinate tutti i campi che fanno parte del set di profili progressivo.
    >**Esempio**
    >
    >
-   >Se scegliete **Numero** **di** **campi** vuoti **** come 1, il visitatore vedrà quanto segue al primo accesso al modulo:
+   >Se si sceglie **Number** **di** **Blank** **Fields** come 1, il visitatore visualizzerà il seguente modulo per la prima volta:
    >
    >    
    >    
@@ -102,7 +102,7 @@ Trascinate tutti i campi che fanno parte del set di profili progressivo.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
