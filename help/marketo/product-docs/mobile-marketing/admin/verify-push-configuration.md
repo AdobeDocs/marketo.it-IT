@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Verifica la configurazione push per garantire che tutto sia sincronizzato correttamente.
 
-1. Fate clic su **Admin**.
+1. Fare clic su **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selezionate App **mobili**.
+1. Selezionare **App mobili**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -37,7 +37,7 @@ Verifica la configurazione push per garantire che tutto sia sincronizzato corret
 
    Confermare le piattaforme desiderate leggere verificate e fare clic su CHIUDI.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   Tutto pronto! Ora puoi iniziare a inviare le notifiche push ![(sorriso)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)   Tutto pronto! Ora puoi iniziare a inviare notifiche push ![(sorriso)](assets/smile.svg)
 
 >[!NOTE]
 >
