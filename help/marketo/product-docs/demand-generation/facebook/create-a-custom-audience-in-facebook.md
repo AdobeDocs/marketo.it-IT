@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungi pubblico personalizzato Facebook come servizio](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint nella sezione Admin.
->* [Accettate i Termini](https://www.facebook.com/ads/manage/customaudiences/tos.php) di audience personalizzati di Facebook nel vostro account Facebook.
+>* [Aggiungi audience personalizzate Facebook come ](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) servizio LaunchPoint nella sezione Admin.
+>* [Accettate i ](https://www.facebook.com/ads/manage/customaudiences/tos.php) termini di pubblico personalizzati di Facebook nel vostro account Facebook.
 
 >
 
@@ -30,19 +30,19 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. Selezionate la scheda **Lead** , quindi fate clic sull&#39;icona **Send Via Ad Bridge **nella parte inferiore.
+1. Selezionate la scheda **Lead**, quindi fate clic sull&#39;icona **Send Via Ad Bridge **in basso.
 
    ![](assets/222.png)
 
-1. Selezionare **Facebook **e fare clic su **Avanti**.
+1. Selezionare **Facebook **e fare clic su **Next**.
 
    ![](assets/two.png)
 
-1. Fai clic sul menu a discesa **Audience** e seleziona **+ Nuovo pubblico**.
+1. Fare clic sul menu a discesa **Audience** e selezionare **+ New Audience**.
 
    ![](assets/four.png)
 
-1. Digita un nome **di** audience. Fate clic su **Aggiorna**.
+1. Digitate un **Nome audience**. Fare clic su **Aggiorna**.
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vuoi scambiare una nuova audience con una esistente attualmente associata a un set di annunci o a un gruppo? Selezionate la casella di controllo **Sostituisci un&#39;audience** esistente. In questo modo **non** verrà eliminato il pubblico in fase di sostituzione.
+   >Vuoi scambiare una nuova audience con una esistente attualmente associata a un set di annunci o a un gruppo? Selezionare la casella di controllo **Sostituisci un&#39;audience esistente**. In questo modo **non** verrà eliminato il pubblico che verrà sostituito.
 
 1. Al termine, la finestra di dialogo dello stato verrà aggiornata.
 
    ![](assets/six.png)
 
-   Ed è tutto! In Facebook troverai la nuova audience in **Ads Manager > Audiences**.
+   Ed è tutto! Su Facebook troverai la nuova audience in **Ads Manager > Audiences**.
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulta il percorso di apprendimento di [Facebook per i clienti](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)Marketo. Copre tutto ciò che devi sapere, dalla creazione di una pagina Facebook al targeting delle tue pubblicità Facebook tramite le integrazioni di rete pubblicitarie di Marketo.
+   >Vedere il percorso di apprendimento di [Facebook per i clienti di Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Copre tutto ciò che devi sapere, dalla creazione di una pagina Facebook al targeting delle tue pubblicità Facebook tramite le integrazioni di rete pubblicitarie di Marketo.
 
    >[!NOTE]
    >
