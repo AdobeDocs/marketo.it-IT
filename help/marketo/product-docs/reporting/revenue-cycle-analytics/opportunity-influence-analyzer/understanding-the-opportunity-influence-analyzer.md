@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nozioni di base su Opportunity Influence Analyzer {#understanding-the-opportunity-influence-analyzer}
+# Nozioni di base sull&#39;analisi dell&#39;influenza opportunità {#understanding-the-opportunity-influence-analyzer}
 
 Ogni opportunità è una storia. Dove hai incontrato la guida? Quali opportunità di marketing li hanno interessati durante il processo di marketing/vendita?
 
