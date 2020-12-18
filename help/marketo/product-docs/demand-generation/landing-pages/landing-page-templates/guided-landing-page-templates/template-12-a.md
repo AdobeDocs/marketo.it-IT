@@ -29,4 +29,4 @@ Questo modello include il contenuto seguente:
 
 Fai clic qui sotto per scaricare il modello:
 
-[Template12-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+[Template11-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
