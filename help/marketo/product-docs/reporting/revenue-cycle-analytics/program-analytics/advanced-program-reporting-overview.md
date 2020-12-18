@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Panoramica di Advanced Program Reporting {#advanced-program-reporting-overview}
+# Panoramica sulla generazione di rapporti sul programma avanzata {#advanced-program-reporting-overview}
 
-**Esplora** ricavi include diverse aree di analisi e un&#39;ampia gamma di nuove metriche che consentono di misurare l&#39;efficacia del programma.
+**Revenue Cycle** Explorerinclude diverse aree di analisi e un&#39;ampia gamma di nuove metriche che consentono di misurare l&#39;efficacia del programma.
 
 ![](assets/rev.png)
 
@@ -27,21 +27,21 @@ Ciascuna area di analisi contiene set di dati e metriche diversi in Esplora entr
 
 ## Aree di analisi dei programmi {#program-analysis-areas}
 
-* ** Analisi [costi](understanding-the-program-cost-analysis-area.md) del programma **- Vedere il ROI di tutti i programmi.
+* ** [Analisi costi programma](understanding-the-program-cost-analysis-area.md) **- Vedere il ROI per tutti i programmi.
 
-* ** Analisi [di appartenenza al](understanding-the-program-membership-analysis-area.md) programma **- Vedere i risultati per canale, partecipazione, criteri di successo, ecc.
+* ** [Analisi iscrizione al programma](understanding-the-program-membership-analysis-area.md) **- Vedere i risultati per canale, partecipazione, criteri di successo, ecc.
 
-* ** Analisi [opportunità](understanding-the-program-opportunity-analysis-area.md) del programma **- Opportunità generate in base alla distribuzione, alle entrate e al ROI.
+* ** [Analisi delle opportunità del programma](understanding-the-program-opportunity-analysis-area.md) **- Opportunità generate in base alla distribuzione, alle entrate e al ROI.
 
-* ** Analisi [fase ricavi](understanding-the-program-revenue-stage-analysis-area.md) programma **- Nuovi nomi che hanno raggiunto particolari fasi di successo all&#39;interno del modello del ciclo di ricavi.
+* ** [Analisi fase ricavi programma](understanding-the-program-revenue-stage-analysis-area.md) **- Nuovi nomi che hanno raggiunto particolari fasi di successo all&#39;interno del modello del ciclo dei ricavi.
 
-## Analisi dei programmi {#program-analyzers}
+## Analisi programmi {#program-analyzers}
 
-* **Analisi** programmi: consente di identificare rapidamente i programmi che hanno esito positivo o meno e di concentrare le risorse in modo appropriato.
+* **Analisi**  programmi: consente di identificare rapidamente i programmi che hanno esito positivo o meno e di concentrare le risorse in modo appropriato.
 
-* **Opportunity Influence Analyzer** - Dimostra il contributo del marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
+* **Opportunity Influence Analyzer**  - Dimostra il contributo del marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
 
-## Opzioni rapporto {#report-options}
+## Opzioni report {#report-options}
 
 In ciascun rapporto sono disponibili diverse opzioni per facilitare la personalizzazione dell&#39;esperienza.
 
