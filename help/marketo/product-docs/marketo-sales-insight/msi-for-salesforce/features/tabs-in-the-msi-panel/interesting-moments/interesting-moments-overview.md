@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica sui momenti interessanti {#interesting-moments-overview}
+# Panoramica interessante sui momenti {#interesting-moments-overview}
 
 Puoi utilizzare l&#39;interessante fase di flusso del momento per dare visibilità al tuo team di vendita sugli aspetti interessanti che i lead stanno facendo in una Smart Campaign.
 
