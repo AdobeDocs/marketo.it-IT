@@ -17,11 +17,11 @@ Le pagine di destinazione a forma libera possono essere create come risorse loca
 
 >[!NOTE]
 >
->Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagina di destinazione guidati e a forma libera.
+>Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagina di destinazione guidati e a forma libera.
 
 ## Creare una pagina di destinazione a forma libera in un programma {#create-a-free-form-landing-page-in-a-program}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ Le pagine di destinazione a forma libera possono essere create come risorse loca
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Fate clic su **Nuovo**. Selezionate **Nuova risorsa** locale.
+1. Fare clic su **Nuovo**. Selezionare **Nuova risorsa locale**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Fate clic su **Pagina** di destinazione.
+1. Fare clic su **Pagina di destinazione**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ Le pagine di destinazione a forma libera possono essere create come risorse loca
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->L&#39;URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l’URL, modificate il campo URL **** pagina.
+>L&#39;URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **URL pagina**.
 
 ## Creare una pagina di destinazione a forma libera in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Andate a **Design** **Studio**.
+1. Passare alla **Progettazione** **Studio**.
 
    ![](assets/designstudio.png)
 
-1. Fate clic su **Nuovo**, quindi su **Nuova pagina di destinazione.**
+1. Fare clic su **Nuovo**, quindi su **Nuova pagina di destinazione.**
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,11 +67,11 @@ Le pagine di destinazione a forma libera possono essere create come risorse loca
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->Deselezionate &quot;Apri editor pagina di destinazione per una nuova pagina&quot; se non desiderate che l’editor si apra subito dopo aver fatto clic su **Crea**.
+>Deselezionare &quot;Apri editor pagina di destinazione per una nuova pagina&quot; se non si desidera che l&#39;editor si apra subito dopo aver fatto clic su **Crea**.
 
