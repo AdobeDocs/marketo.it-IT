@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di testo RTF a un modulo {#add-rich-text-to-a-form}
+# Aggiungere testo RTF a un modulo {#add-rich-text-to-a-form}
 
 Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informazioni tra i campi. Controllala.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Fare clic sul segno **+** .
+1. Fare clic sul segno **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Selezionare **RTF**.
+1. Selezionare **Rich Text**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,7 +39,7 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
    >
    >Se nel modulo è necessario un separatore di riga, utilizzare il pulsante Linea orizzontale.
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
@@ -47,7 +47,7 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -59,6 +59,6 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms).
+>Ulteriori informazioni su [forms](http://docs.marketo.com/display/docs/forms).
 
-Sapevate che è anche possibile [aggiungere regole](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) di visibilità a un blocco RTF?
+Sapevate che potete anche [aggiungere regole di visibilità](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a un blocco di testo RTF?
