@@ -15,41 +15,41 @@ ht-degree: 0%
 
 La connessione a Gmail consente di ricevere il tracciamento delle risposte, accedere al canale di consegna di Gmail, pianificare le e-mail in Gmail e inviare la conformità.
 
-1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Settings**.
 
    ![](assets/one.png)
 
-1. In Account personale, selezionate Impostazioni **e-** mail.
+1. In Account personale, selezionare **Impostazioni e-mail**.
 
    ![](assets/two.png)
 
-1. Fate clic sulla scheda Connessione **e-** mail.
+1. Fare clic sulla scheda **Connessione e-mail**.
 
    ![](assets/three.png)
 
-1. Fate clic su **Inizia**.
+1. Fare clic su **Introduzione**.
 
    ![](assets/four.png)
 
-1. Seleziona **Uso Gmail per inviare e-mail** e fai clic su **Avanti**.
+1. Selezionare **Uso Gmail per inviare e-mail** e fare clic su **Next**.
 
    ![](assets/five.png)
 
-1. Fate clic su **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/six.png)
 
-1. Se avete già effettuato l’accesso a Gmail, scegliete l’account a cui desiderate connettervi. In caso contrario, immettete il vostro indirizzo Gmail e fate clic su **Avanti**. In questo esempio, non è ancora stato effettuato l&#39;accesso.
+1. Se avete già effettuato l’accesso a Gmail, scegliete l’account a cui desiderate connettervi. In caso contrario, immettete il vostro indirizzo Gmail e fate clic su **Next**. In questo esempio, non è ancora stato effettuato l&#39;accesso.
 
    ![](assets/seven.png)
 
-1. Immettete la password e fate clic su **Avanti**.
+1. Immettere la password e fare clic su **Next**.
 
    ![](assets/eight.png)
 
-1. Fate clic su **Consenti**.
+1. Fare clic su **Consenti**.
 
    ![](assets/nine.png)
 
-   È possibile utilizzare questa connessione per tenere traccia delle e-mail e [come canale](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)di consegna.
+   È possibile utilizzare questa connessione per tenere traccia delle e-mail e [anche come canale di consegna](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
