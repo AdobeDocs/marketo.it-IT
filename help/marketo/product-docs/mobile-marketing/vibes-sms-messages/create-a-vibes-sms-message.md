@@ -19,23 +19,23 @@ Ecco come creare un messaggio Vibes SMS.
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Fate clic su **Nuova risorsa** locale.
+1. Fate clic su **Nuova risorsa locale**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >In alternativa, puoi fare clic sul menu a discesa **Nuovo** .
+   >In alternativa, è possibile fare clic sul menu a discesa **Nuovo**.
 
-1. Fate clic su **SMS Message**.
+1. Fare clic su **SMS Message**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. Immettete un nome e una descrizione facoltativa per il nuovo messaggio SMS e fate clic su **Crea**.
+1. Immettete un nome e una descrizione facoltativa per il nuovo messaggio SMS e fate clic su **Create**.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. Fate clic su **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/edit-draft-hand.jpg)
 
@@ -47,7 +47,7 @@ Ecco come creare un messaggio Vibes SMS.
    >
    >I limiti USA e Canada sono diversi, rispettivamente a 160 e 130 caratteri. Se superi questi limiti di caratteri, il messaggio potrebbe essere diviso. Mentre viene mostrato quando superate il limite canadese, l&#39;editor è ottimizzato per gli Stati Uniti e divide il messaggio in base al limite USA.
 
-1. Fai clic su **Token** nel menu Inserisci per aggiungere un token al messaggio.
+1. Fare clic su **Token** nel menu Inserisci per aggiungere un token al messaggio.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -55,11 +55,11 @@ Ecco come creare un messaggio Vibes SMS.
    >
    >Se si aggiunge un token, il messaggio supera il limite di caratteri. Il messaggio verrà quindi suddiviso, generando costi aggiuntivi.
 
-1. Fai clic su **Collega** nel menu Inserisci per aggiungere un collegamento al messaggio.
+1. Fare clic su **Link** nel menu Inserisci per aggiungere un collegamento al messaggio.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Selezionare un tipo di collegamento. Pagina di destinazione Marketo è l’impostazione predefinita. Se si utilizza questa opzione, è necessario selezionare la pagina di destinazione dall&#39;elenco a discesa e fare clic su **Inserisci**.
+1. Selezionare un tipo di collegamento. Pagina di destinazione Marketo è l’impostazione predefinita. In questo caso, è necessario selezionare la pagina di destinazione dall&#39;elenco a discesa e fare clic su **Inserisci**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -67,7 +67,7 @@ Ecco come creare un messaggio Vibes SMS.
    >
    >Per impostazione predefinita, i due collegamenti di tracciamento sono selezionati.
 
-1. Se invece desiderate utilizzare un URL esterno, fate clic sul pulsante URL **** esterno e immettete l’URL nel campo URL. Fate clic su **Inserisci**.
+1. Se invece desiderate utilizzare un URL esterno, fate clic sul pulsante **URL esterno** e immettete l&#39;URL nel campo URL. Fare clic su **Inserisci**.
 
    ![](assets/insert-link-url-hands.jpg)
 
