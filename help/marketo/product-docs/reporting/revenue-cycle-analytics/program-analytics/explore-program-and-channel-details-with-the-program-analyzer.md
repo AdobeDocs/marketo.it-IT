@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Esplora i dettagli di programma e canale con il programma Analyzer {#explore-program-channel-details-with-the-program-analyzer}
+# Esplora i dettagli di programma e canale con l&#39;analizzatore di programma {#explore-program-channel-details-with-the-program-analyzer}
 
 È possibile visualizzare informazioni dettagliate su programmi e canali in Program Analyzer. È inoltre possibile aprirli in Esplora ciclo ricavi.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 >
 >Non tutte le edizioni Marketo includono questa funzionalità. Contatta il tuo account manager per maggiori dettagli.
 
-1. Fate clic su **Analytics**.
+1. Fare clic su **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -34,13 +34,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Per visualizzare le statistiche specifiche per un canale o un programma (a seconda della **vista** selezionata), fare clic sulla bolla corrispondente.
+1. Per visualizzare le statistiche specifiche per un canale o un programma (a seconda della **View** selezionata), fare clic sulla bolla corrispondente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la [differenza tra l&#39;attribuzione](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+   >Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la differenza [tra l&#39;attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Per confrontare tutti i programmi all&#39;interno di un singolo canale, fare clic sul nome del canale nella finestra di dialogo a comparsa.
 
@@ -60,4 +60,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ulteriori informazioni sulle analisi avanzate in Esplora [entrate](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Ulteriori informazioni sulle analisi avanzate in [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
