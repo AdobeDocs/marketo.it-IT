@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Clona un frammento {#clone-a-snippet}
+# Duplica uno snippet {#clone-a-snippet}
 
 Clonate uno snippet per crearne una copia da modificare in base alle vostre esigenze.
 
-1. Andate a **Design Studio.**
+1. Vai a **Design Studio.**
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Vai al tuo snippet e poi sotto*** Azioni snippet**, fai clic su **Clona**.
+1. Vai al tuo snippet e poi in *** Azioni snippet**, fai clic su **Clone**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Inserite i dettagli del frammento di codice e fate clic su **Clona**.
+1. Inserite i dettagli del frammento e fate clic su **Clone**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 
