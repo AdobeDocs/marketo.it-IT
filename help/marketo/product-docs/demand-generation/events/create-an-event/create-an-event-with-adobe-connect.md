@@ -21,29 +21,29 @@ La sincronizzazione con  Adobe Connect consente di gestire la registrazione e la
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Innanzitutto, accertatevi di aver creato la riunione o il seminario in  Adobe Connect. Se avete bisogno di aiuto, consultate la [Guida](http://help.adobe.com/en_US/connect/9.0/using/index.html)utente di Adobe Connect. Le riunioni e i seminari creati in  Adobe Connect devono essere creati nella cartella specificata al momento dell&#39;immissione delle credenziali in Marketo. Dopo aver creato la riunione o il seminario, prendete nota di tutte le informazioni logistiche rilevanti (come il numero di telefono), da utilizzare nel file di conferma e-mail e ICS.
+Innanzitutto, accertatevi di aver creato la riunione o il seminario in  Adobe Connect. Per assistenza, consultare la [ Guida utente di Adobe Connect](http://help.adobe.com/en_US/connect/9.0/using/index.html). Le riunioni e i seminari creati in  Adobe Connect devono essere creati nella cartella specificata al momento dell&#39;immissione delle credenziali in Marketo. Dopo aver creato la riunione o il seminario, prendete nota di tutte le informazioni logistiche rilevanti (come il numero di telefono), da utilizzare nel file di conferma e-mail e ICS.
 
 >[!NOTE]
 >
->Al momento **non** è supportato  Adobe Connect On-Site.
+>Al momento **non** supporta  Adobe Connect On-Site.
 
-1. A casa di un nuovo evento, selezionate Azioni **** evento, quindi Impostazioni **** evento.
+1. A casa di un nuovo evento, selezionare **Azioni evento**, quindi **Impostazioni evento**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Se non visualizzate le Impostazioni **** evento nel menu a discesa, accertatevi che nel canale dell&#39;evento sia selezionato **Evento con webinar** selezionato in &quot;Applicabile a&quot;.
+   >Se nel menu a discesa non viene visualizzato **Impostazioni evento**, assicurarsi che il canale dell&#39;evento sia selezionato in &quot;Applicabile a&quot;.****
 
-1. In Partner **** evento, selezionate **Adobe Connect**.
+1. In **Partner evento**, selezionare **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Selezionate l’ID **di login** e selezionate l’ **evento**.
+1. Selezionare l&#39;ID **Login** e selezionare l&#39;ID **Evento**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/event-settings-overview.png)
 
@@ -67,7 +67,7 @@ Innanzitutto, accertatevi di aver creato la riunione o il seminario in  Adobe Co
 
    >[!TIP]
    >
-   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver aspettato troppo tempo non viene visualizzato nulla, selezionate **Aggiorna dal provider** webinar dal menu Azioni evento nella scheda Riepilogo dell’evento.
+   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver aspettato per un periodo di tempo tale da non visualizzare nulla, selezionate **Aggiorna da provider webinar** dal menu Azioni evento nella scheda Riepilogo dell&#39;evento.
 
    >[!MORELIKETHIS]
    >
