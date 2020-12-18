@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Approvare un titolo per il contenuto predittivo {#approve-a-title-for-predictive-content}
+# Approva un titolo per il contenuto predittivo {#approve-a-title-for-predictive-content}
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l’iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano contenuti predittivi, Marketo attiva le funzioni di analisi dei contenuti`<sup>AI</sup>` fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento al contenuto`<sup>AI</sup>`di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Potete aggiungere un titolo qualsiasi nella pagina Tutto il contenuto al contenuto predittivo approvandolo nella pagina Tutto il contenuto o nella finestra a comparsa Modifica contenuto.
 
-## Pagina Tutto il contenuto {#all-content-page}
+## Tutte le pagine di contenuto {#all-content-page}
 
 1. Selezionate la casella accanto al contenuto.
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Fate clic sul menu a discesa Azioni **** contenuto e selezionate **Approva per contenuto** predittivo.
+1. Fare clic sul menu a discesa **Azioni contenuto** e selezionare **Approva per contenuto predittivo**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## Finestra a comparsa Modifica contenuto {#edit-content-pop-up}
+## Menu a comparsa Modifica contenuto {#edit-content-pop-up}
 
 Potete inoltre approvare titoli per contenuti predittivi direttamente dal menu a comparsa Modifica contenuto.
 
@@ -37,7 +37,7 @@ Potete inoltre approvare titoli per contenuti predittivi direttamente dal menu a
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Selezionate la casella **Approva per contenuto** predittivo nella finestra a comparsa Modifica contenuto e fate clic su **Salva**.
+1. Selezionare la casella **Approva per contenuto predittivo** nella finestra a comparsa Modifica contenuto e fare clic su **Salva**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
