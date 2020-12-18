@@ -27,17 +27,17 @@ Utilizzate i messaggi in-app per interagire direttamente con i clienti mentre ut
 
 Prima di poter creare e inviare messaggi in-app per la tua app mobile, devi essere l&#39;amministratore di Marketing e lo sviluppatore di app mobile per eseguire alcune impostazioni.  Il processo di produzione dei messaggi in-app è suddiviso in tre fasi:
 
-## Passaggio 1: Impostazioni iniziali eseguite dall&#39;amministratore e dallo sviluppatore {#step-admin-and-developer-perform-initial-setups}
+## Passaggio 1: Amministratore e sviluppatore eseguono le impostazioni iniziali {#step-admin-and-developer-perform-initial-setups}
 
-Lo sviluppatore di app marketing e per dispositivi mobili collabora per configurarti. Consultate [Prima di creare notifiche push e messaggi](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) in-app per ulteriori dettagli.
+Lo sviluppatore di app marketing e per dispositivi mobili collabora per configurarti. Per informazioni, consultate [Prima di creare notifiche push e messaggi in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Passaggio 2: Creare un messaggio in-app {#step-create-an-in-app-message}
 
-Puoi [creare un messaggio](http://docs.marketo.com/display/docs/create+an+in-app+message) in-app utilizzando l&#39;editor online.
+[create un messaggio in-app](http://docs.marketo.com/display/docs/create+an+in-app+message) utilizzando l&#39;editor online.
 
 ## Passaggio 3: Invia! {#step-send}
 
-Puoi creare un programma per [inviare il messaggio](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Si crea un programma per [inviare il messaggio](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Sta arrivando.
 
