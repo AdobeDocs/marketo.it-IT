@@ -23,11 +23,11 @@ In qualità di amministratore potete abilitare la registrazione delle chiamate p
 
    ![](assets/two.png)
 
-1. Scorri verso il basso fino a Impostazioni telefono di Sales Connect e seleziona l’interruttore **Abilita registrazione** chiamate.
+1. Scorri verso il basso fino a Impostazioni telefono di vendita Connect e seleziona l&#39;interruttore **Abilita registrazione chiamate**.
 
    ![](assets/three.png)
 
-1. Se desiderate dare ai venditori la possibilità di abilitare o disabilitare la registrazione delle chiamate per se stessi, fate clic su** Registrazione facoltativa per tutti i membri del team. **Se desiderate che tutte le chiamate vengano registrate automaticamente, fate clic** su Registra tutte le chiamate.**
+1. Se desiderate dare ai venditori la possibilità di abilitare o disabilitare la registrazione delle chiamate per se stessi, fate clic su** Registrazione facoltativa per tutti i membri del team. **Se desideri che tutte le chiamate vengano registrate automaticamente,** fai clic su Registra tutte le chiamate.**
 
    ![](assets/four.png)
 
