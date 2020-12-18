@@ -26,7 +26,7 @@ Per installare la personalizzazione, i clienti che dispongono di Salesforce Prof
 
 ## Installazione {#installation}
 
-1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio in alto a destra e selezionate **Impostazioni**.
+1. In Sales Connect, fate clic sull&#39;icona dell&#39;ingranaggio in alto a destra e selezionate **Settings**.
 
    ![](assets/one-4.png)
 
@@ -40,7 +40,7 @@ Per installare la personalizzazione, i clienti che dispongono di Salesforce Prof
    >
    >Se siete connessi, vedrete un pulsante verde &quot;Install&quot;. **NON** fare clic su questo pulsante, procedere invece al punto 4.
 
-1. Accedi all’account Salesforce a cui sei connesso e fai clic su [questo collegamento](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Accedi all&#39;account Salesforce a cui sei connesso e fai clic su [questo collegamento](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Verrai inviato alla pagina di installazione di Sales Connect.
 
    ![](assets/install-package.png)
@@ -48,7 +48,7 @@ Per installare la personalizzazione, i clienti che dispongono di Salesforce Prof
 1. Scegliete gli utenti per i quali desiderate installare le personalizzazioni per: Solo amministratore, tutti gli utenti o profili specifici.
 1. Fate clic sul pulsante **Installa** per installare la personalizzazione.
 1. Per confermare l’installazione, accedi al tuo account Salesforce.
-1. Fate clic su **Configurazione**, cercate &quot;Pacchetti installati&quot; nella barra di ricerca, quindi fate clic su Pacchetti **installati**.
+1. Fare clic su **Setup**, cercare &quot;Pacchetti installati&quot; nella barra di ricerca, quindi fare clic su **Pacchetti installati**.
 
    Qui potete vedere Personalizzazioni di Marketing Connect.
 
