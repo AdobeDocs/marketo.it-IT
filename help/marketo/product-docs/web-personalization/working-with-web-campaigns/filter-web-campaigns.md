@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Dopo aver creato centinaia di campagne di Web Personalization, è molto utile poter utilizzare i filtri per visualizzare solo quelli che ti interessano.
 
-1. Vai a Campagne **Web.**
+1. Vai a **Campagne Web.**
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Nella pagina Campagne Web fare clic su **Filtro**.
+1. Nella pagina Campagne Web, fare clic su **Filtro**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Selezionate la casella di controllo per Stato e/o Tipo di campagna da filtrare, ad esempio **Pausa** o **Finestra di dialogo**. Fate clic su **Applica**.
+1. Selezionare la casella di controllo relativa allo stato e/o al tipo di campagna da filtrare, ad esempio **Paused** or **Dialog**. Fare clic su **Applica**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Utilizzate la casella di controllo **Seleziona tutto** per scegliere tutte le caselle o il collegamento **Cancella** per deselezionare tutte le caselle di controllo.
+   >Utilizzare la casella di controllo **Seleziona tutto** per scegliere tutte le caselle di controllo o il collegamento **Cancella** per cancellare tutte le caselle.
 
 1. Ora vengono visualizzate solo le campagne che corrispondono al filtro.
 
