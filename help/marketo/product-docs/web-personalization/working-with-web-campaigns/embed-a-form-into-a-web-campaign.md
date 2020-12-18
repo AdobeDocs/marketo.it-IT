@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Scopri come incorporare un modulo Marketo in una campagna Web (Dialog, In Zone o Widget).
 
-1. Fare clic con il pulsante destro del mouse su un modulo approvato. Selezionate **Incorpora codice**.
+1. Fare clic con il pulsante destro del mouse su un modulo approvato. Selezionare **Incorpora codice**.
 
    ** ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -25,11 +25,11 @@ Scopri come incorporare un modulo Marketo in una campagna Web (Dialog, In Zone o
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. In Personalizzazione Web, andate a Campagne **Web**.
+1. In Personalizzazione Web, andate a **Campagne Web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Fate clic su **Crea nuova campagna**.
+1. Fare clic su **Crea nuova campagna**.
 
    ** ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -39,12 +39,12 @@ Scopri come incorporare un modulo Marketo in una campagna Web (Dialog, In Zone o
 
    ![](assets/five-1.png)
 
-1. Incollare il codice da incorporare del modulo nell&#39;Editor origine HTML. Fate clic su **Aggiorna**.
+1. Incollare il codice da incorporare del modulo nell&#39;Editor origine HTML. Fare clic su **Aggiorna**.
 
    ![](assets/six-1.png)
 
 1. Il modulo non verrà visualizzato nella vista dell&#39;editor, ma sarà possibile visualizzarlo in anteprima per vedere come verrà visualizzato in una campagna.
-1. Fate clic su **Avvia** per avviare la campagna.
+1. Fare clic su **Avvia** per avviare la campagna.
 
    >[!NOTE]
    >
@@ -62,7 +62,7 @@ Per modificare il CSS di un tema modulo, consultare [questo articolo](../../../p
 
 Per modificare i colori della finestra di dialogo o del widget in Imposta campagna:
 
-1. Nell&#39;Editor Rich Text, selezionare un tipo di campagna Finestra di dialogo e uno stile di dialogo, colore dell&#39;intestazione e colore dello sfondo per personalizzare i colori di sfondo del modulo. Fate clic su **Salva**.
+1. Nell&#39;Editor Rich Text, selezionare un tipo di campagna Finestra di dialogo e uno stile di dialogo, colore dell&#39;intestazione e colore dello sfondo per personalizzare i colori di sfondo del modulo. Fare clic su **Salva**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -76,11 +76,11 @@ Per aggiungere il codice CSS allo script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Incollare il codice da incorporare del modulo con il codice dello stile di sfondo nell&#39;Editor origine HTML. Fate clic su **Aggiorna**.
+1. Incollare il codice da incorporare del modulo con il codice dello stile di sfondo nell&#39;Editor origine HTML. Fare clic su **Aggiorna**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Fate clic su **Anteprima** per vedere come verrà eseguito il rendering in una campagna (il modulo non verrà visualizzato nella visualizzazione editor). Di seguito è riportato un esempio del modo in cui il codice del modulo riportato sopra viene rappresentato in una campagna con un&#39;immagine di sfondo.
+1. Fare clic su **Anteprima** per vedere come verrà eseguito il rendering in una campagna (il modulo non verrà visualizzato nella visualizzazione editor). Di seguito è riportato un esempio del modo in cui il codice del modulo riportato sopra viene rappresentato in una campagna con un&#39;immagine di sfondo.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
