@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # Come installare l&#39;estensione del browser ToutApp {#how-to-install-the-toutapp-browser-extension}
 
-1. Fate clic su **Impostazioni** nell’applicazione [](http://toutapp.com/next#settings)Web.
-1. In Account personale, fate clic su Impostazioni **e-** mail.
-1. Fate clic su **Plugins**.
-1. In Gmail e Google Apps, fai clic su **Installa**.
+1. Fare clic su **Settings** nell&#39; [applicazione Web](http://toutapp.com/next#settings).
+1. In Account personale, fate clic su **Impostazioni e-mail**.
+1. Fare clic su **Plugins**.
+1. In Gmail e Google Apps, fate clic su **Installa**.
 
