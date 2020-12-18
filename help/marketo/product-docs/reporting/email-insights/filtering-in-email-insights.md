@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtrare nel dettaglio delle e-mail {#filtering-in-email-insights}
+# Filtrare in Approfondimenti e-mail {#filtering-in-email-insights}
 
 In Approfondimenti e-mail, esistono diversi modi per filtrare i dati.
 
@@ -63,7 +63,7 @@ Scegli tra intervalli di date predefiniti comuni, seleziona date specifiche e ut
 
 ## Marketing basato su account {#account-based-marketing}
 
-Se utilizzate Marketing [basato su](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)account, vi sono filtri specifici.
+Se utilizzate [Account Based Marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), sono disponibili filtri specifici.
 
 ![](assets/abm.png)
 
