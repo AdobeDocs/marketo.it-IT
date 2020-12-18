@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Priorità, Urgenza, Punteggio relativo e migliori risultati {#priority-urgency-relative-score-and-best-bets}
+# Priorità, Urgenza, Punteggio relativo e Best Bets {#priority-urgency-relative-score-and-best-bets}
 
 Visione vendite Marketo sceglie i migliori lead e contatti in base alla loro priorità. La priorità di un lead o di un contatto ha due componenti: urgenza e punteggio relativo.
 
@@ -43,7 +43,7 @@ Le migliori Scommesse sono i vostri lead e contatti con la massima urgenza e il 
 
 >[!NOTE]
 >
->Se le migliori puntate non corrispondono ai migliori lead e contatti che possedete, parlate con qualcuno della vostra azienda che ha accesso a Marketo su come aggiornare le regole [di](../../../../../getting-started/quick-wins/simple-scoring.md)punteggio.
+>Se le migliori puntate non corrispondono ai migliori lead e contatti che possedete, parlate con qualcuno della vostra azienda che ha accesso a Marketo su come aggiornare le vostre [regole di punteggio](../../../../../getting-started/quick-wins/simple-scoring.md).
 
 ### Modalità di calcolo dell&#39;urgenza e del punteggio relativo
 
