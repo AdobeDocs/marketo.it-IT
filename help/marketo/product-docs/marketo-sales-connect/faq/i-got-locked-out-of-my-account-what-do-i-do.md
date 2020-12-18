@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Sono Stata Bloccata Dal Mio Account. Cosa Faccio? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Se avete superato il numero di tentativi di accesso, verrete bloccati fuori dall&#39;account. Contattate il [](http://nation.marketo.com/community/support_solutions)supporto per assistenza su come sbloccare il sistema.
+Se avete superato il numero di tentativi di accesso, verrete bloccati fuori dall&#39;account. Contattare [Supporto](http://nation.marketo.com/community/support_solutions)per assistenza su come sbloccare il dispositivo.
