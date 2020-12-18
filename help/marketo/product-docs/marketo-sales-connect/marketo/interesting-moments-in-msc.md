@@ -19,7 +19,7 @@ Momenti interessanti sono la chiave per comunicare con il team di vendita tramit
 >
 >**Disponibilità**
 >
->Sono disponibili solo per i clienti di [Marketing](http://docs.marketo.com/x/2Akt) Sales Insight e Marketo Sales Connect.
+>Sono disponibili solo per i clienti di [Marketing Sales Insight](http://docs.marketo.com/x/2Akt) e Marketing Sales Connect.
 
 ## Qual è un momento interessante?  {#what-is-an-interesting-moment}
 
@@ -31,15 +31,15 @@ Sta a lei! Decidete quali informazioni sono rilevanti per il team di vendita. Il
 
 ## Come posso creare un momento interessante? {#how-do-i-create-an-interesting-moment}
 
-1. Scegli una [campagna](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [intelligente](http://docs.marketo.com/display/docs/smart+campaigns), preferibilmente una che il tuo team di vendita troverebbe interessante se attivata.
+1. Scegliete una [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [campagna intelligente](http://docs.marketo.com/display/docs/smart+campaigns), preferibilmente una che il vostro team di vendita troverebbe interessante se attivata.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Trascina il cursore sul passaggio Momenti **** interessanti.
+1. Trascinare sul passaggio **Momenti interessanti** del flusso.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Selezionare un **tipo** (E-mail, Pietra miliare o Web).
+1. Selezionare un **tipo** (E-mail, pietra miliare o Web).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
@@ -53,7 +53,7 @@ Sta a lei! Decidete quali informazioni sono rilevanti per il team di vendita. Il
 
 ## Che aspetto ha un momento interessante a Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Momenti interessanti verranno visualizzati nel registro [attività di un](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)lead.
+Momenti interessanti verranno visualizzati in un [registro attività del lead](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
