@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Panoramica delle funzioni del dashboard di Insights {#insights-dashboard-feature-overview}
+# Panoramica delle funzioni del dashboard di approfondimento {#insights-dashboard-feature-overview}
 
 Ulteriori informazioni sulle funzioni disponibili nel dashboard Informazioni sulle vendite.
 
 >[!PREREQUISITES]
 >
->È necessario disporre del pacchetto e della [configurazione](http://docs.marketo.com/x/F4GMAg)SFDC MSI più recenti.
+>È necessario disporre del pacchetto MSI SFDC più recente e della [configurazione](http://docs.marketo.com/x/F4GMAg).
 
 ![](assets/one.png)
 
@@ -156,7 +156,7 @@ Scheda Evento:
 * La barra Riepilogo settimanale mostrerà Momenti interessanti, E-mail e Attività Web per quella settimana. Ogni icona è selezionabile e può essere utilizzata come filtri per mostrare attività specifiche
 * Visualizzazione predefinita: Elenco delle attività della visualizzazione corrente
 
-**Prossime campagne e-mail ed eventi** scheda Campagne e-mail:
+**Prossime campagne e** eventi e-mailScheda Campagne e-mail:
 
 * Include campagne che fanno parte di programmi e-mail o programmi predefiniti pianificati nei prossimi 90 giorni
 * Non specifico al contatto/lead (ad es., l’elenco delle campagne è un elenco generico di tutte le campagne e-mail pianificate nell’istanza di Marketo). L&#39;elenco delle campagne in tutti i pannelli lead, contatti, account e opportunità sarà lo stesso
