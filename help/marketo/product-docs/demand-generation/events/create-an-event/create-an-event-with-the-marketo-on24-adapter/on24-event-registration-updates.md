@@ -11,33 +11,33 @@ ht-degree: 0%
 ---
 
 
-# Aggiornamenti alla registrazione degli eventi ON24 {#on-event-registration-updates}
+# Aggiornamenti per la registrazione degli eventi ON24 {#on-event-registration-updates}
 
-## Approvazione manuale degli utenti registrati {#manually-approving-registrants}
+## Approvare manualmente gli utenti registrati {#manually-approving-registrants}
 
 Potete approvare manualmente gli utenti registrati prima di inviare loro un messaggio e-mail di conferma. A tal fine, dovrete configurare le campagne per gestire questo passaggio aggiuntivo:
 
 1. Per la campagna di registrazione Trigger:
 
-   * Nell&#39;elenco avanzato, impostare l&#39;attivatore su **Riempi modulo**.
-   * In Flusso, imposta lo stato in Progressione su **In attesa di approvazione**.
+   * Nell&#39;elenco avanzato, impostare l&#39;attivatore su **Riempie il modulo**.
+   * In Flusso, impostare lo stato in Progressione su **In attesa di approvazione**.
 
-1. Passate all’evento e fate clic sulla scheda **Membri** . In questa scheda vengono visualizzate tutte le persone che hanno compilato il modulo. Il relativo stato deve essere impostato su **In attesa di approvazione**.
+1. Passate all&#39;evento e fate clic sulla scheda **Membri**. In questa scheda vengono visualizzate tutte le persone che hanno compilato il modulo. Il relativo stato deve essere impostato su **In attesa di approvazione**.
 1. Utilizzate il filtro nella parte superiore della griglia per visualizzare solo le persone con lo stato **In attesa di approvazione**.
 1. Selezionate le persone da registrare (Maiusc+clic, Ctrl+clic o Seleziona tutto).
-1. Dal menu, fate clic su **Modifica stato**. Selezionate **Registrato**, **Rifiutato** o qualsiasi altro stato applicabile.
+1. Dal menu, fare clic su **Modifica stato**. Selezionare **Registrato**, **Rifiutato** o qualsiasi altro stato applicabile.
 
 ## Gestione delle persone con un errore di registrazione {#handling-people-with-a-registration-error}
 
 Se una persona finisce per non essere registrata, ma piuttosto impostata sullo stato Errore di registrazione, non è troppo tardi per recuperare.
 
-1. Dalla scheda Membri, filtrate l’elenco delle persone con lo stato Errore **di** registrazione.
-1. Prima di continuare, accertatevi di aver determinato e risolto il problema con l&#39;integrazione (verificate che non ci siano errori in Partner **** evento in Amministratore).
-1. Una volta risolto il problema, selezionate tutte le persone con lo stato Errore di registrazione e cambiate il loro stato in **Registrato**. Questo tenterà di registrarli nuovamente con ON24.
+1. Dalla scheda Membri, filtrate l&#39;elenco delle persone con lo stato **Errore di registrazione**.
+1. Prima di continuare, accertatevi di aver determinato e risolto il problema con l&#39;integrazione (verificate che non ci siano errori in **Event Partners** in Amministratore).
+1. Una volta risolto il problema, selezionate tutte le persone con lo stato Errore di registrazione e cambiatene lo stato in **Registrato**. Questo tenterà di registrarli nuovamente con ON24.
 
 ## Aggiornamento dello stato membro da ON24 {#updating-member-status-from-on}
 
-Marketo raccoglie automaticamente le informazioni di presenza all&#39;incirca alle 11:00 del Pacifico ogni notte. Per aggiornare manualmente le informazioni di partecipazione, fate clic su **Aggiorna dal provider** webinar in Azioni **** evento.
+Marketo raccoglie automaticamente le informazioni di presenza all&#39;incirca alle 11:00 del Pacifico ogni notte. Per aggiornare manualmente le informazioni di partecipazione, fate clic su **Aggiorna da provider webinar** in **Azioni evento**.
 
 >[!MORELIKETHIS]
 >
