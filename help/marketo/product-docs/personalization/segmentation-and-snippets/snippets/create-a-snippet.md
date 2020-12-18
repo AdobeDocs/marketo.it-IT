@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Creare uno snippet {#create-a-snippet}
 
-Gli snippet possono essere utilizzati come blocchi di contenuto dinamici nelle **e-mail** e nelle pagine di **destinazione.**
+Gli snippet possono essere utilizzati come blocchi di contenuto dinamici nelle **e-mail** e **pagine di destinazione.**
 
-1. Andate a **Design Studio.**
+1. Vai a **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Fare clic su **Nuovo **e quindi su **Nuovo snippet**.
+1. Fare clic su **New **e quindi su **New Snippet**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,7 +27,7 @@ Gli snippet possono essere utilizzati come blocchi di contenuto dinamici nelle *
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Ottimo lavoro! Semplificate il lavoro creando snippet per il contenuto dinamico. Ora puoi [aggiungere contenuti al nuovo snippet](add-content-to-a-snippet.md).
+Ottimo lavoro! Semplificate il lavoro creando snippet per il contenuto dinamico. Ora puoi procedere e [aggiungere contenuti al nuovo snippet](add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
