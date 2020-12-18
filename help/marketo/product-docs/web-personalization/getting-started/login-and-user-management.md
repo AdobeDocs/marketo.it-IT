@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Login e gestione utente {#login-and-user-management}
 
-## Creazione di un ruolo utente di personalizzazione Web {#create-a-web-personalization-user-role}
+## Creare un ruolo utente di personalizzazione Web {#create-a-web-personalization-user-role}
 
-1. Andate alla sezione **Admin** , quindi fate clic su **Utenti e ruoli**.
+1. Andate alla sezione **Admin**, quindi fate clic su **Utenti e ruoli**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. Fate clic su **Ruoli**.
+1. Fare clic su **Ruoli**.
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
@@ -27,17 +27,17 @@ ht-degree: 0%
    >
    >Se il ruolo utente di Web Personalization (WP) esiste già, accertatevi che sia configurato come mostrato al punto 4.
 
-1. Fate clic su **Nuovo ruolo**.
+1. Fare clic su **Nuovo ruolo**.
 
    ![](assets/three-1.png)
 
-1. Immettete un nome per il ruolo e selezionate Autorizzazioni. Fate clic su **Crea** (il ruolo deve [essere applicato a tutte le aree di lavoro](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Immettete un nome per il ruolo e selezionate Autorizzazioni. Fare clic su **Crea** (il ruolo deve essere [applicabile a tutte le aree di lavoro](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Per dare agli utenti l&#39;autorizzazione per accedere a tutto ciò che si trova in Targeting e personalizzazione, accertatevi di selezionare *tutte* le caselle di controllo.
+   >Per dare agli utenti l&#39;autorizzazione per accedere a tutto ciò che si trova in Targeting e personalizzazione, selezionare le caselle *all*.
 
 ## Autorizzazioni utente per la personalizzazione Web e il contenuto predittivo {#web-personalization-and-predictive-content-user-permissions}
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Gli utenti abilitati di recente visualizzeranno la sezione Personalizzazione **** Web in My Marketo al successivo accesso.
+1. Gli utenti abilitati di recente visualizzeranno la sezione **Personalizzazione Web** in My Marketo al successivo accesso.
 
    ![](assets/eight.png)
