@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Creare un sottogruppo {#create-a-sub-team}
+# Crea un sub-team {#create-a-sub-team}
 
-## Creare un sottogruppo {#create-a-sub-team-1}
+## Crea un sub-team {#create-a-sub-team-1}
 
-1. Fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. Fare clic sull&#39;icona dell&#39;ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/one-1.png)
 
-1. In Impostazioni amministratore, seleziona Gestione **** team.
+1. In Impostazioni amministratore, seleziona **Gestione team**.
 
    ![](assets/two-1.png)
 
-1. Accanto a Tutti i team, fate clic su **+**.
+1. Accanto a Tutti i team, fare clic su **+**.
 
    ![](assets/three-1.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >
    >Ora puoi condividere modelli, campagne e gruppi con quel team.
 
-## Aggiungere persone al sottogruppo {#add-people-to-your-sub-team}
+## Aggiungi persone al tuo sottogruppo {#add-people-to-your-sub-team}
 
-1. In Gestione team, selezionate il gruppo **Tutti** .
+1. In Gestione team, selezionate il gruppo **Tutti**.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Fate clic su **Aggiungi selezionati ai team**.
+1. Fare clic su **Aggiungi selezionati ai team**.
 
    ![](assets/seven.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Al termine, fate clic su **Aggiungi ai team** .
+1. Fare clic su **Aggiungi a team** al termine.
 
    ![](assets/nine.png)
 
