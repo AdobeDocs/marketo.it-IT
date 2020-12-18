@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Creare una notifica push {#create-a-push-notification}
 
-È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che il tuo responsabile marketing Admin e sviluppatore di app mobili configurino alcune cose che ti servono mentre lo stai facendo. Consultate [Informazioni sulle notifiche](understanding-push-notifications.md) push.
+È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che il tuo responsabile marketing Admin e sviluppatore di app mobili configurino alcune cose che ti servono mentre lo stai facendo. Per informazioni, consultate [Informazioni sulle notifiche push](understanding-push-notifications.md).
 
-1. Andate all&#39;area **Attività** di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. In **Nuovo**, fate clic su **Nuova risorsa** locale.
+1. In **Nuova**, fare clic su **Nuova risorsa locale**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Selezionate Notifica **** push.
+1. Selezionare **Notifica push**.
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Immettete un nome **di notifica** push e fate clic su **Crea**.
+1. Immettete un **Nome notifica push** e fate clic su **Crea**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
