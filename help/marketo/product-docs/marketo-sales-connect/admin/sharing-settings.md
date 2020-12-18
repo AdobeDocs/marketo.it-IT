@@ -23,7 +23,7 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
 
 ## Configurare le impostazioni di condivisione {#configure-your-sharing-settings}
 
-1. Nell’applicazione [](http://toutapp.com/login)Web, passare alla pagina Settings (Impostazioni).
+1. Nell&#39; [applicazione Web](http://toutapp.com/login), passare alla pagina Settings (Impostazioni).
 
    ![](assets/one-2.png)
 
@@ -31,7 +31,7 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
 
    ![](assets/two-2.png)
 
-1. Accertatevi che **le impostazioni** di condivisione siano abilitate. Questo significa che per impostazione predefinita solo gli amministratori possono condividere i modelli nelle categorie dei modelli.
+1. Assicurarsi che **Impostazioni di condivisione** siano abilitate. Questo significa che per impostazione predefinita solo gli amministratori possono condividere i modelli nelle categorie dei modelli.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
 
    ![](assets/four-2.png)
 
-1. Fate clic su **Aggiungi team per l&#39;accesso**.
+1. Fare clic su **Aggiungi team per l&#39;accesso**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
    >
    >Se non visualizzi alcun team, dovrai andare in Gestione team e creare un team di utenti.
 
-1. Fate clic su **Aggiungi team per l&#39;accesso** per salvare.
+1. Fare clic su **Aggiungi team per Access** per salvare.
 
    ![](assets/seven-1.png)
 
