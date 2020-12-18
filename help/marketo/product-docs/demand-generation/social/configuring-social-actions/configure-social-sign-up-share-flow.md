@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Configurare il flusso di registrazione/condivisione mediante social network {#configure-social-sign-up-share-flow}
+# Configurare il flusso di registrazione/condivisione social network {#configure-social-sign-up-share-flow}
 
-Quando create un&#39;app [per](http://docs.marketo.com/display/docs/social)social network, potete configurare le opzioni per il social network e chiedere all&#39;utente di incontrarsi al momento della registrazione.
+Quando create un&#39;app [social network](http://docs.marketo.com/display/docs/social), potete configurare le opzioni di social network e richiedere all&#39;utente di incontrarsi al momento dell&#39;accesso.
 
 ## Seleziona reti per la condivisione {#select-networks-for-sharing}
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
-1. Selezionate l&#39;app e fate clic su **Modifica bozza***.**
+1. Selezionate l&#39;app e fate clic su **Modifica bozza****.*
 
    ![](assets/image2014-9-22-13-3a57-3a43.png)
 
-1. Nell&#39;editor delle app per social network, fai clic su Flusso **di** registrazione > Reti **** social network*.**
+1. Nell&#39;editor delle app social, fai clic su **Flusso di registrazione** > **Social Networks***.**
 
    ![](assets/three.png)
 
@@ -33,9 +33,9 @@ Quando create un&#39;app [per](http://docs.marketo.com/display/docs/social)socia
 
    ![](assets/four.png)
 
-## Configurare il messaggio Facebook {#configure-the-facebook-message}
+## Configurare il messaggio di Facebook {#configure-the-facebook-message}
 
-1. Vai a **Registrati** **Flusso** > **Condividi** **messaggi**.
+1. Andate a **Sign-Up** **Flow** > **Share** **Messages**.
 
    ![](assets/five.png)
 
@@ -47,31 +47,31 @@ Quando create un&#39;app [per](http://docs.marketo.com/display/docs/social)socia
    >
    >In una condivisione video, la miniatura viene generata automaticamente.
 
-   **Aggiungi contenuto dinamico,****** OpenGraphSe scegliete **Aggiungi contenuto statico,** immettete il titolo, la didascalia, la descrizione e caricate un&#39;immagine. Vedere i due passaggi successivi.
+   **Aggiungi contenuto dinamico,****** OpenGraphSe scegliete  **Aggiungi contenuto statico,** immettete il titolo, la didascalia, la descrizione e caricate un&#39;immagine. Vedere i due passaggi successivi.
 
 1. Nella finestra Visualizza e modifica, fate clic su **Mostra modifiche** e modificate il prompt e il messaggio di condivisione che verranno visualizzati nei post di Facebook.
 
    >[!TIP]
    >
-   >Per ulteriori informazioni, consultate [Modificare le impostazioni](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)dei post avanzati di Facebook.
+   >Per ulteriori informazioni, vedere [Modifica impostazioni post avanzati Facebook](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-13-3a59-3a57.png)
 
    >[!NOTE]
    >
-   >L&#39;URL [di](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) condivisione viene aggiunto automaticamente a tutti i messaggi condivisi.
+   >L&#39; [URL condivisione](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) viene aggiunto automaticamente a tutti i messaggi condivisi.
 
-1. Se avete scelto **Aggiungi** contenuto **statico** sopra, modificate il titolo, la didascalia e la descrizione, quindi caricate un’immagine personalizzata (da [**Immagini** da **marketing** e ****](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)**file).**
+1. Se avete scelto **Aggiungi statica** **contenuto** sopra, modificate il titolo, la didascalia e la descrizione e caricate un&#39;immagine personalizzata (da [**Immagini marketing** **e** **File **](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)**).**
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
-   Consultate [Aggiungere immagini e file a Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Vedere [Aggiungi immagini e file a Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
    >Se caricate un&#39;immagine, non la visualizzerete qui finché non chiuderete e riaprite l&#39;editor dell&#39;app per social network.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
 Se scegliete i valori dei tag della pagina (og:title, og:caption e og:description) e la miniatura vengono automaticamente aggiunte ai post di Facebook. Vedere il passaggio successivo.
 
@@ -85,7 +85,7 @@ Se scegliete i valori dei tag della pagina (og:title, og:caption e og:descriptio
    >
    >Utilizzate {html_title} nel testo del tweet per visualizzare automaticamente il titolo della pagina.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
 ## Configurare il messaggio LinkedIn {#configure-the-linkedin-message}
 
@@ -93,11 +93,11 @@ Se scegliete i valori dei tag della pagina (og:title, og:caption e og:descriptio
 
    ![](assets/image2014-9-22-14-3a3-3a8.png)
 
-   Se scegliete **Aggiungi** contenuto **** dinamico, i valori dei tag delle pagine (titolo e descrizione) e della miniatura vengono automaticamente aggiunti ai post di LinkedIn. Vedere il passaggio successivo.
+   Se scegliete **Aggiungi elemento dinamico** **contenuto**, i valori dei tag delle pagine (titolo e descrizione) e della miniatura vengono aggiunti automaticamente ai post di LinkedIn. Vedere il passaggio successivo.
 
-   Se scegliete **Aggiungi contenuto statico,** immettete titolo, didascalia e descrizione e caricate un’immagine. Vedere i due passaggi successivi.
+   Se scegliete **Aggiungi contenuto statico,** immettete il titolo, la didascalia e la descrizione, quindi caricate un&#39;immagine. Vedere i due passaggi successivi.
 
-1. Nella finestra **Visualizza** **&amp;** Modifica **, fai clic su** Mostra modifiche **** e modifica il messaggio e il prompt di condivisione che verrà visualizzato nei post di LinkedIn.
+1. Nella finestra **Visualizza** **&amp;** **Modifica**, fare clic su **Mostra modifiche** e modificare il prompt e il messaggio di condivisione che verrà visualizzato nei post di LinkedIn.
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
@@ -105,7 +105,7 @@ Se scegliete i valori dei tag della pagina (og:title, og:caption e og:descriptio
    >
    >Utilizzate {html_title} nel testo del post per visualizzare automaticamente il titolo della pagina.
 
-1. Se avete scelto **Aggiungi** contenuto **statico** sopra, modificate il titolo e la descrizione e caricate un’immagine personalizzata (da [**Immagini** **Marketo** e **File**](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
+1. Se avete scelto **Aggiungi statica** **contenuto** sopra, modificate il titolo e la descrizione e caricate un&#39;immagine personalizzata (da [**Immagini marketing** **e** **File**](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
    ![](assets/image2014-9-22-13-3a55-3a17.png)
 
@@ -115,5 +115,5 @@ Se scegliete i valori dei tag della pagina (og:title, og:caption e og:descriptio
 
 >[!MORELIKETHIS]
 >
->Successivamente, puoi fare clic su **Fine > Approva e chiudi** e inserire l&#39;app social in una pagina di destinazione. Potete anche configurare l’acquisizione [di](configure-person-capture-for-a-social-app.md) persona o il prompt di [condivisione](configure-re-share-email-and-prompt-for-a-social-app.md).
+>Successivamente, puoi fare clic su **Fine > Approva e chiudi** e inserire l&#39;app social in una pagina di destinazione. È inoltre possibile configurare [l&#39;acquisizione di persona](configure-person-capture-for-a-social-app.md) o il [prompt di condivisione di nuovo](configure-re-share-email-and-prompt-for-a-social-app.md).
 
