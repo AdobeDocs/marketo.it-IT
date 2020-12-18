@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Per convertire il campo Paese in un elenco a discesa contenente un elenco di tutti i paesi, attenersi alle istruzioni riportate di seguito.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Per convertire il campo Paese in un elenco a discesa contenente un elenco di tut
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Trova e seleziona **Paese**.
+1. Trovare e selezionare **Paese**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Con il campo **Paese** selezionato, modificare il **campo** **Tipo** da **selezionare**.
+1. Con il campo **Country** selezionato, modificare il campo **Field** **Type** in **Select**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Modificate** i **valori** per aggiungere l’elenco dei paesi tra cui gli utenti possono scegliere.
+1. **Modificate** il  **** valore per aggiungere l’elenco dei paesi tra cui gli utenti possono scegliere.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Fate clic su **Advanced** **Editor**.
+1. Fare clic su **Advanced** **Editor**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -55,7 +55,7 @@ Per convertire il campo Paese in un elenco a discesa contenente un elenco di tut
    >
    >Potete modificare l’elenco o utilizzare qualsiasi altro elenco.
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
@@ -63,7 +63,7 @@ Per convertire il campo Paese in un elenco a discesa contenente un elenco di tut
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
