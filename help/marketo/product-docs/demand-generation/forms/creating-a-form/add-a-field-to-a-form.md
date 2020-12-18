@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Aggiunta di un campo a un modulo {#add-a-field-to-a-form}
 
-Dopo aver [creato il modulo](create-a-form.md) e aver [selezionato un tema](select-a-form-theme.md), potrebbe essere necessario aggiungere altri campi da compilare per gli utenti. Ecco come.
+Dopo aver [creato il modulo ](create-a-form.md) e [selezionato un tema](select-a-form-theme.md), è possibile aggiungere altri campi da compilare. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/editform-1.png)
 
-1. Fare clic sul segno **+** .
+1. Fare clic sul segno **+**.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -49,4 +49,4 @@ Dopo aver [creato il modulo](create-a-form.md) e aver [selezionato un tema](sele
 >
 >Assicuratevi di approvare tutte le bozze delle pagine di destinazione create a causa delle modifiche apportate al modulo.
 
-Per niente male. Continuate il buon lavoro! Come fare per apprendere come [rendere necessario](make-a-form-field-required.md) un campo modulo?
+Per niente male. Continuate il buon lavoro! Come fare per [rendere necessario un campo modulo](make-a-form-field-required.md)?
