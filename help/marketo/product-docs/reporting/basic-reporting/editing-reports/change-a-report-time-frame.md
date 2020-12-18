@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Modifica di un intervallo di tempo per il rapporto {#change-a-report-time-frame}
+# Modificare un intervallo di tempo per il rapporto {#change-a-report-time-frame}
 
 Modificate il periodo di tempo coperto dal rapporto, per concentrarvi su un periodo di attività specifico.
 
-1. Andate all&#39;area **Attività** di marketing (o **Analytics**).
+1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Configurazione** .
+1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Configurazione**.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
@@ -33,7 +33,7 @@ Modificate il periodo di tempo coperto dal rapporto, per concentrarvi su un peri
 
    >[!NOTE]
    >
-   >**Persona creata con** riferimento al momento in cui la persona è stata conosciuta nel database.
+   >**Persona creata** Atriferisce al momento in cui la persona è diventata nota nel database.
 
 1. Scegliete l’intervallo di tempo appropriato dal menu a discesa.
 
@@ -41,9 +41,9 @@ Modificate il periodo di tempo coperto dal rapporto, per concentrarvi su un peri
 
    >[!TIP]
    >
-   >Per impostare date specifiche, selezionate **Personalizzato** dal menu a discesa e immettete le date nei campi calendario **Da** e **A** .
+   >Per impostare date specifiche, selezionare **Personalizzato** dal menu a discesa e immettere le date nei campi di calendario **From** e **To**.
 
-   Fare clic sulla scheda **Rapporto** per visualizzare il rapporto per l&#39;intervallo di tempo selezionato.\
+   Fare clic sulla scheda **Report** per visualizzare il rapporto per l&#39;intervallo di tempo selezionato.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!NOTE]
@@ -51,12 +51,12 @@ Modificate il periodo di tempo coperto dal rapporto, per concentrarvi su un peri
    >**Articoli correlati**
    >
    >
-   >Per limitare il rapporto in base ad attributi di persona specifici, potete [filtrare le persone in un rapporto con un elenco](filter-people-in-a-report-with-a-smart-list.md)avanzato.
+   >Per limitare il rapporto in base ad attributi di persona specifici, potete [filtrare le persone in un rapporto con un elenco avanzato](filter-people-in-a-report-with-a-smart-list.md).
 
    >[!NOTE]
    >
    >**Tubo profondo**
    >
    >
-   >Per ulteriori modi di utilizzare i rapporti, consulta [Informazioni](http://docs.marketo.com/display/docs/basic+reporting) approfondite di base.
+   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
