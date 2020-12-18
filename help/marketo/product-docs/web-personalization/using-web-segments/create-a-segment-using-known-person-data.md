@@ -19,11 +19,11 @@ Ecco come creare un segmento utilizzando i valori Dati persona nota.
 >
 >[Gestisci dati persona](manage-person-data.md)
 
-1. Vai a **Segmenti**.
+1. Vai a **Segments**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Fate clic su **Crea nuovo**.
+1. Fare clic su **Crea nuovo**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -49,7 +49,7 @@ Ecco come creare un segmento utilizzando i valori Dati persona nota.
 
 ## Selezione di più campi dati di persona {#selecting-multiple-person-data-fields}
 
-1. Fare clic **+** per aggiungere un altro campo dati per la persona.
+1. Fare clic su **+** per aggiungere un altro campo di dati per le persone.
 
    ![](assets/eight.png)
 
