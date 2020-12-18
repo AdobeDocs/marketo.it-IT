@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Applicazione del mascheramento di input a un campo di un modulo {#apply-input-masking-to-a-field-in-a-form}
+# Applicare il mascheramento di input a un campo in un modulo {#apply-input-masking-to-a-field-in-a-form}
 
 Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad esempio, potete desiderare che i visitatori inseriscano i numeri di telefono solo in un formato specifico.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selezionate il campo e accertatevi che il **campo** **Tipo** sia impostato su **Testo**.
+1. Selezionare il campo e assicurarsi che il campo **Field** **Type** sia impostato su **Text**.
 
    >[!NOTE]
    >
-   >Il mascheramento di input funziona solo con i tipi **di campo di** testo.
+   >Il mascheramento di input funziona solo con i tipi di campo di testo **Tipi di campo di testo**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Fate clic sul collegamento **Maschera** **input** .
+1. Fare clic sul collegamento **Maschera** **Input**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -47,7 +47,7 @@ Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad ese
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
