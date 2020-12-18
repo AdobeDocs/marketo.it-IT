@@ -15,20 +15,20 @@ ht-degree: 0%
 
 Cambiate idea? Non è un problema. Ridenominazione di una fase nel modello del ciclo di ricavi è semplice.
 
-1. Andate all&#39;area **Analytics** .
+1. Andate all&#39;area **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Selezionare un modellatore del ciclo di ricavi da aggiornare. Fate clic su **Modifica bozza**.
+1. Selezionare un modellatore del ciclo di ricavi da aggiornare. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Selezionate l’area di visualizzazione da aggiornare e immettete un nuovo **nome**.
+1. Selezionate l&#39;area di visualizzazione da aggiornare e immettete un nuovo **Nome**.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
    Fate clic su Chiudi.
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Vedete? Facile! Ricorda di [approvare il modello](approve-unapprove-a-revenue-model.md).
+   Vedete? Facile! Ricordare di [Approvare il modello](approve-unapprove-a-revenue-model.md).
 
