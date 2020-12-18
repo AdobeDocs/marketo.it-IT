@@ -15,6 +15,8 @@ ht-degree: 0%
 
 Di seguito sono riportati i dettagli relativi agli aggiornamenti apportati alle personalizzazioni di Marketing Connect per Salesforce.
 
-**Campi** attività versione 1, Campi contatto, Campi lead, Campi account, Campi opportunità, Pulsanti, [questi campi](http://docs.marketo.com/x/wQDh)marketing.
+**Campi**
+attività versione 1, Campi contatto, Campi lead, Campi account, Campi opportunità, Pulsanti,  [questi campi](http://docs.marketo.com/x/wQDh) marketing.
 
-**La versione 1.1** Campi attività, Campi contatto, Campi lead, Campi account, Campi opportunità, Pulsanti, Campi marketing ora sono disponibili nel layout di pagina per Salesforce Lightning.
+**La versione 1.1**
+Campi attività, Campi contatto, Campi lead, Campi account, Campi opportunità, Pulsanti, Campi marketing ora sono disponibili nel layout di pagina per Salesforce Lightning.
