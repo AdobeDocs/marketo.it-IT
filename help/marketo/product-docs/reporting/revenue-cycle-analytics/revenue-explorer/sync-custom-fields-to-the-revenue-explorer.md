@@ -19,27 +19,27 @@ In Analisi del ciclo delle entrate è possibile generare rapporti sui campi Mark
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Selezionare Analisi del ciclo **delle entrate**.
+1. Selezionare **Analisi del ciclo economico**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Fare clic sulla scheda **Personalizzato Sincronizzazione** campo e selezionare l&#39;area di analisi desiderata.
+1. Fare clic sulla scheda **Sincronizzazione campo personalizzata** e selezionare l&#39;area di analisi desiderata.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Selezionate il campo per il quale desiderate abilitare la sincronizzazione e fate clic su **Modifica opzione** di sincronizzazione.
+1. Selezionate il campo per il quale desiderate abilitare la sincronizzazione e fate clic su **Modifica opzione di sincronizzazione**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Cambia lo stato **di** sincronizzazione in **attivato**.
+1. Modificate **Stato sincronizzazione** in **Abilitato**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Selezionare il tipo **** RCA desiderato, quindi fare clic su **Salva**.
+1. Selezionare il **RCA Type** desiderato, quindi fare clic su **Save**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
