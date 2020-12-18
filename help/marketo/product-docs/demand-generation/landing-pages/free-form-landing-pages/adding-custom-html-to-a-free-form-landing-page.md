@@ -23,7 +23,7 @@ Potete aggiungere script personalizzati, CSS o altro HTML alle pagine di destina
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Nell’editor della pagina di destinazione, trascinate l’elemento **HTML** .
+1. Nell&#39;editor della pagina di destinazione, trascinare nell&#39;elemento **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
