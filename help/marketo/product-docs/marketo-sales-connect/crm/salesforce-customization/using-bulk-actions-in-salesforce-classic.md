@@ -25,11 +25,11 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
 ## E-mail di massa {#bulk-email}
 
-1. In Salesforce, fai clic sulla scheda **Lead** , quindi sul pulsante **Vai** .
+1. In Salesforce, fare clic sulla scheda **Lead**, quindi sul pulsante **Go**.
 
    ![](assets/one-5.png)
 
-1. Scegliete i lead desiderati e fate clic sul pulsante **E-mail con MSC (Classic)** .
+1. Scegliete i lead desiderati e fate clic sul pulsante **E-mail con MSC (Classic)**.
 
    ![](assets/two-5.png)
 
@@ -43,31 +43,31 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
    ![](assets/three-4.png)
 
-## Aggiungi a campagna {#add-to-campaign}
+## Aggiungi alla campagna {#add-to-campaign}
 
-1. In Salesforce, fai clic sulla scheda **Lead** , quindi sul pulsante **Vai** .
+1. In Salesforce, fare clic sulla scheda **Lead**, quindi sul pulsante **Go**.
 
    ![](assets/four-3.png)
 
-1. Scegliete i lead desiderati e fate clic sul pulsante **Aggiungi a campagna MSC (Classic)** .
+1. Scegliete i lead desiderati e fate clic sul pulsante **Aggiungi a campagna MSC (Classic)**.
 
    ![](assets/five-3.png)
 
-1. Viene visualizzata una finestra a comparsa &quot;Aggiungi persone alla campagna&quot;. Fate clic su **Avanti** e seguite il flusso tipico della campagna per attivare una campagna MSC.
+1. Viene visualizzata una finestra a comparsa &quot;Aggiungi persone alla campagna&quot;. Fate clic su **Next** e seguite il flusso di campagne tipico per attivare una campagna MSC.
 
    ![](assets/six.png)
 
 ## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. In Salesforce, fai clic sulla scheda **Lead** , quindi sul pulsante **Vai** .
+1. In Salesforce, fare clic sulla scheda **Lead**, quindi sul pulsante **Go**.
 
    ![](assets/seven-1.png)
 
-1. Scegliete i lead desiderati e fate clic sul pulsante **Premi a MSC (Classic)** .
+1. Scegliete i lead desiderati e fate clic sul pulsante **Premi a MSC (Classic)**.
 
    ![](assets/eight-1.png)
 
-1. Viene aperta una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fate clic sul **pulsante Procedi a raggruppare** .
+1. Viene aperta una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fare clic sul pulsante **Procedi al gruppo →**.
 
    ![](assets/nine-1.png)
 
