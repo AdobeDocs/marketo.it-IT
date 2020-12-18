@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Approvare un frammento {#approve-a-snippet}
+# Approva un snippet {#approve-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Fare clic sul **frammento** e quindi in **Azioni** snippet fare clic su **Approva**.
+1. Fare clic sul **snippet** e quindi in **Azioni snippet** fare clic su **Approva**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
