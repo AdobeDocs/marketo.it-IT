@@ -23,7 +23,7 @@ Il rapporto Riepilogo è una visualizzazione mensile di tutte le campagne e dell
 >
 >Conversione assistita: Un visitatore Web che compila qualsiasi modulo sul sito Web e lascia il proprio indirizzo e-mail, che in una precedente visita (negli ultimi 6 mesi) ha fatto clic su una campagna personalizzata o su una risorsa contenuto consigliata.
 
-In Web Personalization (Personalizzazione Web),** **vai ad **Analytics** e al report **di** riepilogo.   ![](assets/image2016-4-6-10-3a15-3a58.png)
+In Personalizzazione Web,** **passare a **Analytics** e **Report di riepilogo**.   ![](assets/image2016-4-6-10-3a15-3a58.png)
 
 Selezionare** Mese** e fare clic su **Mostra rapporto**.
 
@@ -31,23 +31,23 @@ Selezionare** Mese** e fare clic su **Mostra rapporto**.
 
 La prima parte del rapporto si riferisce alle campagne di personalizzazione del Web e visualizza:
 
-* **Clic** - tutti i clic su campagne di Web Personalization
+* **Clic**  - tutti i clic su campagne di Web Personalization
 * **Conversioni dirette **- tutti i visitatori che hanno fatto clic su una campagna di Web Personalization durante la visita e hanno compilato un modulo
-* **Tasso** di conversione diretta: la percentuale di visitatori che sono diventati un lead diretto dopo aver fatto clic su una campagna di Web Personalization. Lead diretti divisi per clic
-* **Conversioni** assistite: tutti i visitatori che hanno compilato un modulo e fatto clic su una campagna di Web Personalization in una visita precedente (negli ultimi 6 mesi)
-* **Suggerimenti** - suggerimenti per ottimizzare le prestazioni della campagna Web Personalization
-* **Campagne** principali: le campagne con le migliori prestazioni nel periodo di tempo selezionato, ordinate per numero di clic
+* **Tasso**  di conversione diretta: la percentuale di visitatori che sono diventati un lead diretto dopo aver fatto clic su una campagna di Web Personalization. Lead diretti divisi per clic
+* **Conversioni**  assistite: tutti i visitatori che hanno compilato un modulo e hanno fatto clic su una campagna di Web Personalization in una visita precedente (negli ultimi 6 mesi)
+* **Suggerimenti**  - suggerimenti per ottimizzare le prestazioni della campagna Web Personalization
+* **Campagne**  principali: le campagne con le migliori prestazioni nel periodo di tempo selezionato, ordinate per numero di clic
 
 ![](assets/3.png)
 
 La seconda parte del rapporto si riferisce al contenuto consigliato dal motore di raccomandazione del contenuto di Personalizzazione Web. Viene visualizzato:
 
-* **Clic** - tutti i clic sul contenuto consigliato di Web Personalization
+* **Clic**  - tutti i clic sul contenuto consigliato di Web Personalization
 * **Conversioni dirette **- tutti i visitatori che hanno fatto clic sui contenuti consigliati durante la visita e hanno compilato un modulo
-* **Tasso** di conversione diretta: la percentuale di visitatori che sono diventati un lead diretto dopo aver fatto clic sul contenuto consigliato. Lead diretti divisi per clic
+* **Tasso**  di conversione diretta: la percentuale di visitatori che sono diventati un lead diretto dopo aver fatto clic sul contenuto consigliato. Lead diretti divisi per clic
 * **Conversioni assistite ** - tutti i visitatori che hanno compilato un modulo e fatto clic sul contenuto consigliato in una visita precedente (negli ultimi 6 mesi)
 * **Suggerimenti** : suggerimenti per l&#39;ottimizzazione con Content Recommendation Engine
-* **Top Recommendations** : il contenuto consigliato con le migliori prestazioni durante il periodo di tempo selezionato, ordinato per numero di clic
+* **Top Recommendations** : il contenuto consigliato dalle prestazioni migliori durante il periodo di tempo selezionato, ordinato per numero di clic
 
 >[!NOTE]
 >
