@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Come inviare un&#39;e-mail dal coinvolgimento delle vendite {#how-to-send-an-email-from-sales-engage}
 
-1. Fate clic sul pulsante **Componi** in alto a destra nel centro comandi.
+1. Fare clic sul pulsante **Componi** in alto a destra del centro comandi.
 1. Digitare l&#39;indirizzo e-mail e il nome del destinatario.
 1. Immettete l’oggetto del messaggio e-mail.
 1. Selezionate un modello e-mail o scrivete un nuovo messaggio.
-1. Quando il messaggio e-mail è pronto, fate clic su **Invia**. L’e-mail verrà tenuta traccia dell’apertura e della selezione di eventuali collegamenti da parte di un utente.
+1. Quando il messaggio e-mail è pronto, fare clic su **Invia**. L’e-mail verrà tenuta traccia dell’apertura e della selezione di eventuali collegamenti da parte di un utente.
 
