@@ -17,7 +17,7 @@ Anche se Marketo ospita le pagine di destinazione, l’URL può essere completam
 `<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` Il suo aspetto:
 `<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
 
-## Scegliere un CNAME {#choose-a-cname}
+## Scegliete un CNAME {#choose-a-cname}
 
 Scegliete una parola da inserire all’inizio dell’URL per le pagine di destinazione. È solo una parola e dovrebbe essere relativamente breve. Esempi:
 
@@ -25,11 +25,11 @@ Scegliete una parola da inserire all’inizio dell’URL per le pagine di destin
 * info. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
 * pagine. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
 
-La parola (più [YourCompany.com](http://YourCompany.com)) è denominata CNAME. Ne avrete bisogno in un secondo momento, quindi prendetene nota.
+La sola parola (più [YourCompany.com](http://YourCompany.com)) è denominata CNAME. Ne avrete bisogno in un secondo momento, quindi prendetene nota.
 
 ## Trova la stringa account {#find-your-account-string}
 
-1. Andate nell&#39;area **Admin** e fate clic su Pagine di **destinazione.**
+1. Andate nell&#39;area **Admin** e fate clic su **Pagine di destinazione.**
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -37,7 +37,7 @@ La parola (più [YourCompany.com](http://YourCompany.com)) è denominata CNAME. 
    >
    >**Autorizzazioni amministratore richieste**
 
-1. Nella scheda **Landing** **Pages** (Pagine **di destinazione), copiate la** stringa **** account **dalla sezione** Settings (Impostazioni).
+1. Nella scheda **Destinazione** **Pagine**, copiare l&#39;account **Account** **String** dalla sezione **Impostazioni**.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
@@ -45,21 +45,21 @@ La parola (più [YourCompany.com](http://YourCompany.com)) è denominata CNAME. 
 
 ## Invia richiesta all&#39;IT {#send-request-to-it}
 
-Chiedete al personale IT di configurare il seguente CNAME: Sostituite la parola [CNAME] e STRINGA [] ACCOUNT con il testo del passaggio precedente.
+Chiedete al personale IT di configurare il seguente CNAME: (Sostituire la parola [CNAME] e [ACCOUNT STRING] con il testo del passaggio precedente.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) > STRINGA []ACCOUNT. [mktoweb.com](http://mktoweb.com/)
+[CNAME]. [YourCompany.com](http://yourcompany.com/) > STRINGA [ ]ACCOUNT. [mktoweb.com](http://mktoweb.com/)
 
-## Impostazione completa CNAME {#complete-cname-setup}
+## Impostazione CNAME completa {#complete-cname-setup}
 
-1. Una volta che il CNAME è stato creato dal reparto IT, accedi ad **Admin** e fai clic su **Landing** **Pages**(Pagine di destinazione).
+1. Una volta che il CNAME è stato creato dal reparto IT, passare a **Admin** e fare clic su **Landing** **Pages**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. Nella sezione **Impostazioni** , fate clic su **Modifica**.
+1. Nella sezione **Impostazioni**, fare clic su **Modifica**.
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Immettete il CNAME nel **nome** **di dominio** **per** le **pagine** di destinazione ******** ******** ****, immettete il vostro fallbackpagina, immettete il vostro nome di dominioe fate clic su Salva.
+1. Inserire il CNAME in **Dominio** **nome** **per** **Destinazione** **Pagine**, inserire il **Fallback** **pagina&lt;a13/ , inserire la** homepage **e fare clic su** Salva **.**
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
