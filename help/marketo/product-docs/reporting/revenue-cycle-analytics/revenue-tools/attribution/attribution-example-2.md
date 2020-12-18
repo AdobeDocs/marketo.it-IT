@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Attribuzione Esempio 2 {#attribution-example}
+# Esempio di attribuzione 2 {#attribution-example}
 
 Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero essere nella griglia.
 
