@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Scopri come creare un elenco di report/chiamate con priorità utilizzando i dati di coinvolgimento delle e-mail di ToutApp per focalizzare il tuo tempo sulle persone o sulle opportunità con uno slancio.
 
-1. Accedete all&#39;account nell&#39;applicazione [](http://toutapp.com/login)Web. Una volta completati i passaggi descritti di seguito, nell&#39;area di vendita di Adobe Connect verrà salvato un elenco di chiamate prioritarie per assegnare priorità ai lead/account più caldi, per riattivare i lead/account che sono diventati scuri, per acquisire i risultati più bassi e per ridurre il tempo necessario per collegarsi tra i tocchi della campagna.
+1. Accedete all&#39;account nell&#39; [applicazione Web](http://toutapp.com/login). Una volta completati i passaggi descritti di seguito, nell&#39;area di vendita di Adobe Connect verrà salvato un elenco di chiamate prioritarie per assegnare priorità ai lead/account più caldi, per riattivare i lead/account che sono diventati scuri, per acquisire i risultati più bassi e per ridurre il tempo necessario per collegarsi tra i tocchi della campagna.
 1. Completa i seguenti passaggi.
 
    * Fare clic su &quot;Opzioni di visualizzazione&quot;
