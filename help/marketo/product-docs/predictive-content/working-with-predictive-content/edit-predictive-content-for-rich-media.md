@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Modifica di contenuti predittivi per contenuti multimediali avanzati {#edit-predictive-content-for-rich-media}
+# Modifica contenuto predittivo per contenuti multimediali avanzati {#edit-predictive-content-for-rich-media}
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o<sup>ContentAI</sup>. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni<sup>ContentAI</sup> Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a<sup>ContentAI</sup>di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi Marketo o contenuti<sup>AI</sup>. Per gli utenti che utilizzano contenuti predittivi, Marketo abilita le funzionalità di analisi di Content<sup>AI</sup> fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo<sup>AI</sup>.
 
 Come impostare i contenuti predittivi per i contenuti multimediali avanzati.
 
 >[!PREREQUISITES]
 >
->Il contenuto deve essere [approvato per il contenuto](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) predittivo nella pagina Tutto il contenuto.
+>Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutto il contenuto.
 
-1. Nella pagina **Predictive Content (Contenuto** predittivo), fate clic su un titolo per aprire l’editor.
+1. Nella pagina **Predictive Content**, fate clic su un titolo per aprire l&#39;editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Fate clic su **Contenuti multimediali** avanzati.
+1. Fare clic su **Contenuti multimediali**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -35,11 +35,11 @@ Come impostare i contenuti predittivi per i contenuti multimediali avanzati.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Digitare in una **descrizione**.
+1. Digitare in **Description**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Fare clic sulla casella **Categorie** per selezionare/aggiungere [le categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facoltativo).
+1. Fare clic sulla casella **Categorie** per selezionare/aggiungere [categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facoltativo).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ Come impostare i contenuti predittivi per i contenuti multimediali avanzati.
 
    ![](assets/six-1.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/save.png)
