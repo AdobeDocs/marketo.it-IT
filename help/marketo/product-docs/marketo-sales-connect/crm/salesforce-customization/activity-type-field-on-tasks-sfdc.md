@@ -24,13 +24,13 @@ Con l&#39;aiuto di Sales Connect potete far registrare e-mail e chiamate come at
 * Connessione con Salesforce
 * Nessun valore Tipo predefinito selezionato nell&#39;elenco di selezione Tipo attività
 * Call, Reply e Email devono essere tutti presenti nella casella di controllo Tipo task (maiuscole)
-* Nessuna azione `Workflows` o `Triggers` azione sul valore del campo Tipo
+* Nessuna azione `Workflows` o `Triggers` sul valore del campo Type
 
 ## Configurazione {#setup}
 
 Innanzitutto verificate di disporre dei valori corretti per la selezione. Avrai bisogno dell&#39;aiuto dell&#39;amministratore Salesforce per apportare eventuali modifiche all&#39;elenco di selezione.
 
-1. Andate su [Salesforce.com](http://Salesforce.com) e fate clic su Configurazione nell’angolo in alto a destra.
+1. Andate su [Salesforce.com](http://Salesforce.com) e fate clic su Configurazione nell&#39;angolo in alto a destra.
 1. Fate clic su Personalizza.
 1. Fate clic su Attività.
 1. Fare clic su Campi attività.
@@ -42,4 +42,4 @@ Ora che è già presente, il campo Tipo compila il valore corrispondente per le 
 
 >[!NOTE]
 >
->Se il valore &quot;Rispondi&quot; non è visualizzato, aggiungilo facendo clic su **Nuovo**. &#39;Reply&#39; non è un valore standard in Salesforce.
+>Se non viene visualizzato il valore &quot;Rispondi&quot;, aggiungilo facendo clic su **Nuovo**. &#39;Reply&#39; non è un valore standard in Salesforce.
