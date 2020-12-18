@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creare un rapporto di analisi per l&#39;appartenenza al programma in cui siano elencati i lead {#build-a-program-membership-analysis-report-that-lists-leads}
+# Creare un rapporto di analisi per l&#39;appartenenza al programma che elenca i lead {#build-a-program-membership-analysis-report-that-lists-leads}
 
 Per creare un rapporto di analisi per l&#39;iscrizione al programma che mostri tutti i nomi dei membri del programma, effettuate le seguenti operazioni.
 
@@ -49,7 +49,7 @@ Vedete quanto era facile?
 
 ![](assets/seven.png)
 
-Potete aggiungere rapidamente un attributo lead, ad esempio Nome **** completo, per verificare chi sono i membri.
+Potete aggiungere rapidamente un attributo lead, ad esempio **Nome completo**, per vedere chi sono i membri.
 
 >[!TIP]
 >
