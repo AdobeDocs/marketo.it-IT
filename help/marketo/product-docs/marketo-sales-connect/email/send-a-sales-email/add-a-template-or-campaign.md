@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Aggiungere un modello o una campagna {#add-a-template-or-campaign}
 
-Per aggiungere un modello o una campagna a un messaggio e-mail, aprite una nuova finestra Componi. Modelli e campagne sono sul lato destro. Fare clic sul menu a discesa **Categorie** .
+Per aggiungere un modello o una campagna a un messaggio e-mail, aprite una nuova finestra Componi. Modelli e campagne sono sul lato destro. Fare clic sul menu a discesa **Categorie**.
 
-Per aggiungere un modello, fate clic su **Modello** e selezionate il modello da inviare.
+Per aggiungere un modello, fare clic su **Modello** e selezionare il modello da inviare.
 
-Se aggiungete una campagna, fate clic sulla scheda **Campagna** .
+Se aggiungete una campagna, fate clic sulla scheda **Campaign**.
 
-Se avete appena aggiunto o modificato i messaggi nell’applicazione [](http://toutapp.com/login)Web, fate clic sul pulsante **Aggiorna** per verificare di disporre della versione più recente.
+Se hai aggiunto o modificato i messaggi nell&#39; [applicazione Web](http://toutapp.com/login), accertati di fare clic sul pulsante **Aggiorna** per verificare che sia attiva la versione più recente.
