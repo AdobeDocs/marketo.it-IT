@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Invio e tracciamento da Outlook con un modello Marketo {#send-and-track-from-outlook-using-a-marketo-template}
+# Invia e tieni traccia da Outlook utilizzando un modello Marketo {#send-and-track-from-outlook-using-a-marketo-template}
 
 Se il team di marketing ti ha reso disponibili i modelli, ecco come utilizzarli per risparmiare tempo nella composizione delle e-mail.
 
-1. Aprite Microsoft Outlook e fate clic su Messaggio **marketing**.
+1. Aprire Microsoft Outlook e fare clic su **Messaggio marketing**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
@@ -23,7 +23,7 @@ Se il team di marketing ti ha reso disponibili i modelli, ecco come utilizzarli 
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Apportate tutte le modifiche desiderate, quindi fate clic su **Invia e tieni traccia**.
+1. Apportate tutte le modifiche, quindi fate clic su **Invia e tieni traccia**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -34,7 +34,7 @@ Se il team di marketing ti ha reso disponibili i modelli, ecco come utilizzarli 
    >
    >I token non sono supportati con il componente aggiuntivo. Rimuovete eventuali elementi eventualmente presenti nel modello.
 
-1. Controlla l’anteprima, accertati che sia buona, quindi fai clic su **Invia**.
+1. Controlla l&#39;anteprima, accertati che sia buona, quindi fai clic su **Send**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
