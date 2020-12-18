@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Punti forti {#hard-bounces}
+# Punti fissi {#hard-bounces}
 
 Si verifica un duro errore quando un&#39;e-mail non è riuscita a causa di un indirizzo e-mail non valido.
 
@@ -23,9 +23,9 @@ Si verifica un duro errore quando un&#39;e-mail non è riuscita a causa di un in
 
 >[!NOTE]
 >
->Vuoi configurare Sales Connect in modo che venga utilizzato dal tuo provider SMTP? Vai [qui](http://docs.marketo.com/x/zYTS)e basta.
+>Vuoi configurare Sales Connect in modo che venga utilizzato dal tuo provider SMTP? Basta andare [qui](http://docs.marketo.com/x/zYTS).
 
-## Elenco delle e-mail rimbalzate {#list-of-bounced-emails}
+## Elenco delle e-mail con rimbalzo {#list-of-bounced-emails}
 
 Puoi trovare un elenco delle e-mail rimbalzate nella scheda Bloccato del centro comandi.
 
