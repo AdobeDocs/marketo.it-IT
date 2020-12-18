@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Approvare, annullare l’approvazione o eliminare una pagina di destinazione {#approve-unapprove-or-delete-a-landing-page}
+# Approvare, annullare l&#39;approvazione o eliminare una pagina di destinazione {#approve-unapprove-or-delete-a-landing-page}
 
 Le pagine di destinazione sono in modalità bozza finché non vengono approvate. L&#39;approvazione rende disponibili le pagine nel resto del sistema. Quando modificate una pagina di destinazione approvata, Marketo salva la bozza, ma continua a utilizzare la versione approvata fino all&#39;approvazione della bozza.
 
 ## Approva una pagina di destinazione {#approve-a-landing-page}
 
-1. Selezionate una pagina di destinazione, passate a Azioni **pagina di** destinazione e fate clic su **Approva**.
+1. Selezionate una pagina di destinazione, andate a **Azioni pagina di destinazione** e fate clic su **Approva**.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **Approva**.
+1. È inoltre possibile fare clic con il pulsante destro del mouse sulla pagina di destinazione e fare clic su **Approva**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -37,21 +37,21 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
    >Una volta approvata, l&#39;icona della pagina di destinazione sarà contrassegnata da un segno di spunta verde.
 
 1. Disapprovare una pagina di destinazione
-1. Selezionate una pagina di destinazione, passate a Azioni **pagina di** destinazione e fate clic su **Annulla approvazione**.
+1. Selezionate una pagina di destinazione, andate a **Azioni pagina di destinazione** e fate clic su **Annulla approvazione**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **Annulla approvazione**.
+1. È inoltre possibile fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **Annulla approvazione**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->La pagina di destinazione non approvata non viene più pubblicata sul Web e non genererà alcuna attività aggiuntiva. I visitatori delle pagine di destinazione non approvate e delle relative schede Facebook visualizzeranno la pagina di [fallback](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>La pagina di destinazione non approvata non viene più pubblicata sul Web e non genererà alcuna attività aggiuntiva. I visitatori delle pagine di destinazione non approvate e delle relative schede Facebook visualizzeranno la [pagina di fallback](../../../../product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Eliminare una pagina di destinazione {#delete-a-landing-page}
 
-1. Selezionate una pagina di destinazione, passate a Azioni **pagina di** destinazione e fate clic su **Elimina**.
+1. Selezionate una pagina di destinazione, andate a **Azioni pagina di destinazione** e fate clic su **Elimina**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -67,7 +67,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 Eliminare più pagine di destinazione per volta? Ecco come.
 
-1. In Design Studio, fate clic su Pagine **di** destinazione.
+1. In Design Studio, fare clic su **Pagine di destinazione**.
 
    ![](assets/one.png)
 
@@ -79,11 +79,11 @@ Eliminare più pagine di destinazione per volta? Ecco come.
    >
    >Per eliminare più pagine di destinazione che non sono sequenziali, è inoltre possibile utilizzare il tasto Ctrl+clic.
 
-1. Fare clic sul menu a discesa Azioni **pagina di** destinazione e selezionare **Elimina**.
+1. Fare clic sul menu a discesa **Azioni pagina di destinazione** e selezionare **Elimina**.
 
    ![](assets/three.png)
 
-1. Fate clic su **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/four.png)
 
