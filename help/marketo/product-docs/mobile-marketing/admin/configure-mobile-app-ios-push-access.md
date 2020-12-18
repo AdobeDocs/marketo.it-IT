@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Avrete bisogno di un **certificato** e di una **password** dallo sviluppatore di app mobili. Lo sviluppatore riceve questi dati accedendo ad Apple Developer Member Center, configurando e scaricando un certificato di notifica push per la vostra app ed esportando il contenuto. Lo sviluppatore imposta la password al momento dell&#39;esportazione. **IMPORTANTE**: Il certificato deve essere appropriato per il tipo di ambiente utilizzato: Sandbox o Production. Verificate questo problema con il vostro sviluppatore di app per dispositivi mobili o con l&#39;amministratore di marketing.
+   >Sarà necessario un **Certificato** e **Password** dallo sviluppatore delle app mobili. Lo sviluppatore riceve questi dati accedendo ad Apple Developer Member Center, configurando e scaricando un certificato di notifica push per la vostra app ed esportando il contenuto. Lo sviluppatore imposta la password al momento dell&#39;esportazione. **IMPORTANTE**: Il certificato deve essere appropriato per il tipo di ambiente utilizzato: Sandbox o Production. Verificate questo problema con il vostro sviluppatore di app per dispositivi mobili o con l&#39;amministratore di marketing.
 
 1. Selezionate il certificato, immettete la password e fate clic su Salva.
 
