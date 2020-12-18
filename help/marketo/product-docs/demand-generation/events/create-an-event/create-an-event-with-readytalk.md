@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [Aggiungi ReadyTalk come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Imposta le [azioni di flusso appropriate](http://docs.marketo.com/display/DOCS/Flow+Actions)per monitorare il coinvolgimento
+>* Impostare le azioni di flusso [appropriate](http://docs.marketo.com/display/DOCS/Flow+Actions)per tenere traccia del coinvolgimento
 
 
-Configurate innanzitutto l&#39;evento nel centro conferenze ReadyTalk. Se hai bisogno di aiuto, consulta il Centro risorse [ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Quando scegliete il tipo di registrazione, selezionate **preregistratevi prima della riunione**. Se selezionate *Registra al momento della riunione*, Marketo **non** acquisirà uno stato Registrato per le persone e lo stato di Partecipante verrà registrato solo *dopo* la fine del seminario.
+Configurate innanzitutto l&#39;evento nel centro conferenze ReadyTalk. Se hai bisogno di aiuto, consulta il Centro risorse [ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Quando scegliete il tipo di registrazione, selezionate  **preregistratevi prima della riunione**. Se selezionate *registratevi al momento della riunione*, Marketo **non** acquisirà uno stato Registrato per le persone e lo stato sarà solo per le persone che partecipano *dopo* il webinar si conclude.
 
-Lasciate **notifica delle nuove registrazioni via e-mail** deselezionata.
+Lasciare **avvisare l&#39;utente di nuove registrazioni via e-mail** non selezionata.
 
 ![](assets/image2015-5-28-21-3a18-3a39.png)
 
@@ -30,11 +30,11 @@ Se utilizzi ReadyTalk per inviare e-mail di conferma, dovrai anche aggiungere un
 
 >[!NOTE]
 >
->Per pianificare un evento assistito da un operatore, fate clic sul collegamento **Richiedi servizi** evento situato sul lato sinistro della schermata iniziale del Centro conferenze per pianificare un evento con il nostro team di eventi.
+>Per pianificare un evento assistito da un operatore, fate clic sul collegamento **Richiedi servizi evento** situato sul lato sinistro della schermata iniziale del Centro conferenze per pianificare un evento con il nostro team eventi.
 
 Ora è possibile collegare l’evento a Marketo.
 
-1. Selezionate l’evento, fate clic su Azioni **** evento e infine su Impostazioni **evento.**
+1. Selezionate l&#39;evento, quindi fate clic su **Azioni evento** e infine su **Impostazioni evento.**
 
    ![](assets/image2015-5-18-12-3a46-3a47.png)
 
@@ -42,15 +42,15 @@ Ora è possibile collegare l’evento a Marketo.
    >
    >Il tipo di canale dell&#39;evento selezionato deve essere **webinar.**
 
-1. In Partner **evento,** selezionate **ProntoTalk**.
+1. In **Partner evento,** selezionare **ReadyTalk**.
 
    ![](assets/image2015-5-18-12-3a47-3a59.png)
 
-1. In **Login,** seleziona il tuo login ReadyTalk.
+1. In **Login,** selezionare il login di ReadyTalk.
 
    ![](assets/image2015-5-18-12-3a48-3a48.png)
 
-1. In **Evento**, selezionate l’evento da collegare, quindi fate clic su **Salva**.
+1. In **Evento**, selezionare l&#39;evento da collegare, quindi fare clic su **Salva**.
 
    ![](assets/image2015-5-18-12-3a51-3a35.png)
 
@@ -74,11 +74,11 @@ Ora è possibile collegare l’evento a Marketo.
 
    >[!TIP]
    >
-   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver aspettato troppo tempo non viene visualizzato nulla, selezionate **Aggiorna dal provider** webinar dal menu Azioni evento nella scheda **Riepilogo** dell’evento.
+   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver aspettato troppo a lungo non viene visualizzato nulla, selezionate **Aggiorna da provider webinar** dal menu Azioni evento nella scheda **Riepilogo** dell&#39;evento.
 
-## Visualizzazione della pianificazione  {#viewing-the-schedule}
+## Visualizzazione della pianificazione {#viewing-the-schedule}
 
-Nella vista [Pianificazione](http://docs.marketo.com/display/docs/program+schedule+view)programma, fate clic sulla voce del calendario relativa all&#39;evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
+Nella [vista programmazione programma](http://docs.marketo.com/display/docs/program+schedule+view), fare clic sulla voce del calendario relativa all&#39;evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
