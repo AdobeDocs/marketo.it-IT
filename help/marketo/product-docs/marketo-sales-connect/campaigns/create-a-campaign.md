@@ -24,7 +24,7 @@ Con le campagne è possibile:
 
 Quindi, come si configura una campagna?
 
-1. Fare clic sulla scheda **Campagne** .
+1. Fare clic sulla scheda **Campagne**.
 
    ![](assets/one-1.png)
 
@@ -34,17 +34,17 @@ Quindi, come si configura una campagna?
 
    >[!NOTE]
    >
-   >Per creare una nuova categoria, fai clic su** +* accanto a **Categorie**.
+   >Per creare una nuova categoria, fai clic sul simbolo** +* accanto a **Categorie**.
 
-1. La categoria scelta verrà selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fate clic su **Continua**.
+1. La categoria scelta verrà selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **Continue**.
 
    ![](assets/three-1.png)
 
-1. Fate clic su **Aggiungi un passo**.
+1. Fare clic su **Aggiungi un passo**.
 
    ![](assets/four-1.png)
 
-1. Scegli tra: E-mail, Call, InMail o Attività Personalizzata. In questo esempio scegliamo [E-mail](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Scegli tra: E-mail, Call, InMail o Attività Personalizzata. In questo esempio abbiamo scelto [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
 
    ![](assets/five-1.png)
 
@@ -56,7 +56,7 @@ Quindi, come si configura una campagna?
    >
    >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna avrà una durata di 7 giorni, inserendo &#39;3&#39; l&#39;azione verrà eseguita il giorno 3 di 7, **not **3 giorni dopo.
 
-1. Assicurati di personalizzare la pianificazione e le opzioni di risposta, ad esempio saltando i fine settimana (il che è fantastico), visitando la scheda **** Impostazioni della campagna.
+1. Assicurati di personalizzare la pianificazione e le opzioni di risposta, ad esempio saltare i fine settimana (che è fantastico) visitando la **scheda Settings** per la campagna.
 
    ![](assets/seven.png)
 
