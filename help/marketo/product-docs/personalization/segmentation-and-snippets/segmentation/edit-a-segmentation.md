@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Modifica di una segmentazione {#edit-a-segmentation}
+# Modificare una segmentazione {#edit-a-segmentation}
 
 È facile apportare modifiche alle segmentazioni esistenti. Ecco il basso.
 
-## Creare una bozza di segmentazione {#create-a-segmentation-draft}
+## Crea una bozza di segmentazione {#create-a-segmentation-draft}
 
-1. Vai al **database**.
+1. Accedere al **Database**.
 
    ![](assets/db.png)
 
-1. Nella segmentazione, fai clic su Azioni **di** segmentazione, quindi su **Crea bozza**.
+1. Nella segmentazione, fare clic su **Azioni segmentazione**, quindi su **Crea bozza**.
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-## Aggiunta, modifica o eliminazione di segmenti {#add-edit-or-delete-segments}
+## Aggiungere, modificare o eliminare segmenti {#add-edit-or-delete-segments}
 
-1. Nella segmentazione, fai clic su Azioni **di** segmentazione, quindi su **Modifica segmenti**.
+1. Nella segmentazione, fare clic su **Azioni segmentazione** e quindi su **Modifica segmenti**.
 
    ![](assets/four.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >L’eliminazione interessa tutti i contenuti dinamici associati nelle e-mail, nelle pagine di destinazione e negli snippet. **Non è possibile annullare**. Per vedere cosa utilizza quel segmento, selezionate la scheda **Usato da** .
+   >L’eliminazione interessa tutti i contenuti dinamici associati nelle e-mail, nelle pagine di destinazione e negli snippet. **Non è possibile annullare**. Controllare la scheda **Utilizzata da** per vedere cosa utilizza quel segmento.
 
 ## Modifica regole segmento {#edit-segment-rules}
 
-1. Nel **segmento** bozza, passate a Elenco **** avanzato. Applicare regole simili a [Definizione delle regole](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)di segmento.
+1. Nella bozza **Segment**, passare a **Smart List**. Applicare regole simili a [Definizione delle regole di segmento](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
