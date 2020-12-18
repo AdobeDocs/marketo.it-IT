@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Come condividere un modello {#how-to-share-a-template}
 
-Se utilizzi uno dei nostri account team, per impostazione predefinita tutti i modelli sono ancora privati. Fate clic sul pulsante **Condivisione** verde nella parte superiore del modello per condividerlo con il resto del team.
+Se utilizzi uno dei nostri account team, per impostazione predefinita tutti i modelli sono ancora privati. Fate clic sul pulsante verde **Condividi** nella parte superiore del modello per condividerlo con il resto del team.
 
-## Come trovare i modelli condivisi  {#how-to-find-shared-templates}
+## Come trovare i modelli condivisi {#how-to-find-shared-templates}
 
 I modelli condivisi con voi verranno visualizzati nell&#39;intestazione **Team Templates **sul lato sinistro della pagina Templates (Modelli).
 
