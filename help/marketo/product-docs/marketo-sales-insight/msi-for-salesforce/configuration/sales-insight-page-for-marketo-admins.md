@@ -39,11 +39,11 @@ Queste credenziali vengono utilizzate per collegare il tuo account Salesforce al
 
 Per impostazione predefinita, Marketing Sales Insight utilizza il campo Lead Score per calcolare stelle e fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
-1. Nell&#39;area **Admin** di Marketo, fai clic su **Sales Insight**.
+1. Nell&#39;area **Admin** di Marketo, fare clic su **Sales Insight**.
 
    ![](assets/four.png)
 
-1. In Impostazioni punteggio lead, fate clic su **Modifica**.
+1. In Impostazioni punteggio lead fare clic su **Modifica**.
 
    ![](assets/five.png)
 
@@ -55,13 +55,13 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo Lead Sco
 
    ![](assets/seven.png)
 
-1. Fate clic su **Salva**. Le informazioni sulle vendite richiederanno un po&#39; di tempo per eseguire nuovamente il calcolo. Puoi controllare il CRM in un secondo momento per vedere le stelle e le fiamme.
+1. Fare clic su **Salva**. Le informazioni sulle vendite richiederanno un po&#39; di tempo per eseguire nuovamente il calcolo. Puoi controllare il CRM in un secondo momento per vedere le stelle e le fiamme.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Se non hai già i campi di valutazione personalizzati, ecco come [crearli](http://docs.marketo.com/x/3wMk).
+   >Se non hai già i tuoi campi di valutazione personalizzati, ecco come [crearli](http://docs.marketo.com/x/3wMk).
 
    >[!NOTE]
    >
@@ -89,4 +89,4 @@ Quando attivato, gli utenti MSI non saranno in grado di modificare i modelli dur
 
 **Abilita feed RSS:**
 
-Quando è attivata, gli utenti MSI possono visualizzare il proprio Feed lead in un feed RSS (oltre al Feed lead in Salesforce)**.**
+Quando attivato, gli utenti MSI possono visualizzare il proprio Feed lead in un feed RSS (oltre al Feed lead in Salesforce)**.**
