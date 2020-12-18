@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Utilizzo di azioni rapide per velocizzare il flusso di lavoro {#using-quick-actions-to-speed-up-your-workflow}
+# Utilizzo di azioni rapide per velocizzare il flusso di lavoro{#using-quick-actions-to-speed-up-your-workflow}
 
 Esistono due tipi di colonne di azioni rapide nella griglia delle e-mail. Azioni e-mail, che consente di intervenire sull’e-mail, e Azioni di follow-up, per intraprendere azioni di coinvolgimento con pochi clic.
 
@@ -39,7 +39,7 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano a seconda delle azioni pi
   </tr> 
   <tr> 
    <td>Elimina</td> 
-   <td><p>Eliminerà il messaggio e-mail.<br><strong>Nota:</strong> I messaggi e-mail inviati come parte di una campagna non possono essere eliminati.</p></td> 
+   <td><p>Eliminerà il messaggio e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano a seconda delle azioni pi
   </tr> 
   <tr> 
    <td>Elimina</td> 
-   <td><p>Eliminerà il messaggio e-mail.<br><strong>Nota:</strong> I messaggi e-mail inviati come parte di una campagna non possono essere eliminati.</p></td> 
+   <td><p>Eliminerà il messaggio e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano a seconda delle azioni pi
   </tr> 
   <tr> 
    <td>Elimina</td> 
-   <td><p>Eliminerà il messaggio e-mail.<br><strong>Nota:</strong> I messaggi e-mail inviati come parte di una campagna non possono essere eliminati.</p></td> 
+   <td><p>Eliminerà il messaggio e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
 </table>
