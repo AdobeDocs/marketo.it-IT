@@ -43,18 +43,18 @@ Google Universal Analytics con i dati RTP offre una migliore comprensione di com
 
 1. In Google Analytics,
 
-   1. Vai ad **Amministratore**
-   1. Selezionate l’ **account.**
-   1. Selezionare la **proprietà.**
-   1. Selezionare **Definizioni personalizzate **e Dimension **personalizzati.**
+   1. Vai a **Admin**
+   1. Selezionare l&#39; **Account.**
+   1. Selezionare la proprietà **.**
+   1. Selezionare **Definizioni personalizzate **e **Dimension personalizzati.**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. Aggiungi una nuova dimensione personalizzata. Fare clic **+Nuovo Dimension personalizzato**
+1. Aggiungi una nuova dimensione personalizzata. Fare clic su **+Nuovo Dimension personalizzato**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Aggiungete i seguenti Dimension **personalizzati:**
+1. Aggiungere i seguenti Dimension **personalizzati:**
 
 <table> 
  <tbody> 
@@ -66,31 +66,31 @@ Google Universal Analytics con i dati RTP offre una migliore comprensione di com
   <tr> 
    <td><p><strong>RTP-Organization</strong></p></td> 
    <td><p>Sessione</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">AND</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Industry</strong></p></td> 
    <td><p>Sessione</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">AND</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Category</strong></p></td> 
    <td><p>Sessione</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">AND</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Group</strong></p></td> 
    <td><p>Sessione</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">AND</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->**I nomi** degli Dimension personalizzati devono essere esattamente come definiti nella tabella precedente (altrimenti le dashboard e i rapporti RTP personalizzati in GUA non verranno visualizzati correttamente)
+>**I** nomi degli Dimension personalizzati devono essere esattamente come definiti nella tabella precedente (altrimenti i dashboard e i rapporti RTP personalizzati in GUA non verranno visualizzati correttamente)
 
-1. Aggiungete il **Name. **Selezionare l&#39;ambito come **sessione.** Fate clic su **Crea.**
+1. Aggiungete il **Name. **Selezionare l&#39;ambito come **sessione.** Fate clic su  **Crea.**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -102,15 +102,15 @@ Una volta attivati i Dimension personalizzati in GUA, andate alla piattaforma RT
 
 ## Attivare l&#39;integrazione GUA nel proprio account RTP {#activate-the-gua-integration-in-your-rtp-account}
 
-1. Nella piattaforma RTP, andate a Impostazioni **account.**
+1. Nella piattaforma RTP, passare a **Impostazioni account.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. In Impostazioni **** account, fai clic su **Dominio.**
-1. In **Analytics, **fate clic su **Google Universal Analytics**.
-1. Attivate **** Dimension ed eventi personalizzati pertinenti per aggiungere questi dati da RTP a Google Universal Analytics.
-1. Immettere il numero **di** indice della dimensione allineata con il numero di indice in GUA.
-1. Fate clic su **Salva**.
+1. In **Impostazioni account** fare clic su **Dominio.**
+1. In **Analytics, **fare clic su **Google Universal Analytics**.
+1. Ruotare **On** i Dimension e gli eventi personalizzati pertinenti per aggiungere questi dati da RTP a Google Universal Analytics.
+1. Immettere il **numero di indice** della dimensione allineata con il numero di indice in GUA.
+1. Fare clic su **Salva**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
@@ -120,12 +120,12 @@ Una volta attivati i Dimension personalizzati in GUA, andate alla piattaforma RT
 >
 >Esempio: Numero indice RTP-Industry uguale a 1, Numero indice RTP-Organization uguale a 2.
 
-## Rimuovi vecchie dashboard nelle Google Analytics {#remove-old-dashboards-in-google-analytics}
+## Rimuovere vecchie dashboard nelle Google Analytics {#remove-old-dashboards-in-google-analytics}
 
-1. In Google Analytics. Vai a **Reporting (Generazione rapporti).**
+1. In Google Analytics. Vai a **Reporting.**
 1. Fare clic su **Dashboard.**
 1. Selezionare un **Dashboard **(RTP B2B o RTP Performance)
-1. Fate clic su **Elimina dashboard**.
+1. Fare clic su **Elimina dashboard**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
 
