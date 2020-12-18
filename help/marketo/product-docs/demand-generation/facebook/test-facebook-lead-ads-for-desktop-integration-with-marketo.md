@@ -17,10 +17,10 @@ Dopo aver creato il tuo annuncio lead, devi testarlo! Ecco come farlo sul deskto
 
 >[!PREREQUISITES]
 >
->Devi [configurare l&#39;integrazione](set-up-facebook-lead-ads.md)degli annunci lead di Facebook.
+>È necessario [configurare l&#39;integrazione degli annunci lead di Facebook](set-up-facebook-lead-ads.md).
 
-1. In Facebook Power Editor, selezionate una campagna, un annuncio e fate clic su **Modifica**.
-1. In **Collegamenti**, fate clic sul collegamento **Visualizza in Feed** notizie.
+1. In Facebook Power Editor, selezionare una campagna, un annuncio, quindi fare clic su **Edit**.
+1. In **Links** fare clic sul collegamento **Visualizza in News Feed**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -32,7 +32,7 @@ Dopo aver creato il tuo annuncio lead, devi testarlo! Ecco come farlo sul deskto
    >
    >Questo è solo un esempio, che utilizza un&#39;azione Ulteriori informazioni sulla chiamata all&#39;azione. La chiamata all&#39;azione dell&#39;unità di annuncio principale potrebbe essere diversa.
 
-1. Inviate l&#39;unità di test Lead Ad compilando il modulo sul desktop. Fate clic su **Invia**.
+1. Inviate l&#39;unità di test Lead Ad compilando il modulo sul desktop. Fare clic su **Invia**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -40,7 +40,7 @@ Dopo aver creato il tuo annuncio lead, devi testarlo! Ecco come farlo sul deskto
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [creare un elenco smart in Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) come parte di un programma o nel database che utilizza il filtro Modulo lead Ads Facebook compilato. Inserite il nome del modulo lead per il modulo appena inviato.
+1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [creare un elenco smart in Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) nell&#39;ambito di un programma o nel database che utilizza il filtro Modulo lead per annunci Facebook compilati. Inserite il nome del modulo lead per il modulo appena inviato.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
