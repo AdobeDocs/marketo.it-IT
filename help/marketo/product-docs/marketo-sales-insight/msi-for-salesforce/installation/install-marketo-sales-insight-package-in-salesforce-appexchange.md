@@ -23,11 +23,11 @@ Devi installare l&#39;app Marketing Sales Insight nel tuo abbonamento Salesforce
 >
 >Marketing Sales Insight è compatibile con la crittografia della piattaforma Salesforce (Shield).
 
-1. Vai alla pagina [AppExchange di Marketing](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) e fai clic su **Ottieni ora**.
+1. Vai alla pagina [ AppExchange per Marketing Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) e fai clic su **Get Now** (Ottieni ora).
 
    ![](assets/one.png)
 
-1. Fai clic su **Accedi al pulsante AppExchange**  ed effettua l&#39;accesso con le tue credenziali Salesforce.
+1. Fai clic su **Accedi al pulsante AppExchange** ed effettua l&#39;accesso con le tue credenziali Salesforce.
 1. Immetti il login dell&#39;account Salesforce collegato e fai clic su **Installa in produzione**.
 
    ![](assets/three.png)
@@ -44,7 +44,7 @@ Devi installare l&#39;app Marketing Sales Insight nel tuo abbonamento Salesforce
 
    ![](assets/five.png)
 
-1. Una volta avviato il processo di installazione, potrebbe venire visualizzato il messaggio seguente. Una volta completata l&#39;installazione, riceverete un messaggio e-mail. Fate clic su **Fine** per chiudere.
+1. Una volta avviato il processo di installazione, potrebbe venire visualizzato il messaggio seguente. Una volta completata l&#39;installazione, riceverete un messaggio e-mail. Fare clic su **Fine** per chiudere.
 
    ![](assets/six.png)
 
@@ -52,7 +52,7 @@ Devi installare l&#39;app Marketing Sales Insight nel tuo abbonamento Salesforce
 
    ![](assets/seven.png)
 
-1. Fate clic su **Configurazione** accanto al vostro nome.
+1. Fare clic su **Setup** accanto al nome.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
@@ -60,7 +60,7 @@ Devi installare l&#39;app Marketing Sales Insight nel tuo abbonamento Salesforce
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Verificate che **Distribuito** sia controllato per tutti gli articoli di Marketing Sales Insight.
+1. Verificare che **Deployed** sia selezionato per tutti gli articoli di Marketing Sales Insight.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -68,7 +68,7 @@ Devi installare l&#39;app Marketing Sales Insight nel tuo abbonamento Salesforce
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. Nella sezione Stato **** distribuzione, selezionate **Distribuito** e fate clic su **Salva**.
+1. Nella sezione **Stato distribuzione**, selezionare **Distribuito**, quindi fare clic su **Salva**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
