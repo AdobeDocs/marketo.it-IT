@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personalizza messaggio di annullamento sottoscrizione {#customize-unsubscribe-link-message}
+# Personalizza messaggio di annullamento sottoscrizione{#customize-unsubscribe-link-message}
 
 Abbiamo sempre consentito ai team di personalizzare i messaggi dei collegamenti per l’annullamento della sottoscrizione, ma ora gli amministratori possono impostare i messaggi dei collegamenti per l’annullamento della sottoscrizione per l’intero team al fine di garantire la coerenza dei messaggi.
 
@@ -21,7 +21,7 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi dei collegamenti 
 
 ## Personalizzare i messaggi {#customize-messaging-for-yourself}
 
-1. Accedete all’applicazione [](http://toutapp.com/login)Web, fate clic sull’icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -41,17 +41,17 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi dei collegamenti 
    >
    >L’URL non sarà importante in quanto viene collegato in modo ipertestuale. Quando viene inviato il messaggio e-mail, il collegamento ipertestuale verrà convertito nel collegamento di annullamento della sottoscrizione.
 
-1. Fate clic su **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/five.png)
 
 ## Imposta messaggi di annullamento sottoscrizione per il team {#set-unsubscribe-messaging-for-your-team}
 
-1. Accedete all’applicazione [](http://toutapp.com/login)Web, fate clic sull’icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/six.png)
 
-1. In Impostazioni amministratore, selezionate **Annulla sottoscrizione**.
+1. In Impostazioni amministratore, seleziona **Annulla sottoscrizione**.
 
    ![](assets/eight.png)
 
@@ -59,7 +59,7 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi dei collegamenti 
 
    ![](assets/seven.png)
 
-1. Selezionate **Sto impostando il messaggio predefinito affinché il mio team** possa applicare il messaggio a tutti gli utenti.
+1. Selezionare **Sto impostando i messaggi predefiniti per il mio team** affinché i messaggi vengano applicati a tutti gli utenti.
 
    ![](assets/eleven.png)
 
