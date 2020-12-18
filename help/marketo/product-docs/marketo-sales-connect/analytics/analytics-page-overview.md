@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica della pagina Analisi {#analytics-page-overview}
+# Panoramica pagina di analisi {#analytics-page-overview}
 
 La scheda Analytics contiene i dati relativi al coinvolgimento delle e-mail. Vengono visualizzati sia i dati individuali che quelli del team. Gli amministratori possono anche filtrare in base all&#39;utente nella scheda Me.
 
@@ -21,9 +21,9 @@ La pagina di analisi viene aggiornata ogni dieci minuti.
 
 ## Cosa significano i numeri? {#what-do-the-numbers-mean}
 
-I numeri all&#39;interno `radials` calcolano il numero totale di eventi su tutte le e-mail inviate. Quindi, se `single same email is viewed five times, it will add five views`a questo numero. La stessa idea viene applicata ai clic e alle risposte conteggiate all&#39;interno del cerchio.
+I numeri all&#39;interno di `radials` calcolano il numero totale di eventi su tutte le e-mail inviate. Quindi se un `single same email is viewed five times, it will add five views`a questo numero. La stessa idea viene applicata ai clic e alle risposte conteggiate all&#39;interno del cerchio.
 
-Tutte le nostre statistiche conservate all&#39;interno del sito `table` saranno calcolate guardando le viste, i clic e le risposte univoche alle tue e-mail. Se `one email is viewed five times, we will count that as one view.` Questo è il motivo per cui si può vedere una grande differenza nei numeri nelle tabelle rispetto ai numeri nel radiale.
+Tutte le nostre statistiche conservate all&#39;interno del `table` saranno calcolate guardando le viste, i clic e le risposte univoche alle tue e-mail. Se `one email is viewed five times, we will count that as one view.` Questo è il motivo per cui si può vedere una grande differenza nei numeri nelle tabelle rispetto ai numeri nel radiale.
 
 ## Schede analitiche {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Qui potete vedere statistiche e classifiche di tutta la vostra squadra. Potete a
 
 La scheda del contenuto contiene stati su modelli, contenuto e collegamenti. Potete filtrare in base a tutti o in base ai team creati dagli amministratori.
 
-Se il testo blu è sotto la colonna dell’oggetto, significa che il modello è `shared`. Potete fare clic sul testo blu da spostare su tale modello. Visualizzate il relativo utilizzo facendo clic su Analisi **modello**.
+Se il testo blu è visualizzato sotto la colonna dell&#39;oggetto, significa che il modello è `shared`. Potete fare clic sul testo blu da spostare su tale modello. Visualizzate il relativo utilizzo facendo clic su **Analisi dei modelli**.
 
-I clic sul contenuto vengono conteggiati quando il destinatario fa clic su un collegamento nell’e-mail.
+I clic sul contenuto vengono conteggiati quando un destinatario fa clic su un collegamento nell’e-mail.
