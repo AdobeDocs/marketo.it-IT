@@ -27,7 +27,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
    >
    >Se includete più destinatari nell&#39;e-mail, tutte le attività saranno tracciate sotto il primo destinatario.
 
-1. Componi l’e-mail come faresti normalmente, quindi fai clic su **Invia e tieni traccia**.
+1. Componi l&#39;e-mail come faresti normalmente, quindi fai clic su **Invia e tieni traccia**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -37,7 +37,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
    >[!TIP]
    >
-   >Per utilizzare un modello Marketo, consulta [Inviare e tenere traccia da Outlook utilizzando un modello](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Per utilizzare un modello Marketo, vedere [Invia e tieni traccia da Outlook utilizzando un modello](send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Date un&#39;occhiata all&#39;anteprima e fate clic su **Invia**.
 
