@@ -15,24 +15,24 @@ ht-degree: 0%
 
 Scopri quali aziende stanno visitando il tuo sito Web. Potete scegliere di visualizzare i visitatori noti o anonimi, ma non entrambi nello stesso rapporto.
 
-Creare un rapporto [Attività pagina](web-page-activity-report.md) Web per vedere le singole persone che visitano il sito.
+Create un report sull&#39;attività di [pagina Web](web-page-activity-report.md) per vedere le singole persone che stanno visitando il sito.
 
 >[!PREREQUISITES]
 >
->Per acquisire l&#39;attività dal sito Web di Marketo, è prima necessario configurare [Munchkin sul sito](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Per acquisire l&#39;attività dal sito Web di Marketo, è innanzitutto necessario impostare [Munchkin sul sito ](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Create un rapporto](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selezionate il tipo di [rapporto](report-type-overview.md)Attività Web società.
-1. Scegliere di [visualizzare persone](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) conosciute o anonime nel rapporto.
-1. [Impostate l&#39;intervallo di tempo del rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fate clic sulla scheda **Rapporto** .
+1. [Create un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo di   [rapporto](report-type-overview.md) Attività Web società.
+1. Scegliere di [visualizzare persone conosciute o anonime](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) nel report.
+1. [Impostate l&#39;intervallo di tempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda  **** Rapporto.
 1. È tutto! Leggi il tuo rapporto per scoprire quali aziende stanno visitando il tuo sito.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Per trovare le aziende che visitano maggiormente il sito, [ordinate il rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna Visualizzazioni *di* pagina e scegliete **Ordinamento decrescente**.
+   >Per trovare le aziende che visitano maggiormente il sito, [ordinate il rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna *Visualizzazioni pagina* e scegliete **Ordinamento decrescente**.
 
-   [Le colonne che è possibile selezionare](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto Attività Web società comprendono:
+   [Le colonne che è possibile ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) selezionare per un rapporto Attività Web società includono:
 
 <table> 
  <thead> 
@@ -44,11 +44,11 @@ Creare un rapporto [Attività pagina](web-page-activity-report.md) Web per veder
  <tbody> 
   <tr> 
    <td>Azienda</td> 
-   <td>La società dei visitatori.<br> <strong>I nomi in grassetto</strong> sono confermati come il nome della società da almeno una persona.</td> 
+   <td>La società dei visitatori.<br> <strong>Nomi in </strong> boldare confermato di essere il nome della società da almeno una persona.</td> 
   </tr> 
   <tr> 
    <td>Società o ISP interessati</td> 
-   <td>La società, come ricavato dall'indirizzo IP dei visitatori. <br> <strong>I nomi in grassetto</strong> indicano che si tratta della società, non dell'ISP. </td> 
+   <td>La società, come ricavato dall'indirizzo IP dei visitatori. <br> <strong>I nomi in </strong> boldindicano che si tratta dell'azienda, non dell'ISP. </td> 
   </tr> 
   <tr> 
    <td>Visualizzazioni pagina</td> 
@@ -80,4 +80,4 @@ Creare un rapporto [Attività pagina](web-page-activity-report.md) Web per veder
 >
 >**Tubo profondo**
 >
->Scopri ulteriori informazioni su altri report interessanti nella sezione [Base Reporting (Generazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting) di base).
+>Ulteriori informazioni su altri report interessanti nella sezione [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
