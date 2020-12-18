@@ -24,11 +24,11 @@ Visualizzate l’anteprima della pagina di destinazione dopo l’aggiunta di con
 
 
 
-1. Selezionate una pagina di destinazione e fate clic su **Anteprima pagina.**
+1. Selezionare una pagina di destinazione e fare clic su **Anteprima pagina.**
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Fai clic sul menu a discesa e seleziona un **segmento** per visualizzarne l&#39;anteprima.
+1. Fare clic sul menu a discesa e selezionare un **Segmento** per visualizzarlo in anteprima.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
