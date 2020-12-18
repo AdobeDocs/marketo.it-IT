@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Includere un file ICS evento del calendario in una pagina di destinazione {#include-a-calendar-event-ics-file-in-a-landing-page}
+# Includi un file ICS evento del calendario in una pagina di destinazione {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-Un token per file **di** calendario consente di aggiungere un collegamento evento di calendario (.ics) alle pagine di destinazione Marketo.
+Un token **File di calendario** consente di aggiungere un collegamento evento di calendario (.ics) alle pagine di destinazione Marketo.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Un token per file **di** calendario consente di aggiungere un collegamento event
 
 
 
-1. Nell&#39;editor della pagina di destinazione, fai clic su **{...}** per inserire un token.
+1. Nell&#39;editor della pagina di destinazione, fare clic su **{...}** per inserire un token.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Selezionate il token del file **di** calendario e fate clic su **Inserisci**.
+1. Selezionare il token **Calendar File** e fare clic su **Insert**.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Un token per file **di** calendario consente di aggiungere un collegamento event
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    Viene visualizzata una pagina di destinazione simile alla seguente:   ![](assets/image2015-1-6-16-3a42-3a51.png)
 
