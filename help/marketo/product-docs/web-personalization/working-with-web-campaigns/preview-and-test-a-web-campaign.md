@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Anteprima e test di una campagna Web {#preview-and-test-a-web-campaign}
+# Visualizzare in anteprima e testare una campagna Web {#preview-and-test-a-web-campaign}
 
 Questo articolo mostra diversi modi per visualizzare l’anteprima di una campagna Web, nonché come testarla utilizzando un segmento sandbox live sul sito Web.
 
 ## Visualizzare l&#39;anteprima di una campagna Web nella pagina di creazione {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vai a **Web** **Campaigns**.
+1. Andate a **Web** **Campaigns**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -25,26 +25,26 @@ Questo articolo mostra diversi modi per visualizzare l’anteprima di una campag
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. In Anteprima sul sito, aggiungete l’URL della pagina e fate clic su **Anteprima**. Viene visualizzata una nuova finestra/scheda con l’anteprima della campagna.
+1. In Anteprima sul sito, aggiungete l&#39;URL della pagina e fate clic su **Anteprima**. Viene visualizzata una nuova finestra/scheda con l’anteprima della campagna.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Fate clic su **Condividi** per aprire un messaggio e-mail con un URL fisso dell’anteprima della campagna.
+   >Fate clic su **Condividi** per aprire un&#39;e-mail con un URL fisso dell&#39;anteprima della campagna.
 
    >[!NOTE]
    >
-   >Potete anche installare un plug-in del browser ( [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) per ottenere la migliore esperienza di visualizzazione dell&#39;anteprima della campagna. Vedere la sezione seguente.
+   >Potete anche installare un plug-in del browser ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) per ottenere la migliore esperienza di visualizzazione dell&#39;anteprima della campagna. Vedere la sezione seguente.
 
 ## Visualizzare l&#39;anteprima di una campagna Web nella pagina di creazione utilizzando il plug-in del browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Seguite i passaggi 1 e 2 dal `section above`.
+1. Seguite i passaggi 1 e 2 dal percorso `section above`.
 1. Fate clic sul collegamento al plug-in del browser (in questo caso stiamo utilizzando Chrome).
 
    ![](assets/4-1.png)
 
-1. Si apre una nuova finestra/scheda. Fate clic su **Aggiungi a Chrome**.
+1. Si apre una nuova finestra/scheda. Fare clic su **Aggiungi a Chrome**.
 
    ![](assets/five.png)
 
@@ -52,7 +52,7 @@ Questo articolo mostra diversi modi per visualizzare l’anteprima di una campag
 
    ![](assets/six.png)
 
-1. Torna a Marketo. Aggiungete l’URL della pagina e fate clic su **Anteprima**.
+1. Torna a Marketo. Aggiungete l&#39;URL della pagina e fate clic su **Anteprima**.
 
    ![](assets/seven.png)
 
@@ -62,21 +62,21 @@ Questo articolo mostra diversi modi per visualizzare l’anteprima di una campag
 
 ## Anteprima di una campagna Web nella pagina Campagne Web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Osservando l&#39;elenco delle campagne Web, è sufficiente scegliere una campagna e fare clic sull&#39;icona **Anteprima** .
+1. Osservando l&#39;elenco delle campagne Web, è sufficiente scegliere una campagna e fare clic sull&#39;icona **Preview**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
    Facile!
 
-## Visualizzare l&#39;anteprima di una campagna Web sul sito Web {#preview-a-web-campaign-on-your-website}
+## Visualizzare in anteprima una campagna Web sul sito Web {#preview-a-web-campaign-on-your-website}
 
 Crea un segmento e una campagna sandbox.
 
-1. Vai a **Segmenti**.
+1. Vai a **Segments**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Fate clic su **Crea nuovo**.
+1. Fare clic su **Crea nuovo**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
