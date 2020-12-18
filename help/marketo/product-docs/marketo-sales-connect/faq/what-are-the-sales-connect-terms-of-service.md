@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Quali sono le condizioni del servizio di vendita Connect? {#what-are-the-sales-connect-terms-of-service}
 
-Le Condizioni del servizio di vendita di Connect si trovano [qui](http://documents.marketo.com/toutapp/terms).
+Le Condizioni di servizio di Sales Connect sono disponibili [qui](http://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
