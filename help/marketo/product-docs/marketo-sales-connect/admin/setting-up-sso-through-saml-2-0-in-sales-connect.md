@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurazione di SSO tramite SAML 2.0 in Sales Connect {#setting-up-sso-through-saml-in-sales-connect}
+# Impostazione di SSO tramite SAML 2.0 in Sales Connect {#setting-up-sso-through-saml-in-sales-connect}
 
 Supportiamo SSO tramite la specifica SAML 2.0. Al momento, tuttavia, non disponiamo di integrazioni dirette con alcun fornitore. Per ottenere questa configurazione, è necessario raccogliere informazioni dal provider SSO.
 
@@ -19,7 +19,7 @@ Supportiamo SSO tramite la specifica SAML 2.0. Al momento, tuttavia, non disponi
 >
 >**Promemoria**
 >
->Questo è applicabile solo ai clienti **di Marketing** . Se non disponete di un servizio di vendita ma desiderate ulteriori informazioni, contattate il vostro Customer Success Manager.
+>Questo è applicabile solo ai clienti **Marketing Connect**. Se non disponete di un servizio di vendita ma desiderate ulteriori informazioni, contattate il vostro Customer Success Manager.
 
 ## Requisiti {#requirements}
 
@@ -31,8 +31,8 @@ Supportiamo SSO tramite la specifica SAML 2.0. Al momento, tuttavia, non disponi
 
 Il file metadata.xml dell&#39;istanza SSO del team deve contenere l&#39;URL emittente, l&#39;endpoint per la convalida e una chiave pubblica.
 
-Inoltre, per fare in modo che l&#39;account SSO della tua azienda sia un dominio univoco, è necessario disporre della posizione SSO. Ad esempio, a noi `require a unique subdomain` piace ‘toutapp.pingidentity.com’ o simili. Senza questo tipo di identificatore univoco, non sarà possibile impostare SAML dal dashboard.
+Inoltre, per fare in modo che l&#39;account SSO della tua azienda sia un dominio univoco, è necessario disporre della posizione SSO. Ad esempio, `require a unique subdomain` come &quot;toutapp.pingidentity.com&quot; o simili. Senza questo tipo di identificatore univoco, non sarà possibile impostare SAML dal dashboard.
 
-Un login e un Okta non sempre forniscono identificatori univoci quando si assegna un URL. Se utilizzi Okta o One Login, significa che non saremo in grado di impostare un login dal pulsante del dashboard. Sarà comunque possibile configurarlo dal pulsante Single Sign On nell&#39;applicazione [](http://toutapp.com/login)Web.
+Un login e un Okta non sempre forniscono identificatori univoci quando si assegna un URL. Se utilizzi Okta o One Login, significa che non saremo in grado di impostare un login dal pulsante del dashboard. Sarà comunque possibile configurarlo dal pulsante Single Sign On sull&#39; [applicazione Web](http://toutapp.com/login).
 
 Una volta ottenute tali informazioni, collaboreremo con il nostro team di progettazione per configurare l&#39;iscrizione.
