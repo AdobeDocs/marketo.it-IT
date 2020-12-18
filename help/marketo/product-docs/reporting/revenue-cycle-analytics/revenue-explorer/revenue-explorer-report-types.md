@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Tipi di rapporti di Esplora ricavi {#revenue-explorer-report-types}
+# Tipi di report di Esplora ricavi {#revenue-explorer-report-types}
 
 Di seguito sono riportati i tipi di report che si verificheranno se si utilizza l&#39;analisi del ciclo delle entrate.
 
