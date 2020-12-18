@@ -31,7 +31,7 @@ Componi un nuovo messaggio e-mail o usa un modello preesistente.
 
 >[!TIP]
 >
->Informazioni sulle opzioni [di](http://docs.marketo.com/x/7QDb)invio.
+>Informazioni dettagliate sulle [opzioni di invio](http://docs.marketo.com/x/7QDb).
 
 ## Chiama {#call}
 
