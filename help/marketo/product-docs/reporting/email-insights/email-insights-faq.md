@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Domande frequenti sugli approfondimenti e-mail {#email-insights-faq}
+# Domande frequenti sulle e-mail {#email-insights-faq}
 
 ## Esistono differenze tra le metriche delle proporzioni con le informazioni e-mail e altri rapporti e-mail di marketing? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
