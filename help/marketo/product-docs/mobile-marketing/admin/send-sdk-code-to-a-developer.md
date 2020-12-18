@@ -38,11 +38,11 @@ Ecco come lo fai.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Fate clic su Azioni **app** mobili e selezionate **Invia allo sviluppatore**.
+1. Fare clic su **Azioni app mobili** e selezionare **Invia allo sviluppatore**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Inserite un indirizzo e-mail e fate clic su **INVIA**.
+1. Inserite un indirizzo e-mail e fate clic su **SEND**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
