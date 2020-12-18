@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Se un visitatore riceve un cookie (persona nota che in passato ha fornito un indirizzo e-mail), perché preoccuparsi del modulo? Basta dare loro il pulsante di download. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. In **Marketing** **Activities (Attività** marketing), selezionate il modulo e fate clic su **Edit (Modifica** **modulo**).
+1. In **Marketing** **Attività**, selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. In **Impostazioni** **modulo** fare clic su **Impostazioni**.
+1. In **Form** **Settings**, fare clic su **Settings**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Imposta Se **Conosciuto** , **Visitatore, Mostra**: su **Custom** **HTML**.
+1. Impostate Se **Noto** **Visitatore, Mostra**: su **Custom** **HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Fate clic su ![—](assets/image2014-9-25-14-3a1-3a26.png) per modificare il **codice** HTML **** personalizzato che verrà mostrato alle persone conosciute.
+1. Fare clic su ![—](assets/image2014-9-25-14-3a1-3a26.png) per modificare il **Custom** **HTML** che verrà mostrato alle persone conosciute.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,8 +45,8 @@ Se un visitatore riceve un cookie (persona nota che in passato ha fornito un ind
    |---|---|
    | `{{lead.FirstName}}` | Verrà visualizzato il nome della persona. |
    | `{{lead.LastName}}` | Verrà visualizzato il cognome della persona. |
-   | `{{form.Button:default=Download}}` | Verrà visualizzato il pulsante del modulo. Sostituire l&#39;area dopo l&#39;area `=` per modificare il testo del pulsante. |
-   | `{{form.NotYou:default=Not you?}}` | In questo modo verrà visualizzato un collegamento nel caso in cui la persona sia qualcun altro. Sostituire l&#39;area dopo l&#39;area `=` per modificare il testo del collegamento. |
+   | `{{form.Button:default=Download}}` | Verrà visualizzato il pulsante del modulo. Sostituire l&#39;area dopo la `=` per modificare il testo del pulsante. |
+   | `{{form.NotYou:default=Not you?}}` | In questo modo verrà visualizzato un collegamento nel caso in cui la persona sia qualcun altro. Sostituire l&#39;area dopo la `=` per modificare il testo del collegamento. |
 
    >[!CAUTION]
    >
@@ -56,7 +56,7 @@ Se un visitatore riceve un cookie (persona nota che in passato ha fornito un ind
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Se un visitatore riceve un cookie (persona nota che in passato ha fornito un ind
    >**Promemoria**
    >
    >
-   >Ricordare di [approvare la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) della pagina di destinazione creata dalle modifiche al modulo.
+   >Ricordare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche al modulo.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
