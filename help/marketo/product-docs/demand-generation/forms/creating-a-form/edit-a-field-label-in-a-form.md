@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Modifica di un&#39;etichetta di campo in un modulo {#edit-a-field-label-in-a-form}
+# Modificare un&#39;etichetta di campo in un modulo {#edit-a-field-label-in-a-form}
 
 È possibile cambiare l&#39;etichetta di un modulo in qualsiasi cosa: è anche possibile utilizzare un&#39;immagine o cancellarla completamente! Ecco come farlo.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Selezionate il campo e modificate l’ **etichetta**. I campi in Impostazioni modulo rifletteranno le etichette inserite.
+1. Selezionare il campo e quindi modificare l&#39;etichetta **Label**. I campi in Impostazioni modulo rifletteranno le etichette inserite.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >Se volete ottenere fantasia, potete fare clic sul ![](assets/image2014-9-15-17-3a27-3a7.png) >
+   >Se vuoi ottenere fantasia, puoi cliccare sul   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
    >
    > . Questo aprirà un editor Rich Text e vi permetterà di andare in città con immagini, link e altro ancora!
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 >**Promemoria**
 >
->Non dimenticare di [approvare la bozza](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) della pagina di destinazione creata dalle modifiche al modulo.
+>Non dimenticare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
 
 Ce l&#39;avete! Poco a poco si sta diventando un campione del progettista di moduli.
 
