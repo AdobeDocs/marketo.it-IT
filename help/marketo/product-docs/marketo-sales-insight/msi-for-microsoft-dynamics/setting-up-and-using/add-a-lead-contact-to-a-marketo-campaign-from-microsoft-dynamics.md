@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi aggiungere rapidamente e facilmente lead/contatti alle campagne smart Marketo direttamente da Microsoft Dynamics. Ecco come.
 
-1. In Dynamics, vai all&#39;area **Vendite** .
+1. In Dynamics, passare all&#39;area **Vendite**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,7 +27,7 @@ Puoi aggiungere rapidamente e facilmente lead/contatti alle campagne smart Marke
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Fare clic** ...** e selezionate **Aggiungi alla campagna** Marketo.
+1. Fare clic** ...** e selezionare **Aggiungi a campagna marketing**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Puoi aggiungere rapidamente e facilmente lead/contatti alle campagne smart Marke
 
    >[!NOTE]
    >
-   >Affinché la campagna venga visualizzata nell&#39;elenco a discesa, utilizzate l&#39;attivatore [**** Campaign is Required](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), con Sales Insight come origine, quando configurate la campagna.
+   >Affinché la campagna venga visualizzata nell&#39;elenco a discesa, utilizzate il trigger [**Campaign is Required**](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), con Sales Insight come origine, quando configurate la campagna.
 
 E questo è tutto a tutti! Ora hai la potenza di Marketo smart campaign nelle tue mani direttamente da Dynamics.
