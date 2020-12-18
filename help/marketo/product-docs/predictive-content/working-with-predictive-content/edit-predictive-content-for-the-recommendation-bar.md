@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o<sup>ContentAI</sup>. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni<sup>ContentAI</sup> Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a<sup>ContentAI</sup>di Marketo.
+>A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi Marketo o contenuti<sup>AI</sup>. Per gli utenti che utilizzano contenuti predittivi, Marketo abilita le funzionalità di analisi di Content<sup>AI</sup> fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo<sup>AI</sup>.
 
 Di seguito viene illustrato come impostare il contenuto predittivo per la barra delle raccomandazioni.
 
 >[!PREREQUISITES]
 >
->Il contenuto deve essere [approvato per il contenuto](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) predittivo nella pagina Tutto il contenuto.
+>Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutto il contenuto.
 
-1. Nella pagina **Predictive Content (Contenuto** predittivo), fate clic su un titolo per aprire l’editor.
+1. Nella pagina **Predictive Content**, fate clic su un titolo per aprire l&#39;editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Fate clic su **Barra**.
+1. Fare clic su **Bar**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -35,6 +35,6 @@ Di seguito viene illustrato come impostare il contenuto predittivo per la barra 
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/save.png)
