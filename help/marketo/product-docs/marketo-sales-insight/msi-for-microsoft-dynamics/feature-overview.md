@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono disponibili nella nuova soluzione MSI MSD.
 
-## Pannello Visione vendite marketing nel layout Lead  {#marketo-sales-insight-panel-in-lead-layout}
+## Pannello Marketing Sales Insight nel layout Lead {#marketo-sales-insight-panel-in-lead-layout}
 
 * Stelle e fiamme
 * Momento interessante
@@ -23,24 +23,24 @@ Le seguenti funzionalità sono disponibili nella nuova soluzione MSI MSD.
 * Punteggio
 * E-mail (apri e fai clic)
 
-## Campi personalizzati di Marketing Sales Insight nel layout Lead  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Campi personalizzati di Marketing Sales Insight nel layout Lead {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Punteggio lead
 * Punteggio relativo
 * Priorità
 * Urgenza
 
-## Invito all&#39;analisi delle vendite marketing per il pulsante delle azioni nel layout Lead  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Invito all&#39;analisi delle vendite marketing per il pulsante delle azioni nel layout Lead {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Aggiungi a campagna Marketo
 * Invia e-mail Marketo
 
-## Pulsante Marketo Sales Insight in azione collettiva nella vista Elenco lead  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Pulsante di azione in blocco di Marketing Sales Insight nella vista Elenco lead {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Aggiungi a campagna Marketo
 * Invia e-mail Marketo
 
-## Pannello Marketing Sales Insight nel layout Contatto  {#marketo-sales-insight-panel-in-contact-layout}
+## Pannello Marketing Sales Insight nel layout Contatto {#marketo-sales-insight-panel-in-contact-layout}
 
 * Stelle e fiamme
 * Momento interessante
@@ -48,24 +48,24 @@ Le seguenti funzionalità sono disponibili nella nuova soluzione MSI MSD.
 * Punteggio
 * E-mail (apri e fai clic)
 
-## Campi personalizzati di Marketo Sales Insight nel layout Contatto  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Campi personalizzati di Marketing Sales Insight nel layout dei contatti {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Punteggio lead
 * Punteggio relativo
 * Priorità
 * Urgenza
 
-## Invito all&#39;analisi delle vendite di Marketo al pulsante di azione nel layout Contatto  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Invito all&#39;azione di Marketing Sales Insight nel layout Contatto {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Aggiungi a campagna Marketo
 * Invia e-mail Marketo
 
-## Pulsante di azione in blocco Marketo Sales Insight nella vista Elenco contatti  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Pulsante di azione in blocco di Marketing Sales Insight nella vista Elenco contatti {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Aggiungi a campagna Marketo
 * Invia e-mail Marketo
 
-## Pagina Marketo Best Bets  {#marketo-best-bets-page}
+## Marketo Best Bets pagina {#marketo-best-bets-page}
 
 * Priorità (stelle e fiamme)
 * Nome (collegamento ipertestuale alla pagina Lead/Contatto)
