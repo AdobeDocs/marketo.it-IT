@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configura dimensione rapporto {#configure-report-size}
+# Configura dimensione report {#configure-report-size}
 
 Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5.000 righe, ma è possibile modificare tale limite.
 
@@ -19,11 +19,11 @@ Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Configurazione** .
+1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Configurazione**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Fate doppio clic su **Esporta righe disponibili**.
+   Fare doppio clic su **Esporta righe disponibili**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -35,7 +35,7 @@ Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5
    >
    >Modificando il limite si modifica la dimensione del rapporto stesso, non solo il file Excel esportato, quindi se la generazione del rapporto richiede troppo tempo, riduci il limite!
 
-1. Fate clic su **Salva** per confermare il nuovo limite.
+1. Fare clic su **Salva** per confermare il nuovo limite.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
@@ -46,7 +46,7 @@ Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5
    >**Articoli correlati**
    >
    >
-   >Ora puoi [esportare il rapporto](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) con il nuovo limite.
+   >Ora puoi [esportare il report](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) con il nuovo limite.
 
-   Scopri altri modi per configurare i rapporti nella sezione [Base Reporting (Generazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting) di base).
+   Per ulteriori informazioni sulla configurazione dei report, vedere la sezione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
