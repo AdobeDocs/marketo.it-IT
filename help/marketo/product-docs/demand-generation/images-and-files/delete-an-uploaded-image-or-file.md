@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Eliminare un’immagine o un file caricato {#delete-an-uploaded-image-or-file}
+# Eliminare un&#39;immagine o un file caricato {#delete-an-uploaded-image-or-file}
 
-1. Andate a **Design** **Studio**.
+1. Passare alla **Progettazione** **Studio**.
 
    ![](assets/designstudio-5.png)
 
-1. Selezionate **Immagini** e **File** nel menu a sinistra, quindi fate clic accanto al nome del file da eliminare.
+1. Selezionare **Images** e **Files** nel menu a sinistra, quindi fare clic su accanto al nome del file da eliminare.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Fare clic su **Azioni** file **ed** Elimina ****.
+1. Fare clic su **File** **Azioni** e **Elimina**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Verifica di aver selezionato il file corretto e fai clic su **DELETE**.
+1. Verificare di aver selezionato il file corretto e fare clic su **DELETE**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Le immagini e i file eliminati sono completamente rimossi da Marketo e non possono essere recuperati.  Non verranno più visualizzati su alcuna pagina di destinazione o e-mail in cui erano in uso.
 
-1. Viene nuovamente visualizzata la pagina **Immagini** e **File** , in cui viene visualizzato che il file è stato eliminato.
+1. Verrà nuovamente visualizzata la pagina **Images** e **Files**, in cui verrà visualizzato che il file è stato eliminato.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
