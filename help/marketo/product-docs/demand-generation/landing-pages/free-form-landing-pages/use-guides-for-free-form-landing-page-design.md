@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Usa guide per la progettazione di una pagina di destinazione a forma libera {#use-guides-for-free-form-landing-page-design}
+# Usa guide per progettazione pagina di destinazione a forma libera {#use-guides-for-free-form-landing-page-design}
 
 Durante la progettazione di una pagina di destinazione a forma libera, è possibile utilizzare le guide per allineare i componenti.
 
 >[!NOTE]
 >
->Le guide sono disponibili solo nell’editor della pagina di destinazione **Free**-**form** .
+>Le guide sono disponibili solo nell&#39;editor della pagina di destinazione **Free**-**form**.
 
-1. Selezionate una pagina **di** destinazione e fate clic su **Modifica bozza**.
+1. Selezionare una **pagina di destinazione** e fare clic su **Modifica bozza**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
