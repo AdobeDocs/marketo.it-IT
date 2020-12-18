@@ -19,9 +19,9 @@ La funzione Marketo Unsubscription Check utilizza la connessione del team a Mark
 >
 >**Autorizzazioni amministratore richieste**
 
-## Attivarla {#turning-it-on}
+## Accensione di {#turning-it-on}
 
-1. Nell’applicazione Web, fate clic sull’icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Settings**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ La funzione Marketo Unsubscription Check utilizza la connessione del team a Mark
 
    ![](assets/two-3.png)
 
-1. Fate clic su **Integrazioni**.
+1. Fare clic su **Integrazioni**.
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ La funzione Marketo Unsubscription Check utilizza la connessione del team a Mark
 
    ![](assets/four-2.png)
 
-## Cose da sapere {#things-to-know}
+## Informazioni da conoscere {#things-to-know}
 
 Controllo per l&#39;annullamento della sottoscrizione di Marketo...
 
