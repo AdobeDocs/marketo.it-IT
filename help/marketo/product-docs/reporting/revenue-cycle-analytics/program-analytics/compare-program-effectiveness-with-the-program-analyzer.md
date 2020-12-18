@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Confronta l&#39;efficacia del programma con Program Analyzer {#compare-program-effectiveness-with-the-program-analyzer}
+# Confronta l&#39;efficacia del programma con l&#39;analizzatore del programma {#compare-program-effectiveness-with-the-program-analyzer}
 
 Utilizzate Program Analyzer per identificare i programmi più e meno efficaci, confrontando i costi dei programmi, l&#39;acquisizione dei membri, la pipeline e le entrate.
 
@@ -68,7 +68,7 @@ Utilizzate Program Analyzer per identificare i programmi più e meno efficaci, c
 
    >[!NOTE]
    >
-   >Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la [differenza tra l&#39;attribuzione](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)FT e MT.
+   >Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programma sono disponibili con calcoli &quot;first-touch&quot; (FT) e &quot;multi-touch&quot; (MT). È importante comprendere la differenza [tra l&#39;attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Le bolle cambiano dimensione nel grafico.
 
@@ -88,7 +88,7 @@ Vediamo che il programma Paper Fest 12 non solo influenza più entrate (bolla pi
 
 >[!TIP]
 >
->È possibile confrontare rapidamente i programmi in un canale con quelli in un altro. È sufficiente utilizzare il Filtro **** canale nella parte superiore della finestra per aggiungere altri canali.
+>È possibile confrontare rapidamente i programmi in un canale con quelli in un altro. È sufficiente utilizzare il **Filtro canale** nella parte superiore della finestra per aggiungere altri canali.
 
 >[!NOTE]
 >
@@ -100,4 +100,4 @@ Vediamo che il programma Paper Fest 12 non solo influenza più entrate (bolla pi
 
 >[!NOTE]
 >
->Ulteriori informazioni sulle analisi avanzate in [Esplora](http://docs.marketo.com/display/docs/revenue+cycle+analytics)ciclo delle entrate.
+>Ulteriori informazioni sulle analisi avanzate in [Esplora ciclo di entrate](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
