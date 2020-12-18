@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Navigazione nella home page di Analytics {#navigating-the-analytics-home-page}
 
-1. Andate all&#39;area **Analytics** .
+1. Andate all&#39;area **Analytics**.
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. Selezionare un tipo [di](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)rapporto.
+1. Selezionare un [tipo di report](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. Dopo aver eseguito il rapporto, fai clic sull&#39;area di lavoro per tornare alla home **di** Analytics.
+1. Dopo aver eseguito il rapporto, fai clic sull&#39;area di lavoro per tornare alla **Home di Analytics**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 
