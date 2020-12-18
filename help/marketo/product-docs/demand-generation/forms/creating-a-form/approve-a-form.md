@@ -19,7 +19,7 @@ Per aggiungere un modulo a una delle pagine di destinazione, è necessario appro
 
 Come approvare un modulo esistente pronto per l&#39;uso.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ Come approvare un modulo esistente pronto per l&#39;uso.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. In Azioni **** modulo fare clic su **Approva**.
+1. In **Azioni modulo** fare clic su **Approva**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,13 +35,13 @@ Come approvare un modulo esistente pronto per l&#39;uso.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   È approvato e pronto per essere [aggiunto a una pagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)di destinazione.
+   È approvato e pronto per essere [aggiunto a una pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
    >Le modifiche apportate dopo l&#39;approvazione possono richiedere fino a quattro minuti per l&#39;aggiornamento sui moduli incorporati.
 
-## Approvare un modulo dall’editor {#approve-a-form-from-the-editor}
+## Approvare un modulo dall&#39;editor {#approve-a-form-from-the-editor}
 
 Se si apportano modifiche a un modulo, è possibile approvare la pagina direttamente dall&#39;editor.
 
@@ -57,7 +57,7 @@ Se si apportano modifiche a un modulo, è possibile approvare la pagina direttam
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
 
@@ -65,6 +65,6 @@ Se si apportano modifiche a un modulo, è possibile approvare la pagina direttam
 >
 >**Promemoria**
 >
->Tenere presente che se si modifica il modulo dopo che è stato approvato, sarà necessario [approvare la pagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) di destinazione per visualizzare le modifiche.
+>Tenere presente che, se si modifica il modulo dopo che è stato approvato, sarà necessario [approvare la pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) per visualizzare le modifiche.
 
 È tutto! Facile come può essere.
