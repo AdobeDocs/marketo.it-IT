@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analizzatori {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-I costi del periodo di programma consentono di definire &quot;Quanti soldi&quot; e &quot;Quando&quot; per un programma. Questo viene visualizzato nell&#39;elenco dei cicli di [ricavi](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e negli [analizzatori](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+I costi del periodo di programma consentono di definire &quot;Quanti soldi&quot; e &quot;Quando&quot; per un programma. Questo viene visualizzato in [prospettore del ciclo di ricavi](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e [analizzatori](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
