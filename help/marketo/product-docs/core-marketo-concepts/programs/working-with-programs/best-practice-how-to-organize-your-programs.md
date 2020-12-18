@@ -28,35 +28,31 @@ In Attività di marketing, devi usare le cartelle per organizzare i tuoi program
 >**Esempio**
 >
 >* Programmi di marketing attivi
-   >
-   >    
-   * E-mail
-   >    * Eventi
-
-      >
-      >        
-      * Eventi in diretta/Roadshow
-      >        * fiere
-      >        * Webinar
-   >
-   * Newsletter
-   * Cura
-   * Contenuto Web
-   * Moduli Web
-* Apprendimento
-* Operativo
-
-   * Ciclo
-   * Punteggio
-   * Gestione dei dati
-* Informazioni sulle vendite >
-   * Momenti interessanti
-   * E-mail di vendita
-   * Campagne richieste di vendita
-* **Archivia** >
-   * Archivia eventi >
-      * Archivio 2012
-      * Archivio 2013
+>
+>    * E-mail
+>    * Eventi
+>
+>        * Eventi in diretta/Roadshow
+>        * fiere
+>        * Webinar
+>   * Newsletter
+>   * Cura
+>   * Contenuto Web
+>   * Moduli Web
+>* Apprendimento
+>* Operativo
+>
+>   * Ciclo
+>   * Punteggio
+>   * Gestione dei dati
+>* Informazioni sulle vendite
+>   * Momenti interessanti
+>   * E-mail di vendita
+>   * Campagne richieste di vendita
+>* **Archivia**
+>   * Archivia eventi
+>      * Archivio 2012
+>      * Archivio 2013
 
 
 
