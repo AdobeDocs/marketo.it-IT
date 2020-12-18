@@ -59,11 +59,11 @@ Potrebbero mancare anche le opportunità a causa del costo del programma mancant
 
 1. Impostazione predefinita: il comportamento predefinito è che il programma viene incluso in MPI SOLO se è presente almeno un costo periodo, anche uno con zero dollari assegnati.
 1. Inclusivo: questa opzione garantisce che il programma sia disponibile in MPI indipendentemente dal fatto che abbiate incluso o meno un costo periodo.
-1. [Operativo](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms) - Questa opzione fa sì che il programma non venga visualizzato in MPI.
+1. [Operativo](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Questa opzione fa sì che il programma non venga visualizzato in MPI.
 
 >[!NOTE]
 >
->Costo periodo **deve** essere impostato per il reporting Success (Successo) e New Names (Nuovi nomi) nel pannello Partecipazione. Questo dashboard utilizza i dati Costo periodo per aggregare i successi e i nuovi nomi. Se Costo periodo non è impostato, il dashboard di coinvolgimento non reagirà correttamente indipendentemente dalle impostazioni di comportamento di Analytics riportate sopra.
+>Costo periodo **ha** da impostare per il reporting Success e New Names nel pannello Partecipazione. Questo dashboard utilizza i dati Costo periodo per aggregare i successi e i nuovi nomi. Se Costo periodo non è impostato, il dashboard di coinvolgimento non reagirà correttamente indipendentemente dalle impostazioni di comportamento di Analytics riportate sopra.
 
 ## Perché sto perdendo alcune opportunità in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Campi personalizzati, Tipo opportunità e Filtri ABM sono tutti attributi relati
 
 ## Desidero utilizzare un campo Opportunità Salesforce personalizzata per la generazione di rapporti sulle entrate invece del campo Importo opportunità Salesforce standard. L&#39;MPI mi permetterà di farlo? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sì. [Il supporto](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) marketing può rimappare il campo Importo opportunità di Marketo in un campo Opportunità Salesforce personalizzata, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità marketing, MPI può utilizzare i dati del campo Salesforce personalizzato modificato.
+Sì. [Il ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) supporto marketing consente di rimappare il campo Importo opportunità di Marketo in un campo Opportunità Salesforce personalizzata, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità marketing, MPI può utilizzare i dati del campo Salesforce personalizzato modificato.
 
 >[!NOTE]
 >
@@ -104,7 +104,7 @@ Sì. MPI si integra con [Marketo ABM](http://docs.marketo.com/display/DOCS/Accou
 
 ## L&#39;attribuzione è immediatamente disponibile quando si acquista MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Le funzionalità di attribuzione marketing sono disponibili per i nostri clienti quando acquistano MPI. Tuttavia, è necessaria una [corretta configurazione](http://docs.marketo.com/x/mRPG) per garantire che le opportunità e i dati del programma vengano correttamente inseriti in MPI.
+Le funzionalità di attribuzione marketing sono disponibili per i nostri clienti quando acquistano MPI. Tuttavia, [la corretta configurazione](http://docs.marketo.com/x/mRPG) è necessaria per garantire che le opportunità e i dati del programma vengano immessi correttamente in MPI.
 
 ## Cosa devo fare per impostare l&#39;attribuzione? {#what-do-i-have-to-do-to-set-up-attribution}
 
