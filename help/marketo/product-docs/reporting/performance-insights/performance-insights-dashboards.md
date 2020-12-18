@@ -25,7 +25,7 @@ Il pannello di controllo Partecipazione consente di misurare l&#39;efficacia dei
 
 Misurazione del coinvolgimento dell&#39;audience
 
-Scegliete la metrica **Successi** per misurare il coinvolgimento dell&#39;audience nei vostri programmi di formazione. Il successo è una misura dell&#39;interazione significativa in Marketo.
+Scegliete la metrica **Succes** per misurare il coinvolgimento del pubblico nei programmi di formazione. Il successo è una misura dell&#39;interazione significativa in Marketo.
 
 ![](assets/3-4.png)
 
@@ -39,7 +39,7 @@ Lo scopo di un programma è quello di creare un&#39;interazione significativa co
 
 Misurazione dell&#39;acquisizione di un nuovo nome
 
-Scegliete la metrica **Nuovi nomi** per misurare l’efficacia dei nuovi programmi di acquisizione dei nomi.
+Scegliere la metrica **Nuovi nomi** per misurare l&#39;efficacia dei nuovi programmi di acquisizione dei nomi.
 
 ![](assets/4-3.png)
 
