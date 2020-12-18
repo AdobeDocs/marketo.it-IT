@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Clonare una campagna Web {#clone-a-web-campaign}
+# Clona una campagna Web {#clone-a-web-campaign}
 
 Utilizzate la funzione di duplicazione nella pagina Campagne Web per copiare le impostazioni della campagna e modificare il contenuto per l&#39;ottimizzazione del test suddiviso, oppure duplicare una campagna con lo stesso contenuto e indirizzarla verso un segmento diverso. Crea campagne web in pochi secondi!
 
 ## Creare una campagna clone {#create-a-clone-campaign}
 
-1. Vai a Campagne **Web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna Web desiderata, utilizzate la funzione [](filter-web-campaigns.md)filtro.
+   >Per trovare più facilmente la campagna Web desiderata, utilizzate la [funzionalità filtro](filter-web-campaigns.md).
 
-1. Per la campagna Web, fate clic su **Clona**.
+1. Per la campagna Web, fate clic su **Clone**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Il processo di duplicazione della campagna copia tutto il contenuto della campagna Web esistente nella nuova campagna clonata. La nuova campagna Web clonata è intitolata &quot;[CAMPAIGN NAME] Copy&quot;.
+1. Il processo di duplicazione della campagna copia tutto il contenuto della campagna Web esistente nella nuova campagna clonata. La nuova campagna Web clonata ha il titolo &quot;[CAMPAIGN NAME] Copy&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
