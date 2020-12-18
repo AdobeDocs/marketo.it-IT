@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Salva un rapporto {#save-a-report}
+# Salva un report {#save-a-report}
 
 A volte può essere necessario salvare un rapporto predefinito per visualizzarlo di nuovo in seguito. Ecco come farlo:
 
-1. Andate all&#39;area **Analytics** .
+1. Andate all&#39;area **Analytics**.
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Selezionare un tipo [di](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)rapporto.
+1. Selezionare un [tipo di report](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -26,11 +26,11 @@ A volte può essere necessario salvare un rapporto predefinito per visualizzarlo
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Salva in** una posizione e seleziona una **cartella**.
+1. **Salva** in un percorso e seleziona una  **cartella**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Denominate** il rapporto e fate clic su **Salva**.
+1. **Denominate** il rapporto e fate clic su  **Salva**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
