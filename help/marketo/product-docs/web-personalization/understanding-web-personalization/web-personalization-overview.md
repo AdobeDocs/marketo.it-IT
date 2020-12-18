@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Introduzione {#introduction}
 
-Per i nuovi clienti di Marketing, la personalizzazione in tempo reale è divisa in quattro app, a cui si accede tramite le due sezioni seguenti: Personalizzazione e contenuto`<sup>AI</sup>`Web.
+Per i nuovi clienti di Marketing, la personalizzazione in tempo reale è divisa in quattro app, a cui si accede tramite le due sezioni seguenti: Web Personalization and Content`<sup>AI</sup>` (Personalizzazione e contenuto Web).
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -27,22 +27,22 @@ I clienti esistenti continueranno ad accedere alle app tramite la sezione Person
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Quando fate clic sulla sezione Web Personalization (Personalizzazione Web), viene visualizzata la pagina Dashboard. Fate clic sulla sezione Contenuto`<sup>AI</sup>` e passate direttamente alla pagina Recommendations Contenuto.
+Quando fate clic sulla sezione Web Personalization (Personalizzazione Web), viene visualizzata la pagina Dashboard. Fate clic sulla sezione Content`<sup>AI</sup>` e passate direttamente alla pagina Content Recommendations (Contenuto).
 
 Le quattro app sono:
 
 * Personalizzazione Web
 * Marketing Web basato su account
 * Retargeting dei siti Web
-* Contenuto`<sup>AI</sup>`
+* Content`<sup>AI</sup>`
 
-Il **riquadro* Personalizzazione Web rappresenta il punto di accesso per** la **creazione di campagne Web personalizzate.** **Web Marketing basato su account e Web Retargeting. Potete aggiungere contenuto nella pagina Analisi dei contenuti.
+La sezione** Web Personalization **è il punto di accesso per la creazione di campagne Web personalizzate.****** **Web Marketing basato su account e Web Retargeting. Potete aggiungere contenuto nella pagina Analisi dei contenuti.
 
-**Il marketing** Web basato su account funziona con la personalizzazione Web e le funzioni Account denominati. La pagina Account denominati fornisce informazioni grafiche sui clienti esistenti, sugli impegni totali e sulle tendenze organizzative, nonché un elenco degli account. Potete anche creare nuovi account denominati.
+**Il** marketing Web basato su account funziona con la personalizzazione Web e con le funzioni Account denominati. La pagina Account denominati fornisce informazioni grafiche sui clienti esistenti, sugli impegni totali e sulle tendenze organizzative, nonché un elenco degli account. Potete anche creare nuovi account denominati.
 
-**Il retargeting** dei siti Web consente di reimmettere sul mercato tipi di pubblico segmentati. Puoi impostare i segmenti, ma non puoi usare Account denominati nel filtro.
+**Il** retargetingè un sito Web che consente di riproporre tipi di pubblico segmentati. Puoi impostare i segmenti, ma non puoi usare Account denominati nel filtro.
 
-**Content`<sup>AI</sup>`** è il luogo in cui fornire raccomandazioni sui contenuti. Potete aggiungere facilmente contenuti alla pagina Content Recommendations.
+**Il`<sup>AI</sup>`** contenuto è il luogo in cui fornire raccomandazioni sui contenuti. Potete aggiungere facilmente contenuti alla pagina Content Recommendations.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Il pannello a destra della pagina Organizzazioni offre le seguenti funzioni e ap
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Icona</strong>Foglio di calcolo: In alto a destra nel pannello, l’icona scarica la tabella Organizzazioni in formato CSV per l’uso offline</p><p><strong>Imposta avviso</strong>e-mail: Invia all’utente connesso un messaggio e-mail ogni volta che l’organizzazione selezionata visita il sito Web</p><p><strong>Lead</strong>: Apre la tabella lead per l'organizzazione selezionata</p><p><strong>Condividi</strong>: Apre una finestra a comparsa per inviare un messaggio e-mail e condividere i dettagli dell'organizzazione che ha visitato la pagina Web</p><p><strong>Icona</strong>posizione: Visualizza il paese e la città dell'organizzazione selezionata</p><p><strong>Collegamenti</strong>: Jigsaw, Whois, Linkedin, Google, Twitter apre una nuova finestra con informazioni aggiuntive dalla rispettiva pagina Web che offrono ulteriori informazioni sull'organizzazione selezionata</p><p><strong>Ricerca</strong>: Visualizza la parola chiave utilizzata se il visitatore è arrivato tramite un motore di ricerca</p><p><strong>Referenti</strong>: Mostra il collegamento URL della pagina che ha fatto riferimento al traffico sul sito</p><p><strong>Visitatori</strong>: Visualizza il numero di visite, il numero di pagine visualizzate dall'organizzazione selezionata e il relativo indirizzo e-mail (se ha completato un modulo di invio), nonché l'ora e la data dell'ultima visita</p><p><strong>Clickstream</strong>: Visualizza una tabella dell’attività utente e il percorso dell’URL sul sito e per quanto tempo hanno visitato ogni pagina</p></td> 
+   <td><p><strong>Icona</strong> Foglio di calcolo: In alto a destra nel pannello, l’icona scarica la tabella Organizzazioni in formato CSV per l’uso offline</p><p><strong>Imposta avviso</strong> e-mail: Invia all’utente connesso un messaggio e-mail ogni volta che l’organizzazione selezionata visita il sito Web</p><p><strong>Lead</strong>: Apre la tabella lead per l'organizzazione selezionata</p><p><strong>Condividi</strong>: Apre una finestra a comparsa per inviare un messaggio e-mail e condividere i dettagli dell'organizzazione che ha visitato la pagina Web</p><p><strong>Icona</strong> posizione: Visualizza il paese e la città dell'organizzazione selezionata</p><p><strong>Collegamenti</strong>: Jigsaw, Whois, Linkedin, Google, Twitter apre una nuova finestra con informazioni aggiuntive dalla rispettiva pagina Web che offrono ulteriori informazioni sull'organizzazione selezionata</p><p><strong>Ricerca</strong>: Visualizza la parola chiave utilizzata se il visitatore è arrivato tramite un motore di ricerca</p><p><strong>Referenti</strong>: Mostra il collegamento URL della pagina che ha fatto riferimento al traffico sul sito</p><p><strong>Visitatori</strong>: Visualizza il numero di visite, il numero di pagine visualizzate dall'organizzazione selezionata e il relativo indirizzo e-mail (se ha completato un modulo di invio), nonché l'ora e la data dell'ultima visita</p><p><strong>Clickstream</strong>: Visualizza una tabella dell’attività utente e il percorso dell’URL sul sito e per quanto tempo hanno visitato ogni pagina</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
