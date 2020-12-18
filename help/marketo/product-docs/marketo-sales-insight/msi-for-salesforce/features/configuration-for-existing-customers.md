@@ -22,31 +22,31 @@ Configurate la seguente configurazione per iniziare a utilizzare il nuovo dashbo
 ## Configurare Sales Insight in Marketo {#configure-sales-insight-in-marketo}
 
 1. Apri una nuova scheda nel browser per ottenere le credenziali Informazioni sulle vendite marketing dal tuo account Marketo.
-1. Andate all&#39;area **Admin** .
+1. Andate all&#39;area **Admin**.
 
    ![](assets/configure-1.png)
 
-1. Fare clic su **Vendite**.
+1. Fare clic su **Sales Insight**.
 
    ![](assets/configure-2.png)
 
-1. Fate clic su **Visualizza** per compilare le credenziali API Rest.
+1. Fare clic su **Visualizza** per compilare le credenziali API Rest.
 
    ![](assets/configure-3.png)
 
-1. Vedrete un pop-up di conferma. Fate clic su **OK**.
+1. Vedrete un pop-up di conferma. Fare clic su **OK**.
 
-## Configurare l&#39;analisi delle vendite in Salesforce {#configure-sales-insight-in-salesforce}
+## Configurare la funzione Sales Insight in Salesforce {#configure-sales-insight-in-salesforce}
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fare clic su **Setup**.
 
    ![](assets/sfdc-1.png)
 
-1. Cercare e selezionare Impostazioni **sito** remoto.
+1. Cercare e selezionare **Impostazioni del sito remoto**.
 
    ![](assets/sfdc-2.png)
 
-1. Fate clic su **Nuovo sito** remoto.
+1. Fare clic su **Nuovo sito remoto**.
 
    ![](assets/sfdc-3.png)
 
@@ -54,13 +54,13 @@ Configurate la seguente configurazione per iniziare a utilizzare il nuovo dashbo
 
    ![](assets/sfdc-4.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/sfdc-5.png)
 
    È stata creata l&#39;impostazione del sito remoto per l&#39;API Rest.
 
-## Accesso al punto vendita di Marketo {#access-marketo-sales-insight}
+## Accesso al punto vendita marketing {#access-marketo-sales-insight}
 
 1. Copia le credenziali dal pannello Rest API nella pagina Admin di Marketing’s Sales Insight. Incollateli nella sezione Rest API della pagina Sales Insight Configuration di Salesforce.
 1. Immettete la chiave segreta API.
