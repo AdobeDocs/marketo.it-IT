@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Personalizza impostazioni sondaggio {#customize-poll-settings}
 
-Quando [create un sondaggio](create-a-poll.md), potete limitare il numero di voti consentiti per profilo sociale.
+Quando si [crea un sondaggio](create-a-poll.md), è possibile limitare il numero di voti consentiti per profilo sociale.
 
-1. Vai a Attività **** di marketing.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,15 +23,15 @@ Quando [create un sondaggio](create-a-poll.md), potete limitare il numero di vot
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. Nell’editor dei sondaggi, andate a Impostazioni **** app > Opzioni **avanzate.**
+1. Nell&#39;editor dei sondaggi, passare a **Impostazioni app** > **Opzioni avanzate.**
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. Selezionare l&#39;opzione per imporre un limite **di** voti e specificare il numero massimo di voti consentiti.
+1. Selezionare l&#39;opzione per imporre un **limite di voti** e immettere il numero massimo di voti consentito.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->Potete fare clic su **Fine > Approva e Chiudi** per [pubblicare il sondaggio](publish-a-poll.md)oppure potete continuare a personalizzarlo. Ad esempio, provate a [configurare i prompt](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)di post-condivisione.
+>È possibile fare clic su **Fine > Approva e chiudi** per [pubblicare il sondaggio](publish-a-poll.md) oppure continuare a personalizzarlo. Ad esempio, provare a [configurare i prompt di post-condivisione](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
 
