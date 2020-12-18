@@ -19,8 +19,8 @@ Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero es
 * 15 aprile | John frequenta (webinar) - Successo
 * 22 aprile | (Opportunità 1) creata per $3.000
 * 24 aprile | (Opportunità 2) creata per $5.000
-* 25 aprile | John e Michelle sono associati a **entrambi** gli Optys
-* 29 aprile | [Opzione 1] chiusa
+* 25 aprile | John e Michelle sono associati a **sia** Optys
+* 29 aprile | [Opty 1] è chiuso
 
 | Nome programma | (Contenuto) | (webinar) |
 |---|---|---|
