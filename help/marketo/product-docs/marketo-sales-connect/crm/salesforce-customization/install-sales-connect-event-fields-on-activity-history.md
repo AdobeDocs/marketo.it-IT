@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Una volta installato il pacchetto Enterprise in Salesforce, potete installare i campi evento di Sales Connect nella sezione Cronologia attività. I campi evento di Connect per le vendite includono informazioni quali visualizzazioni, clic e campagne. Questo consente di avere informazioni sulle e-mail importate direttamente in Salesforce.
 
-Quando esegui questi passaggi, assicurati di collaborare con l&#39;amministratore Salesforce. In questo esempio i campi verranno installati nel layout **della pagina** Lead. È inoltre possibile installare i campi nei layout Contatto, Account e Pagina opportunità. Ricorda: quando accedi alle e-mail agli account e alle opportunità, avrai bisogno del contatto a cui stai inviando un&#39;e-mail come ruolo di contatto.
+Quando esegui questi passaggi, assicurati di collaborare con l&#39;amministratore Salesforce. In questo esempio i campi verranno installati sul **Layout pagina lead**. È inoltre possibile installare i campi nei layout Contatto, Account e Pagina opportunità. Ricorda: quando accedi alle e-mail agli account e alle opportunità, avrai bisogno del contatto a cui stai inviando un&#39;e-mail come ruolo di contatto.
 
-1. Fate clic su **Configurazione**.
-1. Fate clic su **Personalizza**.
-1. Fate clic su **Lead**.
-1. Fate clic su Layout **di** pagina.
-1. Fate clic su **Modifica** accanto al layout della pagina da modificare.
+1. Fare clic su **Setup**.
+1. Fare clic su **Personalizza**.
+1. Fare clic su **Lead**.
+1. Fare clic su **Layout di pagina**.
+1. Fare clic su **Modifica** accanto al layout della pagina che si desidera modificare.
 
    >[!NOTE]
    >
@@ -30,9 +30,9 @@ Quando esegui questi passaggi, assicurati di collaborare con l&#39;amministrator
 1. Scorri verso il basso fino alla sezione Cronologia attività.
 1. Fare clic sulla chiave inglese da modificare.
 1. Selezionate i campi di vendita Connect che desiderate includere nella sezione Cronologia attività. Se non visualizzi qui i campi di Connect per le vendite, potresti aver installato il pacchetto Salesforce sbagliato.
-1. Fate clic su **Aggiungi** per spostare i campi desiderati.
-1. Fate clic su **OK**.
-1. Fate clic su **Salva**.
+1. Fare clic su **Aggiungi** per spostare i campi desiderati.
+1. Fare clic su **OK**.
+1. Fare clic su **Salva**.
 
    I tuoi utenti possono ora visualizzare informazioni e aggiornamenti preziosi sulle loro e-mail in Salesforce!
 
