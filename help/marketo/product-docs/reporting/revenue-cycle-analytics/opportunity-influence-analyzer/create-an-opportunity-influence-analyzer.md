@@ -21,15 +21,15 @@ Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contribu
 >
 >Per ottenere informazioni valide da un analizzatore di influenza opportunità, accertati che i tuoi contatti siano collegati alle opportunità nel CRM.
 
-1. Fate clic su **Analytics**.
+1. Fare clic su **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Fate clic su **Opportunity Influence Analyzer**.
+1. Fare clic su **Opportunity Influence Analyzer**.
 
    ![](assets/two.png)
 
-1. Selezionate l’account dal pannello **Impostazioni** .
+1. Selezionate l&#39;account dal pannello **Impostazioni**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
@@ -41,18 +41,18 @@ Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contribu
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Impostare il periodo di tempo. Fate clic sulla scheda **Configurazione** e fate doppio clic su Fotogramma **** ora.
+1. Impostare il periodo di tempo. Fare clic sulla scheda **Setup** e fare doppio clic su **Time Frame**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. Selezionate il periodo di tempo dell’opportunità da analizzare e fate clic su **Salva**.
+1. Selezionare il periodo di tempo dell&#39;opportunità da analizzare e fare clic su **Save**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >Nella maggior parte dei casi, **Tutti i tempi** sono la scelta più semplice.
+   >Nella maggior parte dei casi, **All Time** è la scelta più semplice.
 
 1. Sei lì! Fate clic sulla scheda principale per vedere i momenti interessanti e i successi coinvolti nell&#39;opportunità.
 
@@ -60,7 +60,7 @@ Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contribu
 
 >[!TIP]
 >
->È inoltre possibile guardare un video su Opportunity Influence Analyzer all&#39;Università di [Marketo](https://learn.marketo.com). (Ora sembra un po&#39; diverso, ma c&#39;è ancora molto da imparare!)
+>È inoltre possibile guardare un video sull&#39;analisi dell&#39;influenza opportunità in [Marketo University](https://learn.marketo.com). (Ora sembra un po&#39; diverso, ma c&#39;è ancora molto da imparare!)
 
 >[!MORELIKETHIS]
 >
@@ -75,5 +75,5 @@ Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contribu
 >
 >**Tubo profondo**
 >
->Per altri analizzatori, consultate [Creazione di rapporti](http://docs.marketo.com/display/docs/basic+reporting)di base.
+>Per gli altri analizzatori, vedere [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
 
