@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiungere un’immagine a una pagina di destinazione a forma libera {#add-an-image-to-a-free-form-landing-page}
+# Aggiungere un&#39;immagine a una pagina di destinazione a forma libera {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-1. Selezionate la pagina di destinazione a forma libera e fate clic su **Modifica** **bozza**.
+1. Selezionate la pagina di destinazione a forma libera e fate clic su **Modifica** **Bozza**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Nell’editor, trascinate sull’elemento **Immagine** .
+1. Nell&#39;editor, trascinare sull&#39;elemento **Image**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Fate clic su **Inserisci**.
+1. Fare clic su **Inserisci**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
