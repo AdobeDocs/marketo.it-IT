@@ -21,10 +21,10 @@ In base alla nostra esperienza, potete provare alcuni elementi se la barra degli
 
 - Può essere ovvio, ma provate a uscire dal browser e aprire una finestra completamente nuova.
 
-- Accedete all&#39;applicazione [](http://toutapp.com/login) Web e accertatevi di aver effettuato l&#39;accesso.
+- Passare all&#39;applicazione Web [](http://toutapp.com/login) e verificare di aver effettuato l&#39;accesso.
 
 - Accertatevi che i cookie siano abilitati. Se utilizzi Chrome, vai a Impostazioni > Mostra impostazioni avanzate > Impostazioni contenuto > Deseleziona &quot;Blocca cookie di terze parti e dati del sito&quot;.
 
 - Provate a disconnettervi, quindi ricollegare l&#39;estensione del browser di Sales Connect.
 
-Se nessuno dei suggerimenti di cui sopra è stato utile, [inviare una richiesta](http://nation.marketo.com/community/support_solutions) all&#39;Assistenza.
+Se nessuno dei suggerimenti di cui sopra è stato utile, [inviare un caso](http://nation.marketo.com/community/support_solutions) al supporto.
