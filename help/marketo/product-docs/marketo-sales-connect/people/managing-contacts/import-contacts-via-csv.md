@@ -19,11 +19,11 @@ La disponibilità di contatti nella pagina Persone è importante perché è il p
 
    ![](assets/one.png)
 
-1. Fate clic su Azioni **** gruppo e selezionate **Importa CSV**.
+1. Fare clic su **Azioni gruppo** e selezionare **Importa CSV**.
 
    ![](assets/two.png)
 
-1. Fate clic su **Sfoglia**.
+1. Fare clic su **Sfoglia**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ La disponibilità di contatti nella pagina Persone è importante perché è il p
    >
    >I gruppi sono limitati a 1000 contatti.
 
-1. Fate clic su **Avanti**.
+1. Fare clic su **Next**.
 
    ![](assets/four.png)
 
-1. Mappate le colonne del CSV sui rispettivi campi in Sales Connect. Al termine, fate clic su **Avanti** .
+1. Mappate le colonne del CSV sui rispettivi campi in Sales Connect. Fare clic su **Next** al termine.
 
    ![](assets/five.png)
 
