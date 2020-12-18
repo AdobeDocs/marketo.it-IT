@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Modifica della lingua dei messaggi di errore/convalida del modulo e pulsante Invia {#change-the-language-of-form-validation-error-messages-and-submit-button}
+# Modificare la lingua dei messaggi di errore/convalida del modulo e del pulsante di invio {#change-the-language-of-form-validation-error-messages-and-submit-button}
 
 Sapevate che è possibile personalizzare il modulo per visualizzare messaggi in un&#39;altra lingua? Guardate questo.
 
@@ -19,7 +19,7 @@ Sapevate che è possibile personalizzare il modulo per visualizzare messaggi in 
 >
 >In questo modo viene anche modificata la lingua del pulsante di invio.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -27,11 +27,11 @@ Sapevate che è possibile personalizzare il modulo per visualizzare messaggi in 
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. In Impostazioni **modulo,** fare clic su **Impostazioni**.
+1. In Impostazioni modulo **fare clic su** Impostazioni **.**
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Selezionare la **lingua** di **errore** desiderata.
+1. Selezionare la **Errore** **Lingua** desiderata.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -39,7 +39,7 @@ Sapevate che è possibile personalizzare il modulo per visualizzare messaggi in 
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. Fate clic su **Approva e Chiudi** per applicare e salvare le modifiche.
+1. Fare clic su **Approva e Chiudi** per applicare e salvare le modifiche.
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ Sapevate che è possibile personalizzare il modulo per visualizzare messaggi in 
    >**Promemoria**
    >
    >
-   >Ricordare di [approvare la bozza della pagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) di destinazione creata dalle modifiche al modulo.
+   >Ricordare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
