@@ -19,19 +19,19 @@ ht-degree: 0%
 
 Collegate l&#39;account Marketo a quello di LinkedIn Matched Audiences per utilizzare un elenco statico o un elenco avanzato Marketo come segmento di pubblico di LinkedIn.
 
-1. Andate alla sezione **Admin** .
+1. Andate alla sezione **Admin**.
 
    ![](assets/admin.png)
 
-1. Selezionate **Punto di avvio**.
+1. Selezionare **Punto di avvio**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selezionate **Nuovo** e **Nuovo servizio**.
+1. Selezionare **New** e **New Service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immettete un nome **visualizzato** e scegliete **LinkedIn Matched Audiences**. Fate clic su **Crea**.
+1. Immettete un **Nome visualizzato** e scegliete **LinkedIn Matched Audiences**. Fare clic su **Crea**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -41,7 +41,7 @@ Collegate l&#39;account Marketo a quello di LinkedIn Matched Audiences per utili
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare audience tra più account di annunci LinkedIn, l&#39;utente LinkedIn che si autorizza nei passaggi seguenti deve avere accesso a *tutti* questi account di annunci nel proprio Campaign Manager.
+   >Affinché Marketo possa inviare audience tra più account di annunci LinkedIn, l&#39;utente LinkedIn che si autorizza nei passaggi seguenti deve avere accesso a *all* di questi account di annunci nel relativo Campaign Manager.
 
 1. LinkedIn si apre in una nuova scheda. Da qui, accedi al tuo account LinkedIn.
 
@@ -51,7 +51,7 @@ Collegate l&#39;account Marketo a quello di LinkedIn Matched Audiences per utili
 
    ![](assets/li-permissions.png)
 
-1. Il tuo account LinkedIn è ora connesso a Marketo. Fate clic su **Crea**.
+1. Il tuo account LinkedIn è ora connesso a Marketo. Fare clic su **Crea**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
