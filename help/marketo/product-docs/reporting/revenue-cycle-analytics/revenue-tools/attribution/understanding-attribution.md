@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Comprensione dell&#39;attribuzione {#understanding-attribution}
+# Informazioni sull&#39;attribuzione {#understanding-attribution}
 
 ## Che cos&#39;è l&#39;attribuzione? {#what-is-attribution}
 
@@ -23,11 +23,11 @@ L&#39;attribuzione consente di misurare il successo del programma. Alcuni progra
 
 ## Attribuzione First-Touch (FT) {#first-touch-ft-attribution}
 
-L&#39;attribuzione First-Touch (FT) risponde a una **semplice domanda** aziendale, &quot;Quali programmi sono bravi ad acquisire nuovi nomi redditizi?&quot;
+L&#39;attribuzione First-Touch (FT) risponde a una **semplice domanda aziendale**, &quot;Quali programmi sono adatti per acquisire nuovi nomi redditizi?&quot;
 
 ## Attribuzione multi-touch {#multi-touch-attribution}
 
-Multi-Touch risponde a una **complicata domanda** di business, &quot;Quali programmi sono più importanti per far avanzare le persone nel ciclo di vendita nel tempo?&quot;
+Multi-Touch risponde a una **complicata domanda aziendale**, &quot;Quali programmi sono più influenti nel far avanzare le persone nel ciclo di vendita nel tempo?&quot;
 
 ## Regole di attribuzione {#rules-of-attribution}
 
