@@ -21,11 +21,11 @@ Segui i passaggi indicati di seguito per visualizzare il coinvolgimento dei mode
 
    Sotto a questo, la vista è suddivisa in tre sezioni:
 
-   **Arma** Segreta - Un modello `not yet shared` in tutto il team che sta ottenendo un sacco di coinvolgimento
+   **Arma**  Segreta - Un modello  `not yet shared` attraverso il team che sta ottenendo un sacco di coinvolgimento
 
-   **Massimo coinvolgimento** - Un modello `already shared` all&#39;interno del team che lo sta uccidendo nel coinvolgimento
+   **Massimo coinvolgimento**  - Un modello  `already shared` all&#39;interno del team che lo sta uccidendo nel coinvolgimento
 
-   **Più basso livello di coinvolgimento** - Un modello che richiede un certo rielaborazione del tasso di coinvolgimento (questo modello `can either be shared or unshared` in tutto il team)
+   **Più basso livello di coinvolgimento** : un modello che richiede un certo riadeguamento al tasso di coinvolgimento (questo modello  `can either be shared or unshared` all&#39;interno del team)
 
    Da qui, scorri verso il basso e vedi tutti i modelli creati nel tuo team in base ai loro tassi di visualizzazione all&#39;interno dell&#39;intervallo di date selezionato. A livello di singolo modello potete vedere: chi lo ha creato, sia che sia condiviso, il numero di e-mail con cui è stato utilizzato e i dati di tracciamento (visualizzazioni, clic, risposte).
 
