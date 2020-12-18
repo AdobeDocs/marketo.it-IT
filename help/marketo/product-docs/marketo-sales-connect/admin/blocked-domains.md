@@ -19,11 +19,11 @@ Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Nell’applicazione Web, fate clic sull’icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Settings**.
 
    ![](assets/one-3.png)
 
-1. In Impostazioni amministratore, fai clic su **Generale.**
+1. In Impostazioni amministratore, fare clic su **Generale.**
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,5 @@ Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare
 
    >[!NOTE]
    >
-   >Le e-mail che fanno parte di un&#39;invio e-mail [di](http://docs.marketo.com/x/KAQ6Ag) gruppo che non riesce a causa dell&#39;invio a un dominio e-mail bloccato non vengono visualizzate in modo invisibile e non vengono visualizzate nella cartella dell&#39;e-mail non riuscita.
+   >Le e-mail che fanno parte di un&#39;e-mail [Group Email](http://docs.marketo.com/x/KAQ6Ag) che non riesce a causa dell&#39;invio a un dominio e-mail bloccato non vengono visualizzate in modo invisibile e non vengono visualizzate nella cartella dell&#39;e-mail non riuscita.
 
