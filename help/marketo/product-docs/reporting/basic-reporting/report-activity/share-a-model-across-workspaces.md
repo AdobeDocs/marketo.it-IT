@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo consente di condividere uno o più modelli tra le aree di lavoro. Ecco come.
 
-1. Andate alla sezione **Analisi** .
+1. Andate alla sezione **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Fare clic con il pulsante destro del mouse sulla cartella **Modelli** personali e scegliere **Nuova cartella**.
+1. Fare clic con il pulsante destro del mouse sulla cartella **My Models** e scegliere **New Folder**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,7 +27,7 @@ Marketo consente di condividere uno o più modelli tra le aree di lavoro. Ecco c
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Trascinate i modelli da condividere nella cartella **di** condivisione.
+1. Trascinate i modelli da condividere nella **cartella di condivisione**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
@@ -44,4 +44,4 @@ Marketo consente di condividere uno o più modelli tra le aree di lavoro. Ecco c
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-È così facile! Adesso, le persone provenienti da altre aree di lavoro possono spostarsi all&#39;interno del modello condiviso. È possibile eseguire l&#39;assegnazione di persona nell&#39;area di lavoro, vedere [Avvio del modello](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) del ciclo delle entrate.
+È così facile! Adesso, le persone provenienti da altre aree di lavoro possono spostarsi all&#39;interno del modello condiviso. È possibile eseguire l&#39;assegnazione di una persona nell&#39;area di lavoro. Per ulteriori informazioni, vedere [Avvio del modello del ciclo delle entrate](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS).
