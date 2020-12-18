@@ -26,21 +26,21 @@ Premia i tuoi clienti con buoni sconto e codici sconto utilizzando l&#39;e-mail 
 
 ## Imposta consegna evasione {#set-up-fulfillment-delivery}
 
-1. Selezionate l&#39;offerta di riferimento. Fate clic su **Modifica bozza**.
+1. Selezionate l&#39;offerta di riferimento. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. In Impostazioni **** app, seleziona Dettagli **offerta.**
+1. In **Impostazioni app**, selezionare **Dettagli offerta.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. Selezionate un messaggio e-mail **di** registrazione.
+1. Selezionare un **messaggio e-mail di registrazione**.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Selezionate un messaggio e-mail di **evasione**.
+1. Selezionare un **E-mail di evasione**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,19 +49,19 @@ Premia i tuoi clienti con buoni sconto e codici sconto utilizzando l&#39;e-mail 
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni sull&#39; [utilizzo delle e-mail nelle promozioni](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)social.
+   >Scopri di più sull&#39; [utilizzo delle e-mail nelle promozioni social](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Fate clic sul menu a discesa **Consegna** evasione e selezionate **Automatico sull&#39;obiettivo**.
+1. Fare clic sul menu a discesa **Consegna evasione** e selezionare **automatico sull&#39;obiettivo**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   Il messaggio selezionato in **E-mail** di evasione verrà inviato automaticamente alle persone che soddisfano l&#39;obiettivo.
+   Il messaggio selezionato in **E-mail di evasione** verrà inviato automaticamente alle persone che soddisfano l&#39;obiettivo.
 
 ## Invio manuale {#manual-send}
 
 Potete inviare manualmente un messaggio e-mail di evasione a una persona una volta raggiunto l’obiettivo.
 
-1. Selezionate l&#39;offerta di riferimento e fate clic sulla scheda **Partecipanti** .
+1. Selezionate l&#39;offerta di riferimento e fate clic sulla scheda **Partecipanti**.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
@@ -77,7 +77,7 @@ Potete inviare manualmente un messaggio e-mail di evasione a una persona una vol
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Fate clic con il pulsante destro del mouse e selezionate **Invia e-mail** di evasione.
+1. Fare clic con il pulsante destro del mouse e selezionare **Invia e-mail di evasione**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
