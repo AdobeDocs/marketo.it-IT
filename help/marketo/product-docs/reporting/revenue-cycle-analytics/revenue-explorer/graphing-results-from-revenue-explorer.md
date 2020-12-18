@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Risultati Della Grafica Da Esplora Entrate {#graphing-results-from-revenue-explorer}
+# Risultati grafico da Esplora ricavi {#graphing-results-from-revenue-explorer}
 
 Per impostazione predefinita, i rapporti in Esplora entrate vengono visualizzati come tabella. Potete anche visualizzare i risultati sotto forma di grafico in vari formati.
 
-1. Fai clic sulla freccia nel menu a discesa **Visualizza come** del rapporto. Verranno visualizzate diverse opzioni di grafica.
+1. Fare clic sulla freccia nel menu a discesa **Visualizza come** del rapporto. Verranno visualizzate diverse opzioni di grafica.
 
    ![](assets/one-1.png)
 
