@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Perché nessuno dei miei contatti viene portato in contatto con le vendite? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Se non è stato inviato alcun contatto, è possibile che si disponga di una connessione Salesforce non valida. Accedi alle impostazioni [](http://toutapp.com/next#settings/crm/salesforce/configure) Salesforce e disconnettiti, quindi effettua nuovamente la connessione. Dagli circa 20 minuti per ripristinare completamente. Se dopo tale data il valore è ancora zero, [inviare una richiesta](http://nation.marketo.com/community/support_solutions) all&#39;Assistenza.
+Se non è stato inviato alcun contatto, è possibile che si disponga di una connessione Salesforce non valida. Accedi alle [impostazioni Salesforce](http://toutapp.com/next#settings/crm/salesforce/configure) e disconnetti, quindi riconnettersi. Dagli circa 20 minuti per ripristinare completamente. Se dopo tale data il valore è ancora zero, [inviare un caso](http://nation.marketo.com/community/support_solutions) al supporto.
