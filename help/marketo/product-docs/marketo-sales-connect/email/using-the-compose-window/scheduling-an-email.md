@@ -23,7 +23,7 @@ Seguite questi semplici passaggi per pianificare un&#39;e-mail.
 
    ![](assets/one-1.png)
 
-1. Al termine della composizione dell’e-mail, fate clic su **Pianificazione** in basso a destra
+1. Al termine della composizione dell&#39;e-mail, fare clic su **Schedule** in basso a destra
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ Seguite questi semplici passaggi per pianificare un&#39;e-mail.
 
    ![](assets/three-1.png)
 
-1. Inserite l’ora in cui desiderate che il messaggio e-mail venga inviato. Selezionate il fuso orario desiderato e fate clic su **Salva**. Al termine, chiudete il pianificatore.
+1. Inserite l’ora in cui desiderate che il messaggio e-mail venga inviato. Selezionare il fuso orario desiderato e fare clic su **Salva**. Al termine, chiudete il pianificatore.
 
    ![](assets/four-1.png)
 
-1. Dopo aver selezionato la data/l’ora pianificata, fate clic su **Invia** per pianificare l’e-mail.
+1. Dopo aver selezionato la data/l&#39;ora pianificata, fate clic su **Invia** per pianificare l&#39;e-mail.
 
    ![](assets/five-1.png)
 
