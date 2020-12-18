@@ -21,17 +21,17 @@ Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere
 
 >[!CAUTION]
 >
->Le dimensioni personalizzate **NON** possono essere eliminate o sostituite, quindi scegliete attentamente le 10.
+>Le dimensioni personalizzate **CANNOT** possono essere eliminate o sostituite, quindi scegliete attentamente le 10.
 
 1. In Approfondimenti e-mail, fai clic sull’icona a forma di ingranaggio in alto a destra della pagina.
 
    ![](assets/cd1.png)
 
-1. Fare clic su **Sistema**.
+1. Fare clic su **System**.
 
    ![](assets/cd2.png)
 
-1. Fai clic su **+** accanto a **Aggiungi dimensione**.
+1. Fare clic su **+** accanto a **Aggiungi dimensione**.
 
    ![](assets/cd3.png)
 
