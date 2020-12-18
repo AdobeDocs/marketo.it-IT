@@ -23,7 +23,7 @@ Alcune informazioni sul mondo e sul linguaggio di Web Personalization di Marketo
 | **ISP** | Provider di servizi Internet |
 | **Visitatore noto** | Un visitatore Web che ha completato un modulo e lasciato i propri dettagli (indirizzo e-mail) sul sito Web o ha fatto clic su un collegamento in un messaggio e-mail di Marketo. |
 | **Elenco account** | Un elenco di nomi di account/organizzazione chiave. Noto anche come elenco ABM (Account-Based Marketing). |
-| **Segmenti** | Una raccolta di visitatori che soddisfano i criteri specificati definiti nella pagina [](../../../product-docs/web-personalization/using-web-segments/web-segments.md)&quot;Imposta un segmento&quot;. |
+| **Segmenti** | Una raccolta di visitatori che soddisfano i criteri specificati definiti nella pagina [‘Set a Segment’ page](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Suddivisione test** | Un esperimento di test con due o più varianti per misurare la differenza nei risultati. L&#39;obiettivo è identificare le modifiche apportate alle pagine Web che aumentano o ottimizzano un risultato di interesse. |
 | **Carattere jolly** | Un carattere jolly (*) utilizzato prima o dopo una stringa per sostituire qualsiasi altro carattere o carattere in una stringa. Vedere gli esempi di seguito. |
 
