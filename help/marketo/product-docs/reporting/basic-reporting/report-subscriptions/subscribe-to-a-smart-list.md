@@ -36,11 +36,11 @@ Le iscrizioni sono specifiche dell&#39;area di lavoro. Ad esempio, questo elenco
 
 ## Creare una sottoscrizione a un elenco avanzato {#create-a-smart-list-subscription}
 
-1. Andate al **database** o **alle attività** di marketing.
+1. Andate al **database** o **Marketing Activities**.
 
    ![](assets/db.png)
 
-1. Selezionate l’elenco avanzato per il quale desiderate creare un’iscrizione. Fate clic su Azioni **** elenco e selezionate** Nuova iscrizione elenco avanzato**.
+1. Selezionate l’elenco avanzato per il quale desiderate creare un’iscrizione. Fare clic su **Azioni elenco** e selezionare** Nuova iscrizione elenco avanzato**.
 
    ![](assets/three.png)
 
@@ -58,15 +58,15 @@ Le iscrizioni sono specifiche dell&#39;area di lavoro. Ad esempio, questo elenco
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Fate clic su **Formato** e scegliete dall’elenco.
+1. Fare clic su **Formato** e scegliere dall&#39;elenco.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Fate clic su **Crea**.
+1. Fare clic su **Crea**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. La nuova iscrizione all&#39;elenco smart viene visualizzata nella parte superiore dell&#39;elenco nella scheda Iscrizioni. Fate clic su **Invia** se desiderate inviare adesso e non attendere fino alla consegna pianificata dell’e-mail.
+1. La nuova iscrizione all&#39;elenco smart viene visualizzata nella parte superiore dell&#39;elenco nella scheda Iscrizioni. Fare clic su **Invia** se si desidera inviare ora e non attendere fino alla consegna pianificata dell&#39;e-mail.
 
    ![](assets/eight.png)
 
@@ -82,7 +82,7 @@ I destinatari riceveranno un&#39;e-mail con l&#39;opzione per scaricare il rappo
 
 >[!NOTE]
 >
->Se l&#39;impostazione [Amministrazione](secure-the-subscription-admin-setting.md) iscrizione protetta è impostata su **Sì**, solo gli utenti che hanno accesso all&#39;istanza Marketo potranno scaricare il rapporto.
+>Se l&#39;impostazione [Amministratore iscrizione protetta](secure-the-subscription-admin-setting.md) è impostata su **Sì**, solo gli utenti che hanno accesso all&#39;istanza Marketo potranno scaricare il rapporto.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ Se un report contiene 0 persone, i destinatari riceveranno comunque un&#39;e-mai
 
 Il messaggio e-mail contiene anche informazioni aggiuntive sui filtri utilizzati per creare l’elenco.
 
-## Eliminazione di una sottoscrizione {#delete-a-subscription}
+## Eliminare una sottoscrizione {#delete-a-subscription}
 
 Per eliminare una sottoscrizione, selezionatela nella scheda Iscrizioni e fate clic su Elimina iscrizione.
 
