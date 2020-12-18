@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Prima di pubblicare il modulo, è possibile visualizzarlo in questa anteprima rapida e semplice.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,15 +23,15 @@ Prima di pubblicare il modulo, è possibile visualizzarlo in questa anteprima ra
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. In **Azioni** modulo **fare clic su** Anteprima ****.
+1. In **Form** **Actions** fare clic su **Preview**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. L&#39;editor del modulo si aprirà in modalità **di anteprima** .
+1. L&#39;editor del modulo si aprirà in modalità **preview**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Fate clic su **Modifica** **bozza** per tornare alla modalità di **modifica** .
+1. Fare clic su **Edit** **Draft** per tornare alla modalità **edit**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -40,9 +40,9 @@ Prima di pubblicare il modulo, è possibile visualizzarlo in questa anteprima ra
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms).
+   >Ulteriori informazioni su [forms](http://docs.marketo.com/display/docs/forms).
 
-1. Per tornare indietro facilmente, fate clic su **Anteprima** **bozza**.
+1. Per tornare indietro facilmente, fare clic su **Anteprima** **Bozza**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
