@@ -39,23 +39,23 @@ ht-degree: 0%
    >
    >Selezionando un altro modello, tutte le informazioni attualmente presenti nell’editor verranno sostituite. Se apportate delle modifiche, accertatevi di copiarle prima di selezionare un altro modello.
 
-## Fissare le categorie di modelli nella finestra Componi {#pinning-template-categories-in-the-compose-window}
+## Fissare le categorie dei modelli nella finestra di composizione {#pinning-template-categories-in-the-compose-window}
 
-Preferite **fino a cinque** categorie specifiche di modelli per accedere rapidamente ai modelli più utilizzati.
+Preferite **fino a cinque categorie di modelli specifici** per accedere rapidamente ai modelli più utilizzati.
 
 1. Create la bozza dell&#39;e-mail (vi sono diversi modi per farlo, in questo esempio scegliamo **Componi** nell&#39;intestazione).
 
    ![](assets/one-6.png)
 
-1. Fate clic sull&#39;icona **+** accanto a Preferiti.
+1. Fare clic sull&#39;icona **+** accanto a Preferiti.
 
    ![](assets/pinning-two.png)
 
-1. Fate clic sul **menu a discesa Fissa una categoria** e selezionate la categoria desiderata.
+1. Fare clic sul menu a discesa **Fissa una categoria** e selezionare la categoria desiderata.
 
    ![](assets/pinning-three.png)
 
-1. Al termine, fate clic su **Salva modifiche** (facoltativo: ripetere il passaggio 3 per aggiungere altro).
+1. Fare clic su **Salva modifiche** al termine (facoltativo: ripetere il passaggio 3 per aggiungere altro).
 
    ![](assets/pinning-four.png)
 
@@ -67,7 +67,7 @@ Preferite **fino a cinque** categorie specifiche di modelli per accedere rapidam
 
    >[!NOTE]
    >
-   >**I preferiti** sono presenti per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
+   >**Per impostazione** predefinita, sono disponibili i preferiti. Contiene i modelli e-mail preferiti, non le categorie.
 
    >[!NOTE]
    >
