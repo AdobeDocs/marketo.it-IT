@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Archivia i contenuti per ripulire l&#39;account Contenuto vendita senza perdere i dati dei modelli.
 
-Selezionate la casella accanto a un modello e fate clic su **Archivia**.
+Selezionare la casella accanto a un modello e fare clic su **Archivia**.
 
 >[!NOTE]
 >
