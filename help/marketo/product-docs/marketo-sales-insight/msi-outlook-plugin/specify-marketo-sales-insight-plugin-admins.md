@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Potete specificare quali contatti visualizzare nell&#39;avviso e-mail inviato agli utenti quando li invitate a configurare MSI in Outlook.
 
-1. In My Marketo, fai clic su **Admin** e quindi **su Sales Insight.**
+1. In My Marketo, fare clic su **Admin** e quindi su **Sales Insight.**
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Fate clic sulla scheda Componente aggiuntivo **per** e-mail.
+1. Fare clic sulla scheda **Componente aggiuntivo e-mail**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Fate clic su **Specifica contatto** plug-in.
+1. Fare clic su **Specifica contatto plug-in**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ Potete specificare quali contatti visualizzare nell&#39;avviso e-mail inviato ag
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 
