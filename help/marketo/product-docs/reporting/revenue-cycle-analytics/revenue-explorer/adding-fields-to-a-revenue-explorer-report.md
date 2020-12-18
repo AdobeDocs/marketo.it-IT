@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di campi a un rapporto di Esplora entrate {#adding-fields-to-a-revenue-explorer-report}
+# Aggiunta di campi a un report di Esplora ricavi {#adding-fields-to-a-revenue-explorer-report}
 
 Per personalizzare i rapporti dell&#39;elenco delle entrate, trascinate e rilasciate i campi dimensione e metrica nell&#39;area di lavoro.
 
