@@ -29,25 +29,25 @@ Inserite i video con opzioni di condivisione per social network nelle pagine di 
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 
-1. Selezionate **Crea nuovo** dal menu a discesa.
+1. Selezionare **Crea nuovo** dall&#39;elenco a discesa.
 
    ![](assets/image2014-9-23-16-3a51-3a11.png)
 
    >[!NOTE]
    >
-   >Potete anche creare una condivisione video *all’interno di un programma* selezionando **Nuovo** > **Nuova risorsa locale.** Potete quindi selezionarlo dall’elenco a discesa, come illustrato di seguito.
+   >Potete anche creare una condivisione video *all&#39;interno di un programma* selezionando **Nuovo** > **Nuova risorsa locale.** Potete quindi selezionarlo dall’elenco a discesa, come illustrato di seguito.
 
-1. Immettete l’URL del video di YouTube e assegnate un nome alla condivisione video. In **Clona da** , selezionare **Nessuno** e fare clic su **Inserisci.**
+1. Immettete l’URL del video di YouTube e assegnate un nome alla condivisione video. Sotto l&#39;opzione **Clona da** selezionare **Nessuno** e fare clic su **Inserisci.**
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 
 >[!TIP]
 >
->Per risparmiare tempo, potete usare l’opzione **Duplica da** per copiare tutte le impostazioni da una condivisione video esistente.
+>Per risparmiare tempo, potete utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
 
-Congratulazioni! È stata aggiunta una condivisione video alla pagina di destinazione. Approva la pagina di destinazione e la condivisione video è live. Potete anche [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video nel sito](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)Web.
+Congratulazioni! È stata aggiunta una condivisione video alla pagina di destinazione. Approva la pagina di destinazione e la condivisione video è live. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video nel sito Web](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >
->Al termine, potete tuttavia modificare le impostazioni della condivisione video, se necessario. Iniziate con [la personalizzazione del flusso](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) di condivisione (quando e dove si apre il prompt di condivisione).
+>Al termine, potete tuttavia modificare le impostazioni della condivisione video, se necessario. Iniziate con [personalizzazione del flusso di condivisione](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e dove si apre il prompt di condivisione).
 
