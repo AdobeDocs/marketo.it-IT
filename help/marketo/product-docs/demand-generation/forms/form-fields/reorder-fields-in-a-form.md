@@ -15,11 +15,11 @@ ht-degree: 0%
 
 È facile riordinare i campi in un modulo Marketo. Ecco come.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/editform.png)
 
@@ -37,5 +37,5 @@ Ottimo lavoro! Stai rockinando questa cosa.
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms)?
+>Per saperne di più su [moduli](http://docs.marketo.com/display/docs/forms)?
 
