@@ -21,23 +21,23 @@ ht-degree: 0%
 
 
 
-Una caratteristica davvero interessante dei moduli Marketo è la possibilità di nascondere o mostrare in modo dinamico i campi o i [set di campi](add-a-fieldset-to-a-form.md).
+Una caratteristica davvero interessante dei moduli Marketo è che è possibile nascondere o mostrare in modo dinamico i campi dei moduli o [fieldsets](add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Esempio**
 >
->In questo esempio, è possibile nascondere il campo **Stato** a meno che **Paese** non sia selezionato come &quot;Stati Uniti&quot;.
+>In questo esempio, è possibile nascondere il campo **State** a meno che **Country** non sia selezionato come &quot;Stati Uniti&quot;.
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/editform-1.png)
 
-1. Selezionare il campo da nascondere o mostrare in modo dinamico e fare clic sul collegamento per **Regole di visibilità******.
+1. Selezionare il campo che si desidera nascondere o mostrare in modo dinamico e fare clic sul collegamento per **Visibilità** **Regole**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,9 +63,9 @@ Una caratteristica davvero interessante dei moduli Marketo è la possibilità di
 
    >[!NOTE]
    >
-   >In precedenza abbiamo convertito il Paese in un tipo di campo per la selezione e [aggiunto tutti i paesi come valori](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >In precedenza abbiamo convertito il Paese in un tipo di campo di selezione e [aggiunto tutti i paesi come valori](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -75,5 +75,5 @@ Ed è tutto! Quando gli utenti compilano il modulo e selezionano Stati Uniti per
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms)?
+>Per saperne di più su [moduli](http://docs.marketo.com/display/docs/forms)?
 
