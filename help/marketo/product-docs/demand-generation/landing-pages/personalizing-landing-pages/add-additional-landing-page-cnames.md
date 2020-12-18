@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di CNAME aggiuntivi per pagine di destinazione {#add-additional-landing-page-cnames}
+# Aggiungi CNAME di pagina di destinazione aggiuntivi {#add-additional-landing-page-cnames}
 
 È possibile aggiungere CNAME di pagina di destinazione per consentire a diversi URL di puntare alle pagine di destinazione Marketo. Seguendo i passaggi indicati di seguito potrai gestire più domini.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**Stesso dominio di primo livello - Buono! I cookie sono shared.go**.mycompany.com > **info**.mycompany.**comDiversi domini di primo livello - Bad! I cookie non sono condivisi.**
+>**Stesso dominio di primo livello - Buono! I cookie sono shared.go**.mycompany.com > **info**.mycompany.com **Diversi domini di primo livello - Bad! I cookie non sono condivisi.**
 >vai.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## Trova la stringa account {#find-your-account-string}
 
-1. Andate nell&#39;area **Admin** e fate clic su Pagine **di** destinazione.
+1. Andate nell&#39;area **Admin** e fate clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Copiate la stringa **** account dalla sezione **Impostazioni** .
+1. Copiare la **Stringa account** dalla sezione **Settings**.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
@@ -42,21 +42,21 @@ ht-degree: 0%
 
 ## Invia richiesta all&#39;IT {#send-request-to-it}
 
-1. Chiedi al reparto IT di configurare il CNAME seguente: (Sostituite la parola [CNAME] con il CNAME di vostra scelta e la stringa [] ACCOUNT con il testo del passaggio precedente).
+1. Chiedi al reparto IT di configurare il CNAME seguente: (Sostituite la parola [CNAME] con il CNAME di vostra scelta e [ACCOUNT STRING] con il testo del passaggio precedente).
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 ## Aggiungere un nuovo CNAME {#add-a-new-cname}
 
-1. Dopo che il reparto IT ha creato il CNAME, vai in **Admin** e fai clic su Pagine **di** destinazione.
+1. Una volta che il reparto IT ha creato il CNAME, andate a **Admin** e fate clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Fare clic su **Nuovo** , quindi selezionare **Nuovo alias** dominio.
+1. Fare clic su **New**, quindi selezionare **New Domain Alias**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Immettere l&#39;alias **di dominio.** La pagina **** predefinita viene visualizzata se il visitatore non inserisce un URL. Inserire dove devono andare in quel caso.
+1. Immettere l&#39; **Alias di dominio.** La  **pagina** predefinita viene visualizzata se il visitatore non inserisce un URL. Inserire dove devono andare in quel caso.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Inserite la pagina **** predefinita e fate clic su **Crea**.
+1. Immettere la **pagina predefinita** e fare clic su **Crea**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
