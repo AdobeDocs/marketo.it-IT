@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aggiunta di contenuti mirati all’e-mail {#adding-highspot-content-to-your-email}
+# Aggiunta di contenuto in evidenza all&#39;e-mail {#adding-highspot-content-to-your-email}
 
 Se sei un cliente di Highspot, puoi inserire facilmente il contenuto di Highspot nelle e-mail di Sales Connect.
 
@@ -23,7 +23,7 @@ Se sei un cliente di Highspot, puoi inserire facilmente il contenuto di Highspot
 
    ![](assets/two-5.png)
 
-1. Fate clic sul punto del messaggio e-mail in cui desiderate inserire il contenuto Evidenzia. Fare clic sul menu a discesa freccia (accanto all&#39;icona dell&#39;allegato) e selezionare **Evidenzia**.
+1. Fate clic sul punto del messaggio e-mail in cui desiderate inserire il contenuto Evidenzia. Fare clic sul menu a discesa freccia (accanto all&#39;icona dell&#39;allegato) e selezionare **Evidenziatore**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Se sei un cliente di Highspot, puoi inserire facilmente il contenuto di Highspot
 
    ![](assets/four-5.png)
 
-1. Selezionate il contenuto desiderato e fate clic sul pulsante **Aggiungi contenuto** .
+1. Selezionate il contenuto desiderato e fate clic sul pulsante **Aggiungi contenuto**.
 
    ![](assets/five-3.png)
 
