@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Panoramica di Predictive Content Analytics {#predictive-content-analytics-overview}
+# Panoramica sull&#39;analisi dei contenuti predittivi {#predictive-content-analytics-overview}
 
 Utilizzate l&#39;analisi dei contenuti per acquisire ulteriori informazioni sui contenuti esistenti, per apprendere (in base agli algoritmi AI e Predictive) quali contenuti funzionano per il pubblico e per incrementare il ROI derivante dalle attività di marketing.
 
@@ -63,7 +63,7 @@ Visualizza il contenuto di conversione superiore in base al tasso di conversione
 >
 >**Tasso** di conversione: Una percentuale calcolata per conversioni dirette divise per clic.
 
-## Contenuti di tendenza {#trending-content}
+## Tendenza contenuto {#trending-content}
 
 Visualizza l&#39;aumento di popolarità di un contenuto, osservando l&#39;ultimo aumento di due settimane delle visualizzazioni rispetto allo stesso periodo precedente.
 
