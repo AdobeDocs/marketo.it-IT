@@ -17,15 +17,15 @@ Quando un visitatore Web è noto (con cookie), per impostazione predefinita i mo
 
 >[!NOTE]
 >
->**La precompilazione** del modulo è abilitata per impostazione predefinita. Le impostazioni di precompilazione a livello di pagina di destinazione e le impostazioni di precompilazione a livello di amministratore prevalgono sulle impostazioni a livello di modulo:
+>**Il** riempimento preliminare del modulo è abilitato per impostazione predefinita. Le impostazioni di precompilazione a livello di pagina di destinazione e le impostazioni di precompilazione a livello di amministratore prevalgono sulle impostazioni a livello di modulo:
 >
 >Modulo &lt; Pagina Di Destinazione &lt; Amministratore
 
-1. Vai a **Marketing** **Activities**.
+1. Andate a **Marketing** **Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **modulo**.
+1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Quando un visitatore Web è noto (con cookie), per impostazione predefinita i mo
    >
    >La precompilazione del modulo non funziona quando si incorpora un modulo nelle proprie pagine. Funziona solo sulle pagine di destinazione Marketo.
 
-1. Selezionare uno dei campi e impostare **Modulo** **Pre**-**fill** su **Disattivato**.
+1. Selezionare uno dei campi e impostare **Form** **Pre**-**fill** su **Disabled**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -45,7 +45,7 @@ Quando un visitatore Web è noto (con cookie), per impostazione predefinita i mo
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Fate clic su **Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
@@ -55,5 +55,5 @@ Bel lavoro!
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms)?
+>Per saperne di più su [moduli](http://docs.marketo.com/display/docs/forms)?
 
