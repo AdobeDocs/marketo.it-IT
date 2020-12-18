@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personalizzazioni di Connect per CRM {#sales-connect-customizations-for-crm}
+# Personalizzazioni di vendita Connect per CRM {#sales-connect-customizations-for-crm}
 
 I campi e i pulsanti di seguito vengono creati dall&#39;API dei metadati in Salesforce CRM. Una volta creati i campi, gli amministratori devono configurare i layout di pagina nel CRM per esporli. Le istruzioni sono disponibili [qui](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
@@ -21,7 +21,7 @@ I campi e i pulsanti di seguito vengono creati dall&#39;API dei metadati in Sale
 
 ## Come installare le personalizzazioni in Salesforce {#how-to-install-customizations-in-salesforce}
 
-1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. In Sales Connect, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Settings**.
 
    ![](assets/one.png)
 
@@ -29,11 +29,11 @@ I campi e i pulsanti di seguito vengono creati dall&#39;API dei metadati in Sale
 
    ![](assets/two.png)
 
-1. Fate clic su **Marketing per personalizzare** le vendite di Adobe Connect.
+1. Fate clic su **Personalizzazioni di Marketing Connect per le vendite**.
 
    ![](assets/three.png)
 
-1. Fate clic su **Connetti a Salesforce**.
+1. Fare clic su **Connetti a Salesforce**.
 
    ![](assets/four.png)
 
@@ -43,7 +43,7 @@ I campi e i pulsanti di seguito vengono creati dall&#39;API dei metadati in Sale
 
 ## Campi attività personalizzati {#custom-activity-fields}
 
-Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una copia di dati una tantum, una nuova mappatura e una sincronizzazione continua dei valori solo nei **nuovi** campi. I vecchi campi non verranno aggiornati.
+Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una backfill una tantum di dati, una nuova mappatura e una sincronizzazione continua dei valori solo nei campi **new**. I vecchi campi non verranno aggiornati.
 
 | **Nome campo** | **Descrizione** |
 |---|---|
@@ -61,7 +61,7 @@ Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una copia di da
 | URL e-mail MSE | Facendo clic su questo URL si aprirà il centro comandi in MSE e si passerà alla scheda Cronologia visualizzazione dettagli persone, dove potrete vedere il messaggio e-mail inviato. |
 | E-mail MSE visualizzata | Registra un segno di spunta quando il destinatario visualizza un messaggio e-mail. |
 
-## Rollup Dei Campi Di Registrazione {#roll-up-logging-fields}
+## Rollup dei campi di registrazione {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -125,7 +125,7 @@ Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una copia di da
 | Invia a MSE | Invia il contatto da Salesforce a MSE. |
 | Chiama con MSE | Effettuare chiamate di vendita da Salesforce. |
 
-## Pulsanti di azione in blocco {#bulk-action-buttons}
+## Pulsanti di azione di massa {#bulk-action-buttons}
 
 | **Nome pulsante** | **Descrizione** |
 |---|---|
@@ -142,5 +142,6 @@ Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una copia di da
 
 ## Video correlati {#related-videos}
 
-**Come installare le personalizzazioni in Salesforce**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Il vantaggio di utilizzare le personalizzazioni in Salesforce**
+**Come installare le personalizzazioni in Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Il vantaggio di utilizzare le personalizzazioni in Salesforce** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
