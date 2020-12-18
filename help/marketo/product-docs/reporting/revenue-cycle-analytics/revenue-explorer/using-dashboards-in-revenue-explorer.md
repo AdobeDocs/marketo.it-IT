@@ -21,7 +21,7 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 
    ![](assets/one.png)
 
-1. Fate clic su **Crea nuovo**, quindi su **Dashboard**.
+1. Fare clic su **Crea nuovo**, quindi su **Dashboard**.
 
    ![](assets/two.png)
 
@@ -31,9 +31,9 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 
    >[!NOTE]
    >
-   >Per personalizzare ulteriormente l’aspetto del dashboard, fai clic su **Temi** e scegli il tuo preferito.
+   >Per personalizzare ulteriormente l&#39;aspetto del dashboard, fai clic su **Temi** e scegli il tuo preferito.
 
-1. Nella prima sezione del dashboard, fate clic sull&#39;icona **Inserisci** e selezionate **File**.
+1. Nella prima sezione del dashboard, fare clic sull&#39;icona **Inserisci** e selezionare **File**.
 
    ![](assets/four.png)
 
@@ -41,7 +41,7 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 
    ![](assets/five.png)
 
-1. Fate doppio clic su **Tutti i rapporti e le dashboard**.
+1. Fare doppio clic su **Tutti i report e dashboard**.
 
    ![](assets/six.png)
 
@@ -71,7 +71,7 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 
    ![](assets/one.png)
 
-1. Fare doppio clic sulla cartella **Revenue Explorer** . Individuate la posizione di vita del dashboard.
+1. Fare doppio clic sulla cartella **Revenue Explorer**. Individuate la posizione di vita del dashboard.
 
    ![](assets/thirteen.png)
 
@@ -85,7 +85,7 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 
    ![](assets/one.png)
 
-1. Fare doppio clic sulla cartella **Revenue Explorer** . Individuate la posizione di vita del dashboard.
+1. Fare doppio clic sulla cartella **Revenue Explorer**. Individuate la posizione di vita del dashboard.
 
    ![](assets/thirteen.png)
 
