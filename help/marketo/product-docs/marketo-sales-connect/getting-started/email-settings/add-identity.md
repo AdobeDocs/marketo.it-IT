@@ -17,11 +17,11 @@ Aggiungete un&#39;identità quando avete più indirizzi e-mail da inviare.
 
 1. Fate clic sull&#39;icona Impostazioni.
 1. Fate clic su Impostazioni e-mail.
-1. Fate clic su **Aggiungi identità**.
+1. Fare clic su **Aggiungi identità**.
 
    >[!NOTE]
    >
-   >Ulteriori informazioni sull&#39; [aggiunta di firme alle identità](https://docs.marketo.com/x/6BnG).
+   >Ulteriori informazioni sull&#39;aggiunta di [firme alle identità](https://docs.marketo.com/x/6BnG).
 
 1. Inserite le informazioni (e-mail e nome sono campi obbligatori), fate clic su **Crea** al termine.
 1. Fai clic sul collegamento nell’e-mail di verifica che hai ricevuto.
