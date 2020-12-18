@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >* [Aggiungi riunione Web di livello 3 come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Imposta le [azioni di flusso appropriate](https://docs.marketo.com/x/k8Kt)per monitorare il coinvolgimento
+>* Impostare le azioni di flusso [appropriate](https://docs.marketo.com/x/k8Kt)per tenere traccia del coinvolgimento
 
 >
 
 
 
-Create innanzitutto il webinar nel livello 3. Se hai bisogno di aiuto, consulta la Libreria risorse di [livello 3](http://www.level3.com/en/resource-library/). Troverete che sia molto simile a BrightTalk.  Marketo utilizza un piccolo sottoinsieme di campi di livello 3:
+Create innanzitutto il webinar nel livello 3. Per assistenza, consultare la [Libreria risorse di livello 3](http://www.level3.com/en/resource-library/). Troverete che sia molto simile a BrightTalk.  Marketo utilizza un piccolo sottoinsieme di campi di livello 3:
 
-* **Nome** - Il nome del webcast.
-* **Data** inizio - Data di inizio del webcast.
-* **Data** fine - Data di fine del webcast.
-* **Fuso** orario: il fuso orario impostato per il webcast.
+* **Nome**  - Il nome del webcast.
+* **Data**  inizio: data di inizio del webcast.
+* **Data**  fine - Data di fine del webcast.
+* **Fuso**  orario: il fuso orario impostato per il webcast.
 * **Descrizione** - La descrizione del webcast.
 
-1. Selezionate il nuovo evento. Fate clic su Azioni **evento,** quindi su Impostazioni **evento.**
+1. Selezionate il nuovo evento. Fare clic su **Azioni evento,** quindi su **Impostazioni evento.**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. In Partner evento, selezionate Riunione **Web di** livello 3.
+1. In Partner evento, selezionate **Riunione Web di livello 3**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
@@ -47,14 +47,14 @@ Create innanzitutto il webinar nel livello 3. Se hai bisogno di aiuto, consulta 
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. Fate clic su **Salva**.
+1. Fare clic su **Salva**.
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
    Ottimo! Avete collegato l&#39;evento al livello 3!
 
-## Visualizzazione della pianificazione  {#viewing-the-schedule}
+## Visualizzazione della pianificazione {#viewing-the-schedule}
 
-Nella vista [Pianificazione](http://docs.marketo.com/display/docs/program+schedule+view)programma, fate clic sulla voce del calendario relativa all&#39;evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
+Nella [vista programmazione programma](http://docs.marketo.com/display/docs/program+schedule+view), fare clic sulla voce del calendario relativa all&#39;evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
