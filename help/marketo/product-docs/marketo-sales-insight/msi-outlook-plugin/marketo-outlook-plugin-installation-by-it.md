@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Installazione plug-in di Marketo Outlook da parte di IT {#marketo-outlook-plugin-installation-by-it}
+# Installazione del plug-in di Microsoft Outlook Marketo da parte di IT {#marketo-outlook-plugin-installation-by-it}
 
 A volte i criteri aziendali richiedono che il team IT installi tutti i software sui computer dei propri dipendenti. In questi casi, l&#39;IT spesso esegue questa operazione in remoto utilizzando il proprio software di distribuzione. Questo documento fornisce le righe di comando da utilizzare come input durante il processo di distribuzione per installare in remoto il plug-in di Outlook.
 
 >[!PREREQUISITES]
 >
->[Configurare](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) la chiave Enterprise.
+>[Impostare ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) la chiave Enterprise.
 
 Eseguite la riga di comando seguente come &quot;System&quot; o account utente amministratore con l&#39;opzione /i da installare.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -44,7 +44,7 @@ Per specificare una posizione dei file di registro, è possibile specificare il 
 >
 >Il percorso di memorizzazione del file di registro deve esistere o l&#39;installazione verrà interrotta.
 
-Per provare a utilizzare livelli di accesso o interfaccia utente diversi, fare riferimento all&#39;elenco completo delle opzioni [di](https://support.microsoft.com/en-us/kb/227091) Microsoft.
+Fare riferimento all&#39; [elenco completo di switch di Microsoft](https://support.microsoft.com/en-us/kb/227091) se si desidera provare diversi livelli di registrazione o di interfaccia utente.
 
 >[!NOTE]
 >
