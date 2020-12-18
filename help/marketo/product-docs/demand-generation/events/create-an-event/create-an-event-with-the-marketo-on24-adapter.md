@@ -11,30 +11,30 @@ ht-degree: 0%
 ---
 
 
-# Creazione di un evento con l&#39;adattatore Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
+# Creazione di un evento con la scheda Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
 
 ## Prima di iniziare {#before-you-begin}
 
 È necessario avere familiarità con i blocchi di generazione e con la sequenza consigliata per la creazione di eventi in Marketo. È inoltre necessario avere una conoscenza approfondita dei seguenti concetti di Marketo:
 
-* [Programmi](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) Marketo e Eventi, e le loro differenze
+* [Programmi Marketo, ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) eventi e differenze tra di essi
 * [Canali](../../../../product-docs/administration/tags/create-a-program-channel.md)
 * [Risorse locali](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Campagne](https://docs.marketo.com/x/IRCa) figlio e stati del [programma](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Campagne ](https://docs.marketo.com/x/IRCa) figlio e stati  [del programma](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Per ulteriori informazioni sulle API di Marketo, consulta la documentazione [API di](http://developers.marketo.com/documentation/rest/) Marketo.
+>Per ulteriori informazioni sulle API di Marketo, consultare la [documentazione API di Marketo](http://developers.marketo.com/documentation/rest/).
 
 ## Prerequisiti {#prerequisites}
 
 Per utilizzare l&#39;integrazione Marketo ON24 sono necessari i seguenti requisiti:
 
-* **Iscrizione a webcast** ON24 - Se non disponete di un abbonamento corrente, contattate direttamente ON24. **NOTA**: ON24 Hosted Edition è richiesto. ON24 Event Management non è richiesto.
+* **Iscrizione a webcast**  ON24 - Se non disponete di un&#39;iscrizione corrente, contattate direttamente ON24. **NOTA**: ON24 Hosted Edition è richiesto. ON24 Event Management non è richiesto.
 
-* **Diritti di amministratore su ON24** - Per utilizzare questo connettore e creare ospiti nel sistema ON24, è necessario utilizzare il connettore.
-* **Credenziali** di connessione ON24: per abilitare l&#39;integrazione, è necessario immettere queste informazioni in Markete: Nome utente, password, ID client e chiave client. Contattate il vostro Account Manager ON24 o il servizio di assistenza ON24 se avete bisogno di aiuto per le vostre credenziali.
-* **Modulo** di registrazione - Utilizzate un modulo Marketo o un modulo non Marketo insieme all&#39;API appropriata per garantire che i dati di registrazione e le informazioni di registrazione vengano passati a Marketo.
+* **Diritti di amministratore su ON24** - Sarà necessario utilizzare questo connettore e creare ospiti nel sistema ON24.
+* **Credenziali**  di connessione ON24: per abilitare l&#39;integrazione, è necessario immettere queste informazioni in Markech: Nome utente, password, ID client e chiave client. Contattate il vostro Account Manager ON24 o il servizio di assistenza ON24 se avete bisogno di aiuto per le vostre credenziali.
+* **Modulo**  di registrazione - Utilizzate un modulo Marketo o un modulo non Marketo insieme all&#39;API appropriata per garantire che i dati di registrazione e le informazioni di registrazione vengano passati a Marketo.
 * **Campagna figlio di registrazione - **Una campagna figlio di registrazione nell&#39;evento Marketo deve essere creata e configurata correttamente affinché l&#39;integrazione del partner evento funzioni.
 
 ## Flusso di processo {#process-flow}
