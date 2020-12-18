@@ -17,7 +17,7 @@ Sales Phone consente di registrare e salvare le registrazioni delle chiamate. Se
 
 ## Copia collegamento registrazione da Dettagli persona nell&#39;applicazione Web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Passate all’applicazione [](http://toutapp.com/login)Web.
+1. Passare all&#39;applicazione Web [](http://toutapp.com/login).
 1. Aprite i dettagli della persona.
 1. Trovate l&#39;attività di chiamata nell&#39;elenco delle attività.
 1. Fai clic con il pulsante destro del mouse sulla registrazione della chiamata e copia l’URL del collegamento.
