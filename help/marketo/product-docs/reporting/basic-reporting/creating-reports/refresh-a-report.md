@@ -23,7 +23,7 @@ Dopo aver visualizzato un rapporto, Marketo lo memorizza nel database in modo ch
 
    ![](assets/two.png)
 
-1. Per aggiornare il rapporto, fai clic sul menu Azioni **** rapporto e seleziona **Aggiorna rapporto**.
+1. È inoltre possibile aggiornare il rapporto facendo clic sul menu **Azioni report** e selezionando **Aggiorna report**.
 
    ![](assets/three.png)
 
