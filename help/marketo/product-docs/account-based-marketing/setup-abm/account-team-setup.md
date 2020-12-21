@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Impostazione team account - Documenti Marketo - Documentazione prodotto
 title: Configurazione team account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ Un team di account è un gruppo di parti interessate che lavorano insieme su un 
 
    >[!NOTE]
    >
-   >**Spiegazione**
+   >Quando più account CRM con diversi proprietari di account vengono uniti in un account denominato, Marketo sceglierà un &quot;Proprietario account&quot; e aggiungerà altri proprietari di account come &quot;Co-Proprietari di account&quot;
    >
-   >    
-   >    
-   >    * Quando più account CRM con diversi proprietari di account vengono uniti in un account denominato, Marketo sceglierà un &quot;Proprietario account&quot; e aggiungerà altri proprietari di account come &quot;Co-Proprietari di account&quot;
-   >    * Se un campo &quot;Ruolo&quot; CRM viene successivamente rinominato o eliminato, Marketo ABM interrompe la sincronizzazione dei valori aggiornati fino a quando l&#39;utente non aggiorna manualmente la configurazione in ABM
-
-
+   >Se un campo &quot;Ruolo&quot; CRM viene successivamente rinominato o eliminato, Marketo ABM interrompe la sincronizzazione dei valori aggiornati fino a quando l&#39;utente non aggiorna manualmente la configurazione in ABM
