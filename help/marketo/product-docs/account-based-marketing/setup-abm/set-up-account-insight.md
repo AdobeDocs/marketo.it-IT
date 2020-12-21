@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: Impostazione di Account Insight - Documenti Marketo - Documentazione del prodotto
 title: Impostazione di Account Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ecco come impostare Account Insight.
 
 >[!PREREQUISITES]
 >
->Il punteggio dell&#39;account ABM [deve essere configurato per primo](http://docs.marketo.com/display/DOCS/Account+Score).
+>Il punteggio dell&#39;account ABM [deve essere configurato per primo](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md).
 
 1. Fare clic su **Admin**.
 
@@ -37,9 +37,8 @@ Ecco come impostare Account Insight.
 
    >[!NOTE]
    >
-   >Se le [Impostazioni punteggio account](http://docs.marketo.com/display/DOCS/Account+Score) vengono aggiornate in qualsiasi momento, la configurazione in Vendite ABM deve essere aggiornata da un amministratore per assicurarsi che i punteggi riflettano accuratamente le preferenze dell&#39;utente. Per visualizzare le modifiche, l&#39;utente deve disconnettersi ed effettuare nuovamente l&#39;accesso.
+   >Se le [Impostazioni punteggio account](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) vengono aggiornate in qualsiasi momento, la configurazione in Vendite ABM deve essere aggiornata da un amministratore per assicurarsi che i punteggi riflettano accuratamente le preferenze dell&#39;utente. Per visualizzare le modifiche, l&#39;utente deve disconnettersi ed effettuare nuovamente l&#39;accesso.
 
 1. Fare clic su **Salva**.
 
    ![](assets/five-4.png)
-
