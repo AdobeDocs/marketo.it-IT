@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: Impostazione report ABM - Documenti Marketo - Documentazione prodotto
 title: Impostazione report ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ A ogni rapporto viene fornita l&#39;opzione di rifiuto. Per farlo, fai clic su *
 1. Selezionate di nuovo l&#39;utente a cui desiderate ricevere le e-mail e fate clic su **Resubscription**.
 
    ![](assets/eleven.png)
-
