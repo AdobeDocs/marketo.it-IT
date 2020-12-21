@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: Utilizzo di Personas - Marketo Docs - Documentazione prodotto
 title: Utilizzo di Personas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Visualizza le tue persone visitando uno specifico Account con nome.
 1. Utilizzate i filtri persona in un elenco avanzato per immettere sul mercato un gruppo specifico di persone.
 
 ![](assets/one-b.png)
-
