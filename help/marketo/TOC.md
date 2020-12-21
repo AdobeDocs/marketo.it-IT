@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione di prodotto Marketo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -71,21 +71,21 @@ ht-degree: 0%
             + [Creare una gerarchia](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
          + [Elenchi account](product-docs/account-based-marketing/target/account-lists.md)
          + [Creare un pubblico abbinato su LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+      + Coinvolgi {#engage}
+         + [Filtri account](product-docs/account-based-marketing/engage/account-filters.md)
+         + [Triggers account](product-docs/account-based-marketing/engage/account-triggers.md)
+      + Misura {#measure}
+         + [Pannello principale ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
+         + [Impostazione report ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
+         + [Report vendite ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
+         + [Approfondimenti elenco account](product-docs/account-based-marketing/measure/account-list-insights.md)
+         + [Dimension di account denominato in RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [Approfondimenti account denominati](product-docs/account-based-marketing/measure/named-account-insights.md)
+         + [Utilizzo di Personas](product-docs/account-based-marketing/using-personas.md)
    + Profilo account {#account-profiling}
       + [Impostazione del profilo di account](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [Classificazione e ottimizzazione profilo account](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [Nuova individuazione account](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + Coinvolgi {#engage}
-      + [Filtri account](product-docs/account-based-marketing/engage/account-filters.md)
-      + [Triggers account](product-docs/account-based-marketing/engage/account-triggers.md)
-   + Misura {#measure}
-      + [Pannello principale ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-      + [Impostazione report ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
-      + [Report vendite ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
-      + [Approfondimenti elenco account](product-docs/account-based-marketing/measure/account-list-insights.md)
-      + [Dimension di account denominato in RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-      + [Approfondimenti account denominati](product-docs/account-based-marketing/measure/named-account-insights.md)
-      + [Utilizzo di Personas](product-docs/account-based-marketing/using-personas.md)
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
          + Informazioni sul SEO {#understanding-seo}
@@ -783,7 +783,7 @@ ht-degree: 0%
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
