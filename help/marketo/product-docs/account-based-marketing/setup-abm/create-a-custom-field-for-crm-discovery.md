@@ -3,7 +3,7 @@ unique-page-id: 12978647
 description: Creare un campo personalizzato per l'individuazione di CRM - Documenti Marketo - Documentazione del prodotto
 title: Creazione di un campo personalizzato per l'individuazione CRM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -46,4 +46,3 @@ Aggiungi campi personalizzati agli account, mapparli al CRM e utilizzarli per l&
    Una volta sincronizzato, il nuovo campo verrà visualizzato all&#39;estrema destra nella griglia di Discover CRM.
 
    ![](assets/eight.png)
-
