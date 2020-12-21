@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: Filtraggio in Account denominati - Documenti Marketo - Documentazione prodotto
 title: Applicazione di filtri agli account denominati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Filtrare i dati è un ottimo modo per ridurli rapidamente.
 
    >[!NOTE]
    >
-   >Esistono diverse combinazioni di parametri di ricerca. In questo esempio si trova: *Industria = Banche, Paese = Stati Uniti, Massimo Dipendenti = 10000*.
+   >Esistono diverse combinazioni di parametri di ricerca. In questo esempio si trova: _Industria = Banche, Paese = Stati Uniti, Massimo Dipendenti = 10000_.
 
 1. Fare clic sul menu a discesa **Industria** e selezionare **Banche**.
 
@@ -44,4 +44,3 @@ Filtrare i dati è un ottimo modo per ridurli rapidamente.
    >[!NOTE]
    >
    >Per aggiungere altri filtri, fare clic su **Aggiungi filtro** in basso a sinistra nel modulo.
-
