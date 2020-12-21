@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: Dashboard principale di ABM - Documenti Marketo - Documentazione prodotto
 title: Pannello principale ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Per filtrare in base all’elenco degli account, fate clic sull’elenco a disce
 
 ![](assets/three.png)
 
-Per visualizzare il [Pannello elenco account](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard), fare clic sul nome dell&#39;elenco account selezionato...
+Per visualizzare il [Pannello elenco account](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard), fare clic sul nome dell&#39;elenco account selezionato...
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ Se invece di visualizzare il Pannello elenco account che si desidera espandere i
 
 ![](assets/six.png)
 
-...e visualizzare le informazioni sull&#39;account [denominato](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...e visualizzare le informazioni sull&#39;account [denominato](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md).
 
 ![](assets/seven.png)
-
