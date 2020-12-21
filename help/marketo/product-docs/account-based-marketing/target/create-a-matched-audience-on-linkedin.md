@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Creare un pubblico abbinato su LinkedIn - Marketo Docs - Documentazione prodotto
 title: Creare un pubblico abbinato su LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Crea audience corrispondenti dai tuoi elenchi di account ABM per il targeting de
 
 >[!PREREQUISITES]
 >
->[Aggiungi tipi di pubblico associati LinkedIn come servizio LaunchPoint](http://docs.marketo.com/x/I4Fy)
+>[Aggiungi tipi di pubblico associati LinkedIn come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. In ABM, fare clic sulla scheda **Elenchi account**.
 
@@ -49,13 +49,6 @@ Crea audience corrispondenti dai tuoi elenchi di account ABM per il targeting de
 
    Ed è tutto. Il pubblico è stato spinto su LinkedIn.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
