@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Impostazione del profilo dell'account - Documenti Marketo - Documentazione del prodotto
 title: Impostazione del profilo di account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ Per iniziare a utilizzare Profilo account, effettuate le seguenti operazioni.
 
    >[!TIP]
    >
-   >Una volta creato il modello, è possibile apprendere come sintonizzarlo in [Panoramica sul profilo dell&#39;account](http://docs.marketo.com/x/NIDv).
-
+   >Ora che il modello è stato creato, [imparare a sintonizzarlo](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md).
