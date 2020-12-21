@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: Valutazione account - Documenti Marketo - Documentazione prodotto
 title: Punteggio account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 
 >[!NOTE]
 >
->**Spiegazione**
->
->Per calcolare i punteggi dei conti, è innanzitutto necessario creare i punteggi dei lead. Marketo ABM aggrega automaticamente i punteggi dei lead ai punteggi dei conti. Ad esempio, prenderemo in considerazione due degli esempi di cui sopra (*Account **Product Interest Score* and *Account Web Engagement Score*).
+>Per calcolare i punteggi dei conti, è innanzitutto necessario creare i punteggi dei lead. Marketo ABM aggrega automaticamente i punteggi dei lead ai punteggi dei conti. Ad esempio, prenderemo in considerazione due degli esempi di cui sopra (_Account Product Interest Score_ e _Account Web Engagement Score_).
 >
 >Innanzitutto, create campi per il punteggio iniziale che acquisiscano i dettagli rilevanti da ciascun lead di un account di destinazione.\
 >Quindi assegnate i punteggi dei lead ai rispettivi punteggi del conto:\
@@ -61,17 +59,16 @@ Una volta configurato il punteggio iniziale, procedete come segue.
 
    >[!NOTE]
    >
-   >È possibile scegliere fino a **cinque campi **per calcolare il punteggio account.
+   >Potete scegliere fino a **cinque** campi per calcolare il punteggio account.
 
 1. Immettete il nome del punteggio account, fate clic sul menu a discesa **Seleziona punteggio persona** e selezionate il punteggio corrispondente.
 
    ![](assets/four.png)
 
-1. Fare clic su **+Aggiungi **per aggiungere altri punteggi.
+1. Fare clic su **+Aggiungi** per aggiungere altri punteggi.
 
    ![](assets/five.png)
 
 1. Aggiungete tutti i punteggi desiderati. Fare clic su **Salva** al termine.
 
    ![](assets/six.png)
-
