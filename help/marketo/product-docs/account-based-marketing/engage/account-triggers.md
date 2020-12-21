@@ -3,7 +3,7 @@ unique-page-id: 11380734
 description: Attivatori di account - Documenti Marketo - Documentazione di prodotto
 title: Triggers account
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -43,5 +43,4 @@ Fare clic sul menu a discesa Account denominato...
 
 >[!MORELIKETHIS]
 >
->* [Filtri account](account-filters.md)
-
+>[Filtri account](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)
