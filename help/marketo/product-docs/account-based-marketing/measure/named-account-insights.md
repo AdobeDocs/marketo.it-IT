@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: Informazioni sugli account denominati - Documenti Marketo - Documentazione sui prodotti
 title: Approfondimenti account denominati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Il Pannello account denominato fornisce una visualizzazione a 360 gradi di un ac
 
 ## Dashboard {#dashboard}
 
-Il dashboard aggrega le informazioni chiave a livello di account da tutte le persone all&#39;interno di un account denominato, evitando in tal modo la necessità di andare a ciascuna persona per valutare i propri progressi. Puoi approfondire l&#39;attività dell&#39;e-mail utilizzando [Informazioni e-mail](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+Il dashboard aggrega le informazioni chiave a livello di account da tutte le persone all&#39;interno di un account denominato, evitando in tal modo la necessità di andare a ciascuna persona per valutare i propri progressi. Puoi approfondire l&#39;attività dell&#39;e-mail utilizzando [Informazioni e-mail](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ Il dashboard aggrega le informazioni chiave a livello di account da tutte le per
 
 **Momenti interessanti**
 
-Disponibile per gli utenti di [Marketing Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), puoi vedere i momenti interessanti raggruppati a livello di account.
+A disposizione degli utenti di Marketing Sales Insight, puoi vedere i momenti interessanti raggruppati a livello di account.
 
 ![](assets/int-mom.png)
 
 **Principali persone**
 
-Queste persone vengono calcolate in base alle priorità che si basano sulla recency o l&#39;urgenza mostrate dalle persone di account denominati (come [Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) in Sales Insight), o Punteggi definiti dall&#39;utente. **La** priorità è disponibile solo per gli utenti di Marketing Sales Insight.
+Queste persone vengono calcolate in base alle priorità che si basano sulla recency o l&#39;urgenza mostrate dalle persone di account denominati (come [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight), o Punteggi definiti dall&#39;utente. **La** priorità è disponibile solo per gli utenti di Marketing Sales Insight.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ Visualizza i membri del team dell&#39;account, aggiungi/rimuovi membri, persino 
 
 ## Indicatori ICP {#icp-indicators}
 
-Visualizzare gli indicatori ICP selezionati per l&#39;esportazione quando [il modello è stato sintonizzato](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
+Visualizzare gli indicatori ICP selezionati per l&#39;esportazione quando [il modello è stato sintonizzato](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)
-
