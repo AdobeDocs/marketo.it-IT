@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Elenchi account - Documenti Marketo - Documentazione prodotto
 title: Elenchi account
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Oltre agli elenchi degli account, puoi anche creare elenchi di account dinamici 
 
 >[!NOTE]
 >
->Gli elenchi di account creati in Marketing basato su account Marketo sono automaticamente disponibili quando si creano elenchi smart e campagne Web in [Web Personalization](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Gli elenchi di account creati in Marketing basato su account Marketo sono automaticamente disponibili quando si creano elenchi smart e campagne Web in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Crea nuovo elenco account {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ Oltre agli elenchi degli account, puoi anche creare elenchi di account dinamici 
 
    ![](assets/three-0.png)
 
-1. Dopo aver creato l&#39;elenco degli account, iniziate dall&#39;aggiunta di [account denominati ](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Dopo aver creato l&#39;elenco degli account, iniziate dall&#39;aggiunta di [account denominati ](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Oltre agli elenchi degli account, puoi anche creare elenchi di account dinamici 
 
 >[!NOTE]
 >
->Questi passaggi si applicano solo agli elenchi degli account. *Gli elenchi di account* dinamici utilizzano il nome delle relative viste account CRM associate.
+>Questi passaggi si applicano solo agli elenchi degli account. _Gli elenchi di account_ dinamici utilizzano il nome delle relative viste account CRM associate.
 
 1. Selezionate l&#39;account da rinominare, fate clic sul menu a discesa **Azioni elenco account** e selezionate **Rinomina elenco account**.
 
@@ -91,10 +91,6 @@ Oltre agli elenchi degli account, puoi anche creare elenchi di account dinamici 
 
 >[!MORELIKETHIS]
 >
->* [Aggiunta di un account denominato esistente a un elenco account](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Approfondimenti elenco account](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [Aggiunta di un account denominato esistente a un elenco account](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Approfondimenti elenco account](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
