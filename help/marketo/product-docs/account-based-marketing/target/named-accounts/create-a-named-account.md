@@ -3,7 +3,7 @@ unique-page-id: 12615781
 description: Creare un account denominato - Documenti Marketo - Documentazione del prodotto
 title: Creare un account denominato
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -29,9 +29,4 @@ Per creare manualmente un account denominato, effettuate le seguenti operazioni.
 
 >[!MORELIKETHIS]
 >
->* [Aggiunta di persone a un account denominato](add-people-to-a-named-account.md)
-
->
-
-
-
+>[Aggiunta di persone a un account denominato](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
