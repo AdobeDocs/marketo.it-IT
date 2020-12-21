@@ -3,7 +3,7 @@ unique-page-id: 12615798
 description: Aggiungere un account denominato esistente a un elenco di account - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un account denominato esistente a un elenco account
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,9 +35,4 @@ Aggiungere un account denominato a un elenco di account è semplice.
 
 >[!MORELIKETHIS]
 >
->* [Creare un account denominato](create-a-named-account.md)
-
->
-
-
-
+>[Creare un account denominato](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
