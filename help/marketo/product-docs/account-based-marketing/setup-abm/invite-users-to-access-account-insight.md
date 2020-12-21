@@ -3,7 +3,7 @@ unique-page-id: 12980105
 description: Invito degli utenti ad accedere a Visione account - Documenti Marketo - Documentazione prodotto
 title: Invitare gli utenti ad accedere a Visione account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,4 +52,3 @@ Seguite questi passaggi per consentire agli utenti di accedere a Account Insight
 1. Controllate il messaggio di invio, apportate le modifiche desiderate (facoltativo) e fate clic su **Send**.
 
    ![](assets/seven-2.png)
-
