@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: Ranking e Tuning del profilo dell'account - Marketo Docs - Documentazione del prodotto
 title: Classificazione e ottimizzazione profilo account
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ I risultati mostrano tutti gli account noti suddivisi per grado. A è il grado p
 
 ![](assets/results.png)
 
-Anche se opzionale, si consiglia di selezionare la casella di controllo Promuovi automaticamente, in quanto consente di risparmiare un sacco di tempo. Tuttavia, se si desidera esaminare ciascun account e [aggiungerlo manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), è sufficiente lasciare deselezionata la casella.
+Anche se opzionale, si consiglia di selezionare la casella di controllo Promuovi automaticamente, in quanto consente di risparmiare un sacco di tempo. Tuttavia, se si desidera esaminare ciascun account e [aggiungerlo manualmente](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts), è sufficiente lasciare deselezionata la casella.
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ Ci sono diverse schede tra cui scegliere, consentendo una personalizzazione appr
 
 ![](assets/tuning-page.png)
 
-Categorie indicatori
+**Categorie indicatori**
 
-| **Conformità** | Certificazioni, posizioni/assunzioni relative alla conformità. |
-|---|---|
-| **Operazioni** | Posizioni/assunzioni relative alle operazioni. |
-| **HR** | Software HR o Payroll, posizioni/assunzioni relative alle risorse umane. |
-| **Progettazione** | Tecnologie, strutture, posizioni/assunzioni relative all&#39;ingegneria. |
-| **Vendite** | Soluzioni e software per le vendite, posizioni/assunzioni relative alle vendite. |
-| **Intento** | Indicatori di intento. |
-| **IT** | Soluzioni hardware e software, tecnologie, posizioni/cablaggio IT. |
-| **Finanza** | Software di finanziamento, posizioni finanziarie/assunzioni. |
-| **Marketing** | Tecnologie e software di marketing, posizioni/assunzioni relative al marketing. |
-| **Business** | Voci Forbes o Inc. o partnership aziendali. |
-| **Esperienza cliente e relazioni** | Successo del cliente e posizioni/assunzioni nelle relazioni con i clienti. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Conformità</strong></td> 
+   <td> 
+    <div>
+      Certificazioni, posizioni/assunzioni relative alla conformità. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Operazioni</strong></td> 
+   <td> 
+    <div>
+      Posizioni/assunzioni relative alle operazioni. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      Software HR o Payroll, posizioni/assunzioni relative alle risorse umane.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Progettazione</strong></td> 
+   <td> 
+    <div>
+      Tecnologie, strutture, posizioni/assunzioni relative all'ingegneria. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Vendite</strong></td> 
+   <td> 
+    <div>
+      Soluzioni e software per le vendite, posizioni/assunzioni relative alle vendite. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Intento</strong></td> 
+   <td> 
+    <div>
+      Indicatori di intento. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      Soluzioni hardware e software, tecnologie, posizioni/cablaggio IT.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Finanza</strong></td> 
+   <td> 
+    <div>
+      Software di finanziamento, posizioni finanziarie/assunzioni. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketing</strong></td> 
+   <td> 
+    <div>
+      Tecnologie e software di marketing, posizioni/assunzioni relative al marketing. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Business</strong></td> 
+   <td> 
+    <div>
+      Voci Forbes o Inc. o partnership aziendali. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Esperienza cliente e relazioni</strong></td> 
+   <td> 
+    <div>
+      Successo del cliente e posizioni/assunzioni nelle relazioni con i clienti.
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 Passate il puntatore del mouse sulle descrizioni di ciascuna colonna.
 
@@ -89,7 +158,7 @@ Fate clic sul menu a discesa Aggiungi indicatore ICP per inserire altri indicato
 
 ![](assets/add-icp.png)
 
-Selezionando la casella Esporta è possibile visualizzare l&#39;indicatore ICP nella pagina Dettagli account denominato, nonché utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](http://docs.marketo.com/display/DOCS/Account+Filters).
+Selezionando la casella Esporta è possibile visualizzare l&#39;indicatore ICP nella pagina Dettagli account denominato, nonché utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md).
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ Fate clic su Aggiorna modello per rendere effettive le modifiche.
 Una volta completata l&#39;ottimizzazione del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica blocchi**.
 
 ![](assets/ranks.png)
-
