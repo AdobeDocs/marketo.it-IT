@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: Gerarchie ABM - Documenti Marketo - Documentazione prodotto
 title: Gerarchie ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ Utilizzo della gerarchia
 >
 >L&#39;interfaccia di Marketo verrà visualizzata solo fino a 10 livelli in basso (account figlio e nipote dell&#39;account padre), ma non vi è alcun limite al numero di account figlio che è possibile creare.
 
-Esegue il targeting e il report su intere gerarchie con [un clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Esegue il targeting e il report su intere gerarchie con [un clic](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
-
