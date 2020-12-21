@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Scopri account - Documenti Marketo - Documentazione di prodotto
 title: Scopri account
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ Identificare potenziali account di destinazione dal CRM.
 >
 >Dopo aver collegato CRM a Marketo ABM, **Scopri account CRM** mostrerà tutti gli account CRM e le informazioni pertinenti per aiutarti a scegliere gli account denominati giusti. Marketo aggiunge informazioni aggiuntive oltre a quelle ricevute dal CRM.
 
-**Persone** (In Scopri Account CRM E Scopri Società Marketo): Include sia Contatti che Lead. I lead possono essere scoperti utilizzando la corrispondenza lead-to-account di Marketo [](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching). **Persone**  Potenziali (In Scopri Account CRM E Scopri Società Marketo): Mostra quanti lead ha trovato Marketo che potrebbe appartenere a un account CRM.
+**Persone** (In Scopri Account CRM E Scopri Società Marketo): Include sia Contatti che Lead. I lead possono essere scoperti utilizzando la corrispondenza lead-to-account di Marketo [](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md).
 
-**Campo**  CRM personalizzato (solo in Scopri account CRM): Questo ti aiuterà ad allineare la tua organizzazione di vendita e marketing per la selezione di account di destinazione corretti. Una volta che [mappate il campo CRM personalizzato](http://docs.marketo.com/x/1wnG) con Marketo ABM, vi mostreremo i dati mappati per aiutarvi a identificare i vostri account di destinazione.
+**Persone**  Potenziali (In Scopri Account CRM E Scopri Società Marketo): Mostra quanti lead ha trovato Marketo che potrebbe appartenere a un account CRM.
+
+**Campo**  CRM personalizzato (solo in Scopri account CRM): Questo ti aiuterà ad allineare la tua organizzazione di vendita e marketing per la selezione di account di destinazione corretti. Una volta che [mappate il campo CRM personalizzato](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md) con Marketo ABM, vi mostreremo i dati mappati per aiutarvi a identificare i vostri account di destinazione.
 
 1. In Account denominati, fai clic sul menu a discesa **Nuovo** e seleziona **Scopri account CRM**.
 
@@ -63,17 +65,17 @@ Identificate le aziende giuste per il targeting.
    >
    >In Scopri le aziende Marketo e Scopri CRM, Marketo automaticamente:
    >
-   > * Trova le persone del database Marketo che hanno la società indicata nel record. Se visualizzi più valori per alcuni degli attributi (ad es. Industria), è perché Marketo ha trovato valori diversi elencati per queste singole persone. L&#39;attributo con il maggior numero di hit vince
+   >* Trova le persone del database Marketo che hanno la società indicata nel record. Se vengono visualizzati più valori per alcuni degli attributi (ad esempio, Industria), è perché Marketo ha trovato valori diversi elencati per queste singole persone. L&#39;attributo con il maggior numero di hit vince
    >
    >Solo in **Scopri CRM**, Marketo automaticamente:
    >
-   > * Sincronizza e associa i contatti CRM con l&#39;account denominato
+   >* Sincronizza e associa i contatti CRM con l&#39;account denominato
    >
    >Solo in **Scopri Marketo Companies**, Marketo automaticamente:
    >
-   > * Consente di escludere la maggior parte dei provider di servizi Internet e dei domini pubblici (ad esempio [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com) come nome della società
+   >* Filtra la maggior parte dei provider di servizi Internet e i domini pubblici (ad esempio, yahoo.com, gmail.com) come nomi aziendali
       >
-      > 
+      >
    * Deduce gli account CRM. Se hai &quot;Acme&quot; in un record e &quot;Acme Inc&quot; (o uno dei seguenti suffissi: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), li fonderemo in ABM come &quot;Acme&quot;
    >
    >Se desideri che Marketo degeneri gli account in base all&#39;ID CRM o al proprietario dell&#39;account invece che in base al nome della società, contatta il [Supporto marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
@@ -116,5 +118,4 @@ Identificate le aziende giuste per il targeting.
 
 >[!MORELIKETHIS]
 >
->* [Lead per corrispondenza account](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[Lead per corrispondenza account](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
