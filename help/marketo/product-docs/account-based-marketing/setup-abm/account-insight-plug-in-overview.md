@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Panoramica del plug-in di Account Insight - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del plug-in di Account Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 Account Insight è un plug-in Chrome che presenta ABM fruibili e informazioni di account ai team di vendita, consentendo loro di interagire con più efficacia con gli account.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Account Insight è incluso per tutti i clienti che hanno sia ABM che Marketo Sales Insight. Per i clienti che dispongono solo di ABM, Account Insight è disponibile come componente aggiuntivo acquistato. Ogni cliente è limitato a 250 postazioni per l&#39;Account Insight. Per informazioni, contattate il rappresentante commerciale. Non è disponibile per i clienti che non dispongono di ABM.
 
 >[!CAUTION]
 >
->Il plug-in Account Insight non funziona nelle sottoscrizioni con l&#39;opzione [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (Single Sign-On) abilitata.
+>Il plug-in Account Insight non funziona nelle sottoscrizioni con l&#39;opzione [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-On) abilitata.
 >
 >Il contesto CRM funziona per Salesforce quando si avvia il plug-in da un account, un lead o un contatto. Il contesto CRM non funziona per Dynamics quando si avvia il plug-in da un account, lead o contatto. Per gli utenti di Dynamics, si consiglia di utilizzare il plug-in Account Insight.
 
@@ -71,7 +69,8 @@ Il feed di attività mostra l&#39;attività recente, risalendo a sette giorni fa
 
 ![](assets/af1.png)
 
-Fate clic sul menu a discesa **Filtro** per filtrare in base a diversi tipi di attività.\
+Fate clic sul menu a discesa **Filtro** per filtrare in base a diversi tipi di attività.
+
 ![](assets/af2.png)
 
 È possibile fare clic su diversi elementi. Fate clic sull&#39;account denominato per visualizzarne i dettagli. Fate clic sul nome dell&#39;utente per visualizzarne l&#39;attività. Fai clic su Altre attività per vedere, beh, altre attività.
@@ -82,9 +81,4 @@ Roba fantastica!
 
 >[!MORELIKETHIS]
 >
->* [Impostazione di Account Insight](set-up-account-insight.md)
-
->
-
-
-
+>[Impostazione di Account Insight](/help/marketo/product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
