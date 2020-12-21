@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Informazioni sull'elenco account - Documenti Marketo - Documentazione prodotto
 title: Approfondimenti elenco account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -57,4 +57,3 @@ Fare clic sulla scheda **Account denominati** per vedere quali account denominat
 Fate clic sulla scheda **Utilizzata da** per vedere quali risorse fanno riferimento a tale elenco account.
 
 ![](assets/four-2.png)
-
