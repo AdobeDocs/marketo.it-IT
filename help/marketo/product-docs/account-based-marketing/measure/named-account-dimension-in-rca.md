@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Dimension di account denominato in RCA - Documenti Marketo - Documentazione del prodotto
 title: Dimension di account denominato in RCA
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Crea report basati sulle entrate utilizzando la dimensione Account con nome spec
 
 >[!NOTE]
 >
->**Definizione**
->
->**Dimension **- attributi (rappresentati da punti gialli) che forniscono diverse viste delle misure.
+>**Dimension** - attributi (rappresentati da punti gialli) che forniscono punti di vista diversi sulle misure.
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ I seguenti rapporti hanno accesso alla dimensione Account denominato:
 * Analisi iscrizione al programma
 
 >[!NOTE]
->
->**Esempio**
 >
 >Di seguito sono riportati alcuni esempi di Marketo ABM in Revenue Cycle Analytics.
 
@@ -55,12 +51,3 @@ Efficacia del programma e impatto sui risultati
 Copertura di lead di qualità e coinvolgimento all&#39;interno di account denominati
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [Analisi del ciclo delle entrate](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
