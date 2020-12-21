@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: Eliminazione di un account denominato - Documenti Marketo - Documentazione del prodotto
 title: Eliminazione di un account denominato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Per eliminare un account denominato, effettuate le seguenti operazioni.
    >[!NOTE]
    >
    >Gli account sincronizzati con CRM non possono essere eliminati in ABM. Se l&#39;opzione di eliminazione non è disponibile, o se ricevi un messaggio &quot;Questi account non possono essere eliminati perché uno o più account CRM sono selezionati&quot;, devono essere eliminati direttamente nel CRM.
-
