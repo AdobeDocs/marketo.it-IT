@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO - Informazioni sulle pagine - Documenti Marketo - Documentazione prodotto
 title: SEO - Informazioni sulle pagine
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Il Punteggio di ottimizzazione pagina è una classifica generale della qualità della pagina ottimizzata per la ricerca, con una scala da 1 a 100. Si basa su dozzine di best practice nel SEO.
 
-* ~ 00 - 35 = Non ottimizzato
-* ~ 35 - 70 = Sulla strada giusta
-* ~ 70 - 100 = Fare grande!
+* 0 - 35 = Non ottimizzato
+* 35 - 70 = Sul binario giusto
+* 70 - 100 = Fare grande!
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ La scheda Pagine mostra il livello di ottimizzazione delle singole pagine del si
 | Titolo | Titolo e URL di tutte le pagine del dominio. Verifica il dominio. |
 | Punteggio di ottimizzazione | La salsa segreta utilizzata per mostrare il livello di ottimizzazione della pagina per la ricerca su una scala da 1 a 100. |
 | Collegamenti | Numero di domini diversi con almeno 1 collegamento in entrata al sito. |
-| Parole chiave di destinazione | Le parole chiave per le quali si decide di ottimizzare ciascuna pagina. [Questo richiede il vostro input](seo-using-the-page-detail-drill-down.md). |
+| Parole chiave di destinazione | Le parole chiave per le quali si decide di ottimizzare ciascuna pagina. [Questo richiede il vostro input](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Scheda Problemi {#issues-tab}
 
@@ -53,7 +53,4 @@ La scheda dei problemi identificherà i miglioramenti che potete apportare per a
 | Categoria | Il tipo di problema da segnalare. |
 | Stato | L&#39;attività è completa o ancora aperta. Una volta che tu e il tuo webmaster avete risolto il problema sul sito, lo stato dovrebbe essere modificato in risolto (controllo verde). |
 
-Impressionante, ora che conoscete le basi delle pagine, controllate l&#39;articolo Page Detail Drill Down (Dettaglio pagina) per imparare cose più interessanti che potete fare.
-
-* [Utilizzo del dettaglio pagina](seo-using-the-page-detail-drill-down.md)
-
+Impressionante, ora che si conoscono le basi delle pagine, controllare l&#39;articolo [Page Detail Drill Down article](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) per scoprire cose più interessanti che è possibile fare.
