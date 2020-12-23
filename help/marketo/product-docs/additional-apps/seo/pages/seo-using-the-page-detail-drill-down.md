@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO - Utilizzo del dettaglio pagina - Documenti Marketo - Documentazione prodotto
 title: SEO - Utilizzo del drill-down dei dettagli pagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Potete visualizzare molte informazioni sulle pagine utilizzando il drill-down de
 
 ## Parole chiave per cui la pagina è ottimizzata per {#keyword-s-that-page-is-optimized-for}
 
-Qui si [selezionare la parola chiave che si sta cercando di ottimizzare la pagina per ](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Qui si [selezionare la parola chiave che si sta cercando di ottimizzare la pagina per ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ Molto dolce, giusto? Ulteriori informazioni su Pagine qui.
 
 >[!MORELIKETHIS]
 >
->* [Ottimizzare pagine specifiche con parole chiave mirate](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[Ottimizzare pagine specifiche con parole chiave mirate](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
