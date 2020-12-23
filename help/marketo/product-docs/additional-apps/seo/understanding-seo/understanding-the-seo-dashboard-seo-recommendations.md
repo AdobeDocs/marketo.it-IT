@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: Il dashboard SEO - SEO Recommendations - Marketo Docs - Documentazione prodotto
 title: Il dashboard SEO - SEO Recommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Utilizzate il dashboard per ottenere una visualizzazione di alto livello delle t
 
 ## Problemi principali di ottimizzazione delle pagine {#top-page-optimization-issues}
 
-Questo vi mostrerà cinque metodi ad alto impatto per iniziare subito a ottimizzare il vostro sito! Basta fare clic su uno dei collegamenti per visualizzare il percorso completo [Dettagli pagina](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Questo vi mostrerà cinque metodi ad alto impatto per iniziare subito a ottimizzare il vostro sito! Basta fare clic su uno dei collegamenti per visualizzare il percorso completo [Dettagli pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Avanti! Tuffati più a fondo qui.
 
 >[!MORELIKETHIS]
 >
->* [Dettaglio pagina a discesa](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[Dettaglio pagina a discesa](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
