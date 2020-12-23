@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: SEO - Aggiungi/rimuovi edizione pagina da un elenco - Documenti Marketo - Documentazione prodotto
 title: SEO - Aggiungi/rimuovi edizione pagina da un elenco
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,16 @@ Potete organizzare le edizioni delle pagine in elenchi. È inoltre possibile rim
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Nella scheda delle pagine, fare clic su **Problemi**.
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
+1. Nella scheda Pagine, fare clic su **Problemi**.
 
-1. Passate il puntatore del mouse sul problema della pagina da aggiungere. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+1. Passate il puntatore del mouse sul problema della pagina da aggiungere. Fare clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    Fate clic sull’elenco a cui desiderate aggiungere l’edizione della pagina.
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
@@ -49,7 +51,7 @@ Potete organizzare le edizioni delle pagine in elenchi. È inoltre possibile rim
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passate il puntatore del mouse sul problema della pagina da rimuovere. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
+1. Passate il puntatore del mouse sul problema della pagina da rimuovere. Fare clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
