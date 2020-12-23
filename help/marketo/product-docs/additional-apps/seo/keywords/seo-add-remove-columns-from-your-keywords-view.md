@@ -3,9 +3,9 @@ unique-page-id: 2949243
 description: SEO - Aggiungi/Rimuovi colonne dalla vista Parole chiave - Documenti Marketo - Documentazione prodotto
 title: SEO - Aggiungi/rimuovi colonne dalla vista Parole chiave
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
    Queste sono le colonne predefinite:
 
-1. ![](assets/image2014-9-18-13-3a37-3a36.png)
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
 
 1. Fate clic sull’icona dell’ingranaggio.
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selezionare o deselezionare le colonne che si desidera visualizzare. Fare clic su **SAVE**.
+1. Selezionare o deselezionare le colonne che si desidera visualizzare. Fare clic su **Salva**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
@@ -35,12 +35,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Parole chiave - Vista di riepilogo](seo-understanding-keywords.md)
-
-
+   >[Parole chiave - Vista di riepilogo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
