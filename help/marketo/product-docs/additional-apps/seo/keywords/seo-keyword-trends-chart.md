@@ -3,9 +3,9 @@ unique-page-id: 2949680
 description: SEO - Grafico delle tendenze delle parole chiave - Documenti Marketo - Documentazione prodotto
 title: SEO - Grafico delle tendenze delle parole chiave
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Grafico delle tendenze delle parole chiave {#seo-keyword-trends-chart}
 
-È importante monitorare l&#39;andamento della parola chiave [SERP Ranks](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) nel tempo. Controllare questo grafico per monitorare l&#39;avanzamento.
+È importante monitorare l&#39;andamento della parola chiave [SERP Ranks](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) nel tempo. Controllare questo grafico per monitorare l&#39;avanzamento.
 
 1. Andate alla sezione **Parole chiave**.
 
@@ -23,18 +23,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Vedete? Mostra il tuo [SERP Rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) negli ultimi 30 giorni:
+   Vedete? Mostra il tuo [SERP Rank](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) negli ultimi 30 giorni:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
    Abbastanza abile, eh? Per ulteriori informazioni sulla classificazione delle parole chiave nel rapporto Tendenze parole chiave.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Utilizzo del rapporto Tendenze parole chiave](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-
-
+   >[Utilizzo del rapporto Tendenze parole chiave](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
