@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: Informazioni sul dashboard SEO - Istantanea SEO - Documenti Marketo - Documentazione prodotto
 title: Informazioni sul dashboard SEO -SEO Snapshot
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Utilizzate il dashboard per ottenere una visualizzazione di alto livello delle tendenze relative alla classificazione delle parole chiave e del livello di ottimizzazione del sito per il SEO.
 
-Per scoprire su cosa concentrarsi per migliorare le attività SEO, utilizza la sezione [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) di questo dashboard.
+Per scoprire su cosa concentrarsi per migliorare le attività SEO, utilizza la sezione [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) di questo dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Riepilogo classificazione parole chiave {#keyword-rank-summary}
 
-Questa sezione mostra la classifica del sito per le [parole chiave di destinazione](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Questa sezione mostra la classifica del sito per le [parole chiave di destinazione](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Questa sezione mostra la classifica del sito per le [parole chiave di destinazio
 
 >[!TIP]
 >
->È inoltre possibile visualizzare le prestazioni di un [elenco specifico](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) di parole chiave. Fai clic sul menu a discesa e seleziona quello che ti interessa.
+>È inoltre possibile visualizzare le prestazioni di un [elenco specifico](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) di parole chiave. Fai clic sul menu a discesa e seleziona quello che ti interessa.
 
 Avanti! Continuiamo a muoverci.
 
@@ -63,9 +63,4 @@ Facile, vero? Ora vediamo la sezione Recommendations di questo dashboard.
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sul dashboard: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[Informazioni sul dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
