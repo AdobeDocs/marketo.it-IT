@@ -3,7 +3,7 @@ unique-page-id: 2949238
 description: SEO - Visualizza risultati parole chiave nel motore di ricerca - Documenti Marketo - Documentazione prodotto
 title: SEO - Visualizza risultati parole chiave nel motore di ricerca
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Per visualizzare l’aspetto del contenuto all’interno di un motore di ricerca
 1. Fantastico! È ora possibile visualizzare i risultati della ricerca per la parola chiave in una nuova finestra.
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-
