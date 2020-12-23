@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: SEO - Aggiunta/rimozione di parole chiave da un elenco - Documenti Marketo - Documentazione prodotto
 title: SEO - Aggiunta/rimozione di parole chiave da un elenco
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passate il puntatore del mouse sulla parola chiave da aggiungere a un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
+1. Passate il puntatore del mouse sulla parola chiave da aggiungere a un elenco. Fare clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-Woohoo! Selezionate l’elenco per visualizzare le nuove parole chiave.
+Wow! Selezionate l’elenco per visualizzare le nuove parole chiave.
 
 ## Rimuovi parola chiave dall&#39;elenco {#remove-keyword-from-list}
 
@@ -45,7 +45,7 @@ Woohoo! Selezionate l’elenco per visualizzare le nuove parole chiave.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passate il puntatore del mouse sulla parola chiave da rimuovere da un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
+1. Passate il puntatore del mouse sulla parola chiave da rimuovere da un elenco. Fare clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,15 +53,12 @@ Woohoo! Selezionate l’elenco per visualizzare le nuove parole chiave.
 
    >[!NOTE]
    >
-   >Tutti gli elenchi a cui la parola chiave appartiene al momento avranno un segno di spunta. Una volta rimosso dall&#39;elenco, il controllo scompare. Magic!
+   >Tutti gli elenchi a cui la parola chiave appartiene al momento avranno un segno di spunta. Una volta rimosso dall&#39;elenco, il controllo scompare.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    Perfetto, la parola chiave non è più presente in questo elenco. Aggiornate la pagina per aggiornare la visualizzazione.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >    
-   >* [Informazioni sulle parole chiave (visualizzazione di riepilogo)](seo-understanding-keywords.md)
-
+   >[Informazioni sulle parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
