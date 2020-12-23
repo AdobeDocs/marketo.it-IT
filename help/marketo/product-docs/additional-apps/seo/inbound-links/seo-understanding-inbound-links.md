@@ -3,7 +3,7 @@ unique-page-id: 2949226
 description: SEO - Informazioni sui collegamenti in entrata - Documenti Marketo - Documentazione prodotto
 title: SEO - Informazioni sui collegamenti in entrata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -32,9 +32,4 @@ Dolce! Ora che hai compreso i collegamenti in entrata, possiamo suggerire ulteri
 
 >[!MORELIKETHIS]
 >
->* [Ottieni suggerimenti collegamenti in entrata](seo-get-inbound-link-suggestions.md)
-
->
-
-
-
+>[Ottieni suggerimenti collegamenti in entrata](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
