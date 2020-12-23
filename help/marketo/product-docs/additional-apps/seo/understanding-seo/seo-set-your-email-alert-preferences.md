@@ -3,9 +3,9 @@ unique-page-id: 2949196
 description: SEO - Impostare le preferenze di avviso e-mail - Documenti Marketo - Documentazione prodotto
 title: SEO - Impostare le preferenze per gli avvisi e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Potete personalizzare le preferenze e-mail per determinare quando aggiornerete l
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indicate cosa desiderate ricevere avvisi via e-mail.
+1. Indicate le informazioni sulle quali desiderate ricevere avvisi via e-mail e fate clic su **Salva**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)
-
-   Groovy. Le preferenze verranno salvate automaticamente.
-
