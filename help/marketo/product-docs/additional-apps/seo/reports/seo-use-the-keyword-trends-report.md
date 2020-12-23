@@ -3,9 +3,9 @@ unique-page-id: 2949273
 description: SEO - Utilizzare il rapporto Tendenze parole chiave - Documenti Marketo - Documentazione prodotto
 title: SEO - Utilizzare il rapporto Tendenze parole chiave
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -62,10 +62,5 @@ In questo rapporto potete vedere come siete classificati in base alle parole chi
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Utilizzo del rapporto sulle tendenze della concorrenza dei rating KW](seo-use-the-competitor-kw-trends-report.md)
-
+   >[Utilizzo del rapporto sulle tendenze della concorrenza dei rating KW](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
 
