@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO - Aggiungi/Rimuovi pagina da elenco - Documenti Marketo - Documentazione prodotto
 title: SEO - Aggiungi/rimuovi pagina dall'elenco
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Vuoi gestire le tue pagine? È possibile farlo facilmente creando un elenco. È 
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passate il puntatore del mouse sulla pagina da aggiungere a un elenco. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
+1. Passate il puntatore del mouse sulla pagina da aggiungere a un elenco. Fare clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -37,7 +37,7 @@ Vuoi gestire le tue pagine? È possibile farlo facilmente creando un elenco. È 
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. Sì! A questo punto è necessario che la pagina venga aggiunta all’elenco.
+Sì! A questo punto è necessario che la pagina venga aggiunta all’elenco.
 
 ## Rimuovi pagina da un elenco {#remove-page-from-a-list}
 
@@ -45,11 +45,11 @@ Vuoi gestire le tue pagine? È possibile farlo facilmente creando un elenco. È 
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Nella scheda delle pagine, fare clic sull’elenco da pulire.
+1. Nella scheda Pagine, fare clic sull&#39;elenco da pulire.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passate il puntatore del mouse sulla pagina da rimuovere. Fare clic su **AGGIUNGI/RIMUOVI DA LIST**.
+1. Passate il puntatore del mouse sulla pagina da rimuovere. Fare clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,5 +61,4 @@ Vuoi gestire le tue pagine? È possibile farlo facilmente creando un elenco. È 
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. Boom. Fatto. La pagina viene rimossa dall’elenco.
-
+Fatto. La pagina viene rimossa dall’elenco.
