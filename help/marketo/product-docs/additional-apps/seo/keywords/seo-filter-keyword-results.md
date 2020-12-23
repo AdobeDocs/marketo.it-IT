@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - Filtra risultati parole chiave - Documenti Marketo - Documentazione prodotto
 title: SEO - Filtra risultati parole chiave
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Risultati parola chiave filtro {#seo-filter-keyword-results}
 
-È possibile che ci siano molte [parole chiave](seo-understanding-keywords.md). Esistono diversi modi per filtrarli:
+È possibile che ci siano molte [parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Esistono diversi modi per filtrarli:
 
 ## Filtrare per elenco {#filter-by-list}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se non viene visualizzato alcun elenco, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [imparare a creare un elenco di parole chiave](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Se non viene visualizzato alcun elenco, [imparare a creare un elenco di parole chiave](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Dolce! In questa lista verranno visualizzate solo le parole chiave.
 
@@ -37,7 +37,7 @@ Dolce! In questa lista verranno visualizzate solo le parole chiave.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   I quadrati arancioni definiscono i limiti superiore (sinistro) e inferiore (destro). Il filtro funziona sul [SERP rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) della parola chiave.
+   I quadrati arancioni definiscono i limiti superiore (sinistro) e inferiore (destro). Il filtro funziona sul [SERP rank](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) della parola chiave.
 
 1. Fate scorrere i quadrati arancioni verso sinistra/destra per filtrare i risultati.
 
@@ -54,6 +54,3 @@ Dolce! In questa lista verranno visualizzate solo le parole chiave.
 1. Inserite la parola chiave nel campo di ricerca.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   Congratulazioni! Ora sei una parola chiave filtrante samurai guerriero!
-
