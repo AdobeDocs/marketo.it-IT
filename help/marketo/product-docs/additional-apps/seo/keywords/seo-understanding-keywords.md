@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - Parole chiave - Documenti Marketo - Documentazione prodotto
 title: SEO - Informazioni sulle parole chiave
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le parole chiave sono la spina dorsale della strategia SEO. L&#39;obiettivo è di essere sulla prima pagina, il più vicino possibile a #1 per le parole chiave rilevanti per il tuo business.
 
-La sezione delle parole chiave mostrerà il successo del sito nel raggiungere questo obiettivo e come si accumula fino a [la concorrenza.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+La sezione delle parole chiave mostrerà il successo del sito nel raggiungere questo obiettivo e come si accumula fino a [la concorrenza](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Parole chiave - Vista di riepilogo {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ Fantastico! Ora che comprendete la sezione delle parole chiave, impariamo a cono
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sulle pagine](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Informazioni sui collegamenti in entrata](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [Informazioni sulle pagine](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Informazioni sui collegamenti in entrata](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
