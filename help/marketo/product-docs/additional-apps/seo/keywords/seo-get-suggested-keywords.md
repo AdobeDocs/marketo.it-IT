@@ -3,9 +3,9 @@ unique-page-id: 2949202
 description: SEO - Ottieni parole chiave suggerite - Marketo Docs - Documentazione prodotto
 title: SEO - Ottieni parole chiave suggerite
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Fare clic su **SUGGERIMENTI DI GET**.
+1. Fare clic su **Ottieni suggerimenti**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Immettere una **parola chiave**. Fare clic su **SUGGEST KEYWORDS**.
+1. Immettere una **parola chiave**. Fare clic su **Suggerisci parole chiave**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Sapevate che potete [aggiungere la parola chiave a un elenco nuovo o esistente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
+   >Sapevate che potete [aggiungere la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
-1. Selezionare le parole chiave suggerite. Fare clic su **AGGIUNGI SELEZIONATO**.
+1. Selezionare le parole chiave suggerite. Fare clic su **Aggiungi selezionato**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -41,7 +41,7 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   Yeeeeeehaw! Ora che sapete come ottenere suggerimenti basati su una parola chiave, provate a ottenere suggerimenti basati su un URL.
+   Yeehaw! Ora che sapete come ottenere suggerimenti basati su una parola chiave, provate a ottenere suggerimenti basati su un URL.
 
 ## Ottieni suggerimenti parole chiave da un URL {#get-keyword-suggestions-from-a-url}
 
@@ -49,7 +49,7 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Fare clic su **SUGGERIMENTI DI GET**.
+1. Fare clic su **Ottieni suggerimenti**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -57,15 +57,15 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Immettete un **URL** e fate clic su **SUGGEST KEYWORDS**.
+1. Immettete un **URL** e fate clic su **Suggerisci parole chiave**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Sapevate che potete [aggiungere la parola chiave a un elenco nuovo o esistente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
+   >Sapevate che potete [aggiungere la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
-1. Selezionare le parole chiave suggerite. Fare clic su **AGGIUNGI SELEZIONATO**.
+1. Selezionare le parole chiave suggerite. Fare clic su **Aggiungi selezionato**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -75,13 +75,8 @@ Marketo SEO può suggerire quali parole chiave tenere traccia. Possiamo fornire 
 
    Ok, stai rockin. Continuate!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Informazioni sulle parole chiave (visualizzazione di riepilogo)](seo-understanding-keywords.md)
-   >    * [Aggiunta/rimozione di parole chiave da un elenco](seo-add-remove-keywords-from-a-list.md)
-
+   >* [Informazioni sulle parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Aggiunta/rimozione di parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
