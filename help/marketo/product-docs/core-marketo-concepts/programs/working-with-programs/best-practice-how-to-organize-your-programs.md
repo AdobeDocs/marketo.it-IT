@@ -3,7 +3,7 @@ unique-page-id: 6848705
 description: Best practice - Come organizzare i programmi - Marketo Docs - Documentazione prodotto
 title: Procedure ottimali - Come organizzare i programmi
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -28,36 +28,28 @@ In Attività di marketing, devi usare le cartelle per organizzare i tuoi program
 >**Esempio**
 >
 >* Programmi di marketing attivi
->
->    * E-mail
->    * Eventi
->
->        * Eventi in diretta/Roadshow
->        * fiere
->        * Webinar
->   * Newsletter
->   * Cura
->   * Contenuto Web
->   * Moduli Web
+   >   * E-mail
+   >   * Eventi
+      >      * Eventi in diretta/Roadshow
+      >      * fiere
+      >      * Webinar
+   >   * Newsletter
+   >   * Cura
+   >   * Contenuto Web
+   >   * Moduli Web
 >* Apprendimento
 >* Operativo
->
->   * Ciclo
->   * Punteggio
->   * Gestione dei dati
+   >   * Ciclo
+   >   * Punteggio
+   >   * Gestione dei dati
 >* Informazioni sulle vendite
->   * Momenti interessanti
->   * E-mail di vendita
->   * Campagne richieste di vendita
->* **Archivia**
->   * Archivia eventi
->      * Archivio 2012
->      * Archivio 2013
-
-
-
-
-
+   >   * Momenti interessanti
+   >   * E-mail di vendita
+   >   * Campagne richieste di vendita
+>* **Archivio**
+   >   * Archivia eventi
+      >      * Archivio 2012
+      >      * Archivio 2013
 
 
 Ognuno di questi esempi citati nell&#39;esempio è una cartella. Notate come hanno tutti un nome univoco. È possibile avere nomi duplicati (più semplici) di cartelle all&#39;interno di programmi, ma non alla radice della struttura.
