@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmenti Web - Documenti Marketo - Documentazione prodotto
 title: Segmenti Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -90,16 +90,14 @@ Dalla pagina **Segments**, fare clic su **Create New** sotto il grafico. Viene v
 
 Definite i parametri generali per il segmento:
 
-1. &#x200B;
+* **Nome:**  Denominate il segmento.
+* **Descrizione:**  fornire una spiegazione più dettagliata dei criteri del segmento.
+* **Domini:**  selezionare i domini che si desidera includere nel segmento.
+* **Logica regola di segmento:**  selezionare una logica AND/OR per creare ogni attributo di segmentazione
+* **Tempo:** definire il livello di coinvolgimento dei visitatori desiderato nella campagna
 
-   * **Nome:**  Denominate il segmento.
-   * **Descrizione:**  fornire una spiegazione più dettagliata dei criteri del segmento.
-   * **Domini:**  selezionare i domini che si desidera includere nel segmento.
-   * **Logica regola di segmento:**  selezionare una logica AND/OR per creare ogni attributo di segmentazione
-   * **Tempo:** definire il livello di coinvolgimento dei visitatori desiderato nella campagna
-
-      * **All&#39;entrata**: Coinvolgi dall’arrivo del visitatore sul sito Web
-      * **Dopo il 1°-9° clic**: Coinvolgi il visitatore dopo un numero specifico di clic sul sito Web
+   * **All&#39;entrata**: Coinvolgi dall’arrivo del visitatore sul sito Web
+   * **Dopo il 1°-9° clic**: Coinvolgi il visitatore dopo un numero specifico di clic sul sito Web
 
 >[!TIP]
 >
@@ -109,22 +107,28 @@ Definite i parametri generali per il segmento:
 >
 >1. Usa tutti i filtri (1, 2 e 3...)
 >1. Usare eventuali filtri (1, 2 o 3...)
->1. Filtri avanzati (tramite e/o espressioni)
->    1. &#x200B;
->       
->       I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
->       * 1 e 2 e 3
->       * 1 o 2 o 3
->
->       La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
->       * 1 e (2 o 3)
->       * (1 e 2) o 3
->
->       Le parentesi nidificate sono accettate per logica più complessa, ad esempio
->       * (1 e 2) o (3 e 4)
->       * 1 e 2 o 3 e 4)
->
->      Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
+>1. Filtri avanzati (uso e/o espressioni)
+
+   >
+   >    
+   I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
+   >
+   >    
+   * 1 e 2 e 3
+   >    * 1 o 2 o 3
+
+   >
+   La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
+
+   * 1 e (2 o 3)
+   * (1 e 2) o 3
+
+   Le parentesi nidificate sono accettate per logica più complessa, ad esempio
+
+   * (1 e 2) o (3 e 4)
+   * 1 e 2 o 3 e 4)
+
+   Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
 
 
 
@@ -139,12 +143,12 @@ Trascina gli attributi Segmento dalla colonna a destra all’editor segmenti a s
 
 **Posizione**
 
-Trascinare **Location **nell&#39;editor segmenti.
+Trascinare **Location** nell&#39;editor segmenti.
 
 * Selezionate uno dei seguenti parametri:
 
-   * **Include **- Selezionare se includere o escludere una posizione nella campagna.
-   * **Selezionare il paese da aggiungere**   - Dalla casella a discesa, selezionare il paese che si desidera includere nel segmento. Il nome del paese viene visualizzato a destra. Potete scegliere più paesi.
+   * **Includi** : consente di selezionare se la campagna deve includere o escludere una posizione.
+   * **Selezionare il paese da aggiungere**  - Dalla casella a discesa, selezionare il paese che si desidera includere nel segmento. Il nome del paese viene visualizzato a destra. Potete scegliere più paesi.
 
 Una volta aggiunto il paese, puoi specificare anche lo stato, la città e il codice postale del segmento.
 
@@ -154,7 +158,7 @@ Una volta aggiunto il paese, puoi specificare anche lo stato, la città e il cod
 
 >[!TIP]
 >
->**Quali sono le condizioni del segmento che scelgo? &quot;AND&quot; o &quot;OR&quot;? **OR funziona come un&#39;opzione aggiuntiva all&#39;interno di ciascun campo. Per qualificarsi per il segmento, le prospettive devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo. Ad esempio, i potenziali possono provenire dagli Stati Uniti. *o* dall&#39;industria della difesa). E funziona come parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della difesa). All&#39;interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot;, a seconda della condizione di segmento selezionata.
+>**Quali sono le condizioni di segmento che scelgo? &quot;AND&quot; o &quot;OR&quot;?** OR funziona come un&#39;opzione aggiuntiva all&#39;interno di ciascun campo. Per qualificarsi per il segmento, le prospettive devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo. Ad esempio, i potenziali possono provenire dagli Stati Uniti. *o* dall&#39;industria della difesa). E funziona come parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della difesa). All&#39;interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot;, a seconda della condizione di segmento selezionata.
 
 **** IndustrieNella sezione  **Segmentazione** profilo, selezionare la casella accanto a  **Industria**.
 
@@ -179,12 +183,10 @@ Nella sezione **Segmentazione profilo**, selezionare la casella accanto a **Grup
 
 **Organizzazioni**
 
-* 
+* **Proviene da queste società (nomi specifici)**
 
-   * **Proviene da queste società (nomi specifici)**
-
-      * Selezionate la società a cui rivolgervi dal menu a discesa &#39;Selezionate la società da aggiungere&#39;.
-      * Puoi digitare il nome esatto dell&#39;organizzazione a cui vuoi indirizzare. *Si consiglia sempre di utilizzare gli elenchi degli account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedere di seguito).**
+   * Selezionate la società a cui rivolgervi dal menu a discesa &#39;Selezionate la società da aggiungere&#39;.
+   * Puoi digitare il nome esatto dell&#39;organizzazione a cui vuoi indirizzare. *Si consiglia sempre di utilizzare gli elenchi degli account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedere di seguito).**
 
 **Elenco account denominato**
 
@@ -226,10 +228,8 @@ Puoi aggiungere o rimuovere i campi dati persona da Impostazioni account > Datab
 
 Definite il segmento in base allo stato di un potenziale: conosciuto o anonimo.
 
-* 
-
-   * Nota: selezionate questa opzione dalla casella a discesa per i visitatori noti. Un visitatore è noto quando invia un modulo sul sito Web e viene visualizzato nella pagina Persone di Web Personalization.
-   * Anonimo - Selezionate questa opzione dal menu a discesa per i visitatori anonimi.
+* Nota: selezionate questa opzione dalla casella a discesa per i visitatori noti. Un visitatore è noto quando invia un modulo sul sito Web e viene visualizzato nella pagina Persone di Web Personalization.
+* Anonimo - Selezionate questa opzione dal menu a discesa per i visitatori anonimi.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
@@ -237,41 +237,29 @@ Definite il segmento in base allo stato di un potenziale: conosciuto o anonimo.
 
 **Visite -** Definite il segmento in base al comportamento o all&#39;identificazione del visitatore.
 
-* 
+* Numero di visite - Selezionate questa opzione dall&#39;elenco a discesa per specificare il numero di visite per i potenziali clienti sul sito Web.
 
-   * Numero di visite - Selezionate questa opzione dall&#39;elenco a discesa per specificare il numero di visite per i potenziali clienti sul sito Web.
+   * Selezionare Uguale, Uguale o Superiore o Uguale o Inferiore a dalla casella a discesa.
 
-      * Selezionare Uguale, Uguale o Superiore o Uguale o Inferiore a dalla casella a discesa.
-   * Visite specifiche - Selezionate questa opzione dalla casella a discesa per specificare un visitatore specifico.
+* Visite specifiche - Selezionate questa opzione dalla casella a discesa per specificare un visitatore specifico.
 
-      * Nella casella di testo a destra, immettete il numero del visitatore da monitorare. Il numero identificativo del visitatore di Web Personalization (Personalizzazione Web) univoco si trova quando si fa clic su un visitatore (nella pagina dei visitatori) e sul pannello di destra di Set Campaign. L’ID visitatore si trova nella sezione Impostazioni avanzate. L’ID visitatore si trova anche nell’URL (ad esempio, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
-
+   * Nella casella di testo a destra, immettete il numero del visitatore da monitorare. Il numero identificativo del visitatore di Web Personalization (Personalizzazione Web) univoco si trova quando si fa clic su un visitatore (nella pagina dei visitatori) e sul pannello di destra di Set Campaign. L’ID visitatore si trova nella sezione Impostazioni avanzate. L’ID visitatore si trova anche nell’URL (ad esempio, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Termini**  di ricerca - Consente di definire un segmento in base ai termini di ricerca di un potenziale.
 
-* 
-
-   * Il visitatore ricercato - Dall’elenco a discesa, selezionate i termini da monitorare dalla ricerca dei visitatori, o aggiungete i termini di ricerca personalizzati. (Non è necessario che il carattere jolly * nei termini di ricerca, in quanto è impostato come predefinito per includere frasi che contengono il termine di ricerca).
+* Il visitatore ricercato - Dall’elenco a discesa, selezionate i termini da monitorare dalla ricerca dei visitatori, o aggiungete i termini di ricerca personalizzati. (Non è necessario che il carattere jolly * nei termini di ricerca, in quanto è impostato come predefinito per includere frasi che contengono il termine di ricerca).
 
 **Riferimenti**  - Aggiungete gli URL a cui ha fatto riferimento il visitatore.
 
-* 
-
-   * Seleziona i riferimenti da aggiungere: dall&#39;elenco a discesa, seleziona i siti di riferimento da tenere traccia o aggiungi un riferimento personalizzato. Una volta selezionati, i riferimenti vengono visualizzati nella casella sottostante. (L&#39;utilizzo di * come carattere jolly è consentito)
+* Seleziona i riferimenti da aggiungere: dall&#39;elenco a discesa, seleziona i siti di riferimento da tenere traccia o aggiungi un riferimento personalizzato. Una volta selezionati, i riferimenti vengono visualizzati nella casella sottostante. (L&#39;utilizzo di * come carattere jolly è consentito)
 
 **Includi pagine**  - Consente di tenere traccia di pagine specifiche visitate sul sito Web.
 
-* 
-
-   * Corrispondenza URL - Aggiungete l&#39;URL di pagine Web specifiche da monitorare. Potete aggiungere più URL separandoli con un punto e virgola. (L&#39;utilizzo di * come carattere jolly è consentito).
+* Corrispondenza URL - Aggiungete l&#39;URL di pagine Web specifiche da monitorare. Potete aggiungere più URL separandoli con un punto e virgola. (L&#39;utilizzo di * come carattere jolly è consentito).
 
 **Escludi pagine**  - Escludi pagine specifiche per le quali non si desidera trovare una corrispondenza nel segmento. (L&#39;utilizzo di * come carattere jolly è consentito).
 
-* 
-
-   * 
-
-      * URL non corrispondente - Aggiungete l’URL di pagine Web specifiche da escludere dal tracciamento. Potete aggiungere più URL separandoli con un punto e virgola
+* URL non corrispondente - Aggiungete l’URL di pagine Web specifiche da escludere dal tracciamento. Potete aggiungere più URL separandoli con un punto e virgola
 
 ![](assets/segment-extra.png)
 
@@ -283,10 +271,11 @@ Trascinamento del sistema operativo mobile nell&#39;editor segmenti
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Tipo di visitatore **
+* **Tipo di visitatore**
+
    **Sistema operativo**  mobile: dalla casella a discesa, seleziona uno o più sistemi operativi mobili elencati. Il sistema operativo mobile selezionato viene visualizzato di seguito.
 
-   * Il visitatore utilizza qualsiasi dispositivo mobile ** **
+   * Il visitatore utilizza qualsiasi dispositivo mobile
    * Il visitatore utilizza questo dispositivo/sistema operativo specifico
    * Il visitatore non utilizza alcun dispositivo mobile
 
@@ -296,10 +285,8 @@ Trascinamento del sistema operativo mobile nell&#39;editor segmenti
 
 Esegue il targeting dei visitatori che utilizzano tipi e/o versioni di browser specifici.
 
-* 
-
-   * Tipo di browser - Dalla casella a discesa, selezionare uno o più browser Internet. I browser selezionati vengono visualizzati di seguito.
-   * Versione browser - Immettere la versione del browser da aggiungere al segmento. Potete selezionare più versioni separandole con una virgola. (L&#39;utilizzo di * come carattere jolly è consentito).
+* Tipo di browser - Dalla casella a discesa, selezionare uno o più browser Internet. I browser selezionati vengono visualizzati di seguito.
+* Versione browser - Immettere la versione del browser da aggiungere al segmento. Potete selezionare più versioni separandole con una virgola. (L&#39;utilizzo di * come carattere jolly è consentito).
 
 ### API {#api}
 
@@ -313,7 +300,7 @@ Chiamata API di personalizzazione Web [maggiori informazioni su di essa.](http:/
 
 >[!TIP]
 >
->**Using Wildcards - **Quando si desidera includere qualsiasi termine di ricerca o URL che contiene qualcosa al suo interno, es. &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito con un asterisco - questo piccolo ragazzo* - su ogni estremità. Pertanto, qualsiasi cosa proveniente da [google.com](http://google.com) deve essere inserita come * [google.com](http://google.com)*
+>**Utilizzo di caratteri jolly -** Quando si desidera includere qualsiasi termine di ricerca o URL che contenga elementi al suo interno, ad esempio &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito con un asterisco - questo piccolo ragazzo* - su ogni estremità. Pertanto, qualsiasi cosa proveniente da [google.com](http://google.com) deve essere inserita come * [google.com](http://google.com)*
 
 ## Modifica segmenti {#edit-segments}
 
@@ -332,7 +319,7 @@ Puoi modificare un segmento creato.
 Puoi eliminare i segmenti creati.
 
 1. Dalla pagina **Segments**, seleziona un segmento.
-1. Fare clic sull&#39;icona di eliminazione ( ![](assets/segment-delete.png) ) del segmento** **che si desidera eliminare.
+1. Fare clic sull&#39;icona di eliminazione ( ![](assets/segment-delete.png) ) del segmento da eliminare.
 1. Viene visualizzato un messaggio di conferma che conferma l&#39;eliminazione del **Segment**.
 
 >[!NOTE]
