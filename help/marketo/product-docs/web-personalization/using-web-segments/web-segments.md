@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segmenti Web - Documenti Marketo - Documentazione prodotto
 title: Segmenti Web
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2024'
 ht-degree: 0%
 
 ---
@@ -101,38 +101,32 @@ Definite i parametri generali per il segmento:
 
 >[!TIP]
 >
->**Logica regola segmento**
+>**Segmentregellogik**
 >
->Sono disponibili tre opzioni di filtro:
+>Es gibt drei Filteroptionen:
 >
->1. Usa tutti i filtri (1, 2 e 3...)
->1. Usare eventuali filtri (1, 2 o 3...)
->1. Filtri avanzati (uso e/o espressioni)
+>1. Alle Filter verwaders (1, 2 e 3...)
+>1. Alle Filter verwatherer (1 ordine 2 ordine 3...)
+>1. Filtro erweiterte (mit und/oder Ausdrücken)
 
    >
    >    
-   I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
-   >
-   >    
-   * 1 e 2 e 3
-   >    * 1 o 2 o 3
+   Mit erweiterten Filtern könen Site die Segmentbedingung steuern. Geben Site die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
 
-   >
-   La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
+   * 1 und 2 und 3
+   * 1 ordine 2 ordine 3
 
-   * 1 e (2 o 3)
-   * (1 e 2) o 3
+   Das Mischen von &quot;and&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 ordine 2 und 3&quot; folgore di muschio geschrieben sein:
 
-   Le parentesi nidificate sono accettate per logica più complessa, ad esempio
+   * 1 und (2 ordine 3)
+   * (1 e 2 ordine 3)
 
-   * (1 e 2) o (3 e 4)
-   * 1 e 2 o 3 e 4)
+   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
 
-   Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
+   * (1 e 2) ordine (3 e 4)
+   * 1 e 2 ordine 3 e 4)
 
-
-
-
+   Überprüfen Dimensione Ihre Logik nach Einfügen, Löschen der Neuanordnen.
 
 
 Trascina gli attributi Segmento dalla colonna a destra all’editor segmenti a sinistra:
@@ -157,8 +151,7 @@ Una volta aggiunto il paese, puoi specificare anche lo stato, la città e il cod
 * **Città**  - Entra nella città o nelle città che desideri includere. Usate il punto e virgola tra le città.
 
 >[!TIP]
->
->**Quali sono le condizioni di segmento che scelgo? &quot;AND&quot; o &quot;OR&quot;?** OR funziona come un&#39;opzione aggiuntiva all&#39;interno di ciascun campo. Per qualificarsi per il segmento, le prospettive devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo. Ad esempio, i potenziali possono provenire dagli Stati Uniti. *o* dall&#39;industria della difesa). E funziona come parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della difesa). All&#39;interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot;, a seconda della condizione di segmento selezionata.
+**Quali sono le condizioni di segmento che scelgo? &quot;AND&quot; o &quot;OR&quot;?** OR funziona come un&#39;opzione aggiuntiva all&#39;interno di ciascun campo. Per qualificarsi per il segmento, le prospettive devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo. Ad esempio, i potenziali possono provenire dagli Stati Uniti. *o* dall&#39;industria della difesa). E funziona come parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della difesa). All&#39;interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot;, a seconda della condizione di segmento selezionata.
 
 **** IndustrieNella sezione  **Segmentazione** profilo, selezionare la casella accanto a  **Industria**.
 
@@ -195,8 +188,7 @@ Seleziona da un [elenco account denominato](../../../product-docs/web-personaliz
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
->
->Il numero tra parentesi accanto al nome dell&#39;elenco di account denominato viene utilizzato come riferimento di indice per l&#39;elenco per la personalizzazione Web [Leggi API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+Il numero tra parentesi accanto al nome dell&#39;elenco di account denominato viene utilizzato come riferimento di indice per l&#39;elenco per la personalizzazione Web [Leggi API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Escludi ISP**
 
@@ -215,10 +207,8 @@ Selezionare Database, quindi selezionare un campo dati persona dall&#39;elenco a
 Puoi aggiungere o rimuovere i campi dati persona da Impostazioni account > Database
 
 >[!TIP]
->
->Crea i criteri di segmento in base a tutti i campi di dati delle persone da Marketo, ad esempio Titolo processo; Punteggio; Ruolo; ecc...
->
->Esempio &quot;Titolo processo uguale a CMO&quot; e &quot;Valutazione minore o uguale a 50&quot;
+Crea i criteri di segmento in base a tutti i campi di dati delle persone da Marketo, ad esempio Titolo processo; Punteggio; Ruolo; ecc...
+Esempio &quot;Titolo processo uguale a CMO&quot; e &quot;Valutazione minore o uguale a 50&quot;
 
 **Invia per e-mail a** CampaignSegment e personalizza le campagne tramite e-mail di riferimento da un visitatore che fa clic su un&#39;e-mail di Marketo e arriva sul sito. Segmenta per Nome programma Marketo o Nome campagna e continua la conversazione dall’e-mail al Web. Selezionate il simbolo + per aggiungere i campi dall’elenco a discesa.
 
@@ -299,8 +289,7 @@ Aggiungete il valore Evento a cui desiderate destinare. Ad esempio, da origini d
 Chiamata API di personalizzazione Web [maggiori informazioni su di essa.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
->
->**Utilizzo di caratteri jolly -** Quando si desidera includere qualsiasi termine di ricerca o URL che contenga elementi al suo interno, ad esempio &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito con un asterisco - questo piccolo ragazzo* - su ogni estremità. Pertanto, qualsiasi cosa proveniente da [google.com](http://google.com) deve essere inserita come * [google.com](http://google.com)*
+**Utilizzo di caratteri jolly -** Quando si desidera includere qualsiasi termine di ricerca o URL che contenga elementi al suo interno, ad esempio &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito con un asterisco - questo piccolo ragazzo* - su ogni estremità. Pertanto, qualsiasi cosa proveniente da [google.com](http://google.com) deve essere inserita come * [google.com](http://google.com)*
 
 ## Modifica segmenti {#edit-segments}
 
