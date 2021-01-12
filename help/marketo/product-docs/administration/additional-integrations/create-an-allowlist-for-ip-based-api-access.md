@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: Creare un Inserire nell'elenco Consentiti  per l'accesso API basato su IP - Marketo Docs - Documentazione prodotto
 title: Creare un Inserire nell'elenco Consentiti di  per l'accesso API basato su IP
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Talvolta, potete concedere l&#39;accesso API solo a un indirizzo IP specifico o 
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Nell&#39;area Limitazioni IP, fare clic su **Edit, **o su** Edit IP Restrictions **in alto a sinistra.
+1. Nell&#39;area Limitazioni IP, fare clic su **Modifica,** o su **Modifica limitazioni IP** in alto a sinistra.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ Talvolta, potete concedere l&#39;accesso API solo a un indirizzo IP specifico o 
 1. Fare clic su **Salva**.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
