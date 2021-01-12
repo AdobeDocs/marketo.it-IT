@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Domande frequenti sul monitoraggio Munchkin di nuova generazione - Marketo Docs - Documentazione prodotto
 title: Domande frequenti sul monitoraggio Munchkin di nuova generazione
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Se utilizzate già questo filtro in un Smart List (ad esempio, in una Smart Camp
 
 >[!NOTE]
 >
->**Esempio**
->
 >**Trigger**: Visita pagina Web, pagina Web è la pagina prezzi\
->**Flusso**: Modifica punteggio +10 e Momento interessante,  **Web**: Pagina dei prezzi visualizzata
+>**Flusso**: Modifica punteggio +10 e Momento interessante
+>**Web**: Pagina dei prezzi visualizzata
 >
 >Con Munchkin V2, se una persona anonima visita la pagina dei prezzi, non inserisce la campagna immediatamente. Nel momento in cui la persona anonima viene a conoscenza, eseguiremo questa campagna su di lei. Sarà:
 >
@@ -60,9 +59,6 @@ Se utilizzate già questo filtro in un Smart List (ad esempio, in una Smart Camp
    >
    >
 * Registrare un&#39;attività di tipo &quot;Nuova persona&quot;, così come avviene oggi
-
->
-
 
 
 ## Cosa succede ai miei Smart List che hanno già il filtro &quot;Is Anonymous&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ Consultate i seguenti collegamenti:
 
 ## Ho più domande! Come posso farle rispondere? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Si prega di contattare la [community](https://nation.marketo.com/welcome). È inoltre possibile inviare un&#39;e-mail a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Saranno felici di rispondere alle tue domande.
+Si prega di contattare la [community](https://nation.marketo.com/welcome). È inoltre possibile contattare [Supporto marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Saranno felici di rispondere alle tue domande.
