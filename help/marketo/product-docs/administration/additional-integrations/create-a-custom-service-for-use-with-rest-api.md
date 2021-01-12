@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: Creare un servizio personalizzato da utilizzare con l'API ReST - Marketo Docs - Documentazione prodotto
 title: Creare un servizio personalizzato da utilizzare con l'API ReST
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Se desiderate integrare Marketo tramite l&#39;API ReST, desiderate creare un ser
 
 >[!PREREQUISITES]
 >
->* [Creare un ruolo utente solo API](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Creazione di un utente solo API](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Creare un ruolo utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Creazione di un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
 >
 
@@ -28,9 +28,7 @@ Se desiderate integrare Marketo tramite l&#39;API ReST, desiderate creare un ser
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Tubo profondo**
+>[!TIP]
 >
 >Consulta la documentazione per gli sviluppatori per informazioni su [ReST API](http://developers.marketo.com/documentation/rest/). Abbiamo anche l&#39; [SOAP API](http://developers.marketo.com/documentation/soap/) se questo è ciò che ti serve.
 
@@ -48,11 +46,9 @@ Se desiderate integrare Marketo tramite l&#39;API ReST, desiderate creare un ser
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Immettere un **nome visualizzato** per il servizio. Selezionare l&#39; **API Only User** [creato in precedenza](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Immettere un **nome visualizzato** per il servizio. Selezionare l&#39; **API Only User** [creato in precedenza](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
-   >
-   >**Promemoria**
    >
    >È già disponibile l&#39;integrazione nativa per i servizi webinar più diffusi.
 
@@ -78,11 +74,10 @@ Se desiderate integrare Marketo tramite l&#39;API ReST, desiderate creare un ser
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Fornire l&#39;ID client***, **Segreto cliente**, **Utente autorizzato** e **Token** alla persona incaricata di stabilire la connessione.
+1. Fornire l&#39; **ID client**, **Segreto client**, **Utente autorizzato** e **Token** alla persona incaricata di stabilire la connessione.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
 >Non condividere queste informazioni; è il backdoor dei tuoi dati. Tienila al sicuro!
-
