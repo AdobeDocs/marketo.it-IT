@@ -3,9 +3,9 @@ unique-page-id: 15695874
 description: Connect BrightTALK to Marketo - Marketo Docs - Documentazione prodotto
 title: Connect BrightTALK to Marketo
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,8 @@ Scopri come collegare il canale BrightTALK all’istanza di Marketo. A tal fine,
 >
 >A questo punto sarà necessario impostare un ruolo utente e un utente API solo API per limitare le autorizzazioni che BrightTALK avrà nell&#39;istanza di Marketo. Poiché abbiamo già articoli per questi passaggi, vi collegheremo a loro.
 
-1. Create un [ruolo utente solo API](http://docs.marketo.com/x/iwMk).
-1. [Create un utente](http://docs.marketo.com/x/jwMk) API utilizzando il ruolo API BrightTALK creato durante il Passaggio 4.
+1. Create un [ruolo utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+1. [Create un utente](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) API utilizzando il ruolo API BrightTALK creato durante il Passaggio 4.
 1. Torna all&#39;area Admin.
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ Scopri come collegare il canale BrightTALK all’istanza di Marketo. A tal fine,
 
    ![](assets/three.png)
 
-1. Immettete il nome visualizzato desiderato. Fare clic sul menu a discesa Servizio e selezionare **Personalizzato** (fare **not** select BrightTALK).
+1. Immettete il nome visualizzato desiderato. Fare clic sul menu a discesa Servizio e selezionare **Personalizzato** (fare _not_ select BrightTALK).
 
    ![](assets/four.png)
 
@@ -73,9 +73,8 @@ Scopri come collegare il canale BrightTALK all’istanza di Marketo. A tal fine,
 
    ![](assets/ten.png)
 
-## Passaggi in BrightTALK {#steps-in-brighttalk-1}
+## Passaggi aggiuntivi in BrightTALK {#additional-steps-in-brighttalk}
 
 1. Tornare alla schermata di configurazione del connettore BrightTALK dal passaggio 3 e immettere le credenziali salvate dai passaggi 12 e 14.
 
    Dopo l&#39;autenticazione delle credenziali, hai collegato ufficialmente BrightTALK a Marketo. Il passaggio successivo consiste nel determinare [quali campi dati si desidera sincronizzare](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
-
