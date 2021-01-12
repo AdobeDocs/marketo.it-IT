@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: Aggiungi zoom come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungi zoom come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,17 @@ Marketo gestisce la registrazione e la partecipazione dello zoom.
 
 >[!NOTE]
 >
->**Promemoria**
->
 >Per questo passaggio è necessaria una sottoscrizione esistente ai diritti di zoom e amministrazione. Immettete a portata di mano le e-mail e la password che utilizzate per accedere per effettuare lo zoom.
 
 1. Andate nell&#39;area **Admin** e fate clic su **LaunchPoint**.
 
    ![](assets/launchpoint.png)
 
-1. Fare clic sul menu a discesa **New **e selezionare **New Service**.
+1. Fare clic sul menu a discesa **Nuovo** e selezionare **Nuovo servizio**.
 
    ![](assets/newservicelp.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**Zoom**.
+1. Immettere un **nome visualizzato**. In **Service**, selezionare **Zoom**.
 
    ![](assets/newservice-1.png)
 
@@ -57,5 +55,4 @@ Marketo gestisce la registrazione e la partecipazione dello zoom.
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento con Zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
-
+>Scoprite come [creare un evento con Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
