@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: Aggiungi Google AdWords come servizio di lancio con un account manager - Marketo Docs - Documentazione del prodotto
 title: Aggiungi Google AdWords come servizio di avvio con un account manager
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Ulteriori informazioni sulla [funzionalità di importazione delle conversioni of
 
 >[!NOTE]
 >
->È inoltre possibile integrare un account [autonomo Google AdWords come servizio Launchpoint](add-google-adwords-as-a-launchpoint-service.md).
+>È inoltre possibile integrare un account [autonomo Google AdWords come servizio Launchpoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
 1. Andate alla sezione **Admin**.
 
@@ -63,7 +63,7 @@ Ulteriori informazioni sulla [funzionalità di importazione delle conversioni of
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Carica le conversioni offline da Marketo a Google AdWords **Settimanale **o **Quotidianamente**.
+1. Carica le conversioni offline da Marketo a Google AdWords **Settimanalmente** o **Quotidianamente**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Ulteriori informazioni sulla [funzionalità di importazione delle conversioni of
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   Yippee! Ora consulta l’articolo correlato di seguito per informazioni su come mappare le conversioni offline di AdWords nel modello di ricavi.
+   Ora consulta l’articolo correlato di seguito per informazioni su come mappare le conversioni offline di AdWords nel modello di ricavi.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Imposta conversioni Google AdWords nel modello delle entrate con un account manager](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[Imposta conversioni Google AdWords nel modello delle entrate con un account manager](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
