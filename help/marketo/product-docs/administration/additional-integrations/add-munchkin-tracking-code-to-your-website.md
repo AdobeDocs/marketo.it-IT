@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Aggiungi Munchkin Tracking Code al tuo sito web - Marketo Docs - Documentazione del prodotto
 title: Aggiungi Munchkin Tracking Code al tuo sito Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungi il codice di monitoraggio Munchkin al tuo sito Web {#add-munchkin-tracking-code-to-your-website}
 
-Il codice di tracciamento JavaScript personalizzato di Marketo, chiamato Munchkin, tiene traccia di tutti gli utenti che visitano il sito Web e potrai reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati con i loro indirizzi IP e altre informazioni. ** Senza questo codice di tracciamento, non potrai monitorare visite o altre attività sul tuo sito web!**
+Il codice di tracciamento JavaScript personalizzato di Marketo, chiamato Munchkin, tiene traccia di tutti gli utenti che visitano il sito Web e potrai reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati con i loro indirizzi IP e altre informazioni. **Senza questo codice di tracciamento, non potrai monitorare visite o altre attività sul tuo sito Web**!
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, chiamato Munchki
 
 >[!TIP]
 >
->Per i siti che visualizzano un elevato volume di traffico (ovvero centinaia di migliaia di visite al mese), si consiglia di non monitorare persone anonime. [Ulteriori informazioni.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>Per i siti che visualizzano un elevato volume di traffico (ovvero centinaia di migliaia di visite al mese), si consiglia di non monitorare persone anonime. [Ulteriori](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) informazioni.
 
 ## Aggiungi codice di tracciamento quando si utilizzano più aree di lavoro {#add-tracking-code-when-using-multiple-workspaces}
 
 Se utilizzate Workspaces nell’account Marketo, probabilmente avrete anche diverse presentazioni Web che corrispondono alle vostre aree di lavoro. In tal caso, potete utilizzare il Javascript di tracciamento Munchkin per assegnare le persone anonime al workspace e alla partizione corretti.
 
-1. Vai ad Admin e fai clic su Munchkin nella struttura ad albero a sinistra.
+1. Accedete a **Admin** e fate clic su **Munchkin** nella struttura ad albero a sinistra.
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. Selezionate l’area di lavoro appropriata per le pagine Web da monitorare.
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >Se non si utilizza il codice speciale dell&#39;area di lavoro Munchkin, le persone verranno assegnate alla partizione predefinita creata al momento della configurazione dell&#39;account. Inizialmente si chiama &quot;Default&quot;, ma potreste averlo modificato nel vostro account Marketo.
 
-1. Selezionare Asincrono per Tipo di codice di tracciamento.
+1. Selezionare **Asynchronous** per il tipo di codice di tracciamento.
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. Fate clic su e copiate il codice di tracciamento JavaScript da inserire nel sito Web.
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->Non utilizzate il codice mostrato in questa schermata; dovete usare il codice univoco che appare nel vostro account!
+   >[!CAUTION]
+   >
+   >Non utilizzate il codice mostrato in questa schermata; dovete usare il codice univoco che appare nel vostro account!
 
 1. Inserite il codice di tracciamento nelle pagine Web nell&#39;elemento `<head>`. Le nuove persone che visitano questa pagina verranno assegnate a questa partizione.
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -98,7 +98,7 @@ Se utilizzate Workspaces nell’account Marketo, probabilmente avrete anche dive
 
 ## Tipi di codici di monitoraggio Munchkin {#types-of-munchkin-tracking-codes}
 
-Ci sono 3 tipi di codici di monitoraggio Munchkin tra cui potete scegliere. Ogni aspetto ha un impatto diverso sui tempi di caricamento delle pagine Web.
+Potete scegliere tra tre tipi di codici di monitoraggio Munchkin. Ogni aspetto ha un impatto diverso sui tempi di caricamento delle pagine Web.
 
 1. **Semplice**: contiene il numero minimo di righe di codice, ma non viene ottimizzata per il tempo di caricamento della pagina Web. Questo codice carica la libreria jQuery ogni volta che viene caricata una pagina Web.
 1. **Asincrono**: riduce il tempo di caricamento della pagina Web.
@@ -109,6 +109,7 @@ Ci sono 3 tipi di codici di monitoraggio Munchkin tra cui potete scegliere. Ogni
 Per verificare che il codice Munchkin funzioni dopo averlo aggiunto:
 
 1. Visita la tua pagina Web.
+
 1. Vai a **Analytics**.
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ Per verificare che il codice Munchkin funzioni dopo averlo aggiunto:
    ![](assets/activitysource.png)
 
 1. Fare clic sulla scheda **Report**. Se non visualizzi alcun dato, attendi alcuni minuti, quindi fai clic sull&#39;icona di aggiornamento in basso.
-
