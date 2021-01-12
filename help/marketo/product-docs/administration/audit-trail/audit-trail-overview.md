@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Panoramica della traccia di controllo - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della traccia di controllo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Chi accede al nostro account?
 
 ## Elementi di controllo {#what-we-audit}
 
-Marketo controllerà le azioni [create, modificate ed eliminate](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) per:
+Marketo controllerà le azioni [create, modificate ed eliminate](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) per:
 
 * Progettare le risorse di studio
 * Tutti i programmi Marketo
@@ -46,27 +46,27 @@ Marketo controllerà le azioni [create, modificate ed eliminate](http://docs.mar
 
 >[!NOTE]
 >
->Al momento, Marketo è **non** il controllo delle modifiche effettuate in Web Personalization (Personalizzazione Web), Predictive Content (Contenuto predittivo) o Sales Insight (Informazioni sulle vendite).
+>Al momento, Marketo è _non_ il controllo delle modifiche effettuate in Web Personalization (Personalizzazione Web), Predictive Content (Contenuto predittivo) o Sales Insight (Informazioni sulle vendite).
 
 ## Componenti della traccia di controllo {#audit-trail-components}
 
 Audit Trail è costituito da tre componenti.
 
-**1)  [Descrizione attività](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1)  [Descrizione attività](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Consultate attività eseguite su risorse specifiche.
 
-**2) Audit Trail  [Amministratore](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2) Audit Trail  [Amministratore](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 Monitorate i dettagli basati sull’utente.
 
-**3) Cronologia login  [utente](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3) Cronologia login  [utente](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Scopri chi ha effettuato l’accesso al tuo abbonamento e quando. Sono inclusi anche i tentativi di accesso non riusciti.
 
 >[!TIP]
 >
->C&#39;è così tanto che puoi eseguire il controllo utilizzando la traccia di audit, assicurati di utilizzare [Filtering](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>C&#39;è così tanto che puoi eseguire il controllo utilizzando la traccia di audit, assicurati di utilizzare [Filtering](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## Esportazione dati {#exporting-data}
 
@@ -82,9 +82,4 @@ Scopri chi ha effettuato l’accesso al tuo abbonamento e quando. Sono inclusi a
 
 >[!MORELIKETHIS]
 >
->* [Abilita traccia di controllo](enable-audit-trail.md)
-
->
-
-
-
+>[Abilita traccia di controllo](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
