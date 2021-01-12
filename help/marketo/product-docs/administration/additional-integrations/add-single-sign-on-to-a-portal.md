@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Aggiunta di Single Sign-On a un portale - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di Single Sign-On a un portale
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ Una volta attivato SSO, l&#39;IdP può convalidare le credenziali di un utente. 
 
 SSO è disattivato per impostazione predefinita. Segui i passaggi per abilitare SAML e configurarlo.
 
-1. Vai a **Admin **e fai clic su **Single Sign-On**.
+1. Accedere a **Admin** e fare clic su **Single Sign-On**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Se **Single Sign-On** non è visualizzato in **Admin**, contattare [`[email protected]`](http://mailto:support@marketo.com).
+   >Se non trovi **Single Sign-On** in **Admin**, contatta [[Supporto marketing]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Nella sezione **Impostazioni SAML** fare clic su **Modifica**.
 
@@ -102,4 +102,3 @@ SSO è disattivato per impostazione predefinita. Segui i passaggi per abilitare 
    >[!NOTE]
    >
    >Entrambe le pagine devono essere accessibili al pubblico.
-
