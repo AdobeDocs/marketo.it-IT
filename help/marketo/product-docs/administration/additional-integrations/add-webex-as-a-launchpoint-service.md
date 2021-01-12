@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: Aggiungi WebEx come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungi WebEx come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Marketo gestisce la registrazione e la partecipazione al webinar WebEx.
 
 >[!NOTE]
 >
->**Promemoria**
->
 >Per questo passaggio sono necessari una sottoscrizione esistente a WebEx e diritti di amministrazione. Disponete delle seguenti impostazioni: Nome utente, Password e Nome sito.
 
 >[!NOTE]
 >
 >Il nome del sito si trova alla fine dell&#39;URL utilizzato per accedere a WebEx. Ad esempio:
 >
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=**mycompa**`**ny**
+>`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
 >Attenzione: Non immettete l’intero URL in questo campo; immettete solo il nome del sito!
 
@@ -49,7 +47,7 @@ Marketo gestisce la registrazione e la partecipazione al webinar WebEx.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Completate il processo immettendo il vostro** Nome sito**, quindi fate clic su **Crea**.
+1. Completare il processo immettendo il **Nome del sito**, quindi fare clic su **Crea**.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
@@ -59,5 +57,4 @@ Marketo gestisce la registrazione e la partecipazione al webinar WebEx.
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento con WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
-
+>Scoprite come [creare un evento con WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
