@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: Limita accesso utente solo a SSO - Documenti Marketo - Documentazione prodotto
 title: Limita accesso utente solo a SSO
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,21 +19,21 @@ Se [utilizzi SSO](add-single-sign-on-to-a-portal.md) e vuoi essere certo che gli
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad Admin e fai clic su Impostazioni di accesso.
+1. Accedete a **Admin** e fate clic su **Impostazioni di accesso**.
 
 ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. Fate clic su Modifica impostazioni di protezione.
+1. Fare clic su **Modifica impostazioni di protezione**.
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. Espandete le impostazioni avanzate, selezionate Richiedi SSO e fate clic su Salva.
+1. Espandete le impostazioni avanzate, selezionate **Richiedi SSO** e fate clic su **Salva**.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!TIP]
 >
->Se si seleziona **Richiedi SSO**, è possibile escludere un ruolo utente [ruolo utente](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **Ignora Single Sign-On** durante la configurazione del ruolo. In questo modo gli utenti potranno effettuare normalmente l&#39;accesso. Ad esempio, gli utenti Admin potrebbero comunque dover accedere a Marketo tramite la schermata di accesso.
+>Se si seleziona **Richiedi SSO**, è possibile escludere un ruolo utente [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **Ignora Single Sign-On** durante la configurazione del ruolo. In questo modo gli utenti potranno effettuare normalmente l&#39;accesso. Ad esempio, gli utenti Admin potrebbero comunque dover accedere a Marketo tramite la schermata di accesso.
 
 >[!CAUTION]
 >
