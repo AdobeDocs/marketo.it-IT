@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Aggiungi Google AdWords come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungi Google AdWords come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Ulteriori informazioni sulla [funzionalità di importazione delle conversioni of
 
 >[!NOTE]
 >
->È inoltre possibile integrare un [Google AdWords come servizio Launchpoint con un account manager](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>È inoltre possibile integrare un [Google AdWords come servizio Launchpoint con un account manager](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
 1. Andate alla sezione **Admin**.
 
@@ -61,7 +61,7 @@ Ulteriori informazioni sulla [funzionalità di importazione delle conversioni of
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Carica le conversioni offline da Marketo a Google AdWords **Settimanale **o **Quotidianamente**.
+1. Carica le conversioni offline da Marketo a Google AdWords **Settimanalmente** o **Quotidianamente**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Ulteriori informazioni sulla [funzionalità di importazione delle conversioni of
    >
    >[Per il funzionamento di questa funzione, è ](https://support.google.com/adwords/answer/1752125?hl=en) necessario selezionare il tag automatico. La disattivazione deve essere eseguita in AdWords.
 
-   >[!NOTE]
-   >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Imposta conversioni Google AdWords nel modello Revenue](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 Fantastico! Ora consulta l’articolo correlato riportato di seguito per apprendere come mappare le conversioni offline di AdWords nel modello di ricavi.
+
+>[!MORELIKETHIS]
+>
+>[Imposta conversioni Google AdWords nel modello Revenue](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
