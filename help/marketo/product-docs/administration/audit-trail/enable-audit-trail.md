@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Abilita traccia di controllo - Documenti Marketo - Documentazione prodotto
 title: Abilita traccia di controllo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ Audit Trail è disponibile per tutti i clienti e controllato da due autorizzazio
    >
    >**Definizione**
    >
-   >
    >**Accesso alla traccia di audit:** consente agli utenti di accedere sia alla traccia di audit delle risorse che alla traccia di audit dell’amministratore.
    >
-   >
-   >**Cronologia di accesso:** consente agli utenti di accedere alla cronologia [ di accesso ](user-login-history.md)utente.
+   >**Cronologia di accesso:** consente agli utenti di accedere alla cronologia [ di accesso ](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)utente.
 
 ## Assegna ruolo traccia di controllo a un utente {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Creazione o  [](#Enable) abilitazione di un ruolo esistente, assegnando ad esso le autorizzazioni Audit Trail.
+>[](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) Creazione o  [](#enable-audit-trail) abilitazione di un ruolo esistente, assegnando ad esso le autorizzazioni Audit Trail.
 
 1. In **Utenti e ruoli**, fare clic su **Utenti**.
 
@@ -75,9 +73,8 @@ Audit Trail è disponibile per tutti i clienti e controllato da due autorizzazio
 
    >[!CAUTION]
    >
-   >Se le aree di lavoro sono abilitate, selezionate la casella di controllo del ruolo, che seleziona tutte le aree di lavoro. Se si deseleziona una singola area di lavoro, verrà nascosta la traccia di controllo. Questo significa che vedrai i dati della traccia di controllo per ogni area di lavoro. È possibile nascondere le aree di lavoro durante il [filtraggio](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Se le aree di lavoro sono abilitate, selezionate la casella di controllo del ruolo, che seleziona tutte le aree di lavoro. Se si deseleziona una singola area di lavoro, verrà nascosta la traccia di controllo. Questo significa che vedrai i dati della traccia di controllo per ogni area di lavoro. È possibile nascondere le aree di lavoro durante il [filtraggio](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Fare clic su **Salva**.
 
    ![](assets/eight-1.png)
-
