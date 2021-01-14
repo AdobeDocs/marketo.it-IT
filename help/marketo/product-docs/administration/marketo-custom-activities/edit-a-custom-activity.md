@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: Modifica di un'attività personalizzata - Documenti Marketo - Documentazione prodotto
 title: Modifica di un'attività personalizzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Se l&#39;attività era una bozza al momento della modifica, rimane una bozza. Se è stato pubblicato, lo stato diventa Pubblicato con bozza.
-
