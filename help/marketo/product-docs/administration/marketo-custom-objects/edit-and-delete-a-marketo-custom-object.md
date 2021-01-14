@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: Modifica ed eliminazione di un oggetto personalizzato Marketo - Documenti Marketo - Documentazione prodotto
 title: Modifica ed eliminazione di un oggetto personalizzato Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un o
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Assicurarsi di approvare [l&#39;oggetto modificato](approve-a-custom-object.md).
+1. Assicurarsi di approvare [l&#39;oggetto modificato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Eliminare un oggetto personalizzato {#delete-a-custom-object}
 
@@ -81,5 +81,4 @@ Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un o
 
 >[!MORELIKETHIS]
 >
->[Approvare un oggetto personalizzato](approve-a-custom-object.md)
-
+>[Approvare un oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
