@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: Abilita limiti di comunicazione - Documenti Marketo - Documentazione del prodotto
 title: Abilita limiti di comunicazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,12 @@ ht-degree: 0%
 1. In **Admin**, fare clic su **Limiti di comunicazione**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-Fate clic su Modifica.
+
+1. Fare clic su **Modifica**.
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >Per giorno si basa sul giorno del calendario nel fuso orario dell&#39;iscrizione (mezzanotte-mezzanotte).
 
@@ -48,7 +49,7 @@ Fate clic su Modifica.
 
    >[!NOTE]
    >
-   >Ulteriori informazioni sulle [e-mail operative](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational).
+   >Ulteriori informazioni sulle [e-mail operative](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Fare clic su **Salva**.
 
@@ -58,15 +59,12 @@ Fate clic su Modifica.
    >
    >**Esempio**
    >
-   >
    >Le impostazioni di cui sopra indicano che le persone non riceveranno più di **1 e-mail al giorno** o più di **5 in un periodo di sette giorni**.
 
    >[!NOTE]
-   >
    >
    >I limiti di comunicazione si applicano automaticamente a tutti i programmi e-mail e di coinvolgimento.
 
 >[!MORELIKETHIS]
 >
->[Applica limiti di comunicazione a Smart Campaign](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[Applica limiti di comunicazione a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
