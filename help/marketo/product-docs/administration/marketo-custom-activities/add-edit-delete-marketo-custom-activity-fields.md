@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: Aggiungi/Modifica/Elimina Campi Attività Personalizzati Marketo - Documenti Marketo - Documentazione Prodotto
 title: Aggiungi/Modifica/Elimina campi attività personalizzati Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo a
 
    >[!TIP]
    >
-   >Non sei sicuro di cosa selezionare? Ti abbiamo coperto! Tutti i tipi di dati disponibili sono definiti in [questo articolo](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Non sei sicuro di cosa selezionare? Ti abbiamo coperto! Tutti i tipi di dati disponibili sono definiti in [questo articolo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Denominate il campo. Il Nome Api Viene compilato automaticamente. Al termine, fare clic su **Salva**.
 
@@ -94,4 +94,3 @@ Il campo è stato modificato.
    ![](assets/thirteen.png)
 
    È così facile!
-
