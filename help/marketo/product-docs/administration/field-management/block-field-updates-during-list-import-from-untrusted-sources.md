@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: Blocca aggiornamenti dei campi durante l'importazione di elenchi da origini non attendibili - Documenti Marketo - Documentazione prodotto
 title: Blocca aggiornamenti dei campi durante l'importazione dell'elenco da origini non attendibili
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ Ripetere i passaggi indicati sopra per tutti gli altri campi che si desidera man
 
 ## Esecuzione di un&#39;importazione elenco non attendibile {#running-an-untrusted-list-import}
 
-1. Durante l&#39;importazione dell&#39;elenco, assicurarsi di selezionare **Non attendibile **se si desidera che tutti i campi impostati nel passaggio precedente siano sicuri.
+1. Durante l&#39;importazione dell&#39;elenco, assicurarsi di selezionare **Non attendibile** se si desidera che tutti i campi impostati nel passaggio precedente siano sicuri.
 
    ![](assets/importpersondetails.jpg)
 
-Per istruzioni dettagliate sull&#39;importazione di elenchi, vedere [Importare un elenco di persone](../../../getting-started/quick-wins/import-a-list-of-people.md).
+Per istruzioni dettagliate sull&#39;importazione di elenchi, vedere [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Bel lavoro! Ora sai come proteggere i campi chiave da elenchi non attendibili.
