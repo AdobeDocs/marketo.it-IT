@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: Modifica ed eliminazione dei campi oggetto personalizzati Marketo - Documenti Marketo - Documentazione prodotto
 title: Modifica ed eliminazione dei campi oggetto personalizzati Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -49,14 +49,10 @@ Se non è più necessario inserire un campo in un oggetto personalizzato, è pos
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. È sparito!
+   È sparito!
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >
-   >[Aggiungi campi oggetto personalizzati Marketo](add-marketo-custom-object-fields.md)
-
+   >[Aggiungi campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
