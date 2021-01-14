@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Aggiungere un dominio di branding aggiuntivo - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un dominio di branding aggiuntivo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una sing
 
 >[!PREREQUISITES]
 >
->Devi [sostituire il collegamento di tracciamento generico](edit-your-default-branding-domain.md) con un dominio con marchio prima di aggiungere altri domini con marchio.
+>Devi [sostituire il collegamento di tracciamento generico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) con un dominio con marchio prima di aggiungere altri domini con marchio.
 
-1. In My Marketo, fare clic su **Admin **e quindi sul collegamento **Email**.
+1. In My Marketo, fare clic su **Admin**, quindi sul collegamento **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Fare clic su **Add **per aggiungere un dominio di branding aggiuntivo.
+1. Fare clic su **Aggiungi** per aggiungere un dominio di branding aggiuntivo.
 
    ![](assets/two.png)
 
@@ -33,15 +33,8 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una sing
 
 >[!NOTE]
 >
->Potete scegliere di renderlo il dominio principale, e tutte le e-mail non inviate esistenti impostate su &quot;Predefinito&quot; e tutte le e-mail create di recente verranno automaticamente inviate al dominio principale. Potrete [sovrascrivere questo elemento in base al numero di e-mail](overwrite-primary-domain-for-emails.md).
+>Potete scegliere di renderlo il dominio principale, e tutte le e-mail non inviate esistenti impostate su &quot;Predefinito&quot; e tutte le e-mail create di recente verranno automaticamente inviate al dominio principale. Potrete [sovrascrivere questo elemento in base al numero di e-mail](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Modifica il dominio del marchio predefinito](edit-your-default-branding-domain.md)
-
->
-
-
-
+>[Modifica il dominio del marchio predefinito](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
