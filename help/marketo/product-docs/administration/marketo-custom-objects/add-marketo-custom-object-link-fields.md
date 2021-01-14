@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Aggiungi Marketo Custom Object Link Fields - Marketo Docs - Documentazione prodotto
 title: Aggiungi campi collegamento oggetto personalizzato marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,6 @@ Come creare un campo di collegamento in un oggetto personalizzato per una strutt
    >
    >Se scegliete un lead, nell’elenco verranno visualizzati ID, indirizzo e-mail ed eventuali campi personalizzati.
    >
-   >
    >Se scegliete una società, nell&#39;elenco verranno visualizzati Id ed eventuali campi personalizzati.
 
 1. Selezionare il campo di collegamento a cui si desidera connettersi come padre del nuovo campo.
@@ -81,7 +80,7 @@ Come creare un campo di collegamento in un oggetto intermediario da utilizzare i
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Nella scheda **Fields **, fare clic su **New Field**.
+1. Nella scheda **Campi** fare clic su **Nuovo campo**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -121,16 +120,10 @@ Il passo successivo consiste nell&#39;utilizzare questi oggetti personalizzati n
 
 ![](assets/image2016-1-14-15-3a57-3a59.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Aggiungi campi oggetto personalizzati Marketo](add-marketo-custom-object-fields.md)
->* [Modifica ed eliminazione di un oggetto personalizzato Marketo](edit-and-delete-a-marketo-custom-object.md)
->* [Informazioni sugli oggetti personalizzati Marketo](understanding-marketo-custom-objects.md)
->* [Modifica ed eliminazione dei campi oggetto personalizzati Marketo](edit-and-delete-marketo-custom-object-fields.md)
-
->
-
-
+>* [Aggiungi campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Modifica ed eliminazione di un oggetto personalizzato Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Modifica ed eliminazione dei campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
