@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Aggiungere un dominio di branding aggiuntivo con aree di lavoro - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un dominio di branding aggiuntivo con Workspaces
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Se disponete di aree di lavoro, potete aggiungere altri domini di branding.
 
 >[!PREREQUISITES]
 >
->È necessario [modificare prima il dominio di branding predefinito](edit-your-default-branding-domain.md).
+>È necessario [modificare prima il dominio di branding predefinito](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->Prima di aggiungere altri domini di branding, è necessario sostituire il collegamento di tracciamento generico [ con un dominio di branding.](edit-your-default-branding-domain-with-workspaces.md)
+>Prima di aggiungere altri domini di branding, è necessario sostituire il collegamento di tracciamento generico ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) con un dominio di branding.[
 
-1. Vai a **Admin **e fai clic su **Email**.
+1. Accedete a **Admin** e fate clic su **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Fare clic su **Add **per aggiungere un dominio di branding aggiuntivo.
+1. Fare clic su **Aggiungi** per aggiungere un dominio di branding aggiuntivo.
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ Se disponete di aree di lavoro, potete aggiungere altri domini di branding.
 1. Selezionate il nuovo dominio di branding e fate clic su **Salva**.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
