@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Approvare un oggetto personalizzato - Documenti Marketo - Documentazione del prodotto
 title: Approvare un oggetto personalizzato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,16 +33,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Un oggetto personalizzato utilizzato in una struttura *uno-a-molti* deve avere almeno un campo di deduplicazione, un campo di collegamento, un nome oggetto collegato e un nome campo collegato da approvare.
+   >Un oggetto personalizzato utilizzato in una struttura _uno-a-molti_ deve avere almeno un campo di deduplicazione, un campo di collegamento, un nome oggetto collegato e un nome campo collegato da approvare.
    >
+   >Un oggetto personalizzato utilizzato in una struttura _molti-a-molti_ **non** necessita di un campo di collegamento, di un nome oggetto collegato o di un nome campo collegato al momento dell&#39;approvazione (perché risiedono nell&#39;oggetto intermedio).
    >
-   >Un oggetto personalizzato utilizzato in una struttura *molti-a-molti* **non** necessita di un campo di collegamento, di un nome oggetto collegato o di un nome campo collegato al momento dell&#39;approvazione (perché risiedono nell&#39;oggetto intermedio).
+   >Un oggetto personalizzato utilizzato come oggetto _intermediario_ richiede un campo di collegamento, un nome oggetto collegato e un nome campo collegato, ma **non richiede un campo duplicato.**
    >
-   >
-   >Un oggetto personalizzato utilizzato come oggetto *intermediario* richiede un campo di collegamento, un nome oggetto collegato e un nome campo collegato, ma **non richiede un campo duplicato.**
-   >
-   >
-   >Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati Marketo](understanding-marketo-custom-objects.md).
+   >Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
 È tutto! Ora puoi selezionare l&#39;oggetto personalizzato nei vincoli dei filtri e degli attivatori da utilizzare nelle campagne.
 
@@ -61,4 +58,3 @@ Dopo aver modificato un oggetto personalizzato approvato, è necessario approvar
 1. Un&#39;anteprima mostra gli elementi modificati nella bozza. Fare clic su **Approva**.
 
    ![](assets/six-1.png)
-
