@@ -3,9 +3,9 @@ unique-page-id: 2360346
 description: Modifica alias campo per importazione elenco - Documenti Marketo - Documentazione prodotto
 title: Modifica alias campo per importazione elenco
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Quando importate un elenco con intestazioni sconosciute, potete creare alias di 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In Amministratore, fai clic su Gestione dei campi.
+1. In **Admin**, fare clic su **Field Management**.
 
    ![](assets/image2014-9-19-9-3a56-3a22.png)
 
@@ -27,11 +27,11 @@ Quando importate un elenco con intestazioni sconosciute, potete creare alias di 
 
    ![](assets/fieldmanagement-findfield.png)
 
-1. In Azioni campo fare clic su Modifica alias importazione.
+1. Nel menu a discesa Azioni campo, fare clic su **Modifica alias importazione**.
 
    ![](assets/fieldmanageemnt-editimport.png)
 
-1. Immettere un alias e fare clic su Salva.
+1. Immettere un alias e fare clic su **Salva**.
 
    ![](assets/image2014-9-19-9-3a57-3a1.png)
 
@@ -39,5 +39,6 @@ Quando importate un elenco con intestazioni sconosciute, potete creare alias di 
 >
 >Fare clic su **Aggiungi un altro** e immettere altri alias, se necessario.
 
-Guardate quello! Se importate un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.  ![](assets/image2014-9-19-9-3a57-3a20.png)
+Guardate quello! Se importate un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.
 
+![](assets/image2014-9-19-9-3a57-3a20.png)
