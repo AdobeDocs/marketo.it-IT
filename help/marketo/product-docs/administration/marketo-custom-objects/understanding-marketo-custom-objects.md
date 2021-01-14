@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Informazioni sugli oggetti personalizzati Marketo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sugli oggetti personalizzati Marketo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilizzare oggetti personalizzati per tenere traccia delle metriche specifiche della propria attività.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
@@ -45,7 +43,7 @@ Gli oggetti personalizzati molti-molti utilizzano due campi di collegamento, par
 
 ## Accesso agli oggetti personalizzati Marketo {#accessing-marketo-custom-objects}
 
-1. Per creare o modificare oggetti personalizzati Marketo, fare clic su **Admin **e quindi sul collegamento **Marketo Custom Object** s.
+1. Per creare o modificare oggetti personalizzati Marketo, fare clic su **Admin**, quindi sul collegamento **Marketo Custom Objects**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -91,18 +89,14 @@ Se hai più persone in Marketo che sono record nei record CRM o Marketo, un ogge
 
 Gli oggetti personalizzati possono collegarsi direttamente a un singolo record. Ciò significa che quando il tipo di oggetto personalizzato è collegato per campo società, è necessario assicurarsi che i record di persona siano associati a una società utilizzando la conversione dei contatti in CRM, oppure utilizzando il campo externalCompanyId, se si gestiscono società utilizzando le API REST di Marketo. Per i record di persona che non sono collegati esplicitamente ai record aziendali, gli oggetti personalizzati collegati tramite la società saranno collegati in modo casuale a un singolo record, anche se il valore del campo della società viene condiviso tra più persone.
 
-Per ulteriori informazioni, vedere [Importa dati oggetto personalizzati](import-custom-object-data.md).
+Per ulteriori informazioni, vedere [Importa dati oggetto personalizzati](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md).
 
 >[!MORELIKETHIS]
 >
->* [Creare oggetti personalizzati Marketo](create-marketo-custom-objects.md)
->* [Approvare un oggetto personalizzato](approve-a-custom-object.md)
->* [Modifica ed eliminazione di un oggetto personalizzato Marketo](edit-and-delete-a-marketo-custom-object.md)
->* [Aggiungi campi oggetto personalizzati Marketo](add-marketo-custom-object-fields.md)
->* [Modifica ed eliminazione dei campi oggetto personalizzati Marketo](edit-and-delete-marketo-custom-object-fields.md)
->* [Importa dati oggetto personalizzati](import-custom-object-data.md)
-
->
-
-
+>* [Creare oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Approvare un oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Modifica ed eliminazione di un oggetto personalizzato Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Aggiungi campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Modifica ed eliminazione dei campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Importa dati oggetto personalizzati](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
