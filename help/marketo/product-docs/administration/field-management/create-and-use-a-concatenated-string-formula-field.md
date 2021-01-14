@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: Creazione e utilizzo di un campo stringa concatenata (formula) - Documenti Marketo - Documentazione prodotto
 title: Creazione e utilizzo di un campo stringa concatenata (formula)
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Ulteriori informazioni sui [token per i passaggi di flusso](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Ulteriori informazioni sui [token per i passaggi di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Ora è possibile aggiungere il campo formula come token in un messaggio e-mail.
 
@@ -50,4 +50,3 @@ Ottimo lavoro! Ora hai un campo intelligente che sa quale formula salutare inclu
 >[!NOTE]
 >
 >I campi formula possono essere utilizzati nelle pagine di destinazione, nelle e-mail e nelle colonne degli elenchi smart list; non vengono esportati. Le e-mail con campi formula non possono essere inviate tramite campagne batch
-
