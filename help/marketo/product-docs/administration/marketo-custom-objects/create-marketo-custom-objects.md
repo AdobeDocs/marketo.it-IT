@@ -3,7 +3,7 @@ unique-page-id: 10093192
 description: Creare oggetti personalizzati Marketo - Documenti Marketo - Documentazione del prodotto
 title: Creare oggetti personalizzati Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Utilizzare oggetti personalizzati in Marketo per tenere traccia delle metriche s
 
 >[!NOTE]
 >
->È possibile impostare oggetti personalizzati per l&#39;utilizzo su base uno-a-molti o molti-a-molti. L&#39;oggetto iniziale viene creato allo stesso modo, ma i passaggi variano quando si iniziano ad aggiungere campi all&#39;oggetto. Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati Marketo](understanding-marketo-custom-objects.md).
+>È possibile impostare oggetti personalizzati per l&#39;utilizzo su base uno-a-molti o molti-a-molti. L&#39;oggetto iniziale viene creato allo stesso modo, ma i passaggi variano quando si iniziano ad aggiungere campi all&#39;oggetto. Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
 >[!NOTE]
 >
@@ -29,9 +29,7 @@ Questo esempio mostra un oggetto personalizzato Auto da utilizzare in una strutt
 
 1. Fare clic su **Admin**, quindi in **Database Management** selezionare **Marketo Custom Objects**.
 
-   ** ![](assets/image2016-1-18-13-3a12-3a19.png)
-
-   **
+   ![](assets/image2016-1-18-13-3a12-3a19.png)
 
 1. Fare clic su **Nuovo oggetto personalizzato**.
 
@@ -49,7 +47,7 @@ Questo esempio mostra un oggetto personalizzato Auto da utilizzare in una strutt
    >
    >Potete modificare questi campi durante la creazione, ma dopo averli salvati, potete modificare solo il campo Nome plurale e il cursore **Mostra in Dettagli lead**.
 
-1. Trascinare il cursore **Show in Lead Detail **per visualizzare **Show** se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Lead Database. Fare clic su **Salva**.
+1. Trascinare il cursore **Mostra in dettaglio lead** per visualizzare **Mostra** se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Database lead. Fare clic su **Salva**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -57,11 +55,11 @@ Questo esempio mostra un oggetto personalizzato Auto da utilizzare in una strutt
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   Il passaggio successivo consiste nell&#39;aggiungere campi a [creare l&#39;oggetto personalizzato](add-marketo-custom-object-fields.md).
+   Il passaggio successivo consiste nell&#39;aggiungere campi a [creare l&#39;oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >È possibile compilare solo gli oggetti personalizzati Marketo tramite un&#39;importazione di elenco o l&#39; [API](http://developers.marketo.com/documentation/rest/).
+   >È possibile compilare solo gli oggetti personalizzati Marketo tramite un&#39;importazione di elenco o l&#39; [API](https://developers.marketo.com/documentation/rest/).
 
 ## Creare un oggetto personalizzato per una struttura molti-molti {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -87,7 +85,7 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
    >
    >Potete modificare questi campi durante la creazione, ma dopo averli salvati, potete modificare solo il campo Nome plurale e il cursore **Mostra in Dettagli lead**.
 
-1. Trascinare il cursore **Show in Lead Detail **per visualizzare Show (Mostra) se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Lead Database. Fare clic su **Salva**.
+1. Trascinare il cursore **Mostra in dettaglio lead** per visualizzare **Mostra** se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Database lead. Fare clic su **Salva**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -97,7 +95,7 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
 
    >[!NOTE]
    >
-   >È possibile compilare solo gli oggetti personalizzati Marketo tramite un&#39;importazione di elenco o l&#39; [API](http://developers.marketo.com/documentation/rest/).
+   >È possibile compilare solo gli oggetti personalizzati Marketo tramite un&#39;importazione di elenco o l&#39; [API](https://developers.marketo.com/documentation/rest/).
 
 Il passaggio successivo prevede la creazione dell&#39;oggetto intermediario (vedere di seguito). Ma prima di questo, è necessario creare un campo a cui collegarsi.
 
@@ -125,21 +123,17 @@ Utilizzare un oggetto intermediario per collegare un oggetto personalizzato a pe
    >
    >Potete modificare questi campi quando li create, ma dopo averli salvati, potete modificare solo il campo Nome plurale e il cursore Mostra in dettaglio lead.
 
-1. Trascinare il cursore **Mostra in dettaglio lead** per visualizzare Mostra per visualizzare i dati oggetto personalizzati nella pagina Database lead. Fare clic su **Salva**.
+1. Trascinare il cursore **Mostra in dettaglio lead** per visualizzare **Mostra** se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Database lead. Fare clic su **Salva**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. Le informazioni sull&#39;oggetto personalizzato mostrano il contenuto immesso. Notate che si trova in stato Bozza.
 
-   Il passaggio successivo prevede l&#39;aggiunta di [campi di collegamento](add-marketo-custom-object-link-fields.md) per collegare l&#39;oggetto intermedio a una persona/società e a un oggetto personalizzato.
+   Il passaggio successivo prevede l&#39;aggiunta di [campi di collegamento](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) per collegare l&#39;oggetto intermedio a una persona/società e a un oggetto personalizzato.
 
 >[!MORELIKETHIS]
 >
->* [Aggiungi campi oggetto personalizzati Marketo](add-marketo-custom-object-fields.md)
->* [Aggiungi campi collegamento oggetto personalizzato marketing](add-marketo-custom-object-link-fields.md)
->* [Informazioni sugli oggetti personalizzati Marketo](understanding-marketo-custom-objects.md)
-
->
-
-
+>* [Aggiungi campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Aggiungi campi collegamento oggetto personalizzato marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
