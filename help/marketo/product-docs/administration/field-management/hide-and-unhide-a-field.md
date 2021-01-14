@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: Nascondere e scoprire un campo - Documenti Marketo - Documentazione prodotto
 title: Nascondere e visualizzare un campo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,10 @@ Se non si utilizza più un campo in Marketo, è possibile nasconderlo dall&#39;i
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
    >Per nascondere un campo, questo non deve essere associato ad altre risorse (comprese quelle archiviate). Prima di nasconderlo, assicurarsi di rimuovere il campo da tutti gli elenchi smart, le scelte relative ai passaggi di flusso, i moduli, le e-mail e così via.
 
-   Fate clic su Nascondi per confermare.
+1. Fare clic su **Nascondi** per confermare.
+
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
    Bel lavoro! Ora sai come nascondere un campo dall&#39;interfaccia utente di Marketo.
@@ -48,7 +47,7 @@ Se non si utilizza più un campo in Marketo, è possibile nasconderlo dall&#39;i
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Trovare e selezionare il campo, quindi in **Azioni campo** fare clic su **`Unhide Field`**.
+1. Trova e seleziona il campo. Nel menu a discesa Azioni campo, fare clic su **Scopri campo**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +55,4 @@ Se non si utilizza più un campo in Marketo, è possibile nasconderlo dall&#39;i
 
    >[!TIP]
    >
-   >Hai bisogno di avere un nascondino di massa? Contatta Marketo Professional Services: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
-
+   >Hai bisogno di avere un nascondino di massa? Contatta Marketo Professional Services: services@marketo.com.
