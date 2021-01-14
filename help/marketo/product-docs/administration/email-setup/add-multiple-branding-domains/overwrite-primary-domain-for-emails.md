@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: Sovrascrivi dominio principale per le e-mail - Documenti Marketo - Documentazione prodotto
 title: Sovrascrivi dominio principale per le e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Potete sovrascrivere il dominio con il marchio principale in base alle e-mail. Q
    >[!NOTE]
    >
    >Non tutti gli utenti dispongono delle autorizzazioni per impostare il dominio con il marchio in base alle e-mail. Contatta l’amministratore se non trovi il menu a discesa Domini con brand.
-
