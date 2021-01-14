@@ -3,7 +3,7 @@ unique-page-id: 2360295
 description: Esportare un elenco di tutti i nomi dei campi API Marketo - Marketo Docs - Documentazione prodotto
 title: Esportare un elenco di tutti i nomi dei campi API Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Bello! Ora è disponibile un foglio di calcolo con un elenco di tutti i campi e 
 >[!NOTE]
 >
 >Il limite di caratteri per i nomi API MLM è 255.
-
