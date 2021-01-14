@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: Informazioni sui campi gestiti del sistema - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sui campi gestiti di sistema
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informazioni sui campi gestiti di sistema {#understanding-system-managed-fields}
 
-Potreste aver notato che la [pagina dei dettagli della persona](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) include una serie di campi non modificabili creati da Marketo. Questi dati provengono da varie fonti, e ci sono innumerevoli valori che possono essere visualizzati.
+Potreste aver notato che la [pagina dei dettagli della persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) include una serie di campi non modificabili creati da Marketo. Questi dati provengono da varie fonti, e ci sono innumerevoli valori che possono essere visualizzati.
 
 ## Tipi di campi {#field-types}
 
@@ -67,4 +67,3 @@ Sotto ci sono alcuni valori possibili e ciò che significano.
 | API Munchkin | È diventata una persona tramite l&#39;API Munchkin di Marketo |
 | App Social | Diventare una persona attraverso un widget social |
 | Partner evento | Diventare una persona tramite un servizio webinar collegato |
-
