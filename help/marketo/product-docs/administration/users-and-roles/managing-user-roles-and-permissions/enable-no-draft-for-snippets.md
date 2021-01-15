@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: Abilita nessun progetto per snippet - Documenti Marketo - Documentazione prodotto
 title: Abilita nessuna bozza per gli snippet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -51,5 +51,4 @@ Nessuna bozza viene abilitata automaticamente per tutti i ruoli Amministratore. 
 
 >[!MORELIKETHIS]
 >
->[Approvare uno snippet senza bozza](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
-
+>[Approvare uno snippet senza bozza](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
