@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: Consenti accesso utente a un'area di lavoro - Documenti Marketo - Documentazione prodotto
 title: Consenti accesso utente a un'area di lavoro
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Le aree di lavoro possono essere per qualsiasi motivo (ad esempio, unità aziend
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Ulteriori informazioni su [aree di lavoro](understanding-workspaces-and-person-partitions.md).
+>Ulteriori informazioni su [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. In Amministratore, fai clic su Utenti e ruoli.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Nella scheda **Utenti **selezionare l&#39;utente e fare clic su **Modifica utente**.
+1. Nella scheda **Utenti**, selezionare l&#39;utente e fare clic su **Modifica utente**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ Le aree di lavoro possono essere per qualsiasi motivo (ad esempio, unità aziend
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   Fantastico! Quando accedono, visualizzeranno tutte le aree di lavoro a cui hai dato accesso.
-
+Fantastico! Quando accedono, visualizzeranno tutte le aree di lavoro a cui hai dato accesso.
