@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descrizioni delle autorizzazioni dei ruoli - Documenti Marketo - Documentazione del prodotto
 title: Descrizioni delle autorizzazioni dei ruoli
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Alcune informazioni aggiuntive sulle autorizzazioni:
 
 ## Autorizzazioni disponibili {#available-permissions}
 
-Quando [create o modificate un ruolo](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), potete selezionare le seguenti autorizzazioni per consentire tale ruolo selezionando le caselle appropriate.
+Quando [create o modificate un ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), potete selezionare le seguenti autorizzazioni per consentire tale ruolo selezionando le caselle appropriate.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ Visualizza e apporta modifiche alle impostazioni nella sezione Account personale
 * Canali di accesso: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
 * Limite di comunicazione di accesso: consente agli utenti di abilitare un limite di comunicazione in Amministratore
 * Accesso a CRM: consente agli utenti di accedere a CRM, ad esempio Salesforce o Microsoft Dynamics, in Amministratore
-* Accesso [Data.com](http://Data.com) - Consente agli utenti di accedere all&#39;azione di flusso Data.com
+* Accesso [Data.com](https://Data.com) - Consente agli utenti di accedere all&#39;azione di flusso Data.com
 * Accedi all’amministratore delle e-mail: offre agli utenti l’amministratore delle e-mail, per modificare le impostazioni predefinite, ad esempio i domini di annullamento della sottoscrizione e del marchio
 * Accesso ai partner dell&#39;evento - Consente agli utenti di accedere a LaunchPoint in Admin
 * Accesso a Gestione dei campi - Consente agli utenti di accedere a Gestione dei campi in Amministratore
@@ -105,14 +105,12 @@ Consente agli utenti di accedere alle presentazioni Calendario ??- consente di v
 Consente agli utenti di accedere alla scheda Design Studio e alla visualizzazione della struttura, ma non ai dettagli.
 
 * E-mail di accesso
-
    * Modifica e-mail: consente agli utenti di modificare, creare e duplicare e-mail
+      * Rendi e-mail operativa: consente agli utenti di rendere operativa un&#39;e-mail. Vedere: [Rendere operativo un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Rendi e-mail operativa: consente agli utenti di rendere operativa un&#39;e-mail. Vedere: [Rendere operativo un&#39;e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * Approva e-mail: consente agli utenti di approvare le e-mail.
-   * Elimina e-mail: consente agli utenti di eliminare i messaggi e-mail.
-   * Imposta dominio con brand: consente agli utenti di lavorare con i domini di branding. Vedere: [Aggiungi più domini di branding](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * Approva e-mail: consente agli utenti di approvare le e-mail.
+      * Elimina e-mail: consente agli utenti di eliminare i messaggi e-mail.
+      * Imposta dominio con brand: consente agli utenti di lavorare con i domini di branding. Vedere: [Aggiungi un dominio di branding aggiuntivo](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Modello e-mail di accesso
 
@@ -220,5 +218,3 @@ Amministrazione area di lavoro
 
 * Accesso dell’amministratore a un’area di lavoro specifica (solo se l’area di lavoro è abilitata)
 * Spostare le risorse tra le aree di lavoro (solo se le aree di lavoro sono abilitate)
-
-Accesso all&#39;applicazione mobile
