@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: Informazioni sulle impostazioni sulla privacy - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle impostazioni di privacy
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Questi metodi possono influenzare il valore e la funzionalità di Marketo in are
 
 I visitatori Web possono impostare il proprio browser per impedire il tracciamento da parte di qualsiasi sito Web scegliendo &quot;Non tenere traccia&quot; (DNT). Questo impedisce il monitoraggio di questo particolare browser e dispositivo. Per informazioni dettagliate, consultate le impostazioni di privacy del browser.
 
-A Monaco, un esperto di marketing può [decidere se supportare o ignorare l&#39;impostazione DNT del browser](edit-do-not-track-browser-support-settings.md).
+A Monaco, un esperto di marketing può [decidere se supportare o ignorare l&#39;impostazione DNT del browser](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
 In Web Personalization (Personalizzazione Web), un esperto di marketing può decidere se [supportare o ignorare l&#39;impostazione DNT del browser](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
@@ -76,5 +76,4 @@ Gli addetti al marketing possono preservare la privacy monitorando gli utenti co
 
 * Per la personalizzazione Web (RTP), aggiungete questo al javascript:
 
-anonimizza IP : prima di chiamare rtp(&#39;send&#39;,&#39;view&#39;); add rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonymizeIP&#39; : true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
