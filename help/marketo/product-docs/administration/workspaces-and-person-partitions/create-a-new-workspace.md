@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Creare una nuova area di lavoro - Documenti Marketo - Documentazione prodotto
 title: Creare una nuova area di lavoro
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ Come creare una nuova area di lavoro.
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Comprendere prima con [Informazioni su aree di lavoro e partizioni di persone](understanding-workspaces-and-person-partitions.md).
+>Comprendere prima con [Informazioni su aree di lavoro e partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Per ulteriori informazioni sulle procedure ottimali per Workspace, contattare [Marketing Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>Per ulteriori informazioni sulle procedure ottimali per Workspace, contattare [Marketing Professional Services](mailto:services@marketo.com).
 
 1. In **Admin**, fare clic su **Workspaces &amp; Partitions**.
 
@@ -42,33 +40,25 @@ Come creare una nuova area di lavoro.
 
    ![](assets/two-1.png)
 
-1. Immettete un** Name**, quindi selezionate le **partizioni di persone** che desiderate utilizzare. Scegliere una **partizione di persona principale**.
+1. Immettere un **Nome** e selezionare le **Partizioni di persona** che si desidera utilizzare. Scegliere una **partizione di persona principale**.
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Assicurarsi di [creare partizioni di persona](create-a-person-partition.md) se non è già stato.
+   >Assicurarsi di [creare partizioni di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se non è già stato.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La casella di controllo **Tutte le partizioni di persona**** **indica che questa area di lavoro può utilizzare tutte le partizioni di persona nel sistema.
-
-   >[!NOTE]
+   >La casella di controllo **Tutte le partizioni di persona** indica che questa area di lavoro può utilizzare tutte le partizioni di persona nel sistema.
    >
-   >**Promemoria**
-   >
-   >
-   >La partizione** della persona primaria** funge da impostazione predefinita ed è il luogo in cui verranno assegnate tutte le persone.
+   >La **partizione di persona primaria** funge da impostazione predefinita ed è la posizione in cui verranno assegnate tutte le persone.
 
    Se hai abilitato più domini con marchio, devi scegliere un dominio con marchio principale.
 
    ![](assets/four-1.png)
 
-   Selezionate la lingua dell’area di lavoro.
+1. Selezionate la lingua dell’area di lavoro.
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ Come creare una nuova area di lavoro.
    Dopo aver creato l&#39;area di lavoro, è necessario visualizzare l&#39;aggiornamento.
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
