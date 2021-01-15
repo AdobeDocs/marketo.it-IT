@@ -3,7 +3,7 @@ unique-page-id: 10100311
 description: Utilizzo di un ID universale per l'accesso all'iscrizione - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di un ID universale per l’accesso all’iscrizione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -66,4 +66,3 @@ Se disponete di più iscrizioni, potete disporre di più profili di community. �
 ## Piattaforma mobile {#mobile-platform}
 
 Gli utenti con ID universale possono visualizzare i propri dati sui Momenti di Marketo e sull’applicazione di check-in evento per l’iPad dall’ultima iscrizione a cui hanno effettuato l’accesso. Non è possibile modificare le iscrizioni dalla piattaforma Mobile stessa.
-
