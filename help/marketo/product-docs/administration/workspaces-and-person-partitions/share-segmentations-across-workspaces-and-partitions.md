@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Condivisione di segmenti tra aree di lavoro e partizioni - Documenti Marketo - Documentazione prodotto
 title: Condivisione di segmenti tra aree di lavoro e partizioni
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Questo articolo è solo per i clienti che dispongono di aree di lavoro e partizioni
+>Questo articolo è destinato solo ai clienti che dispongono di aree di lavoro e partizioni.
 
 ## Cos&#39;è una segmentazione? {#whats-a-segmentation}
 
@@ -23,11 +23,9 @@ Marketo è bravo a scegliere le persone giuste per un programma o una campagna i
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Scopri [come creare segmentazioni](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Scopri [come creare segmentazioni](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Una volta configurate queste persone (**e** utilizzate le aree di lavoro), sarà necessario condividerle tra le aree di lavoro. Ecco alcune buone cose da sapere:
+Una volta configurate queste persone (_e_ utilizzate le aree di lavoro), sarà necessario condividerle tra le aree di lavoro. Ecco alcune buone cose da sapere:
 
 ## Regole e suggerimenti {#rules-tips}
 
@@ -38,12 +36,10 @@ Una volta configurate queste persone (**e** utilizzate le aree di lavoro), sarà
 * L&#39;elaborazione della segmentazione viene eseguita solo sulle persone nell&#39;area di lavoro in cui viene creata la segmentazione.
 
    * Create la segmentazione da condividere all’interno dell’area di lavoro predefinita.
-
       * Approva segmentazione
       * L&#39;area di lavoro condivisa visualizza una cartella bloccata e la segmentazione è di sola lettura.
       * La versione condivisa non può essere modificata. È possibile modificare solo la segmentazione originale in cui è stata creata.
    * Quando si fa clic su un segmento (ad es. settore sanitario) all&#39;interno di una segmentazione condivisa, le persone visualizzate saranno solo le persone nella partizione associata all&#39;area di lavoro visualizzata.
-
       * Se si crea una segmentazione in Workspace 1 (WS1) e la si condivide con WS2 e WS1 non ha accesso alla partizione per WS2, NON verrà ricalcolata la segmentazione.
       * Se crei una segmentazione in un’area di lavoro con partizioni limitate e la condividi con un’altra area di lavoro, l’area di lavoro che ha ricevuto la segmentazione condivisa visualizzerà solo le persone che si sovrappongono.
 
@@ -56,21 +52,19 @@ Una volta configurate queste persone (**e** utilizzate le aree di lavoro), sarà
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
-** ![](assets/image2015-5-27-16-3a26-3a48.png)
-
-**
+![](assets/image2015-5-27-16-3a26-3a48.png)
 
 ## Condivisione di una segmentazione {#share-a-segmentation}
 
-1. Vai al database.
+1. Accedere al **Database**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Fai clic con il pulsante destro del mouse su Segmentazioni e seleziona Nuove cartelle.
+1. Fare clic con il pulsante destro del mouse su **Segmentations** e selezionare **New Folders**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
-1. Denominate la cartella da condividere tra le aree di lavoro (ad esempio: Segmenti di condivisione.)
+1. Denominate la cartella da condividere tra le aree di lavoro (ad esempio: Segmenti di condivisione).
 
    ![](assets/image2017-3-29-8-3a40-3a45.png)
 
@@ -78,11 +72,11 @@ Una volta configurate queste persone (**e** utilizzate le aree di lavoro), sarà
 
    ![](assets/image2017-3-29-8-3a41-3a3.png)
 
-1. Fate clic con il pulsante destro del mouse sulla cartella e selezionate Condividi cartella.
+1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **Condividi cartella**.
 
    ![](assets/image2017-3-29-8-3a41-3a19.png)
 
-1. Selezionate le aree di lavoro con cui desiderate condividere la cartella. Fate clic su Salva.
+1. Selezionate le aree di lavoro con cui desiderate condividere la cartella. Fare clic su **Salva**.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
@@ -91,10 +85,3 @@ Una volta configurate queste persone (**e** utilizzate le aree di lavoro), sarà
    >Nella finestra di dialogo vengono visualizzate le aree di lavoro per le quali si dispone dell’autorizzazione di visualizzazione. Per questo motivo, Marketo consiglia di creare e condividere segmenti dall’area di lavoro Predefinito con visibilità in tutte le aree di lavoro e le partizioni.
 
 La cartella di origine viene visualizzata nella struttura del database con una freccia che indica che è condivisa con altre aree di lavoro. Nell’area di lavoro condivisa, la cartella viene visualizzata con un blocco che indica che il contenuto della cartella è stato condiviso da un’altra area di lavoro e che è di sola lettura.
-
->[!NOTE]
->
->**Articoli correlati**
->
->[Segmentazione e snippet](http://docs.marketo.com/display/docs/segmentation+and+snippets)
-
