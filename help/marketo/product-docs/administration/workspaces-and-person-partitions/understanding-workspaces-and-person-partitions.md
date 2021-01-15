@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Aree di lavoro e partizioni di persone - Documenti Marketo - Documentazione prodotto
 title: Informazioni su aree di lavoro e partizioni di persone
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Le aree di lavoro possono essere complesse da configurare.  Contattate il supporto [Marketo](http://support.marketo.com/) per sapere se è adatto a voi.
+>Le aree di lavoro possono essere complesse da configurare. Contattate il supporto [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per sapere se è adatto a voi.
 
 Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing come programmi, pagine di destinazione, e-mail e altro ancora. Possono essere utilizzati da più persone. Ogni utente ha accesso a una o più aree di lavoro.
 
@@ -36,9 +36,7 @@ In ogni caso, la separazione è dovuta al fatto che le risorse di marketing sono
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Scoprite come creare [una nuova area di lavoro](create-a-new-workspace.md).
+>Scoprite come creare [una nuova area di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Condivisione tra aree di lavoro {#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ Potete condividere questi elementi tra le diverse aree di lavoro.
 * Modelli per pagine di destinazione
 * Modelli
 * Campagne intelligenti
-* [Elenchi avanzati](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segmenti](share-segmentations-across-workspaces-and-partitions.md)
+* [Elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Segmenti](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Snippet
 
 ## Clonazione tra aree di lavoro {#cloning-across-workspaces}
@@ -105,7 +103,7 @@ Per spostare le risorse in una nuova area di lavoro, inseritele in una cartella 
 
 ## Partizioni di persona {#person-partitions}
 
-Le partizioni delle persone si comportano come database separati. Ogni partizione ha le proprie persone che non disaccoppiano o si mescolano con altre partizioni. Se ritieni di avere un caso d&#39;uso aziendale che potrebbe richiedere la presenza di record duplicati con lo stesso indirizzo e-mail, contatta il [Supporto marketing](http://support.marketo.com).
+Le partizioni delle persone si comportano come database separati. Ogni partizione ha le proprie persone che non disaccoppiano o si mescolano con altre partizioni. Se ritieni di avere un caso d&#39;uso aziendale che potrebbe richiedere la presenza di record duplicati con lo stesso indirizzo e-mail, contatta il [Supporto marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 È possibile assegnare partizioni di persona a [aree di lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
 
@@ -115,15 +113,10 @@ Le partizioni delle persone si comportano come database separati. Ogni partizion
 
 >[!NOTE]
 >
->**Esempio**
->
 >Motivi per cui si utilizzerebbe una partizione personale:
 >
 >* Le aree di lavoro non solo dispongono di risorse diverse, ma non condividono persone
 >* Desideri duplicare per altri motivi aziendali
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ Le partizioni delle persone si comportano come database separati. Ogni partizion
 
 >[!NOTE]
 >
->**Tubo profondo**
->
-> Scopri come [creare una partizione per persona](create-a-person-partition.md).
-
+>Scopri come [creare una partizione per persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
