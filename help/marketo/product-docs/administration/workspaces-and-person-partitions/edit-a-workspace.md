@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Modifica di un'area di lavoro - Documenti Marketo - Documentazione prodotto
 title: Modifica di un’area di lavoro
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Esegui il pennello sulle aree di lavoro con [Informazioni sulle aree di lavoro e le partizioni delle persone](understanding-workspaces-and-person-partitions.md).
+>Esegui il pennello sulle aree di lavoro con [Informazioni sulle aree di lavoro e le partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. In **Admin**, fare clic su **Workspaces &amp; Partitions**.
 
@@ -37,25 +35,19 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >È possibile [creare più partizioni di persona](create-a-person-partition.md) se necessario.
+   >È possibile [creare più partizioni di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se necessario.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >La casella di controllo **Tutte le partizioni di persona**** **indica che questa area di lavoro può utilizzare tutte le partizioni principali nel sistema.
+   >La casella di controllo **Tutte le partizioni di persona** indica che questa area di lavoro può utilizzare tutte le partizioni principali nel sistema.
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >La partizione** della persona primaria** funge da impostazione predefinita ed è il luogo in cui verranno assegnate tutte le persone.
+   >La **partizione di persona primaria** funge da impostazione predefinita ed è la posizione in cui verranno assegnate tutte le persone.
 
-   Se hai abilitato più domini con il marchio, puoi passare a un dominio con il marchio principale diverso. Fate clic su Salva.
+   Se hai abilitato più domini con il marchio, puoi passare a un dominio con il marchio principale diverso. Fare clic su **Salva**.
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
 
 >[!MORELIKETHIS]
 >
->* [Creare una nuova area di lavoro](create-a-new-workspace.md)
->* [Informazioni su aree di lavoro e partizioni di persone](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [Creare una nuova area di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Informazioni su aree di lavoro e partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
