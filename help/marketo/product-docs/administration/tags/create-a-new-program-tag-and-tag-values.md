@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: Creare un nuovo tag e valori di tag del programma - Marketo Docs - Documentazione del prodotto
 title: Creare un nuovo tag e nuovi valori tag del programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-È possibile creare [tag](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizzati per i programmi e assegnare valori al tag.
+È possibile creare [tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizzati per i programmi e assegnare valori al tag.
 
 >[!NOTE]
 >
