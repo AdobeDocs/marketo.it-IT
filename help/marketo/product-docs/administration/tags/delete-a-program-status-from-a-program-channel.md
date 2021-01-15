@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: Eliminazione dello stato di un programma da un canale del programma - Marketo Docs - Documentazione del prodotto
 title: Eliminare lo stato di un programma da un canale di programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Gli stati del programma sono i punti di controllo attraverso un percorso del pro
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Fare clic su ![—](assets/image2014-9-24-15-3a52-3a39.png) per rimuovere lo stato, quindi fare clic su **SAVE**.
+1. Fare clic sull&#39;icona ![X](assets/image2014-9-24-15-3a52-3a39.png) per rimuovere lo stato, quindi fare clic su **Salva**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ Gli stati del programma sono i punti di controllo attraverso un percorso del pro
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Ben fatto! È inoltre possibile [eliminare un intero canale](delete-a-program-channel.md) se necessario.
+Ben fatto! È inoltre possibile [eliminare un intero canale](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se necessario.
