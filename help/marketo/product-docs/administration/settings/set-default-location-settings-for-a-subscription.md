@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: Impostazione delle impostazioni di posizione predefinite per un'iscrizione - Documenti Marketo - Documentazione prodotto
 title: Impostazione delle impostazioni di posizione predefinite per una sottoscrizione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Questo articolo descrive come un amministratore visualizzerebbe e modificherebbe
 
 ## Impostazione delle impostazioni di posizione predefinite per una sottoscrizione {#set-default-location-settings-for-a-subscription-1}
 
-Quando un amministratore modifica le impostazioni di posizione predefinite, gli utenti appena creati ereditano tali impostazioni. Gli utenti possono sempre [modificare la lingua, le impostazioni internazionali e le preferenze del fuso orario](select-your-language-locale-and-time-zone.md) nei propri account.
+Quando un amministratore modifica le impostazioni di posizione predefinite, gli utenti appena creati ereditano tali impostazioni. Gli utenti possono sempre [modificare la lingua, le impostazioni internazionali e le preferenze del fuso orario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) nei propri account.
 
-1. In **Admin**,** **fare clic su **Location**.
+1. In **Admin**, fare clic su **Location**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ Quando un amministratore modifica le impostazioni di posizione predefinite, gli 
 
    >[!NOTE]
    >
-   >Marketing Sales Insight for [Salesforce.com](http://salesforce.com/) supporta francese, tedesco, giapponese, portoghese e spagnolo.
+   >Marketing Sales Insight for [Salesforce.com](https://salesforce.com/) supporta francese, tedesco, giapponese, portoghese e spagnolo.
 
 ## Imposta le impostazioni predefinite della valuta per una sottoscrizione {#set-the-default-currency-settings-for-a-subscription}
 
@@ -61,9 +61,5 @@ Se si modificano le impostazioni internazionali predefinite per gli utenti, è a
 
 >[!MORELIKETHIS]
 >
->* [Selezionare la lingua, le impostazioni internazionali e il fuso orario](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [Selezionare la lingua, le impostazioni internazionali e il fuso orario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
