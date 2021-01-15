@@ -3,7 +3,7 @@ unique-page-id: 2359906
 description: Gestione degli utenti di Marketo - Marketo Docs - Documentazione prodotto
 title: Gestione degli utenti di Marketo
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Immettere l&#39; **Indirizzo e-mail**, **Nome** e **Cognome. **
+1. Immettere l&#39; **Indirizzo e-mail**, **Nome** e **Cognome**.
 
-   ** ![](assets/image2016-5-24-9-3a45-3a30.png)
-
-   **
+   ![](assets/image2016-5-24-9-3a45-3a30.png)
 
 1. Facoltativamente, immettete un motivo per l&#39;invito e selezionate una data di scadenza nel campo **Scade accesso** utilizzando il selettore data.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
    >
    >Quando arriva la data di scadenza, l&#39;utente riceve una notifica di scadenza e il suo account viene bloccato.
 
-1. Selezionare **Role **of your choice e fare clic su **Next**.
+1. Selezionare il **ruolo** desiderato e fare clic su **Avanti**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -67,29 +65,29 @@ Il nuovo utente è ora elencato nella scheda Utenti e riceverà un messaggio e-m
 
 ## Elimina utenti {#delete-users}
 
-1. Vai ad Amministratore e fai clic su Utenti e ruoli.
+1. Vai ad Amministratore e fai clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Selezionate l’utente da rimuovere e fate clic su Elimina utente.
+1. Selezionare l&#39;utente da rimuovere e fare clic su **Elimina utente**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Per confermare, fate clic su OK.
+1. Confermare facendo clic su **OK**.
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
 ## Reimposta password utente {#reset-user-passwords}
 
-1. Vai ad Amministratore e fai clic su Utenti e ruoli.
+1. Vai ad Amministratore e fai clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Selezionate un utente e fate clic su Reimposta password.
+1. Selezionate un utente e fate clic su **Reimposta password**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Fate clic su Chiudi per chiudere il prompt.
+1. Fare clic su **Chiudi** per chiudere il prompt.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
