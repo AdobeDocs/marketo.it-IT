@@ -3,9 +3,9 @@ unique-page-id: 6095047
 description: Modifica le impostazioni di supporto del browser "Non tenere traccia" - Marketo Docs - Documentazione del prodotto
 title: Modifica le impostazioni di supporto del browser "Non tenere traccia"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >Per impostazione predefinita, l&#39;opzione &quot;Non tenere traccia&quot; è impostata su Ignora, quindi se questo è ciò che si desidera, non sarà necessario eseguire alcuna operazione.
 
-1. Fare clic su** Admin*.
+1. Fare clic su **Admin**.
 
    ![](assets/one.png)
 
@@ -36,7 +36,8 @@ ht-degree: 0%
    ![](assets/three-2.png)
 
 1. Selezionare **Supporto** e fare clic su **Salva**.
-1. ![](assets/four-1.png)
+
+   ![](assets/four-1.png)
 
    Dopo aver salvato le modifiche, verrà visualizzato l&#39;aggiornamento.
 
@@ -49,4 +50,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >Per saperne di più su &quot;Non tenere traccia&quot; e come funziona, visitare [questa pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
-
