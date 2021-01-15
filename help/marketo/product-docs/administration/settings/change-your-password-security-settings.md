@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Modifica delle impostazioni di protezione password - Documenti Marketo - Documentazione del prodotto
 title: Modifica delle impostazioni di protezione password
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
 
    >[!NOTE]
    >
-   >**Definizione**
-   >
-   >
    >Un modello è solo una configurazione prestabilita. Lo standard è buono. L&#39;alta sicurezza è la più forte. Personalizzato consente di creare il proprio.
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
    >
    >In **Custom**, selezionare le caselle per indicare quali caratteristiche si desidera che gli utenti includano quando creano le password.
 
-1. Impostare la **Scadenza**.** **Questa funzione richiede automaticamente che gli utenti reimpostino la password dopo un certo periodo di tempo. Questo include anche l&#39;utente Admin.
+1. Impostare la **Scadenza**. Questa funzione richiede automaticamente che gli utenti reimpostino la password dopo un certo periodo di tempo. Questo include anche l&#39;utente Admin.
 
    >[!CAUTION]
    >
-   >Gli utenti esistenti non riceveranno alcuna notifica delle modifiche. Impostate **Scadenza **a 30 giorni prima per assicurarsi che tutti abbiano aggiornato le nuove impostazioni, quindi tornate alla cadenza originale.
+   >Gli utenti esistenti non riceveranno alcuna notifica delle modifiche. Impostate **Scadenza** su 30 giorni prima per verificare che tutti abbiano effettuato l&#39;aggiornamento alle nuove impostazioni, quindi tornate alla cadenza originale.
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
    ![](assets/inactivesession.png)
 
    La sicurezza è un affare serio. Ti abbiamo preso la schiena.
-
