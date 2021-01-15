@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Creare un canale di programma - Marketo Docs - Documentazione di prodotto
 title: Creare un canale di programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Scopri di più su [programs](http://docs.marketo.com/display/docs/programs), l&#39;elemento più importante di Marketo.
+>Scopri di più su [programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l&#39;elemento più importante di Marketo.
 
 1. Nella sezione **Admin**, fare clic su **Tags**.
 
@@ -45,27 +43,20 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >
    >**Esempio**
    >
-   >
    >Canale: Billboard
    >
-   >    
-   >    
-   >    * Applica a: Predefinito
-   >    * Progressione: Membro, Coinvolto (in caso di dubbio, questi lavori vanno bene)
-   >    * Successo: Coinvolto
+   >* Applica a: Predefinito
+   >* Progressione: Membro, Coinvolto (in caso di dubbio, questi lavori vanno bene)
+   >* Successo: Coinvolto
 
-   >    
-   >    
+   >
    >Canale: Party
    >
-   >    
-   >    
-   >    * Applica a: Evento
-   >    * Progressione: Invitati, registrati, No Show e Partecipanti
-   >    * Successo: Partecipante
+   >* Applica a: Evento
+   >* Progressione: Invitati, registrati, No Show e Partecipanti
+   >* Successo: Partecipante
 
-   >    
-   >    
+   >
    >Scopri le Progressioni dei canali esistenti per avere un&#39;idea di come utilizzarli.
 
 1. Passiamo all&#39;esempio del canale del Partito. Assegnare un nome al nuovo **Canale** e selezionare il tipo di programma a cui si applicherà.
@@ -113,10 +104,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Nelle [App di check-in mobili **Registrate** e **Partecipate** saranno visibili solo gli utenti con un **Stato di check-in mobile****** di &lt;a2/>Registrato&lt;a3/> e &lt;a4/>Partecipato&lt;a5/>.](http://docs.marketo.com/display/docs/events)
+   >Nelle [app di check-in mobili **solo le persone con uno stato di** archiviazione mobile **Registrato** e **Partecipato** saranno visibili.](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    Ben fatto! Quando si crea un nuovo programma di quel tipo, questo nuovo canale sarà una delle scelte.
-
