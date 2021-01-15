@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: Nascondi/Scopri un canale del programma - Documenti Marketo - Documentazione del prodotto
 title: Nascondere/scoprire un canale di un programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-È possibile [eliminare un canale di programma](delete-a-program-channel.md) se non viene utilizzato da alcun programma.  Tuttavia, una volta utilizzato, dobbiamo tenerlo in circolo.  Tuttavia, potete nasconderlo se non ne avete più bisogno.
+È possibile [eliminare un canale di programma](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se non viene utilizzato da alcun programma.  Tuttavia, una volta utilizzato, dobbiamo tenerlo in circolo.  Tuttavia, potete nasconderlo se non ne avete più bisogno.
 
 ## Nascondere un canale del programma {#hide-a-program-channel}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. Fare clic sul menu a discesa **Canale** e selezionare il **Canale **da nascondere.
+1. Fare clic sul menu a discesa **Canale** e selezionare il **Canale** da nascondere.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -41,4 +41,3 @@ Vieni, vai!
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
 
-Vai piano, vieni! (È un&#39;espressione reale?)
