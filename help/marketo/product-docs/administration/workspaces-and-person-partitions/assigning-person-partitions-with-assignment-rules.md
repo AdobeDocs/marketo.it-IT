@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: Assegnazione di partizioni di persona alle regole di assegnazione - Documenti Marketo - Documentazione prodotto
 title: Assegnazione di partizioni di persona alle regole di assegnazione
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creazione di una partizione di persona](create-a-person-partition.md)
-
->
-
-
+>[Creazione di una partizione di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Quando si utilizzano partizioni personali, impostare regole di assegnazione per indirizzare le persone create dal CRM alle rispettive partizioni.
 
@@ -33,13 +29,13 @@ Quando si utilizzano partizioni personali, impostare regole di assegnazione per 
 
 1. In Admin, fai clic su Workspaces e partizioni.
 
-![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Sotto la scheda **People Partitions **, fare clic su **Assignment Rules**.
+1. Nella scheda **Partizioni di persone** fare clic su **Regole di assegnazione**.
 
    ![](assets/two-6.png)
 
-1. Fare clic su **Add Choice **per aggiungere le condizioni per il routing delle persone in partizioni di persona.
+1. Fare clic su **Aggiungi scelta** per aggiungere le condizioni per l&#39;indirizzamento delle persone alle partizioni personali.
 
    ![](assets/three-6.png)
 
@@ -48,7 +44,8 @@ Quando si utilizzano partizioni personali, impostare regole di assegnazione per 
    ![](assets/four-5.png)
 
 1. Scegliere l&#39;operatore di scelta e immettere un valore.
-1. ![](assets/five-1.png)
+
+   ![](assets/five-1.png)
 
 1. Selezionate la Partizione Persone in cui desiderate che rientrino le persone che soddisfano le condizioni.
 
@@ -56,10 +53,10 @@ Quando si utilizzano partizioni personali, impostare regole di assegnazione per 
 
    >[!NOTE]
    >
-   >
    >Puoi aggiungere tutte le opzioni che vuoi.
 
-   Fate clic su Salva.
+1. Fare clic su **Salva**.
+
    ![](assets/seven.png)
 
 Ed eccola! Hai assegnato le regole per riempire le tue partizioni personali con persone!
@@ -67,4 +64,3 @@ Ed eccola! Hai assegnato le regole per riempire le tue partizioni personali con 
 >[!NOTE]
 >
 >Se non viene soddisfatta nessuna delle condizioni precedenti, viene applicata la Scelta predefinita.
-
