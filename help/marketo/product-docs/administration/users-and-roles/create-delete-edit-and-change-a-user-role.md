@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Creazione, eliminazione, modifica e modifica di un ruolo utente - Documenti Marketo - Documentazione prodotto
 title: Creare, eliminare, modificare e modificare un ruolo utente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Creare un ruolo {#create-a-role}
 
-1. Vai a **Admin **e fai clic su **Utenti e ruoli**.
+1. Accedete a **Admin** e fate clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Passate alla scheda** Ruoli** e fate clic su **Nuovo ruolo**.
+1. Passare alla scheda **Ruoli** e fare clic su **Nuovo ruolo**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## Eliminare un ruolo {#delete-a-role}
 
-1. In Amministratore,** **fare clic su **Utenti e ruoli**.
+1. In **Admin**, fare clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Nella scheda **Ruoli **selezionare un ruolo e fare clic su **Elimina ruolo**.
+1. Nella scheda **Ruoli**, selezionare un ruolo e fare clic su **Elimina ruolo**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Fare clic sulla scheda **Ruoli **.
+1. Fare clic sulla scheda **Ruoli**.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Selezionate il ruolo da modificare e fate clic su** Modifica ruolo**.
+1. Selezionare il ruolo da modificare e fare clic su **Modifica ruolo**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Volete aggiornare l&#39;indirizzo e-mail dell&#39;account? [Scopri come](http://docs.marketo.com/x/3wFI).
+   >Volete aggiornare l&#39;indirizzo e-mail dell&#39;account? [Scopri come](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Modifica del ruolo di un utente {#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Se lasciate selezionati più ruoli, per impostazione predefinita Marketo utilizza le autorizzazioni più restrittive.
-
-Impressionante, ora sei davvero su un rotolo!  (Capito?)
