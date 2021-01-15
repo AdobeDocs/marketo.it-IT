@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Modifica scadenza collegamento in rapporti e avvisi - Documenti Marketo - Documentazione prodotto
 title: Modifica scadenza collegamento in rapporti e avvisi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ I collegamenti nelle e-mail di iscrizione al rapporto scadono dopo tre giorni. P
 
 >[!NOTE]
 >
->**Promemoria**
->
 >Ricorda che questi criteri si applicano solo ai collegamenti in rapporti e avvisi, non alle e-mail di marketing.
-
