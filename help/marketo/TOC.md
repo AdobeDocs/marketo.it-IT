@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione di prodotto Marketo
 translation-type: tm+mt
-source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '7840'
+source-wordcount: '7829'
 ht-degree: 0%
 
 ---
@@ -783,7 +783,7 @@ ht-degree: 0%
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1120,7 +1120,6 @@ ht-degree: 0%
             + [E-mail di test non visualizzata come visualizzata](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + Consegna e-mail {#email-delivery}
             + [Panoramica del canale di distribuzione](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Come configurare il server SMTP di Outlook365 con Connect di vendita](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
             + [Configurazione di un server SMTP](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
             + [Impostazione del canale di consegna](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
