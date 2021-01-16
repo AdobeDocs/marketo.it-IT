@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Informazioni sul contenuto predittivo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sul contenuto predittivo
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
-Dopo che [avete approvato un titolo per il contenuto predittivo](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavorate qui. Nella pagina Predictive Content (Contenuto predittivo) sono visualizzati tutti i titoli approvati per il contenuto predittivo.
+Dopo che [avete approvato un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavorate qui. Nella pagina Predictive Content (Contenuto predittivo) sono visualizzati tutti i titoli approvati per il contenuto predittivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
