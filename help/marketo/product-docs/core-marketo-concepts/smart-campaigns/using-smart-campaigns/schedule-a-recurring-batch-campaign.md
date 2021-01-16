@@ -3,7 +3,7 @@ unique-page-id: 1146972
 description: Pianificazione di una campagna batch ricorrente - Documenti Marketo - Documentazione prodotto
 title: Pianificazione di una campagna batch ricorrente
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 La ricorrenza consente di eseguire una campagna in batch intelligente secondo una pianificazione regolare. Ad esempio, una volta alla settimana, il lunedì alle 12:00.
 
-1. Selezionate la campagna, passate alla scheda Pianificazione e fate clic su Pianifica ricorrenza.
+1. Selezionate la campagna, passate alla scheda Pianificazione e fate clic su **Ricorrenza pianificazione**.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. Fare clic sul menu a discesa Pianificazione e selezionare Settimanale.
+1. Fare clic sul menu a discesa Pianificazione e selezionare **Settimanale**.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -31,7 +31,7 @@ La ricorrenza consente di eseguire una campagna in batch intelligente secondo un
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. Lasciate Ripeti ogni 1, selezionate Lunedì e fate clic su Salva.
+1. Lasciate Repeat ogni come 1, selezionate Monday e fate clic su **Save**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
