@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Modifica delle regole di qualifica in una campagna intelligente - Documenti Marketo - Documentazione del prodotto
 title: Modifica delle regole di qualifica in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -33,18 +33,10 @@ Le regole di qualifica controllano quante volte un utente può eseguire il fluss
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Per impostazione predefinita, i limiti di comunicazione non sono applicati alle campagne intelligenti. Scopri come [applicare i limiti di comunicazione a una campagna intelligente](apply-communication-limits-to-smart-campaign.md).
+   >Per impostazione predefinita, i limiti di comunicazione non sono applicati alle campagne intelligenti. Scopri come [applicare i limiti di comunicazione a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Applica limiti di comunicazione alle campagne intelligenti](apply-communication-limits-to-smart-campaign.md)
-
+   >[Applica limiti di comunicazione alle campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 Missione compiuta! Ora sai come controllare le regole di qualifica in una campagna intelligente.
