@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: Campagna di richiesta - Documenti Marketo - Documentazione prodotto
 title: Richiesta campagna
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->La campagna in cui si sta inserendo la persona deve essere attiva e il trigger ** [Campaign è Richiesto](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>La campagna in cui si sta inserendo la persona deve essere attiva e il trigger **[Campaign è Richiesto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
 
 1. Nel **Database**, individuare e selezionare la persona o le persone desiderate.
 
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >Utilizzare il trigger o il filtro **Campaign is Required** (Campagna richiesta) per individuare le persone interessate da questo passaggio di flusso.
-
