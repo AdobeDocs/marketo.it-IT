@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: Utilizzare Add Choice in un passaggio di flusso - Marketo Docs - Documentazione prodotto
 title: Usa opzione Aggiungi in un passaggio di flusso
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiunta di un passaggio di flusso a una campagna intelligente](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[Aggiunta di un passaggio di flusso a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **Aggiungi** i set di scelte puoi usare un passaggio di flusso e dire &quot;Dipende&quot; quando stai scegliendo i dettagli.
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Al passaggio di flusso viene applicata solo la prima scelta corrispondente. Scopri come [riordinare &quot;Add Choice&quot; in un&#39;azione di flusso](reorder-add-choice-in-a-flow-step.md).
+   >Al passaggio di flusso viene applicata solo la prima scelta corrispondente. Scopri come [riordinare &quot;Add Choice&quot; in un&#39;azione di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
 
-   >[!NOTE]
+   Fantastico! Ora puoi creare una singola campagna intelligente con scelte di passaggi di flusso invece di creare più campagne intelligenti per ogni scelta.
+
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Riordinare &quot;Add Choice&quot; in un passaggio di flusso](reorder-add-choice-in-a-flow-step.md)
-
-
-Fantastico! Ora puoi creare una singola campagna intelligente con scelte di passaggi di flusso invece di creare più campagne intelligenti per ogni scelta.
+   >[Riordina opzione Aggiungi in un passaggio di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
