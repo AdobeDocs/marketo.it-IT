@@ -3,9 +3,9 @@ unique-page-id: 1146942
 description: Definisci elenco avanzato per Smart Campaign | Trigger - Marketo Docs - Documentazione prodotto
 title: Definisci elenco avanzato per Smart Campaign | Trigger
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Fai in modo che una campagna intelligente venga eseguita su una persona alla volta in base agli eventi live aggiungendo attivatori.
 
-1. Nella campagna intelligente, fai clic sulla scheda **Smart List **.
+1. Nella campagna intelligente, fate clic sulla scheda **Smart List**.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -47,16 +47,8 @@ Fai in modo che una campagna intelligente venga eseguita su una persona alla vol
    >
    >Con più attivatori, una persona attraversa il flusso se **ANY** uno dei trigger viene attivato.
 
-   [Definisci elenco avanzato per Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
+Per eseguire la campagna su un insieme di persone allo stesso tempo, scopri come [Definire l&#39;elenco avanzato per la campagna intelligente | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
-   >[!NOTE]
-   >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Definisci elenco avanzato per Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Aggiunta di un passaggio di flusso a una campagna intelligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
-
-Per eseguire la campagna su un insieme di persone allo stesso tempo, scopri come .
+>[!MORELIKETHIS]
+>
+>[Aggiunta di un passaggio di flusso a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
