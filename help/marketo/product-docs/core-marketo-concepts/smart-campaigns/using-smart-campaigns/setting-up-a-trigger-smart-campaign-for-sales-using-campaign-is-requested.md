@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Impostazione di una campagna di attivazione per le vendite con "Campaign is Required" - Marketo Docs - Documentazione del prodotto
 title: Impostazione di una campagna di attivazione per le vendite con "Campaign is Required"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Una delle caratteristiche più interessanti di Marketo è la capacità di consentire alle persone di vendita di partecipare alle attività di marketing. Sono in prima linea, interagiscono con le persone. I rappresentanti delle vendite dovrebbero essere in grado di indirizzare il marketing nella direzione giusta.
 
 >[!NOTE]
->
->**Esempio**
 >
 >Esempi di campagne intelligenti da richiedere:
 >
@@ -32,7 +30,7 @@ Siate creativi. Cosa vorrebbe automatizzare il venditore? Chiedilo a loro e lo c
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Trova e trascina **Campaign** **is** **Richiesto **nell&#39;area di lavoro.
+1. Trova e trascina **La campagna è Richiesta** nell&#39;area di lavoro.
 
    ![](assets/campaignfilterdrag.png)
 
@@ -41,7 +39,6 @@ Siate creativi. Cosa vorrebbe automatizzare il venditore? Chiedilo a loro e lo c
    >[!TIP]
    >
    >Gli operatori di origine sono per la sicurezza. Potete limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne intelligenti o sviluppatori. Scegliete **Is Any** nella prima casella se desiderate consentire le richieste da tutte le origini.
-   >
    >
    >**Ricordate**, scegliendo Vendite Insight, verrà magicamente visualizzato nella casella per le vendite. Non esagerate. Troppi verranno ignorati da loro.
 
@@ -52,4 +49,3 @@ Questo è un ottimo modo per estendere la portata del marketing ad altri reparti
 >[!TIP]
 >
 >Non dimenticare di assegnare chiaramente un nome alle campagne intelligenti. Verranno visualizzati in Sales Insight esattamente come li chiami.
-
