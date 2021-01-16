@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Interrompere una campagna intelligente - Documenti Marketo - Documentazione del prodotto
 title: Interruzione di una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ A volte si avvia una campagna intelligente e immediatamente si rende conto che e
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Fai clic sul menu a discesa** Campaign Actions*. Selezionare **Interrompi campagna**.
+1. Fare clic sul menu a discesa **Azioni campagna**. Selezionare **Interrompi campagna**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
@@ -33,19 +33,16 @@ A volte si avvia una campagna intelligente e immediatamente si rende conto che e
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >L&#39;interruzione non comporta l&#39;annullamento dei passaggi già completati, ma impedisce l&#39;esecuzione di ulteriori operazioni. (Esempio: Le e-mail non possono essere consegnate inavvertitamente.
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >Date un&#39;occhiata alla scheda **Results** della campagna intelligente per vedere quali azioni sono state eseguite prima dell&#39;interruzione. Troverete anche una [notifica](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
+   >Date un&#39;occhiata alla scheda **Results** della campagna intelligente per vedere quali azioni sono state eseguite prima dell&#39;interruzione. Troverete anche una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
 
    >[!TIP]
    >
-   >Vuoi rimuovere una persona dal flusso in una campagna attivatore? Estrarre [Rimuovi da Flusso](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Vuoi rimuovere una persona dal flusso in una campagna attivatore? Estrarre [Rimuovi da Flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Controlla sempre il tuo lavoro, ma questo freno di emergenza potrebbe venire utile in futuro.
