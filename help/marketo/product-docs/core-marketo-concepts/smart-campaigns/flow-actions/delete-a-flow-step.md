@@ -3,9 +3,9 @@ unique-page-id: 1146987
 description: Eliminazione di un passaggio di flusso - Documenti Marketo - Documentazione prodotto
 title: Eliminare un passaggio di flusso
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->La rimozione dei passaggi di flusso, *in particolare dei passaggi di attesa* dalle campagne smart attive, può produrre risultati imprevisti. **Leggete attentamente questo articolo.**
+>La rimozione dei passaggi di flusso, _in particolare dei passaggi di attesa_ dalle campagne smart attive, può produrre risultati imprevisti. **Leggete attentamente questo articolo.**
 
 Prima facciamo le basi. Ecco come rimuovere un passaggio di flusso indesiderato da una campagna intelligente. 1. In Flusso campagna intelligente, fai clic sull’icona X per eliminare qualsiasi passaggio di flusso.
 
@@ -40,7 +40,7 @@ Prima facciamo le basi. Ecco come rimuovere un passaggio di flusso indesiderato 
    1. **Mai corso.** Apportate tutte le modifiche desiderate. Non colpirà nessuno fino a quando non esegui quella campagna.
    1. **È una campagna intelligente ricorrente.** Le modifiche interesseranno le persone nelle esecuzioni future, non le esecuzioni precedenti.
    1. **È già stato eseguito senza passaggi di attesa.** Nessun utente sarà interessato perché la campagna è inattiva dopo l&#39;esecuzione.
-   1. **Sta correndo in questo momento.** Le modifiche possono causare un comportamento imprevisto in base alla temporizzazione e ai dettagli dell&#39;eliminazione. È consigliabile NON modificare una campagna batch in esecuzione. Per i casi di emergenza, scopri come [interrompere una campagna intelligente in esecuzione](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   1. **Sta correndo in questo momento.** Le modifiche possono causare un comportamento imprevisto in base alla temporizzazione e ai dettagli dell&#39;eliminazione. È consigliabile NON modificare una campagna batch in esecuzione. Per i casi di emergenza, scopri come [interrompere una campagna intelligente in esecuzione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    1. **Sono già stati eseguiti con passi di attesa.** Diversi dettagli su questo.\
       Quando una persona entra in un passaggio di attesa, scende la durata e a quale PASSAGGIO NUMERO tornare. Vedere l&#39;esempio seguente.
@@ -54,13 +54,10 @@ Prima facciamo le basi. Ecco come rimuovere un passaggio di flusso indesiderato 
    >
    >**Esempio**
    >
-   >    
-   >    
    >1. Una campagna intelligente ha 3 passaggi.
-   >
-   >   * PASSAGGIO 1. Invia e-mail n. 1
-   >   * PASSAGGIO 2. Aspetta 1 settimana
-   >   * PASSAGGIO 3. Invia e-mail #2
+      >    * PASSAGGIO 1. Invia e-mail n. 1
+      >    * PASSAGGIO 2. Aspetta 1 settimana
+      >    * PASSAGGIO 3. Invia e-mail #2
    >
    >1. Le persone che hanno colpito il **Passo 2** attenderanno una settimana prima di passare al **Passo 3**.
    >1. Si elimina **Passo 2** durante la settimana.
@@ -71,4 +68,4 @@ Prima facciamo le basi. Ecco come rimuovere un passaggio di flusso indesiderato 
 
 Modifiche a una campagna attiva
 
-Scopri questa funzione e potrai realizzare campagne intelligenti. Wow!
+Scopri questa funzione e potrai realizzare campagne intelligenti.
