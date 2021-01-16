@@ -3,7 +3,7 @@ unique-page-id: 1146962
 description: Valutazione delle modifiche - Documenti Marketo - Documentazione del prodotto
 title: Modifica punteggio
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Puntare le persone è semplice e potente per aiutare il team di vendita a dare p
 
    >[!TIP]
    >
-   >Potete creare più campi valutazione. Per ulteriori informazioni, vedere [Creare un campo personalizzato in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Potete creare più campi valutazione. Per ulteriori informazioni, vedere [Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 1. Inserire la modifica della valutazione desiderata.
 
@@ -39,6 +39,4 @@ Puntare le persone è semplice e potente per aiutare il team di vendita a dare p
    * **-5** decremento (numeri negativi consentiti)
    * **=5** farà il punteggio che il numero esatto
    * **=-5** farà il punteggio che numero esatto negativo
-
    Ottenete rapidamente un punteggio di base e regolate i risultati nel tempo. È quello che abbiamo fatto!
-
