@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Attivatori e filtri per le campagne mobili intelligenti - Documenti Marketo - Documentazione prodotto
 title: Attivatori e filtri per le campagne mobili intelligenti
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ App Mobile Aperta
 
 Con/Avevano Attività App Mobile
 
-che forniscono un modo efficace per monitorare l&#39;attività mobile personalizzata. Per impostare il tracciamento [per Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios) sarà necessario lavorare con il vostro sviluppatore.
+che forniscono un modo efficace per monitorare l&#39;attività mobile personalizzata. Per impostare il tracciamento [per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios) sarà necessario lavorare con il vostro sviluppatore.
 
 * Con attività app mobile - attivatore
 
@@ -132,12 +132,14 @@ I vincoli Azione consentono di usare attivatore e filtri per tenere traccia dell
 >Sotto il tipo di azione *Shopping*, ecco un&#39;azione molto specifica, con gli altri vincoli che la definiscono:
 >
 >* Ho comprato una camicia
->  * Era rosso
->  * È costato $ 30
->  * Ci sono voluti 20 secondi per comprare
+   >   * Era rosso
+   >   * È costato $ 30
+   >   * Ci sono voluti 20 secondi per comprare
 
 
-Di seguito viene illustrato l’aspetto del filtro in Marketo:   ![](assets/image2015-8-17-13-3a16-3a12.png)
+Di seguito viene illustrato l’aspetto del filtro in Marketo:
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ Toccate/toccate la notifica push
 
 >[!MORELIKETHIS]
 >
->* [Aggiunta di un vincolo a un filtro elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Utilizzo dei filtri per l&#39;inattività in un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Aggiunta di un vincolo a un filtro elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Utilizzo dei filtri per l&#39;inattività in un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
