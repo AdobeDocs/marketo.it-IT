@@ -3,9 +3,9 @@ unique-page-id: 1147025
 description: Utilizzare un Webhook in una campagna intelligente - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di un Webhook in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # Utilizzo di un Webhook in una campagna intelligente {#use-a-webhook-in-a-smart-campaign}
 
-Per utilizzare un [webhook](http://developers.marketo.com/documentation/webhooks/), aggiungerlo a una [campagna intelligente](add-a-flow-step-to-a-smart-campaign.md) come azione di flusso.
+Per utilizzare un [webhook](http://developers.marketo.com/documentation/webhooks/), aggiungerlo a una [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) come azione di flusso.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. [Creare una campagna](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente.
+1. [Creare una campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) intelligente.
 
    >[!NOTE]
    >
@@ -42,4 +40,3 @@ Per utilizzare un [webhook](http://developers.marketo.com/documentation/webhooks
 1. Infine, è possibile utilizzare i webhook in **Aggiungi scelta** in un passaggio di flusso.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
-
