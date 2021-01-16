@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: Azioni campagna - Clona una campagna intelligente - Documenti Marketo - Documentazione prodotto
 title: Azioni campagna - Clona una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ La duplicazione delle campagne consente di risparmiare tempo. Non è necessario 
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Scegliere l&#39;opzione appropriata **Clona su **2. In questo esempio, scegliamo **Programmi**.
+1. Scegliete l&#39;opzione appropriata **Clona su**. In questo esempio, scegliamo **Programmi**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ La duplicazione delle campagne consente di risparmiare tempo. Non è necessario 
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   E fatto! Non lavorare sodo, lavorare in modo intelligente.
-
+E fatto!
