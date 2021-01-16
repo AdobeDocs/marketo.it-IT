@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: Fase di modifica delle entrate - Documenti Marketo - Documentazione del prodotto
 title: Modifica fase ricavi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Se si utilizza il modello Revenue Cycle Modeler e si dispone di un modello appro
    >[!CAUTION]
    >
    >Il data warehouse presta molta attenzione a quando i lead si spostano tra le fasi. Questo può creare dati non validi se utilizzati in modo errato.
-
