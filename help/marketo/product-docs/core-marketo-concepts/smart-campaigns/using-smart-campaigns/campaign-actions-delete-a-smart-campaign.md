@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Azioni campagna - Elimina una campagna intelligente - Documenti Marketo - Documentazione prodotto
 title: Azioni campagna - Elimina una smart campagna
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Se disponete di una vecchia campagna intelligente di cui non avete più bisogno,
 
    >[!TIP]
    >
-   >Per annullare l&#39;elaborazione di una campagna intelligente attiva senza eliminarla completamente, scopri come [interrompere una campagna intelligente](abort-a-smart-campaign.md).
+   >Per annullare l&#39;elaborazione di una campagna intelligente attiva senza eliminarla completamente, scopri come [interrompere una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ Se disponete di una vecchia campagna intelligente di cui non avete più bisogno,
    >[!CAUTION]
    >
    >Eseguite **NOT** l&#39;eliminazione di una campagna smart attiva con le persone nei passaggi di flusso. È probabile che la campagna venga ancora eseguita.
-
-Bello!
