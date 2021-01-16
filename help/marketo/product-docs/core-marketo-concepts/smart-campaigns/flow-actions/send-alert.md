@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: Invia avviso - Documenti Marketo - Documentazione prodotto
 title: Invia avviso
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiun
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
    >L&#39;avviso e-mail deve contenere tutte le informazioni di intestazione e deve trovarsi nello stato **Approvato**.
 
 1. Potete fare clic sull’icona di anteprima per verificare di aver selezionato l’e-mail corretta.
@@ -36,8 +34,6 @@ Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiun
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
    >
    >Assicurarsi di utilizzare il token **Invia informazioni avviso** nell&#39;e-mail.
 
@@ -57,5 +53,4 @@ Marketo può inviare un avviso via e-mail con informazioni sulle persone a chiun
 
 >[!MORELIKETHIS]
 >
->[Creare un messaggio e-mail](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[Creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
