@@ -3,7 +3,7 @@ unique-page-id: 6094949
 description: Spostare una campagna intelligente - Documenti Marketo - Documentazione del prodotto
 title: Spostare una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Spostate una campagna intelligente tra diversi programmi o cartelle utilizzando 
    Cinque in alto! Questa campagna intelligente è stata spostata.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
-
