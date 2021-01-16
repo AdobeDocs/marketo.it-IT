@@ -3,7 +3,7 @@ unique-page-id: 1147001
 description: Utilizzo della regola standard per gli elenchi avanzati - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo della logica standard delle regole per gli elenchi avanzati
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -26,13 +26,20 @@ Gli attivatori vengono sempre valutati come OR anche se l&#39;impostazione prece
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 L&#39;elenco avanzato in parole:
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Quindi, se una persona compila il modulo **o** visita la pagina, la campagna valuterà la persona in base a **all **o **any **of the later filter, a seconda dell&#39;impostazione utilizzata.
+
+```box
+IF person fills out My Form
+OR
+IF person visits My Page 
+AND 
+Industry is Marketing 
+AND 
+Country is USA 
+THEN follow the campaign's flow step(s)
+```
+
+Pertanto, se una persona compila il modulo **o** visita la pagina, la campagna valuterà la persona in base a **all** o **any** dei filtri successivi, a seconda dell&#39;impostazione utilizzata.
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo della logica delle regole avanzate per gli elenchi avanzati](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-
->
-
-
-
+>[Utilizzo della logica delle regole avanzate per gli elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
