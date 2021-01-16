@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: Pianificazione di una campagna in batch intelligente da eseguire in un secondo momento - Marketo Docs - Documentazione del prodotto
 title: Pianificazione di una campagna in batch intelligente da eseguire in un secondo momento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Per impostare una campagna in batch intelligente da eseguire in futuro, vedere c
 
 >[!TIP]
 >
->È inoltre possibile [riprogrammare una campagna smart batch nella vista di pianificazione del programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
+>È inoltre possibile [riprogrammare una campagna smart batch nella vista di pianificazione del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
-1. Selezionate la campagna batch intelligente da eseguire, andate alla scheda **Schedule** e fate clic su **Run Once** (Esegui una volta&lt;a3/>).
+1. Selezionate la campagna batch intelligente da eseguire, andate alla scheda **Schedule** e fate clic su **Run Once** (Esegui una volta).
 
    ![](assets/scheduledruns2.png)
 
@@ -41,10 +41,4 @@ Per impostare una campagna in batch intelligente da eseguire in futuro, vedere c
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Pianificazione di una campagna batch ricorrente](schedule-a-recurring-batch-campaign.md)
-
-
+   >[Pianificazione di una campagna batch ricorrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
