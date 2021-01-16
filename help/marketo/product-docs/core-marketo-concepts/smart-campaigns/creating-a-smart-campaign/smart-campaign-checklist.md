@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: Elenco di controllo per Smart Campaign - Marketo Docs - Documentazione prodotto
 title: Elenco di controllo della campagna intelligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -15,53 +15,52 @@ ht-degree: 0%
 
 Seguite i passaggi riportati di seguito per garantire il corretto svolgimento della campagna intelligente e prevenire gli errori il più possibile.
 
-1. Sbarazzarsi degli errori di Smart List
+## Elimina errori elenco smart {#get-rid-of-smart-list-errors}
 
-   Nella campagna intelligente, fate clic su **Smart List**. Eliminate eventuali linee rosse stridanti che vengono visualizzate correggendo gli errori.
+Nella campagna intelligente, fate clic su **Smart List**. Eliminate eventuali linee rosse stridanti che vengono visualizzate correggendo gli errori.
 
-   ![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/image2014-9-22-16-3a9-3a13.png)
 
-   >[!TIP]
-   >
-   >Le linee rosse brusche indicano errori o informazioni mancanti. Se non viene corretta, la campagna non sarà valida e non verrà eseguita.
-   >
-   >
-   >Inoltre, **mantenere le cose semplici**. Se avete dozzine o centinaia di filtri, è difficile mantenerli e tenerne traccia. Il caricamento di un numero inferiore di filtri è inoltre più rapido.
+>[!TIP]
+>
+>Le linee rosse brusche indicano errori o informazioni mancanti. Se non viene corretta, la campagna non sarà valida e non verrà eseguita.
+>
+>Inoltre, **mantenere le cose semplici**. Se avete dozzine o centinaia di filtri, è difficile mantenerli e tenerne traccia. Il caricamento di un numero inferiore di filtri è inoltre più rapido.
 
-   >[!NOTE]
-   >
-   >**Promemoria**
-   >
-   >
-   >L&#39;utilizzo di **Member of Smart List** potrebbe presentare errori nell&#39;altro elenco. Controlla anche lì.
+>[!NOTE]
+>
+>L&#39;utilizzo di **Member of Smart List** potrebbe presentare errori nell&#39;altro elenco. Controlla anche lì.
 
-1. Elimina errori di flusso
-1. Nella campagna intelligente, fate clic su **Flusso**. Eliminate eventuali linee rosse stridanti, correggendo gli errori.
+## Elimina errori di flusso {#get-rid-of-flow-errors}
 
-   ![](assets/image2014-9-22-16-3a10-3a49.png)
+Nella campagna intelligente, fate clic su **Flusso**. Eliminate eventuali linee rosse stridanti, correggendo gli errori.
 
-   >[!TIP]
-   >
-   >Passate il puntatore del mouse sopra la linea rossa strizzata per visualizzare i dettagli dell&#39;errore.
+![](assets/image2014-9-22-16-3a10-3a49.png)
 
-1. Revisione della scheda Pianificazione
-1. Nella scheda **Pianificazione**, selezionare **Smart** **List** **Status** per verificare se sono presenti errori nella campagna smart che è necessario correggere.
+>[!TIP]
+>
+>Passate il puntatore del mouse sopra la linea rossa strizzata per visualizzare i dettagli dell&#39;errore.
 
-   ![](assets/three.png)
+## Rivedete la scheda Pianificazione {#review-the-schedule-tab}
 
-1. Limite limitazioni persona controllo
-1. Nella scheda **Schedule**, assicurarsi che il numero di persone qualificate non superi il limite di restrizione della persona.
+Nella scheda **Pianificazione**, selezionare **Smart** **List** **Status** per verificare se sono presenti errori nella campagna smart che è necessario correggere.
 
-   ![](assets/four.png)
+![](assets/three.png)
 
-   >[!TIP]
-   >
-   >Se necessario, è possibile [ignorare le limitazioni relative alle persone in una campagna intelligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+## Limite limitazioni persona controllo {#check-person-restrictions-limit}
+
+Nella scheda **Schedule**, assicurarsi che il numero di persone qualificate non superi il limite di restrizione della persona.
+
+![](assets/four.png)
+
+>[!TIP]
+>
+>Se necessario, è possibile [ignorare le limitazioni relative alle persone in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Promemoria**
 >
->Se la campagna intelligente continua a fallire, scopri come [comprendere le notifiche](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) per scoprire cosa è andato storto e come correggerlo.
+>Se la campagna intelligente continua a fallire, scopri come [comprendere le notifiche](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) per scoprire cosa è andato storto e come correggerlo.
 
 Ottimo lavoro! Tenete a portata di mano questa lista di controllo prima di eseguire una campagna intelligente.
