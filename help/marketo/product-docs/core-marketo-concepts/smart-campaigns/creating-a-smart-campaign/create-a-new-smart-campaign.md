@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: Creare una nuova campagna intelligente - Documenti Marketo - Documentazione del prodotto
 title: Creare una nuova campagna intelligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Le campagne intelligenti sono lo strumento più importante di Marketo. Possono a
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Le campagne intelligenti sono fantastiche. Ulteriori informazioni su di loro [qui](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Le campagne intelligenti sono fantastiche. Ulteriori informazioni su di loro [qui](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Andate a **Marketing Activities**.
 
@@ -43,13 +41,8 @@ Le campagne intelligenti sono lo strumento più importante di Marketo. Possono a
 
    Fantastico! Successivamente, scopri come definire le persone da eseguire attraverso la campagna intelligente con un elenco avanzato.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Definisci elenco avanzato per Smart Campaign | Batch](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Definisci elenco avanzato per Smart Campaign | Trigger](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [Definisci elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definisci elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
