@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: Aggiunta di dati a un campo - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di dati a un campo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Esiste un modo semplice per aggiungere dati a un campo. Ecco come.
 
 >[!PREREQUISITES]
 >
->* [Creare una campagna](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[Creare una campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. Sotto la scheda **Flusso**, trascinare nel passaggio di flusso **Change Data Value**.
 
@@ -39,5 +35,4 @@ Esiste un modo semplice per aggiungere dati a un campo. Ecco come.
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   È tutto! Potete creare e aggiungere più token.
-
+È tutto! Potete creare e aggiungere più token.
