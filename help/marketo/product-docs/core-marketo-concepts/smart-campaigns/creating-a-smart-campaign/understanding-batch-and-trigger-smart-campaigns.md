@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Campagne intelligenti per batch e trigger - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulle campagne in batch e di attivazione
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ Facendo clic sulla scheda **Schedule** (Pianificazione), verrà confermato che l
 **Campagne intelligenti in batch**
 
 * Può essere pianificato per le ricorrenze, ad esempio giornaliere, settimanali e mensili. Potete anche farli correre una sola volta.
-* Sono visibili nella [vista programmazione programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
-   *Si noti che qualsiasi cosa dopo un passaggio &quot;Wait&quot; all&#39;interno della campagna intelligente non sarà incluso nella vista.
+* Sono visibili nella [vista programmazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Tutto ciò che segue un passaggio &quot;Wait&quot; all&#39;interno della campagna intelligente non verrà incluso nella vista.
 
 <br> 
 
@@ -60,11 +59,6 @@ Facendo clic sulla scheda **Schedule** (Pianificazione), verrà confermato che l
 * Impossibile pianificare le ricorrenze. Possono essere impostati solo su attivi o inattivi.
 * È possibile impostare più attivatori. Tuttavia, se viene attivato un attivatore, le azioni della campagna verranno eseguite.
 
-## Guarda un video sulla creazione di campagne e-mail attivate {#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->Utilizzate il [registro attività](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Potete trovare il registro attività nell&#39;ultima scheda della pagina dei dettagli di una persona.
-
+>Utilizzate il [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Potete trovare il registro attività nell&#39;ultima scheda della pagina dei dettagli di una persona.
