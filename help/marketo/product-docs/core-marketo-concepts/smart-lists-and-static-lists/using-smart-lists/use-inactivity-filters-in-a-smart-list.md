@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: Utilizzo dei filtri per l'inattività in un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo dei filtri per l'inattività in un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ Sapevate che potete cercare persone in una Smart List che *non ha* fatto qualcos
 1. Selezionare l&#39;operatore **è qualsiasi**. Verranno trovate tutte le persone che non hanno visitato alcuna pagina negli ultimi 30 giorni.
 
    ![](assets/mysmartlist-people.jpg)
-
-   Non era così facile?
-
