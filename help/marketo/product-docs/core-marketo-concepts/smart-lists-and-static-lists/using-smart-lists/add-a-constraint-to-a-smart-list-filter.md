@@ -3,7 +3,7 @@ unique-page-id: 2949413
 description: Aggiunta di un vincolo a un filtro di elenco avanzato - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un vincolo a un filtro elenco avanzato
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Aggiungere un vincolo a un filtro elenco avanzato {#add-a-constraint-to-a-smart-list-filter}
 
-Durante la creazione di elenchi avanzati, alcuni filtri presentano opzioni avanzate denominate *limitazioni. *Queste sono condizioni aggiuntive che è possibile aggiungere a filtri e attivatori per aiutare a restringere ulteriormente la ricerca.
+Durante la creazione di elenchi avanzati, alcuni filtri presentano opzioni avanzate denominate &quot;limitazioni&quot;. Queste sono ulteriori condizioni che puoi aggiungere a filtri e attivatori per limitare ulteriormente la ricerca.
 
-In questo esempio, aggiungiamo alcuni vincoli a un filtro ** [Valore dati modificato](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** per individuare le persone che hanno subito una modifica dello stato da MQL a SQL.
+In questo esempio, aggiungiamo alcuni vincoli a un filtro **[Valore dati modificato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** per individuare le persone che hanno subito una modifica dello stato da MQL a SQL.
 
 >[!PREREQUISITES]
 >
->* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Usare il filtro &quot;Valore dati modificato&quot; in un elenco avanzato](use-the-data-value-changed-filter-in-a-smart-list.md)
+>* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Usare il filtro &quot;Valore dati modificato&quot; in un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 
 >
 
@@ -51,4 +51,3 @@ In questo esempio, aggiungiamo alcuni vincoli a un filtro ** [Valore dati modifi
    ![](assets/six.png)
 
 1. Ben fatto! Fare clic sulla scheda **Persone** per vedere tutte le persone che hanno avuto una **Stato** modifica da **MQL** a **SQL** negli ultimi 30 giorni.
-
