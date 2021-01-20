@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: Creazione e modifica di visualizzazioni per elenchi ed elenchi avanzati - Documenti Marketo - Documentazione prodotto
 title: Creare e modificare le visualizzazioni per elenchi e elenchi avanzati
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ Un elenco avanzato visualizza un set predefinito di colonne. Sapevate che poteva
 ## Creare una vista {#create-a-view}
 
 1. Passate a un elenco o a un elenco avanzato, fate clic sulla scheda **Persone**, quindi fate clic su **Crea** **Visualizza** nel menu a discesa **Visualizza**.
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. Denominate la visualizzazione e individuate la colonna da aggiungere o rimuovere.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   Aggiungete/rimuovete le colonne desiderate, quindi fate clic su Crea.
+1. Aggiungete/rimuovete le colonne desiderate, quindi fate clic su **Crea**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ Un elenco avanzato visualizza un set predefinito di colonne. Sapevate che poteva
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## Eliminare una vista {#delete-a-view}
 
 1. Selezionare l&#39;opzione **Modifica** per la visualizzazione da eliminare dal menu a discesa **Visualizza**.
@@ -72,10 +71,6 @@ Puoi solo visualizzare le viste personalizzate create nel menu a discesa Visuali
 
 >[!MORELIKETHIS]
 >
->* [Usa elenchi avanzati integrati/di sistema](use-built-in-system-smart-lists.md)
->* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [Usa elenchi avanzati integrati/di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
