@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: Utilizzo della logica avanzata della regola degli elenchi avanzati - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo della logica delle regole avanzate per gli elenchi avanzati
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Potete trovare le persone esatte necessarie applicando la logica della regola di
 
 >[!PREREQUISITES]
 >
->* [Trovare e aggiungere filtri a un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definire i filtri per elenchi avanzati](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [Trovare e aggiungere filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definire i filtri per elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ Potete trovare le persone esatte necessarie applicando la logica della regola di
 
 ## Aggiungere una logica a un elenco avanzato {#add-logic-to-a-smart-list}
 
-Per impostazione predefinita, nell&#39;elenco smart vengono visualizzate le persone che corrispondono ai filtri **ALL** (filtri 1 *e* 2 *e* 3). È possibile modificare la logica delle regole per individuare le persone che corrispondono a **ANY** dei filtri definiti (filtri 1 *o* 2 *o* 3), oppure utilizzare filtri avanzati (filtri 1 *e* 2 *o *3).
+Per impostazione predefinita, nell&#39;elenco smart vengono visualizzate le persone che corrispondono ai filtri **ALL** (filtri 1 _e_ 2 _e_ 3). È possibile modificare la logica delle regole per individuare le persone che corrispondono a **ANY** dei filtri definiti (filtri 1 _o_ 2 _o_ 3), oppure utilizzare filtri avanzati (filtri 1 _e_ 2 _o_ 3).
 
-In questo esempio, supponiamo di voler trovare persone in California *e* con un punteggio di almeno 50 punti *o* con lo stato &quot;Sales Qualified&quot;.
+In questo esempio, supponiamo di voler trovare persone in California _e_ con un punteggio di almeno 50 punti _o_ con lo stato &quot;Sales Qualified&quot;.
 
-1. Selezionare **Use** **Advanced** **Filters** dall&#39;elenco a discesa.
+1. Selezionare **Usa filtri avanzati** dall&#39;elenco a discesa.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ In questo esempio, supponiamo di voler trovare persone in California *e* con un 
    >
    >L&#39;utilizzo di filtri **Advanced** riduce la necessità di creare elenchi avanzati con il filtro Member of Smart List. Questo consente di ottimizzare le prestazioni.
 
-1. La casella di testo **Advanced** **Filters** visualizzerà &quot;and&quot; come valore predefinito tra tutti i filtri.
+1. La casella di testo **Filtri avanzati** visualizzerà &quot;e&quot; come valore predefinito tra tutti i filtri.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ A seconda delle intenzioni, potrebbe essere necessario aggiungere parentesi nidi
 >[!TIP]
 >
 >Se si immette una regola non valida, sotto la regola verrà visualizzata una linea rossa. Scorrete il testo per visualizzare il relativo messaggio di errore.
-
