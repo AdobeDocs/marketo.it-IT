@@ -3,7 +3,7 @@ unique-page-id: 8159286
 description: Filtri e attivatori per le opportunità - Marketo Docs - Documentazione prodotto
 title: Filtri e attivatori opportunità
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -80,4 +80,3 @@ Ad esempio, potete utilizzare questo Smart List per attivare eventuali lead aggi
 Per attivare i campi personalizzati delle opportunità, utilizzare l&#39;attivatore **Opportunità è stata aggiornata** e selezionare il campo nel pulldown:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
