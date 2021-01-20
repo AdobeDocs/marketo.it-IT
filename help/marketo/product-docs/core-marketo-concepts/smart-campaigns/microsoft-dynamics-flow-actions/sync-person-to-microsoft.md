@@ -3,7 +3,7 @@ unique-page-id: 7514027
 description: Sincronizza persona con Microsoft - Documenti Marketo - Documentazione prodotto
 title: Sincronizza persona con Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Puoi impostare un utente di Dynamics come proprietario della persona.
 >[!NOTE]
 >
 >Quando si utilizza l’azione di flusso &quot;Sincronizza persona con Microsoft&quot; (solo in una campagna di attivazione), il lead/contatto verrà creato in tempo reale in Dynamics.
-
