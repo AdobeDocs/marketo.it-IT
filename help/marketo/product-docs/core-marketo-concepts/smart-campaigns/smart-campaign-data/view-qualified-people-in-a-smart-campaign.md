@@ -3,7 +3,7 @@ unique-page-id: 1146966
 description: Visualizzazione di persone qualificate in una campagna intelligente - Documenti Marketo - Documentazione prodotto
 title: Visualizzare le persone qualificate in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,17 +33,13 @@ Visualizzare le persone idonee ad attraversare il flusso quando si esegue una ca
 
    >[!NOTE]
    >
-   >Il numero di persone qualificate dipende anche dalle regole di qualificazione delle campagne intelligenti. Scopri come [modificare le regole di qualifica](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Il numero di persone qualificate dipende anche dalle regole di qualificazione delle campagne intelligenti. Scopri come [modificare le regole di qualifica](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Dolce! Potete utilizzare questo elenco per verificare quali persone potrebbero attraversare il flusso prima di eseguire una campagna intelligente.
 
 >[!MORELIKETHIS]
 >
->* [Visualizzare i membri di Smart Campaign](view-smart-campaign-members.md)
->* [Visualizzare le persone bloccate in una campagna intelligente](view-blocked-people-in-a-smart-campaign.md)
->* [Aggiunta di un passaggio di flusso a una campagna intelligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>* [Visualizzare i membri di Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [Visualizzare le persone bloccate in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+>* [Aggiunta di un passaggio di flusso a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
