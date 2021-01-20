@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: Elimina persona da SFDC - Marketo Docs - Documentazione prodotto
 title: Elimina persona da SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come utent
    >[!CAUTION]
    >
    >Se si imposta **Elimina in Marketo** su **true** ed elimina le persone da Marketo e i lead da Salesforce, questi non saranno più disponibili per sempre. Questo non può essere annullato.
-
