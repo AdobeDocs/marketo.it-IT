@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: Cambia proprietario - Documenti Marketo - Documentazione prodotto
 title: Cambia proprietario
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Se a un proprietario sono già assegnate persone esistenti, puoi utilizzare ques
    >1. Marketo creerà un lead duplicato **solo** quando il contatto viene sincronizzato con Salesforce. In altre parole, se si utilizza il passaggio di flusso **[Sincronizza persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** con `AssignTo=<a lead queue>`, Marketo creerà un lead duplicato in Salesforce e lo assegnerà alla coda di lead.
       >
       >
-   2. Se tenti di utilizzare il passaggio di flusso **Modifica proprietario** su un contatto, non verrà creato alcun duplicato in Salesforce.
+   1. Se tenti di utilizzare il passaggio di flusso **Modifica proprietario** su un contatto, non verrà creato alcun duplicato in Salesforce.
 
 
    >[!NOTE]
