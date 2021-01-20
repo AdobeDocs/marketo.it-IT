@@ -3,9 +3,9 @@ unique-page-id: 1146937
 description: Visualizza i membri delle campagne intelligenti - Documenti Marketo - Documentazione prodotto
 title: Visualizzare i membri di Smart Campaign
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Visualizzare le persone che hanno già eseguito il flusso di campagne intelligenti; ad esempio, i membri delle campagne intelligenti.
 
-1. Vai a Attività di marketing.
+1. Andate a **Marketing Activities**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Nella campagna intelligente, fai clic su Visualizza membri campagna .
+1. Nella campagna intelligente, fai clic su **Visualizza membri campagna**.
 
    ![](assets/changescore-hands.png)
 
@@ -35,19 +35,6 @@ Visualizzare le persone che hanno già eseguito il flusso di campagne intelligen
    >
    >L&#39;elenco Membri campagna sarà inizialmente vuoto se la campagna intelligente non è stata eseguita su nessun utente.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Tubo profondo**
-   >
-   >
-   >Ulteriori informazioni sulle operazioni che è possibile eseguire con [elenchi](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
-   >[!NOTE]
-   >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Visualizzare le persone bloccate in una campagna intelligente](view-blocked-people-in-a-smart-campaign.md)
-
-
+   >[Visualizzare le persone bloccate in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
