@@ -3,7 +3,7 @@ unique-page-id: 1147007
 description: Modifica dello stato del programma - Documenti Marketo - Documentazione del prodotto
 title: Modifica stato programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Gli stati del programma consentono di tenere traccia del modo in cui le persone stanno avanzando all&#39;interno di un programma o di un evento. Per ulteriori informazioni, consulta [Personalizza, crea e gestisci canali](../../../../product-docs/administration/tags/create-a-program-channel.md).
+Gli stati del programma consentono di tenere traccia del modo in cui le persone stanno avanzando all&#39;interno di un programma o di un evento. Per ulteriori informazioni, consulta [Personalizza, crea e gestisci canali](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
