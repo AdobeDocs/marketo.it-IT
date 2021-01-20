@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Utilizzare il filtro Valore dati modificato in un elenco avanzato - Documenti Marketo - Documentazione prodotto
 title: Utilizzare il filtro Valore dati modificato in un elenco avanzato
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ I valori cambiano costantemente e vengono aggiornati nel database Marketo. A vol
 
 >[!PREREQUISITES]
 >
->* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Vai all&#39;area **Marketing Activities **o.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ I valori cambiano costantemente e vengono aggiornati nel database Marketo. A vol
 
    ![](assets/four.png)
 
-Questo filtro cercherà tutte le persone che hanno apportato modifiche (o modifiche) al proprio stato. Se desiderate ottenere un livello ancora più elevato, provate ad aggiungere un vincolo a un filtro elenco avanzato[.](add-a-constraint-to-a-smart-list-filter.md)
-
->[!NOTE]
->
->**Articoli correlati**
->
->* [Aggiunta di un vincolo a un filtro elenco avanzato](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+Questo filtro cercherà tutte le persone che hanno apportato modifiche (o modifiche) al proprio stato. Se desiderate ottenere un livello ancora più elevato, provate ad aggiungere un vincolo a un filtro elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).[
