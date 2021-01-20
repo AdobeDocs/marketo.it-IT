@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: Sincr. la persona in SFDC - Marketo Docs - Documentazione del prodotto
 title: Sincronizza persona con SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Questo passaggio di flusso inserirà le persone create da Marketo come lead in S
    >[!CAUTION]
    >
    >Salesforce non consente di assegnare &quot;Contatti&quot; alle code principali. In questo caso, Marketo creerà un &quot;Lead&quot; duplicato in Salesforce.
-
