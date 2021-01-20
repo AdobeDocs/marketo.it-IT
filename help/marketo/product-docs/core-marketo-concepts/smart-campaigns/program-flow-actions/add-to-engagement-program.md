@@ -3,7 +3,7 @@ unique-page-id: 1147011
 description: Aggiungi al programma di coinvolgimento - Marketo Docs - Documentazione del prodotto
 title: Aggiungi al programma di coinvolgimento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -32,4 +32,3 @@ La campagna intelligente creata con questo passaggio di flusso sarà il gateway 
    >[!NOTE]
    >
    >Non è possibile aggiungere una persona a più flussi all&#39;interno dello stesso programma.
-
