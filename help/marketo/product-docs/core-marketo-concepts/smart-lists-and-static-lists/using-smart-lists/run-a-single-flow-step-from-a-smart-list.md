@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: Eseguire un singolo passaggio di flusso da un elenco avanzato - Marketo Docs - Documentazione prodotto
 title: Eseguire un singolo passaggio di flusso da un elenco avanzato
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
 
 >[!PREREQUISITES]
 >
->* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Andate a **Marketing Activities**.
 
@@ -35,7 +31,7 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
    >
    >Questa funzionalità è disponibile sia per gli elenchi statici che per gli elenchi avanzati.
 
-1. Fare clic su **Seleziona tutto**. È inoltre possibile utilizzare** Ctrl/Comando** e fare clic per selezionare alcuni record manualmente.
+1. Fare clic su **Seleziona tutto**. È inoltre possibile utilizzare **Ctrl/Cmd** e fare clic per selezionare alcuni record manualmente.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
    >
    >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** si selezioneranno tutte le persone su tutte le pagine.
 
-1. In **Person** **Actions**, selezionare il passaggio di flusso desiderato. In questo esempio verrà utilizzato [Change Data Value](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. In **Person** **Actions**, selezionare il passaggio di flusso desiderato. In questo esempio verrà utilizzato [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
