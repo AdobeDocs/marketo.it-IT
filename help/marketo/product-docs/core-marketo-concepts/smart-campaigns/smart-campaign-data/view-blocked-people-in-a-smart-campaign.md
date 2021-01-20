@@ -3,9 +3,9 @@ unique-page-id: 1147062
 description: Visualizzazione delle persone bloccate in una campagna intelligente - Documenti Marketo - Documentazione del prodotto
 title: Visualizzare le persone bloccate in una campagna intelligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Le persone bloccate nel database di Marketo sono contrassegnate  inserire nell&#
 
    >[!NOTE]
    >
-   >Alle persone che hanno raggiunto i limiti di comunicazione può anche essere impedito di ricevere posta elettronica. Scopri come [modificare i limiti di comunicazione](../../../../product-docs/administration/email-setup/enable-communication-limits.md) nella sezione Admin.
+   >Alle persone che hanno raggiunto i limiti di comunicazione può anche essere impedito di ricevere posta elettronica. Scopri come [modificare i limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) nella sezione Admin.
 
    La scheda Persone bloccate mostra le persone che potrebbero non ricevere le e-mail.
 
@@ -35,16 +35,12 @@ Le persone bloccate nel database di Marketo sono contrassegnate  inserire nell&#
    >
    >Le e-mail operative verranno inviate alle persone contrassegnate come non sottoscritte e il marketing verrà sospeso.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Modifica regole di qualifica](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [Abilita limiti di comunicazione](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [Visualizzare i membri di Smart Campaign](view-smart-campaign-members.md)
-   >    * [Visualizzare le persone qualificate in una campagna intelligente](view-qualified-people-in-a-smart-campaign.md)
+   >* [Modifica regole di qualifica](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [Abilita limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [Visualizzare i membri di Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [Visualizzare le persone qualificate in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
 Ecco qua! Ora puoi essere a conoscenza di chi potrebbe non ricevere le mail.
