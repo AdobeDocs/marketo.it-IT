@@ -3,7 +3,7 @@ unique-page-id: 1147009
 description: Cambiare il successo del programma - Marketo Docs - Documentazione del prodotto
 title: Modifica riuscita del programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Se avete un gruppo di persone contrassegnato accidentalmente con Successo progra
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Selezionare **Success** o** Success Date** come attributo.
+1. Selezionare **Success** o **Success Date** come attributo.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
