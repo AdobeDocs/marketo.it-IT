@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Utilizzare un token di data in un passaggio del flusso di attesa - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare un token di data in un passaggio di flusso di attesa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utilizzare un token di data in un passaggio del flusso di attesa {#use-a-date-token-in-a-wait-flow-step}
 
-Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viaggio di una persona attraverso una campagna intelligente fino a una data specifica che utilizza un token di data. È inoltre possibile modificare la data di fine di un certo numero di giorni.
+Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il percorso di una persona attraverso una campagna intelligente fino a una data specifica che utilizza un token data. È inoltre possibile modificare la data di fine di un certo numero di giorni.
 
 >[!NOTE]
 >
@@ -56,15 +56,12 @@ Potete utilizzare il passaggio del flusso di attesa per mettere in pausa il viag
    >
    >È inoltre possibile specificare il numero di giorni utilizzando un token `{{lead.` o `{{company.` che rappresenta un campo intero o un token `{{my.` di tipo numerico.
 
-1. Fate clic su Salva.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >* [Utilizzo di una durata in un passaggio del flusso di attesa](use-a-duration-in-a-wait-flow-step.md)
-   >* [Utilizzare una data specifica in un passaggio del flusso di attesa](use-a-specific-date-in-a-wait-flow-step.md)
-
+   >* [Utilizzo di una durata in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+   >* [Utilizzare una data specifica in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
 
