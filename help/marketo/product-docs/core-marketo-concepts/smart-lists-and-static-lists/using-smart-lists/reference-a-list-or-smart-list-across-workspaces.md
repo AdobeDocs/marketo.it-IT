@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: Riferimento a un elenco o a un elenco smart tra aree di lavoro - Marketo Docs - Documentazione prodotto
 title: Riferimento a un elenco o a un elenco avanzato nelle aree di lavoro
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Gli elenchi e gli elenchi smart possono essere condivisi e utilizzati come rifer
 
    ![](assets/four-3.png)
 
-1. Scegliete un **Workspace **con cui condividere. Selezionare **Save**.
+1. Scegliete un **workspace** con cui condividere i contenuti. Selezionare **Save**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ Gli elenchi e gli elenchi smart possono essere condivisi e utilizzati come rifer
    >[!NOTE]
    >
    >In Attività di marketing, potete condividere solo cartelle di livello principale. In Database, è possibile condividere cartelle di livello principale e un livello inferiore.
-
