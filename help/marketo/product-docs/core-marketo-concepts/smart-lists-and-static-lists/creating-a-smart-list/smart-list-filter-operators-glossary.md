@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Smart List Filtri Operatori Glossario - Marketo Docs - Documentazione del prodotto
 title: Glossario degli operatori di filtri per elenchi avanzati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # Glossario degli operatori di filtri per elenchi avanzati {#smart-list-filter-operators-glossary}
 
-Un operatore fa parte dell&#39; [smart list](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) che consente di ottenere informazioni specifiche. Consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ciascun tipo di campo.\
+Un operatore è una parte dell&#39;elenco smart che consente di ottenere informazioni specifiche. Consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ciascun tipo di campo.
+
 Questo è un glossario che descrive ogni insieme di operatori.
 
 ## Campi data {#date-fields}
@@ -51,7 +52,7 @@ Basta digitare il numero e l&#39;unità insieme e funzionerà!
 
 >[!NOTE]
 >
->In passato **fa** include il giorno (fino all&#39;ora, non dopo) in cui si crea l&#39;elenco smart.
+>&quot;In passato&quot; **fa** include il giorno (fino all&#39;ora, non dopo) in cui si crea l&#39;elenco smart.
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ Usare il diagramma seguente per comprendere la differenza tra gli operatori data
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">Operatore</th> 
-   <th colspan="1" rowspan="1"><p>Descrizione</p></th> 
+   <th colspan="1" rowspan="1">Descrizione</th> 
   </tr> 
  </thead> 
  <tbody> 
