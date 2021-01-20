@@ -3,7 +3,7 @@ unique-page-id: 1147029
 description: Modifica dello stato nella campagna SFDC - Documenti Marketo - Documentazione prodotto
 title: Modifica dello stato nella campagna SFDC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -31,7 +31,6 @@ Se un lead non esiste in Salesforce o non è ancora membro della campagna, verr�
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Selezionare quindi il **Nuovo** **Stato** che si desidera impostare e si è pronti!
+1. Selezionare quindi il **Nuovo stato** che si desidera impostare e si è pronti!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-
