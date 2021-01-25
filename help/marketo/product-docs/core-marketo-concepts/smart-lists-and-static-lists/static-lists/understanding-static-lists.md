@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: Informazioni sugli elenchi statici - Documenti Marketo - Documentazione prodotto
 title: Informazioni sugli elenchi statici
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ La differenza tra un elenco statico e uno avanzato è fondamentale per comprende
 
 >[!CAUTION]
 >
->Uno degli errori più comuni è pensare di poter rimuovere una persona da una lista semplicemente &quot;cancellando la persona&quot;. **Questo è sbagliato.** Eliminando la persona, questi vengono eliminati dall&#39;intero database ****, non solo dall&#39;elenco.
+>Uno degli errori più comuni è pensare di poter rimuovere una persona da una lista semplicemente &quot;cancellando la persona&quot;. **Questo è sbagliato**. L&#39;eliminazione della persona li eliminerà dall&#39; **intero database**, non solo dall&#39;elenco.
 
 ## Modi per aggiungere/rimuovere persone da un elenco {#ways-to-add-remove-people-from-a-list}
 
-1. Passaggio flusso campagna intelligente ([Aggiungi a elenco](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Rimuovi da elenco](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Passaggio flusso campagna intelligente ([Aggiungi a elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Rimuovi da elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
-1. [Passaggio singolo azione](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [Passaggio singolo azione](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. Trascinamento delle persone in un elenco nella struttura
-1. [Importazione elenco](../../../../getting-started/quick-wins/import-a-list-of-people.md)
+1. [Importazione elenco](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## Alcuni usi di un elenco statico {#some-uses-of-a-static-list}
 
@@ -48,5 +48,4 @@ Godetevi la potenza della LISTA!
 
 >[!MORELIKETHIS]
 >
->[Creare un elenco statico](https://docs.marketo.com/x/ecKt)
-
+>[Creare un elenco statico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
