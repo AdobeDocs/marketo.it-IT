@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: Filtra i tipi di attività nel registro delle attività di una persona - Documenti Marketo - Documentazione del prodotto
 title: Filtrare i tipi di attività nel registro delle attività di una persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Cercate attività che contano maggiormente nel registro attività.
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Ulteriori informazioni su [il registro attività](locate-the-activity-log-for-a-person.md).
+>Ulteriori informazioni su [il registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. Andate alla pagina **Person Detail**. Fare clic sulla scheda **Registro attività**.
 
@@ -58,4 +56,3 @@ Cercate attività che contano maggiormente nel registro attività.
 1. Fare clic su **Filtri salvati**. I filtri salvati sono elencati di seguito.
 
    ![](assets/eight.png)
-
