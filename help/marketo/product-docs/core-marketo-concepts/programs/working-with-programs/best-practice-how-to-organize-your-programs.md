@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: Best practice - Come organizzare i programmi - Marketo Docs - Documentazione prodotto
 title: Procedure ottimali - Come organizzare i programmi
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Ognuno di questi esempi citati nell&#39;esempio è una cartella. Notate come han
 
 >[!TIP]
 >
->La cartella &quot;Archive&quot; è un tipo speciale di cartella progettato per rimuovere gli elementi dagli elenchi selezionati e per generare rapporti. In questo modo il sistema sarà più veloce. Scopri [ulteriori informazioni sulle cartelle](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>La cartella &quot;Archive&quot; è un tipo speciale di cartella progettato per rimuovere gli elementi dagli elenchi selezionati e per generare rapporti. In questo modo il sistema sarà più veloce. Scopri [ulteriori informazioni sulle cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
 Potete aggiungere sicuramente più cartelle secondo le vostre esigenze. Tieni presente che le future generazioni di esperti di marketing della tua azienda vivranno con le tue decisioni su come assegnare un nome o organizzare le cose.
 
@@ -76,15 +76,12 @@ La denominazione è fondamentale, poiché le funzioni di Marketo utilizzano tutt
 >1. Newsletter NL 2015-06
 >1. Argomento webinar WBN 2015-12-01
 
->
 
-
-
-I nomi dei programmi devono essere univoci nell&#39;abbonamento, anche in [aree di lavoro](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) diverse.  Per le risorse locali all&#39;interno dei programmi, la regola è di **mantenere il nome semplice**. Basta assegnare un nome &quot;Invito&quot;, invece di &quot;Invito webinar 2015 giugno&quot;. Poiché si trovano in un programma, il programma principale fa automaticamente parte del nome quando lo sceglie altrove. In altre parole, le risorse locali devono essere univoche solo all&#39;interno del programma. Potete usare centinaia di risorse denominate &quot;Invite&quot;, ognuna in un programma diverso e non causerà alcun errore.
+I nomi dei programmi devono essere univoci nell&#39;abbonamento, anche in [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) diverse.  Per le risorse locali all&#39;interno dei programmi, la regola è di **mantenere il nome semplice**. Basta assegnare un nome &quot;Invito&quot;, invece di &quot;Invito webinar 2015 giugno&quot;. Poiché si trovano in un programma, il programma principale fa automaticamente parte del nome quando lo sceglie altrove. In altre parole, le risorse locali devono essere univoche solo all&#39;interno del programma. Potete usare centinaia di risorse denominate &quot;Invite&quot;, ognuna in un programma diverso e non causerà alcun errore.
 
 ## Token {#tokens}
 
-I token utilizzano cartelle e programmi come veicolo per impostare le variabili da utilizzare per pagine di destinazione, e-mail e altre risorse. Informazioni su [tutti i token](http://docs.marketo.com/display/docs/tokens).
+I token utilizzano cartelle e programmi come veicolo per impostare le variabili da utilizzare per pagine di destinazione, e-mail e altre risorse.
 
 L’organizzazione di cui sopra consente di inserire i token nella cartella Evento in modo che vengano raggruppati in tutti gli eventi.
 
@@ -102,7 +99,7 @@ Un evento ha in genere molte parti mobili, tra cui: inviti, pagine di destinazio
 
 ## Programmi di coinvolgimento {#engagement-programs}
 
-Scopri [tutti i programmi di coinvolgimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Il modo migliore per organizzare il programma di coinvolgimento è tramite le cartelle. Crea una cartella per ciascun flusso e poi inserisci le e-mail o i programmi in quella cartella. Includete una cartella di archivio in ciascun flusso quando il contenuto diventa obsoleto e desiderate rimuoverlo.
+Scopri [tutti i programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Il modo migliore per organizzare il programma di coinvolgimento è tramite le cartelle. Crea una cartella per ciascun flusso e poi inserisci le e-mail o i programmi in quella cartella. Includete una cartella di archivio in ciascun flusso quando il contenuto diventa obsoleto e desiderate rimuoverlo.
 
 ## Programmi operativi {#operational-programs}
 
@@ -110,7 +107,7 @@ Sono utilizzati per la pulizia dei dati. Disporre di cartelle per le date in cui
 
 ## Nidificazione dei programmi e-mail {#nesting-email-programs}
 
-I programmi e-mail sono progettati per essere il vostro strumento per il blasting della posta. Puoi inserirli in Eventi o altri programmi per promozioni, inviti e promemoria. Sono dotati di un pannello di controllo e di altre funzioni di test A/B. Inoltre, sono facilmente manipolabili nella [vista programmazione programma](http://docs.marketo.com/display/docs/program+schedule+view).
+I programmi e-mail sono progettati per essere il vostro strumento per il blasting della posta. Puoi inserirli in Eventi o altri programmi per promozioni, inviti e promemoria. Sono dotati di un pannello di controllo e di altre funzioni di test A/B. Inoltre, sono facilmente manipolabili nella vista di programmazione del programma.
 
 Potete anche creare un programma e-mail come programma autonomo. I programmi e-mail non sono consentiti all&#39;interno di altri programmi e-mail. Sarebbe folle!
 
@@ -126,4 +123,4 @@ Alcune persone possono anche astrarre la maggior parte del testo nelle e-mail e 
 
 ## Riepilogo {#summary}
 
-Come potete vedere, c&#39;è molto potere a Marketo. Abbiamo trattato le nozioni di base qui, ma consideriamo alcuni [servizi aggiuntivi da Marketo Experts](http://www.marketo.com/services/) per perfezionare e prepararsi per il successo.
+Come potete vedere, c&#39;è molto potere a Marketo. Abbiamo trattato le nozioni di base qui, ma consideriamo alcuni [servizi aggiuntivi da Marketo Experts](https://www.marketo.com/services/) per perfezionare e prepararsi per il successo.
