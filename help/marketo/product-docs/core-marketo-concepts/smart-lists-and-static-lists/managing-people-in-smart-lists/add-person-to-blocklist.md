@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: Aggiungere una persona al  di Inserire nell'elenco Bloccati - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi persona a  Inserii nell'elenco Bloccati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ L&#39;aggiunta di persone al Inserire nell&#39;elenco Bloccati di  impedisce lor
 >
 >Marketo sta cambiando termini come Blacklist e Whitelist per  Inserii nell&#39;elenco Bloccati e  Inserire nell&#39;elenco Consentiti nel nostro prodotto. Nel corso di questo aggiornamento, i vecchi termini possono essere visualizzati nella nostra interfaccia utente e nelle schermate della documentazione, nonché i nuovi termini nel nostro testo della documentazione. Ci scusiamo per ogni confusione.
 
-1. [Create un nuovo ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programma predefinito e denominatelo  **Aggiungi a  Inserii nell&#39;elenco Bloccati**.
+1. [Create un nuovo ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programma predefinito e denominatelo  **Aggiungi a  Inserii nell&#39;elenco Bloccati**.
+
 1. Fare clic su **Nuovo** e selezionare **Nuova risorsa locale**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ L&#39;aggiunta di persone al Inserire nell&#39;elenco Bloccati di  impedisce lor
 
    >[!TIP]
    >
-   >Creare una [campagna intelligente di attivazione](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) utilizzando **Change Data Value** con **Block List è true** per tutte le persone che in futuro avranno  attributi .
-
+   >Creare una [campagna intelligente di attivazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) utilizzando **Change Data Value** con **Block List è true** per tutte le persone che in futuro avranno  attributi .
