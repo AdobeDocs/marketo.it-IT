@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Gestione e visualizzazione dei membri - Documenti Marketo - Documentazione prodotto
 title: Gestione e visualizzazione dei membri
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Tubo profondo**
->
-> Approfondisci la sezione [appartenenza al programma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Approfondisci la sezione [appartenenza al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Cerca un membro {#search-for-a-member}
 
@@ -41,21 +39,21 @@ Per esportare l’elenco dei membri, fai clic sull’icona Excel accanto al camp
 
 ## Gestisci colonne nella griglia dei membri {#manage-columns-in-the-members-grid}
 
-* Trascinare le colonne per modificarne l’ordine. La coppia di frecce blu indica dove andrà la colonna.
+Trascinare le colonne per modificarne l’ordine. La coppia di frecce blu indica dove andrà la colonna.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Fate clic con il pulsante destro del mouse sull’intestazione della colonna per ordinare l’ordine alfabetico, crescente o decrescente.
+Fate clic con il pulsante destro del mouse sull’intestazione della colonna per ordinare l’ordine alfabetico, crescente o decrescente.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Scegliere le colonne visibili nella griglia {#choose-which-columns-are-visible-in-the-grid}
 
-1. Fare clic sul menu a discesa **View **e selezionare **Crea vista**.
+1. Fare clic sul menu a discesa **Visualizza** e selezionare **Crea vista**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Denominate la visualizzazione personalizzata. Selezionate i titoli delle colonne. Fare clic** Aggiungi **e** Rimuovi **per spostare le colonne e creare una vista.
+1. Denominate la visualizzazione personalizzata. Selezionate i titoli delle colonne. Fare clic su **Aggiungi** e **Rimuovi** per spostare le colonne e creare una vista.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ Tante caratteristiche, ma sono tutte abbastanza semplici. Divertiti!
 
 >[!MORELIKETHIS]
 >
->* [Creare un rapporto sulle prestazioni del programma](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[Creare un rapporto sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
