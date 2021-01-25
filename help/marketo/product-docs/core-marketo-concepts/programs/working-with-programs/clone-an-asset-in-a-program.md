@@ -3,9 +3,9 @@ unique-page-id: 1147152
 description: Clonare una risorsa in un programma - Documenti Marketo - Documentazione del prodotto
 title: Duplicare una risorsa in un programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Clonare una risorsa in un programma {#clone-an-asset-in-a-program}
 
-Clonazione di un programma cloni *tutto*. A volte è sufficiente clonare una risorsa. Ecco come.
+Clonazione di un programma cloni _tutto_. A volte è sufficiente clonare una risorsa. Ecco come.
 
 >[!NOTE]
 >
->Sarà necessario eseguire ulteriori passaggi per [duplicare un gruppo di test della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>Sarà necessario eseguire ulteriori passaggi per [duplicare un gruppo di test della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Duplica una risorsa locale {#clone-a-local-asset}
 
@@ -33,7 +33,7 @@ Clonazione di un programma cloni *tutto*. A volte è sufficiente clonare una ris
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. È sufficiente compilare le informazioni e fare clic su **Clone.**
+1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. È sufficiente compilare le informazioni e fare clic su **Clone**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
@@ -47,10 +47,4 @@ Clonazione di un programma cloni *tutto*. A volte è sufficiente clonare una ris
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Clona un programma](clone-a-program.md)
-
-
+   >[Clona un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
