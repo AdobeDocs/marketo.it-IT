@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: Utilizzo della scheda Home del programma - Marketo Docs - Documentazione del prodotto
 title: Utilizzo della scheda Home del programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ La scheda principale del programma offre una visualizzazione di alto livello di 
    >
    >Questa è la visualizzazione predefinita. Fornisce informazioni sulle impostazioni, la pianificazione, i risultati e lo stato del programma dei membri.
 
-   Fate clic su elementi sottolineati per apportare modifiche o visualizzare ulteriori informazioni.
+1. Fate clic su elementi sottolineati per apportare modifiche o visualizzare ulteriori informazioni.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   Fai clic su Esporta nella parte inferiore del rapporto Riepilogo per scaricare.
+1. Fate clic su **Esporta** in fondo al Riepilogo per scaricare il rapporto.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ La scheda principale del programma offre una visualizzazione di alto livello di 
    >
    >**Storico** indica chiunque abbia mai seguito il programma, mentre  **** Attualmente include solo le persone presenti nel programma.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Informazioni sull&#39;iscrizione al programma](understanding-program-membership.md)
-
-
+   >[Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
