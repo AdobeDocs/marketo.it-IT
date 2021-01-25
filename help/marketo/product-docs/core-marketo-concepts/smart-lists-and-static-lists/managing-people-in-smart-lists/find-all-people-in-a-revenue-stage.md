@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: Trova tutte le persone in una fase di ricavo - Documenti Marketo - Documentazione prodotto
 title: Trova tutte le persone in una fase di ricavo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Trova tutti i membri di una fase specifica di ricavi {#find-all-members-of-a-specific-revenue-stage}
 
-1. In un elenco avanzato, fare clic sulla scheda **Smart List **, individuare il filtro **Revenue Stage** e trascinarlo nell&#39;area di lavoro.
+1. In un elenco avanzato, fare clic sulla scheda **Smart List**, individuare il filtro **Revenue Stage** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ Ora che sapete quali persone sono in fase di fatturato, potete commercializzare 
    ![](assets/six.png)
 
    Da qui potete scegliere quali membri sono interessati da quale aspetto del passaggio di flusso. Divertimento!
-
