@@ -3,7 +3,7 @@ unique-page-id: 1147150
 description: Utilizzare i tag in un programma - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo dei tag in un programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -21,7 +21,7 @@ I tag sono attributi che descrivono i programmi e sono utilizzati per raggruppar
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
-1. Trascinate e rilasciate un tag nell’area di lavoro.
+1. Trascinate e rilasciate un tag sul quadro.
 
    ![](assets/image2014-9-23-15-3a45-3a13.png)
 
@@ -61,7 +61,7 @@ I tag sono attributi che descrivono i programmi e sono utilizzati per raggruppar
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. Fare clic su **Delete **per confermare.
+1. Fare clic su **Elimina** per confermare.
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 
