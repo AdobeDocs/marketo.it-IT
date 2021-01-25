@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importa un programma - Documenti Marketo - Documentazione prodotto
 title: Importare un programma
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Un programma può essere importato da un’iscrizione a Marketo a un’altra. Ad
 
    ![](assets/ma.png)
 
-1. Fare clic **Nuovo **a discesa. Selezionare **Importa programma**.
+1. Fare clic sul menu a discesa **Nuovo**. Selezionare **Importa programma**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Importazione programma è disponibile solo per gli utenti che hanno attivato i ruoli con l&#39;autorizzazione Importa programma. Ulteriori informazioni sulla [gestione di ruoli utente e autorizzazioni](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Importazione programma è disponibile solo per gli utenti che hanno attivato i ruoli con l&#39;autorizzazione Importa programma. Ulteriori informazioni sulla [gestione di ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >
-   >Per collegare un account sandbox al tuo abbonamento live, contatta il [Supporto marketing](http://www.marketo.com/services/support/).
+   >Per collegare un account sandbox al tuo abbonamento live, contatta il [Supporto marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Selezionare un&#39;iscrizione **Marketing** e un programma da importare. Fare clic su **Next**.
 
@@ -42,7 +41,7 @@ Un programma può essere importato da un’iscrizione a Marketo a un’altra. Ad
 
    >[!NOTE]
    >
-   >Assicurarsi che** ****Usa regole di conflitto predefinite** sia selezionato. Le regole di conflitto sono necessarie quando si importano programmi in un&#39;istanza con risorse dello stesso nome.
+   >Assicurarsi che le regole **Usa conflitto predefinito** siano selezionate. Le regole di conflitto sono necessarie quando si importano programmi in un&#39;istanza con risorse dello stesso nome.
 
 1. Visualizza in anteprima i dettagli e **Importa** il programma.
 
@@ -77,7 +76,7 @@ La libreria del programma Marketo contiene programmi preconfigurati e testati ch
 1. **Sincronizza nuove persone con CRM.** La campagna che sincronizza nuove persone con il sistema CRM. Assegna uno stato a una persona in modo che venga riconosciuta come non pronta per le vendite.
 1. **Webinar con adattatore evento.** Una serie completa di e-mail, ad esempio inviti e promemoria, oltre a pagine di destinazione con moduli e campagne per l&#39;indirizzamento delle persone attraverso il programma. Questo programma ottiene aggiornamenti su registrazione, partecipazione, ecc. da provider di eventi online come WebEx.
 1. **Webinar senza adattatore evento.** Come sopra, ma con processi manuali per la registrazione, la partecipazione, ecc.
-1. **Programma** di Punteggio Decisioni Sirius. Questo programma è costruito per supportare il modello standard di valutazione delle decisioni di Sirius, incluse le regole di punteggio implicite ed esplicite e l&#39;assegnazione di persona matrixed. Per ulteriori informazioni, vedere [questo PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf).
+1. **Programma** di Punteggio Decisioni Sirius. Questo programma è costruito per supportare il modello standard di valutazione delle decisioni di Sirius, incluse le regole di punteggio implicite ed esplicite e l&#39;assegnazione di persona matrixed.
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ La libreria del programma Marketo contiene programmi preconfigurati e testati ch
 
 I programmi utilizzano risorse esterne come i modelli e-mail, i modelli delle pagine di destinazione, le immagini, i moduli, i token e i tag dei programmi. È possibile configurare il modo in cui vengono gestiti i modelli e i tag dei programmi delle pagine di destinazione e Marketo gestisce automaticamente gli altri.
 
-**Modelli e-mail: **I modelli e-mail vengono importati automaticamente e creati a meno che non ne esista uno con lo stesso nome.
+**Modelli e-mail: i modelli** e-mail vengono importati e creati automaticamente a meno che non ne esista uno con lo stesso nome.
 
-**Modelli pagina di destinazione: **I modelli delle pagine di destinazione vengono importati nello studio di progettazione. Potete utilizzare le regole di conflitto per configurare il comportamento quando esiste un modello con lo stesso nome. Utilizzando la regola predefinita, un numero viene aggiunto a un modello di pagina di destinazione se ne esiste uno con lo stesso nome. Ad esempio, se esiste un modello di pagina di destinazione denominato Standard Template 1, verrà creato un modello di pagina di destinazione denominato Standard Template 1.
+**Modelli per pagine di destinazione:i modelli per pagine di** destinazione vengono importati nello studio di progettazione. Potete utilizzare le regole di conflitto per configurare il comportamento quando esiste un modello con lo stesso nome. Utilizzando la regola predefinita, un numero viene aggiunto a un modello di pagina di destinazione se ne esiste uno con lo stesso nome. Ad esempio, se esiste un modello di pagina di destinazione denominato Standard Template 1, verrà creato un modello di pagina di destinazione denominato Standard Template 1.
 
-**Immagini: **Le immagini utilizzate dalle pagine di destinazione vengono importate nello studio di progettazione a meno che non ne esista una con lo stesso nome.
+**Immagini:** le immagini utilizzate dalle pagine di destinazione vengono importate nello studio di progettazione, a meno che non ne esista una con lo stesso nome.
 
-**Token: **I token che vivono al di fuori di un programma saranno convertiti in token locali durante il processo di importazione.
-
->[!CAUTION]
->
->Tipo di immagine I miei token non sono supportati per le importazioni di programmi. Se viene importato un programma che ha un tipo di immagine, i token **no **i verranno utilizzati.
-
-**Tag programma: **È possibile utilizzare regole di conflitto per controllare come verranno trattati i tag di programma che non esistono nell&#39;account di destinazione. Utilizzando la regola predefinita verranno creati i tag dei programmi, oppure sarà possibile scegliere di ignorare i tag.  **Forms: **I moduli esterni vengono importati automaticamente nello studio di progettazione, a meno che non ne esista uno con lo stesso nome.
+**Token:** i token che vivono al di fuori di un programma verranno convertiti in token locali durante il processo di importazione.
 
 >[!CAUTION]
 >
->Durante l&#39;importazione di un programma, le pagine/e-mail di destinazione contenenti [contenuto dinamico](http://docs.marketo.com/x/yRAt) verranno ignorate.
+>Tipo di immagine I miei token non sono supportati per le importazioni di programmi. Se viene importato un programma con un tipo di immagine, vengono forniti **no** token.
 
-## Guarda il video {#watch-a-video}
+**Tag programma:** È possibile utilizzare regole di conflitto per controllare come verranno gestiti i tag di programma che non esistono nell&#39;account di destinazione. Utilizzando la regola predefinita verranno creati i tag dei programmi, oppure sarà possibile scegliere di ignorare i tag. **Forms: i moduli** esterni vengono importati automaticamente nello studio di progettazione, a meno che non ne esista uno con lo stesso nome.
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>Durante l&#39;importazione di un programma, le pagine/e-mail di destinazione contenenti [contenuto dinamico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) verranno ignorate.
