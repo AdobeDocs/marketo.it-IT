@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: Esportare le persone in Excel da un elenco o da un elenco avanzato - Marketo Docs - Documentazione prodotto
 title: Esportare le persone in Excel da un elenco o da un elenco avanzato
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Se avete bisogno di risultati di elenchi o elenchi smart al di fuori di Marketo,
    >[!TIP]
    >
    >È possibile annullare la memorizzazione nella cache dell&#39;elenco semplicemente premendo il pulsante di aggiornamento dell&#39;elenco.
-
