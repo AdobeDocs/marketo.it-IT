@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: Comprendere i costi del periodo - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sui costi del periodo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ I costi del periodo si riferiscono ai soldi spesi in un mese specifico per un pr
 
 >[!NOTE]
 >
->**Tubo profondo**
+>[Informazioni sui programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Informazioni sui programmi](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[Informazioni sull&#39;iscrizione al programma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Modalità di calcolo dei costi del periodo {#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ Immaginate un evento, come un webinar, che si terrà a marzo. Le nuove persone v
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >In sintesi: mesi senza un periodo definito i costi passeranno &quot;indietro&quot; all&#39;ultimo che è stato definito. Se non esiste un costo per il periodo precedente, i mesi verranno &quot;inoltrati&quot; a quello successivo definito. Se il costo del periodo non è stato definito per *qualsiasi* mesi, la segnalazione in RCE non sarà disponibile per il programma.
+   >In sintesi: mesi senza un periodo definito i costi passeranno &quot;indietro&quot; all&#39;ultimo che è stato definito. Se non esiste un costo per il periodo precedente, i mesi verranno &quot;inoltrati&quot; a quello successivo definito. Se il costo del periodo non è stato definito per _qualsiasi_ mesi, la segnalazione in RCE non sarà disponibile per il programma.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Utilizzo dei costi del periodo in un programma](using-period-costs-in-a-program.md)
-   >    * [Filtra un rapporto programma per costo periodo](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [Utilizzo dei costi del periodo in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [Filtra un rapporto programma per costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
