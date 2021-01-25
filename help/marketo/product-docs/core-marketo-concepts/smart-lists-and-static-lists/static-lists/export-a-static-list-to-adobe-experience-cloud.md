@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Esportazione di un elenco statico in Adobe Experience Cloud - Marketo Docs - Documentazione prodotto
 title: Esportazione di un elenco statico in Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configurare la condivisione dell&#39;audience di Adobe Experience Cloud](http://docs.marketo.com/x/D4GMAg)
+>[Configurare la condivisione dell&#39;audience di Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Applicazioni di destinazione supportate {#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **Condivisione su  Adobe Analytics**
 
-Per i clienti che possiedono sia Adobe Audience Manager che  Adobe Analytics, questa integrazione consentirà la condivisione dei tipi di pubblico da Marketo alle suite di rapporti Adobe Analytics , tuttavia, per attivare questa funzionalità è necessario effettuare alcune configurazioni aggiuntive in Adobe Audience Manager. Per ulteriori informazioni sulla configurazione, consulta la documentazione di Adobe Audience Manager: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Per i clienti che possiedono sia Adobe Audience Manager che  Adobe Analytics, questa integrazione consentirà la condivisione dei tipi di pubblico da Marketo alle suite di rapporti Adobe Analytics , tuttavia, per attivare questa funzionalità è necessario effettuare alcune configurazioni aggiuntive in Adobe Audience Manager. Per ulteriori informazioni sulla configurazione, consulta la documentazione di Adobe Audience Manager: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Utilizzo delle caratteristiche per i clienti Adobe Audience Manager**
 
@@ -80,4 +80,4 @@ Sotto la cappa, l&#39;integrazione del pubblico funziona sincronizzando i cookie
 
 Quando la sincronizzazione dei cookie è abilitata per l’iscrizione a Marketo, il file munchkin.js di Marketo tenterà di acquisire e memorizzare  ECID Adobe per l’organizzazione IMS del Adobe  specificata durante l’impostazione dell’integrazione e far corrispondere questi ECID al corrispondente identificatore di cookie Marketo. Questo consente ai profili utente anonimi di Marketo di arricchirsi con  ECID Adobe.
 
-È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un messaggio e-mail di testo normale. Esattamente come funziona questo è descritto qui: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un messaggio e-mail di testo normale. Esattamente come funziona questo è descritto qui: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
