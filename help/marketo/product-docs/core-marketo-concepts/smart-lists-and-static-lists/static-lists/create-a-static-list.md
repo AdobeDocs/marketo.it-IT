@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: Creare un elenco statico - Documenti Marketo - Documentazione del prodotto
 title: Creare un elenco statico
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Gli elenchi statici sono un gruppo di persone già presenti nel database. Ecco c
 
    ![](assets/three.png)
 
-   Ora è disponibile un elenco vuoto pronto per essere compilato. Scopri come aggiungere persone [qui](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
+   Ora è disponibile un elenco vuoto pronto per essere compilato. Scopri come aggiungere persone [qui](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
 
    >[!NOTE]
    >
    >È possibile aggiungere una persona all&#39;elenco il numero desiderato, ma verranno visualizzate solo una volta. Le persone rimangono nell&#39;elenco finché non vengono rimosse.
-
