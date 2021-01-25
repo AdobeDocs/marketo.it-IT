@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: Eliminazione di un programma - Marketo Docs - Documentazione prodotto
 title: Eliminare un programma
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Fate clic su Azioni programma. Fate clic su Elimina.
+1. Fare clic su **Azioni programma**. Fare clic su **Elimina**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selezionate l’opzione Elimina tutto. Esaminare gli effetti collaterali dell&#39;eliminazione del programma, quindi fare clic su Elimina per confermare.
+1. Selezionate l’opzione Elimina tutto. Esaminare gli effetti collaterali dell&#39;eliminazione del programma, quindi fare clic su **Elimina** per confermare.
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ Per risolvere il problema, potrebbe essere necessario approfondire e disapprovar
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Fate clic su **Usato** **Da** per vedere dove si trova la risorsa.
+1. Fate clic su **Usato da** per vedere dove si trova la risorsa.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    Dopo aver saputo dove viene utilizzata la risorsa, accedete e rimuovete l’approvazione. Quindi provare a eliminare di nuovo il programma.
-
