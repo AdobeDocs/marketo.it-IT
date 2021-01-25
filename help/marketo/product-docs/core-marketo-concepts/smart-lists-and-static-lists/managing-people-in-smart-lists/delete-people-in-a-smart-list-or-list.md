@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: Eliminare le persone in un elenco avanzato o in un elenco - Documenti Marketo - Documentazione prodotto
 title: Eliminare le persone in un elenco avanzato o in un elenco
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ ht-degree: 0%
    >
    >Quando si elimina una persona, non solo la si sta rimuovendo dall&#39;elenco, ma sarà completamente rimosso dal database.
 
-1. Fare clic su **Seleziona** **Tutto**. Potete anche scegliere alcuni record utilizzando Ctrl/Comando e facendo clic.
+1. Fare clic su **Seleziona tutto**. Potete anche scegliere alcuni record utilizzando Ctrl/Comando e facendo clic.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Se i risultati si estendono su più pagine, facendo clic su **Select** **All** tutte le persone verranno selezionate su tutte le pagine.
+   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** si selezioneranno tutte le persone su tutte le pagine.
 
-1. Per rimuovere completamente le persone da Marketo, fare clic su **Elimina** **Persona**.
+1. Per rimuovere completamente le persone da Marketo, fare clic su **Elimina persona**.
 
    ![](assets/four-1.png)
 
-1. Impostare **Remove** **da** **CRM** su **true** se si desidera eliminare anche i record dal CRM.
+1. Impostare **Remove from CRM** su **true** se si desidera eliminare anche i record dal CRM.
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ ht-degree: 0%
    >
    >Se il tuo Marketo non è legato al tuo CRM, l&#39;opzione è disattivata come nello screenshot.
 
-1. Fare clic su **Esegui** **Ora**.
+1. Fare clic su **Esegui ora**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ ht-degree: 0%
    >Per visualizzare i risultati dell&#39;eliminazione di massa, fate clic su **Visualizza risultati** nella casella a comparsa Azione flusso singolo nell&#39;angolo superiore destro dello schermo. I tempi di eliminazione possono variare notevolmente, a seconda di diversi fattori.
 
    Questa è una grande caratteristica, basta essere molto attenti quando si utilizza!
-
