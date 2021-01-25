@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: Utilizzo di membri di un elenco avanzato - Documenti Marketo - Documentazione prodotto
 title: Utilizzo dei membri dell'elenco in un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->È possibile aggiungere persone a un elenco utilizzando [Importa](../../../../getting-started/quick-wins/import-a-list-of-people.md) o il passaggio [Aggiungi a flusso elenco](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>È possibile aggiungere persone a un elenco utilizzando [Importa](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) o il passaggio [Aggiungi a flusso elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Con questo filtro, potete estrarre i membri da un altro elenco facendovi riferimento nelle regole dell&#39;elenco avanzato. Ecco come.
 
@@ -31,5 +31,4 @@ Con questo filtro, potete estrarre i membri da un altro elenco facendovi riferim
 
    ![](assets/memberoflist.png)
 
-   **Fatto!** In questo esempio, l&#39;elenco smart ora sarà indirizzato solo ai membri dell&#39;elenco e li valuterà in base a qualsiasi altra regola inclusa.
-
+   Fatto! In questo esempio, l&#39;elenco smart ora sarà indirizzato solo ai membri dell&#39;elenco e li valuterà in base a qualsiasi altra regola inclusa.
