@@ -3,7 +3,7 @@ unique-page-id: 8782021
 description: Personalizzazione dei Momenti Marketo - Documenti Marketo - Documentazione prodotto
 title: Personalizzazione dei momenti di marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -22,4 +22,3 @@ Abilitare **Mostra solo i momenti** per visualizzare solo i programmi e-mail e l
 In alternativa, disattivate **Mostra solo i momenti** per visualizzare tutte le campagne smart e i programmi e-mail a cui avete accesso.
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)
-
