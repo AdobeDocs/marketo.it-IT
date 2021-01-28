@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: Creazione di una voce nella vista Pianificazione programma - Documenti Marketo - Documentazione prodotto
 title: Creazione di una voce nella vista Pianificazione programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Denominate la voce. Premere **Enter **per confermare il nome.
+1. Denominate la voce. Premere **Invio** per confermare il nome.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Fare è una [voce personalizzata](create-custom-entry-types.md). Potete creare un oggetto da fare e altre voci personalizzate per tenere traccia degli elementi dell&#39;agenda non Marketo.
+   >Fare è una [voce personalizzata](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Potete creare un oggetto da fare e altre voci personalizzate per tenere traccia degli elementi dell&#39;agenda non Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> È inoltre possibile creare un [campagna intelligente](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o un [programma e-mail](creating-a-new-email-program-in-the-schedule-view.md) dalla vista di pianificazione.
-
+> È inoltre possibile creare un [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o un [programma e-mail](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) dalla vista di pianificazione.
