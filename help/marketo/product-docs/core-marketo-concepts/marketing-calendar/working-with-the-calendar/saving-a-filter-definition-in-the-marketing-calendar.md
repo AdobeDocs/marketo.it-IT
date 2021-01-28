@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: Salvataggio di una definizione di filtro nel calendario di marketing - Documenti Marketo - Documentazione prodotto
 title: Salvataggio di una definizione di filtro nel calendario di marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Il salvataggio di un filtro consente di passare da una definizione di filtro all
 
 >[!PREREQUISITES]
 >
->* [Filtrare il calendario di marketing](filtering-the-marketing-calendar.md)
-
->
-
-
+>[Filtrare il calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. Definire il filtro.
 
@@ -39,14 +35,8 @@ Il salvataggio di un filtro consente di passare da una definizione di filtro all
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Se lo desiderate, potete [inviare una copia](sharing-a-filter-definition-in-the-marketing-calendar.md) della definizione ad altri utenti di Marketing.
+   Se lo desiderate, potete [inviare una copia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) della definizione ad altri utenti di Marketing.
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Condivisione di una definizione di filtro nel calendario di marketing](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Condivisione di una definizione di filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
