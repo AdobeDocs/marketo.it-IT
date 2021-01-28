@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: Cartelle - Documenti Marketo - Documentazione prodotto
 title: Cartelle
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informazioni sulle cartelle {#understanding-folders}
 
-Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse intelligenti. Sono diverse dalle cartelle [delle campagne](create-new-campaign-folder.md).
+Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse intelligenti. Sono diverse dalle cartelle [delle campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Creare una cartella {#create-a-folder}
 
@@ -76,4 +76,3 @@ Funzionalità che **non** cambia durante l&#39;archiviazione:
 * Una risorsa in uso continuerà a funzionare anche dopo l’archiviazione
 * Potete usare un filtro per selezionare le risorse archiviate da usare nei rapporti
 * Le risorse archiviate non sono disattivate. Devono anche essere disattivati se si desidera che smettano di funzionare
-
