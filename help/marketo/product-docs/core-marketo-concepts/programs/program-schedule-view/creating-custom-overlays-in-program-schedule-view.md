@@ -3,7 +3,7 @@ unique-page-id: 1147251
 description: Creazione di sovrapposizioni personalizzate in visualizzazione Pianificazione programma - Documenti Marketo - Documentazione prodotto
 title: Creazione di sovrapposizioni personalizzate in visualizzazione Pianificazione programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -27,11 +27,10 @@ Potete creare sovrapposizioni personalizzate per visualizzare le voci pertinenti
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. È inoltre possibile filtrare i tag [programma](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. È inoltre possibile filtrare i tag [programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
    Fantastico. Ora la sovrapposizione visualizzerà solo le voci definite.
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)
-
