@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Elimina Voci Direttamente Nel Calendario Marketing - Documenti Marketo - Documentazione Prodotto
 title: Elimina Voci Direttamente Nel Calendario Di Marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Elimina voci direttamente nel calendario di marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Oltre a [creare ](create-entries-directly-in-the-marketing-calendar.md) e [modificare](edit-entries-directly-in-the-marketing-calendar.md) le voci, potete eliminarle direttamente nel calendario di marketing. Ecco come.
+Oltre a [creare ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) e [modificare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) le voci, potete eliminarle direttamente nel calendario di marketing. Ecco come.
 
 1. Vai al **Calendario**.
 
@@ -31,9 +31,4 @@ A seconda della voce, potrebbe essere necessario confermare l&#39;eliminazione. 
 
 >[!MORELIKETHIS]
 >
->* [Confermare Le Voci Direttamente Nel Calendario Di Marketing](confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Confermare Le Voci Direttamente Nel Calendario Di Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
