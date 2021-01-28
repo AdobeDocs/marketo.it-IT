@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Informazioni sulle schede di Analytics - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle schede Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ All&#39;inizio di ogni mese, Marketo Moments fornisce tre diverse schede di rapp
 
 ## Schede Analytics {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Quando tocchi una scheda Analytics puoi:
+Quando tocchi una scheda Analytics puoi:
 
-* [Fatelo un preferito](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Contrassegna come già fatto](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Condividi](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Fatelo un preferito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Contrassegna come già fatto](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Condividi](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Toccate una scheda Analytics per visualizzare:
 
@@ -37,7 +37,7 @@ In questo esempio, il rosso indica che il valore è diminuito nell’intervallo 
 
 ## Lead acquisiti {#acquired-leads}
 
-La scheda **Lead acquisiti **mostra un rapporto mensile di tendenza del numero di nuovi lead.
+La scheda **Lead acquisiti** mostra un rapporto mese-su-mese di tendenza del numero di nuovi lead.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Ora lo sai.
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sui momenti di marketing](understanding-marketo-moments.md)
->* [Informazioni sulle schede evento](understanding-event-cards.md)
->* [Informazioni sulle schede del programma e-mail](understanding-email-program-cards.md)
+>* [Informazioni sui momenti di marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Informazioni sulle schede evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Informazioni sulle schede del programma e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-Fatto divertente: La prima e-mail mai inviata è stata di Ray Tomlinson a se stesso nel 1971.
