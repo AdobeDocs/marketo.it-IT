@@ -3,9 +3,9 @@ unique-page-id: 1147129
 description: Creare un rapporto sulle prestazioni del programma - Documenti Marketo - Documentazione del prodotto
 title: Creare un rapporto sulle prestazioni del programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Con questo rapporto potete vedere grandi statistiche sui vostri programmi.
 
-1. [Create un rapporto in un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma e selezionate il tipo **** [Program ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performancereport.
+1. [Create un rapporto in un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma e selezionate il tipo **** [Program ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performancereport.
 1. Fare clic sulla scheda **Report**.
 1. Sei lì! Esplora il tuo rapporto per vedere come si comportano i tuoi programmi.
 
@@ -23,7 +23,7 @@ Con questo rapporto potete vedere grandi statistiche sui vostri programmi.
 
 >[!TIP]
 >
->Per individuare i programmi con il costo per successo più basso, ad esempio *ordinate il rapporto* in quella colonna e scegliete [Ordinamento crescente](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md).****
+>Per individuare i programmi con il costo per successo più basso, ad esempio [ordinate il rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in quella colonna e scegliete **Ordinamento crescente**.**
 
 Le colonne in un rapporto Prestazioni programma includono:
 
@@ -53,10 +53,3 @@ Le colonne in un rapporto Prestazioni programma includono:
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**Tubo profondo**
->
->Ulteriori informazioni in [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting).
-
