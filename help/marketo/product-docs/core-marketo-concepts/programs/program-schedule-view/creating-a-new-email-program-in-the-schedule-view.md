@@ -3,9 +3,9 @@ unique-page-id: 1147144
 description: Creazione di un nuovo programma e-mail nella vista Pianificazione - Documenti Marketo - Documentazione prodotto
 title: Creazione di un nuovo programma e-mail nella vista Pianificazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Immettete un nome. Selezionare **Email** **Program**.
+1. Immettete un nome. Selezionare **Programma e-mail**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configurate il ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programma e-mail e fate clic su  **Approva programma**.
+1. [Configurate il ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programma e-mail e fate clic su  **Approva programma**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Oltre al dashboard dettagliato, un vantaggio nell&#39;utilizzo di un [programma e-mail](http://docs.marketo.com/display/docs/email+programs) invece di una campagna intelligente è la possibilità di implementare facilmente un [test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Divertiti!
-
+   Oltre al dashboard dettagliato, un vantaggio nell&#39;utilizzo di un [programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) invece di una campagna intelligente è la possibilità di implementare facilmente un [test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Divertiti!
