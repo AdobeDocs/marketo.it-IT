@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Programmazione dei tipi di voce - Documenti Marketo - Documentazione prodotto
 title: Tipi di voci di visualizzazione programmati del programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tipi di voci di visualizzazione programmabile del programma {#program-schedule-view-entry-types}
 
-Sono disponibili otto tipi di voci integrate che saranno visibili e utilizzabili nella visualizzazione programmazione del programma. Potete anche [creare tipi di voci personalizzati](create-custom-entry-types.md) nella sezione Admin.
+Sono disponibili otto tipi di voci integrate che saranno visibili e utilizzabili nella visualizzazione programmazione del programma. Potete anche [creare tipi di voci personalizzati](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) nella sezione Admin.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ Sono disponibili otto tipi di voci integrate che saranno visibili e utilizzabili
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Creare un tipo di voce personalizzato](create-custom-entry-types.md)
-
->
-
-
-
