@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: Creare una presentazione - Documenti Marketo - Documentazione del prodotto
 title: Creare una presentazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Create una presentazione per proiettare le visualizzazioni e gli obiettivi del c
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Andate al calendario****.
+1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,9 +41,4 @@ Create una presentazione per proiettare le visualizzazioni e gli obiettivi del c
 
 >[!MORELIKETHIS]
 >
->* [Personalizzare una presentazione](customize-a-presentation.md)
-
->
-
-
-
+>[Personalizzare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
