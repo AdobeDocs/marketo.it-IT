@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Impostazione della condivisione del pubblico Adobe Experience Cloud - Documenti Marketo - Documentazione del prodotto
 title: Configurare la condivisione dell'audience di Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Per condividere i dati sul pubblico con le applicazioni del Adobe , è innanzitu
 
    ![](assets/three-2.png)
 
-1. Immettete l&#39;ID organizzazione IMS  Adobe (scoprite come trovare l&#39;ID organizzazione [here](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) e fate clic su **OK**.
+1. Immettete l&#39;ID organizzazione IMS  Adobe (scoprite come trovare l&#39;ID organizzazione [here](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) e fate clic su **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Per condividere i dati sul pubblico con le applicazioni del Adobe , è innanzitu
    >
    >Per motivi di sicurezza, devi essere un amministratore organizzazione per l&#39;organizzazione  Adobe a cui vuoi eseguire la mappatura. In caso contrario, l&#39;azione fallirà.
 
-1. Se avete già eseguito l&#39;accesso *not*, verrà visualizzato un pop-up in una nuova scheda o finestra. Effettuate l’accesso all’organizzazione  Adobe (questa azione convalida l’accesso all’organizzazione).
+1. Se avete già eseguito l&#39;accesso _not_, verrà visualizzato un pop-up in una nuova scheda o finestra. Effettuate l’accesso all’organizzazione  Adobe (questa azione convalida l’accesso all’organizzazione).
 
-   Ed è tutto! È ora possibile iniziare a [condividere i dati sul pubblico](http://docs.marketo.com/x/ogI6Ag).
-
+   Ed è tutto! È ora possibile iniziare a [condividere i dati sul pubblico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md).
