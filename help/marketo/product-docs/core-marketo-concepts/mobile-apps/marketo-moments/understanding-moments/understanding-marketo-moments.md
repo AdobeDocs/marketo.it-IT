@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Informazioni sui tempi di Marketo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui momenti di marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Il potere di Marketo ora è nelle vostre mani, letteralmente! Visualizzate l&#39
 >
 >**Disponibilità**
 >
->L&#39;autorizzazione per l&#39;accesso alle app mobili è obbligatoria. Contatta l&#39;amministratore di Marketing per [aggiornare il tuo ruolo](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
-## Presentazione di Momenti {#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>L&#39;autorizzazione per l&#39;accesso alle app mobili è obbligatoria. Contatta l&#39;amministratore di Marketing per [aggiornare il tuo ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Flussi {#streams}
 
@@ -35,13 +31,11 @@ Ecco i diversi flussi nei Momenti.
 >
 >**Definizione**
 >
->Momenti - Tutto quello che è appena corso, o che sta per correre, va qui.
->
->Preferiti - Qualsiasi cosa si faccia un preferito va qui dentro.
->
->Più tardi - Tutto ciò che accade dopo questo momento va qui dentro.
->
->Fatto - Tutto quello che ha finito di funzionare o che hai contrassegnato come fatto va qui.
+>* Momenti: Tutto quello che è appena corso, o che sta per correre, va qui.
+>* Preferiti: Qualunque cosa tu faccia un preferito va qui dentro.
+>* Più tardi: Tutto ciò che accade più tardi di questo momento va qui dentro.
+>* Fatto: Tutto quello che ha finito di correre o che hai segnato come fatto va qui.
+
 
 Ok, ora che abbiamo questo, diamo un&#39;occhiata a Marketo Moments al telefono!
 
@@ -53,7 +47,7 @@ Marketo Moments offre tre diverse schede per seguire l&#39;avanzamento dell&#39;
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**cuore battito** - Ehi - questa email è stata consegnata ora! Ed ecco anche delle statistiche. Vai avanti e condividila.
+**Heart beat** - Ehi - questa email è stata consegnata ora! Ed ecco anche delle statistiche. Vai avanti e condividila.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -93,19 +87,12 @@ Fantastico! Ora, potete realizzare qualcosa toccando:
 >* Invia esempio (solo e-mail): Utilizzate questa opzione per consentire agli altri di controllare l&#39;aspetto delle e-mail prima di inviarle.
 >* Anteprima e-mail (solo e-mail): È sempre una buona idea controllare le e-mail in anticipo.
 
->
-
-
 
 ## Momenti successivi {#later-moments}
 
 La sezione Successivo mostra le attività imminenti.
 
 1. Per iniziare, toccate il menu hamburger.
-
-   >[!NOTE]
-   >
-   >Secondo il [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger), il più grande hamburger al mondo pesava 2.014 libbre.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ Per ogni passaggio, puoi confermare o annullare un’azione. Se cambi idea, tocc
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-Pronti per saperne di più?
-
->[!MORELIKETHIS]
->
->* [Informazioni sulle schede del programma e-mail](understanding-email-program-cards.md)
->* [Informazioni sulle schede evento](understanding-event-cards.md)
->* [Informazioni sulle schede Analytics](understanding-analytics-cards.md)
->* [Informazioni sulle schede delle campagne intelligenti](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## Versioni supportate {#supported-versions}
 
 Marketo Moments supporta le seguenti versioni del sistema operativo:
 
 * Apple iOS 8.0 e versioni successive.
 * Android versione 4.1 e superiore (sostanzialmente Jellyava e superiore).
+
+Pronti per saperne di più?
+
+>[!MORELIKETHIS]
+>
+>* [Informazioni sulle schede del programma e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Informazioni sulle schede evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Informazioni sulle schede Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Informazioni sulle schede delle campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
