@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: Rilascio/revoca di una licenza del calendario di marketing - Documenti Marketo - Documentazione del prodotto
 title: Rilascio/revoca di una licenza di calendario marketing
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-Per utilizzare le postazioni [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar), è necessario rilasciare licenze agli utenti che necessitano dell&#39;accesso. Ecco come.
+Per utilizzare le postazioni [Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md), è necessario rilasciare licenze agli utenti che necessitano dell&#39;accesso. Ecco come.
 
 1. Andate alla sezione **Admin**.
 
@@ -43,7 +43,7 @@ Per utilizzare le postazioni [Marketing Calendar](http://docs.marketo.com/displa
 
    ![](assets/4.png)
 
-   Ben fatto! Vedere il segno di spunta verde in **Calendar**?
+   Ben fatto! Vedere il segno di spunta verde in &#39;Calendario?&#39;
 
    ![](assets/5.png)
 
