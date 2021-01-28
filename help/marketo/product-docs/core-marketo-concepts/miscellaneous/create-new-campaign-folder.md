@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: Crea nuova cartella campagna - Documenti Marketo - Documentazione prodotto
 title: Crea nuova cartella campagna
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Le cartelle delle campagne consentono di mantenere un’area di lavoro ordinata.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facoltativo: Immettete una **Descrizione** e fate clic su** Crea. **
+1. Facoltativo: Immettere una **Descrizione** e fare clic su **Crea**.
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ Le cartelle delle campagne consentono di mantenere un’area di lavoro ordinata.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ora, quando [si crea un nuovo programma](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verrà visualizzata la cartella della campagna come opzione.
+   Ora, quando [si crea un nuovo programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verrà visualizzata la cartella della campagna come opzione.
 
 >[!MORELIKETHIS]
 >
->* [Creare un programma](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Creare una nuova campagna intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [Creare un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Creare una nuova campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
