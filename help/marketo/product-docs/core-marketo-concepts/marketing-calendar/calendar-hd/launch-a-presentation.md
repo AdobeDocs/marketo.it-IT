@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: Presentazione - Documenti Marketo - Documentazione prodotto
 title: Avviare una presentazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ Dopo aver impostato le viste e la frequenza di rotazione per la presentazione, √
 
 >[!PREREQUISITES]
 >
->* [Creare una presentazione](create-a-presentation.md)
->* [Personalizzare una presentazione](customize-a-presentation.md)
-
->
-
+>* [Creare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Personalizzare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ Dopo aver impostato le viste e la frequenza di rotazione per la presentazione, √
 
    >[!TIP]
    >
-   >La presentazione verr√† avviata in una nuova scheda. Se necessario, spostare la scheda su un monitor esterno o un televisore per la visualizzazione e fare clic su **Schermo intero** (oppure premere **F11 **sulla tastiera se si utilizza Internet Explorer).
-
+   >La presentazione verr√† avviata in una nuova scheda. Se necessario, spostare la scheda su un monitor esterno o un televisore per la visualizzazione e fare clic su **Schermo intero** (oppure premere **F11** sulla tastiera, se si utilizza Internet Explorer).
