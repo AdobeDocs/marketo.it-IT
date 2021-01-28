@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: Concedere agli utenti l'accesso all'app di check-in - Marketo Docs - Documentazione del prodotto
 title: Concedere agli utenti l'accesso all'app di check-in
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Marketo ha un ruolo utente speciale per l&#39;app di check-in dell&#39;evento. E
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Fate clic su** Invita nuovo utente**.
+1. Fare clic su **Invita nuovo utente**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
