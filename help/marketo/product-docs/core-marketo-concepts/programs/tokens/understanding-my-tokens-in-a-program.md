@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: Comprendere i miei token in un programma - Marketo Docs - Documentazione del prodotto
 title: Informazioni sui token personali in un programma
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Esempi:
  <tbody> 
   <tr> 
    <td>File calendario <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilizzate questo token per <a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">aggiungere un file evento del calendario (.i</a><a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> alle e-mail e alle pagine di destinazione.</td> 
+   <td>Utilizzate questo token per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">aggiungere un file evento del calendario (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> alle e-mail e alle pagine di destinazione.</td> 
   </tr> 
   <tr> 
    <td><p>Data <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -58,7 +58,7 @@ Esempi:
   </tr> 
   <tr> 
    <td>Punteggio <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilizzate questo token nella <a href="../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">fase di modifica del flusso del punteggio</a>. </td> 
+   <td>Utilizzate questo token nella <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">fase di modifica del flusso del punteggio</a>. </td> 
   </tr> 
   <tr> 
    <td colspan="1">Campagna SFDC <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
@@ -73,7 +73,7 @@ Esempi:
 
 >[!CAUTION]
 >
->I miei token non verranno risolti quando si invia un&#39;e-mail da Sales Insight in Microsoft Dynamics o Salesforce; verranno compilati solo i token standard (Lead, Società, ecc.). I valori predefiniti per i token *funzioneranno comunque*.
+>I miei token non verranno risolti quando si invia un&#39;e-mail da Sales Insight in Microsoft Dynamics o Salesforce; verranno compilati solo i token standard (Lead, Società, ecc.). I valori predefiniti per i token _funzioneranno comunque_.
 
 ## Nidificazione dei token {#nesting-tokens}
 
