@@ -3,7 +3,7 @@ unique-page-id: 1147245
 description: Crea tipi di voci personalizzati - Documenti Marketo - Documentazione prodotto
 title: Crea tipi di voci personalizzati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Fantastico! Ora, quando create una nuova voce nella vista Pianificazione, questo
 >[!NOTE]
 >
 >Potete creare fino a 100 tipi di voci personalizzate.
-
