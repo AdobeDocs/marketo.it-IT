@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: Confermare Le Voci Direttamente Nel Calendario Di Marketing - Documenti Marketo - Documentazione Del Prodotto
 title: Confermare Le Voci Direttamente Nel Calendario Di Marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Le campagne intelligenti e i programmi email possono essere creati come voci pro
    La conferma esegue una serie di processi di convalida e, se tutti gli elementi vengono estratti, la voce viene confermata.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-
