@@ -3,9 +3,9 @@ unique-page-id: 1147294
 description: Filtrare il calendario di marketing - Documenti Marketo - Documentazione prodotto
 title: Filtrare il calendario di marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Utilizzate i tipi di voce, i tag di programma o le aree di lavoro per filtrare l
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Fare clic sul menu a discesa **Entry** **Type**.
+1. Fare clic sul menu a discesa **Entry Type**.
 
    >[!NOTE]
    >
@@ -33,7 +33,7 @@ Utilizzate i tipi di voce, i tag di programma o le aree di lavoro per filtrare l
 
    >[!TIP]
    >
-   >Per una descrizione dei tipi di voci standard, controllare [i tipi di voci di visualizzazione programmate del programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Per una descrizione dei tipi di voci standard, controllare [i tipi di voci di visualizzazione programmate del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Selezionare i tag del programma che interessano.
 
@@ -47,10 +47,4 @@ Utilizzate i tipi di voce, i tag di programma o le aree di lavoro per filtrare l
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Salvataggio di una definizione di filtro nel calendario di marketing](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Salvataggio di una definizione di filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
