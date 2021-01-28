@@ -3,7 +3,7 @@ unique-page-id: 7504437
 description: Aggiungere un'immagine di sfondo a una presentazione - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un'immagine di sfondo a una presentazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Personalizzate una presentazione selezionando un’immagine di sfondo.
 
 >[!PREREQUISITES]
 >
->* [Creare una presentazione](create-a-presentation.md)
-
->
-
-
+>[Creare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 1. Fate clic con il pulsante destro del mouse su una presentazione e selezionate **Visualizza impostazione**.
 
@@ -31,7 +27,7 @@ Personalizzate una presentazione selezionando un’immagine di sfondo.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Trascinare **Immagine di sfondo **dalla struttura di destra al quadro.
+1. Trascinare **Immagine di sfondo** dall&#39;albero a destra nell&#39;area di lavoro.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -48,4 +44,3 @@ Personalizzate una presentazione selezionando un’immagine di sfondo.
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
    Ed è tutto!
-
