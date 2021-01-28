@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Informazioni sulle notifiche - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulle notifiche
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Potete abbonarvi alle notifiche per riceverle nell’e-mail.
 
 1. Selezionate il tipo di notifica e immettete gli indirizzi e-mail a cui desiderate inviare le notifiche.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ Potete abbonarvi alle notifiche per riceverle nell’e-mail.
 >[!TIP]
 >
 >Desiderate annullare l’iscrizione alle e-mail di notifica? Nessun problema. È sufficiente fare clic sul collegamento **Annulla sottoscrizione a Notifiche** nella parte inferiore dell&#39;e-mail.
-
