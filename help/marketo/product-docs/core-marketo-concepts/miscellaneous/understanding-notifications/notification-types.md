@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Tipi di notifica - Documenti Marketo - Documentazione prodotto
 title: Tipi di notifica
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Se provate a inviare i lead a Facebook senza accettare i termini di servizio, o 
 
 Pulizia campagna attivatore inattivo
 
-Disattiva campagne intelligenti attivate che non ottengono più alcuna attività. Ulteriori informazioni su [pulizia automatica delle campagne di attivazione](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Disattiva campagne intelligenti attivate che non ottengono più alcuna attività. Ulteriori informazioni su [pulizia automatica delle campagne di attivazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Riceverai una notifica quando raggiungi la quota giornaliera. La quota viene rip
 
 >[!NOTE]
 >
->Alcuni dei codici di errore che potresti ricevere sono descritti nella nostra [Documentazione sviluppatore](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
-
+>Alcuni dei codici di errore che potresti ricevere sono descritti nella nostra [Documentazione sviluppatore](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
