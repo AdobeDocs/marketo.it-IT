@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: Creazione di voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione prodotto
 title: Creazione di voci direttamente nel calendario di marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -26,7 +26,8 @@ Ecco come.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   Selezionate una voce precedente e fate clic su Mostra stato attivo programma.
+1. Selezionare una voce precedente e fare clic su **Mostra stato attivo programma**.
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. Una volta attiva la modalità di messa a fuoco del programma, selezionare il giorno desiderato per aggiungere una voce.
@@ -47,9 +48,4 @@ Ecco come.
 
 >[!MORELIKETHIS]
 >
->* [Modificare Le Voci Direttamente Nel Calendario Di Marketing](edit-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Modificare Le Voci Direttamente Nel Calendario Di Marketing](edit-entries-directly-in-the-marketing-calendar.md)
