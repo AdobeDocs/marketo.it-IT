@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: Nascondere e nascondere i tipi di voci personalizzate - Marketo Docs - Documentazione prodotto
 title: Nascondere e nascondere i tipi di voci personalizzati
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ I tipi di voci personalizzati possono essere nascosti nella sezione Admin. Una v
 
 ## Nascondi un tipo di voce personalizzato {#hide-a-custom-entry-type}
 
-1. Andate alla sezione **Admin** e fate clic su **Calendar** **Entry** **Types**.
+1. Andate alla sezione **Admin** e fate clic su **Calendar Entry** **Types**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ Se vuoi scoprire un tipo di voce personalizzato, è anche facile.
    Ta-da! Il tipo di voce personalizzato ora non è nascosto.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
