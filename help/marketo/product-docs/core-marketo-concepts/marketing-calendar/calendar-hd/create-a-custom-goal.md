@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: Creare un obiettivo personalizzato - Documenti Marketo - Documentazione del prodotto
 title: Creare un obiettivo personalizzato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Gli obiettivi sono modi per monitorare il progresso e motivare il team. Una volta creati, devono essere aggiornati manualmente.
 
-Come per le presentazioni, gli obiettivi sono specifici di [workspace](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Come per le presentazioni, gli obiettivi sono specifici di [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Vai al **Calendario**.
 
@@ -25,7 +25,7 @@ Come per le presentazioni, gli obiettivi sono specifici di [workspace](../../../
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selezionate la scheda** Goals* (Obiettivi**).
+1. Selezionare la scheda **Obiettivi**.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ Come per le presentazioni, gli obiettivi sono specifici di [workspace](../../../
    Il tuo obiettivo personalizzato è stato creato!
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
