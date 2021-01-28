@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: Invio di un esempio - Documenti Marketo - Documentazione prodotto
 title: Invio di un esempio
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ Potete condividere un esempio di momento e-mail direttamente con un utente. Ci s
 
 ## La via veloce {#the-quick-way}
 
-1. Toccate l’icona del piano aereo carta nella schermata Anteprima e-mail per inviare un campione direttamente dall’anteprima.\
+1. Toccate l’icona del piano aereo carta nella schermata Anteprima e-mail per inviare un campione direttamente dall’anteprima.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 Missione Completata!
