@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Utilizzo di una sovrapposizione globale - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di una sovrapposizione globale
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La sovrapposizione globale nella vista Pianificazione programma consente di visu
 
 >[!PREREQUISITES]
 >
->Per utilizzare questa funzione è necessario disporre di una [licenza Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md).
+>Per utilizzare questa funzione è necessario disporre di una [licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md).
 
 ## Utilizzate la sovrapposizione globale {#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ La sovrapposizione globale nella vista Pianificazione programma consente di visu
 
 ## Usare un filtro salvato come sovrapposizione {#use-a-saved-filter-as-an-overlay}
 
-Se avete [salvato un filtro in Marketing Calendar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), potete usarlo come sovrapposizione nella vista Pianificazione programma.
+Se avete [salvato un filtro in Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), potete usarlo come sovrapposizione nella vista Pianificazione programma.
 
 1. Fate clic sul menu a discesa **Overlay** e selezionate la definizione del filtro.
 
@@ -49,12 +49,6 @@ Se avete [salvato un filtro in Marketing Calendar](../../../../product-docs/core
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
