@@ -3,7 +3,7 @@ unique-page-id: 8783555
 description: Creazione di un preferito - Documenti Marketo - Documentazione del prodotto
 title: Creazione di un preferito
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -19,9 +19,8 @@ Preferite una scheda per un facile riferimento futuro.
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
-1. Toccate Preferiti.
+1. Toccate **Preferiti**.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 
    È tutto quello che c&#39;è da fare!
-
