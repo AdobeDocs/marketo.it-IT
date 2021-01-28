@@ -3,7 +3,7 @@ unique-page-id: 7514985
 description: Programmazione di una campagna in batch nella visualizzazione Pianificazione programma - Documenti Marketo - Documentazione prodotto
 title: Programmazione di una campagna in batch nella vista Pianificazione programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -19,7 +19,9 @@ Desiderate riprogrammare l&#39;esecuzione di una campagna intelligente in batch?
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. Trascinare nella nuova data in cui si desidera eseguire la campagna. ![](assets/image2015-5-19-12-3a12-3a1.png)
+1. Trascinare nella nuova data in cui si desidera eseguire la campagna.
+
+![](assets/image2015-5-19-12-3a12-3a1.png)
 
 1. Fantastico! La campagna intelligente è stata ripianificata. L&#39;ora può anche essere modificata dal menu a discesa **Date** nei dettagli della voce.
 
@@ -27,5 +29,4 @@ Desiderate riprogrammare l&#39;esecuzione di una campagna intelligente in batch?
 
 >[!MORELIKETHIS]
 >
->[Riprogrammazione di un intero programma dalla vista Pianificazione](rescheduling-an-entire-program-from-the-schedule-view.md)
-
+>[Riprogrammazione di un intero programma dalla vista Pianificazione](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
