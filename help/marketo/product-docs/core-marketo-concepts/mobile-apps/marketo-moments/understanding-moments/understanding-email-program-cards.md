@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Informazioni sulle schede del programma e-mail - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle schede del programma e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Utilizza i Momenti Marketo per visualizzare i programmi e-mail dal telefono o da
 
 ## Schede programma e-mail {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` Toccando una scheda del programma e-mail puoi:
+Toccando una scheda del programma e-mail puoi:
 
-* [Creare un&#39;e-mail preferita](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Contrassegnare un messaggio e-mail come completato](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Condivisione di una scheda momento e-mail](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Creare un&#39;e-mail preferita](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Contrassegnare un messaggio e-mail come completato](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Condivisione di una scheda momento e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Sulla scheda di un programma e-mail per un&#39;e-mail non ancora inviata, troverete informazioni sullo stato e l&#39;audience del programma.
 
@@ -41,7 +41,7 @@ Dopo l&#39;invio dell&#39;e-mail, la scheda visualizza altre informazioni import
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Toccate **Confirm **per completare il processo, oppure **Non importa** se avete avuto dei ripensamenti.
+1. Toccate **Conferma** per completare il processo, oppure **Non imitare** se avete avuto dei ripensamenti.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Fate clic con il pulsante destro del mouse su una scheda e-mail per visualizzarl
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   In questo modo, sai che la tua email è perfetta prima di premere il grilletto!\
+   In questo modo, sai che la tua email è perfetta prima di premere il grilletto!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    Eccellente!
@@ -114,12 +115,7 @@ Questo è lo scopo della visualizzazione delle campagne e-mail. Ora, sei un prof
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sui momenti di marketing](understanding-marketo-moments.md)
->* [Informazioni sulle schede evento](understanding-event-cards.md)
->* [Informazioni sulle schede Analytics](understanding-analytics-cards.md)
->* [Programmi e-mail](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [Informazioni sui momenti di marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Informazioni sulle schede evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Informazioni sulle schede Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
