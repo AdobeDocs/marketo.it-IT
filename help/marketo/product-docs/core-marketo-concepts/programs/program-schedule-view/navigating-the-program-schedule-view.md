@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navigazione nella visualizzazione Pianificazione del programma - Documenti Marketo - Documentazione del prodotto
 title: Navigazione nella vista Pianificazione del programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Di seguito sono riportate le nozioni di base per navigare nella vista della pian
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Ora potrai vedere la visualizzazione del programma.
+   Ora potrai vedere la visualizzazione del programma.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ Di seguito sono riportate le nozioni di base per navigare nella vista della pian
 >
 >La visualizzazione della pianificazione del programma è fissa. Una volta impostata, tutti i programmi verranno impostati automaticamente sulla vista Pianificazione.
 
-1. Passaggio Tra Voci
+## Passaggio tra voci {#switching-between-entries}
+
 1. Nei dettagli della voce fare clic sulle frecce per passare alla voce pianificata successiva.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ Di seguito sono riportate le nozioni di base per navigare nella vista della pian
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. Visualizza menu di scelta rapida
+## Visualizza menu di scelta rapida {#view-context-menu}
+
 1. Fare clic con il pulsante destro del mouse su un programma per apportare modifiche al programma, all&#39;elenco avanzato, all&#39;impostazione, ai token personali o ai membri.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ Fantastico! Ora che sai come visualizzare il tuo programma, impariamo le altre c
 
 >[!MORELIKETHIS]
 >
->* [Creazione di una voce nella vista Pianificazione programma](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[Creazione di una voce nella vista Pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
