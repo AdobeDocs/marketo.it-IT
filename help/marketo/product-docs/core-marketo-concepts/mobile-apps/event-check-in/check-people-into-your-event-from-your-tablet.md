@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: Controllare le persone all'evento dal Tablet - Marketo Docs - Documentazione prodotto
 title: Controllare le persone all'evento dal Tablet
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ L&#39;app funziona allo stesso modo sia su iPad che su Android, fatta eccezione 
 >* Create un evento in Marketo e popolatelo con persone invitate e registrate.
 >* Scaricate l&#39;app per tablet per [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
->
-
-
 
 ## Archivia ospiti registrati {#check-in-registered-guests}
 
 1. Toccate l&#39;icona dell&#39;app sull&#39;iPad o sul tablet Android.
+
 1. Toccate **Login** per avviare l&#39;app Marketo Event.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ L&#39;app funziona allo stesso modo sia su iPad che su Android, fatta eccezione 
    >
    >Il processo è lo stesso su iPad e Android, ma le schermate differiscono e gli elementi possono trovarsi in posizioni diverse. Questo articolo dispone dell’interfaccia iPad. Confrontate la schermata Android in questa sezione per riferimento.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ La nuova persona viene registrata come selezionata nell’evento e verrà aggiun
 
 ## Inverti un check-in {#reverse-a-check-in}
 
-Se avete eseguito il check-in di una persona per errore, *prima di eseguire la sincronizzazione con Marketo*, potete annullare lo stato Partecipante.
+Se avete eseguito il check-in di una persona per errore, _prima di eseguire la sincronizzazione con Marketo_, potete annullare lo stato Partecipante.
 
 1. Toccate il nome nell&#39;elenco e, nel record della persona, toccate **Annulla**.
 
@@ -146,6 +146,7 @@ L&#39;app Marketo Events funziona in modo indipendente finché l&#39;attività n
 >Dopo la sincronizzazione, non potete annullare un check-in dall&#39;app.
 
 1. Sul tablet, aprite l&#39;app e navigate all&#39;evento.
+
 1. Toccate **Sincronizza**.
 
    L&#39;evento viene aggiornato con nuovi check-in nel database Marketo. Il contatore rosso sul pulsante Sinc. viene cancellato fino a quando non viene eseguito il check-in di qualcun altro.
@@ -170,4 +171,3 @@ Se siete preoccupati per l&#39;accesso a Internet all&#39;evento, potete acceder
 >[!NOTE]
 >
 >L&#39;app ti disconnette automaticamente dopo otto ore di inattività.
-
