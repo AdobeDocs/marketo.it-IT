@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: Eseguire nuovamente una campagna intelligente nella visualizzazione Pianificazione programma - Documenti Marketo - Documentazione prodotto
 title: Eseguire nuovamente una campagna intelligente nella visualizzazione Pianificazione programma
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >È possibile eseguire questa operazione anche dal programma [focus](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >È possibile eseguire questa operazione anche dal programma [focus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Proprio così, hai pianificato un&#39;altra corsa per quella campagna intelligente. Se la campagna intelligente conteneva dei passaggi per l&#39;invio di e-mail, potrai vedere anche quelli!
