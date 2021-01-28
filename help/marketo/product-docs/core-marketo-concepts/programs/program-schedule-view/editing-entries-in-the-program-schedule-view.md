@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: Modifica delle voci nella visualizzazione Pianificazione del programma - Documenti Marketo - Documentazione del prodotto
 title: Modifica delle voci nella vista Pianificazione programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Brutto! Ora la data di inserimento è stata spostata in una nuova data.
 >[!NOTE]
 >
 > Non è possibile spostare in passato le voci di programmi e-mail e campagne intelligenti già eseguite.
-
