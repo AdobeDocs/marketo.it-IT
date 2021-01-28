@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: Configurare l'iPad o Android Tablet - Marketo Docs - Documentazione prodotto
 title: Impostazione di iPad o Android Tablet
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Se il tuo iPad non dispone già dell&#39;app Marketo Events installata, ecco com
 
 Se il tablet Android non ha ancora installato l&#39;app Marketo Events, ecco come ottenerlo.
 
-1. Apri il tablet e tocca l&#39;app** Google Play Store**.
+1. Apri il tablet e tocca l&#39;app **Google Play Store**.
 1. Nella casella Ricerca, immettere **Marketo** e toccare **Return**.
 1. Nei risultati della ricerca, toccate l&#39;app **Marketo Events**.
 
@@ -69,7 +69,7 @@ Prima di assegnare gli iPad o i tablet al personale dei saloni, verificate che l
 Sincronizza per essere sicuro che le persone aggiunte siano presenti.
 
 1. Aprite l&#39;evento nell&#39;app iPad o Android.
-1. Cercate le persone. Se non li visualizzate, toccate **Sync **per sincronizzare l&#39;app e ricaricare l&#39;elenco Persone eventi.
+1. Cercate le persone. Se non li visualizzate, toccate **Sincronizza** per sincronizzare l&#39;app e ricaricare l&#39;elenco Persone eventi.
 
    **iPad**
 
@@ -83,7 +83,7 @@ Sincronizza per essere sicuro che le persone aggiunte siano presenti.
 
 Accertatevi di confermare che i check-in funzionano dall’iPad o dal tablet prima dell’evento.
 
-1. Nell&#39;app, [verifica un lead di test in](check-people-into-your-event-from-your-tablet.md).
+1. Nell&#39;app, [verifica un lead di test in](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Toccate l&#39;icona **Sinc.** per sincronizzare l&#39;app.
 1. In Marketo, aprite l&#39;evento e fate clic su **Membri**.
 
@@ -96,4 +96,3 @@ Accertatevi di confermare che i check-in funzionano dall’iPad o dal tablet pri
    >[!TIP]
    >
    >Utilizzatevi come persona di prova.
-
