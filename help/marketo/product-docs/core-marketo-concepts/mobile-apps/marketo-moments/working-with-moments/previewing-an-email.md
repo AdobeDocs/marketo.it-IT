@@ -3,9 +3,9 @@ unique-page-id: 8783563
 description: Anteprima di un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Anteprima di un messaggio e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Anteprima di un&#39;e-mail {#previewing-an-email}
 
-Fare clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l&#39;anteprima, prima di premere il trigger.
+Fare clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l&#39;anteprima, prima di attivare l&#39;attivatore.
 
 1. Su una scheda e-mail, toccate il menu delle tre azioni punto.
 
@@ -23,7 +23,8 @@ Fare clic con il pulsante destro del mouse su una scheda e-mail per visualizzarn
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-1. Potete visualizzare l’e-mail sul dispositivo.\
+1. Potete visualizzare l’e-mail sul dispositivo.
+
    ![](assets/image2015-9-25-11-3a23-3a42.png)
 
    >[!NOTE]
@@ -31,4 +32,3 @@ Fare clic con il pulsante destro del mouse su una scheda e-mail per visualizzarn
    >Per inviare un esempio direttamente dalla pagina Anteprima e-mail, toccate l’icona del piano aereo carta in alto a destra.
 
    Eccellente!
-
