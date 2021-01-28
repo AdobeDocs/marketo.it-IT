@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: Rinominare una risorsa Marketo - Marketo Docs - Documentazione prodotto
 title: Rinominare una risorsa marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,4 +26,3 @@ Le cartelle, i programmi e le risorse locali possono essere facilmente rinominat
    >[!NOTE]
    >
    >Non potete rinominare i file e le immagini che sono stati caricati, o una risorsa a cui si fa riferimento in un elenco avanzato o in una campagna avanzata (in filtri, attivatori, passaggi di flusso, ecc.).
-
