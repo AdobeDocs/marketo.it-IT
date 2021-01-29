@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Convalida di Microsoft Dynamics Sync - Documenti Marketo - Documentazione prodotto
 title: Convalida della sincronizzazione di Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Se per la sincronizzazione di Dynamics è abilitata l&#39;autenticazione a più fattori (MFA), devi disabilitarla affinché Dynamics si sincronizzi correttamente con Marketo. Per ulteriori informazioni, contattare [Supporto marketing](http://nation.marketo.com/community/support_solutions).
+>Se per la sincronizzazione di Dynamics è abilitata l&#39;autenticazione a più fattori (MFA), devi disabilitarla affinché Dynamics si sincronizzi correttamente con Marketo. Per ulteriori informazioni, contattare [Supporto marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Eseguire Convalida sincronizzazione in Marketo {#run-validate-sync-in-marketo}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Se viene visualizzato un ![—](assets/delete.png), il passaggio presenta un problema. Per identificare e risolvere il problema, vedere [Correggi problemi di sincronizzazione convalida delle dinamiche](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md). Quindi, eseguite nuovamente i passaggi di convalida della sincronizzazione fino a ottenere un risultato simile a quello dell&#39;immagine precedente.
+1. Se viene visualizzato un ![—](assets/delete.png), il passaggio presenta un problema. Per identificare e risolvere il problema, vedere [Correggi problemi di sincronizzazione convalida delle dinamiche](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md). Quindi, eseguite nuovamente i passaggi di convalida della sincronizzazione fino a ottenere un risultato simile a quello dell&#39;immagine precedente.
 
    >[!CAUTION]
    >
@@ -53,5 +53,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Correggi problemi di sincronizzazione convalida delle dinamiche](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[Correggi problemi di sincronizzazione convalida delle dinamiche](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
