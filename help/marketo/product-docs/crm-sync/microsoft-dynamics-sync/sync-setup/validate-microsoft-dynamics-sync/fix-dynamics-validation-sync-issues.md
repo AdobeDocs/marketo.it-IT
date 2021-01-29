@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Correggi problemi di sincronizzazione convalida delle dinamiche - Documenti Marketo - Documentazione del prodotto
 title: Correggi problemi di sincronizzazione convalida delle dinamiche
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -79,7 +79,7 @@ Se disponete di un ![—](assets/delete.png) qui, andate a Microsoft Dynamics pe
 
    ![](assets/one.png)
 
-1. Fare clic su **Settings **e selezionare **Soluzioni.**
+1. Fare clic su **Impostazioni** e selezionare **Soluzioni.**
 
    ![](assets/eleven.png)
 
@@ -99,7 +99,7 @@ Se si dispone di un ![—](assets/delete.png) qui, assicurarsi che l&#39;utente 
 
    ![](assets/one.png)
 
-1. Fare clic su **Settings **e selezionare **Configurazione Marketo**.
+1. Fare clic su **Settings** e selezionare **Marketing Config**.
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ Se si dispone di un ![—](assets/delete.png) qui, assicurarsi di assegnare l&#3
 
 >[!MORELIKETHIS]
 >
->[Convalida della sincronizzazione di Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[Convalida della sincronizzazione di Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
