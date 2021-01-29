@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Rilasci plug-in per Microsoft Dynamics MSI - Documenti Marketo - Documentazione prodotto
 title: Rilasci plug-in per Microsoft Dynamics MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 La prima volta che effettuate la sincronizzazione con Microsoft Dynamics, scaricate e installate la versione più recente dei plug-in per Marketing Sales Insight (MSI). Marketo aggiorna periodicamente questi plug-in, in modo da poter tornare nella stessa posizione in cui scaricare la nuova versione.
 
-[scarica il plug-in più recente](http://docs.marketo.com/x/LoJo) corrispondente alla versione di Dynamics.
+[scarica il plug-in più recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) corrispondente alla versione di Dynamics.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ La prima volta che effettuate la sincronizzazione con Microsoft Dynamics, scaric
 
 ## Aggiornamento della soluzione MSI {#updating-your-msi-solution}
 
-1. Importa la versione più recente della soluzione sulla versione esistente di Dynamics CRM (ad esempio: se Dynamics CRM dispone della versione 1.4 e la versione più recente è 1.5, importerai *oltre* versione 1.4).
+1. Importa la versione più recente della soluzione sulla versione esistente di Dynamics CRM (ad esempio: se Dynamics CRM dispone della versione 1.4 e la versione più recente è 1.5, importerai _oltre_ versione 1.4).
 1. Verrà visualizzato il seguente pop-up. Selezionare le opzioni **Aggiorna** e **Sovrascrivi personalizzazione**, quindi fare clic su **Importa**.
 
    ![](assets/one.png)
@@ -64,9 +64,8 @@ La prima volta che effettuate la sincronizzazione con Microsoft Dynamics, scaric
   </tr> 
   <tr> 
    <td colspan="1">28/04/20</td> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1"><p>Correzione dei bug: Rimozione della dipendenza del collegamento di impostazione del sitemap MSD CRM</p></td> 
   </tr> 
  </tbody> 
 </table>
-
