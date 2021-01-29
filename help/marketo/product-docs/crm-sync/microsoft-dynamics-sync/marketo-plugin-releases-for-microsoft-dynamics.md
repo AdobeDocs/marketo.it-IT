@@ -3,7 +3,7 @@ unique-page-id: 10099389
 description: Rilasci plug-in Marketo per Microsoft Dynamics - Documenti Marketo - Documentazione prodotto
 title: Rilasci plug-in Marketo per Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 La prima volta che effettuate la sincronizzazione con Microsoft Dynamics, scaricate la versione più recente dei plug-in per Marketo. Marketo aggiorna periodicamente questi plug-in, in modo da poter tornare nella stessa posizione in cui scaricare la nuova versione.
 
-[Scarica il ](sync-setup/download-the-marketo-lead-management-solution.md) plug-in più recente che non risponde alla release di Dynamics.
+[Scarica il ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) plug-in più recente che non risponde alla release di Dynamics.
 
 ![](assets/lead-management-solution.png)
 
@@ -73,7 +73,7 @@ Nella tabella seguente sono visualizzate le versioni più recenti.
    <td colspan="1">Correzione dei bug: Quando il lead aveva un filtro di sincronizzazione impostato su NO e l’opportunità e il contatto non disponevano di un filtro di sincronizzazione, il comando Crea registro non veniva generato per il contatto e l’opportunità quando il lead era qualificato.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1">29/03/16</td> 
    <td>Correzione dei bug: Un evento Assign è stato registrato quando il filtro di sincronizzazione è stato disattivato.</td> 
   </tr> 
@@ -102,5 +102,4 @@ Nella tabella seguente sono visualizzate le versioni più recenti.
 
 >[!MORELIKETHIS]
 >
->* [Scaricate la soluzione di gestione dei lead Marketo](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[Scaricate la soluzione di gestione dei lead Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
