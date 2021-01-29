@@ -3,7 +3,7 @@ unique-page-id: 6848922
 description: Scarica la soluzione di gestione dei lead Marketo - Marketo Docs - Documentazione prodotto
 title: Scaricate la soluzione di gestione dei lead Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente *prima di* eseguire qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente _prima di_ eseguire qualsiasi aggiornamento.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
 1. Andate all&#39;area **Admin**.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. Fare clic su **CRM**.
 
@@ -45,7 +45,6 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
 1. Selezionare la soluzione appropriata per la versione di Microsoft Dynamics.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    Fantastico! Un file zip della soluzione verrà ora scaricato sul dispositivo.
-
