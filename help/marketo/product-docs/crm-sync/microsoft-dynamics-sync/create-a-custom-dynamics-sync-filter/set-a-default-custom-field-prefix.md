@@ -3,7 +3,7 @@ unique-page-id: 10094647
 description: Impostazione di un predefinito per campi personalizzato predefinito - Documenti Marketo - Documentazione prodotto
 title: Impostazione di un predefinito per campi personalizzati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -17,9 +17,7 @@ Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve es
 
 1. Vai a Impostazioni e seleziona **Personalizzazioni.**
 
-   ** ![](assets/image2015-10-9-11-3a18-3a8.png)
-
-   **
+   ![](assets/image2015-10-9-11-3a18-3a8.png)
 
 1. Fare clic su **Editori**.
 
@@ -42,4 +40,3 @@ Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve es
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
 1. A questo punto, create i campi personalizzati. Dopo averli completati, ripristinate il prefisso originale.
-
