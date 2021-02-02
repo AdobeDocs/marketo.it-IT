@@ -3,17 +3,15 @@ unique-page-id: 7504736
 description: Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 1 di 3 - Marketo Docs - Documentazione prodotto
 title: Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 1 di 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 
-# Passaggio 1 di 3
-
-<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3-->
+# Passaggio 1 di 3: Configurare l&#39;utente di sincronizzazione per Marketo (On-Prem 2015 e On-Prem 2016 365) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
 Prima di poter sincronizzare Microsoft Dynamics 2015 On-Premises o 2016 (Dynamics 365) con Marketo, è necessario installare prima la soluzione Marketo in Dynamics.
 
@@ -23,9 +21,9 @@ Prima di poter sincronizzare Microsoft Dynamics 2015 On-Premises o 2016 (Dynamic
 
 >[!PREREQUISITES]
 >
->Se si utilizza Microsoft Dynamics On-Premise, è necessario che [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) sia configurato con [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS). Nota: Il documento IFD viene scaricato automaticamente quando si fa clic sul collegamento.
+>Se si utilizza Microsoft Dynamics On-Premise, è necessario che [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) sia configurato con [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS). Nota: Il documento IFD viene scaricato automaticamente quando si fa clic sul collegamento.
 >
->[Scarica la ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) soluzione di gestione dei lead Marketo prima di iniziare.
+>[Scarica la ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) soluzione di gestione dei lead Marketo prima di iniziare.
 
 >[!NOTE]
 >
@@ -45,7 +43,7 @@ Prima di poter sincronizzare Microsoft Dynamics 2015 On-Premises o 2016 (Dynamic
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Fare clic su **Sfoglia** e selezionare la soluzione [scaricata](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fare clic su **Next**.
+1. Fare clic su **Sfoglia** e selezionare la soluzione [scaricata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fare clic su **Next**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -95,9 +93,6 @@ Prima di poter sincronizzare Microsoft Dynamics 2015 On-Premises o 2016 (Dynamic
    >
    >La disattivazione di uno qualsiasi dei processi di messaggistica SDK di Marketo comporterà l&#39;interruzione dell&#39;installazione.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >
-   >[Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3](step-2-of-3-set-up.md)
+   >[Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
