@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Passaggio 1 di 3 - Aggiungi i campi Marketo a Salesforce (Enterprise/Unlimited) - Marketo Docs - Documentazione prodotto
 title: Passaggio 1 di 3 - Aggiungi campi Marketo a Salesforce (Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Aggiungi tre campi personalizzati al lead e agli oggetti di contatto in Salesfor
 
 Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per aggiungerli. Inizia con punteggio.
 
-1. Accedi a Salesforce e fai clic su Configurazione.
+1. Accedete a Salesforce e fate clic su **Setup**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Nel menu Genera a sinistra, fate clic su Personalizza e selezionate Lead. Fare clic su Campi.
+1. Nel menu Genera a sinistra, fate clic su **Personalizza** e selezionate **Lead**. Fare clic su **Campi**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Fate clic su Nuovo nella sezione Campi e relazioni personalizzati nella parte inferiore della pagina.
+1. Fare clic su **Nuovo** nella sezione Campi e relazioni personalizzati nella parte inferiore della pagina.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,7 +47,7 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Fate clic su Avanti.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,18 +106,18 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 >
 >I campi di testo e numerici richiedono una lunghezza, ma non i campi data/ora. Una descrizione è facoltativa.
 
-1. Fate clic su Avanti.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Specificate le impostazioni di accesso e fate clic su Avanti:
+1. Specificate le impostazioni di accesso e fate clic su **Next**:
 
-   * Impostate tutti i ruoli su **Visible **and **Read Only**
+   * Impostate tutti i ruoli su **Visible** e **Read Only**
 
    * Deselezionare la casella di controllo **Solo lettura** per il profilo dell&#39;utente di sincronizzazione:
 
-      * Se si dispone di un utente con il profilo di *Amministratore di sistema* come utente di sincronizzazione, deselezionare la casella di controllo **Solo lettura** per il profilo Amministratore di sistema (come mostrato di seguito)
-      * Se avete creato un profilo *personalizzato* per l&#39;utente della sincronizzazione, deselezionate la casella di controllo **Solo lettura** per tale profilo personalizzato
+      * Se si dispone di un utente con il profilo di _Amministratore di sistema_ come utente di sincronizzazione, deselezionare la casella di controllo **Solo lettura** per il profilo Amministratore di sistema (come mostrato di seguito)
+      * Se avete creato un profilo _personalizzato_ per l&#39;utente della sincronizzazione, deselezionate la casella di controllo **Solo lettura** per tale profilo personalizzato
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Effettuare le seguenti operazioni per ciascuno dei tre campi personalizzati per 
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Fate clic su Salva e nuovo per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fate clic su Salva con il comando Salva.
+1. Fare clic su **Salva e nuovo** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fare clic su **Salva** per terminare con tutte e tre le operazioni.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Nel menu Genera a sinistra, fate clic su Personalizza e selezionate Contatti. Fare clic su Campi.
+1. Nel menu Genera a sinistra, fate clic su **Personalizza** e selezionate Contatti. Fare clic su Campi.
 1. Effettuate i passaggi da 3 a 10 per i campi Valutazione, Data acquisizione e Programma di acquisizione sull’oggetto di contatto, come per l’oggetto lead.
 1. Facoltativamente, utilizzare la procedura descritta sopra per tutti i campi personalizzati aggiuntivi di questa tabella.
 
@@ -261,23 +261,15 @@ Un campo personalizzato sull&#39;oggetto lead in Salesforce deve essere mappato 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Ripetete i passaggi indicati sopra per tutti gli altri campi creati.
+
 1. Fare clic su **Save** al termine.
 
    Abbastanza facile, giusto?
 
 >[!NOTE]
 >
->**Tubo profondo**
->
 >Ecco un collegamento a un [video dell&#39;intera procedura](https://nation.marketo.com/videos/1475) che dovrebbe renderlo più chiaro!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Passaggio 2 di 3: Crea un utente Salesforce per Marketo (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
->
-
-
-
+>[Passaggio 2 di 3: Crea un utente Salesforce per Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
