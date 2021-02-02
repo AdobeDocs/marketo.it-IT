@@ -3,7 +3,7 @@ unique-page-id: 10095389
 description: Creare un contatto in Microsoft Dynamics - Documenti Marketo - Documentazione prodotto
 title: Creare un contatto in Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Fare clic su **Azioni persona** e **Microsoft,** e selezionare **Sincronizza persona con Microsoft**.
+1. Fare clic su **Azioni persona** e **Microsoft**, quindi selezionare **Sincronizza persona con Microsoft**.
 
    ![](assets/two.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 1. Ora, potete selezionare **Contact** quando utilizzate il vincolo Sinc. come in un filtro di campagna intelligente.
 
    ![](assets/five.png)
-
