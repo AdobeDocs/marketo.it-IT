@@ -3,7 +3,7 @@ unique-page-id: 13795802
 description: Disattiva notifiche e-mail al proprietario principale - Documenti Marketo - Documentazione prodotto
 title: Disattiva notifiche e-mail al proprietario del lead
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Potete disattivare le notifiche e-mail automatiche inviate ai proprietari princi
 1. Deselezionate la casella **Invia notifica e-mail al proprietario in Salesforce all&#39;assegnazione lead**. Fare clic su **Salva**.
 
    ![](assets/new-screen.png)
-
