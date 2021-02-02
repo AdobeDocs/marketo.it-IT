@@ -3,7 +3,7 @@ unique-page-id: 10092969
 description: Filtro di sincronizzazione di Microsoft Dynamics - Unisci - Documenti Marketo - Documentazione prodotto
 title: Filtro di sincronizzazione di Microsoft Dynamics - Unisci
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -25,4 +25,3 @@ I record lead diventano veri o falsi in base alle regole del flusso di lavoro de
 | False | False | Il record vincente continua a **non** sincronizzarsi con Marketo |
 | False | True | Il record vincente si sincronizzerà con Marketo |
 | True | False | Il record vincente non verrà sincronizzato con Marketo |
-
