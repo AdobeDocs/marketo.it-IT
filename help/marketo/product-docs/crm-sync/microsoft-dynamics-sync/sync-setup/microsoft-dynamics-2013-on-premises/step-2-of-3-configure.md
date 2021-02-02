@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: Passaggio 2 di 3 - Configura sincronizzazione utente per Marketo (2013 On-Premises) - Marketo Docs - Documentazione prodotto
 title: Passaggio 2 di 3 - Configura sincronizzazione utente per Marketo (2013 On-Premises)
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,7 @@ Ottimo lavoro per completare i passaggi precedenti, continuiamo a farlo.
 
 >[!PREREQUISITES]
 >
->* [Passaggio 1 di 3: Installare la soluzione Marketo in Dynamics (On-Premises 2013)](step-1-of-3-install.md)
-
+>[Passaggio 1 di 3: Installare la soluzione Marketo in Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
 
 ## Assegna ruolo utente sincronizzazione {#assign-sync-user-role}
 
@@ -26,7 +25,7 @@ Assegnate il ruolo di sincronizzazione utente Marketo solo all’utente di sincr
 
 >[!NOTE]
 >
->Questo vale per il plug-in Marketo versione 4.0.0.14 e successive. Per le versioni precedenti, tutti gli utenti devono avere il ruolo di utente di sincronizzazione. Per aggiornare Marketo, vedere [Aggiornamento della soluzione Marketo per Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Questo vale per il plug-in Marketo versione 4.0.0.14 e successive. Per le versioni precedenti, tutti gli utenti devono avere il ruolo di utente di sincronizzazione. Per aggiornare Marketo, vedere [Aggiornamento della soluzione Marketo per Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. In **Impostazioni**, fare clic su **Amministrazione**.
 
@@ -40,7 +39,7 @@ Assegnate il ruolo di sincronizzazione utente Marketo solo all’utente di sincr
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. Selezionate l’utente di sincronizzazione. Fare clic su ![](assets/image2015-3-26-11-3a16-3a22.png)e selezionare **Gestisci ruoli**
+1. Selezionate l’utente di sincronizzazione. Fare clic su ![](assets/image2015-3-26-11-3a16-3a22.png) e selezionare **Gestisci ruoli**
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 
@@ -50,7 +49,7 @@ Assegnate il ruolo di sincronizzazione utente Marketo solo all’utente di sincr
 
    >[!TIP]
    >
-   >Se il ruolo non è visualizzato, tornare al [passaggio 1 di 3](step-1-of-3-install.md) e importare la soluzione.
+   >Se il ruolo non è visualizzato, tornare al [passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) e importare la soluzione.
 
    >[!NOTE]
    >
@@ -66,7 +65,7 @@ Quasi fatto! Abbiamo solo qualche ultima configurazione prima di passare all&#39
 
    >[!NOTE]
    >
-   >Se **Configurazione del marketing** non è presente, provare ad aggiornare la pagina. Se il problema persiste, [pubblicare di nuovo la soluzione Marketo](https://docs.marketo.com/pages/viewpage.action?pageId=3571813#Step1of3:InstalltheMarketoSolutioninDynamics(2013On-Premises)-PublishAllCustomizations) oppure provare a disconnettersi e rientrare.
+   >Se **Configurazione del marketing** non è presente, provare ad aggiornare la pagina. Se il problema persiste, [pubblicare di nuovo la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) oppure provare a disconnettersi e rientrare.
 
 1. Fare clic su **Default**.
 
@@ -86,15 +85,12 @@ Quasi fatto! Abbiamo solo qualche ultima configurazione prima di passare all&#39
 
 ## Prima di procedere al passaggio 3 {#before-proceeding-to-step}
 
-* Se si desidera limitare il numero di record sincronizzati, [impostare ora un filtro di sincronizzazione personalizzato](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
-* Eseguire il processo [Validate Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Verifica che le impostazioni iniziali siano state eseguite correttamente.
+* Se si desidera limitare il numero di record sincronizzati, [impostare ora un filtro di sincronizzazione personalizzato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+* Eseguire il processo [Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Verifica che le impostazioni iniziali siano state eseguite correttamente.
 * Accedi a Marketing per sincronizzare l&#39;utente in Microsoft Dynamics CRM.
 
 Ottimo lavoro!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Passaggio 3 di 3: Connect Marketo e Dynamics (On-Premises 2013)](step-3-of-3-connect.md)
-
+>[Passaggio 3 di 3: Connect Marketo e Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
