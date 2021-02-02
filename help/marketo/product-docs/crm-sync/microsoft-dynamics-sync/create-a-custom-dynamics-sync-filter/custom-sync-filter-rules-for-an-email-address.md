@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail - Documenti Marketo - Documentazione prodotto
 title: Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ Per evitare la sincronizzazione di record privi di indirizzo e-mail, segui quest
 
 * Quando il campo Nome società (parentcustomerid) del contatto viene aggiornato, verificate che il campo Sincronizzazione su Mkto del contatto sia true. Se lo è, cambiare Sincronizzazione su Mkto sull&#39;account su **True** anche
 * Quando il campo Customer (customerid) dell’opportunità o Contact (parentcontactid) viene aggiornato, verificate che il campo Sync to Mkto dell’account sia true o che il campo Sync to Mkto del contatto sia true. Se lo è, cambiare Sincronizzazione su Mkto sull&#39;opportunità di **True** anche
-
