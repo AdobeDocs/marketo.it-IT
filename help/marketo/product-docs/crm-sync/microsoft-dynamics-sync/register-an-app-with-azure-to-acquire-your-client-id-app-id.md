@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: Registrazione di un'app con Azure per acquisire l'ID client/ID app - Documenti Marketo - Documentazione prodotto
 title: Registrazione di un'app con Azure per acquisire l'ID client/app
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Azure Active Directory estende le directory locali nel cloud, fornendo supporto 
 
    ![](assets/three.png)
 
-1. Fare clic su **Nuova registrazione **nella parte superiore della pagina.
+1. Fare clic su **Nuova registrazione** nella parte superiore della pagina.
 
    ![](assets/four.png)
 
