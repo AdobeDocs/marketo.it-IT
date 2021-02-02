@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Utilizzare la sincronizzazione rapida con Microsoft Dynamics per un nuovo campo personalizzato - Documenti Marketo - Documentazione prodotto
 title: Usa sincronizzazione rapida con Microsoft Dynamics per un nuovo campo personalizzato
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Come utilizzare la sincronizzazione rapida per eseguire nuovamente la sincronizz
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Fare clic su** Microsoft Dynamics**.
+1. Fare clic su **Microsoft Dynamics**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ Cosa succede se vuoi sincronizzare un campo esistente, ma solo per un set limita
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Scegliere **Aggiornato **e selezionare un intervallo di date utilizzando i selettori data. Fare clic su **Salva**.
+1. Scegliete **Aggiornato** e selezionate un intervallo di date utilizzando i selettori data. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ Nel raro caso in cui un campo Dynamics e Marketo non siano sincronizzati, esiste
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    Dovrebbe ripararlo!
-
