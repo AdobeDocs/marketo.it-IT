@@ -3,7 +3,7 @@ unique-page-id: 4719291
 description: Imposta Cognome utente e Nome società predefiniti - Documenti Marketo - Documentazione prodotto
 title: Imposta cognome persona e nome società predefiniti
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Per i lead e i contatti di Salesforce sono necessari (minimo) cognome e nome soc
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Immettete un **cognome persona predefinito** e un **Predefinito ****società persona**, quindi fate clic su **Salva**.
+1. Immettete un **cognome persona predefinita** e una **società persona predefinita**, quindi fate clic su **Salva**.
 
    ![](assets/sync-options-hands.png)
 
