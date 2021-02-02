@@ -3,7 +3,7 @@ unique-page-id: 2953384
 description: Abilita sincronizzazione per un'entità personalizzata - Documenti Marketo - Documentazione prodotto
 title: Abilita sincronizzazione per un'entità personalizzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -26,9 +26,10 @@ Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponib
 1. Selezionare **Microsoft Dynamics** e fare clic su **Disattiva sincronizzazione**.
 
    Per abilitare o disabilitare un&#39;entità personalizzata, è necessario disabilitare temporaneamente la sincronizzazione globale.
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. In Gestione database, fai clic sul collegamento** Dynamics Entities Sync**.
+1. In Gestione database, fare clic sul collegamento **Sincronizzazione entità dinamica**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -40,7 +41,7 @@ Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponib
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fare clic su **Abilita sincronizzazione**.
+1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fare clic su **Abilita sincronizzazione**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
