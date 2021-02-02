@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: Attiva sincronizzazione oggetti personalizzati non inglesi - Documenti Marketo - Documentazione prodotto
 title: Attiva sincronizzazione oggetti personalizzata non in lingua inglese
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -61,7 +61,4 @@ Se l&#39;utente di sincronizzazione Marketo è impostato su una lingua diversa d
 
 >[!NOTE]
 >
->**Promemoria**
->
 >Non dimenticare di aggiornare lo schema un&#39;ultima volta per richiamare gli oggetti nella lingua.
-
