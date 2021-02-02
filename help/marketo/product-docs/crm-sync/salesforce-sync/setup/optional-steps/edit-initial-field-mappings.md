@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: Modifica mappature campi iniziali - Documenti Marketo - Documentazione prodotto
 title: Modifica mappature campi iniziali
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Promemoria**
->
 >Questa funzione è accessibile solo prima della sincronizzazione iniziale con Salesforce! Una volta premuto il tasto **Sincronizza ora**, non è più possibile eseguire questa operazione.
 
 Durante la sincronizzazione iniziale con Salesforce, Marketo combina automaticamente i campi personalizzati con nomi simili in un unico campo sul lato Marketo per garantire che i dati possano essere scambiati con gli oggetti Lead e Contact del CRM. In questo articolo viene illustrato come personalizzare tali mappature.
@@ -25,7 +23,7 @@ Durante la sincronizzazione iniziale con Salesforce, Marketo combina automaticam
 
 Quando viene visualizzato un campo nella cartella Campi non mappati, significa che non è mappato a un campo simile sul lead o sul contatto in Salesforce. Potete ripararlo.
 
-1. Fate clic su Modifica mappature.
+1. Fare clic su **Modifica mappature**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ Se avete campi con lo stesso nome sul lead e sull’oggetto di contatto Marketo 
 
    * Tutte le modifiche alla mappatura verranno ripristinate!
    * Reimpostando lo schema si aggiungeranno solo i campi, non li si rimuove (anche se li si nasconde dall&#39;utente della sincronizzazione).
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
