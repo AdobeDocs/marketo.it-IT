@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: Attiva/Disattiva sincronizzazione oggetti personalizzata - Documenti Marketo - Documentazione prodotto
 title: Attiva/Disattiva sincronizzazione oggetti personalizzata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 1. Fare clic su **Admin**.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. Nel menu Gestione database, fare clic su **Salesforce** **Sincronizzazione oggetti**.
+1. Nel menu Gestione database, fare clic su **Sincronizzazione oggetti Salesforce**.
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 1. Fare di nuovo clic su **Abilita sincronizzazione**.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. Tornate alla scheda **Salesforce** e fate clic su **Abilita sincronizzazione**.
 
@@ -83,9 +79,4 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 >[!MORELIKETHIS]
 >
->* [Aggiungi/rimuovi campo oggetto personalizzato come vincolo di elenco avanzato/trigger](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[Aggiungi/rimuovi campo oggetto personalizzato come vincolo di elenco avanzato/trigger](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
