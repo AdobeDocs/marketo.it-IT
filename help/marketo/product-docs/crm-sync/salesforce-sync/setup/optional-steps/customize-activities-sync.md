@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: Personalizza sincronizzazione attività - Documenti Marketo - Documentazione prodotto
 title: Personalizza sincronizzazione attività
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Personalizza sincronizzazione attività {#customize-activities-sync}
 
-Se non utilizzi [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketo può creare record di cronologia attività Salesforce per alcuni eventi. Ecco come attivarli.
+Se non usi Marketing Sales Insight, Marketo può creare i record della cronologia attività Salesforce per alcuni eventi. Ecco come attivarli.
 
-1. Vai a **Admin. **
+1. Vai a **Admin**.
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ Se non utilizzi [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sal
 
    >[!NOTE]
    >
-   >Una volta attivato, Marketo invierà la cronologia delle attività per tre mesi. A seconda della quantità di dati, *questo potrebbe richiedere diversi giorni per completare*. Gli aggiornamenti che si verificano durante il push delle attività iniziali potrebbero essere posticipati fino al completamento della sincronizzazione iniziale delle attività.
+   >Una volta attivato, Marketo invierà la cronologia delle attività per tre mesi. A seconda della quantità di dati, _questo potrebbe richiedere diversi giorni per completare_. Gli aggiornamenti che si verificano durante il push delle attività iniziali potrebbero essere posticipati fino al completamento della sincronizzazione iniziale delle attività.
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ Se non utilizzi [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sal
 
 >[!NOTE]
 >
->**Promemoria**
->
->
 >&quot;Messaggio e-mail di vendita ricevuto&quot; non contiene **nessun** valore medio consegnato. Lo stato consegnato non viene acquisito per le e-mail inviate tramite Sales Insight.
 
 >[!TIP]
 >
->Per maggiori informazioni su Marketo in Salesforce, consulta il nostro prodotto [Marketing Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
-
+>Per maggiori informazioni su Marketo in Salesforce, consulta il nostro prodotto [Marketing Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
