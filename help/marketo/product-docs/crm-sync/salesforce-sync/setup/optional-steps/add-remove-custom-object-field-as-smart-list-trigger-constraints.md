@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: Aggiungi/rimuovi campo oggetto personalizzato come vincolo di elenco avanzato/trigger - Documenti Marketo - Documentazione prodotto
 title: Aggiungi/rimuovi campo oggetto personalizzato come vincolo di elenco avanzato/trigger
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -61,18 +61,10 @@ Marketo fornisce un controllo a granulosità fine sulla sincronizzazione di ogge
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Non dimenticare di riabilitare la sincronizzazione globale!
 
 Wow! Ora i tuoi elenchi intelligenti e le tue campagne intelligenti hanno ancora più potere.
 
 >[!MORELIKETHIS]
 >
->* [Attiva/Disattiva sincronizzazione oggetti personalizzata](enable-disable-custom-object-sync.md)
-
->
-
-
-
+>[Attiva/Disattiva sincronizzazione oggetti personalizzata](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
