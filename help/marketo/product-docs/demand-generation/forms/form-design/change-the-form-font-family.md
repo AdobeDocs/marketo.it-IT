@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Cambia la famiglia di font del modulo - Marketo Docs - Documentazione prodotto
 title: Modificare la famiglia di font del modulo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Google Fonts è fantastico, e li abbiamo creati direttamente nell&#39;editor di 
 >
 >Questa impostazione interessa l’etichetta del modulo, il testo di input e qualsiasi testo RTF.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. In **Form** **Settings**, selezionare **Settings**.
+1. In **Impostazioni modulo**, selezionare **Impostazioni**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
@@ -35,7 +35,7 @@ Google Fonts è fantastico, e li abbiamo creati direttamente nell&#39;editor di 
 
    >[!TIP]
    >
-   >Per l&#39;uso sono disponibili numerosi [Google Fonts](http://www.google.com/fonts).
+   >Per l&#39;uso sono disponibili numerosi [Google Fonts](https://www.google.com/fonts).
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -53,9 +53,6 @@ Google Fonts è fantastico, e li abbiamo creati direttamente nell&#39;editor di 
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Ricordare di approvare la bozza della pagina di destinazione creata dalle modifiche al modulo.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
@@ -64,9 +61,4 @@ Vedere quanto era semplice modificare la famiglia di font in un modulo? Ora che 
 
 >[!MORELIKETHIS]
 >
->* [Modifica delle dimensioni del font del modulo](change-the-form-font-size.md)
-
->
-
-
-
+>[Modifica delle dimensioni del font del modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
