@@ -3,9 +3,9 @@ unique-page-id: 2359657
 description: Modifica delle impostazioni internazionali del modulo - Documenti Marketo - Documentazione prodotto
 title: Modifica delle impostazioni internazionali di un modulo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Quando si utilizzano moduli internazionali, è necessario visualizzare le date/ore nei formati corretti. Marketo farà questo automaticamente per voi, tutto quello che dovete fare è impostare le impostazioni internazionali del modulo e ci occupiamo del resto.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. In **Form** **Settings** fare clic su **Settings**.
+1. In **Impostazioni modulo** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
@@ -35,7 +35,7 @@ Quando si utilizzano moduli internazionali, è necessario visualizzare le date/o
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Fare clic su **Approva e Chiudi **per applicare e salvare le modifiche.
+1. Fare clic su **Approva e Chiudi** per applicare e salvare le modifiche.
 
    >[!NOTE]
    >
@@ -45,13 +45,8 @@ Quando si utilizzano moduli internazionali, è necessario visualizzare le date/o
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Ricordare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche al modulo.
+   >Ricordare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche al modulo.
 
-1. 
-1. È così! Gli utenti possono visualizzare la data/ora nelle impostazioni internazionali corrette.
+   È così! Gli utenti possono visualizzare la data/ora nelle impostazioni internazionali corrette.
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)
-
