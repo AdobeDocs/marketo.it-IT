@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: Imposta la pagina di ringraziamento del modulo - Documenti Marketo - Documentazione del prodotto
 title: Imposta la pagina di ringraziamento del modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Cosa succede quando qualcuno compila un modulo? A dove vengono inoltrati? Ecco c
 
 ## Modifica modulo {#edit-form}
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ Cosa succede quando qualcuno compila un modulo? A dove vengono inoltrati? Ecco c
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. In **Form** **Settings** fare clic su **Settings**.
+1. In **Impostazioni modulo** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Scorrete verso il basso fino alla sezione **Grazie** **You** **Page**.
+1. Scorri verso il basso fino alla sezione **Pagina di ringraziamento**.
 
 ## Resta a pagina {#stay-on-page}
 
 L&#39;opzione Resta sulla pagina consente al visitatore di restare sulla stessa pagina al momento dell&#39;invio del modulo.
 
-1. Selezionare **Stay** **On** **Page** per **Follow** **Up** **With**.
+1. Selezionare **Resta a pagina** per **Segui con**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ L&#39;opzione Resta sulla pagina consente al visitatore di restare sulla stessa 
 
 L’impostazione URL esterno consente di definire qualsiasi URL come pagina di follow-up. Dopo che l&#39;utente ha inviato il modulo, verrà indirizzato all&#39;URL specificato.
 
-1. Selezionare **External** **URL** per **Follow** **Up** **With**.
+1. Selezionare **URL esterno** per **Seguire con**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ Puoi selezionare come follow-up qualsiasi pagina di destinazione Marketo approva
 
 Potete aggiungere più opzioni e creare scelte per mostrare alle persone vari follow-up in base alle loro risposte.
 
-1. Fare clic su **Aggiungi** **Scelta**.
+1. Fare clic su **Aggiungi scelta**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Potete aggiungere più opzioni e creare scelte per mostrare alle persone vari fo
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Scegliere la pagina appropriata per il tipo **Segui** **Su** **Con**.
+1. Scegliere la pagina appropriata per il tipo **Segui con**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ Potete aggiungere più opzioni e creare scelte per mostrare alle persone vari fo
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Devi aver creato/approvato queste pagine di destinazione in anticipo.
 
@@ -114,7 +111,7 @@ Potete aggiungere più opzioni e creare scelte per mostrare alle persone vari fo
    >
    >Potete aggiungere diverse opzioni. Tuttavia, se si aggiungono troppi valori, è possibile che la velocità di caricamento del modulo venga compromessa, per cui è sufficiente aggiungere i dati necessari.
 
-1. Passare attraverso e impostare **Choice** **2**.
+1. Passare attraverso e impostare **Scelta 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ Potete aggiungere più opzioni e creare scelte per mostrare alle persone vari fo
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 Ottimo lavoro!
+
