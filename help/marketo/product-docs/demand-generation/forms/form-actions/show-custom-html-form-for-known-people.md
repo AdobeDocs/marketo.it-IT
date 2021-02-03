@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Mostra modulo HTML personalizzato per le persone note - Documenti Marketo - Documentazione prodotto
 title: Mostra modulo HTML personalizzato per le persone note
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Se un visitatore riceve un cookie (persona nota che in passato ha fornito un indirizzo e-mail), perché preoccuparsi del modulo? Basta dare loro il pulsante di download. Ecco come.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. In **Marketing** **Attività**, selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. In **Attività di marketing**, selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. In **Form** **Settings**, fare clic su **Settings**.
+1. In **Impostazioni modulo** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Impostate Se **Noto** **Visitatore, Mostra**: su **Custom** **HTML**.
+1. Imposta Se **Visitatore noto, Mostra**: a **HTML personalizzato**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Fare clic su ![—](assets/image2014-9-25-14-3a1-3a26.png) per modificare il **Custom** **HTML** che verrà mostrato alle persone conosciute.
+1. Fare clic su ![—](assets/image2014-9-25-14-3a1-3a26.png) per modificare il **codice HTML personalizzato** che verrà mostrato alle persone conosciute.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,15 +66,12 @@ Se un visitatore riceve un cookie (persona nota che in passato ha fornito un ind
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Ricordare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche al modulo.
+   >Ricordare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche al modulo.
+
+   Pezzo di torta! Controlla cosa vedrebbe una persona se tornasse allo stesso modulo:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >Per indirizzare il clic del pulsante alla risorsa, impostare la pagina di follow-up del modulo sull’URL del file.
-
-Pezzo di torta! Controlla cosa vedrebbe una persona se tornasse allo stesso modulo:
