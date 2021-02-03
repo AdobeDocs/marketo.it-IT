@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: Sincr. SFDC - Coda lead - Documenti Marketo - Documentazione prodotto
 title: Sincr. SFDC - Coda lead
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketo consente di aggiungere persone alle [code lead Salesforce](https://help.
 
 Puoi assegnare una persona a una coda di lead Salesforce tramite una delle seguenti azioni di flusso:
 
-* [Sincronizza persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Cambia proprietario](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Sincronizza persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Cambia proprietario](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Se un lead è di proprietà di una coda in Salesforce, questi campi del propriet
 * Titolo proprietario vendita
 * Numero di telefono proprietario vendita
 * Indirizzo e-mail proprietario vendita
-
