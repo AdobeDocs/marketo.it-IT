@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: Domande frequenti sul modulo per social network LinkedIn - Documenti Marketo - Documentazione prodotto
 title: Domande frequenti per la compilazione del modulo per social network LinkedIn
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La nuova politica API di LinkedIn ci ha richiesto di rimuovere LinkedIn Social F
 
 ## Cose importanti da conoscere {#important-things-to-know}
 
-* I pulsanti per la compilazione del modulo per social network LinkedIn non sono più un&#39;opzione da aggiungere a Marketo a partire dal 28 aprile 2016
+* I pulsanti per la compilazione del modulo per social network LinkedIn non erano più un&#39;opzione da aggiungere nuovamente a Marketo il 28 aprile 2016
 
 * È stato rimosso il pulsante per la compilazione del modulo per social network LinkedIn da tutti i moduli per i quali era stato attivato
 
