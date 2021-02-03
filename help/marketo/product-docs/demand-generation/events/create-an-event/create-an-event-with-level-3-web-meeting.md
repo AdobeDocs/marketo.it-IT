@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Creazione di un evento con Meeting Web di Livello 3 - Documenti Marketo - Documentazione prodotto
 title: Creazione di un evento con riunione Web di livello 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 >
 >* [Aggiungi riunione Web di livello 3 come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Impostare le azioni di flusso [appropriate](https://docs.marketo.com/x/k8Kt)per tenere traccia del coinvolgimento
-
->
+>* Impostare le azioni di flusso [appropriate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)per tenere traccia del coinvolgimento
 
 
-
-Create innanzitutto il webinar nel livello 3. Per assistenza, consultare la [Libreria risorse di livello 3](http://www.level3.com/en/resource-library/). Troverete che sia molto simile a BrightTalk.  Marketo utilizza un piccolo sottoinsieme di campi di livello 3:
+Create innanzitutto il webinar nel livello 3. Per assistenza, consultare la [Libreria risorse di livello 3](https://www.level3.com/en/resource-library/). Troverete che sia molto simile a BrightTalk.  Marketo utilizza un piccolo sottoinsieme di campi di livello 3:
 
 * **Nome**  - Il nome del webcast.
 * **Data**  inizio: data di inizio del webcast.
@@ -55,6 +52,6 @@ Create innanzitutto il webinar nel livello 3. Per assistenza, consultare la [Lib
 
 ## Visualizzazione della pianificazione {#viewing-the-schedule}
 
-Nella [vista programmazione programma](http://docs.marketo.com/display/docs/program+schedule+view), fare clic sulla voce del calendario relativa all&#39;evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
+Nella vista Pianificazione programma, fate clic sulla voce del calendario relativa all’evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
