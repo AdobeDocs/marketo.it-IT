@@ -3,9 +3,9 @@ unique-page-id: 2359646
 description: Configurare il profilo progressivo del modulo - Documenti Marketo - Documentazione del prodotto
 title: Configura profilo progressivo modulo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -17,28 +17,30 @@ Le forme brevi sono buone! Quando un utente torna a un modulo, è possibile pres
 
 >[!NOTE]
 >
->Affinché questa funzione funzioni correttamente, accertatevi che la funzione di precompilazione del modulo sia abilitata per i campi visibili e che i campi nascosti [disabilitati](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) siano disattivati.
+>Affinché questa funzione funzioni correttamente, accertatevi che la funzione di precompilazione del modulo sia abilitata per i campi visibili e che i campi nascosti [disabilitati](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) siano disattivati.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. In **Form** **Settings** fare clic su **Settings**.
+1. In **Impostazioni modulo** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Impostare **Progressivo** **Profiling** su **Abilitato**.
+1. Impostare **Profilazione progressiva** su **Abilitata**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Ok, ora configuriamolo. Vai a **Field** **Details**.
+1. Ok, ora configuriamolo. Vai a **Dettagli campo**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
-Trascinate tutti i campi che fanno parte del set di profili progressivo.
+
+1. Trascinate tutti i campi che fanno parte del set di profili progressivo.
+
    ![](assets/image2014-9-15-12-3a32-3a3.png)
 
 1. Dopo aver spostato tutti i campi, dovrebbe avere l&#39;aspetto seguente:
@@ -47,9 +49,9 @@ Trascinate tutti i campi che fanno parte del set di profili progressivo.
 
    >[!NOTE]
    >
-   >I campi all&#39;esterno della casella **Progressivo** **Profiling** verranno sempre visualizzati nel modulo, anche se compilati.
+   >I campi all&#39;esterno della casella **Profilamento progressivo** verranno sempre visualizzati nel modulo, anche se compilati.
 
-1. Selezionare la casella **Progressivo** **Profiling**.
+1. Selezionare la casella **Profilamento progressivo**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,45 +59,34 @@ Trascinate tutti i campi che fanno parte del set di profili progressivo.
    >
    >Prestate attenzione quando utilizzate i campi obbligatori in Profiling progressivo. Questi campi potrebbero comunque essere lasciati vuoti se il visitatore immette un nuovo indirizzo e-mail (che creerebbe una nuova persona) dopo l&#39;invio in precedenza dei dati per gli altri campi, in quanto sarebbero stati eliminati nel modulo più recente.
 
-1. Scegliere ora quanti campi vuoti si desidera visualizzare dalla casella **Progressivo** **Profiling** in qualsiasi momento.
+1. Ora scegliete quanti campi vuoti desiderate vengano visualizzati dalla casella **Profiling progressivo** in un dato momento.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >**Esempio**
-   >
-   >
    >Se si sceglie **Number** **di** **Blank** **Fields** come 1, il visitatore visualizzerà il seguente modulo per la prima volta:
    >
-   >    
-   >    
-   >    * Nome (vuoto)
-   >    * Cognome (vuoto)
-   >    * Indirizzo e-mail (vuoto)
-   >    * Numero di telefono (vuoto)
+   >* Nome (vuoto)
+   >* Cognome (vuoto)
+   >* Indirizzo e-mail (vuoto)
+   >* Numero di telefono (vuoto)
 
-   >    
-   >    
+   >
    >Presupponendo che compilino ogni campo, la seconda volta che visitano, vedranno:
    >
-   >    
-   >    
-   >    * Nome (precompilato)
-   >    * Cognome (precompilato)
-   >    * Indirizzo e-mail (precompilato)
-   >    * Numero di telefono cellulare (vuoto)
+   >* Nome (precompilato)
+   >* Cognome (precompilato)
+   >* Indirizzo e-mail (precompilato)
+   >* Numero di telefono cellulare (vuoto)
 
-   >    
-   >    
+   >
    >Presupponendo che compilino il numero di telefono cellulare, la terza volta che visita vedranno:
    >
-   >    
-   >    
-   >    * Nome (precompilato)
-   >    * Cognome (precompilato)
-   >    * Indirizzo e-mail (precompilato)
-   >    * Paese (vuoto)
+   >* Nome (precompilato)
+   >* Cognome (precompilato)
+   >* Indirizzo e-mail (precompilato)
+   >* Paese (vuoto)
 
 
 1. Fare clic su **Fine**.
