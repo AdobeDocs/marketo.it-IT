@@ -1,11 +1,11 @@
 ---
 unique-page-id: 7515133
-description: Sincr. SFDC -Unione di un lead/contatto/persona - Documenti Marketo - Documentazione del prodotto
+description: Sincr. SFDC - Unione di un lead/contatto/persona - Documenti Marketo - Documentazione del prodotto
 title: Sincr. SFDC - Unione di un lead/contatto/persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ A volte è meglio elencare le regole. Ecco:
 
 >[!NOTE]
 >
->**Esempio**
->
 >L’unione di 3 lead (persone) con punteggi di 10 ciascuno darà come risultato un risultato di 1 lead (persona) con un punteggio di 30.
 
 * I valori dei campi in conflitto sono ricavati dal &quot;record vincente&quot;. (Record = il lead o contatto risultante)
@@ -32,7 +30,4 @@ A volte è meglio elencare le regole. Ecco:
 
 >[!NOTE]
 >
->**Tubo profondo**
->
->Indagine approfondita per ulteriori informazioni sull [unione di persone in Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
-
+>Indagine approfondita per ulteriori informazioni sull [unione di persone in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
