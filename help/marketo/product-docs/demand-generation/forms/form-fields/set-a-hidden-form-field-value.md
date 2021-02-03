@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Impostare un valore campo modulo nascosto - Documenti Marketo - Documentazione prodotto
 title: Impostazione di un valore campo modulo nascosto
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ In genere, i campi nascosti vengono compilati in modo dinamico. Non vengono most
 
 >[!PREREQUISITES]
 >
->[Impostazione di un campo modulo come nascosto](set-a-form-field-as-hidden.md)
+>[Impostazione di un campo modulo come nascosto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Selezionare il campo {#select-the-field}
 
@@ -33,11 +33,11 @@ Selezionando Usa valore predefinito è possibile codificare un valore specifico 
 
 ## Parametro URL {#url-parameter}
 
-Se si desidera acquisire i parametri URL (stringhe di query) dalla pagina in cui si trova l&#39;utente durante la compilazione del modulo, è possibile utilizzare **URL** **Parametri** per compilare il campo nascosto.
+Se si desidera acquisire i parametri URL (stringhe di query) dalla pagina in cui si trova l&#39;utente durante la compilazione del modulo, è possibile utilizzare **parametri URL** per compilare il campo nascosto.
 
 >[!NOTE]
 >
->I parametri sono un po&#39; tecnologici, vero? Ma una volta che li ottenete, sono potenti. Questa pagina di [Wikipedia sulle stringhe di query](http://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
+>I parametri sono un po&#39; tecnologici, vero? Ma una volta che li ottenete, sono potenti. Questa pagina di [Wikipedia sulle stringhe di query](https://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
 
 1. Selezionare **Parametro URL** per **Ottieni tipo di valore**.
 
@@ -53,9 +53,9 @@ Se si desidera acquisire i parametri URL (stringhe di query) dalla pagina in cui
 
 ## Valore cookie {#cookie-value}
 
-Se si memorizzano i dati nei cookie, è possibile utilizzare **Cookie** **Value** per raccogliere i dati all&#39;invio del modulo.
+Se si memorizzano i dati nei cookie, è possibile utilizzare **Cookie Value** per raccogliere i dati all&#39;invio del modulo.
 
-1. Selezionare **Cookie** **Value** per **Get** **Value** **From**.
+1. Selezionare **Cookie Value** per **Get Value From**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Se si memorizzano i dati nei cookie, è possibile utilizzare **Cookie** **Value*
 
 ## Parametro referente {#referrer-parameter}
 
-Se si desidera acquisire i dati dalla pagina di origine del visitatore prima di compilare il modulo, è possibile utilizzare **Referrer** **Parameter**.
+Se si desidera acquisire i dati dalla pagina di provenienza del visitatore prima di compilare il modulo, è possibile utilizzare il parametro **Referrer**.
 
-1. Impostare **Get** **Value** **From** su **Referrer** **Parameter**.
+1. Impostare **Ottieni valore da** su **Parametro referente**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Se si desidera acquisire i dati dalla pagina di origine del visitatore prima di 
 
    >[!TIP]
    >
-   >È possibile immettere un **Default** **Value** nel caso in cui il parametro del referente non sia stato trovato.
+   >È possibile immettere un **Valore predefinito** nel caso in cui il parametro del referente non sia stato trovato.
 
 1. Fare clic su **Fine**.
 
@@ -90,5 +90,3 @@ Se si desidera acquisire i dati dalla pagina di origine del visitatore prima di 
 1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-Dolce! Stai piuttosto bene. Ulteriori informazioni sui [moduli](http://docs.marketo.com/display/docs/forms).
