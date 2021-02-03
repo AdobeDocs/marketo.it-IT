@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: Aggiungere tipi di pubblico collegati a LinkedIn corrispondenti come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungi tipi di pubblico associati LinkedIn come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -61,9 +61,4 @@ Collegate l&#39;account Marketo a quello di LinkedIn Matched Audiences per utili
 
 >[!MORELIKETHIS]
 >
->* [Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
