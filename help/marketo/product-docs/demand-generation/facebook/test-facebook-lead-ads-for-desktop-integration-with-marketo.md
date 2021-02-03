@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Test Facebook Lead Ads for Desktop Integration with Marketo - Marketo Docs - Documentazione prodotto
 title: Test degli annunci lead Facebook per l'integrazione desktop con Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ Dopo aver creato il tuo annuncio lead, devi testarlo! Ecco come farlo sul deskto
 
 >[!PREREQUISITES]
 >
->È necessario [configurare l&#39;integrazione degli annunci lead di Facebook](set-up-facebook-lead-ads.md).
+>È necessario [configurare l&#39;integrazione degli annunci lead di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. In Facebook Power Editor, selezionare una campagna, un annuncio, quindi fare clic su **Edit**.
+
 1. In **Links** fare clic sul collegamento **Visualizza in News Feed**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
@@ -40,7 +41,7 @@ Dopo aver creato il tuo annuncio lead, devi testarlo! Ecco come farlo sul deskto
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [creare un elenco smart in Marketo](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) nell&#39;ambito di un programma o nel database che utilizza il filtro Modulo lead per annunci Facebook compilati. Inserite il nome del modulo lead per il modulo appena inviato.
+1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [creare un elenco smart in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) nell&#39;ambito di un programma o nel database che utilizza il filtro Modulo lead per annunci Facebook compilati. Inserite il nome del modulo lead per il modulo appena inviato.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
@@ -50,13 +51,6 @@ Dopo aver creato il tuo annuncio lead, devi testarlo! Ecco come farlo sul deskto
 
    È figo o cosa?
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Impostazione Di Annunci Lead Facebook](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Impostazione Di Annunci Lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
