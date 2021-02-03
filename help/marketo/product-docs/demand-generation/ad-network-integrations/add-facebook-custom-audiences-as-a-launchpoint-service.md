@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Aggiungere audience personalizzate Facebook come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungere audience personalizzate di Facebook come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Con questa integrazione potete inviare i dati del pubblico da Marketo agli elenc
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Aprite una nuova scheda nello stesso browser e andate a [www.facebook.com.](http://www.facebook.com./) Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
+1. Aprite una nuova scheda nello stesso browser e passate a [facebook.com](http://www.facebook.com/). Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ Con questa integrazione potete inviare i dati del pubblico da Marketo agli elenc
 
    >[!NOTE]
    >
-   >Per consentire il funzionamento dell&#39;integrazione dell&#39;audience personalizzata, *è necessario* utilizzare un account Facebook Business Manager. Per informazioni su come impostare un account Business Manager, fare riferimento alla [Guida di Facebook](https://www.facebook.com/business/help/1710077379203657).
+   >Per consentire il funzionamento dell&#39;integrazione dell&#39;audience personalizzata, _è necessario_ utilizzare un account Facebook Business Manager. Per informazioni su come impostare un account Business Manager, fare riferimento alla [Guida di Facebook](https://www.facebook.com/business/help/1710077379203657).
 
-1. Se richiesto, fate clic su **OK **per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
+1. Se richiesto, fate clic su **OK** per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ Con questa integrazione potete inviare i dati del pubblico da Marketo agli elenc
 
    >[!NOTE]
    >
-   >**Base Matching** usa solo indirizzi e-mail.**Advanced** Matchingutilizza sette campi aggiuntivi, che aumentano il tasso di corrispondenza, per una maggiore conversione. Tuttavia, se l&#39;informativa sulla privacy dell&#39;azienda non consente la condivisione di campi aggiuntivi o se i dati non li includono, selezionare Corrispondenza di base.
+   >**Basic** Matchingusa solo indirizzi e-mail. **Advanced** Matchingutilizza sette campi aggiuntivi, che aumentano il tasso di corrispondenza, per una maggiore conversione. Tuttavia, se l&#39;informativa sulla privacy dell&#39;azienda non consente la condivisione di campi aggiuntivi o se i dati non li includono, selezionare Corrispondenza di base.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ Con questa integrazione potete inviare i dati del pubblico da Marketo agli elenc
 
 >[!MORELIKETHIS]
 >
->* [Creare un pubblico personalizzato in Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Impostazione Di Annunci Lead Facebook](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [Impostazione Di Annunci Lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
