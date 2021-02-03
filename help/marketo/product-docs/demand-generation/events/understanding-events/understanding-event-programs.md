@@ -3,9 +3,9 @@ unique-page-id: 2949841
 description: Informazioni sui programmi dell'evento - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sui programmi dell'evento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Informazioni sui programmi dell&#39;evento {#understanding-event-programs}
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
@@ -32,26 +30,13 @@ Un programma evento è un tipo di programma che può essere utilizzato per autom
 >* fiere
 >* Riunioni
 
->
 
-
-
-Gli eventi possono collegarsi automaticamente al [provider di webinar](launchpoint-event-partners.md) e sincronizzarsi con un [app di check-in per iPad](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-
-## Guarda il video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+Gli eventi possono collegarsi automaticamente al [provider di webinar](launchpoint-event-partners.md) e sincronizzarsi con un [app di check-in per iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
->Inizia subito con questi collegamenti utili:
->
->* [Creare un nuovo programma evento](create-a-new-event-program.md)
+>* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
    >
    >
-* [Partner evento LaunchPoint](launchpoint-event-partners.md)
-
->
-
-
+* [Partner evento LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
 
