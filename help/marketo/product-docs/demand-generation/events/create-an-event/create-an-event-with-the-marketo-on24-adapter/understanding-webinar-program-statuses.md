@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: Informazioni sugli stati del programma webinar - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sugli stati del programma webinar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -27,9 +27,9 @@ Di seguito viene fornita una breve descrizione degli stati del programma associa
 
 **Non in Program**  - Utilizzate questo stato per rimuovere le persone dall&#39;evento.
 
-** Invitati** - Utilizzate questo stato per aggiungere persone all&#39;evento.
+**Invitati**  - Utilizzate questo stato per aggiungere persone all&#39;evento.
 
-**In attesa di approvazione**  - Utilizzate questo stato per sospendere l&#39;invio di un&#39;e-mail di conferma alla gente. Per ulteriori informazioni, vedere &quot;Approvazione manuale degli utenti registrati&quot; in [On24 Event Registration updates](on24-event-registration-updates.md).
+**In attesa di approvazione**  - Utilizzate questo stato per sospendere l&#39;invio di un&#39;e-mail di conferma alla gente. Per ulteriori informazioni, vedere &quot;Approvazione manuale degli utenti registrati&quot; in [On24 Event Registration updates](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md).
 
 **Attendi in elenco**  - Utilizzate questo stato per mantenere alcune persone in attesa di ulteriori posti disponibili.
 
@@ -43,7 +43,7 @@ Di seguito viene fornita una breve descrizione degli stati del programma associa
 >
 >Se si verifica un errore di registrazione, è possibile ottenere informazioni aggiuntive per tale persona guardando la colonna Motivo stato nella scheda Membri del programma. Una volta corretto l’errore, potete modificare manualmente lo stato del programma dell’utente in Registrato in Marketo.
 
-**Partecipante** - Al termine del webinar, ON24 restituisce un elenco di persone che hanno partecipato. Questo stato viene inserito automaticamente in Marketo.
+**Partecipante**  - Al termine del webinar, ON24 restituisce un elenco di persone che hanno partecipato. Questo stato viene inserito automaticamente in Marketo.
 
 **Partecipazione on-demand** : le persone che hanno partecipato alla versione archiviata del webinar ricevono questo stato.
 
@@ -55,9 +55,4 @@ Di seguito viene fornita una breve descrizione degli stati del programma associa
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
