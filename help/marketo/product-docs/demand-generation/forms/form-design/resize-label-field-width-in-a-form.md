@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: Ridimensionare l'etichetta/la larghezza del campo in un modulo - Documenti Marketo - Documentazione del prodotto
 title: Ridimensionare l'etichetta/la larghezza del campo in un modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Esistono due modi per ridimensionare sia la larghezza dell&#39;etichetta del cam
 
 ## Trascinare e rilasciare la larghezza {#drag-and-drop-the-width}
 
-1. Nell&#39;editor [modulo](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), selezionare il campo da ridimensionare.
+1. Nell&#39;editor [modulo](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), selezionare il campo da ridimensionare.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
