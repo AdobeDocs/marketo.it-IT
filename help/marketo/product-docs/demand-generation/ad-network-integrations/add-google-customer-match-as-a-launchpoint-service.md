@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: Aggiungi la partita di clienti Google come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungi la corrispondenza cliente Google come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ Con questa integrazione, potete inviare un pubblico di Marketo a Google per il t
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selezionare **Nuovo** quindi** Nuovo servizio*.
+1. Selezionare **New**, quindi **New Service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immettete un **Display Name **e selezionate** Google Customer Match **dal menu a discesa **Service**. Fare clic su **Crea**.
+1. Immettete un **Nome visualizzato** e selezionate **Corrispondenza cliente Google** dal menu a discesa **Servizio**. Fare clic su **Crea**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Con questa integrazione, potete inviare un pubblico di Marketo a Google per il t
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare audience tra più account AdWords, l&#39;utente Google che autorizzi nei passaggi seguenti deve avere accesso a *tutti* di questi account.
+   >Affinché Marketo possa inviare audience tra più account AdWords, l&#39;utente Google che autorizzi nei passaggi seguenti deve avere accesso a _tutti_ di questi account.
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ Con questa integrazione, potete inviare un pubblico di Marketo a Google per il t
    ![](assets/authorizesuccess.png)
 
    Fantastico! Nella scheda Servizi installati verrà ora visualizzato Google Matched Audiences elencato come servizio LaunchPoint.
-
