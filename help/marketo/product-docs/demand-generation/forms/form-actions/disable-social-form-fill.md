@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: Disabilita compilazione modulo social - Documenti Marketo - Documentazione prodotto
 title: Disattiva compilazione modulo social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A volte non si desidera più che i visitatori del sito inviino moduli utilizzando un profilo sociale. Ecco come disattivarlo.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità.
 
@@ -25,7 +23,7 @@ A volte non si desidera più che i visitatori del sito inviino moduli utilizzand
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Selezionare il modulo e fare clic su **Edit ****Form**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ A volte non si desidera più che i visitatori del sito inviino moduli utilizzand
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    È tutto quello che devi fare.
-
