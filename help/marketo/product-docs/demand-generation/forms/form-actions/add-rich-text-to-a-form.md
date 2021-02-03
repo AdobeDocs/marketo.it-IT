@@ -3,9 +3,9 @@ unique-page-id: 2359618
 description: Aggiunta di testo RTF a un modulo - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di testo RTF a un modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informazioni tra i campi. Controllala.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -55,10 +55,6 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
->[!NOTE]
+>[!TIP]
 >
->**Tubo profondo**
->
->Ulteriori informazioni su [forms](http://docs.marketo.com/display/docs/forms).
-
-Sapevate che potete anche [aggiungere regole di visibilità](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a un blocco di testo RTF?
+>Sapevate che potete anche [aggiungere regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a un blocco di testo RTF?
