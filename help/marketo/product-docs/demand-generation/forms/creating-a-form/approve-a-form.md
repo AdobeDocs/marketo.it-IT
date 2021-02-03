@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Approvare un modulo - Documenti Marketo - Documentazione del prodotto
 title: Approvare un modulo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Per aggiungere un modulo a una delle pagine di destinazione, è necessario appro
 
 Come approvare un modulo esistente pronto per l&#39;uso.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ Come approvare un modulo esistente pronto per l&#39;uso.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   È approvato e pronto per essere [aggiunto a una pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   È approvato e pronto per essere [aggiunto a una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ Se si apportano modifiche a un modulo, è possibile approvare la pagina direttam
 
 >[!PREREQUISITES]
 >
->* [Modifica di un modulo](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [Modifica di un modulo](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. Fare clic su **Fine**.
@@ -63,8 +60,6 @@ Se si apportano modifiche a un modulo, è possibile approvare la pagina direttam
 
 >[!NOTE]
 >
->**Promemoria**
->
->Tenere presente che, se si modifica il modulo dopo che è stato approvato, sarà necessario [approvare la pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) per visualizzare le modifiche.
+>Tenere presente che, se si modifica il modulo dopo che è stato approvato, sarà necessario [approvare la pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) per visualizzare le modifiche.
 
 È tutto! Facile come può essere.
