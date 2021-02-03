@@ -3,9 +3,9 @@ unique-page-id: 2359616
 description: Abilitare la compilazione del modulo per social network su un modulo - Documenti Marketo - Documentazione prodotto
 title: Abilitare la compilazione di un modulo per social network
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Consentire ai visitatori di compilare il modulo utilizzando il social network. Otterrete automaticamente ulteriori dati e avranno un&#39;esperienza più rapida.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -39,13 +37,13 @@ Consentire ai visitatori di compilare il modulo utilizzando il social network. O
 
    >[!TIP]
    >
-   >Date un&#39;occhiata a quanto [data Marketo acquisirà](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se le persone usano i pulsanti dei social network.
+   >Date un&#39;occhiata a quanto [data Marketo acquisirà](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se le persone usano i pulsanti dei social network.
 
 1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Fare clic su** Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
