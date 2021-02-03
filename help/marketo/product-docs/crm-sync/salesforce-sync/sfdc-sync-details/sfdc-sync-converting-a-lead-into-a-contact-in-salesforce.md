@@ -3,7 +3,7 @@ unique-page-id: 2953465
 description: Sincr. SFDC - Conversione di un lead in un contatto in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Sincr. SFDC - Conversione di un lead in un contatto in Salesforce
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 # Sincr. SFDC: Conversione di un lead in un contatto in Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Immagina tre diversi scenari in Salesforce: (non utilizzando il passaggio [Converti persona flusso](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) in Marketo)
+Immagina tre diversi scenari in Salesforce: (non utilizzando il passaggio [Converti persona flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) in Marketo)
 
 1. Conversione di un lead in un **nuovo contatto e nuovo account**
 1. Conversione di un lead in un **nuovo contatto** in un **account esistente**
 
-1. Conversione di un lead in un **contatto esistente** in un **account esistente** (funziona identica a [unione](sfdc-sync-merging-a-lead-contact-person.md))
+1. Conversione di un lead in un **contatto esistente** in un **account esistente** (funziona identica a [unione](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md))
 
 In tutti e tre i casi si finisce con un **1 contatto e nessun lead in Salesforce e 1 contatto e nessuna persona in Marketo.**
 
