@@ -3,7 +3,7 @@ unique-page-id: 10096712
 description: Crea il tuo evento webinar in ON24 - Marketo Docs - Documentazione del prodotto
 title: Creazione di un evento webinar in ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -17,23 +17,18 @@ Dopo aver creato il seminario Web in ON24, potete creare un evento Marketo e ass
 
 Sono disponibili alcune impostazioni per la creazione del webinar ON24, utilizzate da Marketo e da altre versioni utilizzate solo da ON24. Marketo utilizza le seguenti impostazioni:
 
-**Titolo e descrizione **
+**Titolo e descrizione**
 
 * Titolo evento - Il nome del webinar. Questo sarà visibile in Marketo.
 * Riassunto evento (facoltativo) - La descrizione del webinar. Questo sarà visibile in Marketo.
 
-**Data e ora **
+**Data e ora**
 
 * Inizio evento live - Data e ora di inizio. Questo sarà visibile in Marketo.
 * Ora di fine live - Data e ora di fine. Questo sarà visibile in Marketo.
 
-Il passaggio successivo è [creare un evento in Marketo](create-an-event-in-marketo.md).
+Il passaggio successivo è [creare un evento in Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md).
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
