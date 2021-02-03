@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: Definire i valori in una radio o in un campo selezionato in un modulo - Documenti Marketo - Documentazione prodotto
 title: Definire i valori in una radio o in un campo selezionato in un modulo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definire i valori in una casella di scelta o in un campo selezionato in un modulo {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Dopo aver [impostato un tipo di campo ](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o selezionato il tipo, è necessario definire i valori da cui l&#39;utente può scegliere. Ecco come.
+Dopo aver [impostato un tipo di campo ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o selezionato il tipo, è necessario definire i valori da cui l&#39;utente può scegliere. Ecco come.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/ma.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ Dopo aver [impostato un tipo di campo ](../../../../product-docs/administration/
    >
    >**Definizione**
    >
-   >
    >**Valore visualizzato:** ciò che viene mostrato al visitatore.
-   >
    >
    >**Valore memorizzato:** ciò che viene registrato in Marketo.
 
@@ -65,4 +63,4 @@ Dopo aver [impostato un tipo di campo ](../../../../product-docs/administration/
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Ottimo lavoro! State davvero bene. Ulteriori informazioni su [forms](http://docs.marketo.com/display/docs/forms).
+Ottimo lavoro! State davvero bene.
