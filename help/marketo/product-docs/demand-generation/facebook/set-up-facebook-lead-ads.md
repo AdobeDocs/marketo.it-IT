@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Imposta annunci lead Facebook - Documenti Marketo - Documentazione prodotto
 title: Impostazione Di Annunci Lead Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Utilizzate [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) per
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Per aggiungere gli annunci lead Facebook all&#39;istanza, contattate il Customer Success Manager.
 
@@ -37,7 +35,7 @@ Utilizzate [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) per
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Aprite una nuova scheda nello stesso browser e andate a [www.facebook.com.](http://www.facebook.com.) Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
+1. Aprite una nuova scheda nello stesso browser e passate a [facebook.com](http://www.facebook.com). Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
 
    >[!NOTE]
    >
@@ -49,7 +47,7 @@ Utilizzate [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) per
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Se richiesto, fate clic su **Ok** per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
+1. Se richiesto, fate clic su **OK** per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +67,7 @@ Utilizzate [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) per
 
    >[!TIP]
    >
-   >Modificando le mappature, potete personalizzare la posizione in cui i dati degli annunci lead sono memorizzati in Marketo. È inoltre possibile [estrarre i dati da Domande personalizzate lead Ads](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Modificando le mappature, potete personalizzare la posizione in cui i dati degli annunci lead sono memorizzati in Marketo. È inoltre possibile [estrarre i dati da Domande personalizzate lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Utilizzate [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) per
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo di filtri e attivatori per annunci lead in una campagna avanzata](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Mappa campi personalizzati su Marketo](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [Utilizzo di filtri e attivatori per annunci lead in una campagna avanzata](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Mappa campi personalizzati su Marketo](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
