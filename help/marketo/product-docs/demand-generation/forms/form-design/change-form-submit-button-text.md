@@ -3,7 +3,7 @@ unique-page-id: 2359649
 description: Modifica del testo del pulsante di invio del modulo - Documenti Marketo - Documentazione del prodotto
 title: Modifica testo pulsante Invia modulo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 È possibile modificare rapidamente e facilmente un pulsante di modulo da &quot;Invia&quot; a qualsiasi altra parola. Ecco come.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
    Bam!
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)
-
