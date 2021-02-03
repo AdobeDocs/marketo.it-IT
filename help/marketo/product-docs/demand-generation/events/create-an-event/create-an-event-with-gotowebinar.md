@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: Creazione di un evento con GotoWebinar - Marketo Docs - Documentazione prodotto
 title: Creazione di un evento con GotoWebinar
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [Aggiungi GoToWebinar come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Impostare le azioni di flusso [appropriate](http://docs.marketo.com/display/DOCS/Flow+Actions)per tenere traccia del coinvolgimento
+>* Impostare le azioni di flusso [appropriate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)per tenere traccia del coinvolgimento
 
 
 Create innanzitutto il webinar in GoToWebinar. Alcune impostazioni nella creazione del GoToWebinar vengono utilizzate da Marketo e alcune sono utilizzate solo da GoToWebinar.
 
-Dopo aver creato un evento Marketo e associato il GoToWebinar, i sistemi saranno in grado di condividere le informazioni di registrazione e partecipazione. Per informazioni sulla creazione di un GoToWebinar, consultate la [Guida utente GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+Dopo aver creato un evento Marketo e associato il GoToWebinar, i sistemi saranno in grado di condividere le informazioni di registrazione e partecipazione.
 
 Di seguito è riportato un elenco delle impostazioni utilizzate da Marketo.
 
@@ -36,7 +36,7 @@ Di seguito è riportato un elenco delle impostazioni utilizzate da Marketo.
 
 ## Data e ora {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`adattatore. Se apporti modifiche a tali informazioni, fai clic sul collegamento &quot;**Aggiorna da provider webinar**&quot; in **Azioni evento**, per consentire a Marketo di visualizzare le modifiche.
+Inserite le seguenti informazioni per il webinar e verranno trascinate in Marketo tramite l&#39;adattatore. Se apporti modifiche a tali informazioni, fai clic sul collegamento &quot;**Aggiorna da provider webinar**&quot; in **Azioni evento**, per consentire a Marketo di visualizzare le modifiche.
 
 **Data**  di inizio: immetti la data di inizio. Questo sarà visibile in Marketo.
 
@@ -56,7 +56,7 @@ Di seguito è riportato un elenco delle impostazioni utilizzate da Marketo.
 
 >[!TIP]
 >
->In GoToWebinar sono disponibili altri campi che NON influiscono sull’integrazione. Fare riferimento alla [Guida utente GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) per ulteriori informazioni su tali campi, in quanto non saranno trattati in questo articolo. Se hai bisogno di ulteriore aiuto per GoToWebinar, visita il [sito della Guida](http://support.logmeininc.com/gotowebinar).
+>Se hai bisogno di ulteriore aiuto per GoToWebinar, visita il [sito della Guida](https://support.logmeininc.com/gotowebinar).
 
 Ora, saltiamo su Marketo!
 
@@ -68,7 +68,7 @@ Ora, saltiamo su Marketo!
    >
    >Il tipo di canale dell&#39;evento selezionato deve essere **webinar**.
 
-1. Scegliete **GoToWebinar** dall&#39;elenco **Event** **Partner**.
+1. Scegliere **GoToWebinar** dall&#39;elenco **Partner evento**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ Le persone che si iscrivono al webinar vengono inviate al provider del webinar t
 
 ## Visualizzazione della pianificazione {#viewing-the-schedule}
 
-Nella [vista programmazione programma](http://docs.marketo.com/display/docs/program+schedule+view), fare clic sulla voce del calendario relativa all&#39;evento. Potete visualizzare la pianificazione sul lato destro dello schermo.
+Nella vista Pianificazione programma, fate clic sulla voce del calendario relativa all’evento. Potete visualizzare la pianificazione sul lato destro dello schermo.
 
 >[!NOTE]
 >
