@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: Utilizzare i filtri e gli attivatori degli annunci lead in una campagna intelligente - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di filtri e attivatori per annunci lead in una campagna avanzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,3 @@ Dopo aver attivato gli annunci lead di Facebook, puoi utilizzarli nelle campagne
 1. Aggiungete vincoli per personalizzarli.
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-
