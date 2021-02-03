@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: Creazione di un modulo - Documenti Marketo - Documentazione prodotto
 title: Creazione di un modulo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Creare e utilizzare un modulo su una pagina di destinazione per generare nuovi n
 
 >[!NOTE]
 >
->Scopri le operazioni eseguite da Marketo per [proteggere i moduli](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Scopri le operazioni eseguite da Marketo per [proteggere i moduli](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ Dolce! Ora che il modulo è stato creato, andiamo avanti e mettiamolo in ordine.
 
 >[!MORELIKETHIS]
 >
->* [Selezione di un tema modulo](select-a-form-theme.md)
->* [Aggiunta di un set di campi a un modulo](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [Selezione di un tema modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Aggiunta di un set di campi a un modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
