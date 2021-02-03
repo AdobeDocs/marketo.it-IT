@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Configurare le impostazioni degli eventi e sincronizzare il marketing con il webinar - Marketo Docs - Documentazione del prodotto
 title: Configurare le impostazioni evento e sincronizzare il marketing con il webinar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -53,16 +53,8 @@ Quando configurate un evento associato a un webinar ON24, la pianificazione dell
    >
    >Se aggiornate le informazioni sull&#39;evento in ON24, per visualizzare i nuovi dati è necessario fare clic su **Aggiorna da provider webinar** nel menu Azioni evento.
 
-   [creazione di campagne figlio e risorse locali](create-child-campaigns-and-local-assets.md)
-
-Ora puoi passare al passaggio successivo: .
+Ora puoi passare al passaggio successivo: [creazione di campagne figlio e risorse locali](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sugli eventi dell&#39;adattatore Marketo On24](understanding-marketo-on24-adapter-events.md)
->* [Creare campagne figlio e risorse locali](create-child-campaigns-and-local-assets.md)
-
->
-
-
-
+>[Informazioni sugli eventi dell&#39;adattatore Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
