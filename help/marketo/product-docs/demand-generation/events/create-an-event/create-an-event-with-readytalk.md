@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: Creazione di un evento con ReadyTalk - Marketo Docs - Documentazione prodotto
 title: Creazione di un evento con ReadyTalk
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Aggiungi ReadyTalk come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Impostare le azioni di flusso [appropriate](http://docs.marketo.com/display/DOCS/Flow+Actions)per tenere traccia del coinvolgimento
+>* Impostare le azioni di flusso [appropriate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)per tenere traccia del coinvolgimento
 
 
-Configurate innanzitutto l&#39;evento nel centro conferenze ReadyTalk. Se hai bisogno di aiuto, consulta il Centro risorse [ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Quando scegliete il tipo di registrazione, selezionate  **preregistratevi prima della riunione**. Se selezionate *registratevi al momento della riunione*, Marketo **non** acquisirà uno stato Registrato per le persone e lo stato sarà solo per le persone che partecipano *dopo* il webinar si conclude.
+Configurate innanzitutto l&#39;evento nel centro conferenze ReadyTalk. Se hai bisogno di aiuto, visita il [Centro risorse ReadyTalk](https://www.readytalk.com/resources/readytalk). Quando scegliete il tipo di registrazione, selezionate **pre-registrazione prima della riunione**. Se selezionate _registratevi al momento della riunione_, Marketo **non** acquisirà uno stato Registrato per le persone e lo stato sarà solo per le persone che partecipano _dopo_ il webinar si conclude.
 
 Lasciare **avvisare l&#39;utente di nuove registrazioni via e-mail** non selezionata.
 
@@ -78,7 +78,7 @@ Ora è possibile collegare l’evento a Marketo.
 
 ## Visualizzazione della pianificazione {#viewing-the-schedule}
 
-Nella [vista programmazione programma](http://docs.marketo.com/display/docs/program+schedule+view), fare clic sulla voce del calendario relativa all&#39;evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
+Nella vista Pianificazione programma, fate clic sulla voce del calendario relativa all’evento. Potete visualizzare la pianificazione sul lato destro dello schermo!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
