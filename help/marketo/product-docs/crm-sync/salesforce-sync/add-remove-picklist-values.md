@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: Aggiungere/rimuovere i valori degli elenchi di prelievo - Documenti Marketo - Documentazione prodotto
 title: Aggiungi/rimuovi valori elenco di selezione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Seguono alcune informazioni sull’aggiunta e la rimozione dei valori degli elen
 
 ## Aggiunta di valori di elenchi di contatti {#adding-picklist-values}
 
-1. Se un valore aggiuntivo viene aggiunto in Salesforce a un tipo di campo elenco di selezione, riceverete una [notifica](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) che identifica i moduli interessati.
+1. Se un valore aggiuntivo viene aggiunto in Salesforce a un tipo di campo elenco di selezione, riceverete una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) che identifica i moduli interessati.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Accedere all&#39;editor del modulo e [aggiungere il valore aggiuntivo](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) all&#39;elenco dei suggerimenti.
+1. Accedere all&#39;editor del modulo e [aggiungere il valore aggiuntivo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) all&#39;elenco dei suggerimenti.
 
 ## Rimuovi valori elenco puntato {#remove-picklist-values}
 
