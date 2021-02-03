@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Pubblicare pagine di destinazione su Facebook - Documenti Marketo - Documentazione prodotto
 title: Pubblicare le pagine di destinazione su Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Puoi pubblicare le pagine di destinazione su Facebook, incontrare il pubblico dove già si trovano e generare più traffico per i tuoi programmi.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Spark SMB, Standard &amp; Select. Enterprise con licenza separata.
 
@@ -65,8 +63,4 @@ Se stai lanciando un nuovo libro, potresti raggiungere alcuni dei tuoi destinata
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Per rimuovere la pagina di destinazione da Facebook, disapprovarla in Marketo e, quando richiesto, selezionare l&#39;opzione per rimuovere la scheda Facebook.
-
