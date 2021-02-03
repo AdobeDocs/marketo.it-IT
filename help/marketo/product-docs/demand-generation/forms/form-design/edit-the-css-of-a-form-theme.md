@@ -3,7 +3,7 @@ unique-page-id: 2359679
 description: Modificare il CSS di un tema modulo - Documenti Marketo - Documentazione prodotto
 title: Modificare il CSS di un tema modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Modificare il CSS di un tema modulo {#edit-the-css-of-a-form-theme}
 
-Sono disponibili alcuni [temi pregenerati tra cui è possibile scegliere ](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Tuttavia, se apprezzate la modifica dei CSS, potete apportare le modifiche desiderate. Ecco come.
+Sono disponibili alcuni [temi pregenerati tra cui è possibile scegliere ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Tuttavia, se apprezzate la modifica dei CSS, potete apportare le modifiche desiderate. Ecco come.
 
 >[!NOTE]
 >
 >Assicuratevi di conoscere i CSS se desiderate provarlo, in quanto il supporto di Marketo non è impostato per fornire assistenza con la codifica personalizzata. Inoltre, le modifiche apportate verranno applicate solo al modulo in corso di modifica.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Passare a **Form** **Settings**.
+1. Passare a **Impostazioni modulo**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -47,7 +47,7 @@ Sono disponibili alcuni [temi pregenerati tra cui è possibile scegliere ](../..
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Sotto l&#39;icona ingranaggio, fare clic su **Modifica** **Personalizzato** **CSS**.
+1. Sotto l&#39;icona ingranaggio, fate clic su **Modifica CSS personalizzato**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -59,7 +59,7 @@ Sono disponibili alcuni [temi pregenerati tra cui è possibile scegliere ](../..
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Per visualizzare il modulo personalizzato, fare clic su **Anteprima** **Bozza**.
+1. Per visualizzare il modulo personalizzato, fare clic su **Anteprima bozza**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
