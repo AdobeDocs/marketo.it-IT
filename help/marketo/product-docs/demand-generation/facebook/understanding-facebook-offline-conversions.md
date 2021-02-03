@@ -3,7 +3,7 @@ unique-page-id: 11383945
 description: Informazioni sulle conversioni offline di Facebook - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulle conversioni offline di Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -40,17 +40,12 @@ Ciò significa che l&#39;annuncio 1, nonostante avesse generato meno lead, aveva
 >
 >Senza le conversioni offline, l&#39;inserzionista probabilmente investirebbe più soldi in Ad 3. Con i dati di conversione offline, l&#39;inserzionista investirà più probabilmente in Ad 1.
 
-Potete [configurare le conversioni offline di Facebook](set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
+Potete [configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
 
-1. Accertati che l&#39;integrazione di [Facebook LaunchPoint](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) sia aggiornata.
+1. Accertati che l&#39;integrazione di [Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) sia aggiornata.
 1. Mappa le fasi del modello del ciclo di ricavi sulle fasi di conversione offline su Facebook.
 1. Quando un lead Facebook viene generato da un annuncio lead Facebook e raggiunge una fase mappata, Marketo invia i dati di conversione offline a Facebook diverse volte al giorno tramite un&#39;API sicura e automatizzata. I dati vengono visualizzati nel report Facebook Ads Manager (Gestione annunci Facebook).
 
 >[!MORELIKETHIS]
 >
->* [Configurare le conversioni offline di Facebook](set-up-facebook-offline-conversions.md)
-
->
-
-
-
+>[Configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
