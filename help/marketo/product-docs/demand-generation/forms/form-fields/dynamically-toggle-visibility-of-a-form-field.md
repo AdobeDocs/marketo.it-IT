@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Attiva/disattiva dinamicamente la visibilità di un campo modulo - Documenti Marketo - Documentazione prodotto
 title: Attiva/disattiva dinamicamente la visibilità di un campo modulo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungere un elenco di selezione paese al modulo](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
-
->
+>* [Aggiungere un elenco di selezione paese al modulo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-
-Una caratteristica davvero interessante dei moduli Marketo è che è possibile nascondere o mostrare in modo dinamico i campi dei moduli o [fieldsets](add-a-fieldset-to-a-form.md).
+Una caratteristica davvero interessante dei moduli Marketo è che è possibile nascondere o mostrare in modo dinamico i campi dei moduli o [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
@@ -29,15 +26,15 @@ Una caratteristica davvero interessante dei moduli Marketo è che è possibile n
 >
 >In questo esempio, è possibile nascondere il campo **State** a meno che **Country** non sia selezionato come &quot;Stati Uniti&quot;.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/editform-1.png)
 
-1. Selezionare il campo che si desidera nascondere o mostrare in modo dinamico e fare clic sul collegamento per **Visibilità** **Regole**.
+1. Selezionare il campo che si desidera nascondere o mostrare in modo dinamico e fare clic sul collegamento per **Regole di visibilità**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,17 +60,10 @@ Una caratteristica davvero interessante dei moduli Marketo è che è possibile n
 
    >[!NOTE]
    >
-   >In precedenza abbiamo convertito il Paese in un tipo di campo di selezione e [aggiunto tutti i paesi come valori](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >In precedenza abbiamo convertito il Paese in un tipo di campo di selezione e [aggiunto tutti i paesi come valori](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 Ed è tutto! Quando gli utenti compilano il modulo e selezionano Stati Uniti per Paese, il campo Stato viene visualizzato in modo dinamico con le opzioni specificate.
-
->[!NOTE]
->
->**Tubo profondo**
->
->Per saperne di più su [moduli](http://docs.marketo.com/display/docs/forms)?
-
