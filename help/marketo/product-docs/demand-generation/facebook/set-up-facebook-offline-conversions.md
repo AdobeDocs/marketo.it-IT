@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Configurare le conversioni offline di Facebook - Documenti Marketo - Documentazione del prodotto
 title: Configurare le conversioni offline di Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
 
 >[!PREREQUISITES]
 >
->* È necessario [impostare Facebook Lead Ads](set-up-facebook-lead-ads.md).
->* È necessario disporre di un modello approvato in [Modellatore ciclo ricavi](http://docs.marketo.com/display/docs/revenue+cycle+models).
-
->
-
+>* È necessario [impostare Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* È necessario disporre di un modello approvato in [Modellatore ciclo ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 
 ## Configurazione amministratore {#admin-configuration}
@@ -34,7 +31,7 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
 
    >[!NOTE]
    >
-   >Se non l&#39;hai ancora fatto, vai avanti e [configura gli annunci lead Facebook](set-up-facebook-lead-ads.md), quindi torna qui.
+   >Se non l&#39;hai ancora fatto, vai avanti e [configura gli annunci lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), quindi torna qui.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
    >
    >Attualmente, sono disponibili 10 eventi Facebook per mappare le fasi del ciclo di ricavi su:
    >
-   >    
-   >    
-   >    * Aggiungi informazioni di pagamento
-   >    * Aggiungi al carrello
-   >    * Aggiunge all&#39;elenco dei desideri
-   >    * Registrazioni completate
-   >    * Checkout avviati
-   >    * Person
-   >    * Altro
-   >    * Purchase
-   >    * Ricerche
-   >    * Visualizzazioni contenuto
+   >* Aggiungi informazioni di pagamento
+   >* Aggiungi al carrello
+   >* Aggiunge all&#39;elenco dei desideri
+   >* Registrazioni completate
+   >* Checkout avviati
+   >* Person
+   >* Altro
+   >* Purchase
+   >* Ricerche
+   >* Visualizzazioni contenuto
 
 
 1. Selezionate il passaggio da mappare, quindi dal menu a discesa **Conversione Facebook** selezionate l&#39;evento Facebook a cui desiderate mappare. Ripetete questo passaggio per mappare tutti gli stadi di RCM sulle fasi di conversione offline di Facebook.
@@ -108,13 +103,6 @@ Inviando dati di conversione offline a Facebook per le persone create tramite gl
    >
    >I dati di conversione offline vengono inviati da Marketo a Facebook più volte al giorno.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Informazioni sulle conversioni offline di Facebook](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Informazioni sulle conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
