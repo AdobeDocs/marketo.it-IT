@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: Modifica di un canale eventi - Documenti Marketo - Documentazione prodotto
 title: Modifica di un canale evento
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Un programma è una specifica iniziativa di marketing. Il **canale** è destinato ad essere il meccanismo di distribuzione, ad esempio Webinar, Tradeshow o Online Ad. Nel menu a discesa possono essere visualizzate diverse opzioni di canale, a seconda di quanto è disponibile nella propria istanza. È inoltre possibile [creare un proprio canale.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Un programma è una specifica iniziativa di marketing. Il **canale** è destinato ad essere il meccanismo di distribuzione, ad esempio Webinar, Tradeshow o Online Ad. Nel menu a discesa possono essere visualizzate diverse opzioni di canale, a seconda di quanto è disponibile nella propria istanza. È inoltre possibile [creare un proprio canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## Dalla scheda Riepilogo {#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ Un nuovo tipo di canale può essere assegnato anche dalla scheda **Setup** dell&
 
    ![](assets/tradeshowchange.png)
 
-1. Fare clic su **Salva.**
+1. Fare clic su **Salva**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
