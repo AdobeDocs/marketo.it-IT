@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: Utilizzo di account utente - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di account di persona
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Le attività relative agli account utente vengono visualizzate nel pannello **Ac
 
 >[!NOTE]
 >
->Le opzioni di Marketing Sales Insight **Add to Marketo Campaign **and **Send Email **attualmente non sono disponibili per gli account utente.
+>Le opzioni di Marketing Sales Insight **Add to Marketo Campaign** e **Send Email** non sono attualmente disponibili per gli account utente.
 
 ## Come si associano le opportunità a un account personale? {#how-do-i-associate-opportunities-to-a-person-account}
 
