@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: Aggiungere un set di campi a un modulo - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un set di campi a un modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 I set di campi sono fantastici. Raggruppano un gruppo di campi insieme. Puoi anche controllare un intero blocco!
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ Ce l&#39;avete!
 
 >[!TIP]
 >
->È possibile nascondere o mostrare in modo dinamico l&#39;intero campo a seconda di un altro campo. Informazioni sulle [regole di visibilità](dynamically-toggle-visibility-of-a-form-field.md).
-
+>È possibile nascondere o mostrare in modo dinamico l&#39;intero campo a seconda di un altro campo. Informazioni sulle [regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
