@@ -3,7 +3,7 @@ unique-page-id: 10096677
 description: Verificare L'Integrazione Degli Eventi ON24 - Documenti Marketo - Documentazione Del Prodotto
 title: Verificare l'integrazione degli eventi ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -35,10 +35,6 @@ Di seguito è spiegato in che modo i dati vengono aggiornati dopo l’evento:
 
 >[!MORELIKETHIS]
 >
->* [Esempio di integrazione evento ON24](example-on24-event-integration.md)
->* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
+>* [Esempio di integrazione evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
