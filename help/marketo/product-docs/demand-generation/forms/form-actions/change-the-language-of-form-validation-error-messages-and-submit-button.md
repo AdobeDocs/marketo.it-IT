@@ -3,9 +3,9 @@ unique-page-id: 2359654
 description: Modifica della lingua dei messaggi di errore/convalida del modulo e pulsante di invio - Documenti Marketo - Documentazione del prodotto
 title: Modifica della lingua dei messaggi di errore/convalida del modulo e pulsante Invia
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Sapevate che è possibile personalizzare il modulo per visualizzare messaggi in 
 >
 >In questo modo viene anche modificata la lingua del pulsante di invio.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Selezionare il modulo e fare clic su **Modifica modulo.**
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. In Impostazioni modulo **fare clic su** Impostazioni **.**
+1. In **Impostazioni modulo** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Selezionare la **Errore** **Lingua** desiderata.
+1. Selezionare la **lingua errore** desiderata.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -49,10 +49,7 @@ Sapevate che è possibile personalizzare il modulo per visualizzare messaggi in 
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Ricordare di [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
+   >Ricordare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
