@@ -3,9 +3,9 @@ unique-page-id: 2359543
 description: Aggiunta di un campo a un modulo - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un campo a un modulo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Aggiunta di un campo a un modulo {#add-a-field-to-a-form}
 
-Dopo aver [creato il modulo ](create-a-form.md) e [selezionato un tema](select-a-form-theme.md), è possibile aggiungere altri campi da compilare. Ecco come.
+Dopo aver [creato il modulo ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), è possibile aggiungere altri campi da compilare. Ecco come.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/editform-1.png)
 
@@ -39,14 +39,12 @@ Dopo aver [creato il modulo ](create-a-form.md) e [selezionato un tema](select-a
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Ora fai clic su** Approva e chiudi**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
 >[!NOTE]
 >
->**Promemoria**
->
 >Assicuratevi di approvare tutte le bozze delle pagine di destinazione create a causa delle modifiche apportate al modulo.
 
-Per niente male. Continuate il buon lavoro! Come fare per [rendere necessario un campo modulo](make-a-form-field-required.md)?
+Per niente male. Continuate il buon lavoro! Come fare per [rendere necessario un campo modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)?
