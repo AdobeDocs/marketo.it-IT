@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Modifica posizione etichetta modulo - Documenti Marketo - Documentazione prodotto
 title: Modifica posizione etichetta modulo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Modifica posizione etichetta modulo {#change-form-label-position}
 
-Quando si crea un modulo [è possibile modificare molto facilmente il posizionamento delle etichette dei campi del modulo. ](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) Ecco come.
+Quando si crea un modulo [è possibile modificare molto facilmente il posizionamento delle etichette dei campi del modulo. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) Ecco come.
 
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionare il modulo e fare clic su **Modifica** **Modulo**.
+1. Selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ Quando si crea un modulo [è possibile modificare molto facilmente il posizionam
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selezionare la **Label** **Position** desiderata.
+1. Selezionare la **Posizione etichetta** desiderata.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -50,18 +50,10 @@ Quando si crea un modulo [è possibile modificare molto facilmente il posizionam
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Ricordare di approvare la bozza della pagina di destinazione creata dalle modifiche al modulo.
 
 Ben fatto! Vedere quanto era semplice modificare le posizioni delle etichette in un modulo? OK, vediamo cosa possiamo fare per cambiare il font delle etichette del modulo.
 
 >[!MORELIKETHIS]
 >
->* [Modificare la famiglia di font del modulo](change-the-form-font-family.md)
-
->
-
-
-
+>[Modificare la famiglia di font del modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
