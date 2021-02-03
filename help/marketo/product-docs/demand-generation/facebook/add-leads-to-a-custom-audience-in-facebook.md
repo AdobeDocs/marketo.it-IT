@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Aggiunta di lead a un pubblico personalizzato in Facebook - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di lead a un pubblico personalizzato in Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Disponete già di un&#39;audience personalizzata in Facebook e desiderate aggiun
 
 >[!PREREQUISITES]
 >
->* [Creare un pubblico personalizzato in Facebook](create-a-custom-audience-in-facebook.md)
+>* [Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Accettate i ](https://www.facebook.com/ads/manage/customaudiences/tos.php) termini di pubblico personalizzati di Facebook all&#39;interno dell&#39;account Facebook.
 
 >
@@ -28,11 +28,11 @@ Disponete già di un&#39;audience personalizzata in Facebook e desiderate aggiun
 
    ![](assets/one.png)
 
-1. Selezionate la scheda **Lead**, quindi fate clic sull&#39;icona **Send Via Ad Bridge **in basso.
+1. Selezionate la scheda **Lead**, quindi fate clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
 
    ![](assets/two-1.png)
 
-1. Selezionare **Facebook **e fare clic su **Next**.
+1. Selezionare **Facebook** e fare clic su **Next**.
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ Disponete già di un&#39;audience personalizzata in Facebook e desiderate aggiun
 
    >[!NOTE]
    >
-   >**Aggiunta di lead al pubblico:saranno disponibili** solo audience di Facebook con un sottotipo personalizzato.\
+   >**Aggiungi i lead all&#39;audience**: saranno disponibili solo audience Facebook con un sottotipo personalizzato.\
    >**Rimuovere i lead dall&#39;audience**: rimuove i lead nell&#39;elenco statico o avanzato da un&#39;audience di Facebook.
 
 1. Al termine, lo stato verrà aggiornato.
@@ -53,10 +53,4 @@ Disponete già di un&#39;audience personalizzata in Facebook e desiderate aggiun
 
    >[!NOTE]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Creare un pubblico personalizzato in Facebook](create-a-custom-audience-in-facebook.md)
-
-
+   >[Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
