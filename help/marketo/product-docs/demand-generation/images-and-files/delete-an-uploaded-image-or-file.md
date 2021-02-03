@@ -3,9 +3,9 @@ unique-page-id: 2359873
 description: Eliminare un'immagine o un file caricato - Documenti Marketo - Documentazione prodotto
 title: Eliminare un’immagine o un file caricato
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. Selezionare **Images** e **Files** nel menu a sinistra, quindi fare clic su accanto al nome del file da eliminare.
+1. Selezionare **Immagini e file** nel menu a sinistra, quindi fare clic su accanto al nome del file da eliminare.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Fare clic su **File** **Azioni** e **Elimina**.
+1. Fare clic sul menu a discesa **Azioni file** e selezionare **Elimina**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Verificare di aver selezionato il file corretto e fare clic su **DELETE**.
+1. Verificare di aver selezionato il file corretto e fare clic su **Elimina**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -41,11 +41,7 @@ Ben fatto!
 
 >[!MORELIKETHIS]
 >
->* [Sostituire un&#39;immagine o un file caricato](replace-an-uploaded-image-or-file.md)
->* [Cerca immagini e file caricati](search-uploaded-images-and-files.md)
->* [Trovare l’URL di un’immagine o di un file caricato](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [Cerca immagini e file caricati](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [Trovare l’URL di un’immagine o di un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
