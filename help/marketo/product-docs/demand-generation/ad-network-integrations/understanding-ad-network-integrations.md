@@ -3,9 +3,9 @@ unique-page-id: 11382858
 description: Informazioni sulle integrazioni di Ad Network - Documenti Marketo - Documentazione di prodotto
 title: Informazioni sulle integrazioni di rete di annunci
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Le funzionalità includono:
 
    * Ad esempio, una persona cerca, vede e fa clic su un annuncio, quindi compila un modulo online. Dopo questo, riceve una demo offline e diventa un&#39;opportunità CRM. Ecco dove l&#39;inserzionista lo colpisce
 
-* Ritargeting dei visitatori di siti Web, utilizzando [Web Personalization](http://docs.marketo.com/display/docs/web+personalization) per riportarli al sito Web
+* Ritargeting dei visitatori di siti Web, utilizzando [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md) per riportarli al sito Web
 
    * Personalizza per segmento o verticale
 
@@ -44,19 +44,14 @@ Le funzionalità includono:
 
 Puoi utilizzare le integrazioni per:
 
-* [Aggiungi Google AdWords come servizio LaunchPoint](../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Aggiunta di lead a un pubblico personalizzato in Facebook](../../../product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Creare un pubblico personalizzato in Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Configurare le conversioni offline di Facebook](../../../product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Aggiungi Google AdWords come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Aggiunta di lead a un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |  | Dati audience | Ingestione lead | Conversione offline |
 |---|---|---|---|
 | ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
 | ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
 | ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
-
-## Guarda il video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
