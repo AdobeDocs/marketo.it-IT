@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: Creare un modello di pagina di destinazione gratuito esistente compatibile con Mobile - Documenti Marketo - Documentazione prodotto
 title: Creare un modello di pagina di destinazione gratuito esistente compatibile con Mobile
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # Rendere un modello di pagina di destinazione gratuito esistente compatibile con Mobile {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->I modelli delle pagine di destinazione creati prima della [release di gennaio 2015](../../../../release-notes/2015/release-notes-january-2015.md)devono essere aggiornati per essere compatibili con i dispositivi mobili.
 
 Può essere eseguito in due posizioni: Editor modelli ed Editor pagina di destinazione.
 
@@ -57,7 +53,9 @@ Può essere eseguito in due posizioni: Editor modelli ed Editor pagina di destin
 
 Grandi domande! Il modello deve avere i seguenti tag:
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  Se tutto ha un buon aspetto, vedrà questo messaggio.
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+Se tutto ha un buon aspetto, vedrà questo messaggio.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ Quando si modifica una pagina di destinazione e si fa clic sulla scheda mobile, 
    >
    >Attivando la versione mobile di un modello si creano le bozze delle pagine di destinazione che lo utilizzano.
 
-Fantastico! Ora è possibile [personalizzare la visualizzazione mobile](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) di tutte le pagine di destinazione che utilizzano questo modello.
-
->[!MORELIKETHIS]
->
->* [Personalizza visualizzazione mobile per la pagina di destinazione a forma libera](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+Fantastico! Ora è possibile [personalizzare la visualizzazione mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) di tutte le pagine di destinazione che utilizzano questo modello.
