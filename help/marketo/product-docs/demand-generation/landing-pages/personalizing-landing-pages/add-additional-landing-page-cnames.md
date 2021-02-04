@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Aggiungere CNAME aggiuntivi per pagina di destinazione - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di CNAME aggiuntivi per pagine di destinazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**Stesso dominio di primo livello - Buono! I cookie sono shared.go**.mycompany.com > **info**.mycompany.com **Diversi domini di primo livello - Bad! I cookie non sono condivisi.**
->vai.**mycompany**.com > go.**mynewcompany**.com
+>**Stesso dominio di primo livello - Buono! I cookie sono condivisi**.<br/> **go**.mycompany.com >  **info**.mycompany.com
+>
+>**Diversi domini di primo livello - Scorretto! I cookie sono _non_ condivisi**.<br/> vai.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
