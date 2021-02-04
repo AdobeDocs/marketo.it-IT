@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: Modelli per pagine di destinazione guidate - Documenti Marketo - Documentazione prodotto
 title: Modelli per pagine di destinazione guidati
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelli per pagine di destinazione guidate {#guided-landing-page-templates}
 
-Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con l&#39; [Editor pagina di destinazione guidato](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è completamente reattivo e basato sul framework di Bootstrap.
+Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con l&#39; [Editor pagina di destinazione guidato](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è completamente reattivo e basato sul framework di Bootstrap.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Per importare un modello in Marketo:
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [Modello 12-C](guided-landing-page-templates/template-12-c.md) | [Modello 12-D](guided-landing-page-templates/template-12-d.md) | [Modello 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [Modello 12-F](guided-landing-page-templates/template-12-f.md) | [Modello 13-A](guided-landing-page-templates/template-13-a.md) | [Modello 13-B](guided-landing-page-templates/template-13-b.md) |
+| [Modello 12-F](guided-landing-page-templates/template-12-f.md) | [Modello 13-C](guided-landing-page-templates/template-13-a.md) | [Modello 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
 | [Modello 13-A](guided-landing-page-templates/template-13-c.md) | [Modello 13-D](guided-landing-page-templates/template-13-d.md) | [Modello 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
