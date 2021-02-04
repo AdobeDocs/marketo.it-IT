@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: Informazioni sugli elementi e le variabili nei modelli guidati - Documenti Marketo - Documentazione prodotto
 title: Informazioni sugli elementi e le variabili nei modelli guidati
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Quando modificate una pagina di destinazione guidata, gli elementi vengono visua
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
 * ![—Snippet ](assets/image2015-5-20-12-3a47-3a45.png)Marketo
 
-Variabili
+## Variabili {#variables}
 
 Le variabili sono attributi simili a token che possono essere personalizzati dall’editor guidato della pagina di destinazione, come mostrato di seguito.
 
@@ -60,5 +60,4 @@ Esistono tre tipi di variabili: variabili stringa, variabili colore e variabili 
 
 >[!MORELIKETHIS]
 >
->[Creare un modello di pagina di destinazione guidato](create-a-guided-landing-page-template.md)
-
+>[Creare un modello di pagina di destinazione guidato](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
