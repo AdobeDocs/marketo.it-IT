@@ -3,7 +3,7 @@ unique-page-id: 2359705
 description: Aggiungere un nuovo modulo a una pagina di destinazione a forma libera - Marketo Docs - Documentazione prodotto
 title: Aggiungere un nuovo modulo a una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -17,18 +17,15 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
 >[!PREREQUISITES]
 >
->* [Creazione di un modulo](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [Creare una pagina di destinazione a forma libera](create-a-free-form-landing-page.md)
-
->
+>* [Creazione di un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [Creare una pagina di destinazione a forma libera](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
-
-1. Andate a **Marketing** **Activities**.
+1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Individuate la pagina di destinazione e fate clic su **Modifica** **Bozza**.
+1. Individuate la pagina di destinazione e fate clic su **Modifica bozza**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -43,13 +40,12 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 1. Quando si sceglie la pagina di follow-up sono disponibili tre opzioni:
 
    * **Pagina**  di destinazione: per selezionare una pagina di destinazione Marketo
-   * **URL esterno***** - per scegliere l&#39;URL desiderato
+   * **URL**  esterno - per scegliere l&#39;URL desiderato
+   * **Definito**  dal modulo - per utilizzare le impostazioni definite a livello di modulo
 
-   * **Modulo**** Defined** - per utilizzare le impostazioni definite a livello di modulo
    >[!NOTE]
    >
    >**Definizione**
-   >
    >
    >La pagina che segue è la pagina che gli utenti vedranno dopo aver inviato il modulo.
 
@@ -59,4 +55,4 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
    Ben fatto!
 
-Basta chiudere l&#39;editor della pagina di destinazione e [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Basta chiudere l&#39;editor della pagina di destinazione e [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
