@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: Aggiungere uno snippet a una pagina di destinazione - Marketo Docs - Documentazione prodotto
 title: Aggiungere uno snippet a una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Gli snippet sono piccoli frammenti di codice HTML che possono seguire le regole 
 
 >[!PREREQUISITES]
 >
->* [Creare uno snippet](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
->
-
-
+>[Creare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. Selezionate la pagina di destinazione e fate clic su **Modifica bozza**.
 
@@ -41,6 +37,6 @@ Gli snippet sono piccoli frammenti di codice HTML che possono seguire le regole 
 
    >[!NOTE]
    >
-   >Per aggiungere uno snippet a una pagina di destinazione guidata, consultate [questo articolo](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
+   >Per aggiungere uno snippet a una pagina di destinazione guidata, consultate [questo articolo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Un lavoro fantastico! Ora sai come aggiungere snippet alle pagine di destinazione.
