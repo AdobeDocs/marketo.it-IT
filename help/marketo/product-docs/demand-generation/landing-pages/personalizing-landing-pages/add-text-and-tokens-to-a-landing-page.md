@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: Aggiungere testo e token a una pagina di destinazione - Documenti Marketo - Documentazione prodotto
 title: Aggiungere testo e token a una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -73,5 +73,4 @@ I token sono parti dinamiche di testo che possono personalizzare la pagina di de
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Missione Completa! Ora hai un token sulla pagina di destinazione.
-
+   Missione Completata! Ora hai un token sulla pagina di destinazione.
