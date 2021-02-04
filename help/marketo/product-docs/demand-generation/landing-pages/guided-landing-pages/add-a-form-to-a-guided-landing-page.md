@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: Aggiungere un modulo a una pagina di destinazione guidata - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un modulo a una pagina di destinazione guidata
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
 >[!PREREQUISITES]
 >
->* [Creare una pagina di destinazione guidata](create-a-guided-landing-page.md)
-
->
-
-
+>[Creare una pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Andate all&#39;area **Attività di marketing**.
 
@@ -61,4 +57,4 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di ri
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ora basta chiudere l&#39;editor della pagina di destinazione e [approvare la bozza della pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Ora basta chiudere l&#39;editor della pagina di destinazione e [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
