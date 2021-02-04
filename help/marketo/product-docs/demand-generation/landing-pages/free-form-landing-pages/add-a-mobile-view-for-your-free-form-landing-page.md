@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: Aggiungere una vista mobile alla pagina di destinazione a forma libera - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere una vista mobile alla pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->La visualizzazione mobile funziona su schermi con una larghezza pari o inferiore a 480 pixel. In altre parole, gli smartphone. Ulteriori [informazioni sulle risoluzioni del dispositivo](http://mydevice.io/devices/.).
+>La visualizzazione mobile funziona su schermi con una larghezza pari o inferiore a 480 pixel. In altre parole, gli smartphone. Ulteriori [informazioni sulle risoluzioni del dispositivo](https://mydevice.io/devices/).
 
 1. Andate a **Marketing Activities**.
 
@@ -41,21 +41,12 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Potrebbe essere necessario aggiornare il modello a forma libera. Se viene visualizzato questo messaggio, leggi rapidamente come [rendere mobile compatibile un modello di pagina di destinazione a forma libera esistente](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Potrebbe essere necessario aggiornare il modello a forma libera. Se viene visualizzato questo messaggio, leggi rapidamente come [rendere mobile compatibile un modello di pagina di destinazione a forma libera esistente](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Fantastico! È stata attivata la versione mobile della pagina di destinazione. Fare clic su **Chiudi. **
+1. Fantastico! È stata attivata la versione mobile della pagina di destinazione. Fare clic su **Chiudi**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Ora è possibile [personalizzare la visualizzazione mobile](customize-mobile-view-for-your-free-form-landing-page.md).
+   Ora è possibile [personalizzare la visualizzazione mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
-
->[!MORELIKETHIS]
->
->* [Personalizza visualizzazione mobile per la pagina di destinazione a forma libera](customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
