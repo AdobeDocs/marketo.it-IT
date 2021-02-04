@@ -3,9 +3,9 @@ unique-page-id: 2359713
 description: Rapporto sulle prestazioni della pagina di destinazione - Documenti Marketo - Documentazione del prodotto
 title: Rapporto sulle prestazioni della pagina di destinazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Rapporto sulle prestazioni della pagina di destinazione {#landing-page-performance-report}
 
-Scopri quante persone hanno compilato il `forms` nel `landing pages` e quante erano nuove.
+Verificare quante persone hanno compilato i moduli nelle pagine di destinazione e quanti di essi erano nuovi.
 
-1. [Create un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo di  [rapporto](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md) Prestazioni pagina di destinazione.
-1. [Impostate l&#39;intervallo di tempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda Rapporto.
+1. [Create un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo di  [rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) Prestazioni pagina di destinazione.
+1. [Impostate l&#39;intervallo di tempo del ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda Rapporto.
 1. È tutto! Esplorate il rapporto per valutare il funzionamento delle pagine di destinazione.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
@@ -25,9 +25,9 @@ Scopri quante persone hanno compilato il `forms` nel `landing pages` e quante er
 
    >[!TIP]
    >
-   >Trova le pagine con la percentuale di conversione più alta! [Ordinate il ](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) rapporto in quella colonna e scegliete Ordinamento decrescente.
+   >Trova le pagine con la percentuale di conversione più alta! [Ordinate il ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) rapporto in quella colonna e scegliete Ordinamento decrescente.
 
-   L&#39;icona AB nel rapporto indica che gli stati sono il totale per tutte le pagine del gruppo di test della [pagina di destinazione](landing-page-test-groups.md).
+   L&#39;icona AB nel rapporto indica che gli stati sono il totale per tutte le pagine del gruppo di test della [pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Scorri verso destra per vedere quante visite sono state effettuate da varie piattaforme di social media.
 
@@ -35,19 +35,8 @@ Scopri quante persone hanno compilato il `forms` nel `landing pages` e quante er
 
 >[!NOTE]
 >
->L&#39;attività generata dal pulsante [social con analytics](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) non è inclusa in questo campo. Per tali statistiche, consultate il [Social Dashboard](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
-
->[!NOTE]
->
->**Tubo profondo**
->
->Ulteriori informazioni su altri report interessanti nella sezione [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>L&#39;attività generata dal pulsante [social con analytics](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) non è inclusa in questo campo. Per tali statistiche, consultate il [Social Dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >
->* [Filtrare il ](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) rapporto sulle prestazioni della pagina di destinazione in base a risorse locali o globali.
-
->
-
-
-
+>[Filtrare il ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) rapporto sulle prestazioni della pagina di destinazione in base a risorse locali o globali.
