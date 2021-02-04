@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: Gruppi di test della pagina di destinazione - Marketo Docs - Documentazione del prodotto
 title: Gruppi di test della pagina di destinazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
 
 >[!PREREQUISITES]
 >
->[Creare due o più pagine](../../../../getting-started/quick-wins/landing-page-with-a-form.md) di destinazione, preferibilmente con un modulo.
+>[Creare due o più pagine](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) di destinazione, preferibilmente con un modulo.
 
 1. In Design Studio, fare clic su **Nuovo**. Nel menu a discesa, selezionare **Nuovo gruppo di test**.
 
@@ -27,10 +27,8 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
    >
    >Gli altri modi per creare un gruppo di test sono:
    >
-   >    
-   >    
-   >    * Fare clic con il pulsante destro del mouse su una pagina di destinazione nella struttura e selezionare **Converti in gruppo di test**
-   >    * Per creare un gruppo di test della pagina di destinazione in un programma, scegliete **AB Test Group** nel menu **New Local Asset** (Nuova risorsa locale)
+   >* Fare clic con il pulsante destro del mouse su una pagina di destinazione nella struttura e selezionare **Converti in gruppo di test**
+   >* Per creare un gruppo di test della pagina di destinazione in un programma, scegliete **AB Test Group** nel menu **New Local Asset** (Nuova risorsa locale)
 
 
 1. Immettete un nome e una descrizione facoltativa. Selezionare le pagine di destinazione da verificare e fare clic su **Crea**.
@@ -56,4 +54,3 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
    >[!TIP]
    >
    >Se si desidera eliminare il gruppo di test, fare clic su **Azioni gruppo di test** e selezionare **Elimina gruppo di test**.
-
