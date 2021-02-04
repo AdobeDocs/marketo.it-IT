@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: Creare un modello di pagina di destinazione a forma libera - Documenti Marketo - Documentazione prodotto
 title: Creare un modello di pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ Le pagine di destinazione a forma libera richiedono meno conoscenze tecniche ris
    >Selezionare **Disabilita monitoraggio Munchkin** se si desidera impedire la precompilazione dei moduli, oppure se non si desidera tenere traccia del comportamento Web in una pagina specifica.\
    >Selezionate **Convalida compatibilità mobile** per essere certi che il codice sia compatibile con i dispositivi mobili.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >    * [Creare una pagina di destinazione a forma libera](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [Creare un modello di pagina di destinazione guidato](create-a-guided-landing-page-template.md)
-   >    * [Informazioni sulle pagine di destinazione a forma libera e guidate](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [Creare una pagina di destinazione a forma libera](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Creare un modello di pagina di destinazione guidato](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Informazioni sulle pagine di destinazione a forma libera e guidate](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
