@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: Creare una pagina di destinazione a forma libera - Marketo Docs - Documentazione prodotto
 title: Creare una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le pagine di destinazione a forma libera possono essere create come risorse loca
 
 >[!NOTE]
 >
->Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagina di destinazione guidati e a forma libera.
+>Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagina di destinazione guidati e a forma libera.
 
 ## Creare una pagina di destinazione a forma libera in un programma {#create-a-free-form-landing-page-in-a-program}
 
@@ -55,11 +55,11 @@ Le pagine di destinazione a forma libera possono essere create come risorse loca
 
 ## Creare una pagina di destinazione a forma libera in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Passare alla **Progettazione** **Studio**.
+1. Andate a **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Fare clic su **Nuovo**, quindi su **Nuova pagina di destinazione.**
+1. Fare clic su **Nuovo**, quindi su **Nuova pagina di destinazione**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ Le pagine di destinazione a forma libera possono essere create come risorse loca
 >[!TIP]
 >
 >Deselezionare &quot;Apri editor pagina di destinazione per una nuova pagina&quot; se non si desidera che l&#39;editor si apra subito dopo aver fatto clic su **Crea**.
-
