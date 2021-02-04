@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: Aggiungere un'immagine a una pagina di destinazione guidata - Documenti Marketo - Documentazione prodotto
 title: Aggiungere un’immagine a una pagina di destinazione guidata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ A differenza delle pagine di destinazione a forma libera, le pagine di destinazi
 
    >[!NOTE]
    >
-   >La modalità di ridimensionamento dell’immagine dipende dal modello. Ulteriori informazioni su [Modelli per pagina di destinazione guidati](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >La modalità di ridimensionamento dell’immagine dipende dal modello. Ulteriori informazioni su [Modelli per pagina di destinazione guidati](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >La specifica di un collegamento per un&#39;immagine nell&#39;editor non è attualmente supportata. Utilizzate invece un elemento RTF.
-
