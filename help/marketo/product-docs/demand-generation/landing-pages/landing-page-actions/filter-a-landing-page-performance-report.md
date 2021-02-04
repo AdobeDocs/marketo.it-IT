@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: Filtrare un report sulle prestazioni della pagina di destinazione - Marketo Docs - Documentazione del prodotto
 title: Filtrare un report sulle prestazioni della pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrare un report sulle prestazioni della pagina di destinazione {#filter-a-landing-page-performance-report}
 
-Concentrare il report sulle prestazioni della [pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) sulle pagine di destinazione dei programmi (risorse locali), su quelle in Design Studio (risorse globali) o su quelle archiviate.
+Concentrare il report sulle prestazioni della [pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) sulle pagine di destinazione dei programmi (risorse locali), su quelle in Design Studio (risorse globali) o su quelle archiviate.
 
 1. Andate a **Analytics** (o **Marketing Activities**).
 
@@ -42,10 +42,3 @@ Concentrare il report sulle prestazioni della [pagina di destinazione](../../../
 1. Hai finito! Fare clic sulla scheda **Report** per visualizzare il rapporto filtrato.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**Tubo profondo**
->
->Scopri tutte le informazioni sui report in [base reporting](http://docs.marketo.com/display/docs/basic+reporting).
-
