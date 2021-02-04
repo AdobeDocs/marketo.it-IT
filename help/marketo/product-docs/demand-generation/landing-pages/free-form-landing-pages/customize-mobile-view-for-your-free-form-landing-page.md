@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Personalizza visualizzazione mobile per la tua pagina di destinazione a forma libera - Documenti Marketo - Documentazione prodotto
 title: Personalizza visualizzazione mobile per la pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungere una vista mobile alla pagina di destinazione a forma libera](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[Aggiungere una vista mobile alla pagina di destinazione a forma libera](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 La visualizzazione mobile della pagina di destinazione a forma libera è prevalentemente automatica, ma è possibile personalizzarla. Ecco come.
 
@@ -49,11 +45,12 @@ Per impostazione predefinita, tutto ciò che si trova nella visualizzazione desk
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Cose importanti da sapere:  {#important-things-to-know}
+## Cose importanti da sapere: {#important-things-to-know}
 
 * Le immagini si espanderanno fino alla larghezza del dispositivo mobile. Se desiderate immagini più piccole, trascinate l’elemento RTF e aggiungete l’immagine da tale elemento.
 * Utilizzare solo moduli Forms 2.0. Sono reattivi e si regolano automaticamente.
-* È possibile modificare un solo elemento del modello, BODY#bodyid (Mobile). È possibile utilizzare questa opzione per modificare il colore di sfondo.\
+* È possibile modificare un solo elemento del modello, BODY#bodyid (Mobile). È possibile utilizzare questa opzione per modificare il colore di sfondo.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Nascondere un elemento dalla vista mobile {#hide-an-element-from-the-mobile-view}
@@ -112,13 +109,6 @@ Per impostazione predefinita, tutto ciò che si trova nella visualizzazione desk
 
 Divertiti!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->* [Creare un modello di pagina di destinazione gratuito esistente compatibile con Mobile](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[Creare un modello di pagina di destinazione gratuito esistente compatibile con Mobile](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
