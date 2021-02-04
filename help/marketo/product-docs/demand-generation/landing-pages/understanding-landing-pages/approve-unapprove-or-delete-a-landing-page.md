@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: Approvare, annullare l'approvazione o eliminare una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
 title: Approvare, annullare l’approvazione o eliminare una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
    >[!TIP]
    >
-   >È possibile [approvare più pagine alla volta](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) per semplificare la vita.
+   >È possibile [approvare più pagine alla volta](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) per semplificare la vita.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Una volta approvata, l&#39;icona della pagina di destinazione sarà contrassegnata da un segno di spunta verde.
 
-1. Disapprovare una pagina di destinazione
+## Disapprovare una pagina di destinazione {#unapprove-a-landing-page}
+
 1. Selezionate una pagina di destinazione, andate a **Azioni pagina di destinazione** e fate clic su **Annulla approvazione**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 >[!NOTE]
 >
->La pagina di destinazione non approvata non viene più pubblicata sul Web e non genererà alcuna attività aggiuntiva. I visitatori delle pagine di destinazione non approvate e delle relative schede Facebook visualizzeranno la [pagina di fallback](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>La pagina di destinazione non approvata non viene più pubblicata sul Web e non genererà alcuna attività aggiuntiva. I visitatori delle pagine di destinazione non approvate e delle relative schede Facebook visualizzeranno la [pagina di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Eliminare una pagina di destinazione {#delete-a-landing-page}
 
