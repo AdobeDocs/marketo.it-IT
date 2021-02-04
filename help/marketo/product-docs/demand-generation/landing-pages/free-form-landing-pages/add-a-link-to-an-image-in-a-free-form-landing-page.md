@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: Aggiungere un collegamento a un’immagine in una pagina di destinazione a forma libera - Marketo Docs - Documentazione prodotto
 title: Aggiungere un collegamento a un’immagine in una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Desideri creare un collegamento a un’altra pagina o sito con un’immagine sul
 
 >[!PREREQUISITES]
 >
->* [Aggiungere un’immagine a una pagina di destinazione a forma libera](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[Aggiungere un’immagine a una pagina di destinazione a forma libera](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Fai clic sull’immagine a cui desideri aggiungere un collegamento.
 
@@ -31,23 +27,12 @@ Desideri creare un collegamento a un’altra pagina o sito con un’immagine sul
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copiare o digitare il collegamento nella casella **linkUrl **box.
+1. Copiare o digitare il collegamento nella casella **linkUrl**.
 
    ![](assets/add-link.png)
 
-   Congratulazioni! È stato aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora è possibile visualizzare in anteprima la pagina [per visualizzarla in azione.](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+   Congratulazioni! È stato aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora è possibile visualizzare in anteprima la pagina [per visualizzarla in azione.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 >[!TIP]
 >
 >Verifica sempre le tue pagine!
-
->[!NOTE]
->
->**Articoli correlati**
->
->* [Anteprima di una pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-
->
-
-
-
