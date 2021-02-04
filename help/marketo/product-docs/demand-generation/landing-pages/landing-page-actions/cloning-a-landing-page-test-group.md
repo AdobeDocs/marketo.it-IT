@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: Clonazione di un gruppo di test della pagina di destinazione - Marketo Docs - Documentazione del prodotto
 title: Clonazione di un gruppo di test per una pagina di destinazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Da Design Studio è possibile trovare e duplicare un gruppo di test per la pagin
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. Al termine, fare clic su **Crea.**
+1. Al termine, fare clic su **Crea**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ Da Design Studio è possibile trovare e duplicare un gruppo di test per la pagin
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    Ora il gruppo segue attivamente visite e completamenti del modulo per vedere quale pagina di destinazione offre le prestazioni migliori.
-
