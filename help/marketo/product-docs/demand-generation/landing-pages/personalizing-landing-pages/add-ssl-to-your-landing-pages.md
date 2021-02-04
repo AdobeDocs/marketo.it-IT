@@ -3,7 +3,7 @@ unique-page-id: 2359828
 description: Aggiungere SSL alle pagine di destinazione - Marketo Docs - Documentazione prodotto
 title: Aggiungere SSL alle pagine di destinazione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -19,6 +19,6 @@ Quando si compila un modulo Web o si visita una pagina di destinazione ospitata 
 
 Marketo tiene traccia di &quot;Visited Web Page&quot; e &quot;Click Link on Web Page&quot; per impostazione predefinita su un protocollo HTTP non protetto. Se desiderate che i vostri collegamenti di tracciamento siano protetti con un proprio certificato, dovete avere Markeper creare un server non condiviso separato per abilitarlo. Per proteggere tutti gli aspetti dell&#39;interazione di un contatto con l&#39;utente, in genere si tratta di proteggere sia le pagine di destinazione che i collegamenti di tracciamento.
 
-Per domande frequenti sull&#39;aggiunta di SSL alle pagine di destinazione, consultate [questo articolo](http://nation.marketo.com/docs/DOC-5612).
+Per domande frequenti sull&#39;aggiunta di SSL alle pagine di destinazione, consultate [questo articolo](https://nation.marketo.com/docs/DOC-5612).
 
 Se desiderate SSL per le pagine di destinazione di Marketo, contattate il rappresentante commerciale di Marketo.
