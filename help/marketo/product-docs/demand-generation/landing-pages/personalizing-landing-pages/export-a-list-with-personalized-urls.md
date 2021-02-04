@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Esportare un elenco con URL personalizzati - Documenti Marketo - Documentazione prodotto
 title: Esportare un elenco con URL personalizzati
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Abilita URL personalizzati per il tuo account](enable-personalized-urls-for-your-account.md)
->* [Abilitare gli URL personalizzati per una pagina di destinazione](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [Abilita URL personalizzati per il tuo account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Abilitare gli URL personalizzati per una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. Selezionate l&#39;elenco o l&#39;elenco smart, fate clic sulla scheda **Lead** per ottenere i risultati e quindi sull&#39;icona excel. INLINE Accertarsi che siano visibili **Marketo Unique Code **e **Marketo Unique Name** [colonne](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Selezionate l&#39;elenco o l&#39;elenco smart, fate clic sulla scheda **Lead** per ottenere i risultati e quindi sull&#39;icona excel. INLINE Accertarsi che siano visibili **Codice univoco marketing** e **Nome univoco marketing** [colonne](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -53,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Se sono presenti lead con lo stesso nome e cognome, i numeri vengono aggiunti automaticamente per garantire che gli URL rimangano univoci.
-
