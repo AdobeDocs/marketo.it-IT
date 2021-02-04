@@ -3,7 +3,7 @@ unique-page-id: 2359707
 description: Aggiunta di un rettangolo a una pagina di destinazione a forma libera - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un rettangolo a una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I rettangoli sulle pagine di destinazione sono particolarmente indicati per evidenziare un’area del testo.
 
-1. Selezionare una pagina di destinazione a forma libera e fare clic su **Modifica** **Bozza**.
+1. Selezionate una pagina di destinazione a forma libera e fate clic su **Modifica bozza**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -27,7 +27,7 @@ I rettangoli sulle pagine di destinazione sono particolarmente indicati per evid
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Selezionare il rettangolo e utilizzare la **Proprietà** **Foglio** per apportare le modifiche necessarie.
+1. Selezionare il rettangolo e utilizzare la **finestra delle proprietà** per apportare le modifiche necessarie.
 
    >[!TIP]
    >
