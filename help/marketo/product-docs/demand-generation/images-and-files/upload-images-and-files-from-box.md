@@ -3,7 +3,7 @@ unique-page-id: 2359868
 description: Caricare immagini e file da Box - Marketo Docs - Documentazione prodotto
 title: Carica immagini e file da una casella
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Potete caricare i file da Box per utilizzarli nelle pagine di destinazione e nelle e-mail.
 
-1. Passare a **Design** **Studio**.
+1. Vai a **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Vai a** Immagini e file**. Fare clic su **Azioni file** e selezionare **Acquisisci immagini da Web**.
+1. Vai a **Immagini e file**. Fare clic su **Azioni file** e selezionare **Acquisisci immagini da Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
