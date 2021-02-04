@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: Aggiungere un video a una pagina di destinazione a forma libera - Marketo Docs - Documentazione del prodotto
 title: Aggiungere un video a una pagina di destinazione a forma libera
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Inserite i video con opzioni di condivisione per social network nelle pagine di destinazione.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
@@ -35,9 +33,9 @@ Inserite i video con opzioni di condivisione per social network nelle pagine di 
 
    >[!NOTE]
    >
-   >La funzione **Crea nuovo** viene visualizzata solo nelle attività di marketing; non è disponibile in Design Studio. In Design Studio sono disponibili solo i video già creati. Tuttavia, potete creare una condivisione video *all&#39;interno di un programma* selezionando **Nuovo** > **Nuova risorsa locale.** Potete quindi selezionarlo dall’elenco a discesa, come illustrato di seguito.
+   >La funzione **Crea nuovo** viene visualizzata solo nelle attività di marketing; non è disponibile in Design Studio. In Design Studio sono disponibili solo i video già creati. Tuttavia, potete creare una condivisione video _all&#39;interno di un programma_ selezionando **Nuovo** > **Nuova risorsa locale**. Potete quindi selezionarlo dall’elenco a discesa, come illustrato di seguito.
 
-1. Immettete l’URL del video di YouTube, quindi denominate il video. Nell&#39;elenco a discesa Clona da, selezionare **Nessuno,**, quindi fare clic su **Inserisci.**
+1. Immettete l’URL del video di YouTube, quindi denominate il video. Nell&#39;elenco a discesa Clona da, selezionare **Nessuno**, quindi fare clic su **Inserisci**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
@@ -45,9 +43,8 @@ Inserite i video con opzioni di condivisione per social network nelle pagine di 
 >
 >Per risparmiare tempo, potete utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
 
-Congratulazioni! È stata aggiunta una condivisione video alla pagina di destinazione a forma libera. Approva la pagina di destinazione e la condivisione video è live. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video nel sito Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Congratulazioni! È stata aggiunta una condivisione video alla pagina di destinazione a forma libera. Approva la pagina di destinazione e la condivisione video è live. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video nel sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->Al termine, potete tuttavia modificare le impostazioni della condivisione video, se necessario. Iniziate con [personalizzazione del flusso di condivisione](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e dove si apre il prompt di condivisione).
-
+>Al termine, potete tuttavia modificare le impostazioni della condivisione video, se necessario. Iniziate con [personalizzazione del flusso di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e dove si apre il prompt di condivisione).
