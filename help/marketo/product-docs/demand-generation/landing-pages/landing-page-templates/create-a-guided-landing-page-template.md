@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: Creare un modello di pagina di destinazione guidata - Documenti Marketo - Documentazione prodotto
 title: Creare un modello di pagina di destinazione guidato
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Dive profonde:** Stanchi della lettura? [Guardate questo ](https://youtu.be/3O7e4GdZKsM) video con istruzioni dettagliate.
+>Stanco di leggere? [Guardate questo ](https://youtu.be/3O7e4GdZKsM) video con istruzioni dettagliate.
 
 I modelli delle pagine di destinazione guidati hanno una sintassi particolare. Utilizzate questa sintassi per specificare cosa è personalizzabile e dove termina il contenuto su ciascuna pagina di destinazione creata a partire dal modello. Solo le aree o le variabili specificate come modificabili saranno disponibili per la personalizzazione nell’editor della pagina di destinazione &quot;Guidata&quot;.
 
@@ -46,13 +46,13 @@ Il contenuto di un elemento con classe mktoText (se fornito) verrà utilizzato c
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### Immagine {#image}
 
 Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare un `<div>`, che specifica un contenitore in cui inserire l&#39;immagine, oppure un tag `<img>`.
 
-## Opzione 1 - Utilizzate un <div> {#option-use-a-div}
+## Opzione 1 - Utilizzare un `<div>` {#option-use-a-div}
 
 Attributi richiesti:
 
