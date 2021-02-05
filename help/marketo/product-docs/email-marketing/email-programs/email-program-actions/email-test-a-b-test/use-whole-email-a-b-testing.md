@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Usa test A/B "E-mail intera" - Documenti Marketo - Documentazione prodotto
 title: Usa test A/B per "E-mail intera"
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,8 @@ ht-degree: 0%
 
    Ok, siamo quasi lì. Ora è necessario [definire i criteri per il vincitore del test A/B](define-the-a-b-test-winner-criteria.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
