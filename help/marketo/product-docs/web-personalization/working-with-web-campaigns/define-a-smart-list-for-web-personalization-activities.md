@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definire un elenco avanzato per le attività di personalizzazione Web - Documenti Marketo - Documentazione prodotto
 title: Definire un elenco avanzato per le attività di personalizzazione Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Utilizza un attivatore per inviare un messaggio e-mail o un avviso, oppure modif
 
    >[!TIP]
    >
-   >In una campagna intelligente con attivatori e filtri, gli attivatori si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passeranno attraverso il flusso.
+   >In una campagna intelligente con attivatori e filtri, i trigger si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passeranno attraverso il flusso.
 
    >[!NOTE]
    >
@@ -62,9 +62,8 @@ Utilizza un attivatore per inviare un messaggio e-mail o un avviso, oppure modif
 
    [Definisci elenco avanzato per Smart Campaign | Batch](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
