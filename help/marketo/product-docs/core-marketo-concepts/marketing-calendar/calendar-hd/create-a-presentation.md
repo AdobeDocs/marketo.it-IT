@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: Creare una presentazione - Documenti Marketo - Documentazione del prodotto
 title: Creare una presentazione
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Create una presentazione per proiettare le visualizzazioni e gli obiettivi del calendario del team su un HDTV. Presentations è specifico per Workspace.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
