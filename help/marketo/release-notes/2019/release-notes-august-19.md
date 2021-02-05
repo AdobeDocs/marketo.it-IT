@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Note sulla versione - Agosto '19 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Agosto '19
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Le seguenti funzionalità si trovano su un ciclo non trimestrale e verranno rila
 * **Onboarding:guida dettagliata** passo-passo per semplificare e migliorare l&#39;onboarding guidando nuovi utenti attraverso la configurazione delle istanze.
 * **Miglioramento del layout delle pagine Persone:** gestite le persone e i gruppi attraverso le importazioni di elenchi e le azioni in blocco nel layout delle nuove persone.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Contatta il tuo rappresentante di Marketo per saperne di più.
 
