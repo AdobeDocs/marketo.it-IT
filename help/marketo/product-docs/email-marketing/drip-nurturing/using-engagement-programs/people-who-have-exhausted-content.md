@@ -3,7 +3,7 @@ unique-page-id: 2359953
 description: Persone Che Hanno Esaurito Il Contenuto - Marketo Docs - Documentazione Di Prodotto
 title: Persone Con Contenuto Esaurito
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -60,4 +60,3 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
    >[!NOTE]
    >
    >Questo numero verrà aggiornato immediatamente dopo ogni cast.
-
