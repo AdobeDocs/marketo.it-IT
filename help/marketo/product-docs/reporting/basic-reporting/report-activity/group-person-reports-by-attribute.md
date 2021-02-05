@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Rapporti di gruppi di persone per attributo - Documenti Marketo - Documentazione prodotto
 title: Rapporti sulla persona del gruppo per attributo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,8 @@ Potete raggruppare i rapporti [persona](http://docs.marketo.com/display/docs/bas
    >
    >Ulteriori informazioni sui report delle persone e altri tipi di report nel corso [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)informazioni approfondite.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
