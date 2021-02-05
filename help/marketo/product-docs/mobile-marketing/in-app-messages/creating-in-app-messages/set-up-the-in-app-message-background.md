@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: Impostazione dello sfondo dei messaggi in-app - Documenti Marketo - Documentazione del prodotto
 title: Configurare lo sfondo del messaggio in-app
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ La selezione dello sfondo di un messaggio è un passo importante per completare 
 
    [impostare il pulsante Ignora](set-up-the-dismiss-button-and-approve-the-message.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
