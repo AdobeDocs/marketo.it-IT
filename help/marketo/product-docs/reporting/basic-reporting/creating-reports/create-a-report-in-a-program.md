@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: Creare un report in un programma - Documenti Marketo - Documentazione del prodotto
 title: Creare un report in un programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,8 @@ Eseguite un rapporto per analizzare persone, programmi, pagine di destinazione, 
    >
    >Potete velocemente ottenere molti rapporti. Ricorda di [eliminare un report](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) non più necessario.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >Potete [modificare un intervallo di tempo per il rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [iscrivervi a un rapporto di base](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [esportare un rapporto in Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrare le persone in un rapporto con un elenco avanzato](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) e [altro](http://docs.marketo.com/display/docs/basic+reporting).
