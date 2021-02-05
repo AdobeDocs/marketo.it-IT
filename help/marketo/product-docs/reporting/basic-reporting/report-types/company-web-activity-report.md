@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Report attività Web società - Documenti Marketo - Documentazione prodotto
 title: Report attività Web società
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Create un report sull&#39;attività di [pagina Web](web-page-activity-report.md)
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Visualizzare persone o visitatori anonimi nei rapporti Web](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
