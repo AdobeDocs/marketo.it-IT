@@ -3,9 +3,9 @@ unique-page-id: 2359463
 description: Approvare uno snippet - Documenti Marketo - Documentazione del prodotto
 title: Approvare un frammento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 È tutto! Lo stato dello snippet cambia da Bozza a Approvato.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Approvare uno snippet senza bozza](approve-a-snippet-with-no-draft.md)
 
