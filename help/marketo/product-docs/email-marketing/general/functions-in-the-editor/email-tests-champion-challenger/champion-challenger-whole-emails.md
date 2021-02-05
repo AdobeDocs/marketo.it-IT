@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: Campione/Sfida - E-mail intere - Documenti Marketo - Documentazione del prodotto
 title: Campione/Sfida - E-mail intere
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Test di e-mail intere tra loro. Quando il test è finito, inviare l&#39;esecutor
 
 1. Progresso! Continuiamo.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
