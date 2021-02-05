@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Esplora i dettagli di programma e canale con il programma Analyzer - Marketo Docs - Documentazione prodotto
 title: Esplora i dettagli di programma e canale con il programma Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,8 @@ ht-degree: 0%
 >* [Creare un analizzatore di programmi](create-a-program-analyzer.md)
 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Non tutte le edizioni Marketo includono questa funzionalità. Contatta il tuo account manager per maggiori dettagli.
 
