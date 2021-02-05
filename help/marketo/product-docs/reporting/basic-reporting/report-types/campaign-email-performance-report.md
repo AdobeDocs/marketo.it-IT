@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Rapporto sulle prestazioni delle e-mail delle campagne - Documenti Marketo - Documentazione del prodotto
 title: Rapporto sulle prestazioni e-mail della campagna
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ Per visualizzare gli stati delle prestazioni delle e-mail raggruppati per [campa
    >
    >In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un messaggio e-mail, ovviamente lo ha aperto per primo. Per le regole specifiche che seguiamo, vedete il [Report prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
