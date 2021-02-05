@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Champion/Challenger - Definisci i criteri di promozione - Marketo Docs - Documentazione del prodotto
 title: Campione/Sfida - Definizione dei criteri di promozione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
 
    Fantastico! Ora è il momento di pianificare il rapporto.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
