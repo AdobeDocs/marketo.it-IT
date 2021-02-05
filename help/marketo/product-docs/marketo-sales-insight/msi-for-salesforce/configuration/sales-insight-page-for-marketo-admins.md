@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Pagina Informazioni sulle vendite per gli amministratori di Marketo - Marketo Docs - Documentazione sui prodotti
 title: Pagina Informazioni sulle vendite per gli amministratori di marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo Lead Sco
    >
    >Se non hai già i tuoi campi di valutazione personalizzati, ecco come [crearli](http://docs.marketo.com/x/3wMk).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >[Stelle e fiamme](http://docs.marketo.com/x/qgU6Ag)
