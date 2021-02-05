@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: Clona un report - Documenti Marketo - Documentazione del prodotto
 title: Duplica un rapporto
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Create un duplicato del rapporto per personalizzare ulteriormente il rapporto se
 
    Tutto qui - siete pronti a personalizzare il clone!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
