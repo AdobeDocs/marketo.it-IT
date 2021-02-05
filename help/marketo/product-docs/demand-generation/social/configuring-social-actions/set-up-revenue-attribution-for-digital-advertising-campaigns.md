@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Imposta l'attribuzione delle entrate per le campagne pubblicitarie digitali - Marketo Docs - Documentazione del prodotto
 title: Impostazione dell'attribuzione delle entrate per le campagne pubblicitarie digitali
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Con programmi separati, puoi quindi tenere traccia del numero di conversioni da 
 >* Creare o modificare un modulo per passare una stringa di query con la persona
 >* Assicurati di avere accesso ad alcune funzionalità di analisi del ciclo dei ricavi per segnalare i canali e le campagne di annunci
 
->
-
-
 
 ## Creare un programma predefinito {#create-a-default-program}
 
@@ -41,7 +38,7 @@ A differenza di alcuni programmi (come l&#39;e-mail) che possono essere eseguiti
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Se disponete già di un programma, potete [duplicarlo](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Se disponete già di un programma, potete [duplicarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ A differenza di alcuni programmi (come l&#39;e-mail) che possono essere eseguiti
    >
    >**Esempio**
    >
-   >
    >Una stringa di query passata attraverso l’URL aiuta Marketo a sapere su quale campagna pubblicitaria qualcuno ha fatto clic quando è diventato una persona in Marketo.
-   >
    >
    >È possibile creare una metodologia di stringa di query che includa tutte le variabili da misurare. Marketo utilizza queste variabili per aggiungere persone ai diversi programmi.
    >
-   >
    >Ad esempio, potete utilizzare il tipo di canale Canale__Canale__Area. Può essere simile a: SP_FB_NewGuide_US. **Nota**: le abbreviazioni consentono di risparmiare spazio.
-   >
    >
    >In alternativa, impostatela come Channel_Adsource_AssetName_Region_UniqueIdNumber. Può essere simile a: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -95,7 +88,7 @@ A differenza di alcuni programmi (come l&#39;e-mail) che possono essere eseguiti
 
    >[!NOTE]
    >
-   >Nell&#39;esempio riportato sopra, **Convertito, **ma questo dipende dai valori di stato/successo.
+   >L&#39;esempio precedente mostra **Converted**, ma questo dipende dai valori di stato/successo dell&#39;utente.
 
 1. Pianificare e attivare la campagna.
 
@@ -112,21 +105,16 @@ Dopo aver configurato il programma e le campagne, crea il nuovo annuncio.
    >
    >**Esempio**
    >
-   >
    >Ecco come aggiungere tutte le informazioni configurate in un URL effettivo. Gli elementi sono separati da una e commerciale (&amp;):
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **Origine** è l&#39;Origine Persona utilizzata come identificatore del canale
-   >    * **** commenti è l&#39;identificatore univoco creato per ogni programma
-   >    * **** campeggi è la campagna in Facebook, LinkedIn o Google
-   >    * **Nome della** parola chiave o risorsa da acquisire
+   >* **Origine** è l&#39;Origine Persona utilizzata come identificatore del canale
+   >* **** commenti è l&#39;identificatore univoco creato per ogni programma
+   >* **** campeggi è la campagna in Facebook, LinkedIn o Google
+   >* **Nome della** parola chiave o risorsa da acquisire
 
-   >    
-   >    
+   >
    >**Questi quattro termini devono essere tutti in lettere minuscole e l’URL non può contenere spazi per acquisire tali informazioni.**
 
 ## Best practice {#best-practices}
