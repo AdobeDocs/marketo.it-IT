@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Rapporto Attività campagna - Documenti Marketo - Documentazione prodotto
 title: Report attività campagna
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Scopri le prestazioni delle [campagne intelligenti](http://docs.marketo.com/disp
    | Attivazione (attiva) | Campagne attivate correnti nella scheda **Attività marketing**. |
    | Attivazione (non attiva) | Campagne attivate non attive nella scheda **Attività marketing**. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
