@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: Distribuzione di Social nel tuo sito Web - Documenti Marketo - Documentazione prodotto
 title: Implementare Social nel sito Web
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Incorpora app social sulle pagine non di Marketo.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Per ulteriori informazioni, contattate il rappresentante commerciale.
 
@@ -27,7 +25,7 @@ Potete implementare app social sul vostro sito Web per coinvolgere il pubblico e
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Selezionare **Incorpora** **Codice***** dalle azioni delle app social.
+1. Selezionate **Incorpora codice** da Azioni app social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ Potete implementare app social sul vostro sito Web per coinvolgere il pubblico e
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Per impostare le dimensioni dell&#39;app social su dimensioni specifiche sulla pagina, aggiungete le opzioni **externalHeight** e **outerWidth** al secondo frammento di codice. Ad esempio, puoi aggiungere options=&#39;{&quot;externalHeight&quot;:400, &quot;outsideWidth&quot;:600}&#39;, come in:
+1. Per impostare le dimensioni dell&#39;app social su dimensioni specifiche sulla pagina, aggiungete le opzioni **externalHeight** e **outerWidth** al secondo frammento di codice. Ad esempio, puoi aggiungere `options='{"outerHeight":400, "outerWidth":600}'`, come in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
    L&#39;app per social network Marketo ora aggiunge contenuti e interattività al tuo sito Web, invitando fan, visitatori e clienti esistenti a diffondere la tua opinione su di te. Allo stesso tempo, aggiunge i dati del profilo al database e tiene traccia delle metriche di influenza social.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >    
-   >    
-   >* [Personalizza pulsante App Social](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Imposta requisito condivisione mediante social network](set-social-share-requirement.md)
-   >* [Pubblicare le pagine di destinazione su Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Personalizza pulsante App Social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Imposta requisito condivisione mediante social network](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Pubblicare le pagine di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
