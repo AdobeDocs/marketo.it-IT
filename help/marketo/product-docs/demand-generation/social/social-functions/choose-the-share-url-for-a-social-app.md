@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: Scegliete l'URL di condivisione per un'app Social - Marketo Docs - Documentazione prodotto
 title: Scegliere l'URL di condivisione per un'app Social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ Quando create un&#39;app per social network, potete scegliere l&#39;URL che verr
    >
    >**Definizione**
    >
-   >
    >I post di condivisione possono collegarsi a tre posizioni:
    >
-   >    
-   >    
-   >    * **Pagina** di riferimento: La pagina che contiene l&#39;app.
-   >    * **Altra pagina** di destinazione: Una pagina di destinazione Marketo diversa da quelle nell’elenco a discesa.
-   >    * **URL** esterno: Una pagina di destinazione non Marketo.
+   >* **Pagina** di riferimento: La pagina che contiene l&#39;app.
+   >* **Altra pagina** di destinazione: Una pagina di destinazione Marketo diversa da quelle nell’elenco a discesa.
+   >* **URL** esterno: Una pagina di destinazione non Marketo.
 
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere l&#39;informativa sulla privacy a un&#39;app Social](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[Aggiungere l&#39;informativa sulla privacy a un&#39;app Social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
