@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Pianificazione di un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Pianificazione di un'e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,8 @@ Seguite questi semplici passaggi per pianificare un&#39;e-mail.
    >
    >Le e-mail pianificate possono essere visualizzate o modificate nella sezione delle cartelle pianificate del Centro comandi.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >[Panoramica del centro comandi](http://docs.marketo.com/x/kgDb)
