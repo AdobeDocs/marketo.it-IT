@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: Utilizzo delle transizioni dei modelli di ricavi - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo delle transizioni dei modelli di ricavi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -60,8 +60,6 @@ Quando si crea il modello e si selezionano e si organizzano le fasi di inventari
 
 Ben fatto! Le transizioni del modello sono state modificate correttamente.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Approvare/annullare l&#39;approvazione di un modello di ricavi](approve-unapprove-a-revenue-model.md)
