@@ -3,9 +3,9 @@ unique-page-id: 2359777
 description: Consulta la scheda Votazioni in Sondaggio - Documenti Marketo - Documentazione prodotto
 title: Rivedi cast voti nel sondaggio
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,6 @@ Chi ha votato per cosa nel suo sondaggio? Scopriamolo.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >
-   >Ulteriori informazioni sulla portata e l&#39;impatto delle app sui social network in [View Social Performance](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md).
-
+   >Ulteriori informazioni sulla portata e l&#39;impatto delle app sui social network in [View Social Performance](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
