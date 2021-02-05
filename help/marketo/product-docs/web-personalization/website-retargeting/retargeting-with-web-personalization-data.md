@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Retargeting con dati di personalizzazione Web - Documenti Marketo - Documentazione prodotto
 title: Ritargeting con dati di personalizzazione Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Ritargeting con dati di personalizzazione Web {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Il retargeting dei siti Web ora si trova nella sezione Personalizzazione Web. Se avete acquistato solo Retargeting, visualizzerete questa sezione e accederete al prodotto Web Personalization con le funzioni di **solo** Retargeting abilitate. Questo consente di accedere alle impostazioni dell’account, alla pagina Retargeting, ai segmenti e alle pagine di tracciamento aggiuntive.
 
