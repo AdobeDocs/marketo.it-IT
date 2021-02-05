@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Campione/Sfida - Configura avvisi report - Documenti Marketo - Documentazione prodotto
 title: Champion/Challenger - Configura avvisi report
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,8 @@ Marketo vi invierà dei rapporti sull&#39;andamento del test e-mail. Ecco come p
 
    Il rapporto includerà informazioni utili, quali: tipo di test, criteri per il vincitore, numero di aperture di e-mail e molto altro. Ci sarà anche un collegamento diretto al test stesso, che vi permetterà di dichiarare il vincitore! Roba bella.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
