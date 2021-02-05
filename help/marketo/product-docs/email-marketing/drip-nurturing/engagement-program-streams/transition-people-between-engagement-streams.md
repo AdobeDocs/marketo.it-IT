@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: Transizione tra i flussi di coinvolgimento - Marketo Docs - Documentazione del prodotto
 title: Persone Di Transizione Tra I Flussi Di Coinvolgimento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Persone di transizione tra flussi di coinvolgimento {#transition-people-between-engagement-streams}
 
-I programmi di coinvolgimento possono avere più di un flusso. Se [aggiungete un flusso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), è necessario definire un modo per consentire agli utenti di spostarsi da un flusso all&#39;altro. Tali regole sono denominate **regole di transizione.**
+I programmi di coinvolgimento possono avere più di un flusso. Se [aggiungete un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), è necessario definire un modo per consentire agli utenti di spostarsi da un flusso all&#39;altro. Tali regole sono denominate **regole di transizione.**
 
 1. Andate a **Marketing Activities**.
 
@@ -23,7 +23,7 @@ I programmi di coinvolgimento possono avere più di un flusso. Se [aggiungete un
 
    ![](assets/multistream.jpg)
 
-1. Fare clic su **Regole di transizione** per il flusso in cui si desidera eseguire il pulling da altri flussi, quindi fare clic su **Edit Transition Rules. **
+1. Fare clic su **Regole di transizione** per il flusso in cui si desidera eseguire il pulling da altri flussi, quindi fare clic su **Modifica regole di transizione**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -32,15 +32,12 @@ I programmi di coinvolgimento possono avere più di un flusso. Se [aggiungete un
    >Le regole di transizione entrano in un flusso; definire sempre le regole del flusso in cui si desidera eseguire il pull.
 
    Una volta aperta la finestra della regola di transizione, trova e trascina il trigger desiderato. In questo caso, vogliamo spostare le persone in fase intermedia quando viene aggiunta a un&#39;opportunità.
-` ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-   `
+   ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Impostiamo l&#39;operatore su** è qualsiasi** in modo che le persone si spostino per ogni opportunità aggiunta.
+1. Impostiamo l&#39;operatore su **è qualsiasi** in modo che le persone si spostino per ogni opportunità aggiunta.
 
-   ` ![](assets/image2014-9-15-18-3a11-3a14.png)
-
-   `
+   ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
@@ -52,11 +49,8 @@ I programmi di coinvolgimento possono avere più di un flusso. Se [aggiungete un
 
    Fantastico! Ora qualsiasi persona nel programma di coinvolgimento che viene aggiunta a un&#39;opportunità verrà spostata nel flusso Mid Stage.
 
-   ` ![](assets/image2014-9-15-18-3a11-3a29.png)
-
-   `
+   ![](assets/image2014-9-15-18-3a11-3a29.png)
 
    >[!NOTE]
    >
-   >I passaggi descritti sopra *do* si applicano anche alle persone [in pausa](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program).
-
+   >I passaggi descritti sopra *do* si applicano anche alle persone [in pausa](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
