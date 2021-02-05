@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definizione delle regole di segmento - Documenti Marketo - Documentazione prodotto
 title: Definire le regole di segmento
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Ottimo lavoro! Questi segmenti saranno utili in molti punti di Marketo.
 >
 >La schermata Persone (Bozza) mostra tutte le persone idonee ad essere membro e non è sempre l’elenco finale delle persone. Approva il segmento per visualizzare l’elenco finale.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Approvare una segmentazione](approve-a-segmentation.md)
 
