@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Programma e-mail - Documenti Marketo - Documentazione prodotto
 title: Pianificazione del programma e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Con il programma e-mail creato, il pubblico definito e l&#39;e-mail selezionato,
 
    Quanto era facile? L&#39;unica cosa che rimane è [approvare un programma di posta elettronica](approve-unapprove-an-email-program.md) e si è pronti a partire.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Pianificazione dei programmi e-mail con il fuso orario del destinatario](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Head Start for Email Programs](head-start-for-email-programs.md)
