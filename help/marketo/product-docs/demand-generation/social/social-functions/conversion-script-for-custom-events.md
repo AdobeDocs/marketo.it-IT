@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: Script di conversione per eventi personalizzati - Documenti Marketo - Documentazione prodotto
 title: Script di conversione per eventi personalizzati
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,6 @@ Definite l&#39;obiettivo di evasione quando create un&#39;offerta di riferimento
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Ricordate di copiare e incollare entrambi gli script se si trovano su un sito Web non Marketo.
 
@@ -60,7 +57,7 @@ Fantastico! Il sito Web ora sta acquisendo obiettivi di promozione sociale perso
 
 >[!MORELIKETHIS]
 >
->* [Specificare l&#39;obiettivo per l&#39;offerta di riferimento](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Creare un&#39;offerta di riferimento](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Implementare Social nel sito Web](deploy-social-on-your-website.md)
+>* [Specificare l&#39;obiettivo per l&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Creare un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Implementare Social nel sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
