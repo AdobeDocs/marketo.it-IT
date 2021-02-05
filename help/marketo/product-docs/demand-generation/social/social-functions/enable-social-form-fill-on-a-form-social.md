@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: Abilitare la compilazione del modulo social su un modulo (Social) - Documenti Marketo - Documentazione prodotto
 title: Abilitare la compilazione del modulo per social network su un modulo (Social)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Consentire ai visitatori di compilare il modulo utilizzando il social network. Ottieni automaticamente dati aggiuntivi e ottengono un&#39;esperienza più rapida. Ecco come.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
@@ -39,7 +37,7 @@ Consentire ai visitatori di compilare il modulo utilizzando il social network. O
 
    >[!TIP]
    >
-   >Date un&#39;occhiata a quanto [data Marketo acquisirà](manage-social-profile-data.md) se le persone usano i pulsanti dei social network.
+   >Date un&#39;occhiata a quanto [data Marketo acquisirà](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se le persone usano i pulsanti dei social network.
 
 1. Fare clic su **Fine**.
 
