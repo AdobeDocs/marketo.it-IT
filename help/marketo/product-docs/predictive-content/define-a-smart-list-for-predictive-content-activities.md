@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: Definire un elenco avanzato per le attività di Predictive Content - Marketo Docs - Documentazione prodotto
 title: Definire un elenco avanzato per le attività relative ai contenuti predittivi
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Potete utilizzare le attività di contenuto predittivo in attivatori e filtri qu
 
    >[!TIP]
    >
-   >In una campagna intelligente con attivatori e filtri, i trigger si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passano attraverso il flusso.
+   >In una campagna intelligente con attivatori e filtri, gli attivatori si trovano nella parte superiore. Quando viene attivato, solo gli utenti che soddisfano i criteri del filtro passano attraverso il flusso.
 
    >[!NOTE]
    >
@@ -72,9 +72,8 @@ Potete utilizzare le attività di contenuto predittivo in attivatori e filtri qu
 
    [definire un elenco smart per una campagna smart batch](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
