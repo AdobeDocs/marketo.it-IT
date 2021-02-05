@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Aggiungere un'app mobile - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere un'app mobile
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ Invia notifiche push alla tua base clienti connettendo la tua app mobile con Mar
 
 Le app di solito iniziano in un ambiente sandbox, dove vengono eseguiti lo sviluppo e il test iniziali. Gli sviluppatori quindi utilizzano un ambiente di produzione per creare l&#39;app finale che verrà utilizzata dai clienti. È necessario selezionare il certificato di notifica appropriato al momento dell&#39;aggiunta di un&#39;app mobile (vedere il passaggio 4 seguente).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
