@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: Valutazione di coinvolgimento - Documenti Marketo - Documentazione del prodotto
 title: Comprendere il punteggio di coinvolgimento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Nozioni di base sul punteggio di coinvolgimento {#understanding-the-engagement-score}
 
-Il punteggio di coinvolgimento facilita la visualizzazione dell&#39;efficacia dei contenuti del programma di coinvolgimento. Il punteggio va da 0 a 100. Controllate [il pannello Partecipazione](the-engagement-dashboard.md) per vedere come tenere traccia delle prestazioni del contenuto.
+Il punteggio di coinvolgimento facilita la visualizzazione dell&#39;efficacia dei contenuti del programma di coinvolgimento. Il punteggio va da 0 a 100. Controllate [il pannello Partecipazione](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) per vedere come tenere traccia delle prestazioni del contenuto.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ I punteggi di coinvolgimento sono universali per tutti i clienti. Potete confron
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sui programmi di coinvolgimento](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[Informazioni sui programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
