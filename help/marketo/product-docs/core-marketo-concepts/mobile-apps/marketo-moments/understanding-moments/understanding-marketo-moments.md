@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Informazioni sui tempi di Marketo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui momenti di marketing
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Il potere di Marketo ora è nelle vostre mani, letteralmente! Visualizzate l&#39;anteprima e ripianificate le e-mail direttamente dal telefono o dall&#39;iPad.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >L&#39;autorizzazione per l&#39;accesso alle app mobili è obbligatoria. Contatta l&#39;amministratore di Marketing per [aggiornare il tuo ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
