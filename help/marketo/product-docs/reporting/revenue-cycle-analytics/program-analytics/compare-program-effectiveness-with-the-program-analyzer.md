@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Confronta l'efficacia del programma con il programma Analyzer - Marketo Docs - Documentazione del prodotto
 title: Confronta l'efficacia del programma con Program Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ Vediamo che il programma Paper Fest 12 non solo influenza più entrate (bolla pi
 >
 >È possibile confrontare rapidamente i programmi in un canale con quelli in un altro. È sufficiente utilizzare il **Filtro canale** nella parte superiore della finestra per aggiungere altri canali.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Esplora i dettagli di programma e canale con il programma Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Confronto dell&#39;efficacia dei canali con l&#39;analisi dei programmi](compare-channel-effectiveness-with-the-program-analyzer.md)
