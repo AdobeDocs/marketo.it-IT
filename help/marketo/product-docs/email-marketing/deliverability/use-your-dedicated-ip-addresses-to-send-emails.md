@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: Utilizza i tuoi indirizzi IP dedicati per inviare e-mail - Documenti Marketo - Documentazione del prodotto
 title: Utilizza i tuoi indirizzi IP dedicati per inviare e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 L&#39;invio da uno o più IP dedicati offre il controllo completo sulla reputazione dell&#39;utente.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Un IP dedicato è un prodotto aggiuntivo. Non tutti potranno aggiungere un IP dedicato al proprio programma. Dovreste inviare più di 100.000 email al mese e avere una cadenza stabile per mantenere un IP dedicato. Rivolgiti al tuo CSM per maggiori informazioni su come aggiungere un IP dedicato al tuo programma Marketo.
 >
->Se invii meno di 100.000 e-mail al mese e/o hai volumi di campagna variabili e/o sei un mittente stagionale, non potrai mantenere un IP dedicato. Marketo mantiene un pool condiviso IP trusted separato per i clienti che rispettano le best practice rigorose. Se interessato, compilare il [presente questionario](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) da applicare al programma IP affidabile di Marketo.
+>Se invii meno di 100.000 e-mail al mese e/o hai volumi di campagna variabili e/o sei un mittente stagionale, non potrai mantenere un IP dedicato. Marketo mantiene un pool condiviso IP trusted separato per i clienti che rispettano le best practice rigorose. Se interessato, compilare il [presente questionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) da applicare al programma IP affidabile di Marketo.
 
 Tutti gli account Marketo iniziano su un IP condiviso, consentendo di iniziare subito la spedizione. Se aggiungete un IP dedicato, lavorerete con consulenti di recapito per pianificare il provisioning dell&#39;IP.
 
@@ -40,9 +38,8 @@ Per massimizzare la recapito a lungo termine, i consulenti di recapito offrono r
 
 >[!TIP]
 >
->Mantenete pulito il database per mantenere alta la possibilità di recapito. [ Adobe ](http://www.adobe.com/legal/terms/aup.html) richiede che i clienti inviino comunicazioni di marketing solo alle persone che hanno acconsentito/richiesto di ricevere e-mail. Non spam.
+>Mantenete pulito il database per mantenere alta la possibilità di recapito. [ Adobe ](https://www.adobe.com/legal/terms/aup.html) richiede che i clienti inviino comunicazioni di marketing solo alle persone che hanno acconsentito/richiesto di ricevere e-mail. Non spam.
 
 >[!CAUTION]
 >
->Se viene visualizzato un numero elevato di rimbalzi o altri problemi, contattare il supporto [Marketo](http://nation.marketo.com/t5/Support/ct-p/Support). Se desiderate un supporto più mirato per apprendere come mantenere un database pulito e aumentare il coinvolgimento con il programma, i Consulenti per la distribuzione delle e-mail di Marketo possono essere coinvolti per un pacchetto di Servizi personalizzati.
-
+>Se viene visualizzato un numero elevato di rimbalzi o altri problemi, contattare il supporto [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Se desiderate un supporto più mirato per apprendere come mantenere un database pulito e aumentare il coinvolgimento con il programma, i Consulenti per la distribuzione delle e-mail di Marketo possono essere coinvolti per un pacchetto di Servizi personalizzati.
