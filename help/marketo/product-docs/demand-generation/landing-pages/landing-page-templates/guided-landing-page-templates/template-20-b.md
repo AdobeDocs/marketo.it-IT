@@ -3,9 +3,9 @@ unique-page-id: 10092913
 description: Modello 20-B - Marketo Docs - Documentazione prodotto
 title: Modello 20-B
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 20-B {#template-b}
 
-Fare clic con il pulsante destro del mouse su [Scarica modello 20-B](http://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
+[Scarica modello 20-B](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
 
 ![](assets/template-20b.png)
 
@@ -26,6 +26,6 @@ Questo modello include il contenuto seguente:
 * Quattro sezioni corpo (facoltativo)
 * Piè di pagina (facoltativo)
 
-Fai clic con il pulsante destro del mouse qui sotto per scaricare il modello:
+**Fai clic qui sotto per scaricare il modello:**
 
-[Template20-B.html](http://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
+[Template20-B.html](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
