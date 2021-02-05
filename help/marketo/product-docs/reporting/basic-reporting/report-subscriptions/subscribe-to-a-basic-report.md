@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: Iscriviti a un report di base - Documenti Marketo - Documentazione del prodotto
 title: Iscriviti a un report di base
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,8 @@ Per ricevere gli aggiornamenti automatici di un [report di base](http://docs.mar
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >Scopri come [gestire tutte le iscrizioni per report](manage-report-subscriptions.md) in un&#39;unica posizione.
