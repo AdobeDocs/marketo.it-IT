@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: Imposta una firma DKIM personalizzata - Documenti Marketo - Documentazione prodotto
 title: Impostazione di una firma DKIM personalizzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono aut
 
    >[!NOTE]
    >
-   >
    >Se imposti una firma DKIM personalizzata nel modo precedente, continuerà a funzionare e dovrebbe comparire qui.
 
 1. Fare clic su **Email**, quindi sulla scheda **DKIM** e infine su **Aggiungi dominio**.
@@ -37,7 +36,6 @@ Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono aut
 1. Immettete il dominio che utilizzerete nelle e-mail di Marketo come indirizzo Da e fate clic su **Aggiungi**.
 
    >[!TIP]
-   >
    >
    >Se utilizzi un dominio diverso nell’indirizzo Da, utilizzeremo la firma DKIM condivisa da Marketo.
 
@@ -53,14 +51,10 @@ Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono aut
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
    >Se la conferma non riesce e l&#39;IT ha creato correttamente il record, potrebbe trattarsi di una questione di propagazione DNS. Riprova più tardi.
 
    >[!CAUTION]
    >
-   >
    >Modificando/rimuovendo il record DNS corrispondente si verificherà un danneggiamento della recapito. Assicurarsi di eliminare la voce in Marketo prima di apportare modifiche DNS.
 
    In questo modo sarà assolutamente utile gestire la tua recapito delle e-mail. È necessario ottenere la convalida che il record è presente e corretto.
-
