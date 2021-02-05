@@ -3,9 +3,9 @@ unique-page-id: 37355826
 description: Note sulla versione - Feb '20 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Feb '20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella release di febbraio 20. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contattate il rappresentante del Marketo Engage.
 
