@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Aggiungere un campione e-mail/Challenger - Marketo Docs - Documentazione prodotto
 title: Aggiungi un campione e-mail/Challenger
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ Ecco come iniziare.
 
 1. Viene aperta una nuova finestra con diverse opzioni per il tipo di test. Leggi gli articoli correlati riportati di seguito per saperne di più.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
