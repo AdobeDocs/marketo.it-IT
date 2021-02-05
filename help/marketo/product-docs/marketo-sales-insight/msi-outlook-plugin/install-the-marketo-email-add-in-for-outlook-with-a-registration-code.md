@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installazione del componente aggiuntivo e-mail Marketo per Outlook con un codice di registrazione - Documenti Marketo - Documentazione del prodotto
 title: Installazione del componente aggiuntivo e-mail di Marketo per Outlook con un codice di registrazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
 
 Ulteriori informazioni sull&#39;utilizzo delle azioni Messaggio di Marketo e Registro con Marketo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail Marketo per Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Invio e tracciamento da Outlook con un modello Marketo](send-and-track-from-outlook-using-a-marketo-template.md)
