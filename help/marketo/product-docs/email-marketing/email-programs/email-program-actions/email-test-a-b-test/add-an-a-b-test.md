@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Aggiunta di un test A/B - Documenti Marketo - Documentazione prodotto
 title: Aggiungere un test A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Il test è un ottimo modo per ottimizzare le e-mail e migliorare il coinvolgimen
    >
    >Se nel database sono presenti record duplicati, tali record riceveranno **sia** le e-mail di prova che di vincita. Per evitare che ciò accada, accertatevi di [trovare e unire persone duplicate](http://docs.marketo.com/x/G4EI) nel database.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Usa test A/B &quot;Subject Line&quot;](use-subject-line-a-b-testing.md)
 >* [Usa test A/B per &quot;E-mail intera&quot;](use-whole-email-a-b-testing.md)
