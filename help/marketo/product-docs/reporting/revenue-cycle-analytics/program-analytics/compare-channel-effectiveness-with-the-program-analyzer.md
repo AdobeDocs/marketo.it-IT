@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Confronta l'efficacia del canale con l'analizzatore del programma - Marketo Docs - Documentazione del prodotto
 title: Confronto dell'efficacia dei canali con l'analisi dei programmi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ Nel nostro esempio, vediamo che il canale di presentazione è sia il più costos
 >
 >Gli esempi in questi passaggi misurano l&#39;efficacia in base alla pipeline creata. Utilizzate il menu a discesa Asse Y per selezionare altri modi per misurare l&#39;efficacia dei canali, come Nuovi nomi, Membri, Costo per successo e così via.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Esplora i dettagli di programma e canale con il programma Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Confronta l&#39;efficacia del programma con Program Analyzer](compare-program-effectiveness-with-the-program-analyzer.md)
