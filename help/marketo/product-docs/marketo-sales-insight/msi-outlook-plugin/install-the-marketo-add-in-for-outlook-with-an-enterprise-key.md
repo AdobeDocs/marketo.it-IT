@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise - Marketo Docs - Documentazione del prodotto
 title: Installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Molte volte, i rappresentanti delle vendite non dispongono di privilegi amminist
 
    È tutto! Successivamente, il rappresentante commerciale passerà attraverso il [processo di registrazione](authorize-the-marketo-outlook-plugin.md). È possibile inviare loro un collegamento alle istruzioni (vedere **Marketo Articoli correlati**).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
