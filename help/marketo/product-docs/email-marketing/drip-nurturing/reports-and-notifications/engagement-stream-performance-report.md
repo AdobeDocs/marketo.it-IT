@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: Rapporto sulle prestazioni del flusso di coinvolgimento - Documenti Marketo - Documentazione del prodotto
 title: Report prestazioni flusso di coinvolgimento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ Vuoi sapere come si comportano i tuoi contenuti di coinvolgimento? Prova il rapp
 
    >[!TIP]
    >
-   >
-   >Anche se non illustrato, il criterio di coinvolgimento è una colonna in questo rapporto. Per informazioni dettagliate, vedere [Il punteggio di coinvolgimento](understanding-the-engagement-score.md).
+   >Anche se non illustrato, il criterio di coinvolgimento è una colonna in questo rapporto. Per informazioni dettagliate, vedere [Il punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Ottimo lavoro! Il rapporto è raggruppato per programma di coinvolgimento.
-
