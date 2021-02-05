@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: Pubblicare una pagina di ricerca - Marketo Docs - Documentazione prodotto
 title: Pubblicare una Sweepstakes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,13 @@ ht-degree: 0%
 
 # Pubblicare gli Sweepstakes {#publish-a-sweepstakes}
 
-Dopo aver [creato una pagina di ricerca, potete pubblicarla sulle pagine di destinazione di Marketo, sul sito Web e su Facebook.](create-sweepstakes.md)
+Dopo aver [creato una pagina di ricerca, potete pubblicarla sulle pagine di destinazione di Marketo, sul sito Web e su Facebook.](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
 >[!NOTE]
->
->**Promemoria**
 >
 >Prima di pubblicare l&#39;offerta, verificate che sia conforme a tutte le leggi, le regole e le normative applicabili.
 
@@ -41,12 +37,9 @@ Dopo aver [creato una pagina di ricerca, potete pubblicarla sulle pagine di dest
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Devi approvare i tuoi dolci per renderli disponibili qui.
 
-   [pubblicare la pagina di destinazione su ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook per mettere in evidenza i dettagli del sito Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   Congratulazioni! Approva la pagina di destinazione e i tuoi dolci sono live. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la pagina di destinazione nel sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -54,6 +47,4 @@ Dopo aver [creato una pagina di ricerca, potete pubblicarla sulle pagine di dest
 
    >[!NOTE]
    >
-   >Quando le persone iniziano a registrarsi, ricorda di tornare all&#39;app per [selezionare i vincitori della sweep ](select-sweepstakes-winners.md)!
-
-Congratulazioni! Approva la pagina di destinazione e i tuoi dolci sono live. Potete anche o .
+   >Quando le persone iniziano a registrarsi, ricorda di tornare all&#39;app per [selezionare i vincitori della sweep ](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
