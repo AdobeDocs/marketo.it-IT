@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Utilizzo di azioni di massa in Salesforce Lightning - Marketo Docs - Documentazione prodotto
 title: Utilizzo di azioni di massa in Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 >
 >Potete seguire gli stessi passaggi per utilizzare le azioni in blocco anche nella vista Elenco contatti.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Invio di e-mail tramite e-mail di gruppo](http://docs.marketo.com/x/KAQ6Ag)
 >* [Composizione di e-mail in blocco con Seleziona e invia](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
