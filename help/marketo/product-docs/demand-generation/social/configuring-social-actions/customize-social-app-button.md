@@ -3,7 +3,7 @@ unique-page-id: 2359759
 description: Pulsante Personalizza app social - Documenti Marketo - Documentazione prodotto
 title: Personalizza pulsante App Social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Personalizza pulsante app social network {#customize-social-app-button}
 
-Quando create un [pulsante social](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o un&#39;offerta di riferimento [](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), potete personalizzare l&#39;aspetto dei pulsanti.
+Quando create un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o un&#39;offerta di riferimento [](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), potete personalizzare l&#39;aspetto dei pulsanti.
 
 1. Andate a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate l&#39;app e fate clic su **Modifica bozza.**
+1. Selezionate l&#39;app e fate clic su **Modifica bozza**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -61,5 +61,4 @@ Quando create un [pulsante social](../../../../product-docs/demand-generation/la
 
 >[!MORELIKETHIS]
 >
->Per un pulsante social, [configurare quando apre](configure-when-social-button-opens.md). Per un&#39;offerta di riferimento, [specificate l&#39;obiettivo dell&#39;offerta](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
-
+>Per un pulsante social, [configurare quando apre](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Per un&#39;offerta di riferimento, [specificate l&#39;obiettivo dell&#39;offerta](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
