@@ -3,7 +3,7 @@ unique-page-id: 2359834
 description: Priorità contenuto flusso - Documenti Marketo - Documentazione prodotto
 title: Priorità contenuto flusso
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Dopo aver aggiunto il contenuto al flusso, potrebbe essere utile modificare la p
    >La priorità sarà sempre letta dall&#39;alto verso il basso al momento del cast.
 
    È così facile! Ora sai come assegnare priorità al contenuto del flusso.
-
