@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: Visualizzare persone o visitatori anonimi nei rapporti Web - Documenti Marketo - Documentazione prodotto
 title: Visualizzare persone o visitatori anonimi nei rapporti Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Nei report [Attività pagina Web](../../../../product-docs/reporting/basic-repor
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Tracciamento delle attività e delle persone anonime](tracking-anonymous-activity-and-people.md)
 
