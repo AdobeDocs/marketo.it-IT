@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personalizzare stelle e fiamme - Marketo Docs - Documentazione prodotto
 title: Personalizzare le stelle e le fiamme
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketing Sales Insight utilizza stelle e fiamme per dare priorità ai lead. Marketo decide automaticamente chi riceve 1-2-3 stelle/fiamme. Tuttavia, è possibile modificare la formula. Di seguito viene illustrato come:
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
