@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Notizie personalizzate su Facebook - Marketo Docs - Documentazione prodotto
 title: Osservazioni personalizzate su Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -130,9 +130,7 @@ Per ulteriori dettagli, consultare la [documentazione di Facebook](https://devel
 
 1. Ora tutti siete pronti con una campagna di remarketing personalizzata su Facebook.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Ritargeting con dati di personalizzazione Web](retargeting-with-web-personalization-data.md)
 >* [Osservazioni personalizzate in Google](personalized-remarketing-in-google.md)
