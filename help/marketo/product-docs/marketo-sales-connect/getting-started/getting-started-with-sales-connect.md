@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Guida introduttiva a Sales Connect - Marketo Docs - Documentazione prodotto
 title: Guida introduttiva a Sales Connect
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Se preferisci seguire questi passaggi piuttosto che leggerli, passa direttamente alle [Istruzioni video riportate di seguito](#video).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta il tuo Customer Success Manager.
 
