@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: Archivia e annulla l'archiviazione del contenuto del flusso - Documenti Marketo - Documentazione del prodotto
 title: Archiviare e annullare l'archiviazione dei contenuti dei flussi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archivia e annulla l&#39;archiviazione del contenuto del flusso {#archive-and-unarchive-stream-content}
 
-Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimuovere](remove-stream-content.md) o archiviarlo. Ecco come archiviare i contenuti.
+Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimuovere](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archiviarlo. Ecco come archiviare i contenuti.
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimu
 
 ## Annulla archiviazione contenuto flusso {#unarchive-stream-content}
 
-1. Seleziona il programma di coinvolgimento e vai alla scheda Streams.
+1. Selezionate il programma di coinvolgimento e andate alla scheda **Streams**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Fate clic sull&#39;icona a forma di ingranaggio per il flusso, quindi fate clic su Mostra contenuto archiviato.
+1. Fare clic sull&#39;icona a forma di ingranaggio per il flusso, quindi fare clic su **Mostra contenuto archiviato**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ Se non si desidera più utilizzare un contenuto in un flusso, è possibile [rimu
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    Perfetto! Ora questo contenuto è disponibile per essere prioritario e attivato.
-
