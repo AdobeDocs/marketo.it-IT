@@ -3,9 +3,9 @@ unique-page-id: 2359837
 description: Attivatori e filtri per attività social - Marketo Docs - Documentazione prodotto
 title: Trigger e filtri per attività social
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Le app per social network di Marketo dispongono di attivatori e filtri specifici.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
-1. Per utilizzare i trigger *social*, selezionate la campagna smart e fate clic sulla scheda **Smart List**. A destra, fare clic su + per espandere **Triggers**, quindi **Social**.
+1. Per utilizzare i trigger _social_, selezionate la campagna smart e fate clic sulla scheda **Smart List**. A destra, fare clic su + per espandere **Triggers**, quindi **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Per utilizzare i *filtri* social network, fare clic su **+** per espandere i **filtri**.
+1. Per utilizzare i _filtri_ social network, fare clic su **+** per espandere i **filtri**.
 
    ![](assets/two-282-29.png)
 
@@ -44,9 +42,6 @@ Le app per social network di Marketo dispongono di attivatori e filtri specifici
    | Votazione |  | ![(tick)](assets/check.svg) |  |  |  |
    | Wins Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg) |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
-   >
-   >* [Visualizza prestazioni social](view-social-performance.md)
-
+   >[Visualizza prestazioni social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
