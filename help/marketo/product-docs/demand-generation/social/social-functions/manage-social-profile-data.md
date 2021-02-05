@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gestisci dati profilo sociale - Documenti Marketo - Documentazione prodotto
 title: Gestisci dati profilo social
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Gestisci dati profilo sociale {#manage-social-profile-data}
 
-Quando un utente interagisce con un&#39;app per social network Marketo [o autorizza il proprio social network a precompilare un modulo Marketo con [social form fill](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo acquisisce tutti i dati disponibili dal proprio profilo sociale. ](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) È possibile visualizzare queste informazioni nella [pagina Dettagli persona](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page) oppure aggiungerle come colonna in una [visualizzazione personalizzata di un elenco smart](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
+Quando un utente interagisce con un&#39;app per social network Marketo [o autorizza il proprio social network a precompilare un modulo Marketo con [social form fill](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo acquisisce tutti i dati disponibili dal proprio profilo sociale. ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) È possibile visualizzare queste informazioni nella [pagina Dettagli persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) oppure aggiungerle come colonna in una [visualizzazione personalizzata di un elenco smart](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
 La compilazione del modulo social e le app per social network acquisiscono insiemi leggermente diversi di campi; vedete la sezione per ciascuno di questi elementi di seguito.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
@@ -58,7 +56,7 @@ A seconda delle impostazioni di privacy della rete e dell&#39;utente, vengono re
 
 >[!CAUTION]
 >
->I dati acquisiti dal modulo per social network sovrascrivono i campi corrispondenti a meno che [blocchi gli aggiornamenti a tali campi a livello di modulo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
+>I dati acquisiti dal modulo per social network sovrascrivono i campi corrispondenti a meno che [blocchi gli aggiornamenti a tali campi a livello di modulo](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Da Twitter: {#from-twitter-1}
 
@@ -77,15 +75,8 @@ A seconda delle impostazioni di privacy della rete e dell&#39;utente, vengono re
 
 >[!NOTE]
 >
->Il modulo Social acquisisce l&#39;indirizzo *solo* se l&#39;utente lo inserisce nel modulo. Se è necessario l&#39;indirizzo e-mail, è necessario [renderlo un campo obbligatorio nel modulo](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Il modulo Social acquisisce l&#39;indirizzo _solo_ se l&#39;utente lo inserisce nel modulo. Se è necessario l&#39;indirizzo e-mail, è necessario [renderlo un campo obbligatorio nel modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->Per acquisire queste informazioni dai moduli, abilitare la funzione di [compilazione del modulo social](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
-
->[!NOTE]
->
->**Tubo profondo**
->
->Ulteriori informazioni sull&#39;utilizzo dei moduli nel modulo di approfondimento [Forms](http://docs.marketo.com/display/docs/forms).
-
+>Per acquisire queste informazioni dai moduli, abilitare la funzione di [compilazione del modulo social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
