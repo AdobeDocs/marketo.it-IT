@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Head Start for Email Programs - Marketo Docs - Documentazione prodotto
 title: Head Start for Email Programs
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Ciò significa che se siete in America/Los Angeles e desiderate attivare sia Hea
 
 [Scopri ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) di più su come pianificare programmi e-mail con il fuso orario del destinatario.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Pianificazione del programma e-mail](schedule-your-email-program.md)
 >* [Pianificazione dei programmi e-mail con il fuso orario del destinatario](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
