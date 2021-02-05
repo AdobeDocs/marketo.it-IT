@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Imposta i campi punteggio da utilizzare per le stelle e le fiamme in Sales Insight - Marketo Docs - Documentazione prodotto
 title: Imposta campi punteggio da utilizzare per stelle e fiamme in Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo **Lead S
    >
    >Le informazioni sulle vendite richiederanno un po&#39; di tempo per eseguire nuovamente il calcolo. Puoi controllare il CRM in un secondo momento per vedere le stelle e le fiamme.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >[Priorità, Urgenza, Punteggio relativo e migliori risultati](priority-urgency-relative-score-and-best-bets.md)
