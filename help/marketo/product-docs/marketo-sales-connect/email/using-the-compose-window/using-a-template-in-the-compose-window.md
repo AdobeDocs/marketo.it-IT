@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Utilizzo di un modello nella finestra Componi - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di un modello nella finestra Componi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ Preferite **fino a cinque categorie di modelli specifici** per accedere rapidame
    >
    >**Per impostazione** predefinita, sono disponibili i preferiti. Contiene i modelli e-mail preferiti, non le categorie.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
