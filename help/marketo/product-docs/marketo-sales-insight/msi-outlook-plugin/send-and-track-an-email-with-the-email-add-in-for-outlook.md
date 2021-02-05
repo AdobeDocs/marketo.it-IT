@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Inviare e tenere traccia di un'e-mail con il componente aggiuntivo e-mail per Outlook - Documenti Marketo - Documentazione prodotto
 title: Inviare e tenere traccia di un'e-mail con il componente aggiuntivo e-mail per Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
 È così facile! Anche se questa e-mail è stata inviata da Outlook di un venditore, verrà tracciata a Marketo.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Registra posta in entrata dai lead di Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
