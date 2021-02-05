@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: Anteprima di uno snippet - Documenti Marketo - Documentazione prodotto
 title: Anteprima di uno snippet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Gli snippet sono blocchi di contenuto dinamico che si modificano in base alle re
 
 La funzione Anteprima è ideale per garantire che il contenuto sia adatto a ciascun segmento.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Approvare un frammento](approve-a-snippet.md)
 
