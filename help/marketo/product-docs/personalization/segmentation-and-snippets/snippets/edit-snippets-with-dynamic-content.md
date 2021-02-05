@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: Modifica di snippet con contenuti dinamici - Documenti Marketo - Documentazione prodotto
 title: Modificare gli snippet con il contenuto dinamico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Utilizzate Segmentazione in Snippet per gestire facilmente il contenuto dinamico
 
 Non era così semplice? Ora tutti voi siete pronti per utilizzare questi snippet nelle e-mail e nelle pagine di destinazione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiunta di uno snippet a un messaggio e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Aggiungere uno snippet a una pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
