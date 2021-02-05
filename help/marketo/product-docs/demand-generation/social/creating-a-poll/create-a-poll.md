@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Creazione di un sondaggio - Documenti Marketo - Documentazione del prodotto
 title: Creare un sondaggio
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 Coinvolgi le persone con un sondaggio che possono votare e condividere con i loro amici sui social network. Potete aggiungerlo a luoghi come le pagine di destinazione, il sito Web e Facebook.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
 >[!PREREQUISITES]
 >
->Se desiderate utilizzare le immagini nel sondaggio, aggiungetele alla libreria Immagini e file di Marketo prima di iniziare. Aggiungete un’immagine da 60x60px per ogni voce del sondaggio. Vedere [Aggiungi immagini e file a Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Se desiderate utilizzare le immagini nel sondaggio, aggiungetele alla libreria Immagini e file di Marketo prima di iniziare. Aggiungete un’immagine da 60x60px per ogni voce del sondaggio. Vedere [Aggiungi immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. All&#39;interno del programma, selezionare **Nuovo** > **Nuova risorsa locale.**
+1. All&#39;interno del programma, selezionare **Nuovo** > **Nuova risorsa locale**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Nella **Raccolta risorse locali,** fare clic su **Sondaggio.**
+1. In **Local Asset Gallery**, fare clic su **Poll**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ Coinvolgi le persone con un sondaggio che possono votare e condividere con i lor
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Selezionare l&#39;immagine desiderata, quindi fare clic su **Seleziona.**
+1. Selezionare l&#39;immagine desiderata, quindi fare clic su **Seleziona**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Dopo aver impostato la miniatura, il titolo e la descrizione di tutte le voci, fare clic su **Fine.**
+1. Dopo aver impostato la miniatura, il titolo e la descrizione di tutte le voci, fare clic su **Fine**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ L’editor del sondaggio si apre in una nuova finestra. Le impostazioni predefin
 
 In caso di problemi nel sondaggio, prima dell’approvazione del sondaggio vi verrà richiesto di risolverli. Congratulazioni! Il sondaggio è stato creato.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Articoli correlati**
->
->Il passaggio successivo consiste nel [pubblicare il sondaggio](publish-a-poll.md), ma se necessario è possibile modificare le impostazioni del sondaggio. Iniziate con [personalizzazione delle impostazioni del sondaggio](customize-poll-settings.md).
-
+>Il passaggio successivo consiste nel [pubblicare il sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), ma se necessario è possibile modificare le impostazioni del sondaggio. Iniziate con [personalizzazione delle impostazioni del sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
