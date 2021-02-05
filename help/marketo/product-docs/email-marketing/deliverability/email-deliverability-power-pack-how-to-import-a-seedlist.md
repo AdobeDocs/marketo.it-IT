@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack - Come importare un elenco di modelli - Marketo Docs - Documentazione del prodotto
 title: Power Pack per la distribuzione tramite e-mail - Come importare un elenco di indirizzi
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Un elenco di seed è un elenco di account e-mail in più provider di cassette postali, tra cui Google Apps, Hotmail, Yahoo!, ecc., che vengono utilizzati per approssimare il tasso di recapito della inbox rispetto a quella delle cartelle spam. Ecco come inserire l’elenco nell’istanza di Marketo.
 
->[!NOTE]
->
->**Disponibilità**
+>[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
@@ -41,9 +39,9 @@ Un elenco di seed è un elenco di account e-mail in più provider di cassette po
 
    >[!NOTE]
    >
-   >Scegliere **Ottimizza elenco** se si desidera che 250ok [ottimizzi l&#39;elenco](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-). Scegliete** Personalizza elenco* se desiderate selezionare le aree da includere nell&#39;elenco.
+   >Scegliere **Ottimizza elenco** se si desidera che 250ok [ottimizzi l&#39;elenco](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-). Scegliere **Personalizza elenco** per selezionare le aree da includere nell&#39;elenco.
 
-1. Dopo l’esportazione, l’elenco verrà visualizzato come file .txt nella cartella dei download del browser. Recuperarlo e [importarlo](../../../getting-started/quick-wins/import-a-list-of-people.md) nell&#39;istanza di Marketo come elenco statico.
+1. Dopo l’esportazione, l’elenco verrà visualizzato come file .txt nella cartella dei download del browser. Recuperarlo e [importarlo](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) nell&#39;istanza di Marketo come elenco statico.
 
    ![](assets/five.png)
 
