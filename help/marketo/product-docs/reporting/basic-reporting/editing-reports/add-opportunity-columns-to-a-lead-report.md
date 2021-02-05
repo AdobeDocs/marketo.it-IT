@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Aggiungere colonne opportunità a un report lead - Documenti Marketo - Documentazione prodotto
 title: Aggiungi colonne opportunità a un report lead
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](
    | Giorni di chiusura | Numero medio di giorni per chiudere le opportunità. |
    | Giorni di vendita | Lunghezza media del ciclo di vendita (giorni fino a opportunità + giorni per chiudere). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >Scopri come [gestire le dimensioni del report](configure-report-size.md).
