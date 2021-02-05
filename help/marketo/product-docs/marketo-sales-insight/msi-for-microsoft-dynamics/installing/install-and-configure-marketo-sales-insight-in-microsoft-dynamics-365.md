@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: Installazione e configurazione di Marketing Sales Insight in Microsoft Dynamics 365 - Marketo Docs - Documentazione prodotto
 title: Installazione e configurazione di Marketing Sales Insight in Microsoft Dynamics 365
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -144,8 +144,6 @@ Devi concedere agli utenti le autorizzazioni per utilizzare Sales Insight.
 
 Ora hai sbloccato la potenza di Marketing Sales Insight per il tuo team di vendita.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Impostazione di stelle e fiamme per i record lead/contatto](http://docs.marketo.com/x/BICMAg)
