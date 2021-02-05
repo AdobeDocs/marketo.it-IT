@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configurare Marketo Sales Insight in Salesforce Professional Edition - Marketo Docs - Documentazione prodotto
 title: Configurare Marketing Sales Insight in Salesforce Professional Edition
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '918'
 ht-degree: 0%
 
 ---
@@ -299,9 +299,7 @@ Ed è tutto! È necessario essere in grado di visualizzare i campi Visione marke
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Priorità, Urgenza, Punteggio relativo e migliori risultati](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Aggiungi la scheda Marketing Sales Insight e i pulsanti a Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
