@@ -3,7 +3,7 @@ unique-page-id: 2359951
 description: Rimozione di un membro da un programma di coinvolgimento - Documenti Marketo - Documentazione prodotto
 title: Rimozione di un membro da un programma di partecipazione
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Oops! Come sono entrate quelle persone? Puoi rimuovere i membri da un programma 
 
 >[!TIP]
 >
->Non utilizzate questa opzione per mettere in pausa il contenuto per una persona. Questo eliminerà tutte le attribuzioni nelle analisi.  Scopri di più su come [mettere in pausa le persone in un programma di coinvolgimento](pause-people-in-an-engagement-program.md).
+>Non utilizzate questa opzione per mettere in pausa il contenuto per una persona. Questo eliminerà tutte le attribuzioni nelle analisi. Scopri di più su come [mettere in pausa le persone in un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Passaggio flusso {#flow-step}
 
@@ -29,7 +29,7 @@ Oops! Come sono entrate quelle persone? Puoi rimuovere i membri da un programma 
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Tutti i membri definiti in [smart list](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) non saranno più inclusi in questo programma di coinvolgimento.
+   Groovy. Tutti i membri definiti in [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) non saranno più inclusi in questo programma di coinvolgimento.
 
 ## Pausa persone {#pause-people}
 
@@ -37,5 +37,4 @@ A volte si desidera mettere in pausa le persone in un programma di coinvolgiment
 
 >[!MORELIKETHIS]
 >
->* [Sospendi utenti in un programma di coinvolgimento](pause-people-in-an-engagement-program.md)
-
+>[Sospendi utenti in un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
