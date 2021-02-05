@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: Utilizzo di contenuti dinamici in un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di contenuti dinamici in un messaggio e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Utilizzate Contenuti dinamici nelle e-mail per inviare ai lead informazioni mira
 
 Dolce! Ora puoi inviare e-mail flessibili al pubblico di destinazione.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Anteprima di un messaggio e-mail con contenuto dinamico](preview-an-email-with-dynamic-content.md)
 >* [Utilizzo di contenuti dinamici in una pagina di destinazione](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
