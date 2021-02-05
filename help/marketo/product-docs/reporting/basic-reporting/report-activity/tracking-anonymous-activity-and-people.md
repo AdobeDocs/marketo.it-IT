@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: Tracciamento delle attività e delle persone anonime - Marketo Docs - Documentazione prodotto
 title: Tracciamento delle attività e delle persone anonime
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ La prima volta che un utente visita una pagina di destinazione Marketo [o una pa
    >
    >Quando i record anonimi vengono uniti in un record di persona nuovo o esistente, i valori dei campi personalizzati **non** vengono trasferiti.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
