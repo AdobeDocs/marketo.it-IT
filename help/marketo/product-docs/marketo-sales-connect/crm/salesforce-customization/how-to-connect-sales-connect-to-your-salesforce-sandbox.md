@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Come collegare le vendite alla sandbox Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Come collegare le vendite alla sandbox di Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Come installare le personalizzazioni nella sandbox di Salesforce](http://docs.marketo.com/x/EIDq)
 
