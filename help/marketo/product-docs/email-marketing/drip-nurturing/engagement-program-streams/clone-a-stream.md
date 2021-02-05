@@ -3,7 +3,7 @@ unique-page-id: 2359789
 description: Clona un flusso - Documenti Marketo - Documentazione del prodotto
 title: Duplica un flusso
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -21,19 +21,16 @@ Duplica un flusso per vari motivi, incluso il test di ordini diversi e cadenze d
 
 1. Fare clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fare clic su **Clone**.
 
-   ` ![](assets/image2014-9-15-17-3a0-3a23.png)
-
-   `
+   ![](assets/image2014-9-15-17-3a0-3a23.png)
 
    >[!NOTE]
    >
    >Puoi avere fino a 25 flussi per programma di coinvolgimento.
 
-   Ben fatto! Non amate cose che rendono la vostra vita più facile?  ` ![](assets/image2014-9-15-17-3a1-3a20.png)
+   Ben fatto! Non amate cose che rendono la vostra vita più facile?
 
-   `
+   ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    >[!CAUTION]
    >
    >Tutto nel flusso è clonato tranne la Cadenza. Ricorda di impostarlo.
-
