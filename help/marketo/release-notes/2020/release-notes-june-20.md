@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: Note sulla versione - Giugno 20 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Giugno 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella release di giugno 20. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) possono essere aggiunte a pagamento. Per ulteriori informazioni, contattate il rappresentante del Marketo Engage.
 
@@ -60,11 +59,11 @@ Le seguenti funzionalità sono su un ciclo non trimestrale e verranno rilasciate
 
 **
 
-* **Integrazione** dei programmi di Marketo Engage: Estrarre i dati del programma direttamente dal Marketo Engage per creare punti di contatto lungo il percorso di attribuzione in Bizible per accreditare e-mail e programmi di coinvolgimento in modo appropriato. Miglioramento dell&#39;integrazione dei nostri Marketi Engage.
-* **Integrazione`<sup>BETA</sup>`** attività Marketo Engage: Trasferisci i dati di attività del Marketo Engage direttamente in Bizible per creare punti di contatto nel percorso del cliente e in tutti i modelli di attribuzione. Alcuni esempi includono modifiche alla valutazione dei lead, momenti interessanti, clic su e-mail o qualsiasi attività personalizzata. Miglioramento dell&#39;integrazione dei nostri Marketi Engage.
+* **Integrazione** dei programmi di Marketo Engage: Estrarre i dati del programma direttamente dal Marketo Engage per creare punti di contatto lungo il percorso di attribuzione in Bizible e accreditare in modo appropriato e-mail e programmi di coinvolgimento. Miglioramento dell&#39;integrazione dei nostri Marketi Engage.
+* **Integrazione`<sup>BETA</sup>`** attività Marketo Engage: Inserite i dati dell&#39;attività di Marketo Engage direttamente in Bizible per creare punti di contatto nel percorso cliente e in tutti i modelli di attribuzione. Alcuni esempi includono modifiche alla valutazione dei lead, momenti interessanti, clic su e-mail o qualsiasi attività personalizzata. Miglioramento dell&#39;integrazione dei nostri Marketi Engage.
 * **Integrazione`<sup>BETA</sup>`** degli attributi del cliente B2B: Questa è un&#39;integrazione Adobe Experience Cloud con  Adobe Analytics che consente di portare alcuni dati Bizible direttamente in  Adobe Analytics per un&#39;analisi più approfondita. Alcuni esempi includono l&#39;analisi del traffico del sito e del contenuto basata su conto in base al nome della società, agli attributi del conto, alle opportunità CRM e agli individui di alto valore, come definiti dalle entrate e dallo stadio funnel attribuibili Bizible.
 * **Filtri e miglioramenti della funzione di individuazione della bizable:** analizzare i dati con canali, canali secondari, campagne e filtri per segmenti nelle dashboard. Maggiore visibilità dei dati con più attributi di drill-down. Questo è un miglioramento per le nostre bacheche Discover.
-* **Sincronizzazione attività per Microsoft Dynamics**: Attribuisci le interazioni di vendita inserendo le attività di Microsoft Dynamics CRM nel percorso del punto di contatto e tracciando eventi quali chiamate, appuntamenti o attività associate ai tuoi lead o contatti. Miglioramento all&#39;integrazione con Microsoft Dynamics CRM.
+* **Sincronizzazione attività per Microsoft Dynamics**: Attribuisci le interazioni di vendita inserendo le attività di Microsoft Dynamics CRM nel percorso dei punti di contatto e monitora eventi quali chiamate, appuntamenti o attività associate ai tuoi lead o contatti. Miglioramento all&#39;integrazione con Microsoft Dynamics CRM.
 
 **Informazioni sulle vendite ![(star)](assets/star-yellow.svg)
 
