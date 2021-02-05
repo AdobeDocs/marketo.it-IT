@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Note sulla versione - Luglio 20 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Luglio '20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella release di luglio 20. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >A seconda del pacchetto corrente, gli elementi con una stella ( ![(star)](assets/star-yellow.svg)) potrebbero richiedere l&#39;acquisto di un componente aggiuntivo di valore. Per ulteriori informazioni, contattate il rappresentante del Marketo Engage.
 
