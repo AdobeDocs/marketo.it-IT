@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Scegliere un'e-mail esistente - Documenti Marketo - Documentazione prodotto
 title: Scegliere un'e-mail esistente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Dopo aver [creato un programma e-mail](../../../../product-docs/email-marketing/
 
 Ora che abbiamo deciso quale e-mail inviare, possiamo impostare un test A/B, o saltarlo e pianificare il programma e-mail.
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Aggiungere un test A/B](email-test-a-b-test/add-an-a-b-test.md)
 >* [Pianificazione del programma e-mail](schedule-your-email-program.md)
