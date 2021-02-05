@@ -3,7 +3,7 @@ unique-page-id: 2359669
 description: Attivare e disattivare il contenuto del flusso - Documenti Marketo - Documentazione del prodotto
 title: Attivare e disattivare il contenuto del flusso
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attivate i 
 
    >[!TIP]
    >
-   >È inoltre possibile attivare tutto il contenuto di un flusso facendo clic sull&#39;icona a forma di ingranaggio al livello principale, quindi facendo clic su **Attiva tutto il contenuto.**
+   >Potete inoltre attivare tutto il contenuto di un flusso facendo clic sull&#39;icona a forma di ingranaggio al livello superiore, quindi facendo clic su **Attiva tutto il contenuto**.
 
    Bel lavoro! Ora sai come attivare il contenuto nei flussi.
 
@@ -45,7 +45,6 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attivate i 
 
    ![](assets/cloneasteam.jpg)
 
-1. Passate il puntatore del mouse sul contenuto da disattivare, fate clic sull&#39;icona a forma di ingranaggio, quindi fate clic su **Disattiva.**
+1. Passate il puntatore del mouse sul contenuto da disattivare, fate clic sull&#39;icona a forma di ingranaggio, quindi fate clic su **Disattiva**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
-
