@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Approvare una segmentazione - Documenti Marketo - Documentazione prodotto
 title: Approvare una segmentazione
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Prima di poter utilizzare una segmentazione, è necessario approvarla.
 >
 >Se durante l&#39;approvazione ricevete un messaggio di errore e richiedete assistenza per ridurre la complessità della segmentazione, contattate il supporto [Marketo](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Utilizzo dei filtri dei segmenti in un elenco avanzato](use-segment-filters-in-a-smart-list.md)
 
