@@ -3,7 +3,7 @@ unique-page-id: 10912085
 description: Indirizzi IP condivisi e dedicati - Documenti Marketo - Documentazione del prodotto
 title: Indirizzi IP condivisi e dedicati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -31,13 +31,13 @@ Come al solito, ci sono pro e contro a entrambe le opzioni.
 
 **Pros and Cons di un IP dedicato**
 
-*Pros*
+_Pros_
 
 **Reputazione**  - Lei possiede tutta la sua reputazione e la sua realizzabilità.\
 **Monitoraggio** : il monitoraggio del reporting sulla recapito consente di rispondere rapidamente ai cambiamenti nelle metriche di distribuzione.\
 **Risoluzione**  dei problemi: è più facile ricercare, capire e risolvere i problemi di consegna.
 
-*Cons*
+_Cons_
 
 **Modifiche**  del volume: i picchi nel volume possono influenzare negativamente la reputazione e devono essere gestiti.\
 **Processo**  di riscaldamento IP - La reputazione è costruita nel tempo. Alcuni provider di servizi Internet (ISP, Internet Service Provider) riducono gli indirizzi IP senza cronologia del volume, quindi sarà necessario costruire una reputazione nelle prime settimane (Marketo può aiutarti).\
@@ -45,17 +45,17 @@ Come al solito, ci sono pro e contro a entrambe le opzioni.
 
 **Pros and Cons di un IP condiviso**
 
-*Pros*
+_Pros_
 
-**Buoni compagni di stanza **- Se le persone che condividete il vostro IP con le migliori pratiche di invio, ne trarreste beneficio.\
-**Frequenza di spedizione **- Non è necessaria una frequenza minima di spedizione per qualificarsi per un IP condiviso, a differenza degli IP dedicati.\
-**Costo **- Non c&#39;è mai un costo aggiuntivo da inviare da un IP condiviso.
+**Buoni compagni**  di stanza - Se le persone che condividete il vostro IP con le migliori pratiche di invio, ne trarreste beneficio.\
+**Frequenza**  di spedizione: non è necessaria una frequenza minima di spedizione per qualificarsi per un IP condiviso, a differenza degli IP dedicati.\
+**Costo** : non esiste mai un costo aggiuntivo da inviare da un IP condiviso.
 
-*Cons*
+_Cons_
 
 **Stanze**  errate - Se le persone che condividete il vostro IP si dedicano a procedure di invio errate, le campagne e-mail potrebbero essere influenzate negativamente.\
-**Controllo **- Hai molto meno controllo sulla reputazione del mittente.\
-**Risoluzione dei problemi **- Spesso può essere più difficile risolvere un problema durante l&#39;invio da IP condivisi.
+**Controllo**  - Hai molto meno controllo sulla reputazione del mittente.\
+**Risoluzione**  dei problemi: spesso può essere più difficile risolvere un problema durante l&#39;invio da IP condivisi.
 
 >[!NOTE]
 >
