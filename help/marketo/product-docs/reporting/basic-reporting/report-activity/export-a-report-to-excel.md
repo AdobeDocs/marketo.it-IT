@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: Esportare un rapporto in Excel - Documenti Marketo - Documentazione prodotto
 title: Esportare un rapporto in Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,8 @@ ht-degree: 0%
 
    È tutto! Il browser richiede di salvare il file Excel nel sistema.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >Se il file scaricato è troppo grande, è possibile [modificare la dimensione del report](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) .
