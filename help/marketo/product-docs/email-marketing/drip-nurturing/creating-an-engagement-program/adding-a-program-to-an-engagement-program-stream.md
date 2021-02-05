@@ -3,7 +3,7 @@ unique-page-id: 10098134
 description: Aggiunta di un programma a un flusso del programma di coinvolgimento - Documenti Marketo - Documentazione del prodotto
 title: Aggiunta di un programma a un flusso del programma di coinvolgimento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,10 +57,6 @@ Generazione dei rapporti sulle modifiche con la posizione dell’e-mail. Quindi,
 
 >[!MORELIKETHIS]
 >
->* [Aggiunta di contenuto a un flusso](add-content-to-a-stream.md)
->* [Informazioni sui programmi](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-
->
-
-
+>* [Aggiunta di contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Informazioni sui programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 
