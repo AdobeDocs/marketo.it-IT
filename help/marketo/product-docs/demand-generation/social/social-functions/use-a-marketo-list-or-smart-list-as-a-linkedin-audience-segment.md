@@ -3,7 +3,7 @@ unique-page-id: 7504180
 description: Utilizzare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn - Documenti Marketo - Documentazione del prodotto
 title: Usare un elenco Marketo o un elenco smart come segmento di pubblico LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
 
 >[!PREREQUISITES]
 >
->* [Aggiungi tipi di pubblico associati LinkedIn come servizio LaunchPoint](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Aggiungi tipi di pubblico associati LinkedIn come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
->
-
-
-
-1. Andate al database****.
+1. Accedere al **Database**.
 
    ![](assets/db.png)
 
@@ -35,7 +31,7 @@ Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
 
    ![](assets/three-1.png)
 
-1. Fare clic sull&#39;icona** Invia tramite Ad Bridge **a ![—](assets/image2015-4-20-18-3a18-3a41.png) in fondo all&#39;elenco.
+1. Fate clic sull&#39;icona **Invia tramite Ad Bridge** ![—](assets/image2015-4-20-18-3a18-3a41.png) in fondo all&#39;elenco.
 
    ![](assets/four-1.png)
 
@@ -43,7 +39,7 @@ Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
    >
    >Quando si utilizzano le integrazioni di rete di annunci per inviare un&#39;audience a LinkedIn, Marketo invia solo l&#39;indirizzo e-mail.
 
-1. Selezionare** LinkedIn** e fare clic su **Next**.
+1. Selezionare **LinkedIn** e fare clic su **Next**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -67,6 +63,4 @@ Integra le persone di Marketo con i tipi di pubblico di LinkedIn.
    >
    >Consentite 15 minuti per la sincronizzazione.
 
-   [Centro di assistenza per le soluzioni Marketing di LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
-
-Cinque in alto! I tuoi dati ora saranno condivisi con il pubblico di LinkedIn. Per informazioni sul caricamento di elenchi in LinkedIn per Account e Targeting contatti, visitate .
+Cinque in alto! I tuoi dati ora saranno condivisi con il pubblico di LinkedIn. Per informazioni sul caricamento di elenchi in LinkedIn per il targeting degli account e dei contatti, visitate il [Centro di assistenza per le soluzioni Marketing di LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
