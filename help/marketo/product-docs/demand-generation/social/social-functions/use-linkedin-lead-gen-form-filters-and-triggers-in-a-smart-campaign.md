@@ -3,7 +3,7 @@ unique-page-id: 12976776
 description: Utilizzare i filtri e gli attivatori per moduli lead Gen di LinkedIn in una Smart Campaign - Marketo Docs - Documentazione prodotto
 title: Utilizzare i filtri e gli attivatori per moduli principali LinkedIn in una campagna avanzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -26,4 +26,3 @@ Se hai attivato LinkedIn Lead Gen Forms, puoi utilizzarli come filtri e attivato
 1. Aggiungete vincoli per limitare ulteriormente i risultati.
 
    ![](assets/lead-gen-constraints.png)
-
