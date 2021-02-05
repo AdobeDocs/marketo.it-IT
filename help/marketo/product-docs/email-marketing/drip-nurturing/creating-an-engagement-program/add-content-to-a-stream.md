@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Aggiungere contenuto a un flusso - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di contenuto a un flusso
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,10 +85,7 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere contenuto ai fl
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Per il corretto funzionamento della campagna smart, il filtro **Membro del programma di coinvolgimento** deve contenere il filtro &lt;a0/>Membro del programma di coinvolgimento.
+   >Per il corretto funzionamento della campagna smart, il filtro **Membro del programma di coinvolgimento** deve contenere il filtro Membro del programma di coinvolgimento.
 
 **Flusso + Icona**
 
@@ -118,9 +115,4 @@ Ottimo lavoro! Ora è possibile utilizzare diversi metodi per aggiungere contenu
 
 >[!MORELIKETHIS]
 >
->* [Aggiunta di un programma a un flusso del programma di coinvolgimento](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[Aggiunta di un programma a un flusso del programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
