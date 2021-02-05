@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Approva il test e-mail - Marketo Docs - Documentazione del prodotto
 title: Champion/Challenger - Approva il tuo test e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,8 @@ Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
 
    Non era così facile? Una volta ricevuti alcuni rapporti si desidera dichiarare un campione.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
