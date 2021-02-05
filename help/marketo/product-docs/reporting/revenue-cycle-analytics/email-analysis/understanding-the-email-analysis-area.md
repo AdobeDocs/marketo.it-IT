@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: Informazioni sull'area di analisi e-mail - Documenti Marketo - Documentazione prodotto
 title: Informazioni sull’area di analisi e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 L&#39;area Analisi e-mail si concentra sulle metriche delle e-mail. Questo articolo introduce tutti i rapporti disponibili al suo interno.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Questa funzione è disponibile per gli utenti con il componente aggiuntivo Select Edition o [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Per informazioni, contattate il rappresentante commerciale.
 
