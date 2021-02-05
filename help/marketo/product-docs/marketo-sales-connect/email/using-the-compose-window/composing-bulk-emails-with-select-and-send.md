@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Composizione di e-mail in blocco con Seleziona e invia - Documenti Marketo - Documentazione prodotto
 title: Composizione di e-mail in blocco con Seleziona e invia
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,8 @@ Completate gli aggiornamenti in blocco prima di personalizzare ogni e-mail, poic
 
    ![](assets/each-four.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
