@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Rilascio di una licenza del componente aggiuntivo per e-mail Marketo - Documenti Marketo - Documentazione del prodotto
 title: Rilascio di una licenza del componente aggiuntivo per e-mail Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Per utilizzare il componente aggiuntivo per Microsoft Outlook e-mail Marketo è 
 * **[Installazione](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)** chiave Enterprise: Utilizzate questo metodo quando i rappresentanti di vendita non dispongono dei diritti di amministratore per i loro laptop aziendali e non possono installare plug-in, software e così via. su. In questo caso, l&#39;amministratore di Marketo rilascia licenze a un elenco di utenti autorizzati. Successivamente, il team IT distribuisce il plug-in in remoto a tutti i computer degli utenti autorizzati utilizzando Enterprise Key. L&#39;utente del plug-in quindi lo autorizza.
 * **[Installazione](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)** del codice di registrazione: Utilizzare questo metodo quando i rappresentanti di vendita dispongono dei diritti di amministratore per il laptop aziendale e possono installare plug-in, software, ecc. su. Per questa procedura, l&#39;amministratore di Marketo rilascia licenze a un elenco di utenti autorizzati e invia loro i messaggi e-mail di registrazione direttamente con i collegamenti per il download. Il rappresentante commerciale riceve un’e-mail con un collegamento per il download del plug-in e un URL di registrazione univoco.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilità**
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
