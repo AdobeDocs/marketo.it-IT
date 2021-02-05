@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: Configurare le dimensioni del rapporto - Documenti Marketo - Documentazione del prodotto
 title: Configura dimensione rapporto
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5
 
    Hai finito! La relazione rispetterà il nuovo limite.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >
    >Ora puoi [esportare il report](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) con il nuovo limite.
