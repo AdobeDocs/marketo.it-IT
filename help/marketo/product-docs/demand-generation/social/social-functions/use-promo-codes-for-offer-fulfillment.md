@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: Usa codici promozionali per la evasione dell'offerta - Documenti Marketo - Documentazione del prodotto
 title: Usa codici promozionali per la evasione dell'offerta
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Quando create un&#39;offerta di referral o una suite di date, potete inviare un 
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Nell&#39;editor delle offerte di riferimento, andate a **Impostazioni app** e quindi **Dettagli offerta.**
+1. Nell&#39;editor delle offerte di riferimento, andate a **Impostazioni app** e quindi **Dettagli offerta**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ Quando create un&#39;offerta di referral o una suite di date, potete inviare un 
 
    >[!CAUTION]
    >
-   >
    >Qualsiasi spazio vuoto nel file dei codici promozionali viene trattato come parte del codice su quella riga. Prestate particolare attenzione a evitare spazi finali alla fine di ogni linea.
 
 1. Al termine del caricamento, viene visualizzato il numero totale di codici caricati.
@@ -52,7 +51,7 @@ Una volta che i partecipanti iniziano a percepire il premio per l&#39;offerta, p
 
 >[!NOTE]
 >
->Solo gli utenti Marketo con l&#39;autorizzazione *Access Awards* hanno accesso a queste informazioni. Vedere [Gestione di ruoli utente e autorizzazioni](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Solo gli utenti Marketo con l&#39;autorizzazione _Access Awards_ hanno accesso a queste informazioni. Vedere [Gestione di ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Andate a **Marketing Activities**.
 
