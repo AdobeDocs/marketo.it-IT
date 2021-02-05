@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: Evitare di inviare contenuti duplicati - Documenti Marketo - Documentazione prodotto
 title: Evitare di inviare contenuto duplicato
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Una persona riceve un messaggio e-mail inviato dal modulo di gestione del coinvo
 | Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno di un programma **diverso** CEE | Un membro del programma predefinito | No |
 | Una campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno di un programma **diverso** CEE | Non è membro del programma predefinito | Yes |
 | Un programma **diverso** CEE che utilizza un flusso intelligente | Membro di entrambi i programmi CEE | No |
-
