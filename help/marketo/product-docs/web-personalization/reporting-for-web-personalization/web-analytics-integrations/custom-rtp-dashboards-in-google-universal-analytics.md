@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Dashboard RTP personalizzati in Google Universal Analytics - Documenti Marketo - Documentazione del prodotto
 title: Dashboard RTP personalizzati in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -263,9 +263,7 @@ Create una nuova dashboard denominata **Dashboard partecipazione RTP** e definit
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >[Integrare RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 >
