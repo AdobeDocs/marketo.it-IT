@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Pianificazione del test A/B - Marketo Docs - Documentazione del prodotto
 title: Programmare il test A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincen
 
    Se hai già definito l&#39;audience e scelto un&#39;e-mail, l&#39;unico passo che rimane è l&#39;approvazione del programma.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Articoli correlati**
    >
    >    
    >    
