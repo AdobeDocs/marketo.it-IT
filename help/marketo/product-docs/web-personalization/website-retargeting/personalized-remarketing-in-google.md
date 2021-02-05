@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Notizie personalizzate in Google - Marketo Docs - Documentazione prodotto
 title: Osservazioni personalizzate in Google
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ In Google Universal Analytics:
 
    ![](assets/image2015-1-15-18-3a47-3a21.png)
 
->[!NOTE]
->
->**Articoli correlati**
+>[!MORELIKETHIS]
 >
 >* [Ritargeting con dati di personalizzazione Web](retargeting-with-web-personalization-data.md)
 >* [Osservazioni personalizzate su Facebook](personalized-remarketing-in-facebook.md)
