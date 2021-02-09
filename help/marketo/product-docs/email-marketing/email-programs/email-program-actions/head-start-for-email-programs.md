@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: Head Start for Email Programs - Marketo Docs - Documentazione prodotto
 title: Head Start for Email Programs
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 Quando si sceglie una data/ora per un programma e-mail, questo determina quando il programma inizierà l&#39;elaborazione. Se desiderate che le e-mail vengano avviate al momento selezionato, Head Start vi offre tale opzione elaborando il programma in anticipo.
 
@@ -74,15 +70,11 @@ Ciò significa che se siete in America/Los Angeles e desiderate attivare sia Hea
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Scopri ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) di più su come pianificare programmi e-mail con il fuso orario del destinatario.
+[Scopri ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) di più su come pianificare programmi e-mail con il fuso orario del destinatario.
 
 >[!MORELIKETHIS]
 >
->* [Pianificazione del programma e-mail](schedule-your-email-program.md)
->* [Pianificazione dei programmi e-mail con il fuso orario del destinatario](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Informazioni sul fuso orario del destinatario](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [Pianificazione del programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Pianificazione dei programmi e-mail con il fuso orario del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Informazioni sul fuso orario del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
