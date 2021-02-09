@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: Creare un'e-mail per un programma e-mail - Marketo Docs - Documentazione prodotto
 title: Creare un'e-mail per un programma e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definire un pubblico con un ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) elenco avanzato  [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
->
 
-
-
-Dopo aver creato il programma e-mail e definito il pubblico, sarà necessario decidere quale e-mail inviare. Potete [scegliere un&#39;e-mail esistente](choose-an-existing-email.md) oppure crearne una da zero. Ecco come creare un nuovo messaggio e-mail.
+Dopo aver creato il programma e-mail e definito il pubblico, sarà necessario decidere quale e-mail inviare. Potete [scegliere un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oppure crearne una da zero. Ecco come creare un nuovo messaggio e-mail.
 
 1. Andate a **Marketing Activities**.
 
@@ -48,10 +45,4 @@ Dopo aver creato il programma e-mail e definito il pubblico, sarà necessario de
 
    ![](assets/five.png)
 
-Fantastico! Ora che abbiamo creato un&#39;e-mail che vogliamo inviare, aggiungiamo un test A/B[ o saltiamo direttamente a ](email-test-a-b-test/add-an-a-b-test.md)pianificare il programma e-mail[.](schedule-your-email-program.md)
-
->[!MORELIKETHIS]
->
->* [Aggiungere un test A/B](email-test-a-b-test/add-an-a-b-test.md)
->* [Pianificazione del programma e-mail](schedule-your-email-program.md)
-
+Fantastico! Ora che abbiamo creato un&#39;e-mail che vogliamo inviare, aggiungiamo un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) o saltiamo direttamente a [pianificare il programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).[
