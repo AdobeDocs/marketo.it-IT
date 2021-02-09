@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: Usa test A/B "Subject Line" - Marketo Docs - Documentazione prodotto
 title: Usa test A/B "Subject Line"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungere un test A/B](add-an-a-b-test.md)
-
->
-
-
+>[Aggiungere un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. Nella sezione E-mail, con l’e-mail selezionata, fate clic su Aggiungi test A/B.
 
@@ -31,13 +27,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Scelta** A***** **precompilare con le informazioni contenute nel messaggio e-mail selezionato.
+   >La scelta **A** verrà precompilata con le informazioni contenute nel messaggio e-mail selezionato.
 
    ![](assets/image2014-9-12-15-3a9-3a14.png)
 
    >[!TIP]
    >
-   >È possibile fare clic sul simbolo **più****** per aggiungere altre righe oggetto.
+   >È possibile fare clic su **+** per aggiungere altre righe oggetto.
 
 1. Usate il cursore per scegliere la percentuale di pubblico che desiderate ricevere il test A/B e fate clic su **Next**.
 
@@ -45,19 +41,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se utilizzate un elenco statico, impostando la dimensione del campione su 100% l&#39;e-mail verrebbe inviata a tutti gli utenti del pubblico e il vincitore non passerebbe a nessuno. Se utilizzate un elenco avanzato, impostando la dimensione del campione su 100% invierete l&#39;e-mail a tutti gli utenti *in quel momento. *E quando il programma e-mail verrà eseguito di nuovo in un secondo momento, tutte le nuove persone che si qualificano per la lista intelligente riceveranno anche l&#39;e-mail dal momento che ora sono incluse nel pubblico.
+   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se utilizzate un elenco statico, impostando la dimensione del campione su 100% l&#39;e-mail verrebbe inviata a tutti gli utenti del pubblico e il vincitore non passerebbe a nessuno. Se utilizzate un elenco avanzato, impostando la dimensione del campione su 100% l&#39;e-mail verrà inviata a tutti gli utenti _in quel momento_. E quando il programma e-mail verrà eseguito di nuovo in un secondo momento, tutte le nuove persone idonee alla lista intelligente riceveranno anche l&#39;e-mail, dal momento che ora sono incluse nel pubblico.
 
    >[!NOTE]
    >
    >Le diverse varianti di oggetto includeranno parti pari della dimensione del campione di prova selezionata.
 
-   Ok, siamo quasi lì. Ora è necessario [definire i criteri per il vincitore del test A/B](define-the-a-b-test-winner-criteria.md).
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definire i criteri vincitori del test A/B](define-the-a-b-test-winner-criteria.md)
-
-
+   Ok, siamo quasi lì. Ora è necessario [definire i criteri per il vincitore del test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
