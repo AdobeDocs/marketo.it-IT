@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: Usa test A/B "Data/Ora" - Documenti Marketo - Documentazione prodotto
 title: Usa test A/B "Date/Time"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # Usa test A/B &quot;Data/ora&quot; {#use-date-time-a-b-testing}
 
-È possibile testare facilmente le e-mail mediante test A/B. Una delle prove è la **Date/Time **test. Questo consente di verificare l&#39;ora del giorno o del giorno della settimana migliore per l&#39;invio delle e-mail. Ecco come impostarlo.
+È possibile testare facilmente le e-mail mediante test A/B. Un test è il test **Date/Time**. Questo consente di verificare l&#39;ora del giorno o del giorno della settimana migliore per l&#39;invio delle e-mail. Ecco come impostarlo.
 
 >[!PREREQUISITES]
 >
->* [Aggiungere un test A/B](add-an-a-b-test.md)
-
->
-
+>[Aggiungere un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 
 1. Nella sezione **E-mail**, fare clic su **Aggiungi test A/B**.
@@ -57,16 +54,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se usate un elenco statico, impostando la dimensione del campione su 100% l’e-mail viene inviata a tutti gli utenti e il vincitore non viene inviato a nessuno. Se si utilizza un elenco **smart**, impostando la dimensione del campione su 100%, l&#39;e-mail viene inviata a tutti gli utenti *in quel momento. *Quando il programma e-mail verrà eseguito di nuovo in un secondo momento, tutte le nuove persone idonee all&#39;elenco smart riceveranno anche l&#39;e-mail, dal momento che ora sono incluse nel pubblico.
+   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se usate un elenco statico, impostando la dimensione del campione su 100% l’e-mail viene inviata a tutti gli utenti e il vincitore non viene inviato a nessuno. Se si utilizza un elenco **smart**, impostando la dimensione del campione su 100%, l&#39;e-mail viene inviata a tutti gli utenti _in quel momento_. Quando il programma e-mail verrà eseguito nuovamente in un secondo momento, tutte le nuove persone idonee all&#39;elenco smart riceveranno anche l&#39;e-mail, dal momento che ora sono incluse nel pubblico.
 
-   [definire i criteri per il vincitore del test A/B](define-the-a-b-test-winner-criteria.md)
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definire i criteri vincitori del test A/B](define-the-a-b-test-winner-criteria.md)
-
-
-Ok, siamo un passo più vicini. Ora dobbiamo farlo.
+   Ok, siamo un passo più vicini. Ora è necessario [definire i criteri per il vincitore del test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
