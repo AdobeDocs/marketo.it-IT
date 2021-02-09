@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Pianificazione del test A/B - Marketo Docs - Documentazione del prodotto
 title: Programmare il test A/B
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincen
 
 >[!PREREQUISITES]
 >
->* [Aggiungere un test A/B](add-an-a-b-test.md)
-
->
-
-
+>[Aggiungere un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Per i test di data/ora, è necessario impostare solo quando si riceve il riepilogo dei risultati del test.
 
-1. Selezionare la data di invio del test.
+1. Selezionare la data **Invia test**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincen
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Solo il gruppo di test riceve le varianti di test.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincen
    >Se si sceglie di dichiarare il vincitore manualmente, sarà possibile definire **Invia report** data/ora invece di **Termina invio** data/ora.
 
    Super! Hai finito, controlla il riepilogo e fai clic su Chiudi.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    Noterete che la sezione **Schedule** è stata aggiornata.
@@ -69,9 +63,4 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri vincen
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Approvare/annullare l&#39;approvazione di un programma e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[Approvare/annullare l&#39;approvazione di un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
