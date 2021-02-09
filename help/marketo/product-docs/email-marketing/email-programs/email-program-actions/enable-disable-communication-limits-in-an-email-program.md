@@ -3,9 +3,9 @@ unique-page-id: 2359596
 description: Abilitare/disabilitare i limiti di comunicazione in un programma e-mail - Documenti Marketo - Documentazione del prodotto
 title: Abilitare/disabilitare i limiti di comunicazione in un programma e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Abilitare/disabilitare i limiti di comunicazione in un programma e-mail {#enable-disable-communication-limits-in-an-email-program}
 
-Durante l&#39;esecuzione di un programma e-mail, è possibile scegliere di ignorare o rispettare il limite di comunicazione a livello di amministratore [ ](../../../../product-docs/administration/email-setup/enable-communication-limits.md)s[. ](../../../../product-docs/administration/email-setup/enable-communication-limits.md) Ecco come farlo.
+Durante l&#39;esecuzione di un programma e-mail, puoi scegliere di ignorare o rispettare i limiti di comunicazione a livello di amministratore [. ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) Ecco come farlo.
 
 >[!NOTE]
 >
->**Definizione**
->
->I limiti di comunicazione sono [impostati nella sezione Amministratore](../../../../product-docs/administration/email-setup/enable-communication-limits.md) e consentono di evitare di inviare troppi messaggi e-mail a una persona.
+>I limiti di comunicazione sono [impostati nella sezione Amministratore](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e consentono di evitare di inviare troppi messaggi e-mail a una persona.
 
 1. Andate a **Marketing Activities**.
 
@@ -38,4 +36,3 @@ Durante l&#39;esecuzione di un programma e-mail, è possibile scegliere di ignor
    ![](assets/ifaperson.jpg)
 
    Lasciando l&#39;opzione **Blocca e-mail non operative** selezionata, l&#39;e-mail non verrà inviata a chiunque abbia ricevuto più e-mail di quante ne consentano le impostazioni dell&#39;amministratore.
-
