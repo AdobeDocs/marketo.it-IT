@@ -3,7 +3,7 @@ unique-page-id: 10098691
 description: Spostare un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Spostare un'e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Hai bisogno di spostare un&#39;e-mail da un programma all&#39;altro? Ecco come.
    ![](assets/leadperformance2.jpg)
 
    Abbastanza elegante!
-
