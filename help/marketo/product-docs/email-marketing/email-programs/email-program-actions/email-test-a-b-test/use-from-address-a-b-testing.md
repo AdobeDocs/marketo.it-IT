@@ -3,9 +3,9 @@ unique-page-id: 2359504
 description: Usa test A/B "From Address" - Marketo Docs - Documentazione prodotto
 title: Usa test A/B "From Address"
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungere un test A/B](add-an-a-b-test.md)
-
->
-
-
+>[Aggiungere un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. Nella sezione **E-mail**, con l&#39;e-mail selezionata, fare clic su **Aggiungi test A/B**.
 
@@ -45,7 +41,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >È possibile fare clic sul simbolo **più** per aggiungere tutti gli indirizzi Da che si desidera.
+   >È possibile fare clic su **+** per aggiungere tutti gli indirizzi Da desiderati.
 
 1. Usate il cursore per scegliere la percentuale di pubblico desiderata nel test A/B e fate clic su **Next**.
 
@@ -57,15 +53,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se usate un elenco statico, impostando la dimensione del campione su 100% l’e-mail viene inviata a tutti gli utenti e il vincitore non viene inviato a nessuno. Se si utilizza un elenco **smart**, impostando la dimensione del campione su 100%, l&#39;e-mail viene inviata a tutti gli utenti *in quel momento. *Quando il programma e-mail verrà eseguito di nuovo in un secondo momento, tutte le nuove persone idonee all&#39;elenco smart riceveranno anche l&#39;e-mail, dal momento che ora sono incluse nel pubblico.
+   >**È consigliabile evitare di impostare la dimensione del campione su 100%**. Se usate un elenco statico, impostando la dimensione del campione su 100% l’e-mail viene inviata a tutti gli utenti e il vincitore non viene inviato a nessuno. Se si utilizza un elenco **smart**, impostando la dimensione del campione su 100%, l&#39;e-mail viene inviata a tutti gli utenti _in quel momento_. Quando il programma e-mail verrà eseguito nuovamente in un secondo momento, tutte le nuove persone idonee all&#39;elenco smart riceveranno anche l&#39;e-mail, dal momento che ora sono incluse nel pubblico.
 
-   OK, siamo quasi lì. Ora è necessario [definire i criteri per il vincitore del test A/B](define-the-a-b-test-winner-criteria.md).
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Definire i criteri vincitori del test A/B](define-the-a-b-test-winner-criteria.md)
-
-
+   OK, siamo quasi lì. Ora è necessario [definire i criteri per il vincitore del test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
