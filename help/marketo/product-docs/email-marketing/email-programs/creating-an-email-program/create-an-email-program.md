@@ -3,9 +3,9 @@ unique-page-id: 1900591
 description: Creare un programma e-mail - Documenti Marketo - Documentazione prodotto
 title: Creare un programma e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,8 @@ Utilizzate i programmi e-mail per inviare rapidamente e facilmente un&#39;e-mail
 
 Bello! Notate che il programma è ora nella struttura ad albero e pronto per essere utilizzato. Il passo successivo sarà quello di definire il pubblico. Consulta gli articoli correlati al marketing di seguito.
 
-## Guarda il video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Definire un pubblico con un elenco avanzato](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Definire un pubblico importando un elenco](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
->
-
-
+>* [Definire un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
