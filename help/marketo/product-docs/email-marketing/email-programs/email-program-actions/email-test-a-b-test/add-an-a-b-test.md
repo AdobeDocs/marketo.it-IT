@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Aggiunta di un test A/B - Documenti Marketo - Documentazione prodotto
 title: Aggiungere un test A/B
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare un programma e-mail](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definire un pubblico con un ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) elenco avanzato mediante  [Definisci un pubblico importando un elenco](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definire un pubblico con un ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) elenco avanzato  [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Scegliere un ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-mail esistente o  [creare un&#39;e-mail per un programma e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
+* [Scegliere un ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-mail esistente o  [creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
 Il test è un ottimo modo per ottimizzare le e-mail e migliorare il coinvolgimento. Ecco come iniziare.
@@ -48,16 +45,12 @@ Il test è un ottimo modo per ottimizzare le e-mail e migliorare il coinvolgimen
 
    >[!CAUTION]
    >
-   >Se nel database sono presenti record duplicati, tali record riceveranno **sia** le e-mail di prova che di vincita. Per evitare che ciò accada, accertatevi di [trovare e unire persone duplicate](http://docs.marketo.com/x/G4EI) nel database.
+   >Se nel database sono presenti record duplicati, tali record riceveranno **sia** le e-mail di prova che di vincita. Per evitare che ciò accada, accertatevi di [trovare e unire persone duplicate](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) nel database.
 
 >[!MORELIKETHIS]
 >
->* [Usa test A/B &quot;Subject Line&quot;](use-subject-line-a-b-testing.md)
->* [Usa test A/B per &quot;E-mail intera&quot;](use-whole-email-a-b-testing.md)
->* [Usa test A/B &quot;From Address&quot;](use-from-address-a-b-testing.md)
->* [Usa test A/B &quot;Date/Time&quot;](use-date-time-a-b-testing.md)
-
->
-
-
+>* [Usa test A/B &quot;Subject Line&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [Usa test A/B per &quot;E-mail intera&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [Usa test A/B &quot;From Address&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Usa test A/B &quot;Date/Time&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
