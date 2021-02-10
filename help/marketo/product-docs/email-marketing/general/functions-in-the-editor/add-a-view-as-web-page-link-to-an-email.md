@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: Aggiungere un collegamento Visualizza come pagina Web a un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un collegamento di visualizzazione come pagina Web a un indirizzo e-mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Ecco un esempio di come si presenta:
 >
 >Il collegamento Visualizza come pagina Web verrà visualizzato solo dopo l’invio del messaggio e-mail. Inviati un test per visualizzarlo.
 
-Per modificare il testo predefinito, vedere [Modificare il messaggio &quot;Visualizza come pagina Web&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Per modificare il testo predefinito, vedere [Modificare il messaggio &quot;Visualizza come pagina Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
