@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: Impostazioni di condivisione - Documenti Marketo - Documentazione del prodotto
 title: Impostazioni di condivisione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
 
 ## Configurare le impostazioni di condivisione {#configure-your-sharing-settings}
 
-1. Nell&#39; [applicazione Web](http://toutapp.com/login), passare alla pagina Settings (Impostazioni).
+1. Nell&#39; [applicazione Web](https://toutapp.com/login), passare alla pagina Settings (Impostazioni).
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
 1. Ora che il team è stato aggiunto, potete scegliere se consentire la condivisione solo agli amministratori del team o a tutti gli utenti del team. In questo esempio abbiamo dato a tutti gli utenti del SDR l&#39;accesso per la condivisione del team.
 
    ![](assets/eight-1.png)
-
