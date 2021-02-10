@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: Registrazione eventi e-mail - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulla registrazione degli eventi tramite e-mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Quando si inviano e-mail, Marketo registra diversi punti dati nei registri attiv
 >[!CAUTION]
 >
 >Se la stessa e-mail viene inviata alla stessa persona due volte dalla stessa campagna, l&#39;evento **Opened** verrà registrato al massimo 1 volta.
-
