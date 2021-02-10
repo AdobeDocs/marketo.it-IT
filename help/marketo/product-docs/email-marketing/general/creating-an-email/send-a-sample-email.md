@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Invia un esempio e-mail - Documenti Marketo - Documentazione prodotto
 title: Invia un messaggio e-mail di esempio
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Invia un&#39;e-mail di esempio {#send-a-sample-email}
 
-È facile e rapido inviare esempi di e-mail. Per inviare un&#39;e-mail con contenuto dinamico, consultate [Anteprima di un&#39;e-mail con contenuto dinamico](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+È facile e rapido inviare esempi di e-mail. Per inviare un&#39;e-mail con contenuto dinamico, consultate [Anteprima di un&#39;e-mail con contenuto dinamico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ ht-degree: 0%
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Per immettere più indirizzi e-mail, utilizzate le virgole per separarli.
 
@@ -59,13 +56,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il campo di attivazione è applicabile solo a coloro che utilizzano [e-mail script](http://developers.marketo.com/documentation/velocity-script/).
+   >Il campo di attivazione è applicabile solo a coloro che utilizzano [e-mail script](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Invia un&#39;e-mail di esempio basata su un segmento {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Applica la segmentazione al messaggio e-mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[Applica la segmentazione al messaggio e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. Individuate il messaggio e-mail, selezionatelo e fate clic sulla scheda **Modifica bozza**.
 
