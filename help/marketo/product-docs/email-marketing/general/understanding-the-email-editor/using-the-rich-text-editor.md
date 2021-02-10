@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: Utilizzo dell'Editor Rich Text - Marketo Docs - Documentazione prodotto
 title: Utilizzo dell’editor Rich Text
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ L’Editor Rich Text (RTE) viene visualizzato in tutto Marketo ed è disponibile
 
 ## Impostazioni editor {#editor-settings}
 
-L&#39;impostazione dell&#39;elemento blocco principale definisce quali tag racchiudono il contenuto. Per impostazione predefinita, l&#39;elemento blocco radice e-mail utilizza <p> tag. È possibile modificare tale impostazione seguendo la procedura riportata di seguito.
+L&#39;impostazione dell&#39;elemento blocco principale definisce quali tag racchiudono il contenuto. Per impostazione predefinita, l&#39;elemento blocco principale e-mail utilizza tag `<p>`. È possibile modificare tale impostazione seguendo la procedura riportata di seguito.
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ L&#39;impostazione dell&#39;elemento blocco principale definisce quali tag racch
 
    ![](assets/three.png)
 
-1. Nel menu a discesa **E-mail / Editor snippet**, selezionare <div> oppure Nessuno e fare clic su **Salva**. <div> viene utilizzato in questo esempio.
+1. Nel menu a discesa **E-mail / Editor snippet**, selezionare `<div>` o Nessuno e fare clic su **Salva**. `<div>` viene utilizzato in questo esempio.
 
    ![](assets/four.png)
 
-   Se <div class="&ldquo;mktEditable&rdquo;"></div> in un modello e-mail, all’apertura della sezione viene visualizzato il seguente comportamento Sorgente HTML e digitare &quot;Text Goes Here&quot; nell’editor:
+   Se in un modello e-mail è presente `<div class=“mktEditable”></div>`, all&#39;apertura della sezione verrà visualizzato il seguente comportamento Sorgente HTML e digitare &quot;Text Goes Here&quot; nell&#39;editor:
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ L&#39;impostazione dell&#39;elemento blocco principale definisce quali tag racch
 
 >[!NOTE]
 >
->L&#39;elemento blocco principale è sempre <p> per token di programma RTF.
+>L&#39;elemento blocco principale è sempre `<p>` per i token di programma RTF.
 
 ## Caratteristiche {#features}
 
@@ -109,7 +109,7 @@ Queste sono le caratteristiche che troverete in un editor Rich Text.
 
 ## Pagine di destinazione {#landing-pages}
 
-L&#39;impostazione dell&#39;elemento blocco principale definisce quali tag racchiudono il contenuto. Per impostazione predefinita, l&#39;elemento blocco principale della pagina di destinazione utilizza <div> tag. È possibile modificare tale impostazione seguendo la procedura riportata di seguito.
+L&#39;impostazione dell&#39;elemento blocco principale definisce quali tag racchiudono il contenuto. Per impostazione predefinita, l&#39;elemento blocco principale della pagina di destinazione utilizza tag `<div>`. È possibile modificare tale impostazione seguendo la procedura riportata di seguito.
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ L&#39;impostazione dell&#39;elemento blocco principale definisce quali tag racch
 
    ![](assets/three.png)
 
-1. Nel menu a discesa **Editor pagina di destinazione**, selezionare <p> oppure Nessuno e fare clic su **Salva**. <p> viene utilizzato in questo esempio.
+1. Nel menu a discesa **Editor pagina di destinazione**, selezionare `<p>` o Nessuno e fare clic su **Salva**. `<p>` viene utilizzato in questo esempio.
 
    ![](assets/five.png)
 
    Ed è tutto!
-
