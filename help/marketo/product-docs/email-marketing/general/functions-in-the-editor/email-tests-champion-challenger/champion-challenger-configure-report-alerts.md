@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Campione/Sfida - Configura avvisi report - Documenti Marketo - Documentazione prodotto
 title: Champion/Challenger - Configura avvisi report
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketo vi invierà dei rapporti sull&#39;andamento del test e-mail. Ecco come p
 
 >[!PREREQUISITES]
 >
->* [Campione/Sfida: Definisci criteri campione](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[Campione/Sfida: Definisci criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Pianifichiamo che il rapporto venga inviato una volta alla settimana venerdì alle 9 del mattino.
 
@@ -47,9 +43,4 @@ Marketo vi invierà dei rapporti sull&#39;andamento del test e-mail. Ecco come p
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campione/Sfida: Approva il test e-mail](champion-challenger-approve-your-email-test.md)
-
-
+   >[Campione/Sfida: Approva il test e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
