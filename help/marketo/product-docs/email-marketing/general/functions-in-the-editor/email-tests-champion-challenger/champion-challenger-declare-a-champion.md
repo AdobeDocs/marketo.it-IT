@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: Champion/Challenger - Dichiarare un Campione - Marketo Docs - Documentazione del prodotto
 title: Campione/Sfida - Dichiarare un Campione
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ Quando siete pronti, potete dichiarare un campione per il test e-mail.
 
 >[!MORELIKETHIS]
 >
->* [Campione/Sfida: Approva il test e-mail](champion-challenger-approve-your-email-test.md)
-
+>[Campione/Sfida: Approva il test e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Andate a **Marketing Activities**.
 
@@ -44,7 +43,7 @@ Quando siete pronti, potete dichiarare un campione per il test e-mail.
    >
    >Il valore predefinito **Dichiara data** è domani, non oggi.
 
-   Selezionare un&#39;ora e fare clic su **Salva**.
+1. Selezionare un&#39;ora e fare clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
