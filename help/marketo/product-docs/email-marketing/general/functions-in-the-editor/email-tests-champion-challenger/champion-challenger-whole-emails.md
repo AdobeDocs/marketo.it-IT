@@ -3,7 +3,7 @@ unique-page-id: 2359555
 description: Campione/Sfida - E-mail intere - Documenti Marketo - Documentazione del prodotto
 title: Campione/Sfida - E-mail intere
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Test di e-mail intere tra loro. Quando il test è finito, inviare l&#39;esecutor
 
 >[!PREREQUISITES]
 >
->* [Aggiungi un campione e-mail/Challenger](add-an-email-champion-challenger.md)
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Nell&#39;editor di test e-mail, selezionare **Intera e-mail** nel menu a discesa **Test Type **Test.
+1. Nell&#39;editor di test delle e-mail, selezionare **Intera e-mail** nel menu a discesa **Tipo di test**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -47,10 +43,11 @@ Test di e-mail intere tra loro. Quando il test è finito, inviare l&#39;esecutor
    >
    >**Esempio**
    >
-   >
    >Nella distribuzione sopra mostrata, il 15% del pubblico totale specificato nella lista intelligente riceve una delle e-mail dei contestatori e l&#39;85% riceve le e-mail dei campioni. Più e-mail di sfida condividono lo stesso 15%. Al termine del test, potete dichiarare manualmente un vincitore. Da quel momento in poi, tutti i futuri utenti riceveranno i contenuti più performanti.
 
-   [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
+   Per ottenere la certezza statistica, accertatevi che la percentuale assegnata ai test includa abbastanza persone da rendere valido il test. Non fatevi ingannare da risultati inconcludenti.
+
+   [Più informazioni di quante ne aveste mai desiderato sulla fiducia](https://en.wikipedia.org/wiki/Confidence_interval) statistica.
 
 1. Fare clic su **Next**.
 
@@ -60,10 +57,4 @@ Test di e-mail intere tra loro. Quando il test è finito, inviare l&#39;esecutor
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campione/Sfida: Definisci criteri campione](champion-challenger-define-champion-criteria.md)
-
-
-Per ottenere la certezza statistica, accertatevi che la percentuale assegnata ai test includa abbastanza persone da rendere valido il test. Non fatevi ingannare da risultati inconcludenti.
+   >[Campione/Sfida: Definisci criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
