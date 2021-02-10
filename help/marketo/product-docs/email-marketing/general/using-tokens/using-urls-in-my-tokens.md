@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Utilizzo degli URL nei token personali - Documenti Marketo - Documentazione prodotto
 title: Utilizzo degli URL nei token personali
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Segui i passaggi indicati di seguito per utilizzare i Token personali per inseri
    ![](assets/twelve.png)
 
    E hai finito! L’URL verrà popolato dopo l’invio e, grazie all’inserimento di http:// davanti al token, verrà generato un collegamento tracciabile.
-
