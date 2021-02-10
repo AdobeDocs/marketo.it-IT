@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: Scheda Impostazioni Amministratore - Documenti Marketo - Documentazione prodotto
 title: Scheda Impostazioni amministratore
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La scheda Impostazioni amministratore consente all&#39;amministratore di qualsia
 
 Se selezioni la casella di controllo **Ignora tutte le impostazioni di sincronizzazione Salesforce per il mio team**, visualizzerai l&#39;opzione per consentire l&#39;accesso solo tramite CCN o solo tramite API.
 
-Se scegliete **Registrazione API**, tutte le impostazioni selezionate per Opportunità, Lead, Contatti `will be set for the entire team after you click **Save Changes**.`
+Se scegliete **Registrazione API**, tutte le impostazioni selezionate per Opportunità, Lead, Contatti verranno impostate per l&#39;intero team dopo aver fatto clic su **Salva modifiche**.
 
 Da qui, potrai anche abilitare in massa le opportunità e la sincronizzazione delle attività in tutto il team.
 
@@ -25,12 +25,14 @@ Da qui, potrai anche abilitare in massa le opportunità e la sincronizzazione de
 >
 >L&#39;attivazione di massa di queste impostazioni utilizzerà un numero elevato di chiamate API nelle impostazioni Salesforce del team.
 
-1 - Abilita &quot;Configura le impostazioni del mio team&quot;
+1. Abilita &quot;Configura le impostazioni del team&quot;.
 
-2 - Attiva impostazioni di sincronizzazione a livello di team
+1. Attiva impostazioni di sincronizzazione a livello di team.
 
-3 - Configurare il modo in cui si desidera che l&#39;attività e-mail e l&#39;attività MSE più recente vengano registrate in SFDC
+1. Configurare il modo in cui si desidera che l&#39;attività e-mail e l&#39;attività MSE più recente siano registrate in SFDC.
 
-4 - L&#39;opzione &quot;Sincronizza attività di vendita Connect&quot; è facoltativa
+1. L&#39;opzione &quot;Sincronizza attività di vendita Connect&quot; è facoltativa.
 
-(nota: MSE consente di saltare le attività mentre SFDC non lo fa - quindi è necessario decidere in che modo la SFDC gestisce l&#39;attività che ha saltato)
+>[!NOTE]
+>
+>MSC consente di saltare le attività mentre SFDC non lo fa, pertanto è necessario decidere in che modo la SFDC gestisce tale attività saltata.
