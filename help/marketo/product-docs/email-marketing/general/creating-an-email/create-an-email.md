@@ -3,7 +3,7 @@ unique-page-id: 10912163
 description: Creare un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Creare un messaggio e-mail
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -67,4 +67,4 @@ L&#39;e-mail è stata creata, quindi è necessario modificarla.
 
 >[!MORELIKETHIS]
 >
->[Modifica intestazione e-mail](edit-your-email-header.md)
+>[Modifica intestazione e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
