@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Approva il test e-mail - Marketo Docs - Documentazione del prodotto
 title: Champion/Challenger - Approva il tuo test e-mail
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
 
 >[!PREREQUISITES]
 >
->* [Campione/Sfida: Configurare gli avvisi di rapporti](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[Campione/Sfida: Configurare gli avvisi di rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Andate a **Marketing Activities**.
 
@@ -33,10 +29,7 @@ Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Durante l&#39;approvazione di un **Email***** test, approvare prima il messaggio e-mail del concorrente.
+   >Quando si approva un test **Email** intero, approvare prima l&#39;e-mail del concorrente.
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ Il passo finale nella configurazione del test e-mail per approvarlo. Ecco come.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campione/Sfida: Dichiarare un campione](champion-challenger-declare-a-champion.md)
-   >    * [Campione/Sfida: Eliminazione di un test e-mail](champion-challenger-discard-an-email-test.md)
-
+   >* [Campione/Sfida: Dichiarare un campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Campione/Sfida: Eliminazione di un test e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
