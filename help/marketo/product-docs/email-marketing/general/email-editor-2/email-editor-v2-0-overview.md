@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Panoramica di Editor e-mail v2.0 - Documenti Marketo - Documentazione prodotto
 title: Panoramica di Editor e-mail v2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Quando decidi di attivare Editor e-mail v2.0, noterai diverse nuove funzioni.
 
 **Selettore modello e-mail**
 
-Quando create un nuovo messaggio e-mail, viene visualizzato il selettore [Modello e-mail](email-template-picker-overview.md).
+Quando create un nuovo messaggio e-mail, viene visualizzato il selettore [Modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Quando iniziate a modificare l&#39;e-mail, noterete che l&#39;editor ha un aspet
 
 **Moduli**
 
-Quelle cose sul lato destro dell&#39;editor sono chiamate moduli. Scoprite come [aggiungere moduli all&#39;e-mail](add-modules-to-your-email.md).
+Quelle cose sul lato destro dell&#39;editor sono chiamate moduli. Scoprite come [aggiungere moduli all&#39;e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Versione testo**
 
-Il passaggio tra la versione HTML e le versioni di testo dell&#39;e-mail ora si trova in una comoda scheda in basso. Scoprite come [modificare la versione di testo di un&#39;e-mail](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Il passaggio tra la versione HTML e le versioni di testo dell&#39;e-mail ora si trova in una comoda scheda in basso. Scoprite come [modificare la versione di testo di un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **Intestazione e-mail**
 
-Vuoi più spazio di progettazione? L&#39;intestazione dell&#39;e-mail può essere nascosta dopo che è stata effettuata [la modifica](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
+Vuoi più spazio di progettazione? L&#39;intestazione dell&#39;e-mail può essere nascosta dopo che è stata effettuata [la modifica](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ La vista predefinita è desktop...
 
 ...ma potete anche vedere come si presenterà su un dispositivo mobile. Potete anche visualizzare l&#39;anteprima della versione di testo! È sufficiente fare clic su **Modifica bozza** in alto a destra per riprendere la modifica.
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **Azioni e-mail**
 
@@ -83,7 +83,7 @@ In **Azioni e-mail** sono disponibili alcune nuove funzioni. **Caricate un’imm
 
 >[!NOTE]
 >
->** [Acquisire immagini da Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funziona esattamente come in Design Studio.
+>**[Acquisire immagini da](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks come avviene in Design Studio.
 
 **Disattiva Apri** tracciamentoIn Impostazioni **e-** mail, se necessario puoi disattivare il tracciamento aperto.
 
@@ -103,15 +103,8 @@ Un sacco di nuove funzioni fantastiche! Divertiti!
 
 >[!NOTE]
 >
->**Tubo profondo**
->
 >Per approfondire ulteriormente la ricerca, guardate questo [video utile](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->* [Sintassi modello e-mail](email-template-syntax.md)
-
->
-
-
-
+>[Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
