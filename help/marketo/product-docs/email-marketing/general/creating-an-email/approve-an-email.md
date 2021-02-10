@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: Approva e-mail - Documenti Marketo - Documentazione prodotto
 title: Approva e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ Le e-mail iniziano nello stato bozza. In genere non sono disponibili nel sistema
 
 1. Trova e seleziona il tuo indirizzo e-mail, fai clic sul menu a discesa **Azioni e-mail**, quindi seleziona **Approva**.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## Approva direttamente nella struttura ad albero {#approve-it-directly-in-the-tree}
 
