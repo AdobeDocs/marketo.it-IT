@@ -3,7 +3,7 @@ unique-page-id: 2359587
 description: Champion/Challenger - Elimina un test e-mail - Marketo Docs - Documentazione prodotto
 title: Champion/Challenger - Elimina un test e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Se, in qualsiasi momento, decidete di non voler continuare a eseguire il test e-
 
 >[!PREREQUISITES]
 >
->* [Campione/Sfida: Approva il test e-mail](champion-challenger-approve-your-email-test.md)
-
->
-
-
+>[Campione/Sfida: Approva il test e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Andate a **Marketing Activities**.
 
@@ -33,9 +29,6 @@ Se, in qualsiasi momento, decidete di non voler continuare a eseguire il test e-
 
 1. Fare clic su **Elimina** per confermare.
 
-   ` ![](assets/image2014-9-15-14-3a17-3a11.png)
+   ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   `
-
-   Hai finito! Se decidi di voler impostare di nuovo un test, vai avanti e [aggiungi un campione e-mail/sfidante](add-an-email-champion-challenger.md).
-
+   Hai finito! Se decidi di voler impostare di nuovo un test, vai avanti e [aggiungi un campione e-mail/sfidante](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
