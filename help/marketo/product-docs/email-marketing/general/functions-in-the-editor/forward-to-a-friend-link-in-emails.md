@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Inoltro a un collegamento amico nelle e-mail - Documenti Marketo - Documentazione prodotto
 title: Inoltra a un collegamento amico nelle e-mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ Ad esempio, Keith utilizza il collegamento &quot;Inoltra all’amico&quot; per i
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
    >Ricordate di approvare la bozza del modello per applicare le modifiche.
 
    Ora tutte le e-mail che utilizzano tale modello avranno il collegamento &quot;Inoltra all&#39;amico&quot;. Quando il destinatario dell&#39;e-mail fa clic su di esso, verrà indirizzato a una versione Web dell&#39;e-mail con la casella &quot;Inoltra a un amico&quot;:
+
    ![](assets/f2afbox.png)
 
 ## Aggiungere il collegamento a un&#39;e-mail singola {#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ Puoi anche aggiungere il collegamento &quot;Inoltra a amico&quot; direttamente i
 
    ![](assets/eight-1.png)
 
-1. Incollate il token **`{{system.forwardToFriendLink}}`** nella casella **URL** utilizzando Ctrl/Cmd+V, quindi fate clic su** Inserisci**.
+1. Incollate il token **`{{system.forwardToFriendLink}}`** nella casella **URL** utilizzando Ctrl/Cmd+V, quindi fate clic su **Inserisci**.
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel log delle attività della 
    >
    >**Definizione**
    >
-   >
    >Per E-mail ricevuta da un amico, l’ID persona è la persona che ha inoltrato l’e-mail.
-   >
    >
    >Per Invia a e-mail amico, l’ID persona è la persona che ha ricevuto l’e-mail.
 
    ![](assets/sixteen.png)
 
-1. Per visualizzare una persona per ID, copiate e incollate l&#39;** ID persona** alla fine dell&#39;URL (l&#39;inizio di tale URL dipende dall&#39;istanza di Marketo):
+1. Per visualizzare una persona per ID, copiate e incollate l&#39; **ID persona** alla fine dell&#39;URL (l&#39;inizio di tale URL dipende dall&#39;istanza di Marketo):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel log delle attività della 
 
    >[!NOTE]
    >
-   >Se l&#39;amico che riceve l&#39;inoltro è una persona sconosciuta, viene creata una nuova persona con &quot;Inoltra all&#39;amico&quot; contrassegnato come **Origine** della persona.\
+   >Se l&#39;amico che riceve l&#39;inoltro è una persona sconosciuta, viene creata una nuova persona con &quot;Inoltra all&#39;amico&quot; contrassegnato come **Origine** della persona.
    >Se l&#39;e-mail è una risorsa locale di un programma, il programma è contrassegnato come **Programma di acquisizione della persona**.
 
 ## Trigger o Filtro utilizzando l&#39;attività di inoltro {#trigger-or-filter-using-forwarding-activity}
