@@ -3,9 +3,9 @@ unique-page-id: 14352405
 description: Impostazione di SSO tramite SAML 2.0 in Sales Connect - Marketo Docs - Documentazione del prodotto
 title: Configurazione di SSO tramite SAML 2.0 in Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Supportiamo SSO tramite la specifica SAML 2.0. Al momento, tuttavia, non disponiamo di integrazioni dirette con alcun fornitore. Per ottenere questa configurazione, è necessario raccogliere informazioni dal provider SSO.
 
 >[!NOTE]
->
->**Promemoria**
 >
 >Questo è applicabile solo ai clienti **Marketing Connect**. Se non disponete di un servizio di vendita ma desiderate ulteriori informazioni, contattate il vostro Customer Success Manager.
 
@@ -31,7 +29,7 @@ Supportiamo SSO tramite la specifica SAML 2.0. Al momento, tuttavia, non disponi
 
 Il file metadata.xml dell&#39;istanza SSO del team deve contenere l&#39;URL emittente, l&#39;endpoint per la convalida e una chiave pubblica.
 
-Inoltre, per fare in modo che l&#39;account SSO della tua azienda sia un dominio univoco, è necessario disporre della posizione SSO. Ad esempio, `require a unique subdomain` come &quot;toutapp.pingidentity.com&quot; o simili. Senza questo tipo di identificatore univoco, non sarà possibile impostare SAML dal dashboard.
+Inoltre, per fare in modo che l&#39;account SSO della tua azienda sia un dominio univoco, è necessario disporre della posizione SSO. Ad esempio, è necessario un sottodominio univoco come `toutapp.pingidentity.com` o simile. Senza questo tipo di identificatore univoco, non sarà possibile impostare SAML dal dashboard.
 
 Un login e un Okta non sempre forniscono identificatori univoci quando si assegna un URL. Se utilizzi Okta o One Login, significa che non saremo in grado di impostare un login dal pulsante del dashboard. Sarà comunque possibile configurarlo dal pulsante Single Sign On sull&#39; [applicazione Web](http://toutapp.com/login).
 
