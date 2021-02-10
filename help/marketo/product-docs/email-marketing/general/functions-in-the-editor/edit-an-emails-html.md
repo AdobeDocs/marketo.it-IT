@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: Modificare l'HTML di un'e-mail - Documenti Marketo - Documentazione del prodotto
 title: Modificare l’HTML di un messaggio e-mail
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ Utilizzate la funzionalità Cerca codice per trovare e sostituire in modo effici
 
    >[!NOTE]
    >
-   >Il codice di ricerca è disponibile anche nell&#39; [Editor modelli e-mail](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
+   >Il codice di ricerca è disponibile anche nell&#39; [Editor modelli e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 È consigliabile continuare a modificare le e-mail utilizzando la funzionalità integrata di Marketo, ma questo editor di codice offre flessibilità se necessario.
