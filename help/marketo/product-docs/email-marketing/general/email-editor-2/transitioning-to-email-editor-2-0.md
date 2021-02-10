@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: Passaggio all'editor di posta elettronica 2.0 - Documenti Marketo - Documentazione prodotto
 title: Passaggio all'editor di posta elettronica 2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Passaggio all&#39;editor di posta elettronica 2.0 {#transitioning-to-email-editor}
 
-A partire dalla [versione del 19 giugno 2019](../../../../release-notes/2016/release-notes-spring-16.md), tutte le iscrizioni a Marketo sono state trasferite a Editor e-mail 2.0. [Per saperne di più](https://nation.marketo.com/docs/DOC-7038) sull&#39;eliminazione di Email Editor 1.0.
+A partire dalla [versione del 19 giugno 2019](/help/marketo/release-notes/2016/release-notes-spring-16.md), tutte le iscrizioni a Marketo sono state trasferite a Editor e-mail 2.0. [Per saperne di più](https://nation.marketo.com/docs/DOC-7038) sull&#39;eliminazione di Email Editor 1.0.
 
 Le e-mail e i modelli e-mail all&#39;interno dell&#39;iscrizione devono avere un numero di versione. La versione è disponibile nella pagina di riepilogo della risorsa.
 
@@ -27,13 +27,13 @@ Per impostazione predefinita, tutti i modelli esistenti di e-mail e e e-mail sar
 Se l’iscrizione contiene e-mail con v1.0 prima del passaggio a Editor e-mail 2.0, il comportamento dell’utente sarà il seguente in base allo stato corrente della risorsa:
 
 **Approvato** - Facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 dell&#39;e-mail approvata. Se quindi approvate la bozza v2.0, lo stato approvato dell&#39;e-mail diventa v2.0 e non c&#39;è modo di ripristinare la versione 1.0.\
-**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarà possibile eliminare e ripristinare la versione 1.0 perché non è disponibile una versione approvata della risorsa.\
+**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarà possibile eliminare e ripristinare la versione 1.0 perché non è disponibile una versione approvata della risorsa.
 **Approvato con bozza** - Facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. Per questo motivo, non è possibile ripristinare la bozza a v1.0.
 
 Se l’iscrizione include modelli e-mail v1.0 prima del passaggio a Editor e-mail 2.0, si verificherà il seguente comportamento:
 
-**Approvato** - Facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 del modello e-mail esistente.\
-**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarebbe possibile eliminare e ripristinare la versione 1.0 perché non esiste una versione approvata della risorsa.\
+**Approvato** - Facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 del modello e-mail esistente.
+**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarebbe possibile eliminare e ripristinare la versione 1.0 perché non esiste una versione approvata della risorsa.
 **Approvato con bozza** - Facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. Per questo motivo, non è possibile ripristinare la bozza a v1.0.
 
 Se approvate un modello e-mail che era già v1.0 (in uno degli stati precedenti), verrà visualizzato il seguente comportamento:
@@ -62,10 +62,6 @@ Cose da notare
 
 >[!MORELIKETHIS]
 >
->* [Panoramica di Email Editor 2.0](email-editor-v2-0-overview.md)
->* [Sintassi modello e-mail](email-template-syntax.md)
-
->
-
-
+>* [Panoramica di Email Editor 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
