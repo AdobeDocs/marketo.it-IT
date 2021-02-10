@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: Blocco dei contenuti - Documenti Marketo - Documentazione del prodotto
 title: Blocco contenuto
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Abilitando il blocco dei contenuti, gli utenti non amministratori non possono mo
 
    ![](assets/two-4.png)
 
-1. Scorri verso il basso fino a Blocca contenuto. Attivando uno dei cursori *si disattiverà* la capacità dei membri del team di creare/modificare modelli e/o campagne.
+1. Scorri verso il basso fino a Blocca contenuto. Attivando uno dei cursori _si disattiverà_ la capacità dei membri del team di creare/modificare modelli e/o campagne.
 
    ![](assets/three-4.png)
-
