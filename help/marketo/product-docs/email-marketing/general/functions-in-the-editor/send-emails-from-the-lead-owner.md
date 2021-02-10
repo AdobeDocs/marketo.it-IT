@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: Invia e-mail dal proprietario principale - Documenti Marketo - Documentazione prodotto
 title: Invia e-mail dal proprietario principale
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ Cosa succede se si desidera inviare un&#39;e-mail a un lead per conto del propri
    >
    >Accertatevi di aver aggiunto uno spazio tra i token del nome e del cognome.
 
-   Fate clic nel campo Da e-mail (eliminate eventuali indirizzi e-mail esistenti), quindi fate clic sul pulsante Inserisci token.
+1. Fate clic nel campo Da e-mail (eliminate eventuali indirizzi e-mail esistenti), quindi fate clic sul pulsante Inserisci token.
+
    ![](assets/eight.png)
 
 1. Iniziate a digitare &quot;`{{lead.Lead Owner`&quot; e selezionate il token **`{{lead.Lead Owner Email Address}}`**.
@@ -61,4 +62,3 @@ Cosa succede se si desidera inviare un&#39;e-mail a un lead per conto del propri
 1. Accertatevi che i campi **Rispondi a** e **Oggetto** siano compilati e che l&#39;operazione sia completata.
 
    ![](assets/eleven.png)
-
