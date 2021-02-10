@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: Rapporto sulle prestazioni e-mail - Documenti Marketo - Documentazione prodotto
 title: Report prestazioni e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Per verificare il livello di prestazioni dei messaggi e-mail con stati come consegnati, aperti, su cui è stato fatto clic, ecc., create un report sulle prestazioni dell&#39;e-mail.
 
-1. [Crea un report in un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma e seleziona il tipo **di report** [Email ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)PerformanceReport.
-1. [Modificate il ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) frame dell&#39;ora del rapporto e fate clic sulla scheda  **** Rapporto.
+1. [Crea un report in un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma e seleziona il tipo **di report** [Email ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)PerformanceReport.
+1. [Modificate il ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) frame dell&#39;ora del rapporto e fate clic sulla scheda  **** Rapporto.
 1. Sei lì! Esplorate il rapporto per vedere come sono state inviate le e-mail.
 
    >[!NOTE]
@@ -31,10 +31,9 @@ Per verificare il livello di prestazioni dei messaggi e-mail con stati come cons
 
    >[!NOTE]
    >
-   >
-   >Un rapporto sulle prestazioni dell&#39;e-mail include attività per tutte le persone, comprese quelle che sono state eliminate dall&#39;invio dell&#39;e-mail. A volte, si desidera visualizzare le attività solo per le persone attive. In tal caso, dovete filtrare le persone eliminate dal rapporto. Utilizzate la scheda **Smart List** per [creare un elenco smart](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il report. Se non state applicando un filtro su un campo specifico, impostate il filtro Indirizzo e-mail su: **non è vuoto**.
+   >Un rapporto sulle prestazioni dell&#39;e-mail include attività per tutte le persone, comprese quelle che sono state eliminate dall&#39;invio dell&#39;e-mail. A volte, si desidera visualizzare le attività solo per le persone attive. In tal caso, dovete filtrare le persone eliminate dal rapporto. Utilizzate la scheda **Smart List** per [creare un elenco smart](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il report. Se non state applicando un filtro su un campo specifico, impostate il filtro Indirizzo e-mail su: **non è vuoto**.
 
-   [Seleziona ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Colori rapporto per un rapporto Prestazioni e-mail:
+   [Seleziona ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Colori rapporto per un rapporto Prestazioni e-mail:
 
    | Colonna | Descrizione |
    |---|---|
@@ -50,13 +49,13 @@ Per verificare il livello di prestazioni dei messaggi e-mail con stati come cons
 
 In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un&#39;e-mail, ovviamente ha aperto prima l&#39;e-mail. Seguiamo queste regole specifiche per il report sulle prestazioni delle e-mail:
 
-* **Articolo 1**: Ogni record di attività e-mail è impostato su uno e solo uno dei seguenti:  *Consegnato*,  *Bloccato* duro,  *Soft Bounced* o  *In sospeso*.
+* **Articolo 1**: Ogni record di attività e-mail è impostato su uno e solo uno dei seguenti:  _Consegnato_,  _Bloccato_ duro,  _Soft Bounced_ o  _In sospeso_.
 
 * **Articolo 2**: Se il record e-mail è  *Aperto*, viene conteggiato come  *Consegnato*.
 
-* **Articolo 3**: Se il record e-mail mostra  *Messaggio* e-mail selezionato  *Non iscritto*, viene conteggiato come  ** Consegna e  *Aperto*.
+* **Articolo 3**: Se il record e-mail mostra  _Messaggio_ e-mail selezionato  _Non iscritto_, viene conteggiato come  __ Consegna e  _Aperto_.
 
-* **Articolo 4**: Se l’e-mail viene  *aperta*, i rimbalzi vengono ignorati. Se l&#39;e-mail non è stata aperta, *Hard Bounced* ha la precedenza su *Soft Bounced* e *Delivery*.
+* **Articolo 4**: Se l’e-mail viene  _aperta_, i rimbalzi vengono ignorati. Se l&#39;e-mail non è stata aperta, _Hard Bounced_ ha la precedenza su _Soft Bounced_ e _Delivery_.
 
 >[!NOTE]
 >
@@ -64,16 +63,6 @@ In generale, cerchiamo di usare il buon senso per registrare queste statistiche.
 
 >[!MORELIKETHIS]
 >
->* [Filtrare le risorse nei rapporti e-mail della campagna](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [Report prestazioni collegamento e-mail](email-link-performance-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Tubo profondo**
->
->Ulteriori informazioni in [Base Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Filtrare le risorse nei rapporti e-mail della campagna](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Report prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 
