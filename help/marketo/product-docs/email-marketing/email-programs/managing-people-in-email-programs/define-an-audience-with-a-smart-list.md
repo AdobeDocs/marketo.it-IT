@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Definire un pubblico con un elenco avanzato - Marketo Docs - Documentazione prodotto
 title: Definire un pubblico con un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,13 @@ ht-degree: 0%
 
 # Definire un pubblico con un elenco avanzato {#define-an-audience-with-a-smart-list}
 
-Dopo aver [creato un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), si desidera indicare a chi inviare l&#39;e-mail. È possibile eseguire questa operazione importando un elenco di persone [o con un elenco avanzato. ](define-an-audience-by-importing-a-list.md) Ecco come farlo con una lista intelligente.
+Dopo aver [creato un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), si desidera indicare a chi inviare l&#39;e-mail. È possibile eseguire questa operazione importando un elenco di persone [o con un elenco avanzato. ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) Ecco come farlo con una lista intelligente.
 
 >[!PREREQUISITES]
 >
->* [Creare un programma e-mail](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
->
->**Promemoria**
 >
 >La definizione del pubblico funzionerà solo se il programma e-mail non è approvato.
 
@@ -49,18 +43,11 @@ Dopo aver [creato un programma e-mail](../../../../product-docs/email-marketing/
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Per ulteriori informazioni sull&#39;utilizzo e la definizione dei filtri, consultare [elenchi smart ed elenchi statici](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
 1. Dopo aver aggiunto e definito i filtri, tornare alla scheda principale del programma. Vedrai quante persone si qualificano.
 
    ![](assets/myemailprogram.jpg)
 
-   Ottimo lavoro! Ora è il momento di [scegliere un&#39;e-mail esistente](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o di [creare un&#39;e-mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da inviare a queste persone.
+   Ottimo lavoro! Ora è il momento di [scegliere un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [creare un&#39;e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da inviare a queste persone.
 
 >[!NOTE]
 >
@@ -82,10 +69,6 @@ Fare clic sul numero per un elenco dettagliato di persone bloccate dalle spedizi
 
 >[!MORELIKETHIS]
 >
->* [Scegliere un&#39;e-mail esistente](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Creare un&#39;e-mail per un programma e-mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Scegliere un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
