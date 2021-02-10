@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: Sintassi modello e-mail - Documenti Marketo - Documentazione prodotto
 title: Sintassi modello e-mail
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Gli elementi sono aree di contenuto definite come modificabili nel modello e-mai
 
 ## Rich Text {#rich-text}
 
-Se si definisce un&#39;area come RTF, gli utenti potranno modificarne il contenuto [utilizzando l&#39;Editor Rich Text di Marketo](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Esistono due modi per definire un elemento RTF all’interno di un modello e-mail: mktEditable e mktoText. Tenete presente che un elemento Rich Text può sempre essere convertito in uno snippet dall’editor e-mail.
+Se si definisce un&#39;area come RTF, gli utenti potranno modificarne il contenuto [utilizzando l&#39;Editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Esistono due modi per definire un elemento RTF all’interno di un modello e-mail: mktEditable e mktoText. Tenete presente che un elemento Rich Text può sempre essere convertito in uno snippet dall’editor e-mail.
 
 ### Opzione 1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ Esempio:
 
 Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare un `<div>` che specifica un contenitore in cui inserire il tag `<img>` oppure un tag `<img>`. Se si desidera che l’utente finale scelga semplicemente un’immagine che restituisca l’URL dell’immagine (anziché il DOM), fare riferimento a &quot;variabili di immagine&quot; nella sezione seguente. Le due opzioni seguenti inseriranno un elemento HTML `<img>`.
 
-### Opzione 1 - Utilizzate \&lt;div\> {#option-use-a-div}
+### Opzione 1 - Utilizzare un `<div>` {#option-use-a-div}
 
 Attributi richiesti
 
@@ -128,7 +128,7 @@ Esempio:
 
 ## Snippet {#snippets}
 
-Se definite un&#39;area come snippet, gli utenti finali potranno scegliere quale [snippet](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)approvato inserire in questa area. Sebbene sia possibile convertire gli elementi RTF in snippet dall’editor e-mail, quando si definisce un’area specifica come snippet non è possibile convertirla in RTF. Potete specificare un&#39;area Snippet utilizzando un `<div>` con class=&quot;mktoSnippet&quot;
+Se definite un&#39;area come snippet, gli utenti finali potranno scegliere quale [snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)approvato inserire in questa area. Sebbene sia possibile convertire gli elementi RTF in snippet dall’editor e-mail, quando si definisce un’area specifica come snippet non è possibile convertirla in RTF. Potete specificare un&#39;area Snippet utilizzando un `<div>` con class=&quot;mktoSnippet&quot;
 
 Attributi richiesti
 
@@ -351,8 +351,6 @@ Attributi opzionali
 * **mktoAddByDefault:** Determina se il modulo sarà incluso nel quadro di un nuovo messaggio e-mail che utilizza questo modello al momento della creazione. Il valore predefinito è true (se mktoActive è false, questo valore viene ignorato).
 
 >[!NOTE]
->
->**Promemoria**
 >
 >I valori delle classi contenenti la sintassi Marketo (ad es. mktoModule, mktoContainer, mktoText) fanno distinzione tra maiuscole e minuscole. I nomi degli attributi personalizzati (ad es. mktoimgwidth, mktoname) non lo sono.
 
