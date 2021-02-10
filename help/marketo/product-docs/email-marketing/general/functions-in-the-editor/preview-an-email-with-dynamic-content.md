@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: Anteprima di un'e-mail con contenuto dinamico - Documenti Marketo - Documentazione del prodotto
 title: Anteprima di un messaggio e-mail con contenuto dinamico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Visualizzate l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto d
 
    ![](assets/one-3.png)
 
-   Fate clic sul menu a discesa Visualizza per e selezionate il tipo di contenuto dinamico da visualizzare in anteprima.
+1. Fate clic sul menu a discesa Visualizza per e selezionate il tipo di contenuto dinamico da visualizzare in anteprima.
+
    ![](assets/two-3.png)
 
 1. Viene visualizzato un nuovo elenco a discesa. Fate clic su di esso e scegliete il contenuto specifico.
