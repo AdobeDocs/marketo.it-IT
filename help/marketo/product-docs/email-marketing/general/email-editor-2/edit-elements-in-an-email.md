@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: Modifica di elementi in un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Modificare gli elementi in un messaggio e-mail
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
-   >Potete inoltre aggiungere immagini, token, tabelle e altri elementi. Vedere [Utilizzo dell&#39;Editor Rich Text](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Potete inoltre aggiungere immagini, token, tabelle e altri elementi. Vedere [Utilizzo dell&#39;Editor Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
    >
    >Se desiderate utilizzare un token Marketo, utilizzate questa opzione. Tenete presente che quando utilizzate un token, l’immagine apparirà interrotta nell’editor, ma verrà riprodotta in modalità Anteprima e nel messaggio e-mail Invia esempio.
 
-   **Scambia** ![](assets/eight.png)
+   Per usare un URL esterno, incollate prima l’URL dell’immagine. Modificate le dimensioni in base alle vostre esigenze e aggiungete del testo Alt (facoltativo). Premere quindi **Swap**.
+
+   ![](assets/eight.png)
 
    **Risorse del computer**
 
@@ -90,14 +89,15 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
    >
    >Per sostituire un&#39;immagine, è necessario selezionare la casella **Sovrascrivi immagine esistente** visualizzata sotto l&#39;URL/nome immagine.
 
-   **Design** StudioPer inserire un&#39;immagine da Design Studio, è sufficiente individuarla...
+   **Design Studio**
+
+   Per inserire un&#39;immagine da Design Studio, è sufficiente individuarla...
 
    ![](assets/twelve.png)
 
-   **Scambia**
-   ![](assets/thirteen.png)
+   ...e inserirla. Modificate le dimensioni in base alle vostre esigenze, modificate il testo Alt (facoltativo), quindi premete **Swap**.
 
-Per usare un URL esterno, incollate prima l’URL dell’immagine. Modificate le dimensioni in base alle vostre esigenze e aggiungete del testo Alt (facoltativo). Quindi premere .               ...e inserirla. Modificate le dimensioni in base alle vostre esigenze, modificate il Testo Alt (facoltativo), quindi premete .
+   ![](assets/thirteen.png)
 
 ## Come modificare l&#39;elemento snippet {#how-to-edit-the-snippet-element}
 
