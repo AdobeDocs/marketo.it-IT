@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Utilizzare il dashboard del programma e-mail - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare il dashboard del programma e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Utilizzare il dashboard del programma e-mail {#use-the-email-program-dashboard}
 
-Scopri le prestazioni dei [programmi e-mail](http://docs.marketo.com/display/docs/email+programs) in questa vista dashboard.
+Scopri le prestazioni dei tuoi programmi e-mail con questa vista dashboard.
 
 >[!NOTE]
 >
->Se il programma dispone di un test A/B, controllare il [Pannello programma e-mail - Visualizzazione test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Se il programma dispone di un test A/B, controllare il [Pannello programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ Questo grafico mostra il numero di messaggi e-mail aperti o su cui è stato fatt
 
 ## Riepilogo - Coinvolgimento {#summary-engagement}
 
-Questo mostra il punteggio di coinvolgimento complessivo [](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Questo mostra il punteggio di coinvolgimento complessivo [](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ Gli altri dati verranno visualizzati Aperture, Clic, Rapporto clic/apertura e An
 >
 >**Definizione**
 >
->**Le aperture **vengono conteggiate quando il destinatario dell&#39;e-mail scarica le immagini dell&#39;e-mail, che include un pixel di tracciamento inserito da Marketo. Se il destinatario visualizza il messaggio e-mail ma sceglie di non scaricare le immagini, questo non verrà conteggiato come aperto. Se le immagini vengono caricate nel riquadro di anteprima del destinatario, in genere vengono contate come aperte, ma variano in base al client di posta elettronica.
+>**Il conteggio** dell&#39;pensare viene eseguito quando il destinatario del messaggio e-mail scarica le immagini del messaggio e-mail, che include un pixel di tracciamento inserito da Marketo. Se il destinatario visualizza il messaggio e-mail ma sceglie di non scaricare le immagini, questo non verrà conteggiato come aperto. Se le immagini vengono caricate nel riquadro di anteprima del destinatario, in genere vengono contate come aperte, ma variano in base al client di posta elettronica.
 >
 >**Fate clic per** aprire per misurare la percentuale di messaggi e-mail che sono stati aperti e su cui è stato fatto clic un collegamento nell’e-mail. Prendiamo il numero di clic univoci diviso per il numero di aperture univoche, quindi moltiplichiamo per 100 per mostrarlo come percentuale.
 
@@ -77,9 +77,4 @@ Per visualizzare i dati più aggiornati, fai clic sull’icona di aggiornamento 
 
 >[!MORELIKETHIS]
 >
->* [Utilizzare il Pannello programma e-mail - Visualizzazione test A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[Utilizzare il Pannello programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
