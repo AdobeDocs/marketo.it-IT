@@ -3,9 +3,9 @@ unique-page-id: 2359598
 description: Esporta dashboard programma e-mail in Excel - Documenti Marketo - Documentazione prodotto
 title: Esporta dashboard programma e-mail in Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Dopo aver eseguito un programma e-mail e aver inserito alcuni dati nel dashboard
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Se il programma e-mail non è ancora iniziato, non verrà visualizzato alcun dashboard perché non sono presenti dati da visualizzare.
 
 1. È sufficiente fare clic sull&#39;icona di Excel per iniziare l&#39;esportazione.
@@ -35,10 +32,3 @@ Dopo aver eseguito un programma e-mail e aver inserito alcuni dati nel dashboard
    ![](assets/lifecycle.jpg)
 
    Abbastanza facile, giusto?
-
->[!NOTE]
->
->**Tubo profondo**
->
->Vuoi saperne di più su [Programmi e-mail](http://docs.marketo.com/display/docs/email+programs)?
-
