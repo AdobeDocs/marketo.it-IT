@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: Dettagli accesso utente - Documenti Marketo - Documentazione prodotto
 title: Dettagli accesso utente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ A cosa hanno accesso amministratori e non amministratori?
 
 ## Autorizzazioni utente amministratore {#admin-user-permissions}
 
-Gli amministratori possono [visualizzare tutti i modelli](http://docs.marketo.com/x/OYAXAQ).
+Gli amministratori possono [visualizzare tutti i modelli](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Gli amministratori possono [visualizzare tutte le campagne](http://docs.marketo.com/x/N4AXAQ).
+Gli amministratori possono [visualizzare tutte le campagne](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Gli amministratori possono [visualizzare tutte le attività relative alle e-mail](http://docs.marketo.com/x/SYAXAQ).
+Gli amministratori possono visualizzare tutte le attività relative alle e-mail.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ Gli amministratori possono interrompere le campagne per conto degli utenti.
    * Gli utenti possono condividere i modelli in categorie che gli amministratori consentono di
    * Quando un utente viene rimosso da un team, i suoi modelli non vengono condivisi con tale team
    * Quando un utente viene eliminato da un team, i suoi modelli trasferiscono la proprietà all&#39;Amministratore principale che ha eliminato l&#39;utente
-
