@@ -3,9 +3,9 @@ unique-page-id: 17727995
 description: Email CC - Marketo Docs - Documentazione prodotto
 title: CC e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Email CC consente l&#39;invio tramite Marketo di e-mail specifiche per includere i destinatari CC.
 
-Questa funzione è disponibile su tutte le risorse e-mail di Marketo, a prescindere da come l’e-mail viene inviata (in batch o viene attivata la campagna). Il destinatario CC riceverà una copia esatta dell&#39;e-mail inviata alla persona selezionata. Come tale, qualsiasi attività di coinvolgimento (aperture, clic ecc.) verranno registrati nel registro delle attività della Persona di marketing nella riga &quot;A&quot; dell&#39;e-mail. Tuttavia, attività di consegna (inviata, consegnata, rimbalzo duro, ecc.) *diverso da &quot;rimbalzo morbido&quot;* non si  **** registrerà, in quanto Marketo non è in grado di distinguere gli eventi di consegna per Marketo Person dai destinatari CC&quot;. Marketo può CC fino a 100.000 persone alla volta. Se la tua smart list supera i 100 k ed è imperativo che ogni persona su di esso ottiene CC&#39;d, ti consigliamo di interrompere la tua lista.
+Questa funzione è disponibile su tutte le risorse e-mail di Marketo, a prescindere da come l’e-mail viene inviata (in batch o viene attivata la campagna). Il destinatario CC riceverà una copia esatta dell&#39;e-mail inviata alla persona selezionata. Come tale, qualsiasi attività di coinvolgimento (aperture, clic ecc.) verranno registrati nel registro delle attività della Persona di marketing nella riga &quot;A&quot; dell&#39;e-mail. Tuttavia, attività di consegna (inviata, consegnata, rimbalzo duro, ecc.) _diverso da &quot;rimbalzo morbido&quot;_ non si  **** registrerà, in quanto Marketo non è in grado di distinguere gli eventi di consegna per Marketo Person dai destinatari CC&quot;. Marketo può CC fino a 100.000 persone alla volta. Se la tua smart list supera i 100 k ed è imperativo che ogni persona su di esso ottiene CC&#39;d, ti consigliamo di interrompere la tua lista.
 
 >[!NOTE]
 >
@@ -57,10 +57,11 @@ Questa funzione è disponibile su tutte le risorse e-mail di Marketo, a prescind
 
    >[!NOTE]
    >
-   >
    >Se un indirizzo e-mail non valido si trova in un campo CC, verrà ignorato.
 
-   Per una rapida identificazione, la visualizzazione Riepilogo e-mail mostra se sono stati selezionati i campi per e-mail con CC.  ![](assets/eight.png)
+   Per una rapida identificazione, la visualizzazione Riepilogo e-mail mostra se sono stati selezionati i campi per e-mail con CC.
+
+   ![](assets/eight.png)
 
    Se l&#39;e-mail è approvata, ma l&#39;amministratore di marketing disabilita uno o più campi CC prima dell&#39;invio dell&#39;e-mail, **gli utenti non riceveranno un&#39;e-mail**. In questo scenario, la visualizzazione Riepilogo e-mail visualizzerà in grigio tutti i campi che sono stati disattivati dopo l’approvazione ma che sono stati pre-inviati:
 
@@ -76,9 +77,8 @@ Questa funzione è disponibile su tutte le risorse e-mail di Marketo, a prescind
 
 >[!TIP]
 >
->È possibile disattivare alcuni o tutti i collegamenti di tracciamento[ in un messaggio e-mail.](http://docs.marketo.com/x/IwAd)
+>È possibile disattivare alcuni o tutti i collegamenti di tracciamento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) in un messaggio e-mail.[
 
 * Dopo l&#39;esecuzione di una campagna e-mail, l&#39;attività Invia e-mail includerà un elenco di tutti gli indirizzi CC inclusi per ciascun destinatario della mailing. Se eventuali indirizzi CC sono stati ignorati a causa dell’annullamento della sottoscrizione, questa verrà rilevata anche nell’attività.
 * I collegamenti e le pagine di annullamento della sottoscrizione funzionano normalmente nelle e-mail CCd. Questo consente ai destinatari CC di annullare l’iscrizione se lo desiderano (nel rispetto delle normative anti-spam) e un record di questa azione verrà memorizzato nel database Marketo.
 * Le persone elencate come non sottoscritte nel database Marketo **non** riceveranno e-mail tramite CC.
-
