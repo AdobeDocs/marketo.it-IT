@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: Champion/Challenger - Definisci i criteri di promozione - Marketo Docs - Documentazione del prodotto
 title: Campione/Sfida - Definizione dei criteri di promozione
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
 
 >[!PREREQUISITES]
 >
->* [Aggiungi un campione e-mail/Challenger](add-an-email-champion-challenger.md)
-
->
-
-
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Criteri campione standard {#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
    >
    >Seguiremo questa metrica e ti invieremo un rapporto con i dati via e-mail.
 
-1. Se hai scelto uno dei **criteri campione** predefiniti, vai avanti e passa a [Campione/Sfida: Configura avvisi report](champion-challenger-configure-report-alerts.md)!
+1. Se hai scelto uno dei **criteri campione** predefiniti, vai avanti e passa a [Campione/Sfida: Configura avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Criteri campione personalizzati {#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campione/Sfida: Configurare gli avvisi di rapporti](champion-challenger-configure-report-alerts.md)
-
-
+   >[Campione/Sfida: Configurare gli avvisi di rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
