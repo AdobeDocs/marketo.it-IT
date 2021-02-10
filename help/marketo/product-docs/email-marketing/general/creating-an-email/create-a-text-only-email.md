@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: Creare un'e-mail di solo testo - Documenti Marketo - Documentazione prodotto
 title: Creare un messaggio e-mail solo testo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Se desiderate inviare solo messaggi e-mail di testo, ecco come creare un&#39;e-m
 
    >[!CAUTION]
    >
-   >I collegamenti non vengono tracciati automaticamente nelle e-mail di solo testo. Vedere come [aggiungere collegamenti tracciati a un&#39;e-mail di testo](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >I collegamenti non vengono tracciati automaticamente nelle e-mail di solo testo. Vedere come [aggiungere collegamenti tracciati a un&#39;e-mail di testo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
