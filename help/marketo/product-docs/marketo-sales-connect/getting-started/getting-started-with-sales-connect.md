@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Guida introduttiva a Sales Connect - Marketo Docs - Documentazione prodotto
 title: Guida introduttiva a Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 Se preferisci seguire questi passaggi piuttosto che leggerli, passa direttamente alle [Istruzioni video riportate di seguito](#video).
 
 >[!AVAILABILITY]
->
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta il tuo Customer Success Manager.
 
@@ -129,7 +128,3 @@ Per i team che desiderano sottoporre a test Marketo Sales Connect con la propria
 >[!NOTE]
 >
 >Non potete fornire a più istanze un account di vendita Connect con lo stesso ID e-mail. Questo significa che se desiderate avere un account aggiuntivo di Sales Connect da verificare con l&#39;istanza di Marketing Sandbox, dovrete utilizzare un ID e-mail diverso in ciascuno degli account.
-
-## Istruzioni video {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
