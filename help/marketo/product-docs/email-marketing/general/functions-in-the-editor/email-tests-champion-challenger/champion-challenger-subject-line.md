@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Linea Oggetto - Documenti Marketo - Documentazione del prodotto
 title: Campione/Sfida - Linea Oggetto
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungi un campione e-mail/Challenger](add-an-email-champion-challenger.md)
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Nell&#39;editor di test e-mail, selezionare **Riga oggetto** nel menu a discesa **Test Type **Test.
+1. Nell&#39;editor di test e-mail, selezionare **Riga oggetto** nel menu a discesa **Tipo di test**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -47,10 +43,9 @@ ht-degree: 0%
    >
    >**Esempio**
    >
-   >
    >Nella distribuzione sopra riportata, il 10% del pubblico totale specificato nell&#39;elenco smart riceve una delle e-mail con l&#39;oggetto dello sfidante e il 90% riceve e-mail con l&#39;oggetto campione. Le e-mail con più righe oggetto dello sfidante condividono lo stesso 10%. Al termine del test, potete dichiarare manualmente un vincitore. Da quel momento in poi, tutti i futuri utenti riceveranno i contenuti più performanti.
 
-   Per ottenere la certezza statistica, accertatevi che la percentuale selezionata includa abbastanza persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti.  [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
+   Per ottenere la certezza statistica, accertatevi che la percentuale selezionata includa abbastanza persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti. [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
 
 1. Fare clic su **Next**.
 
@@ -60,7 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Campione/Sfida: Definisci criteri campione](champion-challenger-define-champion-criteria.md)
-
+   >[Campione/Sfida: Definisci criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
