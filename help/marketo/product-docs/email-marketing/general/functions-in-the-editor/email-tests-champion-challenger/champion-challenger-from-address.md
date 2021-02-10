@@ -3,7 +3,7 @@ unique-page-id: 2359559
 description: Champion/Challenger - Da Indirizzo - Marketo Docs - Documentazione del prodotto
 title: Campione/Sfida - Da indirizzo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
 
 >[!PREREQUISITES]
 >
->* [Aggiungi un campione e-mail/Challenger](add-an-email-champion-challenger.md)
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Nell&#39;editor di test e-mail, selezionare **Da indirizzo** nel menu a discesa **Test Type **Test.
+1. Nell&#39;editor di test e-mail, selezionare **Da indirizzo** nel menu a discesa **Tipo di test**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -31,7 +27,7 @@ Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
    >
    >Il primo indirizzo Da è designato come **Campione**. Gli indirizzi successivi sono denominati **Challengers**.
 
-1. Inserire il Nome Da (a sinistra) e Indirizzo Da** **(a destra) per i contestatori.
+1. Immettere **Da nome** (a sinistra) e **Da indirizzo** (a destra) per i contestatori.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,10 +43,9 @@ Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
    >
    >**Esempio**
    >
-   >
    >Nella distribuzione sopra mostrata, il 15% del pubblico totale specificato nell&#39;elenco smart riceve una delle e-mail con un concorrente Da Indirizzo e l&#39;85% riceve l&#39;e-mail con il campione Da Indirizzo. Le e-mail per più sfidanti da indirizzi condividono lo stesso 15%. Al termine del test, potete dichiarare manualmente un vincitore. Da quel momento in poi, tutti i futuri utenti riceveranno i contenuti più performanti.
 
-   Per ottenere la certezza statistica, scegliete una percentuale che includa abbastanza persone per verificare la validità del test. Non fatevi ingannare da risultati inconcludenti.  [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
+   Per ottenere la certezza statistica, scegliete una percentuale che includa abbastanza persone per verificare la validità del test. Non fatevi ingannare da risultati inconcludenti. [Più informazioni di quante ne aveste mai desiderato sulla fiducia](https://en.wikipedia.org/wiki/Confidence_interval) statistica.
 
 1. Fare clic su **Next**.
 
@@ -60,9 +55,4 @@ Vuoi provare un indirizzo diverso Da senza problemi? Ecco come.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campione/Sfida: Definisci criteri campione](champion-challenger-define-champion-criteria.md)
-
-
+   >[Campione/Sfida: Definisci criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
