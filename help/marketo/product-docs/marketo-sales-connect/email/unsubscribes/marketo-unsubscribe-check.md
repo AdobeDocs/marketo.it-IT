@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Controllo dell'annullamento della sottoscrizione Marketo - Documenti Marketo - Documentazione prodotto
 title: Controllo annullamento sottoscrizione Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Controllo per l&#39;annullamento della sottoscrizione di Marketo...
 * Richiede una connessione Marketo
 * È un&#39;impostazione globale
 * Blocca le e-mail inviate dall’applicazione Web, dai client e-mail e da Salesforce
-
