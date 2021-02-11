@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Invio di e-mail tramite posta elettronica di gruppo - Documenti Marketo - Documentazione del prodotto
 title: Invio di e-mail tramite e-mail di gruppo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
 ## Modifica di un&#39;e-mail di gruppo {#editing-a-group-email}
 
-1. Create un&#39;e-mail di gruppo utilizzando i [Passaggi da 1 a 3 sopra](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Create un&#39;e-mail di gruppo utilizzando i [Passaggi da 1 a 3 sopra](#sending-a-group-email).
+
 1. Scegliete un modello o compilate il messaggio e-mail.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
 >[!MORELIKETHIS]
 >
->* [Opzioni di invio in blocco](http://docs.marketo.com/x/HwQ6Ag)
->* [Utilizzo di un modello nella finestra Componi](http://docs.marketo.com/x/MQQ6Ag)
->* [Campi dinamici](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [Opzioni di invio in blocco](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Utilizzo di un modello nella finestra Componi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
