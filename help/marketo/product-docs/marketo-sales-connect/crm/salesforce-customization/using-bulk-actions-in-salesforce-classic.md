@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Utilizzo di azioni di massa in Salesforce Classic - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di azioni di massa in Salesforce Classic
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
 >[!PREREQUISITES]
 >
->Effettuate l&#39;aggiornamento alla versione più recente del pacchetto Sales Connect e installate i pulsanti di azione in blocco nella vista lead/contatto. [Fare clic qui per le istruzioni](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>Effettuate l&#39;aggiornamento alla versione più recente del pacchetto Sales Connect e installate i pulsanti di azione in blocco nella vista lead/contatto. [Fare clic qui per le istruzioni](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -81,10 +81,6 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
 >[!MORELIKETHIS]
 >
->* [Invio di e-mail tramite e-mail di gruppo](http://docs.marketo.com/x/KAQ6Ag)
->* [Composizione di e-mail in blocco con Seleziona e invia](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
-
->
-
-
+>* [Invio di e-mail tramite e-mail di gruppo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Composizione di e-mail in blocco con Seleziona e invia](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 
