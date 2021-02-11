@@ -3,9 +3,9 @@ unique-page-id: 14352543
 description: Posizione Del Destinatario Errata - Documenti Marketo - Documentazione Del Prodotto
 title: Posizione destinatario errata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Se la posizione dei destinatari non è corretta, ci sono tre possibilità per ci
 
 - Se l&#39;e-mail è stata inoltrata o aperta da un utente nel campo CC o CCN, si tenta di visualizzare con precisione la posizione di tali persone.
 
-In generale, determineremo le posizioni con la massima precisione possibile in base al tracciamento IP, ma sfortunatamente `isn't an exact science`.
+In generale, determineremo le posizioni con la massima precisione possibile sulla base del monitoraggio IP, ma sfortunatamente non è una scienza esatta.
