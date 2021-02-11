@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Utilizzo di un modello nella finestra Componi - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di un modello nella finestra Componi
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ Preferite **fino a cinque categorie di modelli specifici** per accedere rapidame
    >
    >**Per impostazione** predefinita, sono disponibili i preferiti. Contiene i modelli e-mail preferiti, non le categorie.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Campi dinamici](http://docs.marketo.com/x/wwDb)
-   >    * [Utilizzo dei modelli](http://docs.marketo.com/display/DOCS/Templates)
-
-
-La categoria selezionata è ora bloccata.
+   La categoria selezionata è ora bloccata.
