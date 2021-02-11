@@ -3,7 +3,7 @@ unique-page-id: 14352608
 description: Rimozione di persone da una campagna - Documenti Marketo - Documentazione prodotto
 title: Rimozione di persone da una campagna
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Inoltre, potete rimuovere persone dalla campagna stessa, rimuovere persone da un
 1. Fare clic su **Azioni** e scegliere **Rimuovi selezionati da campagna**.
 
    ![](assets/four-b.png)
-
