@@ -3,9 +3,9 @@ unique-page-id: 14352423
 description: Collegamento dell'account di vendita a Salesforce - Documenti Marketo - Documentazione prodotto
 title: Collegamento dell'account di vendita a Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Segui questi semplici passaggi per collegare Sales Connect a Salesforce.
 
    ![](assets/four.png)
 
-1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, vi verrà chiesto di effettuare il login.
+1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, vi verrà chiesto di effettuare l’accesso.
 
 ## Come connettersi come non amministratore {#how-to-connect-as-a-non-admin}
 
@@ -53,5 +53,4 @@ Segui questi semplici passaggi per collegare Sales Connect a Salesforce.
 
    ![](assets/four.png)
 
-1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, vi verrà chiesto di effettuare il login.
-
+1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, vi verrà chiesto di effettuare l’accesso.
