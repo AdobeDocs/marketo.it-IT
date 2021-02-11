@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: Modifica dell'accessibilità del campo Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Modifica accessibilità campo Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Se non visualizzi il registro delle attività e-mail in Salesforce, potrebbe ess
 * Consulta l’amministratore Salesforce per assicurarti che queste impostazioni di protezione non interferiscano con Sales Connect.
 
 * Se sei un amministratore Salesforce, puoi vedere l’accessibilità del tuo campo nella scheda Controlli di sicurezza. I campi principali con cui verrà interagito Sales Connect sono: Account, Contatti, Opportunità, Lead e Attività.
-
