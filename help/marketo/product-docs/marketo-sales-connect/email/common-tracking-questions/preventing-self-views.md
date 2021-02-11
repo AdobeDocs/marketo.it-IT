@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: Prevenzione di Self Views - Marketo Docs - Documentazione del prodotto
 title: Impedire le visualizzazioni autonome
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel immagine invisi
 1. In Protezione, fare clic sul pulsante di scelta **Mai**.
 
    ![](assets/mac-3.png)
-
