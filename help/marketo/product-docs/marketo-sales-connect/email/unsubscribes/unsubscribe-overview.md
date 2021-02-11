@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: Panoramica dell'annullamento della sottoscrizione - Documenti Marketo - Documentazione prodotto
 title: Panoramica di annullamento sottoscrizione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * Le informazioni di annullamento della sottoscrizione sono memorizzate in PDV
 * Le sottoscrizioni possono essere effettuate manualmente: Clic su Collegamento, Sincronizzazione Salesforce e Rimbalzo
 * Nuova pagina di destinazione del collegamento per l’annullamento della sottoscrizione
-
