@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: Personalizzazioni di vendita Connect per CRM - Documenti Marketo - Documentazione prodotto
 title: Personalizzazioni di Connect per CRM
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personalizzazioni di vendita Connect per CRM {#sales-connect-customizations-for-crm}
 
-I campi e i pulsanti di seguito vengono creati dall&#39;API dei metadati in Salesforce CRM. Una volta creati i campi, gli amministratori devono configurare i layout di pagina nel CRM per esporli. Le istruzioni sono disponibili [qui](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+I campi e i pulsanti di seguito vengono creati dall&#39;API dei metadati in Salesforce CRM. Una volta creati i campi, gli amministratori devono configurare i layout di pagina nel CRM per esporli. Le istruzioni sono disponibili [qui](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una backfill un
 
 ## Guide utente {#user-guides}
 
-[Report personalizzati MSE in Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Report personalizzati MSE in Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[MSE per Salesforce](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[MSE per Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[MSE per fulmine Salesforce](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## Video correlati {#related-videos}
-
-**Come installare le personalizzazioni in Salesforce**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Il vantaggio di utilizzare le personalizzazioni in Salesforce** 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[MSE per fulmine Salesforce](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
