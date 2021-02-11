@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: Personalizza Messaggio Collegamento Annulla Iscrizione - Documenti Marketo - Documentazione prodotto
 title: Personalizza messaggio di annullamento sottoscrizione
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi dei collegamenti 
 
 ## Personalizzare i messaggi {#customize-messaging-for-yourself}
 
-1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](https://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi dei collegamenti 
 
 ## Imposta messaggi di annullamento sottoscrizione per il team {#set-unsubscribe-messaging-for-your-team}
 
-1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](https://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi dei collegamenti 
 1. Selezionare **Sto impostando i messaggi predefiniti per il mio team** affinché i messaggi vengano applicati a tutti gli utenti.
 
    ![](assets/eleven.png)
-
