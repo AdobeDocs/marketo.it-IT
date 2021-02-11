@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: Panoramica sui feed dal vivo - Documenti Marketo - Documentazione sui prodotti
 title: Panoramica sui feed live
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ Le persone contrassegnate da una linea blu rappresentano il coinvolgimento con l
 >
 >* Se il destinatario ha eseguito l&#39;accesso alla rete wireless per un&#39;azienda che ha la propria sede centrale in un&#39;altra città o in un altro paese, registreremmo tale posizione invece delle impostazioni internazionali correnti del destinatario.
 >* Se l&#39;e-mail è stata inoltrata o aperta da un utente nel campo CC/CCN, si tenta di visualizzare con precisione la posizione di tali persone.
-
->
-
 
 
 ## Scheda Attività {#tasks-tab}
@@ -106,4 +103,3 @@ Visualizzare le persone migliori (ordinate dal più alto al più basso) classifi
 >[!NOTE]
 >
 >Se qualcuno visualizza ripetutamente il messaggio e-mail nel feed dal vivo, potrebbe averlo inoltrato ad altri destinatari. Questo è molto probabile se notate che la posizione inizia a cambiare per quelle viste.
-
