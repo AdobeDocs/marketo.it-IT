@@ -3,9 +3,9 @@ unique-page-id: 14352457
 description: Panoramica del componente aggiuntivo .NET - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del componente aggiuntivo .NET
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questo è il nostro vecchio componente aggiuntivo. Se è già installato, continuerà a funzionare fino al 2020. Se sei un nuovo utente, installa il nuovo componente aggiuntivo [Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Questo è il nostro vecchio componente aggiuntivo. Se è già installato, continuerà a funzionare fino al 2020. Se sei un nuovo utente, installa il nuovo componente aggiuntivo [Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Collegamento di un contenuto {#attaching-a-piece-of-content}
 
@@ -33,7 +33,7 @@ Questo richiama il calendario di Outlook e consente di aggiungere date e ore spe
 
 Inserire un modello Tout predefinito nel messaggio di Outlook premendo il pulsante **Templates**.
 
-Siamo `sync with all of your personal templates and any shared templates` tra i membri del team. Per facilitare l&#39;accesso, è inoltre possibile inserire automaticamente l&#39;ultimo modello utilizzato e il modello più utilizzato.
+Ci sincronizziamo con tutti i vostri modelli personali ed eventuali modelli condivisi tra i team. Per facilitare l&#39;accesso, è inoltre possibile inserire automaticamente l&#39;ultimo modello utilizzato e il modello più utilizzato.
 
 ## Pulsante Tout It {#the-tout-it-button}
 
