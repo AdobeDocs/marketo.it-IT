@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: Impostazione del canale di consegna - Documenti Marketo - Documentazione del prodotto
 title: Impostazione del canale di consegna
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
 
 >[!NOTE]
 >
->Oltre a configurare il server SMTP, è necessario verificare l&#39;identità dell&#39;e-mail [prima di poter inviare le e-mail.](http://docs.marketo.com/x/ewPh)
+>Oltre a configurare il server SMTP, è necessario verificare l&#39;identità dell&#39;e-mail [prima di poter inviare le e-mail.](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
 
 È possibile scegliere di inviare e-mail utilizzando un server SMTP personalizzato, un server SMTP Team o Gmail come canale di consegna. Passiamo a ogni opzione.
 
 ## SMTP personalizzato {#custom-smtp}
 
-1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](https://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
    >
    >Se l&#39;amministratore del team configura il server SMTP del team, questo verrà applicato automaticamente solo all&#39;identità e-mail predefinita e sarà disponibile come opzione per le altre identità e-mail.
 
-   **Video**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Server SMTP Team {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](https://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
    >
    >Il server SMTP del team sarà il canale di consegna predefinito dell&#39;identità e-mail predefinita per tutti i membri del team. Inoltre, sarà disponibile come opzione canale di consegna per tutte le altre identità e-mail.
 
-   ** Guarda un video**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](https://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio in alto a destra e scegliete **Impostazioni**.
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
    ![](assets/fifteen.png)
 
 1. Effettuate l&#39;accesso utilizzando le vostre credenziali Google.
+
 1. Quando si arriva a questa schermata, fare clic su **Consenti**.
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ Quando iniziate a utilizzare Marketo Sales Connect, dovrete configurare un serve
    >[!NOTE]
    >
    >Se l&#39;amministratore del team configura il server SMTP del team, questo verrà applicato automaticamente solo all&#39;identità e-mail predefinita e sarà disponibile come opzione per le altre identità e-mail.
-
