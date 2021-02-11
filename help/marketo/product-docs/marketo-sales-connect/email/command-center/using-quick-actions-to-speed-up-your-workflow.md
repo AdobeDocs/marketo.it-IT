@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: Utilizzo di azioni rapide per velocizzare il flusso di lavoro - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di azioni rapide per velocizzare il flusso di lavoro
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano a seconda delle azioni pi
 
 **Consegnato**
 
-| Archivio | Aggiungerà il messaggio e-mail alla cartella archiviata e interromperà la visualizzazione e farà clic sul tracciamento del messaggio e-mail. |
+| Stato | Descrizione |
 |---|---|
+| Archivio | Aggiungerà il messaggio e-mail alla cartella archiviata e interromperà la visualizzazione e farà clic sul tracciamento del messaggio e-mail. |
 | Successo | L’e-mail verrà contrassegnata come un messaggio di errore da includere nell’analisi dei modelli. |
 
 **Archiviato**
@@ -84,13 +85,11 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano a seconda delle azioni pi
 
 **Azioni di follow-up**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Invia e-mail di follow-up | Apre la finestra Componi con il corpo e-mail in linea selezionato aggiunto e pronto per essere inviato al destinatario. |
+| Funzione | Descrizione |
 |---|---|
+| Invia e-mail di follow-up | Apre la finestra Componi con il corpo e-mail in linea selezionato aggiunto e pronto per essere inviato al destinatario. |
 | Chiama | Apre il telefono di vendita per effettuare una chiamata al destinatario e-mail. |
 | Invia inMail | Reindirizza a LinkedIn per inviare alla persona un messaggio InMail. |
 | Crea attività | Apre la finestra a comparsa Crea attività per creare un&#39;attività promemoria. |
-
