@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Pianificazione di un'e-mail - Documenti Marketo - Documentazione prodotto
 title: Pianificazione di un'e-mail
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ Seguite questi semplici passaggi per pianificare un&#39;e-mail.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Panoramica del centro comandi](http://docs.marketo.com/x/kgDb)
-
+   >[Panoramica del centro comandi](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
