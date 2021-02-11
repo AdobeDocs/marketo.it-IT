@@ -3,7 +3,7 @@ unique-page-id: 14352622
 description: Fine settimana - Marketo Docs - Documentazione prodotto
 title: Fine settimana Salta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando si automatizza una campagna, probabilmente non si desidera che le e-mail vengano inviate il sabato o la domenica. In caso contrario, è possibile saltare i fine settimana.
 
-1. In Sales Connect, fate clic sulla scheda Campagne.
+1. In Sales Connect, fate clic sulla scheda **Campaigns** (Campagne).
 
    ![](assets/one-2.png)
 
@@ -34,4 +34,3 @@ Quando si automatizza una campagna, probabilmente non si desidera che le e-mail 
    >[!NOTE]
    >
    >Senza saltare i fine settimana, le tue e-mail sono pianificate in base a una normale settimana di 7 giorni.
-
