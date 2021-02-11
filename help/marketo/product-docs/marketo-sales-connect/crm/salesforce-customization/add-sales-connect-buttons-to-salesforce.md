@@ -3,7 +3,7 @@ unique-page-id: 14352463
 description: Aggiungere i pulsanti di vendita di Connect a Salesforce - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di pulsanti di vendita di Connect a Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Vai a **Configurazione** quindi **Personalizza**.
+1. Vai a **Setup**, quindi **Customize**.
 1. In Contatti/Lead/Account, aprire **Cerca layout**.
-1. Modificare la visualizzazione elenco dei lead e trascinare **Premi a MSC **nei pulsanti selezionati.
+1. Modifica vista elenco lead e trascina **Premi a MSC** nei pulsanti selezionati.
 
 ## Invia e-mail di vendita marketing {#send-marketo-sales-email}
 
@@ -29,11 +29,10 @@ ht-degree: 0%
 
 1. Modificate il layout della pagina per Lead/Contatto/Account.
 1. Selezionate la sezione Pulsanti.
-1. Prendi il pulsante **Call with MSC **e trascinalo nella sezione **Pulsanti personalizzati** dei dettagli.
+1. Selezionare il pulsante **Chiama con MSC** e trascinarlo nella sezione **Pulsanti personalizzati** dei dettagli.
 
 ## Aggiungi alla campagna {#add-to-campaign}
 
 1. Modificate il layout della pagina per Lead/Contatto/Account.
 1. Selezionate la sezione Pulsanti.
 1. Prendi il pulsante **Aggiungi a MSC Campaign** e trascinalo nella sezione **Pulsanti personalizzati** dei dettagli.
-
