@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: Installazione dei campi evento di vendita Connect sulla cronologia attività - Documenti Marketo - Documentazione prodotto
 title: Installazione dei campi evento di vendita Connect nella cronologia attività
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ Quando esegui questi passaggi, assicurati di collaborare con l&#39;amministrator
 1. Fare clic su **Salva**.
 
    I tuoi utenti possono ora visualizzare informazioni e aggiornamenti preziosi sulle loro e-mail in Salesforce!
-
