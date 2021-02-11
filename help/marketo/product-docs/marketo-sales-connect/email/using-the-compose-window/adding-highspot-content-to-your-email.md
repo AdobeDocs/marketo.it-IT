@@ -3,7 +3,7 @@ unique-page-id: 37356590
 description: Aggiunta di contenuti mirati alle e-mail - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di contenuti mirati all’e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
