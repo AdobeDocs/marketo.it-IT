@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: Pianificazione di una campagna - Documenti Marketo - Documentazione prodotto
 title: Pianificazione di una campagna
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Aprite il modale Aggiungi alla campagna, aggiungendo individui, un gruppo o pers
 
 Dopo aver fatto clic su **Next**, potete visualizzare in anteprima il primo messaggio e-mail.
 
-Dopo aver fatto di nuovo clic su **Next **successivo, verrà visualizzata un&#39;opzione per il momento in cui si desidera che la campagna esca. È possibile avviarlo ora oppure pianificare un&#39;ora per avviare la campagna in un secondo momento.
+Dopo aver fatto di nuovo clic su **Next**, verrà visualizzata un&#39;opzione per il momento in cui si desidera uscire dalla campagna. È possibile avviarlo ora oppure pianificare un&#39;ora per avviare la campagna in un secondo momento.
