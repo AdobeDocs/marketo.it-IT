@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: Come risolvere "Non siamo stati in grado di autenticare la tua richiesta" quando ci si collega a Salesforce - Marketo Docs - Documentazione del prodotto
 title: Come risolvere "Impossibile autenticare la richiesta" durante la connessione a Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Se durante il tentativo di connettere Sales Connect a Salesforce ricevi il messa
 1. Selezionare **Gestisci app**.
 1. Selezionare **Applicazioni collegate OAuth Usage**.
 1. Verificate che il Sales Connect mostri &quot;Blocca&quot; accanto ad esso. Se viene visualizzato &quot;Sblocca&quot;, fate clic sul pulsante per sbloccare l&#39;accesso di Sales Connect a Salesforce.
-
