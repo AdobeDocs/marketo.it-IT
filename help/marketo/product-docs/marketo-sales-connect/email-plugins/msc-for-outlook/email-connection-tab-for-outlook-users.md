@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Scheda Connessione e-mail per gli utenti di Outlook - Documenti Marketo - Documentazione prodotto
 title: Scheda Connessione e-mail per gli utenti di Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, ac
 
    ![](assets/nine-a.png)
 
-   È possibile utilizzare questa connessione per tenere traccia delle e-mail e [anche come canale di consegna](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   È possibile utilizzare questa connessione per tenere traccia delle e-mail e anche come canale di consegna.
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ La connessione a Exchange On-Premise consente di ricevere il tracciamento delle 
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | Noto anche come Office Online |
+   | Versione | Descrizione |
    |---|---|
+   | **Outlook Online** | Noto anche come Office Online |
    | **Exchange locale** | Include Exchange 2013 e 2016 |
 
 1. Immettete le credenziali e fate clic su **Connect**.
@@ -109,10 +110,8 @@ La connessione a Exchange On-Premise consente di ricevere il tracciamento delle 
    >
    >Se disattivate l&#39;individuazione automatica nel menu a discesa Versione di Exchange, dovrete chiedere al reparto IT l&#39;URL di Exchange.
 
-   [come canale di consegna](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   È possibile utilizzare questa connessione per tenere traccia delle e-mail e anche come canale di consegna.
 
    >[!NOTE]
    >
    >Quando si utilizza Outlook come canale di consegna, non è possibile inviare più di 300 e-mail alla volta.
-
-È possibile utilizzare questa connessione per tenere traccia delle e-mail e anche .
