@@ -3,9 +3,9 @@ unique-page-id: 17728401
 description: Scheda Connessione e-mail per utenti Gmail - Documenti Marketo - Documentazione prodotto
 title: Scheda Connessione e-mail per gli utenti di Gmail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -51,5 +51,4 @@ La connessione a Gmail consente di ricevere il tracciamento delle risposte, acce
 
    ![](assets/nine.png)
 
-   È possibile utilizzare questa connessione per tenere traccia delle e-mail e [anche come canale di consegna](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
-
+   È possibile utilizzare questa connessione per tenere traccia delle e-mail e anche come canale di consegna.
