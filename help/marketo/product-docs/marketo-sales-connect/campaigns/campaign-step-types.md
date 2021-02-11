@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: Tipi di passaggi campagna - Documenti Marketo - Documentazione prodotto
 title: Tipi di passaggi campagna
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Componi un nuovo messaggio e-mail o usa un modello preesistente.
 
 >[!TIP]
 >
->Informazioni dettagliate sulle [opzioni di invio](http://docs.marketo.com/x/7QDb).
+>Informazioni dettagliate sulle [opzioni di invio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Chiama {#call}
 
@@ -50,4 +50,3 @@ Seguire più canali è un ottimo modo per collegarsi ai lead. Con le attività d
 Utilizzare attività personalizzate quando le opzioni di cui sopra non sono applicabili. Ad esempio, potete invitare un collega a seguire un lead via e-mail.
 
 ![](assets/custom.png)
-
