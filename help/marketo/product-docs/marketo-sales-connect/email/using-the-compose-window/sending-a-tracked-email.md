@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Invio di un'e-mail tracciata - Documenti Marketo - Documentazione prodotto
 title: Invio di un'e-mail tracciata
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ Quando si invia un&#39;e-mail con Marketo Sales Connect, vengono tracciate le vi
 >
 >Prima di inviare un&#39;e-mail tracciata, è necessario verificare l&#39;identità e impostare un canale di consegna e-mail.
 >
->* [Verifica l&#39;indirizzo e-mail](http://docs.marketo.com/x/ewPh)
->* Impostare un canale di consegna per [Outlook](http://docs.marketo.com/x/Z4AOAQ) o [Gmail](http://docs.marketo.com/x/kYMOAQ)
-
->
-
+>* [Verifica l&#39;indirizzo e-mail](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Impostare un canale di consegna per [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
 
 
 1. Create la bozza dell&#39;e-mail (vi sono diversi modi per farlo, in questo esempio scegliamo **Componi** nell&#39;intestazione).
@@ -54,17 +51,12 @@ Quando si invia un&#39;e-mail con Marketo Sales Connect, vengono tracciate le vi
    >
    >Per inviare l’e-mail è necessario specificare l’oggetto e il destinatario. Dopo l&#39;aggiunta di un oggetto e di un destinatario, **verrà automaticamente salvata la bozza**.
 
-1. Componete l’e-mail utilizzando l’editor. Fare clic su **Invia** (o su [Programma](http://docs.marketo.com/x/GAQ6Ag), se lo si preferisce) al termine.
+1. Componete l’e-mail utilizzando l’editor. Fare clic su **Invia** (o su [Programma](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), se lo si preferisce) al termine.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Pianificazione di un&#39;e-mail](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [Campi dinamici](http://docs.marketo.com/x/wwDb)
-   >    * [Utilizzo dei modelli](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [Pianificazione di un&#39;e-mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Modelli](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
