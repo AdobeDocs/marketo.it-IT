@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: Impedire l'integrazione dell'indirizzo di posta elettronica secondario con Sales Connect - Marketo Docs - Documentazione del prodotto
 title: Impedire l'integrazione dell'indirizzo e-mail secondario con Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect si integra con Gmail tramite un&#39;estensione installata nel brow
 
 Accesso Come Altro Utente Chrome (Consigliato)
 
-Fare clic su [questo collegamento](http://support.google.com/chrome/answer/2364824?hl=en) per leggere come creare un altro profilo Chrome.
+Fare clic su [questo collegamento](https://support.google.com/chrome/answer/2364824?hl=en) per leggere come creare un altro profilo Chrome.
 
 **Pros**: L&#39;accesso come un altro utente aprirà una nuova istanza di Chrome. Questa istanza è una nuovissima finestra di Chrome, e nessuna delle vostre vecchie estensioni esisterà in questo. Inoltre tiene i cookie in modo da non dover accedere sempre al Gmail.
 
