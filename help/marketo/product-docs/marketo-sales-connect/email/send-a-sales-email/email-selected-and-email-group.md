@@ -3,9 +3,9 @@ unique-page-id: 14352519
 description: Email selezionate e Email Group - Marketo Docs - Documentazione prodotto
 title: E-mail selezionata e gruppo e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Una volta creato un gruppo e aggiunti i contatti, potete scegliere tra due opzio
 
 ## E-mail selezionata {#email-selected}
 
-Utilizzando l&#39;e-mail selezionata, è possibile `select specific recipients in the group` che si desidera contattare. Anche questo metodo `allows you to edit each email before they get sent out`.
+Utilizzando l’e-mail selezionata, potete selezionare specifici destinatari nel gruppo da contattare. Questo metodo consente inoltre di modificare ogni e-mail prima che venga inviata.
 
 >[!NOTE]
 >
 >Questo metodo è consigliato se si desidera inviare a circa 15 destinatari e-mail e si desidera modificare ogni e-mail.
 
-È possibile `add specific content` interessare ciascun destinatario prima che l&#39;e-mail del gruppo venga inviata.
+Potete aggiungere contenuto specifico pertinente a ciascun destinatario prima che l&#39;e-mail del gruppo venga inviata.
 
 ## Email Entire Group {#email-entire-group}
 
@@ -33,4 +33,4 @@ Ti offriamo anche la possibilità di inviare un&#39;e-mail a tutti i membri di q
 >
 >Questo metodo è consigliato quando si eseguono invii di gruppi più grandi.
 
-Nel gruppo, selezionare **Gruppo e-mail**. Sarà `pull in everyone in the group for you to email`.  Qui potete usare un modello specifico e selezionare l’anteprima per vedere l’aspetto dell’e-mail prima che venga inviata. Una volta che tutto sembra buono, basta premere Invia!
+Nel gruppo, selezionare **Gruppo e-mail**. Richiederà tutti nel gruppo per voi di inviare email.  Qui potete usare un modello specifico e selezionare l’anteprima per vedere l’aspetto dell’e-mail prima che venga inviata. Una volta che tutto sembra buono, basta premere Invia!
