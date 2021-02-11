@@ -3,7 +3,7 @@ unique-page-id: 14746177
 description: Registrazione di un annullamento dell'iscrizione - Documenti Marketo - Documentazione prodotto
 title: Ripristino di un'iscrizione annullata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,7 +27,8 @@ A volte la gente vuole tornare a ricevere e-mail. Questo è come rendere gli abb
 >
 >Se la sincronizzazione dell&#39;annullamento della sottoscrizione è attivata, devi rimuovere l&#39;annullamento della sottoscrizione da ToutApp e deselezionare l&#39;opzione di rifiuto in Salesforce affinché il record della persona non venga più sincronizzato.
 
-1. Andate all&#39;applicazione Web [](http://toutapp.com/login) e fate clic su **Persone**.
+1. Andate all&#39;applicazione Web [](https://toutapp.com/login) e fate clic su **Persone**.
+
 1. Selezionate la persona per aprire la visualizzazione Dettagli persona.
 
    ![](assets/two.png)
@@ -39,4 +40,3 @@ A volte la gente vuole tornare a ricevere e-mail. Questo è come rendere gli abb
 1. Selezionate il motivo per cui la persona viene riaperta per ricevere e-mail, quindi fate clic su **Rimuovi annullamento sottoscrizione**.
 
    ![](assets/four.png)
-
