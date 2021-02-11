@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Composizione di e-mail in blocco con Seleziona e invia - Documenti Marketo - Documentazione prodotto
 title: Composizione di e-mail in blocco con Seleziona e invia
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
    ![](assets/three-2.png)
 
-1. Inserite un oggetto, selezionate un modello (o componete l&#39;e-mail da zero) e inviate/ [pianificate](http://docs.marketo.com/x/GAQ6Ag)l&#39;e-mail.
+1. Inserite un oggetto, selezionate un modello (o componete l&#39;e-mail da zero) e inviate/[pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) l&#39;e-mail.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
 **Modifiche collettive**
 
-1. Seguire i passaggi da 1 a 3 dalla sezione [Invio di e-mail](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Seguire i passaggi da 1 a 3 dalla sezione [Invio di e-mail](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
    >
    >Potete fare clic su un destinatario e-mail specifico per visualizzare le modifiche propagate a tale e-mail.
 
-1. Fare clic su **Invia** (o [Pianificazione](http://docs.marketo.com/x/GAQ6Ag)) per inviare a tutti i destinatari gli aggiornamenti e-mail eseguiti in massa.
+1. Fare clic su **Invia** (o [Pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail eseguiti in massa.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opz
 
 Completate gli aggiornamenti in blocco prima di personalizzare ogni e-mail, poiché con un aggiornamento in blocco le modifiche apportate a ogni e-mail presente nella barra laterale della composizione in massa vengono sovrascritte.
 
-1. Seguire i passaggi da 1 a 4 dalla sezione [Invio di e-mail.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Seguite i passaggi da 1 a 4 della sezione [Invio di e-mail](#sending-emails).
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ Completate gli aggiornamenti in blocco prima di personalizzare ogni e-mail, poic
    >
    >È possibile fare clic su altri destinatari per verificare che le modifiche apportate al destinatario selezionato in precedenza non siano visibili.
 
-1. Fare clic su **Invia** (o [Pianificazione](http://docs.marketo.com/x/GAQ6Ag)) per inviare a tutti i destinatari gli aggiornamenti e-mail eseguiti in massa.
+1. Fare clic su **Invia** (o [Pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail eseguiti in massa.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Opzioni di invio in blocco](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [Utilizzo di un modello nella finestra Componi](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [Campi dinamici](http://docs.marketo.com/x/wwDb)
-
+   >* [Opzioni di invio in blocco](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [Utilizzo di un modello nella finestra Componi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Campi dinamici](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
