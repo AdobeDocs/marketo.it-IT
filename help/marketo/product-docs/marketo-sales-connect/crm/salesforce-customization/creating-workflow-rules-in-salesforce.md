@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: Creazione di regole di workflow in Salesforce - Documenti Marketo - Documentazione prodotto
 title: Creazione di regole per il flusso di lavoro in Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ Di seguito sono riportati i nomi consigliati delle regole del flusso di lavoro e
    ![](assets/thirteen.png)
 
    Dopo l’ultimo passaggio, potete scegliere di duplicare la regola del flusso di lavoro per gli altri campi elencati nella sezione Guida introduttiva: Descrizione, Tipo, Origine, Data. Dopo aver completato le quattro regole del flusso di lavoro nell&#39;oggetto Contatto, ripetere lo stesso per l&#39;oggetto Lead.
-
