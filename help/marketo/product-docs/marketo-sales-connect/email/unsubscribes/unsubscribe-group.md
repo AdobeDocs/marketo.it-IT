@@ -3,7 +3,7 @@ unique-page-id: 14746167
 description: Unsubscription Group - Marketo Docs - Documentazione prodotto
 title: Annulla sottoscrizione gruppo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -24,6 +24,3 @@ Utilizzate la barra di ricerca per cercare le persone non sottoscritte.
 Se siete un amministratore, potete accedere al gruppo di annullamento della sottoscrizione per filtrare in base agli account Annulla sottoscrizione e visualizzare tutti gli abbonamenti raccolti nel database delle persone.
 
 ![](assets/3.png)
-
-
-
