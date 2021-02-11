@@ -3,9 +3,9 @@ unique-page-id: 37356329
 description: Panoramica della ricerca avanzata - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della ricerca avanzata
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,9 @@ Filtrare per destinatario/mittente della posta elettronica nella sezione Chi.
 
 ![](assets/who.png)
 
-| **Visualizza come** | Filtrare per un mittente specifico nell’istanza di Sales Connect (questa opzione è disponibile solo per gli amministratori). |
+| A discesa | Descrizione |
 |---|---|
+| **Visualizza come** | Filtrare per un mittente specifico nell’istanza di Sales Connect (questa opzione è disponibile solo per gli amministratori). |
 | **Per gruppo** | Filtrare le e-mail per un gruppo specifico di destinatari. |
 | **Per persona** | Filtrare per un destinatario specifico. |
 
@@ -82,8 +83,9 @@ Filtra in base all’attività e-mail inviata. Potete scegliere viste/nessuna vi
 
 Filtra per tutte le e-mail in sospeso.
 
-| **Pianificato** | E-mail pianificate dalla finestra di composizione (Salesforce o dall&#39;app Web), dai plug-in e-mail o da una campagna. |
+| Stato | Descrizione |
 |---|---|
+| **Pianificato** | E-mail pianificate dalla finestra di composizione (Salesforce o dall&#39;app Web), dai plug-in e-mail o da una campagna. |
 | **Bozze** | E-mail attualmente in stato bozza. Le e-mail richiedono un oggetto e un destinatario per essere salvate come bozza. |
 | **In corso** | E-mail in corso di invio. Le e-mail non devono rimanere in questo stato per più di pochi secondi. |
 
@@ -93,10 +95,11 @@ Filtra per tutte le e-mail in sospeso.
 
 Filtri per e-mail mai consegnati.
 
-| **Operazione non riuscita** | Quando un messaggio e-mail non viene inviato da Sales Connect (i motivi più comuni includono: e-mail inviate a contatti non sottoscritti/bloccati o in caso di problemi durante la compilazione dei campi dinamici). |
+| Stato | Descrizione |
 |---|---|
+| **Operazione non riuscita** | Quando un messaggio e-mail non viene inviato da Sales Connect (i motivi più comuni includono: e-mail inviate a contatti non sottoscritti/bloccati o in caso di problemi durante la compilazione dei campi dinamici). |
 | **Rimbalzato** | Un messaggio e-mail viene contrassegnato come rimbalzato quando viene rifiutato dal server del destinatario. Solo i messaggi e-mail inviati tramite i server di Sales Connect vengono visualizzati qui. |
-| **Spam** | Quando l&#39;e-mail veniva contrassegnata come spam (termine comune per le e-mail non richieste) dal destinatario. Solo i messaggi e-mail inviati tramite i server di Sales Connect vengono visualizzati qui. |
+| **Spam** | Quando l&#39;e-mail è stata contrassegnata come spam (termine comune per l&#39;e-mail non richiesta) dal destinatario. Solo i messaggi e-mail inviati tramite i server di Sales Connect vengono visualizzati qui. |
 
 ## Ricerche salvate {#saved-searches}
 
@@ -113,4 +116,3 @@ Come creare una ricerca salvata.
    Le ricerche salvate si trovano nella barra laterale a sinistra.
 
    ![](assets/advanced-search-overview-15.png)
-
