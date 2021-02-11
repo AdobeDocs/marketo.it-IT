@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: Aggiungere un allegato o contenuti tracciabili alla posta elettronica - Documenti Marketo - Documentazione prodotto
 title: Aggiungere un allegato o contenuti tracciabili all’e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ L’allegato compare nella parte inferiore dell’e-mail.
    >[!NOTE]
    >
    >Gli utenti riceveranno una notifica nel feed dal vivo quando le persone visualizzeranno il contenuto tracciato. Gli utenti possono inoltre visualizzare il contenuto con le prestazioni più elevate nella sezione del contenuto della pagina Analisi.
-
