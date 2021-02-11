@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Panoramica della pagina di analisi - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della pagina Analisi
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ La pagina di analisi viene aggiornata ogni dieci minuti.
 
 ## Cosa significano i numeri? {#what-do-the-numbers-mean}
 
-I numeri all&#39;interno di `radials` calcolano il numero totale di eventi su tutte le e-mail inviate. Quindi se un `single same email is viewed five times, it will add five views`a questo numero. La stessa idea viene applicata ai clic e alle risposte conteggiate all&#39;interno del cerchio.
+I numeri all&#39;interno dei radiali calcolano il numero totale di eventi su tutte le e-mail inviate. Se viene visualizzata una sola e-mail cinque volte, verranno aggiunte cinque visualizzazioni a questo numero. La stessa idea viene applicata ai clic e alle risposte conteggiate all&#39;interno del cerchio.
 
-Tutte le nostre statistiche conservate all&#39;interno del `table` saranno calcolate guardando le viste, i clic e le risposte univoche alle tue e-mail. Se `one email is viewed five times, we will count that as one view.` Questo è il motivo per cui si può vedere una grande differenza nei numeri nelle tabelle rispetto ai numeri nel radiale.
+Tutte le nostre statistiche conservate all&#39;interno della tabella saranno calcolate guardando le viste uniche, i clic e le risposte alle tue e-mail. Se un messaggio e-mail viene visualizzato cinque volte, verrà conteggiato come un&#39;unica visualizzazione. Ecco perché si può vedere una grande differenza nei numeri nelle tabelle rispetto ai numeri nel radiale.
 
 ## Schede analitiche {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Qui potete vedere statistiche e classifiche di tutta la vostra squadra. Potete a
 
 La scheda del contenuto contiene stati su modelli, contenuto e collegamenti. Potete filtrare in base a tutti o in base ai team creati dagli amministratori.
 
-Se il testo blu è visualizzato sotto la colonna dell&#39;oggetto, significa che il modello è `shared`. Potete fare clic sul testo blu da spostare su tale modello. Visualizzate il relativo utilizzo facendo clic su **Analisi dei modelli**.
+Se il testo blu è visualizzato sotto la colonna dell’oggetto, significa che il modello è condiviso. Potete fare clic sul testo blu da spostare su tale modello. Visualizzate il relativo utilizzo facendo clic su **Analisi dei modelli**.
 
-I clic sul contenuto vengono conteggiati quando un destinatario fa clic su un collegamento nell’e-mail.
+I clic sul contenuto vengono conteggiati quando il destinatario fa clic su un collegamento nell’e-mail.
