@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: Creare una campagna - Documenti Marketo - Documentazione del prodotto
 title: Creare una campagna
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Quindi, come si configura una campagna?
 
    >[!NOTE]
    >
-   >Per creare una nuova categoria, fai clic sul simbolo** +* accanto a **Categorie**.
+   >Per creare una nuova categoria, fare clic su **+** accanto a **Categorie**.
 
 1. La categoria scelta verrà selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **Continue**.
 
@@ -44,7 +44,7 @@ Quindi, come si configura una campagna?
 
    ![](assets/four-1.png)
 
-1. Scegli tra: E-mail, Call, InMail o Attività Personalizzata. In questo esempio abbiamo scelto [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Scegli tra: E-mail, Call, InMail o Attività Personalizzata. In questo esempio abbiamo scelto [Email](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ Quindi, come si configura una campagna?
 
    >[!NOTE]
    >
-   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna avrà una durata di 7 giorni, inserendo &#39;3&#39; l&#39;azione verrà eseguita il giorno 3 di 7, **not **3 giorni dopo.
+   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna avrà una durata di 7 giorni, inserendo &#39;3&#39; l&#39;azione verrà eseguita il giorno 3 di 7, **not** 3 giorni dopo.
 
 1. Assicurati di personalizzare la pianificazione e le opzioni di risposta, ad esempio saltare i fine settimana (che è fantastico) visitando la **scheda Settings** per la campagna.
 
    ![](assets/seven.png)
 
    Ora è il momento di iniziare ad aggiungere persone alla tua campagna!
-
