@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Sincronizzazione degli abbonamenti con Salesforce - Documenti Marketo - Documentazione prodotto
 title: Sincronizzazione delle sottoscrizioni con Salesforce
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Dopo aver attivato la sincronizzazione dell’annullamento della sottoscrizione 
 
 Gli utenti possono decidere se desiderano sincronizzare le proprie iscrizioni con il campo Rifiuto e-mail standard con cui Marketo può anche eseguire la sincronizzazione, oppure possono sincronizzarsi con il campo Rifiuto vendite Marketo in modo che gli abbonamenti alle vendite e gli annulli di marketing possano essere differenziati.
 
-1. Accedete all&#39; [applicazione Web](http://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
+1. Accedete all&#39; [applicazione Web](https://toutapp.com/login), fate clic sull&#39;icona a forma di ingranaggio e selezionate **Impostazioni**.
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Gli utenti possono decidere se desiderano sincronizzare le proprie iscrizioni co
 
    ![](assets/4.png)
 
-   | **Sincronizzazione con il campo Rifiuto Salesforce** | Selezionato per impostazione predefinita, aggiorna solo il campo Rifiuto Salesforce. |
+   | Field | Descrizione |
    |---|---|
+   | **Sincronizzazione con il campo Rifiuto Salesforce** | Selezionato per impostazione predefinita, aggiorna solo il campo Rifiuto Salesforce. |
    | **Campo Sincr. su Vendita Marketo** | Se desiderate separare le sottoscrizioni Vendite e Marketing, scegliete questa opzione per aggiornare il campo aggiuntivo [Rinuncia alle vendite marketing.](#msoo) |
 
 ## Installazione del campo Rifiuto nel layout di pagina {#installing-the-opt-out-field-in-the-page-layout}
@@ -57,7 +58,7 @@ Gli utenti possono decidere se desiderano sincronizzare le proprie iscrizioni co
 
 Rifiuto e-mail è un campo standard di Salesforce che può essere installato da Salesforce. Devi essere un amministratore Salesforce per installarlo.
 
-1. Vai a [Salesforce.com](http://Salesforce.com) ed effettua l&#39;accesso.
+1. Vai a [Salesforce.com](https://salesforce.com) ed effettua l&#39;accesso.
 
    ![](assets/five-1.png)
 
