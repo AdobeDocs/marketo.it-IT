@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Impostazioni sincronizzazione Salesforce - Documenti Marketo - Documentazione prodotto
 title: Impostazioni sincronizzazione Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ Se non visualizzi My Email to Salesforce in Settings (Il mio messaggio e-mail a 
 >
 >Per configurare questa configurazione, è necessario disporre dei privilegi di amministratore.
 
-1. Fare clic su **Setup *.* **
-1. Fare clic su **Amministrazione e-mail *.* **
-1. Fare clic su **Invia per e-mail a Salesforce *.* **
+1. Fare clic su **Setup**.
+1. Fare clic su **Amministrazione e-mail**.
+1. Fare clic su **Invia per e-mail a Salesforce**.
 1. Fare clic su **Modifica**.
-1. Selezionare la casella accanto a &quot;Attivo*&quot;.*
-1. Fare clic su **Salva *.* **
+1. Selezionare la casella accanto a &quot;Attivo&quot;.
+1. Fare clic su **Salva**.
 
 ## Sincronizza attività/promemoria di coinvolgimento delle vendite con attività Salesforce {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ Se non visualizzi My Email to Salesforce in Settings (Il mio messaggio e-mail a 
 1. Scegliete l’opzione desiderata (per impostazione predefinita, l’opzione &quot;Non sincronizzare con le attività Salesforce&quot; è selezionata).
 
    ![](assets/eight.png)
-
