@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Come collegare le vendite alla sandbox Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Come collegare le vendite alla sandbox di Salesforce
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Non è possibile collegare l&#39;account di Sales Connect a Salesforce quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurarsi di scollegare](http://docs.marketo.com/x/FoDq) prima di seguire i passaggi descritti in questo articolo.
+>Non è possibile collegare l&#39;account di Sales Connect a Salesforce quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurarsi di scollegare](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) prima di seguire i passaggi descritti in questo articolo.
 
 1. In Sales Connect, fate clic sull&#39;icona dell&#39;ingranaggio in alto a destra e selezionate **Settings**.
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Come installare le personalizzazioni nella sandbox di Salesforce](http://docs.marketo.com/x/EIDq)
-
+>[Come installare le personalizzazioni nella sandbox di Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
