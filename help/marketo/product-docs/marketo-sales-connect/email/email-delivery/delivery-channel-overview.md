@@ -3,9 +3,9 @@ unique-page-id: 14352407
 description: Panoramica del canale di distribuzione - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del canale di distribuzione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Verranno suddivisi i tre canali che puoi sfruttare, come selezionarli, quando sc
 
 >[!NOTE]
 >
->Queste informazioni sono pertinenti solo se si inviano e-mail dall&#39; [applicazione Web](http://toutapp.com/login). Se utilizzate Sales Connect in Gmail o Outlook, i vostri messaggi e-mail verranno recapitati tramite tali server di posta elettronica.
+>Queste informazioni sono pertinenti solo se si inviano e-mail dall&#39; [applicazione Web](https://toutapp.com/login). Se utilizzate Sales Connect in Gmail o Outlook, i vostri messaggi e-mail verranno recapitati tramite tali server di posta elettronica.
 
 ## Server e-mail MSC (predefinito) {#msc-email-servers-default}
 
 Per impostazione predefinita, questo metodo viene selezionato per la distribuzione dei messaggi e-mail. I server e-mail MSC sono una grande opzione per gli utenti che non utilizzano Gmail o Outlook. Inoltre, poiché sono i nostri server, abbiamo la possibilità di ricevere qualsiasi messaggio di errore relativo ai rimbalzi o alle consegne non riuscite e di presentarveli nella sezione &quot;Conversazioni non riuscite&quot; della scheda Conversazioni.
 
-Un altro vantaggio dell&#39;utilizzo dei server MSC è che, quando si utilizza un [ID e-mail](https://help.toutapp.com/hc/en-us/articles/215371427), il destinatario visualizzerà l&#39;indirizzo e-mail dell&#39;identità creata.
+Un altro vantaggio dell&#39;utilizzo dei server MSC è che, quando si utilizza un [ID e-mail](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md), il destinatario visualizzerà l&#39;indirizzo e-mail dell&#39;identità creata.
 
 Quando utilizzate i server MSC, i destinatari potrebbero vedere un tag &quot;via toutapp.com&quot;. Questo è il client di posta elettronica che informa l&#39;utente che l&#39;e-mail è stata inviata utilizzando Sales Connect.
 
@@ -48,4 +48,3 @@ Nell’applicazione Web, l’identità dell’utente verrà visualizzata come l�
 ## Server SMTP personalizzato {#custom-smtp-server}
 
 Pagare per il proprio server? Utilizzare un ambiente Microsoft Exchange? Questa è un&#39;opzione per voi. Verificare [queste istruzioni](http://docs.marketo.com/x/zYTS) al momento della configurazione. Come i server di posta elettronica, dal momento che Sales Connect non gestisce direttamente il server, nell’applicazione Web non vengono registrati eventi e-mail rimbalzati.
-
