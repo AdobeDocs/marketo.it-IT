@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Panoramica del centro comandi - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del centro comandi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ Bonus: Se salvate la ricerca avanzata, funzionerà come un elenco dinamico e agg
 
 >[!MORELIKETHIS]
 >
->* [Attività](http://docs.marketo.com/x/qwDb)
->* [Panoramica della ricerca avanzata](http://docs.marketo.com/x/KQM6Ag)
->* [Composizione di e-mail in blocco con Seleziona e invia](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [Attività](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [Panoramica della ricerca avanzata](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Composizione di e-mail in blocco con Seleziona e invia](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
