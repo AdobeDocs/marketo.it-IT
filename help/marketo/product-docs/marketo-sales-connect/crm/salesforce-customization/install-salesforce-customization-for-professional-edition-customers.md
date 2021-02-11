@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Installazione della personalizzazione Salesforce per i clienti Professional Edition - Documenti Marketo - Documentazione del prodotto
 title: Installazione della personalizzazione Salesforce per i clienti Professional Edition
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Per installare la personalizzazione, i clienti che dispongono di Salesforce Prof
 >
 >* L&#39;amministratore di Sales Connect deve collegare i propri account Salesforce e Sales Connect.
 >* L&#39;istanza di Salesforce utilizzata deve disporre di spazio per installare tredici campi attività personalizzati.
-
->
-
 
 
 ## Installazione {#installation}
@@ -40,7 +37,7 @@ Per installare la personalizzazione, i clienti che dispongono di Salesforce Prof
    >
    >Se siete connessi, vedrete un pulsante verde &quot;Install&quot;. **NON** fare clic su questo pulsante, procedere invece al punto 4.
 
-1. Accedi all&#39;account Salesforce a cui sei connesso e fai clic su [questo collegamento](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Accedi all&#39;account Salesforce a cui sei connesso e fai clic su [questo collegamento](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Verrai inviato alla pagina di installazione di Sales Connect.
 
    ![](assets/install-package.png)
@@ -58,7 +55,8 @@ Per installare la personalizzazione, i clienti che dispongono di Salesforce Prof
    >
    >Engage di vendita è il nome precedente per Sales Connect.
 
-   [Guida all&#39;installazione per Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+## Guide {#guides}
 
-   [Guida all&#39;installazione per Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Guida all&#39;installazione per Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
+[Guida all&#39;installazione per Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
