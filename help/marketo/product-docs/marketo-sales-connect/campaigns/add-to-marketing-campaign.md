@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: Aggiungi a campagna di marketing - Documenti Marketo - Documentazione prodotto
 title: Aggiungi a campagna di marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Rendere una campagna visibile agli utenti di vendita](http://docs.marketo.com/x/NwDh)
+>[Rendere una campagna visibile agli utenti di vendita](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Aggiunta di individui a una campagna {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Per aggiungere una persona a una campagna Marketo da Sales Connect, è necessario che il Marketing Connect della persona disponga dell&#39;ID lead Marketo. [Scopri come acquisire gli ID Marketo qui](http://docs.marketo.com/x/CQXLAQ).
+>Per aggiungere una persona a una campagna Marketo da Sales Connect, è necessario che il Marketing Connect della persona disponga dell&#39;ID lead Marketo. [Scopri come acquisire gli ID Marketo qui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Fare clic sulla scheda **Persone**.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Per aggiungere una persona a una campagna Marketo da Sales Connect, è necessario che il Marketing Connect della persona disponga dell&#39;ID lead Marketo. [Scopri come acquisire gli ID Marketo qui](http://docs.marketo.com/x/CQXLAQ).
+   >Per aggiungere una persona a una campagna Marketo da Sales Connect, è necessario che il Marketing Connect della persona disponga dell&#39;ID lead Marketo. [Scopri come acquisire gli ID Marketo qui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. Fate clic sul menu a discesa Aree di lavoro e scegliete l’area di lavoro che contiene la campagna alla quale desiderate aggiungere il gruppo.
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. Vengono visualizzati i contatti idonei. Fare clic su **Start** per aggiungerli.
 
    ![](assets/nine.png)
-
