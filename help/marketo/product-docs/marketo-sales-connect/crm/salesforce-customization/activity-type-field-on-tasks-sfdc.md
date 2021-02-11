@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: Campo Tipo di attività sulle attività (SFDC) - Documenti Marketo - Documentazione prodotto
 title: Campo Tipo di attività sulle attività (SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Con l&#39;aiuto di Sales Connect potete far registrare e-mail e chiamate come at
 * Connessione con Salesforce
 * Nessun valore Tipo predefinito selezionato nell&#39;elenco di selezione Tipo attività
 * Call, Reply e Email devono essere tutti presenti nella casella di controllo Tipo task (maiuscole)
-* Nessuna azione `Workflows` o `Triggers` sul valore del campo Type
+* Nessun flusso di lavoro o trigger che interviene sul valore del campo Tipo
 
 ## Configurazione {#setup}
 
 Innanzitutto verificate di disporre dei valori corretti per la selezione. Avrai bisogno dell&#39;aiuto dell&#39;amministratore Salesforce per apportare eventuali modifiche all&#39;elenco di selezione.
 
-1. Andate su [Salesforce.com](http://Salesforce.com) e fate clic su Configurazione nell&#39;angolo in alto a destra.
+1. Andate su [Salesforce.com](https://salesforce.com) e fate clic su Configurazione nell&#39;angolo in alto a destra.
 1. Fate clic su Personalizza.
 1. Fate clic su Attività.
 1. Fare clic su Campi attività.
