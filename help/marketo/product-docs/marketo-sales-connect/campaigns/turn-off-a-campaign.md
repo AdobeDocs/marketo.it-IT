@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: Disattivazione di una campagna - Documenti Marketo - Documentazione prodotto
 title: Disattivazione di una campagna
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hai bisogno di terminare automaticamente una campagna quando un destinatario ris
 
 >[!NOTE]
 >
->Questa funzione è disponibile solo per i clienti che sono integrati con [Gmail o Exchange](https://toutapp.com/next#settings/email-tracking) e hanno abilitato il tracciamento delle risposte.
+>Questo è disponibile solo per i clienti che sono integrati con Gmail o Exchange e hanno abilitato il tracciamento delle risposte.
 
 ## Disattivazione di una campagna per una persona {#turn-off-a-campaign-for-one-person}
 
