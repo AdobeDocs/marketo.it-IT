@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Assegnazione di attività ai membri del team - Documenti Marketo - Documentazione prodotto
 title: Assegnazione di attività ai membri del team
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Se desiderate collaborare con altri membri del team, l’assegnazione delle atti
 
 >[!NOTE]
 >
->È possibile assegnare solo le attività per i contatti condivisi. Prima di collaborare con le attività condivise, è necessario [condividere un gruppo di contatti](http://docs.marketo.com/x/fwDb) con i membri del team.
+>È possibile assegnare solo le attività per i contatti condivisi. Prima di collaborare con le attività condivise, è necessario [condividere un gruppo di contatti](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) con i membri del team.
 
 1. Fare clic sul **Centro comandi**.
 
@@ -57,5 +57,4 @@ Se desiderate collaborare con altri membri del team, l’assegnazione delle atti
 
 >[!MORELIKETHIS]
 >
->[Come condividere un gruppo](http://docs.marketo.com/x/fwDb)
-
+>[Come condividere un gruppo](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
