@@ -3,7 +3,7 @@ unique-page-id: 37357302
 description: Colonne e layout pagina e-mail - Documenti Marketo - Documentazione prodotto
 title: Colonne e-mail e layout pagina e-mail
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
@@ -131,4 +131,3 @@ Per configurare il layout, effettuate le seguenti operazioni.
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
 1. Al termine, fate clic all’esterno della configurazione.
-
