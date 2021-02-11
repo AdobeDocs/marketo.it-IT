@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: Informazioni sulle opzioni di invio - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulle opzioni di invio
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ Creare un’attività; Manderò questa email io
 Invia questo messaggio e-mail al messaggio e-mail precedente
 
 * Questa opzione di invio sarà un &quot;follow-up&quot; per l’e-mail precedente e verrà aggiunta la copia del corpo dell’e-mail precedente alla fine dell’e-mail.
-
