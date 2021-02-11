@@ -3,7 +3,7 @@ unique-page-id: 18317367
 description: Visualizza elenco campagne come un altro utente - Documenti Marketo - Documentazione prodotto
 title: Visualizza elenco campagne come altro utente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -34,4 +34,3 @@ In qualità di amministratore, puoi visualizzare le campagne come qualsiasi uten
    >[!NOTE]
    >
    >È inoltre possibile utilizzare i filtri o la funzione di ricerca insieme a Visualizza come per visualizzare il contenuto più rilevante.
-
