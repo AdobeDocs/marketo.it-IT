@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: Invio di allegati di file nell'e-mail - Documenti Marketo - Documentazione del prodotto
 title: Invio di allegati di file nell’e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ In genere, qualsiasi file superiore a 20 MB sarà troppo grande per essere distr
 >
 >Quando si utilizza Tout come canale di consegna delle e-mail, si consiglia di inviare i file per un massimo di 19 MB.
 
-Se è assolutamente necessario inviare un file di grandi dimensioni, provare a comprimerlo prima o caricarlo come [allegato tracciabile](http://docs.marketo.com/x/3oPS) nell&#39; [applicazione Web](http://toutapp.com/login).
+Se è assolutamente necessario inviare un file di grandi dimensioni, provare a comprimerlo prima o caricarlo come [allegato tracciabile](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md) nell&#39; [applicazione Web](https://toutapp.com/login).
