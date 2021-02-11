@@ -3,9 +3,9 @@ unique-page-id: 14745730
 description: Diagnostica Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Diagnostica Salesforce
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 **Categoria:** Altro\
 **Messaggio:** impossibile fare riferimento al lead convertito\
 **Cosa succede:** Stiamo tentando di accedere a un lead convertito durante la registrazione attività più recente per contatti e lead. Ho visto anche un paio di questi per le piazzole.\
-**Procedura per la risoluzione dei problemi:** Segnalare eventuali casi al nostro team [ di ](http://nation.marketo.com/community/support_solutions)assistenza.
+**Procedura per la risoluzione dei problemi:** Segnalare eventuali casi al nostro team [ di ](https://nation.marketo.com/t5/Support/ct-p/Support)assistenza.
 
 <br> 
 
@@ -65,7 +65,7 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 **Errore:** EXPIRED_ACCESS 
 **Category:** Authentication 
 **Message:** Invalid_Grant: token di accesso/aggiornamento scaduto 
-**Cosa accade:** il token di accesso o aggiornamento è scaduto. I token scadono in base alle [impostazioni di sessione in Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Cosa accade:** il token di accesso o aggiornamento è scaduto. I token scadono in base alle [impostazioni di sessione in Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Procedura di risoluzione dei problemi:** dovrai autenticare nuovamente. Disconnetti la connessione Salesforce e ricollega.
 
 <br> 
@@ -129,9 +129,9 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 <br> 
 
 **Errore:** INSUFFICIENT_ACCESS_OR_READONLY\
-**Categoria:** Accesso/Convalida** ** 
-**Messaggio: diritti di accesso** insufficienti sull&#39;ID oggetto** ** 
-**Cosa accade: la registrazione delle attività** più recenti non può modificare il record specifico perché l&#39;utente non ha accesso in scrittura.\
+**Categoria:** Accesso/
+**Messaggio di convalida:diritti di accesso** insufficienti sull&#39;ID oggetto 
+**Cosa accade:Registrazione attività** più recente non può modificare il record specifico perché l&#39;utente non dispone dell&#39;accesso in scrittura.\
 **Procedura di risoluzione dei problemi:** concedere all&#39;utente l&#39;accesso in Salesforce O disabilitare la registrazione delle attività più recenti per quell&#39;oggetto per quell&#39;utente.
 
 **Errore:** INVALID_FIELD\
@@ -142,7 +142,7 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 
 **Errore:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Categoria:** Accesso/Convalida\
-**Messaggio:** Impossibile creare/aggiornare i campi: ToutApp__Tout_Last_Replied__c. Controllare le impostazioni di protezione di questo campo.\
+**Messaggio:** Impossibile creare/aggiornare i campi: ToutApp__Tout_Last_Replied__c. Controllare le impostazioni di protezione di questo campo.
 **Cosa succede:** Gli utenti non dispongono dell&#39;accesso in scrittura ai campi personalizzati Tout necessari per eseguire la transazione di registrazione delle attività più recenti. È possibile che il team abbia installato il pacchetto ma non abbia attivato i campi corretti per gli utenti.\
 **Procedura di risoluzione dei problemi:** Salesforce Admin deve concedere l&#39;accesso ai campi personalizzati OPPURE disattivare la registrazione delle attività più recenti.
 
@@ -154,8 +154,8 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 
 **Errore:** INVALID_TYPE\
 **Categoria:** Accesso/Convalida\
-**Messaggio:** Data creazione, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;email&#39;^ERROR at Row:1:Column:53sTipo di oggetto &#39;Lead&#39; non è supportato. Se si sta tentando di utilizzare un oggetto personalizzato, assicurarsi di aggiungere il simbolo &#39;__c&#39; dopo il nome dell&#39;entità. Fare riferimento al WSDL o alla chiamata di descrizione per i nomi appropriati\
-**Cosa succede:** Stiamo tentando di eseguire una query su un tipo di oggetto da Salesforce a cui l&#39;utente non ha accesso. Ciò è probabilmente correlato al fatto che l&#39;utente non dispone del diritto di accesso all&#39;oggetto lead.\
+**Messaggio:** Data creazione, (SELECT Id FROM Tasks) FROM Lead WHERE Email=&#39;email&#39;^ERROR at Row:1:Column:53sTipo di oggetto &#39;Lead&#39; non è supportato. Se si sta tentando di utilizzare un oggetto personalizzato, assicurarsi di aggiungere il simbolo &#39;__c&#39; dopo il nome dell&#39;entità. Fare riferimento al WSDL o alla chiamata di descrizione per i nomi appropriati
+**Cosa sta succedendo:** Stiamo tentando di eseguire una query su un tipo di oggetto da Salesforce a cui l&#39;utente non ha accesso. Ciò è probabilmente correlato al fatto che l&#39;utente non dispone del diritto di accesso all&#39;oggetto lead.\
 **Procedura di risoluzione dei problemi:** concedere l&#39;accesso in lettura e aggiornamento all&#39;oggetto Lead in Salesforce oppure disattivare la registrazione delle e-mail e la registrazione delle attività più recenti per i record principali.
 
 **Errore:** QUERY_TIMEOUT\
@@ -179,7 +179,7 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 
 **Errore:** REQUIRED_FIELD_MISSING\
 **Categoria:** Accesso/Convalida\
-**Messaggio:Mancano i campi** richiesti:  [Amount_Impegnated_Private_Capital_c]\
+**Messaggio:Mancano i campi** richiesti:  `[Amount_Committed_Private_Capital__c]`
 **Cosa accade:** Questo generalmente accade per la registrazione delle attività più recenti. I campi personalizzati sono stati impostati in modo da essere obbligatori ma contengono valori vuoti. Ciò può accadere se il record è stato creato con un valore vuoto del campo personalizzato e successivamente reso obbligatorio. Il requisito è imposto quando si tenta di aggiornare il record, anche se non si tocca il campo personalizzato.\
 **Procedura di risoluzione dei problemi:** aggiornare manualmente i valori dei campi mancanti. Puoi quindi riprovare il messaggio da ToutApp.
 
@@ -191,8 +191,8 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 
 **Errore:** TXN_SECURITY_NO_ACCESS\
 **Categoria:** Accesso/Convalida\
-**Messaggio:** l&#39;operazione richiesta non è consentita a causa di un criterio di protezione nell&#39;organizzazione. Contattate l’amministratore.\
-**Cosa succede: è stato impostato** un tipo di limite di sicurezza - vedere  `https://developer.salesforce.com/forums/?id="record` ID&quot;\
+**Messaggio:** l&#39;operazione richiesta non è consentita a causa di un criterio di protezione nell&#39;organizzazione. Contattate l’amministratore.<br/>
+**Cosa sta succedendo:** È stato configurato un tipo di limite di protezione - consultate https://developer.salesforce.com/forums/?id=&quot;record ID&quot;\
 **Procedura di risoluzione dei problemi:** parla con l’amministratore Salesforce e scopri quale potrebbe essere la limitazione specifica.
 
 **Errore:** UNABLE_TO_LOCK_ROW\
@@ -201,8 +201,8 @@ Parte della nostra integrazione Salesforce include una pagina Diagnostica Salesf
 **Cosa accade:** Probabilmente esiste un trigger che sta causando più tentativi di accesso allo stesso record, probabilmente nel caso di un&#39;e-mail di gruppo.\
 **Procedura di risoluzione dei problemi: la logica** dei tentativi deve gestire questo problema. Se non funziona, chiedi aiuto all&#39;amministratore di Salesforce per risolvere eventuali problemi di attivazione.
 
-**Errore:** UNKNOWN_EXCEPTION\
-**Categoria:** Altro\
+**Errore:** UNKNOWN_EXCEPTION 
+**Category:** Altro\
 **Messaggio:Eccezione** sconosciuta\
 **Cosa succede: eccezione** non gestita in Salesforce.\
 **Procedura di risoluzione dei problemi:** archiviare un caso in Salesforce e copiare i valori numerici nel messaggio di errore. Codice Salesforce che non gestisce correttamente un errore.
