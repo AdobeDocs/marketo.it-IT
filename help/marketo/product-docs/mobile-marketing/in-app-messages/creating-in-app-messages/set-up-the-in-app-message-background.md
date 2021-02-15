@@ -3,7 +3,7 @@ unique-page-id: 10100649
 description: Impostazione dello sfondo dei messaggi in-app - Documenti Marketo - Documentazione del prodotto
 title: Configurare lo sfondo del messaggio in-app
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -75,7 +75,7 @@ La selezione dello sfondo di un messaggio è un passo importante per completare 
    >    
    >    
    >    * [Informazioni sui messaggi in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Invio di un messaggio in-app](http://docs.marketo.com/pages/viewpage.action?pageid=10617378)
+   >    * [Invio di un messaggio in-app](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
    >    * [Scegliere un layout per il messaggio in-app](choose-a-layout-for-your-in-app-message.md)
 
 
