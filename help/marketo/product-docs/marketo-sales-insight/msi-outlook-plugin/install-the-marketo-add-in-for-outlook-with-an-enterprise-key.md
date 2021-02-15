@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: Installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise - Marketo Docs - Documentazione del prodotto
 title: Installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Molte volte, i rappresentanti delle vendite non dispongono di privilegi amminist
 
 >[!NOTE]
 >
->Se non viene visualizzato il pulsante Visualizza chiave Enterprise, contattate [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) per attivarlo.
+>Se non viene visualizzato il pulsante Visualizza chiave Enterprise, contattate [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) per attivarlo.
 
 1. In My Marketo, fare clic su **Admin** e quindi su **Sales Insight.**
 
