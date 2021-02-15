@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Disattiva tracciamento per un collegamento e-mail - Documenti Marketo - Documentazione prodotto
 title: Disattiva tracciamento per un collegamento e-mail
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -46,7 +46,7 @@ A volte non si desidera abilitare l&#39; **URL tracciamento marketing** su un co
    >[!TIP]
    >
    >Disabilitare il monitoraggio dei clic per un collegamento in un messaggio e-mail **template**? Utilizzate questo formato:
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Se avete bisogno di aiuto per l&#39;implementazione di questo progetto, rivolgetevi al vostro sviluppatore Web.
 
 Bello! Ora hai disattivato il tracciamento per un collegamento.
