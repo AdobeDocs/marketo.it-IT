@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: Utilizzo di Momenti interessanti - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di momenti interessanti
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Momenti interessanti sono la chiave per comunicare con il team di vendita tramit
 
 >[!AVAILABILITY]
 >
->Sono disponibili solo per i clienti di Marketing Sales Insight e [Marketing Sales Connect](http://docs.marketo.com/x/fgTLAQ).
+>Sono disponibili solo per i clienti di Marketing Sales Insight e [Marketing Sales Connect](https://docs.marketo.com/x/fgTLAQ).
 
 ## Qual è un momento interessante?  {#what-is-an-interesting-moment}
 
