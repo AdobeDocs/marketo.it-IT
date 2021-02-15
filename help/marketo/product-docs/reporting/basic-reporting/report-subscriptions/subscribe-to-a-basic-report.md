@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: Iscriviti a un report di base - Documenti Marketo - Documentazione del prodotto
 title: Iscriviti a un report di base
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Iscriviti a un report di base {#subscribe-to-a-basic-report}
 
-Per ricevere gli aggiornamenti automatici di un [report di base](http://docs.marketo.com/display/docs/basic+reporting), o per condividerli, puoi abbonare qualsiasi indirizzo e-mail a un report esistente.
+Per ricevere gli aggiornamenti automatici di un [report di base](https://docs.marketo.com/display/docs/basic+reporting), o per condividerli, puoi abbonare qualsiasi indirizzo e-mail a un report esistente.
 
 >[!NOTE]
 >
->Per le sottoscrizioni di report [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics), vedere [Subscribe to a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md) (Sottoscrivi a un report di Esplora ricavi).
+>Per le sottoscrizioni di report [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics), vedere [Subscribe to a Revenue Explorer Report](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md) (Sottoscrivi a un report di Esplora ricavi).
 
 1. Vai all&#39;area **Marketing Activities **o.
 
@@ -58,5 +58,5 @@ Per ricevere gli aggiornamenti automatici di un [report di base](http://docs.mar
    >**Tubo profondo**
    >
    >
-   >Scopri cos&#39;altro puoi fare con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Scopri cos&#39;altro puoi fare con i report nel profondo [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
