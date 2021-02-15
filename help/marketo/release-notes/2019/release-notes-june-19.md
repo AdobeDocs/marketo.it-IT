@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: Note sulla versione - Giugno '19 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Giugno '19
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 
 >[!CAUTION]
 >
->Dal 18 giugno 2019, Email 1.0 non è più disponibile. Per saperne di più su Email 2.0 e sull&#39;eliminazione di Email 1.0 [qui](http://nation.marketo.com/docs/DOC-7038).
+>Dal 18 giugno 2019, Email 1.0 non è più disponibile. Per saperne di più su Email 2.0 e sull&#39;eliminazione di Email 1.0 [qui](https://nation.marketo.com/docs/DOC-7038).
 
 ## Marketing basato su account {#account-based-marketing}
 
@@ -66,7 +66,7 @@ Connect per le vendite di Marketo
 ## Bizible by Marketo {#bizible-by-marketo}
 
 * **Supporto per più divise per Dynamics**: Bizible ora si adatta alle tabelle di valuta di Microsoft Dynamics, in modo da poter passare facilmente tra le valute aziendali e locali. (Nota: Nel primo trimestre del 2019 la DSC è stata aiutata.)
-* **Integrazione** Drift: Scopri in che modo le conversazioni &quot;Drift&quot; influiscono sul percorso del cliente. Bizible recupererà inoltre gli indirizzi e-mail dalle conversazioni per creare un nuovo lead o collegare il punto di contatto a un lead esistente.
+* **Integrazione** Drift: Comprendi in che modo le conversazioni &quot;Drift&quot; influiscono sul percorso del cliente. Bizible recupererà inoltre gli indirizzi e-mail dalle conversazioni per creare un nuovo lead o collegare il punto di contatto a un lead esistente.
 * **Localizzazione**: La Bibbia è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
 
 ***Webinar*** sul rilascio del prodottoGuardate la registrazione del webinar sulle innovazioni del rilascio del 19 giugno  [qui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
