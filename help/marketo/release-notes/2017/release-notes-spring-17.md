@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Note sulla versione - Primavera '17 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Primavera '17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -45,11 +45,11 @@ Trasferisci facilmente grandi quantità di dati relativi a persone e attività d
 
 Marketo ABM ora consente di creare fino a 10 campi personalizzati sugli account denominati. Puoi mappare questi campi personalizzati sui campi dell&#39;oggetto Account CRM e Marketo ABM sincronizzerà i dati, consentendo di estendere i tuoi account ABM denominati e aiuterà a promuovere il marketing.
 
-** [Punteggio percentuale su conti con nome ABM](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Punteggio percentuale su conti con nome ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 I punteggi dell&#39;account denominato possono variare notevolmente. Marketo ABM ora calcola automaticamente un percentile per ciascuno dei punteggi, in modo da poter vedere immediatamente dove ogni Account con nome è classificato tra gli altri Account con nome.
 
-** [API elenco account ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [API elenco account ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Sfruttate le integrazioni avanzate e solide dei partner ABM con il supporto API migliorato per gli elenchi di account denominati.
 
