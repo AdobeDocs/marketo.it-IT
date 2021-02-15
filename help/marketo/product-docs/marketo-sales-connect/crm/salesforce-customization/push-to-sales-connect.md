@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: Push to Sales Connect - Marketo Docs - Documentazione prodotto
 title: Push to Sales Connect
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Il nostro pulsante Premi a Tout fornirà un elenco dei lead/contatti in Salesfor
 
    >[!NOTE]
    >
-   >In Sales Connect verrà aggiunto il gruppo denominato &quot;SFDC-...&quot; nella pagina Relazioni dell&#39; [applicazione Web](http://toutapp.com/login).
+   >In Sales Connect verrà aggiunto il gruppo denominato &quot;SFDC-...&quot; nella pagina Relazioni dell&#39; [applicazione Web](https://toutapp.com/login).
 
 1. Selezionare **Email Entire Group** per inviare l&#39;e-mail del gruppo.
