@@ -3,7 +3,7 @@ unique-page-id: 2359971
 description: Report attività pagina Web - Documenti Marketo - Documentazione prodotto
 title: Report attività pagina Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Potete scegliere di visualizzare persone conosciute o anonime, ma non entrambi i
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni su altri report interessanti in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>Ulteriori informazioni su altri report interessanti in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
