@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: Note sulla versione - Agosto 2013 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Agosto 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Agosto 2013 {#release-notes-august}
 
-Le seguenti funzionalità sono incluse nella release di agosto 2013. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php).
+Le seguenti funzionalità sono incluse nella release di agosto 2013. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php).
 
 Dopo il rilascio, accertatevi di controllare la scheda [Nuova versione](release-notes-december-2013.md) nella Community per gli articoli dettagliati della Knowledge Base per ogni nuova funzione!
 
