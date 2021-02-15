@@ -3,7 +3,7 @@ unique-page-id: 2359488
 description: Rapporti e-mail di gruppo per segmenti - Documenti Marketo - Documentazione prodotto
 title: Raggruppa rapporti e-mail per segmenti
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapporti e-mail per gruppo per segmenti {#group-email-reports-by-segmentations}
 
-Le segmentazioni non sono solo per contenuti dinamici. È possibile raggruppare il report [prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) anche per [segmentazioni](http://docs.marketo.com/display/docs/segmentation+and+snippets).
+Le segmentazioni non sono solo per contenuti dinamici. È possibile raggruppare il report [prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) anche per [segmentazioni](https://docs.marketo.com/display/docs/segmentation+and+snippets).
 
 >[!PREREQUISITES]
 >
