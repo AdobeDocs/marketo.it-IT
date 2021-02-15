@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: Panoramica del canale di distribuzione - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del canale di distribuzione
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ Nell’applicazione Web, l’identità dell’utente verrà visualizzata come l�
 
 ## Server SMTP personalizzato {#custom-smtp-server}
 
-Pagare per il proprio server? Utilizzare un ambiente Microsoft Exchange? Questa è un&#39;opzione per voi. Verificare [queste istruzioni](http://docs.marketo.com/x/zYTS) al momento della configurazione. Come i server di posta elettronica, dal momento che Sales Connect non gestisce direttamente il server, nell’applicazione Web non vengono registrati eventi e-mail rimbalzati.
+Pagare per il proprio server? Utilizzare un ambiente Microsoft Exchange? Questa è un&#39;opzione per voi. Verificare [queste istruzioni](https://docs.marketo.com/x/zYTS) al momento della configurazione. Come i server di posta elettronica, dal momento che Sales Connect non gestisce direttamente il server, nell’applicazione Web non vengono registrati eventi e-mail rimbalzati.
