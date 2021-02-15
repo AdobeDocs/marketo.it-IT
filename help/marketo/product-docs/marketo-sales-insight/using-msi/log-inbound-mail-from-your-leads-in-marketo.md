@@ -3,7 +3,7 @@ unique-page-id: 2949285
 description: Registrare la posta in entrata dai lead a Marketo - Marketo Docs - Documentazione prodotto
 title: Registra posta in entrata dai lead di Marketo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -43,10 +43,6 @@ Registra le risposte del lead per aggiungerle alla cronologia di Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail Marketo per Outlook](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Invio e tracciamento da Outlook con un modello Marketo](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Invio e tracciamento da Outlook con un modello Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
