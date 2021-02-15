@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: Note sulla versione - Marzo 2014 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - marzo 2014
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Selezionare la [lingua dell&#39;applicazione Marketo](/help/marketo/product-docs
 
 ## Blog per sviluppatori di Marketo {#marketo-developer-blog}
 
-Il blog [Marketo Developer](http://developers.marketo.com/blog/) è dedicato agli sviluppatori di siti Web e ai tecnici del software che supportano le esigenze in rapida evoluzione degli esperti di marketing moderni. Potete abbonarvi agli annunci relativi a nuove opzioni di integrazione, agli aggiornamenti delle versioni API e a una nuova serie di articoli contenenti esempi di codice e procedure ottimali per l&#39;integrazione con la piattaforma Marketo.
+Il blog [Marketo Developer](https://developers.marketo.com/blog/) è dedicato agli sviluppatori di siti Web e ai tecnici del software che supportano le esigenze in rapida evoluzione degli esperti di marketing moderni. Potete abbonarvi agli annunci relativi a nuove opzioni di integrazione, agli aggiornamenti delle versioni API e a una nuova serie di articoli contenenti esempi di codice e procedure ottimali per l&#39;integrazione con la piattaforma Marketo.
 
-Il [primo articolo](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) di questa serie illustra come recuperare in modo efficiente le informazioni sulle persone (clienti/contatti/lead) memorizzate in Marketo tramite l&#39;API.
+Il [primo articolo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) di questa serie illustra come recuperare in modo efficiente le informazioni sulle persone (clienti/contatti/lead) memorizzate in Marketo tramite l&#39;API.
