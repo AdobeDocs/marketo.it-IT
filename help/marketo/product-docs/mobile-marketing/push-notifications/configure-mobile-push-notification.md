@@ -3,7 +3,7 @@ unique-page-id: 7512454
 description: Configurare le notifiche push per dispositivi mobili - Documenti Marketo - Documentazione prodotto
 title: Configura notifica push mobile
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Immetti il testo del messaggio o seleziona l&#39;icona del token per aggiungere i token. Quindi, selezionare un **Toccate Action**.
+1. Inserite il testo del messaggio o selezionate l&#39;icona del token per aggiungere i token. Quindi, selezionare un **Toccate Action**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -99,7 +99,7 @@ Un URI di collegamento profondo è composto da tre parti: nome, percorso e ident
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Detto questo, la struttura di collegamento profondo dell&#39;app potrebbe essere diversa dall&#39;esempio precedente. Lo sviluppatore dispone di numerose opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push verranno indirizzati nei punti giusti. Lo sviluppatore può [trovare ulteriori informazioni qui](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
+Detto questo, la struttura di collegamento profondo dell&#39;app potrebbe essere diversa dall&#39;esempio precedente. Lo sviluppatore dispone di numerose opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push verranno indirizzati nei punti giusti. Lo sviluppatore può [trovare ulteriori informazioni qui](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
 >[!MORELIKETHIS]
 >
