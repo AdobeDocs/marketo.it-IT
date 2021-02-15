@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Informazioni sulle impostazioni sulla privacy - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle impostazioni di privacy
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Gli addetti al marketing possono preservare la privacy monitorando gli utenti co
 
    >[!NOTE]
    >
-   >L&#39;utilizzo di questo parametro richiede che Munchkin V2 sia abilitato. Per attivarla per l&#39;iscrizione, contattate il [Supporto marketing](http://nation.marketo.com/community/support_solutions).
+   >L&#39;utilizzo di questo parametro richiede che Munchkin V2 sia abilitato. Per attivarla per l&#39;iscrizione, contattate il [Supporto marketing](https://nation.marketo.com/community/support_solutions).
 
 * Per la personalizzazione Web (RTP), aggiungete questo al javascript:
 
