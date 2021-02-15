@@ -3,7 +3,7 @@ unique-page-id: 14352541
 description: Sincronizzazione delle attività di vendita Connect con Salesforce per la prima volta - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione delle attività di vendita Connect con Salesforce per la prima volta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Ecco cosa accade quando si sincronizzano le attività di Sales Connect e SFDC:
 
 - Non appena si fa clic su Salva per sincronizzare le attività, queste iniziano a sincronizzarsi. Inizialmente, questa operazione richiederà un po&#39; di tempo.
 
-- Eventuali promemoria che sono stati aggiornati o creati in `last 24 hours` verranno inseriti da SFDC a Sales Connect. La sincronizzazione è basata su `due date` e tutte queste attività verranno sincronizzate sul back-end, ma nel centro comandi verranno visualizzate solo le attività previste oggi e domani.
+- Eventuali promemoria che sono stati aggiornati o creati nelle ultime 24 ore verranno inseriti da SFDC a Sales Connect. La sincronizzazione è basata sulla data di scadenza e tutte queste attività verranno sincronizzate sul back-end, ma nel centro comandi verranno visualizzate solo le attività scadute oggi e domani.
 
 - Se la sincronizzazione è stata attivata in precedenza ed è stata eliminata qualsiasi attività in SFDC, tutto ciò che è stato eliminato negli ultimi 15 giorni verrà eliminato dal Centro comandi.
 
@@ -27,5 +27,4 @@ Ecco cosa accade quando si sincronizzano le attività di Sales Connect e SFDC:
 
 Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Sales Connect verranno sincronizzate nell&#39;elenco delle attività in Salesforce. Inoltre, qualsiasi cosa creata, modificata, completata o eliminata in Salesforce aggiornerà l&#39;elenco delle attività in Sales Connect.
 
-Per attivare questa sincronizzazione, è sufficiente selezionare la casella di sincronizzazione nella [pagina Settings](http://toutapp.com/next#settings/crm/salesforce/configure) nell&#39;applicazione Web.
-
+Per attivare questa sincronizzazione, è sufficiente selezionare la casella di sincronizzazione nella [pagina Settings](https://toutapp.com/login) nell&#39;applicazione Web.
