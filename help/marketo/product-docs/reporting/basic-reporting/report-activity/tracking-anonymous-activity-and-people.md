@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: Tracciamento delle attività e delle persone anonime - Marketo Docs - Documentazione prodotto
 title: Tracciamento delle attività e delle persone anonime
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ La prima volta che un utente visita una pagina di destinazione Marketo [o una pa
    Un&#39;attività anonima viene unita in una persona nuova o esistente quando un utente:
 
    * Fate clic su un collegamento [in un&#39;e-mail di Marketo](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Riempie il campo Marketo [form](http://docs.marketo.com/display/docs/forms).
-   * Utilizza l&#39;API [REST API](http://developers.marketo.com/rest-api/lead-database/leads/) o [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) di Marketo (per gli sviluppatori) per associare un&#39;attività anonima a un record noto.
+   * Riempie il campo Marketo [form](https://docs.marketo.com/display/docs/forms).
+   * Utilizza l&#39;API [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) o [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) di Marketo (per gli sviluppatori) per associare un&#39;attività anonima a un record noto.
 
    Un nome nel database potrebbe essere associato a molti cookie perché le persone spesso utilizzano dispositivi e browser diversi per visitare il sito.
 
@@ -50,5 +50,5 @@ La prima volta che un utente visita una pagina di destinazione Marketo [o una pa
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni su [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Ulteriori informazioni su [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
