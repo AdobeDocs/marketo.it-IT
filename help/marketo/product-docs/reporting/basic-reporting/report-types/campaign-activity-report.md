@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: Rapporto Attività campagna - Documenti Marketo - Documentazione prodotto
 title: Report attività campagna
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapporto attività campagna {#campaign-activity-report}
 
-Scopri le prestazioni delle [campagne intelligenti](http://docs.marketo.com/display/docs/smart+campaigns).
+Scopri le prestazioni delle [campagne intelligenti](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. [Create un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo di rapporto  **Attività** [campagna](report-type-overview.md).
 1. [Impostate l&#39;intervallo di tempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda  **** Rapporto.
@@ -54,5 +54,5 @@ Scopri le prestazioni delle [campagne intelligenti](http://docs.marketo.com/disp
    >    * [Filtrare un rapporto attività campagna](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Vedi altri report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   Vedi altri report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
