@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Informazioni sul contenuto predittivo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sul contenuto predittivo
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ L&#39;analisi del contenuto abilitata per il filtraggio consente di vedere le pr
 
 ## Visualizza dati tabella per contenuto predittivo {#view-table-data-for-predictive-content}
 
-Nella tabella, potete visualizzare le origini abilitate per il contenuto predittivo, da sinistra a destra: Barra delle raccomandazioni, e-mail e contenuti multimediali avanzati. Le origini abilitate sono visualizzate in verde. Potete attivarli quando [modificate il contenuto](http://docs.marketo.com/display/docs/edit+predictive+content).
+Nella tabella, potete visualizzare le origini abilitate per il contenuto predittivo, da sinistra a destra: Barra delle raccomandazioni, e-mail e contenuti multimediali avanzati. Le origini abilitate sono visualizzate in verde. Potete attivarli quando [modificate il contenuto](https://docs.marketo.com/display/docs/edit+predictive+content).
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ Passa il cursore del mouse sulla barra nella colonna Tasso di conversione per vi
 
 >[!MORELIKETHIS]
 >
->* [Predictive Content](http://docs.marketo.com/display/docs/predictive+content)
->* [Modifica contenuto predittivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Predictive Content](https://docs.marketo.com/display/docs/predictive+content)
+>* [Modifica contenuto predittivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 
