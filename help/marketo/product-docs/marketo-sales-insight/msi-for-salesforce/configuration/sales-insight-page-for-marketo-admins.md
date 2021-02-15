@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Pagina Informazioni sulle vendite per gli amministratori di Marketo - Marketo Docs - Documentazione sui prodotti
 title: Pagina Informazioni sulle vendite per gli amministratori di marketing
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Queste credenziali vengono utilizzate per collegare il tuo account Salesforce al
 
 ## Impostazioni punteggio persona {#person-score-settings}
 
-| **Stelle:** | Le stelle rappresentano il punteggio totale del lead rispetto ad altri lead. |
-|---|---|
-| **Fiamma:** | Le fiamme rappresentano l&#39;urgenza - quanto è cambiato recentemente il punteggio di un lead. |
+* **Stelle**: Le stelle rappresentano il punteggio totale del lead rispetto ad altri lead.
+* **Fiamma**: Le fiamme rappresentano l&#39;urgenza - quanto è cambiato recentemente il punteggio di un lead.
 
 Per impostazione predefinita, Marketing Sales Insight utilizza il campo Lead Score per calcolare stelle e fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
@@ -61,19 +60,17 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo Lead Sco
 
    >[!TIP]
    >
-   >Se non hai già i tuoi campi di valutazione personalizzati, ecco come [crearli](http://docs.marketo.com/x/3wMk).
+   >Se non hai già i tuoi campi di valutazione personalizzati, ecco come [crearli](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Stelle e fiamme](http://docs.marketo.com/x/qgU6Ag)
+   >[Stelle e fiamme](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Impostazioni {#settings}
 
 ![](assets/nine.png)
 
-**Impostazioni di annullamento sottoscrizione: **
+**Impostazioni di annullamento sottoscrizione:**
 
 Potete scegliere tra le seguenti impostazioni di annullamento della sottoscrizione per Nessun modello, E-mail standard e E-mail operative
 
@@ -82,10 +79,10 @@ Potete scegliere tra le seguenti impostazioni di annullamento della sottoscrizio
 * Rispetta le impostazioni di annullamento della sottoscrizione quando più di 5 destinatari
 * Ignora impostazioni annullamento sottoscrizione
 
-**Abilita la possibilità di bloccare i modelli: **
+**Abilitare il blocco dei modelli:**
 
 Quando attivato, gli utenti MSI non saranno in grado di modificare i modelli durante l&#39;invio di e-mail da Salesforce
 
 **Abilita feed RSS:**
 
-Quando attivato, gli utenti MSI possono visualizzare il proprio Feed lead in un feed RSS (oltre al Feed lead in Salesforce)**.**
+Quando è attivata, gli utenti MSI possono visualizzare il proprio Feed lead in un feed RSS (oltre al Feed lead in Salesforce).
