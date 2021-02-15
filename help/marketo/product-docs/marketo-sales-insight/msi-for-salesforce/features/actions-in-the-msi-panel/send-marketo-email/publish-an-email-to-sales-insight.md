@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Pubblicare un'e-mail a Sales Insight - Documenti Marketo - Documentazione prodotto
 title: Pubblicare un messaggio e-mail a Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ Bel lavoro! Ora sai come rendere disponibili le e-mail per il tuo team di vendit
 
 >[!NOTE]
 >
->[I miei ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) token non verranno risolti quando invii un&#39;e-mail da Sales Insight in Microsoft Dynamics o Salesforce; verranno compilati solo i token standard (Lead, Società, ecc.). Tuttavia, i valori predefiniti per i token funzioneranno.
+>[I miei ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) token non verranno risolti quando invii un&#39;e-mail da Sales Insight in Microsoft Dynamics o Salesforce; verranno compilati solo i token standard (Lead, Società, ecc.). Tuttavia, i valori predefiniti per i token funzioneranno.
 
 >[!TIP]
 >
->Non dimenticare di approvare questo messaggio e-mail per rendere effettive le modifiche. Scopri come [Approvare un&#39;e-mail](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
-
+>Non dimenticare di approvare questo messaggio e-mail per rendere effettive le modifiche. Scopri come [Approvare un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
