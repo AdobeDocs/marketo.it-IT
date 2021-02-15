@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Integrazione con  Adobe Analytics - Marketo Docs - Documentazione prodotto
 title: Integrazione con  Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Per impostare queste variabili in AA, effettua i seguenti passaggi:
 
 1. Accedi a **Strumenti di amministrazione** nel tuo account AA.
 1. Selezionare la **Suite di rapporti** da utilizzare con l&#39;integrazione.
-1. In **Modifica impostazioni,** passare a **Conversione** e selezionare ** [Variabili di conversione](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*.\
-   Selezionare il numero [Variabile di conversione](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (consigliato):
+1. In **Modifica impostazioni,** passare a **Conversione** e selezionare ** [Variabili di conversione](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*.\
+   Selezionare il numero [Variabile di conversione](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (consigliato):
 
    1. 
 
@@ -82,7 +82,7 @@ Per impostare queste variabili in AA, effettua i seguenti passaggi:
 
          1. Cambia il campo Scadenza dopo in **Visita.**
 
-1. In **Edit Settings **passare a** Conversion **e selezionare ** [Success Events](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. In **Edit Settings **passare a** Conversion **e selezionare ** [Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Selezionate il numero evento di successo personalizzato (consigliato):
 
@@ -97,7 +97,7 @@ Per impostare queste variabili in AA, effettua i seguenti passaggi:
 
 1. Selezionare il campo Tipo* *da **Contatore (nessuna sottorelazione)**
 
-1. In **Edit Settings** (Modifica impostazioni), andate a ** [Traffic](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **e selezionate ** [Traffic Variables](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. In **Edit Settings** (Modifica impostazioni), andate a ** [Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **e selezionate ** [Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selezionate la proprietà Variabile traffico # (consigliato):
 
@@ -183,13 +183,13 @@ Esempi di rapporti e dashboard personalizzati in AA includono:
 
 **Creazione del dashboard RTP**
 
-Create un [nuovo dashboard](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) denominato **dashboard RTP**. Questa dashboard aiuterà a comprendere la suddivisione dei visitatori in base ai segmenti verticali e RTP.
+Create un [nuovo dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) denominato **dashboard RTP**. Questa dashboard aiuterà a comprendere la suddivisione dei visitatori in base ai segmenti verticali e RTP.
 
 1. Fare clic su **Dashboard,** fare clic** Aggiungi dashboard*
 
 1. Denominate il dashboard **Dashboard RTP**
 1. Selezionare la **dimensione del dashboard** 3 x 2, 2 x 2
-1. Creare il [minirapporto](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) e aggiungere [contenuto al dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Creare il [minirapporto](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) e aggiungere [contenuto al dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 Aggiunta del rapporto Industrie al dashboard
 
