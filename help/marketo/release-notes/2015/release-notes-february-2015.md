@@ -3,7 +3,7 @@ unique-page-id: 6094890
 description: Note sulla versione - Febbraio 2015 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - febbraio 2015
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Le seguenti funzionalità sono incluse nella release di febbraio 2015. Per infor
 
 Felice! Ora puoi spostare le campagne intelligenti all&#39;interno e all&#39;esterno dei programmi tramite trascinamento o la funzione Sposta nella struttura.
 
-** [Dynamics 2015 (online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- supportato!
+** [Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- supportato!
 
 **Modifiche al certificato HTTPS**
 
@@ -29,11 +29,11 @@ Per proteggere la riservatezza e l&#39;integrità dei dati dei clienti e dei ser
 
 e sostituirà i protocolli di sicurezza attualmente utilizzati (SHA-1 e SSL) con versioni più sicure (SHA-2 (alias SHA-256) e TLS) per i seguenti domini:
 
-`·` [marketo.net](http://marketo.net) (traffico Munchkin crittografato)
+`·` [marketo.net](https://marketo.net) (traffico Munchkin crittografato)
 
-`·` [marketo.com](http://marketo.com) (principali applicazioni SaaS)
+`·` [marketo.com](https://marketo.com) (principali applicazioni SaaS)
 
-Ciò si verificherà poco dopo questa versione. Il protocollo SHA-1 sarà temporaneamente supportato su [mktoapi.com](http://mktoapi.com) dominio fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i propri sistemi con la compatibilità SHA-2.
+Ciò si verificherà poco dopo questa versione. Il protocollo SHA-1 sarà temporaneamente supportato su [mktoapi.com](https://mktoapi.com) dominio fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i propri sistemi con la compatibilità SHA-2.
 
 **Munchkin sicuro**
 
