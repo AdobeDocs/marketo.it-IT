@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: Panoramica sulle prestazioni - Documenti Marketo - Documentazione del prodotto
 title: Panoramica sulle prestazioni
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Per accedere a Performance Insights, fai clic sulla relativa icona nella scherma
 
 ## Contributo {#contribution}
 
-Valuta il [contributo di Marketing alle entrate](http://docs.marketo.com/x/QAvG)in funzione dell&#39;acquisizione, dell&#39;influenza, della conversione, anche della crescita di base installata.
+Valuta il [contributo di Marketing alle entrate](https://docs.marketo.com/x/QAvG)in funzione dell&#39;acquisizione, dell&#39;influenza, della conversione, anche della crescita di base installata.
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ Per impostazione predefinita, i dati visualizzati riflettono le prestazioni in b
 
 ## Tendenza {#trend}
 
-Scopri le [tendenze a lungo termine](http://docs.marketo.com/x/QgvG) per individuare strategie di vincita coerenti.
+Scopri le [tendenze a lungo termine](https://docs.marketo.com/x/QgvG) per individuare strategie di vincita coerenti.
 
 ![](assets/4.png)
 
 ## Impostazioni {#settings}
 
-Nelle dashboard Entrate e tubazione, fate clic sull&#39;icona [Impostazioni](http://docs.marketo.com/x/pIDS) per impostare altri parametri.
+Nelle dashboard Entrate e tubazione, fate clic sull&#39;icona [Impostazioni](https://docs.marketo.com/x/pIDS) per impostare altri parametri.
 
 ![](assets/5.png)
 
