@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-campaign
 description: Aggiunta di un passaggio di flusso a una campagna intelligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -26,7 +26,7 @@ I passaggi di flusso indicano a Marketo cosa si desidera che accada a un gruppo 
 
 **Tubo profondo**
 
-Ulteriori informazioni sui diversi [passaggi di flusso](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Ulteriori informazioni sui diversi [passaggi di flusso](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Fate clic sul menu a discesa e scegliete un’opzione appropriata.
 
