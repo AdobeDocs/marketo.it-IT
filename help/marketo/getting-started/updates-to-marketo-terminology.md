@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Aggiornamenti alla terminologia di Marketo - Marketo Docs - Documentazione del prodotto
 title: Aggiornamenti alla terminologia di Marketo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
 
 Oltre alla modifica del nome, ora è composta da quattro app separate:
 
-| ** [Personalizzazione Web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)* | Dispone di una propria sezione nella schermata principale |
+| ** [Personalizzazione Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)* | Dispone di una propria sezione nella schermata principale |
 |---|---|
-| ** [Marketing Web basato su account](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessibile tramite il riquadro Personalizzazione Web |
-| ** [Retargeting personalizzato](http://docs.marketo.com/display/DOCS/Website+Retargeting)* | Accessibile tramite il riquadro Personalizzazione Web |
-| ** [Predictive Content](http://docs.marketo.com/display/DOCS/Predictive+Content)* | Dispone di una propria sezione nella schermata principale |
+| ** [Marketing Web basato su account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessibile tramite il riquadro Personalizzazione Web |
+| ** [Retargeting personalizzato](https://docs.marketo.com/display/DOCS/Website+Retargeting)* | Accessibile tramite il riquadro Personalizzazione Web |
+| ** [Predictive Content](https://docs.marketo.com/display/DOCS/Predictive+Content)* | Dispone di una propria sezione nella schermata principale |
 
 >[!NOTE]
 >
