@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Note sulla versione - Autunno '16 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Autunno 2016
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella versione autunnale del 16. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo. Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione.
 
-## [Predictive Content in Email](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [Predictive Content in Email](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 La nostra applicazione Predictive Content offre una nuova esperienza utente per monitorare, gestire e consigliare i contenuti attraverso i nostri algoritmi di machine learning e predittivi nei canali Web ed e-mail.
 
@@ -45,7 +45,7 @@ Un ID universale consente di accedere a più iscrizioni Marketo con un singolo l
 >
 >Per abilitare questa funzione, contattate il supporto di Marketo.
 
-## [Miglioramenti Del Marketing Basato Su Account Marketo](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [Miglioramenti Del Marketing Basato Su Account Marketo](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 Ora potete assegnare i team account a account denominati in ABM (Account Based Marketing), ad esempio il proprietario dell&#39;account, il rappresentante per lo sviluppo delle vendite, il rappresentante per lo sviluppo aziendale e il responsabile del successo del cliente. Potete inoltre creare elenchi di account specifici del proprietario dell&#39;account e inviare rapporti ABM settimanali personalizzati al team dell&#39;account.
 
@@ -53,7 +53,7 @@ Ora potete assegnare i team account a account denominati in ABM (Account Based M
 
 **REST API**
 
-Questa release consente inoltre di gestire gli attributi di account e i punteggi di account denominati in ABM tramite l&#39;API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visitare il [sito Web dedicato agli sviluppatori di Marketo](http://developers.marketo.com/rest-api/lead-database/named-accounts).
+Questa release consente inoltre di gestire gli attributi di account e i punteggi di account denominati in ABM tramite l&#39;API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visitare il [sito Web dedicato agli sviluppatori di Marketo](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Miglioramenti della traccia di controllo](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Sono finiti i giorni in cui era necessario preoccuparsi che gli utenti inviasser
 
 **Modifica limitazioni campagna**
 
-Perché impostare [le limitazioni della campagna](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) se non è possibile applicarle? Quando impostate Impostazioni limite campagna per limitare il numero di persone nel database per le quali è possibile eseguire il targeting con una singola campagna, ora potete limitare gli utenti che possono ignorare queste impostazioni durante la pianificazione di una campagna.
+Perché impostare [le limitazioni della campagna](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) se non è possibile applicarle? Quando impostate Impostazioni limite campagna per limitare il numero di persone nel database per le quali è possibile eseguire il targeting con una singola campagna, ora potete limitare gli utenti che possono ignorare queste impostazioni durante la pianificazione di una campagna.
 
 ## [Audio per notifiche push mobili](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -88,11 +88,11 @@ Attribuite alla notifica push iOS maggiore ricchezza abilitando l&#39;audio. Que
 
 Market Sales Insight è ora compatibile con la crittografia Salesforce Shield. Tutti i clienti di Sales Insight devono eseguire l&#39;aggiornamento a questo pacchetto gestito più recente (versione 1.4359.2), che è [disponibile in Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API Account denominati](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [API Account denominati](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 Con questa release, gli utenti di Marketo ABM possono gestire gli account denominati tramite l&#39;API Account denominati. Gli utenti possono creare, aggiornare ed eliminare account denominati, nonché leggere e aggiornare i punteggi dei conti denominati in ABM.
 
-## [Supporto API Editor e-mail v2.0](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Supporto API Editor e-mail v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Gestire variabili e moduli per le e-mail in formato v2.0 utilizzando l&#39;API REST di Marketo.
 
