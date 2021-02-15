@@ -3,7 +3,7 @@ unique-page-id: 2360055
 description: E-mail report, Prestazioni Della Campagna Tra Aree Di Lavoro - Documenti Marketo - Documentazione Del Prodotto
 title: E-mail report, Prestazioni Della Campagna Nelle Aree Di Lavoro
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -48,5 +48,5 @@ Attivate Global Reporting per includere i dati provenienti da tutte le aree di l
    >**Tubo profondo**
    >
    >
-   >Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Scopri tutte le informazioni sui report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) .
 
