@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: Distribuzione di JavaScript RTP - Documenti Marketo - Documentazione prodotto
 title: Implementare il codice JavaScript RTP
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -45,5 +45,5 @@ Per generare e impostare il tag RTP, seguire le istruzioni di installazione ripo
 
 >[!MORELIKETHIS]
 >
->* [Implementazione tag RTP](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [Implementazione tag RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
