@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Aggiornamento del componente aggiuntivo e-mail Marketo per Outlook - Documenti Marketo - Documentazione prodotto
 title: Aggiorna il componente aggiuntivo e-mail di Marketo per Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -49,52 +49,52 @@ Scaricate il programma di installazione appropriato per la versione in uso di Mi
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
    <td>N/D</td> 
    <td>Non supportato</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
    <td>N/D</td> 
    <td>Non supportato</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
   </tr> 
   <tr> 
    <td>Outlook 2013</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
   </tr> 
   <tr> 
    <td>Outlook 2016</td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
   </tr> 
   <tr> 
    <td colspan="1">Outlook 2019</td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
   </tr> 
   <tr> 
    <td colspan="1">Outlook O365 (solo Windows)</td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
-   <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Download</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Download</a></td> 
   </tr> 
   <tr> 
    <td>Outlook per Mac</td> 
