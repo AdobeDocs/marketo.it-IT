@@ -3,7 +3,7 @@ unique-page-id: 2951119
 description: Note sulla versione -Aprile 2012 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione -Aprile 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Tubo profondo**
 >
->Per altre versioni, vedere le [Note sulla versione](http://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
+>Per altre versioni, vedere le [Note sulla versione](https://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
 Esegue il targeting dello stesso gruppo di lead in modo coerente? In tal caso, utilizzate la segmentazione negli elenchi smart per eseguire il targeting dei lead. Con la segmentazione, l’intero database dei lead è sempre segmentato e può essere riutilizzato nei programmi per garantire la coerenza. I risultati della segmentazione vengono estratti rapidamente perché non richiedono l&#39;esecuzione dell&#39;elenco avanzato al momento della richiesta.
 
