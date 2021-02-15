@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: Modifica di una segmentazione - Documenti Marketo - Documentazione prodotto
 title: Modifica di una segmentazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## Modifica regole segmento {#edit-segment-rules}
 
-1. Nella bozza **Segment**, passare a **Smart List**. Applicare regole simili a [Definizione delle regole di segmento](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. Nella bozza **Segment**, passare a **Smart List**. Applicare regole simili a [Definizione delle regole di segmento](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
