@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: Eliminazione di un rapporto - Documenti Marketo - Documentazione prodotto
 title: Eliminare un rapporto
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ Una volta avviata la creazione di [report](../../../../product-docs/reporting/ba
    >**Tubo profondo**
    >
    >
-   >Vedi tutte le altre cose che puoi fare con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Vedi tutte le altre cose che puoi fare con i report nel profondo [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
