@@ -3,7 +3,7 @@ unique-page-id: 2360401
 description: Confronta l'efficacia del canale con l'analizzatore del programma - Marketo Docs - Documentazione del prodotto
 title: Confronto dell'efficacia dei canali con l'analisi dei programmi
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -93,4 +93,4 @@ Nel nostro esempio, vediamo che il canale di presentazione è sia il più costos
 
 >[!NOTE]
 >
->Ulteriori informazioni sulle analisi avanzate in [Esplora ciclo di entrate](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Ulteriori informazioni sulle analisi avanzate in [Esplora ciclo di entrate](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
