@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glossario di personalizzazione web - Documenti Marketo - Documentazione prodotto
 title: Glossario di personalizzazione Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Alcune informazioni sul mondo e sul linguaggio di Web Personalization di Marketo
 
 Esistono tre modi per utilizzare un carattere jolly in Web Personalization (Personalizzazione Web).
 
-Fate corrispondere tutti i visitatori con URL pagina che terminano con il prezzo (ad esempio, [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+Fate corrispondere tutti i visitatori con URL pagina che terminano con il prezzo (ad esempio, [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
