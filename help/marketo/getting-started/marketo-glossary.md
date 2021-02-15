@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Documentazione prodotto
 title: Glossario di Marketo
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -106,7 +106,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
    <td colspan="1">Un valore punto assegnato a una persona in base alle sue azioni/comportamenti (ad esempio, visitare una pagina Web, fare clic su un collegamento in un messaggio e-mail, compilare un modulo ecc.). Generalmente utilizzato per misurare l'interesse di una persona per il prodotto o la società.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>inserire nell'elenco Bloccati </strong></td> 
+   <td colspan="1"><strong>Inserire nell'elenco Bloccati </strong></td> 
    <td colspan="1">Un elenco di indirizzi IP o domini associati all'invio di <strong>spam</strong>.</td> 
   </tr> 
   <tr> 
@@ -289,7 +289,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
   </tr> 
   <tr> 
    <td colspan="1"><strong>Drip Campaign</strong></td> 
-   <td colspan="1"><span>Un metodo di marketing diretto che prevede l'invio di una serie di corrispondenza a clienti/potenziali per un lungo periodo di tempo.</span></td> 
+   <td colspan="1"><span>Un metodo di marketing diretto che prevede l'invio a clienti/potenziali di una serie di corrispondenza per un lungo periodo di tempo.</span></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" rel="nofollow"><strong>Annullamento della sottoscrizione</strong></a></td> 
@@ -431,7 +431,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
  </tbody> 
 </table>
 
-## K {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -446,7 +446,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona nota</strong></a></td> 
-   <td><p>Tutti i dati relativi alle persone presenti nel database Marketo <strong>database</strong> sono considerati dati di persone conosciute. Esistono diversi modi in cui un utente può entrare nel database, tra cui: Sincronizzazione CRM, compilazione di un modulo, importazione di elenchi/immissione manuale, programmazione (integrazioni API/partner rimanenti) e altro ancora. I visitatori Web vengono inizialmente <strong>sottoposti a cookie</strong> (e sono anonimi) tramite il monitoraggio Web di Marketo <strong>Munchkin</strong> e quindi mappati al corrispondente record di persona nota quando si verifica un'azione identificabile (ad esempio, quando si fa clic su un collegamento tracciato in un'e-mail di Marketo, si compila un modulo con il proprio indirizzo e-mail o vengono mappati manualmente tramite le API lead associate di Marketo in <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> e <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Tutti i dati relativi alle persone presenti nel database Marketo <strong>database</strong> sono considerati dati di persone conosciute. Esistono diversi modi in cui un utente può entrare nel database, tra cui: Sincronizzazione CRM, compilazione di un modulo, importazione di elenchi/immissione manuale, programmazione (integrazioni API/partner rimanenti) e altro ancora. I visitatori Web vengono inizialmente <strong>sottoposti a cookie</strong> (e sono anonimi) tramite il monitoraggio Web di Marketo <strong>Munchkin</strong> e quindi mappati al corrispondente record di persona nota quando si verifica un'azione identificabile (ad esempio, quando si fa clic su un collegamento tracciato in un'e-mail di Marketo, si compila un modulo con il proprio indirizzo e-mail o vengono mappati manualmente tramite le API lead associate di Marketo in <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> e <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -555,7 +555,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
    <td>Noto anche come MSD. Uno dei due CRM Marketo ha un'integrazione nativa con (vedere <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Codice di tracciamento JavaScript personalizzato di Marketo. Consente di tenere traccia di tutti gli utenti che visitano il sito Web. Questo include visitatori anonimi (con i loro indirizzi IP e altre informazioni). </td> 
   </tr> 
   <tr> 
@@ -759,7 +759,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
    <td colspan="1"><p>Meccanismo di autenticazione che identifica i server e-mail autorizzati a inviare posta per un dominio specifico.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Smart Campaign</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Smart Campaign</strong></a></td> 
    <td colspan="1">Uno degli strumenti più importanti di Marketo. Eseguono le azioni definite in base ai criteri stabiliti. (vedere anche <strong><a href="#b">Campagna batch</a></strong> e <strong><a href="#t">Campagna trigger</a></strong>)</td> 
   </tr> 
   <tr> 
@@ -784,7 +784,7 @@ Di seguito sono riportate le definizioni per molti dei termini che si possono in
   </tr> 
   <tr> 
    <td colspan="1"><strong>Spam Traps</strong></td> 
-   <td colspan="1">Indirizzi e-mail che gli ISP e i provider di sicurezza email controllano specificamente per intercettare gli spammers. Questi possono includere indirizzi mai utilizzati, digitare domini e domini scaduti. I diversi tipi di spam trap possono indicare diversi problemi di acquisizione da problemi con i moduli (mappe di spam), non mantenere in modo corretto un database o rimuovere indirizzi non validi (trappole di spam di dominio scadute) o acquisire indirizzi senza autorizzazione spesso mediante l'acquisto di elenchi (trappole di spam incontaminate). Qualsiasi messaggio inviato a questi indirizzi è contrassegnato come <strong>spam</strong>.</td> 
+   <td colspan="1">Indirizzi e-mail che gli ISP e i provider di sicurezza email controllano specificamente per intercettare gli spammers. Questi possono includere indirizzi mai utilizzati, digitare domini e domini scaduti. I diversi tipi di trappole per spam possono indicare diversi problemi di acquisizione da problemi con i moduli (mappe di spam), non mantenere in modo corretto un database o rimuovere indirizzi non validi (trappole di spam di dominio scadute) o acquisire indirizzi senza autorizzazione spesso mediante l'acquisto di elenchi (trappole di spam incontaminate). Qualsiasi messaggio inviato a questi indirizzi è contrassegnato come <strong>spam</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Suddivisione test</strong></td> 
