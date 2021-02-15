@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: Configurazione per i clienti esistenti - Documenti Marketo - Documentazione prodotto
 title: Configurazione per clienti esistenti
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ Configurate la seguente configurazione per iniziare a utilizzare il nuovo dashbo
 ## Configurare Sales Insight in Marketo {#configure-sales-insight-in-marketo}
 
 1. Apri una nuova scheda nel browser per ottenere le credenziali Informazioni sulle vendite marketing dal tuo account Marketo.
+
 1. Andate all&#39;area **Admin**.
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ Configurate la seguente configurazione per iniziare a utilizzare il nuovo dashbo
 ## Accesso al punto vendita marketing {#access-marketo-sales-insight}
 
 1. Copia le credenziali dal pannello Rest API nella pagina Admin di Marketing’s Sales Insight. Incollateli nella sezione Rest API della pagina Sales Insight Configuration di Salesforce.
+
 1. Immettete la chiave segreta API.
 
    ![](assets/config.png)
-
