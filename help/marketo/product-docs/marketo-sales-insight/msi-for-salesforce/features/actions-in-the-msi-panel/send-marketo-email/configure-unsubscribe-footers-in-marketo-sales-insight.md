@@ -3,9 +3,9 @@ unique-page-id: 2953373
 description: Configurare i piè di pagina per l'annullamento della sottoscrizione a Marketo Sales Insight - Marketo Docs - Documentazione prodotto
 title: Configurare i piè di pagina per l’annullamento della sottoscrizione in Marketing Cloud
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Le e-mail di vendita inseriscono automaticamente il piè di pagina di annullamen
 >
 >**Definizione**
 >
->**I** messaggi e-mail di vendita sono quelli inviati da Sales Insight. (non include quelli inviati dal plug-in Marketo Outlook.)
+>**Le** e-mail di vendita sono quelle inviate da Sales Insight (non includono quelle inviate dal plug-in di Outlook di Marketo).
 
 1. Andate all&#39;area **Admin**.
 
    ![](assets/one-1.png)
 
-1. Fare clic su **Sales Insight, **quindi **Edit Settings**.
+1. Fare clic su **Sales Insight**, quindi su **Edit Settings**.
 
    ![](assets/two-1.png)
 
@@ -37,20 +37,19 @@ Le e-mail di vendita inseriscono automaticamente il piè di pagina di annullamen
 
    ![](assets/three-1.png)
 
-   * **Nessun modello **- Composto manualmente dall&#39;utente di vendita.
+   * **Nessun modello** : composto manualmente dall&#39;utente di vendita.
    * **E-mail**  standard - E-mail basate su un modello.
-   * **E-mail**  operativa: e-mail che ignorano i limiti di sottoscrizione non sottoscritta, sospensione del marketing e comunicazione (inviano indipendentemente da quale elemento).
+   * **E-mail**  operativa: e-mail che ignorano i limiti di sottoscrizione non sottoscritti, sospensione del marketing e comunicazione (inviano indipendentemente da quale elemento).
 
    Potete impostare un comportamento diverso per ciascun tipo.
 
    >[!CAUTION]
    >
-   >**Rispetta le impostazioni di annullamento sottoscrizione: **I lead non sottoscritti NON riceveranno l&#39;e-mail nemmeno se l&#39;e-mail pubblicata è &quot;operativa&quot;
+   >**Rispetta le impostazioni** di annullamento sottoscrizione: i lead non sottoscritti NON riceveranno l&#39;e-mail persino se l&#39;e-mail pubblicata è &quot;operativa&quot;
    >
-   >
-   >**Ignora impostazioni annullamento sottoscrizione:lead** non sottoscritti riceveranno l’e-mail
+   >**Ignora impostazioni** annullamento sottoscrizione: i lead non sottoscritti riceveranno l&#39;e-mail
 
-   Apportate le modifiche desiderate, quindi fate clic su Salva.
+1. Apportate le modifiche desiderate, quindi fate clic su **Salva**.
 
    >[!TIP]
    >
@@ -59,10 +58,3 @@ Le e-mail di vendita inseriscono automaticamente il piè di pagina di annullamen
    ![](assets/four-1.png)
 
 Wow! Un po&#39; complicato, ma abbastanza flessibile, giusto?
-
->[!NOTE]
->
->**Tubo profondo**
->
->Ulteriori informazioni su [Marketing Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
-
