@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: Clona un report - Documenti Marketo - Documentazione del prodotto
 title: Duplica un rapporto
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -41,5 +41,5 @@ Create un duplicato del rapporto per personalizzare ulteriormente il rapporto se
    >    * [Filtrare le persone in un report con un elenco avanzato](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   Fai molto di più per personalizzare il tuo rapporto! Vedere [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
+   Fai molto di più per personalizzare il tuo rapporto! Vedere [Reporting di base](https://docs.marketo.com/display/docs/basic+reporting).
 
