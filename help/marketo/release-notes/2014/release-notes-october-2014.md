@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: Note sulla versione - Ottobre 2014 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Ottobre 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Utilizzate l&#39;API per eseguire nuove attività o apportare modifiche ai lead:
 * Ottieni tipi di attività
 * Ottieni token di paging
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 ## MSI - Invia e-mail Marketo per Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,5 +70,5 @@ Utilizza una nuova chiamata che monitori la cronologia delle visite passate del 
 * Prodotti interessati
 * Quali campagne RTP hanno visto?
 
-Per informazioni dettagliate, visitare [developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+Per informazioni dettagliate, visitare [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
