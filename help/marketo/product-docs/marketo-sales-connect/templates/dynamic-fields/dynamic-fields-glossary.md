@@ -3,9 +3,9 @@ unique-page-id: 14352509
 description: Glossario Campi Dinamici - Documenti Marketo - Documentazione prodotto
 title: Glossario campi dinamici
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -24,18 +24,16 @@ Questo strumento è utilizzato per `auto-personalize your email` e risparmiare t
 | `{{first_name}}` | Keith |
 | `{{friendly_unsubscribe}}` | Se non vuoi sentire di nuovo da me, per favore fatemelo sapere qui |
 | `{{my_name}}` | Alan Bradley |
-| `{{personal_email}}` | [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) |
+| `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Responsabile tecnico |
 | `{{work_website}}` | https://www.marketo.com |
 
 **Elementi da notare**:
 
-* Se un contatto è `information is entered incorrectly` o è mancante nella pagina Persone, `will not pull over correctly` nel modello.
-
-* La differenza tra `{{company}}` e `{{company_friendly}}` è che `{{company_friendly}}` `remove any formal title`, come Inc., LLC, ecc., dal nome della società del contatto.
+* Se le informazioni di un contatto sono inserite in modo errato o mancano nella pagina Persone, non verranno trascinate correttamente nel modello.
+* La differenza tra `{{company}}` e `{{company_friendly}}` è che `{{company_friendly}}` rimuoverà dal nome della società del contatto qualsiasi titolo formale, come Inc., LLC, ecc.
 * Quando si utilizza `{{company_friendly}}`, assicurarsi di separare Inc. o Co. con una virgola nei dettagli di contatto. Questo è il modo in cui Sales Connect sa cosa rimuovere quando estrae il valore.
 
 >[!TIP]
 >
->È possibile creare un proprio [campo dinamico personalizzato](http://docs.marketo.com/x/fADb) per qualsiasi elemento che si desidera inserire automaticamente nelle e-mail
-
+>È possibile creare un proprio [campo dinamico personalizzato](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) per qualsiasi elemento che si desidera inserire automaticamente nelle e-mail
