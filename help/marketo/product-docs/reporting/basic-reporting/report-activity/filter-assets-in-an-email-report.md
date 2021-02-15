@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: Filtrare le risorse in un report e-mail - Documenti Marketo - Documentazione prodotto
 title: Filtrare le risorse in un rapporto e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ Concentrare il report [Email Performance](../../../../product-docs/email-marketi
 >
 >**Tubo profondo**
 >
->Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>Scopri tutte le informazioni sui report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
