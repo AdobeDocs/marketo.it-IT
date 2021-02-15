@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: Creare un analizzatore di programma - Documenti Marketo - Documentazione di prodotto
 title: Creare un analizzatore di programmi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -79,4 +79,4 @@ Scopri quali programmi e canali ti stanno dando il più grande vantaggio per il 
 
 >[!NOTE]
 >
->Ulteriori informazioni in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Ulteriori informazioni in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
