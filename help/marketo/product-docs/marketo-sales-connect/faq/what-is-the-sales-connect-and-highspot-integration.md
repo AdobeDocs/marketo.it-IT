@@ -3,9 +3,9 @@ unique-page-id: 14352553
 description: Cos'è l'integrazione di Sales Connect e Highspot? - Documenti Marketo - Documentazione del prodotto
 title: Cos'è l'integrazione di Sales Connect e Highspot?
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Per utilizzare l’integrazione di Sales Connect con Highspot, è necessario dis
 
 Oltre a lavorare in Sales Connect in un browser, l&#39;integrazione Highspot è disponibile nel client di posta elettronica Outlook .Net. I requisiti sono i seguenti:
 
-* **Outlook .Net &amp; Exchange **- Versione supportata di Outlook .Net, Exchange Online, Exchange 2016 di Connect
+* **Outlook .Net &amp; Exchange**  - Versione supportata di Outlook .Net, Exchange Online, Exchange 2016 di Connect
 
 >[!NOTE]
 >
@@ -31,15 +31,20 @@ Oltre a lavorare in Sales Connect in un browser, l&#39;integrazione Highspot è 
 
 ## Abilitazione di Sales Connect e integrazione Highspot {#enabling-the-sales-connect-and-highspot-integration}
 
-Se sei interessato ad abilitare l&#39;integrazione con Highspot per il tuo team, contatta il [Supporto di Marketo](http://support.marketo.com).
+Se sei interessato ad abilitare l&#39;integrazione con Highspot per il tuo team, contatta il [Supporto di Marketo](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
 ## Come utilizzare l&#39;integrazione {#how-to-use-the-integration}
 
 Una volta attivato, ecco come accedere al contenuto Highspot in Sales Connect.
 
-1. Quando componete un messaggio e-mail in Sales Connect o Outlook, scegliete Aggiungi contenuto.
-1. Selezionare Evidenzia.
-1. Inserite il messaggio e-mail del vostro account Highspot e fate clic su Continue (Continua).
-1. Immettete la password dell’account Highspot e fate clic su Accedi.
-1. Selezionate il contenuto da Evidenziatore da inserire nell’e-mail o nel modello e fate clic su Aggiungi contenuto.
+1. Durante la composizione di un&#39;e-mail in Sales Connect o Outlook, scegliete **Aggiungi contenuto**.
+
+1. Selezionare **Highspot**.
+
+1. Inserite il messaggio e-mail dell&#39;account Highspot e fate clic su **Continue**.
+
+1. Inserite la password dell&#39;account Highspot e fate clic su **Accedi**.
+
+1. Selezionate il contenuto da Evidenziatore da inserire nell&#39;e-mail o nel modello e fate clic su **Aggiungi contenuto**.
+
 1. Il contenuto viene inserito nell’e-mail o nel modello.
