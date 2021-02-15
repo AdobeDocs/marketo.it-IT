@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: Rapporti di gruppi di persone per attributo - Documenti Marketo - Documentazione prodotto
 title: Rapporti sulla persona del gruppo per attributo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapporti sulla persona del gruppo per attributo {#group-person-reports-by-attribute}
 
-Potete raggruppare i rapporti [persona](http://docs.marketo.com/display/docs/basic+reporting) per qualsiasi persona o attributo della società.
+Potete raggruppare i rapporti [persona](https://docs.marketo.com/display/docs/basic+reporting) per qualsiasi persona o attributo della società.
 
 1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
@@ -48,7 +48,7 @@ Potete raggruppare i rapporti [persona](http://docs.marketo.com/display/docs/bas
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni sui report delle persone e altri tipi di report nel corso [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting)informazioni approfondite.
+   >Ulteriori informazioni sui report delle persone e altri tipi di report nel corso [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)informazioni approfondite.
 
    >[!MORELIKETHIS]
    >
