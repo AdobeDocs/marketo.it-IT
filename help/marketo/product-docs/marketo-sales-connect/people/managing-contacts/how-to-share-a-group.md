@@ -3,7 +3,7 @@ unique-page-id: 14352511
 description: Come condividere un gruppo - Documenti Marketo - Documentazione del prodotto
 title: Come condividere un gruppo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -23,7 +23,7 @@ La condivisione di un gruppo di lead o contatti con il team è molto semplice in
 
    ![](assets/two-1.png)
 
-1. Fate clic sul pulsante** Azioni gruppo** e selezionate **Condividi gruppo**.
+1. Fare clic sul pulsante **Azioni gruppo** e selezionare **Condividi gruppo**.
 
    ![](assets/three-1.png)
 
@@ -34,4 +34,3 @@ La condivisione di un gruppo di lead o contatti con il team è molto semplice in
 1. Fare clic su **Condividi**.
 
    ![](assets/five-1.png)
-
