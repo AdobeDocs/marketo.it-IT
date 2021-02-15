@@ -3,9 +3,9 @@ unique-page-id: 14352592
 description: Come inserire campi dinamici - Documenti Marketo - Documentazione prodotto
 title: Come inserire campi dinamici
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,12 @@ Consentiamo di personalizzare i modelli delle e-mail con attributi predefiniti c
 
 >[!TIP]
 >
->I campi &quot;first_name&quot; e &quot;company&quot; sono i `only fields that will look to both Sales Connect and Salesforce.`. Ciò significa che se un contatto non esiste nell&#39; [applicazione Web](http://toutapp.com/login), in Salesforce verifichiamo se è possibile trovare un contatto/record lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
+>I campi &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno visualizzati sia su Sales Connect che su Salesforce. Questo significa che se un contatto non esiste nell&#39; [applicazione Web](https://toutapp.com/login), in Salesforce verificheremo se è possibile trovare un contatto/record lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
 
 ## Inserire un campo dinamico in un modello {#insert-a-dynamic-field-into-a-template}
 
 1. In **Modelli e campagne**, individua il modello da modificare e fai clic su **Modifica modello**.
+
 1. Fare clic su **Campi dinamici Tout**.
 
    >[!NOTE]
