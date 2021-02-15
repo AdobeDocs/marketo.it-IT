@@ -3,7 +3,7 @@ unique-page-id: 11381689
 description: Marketing Web basato su account con ABM - Documenti Marketo - Documentazione prodotto
 title: Marketing Web basato su account con ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Marketing Web basato su account con ABM {#account-based-web-marketing-with-abm}
 
-Marketo ha introdotto una nuova applicazione [Account Based Marketing](http://docs.marketo.com/display/docs/account+based+marketing) (ABM).
+Marketo ha introdotto una nuova applicazione [Account Based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) (ABM).
 
 Quando si utilizza la personalizzazione Web di Marketo e il nuovo marketing basato su account (ABM):
 
