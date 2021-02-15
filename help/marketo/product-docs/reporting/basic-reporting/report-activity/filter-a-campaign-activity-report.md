@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: Filtrare un rapporto sulle attività della campagna - Documenti Marketo - Documentazione del prodotto
 title: Filtrare un rapporto attività campagna
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrare un report Attività campagna {#filter-a-campaign-activity-report}
 
-Concentrate il vostro [Rapporto attività campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)su [campagne intelligenti ](http://docs.marketo.com/display/docs/smart+campaigns) specifiche.
+Concentrate il vostro [Rapporto attività campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)su [campagne intelligenti ](https://docs.marketo.com/display/docs/smart+campaigns) specifiche.
 
 1. Andate a **Marketing Activities** (o **Analytics**) e selezionate il rapporto sulle attività della campagna.
 
@@ -47,5 +47,5 @@ Concentrate il vostro [Rapporto attività campagna](../../../../product-docs/rep
 >
 >**Tubo profondo**
 >
->Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>Scopri tutte le informazioni sui report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
