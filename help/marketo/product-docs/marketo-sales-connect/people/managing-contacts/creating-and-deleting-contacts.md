@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: Creazione ed eliminazione di contatti - Documenti Marketo - Documentazione prodotto
 title: Creazione ed eliminazione di contatti
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vuoi aggiungere più contatti contemporaneamente? [Fai clic ](http://docs.marketo.com/x/VADb) qui per scoprire come importare i contatti tramite CSV.
+   >Vuoi aggiungere più contatti contemporaneamente? [Fai clic ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) qui per scoprire come importare i contatti tramite CSV.
 
 ## Eliminazione dei contatti {#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Per eliminare più contatti, è sufficiente selezionare più persone. I passaggi rimanenti sarebbero gli stessi.
 
-1. Fate clic sul punto (tre punti verticali) e selezionate Elimina.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
 
    ![](assets/four-2.png)
 
-1. Fate clic su Elimina contatto per confermare.
+1. Fare clic su **Elimina contatto** per confermare.
 
    ![](assets/five-2.png)
