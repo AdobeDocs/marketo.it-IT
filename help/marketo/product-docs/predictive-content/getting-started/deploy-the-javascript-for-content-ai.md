@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: Distribuzione di JavaScript per Content-AI - Marketo Docs - Documentazione prodotto
 title: Distribuzione di JavaScript per Content-AI
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Per utilizzare il contenuto predittivo, è necessario generare e impostare la RT
 
    >[!NOTE]
    >
-   >Copiate il tag JavaScript di Web Personalization e incollatelo come primo script nell&#39;intestazione delle pagine, tra i tag `<head> </head>`. Vedere le istruzioni di implementazione più dettagliate [qui](http://docs.marketo.com/display/docs/rtp+tag+implementation) [.](http://pages2.marketo.com/rtp-implementation.html)
+   >Copiate il tag JavaScript di Web Personalization e incollatelo come primo script nell&#39;intestazione delle pagine, tra i tag `<head> </head>`. Vedere le istruzioni di implementazione più dettagliate [qui](https://docs.marketo.com/display/docs/rtp+tag+implementation) [.](https://pages2.marketo.com/rtp-implementation.html)
 
 1. Verifica che il tag sia visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini. Per verificare il problema, fai clic con il pulsante destro del mouse sulla pagina `website’s`. Vai a **Visualizza origine pagina** in un browser Web. Ricerca: &quot;RTP&quot;.
 1. Verificare che l&#39;opzione Tag sia impostata su **ON**.
