@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: Performance Insights Contribution Overview - Marketo Docs - Documentazione prodotto
 title: Panoramica del contributo di Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Selezionare la metrica per la quale si desidera visualizzare le prestazioni. In 
 
 >[!NOTE]
 >
->Informazioni su [First-Touch and Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Informazioni su [First-Touch and Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Scegliere il periodo per il quale visualizzare le metriche. In questo esempio stiamo osservando l&#39;anno corrente (anno-to-date).   ![](assets/3-1.png)
 
