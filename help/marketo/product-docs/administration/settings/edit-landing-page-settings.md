@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Modifica impostazioni pagina di destinazione - Documenti Marketo - Documentazione prodotto
 title: Modifica impostazioni pagina di destinazione
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    | Termine | Definizione |
    |---|---|
-   | Nome di dominio per le pagine di destinazione | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che date alle persone per le pagine di destinazione. Ad esempio, in `http://go.yourCompany.com`, la parola &quot;go&quot; è il CNAME. Puoi avere più persone, ma la maggior parte usa solo quella. |
+   | Nome di dominio per le pagine di destinazione | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che date alle persone per le pagine di destinazione. Ad esempio, in `https://go.yourCompany.com`, la parola &quot;go&quot; è il CNAME. Puoi avere più persone, ma la maggior parte usa solo quella. |
    | Pagina di fallback | Indica dove andare se la pagina di destinazione non esiste o è inattiva. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Homepage | Immettete l’URL del sito aziendale. |
 
