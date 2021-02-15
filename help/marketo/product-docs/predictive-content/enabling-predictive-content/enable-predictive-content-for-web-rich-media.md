@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Abilita contenuti predittivi per contenuti multimediali Web - Documenti Marketo - Documentazione prodotto
 title: Abilita contenuto predittivo per contenuti multimediali Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ I contenuti predittivi coinvolgono i visitatori Web con i contenuti più rilevan
 >
 >Prima di abilitare Predictive Content (Contenuto predittivo), dovete:
 >
->* [Preparare il contenuto predittivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Preparare il contenuto predittivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ Dopo aver preparato il titolo del contenuto, la descrizione e l’immagine per i
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito Web {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Fate riferimento alla documentazione per il modello di raccomandazione per contenuti multimediali avanzati [nel sito dedicato agli sviluppatori di Marketo.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Questo spiega come personalizzare il modello per il sito Web.
+Fate riferimento alla documentazione per il modello di raccomandazione per contenuti multimediali avanzati [nel sito dedicato agli sviluppatori di Marketo.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Questo spiega come personalizzare il modello per il sito Web.
 
 Incollate il codice JavaScript nel sito Web nella posizione in cui desiderate visualizzare il modello.
 
@@ -62,5 +62,5 @@ Di seguito è riportato un esempio del Modello di raccomandazione per contenuti 
 >[!MORELIKETHIS]
 >
 >* [Abilita la barra delle raccomandazioni del contenuto](enable-the-content-recommendation-bar.md)
->* [Abilita contenuto predittivo nelle e-mail](http://docs.marketo.com/x/vLit)
+>* [Abilita contenuto predittivo nelle e-mail](https://docs.marketo.com/x/vLit)
 
