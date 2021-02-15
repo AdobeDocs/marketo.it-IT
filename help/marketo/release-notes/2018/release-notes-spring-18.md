@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: Note sulla versione - Primavera '18 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Primavera '18
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per 
 >
 >Sales Engage è un prodotto aggiuntivo. Contatta il tuo Customer Success Manager di Marketo o l&#39;Account Executive per un preventivo.
 
-Aumenta la pipeline e i ricavi grazie alla possibilità di incrementare le vendite con intelligenza, contenuti, playlist e analisi per convertire più lead in opportunità di vendita. Il coinvolgimento nelle vendite fornisce alle vendite e al marketing una piattaforma unificata per il coinvolgimento lungo il percorso del cliente e consente un migliore coordinamento attraverso una visione condivisa dei punti di contatto dei clienti.
+Aumenta la pipeline e i ricavi grazie alla possibilità di incrementare le vendite con intelligenza, contenuti, playlist e analisi per convertire più lead in opportunità di vendita. Il coinvolgimento nelle vendite fornisce alle vendite e al marketing una piattaforma unificata per il coinvolgimento nel percorso dei clienti e consente un migliore coordinamento attraverso una visione condivisa dei punti di contatto dei clienti.
 
 **ToutApp**
 
@@ -81,12 +81,12 @@ Impostate l&#39;obiettivo dell&#39;algoritmo di ottimizzazione Content<sup>AI</s
 
 Invia notifiche di sistema e momenti interessanti a Facebook Workplace.
 
-[API Elenco statico](http://developers.marketo.com/rest-api/assets/static-lists/)
+[API Elenco statico](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Gestire più facilmente gli elenchi tra Marketo e altri sistemi con nuove API bidirezionali per la creazione, la lettura, l&#39;aggiornamento e l&#39;eliminazione di elenchi statici in remoto, senza dover intervenire nell&#39;interfaccia di Marketo.
 
 ## Miglioramenti alla privacy {#privacy-enhancements}
 
-[Privacy tracciamento Web](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacy tracciamento Web](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 Il monitoraggio Munchkin migliorato è conforme alle normative locali e internazionali sulla privacy, anonimizzando gli indirizzi IP dei visitatori Web e consentendo loro di scegliere definitivamente il tracciamento del web.
