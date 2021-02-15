@@ -3,7 +3,7 @@ unique-page-id: 2359963
 description: Creare un report in un programma - Documenti Marketo - Documentazione del prodotto
 title: Creare un report in un programma
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Eseguite un rapporto per analizzare persone, programmi, pagine di destinazione, 
 
    >[!TIP]
    >
-   >Vedere [`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview) per una breve descrizione di ciascuno di essi.
+   >Vedere [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) per una breve descrizione di ciascuno di essi.
 
    Denominate il rapporto.
 
@@ -61,7 +61,7 @@ Eseguite un rapporto per analizzare persone, programmi, pagine di destinazione, 
    >**Tubo profondo**
    >
    >
-   >Per impostazione predefinita, i report coprono tutte le attività nell&#39;account, tra programmi. Per scoprire i diversi modi in cui è possibile filtrare il rapporto, consulta l&#39;esercitazione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Per impostazione predefinita, i report coprono tutte le attività nell&#39;account, tra programmi. Per scoprire i diversi modi in cui è possibile filtrare il rapporto, consulta l&#39;esercitazione approfondita [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
    >[!NOTE]
    >
@@ -74,5 +74,5 @@ Eseguite un rapporto per analizzare persone, programmi, pagine di destinazione, 
    >
    >
    >
-   >Potete [modificare un intervallo di tempo per il rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [iscrivervi a un rapporto di base](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [esportare un rapporto in Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrare le persone in un rapporto con un elenco avanzato](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) e [altro](http://docs.marketo.com/display/docs/basic+reporting).
+   >Potete [modificare un intervallo di tempo per il rapporto](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [iscrivervi a un rapporto di base](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [esportare un rapporto in Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrare le persone in un rapporto con un elenco avanzato](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) e [altro](https://docs.marketo.com/display/docs/basic+reporting).
 
