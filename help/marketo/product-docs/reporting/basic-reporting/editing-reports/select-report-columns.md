@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: Seleziona colonne report - Documenti Marketo - Documentazione prodotto
 title: Seleziona colonne rapporto
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Potete scegliere quali colonne includere nel rapporto e quali no.
    >    * [Ordina rapporto sulle colonne](sort-report-on-columns.md)
 
 
-   Fai di più con i report! Vedere [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
+   Fai di più con i report! Vedere [Reporting di base](https://docs.marketo.com/display/docs/basic+reporting).
 
