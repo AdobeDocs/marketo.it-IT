@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Insights Dashboard Panoramica delle funzioni - Marketo Docs - Documentazione del prodotto
 title: Panoramica delle funzioni del dashboard di Insights
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ulteriori informazioni sulle funzioni disponibili nel dashboard Informazioni sul
 
 >[!PREREQUISITES]
 >
->È necessario disporre del pacchetto MSI SFDC più recente e della [configurazione](http://docs.marketo.com/x/F4GMAg).
+>È necessario disporre del pacchetto MSI SFDC più recente e della [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -113,7 +113,7 @@ Scheda Evento:
 
 **Approfondimenti e riepilogo del coinvolgimento**
 
-* Schede attività di drill-down per Momenti interessanti, E-mail e Attività Web, compreso il nome del contatto
+* Schede attività di drill-down per Momenti interessanti, E-mail e Attività Web, incluso il nome del contatto
 * Scheda attività Momenti interessanti - Include l&#39;opzione di iscrizione
 * Scheda Attività e-mail - Opzione Anteprima
 * Scheda Attività Web - Include la possibilità di fare clic sul collegamento
@@ -149,7 +149,7 @@ Scheda Evento:
 
 **Approfondimenti e riepilogo del coinvolgimento**
 
-* Schede attività di drill-down per Momenti interessanti, E-mail e Attività Web, compreso il nome del contatto
+* Schede attività di drill-down per Momenti interessanti, E-mail e Attività Web, incluso il nome del contatto
 * Scheda attività Momenti interessanti - Include l&#39;opzione di iscrizione
 * Scheda Attività e-mail - Opzione Anteprima
 * Scheda Attività Web - Include la possibilità di fare clic sul collegamento
@@ -172,4 +172,3 @@ Scheda Evento:
 * Selezionando tutti gli eventi verrà visualizzato l&#39;elenco degli eventi pianificati nei prossimi 90 giorni
 * La scheda dei dettagli dell&#39;attività in questa sezione dispone dell&#39;opzione di anteprima
 * Il filtro include &quot;Search&quot;, &quot;Show only Invitate events&quot; e &quot;Date Range&quot;
-
