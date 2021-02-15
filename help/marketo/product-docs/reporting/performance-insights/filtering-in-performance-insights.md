@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: Filtraggio in Performance Insights - Marketo Docs - Documentazione del prodotto
 title: Applicazione di filtri in Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Fate clic sul simbolo + per iniziare ad aggiungere i filtri.
 
 >[!NOTE]
 >
->Al momento, gli attributi personalizzati sono disponibili nei filtri solo per i clienti che hanno [RCA](http://docs.marketo.com/x/lwIk) abilitato.
+>Al momento, gli attributi personalizzati sono disponibili nei filtri solo per i clienti che hanno [RCA](https://docs.marketo.com/x/lwIk) abilitato.
 
 Facendo clic su una categoria vengono visualizzate più sottocategorie.
 
@@ -53,11 +53,11 @@ Per rimuovere un filtro in qualsiasi momento, fai clic sulla X accanto ad esso. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account denominato ABM</strong></td> 
-   <td colspan="1">Se utilizzi Marketo ABM, tutti i tuoi account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro "ABM Named Account". Potete selezionare un account denominato per filtrare i risultati su tali account.<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account con nome ABM.</a></td> 
+   <td colspan="1">Se utilizzi Marketo ABM, tutti i tuoi account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro "ABM Named Account". Potete selezionare un account denominato per filtrare i risultati su tali account.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account con nome ABM.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Attributi personalizzati</strong></td> 
-   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">attivati</a> per l'analisi delle opportunità possono essere filtrati in Performance Insights.</p></td> 
+   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">attivati</a> per l'analisi delle opportunità possono essere filtrati in Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Periodo di investimento</strong></p></td> 
