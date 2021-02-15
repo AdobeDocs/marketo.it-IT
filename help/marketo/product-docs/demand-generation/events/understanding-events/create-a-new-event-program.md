@@ -3,7 +3,7 @@ unique-page-id: 2949844
 description: Creare un nuovo programma di eventi - Documenti Marketo - Documentazione del prodotto
 title: Creare un nuovo programma evento
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Gli eventi consentono di automatizzare gli eventi online e offline! Cattura lo s
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Una volta creato l&#39;evento, create le [pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e le [e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) per invitare gli ospiti! È inoltre necessario avere familiarità con la [vista programmazione programma](http://docs.marketo.com/display/docs/program+schedule+view).
+Una volta creato l&#39;evento, create le [pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e le [e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) per invitare gli ospiti! È inoltre necessario avere familiarità con la [vista programmazione programma](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >
