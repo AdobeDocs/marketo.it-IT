@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: Importa contatti tramite CSV - Documenti Marketo - Documentazione prodotto
 title: Importa contatti tramite CSV
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ La disponibilità di contatti nella pagina Persone è importante perché è il p
 1. Mappate le colonne del CSV sui rispettivi campi in Sales Connect. Fare clic su **Next** al termine.
 
    ![](assets/five.png)
-
