@@ -3,7 +3,7 @@ unique-page-id: 2359965
 description: Panoramica sul tipo di rapporto - Documenti Marketo - Documentazione sul prodotto
 title: Panoramica tipo di rapporto
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Quando [create un rapporto in un programma](../../../../product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Report stato Persone per ricavi</a>  </strong></td> 
-   <td>Reporting di base per il <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Modello ricavi</a>. Per informazioni dettagliate, vedere <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
+   <td>Reporting di base per il <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Modello ricavi</a>. Per informazioni dettagliate, vedere <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestazioni della pagina di destinazione</a>  </strong></td> 
@@ -55,7 +55,7 @@ Quando [create un rapporto in un programma](../../../../product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Prestazioni del programma</a>  </strong></td> 
-   <td>Metriche di base del programma come membri e successo. Per informazioni dettagliate, vedere <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
+   <td>Metriche di base del programma come membri e successo. Per informazioni dettagliate, vedere <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Attività Web società</a>  </strong></td> 
@@ -71,7 +71,7 @@ Quando [create un rapporto in un programma](../../../../product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Report prestazioni flusso di coinvolgimento</a> </strong></td> 
-   <td><p>Scopri il funzionamento del <a href="http://docs.marketo.com/display/docs/drip+nurturing">programma di coinvolgimento</a>.</p></td> 
+   <td><p>Scopri il funzionamento del <a href="https://docs.marketo.com/display/docs/drip+nurturing">programma di coinvolgimento</a>.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ Non è utile come i tipi di rapporto sopra, ma è ancora disponibile.
 >
 >**Tubo profondo**
 >
->Per visualizzare tutte le operazioni che puoi eseguire con questi report, consulta la sezione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>Per visualizzare tutte le operazioni che puoi eseguire con questi report, consulta la sezione approfondita [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
