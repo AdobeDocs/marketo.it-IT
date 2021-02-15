@@ -3,7 +3,7 @@ unique-page-id: 10100434
 description: Scegliere un layout per il messaggio in-app - Documenti Marketo - Documentazione prodotto
 title: Scegliere un layout per il messaggio in-app
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Ora che conosci i modelli, è il momento di sceglierne uno quando [crei le immag
 
 >[!MORELIKETHIS]
 >
->* [Creare un messaggio in-app](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Creare un messaggio in-app](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [Informazioni sui messaggi in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 >
