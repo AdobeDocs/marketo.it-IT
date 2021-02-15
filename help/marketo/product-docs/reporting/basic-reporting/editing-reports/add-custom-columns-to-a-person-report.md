@@ -3,7 +3,7 @@ unique-page-id: 2360201
 description: Aggiungere colonne personalizzate a un rapporto sulla persona - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di colonne personalizzate a un report di persona
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungi colonne personalizzate a un report di persona {#add-custom-columns-to-a-person-report}
 
-Puoi filtrare ulteriormente le metriche nei report [persona](http://docs.marketo.com/display/docs/basic+reporting) utilizzando gli [smart lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) come colonne personalizzate.
+Puoi filtrare ulteriormente le metriche nei report [persona](https://docs.marketo.com/display/docs/basic+reporting) utilizzando gli [smart lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) come colonne personalizzate.
 
 1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
@@ -36,7 +36,7 @@ Puoi filtrare ulteriormente le metriche nei report [persona](http://docs.marketo
    >**Tubo profondo**
    >
    >
-   >Scoprite come creare e configurare gli elenchi smart in [Smart Lists and Static Lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) deep dive.
+   >Scoprite come creare e configurare gli elenchi smart in [Smart Lists and Static Lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) deep dive.
 
 1. Ce l&#39;hai fatta! Fare clic sulla scheda **Report** per visualizzare il rapporto con le nuove colonne.
 
@@ -53,5 +53,5 @@ Puoi filtrare ulteriormente le metriche nei report [persona](http://docs.marketo
    >**Tubo profondo**
    >
    >
-   >Scopri di più sulle numerose operazioni che puoi eseguire con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Scopri di più sulle numerose operazioni che puoi eseguire con i report nel profondo [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
