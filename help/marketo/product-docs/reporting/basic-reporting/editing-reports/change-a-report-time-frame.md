@@ -3,7 +3,7 @@ unique-page-id: 2359968
 description: Modificare un intervallo di tempo per il rapporto - Documenti Marketo - Documentazione del prodotto
 title: Modifica di un intervallo di tempo per il rapporto
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Modificate il periodo di tempo coperto dal rapporto, per concentrarvi su un peri
    >**Tubo profondo**
    >
    >
-   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
