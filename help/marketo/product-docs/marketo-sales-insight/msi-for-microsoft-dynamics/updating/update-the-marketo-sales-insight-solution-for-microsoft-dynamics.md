@@ -3,7 +3,7 @@ unique-page-id: 6849099
 description: Aggiornamento della soluzione Marketing Sales Insight per Microsoft Dynamics - Marketo Docs - Documentazione prodotto
 title: Aggiornamento della soluzione Marketing to Sales Insight per Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics per Sales Insight
    ![](assets/image2015-3-16-16-3a29-3a32.png)
 
    Fantastico! Un file zip della soluzione verrà ora scaricato sul dispositivo.
-
