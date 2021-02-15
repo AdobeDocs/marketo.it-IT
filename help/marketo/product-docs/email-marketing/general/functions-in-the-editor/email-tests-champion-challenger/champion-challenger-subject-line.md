@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Linea Oggetto - Documenti Marketo - Documentazione del prodotto
 title: Campione/Sfida - Linea Oggetto
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >Nella distribuzione sopra riportata, il 10% del pubblico totale specificato nell&#39;elenco smart riceve una delle e-mail con l&#39;oggetto dello sfidante e il 90% riceve e-mail con l&#39;oggetto campione. Le e-mail con più righe oggetto dello sfidante condividono lo stesso 10%. Al termine del test, potete dichiarare manualmente un vincitore. Da quel momento in poi, tutti i futuri utenti riceveranno i contenuti più performanti.
 
-   Per ottenere la certezza statistica, accertatevi che la percentuale selezionata includa abbastanza persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti. [Più informazioni di quante ne aveste mai desiderato sulla fiducia](http://en.wikipedia.org/wiki/Confidence_interval) statistica.
+   Per ottenere la certezza statistica, accertatevi che la percentuale selezionata includa abbastanza persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti. [Più informazioni di quante ne aveste mai desiderato sulla fiducia](https://en.wikipedia.org/wiki/Confidence_interval) statistica.
 
 1. Fare clic su **Next**.
 
