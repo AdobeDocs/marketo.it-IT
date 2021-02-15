@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: Priorità ordine di segmentazione - Documenti Marketo - Documentazione prodotto
 title: Priorità ordine di segmentazione
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-Fantastico, eh? Puoi utilizzare i segmenti per contenuti dinamici, [reporting](http://docs.marketo.com/display/docs/basic+reporting) e anche in [smart list](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+Fantastico, eh? Puoi utilizzare i segmenti per contenuti dinamici, [reporting](https://docs.marketo.com/display/docs/basic+reporting) e anche in [smart list](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
