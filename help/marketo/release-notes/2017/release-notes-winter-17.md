@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Note sulla versione -Winter '17 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Inverno '17
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Base Matching usa solo indirizzi e-mail, ma il nuovo Advanced Matching utilizza 
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API di importazione oggetti personalizzata](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API di importazione oggetti personalizzata](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 Questa API fornisce un&#39;interfaccia più veloce per sincronizzare gli oggetti personalizzati in Marketo. Potete importare file di fogli di calcolo CSV, TSV o SSV in Marketo come oggetti personalizzati.
 
@@ -37,7 +37,7 @@ Esportate tutti i dettagli e le analisi della campagna Web in formato CSV. Potet
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localizzazione](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [Localizzazione](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 Le app Web Personalization (Personalizzazione Web), Predictive Content (Contenuto predittivo) e Email Insights sono ora disponibili in giapponese, tedesco e spagnolo. [selezionate la lingua e le impostazioni internazionali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) per visualizzare il contenuto in queste lingue.
 
@@ -71,7 +71,7 @@ Filtra l&#39;analisi del contenuto predittivo per origini specifiche — E-mail,
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Editor di contenuti predittivi](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[Editor di contenuti predittivi](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 È disponibile un’esperienza di modifica e un layout migliorati che dividono la preparazione dei contenuti per origine. E-mail, contenuti multimediali avanzati o barra delle raccomandazioni.
 
@@ -81,7 +81,7 @@ Filtra l&#39;analisi del contenuto predittivo per origini specifiche — E-mail,
 
 URL immagine e metadati vengono ora utilizzati nel processo di individuazione automatica del contenuto.
 
-## [Miglioramenti SDK](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Miglioramenti SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Gli sviluppatori ora dispongono di un ulteriore controllo sulla distribuzione delle notifiche push con l&#39;aggiunta di una nuova chiamata API SDK che consente agli sviluppatori di rimuovere i token push.
 
