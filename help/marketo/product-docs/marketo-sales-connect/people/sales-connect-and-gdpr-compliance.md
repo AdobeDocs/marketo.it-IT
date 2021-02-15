@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: Conformità ai requisiti di vendita di Adobe Connect e GDPR - Documenti di marketing - Documentazione del prodotto
 title: Conformità alle regole di vendita di Adobe Connect e GDPR
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -38,10 +38,11 @@ Il GDPR si applica a qualsiasi organizzazione all&#39;interno o all&#39;esterno 
 
 Gli esperti di marketing mirano a creare esperienze cliente personali e umane, basate sulla fiducia e fornite con cura. Anche se il GDPR non utilizza questi termini, gli obiettivi sono gli stessi: rispettare i diritti dei clienti e guadagnarsi la loro fiducia. Per creare e mantenere tale fiducia, gli esperti di marketing devono essere associati a come, quando e perché i loro clienti desiderano essere coinvolti. È fondamentale che le preferenze dei clienti siano rispettate, non solo come requisito legale, ma anche come base per pratiche di coinvolgimento incentrate sui clienti.
 
-Il modo in cui gli esperti di marketing affrontano queste aspettative più elevate in relazione alla raccolta, all&#39;uso e alla sicurezza dei dati personali che vengono utilizzati regolarmente nel corso del loro lavoro è fondamentale, e Marketo può contribuire a soddisfare tali aspettative.\
+Il modo in cui gli esperti di marketing affrontano queste aspettative più elevate in relazione alla raccolta, all&#39;uso e alla sicurezza dei dati personali che vengono utilizzati regolarmente nel corso del loro lavoro è fondamentale, e Marketo può contribuire a soddisfare tali aspettative.
+
 Esistono due aspetti chiave del GDPR in cui gli esperti di marketing devono esaminare le pratiche passate, attuali e future. Il primo è il consenso dell&#39;individuo a trattare i propri dati personali, e il secondo è la responsabilità, ossia la capacità di dimostrare come i principi del GDPR sono seguiti.
 
-Forniamo informazioni approfondite sul consenso e sulla responsabilità all&#39;interno della piattaforma Marketo nel nostro e-book, [GDPR e The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In questo articolo, tuttavia, ci concentreremo specificatamente sulle nuove funzioni di Marketo Sales Connect che aiuteranno la vostra azienda a rispettare le regole GDPR.
+Forniamo informazioni approfondite sul consenso e sulla responsabilità all&#39;interno della piattaforma Marketo nel nostro e-book, [GDPR e The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In questo articolo, tuttavia, ci concentreremo specificatamente sulle nuove funzioni di Marketo Sales Connect che aiuteranno la vostra azienda a rispettare le regole GDPR.
 
 ## Conformità al Regolamento GDPR in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -94,7 +95,8 @@ Se scegliete &quot;Consenso&quot; come Tipo di autorizzazione, due campi obbliga
 ![](assets/6.png)
 
 Se per Tipo di autorizzazione o Tipo di origine è stato scelto &quot;Altro&quot;, potete immettere del testo per descrivere il Tipo di origine.
-** ![](assets/7.png)
+
+![](assets/7.png)
 
 Bulk Actions** Marketo Sales Connect consente inoltre di aggiornare in massa i tipi di autorizzazione e origine di un contatto, risparmiando tempo prezioso nel processo di conformità.
 
@@ -166,7 +168,9 @@ Potete esportare le informazioni di contatto dalla visualizzazione Dettagli pers
 >
 >Questo può essere fatto solo un contatto alla volta. Al momento non esiste alcuna funzionalità che consenta esportazioni in massa di contatti.
 
-Per esportare le informazioni di contatto, fate clic sui tre punti verticali nell&#39;intestazione della visualizzazione Dettagli persona e selezionate **Esporta**. Il file .CSV viene scaricato automaticamente.   ![](assets/thirteen.png)
+Per esportare le informazioni di contatto, fate clic sui tre punti verticali nell&#39;intestazione della visualizzazione Dettagli persona e selezionate **Esporta**. Il file .CSV viene scaricato automaticamente.
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -185,4 +189,4 @@ Un’area del GDPR comunemente fraintesa include i contatti che cancellano l’i
 
 Come entusiasta sostenitore del potere e della centralità del cliente dell&#39;economia di coinvolgimento, Marketo capisce l&#39;importanza di mettere la privacy e la protezione dei dati nelle mani dell&#39;interessato. Come per le altre leggi sulla protezione dei dati, la conformità al GDPR richiede l&#39;impegno sia di Marketo che dei nostri clienti. Questo articolo è inteso ad aiutarti a utilizzare Marketo in modo appropriato per supportare la conformità ai requisiti GDPR della tua organizzazione.
 
-Continueremo a seguire da vicino le linee guida del GDPR emanate dalle autorità di regolamentazione e dalla relativa legislazione. Gli aggiornamenti verranno inviati al Centro protezione all&#39;indirizzo [trust.marketo.com](http://trust.marketo.com).
+Continueremo a seguire da vicino le linee guida del GDPR emanate dalle autorità di regolamentazione e dalla relativa legislazione. Gli aggiornamenti verranno inviati al Centro protezione all&#39;indirizzo [trust.marketo.com](https://trust.marketo.com).
