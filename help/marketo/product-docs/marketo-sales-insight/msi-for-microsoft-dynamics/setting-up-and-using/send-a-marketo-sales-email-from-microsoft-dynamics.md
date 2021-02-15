@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: Invia un messaggio e-mail di vendita Marketo da Microsoft Dynamics - Documenti Marketo - Documentazione prodotto
 title: Invia un messaggio e-mail di vendita marketing da Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Il team di vendita può inviare e-mail e tenerne traccia per aprire e fare clic 
 
    >[!TIP]
    >
-   >Potete [pubblicare le e-mail come modelli](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) da utilizzare per il team di vendita.
+   >Potete [pubblicare le e-mail come modelli](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) da utilizzare per il team di vendita.
 
 1. Aggiungi un oggetto, componi il tuo messaggio e fai clic su **Invia e-mail**. Se necessario, scegliete un modello.
 
@@ -45,9 +45,4 @@ Ben fatto! Ora sai come inviare le e-mail tracciate da Marketo direttamente da M
 
 >[!MORELIKETHIS]
 >
->* [Aggiunta di un lead/contatto a una campagna marketing da Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[Aggiunta di un lead/contatto a una campagna marketing da Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
