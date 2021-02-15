@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: Note sulla versione - Giugno 2014 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Giugno 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Quando si invia un messaggio e-mail di prova da Sales Insight, i token presenti 
 
 ## API ReST lead {#lead-rest-api}
 
-Creazione, lettura e aggiornamento dei lead a livello di programmazione tramite la nuova API ReST. Per iniziare con ReST è necessario [creare un servizio personalizzato](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Quindi, andate al [sito di sviluppatori](http://developers.marketo.com/documentation/rest/) per informazioni dettagliate sull&#39;utilizzo di questa API.
+Creazione, lettura e aggiornamento dei lead a livello di programmazione tramite la nuova API ReST. Per iniziare con ReST è necessario [creare un servizio personalizzato](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Quindi, andate al [sito di sviluppatori](https://developers.marketo.com/documentation/rest/) per informazioni dettagliate sull&#39;utilizzo di questa API.
 
 ## Aggiornamento della pagina Campagne di marketing per la personalizzazione in tempo reale (RTP) {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
@@ -47,6 +47,6 @@ Le campagne RTP ora includono un nuovo design con viste in miniatura e prestazio
 
 Aggiungi tutti i dati RTP all’interno della piattaforma di analisi Web.
 
-L&#39;integrazione con [Google Analytics](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) è ora abilitata per impostazione predefinita, pertanto in Impostazioni account attivare lo switch per cui i dati da inviare alle variabili e agli eventi personalizzati GA.
+L&#39;integrazione con [Google Analytics](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) è ora abilitata per impostazione predefinita, pertanto in Impostazioni account attivare lo switch per cui i dati da inviare alle variabili ed eventi personalizzati GA.
 
 È stata inoltre completata l&#39;integrazione con [ Adobe SiteCatalyst](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
