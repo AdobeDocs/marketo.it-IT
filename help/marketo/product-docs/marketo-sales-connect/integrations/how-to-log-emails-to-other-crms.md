@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: Come registrare le e-mail ad altri CRM - Documenti Marketo - Documentazione prodotto
 title: Come registrare le e-mail ad altri CRM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Se CRM ti fornisce un indirizzo CCN, puoi utilizzare l&#39;altra sezione CRM per
 
 ## CRM con cui ci integriamo con {#crms-we-integrate-with}
 
-**`Almost every CRM`**:
+**Quasi ogni CRM**:
 
-* La nostra funzione `auto-BCC`* *funziona con quasi tutte le e-mail di record CRM che hai inviato con Sales Connect ai tuoi lead. Basta assicurarsi che il CRM di scelta vi fornisce un indirizzo CCN per sfruttare questo.
+* La nostra funzione CCN automatica funziona con quasi tutte le e-mail di record CRM che hai inviato con Sales Connect ai tuoi lead. Basta assicurarsi che il CRM di scelta vi fornisce un indirizzo CCN per sfruttare questo.
 
-**`Salesforce`**:
+**Salesforce**:
 
 * Facciamo tutto ciò che è sopra e più!
 
@@ -34,4 +34,3 @@ Se CRM ti fornisce un indirizzo CCN, puoi utilizzare l&#39;altra sezione CRM per
 1. Fai clic su **Salva** per salvare l&#39;indirizzo CCN in Sales Connect.
 
    Le e-mail verranno ora registrate in CRM tramite CCN.
-
