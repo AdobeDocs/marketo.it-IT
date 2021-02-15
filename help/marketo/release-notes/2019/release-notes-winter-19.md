@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Note sulla versione -Winter '19 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Inverno '19
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,17 +40,17 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
 * **Supporto del dominio con più marchi per l’API delle risorse:** approvare e clonare risorse produce gli stessi risultati all’interno dell’API e dell’interfaccia utente.
 * **Supporto per e-mail CC per l’API** delle risorse: Gli utenti che duplicano, approvano ed elaborano i messaggi e-mail tramite l&#39;API rimarranno in parità con le impostazioni dell&#39;interfaccia utente.
 
-** [Munchkin v155 (Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Modalità** Solo API: Gli utenti ora possono determinare quando e come monitorare i membri del proprio database consentendo alle app Web a pagina singola di chiamare in modo esplicito quando desiderano registrare una visita a una pagina Web invece di affidarsi al tracciamento automatico di Marketo.
 * **Gestione** del rifiuto: Gestite facilmente le opzioni di rifiuto facendo corrispondere il dominio dei cookie di rinuncia con il dominio dei cookie di tracciamento Munchkin.
-* **Parametro** Decideder a livello di dominio: Domini a due lettere (ad es. &quot;  [website.io](http://website.io)&quot;) verrà tracciato automaticamente in Marketo senza ulteriori requisiti di configurazione.
+* **Parametro** Decideder a livello di dominio: Domini a due lettere (ad es. &quot;  [website.io](https://website.io)&quot;) verrà tracciato automaticamente in Marketo senza ulteriori requisiti di configurazione.
 
 ## Coinvolgimento vendite marketing {#marketo-sales-engage}
 
 * **Profilo** personalizzato Salesforce: Engage di vendita ora supporta un numero illimitato di profili personalizzati.
 
-* **Personalizzazione** Salesforce: Rimuovendo i campi dell&#39;attività personalizzata non critici, gli utenti possono configurare il coinvolgimento delle vendite nella piattaforma CRM in modo più efficiente.
+* **Personalizzazione** Salesforce: Rimuovendo i campi di attività personalizzati non critici, gli utenti possono configurare il coinvolgimento delle vendite nella piattaforma CRM in modo più efficiente.
 * **Servizio** e-mail: Ottenete una migliore recapito e un migliore tracciamento delle risposte, funzionalità e-mail pianificate e funzionalità e-mail in blocco tramite la connessione a Microsoft Outlook (tramite Office365 o On-Prem tramite la scheda Connessione e-mail).
 * **Nuove impostazioni** amministratore: Sono state aggiunte due pagine di amministrazione per ottimizzare l’istanza di coinvolgimento nelle vendite
 
@@ -103,10 +103,10 @@ Per gestire domini e sottodomini in modo più efficiente, gli utenti ora possono
 
 **Aggiornato MME Software Development Kit (SDK) per Android**
 
-Abbiamo aggiornato il nostro SDK per Android a una struttura più moderna, stabile e scalabile che contiene più flessibilità e nuove funzionalità di progettazione. Gli sviluppatori di app Android ora possono utilizzare direttamente l&#39;SDK di Google [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) con questo nuovo SDK.
+Abbiamo aggiornato il nostro SDK per Android a una struttura più moderna, stabile e scalabile che contiene più flessibilità e nuove funzionalità di progettazione. Gli sviluppatori di app Android ora possono utilizzare direttamente l&#39;SDK di Google [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) con questo nuovo SDK.
 
-* [Istruzioni per gli sviluppatori](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Domande frequenti per sviluppatori](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Istruzioni per gli sviluppatori](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Domande frequenti per sviluppatori](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
