@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: Definizione delle regole di segmento - Documenti Marketo - Documentazione prodotto
 title: Definire le regole di segmento
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ La definizione delle regole di segmento consente di classificare le persone in d
    >**Tubo profondo**
    >
    >
-   >Gli elenchi intelligenti sono straordinari. Scopri tutto quello che puoi fare con [Smart Lists and Static Lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Gli elenchi intelligenti sono straordinari. Scopri tutto quello che puoi fare con [Smart Lists and Static Lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Fare clic sulla scheda **Persone (Bozza)** per visualizzare le persone che possono essere considerate membri di questo segmento.
 
@@ -63,7 +63,7 @@ La definizione delle regole di segmento consente di classificare le persone in d
    >Il numero totale di segmenti che è possibile creare in una segmentazione dipende dal numero e dal tipo di filtri utilizzati e anche dalla complessità della logica dei segmenti. Anche se è possibile creare fino a 100 segmenti utilizzando campi standard, l&#39;uso di altri tipi di filtri può aumentare la complessità e la segmentazione potrebbe non essere approvata. Alcuni esempi sono: campi personalizzati, membri dell’elenco, campi del proprietario del lead e fasi delle entrate.
    >
    >
-   >Se durante l&#39;approvazione ricevete un messaggio di errore e richiedete assistenza per ridurre la complessità della segmentazione, contattate il supporto [Marketo](http://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se durante l&#39;approvazione ricevete un messaggio di errore e richiedete assistenza per ridurre la complessità della segmentazione, contattate il supporto [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Controlla il dashboard per una panoramica rapida dei segmenti in un grafico a torta, così come le regole applicate.
 
