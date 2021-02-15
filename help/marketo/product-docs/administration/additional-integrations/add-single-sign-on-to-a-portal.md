@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: Aggiunta di Single Sign-On a un portale - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di Single Sign-On a un portale
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Una volta attivato SSO, l&#39;IdP può convalidare le credenziali di un utente. 
 ## Come inviare la richiesta {#how-to-send-the-request}
 
 * Invia la richiesta SSO, che è una risposta SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Come URL pubblico dell&#39;SP. Utilizzare [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Se utilizzate l&#39;attributo SPNameQualifier, impostate l&#39;elemento NameID per l&#39;elemento Subject su [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Se state federando più iscrizioni Marketo allo stesso provider SSO, potete utilizzare URL SP univoci per ogni sottomodulo Marketo con il formato `http://saml.marketo.com/sp/<munchkin_id>`
+* Come URL pubblico dell&#39;SP. Utilizzare [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Se utilizzate l&#39;attributo SPNameQualifier, impostate l&#39;elemento NameID per l&#39;elemento Subject su [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Se state federando più iscrizioni Marketo allo stesso provider SSO, potete utilizzare URL SP univoci per ogni sottomodulo Marketo con il formato `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
