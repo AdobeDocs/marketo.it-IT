@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: Presenza locale telefono vendita - Documenti Marketo - Documentazione prodotto
 title: Presenza locale telefono di vendita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ No, la presenza locale funziona solo per le chiamate in uscita. Il chiamante non
 
 Offriamo tutte le funzionalità di Sales Phone per le chiamate solo negli Stati Uniti.
 
-**Il numero di presenza locale è sempre lo stesso quando si chiama un prefisso? **
+**Il numero di presenza locale è sempre lo stesso quando si chiama un indicativo di località?**
 
 È probabile che il numero sia sempre lo stesso quando si esegue una chiamata in un prefisso.
 
