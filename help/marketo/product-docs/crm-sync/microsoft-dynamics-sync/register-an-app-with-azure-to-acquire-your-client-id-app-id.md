@@ -3,7 +3,7 @@ unique-page-id: 12983390
 description: Registrazione di un'app con Azure per acquisire l'ID client/ID app - Documenti Marketo - Documentazione prodotto
 title: Registrazione di un'app con Azure per acquisire l'ID client/app
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Azure Active Directory estende le directory locali nel cloud, fornendo supporto 
 
 ## Registrazione di una nuova app {#registering-a-new-app}
 
-1. [Accedere ](http://manage.windowsazure.com/) al portale di gestione di Microsoft Azure utilizzando un account con autorizzazioni di amministratore. È inoltre possibile accedere al portale di Microsoft Azure tramite l&#39;Admin Center di Office 365 espandendo l&#39;elemento **Admin** nel riquadro di navigazione a sinistra e selezionando **Azure AD**.
+1. [Accedere ](https://manage.windowsazure.com/) al portale di gestione di Microsoft Azure utilizzando un account con autorizzazioni di amministratore. È inoltre possibile accedere al portale di Microsoft Azure tramite l&#39;Admin Center di Office 365 espandendo l&#39;elemento **Admin** nel riquadro di navigazione a sinistra e selezionando **Azure AD**.
 
    >[!CAUTION]
    >
