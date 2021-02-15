@@ -3,7 +3,7 @@ unique-page-id: 2951114
 description: Note sulla versione - Giugno 2012 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Giugno 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Tubo profondo**
 >
->Per altre versioni, vedere le [Note sulla versione](http://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
+>Per altre versioni, vedere le [Note sulla versione](https://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
 ## Miglioramenti della gestione dei lead marketing {#marketo-lead-management-enhancements}
 
