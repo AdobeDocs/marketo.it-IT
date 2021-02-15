@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: Report della fase Persone per fatturato - Documenti Marketo - Documentazione prodotto
 title: Report stato Persone per ricavi
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Report stato Persone per ricavi {#people-by-revenue-stage-report}
 
-È possibile creare un rapporto che mostra in quale fase del [modello del ciclo delle entrate](http://docs.marketo.com/display/docs/revenue+cycle+models) si trovano le persone. Il rapporto include qualsiasi fase del modello specificato, purché sia presente un saldo di persona per l&#39;intervallo di date specificato del rapporto.
+È possibile creare un rapporto che mostra in quale fase del [modello del ciclo delle entrate](https://docs.marketo.com/display/docs/revenue+cycle+models) si trovano le persone. Il rapporto include qualsiasi fase del modello specificato, purché sia presente un saldo di persona per l&#39;intervallo di date specificato del rapporto.
 
 >[!AVAILABILITY]
 >
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**Tubo profondo**
    >
    >
-   >Scopri come aggiungere colonne e altro in [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
+   >Scopri come aggiungere colonne e altro in [Reporting di base](https://docs.marketo.com/display/docs/basic+reporting).
 
