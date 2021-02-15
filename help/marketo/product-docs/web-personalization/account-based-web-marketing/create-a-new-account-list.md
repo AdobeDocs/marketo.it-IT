@@ -3,7 +3,7 @@ unique-page-id: 4720232
 description: Creare un nuovo elenco account - Documenti Marketo - Documentazione prodotto
 title: Creare un nuovo elenco account
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Crea e carica un elenco di nomi di organizzazione e dominio per questi account c
 
 >[!NOTE]
 >
->Questo articolo applica solo ai clienti Web ABM legacy. Se avete acquisito Web ABM dopo settembre 2016, seguite i passaggi descritti in [questo articolo](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
+>Questo articolo applica solo ai clienti Web ABM legacy. Se avete acquisito Web ABM dopo settembre 2016, seguite i passaggi descritti in [questo articolo](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
 
 ## Crea nuovo elenco account {#create-a-new-account-list-1}
 
@@ -94,5 +94,5 @@ Il file CSV sostituirà il file esistente. L&#39;elenco esistente rimarrà attiv
 >[!MORELIKETHIS]
 >
 >* [Creazione di un segmento tramite un elenco di account](create-a-segment-using-an-account-list.md)
->* [Visualizzazione di un elenco di account denominato](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [Visualizzazione di un elenco di account denominato](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
 
