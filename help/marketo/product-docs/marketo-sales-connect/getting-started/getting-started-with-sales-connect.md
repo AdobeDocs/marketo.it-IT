@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Guida introduttiva a Sales Connect - Marketo Docs - Documentazione prodotto
 title: Guida introduttiva a Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Facoltativamente, potete anche:
 
 ## Collega l&#39;account di vendita a Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Per collegare il tuo account di Sales Connect al tuo account Salesforce, in qualità di Amministratore o non Amministratore, segui i passaggi descritti in [questo articolo](http://docs.marketo.com/x/JwDb).
+Per collegare il tuo account di Sales Connect al tuo account Salesforce, in qualità di Amministratore o non Amministratore, segui i passaggi descritti in [questo articolo](https://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Dovrai ottenere una serie di credenziali da Marketo. Queste credenziali verranno
 
 Se sul tuo account sono già presenti utenti (in precedenza da ToutApp), questi verranno visualizzati nella scheda **Accesso team** della sezione Marketo di Sales Connect.
 
-Da questa pagina potete eseguire il provisioning del team come utente di Marketing Cloud Sales Connect. Se non avete mai utilizzato ToutApp o dovete ancora invitare gli utenti, seguite i passaggi descritti in [questo articolo](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Da questa pagina potete eseguire il provisioning del team come utente di Marketing Cloud Sales Connect. Se non avete mai utilizzato ToutApp o dovete ancora invitare gli utenti, seguite i passaggi descritti in [questo articolo](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
