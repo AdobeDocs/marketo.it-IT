@@ -3,7 +3,7 @@ unique-page-id: 18317369
 description: Visualizza elenco modelli come un altro utente - Documenti Marketo - Documentazione prodotto
 title: Visualizza elenco modelli come altro utente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -34,4 +34,3 @@ In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente
    >[!NOTE]
    >
    >È inoltre possibile utilizzare i filtri o la funzione di ricerca insieme a Visualizza come per visualizzare il contenuto più rilevante.
-
