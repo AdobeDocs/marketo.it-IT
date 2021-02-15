@@ -3,7 +3,7 @@ unique-page-id: 17727870
 description: Aggiungi sottodomini in Impostazioni account - Documenti Marketo - Documentazione prodotto
 title: Aggiungi sottodomini in Impostazioni account
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -37,5 +37,5 @@ Ecco come aggiungere sottodomini ai domini primari in Impostazioni account. Ques
 
    >[!NOTE]
    >
-   >Se si desidera aggiungere i domini *primari* al proprio account, contattare [Supporto marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
+   >Se si desidera aggiungere i domini *primari* al proprio account, contattare [Supporto marketing](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
 
