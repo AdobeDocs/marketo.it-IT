@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: Filtrare le persone in un report con un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Filtrare le persone in un report con un elenco avanzato
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Utilizzate gli elenchi avanzati per filtrare i rapporti in base ad attributi di 
 
 * [Prestazioni Persone](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Persone per stato](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Stato Persone per entrate](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [Stato Persone per entrate](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [Prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Prestazioni collegamento e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Prestazioni flusso di coinvolgimento](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ Utilizzate gli elenchi avanzati per filtrare i rapporti in base ad attributi di 
    >**Tubo profondo**
    >
    >
-   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
