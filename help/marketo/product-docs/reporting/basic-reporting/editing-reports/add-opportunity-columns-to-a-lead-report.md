@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: Aggiungere colonne opportunità a un report lead - Documenti Marketo - Documentazione prodotto
 title: Aggiungi colonne opportunità a un report lead
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungi colonne opportunità a un report lead {#add-opportunity-columns-to-a-lead-report}
 
-Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](http://docs.marketo.com/display/docs/basic+reporting), puoi aggiungere delle colonne sulle opportunità.
+Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](https://docs.marketo.com/display/docs/basic+reporting), puoi aggiungere delle colonne sulle opportunità.
 
 1. Andate all&#39;area **Attività di marketing**.
 
@@ -77,5 +77,5 @@ Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](
    >**Tubo profondo**
    >
    >
-   >Scopri cos&#39;altro puoi fare con i report nel profondo [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Scopri cos&#39;altro puoi fare con i report nel profondo [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
