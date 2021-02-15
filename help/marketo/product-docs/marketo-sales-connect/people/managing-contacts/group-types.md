@@ -3,7 +3,7 @@ unique-page-id: 30081321
 description: Tipi di gruppi - Documenti Marketo - Documentazione prodotto
 title: Tipi di gruppi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Scopri i diversi tipi di gruppi in Sales Connect.
   </tr> 
  </tbody> 
 </table>
-
