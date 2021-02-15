@@ -3,7 +3,7 @@ unique-page-id: 4720257
 description: Aggiungere audience personalizzate Facebook come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiungere audience personalizzate di Facebook come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Con questa integrazione potete inviare i dati del pubblico da Marketo agli elenc
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Aprite una nuova scheda nello stesso browser e passate a [facebook.com](http://www.facebook.com/). Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
+1. Aprite una nuova scheda nello stesso browser e passate a [facebook.com](https://www.facebook.com/). Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
 
    >[!CAUTION]
    >
