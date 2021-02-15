@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Creazione di un evento con  Adobe Connect - Marketo Docs - Documentazione prodotto
 title: Creare un evento con  Adobe Connect
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -21,7 +21,7 @@ La sincronizzazione con  Adobe Connect consente di gestire la registrazione e la
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Innanzitutto, accertatevi di aver creato la riunione o il seminario in  Adobe Connect. Per assistenza, consultare la [ Guida utente di Adobe Connect](http://help.adobe.com/en_US/connect/9.0/using/index.html). Le riunioni e i seminari creati in  Adobe Connect devono essere creati nella cartella specificata al momento dell&#39;immissione delle credenziali in Marketo. Dopo aver creato la riunione o il seminario, prendete nota di tutte le informazioni logistiche rilevanti (come il numero di telefono), da utilizzare nel file di conferma e-mail e ICS.
+Innanzitutto, accertatevi di aver creato la riunione o il seminario in  Adobe Connect. Per assistenza, consultare la [ Guida utente di Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html). Le riunioni e i seminari creati in  Adobe Connect devono essere creati nella cartella specificata al momento dell&#39;immissione delle credenziali in Marketo. Dopo aver creato la riunione o il seminario, prendete nota di tutte le informazioni logistiche rilevanti (come il numero di telefono), da utilizzare nel file di conferma e-mail e ICS.
 
 >[!NOTE]
 >
