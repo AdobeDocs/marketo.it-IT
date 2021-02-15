@@ -3,9 +3,9 @@ unique-page-id: 14352510
 description: Modelli consigliati - Documenti Marketo - Documentazione prodotto
 title: Modelli consigliati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ ht-degree: 0%
 I modelli consigliati di Sales Connect consentono di ricevere i messaggi corretti e di risparmiare tempo. Questo consente un flusso maggiore nell&#39;invio delle e-mail e riduce l&#39;incertezza quando si cerca di trovare l&#39;e-mail giusta per la persona giusta.
 
 1. Vai alla scheda Modelli.
+
 1. Selezionate il modello da raccomandare e fate clic su **Modifica**.
+
 1. Per abilitare la funzionalità Modello consigliato nel modello, selezionare **Suggerisci automaticamente questo modello quando**.
 
 ## Tutti rispetto a qualsiasi {#all-vs-any}
@@ -25,7 +27,7 @@ Ora è il momento di selezionare le impostazioni dei criteri. Selezionare **All*
 
 ## Impostazione dei criteri {#setting-criteria}
 
-I criteri imposteranno le condizioni per i quali i modelli saranno raccomandati. Potete impostare un massimo di 3 elementi di criteri. Selezionare innanzitutto i [Campi dinamici](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) ai quali si desidera indicare il punto nel modello.
+I criteri imposteranno le condizioni per i quali i modelli saranno raccomandati. Potete impostare un massimo di 3 elementi di criteri. Selezionare innanzitutto i campi dinamici a cui si desidera indirizzare il modello.
 
 ## Condizioni {#conditions}
 
@@ -41,6 +43,6 @@ Ora, seleziona la tua condizione. Una volta soddisfatte le condizioni per il cam
 
 ## Aspetto Di Un Modello Consigliato {#what-a-recommended-template-looks-like}
 
-Dopo aver impostato i criteri, salvate il modello. Da qui, il servizio di vendita di Connect farà il suo lavoro magico per presentare i modelli migliori per voi.\
-Ora che hai mappato il primo modello, è ora di mappare il resto. Scorrete i modelli di maggior successo e consigliateli. Non dimenticate di condividere il modello anche con il vostro team. Le impostazioni consigliate per qualsiasi modello verranno condivise tra i membri del team.
+Dopo aver impostato i criteri, salvate il modello. Da qui, il servizio di vendita di Connect farà il suo lavoro magico per presentare i modelli migliori per voi.
 
+Ora che hai mappato il primo modello, è ora di mappare il resto. Scorrete i modelli di maggior successo e consigliateli. Non dimenticate di condividere il modello anche con il vostro team. Le impostazioni consigliate per qualsiasi modello verranno condivise tra i membri del team.
