@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Informazioni sull'area di analisi e-mail - Documenti Marketo - Documentazione prodotto
 title: Informazioni sull’area di analisi e-mail
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,7 +18,7 @@ L&#39;area Analisi e-mail si concentra sulle metriche delle e-mail. Questo artic
 >[!AVAILABILITY]
 >
 >
->Questa funzione è disponibile per gli utenti con il componente aggiuntivo Select Edition o [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Per informazioni, contattate il rappresentante commerciale.
+>Questa funzione è disponibile per gli utenti con il componente aggiuntivo Select Edition o [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Per informazioni, contattate il rappresentante commerciale.
 
 ## Griglia di calore attività Click per e-mail {#email-click-activity-heat-grid}
 
