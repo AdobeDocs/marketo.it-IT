@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: Installazione e configurazione di Marketing Sales Insight in Microsoft Dynamics Online - Marketo Docs - Documentazione prodotto
 title: Installazione e configurazione di Marketing Sales Insight in Microsoft Dynamics Online
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
 
 >[!PREREQUISITES]
 >
->Completate l&#39;integrazione [Marketo-Microsoft](http://docs.marketo.com/x/E4A2).
+>Completate l&#39;integrazione tra Marketo e Microsoft.
 >
->[Scarica la ](http://docs.marketo.com/x/LoJo) soluzione corretta per la versione di Microsoft Dynamics CRM in uso.
+>[Scarica la ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) soluzione corretta per la versione di Microsoft Dynamics CRM in uso.
 
 ## Soluzione di importazione {#import-solution}
 
@@ -31,7 +31,7 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. In IMPOSTAZIONI, fare clic su **Personalizzazioni**.
+1. In Impostazioni, fate clic su **Personalizzazioni**.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
@@ -40,9 +40,6 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Prima di procedere, avresti già installato e configurato la soluzione Marketo.
 
@@ -55,6 +52,7 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. Sul computer, trovate e installate la soluzione che avete appena scaricato.
+
 1. Fare clic su **Next**.
 
    ![](assets/seven.png)
@@ -89,7 +87,7 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Di seguito vi
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedi a Marketo e vai alla sezione **Admin **it.
+1. Accedete a Marketo e andate alla sezione **Admin**.
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
@@ -107,17 +105,14 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Di seguito vi
 
    >[!NOTE]
    >
-   >Per il funzionamento di *Lead e Contact*, è necessario sincronizzare i campi seguenti con Marketo:
+   >Per il funzionamento di _Lead e Contact_, è necessario sincronizzare i campi seguenti con Marketo:
    >
-   >    
-   >    
-   >    * Priorità
-   >    * Urgenza
-   >    * Punteggio relativo
+   >* Priorità
+   >* Urgenza
+   >* Punteggio relativo
 
-   >    
-   >    
-   >Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, eseguire [questa procedura](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >
+   >Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, eseguire [questa procedura](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. In Microsoft Dynamics, passare a **Impostazioni**.
 
@@ -153,7 +148,7 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Di seguito vi
 
    ![](assets/enable-four.png)
 
-1. In questo modo *automaticamente* verranno selezionati i campi MSI precedentemente disabilitati (Urgenza, Punteggio relativo e Priorità). È sufficiente fare clic su **Salva** per avviare la sincronizzazione dei dati.
+1. In questo modo _automaticamente_ verranno selezionati i campi MSI precedentemente disabilitati (Urgenza, Punteggio relativo e Priorità). È sufficiente fare clic su **Salva** per avviare la sincronizzazione dei dati.
 
    ![](assets/enable-five.png)
 
@@ -187,5 +182,4 @@ Infine, è necessario consentire a utenti specifici l&#39;accesso per utilizzare
 
 >[!MORELIKETHIS]
 >
->[Impostazione di stelle e fiamme per i record lead/contatto](http://docs.marketo.com/x/BICMAg)
-
+>[Impostazione di stelle e fiamme per i record lead/contatto](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
