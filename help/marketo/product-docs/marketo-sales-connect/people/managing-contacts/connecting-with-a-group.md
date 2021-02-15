@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: Collegamento con un gruppo - Marketo Docs - Documentazione prodotto
 title: Connessione con un gruppo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Scoprite come inviare un messaggio e-mail a un intero gruppo o aggiungere un gru
 
    >[!NOTE]
    >
-   >Potresti visualizzare un&#39;opzione da aggiungere a una campagna Marketo. [È un altro articolo](http://docs.marketo.com/x/CwDh).
+   >Potresti visualizzare un&#39;opzione da aggiungere a una campagna Marketo. [È un altro articolo](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md).
 
 1. Selezionate una campagna (potete selezionare una categoria per limitare i risultati) e fate clic su **Next**.
 
@@ -60,4 +60,3 @@ Scoprite come inviare un messaggio e-mail a un intero gruppo o aggiungere un gru
 1. Pianificare la campagna e fare clic su **Start**.
 
    ![](assets/nine-1.png)
-
