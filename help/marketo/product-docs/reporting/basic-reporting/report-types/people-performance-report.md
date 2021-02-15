@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: Rapporto sulle prestazioni delle persone - Documenti Marketo - Documentazione del prodotto
 title: Report Prestazioni Persone
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ I report sulle prestazioni delle persone sono molto potenti. Raggruppandoli, fil
 
 >[!TIP]
 >
->Ricorda che i report sono facili da [creare](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurare](http://docs.marketo.com/display/docs/basic+reporting) e [eliminare](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Fai clic qui per giocare con i molti modi in cui puoi manipolarli, per scoprire i modi migliori per concentrarti sui dati chiave.
+>Ricorda che i report sono facili da [creare](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurare](https://docs.marketo.com/display/docs/basic+reporting) e [eliminare](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Fai clic qui per giocare con i molti modi in cui puoi manipolarli, per scoprire i modi migliori per concentrarti sui dati chiave.
 
 >[!NOTE]
 >
 >**Tubo profondo**
 >
 >
->Ulteriori informazioni sono disponibili nella [Creazione di report di base](http://docs.marketo.com/display/docs/basic+reporting)immersione profonda.
+>Ulteriori informazioni sono disponibili nella [Creazione di report di base](https://docs.marketo.com/display/docs/basic+reporting)immersione profonda.
 
