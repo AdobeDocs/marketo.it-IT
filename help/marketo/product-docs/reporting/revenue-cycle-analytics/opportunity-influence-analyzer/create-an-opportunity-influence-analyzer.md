@@ -3,7 +3,7 @@ unique-page-id: 2360235
 description: Creare un analizzatore di influenza opportunità - Documenti Marketo - Documentazione prodotto
 title: Creare un analizzatore di influenza opportunità
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -75,5 +75,5 @@ Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contribu
 >
 >**Tubo profondo**
 >
->Per gli altri analizzatori, vedere [Reporting di base](http://docs.marketo.com/display/docs/basic+reporting).
+>Per gli altri analizzatori, vedere [Reporting di base](https://docs.marketo.com/display/docs/basic+reporting).
 
