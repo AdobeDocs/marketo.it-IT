@@ -3,9 +3,9 @@ unique-page-id: 14352438
 description: Panoramica del telefono di vendita - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del telefono di vendita
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **Presenza locale:** dovrete solo controllare &quot;use local presence&quot; (usa presenza locale) e registrare la chiamata per la prima chiamata. In Sales Connect vengono memorizzate le impostazioni per tutte le chiamate future.
 
-Se desiderate che Sales Connect crei automaticamente un&#39;attività di chiamata in Salesforce, controllate [questo articolo](http://docs.marketo.com/x/joLS).
+Se desiderate che Sales Connect crei automaticamente un&#39;attività di chiamata in Salesforce, controllate [questo articolo](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
 ## Come si effettua una chiamata con il telefono di vendita? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ In Centro comandi, puoi utilizzare l&#39;elenco delle chiamate dalla scheda invi
 
 Una volta raggiunta la chiamata o effettuata una chiamata, il Sales Connect effettua il pulling del numero di telefono del lead/contatto da Salesforce. Se in Salesforce non è elencato alcun numero, Sales Connect recupererà il numero di telefono del record dell&#39;account.
 
-Per i team che utilizzano altri CRMS, Sales Connect estrae il numero di telefono dal numero registrato in Sales Connect. Questi dati possono essere facilmente disponibili tramite un [caricamento CSV](http://docs.marketo.com/x/HIPS).
+Per i team che utilizzano altri CRMS, Sales Connect estrae il numero di telefono dal numero registrato in Sales Connect. Questi dati possono essere facilmente disponibili tramite un [caricamento CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 Premere il grande tasto **Call** verde. Il telefono inizierà a suonare. Il telefono e il reparto vendite chiameranno automaticamente il lead/contatto.
