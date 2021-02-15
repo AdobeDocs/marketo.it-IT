@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmenti Web - Documenti Marketo - Documentazione prodotto
 title: Segmenti Web
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -108,23 +108,27 @@ Definite i parametri generali per il segmento:
 >1. Usa tutti i filtri (1, 2 e 3...)
 >1. Usare eventuali filtri (1, 2 o 3...)
 >1. Filtri avanzati (uso e/o espressioni)
->
->    I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
->
->    * 1 e 2 e 3
->    * 1 o 2 o 3
->
->    La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
->
->    * 1 e (2 o 3)
->    * (1 e 2) o 3
->
->    Le parentesi nidificate sono accettate per logica più complessa, ad esempio
->
->    * (1 e 2) o (3 e 4)
->    * 1 e 2 o 3 e 4)
->
->    Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
+
+   >
+   >    
+   I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
+   >
+   >    
+   * 1 e 2 e 3
+   >    * 1 o 2 o 3
+
+   >
+   La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
+
+   * 1 e (2 o 3)
+   * (1 e 2) o 3
+
+   Le parentesi nidificate sono accettate per logica più complessa, ad esempio
+
+   * (1 e 2) o (3 e 4)
+   * 1 e 2 o 3 e 4)
+
+   Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
 
 
 
@@ -148,7 +152,7 @@ Trascinare **Location** nell&#39;editor segmenti.
 
 Una volta aggiunto il paese, puoi specificare anche lo stato, la città e il codice postale del segmento.
 
-* **Selezionare Stato o Provincia da aggiungere**  - Dalla casella a discesa, selezionare lo stato USA o la Provincia canadese che si desidera includere. Potete effettuare più selezioni.
+* **Selezionare Stato o Provincia da aggiungere**  - Dalla casella a discesa, selezionare lo stato degli Stati Uniti o la Provincia canadese che si desidera includere. Potete effettuare più selezioni.
 * **CAP** : immettete il codice postale da includere nel segmento.
 * **Città**  - Entra nella città o nelle città che desideri includere. Usate il punto e virgola tra le città.
 
@@ -186,13 +190,13 @@ Nella sezione **Segmentazione profilo**, selezionare la casella accanto a **Grup
 
 **Elenco account denominato**
 
-Seleziona da un [elenco account denominato](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) per segmentare i principali account di destinazione
+Seleziona da un [elenco account denominato](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) per segmentare i principali account con targeting
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->Il numero tra parentesi accanto al nome dell&#39;elenco di account denominato viene utilizzato come riferimento di indice per l&#39;elenco per la personalizzazione Web [Leggi API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Il numero tra parentesi accanto al nome dell&#39;elenco di account denominato viene utilizzato come riferimento di indice per l&#39;elenco per la personalizzazione Web [Leggi API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Escludi ISP**
 
@@ -225,7 +229,7 @@ Puoi aggiungere o rimuovere i campi dati persona da Impostazioni account > Datab
 Definite il segmento in base allo stato di un potenziale: conosciuto o anonimo.
 
 * Nota: selezionate questa opzione dalla casella a discesa per i visitatori noti. Un visitatore è noto quando invia un modulo sul sito Web e viene visualizzato nella pagina Persone di Web Personalization.
-* Anonimo - Selezionate questa opzione dal menu a discesa per i visitatori anonimi.
+* Anonimo - Selezionate questa opzione dall&#39;elenco a discesa per i visitatori anonimi.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
@@ -239,7 +243,7 @@ Definite il segmento in base allo stato di un potenziale: conosciuto o anonimo.
 
 * Visite specifiche - Selezionate questa opzione dalla casella a discesa per specificare un visitatore specifico.
 
-   * Nella casella di testo a destra, immettete il numero del visitatore da monitorare. Il numero identificativo del visitatore di Web Personalization (Personalizzazione Web) univoco si trova quando si fa clic su un visitatore (nella pagina dei visitatori) e sul pannello di destra di Set Campaign. L’ID visitatore si trova nella sezione Impostazioni avanzate. L’ID visitatore si trova anche nell’URL (ad esempio, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+   * Nella casella di testo a destra, inserite il numero del visitatore da monitorare. Il numero identificativo del visitatore di Web Personalization (Personalizzazione Web) univoco si trova quando si fa clic su un visitatore (nella pagina dei visitatori) e sul pannello di destra di Set Campaign. L’ID visitatore si trova nella sezione Impostazioni avanzate. L’ID visitatore si trova anche nell’URL (ad esempio, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Termini**  di ricerca - Consente di definire un segmento in base ai termini di ricerca di un potenziale.
 
@@ -292,11 +296,11 @@ Aggiungete il valore Evento a cui desiderate destinare. Ad esempio, da origini d
 
 **API Context utente**
 
-Chiamata API di personalizzazione Web [maggiori informazioni su di essa.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Chiamata API di personalizzazione Web [maggiori informazioni su di essa.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Utilizzo di caratteri jolly -** Quando si desidera includere qualsiasi termine di ricerca o URL che contenga elementi al suo interno, ad esempio &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito con un asterisco - questo piccolo ragazzo* - su ogni estremità. Pertanto, qualsiasi cosa proveniente da [google.com](http://google.com) deve essere inserita come * [google.com](http://google.com)*
+>**Utilizzo di caratteri jolly -** Quando si desidera includere qualsiasi termine di ricerca o URL che contenga elementi al suo interno, ad esempio &quot;[google.com](https://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito con un asterisco - questo piccolo ragazzo* - su ogni estremità. Pertanto, qualsiasi cosa proveniente da [google.com](https://google.com) deve essere inserita come * [google.com](https://google.com)*
 
 ## Modifica segmenti {#edit-segments}
 
