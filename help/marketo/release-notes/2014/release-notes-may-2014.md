@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: Note sulla versione - Maggio 2014 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Maggio 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Ora tutti ricevono più programmi, flussi e limiti di comunicazione.
 >
 >**Esempio**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 Per impostazione predefinita, nella versione di testo delle e-mail non viene tracciato alcun collegamento. Aggiungi questa nuova sintassi per indicare quando un collegamento deve essere convertito in un collegamento di tracciamento. Il comportamento dei collegamenti HTML non subisce modifiche.  Per aggiungere collegamenti tracciati alle e-mail:
 
@@ -85,5 +85,5 @@ Modeler del ciclo delle entrate e Analizzatore del percorso di successo sono ora
 
 >[!NOTE]
 >
->Note sulla versione precedente [Marketo](http://docs.marketo.com/display/docs/release+notes)
+>Note sulla versione precedente [Marketo](https://docs.marketo.com/display/docs/release+notes)
 
