@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: Note sulla versione -Gennaio 2015 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - gennaio 2015
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Tre nuove chiamate per l&#39;API Lead &amp; Activity ReST:
 * Ottieni lead per ID programma
 * Ottieni lead eliminati
 
-Inoltre, esiste una nuova opzione per Sinc. lead, per scrivere la modifica del lead in modo asincrono per una chiamata API più veloce. I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [developers.marketo.com](http://developers.marketo.com)
+Inoltre, esiste una nuova opzione per Sinc. lead, per scrivere la modifica del lead in modo asincrono per una chiamata API più veloce. I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [developers.marketo.com](https://developers.marketo.com)
 
 **Supporto per oggetti personalizzati con script e-mail**
 
@@ -59,13 +59,13 @@ I miglioramenti al modulo Account denominati miglioreranno i tassi di corrispond
 
 Opzioni tag RTP aggiornate
 
-[Le opzioni ](http://docs.marketo.com/display/docs/rtp+tag+implementation) tag RTP in Impostazioni account sono state aggiornate per includere:
+[Le opzioni ](https://docs.marketo.com/display/docs/rtp+tag+implementation) tag RTP in Impostazioni account sono state aggiornate per includere:
 
 1. CDN e asincrono (tag consigliato)
 1. CDN e sincrono (alta velocità)
 1. Tag asincrono senza CDN
 1. Tag sincrono senza CDN
 
-Per ottenere migliori prestazioni, si consiglia di posizionare il tag nella parte superiore dell&#39;intestazione nella pagina Web dopo `<head>`. Tutti i tag consentono l&#39;utilizzo dell&#39;API [RTP](http://developers.marketo.com/documentation/websites/rtp-js-api/). Per informazioni su come distribuire il tag RTP, vedere [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Per ottenere migliori prestazioni, si consiglia di posizionare il tag nella parte superiore dell&#39;intestazione nella pagina Web dopo `<head>`. Tutti i tag consentono l&#39;utilizzo dell&#39;API [RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Per informazioni su come distribuire il tag RTP, vedere [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
