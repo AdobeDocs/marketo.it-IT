@@ -3,7 +3,7 @@ unique-page-id: 14352503
 description: Modelli condivisi - Documenti Marketo - Documentazione prodotto
 title: Modelli condivisi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -19,9 +19,8 @@ Se utilizzi uno dei nostri account team, per impostazione predefinita tutti i mo
 
 ## Come trovare i modelli condivisi {#how-to-find-shared-templates}
 
-I modelli condivisi con voi verranno visualizzati nell&#39;intestazione **Team Templates **sul lato sinistro della pagina Templates (Modelli).
+I modelli condivisi con voi verranno visualizzati nell&#39;intestazione **Modelli team** a sinistra della pagina Modelli.
 
 >[!NOTE]
 >
 >I team sono disponibili solo per gli utenti Premium.
-
