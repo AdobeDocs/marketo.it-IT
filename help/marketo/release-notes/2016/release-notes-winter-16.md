@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: Note sulla versione -Winter '16 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Inverno '16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Note sulla versione: Inverno &#39;16 {#release-notes-winter}
+# Note sulla versione: Inverno &#39;17 {#release-notes-winter}
 
 Le seguenti funzionalità sono incluse nella release invernale &#39;16. Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione.
 
@@ -49,13 +49,13 @@ Per utilizzare questa funzione, il programma e-mail deve essere pianificato alme
 
 ## [Miglioramenti di Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Supporto PhoneGap:** ora offriamo il supporto PhoneGap per la vostra app mobile. [Ulteriori](http://developers.marketo.com/documentation/mobile/phonegap-plugin/) informazioni.
+**Supporto PhoneGap:** ora offriamo il supporto PhoneGap per la vostra app mobile. [Ulteriori](https://developers.marketo.com/documentation/mobile/phonegap-plugin/) informazioni.
 
 **Supporto per le app** sandbox:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API del programma](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [API del programma](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Creare, aggiornare e duplicare i programmi tramite REST API. Ciò non include la creazione o l&#39;aggiornamento di elenchi smart e campagne intelligenti all&#39;interno di un programma.
 
