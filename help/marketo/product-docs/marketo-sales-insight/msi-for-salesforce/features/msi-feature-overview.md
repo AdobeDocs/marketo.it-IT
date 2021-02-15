@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Panoramica delle funzioni MSI - Documenti Marketo - Documentazione del prodotto
 title: Panoramica delle funzioni MSI
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Il pannello MSI Visualforce include le seguenti funzionalità:
 
 * Schede
 
-   * [Pannello Insights](http://docs.marketo.com/x/EoGMAg)
+   * [Pannello Insights](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Momento interessante
    * Attività Web
    * E-mail
@@ -170,7 +170,7 @@ Salesforce Classic: Aggiungi a elenco di controllo, Aggiungi a campagna Marketo 
 
 >[!MORELIKETHIS]
 >
->[Scheda Configurazione analisi vendite Marketo in Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Scheda Configurazione analisi vendite Marketo in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Report sulle prestazioni di Sales Insight {#sales-insight-performance-reports}
 
