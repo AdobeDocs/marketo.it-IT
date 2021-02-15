@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: Note sulla versione - Luglio 2014 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Luglio 2014
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 
 ## Operazioni elenco nell&#39;API ReST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le chiamate di seguito relative alle operazioni di elenco in ReST. Per la documentazione completa, vedere [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
+Abbiamo aggiunto le chiamate di seguito relative alle operazioni di elenco in ReST. Per la documentazione completa, vedere [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 * Ottieni elenco per ID
 * Ottenere più elenchi
@@ -78,7 +78,7 @@ La pagina Campagna Set RTP ora [include modelli già pronti](/help/marketo/produ
 
 ## RTP: Miglioramenti delle API JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere dati visitatore in tempo reale, come organizzazione, settore, posizione e corrispondenza del codice del segmento. Inoltre, quando si passa il puntatore del mouse sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comandi che mostra il codice del segmento. Consulta il nostro [sito per sviluppatori](http://developers.marketo.com/documentation/websites/rtp-js-api/) per la documentazione completa.
+Nuova chiamata API RTP per ottenere dati visitatore in tempo reale, come organizzazione, settore, posizione e corrispondenza del codice del segmento. Inoltre, quando si passa il puntatore del mouse sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comandi che mostra il codice del segmento. Consulta il nostro [sito per sviluppatori](https://developers.marketo.com/documentation/websites/rtp-js-api/) per la documentazione completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
