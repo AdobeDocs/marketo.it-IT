@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: Note sulla versione - Estate '16 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Estate '16
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella release Estate &#39;16. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo. Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione.
 
-## [Marketing basato su account](http://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [Marketing basato su account](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Marketing basato su account Marketo fornisce tutti gli elementi essenziali in un&#39;unica piattaforma unificata:
 
@@ -29,7 +29,7 @@ Marketing basato su account Marketo fornisce tutti gli elementi essenziali in un
 >
 >ABM è disponibile come componente aggiuntivo per l&#39;abbonamento a Marketo, quindi contattate il rappresentante commerciale per richiedere l&#39;implementazione.
 
-## [Audit Trail](http://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [Audit Trail](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
 
 L&#39;audit trail fornisce una cronologia completa delle modifiche apportate all&#39;interno dell&#39;iscrizione Marketo. Creerà responsabilità tra utenti e amministratori, aiuterà a identificare la causa di comportamenti imprevisti e fornirà la sicurezza di sapere chi sta facendo cosa e quando. Queste informazioni saranno disponibili in qualsiasi momento e potranno essere utilizzate per rispondere a domande quali:
 
@@ -39,7 +39,7 @@ L&#39;audit trail fornisce una cronologia completa delle modifiche apportate all
 
 ![](assets/audit-trail.png)
 
-## [Integrazione di Marketo-Vibes SMS LaunchPoint](http://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Integrazione di Marketo-Vibes SMS LaunchPoint](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
 
 Crea facilmente messaggi SMS direttamente da Marketo. Personalizza e indirizza il tuo messaggio utilizzando i dati rich Marketo e controllane facilmente le prestazioni utilizzando il dashboard dei messaggi SMS.
 
@@ -72,7 +72,7 @@ Utilizzate la nuova funzionalità di ricerca per trovare e sostituire in modo ef
 
 I token possono ora essere utilizzati nell&#39;area &quot;URL esterno&quot; dell&#39;esperienza di inserimento immagine! Se avete specificato delle immagini con `{{my.tokens}}`, ora potete fare riferimento a questi token all&#39;interno di Editor e-mail 2.0. L’immagine apparirà comunque interrotta nel quadro di Email Editor 2.0. Tuttavia, prima di inviare l’e-mail visualizzerete il rendering all’interno di Preview e Send Sample.
 
-## [Più domini marchio](http://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## [Più domini marchio](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
 
 Sono finiti i giorni in cui i collegamenti di tracciamento delle e-mail potevano essere contrassegnati solo con un singolo dominio di marchio. Ora puoi aggiungere più domini di branding per ispirare la fiducia dei consumatori, creare un look più semplice per concentrarti sul marchio, migliorare la recapito delle e-mail e scegliere, in base alle e-mail, quale dominio di branding utilizzare per i collegamenti di tracciamento delle e-mail.
 
@@ -100,11 +100,11 @@ Specificate un ritardo per la reazione delle campagne Web sul sito Web.
 
 Visualizzare l&#39;analisi del contenuto e i dati delle raccomandazioni offline.
 
-## [Supporto API per Email Editor 2.0](http://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [Supporto API per Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Le API delle risorse preesistenti, precedentemente compatibili solo con e-mail e modelli v1.0, ora sono abilitate per le risorse e-mail v2.0.
 
-## [Sito per sviluppatori Marketo](http://developers.marketo.com/) {#marketo-developers-site}
+## [Sito per sviluppatori Marketo](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nuovo e migliorato!
 
