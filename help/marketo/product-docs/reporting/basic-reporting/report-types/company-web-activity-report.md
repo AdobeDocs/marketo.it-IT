@@ -3,7 +3,7 @@ unique-page-id: 2360005
 description: Report attività Web società - Documenti Marketo - Documentazione prodotto
 title: Report attività Web società
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -78,4 +78,4 @@ Create un report sull&#39;attività di [pagina Web](web-page-activity-report.md)
 >
 >**Tubo profondo**
 >
->Ulteriori informazioni su altri report interessanti nella sezione [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+>Scopri ulteriori informazioni su altri report interessanti nella sezione [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
