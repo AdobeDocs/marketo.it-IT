@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: Note sulla versione -Gennaio 2014 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - gennaio 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Note sulla versione: Gennaio 2014 {#release-notes-january}
 
-Le seguenti funzionalità sono incluse nella release di gennaio 2014. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](http://www.marketo.com/pricing/).
+Le seguenti funzionalità sono incluse nella release di gennaio 2014. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](https://www.marketo.com/pricing/).
 
 ## Forms 2.0 {#forms}
 
-Punti in alto: La documentazione per Forms 2.0 sarà disponibile a breve. Nel frattempo, scopri di più qui sotto e nel [video introduttivo](http://docs.marketo.com/display/docs/forms)!
+Punti in alto: La documentazione per Forms 2.0 sarà disponibile a breve. Nel frattempo, scopri di più qui sotto e nel [video introduttivo](https://docs.marketo.com/display/docs/forms)!
 
-È possibile controllare il processo di creazione dei moduli e interrompere gli sviluppatori Web. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 è progettato per consentire agli esperti di marketing di creare moduli potenti sia dal punto di vista visivo che funzionale, senza bisogno di conoscenze sulla programmazione.
+È possibile controllare il processo di creazione dei moduli e interrompere gli sviluppatori Web. [Forms](https://docs.marketo.com/display/docs/forms) 2.0 è progettato per consentire agli esperti di marketing di creare moduli potenti sia dal punto di vista visivo che funzionale, senza bisogno di conoscenze sulla programmazione.
 
 **Dare al proprio Forms il makeover visivo che meritano:**
 
@@ -38,7 +38,7 @@ Sono finiti i giorni in cui è stato rimosso il codice HTML dai moduli posiziona
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Ulteriori informazioni sono disponibili nel video introduttivo di [Forms 2.0](http://docs.marketo.com/display/docs/forms). (La documentazione arriva al [Forms](http://docs.marketo.com/display/docs/forms) immersione profonda presto!)
+Ulteriori informazioni sono disponibili nel video introduttivo di [Forms 2.0](https://docs.marketo.com/display/docs/forms). (La documentazione arriva al [Forms](https://docs.marketo.com/display/docs/forms) immersione profonda presto!)
 
 ## Limiti di comunicazione per il programma e-mail {#communication-limits-for-email-program}
 
