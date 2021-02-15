@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Abilita registrazione chiamate - Documenti Marketo - Documentazione prodotto
 title: Abilita registrazione chiamate
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ In qualità di amministratore potete abilitare la registrazione delle chiamate p
 
    ![](assets/three.png)
 
-1. Se desiderate dare ai venditori la possibilità di abilitare o disabilitare la registrazione delle chiamate per se stessi, fate clic su** Registrazione facoltativa per tutti i membri del team. **Se desideri che tutte le chiamate vengano registrate automaticamente,** fai clic su Registra tutte le chiamate.**
+1. Se desiderate dare ai venditori la possibilità di abilitare o disabilitare la registrazione delle chiamate per se stessi, fate clic su **Registrazione facoltativa per tutti i membri del team**. Se desiderate che tutte le chiamate vengano registrate automaticamente, fate clic su **Registra tutte le chiamate**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Impostazioni di consenso di due parti](http://docs.marketo.com/x/dgC1Ag)
-
+>[Impostazioni di consenso di due parti](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
