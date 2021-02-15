@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: Aggiungi la scheda Marketing Sales Insight e i pulsanti a Salesforce - Marketo Docs - Documentazione prodotto
 title: Aggiungi la scheda Marketing Sales Insight e i pulsanti a Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Puoi aggiungere la scheda Marketing a Sales Insight personalizzata e pulsanti al
 
 ## Aggiunta della scheda Marketo {#adding-the-marketo-tab}
 
-1. Fare clic su** + **e fare clic su **Personalizza schede**.
+1. Fare clic su **+** e fare clic su **Personalizza schede**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ Puoi aggiungere pulsanti Marketo ai tuoi layout Salesforce. Esempio:
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Fare clic su **Modifica** nella riga **Visualizzazione elenco lead*.
+1. Fare clic su **Modifica** nella riga **Visualizzazione elenco lead**.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
