@@ -3,9 +3,9 @@ unique-page-id: 7513865
 description: Installazione e configurazione di Marketing Sales Insight in Microsoft Dynamics 2015 - Marketo Docs - Documentazione prodotto
 title: Installazione e configurazione di Marketing Sales Insight in Microsoft Dynamics 2015
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
 
 >[!PREREQUISITES]
 >
->Completate l&#39;integrazione [Marketo-Microsoft](http://docs.marketo.com/x/ZwBd).
+>Completate l&#39;integrazione tra Marketo e Microsoft.
 >
->[Scarica la ](http://docs.marketo.com/x/LoJo) soluzione corretta per la versione di Microsoft Dynamics CRM in uso.
+>[Scarica la ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) soluzione corretta per la versione di Microsoft Dynamics CRM in uso.
 
 ## Soluzione di importazione {#import-solution}
 
@@ -38,9 +38,6 @@ OK, ora è ora di importare la soluzione Marketing to Sales Insight in Microsoft
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Prima di procedere, avresti già installato e configurato la soluzione Marketo.
 
@@ -84,7 +81,7 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Di seguito vi
 >
 >Diritti di amministratore richiesti.
 
-1. Accedi a Marketo e vai alla sezione **Admin **Admin.
+1. Accedete a Marketo e andate alla sezione **Admin**.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
@@ -104,15 +101,12 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Di seguito vi
    >
    >Per il funzionamento di *Lead e Contact*, è necessario sincronizzare i campi seguenti con Marketo:
    >
-   >    
-   >    
-   >    * Priorità
-   >    * Urgenza
-   >    * Punteggio relativo
+   >* Priorità
+   >* Urgenza
+   >* Punteggio relativo
 
-   >    
-   >    
-   >Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, eseguire [questa procedura](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >
+   >Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, eseguire [questa procedura](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. In Microsoft Dynamics, passare a **Impostazioni**.
 
@@ -162,5 +156,4 @@ Ora hai sbloccato la potenza di Marketing Sales Insight per il tuo team di vendi
 
 >[!MORELIKETHIS]
 >
->[Impostazione di stelle e fiamme per i record lead/contatto](http://docs.marketo.com/x/BICMAg)
-
+>[Impostazione di stelle e fiamme per i record lead/contatto](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
