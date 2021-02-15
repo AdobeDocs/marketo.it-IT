@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: Filtrare in approfondimenti e-mail - Documenti Marketo - Documentazione prodotto
 title: Filtrare nel dettaglio delle e-mail
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Scegli tra intervalli di date predefiniti comuni, seleziona date specifiche e ut
 
 ## Marketing basato su account {#account-based-marketing}
 
-Se utilizzate [Account Based Marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), sono disponibili filtri specifici.
+Se utilizzate [Account Based Marketing](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), sono disponibili filtri specifici.
 
 ![](assets/abm.png)
 
