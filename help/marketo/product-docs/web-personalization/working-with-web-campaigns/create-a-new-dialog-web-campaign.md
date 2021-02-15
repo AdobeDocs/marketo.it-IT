@@ -3,7 +3,7 @@ unique-page-id: 4719398
 description: Creazione di una nuova finestra di dialogo Campagna Web - Documenti Marketo - Documentazione prodotto
 title: Creazione di una nuova finestra di dialogo Web Campaign
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Visualizza su</strong></td> 
-   <td colspan="1">Consente di <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizzare quando e come viene visualizzata la campagna Web.</a></td> 
+   <td colspan="1">Consente di <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizzare quando e come viene visualizzata la campagna Web.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Stile finestra di dialogo</strong></td> 
