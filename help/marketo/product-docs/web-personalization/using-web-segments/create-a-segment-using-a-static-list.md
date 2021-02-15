@@ -3,7 +3,7 @@ unique-page-id: 13795536
 description: Crea un segmento utilizzando un elenco statico - Documenti Marketo - Documentazione prodotto
 title: Creare un segmento utilizzando un elenco statico
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Creare un segmento utilizzando un elenco statico {#create-a-segment-using-a-static-list}
 
-Segmenta i visitatori Web noti quando visitano il tuo sito Web in base a se si trovano o meno in uno degli [elenchi statici](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists) di Marketo.
+Segmenta i visitatori Web noti quando visitano il tuo sito Web in base a se si trovano o meno in uno degli [elenchi statici](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists) di Marketo.
 
 1. Vai a **Segments**.
 
@@ -47,7 +47,7 @@ Segmenta i visitatori Web noti quando visitano il tuo sito Web in base a se si t
    >
    >Il menu a discesa e/o è proprio questo. Fare clic su di esso per selezionare **e**, **o** oppure **e/o**.
 
-1. Fai clic su **Salva** per salvare il segmento oppure su **Salva e definisci campagna **per salvare e passare alla pagina Campagne.
+1. Fare clic su **Salva** per salvare il segmento oppure su **Salva e definisci campagna **per salvare e passare alla pagina Campagne.
 
    ![](assets/eight-1.png)
 
