@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: Rendere una campagna visibile agli utenti di Sales Connect - Marketo Docs - Documentazione prodotto
 title: Rendere una campagna visibile agli utenti di Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -50,4 +50,3 @@ Le campagne possono essere condivise solo se sono state rese visibili. Ecco come
 1. Fare clic sulla scheda **Schedule** e **Activate** la campagna.
 
    ![](assets/nine.png)
-
