@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Imposta annunci lead Facebook - Documenti Marketo - Documentazione prodotto
 title: Impostazione Di Annunci Lead Facebook
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Utilizzate [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) per
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Aprite una nuova scheda nello stesso browser e passate a [facebook.com](http://www.facebook.com). Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
+1. Aprite una nuova scheda nello stesso browser e passate a [facebook.com](https://www.facebook.com). Effettuate l&#39;accesso a Facebook utilizzando l&#39;account che desiderate utilizzare per l&#39;integrazione.
 
    >[!NOTE]
    >
