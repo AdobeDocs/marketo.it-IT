@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: Aggiungere contenuto a uno snippet - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di contenuto a uno snippet
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Potete aggiungere tre tipi di contenuto a uno snippet.
 
    >[!NOTE]
    >
-   >Potete aggiungere immagini o file personalizzati a Marketo. Ulteriori informazioni su [immagini e file](http://docs.marketo.com/display/docs/images+and+files).
+   >Potete aggiungere immagini o file personalizzati a Marketo. Ulteriori informazioni su [immagini e file](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Selezionare l&#39; **Immagine** da utilizzare e fare clic su **Inserisci**.
 
