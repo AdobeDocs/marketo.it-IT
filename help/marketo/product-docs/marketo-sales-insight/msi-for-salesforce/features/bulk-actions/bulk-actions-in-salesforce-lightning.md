@@ -3,7 +3,7 @@ unique-page-id: 37356282
 description: Azioni di massa in Salesforce Lightning - Marketo Docs - Documentazione prodotto
 title: Azioni di massa in Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Come impostare le azioni di massa in Salesforce Lightning.
    >[!NOTE]
    >
    >Ripetere gli stessi passaggi per aggiungere azioni in blocco nella visualizzazione Elenco contatti.
-
