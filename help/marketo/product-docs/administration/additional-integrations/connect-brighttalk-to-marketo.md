@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: Connect BrightTALK to Marketo - Marketo Docs - Documentazione prodotto
 title: Connect BrightTALK to Marketo
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Scopri come collegare il canale BrightTALK all’istanza di Marketo. A tal fine,
 
 ## Passaggi in BrightTALK {#steps-in-brighttalk}
 
-1. Accedete a [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) e fate clic su **Connetti ora**.
+1. Accedete a [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) e fate clic su **Connetti ora**.
 1. In Connettore Marketo avanzato, fare clic su **Connetti**.
 1. Viene visualizzata la schermata delle credenziali, in cui si chiede: ID client, Segreto cliente, URL servizio identità e URL servizio rimanente. Per ottenere queste informazioni, accedi a Marketo.
 
@@ -77,4 +77,4 @@ Scopri come collegare il canale BrightTALK all’istanza di Marketo. A tal fine,
 
 1. Tornare alla schermata di configurazione del connettore BrightTALK dal passaggio 3 e immettere le credenziali salvate dai passaggi 12 e 14.
 
-   Dopo l&#39;autenticazione delle credenziali, hai collegato ufficialmente BrightTALK a Marketo. Il passaggio successivo consiste nel determinare [quali campi dati si desidera sincronizzare](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   Dopo l&#39;autenticazione delle credenziali, hai collegato ufficialmente BrightTALK a Marketo. Il passaggio successivo consiste nel determinare [quali campi dati si desidera sincronizzare](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
