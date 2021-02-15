@@ -3,7 +3,7 @@ unique-page-id: 2360366
 description: Passaggio 3 di 3 - Connect Marketo e Salesforce (Enterprise/Unlimited) - Marketo Docs - Documentazione prodotto
 title: 'Passaggio 3 di 3: Connect Marketo e Salesforce (Enterprise/Unlimited)'
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -43,7 +43,7 @@ In questo articolo, configurerai Marketo per la sincronizzazione con la tua ista
 
 ## Imposta credenziali utente sincronizzazione {#set-sync-user-credentials}
 
-1. In Marketo, andare in **Amministratore**, selezionare **CRM** e fare clic su **Sincronizza con [Salesforce.com](http://Salesforce.com)**
+1. In Marketo, andare in **Amministratore**, selezionare **CRM** e fare clic su **Sincronizza con [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
