@@ -3,7 +3,7 @@ unique-page-id: 2360411
 description: Creare un analizzatore percorso di successo - Documenti Marketo - Documentazione prodotto
 title: Creare un analizzatore percorso di successo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Creare un analizzatore percorso di successo {#create-a-success-path-analyzer}
 
-Ottieni una rappresentazione visiva di velocità e flusso attraverso il tuo [Modello del ciclo di ricavi](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+Ottieni una rappresentazione visiva di velocità e flusso attraverso il tuo [Modello del ciclo di ricavi](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 >[!PREREQUISITES]
 >
