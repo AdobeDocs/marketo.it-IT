@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: Abilita la barra delle raccomandazioni sul contenuto - Documenti Marketo - Documentazione sul prodotto
 title: Abilita la barra delle raccomandazioni del contenuto
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Content Recommendation Engine utilizza gli algoritmi di analisi predittiva e mac
 >
 >Prima di abilitare il contenuto predittivo, dovete:
 >
->* [Preparare il contenuto predittivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Preparare il contenuto predittivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ Content Recommendation Engine utilizza gli algoritmi di analisi predittiva e mac
    >**Includi/Escludi URL di visualizzazione**
    >
    >    * L&#39;URL di visualizzazione deve essere il percorso del dominio
-   >    * Non includere http:// o https://
+   >    * Non includere https:// o https://
    >    * Usa * per i caratteri jolly
    * Usare il punto e virgola come separatore
    * Esempio: /contact_us*; *action=logout*
