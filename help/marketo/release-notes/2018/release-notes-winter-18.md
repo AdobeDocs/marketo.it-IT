@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Note sulla versione -Winter '18 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Inverno '18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ I contenuti consigliati tramite gli algoritmi Content`<sup>AI </sup>`ottimizzati
 
 ## Integrazione {#integration}
 
-** [Attiva/Disattiva API campagna](http://developers.marketo.com/rest-api/assets/campaigns/)*
+** [Attiva/Disattiva API campagna](https://developers.marketo.com/rest-api/assets/campaigns/)*
 
 Questa nuova API consente di attivare e disattivare in remoto le campagne attivatore, per creare modelli di programma completamente automatizzati. Crea un modello di programma una volta, quindi automatizza la duplicazione, gli aggiornamenti collaterali di marketing e ora l&#39;attivazione/pianificazione di campagne intelligenti.
 
@@ -94,7 +94,7 @@ Questa nuova API consente di attivare e disattivare in remoto le campagne attiva
 
 **Annulla sottoscrizione aggiornamento**
 
-A partire dal 1 marzo 2018, tutte le e-mail inviate da [ToutApp.com](http://ToutApp.com) (e utilizzando il pulsante &quot;Email with Tout&quot; in Salesforce) avranno un collegamento di annullamento della sottoscrizione aggiunto in basso.
+A partire dal 1 marzo 2018, tutte le e-mail inviate da [ToutApp.com](https://ToutApp.com) (e utilizzando il pulsante &quot;Email with Tout&quot; in Salesforce) avranno un collegamento di annullamento della sottoscrizione aggiunto in basso.
 
 **Live Feed Update**
 
