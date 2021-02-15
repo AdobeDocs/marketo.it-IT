@@ -3,7 +3,7 @@ unique-page-id: 2360437
 description: Esplora i dettagli di programma e canale con il programma Analyzer - Marketo Docs - Documentazione prodotto
 title: Esplora i dettagli di programma e canale con il programma Analyzer
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -59,4 +59,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ulteriori informazioni sulle analisi avanzate in [Revenue Explorer](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Ulteriori informazioni sulle analisi avanzate in [Revenue Explorer](https://docs.marketo.com/display/docs/revenue+explorer).
