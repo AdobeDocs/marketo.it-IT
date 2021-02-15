@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: Pagine Web visualizzate, Rapporto Attività pagina Web - Documenti Marketo - Documentazione prodotto
 title: Pagine Web visualizzate, Report attività pagina Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Da un [report Attività pagina Web](../../../../../product-docs/reporting/basic-
    >**Tubo profondo**
    >
    >
-   >Fai di più con i report! Vedere l&#39;immersione profonda [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Fai di più con i report! Vedere l&#39;immersione profonda [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
