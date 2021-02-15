@@ -3,7 +3,7 @@ unique-page-id: 14746594
 description: Configurazione di un server SMTP - Documenti Marketo - Documentazione del prodotto
 title: Configurazione di un server SMTP
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Consente di utilizzare la reputazione del dominio e della recapito della tua azi
 
 **Come vengono inviati i servizi di vendita con il server SMTP?**
 
-Seguendo [questi passaggi](http://docs.marketo.com/x/ZgPh).
+Seguendo [questi passaggi](https://docs.marketo.com/x/ZgPh).
 
 ![](assets/1.png)
 
@@ -52,7 +52,7 @@ Cons
 * Ogni utente deve impostarlo autonomamente
 * La modifica della password O365 dell&#39;utente comporterà l&#39;interruzione della connessione
 
-Se si utilizza Office365 o Exchange Online, è possibile connettersi al server SMTP utilizzando un set standard di credenziali. Tenete presente che Office365 non è un servizio di consegna di posta elettronica di massa, anche se questo funzionerà bene per l&#39;invio di e-mail una tantum. Quando si inviano e-mail in massa, Office365 potrebbe limitare le e-mail, il che potrebbe causare errori di consegna. Per ulteriori informazioni su questo articolo di Microsoft su [come impostare l&#39;invio del client SMTP](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
+Se si utilizza Office365 o Exchange Online, è possibile connettersi al server SMTP utilizzando un set standard di credenziali. Tenete presente che Office365 non è un servizio di consegna di posta elettronica di massa, anche se questo funzionerà bene per l&#39;invio di e-mail una tantum. Quando si inviano e-mail in massa, Office365 potrebbe limitare le e-mail, il che potrebbe causare errori di consegna. Per ulteriori informazioni su questo articolo di Microsoft su [come impostare l&#39;invio del client SMTP](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
 
 &quot;È possibile inviare un solo indirizzo e-mail solo se il dispositivo è in grado di memorizzare le credenziali di accesso per più cassette postali di Office 365. Office 365 impone un limite di 30 messaggi inviati al minuto e un limite di 10.000 destinatari al giorno.&quot;
 
