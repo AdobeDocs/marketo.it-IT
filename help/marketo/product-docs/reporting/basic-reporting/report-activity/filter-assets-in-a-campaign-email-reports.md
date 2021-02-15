@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: Filtrare le risorse in un report e-mail campagna - Documenti Marketo - Documentazione prodotto
 title: Filtrare le risorse in un report e-mail campagna
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrare le risorse in un report e-mail campagna {#filter-assets-in-a-campaign-email-reports}
 
-Concentrare il report [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sulle [campagne intelligenti ](http://docs.marketo.com/display/docs/smart+campaigns) specifiche nei programmi (&#39;risorse locali&#39;) o su quelle archiviate.
+Concentrare il report [Campaign Email Performance](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) sulle [campagne intelligenti ](https://docs.marketo.com/display/docs/smart+campaigns) specifiche nei programmi (&#39;risorse locali&#39;) o su quelle archiviate.
 
 1. Andate all&#39;area **Analytics **(o **Marketing Activities**).
 
@@ -56,5 +56,5 @@ Concentrare il report [Campaign Email Performance](../../../../product-docs/repo
    >**Tubo profondo**
    >
    >
-   >Scopri tutte le informazioni sui report in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Scopri tutte le informazioni sui report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
 
