@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Scheda Configurazione analisi vendite Marketo in Salesforce - Documenti Marketo - Documentazione prodotto
 title: Scheda Configurazione analisi vendite Marketo in Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 La scelta di questa opzione comporterà l&#39;eliminazione di tutte le configurazioni della DSC e non sarà possibile ripristinarle. Dovrai riconfigurare tutto.
 
 ![](assets/three.png)
-
