@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Note sulla versione - Dicembre 2014 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Dicembre 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Tre nuove chiamate per l&#39;API Lead &amp; Activity ReST:
 
 ・ Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [developers.marketo.com](http://developers.marketo.com/)
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [developers.marketo.com](https://developers.marketo.com/)
 
 ## Munchkin Javascript: miglioramenti della compatibilità{#munchkin-javascript-compatibility-enhancements}
 
