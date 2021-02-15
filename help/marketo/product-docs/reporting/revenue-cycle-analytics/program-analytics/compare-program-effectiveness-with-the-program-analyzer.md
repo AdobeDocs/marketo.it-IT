@@ -3,7 +3,7 @@ unique-page-id: 2360403
 description: Confronta l'efficacia del programma con il programma Analyzer - Marketo Docs - Documentazione del prodotto
 title: Confronta l'efficacia del programma con Program Analyzer
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -98,4 +98,4 @@ Vediamo che il programma Paper Fest 12 non solo influenza più entrate (bolla pi
 
 >[!NOTE]
 >
->Ulteriori informazioni sulle analisi avanzate in [Esplora ciclo di entrate](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Ulteriori informazioni sulle analisi avanzate in [Esplora ciclo di entrate](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
