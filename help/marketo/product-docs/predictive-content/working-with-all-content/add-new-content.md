@@ -3,7 +3,7 @@ unique-page-id: 11384651
 description: Aggiungere nuovi contenuti - Documenti Marketo - Documentazione prodotto
 title: Aggiungi nuovo contenuto
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -39,5 +39,5 @@ Potete aggiungere facilmente il contenuto manualmente alla pagina Tutto il conte
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Come aggiungerlo a [Predictive Content](http://docs.marketo.com/x/Vbet).
+1. Come aggiungerlo a [Predictive Content](https://docs.marketo.com/x/Vbet).
 
