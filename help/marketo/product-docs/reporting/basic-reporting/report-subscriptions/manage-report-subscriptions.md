@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: Gestisci sottoscrizioni report - Documenti Marketo - Documentazione prodotto
 title: Gestisci sottoscrizioni report
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Configurare ed eliminare le sottoscrizioni dei rapporti.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   In questa pagina vengono visualizzate le iscrizioni a tutti i rapporti dell&#39;account, raggruppati per [tipo di rapporto](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Sono incluse le sottoscrizioni [ai report di base](subscribe-to-a-basic-report.md) e ai report [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   In questa pagina vengono visualizzate le iscrizioni a tutti i rapporti dell&#39;account, raggruppati per [tipo di rapporto](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Sono incluse le sottoscrizioni [ai report di base](subscribe-to-a-basic-report.md) e ai report [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ Configurare ed eliminare le sottoscrizioni dei rapporti.
    >    * [Iscriviti a un report di Esplora entrate](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   Ulteriori informazioni sono disponibili nelle [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) immersioni profonde.
+   Ulteriori informazioni sono disponibili nelle [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) immersioni profonde.
 
