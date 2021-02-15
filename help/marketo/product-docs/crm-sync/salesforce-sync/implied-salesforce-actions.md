@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: Azioni Salesforce implicite - Documenti Marketo - Documentazione del prodotto
 title: Azioni Salesforce implicite
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando viene eseguito un passaggio di flusso specifico di Salesforce, talvolta vengono eseguiti automaticamente passaggi aggiuntivi. Ecco le regole, quindi sapete:
 
-Queste regole si applicano _quando la persona non è attualmente in [Salesforce.com](http://Salesforce.com)_ come contatto o lead.
+Queste regole si applicano _quando la persona non è attualmente in [Salesforce.com](https://Salesforce.com)_ come contatto o lead.
 
 <table> 
  <thead> 
