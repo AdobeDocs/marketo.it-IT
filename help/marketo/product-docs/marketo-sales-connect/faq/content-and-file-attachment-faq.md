@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: Domande frequenti su contenuti e file allegati - Documenti Marketo - Documentazione prodotto
 title: Domande frequenti su contenuti e allegati
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Il contenuto può essere caricato nell&#39;archivio di Sales Connect da qualsias
 Gli utenti possono creare i propri modelli e possono essere organizzati dal team. A tal fine, create un team tramite la pagina Gestione team. Quindi, quando il team di utenti sarà in grado di condividere i modelli, le playlist e i gruppi, potranno condividere con loro solo questi gruppi, anziché l&#39;intero abbonamento degli utenti.
 
 Il contenuto può essere condiviso in tutta l&#39;organizzazione.
-
