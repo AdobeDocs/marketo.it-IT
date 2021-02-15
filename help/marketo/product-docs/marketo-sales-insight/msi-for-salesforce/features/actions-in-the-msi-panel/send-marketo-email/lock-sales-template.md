@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: Blocca modello di vendita - Documenti Marketo - Documentazione prodotto
 title: Blocca modello di vendita
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Per impedire agli utenti CRM di modificare i modelli di vendita, gli amministrat
    >[!NOTE]
    >
    >Per impostazione predefinita, questa casella è selezionata e agli utenti CRM è consentito modificare le e-mail.
-
