@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Impostazioni di consenso bipartito - Documenti Marketo - Documentazione del prodotto
 title: Impostazioni di consenso biparte
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Al fine di garantire la conformità con le leggi di consenso biparte degli Stati
 
 >[!PREREQUISITES]
 >
->Prima di seguire i passaggi indicati di seguito, è necessario prima [abilitare la registrazione delle chiamate.](http://docs.marketo.com/x/dAC1Ag)
+>Prima di seguire i passaggi indicati di seguito, è necessario prima [abilitare la registrazione delle chiamate](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Fate clic sull&#39;icona Impostazioni e selezionate **Impostazioni**.
 
@@ -50,4 +50,3 @@ Al fine di garantire la conformità con le leggi di consenso biparte degli Stati
 1. Fai clic sull’interruttore per attivare la riproduzione del messaggio selezionato all’inizio delle chiamate registrate.
 
    ![](assets/seven.png)
-
