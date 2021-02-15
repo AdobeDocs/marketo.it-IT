@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: Momenti interessanti in MSC - Documenti Marketo - Documentazione prodotto
 title: Momenti interessanti in MSC
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Momenti interessanti sono la chiave per comunicare con il team di vendita tramit
 
 >[!AVAILABILITY]
 >
->
->Sono disponibili solo per i clienti di [Marketing Sales Insight](http://docs.marketo.com/x/2Akt) e Marketing Sales Connect.
+>Sono disponibili solo per i clienti di [Marketing Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) e Marketing Sales Connect.
 
-## Qual è un momento interessante?  {#what-is-an-interesting-moment}
+## Qual è un momento interessante? {#what-is-an-interesting-moment}
 
 Sta a lei! Decidete quali informazioni sono rilevanti per il team di vendita. Il team di vendita potrebbe desiderare sapere quando un lead:
 
@@ -30,7 +29,7 @@ Sta a lei! Decidete quali informazioni sono rilevanti per il team di vendita. Il
 
 ## Come posso creare un momento interessante? {#how-do-i-create-an-interesting-moment}
 
-1. Scegliete una [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [campagna intelligente](http://docs.marketo.com/display/docs/smart+campaigns), preferibilmente una che il vostro team di vendita troverebbe interessante se attivata.
+1. Scegliete una [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferibilmente una che il vostro team di vendita troverebbe interessante se attivata.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -52,7 +51,7 @@ Sta a lei! Decidete quali informazioni sono rilevanti per il team di vendita. Il
 
 ## Che aspetto ha un momento interessante a Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Momenti interessanti verranno visualizzati in un [registro attività del lead](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Momenti interessanti verranno visualizzati in un [registro attività del lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
@@ -61,4 +60,3 @@ Momenti interessanti verranno visualizzati in un [registro attività del lead](.
 I Momenti Interessanti verranno visualizzati in tempo reale nei feed live di un utente. Utilizziamo l&#39;ID del proprietario principale in Salesforce per mostrare agli utenti i momenti interessanti dei lead rilevanti di cui sono proprietari. Gli utenti possono seguire rapidamente i lead via e-mail/telefono/campagna di vendita facendo clic sul menu a discesa accanto al nome del lead.
 
 ![](assets/engagement.jpg)
-
