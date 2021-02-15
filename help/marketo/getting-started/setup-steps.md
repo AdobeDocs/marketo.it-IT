@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Procedura di configurazione - Documenti Marketo - Documentazione del prodotto
 title: Procedura di impostazione
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ Invia l&#39;e-mail all&#39;IT. Sappiamo che l&#39;IT può richiedere un po&#39; 
    >
    >Questi modelli personalizzati sono disponibili solo per i clienti di Launch Pack.
 
-   Fare clic sul modulo [Struttura del modello di marketing e generare ](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Compila le informazioni sulla tua azienda.
+   Fare clic sul modulo [Struttura del modello di marketing e generare ](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Compila le informazioni sulla tua azienda.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
