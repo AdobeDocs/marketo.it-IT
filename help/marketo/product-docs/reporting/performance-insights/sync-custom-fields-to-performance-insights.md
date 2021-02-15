@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: Sincronizza campi personalizzati con informazioni approfondite sulle prestazioni - Documenti Marketo - Documentazione prodotto
 title: Sincronizza campi personalizzati con approfondimenti delle prestazioni
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Le dashboard Revenue and Pipeline MPI possono filtrare sui campi Marketo persona
 
 >[!NOTE]
 >
->Questo articolo è solo per gli utenti che **non** hanno [RCA](http://docs.marketo.com/x/lwIk). Se si dispone di RCA, seguire i passaggi in [questo articolo](http://docs.marketo.com/x/FQQk).
+>Questo articolo è solo per gli utenti che **non** hanno [RCA](https://docs.marketo.com/x/lwIk). Se si dispone di RCA, seguire i passaggi in [questo articolo](https://docs.marketo.com/x/FQQk).
 
 1. Andate alla sezione **Admin**.
 
