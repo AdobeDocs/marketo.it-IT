@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Passaggio 2 di 3 - Configura sincronizzazione utente per Marketo (2013 On-Premises) - Marketo Docs - Documentazione prodotto
 title: Passaggio 2 di 3 - Configura sincronizzazione utente per Marketo (2013 On-Premises)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Assegnate il ruolo di sincronizzazione utente Marketo solo all’utente di sincr
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. Verrà visualizzato un elenco di utenti qui. Seleziona l&#39;utente dedicato per la sincronizzazione di Marketo o contatta l&#39;amministratore [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [per creare un nuovo utente dedicato a Marketo.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. Verrà visualizzato un elenco di utenti qui. Seleziona l&#39;utente dedicato per la sincronizzazione di Marketo o contatta l&#39;amministratore [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [per creare un nuovo utente dedicato a Marketo.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
