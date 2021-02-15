@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Note sulla versione - Primavera 2019 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Primavera 2019
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Le seguenti funzionalità sono state rilasciate il 15 marzo 2019.
 
 * **In lista d&#39;attesa:** Nuovo stato programma/evento per l&#39;elenco in attesa di un membro quando si desidera  [inserirlo in ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) un&#39;azienda fino all&#39;apertura di un ruolo vacante. Questo vale per i canali associati ai programmi Evento in Marketo Classic, e sia Evento che Evento con i programmi Webinar in Marketo Sky. Per impostazione predefinita, Waitlist ha lo stesso valore step di Registered.
 * ** [Limite di comunicazione personalizzato](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Adesso, gli amministratori possono impostare limiti personalizzati per le comunicazioni giornaliere o settimanali.
-* ** [API Smart Campaign Asset](http://developers.marketo.com/rest-api/assets/campaigns/)**: Arricchisci le tue analisi al di fuori di Marketo con il recupero intelligente dei record delle campagne per data e ID aggiornati.
+* ** [API Smart Campaign Asset](https://developers.marketo.com/rest-api/assets/campaigns/)**: Arricchisci le tue analisi al di fuori di Marketo con il recupero intelligente dei record delle campagne per data e ID aggiornati.
 * **Collegamenti di tracciamento HTTPS per e-mail:** per i clienti che hanno acquistato &quot;Domini protetti per i collegamenti di tracciamento&quot;, ora i collegamenti di tracciamento con il marchio possono essere visualizzati nelle e-mail come HTTPS.
 * **Aggiornamenti** Powerpack per la distribuzione tramite e-mail: Possibilità di contrassegnare e commentare risultati di test specifici, condividere i risultati con le parti interessate tramite un URL e monitorare le modifiche per visualizzare l&#39;evoluzione di un&#39;e-mail mano a mano che le parti interessate modificano il contenuto.
 
