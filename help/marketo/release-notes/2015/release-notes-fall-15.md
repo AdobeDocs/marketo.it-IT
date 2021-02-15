@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: Note sulla versione - Autunno 2015 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Autunno 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ L&#39;esportazione può essere programmata su base giornaliera, settimanale o me
 
 ## Oggetti personalizzati Marketo {#marketo-custom-objects}
 
-[Oggetti personalizzati Marketo](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Oggetti personalizzati Marketo](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Creare facilmente oggetti personalizzati dall&#39;interfaccia utente di amministrazione. Al momento siamo in grado di creare un oggetto personalizzato 1:N in Marketo e di collegarlo a un lead o a una società.
 
@@ -121,7 +121,7 @@ Stiamo apportando diversi miglioramenti all&#39;editor Rich Text. Dopo il rilasc
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
@@ -169,7 +169,7 @@ Questo nuovo strumento di amministrazione esegue una serie di controlli per veri
 
 ## Aggiungi campi alla sincronizzazione oggetti personalizzata CRM {#add-fields-to-crm-custom-object-sync}
 
-Aggiungi facilmente nuovi campi agli oggetti personalizzati sincronizzati da Salesforce e Dynamics. È ora possibile aggiungere nuovi campi alla sincronizzazione oggetti personalizzata senza disattivare e attivare l&#39;intero oggetto personalizzato.
+Aggiungi facilmente nuovi campi agli oggetti personalizzati sincronizzati da Salesforce e Dynamics. È ora possibile aggiungere nuovi campi alla sincronizzazione oggetti personalizzata senza disabilitare e abilitare l&#39;intero oggetto personalizzato.
 
 ## Modifiche alle funzioni di sicurezza {#changes-to-security-features}
 
