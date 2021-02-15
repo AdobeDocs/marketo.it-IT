@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analisti - Documenti Marketo - Documentazione prodotto
 title: Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analizzatori
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analizzatori {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-I costi del periodo di programma consentono di definire &quot;Quanti soldi&quot; e &quot;Quando&quot; per un programma. Questo viene visualizzato in [prospettore del ciclo di ricavi](http://docs.marketo.com/display/docs/revenue+cycle+analytics) e [analizzatori](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+I costi del periodo di programma consentono di definire &quot;Quanti soldi&quot; e &quot;Quando&quot; per un programma. Questo viene visualizzato in [prospettore del ciclo di ricavi](https://docs.marketo.com/display/docs/revenue+cycle+analytics) e [analizzatori](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
