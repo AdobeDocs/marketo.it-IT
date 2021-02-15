@@ -3,7 +3,7 @@ unique-page-id: 2949281
 description: Rilascio di una licenza del componente aggiuntivo per e-mail Marketo - Documenti Marketo - Documentazione del prodotto
 title: Rilascio di una licenza del componente aggiuntivo per e-mail Marketo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Per utilizzare il componente aggiuntivo per Microsoft Outlook e-mail Marketo è 
 
    >[!NOTE]
    >
-   >Per installare il plug-in in remoto, lasciate deselezionata la casella di controllo e inviate al team IT la [Enterprise Key](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >Per installare il plug-in in remoto, lasciate deselezionata la casella di controllo e inviate al team IT la [Enterprise Key](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >Se i rappresentanti di vendita dispongono dell&#39;accesso amministratore ai propri computer, seleziona la casella e hai finito!
 
