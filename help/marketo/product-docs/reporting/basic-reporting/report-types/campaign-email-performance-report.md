@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: Rapporto sulle prestazioni delle e-mail delle campagne - Documenti Marketo - Documentazione del prodotto
 title: Rapporto sulle prestazioni e-mail della campagna
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapporto sulle prestazioni delle e-mail delle campagne {#campaign-email-performance-report}
 
-Per visualizzare gli stati delle prestazioni delle e-mail raggruppati per [campagna intelligente](http://docs.marketo.com/display/docs/smart+campaigns), esegui un rapporto sulle prestazioni delle e-mail delle campagne.
+Per visualizzare gli stati delle prestazioni delle e-mail raggruppati per [campagna intelligente](https://docs.marketo.com/display/docs/smart+campaigns), esegui un rapporto sulle prestazioni delle e-mail delle campagne.
 
 1. [Create un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo **** [Campaign Email ](report-type-overview.md)Performancereport.
 1. [Impostate l&#39;intervallo di tempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda  **** Rapporto.
@@ -53,5 +53,5 @@ Per visualizzare gli stati delle prestazioni delle e-mail raggruppati per [campa
    >**Tubo profondo**
    >
    >
-   >Ulteriori informazioni in [Reporting di base.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Ulteriori informazioni in [Reporting di base.](https://docs.marketo.com/display/docs/basic+reporting)
 
