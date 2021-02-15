@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Anteprima e test di una campagna Web - Marketo Docs - Documentazione prodotto
 title: Anteprima e test di una campagna Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Questo articolo mostra diversi modi per visualizzare l’anteprima di una campag
 
    >[!NOTE]
    >
-   >Potete anche installare un plug-in del browser ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) per ottenere la migliore esperienza di visualizzazione dell&#39;anteprima della campagna. Vedere la sezione seguente.
+   >Potete anche installare un plug-in del browser ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) per ottenere la migliore esperienza di visualizzazione dell&#39;anteprima della campagna. Vedere la sezione seguente.
 
 ## Visualizzare l&#39;anteprima di una campagna Web nella pagina di creazione utilizzando il plug-in del browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -92,7 +92,7 @@ Crea un segmento e una campagna sandbox.
 1. Completate la campagna creativa e fate clic su **Avvia**.\
    ![](assets/click-launch.jpg)
 
-1. Andate al sito Web, aggiungete il parametro URL &quot;?sandbox=1&quot; alla fine dell’URL. Esempio: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Andate al sito Web, aggiungete il parametro URL &quot;?sandbox=1&quot; alla fine dell’URL. Esempio: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Visualizzate la reazione della campagna sul vostro sito Web.
 
 >[!NOTE]
