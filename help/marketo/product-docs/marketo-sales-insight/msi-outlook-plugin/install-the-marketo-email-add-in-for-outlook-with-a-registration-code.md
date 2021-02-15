@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: Installazione del componente aggiuntivo e-mail Marketo per Outlook con un codice di registrazione - Documenti Marketo - Documentazione del prodotto
 title: Installazione del componente aggiuntivo e-mail di Marketo per Outlook con un codice di registrazione
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
 
 ## Download del programma di installazione {#download-installer}
 
-1. Identificare la [versione di Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identificare la [versione di Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Fate clic sul collegamento per scaricare il programma di installazione appropriato per la versione in uso di Microsoft Outlook.
 
    >[!NOTE]
@@ -37,13 +37,13 @@ Se non avete ricevuto un messaggio e-mail di invito, chiedete al vostro amminist
    | Versione di Outlook | Outlook a 32 bit | Outlook a 64 bit |
    |---|---|---|
    | Outlook 2000 | Non supportato | N/D |
-   | Outlook 2003 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
-   | Outlook 2007 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
-   | Outlook 2010 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365 (solo Windows) | [Download](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2003 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
+   | Outlook 2007 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
+   | Outlook 2010 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook O365 (solo Windows) | [Download](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Download](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook per Mac | Non supportato | Non supportato |
    | Outlook Web App | Non supportato | Non supportato |
 
