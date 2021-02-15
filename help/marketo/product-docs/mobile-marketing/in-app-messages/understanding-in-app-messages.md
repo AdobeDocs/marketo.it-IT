@@ -3,7 +3,7 @@ unique-page-id: 10100397
 description: Informazioni sui messaggi in-app - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui messaggi in-app
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,18 +33,18 @@ Lo sviluppatore di app marketing e per dispositivi mobili collabora per configur
 
 ## Passaggio 2: Creare un messaggio in-app {#step-create-an-in-app-message}
 
-[create un messaggio in-app](http://docs.marketo.com/display/docs/create+an+in-app+message) utilizzando l&#39;editor online.
+[create un messaggio in-app](https://docs.marketo.com/display/docs/create+an+in-app+message) utilizzando l&#39;editor online.
 
 ## Passaggio 3: Invia! {#step-send}
 
-Si crea un programma per [inviare il messaggio](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Si crea un programma per [inviare il messaggio](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Sta arrivando.
 
 >[!MORELIKETHIS]
 >
->* [Creare un messaggio in-app](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Creare un messaggio in-app](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
-* [Invia messaggio in-app](http://docs.marketo.com/display/docs/send+your+in-app+message)
+* [Invia messaggio in-app](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
