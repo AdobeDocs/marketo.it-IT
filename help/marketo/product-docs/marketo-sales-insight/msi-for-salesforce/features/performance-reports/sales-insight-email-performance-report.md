@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: Rapporto sulle prestazioni delle e-mail in Sales Insight - Documenti Marketo - Documentazione del prodotto
 title: Rapporto sulle prestazioni delle e-mail in base alle informazioni sulle vendite
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ Puoi visualizzare questo rapporto raggruppato per rappresentante commerciale mod
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    Fantastico, eh? Ora puoi vedere le prestazioni delle e-mail raggruppate per rappresentante commerciale.
-
