@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personalizzare stelle e fiamme - Marketo Docs - Documentazione prodotto
 title: Personalizzare le stelle e le fiamme
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketing Sales Insight utilizza stelle e fiamme per dare priorità ai lead. Mar
 
 >[!AVAILABILITY]
 >
->
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In Admin, fai clic su Sales Insight.
+1. In Admin, fai clic su **Sales Insight**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Nella sezione **Impostazioni punteggio lead** fare clic su **Modifica**.
+1. Nella sezione **Impostazioni punteggio lead**, fare clic su **Modifica**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
@@ -38,9 +37,7 @@ Marketing Sales Insight utilizza stelle e fiamme per dare priorità ai lead. Mar
    >
    >**Definizione**
    >
-   >
-   >**Dynamic**  - È un valore percentuale derivato da dati [ ](priority-urgency-relative-score-and-best-bets.md)relativi. Roba fantastica. Questo metodo è consigliato.
-   >
+   >**Dynamic**  - È un valore percentuale derivato da dati [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)relativi. Roba fantastica. Questo metodo è consigliato.
    >
    >**Statico**  - Consente di definire i numeri esatti di punteggio - niente più percentuali, niente più salse segrete.
 
@@ -50,14 +47,11 @@ Marketing Sales Insight utilizza stelle e fiamme per dare priorità ai lead. Mar
 
    >[!TIP]
    >
-   >
    >Basta modificare la percentuale iniziale, Marketo calcolerà la percentuale finale per voi!
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**Promemoria**
 >
 >Una volta apportate le modifiche, il processo di ricalcolo delle stelle e delle fiamme richiederà un certo tempo. La pazienza è una virtù.
 
