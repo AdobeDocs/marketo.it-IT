@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: Inviare e tenere traccia di un'e-mail con il componente aggiuntivo e-mail per Outlook - Documenti Marketo - Documentazione prodotto
 title: Inviare e tenere traccia di un'e-mail con il componente aggiuntivo e-mail per Outlook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
 >[!PREREQUISITES]
 >
->Se non lo avete ancora fatto, installate il componente aggiuntivo e-mail [Marketo per Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Se non lo avete ancora fatto, installate il componente aggiuntivo e-mail [Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Aprite Microsoft Outlook e create un nuovo messaggio e-mail.
 
@@ -37,7 +37,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
    >[!TIP]
    >
-   >Per utilizzare un modello Marketo, vedere [Invia e tieni traccia da Outlook utilizzando un modello](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Per utilizzare un modello Marketo, vedere [Invia e tieni traccia da Outlook utilizzando un modello](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Date un&#39;occhiata all&#39;anteprima e fate clic su **Invia**.
 
@@ -55,9 +55,4 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
 >[!MORELIKETHIS]
 >
->* [Registra posta in entrata dai lead di Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Registra posta in entrata dai lead di Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
