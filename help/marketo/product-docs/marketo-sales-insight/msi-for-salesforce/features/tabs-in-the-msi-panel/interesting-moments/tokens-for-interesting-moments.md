@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Token per momenti interessanti - Documenti Marketo - Documentazione prodotto
 title: Token per momenti interessanti
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Scopri come utilizzare il passaggio [Interessante Flusso di Momenti](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Ulteriori informazioni sui [token](https://docs.marketo.com/display/docs/tokens).
-
->
-
-
+>Scopri come utilizzare il passaggio [Interessante Flusso di Momenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Token disponibili {#available-tokens}
 
-Controlla [Tokens Overview](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che puoi inserire in un momento interessante.
+Controlla [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che puoi inserire in un momento interessante.
 
 ## Token trigger {#trigger-tokens}
 
@@ -249,4 +244,3 @@ In base all&#39;attivatore utilizzato in una campagna intelligente, sono disponi
 >Prova sempre i tuoi momenti interessanti per assicurarti che siano il modo in cui intendi.
 >
 >Inoltre, accertati che sia interessante per il Sales Person, non solo per te. ![(wink)](assets/wink.svg)>
-
