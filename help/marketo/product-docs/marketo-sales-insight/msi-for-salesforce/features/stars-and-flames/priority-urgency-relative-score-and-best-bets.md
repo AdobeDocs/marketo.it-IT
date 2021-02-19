@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Priorità, Urgenza, Punteggio relativo e Migliori Scommesse - Marketo Docs - Documentazione prodotto
 title: Priorità, Urgenza, Punteggio relativo e migliori risultati
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Le migliori Scommesse sono i vostri lead e contatti con la massima urgenza e il 
 
 >[!NOTE]
 >
->Se le migliori puntate non corrispondono ai migliori lead e contatti che possedete, parlate con qualcuno della vostra azienda che ha accesso a Marketo sull&#39;aggiornamento delle [regole di punteggio](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Se le migliori puntate non corrispondono ai migliori lead e contatti che possedete, parlate con qualcuno della vostra azienda che ha accesso a Marketo sull&#39;aggiornamento delle [regole di punteggio](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Modalità di calcolo dell&#39;urgenza e del punteggio relativo
 
@@ -54,8 +54,3 @@ Con la modifica dei punteggi, i valori di urgenza, priorità e punteggio relativ
 >[!NOTE]
 >
 >Il conteggio Urgenza relativa (fiamme) e Valutazione relativa (stelle) sono numeri interi in Marketo. I valori possibili per ciascun valore sono 0-3.
-
->[!MORELIKETHIS]
->
->* [Informazioni sulle vendite di Marketo](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
