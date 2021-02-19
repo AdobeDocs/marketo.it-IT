@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Imposta i campi punteggio da utilizzare per le stelle e le fiamme in Sales Insight - Marketo Docs - Documentazione prodotto
 title: Imposta campi punteggio da utilizzare per stelle e fiamme in Sales Insight
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo **Lead S
 
 >[!TIP]
 >
->Se non hai già i campi di valutazione personalizzati, ecco come [crearli](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)in questo modo.
+>Se non hai già i campi di valutazione personalizzati, ecco come [crearli](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Definizione**
 >
->* **Stelle: **Le stelle rappresentano il punteggio totale del lead rispetto ad altri lead.
+>* **Stelle**: Le stelle rappresentano il punteggio totale del lead rispetto ad altri lead.
 >* **Fiamma**: Le fiamme rappresentano l&#39;urgenza - quanto è cambiato recentemente il punteggio di un lead.
 
 >
@@ -50,7 +50,8 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo **Lead S
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Fate clic su Salva.
+1. Fare clic su **Salva**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ Per impostazione predefinita, Marketing Sales Insight utilizza il campo **Lead S
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Priorità, Urgenza, Punteggio relativo e migliori risultati](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Priorità, Urgenza, Punteggio relativo e migliori risultati](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
