@@ -3,7 +3,7 @@ unique-page-id: 7511931
 description: Invia e-mail Marketo e campagne e liste di controllo in Salesforce1 - Documenti Marketo - Documentazione prodotto
 title: Invia e-mail di Marketo e campagne e liste di controllo in Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Quali campagne intelligenti vengono visualizzate? Quelli con l&#39;attivazione &quot;Campaign is Request&quot; (Campagna richiesta). Scopri come impostare una campagna con attivazione [utilizzando &quot;Campaign is Required](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quali campagne intelligenti vengono visualizzate? Quelli con l&#39;attivazione &quot;Campaign is Request&quot; (Campagna richiesta). Scopri come impostare una campagna con attivazione [utilizzando &quot;Campaign is Required](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Cool, ora i tuoi venditori possono partecipare attivamente alle attività di marketing.
 
@@ -39,4 +39,3 @@ Cool, ora i tuoi venditori possono partecipare attivamente alle attività di mar
 >
 >
 Siate creativi. Cosa vorrebbe automatizzare il venditore? Chiedilo a loro e lo cavi!
-
