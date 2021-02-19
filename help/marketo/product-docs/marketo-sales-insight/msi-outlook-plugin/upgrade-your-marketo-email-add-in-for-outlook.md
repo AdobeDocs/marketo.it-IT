@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Aggiornamento del componente aggiuntivo e-mail Marketo per Outlook - Documenti Marketo - Documentazione prodotto
 title: Aggiorna il componente aggiuntivo e-mail di Marketo per Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Scaricate il programma di installazione appropriato per la versione in uso di Mi
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Fate clic su Avanti.
+1. Fare clic su **Next**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Scaricate il programma di installazione appropriato per la versione in uso di Mi
    >
    >Se l&#39;installazione non riesce, collabora con il reparto IT per garantire che il traffico HTTPS non sia bloccato. Il programma di installazione richiede l&#39;apertura del traffico HTTPS.
 
-   Fate clic su Avanti per eseguire l&#39;installazione nel percorso predefinito.
+1. Fare clic su **Next** per eseguire l&#39;installazione nel percorso predefinito.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Scaricate il programma di installazione appropriato per la versione in uso di Mi
 
 >[!MORELIKETHIS]
 >
->* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail Marketo per Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Invio e tracciamento da Outlook con un modello Marketo](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Invio e tracciamento da Outlook con un modello Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
