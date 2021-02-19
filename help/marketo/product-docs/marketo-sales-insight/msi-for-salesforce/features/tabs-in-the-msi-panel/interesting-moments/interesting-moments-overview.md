@@ -3,7 +3,7 @@ unique-page-id: 2949720
 description: Panoramica sui momenti interessanti - Documenti Marketo - Documentazione sui prodotti
 title: Panoramica sui momenti interessanti
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -33,10 +33,6 @@ Potete anche utilizzare i token in momenti interessanti per ottenere descrizioni
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo di momenti interessanti](using-interesting-moments.md)
->* [Token per momenti interessanti](tokens-for-interesting-moments.md)
-
->
-
-
+>* [Utilizzo di momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
