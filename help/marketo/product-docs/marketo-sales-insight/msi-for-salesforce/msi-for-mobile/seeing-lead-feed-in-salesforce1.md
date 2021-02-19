@@ -3,7 +3,7 @@ unique-page-id: 7512654
 description: Visualizzazione dei feed lead in Salesforce1 - Documenti Marketo - Documentazione prodotto
 title: Visualizzazione dei feed lead in Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,11 +33,7 @@ Il Feed lead è un elenco aggiornato di eventi interessanti realizzati dai lead.
 
 >[!MORELIKETHIS]
 >
->* [Momenti interessanti in Salesforce1](interesting-moments-in-salesforce1.md)
->* [Invia e-mail di Marketo e campagne e liste di controllo in Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Best Bets in Salesforce1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Momenti interessanti in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Invia e-mail di Marketo e campagne e liste di controllo in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Best Bets in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
