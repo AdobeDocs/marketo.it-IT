@@ -3,7 +3,7 @@ unique-page-id: 11378845
 description: Aggiungere le vibrazioni come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di variabili come servizio LaunchPoint
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Puoi inviare messaggi SMS alle persone incluse negli elenchi di Vibes e utilizza
    Il nuovo servizio SMS ora viene visualizzato nell&#39;elenco dei servizi installati.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
