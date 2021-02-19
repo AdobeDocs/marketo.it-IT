@@ -3,7 +3,7 @@ unique-page-id: 11377005
 description: Abilitare RSS per Sales Insight - Documenti Marketo - Documentazione prodotto
 title: Attiva RSS per Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Se gli utenti di Marketo desiderano visualizzare il proprio feed lead non solo i
 
    ![](assets/rss-settings-tab.png)
 
-   Nella finestra di dialogo Modifica impostazioni, selezionare la casella di controllo **Feed RSS** e fare clic su **Salva**.
+1. Nella finestra di dialogo Modifica impostazioni, selezionare la casella di controllo **Feed RSS** e fare clic su **Salva**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -36,4 +36,3 @@ Se gli utenti di Marketo desiderano visualizzare il proprio feed lead non solo i
    ![](assets/rss-final-box.png)
 
    Pezzo di torta!
-
