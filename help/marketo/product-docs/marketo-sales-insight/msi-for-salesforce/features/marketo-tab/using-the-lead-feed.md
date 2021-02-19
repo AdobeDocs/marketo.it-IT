@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: Utilizzo del feed lead - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo del feed lead
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ Il Feed lead è un elenco aggiornato di eventi interessanti realizzati dai lead.
 
 ## Cosa c&#39;è nel feed lead? {#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 Ogni elemento nel feed lead è un momento interessante - un&#39;attività o un evento degno di nota nella cronologia di marketing di questo lead.
 
 Quando lo visualizzate in Salesforce, ogni elemento ha:
@@ -73,17 +74,19 @@ Quando lo visualizzate in Salesforce, ogni elemento ha:
 
 Potete anche ottenere gli aggiornamenti dei feed lead tramite feed RSS.  Un feed RSS consente di ricevere aggiornamenti sui lead anche se non si è connessi a Salesforce. Il feed ha le stesse informazioni del Feed lead in Salesforce e i seguenti (se disponibili):
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* indirizzo email
+* numero di telefono
+* numero di cellulare
+* numero di fax
+* indirizzo della società
+* URL società
 
 >[!NOTE]
 >
->Affinché questo funzioni, l&#39;amministratore di Marketing della società deve [abilitare i feed RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md).
+>Affinché questo funzioni, l&#39;amministratore di Marketing della società deve [abilitare i feed RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md).
 
-Per ottenere gli aggiornamenti RSS, avrete bisogno di due cose: il collegamento RSS e un lettore di feed RSS. Per ottenere il collegamento RSS, fai clic sull’icona RSS nel feed lead:   ![](assets/three.png)
+Per ottenere gli aggiornamenti RSS, avrete bisogno di due cose: il collegamento RSS e un lettore di feed RSS. Per ottenere il collegamento RSS, fai clic sull’icona RSS nel feed lead:
+
+![](assets/three.png)
 
 Il feed RSS verrà visualizzato in una nuova finestra. Potete quindi copiare l&#39;URL del feed RSS e usarlo in un lettore RSS. La maggior parte dei browser dispone di un lettore RSS integrato oppure è possibile utilizzare un lettore RSS specifico per la propria piattaforma.
