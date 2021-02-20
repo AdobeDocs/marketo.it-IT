@@ -3,19 +3,15 @@ unique-page-id: 11385942
 description: Modifica contenuto predittivo per la barra delle raccomandazioni - Documenti Marketo - Documentazione del prodotto
 title: Modifica contenuto predittivo per la barra delle raccomandazioni
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 
 # Modifica contenuto predittivo per la barra delle raccomandazioni {#edit-predictive-content-for-the-recommendation-bar}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi Marketo o contenuti<sup>AI</sup>. Per gli utenti che utilizzano contenuti predittivi, Marketo abilita le funzionalità di analisi di Content<sup>AI</sup> fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo<sup>AI</sup>.
 
 Di seguito viene illustrato come impostare il contenuto predittivo per la barra delle raccomandazioni.
 
