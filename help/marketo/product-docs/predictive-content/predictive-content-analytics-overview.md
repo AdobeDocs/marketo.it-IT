@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: Predictive Content Analytics Overview - Marketo Docs - Documentazione prodotto
 title: Panoramica di Predictive Content Analytics
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Utilizzate l&#39;analisi dei contenuti per acquisire ulteriori informazioni sui 
 
 ## Panoramica {#overview}
 
-Nella pagina Riepilogo, fai clic su Analytics.
+Nella pagina Riepilogo, fai clic su **Analytics**.
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Passa il cursore del mouse su un’immagine in Contenuto suggerito per visualizz
 
 >[!NOTE]
 >
->**Spiegazione**
->
 >Vedete quelle icone in basso? Da sinistra a destra: Visualizza contenuto, Esporta in CSV, Approva contenuto.
 
 ## Contenuto {#content}
@@ -96,4 +94,3 @@ Cercate il contenuto desiderato e fate clic su di esso per visualizzare ulterior
 >[!NOTE]
 >
 >Contenuto simile è basato sul contenuto selezionato ed è calcolato da un algoritmo delle regole di associazione. I risultati rappresentano parti di contenuto su cui i visitatori faranno clic, a seconda del pezzo selezionato e del comportamento passato dei visitatori. Non tiene conto del filtro o dell&#39;intervallo di date.
-
