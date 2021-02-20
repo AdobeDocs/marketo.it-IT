@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: Anteprima di una notifica push - Documenti Marketo - Documentazione prodotto
 title: Anteprima di una notifica push
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Nella struttura di navigazione, fare clic con il pulsante destro del mouse sul f
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-In alternativa, nella pagina della visualizzazione Notifica push, fate clic su **Azioni notifiche push**, quindi su **Anteprima**. Oppure fare clic su **Anteprima **a destra.** **
+In alternativa, nella pagina della visualizzazione Notifica push, fate clic su **Azioni notifiche push**, quindi su **Anteprima**. Oppure, fate clic su **Anteprima** all&#39;estrema destra.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ Quindi, con l&#39;anteprima delle notifiche push, sai sempre cosa vedranno i tuo
 
 >[!MORELIKETHIS]
 >
->* [Creare una notifica push](create-a-push-notification.md)
->* [Configura notifica push mobile](configure-mobile-push-notification.md)
-
->
-
-
+>* [Creare una notifica push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Configura notifica push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
