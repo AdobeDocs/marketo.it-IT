@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: Impostazione dello sfondo dei messaggi in-app - Documenti Marketo - Documentazione del prodotto
 title: Configurare lo sfondo del messaggio in-app
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ La selezione dello sfondo di un messaggio è un passo importante per completare 
    >
    >Per le azioni di tocco per gli sfondi, potete impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita oppure selezionare **None**.
 
-   [impostare il pulsante Ignora](set-up-the-dismiss-button-and-approve-the-message.md)
+   Per completare il processo, l&#39;ultimo passaggio è [impostare il pulsante Dismiss](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Informazioni sui messaggi in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Invio di un messaggio in-app](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [Scegliere un layout per il messaggio in-app](choose-a-layout-for-your-in-app-message.md)
+   >* [Informazioni sui messaggi in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Invio di un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Scegliere un layout per il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-Per completare il lavoro, l&#39;ultimo passaggio è quello di .
