@@ -3,7 +3,7 @@ unique-page-id: 7511725
 description: Comprendere i miei rapporti e rapporti di gruppo - Documenti Marketo - Documentazione di prodotto
 title: Informazioni sui rapporti personali e sui rapporti dei gruppi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informazioni sui rapporti personali e di gruppo {#understanding-my-reports-and-group-reports}
 
-Puoi creare **Report personali **e **Report di gruppo **dalla [Home di Analytics](navigating-the-analytics-home-page.md).
+È possibile creare **My Reports** e **Group Reports** dalla [Analytics Home](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
 **I miei** rapporti sono visibili solo a voi.
 
@@ -21,16 +21,12 @@ Puoi creare **Report personali **e **Report di gruppo **dalla [Home di Analytics
 
 >[!NOTE]
 >
->Ogni area di lavoro ha un set di **My Reports **e **Group Reports**.
+>Ogni area di lavoro dispone di un set di **Report personali** e di **Report di gruppo**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
->* [Salva un rapporto](save-a-report.md)
->* [Clonare un report per raggruppare i report](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
-
->
-
-
+>* [Salva un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [Clonare un report per raggruppare i report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
 
