@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: Rapporti e-mail di gruppo per segmenti - Documenti Marketo - Documentazione prodotto
 title: Raggruppa rapporti e-mail per segmenti
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # Rapporti e-mail per gruppo per segmenti {#group-email-reports-by-segmentations}
 
-Le segmentazioni non sono solo per contenuti dinamici. È possibile raggruppare il report [prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) anche per [segmentazioni](https://docs.marketo.com/display/docs/segmentation+and+snippets).
+Le segmentazioni non sono solo per contenuti dinamici. Potete anche raggruppare il rapporto sulle prestazioni delle e-mail in base alle segmentazioni.
 
 >[!PREREQUISITES]
 >
->* [Approvare una segmentazione](approve-a-segmentation.md)
-
->
-
-
+>[Approvare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
 1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
@@ -35,7 +31,7 @@ Le segmentazioni non sono solo per contenuti dinamici. È possibile raggruppare 
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Scegliete uno o due segmenti da utilizzare per raggruppare il rapporto. Fare clic su **APPLY**.
+1. Scegliete uno o due segmenti da utilizzare per raggruppare il rapporto. Fare clic su **Applica**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
@@ -43,15 +39,10 @@ Le segmentazioni non sono solo per contenuti dinamici. È possibile raggruppare 
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Se si utilizzano due segmentazioni, viene visualizzata una riga per ogni *combinazione* di segmenti.
+1. Se si utilizzano due segmentazioni, viene visualizzata una riga per ogni _combinazione_ di segmenti.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->* [Filtrare le risorse in un rapporto e-mail](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
+>[Filtrare le risorse in un rapporto e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
