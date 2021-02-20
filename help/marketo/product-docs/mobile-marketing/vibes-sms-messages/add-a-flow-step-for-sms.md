@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: Aggiungere un passaggio di flusso per SMS - Marketo Docs - Documentazione prodotto
 title: Aggiunta di un passaggio di flusso per SMS
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ Marketo ha tre passaggi di flusso che puoi utilizzare nelle tue campagne smart S
 >* Marketo dedupe per numero di telefono. Quindi se più persone hanno lo stesso numero di telefono, solo una persona riceverà il messaggio.
 >* Marketo non invierà a persone  inserire nell&#39;elenco Bloccati o Sospese di marketing.
 
->
 
-
-
-Per informazioni generali sulla configurazione dei passaggi di flusso, vedere [Aggiungi un passaggio di flusso a una campagna intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Per informazioni generali sulla configurazione dei passaggi di flusso, vedere [Aggiungi un passaggio di flusso a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Queste sono le basi per l&#39;utilizzo di SMS.
 
@@ -50,6 +47,4 @@ Queste sono le basi per l&#39;utilizzo di SMS.
    >
    >Il selettore Elenco variabili funge da ulteriore filtro per l&#39;audience già identificata nell&#39;elenco avanzato, per eseguire il targeting dei soli lead che appartengono a tale elenco Vibes.
    >
-   >
    >I flussi **Iscrizione a Vibes List** e **Annulla sottoscrizione a Vibes List** hanno requisiti diversi. Per **Iscrizione**, devi selezionare l&#39;elenco Vibes e la campagna di acquisizione Vibes. Per **Annulla sottoscrizione**, è richiesto solo l&#39;elenco Vibes.
-
