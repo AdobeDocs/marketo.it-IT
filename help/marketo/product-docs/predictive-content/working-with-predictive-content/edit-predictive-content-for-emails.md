@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: Modifica contenuto predittivo per le e-mail - Documenti Marketo - Documentazione prodotto
 title: Modifica contenuto predittivo per le e-mail
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # Modifica contenuto predittivo per e-mail {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Ecco come impostare il contenuto predittivo per le e-mail.
 
