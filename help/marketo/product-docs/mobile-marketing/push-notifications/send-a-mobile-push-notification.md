@@ -3,7 +3,7 @@ unique-page-id: 7512457
 description: Invio di una notifica push per dispositivi mobili - Documenti Marketo - Documentazione prodotto
 title: Invia una notifica push mobile
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Inviate una notifica push alle persone che utilizzano la vostra app mobile.
 
 >[!PREREQUISITES]
 >
->* [Creare una nuova campagna intelligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [Creare una notifica push](create-a-push-notification.md)
-
->
-
+>* [Creare una nuova campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Creare una notifica push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 
 1. Andate all&#39;area **Attività di marketing**.
@@ -32,11 +29,11 @@ Inviate una notifica push alle persone che utilizzano la vostra app mobile.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definire l&#39;elenco smart, quindi fare clic su **FLUSSO.**
+1. Definite l&#39;elenco smart e fate clic su **Flusso**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Selezionate una notifica push. Fare clic su **Schedule**
+1. Selezionate una notifica push. Fare clic su **Schedule**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,11 +41,11 @@ Inviate una notifica push alle persone che utilizzano la vostra app mobile.
    >
    >La notifica push deve essere approvata prima che venga visualizzata nell&#39;elenco a discesa.
 
-1. Fare clic su **Esegui una volta**
+1. Fare clic su **Esegui una volta**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Scegliete una data e un’ora. Fare clic su **SALVA.**
+1. Scegliete una data e un’ora. Fare clic su **Salva**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
