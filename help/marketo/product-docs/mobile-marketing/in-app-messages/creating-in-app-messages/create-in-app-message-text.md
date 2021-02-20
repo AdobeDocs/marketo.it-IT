@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: Crea testo messaggio in-app - Documenti Marketo - Documentazione prodotto
 title: Crea testo messaggio in-app
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
    >
    >Le dimensioni eccessive del testo potrebbero spingere il contenuto oltre il massimo di tre righe di testo visibili.
 
-1. Scegliete uno stile di tipo facoltativo per l’enfasi: **Grassetto**, *Corsivo* o Sottolineato.
+1. Scegliete uno stile di tipo facoltativo per l’enfasi: **Grassetto**, _Corsivo_ o Sottolineato.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
    Eventuali modifiche apportate ai token utilizzati in un programma di messaggi in-app approvato non avranno effetto nel messaggio in-app finché il programma non viene messo in pausa e quindi ripreso.
 
-È dorata. Successivamente, è necessario [impostare il pulsante dei messaggi in-app](set-up-the-in-app-message-button.md).
+È dorata. Successivamente, è necessario [impostare il pulsante dei messaggi in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sui messaggi in-app](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Scegliere un layout per il messaggio in-app](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Informazioni sui messaggi in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Scegliere un layout per il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
