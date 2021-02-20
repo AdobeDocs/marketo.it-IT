@@ -3,19 +3,15 @@ unique-page-id: 11384665
 description: Informazioni sul contenuto predittivo - Documenti Marketo - Documentazione prodotto
 title: Informazioni sul contenuto predittivo
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
 
 # Informazioni sul contenuto predittivo {#understanding-predictive-content}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Dopo che [avete approvato un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavorate qui. Nella pagina Predictive Content (Contenuto predittivo) sono visualizzati tutti i titoli approvati per il contenuto predittivo.
 
@@ -58,7 +54,7 @@ L&#39;analisi del contenuto abilitata per il filtraggio consente di vedere le pr
 
 ## Visualizza dati tabella per contenuto predittivo {#view-table-data-for-predictive-content}
 
-Nella tabella, potete visualizzare le origini abilitate per il contenuto predittivo, da sinistra a destra: Barra delle raccomandazioni, e-mail e contenuti multimediali avanzati. Le origini abilitate sono visualizzate in verde. Potete attivarli quando [modificate il contenuto](https://docs.marketo.com/display/docs/edit+predictive+content).
+Nella tabella, potete visualizzare le origini abilitate per il contenuto predittivo, da sinistra a destra: Barra delle raccomandazioni, e-mail e contenuti multimediali avanzati. Le origini abilitate sono visualizzate in verde. che vengono attivate quando modificate il contenuto.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -75,9 +71,3 @@ Passa il cursore del mouse sulla barra nella colonna Tasso di conversione per vi
 >**Conversione** diretta: Visitatori che hanno fatto clic sul contenuto consigliato e hanno completato un modulo nella stessa visita
 >
 >**Clic**: Clic totale sul contenuto raccomandato (incluse tutte e tre le origini)
-
->[!MORELIKETHIS]
->
->* [Predictive Content](https://docs.marketo.com/display/docs/predictive+content)
->* [Modifica contenuto predittivo](https://docs.marketo.com/display/docs/edit+predictive+content)
-
