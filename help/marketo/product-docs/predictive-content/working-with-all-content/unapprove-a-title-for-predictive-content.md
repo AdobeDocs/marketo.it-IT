@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: Disapprovare un titolo per contenuti predittivi - Documenti Marketo - Documentazione prodotto
 title: Disapprovare un titolo per il contenuto predittivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Disapprovare un titolo per il contenuto predittivo {#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Potete annullare l’approvazione di qualsiasi titolo per il contenuto predittivo nella pagina Tutto il contenuto o nella finestra a comparsa Modifica contenuto.
 
@@ -44,4 +40,3 @@ Potete annullare l’approvazione di qualsiasi titolo per il contenuto predittiv
 Indipendentemente dal metodo utilizzato, l’icona di approvazione è stata visualizzata nella pagina Tutto il contenuto e il titolo scompare dalla pagina Predictive Content (Contenuto predittivo).
 
 ![](assets/unapprove-content-no-icon.png)
-
