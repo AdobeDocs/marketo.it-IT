@@ -3,7 +3,7 @@ unique-page-id: 7511518
 description: Informazioni sulle notifiche push - Documenti Marketo - Documentazione prodotto
 title: Informazioni sulle notifiche push
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Il coinvolgimento con Marketo Mobile ti consente di creare, configurare e inviar
 
 ## Passaggio 1: Amministratore e sviluppatore eseguono le impostazioni iniziali {#step-admin-and-developer-perform-initial-setups}
 
-Lo sviluppatore di app marketing e per dispositivi mobili collabora per configurarti. Per informazioni, consultate [Prima di creare notifiche push e messaggi in-app](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
+Lo sviluppatore di app marketing e per dispositivi mobili collabora per configurarti. Per informazioni, consultate [Prima di creare notifiche push e messaggi in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Passaggio 2: Creare una notifica push {#step-create-a-push-notification}
 
-[Crea il tuo ](create-a-push-notification.md) messaggio e visualizza in anteprima la visualizzazione su dispositivi Android e iOS.
+[Crea il tuo ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) messaggio e visualizza in anteprima la visualizzazione su dispositivi Android e iOS.
 
 ## Passaggio 3: Invia! {#step-send}
 
-[Le notifiche push possono essere ](send-a-mobile-push-notification.md) inviate tramite attivatore e campagne smart in batch. Fantastico, eh?
+[Le notifiche push possono essere ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) inviate tramite attivatore e campagne smart in batch. Fantastico, eh?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
