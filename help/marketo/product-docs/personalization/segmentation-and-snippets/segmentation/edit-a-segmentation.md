@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Modifica di una segmentazione - Documenti Marketo - Documentazione prodotto
 title: Modifica di una segmentazione
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Il **Status **cambia in Approvato con Bozza. Nella segmentazione viene creata una cartella **Draft **6.
+1. Il **Stato** diventa Approvato con bozza. Nella segmentazione viene creata una cartella **Bozza**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >È possibile modificare solo i segmenti di una bozza e non la segmentazione approvata.
 
-1. **Aggiungi segmento**, **Modifica **esistente (rinominare o modificare l&#39;ordine) o **Elimina **tutti i segmenti.
+1. **Aggiungi segmento**,  **** Modifica esistente (rinomina o modifica l’ordine) o  **** Elimina tutti i segmenti.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## Modifica regole segmento {#edit-segment-rules}
 
-1. Nella bozza **Segment**, passare a **Smart List**. Applicare regole simili a [Definizione delle regole di segmento](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. Nella bozza **Segment**, passare a **Smart List**. Applicare regole simili a [Definizione delle regole di segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Promemoria**
-   >
-   >
    >Ricorda di approvare la bozza di segmentazione.
 
 Potete sperimentare le segmentazioni non utilizzate nel contenuto dinamico.
 
 >[!MORELIKETHIS]
 >
->* [Eliminazione di una segmentazione](delete-a-segmentation.md)
-
->
-
-
-
+>[Eliminazione di una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
