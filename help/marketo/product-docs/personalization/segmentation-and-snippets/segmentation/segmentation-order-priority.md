@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Priorità ordine di segmentazione - Documenti Marketo - Documentazione prodotto
 title: Priorità ordine di segmentazione
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creazione di una segmentazione](create-a-segmentation.md)
->* [Definire le regole di segmento](define-segment-rules.md)
-
->
-
-
+>[Creazione di una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Definire le regole di segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. Accedere al **Database**.
 
@@ -37,6 +33,7 @@ ht-degree: 0%
    >È possibile modificare solo una bozza della segmentazione.
 
    Puoi controllare o modificare l&#39;ordine dei segmenti da questa schermata.
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ ht-degree: 0%
 >* Quando una persona si qualifica per due segmenti, apparterrà solo al primo nell&#39;elenco.
 >* Se una persona non è qualificata per nessun segmento, diventerà membro del segmento predefinito.
 
->
 
-
-
-Fantastico, eh? Puoi utilizzare i segmenti per contenuti dinamici, [reporting](https://docs.marketo.com/display/docs/basic+reporting) e anche in [smart list](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
+Fantastico, eh? Puoi utilizzare i segmenti per contenuti dinamici, rapporti e persino in elenchi smart.
