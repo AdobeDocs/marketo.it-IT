@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: Eliminazione di una segmentazione - Documenti Marketo - Documentazione prodotto
 title: Eliminazione di una segmentazione
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Una segmentazione può essere eliminata seguendo la procedura riportata di segui
    >
    >Potete rimuovere le associazioni eliminando o creando alternative per le risorse che utilizzano la segmentazione.
 
-   Una volta non approvata, fai clic su Azioni segmentazione ed Elimina la segmentazione.
+1. Una volta non approvata, fare clic su **Azioni segmentazione** ed eliminare la segmentazione.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
