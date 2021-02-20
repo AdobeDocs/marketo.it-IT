@@ -3,19 +3,15 @@ unique-page-id: 11384634
 description: Il Predictive Content Summary - Marketo Docs - Documentazione del prodotto
 title: Riepilogo contenuto predittivo
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
 # Riepilogo contenuto predittivo {#the-predictive-content-summary}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Il Predictive Content Summary (Riepilogo contenuti predittivi) visualizza rapidamente le informazioni necessarie sul contenuto predittivo, con tabelle, grafici e numeri correnti.
 
@@ -52,13 +48,3 @@ Quali categorie di contenuti sono più coinvolgenti? Vedetela in questo grafico.
 >[!NOTE]
 >
 >Se fate clic su un collegamento di categoria (esempi nell’immagine precedente: e-mail, ecc.) apre la pagina Tutto il contenuto con la categoria su cui hai fatto clic e che mostra l&#39;analisi del contenuto in quella categoria.
-
->[!MORELIKETHIS]
->
->* [Utilizzo di tutto il contenuto](https://docs.marketo.com/display/docs/working+with+all+content)
->* [Utilizzo dei contenuti predittivi](https://docs.marketo.com/display/docs/working+with+predictive+content)
-
->
-
-
-
