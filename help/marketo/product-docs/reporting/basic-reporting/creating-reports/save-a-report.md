@@ -3,7 +3,7 @@ unique-page-id: 7511980
 description: Salva un rapporto - Documenti Marketo - Documentazione del prodotto
 title: Salva un rapporto
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -16,13 +16,14 @@ ht-degree: 0%
 A volte può essere necessario salvare un rapporto predefinito per visualizzarlo di nuovo in seguito. Ecco come farlo:
 
 1. Andate all&#39;area **Analytics**.
-1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Selezionare un [tipo di report](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+   ![](assets/image2015-4-30-11-3a50-3a5.png)
+
+1. Selezionare un [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Fare clic su **Azioni report **e selezionare **Salva con nome**.
+1. Fare clic su **Azioni report** e selezionare **Salva con nome**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
@@ -40,5 +41,4 @@ A volte può essere necessario salvare un rapporto predefinito per visualizzarlo
 
 >[!MORELIKETHIS]
 >
->Scopri come [duplicare un report per raggruppare i report](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
-
+>Scopri come [duplicare un report per raggruppare i report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
