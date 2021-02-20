@@ -3,19 +3,15 @@ unique-page-id: 11384651
 description: Aggiungere nuovi contenuti - Documenti Marketo - Documentazione prodotto
 title: Aggiungi nuovo contenuto
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # Aggiungi nuovo contenuto {#add-new-content}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Potete aggiungere facilmente il contenuto manualmente alla pagina Tutto il contenuto.
 
@@ -39,5 +35,4 @@ Potete aggiungere facilmente il contenuto manualmente alla pagina Tutto il conte
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Come aggiungerlo a [Predictive Content](https://docs.marketo.com/x/Vbet).
-
+1. Come aggiungerlo a [Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
