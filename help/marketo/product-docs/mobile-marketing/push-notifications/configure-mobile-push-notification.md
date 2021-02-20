@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Configurare le notifiche push per dispositivi mobili - Documenti Marketo - Documentazione prodotto
 title: Configura notifica push mobile
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurare le notifiche push mobili {#configure-mobile-push-notification}
 
-1. Andate all&#39;area Attività di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   Se il messaggio push viene applicato a una sola piattaforma (ad esempio, casi per iPhone), potete escludere l&#39;altra piattaforma spostando il selettore su Disattivato.
+1. Se il messaggio push viene applicato a una sola piattaforma (ad esempio, casi per iPhone), potete escludere l&#39;altra piattaforma spostando il selettore su Disattivato.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Fare clic su NEXT.
+1. Fare clic su **Next**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definizione**
-   >
-   >
-   >Esistono tre tipi di azioni di tocco**:**
-   >
+   >Esistono tre tipi di azioni di tocco:
    >
    >**Avvia app**  -  **Viene** visualizzata la pagina principale dell&#39;app quando viene toccata la notifica. **** Personalizza un collegamento diretto per aprire altre aree dell&#39;app o qualsiasi altra app a cui hai collegamento (consulta  [URI collegamento profondo ](#Deeplink) di seguito).
    >
-   >
    >**Pagina**  di destinazione: consente di passare a una specifica pagina di destinazione Marketo.
-   >
    >
    >**URL**  esterno: consente di passare a una pagina di destinazione non Marketo.
 
-   Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, fai clic su Personalizzato e immetti nel campo l&#39; [URI del collegamento profondo](#Deeplink).
+1. Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, fai clic su Personalizzato e immetti nel campo l&#39; [URI del collegamento profondo](#Deeplink).
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   Per inserire i token, selezionare un token, immettere un valore predefinito e fare clic su Inserisci.
+1. Per inserire i token, selezionare un token, immettere un valore predefinito e fare clic su Inserisci.
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >Messaggi e azioni di tocco avranno lo stesso aspetto su entrambe le piattaforme.
 
-   Solo per iOS, seleziona la casella di controllo per indicare all&#39;app di riprodurre un suono all&#39;arrivo del messaggio. Android riproduce il suono automaticamente.
+1. Solo per iOS, seleziona la casella di controllo per indicare all&#39;app di riprodurre un suono all&#39;arrivo del messaggio. Android riproduce il suono automaticamente.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Visualizzare l&#39;anteprima dell&#39;altra piattaforma e fare clic su FINISH.
+1. Visualizzare l&#39;anteprima dell&#39;altra piattaforma e fare clic su **Fine**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Fare clic su **APPROVE AND CLOSE**.
+1. Fare clic su **Approva e Chiudi**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ Detto questo, la struttura di collegamento profondo dell&#39;app potrebbe essere
 
 >[!MORELIKETHIS]
 >
->* [Invia una notifica push mobile](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[Invia una notifica push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
