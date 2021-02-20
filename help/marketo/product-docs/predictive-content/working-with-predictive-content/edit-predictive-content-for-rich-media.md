@@ -3,19 +3,15 @@ unique-page-id: 11385940
 description: Modifica di contenuti predittivi per contenuti multimediali avanzati - Documenti Marketo - Documentazione prodotto
 title: Modifica di contenuti predittivi per contenuti multimediali avanzati
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 
 # Modifica contenuto predittivo per contenuti multimediali avanzati {#edit-predictive-content-for-rich-media}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi Marketo o contenuti<sup>AI</sup>. Per gli utenti che utilizzano contenuti predittivi, Marketo abilita le funzionalità di analisi di Content<sup>AI</sup> fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo<sup>AI</sup>.
 
 Come impostare i contenuti predittivi per i contenuti multimediali avanzati.
 
