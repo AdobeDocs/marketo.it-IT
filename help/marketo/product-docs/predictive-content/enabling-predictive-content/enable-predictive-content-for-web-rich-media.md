@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Abilita contenuti predittivi per contenuti multimediali Web - Documenti Marketo - Documentazione prodotto
 title: Abilita contenuto predittivo per contenuti multimediali Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ I contenuti predittivi coinvolgono i visitatori Web con i contenuti più rilevan
 >
 >Prima di abilitare Predictive Content (Contenuto predittivo), dovete:
 >
->* [Preparare il contenuto predittivo](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **Preparare il contenuto predittivo**
+   >
+   >   
+   * [Modifica contenuto predittivo per ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mail
+   >   * [Modifica contenuto predittivo per ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) supporto avanzato
+   >   * [Modifica contenuto predittivo per la barra delle raccomandazioni](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 Dopo aver preparato il titolo del contenuto, la descrizione e l’immagine per i contenuti multimediali avanzati, potete attivare elementi di contenuto singoli o multipli.
@@ -58,9 +61,3 @@ Di seguito è riportato un esempio del Modello di raccomandazione per contenuti 
 Di seguito è riportato un esempio del Modello di raccomandazione per contenuti multimediali avanzati2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [Abilita la barra delle raccomandazioni del contenuto](enable-the-content-recommendation-bar.md)
->* [Abilita contenuto predittivo nelle e-mail](https://docs.marketo.com/x/vLit)
-
