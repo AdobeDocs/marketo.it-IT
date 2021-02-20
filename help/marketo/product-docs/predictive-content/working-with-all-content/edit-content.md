@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: Edit Content - Marketo Docs - Documentazione prodotto
 title: Modifica contenuto
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. Selezionare la casella **Approva per contenuto predittivo** per approvare o deselezionare la casella per annullare l&#39;approvazione. Fare clic su **Salva** al termine.
 
    ![](assets/edit-content-4.png)
-
