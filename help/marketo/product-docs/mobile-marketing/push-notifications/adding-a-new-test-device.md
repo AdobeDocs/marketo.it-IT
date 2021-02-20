@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: Aggiunta di un nuovo dispositivo di test - Documenti Marketo - Documentazione del prodotto
 title: Aggiunta di un nuovo dispositivo di prova
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Fare clic su **Admin **e quindi sul collegamento **App mobili**.\
+1. Fare clic su **Admin**, quindi sul collegamento **Mobile Apps**.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Fare clic sulla scheda **Dispositivi di prova** e **Nuovo dispositivo di prova**.
@@ -51,4 +52,3 @@ ht-degree: 0%
 1. Viene aggiunto l’aggiornamento dello stato per mostrare il dispositivo. Congratulazioni!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
