@@ -3,9 +3,9 @@ unique-page-id: 11385579
 description: Creazione di modelli di contenuto - Documenti Marketo - Documentazione del prodotto
 title: Creare pattern di contenuto
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Creare pattern di contenuto {#create-content-patterns}
 
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
-
-Quando impostate i pattern di contenuto, il contenuto viene rilevato automaticamente quando un visitatore Web fa clic sulla pagina Web HTML relativa al pattern di contenuto. Viene utilizzato per aggiungere alla pagina Tutti i contenuti delle pagine HTML (post di blog, comunicati stampa, articoli di notizie) come elementi di contenuto. Quando la funzione di individuazione automatica è basata su pattern di contenuto, rileva e tiene traccia delle pagine HTML correlate al pattern URL definito quando un visitatore Web visualizza o fa clic su un collegamento alla pagina. Questo contenuto (l’URL, il nome della pagina e i metadati, inclusi l’URL e la descrizione dell’immagine) viene aggiunto alla pagina Tutto il contenuto per preparare il contenuto predittivo. Per scoprire automaticamente altri contenuti, come PDF e video incorporato, è necessario [abilitare l&#39;individuazione del contenuto](enable-content-discovery.md).
+Quando impostate i pattern di contenuto, il contenuto viene rilevato automaticamente quando un visitatore Web fa clic sulla pagina Web HTML relativa al pattern di contenuto. Viene utilizzato per aggiungere alla pagina Tutti i contenuti delle pagine HTML (post di blog, comunicati stampa, articoli di notizie). Quando la funzione di individuazione automatica è basata su pattern di contenuto, rileva e tiene traccia delle pagine HTML correlate al pattern URL definito quando un visitatore Web visualizza o fa clic su un collegamento alla pagina. Questo contenuto (l’URL, il nome della pagina e i metadati, inclusi l’URL e la descrizione dell’immagine) viene aggiunto alla pagina Tutto il contenuto per preparare il contenuto predittivo. Per scoprire automaticamente altri contenuti, come PDF e video incorporato, è necessario [abilitare l&#39;individuazione del contenuto](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. Vai a **Impostazioni contenuto**.
 
@@ -27,7 +23,7 @@ Quando impostate i pattern di contenuto, il contenuto viene rilevato automaticam
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Fare clic su **+ **per aprire una riga in cui inserire le informazioni.
+1. Fare clic su **+** per aprire una riga in cui inserire le informazioni.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -37,9 +33,9 @@ Quando impostate i pattern di contenuto, il contenuto viene rilevato automaticam
 
    >[!NOTE]
    >
-   >Gli elementi nell&#39;elenco a discesa sulla destra riflettono le categorie configurate al momento della creazione di [categorie](set-up-categories.md).
+   >Gli elementi nell&#39;elenco a discesa sulla destra riflettono le categorie configurate al momento della creazione di [categorie](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Fare clic su **+ **per aggiungere un altro percorso.
+1. Fare clic su **+** per aggiungere un altro percorso.
 
    ![](assets/url-patterns-add2.png)
 
@@ -49,16 +45,16 @@ Quando impostate i pattern di contenuto, il contenuto viene rilevato automaticam
 
 ## Regole pattern contenuto {#content-pattern-rules}
 
-* È possibile utilizzare un carattere jolly ovunque in un&#39;espressione (esempio: *domain.com/**, *domain.com/*blog**)
+* È possibile utilizzare un carattere jolly ovunque in un&#39;espressione (esempio: _domain.com/*_, _domain.com/*blog*_)
 
-* È consigliabile utilizzare /* alla fine di un&#39;espressione per continuare l&#39;individuazione dei pattern (esempio: *domain.com/blog/** rileva tutti i post presenti nella cartella Blog)
-* I pattern di contenuto non fanno distinzione tra maiuscole e minuscole (esempio: *domain.com/Blog/** rileva tutte le pagine HTML in *domain.com/Blog* e *domain.com/blog*
+* È consigliabile utilizzare /* alla fine di un&#39;espressione per continuare l&#39;individuazione dei pattern (esempio: _domain.com/blog/*_ rileva tutti i post presenti nella cartella Blog)
+* I pattern di contenuto non fanno distinzione tra maiuscole e minuscole (esempio: _domain.com/Blog/*_ rileva tutte le pagine HTML in _domain.com/Blog_ e _domain.com/blog_
 
 * I parametri URL non vengono rilevati (in questo modo si evitano di rilevare più elementi con lo stesso URL di contenuto ma con parametri diversi)
 
 ## Esempi {#examples}
 
-Per *domain.com*:
+Per _domain.com_:
 
 <table> 
  <tbody> 
@@ -88,4 +84,3 @@ Per *domain.com*:
   </tr> 
  </tbody> 
 </table>
-
