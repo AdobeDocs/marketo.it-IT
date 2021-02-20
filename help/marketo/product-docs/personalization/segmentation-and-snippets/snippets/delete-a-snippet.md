@@ -3,9 +3,9 @@ unique-page-id: 2359518
 description: Eliminare un frammento di codice - Documenti Marketo - Documentazione prodotto
 title: Eliminare un frammento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Disapprovare uno snippet](unapprove-a-snippet.md)
-
->
-
-
+>[Disapprovare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 Elimina un frammento di codice che non ti serve più.
 
-1. Vai a **Design Studio.**
+1. Andate a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
@@ -31,14 +27,11 @@ Elimina un frammento di codice che non ti serve più.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Fare clic su **Delete **per confermare o selezionare **Annulla**.
+1. Fare clic su **Elimina** per confermare o semplicemente su **Annulla**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
    >[!NOTE]
-   >
-   >**Promemoria**
-   >
    >
    >Potete eliminare solo uno snippet non approvato e non utilizzato da alcuna risorsa.
 
