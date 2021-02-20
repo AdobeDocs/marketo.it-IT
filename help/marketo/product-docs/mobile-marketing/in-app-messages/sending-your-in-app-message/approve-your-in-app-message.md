@@ -3,7 +3,7 @@ unique-page-id: 10617440
 description: Approvare il messaggio in-app - Documenti Marketo - Documentazione prodotto
 title: Approva il messaggio in-app
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
    >
    >I motivi della pausa potrebbero essere semplicemente per interromperla per un po&#39;, o se si desidera modificare il messaggio o regolare la pianificazione. Tuttavia, non puoi passare a un altro messaggio, ma solo modificare quello esistente.
 
-1. Per continuare l&#39;esecuzione del programma in pausa, fare clic su **Riprendi** **Programma**.
+1. Se si desidera che il programma messo in pausa continui a essere in esecuzione, fare clic su **Riprendi programma**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -59,9 +59,7 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
 
 1. Se si è certi di voler arrestare il programma, fare clic su **Stop**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -72,4 +70,3 @@ Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
 Dopo l&#39;esecuzione del programma, puoi controllarne le prestazioni con il dashboard in-app, che viene visualizzato automaticamente dopo l&#39;approvazione del programma. Per tornare al programma, fare clic sul collegamento in alto a destra e selezionare **Pannello di controllo Campaign**.
 
 Tutto qui, gente!
-
