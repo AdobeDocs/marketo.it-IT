@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: Imposta categorie - Documenti Marketo - Documentazione prodotto
 title: Imposta categorie
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # Imposta categorie {#set-up-categories}
-
->[!NOTE]
->
->A seconda della data di acquisto, l&#39;iscrizione a Marketo può includere contenuti predittivi di marketing o contenuti`<sup>AI</sup>`. Per gli utenti che utilizzano Predictive Content, Marketo attiva le funzioni di Content`<sup>AI</sup>` Analytics fino al 30 aprile 2018. Per mantenere queste funzionalità oltre tale data, contatta il tuo Customer Success Manager di Marketo per effettuare l&#39;aggiornamento a Contenuto di Marketo`<sup>AI</sup>`.
 
 Create categorie in Predictive Content (Contenuto predittivo) per raggruppare i risultati predittivi sul Web o nell&#39;e-mail. Ad esempio, potete utilizzare solo i blog o il contenuto di una lingua particolare. Consente inoltre di cercare e filtrare la visualizzazione della pagina.  Le categorie sono visualizzate nelle pagine Tutto il contenuto e Predictive Content (Contenuto predittivo) per un riferimento semplice.
 
@@ -54,4 +50,3 @@ Come creare i tag categoria.
    ![](assets/save-new.png)
 
    Molto semplice.
-
