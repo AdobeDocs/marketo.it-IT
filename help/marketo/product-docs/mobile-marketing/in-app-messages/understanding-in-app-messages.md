@@ -3,9 +3,9 @@ unique-page-id: 10100397
 description: Informazioni sui messaggi in-app - Documenti Marketo - Documentazione prodotto
 title: Informazioni sui messaggi in-app
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Utilizzate i messaggi in-app per interagire direttamente con i clienti mentre ut
 
 >[!NOTE]
 >
->Esempio 1: La promozione &quot;Vendita estiva&quot; viene visualizzata all&#39;apertura dell&#39;app.
+>**Esempio 1**: La promozione &quot;Vendita estiva&quot; viene visualizzata all&#39;apertura dell&#39;app.
 >
->Esempio 2: Durante la visione di un video medico, pianificare una visita medica, e attiva un coupon di $40.
+>**Esempio 2**: Durante la visione di un video medico, pianificare una visita medica, e attiva un coupon di $40.
 
 Prima di poter creare e inviare messaggi in-app per la tua app mobile, devi essere l&#39;amministratore di Marketing e lo sviluppatore di app mobile per eseguire alcune impostazioni.  Il processo di produzione dei messaggi in-app è suddiviso in tre fasi:
 
@@ -33,18 +33,10 @@ Lo sviluppatore di app marketing e per dispositivi mobili collabora per configur
 
 ## Passaggio 2: Creare un messaggio in-app {#step-create-an-in-app-message}
 
-[create un messaggio in-app](https://docs.marketo.com/display/docs/create+an+in-app+message) utilizzando l&#39;editor online.
+[create un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) utilizzando l&#39;editor online.
 
 ## Passaggio 3: Invia! {#step-send}
 
-Si crea un programma per [inviare il messaggio](https://docs.marketo.com/display/docs/send+your+in-app+message).
+Si crea un programma per [inviare il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 Sta arrivando.
-
->[!MORELIKETHIS]
->
->* [Creare un messaggio in-app](https://docs.marketo.com/display/docs/create+an+in-app+message)
-   >
-   >
-* [Invia messaggio in-app](https://docs.marketo.com/display/docs/send+your+in-app+message)
-
