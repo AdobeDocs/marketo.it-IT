@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: Aggiungere contenuto a uno snippet - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di contenuto a uno snippet
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creare uno snippet](create-a-snippet.md)
+>[Creare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Potete aggiungere token, immagini, file o testo RTF a uno snippet.
 
@@ -23,7 +23,7 @@ Potete aggiungere token, immagini, file o testo RTF a uno snippet.
 >
 >Non è possibile incorporare [sintassi e-mail di marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) negli snippet; **not** funzionerà in un&#39;e-mail. Gli snippet devono essere semplicemente contenuti body (HTML + TEXT).
 
-1. Vai a **Design Studio.**
+1. Andate a **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ Potete aggiungere tre tipi di contenuto a uno snippet.
 
    >[!NOTE]
    >
-   >Potete aggiungere immagini o file personalizzati a Marketo. Ulteriori informazioni su [immagini e file](https://docs.marketo.com/display/docs/images+and+files).
+   >Potete aggiungere immagini o file personalizzati a Marketo. Ulteriori informazioni su [immagini e file](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Selezionare l&#39; **Immagine** da utilizzare e fare clic su **Inserisci**.
 
@@ -87,6 +87,6 @@ Fantastico! Ora puoi creare una varietà di contenuti per il tuo Snippet.
 
 >[!MORELIKETHIS]
 >
->* [Anteprima di uno snippet](preview-a-snippet.md)
->* [Approvare un frammento](approve-a-snippet.md)
+>* [Anteprima di uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Approvare un frammento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
