@@ -3,7 +3,7 @@ unique-page-id: 7512451
 description: Creare una notifica push - Documenti Marketo - Documentazione prodotto
 title: Creare una notifica push
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Creare una notifica push {#create-a-push-notification}
 
-È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che il tuo responsabile marketing Admin e sviluppatore di app mobili configurino alcune cose che ti servono mentre lo stai facendo. Per informazioni, consultate [Informazioni sulle notifiche push](understanding-push-notifications.md).
+È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che il tuo responsabile marketing Admin e sviluppatore di app mobili configurino alcune cose che ti servono mentre lo stai facendo. Per informazioni, consultate [Informazioni sulle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md).
 
 1. Andate all&#39;area **Attività di marketing**.
 
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Dolce! Ora che viene creata la notifica push, andiamo avanti e [vestiamola](configure-mobile-push-notification.md).
-
+   Dolce! Ora che viene creata la notifica push, andiamo avanti e [vestiamola](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
