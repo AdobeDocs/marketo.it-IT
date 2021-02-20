@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: Abilita contenuto predittivo nelle e-mail - Documenti Marketo - Documentazione prodotto
 title: Abilita contenuto predittivo nelle e-mail
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ Fai prevedere una o più immagini nel tuo messaggio e-mail, adattando l&#39;espe
 
 >[!PREREQUISITES]
 >
->Prima di abilitare Predictive Content. è necessario:
+>Prima di abilitare Predictive Content (Contenuto predittivo), dovete:
 >
->* [Preparare il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **Preparare il contenuto predittivo**
+   >
+   >   
+   * [Modifica contenuto predittivo per ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mail
+   >   * [Modifica contenuto predittivo per ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) supporto avanzato
+   >   * [Modifica contenuto predittivo per la barra delle raccomandazioni](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ Fai prevedere una o più immagini nel tuo messaggio e-mail, adattando l&#39;espe
 
    ![](assets/two.png)
 
-1. Fate clic sull’immagine da rendere predittiva. Quando viene visualizzata l&#39;icona a forma di ingranaggio, fate clic su di essa e selezionate **Abilita contenuto`AI`** (Content`AI` è il nome precedente per Contenuto predittivo).
+1. Fate clic sull’immagine da rendere predittiva. Quando viene visualizzata l&#39;icona a forma di ingranaggio, fate clic su di essa e selezionate **Abilita ContentAI** (ContentAI è il nome precedente per Contenuto predittivo).
 
    ![](assets/three.png)
 
