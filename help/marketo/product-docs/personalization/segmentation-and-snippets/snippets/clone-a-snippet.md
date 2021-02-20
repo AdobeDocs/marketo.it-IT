@@ -3,7 +3,7 @@ unique-page-id: 2359514
 description: Clona uno snippet - Marketo Docs - Documentazione prodotto
 title: Clona un frammento
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Clonate uno snippet per crearne una copia da modificare in base alle vostre esigenze.
 
-1. Vai a **Design Studio.**
+1. Andate a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Vai al tuo snippet e poi in *** Azioni snippet**, fai clic su **Clone**.
+1. Accedete allo snippet e, in **Azioni snippet**, fate clic su **Clone**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
@@ -31,9 +31,4 @@ Fantastico! Ora puoi modificare il frammento clonato in base alle tue esigenze.
 
 >[!MORELIKETHIS]
 >
->* [Modificare gli snippet con il contenuto dinamico](edit-snippets-with-dynamic-content.md)
-
->
-
-
-
+>[Modificare gli snippet con il contenuto dinamico](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
