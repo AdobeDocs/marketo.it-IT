@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: Visualizza il dashboard delle notifiche push - Documenti Marketo - Documentazione prodotto
 title: Visualizzare il dashboard delle notifiche push
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,14 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >La metrica **Inviato** può riflettere più invii rispetto al numero esatto di persone a cui è stata inviata la notifica push. Questo perché è calcolato in base al *numero di dispositivi* idonei a ricevere il push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
+   >La metrica _Inviato_ può riflettere più invii rispetto al numero esatto di persone a cui è stata inviata la notifica push. Questo perché è calcolato in base al *numero di dispositivi* idonei a ricevere il push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Informazioni sulle notifiche push](understanding-push-notifications.md)
-   >    * [Invia una notifica push mobile](send-a-mobile-push-notification.md)
-
+   >* [Informazioni sulle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Invia una notifica push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
