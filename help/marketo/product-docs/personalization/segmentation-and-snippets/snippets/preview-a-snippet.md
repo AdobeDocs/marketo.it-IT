@@ -3,7 +3,7 @@ unique-page-id: 2359498
 description: Anteprima di uno snippet - Documenti Marketo - Documentazione prodotto
 title: Anteprima di uno snippet
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiunta di contenuto a uno snippet](add-content-to-a-snippet.md)
-
->
-
-
+>[Aggiunta di contenuto a uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Gli snippet sono blocchi di contenuto dinamico che si modificano in base alle regole di segmentazione.
 
-1. Vai a **Design Studio.**
+1. Andate a **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -35,9 +31,4 @@ La funzione Anteprima è ideale per garantire che il contenuto sia adatto a cias
 
 >[!MORELIKETHIS]
 >
->* [Approvare un frammento](approve-a-snippet.md)
-
->
-
-
-
+>[Approvare un frammento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
