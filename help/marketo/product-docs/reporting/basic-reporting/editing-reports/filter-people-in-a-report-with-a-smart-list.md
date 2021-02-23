@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filtrare le persone in un report con un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Filtrare le persone in un report con un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ Utilizzate gli elenchi avanzati per filtrare i rapporti in base ad attributi di 
 
 È possibile utilizzare gli elenchi smart con i seguenti tipi di rapporto:
 
-* [Prestazioni Persone](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [Persone per stato](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Stato Persone per entrate](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [Prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [Prestazioni collegamento e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [Prestazioni flusso di coinvolgimento](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Attività campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [Prestazioni e-mail campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [Attività Web società](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Attività pagina Web](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [Prestazioni Persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [Persone per stato](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [Stato Persone per entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [Prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [Prestazioni flusso di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [Prestazioni e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [Attività Web società](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [Attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. Andate all&#39;area **Attività di marketing**.
 
@@ -49,11 +49,3 @@ Utilizzate gli elenchi avanzati per filtrare i rapporti in base ad attributi di 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    Fantastico! Ora il rapporto mostra i dati relativi solo alle persone che corrispondono alla smart list.
-
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
