@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile - Documenti Marketo - Documentazione del prodotto
 title: Creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -106,4 +106,3 @@ Per creare un rapporto sulle prestazioni delle persone con le colonne della piat
    ![](assets/seventeen.png)
 
    Abbastanza figo, giusto? Ben fatto!
-
