@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Rapporti di gruppi di persone per attributo - Documenti Marketo - Documentazione prodotto
 title: Rapporti sulla persona del gruppo per attributo
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapporti sulla persona del gruppo per attributo {#group-person-reports-by-attribute}
 
-Potete raggruppare i rapporti [persona](https://docs.marketo.com/display/docs/basic+reporting) per qualsiasi persona o attributo della società.
+Potete raggruppare i rapporti sulle persone in base a qualsiasi attributo di persona o società.
 
 1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
@@ -29,7 +29,7 @@ Potete raggruppare i rapporti [persona](https://docs.marketo.com/display/docs/ba
 
    >[!NOTE]
    >
-   >È inoltre possibile [raggruppare i rapporti personali per segmento](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >È inoltre possibile [raggruppare i rapporti personali per segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Nella finestra di dialogo Raggruppa persone per, selezionate l’attributo persona o società da usare per il raggruppamento.
 
@@ -37,24 +37,12 @@ Potete raggruppare i rapporti [persona](https://docs.marketo.com/display/docs/ba
 
    >[!TIP]
    >
-   >Se scegliete un attributo con un valore numerico, ad esempio *Creato a* o *Entrate annuali*, selezionate le metriche dal menu a discesa **Unità** a destra.
+   >Se scegliete un attributo con un valore numerico, ad esempio _Creato a_ o _Entrate annuali_, selezionate le metriche dal menu a discesa **Unità** a destra.
 
    È tutto! Fai clic sulla scheda Rapporto per visualizzare il rapporto raggruppato di conseguenza.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Ulteriori informazioni sui report delle persone e altri tipi di report nel corso [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting)informazioni approfondite.
-
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Aggiunta di colonne personalizzate a un report di persona](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
-
+   >[Aggiunta di colonne personalizzate a un report di persona](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
