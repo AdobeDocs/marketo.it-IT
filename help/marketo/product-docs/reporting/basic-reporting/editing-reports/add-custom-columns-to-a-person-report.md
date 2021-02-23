@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Aggiungere colonne personalizzate a un rapporto sulla persona - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di colonne personalizzate a un report di persona
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungi colonne personalizzate a un report di persona {#add-custom-columns-to-a-person-report}
 
-Puoi filtrare ulteriormente le metriche nei report [persona](https://docs.marketo.com/display/docs/basic+reporting) utilizzando gli [smart lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) come colonne personalizzate.
+Puoi filtrare ulteriormente le metriche nei report personali utilizzando gli [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) come colonne personalizzate.
 
 1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
 
@@ -31,27 +31,10 @@ Puoi filtrare ulteriormente le metriche nei report [persona](https://docs.market
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Scoprite come creare e configurare gli elenchi smart in [Smart Lists and Static Lists](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) deep dive.
-
 1. Ce l&#39;hai fatta! Fare clic sulla scheda **Report** per visualizzare il rapporto con le nuove colonne.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Potete anche [aggiungere colonne opportunità a un report lead](add-opportunity-columns-to-a-lead-report.md).
-
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Scopri di più sulle numerose operazioni che puoi eseguire con i report nel profondo [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Potete anche [aggiungere colonne opportunità a un report lead](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
