@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: Gestisci sottoscrizioni report - Documenti Marketo - Documentazione prodotto
 title: Gestisci sottoscrizioni report
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Configurare ed eliminare le sottoscrizioni dei rapporti.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   In questa pagina vengono visualizzate le iscrizioni a tutti i rapporti dell&#39;account, raggruppati per [tipo di rapporto](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Sono incluse le sottoscrizioni [ai report di base](subscribe-to-a-basic-report.md) e ai report [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   In questa pagina vengono visualizzate le iscrizioni a tutti i rapporti dell&#39;account, raggruppati per [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Sono incluse le sottoscrizioni [ai report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) e ai report Esplora ciclo di ricavi.
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ Configurare ed eliminare le sottoscrizioni dei rapporti.
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * Usate virgole tra gli indirizzi e-mail.
-   >    * Per salvare le modifiche, fare clic in un&#39;area *all&#39;esterno* dell&#39;elenco delle sottoscrizioni.
+   >* Usate virgole tra gli indirizzi e-mail.
+   >* Per salvare le modifiche, fare clic in un&#39;area _all&#39;esterno_ dell&#39;elenco delle sottoscrizioni.
 
 
    È inoltre possibile:
@@ -53,8 +50,6 @@ Configurare ed eliminare le sottoscrizioni dei rapporti.
    * Fate clic sul campo **Riepilogo** e modificate il numero di righe di anteprima visualizzate nell&#39;e-mail.
    * Deselezionate la casella di controllo **Excel** per inviare i riepiloghi dei rapporti senza l&#39;allegato del foglio di calcolo.
    * Fare clic sul pulsante **Invia** per inviare immediatamente l&#39;e-mail del rapporto.
-
-
 
 1. Per eliminare completamente una sottoscrizione, selezionare la riga e fare clic su **Elimina iscrizione**.
 
@@ -66,12 +61,6 @@ Configurare ed eliminare le sottoscrizioni dei rapporti.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Iscriviti a un report di base](subscribe-to-a-basic-report.md)
-   >    * [Iscriviti a un report di Esplora entrate](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   Ulteriori informazioni sono disponibili nelle [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) e [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) immersioni profonde.
+   >* [Iscriviti a un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Iscriviti a un report di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
