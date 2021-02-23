@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: E-mail report, Prestazioni Della Campagna Tra Aree Di Lavoro - Documenti Marketo - Documentazione Del Prodotto
 title: E-mail report, Prestazioni Della Campagna Nelle Aree Di Lavoro
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-mail report, prestazioni della campagna nelle aree di lavoro {#report-email-campaign-performance-across-workspaces}
 
-Attivate Global Reporting per includere i dati provenienti da tutte le aree di lavoro di Marketing [aree di lavoro](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nei rapporti [Prestazioni e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Prestazioni collegamento e-mail](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e [Attività campagna](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).
+Attivate Global Reporting per includere i dati provenienti da tutte le aree di lavoro di Marketing [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nei rapporti [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).
 
 1. Andate all&#39;area **Analytics** (o **Marketing Activities**).
 
@@ -37,16 +37,4 @@ Attivate Global Reporting per includere i dati provenienti da tutte le aree di l
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrare le risorse in un rapporto e-mail](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Scopri tutte le informazioni sui report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting) .
-
+   >[Filtrare le risorse in un rapporto e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
