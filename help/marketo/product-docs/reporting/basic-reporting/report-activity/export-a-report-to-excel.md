@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: Esportare un rapporto in Excel - Documenti Marketo - Documentazione prodotto
 title: Esportare un rapporto in Excel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,14 +31,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Se il file scaricato è troppo grande, è possibile [modificare la dimensione del report](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) .
-
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Vedi tutte le altre cose utili che puoi fare con i report nel profondo [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Se il file scaricato è troppo grande, è possibile [modificare la dimensione del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
