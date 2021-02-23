@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Condivisione di un modello tra aree di lavoro - Documenti Marketo - Documentazione prodotto
 title: Condivisione di un modello tra aree di lavoro
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,10 @@ Marketo consente di condividere uno o più modelli tra le aree di lavoro. Ecco c
 
    >[!NOTE]
    >
-   >
    >La condivisione di un modello con un’altra area di lavoro consente a tali utenti di eseguire rapporti basati sul modello.
 
 1. Selezionate le aree di lavoro con cui desiderate condividere la cartella e fate clic su **Salva**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-È così facile! Adesso, le persone provenienti da altre aree di lavoro possono spostarsi all&#39;interno del modello condiviso. È possibile eseguire l&#39;assegnazione di una persona nell&#39;area di lavoro. Per ulteriori informazioni, vedere [Avvio del modello del ciclo delle entrate](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS).
+È così facile! Adesso, le persone provenienti da altre aree di lavoro possono spostarsi all&#39;interno del modello condiviso.
