@@ -3,7 +3,7 @@ unique-page-id: 10093041
 description: Modifica di un abbonamento a un elenco avanzato - Marketo Docs - Documentazione prodotto
 title: Modificare una sottoscrizione a un elenco avanzato
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -52,4 +52,3 @@ Potete modificare queste colonne direttamente nella scheda Iscrizioni, che viene
 1. L&#39;ultimo pezzo del puzzle è il formato. Fare clic sulla colonna **Formato** e selezionare quello desiderato. CSV è il valore predefinito.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
