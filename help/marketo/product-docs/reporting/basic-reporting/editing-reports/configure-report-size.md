@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: Configurare le dimensioni del rapporto - Documenti Marketo - Documentazione del prodotto
 title: Configura dimensione rapporto
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5.000 righe, ma è possibile modificare tale limite.
 
-1. Vai all&#39;area **Marketing Activities **o.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -23,7 +23,7 @@ Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Fare doppio clic su **Esporta righe disponibili**.
+1. Fare doppio clic su **Esporta righe disponibili**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,9 +43,4 @@ Per impostazione predefinita, i rapporti Marketo sono limitati a un massimo di 5
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Ora puoi [esportare il report](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) con il nuovo limite.
-
-   Per ulteriori informazioni sulla configurazione dei report, vedere la sezione approfondita [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Puoi [esportare il report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) con il nuovo limite.
