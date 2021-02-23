@@ -3,9 +3,9 @@ unique-page-id: 7512105
 description: Clonare un report su Report di gruppo - Documenti Marketo - Documentazione di prodotto
 title: Clonare un report per raggruppare i report
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,19 @@ ht-degree: 0%
 
 Qualsiasi rapporto in **My Reports **è visibile solo per voi. Cosa succede se vuoi rendere il rapporto accessibile a tutti gli altri? Ecco come farlo:
 
-1. Nell&#39;area **Analytics **fare clic sul [report salvato](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) desiderato.
-1. ![](assets/image2015-4-21-11-3a25-3a54.png)
+1. Nell&#39;area **Analytics** fare clic sul [report salvato](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) desiderato.
+
+   ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >In alternativa, è possibile clonare un rapporto salvato in **Group Reports **trascinandolo nella cartella.
+   >In alternativa, è possibile clonare un rapporto salvato in **Rapporti di gruppo** trascinandolo nella cartella.
 
-1. Fare clic su **Azioni report **e selezionare **Rapporto clone**.
+1. Fare clic su **Azioni report** e selezionare **Rapporto clone**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Clona** su  **Analytics (Group)** e seleziona una  **cartella**.
+1. Fare clic sul menu a discesa **Clona su** e selezionare il gruppo. Selezionare la **Cartella**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
@@ -34,7 +35,6 @@ Qualsiasi rapporto in **My Reports **è visibile solo per voi. Cosa succede se v
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Fantastico! Il rapporto verrà ora visualizzato in **Report gruppo.**
+   Fantastico! Il rapporto verrà ora visualizzato in **Report gruppo**.
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)
-
