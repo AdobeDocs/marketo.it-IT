@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: Filtrare le risorse in un report e-mail - Documenti Marketo - Documentazione prodotto
 title: Filtrare le risorse in un rapporto e-mail
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrare le risorse in un report e-mail {#filter-assets-in-an-email-report}
 
-Concentrare il report [Email Performance](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Email Link Performance](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sulle e-mail nei programmi (risorse locali), su quelle in Design Studio (risorse globali) o su quelle archiviate.
+Concentrare il report [Email Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Email Link Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) sulle e-mail nei programmi (risorse locali), su quelle in Design Studio (risorse globali) o su quelle archiviate.
 
 1. Andate all&#39;area **Analytics** (o **Marketing Activities**).
 
@@ -45,15 +45,4 @@ Concentrare il report [Email Performance](../../../../product-docs/email-marketi
 
 >[!MORELIKETHIS]
 >
->* [Filtrare le risorse in un report e-mail campagna](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**Tubo profondo**
->
->Scopri tutte le informazioni sui report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+>[Filtrare le risorse in un report e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
