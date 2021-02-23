@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: Riordina colonne report - Documenti Marketo - Documentazione prodotto
 title: Riordina colonne rapporto
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Seleziona colonne rapporto](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Scopri tutta la potenza dell&#39;utilizzo dei report in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Seleziona colonne rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
