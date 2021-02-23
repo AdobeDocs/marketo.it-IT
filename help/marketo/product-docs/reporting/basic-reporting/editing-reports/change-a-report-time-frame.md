@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Modificare un intervallo di tempo per il rapporto - Documenti Marketo - Documentazione del prodotto
 title: Modifica di un intervallo di tempo per il rapporto
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ Modificate il periodo di tempo coperto dal rapporto, per concentrarvi su un peri
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Per limitare il rapporto in base ad attributi di persona specifici, potete [filtrare le persone in un rapporto con un elenco avanzato](filter-people-in-a-report-with-a-smart-list.md).
-
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Per ulteriori modi di utilizzare i report, vedere la sezione approfondita [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Per limitare il rapporto in base ad attributi di persona specifici, potete [filtrare le persone in un rapporto con un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
