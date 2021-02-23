@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Aggiungere colonne opportunità a un report lead - Documenti Marketo - Documentazione prodotto
 title: Aggiungi colonne opportunità a un report lead
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungi colonne opportunità a un report lead {#add-opportunity-columns-to-a-lead-report}
 
-Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](https://docs.marketo.com/display/docs/basic+reporting), puoi aggiungere delle colonne sulle opportunità.
+Per visualizzare le statistiche sulle opportunità nei rapporti personali, puoi aggiungere colonne relative alle opportunità.
 
 1. Andate all&#39;area **Attività di marketing**.
 
@@ -39,7 +39,7 @@ Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](
    >
    >Scorri a destra per visualizzare altre colonne.
 
-1. Per [aggiungere o rimuovere colonne dal report](select-report-columns.md), fare clic su un&#39;intestazione di colonna e selezionare **Colonne**.
+1. Per [aggiungere o rimuovere colonne dal report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), fare clic su un&#39;intestazione di colonna e selezionare **Colonne**.
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ Per visualizzare le statistiche sulle opportunità nei [rapporti sulle persone](
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Scopri come [gestire le dimensioni del report](configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**Tubo profondo**
-   >
-   >
-   >Scopri cos&#39;altro puoi fare con i report nel profondo [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Scopri come [gestire le dimensioni del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
