@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: Iscriviti a un Smart List - Marketo Docs - Documentazione prodotto
 title: Iscriviti a un Smart List
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -36,11 +36,11 @@ Le iscrizioni sono specifiche dell&#39;area di lavoro. Ad esempio, questo elenco
 
 ## Creare una sottoscrizione a un elenco avanzato {#create-a-smart-list-subscription}
 
-1. Andate al **database** o **Marketing Activities**.
+1. Andate al **Database** o **Marketing Activities**.
 
    ![](assets/db.png)
 
-1. Selezionate l’elenco avanzato per il quale desiderate creare un’iscrizione. Fare clic su **Azioni elenco** e selezionare** Nuova iscrizione elenco avanzato**.
+1. Selezionate l’elenco avanzato per il quale desiderate creare un’iscrizione. Fare clic su **Azioni elenco** e selezionare **Nuova iscrizione elenco avanzato**.
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ Le iscrizioni sono specifiche dell&#39;area di lavoro. Ad esempio, questo elenco
 
 1. Fare clic sull&#39;elenco **Frequenza** e selezionare una frequenza.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. Impostare la **End Delivery **date. È possibile selezionare **Mai** o una data di calendario.
+1. Impostare la data **Fine consegna**. È possibile selezionare **Mai** o una data di calendario.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ I destinatari riceveranno un&#39;e-mail con l&#39;opzione per scaricare il rappo
 
 >[!NOTE]
 >
->Se l&#39;impostazione [Amministratore iscrizione protetta](secure-the-subscription-admin-setting.md) è impostata su **Sì**, solo gli utenti che hanno accesso all&#39;istanza Marketo potranno scaricare il rapporto.
+>Se l&#39;impostazione [Amministratore iscrizione protetta](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) è impostata su **Sì**, solo gli utenti che hanno accesso all&#39;istanza Marketo potranno scaricare il rapporto.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ Per eliminare una sottoscrizione, selezionatela nella scheda Iscrizioni e fate c
 
 >[!MORELIKETHIS]
 >
->* [Modificare una sottoscrizione a un elenco avanzato](edit-a-smart-list-subscription.md)
->* [Proteggere l&#39;impostazione dell&#39;amministratore delle iscrizioni](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [Modificare una sottoscrizione a un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Proteggere l&#39;impostazione dell&#39;amministratore delle iscrizioni](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
