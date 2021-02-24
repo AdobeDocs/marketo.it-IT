@@ -3,7 +3,7 @@ unique-page-id: 13795492
 description: Impostazioni di Performance Insights - Marketo Docs - Documentazione del prodotto
 title: Impostazioni di Performance Insights
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -25,17 +25,35 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 
 **Pannello di coinvolgimento - Contributo e tendenza**
 
-| **Periodo costo** | Quando si verifica questa situazione, Performance Insights aggrega tutti i nuovi nomi e successi fino al mese impostato come periodo di costo. |
-|---|---|
-| **Periodo attività** | Quando si verifica questa situazione, Performance Insights aggrega tutti i nuovi nomi, successi e appartenenze per data attività, indipendentemente dal periodo di costo del programma. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Periodo costo</strong></td> 
+   <td>Quando si verifica questa situazione, Performance Insights aggrega tutti i nuovi nomi e successi fino al mese impostato come periodo di costo.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Periodo attività</strong></td> 
+   <td>Quando si verifica questa situazione, Performance Insights aggrega tutti i nuovi nomi, successi e appartenenze per data attività, indipendentemente dal periodo di costo del programma.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Configurazione periodo precedente {#previous-period-configuration}
 
 **Coinvolgimento, pipeline, dashboard ricavi - Solo contributo**
 
-| **Periodo calendario** | Imposta il periodo precedente su: mese, trimestre o anno di calendario precedente. |
-|---|---|
-| **Periodo YOUT** | Impostare il periodo precedente sullo stesso mese o trimestre dell&#39;anno precedente. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Periodo calendario</strong></td> 
+   <td>Imposta il periodo precedente su: mese, trimestre o anno di calendario precedente.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Periodo YOUT</strong></td> 
+   <td>Impostare il periodo precedente sullo stesso mese o trimestre dell'anno precedente.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Opportunità di impatto sul marketing {#marketing-influenced-opportunities}
 
@@ -54,7 +72,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
  </tbody> 
 </table>
 
-Pannello delle entrate - Contributo e tendenza
+**Pannello delle entrate - Contributo e tendenza**
 
 <table> 
  <tbody> 
@@ -73,7 +91,15 @@ Pannello delle entrate - Contributo e tendenza
 
 **Dashboard pipeline e ricavi - Contributo e tendenza**
 
-| **In base al periodo di investimento** | Il costo dell&#39;investimento è calcolato semplicemente come la somma dei costi del programma mensile definita dal filtro del periodo di investimento. |
-|---|---|
-| **In base all&#39;attribuzione del programma** | Il costo attribuito si basa su una parte del costo del programma determinata dai lead o dai contatti acquisiti, o ottenuti con successo, nel programma e che alla fine hanno dato luogo a una vincente opportunità. |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>In base al periodo di investimento</strong></td> 
+   <td>Il costo dell'investimento è calcolato semplicemente come la somma dei costi del programma mensile definita dal filtro del periodo di investimento.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>In base all'attribuzione del programma</strong></td> 
+   <td>Il costo attribuito si basa su una parte del costo del programma determinata dai lead o dai contatti acquisiti, o ottenuti con successo, nel programma e che alla fine hanno dato luogo a una vincente opportunità.</td> 
+  </tr> 
+ </tbody> 
+</table>
