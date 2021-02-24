@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: Definizione dei costi del periodo - Documenti Marketo - Documentazione del prodotto
 title: Definisci costi periodo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Monitora e associa i costi di sviluppo dei lead e di acquisizione dei lead per u
 
 ## Modifica costo periodo {#edit-a-period-cost}
 
-1. Fare clic con il pulsante destro del mouse sul costo del periodo e selezionare **Edit **dal menu a comparsa per aprire la finestra di dialogo **Edit Cost**.
+1. Fare clic con il pulsante destro del mouse su Costo periodo e selezionare **Modifica** dal menu a comparsa per aprire la finestra di dialogo **Modifica costo**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ Monitora e associa i costi di sviluppo dei lead e di acquisizione dei lead per u
 
 ## Elimina un costo periodo {#delete-a-period-cost}
 
-1. Fare clic con il pulsante destro del mouse sul costo del periodo che si desidera eliminare e selezionare **Elimina **dal menu a comparsa per visualizzare il prompt **Elimina costo **.
+1. Fare clic con il pulsante destro del mouse sul costo periodo che si desidera eliminare e selezionare **Elimina** dal menu a comparsa per visualizzare il prompt **Elimina costo**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Fare clic su **Elimina** per eliminare definitivamente il costo periodo, oppure su **Annulla** per tornare indietro.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
