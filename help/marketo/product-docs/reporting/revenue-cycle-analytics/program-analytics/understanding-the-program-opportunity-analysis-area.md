@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: Informazioni sull'area di analisi delle opportunità del programma - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sull'area di analisi delle opportunità del programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 L&#39;area Analisi opportunità del programma consente di analizzare l&#39;efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale del programma.
 
-**Di seguito sono riportati alcuni esempi di domande aziendali a cui puoi rispondere utilizzando questa area di analisi:**
+**Di seguito sono riportati alcuni esempi di domande aziendali a cui puoi rispondere utilizzando questa area di analisi**:
 
 Quante opportunità sono state associate a un determinato programma e quante di queste abbiamo vinto?
 
@@ -67,11 +67,11 @@ Come nel caso dell&#39;acquisizione, il valore del contributo alle vendite effet
   </tr> 
   <tr> 
    <td>Costo dell'opportunità</td> 
-   <td><p>La parte del costo del programma che ha influenzato l'opportunità. Il costo può essere suddiviso in caso di più lead.</p></td> 
+   <td>La parte del costo del programma che ha influenzato l'opportunità. Il costo può essere suddiviso in caso di più lead.</td> 
   </tr> 
   <tr> 
    <td>Opportunità create</td> 
-   <td><p>La parte di credito ricevuta dal programma per influenzare la creazione dell'opportunità. Può trattarsi di una frazione se sono coinvolti più lead.</p></td> 
+   <td>La parte di credito ricevuta dal programma per influenzare la creazione dell'opportunità. Può trattarsi di una frazione se sono coinvolti più lead.</td> 
   </tr> 
   <tr> 
    <td>Opportunità conquistate</td> 
@@ -79,28 +79,28 @@ Come nel caso dell&#39;acquisizione, il valore del contributo alle vendite effet
   </tr> 
   <tr> 
    <td>Pipeline creata</td> 
-   <td><p>La quota di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell'opportunità. Può trattarsi di una frazione se sono coinvolti più lead.</p></td> 
+   <td>La quota di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell'opportunità. Può trattarsi di una frazione se sono coinvolti più lead.</td> 
   </tr> 
   <tr> 
    <td>Pipeline creata - Still Open</td> 
    <td>La quota di credito (in valore monetario) ricevuta per influenzare la creazione dell'opportunità attualmente aperta. Può trattarsi di una frazione se sono coinvolti più lead.</td> 
   </tr> 
   <tr> 
-   <td><p>Entrate previste</p></td> 
+   <td>Entrate previste</td> 
    <td>La quota di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell'opportunità. Entrate previste è la probabilità di opportunità moltiplicata per il valore dell'opportunità. Può trattarsi di una frazione se sono coinvolti più lead.</td> 
   </tr> 
   <tr> 
-   <td><p>Entrate Da Investimento</p></td> 
-   <td><p>Questo è il rapporto tra la quota di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità e il costo del programma.</p></td> 
+   <td>Entrate Da Investimento</td> 
+   <td>Questo è il rapporto tra la quota di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità e il costo del programma.</td> 
   </tr> 
   <tr> 
    <td>Entrate</td> 
-   <td><p>La quota di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità di vincita. Può trattarsi di una frazione se sono coinvolti più lead.</p></td> 
+   <td>La quota di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità di vincita. Può trattarsi di una frazione se sono coinvolti più lead.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = First-Touch Attribution, utilizzata per le misure di acquisizione del lead; (MT) = Attribuzione multi-touch, utilizzata per misure di successo iniziale*
+_* (FT) = First-Touch Attribution, utilizzata per le misure di acquisizione del lead; (MT) = Attribuzione multi-touch, utilizzata per misure di successo iniziale_
 
 Di seguito è riportato uno scenario che descrive come vengono calcolate le Unità opportunità in presenza di due programmi che hanno generato i lead, ma che hanno portato a un&#39;opportunità dallo stesso account.
 
@@ -165,19 +165,19 @@ Mentre le misure (punti blu) vengono calcolate e richiedono riflessione e spiega
  <tbody> 
   <tr> 
    <th>Categoria</th> 
-   <th><p>Etichetta visualizzazione</p></th> 
+   <th>Etichetta visualizzazione</th> 
   </tr> 
   <tr> 
    <td>Attributi opportunità</td> 
-   <td><p>Opportunità chiusa<br>Nome opportunità*<br>Nome proprietario opportunità<br>Stage opportunità<br>Tipo opportunità</p></td> 
+   <td>Opportunità chiusa<br>Nome opportunità*<br>Nome proprietario opportunità<br>Stage opportunità<br>Tipo opportunità</td> 
   </tr> 
   <tr> 
    <td>Timeframe opportunità</td> 
-   <td><p>Opportunità chiusa anno/trimestre/mese<br>Opportunità creata anno/trimestre/mese</p></td> 
+   <td>Opportunità chiusa anno/trimestre/mese<br>Opportunità creata anno/trimestre/mese</td> 
   </tr> 
   <tr> 
    <td>Attributi del programma</td> 
-   <td><p>Canale programma<br>Nome programma</p></td> 
+   <td>Canale programma<br>Nome programma</td> 
   </tr> 
   <tr> 
    <td>Calendario costi programma</td> 
@@ -190,4 +190,4 @@ Mentre le misure (punti blu) vengono calcolate e richiedono riflessione e spiega
 
 >[!MORELIKETHIS]
 >
->[Creazione di un rapporto di Esplora entrate](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Creazione di un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
