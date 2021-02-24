@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: Crea gruppi di campi personalizzati utilizzando l'organizzatore di campi - Documenti Marketo - Documentazione del prodotto
 title: Creazione di gruppi di campi personalizzati con l'organizzatore dei campi
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -180,8 +180,8 @@ Nelle tre sezioni seguenti viene descritto come creare un gruppo di campi person
    >
    >È possibile aggiungere fino a dieci sottogruppi per classificare i valori dei dati. Ogni voce Intervallo gruppo si basa sulla voce precedente. Se lasciate vuota l’ultima voce Intervallo gruppo per l’ultimo sottogruppo personalizzato creato, non viene impostato un valore di data di fine.
 
+   L&#39;esempio seguente mostra una voce relativa al primo trimestre del 2015 che attraversa il terzo trimestre.
+
    ![](assets/16.5.png)
 
    Ed è tutto! Ottimo lavoro.
-
-L&#39;esempio seguente mostra una voce relativa al primo trimestre del 2015 che attraversa il terzo trimestre.
