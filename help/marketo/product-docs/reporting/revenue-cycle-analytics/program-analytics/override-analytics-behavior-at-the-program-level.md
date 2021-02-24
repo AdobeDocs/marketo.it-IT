@@ -3,9 +3,9 @@ unique-page-id: 2360421
 description: Escludi comportamento Analytics a livello di programma - Documenti Marketo - Documentazione prodotto
 title: Escludi comportamento Analytics a livello di programma
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Escludi comportamento Analytics a livello di programma {#override-analytics-behavior-at-the-program-level}
 
-È possibile impostare il comportamento di [analisi a livello di amministratore sui canali](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma è anche possibile ignorarlo a livello di programma. Di seguito è riportata la procedura seguente:
+È possibile impostare il comportamento di [analisi a livello di amministratore sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma è anche possibile ignorarlo a livello di programma. Di seguito è riportata la procedura seguente:
 
-1. Andate all&#39;area Attività di marketing.
+1. Andate all&#39;area **Attività di marketing**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Nella scheda Configurazione, trascina Comportamento di Analytics nell’area di lavoro.
+1. Nella scheda **Configurazione**, trascina il comportamento di Analytics nell&#39;area di lavoro.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Fate clic su SALVA.
+1. Fare clic su **Salva**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -51,7 +51,4 @@ Ben fatto! Ora sai come ignorare il comportamento di analisi a livello di progra
 
 >[!NOTE]
 >
->**Promemoria**
->
 >Le modifiche interesseranno il giorno successivo e saranno rese disponibili o ritirate da elenco ricavi e analizzatori.
-
