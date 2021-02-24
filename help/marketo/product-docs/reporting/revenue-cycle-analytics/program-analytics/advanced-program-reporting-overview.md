@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: Panoramica sulla generazione di rapporti dei programmi avanzati - Documenti Marketo - Documentazione sui prodotti
 title: Panoramica di Advanced Program Reporting
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Ciascuna area di analisi contiene set di dati e metriche diversi in Esplora entr
 
 ## Aree di analisi dei programmi {#program-analysis-areas}
 
-* ** [Analisi costi programma](understanding-the-program-cost-analysis-area.md) **- Vedere il ROI per tutti i programmi.
+* **[Analisi](understanding-the-program-cost-analysis-area.md)**  dei costi del programma - Visualizzare il ROI di tutti i programmi.
 
-* ** [Analisi iscrizione al programma](understanding-the-program-membership-analysis-area.md) **- Vedere i risultati per canale, partecipazione, criteri di successo, ecc.
+* **[Analisi](understanding-the-program-membership-analysis-area.md)**  dell&#39;appartenenza al programma - Visualizzare i risultati per canale, partecipazione, criteri di successo, ecc.
 
-* ** [Analisi delle opportunità del programma](understanding-the-program-opportunity-analysis-area.md) **- Opportunità generate in base alla distribuzione, alle entrate e al ROI.
+* **[Analisi](understanding-the-program-opportunity-analysis-area.md)**  delle opportunità del programma - Opportunità generate in base alla distribuzione, alle entrate e al ROI.
 
-* ** [Analisi fase ricavi programma](understanding-the-program-revenue-stage-analysis-area.md) **- Nuovi nomi che hanno raggiunto particolari fasi di successo all&#39;interno del modello del ciclo dei ricavi.
+* **[Analisi](understanding-the-program-revenue-stage-analysis-area.md)**  fase ricavi programma - Nuovi nomi che hanno raggiunto stadi di successo particolari all&#39;interno del modello del ciclo di ricavi.
 
 ## Analisi programmi {#program-analyzers}
 
