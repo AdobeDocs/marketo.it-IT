@@ -3,7 +3,7 @@ unique-page-id: 7504520
 description: Eliminazione di un campo in un report Revenue Explorer - Marketo Docs - Documentazione prodotto
 title: Eliminazione di un campo in un rapporto di Esplora entrate
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -25,9 +25,4 @@ A volte è possibile trascinare un campo errato nel rapporto. Come rimuoverlo:
 
 >[!MORELIKETHIS]
 >
->* [Salvataggio di un rapporto di Esplora entrate](saving-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Salvataggio di un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
