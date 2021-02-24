@@ -3,7 +3,7 @@ unique-page-id: 7504725
 description: Salvataggio di un report Esplora entrate - Documenti Marketo - Documentazione prodotto
 title: Salvataggio di un rapporto di Esplora entrate
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I rapporti di Esplora entrate possono essere salvati nel file di tua scelta.
 
-1. Fare clic sull&#39;icona **Save **.
+1. Fate clic sull&#39;icona Salva.
 
    ![](assets/image2015-3-25-17-3a8-3a49.png)
 
@@ -23,7 +23,7 @@ I rapporti di Esplora entrate possono essere salvati nel file di tua scelta.
    >
    >Le modifiche apportate al rapporto non vengono salvate automaticamente. Assicuratevi quindi di risparmiare spesso!
 
-1. Assegna un nome descrittivo al rapporto, seleziona una posizione e fai clic su **Salva**!
+1. Assegna al rapporto un nome descrittivo, seleziona una posizione e fai clic su **Salva**!
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
@@ -33,9 +33,4 @@ I rapporti di Esplora entrate possono essere salvati nel file di tua scelta.
 
 >[!MORELIKETHIS]
 >
->* [Iscriviti a un report di Esplora entrate](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Iscriviti a un report di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
