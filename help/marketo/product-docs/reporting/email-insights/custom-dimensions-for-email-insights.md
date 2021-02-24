@@ -3,7 +3,7 @@ unique-page-id: 11375276
 description: Dimension personalizzati per approfondimenti e-mail - Documenti Marketo - Documentazione prodotto
 title: Dimension personalizzati per approfondimenti e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere
 
 >[!CAUTION]
 >
->Le dimensioni personalizzate **CANNOT** possono essere eliminate o sostituite, quindi scegliete attentamente le 10.
+>Le dimensioni personalizzate **non possono essere eliminate o sostituite**, quindi scegliete attentamente le 10.
 
 1. In Approfondimenti e-mail, fai clic sull’icona a forma di ingranaggio in alto a destra della pagina.
 
@@ -43,6 +43,4 @@ Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere
    >
    >**Per pubblico**: Visualizza tutti i segmenti approvati (dall&#39;interno del database)
    >
-   >
    >**Per contenuto**: Visualizza tutti i tag del programma
-
