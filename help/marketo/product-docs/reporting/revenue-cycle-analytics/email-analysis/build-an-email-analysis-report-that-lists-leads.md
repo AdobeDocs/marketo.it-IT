@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Creare un rapporto di analisi e-mail che elenca i lead - Documenti Marketo - Documentazione prodotto
 title: Creare un rapporto di analisi e-mail in cui siano elencati i lead
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,26 +15,25 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
 Seguite questi passaggi per creare un rapporto Analisi e-mail che mostrerà tutti i lead a cui è stato inviato un messaggio e-mail specifico. Questo rapporto includerà anche gli stati Click e Open. 1. Avvia Esplora entrate.
 
 ![](assets/image2014-9-17-19-3a12-3a54.png)
 
-1. Fate clic su Nuovo rapporto.
+1. Fare clic su **Nuovo report**.
 
    ![](assets/image2014-9-17-19-3a13-3a1.png)
 
-1. Selezionate l’area Analisi e-mail e fate clic su OK.
+1. Selezionate l&#39;area Analisi e-mail e fate clic su **OK**.
 
    ![](assets/image2014-9-17-19-3a14-3a0.png)
 
-1. Trova il punto giallo Nome e-mail, fai clic con il pulsante destro del mouse su di esso e seleziona Filtro.
+1. Trovare il punto giallo Nome e-mail, fare clic con il pulsante destro del mouse su di esso e selezionare **Filtro**.
 
    ![](assets/image2014-9-17-19-3a14-3a6.png)
 
-1. Fare doppio clic sull&#39;e-mail desiderata dall&#39;elenco e fare clic su OK.
+1. Fare doppio clic sull&#39;e-mail desiderata dall&#39;elenco e fare clic su **OK**.
 
    ![](assets/image2014-9-17-19-3a14-3a11.png)
 
@@ -50,14 +49,16 @@ Seguite questi passaggi per creare un rapporto Analisi e-mail che mostrerà tutt
 
    ![](assets/image2014-9-17-19-3a15-3a32.png)
 
-1. Per aggiungere le misure che ti interessano, fai doppio clic su di esse.
+1. Per aggiungere le misure desiderate, fai doppio clic su di esse.
 
    ![](assets/image2014-9-17-19-3a15-3a47.png)
 
 >[!NOTE]
 >
->A seconda della quantità di dati di cui dispone il rapporto, l&#39;aggiornamento potrebbe richiedere un po&#39; di tempo.
+>A seconda della quantità di dati di cui disponete per questo rapporto, l&#39;aggiornamento potrebbe richiedere un po&#39; di tempo.
 
-Ora che hai finito il tuo rapporto dovrebbe assomigliare a questo:   ![](assets/image2014-9-17-19-3a16-3a39.png)
+Ora che hai finito il tuo rapporto dovrebbe assomigliare a questo:
+
+![](assets/image2014-9-17-19-3a16-3a39.png)
 
 Missione completa!
