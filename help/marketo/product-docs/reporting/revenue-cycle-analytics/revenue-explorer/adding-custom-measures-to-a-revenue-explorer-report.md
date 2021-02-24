@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: Aggiunta di misure personalizzate a un report Revenue Explorer - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di misure personalizzate a un report di Esplora ricavi
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ Nell&#39;esempio seguente, si sta creando una misura calcolata per i rimbalzi mo
 >
 >È necessaria almeno una metrica nel rapporto, ma non deve essere una delle misure utilizzate per definire la misura personalizzata.
 
-1. Estrai i campi necessari per il rapporto. Per ulteriori informazioni, vedere [Aggiunta di campi a un report Esplora entrate](adding-fields-to-a-revenue-explorer-report.md).
+1. Estrai i campi necessari per il rapporto. Per ulteriori informazioni, vedere [Aggiunta di campi a un report Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md).
+
 1. Fare clic con il pulsante destro del mouse su una metrica esistente (cella blu), fare clic su **Misura definita dall&#39;utente** e selezionare **Misura calcolata**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ Nell&#39;esempio seguente, si sta creando una misura calcolata per i rimbalzi mo
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Aggiunta di campi a un rapporto di Esplora entrate](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[Aggiunta di campi a un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
