@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: Imposta le conversioni di Google AdWords nel modello delle entrate - Documenti Marketo - Documentazione del prodotto
 title: Imposta conversioni Google AdWords nel modello Revenue
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Collega il tuo account Google AdWords a Marketo per caricare automaticamente i d
 
 >[!NOTE]
 >
->Questa è un&#39;integrazione push da Marketo a Google AdWords. I dati di conversione verranno visualizzati *solo* nel portale Google AdWords,** non nell&#39;interfaccia di Marketo. **
+>Questa è un&#39;integrazione push da Marketo a Google AdWords. I dati di conversione verranno visualizzati _solo_ nel portale Google AdWords, _non nell&#39;interfaccia di Marketing_.
 
-Ulteriori informazioni sulla [funzionalità di importazione delle conversioni offline di Google](https://support.google.com/adwords/answer/2998031?hl=en).  Mappatura conversioni offline di AdWords in uno o più stadi di un modello Revenue. Esistono tre modi per eseguire la mappatura:
+Ulteriori informazioni sulla [funzionalità di importazione delle conversioni offline di Google](https://support.google.com/adwords/answer/2998031?hl=en). Mappatura conversioni offline di AdWords in uno o più stadi di un modello Revenue. Esistono tre modi per eseguire la mappatura:
 
 * Conversione AdWords
 * Azione fase
@@ -29,11 +29,7 @@ Puoi creare una nuova conversione offline AdWords da Marketo se utilizzi Action 
 
 >[!PREREQUISITES]
 >
->* [Aggiungi Google AdWords come servizio LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[Aggiungi Google AdWords come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## Usa conversione AdWords {#use-adwords-conversion}
 
