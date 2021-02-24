@@ -3,7 +3,7 @@ unique-page-id: 7514146
 description: Attribuzione Esempio 2 - Documenti Marketo - Documentazione prodotto
 title: Attribuzione Esempio 2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero es
 * 15 aprile | Joan è acquisita da (Webinar)
 * 22 aprile | (Opportunità 1) creata per $6.000
 * 24 aprile | (Opportunità 2) creata per $10.000
-* 25 aprile | Bill e Joan sono associati con i ruoli a **BOTH **Optys
+* 25 aprile | Bill e Joan sono associati ai ruoli per **BOTH** Optys
 * 29 aprile | (Opportunità 1) chiusa
 
 | Nome programma | (Presentazione) | (webinar) |
@@ -35,7 +35,7 @@ Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero es
 >
 >**Spiegazione**
 >
->Dato che sia Bill che Joan erano associati con ruoli a **BOTH **opportunità, il sistema (secondo le regole) ha suddiviso il credito in modo uniforme tra loro.
+>Poiché sia Bill che Joan erano associati ai ruoli per le opportunità **BOTH**, il sistema (secondo le regole) suddivide il credito in modo uniforme tra di loro.
 >
 >La pipeline creata per ciascun programma ($8.000) è la metà del totale ($16.000) disponibile per il credito.
 
@@ -47,17 +47,12 @@ Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero es
 >1. Non puoi dare più credito di quanto hai guadagnato
 >1. Non si può dare credito a qualcosa che è successo in passato
 
->
-
-
-
-<br> 
 
 Prova tutti gli esempi e sarai un professionista di attribuzione!
 
 >[!MORELIKETHIS]
 >
->* [Esempio di attribuzione 1](attribution-example-1.md)
->* [Esempio di attribuzione 3](attribution-example-3.md)
->* [Esempio di attribuzione 4](attribution-example-4.md)
+>* [Esempio di attribuzione 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Esempio di attribuzione 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Esempio di attribuzione 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
