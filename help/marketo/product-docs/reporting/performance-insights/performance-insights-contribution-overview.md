@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: Performance Insights Contribution Overview - Marketo Docs - Documentazione prodotto
 title: Panoramica del contributo di Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ Selezionare la metrica per la quale si desidera visualizzare le prestazioni. In 
 
 >[!NOTE]
 >
->Informazioni su [First-Touch and Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Informazioni su [First-Touch and Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Scegliere il periodo per il quale visualizzare le metriche. In questo esempio stiamo osservando l&#39;anno corrente (anno-to-date).   ![](assets/3-1.png)
+Scegliere il periodo per il quale visualizzare le metriche. In questo esempio stiamo osservando l&#39;anno corrente (anno-to-date).
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >Abbiamo temporaneamente rimosso la selezione &quot;Anno precedente&quot;. È comunque possibile visualizzare i dati delle prestazioni dell&#39;anno precedente utilizzando la selezione Intervallo personalizzato.
 
-Le metriche sono presentate tramite due grafici: ciambella e barra.   ![](assets/four.png)
+Le metriche sono presentate tramite due grafici: ciambella e barra.
+
+![](assets/four.png)
 
 Il grafico ad anello mostra i primi dieci canali per la metrica selezionata.
 
@@ -45,7 +49,9 @@ Il grafico a barre mostra le prestazioni del programma su tutti i canali (dieci 
 >
 >Se desiderate che le barre del grafico vengano ridimensionate durante lo scorrimento dei gruppi, selezionate la casella di controllo **Scala Y per adattare**.
 
-Passate il puntatore del mouse su una barra per visualizzare ulteriori dettagli.   ![](assets/seven.png)
+Passate il puntatore del mouse su una barra per visualizzare ulteriori dettagli.
+
+![](assets/seven.png)
 
 Selezionate uno o più canali nel grafico ad anello e tutti i programmi associati a tali canali sono visualizzati nel grafico a barre a destra. Fate di nuovo clic sui canali per deselezionare.
 
@@ -69,4 +75,3 @@ Espandi un canale per visualizzare i primi dieci programmi, combinando i restant
 >[!NOTE]
 >
 >Facendo clic sulla casella di controllo accanto a un canale, questo viene attivato o disattivato nel grafico ad anello precedente.
-
