@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: Creare un analizzatore di influenza opportunità - Documenti Marketo - Documentazione prodotto
 title: Creare un analizzatore di influenza opportunità
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contributo del marketing a un&#39;offerta importante. Scopri i successi del tuo programma e dell&#39;evento, oltre a momenti interessanti, nella vita di un&#39;opportunità.
 
 >[!NOTE]
->
->**Promemoria**
 >
 >Per ottenere informazioni valide da un analizzatore di influenza opportunità, accertati che i tuoi contatti siano collegati alle opportunità nel CRM.
 
@@ -64,16 +62,6 @@ Utilizzate l&#39;analizzatore di influenza opportunità per mostrare il contribu
 
 >[!MORELIKETHIS]
 >
->* [Comunicare la storia di marketing con un analizzatore di influenza opportunità](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Configurare un analizzatore di influenza opportunità](configure-an-opportunity-influence-analyzer.md)
-
->
-
-
-
->[!NOTE]
->
->**Tubo profondo**
->
->Per gli altri analizzatori, vedere [Reporting di base](https://docs.marketo.com/display/docs/basic+reporting).
+>* [Comunicare la storia di marketing con un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Configurare un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
 
