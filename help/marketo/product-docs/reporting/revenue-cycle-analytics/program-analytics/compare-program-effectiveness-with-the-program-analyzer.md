@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Confronta l'efficacia del programma con il programma Analyzer - Marketo Docs - Documentazione del prodotto
 title: Confronta l'efficacia del programma con Program Analyzer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Utilizzate Program Analyzer per identificare i programmi più e meno efficaci, c
 
 >[!PREREQUISITES]
 >
->* [Creare un analizzatore di programmi](create-a-program-analyzer.md)
+>[Creare un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Fate clic su Analytics.
+1. Fare clic su **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ Utilizzate Program Analyzer per identificare i programmi più e meno efficaci, c
 
    >[!TIP]
    >
-   >Un modo rapido per filtrare i programmi su un solo canale è selezionare **Visualizza > Per canale**, fare clic sulla bolla per quel canale, quindi fare clic sul nome del canale nella finestra di dialogo a comparsa.
+   >Un modo rapido per filtrare i programmi su un solo canale è selezionare **View** > **By Channel**, fare clic sulla bolla per quel canale, quindi fare clic sul nome del canale nella finestra di dialogo a comparsa.
 
 1. Utilizzate il menu a discesa Asse X per scegliere una metrica per l&#39;asse orizzontale. Cominceremo con il costo del programma.
 
@@ -92,10 +91,6 @@ Vediamo che il programma Paper Fest 12 non solo influenza più entrate (bolla pi
 
 >[!MORELIKETHIS]
 >
->* [Esplora i dettagli di programma e canale con il programma Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Confronto dell&#39;efficacia dei canali con l&#39;analisi dei programmi](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Esplora i dettagli di programma e canale con il programma Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Confronto dell&#39;efficacia dei canali con l&#39;analisi dei programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->Ulteriori informazioni sulle analisi avanzate in [Esplora ciclo di entrate](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
