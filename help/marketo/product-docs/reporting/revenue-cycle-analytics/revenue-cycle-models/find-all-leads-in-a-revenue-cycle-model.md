@@ -3,7 +3,7 @@ unique-page-id: 2360423
 description: Trova tutti i lead in un modello di ciclo delle entrate - Documenti Marketo - Documentazione del prodotto
 title: Trova tutti i lead in un modello di ciclo delle entrate
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Utilizzando elenchi intelligenti, è possibile trovare facilmente tutti i membri
 
 >[!PREREQUISITES]
 >
->[Creare un elenco avanzato](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Con lo smart list selezionato, fare clic sulla scheda **Smart List**.
 
@@ -33,11 +33,11 @@ Utilizzando elenchi intelligenti, è possibile trovare facilmente tutti i membri
 
    In questo modo tutti i lead nel modello, indipendentemente dal palco. In genere si desidera un passaggio specifico. Utilizzate invece il filtro seguente.
 
-1. Trovare il filtro **Revenue Stage **e trascinarlo nel quadro.
+1. Individuare il filtro **Revenue Stage** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selezionare un **stage.**
+1. Selezionare un **stage**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,9 +47,8 @@ Utilizzando elenchi intelligenti, è possibile trovare facilmente tutti i membri
 
    >[!TIP]
    >
-   >Non hai bisogno di entrambi i filtri, scegli quello che ti serve. Stiamo solo mostrando a entrambi di essere meticolosi. ![(sorridi)](assets/smile.svg)   >
+   >Non hai bisogno di entrambi i filtri, scegli quello che ti serve. Stiamo solo mostrando a entrambi di essere meticolosi. ![(sorridere)](assets/smile.svg)
 
    >[!CAUTION]
    >
    >Se l’area di un lead viene modificata da una campagna esterna durante la creazione iniziale del lead, un’attività non viene registrata nel database. Questo significa che il lead non sarà incluso nel filtro per elenchi avanzati.
-
