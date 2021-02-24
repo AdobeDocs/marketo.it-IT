@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: Utilizzo dei dashboard in Revenue Explorer - Marketo Docs - Documentazione prodotto
 title: Utilizzo dei dashboard in Esplora entrate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 
    ![](assets/nine.png)
 
-1. Per rinominare una sezione, fate clic su di essa per selezionarla, digitate il nome desiderato in Titolo e fate clic su** Applica**. Ripetere la procedura per ogni sezione.
+1. Per rinominare una sezione, fate clic su di essa per selezionarla, digitate il nome desiderato in Titolo e fate clic su **Applica**. Ripetere la procedura per ogni sezione.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 1. Selezionate il dashboard da eliminare, quindi fate clic su **Sposta nel cestino**.
 
    ![](assets/fifteen.png)
-
