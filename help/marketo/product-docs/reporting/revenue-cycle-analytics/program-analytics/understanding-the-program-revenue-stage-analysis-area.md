@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: Informazioni sull'area di analisi delle fasi del fatturato del programma - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sull'area di analisi della fase delle entrate del programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quest&#39;area di analisi consente di analizzare l&#39;efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale. Fornisce informazioni sul numero di nuovi nomi generati che hanno raggiunto particolari fasi del percorso di successo all&#39;interno del modello del ciclo di ricavi.
 
-**Di seguito sono riportati alcuni esempi di domande aziendali a cui puoi rispondere utilizzando questa area di analisi:**
+**Di seguito sono riportati alcuni esempi di domande aziendali a cui puoi rispondere utilizzando questa area di analisi**:
 
 Quanti nuovi nomi di un determinato programma hanno mai raggiunto una fase specifica nel mio modello?
 
@@ -153,4 +153,4 @@ Per visualizzare le dimensioni o le misure disponibili all&#39;interno di una ca
 
 >[!MORELIKETHIS]
 >
->[Creazione di un rapporto di Esplora entrate](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Creazione di un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
