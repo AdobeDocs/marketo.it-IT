@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: Analisi delle opportunità in Revenue Explorer - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sull'analisi delle opportunità in Esplora entrate
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Di seguito sono riportati alcuni rapporti che potete creare nell&#39;area Analis
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. L&#39;influenza del marketing sulle opportunità chiuse e vinte
-1. Questo rapporto mostra quante entrate sono state acquisite e influenzate dal marketing, dal numero e dall&#39;importo.
+1. L&#39;influenza del marketing sulle opportunità chiuse e vinte.
+
+   Questo rapporto mostra quante entrate sono state acquisite e influenzate dal marketing, dal numero e dall&#39;importo.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Opportunità chiusa da origine lead
-1. Questo rapporto descrive tutte le opportunità chiuse dalla fonte principale e fornisce una chiara panoramica delle fonti che funzionano e che non lo sono.
+
+   Questo rapporto descrive tutte le opportunità chiuse dalla fonte principale e fornisce una chiara panoramica delle fonti che funzionano e che non lo sono.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
 
 >[!MORELIKETHIS]
 >
->* [Creazione di un rapporto di Esplora entrate](create-a-revenue-explorer-report.md)
->* [Aggiunta di campi a un rapporto di Esplora entrate](adding-fields-to-a-revenue-explorer-report.md)
->* [Iscriviti a un report di Esplora entrate](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [Creazione di un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Aggiunta di campi a un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Iscriviti a un report di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
