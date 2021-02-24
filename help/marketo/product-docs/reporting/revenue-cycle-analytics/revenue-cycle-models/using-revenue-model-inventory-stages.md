@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Utilizzo delle fasi dell'inventario del modello di ricavi - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo delle fasi di magazzino del modello di ricavi
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Tutti i lead e i conti noti risiedono inizialmente nella fase Inventory. Questo 
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Nella sezione **Analytics**, selezionare il modello esistente oppure [crearne uno nuovo](create-a-new-revenue-model.md).
+1. Nella sezione **Analytics**, selezionare il modello esistente oppure [crearne uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ Tutti i lead e i conti noti risiedono inizialmente nella fase Inventory. Questo 
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Potete modificare il Nome, aggiungere una Descrizione e regolare il Tipo dopo l’aggiunta di un’area di visualizzazione. Al momento è inoltre possibile selezionare ** [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md)**.
+1. Potete modificare il Nome, aggiungere una Descrizione e regolare il Tipo dopo l’aggiunta di un’area di visualizzazione. Al momento è inoltre possibile selezionare **[Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Modifica di un&#39;area di magazzino {#edit-an-inventory-stage}
 
-Quando si seleziona un&#39;icona Inventory è possibile modificare il **Nome**, aggiungere una **Descrizione** o regolare il **Tipo**. È inoltre possibile selezionare [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md).
+Quando si seleziona un&#39;icona Inventory è possibile modificare il **Nome**, aggiungere una **Descrizione** o regolare il **Tipo**. È inoltre possibile selezionare [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Fate clic sull&#39;icona Inventory (Inventario).
 
