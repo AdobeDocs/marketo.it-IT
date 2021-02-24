@@ -3,7 +3,7 @@ unique-page-id: 10099408
 description: Panoramica sulle e-mail - Documenti Marketo - Documentazione sui prodotti
 title: Panoramica sugli approfondimenti e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -15,7 +15,9 @@ ht-degree: 0%
 
 Le informazioni sulle e-mail forniscono informazioni potenti dai dati storici per gli addetti al marketing delle e-mail. È costituito da due sezioni distinte ma associate: Analytics e Send.
 
-Per accedere a Informazioni e-mail, fai clic semplicemente sulla sezione corrispondente in My Marketo (o nella schermata principale di Analytics).   ![](assets/icon.png)
+Per accedere a Informazioni e-mail, fai clic semplicemente sulla sezione corrispondente in My Marketo (o nella schermata principale di Analytics).
+
+![](assets/icon.png)
 
 >[!NOTE]
 >
@@ -23,25 +25,25 @@ Per accedere a Informazioni e-mail, fai clic semplicemente sulla sezione corrisp
 
 ## Analytics {#analytics}
 
-Utilizzate [Analytics](email-insights-analytics-overview.md) per esplorare i dati aggregati delle serie temporali per la distribuzione delle e-mail e le metriche di coinvolgimento.
+Utilizzate [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) per esplorare i dati aggregati delle serie temporali per la distribuzione delle e-mail e le metriche di coinvolgimento.
 
 ![](assets/emailanalytics.jpg)
 
-**Filtri **
+**Filtri**
 
-Sono stati utilizzati filtri [avanzati](filtering-in-email-insights.md) per suddividere i risultati per pubblico, contenuto o piattaforma. Gli stessi filtri si applicano sia ad Analytics che a Sending.
+Sono stati utilizzati filtri [avanzati](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) per suddividere i risultati per pubblico, contenuto o piattaforma. Gli stessi filtri si applicano sia ad Analytics che a Sending.
 
 ![](assets/filter.png)
 
 **Grafici rapidi**
 
-[I ](email-insights-quick-charts.md) grafici rapidi sono miniature che potete creare e salvare e forniscono una rapida visualizzazione dei grafici che sono importanti per voi.
+[I ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) grafici rapidi sono miniature che potete creare e salvare e forniscono una rapida visualizzazione dei grafici che sono importanti per voi.
 
 ![](assets/three.png)
 
 ## Invia {#sends}
 
-Nella pagina [Invia](email-insights-sends-overview.md), esamina le caratteristiche della comunicazione e-mail recente.
+Nella pagina [Invia](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md), esamina le caratteristiche della comunicazione e-mail recente.
 
 ![](assets/two.png)
 
@@ -57,14 +59,10 @@ Fate clic sulle barre Metriche per tradurre i colori in numeri.
 
 ## Dimension personalizzati {#custom-dimensions}
 
-Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere fino a 10 dimensioni personalizzate. [La ](custom-dimensions-for-email-insights.md) dimensione personalizzata è costituita da segmentazioni e tag di programma.
+Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere fino a 10 dimensioni personalizzate. [La ](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) dimensione personalizzata è costituita da segmentazioni e tag di programma.
 
 >[!MORELIKETHIS]
 >
->* [Panoramica sull&#39;analisi degli approfondimenti e-mail](email-insights-analytics-overview.md)
->* [Panoramica sulle e-mail Insights](email-insights-sends-overview.md)
-
->
-
-
+>* [Panoramica sull&#39;analisi degli approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>* [Panoramica sulle e-mail Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
 
