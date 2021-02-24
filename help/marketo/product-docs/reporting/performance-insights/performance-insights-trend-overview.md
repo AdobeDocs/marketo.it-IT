@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: Panoramica sulle tendenze delle prestazioni - Documenti Marketo - Documentazione del prodotto
 title: Panoramica sulle tendenze di Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Fare clic sulla scheda **Tendenza** per accedere a questa visualizzazione.
 
 ![](assets/2-1.png)
 
-Selezionare la metrica per la quale si desidera visualizzare le prestazioni. In questo esempio vedremo le opportunità vinte tramite [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Selezionare la metrica per la quale si desidera visualizzare le prestazioni. In questo esempio vedremo le opportunità vinte tramite [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ Espandi un canale per visualizzare i primi dieci programmi, combinando i restant
 >[!NOTE]
 >
 >Facendo clic sulla casella di controllo accanto a un canale, questo viene attivato o disattivato nel grafico ad anello.
-
