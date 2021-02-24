@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: Informazioni sull'area di analisi dei membri del programma - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sull'area di analisi per l'iscrizione al programma
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Quanti nuovi nomi sono stati generati mensilmente da ogni programma/canale?
 | % successo (totale) | Percentuale di lead che hanno raggiunto il successo nella progressione di un programma |
 | Successo (nuovi nomi) | Numero totale di nuovi nomi che hanno raggiunto il successo nella progressione di un programma |
 | Successo (totale) | Numero totale di lead che hanno raggiunto il successo nella progressione di un programma |
-
