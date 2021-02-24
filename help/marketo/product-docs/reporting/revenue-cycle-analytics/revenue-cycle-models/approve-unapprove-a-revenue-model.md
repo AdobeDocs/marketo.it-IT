@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: Approvare/annullare l'approvazione di un modello di ricavi - Documenti Marketo - Documentazione prodotto
 title: Approvare/annullare l'approvazione di un modello di ricavi
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[È necessario ](approving-stages-and-assigning-leads-to-a-revenue-model.md) approvare i singoli stadi e aggiungere altri utenti prima di approvare un intero modello.
+>[È necessario ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) approvare i singoli stadi e aggiungere altri utenti prima di approvare un intero modello.
 
 ## Approva {#approve}
 
@@ -66,4 +66,3 @@ Congratulazioni! Il modello ora non è approvato.
 >[!CAUTION]
 >
 >L&#39;annullamento dell&#39;approvazione di un modello rimuove tutte le persone dal modello e rimuove la cronologia nel modello dal database.
-
