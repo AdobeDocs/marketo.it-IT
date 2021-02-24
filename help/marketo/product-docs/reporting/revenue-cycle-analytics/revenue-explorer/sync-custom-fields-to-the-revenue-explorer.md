@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: Sincronizza campi personalizzati con l'Esplora entrate - Documenti Marketo - Documentazione prodotto
 title: Sincronizza campi personalizzati in Esplora entrate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ In Analisi del ciclo delle entrate è possibile generare rapporti sui campi Mark
    >Una volta abilitati, i dati saranno disponibili in Analisi del ciclo economico il giorno successivo.
 
    Bel lavoro! Ora è possibile aggiungere campi personalizzati a RCA.
-
