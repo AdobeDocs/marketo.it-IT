@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: Utilizzo di Success Path Analyzer - Marketo Docs - Documentazione prodotto
 title: Utilizzo di Success Path Analyzer
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Utilizzo dell&#39;analizzatore percorso di successo {#using-the-success-path-analyzer}
 
-Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifici che riflettono sia il flusso (quantità) che la velocità (in termini di giorni) delle persone attraverso le fasi del [Modello ciclo di ricavi](understanding-revenue-models.md).
+Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifici che riflettono sia il flusso (quantità) che la velocità (in termini di giorni) delle persone attraverso le fasi del [Modello ciclo di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Creare un analizzatore percorso di successo](create-a-success-path-analyzer.md)
+>[Creare un analizzatore percorso di successo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Vai a **Analytics** e seleziona il **Success Path Analyzer**.
 
@@ -55,7 +55,7 @@ Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifi
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Per le fasi con SLA (Service-Level Agreement), fare clic su **Chart Actions** >*** Mostra SLA Due** per mostrare a ogni persona che ha mai mancato un target SLA entro il periodo di tempo specificato.
+1. Per le fasi con SLA (Service-Level Agreement), fate clic su **Chart Actions** > **Show SLA due** per mostrare a tutti gli utenti che hanno mai mancato un target SLA entro il periodo di tempo specificato.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifi
 
    Le persone visualizzate in arancione potrebbero essere *o non* ancora nel passaggio SLA.
 
-1. Fare clic su **Azioni grafico** >** Mostra SLA scaduto** per mostrare a tutti gli utenti con target SLA scaduti che si trovano ancora nella fase SLA alla fine del periodo di tempo specificato.
+1. Fare clic su **Azioni grafico** > **Mostra scadenza trascorso SLA** per mostrare a tutte le persone con target SLA scaduti che si trovano ancora nella fase SLA alla fine del periodo di tempo specificato.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Utilizzare un Analizzatore percorso di successo per esaminare i dettagli specifi
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Per stampare il grafico, fare clic su** ****Azioni grafico** > **Stampa grafico**.
+1. Per stampare il grafico, fare clic su **Azioni grafico** > **Stampa grafico**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
