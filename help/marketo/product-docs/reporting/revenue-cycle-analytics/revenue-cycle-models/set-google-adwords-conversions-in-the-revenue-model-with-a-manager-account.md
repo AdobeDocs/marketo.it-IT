@@ -3,7 +3,7 @@ unique-page-id: 7504923
 description: Imposta le conversioni di Google AdWords nel modello delle entrate con un account manager - Documenti Marketo - Documentazione del prodotto
 title: Imposta conversioni Google AdWords nel modello delle entrate con un account manager
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -24,11 +24,7 @@ Se disponete di più account Google Adwords, potete utilizzare un [account Googl
 
 >[!PREREQUISITES]
 >
->* [Aggiungi Google AdWords come servizio di avvio con un account manager](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-
->
-
-
+>[Aggiungi Google AdWords come servizio di avvio con un account manager](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## Usa azione fase {#use-stage-action}
 
@@ -76,9 +72,7 @@ Suggerimento Pro! Da Marketo è possibile creare una nuova conversione offline A
 
 1. Selezionare **Nuova conversione**.
 
-   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
-
-   **
+   ![](assets/image2015-3-27-17-3a23-3a13.png)
 
 1. Immettere un **Nome conversione**. Fare clic su **Salva**.
 
