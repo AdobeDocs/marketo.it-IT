@@ -3,7 +3,7 @@ unique-page-id: 7514149
 description: Attribuzione Esempio 3 - Documenti Marketo - Documentazione prodotto
 title: Esempio di attribuzione 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -45,17 +45,12 @@ Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero es
 >1. Non puoi dare più credito di quanto hai guadagnato
 >1. Non si può dare credito a qualcosa che è successo in passato
 
->
-
-
-
-<br> 
 
 Prova tutti gli esempi e sarai un professionista di attribuzione!
 
 >[!MORELIKETHIS]
 >
->* [Esempio di attribuzione 1](attribution-example-1.md)
->* [Attribuzione Esempio 2](attribution-example-2.md)
->* [Esempio di attribuzione 4](attribution-example-4.md)
+>* [Esempio di attribuzione 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attribuzione Esempio 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Esempio di attribuzione 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
