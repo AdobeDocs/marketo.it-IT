@@ -3,7 +3,7 @@ unique-page-id: 7514224
 description: Personalizzare e visualizzare le griglie di calore - Marketo Docs - Documentazione del prodotto
 title: Personalizzare e visualizzare le griglie di calore
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -19,9 +19,8 @@ Una griglia di calore rappresenta visivamente i dati in una griglia colorata in 
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Per apportare modifiche alla **griglia di calore**, passare all&#39;area **Properties **Area.
+1. Per apportare modifiche alla **griglia di calore**, passare all&#39;area **Proprietà**.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
    Fantastico! Ora hai la **griglia di calore**!
-
