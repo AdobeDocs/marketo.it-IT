@@ -3,9 +3,9 @@ unique-page-id: 4718685
 description: Unione di due fasi nel Modeler delle entrate - Documenti Marketo - Documentazione del prodotto
 title: Unione di due fasi nel Modeler delle entrate
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Dopo aver approvato il modello, non è possibile eliminare le fasi durante la mo
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. `Right click the stage you want to merge and select`**`Merge Stage`**`in the menu.`
+1. Fare clic con il pulsante destro del mouse sullo stage da unire e selezionare **Unisci stage** nel menu.
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -35,13 +35,10 @@ Dopo aver approvato il modello, non è possibile eliminare le fasi durante la mo
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
+1. È possibile riapprovare il modello selezionando **Approva bozza modello** nel menu **Azioni modello**.
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
-
-   `
+   ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
 >Selezionare **None** nello stage Unisci per rimuovere i lead dal modello
-
