@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: Esportazione dei dati dell'analisi dell'influenza delle opportunità - Marketo Docs - Documentazione del prodotto
 title: Esporta dati analizzatore di influenza opportunità
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Esporta dati analizzatore di influenza opportunità {#export-opportunity-influence-analyzer-data}
 
-Per ricevere gli aggiornamenti dai report [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) e per condividerli, puoi sottoscrivere qualsiasi indirizzo e-mail a un report esistente.
+Per ricevere gli aggiornamenti dai rapporti di Esplora ricavi e condividerli, puoi abbonare qualsiasi indirizzo e-mail a un rapporto esistente.
 
-1. Andate su **Analytics** e selezionate **New** **>** **New** **Report** **Subscription**.
+1. Andate su **Analytics** e selezionate **New** > **New Report Subscription** (Nuova iscrizione al report).
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Per iscriversi a un report di base creato in un programma, vedere [Iscriviti a un report di base](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
+   >Per iscriversi a un report di base creato in un programma, vedere [Iscriviti a un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Per Origine rapporto, selezionare **Esplora entrate.**
+1. Per Origine report, selezionare **Revenue Explorer**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,4 @@ Per ricevere gli aggiornamenti dai report [Revenue Cycle Explorer](https://docs.
 
 >[!MORELIKETHIS]
 >
->Scopri come [gestire tutte le iscrizioni per report](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un&#39;unica posizione.
-
->[!NOTE]
->
->**Tubo profondo**
->
->Ulteriori informazioni sulle analisi avanzate di Marketo sono disponibili in [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
-
+>Scopri come [gestire tutte le iscrizioni per report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un&#39;unica posizione.
