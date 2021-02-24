@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: Filtraggio in Performance Insights - Marketo Docs - Documentazione del prodotto
 title: Applicazione di filtri in Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Fate clic sul simbolo + per iniziare ad aggiungere i filtri.
 
 >[!NOTE]
 >
->Al momento, gli attributi personalizzati sono disponibili nei filtri solo per i clienti che hanno [RCA](https://docs.marketo.com/x/lwIk) abilitato.
+>Al momento, gli attributi personalizzati sono disponibili nei filtri solo per i clienti che hanno abilitato l&#39;analisi del ciclo delle entrate.
 
 Facendo clic su una categoria vengono visualizzate più sottocategorie.
 
@@ -57,7 +57,7 @@ Per rimuovere un filtro in qualsiasi momento, fai clic sulla X accanto ad esso. 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Attributi personalizzati</strong></td> 
-   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">attivati</a> per l'analisi delle opportunità possono essere filtrati in Performance Insights.</p></td> 
+   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">attivati</a> per l'analisi delle opportunità possono essere filtrati in Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Periodo di investimento</strong></p></td> 
@@ -69,11 +69,11 @@ Per rimuovere un filtro in qualsiasi momento, fai clic sulla X accanto ad esso. 
   </tr> 
   <tr> 
    <td><p><strong>Tag del programma</strong></p></td> 
-   <td><p>I tag vengono utilizzati per descrivere i programmi. Potete creare quanti ne avete bisogno, ciascuno con valori univoci. <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">Scopri come utilizzare i tag dei programmi qui.</a></p></td> 
+   <td><p>I tag vengono utilizzati per descrivere i programmi. Potete creare quanti ne avete bisogno, ciascuno con valori univoci. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Scopri come utilizzare i tag dei programmi qui.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Area di lavoro</strong></td> 
-   <td><p>Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing, come: programmi, pagine di destinazione, e-mail e altro ancora. <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">Ulteriori informazioni sulle aree di lavoro sono disponibili qui.</a></p></td> 
+   <td><p>Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing, come: programmi, pagine di destinazione, e-mail e altro ancora. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Ulteriori informazioni sulle aree di lavoro sono disponibili qui.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ Per rimuovere un filtro in qualsiasi momento, fai clic sulla X accanto ad esso. 
 >[!NOTE]
 >
 >Nel pannello Partecipazione sono disponibili solo i tag del programma e i filtri dell&#39;area di lavoro.
-
