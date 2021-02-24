@@ -3,7 +3,7 @@ unique-page-id: 10099415
 description: Approfondimenti e-mail Grafici rapidi - Documenti Marketo - Documentazione prodotto
 title: Approfondimenti e-mail Grafici rapidi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Vuoi eliminare uno dei tuoi grafici rapidi? È facile!
    ![](assets/eleven.png)
 
    Il grafico rapido è stato eliminato. Gliel&#39;ho detto che era facile.
-
