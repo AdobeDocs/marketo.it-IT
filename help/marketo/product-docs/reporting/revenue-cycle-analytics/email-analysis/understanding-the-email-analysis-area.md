@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Informazioni sull'area di analisi e-mail - Documenti Marketo - Documentazione prodotto
 title: Informazioni sull’area di analisi e-mail
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 L&#39;area Analisi e-mail si concentra sulle metriche delle e-mail. Questo articolo introduce tutti i rapporti disponibili al suo interno.
 
 >[!AVAILABILITY]
->
 >
 >Questa funzione è disponibile per gli utenti con il componente aggiuntivo Select Edition o [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Per informazioni, contattate il rappresentante commerciale.
 
@@ -61,4 +60,3 @@ Questo rapporto mostra la percentuale di aperture totali delle e-mail per ogni o
 Questo rapporto mostra il giorno e l&#39;ora della settimana in cui inviate le e-mail. Più verde è la casella, più e-mail inviate in quel giorno e in quell&#39;ora specifici. Il filtro corrente include tutte le e-mail inviate negli ultimi 7 giorni. Il tempo è in CST.
 
 ![](assets/seven.png)
-
