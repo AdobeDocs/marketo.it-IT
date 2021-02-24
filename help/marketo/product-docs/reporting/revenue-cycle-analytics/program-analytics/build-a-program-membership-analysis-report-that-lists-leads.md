@@ -3,7 +3,7 @@ unique-page-id: 2360405
 description: Creare un rapporto di analisi per l'iscrizione al programma che elenca i lead - Documenti Marketo - Documentazione del prodotto
 title: Creare un rapporto di analisi per l'appartenenza al programma in cui siano elencati i lead
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -17,18 +17,17 @@ Per creare un rapporto di analisi per l&#39;iscrizione al programma che mostri t
 
 >[!AVAILABILITY]
 >
->
 >Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
 
 1. Avvia Esplora entrate.
 
    ![](assets/one.png)
 
-1. Fate clic su Crea nuovo, quindi Rapporto.
+1. Fare clic su **Crea nuovo**, quindi su **Report**.
 
    ![](assets/two.png)
 
-1. Selezionate Analisi iscrizione al programma e fate clic su OK.
+1. Selezionare **Program Membership Analysis** e fare clic su **OK**.
 
    ![](assets/three.png)
 
@@ -48,17 +47,16 @@ Vedete quanto era facile?
 
 ![](assets/seven.png)
 
-Potete aggiungere rapidamente un attributo lead, ad esempio **Nome completo**, per vedere chi sono i membri.
+Potete aggiungere rapidamente un attributo lead, ad esempio _Nome completo_, per vedere chi sono i membri.
 
 >[!TIP]
 >
 >Ci sono molti attributi lead/società da cui scegliere. Controllali!
 
-1. Trova e fai doppio clic sul punto giallo Nome completo.
+1. Trova e fai doppio clic sul punto giallo **Nome completo**.
 
    ![](assets/eight.png)
 
 Ce l&#39;avete!
 
 ![](assets/nine.png)
-
