@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: I modelli delle entrate - Marketo Docs - Documentazione del prodotto
 title: Informazioni sui modelli di ricavi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Per impostazione predefinita, un nuovo modello inizia con sei fasi di ricavo. Qu
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Notate che sono tutti su uno sfondo verde. Questo è denominato **Percorso di successo**. Ulteriori informazioni sul percorso di successo [qui](understanding-revenue-model-success-path.md).
+Notate che sono tutti su uno sfondo verde. Questo è denominato **Percorso di successo**. Ulteriori informazioni sul percorso di successo [qui](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **Le** fasi sono le pietre miliari su un avanzamento lead verso i loro obiettivi.
 
-**Le transizioni **sono visualizzate come frecce e controllano il modo in cui i lead si spostano tra le fasi.
+**Le** transizioni sono visualizzate come frecce e controllano il modo in cui i lead si spostano tra gli stadi.
 
 >[!NOTE]
 >
@@ -85,27 +85,30 @@ Chiarisci esattamente in che modo un lead si sposta da una fase all’altra util
 >
 >**Esempio**
 >
->Una transizione può essere definita da un lead **che compila il modulo. **
+>Una transizione può essere definita da un lead che compila il modulo.
 
-Di seguito sono riportati alcuni collegamenti che possono essere utili. (o eventualmente disponibile - scegli la tua scelta!)
+Aggiunta di una fase del percorso di riuscita
 
->[!MORELIKETHIS]
->
->[Creare un nuovo modello di ricavi](create-a-new-revenue-model.md)
->
->[Utilizzo delle fasi di magazzino del modello di ricavi](using-revenue-model-inventory-stages.md)
->
->[Utilizzo delle fasi del cancello del modello di ricavi](using-revenue-model-gate-stages.md)
->
->[Utilizzo delle fasi SLA del modello di ricavi](using-revenue-model-sla-stages.md)
-
-Aggiunta di una fase del percorso di riuscita   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Lost è una buona da aggiungere, ma notare che non è sul percorso verde. Questo perché non è un &quot;successo&quot;.
 
 >[!MORELIKETHIS]
 >
->[Report sul modello di ricavi](report-on-your-revenue-model.md)
->
->[Approvare/annullare l&#39;approvazione di un modello di ricavi](approve-unapprove-a-revenue-model.md)
+>* [Creare un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [Utilizzo delle fasi di magazzino del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [Utilizzo delle fasi del cancello del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [Utilizzo delle fasi SLA del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [Report sul modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [Approvare/annullare l&#39;approvazione di un modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
