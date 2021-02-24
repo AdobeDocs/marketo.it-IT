@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: Abilitazione della sincronizzazione campo personalizzata per l'analisi del ciclo dei ricavi - Documenti Marketo - Documentazione del prodotto
 title: Abilitazione della sincronizzazione dei campi personalizzata per l'analisi del ciclo delle entrate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ La procedura seguente consente di utilizzare campi personalizzati nei rapporti R
    >[!NOTE]
    >
    >Dopo che il campo è abilitato, i dati saranno disponibili in Analisi del ciclo delle entrate il giorno successivo.
-
