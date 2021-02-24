@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: Utilizzo delle fasi del Gate del modello di ricavi - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo delle fasi del cancello del modello di ricavi
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Una fase gate funge da controllo di qualifica.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Selezionare un modello esistente oppure [crearne uno nuovo](create-a-new-revenue-model.md).
+1. Selezionare un modello esistente oppure [crearne uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Fare clic su **Modifica** **Bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ Una fase gate funge da controllo di qualifica.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Modificare il **Name **e selezionare un **Tipo**.
+1. Modificare il **Nome** e selezionare un **Tipo**.
 
    >[!NOTE]
    >
-   >Selezionare [Avvia tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md) al momento per avere informazioni dettagliate sulle prestazioni degli account mentre avanzano nel modello.
+   >Selezionare [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) al momento per avere informazioni dettagliate sulle prestazioni degli account mentre avanzano nel modello.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ Una fase gate funge da controllo di qualifica.
 
 ## Modifica di un Gate Stage {#edit-a-gate-stage}
 
-Modificate Nome, Descrizione e regolate il Tipo dell’area di visualizzazione Porta. È inoltre possibile scegliere di [Avviare il tracciamento per account](start-tracking-by-account-in-the-revenue-modeler.md).
+Modificate Nome, Descrizione e regolate il Tipo dell’area di visualizzazione Porta. È inoltre possibile scegliere di [Avviare il tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Fate clic sull&#39;icona **Gate** dell&#39;area di visualizzazione.
 
@@ -83,11 +83,7 @@ Congratulazioni! Ora capite il meraviglioso mondo dei Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo delle fasi di magazzino del modello di ricavi](using-revenue-model-inventory-stages.md)
->* [Utilizzo delle fasi SLA del modello di ricavi](using-revenue-model-sla-stages.md)
->* [Creare un nuovo modello](create-a-new-revenue-model.md) di ricavi.
-
->
-
-
+>* [Utilizzo delle fasi di magazzino del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Utilizzo delle fasi SLA del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Creare un nuovo modello](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md) di ricavi.
 
