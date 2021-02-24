@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: Risultati Della Grafica Da Revenue Explorer - Marketo Docs - Documentazione Del Prodotto
 title: Risultati Della Grafica Da Esplora Entrate
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ Per impostazione predefinita, i rapporti in Esplora entrate vengono visualizzati
 1. Per tornare alla visualizzazione tabella, fare clic sul pulsante Tabella.
 
    ![](assets/two-1.png)
-
