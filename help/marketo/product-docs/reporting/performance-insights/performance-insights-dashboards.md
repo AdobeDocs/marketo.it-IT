@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: Dashboard Performance Insights - Marketo Docs - Documentazione del prodotto
 title: Dashboard Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Scegliete la metrica **Succes** per misurare il coinvolgimento del pubblico nei 
 Lo scopo di un programma è quello di creare un&#39;interazione significativa con la persona o il potenziale. Il successo è indicato quando una persona raggiunge lo stato che raggiunge tale obiettivo. Può trattarsi della partecipazione a un webinar, di un clic su un collegamento in un messaggio e-mail o di una compilazione di un modulo Web. Il successo varia a seconda del canale del programma.
 
 >[!NOTE]
->
->**Esempio**
 >
 >In un programma webinar possono essere presenti più stati, ad esempio: Invitati, Registrati e Partecipati. Invitati o Registrati non sono interazioni significative perché le persone non guardano il webinar. Partecipato è considerato un successo in questo caso.
 
@@ -108,4 +106,3 @@ La dashboard Entrate mostra le prestazioni dei canali mediante metriche di primo
   </tr> 
  </tbody> 
 </table>
-
