@@ -1,9 +1,9 @@
 ---
 unique-page-id: 4718681
-description: Inizia tracciamento per account nel Modeler delle entrate - Documenti Marketo - Documentazione del prodotto
+description: Inizia tracciamento per account nel Modellatore delle entrate - Documenti Marketo - Documentazione del prodotto
 title: Inizia tracciamento per account nel Modeler delle entrate
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Con il Modellatore della fase delle entrate e con Esplora entrate, è possibile 
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Per creare un nuovo rapporto, fare clic su **File** e selezionare **Nuovo** quindi **Rapporto**.
+1. Per creare un nuovo rapporto, fare clic su **File** e selezionare **Nuovo**, quindi **Rapporto**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -44,4 +44,3 @@ Con il Modellatore della fase delle entrate e con Esplora entrate, è possibile 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. Il rapporto ora deve mostrare solo le fasi di tracciamento per account. Accertatevi di salvare il rapporto in modo da poterlo utilizzare in futuro. Ora puoi utilizzarlo come un&#39;altra misura del successo delle tue iniziative di marketing.
-
