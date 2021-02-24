@@ -3,7 +3,7 @@ unique-page-id: 7504922
 description: Tipi di report di Esplora ricavi - Documenti Marketo - Documentazione prodotto
 title: Tipi di rapporti di Esplora ricavi
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Di seguito sono riportati i tipi di report che si verificheranno se si utilizza 
   </tr> 
   <tr> 
    <td>Analisi opportunità</td> 
-   <td><p>Metriche e attributi del lead e della società correlati alle opportunità</p></td> 
+   <td><p>Metriche e attributi principali e aziendali relativi alle opportunità</p></td> 
   </tr> 
   <tr> 
    <td>Analisi costi programma</td> 
@@ -61,4 +61,3 @@ Di seguito sono riportati i tipi di report che si verificheranno se si utilizza 
   </tr> 
  </tbody> 
 </table>
-
