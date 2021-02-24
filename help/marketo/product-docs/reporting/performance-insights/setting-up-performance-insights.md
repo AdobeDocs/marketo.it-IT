@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: Impostazione di approfondimenti sulle prestazioni - Documenti Marketo - Documentazione del prodotto
 title: Impostazione di approfondimenti sulle prestazioni
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ Seguite i passaggi riportati di seguito per impostare MPI.
    >
    >Verifica che tutti i campi delle opportunità siano compilati:
    >
-   >    
-   >    
-   >    * Importo opportunità
-   >    * È chiusa
-   >    * È stato vinto
-   >    * Data creazione (questa impostazione potrebbe non essere impostata nel caso in cui lo si verifichi)
-   >    * Data di chiusura (potrebbe non essere impostato nel caso in cui lo si tratti)
-   >    * Tipo opportunità
+   >* Importo opportunità
+   >* È chiusa
+   >* È stato vinto
+   >* Data creazione (questa impostazione potrebbe non essere impostata nel caso in cui lo si tratti)
+   >* Data di chiusura (potrebbe non essere impostato nel caso in cui lo si tratti)
+   >* Tipo opportunità
 
 
 ## Impostazione programma {#program-setup}
@@ -121,4 +119,3 @@ Quindi, controlla il comportamento di analisi per indicare se un particolare can
 >[!NOTE]
 >
 >Le modifiche apportate non sono istantanee. Prima dell&#39;entrata in vigore delle modifiche è necessario un periodo overnight.
-
