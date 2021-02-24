@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: Modifica del modello approvato - Documenti Marketo - Documentazione del prodotto
 title: Modifica del modello approvato
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Scegliere la nuova fase per i lead attualmente in quella selezionata, oppure selezionare **Nessuno **per rimuovere i lead dal modello. Al termine, fare clic su **Merge**.
+1. Scegliere il nuovo passaggio per i lead attualmente nell&#39;elemento selezionato oppure selezionare **Nessuno** per rimuovere i lead dal modello. Al termine, fare clic su **Merge**.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Creare un nuovo modello di ricavi](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Creare un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
