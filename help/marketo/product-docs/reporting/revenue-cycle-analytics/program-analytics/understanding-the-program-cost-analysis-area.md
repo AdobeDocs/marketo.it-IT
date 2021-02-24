@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: Informazioni sull'area di analisi dei costi del programma - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sull'area Analisi costi del programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Quanto ho speso per programma al mese?
    <th>Descrizione</th> 
   </tr> 
   <tr> 
-   <td><p>% nuovi nomi</p></td> 
+   <td>% nuovi nomi</td> 
    <td>Percentuale di lead acquisiti da un programma</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ Quanto ho speso per programma al mese?
 | % successo (totale) | Percentuale di lead che hanno raggiunto il successo nella progressione di un programma |
 | Successo (nuovi nomi) | Numero totale di nuovi nomi che hanno raggiunto il successo nella progressione di un programma |
 | Successo (totale) | Numero totale di lead che hanno raggiunto il successo nella progressione di un programma |
-
