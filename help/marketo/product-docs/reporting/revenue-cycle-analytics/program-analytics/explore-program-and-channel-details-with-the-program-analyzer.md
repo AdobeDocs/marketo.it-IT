@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Esplora i dettagli di programma e canale con il programma Analyzer - Marketo Docs - Documentazione prodotto
 title: Esplora i dettagli di programma e canale con il programma Analyzer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare un analizzatore di programmi](create-a-program-analyzer.md)
-
+>[Creare un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
->
 >
 >Non tutte le edizioni Marketo includono questa funzionalità. Contatta il tuo account manager per maggiori dettagli.
 
@@ -56,7 +54,3 @@ ht-degree: 0%
 1. Per aprire Esplora ciclo ricavi per approfondire ulteriormente una statistica, fare clic su tale numero nella finestra di dialogo a comparsa.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >Ulteriori informazioni sulle analisi avanzate in [Revenue Explorer](https://docs.marketo.com/display/docs/revenue+explorer).
