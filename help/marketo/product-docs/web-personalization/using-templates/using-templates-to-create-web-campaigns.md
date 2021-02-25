@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Utilizzo dei modelli per creare campagne Web - Documenti Marketo - Documentazione prodotto
 title: Utilizzo di modelli per creare campagne Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Velocizzate e semplificate il processo di creazione delle campagne Web utilizzan
 >
 >I modelli sono ottimizzati per tutti i dispositivi e per tutte le esperienze di navigazione sia per desktop che per dispositivi mobili.
 
-1. Vai a Campagne Web.
+1. Vai a **Campagne Web**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Fate clic su Crea nuova campagna Web.
+1. Fare clic su **Crea nuova campagna Web**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,15 +35,13 @@ Velocizzate e semplificate il processo di creazione delle campagne Web utilizzan
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Fate clic su Modelli.
+1. Fare clic su **Templates**.
 
    ![](assets/templates.png)
 
 1. Selezionate l’area appropriata per la campagna e selezionate un modello che funzioni correttamente.
 
    >[!NOTE]
-   >
-   >**Promemoria**
    >
    >Ci sono alcuni modelli interessanti tra cui scegliere, e aggiungeremo di più in futuro.
 
@@ -57,7 +55,7 @@ Velocizzate e semplificate il processo di creazione delle campagne Web utilizzan
 
    ![](assets/customize-template.jpg)
 
-1. Fate clic su Salva.
+1. Fare clic su **Salva**.
 
    ![](assets/click-save-hand.jpg)
 
@@ -65,9 +63,4 @@ Ben fatto! Hai visto quanto tempo hai risparmiato utilizzando un modello?
 
 >[!MORELIKETHIS]
 >
->* [Salva una campagna come modello](save-your-campaign-as-a-template.md)
-
->
-
-
-
+>[Salva una campagna come modello](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
