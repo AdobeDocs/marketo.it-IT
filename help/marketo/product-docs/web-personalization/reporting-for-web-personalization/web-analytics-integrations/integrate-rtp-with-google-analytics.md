@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: Integrare RTP con Google Analytics - Marketo Docs - Documentazione prodotto
 title: Integrare RTP con Google Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Scopri come integrare [Web Personalization con Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Scopri come integrare [Web Personalization con Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introduzione {#introduction}
 
@@ -66,19 +66,23 @@ Misurate le campagne RTP e collegatele alla media complessiva del sito. Scopri i
 
 ## Impostazione di RTP con Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Aggiungi l&#39;e-mail [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) come utente Leggi e analizza nel tuo account GA. Per ulteriori dettagli, vedere [qui](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Aggiungi l&#39;e-mail rtp.ga2@gmail.com come utente Leggi e analizza al tuo account GA. Per ulteriori dettagli, vedere [qui](https://support.google.com/analytics/answer/2884495?hl=en).
+
 1. Nel tuo account RTP. Vai a **Impostazioni account**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. In **Impostazioni account**, **Domain** e **Analytics**
-1. Fare clic su** Google Analytics.**
+1. In **Impostazioni account**, **Domain** e **Analytics**.
+
+1. Fare clic su **Google Analytics**.
+
 1. Attivate le **Variabili personalizzate** e **Eventi** pertinenti per aggiungere questi dati dalla RTP alle Google Analytics.
+
 1. Immettere il numero **Slot** per inviare i dati della variabile personalizzata (il valore predefinito è 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Fare clic su **SAVE**.
+1. Fare clic su **Salva**.
 
 >[!NOTE]
 >
