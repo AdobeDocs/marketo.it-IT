@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: Escludere IP specifici dal tracciamento - Documenti Marketo - Documentazione prodotto
 title: Escludere IP specifici dal tracciamento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Potete escludere singoli IP e tutti o parte di un intervallo di IP.
    ![](assets/exclude-ips-after.png)
 
    Avete visto quanto era facile? Ora puoi escludere tutti i dati dagli IP aggiunti, singolarmente o per intervallo.
-
