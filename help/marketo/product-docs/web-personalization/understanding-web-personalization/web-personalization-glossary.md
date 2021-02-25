@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glossario di personalizzazione web - Documenti Marketo - Documentazione prodotto
 title: Glossario di personalizzazione Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Alcune informazioni sul mondo e sul linguaggio di Web Personalization di Marketo
 | **ISP** | Provider di servizi Internet |
 | **Visitatore noto** | Un visitatore Web che ha completato un modulo e lasciato i propri dettagli (indirizzo e-mail) sul sito Web o ha fatto clic su un collegamento in un messaggio e-mail di Marketo. |
 | **Elenco account** | Un elenco di nomi di account/organizzazione chiave. Noto anche come elenco ABM (Account-Based Marketing). |
-| **Segmenti** | Una raccolta di visitatori che soddisfano i criteri specificati definiti nella pagina [‘Set a Segment’ page](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segmenti** | Una raccolta di visitatori che soddisfano i criteri specificati definiti nella pagina [‘Set a Segment’ page](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Suddivisione test** | Un esperimento di test con due o più varianti per misurare la differenza nei risultati. L&#39;obiettivo è identificare le modifiche apportate alle pagine Web che aumentano o ottimizzano un risultato di interesse. |
 | **Carattere jolly** | Un carattere jolly (*) utilizzato prima o dopo una stringa per sostituire qualsiasi altro carattere o carattere in una stringa. Vedere gli esempi di seguito. |
 
@@ -42,4 +42,3 @@ Fate corrispondere tutti i visitatori con URL pagina che iniziano con https:// (
 Fate corrispondere tutti i visitatori negli URL della pagina che includono la parola backup (ad esempio, [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
