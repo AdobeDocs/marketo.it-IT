@@ -3,9 +3,9 @@ unique-page-id: 4719332
 description: Distribuzione di JavaScript RTP - Documenti Marketo - Documentazione prodotto
 title: Implementare il codice JavaScript RTP
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Per generare e impostare il tag RTP, seguire le istruzioni di installazione ripo
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. In **Domain** e **Domain Configuration**, individuare il dominio appropriato e fare clic su **Generate Tag.**
+1. In **Domain** e **Domain Configuration**, individuare il dominio appropriato e fare clic su **Generate Tag**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -42,8 +42,3 @@ Per generare e impostare il tag RTP, seguire le istruzioni di installazione ripo
    Ora hai impostato il tag RTP e sei pronto per iniziare [la creazione di segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) e di campagne in tempo reale!
 
 1. Verifica che il tag si trovi su tutte le pagine.
-
->[!MORELIKETHIS]
->
->* [Implementazione tag RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation)
-
