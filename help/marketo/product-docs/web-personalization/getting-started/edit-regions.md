@@ -3,7 +3,7 @@ unique-page-id: 4720224
 description: Modifica regioni - Documenti Marketo - Documentazione prodotto
 title: Modifica aree
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Desiderate modificare le impostazioni internazionali dell&#39;utente per visuali
 >[!NOTE]
 >
 >Selezionando gli Stati Uniti, si aprirà in fondo alla pagina tutte le opzioni per gli Stati Uniti da selezionare.
-
