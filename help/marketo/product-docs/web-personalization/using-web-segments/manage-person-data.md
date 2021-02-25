@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: Gestisci dati persona - Documenti Marketo - Documentazione prodotto
 title: Gestisci dati persona
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 Sfruttare Dati persona per la personalizzazione Web selezionando i campi persona da utilizzare nella segmentazione.
 
-1. Vai a **Impostazioni account**.\
+1. Vai a **Impostazioni account**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Vai a **Database**.\
+1. Vai a **Database**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Aggiunta di un campo Nuova persona {#adding-a-new-person-field}
@@ -29,11 +31,7 @@ Sfruttare Dati persona per la personalizzazione Web selezionando i campi persona
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * Un nuovo campo viene aggiunto in sospeso e può richiedere fino a 24 ore per l’attivazione.
-
+   >Un nuovo campo viene aggiunto in sospeso e può richiedere fino a 24 ore per l’attivazione.
 
 ## Eliminazione di un campo persona {#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ Sfruttare Dati persona per la personalizzazione Web selezionando i campi persona
    >
    >**Gestione dei campi Dati persona**
    >
-   >    
-   >    
-   >    * È possibile includere solo i campi dati della persona
-   >    * Puoi aggiungere fino a 30 campi dati di persona
-   >    * L&#39;aggiunta di nuovi campi può richiedere fino a 24 ore per l&#39;attivazione
-   >    * La lunghezza massima dei tipi di stringa è di 255 caratteri
-   >    * I campi nascosti verranno rimossi automaticamente
+   >* È possibile includere solo i campi dati della persona
+   >* Puoi aggiungere fino a 30 campi dati di persona
+   >* L&#39;aggiunta di nuovi campi può richiedere fino a 24 ore per l&#39;attivazione
+   >* La lunghezza massima dei tipi di stringa è di 255 caratteri
+   >* I campi nascosti verranno rimossi automaticamente
 
 
 <table> 
@@ -108,9 +104,4 @@ Per i nuovi account Web Personalization sono disponibili i seguenti campi lead:
 
 >[!MORELIKETHIS]
 >
->* [Creazione di un segmento utilizzando dati di persona nota](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[Creazione di un segmento utilizzando dati di persona nota](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
