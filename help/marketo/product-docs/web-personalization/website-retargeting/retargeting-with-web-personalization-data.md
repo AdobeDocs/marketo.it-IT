@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Retargeting con dati di personalizzazione Web - Documenti Marketo - Documentazione prodotto
 title: Ritargeting con dati di personalizzazione Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Il retargeting dei siti Web ora si trova nella sezione Personalizzazione Web. Se avete acquistato solo Retargeting, visualizzerete questa sezione e accederete al prodotto Web Personalization con le funzioni di **solo** Retargeting abilitate. Questo consente di accedere alle impostazioni dell’account, alla pagina Retargeting, ai segmenti e alle pagine di tracciamento aggiuntive.
 
 Notizie si rivolge ai potenziali clienti che hanno visitato il tuo sito in passato con una pubblicità basata su chi sono e cosa hanno fatto. Il retargeting personalizzato si rivolge a audience specifiche con annunci pertinenti basati su settori, account denominati e dati di persone conosciute.
 
 Web Personalization attualmente aggiunge i dati alle seguenti piattaforme di remarketing:
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 Web Personalization invia i seguenti dati alle piattaforme di remarketing per creare audience ed eseguire campagne di remarketing:
 
@@ -69,12 +68,11 @@ Web Personalization invia i seguenti dati alle piattaforme di remarketing per cr
    >
    >È necessario che Google Retargeting Tag sia implementato sul sito Web.
    >
-   >
    >Se hai già configurato l&#39;integrazione con la personalizzazione Web e le Google Analytics, non devi modificare questa parte perché è la stessa configurazione in Impostazioni account.
 
    ![](assets/two.png)
 
-1. Attivate la configurazione per Facebook. Fate clic su e espandete la struttura di navigazione Facebook, fate clic su **On **per inviare i rispettivi eventi e i dati al Audience Manager di  Facebook. Fare clic su **Salva**.
+1. Attivate la configurazione per Facebook. Fate clic su e espandete la struttura di navigazione Facebook, fate clic su **On** per inviare i rispettivi eventi e dati al Audience Manager  Facebook. Fare clic su **Salva**.
 
    >[!NOTE]
    >
@@ -98,12 +96,6 @@ Un pubblico segmentato consente di selezionare un segmento esistente come audien
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Fare clic su **SAVE**.
+1. Fare clic su **Salva**.
 
    È stata completata l&#39;impostazione di retargeting in Web Personalization (Personalizzazione Web), è possibile accedere alle piattaforme di retargeting e creare il pubblico in base a tali dati e impostare le campagne di retargeting.
-
->[!MORELIKETHIS]
->
->* [Osservazioni personalizzate in Google](personalized-remarketing-in-google.md)
->* [Osservazioni personalizzate su Facebook](personalized-remarketing-in-facebook.md)
-
