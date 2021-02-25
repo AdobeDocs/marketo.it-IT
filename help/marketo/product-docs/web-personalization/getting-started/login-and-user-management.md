@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: Login e gestione utenti - Documenti Marketo - Documentazione prodotto
 title: Login e gestione utente
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Immettete un nome per il ruolo e selezionate Autorizzazioni. Fare clic su **Crea** (il ruolo deve essere [applicabile a tutte le aree di lavoro](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Immettete un nome per il ruolo e selezionate Autorizzazioni. Fare clic su **Crea** (il ruolo deve essere [applicabile a tutte le aree di lavoro](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Per dare agli utenti l&#39;autorizzazione per accedere a tutto ciò che si trova in Targeting e personalizzazione, selezionare le caselle *all*.
+   >Per dare agli utenti l&#39;autorizzazione per accedere a tutto ciò che si trova in Targeting e personalizzazione, selezionare le caselle _all_.
 
 ## Autorizzazioni utente per la personalizzazione Web e il contenuto predittivo {#web-personalization-and-predictive-content-user-permissions}
 
