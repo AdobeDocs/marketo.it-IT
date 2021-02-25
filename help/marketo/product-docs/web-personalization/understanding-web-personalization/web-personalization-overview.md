@@ -3,7 +3,7 @@ unique-page-id: 3571900
 description: Panoramica sulla personalizzazione del Web - Documenti Marketo - Documentazione del prodotto
 title: Panoramica sulla personalizzazione Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ## Introduzione {#introduction}
 
-Per i nuovi clienti di Marketing, la personalizzazione in tempo reale è divisa in quattro app, a cui si accede tramite le due sezioni seguenti: Web Personalization and Content`<sup>AI</sup>` (Personalizzazione e contenuto Web).
+Per i nuovi clienti di Marketing, la personalizzazione in tempo reale è divisa in quattro app, a cui si accede tramite le due sezioni seguenti: Personalizzazione Web e ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web Personalization and Content`<sup>AI</sup>` sono disponibili in tutte le lingue supportate da Marketo (inglese, francese, tedesco, giapponese, portoghese, spagnolo).
+>Web Personalization e ContentAI sono disponibili in tutte le lingue supportate da Marketo (inglese, francese, tedesco, giapponese, portoghese, spagnolo).
 
 I clienti esistenti continueranno ad accedere alle app tramite la sezione Personalizzazione in tempo reale fino al rinnovo, al momento in cui utilizzeranno l&#39;accesso indicato sopra.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Quando fate clic sulla sezione Web Personalization (Personalizzazione Web), viene visualizzata la pagina Dashboard. Fate clic sulla sezione Content`<sup>AI</sup>` e passate direttamente alla pagina Content Recommendations (Contenuto).
+Quando fate clic sulla sezione Web Personalization (Personalizzazione Web), viene visualizzata la pagina Dashboard. Fate clic sulla sezione ContentAI e passate direttamente alla pagina Content Recommendations (Contenuto).
 
 Le quattro app sono:
 
 * Personalizzazione Web
 * Marketing Web basato su account
 * Retargeting dei siti Web
-* Content`<sup>AI</sup>`
+* ContentAI
 
-La sezione** Web Personalization **è il punto di accesso per la creazione di campagne Web personalizzate.****** **Web Marketing basato su account e Web Retargeting. Potete aggiungere contenuto nella pagina Analisi dei contenuti.
+La sezione **Web Personalization** rappresenta il punto di accesso per la creazione di campagne Web personalizzate. Web Marketing basato su account e Web Retargeting. Potete aggiungere contenuto nella pagina Analisi dei contenuti.
 
 **Il** marketing Web basato su account funziona con la personalizzazione Web e con le funzioni Account denominati. La pagina Account denominati fornisce informazioni grafiche sui clienti esistenti, sugli impegni totali e sulle tendenze organizzative, nonché un elenco degli account. Potete anche creare nuovi account denominati.
 
 **Il** retargetingè un sito Web che consente di riproporre tipi di pubblico segmentati. Puoi impostare i segmenti, ma non puoi usare Account denominati nel filtro.
 
-**Il`<sup>AI</sup>`** contenuto è il luogo in cui fornire raccomandazioni sui contenuti. Potete aggiungere facilmente contenuti alla pagina Content Recommendations.
+**** ContentAIè il luogo in cui fornire raccomandazioni sui contenuti. Potete aggiungere facilmente contenuti alla pagina Content Recommendations.
 
 >[!NOTE]
 >
@@ -61,9 +61,6 @@ Nella scheda Organizzazioni sono visualizzati tutti i dettagli (nome, posizione,
 >* Più attivi: le organizzazioni più attive nella tabella, in base al numero di visualizzazioni di pagina
 >* Ultimo: le organizzazioni più recenti nella tabella (impostazione predefinita)
 >* Per informazioni preziose, filtrate in base alle
-
->
-
 
 
 **Organizzazioni - Pannello a destra**
@@ -172,4 +169,3 @@ La pagina in tempo reale è suddivisa in 6 tabelle informative dei dettagli dei 
   </tr> 
  </tbody> 
 </table>
-
