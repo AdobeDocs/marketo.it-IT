@@ -3,7 +3,7 @@ unique-page-id: 10093159
 description: Analisi dei contenuti - Documenti Marketo - Documentazione sui prodotti
 title: Informazioni sull'analisi dei contenuti
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -100,6 +100,6 @@ Dalla pagina Analisi dei contenuti, fate clic sull&#39;icona di eliminazione del
 
 >[!MORELIKETHIS]
 >
->* [Abilita la barra delle raccomandazioni del contenuto](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Abilita contenuto predittivo per contenuti multimediali Web](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Abilita la barra delle raccomandazioni del contenuto](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Abilita contenuto predittivo per contenuti multimediali Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
