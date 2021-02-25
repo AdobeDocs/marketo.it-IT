@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Dashboard RTP personalizzati in Google Universal Analytics - Documenti Marketo - Documentazione del prodotto
 title: Dashboard RTP personalizzati in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integrare RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrare RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Questo post spiega come impostare le dashboard RTP in Google Universal Analytics (GUA).  I dati inviati da RTP a GUA possono essere impostati come due dashboard personalizzate distinte denominate:
+Questo post spiega come impostare le dashboard RTP in Google Universal Analytics (GUA). I dati inviati da RTP a GUA possono essere impostati come due dashboard personalizzate distinte denominate:
 
 * RTP B2B
 * Coinvolgimento RTP
 
 ## Configurazione di un dashboard personalizzato {#setting-up-a-custom-dashboard}
 
-1. Accedi alle Google Analytics. Fare clic su **Reporting **nel menu superiore. Fare clic su **Dashboard **e **+Nuovo dashboard personalizzato.**
+1. Accedete alle Google Analytics. Fare clic su **Reporting** nel menu principale. Fare clic su **Dashboard** e **+Nuovo dashboard personalizzato**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Selezionare **Blank Canvas**, aggiungere un **Nome dashboard** e fare clic su **Crea dashboard**.
 
-1. Fare clic su **Aggiungi widget** per creare un nuovo widget.\
+1. Fare clic su **Aggiungi widget** per creare un nuovo widget.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## Dashboard RTP B2B {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ Il dashboard è costituito da 3 colonne
 * Segmentazione
 * Espansione istantanea
 
-1. Create un nuovo dashboard denominato **RTP B2B Dashboard **e definite i seguenti widget:
+1. Create una nuova dashboard denominata **Dashboard RTP B2B** e definite i seguenti widget:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ Il dashboard è costituito da 3 colonne
   <tr> 
    <th> 
     <div>
-      Colonna 1 - Sorgenti di traffico 
+      Colonna 1 - Sorgenti di traffico
     </div></th> 
    <th> 
     <div> <strong>Colonna 2 - Segmentazione</strong> 
@@ -151,11 +152,9 @@ Il dashboard è costituito da 3 colonne
 
 Questo dashboard consente agli utenti di analizzare le prestazioni della campagna RTP e i coinvolgimento dei motori di raccomandazione. Fornisce il confronto tra media e media. durata della sessione e pagine per sessione tra:
 
-* 
-
-   * Non impegnato
-   * Coinvolto (impression e clic su una campagna personalizzata)
-   * Fate clic sul motore di raccomandazione e sul contenuto principale consigliato
+* Non impegnato
+* Coinvolto (impression e clic su una campagna personalizzata)
+* Fate clic sul motore di raccomandazione e sul contenuto principale consigliato
 
 Create una nuova dashboard denominata **Dashboard partecipazione RTP** e definite i seguenti widget:
 
@@ -265,7 +264,6 @@ Create una nuova dashboard denominata **Dashboard partecipazione RTP** e definit
 
 >[!MORELIKETHIS]
 >
->[Integrare RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrare RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Report RTP personalizzati in Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Report RTP personalizzati in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
