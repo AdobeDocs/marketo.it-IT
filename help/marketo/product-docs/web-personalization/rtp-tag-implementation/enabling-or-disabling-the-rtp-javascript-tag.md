@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: Attivazione o disattivazione del tag JavaScript RTP - Documenti Marketo - Documentazione prodotto
 title: Attivazione o disattivazione del tag JavaScript RTP
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Il tag JavaScript RTP controlla se la personalizzazione Web tiene traccia o meno
 1. Per abilitare il tag RTP, in Configurazione dominio e dominio, in Tag, selezionare l&#39;opzione **On**.
 
    Facile.
-
