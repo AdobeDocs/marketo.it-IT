@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: Attiva/Disattiva sottoscrizioni report - Documenti Marketo - Documentazione prodotto
 title: Abilitare/disabilitare le sottoscrizioni ai rapporti
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Web Personalization dispone di diversi utili rapporti che vengono inviati via e-
    ![](assets/email-settings.png)
 
    È tutto! Per annullare l&#39;iscrizione al rapporto, è sufficiente deselezionare e fare clic su **Salva**.
-
