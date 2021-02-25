@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmenti Web - Documenti Marketo - Documentazione prodotto
 title: Segmenti Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ In Personalizzazione Web, un visitatore può corrispondere a più segmenti. Ad e
  </tbody> 
 </table>
 
-Vedere [come creare e visualizzare le etichette dei segmenti](label-your-segment.md)
+Vedere [come creare e visualizzare le etichette dei segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segmenti - Pannello a destra**
 
@@ -108,23 +108,32 @@ Definite i parametri generali per il segmento:
 >1. Usa tutti i filtri (1, 2 e 3...)
 >1. Usare eventuali filtri (1, 2 o 3...)
 >1. Filtri avanzati (uso e/o espressioni)
->
->    I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
->
->    * 1 e 2 e 3
->    * 1 o 2 o 3
->
->    La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
->
->    * 1 e (2 o 3)
->    * (1 e 2) o 3
->
->    Le parentesi nidificate sono accettate per logica più complessa, ad esempio
->
->    * (1 e 2) o (3 e 4)
->    * 1 e 2 o 3 e 4)
->
->    Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
+
+   >
+   >    
+   I filtri avanzati consentono di controllare la condizione del segmento. Immettete i numeri del filtro separati da &quot;and&quot; e &quot;or&quot;.
+   >
+   >    
+   * 1 e 2 e 3
+   >    * 1 o 2 o 3
+
+   >
+   >    La combinazione di &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire le intenzioni logiche. ad esempio &quot;1 or 2 and 3&quot; deve essere scritto come segue:
+   >
+   >    
+   * 1 e (2 o 3)
+   >    * (1 e 2) o 3
+
+   >
+   >    Le parentesi nidificate sono accettate per logica più complessa, ad esempio
+   >
+   >    
+   * (1 e 2) o (3 e 4)
+   >    * 1 e 2 o 3 e 4)
+
+   >
+   >    Controllare la logica dopo qualsiasi inserimento, eliminazione o riordinamento.
+
 
 Trascina gli attributi Segmento dalla colonna a destra all’editor segmenti a sinistra:
 
@@ -170,18 +179,18 @@ Nella sezione **Segmentazione profilo**, selezionare la casella accanto a **Grup
    * Enterprise - Include organizzazioni con oltre 1.000 dipendenti e ricavi superiori a 250 milioni di dollari
    * PMI - Include solo piccole e medie imprese in questo segmento
 
-**Account denominati**
+**-Account denominati-**
 
 **Organizzazioni**
 
 * **Proviene da queste società (nomi specifici)**
 
    * Selezionate la società a cui rivolgervi dal menu a discesa &#39;Selezionate la società da aggiungere&#39;.
-   * Puoi digitare il nome esatto dell&#39;organizzazione a cui vuoi indirizzare. *Si consiglia sempre di utilizzare gli elenchi degli account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedere di seguito).**
+   * Puoi digitare il nome esatto dell&#39;organizzazione a cui vuoi indirizzare. *Si consiglia di utilizzare gli elenchi di account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedere di seguito).__
 
 **Elenco account denominato**
 
-Seleziona da un [elenco account denominato](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) per segmentare i principali account con targeting
+Selezionare da un [Elenco account denominato](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) per segmentare i principali account di destinazione.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ Esclude i provider di servizi Internet (ISP) dal segmento.
 
 Web Personalization si integra con il database Marketo, consentendo di segmentare e personalizzare le campagne in base agli attributi e ai dati delle persone note.
 
-Selezionare Database, quindi selezionare un campo dati persona dall&#39;elenco a discesa. Selezionate la   **+** per aggiungere campi dall&#39;elenco a discesa.
+Selezionare Database, quindi selezionare un campo dati persona dall&#39;elenco a discesa. Selezionare **+** per aggiungere i campi dall&#39;elenco a discesa.
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Trascinamento del sistema operativo mobile nell&#39;editor segmenti
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Tipo di visitatore**
+* **Tipo di visitatore**<br />
 
    **Sistema operativo**  mobile: dalla casella a discesa, seleziona uno o più sistemi operativi mobili elencati. Il sistema operativo mobile selezionato viene visualizzato di seguito.
 
@@ -319,8 +328,8 @@ Non è possibile eliminare un segmento associato a una campagna. Prima è necess
 Fantastico! Ora che hai compreso la sezione Segmenti, impariamo a conoscere le campagne.
 
 >[!MORELIKETHIS]
-* [Creare un segmento Web di base](create-a-basic-web-segment.md)
-* [Creazione di una nuova finestra di dialogo Web Campaign](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Creare una nuova campagna Web nella zona](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Creare una nuova campagna Web Widget](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Creare un segmento Web di base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Creazione di una nuova finestra di dialogo Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Creare una nuova campagna Web nella zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Creare una nuova campagna Web Widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
