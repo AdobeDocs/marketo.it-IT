@@ -3,7 +3,7 @@ unique-page-id: 17727499
 description: Aree di lavoro in Web Personalization - Marketo Docs - Documentazione prodotto
 title: Aree di lavoro in Web Personalization
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -35,5 +35,4 @@ Per passare da un’area di lavoro all’altra nella personalizzazione Web, fate
 
 >[!NOTE]
 >
->Gli utenti potranno visualizzare solo campagne Web e segmenti associati alle aree di lavoro a cui hanno accesso. Come [consentire a un utente di accedere a una o più aree di lavoro](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
-
+>Gli utenti potranno visualizzare solo campagne Web e segmenti associati alle aree di lavoro a cui hanno accesso. Come [consentire a un utente di accedere a una o più aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
