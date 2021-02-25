@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Report RTP personalizzati in Google Universal Analytics - Documenti Marketo - Documentazione prodotto
 title: Report RTP personalizzati in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integrare RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrare RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Questo post spiega come impostare i rapporti personalizzati RTP per Google Universal Analytics (GUA).  I dati inviati da RTP a GUA possono essere impostati come due rapporti personalizzati separati, denominati:
+Questo articolo spiega come impostare i rapporti personalizzati RTP per Google Universal Analytics (GUA).  I dati inviati da RTP a GUA possono essere impostati come due rapporti personalizzati separati, denominati:
 
 * RTP B2B
 * Coinvolgimento RTP
@@ -25,31 +25,32 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 ## Impostazione di un report personalizzato {#setting-up-a-custom-report}
 
 1. Accedete alle Google Analytics.
-1. Fare clic su **Customization **nel menu superiore.
-1. Fare clic su **+Nuovo rapporto personalizzato.**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. Fare clic su **Personalizzazione** nel menu principale.
 
-**
+1. Fare clic su **+Nuovo report personalizzato**.
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## Report RTP B2B {#rtp-b-b-report}
 
 1. Denominate il report **RTP B2B Report**.
-1. Nome della prima scheda **Industria **
 
-   1. (Nota: **Duplica questa scheda** e crea altre schede simili - passaggio 5)
+1. Denominate la prima scheda **Industria**.
 
-1. Selezionare il tipo di rapporto** Explorer*.\
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>**Duplica questa scheda** e ne crei altre simili - passaggio 5)
 
-   **
+1. Selezionare il tipo di rapporto **Explorer**.
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. Nella sezione **Gruppi di metriche**, seleziona le metriche rilevanti per la tua attività.
 
-   1. Consigliamo quanto segue:\
-      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+   a. Consigliamo quanto segue:
 
-      **
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Duplica questa scheda 4 volte e denominale:
 
@@ -72,7 +73,7 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
     </div></th> 
    <th> 
     <div>
-      Dimension Drill down 
+      Dimension Drill down
     </div></th> 
   </tr> 
  </thead> 
@@ -100,21 +101,28 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
  </tbody> 
 </table>
 
-1. Non impostare filtri e impostare il rapporto in modo che sia disponibile per **Tutti i dati del sito Web **(o modificare se pertinente per un account Analytics specifico).
-1. Fare clic su **Salva**.\
+1. Non impostare filtri e impostare il rapporto in modo che sia disponibile per **Tutti i dati del sito Web** (o modificare se pertinente per un account Analytics specifico).
+
+1. Fare clic su **Salva**.
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## Rapporto di coinvolgimento RTP {#rtp-engagement-report}
 
-1. Denominate il report **Rapporto di coinvolgimento RTP.**
-1. Impostare il nome della prima scheda su **All Engagement**
+1. Denominate il report **Rapporto di coinvolgimento RTP**.
 
-   1. (Nota: duplicare questa scheda e crearne altre simili - passaggio 5)
+1. Impostate il nome della prima scheda su **All Engagement**.
 
-1. Selezionare il tipo di rapporto **Explorer**.\
+>[!NOTE]
+>
+>Duplica questa scheda e ne crea altre simili - passaggio 5)
+
+1. Selezionare il tipo di rapporto **Explorer**.
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Nella sezione Gruppi di metriche, seleziona le metriche rilevanti per la tua attività. Di seguito è riportata una raccomandazione:\
+1. Nella sezione Gruppi di metriche, seleziona le metriche rilevanti per la tua attività. Di seguito è riportata una raccomandazione:
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplica questa scheda 4 volte e denominale:
@@ -125,7 +133,7 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
    1. **Coinvolgimento per categoria**
    1. **Engagement by ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\*
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. Nella sezione **Dimension Drill downs** impostare le dimensioni relative a ciascuna scheda come segue:
 
@@ -167,7 +175,6 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 </table>
 
 1. Impostate i seguenti filtri:
-1. 
 
 <table> 
  <thead> 
@@ -212,7 +219,7 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
  </tbody> 
 </table>
 
-1. Imposta questo rapporto come disponibile per **Tutti i dati del sito Web **(o modifica se necessario)
+1. Impostate questo rapporto in modo che sia disponibile per **Tutti i dati del sito Web** (o modificate se necessario).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -222,7 +229,6 @@ Questo post spiega come impostare i rapporti personalizzati RTP per Google Unive
 
 >[!MORELIKETHIS]
 >
->[Integrare RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrare RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Dashboard RTP personalizzati in Google Universal Analytics](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Dashboard RTP personalizzati in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
