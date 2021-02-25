@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: Impostazione della personalizzazione Web per non tenere traccia - Documenti Marketo - Documentazione prodotto
 title: Impostazione della personalizzazione Web per non tenere traccia
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ In Personalizzazione Web e Predictive Content (Contenuto predittivo), un esperto
    >L&#39;impostazione di attivazione può influenzare il valore e la funzionalità di Marketo in aree specifiche.
 
 1. Per disattivare l&#39;opzione Honor DNT e ignorare l&#39;impostazione Do No Track (DNT) del browser, selezionare **Off** in Honor DNT.
-
