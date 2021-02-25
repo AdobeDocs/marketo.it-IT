@@ -3,9 +3,9 @@ unique-page-id: 4720125
 description: Integrare RTP con Google Universal Analytics - Marketo Docs - Documentazione prodotto
 title: Integrare RTP con Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,15 @@ Google Universal Analytics con i dati RTP offre una migliore comprensione di com
 
 >[!NOTE]
 >
->**`For Google Tag Manager Users Only`**
+>**Solo per utenti di Google Tag Manager**
 >
 >Non è necessario eseguire alcuna codifica o configurazione speciale. Completate il seguente elenco di controllo:
 >
->* `RTP dimensions are created in Google Universal Analytics`
+>* Le dimensioni RTP vengono create in Google Universal Analytics
 >* [Il tag RTP è installato correttamente in Google Tag Manager](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* `Google Universal Analytics Integration is enabled in the RTP's Account Settings`
+>* L&#39;integrazione di Google Universal Analytics è abilitata nelle impostazioni account della RTP
 >* [Il tag Google Universal Analytics è configurato correttamente in Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [Tag Google Tag Manager installato correttamente nel sito Web](https://developers.google.com/tag-manager/quickstart)
-
->
-
 
 
 ## Impostazione di Dimension personalizzati in GUA {#set-up-custom-dimensions-in-gua}
@@ -46,8 +43,7 @@ Google Universal Analytics con i dati RTP offre una migliore comprensione di com
    1. Vai a **Admin**
    1. Selezionare l&#39; **Account.**
    1. Selezionare la proprietà **.**
-   1. Selezionare **Definizioni personalizzate **e **Dimension personalizzati.**
-
+   1. Selezionare **Definizioni personalizzate** e **Dimension personalizzati**.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Aggiungi una nuova dimensione personalizzata. Fare clic su **+Nuovo Dimension personalizzato**
@@ -90,7 +86,7 @@ Google Universal Analytics con i dati RTP offre una migliore comprensione di com
 >
 >**I** nomi degli Dimension personalizzati devono essere esattamente come definiti nella tabella precedente (altrimenti i dashboard e i rapporti RTP personalizzati in GUA non verranno visualizzati correttamente)
 
-1. Aggiungete il **Name. **Selezionare l&#39;ambito come **sessione.** Fate clic su  **Crea.**
+1. Aggiungete il **Nome**. Selezionare l&#39;ambito come **sessione**. Fare clic su **Crea**.
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -106,8 +102,8 @@ Una volta attivati i Dimension personalizzati in GUA, andate alla piattaforma RT
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. In **Impostazioni account** fare clic su **Dominio.**
-1. In **Analytics, **fare clic su **Google Universal Analytics**.
+1. In **Impostazioni account**, fare clic su **Dominio**.
+1. In **Analytics** fare clic su **Google Universal Analytics**.
 1. Ruotare **On** i Dimension e gli eventi personalizzati pertinenti per aggiungere questi dati da RTP a Google Universal Analytics.
 1. Immettere il **numero di indice** della dimensione allineata con il numero di indice in GUA.
 1. Fare clic su **Salva**.
@@ -124,8 +120,7 @@ Una volta attivati i Dimension personalizzati in GUA, andate alla piattaforma RT
 
 1. In Google Analytics. Vai a **Reporting.**
 1. Fare clic su **Dashboard.**
-1. Selezionare un **Dashboard **(RTP B2B o RTP Performance)
+1. Selezionare un **dashboard** (RTP B2B o RTP Performance)
 1. Fare clic su **Elimina dashboard**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
-
