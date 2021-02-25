@@ -3,7 +3,7 @@ unique-page-id: 10096420
 description: Informazioni sulle vendite - Documenti Marketo - Documentazione sui prodotti
 title: Informazioni sulle vendite
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -31,5 +31,4 @@ In [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-
 
 >[!MORELIKETHIS]
 >
->* [Rapporti e-mail](email-reports.md)
-
+>[Rapporti e-mail](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
