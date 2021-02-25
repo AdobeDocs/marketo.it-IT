@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Creare un nuovo elenco account - Documenti Marketo - Documentazione prodotto
 title: Creare un nuovo elenco account
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Crea e carica un elenco di nomi di organizzazione e dominio per questi account c
    >
    >**Qual è il formato per il file CSV?**
    >
-   >
    >Assicuratevi che il file CSV dell&#39;account denominato soddisfi i seguenti requisiti:
    >
    >* Salvato come formato CSV
@@ -50,8 +49,6 @@ Crea e carica un elenco di nomi di organizzazione e dominio per questi account c
 
    >[!NOTE]
    >
-   >**Esempio**
-   >
    >**Esempio del file CSV**
    >
    >* Riga 1 Colonna A valore = Organizzazione
@@ -62,16 +59,16 @@ Crea e carica un elenco di nomi di organizzazione e dominio per questi account c
    >* Paese e stato sono valori facoltativi.
 
       >
-      >  
-   * Per il nome del paese, usate il nome completo del paese o il codice abbreviato. Esempio Stati Uniti o Stati Uniti.
-   >  * Per uno stato degli Stati Uniti, utilizzate il codice di abbreviazione di due lettere, ad esempio CA. Solo gli Stati Uniti sono riconosciuti.
+      >   
+      * Per il nome del paese, usate il nome completo del paese o il codice abbreviato. Esempio Stati Uniti o Stati Uniti.
+      >   * Per uno stato degli Stati Uniti, utilizzate il codice di abbreviazione di due lettere, ad esempio CA. Solo gli Stati Uniti sono riconosciuti.
 
-   >    
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Modifica di un elenco di account {#edit-an-account-list}
 
-Nella pagina **Elenchi account**, fare clic sull&#39;icona **Edit **nell&#39;elenco.
+Nella pagina **Elenchi account** fare clic sull&#39;icona **Modifica** nell&#39;elenco.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -83,7 +80,7 @@ Il file CSV sostituirà il file esistente. L&#39;elenco esistente rimarrà attiv
 
 ## Eliminare un elenco di account denominato {#delete-a-named-account-list}
 
-1. Nella pagina **Account List **fare clic sull&#39;icona **Delete **dell&#39;elenco che si desidera eliminare.
+1. Nella pagina **Elenchi account** fare clic sull&#39;icona Elimina dell&#39;elenco da eliminare.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -93,6 +90,4 @@ Il file CSV sostituirà il file esistente. L&#39;elenco esistente rimarrà attiv
 
 >[!MORELIKETHIS]
 >
->* [Creazione di un segmento tramite un elenco di account](create-a-segment-using-an-account-list.md)
->* [Visualizzazione di un elenco di account denominato](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
-
+>[Creazione di un segmento tramite un elenco di account](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
