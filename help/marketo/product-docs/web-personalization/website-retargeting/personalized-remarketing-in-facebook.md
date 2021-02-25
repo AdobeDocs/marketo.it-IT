@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Notizie personalizzate su Facebook - Marketo Docs - Documentazione prodotto
 title: Osservazioni personalizzate su Facebook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
 >[!PREREQUISITES]
 >
->* Completa la configurazione di [Retargeting with Web Personalization Data](retargeting-with-web-personalization-data.md)
->* Leggi la documentazione di [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook su Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)e Notizie
-
->
-
+>* Completa la configurazione di [Retargeting with Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Leggi la documentazione di [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook su Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Notizie.
 
 
 ## Creazione di un pubblico in Facebook {#creating-an-audience-in-facebook}
 
 1. In Facebook, andate alla [scheda Pubblico](https://www.facebook.com/ads/audience_manager) in Ads Manager.
+
 1. Fare clic su **Strumenti** e selezionare **Audiences**.
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Nell&#39;elenco del traffico del sito Web, selezionare** Combinazione personalizzata**.
+1. Nell&#39;elenco del traffico del sito Web, selezionare **Combinazione personalizzata**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Nell&#39;elenco Evento, selezionare **RTP Note **e selezionare un parametro.
+1. Nell&#39;elenco Evento, selezionare **RTP Note** e selezionare un parametro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ Per ulteriori dettagli, consultare la [documentazione di Facebook](https://devel
 
 >[!MORELIKETHIS]
 >
->* [Ritargeting con dati di personalizzazione Web](retargeting-with-web-personalization-data.md)
->* [Osservazioni personalizzate in Google](personalized-remarketing-in-google.md)
-
->
-
-
+>* [Ritargeting con dati di personalizzazione Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Osservazioni personalizzate in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
