@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Integrazione con  Adobe Analytics - Marketo Docs - Documentazione prodotto
 title: Integrazione con  Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,40 +64,40 @@ Per impostare queste variabili in AA, effettua i seguenti passaggi:
 
 1. Accedi a **Strumenti di amministrazione** nel tuo account AA.
 1. Selezionare la **Suite di rapporti** da utilizzare con l&#39;integrazione.
-1. In **Modifica impostazioni,** passare a **Conversione** e selezionare ** [Variabili di conversione](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*.\
+1. In **Edit Settings** (Modifica impostazioni), andare su **Conversion** e selezionare **[Conversion Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
    Selezionare il numero [Variabile di conversione](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (consigliato):
 
-   1. 
+   1. Evar # 20 per le conversioni personalizzate del settore
+   1. Evar # 21 per le conversioni personalizzate dell&#39;organizzazione
 
-      1. Evar # 20 per le conversioni personalizzate del settore
-      1. Evar # 21 per le conversioni personalizzate dell&#39;organizzazione
+   >[!NOTE]
+   >
+   >Se si sceglie #, selezionare un altro numero disponibile. Allineare questo numero con il numero di slot in Impostazioni account RTP.
 
-         >[!NOTE]
-         >
-         >Se si sceglie #, selezionare un altro numero disponibile. Allineare questo numero con il numero di slot in Impostazioni account RTP.
+   1. Cambia stato in _Abilitato_.
 
-      1. Cambia stato in* abilitato*
+      1. Cambia nome in **Industria** e **Organizzazione**. (Questo è come apparirà nella Suite di rapporti.)
 
-         1. Cambia nome in **Industria** e **Organizzazione**. (Questo è come apparirà nella Suite di rapporti.)
+      1. Cambia il campo Scade dopo in **Visita**.
 
-         1. Cambia il campo Scadenza dopo in **Visita.**
 
-1. In **Edit Settings **passare a** Conversion **e selezionare ** [Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. In **Edit Settings** (Modifica impostazioni), andate a **Conversion** e selezionate **[Success Events](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
-1. Selezionate il numero evento di successo personalizzato (consigliato):
+   1. Selezionate il numero evento di successo personalizzato (consigliato):
 
-   1. event20 per le campagne RTP
-   1. event21 per i segmenti RTP
+      1. event20 per le campagne RTP
+      1. event21 per i segmenti RTP
 
       >[!NOTE]
       >
       >Se si sceglie #, selezionare un altro numero disponibile. Allineare questo numero con il numero di slot in Impostazioni account RTP.
 
-   1. Modificate i nomi dei due eventi in **Campagne RTP** e **Segmenti RTP**. Questo è il nome che verrà visualizzato nella Suite di rapporti.
+      1. Modificate i nomi dei due eventi in **Campagne RTP** e **Segmenti RTP**. Questo è il nome che verrà visualizzato nella Suite di rapporti.
+   1. Selezionare il campo Tipo come **Contatore (nessuna sottorelazione)**
 
-1. Selezionare il campo Tipo* *da **Contatore (nessuna sottorelazione)**
 
-1. In **Edit Settings** (Modifica impostazioni), andate a ** [Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **e selezionate ** [Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+
+1. In **Edit Settings** (Modifica impostazioni), andate a **[Traffic](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** e selezionate **[Traffic Variables](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)** (Variabili di traffico).
 
    1. Selezionate la proprietà Variabile traffico # (consigliato):
 
@@ -106,13 +106,16 @@ Per impostare queste variabili in AA, effettua i seguenti passaggi:
       1. Proprietà # 25 - Nome: Organizzazione campagna
       1. Proprietà # 26 - Nome: Settore delle campagne RTP
 
-         >[!NOTE]
-         >
-         >Se si sceglie #, selezionare un altro numero disponibile. Allineare questo numero con il numero di slot in Impostazioni account RTP)
+      >[!NOTE]
+      >
+      >Se si sceglie #, selezionare un altro numero disponibile. Allineare questo numero con il numero di slot in Impostazioni account RTP)
 
       1. Modificate i nomi delle proprietà 4. Questo è il nome che verrà visualizzato nella Suite di rapporti.
-   1. Selezionare il campo Abilitato per **Abilitato**
-   1. Selezionare il campo Report percorso su **Abilitato**
+   1. Selezionare il campo Abilitato su **Abilitato**.
+
+   1. Selezionare il campo Report percorso su **Abilitato**.
+
+
 
 
 ## Configurazione in Real-Time Personalization (RTP) di Marketo {#set-up-in-marketo-real-time-personalization-rtp}
@@ -123,9 +126,9 @@ Per impostare queste variabili in AA, effettua i seguenti passaggi:
 
 1. In **Impostazioni account**, fare clic su **Dominio**.
 1. In **Analytics, fare clic su** **Adobe Analytics**.
-1. Attivare **On **i commutatori delle variabili Conversione, Personalizzato e Traffico.
+1. Attivare **su** le variabili Conversione, Personalizzato e Traffico.
 1. Assegnare le variabili di conversione, evento e traffico **numeri di slot** in modo che corrispondano ai numeri di slot creati in AA
-1. Fare clic su **SAVE**.
+1. Fare clic su **Salva**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -169,13 +172,11 @@ Esempi di rapporti e dashboard personalizzati in AA includono:
 * Pagine visualizzate per organizzazione
 * Prestazioni del canale di marketing in base a Organizzazione, Industria, Segmenti
 
-**Esempi di rapporti**
+**-Esempi di rapporti-**
 
 **Report principali settori**
 
-** ![](assets/top-industries-report.png)
-
-**
+![](assets/top-industries-report.png)
 
 **Rapporto Organizzazioni**
 
@@ -185,39 +186,47 @@ Esempi di rapporti e dashboard personalizzati in AA includono:
 
 Create un [nuovo dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html) denominato **dashboard RTP**. Questa dashboard aiuterà a comprendere la suddivisione dei visitatori in base ai segmenti verticali e RTP.
 
-1. Fare clic su **Dashboard,** fare clic** Aggiungi dashboard*
+1. Fare clic su **Dashboard,** fare clic su **Aggiungi dashboard**.
 
-1. Denominate il dashboard **Dashboard RTP**
-1. Selezionare la **dimensione del dashboard** 3 x 2, 2 x 2
-1. Creare il [minirapporto](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) e aggiungere [contenuto al dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Denominate il dashboard **Dashboard RTP**.
+
+1. Selezionare la **dimensione del dashboard** 3 x 2, 2 x 2.
+
+1. Creare il [minirapporto](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) e aggiungere [contenuto al dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Aggiunta del rapporto Industrie al dashboard
 
-1. Vai a **Conversioni personalizzate**, fai clic su **Industria**
+1. Vai a **Conversioni personalizzate**, fai clic su **Industria**.
 
-1. Configura grafico in **Grafico a torta**
-1. Fare clic su **Dashboard**, aggiungere **Reportlet**
+1. Configurare il grafico su **Grafico a torta**.
 
-1. Denominate il report **Top Industries**
-1. Inserisci nel dashboard **Dashboard RTP**
+1. Fare clic su **Dashboard**, aggiungere **Reportlet**.
+
+1. Denominate il report **Top Industries**.
+
+1. Posizionare nel dashboard **Dashboard RTP**.
+
 1. Create **New**.
 
 Aggiunta del minirapporto Segmenti al dashboard
 
-1. Vai a **Metriche del sito, **Fare clic su **Eventi personalizzati, Segmenti**
+1. Vai a **Metriche del sito**. Fare clic su **Eventi personalizzati**, **Segments**.
 
-1. Configura grafico su **Barra verticale**
-1. Fare clic su **Dashboard**, aggiungere **Reportlet**
+1. Configurare il grafico su **Barra verticale**.
 
-1. Denominate il report **Segmenti principali**
-1. Inserisci nel dashboard **Dashboard RTP**
-1. Crea **nuovo.**
+1. Fare clic su **Dashboard**, aggiungere **Reportlet**.
+
+1. Denominate il report **Segmenti principali**.
+
+1. Posizionare nel dashboard **Dashboard RTP**.
+
+1. Create **New**.
 
 I minirapporti verranno visualizzati nel dashboard.
 
 ## Visualizza impressioni e clic (conversioni) in  Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Fate clic su Collegamenti personalizzati.
+1. Fare clic su **Collegamenti personalizzati**.
 
    ![](assets/sitecatalyst1-1.png)
 
@@ -227,4 +236,3 @@ I minirapporti verranno visualizzati nel dashboard.
 1. Cerca Conversione per visualizzare i nomi dei segmenti e delle campagne che rappresentano il numero di clic per la campagna.
 
    ![](assets/sitecatalyst2.png)
-
