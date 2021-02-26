@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: Creazione di una nuova finestra di dialogo Campagna Web - Documenti Marketo - Documentazione prodotto
 title: Creazione di una nuova finestra di dialogo Web Campaign
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Create una campagna Web per personalizzare il contenuto Web in tempo reale e fornire il messaggio giusto all&#39;utente giusto al momento giusto.
 
-Una campagna Web è una reazione personalizzata associata a un segmento specifico. La reazione può essere una finestra di dialogo sul sito Web, un [nella zona sostitutiva](create-a-new-in-zone-web-campaign.md), una [funzione widget](create-a-new-widget-web-campaign.md)o un avviso e-mail.
+Una campagna Web è una reazione personalizzata associata a un segmento specifico. La reazione può essere una finestra di dialogo sul sito Web, un [nella zona sostitutiva](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una [funzione widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) o un avviso e-mail.
 
 1. Vai a **Campagne Web**.
 
@@ -41,7 +41,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Visualizza su</strong></td> 
-   <td colspan="1">Consente di <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizzare quando e come viene visualizzata la campagna Web.</a></td> 
+   <td colspan="1">Consente di <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizzare quando e come viene visualizzata la campagna Web.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Stile finestra di dialogo</strong></td> 
@@ -111,7 +111,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
   </tr> 
   <tr> 
    <td colspan="1"><strong>Editor Rich Text</strong></td> 
-   <td colspan="1"><p>L’editor Rich Text consente la formattazione del testo, il collegamento e l’inserimento di immagini. <a href="using-the-web-personalization-rich-text-editor.md">Leggi tutto qui</a>.</p></td> 
+   <td colspan="1"><p>L’editor Rich Text consente la formattazione del testo, il collegamento e l’inserimento di immagini. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Leggi tutto qui</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Anteprima sul sito</strong></td> 
@@ -128,17 +128,17 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 >[!TIP]
 >
->Velocizzate e semplificate il processo di creazione delle campagne utilizzando i nostri [modelli integrati](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) o [salvando la campagna esistente](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) come modello da riutilizzare.
+>Velocizzate e semplificate il processo di creazione delle campagne utilizzando i nostri [modelli integrati](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) o [salvando la campagna esistente](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) come modello da riutilizzare.
 
 ## Modifica di una campagna Web {#edit-a-web-campaign}
 
-1. Dalla pagina **Web** **Campaigns**, fare clic su **Edit** nella campagna Web.
+1. Dalla pagina **Campagne Web**, fare clic su **Modifica** nella campagna Web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Per trovare più facilmente la campagna Web desiderata, utilizzate la [funzionalità filtro](filter-web-campaigns.md).
+>Per trovare più facilmente la campagna Web desiderata, utilizzate la [funzionalità filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Anteprima di una campagna Web {#preview-a-web-campaign}
 
@@ -148,11 +148,11 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 ## Clona una campagna Web {#clone-a-web-campaign}
 
-Vedere [Clonare una campagna Web](clone-a-web-campaign.md).
+Vedere [Clonare una campagna Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Eliminare una campagna Web {#delete-a-web-campaign}
 
-1. Dalla pagina **Campagne Web**, fare clic su **Elimina **nella campagna Web che si desidera eliminare.
+1. Dalla pagina **Campagne Web**, fare clic su **Elimina** nella campagna Web da eliminare.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,6 +160,6 @@ Vedere [Clonare una campagna Web](clone-a-web-campaign.md).
 
 >[!MORELIKETHIS]
 >
->* [Creare una nuova campagna Web nella zona](create-a-new-in-zone-web-campaign.md)
->* [Creare una nuova campagna Web Widget](create-a-new-widget-web-campaign.md)
+>* [Creazione di una campagna RTP nella zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Creare una campagna Widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
