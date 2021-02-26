@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Pianificazione rilascio - Documenti Marketo - Documentazione prodotto
 title: Pianificazione rilascio
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -38,40 +38,24 @@ Le date di rilascio sono soggette a modifica.
    <th width="250px">Progress</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">Gennaio '20</a></td> 
-   <td colspan="1">17 gennaio 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Gennaio '21</td> 
+   <td colspan="1">15 gennaio 2021</td> 
+   <td colspan="1">Spedito</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">Febbraio 20</a></td> 
-   <td colspan="1">21 febbraio 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Maggio '21</td> 
+   <td colspan="1">7 maggio 2021</td> 
+   <td colspan="1">In corso</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">Giugno 20</a></td> 
-   <td colspan="1">5 giugno 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Agosto '21</td> 
+   <td colspan="1">13 agosto 2021</td> 
+   <td colspan="1">In programmazione</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">Luglio '20</a></td> 
-   <td colspan="1">31 luglio 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Ottobre '20</td> 
-   <td colspan="1">16 ottobre 2020</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">Ottobre '21</td> 
+   <td colspan="1">15 ottobre 2021</td> 
+   <td colspan="1">In programmazione</td> 
   </tr> 
  </tbody> 
 </table>
-
