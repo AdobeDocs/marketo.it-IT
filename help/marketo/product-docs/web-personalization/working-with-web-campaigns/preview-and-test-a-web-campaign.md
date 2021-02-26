@@ -3,9 +3,9 @@ unique-page-id: 10092925
 description: Anteprima e test di una campagna Web - Marketo Docs - Documentazione prodotto
 title: Anteprima e test di una campagna Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Questo articolo mostra diversi modi per visualizzare l’anteprima di una campag
 
 ## Visualizzare l&#39;anteprima di una campagna Web nella pagina di creazione {#preview-a-web-campaign-on-the-creation-page}
 
-1. Andate a **Web** **Campaigns**.
+1. Vai a **Campagne Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Fare clic su** Crea nuova campagna Web******* o sull&#39;icona per modificare una campagna esistente.
+1. Fare clic su **Crea nuova campagna Web** oppure sull&#39;icona per modificare una campagna esistente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,12 @@ Questo articolo mostra diversi modi per visualizzare l’anteprima di una campag
 
    >[!NOTE]
    >
-   >Potete anche installare un plug-in del browser ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) per ottenere la migliore esperienza di visualizzazione dell&#39;anteprima della campagna. Vedere la sezione seguente.
+   >Potete anche installare un plug-in del browser ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) per ottenere la migliore esperienza di visualizzazione dell&#39;anteprima della campagna. Vedere la sezione seguente.
 
 ## Visualizzare l&#39;anteprima di una campagna Web nella pagina di creazione utilizzando il plug-in del browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Seguite i passaggi 1 e 2 dal percorso `section above`.
+1. Seguite i passaggi 1 e 2 della sezione precedente.
+
 1. Fate clic sul collegamento al plug-in del browser (in questo caso stiamo utilizzando Chrome).
 
    ![](assets/4-1.png)
@@ -81,7 +82,8 @@ Crea un segmento e una campagna sandbox.
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Denominate il segmento.
-1. In Comportamento, trascinare Includi pagine nel quadro. Aggiungete il valore *sandbox=1*. Fate clic su Salva e definisci campagna.
+
+1. In Comportamento, trascinare Includi pagine nel quadro. Aggiungete il valore *sandbox=1*. Fare clic su **Salva e definisci campagna**.
 
    ![](assets/segment.png)
 
@@ -89,10 +91,12 @@ Crea un segmento e una campagna sandbox.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Completate la campagna creativa e fate clic su **Avvia**.\
+1. Completate la campagna creativa e fate clic su **Avvia**.
+
    ![](assets/click-launch.jpg)
 
-1. Andate al sito Web, aggiungete il parametro URL &quot;?sandbox=1&quot; alla fine dell’URL. Esempio: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. Andate al sito Web, aggiungete il parametro URL &quot;?sandbox=1&quot; alla fine dell’URL. Esempio: `www.marketo.com?sandbox=1`.
+
 1. Visualizzate la reazione della campagna sul vostro sito Web.
 
 >[!NOTE]
@@ -102,4 +106,3 @@ Crea un segmento e una campagna sandbox.
 >[!NOTE]
 >
 >Impossibile visualizzare l&#39;anteprima delle campagne di reindirizzamento. L&#39;unico modo per testarli è utilizzare un segmento sandbox (che esegue il targeting per pagine specifiche - *sandbox=redirect*)
-
