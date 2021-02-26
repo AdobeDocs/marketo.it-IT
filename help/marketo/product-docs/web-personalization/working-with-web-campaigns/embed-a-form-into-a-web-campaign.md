@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Incorporare un modulo in una campagna Web - Documenti Marketo - Documentazione prodotto
 title: Incorporare un modulo in una campagna Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Scopri come incorporare un modulo Marketo in una campagna Web (Dialog, In Zone o
 
 1. Fare clic con il pulsante destro del mouse su un modulo approvato. Selezionare **Incorpora codice**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Copia il Codice.
 
@@ -31,9 +29,7 @@ Scopri come incorporare un modulo Marketo in una campagna Web (Dialog, In Zone o
 
 1. Fare clic su **Crea nuova campagna**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. Nell’editor Rich Text, fate clic sull’icona HTML.
 
@@ -44,6 +40,7 @@ Scopri come incorporare un modulo Marketo in una campagna Web (Dialog, In Zone o
    ![](assets/six-1.png)
 
 1. Il modulo non verrà visualizzato nella vista dell&#39;editor, ma sarà possibile visualizzarlo in anteprima per vedere come verrà visualizzato in una campagna.
+
 1. Fare clic su **Avvia** per avviare la campagna.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ Per aggiungere un&#39;immagine di sfondo al modulo è possibile:
 * Modifica dei colori della finestra di dialogo o del widget in Imposta campagna
 * Aggiunta di codice CSS allo script
 
-Per modificare il CSS di un tema modulo, consultare [questo articolo](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Per modificare il CSS di un tema modulo, consultare [questo articolo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Per modificare i colori della finestra di dialogo o del widget in Imposta campagna:
 
@@ -86,11 +83,7 @@ Per aggiungere il codice CSS allo script:
 
 >[!MORELIKETHIS]
 >
->* [Modificare il CSS di un tema modulo](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [Modificare il CSS di un tema modulo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostra messaggio di ringraziamento senza una pagina di destinazione di follow-up](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
