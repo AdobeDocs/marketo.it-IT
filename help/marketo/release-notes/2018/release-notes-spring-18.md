@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Note sulla versione - Primavera '18 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Primavera '18
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Aumenta la pipeline e i ricavi grazie alla possibilità di incrementare le vendi
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
 Scegli la versione beta aperta Marketo Sky per accedere a oltre 100 nuove funzionalità di incremento della produttività, tra cui:
 
@@ -59,7 +59,7 @@ Confronta le prestazioni di più canali nel tempo.
 
 **Sincronizzazione e filtro campo personalizzato opportunità**
 
-Filtrare i risultati in base ai campi personalizzati dell&#39;opportunità, come una specifica area di vendita. Per i campi numerici o della valuta, impostare valori minimi e massimi, ad esempio un importo minimo di opportunità, e generare informazioni dettagliate per intervalli di dati specifici.
+Filtrare i risultati in base ai campi personalizzati dell&#39;opportunità, come una specifica area di vendita. Per i campi numerici o della valuta, imposta valori minimi e massimi, ad esempio un importo minimo di opportunità, e genera informazioni dettagliate per intervalli di dati specifici.
 
 **Grafici rapidi condivisi**
 
@@ -69,11 +69,11 @@ Condividi facilmente i tuoi grafici rapidi con altri utenti di Performance Insig
 
 La navigazione ottimizzata e i flussi di lavoro migliorati offrono visibilità ai criteri di successo del programma e accesso ai dettagli del programma.
 
-## Contenuto<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [Impostazione obiettivo](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Impostate l&#39;obiettivo dell&#39;algoritmo di ottimizzazione Content<sup>AI</sup> per generare più visualizzazioni, clic o conversioni.
+Impostate l&#39;obiettivo dell&#39;algoritmo di ottimizzazione ContentAI per generare più visualizzazioni, clic o conversioni.
 
 ## Integrazione e API {#integration-and-apis}
 
