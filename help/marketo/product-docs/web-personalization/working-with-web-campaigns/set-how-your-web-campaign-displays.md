@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: Imposta Come Viene Visualizzata La Campagna Web - Documenti Marketo - Documentazione Del Prodotto
 title: Imposta Come Viene Visualizzata La Campagna Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -74,5 +74,4 @@ L&#39;intento di uscita visualizzerà la campagna Web all&#39;uscita del mouse d
 
 >[!TIP]
 >
->Vuoi vedere come saranno anticipati i tuoi effetti? Controllali tramite un [Anteprima campagna Web](preview-and-test-a-web-campaign.md).
-
+>Vuoi vedere come saranno anticipati i tuoi effetti? Controllali tramite un [Anteprima campagna Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
