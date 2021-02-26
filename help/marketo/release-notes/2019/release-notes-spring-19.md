@@ -3,9 +3,9 @@ unique-page-id: 17728380
 description: Note sulla versione - Primavera 2019 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Primavera 2019
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -17,31 +17,29 @@ Le seguenti funzionalità sono incluse nella release primaverile del 19. Per inf
 
 Fate clic sui collegamenti del titolo per visualizzare gli articoli dettagliati di ciascuna funzione, se disponibili.
 
-***Rilasci trimestrali***
+***Rilasci trimestrali_**
 
 Le seguenti funzionalità sono state rilasciate il 15 marzo 2019.
 
 ## Miglioramenti della piattaforma di base {#core-platform-enhancements}
 
-* **In lista d&#39;attesa:** Nuovo stato programma/evento per l&#39;elenco in attesa di un membro quando si desidera  [inserirlo in ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) un&#39;azienda fino all&#39;apertura di un ruolo vacante. Questo vale per i canali associati ai programmi Evento in Marketo Classic, e sia Evento che Evento con i programmi Webinar in Marketo Sky. Per impostazione predefinita, Waitlist ha lo stesso valore step di Registered.
-* ** [Limite di comunicazione personalizzato](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Adesso, gli amministratori possono impostare limiti personalizzati per le comunicazioni giornaliere o settimanali.
-* ** [API Smart Campaign Asset](https://developers.marketo.com/rest-api/assets/campaigns/)**: Arricchisci le tue analisi al di fuori di Marketo con il recupero intelligente dei record delle campagne per data e ID aggiornati.
+* **In lista d&#39;attesa:** Nuovo stato programma/evento per l&#39;elenco in attesa di un membro quando si desidera  [inserirlo in ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) un&#39;azienda fino all&#39;apertura di un ruolo vacante. Questo vale per i canali associati ai programmi Evento in Marketo Classic, e sia Evento che Evento con i programmi Webinar in Marketo Sky. Per impostazione predefinita, Waitlist ha lo stesso valore step di Registered.
+* **[Limite](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)** di comunicazione personalizzato: Adesso, gli amministratori possono impostare limiti personalizzati per le comunicazioni giornaliere o settimanali.
+* **[API](https://developers.marketo.com/rest-api/assets/campaigns/)** delle risorse di Smart Campaign: Arricchisci le tue analisi al di fuori di Marketo con il recupero intelligente dei record delle campagne per data e ID aggiornati.
 * **Collegamenti di tracciamento HTTPS per e-mail:** per i clienti che hanno acquistato &quot;Domini protetti per i collegamenti di tracciamento&quot;, ora i collegamenti di tracciamento con il marchio possono essere visualizzati nelle e-mail come HTTPS.
 * **Aggiornamenti** Powerpack per la distribuzione tramite e-mail: Possibilità di contrassegnare e commentare risultati di test specifici, condividere i risultati con le parti interessate tramite un URL e monitorare le modifiche per visualizzare l&#39;evoluzione di un&#39;e-mail mano a mano che le parti interessate modificano il contenuto.
 
 Marketing basato su account
 
-**[AccountNow generalmente`<sup>AI</sup>`](../../product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** disponibile. Account`<sup>AI</sup>` utilizza intelligenza artificiale per rivelare gli account a cui si deve destinare la strategia ABM.
+**[](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** AccountAINora generalmente disponibile. AccountAI utilizza intelligenza artificiale per rivelare gli account a cui si dovrebbe destinare la strategia ABM.
 
 <br> 
 
-***Rilasci non trimestrali***
+**_Rilasci non trimestrali_**
 
 Le seguenti funzionalità dovrebbero essere rilasciate per tutto il primo trimestre del 2019 e all&#39;inizio del secondo trimestre del 2019.
 
 ## Marketo Sky {#marketo-sky}
-
-Per maggiori dettagli e aggiornamenti, consulta le [Note sulla versione di Sky](https://help.marketo.com/hc/en-us/articles/360015760534-Q1-Releases).
 
 * **Funzionalità** completa del programma e-mail: Invia e-mail, crea test A/B e monitora i risultati in modo semplice.
 * **Funzionalità** Smart Campaign: Grazie alla nuova interfaccia utente, la funzionalità delle campagne intelligenti continua a essere attivata anche in Sky.
@@ -50,12 +48,11 @@ Per maggiori dettagli e aggiornamenti, consulta le [Note sulla versione di Sky](
 
 ## Coinvolgimento vendite marketing {#marketo-sales-engage}
 
-* **Miglioramento del controllo**: Nuova visibilità per tutte le persone, le e-mail e i  [](../../product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) contenuti in un&#39;istanza con la possibilità di  [terminare le ](../../product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)campagne organizzate da altri utenti.
-* **[Gestione](../../product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)** annullamento sottoscrizione: Massima recapito e conformità con la possibilità di  [bloccare ](../../product-docs/marketo-sales-connect/admin/blocked-domains.md) i domini e-mail. Marketo farà inoltre riferimento incrociato al database lead per gli utenti senza sottoscrizione prima di inviare un messaggio e-mail.
+* **Miglioramento del controllo**: Nuova visibilità per tutte le persone, le e-mail e i  [](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) contenuti in un&#39;istanza con la possibilità di  [terminare le ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)campagne organizzate da altri utenti.
+* **[Gestione](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)** annullamento sottoscrizione: Massima recapito e conformità con la possibilità di  [bloccare ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) i domini e-mail. Marketo farà inoltre riferimento incrociato al database lead per gli utenti senza sottoscrizione prima di inviare un messaggio e-mail.
 
 ## Bizible by Marketo {#bizible-by-marketo}
 
 * **Miglioramenti** Delle Funzioni Di Ricerca Bizible: Le nuove funzionalità di segmentazione della dashboard consentono agli esperti di marketing di comprendere meglio le prestazioni.
 * **Supporto** per più valute: Passa dalla valuta aziendale a quella locale con la nuova funzionalità di conversione automatica della divisa di Bizible basata sulle tabelle della valuta CRM.
 * **Costi** campagna CRM: Misura la spesa e il ROI delle attività di marketing offline con la capacità di estrarre automaticamente i dati dei costi dall&#39;oggetto della campagna CRM.
-
