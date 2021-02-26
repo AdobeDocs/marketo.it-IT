@@ -3,7 +3,7 @@ unique-page-id: 8782266
 description: Definizione delle priorità per le campagne Web - Documenti Marketo - Documentazione prodotto
 title: Definizione della priorità per le campagne Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Una campagna In Zone e una campagna (Widget o Dialog) possono reagire sulla stes
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna Web desiderata, utilizzate la [funzionalità filtro](filter-web-campaigns.md).
+   >Per trovare più facilmente la campagna Web desiderata, utilizzate la [funzionalità filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Nella pagina Edit Campaign (Modifica campagna), imposta il punteggio prioritario (9999 = Highest Priority 1 = Lower Priority (Priorità più bassa).
 
