@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: Note sulla versione - Autunno '18 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Autunno 2018
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -25,7 +25,7 @@ La personalizzazione Web ora supporta più aree di lavoro.
 
 ## Coinvolgimento vendite marketing {#marketo-sales-engage}
 
-* **Supporto** per fulmini SFDC: Gli utenti che migrano a o utilizzano attualmente Lightning possono sfruttare MSE per un coinvolgimento più intelligente nel percorso dell&#39;acquirente.
+* **Supporto** per fulmini SFDC: Gli utenti che eseguono la migrazione a o che utilizzano attualmente Lightning possono sfruttare MSE per un coinvolgimento più intelligente nel percorso di acquisto.
 
 * **Supporto esteso: Microsoft Office**
 
@@ -74,7 +74,7 @@ Per maggiori dettagli e aggiornamenti, consulta le [Note sulla versione di Sky](
 
    * I clienti possono ora accedere all&#39;applicazione Web Bizible utilizzando il provider di identità e le credenziali della propria azienda, in conformità ai requisiti di sicurezza aziendali.
 
-**[Miglioramenti di Marketo Performance Insights](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Miglioramenti di Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Miglioramenti a livello di usabilità**
 
@@ -88,7 +88,7 @@ Per maggiori dettagli e aggiornamenti, consulta le [Note sulla versione di Sky](
 
 ## Reti annunci {#ad-networks}
 
-**[Aggiorna token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Aggiorna token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 Abbiamo implementato un token di aggiornamento nelle nostre soluzioni di retargeting e per moduli lead Gen di LinkedIn che estende il tempo di accesso a un anno prima che sia necessaria la riautenticazione.
 
