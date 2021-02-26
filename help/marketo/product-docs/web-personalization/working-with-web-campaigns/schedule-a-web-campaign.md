@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: Pianificazione di una campagna Web - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione di una campagna Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Potete pianificare la campagna Web in base all&#39;ora del visitatore Web o a un
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna desiderata, utilizzate la [funzione filtro](filter-web-campaigns.md).
+   >Per trovare più facilmente la campagna desiderata, utilizzate la [funzione filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Aprite il menu Stato campagna e selezionate **Pianificazione**.
 
@@ -59,11 +59,10 @@ Potete pianificare la campagna Web in base all&#39;ora del visitatore Web o a un
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. Lo stato della campagna nella pagina Campagne è impostato su **Pianificato **e viene visualizzata l&#39;icona orologio/calendario. Fate clic su questa icona per modificare la pianificazione della campagna.
+1. Lo stato della campagna nella pagina Campagne diventa **Pianificato** e viene visualizzata l&#39;icona orologio/calendario. Fate clic su questa icona per modificare la pianificazione della campagna.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >Lo stato della campagna rimane **Pianificato** anche quando la campagna viene eseguita durante gli orari pianificati selezionati. Una volta trascorsa la data di fine pianificata, lo stato della campagna diventa **Paused**.
-
