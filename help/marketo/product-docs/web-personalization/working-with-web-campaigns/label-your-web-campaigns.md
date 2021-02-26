@@ -3,7 +3,7 @@ unique-page-id: 2949154
 description: Etichettare le campagne Web - Documenti Marketo - Documentazione prodotto
 title: Etichettare le campagne Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Hai così tante campagne che lo scorrimento sta diventando ingombrante? Potete u
 
 ## Aggiungere un&#39;etichetta a una campagna Web {#add-a-label-to-a-web-campaign}
 
-1. Accedete a Web Personalization (Personalizzazione Web) e andate all&#39;area Campagne Web.
+1. Accedete a Web Personalization (Personalizzazione Web) e passate all&#39;area Campagne Web.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna desiderata, utilizzate la [funzione filtro](filter-web-campaigns.md).
+   >Per trovare più facilmente la campagna desiderata, utilizzate la [funzione filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Selezionate le campagne a cui desiderate assegnare un’etichetta.
 
@@ -31,11 +31,11 @@ Hai così tante campagne che lo scorrimento sta diventando ingombrante? Potete u
 
 1. Immettete il nome dell’etichetta desiderato e fate clic su Crea nuovo.
 
->[!TIP]
->
->Se l&#39;etichetta esiste già, selezionatela e non createne una nuova.
+   >[!TIP]
+   >
+   >Se l&#39;etichetta esiste già, selezionatela e non createne una nuova.
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 Fantastico! Ora è possibile creare etichette e assegnarle alle campagne.
 
@@ -51,9 +51,4 @@ Fantastico! Ora è possibile creare etichette e assegnarle alle campagne.
 
 >[!MORELIKETHIS]
 >
->* [Etichettare ](create-a-new-in-zone-web-campaign.md) [un segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[Etichettare un segmento](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
