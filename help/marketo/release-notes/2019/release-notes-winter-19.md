@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: Note sulla versione -Winter '19 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Inverno '19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Fate clic sui collegamenti del titolo per visualizzare gli articoli dettagliati 
 
 >[!NOTE]
 >
->Microsoft sta spingendo tutti i clienti online a effettuare l&#39;aggiornamento alla versione più recente di Microsoft Dynamics. Se state integrando l&#39;istanza di Marketo con Dynamics Online, è necessario [eseguire l&#39;aggiornamento alla versione più recente della soluzione Marketo](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) prima del **31 gennaio 2019** per garantire che l&#39;integrazione continui a funzionare.
+>Microsoft sta spingendo tutti i clienti online a effettuare l&#39;aggiornamento alla versione più recente di Microsoft Dynamics. Se state integrando l&#39;istanza di Marketo con Dynamics Online, è necessario [eseguire l&#39;aggiornamento alla versione più recente della soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) prima del **31 gennaio 2019** per garantire che l&#39;integrazione continui a funzionare.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Fate clic sui collegamenti del titolo per visualizzare gli articoli dettagliati 
 
 ## Miglioramenti della piattaforma di base {#core-platform-enhancements}
 
-** [Email CC for Marketo Emails](../../product-docs/email-marketing/general/email-cc.md)*
+**[E-mail CC per e-mail Marketo](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate tramite Marketo.
 
@@ -40,7 +40,7 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
 * **Supporto del dominio con più marchi per l’API delle risorse:** approvare e clonare risorse produce gli stessi risultati all’interno dell’API e dell’interfaccia utente.
 * **Supporto per e-mail CC per l’API** delle risorse: Gli utenti che duplicano, approvano ed elaborano i messaggi e-mail tramite l&#39;API rimarranno in parità con le impostazioni dell&#39;interfaccia utente.
 
-** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (versione beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Modalità** Solo API: Gli utenti ora possono determinare quando e come monitorare i membri del proprio database consentendo alle app Web a pagina singola di chiamare in modo esplicito quando desiderano registrare una visita a una pagina Web invece di affidarsi al tracciamento automatico di Marketo.
 * **Gestione** del rifiuto: Gestite facilmente le opzioni di rifiuto facendo corrispondere il dominio dei cookie di rinuncia con il dominio dei cookie di tracciamento Munchkin.
@@ -54,8 +54,8 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
 * **Servizio** e-mail: Ottenete una migliore recapito e un migliore tracciamento delle risposte, funzionalità e-mail pianificate e funzionalità e-mail in blocco tramite la connessione a Microsoft Outlook (tramite Office365 o On-Prem tramite la scheda Connessione e-mail).
 * **Nuove impostazioni** amministratore: Sono state aggiunte due pagine di amministrazione per ottimizzare l’istanza di coinvolgimento nelle vendite
 
-   * *Team* Management supporta un processo di configurazione dell&#39;account senza soluzione di continuità consentendo agli amministratori di modificare iscrizioni e team.
-   * *I team* di amministrazione delle soluzioni Salesforce configurano la sincronizzazione SFDC in modo più rapido e semplice che mai.
+   * _Team_ Management supporta un processo di configurazione dell&#39;account senza soluzione di continuità consentendo agli amministratori di modificare iscrizioni e team.
+   * _I team_ di amministrazione delle soluzioni Salesforce configurano la sincronizzazione SFDC in modo più rapido e semplice che mai.
 
 * **Plug-in OWA per Windows**: Con un singolo componente aggiuntivo, tutti i client Windows Office365 saranno supportati in Coinvolgimento vendite, fornendo la possibilità di utilizzare Feed dal vivo in Outlook. Il nuovo plug-in sarà disponibile in Microsoft Store.
 * **Spintore attività**: Sincronizza il coinvolgimento nelle vendite con la piattaforma di base Marketo per sfruttare informazioni di marketing in tempo reale.
@@ -64,7 +64,7 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
 
 >[!NOTE]
 >
->I rilasci Marketo Sky si verificano con cadenza più frequente. Le seguenti funzionalità e miglioramenti dovrebbero essere rilasciati nel corso della fine del Q4 o della prima metà del Q1. Per maggiori dettagli e aggiornamenti, consulta la nostra [documentazione Sky](https://help.marketo.com/hc/en-us/articles/360012858573).
+>I rilasci Marketo Sky si verificano con cadenza più frequente. Le seguenti funzionalità e miglioramenti dovrebbero essere rilasciati nel corso della fine del Q4 o della prima metà del Q1. Per maggiori dettagli e aggiornamenti, consulta la nostra [documentazione Sky](https://help.marketo.com/).
 
 * **Esperienza** predefinita opzionale: Gli utenti Marketo possono impostare Marketo Sky come esperienza predefinita se gli è stato fornito l&#39;accesso da un amministratore.
 
@@ -81,7 +81,7 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
 
 ## Marketing basato su account {#account-based-marketing}
 
-** [Segmentazione e filtraggio basati su ABM Persona](../../product-docs/account-based-marketing/using-personas.md)*
+**[Segmentazione e filtro basati su ABM Persona](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 Personalizza le tue campagne ABM per persone specifiche all&#39;interno di account denominati. La funzione ABM Persona crea un titolo di processo predefinito basato sulla segmentazione del lead e consente la configurazione di ulteriori segmentazioni personali.
 
