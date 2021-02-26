@@ -3,7 +3,7 @@ unique-page-id: 12978938
 description: Archiviare una campagna Web - Documenti Marketo - Documentazione del prodotto
 title: Archiviare una campagna Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -27,9 +27,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Eliminare una campagna Web](delete-a-web-campaign.md)
-
->
-
-
-
+>[Eliminare una campagna Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
