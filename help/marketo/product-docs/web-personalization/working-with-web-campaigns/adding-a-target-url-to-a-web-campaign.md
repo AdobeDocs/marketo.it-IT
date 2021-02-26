@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Aggiunta di un URL Target a una campagna Web - Documenti Marketo - Documentazione prodotto
 title: Aggiunta di un URL Target a una campagna Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ Facendo clic sull&#39;icona più (![—](assets/image2015-2-18-8-3a40-3a59.png))
 
 >[!NOTE]
 >
->
 >* Le campagne Web per la finestra di dialogo e i widget possono utilizzare le opzioni Qualsiasi pagina e Carattere jolly (*).
 * In casi di utilizzo avanzati, le campagne Web In Zone possono utilizzare caratteri jolly alla fine del percorso URL. Esempio: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * L’URL fa distinzione tra maiuscole e minuscole
@@ -72,7 +71,7 @@ Facendo clic sull&#39;icona più (![—](assets/image2015-2-18-8-3a40-3a59.png))
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Aggiungi un** Nome campagna**. Selezionare un **segmento di destinazione**. Aggiungete **URL di destinazione**.
+1. Aggiungete un **nome campagna**. Selezionare un **segmento di destinazione**. Aggiungete **URL di destinazione**.
 
    >[!NOTE]
    L’URL di destinazione con Nelle aree deve definire un URL o URL specifici. In casi di utilizzo avanzati, le campagne Web In Zone possono utilizzare caratteri jolly alla fine del percorso URL. Esempio: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
@@ -80,7 +79,7 @@ Facendo clic sull&#39;icona più (![—](assets/image2015-2-18-8-3a40-3a59.png))
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Creazione di una nuova finestra di dialogo Web Campaign](create-a-new-dialog-web-campaign.md)
-* [Creare una nuova campagna Web nella zona](create-a-new-in-zone-web-campaign.md)
-* [Creare una nuova campagna Web Widget](create-a-new-widget-web-campaign.md)
+* [Creazione di una campagna di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Creazione di una campagna RTP nella zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Creare una campagna Widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
