@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Note sulla versione - Dicembre 2014 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Dicembre 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella release di dicembre 2014. Per infor
 
 ## Rapporti sull&#39;analisi delle vendite {#sales-insight-reports}
 
-Il [Sales Insight Email Performance Report](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche delle e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite Salesforce, Microsoft Dynamics, il plug-in per Outlook e il plug-in Gmail.
+Il [Sales Insight Email Performance Report](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche delle e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite Salesforce, Microsoft Dynamics, il plug-in per Outlook e il plug-in Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ Il [Sales Insight Email Performance Report](../../product-docs/marketo-sales-ins
 
 ## Pubblico personalizzato Facebook {#facebook-custom-audiences}
 
-Dopo che l&#39;amministratore di Marketo ha aggiunto [Facebook tramite Admin > Launchpoint](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puoi creare, aggiornare o [sostituire facilmente un pubblico personalizzato di Facebook con lead da un elenco statico o smart list di Marketo](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cercate la nuova icona Facebook nella parte inferiore della griglia lead di qualsiasi elenco statico o smart.
+Dopo che l&#39;amministratore di Marketo ha aggiunto [Facebook tramite Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puoi creare, aggiornare o [sostituire facilmente un pubblico personalizzato di Facebook con lead da un elenco statico o smart list di Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cercate la nuova icona Facebook nella parte inferiore della griglia lead di qualsiasi elenco statico o smart.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Clonazione Migliorata Tra Aree Di Lavoro {#improved-cloning-across-workspaces}
 
-[La duplicazione di un ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programma in un&#39;altra area di lavoro non è mai stata così semplice! Quando fate clic su clone, selezionate l’area di lavoro di destinazione. Basta clonare in una cartella e poi spostare la cartella!
+[La duplicazione di un ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programma in un&#39;altra area di lavoro non è mai stata così semplice! Quando fate clic su clone, selezionate l’area di lavoro di destinazione. Basta clonare in una cartella e poi spostare la cartella!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Dopo che l&#39;amministratore di Marketo ha aggiunto [Facebook tramite Admin > L
 
 ## Elenco avanzato di riferimento {#reference-smart-list}
 
-[Quando si crea un elenco avanzato o un flusso di lavoro, è possibile fare ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)riferimento agli elenchi avanzati condivisi con un’altra area di lavoro.
+[Quando si crea un elenco avanzato o un flusso di lavoro, è possibile fare ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) riferimento agli elenchi avanzati condivisi con un’altra area di lavoro.
 
 ## Miglioramenti all&#39;importazione di elenchi {#list-import-improvements}
 
-[Importa ](../../getting-started/quick-wins/import-a-list-of-people.md) file codificati in UTF-16, Shift-JIS o EUC-JP. Continuiamo a supportare i file codificati UTF-8.
+[Importa ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) file codificati in UTF-16, Shift-JIS o EUC-JP. Continuiamo a supportare i file codificati UTF-8.
 
 ## Tracciamento dei collegamenti negli script e-mail {#link-tracking-in-email-scripting}
 
@@ -94,4 +94,3 @@ Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina 
 Abbiamo aggiunto un nuovo effetto di scorrimento per le campagne In Zone per consentire al contenuto personalizzato di inserirsi al momento del caricamento della pagina.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
