@@ -3,9 +3,9 @@ unique-page-id: 2951044
 description: Note sulla versione - Maggio 2014 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Maggio 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Le seguenti funzionalità sono incluse nella release di maggio 2014. Per informa
 
 ## Elimina area di lavoro {#delete-workspace}
 
-Ora è possibile [eliminare un&#39;area di lavoro inutilizzata](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Prima di eliminare l’area di lavoro, accertatevi di spostare tutte le risorse in un’altra area di lavoro.
+Ora è possibile [eliminare un&#39;area di lavoro inutilizzata](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Prima di eliminare l’area di lavoro, accertatevi di spostare tutte le risorse in un’altra area di lavoro.
 
 ## Pianificazione prima installazione {#schedule-first-cast}
 
-Nei programmi di coinvolgimento, puoi pianificare la data del [primo cast da eseguire](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Ad esempio, specificare che la frequenza deve essere ogni 2 settimane e selezionare la data del primo cast.
+Nei programmi di coinvolgimento, puoi pianificare la data del [primo cast da eseguire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Ad esempio, specificare che la frequenza deve essere ogni 2 settimane e selezionare la data del primo cast.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,13 +33,13 @@ Ora tutti ricevono più programmi, flussi e limiti di comunicazione.
 
 ## Tracciamento dei collegamenti nelle e-mail di testo {#link-tracking-in-text-emails}
 
-[Aggiungi URL con ](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) parentesi quadre doppie nella versione di testo delle e-mail per indicare quando i collegamenti devono essere convertiti in collegamenti di tracciamento Marketo reindirizzati
+[Aggiungi URL con ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) parentesi quadre doppie nella versione di testo delle e-mail per indicare quando i collegamenti devono essere convertiti in collegamenti di tracciamento Marketo reindirizzati
 
 >[!NOTE]
 >
 >**Esempio**
 >
->[[[https://www.marketo.com](https://www.marketo.com)]]
+>`[[https://www.marketo.com]]`
 
 Per impostazione predefinita, nella versione di testo delle e-mail non viene tracciato alcun collegamento. Aggiungi questa nuova sintassi per indicare quando un collegamento deve essere convertito in un collegamento di tracciamento. Il comportamento dei collegamenti HTML non subisce modifiche.  Per aggiungere collegamenti tracciati alle e-mail:
 
@@ -59,7 +59,7 @@ Scopri come si comportano i tuoi collegamenti nelle e-mail in anticipo. Le e-mai
 
 ## Interrompi campagna {#abort-campaign}
 
-Non siate nel panico! Se si verifica un errore, utilizzare il nuovo pulsante [abort campaign](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) per interrompere immediatamente le campagne nei loro brani. Riceverete una notifica in cui viene indicato quanti lead erano in sospeso in ogni fase del flusso al momento dell’arresto della campagna.
+Non siate nel panico! Se si verifica un errore, utilizzare il nuovo pulsante [abort campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) per interrompere immediatamente le campagne nelle loro tracce. Riceverete una notifica in cui viene indicato quanti lead erano in sospeso in ogni fase del flusso al momento dell’arresto della campagna.
 
 ## Informazioni sulle vendite in giapponese, portoghese e spagnolo {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Scarica l&#39;ultima versione di Sales Insight dalla  AppExchange in modo che gl
 
 ## Stato del programma e calendario di successo nell&#39;analisi dell&#39;appartenenza al programma {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Visualizza quanti [membri si trovano in ogni stato del programma](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando sono passati a ogni stato, compresa la data in cui hanno ottenuto il successo del programma.
+Visualizza quanti [membri si trovano in ogni stato del programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando sono passati a ogni stato, compresa la data in cui hanno ottenuto il successo del programma.
 
 ## E-mail di test A/B in Analisi e-mail {#a-b-test-emails-in-email-analysis}
 
-Report su ciascuna delle [varianti e-mail di test A/B](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Analisi e-mail.
+Report su ciascuna delle [varianti e-mail di test A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Analisi e-mail.
 
 ## Modifiche al pacchetto di Analytics {#analytics-packaging-changes}
 
@@ -81,9 +81,4 @@ Modeler del ciclo delle entrate e Analizzatore del percorso di successo sono ora
 
 ## Informazioni sulla piattaforma mobile {#mobile-platform-info}
 
-[Segmento e ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) attivazione di lead che aprono e fanno clic su e-mail dai loro dispositivi mobili.
-
->[!NOTE]
->
->Note sulla versione precedente [Marketo](https://docs.marketo.com/display/docs/release+notes)
-
+[Segmento e ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) attivazione di lead che aprono e fanno clic su e-mail dai loro dispositivi mobili.
