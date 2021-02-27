@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: Note sulla versione - Maggio 2012 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Maggio 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # Note sulla versione: Maggio 2012 {#release-notes-may}
-
->[!NOTE]
->
->**Tubo profondo**
->
->Per altre versioni, vedere le [Note sulla versione](https://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
 ## Riprogettazione report prestazioni e-mail {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ Semplificate il processo di check-in degli eventi utilizzando la nostra nuova ap
 
 Richiede iOS 5.1 o versione successiva; Solo iPad.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Figura 3. Home page del check-in dell&#39;evento
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Figura 3. Home page del check-in dell&#39;evento
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Figura 15. Consultate Attività Web anonime
 ## Sottoscrivi lead e contatti migliorati {#enhanced-lead-and-contact-subscribe}
 
 Seguite un lead o contattate in qualsiasi momento utilizzando il nuovo pulsante Iscrizione nella pagina dei dettagli del record.
-
