@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: Note sulla versione - Febbraio 2013 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - febbraio 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Le schede Facebook pubblicate da Marketo rileveranno i dispositivi mobili e li i
 
 ## Presto disponibile: Supporto per più modelli {#coming-soon-support-for-multiple-models}
 
-Stiamo gettando le basi per supportare più modelli di ciclo di ricavi, abbiamo votato l&#39;idea #1 per RCA nella Comunità, in una versione futura. In questa versione, noterete alcune modifiche, tra cui i filtri [Smart List e l&#39;aggiunta di scelte in Passaggi di flusso](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) per supportare la selezione di un modello e di un passaggio. Stiamo anche spostando i campi Fase ricavi lead e Modello ciclo ricavi lead dalla scheda Griglia lead elenco avanzato.
+Stiamo gettando le basi per supportare più modelli di ciclo di ricavi, abbiamo votato l&#39;idea #1 per RCA nella Comunità, in una versione futura. In questa versione, noterete alcune modifiche, tra cui i filtri [Smart List e l&#39;aggiunta di scelte in Passaggi di flusso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) per supportare la selezione di un modello e di un passaggio. Stiamo anche spostando i campi Fase ricavi lead e Modello ciclo ricavi lead dalla scheda Griglia lead elenco avanzato.
