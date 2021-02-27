@@ -3,9 +3,9 @@ unique-page-id: 2951095
 description: Note sulla versione - Giugno 2013 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Giugno 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Giugno 2013 {#release-notes-june}
 
-Le seguenti funzionalità sono incluse nella release di giugno. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php).
-
-Dopo il rilascio, accertatevi di controllare la scheda [Nuova versione](release-notes-december-2013.md) nella Community per gli articoli dettagliati della Knowledge Base per ogni funzione!
+Le seguenti funzionalità sono incluse nella release di giugno.
 
 ## Lingue utente aggiuntive {#additional-user-languages}
 
@@ -42,4 +40,3 @@ Ideale per l&#39;analisi del ciclo delle entrate (RCA) nella Comunità, questa f
 Per impostazione predefinita, sono disponibili due modelli per Select SMB Edition e quindici modelli per Enterprise Edition. È inoltre possibile acquistare modelli aggiuntivi.
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
-
