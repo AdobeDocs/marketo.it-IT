@@ -3,9 +3,9 @@ unique-page-id: 11370952
 description: Note sulla versione - Primavera '16 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Primavera '16
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella release primaverile del 16. Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione.
 
-## [Approfondimenti e-mail](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [Approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 Email Insights è una nuova esperienza storica di analisi e-mail di dati aggregati — riprogettato end-to-end per prestazioni estremamente rapide come parte di Project Orion. Offre un nuovo design dell&#39;interfaccia utente ottimizzato per soddisfare le esigenze e il flusso di lavoro degli addetti al marketing e-mail.
 
@@ -31,7 +31,7 @@ Crea bellissime e-mail utilizzando i nostri nuovi modelli iniziali! Inoltre, pot
 
 >[!NOTE]
 >
->Editor e-mail 2.0 (con il selettore dei modelli) verrà implementato gradualmente a partire dal 3 giugno. Completeremo il lancio entro il 30 giugno. A differenza di Email Insights, non riceverai alcuna notifica quando avrai accesso. Per vedere se lo fai, segui i passaggi descritti in [questo articolo](https://docs.marketo.com/pages/viewpage.action?pageId=11373011).
+>Editor e-mail 2.0 (con il selettore dei modelli) verrà implementato gradualmente a partire dal 3 giugno. Completeremo il lancio entro il 30 giugno. A differenza di Email Insights, non riceverai alcuna notifica quando avrai accesso. Per vedere se lo fai, segui i passaggi descritti in [questo articolo](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -53,17 +53,13 @@ Sono finiti i giorni in cui è necessario riapprovare tutto ogni volta che uno s
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Attività personalizzate](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
-
-Gli amministratori di marketing ora possono definire e gestire i loro tipi di attività personalizzati tramite il modellatore di definizione dell&#39;attività personalizzata di Marketo. Simili a (e in combinazione con) il modello di oggetti personalizzato Marketo, gli amministratori possono ora estendere il modello di dati in base alle proprie esigenze aziendali. Per informazioni su come utilizzare questa funzionalità, vedere il [sito della documentazione di Marketo](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
-
 ## [API Pagina di destinazione, Modello pagina di destinazione e Modulo](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Le API REST di Marketo ora supportano il controllo sulle pagine di destinazione di Marketo, sui modelli delle pagine di destinazione e sui moduli. Gli utenti ora possono creare, aggiornare il contenuto, approvare ed eliminare queste risorse direttamente tramite l&#39;API REST di Marketo.
 
 ## [Inserire nell&#39;elenco Consentiti di  IP in  di accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Come per la funzione di inserire nell&#39;elenco Consentiti di  IP per gli accessi utente di Marketo, gli amministratori di Marketo possono ora impostare un inserire nell&#39;elenco Consentiti  di indirizzi IP che possono accedere alle API SOAP e REST di Marketo, bloccando in tal modo l&#39;accesso da indirizzi IP non autorizzati. Questo fornisce un ulteriore livello di sicurezza all&#39;istanza di Marketo e garantisce che l&#39;accesso API possa avvenire solo dall&#39;interno della rete aziendale. Per informazioni su come impostare questa configurazione, consultare il [sito della documentazione di Marketo](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
+Come per la funzione di inserire nell&#39;elenco Consentiti di  IP per gli accessi utente di Marketo, gli amministratori di Marketo possono ora impostare un inserire nell&#39;elenco Consentiti  di indirizzi IP che possono accedere alle API SOAP e REST di Marketo, bloccando in tal modo l&#39;accesso da indirizzi IP non autorizzati. Questo fornisce un ulteriore livello di sicurezza all&#39;istanza di Marketo e garantisce che l&#39;accesso API possa avvenire solo dall&#39;interno della rete aziendale. Per informazioni su come impostare questa configurazione, consultare il [sito della documentazione di Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Nuovo connettore Microsoft Dynamics Sync ad alta velocità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -100,3 +96,7 @@ Oggi, gli utenti sono invitati ad iscriversi a Marketo per un periodo di tempo i
 Ora è possibile visualizzare il numero di record e campi per tutti gli oggetti personalizzati pubblicati.
 
 ![](assets/custom-objects-grid.png)
+
+## Attività personalizzate {#custom-activities}
+
+Gli amministratori di marketing ora possono definire e gestire i loro tipi di attività personalizzati tramite il modellatore di definizione dell&#39;attività personalizzata di Marketo. Simili a (e in combinazione con) il modello di oggetti personalizzato Marketo, gli amministratori possono ora estendere il modello di dati in base alle proprie esigenze aziendali. Per informazioni su come utilizzare questa funzionalità, vedere il [sito della documentazione di Marketo](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
