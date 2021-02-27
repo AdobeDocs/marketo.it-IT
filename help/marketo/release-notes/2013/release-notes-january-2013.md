@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: Note sulla versione -Gennaio 2013 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - gennaio 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ I nomi di visualizzazione dei campi possono visualizzare il testo in lingue dive
 Il passaggio Modifica flusso dati programma consente di modificare manualmente lo stato di Successo e la Data di Successo di un membro del programma attraverso una campagna. È possibile utilizzare questo passaggio di flusso per correggere un errore o per modificare manualmente un membro che potrebbe non aver partecipato al programma come previsto.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
