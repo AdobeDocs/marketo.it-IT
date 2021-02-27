@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: Note sulla versione - Marzo 2012 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - marzo 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Marzo 2012 {#release-notes-march}
 
->[!NOTE]
->
->**Tubo profondo**
->
->Per altre versioni, vedere le [Note sulla versione](https://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
->
->## Risolvi token personali {#resolve-my-tokens}>
+## Risolvi token personali {#resolve-my-tokens}
 
 I miei token (Token programma) verranno risolti durante la visualizzazione dell&#39;anteprima di un&#39;e-mail, durante l&#39;invio di un&#39;e-mail di prova e durante l&#39;invio di un&#39;e-mail locale tramite un&#39;unica azione di flusso. Non dovrete più creare una campagna intelligente all&#39;interno del programma per testare i vostri My Tokens!
 
