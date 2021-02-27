@@ -3,7 +3,7 @@ unique-page-id: 2951111
 description: Note sulla versione - Settembre 2012 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Settembre 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -60,4 +60,3 @@ Abbiamo aggiunto nuovi criteri di filtro alla chiamata API getMultipleLeads. Olt
 * Intervalli di date
 * Nomi elenco statici
 * Array di chiavi lead
-
