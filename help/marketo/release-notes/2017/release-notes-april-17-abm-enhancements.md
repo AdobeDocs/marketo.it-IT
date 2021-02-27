@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: Note sulla versione -Aprile '17 Miglioramenti ABM - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Aprile '17 Miglioramenti ABM
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Ora puoi aggiungere campi personalizzati agli account, mapparli al CRM e utilizz
 Ora potete filtrare facilmente gli account denominati in base a un Elenco account.
 
 ![](assets/named-account-filters.png)
-
