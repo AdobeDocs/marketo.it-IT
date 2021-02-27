@@ -3,9 +3,9 @@ unique-page-id: 2951052
 description: Note sulla versione - Dicembre 2013 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Dicembre 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # Note sulla versione: Dicembre 2013 {#release-notes-december}
 
-Le seguenti funzionalità sono incluse nella release di dicembre. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php).
+Le seguenti funzionalità sono incluse nella release di dicembre.
 
 Dopo il rilascio, accertatevi di controllare la scheda Nuova versione nella Community per gli articoli dettagliati della Knowledge Base per ogni funzione!
-
-## Sweet Background Photos {#sweet-background-photos}
-
-Abbiamo iniziato a esprimere la nostra creatività nell&#39;applicazione. Ogni trimestre verrà presentato un nuovo artista. Per avviarci, abbiamo selezionato [Trey Ratcliff](https://stuckincustoms.smugmug.com/).
 
 ## Programma e-mail {#email-program}
 
