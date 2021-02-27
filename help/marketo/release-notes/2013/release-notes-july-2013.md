@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: Note sulla versione - Luglio 2013 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Luglio 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Luglio 2013 {#release-notes-july}
 
-Le seguenti funzionalità sono incluse nella release di luglio pianificata per venerdì 26 luglio.  Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php).
-
-Dopo il rilascio, controllate la scheda [Nuova versione](release-notes-december-2013.md) nella community per gli articoli della Guida dettagliati per ciascuna funzione!
+Le seguenti funzionalità sono incluse nella release di luglio pianificata per venerdì 26 luglio.
 
 ## Widget contenuto con esaurimento nel dashboard {#exhausted-content-widget-on-the-dashboard}
 
@@ -44,4 +42,3 @@ Visualizzate e ordinate la griglia dei membri in base alla data di aggiunta del 
 ## Modifiche al controllo ortografia in WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
 Il servizio utilizzato dall&#39;editor WYSIWYG per il controllo ortografia è stato interrotto. Abbiamo rimosso il pulsante Controllo ortografia dall&#39;editor finché non viene rilevata una sostituzione.
-
