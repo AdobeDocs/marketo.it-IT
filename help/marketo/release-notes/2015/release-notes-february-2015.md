@@ -3,9 +3,9 @@ unique-page-id: 6094890
 description: Note sulla versione - Febbraio 2015 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - febbraio 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Le seguenti funzionalità sono incluse nella release di febbraio 2015. Per infor
 
 ## Miglioramenti dell&#39;automazione marketing {#marketing-automation-enhancements}
 
-** [Sposta campagna intelligente](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)*
+**[Sposta campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 Felice! Ora puoi spostare le campagne intelligenti all&#39;interno e all&#39;esterno dei programmi tramite trascinamento o la funzione Sposta nella struttura.
 
-** [Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- supportato!
+**[Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  - supportato!
 
 **Modifiche al certificato HTTPS**
 
@@ -29,9 +29,9 @@ Per proteggere la riservatezza e l&#39;integrità dei dati dei clienti e dei ser
 
 e sostituirà i protocolli di sicurezza attualmente utilizzati (SHA-1 e SSL) con versioni più sicure (SHA-2 (alias SHA-256) e TLS) per i seguenti domini:
 
-`·` [marketo.net](https://marketo.net) (traffico Munchkin crittografato)
+* [marketo.net](https://marketo.net) (traffico Munchkin crittografato)
 
-`·` [marketo.com](https://marketo.com) (principali applicazioni SaaS)
+* [marketo.com](https://marketo.com) (principali applicazioni SaaS)
 
 Ciò si verificherà poco dopo questa versione. Il protocollo SHA-1 sarà temporaneamente supportato su [mktoapi.com](https://mktoapi.com) dominio fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i propri sistemi con la compatibilità SHA-2.
 
@@ -41,12 +41,12 @@ Stiamo rimuovendo il supporto per SSL3. Abbiamo mantenuto SSL3 fino ad ora per m
 
 ## Miglioramenti della personalizzazione in tempo reale {#real-time-personalization-enhancements}
 
-** [URL di destinazione per campagne](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+**[URL di destinazione per le campagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
 Selezionate le pagine sulle quali desiderate visualizzare la campagna in tempo reale utilizzando l&#39;opzione &quot;Aggiungi un URL di destinazione&quot;. Questa funzione funziona con tutti i tipi di campagne (finestra di dialogo, area, widget), ma è particolarmente utile per le campagne In Zone, dove una campagna verrà rappresentata nell’ID di zona solo per l’URL di destinazione selezionato. Supporta l’aggiunta di più URL per diverse pagine Web.
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [Paese e stato aggiunti al targeting basato su account](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
+**Paese e stato aggiunti al targeting basato su account**
 
 È ora possibile aggiungere Paese e Stato agli elenchi degli account denominati. Esegue il targeting dei potenziali account chiave da posizioni specifiche.
