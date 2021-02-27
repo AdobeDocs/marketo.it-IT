@@ -3,7 +3,7 @@ unique-page-id: 2951107
 description: Note sulla versione - Dicembre 2012 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Dicembre 2012
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -39,7 +39,7 @@ La nostra versione più recente offre maggiore accesso e controllo sui ruoli Amm
 
 ## Scheda BrightTALK {#brighttalk-adapter}
 
-L&#39;adattatore Marketo BrightTALK consente di acquisire le informazioni di partecipazione da un webcast live o on-demand, direttamente in un evento Marketo!
+L&#39;adattatore Marketo BrightTALK consente di acquisire le informazioni di partecipazione da un webcast live o on demand, direttamente in un evento Marketo!
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
@@ -70,7 +70,6 @@ Aggiungi campi di opportunità personalizzati per arricchire i rapporti di anali
 
 Ti sei mai chiesto quali campagne utilizzano un&#39;azione di flusso specifica, ad esempio Modifica punteggio o Richiedi campagna? O dove viene utilizzato un determinato filtro? La nuova finestra Ispettore campagna (disponibile dal cassetto del tesoro) consente di identificare queste campagne, nonché campagne attive e campagne con errori.
 
-Vai a **Admin** > **Treasure Chest** per abilitare** Campaign Inspector*.
+Andate a **Admin** > **Treasure Chest** per attivare **Campaign Inspector**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
