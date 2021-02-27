@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: Note sulla versione -Aprile 2012 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione -Aprile 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Note sulla versione: Aprile 2012 {#release-notes-april}
 
 ## Filtri di segmentazione e attivatori {#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**Tubo profondo**
->
->Per altre versioni, vedere le [Note sulla versione](https://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
 
 Esegue il targeting dello stesso gruppo di lead in modo coerente? In tal caso, utilizzate la segmentazione negli elenchi smart per eseguire il targeting dei lead. Con la segmentazione, l’intero database dei lead è sempre segmentato e può essere riutilizzato nei programmi per garantire la coerenza. I risultati della segmentazione vengono estratti rapidamente perché non richiedono l&#39;esecuzione dell&#39;elenco avanzato al momento della richiesta.
 
@@ -63,4 +57,3 @@ Se non stai sincronizzando l’iscrizione con Salesforce, noterai che tutte le c
 Consente agli utenti di definire un ordine per le proprie regole di transizione.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
