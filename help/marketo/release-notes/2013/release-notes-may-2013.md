@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: Note sulla versione - Maggio 2013 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Maggio 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Maggio 2013 {#release-notes-may}
 
-Le seguenti funzionalità sono incluse nella release di maggio. Per informazioni sulla disponibilità delle funzionalità, controllare il [Marketo](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php).
-
-Dopo il rilascio, accertatevi di controllare la scheda [Nuova versione](release-notes-december-2013.md) nella Community per gli articoli dettagliati della Knowledge Base per ogni funzione!
+Le seguenti funzionalità sono incluse nella release di maggio.
 
 ## File calendario per pagine di destinazione {#calendar-files-for-landing-pages}
 
@@ -40,4 +38,3 @@ Trova più rapidamente le azioni di flusso grazie alla struttura di azioni di fl
 Modifica stato progressione è ora Modifica stato programma. Modifica dati programma è ora Modifica successo programma
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
