@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: Note sulla versione - Autunno 2015 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Autunno 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella versione autunnale del 15. Per info
 
 ## Iscriviti a un Smart List {#subscribe-to-a-smart-list}
 
-[Iscriviti a un Smart List](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[Iscriviti a un Smart List](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 La sottoscrizione a Smart List consente agli addetti al marketing di esportare un elenco smart ed inviarlo via e-mail agli interessati che non utilizzano Marketo, ad esempio, Sales o Telemarketing teams.
 
@@ -31,7 +31,7 @@ L&#39;esportazione può essere programmata su base giornaliera, settimanale o me
 
 ## Oggetti personalizzati Marketo {#marketo-custom-objects}
 
-[Oggetti personalizzati Marketo](https://docs.marketo.com/display/docs/marketo+custom+objects)
+[Oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 Creare facilmente oggetti personalizzati dall&#39;interfaccia utente di amministrazione. Al momento siamo in grado di creare un oggetto personalizzato 1:N in Marketo e di collegarlo a un lead o a una società.
 
@@ -39,12 +39,11 @@ Creare facilmente oggetti personalizzati dall&#39;interfaccia utente di amminist
 >
 >Gli oggetti personalizzati Marketo non sono disponibili per Spark.
 
-
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
 
-[Marketo Insights for Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights for Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 Siamo entusiasti di annunciare il rilascio di un aggiornamento al nostro Google Mail Sales Insight estensione! Visualizzarlo in [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
@@ -58,15 +57,15 @@ Questo aggiornamento include molte nuove funzionalità:
 
 ## Coinvolgimento di Marketing Mobile - Token, Invia esempio e Anteprima {#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [Token](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-* [Invia esempio](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-* [Anteprima](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
+* [Token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [Invia esempio](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
+* [Anteprima](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalizzare facilmente le notifiche push con [token](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
+Personalizzare facilmente le notifiche push con [token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Potete anche [preview](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o inviare una notifica push [sample](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) prima di distribuirla ai clienti.
+Potete anche [preview](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o inviare una notifica push [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) prima di distribuirla ai clienti.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -74,7 +73,7 @@ Potete anche [preview](../../product-docs/mobile-marketing/push-notifications/pr
 
 ## Campagne intelligenti nei momenti {#smart-campaigns-in-moments}
 
-[Campagne intelligenti nei momenti](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[Campagne intelligenti nei momenti](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 Le statistiche sulle e-mail inviate tramite le campagne intelligenti sono ora disponibili nei Momenti. Altre funzionalità di questo aggiornamento includono:
 
@@ -87,7 +86,7 @@ Le statistiche sulle e-mail inviate tramite le campagne intelligenti sono ora di
 
 ## RTP - Content Analytics e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics e Recommendations
+[Content ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics e Recommendations
 
 L&#39;analisi dei contenuti RTP mostra le prestazioni delle risorse di contenuto Web grazie a visite Web regolari e alle visite generate dal motore di raccomandazione dei contenuti di RTP.
 
@@ -98,13 +97,13 @@ L&#39;analisi dei contenuti RTP mostra le prestazioni delle risorse di contenuto
 La pagina Risorse di RTP ora è suddivisa in Content Analytics e Content Recommendations.
 
 * **Analisi dei contenuti:** mostra le viste e i lead diretti di tutti i contenuti Web scoperti e definiti, aiutandoti ad analizzare i contenuti con le prestazioni migliori
-* **Content Recommendations**: Mostra impression e clic dal contenuto consigliato di RTP e l’attribuzione dei lead associata. Potete inoltre modificare e abilitare le raccomandazioni sul contenuto da questa pagina per le raccomandazioni [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) e [rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine).
+* **Content Recommendations**: Mostra impression e clic dal contenuto consigliato di RTP e l’attribuzione dei lead associata. Potete inoltre modificare e abilitare le raccomandazioni sul contenuto da questa pagina per le raccomandazioni [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
 
 * Tutti i dati lead diretti contenuti in queste due pagine sono stati aggiornati retroattivamente dall&#39;inizio dell&#39;anno (1° gennaio 2015).
 
 ## RTP - Clona una campagna RTP {#rtp-clone-an-rtp-campaign}
 
-[RTP - Clona una campagna RTP](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
+[RTP - Clona una campagna RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
 La creazione di una campagna RTP rende più veloce ed efficiente la creazione di campagne Web più personalizzate. Utilizzate la funzione di duplicazione nella pagina della campagna di RTP per copiare le impostazioni della campagna e modificare il contenuto per l’ottimizzazione del test suddiviso, oppure duplicare una campagna con lo stesso contenuto e indirizzarla verso un segmento diverso. Crea campagne in pochi secondi!
 
@@ -116,52 +115,35 @@ Stiamo apportando diversi miglioramenti all&#39;editor Rich Text. Dopo il rilasc
 
 * VML è ora supportato nel codice HTML:
 
-   ```
-   <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-   ```
-
-   ```
-   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
-   ```
-
-   ```
-   </v:background>
-   ```
+```
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+</v:background>
+```
 
 * È ora possibile inserire qualsiasi elemento in un commento HTML valido (alcune sintassi come quelle riportate di seguito erano state precedentemente eliminate):
 
-   ```
-   <!--[if gte mso 9]> 
-   ```
+`<!--[if gte mso 9]> <![endif]-->`
 
-   ```
-   <![endif]-->
-   ```
-
-* Non riempire celle vuote di tabella con `**`
+* Non riempire celle vuote di tabella con `&nbsp;`
 
 * Pulsante Ingrandisci/Riduci a icona aggiunto all&#39;editor sorgente HTML
 * Le proprietà di tabella preesistenti ora vengono identificate e visualizzate nella finestra di dialogo Proprietà tabella
 * Entrambe le righe di pulsanti sono ora visualizzate per impostazione predefinita.
 * L&#39;editor ora accetta qualsiasi elemento (anche elementi obsoleti o non standard):
 
-   ```
-   <myCustomElement>Hello World!</myCustomElement>
-   ```
+`<myCustomElement>Hello World!</myCustomElement>`
 
 * L&#39;editor ora accetta qualsiasi attributo (anche attributi obsoleti o non standard):
 
-   ```
-   <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-   ```
-
-   ```
-   <td background="someImage.png"> 
-   ```
+```
+<myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
+<td background="someImage.png"> 
+```
 
 ## Microsoft Dynamics - Convalida sincronizzazione {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Convalida sincronizzazione](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics - Convalida sincronizzazione](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Questo nuovo strumento di amministrazione esegue una serie di controlli per verificare se le configurazioni di sincronizzazione sono state impostate correttamente.
 
