@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: Note sulla versione - Luglio 2015 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Luglio 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Uscite a pranzo ma dovete riprogrammare un&#39;e-mail? L&#39;app Marketo Moments
 ## Aggiornamento editor Rich Text {#rich-text-editor-update}
 
 Editor di testo aggiornato con aspetto e aspetto moderni, con formattazione del testo semplificata, modifica delle immagini, inserimento di collegamenti e modifica HTML. L&#39;editor HTML ora dispone di una convalida minima, che consente di modificare il codice in modo meno restrittivo.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà automaticamente distribuito entro pochi giorni dal rilascio di luglio. In seguito, potrai passare dalle versioni Nuovo a quelle Legacy dell&#39;editor da **Admin > Email > Edit Editor Settings** (Amministratore > E-mail > Modifica impostazioni editor). Se riscontri dei problemi con la nuova versione dell&#39;editor di testo, ti consigliamo di saperlo! Invia una breve descrizione a [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà automaticamente distribuito entro pochi giorni dal rilascio di luglio. In seguito, potrai passare dalle versioni Nuovo a quelle Legacy dell&#39;editor da **Admin > Email > Edit Editor Settings** (Amministratore > E-mail > Modifica impostazioni editor).
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ Scopri [di più](https://developers.marketo.com/documentation/company-api/) nell
 
 ## Accesso alla distribuzione tramite e-mail {#access-email-deliverability}
 
-**Accedi allo strumento di recapito della posta elettronica: **Questa nuova autorizzazione consente agli amministratori di concedere agli utenti l&#39;accesso allo strumento di recapito tramite e-mail.
+**Accesso allo strumento** di recapito e-mail: Questa nuova autorizzazione consente agli amministratori di concedere agli utenti l’accesso allo strumento di recapito tramite e-mail.
