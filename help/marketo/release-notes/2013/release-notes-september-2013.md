@@ -3,9 +3,9 @@ unique-page-id: 2951056
 description: Note sulla versione - Settembre 2013 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Settembre 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Note sulla versione: Settembre 2013 {#release-notes-september}
 
-Le seguenti funzionalità sono incluse nella release di settembre. Per informazioni sulla disponibilità delle funzionalità, controllare la [versione di Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php).
-
-Dopo il rilascio, accertatevi di controllare la scheda [Nuova versione](release-notes-december-2013.md) nella Community per gli articoli dettagliati della Knowledge Base per ogni funzione!
+Le seguenti funzionalità sono incluse nella release di settembre.
 
 ## URL più brevi {#shorter-urls}
 
