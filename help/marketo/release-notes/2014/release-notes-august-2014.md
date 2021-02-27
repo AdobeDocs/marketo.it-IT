@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: Note sulla versione - Agosto 2014 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Agosto 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella versione di agosto 2014. Per inform
 
 ## Licenze calendario marketing {#marketing-calendar-licenses}
 
-Dopo il 5 settembre 2014, solo 5 utenti possono accedere gratuitamente al calendario di marketing. Assicurati di [Rilasciare/revocare una licenza di Marketing Calendar](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti di tua scelta prima di allora per un accesso senza interruzioni.
+Dopo il 5 settembre 2014, solo 5 utenti possono accedere gratuitamente al calendario di marketing. Assicurati di [Rilasciare/revocare una licenza di Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti di tua scelta prima di allora per un accesso senza interruzioni.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -28,14 +28,14 @@ Sono state aggiunte le seguenti nuove autorizzazioni utente:
 | Autorizzazione | Descrizione |
 |---|---|
 | Esplora entrate di Access | Se hai acquistato RCA, ora avrai il controllo su chi potrà accedervi. |
-| Importa elenco | Limitare gli utenti dall’importazione di elenchi nel database lead. |
+| Importa elenco | Limita l’importazione di elenchi nel database lead agli utenti. |
 | Importa elenco | Limitare gli utenti dall&#39;importazione di elenchi tramite un programma in attività di marketing. |
 | Attiva campagna di attivazione | Controllare chi può e non può attivare le campagne di attivazione. |
 | Pianificazione campagna batch | Controllare chi può e non può pianificare l&#39;esecuzione di campagne batch. |
 
 ## Esportare utenti e ruoli dall&#39;amministratore {#export-users-and-roles-from-admin}
 
-È ora possibile [Esportare un elenco di utenti e ruoli](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Potete anche includere una marca temporale &quot;Ultimo login&quot; da includere nell’esportazione.
+È ora possibile [Esportare un elenco di utenti e ruoli](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Potete anche includere una marca temporale &quot;Ultimo login&quot; da includere nell’esportazione.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ Gli utenti amministratori ora possono bloccare gli utenti a causa di più tentat
 Ora puoi escludere IP specifici da tutte le attività di monitoraggio e reporting in Real-Time Personalization (Personalizzazione in tempo reale).
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
