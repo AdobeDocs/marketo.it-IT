@@ -3,9 +3,9 @@ unique-page-id: 12255606
 description: Note sulla versione -Winter '17 - Marketo Docs - Documentazione prodotto
 title: Note sulla versione - Inverno '17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Esportate tutti i dettagli e le analisi della campagna Web in formato CSV. Potet
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localizzazione](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## Localizzazione {#localization}
 
 Le app Web Personalization (Personalizzazione Web), Predictive Content (Contenuto predittivo) e Email Insights sono ora disponibili in giapponese, tedesco e spagnolo. [selezionate la lingua e le impostazioni internazionali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) per visualizzare il contenuto in queste lingue.
 
@@ -71,7 +71,7 @@ Filtra l&#39;analisi del contenuto predittivo per origini specifiche — E-mail,
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Editor di contenuti predittivi](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**Editor di contenuti predittivi**
 
 È disponibile un’esperienza di modifica e un layout migliorati che dividono la preparazione dei contenuti per origine. E-mail, contenuti multimediali avanzati o barra delle raccomandazioni.
 
