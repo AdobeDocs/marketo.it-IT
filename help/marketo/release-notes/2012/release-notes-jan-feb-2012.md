@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: Note sulla versione -Jan/Feb 2012 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Gen/Feb 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella release di gennaio/febbraio. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo. Tornate dopo il rilascio per i collegamenti alla documentazione dettagliata sulle funzioni.
 
->[!NOTE]
->
->**Tubo profondo**
->
->Per altre versioni, vedere le [Note sulla versione](https://docs.marketo.com/display/docs/release+notes) informazioni dettagliate.
-
 ## Contenuto dinamico avanzato {#advanced-dynamic-content}
 
-*Disponibile per versioni Pro ed Enterprise*
+_Disponibile per versioni Pro ed Enterprise_
 
 Grazie a contenuti dinamici avanzati, puoi creare comunicazioni e pagine di destinazione coinvolgenti per il pubblico senza dover creare più risorse per lo stesso messaggio. I visualizzatori di anteprima aggiornati consentono di visualizzare ogni versione univoca in un solo schermo.
 
@@ -31,7 +25,7 @@ Grazie a contenuti dinamici avanzati, puoi creare comunicazioni e pagine di dest
 
 ## Segmentazione {#segmentation}
 
-*Disponibile per versioni Pro ed Enterprise*
+_Disponibile per versioni Pro ed Enterprise_
 
 La segmentazione è un gruppo di segmenti, ovvero un gruppo mirato di individui ai quali potete immettere sul mercato. I segmenti sono definiti da regole guidate da criteri di filtro simili agli elenchi smart. I segmenti possono essere basati su dati demografici, come il titolo del processo o il settore, o su comportamenti quali pagine Web visitate o collegamenti su cui è possibile fare clic.
 
@@ -39,7 +33,7 @@ La segmentazione è un gruppo di segmenti, ovvero un gruppo mirato di individui 
 
 ## Snippet {#snippets}
 
-*Disponibile per versioni Pro ed Enterprise*
+_Disponibile per versioni Pro ed Enterprise_
 
 Archiviate contenuti avanzati che possono essere utilizzati più e più volte per creare e-mail statiche o dinamiche e pagine di destinazione.
 
@@ -47,7 +41,7 @@ Archiviate contenuti avanzati che possono essere utilizzati più e più volte pe
 
 ## PURL {#purls}
 
-*Disponibile per versioni Pro ed Enterprise*
+_Disponibile per versioni Pro ed Enterprise_
 
 L’utilizzo di URL personalizzati (PURL) consente ora agli addetti al marketing di creare URL specifici per i contatti, per stimolare la personalizzazione, la misurabilità e l’incremento delle risposte nei programmi di marketing multi-touch sia per le campagne di posta diretta che per le campagne e-mail.
 
@@ -105,4 +99,3 @@ Comprendere il contributo marketing per le singole opportunità di reddito
 Approfondisci la velocità di avanzamento del programma, capendo quali programmi hanno acquisito i movimenti rapidi
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
