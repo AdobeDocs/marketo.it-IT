@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: Note sulla versione -Gennaio 2015 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - gennaio 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Le seguenti funzionalità sono incluse nella release di gennaio 2015. Per inform
 
 ## Aggiornamenti di Marketing Automation {#marketing-automation-updates}
 
-**Nuove foto di Rick DeCosta!**
-
-Rick è un cliente di Marketo da SmartBear e ha una [incredibile collezione di foto](https://www.flickr.com/photos/rickdecosta). Controllali!
-
-## Pagine di destinazione intuitive per dispositivi mobili {#mobile-friendly-landing-pages}
+**Pagine di destinazione intuitive per dispositivi mobili**
 
 Ora è possibile [creare visualizzazioni mobili per le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) dall&#39;editor della pagina di destinazione. Distribuite i vostri messaggi in modo efficace indipendentemente dal dispositivo e aumentate il coinvolgimento personalizzando i vostri contenuti per un facile consumo in movimento. Questa funzione verrà implementata gradualmente per tutta la settimana successiva al rilascio.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[- Video introduttivo sulla pagina di destinazione](https://youtu.be/aPQHlG2X6c0)
 
-**Nuove chiamate API ReST**
+**Nuove chiamate API Rest**
 
 Tre nuove chiamate per l&#39;API Lead &amp; Activity ReST:
 
@@ -57,9 +53,9 @@ I miglioramenti al modulo Account denominati miglioreranno i tassi di corrispond
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Opzioni tag RTP aggiornate
+**Opzioni tag RTP aggiornate**
 
-[Le opzioni ](https://docs.marketo.com/display/docs/rtp+tag+implementation) tag RTP in Impostazioni account sono state aggiornate per includere:
+Le opzioni dei tag RTP in Impostazioni account sono state aggiornate per includere:
 
 1. CDN e asincrono (tag consigliato)
 1. CDN e sincrono (alta velocità)
