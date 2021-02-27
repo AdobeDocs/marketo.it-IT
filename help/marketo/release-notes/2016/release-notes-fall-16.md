@@ -3,9 +3,9 @@ unique-page-id: 11384018
 description: Note sulla versione - Autunno '16 - Documenti Marketo - Documentazione prodotto
 title: Note sulla versione - Autunno 2016
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le seguenti funzionalità sono incluse nella versione autunnale del 16. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo. Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione.
 
-## [Predictive Content in Email](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## Predictive Content in Email {#predictive-content-in-email}
 
 La nostra applicazione Predictive Content offre una nuova esperienza utente per monitorare, gestire e consigliare i contenuti attraverso i nostri algoritmi di machine learning e predittivi nei canali Web ed e-mail.
 
@@ -29,13 +29,13 @@ Ora potete aggiungere contenuto predittivo all’e-mail. Quando l&#39;e-mail vie
 
 ![](assets/predictive.png)
 
-## [Conversioni offline Facebook](../../product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)  {#facebook-offline-conversions}
+## [Conversioni offline Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 Grazie all&#39;integrazione delle conversioni offline di Facebook, i dati di conversione in Marketo (per lead pubblicitari) vengono automaticamente inviati a Facebook in modo che il team pubblicitario possa ottimizzare meglio la spesa per gli annunci. In questo Rapporto Facebook Ad Manager, le conversioni offline sono evidenziate.
 
 ![](assets/facebook.png)
 
-## [ID universale](../../product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## [ID universale](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
 Un ID universale consente di accedere a più iscrizioni Marketo con un singolo login e di passare rapidamente da un’iscrizione all’altra. Potete utilizzare un unico profilo community per tutte le iscrizioni.
 
@@ -45,7 +45,7 @@ Un ID universale consente di accedere a più iscrizioni Marketo con un singolo l
 >
 >Per abilitare questa funzione, contattate il supporto di Marketo.
 
-## [Miglioramenti Del Marketing Basato Su Account Marketo](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## Miglioramenti del marketing basati su account di Marketo {#marketo-account-based-marketing-enhancements}
 
 Ora potete assegnare i team account a account denominati in ABM (Account Based Marketing), ad esempio il proprietario dell&#39;account, il rappresentante per lo sviluppo delle vendite, il rappresentante per lo sviluppo aziendale e il responsabile del successo del cliente. Potete inoltre creare elenchi di account specifici del proprietario dell&#39;account e inviare rapporti ABM settimanali personalizzati al team dell&#39;account.
 
@@ -55,11 +55,11 @@ Ora potete assegnare i team account a account denominati in ABM (Account Based M
 
 Questa release consente inoltre di gestire gli attributi di account e i punteggi di account denominati in ABM tramite l&#39;API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visitare il [sito Web dedicato agli sviluppatori di Marketo](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
-## [Miglioramenti della traccia di controllo](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## [Miglioramenti della traccia di controllo](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 L&#39;audit trail fornisce una cronologia completa delle modifiche apportate all&#39;interno dell&#39;iscrizione Marketo. Sono state aggiunte ulteriori funzionalità di tracciamento per i programmi e sono state presentate importanti modifiche per campagne intelligenti, elenchi smart e modifiche apportate a utenti e ruoli.
 
-## [Nuove autorizzazioni](../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [Nuove autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
 **Rendi e-mail operativa**
 
@@ -67,9 +67,9 @@ Sono finiti i giorni in cui era necessario preoccuparsi che gli utenti inviasser
 
 **Modifica limitazioni campagna**
 
-Perché impostare [le limitazioni della campagna](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) se non è possibile applicarle? Quando impostate Impostazioni limite campagna per limitare il numero di persone nel database per le quali è possibile eseguire il targeting con una singola campagna, ora potete limitare gli utenti che possono ignorare queste impostazioni durante la pianificazione di una campagna.
+Perché impostare [le limitazioni della campagna](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) se non è possibile applicarle? Quando impostate Impostazioni limite campagna per limitare il numero di persone nel database per le quali è possibile eseguire il targeting con una singola campagna, ora potete limitare gli utenti che possono ignorare queste impostazioni durante la pianificazione di una campagna.
 
-## [Audio per notifiche push mobili](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## [Audio per notifiche push mobili](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 Attribuite alla notifica push iOS maggiore ricchezza abilitando l&#39;audio. Questa nuova funzione consente di attivare un suono quando si visualizza la notifica push sul dispositivo mobile.
 
@@ -78,13 +78,10 @@ Attribuite alla notifica push iOS maggiore ricchezza abilitando l&#39;audio. Que
 >* I proprietari dei dispositivi possono scegliere di impedire la riproduzione dei suoni nelle impostazioni del dispositivo, e gli sviluppatori di app possono fornire ai proprietari dei dispositivi le opzioni all&#39;interno dell&#39;app per evitare la riproduzione dei suoni.
 >* I suoni vengono riprodotti automaticamente quando viene visualizzata una notifica push su un dispositivo Android.
 
->
-
-
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Informazioni sulle vendite compatibili con la crittografia Salesforce](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Informazioni sulle vendite compatibili con la crittografia Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
 Market Sales Insight è ora compatibile con la crittografia Salesforce Shield. Tutti i clienti di Sales Insight devono eseguire l&#39;aggiornamento a questo pacchetto gestito più recente (versione 1.4359.2), che è [disponibile in Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
@@ -99,4 +96,3 @@ Gestire variabili e moduli per le e-mail in formato v2.0 utilizzando l&#39;API R
 ## [Modifiche alla sincronizzazione di Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 L’integrazione Salesforce di Marketo si sta evolvendo per migliorare il modo in cui i campi Marketo vengono sincronizzati con Salesforce. Ora, invece di dover sincronizzare un ampio gruppo di campi che potrebbe non essere necessario, potete scegliere e scegliere quali campi includere. Per maggiori informazioni, consulta la documentazione: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
-
