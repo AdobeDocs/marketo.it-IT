@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14746177
-description: Registrazione di un annullamento dell'iscrizione - Documenti Marketo - Documentazione prodotto
-title: Ripristino di un'iscrizione annullata
+description: Ripristino dell’abbonamento a un servizio Annulla sottoscrizione - Documenti Marketo - Documentazione del prodotto
+title: Registrazione di un annullamento dell’abbonamento
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
 
-# Ripristino di un&#39;iscrizione {#resubscribing-an-unsubscribe}
+# Ripristino di un abbonamento {#resubscribing-an-unsubscribe}
 
-A volte la gente vuole tornare a ricevere e-mail. Questo è come rendere gli abbonamenti di nuovo inviabili.
+A volte le persone vogliono tornare a ricevere le e-mail. Ecco come rendere nuovamente gli abbonamenti più mailing.
 
 >[!NOTE]
 >
@@ -21,15 +21,15 @@ A volte la gente vuole tornare a ricevere e-mail. Questo è come rendere gli abb
 
 >[!CAUTION]
 >
->Prima di abbonarsi a un utente, è necessario essere in grado di dimostrare che l&#39;autorizzazione a registrarlo è documentata e conforme a tutte le leggi applicabili.
+>Prima di procedere al rinnovo dell&#39;abbonamento, è necessario essere in grado di dimostrare che l&#39;autorizzazione a procedere al loro rinnovo è documentata e conforme a tutte le leggi applicabili.
 
 >[!NOTE]
 >
->Se la sincronizzazione dell&#39;annullamento della sottoscrizione è attivata, devi rimuovere l&#39;annullamento della sottoscrizione da ToutApp e deselezionare l&#39;opzione di rifiuto in Salesforce affinché il record della persona non venga più sincronizzato.
+>Se la sincronizzazione per l’annullamento dell’abbonamento è attivata, devi rimuovere l’iscrizione da ToutApp e deselezionare l’opzione di rinuncia in Salesforce affinché il record della persona non si sincronizzi di nuovo.
 
-1. Andate all&#39;applicazione Web [](https://toutapp.com/login) e fate clic su **Persone**.
+1. Vai all&#39; [applicazione web](https://toutapp.com/login) e fai clic su **Persone**.
 
-1. Selezionate la persona per aprire la visualizzazione Dettagli persona.
+1. Selezionare la persona per aprire la visualizzazione dei dettagli della persona.
 
    ![](assets/two.png)
 
@@ -37,6 +37,10 @@ A volte la gente vuole tornare a ricevere e-mail. Questo è come rendere gli abb
 
    ![](assets/three.png)
 
-1. Selezionate il motivo per cui la persona viene riaperta per ricevere e-mail, quindi fate clic su **Rimuovi annullamento sottoscrizione**.
+1. Seleziona il motivo per cui l’utente ha acconsentito alla ricezione di e-mail, quindi fai clic su **Rimuovi annullamento sottoscrizione**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Se la sincronizzazione per l’annullamento della sottoscrizione è attivata, è necessario deselezionare la casella di rinuncia nel record anche in Salesforce oppure la sincronizzazione notturna riannulla l’iscrizione della persona in Sales Connect, in quanto rileverà la persona che viene rifiutata in Salesforce. Se uno dei record è disattivato/annullato, la sincronizzazione contrassegnerà il record collegato come tale.
