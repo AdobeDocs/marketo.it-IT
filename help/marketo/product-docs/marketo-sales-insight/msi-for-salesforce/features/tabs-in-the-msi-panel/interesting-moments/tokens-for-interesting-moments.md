@@ -1,33 +1,35 @@
 ---
 unique-page-id: 1146999
-description: Token per momenti interessanti - Documenti Marketo - Documentazione prodotto
+description: Token per i momenti interessanti - Documenti Marketo - Documentazione del prodotto
 title: Token per momenti interessanti
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
 
-# Token per momenti interessanti {#tokens-for-interesting-moments}
+# Token per i momenti interessanti {#tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->Scopri come utilizzare il passaggio [Interessante Flusso di Momenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Scopri come utilizzare il [passaggio Interessante del flusso di momenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Token disponibili {#available-tokens}
 
-Controlla [Tokens Overview](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che puoi inserire in un momento interessante.
+Consulta [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che puoi inserire in un momento interessante.
 
-## Token trigger {#trigger-tokens}
+## Token di attivazione {#trigger-tokens}
 
-In base all&#39;attivatore utilizzato in una campagna intelligente, sono disponibili altri Token trigger.
+In base al trigger utilizzato in una campagna intelligente, sono disponibili ulteriori token trigger.
 
-* `{{trigger.Trigger Name}}` che è sempre il trigger effettivo stesso. Ad esempio: Fate clic su Collega in E-mail.
-* `{{trigger.Name}}` è il nome della risorsa che ha attivato la campagna. Ad esempio: Fate clic su Collega nella pagina Web è l’URL stesso, l’oggetto per le attivazioni Salesforce, ecc.
-* Ulteriori attivatori sono disponibili in base ai vincoli elencati di seguito:
+* `{{trigger.Trigger Name}}` che è sempre il trigger effettivo stesso. Ad esempio: Fai clic su Collega in E-mail.
+* `{{trigger.Name}}` è il nome della risorsa che ha attivato la campagna. Ad esempio: Clic Link sulla pagina web è l’URL stesso, l’oggetto per i trigger Salesforce, ecc.
+* Sono disponibili altri trigger basati sui vincoli elencati di seguito.
+
+**Attivatori e-mail**
 
 <table> 
  <colgroup> 
@@ -41,6 +43,9 @@ In base all&#39;attivatore utilizzato in una campagna intelligente, sono disponi
   <col> 
   <col> 
   <col> 
+  <col>
+  <col>
+  <col>
   <col> 
  </colgroup> 
  <tbody> 
@@ -56,184 +61,752 @@ In base all&#39;attivatore utilizzato in una campagna intelligente, sono disponi
    <th><code>{{trigger.Client IP Address}}</code></th> 
    <th><code>{{trigger.Sent By}}</code></th> 
    <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Fate clic su Collega nell’e-mail</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>Clic su Collega in e-mail</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Punti e-mail rigidi</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>E-mail rimbalzata dura</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Soft punteggi e-mail</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>Soft rimbalzi e-mail</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>E-mail inviata</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>E-Mail Consegnata</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Apre E-Mail</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>Apre e-mail</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Inoltra a Amico e-mail ricevuto</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Inviato a Amico e-mail</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td>
   </tr> 
   <tr> 
-   <td>Annulla sottoscrizione da e-mail</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>Annulla l’abbonamento a un’e-mail</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Trigger Salesforce**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Fai clic su Collega nell'e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>Clic Link nell'e-mail di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>E-mail di vendita inviata</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>Invia e-mail di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Apre l'e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Saldi e-mail di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>E-mail di vendita ricevuta</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><br></td>
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Opportunità aggiornata</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Modifiche al proprietario</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Messaggio e-mail di vendita troncato</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>La persona viene convertita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Compilazione modulo</td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
+   <td>La persona viene cancellata dall'SFDC</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
-   <td><img src="assets/check.svg" alt="(tick)"></td> 
    <td><br></td> 
-   <td><p><br></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Visita pagina Web*</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tick)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Persona sincronizzata con SFDC</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Rimosso dall'opportunità</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Rimosso dalla campagna SFDC</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>L’attività viene registrata</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>L’attività è stata aggiornata</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Aggiunto a Opportunità</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Aggiunto alla campagna SFDC</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Lo stato viene modificato nella campagna SFDC</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Trigger di Sales Connect**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Clic Link nell'e-mail di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Invia e-mail di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Apre l'e-mail di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Saldi e-mail di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>E-mail di vendita ricevuta</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>È stato aggiunto alla campagna di vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr>
+   <td>Modifiche al proprietario</td> 
+   <td>È Rimosso Dalla Campagna Di Vendita</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Chiamata alle vendite ricevute</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Varie**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Riempie il modulo</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Pagina Web Visite</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Clic sul link sulla pagina Web</td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Se non ha un segno di spunta ![(tick)](assets/check.svg), nel momento interessante restituirà una stringa vuota (niente).
+>Se non ha un segno di spunta ![(tick)](assets/check.svg) restituirà una stringa vuota (niente) nel momento interessante.
 
-*L&#39;attivatore **Visita pagina Web** dispone di alcuni token aggiuntivi:
+*Il trigger **Visita pagina Web** dispone di alcuni token aggiuntivi:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -241,6 +814,6 @@ In base all&#39;attivatore utilizzato in una campagna intelligente, sono disponi
 
 >[!TIP]
 >
->Prova sempre i tuoi momenti interessanti per assicurarti che siano il modo in cui intendi.
+>Testa sempre i tuoi momenti interessanti per assicurarti che rendano il modo in cui intendi.
 >
->Inoltre, accertati che sia interessante per il Sales Person, non solo per te. ![(wink)](assets/wink.svg)>
+>Inoltre, assicurati che sia interessante per il Venditore, non solo per te. ![(rosa)](assets/wink.svg)>
