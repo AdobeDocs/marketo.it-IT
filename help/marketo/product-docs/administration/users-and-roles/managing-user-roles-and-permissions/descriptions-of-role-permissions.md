@@ -1,9 +1,9 @@
 ---
 unique-page-id: 6848747
-description: Descrizioni delle autorizzazioni dei ruoli - Documenti Marketo - Documentazione del prodotto
-title: Descrizioni delle autorizzazioni dei ruoli
+description: Descrizioni delle autorizzazioni del ruolo - Documenti Marketo - Documentazione del prodotto
+title: Descrizioni delle autorizzazioni del ruolo
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -11,62 +11,62 @@ ht-degree: 0%
 ---
 
 
-# Descrizioni delle autorizzazioni dei ruoli {#descriptions-of-role-permissions}
+# Descrizioni delle autorizzazioni del ruolo {#descriptions-of-role-permissions}
 
-Di seguito è riportato un elenco di tutte le autorizzazioni disponibili che potete assegnare ai vostri ruoli. Le autorizzazioni sono generalmente associate ad aree funzionali specifiche all&#39;interno di Marketo e possono essere utili per controllare le aree e le funzionalità a cui hanno accesso i diversi utenti.
+Di seguito è riportato un elenco di tutte le autorizzazioni disponibili che puoi assegnare ai tuoi ruoli. Le autorizzazioni sono generalmente associate ad aree funzionali specifiche all’interno di Marketo e possono essere utili per controllare le aree e le funzionalità a cui hanno accesso diversi utenti.
 
 Alcune informazioni aggiuntive sulle autorizzazioni:
 
-* L&#39;autorizzazione &quot;Accesso&quot; consente a un ruolo di visualizzare e a volte modificare tale parte dell&#39;applicazione.
-* Affinché un ruolo abbia accesso alle autorizzazioni secondarie (&quot;Create&quot;, &quot;Delete&quot;, ecc.), tale ruolo deve disporre dell&#39;autorizzazione &quot;Access&quot; per quella parte dell&#39;applicazione. Ad esempio, se desiderate dare a un utente l&#39;autorizzazione per la modifica di campagne, deve disporre dell&#39;autorizzazione globale per accedere alle attività di marketing.
-* Potete visualizzare azioni o risorse che non disponete dell’autorizzazione a utilizzare. Tuttavia, se tentate di accedervi, compare un messaggio di avviso relativo all’accesso limitato.
+* L&#39;autorizzazione &quot;Accesso&quot; fornisce un ruolo di autorizzazione per visualizzare e talvolta modificare tale parte dell&#39;applicazione.
+* Affinché un ruolo abbia accesso alle sottoautorizzazioni (&quot;Crea&quot;, &quot;Elimina&quot;, ecc.), tale ruolo deve disporre dell’autorizzazione &quot;Accesso&quot; per quella parte dell’applicazione. Ad esempio, se desideri concedere a un utente l’autorizzazione Modifica campagna, deve disporre dell’autorizzazione complessiva per accedere alle attività di marketing.
+* Puoi visualizzare azioni o risorse che non disponi dell’autorizzazione a utilizzare. Tuttavia, se tenti di accedervi, visualizzerai un messaggio di avviso sull’accesso limitato.
 
 ## Autorizzazioni disponibili {#available-permissions}
 
-Quando [create o modificate un ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), potete selezionare le seguenti autorizzazioni per consentire tale ruolo selezionando le caselle appropriate.
+Quando [crei o modifichi un ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puoi selezionare le seguenti autorizzazioni per consentire tale ruolo selezionando le caselle appropriate.
 
 ![](assets/createnewrole.png)
 
-## Accedi all&#39;amministratore {#access-admin}
+## Amministratore di accesso {#access-admin}
 
-Visualizza e apporta modifiche alle impostazioni nella sezione Account personale dell&#39;amministratore.
+Visualizza e apporta modifiche alle impostazioni nella sezione Account personale di Admin.
 
-* Accesso alla traccia di audit - Consente agli utenti di accedere sia alla traccia di audit delle risorse che alla traccia di audit dell&#39;amministratore
-* Canali di accesso: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
-* Limite di comunicazione di accesso: consente agli utenti di abilitare un limite di comunicazione in Amministratore
-* Accesso a CRM: consente agli utenti di accedere a CRM, ad esempio Salesforce o Microsoft Dynamics, in Amministratore
+* Accesso a Audit Trail - Consente agli utenti di accedere sia a Asset Audit Trail che ad Admin Audit Trail
+* Canali di accesso : consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
+* Limite di comunicazione di accesso : consente agli utenti di abilitare un limite di comunicazione in Amministratore
+* Accesso a CRM - Consente agli utenti di accedere al CRM, ad esempio Salesforce o Microsoft Dynamics, in Admin
 * Accesso [Data.com](https://Data.com) - Consente agli utenti di accedere all&#39;azione di flusso Data.com
-* Accedi all’amministratore delle e-mail: offre agli utenti l’amministratore delle e-mail, per modificare le impostazioni predefinite, ad esempio i domini di annullamento della sottoscrizione e del marchio
-* Accesso ai partner dell&#39;evento - Consente agli utenti di accedere a LaunchPoint in Admin
-* Accesso a Gestione dei campi - Consente agli utenti di accedere a Gestione dei campi in Amministratore
-* Accesso al caricamento dei file - Consente agli utenti di caricare immagini e file in Design Studio
-* Accesso alle pagine di destinazione - Consente agli utenti di accedere alle pagine di destinazione in Amministratore
-* Percorso di accesso: consente agli utenti di accedere a Posizione in Amministratore per impostare la lingua, le impostazioni internazionali, il fuso orario e la valuta predefinite
-* Cronologia di accesso: consente agli utenti di accedere alla cronologia di accesso dell&#39;utente nella traccia di controllo
-* Impostazioni di accesso: consente agli utenti di accedere alle impostazioni di accesso in Amministratore per le impostazioni Protezione, Limitazioni IP e Rapporto elenco avanzato
-* Accesso alle attività personalizzate di Marketo - Consente agli utenti l&#39;accesso alle attività personalizzate di Marketo in Amministratore
-* Accesso all&#39;oggetto personalizzato Marketo - Consente agli utenti di accedere agli oggetti personalizzati Marketo in Amministratore
-* Accesso Munchkin - Gli utenti GIves hanno accesso a Munchkin in Amministratore, per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
-* Access Revenue Cycle Analytics - Fornisce agli utenti l&#39;accesso a Revenue Cycle Analytics in Admin, per impostare Sync Summary and Attribution
-* Ruoli di accesso: consente agli utenti di gestire e modificare i ruoli, ma non agli utenti
-* Accesso a Sales Insight: consente agli utenti di gestire Sales Insight in Admin, per impostare lo stato, la configurazione API, il punteggio della persona e altre impostazioni
-* Accesso single sign-on: consente agli utenti di gestire Single Sign-On in Amministratore, per abilitare SAML e utilizzare le impostazioni SAML e gli URL di pagina di reindirizzamento
-* Accesso a Smart Campaign: consente agli utenti di accedere a Smart Campaign in Amministratore, per limitare i limiti alle persone qualificate
-* Accesso alle API SOAP - Consentono agli utenti di gestire le API SOAP in Servizi Web in Amministratore
-* Tag di accesso - Consente agli utenti di accedere a tutti i tag personalizzati eccetto il tag Canale
-* Accesso al petto del tesoro - Consente agli utenti di accedere alle funzioni sperimentali nel petto del tesoro in Amministratore
-* Accesso agli utenti - Consente agli utenti di modificare e gestire gli utenti (ma non i ruoli) in Amministratore
-* Accesso ai webhooks - Consente agli utenti di accedere ai webhooks in Amministratore, per impostare i dettagli e le mappature delle risposte
-* Accesso a aree di lavoro e partizioni: consente agli utenti di creare, modificare ed eliminare aree di lavoro e partizioni in Amministratore
+* Accedi all’amministratore e-mail : consente agli utenti di modificare le impostazioni predefinite, ad esempio i domini di annullamento della sottoscrizione e di branding
+* Accedere ai partner evento : consente agli utenti di accedere a LaunchPoint in Admin
+* Accesso alla gestione dei campi : consente agli utenti di accedere alla gestione dei campi in Amministratore
+* Accesso al caricamento dei file : consente agli utenti di caricare immagini e file in Design Studio.
+* Accesso alle pagine di destinazione : consente agli utenti di accedere alle pagine di destinazione in Admin
+* Percorso di accesso : consente agli utenti di accedere alla posizione in Amministratore per impostare la lingua, le impostazioni internazionali, il fuso orario e la valuta predefiniti
+* Cronologia accesso - Consente agli utenti di accedere alla cronologia degli accessi utente in Audit Trail
+* Impostazioni di accesso : consente agli utenti di accedere alle impostazioni di accesso in Amministratore per le impostazioni di sicurezza, restrizioni IP e rapporti con elenchi avanzati
+* Accedere all’attività personalizzata di Marketo : consente agli utenti di accedere alle attività personalizzate di Marketo in Admin
+* Accesso a oggetti personalizzati Marketo : consente agli utenti di accedere a oggetti personalizzati Marketo in Admin
+* Access Munchkin - Gli utenti GI possono accedere a Munchkin in Admin per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
+* Accedi ad Analisi del ciclo dei ricavi : consente agli utenti di accedere ad Analisi del ciclo dei ricavi in Amministratore, per impostare Sintetico e Attribuzione
+* Accesso ai ruoli : consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
+* Accedi a Insight vendite : consente agli utenti di gestire Insight vendite in Admin, per impostare lo stato, la configurazione API, il punteggio persona e altre impostazioni
+* Accesso single sign-on : consente agli utenti di gestire il Single Sign-on in Admin, per abilitare SAML e lavorare con le impostazioni SAML e gli URL delle pagine di reindirizzamento
+* Accesso a Smart Campaign : consente agli utenti di accedere a Smart Campaign in Admin, per limitare i limiti alle persone qualificate
+* Accesso all’API SOAP : consente agli utenti di gestire le API SOAP nei servizi Web in Admin
+* Accesso ai tag : consente agli utenti di accedere a tutti i tag personalizzati, ad eccezione del tag Canale
+* Accedere al torace del tesoro - Consente agli utenti di accedere alle funzioni sperimentali nel torace del tesoro in Amministratore
+* Accesso agli utenti : consente agli utenti di modificare e gestire gli utenti (ma non i ruoli) in Admin
+* Accedere ai webhook - Consente agli utenti di accedere ai webhook in Amministratore per impostare dettagli e mappature di risposta
+* Accesso a aree di lavoro e partizioni : consente agli utenti di creare, modificare ed eliminare aree di lavoro e partizioni in Admin
 
-## API Access {#access-api}
+## API di accesso {#access-api}
 
-Fornisce agli utenti l&#39;accesso **Solo API** **Ruolo** alle singole API elencate di seguito.
+Consente agli utenti con l&#39;accesso **Solo API** **Ruolo** alle singole API elencate di seguito.
 
-* Approva risorse
+* Approvare le risorse
 * Esegui campagna
-* Attività in sola lettura
-* Metadati attività di sola lettura
+* Attività di sola lettura
+* Metadati delle attività di sola lettura
 * Risorse di sola lettura
 * Campagna di sola lettura
 * Società di sola lettura
@@ -75,78 +75,78 @@ Fornisce agli utenti l&#39;accesso **Solo API** **Ruolo** alle singole API elenc
 * Account con nome di sola lettura
 * Opportunità di sola lettura
 * Persona di vendita di sola lettura
-* Attività di lettura/scrittura
-* Metadati attività di lettura/scrittura
-* Lettura/scrittura delle risorse
-* Campagna di lettura/scrittura
-* Società di lettura/scrittura
-* Oggetto personalizzato Lettura/scrittura
-* Persona di lettura/scrittura
-* Account con nome in lettura/scrittura
-* Opportunità di lettura/scrittura
+* Attività di lettura-scrittura
+* Metadati attività di lettura-scrittura
+* Risorse di lettura-scrittura
+* Campagna di lettura e scrittura
+* Società di lettura-scrittura
+* Oggetto personalizzato di lettura-scrittura
+* Persona di lettura-scrittura
+* Account con nome in lettura e scrittura
+* Opportunità di lettura-scrittura
 * Persona di vendita in lettura/scrittura
 
-Accesso ad Analytics
+## Accedere ad Analytics {#access-analytics}
 
-Consente agli utenti di accedere alle schede Analisi, Approfondimenti e-mail, ai rapporti e ai tre elementi sottostanti, a meno che non siano deselezionati.
+Consente agli utenti di accedere alle schede Analytics, a Approfondimenti e-mail, ai rapporti e ai tre elementi seguenti, a meno che non siano deselezionati.
 
-* Esplora entrate di Access - L&#39;annullamento della verifica rimuove l&#39;accesso dell&#39;utente a Esplora entrate
-* Elimina rapporto: l&#39;annullamento della verifica rimuove la possibilità dell&#39;utente di eliminare i rapporti
-* Esporta dati di Analytics - L&#39;annullamento della verifica rimuove la capacità dell&#39;utente di esportare i dati di Analytics
+* Access Revenue Explorer - Deselezionare questa opzione per rimuovere l&#39;accesso dell&#39;utente a Revenue Explorer
+* Elimina rapporto : se si deseleziona, l’utente non potrà più eliminare i rapporti
+* Esportare i dati di Analytics - Deselezionare l’opzione per rimuovere la possibilità dell’utente di esportare i dati di Analytics
 
-## Accedi ad Presentations calendario {#access-calendar-presentations}
+## Accedere alle presentazioni del calendario {#access-calendar-presentations}
 
-Consente agli utenti di accedere alle presentazioni Calendario ??- consente di visualizzare il pulsante Presentations nella parte inferiore?
+Consente agli utenti di accedere alle presentazioni Calendario - consente di visualizzare il pulsante Presentazioni in basso.
 
-* Modifica Presentations calendario - Consente agli utenti di modificare le presentazioni nel calendario
+* Modifica presentazioni calendario - Consente agli utenti di modificare le presentazioni nel calendario
 
-## Access Design Studio {#access-design-studio}
+## Accesso a Design Studio {#access-design-studio}
 
-Consente agli utenti di accedere alla scheda Design Studio e alla visualizzazione della struttura, ma non ai dettagli.
+Consente agli utenti di accedere alla scheda e alla visualizzazione della struttura di Design Studio, ma non ai dettagli.
 
-* E-mail di accesso
-   * Modifica e-mail: consente agli utenti di modificare, creare e duplicare e-mail
-      * Rendi e-mail operativa: consente agli utenti di rendere operativa un&#39;e-mail. Vedere: [Rendere operativo un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+* Accesso a e-mail
+   * Modifica e-mail : consente agli utenti di modificare, creare e duplicare le e-mail
+      * Rendi l’e-mail operativa : consente agli utenti di rendere operativa un’e-mail. Vedi: [Rendere un&#39;e-mail operativa](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Approva e-mail: consente agli utenti di approvare le e-mail.
-      * Elimina e-mail: consente agli utenti di eliminare i messaggi e-mail.
-      * Imposta dominio con brand: consente agli utenti di lavorare con i domini di branding. Vedere: [Aggiungi un dominio di branding aggiuntivo](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Approva e-mail : consente agli utenti di approvare le e-mail.
+      * Elimina e-mail : consente agli utenti di eliminare le e-mail.
+      * Imposta dominio con marchio : consente agli utenti di lavorare con i domini di branding. Vedi: [Aggiungi un dominio di branding aggiuntivo](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Modello e-mail di accesso
 
    * Approva modello e-mail
    * Elimina modello e-mail
-   * Modifica modello e-mail - Modifica, creazione e duplicazione di modelli e-mail
+   * Modificare un modello e-mail: modificare, creare e duplicare modelli e-mail
 
 * Modulo di accesso
 
    * Elimina modulo
    * Modifica modulo - Modifica, creazione e duplicazione di moduli
 
-* Immagine di accesso
+* Accedere all&#39;immagine
 
    * Elimina immagine
    * Carica immagine
 
-* Pagina di destinazione di accesso
+* Accedi alla pagina di destinazione
 
    * Approva pagina di destinazione
    * Elimina pagina di destinazione
-   * Modifica pagina di destinazione - Modifica, creazione e duplicazione di pagine di destinazione
+   * Modifica pagina di destinazione: modificare, creare e duplicare pagine di destinazione
 
-* Modello pagina di destinazione di accesso
+* Access Landing Page Template
 
-   * Approva modello pagina di destinazione
+   * Approva modello di pagina di destinazione
    * Elimina modello pagina di destinazione
-   * Modifica modello pagina di destinazione - Modifica, creazione e duplicazione di modelli di pagina di destinazione
+   * Modificare un modello per pagina di destinazione : modificare, creare e clonare modelli di pagina di destinazione
 
-* Snippet di accesso
+* Frammento di accesso
 
    * Approva snippet
-   * Elimina snippet
-   * Modifica snippet
+   * Elimina frammento
+   * Modifica frammento
 
-* Accesso all&#39;app Social
+* Accesso all&#39;app social
 
    * Approva app social
    * Elimina app social
@@ -156,65 +156,65 @@ Consente agli utenti di accedere alla scheda Design Studio e alla visualizzazion
 
 Visualizzare il database, nonché visualizzare e modificare gli elenchi smart/statici.
 
-* Segmentazione di accesso
+* Segmentazione dell’accesso
 
    * Approva segmentazione
    * Elimina segmentazione
    * Modifica segmentazione
 
-* Importazione elenco avanzata
+* Importazione avanzata elenco
 * Elimina persona
 * Elimina elenco
-* Modifica persona - Impedisce la modifica manuale e l&#39;esecuzione di singoli passaggi di flusso; è ancora possibile modificare le persone eseguendo campagne contro di esse
+* Modifica persona : evita la modifica manuale ed esegui passaggi a flusso singolo; è comunque possibile modificare le persone mediante campagne
 * Esporta persona - Esporta fogli di calcolo con gli elenchi del database
 * Importa oggetto personalizzato
 * Importa elenco
 * Unisci persone
-* Esecuzione di azioni di flusso singolo - Consente agli utenti di eseguire il passaggio di flusso **Modifica valore dati** sulle persone provenienti dal database
+* Esegui azioni a flusso singolo : consente agli utenti di eseguire il passaggio di flusso **Modifica valore dati** sulle persone provenienti dal database
 
-* Visualizza dati opportunità - Nasconde le informazioni sull&#39;opportunità nella pagina dei dettagli della persona
+* Visualizza dati opportunità : nasconde le informazioni sulle opportunità nella pagina dei dettagli della persona
 
-## Accesso alle attività di marketing {#access-marketing-activities}
+## Accedere alle attività di marketing {#access-marketing-activities}
 
-Visualizzare la scheda Attività marketing, le campagne e le cartelle delle campagne.
+Visualizza la scheda Marketing Activities (Attività di marketing), le campagne e le cartelle delle campagne.
 
-* Accesso a SMS
+* Accedere al messaggio SMS
 
    * Approva messaggio SMS
    * Elimina messaggio SMS
    * Modifica messaggio SMS
 
-* Notifica push di accesso
+* Accesso alle notifiche push
 
    * Approva notifica push
    * Elimina notifica push
    * Modifica notifica push
 
-* Premi di accesso
+* Accessi
 * Attiva campagna di attivazione
 * Approva programma e-mail
 * Clona risorsa di marketing
-* Elimina risorsa marketing
-* Modifica limitazioni campagna
+* Elimina risorsa di marketing
+* Modificare le restrizioni delle campagne
 * Modifica risorsa di marketing
 * Programma di importazione
-* Importa elenco
+* Importazione elenco
 * Pianificazione campagna batch
 
 Accesso SEO
 
-* Amministrazione SEO
+* Amministrare SEO
 * SEO standard
 
 ## Targeting e personalizzazione {#targeting-and-personalization}
 
-* Amministra personalizzazione Web
-* CRE Campaign Editor
-* Avvio campagna CRE
-* Editor campagne Web
-* Avvio campagna Web
+* Amministrare la personalizzazione web
+* Editor CRE Campaign
+* Avvio di CRE Campaign
+* Editor web Campaign
+* Avvio campagna web
 
-Amministrazione area di lavoro
+Amministrazione di Workspace
 
-* Accesso dell’amministratore a un’area di lavoro specifica (solo se l’area di lavoro è abilitata)
+* Accesso dell’amministratore per un’area di lavoro specifica (solo se l’opzione Aree di lavoro è abilitata)
 * Spostare le risorse tra le aree di lavoro (solo se le aree di lavoro sono abilitate)
