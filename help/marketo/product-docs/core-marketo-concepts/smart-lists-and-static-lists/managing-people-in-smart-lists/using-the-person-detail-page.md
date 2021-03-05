@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2953415
-description: Utilizzo della pagina Dettagli persona - Marketo Docs - Documentazione prodotto
+description: Utilizzo della pagina dei dettagli della persona - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo della pagina Dettagli persona
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -13,76 +13,80 @@ ht-degree: 0%
 
 # Utilizzo della pagina dei dettagli della persona {#using-the-person-detail-page}
 
-La pagina dei dettagli della persona contiene tutte le informazioni che Marketo conosce su una persona. Puoi modificare i dati direttamente da questa pagina.
+La pagina dei dettagli personali contiene tutte le informazioni che Marketo conosce su una persona. Puoi modificare i dati direttamente da questa pagina.
 
-## Ottenere la pagina dei dettagli sulla persona {#getting-to-person-detail-page}
+## Passaggio alla pagina dei dettagli della persona {#getting-to-person-detail-page}
 
 Ci sono molti modi per aprire persone specifiche. Alcuni esempi sono:
 
-* Dal **Database**, è possibile effettuare ricerche nella Ricerca rapida
-* Qualsiasi elenco **intelligente** o elenco
-* **** Appartenenza a un programma
-* **Visualizzare** i membri di una campagna in una campagna intelligente
-* Alcuni **report**
+* Dal **Database**, è possibile cercare nella Ricerca rapida
+* Qualsiasi elenco **smart** o
+* **** Iscrizione a un programma
+* **Visualizzare l’** iscrizione a una campagna avanzata
+* Alcuni **rapporti**
 
    <br> 
 
-1. Fate doppio clic su una persona o fate clic sull’ID sulla sinistra.
+1. Fai doppio clic su una persona o fai clic sull’ID a sinistra.
 
    ![](assets/one-1.png)
 
-1. Viene aperta la schermata dei dettagli della persona.
+1. Verrà visualizzata la schermata di dettaglio della persona.
 
    ![](assets/two-5.png)
 
-## Organizzazione delle pagine - Salesforce {#page-organization-salesforce}
+## Organizzazione pagina - Salesforce {#page-organization-salesforce}
 
 Le informazioni sulla persona sono suddivise in categorie nelle seguenti schede:
 
-| Tab | Descrizione |
+| Scheda | Descrizione |
 |---|---|
-| Informazioni | Informazioni di contatto e campi personalizzati su una persona. |
-| Informazioni sulla società | Informazioni e indirizzo della società della persona. |
-| Informazioni opportunità | Informazioni sull&#39;opportunità sincronizzate da Salesforce. |
+| Info | Contatta informazioni e campi personalizzati su una persona. |
+| Informazioni aziendali | Informazioni e indirizzo aziendali della persona. |
+| Informazioni opportunità | Informazioni sulle opportunità sincronizzate da Salesforce. |
 | Campo lead SFDC | Campi Salesforce incorporati. |
 | Campo personalizzato SFDC | Campi Salesforce personalizzati. |
 | Registro attività | Tutte le attività relative alla persona. |
 
 ## Organizzazione delle pagine - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Tab | Descrizione |
+| Scheda | Descrizione |
 |---|---|
-| Informazioni | Informazioni di contatto e campi personalizzati su una persona. |
-| Informazioni sulla società | Informazioni e indirizzo della società della persona. |
+| Info | Contatta informazioni e campi personalizzati su una persona. |
+| Informazioni aziendali | Informazioni e indirizzo aziendali della persona. |
 | Informazioni opportunità | Informazioni sulle opportunità sincronizzate da Microsoft. |
 | Campi personalizzati Microsoft | Campi Microsoft personalizzati. |
 | Campo lead Microsoft | Campi Microsoft incorporati. |
 | Registro attività | Tutte le attività relative alla persona. |
 
+>[!NOTE]
+>
+>Puoi anche vedere Informazioni opportunità [inserite tramite API](http://developers.marketo.com/rest-api/lead-database/opportunities/) per le istanze che non sono sincronizzate con un CRM.
+
 ## Modifica di un campo {#editing-a-field}
 
-Molti campi sono modificabili. Per aggiornare le informazioni di una persona, digita un nuovo valore e fai clic all&#39;esterno del campo per salvare.
+Molti campi sono modificabili. Per aggiornare le informazioni di una persona, digitare un nuovo valore e fare clic all&#39;esterno del campo per salvare.
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Campi predefiniti di marketing prima della sincronizzazione CRM {#marketo-default-fields-prior-to-crm-sync}
+## Campi predefiniti di Marketo prima della sincronizzazione CRM {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | Indirizzo | Entrate annuali | IP anonimo | Indirizzo di fatturazione | Città di fatturazione |
-| Paese di fatturazione | Codice postale fatturazione | Stato fatturazione | Città | Nome società |
-| Paese | Data di creazione | Data di nascita | Dipartimento | Non chiamare |
-| Non chiamare causa | Non chiamare il motivo | Indirizzo e-mail | E-mail non valida | Causa posta non valida |
-| ID società esterna | ID persona vendita esterna | Numero fax | Nome | Nome completo |
-| Industria | Città di provenienza | Società destinataria | Paese di provenienza | Area metropolitana |
-| Codice area telefono | Codice postale | Regione dello stato di provenienza | È anonimo | È cliente |
+| Paese di fatturazione | Codice postale di fatturazione | Stato di fatturazione | Città | Nome dell&#39;azienda |
+| Paese | Creato in | Data di nascita | Dipartimento | Non chiamare |
+| Non chiamare causa | Non chiamare il motivo | Indirizzo e-mail | E-mail non valida | Causa non valida dell&#39;e-mail |
+| ID società esterna | ID persona vendita esterna | Numero di fax | Nome | Nome completo |
+| Industria | Città di riferimento | Società in questione | Paese interessato | Area metropolitana |
+| Codice di area del telefono | Codice postale trasferito | Regione dello Stato di provenienza | È Anonimo | È cliente |
 | È un partner | Titolo processo | Cognome | Valutazione | Punteggio |
 | Origine persona | Stato | Telefono principale | Nome visualizzato Facebook di Marketo Social | ID Facebook di Marketo Social |
-| URL foto Facebook di Marketo Social | URL profilo Facebook di Marketo Social | Marketo Social Facebook Reach | Iscrizioni Facebook di riferimento Marketo Social | Visite Facebook di riferimento di Marketo Social |
-| Marketo Social Genere | Ultima iscrizione a Marketo Social | Ultima visita di riferimento di Marketo Social | Nome visualizzato di Marketo Social LinkedIn | ID LinkedIn di Marketing Social |
-| URL di collegamento foto di Marketo Social | URL profilo di collegamento social marketing | Marketo Social LinkedIn Reach | Iscrizioni con riferimento a Marketo Social LinkedIn | Visite con riferimento a Marketo Social LinkedIn |
-| ID sindacazione social marketing | Totale iscrizioni a Marketo Social | Totale visite riferite a Marketo Social | Nome visualizzato Twitter di Marketo Social | ID Twitter di Marketo Social |
-| URL foto Twitter di Marketo Social | URL profilo Twitter di Marketo Social | Marketo Social Twitter Reach | Iscrizioni di riferimento a Twitter per Marketo Social | Visite Twitter con riferimento a Marketo Social |
+| URL foto Facebook di Marketo Social | URL profilo Facebook di Marketo Social | Marketo Social Facebook Reach | Iscrizioni di riferimento di Marketo Social Facebook | Visite Facebook di riferimento Marketo Social |
+| Sesso sociale Marketo | Ultima registrazione di riferimento di Marketo Social | Ultima visita di riferimento di Marketo Social | Nome visualizzato di Marketo Social LinkedIn | ID di LinkedIn di Marketo Social |
+| URL foto di Marketo Social LinkedIn | URL profilo di Marketo Social LinkedIn | reach di Marketo Social LinkedIn | Iscrizioni di riferimento di Marketo Social LinkedIn | Visite di riferimento di Marketo Social LinkedIn |
+| ID sindacazione social di Marketo | Totale iscrizioni di riferimento Marketo Social | Totale visite di riferimento Marketo Social | Nome visualizzato Twitter di Marketo Social | ID Twitter di Marketo Social |
+| URL foto di Marketo Social Twitter | URL profilo Twitter di Marketo Social | Marketo Social Twitter Reach | Iscrizioni di riferimento Twitter di Marketo Social | Visite di riferimento di Marketo Social su Twitter |
 | Nome centrale | Numero di telefono cellulare | Num Dipendenti | Numero di telefono | Codice postale |
 | Priorità | Punteggio relativo | Ruolo | Saluto | Codice SIC |
 | Sito | Stato | Annulla sottoscrizione | Motivo annullamento sottoscrizione | Aggiornato a |
@@ -92,14 +96,14 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 >
 >Alcuni campi sono _non_ modificabili:
 >
->* Informazioni sulla società
->* Opportunità per i contatti con la DSC
->* Alcuni campi specifici di Marketing, come Data di creazione e Tipo origine originale.
 >* Registro attività
+>* Informazioni aziendali
+>* Opportunità per i contatti della DSC
+>* Alcuni campi specifici di Marketo, ad esempio Data creazione e Tipo origine originale.
 
 >
 >
-Ulteriori informazioni su [Campi gestiti di sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+Ulteriori informazioni su [Campi gestiti dal sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
