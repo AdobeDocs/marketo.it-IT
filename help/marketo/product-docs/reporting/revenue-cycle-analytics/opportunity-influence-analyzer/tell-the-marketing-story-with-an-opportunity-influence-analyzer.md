@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360237
-description: Raccontate la storia di marketing con un analizzatore di influenza opportunità - Marketo Docs - Documentazione del prodotto
-title: Comunicare la storia di marketing con un analizzatore di influenza opportunità
+description: Comunica la storia di marketing con un’analisi dell’influenza opportunità - Documenti Marketo - Documentazione del prodotto
+title: Comunicare la storia di marketing con Opportunity Influence Analyzer
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -11,54 +11,54 @@ ht-degree: 0%
 ---
 
 
-# Comunicate la storia di marketing con un analizzatore di influenza opportunità {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Comunica la storia di marketing con un Analizzatore di influenza opportunità {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-Utilizzate un analizzatore di influenza opportunità per illustrare il ruolo del marketing in opportunità importanti. Mostra come il marketing ha influenzato un&#39;opportunità, dal primo tocco alla creazione di opportunità e alla vittoria, e oltre.
+Utilizza un’analisi dell’influenza opportunità per illustrare il ruolo del marketing in opportunità importanti. Mostra come il marketing ha influenzato un&#39;opportunità, dal primo contatto alla creazione di opportunità, alla vittoria e oltre.
 
 >[!PREREQUISITES]
 >
 >[Creare un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Andate su **Analytics** e selezionate **Opportunity Influence Analyzer**.
+1. Vai a **Analytics** e seleziona **Analisi di influenza opportunità**.
 
    ![](assets/analytics-opportunityhand.png)
 
-   L&#39;analizzatore dell&#39;influenza opportunità è una rappresentazione visiva delle interazioni e dei successi del programma e dell&#39;evento coinvolti in tale opportunità. Esploriamo il grafico:
+   L&#39;Analisi di influenza opportunità è una rappresentazione visiva delle interazioni e dei successi dei programmi e degli eventi coinvolti in tale opportunità. Esploriamo il grafico:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **I** dotsini arancioni rappresentano  [interessanti ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) momenti di opportunità (e-mail aperte, visite a stand di fiere, download di whitepaper, ecc.). Punti più grandi indicano più interazioni.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **I** punti arancioni rappresentano momenti interessanti nell’opportunità (e-mail aperte, visite a stand di commercio, download di whitepaper, ecc.). I punti più grandi indicano più interazioni.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Icone** del legante indicano i successi del programma.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Icona** legante indica i successi del programma.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Icone** del calendario indicano i successi degli eventi.
+   * ![- ](assets/image2014-10-3-13-3a44-3a40.png) **Icona** Calendario per indicare i successi dell&#39;evento.
 
-   * **Periodo** opportunità. L&#39;area verde rappresenta l&#39;opportunità stessa, dalla creazione di opportunità alla chiusura di opportunità (vinta o persa).
+   * **Periodo di opportunità**. L&#39;area verde rappresenta l&#39;opportunità stessa, dalla creazione di opportunità alla chiusura di opportunità (vinta o persa).
 
-   * **Ciclo** di vita delle opportunità. Le aree grigie prima e dopo il periodo di opportunità verde mostrano le interazioni che hanno portato all’opportunità e che l’hanno seguita.
+   * **Ciclo** di vita opportunità. Le aree grigie prima e dopo il periodo di opportunità verde mostrano le interazioni che hanno portato e seguito l’opportunità.
 
    Il pannello **Impostazioni** elenca le persone dell&#39;account:
 
-   * Il numero **tra parentesi** corrisponde al numero di interazioni con tale contatto.
+   * Il numero **tra parentesi** indica il numero di interazioni con tale contatto.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)La  **stella** gialla indica il contatto principale.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Il contatto principale è indicato  **dal** giallo.
 
 
-1. Passa il cursore del mouse sul nome per vedere il titolo del lavoro della persona e la fonte del suo coinvolgimento con l&#39;opportunità.
+1. Passa il puntatore del mouse sopra un nome per vedere il titolo del lavoro della persona e la fonte del suo coinvolgimento con l&#39;opportunità.
 
    ![](assets/image2015-6-23-14-3a43-3a1.png)
 
-1. Selezionate la casella di controllo per includere le interazioni della persona nel grafico.
+1. Seleziona la casella di controllo per includere le interazioni della persona nel grafico.
 
    ![](assets/image2015-6-23-14-3a43-3a35.png)
 
-   Il grafico si regola automaticamente per visualizzare le relative interazioni nell&#39;opportunità. In questo esempio, vediamo immediatamente che la CEO di MegaCorp Sarah Geller è stata profondamente coinvolta nell&#39;opportunità, anche se non aveva alcun ruolo assegnato nel CRM per l&#39;opportunità.
+   Il grafico si regola automaticamente per mostrare le interazioni nell’opportunità. In questo esempio, vediamo immediatamente che l&#39;amministratore delegato di MegaCorp Sarah Geller era profondamente coinvolta nell&#39;opportunità, anche se non aveva alcun ruolo assegnato nel CRM per l&#39;opportunità.
 
-1. Fate clic su un punto arancione per visualizzare i dettagli dell&#39;interazione.
+1. Fai clic su un punto arancione per visualizzare i dettagli dell’interazione.
 
    ![](assets/image2015-6-23-14-3a44-3a15.png)
 
-   Nel nostro esempio, impariamo che l&#39;amministratore delegato Sarah Geller ha visitato il sito più volte e ha persino effettuato l&#39;iscrizione al blog. Ciò suggerisce che l&#39;interesse di MegaCorp per l&#39;opportunità è stato determinato, in gran parte, da programmi e risorse di Marketing.
+   Nel nostro esempio, impariamo che l&#39;amministratore delegato Sarah Geller ha visitato il sito web più volte e si è anche abbonata al blog. Questo suggerisce che l&#39;interesse di MegaCorp per l&#39;opportunità è stato guidato, in gran parte, da programmi e risorse di marketing.
 
-   Fai clic su altri punti arancioni lungo la timeline per completare la storia degli eventi, dei programmi e dei momenti interessanti che hanno contribuito a creare e chiudere l&#39;opportunità.
+   Fai clic su altri punti arancioni lungo la timeline per riempire la storia degli eventi, dei programmi e dei momenti interessanti che hanno contribuito a creare e chiudere l&#39;opportunità.
 
    >[!MORELIKETHIS]
    >
