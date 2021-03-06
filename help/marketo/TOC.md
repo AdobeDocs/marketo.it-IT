@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 0%
          + [Impostazione dei rapporti ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
          + [Rapporto vendite ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
          + [Approfondimenti elenco account](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [Dimensione account denominata in RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [Dimension di account denominato in RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
          + [Registri di account denominati](product-docs/account-based-marketing/measure/named-account-insights.md)
          + [Utilizzo di Personas](product-docs/account-based-marketing/using-personas.md)
    + Profilo account {#account-profiling}
@@ -90,7 +90,7 @@ ht-degree: 0%
       + SEO {#seo}
          + Informazioni sul SEO {#understanding-seo}
             + [Informazioni sull’ottimizzazione per i motori di ricerca](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Informazioni sul dashboard SEO (Search Engine Optimization): Consigli SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+            + [Informazioni sul dashboard SEO (Search Engine Optimization): SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [Informazioni sul dashboard SEO (Search Engine Optimization): Istantanea SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
             + [SEO - Aggiungere un sito/Eliminare un sito](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
             + [SEO - Aggiungi concorrenti](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
@@ -146,7 +146,7 @@ ht-degree: 0%
          + [Aggiungere ON24 come servizio LaunchPoint](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [Aggiungere ReadyTalk as a LaunchPoint Service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Aggiungere Single Sign-On a un portale](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Aggiungi Slack as a LaunchPoint Service](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
+         + [Aggiungere Slack come servizio LaunchPoint](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [Aggiungere WebEx come servizio LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Aggiungere Workspace da Facebook come servizio LaunchPoint](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Aggiungere zoom come servizio LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [Glossario del tipo di campo personalizzato](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Eliminare un campo personalizzato in Marketo](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Modifica alias campo per importazione elenco](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [Esporta tutti i metadati dell’oggetto](product-docs/administration/field-management/export-all-object-metadata.md)
          + [Esportare un elenco di tutti i nomi dei campi API Marketo](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Esportazione utilizzata dai dati per un campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Nascondere e visualizzare un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -196,7 +197,7 @@ ht-degree: 0%
          + [Visualizzare le mappature dei campi tra Marketo e Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
       + Attività personalizzate Marketo {#marketo-custom-activities}
          + [Informazioni sulle attività personalizzate](product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
-         + [Aggiungi/Modifica/Elimina campi attività personalizzati Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
+         + [Aggiungi/Modifica/Elimina campi attività personalizzati di Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [Creare un’attività personalizzata](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Modificare un’attività personalizzata](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Pubblicare un’attività personalizzata](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [Esportare un elenco di utenti e ruoli](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gestione degli utenti di Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gestione di ruoli e autorizzazioni utente](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [Esportare ruoli e autorizzazioni](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrizioni delle autorizzazioni del ruolo](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Abilita nessuna bozza per snippet](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Aree di lavoro e partizioni di persona {#workspaces-and-person-partitions}
@@ -384,7 +386,7 @@ ht-degree: 0%
             + [Utilizzo della pagina Dettagli persona](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
          + Elenchi statici {#static-lists}
             + [Creare un elenco statico](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
-            + [Inviare un elenco ad Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+            + [Inviare un elenco a Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Informazioni sugli elenchi statici](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programmi {#programs}
          + Creazione di programmi {#creating-programs}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + Token {#tokens}
             + [Gestione dei token personali](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [Informazioni sui token personali in un programma](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [Token dei campi personalizzati dei membri del programma](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + Calendario di marketing {#marketing-calendar}
          + Informazioni sul calendario {#understanding-the-calendar}
             + [Rilascio/revoca di una licenza di calendario di marketing](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -628,7 +631,7 @@ ht-degree: 0%
          + [Test degli annunci lead Facebook per l’integrazione mobile con Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Informazioni sulle conversioni offline di Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Utilizzare filtri e attivatori lead Ads in una campagna avanzata](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + Moduli {#forms}
+      + Forms {#forms}
          + Creazione di un modulo {#creating-a-form}
             + [Creare un modulo](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Aggiungere un campo a un modulo](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -789,7 +792,7 @@ ht-degree: 0%
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -872,7 +875,7 @@ ht-degree: 0%
             + [Attiva compilazione modulo social su un modulo (Social)](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
             + [Gestisci dati profilo social](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [Imposta requisito condivisione social](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-            + [Imposta moduli lead Gen collegati](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+            + [Imposta Forms lead Gen LinkedIn](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Triggers e filtri per le attività Social](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
             + [Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico collegato](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Utilizzare le e-mail nelle promozioni social](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
@@ -1026,7 +1029,8 @@ ht-degree: 0%
       + Guida introduttiva {#getting-started}
          + [Panoramica di Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Guida introduttiva a Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
-         + [Video e tutorial di avvio rapido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [Video e Tutorials di avvio rapido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [Modifica la password di vendita](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Impostazioni e-mail {#email-settings}
             + [Aggiungi identità](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Aggiungi firma e-mail](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
@@ -1279,7 +1283,7 @@ ht-degree: 0%
             + [Aggiornamento della soluzione Approfondimenti vendite Marketo per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI per Salesforce {#msi-for-salesforce}
          + Installazione {#installation}
-            + [Installa il pacchetto Approfondimenti vendite Marketo in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [Installa il pacchetto di informazioni sulle vendite di Marketo nell&#39;AppExchange Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Configurazione {#configuration}
             + [Approfondimenti vendite Marketo in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Approfondimenti vendite Marketo in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
@@ -1479,7 +1483,7 @@ ht-degree: 0%
             + [Pagine Web visualizzate, Rapporto attività pagina Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + Approfondimenti e-mail {#email-insights}
          + [Panoramica di Approfondimenti e-mail](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [Dimensioni personalizzate per Approfondimenti e-mail](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [Dimension personalizzati per Approfondimenti e-mail](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [Panoramica di Analytics Approfondimenti e-mail](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [Domande frequenti su Approfondimenti e-mail](product-docs/reporting/email-insights/email-insights-faq.md)
          + [Grafici rapidi Approfondimenti e-mail](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1601,9 +1605,9 @@ ht-degree: 0%
          + Integrazioni di Web Analytics {#web-analytics-integrations}
             + [Dashboard RTP personalizzati in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Rapporti RTP personalizzati in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
-            + [Integrare RTP con Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
+            + [Integrare RTP con le Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [Integrare RTP con Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
-            + [Integrazione con Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
+            + [Integrare con Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Informazioni sulla personalizzazione web {#understanding-web-personalization}
          + [Informazioni sull’analisi dei contenuti](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Glossario di personalizzazione web](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
