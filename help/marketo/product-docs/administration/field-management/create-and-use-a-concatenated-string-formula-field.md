@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2360337
-description: Creazione e utilizzo di un campo stringa concatenata (formula) - Documenti Marketo - Documentazione prodotto
-title: Creazione e utilizzo di un campo stringa concatenata (formula)
+description: Creare e utilizzare un campo stringa concatenata (Formula) - Documenti Marketo - Documentazione del prodotto
+title: Creare e utilizzare un campo stringa concatenata (formula)
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Creare e utilizzare un campo stringa concatenata (formula) {#create-and-use-a-concatenated-string-formula-field}
 
-È possibile combinare valori provenienti da più campi o creare un valore condizionale utilizzando un campo Formula di Marketo.
+È possibile combinare i valori provenienti da più campi o creare un valore condizionale utilizzando un campo Formula di Marketo.
 
-1. Accedete a **Admin** e fate clic su **Field Management**.
+1. Vai a **Amministratore** e fai clic su **Gestione campi**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
@@ -27,26 +27,28 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. Immettere un **Nome** per il campo, quindi fare clic su **Crea**.
+1. Immetti un **Nome** per il campo, quindi fai clic su **Crea**.
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
-1. Trovare e selezionare il campo formula, quindi fare clic su **Modifica regole**.
+1. Trova e seleziona il campo della formula, quindi fai clic su **Modifica regole**.
 
    ![](assets/image2014-9-19-9-3a46-3a13.png)
 
-1. Aggiungete due opzioni e definitele come la schermata sottostante.
+1. Aggiungi due scelte e definiscile come la schermata sottostante.
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Ulteriori informazioni sui [token per i passaggi di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >[!TIP]
+   >
+   >Ulteriori informazioni sui [token per i passaggi di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
-1. Ora è possibile aggiungere il campo formula come token in un messaggio e-mail.
+1. Ora puoi aggiungere il campo della formula come token in un messaggio e-mail.
 
    ![](assets/seven.png)
 
-Ottimo lavoro! Ora hai un campo intelligente che sa quale formula salutare includere in base al genere. Divertiti con questo e diventa creativo.
-
 >[!NOTE]
 >
->I campi formula possono essere utilizzati nelle pagine di destinazione, nelle e-mail e nelle colonne degli elenchi smart list; non vengono esportati. Le e-mail con campi formula non possono essere inviate tramite campagne batch
+>I campi Formula possono essere utilizzati nelle colonne delle pagine di destinazione, delle e-mail e degli elenchi avanzati (non vengono esportati). Le e-mail con campi formula possono **non** essere inviate utilizzando una campagna batch. In questo scenario, utilizza un [token di script e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md).
+
+Ottimo lavoro! Ora avete un campo intelligente che sa quale saluto includere in base al genere. Divertitevi con questo e diventate creativi.
