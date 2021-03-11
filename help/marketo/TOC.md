@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '7885'
+source-wordcount: '7889'
 ht-degree: 0%
 
 ---
@@ -154,7 +154,7 @@ ht-degree: 0%
          + [Collegare BrightTALK a Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [Creare un servizio personalizzato da utilizzare con l’API ReST](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Creare un Webhook](product-docs/administration/additional-integrations/create-a-webhook.md)
-         + [Creare un elenco Consentiti per l’accesso API basato su IP](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
+         + [Creare un Inserire nell&#39;elenco Consentiti per l’accesso API basato su IP](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [Scarica il registro delle attività di Google Adwords](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [Limita accesso utente solo a SSO](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
       + Audit Trail {#audit-trail}
@@ -370,7 +370,7 @@ ht-degree: 0%
             + [Utilizzare il filtro del valore di dati modificato in un elenco avanzato](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
             + [Utilizzo della logica avanzata delle regole dell’elenco avanzato](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
          + Gestione delle persone negli elenchi avanzati {#managing-people-in-smart-lists}
-            + [Aggiungi persona a elenco Bloccati](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)
+            + [Aggiungi persona a Inserire nell&#39;elenco Bloccati](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)
             + [Creare manualmente una persona](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/create-a-person-manually.md)
             + [Dashboard del database](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)
             + [Eliminare le persone da un elenco o da un elenco smart](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/delete-people-in-a-smart-list-or-list.md)
@@ -524,6 +524,7 @@ ht-degree: 0%
                + [Passaggio 2 di 3: Configurare l’utente di sincronizzazione di Marketo in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
          + Dettagli sincronizzazione Microsoft Dynamics {#microsoft-dynamics-sync-details}
+            + [Mappatura predefinita dei campi di Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione account](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione contatti](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione entità personalizzata](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
@@ -1181,7 +1182,7 @@ ht-degree: 0%
          + [Posso recuperare un contatto o un gruppo eliminato?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Domande frequenti su contenuto e file allegato](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect ha un&#39;app iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
-         + [Come posso consentire la connessione delle vendite sul mio server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
+         + [Come posso Inserire nell&#39;elenco Consentiti Sales Connect sul mio server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [Mi sono bloccata fuori dal mio account. Cosa devo fare?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect è compatibile con Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Quali sono le versioni client più recenti?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
