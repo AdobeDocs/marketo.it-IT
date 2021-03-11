@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360331
-description: Modifica del tipo di campo personalizzato Marketo - Documenti Marketo - Documentazione prodotto
-title: Modifica del tipo di campo personalizzato Marketo
+description: Modificare il tipo di campo personalizzato Marketo - Documenti Marketo - Documentazione del prodotto
+title: Modificare il tipo di campo personalizzato Marketo
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# Modifica del tipo di campo personalizzato Marketo {#change-the-type-of-a-marketo-custom-field}
+# Modificare il tipo di campo personalizzato Marketo {#change-the-type-of-a-marketo-custom-field}
 
 Come modificare il tipo di campo di un campo personalizzato.
 
-1. Accedete a **Admin** e fate clic su **Field Management**.
+1. Vai a **Amministratore** e fai clic su **Gestione campi**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
-1. Individuate e selezionate il campo desiderato.
+1. Trova e seleziona il campo desiderato.
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. Nel menu a discesa **Azioni campo**, fare clic su **Cambia tipo**.
+1. Nel menu a discesa **Azioni campo**, fai clic su **Cambia tipo**.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
-1. Selezionare il nuovo tipo.
+1. Seleziona il nuovo tipo.
 
    >[!NOTE]
    >
-   >I campi punteggio e formula non possono essere modificati.
+   >Impossibile modificare i campi punteggio e formula.
 
-   ![](assets/image2015-4-22-9-3a39-3a3.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. Leggere l&#39;avviso, quindi fare clic su **Cambia** per confermare.
 
