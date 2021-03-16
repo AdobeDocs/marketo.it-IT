@@ -1,0 +1,117 @@
+---
+unique-page-id: 11380785
+description: Informazioni sull’account denominato - Documenti Marketo - Documentazione del prodotto
+title: Registri di account denominati
+translation-type: tm+mt
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+workflow-type: tm+mt
+source-wordcount: '422'
+ht-degree: 0%
+
+---
+
+
+# Registri di account denominati {#named-account-insights}
+
+Il Dashboard account con nome fornisce una visualizzazione a 360 gradi di un account di destinazione.
+
+![](assets/one-1.png)
+
+## Dashboard {#dashboard}
+
+Il dashboard aggrega le informazioni chiave a livello di account da tutte le persone all’interno di un account denominato, evitando in tal modo la necessità di andare da ciascuna persona per valutare i propri progressi. Puoi approfondire l’attività nell’e-mail utilizzando [Approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+
+>[!NOTE]
+>
+>I grafici mostrano informazioni degli ultimi 90 giorni.
+
+**Interazione account nel** tempoFai clic sull’elenco a discesa  **** Visualizzazione a destra per modificare la visualizzazione. Oltre al punteggio account, puoi visualizzare per Ricavi totali...
+
+![](assets/two-new.png)
+
+...o Pipeline.
+
+![](assets/three-new.png)
+
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Punteggio account</strong></td> 
+   <td><p>Consulta il coinvolgimento settimanale in base a tutti i punteggi account creati in Amministratore. Puoi confrontare questi punteggi dell’account uno accanto all’altro. Per determinare il coinvolgimento settimanale, prendiamo il coinvolgimento massimo da qualsiasi giorno della settimana.</p></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Pipeline</strong></td> 
+   <td>Visualizzare la pipeline nel tempo. Per determinare la pipeline nel tempo per settimana, prendiamo la pipeline l’ultimo giorno.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Entrate</strong></td> 
+   <td>Visualizza i ricavi nel tempo. Per determinare le entrate nel tempo per settimana, prendiamo la somma di tutte le entrate vinte in quella settimana.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
+**Momenti interessanti**
+
+Disponibile per gli utenti di Marketo Sales Insight, puoi vedere i momenti interessanti raggruppati a livello di account.
+
+![](assets/int-mom.png)
+
+**Persone principali**
+
+Queste persone vengono calcolate in base a priorità basate sulla recency o sull’urgenza mostrate da persone di account denominati (come [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) o Punteggi definiti dall’utente. **** La priorità è disponibile solo per gli utenti di Marketing Sales Insight.
+
+![](assets/top-ten.png)
+
+**Include bambini**
+
+Fai clic su **Include Children** per visualizzare e scegliere gli account figlio dell&#39;account denominato selezionato e visualizzarne l&#39;analisi aggregata.
+
+![](assets/abm.png)
+
+>[!NOTE]
+>
+>Quando selezioni gli account, puoi scegliere seleziona tutto oppure selezionare singolarmente fino a 100.
+
+## Gerarchia {#hierarchy}
+
+Vedere dove si trova il conto denominato selezionato in relazione alla sua gerarchia.
+
+![](assets/hierarchy.png)
+
+## Opportunità {#opportunities}
+
+Una panoramica di tutte le opportunità aperte a livello di account, che aiuta i team di marketing a concentrarsi sulla chiusura di opportunità specifiche.
+
+![](assets/four-1.png)
+
+## Persone potenziali {#potential-people}
+
+La corrispondenza lead-to-account utilizza una logica confusa per trovare corrispondenze deboli che possono essere risolte nella scheda Persone potenziali .
+
+![](assets/five-1.png)
+
+>[!NOTE]
+>
+>Per aggiungere una delle persone elencate, selezionale e fai clic su **Aggiungi persone**.
+
+## Utilizzato da {#used-by}
+
+Questa scheda mostra quali campagne intelligenti, campagne web, elenchi smart o rapporti fanno attualmente riferimento a specifici account o elenchi di account.
+
+![](assets/six-1.png)
+
+## Team account {#account-team}
+
+Visualizza i membri del team dell&#39;account, aggiungi/rimuovi i membri, persino assegna un proprietario dell&#39;account in questa scheda.
+
+![](assets/seven-1.png)
+
+>[!NOTE]
+>
+>Fai clic sull&#39;elenco a discesa **Azioni team account** per aggiungere/rimuovere membri dell&#39;account o assegnare un proprietario dell&#39;account.
+
+## Indicatori ICP {#icp-indicators}
+
+Visualizzare gli indicatori ICP selezionati per l&#39;esportazione quando [il modello è stato regolato](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+
+![](assets/eight.png)
