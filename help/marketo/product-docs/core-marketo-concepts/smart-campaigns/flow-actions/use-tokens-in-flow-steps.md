@@ -1,50 +1,54 @@
 ---
 unique-page-id: 1146995
-description: Utilizzare i token nei passaggi di flusso - Documenti Marketo - Documentazione prodotto
-title: Utilizzare i token nei passaggi di flusso
+description: Utilizzare i token nei passaggi del flusso - Documenti Marketo - Documentazione del prodotto
+title: Utilizzare i token nei passaggi del flusso
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
 
-# Utilizzare i token nei passaggi di flusso {#use-tokens-in-flow-steps}
+# Utilizza i token nei passaggi del flusso {#use-tokens-in-flow-steps}
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
 >[!PREREQUISITES]
 >
->* [Aggiunta di un passaggio di flusso a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-
-Un token è una variabile. Potete utilizzarlo nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare la vostra vita. È possibile utilizzare [My Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (token personalizzati) in passaggi di flusso, webhooks, e-mail e pagine di destinazione. È possibile utilizzare i token per includere il contenuto variabile nei seguenti passaggi di flusso:
+Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare la tua vita. Puoi utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (token personalizzati) in passaggi di flusso, webhook, e-mail e pagine di destinazione. Puoi utilizzare i token per includere il contenuto variabile nei passaggi del flusso seguenti:
 
 * Modifica valore dati
+* Modifica dati dei membri del programma
 * Momento interessante
-* Passaggi campagna Salesforce (aggiungere, rimuovere, modificare lo stato)
+* Passaggi della campagna Salesforce (aggiungi, rimuovi, cambia stato)
 * Crea attività
 * Invia avviso (solo nelle campagne di attivazione)
 
-1. Nella fase di flusso, iniziate a digitare `{{` per ottenere le categorie di token. ![](assets/image2014-9-22-14-3a3-3a17.png)
+1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie di token. ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >Per un elenco dei diversi token disponibili, consultare [Panoramica token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+   >Consulta [Panoramica token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per un elenco di diversi token disponibili.
 
-1. Continuate a digitare fino a trovare il token desiderato e fate clic per selezionarlo.
+1. Continua a digitare fino a trovare il token desiderato e fai clic su per selezionare.
 
    ![](assets/image2014-9-22-14-3a3-3a48.png)
 
    >[!TIP]
    >
-   >Più token possono essere utilizzati nei passaggi del flusso Momento interessante, Crea attività e Invia avviso.
+   >È possibile utilizzare più token nei passaggi del flusso di avvisi relativi a Momento interessante, Crea attività e Invia avviso.
 
-   Fantastico! I dati verranno estratti dal token quando viene eseguita la campagna intelligente.
+   >[!NOTE]
+   >
+   >I token di campo personalizzati dei membri del programma possono essere utilizzati in: Crea attività, Crea attività in Microsoft, Momenti interessanti, Modifica azioni di flusso di valore dei dati e Webhook.
+
+   Calmo! I dati verranno estratti dal token quando la campagna avanzata viene eseguita.
 
    >[!MORELIKETHIS]
    >
