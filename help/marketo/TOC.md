@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '7923'
+source-wordcount: '7949'
 ht-degree: 0%
 
 ---
@@ -44,48 +44,48 @@ ht-degree: 0%
       + [Aspetti da esaminare: Competenze di base](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Come ottenere aiuto](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Documentazione del prodotto {#product-docs}
-   + Marketing basato su account {#account-based-marketing}
+   + Gestione account di Target {#target-account-management}
       + Configurazione {#setup}
-         + [Panoramica del marketing basato su account](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
-         + [Guida introduttiva ad ABM](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
-         + [Rilasciare una licenza](product-docs/account-based-marketing/setup-abm/issue-a-license.md)
-         + [Autorizzazioni](product-docs/account-based-marketing/setup-abm/permissions.md)
-         + [Punteggio account](product-docs/account-based-marketing/setup-abm/account-score.md)
-         + [Impostazione team account](product-docs/account-based-marketing/setup-abm/account-team-setup.md)
-         + [Creazione di un campo personalizzato per l&#39;individuazione dei CRM](product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)
-         + [Configurare la funzione Approfondimenti account](product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
-         + [Panoramica del plug-in di Insight dell’account](product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)
-         + [Invitare gli utenti ad accedere a Account Insight](product-docs/account-based-marketing/setup-abm/invite-users-to-access-account-insight.md)
+         + [Panoramica del marketing basato su account](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Guida introduttiva ad ABM](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [Rilasciare una licenza](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [Autorizzazioni](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Punteggio account](product-docs/target-account-management/setup-tam/account-score.md)
+         + [Impostazione team account](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [Creazione di un campo personalizzato per l&#39;individuazione dei CRM](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [Configurare la funzione Approfondimenti account](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Panoramica del plug-in di Insight dell’account](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [Invitare gli utenti ad accedere a Account Insight](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + Target {#target}
          + Account denominati {#named-accounts}
-            + [Panoramica account con nome](product-docs/account-based-marketing/target/named-accounts/named-account-overview.md)
-            + [Importa account denominati](product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)
-            + [Aggiungi un account con nome esistente a un elenco account](product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Creare un account denominato](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
-            + [Aggiungere persone a un account denominato](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
-            + [Scopri account](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-            + [Corrispondenza lead a conto](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-            + [Filtraggio negli account denominati](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
-            + [Eliminare un account denominato](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
-            + [Gerarchie ABM](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [Creare una gerarchia](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
-         + [Elenchi account](product-docs/account-based-marketing/target/account-lists.md)
-         + [Creare un pubblico corrispondente su LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+            + [Panoramica account con nome](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [Importa account denominati](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [Aggiungi un account con nome esistente a un elenco account](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [Creare un account denominato](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Aggiungere persone a un account denominato](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Scopri account](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Corrispondenza lead a conto](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [Filtraggio negli account denominati](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [Eliminare un account denominato](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [Gerarchie ABM](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [Creare una gerarchia](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [Elenchi account](product-docs/target-account-management/target/account-lists.md)
+         + [Creare un pubblico corrispondente su LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + Coinvolgi {#engage}
-         + [Filtri account](product-docs/account-based-marketing/engage/account-filters.md)
-         + [Trigger account](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [Filtri account](product-docs/target-account-management/engage/account-filters.md)
+         + [Trigger account](product-docs/target-account-management/engage/account-triggers.md)
       + Misura {#measure}
-         + [Dashboard principale di ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-         + [Impostazione dei rapporti ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
-         + [Rapporto vendite ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
-         + [Approfondimenti elenco account](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [Dimension di account denominato in RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-         + [Registri di account denominati](product-docs/account-based-marketing/measure/named-account-insights.md)
-         + [Utilizzo di Personas](product-docs/account-based-marketing/using-personas.md)
+         + [Dashboard principale di ABM](product-docs/target-account-management/measure/abm-main-dashboard.md)
+         + [Impostazione dei rapporti ABM](product-docs/target-account-management/measure/abm-report-setup.md)
+         + [Rapporto vendite ABM](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [Approfondimenti elenco account](product-docs/target-account-management/measure/account-list-insights.md)
+         + [Dimension di account denominato in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Registri di account denominati](product-docs/target-account-management/measure/named-account-insights.md)
+         + [Utilizzo di Personas](product-docs/target-account-management/using-personas.md)
    + Profilo account {#account-profiling}
-      + [Impostazione del profilo account](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
-      + [Classificazione e tuning del profilo dell&#39;account](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [Nuova individuazione account](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
+      + [Impostazione del profilo account](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [Classificazione e tuning del profilo dell&#39;account](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [Nuova individuazione account](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
          + Informazioni sul SEO {#understanding-seo}
@@ -527,7 +527,9 @@ ht-degree: 0%
                + [Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Imposta autenticazione OAuth per Dynamics {#set-up-oauth-authentication-for-dynamics}
                + [Concessione del consenso per l’ID client e la registrazione dell’app](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [Configurare l’app Microsoft Dynamics CRM per Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Configurare l’app Microsoft Dynamics CRM per On-Prem](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [Impostare MSD per Azure AD Federated con Active Directory FS On-Prem, Tenant e Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Dettagli sincronizzazione Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Mappatura predefinita dei campi di Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione account](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -594,6 +596,7 @@ ht-degree: 0%
          + [Aggiungi/rimuovi valori dell’elenco a discesa](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [Attiva/Disattiva la sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Azioni Salesforce implicite](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Errori di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Stato di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + Generazione di domanda {#demand-generation}
       + Integrazioni di reti di annunci {#ad-network-integrations}
@@ -797,9 +800,9 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
