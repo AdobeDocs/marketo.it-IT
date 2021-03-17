@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: Dimension di account denominato in RCA - Documenti Marketo - Documentazione del prodotto
 title: Dimension di account denominato in RCA
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dimension di account denominato in RCA {#named-account-dimension-in-rca}
 
-Crea rapporti basati sui ricavi utilizzando la dimensione Conto con nome specifica per ABM in Analisi del ciclo dei ricavi.
+Crea rapporti basati sui ricavi utilizzando la dimensione Conto con nome specifica per il TAM in Analisi del ciclo dei ricavi.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ I seguenti rapporti hanno accesso alla dimensione Conto con nome:
 
 >[!NOTE]
 >
->Di seguito sono riportati alcuni esempi di Marketo ABM in Revenue Cycle Analytics.
+>Di seguito sono riportati alcuni esempi di Marketo TAM in Revenue Cycle Analytics.
 
 Accelerazione della pipeline all’interno di account denominati
 
