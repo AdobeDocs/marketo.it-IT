@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Filtri dell’account - Documenti Marketo - Documentazione del prodotto
 title: Filtri account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Identifica e coinvolge gli Account con nome e gli utenti tipo al loro interno utilizzando nuovi filtri incentrati sull&#39;account.
 
-## Filtri ABM {#abm-filters}
+## Filtri TAM {#tam-filters}
 
 1. Seleziona la campagna avanzata e fai clic su **Elenco avanzato**.
 
@@ -45,25 +45,25 @@ Per utilizzare questo filtro, fai clic sull&#39;elenco a discesa dell&#39;accoun
 
 ## Membro dell&#39;account denominato {#member-of-named-account}
 
-1. Scegli un qualificatore. È per uno o più account denominati specifici o è uno qualsiasi per un account denominato.
+Innanzitutto, scegli un qualificatore. **** È per uno o più account denominati specifici o  **è** qualsiasi account denominato.
 
-   ![](assets/six.png)
+![](assets/six.png)
 
-1. Fai clic sull’elenco a discesa dell’account denominato .
+Fai clic sull&#39;elenco a discesa dell&#39;account denominato...
 
-   ![](assets/seven.png)
+![](assets/seven.png)
 
-1. Scegli gli account con nome desiderati.
+...e scegli i tuoi account denominati desiderati.
 
-   ![](assets/eight.png)
+![](assets/eight.png)
 
-1. Se utilizzi il qualificatore &quot;è qualsiasi&quot;, puoi utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) per limitare i risultati della ricerca. Aggiungi quanti ne vorresti!
+Se utilizzi il qualificatore &quot;è qualsiasi&quot;, puoi utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) per limitare i risultati della ricerca. Aggiungi quanti ne vorresti!
 
-   ![](assets/nine.png)
+![](assets/nine.png)
 
-1. Imposta &quot;Include Children&quot; su false se desideri solo membri dal singolo account di primo livello. Selezionare true se si desidera che i membri vengano da tutti gli account figlio.
+Imposta &quot;Include Children&quot; su false se desideri solo membri dal singolo account di primo livello. Selezionare true se si desidera che i membri vengano da tutti gli account figlio.
 
-   ![](assets/ten.png)
+![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
