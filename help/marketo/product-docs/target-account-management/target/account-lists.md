@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Elenchi account - Documenti Marketo - Documentazione del prodotto
 title: Elenchi account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 
 >[!NOTE]
 >
->Gli elenchi di account creati in Marketing basato su account Marketo sono automaticamente disponibili quando si creano elenchi avanzati e campagne web in [Personalizzazione web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Gli elenchi di account creati in Gestione account Marketo Target sono automaticamente disponibili quando si creano elenchi avanzati e campagne web in [Personalizzazione web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Crea un nuovo elenco account {#create-a-new-account-list}
 
