@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Configurazione del team dell'account - Documenti Marketo - Documentazione del prodotto
 title: Impostazione team account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Un team di account è un gruppo di parti interessate che lavorano insieme su un 
 
    ![](assets/one-3.png)
 
-1. Fare clic su **ABM**.
+1. Fai clic su **Gestione account di destinazione**.
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. In Membri del team dell&#39;account fare clic su **Modifica**.
 
@@ -45,10 +45,12 @@ Un team di account è un gruppo di parti interessate che lavorano insieme su un 
 
    >[!CAUTION]
    >
-   >Se apporti un aggiornamento, potrebbe essere necessario un po&#39; di tempo perché le modifiche si riflettano in ABM.
+   >Se effettui un aggiornamento, potrebbe essere necessario un po&#39; di tempo perché le modifiche si riflettano in TAM.
 
    >[!NOTE]
    >
-   >Quando più account CRM con diversi proprietari di account vengono uniti in un account denominato, Marketo sceglierà un &quot;proprietario dell&#39;account&quot; e aggiungerà altri proprietari di account come &quot;co-proprietari dell&#39;account&quot;
-   >
-   >Se un campo &quot;Role&quot; di gestione delle relazioni con i clienti viene successivamente rinominato o eliminato, Marketo ABM smetterà di sincronizzare i valori aggiornati finché l&#39;utente non aggiorna manualmente la configurazione in ABM
+   >* Quando più account CRM con diversi proprietari di account vengono uniti in un account denominato, Marketo sceglierà un &quot;proprietario dell&#39;account&quot; e aggiungerà altri proprietari di account come &quot;co-proprietari dell&#39;account&quot;
+      >
+      >
+   * Se un campo &quot;Role&quot; di gestione delle relazioni con i clienti viene successivamente rinominato o eliminato, Marketo TAM smetterà di sincronizzare i valori aggiornati fino a quando l&#39;utente non aggiornerà manualmente la configurazione in TAM
+
