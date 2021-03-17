@@ -3,9 +3,9 @@ unique-page-id: 17727818
 description: Utilizzo di Personas - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di Personas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Le persone sono un ottimo modo per segmentare il pubblico e il mercato ABM a un 
 
    ![](assets/one.png)
 
-1. Nella struttura, selezionare **ABM**.
+1. Nella struttura, seleziona **Gestione account di destinazione**.
 
-   ![](assets/two.png)
+   ![](assets/using-personas-2.png)
 
 1. Fare clic su **Modifica**.
 
