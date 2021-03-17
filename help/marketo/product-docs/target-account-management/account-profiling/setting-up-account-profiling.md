@@ -3,7 +3,7 @@ unique-page-id: 17432598
 description: Impostazione del profiling dell’account - Documenti Marketo - Documentazione del prodotto
 title: Impostazione del profilo account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Segui questi passaggi per iniziare a utilizzare Profiling account.
 
-1. In My Marketo, apri **Marketing basato su account**.
+1. In My Marketo, apri **Gestione account Target**.
 
-   ![](assets/one.png)
+   ![](assets/setting-up-account-profiling-1.png)
 
-1. Fai clic sulla scheda Profilo account .
+1. Fai clic sulla scheda **Profilo account** .
 
    ![](assets/two-1.png)
 
