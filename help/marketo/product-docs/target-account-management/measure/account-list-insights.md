@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Informazioni sull’elenco account - Documenti Marketo - Documentazione del prodotto
 title: Approfondimenti elenco account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Il dashboard Elenco account offre una visualizzazione delle informazioni aggrega
 
 >[!NOTE]
 >
->Marketo ABM determina automaticamente i migliori account denominati all’interno di un elenco di account in base ai punteggi di coinvolgimento generati dalla pipeline o dall’account.
+>Marketo TAM determina automaticamente i migliori account denominati all’interno di un elenco di account in base ai punteggi di coinvolgimento generati dalla pipeline o dall’account.
 
 ## Dashboard dell&#39;elenco account {#account-list-dashboard}
 
