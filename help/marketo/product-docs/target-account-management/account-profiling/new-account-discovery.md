@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nuova individuazione account - Documenti Marketo - Documentazione del prodotto
 title: Nuova individuazione account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ La scoperta di nuovi account può aiutarti a trovare nuovi account di destinazio
 >
 >È consigliabile premere il pulsante **Aggiorna account esistenti** prima di eseguire una nuova ricerca dell&#39;account per assicurarsi di visualizzare i dati più recenti. Questo aggiornamento può richiedere fino a 24 ore.
 
-1. In My Marketo, fai clic su **ABM**.
+1. In My Marketo, fai clic su **Gestione account di Target**.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Fai clic sulla scheda **Profilo account** .
 
@@ -37,7 +37,7 @@ La scoperta di nuovi account può aiutarti a trovare nuovi account di destinazio
 
    >[!NOTE]
    >
-   >Nuovi account mostra un elenco di account non ancora presenti in ABM. Si tratta di account che possono essere nuovi in base ai filtri selezionati.
+   >Nuovi account mostra un elenco di account che non sono ancora tuoi in TAM. Si tratta di account che possono essere nuovi in base ai filtri selezionati.
 
 1. Seleziona tutti i filtri applicabili (questa parte è altamente personalizzabile, il seguente è solo un esempio per dimostrare il filtraggio).
 
