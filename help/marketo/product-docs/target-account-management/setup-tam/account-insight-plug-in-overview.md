@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Panoramica del plug-in di Insight dell’account - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del plug-in di Insight dell’account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Panoramica del plug-in di Insight dell’account {#account-insight-plug-in-overview}
 
-Account Insight è un plug-in Chrome che presenta ai team di vendita ABM fruibili e informazioni sull’account, consentendo loro di interagire più efficacemente con gli account.
+Account Insight è un plug-in Chrome che presenta ai team di vendita informazioni fruibili su TAM e account, consentendo loro di interagire più efficacemente con gli account.
 
 >[!AVAILABILITY]
 >
->Account Insight è incluso per tutti i clienti che hanno sia ABM che Marketo Sales Insight. Per i clienti che dispongono solo di ABM, Account Insight è disponibile come componente aggiuntivo acquistato. Ogni cliente è limitato a 250 posti per l&#39;accesso all&#39;account. Contatta il tuo rappresentante commerciale per i dettagli. Non è disponibile per i clienti che non dispongono di ABM.
+>Account Insight è incluso per tutti i clienti che hanno sia TAM che Marketo Sales Insight. Per i clienti che dispongono solo di TAM, Account Insight è disponibile come componente aggiuntivo acquistato. Ogni cliente è limitato a 250 posti per l&#39;accesso all&#39;account. Contatta il tuo rappresentante commerciale per i dettagli. Non è disponibile per i clienti che non dispongono di TAM.
 
 >[!CAUTION]
 >
