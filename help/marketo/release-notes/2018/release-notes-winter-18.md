@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Note sulla versione - Inverno del 18 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '18
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Scopri in che modo le campagne e i canali hanno un impatto sui risultati azienda
 
 ## Miglioramenti al marketing basati su account {#account-based-marketing-enhancements}
 
-**[Gerarchie ABM](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
+**[Gerarchie ABM](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
 Per i clienti ABM con Salesforce o Microsoft Dynamics, ABM erediterà automaticamente (e visualizzerà) le relazioni padre-figlio stabilite nel CRM. Potrai utilizzare queste relazioni sia nel reporting roll-up che nell’esecuzione di campagne.
 
