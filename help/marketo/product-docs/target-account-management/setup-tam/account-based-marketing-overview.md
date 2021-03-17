@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: Panoramica del marketing basato su account - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del marketing basato su account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketing basato su account Marketo offre anche vari strumenti per personalizzar
 
 Sono dentro! Come inizio?
 
-Pensavamo che non lo avresti mai chiesto! ABM è disponibile come componente aggiuntivo per il tuo abbonamento a Marketo, quindi contatta il tuo rappresentante commerciale per implementarlo. Una volta ottenuto, controlla questo articolo: [Guida introduttiva ad ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+Pensavamo che non lo avresti mai chiesto! ABM è disponibile come componente aggiuntivo per il tuo abbonamento a Marketo, quindi contatta il tuo rappresentante commerciale per implementarlo. Una volta ottenuto, controlla questo articolo: [Guida introduttiva ad ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
