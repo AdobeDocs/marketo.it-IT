@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '7952'
+source-wordcount: '7967'
 ht-degree: 0%
 
 ---
@@ -507,7 +507,7 @@ ht-degree: 0%
          + [Correggere i problemi di sincronizzazione della convalida di Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Configurazione sincronizzazione {#sync-setup}
             + [Scarica la soluzione Marketo Lead Management](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Aggiornare la soluzione Marketo per Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Aggiornamento della soluzione Marketo per Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Convalida della sincronizzazione di Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visualizzare l&#39;URL del servizio organizzazione](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
@@ -801,7 +801,7 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1036,6 +1036,11 @@ ht-degree: 0%
             + [Utilizzare il token di invio delle informazioni di avviso](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Utilizzo degli URL nei token personali](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email CC](product-docs/email-marketing/general/email-cc.md)
+   + Esperienza Marketi Engage di nuova generazione {#marketo-engage-next-generation-experience}
+      + [Panoramica](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [Glossario a icona](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Spostamento delle risorse](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+      + [Utilizzo della ricerca globale](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketing Sales Connect {#marketo-sales-connect}
       + Guida introduttiva {#getting-started}
          + [Panoramica di Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1292,7 +1297,7 @@ ht-degree: 0%
             + [Disattiva Global MS Dynamics Sync](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [Disinstallare MSI dall’istanza di MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + Aggiornamento di {#updating}
-            + [Aggiornamento della soluzione Approfondimenti vendite Marketo per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Aggiornare la soluzione Marketing Sales Insight per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI per Salesforce {#msi-for-salesforce}
          + Installazione {#installation}
             + [Installa il pacchetto di informazioni sulle vendite di Marketo nell&#39;AppExchange Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1392,8 +1397,8 @@ ht-degree: 0%
          + [Notifiche push](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [Visualizzare il dashboard di notifica push](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + Vibra messaggi SMS {#vibes-sms-messages}
-         + [Aggiungere un passaggio di flusso per SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Creare un messaggio SMS Vibes](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+         + [Aggiungere un passaggio di flusso per SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Dashboard messaggi SMS](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [Utilizzare messaggi SMS Vibes in attivatori e filtri di elenchi avanzati](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalizzazione {#personalization}
