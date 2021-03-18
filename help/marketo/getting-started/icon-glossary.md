@@ -1,17 +1,19 @@
 ---
 unique-page-id: 4720476
-description: Glossario Icona - Documenti Marketo - Documentazione prodotto
-title: Glossario icona
+description: Icona Glossario - Documenti Marketo - Documentazione del prodotto
+title: Icona Glossario
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
-# Glossario icona {#icon-glossary}
+# Icona Glossario {#icon-glossary}
+
+Di seguito sono riportate le icone di Marketo Classic. Se hai effettuato il passaggio alla nuova interfaccia di Marketo Engage, il glossario delle icone [è disponibile qui](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 **Icone generali**
 
@@ -58,28 +60,28 @@ ht-degree: 0%
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">La cartella di origine condivisa con un’altra area di lavoro</td> 
+   <td colspan="1">Cartella di origine condivisa con un’altra area di lavoro</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Cartella di destinazione condivisa da un'altra area di lavoro <br>(il blocco indica che non è possibile apportare modifiche)</td> 
+   <td colspan="1">Cartella di destinazione condivisa da un'altra area di lavoro <br>(il lucchetto indica che non è possibile apportare modifiche)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>Archivia cartella o Converti in cartella archivio (può essere visualizzato per qualsiasi cartella e programmi archiviati)</td> 
+   <td>Archivia cartella o Converti in cartella archivio (può essere visualizzato per qualsiasi cartella e programma archiviato)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>Successo!(Visualizzato frequentemente come Successo del programma, Esecuzione riuscita o Attivo)</td> 
+   <td>Successo!(mostrato frequentemente come programma riuscito, eseguito correttamente o attivo)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -121,7 +123,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
-   <td>Informazioni sull'iscrizione</td> 
+   <td>Informazioni sull’abbonamento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -160,14 +162,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-18-3a33-3a35.png"> 
     </div></td> 
-   <td>Account personale</td> 
+   <td>Il mio account</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>Sicurezza/Logout</td> 
+   <td>Sicurezza/disconnessione</td> 
   </tr> 
   <tr> 
    <td> 
@@ -237,7 +239,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>Informazioni sulle vendite</td> 
+   <td>Approfondimenti vendite</td> 
   </tr> 
   <tr> 
    <td> 
@@ -272,28 +274,28 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>Ganci Web</td> 
+   <td>Webhook</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>Tag - Attributo programma</td> 
+   <td>Tag - Attributo del programma</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a39-3a28.png"> 
     </div></td> 
-   <td>Analisi del ciclo delle entrate</td> 
+   <td>Analisi del ciclo dei ricavi</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td>Torba del tesoro</td> 
+   <td>Torace del tesoro</td> 
   </tr> 
   <tr> 
    <td> 
@@ -312,7 +314,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Icone Attività Marketing {#marketing-activities-icons}
+### Icone delle attività di marketing {#marketing-activities-icons}
 
 <table> 
  <tbody> 
@@ -346,7 +348,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>Cura di coinvolgimento</td> 
+   <td>Inferenza di coinvolgimento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -360,14 +362,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>Modifica Cadenza di coinvolgimento (Pausa, Normale)</td> 
+   <td>Cadenza di coinvolgimento della modifica (in pausa, normale)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </div></td> 
-   <td>Modifica flusso di coinvolgimento</td> 
+   <td>Cambia flusso di coinvolgimento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -381,14 +383,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>Smart Campaign richiesto (Tramite informazioni sulle vendite o azione di flusso del marketing)</td> 
+   <td>Campagna avanzata richiesta (tramite azione di informazioni sulle vendite o flusso di Marketo)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>Smart Campaign - Batch (già eseguito)</td> 
+   <td>Smart Campaign - Batch (eseguito in precedenza)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -409,7 +411,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programma e-mail <br>(Segnalazione rossa = l'e-mail non è ancora stata inviata)</td> 
+   <td>Programma e-mail <br>(Segnalazione rossa inattiva = e-mail non ancora inviata)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -430,7 +432,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>Campagne batch pianificate</td> 
+   <td>Campagne in batch pianificate</td> 
   </tr> 
   <tr> 
    <td> 
@@ -521,7 +523,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </div></td> 
-   <td>Incorpora codice</td> 
+   <td>Codice di incorporamento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -675,7 +677,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">Strumenti di distribuzione</td> 
+   <td colspan="1">Strumenti di consegna</td> 
   </tr> 
  </tbody> 
 </table>
@@ -749,7 +751,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-11-3a10-3a10.png"> 
     </div></td> 
-   <td>URL Tools/URL Builder</td> 
+   <td>Strumenti URL/Generatore URL</td> 
   </tr> 
   <tr> 
    <td> 
@@ -777,14 +779,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>Pagina di destinazione/Modello e-mail - Non approvato</td> 
+   <td>Modello pagina di destinazione/e-mail - Non approvato</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>Pagina di destinazione/Modello e-mail - Approvato</td> 
+   <td>Modello pagina di destinazione/e-mail - Approvato</td> 
   </tr> 
   <tr> 
    <td> 
@@ -819,7 +821,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>Bozza di una risorsa approvata (non live fino all'approvazione della bozza)</td> 
+   <td>Bozza di una risorsa approvata (non attiva fino a quando la bozza non viene approvata)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -833,14 +835,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>Snippet - Non approvato o Bozza</td> 
+   <td>Frammento: non approvato o bozza</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>Snippet - Approvato</td> 
+   <td>Frammento - Approvato</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -854,7 +856,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">Acquisisci immagini dal Web</td> 
+   <td colspan="1">Acquisisci immagini dal web</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -879,42 +881,42 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>Modello del ciclo delle entrate</td> 
+   <td>Modello del ciclo dei ricavi</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>Modello del ciclo delle entrate (RCM) - Non approvato</td> 
+   <td>Modello del ciclo dei ricavi (RCM) - Non approvato</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>Modello del ciclo delle entrate (RCM) - Approvato</td> 
+   <td>Modello del ciclo dei ricavi (RCM) - Approvato</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>RCM (Revenue Cycle Model) - Approvato con Draft</td> 
+   <td>Modello del ciclo dei ricavi (RCM) - Approvato con bozza</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>Azioni report</td> 
+   <td>Azioni dei rapporti</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </div></td> 
-   <td>Report</td> 
+   <td>Rapporto</td> 
   </tr> 
   <tr> 
    <td> 
@@ -935,14 +937,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>Visualizza lead qualificato</td> 
+   <td>Visualizza lead qualificati</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>Panoramica sui momenti interessanti</td> 
+   <td>Panoramica dei momenti interessanti</td> 
   </tr> 
   <tr> 
    <td> 
@@ -963,7 +965,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>Raggruppa lead per</td> 
+   <td>Lead di gruppo per</td> 
   </tr> 
   <tr> 
    <td> 
@@ -975,7 +977,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Icone token personali {#my-tokens-icons}
+### Icone dei token {#my-tokens-icons}
 
 <table> 
  <tbody> 
@@ -1009,14 +1011,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce (anche su tutti gli articoli della DSC)</td> 
+   <td>Salesforce (anche su tutti i punti della DSC)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>Pianificazione dell'esecuzione di Smart Campaign</td> 
+   <td>Pianificare la campagna avanzata da eseguire una volta</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1030,19 +1032,19 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>Aggiorna (in genere esegue Count, Report, Smart List)</td> 
+   <td>Aggiorna (Di Solito Esegui Conteggio, Report, Smart List)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>Visualizza membri avanzati (in precedenza qualificati e correnti)</td> 
+   <td>Visualizza membri avanzati (qualificati in precedenza e correnti)</td> 
   </tr> 
  </tbody> 
 </table>
 
-### Menu campagna {#campaign-menus}
+### Menu della campagna {#campaign-menus}
 
 <table> 
  <tbody> 
@@ -1062,7 +1064,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </div></td> 
-   <td>Annulla esecuzione, azione o eliminazione</td> 
+   <td>Annullare l’esecuzione, l’azione o l’eliminazione</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1076,7 +1078,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce (anche su tutti gli articoli della DSC)</td> 
+   <td>Salesforce (anche su tutti i punti della DSC)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1090,7 +1092,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td>Punteggio relativo (visibile anche su tutte le azioni di scorrimento del punteggio)</td> 
+   <td>Punteggio relativo (visibile anche su tutte le azioni del flusso di Punteggio)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1129,14 +1131,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-16-3a26-3a11.png"> 
     </div></td> 
-   <td>Smart List</td> 
+   <td>Elenco avanzato</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </div></td> 
-   <td>Smart List - Cache</td> 
+   <td>Elenco avanzato - Memorizzato nella cache</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1150,7 +1152,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>Segmentazione O Segmento - Approvato o Bozza</td> 
+   <td>Segmentazione o segmento - Approvato o Bozza</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1164,7 +1166,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td>Organizzatore dei campi</td> 
+   <td>Organizzatore di campi</td> 
   </tr> 
   <tr> 
    <td> 
