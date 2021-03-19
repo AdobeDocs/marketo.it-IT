@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + Documentazione del prodotto {#product-docs}
    + Gestione account di Target {#target-account-management}
       + Configurazione {#setup}
-         + [Panoramica del marketing basato su account](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Panoramica sulla gestione account di Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Guida introduttiva a TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Rilasciare una licenza](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Autorizzazioni](product-docs/target-account-management/setup-tam/permissions.md)
@@ -801,7 +801,7 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + Supporto linguistico {#language-support}
                + [Preparare informazioni sulle vendite per il supporto multilingue in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Scheda Marketo {#marketo-tab}
+               + [Migliori offerte](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [Utilizzo del feed lead](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Scheda di configurazione MSI {#msi-configuration-tab}
                + [Attiva RSS per informazioni sulle vendite](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [Priorità, Urgenza, Punteggio relativo e Migliori offerte](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [Imposta i campi punteggio da utilizzare per le stelle e le fiamme in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + Schede nel pannello MSI {#tabs-in-the-msi-panel}
+               + [Scheda E-mail](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Momenti interessanti {#interesting-moments}
                   + [Panoramica dei momenti interessanti](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [Token per momenti interessanti](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [Creare gruppi di campi personalizzati utilizzando l’Organizzatore di campi](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Personalizzazione web {#web-personalization}
       + Marketing Web basato su account {#account-based-web-marketing}
-         + [Web marketing basato su account con ABM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [Web marketing basato su account con TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Creare un nuovo elenco account](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Creare un segmento utilizzando un elenco account](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + Guida introduttiva {#getting-started}
@@ -1670,34 +1672,34 @@ ht-degree: 0%
          + [Visualizzare campagne web da un&#39;etichetta specifica](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Note sulla versione {#release-notes}
    + [Pianificazione del rilascio](release-notes/release-schedule.md)
-   + 2020{#2020}
+   + 2020 {#2020}
       + [Note sulla versione: Gen. 20](release-notes/2020/release-notes-jan-20.md)
       + [Note sulla versione: Feb. 20](release-notes/2020/release-notes-feb-20.md)
       + [Note sulla versione: Giugno 20](release-notes/2020/release-notes-june-20.md)
       + [Note sulla versione: Luglio 20](release-notes/2020/release-notes-july-20.md)
       + [Note sulla versione: Ott. 20](release-notes/2020/release-notes-oct-20.md)
-   + 2019{#2019}
+   + 2019 {#2019}
       + [Note sulla versione: Agosto &#39;19](release-notes/2019/release-notes-august-19.md)
       + [Note sulla versione: Giugno &#39;19](release-notes/2019/release-notes-june-19.md)
       + [Note sulla versione: Primavera &#39;19](release-notes/2019/release-notes-spring-19.md)
       + [Note sulla versione: Inverno &#39;19](release-notes/2019/release-notes-winter-19.md)
-   + 2018{#2018}
+   + 2018 {#2018}
       + [Note sulla versione: Autunno 18](release-notes/2018/release-notes-fall-18.md)
       + [Note sulla versione: Primavera &#39;18](release-notes/2018/release-notes-spring-18.md)
       + [Note sulla versione: Inverno &#39;18](release-notes/2018/release-notes-winter-18.md)
-   + 2017{#2017}
+   + 2017 {#2017}
       + [Note sulla versione: Aprile &#39;17 Miglioramenti ABM](release-notes/2017/release-notes-april-17-abm-enhancements.md)
       + [Note sulla versione: Agosto &#39;17 Miglioramenti ABM](release-notes/2017/release-notes-august-17-abm-enhancements.md)
       + [Note sulla versione: Autunno 17](release-notes/2017/release-notes-fall-17.md)
       + [Note sulla versione: Primavera &#39;17](release-notes/2017/release-notes-spring-17.md)
       + [Note sulla versione: Estate &#39;17](release-notes/2017/release-notes-summer-17.md)
       + [Note sulla versione: Inverno &#39;17](release-notes/2017/release-notes-winter-17.md)
-   + 2016{#2016}
+   + 2016 {#2016}
       + [Note sulla versione: Autunno 16](release-notes/2016/release-notes-fall-16.md)
       + [Note sulla versione: Primavera &#39;16](release-notes/2016/release-notes-spring-16.md)
       + [Note sulla versione: Estate &#39;16](release-notes/2016/release-notes-summer-16.md)
       + [Note sulla versione: Inverno &#39;16](release-notes/2016/release-notes-winter-16.md)
-   + 2015{#2015}
+   + 2015 {#2015}
       + [Note sulla versione: Aprile 2015](release-notes/2015/release-notes-april-2015.md)
       + [Note sulla versione: Autunno 15](release-notes/2015/release-notes-fall-15.md)
       + [Note sulla versione: Febbraio 2015](release-notes/2015/release-notes-february-2015.md)
@@ -1706,7 +1708,7 @@ ht-degree: 0%
       + [Note sulla versione: Giugno 2015](release-notes/2015/release-notes-june-2015.md)
       + [Note sulla versione: Marzo 2015](release-notes/2015/release-notes-march-2015.md)
       + [Note sulla versione: Maggio 2015](release-notes/2015/release-notes-may-2015.md)
-   + 2014{#2014}
+   + 2014 {#2014}
       + [Note sulla versione: Agosto 2014](release-notes/2014/release-notes-august-2014.md)
       + [Note sulla versione: Dicembre 2014](release-notes/2014/release-notes-december-2014.md)
       + [Note sulla versione: Febbraio 2014](release-notes/2014/release-notes-february-2014.md)
@@ -1716,7 +1718,7 @@ ht-degree: 0%
       + [Note sulla versione: Marzo 2014](release-notes/2014/release-notes-march-2014.md)
       + [Note sulla versione: Maggio 2014](release-notes/2014/release-notes-may-2014.md)
       + [Note sulla versione: Ottobre 2014](release-notes/2014/release-notes-october-2014.md)
-   + 2013{#2013}
+   + 2013 {#2013}
       + [Note sulla versione: Aprile 2013](release-notes/2013/release-notes-april-2013.md)
       + [Note sulla versione: Agosto 2013](release-notes/2013/release-notes-august-2013.md)
       + [Note sulla versione: Dicembre 2013](release-notes/2013/release-notes-december-2013.md)
@@ -1728,7 +1730,7 @@ ht-degree: 0%
       + [Note sulla versione: Maggio 2013](release-notes/2013/release-notes-may-2013.md)
       + [Note sulla versione: Ottobre 2013](release-notes/2013/release-notes-october-2013.md)
       + [Note sulla versione: Settembre 2013](release-notes/2013/release-notes-september-2013.md)
-   + 2012{#2012}
+   + 2012 {#2012}
       + [Note sulla versione: Aprile 2012](release-notes/2012/release-notes-april-2012.md)
       + [Note sulla versione: Dicembre 2012](release-notes/2012/release-notes-december-2012.md)
       + [Note sulla versione: Gen/Feb 2012](release-notes/2012/release-notes-jan-feb-2012.md)
