@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Documenti Marketo - Documentazione del prodotto
 title: Glossario di Marketo
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Di seguito sono riportate le definizioni di molti dei termini che potresti incon
    <td colspan="1">Questo termine può avere significati diversi:<br>-La tua istanza Marketo può essere definita il tuo account Marketo.<br>-In  <strong>ABM</strong>, un account  <strong>denominato </strong> Accountis un account che l'utente ha determinato è un account target che desidera perseguire.<br>- In ABM, un account CRM è un account mappato dal tuo  <strong>CRM</strong>  collegato (account in  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamicor  <strong>API</strong>).<br>- Nel tuo CRM, gli account sono l'azienda/azienda a cui sono associati i lead e i contatti.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Marketing basato su account</a>  (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing basato su account</a>  (ABM)</strong></td> 
    <td colspan="1">Funzione aggiuntiva che consente di eseguire il targeting e coinvolgere account chiave in modo altamente coordinato.</td> 
   </tr> 
   <tr> 
@@ -446,7 +446,7 @@ Di seguito sono riportate le definizioni di molti dei termini che potresti incon
  </tbody> 
 </table>
 
-## K {#k}
+## I {#k}
 
 <table> 
  <colgroup> 
