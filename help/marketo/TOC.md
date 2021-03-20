@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '7971'
+source-wordcount: '7986'
 ht-degree: 0%
 
 ---
@@ -599,12 +599,14 @@ ht-degree: 0%
          + [Azioni Salesforce implicite](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Errori di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Stato di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Configurazione di OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
    + Generazione di domanda {#demand-generation}
       + Integrazioni di reti di annunci {#ad-network-integrations}
+         + [Informazioni sulle integrazioni di Ad Network](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Aggiungere Google Customer Match come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Aggiungere tipi di pubblico corrispondenti LinkedIn come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-         + [Informazioni sulle integrazioni di Ad Network](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
+         + [Inviare un elenco a una rete di annunci](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Eventi {#events}
          + Informazioni sugli eventi {#understanding-events}
             + [Aggiunta di membri a un programma evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -801,9 +803,9 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1112,7 +1114,7 @@ ht-degree: 0%
             + [Aggiungi e-mail a Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [Collegamento di un contenuto](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [Funzionalità calendario](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
-            + [Scheda Connessione e-mail per utenti Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+            + [Connessione e-mail per utenti Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail che non effettua il prelievo nella firma di Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [Come aggiungere un modello](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [Come installare l’estensione del browser ToutApp](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
@@ -1124,7 +1126,7 @@ ht-degree: 0%
             + [Barra degli strumenti di vendita Connect](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Errore imprevisto in Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + MSC per Outlook {#msc-for-outlook}
-            + [Scheda Connessione e-mail per utenti di Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)
+            + [Connessione e-mail per utenti di Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
             + Componente aggiuntivo legacy .NET {#net-legacy-add-in}
                + [Panoramica dei componenti aggiuntivi .NET](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Come disinstallare Sales Connect da Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
@@ -1147,8 +1149,8 @@ ht-degree: 0%
             + [E-mail di test non visualizzata come visualizzata](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + Consegna e-mail {#email-delivery}
             + [Panoramica del canale di consegna](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Configurazione di un server SMTP](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
-            + [Impostazione del canale di consegna](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
+            + [Limitazione connessione e-mail](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+            + [Impostazione di un canale di consegna personalizzato](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
             + [Aggiungere un modello o una campagna](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
             + [Aggiungi e-mail a Salesforce da Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
@@ -1313,6 +1315,7 @@ ht-degree: 0%
                + [Configurare i piè di pagina per l’annullamento dell’abbonamento in Approfondimenti vendite Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Blocca modello di vendita](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Pubblicare un&#39;e-mail in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Invia un messaggio e-mail di test](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Azioni in blocco {#bulk-actions}
                + [Aggiungi la scheda Approfondimenti vendite Marketo e i pulsanti a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Azioni collettive in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
@@ -1672,34 +1675,36 @@ ht-degree: 0%
          + [Visualizzare campagne web da un&#39;etichetta specifica](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Note sulla versione {#release-notes}
    + [Pianificazione del rilascio](release-notes/release-schedule.md)
-   + 2020 {#2020}
+   + 2021{#2021}
+      + [Note sulla versione: 21 gennaio](release-notes/2021/release-notes-jan-21.md)
+   + 2020{#2020}
       + [Note sulla versione: Gen. 20](release-notes/2020/release-notes-jan-20.md)
       + [Note sulla versione: Feb. 20](release-notes/2020/release-notes-feb-20.md)
       + [Note sulla versione: Giugno 20](release-notes/2020/release-notes-june-20.md)
       + [Note sulla versione: Luglio 20](release-notes/2020/release-notes-july-20.md)
       + [Note sulla versione: Ott. 20](release-notes/2020/release-notes-oct-20.md)
-   + 2019 {#2019}
+   + 2019{#2019}
       + [Note sulla versione: Agosto &#39;19](release-notes/2019/release-notes-august-19.md)
       + [Note sulla versione: Giugno &#39;19](release-notes/2019/release-notes-june-19.md)
       + [Note sulla versione: Primavera &#39;19](release-notes/2019/release-notes-spring-19.md)
       + [Note sulla versione: Inverno &#39;19](release-notes/2019/release-notes-winter-19.md)
-   + 2018 {#2018}
+   + 2018{#2018}
       + [Note sulla versione: Autunno 18](release-notes/2018/release-notes-fall-18.md)
       + [Note sulla versione: Primavera &#39;18](release-notes/2018/release-notes-spring-18.md)
       + [Note sulla versione: Inverno &#39;18](release-notes/2018/release-notes-winter-18.md)
-   + 2017 {#2017}
+   + 2017{#2017}
       + [Note sulla versione: Aprile &#39;17 Miglioramenti ABM](release-notes/2017/release-notes-april-17-abm-enhancements.md)
       + [Note sulla versione: Agosto &#39;17 Miglioramenti ABM](release-notes/2017/release-notes-august-17-abm-enhancements.md)
       + [Note sulla versione: Autunno 17](release-notes/2017/release-notes-fall-17.md)
       + [Note sulla versione: Primavera &#39;17](release-notes/2017/release-notes-spring-17.md)
       + [Note sulla versione: Estate &#39;17](release-notes/2017/release-notes-summer-17.md)
       + [Note sulla versione: Inverno &#39;17](release-notes/2017/release-notes-winter-17.md)
-   + 2016 {#2016}
+   + 2016{#2016}
       + [Note sulla versione: Autunno 16](release-notes/2016/release-notes-fall-16.md)
       + [Note sulla versione: Primavera &#39;16](release-notes/2016/release-notes-spring-16.md)
       + [Note sulla versione: Estate &#39;16](release-notes/2016/release-notes-summer-16.md)
       + [Note sulla versione: Inverno &#39;16](release-notes/2016/release-notes-winter-16.md)
-   + 2015 {#2015}
+   + 2015{#2015}
       + [Note sulla versione: Aprile 2015](release-notes/2015/release-notes-april-2015.md)
       + [Note sulla versione: Autunno 15](release-notes/2015/release-notes-fall-15.md)
       + [Note sulla versione: Febbraio 2015](release-notes/2015/release-notes-february-2015.md)
@@ -1708,7 +1713,7 @@ ht-degree: 0%
       + [Note sulla versione: Giugno 2015](release-notes/2015/release-notes-june-2015.md)
       + [Note sulla versione: Marzo 2015](release-notes/2015/release-notes-march-2015.md)
       + [Note sulla versione: Maggio 2015](release-notes/2015/release-notes-may-2015.md)
-   + 2014 {#2014}
+   + 2014{#2014}
       + [Note sulla versione: Agosto 2014](release-notes/2014/release-notes-august-2014.md)
       + [Note sulla versione: Dicembre 2014](release-notes/2014/release-notes-december-2014.md)
       + [Note sulla versione: Febbraio 2014](release-notes/2014/release-notes-february-2014.md)
@@ -1718,7 +1723,7 @@ ht-degree: 0%
       + [Note sulla versione: Marzo 2014](release-notes/2014/release-notes-march-2014.md)
       + [Note sulla versione: Maggio 2014](release-notes/2014/release-notes-may-2014.md)
       + [Note sulla versione: Ottobre 2014](release-notes/2014/release-notes-october-2014.md)
-   + 2013 {#2013}
+   + 2013{#2013}
       + [Note sulla versione: Aprile 2013](release-notes/2013/release-notes-april-2013.md)
       + [Note sulla versione: Agosto 2013](release-notes/2013/release-notes-august-2013.md)
       + [Note sulla versione: Dicembre 2013](release-notes/2013/release-notes-december-2013.md)
@@ -1730,7 +1735,7 @@ ht-degree: 0%
       + [Note sulla versione: Maggio 2013](release-notes/2013/release-notes-may-2013.md)
       + [Note sulla versione: Ottobre 2013](release-notes/2013/release-notes-october-2013.md)
       + [Note sulla versione: Settembre 2013](release-notes/2013/release-notes-september-2013.md)
-   + 2012 {#2012}
+   + 2012{#2012}
       + [Note sulla versione: Aprile 2012](release-notes/2012/release-notes-april-2012.md)
       + [Note sulla versione: Dicembre 2012](release-notes/2012/release-notes-december-2012.md)
       + [Note sulla versione: Gen/Feb 2012](release-notes/2012/release-notes-jan-feb-2012.md)
