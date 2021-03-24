@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14352623
-description: Dettagli accesso utente - Documenti Marketo - Documentazione prodotto
+description: Dettagli accesso utente - Documenti Marketo - Documentazione del prodotto
 title: Dettagli accesso utente
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dettagli accesso utente {#user-access-details}
 
-A cosa hanno accesso amministratori e non amministratori?
+A cosa hanno accesso gli amministratori e i non amministratori?
 
 ## Autorizzazioni utente amministratore {#admin-user-permissions}
 
@@ -27,7 +27,7 @@ Gli amministratori possono [visualizzare tutte le campagne](/help/marketo/produc
 
 Gli amministratori possono visualizzare tutte le attività relative alle e-mail.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 Gli amministratori possono vedere tutte le persone in una campagna in corso.
 
@@ -43,21 +43,21 @@ Gli amministratori possono interrompere le campagne per conto degli utenti.
 
 * Analytics:
 
-   * Gli utenti possono visualizzare l&#39;analisi del team
-   * Gli utenti possono esplorare solo i team a cui appartengono
-   * Gli utenti possono visualizzare le proprie analisi
+   * Gli utenti possono visualizzare le analisi del team
+   * Gli utenti possono eseguire il drill-through dei soli team a cui appartengono
+   * Gli utenti possono guardare le proprie analisi
 
 * Pagina Relazioni:
 
    * Gli utenti possono condividere i gruppi con tutti
    * Gli utenti possono condividere i gruppi solo con i team a cui appartengono
-   * Quando un utente viene eliminato, i suoi contatti condivisi trasferiscono la proprietà all&#39;Amministratore principale che ha eliminato l&#39;utente
+   * Quando un utente viene eliminato, i contatti condivisi trasferiscono la proprietà all&#39;amministratore principale che ha eliminato l&#39;utente
 
-* Foto di vendita - Feed successivo e live:
+* Sales Beat - Next and Live Feed:
 
-   * Gli utenti possono visualizzare la visualizzazione &quot;tutti&quot;
-   * Gli utenti possono filtrare in base al team a cui appartengono
-   * Gli utenti possono condividere i post con tutti
+   * Gli utenti possono visualizzare la vista &quot;tutti&quot;
+   * Gli utenti possono filtrare in base ai team a cui appartengono
+   * L&#39;utente può condividere i post con tutti
    * Gli utenti possono condividere i post solo con i team a cui appartengono
 
 * Pagina Gestione team:
@@ -66,7 +66,7 @@ Gli amministratori possono interrompere le campagne per conto degli utenti.
 
 * Pagina Modelli:
 
-   * Gli utenti possono condividere i modelli con tutti
-   * Gli utenti possono condividere i modelli in categorie che gli amministratori consentono di
-   * Quando un utente viene rimosso da un team, i suoi modelli non vengono condivisi con tale team
-   * Quando un utente viene eliminato da un team, i suoi modelli trasferiscono la proprietà all&#39;Amministratore principale che ha eliminato l&#39;utente
+   * Gli utenti possono condividere modelli con tutti
+   * Gli utenti possono condividere i modelli nelle categorie che gli amministratori consentono loro di
+   * Quando un utente viene rimosso da un team, i relativi modelli non vengono condivisi con tale team
+   * Quando un utente viene eliminato da un team, i loro modelli trasferiscono la proprietà all&#39;amministratore principale che ha eliminato l&#39;utente
