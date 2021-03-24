@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11385938
-description: Modifica contenuto predittivo per le e-mail - Documenti Marketo - Documentazione prodotto
-title: Modifica contenuto predittivo per le e-mail
+description: Modifica del contenuto predittivo per le e-mail - Documenti Marketo - Documentazione del prodotto
+title: Modifica del contenuto predittivo per le e-mail
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Ecco come impostare il contenuto predittivo per le e-mail.
 
 >[!PREREQUISITES]
 >
->Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutto il contenuto.
+>Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutti i contenuti.
 
-1. Nella pagina Predictive Content (Contenuto predittivo), fate clic su un titolo per aprire l’editor.
+1. Nella pagina Predictive Content (Contenuto predittivo), fai clic su un titolo per aprire l’editor.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Viene visualizzata la pagina di modifica. **Per** impostazione predefinita viene visualizzata l’e-mail.
+1. Viene visualizzata la pagina di modifica. **** Per impostazione predefinita viene visualizzata l’e-mail.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -31,36 +31,40 @@ Ecco come impostare il contenuto predittivo per le e-mail.
    >
    >Titolo e URL già popolati. Verifica che siano quello che vuoi.
 
-1. Per aggiungere o modificare l&#39;etichetta del pulsante, digitare il testo nella casella di testo a destra.
+1. Per aggiungere/modificare l’etichetta del pulsante, digitare nella casella di testo a destra.
 
    ![](assets/image2017-10-3-9-3a32-3a18.png)
 
    >[!NOTE]
    >
-   >Se l&#39;etichetta del pulsante è stata modificata, verrà aggiornata al momento del salvataggio delle modifiche o dell&#39;anteprima dell&#39;immagine.
+   >Se hai modificato l’etichetta del pulsante, questa viene aggiornata quando salvi le modifiche o visualizzi l’anteprima dell’immagine.
 
-1. Per aggiungere o modificare l&#39;URL dell&#39;immagine, fare clic su **Modifica immagine**.
+1. Per aggiungere o modificare l&#39;URL dell&#39;immagine, fai clic su **Modifica immagine**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
-1. Inserite l&#39;URL dell&#39;immagine e fate clic su **Aggiungi**.
+   >[!CAUTION]
+   >
+   >Per garantire la migliore qualità, l&#39;immagine deve essere di 400x400 pixel o più piccola.
+
+1. Inserisci l&#39;URL dell&#39;immagine e fai clic su **Aggiungi**.
 
    ![](assets/five.png)
 
-1. Fate clic e trascinate il cursore per modificare le dimensioni dell’immagine. Fate clic e trascinate la casella di ritaglio per isolare l’area dell’immagine desiderata. Fare clic su **Anteprima** al termine.
+1. Fai clic e trascina il cursore per modificare le dimensioni dell’immagine. Quindi fai clic e trascina la casella di ritaglio per isolare l’area dell’immagine desiderata che desideri utilizzare. Al termine, fai clic su **Anteprima**.
 
    ![](assets/six.png)
 
-1. Fate clic sulle frecce laterali per scorrere e visualizzare il contenuto in ciascuna anteprima del layout del messaggio e-mail (sono visualizzate due opzioni).
+1. Fai clic sulle frecce sui lati per scorrere e visualizzare il contenuto in ciascuna delle anteprime del layout dell’e-mail (sono visualizzate due opzioni).
 
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Facoltativamente, fare clic sul campo **Categorie** e aggiungere categorie al contenuto. Le opzioni provengono dalle [categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Facoltativamente, fai clic sul campo **Categorie** e aggiungi categorie al contenuto. Le opzioni provengono dalle [categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
-1. Selezionate la casella per abilitare Predictive Content in Email (Contenuto predittivo in E-mail).
+1. Seleziona la casella per abilitare Predictive Content in Email.
 
    ![](assets/nine.png)
 
@@ -70,4 +74,4 @@ Ecco come impostare il contenuto predittivo per le e-mail.
 
    >[!NOTE]
    >
-   >In Editor e-mail Marketo v2.0, potete anche [visualizzare i modelli di layout](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) che utilizzate quando abilitate il contenuto.
+   >In Marketo Email Editor v2.0, è inoltre possibile [visualizzare i modelli di layout](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) utilizzati durante l&#39;abilitazione del contenuto.
