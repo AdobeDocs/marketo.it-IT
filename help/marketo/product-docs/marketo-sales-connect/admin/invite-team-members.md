@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352402
-description: Invito di membri del team - Documenti Marketo - Documentazione prodotto
+description: Invita membri del team - Documenti Marketo - Documentazione del prodotto
 title: Invita membri del team
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Invita membri del team {#invite-team-members}
 
-Aggiungere membri del team è semplice e veloce!
+L&#39;aggiunta di membri del team è facile e veloce!
 
-1. Fare clic sull&#39;icona dell&#39;ingranaggio e selezionare **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/one.png)
 
-1. In Impostazioni amministratore, seleziona **Gestione team**.
+1. In Impostazioni amministratore, seleziona **Gestione utente**.
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. Fare clic su **Invita nuovo utente**.
+1. Fai clic su **Invita utenti**.
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
-1. Inserite gli indirizzi e-mail degli utenti che desiderate aggiungere e fate clic su **Next**.
+1. Inserisci gli indirizzi e-mail degli utenti che desideri aggiungere e fai clic su **Avanti**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, tutti i nuovi membri verranno aggiunti al team Tutti.
+   >Per impostazione predefinita, tutti i nuovi membri verranno aggiunti al team Everyone.
 
 1. Fare clic su **OK**.
 
