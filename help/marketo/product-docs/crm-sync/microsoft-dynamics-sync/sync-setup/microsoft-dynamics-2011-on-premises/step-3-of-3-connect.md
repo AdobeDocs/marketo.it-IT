@@ -1,37 +1,37 @@
 ---
 unique-page-id: 3571809
-description: Passaggio 3 di 3 - Connetti Microsoft Dynamics con Marketo (On-Premises 2011) - Marketo Docs - Documentazione prodotto
-title: Passaggio 3 di 3 - Connetti Microsoft Dynamics con Marketo (On-Premises 2011)
+description: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (On-Premises 2011) - Documenti Marketo - Documentazione del prodotto'
+title: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (On-Premises 2011)'
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
 
-# Passaggio 3 di 3: Connetti Microsoft Dynamics con Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
+# Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-Bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincronizzazione. Quindi, dobbiamo collegare Marketo e Dynamics.
+Bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincronizzazione. Successivamente, è necessario collegare Marketo e Dynamics.
 
 >[!PREREQUISITES]
 >
 >* [Passaggio 1 di 3: Installare la soluzione Marketo (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
->* [Passaggio 2 di 3: Impostazione della sincronizzazione degli utenti di Marketing in Dynamics (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>* [Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-## Immettere le informazioni utente relative alla sincronizzazione delle dinamiche {#enter-dynamics-sync-user-information}
+## Immetti le informazioni utente di Dynamics Sync {#enter-dynamics-sync-user-information}
 
-1. Accedete a Marketo e fate clic su **Admin**.
+1. Accedi a Marketo e fai clic su **Amministratore**.
 
    ![](assets/login-admin.png)
 
-1. Fare clic su **CRM**.
+1. Fai clic su **CRM**.
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
@@ -39,51 +39,53 @@ Bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincronizzaz
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Fare clic su **Modifica** in **Passaggio 1: Immettere le credenziali.**
+1. Fare clic su **Modifica** in **Passaggio 1: Immetti le credenziali.**
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
    >[!CAUTION]
    >
-   >Verificate che le credenziali siano corrette in quanto non sarà possibile ripristinare le modifiche successive dello schema dopo l&#39;invio. Se vengono salvate credenziali errate, dovrete ottenere una nuova iscrizione a Marketo.
+   >Assicurati che le tue credenziali siano corrette in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se vengono salvate le credenziali errate, dovrai ottenere una nuova sottoscrizione Marketo.
 
-1. Immettete il **Nome utente**, **Password** e l&#39;URL CRM **URL**, quindi fate clic su **Salva**.
+1. Immetti il **Nome utente**, **Password** e CRM **URL**, quindi fai clic su **Salva**.
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
    >[!NOTE]
    >
-   >Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere user@domain.com o DOMINIO\utente.
+   >* Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere `user@domain.com` o DOMAIN\user.
+   >* Se non conosci l&#39;URL, [scopri come trovarlo qui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-   >[!TIP]
-   >
-   >Non conosci l&#39;URL? Verrà illustrato come trovare l&#39; [URL del servizio di organizzazione dinamica](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) qui.
 
-## Selezionare i campi da sincronizzare {#select-fields-to-sync}
+## Seleziona campi da sincronizzare {#select-fields-to-sync}
 
-Ora è necessario selezionare i campi sui quali eseguire la sincronizzazione.
+Ora è necessario selezionare i campi su cui si desidera eseguire la sincronizzazione.
 
 1. Fare clic su **Modifica** in **Passaggio 2: Selezionare i campi da sincronizzare.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
-1. Sono presenti campi preselezionati che verranno sincronizzati. Aggiungete altro se lo desiderate, quindi fate clic su **Salva**.
+1. Sono presenti campi preselezionati che verranno sincronizzati. Aggiungi di più, se lo desideri, e fai clic su **Salva**.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
 
+   >[!NOTE]
+   >
+   >Marketo memorizza un riferimento ai campi da sincronizzare. Se elimini un campo in Dynamics, è consigliabile eseguire questa operazione con la funzione [sincronizzazione disabilitata](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Quindi aggiorna lo schema in Marketo modificando e salvando [Seleziona campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+
 ## Campi di sincronizzazione per un filtro personalizzato {#sync-fields-for-a-custom-filter}
 
-Se avete creato un filtro personalizzato, accertatevi di entrare e selezionare i nuovi campi da sincronizzare con Marketo.
+Se hai creato un filtro personalizzato, assicurati di entrare e selezionare i nuovi campi da sincronizzare con Marketo.
 
-1. Accedi ad Admin e seleziona **Microsoft Dynamics**.
+1. Vai ad Amministratore e seleziona **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Fare clic su **Modifica** in Dettagli sincronizzazione campo.
+1. Fare clic su **Modifica** in Dettagli sincronizzazione campi.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scorri verso il basso fino al campo e controllalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fare clic su **Salva**.
+1. Scorri verso il basso fino al campo e controllalo. Il nome effettivo deve essere new_synctomkto ma il nome visualizzato può essere qualsiasi cosa. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 
@@ -95,13 +97,13 @@ Se avete creato un filtro personalizzato, accertatevi di entrare e selezionare i
 
    >[!CAUTION]
    >
-   >Marketo non eseguirà automaticamente la deduplicazione rispetto a una sincronizzazione di Microsoft Dynamics, o quando immetti manualmente persone o lead.
+   >Marketo non eseguirà automaticamente la deduplicazione rispetto a una sincronizzazione di Microsoft Dynamics o quando si immettono manualmente persone o lead.
 
-1. Leggete tutto nella finestra a comparsa, inserite il messaggio e-mail e fate clic su **Avvia sincronizzazione**.
+1. Leggi tutto nella finestra a comparsa, inserisci il tuo messaggio e-mail e fai clic su **Avvia sincronizzazione**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. La prima sincronizzazione potrebbe richiedere alcune ore. Al termine, riceverete una notifica e-mail.
+1. La prima sincronizzazione potrebbe richiedere alcune ore. Al termine riceverai una notifica e-mail.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
