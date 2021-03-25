@@ -2,9 +2,9 @@
 description: Panoramica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ La nuova interfaccia offre funzioni migliorate ed estese di iconografia. Scopri 
 
 **Albero**
 
-Anche l&#39;albero è stato aggiornato. Al momento, tuttavia, il trascinamento e il rilascio non sono disponibili. Tuttavia, puoi comunque spostare le risorse. Scopri come: [Spostamento delle risorse](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+Anche l&#39;albero è stato aggiornato.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Ci sono una tonnellata di nuove funzionalità ad albero disponibili.
   <tr>
    <td>Trascinamento della selezione da un flusso ad albero a un flusso di coinvolgimento</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhhhhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Trascinamento della selezione all’interno della struttura</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Filtrare per tipo e stati della risorsa</td> 
