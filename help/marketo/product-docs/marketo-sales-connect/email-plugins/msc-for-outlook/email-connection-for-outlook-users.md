@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Connessione e-mail per gli utenti di Outlook - Documenti Marketo - Documentazione del prodotto
 title: Connessione e-mail per utenti di Outlook
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&
 
    ![](assets/six-a.png)
 
-   | **Outlook in linea** | Noto anche come Office Online |
-   |---|---|
-   | **Exchange on-premise** | Include Exchange 2013 e 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook in linea</strong></td> 
+      <td>Noto anche come Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange on-premise</strong></td> 
+      <td>Include Exchange 2013 e 2016</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >Al momento, Marketo non supporta gli account Exchange Hybrid.
 
 1. Fare clic su **OK**.
 
@@ -67,7 +80,7 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&
 
    >[!NOTE]
    >
-   >Quando si utilizza Outlook come canale di consegna, non è possibile inviare più di 300 e-mail in blocco alla volta.
+   >Outlook Online (Office365) applica i propri limiti di invio. [Ulteriori informazioni qui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Connessione a Exchange On-Premise {#connecting-to-exchange-on-premise}
 
@@ -97,10 +110,18 @@ La connessione a Exchange On-Premise consente di ricevere il tracciamento delle 
 
    ![](assets/six-b.png)
 
-   | Versione | Descrizione |
-   |---|---|
-   | **Outlook in linea** | Noto anche come Office Online |
-   | **Exchange on-premise** | Include Exchange 2013 e 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook in linea</strong></td> 
+      <td>Noto anche come Exchange Online</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange on-premise</strong></td> 
+      <td>Include Exchange 2013 e 2016</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. Immetti le credenziali e fai clic su **Connetti**.
 
@@ -114,4 +135,4 @@ La connessione a Exchange On-Premise consente di ricevere il tracciamento delle 
 
    >[!NOTE]
    >
-   >Quando si utilizza Outlook come canale di consegna, non è possibile inviare più di 300 e-mail in blocco alla volta.
+   >Quando utilizzi Exchange On-Prem, il team IT stabilirà il limite di invio delle e-mail.
