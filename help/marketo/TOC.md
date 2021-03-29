@@ -1,11 +1,10 @@
 ---
-cloud: experience-cloud
-product: marketo
 audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
+feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
 source-wordcount: '8002'
 ht-degree: 0%
