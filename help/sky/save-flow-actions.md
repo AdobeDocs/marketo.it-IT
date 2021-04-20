@@ -1,30 +1,30 @@
 ---
 title: save-flow-actions
 description: Salva azioni di flusso
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
 # Salva azioni di flusso
 
 <br> 
 
-I passaggi di flusso indicano a Marketo cosa si desidera accadere a un gruppo di persone idonee (le persone scelte nell&#39;elenco avanzato). Il salvataggio di un flusso specifico consente di risparmiare tempo.
+I passaggi del flusso dicono a Marketo cosa si desidera che accada a un gruppo di persone idonee (le persone scelte nell’elenco avanzato). Il salvataggio di un flusso specifico consente di risparmiare tempo.
 
-## Salvataggio delle azioni di flusso
+## Salvataggio delle azioni del flusso
 
-1. In [!UICONTROL Marketing Activities], selezionate la campagna intelligente (o createne una nuova).
+1. In [!UICONTROL Marketing Activities], seleziona la campagna intelligente (o creane una nuova).
 
    ![Immagine uno](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. Dopo aver impostato l&#39;elenco smart, fare clic su **[!UICONTROL Flow]**.
+1. Dopo aver impostato l&#39;elenco smart, fai clic su **[!UICONTROL Flow]**.
 
-   ![Immagine due](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
+   ![Immagine 2](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
 1. Aggiungi le azioni di flusso desiderate.
 
@@ -32,38 +32,38 @@ I passaggi di flusso indicano a Marketo cosa si desidera accadere a un gruppo di
 
    ![Immagine quattro](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Dopo aver aggiunto filtri/attivatori, fai clic sul menu a discesa **[!UICONTROL Smart Campaign Actions]** e seleziona **[!UICONTROL Save New Flow]**.
+1. Dopo aver aggiunto i filtri/trigger, fai clic sul menu a discesa **[!UICONTROL Smart Campaign Actions]** e seleziona **[!UICONTROL Save New Flow]**.
 
    ![Immagine cinque](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Denominate il flusso e fate clic su **[!UICONTROL Save]**.
+1. Denomina il flusso e fai clic su **[!UICONTROL Save]**.
 
    ![Immagine Sei](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
-E hai finito. La prossima volta che create una campagna intelligente, avrete accesso allo stesso insieme esatto di azioni di flusso. Continua a leggere per vedere come accedervi...
+E hai finito. La prossima volta che crei una campagna intelligente, avrai accesso allo stesso set esatto di azioni di flusso. Continua a leggere per vedere come accedervi..
 
-## Utilizzo delle azioni di flusso salvate
+## Utilizzo di azioni di flusso salvate
 
-1. In [!UICONTROL Marketing Activities], selezionate la campagna intelligente (o createne una nuova).
+1. In [!UICONTROL Marketing Activities], seleziona la campagna intelligente (o creane una nuova).
 
    ![Immagine sette](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Fare clic su **[!UICONTROL Flow]**.
+1. Fai clic **[!UICONTROL Flow]**.
 
    ![Immagine otto](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Saved Flows]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Saved Flows]** .
 
-   ![Image Nine](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
+   ![Immagine nove](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
-1. Selezionate e trascinate il mouse sul flusso desiderato.
+1. Seleziona e trascina il flusso desiderato.
 
    ![Immagine dieci](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-10.png)
 
-1. Il flusso viene compilato automaticamente con lo stesso set di azioni. Seguite semplicemente il resto dei normali passaggi della campagna intelligente.
+1. Il flusso si popola automaticamente con lo stesso set di azioni. È sufficiente seguire il resto dei normali passaggi della campagna intelligente.
 
    ![Image Eleven](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-11.png)
 
 >[!CAUTION]
 >
->Il passaggio su un flusso salvato non sostituirà le azioni di flusso esistenti, ma le aggiungerà.
+>Il passaggio a un flusso salvato non sostituirà le azioni di flusso esistenti, ma le aggiungerà.
