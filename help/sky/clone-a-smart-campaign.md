@@ -1,33 +1,33 @@
 ---
 title: clone-a-smart-campaign
-description: Clonare una campagna intelligente
+description: Clonare una campagna avanzata
+exl-id: bec4dfc3-e25a-4c8e-a9aa-67f346bff1ed
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-
-# Clonare una campagna intelligente
+# Clonare una campagna avanzata
 
 <br> 
 
-La duplicazione delle campagne consente di risparmiare tempo. Non è necessario creare tutto da zero, poiché la duplicazione crea una campagna identica con gli stessi filtri e passaggi di flusso per elenchi intelligenti.
+Clonare le campagne ti consente di risparmiare tempo. Non è necessario creare tutto da zero, poiché la clonazione crea una campagna identica con gli stessi filtri e passaggi di flusso dell’elenco smart.
 
-1. Selezionate la campagna da clonare.
+1. Seleziona la campagna da clonare.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. Nell&#39;elenco a discesa Azioni smart Campaign, seleziona **[!UICONTROL Clone]**.
+1. Seleziona **[!UICONTROL Clone]** dal menu a discesa Azioni campagna avanzata.
 
-   ![Immagine due](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
+   ![Immagine 2](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Destination]** e scegliere un programma o una cartella di destinazione.
+1. Fai clic sul menu a discesa **[!UICONTROL Destination]** e scegli un programma o una cartella di destinazione.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
-1. Immettete un nome campagna (e una descrizione/etichette facoltative) e fate clic su **[!UICONTROL Clone]**.
+1. Immetti un Nome campagna (e una descrizione/etichette facoltative) e fai clic su **[!UICONTROL Clone]**.
 
    ![Immagine quattro](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-4.png)
