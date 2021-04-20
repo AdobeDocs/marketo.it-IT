@@ -1,18 +1,18 @@
 ---
 title: marketo-sky-features
-description: Funzioni Marketo Sky
+description: Funzioni di Marketo Sky
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
+# Funzioni di Marketo Sky
 
-# Funzioni Marketo Sky
-
-Qui di seguito troverai le informazioni disponibili in [!DNL Marketo Sky].
+Di seguito trovi le funzioni disponibili in [!DNL Marketo Sky].
 
 ## Navigazione
 
@@ -25,51 +25,51 @@ Qui di seguito troverai le informazioni disponibili in [!DNL Marketo Sky].
 
 ## Personalizzazione
 
-* Widget Marketo Personale
-   * Scadenza Presto
+* Widget Marketo personali
+   * In scadenza a breve
    * Navigazione
    * Stato Marketo
    * Post di blog community
-* Visioni personalizzate sul mio marketing
+* Visualizzazioni personalizzate del mio Marketo
 
 ## Attività di marketing
 
-* Marketing Activities Home
+* Pagina principale delle attività di marketing
    * Programmi e risorse aggiornati di recente
-   * Pianificato Oggi
-   * Totale campagne attivabili
+   * Previsto Oggi
+   * Campagne attive totali
 * Campagne intelligenti
    * Regole salvate
    * Flussi salvati
 * Programmi di coinvolgimento
 * Programmi e-mail
-   * Distribuzione nei report del fuso orario del destinatario
+   * Distribuzione nei report del fuso orario dei destinatari
 * Programmi predefiniti
-* Programmi di eventi
-* Tutti i programmi dispongono di azioni in blocco e scadenza risorsa
+* Programmi eventi
+* Tutti i programmi dispongono di azioni in blocco e di scadenza delle risorse
 * Dettagli area di lavoro
-* Cartelle programma
-* Cartelle campagna (scheda Risultati non inclusa)
-* Pagine dei dettagli risorsa
+* Cartelle del programma
+* Cartelle delle campagne (esclusa la scheda Risultati)
+* Pagine dei dettagli delle risorse
    * E-mail
    * Pagina di destinazione
    * Modulo
    * Elenco statico
-   * Smart List
+   * Elenco avanzato
 * Token
    * Cartelle token
-   * Token collegamento
+   * Token di collegamento
    * Importare token
 
 ## Design Studio
 
-* Pagina principale di Design Studio
+* Home di Design Studio
    * Risorse recenti
    * Trascinare per caricare immagini e file
-* Visualizzazioni elenco per le risorse
-   * Visualizzazione elenco pagine di destinazione
-   * Visualizzazione elenco immagini e file
-* Pagine dei dettagli risorsa
+* Visualizzazioni a elenco per le risorse
+   * Visualizzazione a elenco pagina di destinazione
+   * Visualizzazione a elenco di immagini e file
+* Pagine dei dettagli delle risorse
    * Dettagli e-mail
    * Dettagli pagina di destinazione
    * Dettagli modulo
