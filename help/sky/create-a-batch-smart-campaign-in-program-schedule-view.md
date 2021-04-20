@@ -1,45 +1,45 @@
 ---
 title: create-a-batch-smart-campaign-in-program-view
-description: Creare una campagna in batch nella vista Pianificazione del programma
+description: Creare una campagna avanzata in batch nella vista Pianificazione del programma
+exl-id: 1454d306-77cb-4bc5-9ae0-8a4382637e63
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-
-# Creare una campagna in batch nella vista Pianificazione del programma
+# Creare una campagna avanzata in batch nella vista Pianificazione del programma
 
 <br> 
 
-Puoi creare nuove campagne batch intelligenti direttamente nel calendario.
+Puoi creare nuove campagne avanzate in batch direttamente nel calendario.
 
 >[!NOTE]
 >
->Solo le campagne smart batch possono essere create nella visualizzazione Pianificazione programma. Campagne di trigger non supportate.
+>Nella visualizzazione di pianificazione del programma è possibile creare solo campagne avanzate batch. Le campagne trigger non sono supportate.
 
-1. Selezionare il programma nella struttura ad albero, quindi passare alla scheda **[!UICONTROL Schedule]** in **[!UICONTROL Overview]**.
+1. Seleziona il programma nell&#39;albero, quindi vai alla scheda **[!UICONTROL Schedule]** in **[!UICONTROL Overview]**.
 
    ![Immagine uno](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-1.png)
 
-1. Passa il cursore del mouse sul giorno a cui si desidera aggiungere una voce, quindi fai clic su **[!UICONTROL Add]**.
+1. Passa il puntatore del mouse sul giorno a cui desideri aggiungere una voce, quindi fai clic su **[!UICONTROL Add]**.
 
-   ![Immagine due](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-2.png)
+   ![Immagine 2](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-2.png)
 
    >[!NOTE]
    >
-   >Potete inoltre seguire passaggi simili per creare una campagna in batch intelligente a partire dalle viste Giorno, Settimana o Agenda.
+   >Puoi anche seguire passaggi simili per creare una campagna intelligente in batch dalle visualizzazioni Giorno, Settimana o Ordine del giorno.
 
-1. Immettete un nome per la nuova campagna smart, quindi passate da **[!UICONTROL Type]** a [!UICONTROL Smart Campaign]. È inoltre possibile modificare il **[!UICONTROL Start Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se si desidera rimanere nel calendario dopo la creazione della voce. Fare clic su **[!UICONTROL Save]**.
+1. Immetti un nome per la nuova campagna avanzata, quindi modifica **[!UICONTROL Type]** in [!UICONTROL Smart Campaign]. Puoi anche modificare il **[!UICONTROL Start Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se desideri rimanere nel calendario dopo la creazione della voce. Fai clic **[!UICONTROL Save]**.
 
    ![Immagine tre](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
-1. Ora potete trovare la campagna intelligente nel calendario. Passa il mouse sopra per i dettagli...
+1. È ora possibile trovare la campagna intelligente nel calendario. Passa il puntatore del mouse sopra per i dettagli...
 
    ![Immagine quattro](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-4.png)
 
-...oppure fate clic per aprire la finestra dell&#39;editor.
+...oppure fai clic su per aprire la finestra dell&#39;editor.
 
 ![Immagine cinque](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-5.png)
