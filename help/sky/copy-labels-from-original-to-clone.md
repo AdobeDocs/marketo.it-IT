@@ -1,14 +1,14 @@
 ---
-title: copia-etichette-da-originale-a-clone
+title: copy-label-from-original-to-clone
 description: Copia etichette da originale a clone
+exl-id: 30366a53-bdcf-45dc-8371-d510de60c432
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Copia etichette da originale a clone
 
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 Quando clonate una risorsa, potete copiare tutte le etichette dalla risorsa originale. Ecco come.
 
-1. Fai clic con il pulsante destro del mouse sulla risorsa da clonare nella struttura, quindi fai clic su **[!UICONTROL Clone]** nell&#39;elenco a discesa.
+1. Fai clic con il pulsante destro del mouse sulla risorsa da clonare nella struttura, quindi fai clic su **[!UICONTROL Clone]** nel menu a discesa.
 
    ![Immagine uno](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-1.jpg)
 
-1. Inserite le informazioni per la nuova risorsa clone. Quindi in [!UICONTROL Labels], fare clic su **[!UICONTROL Copy Labels From Original]**.
+1. Immetti le informazioni per la nuova risorsa clone. Quindi in [!UICONTROL Labels], fai clic su **[!UICONTROL Copy Labels From Original]**.
 
-   ![Immagine due](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
+   ![Immagine 2](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-2.jpg)
 
-1. Le etichette copiate vengono compilate automaticamente. Fate clic su **[!UICONTROL Clone]** per terminare la creazione della risorsa.
+1. Le etichette copiate vengono compilate automaticamente. Fai clic su **[!UICONTROL Clone]** per completare la creazione della risorsa.
 
    ![Immagine tre](/help/sky/assets/labels/copy-labels-from-original-to-clone/copy-labels-from-original-to-clone-3.jpg)
 
 >[!NOTE]
 >
->È l’unica posizione in cui è possibile copiare le etichette originali in una risorsa clone. Una volta creata la risorsa clone, sarà possibile copiare solo le etichette della risorsa principale[.](/help/sky/copy-labels-from-parent-to-child.md)
+>Questa è l’unica posizione in cui è possibile copiare le etichette originali in una risorsa clone. Una volta creata la risorsa clone, potrai copiare solo le etichette dalla risorsa principale ](/help/sky/copy-labels-from-parent-to-child.md).[
