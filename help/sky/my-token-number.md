@@ -1,25 +1,25 @@
 ---
 title: my-token-number
 description: Numero token personale
+exl-id: 2ce9aaae-0f06-4201-9a7f-57a8558f703c
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Token personale: Numero
 
 <br> 
 
-Come impostare un token numero da utilizzare nei programmi e nelle cartelle delle campagne.
+Ecco come impostare un token numerico da utilizzare nelle cartelle dei programmi e delle campagne.
 
-1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **Number** nel quadro [!UICONTROL Local Tokens].
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascina un token **Number** nell’ area di lavoro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. Immettete un nome e un numero per il nuovo token. Fare clic su **[!UICONTROL Save]**.
+1. Immetti un nome e un numero per il nuovo token. Fai clic **[!UICONTROL Save]**.
 
-   ![Immagine due](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
+   ![Immagine 2](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
