@@ -1,16 +1,16 @@
 ---
-title: edit-an-entry-in-program-program-view
-description: Modifica di una voce nella vista Pianificazione programma
+title: edit-an-entry-level-in-program-Schedule-view
+description: Modificare una voce nella visualizzazione Pianificazione programma
+exl-id: fb599dc9-f7d9-492e-9841-4b8fcf216824
 translation-type: tm+mt
-source-git-commit: 96839c20e8d6adf2dc87ae050decc73ecb5052e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# Modifica di una voce nella vista Pianificazione programma
+# Modificare una voce nella visualizzazione Pianificazione programma
 
 <br> 
 
@@ -18,9 +18,9 @@ ht-degree: 0%
 
    ![Immagine uno](/help/sky/assets/program-schedule-view/edit-an-entry-in-program-schedule-view/edit-an-entry-in-program-schedule-view-1.png)
 
-1. Nella finestra a comparsa, potete modificare i diversi elementi della voce. Se la voce è una campagna intelligente o un programma e-mail, fare clic sul titolo della voce per aprire la panoramica della campagna o del programma.
+1. Nella finestra a comparsa, puoi modificare i diversi elementi della voce. Se la voce è una campagna intelligente o un programma e-mail, fai clic sul titolo della voce per aprire la panoramica della campagna o del programma.
 
-   ![Immagine due](/help/sky/assets/program-schedule-view/edit-an-entry-in-program-schedule-view/edit-an-entry-in-program-schedule-view-2.png)
+   ![Immagine 2](/help/sky/assets/program-schedule-view/edit-an-entry-in-program-schedule-view/edit-an-entry-in-program-schedule-view-2.png)
 
 >[!NOTE]
 >
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Non è possibile spostare in passato le voci di programmi e-mail e campagne intelligenti già eseguite.
+>Impossibile spostare in passato le voci di campagne e programmi e-mail già eseguite.
