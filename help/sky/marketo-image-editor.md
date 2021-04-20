@@ -1,33 +1,33 @@
 ---
 title: marketo-image-editor
 description: Editor immagini Marketo
+exl-id: 9e1beffc-c89a-4673-a349-2311a7b90706
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-
 # Editor immagini Marketo
 
 <br> 
 
-L&#39;editor di immagini consente di apportare modifiche rapide alle immagini all&#39;interno di [!DNL Marketo].
+L’editor di immagini consente di apportare modifiche rapide e leggere alle immagini all’interno di [!DNL Marketo].
 
-1. In [!DNL Marketo Sky], aprire il [!UICONTROL Design Studio].
+1. In [!DNL Marketo Sky], apri [!UICONTROL Design Studio].
 
    ![Immagine uno](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-1.png)
 
-1. Individuate l&#39;immagine ([!UICONTROL Recent Design Studio Assets] o [!UICONTROL Images & Files]) e fate clic sul nome del file corrispondente.
+1. Individua l&#39;immagine ([!UICONTROL Recent Design Studio Assets] o [!UICONTROL Images & Files]) e fai clic sul nome del file corrispondente.
 
-   ![Immagine due](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
+   ![Immagine 2](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. Fare clic sul pulsante **[!UICONTROL Edit Image]**.
+1. Fai clic sul pulsante **[!UICONTROL Edit Image]** .
 
    ![Immagine tre](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. Scegliere tra diverse funzioni nella barra degli strumenti nella parte superiore. Fare clic su **[!UICONTROL Save]** al termine.
+1. Scegli tra diverse funzioni nella barra degli strumenti nella parte superiore. Al termine, fai clic su **[!UICONTROL Save]** .
 
    ![Immagine quattro](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
