@@ -1,33 +1,33 @@
 ---
 title: create-a-campaign-folder
-description: Creare una cartella campagna
+description: Creare una cartella Campaign
+exl-id: b6687385-2f45-4946-98d2-88138e1e2875
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-
-# Creare una cartella campagna
+# Creare una cartella Campaign
 
 <br> 
 
-Le cartelle delle campagne consentono di mantenere un’area di lavoro ordinata. Seguite questi semplici passi e state andando verso la magia dell&#39;automazione.
+Le cartelle di Campaign ti consentono di mantenere un’area di lavoro ordinata. Segui questi semplici passi e sei sulla strada verso la magia dell&#39;automazione.
 
-1. Fare clic con il pulsante destro del mouse sul globo dell&#39;area di lavoro o su una cartella esistente e selezionare **[!UICONTROL New Campaign Folder]**.
+1. Fai clic con il pulsante destro del mouse sul globo dell’area di lavoro o su una cartella esistente e seleziona **[!UICONTROL New Campaign Folder]**.
 
    ![Immagine uno](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
-1. Scegliete una cartella di destinazione o un programma dal menu a discesa (potete anche scegliere l’area di lavoro corrente) e immettete un nome per la nuova cartella della campagna.
+1. Scegli una cartella di destinazione o un programma dal menu a discesa (puoi anche scegliere l’area di lavoro corrente) e immetti un nome per la nuova cartella della campagna.
 
    ![Immagine uno](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. Facoltativamente, potete aggiungere una descrizione e/o delle etichette alla cartella della campagna. Se create la cartella della campagna all’interno di una cartella esistente, potete anche copiare le etichette dalla risorsa principale. Fare clic su **[!UICONTROL Create]**.
+1. Facoltativamente, puoi aggiungere una descrizione e/o etichette alla cartella della campagna. Se crei la cartella della campagna all’interno di una cartella esistente, puoi anche copiare le etichette dalla risorsa principale. Fai clic **[!UICONTROL Create]**.
 
    ![Immagine uno](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
 >[!NOTE]
 >
->Le descrizioni sono per altri utenti della sottoscrizione. I clienti non visualizzeranno questo messaggio.
+>Le descrizioni sono per altri utenti dell’abbonamento. Il messaggio non verrà visualizzato dai clienti.
