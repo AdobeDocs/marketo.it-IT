@@ -1,37 +1,37 @@
 ---
-title: create-an-Engagement-program
-description: Creazione di un programma di coinvolgimento
+title: create-an-engagement-program
+description: Creare un programma di coinvolgimento
+exl-id: f945ec50-d24e-4059-a748-d387bd9f505a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# Creazione di un programma di coinvolgimento
+# Creare un programma di coinvolgimento
 
 <br> 
 
-Puoi utilizzare i programmi di coinvolgimento in [!DNL Marketo] per realizzare con facilità l&#39;e-mail di supporto.
+Puoi utilizzare i programmi di coinvolgimento in [!DNL Marketo] per sviluppare e-mail con facilità.
 
-1. In [!DNL Marketing Activities], selezionate la cartella in cui desiderate creare il programma di coinvolgimento.
+1. In [!DNL Marketing Activities], seleziona la cartella in cui desideri creare il programma di coinvolgimento.
 
    ![Immagine uno](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Folder Actions]** e selezionare **[!UICONTROL New Program]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Folder Actions]** e seleziona **[!UICONTROL New Program]**.
 
-   ![Immagine due](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
+   ![Immagine 2](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
    >[!NOTE]
    >
    >È inoltre possibile fare clic con il pulsante destro del mouse sulla cartella e selezionare Nuovo programma.
 
-1. Immettere un **[!UICONTROL Name]** e, nel menu a discesa [!UICONTROL Type], selezionare **[!UICONTROL Engagement]**.
+1. Inserisci un **[!UICONTROL Name]** e, nel menu a discesa [!UICONTROL Type], seleziona **[!UICONTROL Engagement]**.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Scegliete [!UICONTROL Workspace] e [!UICONTROL Destination]. Aggiungete [!UICONTROL Description] e [!UICONTROL Labels] facoltativi. Fare clic su **[!UICONTROL Add]** al termine.
+1. Scegli un [!UICONTROL Workspace] e [!UICONTROL Destination]. Aggiungi [!UICONTROL Description] e [!UICONTROL Labels] facoltativi. Al termine, fai clic su **[!UICONTROL Add]** .
 
    ![Immagine quattro](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
