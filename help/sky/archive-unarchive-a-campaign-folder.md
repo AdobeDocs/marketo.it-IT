@@ -1,33 +1,33 @@
 ---
 title: archive-unarchive-a-campaign-folder
-description: 'Archiviare/annullare l''archiviazione di una cartella campagna '
+description: Archiviare/annullare l’archiviazione di una cartella di campagna
+exl-id: eaf688da-2f85-4019-9103-a763438f4892
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
+# Archiviare/annullare l’archiviazione di una cartella di campagna
 
-# Archiviare/annullare l&#39;archiviazione di una cartella campagna
+## Converti in cartella archivio
 
-## Converti in cartella di archiviazione
-
-Fare clic con il pulsante destro del mouse su una cartella e selezionare **[!UICONTROL Convert To Archive Folder]**.
+Fai clic con il pulsante destro del mouse su una cartella e seleziona **[!UICONTROL Convert To Archive Folder]**.
 
 ![Immagine uno](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
-Dopo aver archiviato una cartella, la relativa icona viene sostituita da un archivio file, come illustrato di seguito.
+Una volta archiviata una cartella, la relativa icona verrà modificata in un archivio file, come illustrato di seguito.
 
-![Immagine due](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-2.png)
+![Immagine 2](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-2.png)
 
 >[!NOTE]
 >
->Quando archiviate una cartella:
+>Quando archivi una cartella:
 >
 >* La cartella e le risorse non sono più visibili nei risultati della ricerca.
-   >Se cercate un programma o un evento contenuto in un archivio
+   >Se si cerca un programma o un evento contenuto in un archivio
    >i risultati restituiscono una visualizzazione ridotta dell&#39;archivio
    >cartella.
 >* Le risorse presenti nella cartella non vengono più visualizzate nella funzione di suggerimento automatico.
@@ -37,14 +37,14 @@ Dopo aver archiviato una cartella, la relativa icona viene sostituita da un arch
 
 >
 >
-Le seguenti funzionalità non vengono modificate durante l&#39;archiviazione:
+Le seguenti funzionalità non cambiano durante l’archiviazione:
 >
->* La ricerca globale continua a trovare i risultati nelle cartelle archiviate.
->* Una risorsa in uso continuerà a funzionare anche dopo che è
+>* La ricerca globale trova ancora i risultati in cartelle archiviate.
+>* Una risorsa in uso continuerà a funzionare anche dopo la
    >archiviato.
->* Potete usare un filtro per selezionare le risorse archiviate da usare in
-   >report.
->* Le risorse archiviate non sono disattivate. Devono anche essere
+>* Puoi utilizzare un filtro per selezionare le risorse archiviate da utilizzare in
+   >rapporti.
+>* Le risorse archiviate non sono disattivate. Devono essere
    >disattivato se si desidera che interrompano l&#39;esecuzione.
 
 >
@@ -53,6 +53,6 @@ Le seguenti funzionalità non vengono modificate durante l&#39;archiviazione:
 
 ## Converti in cartella campagna
 
-Per convertire nuovamente una cartella di archivio in una cartella della campagna, fate clic con il pulsante destro del mouse sulla cartella di archivio e selezionate la cartella della campagna dal menu a discesa. L’icona torna all’icona della cartella normale.
+Per convertire nuovamente una cartella di archivio in una cartella della campagna, fai clic con il pulsante destro del mouse sulla cartella di archivio e seleziona la cartella della campagna dal menu a discesa. L’icona torna all’icona della cartella normale.
 
 ![Immagine tre](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-3.png)
