@@ -1,24 +1,24 @@
 ---
 title: Panoramica
 description: Panoramica
+exl-id: 26684ca6-ea77-423f-9434-3fbfaf7ea3ab
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-
-# Documentazione prodotto Marketo Sky
+# Documentazione del prodotto Marketo Sky
 
 ![banner](/help/sky/assets/images/alt-sky-banner.png)
 
-L&#39;interfaccia [!DNL Marketo Sky] utilizza nuove progettazioni, flussi di lavoro e funzionalità per aiutarti a ottenere il massimo da [!DNL Marketo].
+L&#39;interfaccia [!DNL Marketo Sky] utilizza nuove progettazioni, flussi di lavoro e funzionalità per sfruttare al meglio [!DNL Marketo].
 
-## Guida introduttiva
+## Introduzione
 
-* [Elementi disponibili in Marketo Sky](/help/sky/marketo-sky-features.md)
+* [Cosa è disponibile in Marketo Sky](/help/sky/marketo-sky-features.md)
 
 * [Come iniziare](/help/sky/how-to-enable-roles-for-marketo-sky.md)
 
@@ -28,8 +28,8 @@ L&#39;interfaccia [!DNL Marketo Sky] utilizza nuove progettazioni, flussi di lav
 
 * [Salva azioni di flusso](/help/sky/save-flow-actions.md)
 
-* [Salva regole per elenchi avanzati](/help/sky/save-smart-list-rules.md)
+* [Salvare le regole dell’elenco avanzato](/help/sky/save-smart-list-rules.md)
 
-* [Impostazione di un evento Cap](/help/sky/setting-an-event-cap.md)
+* [Impostazione di un valore Cap per eventi](/help/sky/setting-an-event-cap.md)
 
-* [Impostazione Degli Obiettivi Dell’Evento](/help/sky/setting-event-goals.md)
+* [Impostazione degli obiettivi dell’evento](/help/sky/setting-event-goals.md)
