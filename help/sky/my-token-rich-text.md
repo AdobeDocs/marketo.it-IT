@@ -1,25 +1,25 @@
 ---
 title: my-token-rich-text
-description: Testo RTF token personale
+description: Rich Text del mio token
+exl-id: eaf26cd0-6774-4a13-b5c6-1e501fa8154a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Token personale: Rich Text
 
 <br> 
 
-Come impostare un token RTF da utilizzare nei programmi e nelle cartelle delle campagne.
+Ecco come impostare un token Rich Text da utilizzare nelle cartelle dei programmi e delle campagne.
 
-1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **Rich Text** nel quadro [!UICONTROL Local Tokens].
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascina un token **Rich Text** nell’ area di lavoro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
-1. Immettete un nome per il nuovo token, quindi aggiungete il testo desiderato nell’editor. Fare clic su **[!UICONTROL Save]**.
+1. Inserisci un nome per il nuovo token, quindi aggiungi il testo desiderato nell’editor. Fai clic **[!UICONTROL Save]**.
 
-   ![Immagine due](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
+   ![Immagine 2](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
