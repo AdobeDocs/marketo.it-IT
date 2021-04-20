@@ -1,42 +1,42 @@
 ---
-title: add-and-remove-label
+title: etichette add-and-remove
 description: Aggiungi e rimuovi etichette
+exl-id: 9a1664ac-d346-4c0d-badc-0cbca767e740
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Aggiungi e rimuovi etichette
 
-Potete assegnare etichette a qualsiasi risorsa in [!UICONTROL Marketing Activities], semplificando l’organizzazione e la ricerca delle risorse.
+Puoi assegnare le etichette a qualsiasi risorsa in [!UICONTROL Marketing Activities], semplificando l’organizzazione e la ricerca delle risorse.
 
 ## Aggiungi etichette
 
-Per aggiungere nuove etichette a una risorsa, andate alla pagina [!UICONTROL Details] della risorsa nella scheda [!UICONTROL Overview].
+Per aggiungere nuove etichette a una risorsa, passa alla pagina della risorsa [!UICONTROL Details] nella scheda [!UICONTROL Overview] .
 <br> 
 
-Nella sezione [!UICONTROL Labels], fare clic su **[!UICONTROL Add New Labels]**.
+Nella sezione [!UICONTROL Labels] , fai clic su **[!UICONTROL Add New Labels]**.
 
 ![Immagine uno](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Se state aggiungendo un&#39;etichetta che non avete usato in precedenza, immettete il nome dell&#39;etichetta e fate clic su **[!UICONTROL Create New ____]**.
+Se aggiungi un’etichetta che non hai utilizzato in precedenza, immetti il nome dell’etichetta e fai clic su **[!UICONTROL Create New ____]**.
 
-![Immagine due](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
+![Immagine 2](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
-Se si aggiunge un&#39;etichetta già creata altrove, digitare per la ricerca e selezionare quella desiderata dall&#39;elenco a discesa.
+Se aggiungi un’etichetta già creata altrove, digita per cercarla e seleziona quella desiderata dal menu a discesa.
 
 ![Immagine tre](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-3.jpg)
 
 >[!NOTE]
 >
->Scoprite come copiare le etichette da un elemento padre a una risorsa figlia oppure copiare le etichette da un originale a una risorsa clonata.
+>Scopri come copiare le etichette da un elemento padre a una risorsa figlio o copiare le etichette da un originale a una risorsa clonata.
 
 ## Rimuovi etichette
 
-Per rimuovere un&#39;etichetta, fare clic su **[!UICONTROL X]**.
+Per rimuovere un’etichetta, fai clic su **[!UICONTROL X]**.
 
 ![Immagine quattro](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
