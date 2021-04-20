@@ -1,14 +1,14 @@
 ---
-title: see-members-of-an-Engagement
+title: see-Members-of-an-engagement-program
 description: Vedere i membri di un programma di coinvolgimento
+exl-id: 0225b7f2-7546-4f81-9fb8-d4231ab0b23c
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
-
 
 # Vedere i membri di un programma di coinvolgimento
 
@@ -24,10 +24,10 @@ Puoi vedere rapidamente i membri di un programma di coinvolgimento.
 >
 >Il valore della colonna [!UICONTROL Exhausted Content] viene aggiornato dopo ogni cast.
 
-1. Fare clic sulla scheda **[!UICONTROL Members]**.
+1. Fai clic sulla scheda **[!UICONTROL Members]** .
 
-   ![Immagine due](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
+   ![Immagine 2](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL People Actions]** per eseguire diverse funzioni con i membri.
+1. Fai clic sul menu a discesa **[!UICONTROL People Actions]** per eseguire varie funzioni con i tuoi membri.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-3.png)
