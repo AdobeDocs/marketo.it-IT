@@ -1,25 +1,25 @@
 ---
-title: campaign-folder-activity-tab
-description: 'Scheda Attività cartella campagna '
+title: campaign-folder-activities-tab
+description: Scheda Attività cartella Campaign
+exl-id: 8ac1d940-fe79-48ca-a5c4-a65a8867590a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
 # Cartella campagna: Scheda Attività
 
-Trova informazioni chiave sulle campagne nella scheda **[!UICONTROL Activities]**.
+Trova informazioni chiave sulle campagne nella scheda **[!UICONTROL Activities]** .
 
 ![Immagine uno](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-Utilizzate il menu a discesa **[!UICONTROL Filter by]** per filtrare le campagne in base al tipo di attività. Potete anche eseguire ricerche per campagna, tipo di attività, ecc.
+Utilizza il menu a discesa **[!UICONTROL Filter by]** per filtrare le campagne in base al tipo di attività. Puoi anche eseguire ricerche per campagna, tipo di attività, ecc.
 
-![Immagine due](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
+![Immagine 2](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
-Fate clic sull&#39;icona di download in alto a destra per esportare un foglio di calcolo Excel delle attività della campagna.
+Fai clic sull’icona di download in alto a destra per esportare un foglio di calcolo Excel delle attività della campagna.
 
 ![Immagine tre](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-3.png)
