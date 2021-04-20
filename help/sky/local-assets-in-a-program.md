@@ -1,20 +1,20 @@
 ---
 title: local-assets-in-a-program
 description: Risorse locali in un programma
+exl-id: ea7326a8-3892-4bab-95e3-2ad9e1054e41
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
 # Risorse locali in un programma
 
 <br> 
 
-Le risorse locali sono i contenuti che compongono il programma. Le risorse sono personalizzabili e consentono di creare iniziative di marketing automatizzate. Di seguito viene illustrata la maggior parte delle risorse locali che è possibile creare in [!DNL Marketo Sky].
+Le risorse locali sono i contenuti che compongono il programma. Le risorse sono personalizzabili e consentono di creare iniziative di marketing automatizzate. Di seguito è riportata la maggior parte delle risorse locali che puoi creare in [!DNL Marketo Sky].
 
 ![Immagine uno](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
@@ -27,4 +27,4 @@ Le risorse locali sono i contenuti che compongono il programma. Le risorse sono 
 
 >[!IMPORTANT]
 >
->Non tutti i clienti hanno accesso a tutte le risorse disponibili. Per ulteriori informazioni, contattate il rappresentante commerciale di riferimento.
+>Non tutti i clienti hanno accesso a tutte le risorse disponibili. Per ulteriori informazioni, contatta il rappresentante del tuo account.
