@@ -1,45 +1,45 @@
 ---
-title: create-an-email-program-in-program-view
-description: Creare un programma e-mail in visualizzazione Pianificazione programma
+title: create-an-email-program-in-program-Schedule-view
+description: Creare un programma e-mail nella visualizzazione Pianificazione programma
+exl-id: f3538412-8ece-411c-a1ac-6c082088190a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-
-# Creare un programma e-mail in visualizzazione Pianificazione programma
+# Creare un programma e-mail nella visualizzazione Pianificazione programma
 
 <br> 
 
-È possibile creare nuovi programmi e-mail direttamente nella visualizzazione Pianificazione del programma.
+È possibile creare nuovi programmi e-mail direttamente nella vista Pianificazione del programma.
 
-1. Selezionare il programma nella struttura ad albero, quindi passare alla scheda **[!UICONTROL Schedule]** in **[!UICONTROL Overview]**.
+1. Seleziona il programma nell&#39;albero, quindi vai alla scheda **[!UICONTROL Schedule]** in **[!UICONTROL Overview]**.
 
    ![Immagine uno](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
-1. Passa il cursore del mouse sul giorno a cui si desidera aggiungere una voce, quindi fai clic su **[!UICONTROL Add]**.
+1. Passa il puntatore del mouse sul giorno a cui desideri aggiungere una voce, quindi fai clic su **[!UICONTROL Add]**.
 
-   ![Immagine due](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
+   ![Immagine 2](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
 
    >[!NOTE]
    >
-   >Potete inoltre seguire passaggi simili per creare un programma e-mail dalle viste Giorno, Settimana o Agenda.
+   >Puoi anche seguire passaggi simili per creare un programma e-mail dalle visualizzazioni Giorno, Settimana o Ordine del giorno.
 
-1. Immettete un nome per la nuova campagna smart, quindi passate da **[!UICONTROL Type]** a [!UICONTROL Email Program]. È inoltre possibile modificare il **[!UICONTROL Start Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se si desidera rimanere nel calendario dopo la creazione della voce. Fare clic su **[!UICONTROL Save]**.
+1. Immetti un nome per la nuova campagna avanzata, quindi modifica **[!UICONTROL Type]** in [!UICONTROL Email Program]. Puoi anche modificare il **[!UICONTROL Start Date]** e deselezionare **[!UICONTROL Open In Agenda View]** se desideri rimanere nel calendario dopo la creazione della voce. Fai clic **[!UICONTROL Save]**.
 
    ![Immagine tre](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
-1. È ora possibile trovare il programma e-mail nel calendario. Passa il mouse sopra per i dettagli...
+1. È ora possibile trovare il programma e-mail nel calendario. Passa il puntatore del mouse sopra per i dettagli...
 
    ![Immagine quattro](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-4.png)
 
-...oppure fate clic per aprire la finestra dell&#39;editor.
+...oppure fai clic su per aprire la finestra dell&#39;editor.
 
 ![Immagine cinque](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-5.png)
 
 >[!NOTE]
 >
->È possibile creare programmi e-mail all&#39;interno della vista di programmazione del programma in [!DNL Marketo Sky], ma la configurazione effettiva del programma sarà in [!DNL Marketo Classic].
+>È possibile creare programmi e-mail all&#39;interno della visualizzazione della pianificazione del programma in [!DNL Marketo Sky], ma la configurazione effettiva del programma sarà in [!DNL Marketo Classic].
