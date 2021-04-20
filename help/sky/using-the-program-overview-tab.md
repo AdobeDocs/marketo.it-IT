@@ -1,14 +1,14 @@
 ---
 title: using-the-program-overview-tab
 description: Utilizzo della scheda Panoramica del programma
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Utilizzo della scheda Panoramica del programma
 
@@ -18,23 +18,23 @@ Nella scheda [!UICONTROL Program Overview] sono disponibili tre sezioni: **[!UIC
 
 ## Dettagli
 
-Nella pagina dei dettagli principale vengono visualizzate informazioni generali sul programma.
+Nella pagina dei dettagli principali vengono visualizzate informazioni generali sul programma.
 
 ![Immagine uno](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Nella parte inferiore della pagina sono presenti due sezioni: **[!UICONTROL Program Stats]** e **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** mostra le metriche chiave sulle prestazioni del programma ed  **[!UICONTROL Used By]** è un modo semplice per vedere dove viene utilizzato il programma in Marketo.
+Nella parte inferiore della pagina sono presenti due sezioni: **[!UICONTROL Program Stats]** e **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** mostra le metriche chiave sulle prestazioni del programma ed  **[!UICONTROL Used By]** è un modo semplice per vedere dove il programma viene utilizzato in Marketo.
 
-![Immagine due](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
+![Immagine 2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
 ## Pianificazione
 
-La visualizzazione della pianificazione del programma è una funzione potente che consente di creare, spostare e modificare le voci direttamente dal calendario. Potete visualizzare il calendario per giorno, settimana o mese; potete anche visualizzare tutte le voci relative al mese nella pagina dell&#39;ordine del giorno.
+La visualizzazione della pianificazione del programma è una potente funzione che consente di creare, spostare e modificare le voci direttamente dal calendario. È possibile visualizzare il calendario per giorno, settimana o mese; puoi anche vedere tutte le tue iscrizioni per il mese nella pagina dell&#39;ordine del giorno.
 
 ![Immagine tre](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-3.png)
 
-**Tubo profondo**
+**Immersione profonda**
 
-* Scopri come [utilizzare la vista di pianificazione del programma](/help/sky/navigating-program-schedule-view.md).
+* Scopri come [utilizzare la visualizzazione della pianificazione del programma](/help/sky/navigating-program-schedule-view.md).
 
 ## Rapporti
 
