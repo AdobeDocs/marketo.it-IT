@@ -1,36 +1,36 @@
 ---
 title: clone-a-stream
-description: Duplica un flusso
+description: Clona un flusso
+exl-id: 4a588a87-6e5e-4d2d-bd9b-7612f743e1a2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-
-# Duplica un flusso
+# Clona un flusso
 
 <br> 
 
-Duplica un flusso per vari motivi, incluso il test di ordini diversi e cadenze diverse.
+Clona un flusso per vari motivi, tra cui test di ordini diversi e cadenze diverse.
 
-1. Selezionate il programma di coinvolgimento.
+1. Seleziona il tuo programma di coinvolgimento.
 
    ![Immagine uno](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Streams]**.
+1. Fai clic sulla scheda **[!UICONTROL Streams]** .
 
-   ![Immagine due](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
+   ![Immagine 2](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
-1. Fare clic sull&#39;icona dell&#39;ingranaggio del flusso e selezionare **[!UICONTROL Clone]**.
+1. Fai clic sull’icona dell’ingranaggio del flusso e seleziona **[!UICONTROL Clone]**.
 
    ![Immagine tre](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-3.png)
 
 >[!CAUTION]
 >
->Tutto nel flusso è clonato tranne la Cadenza. Ricorda di impostarlo.
+>Tutto nel flusso viene clonato tranne la Cadenza. Ricordatevi di impostarlo.
 
 >[!NOTE]
 >
