@@ -1,25 +1,25 @@
 ---
 title: my-token-score
 description: Punteggio token personale
+exl-id: 3b5177a3-4805-4a98-9874-b5c01833a038
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-
 # Token personale: Punteggio
 
 <br> 
 
-Come impostare un token di punteggio da utilizzare nei programmi e nelle cartelle delle campagne.
+Ecco come impostare un token punteggio da utilizzare nelle cartelle dei programmi e delle campagne.
 
-1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascinare un token **Valutazione** nel quadro [!UICONTROL Local Tokens].
+1. Nella scheda [!UICONTROL My Tokens] del programma o della cartella, trascina un token **Punteggio** nell’ area di lavoro [!UICONTROL Local Tokens].
 
    ![Immagine uno](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
-1. Immettete un nome per il nuovo token, immettete un valore per il punteggio (ad es., -5, +10, =50), quindi fate clic su **[!UICONTROL Save]**.
+1. Inserisci un nome per il nuovo token, immetti un valore di punteggio (ad esempio, -5, +10, =50), quindi fai clic su **[!UICONTROL Save]**.
 
-   ![Immagine due](/help/sky/assets/my-tokens/my-token-score/my-token-score-2.png)
+   ![Immagine 2](/help/sky/assets/my-tokens/my-token-score/my-token-score-2.png)
