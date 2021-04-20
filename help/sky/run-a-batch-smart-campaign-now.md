@@ -1,31 +1,31 @@
 ---
 title: run-a-batch-smart-campaign-now
-description: Esegui subito una campagna smart batch
+description: Esegui subito una campagna avanzata in batch
+exl-id: 2e6b24fc-db7a-4bed-ac41-bd26fea3e8f7
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
-# Esegui subito una campagna smart batch
+# Esegui subito una campagna avanzata in batch
 
 <br> 
 
-Dopo aver creato la campagna batch, potete scegliere di eseguirla subito o in un secondo momento. Ecco come eseguirlo immediatamente.
+Una volta completata la creazione della campagna batch, puoi scegliere di eseguirla subito o successivamente. Ecco come eseguirlo immediatamente.
 
-1. Selezionate la campagna dinamica batch da eseguire.
+1. Seleziona la campagna avanzata batch da eseguire.
 
    ![Immagine uno](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
 1. Vai alla scheda **[!UICONTROL Schedule]** e fai clic su **[!UICONTROL Add Run]**.
 
-   ![Immagine due](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
+   ![Immagine 2](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. Assicurarsi che **[!UICONTROL Run Now]** sia selezionato e fare clic su **[!UICONTROL Confirm]**.
+1. Assicurati che sia selezionato **[!UICONTROL Run Now]** e fai clic su **[!UICONTROL Confirm]**.
 
    ![Immagine tre](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
-Ed è tutto. È inoltre possibile eseguire [programmazioni per le esecuzioni successive](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later), se lo si preferisce.
+Ed è tutto. Puoi anche [pianificare le esecuzioni per versioni successive](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) se lo desideri.
