@@ -1,56 +1,56 @@
 ---
-title: comprensivo di campagne intelligenti batch e trigger
-description: Informazioni sulle campagne in batch e di attivazione
+title: Understanding-batch-and-trigger-smart-campagne
+description: Campagne avanzate in batch e trigger
+exl-id: 54f38ecc-1b4c-4944-9f42-d8c1190c99d0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-
-# Informazioni sulle campagne in batch e di attivazione
+# Campagne avanzate in batch e trigger
 
 <br> 
 
 Esistono due tipi di campagne intelligenti: Batch e Trigger.
 
-## Batch Smart Campaign
+## Campagna avanzata in batch
 
-Una campagna batch viene avviata in un momento specifico e interessa un set specifico di persone tutte contemporaneamente. Un esempio potrebbe essere l&#39;invio di un&#39;e-mail a tutti coloro che vivono in California nel vostro database.
+Una campagna batch viene avviata in un momento specifico e influisce su un set specifico di persone tutte contemporaneamente. Un esempio potrebbe essere l&#39;invio di un&#39;e-mail a tutti coloro che vivono in California nel tuo database.
 
-Le campagne smart in batch includeranno solo filtri nella sezione degli elenchi smart (ovvero, nessun trigger).
+Le campagne smart in batch avranno solo filtri all’interno della sezione dell’elenco avanzato (ovvero, nessun trigger).
 
 ![Immagine uno](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Facendo clic sulla scheda **[!UICONTROL Schedule]** si verificherà che la campagna intelligente sia impostata su &quot;Batch&quot;.
+Facendo clic sulla scheda **[!UICONTROL Schedule]** verrà confermato che la campagna avanzata è impostata su &quot;Batch&quot;.
 
-![Immagine due](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
+![Immagine 2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
-**Campagne intelligenti in batch**
+**Campagne avanzate in batch**
 
-* Può essere pianificato per le ricorrenze, ad esempio giornaliere, settimanali e mensili. Potete anche farli correre una sola volta.
-* Sono visibili nella [vista programmazione programma](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
-* Tutto ciò che segue un passaggio &quot;Wait&quot; all&#39;interno della campagna intelligente non verrà incluso nella vista.
+* Può essere pianificato per le ricorrenze, ad esempio giornaliere, settimanali e mensili. Puoi anche farli funzionare una sola volta.
+* Sono visibili nella [visualizzazione programmazione programma](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
+* Qualsiasi elemento dopo un passaggio &quot;Wait&quot; (Attendi) all’interno della campagna intelligente non verrà incluso nella visualizzazione.
 
-## Attivate Smart Campaign
+## Trigger di una campagna avanzata
 
-Una campagna intelligente di attivazione interessa una persona alla volta in base a un evento attivato. Un esempio di attivatore potrebbe consistere nel fare clic su un collegamento in un messaggio e-mail.
+Una campagna avanzata di attivazione interessa una persona alla volta in base a un evento attivato. Un esempio di trigger potrebbe essere fare clic su un collegamento in un’e-mail.
 
-Se una campagna intelligente utilizza almeno un trigger all&#39;interno della sezione dell&#39;elenco smart, la modalità verrà automaticamente attivata.
+Se una campagna intelligente utilizza almeno un trigger all’interno della sezione dell’elenco avanzato, la modalità verrà automaticamente impostata su attivata.
 
 ![Immagine tre](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Facendo clic sulla scheda **[!UICONTROL Schedule]** si verificherà che la campagna intelligente sia impostata su &quot;Trigger&quot;.
+Fai clic sulla scheda **[!UICONTROL Schedule]** per confermare che la campagna avanzata è impostata su &quot;Attivatore&quot;.
 
 ![Immagine quattro](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**Attiva campagne intelligenti**
+**Attivazione di campagne avanzate**
 
-* Impossibile pianificare le ricorrenze. Possono essere impostati solo su attivi o inattivi.
-* È possibile impostare più attivatori. Tuttavia, se viene attivato _qualsiasi trigger_, le azioni della campagna verranno eseguite.
+* Impossibile pianificare le ricorrenze. Possono essere impostati solo su attivo o inattivo.
+* È possibile impostare più di un trigger. Tuttavia, se viene attivato un trigger _qualsiasi_, le azioni della campagna verranno eseguite.
 
 >[!TIP]
 >
->Utilizzate il [registro attività](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Potete trovare il registro attività nell&#39;ultima scheda della pagina dei dettagli di una persona.
+>Utilizza il [registro attività](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Puoi trovare il registro attività nell’ultima scheda della pagina dei dettagli di una persona.
