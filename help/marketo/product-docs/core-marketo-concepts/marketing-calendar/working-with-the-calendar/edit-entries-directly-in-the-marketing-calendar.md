@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2953352
-description: Modifica Delle Voci Direttamente Nel Calendario Di Marketing - Documenti Marketo - Documentazione Del Prodotto
-title: Modificare Le Voci Direttamente Nel Calendario Di Marketing
+description: Modificare Le Voci Direttamente Nel Calendario Di Marketing - Marketo Docs - Documentazione Del Prodotto
+title: Modificare le voci direttamente nel calendario di marketing
+exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
+# Modifica Le Voci Direttamente Nel Calendario Di Marketing {#edit-entries-directly-in-the-marketing-calendar}
 
-# Modifica delle voci direttamente nel calendario di marketing {#edit-entries-directly-in-the-marketing-calendar}
+Una volta in modalità di attivazione del programma, è possibile apportare rapidamente modifiche alle voci del calendario. Ecco come.
 
-Una volta attiva la modalità di attivazione del programma, è possibile apportare rapidamente modifiche alle voci del calendario. Ecco come.
-
-## Attiva programma {#enable-program-focus}
+## Attiva il focus del programma {#enable-program-focus}
 
 1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selezionare una voce che appartiene al programma su cui si desidera concentrarsi e fare clic su **Show Program Focus**.
+1. Selezionare una voce che appartiene al programma su cui si desidera mettere a fuoco e fare clic su **Mostra focus programma**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## Riprogrammare la voce {#reschedule-entry}
+## Riprogramma voce {#reschedule-entry}
 
-1. È sufficiente trascinare e rilasciare una voce per riprogrammarla.
+1. Trascina e rilascia una voce per riprogrammarla.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -37,13 +37,13 @@ Una volta attiva la modalità di attivazione del programma, è possibile apporta
 
    ![](assets/image2014-10-20-13-3a16-3a31.png)
 
-1. Modificate il nome della voce.
+1. Modifica il nome della voce.
 
    ![](assets/image2014-10-20-13-3a16-3a42.png)
 
    >[!TIP]
    >
-   >Potete anche modificare la descrizione.
+   >Puoi anche modificare la descrizione.
    >
    >![](assets/image2014-10-20-13-3a16-3a56.png)
 
@@ -51,7 +51,7 @@ Una volta attiva la modalità di attivazione del programma, è possibile apporta
 
 Dopo aver inserito rapidamente le voci di base, è possibile convertirle nel modulo finale.
 
-1. Individuate e selezionate la voce di base da convertire e modificatene il tipo.
+1. Trova e seleziona la voce di base da convertire e modificane il tipo.
 
    ![](assets/image2014-10-20-13-3a18-3a38.png)
 
@@ -63,8 +63,8 @@ Dopo aver inserito rapidamente le voci di base, è possibile convertirle nel mod
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-È tutto! Come potete vedere, potete fare molte cose direttamente dal calendario di marketing.
+Tutto qui! Come puoi vedere, puoi fare molte cose direttamente dal Calendario marketing.
 
 >[!MORELIKETHIS]
 >
->[Elimina Voci Direttamente Nel Calendario Di Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>[Eliminare Le Voci Direttamente Nel Calendario Di Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
