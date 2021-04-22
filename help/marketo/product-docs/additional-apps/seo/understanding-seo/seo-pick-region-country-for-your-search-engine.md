@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949190
-description: SEO - Scegli regione/Paese per il tuo motore di ricerca - Marketo Docs - Documentazione prodotto
-title: SEO - Scegli regione/Paese per il motore di ricerca
+description: SEO - Scegli regione/paese per il tuo motore di ricerca - Marketo Docs - Documentazione del prodotto
+title: SEO - Scegli regione/paese per il tuo motore di ricerca
+exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
+# SEO - Scegli regione/paese per il motore di ricerca {#seo-pick-region-country-for-your-search-engine}
 
-# SEO - Scegli regione/Paese per il motore di ricerca {#seo-pick-region-country-for-your-search-engine}
-
-Gli amministratori SEO potranno scegliere la regione per il motore di ricerca che si desidera ottenere informazioni sul livello delle parole chiave.
+Gli amministratori SEO saranno in grado di scegliere la regione per il motore di ricerca che si desidera ottenere informazioni di classificazione delle parole chiave.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate alla sezione **Admin**.
+1. Vai alla sezione **Amministratore** .
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
@@ -27,15 +27,15 @@ Gli amministratori SEO potranno scegliere la regione per il motore di ricerca ch
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Selezionare il paese/città per il quale si desidera ottimizzare e fare clic su **Salva**.
+1. Selezionare il paese o la città per cui si desidera ottimizzare e fare clic su **Salva**.
 
 >[!NOTE]
 >
->Per impostazione predefinita, è possibile utilizzare un paese per un motore di ricerca. Per maggiori informazioni, contatta il tuo rappresentante commerciale.
+>Per impostazione predefinita, è possibile utilizzare un paese per un motore di ricerca. Se hai bisogno di più, contatta il tuo rappresentante commerciale.
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-Ottimo lavoro. Verranno ora visualizzate le classifiche delle parole chiave per il paese o la città di vostra scelta.
+Ottimo lavoro. Ora vedrai le classifiche delle parole chiave per il paese o la città a tua scelta.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
