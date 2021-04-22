@@ -1,41 +1,41 @@
 ---
 unique-page-id: 4720779
-description: Cartelle - Documenti Marketo - Documentazione prodotto
-title: Cartelle
+description: Informazioni sulle cartelle - Documenti Marketo - Documentazione del prodotto
+title: Informazioni sulle cartelle
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
+# Cartelle {#understanding-folders}
 
-# Informazioni sulle cartelle {#understanding-folders}
-
-Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse intelligenti. Sono diverse dalle cartelle [delle campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse avanzate. Sono diverse dalle [cartelle delle campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Creare una cartella {#create-a-folder}
 
-1. Andate all&#39;area **Attività di marketing**.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Fare clic con il pulsante destro del mouse su un programma e selezionare **Nuova cartella**.
+1. Fai clic con il pulsante destro del mouse su un programma e seleziona **Nuova cartella**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Assegnare un nome alla nuova cartella e premere **Invio**.
+1. Denomina la nuova cartella e premi **Invio**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
 Fantastico! Ora è disponibile una nuova cartella in cui memorizzare le risorse locali.
 
-## Rinominare una cartella {#rename-a-folder}
+## Rinomina una cartella {#rename-a-folder}
 
 Va bene cambiare idea.
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **Rinomina cartella**.
+1. Fai clic con il pulsante destro del mouse sulla cartella e seleziona **Rinomina cartella**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -49,9 +49,9 @@ Va bene cambiare idea.
 
 >[!NOTE]
 >
->Prima di eliminarla, verificate che la cartella sia vuota.
+>Assicurati che la cartella sia vuota prima di eliminarla.
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **Elimina cartella**.
+1. Fai clic con il pulsante destro del mouse sulla cartella e seleziona **Elimina cartella**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
@@ -59,20 +59,20 @@ Va bene cambiare idea.
 
 ## Archiviare una cartella {#archive-a-folder}
 
-In Marketo è possibile convertire le cartelle esistenti in cartelle di archiviazione. Le cartelle di archiviazione esistono in Marketing Activities (Attività marketing), Database (Database) e Design Studio.
+In Marketo è possibile convertire cartelle esistenti in cartelle di archiviazione. Le cartelle di archiviazione esistono in Attività di marketing, Database e Design Studio.
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 
-Quando archiviate una cartella:
+Quando archivi una cartella:
 
-* La cartella e le risorse non sono più visibili nei risultati della ricerca. Se cercate un programma o un evento all’interno di una cartella archiviata, i risultati restituiscono una visualizzazione ridotta della cartella archiviata
-* Le risorse presenti nella cartella non vengono più visualizzate nella finestra Suggerimento automatico
-* I modelli archiviati non sono disponibili quando si crea un&#39;e-mail o una pagina di destinazione in Design Studio
+* La cartella e le risorse non sono più visibili nei risultati della ricerca. Se si cerca un programma o un evento contenuto in una cartella archiviata, i risultati restituiscono una visualizzazione ridotta della cartella archiviata
+* Le risorse presenti nella cartella non vengono più visualizzate in Suggerimento automatico
+* I modelli archiviati non sono disponibili quando si crea un messaggio e-mail o una pagina di destinazione in Design Studio
 * Le pagine archiviate non possono essere utilizzate nei gruppi di test delle pagine di destinazione
 
 Funzionalità che **non** cambia durante l&#39;archiviazione:
 
-* La ricerca globale continua a trovare risultati nelle cartelle archiviate
+* La ricerca globale trova ancora i risultati in cartelle archiviate
 * Una risorsa in uso continuerà a funzionare anche dopo l’archiviazione
-* Potete usare un filtro per selezionare le risorse archiviate da usare nei rapporti
+* Puoi utilizzare un filtro per selezionare le risorse archiviate da utilizzare nei rapporti
 * Le risorse archiviate non sono disattivate. Devono anche essere disattivati se si desidera che smettano di funzionare
