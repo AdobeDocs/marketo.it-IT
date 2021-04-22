@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360222
-description: Abilita limiti di comunicazione - Documenti Marketo - Documentazione del prodotto
+description: Abilita i limiti di comunicazione - Documentazione di Marketo - Documentazione del prodotto
 title: Abilita limiti di comunicazione
+exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
 # Abilita limiti di comunicazione {#enable-communication-limits}
 
-È molto importante non comunicare troppo con la tua gente. L&#39;impostazione di limiti di comunicazione eviterà all&#39;organizzazione di inviare troppi messaggi e-mail.
+È molto importante non comunicare troppo con le persone. L’impostazione dei limiti di comunicazione impedirà alla tua organizzazione di inviare troppe e-mail.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fare clic su **Limiti di comunicazione**.
+1. In **Amministratore**, fai clic su **Limiti di comunicazione**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
 
@@ -29,21 +29,21 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Per giorno si basa sul giorno del calendario nel fuso orario dell&#39;iscrizione (mezzanotte-mezzanotte).
+   >Al giorno si basa sul giorno del calendario nel fuso orario dell’abbonamento (mezzanotte-mezzanotte).
 
-1. Fare clic sul menu a discesa **Per giorno** e selezionare il limite desiderato. In questo esempio scegliamo 1.
+1. Fai clic sul menu a discesa **Per giorno** e seleziona il limite desiderato. In questo esempio scegliamo 1.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Potete anche scegliere **Personalizzato** se nessuna delle opzioni del predefinito funziona.
+   >Puoi anche scegliere **Personalizzato** se nessuna delle opzioni preimpostate funziona.
 
-1. Fare clic sul menu a discesa **Per 7 Days** e selezionare il limite desiderato. In questo esempio scegliamo 5.
+1. Fai clic sul menu a discesa **Per 7 giorni** e seleziona il limite desiderato. In questo esempio scegliamo 5.
 
    ![](assets/four.png)
 
-1. Selezionare **Blocca e-mail non operative**.
+1. Seleziona **Blocca e-mail non operative**.
 
    ![](assets/five.png)
 
@@ -63,8 +63,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >I limiti di comunicazione si applicano automaticamente a tutti i programmi e-mail e di coinvolgimento.
+   >I limiti di comunicazione si applicano automaticamente a tutti i programmi di e-mail e di coinvolgimento.
 
 >[!MORELIKETHIS]
 >
->[Applica limiti di comunicazione a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Applicare limiti di comunicazione a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
