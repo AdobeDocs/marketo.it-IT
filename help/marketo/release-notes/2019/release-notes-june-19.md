@@ -1,19 +1,19 @@
 ---
 unique-page-id: 18874822
-description: Note sulla versione - Giugno 2019 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - 19 giugno - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Giugno 2019
+exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Giugno &#39;19 {#release-notes-june}
 
-Le seguenti funzionalità sono incluse nella versione del 19 giugno. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione del 19 giugno. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 **_Versioni trimestrali_**
 
@@ -30,7 +30,7 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 
 ## Marketing basato su account {#account-based-marketing}
 
-* **Corrispondenza account LinkedIn (BETA)** : È ora disponibile una nuova funzionalità ABM in versione beta che ti consente di inviare elenchi di account noti e di spazi bianchi direttamente da Marketo a LinkedIn. Questa funzionalità è inclusa automaticamente per tutti i clienti Marketo ABM.
+* **Corrispondenza account linkedIn (BETA)** : È ora disponibile una nuova funzionalità ABM in versione beta, che consente di inviare elenchi di account noti e di spazi bianchi direttamente da Marketo a LinkedIn. Questa funzionalità viene inclusa automaticamente per tutti i clienti Marketo ABM.
 
 <br> 
 
@@ -40,7 +40,7 @@ Si prevede che le seguenti funzionalità verranno rilasciate durante il secondo 
 
 ## Marketo Sky {#marketo-sky}
 
-* **Gli eventi** Capsabbia  **evento** Goal sono generalmente disponibili in Marketo Sky sotto il componente aggiuntivo Premium Events.
+* **Gli eventi** Capss  **evento** sono generalmente disponibili in Marketo Sky sotto il componente aggiuntivo Premium Events.
 
    * Caps evento: Ottimizza l’esperienza del cliente per i tuoi eventi e webinar con i caps di registrazione, i reindirizzamenti di pagina e la funzionalità di elenco in attesa.
    * Obiettivi dell&#39;evento: Impostare gli obiettivi di registrazione e partecipazione degli eventi e tenere traccia dell&#39;avanzamento in tempo reale.
@@ -48,12 +48,12 @@ Si prevede che le seguenti funzionalità verranno rilasciate durante il secondo 
 * **Collegamenti** di navigazione completi: Abbiamo abilitato la navigazione per tutte le applicazioni autorizzate, come Hootsuite, Calendar e altro ancora.
 * **Visualizzazioni** di e-mail, pagina di destinazione, frammento, modulo, immagine ed elenco di file: Visualizza, cerca ed esegue azioni di massa su una qualsiasi delle tue risorse in Design Studio.
 * **Pagina** Dettagli immagine, file e frammento: Ottieni dettagli rapidi sulle tue risorse con metadati come  _creati at/_ by e azioni come  __ eliminazione e  _approvazione_.
-* **Widget** dei post di blog community: Accedi ai post recenti della community all&#39;interno di My Marketo.
+* **Widget** dei post di blog community: Accedi ai post recenti della community in My Marketo.
 * **Widget** in scadenza a breve: Aggiungi il widget &quot;In scadenza&quot; al dashboard My Marketo per vedere quali campagne e pagine di destinazione sono impostate per la scadenza successiva.
 * **Schede** elenco più avanzate: Segmenta ed esegui il targeting in modo appropriato con schede di elenchi avanzati aggiuntive, tra cui passaggio di flusso &quot;Crea attività&quot;, regole di elenchi smart di gestione delle relazioni con i clienti e altro ancora.
 * **Pagina** Dettagli campione e-mail/sfida: Visualizzare dati come criteri vincenti, creati a, ecc. dai test del campione e-mail/dello sfidante.
 
-## Marketing Sales Connect {#marketo-sales-connect}
+## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Azioni collettive nella personalizzazione** di Salesforce: Ottimizza la produttività inviando e-mail e aggiungendo contatti a campagne in blocco con Personalizzazione Salesforce.
 * **Impostazioni - Pagina Salesforce per amministratori e non amministratori**: Gestisci l&#39;istanza di Sales Connect con una vista chiara dell&#39;istanza Salesforce connessa a Sales Connect e agli aggiornamenti di My Email to Salesforce. Le impostazioni di sincronizzazione migliorate per amministratori, non amministratori e Team Wide Sync verranno rilasciate nei prossimi mesi.
