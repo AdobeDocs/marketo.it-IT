@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360281
-description: Eliminazione di un canale di programma - Marketo Docs - Documentazione di prodotto
-title: Eliminare un canale di programma
+description: Eliminare un canale del programma - Documentazione di Marketo - Documentazione del prodotto
+title: Eliminare un canale del programma
+exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-
 # Eliminare un canale del programma {#delete-a-program-channel}
 
-I canali di programma sono una raccolta di stati o punti di controllo che i lead dovrebbero attraversare in un programma.
+I canali di programma sono una raccolta di stati o i lead dei punti di controllo devono passare attraverso in un programma.
 
 Se ne fai uno per caso o non ne hai più bisogno, puoi cancellarlo.
 
-1. Andate alla sezione **Admin**.
+1. Vai alla sezione **Amministratore** .
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -29,7 +29,7 @@ Se ne fai uno per caso o non ne hai più bisogno, puoi cancellarlo.
 
    >[!TIP]
    >
-   >Se il canale è associato a uno o più programmi, non puoi eliminare, ma solo nascondere.
+   >Se il canale è associato a uno o più programmi, non puoi eliminarlo, ma solo nasconderlo.
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
