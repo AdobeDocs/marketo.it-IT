@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147324
-description: Cancella valori dei campi - Documenti Marketo - Documentazione prodotto
+description: Valori dei campi chiari - Documenti Marketo - Documentazione del prodotto
 title: Cancella valori campo
+exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
 # Cancella valori campo {#clear-field-values}
 
-[Cambiare il ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valore dei dati è fantastico, ma come  __ rimuovere completamente il valore? Buona domanda!
+[Cambiare il ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valore dei dati è ottimo, ma come si  __ rimuove completamente il valore? Buona domanda!
 
-1. Nel passaggio di flusso, scegliete il campo da cancellare e digitate in **NULL** (tutti caps) come **Nuovo valore**.
+1. Nel passaggio di flusso, scegli il campo da cancellare e digita **NULL** (tutti i maiuscoli) come **Nuovo valore**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Lasciare vuoto il nuovo valore o semplicemente immettere SPACE non svuoterà il campo. È necessario digitare NULL. Inoltre, ricordate, i passaggi di flusso non possono essere annullati dopo l&#39;esecuzione.
+   >Lasciando vuoto il nuovo valore o semplicemente immettendo uno SPACE, il campo non verrà svuotato. Devi digitare NULL. Inoltre, ricorda, i passaggi di flusso non possono essere annullati dopo l’esecuzione.
