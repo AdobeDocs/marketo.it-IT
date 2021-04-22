@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504739
-description: Installa Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3 - Documenti Marketo - Documentazione del prodotto
-title: Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3
+description: Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3 - Marketo Docs - Documentazione del prodotto
+title: Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3
+exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # Passaggio 2 di 3: configurare Marketo per Dynamics (On-Prem 2015 e On-Prem 2016 365){#step-of-set-up-for-marketo-on-premises-and-365}
 
@@ -17,15 +17,15 @@ Ottimo lavoro per completare i passaggi precedenti. Continuiamo a muoverci.
 
 >[!PREREQUISITES]
 >
->[Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## Assegna ruolo utente di sincronizzazione {#assign-sync-user-role}
 
-Assegna il ruolo Utente sincronizzazione Marketo solo all’utente di sincronizzazione Marketo. Non è necessario assegnarlo ad altri utenti.
+Assegna il ruolo utente di sincronizzazione Marketo solo all&#39;utente di sincronizzazione Marketo. Non è necessario assegnarlo ad altri utenti.
 
 >[!NOTE]
 >
->Questo vale per Marketo versione 4.0.0.14 e successive. Per le versioni precedenti, tutti gli utenti devono avere il ruolo utente di sincronizzazione. Per aggiornare Marketo, consulta [Aggiornare la soluzione Marketo per Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Questo vale per la versione 4.0.0.14 e successive di Marketo. Per le versioni precedenti, tutti gli utenti devono avere il ruolo utente di sincronizzazione. Per aggiornare il Marketo, consulta [Aggiornare la soluzione Marketo per Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. In **Impostazioni**, fai clic su **Sicurezza**.
 
@@ -43,7 +43,7 @@ Assegna il ruolo Utente sincronizzazione Marketo solo all’utente di sincronizz
 
    ![](assets/assign4.png)
 
-   Selezionare Utente sincronizzazione Marketo e fare clic su OK.
+   Selezionare Marketo Sync User e fare clic su OK.
 
    ![](assets/assign5.png)
 
@@ -65,7 +65,7 @@ Quasi finito! Abbiamo solo qualche ultima configurazione prima di passare al pro
 
    >[!NOTE]
    >
-   >Se manca la configurazione Marketo, prova ad aggiornare la pagina. Se il problema persiste, [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) oppure provare a disconnettersi e riprovare.
+   >Se manca la configurazione Marketo, prova ad aggiornare la pagina. Se il problema persiste, [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) oppure provare a disconnettersi ed effettuare nuovamente l&#39;accesso.
 
 1. Fare clic su **Predefinito**.
 
@@ -91,4 +91,4 @@ Quasi finito! Abbiamo solo qualche ultima configurazione prima di passare al pro
 
 >[!MORELIKETHIS]
 >
->[Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 3 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+>[Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 3 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
