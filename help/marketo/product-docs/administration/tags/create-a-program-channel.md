@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950682
-description: Creare un canale di programma - Marketo Docs - Documentazione di prodotto
-title: Creare un canale di programma
+description: Creare un canale del programma - Documentazione di Marketo - Documentazione del prodotto
+title: Creare un canale del programma
+exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
+# Creare un canale del programma {#create-a-program-channel}
 
-# Creare un canale di programma {#create-a-program-channel}
-
-Un programma è una specifica iniziativa di marketing. Il canale deve essere il meccanismo di consegna, come Webinar o Sponsorship o Online Ad.
+Un programma è una specifica iniziativa di marketing. Il canale deve essere il meccanismo di consegna, ad esempio Webinar o Sponsorship o Online Ad.
 
 >[!NOTE]
 >
@@ -21,21 +21,21 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 >[!NOTE]
 >
->Scopri di più su [programs](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l&#39;elemento più importante di Marketo.
+>Ulteriori informazioni su [programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l&#39;elemento più importante in Marketo.
 
-1. Nella sezione **Admin**, fare clic su **Tags**.
+1. Nella sezione **Amministratore**, fai clic su **Tag**.
 
    ![](assets/image2014-9-24-12-3a57-3a27.png)
 
    >[!NOTE]
    >
-   >Perché i tag? Un canale è un modo per descrivere un programma, proprio come altri tag. Il canale dispone di particolari funzioni aggiuntive.
+   >Perché i tag? Un canale è un modo per descrivere un programma, proprio come altri tag. Il canale dispone di caratteristiche extra speciali.
 
-1. Fare clic sul segno **+** accanto a **Canale** per espandere e visualizzare i canali esistenti.
+1. Fai clic sul segno **+** accanto a **Canale** per espandere e visualizzare i canali esistenti.
 
    ![](assets/image2014-9-24-12-3a58-3a33.png)
 
-1. In **New**, fare clic su **New Channel**.
+1. In **Nuovo**, fai clic su **Nuovo canale**.
 
    ![](assets/image2014-9-24-12-3a58-3a53.png)
 
@@ -46,72 +46,72 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >Canale: Billboard
    >
    >* Applica a: Predefinito
-   >* Progressione: Membro, Coinvolto (in caso di dubbio, questi lavori vanno bene)
-   >* Successo: Coinvolto
+   >* Progressione: Membro, impegnato (in caso di dubbio, questi funzionano bene)
+   >* Operazione riuscita: Coinvolto
 
    >
-   >Canale: Party
+   >Canale: Partito
    >
    >* Applica a: Evento
-   >* Progressione: Invitati, registrati, No Show e Partecipanti
-   >* Successo: Partecipante
+   >* Progressione: Invitati, registrati, non mostrati e presenti
+   >* Operazione riuscita: Partecipato
 
    >
-   >Scopri le Progressioni dei canali esistenti per avere un&#39;idea di come utilizzarli.
+   >Consulta Progressioni dei canali esistenti per avere un&#39;idea di come usarli.
 
-1. Passiamo all&#39;esempio del canale del Partito. Assegnare un nome al nuovo **Canale** e selezionare il tipo di programma a cui si applicherà.
+1. Passiamo all&#39;esempio del canale Party. Denomina il nuovo **Canale** e seleziona il tipo di programma a cui si applica.
 
    ![](assets/image2014-9-24-13-3a0-3a17.png)
 
    >[!NOTE]
    >
-   >Applicare a cosa? Esistono diversi tipi di programmi. Corrispondenza del canale con il tipo di canale destro. In caso di dubbio, scegliere **Predefinito**.
+   >Applicare a cosa? Ci sono diversi tipi di programmi. Fai corrispondere il canale al tipo giusto. In caso di dubbio, scegli **Predefinito**.
 
    >[!NOTE]
    >
-   >Quando si utilizza &quot;Evento con webinar&quot;, le mappature del sistema verranno bloccate (come richiesto dalle integrazioni del webinar) e non potranno essere modificate.
+   >Quando utilizzi &quot;Event with Webinar&quot;, le mappature di sistema saranno bloccate (come richiesto dalle integrazioni dei webinar) e non possono essere modificate.
 
-   Inserire i primi due nomi di stato del programma, quindi fare clic su Aggiungi passo.
+   Immettere i primi due nomi di stato del programma, quindi fare clic su Aggiungi passo.
    ![](assets/image2014-9-24-15-3a37-3a0.png)
 
-1. Inserire un altro programma **Stato** e **Numero passo**, quindi fare clic su **Aggiungi passo**.
+1. Immetti un altro programma **Stato** e il numero **Passo**, quindi fai clic su **Aggiungi passo**.
 
    ![](assets/image2014-9-24-15-3a37-3a30.png)
 
    >[!TIP]
    >
-   >Il numero **Step** viene utilizzato per ordinare gli stati del programma. Ricordate che le persone non possono andare indietro in questi passi di progressione. Possono solo cambiare lo stato in uno stato di valore superiore o uguale. Utilizzate i valori uguali quando gli stati sono destinati a passare avanti e indietro anziché a una progressione.
+   >Il numero **Step** viene utilizzato per ordinare gli stati del programma. Tenete presente che le persone non possono andare indietro in questi passaggi progressivi. Possono solo cambiare lo stato in uno stato di valore superiore o uguale. Utilizza i valori uguali quando gli stati sono destinati a cambiare avanti e indietro rispetto a una progressione.
 
-1. Inserire l&#39;ultimo programma **Stato** e il numero **Passo**.
+1. Immettere l&#39;ultimo programma **Stato** e il numero **Passo**.
 
    ![](assets/image2014-9-24-15-3a39-3a15.png)
 
    >[!NOTE]
    >
-   >Quando si utilizza il tipo &quot;Evento&quot;, è necessaria la mappatura di sistema per gli stati Registrato, In lista d&#39;attesa e Partecipato. Di conseguenza, tali stati non possono essere nascosti.
+   >Quando si utilizza il tipo &quot;Evento&quot;, è necessario eseguire la mappatura del sistema per gli stati Registrato, In attesa e Allegato. Di conseguenza, tali stati non possono essere nascosti.
 
-1. Selezionare il **Stato del check-in mobile** per **Registrato**.
+1. Scegli **Stato del check-in mobile** per **Registrato**.
 
    ![](assets/image2014-9-24-15-3a39-3a43.png)
 
-1. Selezionare il **Stato del check-in mobile** per **Partecipato**.
+1. Scegli **Stato del check-in mobile** per **Partecipato**.
 
    ![](assets/image2014-9-24-15-3a40-3a21.png)
 
    >[!NOTE]
    >
-   >**Le opzioni Stato** del check-in mobile** **saranno disponibili solo se il canale sarà per i programmi dell&#39;evento.
+   >**Le opzioni Stato** check-in mobile** **saranno disponibili solo se il canale è per i programmi evento.
 
    >[!NOTE]
    >
-   >Nelle [app di check-in mobili **solo le persone con uno stato di** archiviazione mobile **Registrato** e **Partecipato** saranno visibili.](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)
+   >Solo le persone con uno **Stato del check-in mobile** di **Registrato** e **Allegato** saranno visibili nelle [App del check-in mobile](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
-   >Se una nuova persona viene creata nell&#39;app di check-in per dispositivi mobili, verrà impostata su Registrata nel programma dell&#39;evento. Se una persona viene selezionata nell&#39;evento nell&#39;app, viene impostata su Partecipante nel programma dell&#39;evento.
+   >Se nell’app di accesso mobile viene creata una nuova persona, questa verrà impostata su Registrata nel programma dell’evento. Se una persona viene archiviata nell’evento nell’app, viene impostata su Partecipante nel programma dell’evento.
 
-1. Selezionare lo stato del programma **Success**, quindi fare clic su **Create**.
+1. Seleziona lo stato del programma **Success**, quindi fai clic su **Crea**.
 
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
-   Ben fatto! Quando si crea un nuovo programma di quel tipo, questo nuovo canale sarà una delle scelte.
+   Ben fatto! Quando si effettua un nuovo programma di quel tipo, questo nuovo canale sarà una delle scelte.
