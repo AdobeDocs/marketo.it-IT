@@ -2,14 +2,14 @@
 unique-page-id: 6848747
 description: Descrizioni delle autorizzazioni del ruolo - Documenti Marketo - Documentazione del prodotto
 title: Descrizioni delle autorizzazioni del ruolo
+exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
 
 ---
-
 
 # Descrizioni delle autorizzazioni del ruolo {#descriptions-of-role-permissions}
 
@@ -44,8 +44,8 @@ Visualizza e apporta modifiche alle impostazioni nella sezione Account personale
 * Percorso di accesso : consente agli utenti di accedere alla posizione in Amministratore per impostare la lingua, le impostazioni internazionali, il fuso orario e la valuta predefiniti
 * Cronologia accesso - Consente agli utenti di accedere alla cronologia degli accessi utente in Audit Trail
 * Impostazioni di accesso : consente agli utenti di accedere alle impostazioni di accesso in Amministratore per le impostazioni di sicurezza, restrizioni IP e rapporti con elenchi avanzati
-* Accedere all’attività personalizzata di Marketo : consente agli utenti di accedere alle attività personalizzate di Marketo in Admin
-* Accesso a oggetti personalizzati Marketo : consente agli utenti di accedere a oggetti personalizzati Marketo in Admin
+* Accesso ad attività personalizzate Marketo : consente agli utenti di accedere alle attività personalizzate Marketo in Admin
+* Accesso a oggetti personalizzati Marketo : consente agli utenti di accedere agli oggetti personalizzati Marketo in Admin
 * Access Munchkin - Gli utenti GI possono accedere a Munchkin in Admin per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
 * Accedi ad Analisi del ciclo dei ricavi : consente agli utenti di accedere ad Analisi del ciclo dei ricavi in Amministratore, per impostare Sintetico e Attribuzione
 * Accesso ai ruoli : consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
@@ -94,11 +94,11 @@ Consente agli utenti di accedere alle schede Analytics, a Approfondimenti e-mail
 * Elimina rapporto : se si deseleziona, l’utente non potrà più eliminare i rapporti
 * Esportare i dati di Analytics - Deselezionare l’opzione per rimuovere la possibilità dell’utente di esportare i dati di Analytics
 
-## Accedere alle presentazioni del calendario {#access-calendar-presentations}
+## Accedi a Presentations calendario {#access-calendar-presentations}
 
-Consente agli utenti di accedere alle presentazioni Calendario - consente di visualizzare il pulsante Presentazioni in basso.
+Consente agli utenti di accedere alle presentazioni Calendario - consente la visualizzazione del pulsante Presentations in basso.
 
-* Modifica presentazioni calendario - Consente agli utenti di modificare le presentazioni nel calendario
+* Modifica Presentations calendario - Consente agli utenti di modificare le presentazioni nel Calendario
 
 ## Accesso a Design Studio {#access-design-studio}
 
