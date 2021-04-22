@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6849029
-description: Aggiornare la soluzione Marketo per Microsoft Dynamics - Documenti Marketo - Documentazione del prodotto
+description: Aggiornare la soluzione Marketo per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
 title: Aggiornare la soluzione Marketo per Microsoft Dynamics
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-
-# Aggiornamento della soluzione Marketo per Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
+# Aggiornare la soluzione Marketo per Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
 Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l’aggiornamento dall’area Amministratore nel tuo account.
 
@@ -21,7 +21,7 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 >[!CAUTION]
 >
->È fondamentale scaricare l&#39;ultima soluzione Marketo _prima_ di eseguire qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente _prima di_ eseguire qualsiasi aggiornamento.
 
 1. Vai all&#39;area **Amministratore**.
 
@@ -31,7 +31,7 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Seleziona **Scarica la soluzione Marketo**.
+1. Seleziona **Scarica soluzione Marketo**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
