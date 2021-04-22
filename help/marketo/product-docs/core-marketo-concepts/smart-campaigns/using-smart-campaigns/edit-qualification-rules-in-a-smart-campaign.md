@@ -1,42 +1,42 @@
 ---
 unique-page-id: 1146974
-description: Modifica delle regole di qualifica in una campagna intelligente - Documenti Marketo - Documentazione del prodotto
-title: Modifica delle regole di qualifica in una campagna intelligente
+description: Modificare le regole di qualifica in una campagna avanzata - Documenti Marketo - Documentazione del prodotto
+title: Modificare le regole di qualifica in una campagna avanzata
+exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
+# Modificare le regole di qualifica in una campagna avanzata {#edit-qualification-rules-in-a-smart-campaign}
 
-# Modifica delle regole di qualifica in una campagna intelligente {#edit-qualification-rules-in-a-smart-campaign}
+Le regole di qualificazione controllano quante volte qualcuno può eseguire il flusso in una campagna intelligente. Per impostazione predefinita, anche se un utente attiva una campagna intelligente più volte, questa verrà inviata attraverso il flusso solo una volta. Ecco come modificare queste impostazioni.
 
-Le regole di qualifica controllano quante volte un utente può eseguire il flusso in una campagna intelligente. Per impostazione predefinita, anche se un utente attiva più volte una campagna intelligente, questa viene inviata solo una volta attraverso il flusso. Ecco come modificare queste impostazioni.
-
-1. Nella campagna smart, fare clic sulla scheda **Schedule**, quindi su Edit Settings **(Modifica impostazioni).**
+1. Nella campagna avanzata, fai clic sulla scheda **Pianifica** , quindi su **Modifica impostazioni**.
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >Puoi anche fare clic su **Modifica** a destra di &quot;Impostazioni Smart Campaign&quot;.
+   >Puoi anche fare clic su **Modifica** a destra di &quot;Impostazioni di Smart Campaign&quot;.
 
-1. Scegliete la frequenza con cui eseguire le persone tramite il flusso di campagne intelligenti: **una sola volta**, **ogni volta** o **una volta ogni # giorni**/**settimane**/**mesi**.
+1. Scegli la frequenza con cui eseguire le tue persone attraverso il flusso di campagne intelligenti: **una sola volta**, **ogni volta** o **una volta ogni # giorni**/**settimane**/**mesi**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
    >[!NOTE]
    >
-   >Quando imposti una regola per una volta al giorno, Marketo la converte in ore. Ad esempio, se imposti la regola per una volta al giorno e una persona si qualifica alle 10 di sera di domenica, non potrà qualificarsi fino alle 10 di sera di lunedì. Questa logica si applica anche quando si utilizzano settimane o mesi. Un mese è sempre contato come 30 giorni.
+   >Quando imposti una regola una volta al giorno, Marketo la converte in ore. Ad esempio, se imposti la regola per una volta al giorno e una persona si qualifica alle 10 di sera di una domenica notte, non potrà qualificarsi nuovamente fino alle 10 del pomeriggio di lunedì sera. Questa logica si applica anche quando si utilizzano settimane o mesi. Un mese viene sempre conteggiato come 30 giorni.
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, i limiti di comunicazione non sono applicati alle campagne intelligenti. Scopri come [applicare i limiti di comunicazione a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >Per impostazione predefinita, i limiti di comunicazione non vengono applicati alle campagne avanzate. Scopri come [applicare i limiti di comunicazione a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >[Applica limiti di comunicazione alle campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >[Applicare limiti di comunicazione alle campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
-Missione compiuta! Ora sai come controllare le regole di qualifica in una campagna intelligente.
+Missione compiuta! Ora sai come controllare le regole di qualificazione in una campagna intelligente.
