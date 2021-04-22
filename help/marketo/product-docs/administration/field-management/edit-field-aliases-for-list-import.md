@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360346
-description: Modifica alias campo per importazione elenco - Documenti Marketo - Documentazione prodotto
+description: Modificare gli alias dei campi per l’importazione di elenchi - Documenti Marketo - Documentazione del prodotto
 title: Modifica alias campo per importazione elenco
+exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-
 # Modifica alias campo per importazione elenco {#edit-field-aliases-for-list-import}
 
-Quando importate un elenco con intestazioni sconosciute, potete creare alias di campo per semplificarne l’importazione. Potete anche modificare tali alias nella gestione dei campi. Controllala.
+Quando importi un elenco con intestazioni sconosciute, puoi creare alias di campo per semplificarlo. Puoi anche modificare tali alias nella gestione dei campi. Guardate.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fare clic su **Field Management**.
+1. In **Amministratore**, fai clic su **Gestione campi**.
 
    ![](assets/image2014-9-19-9-3a56-3a22.png)
 
-1. Individuare e selezionare il campo a cui si desidera aggiungere un alias.
+1. Trova e seleziona il campo a cui desideri aggiungere un alias.
 
    ![](assets/fieldmanagement-findfield.png)
 
-1. Nel menu a discesa Azioni campo, fare clic su **Modifica alias importazione**.
+1. Nel menu a discesa Azioni campo , fai clic su **Modifica alias importazione**.
 
    ![](assets/fieldmanageemnt-editimport.png)
 
@@ -37,8 +37,8 @@ Quando importate un elenco con intestazioni sconosciute, potete creare alias di 
 
 >[!TIP]
 >
->Fare clic su **Aggiungi un altro** e immettere altri alias, se necessario.
+>Fai clic su **Aggiungi un altro** e immetti altri alias se necessario.
 
-Guardate quello! Se importate un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.
+Guardate quello! Ora, se importi un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.
 
 ![](assets/image2014-9-19-9-3a57-3a20.png)
