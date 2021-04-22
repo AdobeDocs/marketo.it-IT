@@ -1,29 +1,29 @@
 ---
 unique-page-id: 17727823
-description: Note sulla versione - Inverno del 19 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - Inverno del 19 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '19
+exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Inverno &#39;19 {#release-notes-winter}
 
-Le seguenti funzionalità sono incluse nella versione Inverno del 19. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione Inverno del 19. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati di ciascuna funzione, se disponibili.
 
 >[!NOTE]
 >
->Facebook ora richiede un account Business Manager per sfruttare l’integrazione con i tipi di pubblico personalizzati. Il servizio Facebook LaunchPoint *deve* essere associato a un account Business Manager oppure **l’integrazione non funzionerà più dopo il 14 gennaio 2019**. Per impostare un account Business Manager, fare riferimento alla [Guida di Facebook](https://www.facebook.com/business/help/1710077379203657).
+>Facebook ora richiede un account Business Manager per sfruttare l’integrazione con Custom Audience. Il servizio Facebook LaunchPoint *deve* essere associato a un account Business Manager oppure **l’integrazione non funzionerà più dopo il 14 gennaio 2019**. Per impostare un account Business Manager, fare riferimento alla [Guida di Facebook](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft sta inviando a tutti i clienti online l’aggiornamento alla versione più recente di Microsoft Dynamics. Se stai integrando l’istanza Marketo con Dynamics Online, dovrai [eseguire l’aggiornamento alla versione più recente della soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) prima del **31 gennaio 2019** per garantire che l’integrazione continui a funzionare.
+>Microsoft sta inviando a tutti i clienti online l’aggiornamento alla versione più recente di Microsoft Dynamics. Se stai integrando l’istanza di Marketo con Dynamics Online, dovrai [eseguire l’aggiornamento alla versione più recente della soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) prima del **31 gennaio 2019** per garantire che l’integrazione continui a funzionare.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
 
 **[Munchkin v155 (versione beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **Modalità** solo API: Gli utenti ora possono determinare quando e come monitorare i membri del proprio database consentendo alle app web a pagina singola di chiamare esplicitamente quando desiderano registrare una visita a una pagina web invece di affidarsi al tracciamento automatico di Marketo.
+* **Modalità** solo API: Gli utenti possono ora determinare quando e come monitorare i membri del proprio database consentendo alle app web a pagina singola di chiamare esplicitamente quando desiderano registrare una visita a una pagina web invece di fare affidamento sul monitoraggio automatico di Marketo.
 * **Gestione** rinunce: Gestisci facilmente le rinunce facendo corrispondere il dominio del cookie di rinuncia con il dominio del cookie di tracciamento Munchkin.
 * **Parametro** Decider a livello di dominio: Domini a due lettere (ad es. &quot;  [website.io](https://website.io)&quot;) verrà automaticamente monitorato in Marketo senza requisiti di configurazione aggiuntivi.
 
-## Coinvolgimento vendite Marketo {#marketo-sales-engage}
+## Coinvolgimento delle vendite Marketo {#marketo-sales-engage}
 
 * **Profilo** personalizzato Salesforce: Il coinvolgimento nelle vendite ora supporta profili personalizzati illimitati.
 
@@ -58,7 +58,7 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
    * _I team_ di Salesforce Admin Settings (Impostazioni amministratore) configurano la sincronizzazione SFDC più rapidamente e più semplice che mai.
 
 * **Plug-in OWA per Windows**: Con un solo componente aggiuntivo, tutti i client Windows Office365 saranno supportati in Sales Engage, fornendo la possibilità di utilizzare Live Feed in Outlook. Il nuovo plug-in sarà disponibile in Microsoft Store.
-* **Utilità di spinta** attività: Sincronizza il coinvolgimento nelle vendite con la piattaforma principale Marketo per sfruttare le informazioni di marketing in tempo reale.
+* **Utilità di spinta** attività: Sincronizza il coinvolgimento nelle vendite con la piattaforma Marketo di base per sfruttare le informazioni di marketing in tempo reale.
 
 ## Marketo Sky {#marketo-sky}
 
@@ -66,17 +66,17 @@ Puoi includere fino a cinque indirizzi CC per destinatario nelle e-mail inviate 
 >
 >I rilasci di Marketo Sky avvengono con cadenza più frequente. Le seguenti funzionalità e miglioramenti dovrebbero essere rilasciati durante la fine del Q4/primo trimestre. Per ulteriori dettagli e aggiornamenti, consulta la nostra [documentazione Sky](https://help.marketo.com/).
 
-* **Esperienza** predefinita opzionale: Gli utenti di Marketo possono impostare Marketo Sky come esperienza predefinita se gli è stato fornito l’accesso da un amministratore.
+* **Esperienza** predefinita opzionale: Gli utenti Marketo possono impostare Marketo Sky come esperienza predefinita se gli è stato fornito l’accesso da un amministratore.
 
 * **Riimmaginato Il Mio Marketo**: Personalizza la tua esperienza aggiungendo widget che forniscono informazioni critiche, notifiche e collegamenti alle aree più visitate.
 
 * **Visualizzazioni elenco e pagine** di dettagli di Design Studio: Usufruisci di un livello maggiore di organizzazione e precisione grazie alle viste elenco filtrabili e ricercabili di e-mail, pagine di destinazione e moduli. Le pagine dei dettagli delle risorse forniscono informazioni chiave su ciascuna risorsa, tra cui i programmi utilizzati dalla risorsa, il numero di snippet utilizzati e altro ancora.
 
-* **Ricerca** globale: Marketo offre ora una funzione di ricerca globale più veloce e affidabile su tutta la piattaforma. Le query di ricerca ora vengono eseguite in tutte le aree di lavoro accessibili e possono eseguire ricerche nelle risorse (attive e archiviate), nelle etichette, nelle campagne e nei programmi. I risultati della ricerca vengono forniti tramite una sovrapposizione e ogni risultato include il relativo percorso di percorso del file per specificare dove si trova la risorsa.
+* **Ricerca** globale: Marketo offre ora una funzione di ricerca globale più rapida e solida su tutta la piattaforma. Le query di ricerca ora vengono eseguite in tutte le aree di lavoro accessibili e possono eseguire ricerche nelle risorse (attive e archiviate), nelle etichette, nelle campagne e nei programmi. I risultati della ricerca vengono forniti tramite una sovrapposizione e ogni risultato include il relativo percorso di percorso del file per specificare dove si trova la risorsa.
 
 * **Interfaccia** utente migliorata: Nuove icone, modelli e pulsanti, insieme a una nuova palette di colori per riflettere l’aggiornamento del brand e rendere Marketo Sky ancora più sbalorditivo e funzionale.
 
-* **Miglioramenti** a livello di usabilità del programma e-mail: Continuiamo a passare alla parità nella funzionalità del programma e-mail tra la nostra classica piattaforma Marketo Lead Management e la nuova esperienza Marketo Sky.
+* **Miglioramenti** a livello di usabilità del programma e-mail: Continuiamo a migliorare la funzionalità del programma e-mail tra la nostra piattaforma classica Marketo Lead Management e la nuova esperienza Marketo Sky.
 * **Programmi** evento-con-webinar: In Marketo Sky sono ora disponibili i programmi evento con webinar (nota: in questa versione sarà supportato solo GoToWebinar, con ulteriori integrazioni stabilite nel tempo).
 
 ## Marketing basato su account {#account-based-marketing}
@@ -99,7 +99,7 @@ Personalizza le tue campagne ABM per specifici utenti all’interno di account d
 
 Per gestire domini e sottodomini in modo più efficiente, gli utenti possono ora aggiungere sottodomini alle impostazioni dell’account RTP.
 
-## Coinvolgimento Marketo Mobile (MME) {#marketo-mobile-engagement-mme}
+## Marketo Mobile Engagement (MME) {#marketo-mobile-engagement-mme}
 
 **Kit di sviluppo software MME (SDK) aggiornato per Android**
 
@@ -116,6 +116,6 @@ Abbiamo aggiornato il nostro SDK per Android a un framework più moderno, stabil
 
 **Piattaforma di webinar estensibile**
 
-Oltre alla versione del nostro prodotto, il nostro team partner sta lavorando a un nuovo framework che consente ai fornitori di webinar di creare e mantenere le proprie integrazioni con Marketo, fornendo maggiore flessibilità nell’aggiornamento e nel miglioramento delle proprie soluzioni, consentendo al contempo ai professionisti del marketing di trarre il massimo dalle integrazioni scelte.
+Oltre alla versione del nostro prodotto, il nostro team partner sta lavorando a un nuovo framework che consente ai fornitori di webinar di creare e mantenere le proprie integrazioni con Marketo, fornendo maggiore flessibilità nell’aggiornamento e nel miglioramento delle proprie soluzioni, consentendo al contempo agli esperti di marketing di trarre il massimo dalle integrazioni scelte.
 
 Prevediamo di implementare la nostra nuova piattaforma con i provider caso per caso. Per ulteriori informazioni, consulta i nostri [dettagli del programma](https://www.marketo.com/why-marketo/partners/technology/) o contatta il tuo contatto Marketo.
