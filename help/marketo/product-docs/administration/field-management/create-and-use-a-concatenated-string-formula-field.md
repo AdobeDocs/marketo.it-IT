@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360337
-description: Creare e utilizzare un campo stringa concatenata (Formula) - Documenti Marketo - Documentazione del prodotto
+description: Creare e utilizzare un campo stringa concatenata (Formula) - Marketo Docs - Documentazione del prodotto
 title: Creare e utilizzare un campo stringa concatenata (formula)
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Creare e utilizzare un campo stringa concatenata (formula) {#create-and-use-a-concatenated-string-formula-field}
 
