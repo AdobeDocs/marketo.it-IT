@@ -2,18 +2,18 @@
 unique-page-id: 2953415
 description: Utilizzo della pagina dei dettagli della persona - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo della pagina Dettagli persona
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
 # Utilizzo della pagina dei dettagli della persona {#using-the-person-detail-page}
 
-La pagina dei dettagli personali contiene tutte le informazioni che Marketo conosce su una persona. Puoi modificare i dati direttamente da questa pagina.
+La pagina dei dettagli relativi alla persona contiene tutte le informazioni che Marketo conosce su una persona. Puoi modificare i dati direttamente da questa pagina.
 
 ## Passaggio alla pagina dei dettagli della persona {#getting-to-person-detail-page}
 
@@ -73,24 +73,24 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Indirizzo | Entrate annuali | IP anonimo | Indirizzo di fatturazione | Città di fatturazione |
+| Indirizzo | Entrata annuale | IP anonimo | Indirizzo di fatturazione | Città di fatturazione |
 | Paese di fatturazione | Codice postale di fatturazione | Stato di fatturazione | Città | Nome dell&#39;azienda |
-| Paese | Creato in | Data di nascita | Dipartimento | Non chiamare |
-| Non chiamare causa | Non chiamare il motivo | Indirizzo e-mail | E-mail non valida | Causa non valida dell&#39;e-mail |
+| Paese | Creato in | Data di nascita | Dipartimento | Non effettuare la chiamata |
+| Non chiamare causa | Motivo per cui non effettuare la chiamata | Indirizzo e-mail | E-mail non valida | Causa non valida dell&#39;e-mail |
 | ID società esterna | ID persona vendita esterna | Numero di fax | Nome | Nome completo |
-| Industria | Città di riferimento | Società in questione | Paese interessato | Area metropolitana |
+| Settore | Città di riferimento | Azienda in oggetto | Paese in oggetto | Area metropolitana |
 | Codice di area del telefono | Codice postale trasferito | Regione dello Stato di provenienza | È Anonimo | È cliente |
-| È un partner | Titolo processo | Cognome | Valutazione | Punteggio |
-| Origine persona | Stato | Telefono principale | Nome visualizzato Facebook di Marketo Social | ID Facebook di Marketo Social |
-| URL foto Facebook di Marketo Social | URL profilo Facebook di Marketo Social | Marketo Social Facebook Reach | Iscrizioni di riferimento di Marketo Social Facebook | Visite Facebook di riferimento Marketo Social |
-| Sesso sociale Marketo | Ultima registrazione di riferimento di Marketo Social | Ultima visita di riferimento di Marketo Social | Nome visualizzato di Marketo Social LinkedIn | ID di LinkedIn di Marketo Social |
-| URL foto di Marketo Social LinkedIn | URL profilo di Marketo Social LinkedIn | reach di Marketo Social LinkedIn | Iscrizioni di riferimento di Marketo Social LinkedIn | Visite di riferimento di Marketo Social LinkedIn |
-| ID sindacazione social di Marketo | Totale iscrizioni di riferimento Marketo Social | Totale visite di riferimento Marketo Social | Nome visualizzato Twitter di Marketo Social | ID Twitter di Marketo Social |
-| URL foto di Marketo Social Twitter | URL profilo Twitter di Marketo Social | Marketo Social Twitter Reach | Iscrizioni di riferimento Twitter di Marketo Social | Visite di riferimento di Marketo Social su Twitter |
-| Nome centrale | Numero di telefono cellulare | Num Dipendenti | Numero di telefono | Codice postale |
-| Priorità | Punteggio relativo | Ruolo | Saluto | Codice SIC |
-| Sito | Stato | Annulla sottoscrizione | Motivo annullamento sottoscrizione | Aggiornato a |
-| Urgenza | Sito Web |  |  |  |
+| È un partner | Professione | Cognome | Valutazione | Punteggio |
+| Origine persona | Stato | Numero di telefono | Nome visualizzato di Marketo Social Facebook | ID Facebook di Marketo Social |
+| URL foto di Marketo Social Facebook | URL profilo Facebook di Marketo Social | Raggiungimento di Marketo Social Facebook | Iscrizioni di riferimento Marketo Social Facebook | Visite con riferimento a Marketo Social Facebook |
+| Genere sociale Marketo | Ultima registrazione di riferimento di Marketo Social | Ultima visita di riferimento di Marketo Social | Nome visualizzato di Marketo Social LinkedIn | ID LinkedIn di Marketo Social |
+| URL foto di Marketo Social LinkedIn | URL profilo LinkedIn di Marketo Social | Raggiungimento di Marketo Social LinkedIn | Iscrizioni di riferimento Marketo Social LinkedIn | Visite con riferimento a Marketo Social LinkedIn |
+| ID sindacazione Marketo Social | Iscrizioni totali di riferimento di Marketo Social | Totale visite di riferimento di Marketo Social | Nome visualizzato di Marketo Social Twitter | ID Twitter di Marketo Social |
+| URL foto di Marketo Social Twitter | URL profilo Twitter di Marketo Social | Raggiungimento di Marketo Social Twitter | Iscrizioni di riferimento Marketo Social Twitter | Visite con riferimento a Marketo Social Twitter |
+| Secondo nome | Numero di cellulare | Numero dipendenti | Numero di telefono | Codice postale |
+| Priorità | Punteggio relativo | Ruolo | Formula di saluto | Codice SIC (Standard Industrial Classification) |
+| Sito | Stato | Annulla l&#39;iscrizione | Motivo di annullamento dell&#39;iscrizione | Aggiornato a |
+| Urgenza | Sito web |  |  |  |
 
 >[!NOTE]
 >
