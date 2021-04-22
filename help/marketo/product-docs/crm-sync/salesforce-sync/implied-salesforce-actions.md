@@ -2,36 +2,36 @@
 unique-page-id: 4719304
 description: Azioni Salesforce implicite - Documenti Marketo - Documentazione del prodotto
 title: Azioni Salesforce implicite
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
 # Azioni Salesforce implicite {#implied-salesforce-actions}
 
-Quando viene eseguito un passaggio di flusso specifico di Salesforce, talvolta vengono eseguiti automaticamente passaggi aggiuntivi. Ecco le regole, quindi sapete:
+Quando viene eseguito un passaggio di flusso specifico di Salesforce, a volte vengono eseguiti automaticamente passaggi aggiuntivi. Ecco le regole, quindi sapete:
 
-Queste regole si applicano _quando la persona non è attualmente in [Salesforce.com](https://Salesforce.com)_ come contatto o lead.
+Queste regole si applicano _quando la persona non si trova attualmente in [Salesforce.com](https://Salesforce.com)_ come contatto o lead.
 
 <table> 
  <thead> 
   <tr> 
-   <th>Passaggio del flusso di Marketo</th> 
+   <th>Passaggio del flusso Marketo</th> 
    <th>Azione automatica</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Aggiungi a campagna SFDC</td> 
+   <td>Aggiungi alla campagna SFDC</td> 
    <td>Sincronizza persona con SFDC</td> 
   </tr> 
   <tr> 
-   <td>Modifica dello stato nella campagna SFDC</td> 
-   <td>Sincronizza persona con SFDC<br>Aggiungi a campagna SFDC</td> 
+   <td>Cambia stato nella campagna SFDC</td> 
+   <td>Sincronizza persona con SFDC<br>Aggiungi alla campagna SFDC</td> 
   </tr> 
   <tr> 
    <td>Cambia proprietario</td> 
@@ -48,6 +48,6 @@ Queste regole si applicano _quando la persona non è attualmente in [Salesforce.
  </tbody> 
 </table>
 
-È possibile filtrare i record SFDC in un Smart List utilizzando il filtro **SFDC Type** con l&#39;operatore impostato su &quot;non è vuoto&quot;. Tutti i record della DSC hanno un valore in questo campo.
+È possibile filtrare i record SFDC in un elenco avanzato utilizzando il filtro **SFDC Type** con l&#39;operatore impostato su &quot;non è vuoto&quot;. Tutti i record SFDC hanno un valore in questo campo.
 
-Ricordate, queste azioni automatiche si verificano solo se il lead non si trova attualmente in [Salesforce.com](https://salesforce.com)
+Ricorda che queste azioni automatiche si verificano solo se il lead non si trova attualmente in [Salesforce.com](https://salesforce.com)
