@@ -1,106 +1,106 @@
 ---
 unique-page-id: 4719314
-description: Mappatura campo Salesforce predefinita - Documenti Marketo - Documentazione prodotto
+description: Mappatura predefinita del campo Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Mapping campo Salesforce predefinito
+exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 0%
+ht-degree: 33%
 
 ---
 
-
 # Mapping campo Salesforce predefinito {#default-salesforce-field-mapping}
 
-Quando sincronizzate inizialmente l’account Marketo con Salesforce, Marketo crea automaticamente queste associazioni tra i campi Salesforce e Marketo incorporati. Marketo sincronizzerà anche i campi personalizzati su Lead, Account, Opportunità e Contatti.
+Quando sincronizzi inizialmente il tuo account Marketo con Salesforce, Marketo crea automaticamente queste associazioni tra i campi Salesforce incorporati e Marketo. Marketo sincronizzerà anche i campi personalizzati sui lead, account, opportunità e contatti.
 
 ## Campi lead {#lead-fields}
 
 | Campo SFDC | Campo Marketo |
 |---|---|
-| Entrate annuali | Entrate annuali |
+| Entrata annuale | Entrata annuale |
 | Città | Città |
-| Azienda | Nome società |
-| Data di conversione | Data di conversione SFDC |
+| Azienda | Nome dell&#39;azienda |
+| Data conversione | Data conversione SFDC |
 | Paese | Paese |
-| Data di creazione | Data creazione SFDC |
+| Data creazione | Data creazione SFDC |
 | Descrizione | Note sulla persona |
 | E-mail | Indirizzo e-mail |
-| Fax | Numero fax |
+| Fax | Numero di fax |
 | Nome | Nome |
-| Rifiuto e-mail | Annulla sottoscrizione |
-| Industria | Industria |
-| Convertito | SFDC Convertito |
-| Eliminato | SFDC eliminato |
+| Rifiuto e-mail | Annulla l&#39;iscrizione |
+| Settore | Settore |
+| Convertito | SFDC viene convertito |
+| Eliminato | SFDC È Eliminato |
 | Cognome | Cognome |
-| Origine lead | Origine |
-| Punteggio lead | Punteggio |
-| Cellulare | Numero di telefono cellulare |
-| Dipendenti | Num Dipendenti |
+| Fonte Lead | Fonte |
+| Punteggio Lead | Punteggio |
+| Telefono cellulare | Numero di cellulare |
+| Dipendenti | Numero dipendenti |
 | Telefono | Numero di telefono |
-| CAP | Codice postale |
+| Codice postale | Codice postale |
 | Valutazione | Valutazione |
-| Saluto | Saluto |
+| Formula di saluto | Formula di saluto |
 | Provincia | Stato |
 | Stato | Stato |
 | Via | Indirizzo |
-| Titolo | Titolo processo |
-| Sito Web | Sito Web |
+| Titolo | Professione |
+| Sito web | Sito web |
 
 ## Campi di contatto {#contact-fields}
 
 | Campo SFDC | Campo Marketo |
 |---|---|
 | Data di nascita | Data di nascita |
-| Data di creazione | Data creazione SFDC |
+| Data creazione | Data creazione SFDC |
 | Descrizione contatto | Note sulla persona |
 | E-mail | Indirizzo e-mail |
-| Fax ufficio | Numero fax |
+| Fax ufficio | Numero di fax |
 | Nome | Nome |
-| Rifiuto e-mail | Annulla sottoscrizione |
-| Eliminato | SFDC eliminato |
+| Rifiuto e-mail | Annulla l&#39;iscrizione |
+| Eliminato | SFDC È Eliminato |
 | Cognome | Cognome |
-| Origine lead | Origine |
-| Punteggio lead | Punteggio |
+| Fonte Lead | Fonte |
+| Punteggio Lead | Punteggio |
 | MailingCity | Città |
 | MailingCountry | Paese |
-| MailingPostalCode | Codice postale |
+| Codice postale | Codice postale |
 | MailingState | Stato |
 | MailingStreet | Indirizzo |
-| Cellulare | Numero di telefono cellulare |
-| Business Phone | Numero di telefono |
-| Saluto | Saluto |
-| Titolo | Titolo processo |
+| Telefono cellulare | Numero di cellulare |
+| Telefono ufficio | Numero di telefono |
+| Formula di saluto | Formula di saluto |
+| Titolo | Professione |
 
 ## Campi account {#account-fields}
 
 | Campo SFDC | Campo Marketo |
 |---|---|
-| Entrate annuali | Entrate annuali |
+| Entrata annuale | Entrata annuale |
 | Città di fatturazione | Città di fatturazione |
 | Paese di fatturazione | Paese di fatturazione |
-| Codice postale di fatturazione | Codice postale fatturazione |
-| Provincia di fatturazione | Stato fatturazione |
-| Via di fatturazione | Indirizzo di fatturazione |
-| Descrizione account | Note sulla società |
-| Industria | Industria |
-| Eliminato | SFDC eliminato |
-| Nome account | Nome società |
-| Dipendenti | Num Dipendenti |
-| Telefono account | Telefono principale |
-| Codice SIC | Codice SIC |
-| Sito account | Sito |
-| Tipo di account | Tipo SFDC |
-| Sito Web | Sito Web |
+| Codice postale/CAP di fatturazione | Codice postale di fatturazione |
+| Provincia di fatturazione | Stato di fatturazione |
+| Billing Street | Indirizzo di fatturazione |
+| Descrizione account | Note aziendali |
+| Settore | Settore |
+| Eliminato | SFDC È Eliminato |
+| Nome account | Nome dell&#39;azienda |
+| Dipendenti | Numero dipendenti |
+| Telefono account | Numero di telefono |
+| Codice SIC (Standard Industrial Classification) | Codice SIC (Standard Industrial Classification) |
+| Sito dell&#39;account | Sito |
+| Tipo di conto | Tipo SFDC |
+| Sito web | Sito web |
 
 ## Campi di sistema correlati a Salesforce in Marketo (sola lettura) {#salesforce-related-system-fields-in-marketo-read-only}
 
-Questi campi vengono creati in Marketo ma non possono essere modificati dai clienti.
+Questi campi vengono creati in Marketo ma non possono essere regolati dai clienti.
 
-| Field | Descrizione |
+| Campo | Descrizione |
 |---|---|
 | ID SFDC | ID Salesforce a 18 caratteri |
-| Tipo SFDC | Lead o Contatto. Se vuoto, il lead esiste solo come persona in Marketo |
-| Data creazione SFDC | Data di creazione in SFDC (può essere diversa da Data di creazione in Marketo) |
-| SFDC eliminato | Una volta la persona era nella DSC ma era stata eliminata e ora vive solo a Marketo |
+| Tipo SFDC | Lead o contatto. Se vuoto, il lead esiste solo come persona in Marketo |
+| Data creazione SFDC | Data di creazione in SFDC (può essere diversa da Creata in Marketo) |
+| SFDC eliminato | Una persona era in SFDC ma è stata cancellata e ora vive solo in Marketo |
