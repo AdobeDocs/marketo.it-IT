@@ -13,13 +13,13 @@ ht-degree: 0%
 ---
 
 
-# Guida di Marketo {#using}
+# Guida Marketo {#using}
 
 + [Pagina principale](home.md)
-+ Guida introduttiva di Marketo {#getting-started-with-marketo}
++ Guida introduttiva a Marketo {#getting-started-with-marketo}
    + [Introduzione](getting-started.md)
    + [Cos&#39;è Marketo?](getting-started/what-is-marketo.md)
-   + [Glossario di Marketo](getting-started/marketo-glossary.md)
+   + [Glossario Marketo](getting-started/marketo-glossary.md)
    + [Icona Glossario](getting-started/icon-glossary.md)
    + Configurazione {#setup}
       + [Passaggi di configurazione](getting-started/setup-steps.md)
@@ -71,7 +71,7 @@ ht-degree: 0%
             + [Creare una gerarchia](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Elenchi account](product-docs/target-account-management/target/account-lists.md)
          + [Elenchi avanzati account](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Creare un pubblico corrispondente su LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
+         + [Creare un pubblico abbinato su LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + Coinvolgi {#engage}
          + [Filtri account](product-docs/target-account-management/engage/account-filters.md)
          + [Trigger account](product-docs/target-account-management/engage/account-triggers.md)
@@ -149,7 +149,7 @@ ht-degree: 0%
          + [Aggiungere Single Sign-On a un portale](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Aggiungere Slack come servizio LaunchPoint](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [Aggiungere WebEx come servizio LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-         + [Aggiungere Workspace da Facebook come servizio LaunchPoint](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+         + [Aggiungere Workspace da Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Aggiungere zoom come servizio LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Configurazione delle impostazioni API SOAP](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [Collegare BrightTALK a Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
@@ -190,25 +190,25 @@ ht-degree: 0%
          + [Eliminare un campo personalizzato in Marketo](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Modifica alias campo per importazione elenco](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
          + [Esporta tutti i metadati dell’oggetto](product-docs/administration/field-management/export-all-object-metadata.md)
-         + [Esportare un elenco di tutti i nomi dei campi API Marketo](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
+         + [Esportare un elenco di tutti i nomi dei campi dell’API Marketo](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Esportazione utilizzata dai dati per un campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Nascondere e visualizzare un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [Token di codifica HTML nelle e-mail](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Rinomina un campo](product-docs/administration/field-management/rename-a-field.md)
          + [Informazioni sui campi gestiti del sistema](product-docs/administration/field-management/understanding-system-managed-fields.md)
-         + [Visualizzare le mappature dei campi tra Marketo e Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
+         + [Visualizzare mappature dei campi tra Marketo e Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
       + Attività personalizzate Marketo {#marketo-custom-activities}
          + [Informazioni sulle attività personalizzate](product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
-         + [Aggiungi/Modifica/Elimina campi attività personalizzati di Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
+         + [Aggiungi/Modifica/Elimina campi attività personalizzati Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [Creare un’attività personalizzata](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Modificare un’attività personalizzata](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Pubblicare un’attività personalizzata](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
       + Oggetti personalizzati Marketo {#marketo-custom-objects}
          + [Informazioni sugli oggetti personalizzati Marketo](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Aggiungi campi oggetto personalizzati Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
-         + [Aggiungi campi collegamento oggetto personalizzato Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+         + [Aggiungi campi di collegamento a oggetti personalizzati Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
          + [Approvare un oggetto personalizzato](product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
-         + [Crea oggetti personalizzati Marketo](product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+         + [Creare oggetti personalizzati Marketo](product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
          + [Modificare ed eliminare un oggetto personalizzato Marketo](product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
          + [Modificare ed eliminare i campi oggetto personalizzati Marketo](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [Importa dati oggetto personalizzati](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
@@ -216,7 +216,7 @@ ht-degree: 0%
          + [Esportazione metadati oggetti personalizzati](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Impostazioni {#settings}
          + [Modificare le impostazioni di attribuzione per Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Modificare la password di Marketo](product-docs/administration/settings/change-your-marketo-password.md)
+         + [Modificare la password Marketo](product-docs/administration/settings/change-your-marketo-password.md)
          + [Modificare le impostazioni di protezione della password](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Creazione di una scheda personalizzata per la pagina Dettagli persona](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Personalizzare gli URL della pagina di destinazione con un CNAME (amministrazione)](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
@@ -227,7 +227,7 @@ ht-degree: 0%
          + [Modifica impostazioni sottoscrizione](product-docs/administration/settings/edit-subscription-settings.md)
          + [Attiva o disattiva le caratteristiche del torace del tesoro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Abilita URL personalizzati per il tuo account (amministrazione)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
-         + [Limita gli accessi a Marketo in base all’IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
+         + [Limitare gli accessi Marketo in base all’IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Selezionare la lingua, le impostazioni internazionali e il fuso orario](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Impostare una pagina di fallback](product-docs/administration/settings/set-a-fallback-page.md)
          + [Imposta le impostazioni di posizione predefinite per una sottoscrizione](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
@@ -247,7 +247,7 @@ ht-degree: 0%
          + [Creare, eliminare, modificare e modificare un ruolo utente](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Abilitare l’autorizzazione all’importazione di elenchi avanzati per un ruolo](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Esportare un elenco di utenti e ruoli](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Gestione degli utenti di Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
+         + [Gestione degli utenti Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gestione di ruoli e autorizzazioni utente](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Esportare ruoli e autorizzazioni](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrizioni delle autorizzazioni del ruolo](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
@@ -474,14 +474,14 @@ ht-degree: 0%
             + [Configurazione iPad o Android Tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Momenti Marketo {#marketo-moments}
             + I momenti {#understanding-moments}
-               + [Informazioni sui momenti di Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+               + [I momenti di Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
                + [Informazioni sulle schede di Analytics](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
                + [Informazioni sulle schede del programma e-mail](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
                + [Informazioni sulle schede evento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
                + [Informazioni sulle schede di Smart Campaign](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
             + Utilizzo dei momenti {#working-with-moments}
                + [Creazione di un preferito](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-               + [Download di momenti di Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/downloading-marketo-moments.md)
+               + [Download di momenti Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/downloading-marketo-moments.md)
                + [Marcatura eseguita](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
                + [Personalizzazione dei momenti Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
                + [Anteprima di un messaggio e-mail](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
@@ -502,30 +502,30 @@ ht-degree: 0%
    + Sincronizzazione CRM {#crm-sync}
       + Sincronizzazione Microsoft Dynamics {#microsoft-dynamics}
          + [Informazioni sulla sincronizzazione di Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
-         + [Versioni di Marketo Plugin per Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
+         + [Versioni plug-in di Marketo per Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [Versioni dei plug-in per Microsoft Dynamics MSI](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Correggere i problemi di sincronizzazione della convalida di Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Configurazione sincronizzazione {#sync-setup}
-            + [Scarica la soluzione Marketo Lead Management](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Aggiornamento della soluzione Marketo per Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Scarica la soluzione Marketo per la gestione dei lead](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+            + [Aggiornare la soluzione Marketo per Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Convalida della sincronizzazione di Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visualizzare l&#39;URL del servizio organizzazione](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
                + [Passaggio 1 di 3: Installare la soluzione Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
                + [Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+               + [Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2013 On-Premises {#microsoft-dynamics-2013-on-premises}
                + [Passaggio 1 di 3: Installare la soluzione Marketo in Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
-               + [Passaggio 2 di 3: Configura l&#39;utente di sincronizzazione per Marketo (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
-               + [Passaggio 3 di 3: Connetti Marketo e Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+               + [Passaggio 2 di 3: Configura l’utente di sincronizzazione per Marketo (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+               + [Passaggio 3 di 3: Collegare Marketo e Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [Passaggio 1 di 3: Installa la soluzione Marketo - On-Premises 2015 / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
-               + [Passaggio 3 di 3: Connetti Marketo e Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+               + [Passaggio 3 di 3: Connettere Marketo e Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [Passaggio 1 di 3: Installare la soluzione Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [Passaggio 2 di 3: Configurare l’utente di sincronizzazione di Marketo in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (Online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+               + [Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+               + [Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Imposta autenticazione OAuth per Dynamics {#set-up-oauth-authentication-for-dynamics}
                + [Concessione del consenso per l’ID client e la registrazione dell’app](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [Configurare l’app Microsoft Dynamics CRM per Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
@@ -560,18 +560,18 @@ ht-degree: 0%
       + Configurazione {#setup}
          + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
             + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-            + [Passaggio 2 di 3: Crea un utente Salesforce per Marketo (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-            + [Passaggio 3 di 3: Collegare Marketo e Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+            + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+            + [Passaggio 3 di 3: Connettere Marketo e Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
          + Professional Edition {#professional-edition}
             + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-            + [Passaggio 2 di 3: Crea un utente Salesforce per Marketo (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+            + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
             + [Passaggio 3 di 3: Collegare Marketo e Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
          + Passaggi facoltativi {#optional-steps}
             + [Aggiungi/rimuovi campo di oggetto personalizzato come vincoli di elenco avanzato/trigger](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [Personalizzare la sincronizzazione delle attività](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
             + [Modifica mappature campi iniziali](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
             + [Attiva/Disattiva la sincronizzazione di Campaign](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
-            + [Rendere Marketo Sync User un utente di marketing](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
+            + [Creare un utente di Marketo Sync come utente di marketing](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
             + [Attiva/Disattiva la sincronizzazione personalizzata degli oggetti](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
             + [Abilita sincronizzazione oggetti personalizzata non inglese](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
             + [Imposta Cognome persona predefinito e Nome società](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
@@ -606,7 +606,7 @@ ht-degree: 0%
          + [Informazioni sulle integrazioni di Ad Network](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Aggiungere Google Customer Match come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [Aggiungere tipi di pubblico corrispondenti LinkedIn come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [Aggiungere tipi di pubblico corrispondenti a LinkedIn come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Inviare un elenco a una rete di annunci](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Eventi {#events}
          + Informazioni sugli eventi {#understanding-events}
@@ -620,12 +620,12 @@ ht-degree: 0%
             + [Creare un evento con GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Creare un evento con riunione Web di livello 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Creare un evento con ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + [Creare un evento con la scheda Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+            + [Creare un evento con l&#39;adattatore Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
             + [Configurare le impostazioni evento e sincronizzare Marketo con il webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
             + [Creare un evento in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
             + [Creare campagne figlio e risorse locali](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
             + [Crea il tuo evento webinar in ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-            + [Inserisci le tue credenziali ON24 in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
+            + [Immetti le tue credenziali ON24 in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
             + [Esempio di integrazione di eventi ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
             + [Aggiornamenti alla registrazione degli eventi ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
             + [Verifica dell’integrazione degli eventi ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
@@ -636,13 +636,13 @@ ht-degree: 0%
       + Facebook {#facebook}
          + [Aggiungere lead a un pubblico personalizzato in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Creare un pubblico personalizzato in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [Modifica le impostazioni dei post potenziati di Facebook](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Pubblicare pagine di destinazione su Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [Modifica impostazioni di Facebook Rich Post](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Pubblicare pagine di destinazione in Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [Imposta annunci lead Facebook](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-         + [Mappa campi personalizzati su Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
+         + [Mappatura di campi personalizzati su Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
          + [Configurazione delle conversioni offline di Facebook](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
          + [Test degli annunci lead Facebook per l’integrazione desktop con Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
-         + [Test degli annunci lead Facebook per l’integrazione mobile con Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
+         + [Test degli annunci lead Facebook per l’integrazione con Marketo per dispositivi mobili](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Informazioni sulle conversioni offline di Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Utilizzare filtri e attivatori lead Ads in una campagna avanzata](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + Forms {#forms}
@@ -667,7 +667,7 @@ ht-degree: 0%
             + [Modificare un modulo](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [Incorporare un modulo sul sito web](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [Abilitare la compilazione di un modulo social](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
-            + [Domande frequenti sul riempimento del modulo social LinkedIn](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
+            + [Domande frequenti sul riempimento dei moduli di linkedIn Social](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
             + [Mostra modulo HTML personalizzato per le persone note](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Utilizzare un modulo in una Lightbox](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + Struttura del modulo {#form-design}
@@ -735,7 +735,7 @@ ht-degree: 0%
          + Modelli di pagina di destinazione {#landing-page-templates}
             + [Creare un modello di pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Creare un modello di pagina di destinazione guidata](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-            + [Modificare un modello di pagina di destinazione Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
+            + [Modificare un modello di pagina di destinazione di Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [Rendere compatibile un modello mobile per pagina di destinazione in formato libero esistente](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [Elementi e variabili nei modelli guidati](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
             + [Elenco modelli pagina di destinazione guidata](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
@@ -804,9 +804,9 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -889,19 +889,19 @@ ht-degree: 0%
             + [Attiva compilazione modulo social su un modulo (Social)](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
             + [Gestisci dati profilo social](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [Imposta requisito condivisione social](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-            + [Imposta Forms lead Gen LinkedIn](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+            + [Imposta LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Triggers e filtri per le attività Social](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
-            + [Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico collegato](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+            + [Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico di LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Utilizzare le e-mail nelle promozioni social](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
-            + [Utilizzare i filtri e gli attivatori per moduli principali LinkedIn in una campagna avanzata](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Utilizzare filtri e attivatori per moduli lead Gen LinkedIn in una campagna avanzata](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Utilizza i codici promozionali per la consegna delle offerte](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Visualizza prestazioni social](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + Marchi dolci {#sweepstakes}
+         + Lotterie {#sweepstakes}
             + [Crea i tuoi Sweepstakes](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Personalizzare gli stili degli sweep](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [Pubblicare una sweep](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Selezionare i vincitori di Sweepstakes](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
-   + Marketing e-mail {#email-marketing}
+   + E-mail marketing {#email-marketing}
       + Consegna {#deliverability}
          + [Annullamento durevole dell&#39;abbonamento](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Power Pack di recapito messaggi e-mail: Come importare un elenco di sementi](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
@@ -1044,7 +1044,7 @@ ht-degree: 0%
       + [Glossario a icona](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
       + [Spostamento delle risorse](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
       + [Utilizzo della ricerca globale](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-   + Marketing Sales Connect {#marketo-sales-connect}
+   + Marketo Sales Connect {#marketo-sales-connect}
       + Guida introduttiva {#getting-started}
          + [Panoramica di Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Guida introduttiva a Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
@@ -1179,7 +1179,7 @@ ht-degree: 0%
             + [Panoramica dei feed live](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Annulla sottoscrizione {#unsubscribes}
             + [Personalizza messaggio collegamento di annullamento sottoscrizione](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
-            + [Controllo annullamento sottoscrizione Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
+            + [Controllo dell’annullamento dell’abbonamento a Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Registrazione di un annullamento dell’abbonamento](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
             + [Sincronizzazione degli abbonamenti con Salesforce](product-docs/marketo-sales-connect/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + [Annulla sottoscrizione gruppo](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-group.md)
@@ -1275,17 +1275,17 @@ ht-degree: 0%
             + [Inserimento di campi dinamici](product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
             + [I miei campi dinamici non si stanno compilando](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Riferimento in un campo dinamico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
-   + Approfondimenti vendite Marketo {#marketo-sales-insight}
+   + Informazioni sulle vendite Marketo {#marketo-sales-insight}
       + Utilizzo di MSI {#using-msi}
          + [Registra messaggi in entrata dai lead in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Plug-in Chrome MSI {#msi-chrome-plugin}
-         + [Installa Marketo Insights per Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+         + [Installare Marketo Insights per Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [Utilizzo di Marketo Insights per Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Visualizza informazioni e attività personali e account in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI per Microsoft Dynamics {#msi-for-microsoft-dynamics}
          + [Panoramica delle funzioni](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
          + Installazione di {#installing}
-            + [Scarica la soluzione Marketing Sales Insight per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Scarica la soluzione Marketo Sales Insight per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Installazione e configurazione di Marketo Sales Insight in Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [Installazione e configurazione di Marketo Sales Insight in Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Installazione e configurazione di Marketo Sales Insight in Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
@@ -1293,33 +1293,33 @@ ht-degree: 0%
             + [Installazione e configurazione di Marketo Sales Insight in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + Configurazione e utilizzo di {#setting-up-and-using}
             + [Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-            + [Campi obbligatori per la sincronizzazione di Marketo con Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
+            + [Campi richiesti per la sincronizzazione di Marketo con Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [Invia un messaggio e-mail di vendita Marketo da Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Impostazione di stelle e fiamme per i record lead/contatti](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + Disinstallazione di {#uninstalling}
             + [Disattiva Global MS Dynamics Sync](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [Disinstallare MSI dall’istanza di MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + Aggiornamento di {#updating}
-            + [Aggiornare la soluzione Marketing Sales Insight per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Aggiornare la soluzione Marketo Sales Insight per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI per Salesforce {#msi-for-salesforce}
          + Installazione {#installation}
-            + [Installa il pacchetto di informazioni sulle vendite di Marketo nell&#39;AppExchange Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [Installa il pacchetto Marketo Sales Insight in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Configurazione {#configuration}
-            + [Approfondimenti vendite Marketo in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-            + [Approfondimenti vendite Marketo in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-            + [Scheda Configurazione Approfondimenti vendite Marketo in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Pagina Approfondimenti vendite per gli amministratori di Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [Configurare Marketo Sales Insight in Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+            + [Configurare Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [Scheda di configurazione Marketo Sales Insight in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Pagina Approfondimenti vendite per gli amministratori Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Impostazione di Sales Insight per il team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Funzioni {#features}
             + [Panoramica delle funzioni MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + Azioni nel pannello MSI {#actions-in-the-msi-panel}
                + [Aggiungere un lead/contatto a una campagna Marketo da Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
-               + [Configurare i piè di pagina per l’annullamento dell’abbonamento in Approfondimenti vendite Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
+               + [Configurare i piè di pagina per l’annullamento dell’abbonamento in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Blocca modello di vendita](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Pubblicare un&#39;e-mail in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Invia un messaggio e-mail di test](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Azioni in blocco {#bulk-actions}
-               + [Aggiungi la scheda Approfondimenti vendite Marketo e i pulsanti a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+               + [Aggiungi la scheda Marketo Sales Insight e i pulsanti a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Azioni collettive in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Inviare un&#39;e-mail a più record in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
                + [Configurazione per i clienti esistenti](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
@@ -1348,20 +1348,20 @@ ht-degree: 0%
             + [Installazione e configurazione di Marketo Sales Insight in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Momenti interessanti a Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
             + [Visualizzazione del feed di piombo in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
-            + [Inviare e-mail Marketo e azioni campagna e lista di controllo in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+            + [Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + Aggiornamento di {#upgrading}
             + [Aggiornamento del pacchetto MSI](product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
       + Plug-in di Outlook MSI {#msi-outlook-plugin}
          + [Autorizzare il plugin di Marketo Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
          + [Installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
-         + [Installa il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
-         + [Rilasciare una licenza del componente aggiuntivo Marketo Email](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
+         + [Installare il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+         + [Rilasciare una licenza del componente aggiuntivo per e-mail di Marketo](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [Installazione di Marketo Outlook Plugin da parte di IT](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
-         + [Disinstallazione di Marketo Outlook Plugin da IT](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+         + [Disinstallazione di Marketo Outlook Plugin da parte di IT](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [Inviare e tenere traccia di un messaggio e-mail con il componente aggiuntivo e-mail per Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [Invia e tieni traccia da Outlook utilizzando un modello Marketo](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-         + [Specificare gli amministratori del plug-in Marketing Sales Insight](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
-         + [Aggiorna il componente aggiuntivo Marketo Email per Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+         + [Specifica amministratori plug-in di Marketo Sales Insight](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
+         + [Aggiornare il componente aggiuntivo e-mail Marketo per Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [Approfondimenti vendite per integrazioni Salesforce non native](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Abilitazione dei ruoli per Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
@@ -1614,7 +1614,7 @@ ht-degree: 0%
       + Implementazione dei tag RTP {#rtp-tag-implementation}
          + [Distribuzione del JavaScript RTP](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
          + [Abilitazione o disabilitazione del tag JavaScript RTP](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
-         + [Implementazione di RTP sulle pagine di destinazione Marketo](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
+         + [Implementazione di RTP sulle pagine di destinazione di Marketo](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
          + [Implementazione di RTP su Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [Implementazione di RTP su Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [Implementazione di RTP con Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
@@ -1649,7 +1649,7 @@ ht-degree: 0%
          + [Visualizzare segmenti da un’etichetta specifica](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [Segmenti web](product-docs/web-personalization/using-web-segments/web-segments.md)
       + Retargeting dei siti web {#website-retargeting}
-         + [Reportistica personalizzata in Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+         + [Remarketing personalizzato in Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Reportistica personalizzata in Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Retargeting with Web Personalization Data](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Utilizzo di campagne web {#working-with-web-campaigns}
