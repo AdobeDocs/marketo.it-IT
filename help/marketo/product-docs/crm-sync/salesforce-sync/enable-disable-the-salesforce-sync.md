@@ -1,30 +1,30 @@
 ---
 unique-page-id: 4719310
-description: Attiva/Disattiva sincronizzazione Salesforce - Documenti Marketo - Documentazione prodotto
-title: Abilita/Disattiva sincronizzazione Salesforce
+description: Attivare/disattivare la sincronizzazione Salesforce - Marketo Docs - Documentazione del prodotto
+title: Attiva/Disattiva la sincronizzazione Salesforce
+exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# Attiva/disattiva la sincronizzazione Salesforce {#enable-disable-the-salesforce-sync}
 
-# Abilita/Disattiva sincronizzazione Salesforce {#enable-disable-the-salesforce-sync}
+Quando apporti modifiche importanti alle impostazioni di sincronizzazione o campo, devi disattivare la sincronizzazione durante la configurazione. Ecco come:
 
-Quando apporti modifiche importanti alle impostazioni di sincronizzazione o campo, devi disattivare la sincronizzazione durante la configurazione. Di seguito è riportata la procedura seguente:
-
-1. Andate alla sezione **Admin**.
+1. Vai alla sezione **Amministratore** .
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. In **Salesforce**, fare clic su **Disattiva sincronizzazione**.
+1. In **Salesforce**, fai clic su **Disattiva sincronizzazione**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
-1. La sincronizzazione bidirezionale ora è disattivata e inattiva finché non viene riattivata. Le azioni di flusso Salesforce continueranno a funzionare.
+1. La sincronizzazione bidirezionale ora è disattivata e inattiva fino a quando non viene riabilitata. Le azioni di flusso di Salesforce continueranno a funzionare.
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
-1. Apportate le modifiche necessarie e riattivate la sincronizzazione. È lo stesso pulsante.
+1. Apporta le modifiche desiderate e riattiva la sincronizzazione. È lo stesso pulsante.
