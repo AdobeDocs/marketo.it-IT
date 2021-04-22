@@ -1,36 +1,36 @@
 ---
 unique-page-id: 1146933
-description: Esegui subito una campagna smart batch | Scheda Pianificazione - Documenti Marketo - Documentazione prodotto
-title: Esegui subito una campagna smart batch | Scheda Pianificazione
+description: Esegui subito una campagna avanzata in batch | Scheda Pianificazione - Documenti Marketo - Documentazione del prodotto
+title: Esegui subito una campagna avanzata in batch | Scheda Pianificazione
+exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
+# Esegui subito una campagna avanzata in batch | Scheda Pianificazione {#run-a-batch-smart-campaign-now-schedule-tab}
 
-# Esegui subito una campagna smart batch | Scheda Pianificazione {#run-a-batch-smart-campaign-now-schedule-tab}
+Una volta completata la creazione della campagna batch, puoi scegliere di eseguirla subito o in un secondo momento. Ecco come eseguirlo immediatamente.
 
-Dopo aver creato la campagna batch, potete scegliere di eseguirla subito o in un secondo momento. Ecco come eseguirlo immediatamente.
-
-1. Selezionate la campagna smart batch, andate alla scheda **Pianificazione** e fate clic su **Esegui una volta**.
+1. Seleziona la campagna avanzata batch, vai alla scheda **Pianificazione** e fai clic su **Esegui una volta**.
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Assicurarsi che l&#39;opzione **Esegui ora** sia selezionata e fare clic su **Esegui**.
+1. Assicurati che sia selezionato **Esegui ora** e fai clic su **Esegui**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
-1. Per confermare, fai clic su **Esegui** una volta di più.
+1. Conferma facendo clic su **Esegui** un&#39;altra volta.
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Facile! È inoltre possibile eseguire [programmazioni per le esecuzioni successive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md), se lo si preferisce.
+   Facile! Puoi anche [pianificare le esecuzioni per versioni successive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) se lo desideri.
 
    >[!NOTE]
    >
-   >* [Pianificazione di una campagna in batch intelligente da eseguire in un secondo momento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
-   >* [Pianificazione di una campagna batch ricorrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
+   >* [Pianificare una campagna avanzata in batch da eseguire in un secondo momento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Pianificare una campagna batch ricorrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
