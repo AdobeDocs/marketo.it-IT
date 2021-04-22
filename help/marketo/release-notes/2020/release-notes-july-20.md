@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: Note sulla versione - Luglio 20 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - Luglio 20 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Luglio 20
+exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Luglio &#39;20 {#release-notes-july}
 
-Le seguenti funzionalità sono incluse nella versione del 20 luglio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione del 20 luglio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 >[!AVAILABILITY]
 >
