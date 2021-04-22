@@ -2,14 +2,14 @@
 unique-page-id: 10099102
 description: Versioni dei plug-in per Microsoft Dynamics MSI - Documenti Marketo - Documentazione del prodotto
 title: Versioni dei plug-in per Microsoft Dynamics MSI
+exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 4%
 
 ---
-
 
 # Versioni dei plug-in per Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
