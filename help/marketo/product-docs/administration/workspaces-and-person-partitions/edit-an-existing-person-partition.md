@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360323
-description: Modifica di una partizione di persona esistente - Documenti Marketo - Documentazione di prodotto
-title: Modifica di una partizione di persona esistente
+description: Modificare una partizione di persona esistente - Documenti Marketo - Documentazione del prodotto
+title: Modificare una partizione di persona esistente
+exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
+# Modificare una partizione di persona esistente {#edit-an-existing-person-partition}
 
-# Modifica partizione persona esistente {#edit-an-existing-person-partition}
-
-Una partizione di persona è come avere un secondo (o terzo) database. È possibile collegare una partizione fino a uno o più ambienti di lavoro. Ecco come modificare i dettagli della partizione.
+Una partizione personale è come avere un secondo (o terzo) database. È possibile collegare una partizione fino a una o più aree di lavoro. Ecco come modificare i dettagli della partizione.
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ Una partizione di persona è come avere un secondo (o terzo) database. È possib
 
 >[!PREREQUISITES]
 >
->[Creazione di una partizione di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Creare una partizione di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. In **Admin**, fare clic su **Workspaces &amp; Partitions**.
+1. In **Amministratore**, fai clic su **Aree di lavoro e partizioni**.
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. Nella scheda **Partizioni di persona**, selezionare la partizione di persona da modificare e fare clic su **Modifica partizione di persona**.
+1. Sotto la scheda **Partizioni persona**, selezionare la partizione persona da modificare e fare clic su **Modifica partizione persona**.
 
    ![](assets/two-5.png)
 
-1. Inserire la partizione Persona **Nome**, le **Aree di lavoro** a cui appartengono e fare clic su **Salva**.
+1. Inserisci la partizione persona **Nome**, gli **spazi di lavoro** a cui appartengono e fai clic su **Salva**.
 
    ![](assets/three-5.png)
 
@@ -39,8 +39,8 @@ Una partizione di persona è come avere un secondo (o terzo) database. È possib
 
    ![](assets/four-4.png)
 
-È tutto. Sembra che una funzione così potente debba essere complessa, ma non lo è.
+Tutto qui. Sembra che una funzione così potente dovrebbe essere complessa, ma non lo è.
 
 >[!CAUTION]
 >
->Misurare due volte, tagliare una volta. Non si desidera assegnare una partizione all&#39;area di lavoro sbagliata.
+>Misurare due volte, tagliare una volta. Non si desidera assegnare una partizione all&#39;area di lavoro errata.
