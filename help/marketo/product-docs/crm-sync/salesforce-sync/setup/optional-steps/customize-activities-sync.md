@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4719294
-description: Personalizza sincronizzazione attività - Documenti Marketo - Documentazione prodotto
-title: Personalizza sincronizzazione attività
+description: Personalizzare la sincronizzazione delle attività - Documenti Marketo - Documentazione del prodotto
+title: Personalizzare la sincronizzazione delle attività
+exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
+# Personalizzare la sincronizzazione delle attività {#customize-activities-sync}
 
-# Personalizza sincronizzazione attività {#customize-activities-sync}
+Se non utilizzi Marketo Sales Insight, Marketo può creare i record della cronologia delle attività di Salesforce per alcuni eventi. Ecco come attivarli.
 
-Se non usi Marketing Sales Insight, Marketo può creare i record della cronologia attività Salesforce per alcuni eventi. Ecco come attivarli.
-
-1. Vai a **Admin**.
+1. Vai a **Amministratore**.
 
    ![](assets/admin.png)
 
-1. Fare clic su **Salesforce**, quindi fare clic su **Modifica opzioni di sincronizzazione**.
+1. Fai clic su **Salesforce**, quindi fai clic su **Modifica opzioni di sincronizzazione**.
 
    ![](assets/two-1.png)
 
-1. Selezionare le caselle accanto alle attività da inviare a Salesforce da Marketo e fare clic su **Salva**.
+1. Seleziona le caselle accanto alle attività che desideri vengano inviate a Salesforce da Marketo e fai clic su **Salva**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Una volta attivato, Marketo invierà la cronologia delle attività per tre mesi. A seconda della quantità di dati, _questo potrebbe richiedere diversi giorni per completare_. Gli aggiornamenti che si verificano durante il push delle attività iniziali potrebbero essere posticipati fino al completamento della sincronizzazione iniziale delle attività.
+   >Una volta attivato, Marketo invierà una cronologia delle attività per tre mesi. A seconda della quantità di dati, _questo potrebbe richiedere diversi giorni per il completamento_. Gli aggiornamenti che si verificano durante il push delle attività iniziali possono essere ritardati fino al completamento della sincronizzazione iniziale delle attività.
 
 <table> 
  <colgroup> 
@@ -45,15 +45,15 @@ Se non usi Marketing Sales Insight, Marketo può creare i record della cronologi
  <tbody> 
   <tr> 
    <td>Modulo compilato</td> 
-   <td>Compilato qualsiasi modulo Marketo</td> 
+   <td>Compilazione di qualsiasi modulo Marketo</td> 
   </tr> 
   <tr> 
-   <td>Aggiunto all'elenco</td> 
-   <td><p>Passaggio flusso: È stato aggiunto a un elenco statico</p></td> 
+   <td>Aggiunto all’elenco</td> 
+   <td><p>Passaggio del flusso: È stato aggiunto a un elenco statico</p></td> 
   </tr> 
   <tr> 
    <td>E-mail inviata</td> 
-   <td>Passaggio flusso: È stato inviato un messaggio e-mail</td> 
+   <td>Passaggio del flusso: È stato inviato un messaggio e-mail</td> 
   </tr> 
   <tr> 
    <td>E-mail consegnata</td> 
@@ -68,36 +68,36 @@ Se non usi Marketing Sales Insight, Marketo può creare i record della cronologi
    <td>Clic su un collegamento in un messaggio e-mail inviato da Marketo</td> 
   </tr> 
   <tr> 
-   <td>Rimosso dall'elenco</td> 
-   <td>Passaggio flusso: È stato rimosso da un elenco statico</td> 
+   <td>Rimosso dall’elenco</td> 
+   <td>Passaggio del flusso: È stato rimosso da un elenco statico</td> 
   </tr> 
   <tr> 
    <td>Rimuovi dal flusso</td> 
-   <td>Passaggio flusso: Rimuovi dal flusso</td> 
+   <td>Passaggio del flusso: Rimuovi dal flusso</td> 
   </tr> 
   <tr> 
-   <td>E-mail di vendita inviata</td> 
-   <td>È stato inviato un messaggio e-mail tramite Marketing Sales Insight</td> 
+   <td>Messaggio e-mail di vendita inviato</td> 
+   <td>È stato inviato un messaggio e-mail tramite Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>Messaggio e-mail di vendita aperto</td> 
-   <td>È stato aperto un messaggio e-mail inviato tramite Marketing Sales Insight</td> 
+   <td>È stata aperta un’e-mail inviata tramite Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Fate clic sul collegamento nel messaggio e-mail di vendita</td> 
-   <td>Fai clic su un collegamento in un messaggio e-mail inviato tramite Marketing Sales Insight</td> 
+   <td>Fai clic sul collegamento nell'e-mail di vendita</td> 
+   <td>Clic su un collegamento in un messaggio e-mail inviato tramite Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>E-mail di vendita ricevuta</td> 
-   <td>Un messaggio e-mail è stato ricevuto e registrato dal rappresentante delle vendite nel plug-in MSI Outlook</td> 
+   <td>Un messaggio e-mail è stato ricevuto e registrato dal rappresentante vendite nel plugin MSI Outlook</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->&quot;Messaggio e-mail di vendita ricevuto&quot; non contiene **nessun** valore medio consegnato. Lo stato consegnato non viene acquisito per le e-mail inviate tramite Sales Insight.
+>&quot;E-mail di vendita ricevuta&quot; indica **non** consegnata. Lo stato di consegna non viene acquisito per le e-mail inviate tramite Sales Insight.
 
 >[!TIP]
 >
->Per maggiori informazioni su Marketo in Salesforce, consulta il nostro prodotto [Marketing Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
+>Per maggiori informazioni su Marketo in Salesforce, consulta il nostro prodotto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) .
