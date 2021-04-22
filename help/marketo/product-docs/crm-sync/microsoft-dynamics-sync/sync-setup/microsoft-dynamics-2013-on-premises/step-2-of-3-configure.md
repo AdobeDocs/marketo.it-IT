@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571816
-description: Passaggio 2 di 3 - Configurare l’utente di sincronizzazione per Marketo (On-Premises 2013) - Documenti Marketo - Documentazione del prodotto
-title: Passaggio 2 di 3 - Configurare l’utente di sincronizzazione per Marketo (On-Premises 2013)
+description: Passaggio 2 di 3 - Configurare la sincronizzazione degli utenti per Marketo (On-Premises 2013) - Marketo Docs - Documentazione del prodotto
+title: 'Passaggio 2 di 3: configurare l’utente per la sincronizzazione per Marketo (On-Premises 2013)'
+exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
 
 ---
-
 
 # Passaggio 2 di 3: Configura l&#39;utente di sincronizzazione per Marketo (2013 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises}
 
@@ -21,7 +21,7 @@ Ottimo lavoro per completare i passaggi precedenti, continuiamo a farlo.
 
 ## Assegna ruolo utente di sincronizzazione {#assign-sync-user-role}
 
-Assegna il ruolo Utente sincronizzazione Marketo solo all’utente di sincronizzazione Marketo. Non è necessario assegnarlo ad altri utenti.
+Assegna il ruolo utente di sincronizzazione Marketo solo all&#39;utente di sincronizzazione Marketo. Non è necessario assegnarlo ad altri utenti.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Assegna il ruolo Utente sincronizzazione Marketo solo all’utente di sincronizz
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. Verrà visualizzato un elenco di utenti qui. Seleziona l&#39;utente dedicato di Marketo Sync o contatta l&#39;amministratore di [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [per creare un nuovo utente dedicato a Marketo.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. Verrà visualizzato un elenco di utenti qui. Seleziona l&#39;utente Marketo Sync dedicato o contatta l&#39;amministratore di [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [per creare un nuovo utente dedicato a Marketo.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -43,7 +43,7 @@ Assegna il ruolo Utente sincronizzazione Marketo solo all’utente di sincronizz
 
    ![](assets/image2015-3-26-11-3a18-3a6.png)
 
-1. Controllare **Marketo Sync User** e fare clic su **OK**.
+1. Controlla **Marketo Sync User** e fai clic su **OK**.
 
    ![](assets/image2014-12-11-11-3a14-3a52.png)
 
@@ -65,7 +65,7 @@ Quasi finito! Abbiamo solo qualche ultima configurazione prima di passare al pro
 
    >[!NOTE]
    >
-   >Se manca **Configurazione Marketo**, prova ad aggiornare la pagina. Se il problema persiste, [pubblica nuovamente la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) oppure prova a disconnetterti e ad effettuare di nuovo l&#39;accesso.
+   >Se manca **Configurazione Marketo**, prova ad aggiornare la pagina. Se il problema persiste, [pubblicare nuovamente la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) oppure provare a disconnettersi ed effettuare nuovamente l&#39;accesso.
 
 1. Fare clic su **Predefinito**.
 
@@ -93,4 +93,4 @@ Ottimo lavoro!
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Connetti Marketo e Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+>[Passaggio 3 di 3: Collegare Marketo e Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
