@@ -1,29 +1,29 @@
 ---
 unique-page-id: 557322
-description: Eseguire un singolo passaggio di flusso da un elenco avanzato - Marketo Docs - Documentazione prodotto
+description: Eseguire un singolo passaggio di flusso da un elenco avanzato - Marketo Docs - Documentazione del prodotto
 title: Eseguire un singolo passaggio di flusso da un elenco avanzato
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-
 # Eseguire un singolo passaggio di flusso da un elenco avanzato {#run-a-single-flow-step-from-a-smart-list}
 
-Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile utilizzare un singolo passaggio di flusso all&#39;interno di un elenco smart invece di creare un&#39;intera campagna smart.
+Se desideri eseguire un solo passaggio di flusso una volta, puoi utilizzare un singolo passaggio di flusso all’interno di un elenco smart invece di creare un’intera campagna intelligente.
 
 >[!PREREQUISITES]
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionate un elenco o un elenco smart con le persone al suo interno, quindi passate alla scheda **Persone**.
+1. Seleziona un elenco o un elenco smart con le persone incluse, quindi vai alla scheda **Persone** .
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -37,17 +37,17 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
 
    >[!NOTE]
    >
-   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** si selezioneranno tutte le persone su tutte le pagine.
+   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** verranno selezionate tutte le persone in tutte le pagine.
 
-1. In **Person** **Actions**, selezionare il passaggio di flusso desiderato. In questo esempio verrà utilizzato [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. In **Persona** **Azioni**, seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Cambia valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
-1. Trovare e selezionare un **attributo**. In questo esempio prenderemo tutte le persone che hanno lo stato &quot;California&quot; e lo cambieremo in &quot;CA&quot;.
+1. Trova e seleziona un **Attributo**. In questo esempio prenderemo tutte le persone che hanno lo stato &quot;California&quot; e lo cambieremo in &quot;CA&quot;.
 
    ![](assets/runaction-hands.png)
 
-1. Immettete un nuovo valore. Fare clic su **Esegui ora**.
+1. Immettere un nuovo valore. Fare clic su **Esegui ora**.
 
    ![](assets/runactionnewvalue-hands.png)
 
@@ -55,8 +55,8 @@ Se si desidera eseguire un solo passaggio di flusso una tantum, è possibile uti
 
    ![](assets/changedatavalue.jpg)
 
-Impressionante lavoro! Nell’angolo in alto a destra viene visualizzato lo stato del singolo passaggio di scorrimento.
+Lavoro fantastico! Nell’angolo in alto a destra viene visualizzato lo stato del singolo passaggio di flusso.
 
 ![](assets/completesingleflowaction.jpg)
 
-Al termine, aggiorna l&#39;elenco e vedrai le informazioni aggiornate.
+Al termine, aggiorna l’elenco e vedrai le informazioni aggiornate.
