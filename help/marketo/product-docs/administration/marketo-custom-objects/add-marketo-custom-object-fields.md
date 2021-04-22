@@ -31,7 +31,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
    >[!NOTE]
    >
-   >I tre campi indicati sopra vengono creati automaticamente da Marketo quando si crea un oggetto personalizzato. Marketo gestisce automaticamente questi campi e non è possibile modificarli o eliminarli.
+   >I tre campi indicati sopra vengono creati automaticamente da Marketo al momento della creazione di un oggetto personalizzato. Marketo gestisce automaticamente questi campi e non è possibile modificarli o eliminarli.
 
 1. Immetti un nome e una descrizione visualizzati.
 
@@ -57,11 +57,11 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
    >[!NOTE]
    >
-   >Se stai creando una struttura uno-a-molti, devi aggiungere un campo Collegamento all’oggetto personalizzato. Per una struttura molti-a-molti, non è necessario un campo di collegamento nell’oggetto personalizzato, ma è necessario aggiungere due campi di collegamento nell’oggetto intermedio. Per ulteriori informazioni sui tipi di oggetti personalizzati, consulta [Aggiungi campi di collegamento di oggetto personalizzato per il markto](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) e [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) .
+   >Se stai creando una struttura uno-a-molti, devi aggiungere un campo Collegamento all’oggetto personalizzato. Per una struttura molti-a-molti, non è necessario un campo di collegamento nell’oggetto personalizzato, ma è necessario aggiungere due campi di collegamento nell’oggetto intermedio. Per ulteriori informazioni sui tipi di oggetti personalizzati, consulta [Aggiungi campi di collegamento oggetto personalizzato Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) e [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) .
 
 >[!MORELIKETHIS]
 >
->* [Aggiungi campi collegamento oggetto personalizzato Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Aggiungi campi di collegamento a oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Modificare ed eliminare un oggetto personalizzato Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Modificare ed eliminare i campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
