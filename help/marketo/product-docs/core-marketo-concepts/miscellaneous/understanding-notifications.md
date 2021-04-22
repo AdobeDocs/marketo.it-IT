@@ -1,46 +1,46 @@
 ---
 unique-page-id: 2952292
-description: Informazioni sulle notifiche - Documenti Marketo - Documentazione prodotto
-title: Informazioni sulle notifiche
+description: Notifiche - Documentazione di Marketo - Documentazione del prodotto
+title: Notifiche
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# Notifiche {#understanding-notifications}
 
-# Informazioni sulle notifiche {#understanding-notifications}
-
-Le notifiche ti tengono aggiornato sugli eventi di sistema che si verificano nell’iscrizione a Marketo. Ad esempio, le notifiche di errore campagna ti informano sugli errori nelle tue campagne smart, e le notifiche di sincronizzazione CRM ti segnalano problemi critici riscontrati con la sincronizzazione CRM, come ad esempio autorizzazioni errate o la sincronizzazione offline.
+Le notifiche ti tengono aggiornato sugli eventi di sistema che si verificano nell’abbonamento a Marketo. Ad esempio, le notifiche di errore di Campaign ti informano sugli errori nelle campagne intelligenti e le notifiche di sincronizzazione CRM ti avvisano di problemi critici rilevati con la sincronizzazione CRM, ad esempio autorizzazioni non corrette o la sincronizzazione non disponibile.
 
 ## Panoramica {#overview}
 
-1. Nuove notifiche vengono visualizzate in alto a destra di Marketo.
+1. Le nuove notifiche vengono visualizzate in alto a destra in Marketo.
 
    ![](assets/image2014-10-10-11-3a32-3a48.png)
 
-1. Fate clic su Notifiche per visualizzare tutte le notifiche.
+1. Fai clic su Notifiche per visualizzare tutte le notifiche.
 
    ![](assets/image2014-10-10-11-3a55-3a44.png)
 
 ## Iscriviti alle notifiche {#subscribe-to-notifications}
 
-Potete abbonarvi alle notifiche per riceverle nell’e-mail.
+Puoi abbonarti alle notifiche per riceverle nella tua e-mail.
 
-1. Vai a Notifiche e fai clic su Iscrizione.
+1. Vai a Notifiche e fai clic su Iscriviti.
 
 ![](assets/image2014-10-10-12-3a3-3a29.png)
 
-1. Selezionate il tipo di notifica e immettete gli indirizzi e-mail a cui desiderate inviare le notifiche.
+1. Selezionare il tipo di notifica e immettere gli indirizzi e-mail a cui si desidera inviare le notifiche.
 
    ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
->In alcuni casi, una notifica fornisce un collegamento &quot;Vedi l’elenco completo&quot; per scaricare un file CSV (Comma Separated Value), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo conserva questi file CSV per 30 giorni. Se si tenta di scaricare il file dopo 30 giorni, verrà visualizzato un errore 404.
+>In alcuni casi, una notifica fornisce un collegamento &quot;Vedi l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione Microsoft Dynamics. Marketo conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, ottieni un errore 404.
 
 >[!TIP]
 >
->Desiderate annullare l’iscrizione alle e-mail di notifica? Nessun problema. È sufficiente fare clic sul collegamento **Annulla sottoscrizione a Notifiche** nella parte inferiore dell&#39;e-mail.
+>Desideri annullare l’iscrizione alle e-mail di notifica? Nessun problema. Fai clic sul collegamento **Annulla iscrizione a Notifiche** in fondo all’e-mail.
