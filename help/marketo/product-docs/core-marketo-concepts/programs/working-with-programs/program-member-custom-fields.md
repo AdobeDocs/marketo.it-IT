@@ -2,18 +2,18 @@
 unique-page-id: 37355569
 description: Campi personalizzati dei membri del programma - Documenti Marketo - Documentazione del prodotto
 title: Campi personalizzati membri del programma
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
 # Campi personalizzati dei membri del programma {#program-member-custom-fields}
 
-I campi personalizzati dei membri del programma consentono di raccogliere dati specifici per ciascun membro. Possono essere utilizzati in: Moduli Marketo, filtri e attivatori di Smart List e azioni di flusso di Smart Campaign. I dati sono visualizzabili nella scheda Membri del programma.
+I campi personalizzati dei membri del programma consentono di raccogliere dati specifici per ciascun membro. Possono essere utilizzati in: Moduli Marketo, filtri e attivatori dell’elenco avanzato e azioni di flusso di Smart Campaign. I dati sono visualizzabili nella scheda Membri del programma.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 | Oggetto | Descrizione |
 |---|---|
 | Azienda | Nome della società associata alla persona. |
-| Opportunità | Un&#39;opportunità può essere associata a una persona o un account come potenziale vendita futura. Di solito entrano in Marketo tramite un CRM, o tramite API. |
+| Opportunità | Un&#39;opportunità può essere associata a una persona o un account come potenziale vendita futura. Di solito entrano in Marketo tramite una gestione delle relazioni con i clienti o tramite API. |
 | Persona | Persona nel database Marketo con cui ti interessi tramite campagne di marketing. |
 | Membro del programma | Persona che è anche membro di un programma |
 
