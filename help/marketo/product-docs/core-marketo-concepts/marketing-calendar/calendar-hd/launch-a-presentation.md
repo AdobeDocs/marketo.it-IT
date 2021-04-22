@@ -1,24 +1,24 @@
 ---
 unique-page-id: 7504120
-description: Presentazione - Documenti Marketo - Documentazione prodotto
-title: Avviare una presentazione
+description: Avvia una presentazione - Documentazione di Marketo - Documentazione del prodotto
+title: Avvia una presentazione
+exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-
 # Avvia una presentazione {#launch-a-presentation}
 
-Dopo aver impostato le viste e la frequenza di rotazione per la presentazione, è ora di spegnersi!
+Una volta impostate le visualizzazioni e la frequenza di rotazione per la presentazione, è il momento di spegnersi!
 
 >[!AVAILABILITY]
 >
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
 >[!PREREQUISITES]
 >
@@ -28,16 +28,16 @@ Dopo aver impostato le viste e la frequenza di rotazione per la presentazione, �
 
 >[!TIP]
 >
->Assicurarsi di **visualizzare l&#39;anteprima di una presentazione** prima di avviarla.
+>Assicurati di **visualizzare in anteprima una presentazione** prima di avviarla.
 
-1. Fare clic su **Avvia**.
+1. Fai clic su **Launch**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Fare clic su **Avvia** una volta. Questo vi disconnetterà da Marketo in modo che la presentazione possa essere visualizzata in modo sicuro.
+1. Fai clic su **Launch** una volta di più. In questo modo potrai uscire da Marketo per visualizzare la presentazione in modo sicuro.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >La presentazione verrà avviata in una nuova scheda. Se necessario, spostare la scheda su un monitor esterno o un televisore per la visualizzazione e fare clic su **Schermo intero** (oppure premere **F11** sulla tastiera, se si utilizza Internet Explorer).
+   >La presentazione verrà avviata in una nuova scheda. Se necessario, spostare la scheda su un monitor esterno o un televisore per la visualizzazione e fare clic su **Schermo intero** (oppure premere **F11** sulla tastiera se si utilizza Internet Explorer).
