@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147055
-description: Azioni campagna - Elimina una campagna intelligente - Documenti Marketo - Documentazione prodotto
-title: Azioni campagna - Elimina una smart campagna
+description: Azioni campagna - Eliminare una campagna avanzata - Documenti Marketo - Documentazione del prodotto
+title: Azioni di campagna - Eliminare una campagna avanzata
+exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
+# Azioni campagna: Eliminare una campagna avanzata {#campaign-actions-delete-a-smart-campaign}
 
-# Azioni campagna: Eliminare una campagna intelligente {#campaign-actions-delete-a-smart-campaign}
-
-Se disponete di una vecchia campagna intelligente di cui non avete più bisogno, potete eliminarla. Ecco come.
+Se hai una vecchia campagna intelligente di cui non hai più bisogno, puoi cancellarla. Ecco come.
 
 >[!CAUTION]
 >
->Assicuratevi di farlo prima di eliminarlo. Una volta eliminata una campagna intelligente, non può essere ripristinata.
+>Assicurati prima di eliminare. Una volta eliminata una campagna intelligente, non può essere ripristinata.
 
-1. Andate all&#39;area **Attività di marketing**.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Passate alla campagna smart inattiva. In **Campaign** **Actions**, fare clic su **Delete**.
+1. Passa alla campagna avanzata inattiva. In **Campagna** **Azioni**, fai clic su **Elimina**.
 
    >[!TIP]
    >
@@ -31,10 +31,10 @@ Se disponete di una vecchia campagna intelligente di cui non avete più bisogno,
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
-1. Fare clic su **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
    ![](assets/image2014-9-22-16-3a41-3a59.png)
 
    >[!CAUTION]
    >
-   >Eseguite **NOT** l&#39;eliminazione di una campagna smart attiva con le persone nei passaggi di flusso. È probabile che la campagna venga ancora eseguita.
+   >Non eliminare una campagna avanzata attiva con le persone nei passaggi del flusso. **** È probabile che la campagna venga comunque eseguita.
