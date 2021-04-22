@@ -1,85 +1,85 @@
 ---
 unique-page-id: 9437991
-description: Attivatori e filtri per le campagne mobili intelligenti - Documenti Marketo - Documentazione prodotto
-title: Attivatori e filtri per le campagne mobili intelligenti
+description: Triggers e filtri per campagne avanzate mobili - Documenti Marketo - Documentazione del prodotto
+title: Triggers e filtri per campagne mobile avanzate
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
 
 ---
 
+# Trigger e filtri per campagne avanzate mobili {#triggers-and-filters-for-mobile-smart-campaigns}
 
-# Attivatori e filtri per campagne mobili intelligenti {#triggers-and-filters-for-mobile-smart-campaigns}
+Puoi impostare attivatori e filtri per una campagna avanzata app mobile.
 
-Puoi impostare attivatori e filtri per una campagna intelligente per app mobile.
+Per la maggior parte delle attività, sono disponibili un trigger, un filtro e un filtro di inattività. Utilizza i filtri di inattività per tracciare un’azione, ad esempio toccando una notifica push, che *non ha* generato.
 
-Per la maggior parte delle attività sono presenti un trigger, un filtro e un filtro di inattività. Utilizzate i filtri di inattività per tenere traccia di un&#39;azione, ad esempio toccando una notifica push, che *non è stata eseguita*.
-
-* L&#39;App Mobile È/È Stata Installata
-* App Mobile Aperta
+* L&#39;App Mobile È/Era Installata
+* App mobile aperta
 * Con/Avevano Attività App Mobile
-* Con/Avevano Sessione App Mobile
-* Toccate/Toccate Notifica push mobile
+* Con/Avevano sessione app mobile
+* Notifiche push per dispositivi mobili con tocco/tocco
 
-Esistono solo filtri per questa attività:
+Sono disponibili solo filtri per questa attività:
 
 * È stata inviata una notifica push - filtro e filtro di inattività
 
-Cerca **app mobile** nel pannello a destra per elencare tutti i trigger e i filtri dell&#39;app mobile.
+Cerca **app mobile** nel pannello di destra per elencare tutti i trigger e i filtri dell’app mobile.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
 ## Vincoli {#constraints}
 
-Usa i vincoli con attivatori e filtri per ordinare ulteriormente i dati.
+Utilizza i vincoli con i trigger e i filtri per ordinare ulteriormente i dati.
 
 ![](assets/image2015-8-17-12-3a6-3a33.png)
 
-Tutti gli attivatori e i filtri, ad eccezione di Invia notifica push, contengono i due vincoli standard seguenti:
+Tutti i trigger e i filtri, a eccezione di Era stato inviato una notifica push, contengono i due vincoli standard seguenti:
 
-* Tipo di dispositivo - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, Sconosciuto (questo è un elenco di predefiniti)
+* Tipo di dispositivo - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, Sconosciuto (questo è un elenco predefinito)
 
 * Piattaforma - iPhone o Android
 
-Alcuni attivatori e filtri offrono vincoli aggiuntivi, ad esempio:
+Alcuni trigger e filtri offrono vincoli aggiuntivi, ad esempio:
 
-* Versione app - Un modo per eseguire il targeting delle persone che non sono sulla versione più recente. Ad esempio, se l&#39;ultima versione dell&#39;app è 2.0, potete usarla per trovare persone che NON sono sull&#39;app versione 2.0
+* Versione app: modo per eseguire il targeting delle persone che non utilizzano la versione più recente. Ad esempio, se la versione più recente dell’app è 2.0, puoi usarla per trovare persone che NON sono nella versione 2.0 dell’app
 
-* Installa origine - Attualmente, l&#39;unica opzione è API
+* Install Source - Attualmente, l’unica opzione è API
 
-* Impostazioni internazionali - L&#39;impostazione sul dispositivo
+* Impostazioni internazionali: l&#39;impostazione sul dispositivo
 
-* App mobile: il nome di un&#39;app specifica. Utile per specificare se si dispone di più
+* App mobile: il nome dell&#39;app specifica. Utile per specificare se ne sono presenti più di uno
 
 * Versione piattaforma - Versione del sistema operativo
 
-* Durata sessione (secondi) - Ora della sessione in cui l&#39;app è in primo piano
+* Durata sessione (secondi) - Ora della sessione in cui l’app è in primo piano
 
-* È abilitato il push - **True** significa che è possibile inviare le notifiche push. **** Falsemei che non possono; ad esempio, la persona potrebbe aver rinunciato alla ricezione delle notifiche push
+* È abilitato per push - **True** significa che è possibile inviare le notifiche push. **** Falsemeans che non possono; ad esempio, la persona potrebbe aver rinunciato alla ricezione di notifiche push
 
 ## Triggers e filtri {#triggers-and-filters}
 
 **Con app mobile**
 
-Utilizzate questo filtro per scoprire tutti gli utenti che hanno già installato la vostra app. Questo è disponibile solo come filtro.
+Usa questo filtro per scoprire tutte le persone che hanno mai avuto la tua app installata. Questa opzione è disponibile solo come filtro.
 
 >[!NOTE]
 >
->Il filtro individuerà sia le installazioni correnti che quelle precedenti in quanto Marketo non tiene traccia dei disinstalli dell&#39;app.
+>Il filtro trova le installazioni correnti e precedenti, in quanto Marketo non tiene traccia delle disinstallazioni dell’app.
 
-**Vincoli**: Tipo di dispositivo, Piattaforma, App mobile, Versione app mobile, Tipo di dispositivo, Sorgente di installazione, È abilitato push e Impostazioni internazionali
+**Vincoli**: Tipo di dispositivo, Piattaforma, App mobile, Versione app mobile, Tipo di dispositivo, Origine di installazione, È abilitato tramite push e Impostazioni internazionali
 
 ![](assets/image2015-8-21-13-3a33-3a54.png)
 
 >[!TIP]
 >
->È buona norma specificare se l&#39;app con dispositivi mobili è impostata su True e se è abilitata la funzione Push = true, nonché il nome dell&#39;app mobile quando si definisce l&#39;elenco smart di chi deve ricevere una notifica push.
+>È consigliabile specificare Has Mobile App = true e Is Push Enabled = true, nonché il nome dell’app mobile durante la definizione dell’elenco avanzato di chi deve ricevere una notifica push.
 
-L&#39;App Mobile È/È Stata Installata
+L&#39;App Mobile È/Era Installata
 
-* App mobile installata - attiva
+* App mobile installata - trigger
 
 * App mobile installata - filtro
 
@@ -89,9 +89,9 @@ L&#39;App Mobile È/È Stata Installata
 
 ![](assets/image2015-8-17-13-3a11-3a3.png)
 
-App Mobile Aperta
+App mobile aperta
 
-* L&#39;app mobile è aperta - attiva
+* App mobile aperta - trigger
 
 * App mobile aperta - filtro
 
@@ -103,27 +103,27 @@ App Mobile Aperta
 
 Con/Avevano Attività App Mobile
 
-che forniscono un modo efficace per monitorare l&#39;attività mobile personalizzata. Per impostare il tracciamento [per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios) sarà necessario lavorare con il vostro sviluppatore.
+Queste forniscono un modo efficace per monitorare l’attività mobile personalizzata. Sarà necessario collaborare con lo sviluppatore per configurare il tracciamento [per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
-* Con attività app mobile - attivatore
+* Con attività app mobile - trigger
 
-* Avevano attività app mobile - filtro
+* Avevo attività app mobile - filtro
 
-* Attività app mobile NON presente - filtro di inattività
+* Attività app mobile non disponibile - filtro di inattività
 
 **Vincoli**: Tipo di dispositivo e piattaforma, più cinque ulteriori:
 
-* Azione - Attività mobile personalizzata
+* Azione: attività mobile personalizzata
 
-* Tipo azione - (facoltativo) Campo di testo utilizzato per classificare più azioni
+* Tipo azione : campo di testo (facoltativo) utilizzato per categorizzare più azioni
 
 * Dettagli azione - (facoltativo) Campo di testo che fornisce informazioni aggiuntive su un&#39;azione
 
-* Metrica azione - (facoltativo) Campo numerico che fornisce informazioni aggiuntive su un&#39;azione (ad esempio, prezzo)
+* Metrica azione : campo numerico (facoltativo) che fornisce informazioni aggiuntive su un’azione (ad esempio, prezzo)
 
-* Lunghezza azione (secondi) - (facoltativo) Campo numerico che può essere utilizzato per acquisire il tempo necessario all’utente per completare un’azione
+* Lunghezza azione (secondi) - (facoltativo) Campo numerico che può essere utilizzato per acquisire il tempo necessario a completare un&#39;azione da parte di un utente
 
-I vincoli Azione consentono di usare attivatore e filtri per tenere traccia dell’attività mobile molto da vicino.
+I vincoli di azione ti consentono di utilizzare il trigger e i filtri per tenere traccia delle attività mobili in modo molto simile.
 
 >[!NOTE]
 >
@@ -131,13 +131,13 @@ I vincoli Azione consentono di usare attivatore e filtri per tenere traccia dell
 >
 >Sotto il tipo di azione *Shopping*, ecco un&#39;azione molto specifica, con gli altri vincoli che la definiscono:
 >
->* Ho comprato una camicia
+>* Comprata una camicia
    >   * Era rosso
-   >   * È costato $ 30
+   >   * È costato 30$
    >   * Ci sono voluti 20 secondi per comprare
 
 
-Di seguito viene illustrato l’aspetto del filtro in Marketo:
+Ecco come si presenta il filtro in Marketo:
 
 ![](assets/image2015-8-17-13-3a16-3a12.png)
 
@@ -145,55 +145,55 @@ Di seguito viene illustrato l’aspetto del filtro in Marketo:
 >
 >**Esempio**
 >
->È possibile eseguire più azioni con lo stesso tipo di azione. In realtà, la vostra esperienza di acquisto normale può coinvolgere diverse colonne sotto Shopping! Che ne dite di un po&#39; di calze da accompagnare?
+>Puoi avere più azioni sotto lo stesso tipo di azione. Infatti, la vostra esperienza di shopping normale può coinvolgere diverse colonne sotto Shopping! Che ne dici di un po&#39; di calze da accompagnare?
 >
 >| Tipo di azione | Shopping | Shopping |
 >|---|---|---|
->| Azione | Camicia acquistata | Pantaloni acquistati |
+>| Azione | Camicia comprata | Pantaloni comprati |
 >| Dettagli azione | Colore | Colore |
 >| Metrica azione | Prezzo | Prezzo |
 
 
-**Con/Avevano Sessione App Mobile**
+**Con/Avevano sessione app mobile**
 
-* Con sessione app mobile - attivatore
+* Con sessione app mobile - trigger
 
 * Sessione app mobile con filtro
 
-* Sessione dell&#39;app mobile NON disponibile - filtro di inattività
+* Sessione app mobile NOT - filtro di inattività
 
 **Vincoli**: Tipo di dispositivo, piattaforma e lunghezza della sessione (secondi)
 
 ![](assets/image2015-8-17-13-3a18-3a34.png)
 
-Toccate/toccate la notifica push
+Notifiche push con tocco/a comparsa
 
-* Tocca Notifica push - attivatore
+* Tocca Notifica push - trigger
 
-* Notifica push con tocco - filtro
+* Notifica push con patch - filtro
 
-* NOTA push NON toccata - Filtro inattività
+* Notifica push non con tocco - Filtro di inattività
 
-**Vincoli**: Tipo di dispositivo, piattaforma, versione dell&#39;app mobile, notifica push e versione della piattaforma
+**Vincoli**: Tipo di dispositivo, piattaforma, versione dell’app mobile, notifica push e versione della piattaforma
 
 ![](assets/image2015-8-21-14-3a2-3a24.png)
 
 >[!TIP]
 >
->Utilizzate il filtro di inattività delle notifiche push non toccate per individuare le persone che non hanno toccato una notifica push inviata di recente, in modo da poter essere seguite tramite e-mail.
+>Utilizza il filtro di inattività delle notifiche push non toccate per individuare le persone che non hanno toccato una notifica push inviata di recente, in modo da poter seguire tramite e-mail.
 
-**È stata inviata** la notifica pushQuesta attività è disponibile solo come filtro.
+**È stata inviata una** notifica pushQuesta attività è disponibile solo come filtro.
 
-* È stata inviata una notifica push - filtro
+* È stata inviata la notifica push - filtro
 
-* NON inviato la notifica push - filtro di inattività
+* NOTA INVIATA Notifica push - Filtro inattività
 
-**Vincoli**: Notifica push e app mobile
+**Vincoli**: Notifiche push e app mobile
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
 >[!MORELIKETHIS]
 >
->* [Aggiunta di un vincolo a un filtro elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Utilizzo dei filtri per l&#39;inattività in un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Aggiungere un vincolo a un filtro elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Utilizzare i filtri di inattività in un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
