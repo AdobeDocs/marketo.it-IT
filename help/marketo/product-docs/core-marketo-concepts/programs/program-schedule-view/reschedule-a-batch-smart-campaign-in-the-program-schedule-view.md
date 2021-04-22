@@ -1,25 +1,25 @@
 ---
 unique-page-id: 7514985
-description: Programmazione di una campagna in batch nella visualizzazione Pianificazione programma - Documenti Marketo - Documentazione prodotto
-title: Programmazione di una campagna in batch nella vista Pianificazione programma
+description: Riprogrammazione di una campagna Smart in batch nella vista Pianificazione del programma - Marketo Docs - Documentazione del prodotto
+title: Riprogrammazione di una campagna Smart in batch nella vista Pianificazione del programma
+exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
+# Riprogrammazione di una campagna Smart in batch nella vista Pianificazione del programma {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
-# Riprogrammare una campagna in batch nella vista Pianificazione programma {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+Desideri ripianificare l&#39;esecuzione di una campagna intelligente batch? Trascinali e rilasciali in futuro nella vista Programmazione programma.
 
-Desiderate riprogrammare l&#39;esecuzione di una campagna intelligente in batch? Trascinateli e rilasciateli in futuro nella visualizzazione Pianificazione del programma.
-
-1. Selezionate la campagna intelligente da riprogrammare.
+1. Seleziona la campagna avanzata da riprogrammare.
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. Trascinare nella nuova data in cui si desidera eseguire la campagna.
+1. Trascina la nuova data in cui desideri eseguire la campagna.
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
