@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147049
-description: Rinominare una campagna intelligente - Documenti Marketo - Documentazione prodotto
-title: Rinominare una campagna intelligente
+description: Rinominare una campagna avanzata - Documenti Marketo - Documentazione del prodotto
+title: Rinominare una campagna avanzata
+exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
+# Rinomina una campagna avanzata {#rename-a-smart-campaign}
 
-# Rinominare una campagna intelligente {#rename-a-smart-campaign}
+Puoi modificare il nome di una campagna avanzata esistente. Ecco come.
 
-Potete modificare il nome di una campagna intelligente esistente. Ecco come.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,9 +25,9 @@ Potete modificare il nome di una campagna intelligente esistente. Ecco come.
 
    >[!TIP]
    >
-   >I nomi delle campagne intelligenti all&#39;interno dei programmi vengono sempre convertiti nel formato &#39;ProgramName.CampaignName&#39;.
+   >I nomi di campagne intelligenti all’interno dei programmi si traducono sempre nel formato &#39;NomeProgramma.NomeCampagna&#39;.
 
-1. Immettete il nuovo nome della campagna intelligente e fate clic su **Salva**.
+1. Immetti il nuovo nome della campagna avanzata e fai clic su **Salva**.
 
    ![](assets/rename-cursorandhand.png)
 
