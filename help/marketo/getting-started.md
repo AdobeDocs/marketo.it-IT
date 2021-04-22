@@ -1,33 +1,33 @@
 ---
 unique-page-id: 1147226
-description: Guida introduttiva - Documenti Marketo - Documentazione prodotto
-title: Guida introduttiva
+description: Guida introduttiva - Documenti Marketo - Documentazione del prodotto
+title: Introduzione
+exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 7%
 
 ---
 
-
 # Guida introduttiva {#getting-started}
 
-## STEP 1 Che cosa è Marketo {#what-is-marketo}
+## FASE 1 Che cosa è Marketo {#what-is-marketo}
 
-Cos&#39;è Marketo che chiedi? Grande domanda!
+Cos&#39;è Marketo che ti chiedi? Grande domanda!
 
 [Scopri Marketo](/help/marketo/getting-started/what-is-marketo.md)
 
-## STEP 2 Get Set {#get-set-up}
+## STEP 2 - Configurazione {#get-set-up}
 
-Con un piccolo aiuto del team IT, è possibile farlo in tempi brevi.
+Con un piccolo aiuto del team IT, è possibile farlo in poco tempo.
 
 [Avvia configurazione](/help/marketo/getting-started/setup-steps.md)
 
-## PASSAGGIO 3 Ottenere alcune vincite rapide {#get-some-quick-wins}
+## PASSAGGIO 3 Ottieni alcune vincite rapide {#get-some-quick-wins}
 
-Completa queste missioni per apprendere le caratteristiche principali di Marketo.
+Completa queste missioni per scoprire le funzionalità principali di Marketo.
 
 [![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Imposta e aggiungi una persona](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
@@ -39,18 +39,18 @@ Completa queste missioni per apprendere le caratteristiche principali di Marketo
 
 [![](/help/marketo/getting-started/assets/getting-started-5.png) 5. Risposta automatica e-mail](getting-started/quick-wins/email-auto-response.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-6.png) 6. Importa un elenco di persone](getting-started/quick-wins/import-a-list-of-people.md)
+[![](/help/marketo/getting-started/assets/getting-started-6.png) 6. Importare un elenco di persone](getting-started/quick-wins/import-a-list-of-people.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. Drip Drip Nurture](getting-started/quick-wins/drip-drip-nurture.md)
+[![](/help/marketo/getting-started/assets/getting-started-7.png) 7. Drip Nurture](getting-started/quick-wins/drip-drip-nurture.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-8.png) 8. Personalizzare un&#39;e-mail](getting-started/quick-wins/personalize-an-email.md)
+[![](/help/marketo/getting-started/assets/getting-started-8.png) 8. Personalizza un&#39;e-mail](getting-started/quick-wins/personalize-an-email.md)
 
-[![](/help/marketo/getting-started/assets/getting-started-9.png) 9. Avvisare il rappresentante commerciale](getting-started/quick-wins/alert-the-sales-rep.md)
+[![](/help/marketo/getting-started/assets/getting-started-9.png) 9. Avvisa il rappresentante commerciale](getting-started/quick-wins/alert-the-sales-rep.md)
 
 [![](/help/marketo/getting-started/assets/getting-started-10.png) 10. Aggiorna dati persona](getting-started/quick-wins/update-person-data.md)
 
-## STEP 4 Congratulazioni! Sei pronto per la nazione {#congrats-youre-ready-for-the-nation}
+## FASE 4 Congratulazioni! Sei pronto per la nazione {#congrats-youre-ready-for-the-nation}
 
-E&#39; ora di unirsi a Marketing Nation!
+È ora di unirsi al Marketing Nation!
 
-[Iscriviti alla nazione](https://nation.marketo.com)
+[Unisciti alla nazione](https://nation.marketo.com)
