@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949273
-description: SEO - Utilizzare il rapporto Tendenze parole chiave - Documenti Marketo - Documentazione prodotto
+description: SEO - Utilizzare il rapporto Tendenze parole chiave - Marketo Docs - Documentazione del prodotto
 title: SEO - Utilizzare il rapporto Tendenze parole chiave
+exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
+# SEO - Utilizzare il rapporto Tendenze parole chiave {#seo-use-the-keyword-trends-report}
 
-# SEO - Utilizzare il report Tendenze parole chiave {#seo-use-the-keyword-trends-report}
-
-In questo rapporto potete vedere come siete classificati in base alle parole chiave nel tempo.
+In questo rapporto puoi vedere in che modo ti trovi in una classifica delle parole chiave nel tempo.
 
 ## Carica rapporto {#load-report}
 
-1. Vai a **Reports**.
+1. Vai a **Rapporti**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Fare clic su **Tendenze di classificazione parole chiave**.
+1. Fai clic su **Tendenze di classificazione delle parole chiave**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -33,28 +33,28 @@ In questo rapporto potete vedere come siete classificati in base alle parole chi
 
    | Elemento | Descrizione |
    |---|---|
-   | Parole chiave | Numero di parole chiave da tracciare. |
-   | Classificazione degli URL | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
-   | Media rank | Il livello medio delle parole chiave nell’intervallo impostato. |
-   | Media search | Numero medio di ricerche effettuate sulle parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, nella ricerca Google US |
+   | Parole chiave | Il numero di parole chiave che stai tracciando. |
+   | URL di classificazione | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
+   | Media rango | Il grado medio delle parole chiave nell&#39;intervallo impostato. |
+   | Media ricerche | Il numero medio di ricerche su quelle parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, sulla ricerca Google US |
 
-## Filtro dati {#filtering-data}
+## Filtrare i dati {#filtering-data}
 
-1. Fai clic sul menu a discesa e seleziona il periodo di tempo desiderato.
+1. Fai clic sull’elenco a discesa e seleziona il periodo di tempo desiderato.
 
    ![](assets/image2014-9-18-14-3a13-3a40.png)
 
-1. Fare clic sul menu a discesa Classifica per scegliere l&#39;intervallo di classificazione per il quale si desidera visualizzare le parole chiave.
+1. Fare clic sull&#39;elenco a discesa Classifica per scegliere l&#39;intervallo di classificazione per cui si desidera visualizzare le parole chiave.
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Esportazione dati {#exporting-data}
+## Esportazione di dati {#exporting-data}
 
 >[!TIP]
 >
 >Puoi esportare il rapporto sul desktop.
 
-1. Fate clic su Esporta CSV o  Export PDF.
+1. Fai clic su Esporta CSV o Export PDF.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
@@ -62,5 +62,4 @@ In questo rapporto potete vedere come siete classificati in base alle parole chi
 
    >[!NOTE]
    >
-   >[Utilizzo del rapporto sulle tendenze della concorrenza dei rating KW](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-
+   >[Utilizzo del rapporto sulle tendenze della classifica KW competitiva](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
