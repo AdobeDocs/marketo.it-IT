@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355534
-description: Note sulla versione - Jan 2020 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - Jan 2020 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2020
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Gen. 2020{#release-notes-jan}
 
-Le seguenti funzionalità sono incluse nella versione del 20 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione del 20 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ Le seguenti funzionalità verranno rilasciate il **17 gennaio 2020**.
 >Attualmente, AEM Selettore risorse è completamente supportato solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nell’ultima versione di Chrome (v. 80), a seconda delle impostazioni dei cookie SameSite.
 
 * **Microsoft Dynamics - Sincronizza lead con CRM in tempo** reale: Sincronizzazione in tempo reale dei lead e dei contatti tra Marketi Engage e Microsoft Dynamics. Crea lead o contatti e visualizzali immediatamente in Microsoft Dynamics con l’azione di flusso &quot;Sincronizza persona con Microsoft&quot;.
-* **Mappatura** di campi aggiuntivi Forms di LinkedIn Lead Gen: Acquisisci i dati principali da LinkedIn Lead Gen Forms per creare esperienze più rilevanti sia per i punti di contatto di vendita che per quelli di marketing. Estrai i campi nascosti, i campi di consenso e il campo del test conduce al Marketo Engage.
+* **Mappatura** di campi aggiuntivi di linkedIn Lead Gen Forms: Acquisisci i dati principali da LinkedIn Lead Gen Forms per creare esperienze più rilevanti sia per i punti di contatto di vendita che per quelli di marketing. Estrai i campi nascosti, i campi di consenso e il campo del test conduce al Marketo Engage.
 * **API** delle dipendenze dei modelli e-mail: Ottieni un elenco delle risorse che dipendono da un modello e-mail per comprendere l’ambito delle potenziali modifiche e delle dipendenze degli indirizzi ai modelli può essere modificato ed eliminato più rapidamente.
 * **Miglioramenti** della gestione di più istanze: Accedi rapidamente all’istanza desiderata con un menu a discesa scorrevole e alfabetico delle tue iscrizioni.
 
