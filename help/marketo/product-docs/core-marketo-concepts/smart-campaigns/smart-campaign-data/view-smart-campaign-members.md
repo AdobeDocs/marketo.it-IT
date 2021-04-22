@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146937
-description: Visualizza i membri delle campagne intelligenti - Documenti Marketo - Documentazione prodotto
+description: Visualizzare i membri di Smart Campaign - Documenti Marketo - Documentazione del prodotto
 title: Visualizzare i membri di Smart Campaign
+exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
+# Visualizzare i membri di una campagna avanzata {#view-smart-campaign-members}
 
-# Visualizza membri campagna smart {#view-smart-campaign-members}
+Visualizzare le persone che hanno già attraversato il flusso di campagne intelligenti; ad esempio, membri di campagne intelligenti.
 
-Visualizzare le persone che hanno già eseguito il flusso di campagne intelligenti; ad esempio, i membri delle campagne intelligenti.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
 ![](assets/login-marketing-activities.png)
 
@@ -25,16 +25,16 @@ Visualizzare le persone che hanno già eseguito il flusso di campagne intelligen
 
 >[!TIP]
 >
->Potete visualizzare i membri della campagna ovunque vi troviate all&#39;interno di una campagna intelligente.
+>È possibile visualizzare i membri della campagna da qualsiasi punto all’interno di una campagna intelligente.
 
-1. La scheda **Membri campagna** mostra le persone che hanno già eseguito il flusso di campagne intelligenti.
+1. La scheda **Membri della campagna** mostra le persone che hanno già eseguito il flusso della campagna intelligente.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
    >[!NOTE]
    >
-   >L&#39;elenco Membri campagna sarà inizialmente vuoto se la campagna intelligente non è stata eseguita su nessun utente.
+   >L’elenco Membri della campagna sarà inizialmente vuoto se la campagna intelligente non è stata eseguita su alcuna persona.
 
    >[!MORELIKETHIS]
    >
-   >[Visualizzare le persone bloccate in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+   >[Visualizzare le persone bloccate in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
