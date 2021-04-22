@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2950660
-description: Crea tag personalizzati - Documenti Marketo - Documentazione del prodotto
-title: Crea tag personalizzati
+description: Creare tag personalizzati - Documenti Marketo - Documentazione del prodotto
+title: Creare tag personalizzati
+exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
+# Creare tag personalizzati {#create-custom-tags}
 
-# Crea tag personalizzati {#create-custom-tags}
-
-I tag consentono di organizzare i programmi mentre i canali assistono nella raccolta dei dati a scopo di reporting.
+I tag consentono di organizzare i programmi, mentre i canali facilitano la raccolta dei dati a scopo di reporting.
 
 >[!NOTE]
 >
->Per ulteriori informazioni, consultare [Informazioni sui tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md).
+>Per ulteriori informazioni, consulta [Informazioni sui tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) .
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ I tag consentono di organizzare i programmi mentre i canali assistono nella racc
 
 Per creare un nuovo tipo di tag:
 
-1. Andate alla sezione **Admin**.
+1. Vai alla sezione **Amministratore** .
 
    ![](assets/image2015-4-23-14-3a37-3a48.png)
 
@@ -39,15 +39,15 @@ Per creare un nuovo tipo di tag:
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
-1. Immettere un nome per il **Tipo di tag**.
+1. Immetti un nome per il **Tipo di tag**.
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
-1. Immettere il **Valore** desiderato per il tipo di tag. Fare clic su **Aggiungi un altro** per immettere valori di tag aggiuntivi.
+1. Inserisci il **Valore** desiderato per il tipo di tag. Fai clic su **Aggiungi un altro** per inserire valori di tag aggiuntivi.
 
    ![](assets/image2015-4-22-11-3a30-3a30.png)
 
-1. Selezionate i tipi di programmi a cui si applica questo tag.
+1. Seleziona a quali programmi si applica questo tag.
 
    ![](assets/image2015-4-22-11-3a39-3a7.png)
 
@@ -55,8 +55,8 @@ Per creare un nuovo tipo di tag:
    >
    >Selezionare **Obbligatorio per tutti i programmi** per aggiungere questo tag ogni volta che viene creato un nuovo programma.
 
-1. Fare clic su **Crea** per salvare.
+1. Fai clic su **Crea** per salvare.
 
    ![](assets/image2015-4-22-11-3a38-3a34.png)
 
-   È tutto! Ora è possibile creare tag personalizzati per i programmi.
+   Tutto qui! Ora è possibile creare tag personalizzati per i programmi.
