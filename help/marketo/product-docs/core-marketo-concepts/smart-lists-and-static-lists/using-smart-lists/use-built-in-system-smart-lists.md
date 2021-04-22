@@ -1,54 +1,54 @@
 ---
 unique-page-id: 557275
-description: Usa Smart List integrati/di sistema - Marketo Docs - Documentazione prodotto
-title: Usa elenchi avanzati integrati/di sistema
+description: Utilizzare elenchi smart integrati/di sistema - Documenti Marketo - Documentazione del prodotto
+title: Utilizzare elenchi smart di sistema/incorporati
+exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
+# Utilizzare elenchi smart di sistema/incorporati {#use-built-in-system-smart-lists}
 
-# Usa elenchi smart di sistema incorporati {#use-built-in-system-smart-lists}
-
-Marketo dispone di alcuni elenchi avanzati integrati molto utili. Controlliamole!
+Marketo ha alcuni elenchi smart integrati molto utili. Controlliamole!
 
 >[!NOTE]
 >
->Marketo sta cambiando termini come Blacklist e Whitelist per  Inserii nell&#39;elenco Bloccati e  Inserire nell&#39;elenco Consentiti nel nostro prodotto. Nel corso di questo aggiornamento, i vecchi termini possono essere visualizzati nella nostra interfaccia utente e nelle schermate della documentazione, nonché i nuovi termini nel nostro testo della documentazione. Ci scusiamo per ogni confusione.
+>Marketo sta cambiando termini come Blacklist e Whitelist in Inserii nell&#39;elenco Bloccati e Inserire nell&#39;elenco Consentiti nel nostro prodotto. Durante questo aggiornamento, potresti vedere i vecchi termini nella nostra interfaccia utente e le schermate della documentazione, e i nuovi termini nel nostro testo della documentazione. Ci scusiamo per ogni confusione.
 
-1. Accedere al **Database**.
+1. Vai al **Database**.
 
    ![](assets/db.png)
 
-1. Aprite la cartella **System Smart Lists** per visualizzare la raccolta.
+1. Apri la cartella **Elenchi avanzati di sistema** per visualizzare la raccolta.
 
    ![](assets/two.png)
 
-1. Per visualizzare un esempio: Selezionare **Tutte le persone**, quindi fare clic sulla scheda **Persone**.
+1. Per visualizzare un esempio: Seleziona **Tutte le persone**, quindi fai clic sulla scheda **Persone** .
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >I filtri negli elenchi smart del sistema non devono essere applicati a ogni elenco o campagna smart. I loro contenuti vengono automaticamente riconosciuti.
+   >I filtri negli elenchi avanzati di sistema non devono essere applicati a ogni elenco o campagna avanzata. Il loro contenuto viene riconosciuto automaticamente.
 
-Di seguito viene fornito un riepilogo delle operazioni eseguite dagli elenchi smart incorporati:
+Di seguito è riportato un riepilogo delle operazioni eseguite dagli elenchi smart incorporati:
 
 | Nome elenco | Descrizione |
 |---|---|
 | Tutte le persone | Tutte le persone nel database Marketo |
-| Persone non sottoscritte | Queste persone possono essere inviate solo e-mail operative; di solito questo è controllato dalla persona stessa. |
-| Marketing sospeso | Queste persone possono essere inviate solo e-mail operative; di solito questo è controllato da voi, gli esperti di marketing. |
-| inserire nell&#39;elenco Bloccati  | Queste persone non riceveranno alcuna e-mail. |
-| Indirizzi e-mail con rimbalzo | Persone con un indirizzo e-mail non recapitato o che rifiutano l’e-mail. |
+| Persone non abbonate | Queste persone possono essere inviate solo e-mail operative; questo è di solito controllato dalla persona stessa. |
+| Marketing sospeso | Queste persone possono essere inviate solo e-mail operative; questo è di solito controllato da voi, l&#39;addetto al marketing. |
+| Inserire nell&#39;elenco Bloccati | Queste persone non riceveranno alcuna e-mail. |
+| Indirizzi e-mail rimbalzati | Persone con un indirizzo e-mail non recapitato o che rifiutano l’e-mail. |
 | Possibili duplicati | Persone che potrebbero essere duplicate nel database Marketo. |
 
 >[!NOTE]
 >
->Impossibile eliminare gli elenchi smart del sistema. Ad eccezione dell’elenco dei possibili duplicati, non è possibile modificarli.
+>Impossibile eliminare gli elenchi smart di sistema. Ad eccezione dell’elenco Possibili duplicati, non è possibile modificarli.
 
 >[!MORELIKETHIS]
 >
