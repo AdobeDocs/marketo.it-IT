@@ -2,18 +2,18 @@
 unique-page-id: 4720476
 description: Icona Glossario - Documenti Marketo - Documentazione del prodotto
 title: Icona Glossario
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
-
 # Icona Glossario {#icon-glossary}
 
-Di seguito sono riportate le icone di Marketo Classic. Se hai effettuato il passaggio alla nuova interfaccia di Marketo Engage, il glossario delle icone [è disponibile qui](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+Di seguito sono riportate le icone per Marketo Classic. Se hai effettuato il passaggio alla nuova interfaccia di Marketo Engage, il glossario delle icone [è disponibile qui](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 **Icone generali**
 
@@ -383,7 +383,7 @@ Di seguito sono riportate le icone di Marketo Classic. Se hai effettuato il pass
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>Campagna avanzata richiesta (tramite azione di informazioni sulle vendite o flusso di Marketo)</td> 
+   <td>Campagna avanzata richiesta (tramite informazioni sulle vendite o azione di flusso Marketo)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1205,4 +1205,3 @@ Di seguito sono riportate le icone di Marketo Classic. Se hai effettuato il pass
   </tr> 
  </tbody> 
 </table>
-
