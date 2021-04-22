@@ -2,22 +2,22 @@
 unique-page-id: 1147126
 description: Utilizzo della scheda Home del programma - Marketo Docs - Documentazione del prodotto
 title: Utilizzo della scheda Home del programma
+exl-id: 04c36190-d853-4900-b566-973d08316e37
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
 # Utilizzo della scheda Pagina iniziale del programma {#using-the-program-home-tab}
 
-La scheda principale del programma offre una visualizzazione di alto livello di ciò che accade nel programma.
+La scheda home del programma offre una visualizzazione di alto livello di ciò che accade nel programma.
 
 ## Visualizzazione riepilogo {#summary-view}
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -29,21 +29,21 @@ La scheda principale del programma offre una visualizzazione di alto livello di 
    >
    >Questa è la visualizzazione predefinita. Fornisce informazioni sulle impostazioni, la pianificazione, i risultati e lo stato del programma dei membri.
 
-1. Fate clic su elementi sottolineati per apportare modifiche o visualizzare ulteriori informazioni.
+1. Fai clic su elementi sottolineati per apportare modifiche o visualizzare ulteriori informazioni.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Fate clic su **Esporta** in fondo al Riepilogo per scaricare il rapporto.
+1. Fai clic su **Esporta** nella parte inferiore del report di riepilogo per scaricare il report.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
-## Usato da vista {#used-by-view}
+## Utilizzato da View {#used-by-view}
 
 1. In Attività di marketing, seleziona un programma.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Fare clic sul menu a discesa **Visualizza**. Selezionare **Usato da**.
+1. Fai clic sul menu a discesa **Visualizza** . Selezionare **Utilizzato da**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -51,24 +51,24 @@ La scheda principale del programma offre una visualizzazione di alto livello di 
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## Visualizzazione iscrizione {#membership-view}
+## Visualizzazione appartenenza {#membership-view}
 
 1. In Attività di marketing, seleziona un programma.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Fare clic sul menu a discesa **Visualizza**. Selezionare **Appartenenza**.
+1. Fai clic sul menu a discesa **Visualizza** . Selezionare **Appartenenza**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
-   Questo mostra un grafico del punto in cui si trovano i membri mentre si spostano tra gli stati del programma.
+   Questo grafico mostra dove si trovano i membri mentre si spostano tra gli stati del programma.
 
    ![](assets/image2014-9-18-17-3a8-3a1.png)
 
    >[!NOTE]
    >
-   >**Storico** indica chiunque abbia mai seguito il programma, mentre  **** Attualmente include solo le persone presenti nel programma.
+   >**** Historically indica chiunque abbia mai seguito il programma, mentre  **** Currentonly include persone attualmente nel programma.
 
    >[!MORELIKETHIS]
    >
-   >[Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Informazioni sull’appartenenza al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
