@@ -1,65 +1,65 @@
 ---
 unique-page-id: 14745959
-description: Note sulla versione - Primavera '18 - Marketo Docs - Documentazione prodotto
+description: Note sulla versione - Primavera 18 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Primavera '18
+exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Primavera &#39;18 {#release-notes-spring}
 
-Le seguenti funzionalità sono incluse nella release primaverile del 18. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo.
+Le seguenti funzionalità sono incluse nella versione primaverile del 18. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
-Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione. Nota: Alcune delle funzioni incluse in questa versione non hanno articoli associati. Se un argomento include più sottotitoli, i collegamenti vengono inseriti in tale area.
+Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati per ciascuna funzione. Nota: Alcune delle funzioni incluse in questa versione non hanno articoli associati. Se un argomento ha più sottotitoli, i collegamenti vengono posizionati in tale punto.
 
-## Coinvolgimento delle vendite di Marketo, lancio e aggiornamenti di ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
+## Aggiornamenti Marketo per Engage, Launch e ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Coinvolgimento vendite Marketo](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * Aggiornamenti ToutApp
 
 >[!AVAILABILITY]
 >
->Sales Engage è un prodotto aggiuntivo. Contatta il tuo Customer Success Manager di Marketo o l&#39;Account Executive per un preventivo.
+>Sales Engage è un prodotto aggiuntivo. Contatta il tuo Marketo Customer Success Manager o Account Executive per un preventivo.
 
-Aumenta la pipeline e i ricavi grazie alla possibilità di incrementare le vendite con intelligenza, contenuti, playlist e analisi per convertire più lead in opportunità di vendita. Il coinvolgimento nelle vendite fornisce alle vendite e al marketing una piattaforma unificata per il coinvolgimento nel percorso dei clienti e consente un migliore coordinamento attraverso una visione condivisa dei punti di contatto dei clienti.
+Incrementa la pipeline e i ricavi consentendo alle vendite di essere dotate di intelligenza, contenuti, playlist e analisi per convertire più lead in opportunità di vendita. Sales Engage fornisce alle vendite e al marketing una piattaforma unificata per il coinvolgimento dei clienti nel percorso e consente un migliore coordinamento attraverso una visione condivisa dei punti di contatto dei clienti.
 
 **ToutApp**
 
-* **Scheda** di conformità: Assicurati la conformità ai requisiti GDPR acquisendo la fonte dei contatti di vendita e i dettagli del consenso dei clienti per la ricezione delle comunicazioni.
-* **Aggiornamento** criteri password: Rendi i tuoi dati più sicuri grazie a requisiti più severi per la creazione, il ripristino e la scadenza della password (conforme ai requisiti di conformità di tipo II Soc - Tipo 1).
-* **Esperienza** di impostazione account semplificata: Configura e collega l&#39;account a Gmail, Outlook e altri sistemi più rapidamente.
+* **Scheda** di conformità: Garantire la conformità ai requisiti RGPD acquisendo la fonte dei contatti di vendita e i dettagli del consenso dei clienti alla ricezione delle comunicazioni.
+* **Aggiornamento** dei criteri per le password: Rendi i tuoi dati più sicuri grazie a requisiti più rigorosi per la creazione, il ripristino e la scadenza della password (soddisfa i requisiti di conformità di tipo 1 di Soc II).
+* **Esperienza** di configurazione dell&#39;account semplificata: Configura e collega il tuo account a Gmail, Outlook e altri sistemi più velocemente.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
 [Marketo Sky Open Beta](https://help.marketo.com/)
 
-Scegli la versione beta aperta Marketo Sky per accedere a oltre 100 nuove funzionalità di incremento della produttività, tra cui:
+Accedi alla versione beta aperta di Marketo Sky per accedere a oltre 100 nuove funzionalità di incremento della produttività, tra cui:
 
-* Un menu di navigazione a sinistra aggiornato, regole dell&#39;elenco smart e azioni di flusso salvate, azioni di massa per la gestione delle risorse e scadenza pianificata delle risorse
+* Un menu di navigazione sinistro aggiornato, regole di elenchi avanzati salvate e azioni di flusso, azioni di massa per la gestione delle risorse e scadenza delle risorse pianificate
 * Guide in-app e aiuto contestuale
-* Etichette delle risorse e visualizzazioni del calendario più flessibili
+* Etichette delle risorse e visualizzazioni di calendario più flessibili
 
-## Approfondimenti delle prestazioni {#performance-insights}
+## Informazioni sulle prestazioni {#performance-insights}
 
-[Approfondimenti sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Informazioni sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Confronto Tra Un Anno E L&#39;Altro**
+**Confronto tra periodi su base annua**
 
 Ottieni informazioni più rilevanti confrontando i risultati sullo stesso periodo dell&#39;anno precedente.
 
 **Tendenza per più canali**
 
-Confronta le prestazioni di più canali nel tempo.
+Confrontare le prestazioni di più canali nel tempo.
 
-**Sincronizzazione e filtro campo personalizzato opportunità**
+**Sincronizzazione e filtraggio dei campi personalizzati delle opportunità**
 
-Filtrare i risultati in base ai campi personalizzati dell&#39;opportunità, come una specifica area di vendita. Per i campi numerici o della valuta, imposta valori minimi e massimi, ad esempio un importo minimo di opportunità, e genera informazioni dettagliate per intervalli di dati specifici.
+Filtrare i risultati per campi personalizzati opportunità, come una specifica area di vendita. Per i campi numerici o valutari, imposta i valori minimo e massimo, ad esempio un importo minimo di opportunità, e genera informazioni per intervalli di dati specifici.
 
 **Grafici rapidi condivisi**
 
@@ -73,20 +73,20 @@ La navigazione ottimizzata e i flussi di lavoro migliorati offrono visibilità a
 
 [Impostazione obiettivo](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Impostate l&#39;obiettivo dell&#39;algoritmo di ottimizzazione ContentAI per generare più visualizzazioni, clic o conversioni.
+Imposta l&#39;obiettivo dell&#39;algoritmo di ottimizzazione ContentAI per generare più visualizzazioni, clic o conversioni.
 
 ## Integrazione e API {#integration-and-apis}
 
-[Integrazione della postazione di lavoro Facebook](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+[Integrazione di facebook Workspace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
 Invia notifiche di sistema e momenti interessanti a Facebook Workplace.
 
-[API Elenco statico](https://developers.marketo.com/rest-api/assets/static-lists/)
+[API elenco statico](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-Gestire più facilmente gli elenchi tra Marketo e altri sistemi con nuove API bidirezionali per la creazione, la lettura, l&#39;aggiornamento e l&#39;eliminazione di elenchi statici in remoto, senza dover intervenire nell&#39;interfaccia di Marketo.
+Gestisci più facilmente gli elenchi tra Marketo e altri sistemi con nuove API bidirezionali per la creazione, la lettura, l’aggiornamento e l’eliminazione di elenchi statici in remoto senza intervenire nell’interfaccia utente di Marketo.
 
 ## Miglioramenti alla privacy {#privacy-enhancements}
 
-[Privacy tracciamento Web](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacy del web tracking](https://developers.marketo.com/javascript-api/lead-tracking/)
 
-Il monitoraggio Munchkin migliorato è conforme alle normative locali e internazionali sulla privacy, anonimizzando gli indirizzi IP dei visitatori Web e consentendo loro di scegliere definitivamente il tracciamento del web.
+Il monitoraggio Munchkin migliorato è conforme alle normative locali e internazionali sulla privacy, anonimizzando gli indirizzi IP dei visitatori web e consentendo loro di rinunciare definitivamente al web tracking.
