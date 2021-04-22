@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949194
-description: SEO - Aggiungere un sito/Eliminare un sito - Documenti Marketo - Documentazione prodotto
+description: SEO - Aggiungere un sito/eliminare un sito - Documentazione di Marketo - Documentazione del prodotto
 title: SEO - Aggiungere un sito/Eliminare un sito
+exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
+# SEO - Aggiungere un sito/Eliminare un sito {#seo-add-a-site-delete-a-site}
 
-# SEO - Aggiunta di un sito/eliminazione di un sito {#seo-add-a-site-delete-a-site}
-
-Affinché Marketo possa estrarre dati (collegamenti in entrata e raccomandazioni) relativi alle pagine del sito, è necessario definire qui l&#39;URL del sito.
+Affinché Marketo possa richiamare dati (collegamenti in entrata e consigli) pertinenti alle pagine del sito, devi definire qui l’URL del sito.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
 ## Aggiungere un sito {#add-a-site}
 
-1. Fai clic sul menu a discesa Admin (Amministratore) e seleziona **Admin**.
+1. Fai clic sull&#39;elenco a discesa Amministratore e seleziona **Amministratore**.
 
    >[!NOTE]
    >
@@ -33,11 +33,11 @@ Affinché Marketo possa estrarre dati (collegamenti in entrata e raccomandazioni
 
    ![](assets/two.png)
 
-1. Immettete il **Nome, URL del sito Web** e fate clic su **Salva**.
+1. Inserisci il **Nome, URL del sito Web** e fai clic su **Salva**.
 
    >[!TIP]
    >
-   >È inoltre possibile aggiungere un **URL del blog** se disponibile.
+   >Puoi anche aggiungere un **URL di blog** se disponibile.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -47,9 +47,9 @@ Affinché Marketo possa estrarre dati (collegamenti in entrata e raccomandazioni
 
 ## Eliminare un sito {#delete-a-site}
 
-Se tenete traccia di più siti, potete anche eliminare un sito che non siete più interessati a ottimizzare.
+Se tieni traccia di più siti, puoi anche eliminare un sito che non ti interessa più eseguire l’ottimizzazione.
 
-1. Fai clic sul menu a discesa Admin (Amministratore) e seleziona **Admin**.
+1. Fai clic sull&#39;elenco a discesa Amministratore e seleziona **Amministratore**.
 
    ![](assets/one.png)
 
@@ -61,10 +61,10 @@ Se tenete traccia di più siti, potete anche eliminare un sito che non siete pi�
 
    ![](assets/seven.png)
 
-1. Confermare che si desidera **eliminare**.
+1. Conferma di voler **Eliminare**.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >È possibile eliminare un sito solo se si dispone di più siti. Se si dispone solo di uno, è possibile eseguire una reimpostazione selezionando il sito e facendo clic su **Reset**. Reimpostando un sito _verranno eliminati tutti i dati del sito_ e ricreato il sito.
+   >È possibile eliminare un sito solo se ne dispone di più di uno. Se ne hai solo uno, puoi eseguire una reimpostazione selezionando il sito e facendo clic su **Reset**. Reimpostando un sito _verranno eliminati tutti i dati del sito_ e verrà ricreato il sito.
