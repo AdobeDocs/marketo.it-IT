@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571830
-description: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (Online) - Documenti Marketo - Documentazione del prodotto'
-title: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (Online)'
+description: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (online) - Documentazione Marketo - Documentazione del prodotto'
+title: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (online)'
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-
-# Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
+# Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
 Questo è l&#39;ultimo passaggio della sincronizzazione. Ci siamo quasi!
 
 >[!PREREQUISITES]
 >
 >* [Passaggio 1 di 3: Installare la soluzione Marketo (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->* [Passaggio 2 di 3: Configurare l’utente di sincronizzazione di Marketo in Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Ci siamo quasi!
 
    >[!CAUTION]
    >
-   >Assicurati che le tue credenziali siano corrette in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se vengono salvate le credenziali errate, dovrai ottenere una nuova sottoscrizione Marketo.
+   >Assicurati che le tue credenziali siano corrette in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se vengono salvate le credenziali errate, sarà necessario ottenere una nuova sottoscrizione Marketo.
 
 1. Inserisci **Nome utente**, **Password** e Microsoft Dynamics **URL**. Al termine, fai clic su **Salva**.
 
@@ -53,7 +53,7 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Ci siamo quasi!
 
    >[!NOTE]
    >
-   >* Se il provisioning di Marketo è stato eseguito prima di ottobre 2020, l’ID client e il segreto sono campi facoltativi. Altrimenti, sono obbligatori. L&#39;ottenimento di queste informazioni dipenderà dalla versione di MSD in uso.
+   >* Se il provisioning del tuo Marketo è stato eseguito prima di ottobre 2020, gli ID client e il segreto sono campi facoltativi. Altrimenti, sono obbligatori. L&#39;ottenimento di queste informazioni dipenderà dalla versione di MSD in uso.
    >* Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere `user@domain.com` o DOMAIN\user.
    >* Se non conosci l&#39;URL, [scopri come trovarlo qui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
@@ -64,7 +64,7 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Ci siamo quasi!
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Seleziona i campi da sincronizzare con Marketo in modo che vengano preselezionati. Fare clic su **Salva**.
+1. Seleziona i campi da sincronizzare in Marketo, in modo che vengano preselezionati. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -96,7 +96,7 @@ Se hai creato un filtro personalizzato, assicurati di entrare e selezionare i nu
 
    >[!CAUTION]
    >
-   >Marketo non eseguirà automaticamente la deduplicazione rispetto a una sincronizzazione di Microsoft Dynamics o quando si immettono manualmente persone o lead.
+   >Marketo non eseguirà automaticamente il deduplicazione rispetto a una sincronizzazione di Microsoft Dynamics o quando immetti manualmente persone o lead.
 
 1. Leggi tutto nella finestra a comparsa, inserisci il tuo indirizzo e-mail e fai clic su **Avvia sincronizzazione**.
 
