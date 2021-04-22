@@ -1,61 +1,61 @@
 ---
 unique-page-id: 2951111
-description: Note sulla versione - Settembre 2012 - Marketo Docs - Documentazione prodotto
+description: Note sulla versione - Settembre 2012 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2012
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
+# Note sulla versione: Settembre 2012{#release-notes-september}
 
-# Note sulla versione: Settembre 2012 {#release-notes-september}
+Questa versione include funzionalità social integrate altamente anticipate e soluzioni per la gestione dei lead! Nota: le funzioni social sono disponibili come componente aggiuntivo o come parte di bundle selezionati.
 
-Questa versione include funzionalità social integrate e vantaggi per la gestione dei lead! Nota: le funzioni per social network sono disponibili come componente aggiuntivo o come parte di pacchetti selezionati.
+## Pubblicare un video YouTube con condivisione social {#publish-a-youtube-video-with-social-sharing}
 
-## Pubblicare un video di YouTube con condivisione per social network {#publish-a-youtube-video-with-social-sharing}
-
-Amplificate il pubblico dei video incoraggiando i visitatori a condividerli socialmente, utilizzando la nuova condivisione video sulle pagine di destinazione.
+Amplifica il pubblico dei tuoi video incoraggiando i visitatori a condividerli socialmente, utilizzando la nuova condivisione video sulle pagine di destinazione.
 
 ![](assets/image2014-9-23-10-3a39-3a21.png)
 
-## Aggiungere un pulsante di condivisione {#add-a-share-button}
+## Aggiungi un pulsante Condividi {#add-a-share-button}
 
-Personalizzare completamente i messaggi di condivisione e l&#39;aspetto di un nuovo set di pulsanti di condivisione social network. Inoltre, potete acquisire i dati del profilo sociale mentre i lead condividono i contenuti.
+Personalizza completamente i messaggi di condivisione e l&#39;aspetto di un nuovo set di pulsanti di condivisione social network. Inoltre, acquisisci i dati del profilo social man mano che i lead condividono i contenuti.
 
 ![](assets/image2014-9-23-10-3a39-3a46.png)
 
-## Social Sign-On {#social-sign-on}
+## Accesso social {#social-sign-on}
 
-Ottenere informazioni approfondite e ridurre gli attriti consentendo ai lead di precompilare i moduli con le informazioni provenienti dai social network.
+Acquisire informazioni approfondite e ridurre gli attriti consentendo ai lead di precompilare moduli con informazioni provenienti dai loro social network.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Pubblica pagine di destinazione su Facebook {#publish-landing-pages-to-facebook}
+## Pubblicare pagine di destinazione in Facebook {#publish-landing-pages-to-facebook}
 
-Ampliate il raggio d&#39;azione delle pagine di destinazione pubblicandole direttamente su Facebook, complete di app per social network, moduli e tutte le funzionalità delle pagine di destinazione di Marketo.
+Amplia la portata delle pagine di destinazione pubblicandole direttamente in Facebook, complete di app per social network, moduli e tutte le funzionalità delle pagine di destinazione di Marketo.
 
-## Scheda evento ReadyTalk {#readytalk-event-adapter}
+## Adattatore evento ReadyTalk {#readytalk-event-adapter}
 
-Collegate facilmente un evento Marketo a una riunione ReadyTalk. Utilizza un modulo Marketo per acquisire gli utenti registrati e registrarli automaticamente in ReadyTalk. Una sincronizzazione bidirezionale consente la compilazione delle informazioni di partecipazione in Marketo.
+Collega facilmente un evento Marketo a una riunione ReadyTalk. Utilizza un modulo Marketo per acquisire i dichiaranti e registrarli automaticamente in ReadyTalk. Una sincronizzazione bidirezionale consente la compilazione delle informazioni sulle presenze in Marketo.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics locale {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
 
-È ora disponibile il supporto per Microsoft Dynamics 2011 in sede con una distribuzione Internet.
+È ora supportata Microsoft Dynamics 2011 on-premise con una distribuzione su Internet.
 
-## Ganci Web (Torace del Tesoro) {#webhooks-treasure-chest}
+## Ganci web (Torace del tesoro) {#webhooks-treasure-chest}
 
-Un Webhook è un callback HTTP definito dall&#39;utente. È un ottimo modo per inviare i dati da Marketo a qualsiasi altro servizio. Al momento questa funzione è disponibile nel Cesto del tesoro ed è supportata solo nelle campagne di attivazione.
+Un Webhook è un callback HTTP definito dall&#39;utente. È un ottimo modo per inviare dati da Marketo a qualsiasi altro servizio. Al momento questa funzione è disponibile nel kit per il tesoro ed è supportata solo nelle campagne di attivazione.
 
-Alcuni esempi di utilizzo di Webhooks includono: inserire informazioni su nome utente e password in un altro sistema per creare un account di prova; invio di un SMS quando si ottiene un nuovo lead.
+Alcuni esempi di utilizzo di Webhook includono: registrazione di informazioni su nome utente e password in un altro sistema per creare un account di prova; invio di un messaggio SMS quando si riceve un nuovo lead.
 
 ## Aggiornamento dell&#39;API getMultipleLeads {#update-to-getmultipleleads-api}
 
-Abbiamo aggiunto nuovi criteri di filtro alla chiamata API getMultipleLeads. Oltre al filtraggio per data, ora supportiamo criteri aggiuntivi:
+Abbiamo aggiunto nuovi criteri di filtro alla chiamata API getMultipleLeads. Oltre a filtrare per data, ora sono supportati criteri aggiuntivi:
 
 * Intervalli di date
 * Nomi elenco statici
