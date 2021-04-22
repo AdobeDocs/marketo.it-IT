@@ -1,41 +1,41 @@
 ---
 unique-page-id: 10098433
-description: Creare un Inserire nell'elenco Consentiti  per l'accesso API basato su IP - Marketo Docs - Documentazione prodotto
-title: Creare un Inserire nell'elenco Consentiti di  per l'accesso API basato su IP
+description: Creare un Inserire nell'elenco Consentiti per l’accesso API basato su IP - Marketo Docs - Documentazione del prodotto
+title: Creare un Inserire nell'elenco Consentiti per l’accesso API basato su IP
+exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
+# Crea un Inserire nell&#39;elenco Consentiti per l&#39;accesso API basato su IP {#create-an-allowlist-for-ip-based-api-access}
 
-# Creare un Inserire nell&#39;elenco Consentiti di  per l&#39;accesso API basato su IP {#create-an-allowlist-for-ip-based-api-access}
-
-Talvolta, potete concedere l&#39;accesso API solo a un indirizzo IP specifico o a un intervallo di indirizzi. A questo scopo, prima abilitate le restrizioni, quindi specificate gli indirizzi IP consentiti per l&#39;utilizzo delle API.
+A volte, puoi concedere l’accesso API solo a un indirizzo IP specifico o a una serie di indirizzi. A questo scopo, devi prima abilitare le restrizioni, quindi specificare gli indirizzi IP che possono utilizzare le API.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedete a **Admin** e fate clic su **Web Services**.
+1. Vai a **Amministratore** e fai clic su **Servizi web**.
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. Nell&#39;area Limitazioni IP, fare clic su **Modifica,** o su **Modifica limitazioni IP** in alto a sinistra.
+1. Nell&#39;area Limitazioni IP fare clic su **Modifica,** o su **Modifica restrizioni IP** in alto a sinistra.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
-1. Selezionare la casella **Abilita limitazioni IP** e immettere gli indirizzi IP che si desidera  inserire nell&#39;elenco Consentiti.
+1. Seleziona la casella **Abilita restrizioni IP** e immetti gli indirizzi IP che desideri inserire nell&#39;elenco Consentiti.
 
    ![](assets/image2016-2-25-9-3a18-3a28.png)
 
    >[!NOTE]
    >
-   >Potete inserire un indirizzo IP singolo o un intervallo di indirizzi IP oppure utilizzare un carattere jolly.
+   >È possibile immettere un indirizzo IP singolo o un intervallo di indirizzi o utilizzare un carattere jolly.
 
-1. Fare clic su **Aggiungi** per aprire altri campi per immettere altri indirizzi IP.
+1. Fai clic su **Aggiungi** per aprire altri campi per immettere altri indirizzi IP.
 
    ![](assets/image2016-2-25-9-3a20-3a47.png)
 
