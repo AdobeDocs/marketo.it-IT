@@ -1,21 +1,21 @@
 ---
 unique-page-id: 37356194
-description: Inviare un elenco a Adobe Experience Cloud - Documenti Marketo - Documentazione del prodotto
+description: Inviare un elenco a Adobe Experience Cloud - Documentazione Marketo - Documentazione del prodotto
 title: Inviare un elenco a Adobe Experience Cloud
+exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 0%
 
 ---
 
-
 # Invia un elenco a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
->Impossibile utilizzare questa funzionalità per una distribuzione HIPAA di un&#39;istanza Marketo.
+>Impossibile utilizzare questa funzionalità in una distribuzione HIPAA di un&#39;istanza Marketo.
 
 >[!PREREQUISITES]
 >
@@ -86,7 +86,7 @@ La sincronizzazione di un elenco significa che ogni volta che aggiorni un elenco
 
 È possibile impedire la sincronizzazione dell&#39;elenco in qualsiasi momento.
 
-1. In Marketo, individuare e selezionare l’elenco di cui si desidera interrompere la sincronizzazione.
+1. In Marketo, trova e seleziona l’elenco di cui desideri interrompere la sincronizzazione.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -106,28 +106,28 @@ La sincronizzazione di un elenco significa che ogni volta che aggiorni un elenco
 
 **Condivisione su Adobe Analytics**
 
-Per i clienti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà la condivisione dei tipi di pubblico da Marketo alle suite di rapporti Adobe Analytics, tuttavia per abilitarlo è necessario eseguire alcuni passaggi di configurazione aggiuntivi in Adobe Audience Manager. Per ulteriori informazioni su come impostare questa configurazione, consulta la documentazione di Adobe Audience Manager: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Per i clienti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà la condivisione dei tipi di pubblico da Marketo alle suite di rapporti di Adobe Analytics. Tuttavia, per abilitarlo, è necessario eseguire alcuni passaggi aggiuntivi in Adobe Audience Manager. Per ulteriori informazioni su come impostare questa configurazione, consulta la documentazione di Adobe Audience Manager: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Utilizzo delle caratteristiche per i clienti Adobe Audience Manager**
 
 Quando avvii un’esportazione di elenchi in Marketo, noterai le seguenti modifiche riportate nell’istanza Adobe Audience Manager:
 
 * Per tutti i lead dell’elenco esportato, Marketo scriverà una caratteristica utilizzando le e-mail con hash dei lead come identificatore tra dispositivi. Il nome della caratteristica corrisponderà al Nome del pubblico di destinazione specificato durante l&#39;esportazione.
-* Per tutti gli ECID che Marketo è riuscito a trovare in corrispondenza con i Lead nell’elenco esportato, Marketo scriverà una caratteristica utilizzando l’identificatore del dispositivo ECID. Il nome della caratteristica corrisponderà al Nome del pubblico di destinazione specificato durante l&#39;esportazione.
-* Marketo creerà anche un segmento nella tua istanza di Audience Manager utilizzando la caratteristica ECID come unico criterio di segmentazione. Il nome del segmento corrisponderà al Nome del pubblico di destinazione specificato durante l’esportazione.
+* Per tutti gli ECID che Marketo è riuscito a trovare in corrispondenza dei lead nell’elenco esportato, Marketo scriverà una caratteristica utilizzando l’identificatore del dispositivo ECID. Il nome della caratteristica corrisponderà al Nome del pubblico di destinazione specificato durante l&#39;esportazione.
+* Marketo creerà anche un segmento nell’istanza di Audience Manager utilizzando la caratteristica ECID come unico criterio di segmentazione. Il nome del segmento corrisponderà al Nome del pubblico di destinazione specificato durante l’esportazione.
 
 ## Domande frequenti {#faq}
 
 **Perché la dimensione dell’elenco in Marketo è diversa da quella dell’Adobe?**
 
-Sotto il cofano, l&#39;integrazione del pubblico funziona sincronizzando i cookie Marketo Munchkin con il cookie ECID Adobe corrispondente. Marketo può condividere solo i dati di appartenenza per i lead per i quali Marketo ha sincronizzato un ECID. Per ottenere i migliori risultati possibili, ti consigliamo di caricare lo script di tracciamento munchkin.js di Marketo in parallelo con il codice di tracciamento visitor.js di Adobe su tutte le pagine che desideri tracciare a scopo di marketing.
+Sotto il cofano, l&#39;integrazione del pubblico funziona sincronizzando i cookie Marketo Munchkin con il cookie ECID Adobe corrispondente. Marketo può condividere i dati di iscrizione solo per i lead per i quali Marketo ha sincronizzato un ECID. Per ottenere i migliori risultati possibili, ti consigliamo di caricare lo script di tracciamento munchkin.js di Marketo in parallelo con il codice di tracciamento visitor.js di Adobe su tutte le pagine che desideri tracciare a scopo di marketing.
 
 **Come funziona la sincronizzazione dei cookie?**
 
-Quando la sincronizzazione dei cookie è abilitata per la sottoscrizione Marketo, il munchkin.js di Marketo tenterà di acquisire e archiviare ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore cookie Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi con ECID di Adobe.
+Quando la sincronizzazione dei cookie è abilitata per la tua iscrizione Marketo, Marketo’s munchkin.js tenterà di acquisire e memorizzare gli ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore del cookie Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi di ECID Adobi.
 
 È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato utilizzando un messaggio e-mail di testo normale. Esattamente come funziona è [descritto qui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **Quali informazioni sono condivise?**
 
-Questa integrazione condivide solo le informazioni sull’appartenenza all’elenco da Marketo all’Adobe (ad esempio, la consapevolezza che Lead X è membro dell’elenco Y). Nessun attributo lead aggiuntivo viene condiviso in Adobe tramite questa integrazione.
+Questa integrazione condivide solo le informazioni sull’appartenenza all’elenco da Marketo all’Adobe (ad esempio, se lead X è membro dell’elenco Y). Nessun attributo lead aggiuntivo viene condiviso in Adobe tramite questa integrazione.
