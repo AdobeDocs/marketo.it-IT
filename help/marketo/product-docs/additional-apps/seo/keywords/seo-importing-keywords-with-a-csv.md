@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949206
-description: SEO - Importazione di parole chiave con un CSV - Documenti Marketo - Documentazione prodotto
-title: SEO - Importazione di parole chiave con un CSV
+description: SEO - Importazione di parole chiave con un CSV - Marketo Docs - Documentazione del prodotto
+title: SEO - Importazione di parole chiave con CSV
+exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
+# SEO - Importazione di parole chiave con CSV {#seo-importing-keywords-with-a-csv}
 
-# SEO - Importazione di parole chiave con un file CSV {#seo-importing-keywords-with-a-csv}
+1. Puoi [aggiungere manualmente parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md), [ottenere suggerimenti per parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e anche importare parole chiave da un file CSV. Ecco come effettuare l’importazione.
 
-1. Potete [aggiungere manualmente le parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md), [ottenere i suggerimenti per le parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e persino importare le parole chiave da un file CSV. Di seguito viene illustrato come effettuare l’importazione.
-
-1. Andate alla sezione **Parole chiave**.
+1. Vai alla sezione **Parole chiave** .
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
-1. Scegliete un file Excel da importare.
+1. Scegli un file Excel da importare.
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >I limiti di importazione variano a seconda dell’iscrizione. Per ulteriori informazioni, contattate il rappresentante commerciale.
+   >I limiti di importazione variano a seconda dell’abbonamento. Contatta il tuo rappresentante commerciale per ulteriori informazioni.
 
 1. Fare clic su **Importa**.
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [Informazioni sulle parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Aggiunta/rimozione di parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Aggiungi/rimuovi parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
