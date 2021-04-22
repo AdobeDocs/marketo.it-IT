@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360305
-description: Creazione di una scheda personalizzata per la pagina Dettagli persona - Documenti Marketo - Documentazione prodotto
+description: Creazione di una scheda personalizzata per la pagina Dettagli persona - Marketo Docs - Documentazione del prodotto
 title: Creazione di una scheda personalizzata per la pagina Dettagli persona
+exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-
 # Creazione di una scheda personalizzata per la pagina Dettagli persona {#creating-a-custom-tab-for-the-person-detail-page}
 
-Se cercate più volte un set specifico di campi nei dettagli delle persone, provate a creare un layout personalizzato per semplificare le cose.
+Se cerchi più volte un insieme specifico di campi nei dettagli delle persone, puoi creare un layout personalizzato per semplificare le cose.
 
-1. Accedete a **Admin** e fate clic su **Field Management**.
+1. Vai a **Amministratore** e fai clic su **Gestione campi**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Fare clic sulla scheda **Designer layout personalizzato**.
+1. Fare clic sulla scheda **Progettazione layout personalizzato**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
-1. Trovate il campo da aggiungere, quindi trascinatelo e rilasciatelo nell’area di lavoro.
+1. Trova un campo da aggiungere, quindi trascinalo nell’area di lavoro.
 
    ![](assets/three-1.png)
 
-1. Continuate ad aggiungere i campi fino a ottenere il layout come desiderato.
+1. Continua ad aggiungere campi fino a ottenere il layout desiderato nel modo desiderato.
 
    ![](assets/image2014-9-16-16-3a42-3a25.png)
 
@@ -35,10 +35,10 @@ Se cercate più volte un set specifico di campi nei dettagli delle persone, prov
    >
    >Sono disponibili due colonne con cui lavorare.
 
-   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo che si desidera rimuovere e fare clic su **Elimina**.
+   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo da rimuovere e fare clic su **Elimina**.
 
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
-   Impressionante lavoro! Ora, quando caricate i dettagli di una persona, potete utilizzare il layout personalizzato per accedere alle informazioni importanti per voi.
+   Lavoro fantastico! Quando carichi i dettagli di una persona, puoi utilizzare il layout personalizzato per accedere alle informazioni più importanti.
 
    ![](assets/six-1.png)
