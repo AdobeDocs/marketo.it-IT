@@ -1,18 +1,18 @@
 ---
 description: Note sulla versione - Jan 2021 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2021
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Gen. 2021{#release-notes-jan-21}
 
-Le seguenti funzionalità sono incluse nella versione del 21 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione del 21 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 >[!AVAILABILITY]
 >
@@ -37,7 +37,7 @@ Le seguenti funzionalità verranno rilasciate il **15 gennaio 2021**.
 * **API** modulo: Recupera informazioni lead o attiva campagne di sviluppo durante l’estrazione di dati da moduli non Marketo. I moduli non Marketo possono integrarsi con il Marketo Engage tramite l’API REST. La nuova API consente di simulare l’invio di moduli di Marketo Engage con tutte le funzionalità associate.
 * **API** delle pagine di destinazione: Semplifica i flussi di lavoro di modifica e traduzione nelle applicazioni integrate con la nuova API di anteprima della pagina di destinazione. Ora i fornitori di terze parti possono eseguire il rendering di anteprime completamente personalizzate delle pagine di destinazione senza effettuare l’accesso al Marketo Engage.  L’API di anteprima della pagina di destinazione consente flussi di lavoro end-to-end per la modifica e la localizzazione in applicazioni integrate di terze parti.
 
-## Marketing e-mail {#email-marketing}
+## E-mail marketing {#email-marketing}
 
 * **[Limiti Di Recupero Degli Oggetti Personalizzati Aumentati](/help/marketo/product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)**: Gli sviluppatori di e-mail Velocity Scripting possono rapidamente aumentare il numero di oggetti personalizzati a 100 tramite l’override del self-service. Gli addetti al marketing possono aumentare l’efficacia delle campagne avanzate accedendo a un numero maggiore di oggetti personalizzati di primo e secondo livello.
 
