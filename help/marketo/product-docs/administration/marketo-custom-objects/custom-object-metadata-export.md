@@ -1,20 +1,20 @@
 ---
-description: Esportazione di metadati oggetti personalizzati - Documenti Marketo - Documentazione del prodotto
+description: Esportazione di metadati oggetti personalizzati - Documentazione Marketo - Documentazione del prodotto
 title: Esportazione metadati oggetti personalizzati
+exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-
 # Esportazione metadati oggetti personalizzati {#custom-object-metadata-export}
 
 Se utilizzi l’API SOAP o Munchkin, puoi esportare lo schema metadati dell’oggetto personalizzato. Ecco come ottenerlo.
 
-1. In My Marketo, fai clic su **Amministratore**.
+1. In My Marketo, fai clic su **Admin**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
