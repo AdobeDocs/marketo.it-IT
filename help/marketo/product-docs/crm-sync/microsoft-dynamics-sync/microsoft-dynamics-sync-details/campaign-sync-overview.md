@@ -1,14 +1,14 @@
 ---
-description: Panoramica sulla sincronizzazione delle campagne - Documenti Marketo - Documentazione del prodotto
+description: Panoramica sulla sincronizzazione di Campaign - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica sulla sincronizzazione di Campaign
+exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 translation-type: tm+mt
-source-git-commit: c68fe240d9447f9c217dcb258f0dae63c17d37f9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Panoramica sulla sincronizzazione delle campagne {#campaign-sync-overview}
 
