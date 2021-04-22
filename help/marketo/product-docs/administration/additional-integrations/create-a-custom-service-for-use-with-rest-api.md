@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2360350
-description: Creare un servizio personalizzato da utilizzare con l'API ReST - Marketo Docs - Documentazione prodotto
-title: Creare un servizio personalizzato da utilizzare con l'API ReST
+description: Creare un servizio personalizzato da utilizzare con l’API ReST - Marketo Docs - Documentazione del prodotto
+title: Creare un servizio personalizzato da utilizzare con l’API ReST
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # Creare un servizio personalizzato da utilizzare con l&#39;API ReST {#create-a-custom-service-for-use-with-rest-api}
 
-Se desiderate integrare Marketo tramite l&#39;API ReST, desiderate creare un servizio personalizzato. Ecco come.
+Se desideri integrare con Marketo tramite l’API ReST, crea un servizio personalizzato. Ecco come.
 
 >[!PREREQUISITES]
 >
 >* [Creare un ruolo utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Creazione di un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Creare un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
 >
 
@@ -30,27 +30,27 @@ Se desiderate integrare Marketo tramite l&#39;API ReST, desiderate creare un ser
 
 >[!TIP]
 >
->Consulta la documentazione per gli sviluppatori per informazioni su [ReST API](https://developers.marketo.com/documentation/rest/). Abbiamo anche l&#39; [SOAP API](https://developers.marketo.com/documentation/soap/) se questo è ciò che ti serve.
+>Per informazioni dettagliate sull&#39; [API ReST](https://developers.marketo.com/documentation/rest/), consulta la documentazione per gli sviluppatori. Disponiamo anche dell’ [API SOAP](https://developers.marketo.com/documentation/soap/) se questo è ciò di cui hai bisogno.
 
 >[!NOTE]
 >
->Non puoi creare un servizio personalizzato se hai il livello Spark di Marketo.
+>Non puoi creare un servizio personalizzato se disponi del livello Spark di Marketo.
 
 ## Crea servizio personalizzato {#create-custom-service}
 
-1. Accedete a **Admin** e fate clic su **LaunchPoint**.
+1. Vai a **Amministratore** e fai clic su **LaunchPoint**.
 
    ![](assets/image2014-9-19-10-3a38-3a15.png)
 
-1. In **New**, fare clic su **New Service**.
+1. In **Nuovo**, fai clic su **Nuovo servizio**.
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Immettere un **nome visualizzato** per il servizio. Selezionare l&#39; **API Only User** [creato in precedenza](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Immetti un **Nome visualizzato** per il servizio. Seleziona il **Solo API utente** [creato in precedenza](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
    >
-   >È già disponibile l&#39;integrazione nativa per i servizi webinar più diffusi.
+   >Tieni presente che disponiamo già di un’integrazione nativa per i servizi webinar più popolari.
 
    ![](assets/image2014-9-19-10-3a38-3a32.png)
 
@@ -58,26 +58,26 @@ Se desiderate integrare Marketo tramite l&#39;API ReST, desiderate creare un ser
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
-   Oh si&#39;! Il servizio è stato creato, andiamo avanti e otteniamo tutte le credenziali per fornire l&#39;accesso.
+   Oh sì! Il servizio è stato creato, andiamo avanti e otteniamo tutte le credenziali per fornire l&#39;accesso.
 
-## Credenziali per accesso API {#credentials-for-api-access}
+## Credenziali per l&#39;accesso API {#credentials-for-api-access}
 
-1. Accedete a **Admin** e fate clic su **LaunchPoint**.
+1. Vai a **Amministratore** e fai clic su **LaunchPoint**.
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Fare clic su **Visualizza dettagli** per il servizio LaunchPoint personalizzato creato sopra.
+1. Fai clic su **Visualizza dettagli** per il servizio LaunchPoint personalizzato creato sopra.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
-1. Fare clic su **Ottieni token**.
+1. Fai clic su **Ottieni token**.
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Fornire l&#39; **ID client**, **Segreto client**, **Utente autorizzato** e **Token** alla persona incaricata di stabilire la connessione.
+1. Fornisci il **ID client**, **Segreto client**, **Utente autorizzato** e **Token** alla persona incaricata di stabilire la connessione.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
->Non condividere queste informazioni; è il backdoor dei tuoi dati. Tienila al sicuro!
+>Non condividere queste informazioni; è il backdoor dei vostri dati. La tenga al sicuro!
