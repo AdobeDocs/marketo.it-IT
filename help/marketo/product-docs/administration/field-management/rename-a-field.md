@@ -1,44 +1,44 @@
 ---
 unique-page-id: 2360293
-description: Rinominare un campo - Documenti Marketo - Documentazione prodotto
-title: Rinominare un campo
+description: Rinomina un campo - Documentazione Marketo - Documentazione del prodotto
+title: Rinomina un campo
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
-# Rinominare un campo {#rename-a-field}
+# Rinomina un campo {#rename-a-field}
 
 >[!NOTE]
 >
->È possibile rinominare un campo personalizzato in Marketo, ma è possibile individuare una sola anomalia: prima di procedere, è necessario rimuoverne l&#39;uso nel sistema. Ciò include moduli, elenchi smart e campagne intelligenti.
+>È possibile rinominare un campo personalizzato in Marketo, ma è possibile rilevare un solo elemento: prima di procedere, è necessario rimuovere tutto l&#39;uso del sistema. Sono inclusi moduli, elenchi smart e campagne intelligenti.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad Admin e fai clic su **Gestione dei campi**.
+1. Vai ad Amministratore e fai clic su **Gestione campi**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
-1. Individuate e selezionate il campo da rinominare, quindi fate clic sul nome del campo nell’area di lavoro.
+1. Trova e seleziona il campo da rinominare, quindi fai clic sul nome del campo nell’area di lavoro.
 
    >[!TIP]
    >
-   >Fate clic sul collegamento **Usato da** per trovare le risorse che fanno riferimento a questo campo.
+   >Fai clic sul collegamento **Utilizzato da** per trovare le risorse che fanno riferimento a questo campo.
 
    ![](assets/changefieldname.png)
 
-1. Rinominare il campo e fare clic su **Salva**.
+1. Rinomina il campo e fai clic su **Salva**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 
-Bel lavoro! È ora possibile rinominare i campi in Marketo.
+Bel lavoro! È ora possibile modificare la denominazione dei campi in Marketo.
 
 >[!CAUTION]
 >
->Se rinominate il nome dell&#39;API in Salesforce, Marketo creerà un nuovo campo e lascerà indietro quello precedente!
+>Se rinomini il nome API in Salesforce, Marketo creerà un nuovo campo e lascerà indietro quello vecchio!
