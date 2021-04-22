@@ -1,53 +1,53 @@
 ---
 unique-page-id: 2360185
-description: Modifica delle impostazioni di protezione password - Documenti Marketo - Documentazione del prodotto
-title: Modifica delle impostazioni di protezione password
+description: Modificare le impostazioni di protezione della password - Documenti Marketo - Documentazione del prodotto
+title: Modificare le impostazioni di protezione della password
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
-
 # Modifica le impostazioni di protezione password {#change-your-password-security-settings}
 
-Controllare i criteri per la password dell&#39;iscrizione. Ecco come.
+Controlla i criteri della password del tuo abbonamento. Ecco come.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fare clic su **Impostazioni di accesso**.
+1. In **Amministratore**, fai clic su **Impostazioni di accesso**.
 
    ![](assets/image2014-9-16-12-3a41-3a40.png)
 
-1. In **Impostazioni di protezione**, fare clic su **Modifica**.
+1. In **Impostazioni protezione**, fai clic su **Modifica**.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Selezionare un **modello**. Per le opzioni avanzate, fare clic sul menu a discesa **Avanzate**.
+1. Seleziona un **Modello**. Per opzioni avanzate, fai clic sul menu a discesa **Avanzate** .
 
    >[!NOTE]
    >
-   >Un modello è solo una configurazione prestabilita. Lo standard è buono. L&#39;alta sicurezza è la più forte. Personalizzato consente di creare il proprio.
+   >Un modello è solo una configurazione predefinita. Lo standard è buono. L&#39;alta sicurezza è la più forte. Personalizza ti consente di creare il tuo.
 
    ![](assets/passwordstrength.png)
 
    >[!TIP]
    >
-   >In **Custom**, selezionare le caselle per indicare quali caratteristiche si desidera che gli utenti includano quando creano le password.
+   >In **Personalizzato**, seleziona le caselle per indicare quali caratteristiche desideri che gli utenti includano quando creano le password.
 
-1. Impostare la **Scadenza**. Questa funzione richiede automaticamente che gli utenti reimpostino la password dopo un certo periodo di tempo. Questo include anche l&#39;utente Admin.
+1. Imposta la **Scadenza**. Questa funzione richiede automaticamente agli utenti di reimpostare le password dopo un certo periodo di tempo. Questo include anche l’utente amministratore .
 
    >[!CAUTION]
    >
-   >Gli utenti esistenti non riceveranno alcuna notifica delle modifiche. Impostate **Scadenza** su 30 giorni prima per verificare che tutti abbiano effettuato l&#39;aggiornamento alle nuove impostazioni, quindi tornate alla cadenza originale.
+   >Gli utenti esistenti non riceveranno alcuna notifica delle modifiche. Imposta **Scadenza** a 30 giorni prima per garantire che tutti siano aggiornati alle nuove impostazioni, quindi ripristina la cadenza originale.
 
    ![](assets/expiration.png)
 
-1. Impostare il **Timeout sessione inattiva**. Questo determina per quanto tempo un utente può rimanere inattivo prima di dover nuovamente accedere a Marketo.
+1. Imposta il **Timeout sessione inattiva**. Questo determina per quanto tempo un utente può essere inattivo prima di dover effettuare nuovamente l&#39;accesso a Marketo.
 
    ![](assets/inactivesession.png)
 
