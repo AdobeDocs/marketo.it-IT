@@ -1,36 +1,36 @@
 ---
 unique-page-id: 7511477
-description: Utilizzo dei filtri per l'inattività in un elenco avanzato - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo dei filtri per l'inattività in un elenco avanzato
+description: Utilizzare i filtri di inattività in un elenco avanzato - Documenti Marketo - Documentazione del prodotto
+title: Utilizzare i filtri di inattività in un elenco avanzato
+exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
+# Utilizzare i filtri di inattività in un elenco avanzato {#use-inactivity-filters-in-a-smart-list}
 
-# Usare i filtri per l&#39;inattività in un elenco avanzato {#use-inactivity-filters-in-a-smart-list}
+Lo sapevi che puoi cercare persone in un Smart List che *non hanno* fatto qualcosa? Controlla questi filtri di inattività.
 
-Sapevate che potete cercare persone in una Smart List che *non ha* fatto qualcosa? Guardate questi filtri di inattività.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selezionate l&#39;elenco smart da modificare, quindi fate clic sulla scheda **Smart List**.
+1. Seleziona l’elenco avanzato da modificare, quindi fai clic sulla scheda **Elenco avanzato** .
 
    ![](assets/smartlist-choose.png)
 
-1. Individuate e trascinate il filtro di inattività di vostra scelta nel quadro. Ad esempio, cerchiamo persone che non hanno visitato nessuna delle vostre pagine.
+1. Trova e trascina il filtro di inattività desiderato nell’area di lavoro. Ad esempio, cerchiamo le persone che non hanno visitato nessuna delle tue pagine.
 
    ![](assets/draginactivityfilter.png)
 
    >[!TIP]
    >
-   >Nella cartella **Filtri di inattività** sono presenti molti filtri. Cercare **Not** e archiviarli.
+   >Ci sono molti filtri nella cartella **Filtri di inattività** . Cerca **Not** e spunta.
 
-1. Selezionare l&#39;operatore **è qualsiasi**. Verranno trovate tutte le persone che non hanno visitato alcuna pagina negli ultimi 30 giorni.
+1. Selezionare l&#39;operatore **è qualsiasi operatore**. Verranno trovate tutte le persone che non hanno visitato alcuna pagina negli ultimi 30 giorni.
 
    ![](assets/mysmartlist-people.jpg)
