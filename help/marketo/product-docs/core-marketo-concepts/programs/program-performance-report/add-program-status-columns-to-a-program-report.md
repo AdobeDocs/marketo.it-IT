@@ -1,41 +1,41 @@
 ---
 unique-page-id: 1147239
-description: Aggiungere colonne di stato del programma a un report del programma - Documenti Marketo - Documentazione del prodotto
+description: Aggiungere colonne di stato del programma a un rapporto del programma - Marketo Docs - Documentazione del prodotto
 title: Aggiungi colonne di stato del programma a un rapporto del programma
+exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Aggiungi colonne di stato del programma a un rapporto del programma {#add-program-status-columns-to-a-program-report}
 
-# Aggiungi colonne stato programma a un report programma {#add-program-status-columns-to-a-program-report}
-
-Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
+Aggiungi statistiche sullo stato del programma al [report sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
 1. Vai a Attività di marketing (o Analytics).
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionate il rapporto.
+1. Seleziona il rapporto.
 
    ![](assets/emailperformance.jpg)
 
-1. Fare clic sulla scheda **Configurazione** e trascinare il mouse sul tag Canale.
+1. Fai clic sulla scheda **Configurazione** e trascina il tag Canale .
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
-1. Selezionate un canale per il quale applicare il filtro.
+1. Seleziona un canale per cui filtrare.
 
    ![](assets/image2014-9-23-16-3a26-3a48.png)
 
    >[!TIP]
    >
-   >Per visualizzare le colonne di stato del programma, il rapporto deve essere filtrato per _un solo canale_.
+   >Per visualizzare le colonne di stato del programma, il rapporto deve essere filtrato da _un solo canale_.
 
-1. Selezionare l&#39;opzione Mostra colonne stato programma. Fare clic su **Applica**.
+1. Selezionare l&#39;opzione Mostra colonne di stato del programma. Fare clic su **Applica**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
@@ -45,8 +45,8 @@ Aggiungi statistiche sullo stato del programma al report [sulle prestazioni del 
 
 >[!NOTE]
 >
->Se non viene visualizzata una colonna per ogni stato del programma, assicurarsi di aver [selezionato le colonne da mostrare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) nel rapporto.
+>Se non trovi una colonna per ogni stato del programma, assicurati di aver [selezionato le colonne da mostrare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) nel rapporto.
 
 >[!MORELIKETHIS]
 >
->[Filtrare un report del programma per tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[Filtrare un rapporto del programma per tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
