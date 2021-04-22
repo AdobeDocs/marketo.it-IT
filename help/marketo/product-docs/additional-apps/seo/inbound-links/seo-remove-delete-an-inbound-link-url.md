@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2949253
-description: SEO - Rimuovere/eliminare un URL di collegamento in entrata - Documenti Marketo - Documentazione prodotto
+description: SEO - Rimuovere/eliminare un URL di collegamento in entrata - Marketo Docs - Documentazione del prodotto
 title: SEO - Rimuovere/eliminare un URL di collegamento in entrata
+exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-
 # SEO - Rimuovere/eliminare un URL di collegamento in entrata {#seo-remove-delete-an-inbound-link-url}
 
-A volte vuoi rimuovere i collegamenti in entrata. Di seguito viene illustrato come:
+A volte vuoi rimuovere i link in entrata. Ecco come:
 
-1. Andate alla sezione **Collegamenti in ingresso**.
+1. Vai alla sezione **Collegamenti in entrata** .
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
-1. Passa il cursore sull’URL del collegamento in entrata che desideri eliminare.
+1. Passa il puntatore del mouse sull’URL del collegamento in entrata da eliminare.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
@@ -27,4 +27,4 @@ A volte vuoi rimuovere i collegamenti in entrata. Di seguito viene illustrato co
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-Il collegamento in entrata è stato eliminato.
+Questo collegamento in entrata è stato eliminato.
