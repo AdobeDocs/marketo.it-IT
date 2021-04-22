@@ -1,56 +1,56 @@
 ---
 unique-page-id: 557329
-description: Esportare le persone in Excel da un elenco o da un elenco avanzato - Marketo Docs - Documentazione prodotto
+description: Esportare le persone in Excel da un elenco o da un elenco avanzato - Marketo Docs - Documentazione del prodotto
 title: Esportare le persone in Excel da un elenco o da un elenco avanzato
+exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # Esportare le persone in Excel da un elenco o da un elenco avanzato {#export-people-to-excel-from-a-list-or-smart-list}
 
-Se avete bisogno di risultati di elenchi o elenchi smart al di fuori di Marketo, potete facilmente esportarli in Excel. Ecco come.
+Se hai bisogno di risultati di elenchi o elenchi smart al di fuori di Marketo, puoi facilmente esportare in Excel. Ecco come.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Selezionare l&#39;elenco o l&#39;elenco smart da esportare e passare alla scheda **Persone**.
+1. Seleziona l’elenco o l’elenco avanzato da esportare e passa alla scheda **Persone** .
 
    ![](assets/smartlistpeopletab-hands.png)
 
-1. Nella parte inferiore della pagina, fare clic sull&#39;icona Excel.
+1. Nella parte inferiore della pagina, fai clic sull’icona Excel.
 
    ![](assets/exportpeople.png)
 
-1. Selezionare **Colonne visibili** e fare clic su **Esporta**.
+1. Seleziona **Colonne visibili** e fai clic su **Esporta**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Se scegliete **Tutte le colonne**, l&#39;esportazione avrà dimensioni maggiori e richiederà più tempo per generare o scaricare.
+   >Se scegli **Tutte le colonne**, l&#39;esportazione avrà dimensioni maggiori e richiederà più tempo per generare/scaricare.
 
    >[!TIP]
    >
-   >Se i record di persona contengono caratteri stranieri il cui rendering non è corretto al momento dell&#39;esportazione, provare a modificare il tipo di file nel menu a discesa **Format**.
+   >Se i record personali contengono caratteri stranieri di cui non è stato eseguito il rendering correttamente al momento dell&#39;esportazione, prova a modificare il tipo di file nel menu a discesa **Formato**.
 
-1. L&#39;esportazione verrà eseguita. Al termine, è possibile fare clic su **Scarica ora** per acquisire il file.
+1. Verrà eseguita l&#39;esportazione. Una volta terminato, puoi fare clic su **Scarica ora** per afferrare il file.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Se l’esportazione richiede un po’ di tempo, potete sempre disconnettervi e tornare ad essa in seguito. È possibile accedere al collegamento **Scarica ora** selezionando **Mostra stato esportazione** nel menu **Elenca azioni** ed è valido per una settimana.
+   >Se l’esportazione richiede un po’ di tempo, puoi sempre disconnetterti e tornare ad essa in un secondo momento. Il collegamento **Scarica ora** è accessibile selezionando **Mostra stato esportazione** nel menu **Elenca azioni** ed è valido per una settimana.
 
-   Dopo l&#39;esportazione di un elenco smart in Excel, Marketo memorizzerà automaticamente nella cache l&#39;elenco. Al successivo accesso o aggiornamento del browser, noterete una piccola clip di carta e una nota sull&#39;icona dell&#39;elenco smart.
+   Dopo aver esportato un elenco avanzato in Excel, Marketo memorizzerà automaticamente nella cache l’elenco. Noterai un piccolo clip di carta e una nota adesiva sull&#39;icona dell&#39;elenco smart al successivo accesso o aggiornamento del browser.
 
    ![](assets/cached.png)
 
    >[!TIP]
    >
-   >È possibile annullare la memorizzazione nella cache dell&#39;elenco semplicemente premendo il pulsante di aggiornamento dell&#39;elenco.
+   >È possibile annullare la memorizzazione in cache dell’elenco semplicemente premendo il pulsante di aggiornamento dell’elenco.
