@@ -1,58 +1,58 @@
 ---
 unique-page-id: 2359918
-description: Modifica impostazioni pagina di destinazione - Documenti Marketo - Documentazione prodotto
+description: Modifica impostazioni pagina di destinazione - Documentazione Marketo - Documentazione del prodotto
 title: Modifica impostazioni pagina di destinazione
+exl-id: 019b4651-3a66-46f9-8722-66af30194380
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-
 # Modifica impostazioni pagina di destinazione {#edit-landing-page-settings}
 
-È possibile modificare il nome di dominio e la pagina di fallback, abilitare o disabilitare la precompilazione del modulo, impedire l&#39;uso improprio della pagina di destinazione e altro ancora. Ecco come.
+Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabilitare la precompilazione del modulo, evitare l’uso improprio della pagina di destinazione e altro ancora. Ecco come.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Admin**, fare clic su **Pagine di destinazione**.
+1. In **Amministratore**, fai clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-10-9-3a47-3a40.png)
 
-1. Nella sezione **Pagine di destinazione**, fare clic su **Modifica**.
+1. Nella sezione **Pagine di destinazione**, fai clic su **Modifica**.
 
    ![](assets/image2014-9-10-9-3a47-3a12.png)
 
-1. Immettete il dominio e le informazioni sulla pagina.
+1. Immetti il dominio e le informazioni sulla pagina.
 
    | Termine | Definizione |
    |---|---|
-   | Nome di dominio per le pagine di destinazione | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che date alle persone per le pagine di destinazione. Ad esempio, in `https://go.yourCompany.com`, la parola &quot;go&quot; è il CNAME. Puoi avere più persone, ma la maggior parte usa solo quella. |
-   | Pagina di fallback | Indica dove andare se la pagina di destinazione non esiste o è inattiva. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | Homepage | Immettete l’URL del sito aziendale. |
+   | Nome di dominio per le pagine di destinazione | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che date alle persone per le pagine di destinazione. Ad esempio, in `https://go.yourCompany.com`, la parola &quot;go&quot; è il CNAME. Puoi averne diversi, ma la maggior parte delle persone usa solo quello. |
+   | Pagina di fallback | Se la pagina di destinazione non esiste o è inattiva, verrà visualizzata la seguente pagina. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | Homepage | Inserisci l&#39;URL del sito aziendale. |
 
    ![](assets/three.png)
 
-1. Selezionare la casella di controllo **Precompila modulo** per consentire ai moduli di precompilare le informazioni per le persone conosciute (sottoposte a cookie). Deselezionare per bloccare.
+1. Seleziona la casella di controllo **Precompilazione modulo** per consentire ai moduli di precompilare le informazioni per le persone note (sottoposte a cookie). Deseleziona per bloccare.
 
    ![](assets/four.png)
 
-1. Per evitare che un sito dannoso possa ospitare contenuti, selezionare la casella di controllo **Non consentire l&#39;incorporazione di pagine Web esterne**.
+1. Per evitare che un sito dannoso possa apparentemente ospitare i contenuti, seleziona la casella di controllo **Non consentire l&#39;incorporamento di pagine Marketo in pagine Web esterne** .
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Se desiderate che il tag precompila `<script>` venga visualizzato alla fine del tag `<head>` nel codice, selezionate la casella **Inserisci script di precompilazione alla fine della testina**. Lasciate deselezionata se desiderate che appaia all&#39;inizio.
+   >Se desideri che il tag di precompilazione `<script>` venga visualizzato alla fine del tag `<head>` nel codice, seleziona la casella **Inserisci script di precompilazione alla fine di head** . Lascia deselezionata questa opzione se desideri che venga visualizzata all’inizio.
    >
-   >Selezionare **Rimuovi i collegamenti preferiti predefiniti** per evitare che Marketo inserisca eventuali collegamenti preferiti nel codice.
+   >Selezionare **Rimuovi i collegamenti favicon predefiniti** per impedire a Marketo di inserire nel codice eventuali collegamenti favicon.
 
 1. Dopo aver effettuato le selezioni, fare clic su **Salva.**
 
    ![](assets/six.png)
 
-   Ottimo lavoro! Le pagine di destinazione ora dispongono delle informazioni giuste e dovrebbero iniziare a funzionare immediatamente.
+   Ottimo lavoro! Le pagine di destinazione ora dispongono delle informazioni giuste e devono iniziare a funzionare immediatamente.
