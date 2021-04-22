@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360362
-description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Unlimited) - Documenti Marketo - Documentazione del prodotto
-title: Passaggio 1 di 3 - Aggiungi campi Marketo a Salesforce (Enterprise/Senza limiti)
+description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Unlimited) - Marketo Docs - Documentazione del prodotto
+title: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Senza limiti)
+exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '731'
 ht-degree: 0%
 
 ---
-
 
 # Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Enterprise/Senza limiti) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
@@ -198,13 +198,13 @@ Esegui i seguenti passaggi per ciascuno dei tre campi personalizzati per aggiung
    <td>Lunghezza 255</td> 
   </tr> 
   <tr> 
-   <td>Società in questione</td> 
+   <td>Azienda in oggetto</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Testo</td> 
    <td>Lunghezza 255</td> 
   </tr> 
   <tr> 
-   <td>Paese interessato</td> 
+   <td>Paese in oggetto</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Testo</td> 
    <td>Lunghezza 255</td> 
@@ -268,4 +268,4 @@ Un campo personalizzato sull’oggetto lead di Salesforce deve essere mappato su
 
 >[!MORELIKETHIS]
 >
->[Passaggio 2 di 3: Crea un utente Salesforce per Marketo (Enterprise/Senza limiti)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Enterprise/Senza limiti)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
