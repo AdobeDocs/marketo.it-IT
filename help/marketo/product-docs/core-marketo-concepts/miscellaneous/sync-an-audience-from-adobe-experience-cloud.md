@@ -1,14 +1,14 @@
 ---
-description: Sincronizzazione di un pubblico da Adobe Experience Cloud - Documenti Marketo - Documentazione del prodotto
+description: Sincronizzazione di un pubblico da Adobe Experience Cloud - Documentazione Marketo - Documentazione del prodotto
 title: Sincronizzazione di un pubblico da Adobe Experience Cloud
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Sincronizzazione di un pubblico da Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Come sincronizzare un pubblico {#how-to-sync-an-audience}
 
-1. In My Marketo, fare clic sul riquadro **Database**.
+1. In My Marketo, fai clic sul riquadro **Database** .
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **Come funziona la sincronizzazione dei cookie?**
 
-Quando la sincronizzazione dei cookie è abilitata per la sottoscrizione Marketo, il munchkin.js di Marketo tenterà di acquisire e archiviare ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore cookie Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi con ECID di Adobe.
+Quando la sincronizzazione dei cookie è abilitata per la tua iscrizione Marketo, Marketo’s munchkin.js tenterà di acquisire e memorizzare gli ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore del cookie Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi di ECID Adobi.
 
 È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato utilizzando un messaggio e-mail di testo normale. Come funziona esattamente [è descritto qui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
