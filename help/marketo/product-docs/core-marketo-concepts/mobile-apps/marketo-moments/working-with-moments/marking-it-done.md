@@ -1,34 +1,34 @@
 ---
 unique-page-id: 8783557
-description: Marcatura Fine - Marketo Docs - Documentazione di prodotto
-title: Marcatura Fine
+description: Marcatura eseguita - Documentazione Marketo - Documentazione del prodotto
+title: Marcatura eseguita
+exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
+# Marcatura eseguita {#marking-it-done}
 
-# Marcatura Fine {#marking-it-done}
+Contrassegna un programma e-mail, un evento o una scheda di analisi come Fine per rimuoverlo dal flusso. Ci sono due modi per farlo.
 
-Contrassegnate un programma e-mail, un evento o una scheda di analisi come Fine per rimuoverlo dal flusso. Ci sono due modi per farlo.
-
-1. Toccate il menu delle azioni.
+1. Tocca il menu delle azioni.
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Toccate **Fine**.
+1. Tocca **Fine**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
-1. Oppure, passate il dito sulla scheda in un modo o nell&#39;altro.
+1. Oppure, scorri la carta in un modo o nell&#39;altro.
 
    ![](assets/image2015-9-25-9-3a46-3a6.png)
 
    >[!NOTE]
    >
-   >Contrassegnare una scheda come Fine non comporta l&#39;eliminazione dell&#39;e-mail, dell&#39;evento o della campagna smart. Lo sposta solo dal flusso Momenti/Successivi al flusso Fine.
+   >Quando si contrassegna una scheda come Fine, l’e-mail, l’evento o la campagna avanzata non viene eliminata. Lo sposta solo dal flusso Momenti/Più tardi al flusso Fatto.
 
 Pezzo di torta!
