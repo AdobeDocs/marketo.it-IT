@@ -1,52 +1,52 @@
 ---
 unique-page-id: 4719316
-description: Utilizzo di account utente - Documenti Marketo - Documentazione prodotto
-title: Utilizzo di account di persona
+description: Utilizzo di account personali - Documenti Marketo - Documentazione del prodotto
+title: Utilizzo di account personali
+exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Utilizzo di account personali {#using-person-accounts}
 
-# Utilizzo di account di persona {#using-person-accounts}
-
-Gli account personali possono essere configurati in Salesforce per soddisfare le esigenze della tua organizzazione. Ecco come Marketo gestisce gli account delle persone.
-
->[!NOTE]
->
->Gli account Salesforce predefiniti sono account aziendali. L&#39;amministratore di Salesforce deve configurare gli account utente separatamente.
-
-## Che cos&#39;è un account persona? {#what-is-a-person-account}
-
-Un account utente è molto simile all&#39;oggetto account in Salesforce. Tuttavia, un account utente ha accesso sia ai campi dell&#39;account che ai campi dei contatti.
-
-## Cosa succede quando un account utente viene sincronizzato su Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
-
-Un account utente viene sincronizzato con Marketo come azienda e come persona.
+Gli account personali possono essere configurati in Salesforce per soddisfare le esigenze della tua organizzazione. Ecco come Marketo tratta gli account personali.
 
 >[!NOTE]
 >
->I campi personalizzati per un account utente vengono copiati sia nella società che nella persona di Marketo.
+>Gli account Salesforce predefiniti sono account aziendali. L’amministratore di Salesforce deve configurare gli account personali separatamente.
 
-## Come si differenziano gli account aziendali e gli account delle persone? {#how-do-i-differentiate-business-accounts-and-person-accounts}
+## Che cos’è un account persona? {#what-is-a-person-account}
 
-Utilizzate il filtro **Is Person Account** nell&#39;elenco smart per separare gli account delle persone dagli account aziendali standard.
+Un account persona è molto simile all’oggetto account in Salesforce. Tuttavia, un account persona ha accesso sia ai campi dell’account che ai campi di contatto.
 
-## Dove sono visualizzate le informazioni sugli account personali in Marketing Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
+## Cosa succede quando un account persona viene sincronizzato con Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
-Le attività relative agli account utente vengono visualizzate nel pannello **Account**.
+Un account persona viene sincronizzato in Marketo come azienda e come persona.
 
 >[!NOTE]
 >
->Le opzioni di Marketing Sales Insight **Add to Marketo Campaign** e **Send Email** non sono attualmente disponibili per gli account utente.
+>I campi personalizzati per un account persona vengono copiati sia nella società che nella persona in Marketo.
 
-## Come si associano le opportunità a un account personale? {#how-do-i-associate-opportunities-to-a-person-account}
+## Come differenziare account aziendali e account personali? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Marketo dipende dal ruolo di contatto opportunità per determinare a quale persona associare l&#39;opportunità. È necessario aggiungere il ruolo di contatto opportunità per ogni account personale per collegare l&#39;opportunità alla persona appropriata in Marketo. È consigliabile impostare un flusso di lavoro per aggiungere automaticamente il ruolo di contatto opportunità.
+Utilizza il filtro **Is Person Account** nel tuo smart list per separare gli account delle persone dagli account aziendali standard.
 
-## Quale campo e-mail devo utilizzare per gli account utente? {#which-email-field-should-i-use-for-person-accounts}
+## Dove vengono visualizzate le informazioni sugli account personali in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Esistono due campi e-mail per un account utente. Utilizzare il campo **Indirizzo e-mail** nei moduli (non l&#39; **Indirizzo e-mail persona**) per garantire il corretto funzionamento della deduplicazione di Marketo e di altre elaborazioni e-mail.
+Le attività relative agli account utente vengono visualizzate nel pannello **Account** .
+
+>[!NOTE]
+>
+>Le opzioni **Aggiungi a Marketo Campaign** e **Invia e-mail** di Marketo Sales Insight non sono attualmente disponibili per gli account personali.
+
+## Come si associano le opportunità a un account persona? {#how-do-i-associate-opportunities-to-a-person-account}
+
+Marketo dipende dal ruolo di contatto opportunità per determinare a quale persona associare l’opportunità. È necessario aggiungere il ruolo di contatto opportunità per ogni account personale per collegare l&#39;opportunità alla persona appropriata in Marketo. È consigliabile impostare un flusso di lavoro per aggiungere automaticamente il ruolo di contatto opportunità .
+
+## Quale campo e-mail devo utilizzare per gli account personali? {#which-email-field-should-i-use-for-person-accounts}
+
+Esistono due campi e-mail per un account persona. Utilizza il campo **Indirizzo e-mail** nei moduli (non l’ **Indirizzo e-mail persona**) per garantire il corretto funzionamento della deduplicazione Marketo e di altre elaborazioni e-mail.
