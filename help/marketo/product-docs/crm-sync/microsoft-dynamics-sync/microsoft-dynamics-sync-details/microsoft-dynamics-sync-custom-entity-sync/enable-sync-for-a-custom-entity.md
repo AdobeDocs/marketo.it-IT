@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2953384
-description: Abilita sincronizzazione per un'entità personalizzata - Documenti Marketo - Documentazione prodotto
+description: Abilita sincronizzazione per un'entità personalizzata - Documentazione di Marketo - Documentazione del prodotto
 title: Abilita sincronizzazione per un'entità personalizzata
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # Abilita sincronizzazione per un&#39;entità personalizzata {#enable-sync-for-a-custom-entity}
 
-Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponibili in Marketo, ecco come abilitare la sincronizzazione per esso:
+Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponibili in Marketo, ecco come abilitare la sincronizzazione per questo:
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Andate alla sezione **Admin**.
+1. Vai alla sezione **Amministratore** .
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Selezionare **Microsoft Dynamics** e fare clic su **Disattiva sincronizzazione**.
+1. Seleziona **Microsoft Dynamics** e fai clic su **Disattiva sincronizzazione**.
 
-   Per abilitare o disabilitare un&#39;entità personalizzata, è necessario disabilitare temporaneamente la sincronizzazione globale.
+   È necessario disattivare temporaneamente la sincronizzazione globale per abilitare o disabilitare un&#39;entità personalizzata.
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. In Gestione database, fare clic sul collegamento **Sincronizzazione entità dinamica**.
+1. In Gestione database fare clic sul collegamento **Sincronizzazione entità Dynamics**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -37,24 +37,24 @@ Se hai bisogno di dati di entità personalizzati da Dynamics per essere disponib
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Selezionate l&#39;entità da sincronizzare e fate clic su **Abilita sincronizzazione**.
+1. Seleziona l&#39;entità da sincronizzare e fai clic su **Abilita sincronizzazione**.
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fare clic su **Abilita sincronizzazione**.
+1. Seleziona i campi da sincronizzare o utilizzare come [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o attivatori negli elenchi smart. Al termine, fai clic su **Abilita sincronizzazione**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
    >[!NOTE]
    >
-   >Durante il processo di sincronizzazione, potreste notare che l&#39;elemento &quot;Dynamic Entities Sync&quot; scompare dalla struttura di navigazione. Questo comportamento è previsto e verrà nuovamente visualizzato al termine della sincronizzazione.
+   >Durante il processo di sincronizzazione, potresti notare che l’elemento &quot;Dynamic Entities Sync&quot; scompare dalla struttura di navigazione. Questo è il comportamento previsto e riapparirà al termine della sincronizzazione.
 
-1. L&#39;entità ora ha un segno di spunta verde su di essa.
+1. L’entità ora dispone di un segno di spunta verde.
 
    ![](assets/image2014-10-20-14-3a33-3a4.png)
 
-1. Non dimenticare di riabilitare la sincronizzazione globale!
+1. Non dimenticare di riattivare la sincronizzazione globale.
 
    ![](assets/image2015-11-10-9-3a48-3a35.png)
 
-Oh si&#39;! Roba potente.
+Oh sì! Roba potente.
