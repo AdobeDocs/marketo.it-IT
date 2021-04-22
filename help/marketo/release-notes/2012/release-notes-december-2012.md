@@ -1,75 +1,75 @@
 ---
 unique-page-id: 2951107
-description: Note sulla versione - Dicembre 2012 - Marketo Docs - Documentazione prodotto
+description: Note sulla versione - Dicembre 2012 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Dicembre 2012
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
+# Note sulla versione: Dicembre 2012{#release-notes-december}
 
-# Note sulla versione: Dicembre 2012 {#release-notes-december}
-
-Il rilascio di dicembre include la funzione **Forward to Friend**, così come molti altri piaceri! Le funzioni contrassegnate con un asterisco (*) sono disponibili solo in Select Edition e in RCA (Revenue Cycle Analytics).
+Il rilascio di dicembre include la funzionalità **Inoltra all&#39;amico**, così come diverse altre buone! Le funzioni contrassegnate con un asterisco (*) sono disponibili solo in Select Edition e in RCA (Revenue Cycle Analytics).
 
 ## Inoltra all&#39;amico {#forward-to-friend}
 
-Abilita la condivisione di contenuti con altri utenti includendo un collegamento **Inoltra a un amico** nelle e-mail. L&#39;aggiunta di nuovi filtri e attivatori vi aiuterà a identificare i vostri influenzatori, identificando gli utenti che hanno inoltrato un&#39;e-mail, nonché coloro che hanno ricevuto le e-mail inoltrate.
+Abilita la condivisione di contenuti con altri utenti includendo un collegamento **Inoltra ad un amico** nelle e-mail. L’aggiunta di nuovi filtri e attivatori ti aiuterà a identificare i tuoi influenzatori, identificando gli utenti che hanno inoltrato un’e-mail e quelli che hanno ricevuto le e-mail inoltrate.
 
-Per includere nell&#39;e-mail un invito **Invia a un amico**, apritelo nell&#39;editor e inserite il token `{{system.forwardToFriendLink}}`.
+Per includere nell&#39;e-mail un invito **Inoltra ad un amico**, aprilo nell&#39;editor e inserisci il token `{{system.forwardToFriendLink}}`.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Utilizzate i trigger e i filtri corrispondenti per identificare gli utenti che hanno utilizzato il collegamento **Inoltra all&#39;amico** e quelli che hanno ricevuto l&#39;e-mail.
+Utilizza i trigger e i filtri corrispondenti per identificare gli utenti che hanno utilizzato il collegamento **Inoltra all’amico** e quelli che hanno ricevuto l’e-mail.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
-## Autorizzazioni Amministratore Granulare {#granular-admin-permissions}
+## Autorizzazioni amministratore granulari {#granular-admin-permissions}
 
-La nostra versione più recente offre maggiore accesso e controllo sui ruoli Amministratore, controllando l&#39;accesso a diverse funzioni nell&#39;area di amministrazione di Marketo per ogni ruolo. Quando create un nuovo ruolo, potete assegnare specifiche funzioni di amministrazione a cui il ruolo può accedere.
+La versione più recente offre maggiore accesso e controllo sui ruoli Amministratore, controllando l’accesso a diverse funzioni nell’area di amministrazione di Marketo per ogni ruolo. Quando crei un nuovo ruolo, puoi assegnare funzioni di amministrazione specifiche a cui il ruolo può accedere.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->Per impostazione predefinita, i ruoli esistenti con l&#39;autorizzazione &quot;Accesso all&#39;amministratore&quot; hanno accesso a tutte le funzioni di amministrazione fino a quando non vengono modificati.
+>Per impostazione predefinita, i ruoli esistenti con l’autorizzazione &quot;Amministratore di accesso&quot; possono accedere a tutte le funzioni Amministratore fino a quando e se non vengono modificati.
 
-## Scheda BrightTALK {#brighttalk-adapter}
+## Adattatore BrightTALK {#brighttalk-adapter}
 
-L&#39;adattatore Marketo BrightTALK consente di acquisire le informazioni di partecipazione da un webcast live o on demand, direttamente in un evento Marketo!
+L&#39;adattatore BrightTALK di Marketo consente di acquisire le informazioni sulla partecipazione da un webcast live o on-demand, direttamente in un evento Marketo!
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Informazioni sulle vendite di Marketo per Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## Informazioni sulle vendite Marketo per Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
 
-Sales Insight è ora disponibile per i clienti di Microsoft Dynamics!
+Informazioni sulle vendite è ora disponibile per i clienti di Microsoft Dynamics.
 
-## Sincronizzazione opportunità di Dynamics {#dynamics-opportunity-sync}
+## Sincronizzazione opportunità Dynamics {#dynamics-opportunity-sync}
 
-Sincronizza i dati delle opportunità tra Marketo e Microsoft Dynamics.
+Sincronizza i dati sulle opportunità tra Marketo e Microsoft Dynamics.
 
-## Rapporto Opportunità di influenza del marketing* {#marketing-influenced-opportunities-report}
+## Rapporto sulle opportunità influenzate dal marketing* {#marketing-influenced-opportunities-report}
 
-Visualizzare la percentuale della pipeline e delle entrate della società influenzata dai programmi di marketing. In **Revenue Explorer**, ora puoi creare rapporti personalizzati con il nuovo punto giallo &quot;Marketing Influence Opportunity&quot; (Opportunità influenzata dal marketing) in Opportunity Analysis (Analisi opportunità). Nella cartella Standard potete inoltre usare i due rapporti seguenti:
+Visualizza la percentuale di pipeline e ricavi della tua azienda influenzata dai tuoi programmi di marketing. In **Revenue Explorer** è ora possibile creare rapporti personalizzati con il nuovo punto giallo &quot;Marketing Influenzated Opportunity&quot; (Opportunità di marketing influenzate) in Opportunity Analysis (Analisi opportunità). Nella cartella Standard è inoltre possibile utilizzare i due rapporti seguenti:
 
 * Influenza marketing sulle opportunità create
-* L&#39;influenza del marketing sulle opportunità chiuse
+* Influenza di marketing sulle opportunità chiuse
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
 ## Campi opportunità personalizzati in Analisi opportunità programma* {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Aggiungi campi di opportunità personalizzati per arricchire i rapporti di analisi delle opportunità del programma in Esplora entrate.
+Aggiungi campi di opportunità personalizzati per arricchire i rapporti di analisi delle opportunità del programma in Revenue Explorer.
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## Ispettore campagna {#campaign-inspector}
 
-Ti sei mai chiesto quali campagne utilizzano un&#39;azione di flusso specifica, ad esempio Modifica punteggio o Richiedi campagna? O dove viene utilizzato un determinato filtro? La nuova finestra Ispettore campagna (disponibile dal cassetto del tesoro) consente di identificare queste campagne, nonché campagne attive e campagne con errori.
+Ti sei mai chiesto quali campagne utilizzano un’azione di flusso specifica, ad esempio Cambia punteggio o Richiedi campagna? O dove viene utilizzato un determinato filtro? Il nuovo Ispettore campagna (disponibile dal Cestino del tesoro) consente di identificare queste campagne, nonché campagne attive e campagne con errori.
 
-Andate a **Admin** > **Treasure Chest** per attivare **Campaign Inspector**.
+Vai a **Amministratore** > **Torta tesoro** per abilitare il **Ispettore campagna**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
