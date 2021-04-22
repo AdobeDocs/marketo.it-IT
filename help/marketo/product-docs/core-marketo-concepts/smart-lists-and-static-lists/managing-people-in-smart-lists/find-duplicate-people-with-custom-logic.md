@@ -2,14 +2,14 @@
 unique-page-id: 2952636
 description: Trova persone duplicate con logica personalizzata - Documenti Marketo - Documentazione del prodotto
 title: Trova persone duplicate con logica personalizzata
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
-
 
 # Trova persone duplicate con logica personalizzata {#find-duplicate-people-with-custom-logic}
 
@@ -44,4 +44,4 @@ Marketo dispone di un elenco smart di sistema che individua le persone duplicate
 
    ![](assets/four-2.png)
 
-   Fatto! Eseguire l’elenco avanzato per trovare le persone con lo stesso valore nel campo selezionato in precedenza.
+   Completato! Eseguire l’elenco avanzato per trovare le persone con lo stesso valore nel campo selezionato in precedenza.
