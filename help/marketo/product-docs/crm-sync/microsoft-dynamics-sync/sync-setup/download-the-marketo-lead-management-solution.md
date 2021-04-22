@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6848922
-description: Scarica la soluzione di gestione dei lead Marketo - Marketo Docs - Documentazione prodotto
-title: Scaricate la soluzione di gestione dei lead Marketo
+description: Scarica la soluzione Marketo per la gestione dei lead - Documentazione Marketo - Documentazione del prodotto
+title: Scarica la soluzione Marketo per la gestione dei lead
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Download della soluzione di gestione dei lead di marketing {#download-the-marketo-lead-management-solution}
+# Scarica la soluzione Marketo per la gestione dei lead {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente _prima di_ eseguire qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente _prima_ di eseguire qualsiasi aggiornamento.
 
 >[!NOTE]
 >
->Marketo supporta solo certificati SSL compatibili con Java 7.
+>Marketo supporta solo i certificati SSL compatibili con Java 7 al momento.
 
-1. Andate all&#39;area **Admin**.
+1. Vai all&#39;area **Amministratore**.
 
    ![](assets/admin-1.png)
 
-1. Fare clic su **CRM**.
+1. Fai clic su **CRM**.
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
@@ -39,7 +39,7 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Selezionare **Scarica la soluzione Marketo**.
+1. Seleziona **Scarica soluzione Marketo**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
@@ -47,4 +47,4 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
    ![](assets/msd-online-1.png)
 
-   Fantastico! Un file zip della soluzione verrà ora scaricato sul dispositivo.
+   Fantastico! Ora sul dispositivo verrà scaricato un file zip della soluzione.
