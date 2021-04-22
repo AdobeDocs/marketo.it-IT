@@ -1,70 +1,70 @@
 ---
 unique-page-id: 4719287
-description: Modifica mappature campi iniziali - Documenti Marketo - Documentazione prodotto
+description: Modifica mappature dei campi iniziali - Documenti Marketo - Documentazione del prodotto
 title: Modifica mappature campi iniziali
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
 
-
 # Modifica mappature campi iniziali {#edit-initial-field-mappings}
 
 >[!NOTE]
 >
->Questa funzione è accessibile solo prima della sincronizzazione iniziale con Salesforce! Una volta premuto il tasto **Sincronizza ora**, non è più possibile eseguire questa operazione.
+>Questa funzione è accessibile solo prima della sincronizzazione iniziale con Salesforce! Una volta premuto il pulsante **Sincronizza ora**, non è più possibile eseguire questa operazione.
 
-Durante la sincronizzazione iniziale con Salesforce, Marketo combina automaticamente i campi personalizzati con nomi simili in un unico campo sul lato Marketo per garantire che i dati possano essere scambiati con gli oggetti Lead e Contact del CRM. In questo articolo viene illustrato come personalizzare tali mappature.
+Durante la sincronizzazione iniziale con Salesforce, Marketo combina automaticamente campi personalizzati con nomi simili in un singolo campo sul lato Marketo per garantire che i dati possano essere scambiati con oggetti Lead e Contact nel CRM. Questo articolo spiega come personalizzare queste mappature.
 
 ## Mappa campi non mappati {#map-unmapped-fields}
 
-Quando viene visualizzato un campo nella cartella Campi non mappati, significa che non è mappato a un campo simile sul lead o sul contatto in Salesforce. Potete ripararlo.
+Quando viene visualizzato un campo nella cartella Campi non mappati, significa che non è mappato a un campo simile nel lead o nel contatto di Salesforce. Puoi ripararlo.
 
-1. Fare clic su **Modifica mappature**.
+1. Fai clic su **Modifica mappature**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Aprire la cartella **Campi personalizzati non mappati**.
+1. Apri la cartella **Campi personalizzati non mappati** .
 
    ![](assets/two.png)
 
-1. Trascinate un campo personalizzato non mappato su un altro per mapparlo insieme.
+1. Trascina un campo personalizzato non mappato su un altro per mapparlo insieme.
 
    >[!NOTE]
    >
-   >È possibile modificare solo le mappature dei campi personalizzate. Impossibile modificare le mappature dei campi standard.
+   >Puoi modificare solo le mappature dei campi personalizzate. Impossibile modificare le mappature dei campi standard.
 
    ![](assets/three.png)
 
-1. Al termine, fare clic su **Mappature di fine**.
+1. Al termine, fai clic su **Fine mappature**.
 
    ![](assets/four.png)
 
-## Interrompi mapping esistente {#break-existing-mapping}
+## Interruzione mappatura esistente {#break-existing-mapping}
 
-Se avete campi con lo stesso nome sul lead e sull’oggetto di contatto Marketo li mapperà automaticamente. È possibile considerarli diversi e contenere dati diversi. Interrompete la mappatura in questo modo.
+Se nell’oggetto lead sono presenti campi con nomi simili, Marketo li associa automaticamente. Puoi considerarli diversi e conservare dati diversi. Rompete la mappatura in questo modo.
 
-1. Fare clic su **Modifica mappature**.
+1. Fai clic su **Modifica mappature**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Evidenzia un campo mappato e fai clic su **Mappatura interruzioni** per separare i campi.
+1. Evidenziare un campo mappato e fare clic su **Mappatura interruzione** per separare i campi.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Al termine, fare clic su **Mappature di fine**.
+1. Al termine, fai clic su **Fine mappature**.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Bello! La sincronizzazione iniziale è quasi terminata.
+   Bello! Hai quasi finito con la sincronizzazione iniziale.
 
 ## Ripristina schema {#reset-schema}
 
-1. Se durante l&#39;elaborazione delle mappature si apportano delle modifiche allo schema in Salesforce, è possibile eseguire il pull delle modifiche facendo clic su **Reimposta schema**.
+1. Se apporti alcune modifiche allo schema in Salesforce mentre lavori alle mappature, puoi estrarre le modifiche facendo clic su **Ripristina schema**.
 
-   * Tutte le modifiche alla mappatura verranno ripristinate!
-   * Reimpostando lo schema si aggiungeranno solo i campi, non li si rimuove (anche se li si nasconde dall&#39;utente della sincronizzazione).
+   * Tutte le modifiche alla mappatura verranno reimpostate.
+   * Se si reimposta lo schema, verranno aggiunti solo i campi, non rimossi (anche se li si nasconde dall&#39;utente di sincronizzazione).
    ![](assets/image2014-12-9-13-3a32-3a8.png)
