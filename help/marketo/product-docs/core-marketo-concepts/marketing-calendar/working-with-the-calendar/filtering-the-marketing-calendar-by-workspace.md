@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147306
-description: Filtrare il calendario di marketing in base a Workspace - Documenti Marketo - Documentazione prodotto
-title: Filtrare il calendario di marketing in base a Workspace
+description: Filtrare il calendario di marketing per Workspace - Documenti Marketo - Documentazione del prodotto
+title: Filtrare il calendario di marketing per Workspace
+exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
+# Filtrare il calendario di marketing per Workspace {#filtering-the-marketing-calendar-by-workspace}
 
-# Filtro del calendario di marketing in base a Workspace {#filtering-the-marketing-calendar-by-workspace}
-
-Il Calendario marketing può essere filtrato per oggetti in aree di lavoro specifiche.
+Il calendario di marketing può essere filtrato da oggetti in aree di lavoro specifiche.
 
 1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Nel pannello dei filtri, selezionate il menu a discesa **Area di lavoro**. Scegliete l’area di lavoro desiderata.
+1. Nel pannello dei filtri, seleziona il menu a discesa **Area di lavoro** . Scegli l’area di lavoro desiderata.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   Fantastico! Ora verranno visualizzati solo gli oggetti generati in tale area di lavoro.
+   Fantastico! Ora vengono visualizzati solo gli oggetti generati in quella particolare area di lavoro.
 
    >[!NOTE]
    >
