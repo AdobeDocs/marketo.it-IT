@@ -1,29 +1,29 @@
 ---
 unique-page-id: 12983280
-description: Note sulla versione - Autunno '17 - Documenti Marketo - Documentazione prodotto
-title: Note sulla versione - Autunno '17
+description: Note sulla versione - Autunno 2017 - Documenti Marketo - Documentazione del prodotto
+title: Note sulla versione - Autunno 2017
+exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Autunno &#39;17 {#release-notes-fall}
 
-Le seguenti funzionalità sono incluse nella release autunnale 17. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo.
+Le seguenti funzionalità sono incluse nella versione autunnale del 17. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
-Fate clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione. Nota: Alcune delle funzioni incluse in questa versione non hanno articoli associati. Se un argomento include più sottotitoli, i collegamenti vengono inseriti in tale area.
+Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati per ciascuna funzione. Nota: Alcune delle funzioni incluse in questa versione non hanno articoli associati. Se un argomento ha più sottotitoli, i collegamenti vengono posizionati in tale punto.
 
 ## Affidabilità del sistema {#system-reliability}
 
-Abbiamo apportato ulteriori miglioramenti all&#39;infrastruttura principale di Marketo, tra cui una migliore sequenza, meno incongruenze e una migliore stabilità di Munchkin.
+Abbiamo apportato ulteriori miglioramenti all&#39;infrastruttura Marketo di base, tra cui una migliore sequenza, meno incongruenze e una maggiore stabilità Munchkin.
 
-## Prestazioni sincronizzazione SFDC {#sfdc-sync-performance}
+## Prestazioni di sincronizzazione SFDC {#sfdc-sync-performance}
 
-Sfruttate i vantaggi di una sincronizzazione più completa e rapida tra Marketo e Salesforce. Le modifiche dei dati che richiedono aggiornamenti in massa su account o lead possono essere suddivise in code parallele per evitare backlog. Eventi e attività ora si sincronizzano più rapidamente del 50%.
+Sfrutta la sincronizzazione più completa e rapida tra Marketo e Salesforce. Le modifiche ai dati che richiedono aggiornamenti in blocco su account o lead possono essere suddivise in code parallele per evitare backlog. Anche gli eventi e le attività ora si sincronizzano più rapidamente del 50%.
 
 ## Miglioramenti delle prestazioni di Analytics {#analytics-performance-improvements}
 
@@ -31,54 +31,54 @@ I recenti miglioramenti dell&#39;infrastruttura offrono tempi di attività e sta
 
 ## [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
-Con questa nuova funzione, ora puoi tenere premuto e inviare e-mail in base ai fusi orari locali. I programmi di e-mail e di coinvolgimento possono essere configurati per essere inviati nei fusi orari dei destinatari, eliminando la necessità di creare più programmi. Invia una volta e Marketo manterranno automaticamente l&#39;e-mail fino all&#39;ora locale corretta. Incrementate le metriche delle e-mail, osservate le pratiche locali e risparmiate tempo utilizzando un singolo programma a livello globale.
+Con questa nuova funzione, ora puoi tenere e consegnare e-mail in base ai fusi orari locali. I programmi e-mail e di coinvolgimento possono essere configurati in modo da essere consegnati nei fusi orari dei destinatari, eliminando la necessità di creare più programmi: invia una volta e Marketo manterrà automaticamente l’e-mail fino all’ora locale corretta. Incrementa le metriche delle e-mail, osserva le pratiche locali e risparmia tempo utilizzando un singolo programma a livello globale.
 
 ![](assets/image2017-11-29-8-3a45-3a47.png)
 
 >[!NOTE]
 >
->Se non puoi ancora attivare il fuso orario dei destinatari nelle tue e-mail e nei tuoi programmi di coinvolgimento, non preoccuparti! Questa funzione viene attivata gradualmente per tutti i clienti.
+>Se non puoi ancora abilitare il fuso orario dei destinatari nelle tue e-mail e nei tuoi programmi di coinvolgimento, non farti prendere dal panico! Questa funzione viene gradualmente abilitata per tutti i clienti.
 
 ## [Rivedi e-mail di esempio per segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
-Marketo dispone di una nuova opzione per selezionare un segmento quando invia e-mail di esempio per la revisione. Non è più necessario determinare manualmente a quale segmento appartiene un lead, per inviare più facilmente e-mail contenenti contenuto dinamico a segmenti diversi.
+Marketo ha una nuova opzione per scegliere un segmento quando invia e-mail di esempio per la revisione. Non è più necessario determinare manualmente a quale segmento appartiene un lead, facilitando l’invio di e-mail contenenti contenuto dinamico a segmenti diversi.
 
-## [Domande personalizzate LinkedIn lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Domande personalizzate di linkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Personalizzate i moduli di LinkedIn Lead Gen per la raccolta di attributi lead personalizzati. È ora possibile porre fino a tre domande personalizzate per modulo, scegliere tra testo di input a riga singola o domande a scelta multipla e mappare nuovamente i campi lead Marketo.
+Personalizza i moduli LinkedIn Lead Gen per raccogliere gli attributi personalizzati del lead. È ora possibile porre fino a tre domande personalizzate per modulo, scegliere tra un testo a riga singola o domande a scelta multipla e mappare nuovamente i campi lead Marketo.
 
-## [Integrazione Slack ](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Integrazione Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
-Abbiamo introdotto due funzionalità nell&#39;ambito della nuova integrazione di Slack :
+Sono state rilasciate due funzionalità nell&#39;ambito della nuova integrazione di Slack:
 
-* Notifiche di sistema: Ricevi notifiche  Slack relative a eventi importanti nell’istanza di Marketo, come avvisi sugli stati delle campagne correnti e su eventuali problemi che richiedono un’attenzione immediata.
-* Momenti interessanti: Quando un Marketo Insight è stato attivato da un individuo noto da un conto di vendita, i proprietari principali possono essere informati tramite  Slack. Le notifiche includono informazioni sui lead e dettagli sul conto di vendita.
+* Notifiche di sistema: Ottieni notifiche di Slack relative a eventi importanti nella tua istanza Marketo, come avvisi sugli stati della campagna corrente e su qualsiasi problema che richieda un’attenzione immediata.
+* Momenti interessanti: Quando Marketo Insight viene attivato da un individuo noto da un account di vendita, i proprietari lead possono essere informati tramite Slack. Le notifiche includono informazioni sui lead e dettagli sull’account di vendita.
 
 ## Miglioramenti ABM {#abm-enhancements}
 
 **[Mostra account senza contatti](https://docs.marketo.com/x/fKCt)**
 
-Marketo ABM ora sincronizza e visualizza gli account CRM senza contatti. Includi nuovi account senza precedenti vendite o cronologia marketing e monitora l&#39;avanzamento confrontando i lead successivi agli account.
+Marketo ABM ora sincronizza e visualizza gli account CRM senza contatti. Includi nuovi account senza precedenti vendite o cronologia di marketing e monitora l&#39;avanzamento confrontando i lead successivi agli account.
 
-## ContentAI Analytics {#contentai-analytics}
+## Analisi di ContentAI {#contentai-analytics}
 
 **[Nuovo filtro elenco account ABM](https://docs.marketo.com/x/1BPG)**
 
-Visualizzate e confrontate le prestazioni del contenuto negli elenchi di account ABM per ottimizzare il contenuto esistente. ContentAI mostra quanto segue:
+Visualizza e confronta le prestazioni del contenuto negli elenchi account ABM per ottimizzare il contenuto esistente. ContentAI mostra quanto segue:
 
 * contenuto principale visualizzato
 * contenuto convertito principale
-* Contenuto suggerito basato su AI per attività di marketing
+* Contenuto consigliato basato sull’intelligenza artificiale per attività di marketing
 
-## Miglioramenti della personalizzazione Web {#web-personalization-enhancements}
+## Miglioramenti della personalizzazione web {#web-personalization-enhancements}
 
-**[Token per campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Token per campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
-I token sono ora disponibili per l&#39;utilizzo all&#39;interno delle campagne Web. Sfruttate i token per inviare messaggi e contenuti personalizzati per aumentare il coinvolgimento nelle campagne Web.
+I token sono ora disponibili per l’utilizzo all’interno di campagne web. Utilizza i token per inviare messaggi e contenuti personalizzati per aumentare il coinvolgimento nelle campagne web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[Immagini di Design Studio nell&#39;editor di campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Immagini di Design Studio nell’editor di Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Risparmia tempo riutilizzando risorse creative e immagini su più canali in Marketo.
 
@@ -88,8 +88,8 @@ Risparmia tempo riutilizzando risorse creative e immagini su più canali in Mark
 
 **[API di anteprima e-mail](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Ora potete visualizzare in anteprima le e-mail all&#39;esterno di Marketo, semplificando il processo di localizzazione del contenuto delle e-mail e riducendo gli errori.
+Ora puoi visualizzare in anteprima e-mail in remoto al di fuori di Marketo, semplificando il processo di localizzazione dei contenuti e-mail e riducendo gli errori.
 
-**[Replace HTML API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Sostituire l’API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.
+Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in modo remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.
