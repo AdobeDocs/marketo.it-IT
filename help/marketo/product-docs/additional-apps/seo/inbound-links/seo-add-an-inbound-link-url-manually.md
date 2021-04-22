@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2949247
-description: SEO - Aggiungere manualmente un URL di collegamento in entrata - Documenti Marketo - Documentazione prodotto
-title: SEO - Aggiunta manuale di un URL di collegamento in entrata
+description: SEO - Aggiungere manualmente un URL di collegamento in entrata - Documenti Marketo - Documentazione del prodotto
+title: SEO - Aggiungere manualmente un URL di collegamento in entrata
+exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
+# SEO - Aggiungere manualmente un URL di collegamento in entrata {#seo-add-an-inbound-link-url-manually}
 
-# SEO - Aggiunta manuale di un URL di collegamento in entrata {#seo-add-an-inbound-link-url-manually}
+Puoi aggiungere manualmente i collegamenti in entrata . Ecco come:
 
-Puoi aggiungere manualmente i collegamenti in entrata. Di seguito viene illustrato come:
-
-1. Andate alla sezione **Collegamenti in ingresso**.
+1. Vai alla sezione **Collegamenti in entrata** .
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Fare clic su **Aggiungi URL**.
+1. Fai clic su **Aggiungi URL**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Digitate l’URL. Fare clic su **Aggiungi**.
+1. Digita l’URL. Fare clic su **Aggiungi**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Sapevate che è possibile [aggiungere il collegamento in entrata a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Guardate!
+   >Sapevi di poter [aggiungere il collegamento in entrata a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Guardate!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-Avanti! A questo punto dovrebbe essere visualizzato il nuovo URL aggiunto all&#39;elenco. La raccolta di tutti i dati potrebbe richiedere del tempo.
-
+Forza! Ora dovresti visualizzare il nuovo URL aggiunto all’elenco. Potrebbe essere necessario un po&#39; di tempo per raccogliere tutti i dati.
