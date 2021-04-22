@@ -1,18 +1,18 @@
 ---
 description: Mappatura predefinita dei campi di Dynamics - Documenti Marketo - Documentazione del prodotto
 title: Mappatura predefinita dei campi di Dynamics
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-
 # Mappatura predefinita dei campi Dynamics {#default-dynamics-field-mapping}
 
-Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo crea automaticamente queste associazioni tra i campi incorporati Dynamics e Marketo.  Marketo sincronizzerà anche i campi personalizzati sui lead, account, opportunità e contatti.
+Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo crea automaticamente queste associazioni tra i campi incorporati di Dynamics e Marketo.  Marketo sincronizzerà anche i campi personalizzati sui lead, account, opportunità e contatti.
 
 ## Campi lead {#lead-fields}
 
@@ -34,8 +34,8 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>Saluto</td> 
-   <td>Saluto</td> 
+   <td>Formula di saluto</td> 
+   <td>Formula di saluto</td> 
    <td>saluto</td> 
   </tr> 
   <tr> 
@@ -45,7 +45,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
   </tr> 
   <tr> 
    <td>Medio</td> 
-   <td>Nome centrale</td> 
+   <td>Secondo nome</td> 
    <td>nomeintermedio</td> 
   </tr> 
   <tr> 
@@ -59,7 +59,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>indirizzo e-mail1</td> 
   </tr> 
   <tr> 
-   <td>Titolo processo</td> 
+   <td>Professione</td> 
    <td>Titolo del processo</td> 
    <td>jobtitle</td> 
   </tr> 
@@ -105,7 +105,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
   </tr> 
   <tr> 
    <td>Origine persona</td> 
-   <td>Origine lead</td> 
+   <td>Fonte Lead</td> 
    <td>leadsourcecode</td> 
   </tr> 
   <tr> 
@@ -124,12 +124,12 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>descrizione</td> 
   </tr> 
   <tr> 
-   <td>Non chiamare</td> 
+   <td>Non effettuare la chiamata</td> 
    <td>Non consentire chiamate telefoniche</td> 
    <td>telefonino</td> 
   </tr> 
   <tr> 
-   <td>Annulla sottoscrizione</td> 
+   <td>Annulla l'iscrizione</td> 
    <td>Non inviare e-mail in blocco</td> 
    <td>donotbulkemail</td> 
   </tr> 
@@ -201,8 +201,8 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>createdon</td> 
   </tr> 
   <tr> 
-   <td>Saluto</td> 
-   <td>Saluto</td> 
+   <td>Formula di saluto</td> 
+   <td>Formula di saluto</td> 
    <td>saluto</td> 
   </tr> 
   <tr> 
@@ -212,7 +212,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
   </tr> 
   <tr> 
    <td>Medio</td> 
-   <td>Nome centrale</td> 
+   <td>Secondo nome</td> 
    <td>nomeintermedio</td> 
   </tr> 
   <tr> 
@@ -226,8 +226,8 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>indirizzo e-mail1</td> 
   </tr> 
   <tr> 
-   <td>Titolo processo</td> 
-   <td>Titolo processo</td> 
+   <td>Professione</td> 
+   <td>Professione</td> 
    <td>jobtitle</td> 
   </tr> 
   <tr> 
@@ -274,12 +274,12 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>statuscode</td> 
   </tr> 
    <tr> 
-   <td>Non chiamare</td> 
+   <td>Non effettuare la chiamata</td> 
    <td>Non consentire chiamate telefoniche</td> 
    <td>telefonino</td> 
   </tr> 
   <tr> 
-   <td>Annulla sottoscrizione</td> 
+   <td>Annulla l'iscrizione</td> 
    <td>Non inviare e-mail in blocco</td> 
    <td>donotbulkemail</td> 
   </tr> 
@@ -361,8 +361,8 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>Telefono principale</td> 
-   <td>Telefono principale</td> 
+   <td>Numero di telefono</td> 
+   <td>Numero di telefono</td> 
    <td>telefono1</td> 
   </tr> 
   <tr> 
@@ -381,8 +381,8 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>codice di stato</td> 
   </tr> 
   <tr> 
-   <td>Entrate annuali</td> 
-   <td>Entrate annuali</td> 
+   <td>Entrata annuale</td> 
+   <td>Entrata annuale</td> 
    <td>entrate</td> 
   </tr> 
   <tr> 
@@ -391,18 +391,18 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
    <td>descrizione</td> 
   </tr> 
   <tr> 
-   <td>Industria</td> 
-   <td>Industria</td> 
+   <td>Settore</td> 
+   <td>Settore</td> 
    <td>industrycode</td> 
   </tr> 
   <tr> 
-   <td>Codice SIC</td> 
-   <td>Codice SIC</td> 
+   <td>Codice SIC (Standard Industrial Classification)</td> 
+   <td>Codice SIC (Standard Industrial Classification)</td> 
    <td>sic</td> 
   </tr> 
   <tr> 
-   <td>Sito Web</td> 
-   <td>Sito Web</td> 
+   <td>Sito web</td> 
+   <td>Sito web</td> 
    <td>sito web</td> 
   </tr> 
  </tbody> 
@@ -432,7 +432,7 @@ Questi campi vengono creati in Marketo ma non possono essere regolati dai client
   </tr> 
   <tr> 
    <td>Microsoft eliminato</td> 
-   <td>Una persona era in Microsoft ma è stato eliminato e ora vive solo in Marketo</td> 
+   <td>Una persona era in Microsoft ma è stata eliminata e ora vive solo in Marketo</td> 
   </tr> 
  </tbody> 
 </table>
