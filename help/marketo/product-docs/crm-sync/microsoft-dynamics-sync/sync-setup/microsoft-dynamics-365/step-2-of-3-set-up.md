@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571827
-description: 'Passaggio 2 di 3: configurare l’utente di sincronizzazione Marketo in Dynamics - Documenti Marketo - Documentazione del prodotto'
-title: 'Passaggio 2 di 3: configurare l’utente di sincronizzazione Marketo in Dynamics'
+description: 'Passaggio 2 di 3: configurare Marketo Sync User in Dynamics - Marketo Docs - Documentazione del prodotto'
+title: 'Passaggio 2 di 3: configurare Marketo Sync User in Dynamics'
+exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
 
 ---
 
-
-# Passaggio 2 di 3: Configurare l’utente di sincronizzazione di Marketo in Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
+# Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
 
 Cominciamo creando un account utente.
 
@@ -63,11 +63,11 @@ Cominciamo creando un account utente.
 
 ## Assegna ruolo utente di sincronizzazione {#assign-sync-user-role}
 
-Assegna il ruolo Utente sincronizzazione Marketo solo all’utente di sincronizzazione Marketo. Non è necessario assegnarlo ad altri utenti.
+Assegna il ruolo utente di sincronizzazione Marketo solo all&#39;utente di sincronizzazione Marketo. Non è necessario assegnarlo ad altri utenti.
 
 >[!NOTE]
 >
->Questo vale per Marketo versione 4.0.0.14 e successive. Per le versioni precedenti, tutti gli utenti devono avere il ruolo utente di sincronizzazione. Per aggiornare Marketo, consulta [Aggiornare la soluzione Marketo per Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Questo vale per la versione 4.0.0.14 e successive di Marketo. Per le versioni precedenti, tutti gli utenti devono avere il ruolo utente di sincronizzazione. Per aggiornare Marketo, consulta [Aggiornare la soluzione Marketo per Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Torna alla scheda Utenti abilitati e aggiorna l’elenco degli utenti.
 
@@ -81,7 +81,7 @@ Assegna il ruolo Utente sincronizzazione Marketo solo all’utente di sincronizz
 
    ![](assets/twelve.png)
 
-1. Controllare **Marketo Sync User** e fare clic su **OK**.
+1. Controlla **Marketo Sync User** e fai clic su **OK**.
 
    ![](assets/thirteen.png)
 
@@ -129,8 +129,8 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 
     * Se desideri limitare il numero di record sincronizzati, ora [imposta un filtro di sincronizzazione personalizzato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
     * Esegui il processo [Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) . Verifica che le impostazioni iniziali siano state eseguite correttamente.
-    * Accedi all’utente di sincronizzazione Marketo in Microsoft Dynamics CRM.
+    * Accedi all&#39;utente di sincronizzazione Marketo in Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (Online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+>[Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
