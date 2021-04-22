@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1146956
-description: Momento interessante - Marketo Docs - Documentazione del prodotto
+description: Momento interessante - Documentazione Marketo - Documentazione del prodotto
 title: Momento interessante
+exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Momento interessante {#interesting-moment}
 
 ## Panoramica {#overview}
 
-Se disponi di Marketing Sales Insight, puoi utilizzare il passaggio **Moment** Interessante per dare visibilità al tuo team di vendita sulle cose fantastiche che stai facendo.
+Se disponi di Marketo Sales Insight, puoi utilizzare il passaggio di flusso **Momento interessante** per dare visibilità al tuo team di vendita sulle cose interessanti che stanno facendo le tue persone.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Utilizzo {#usage}
 
-1. Selezionare il momento interessante **type** che si desidera utilizzare.
+1. Selezionare il momento interessante **digitare** che si desidera utilizzare.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
@@ -31,9 +31,9 @@ Se disponi di Marketing Sales Insight, puoi utilizzare il passaggio **Moment** I
 
    >[!TIP]
    >
-   >**Meno è di più**. Collabora con il team di vendita per essere certi che i momenti interessanti siano davvero interessanti.
+   >**Meno è più**. Collabora con il tuo team di vendita per assicurarsi che i momenti interessanti siano effettivamente interessanti.
 
-È inoltre possibile utilizzare [token in momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) per creare descrizioni dinamiche molto utili.
+Puoi inoltre utilizzare i token [nei momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) per creare descrizioni dinamiche molto utili.
 
 >[!MORELIKETHIS]
 >
