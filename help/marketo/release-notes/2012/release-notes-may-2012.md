@@ -1,77 +1,77 @@
 ---
 unique-page-id: 2951117
-description: Note sulla versione - Maggio 2012 - Marketo Docs - Documentazione prodotto
+description: Note sulla versione - Maggio 2012 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2012
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
-# Note sulla versione: Maggio 2012 {#release-notes-may}
+# Note sulla versione: Maggio 2012{#release-notes-may}
 
 ## Riprogettazione report prestazioni e-mail {#email-performance-report-redesign}
 
-Nota: questo sarà un rollout graduale, a partire dal rilascio di maggio
+Nota: questo sarà un rollout graduale, a partire dalla versione di maggio
 
-Abbiamo reso i report Prestazioni e-mail e Prestazioni e-mail campagna più veloci. Abbiamo anche migliorato le definizioni di alcune metriche e consolidato le metriche &quot;Messaggi inviati&quot; e &quot;Lead inviati&quot; in un&#39;unica metrica, &quot;Inviati&quot;. Abbiamo unito &quot;Messaggi consegnati&quot; e &quot;Lead consegnati&quot; a &quot;Consegnati&quot;.
+I rapporti Prestazioni e-mail e Prestazioni e-mail della campagna sono stati eseguiti più velocemente. Abbiamo anche migliorato le definizioni di alcune metriche e consolidato le metriche &quot;Messaggi inviati&quot; e &quot;Lead inviati&quot; in un’unica metrica, &quot;Inviati&quot;. Abbiamo unito &quot;Messaggi consegnati&quot; e &quot;Lead consegnati&quot; a &quot;Consegnati&quot;.
 
 ## Miglioramenti dei passaggi di attesa {#wait-step-enhancements}
 
-Utilizzando le nuove proprietà di attesa avanzata, puoi configurare il passaggio di attesa in un&#39;azione di flusso di Smart Campaign in modo da &quot;aspettare fino a&quot; un giorno specifico della settimana, il giorno lavorativo successivo, una data o un&#39;ora specifica. Questi miglioramenti assicurano che le tue email di cura arrivino in Posta in arrivo durante le ore di lavoro!
+Utilizzando le nuove proprietà di attesa avanzata, puoi configurare il passaggio di attesa in un’azione Flusso di campagna avanzata in modo da &quot;attendere fino a&quot; un giorno specifico della settimana, il giorno lavorativo successivo, una data o un’ora specifica. Questi miglioramenti assicurano che le e-mail di supporto arrivino nella casella in entrata durante l&#39;orario di lavoro!
 
 ![](assets/image2014-9-23-10-3a14-3a13.png)
 
-Figura 1. Specificare il passaggio di attesa per la fine di un giorno lavorativo
+Figura 1. Specificare il Passaggio di attesa per la fine di un giorno lavorativo
 
 ## Risorse archiviate nascoste {#archived-assets-hidden}
 
-Le risorse archiviate vengono filtrate automaticamente dai suggerimenti automatici, dai menu a discesa e dai rapporti, semplificando la ricerca delle risorse ricercate.
+Le risorse archiviate vengono filtrate automaticamente da suggerimenti automatici, menu a discesa e rapporti per semplificare la ricerca degli elementi desiderati.
 
 ![](assets/image2014-9-23-10-3a14-3a28.png)
 
-Figura 2. Esempio del filtro e-mail archiviato
+Figura 2. Esempio di filtro e-mail archiviato
 
-## Nuova app di check-in eventi per iPad {#new-event-check-in-app-for-ipad}
+## Nuova app per il check-in di eventi per iPad {#new-event-check-in-app-for-ipad}
 
-Semplificate il processo di check-in degli eventi utilizzando la nostra nuova app per iPad! L’app di check-in degli eventi si sincronizza con il programma Marketo e consente di controllare facilmente gli utenti registrati in un evento, nonché di aggiungere al volo nuovi lead.
+Semplifica il processo di check-in degli eventi utilizzando la nostra nuova app per iPad! L’app Event Check-in si sincronizza con il tuo programma Marketo e ti consente di controllare facilmente i registranti in un evento, nonché di aggiungere nuovi lead al volo.
 
 Richiede iOS 5.1 o versione successiva; Solo iPad.
 
 ![](assets/image2014-9-23-10-3a14-3a46.png)
 
-Figura 3. Home page del check-in dell&#39;evento
+Figura 3. Home page del check-in degli eventi
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
-Figura 4. Check-in evento: Selezionate l’evento!
+Figura 4. Archiviazione eventi: Seleziona il tuo Evento!
 
 ![](assets/image2014-9-23-10-3a15-3a27.png)
 
-Figura 5. Controllali
+Figura 5. Controllatele
 
-## URL di conferma webinar migliorato {#enhanced-webinar-confirmation-url}
+## URL di conferma del webinar migliorato {#enhanced-webinar-confirmation-url}
 
-Ora disponibile per ON24 e  Adobe Connect! Includete un collegamento univoco nell&#39;e-mail di conferma per ogni partecipante registrato utilizzando il nuovo token `{{member.webinar URL}}`.  miglioramenti di Adobe Connect includono anche la possibilità di attivare/disattivare l&#39;e-mail delle informazioni sull&#39;account  Adobe che include l&#39;ID di accesso e la password per l&#39;utente.
+Ora disponibile per ON24 e Adobe Connect! Includi un collegamento univoco nell’e-mail di conferma per ogni partecipante registrato utilizzando il nuovo token `{{member.webinar URL}}`. I miglioramenti di Adobe Connect includono anche la possibilità di attivare/disattivare l&#39;e-mail con le informazioni sull&#39;account Adobe che include l&#39;ID di accesso e la password per l&#39;utente.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
-Figura 6. Partecipare al webinar
+Figura 6. Invia le persone al tuo webinar
 
 ## Anteprima modello {#template-preview}
 
-Cercate un modello specifico durante la creazione dell&#39;e-mail o della pagina di destinazione, ma non siete sicuri di che aspetto abbia? Con la nuova funzionalità di anteprima del modello, potete verificare il modello selezionato prima di salvare una nuova risorsa!
+Cerchi un modello specifico durante la creazione dell’e-mail o della pagina di destinazione, ma non sei sicuro di come si presenterà? Con la nuova funzionalità di anteprima del modello, puoi verificare il modello selezionato prima di salvare una nuova risorsa.
 
 ![](assets/image2014-9-23-10-3a16-3a4.png)
 
-Figura 7. Visualizzare in anteprima il modello scelto
+Figura 7. Visualizzare in anteprima il modello selezionato
 
 ## Precompilazione modulo configurabile {#configurable-form-prefill}
 
-Controllare la precompilazione dei dati del modulo a livello di iscrizione e sovrascrivere a livello di pagina di destinazione. Senza pre-popolazione, potete fare in modo che il lead fornisca le informazioni più aggiornate.
+Controlla la precompilazione dei dati del modulo a livello di abbonamento e sovrascrivili a livello di pagina di destinazione. Senza pre-popolazione, puoi fare in modo che il lead fornisca le informazioni più aggiornate.
 
 ![](assets/image2014-9-23-10-3a16-3a22.png)
 
@@ -79,62 +79,62 @@ Figura 8. Configurazione della precompilazione del modulo in Amministratore
 
 ![](assets/image2014-9-23-10-3a16-3a34.png)
 
-Figura 9. Modifica impostazione di precompilazione del modulo in una pagina di destinazione
+Figura 9. Modificare l’impostazione di precompilazione di un modulo in una pagina di destinazione
 
 ## Torace del tesoro Marketo {#marketo-treasure-chest}
 
-Accedete alle funzioni sperimentali sviluppate da Marketo Engineers per migliorare l&#39;esperienza utente. Questa versione include l’opzione Annulla e-mail e la possibilità di inserire commenti e collaborare con altri utenti sulle pagine di destinazione.
+Accedi alle funzionalità sperimentali sviluppate dai tecnici Marketo per migliorare la tua esperienza utente. Questa versione include l’opzione Annulla e-mail , oltre alla possibilità di inserire commenti e collaborare con altri utenti sulle pagine di destinazione.
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
-Figura 10. Gestione delle funzioni per il test del tesoro in Amministratore
+Figura 10. Manager Treasure Chest Caratteristiche in Amministratore
 
 ## Integrazione di Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
 
-Sincronizza account, contatti e lead tra Marketo e Microsoft Dynamics CRM Online utilizzando la nostra nuova integrazione predefinita!
+Sincronizza account, contatti e lead tra Marketo e Microsoft Dynamics CRM Online utilizzando la nuova integrazione predefinita.
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
 Figura 11. Configurazione di Microsoft Dynamics
 
-## Miglioramenti di Marketing Sales Insight {#marketo-sales-insight-enhancements}
+## Miglioramenti di Marketo Sales Insight {#marketo-sales-insight-enhancements}
 
-**Opzioni Annulla sottoscrizione piè di pagina**
+**Opzioni piè di pagina per annullamento sottoscrizione**
 
-Configura quando e se visualizzare il piè di pagina per l’annullamento della sottoscrizione per le e-mail inviate tramite Sales Insight.
+Configura quando e se viene visualizzato il piè di pagina per l’annullamento della sottoscrizione per le e-mail inviate tramite Approfondimenti vendite.
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Figura 12. Impostazioni di Sales Insight in Amministratore
+Figura 12. Impostazioni Approfondimenti vendite in Admin
 
-## Cartelle per i modelli di e-mail di vendita {#folders-for-sales-email-templates}
+## Cartelle per i modelli e-mail di vendita {#folders-for-sales-email-templates}
 
-Ora puoi organizzare i modelli e-mail condivisi con Marketing Sales Insight in cartelle specifiche, semplificando la ricerca dell&#39;e-mail corretta da parte dei rappresentanti commerciali.
+Ora è possibile organizzare i modelli e-mail condivisi con Marketo Sales Insight in cartelle specifiche, facilitando la ricerca dell’e-mail corretta da parte dei rappresentanti commerciali.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
-Figura 13. Scegliere una cartella per i messaggi e-mail
+Figura 13. Scegliere una cartella per le e-mail
 
-## Accesso a Opportunità Analyzer da Sales Insight {#access-opportunity-analyzer-from-sales-insight}
+## Accedere a Opportunity Analyzer da Sales Insight {#access-opportunity-analyzer-from-sales-insight}
 
-Fornisci ai tuoi rappresentanti di vendita informazioni approfondite sulle attività di marketing che stanno guidando il coinvolgimento, utilizzando l&#39;accesso diretto a Opportunity Analyzer da Marketing a Sales Insight. Nota. Richiede una licenza di analisi del ciclo dei ricavi.
+Fornisci ai rappresentanti di vendita informazioni su quali attività di marketing stanno guidando il coinvolgimento, utilizzando l&#39;accesso diretto a Opportunity Analyzer da Marketo Sales Insight. Nota. Richiede la licenza di Revenue Cycle Analytics.
 
 ## Campo personalizzato per stato contatto {#custom-field-for-contact-status}
 
-È ora possibile mappare un campo personalizzato in Salesforce per compilare il campo Stato per i Contatti in Best Bets, Best Bets del mio team e visualizzazioni personalizzate.
+È ora possibile mappare un campo personalizzato in Salesforce per compilare il campo Stato per i contatti in Best Bets, Best Bets del mio team e visualizzazioni personalizzate.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
 Figura 14. Mappare un campo personalizzato ai contatti
 
-Vedere Pagine Visitate da lead anonimi
+Vedere pagine visitate da lead anonimi
 
-Espandete le pagine visualizzate da un lead anonimo dalla visualizzazione Anonymous Web Activity (Attività Web anonime).
+Esegui il drill-down alle pagine visualizzate da un lead anonimo dalla visualizzazione Anonymous Web Activity.
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 
-Figura 15. Consultate Attività Web anonime
+Figura 15. Vedi Attività web anonima
 
 ## Sottoscrivi lead e contatti migliorati {#enhanced-lead-and-contact-subscribe}
 
-Seguite un lead o contattate in qualsiasi momento utilizzando il nuovo pulsante Iscrizione nella pagina dei dettagli del record.
+Segui un lead o contatta in qualsiasi momento utilizzando il nuovo pulsante Iscriviti nella pagina dei dettagli del record.
