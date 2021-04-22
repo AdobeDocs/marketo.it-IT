@@ -1,25 +1,25 @@
 ---
 unique-page-id: 10098479
-description: Creare un'attività personalizzata - Documenti Marketo - Documentazione prodotto
-title: Creazione di un'attività personalizzata
+description: Creare un’attività personalizzata - Documenti Marketo - Documentazione del prodotto
+title: Creare un’attività personalizzata
+exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
 # Creare un&#39;attività personalizzata {#create-a-custom-activity}
 
-Per creare una nuova attività personalizzata, effettuate le seguenti operazioni.
+Segui questi passaggi per creare una nuova attività personalizzata.
 
 >[!NOTE]
 >
->La maggior parte delle sottoscrizioni ha un limite allocato di 10 tipi di attività personalizzate.
+>La maggior parte degli abbonamenti ha un limite assegnato di 10 tipi di attività personalizzate.
 
-1. Fare clic su **Admin**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/one.png)
 
@@ -27,19 +27,19 @@ Per creare una nuova attività personalizzata, effettuate le seguenti operazioni
 
    ![](assets/two.png)
 
-1. Fare clic su **Nuova attività personalizzata**.
+1. Fai clic su **Nuova attività personalizzata**.
 
    ![](assets/three.png)
 
-1. Immettete un nome e una descrizione facoltativa, quindi fate clic su **Next**. Il nome API viene compilato automaticamente, ma può essere personalizzato.
+1. Immetti un nome e una descrizione facoltativa, quindi fai clic su **Avanti**. Il nome API viene compilato automaticamente, ma può essere personalizzato.
 
    ![](assets/four.png)
 
    >[!CAUTION]
    >
-   >Se decidete di modificare il nome dell&#39;API, accertatevi che il nome non sia in conflitto con i campi in altre attività personalizzate.
+   >Se decidi di modificare il nome API, accertati che il nome non sia in conflitto con i campi di altre attività personalizzate.
 
-1. Definire il **Filtro** e **Trigger** e fare clic su **Avanti**.
+1. Definisci il **Filtro** e **Attivatore** e fai clic su **Avanti**.
 
    ![](assets/five.png)
 
