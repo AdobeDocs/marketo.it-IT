@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255606
-description: Note sulla versione - Inverno del 17 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - Inverno del 17 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Inverno &#39;17 {#release-notes-winter}
 
-Le seguenti funzionalità sono incluse nella versione invernale del 17. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione invernale del 17. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati per ciascuna funzione.
 
@@ -21,7 +21,7 @@ Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati p
 >
 >Se un argomento ha più sottotitoli, i collegamenti vengono posizionati in tale punto.
 
-## [Corrispondenza avanzata per tipi di pubblico personalizzati di Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Corrispondenza avanzata per tipi di pubblico personalizzati Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 La corrispondenza di base utilizza solo indirizzi e-mail, ma la nuova corrispondenza avanzata utilizza altri sette campi, aumentando il tasso di corrispondenza per una maggiore conversione.
 
@@ -93,6 +93,6 @@ Migliora il targeting con una nuova opzione di filtro, &quot;Membro dell’elenc
 
 A partire dal 1° agosto 2017, i clienti che utilizzano ancora l’editor Rich Text e l’editor di moduli 1.0 verranno automaticamente spostati nella nuova esperienza.
 
-## [API per attività Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [API di attività Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Un cambiamento importante sta arrivando alle API di attività di Marketo. Lei è preparata?
+Un cambiamento importante sta arrivando alle API delle attività di Marketo. Lei è preparata?
