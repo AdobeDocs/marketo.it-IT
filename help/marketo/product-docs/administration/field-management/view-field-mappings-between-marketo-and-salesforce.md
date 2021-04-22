@@ -1,34 +1,34 @@
 ---
 unique-page-id: 2360344
-description: Visualizza mappature campi tra Marketo e Salesforce - Marketo Docs - Documentazione prodotto
-title: Visualizzare le mappature dei campi tra Marketo e Salesforce
+description: Visualizzare le mappature dei campi tra Marketo e Salesforce - Documenti Marketo - Documentazione del prodotto
+title: Visualizzare mappature dei campi tra Marketo e Salesforce
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
 # Visualizzare le mappature dei campi tra Marketo e Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
-Potresti voler sapere a quali campi Salesforce è associato uno specifico campo Marketo. Ecco come realizzare questo.
+È possibile sapere a quali campi di Salesforce è associato uno specifico campo Marketo. Ecco come farlo.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedete a **Admin** e fate clic su **Field Management**.
+1. Vai a **Amministratore** e fai clic su **Gestione campi**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. Trovate il campo che vi interessa e fate clic su **+** per espandere la mappatura.
+1. Trova il campo che ti interessa e fai clic su **+** per espandere la mappatura.
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
 >[!NOTE]
 >
->Viene visualizzato il nome dell&#39;API Salesforce, non il nome dell&#39;etichetta.
+>Viene visualizzato il nome dell’API Salesforce, non il nome dell’etichetta.
 
-Bel lavoro! Ora sai come individuare i campi Salesforce a cui sono collegati i campi Marketo.
+Ottimo lavoro! Ora sai come individuare i campi Salesforce a cui sono legati i campi Marketo.
