@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980785
-description: Note sulla versione - Miglioramenti di ABM dell’agosto 2017 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - Miglioramenti di ABM del 17 agosto - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Miglioramenti di ABM ad agosto del 17
+exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Agosto &#39;17 Miglioramenti ABM {#release-notes-august-abm-enhancements}
 
-Le seguenti funzionalità sono incluse nella versione di miglioramento di ABM del 17 agosto. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione di miglioramento di ABM del 17 agosto. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati per ciascuna funzione.
 
