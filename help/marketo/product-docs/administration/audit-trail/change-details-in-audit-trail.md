@@ -2,14 +2,14 @@
 unique-page-id: 11379928
 description: Modifica dettagli in Audit Trail - Documenti Marketo - Documentazione del prodotto
 title: Modifica dettagli in Audit Trail
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 0%
 
 ---
-
 
 # Modifica dettagli in Audit Trail {#change-details-in-audit-trail}
 
@@ -137,7 +137,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>Modulo di modifica <code>"<module name>" <attribute></code> a "value"</td> 
+   <td>Modulo di modifica <module name><attribute> a "value"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -813,4 +813,3 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
 >[!MORELIKETHIS]
 >
 >[Filtro in Audit Trail](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
