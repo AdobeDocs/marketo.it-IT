@@ -1,14 +1,14 @@
 ---
-description: Abilita sincronizzazione campagna - Documenti Marketo - Documentazione del prodotto
+description: Attivare la sincronizzazione di Campaign - Documentazione di Marketo - Documentazione del prodotto
 title: Abilita sincronizzazione campagna
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # Abilita sincronizzazione campagna {#enable-campaign-sync}
 
@@ -22,7 +22,7 @@ Questa opzione consente a Marketo di aggiungere e rimuovere membri da MS Dynamic
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Nel tuo My Marketo, fai clic su **Amministratore**.
+1. In My Marketo, fai clic su **Amministratore**.
 
    ![](assets/enable-campaign-sync-1.png)
 
