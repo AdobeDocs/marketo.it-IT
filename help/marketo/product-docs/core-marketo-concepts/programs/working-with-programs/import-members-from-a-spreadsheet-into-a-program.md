@@ -1,33 +1,33 @@
 ---
 unique-page-id: 1147120
-description: Importa membri da un foglio di calcolo in un programma - Documenti Marketo - Documentazione prodotto
-title: Importazione di membri da un foglio di calcolo in un programma
+description: Importare i membri da un foglio di calcolo in un programma - Marketo Docs - Documentazione del prodotto
+title: Importare membri da un foglio di calcolo in un programma
+exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-
-# Importazione di membri da un foglio di calcolo in un programma {#import-members-from-a-spreadsheet-into-a-program}
+# Importare membri da un foglio di calcolo in un programma {#import-members-from-a-spreadsheet-into-a-program}
 
 È possibile importare un elenco di persone che diventano automaticamente membri di un programma. Ecco cosa fare.
 
-## Preparare il file CSV {#prepare-your-csv-file}
+## Prepara il file CSV {#prepare-your-csv-file}
 
-1. Create un file CSV standard in Excel, come illustrato di seguito.
+1. Crea un file CSV standard in Excel, come nell&#39;esempio seguente.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
    >[!CAUTION]
    >
-   >Durante l&#39;importazione di una data in un campo data, utilizzare il formato seguente: 29/09/13 (Mese/Giorno/Anno).
+   >Quando importi una data in un campo data, utilizza il formato seguente: 29/09/13 (mese/giorno/anno).
 
-## Importa il file CSV in Marketo {#import-your-csv-into-marketo}
+## Importare il CSV in Marketo {#import-your-csv-into-marketo}
 
-1. Nel programma, andate alla sezione **Membri**.
+1. Nel programma, vai alla sezione **Membri** .
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selezionate il CSV e fate clic su **Next**.
+1. Seleziona il CSV e fai clic su **Avanti**.
 
    ![](assets/importlist1.png)
 
-1. Mappare i valori dei dati dall&#39;elenco ai campi Marketo corrispondenti e fare clic su **Next**.
+1. Mappa i valori dei dati dall’elenco sui campi Marketo corrispondenti e fai clic su **Avanti**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Se non si desidera importare alcun campo, selezionare **IGNORE** nel menu a discesa Campo marketing.
+   >Se esistono campi che non si desidera importare, selezionare **IGNORE** nel menu a discesa Campo Marketo.
 
-1. Selezionare il **Stato membro** per l&#39;elenco.
+1. Seleziona il **Stato membro** per il tuo elenco.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
-1. Attendere il completamento dell&#39;importazione da Marketo, quindi chiudere la finestra di dialogo di conferma.
+1. Attendi che Marketo finisca l’importazione, quindi chiudi la finestra di dialogo di conferma.
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   Fantastico! Vengono visualizzati i nuovi membri importati.
+   Fantastico! Verranno visualizzati i nuovi membri importati.
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 
 >[!MORELIKETHIS]
 >
->[Gestione e visualizzazione dei membri](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[Gestisci e visualizza membri](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
