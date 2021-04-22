@@ -1,14 +1,14 @@
 ---
-description: Esportare tutti i metadati degli oggetti - Documenti Marketo - Documentazione del prodotto
+description: Esportare tutti i metadati degli oggetti - Documentazione Marketo - Documentazione del prodotto
 title: Esporta tutti i metadati dell’oggetto
+exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # Esporta tutti i metadati oggetto {#export-all-object-metadata}
 
@@ -29,7 +29,7 @@ Questa funzione consente di esportare tutti gli oggetti e i relativi metadati.
 
 ## Esporta metadati oggetto {#export-object-metadata}
 
-1. Nel tuo My Marketo, fai clic su **Amministratore**.
+1. In My Marketo, fai clic su **Amministratore**.
 
    ![](assets/export-all-object-metadata-1.png)
 
