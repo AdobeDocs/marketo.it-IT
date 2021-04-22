@@ -1,52 +1,52 @@
 ---
 unique-page-id: 1146944
-description: Aggiungere un passaggio di flusso a una campagna intelligente - Documenti Marketo - Documentazione prodotto
-title: Aggiunta di un passaggio di flusso a una campagna intelligente
+description: Aggiungere un passaggio di flusso a una campagna avanzata - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere un passaggio di flusso a una campagna avanzata
+exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
+# Aggiungere un passaggio di flusso a una campagna avanzata {#add-a-flow-step-to-a-smart-campaign}
 
-# Aggiunta di un passaggio di flusso a una campagna intelligente {#add-a-flow-step-to-a-smart-campaign}
+I passaggi del flusso dicono a Marketo cosa vuoi che accada a un gruppo di persone idonee. Sono le tue istruzioni, e la campagna intelligente farà il tuo invito!
 
-I passaggi di flusso indicano a Marketo cosa si desidera che accada a un gruppo di persone idonee. Sono le tue istruzioni, e la campagna intelligente farà la tua offerta!
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate la campagna intelligente e fate clic su **Flusso**.
+1. Seleziona la campagna avanzata e fai clic su **Flusso**.
 
    ![](assets/image2014-9-19-16-3a27-3a1.png)
 
-   Digitate per cercare un passaggio di scorrimento, quindi trascinatelo e rilasciatelo nell’area di lavoro. Potete aggiungere più passaggi di flusso, ripeteteli con ogni passaggio che desiderate venga eseguito dalla campagna.
+   Digita per cercare un passaggio di flusso, quindi trascinalo nell’area di lavoro. Puoi aggiungere più passaggi di flusso: ripetilo a ogni passaggio che desideri eseguire per la campagna.
 
    ![](assets/image2014-9-19-16-3a27-3a7.png)
 
-1. Fate clic sul menu a discesa e scegliete un’opzione appropriata.
+1. Fai clic sull’elenco a discesa e scegli un’opzione appropriata.
 
    ![](assets/four-1.png)
 
-1. Immettere il valore.
+1. Immetti il valore .
 
    ![](assets/changescorevalue-cursor.png)
 
 >[!NOTE]
 >
->I passaggi di flusso vengono eseguiti nell&#39;ordine in cui sono elencati.  [Riordinate le ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) fasi di flusso per assicurarvi che siano nella sequenza corretta.
+>I passaggi di flusso vengono eseguiti nell’ordine in cui sono elencati.  [Riordinare i ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) passaggi di flusso per garantire che siano nella sequenza corretta.
 
 >[!TIP]
 >
->Nel caso di una voce non valida, viene visualizzata una linea rossa ondulata. Passate il mouse sulla riga per vedere come correggerla.
+>Nel caso di una voce non valida, viene visualizzata una linea ondulata rossa. Passa il puntatore del mouse sulla riga per vedere come correggerla.
 
-Fantastico! Prima di pianificare o attivare la campagna intelligente, è necessario [rivedere e convalidare la campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md).
+Fantastico! Assicurati di [rivedere e convalidare la campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) prima di pianificarla o attivarla.
 
 >[!MORELIKETHIS]
 >
->* [Usa opzione Aggiungi in un passaggio di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
->* [Riordinare i passaggi di flusso in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+>* [Utilizzare Aggiungi scelta in un passaggio di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
+>* [Riordinare i passaggi del flusso in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
 
