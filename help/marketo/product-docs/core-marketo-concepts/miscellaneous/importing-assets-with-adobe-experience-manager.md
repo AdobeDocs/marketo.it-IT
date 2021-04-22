@@ -1,58 +1,58 @@
 ---
 unique-page-id: 37355768
-description: Importazione di risorse con Adobe Experience Manager - Documenti Marketo - Documentazione del prodotto
+description: Importazione di risorse con Adobe Experience Manager - Documentazione Marketo - Documentazione del prodotto
 title: Importazione di risorse con Adobe Experience Manager
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-
 # Importazione di risorse con Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Il Selettore risorse consente ai clienti di Marketo di accedere, selezionare e importare AEM risorse in Design Studio di Marketo. **Le autorizzazioni di amministratore sono richieste**.
+Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e importare AEM risorse in Marketo Design Studio. **Le autorizzazioni di amministratore sono necessarie**.
 
 >[!AVAILABILITY]
 >
 >
->Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per maggiori informazioni.
+>Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
 
 >[!PREREQUISITES]
 >
->Assicurarsi di aver già eseguito la [AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Assicurati di aver già eseguito la [configurazione AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!CAUTION]
 >
->Al momento, questa funzione è supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nella versione più recente di Chrome (v. 80), a seconda delle impostazioni del cookie SameSite.
+>Attualmente, questa funzione è supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nell’ultima versione di Chrome (v. 80), a seconda delle impostazioni dei cookie SameSite.
 
 1. Fare clic su **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. Fare clic sul menu a discesa Nuovo e selezionare **Importa da Adobe Experience Manager**.
+1. Fai clic sul menu a discesa Nuovo e seleziona **Importa da Adobe Experience Manager**.
 
    ![](assets/two-1.png)
 
-1. Scegliete la cartella in cui salvare le immagini.
+1. Scegli la cartella in cui verranno salvate le immagini.
 
    ![](assets/three-1.png)
 
-1. Effettuate l&#39;accesso ad Adobe Experience Manager (se non lo avete già fatto).
+1. Accedi a Adobe Experience Manager (se non lo hai già fatto).
 
    ![](assets/four-1.png)
 
-1. Scegliete la cartella. Selezionate quindi le immagini desiderate facendo clic sulla miniatura (potete scegliere fino a 10). Fare clic su **Seleziona** al termine.
+1. Scegli la tua cartella. Quindi seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Al termine, fai clic su **Seleziona** .
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Le immagini non possono superare i 100 MB di dimensione.
+   >Le immagini non possono avere dimensioni superiori a 100 MB.
 
-1. Fare clic su **Importa** per completare il processo.
+1. Fai clic su **Importa** per completare il processo.
 
    ![](assets/six-1.png)
 
@@ -60,10 +60,10 @@ Il Selettore risorse consente ai clienti di Marketo di accedere, selezionare e i
 
    ![](assets/seven-1.png)
 
-## Note {#things-to-note}
+## Aspetti da considerare {#things-to-note}
 
-Al momento, Marketo supporta Adobe Experience Manager versioni 6.4 e 6.5.
+Marketo supporta attualmente le versioni 6.4 e 6.5 di Adobe Experience Manager.
 
-Tutti gli utenti nell’istanza potranno visualizzare/accedere alle immagini importate.
+Tutti gli utenti della tua istanza potranno visualizzare/accedere alle immagini importate.
 
 Le immagini non vengono aggiornate automaticamente. Se un&#39;immagine importata in Marketo Design Studio viene aggiornata in AEM, è necessario reimportarla manualmente in Marketo.
