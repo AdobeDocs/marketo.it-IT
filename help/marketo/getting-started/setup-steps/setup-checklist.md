@@ -1,54 +1,54 @@
 ---
 unique-page-id: 2949471
-description: Elenco di controllo configurazione - Documenti Marketo - Documentazione prodotto
-title: Elenco di controllo installazione
+description: Lista di controllo per l'installazione - Documenti Marketo - Documentazione del prodotto
+title: Elenco di controllo per l'installazione
+exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 translation-type: tm+mt
-source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
+# Elenco di controllo per l&#39;installazione {#setup-checklist}
 
-# Elenco di controllo installazione {#setup-checklist}
+Benvenuto in Marketo! Puoi usare la seguente lista di controllo come elenco di cose da fare visivo per iniziare. I dettagli sono disponibili in [Procedura di installazione](/help/marketo/getting-started/setup-steps.md).
 
-Benvenuti a Marketo! Sentitevi liberi di utilizzare il seguente elenco di controllo come elenco di attività visive per iniziare a fare le cose. I dettagli sono disponibili in [Procedura di impostazione](/help/marketo/getting-started/setup-steps.md).
+## Accedi a Marketo e crea altri utenti {#log-in-to-marketo-and-create-additional-users}
 
-## Login a Marketo e creazione di utenti aggiuntivi {#log-in-to-marketo-and-create-additional-users}
+1. Accedere a Marketo
+1. Creare altri utenti
 
-1. Accedi a Marketo
-1. Creazione di altri utenti
+## Imposta un contatto di supporto autorizzato {#set-up-an-authorized-support-contact}
 
-## Impostazione di un contatto di supporto autorizzato {#set-up-an-authorized-support-contact}
-
-1. Impostazione di un contatto di assistenza autorizzato
+1. Imposta un contatto di supporto autorizzato
 1. Personalizzare gli URL delle pagine di destinazione
-1. Selezione di un CNAME per pagina di destinazione
+1. Selezionare un CNAME per la pagina di destinazione
 1. Chiedi all’IT di creare un record DNS per il CNAME della tua pagina di destinazione
-1. Al termine dell&#39;IT, imposta il nome del dominio della pagina di destinazione in Marketo
+1. Al termine dell’IT, imposta il nome di dominio della pagina di destinazione in Marketo
 
-## Garantire la distribuzione delle e-mail {#ensure-email-deliverability}
+## Assicurati il recapito messaggi e-mail {#ensure-email-deliverability}
 
-1. Selezionate un CNAME e-mail per i collegamenti di tracciamento con il marchio
-1. Chiedi all’IT di impostare un record DNS per il CNAME di posta elettronica
-1. Chiedi al reparto IT di  inserire nell&#39;elenco Consentiti Marketo
-1. Configurare DKIM e SPF nell&#39;area di amministrazione
+1. Selezionare un CNAME e-mail per i collegamenti di tracciamento con marchio
+1. Chiedi all&#39;IT di impostare un record DNS per il tuo CNAME di posta elettronica
+1. Chiedi all&#39;IT di inserire nell&#39;elenco Consentiti Marketo
+1. Configurare DKIM e SPF nell’area Amministratore
 1. Imposta MX per `[FromDomain1]`
-1. Al termine dell’IT con il CNAME e-mail, configura il CNAME per l’e-mail in Marketo
+1. Al termine dell’IT con il CNAME e-mail, imposta il tuo CNAME e-mail in Marketo
 
-## Invia un URL per i modelli di pagina di destinazione e di e-mail {#submit-a-url-for-landing-page-and-email-templates}
+## Invia un URL per modelli di pagina di destinazione e e-mail {#submit-a-url-for-landing-page-and-email-templates}
 
-1. Compilare un modulo per inviare un URL per i nuovi modelli
+1. Compila il modulo per inviare un URL per i nuovi modelli
 
 ## Sincronizzazione CRM {#crm-sync}
 
-1. Lavora con il tuo amministratore CRM per sincronizzare tutti i contatti CRM a Marketo
+1. Lavora con il tuo amministratore CRM per sincronizzare tutti i contatti CRM con Marketo
 
-## Aggiungi il codice di tracciamento al tuo sito Web {#add-tracking-code-to-your-website}
+## Aggiungi il codice di tracciamento al tuo sito web {#add-tracking-code-to-your-website}
 
-1. Collaborazione con uno sviluppatore Web per aggiungere codice di tracciamento al sito Web
+1. Lavora con uno sviluppatore web per aggiungere codice di tracciamento al tuo sito web
 
 >[!MORELIKETHIS]
 >
->[Procedura di impostazione](/help/marketo/getting-started/setup-steps.md)
+>[Passaggi di configurazione](/help/marketo/getting-started/setup-steps.md)
