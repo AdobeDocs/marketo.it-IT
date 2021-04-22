@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360356
-description: Aggiungere Single Sign-On a un portale - Documenti Marketo - Documentazione del prodotto
+description: Aggiungere Single Sign-On a un portale - Marketo Docs - Documentazione del prodotto
 title: Aggiungere Single Sign-On a un portale
+exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
-
 # Aggiungi Single Sign-On a un portale {#add-single-sign-on-to-a-portal}
 
 Se disponi di un servizio di directory che autentica gli utenti, puoi consentire l’accesso single sign-on (SSO) in Marketo. Supportiamo questa funzione utilizzando la versione 2.0 o successiva di Security Assertion Markup Language (SAML).
 
-Marketo funziona come provider di servizi SAML (SP) e dipende da un provider di identità esterno (IdP) per l’autenticazione degli utenti.
+Marketo funziona come provider di servizi SAML (SP) e dipende da un provider di identità esterno (IdP) per autenticare gli utenti.
 
 Una volta abilitato l’SSO, l’IdP può convalidare le credenziali di un utente. Quando un utente desidera utilizzare il software Marketo, l&#39;IdP invia quindi un messaggio SAML firmato a Marketo, agendo come SP. Questo messaggio garantisce a Marketo che l&#39;utente è autorizzato a utilizzare il software Marketo.
 
@@ -36,7 +36,7 @@ Una volta abilitato l’SSO, l’IdP può convalidare le credenziali di un utent
 
 >[!NOTE]
 >
->Marketo supporta solo il provider di identità (noto anche come IdP-started), in cui l’utente avvia per la prima volta la pagina di accesso Idp, si autentica, quindi passa a My Marketo.
+>Marketo supporta solo l’avvio del provider di identità (noto anche come avviato da IdP), in cui l’utente avvia per la prima volta la pagina di accesso Idp, si autentica e quindi passa a My Marketo.
 
 ## Note aggiuntive {#additional-notes}
 
@@ -93,11 +93,11 @@ SSO è disattivato per impostazione predefinita. Segui questi passaggi per abili
    >
    >I clienti che utilizzano l’ID universale insieme all’SSO devono immettere l’URL di accesso del provider di identità nel campo **URL di accesso** .
 
-1. Immetti un **URL di disconnessione**. Questo è l’URL a cui si desidera indirizzare l’utente quando si disconnette da Marketo.
+1. Immetti un **URL di disconnessione**. Questo è l&#39;URL a cui si desidera indirizzare l&#39;utente quando si disconnette da Marketo.
 
    ![](assets/eight.png)
 
-1. Immetti un **URL di errore**. Questo è l’URL a cui si desidera indirizzare l’utente nel caso in cui l’accesso a Marketo non riesca. Fare clic su **Salva**.
+1. Immetti un **URL di errore**. Questo è l&#39;URL a cui si desidera indirizzare l&#39;utente nel caso in cui l&#39;accesso a Marketo non riesca. Fare clic su **Salva**.
 
    ![](assets/nine.png)
 
@@ -109,5 +109,5 @@ SSO è disattivato per impostazione predefinita. Segui questi passaggi per abili
 >
 >* [Utilizzo di un ID universale per l’accesso all’abbonamento](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
 >* [Limita accesso utente solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitare gli utenti di Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Invitare gli utenti Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
