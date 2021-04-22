@@ -1,19 +1,19 @@
 ---
 unique-page-id: 17728380
-description: Note sulla versione - Primavera 2019 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - Spring 2019 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Primavera 2019
+exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Primavera 2019 {#release-notes-spring}
 
-Le seguenti funzionalità sono incluse nella versione primaverile del 19. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione di Marketo .
+Le seguenti funzionalità sono incluse nella versione primaverile del 19. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
 Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati di ciascuna funzione, se disponibili.
 
@@ -46,7 +46,7 @@ Si prevede che le seguenti funzionalità verranno rilasciate durante il primo tr
 * **Gestire le risorse** di Design Studio: È stata aggiunta la possibilità di gestire in blocco modelli, immagini, Forms, snippet, file, e-mail e pagine di destinazione dalle viste elenco di Design Studio.
 * **Consegna nel dashboard** del fuso orario destinatario: Comprendi il comportamento dei clienti con il reporting per le e-mail inviate utilizzando la funzione Consegna nel fuso orario dei destinatari in Sky.
 
-## Coinvolgimento vendite Marketo {#marketo-sales-engage}
+## Coinvolgimento delle vendite Marketo {#marketo-sales-engage}
 
 * **Controllo** migliorato: Nuova visibilità su tutte le persone, e-mail e contenuti  [](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) in un’istanza con la possibilità di  [terminare le campagne esistenti create da altri utenti ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)tramite campagne.
 * **[Gestione](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)** annullamento sottoscrizione: Massimizza il recapito messaggi e la conformità con la possibilità di  [bloccare ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) i domini e-mail dal contatto. Marketo farà inoltre riferimento incrociato al database lead per annullare l’abbonamento prima di inviare un’e-mail.
