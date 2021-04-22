@@ -1,34 +1,34 @@
 ---
 unique-page-id: 557320
 description: Clonare un elenco o un elenco avanzato - Documenti Marketo - Documentazione del prodotto
-title: Duplicare un elenco o un elenco avanzato
+title: Clonare un elenco o un elenco avanzato
+exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# Clonare un elenco o un elenco avanzato {#clone-a-list-or-smart-list}
 
-# Duplicare un elenco o un elenco avanzato {#clone-a-list-or-smart-list}
+Invece di creare da zero un elenco avanzato, risparmia tempo clonandone uno simile e apportando modifiche. Ecco come.
 
-Invece di creare un elenco avanzato da zero, risparmiate tempo clonando un elenco simile e apportando modifiche. Ecco come.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate l’elenco avanzato da clonare.
+1. Selezionare l’elenco smart da clonare.
 
    ![](assets/smartlist-find.png)
 
-1. In **Elenca azioni**, fare clic su **Clona Smart List**.
+1. In **Elenca azioni**, fai clic su **Clona elenco avanzato**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Immettere un **Nome** e fare clic su **Clone**.
+1. Inserisci un **Nome** e fai clic su **Clona**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
-Bel lavoro! Potete anche duplicare gli elenchi regolari nello stesso modo.
+Bel lavoro! È inoltre possibile clonare elenchi regolari nello stesso modo.
