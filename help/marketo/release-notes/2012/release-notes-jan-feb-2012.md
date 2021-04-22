@@ -1,71 +1,71 @@
 ---
 unique-page-id: 2951124
-description: Note sulla versione -Jan/Feb 2012 - Marketo Docs - Documentazione del prodotto
+description: Note sulla versione - Gen/Feb 2012 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Gen/Feb 2012
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
+# Note sulla versione: Gen/Feb 2012 {#release-notes-jan-feb}
 
-# Note sulla versione: gen/feb 2012 {#release-notes-jan-feb}
-
-Le seguenti funzionalità sono incluse nella release di gennaio/febbraio. Per informazioni sulla disponibilità delle funzionalità, consulta la versione di Marketo. Tornate dopo il rilascio per i collegamenti alla documentazione dettagliata sulle funzioni.
+Le seguenti funzioni sono incluse nella versione di gennaio/febbraio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo . Torna dopo la versione per i collegamenti alla documentazione dettagliata sulle funzioni.
 
 ## Contenuto dinamico avanzato {#advanced-dynamic-content}
 
-_Disponibile per versioni Pro ed Enterprise_
+_Disponibile per le versioni Pro ed Enterprise_
 
-Grazie a contenuti dinamici avanzati, puoi creare comunicazioni e pagine di destinazione coinvolgenti per il pubblico senza dover creare più risorse per lo stesso messaggio. I visualizzatori di anteprima aggiornati consentono di visualizzare ogni versione univoca in un solo schermo.
+Con i contenuti dinamici avanzati puoi creare comunicazioni e-mail coinvolgenti e pagine di destinazione rilevanti per il tuo pubblico senza dover creare più risorse per lo stesso messaggio. I visualizzatori predefiniti aggiornati consentono di visualizzare ogni versione univoca in un’unica schermata.
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentazione {#segmentation}
+## Segmentazione  {#segmentation}
 
-_Disponibile per versioni Pro ed Enterprise_
+_Disponibile per le versioni Pro ed Enterprise_
 
-La segmentazione è un gruppo di segmenti, ovvero un gruppo mirato di individui ai quali potete immettere sul mercato. I segmenti sono definiti da regole guidate da criteri di filtro simili agli elenchi smart. I segmenti possono essere basati su dati demografici, come il titolo del processo o il settore, o su comportamenti quali pagine Web visitate o collegamenti su cui è possibile fare clic.
+La segmentazione è un gruppo di segmenti, che sono un gruppo mirato di persone a cui commercializzi. I segmenti sono definiti da regole guidate da criteri di filtro simili agli elenchi avanzati. I segmenti possono essere basati su dati demografici, ad esempio il titolo del lavoro o il settore, o su comportamenti come pagine web visitate o collegamenti con clic.
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## Snippet {#snippets}
+## Frammenti {#snippets}
 
-_Disponibile per versioni Pro ed Enterprise_
+_Disponibile per le versioni Pro ed Enterprise_
 
-Archiviate contenuti avanzati che possono essere utilizzati più e più volte per creare e-mail statiche o dinamiche e pagine di destinazione.
+Archivia contenuti avanzati che possono essere utilizzati più volte per creare e-mail statiche o dinamiche e pagine di destinazione.
 
 ![](assets/image2014-9-23-9-3a50-3a58.png)
 
-## PURL {#purls}
+## URL {#purls}
 
-_Disponibile per versioni Pro ed Enterprise_
+_Disponibile per le versioni Pro ed Enterprise_
 
-L’utilizzo di URL personalizzati (PURL) consente ora agli addetti al marketing di creare URL specifici per i contatti, per stimolare la personalizzazione, la misurabilità e l’incremento delle risposte nei programmi di marketing multi-touch sia per le campagne di posta diretta che per le campagne e-mail.
+L’utilizzo di URL personalizzati (PURL) consente ora agli addetti al marketing di creare URL specifici per i contatti, per indirizzare le risposte in termini di personalizzazione, misurabilità e incremento nei programmi di marketing multi-touch sia per le campagne di direct mailing che per quelle e-mail.
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## Supporto alla direttiva sulla privacy dell&#39;UE {#eu-privacy-directive-support}
+## Supporto della direttiva UE sulla privacy {#eu-privacy-directive-support}
 
-Le nuove funzioni per rispettare le impostazioni del browser &quot;Non tenere traccia&quot; includono la possibilità di disattivare il tracciamento per i lead anonimi; ciò semplifica la conformità con le più severe normative dell&#39;UE in materia di tracciamento della privacy.
+Le nuove funzioni per rispettare le impostazioni del browser &quot;Do Not Track&quot; includono la possibilità di disabilitare il tracciamento per i lead anonimi; ciò rende più semplice il rispetto delle più severe normative dell&#39;UE in materia di tracciamento della privacy.
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
 ## Single Sign-On {#single-sign-on}
 
-Le organizzazioni ora possono supportare un accesso diretto all&#39;applicazione Marketo tramite SAML 2.0 per il single sign-on da un portale aziendale.
+Le organizzazioni ora possono supportare un accesso senza soluzione di continuità all&#39;applicazione Marketo utilizzando SAML 2.0 per il single sign-on da un portale aziendale.
 
-## Aggiornati editor di e-mail e pagine di destinazione {#updated-email-and-landing-page-editors}
+## Editor e-mail e pagine di destinazione aggiornati {#updated-email-and-landing-page-editors}
 
-Gli editor e-mail e pagina di destinazione sono stati riprogettati con un&#39;interfaccia più invitante, una navigazione intuitiva e un&#39;esperienza utente notevolmente migliorata, che include:
+Gli editor di e-mail e pagine di destinazione sono stati riprogettati con un’interfaccia più invitante, una navigazione intuitiva e un’esperienza utente notevolmente migliorata, che include:
 
 Una visualizzazione HTML e testo affiancata
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
-Nell’editor vengono visualizzati il campo Da nome, Da e-mail, Rispondi a (NUOVO) e Oggetto. Tutte le altre impostazioni sono accessibili tramite il pulsante Modifica impostazioni.
+Nell’editor vengono visualizzati il campo Da nome, Da e-mail, Risposta-a (NUOVO) e Oggetto. Tutte le altre impostazioni sono accessibili tramite il pulsante Modifica impostazioni .
 
 ## Supporto browser {#browser-support}
 
@@ -80,22 +80,22 @@ La gestione semplificata dei programmi migliora l&#39;usabilità con l&#39;elimi
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## Annulla sottoscrizione al report di iscrizione {#unsubscribe-from-subscription-report}
+## Annulla iscrizione al rapporto di abbonamento {#unsubscribe-from-subscription-report}
 
-Ora puoi annullare l’iscrizione direttamente dal report!
+Ora puoi annullare l’iscrizione direttamente dal rapporto!
 
 ## Aggiornamenti Munchkin {#munchkin-updates}
 
-Le nuove chiamate Munchkin riducono i tempi di caricamento delle pagine Web e forniscono prestazioni più coerenti per gli eventi dei collegamenti Click.
+Le nuove chiamate Munchkin riducono i tempi di caricamento delle pagine web e forniscono prestazioni più coerenti per gli eventi di collegamento ai clic.
 
-## Analisi opportunità programma (solo RCA) {#program-opportunity-analysis-rca-only}
+## Analisi delle opportunità del programma (solo RCA) {#program-opportunity-analysis-rca-only}
 
-Comprendere il contributo marketing per le singole opportunità di reddito
+Comprendere il contributo di marketing ai ricavi delle opportunità individuali
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## Analisi fase ricavi programma {#program-revenue-stage-analysis}
+## Analisi della fase dei ricavi del programma {#program-revenue-stage-analysis}
 
-Approfondisci la velocità di avanzamento del programma, capendo quali programmi hanno acquisito i movimenti rapidi
+Acquisire informazioni sulla velocità di avanzamento del programma, capendo quali programmi hanno acquisito i movimenti rapidi
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
