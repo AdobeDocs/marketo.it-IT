@@ -1,57 +1,57 @@
 ---
 unique-page-id: 1147257
-description: Navigazione nel calendario di marketing - Documenti Marketo - Documentazione prodotto
+description: Navigazione nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
 title: Navigazione nel calendario di marketing
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-
 # Navigazione nel calendario di marketing {#navigating-the-marketing-calendar}
 
-Navigare intorno al Calendario di Marketing è facile come uno, due, tre!
+Navigare nel Calendario di Marketing è facile come uno, due, tre!
 
 >[!PREREQUISITES]
 >
->Accertatevi di disporre di una [licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md). In caso contrario la sezione Marketing Calendar (Calendario marketing) non verrà visualizzata nel mio marketing.
+>Assicurati di avere una [licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - altrimenti la sezione Marketing Calendar (Calendario marketing) non verrà visualizzata in My Marketo.
 
-1. Andate a **Marketing Calendar**.
+1. Vai a **Marketing Calendar**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Questa è una panoramica delle risorse pianificate nell’istanza di Marketo.
+1. Questa è una panoramica delle risorse pianificate nella tua istanza Marketo.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
-## Modifica tra modalità {#change-between-modes}
+## Modifica tra le modalità {#change-between-modes}
 
 1. Fare clic sulle schede **3 settimane** o **Mese** per passare da una modalità all&#39;altra.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Utilizzare la vista Agenda {#use-the-agenda-view}
+## Utilizza la visualizzazione ordine del giorno {#use-the-agenda-view}
 
-La vista Agenda visualizza tutte le voci come un elenco.
+Nella vista Agenda vengono visualizzate tutte le voci come un elenco.
 
-1. Fare clic sul menu a discesa **Filtro**.
+1. Fai clic sull&#39;elenco a discesa **Filtro**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selezionare la vista **Agenda**.
+1. Selezionare la visualizzazione **Agenda**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Fantastico! Questa è una bella vista per vedere tutto ciò che è pianificato.
+   Fantastico! Questa è una splendida vista per vedere tutto quello che è pianificato.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Spostamento nel tempo {#navigate-through-time}
+## Naviga nel tempo {#navigate-through-time}
 
-Senza un DeLorean! È sufficiente fare clic sui pulsanti di navigazione.
+Senza un DeLorean! Fai clic sui pulsanti di navigazione.
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
@@ -59,11 +59,11 @@ Senza un DeLorean! È sufficiente fare clic sui pulsanti di navigazione.
 
 | Azione | Scelta rapida da tastiera |
 |---|---|
-| Indietro nel tempo | alt/opt + |
-| Avanti nel tempo | Alt/opt + |
-| Vai a &quot;Today&quot; | Alt/opt + T |
+| Indietro nel tempo | alt/opt + up |
+| Avanti nel tempo | alt/opt+down |
+| Vai a &quot;oggi&quot; | Alt/opt + T |
 
-Fantastico! Queste sono le basi. Potete inoltre personalizzare la visualizzazione utilizzando i filtri.
+Fantastico! Queste sono le basi. È inoltre possibile personalizzare la visualizzazione utilizzando i filtri.
 
 >[!MORELIKETHIS]
 >
