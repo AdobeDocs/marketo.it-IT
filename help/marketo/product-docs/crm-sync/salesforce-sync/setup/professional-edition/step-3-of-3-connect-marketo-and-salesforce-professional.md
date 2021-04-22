@@ -1,63 +1,63 @@
 ---
 unique-page-id: 3571800
-description: Passaggio 3 di 3 - Connect Marketo e Salesforce (Professional) - Marketo Docs - Documentazione prodotto
-title: 'Passaggio 3 di 3: Connect Marketo e Salesforce (Professional)'
+description: 'Passaggio 3 di 3: collegare Marketo e Salesforce (Professional) - Documentazione Marketo - Documentazione del prodotto'
+title: 'Passaggio 3 di 3: collegare Marketo e Salesforce (Professional)'
+exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
-# Passaggio 3 di 3: Connect Marketo e Salesforce (Professional) {#step-of-connect-marketo-and-salesforce-professional}
+# Passaggio 3 di 3: Collegare Marketo e Salesforce (Professional) {#step-of-connect-marketo-and-salesforce-professional}
 
 In questo articolo, configurerai Marketo per la sincronizzazione con la tua istanza Salesforce configurata.
 
 >[!PREREQUISITES]
 >
->* [Passaggio 1 di 3: Aggiunta di campi Marketo a Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 
-## Recuperare il token di sicurezza per la sincronizzazione degli utenti {#retrieve-sync-user-security-token}
+## Recupera il token di sicurezza dell&#39;utente di sincronizzazione {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
->Se disponete già del token di sicurezza, passate direttamente a Set Sync User Credentials and kudos for preparations (Imposta credenziali utente sincronizzazione).
+>Se disponi già del token di sicurezza, procedi direttamente a Imposta credenziali utente e servizi di sincronizzazione per la preparazione!
 
-1. Accedi a Salesforce con l&#39;utente di sincronizzazione Marketo, fai clic sul nome dell&#39;utente di sincronizzazione, quindi **My Settings**.
+1. Accedi a Salesforce con l&#39;utente di sincronizzazione Marketo, fai clic sul nome dell&#39;utente di sincronizzazione, quindi **Impostazioni personali**.
 
    ![](assets/image2015-5-21-14-3a11-3a17.png)
 
-1. Nella barra di ricerca della navigazione, digitate &quot;reset&quot; e fate clic su **Reimposta token di protezione personale**.
+1. Nella barra di ricerca della barra di navigazione digitare &quot;reset&quot; e fare clic su **Reset My Security Token**.
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
-1. Fare clic su **Reimposta token di protezione**.
+1. Fai clic su **Ripristina token di sicurezza**.
 
    ![](assets/image2015-5-21-14-3a13-3a5.png)
 
-   Il token di protezione verrà inviato via e-mail.
+   Il token di sicurezza ti verrà inviato tramite e-mail.
 
-## Imposta credenziali utente sincronizzazione {#set-sync-user-credentials}
+## Imposta credenziali utente di sincronizzazione {#set-sync-user-credentials}
 
-1. In Marketo, andare su **Admin**, selezionare **CRM**, quindi fare clic su **Sincronizza con [Salesforce.com](https://Salesforce.com)**.
+1. In Marketo, vai su **Amministratore**, seleziona **CRM** e fai clic su **Sincronizza con [Salesforce.com](https://Salesforce.com)**.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >Assicurarsi di [nascondere tutti i campi non necessari](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo dall&#39;utente di sincronizzazione prima di fare clic su **Sincronizza campi**. Dopo aver fatto clic su Sincronizza campi, tutti i campi che l&#39;utente può visualizzare verranno creati in Marketo in modo permanente e non potranno essere eliminati.
+   >Prima di fare clic su **Campi di sincronizzazione**, assicurarsi di [nascondere dall&#39;utente di sincronizzazione tutti i campi di cui non si ha bisogno](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo. Una volta fatto clic su Campi di sincronizzazione, tutti i campi che l’utente può visualizzare verranno creati in Marketo in modo permanente e non possono essere eliminati.
 
-1. Immettete le credenziali Utente sincronizzazione Salesforce create nella parte 2 della configurazione Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) e fate clic su **Sincronizza campi**.
+1. Immetti le credenziali utente Salesforce Sync create nella parte 2 della configurazione Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) e fai clic su **Sincronizza campi**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!NOTE]
    >
-   >Selezionare **Sandbox** se si sta sincronizzando una sandbox Marketo con una sandbox Salesforce.
+   >Seleziona **Sandbox** se stai sincronizzando una Sandbox Marketo con una Sandbox Salesforce.
 
 1. Leggere l&#39;avviso, quindi fare clic su **Conferma credenziali**.
 
@@ -65,17 +65,17 @@ In questo articolo, configurerai Marketo per la sincronizzazione con la tua ista
 
    >[!CAUTION]
    >
-   >Se si desidera esaminare le mappature [e personalizzarle](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), questa è l&#39;unica possibilità! Dopo aver fatto clic su Avvia sincronizzazione Salesforce, questa operazione viene completata.
+   >Se desideri controllare le mappature [e personalizzarle](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), questa è la tua unica possibilità! Dopo aver fatto clic su Avvia sincronizzazione Salesforce, questa operazione viene eseguita.
 
 ## Avvia sincronizzazione Salesforce {#start-salesforce-sync}
 
-1. Fai clic su **Avvia sincronizzazione Salesforce** per avviare la sincronizzazione persistente tra Marketing e Salesforce.
+1. Fai clic su **Avvia sincronizzazione Salesforce** per avviare la sincronizzazione Marketo-Salesforce permanente.
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
    >[!CAUTION]
    >
-   >Marketo non eseguirà automaticamente la deduplicazione rispetto a una sincronizzazione Salesforce, o quando immetti manualmente i lead.
+   >Marketo non eseguirà la deduplicazione automatica contro una sincronizzazione Salesforce o quando immetti manualmente i lead.
 
 1. Fare clic su **Avvia sincronizzazione**.
 
@@ -87,13 +87,13 @@ In questo articolo, configurerai Marketo per la sincronizzazione con la tua ista
 
 ## Verifica sincronizzazione {#verify-sync}
 
-Marketo fornisce messaggi di stato per la sincronizzazione Salesforce nell&#39;area Admin. Per verificare che la sincronizzazione funzioni correttamente, effettuate le seguenti operazioni.
+Marketo fornisce messaggi di stato per la sincronizzazione Salesforce nell’area Amministratore. Per verificare che la sincronizzazione funzioni correttamente, segui questi passaggi.
 
-1. In Marketo, fare clic su **Admin**, quindi su **Salesforce**.
+1. In Marketo, fai clic su **Amministratore**, quindi su **Salesforce**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. Lo stato di sincronizzazione è visibile nell&#39;angolo superiore destro. Verrà visualizzato uno dei tre messaggi seguenti: **Ultima sincronizzazione**, **Sincronizzazione in corso** o **Non riuscita**.
+1. Lo stato di sincronizzazione è visibile nell’angolo in alto a destra. Verrà visualizzato uno dei tre messaggi seguenti: **Ultima sincronizzazione**, **Sincronizzazione in corso** o **Non riuscita**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 
@@ -105,6 +105,6 @@ Wow, hai appena finito di configurare una delle caratteristiche più potenti di 
 
 >[!MORELIKETHIS]
 >
->* [Installazione del pacchetto marketing Sales Insight in Salesforce  AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Configurare Marketing Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Installa il pacchetto Marketo Sales Insight in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Configurare Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
