@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571809
-description: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (On-Premises 2011) - Documenti Marketo - Documentazione del prodotto'
+description: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (On-Premises 2011) - Documentazione Marketo - Documentazione del prodotto'
 title: 'Passaggio 3 di 3: collegare Microsoft Dynamics con Marketo (On-Premises 2011)'
+exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 translation-type: tm+mt
-source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
 
 ---
-
 
 # Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
@@ -45,7 +45,7 @@ Bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincronizzaz
 
    >[!CAUTION]
    >
-   >Assicurati che le tue credenziali siano corrette in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se vengono salvate le credenziali errate, dovrai ottenere una nuova sottoscrizione Marketo.
+   >Assicurati che le tue credenziali siano corrette in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se vengono salvate le credenziali errate, sarà necessario ottenere una nuova sottoscrizione Marketo.
 
 1. Immetti il **Nome utente**, **Password** e CRM **URL**, quindi fai clic su **Salva**.
 
@@ -97,7 +97,7 @@ Se hai creato un filtro personalizzato, assicurati di entrare e selezionare i nu
 
    >[!CAUTION]
    >
-   >Marketo non eseguirà automaticamente la deduplicazione rispetto a una sincronizzazione di Microsoft Dynamics o quando si immettono manualmente persone o lead.
+   >Marketo non eseguirà automaticamente il deduplicazione rispetto a una sincronizzazione di Microsoft Dynamics o quando immetti manualmente persone o lead.
 
 1. Leggi tutto nella finestra a comparsa, inserisci il tuo messaggio e-mail e fai clic su **Avvia sincronizzazione**.
 
