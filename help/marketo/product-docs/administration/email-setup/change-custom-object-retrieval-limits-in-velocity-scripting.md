@@ -1,14 +1,14 @@
 ---
-description: Modificare i limiti di recupero di oggetti personalizzati negli script Velocity - Documenti Marketo - Documentazione del prodotto
+description: Modificare i limiti di recupero di oggetti personalizzati in Velocity Scripting - Marketo Docs - Documentazione del prodotto
 title: Modificare i limiti di recupero oggetti personalizzati negli script Velocity
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # Modificare i limiti di recupero oggetti personalizzati in Velocity Scripting {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
