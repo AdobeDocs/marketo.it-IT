@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951259
-description: Glossario sul tipo di campo personalizzato - Documenti Marketo - Documentazione sul prodotto
-title: Glossario tipo di campo personalizzato
+description: Glossario sul tipo di campo personalizzato - Documenti Marketo - Documentazione del prodotto
+title: Glossario del tipo di campo personalizzato
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
 
 ---
 
+# Glossario del tipo di campo personalizzato {#custom-field-type-glossary}
 
-# Glossario tipo di campo personalizzato {#custom-field-type-glossary}
-
-Quando si crea un campo personalizzato in Marketo è disponibile un elenco di tipi tra cui scegliere.
+Quando crei un campo personalizzato in Marketo puoi scegliere un elenco di tipi.
 
 >[!PREREQUISITES]
 >
@@ -25,97 +25,97 @@ Quando si crea un campo personalizzato in Marketo è disponibile un elenco di ti
 
 >[!NOTE]
 >
->La maggior parte dei campi non si limita al numero di caratteri, ma alla quantità di byte. Per questo motivo, non è possibile specificare un limite di caratteri definitivo per ciascun campo. L&#39;eccezione è **String**, che equivale a 255 caratteri.
+>La maggior parte dei campi non si limita al numero di caratteri, ma alla quantità di byte. Per questo motivo non è possibile fornire un limite di caratteri definitivo per ciascun campo. L&#39;eccezione è **String**, che corrisponde a 255 caratteri.
 
 ## Booleano {#boolean}
 
-**Nome esempio:** È cliente - Assegnare tag alle persone come clienti
+**Esempio di nome:** è cliente - Assegna tag alle persone come clienti
 
 **Valori di esempio:** True (selezionato) / False (non selezionato)
 
-**Operatori**: None
+**Operatori**: Nessuno
 
 ## Valuta {#currency}
 
-**Nome esempio:** Budget - Memorizza un valore numerico per il budget di una società
+**Nome esempio:** Budget - Memorizza un valore numerico per il budget di un&#39;azienda
 
-**Valori Di Esempio:** 100
+**Valori di esempio:** 100
 
-**Operatori**: è, non è, tra, maggiore di, almeno minore di, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, maggiore di, minore di, almeno, è vuoto, non è vuoto
 
 ## Data {#date}
 
-**Nome esempio:Data** rinnovo - Memorizza le date di rinnovo dei clienti
+**Nome esempio:** Data di rinnovo - Memorizza le date di rinnovo dei clienti
 
-**Valori Di Esempio:** 8/19/14
+**Valori di esempio:** 19/8/14
 
-**Operatori**: è, non è, tra, in passato, in passato, prima, in futuro, dopo, nell&#39;intervallo di tempo, dopo, prima, dopo, dopo, dopo, dopo, dopo, on o prima, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, in passato, in passato, prima, in futuro, in futuro, dopo, nell&#39;intervallo di tempo, dopo, prima, dopo, dopo, dopo, in o prima, è vuoto, non è vuoto
 
 ## Datetime {#datetime}
 
-**Nome esempio:Data** creazione - Memorizza la data e l&#39;ora in cui viene creata una persona
+**Nome esempio:** Data creazione - Memorizza la data e l’ora in cui viene creata una persona
 
-**Valori Di Esempio:** 8/19/14 2:00
+**Valori di esempio:** 19/8/14 2:00
 
-**Operatori**: è, non è, tra, in passato, in passato, prima, in futuro, dopo, nell&#39;intervallo di tempo, dopo, prima, dopo, dopo, dopo, dopo, dopo, on o prima, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, in passato, in passato, prima, in futuro, in futuro, dopo, nell&#39;intervallo di tempo, dopo, prima, dopo, dopo, dopo, in o prima, è vuoto, non è vuoto
 
 ## E-mail {#email}
 
-**Nome esempio:E-mail** alternativa - Mantenere un indirizzo e-mail alternativo per le persone (non può inviare e-mail a questo campo come il campo dell&#39;indirizzo e-mail predefinito, che è speciale)
+**Esempio di nome:** e-mail alternativa - Mantieni un indirizzo e-mail alternativo per le persone (non può effettivamente inviare e-mail a questo campo come il campo dell’indirizzo e-mail predefinito, che è speciale)
 
-**Valori Di Esempio:** name@company.com
+**Valori di esempio:** name@company.com
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
 
 ## Mobile {#float}
 
-**Nome esempio:Media punti** di livello - Mantenere la media dei punti di valutazione di una persona o qualsiasi altro valore numerico con decimali
+**Esempio di nome:** media del punto di livello - Mantenere la media del punto di livello di una persona o qualsiasi altro valore numerico con decimali
 
-**Valori Di Esempio:** 2.47
+**Valori di esempio:** 2.47
 
-**Operatori**: è vuoto, il valore è maggiore o minore di, almeno, è vuoto, non è vuoto
+**Operatori**: tra, maggiore di, minore di, almeno, è vuoto, non è vuoto
 
 ## Formula {#formula}
 
-**Nome esempio:** Salutazioni - usa questo campo speciale in una  [soluzione per ottenere la giusta formula di ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) formula basata sul genere
+**Nome esempio:** Salutazioni - utilizza questo campo speciale in una  [soluzione per ottenere la giusta formula di ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) apertura basata sul genere
 
-**Valori di esempio:** verificare la soluzione collegata
+**Valori di esempio:** controlla la soluzione collegata
 
-## Numero intero {#integer}
+## Intero {#integer}
 
 **Nome esempio:** Numero di dipendenti - memorizzare un valore numerico che non richiede decimali
 
-**Valori Di Esempio:** 600
+**Valori di esempio:** 600
 
-**Operatori**: è, non è, tra, maggiore di, almeno minore di, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, maggiore di, minore di, almeno, è vuoto, non è vuoto
 
 ## Percentuale {#percent}
 
-**Nome esempio:** Probabile da acquistare - memorizzare un valore percentuale (forse calcolato sul lato CRM)
+**Nome esempio:** Probabile da acquistare - archivia un valore percentuale (forse calcolato sul lato CRM)
 
-**Valori Di Esempio:** 85%
+**Valori di esempio:** 85%
 
-**Operatori**: è, non è, tra, maggiore di, almeno minore di, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, maggiore di, minore di, almeno, è vuoto, non è vuoto
 
 ## Telefono {#phone}
 
-**Nome esempio:** Telefono alternativo - memorizzare un numero di telefono aggiuntivo per le persone
+**Esempio di nome:** telefono alternativo - memorizza un numero di telefono aggiuntivo per le tue persone
 
-**Valore Di Esempio:** 650-555-5555
+**Valore di esempio:** 650-555-5555
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
 
 ## Punteggio {#score}
 
-**Nome esempio:** Punteggio comportamentale/Punteggio demografico: create più campi di valutazione per tenere traccia dei diversi attributi.
+**Nome esempio:** Punteggio comportamentale/Punteggio demografico - crea più campi di punteggio per tenere traccia di attributi diversi.
 
-**Valore Di Esempio:** 14
+**Valore di esempio:** 14
 
-**Operatori**: è, non è, tra, maggiore di, almeno minore di, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, maggiore di, minore di, almeno, è vuoto, non è vuoto
 
 ## Stringa {#string}
 
-**Nome esempio:Nome** centrale - memorizzare un attributo di testo aggiuntivo
+**Nome esempio:** Nome intermedio - archivia un attributo di testo aggiuntivo
 
 **Valore Di Esempio:** Rose
 
@@ -123,16 +123,16 @@ Quando si crea un campo personalizzato in Marketo è disponibile un elenco di ti
 
 ## Area di testo {#text-area}
 
-**Nome esempio:** Commenti - aggiungere un campo commenti ai moduli per consentire l&#39;immissione di testo su più righe
+**Nome esempio:** Commenti: aggiungi un campo commenti ai moduli per consentire l’immissione di testo su più righe
 
-**Esempio di valore:** Questo articolo è fantastico!
+**Valore di esempio:** Questo articolo è fantastico!
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
 
 ## URL {#url}
 
-**Nome esempio:** Blog - creare un campo per memorizzare gli URL dei blog delle persone
+**Nome esempio:** Blog - crea un campo per memorizzare gli url del blog della persona
 
-**Valore Di Esempio:** www.myblog.com
+**Valore di esempio:** www.myblog.com
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
