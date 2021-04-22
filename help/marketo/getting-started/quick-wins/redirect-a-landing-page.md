@@ -2,14 +2,14 @@
 unique-page-id: 2359428
 description: Reindirizzare una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
 title: Reindirizzare una pagina di destinazione
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Reindirizzare una pagina di destinazione {#redirect-a-landing-page}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ricorda che puoi reindirizzare solo le pagine di destinazione che iniziano con Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Ricorda che puoi reindirizzare solo le pagine di destinazione che iniziano con il tuo Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Fai clic sul secondo menu a discesa **URL originale** e seleziona la pagina di destinazione da reindirizzare.
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## Missione completata {#mission-complete}
 
-Congratulazioni! Una pagina di destinazione è stata reindirizzata correttamente.
+Complimenti. Una pagina di destinazione è stata reindirizzata correttamente.
 
 <br> 
 
