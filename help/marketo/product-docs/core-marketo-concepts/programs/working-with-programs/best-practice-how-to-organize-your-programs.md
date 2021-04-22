@@ -1,27 +1,27 @@
 ---
 unique-page-id: 6848705
-description: Best practice - Come organizzare i programmi - Marketo Docs - Documentazione prodotto
-title: Procedure ottimali - Come organizzare i programmi
+description: Procedure consigliate - Come organizzare i programmi - Documentazione Marketo - Documentazione del prodotto
+title: 'Procedure consigliate: come organizzare i programmi'
+exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
 
 ---
 
-
 # Best practice: Come organizzare i programmi {#best-practice-how-to-organize-your-programs}
 
-Esistono molti modi per organizzare la struttura ad albero in Attività di marketing e il contenuto di un singolo programma. Tuttavia, alcuni modi sono migliori e aiuteranno le persone del tuo reparto marketing.
+Sono disponibili diversi modi per organizzare l’albero nelle attività di marketing e i contenuti di un singolo programma. Tuttavia, alcuni modi sono migliori e aiuteranno le persone nel tuo reparto marketing.
 
 >[!TIP]
 >
->Un giorno, (quando si viene promossi!) qualcun altro cercherà di dare un senso ai tuoi programmi. Una buona organizzazione li aiuterà a essere produttivi rapidamente.
+>Un giorno, (quando vieni promosso!) qualcun altro cercherà di dare un senso ai tuoi programmi. Una buona organizzazione li aiuterà ad essere produttivi rapidamente.
 
 ## Cartelle {#folders}
 
-In Attività di marketing, devi usare le cartelle per organizzare i tuoi programmi. La struttura che consigliamo è nel seguente esempio:
+In Attività di marketing, devi utilizzare le cartelle per organizzare i programmi. La struttura consigliata si trova nell’esempio seguente:
 
 >[!NOTE]
 >
@@ -30,97 +30,97 @@ In Attività di marketing, devi usare le cartelle per organizzare i tuoi program
 >* Programmi di marketing attivi
    >   * E-mail
    >   * Eventi
-      >      * Eventi in diretta/Roadshow
-      >      * fiere
+      >      * Eventi live / Roadshow
+      >      * Fiere commerciali
       >      * Webinar
    >   * Newsletter
-   >   * Cura
-   >   * Contenuto Web
-   >   * Moduli Web
+   >   * Infermiera
+   >   * Contenuto web
+   >   * Moduli web
 >* Apprendimento
 >* Operativo
-   >   * Ciclo
+   >   * Ciclo di vita
    >   * Punteggio
-   >   * Gestione dei dati
->* Informazioni sulle vendite
+   >   * Gestione dati
+>* Approfondimenti vendite
    >   * Momenti interessanti
    >   * E-mail di vendita
    >   * Campagne richieste di vendita
->* **Archivio**
-   >   * Archivia eventi
+>* **Archivia**
+   >   * Archiviare gli eventi
       >      * Archivio 2012
       >      * Archivio 2013
 
 
-Ognuno di questi esempi citati nell&#39;esempio è una cartella. Notate come hanno tutti un nome univoco. È possibile avere nomi duplicati (più semplici) di cartelle all&#39;interno di programmi, ma non alla radice della struttura.
+Ognuno di questi menzionati nell’esempio è una cartella. Notate come si chiamano tutti in modo univoco. È possibile disporre di nomi duplicati (più semplici) delle cartelle all&#39;interno dei programmi INSIDE, ma non nella radice della struttura.
 
 >[!TIP]
 >
->La cartella &quot;Archive&quot; è un tipo speciale di cartella progettato per rimuovere gli elementi dagli elenchi selezionati e per generare rapporti. In questo modo il sistema sarà più veloce. Scopri [ulteriori informazioni sulle cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>La cartella &quot;Archivia&quot; è un tipo speciale di cartella progettata per rimuovere elementi dagli elenchi selezionati e dal reporting. Questo aiuterà il tuo sistema a funzionare più rapidamente. Scopri [ulteriori informazioni sulle cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
-Potete aggiungere sicuramente più cartelle secondo le vostre esigenze. Tieni presente che le future generazioni di esperti di marketing della tua azienda vivranno con le tue decisioni su come assegnare un nome o organizzare le cose.
+È certamente possibile aggiungere più cartelle come si ritiene opportuno. Tieni presente che le future generazioni di esperti di marketing della tua azienda vivranno con le tue decisioni su come assegnare un nome o organizzare le cose.
 
-## Denominazione degli schemi {#naming-schemes}
+## Schemi di denominazione {#naming-schemes}
 
-La denominazione è fondamentale, poiché le funzioni di Marketo utilizzano tutte un linguaggio comune per comunicare. Per i programmi, dovreste denominarli qualcosa di unico. **Nessun programma può avere lo stesso nome**. È consigliabile utilizzare il formato seguente:
+La denominazione è fondamentale, in quanto le funzionalità di Marketo utilizzano tutte un linguaggio comune per comunicare. Per i programmi, devi denominarli qualcosa di unico. **Due programmi non possono avere lo stesso nome**. Si consiglia di utilizzare il formato seguente:
 
-[Abbreviazione del ] [tipo di programma AAAA]-[MM]-[facoltativo ] [DDBrief Descrizione]
+[Abbreviazione del ] [tipo di programmaAAAA]-[MM]-[Facoltativo ] [DDBrief Descrizione]
 
 >[!NOTE]
 >
 >**Esempio**
 >
->Esempi di nomi di programma:
+>Esempio di nomi di programma:
 >
->1. Introduzione ai widget ES 2015-09-21
+>1. ES 2015-09-21 Introduzione ai Widget
 >1. Newsletter NL 2015-06
->1. Argomento webinar WBN 2015-12-01
+>1. Argomento del webinar WBN 2015-12-01 qui
 
 
-I nomi dei programmi devono essere univoci nell&#39;abbonamento, anche in [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) diverse.  Per le risorse locali all&#39;interno dei programmi, la regola è di **mantenere il nome semplice**. Basta assegnare un nome &quot;Invito&quot;, invece di &quot;Invito webinar 2015 giugno&quot;. Poiché si trovano in un programma, il programma principale fa automaticamente parte del nome quando lo sceglie altrove. In altre parole, le risorse locali devono essere univoche solo all&#39;interno del programma. Potete usare centinaia di risorse denominate &quot;Invite&quot;, ognuna in un programma diverso e non causerà alcun errore.
+I nomi dei programmi devono essere univoci nell&#39;abbonamento, anche in diverse [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Per le risorse locali all&#39;interno dei programmi, la regola è di **mantenere il nome semplice**. Basta nominare un invito &quot;Invito&quot;, invece di &quot;2015 June Webinar Invitation&quot;. Poiché si trovano in un programma, il programma principale viene automaticamente incluso nel nome quando lo si sceglie altrove. In altre parole, le risorse locali devono essere univoche all’interno del programma. Puoi avere centinaia di risorse denominate &quot;Invite&quot;, ciascuna in un programma diverso e non ti farà preoccupare.
 
 ## Token {#tokens}
 
 I token utilizzano cartelle e programmi come veicolo per impostare le variabili da utilizzare per pagine di destinazione, e-mail e altre risorse.
 
-L’organizzazione di cui sopra consente di inserire i token nella cartella Evento in modo che vengano raggruppati in tutti gli eventi.
+L’organizzazione di cui sopra consente di inserire token nella cartella Evento in modo che vengano suddivisi in cascata in tutti gli eventi.
 
 >[!NOTE]
 >
 >**Esempio**
 >
->**Il tuo indirizzo** aziendale. Utilizzate un token anziché scriverlo ogni volta. In questo modo potete aggiornarlo in un punto unico senza dover creare molte bozze. Quindi sostituite il token come necessario in una cartella di livello inferiore.
+>**Il tuo indirizzo** aziendale. Utilizza un token invece di scriverlo ogni volta. In questo modo è possibile aggiornarlo in un unico punto senza dover creare molte bozze. Quindi, sostituisci il token come necessario in una cartella di livello inferiore.
 
 ## Eventi {#events}
 
-Un evento ha in genere molte parti mobili, tra cui: inviti, pagine di destinazione, moduli, widget per social network e campagne intelligenti. La procedura migliore per organizzarli per facilitarne l’uso è quella per la fase dell’evento. Di seguito è riportato un esempio di come la struttura delle cartelle deve cercare un evento.
+Un evento ha solitamente molte parti mobili, tra cui: inviti, pagine di destinazione, moduli, widget social e campagne avanzate. La migliore pratica per organizzarli per facilità d&#39;uso è quella della fase dell&#39;Evento. Esempio di ricerca di un evento nella struttura delle cartelle.
 
 ![](assets/capture.png)
 
 ## Programmi di coinvolgimento {#engagement-programs}
 
-Scopri [tutti i programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Il modo migliore per organizzare il programma di coinvolgimento è tramite le cartelle. Crea una cartella per ciascun flusso e poi inserisci le e-mail o i programmi in quella cartella. Includete una cartella di archivio in ciascun flusso quando il contenuto diventa obsoleto e desiderate rimuoverlo.
+Scopri [tutto sui programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Il modo migliore per organizzare il programma di coinvolgimento è con le cartelle. Crea una cartella per ogni flusso e poi inserisci le e-mail o i programmi in quella cartella. Includi una cartella di archivio in ogni flusso quando il contenuto non è aggiornato e vuoi rimuoverlo.
 
 ## Programmi operativi {#operational-programs}
 
-Sono utilizzati per la pulizia dei dati. Disporre di cartelle per le date in cui i programmi sono stati eseguiti e quindi archiviare le cartelle. Rendendo il programma operativo, si sta omettendo dal reporting, il che è positivo per questo tipo di attività.
+Vengono utilizzati a scopo di pulizia dei dati. Disporre di cartelle per le date di esecuzione dei programmi e quindi archiviare le cartelle. Rendendo il programma operativo, lo si sta omettendo dal reporting, che è buono per questo tipo di attività.
 
 ## Nidificazione dei programmi e-mail {#nesting-email-programs}
 
-I programmi e-mail sono progettati per essere il vostro strumento per il blasting della posta. Puoi inserirli in Eventi o altri programmi per promozioni, inviti e promemoria. Sono dotati di un pannello di controllo e di altre funzioni di test A/B. Inoltre, sono facilmente manipolabili nella vista di programmazione del programma.
+I programmi e-mail sono progettati per essere il tuo strumento per la blasting della posta. Puoi inserirli in Eventi o altri programmi per promozioni, inviti e promemoria. Sono dotati di un dashboard cool e di altre funzionalità di test A/B. Inoltre, sono facilmente manipolabili nella visualizzazione della pianificazione del programma.
 
-Potete anche creare un programma e-mail come programma autonomo. I programmi e-mail non sono consentiti all&#39;interno di altri programmi e-mail. Sarebbe folle!
+Puoi anche creare un programma e-mail come programma autonomo. I programmi e-mail non sono consentiti all’interno di altri programmi e-mail. Sarebbe folle!
 
 ## Clonazione {#cloning}
 
-Una delle caratteristiche più interessanti di Marketo è la capacità di clonare i programmi. Questo significa che puoi impostare un &quot;modello&quot; di programma che include tutte le campagne intelligenti e le e-mail che desideri. Configuralo in anticipo e duplicalo per la tua prossima iniziativa di marketing.
+Una delle caratteristiche più interessanti di Marketo è la capacità di clonare programmi. Questo significa che puoi impostare un programma &quot;template&quot; che ha tutte le campagne intelligenti e le e-mail che desideri. Configuralo in anticipo e quindi clonalo per la tua prossima iniziativa di marketing.
 
 >[!TIP]
 >
->Osservate i modelli evento nell’esempio nella parte superiore. Inserite qui i diversi tipi di eventi per una semplice duplicazione.
+>Osserva i Modelli evento nell’esempio nella parte superiore. Inserisci i tuoi diversi tipi di eventi per una facile clonazione.
 
-Alcune persone possono anche astrarre la maggior parte del testo nelle e-mail e nelle pagine di destinazione nei token. Questo consente di clonare e quindi modificare i token. Infine, andate alla vista programmazione programma e regolate le date e avete finito. Voila!
+Alcuni utenti possono anche astrarre la maggior parte del testo nelle e-mail e nelle pagine di destinazione nei token. Questo consente di clonare e quindi modificare i token. Infine, vai alla visualizzazione programmazione programma e regola le date e hai finito. Voila!
 
 ## Riepilogo {#summary}
 
-Come potete vedere, c&#39;è molto potere a Marketo. Abbiamo trattato le nozioni di base qui, ma consideriamo alcuni [servizi aggiuntivi da Marketo Experts](https://www.marketo.com/services/) per perfezionare e prepararsi per il successo.
+Come potete vedere, c&#39;è molta energia in Marketo. Abbiamo trattato le nozioni di base qui, ma considera alcuni servizi [aggiuntivi di Marketo Experts](https://www.marketo.com/services/) per perfezionare e configurarsi per il successo.
