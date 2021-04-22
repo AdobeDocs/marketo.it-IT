@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1147112
-description: Tags - Marketo Docs - Documentazione prodotto
+description: Informazioni sui tag - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sui tag
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
+# Informazioni sui tag {#understanding-tags}
 
-# Tag {#understanding-tags}
+Probabilmente ora sapete che i programmi sono come mattoni di base in Marketo. L’utilizzo di tag e canali ti aiuterà a filtrare i dati a scopo di reporting.
 
-Probabilmente ora sapete che i programmi sono come mattoni di costruzione a Marketo. L’utilizzo di tag e canali vi aiuterà a filtrare i dati a scopo di reporting.
-
-I tag vengono utilizzati per descrivere i programmi. Potete creare quanti ne avete bisogno, ciascuno con valori univoci. I canali identificano il meccanismo di consegna in un programma, ad esempio webinar, sponsorizzazione o annunci online.
+I tag vengono utilizzati per descrivere i programmi. Puoi crearne quanti ne desideri, ciascuno con valori univoci. I canali identificano il meccanismo di consegna in un programma, ad esempio webinar, sponsorizzazione o annuncio online.
 
 ## Tipo di tag {#tag-type}
 
-I tipi di tag identificano il tipo di informazioni da ordinare.
+I tipi di tag identificano il tipo di informazioni in base al quale desideri eseguire l’ordinamento.
 
 >[!TIP]
 >
->Per creare tag personalizzati, rivolgiti all&#39; [Amministratore marketing](/help/marketo/product-docs/administration/tags/create-custom-tags.md).
+>Per creare tag personalizzati, rivolgiti al tuo [Amministratore Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md) .
 
 >[!NOTE]
 >
 >**Esempio**
 >
->* Tipo di tag = Proprietario programma
+>* Tipo di tag = proprietario del programma
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
@@ -49,21 +49,21 @@ Ogni tipo di tag avrà dei valori tra cui scegliere.
 
 ## Canale {#channel}
 
-I canali vengono utilizzati per segnalare il modo in cui i [membri](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) si sono spostati all&#39;interno del programma. Ogni canale ha un set di stati di progressione e uno stato impostato su uguale successo.
+I canali vengono utilizzati per creare rapporti sul modo in cui i [membri](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) si sono spostati all&#39;interno del programma. Ogni canale ha un set di stati di progressione e uno stato impostato su uguale successo.
 
 >[!NOTE]
 >
 >**Esempio**
 >
 >* Canale = Roadshow
->* Stato progressione = Invitato, Registrato, Partecipato, Nessuna Mostra
->* Successo = Partecipato
+>* Stato progressione = invitato, registrato, partecipato, non visualizzato
+>* Completato = Partecipato
 
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [Crea tag personalizzati](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [Creare un canale di programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [Creare tag personalizzati](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
+>* [Creare un canale del programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 
