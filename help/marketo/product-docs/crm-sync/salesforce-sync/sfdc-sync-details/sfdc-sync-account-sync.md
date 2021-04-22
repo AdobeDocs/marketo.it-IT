@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2953459
-description: Sincr. SFDC - Sincronizzazione account - Documenti Marketo - Documentazione prodotto
+description: Sincr. SFDC - Sincronizzazione account - Documenti Marketo - Documentazione del prodotto
 title: Sincr. SFDC - Sincronizzazione account
+exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-
 # Sincr. SFDC: Sincronizzazione account {#sfdc-sync-account-sync}
 
-Marketo sincronizza anche le informazioni sull’account con Salesforce. Ecco alcune cose specifiche che dovreste sapere!
+Marketo sincronizza inoltre le informazioni sul tuo account con Salesforce. Ecco alcune cose specifiche che dovreste sapere!
 
-## In che modo vengono sincronizzate le informazioni? {#which-way-does-the-information-sync}
+## In che modo le informazioni vengono sincronizzate? {#which-way-does-the-information-sync}
 
-Solo un modo: dalla DSC a Marketo.
+Solo un modo: da SFDC a Marketo.
 
 ## Come funzionano gli aggiornamenti? {#how-do-the-updates-work}
 
-Se si aggiorna un campo Account per un contatto in Marketo, vengono modificati i valori di tutti i contatti appartenenti a tale account in Marketo. Non viene sincronizzata con SFDC. Tuttavia, al successivo aggiornamento dell&#39;account in SFDC, le modifiche apportate sostituiranno tutte le informazioni sull&#39;account in Marketo.
+Se si aggiorna un campo Account per un contatto in Marketo, vengono modificati i valori di tutti i contatti appartenenti a tale account in Marketo. Non si sincronizza con SFDC. Tuttavia, la prossima volta che l’account viene aggiornato in SFDC, le modifiche sovrascriveranno tutte le informazioni sull’account in Marketo.
 
 ## Un contatto può appartenere a più account?  {#can-a-contact-belong-to-multiple-accounts}
 
@@ -29,12 +29,12 @@ No. Un account può avere molti contatti, un contatto può avere un solo account
 
 ## Posso creare account da Marketo? {#can-i-create-accounts-from-marketo}
 
-Principalmente no. Tuttavia, se si utilizza il passaggio di flusso [Converti persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) su una persona, verrà creato un nuovo contatto, un nuovo account e una nuova opportunità.
+Principalmente no. Tuttavia, se utilizzi il passaggio di flusso [Converti persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) su una persona, verrà creato un nuovo contatto, un nuovo account e una nuova opportunità.
 
 >[!CAUTION]
 >
->Questo passaggio di flusso ha un caso di utilizzo molto limitato. Se non sei sicuro, probabilmente non dovresti usarlo.
+>Questa fase del flusso ha un caso d’uso molto limitato. Se non sei sicuro, probabilmente non dovresti usarlo.
 
-## Se una modifica in un campo account in Salesforce comporta la modifica del registro attività valore dati per ogni contatto?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
+## Una modifica in un campo account in Salesforce determina un registro attività Modifica valore dati per ogni contatto?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 
-Principalmente sì. Tuttavia, se un account ha più di 5.000 contatti e un campo su tale account cambia in SFDC, sincronizzeremo la modifica ma non registreremo l&#39;attività per più di 5.000 contatti.
+Principalmente sì. Tuttavia, se un account ha più di 5.000 contatti e un campo su tale account cambia in SFDC, sincronizziamo la modifica ma non registriamo l&#39;attività per più di 5.000 contatti.
