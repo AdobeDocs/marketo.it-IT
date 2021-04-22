@@ -1,34 +1,34 @@
 ---
 unique-page-id: 2953173
-description: Utilizzo di membri di un elenco avanzato - Documenti Marketo - Documentazione prodotto
-title: Utilizzo dei membri dell'elenco in un elenco avanzato
+description: Utilizzare i membri dell’elenco in un elenco avanzato - Documenti Marketo - Documentazione del prodotto
+title: Utilizzare i membri dell’elenco in un elenco avanzato
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-
-# Utilizza membri elenco in un elenco avanzato {#use-members-of-list-in-a-smart-list}
+# Utilizzare i membri dell’elenco in un elenco avanzato {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
 >È possibile aggiungere persone a un elenco utilizzando [Importa](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) o il passaggio [Aggiungi a flusso elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
-Con questo filtro, potete estrarre i membri da un altro elenco facendovi riferimento nelle regole dell&#39;elenco avanzato. Ecco come.
+Con questo filtro, puoi estrarre i membri da un altro elenco facendone riferimento nelle regole del tuo elenco smart. Ecco come.
 
-1. Selezionate un elenco avanzato e fate clic sulla scheda **Smart List**.
+1. Seleziona un elenco avanzato e fai clic sulla scheda **Elenco avanzato** .
 
    ![](assets/smartlist-sltab.png)
 
-1. Nel pannello dei filtri a destra, cercate e trascinate il filtro **Membro di List** sul quadro.
+1. Nel pannello dei filtri a destra, cerca e trascina il filtro **Membro di elenco** sull&#39;area di lavoro.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
-1. Fare clic sull&#39;elenco a discesa o digitare per cercare l&#39;elenco da includere nell&#39;elenco smart.
+1. Fai clic sull’elenco a discesa o digita per cercare l’elenco da includere nell’elenco avanzato.
 
    ![](assets/memberoflist.png)
 
-   Fatto! In questo esempio, l&#39;elenco smart ora sarà indirizzato solo ai membri dell&#39;elenco e li valuterà in base a qualsiasi altra regola inclusa.
+   Completato! In questo esempio, l’elenco avanzato ora eseguirà il targeting solo dei membri dell’elenco e li valuterà in base a qualsiasi altra regola inclusa.
