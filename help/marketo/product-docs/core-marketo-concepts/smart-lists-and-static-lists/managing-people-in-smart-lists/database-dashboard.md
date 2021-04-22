@@ -1,38 +1,38 @@
 ---
 unique-page-id: 10097447
-description: Dashboard database - Documenti Marketo - Documentazione prodotto
-title: Pannello database
+description: Dashboard di database - Documenti Marketo - Documentazione del prodotto
+title: Dashboard del database
+exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Dashboard del database {#database-dashboard}
 
-# Dashboard database {#database-dashboard}
-
-Il dashboard del database funge da snapshot per consentire di determinare rapidamente gli attributi chiave per le persone all&#39;interno di un&#39;area di lavoro.
+Dashboard di database funge da snapshot per consentire di determinare rapidamente gli attributi chiave delle persone all&#39;interno di un&#39;area di lavoro.
 
 >[!NOTE]
 >
->Ogni area di lavoro dispone di un proprio Database.
+>Ogni area di lavoro dispone di un proprio database.
 
-Per arrivarci, puoi fare clic sulla sezione **Database** nella schermata iniziale...
+Per arrivarci, puoi fare clic sul riquadro **Database** nella schermata iniziale...
 
 ![](assets/db-3.png)
 
-In alternativa, fare clic sul logo Marketo e selezionare **Database**.
+Oppure fai clic sul logo Marketo e seleziona **Database**.
 
 ![](assets/db2.png)
 
-I grafici indicano il numero totale di persone, il numero di persone commerciabili, così come le prime cinque fonti di acquisizione personale.
+I grafici indicano il numero totale di persone, il numero di persone commerciabili e le cinque principali fonti di acquisizione di persone.
 
 ![](assets/three-7.png)
 
 >[!TIP]
 >
->Vuoi ottenere informazioni più specifiche o tempestive sulle tue persone? Provare un [report Prestazioni Persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Vuoi ottenere informazioni più specifiche o tempestive sulle tue persone? Prova un [rapporto sulle prestazioni delle persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Persone totali:** il numero di persone di tutti i tempi per l’area di lavoro.  **Persone commerciabili:** il numero di persone all-time per l’area di lavoro,  _meno quanto segue_: persone senza un indirizzo e-mail, persone la cui e-mail è rimbalzata duramente, persone  inserire nell&#39;elenco Bloccati, persone che hanno annullato la sottoscrizione, persone attualmente impostate su Marketing Suspended.
+**Persone totali:** il numero di persone a tempo pieno per quell’area di lavoro.  **Persone commerciabili:** il numero di persone a tempo pieno per l’area di lavoro,  _meno quanto segue_: persone senza un indirizzo e-mail, persone con e-mail che rimbalzano duramente, persone inserire nell&#39;elenco Bloccati, persone che hanno annullato l’abbonamento, persone attualmente impostate su Marketing sospeso.
