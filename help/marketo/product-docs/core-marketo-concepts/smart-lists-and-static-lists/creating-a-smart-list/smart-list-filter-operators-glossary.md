@@ -1,46 +1,46 @@
 ---
 unique-page-id: 557312
-description: Smart List Filtri Operatori Glossario - Marketo Docs - Documentazione del prodotto
-title: Glossario degli operatori di filtri per elenchi avanzati
+description: Glossario degli operatori di filtri di elenchi avanzati - Documenti Marketo - Documentazione del prodotto
+title: Glossario degli operatori di filtri di elenchi avanzati
+exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
+# Glossario degli operatori di filtri di elenchi avanzati {#smart-list-filter-operators-glossary}
 
-# Glossario degli operatori di filtri per elenchi avanzati {#smart-list-filter-operators-glossary}
+Un operatore è una parte dell’elenco avanzato che consente di ottenere informazioni specifiche. Ti consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ciascun tipo di campo.
 
-Un operatore è una parte dell&#39;elenco smart che consente di ottenere informazioni specifiche. Consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ciascun tipo di campo.
-
-Questo è un glossario che descrive ogni insieme di operatori.
+Ecco un glossario che descrive ogni set di operatori.
 
 ## Campi data {#date-fields}
 
 ![](assets/image2014-9-10-17-3a15-3a47.png)
 
-Quando si sceglie un operatore, il lato destro cambia in modo dinamico.
+Quando scegli un operatore, il lato destro cambia dinamicamente.
 
 | Operatore | Lato destro | Descrizione |
 |---|---|---|
-| is | Data singola | Corrispondenza data esatta |
-| is not | Data singola | Qualsiasi data TRANNE quella specificata |
+| è | Data singola | Corrispondenza data esatta |
+| non | Data singola | Qualsiasi data tranne quella specificata |
 | tra | Due campi data | Qualsiasi data che include e tra due date specificate |
-| in passato | Input lingua naturale* | Vedere il diagramma seguente |
-| in passato | Input lingua naturale* | Vedere il diagramma seguente |
-| in futuro | Input lingua naturale* | Vedere il diagramma seguente |
-| in futuro | Input lingua naturale* | Vedere il diagramma seguente |
-| nel tempo | Predefiniti (ultimo trimestre, ieri ecc.) | Definito in elenco di selezione |
-| after | Data singola | Tutti i record dopo la data specificata |
-| before | Data singola | Tutti i record prima di quello specificato |
-| o dopo | Data singola | Come &quot;after&quot; ma incluso |
-| o prima | Data singola | Come &quot;prima&quot; ma incluso |
-| è vuoto | None | Tutti i record senza data |
-| non è vuoto | None | Tutti i record con qualsiasi data |
+| in passato | Input lingua naturale* | Vedi il diagramma seguente |
+| in passato | Input lingua naturale* | Vedi il diagramma seguente |
+| in futuro | Input lingua naturale* | Vedi il diagramma seguente |
+| in futuro | Input lingua naturale* | Vedi il diagramma seguente |
+| in tempo | Predefiniti (ultimo trimestre, ieri ecc.) | Definito in elenco a discesa |
+| dopo | Data singola | Tutti i record dopo la data specificata |
+| prima | Data singola | Tutti i record precedenti a quello specificato |
+| o dopo | Data singola | Come &quot;dopo&quot; ma inclusivo |
+| o prima | Data singola | Come &quot;prima&quot; ma inclusivo |
+| è vuoto | Nessuno | Tutti i record senza data |
+| non è vuoto | Nessuno | Tutti i record con qualsiasi data |
 
-* L&#39;input in lingua naturale è fantastico. Di seguito sono riportati alcuni dei pattern che è possibile inserire:
+* L&#39;input del linguaggio naturale è fresco. Di seguito sono riportati alcuni dei pattern che è possibile immettere:
 
 * 1 ora
 * 82 giorni
@@ -52,13 +52,13 @@ Basta digitare il numero e l&#39;unità insieme e funzionerà!
 
 >[!NOTE]
 >
->&quot;In passato&quot; **fa** include il giorno (fino all&#39;ora, non dopo) in cui si crea l&#39;elenco smart.
+>&quot;In passato&quot; **does** include il giorno (fino all&#39;ora e non dopo) in cui hai creato il tuo elenco smart.
 
 >[!CAUTION]
 >
->Quando si crea un elenco avanzato utilizzando un filtro di campo data (ad esempio, Data di nascita, Data di creazione SFDC) e si utilizzano i vincoli **before** o **on o precedenti**, l&#39;elenco smart list includerà anche le persone che non hanno alcun valore in tale campo data.
+>Quando crei un elenco avanzato utilizzando un filtro per campi data (ad esempio Data di nascita, Data creazione DSC) e utilizzi i vincoli **before** o **on o before** , l’elenco avanzato includerà anche le persone che non hanno alcun valore in tale campo data.
 
-Usare il diagramma seguente per comprendere la differenza tra gli operatori data.
+Utilizza il diagramma seguente per comprendere la differenza tra gli operatori data.
 
 ![](assets/image2014-9-10-17-3a15-3a58.png)
 
@@ -70,11 +70,11 @@ Usare il diagramma seguente per comprendere la differenza tra gli operatori data
 >
 >**In passato**
 >
->Per la nuova promozione, utilizza questo operatore per inviare e-mail solo a persone che non hanno sottoscritto o rinnovato il servizio entro un anno o che non sono mai state sottoscritte.
+>Per la nuova promozione, utilizza questo operatore per inviare e-mail solo a persone che non si sono abbonate o rinnovate il servizio entro un anno o che non sono mai state abbonate.
 >
->**In futuro**
+>**In futuro dopo**
 >
->Supponiamo di voler vedere i clienti che saranno rinnovati entro 90 giorni. Vengono utilizzati due filtri separati. Primo utilizzo &quot;In futuro dopo 90 giorni&quot;, e secondo, &quot;In futuro 91 giorni.&quot; Questo catturerebbe chiunque abbia una data di 90 giorni da ora.
+>Supponiamo di voler vedere i clienti in fase di rinnovo entro 90 giorni. Dovresti utilizzare due filtri separati. Primo utilizzo &quot;In futuro dopo 90 giorni&quot;, e secondo, &quot;In futuro 91 giorni.&quot; Questo catturerebbe chiunque abbia un appuntamento tra 90 giorni.
 
 ## Campi stringa {#string-fields}
 
@@ -82,18 +82,18 @@ Usare il diagramma seguente per comprendere la differenza tra gli operatori data
 
 | Operatore | Descrizione |
 |---|---|
-| is | Corrispondenza esatta (senza distinzione tra maiuscole e minuscole) |
-| is not | Eccetto la corrispondenza esatta |
-| inizia con | Prime lettere della corrispondenza stringa |
+| è | Corrispondenza esatta (senza distinzione tra maiuscole e minuscole) |
+| non | Qualsiasi tranne la corrispondenza esatta |
+| inizia con | Prime lettere di corrispondenza delle stringhe |
 | non inizia con | Le prime lettere della stringa NON corrispondono |
-| contains | Tutte le lettere nella corrispondenza stringa (esempio: California, fortuna, quindi) |
-| not contains | Nessuna corrispondenza nella corrispondenza stringa. (al contrario di &quot;contains&quot;) |
+| contiene | Qualsiasi lettera insieme nella corrispondenza stringa (esempio: california, fortuna, quindi) |
+| non contiene | Nessuna corrispondenza nella corrispondenza stringa. (al contrario di &quot;contiene&quot;) |
 | è vuoto | Record senza valore (NULL) |
 | non è vuoto | Record con valore ANY |
 
 >[!TIP]
 >
->Utilizzate operatori positivi rispetto a operatori negativi. I filtri &quot;Non è&quot; devono cercare l&#39;intero set di dati nell&#39;istanza, il che può richiedere molto tempo. I filtri &quot;is&quot; positivi possono sfruttare algoritmi di ricerca più efficaci.
+>Utilizzare gli operatori positivi rispetto a quelli negativi. I filtri &quot;Non è&quot; devono cercare l’intero set di dati nell’istanza, il che può richiedere molto tempo. I filtri &quot;is&quot; positivi possono sfruttare algoritmi di ricerca più efficaci.
 
 ## Campi interi {#integer-fields}
 
@@ -108,28 +108,28 @@ Usare il diagramma seguente per comprendere la differenza tra gli operatori data
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">is</td> 
+   <td colspan="1" rowspan="1">è</td> 
    <td colspan="1" rowspan="1">Corrispondenza numero esatta ( = 0 restituisce entrambi i lead con 0 <em>e</em> NULL)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">is not</td> 
-   <td colspan="1" rowspan="1">Qualsiasi valore ECCETTO numero esatto corrispondente</td> 
+   <td colspan="1" rowspan="1">non</td> 
+   <td colspan="1" rowspan="1">Qualsiasi valore tranne la corrispondenza esatta del numero</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">tra</td> 
-   <td colspan="1" rowspan="1">Definite due valori per trovare tutti gli utenti intermedi (incluso)</td> 
+   <td colspan="1" rowspan="1">Definisci due valori per trovare tutti nel mezzo (incluso)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">maggiore di</td> 
-   <td colspan="1" rowspan="1">Sopra il valore specificato</td> 
+   <td colspan="1" rowspan="1">Sopra il</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">minore di</td> 
+   <td colspan="1" rowspan="1">inferiore a</td> 
    <td colspan="1" rowspan="1">Minore del valore specificato</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">almeno</td> 
-   <td colspan="1" rowspan="1">Sopra il valore specificato (incluso)</td> 
+   <td colspan="1" rowspan="1">Sopra il specificato (incluso)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">al massimo</td> 
@@ -137,7 +137,7 @@ Usare il diagramma seguente per comprendere la differenza tra gli operatori data
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">è vuoto</td> 
-   <td colspan="1" rowspan="1">Record senza valore (NULL) - zero è un numero, è <em>not</em> NULL</td> 
+   <td colspan="1" rowspan="1">Record senza valore (NULL) - zero è un numero, ma è <em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">non è vuoto</td> 
