@@ -1,48 +1,48 @@
 ---
 unique-page-id: 1147142
-description: Creazione di una campagna in batch nella vista Pianificazione programma - Documenti Marketo - Documentazione prodotto
-title: Creazione di una campagna in batch nella vista Pianificazione del programma
+description: Creazione di una campagna avanzata in batch nella vista Pianificazione del programma - Marketo Docs - Documentazione del prodotto
+title: Creazione di una campagna avanzata in batch nella vista Pianificazione del programma
+exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
+# Creazione di una campagna avanzata in batch nella vista Pianificazione del programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-# Creazione di una campagna in batch nella vista Pianificazione programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
-
-È possibile creare nuove campagne intelligenti e [eseguire nuovamente quelle esistenti](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) all&#39;interno del programma dalla vista di pianificazione del programma.
+È possibile creare nuove campagne avanzate e [eseguire nuovamente quelle esistenti](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) all&#39;interno del programma dalla visualizzazione della pianificazione del programma.
 
 >[!NOTE]
 >
->In questa visualizzazione è possibile creare solo campagne batch intelligenti. Campagne di trigger non supportate.
+>In questa visualizzazione è possibile creare solo campagne avanzate batch. Le campagne trigger non sono supportate.
 
-1. Selezionate la data in cui desiderate che venga eseguita la nuova campagna intelligente.
+1. Seleziona la data in cui desideri eseguire la nuova campagna avanzata.
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Scegliete un nome per la voce, che diventerà la nuova campagna intelligente. Premere il tasto **Invio/A capo** per confermare il nome.
+1. Scegli un nome per la tua voce, che diventerà la tua nuova campagna intelligente. Premere il tasto **Enter/Return** per confermare il nome.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Fare clic sul menu a discesa **Tipo** e scegliere **Smart Campaign**.
+1. Fai clic sull’elenco a discesa **Tipo** e scegli **Campagna avanzata**.
 
    ![](assets/typechoose.png)
 
    >[!NOTE]
    >
-   >Potete anche eseguire una campagna intelligente esistente selezionandola dall’elenco a discesa.
+   >Puoi anche eseguire una campagna avanzata esistente selezionandola dal menu a discesa .
 
    ![](assets/four.png)
 
-1. Scegliete le regole della [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. Scegli le regole [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) .
 
    ![](assets/changeprogramstatus-hands.png)
 
-1. Questa campagna intelligente verrà ora visualizzata come confermato nella visualizzazione Pianificazione e nei dettagli della voce.
+1. Questa campagna intelligente verrà ora visualizzata come confermata nella vista della pianificazione e nei dettagli della voce.
 
    ![](assets/image2014-9-23-15-3a29-3a57.png)
 
-Questo creerà una nuova campagna intelligente eseguita nel programma.
+In questo modo verrà creata una nuova campagna intelligente eseguita nel programma.
