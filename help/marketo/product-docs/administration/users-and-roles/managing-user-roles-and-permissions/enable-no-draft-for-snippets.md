@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10095636
-description: Abilita nessun progetto per snippet - Documenti Marketo - Documentazione prodotto
-title: Abilita nessuna bozza per gli snippet
+description: Abilita nessuna bozza per snippet - Documenti Marketo - Documentazione del prodotto
+title: Abilita nessuna bozza per snippet
+exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
+# Abilita nessuna bozza per snippet {#enable-no-draft-for-snippets}
 
-# Abilita No-Draft per snippet {#enable-no-draft-for-snippets}
+No-Draft per snippet consente di distribuire le modifiche allo snippet senza creare risorse approvate utilizzando tale opzione. Tutte le risorse che utilizzano il frammento modificato ottengono gli aggiornamenti e mantengono i rispettivi stati:
 
-No-Draft for Snippet consente di distribuire le modifiche apportate agli snippet senza creare risorse approvate. Tutte le risorse che utilizzano lo snippet modificato ottengono gli aggiornamenti e mantengono i rispettivi stati:
+* Le risorse approvate ricevono gli aggiornamenti del frammento e restano approvate
 
-* Le risorse approvate ottengono gli aggiornamenti degli snippet e restano approvate
+* Le bozze ricevono gli aggiornamenti del frammento e rimangono in modalità bozza
 
-* Le bozze ottengono gli aggiornamenti degli snippet e rimangono in modalità bozza
-
-Nessuna bozza viene abilitata automaticamente per tutti i ruoli Amministratore. Un amministratore può quindi abilitare questa funzione per qualsiasi ruolo aggiuntivo.
+Nessuna bozza viene abilitata automaticamente per tutti i ruoli di amministratore. Un amministratore può quindi abilitare questa funzione per qualsiasi ruolo aggiuntivo.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedete a **Admin** e fate clic su **Utenti e ruoli**.
+1. Vai a **Amministratore** e fai clic su **Utenti e ruoli**.
 
    ![](assets/usersandroles.png)
 
@@ -37,18 +37,18 @@ Nessuna bozza viene abilitata automaticamente per tutti i ruoli Amministratore. 
 
    ![](assets/expanddesignstudio.png)
 
-1. Espandete l&#39;opzione **Accedi allo snippet**.
+1. Espandi l’opzione **Accedi a snippet** .
 
    ![](assets/expandsnippet.png)
 
-1. Espandete l&#39;autorizzazione **Approva snippet** e selezionate la casella **No-Draft**. Fare clic su **Salva**.
+1. Espandi l’autorizzazione **Approva snippet** e seleziona la casella **No-Draft** . Quindi fai clic su **Salva**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
->Per disattivare No-Draft, seguire i passaggi da 1 a 4 sopra, deselezionare la casella di controllo No-Draft e fare clic su **Save**.
+>Per disattivare No-Draft, segui i passaggi 1-4 di cui sopra, deseleziona la casella di controllo No-Draft e fai clic su **Salva**.
 
 >[!MORELIKETHIS]
 >
->[Approvare uno snippet senza bozza](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Approvare uno snippet con nessuna bozza](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
