@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512278
-description: Aggiungi ReadyTalk come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
-title: Aggiungi ReadyTalk come servizio LaunchPoint
+description: Aggiungere ReadyTalk as a LaunchPoint Service - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere ReadyTalk as a LaunchPoint Service
+exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
+# Aggiungi ReadyTalk as a LaunchPoint Service {#add-readytalk-as-a-launchpoint-service}
 
-# Aggiungi ReadyTalk come servizio LaunchPoint {#add-readytalk-as-a-launchpoint-service}
-
-Marketo gestisce la registrazione e la partecipazione del webinar ReadyTalk.
+Marketo gestisce la registrazione e la partecipazione al webinar ReadyTalk.
 
 >[!NOTE]
 >
@@ -21,32 +21,32 @@ Marketo gestisce la registrazione e la partecipazione del webinar ReadyTalk.
 
 >[!NOTE]
 >
->Per questo passaggio è necessaria un&#39;iscrizione esistente a ReadyTalk e diritti di amministrazione. Disponete delle seguenti impostazioni: Numero di accesso, codice di accesso e passcode.
+>Per questo passaggio è necessario un abbonamento esistente a ReadyTalk e diritti di amministrazione. Disporre delle seguenti impostazioni: Numero di accesso, codice di accesso e codice di accesso.
 
-1. Accedete a **Admin** e fate clic su **ReadyTalk**.
+1. Vai a **Amministratore** e fai clic su **ReadyTalk**.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Selezionare **New**, quindi **New Service**.
+1. Selezionare **Nuovo**, quindi **Nuovo servizio**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Immettere un **nome visualizzato**. In **Service**, selezionare **ReadyTalk**.
+1. Immettere un **nome visualizzato**. In **Servizio**, selezionare **ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Immettere il **numero di accesso** e il **codice di accesso**.
+1. Immetti i **Numero di accesso** e **Codice di accesso**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
-1. Completare il processo immettendo la **Passcode** e facendo clic su **Create**.
+1. Completa il processo immettendo il **codice di accesso** e fai clic su **Crea**.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-L&#39;account **ReadyTalk** ora è sincronizzato con Marketo.
+L&#39;account **ReadyTalk** è ora sincronizzato con Marketo.
 
 ![](assets/readytalk.png)
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento con ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
+>Scopri come [creare un evento con ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
