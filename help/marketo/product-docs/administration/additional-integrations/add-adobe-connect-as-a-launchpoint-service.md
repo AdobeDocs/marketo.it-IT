@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512270
-description: Aggiungere  Adobe Connect come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
-title: Aggiungere  Adobe Connect come servizio LaunchPoint
+description: Aggiungere Adobe Connect as a LaunchPoint Service - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere Adobe Connect as a LaunchPoint Service
+exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
+# Aggiungere Adobe Connect as a LaunchPoint Service {#add-adobe-connect-as-a-launchpoint-service}
 
-# Aggiungi  Adobe Connect come servizio LaunchPoint {#add-adobe-connect-as-a-launchpoint-service}
-
-Marketo gestisce la registrazione e la partecipazione  webinar Adobe Connect.
+Marketo gestisce la registrazione e la partecipazione al webinar Adobe Connect.
 
 >[!NOTE]
 >
@@ -21,44 +21,44 @@ Marketo gestisce la registrazione e la partecipazione  webinar Adobe Connect.
 
 >[!NOTE]
 >
->Per questo passaggio è necessaria un&#39;iscrizione esistente a  diritti di amministrazione e Adobe Connect. Disponete delle seguenti impostazioni: nome utente, password, password del partecipante e URL della cartella della riunione.
+>Per questo passaggio è necessario un abbonamento esistente a Adobe Connect e ai diritti di amministrazione. Disporre delle seguenti impostazioni: nome utente, password, password del partecipante e URL della cartella riunioni.
 
 >[!NOTE]
 >
-> Adobe Connect On Site al momento non è supportato.
+>Adobe Connect On Site non è attualmente supportato.
 
-1. Accedete a **Admin** e fate clic su **LaunchPoint**.
+1. Vai a **Amministratore** e fai clic su **LaunchPoint**.
 
    ![](assets/image2015-4-22-11-3a33-3a51.png)
 
-1. Selezionare **New**, quindi **New Service**.
+1. Selezionare **Nuovo**, quindi **Nuovo servizio**.
 
    ![](assets/image2015-4-22-11-3a40-3a19.png)
 
-1. Immettere un **nome visualizzato**. In **Service**, selezionare  Adobe Connect.
+1. Immettere un **nome visualizzato**. In **Servizio**, seleziona Adobe Connect.
 
    ![](assets/new-service-adobe-connect.png)
 
-1. Immettere il **Nome utente** e il **Codice di accesso**.
+1. Inserisci i **Nome utente** e **Codice di accesso**.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Completate il processo immettendo l&#39; **URL cartella riunioni** e **Password partecipante**, quindi fate clic su **Crea**.
+1. Completa il processo immettendo l&#39;URL della **Cartella riunioni** e **Password partecipante**, quindi fai clic su **Crea**.
 
    ![](assets/image2015-4-22-11-3a55-3a36.png)
 
    >[!TIP]
    >
-   >Quando create la password del partecipante, il valore scelto viene incluso in una stringa di query quando i collegamenti vengono inviati per l’evento. Suggeriamo quindi di renderlo più semplice per i clienti.
+   >Quando si crea la password del partecipante, il valore scelto viene incluso in una stringa di interrogazione quando i collegamenti vengono inviati per l’evento. Quindi, ti suggeriamo di renderlo più facile da usare.
 
    >[!NOTE]
    >
-   >Dopo aver effettuato l&#39;accesso al vostro account Adobe Connect , selezionate la scheda **Seminari**. Senza eseguire il drill-down in un seminario specifico, copiate l&#39;URL dalla barra del browser nell&#39;impostazione **URL cartella riunioni**.
+   >Dopo aver effettuato l’accesso al tuo account Adobe Connect, seleziona la scheda **Seminari** . Senza eseguire il drilling verso il basso in un seminario specifico, copia l&#39;URL dalla barra del browser nell&#39;impostazione **URL cartella riunioni**.
 
-Il servizio Adobe Connect  ora è sincronizzato con Marketo!
+Il servizio Adobe Connect è ora sincronizzato con Marketo.
 
 ![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Scoprite come [creare un evento con  Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
+>Scopri come [creare un evento con Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
