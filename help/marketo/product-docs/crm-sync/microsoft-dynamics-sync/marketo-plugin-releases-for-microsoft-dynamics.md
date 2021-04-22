@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099389
-description: Versioni di Marketo Plugin per Microsoft Dynamics - Documenti Marketo - Documentazione del prodotto
-title: Versioni di Marketo Plugin per Microsoft Dynamics
+description: Rilasci di plug-in Marketo per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
+title: Versioni plug-in di Marketo per Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
 
 ---
 
-
-# Versioni di Marketo Plugin per Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+# Rilasci di plug-in Marketo per Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
 La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la versione più recente dei plug-in per Marketo. Marketo aggiorna periodicamente questi plug-in, in modo da poter tornare alla stessa posizione in cui scaricare la nuova versione.
 
@@ -53,7 +53,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">27/06/18</td> 
-   <td colspan="1">Correzione bug: Errore del processo aziendale durante il tentativo di installare le soluzioni Marketo per Dynamics 2013.</td> 
+   <td colspan="1">Correzione bug: Errore del processo aziendale durante il tentativo di installazione delle soluzioni Marketo per Dynamics 2013.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -86,7 +86,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
    <td colspan="1">Correzione bug: Quando il lead aveva un filtro di sincronizzazione impostato su NO e l’opportunità e il contatto non disponevano di un filtro di sincronizzazione, il registro di creazione non veniva generato per il contatto e l’opportunità quando il lead era qualificato.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">2.0.0.16</td> 
    <td colspan="1">29/03/16</td> 
    <td>Correzione bug: Un evento di assegnazione è stato registrato quando il filtro di sincronizzazione è stato disattivato.</td> 
   </tr> 
@@ -115,4 +115,4 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
 
 >[!MORELIKETHIS]
 >
->[Scarica la soluzione Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Scarica la soluzione Marketo per la gestione dei lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
