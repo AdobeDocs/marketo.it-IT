@@ -2,46 +2,46 @@
 unique-page-id: 7504130
 description: Creare un obiettivo personalizzato - Documenti Marketo - Documentazione del prodotto
 title: Creare un obiettivo personalizzato
+exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
 # Creare un obiettivo personalizzato {#create-a-custom-goal}
 
-Gli obiettivi sono modi per monitorare il progresso e motivare il team. Una volta creati, devono essere aggiornati manualmente.
+Gli obiettivi sono modi per monitorare il progresso e motivare il tuo team. Una volta creati, devono essere aggiornati manualmente.
 
-Come per le presentazioni, gli obiettivi sono specifici di [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Come per le presentazioni, gli obiettivi sono specifici per [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Fare clic su **Presentation** nell&#39;angolo in basso a destra.
+1. Fai clic su **Presentazione** nell&#39;angolo in basso a destra.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selezionare la scheda **Obiettivi**.
+1. Seleziona la scheda **Obiettivi** .
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Trascinare **Custom Goal** nell&#39;area di lavoro.
+1. Trascina **Obiettivo personalizzato** nell’area di lavoro.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Immettete un nome per l’obiettivo. Selezionare una **Valuta**.
+1. Immettere un nome per l&#39;obiettivo. Selezionare una **Valuta**.
 
    >[!NOTE]
    >
-   >Se l&#39;obiettivo non è un valore monetario, è possibile selezionare **None**.
+   >Se l&#39;obiettivo non è un valore monetario, è possibile selezionare **Nessuno**.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Immettete un valore per la **destinazione obiettivo** e per il **valore corrente** (in assenza di uno, **immettere 0**). Fare clic su **Crea**.
+1. Immetti un valore per la **Destinazione obiettivo** e per il **Valore corrente** (se non esiste, **immetti 0**). Quindi fai clic su **Crea**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
