@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359416
-description: Risposta automatica e-mail - Documenti Marketo - Documentazione prodotto
+description: Risposta automatica e-mail - Documenti Marketo - Documentazione del prodotto
 title: Risposta automatica e-mail
+exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
 
 ---
-
 
 # Risposta automatica e-mail {#email-auto-response}
 
@@ -21,77 +21,77 @@ ht-degree: 0%
 >* [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## Passaggio 1: Creare un&#39;e-mail {#step-create-an-email}
+## Passaggio 1: Creare un messaggio e-mail {#step-create-an-email}
 
-1. Andate all&#39;area Attività di marketing.
+1. Vai all’area Attività di marketing .
 
    ![](assets/one-2.png)
 
-1. Selezionate Programma personale nel menu a sinistra, fate clic sul menu a discesa Nuovo e selezionate Nuova risorsa locale.
+1. Seleziona Programma nel menu a sinistra, fai clic sul menu a discesa Nuovo e seleziona Nuova risorsa locale.
 
    ![](assets/two-3.png)
 
-1. Fate clic su E-mail.
+1. Fai clic su E-mail.
 
    ![](assets/three-2.png)
 
-1. Assegnate al messaggio e-mail il nome &quot;E-mail di risposta automatica&quot;, scegliete un modello e fate clic su Crea.
+1. Denomina l&#39;e-mail &quot;Auto Response Email&quot;, scegli un modello e fai clic su Crea.
 
    ![](assets/four-1.png)
 
-   Viene aperto un editor e-mail in una nuova finestra o scheda. Se i pop-up sono bloccati, fate clic su **Modifica bozza** nella pagina di riepilogo delle risorse per accedere al messaggio e-mail.
+   Viene aperto un editor e-mail in una nuova finestra o scheda. Se i pop-up sono bloccati, fai clic su **Modifica bozza** nella pagina di riepilogo delle risorse per accedere al messaggio e-mail.
 
-1. Immettete un oggetto e fate doppio clic sull’area modificabile dell’e-mail.
+1. Inserisci un oggetto, quindi fai doppio clic sull’area modificabile dell’e-mail.
 
    ![](assets/five-2.png)
 
-   _Viene aperto un editor Rich Text sopra all’editor e-mail._
+   _Viene aperto un editor Rich Text sopra l’editor e-mail._
 
 1. Evidenzia il contenuto dell’e-mail esistente.
 
    ![](assets/six-2.png)
 
-1. Digitate il contenuto e-mail e fate clic su Salva.
+1. Digita il contenuto dell’e-mail e fai clic su Salva.
 
    ![](assets/seven-2.png)
 
-1. Le modifiche vengono salvate automaticamente. Chiudete la scheda o la finestra dell’editor e-mail.
+1. Le modifiche vengono salvate automaticamente. Chiudi la scheda/finestra dell’editor e-mail.
 
    ![](assets/eight-1.png)
 
-1. Selezionate il nuovo messaggio e-mail. In Azioni e-mail fare clic su Approva.
+1. Seleziona il nuovo messaggio e-mail. In Azioni e-mail fare clic su Approva.
 
    ![](assets/image2014-9-24-11-3a55-3a16.png)
 
-## Passaggio 2: Creare una campagna intelligente {#step-create-a-smart-campaign}
+## Passaggio 2: Creare una campagna avanzata {#step-create-a-smart-campaign}
 
-1. Fare clic con il pulsante destro del mouse su **My Program** e scegliere **New Smart Campaign**.
+1. Fai clic con il pulsante destro del mouse su **Il mio programma** e fai clic su **Nuova campagna avanzata**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Denominate** la campagna intelligente &quot;Auto Response Campaign&quot; e fate clic su  **Crea**.
+1. **** Denomina la campagna intelligente &quot;Auto Response Campaign&quot; e fai clic su  **Crea**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Passate alla scheda **Smart List**.
+1. Vai alla scheda **Smart List** .
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
    Questa campagna viene impostata per essere eseguita ogni volta che una persona compila il modulo creato in [**Pagina di destinazione con un modulo**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
-1. Individuare e trascinare il trigger **Riempie il modulo** nell&#39;area di lavoro sinistra.
+1. Trova e trascina il trigger **Riempie il modulo** nell’area di lavoro a sinistra.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Selezionare **Modulo** nell&#39;elenco a discesa. Fare clic sulla scheda **Flusso**.
+1. Seleziona **Modulo** nel menu a discesa. Fare clic sulla scheda **Flusso**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Trascinare l&#39;azione di flusso **Invia e-mail** sul quadro sinistro.
+1. Trascina l’azione di flusso **Invia e-mail** nell’area di lavoro a sinistra.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Selezionare il **messaggio di risposta automatica** e passare alla scheda **Schedule**.
+1. Seleziona la tua **E-mail di risposta automatica** e vai alla scheda **Pianificazione** .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/8.png)
 
-1. Selezionare **ogni volta** e fare clic su **Salva**.
+1. Seleziona **ogni volta** e fai clic su **Salva**.
 
    ![](assets/9.png)
 
@@ -107,17 +107,17 @@ ht-degree: 0%
 
    ![](assets/10.png)
 
-1. Fare clic su **Attiva** nella schermata di conferma.
+1. Fai clic su **Attiva** nella schermata di conferma.
 
    ![](assets/11.png)
 
 >[!NOTE]
 >
->Una volta attiva, questa campagna viene eseguita ogni volta che una persona compila il modulo specificato. La campagna continuerà a essere attiva finché non verrà disattivata.
+>Una volta attivata, questa campagna viene eseguita ogni volta che una persona compila il modulo specificato. La campagna continuerà a essere in esecuzione finché non viene disattivata.
 
-## Passaggio 3: Compilare il modulo {#step-fill-out-the-form}
+## Passaggio 3: Compila il modulo {#step-fill-out-the-form}
 
-1. Selezionare **My Page**. Questo è stato creato nella [pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+1. Seleziona **Pagina personale**. Questa operazione è stata creata nella [pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -125,7 +125,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
-   La pagina di destinazione &quot;Versione di prova gratuita&quot; verrà aperta in una nuova scheda.
+   La pagina di destinazione &quot;Prova gratuita&quot; si aprirà in una nuova scheda.
 
 1. Compila il modulo con il tuo nome, cognome e indirizzo e-mail, quindi fai clic su **Invia**.
 
@@ -133,11 +133,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Accertatevi di usare il vostro indirizzo e-mail effettivo per ricevere l&#39;e-mail.
+>Assicurati di utilizzare il tuo indirizzo e-mail effettivo in modo da poter ricevere l&#39;e-mail.
 
 ## Missione completata {#mission-complete}
 
-Nel giro di pochi minuti dovreste visualizzare il messaggio e-mail di risposta automatica nella vostra inbox. Ottimo lavoro!
+Nel giro di pochi minuti dovresti visualizzare l’e-mail di risposta automatica nella tua casella in entrata. Ottimo lavoro!
 
 <br> 
 
