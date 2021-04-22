@@ -2,14 +2,14 @@
 unique-page-id: 10100311
 description: Utilizzo di un ID universale per l’accesso all’abbonamento - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di un ID universale per l’accesso all’abbonamento
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
-
 
 # Utilizzo di un ID universale per l’accesso alla sottoscrizione {#using-a-universal-id-for-subscription-login}
 
@@ -21,7 +21,7 @@ Le impostazioni a livello di iscrizione vengono rispettate per gli utenti che ut
 
 ## Impostazione di un ID universale {#setting-up-a-universal-id}
 
-Da ogni singola istanza, l’amministratore di Marketo deve invitarti a ciascuno dei tuoi diversi abbonamenti con lo stesso accesso. Marketo non può unire automaticamente gli accessi esistenti. Dopo aver abilitato l&#39;ID universale, **l&#39;istanza Marketo non sarà disponibile** per un massimo di 30 minuti. Se hai una base di utenti più ampia, potrebbe essere un po&#39; più lunga.
+Da ogni singola istanza, il tuo amministratore Marketo deve invitarti a ciascuno dei tuoi diversi abbonamenti con lo stesso accesso. Marketo non può unire automaticamente gli accessi esistenti. Dopo aver abilitato l&#39;ID universale, **l&#39;istanza Marketo non sarà disponibile** per un massimo di 30 minuti. Se hai una base di utenti più ampia, potrebbe essere un po&#39; più lunga.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Da ogni singola istanza, l’amministratore di Marketo deve invitarti a ciascuno
 
 ## Accesso {#logging-in}
 
-Quando effettui l’accesso per accettare un invito per un secondo abbonamento utilizzando un ID universale, verrà visualizzata la pagina di accesso di Opt-in. In questo caso, devi selezionare una casella di controllo per accettare i termini e le condizioni. Dopo aver accettato, visualizzerai la pagina di ripristino normale, non questa, per tutti gli accessi successivi. Accettando i termini e le condizioni, consente a Markedi distribuire i dati di profilo di base (come nome, cognome e indirizzo e-mail) ai centri dati in posizioni diverse in cui è ospitato l’abbonamento.
+Quando effettui l’accesso per accettare un invito per un secondo abbonamento utilizzando un ID universale, verrà visualizzata la pagina di accesso di Opt-in. In questo caso, devi selezionare una casella di controllo per accettare i termini e le condizioni. Dopo aver accettato, visualizzerai la pagina di ripristino normale, non questa, per tutti gli accessi successivi. Accettando i termini e le condizioni, consente a Marketo di distribuire i dati di profilo di base (come nome, cognome e indirizzo e-mail) ai centri dati in posizioni diverse in cui è ospitato l’abbonamento.
 
 ![](assets/new-login-reduced-hands-name.png)
 
@@ -49,7 +49,7 @@ Con un ID universale per più abbonamenti, puoi solo modificare la password.
 
 >[!NOTE]
 >
->Marketo chiederà agli utenti che desiderano utilizzare l’ID universale di reimpostare la password se la password dell’abbonamento corrente non è conforme ai criteri di password della seconda sottoscrizione a cui sono invitati.
+>Marketo chiederà agli utenti che desiderano utilizzare l’ID universale di reimpostare la password se la password dell’abbonamento corrente non è conforme ai criteri per le password del secondo abbonamento al quale sono invitati.
 
 ## Passaggio tra sottoscrizioni {#switching-between-subscriptions}
 
@@ -65,11 +65,11 @@ Se disponi di più abbonamenti, puoi avere più profili di community. È consigl
 
 ## Piattaforma mobile {#mobile-platform}
 
-Gli utenti con ID universale possono visualizzare i propri dati su Marketo Moments e sull’applicazione di check-in degli eventi dell’iPad dall’abbonamento a cui hanno effettuato l’ultimo accesso. Non è possibile modificare gli abbonamenti dalla piattaforma Mobile stessa.
+Gli utenti con ID universale possono visualizzare i propri dati su Marketo Moments e sull’applicazione di check-in degli eventi per iPad dall’abbonamento a cui hanno effettuato l’ultimo accesso. Non è possibile modificare gli abbonamenti dalla piattaforma Mobile stessa.
 
 >[!MORELIKETHIS]
 >
 >* [Aggiungere Single Sign-On a un portale](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [Limita accesso utente solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitare gli utenti di Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Invitare gli utenti Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
