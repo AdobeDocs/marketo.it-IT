@@ -1,14 +1,14 @@
 ---
 description: Stato di sincronizzazione Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Stato di sincronizzazione Salesforce
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
 
 ---
-
 
 # Stato di sincronizzazione Salesforce {#salesforce-sync-status}
 
@@ -231,7 +231,7 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
   <tr> 
    <td colspan="1">Sincronizza con il programma</td> 
    <td colspan="1">Campagne</td> 
-   <td colspan="1">Programma Syncs Marketo con le campagne SFDC</td> 
+   <td colspan="1">Sincronizza il programma Marketo con le campagne SFDC</td> 
    <td colspan="1">Nuovo, Aggiornamenti, Non riuscito o ignorato</td>
   </tr> 
   <tr> 
