@@ -1,53 +1,53 @@
 ---
 unique-page-id: 2360272
-description: Creare un nuovo tag e valori di tag del programma - Marketo Docs - Documentazione del prodotto
-title: Creare un nuovo tag e nuovi valori tag del programma
+description: Creare un nuovo tag e valori di tag del programma - Documentazione di Marketo - Documentazione del prodotto
+title: Creare un nuovo tag e valori tag del programma
+exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-
-# Creare un nuovo tag del programma e valori dei tag {#create-a-new-program-tag-and-tag-values}
+# Creare un nuovo tag e valori tag del programma {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-È possibile creare [tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizzati per i programmi e assegnare valori al tag.
+Puoi creare [tag personalizzati](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) per i tuoi programmi e assegnare valori al tag .
 
 >[!NOTE]
 >
 >**Esempio**
 >
->Tag programma: Destinatari Target
+>Tag del programma: Pubblico di Target
 >
->Valore tag programma: SMB, Enterprise, Media Market
+>Valore tag programma: SMB, Enterprise, Mid-Market
 
-1. In **Admin**, fare clic su **Tags**.
+1. In **Amministratore**, fai clic su **Tag**.
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
-1. Fare clic su **Nuovo** e selezionare **Nuovo tipo di tag**.
+1. Fai clic su **Nuovo** e seleziona **Nuovo tipo di tag**.
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Immettere il **Tipo di tag** e un tag **Valore**. Fare clic su **Aggiungi un altro**.
+1. Immetti il **Tipo di tag** e un tag **Valore**. Quindi fai clic su **Aggiungi un altro**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
-1. Immettete tutti i valori necessari. Selezionare i tipi di programma a cui applicare il tag.
+1. Immetti tutti i valori necessari. Selezionare i tipi di programma a cui applicare il tag.
 
    ![](assets/image2014-9-24-12-3a17-3a29.png)
 
    >[!TIP]
    >
-   >È possibile selezionare più tipi di programmi. Quando viene creato un nuovo programma, questo tipo di tag sarà disponibile.
+   >È possibile selezionare più tipi di programma. Quando viene creato un nuovo programma, questo tipo di tag sarà disponibile.
 
-1. Selezionare **Obbligatorio** e fare clic su **Crea**.
+1. Seleziona **Obbligatorio** e fai clic su **Crea**.
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
