@@ -1,14 +1,14 @@
 ---
 description: Errori di sincronizzazione Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Errori di sincronizzazione Salesforce
+exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Errori di sincronizzazione Salesforce {#salesforce-sync-errors}
 
