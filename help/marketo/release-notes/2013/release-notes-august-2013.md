@@ -1,64 +1,64 @@
 ---
 unique-page-id: 2951058
-description: Note sulla versione - Agosto 2013 - Documenti Marketo - Documentazione prodotto
+description: Note sulla versione - Agosto 2013 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Agosto 2013
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
+# Note sulla versione: Agosto 2013{#release-notes-august}
 
-# Note sulla versione: Agosto 2013 {#release-notes-august}
+Le seguenti funzionalità sono incluse nella versione di agosto 2013.
 
-Le seguenti funzionalità sono incluse nella release di agosto 2013.
+**E-mail solo testo**
 
-**Solo testo e-mail**
-
-Ora è possibile inviare [solo la versione di testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) di un&#39;e-mail. Ricorda che i collegamenti non verranno decorati quando si utilizza questa opzione.
+Ora puoi inviare [solo la versione di testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) di un&#39;e-mail. Tieni presente che i collegamenti non verranno decorati quando utilizzi questa opzione.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
-## Miglioramenti del motore di coinvolgimento dei clienti {#customer-engagement-engine-enhancements}
+## Miglioramenti al motore di coinvolgimento del cliente {#customer-engagement-engine-enhancements}
 
 ### Ignora contenuto esaurito {#ignore-exhausted-content}
 
-Configurate il programma di coinvolgimento su [ignorate l&#39;esaurimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), inclusa la soppressione di eventuali notifiche.
+Configura il programma di coinvolgimento per [ignorare l&#39;esaurimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), inclusa l&#39;eliminazione di eventuali notifiche.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Test del flusso di coinvolgimento {#engagement-stream-testing}
 
-Utilizzate la [nuova funzione di test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) per simulare un cast e testare il contenuto appena aggiunto a un flusso live.
+Utilizza la [nuova funzione di test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) per simulare un cast e testare il contenuto appena aggiunto a un flusso live.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
 ## Test di invio personalizzato {#personalized-send-test}
 
-Quando inviate un test e-mail, potete selezionare il nome di un lead per personalizzare il messaggio e-mail di prova.
+Quando invii un test e-mail, puoi selezionare il nome di un lead per personalizzare l’e-mail di test.
 
 ![](assets/image2014-9-22-16-3a35-3a15.png)
 
-## &quot;Visualizza e-mail come pagina Web&quot; e &quot;Annulla sottoscrizione&quot; Token di sistema {#view-email-as-web-page-and-unsubscribe-system-tokens}
+## Token di sistema &quot;Visualizza e-mail come pagina web&quot; e &quot;Annulla sottoscrizione&quot; {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Utilizzate questi [nuovi token](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) per controllare meglio il loro posizionamento nelle e-mail.
+Utilizza questi [nuovi token](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) per fornire un maggiore controllo sul loro posizionamento nelle e-mail.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## Pulizia automatica campagna trigger {#automatic-trigger-campaign-cleanup}
+## Pulizia automatica della campagna di attivazione {#automatic-trigger-campaign-cleanup}
 
-Marketo ti avviserà periodicamente e [disattiverà automaticamente le campagne attivatore](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) che non sono state eseguite negli ultimi sei mesi.
+Marketo ti avviserà periodicamente e disattiverà automaticamente le campagne trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) che non sono state eseguite negli ultimi sei mesi.[
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Miglioramento della gestione finanziaria del marketing {#marketo-financial-management-enhancement}
+## Miglioramento di Marketo Financial Management {#marketo-financial-management-enhancement}
 
-### Aggiornamento costi programma {#program-cost-update}
+### Aggiornamento dei costi del programma {#program-cost-update}
 
-La sincronizzazione dei costi del programma consente di monitorare i costi del programma su più piattaforme.
+La sincronizzazione dei costi dei programmi consente il tracciamento dei costi dei programmi su più piattaforme.
 
 ### Interfaccia utente Cobalt {#cobalt-user-interface}
 
-Stiamo continuando il lancio della nostra nuova interfaccia Cobalt. Questo progetto renderà tutto in Marketo super snappy! L&#39;aggiornamento continuerà fino al resto dell&#39;anno.
+Stiamo continuando il rollout della nostra nuova interfaccia Cobalt. Questo progetto renderà tutto in Marketo super snappy! L&#39;aggiornamento continuerà per il resto dell&#39;anno.
