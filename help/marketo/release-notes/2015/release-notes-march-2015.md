@@ -2,18 +2,18 @@
 unique-page-id: 6095037
 description: Note sulla versione - Marzo 2015 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Marzo 2015
+exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # Note sulla versione: Marzo 2015 {#release-notes-march}
 
-Le seguenti funzionalità sono incluse nella versione di marzo 2015. Per informazioni sulla disponibilità delle funzioni, controlla la tua versione di Marketo Edition. Dopo il rilascio, assicurati di tornare a trovare collegamenti ad articoli dettagliati per ciascuna funzione.
+Le seguenti funzionalità sono incluse nella versione di marzo 2015. Per informazioni sulla disponibilità delle funzioni, controlla la tua Marketo Edition. Dopo il rilascio, assicurati di tornare a trovare collegamenti ad articoli dettagliati per ciascuna funzione.
 
 ## Calendario HD {#calendar-hd}
 
@@ -27,7 +27,7 @@ Mostra le attività di marketing del tuo team con la nuova modalità di presenta
 
 ## Integrazione di Google Adwords {#google-adwords-integration}
 
-Collega il tuo account [Google AdWords a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall’interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di ricavo desideri monitorare).
+Collega l&#39;account [Google AdWords a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall’interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di ricavo desideri monitorare).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -49,7 +49,7 @@ Supportato con l&#39;ultimo programma di installazione ora [accessibile tramite 
 
 ## RTP - Web Engagement personalizzato con dati lead {#rtp-personalized-web-engagement-with-lead-data}
 
-Utilizza i [campi dati lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) disponibili nel database lead di Marketo per creare segmentazione in tempo reale e campagne di contenuti personalizzati. Gestisci i campi dei dati lead in RTP e aggiungi/elimina i campi pertinenti per i lead.
+Utilizza i [campi dati lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) disponibili nel database lead di Marketo per creare segmentazione in tempo reale e campagne di contenuto personalizzato. Gestisci i campi dei dati lead in RTP e aggiungi/elimina i campi pertinenti per i lead.
 
 ## RTP - Personalizza il contenuto web per e-mail o nome della campagna del programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
