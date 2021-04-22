@@ -2,29 +2,29 @@
 unique-page-id: 7503971
 description: Creare una presentazione - Documenti Marketo - Documentazione del prodotto
 title: Creare una presentazione
+exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
 # Creare una presentazione {#create-a-presentation}
 
-Create una presentazione per proiettare le visualizzazioni e gli obiettivi del calendario del team su un HDTV. Presentations è specifico per Workspace.
+Crea una presentazione per proiettare le visualizzazioni e gli obiettivi del calendario del tuo team su un HDTV. Presentations è specifico per Workspace.
 
 >[!AVAILABILITY]
 >
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
 1. Vai al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Fare clic su **Presentation** nell&#39;angolo in basso a destra.
+1. Fai clic su **Presentazione** nell&#39;angolo in basso a destra.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
@@ -32,7 +32,7 @@ Create una presentazione per proiettare le visualizzazioni e gli obiettivi del c
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Scegliete un nome per la presentazione. Fare clic su **Crea**.
+1. Scegliere un nome per la presentazione. Fare clic su **Crea**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
