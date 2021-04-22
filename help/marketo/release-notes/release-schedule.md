@@ -2,14 +2,14 @@
 unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
+exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # Pianificazione rilascio {#release-schedule}
 
