@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360291
-description: Aggiornamento blocco di un campo - Documenti Marketo - Documentazione del prodotto
+description: Blocco degli aggiornamenti di un campo - Marketo Docs - Documentazione del prodotto
 title: Blocca aggiornamenti di un campo
+exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Blocca aggiornamenti a un campo {#block-updates-to-a-field}
 
@@ -37,4 +37,4 @@ Il blocco degli aggiornamenti a un campo consente di scrivere una sola volta nel
 
    >[!CAUTION]
    >
-   >Durante l’importazione di un elenco, lo stato di un campo bloccato nell’anteprima importazione viene visualizzato solo se il campo viene riconosciuto automaticamente da Marketo in base al nome del campo corrispondente _esattamente_ (o se sono stabiliti alias). Se il campo viene selezionato manualmente dal menu a discesa Campo Marketo , lo stato bloccato non verrà visualizzato nell’anteprima di importazione, ma il blocco dell’aggiornamento a tale campo verrà comunque implementato.
+   >Durante l’importazione di un elenco, lo stato di un campo bloccato nell’anteprima importazione viene visualizzato solo se il campo viene riconosciuto automaticamente da Marketo in base al nome del campo corrispondente _esattamente_ (o se sono stabiliti alias). Se il campo viene selezionato manualmente dal menu a discesa Campo Marketo, lo stato bloccato non verrà visualizzato nell’anteprima di importazione, ma il blocco dell’aggiornamento a tale campo verrà comunque implementato.
