@@ -2,14 +2,14 @@
 unique-page-id: 1146995
 description: Utilizzare i token nei passaggi del flusso - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare i token nei passaggi del flusso
+exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
-
 
 # Utilizza i token nei passaggi del flusso {#use-tokens-in-flow-steps}
 
