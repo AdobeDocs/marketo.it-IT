@@ -1,28 +1,28 @@
 ---
 unique-page-id: 2953325
-description: Visualizza dettagli voce - Documenti Marketo - Documentazione prodotto
+description: Visualizza i dettagli della voce - Documentazione Marketo - Documentazione del prodotto
 title: Visualizza dettagli voce
+exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
+# Visualizza dettagli di ingresso {#view-entry-details}
 
-# Visualizza dettagli voce {#view-entry-details}
+Quando visualizzi i dettagli della voce nel calendario di marketing, puoi vedere tutta una serie di elementi interessanti relativi a una voce.
 
-Quando visualizzate i dettagli delle voci nel calendario di marketing, potete vedere tutta una serie di elementi interessanti relativi a una voce.
-
-1. Selezionare una voce dal calendario.
+1. Seleziona una voce dal calendario.
 
    ![](assets/image2014-9-26-10-3a30-3a44.png)
 
-1. Le voci sono di sola lettura nel calendario di marketing. Individuare il programma da modificare.
+1. Le voci sono di sola lettura nel calendario di marketing. Passa al programma per apportare modifiche.
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
 >[!TIP]
 >
->Prova a fare clic con il pulsante destro del mouse sui dettagli a destra. Potete visualizzare i menu per navigare o visualizzare gli editor. Bello, vero?
+>Prova a fare clic con il pulsante destro del mouse sui dettagli a destra. Potete vedere i menu per navigare o visualizzare gli editor. Bello, vero?
