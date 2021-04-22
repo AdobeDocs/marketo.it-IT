@@ -2,14 +2,14 @@
 unique-page-id: 42762511
 description: Configurazione della condivisione del pubblico di Adobe Experience Cloud - Documenti Marketo - Documentazione del prodotto
 title: Configurare la condivisione del pubblico di Adobe Experience Cloud
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Impostare la condivisione del pubblico di Adobe Experience Cloud {#set-up-adobe-experience-cloud-audience-sharing}
 
