@@ -2,32 +2,32 @@
 unique-page-id: 557318
 description: Aggiornare un elenco o un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Aggiornare un elenco o un elenco avanzato
+exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # Aggiornare un elenco o un elenco avanzato {#refresh-a-list-or-smart-list}
 
-Se hai eseguito una smart list e sono passati alcuni minuti, ora i risultati potrebbero essere diversi - aggiorna per scoprirlo.
+Se hai eseguito una lista intelligente e sono passati alcuni minuti, i risultati potrebbero essere diversi ora - aggiornamento per scoprire.
 
 ## Aggiorna risultati {#refresh-results}
 
-1. Per aggiornare i dati nella scheda **Persone** di un elenco avanzato, fare clic sull&#39;icona di aggiornamento.
+1. Per aggiornare i dati nella scheda **Persone** di un elenco smart, fai clic sull’icona di aggiornamento.
 
    ![](assets/refreshbutton.png)
 
-1. L’elenco smart viene eseguito di nuovo e mostra un set di risultati più aggiornato.
+1. L’elenco avanzato viene eseguito nuovamente e mostra un set di risultati più aggiornato.
 
    ![](assets/loadingrefresh.png)
 
 >[!TIP]
 >
->A volte, quando si esegue una smart list e ci si torna più tardi, si potrebbe vedere la parola &quot;About&quot; davanti al conteggio delle persone nell&#39;angolo in basso a destra. Questo indica che il numero è approssimativo - fare clic sul conteggio stesso per aggiornarlo e ottenere un conteggio aggiornato e accurato.
+>A volte quando esegui una lista intelligente e ci torni più tardi, potresti vedere la parola &quot;Informazioni&quot; davanti al conteggio delle persone nell&#39;angolo in basso a destra. Questo indica che il numero è approssimativo - fai clic sul conteggio stesso per aggiornarlo e ottenere un conteggio aggiornato e accurato.
 
 >[!MORELIKETHIS]
 >
