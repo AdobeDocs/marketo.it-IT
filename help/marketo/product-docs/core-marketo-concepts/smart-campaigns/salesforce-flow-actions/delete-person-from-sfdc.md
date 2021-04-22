@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147031
-description: Elimina persona da SFDC - Marketo Docs - Documentazione prodotto
+description: Elimina persona da SFDC - Documentazione Marketo - Documentazione del prodotto
 title: Elimina persona da SFDC
+exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Elimina persona da SFDC {#delete-person-from-sfdc}
 
-Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come utenti in Marketo, puoi utilizzare l’azione di flusso Elimina persona da SFDC.
+Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come persone in Marketo, puoi utilizzare l’azione di flusso Elimina persona da SFDC.
 
 >[!NOTE]
 >
 >Disponibile solo se integrato con Salesforce.
 
-1. Nel database, fai clic sulla persona da rimuovere da Salesforce. Fare clic su **Azioni persona** e selezionare **Salesforce**.
+1. Nel database fare clic sulla persona che si desidera rimuovere da Salesforce. Quindi fai clic su **Azioni personali** e seleziona **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
@@ -27,12 +27,12 @@ Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come utent
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Assicurarsi che l&#39;impostazione **Elimina in Marketo** sia **false**, quindi fare clic su **Esegui ora**.
+1. Assicurati che l&#39;impostazione **Elimina in Marketo** sia **false**, quindi fai clic su **Esegui ora**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
-   Una volta eseguito il passaggio del flusso, la persona non sarà più un lead in Salesforce ma rimarrà in Marketo.
+   Una volta eseguito il passaggio del flusso, la tua persona non sarà più un lead in Salesforce ma rimarrà in Marketo.
 
    >[!CAUTION]
    >
-   >Se si imposta **Elimina in Marketo** su **true** ed elimina le persone da Marketo e i lead da Salesforce, questi non saranno più disponibili per sempre. Questo non può essere annullato.
+   >Se si imposta **Elimina in Marketo** su **true** ed elimini le persone da Marketo e i lead da Salesforce, sono spariti per sempre. Questo non può essere annullato.
