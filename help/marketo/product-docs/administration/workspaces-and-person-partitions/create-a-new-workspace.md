@@ -1,22 +1,22 @@
 ---
 unique-page-id: 2360311
-description: Creare una nuova area di lavoro - Documenti Marketo - Documentazione prodotto
+description: Creare un nuovo spazio di lavoro - Documentazione di Marketo - Documentazione del prodotto
 title: Creare una nuova area di lavoro
+exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
+# Creare un nuovo spazio di lavoro {#create-a-new-workspace}
 
-# Creare una nuova area di lavoro {#create-a-new-workspace}
+Le aree di lavoro sono utili per suddividere la tua azienda. I motivi per l’impostazione delle aree di lavoro includono:
 
-Le aree di lavoro sono utili per suddividere la società. I motivi per la configurazione delle aree di lavoro sono:
-
-* Geografia: Operazioni di marketing in Europa e operazioni di marketing in Nord America
-* Unità operativa A e unità operativa B
+* Informazioni geografiche: Operazioni di marketing in Europa e operazioni di marketing in Nord America
+* Business Unit A contro Business Unit B
 
 Come creare una nuova area di lavoro.
 
@@ -26,43 +26,43 @@ Come creare una nuova area di lavoro.
 
 >[!NOTE]
 >
->Comprendere prima con [Informazioni su aree di lavoro e partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Comprendi prima con [Informazioni sulle aree di lavoro e le partizioni di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Per ulteriori informazioni sulle procedure ottimali per Workspace, contattare [Marketing Professional Services](mailto:services@marketo.com).
+>Per ulteriori informazioni sulle best practice per Workspace, contatta [Marketo Professional Services](mailto:services@marketo.com).
 
-1. In **Admin**, fare clic su **Workspaces &amp; Partitions**.
+1. In **Amministratore**, fai clic su **Aree di lavoro e partizioni**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. Fare clic su **Nuova area di lavoro**.
+1. Fai clic su **Nuovo spazio di lavoro**.
 
    ![](assets/two-1.png)
 
-1. Immettere un **Nome** e selezionare le **Partizioni di persona** che si desidera utilizzare. Scegliere una **partizione di persona principale**.
+1. Inserisci un **Nome** e seleziona le **Partizioni di persona** che desideri utilizzare. Scegliere una **partizione della persona principale**.
 
    >[!NOTE]
    >
-   >Assicurarsi di [creare partizioni di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se non è già stato.
+   >Assicurati di [creare partizioni di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se non lo hai già fatto.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La casella di controllo **Tutte le partizioni di persona** indica che questa area di lavoro può utilizzare tutte le partizioni di persona nel sistema.
+   >La casella di controllo **Tutte le partizioni di persona** indica che l&#39;area di lavoro può utilizzare tutte le partizioni di persona nel sistema.
    >
-   >La **partizione di persona primaria** funge da impostazione predefinita ed è la posizione in cui verranno assegnate tutte le persone.
+   >La **partizione di persona primaria** agisce come predefinita ed è il punto in cui verranno assegnate tutte le persone.
 
    Se hai abilitato più domini con marchio, devi scegliere un dominio con marchio principale.
 
    ![](assets/four-1.png)
 
-1. Selezionate la lingua dell’area di lavoro.
+1. Selezionare la lingua dell’area di lavoro.
 
    >[!NOTE]
    >
-   >Al momento della creazione, Marketo presenterà le risorse campione nell’area di lavoro. La lingua consente agli oggetti predefiniti di essere in una lingua non inglese.
+   >Al momento della creazione, Marketo eseguirà il seeding delle risorse di esempio nell’area di lavoro. La lingua consente agli oggetti predefiniti di essere in una lingua non inglese.
 
    ![](assets/five.png)
 
@@ -70,8 +70,8 @@ Come creare una nuova area di lavoro.
 
    ![](assets/six.png)
 
-   Creare tutte le aree di lavoro necessarie e assegnare le partizioni di persona appropriate.
+   Creare tutte le aree di lavoro necessarie e assegnare loro le partizioni di persona appropriate.
 
-   Dopo aver creato l&#39;area di lavoro, è necessario visualizzare l&#39;aggiornamento.
+   Dopo aver creato l&#39;area di lavoro, dovresti vedere l&#39;aggiornamento.
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
