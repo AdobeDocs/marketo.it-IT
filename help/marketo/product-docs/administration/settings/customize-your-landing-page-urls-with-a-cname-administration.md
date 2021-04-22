@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360189
-description: Personalizzare gli URL delle pagine di destinazione con un CNAME (Amministrazione) - Marketo Docs - Documentazione prodotto
-title: Personalizzare gli URL della pagina di destinazione con un CNAME (Amministrazione)
+description: Personalizzare gli URL della pagina di destinazione con un CNAME (amministrazione) - Documenti Marketo - Documentazione del prodotto
+title: Personalizzare gli URL della pagina di destinazione con un CNAME (amministrazione)
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
+# Personalizza gli URL della pagina di destinazione con un CNAME (Amministrazione) {#customize-your-landing-page-urls-with-a-cname-administration}
 
-# Personalizzare gli URL delle pagine di destinazione con un CNAME (Amministrazione) {#customize-your-landing-page-urls-with-a-cname-administration}
-
-Anche se Marketo ospita le pagine di destinazione, l’URL deve essere personalizzato per la società.
+Anche se Marketo ospita le pagine di destinazione, l’URL deve essere personalizzato per la tua azienda.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Anche se Marketo ospita le pagine di destinazione, l’URL deve essere personali
 >
 >CNAME con marchio:
 >
->https://go.**YourCompany**.com/UnsuscribePage.html
+>https://go.**La tua azienda**.com/UnsuscribePage.html
 
 >[!NOTE]
 >
@@ -31,48 +31,48 @@ Anche se Marketo ospita le pagine di destinazione, l’URL deve essere personali
 
 Prepariamoci!
 
-1. Scegliete un CNAME.
+1. Scegli un CNAME.
 
    È la parte anteriore dell&#39;URL. Esempi:
 
    * **vai**.YourCompany.com/NameOfPage.html
    * **info**.YourCompany.com/NameOfPage.html
-   * **pagine** .YourCompany.com/NameOfPage.html
+   * **pagine**.YourCompany.com/NameOfPage.html
 
-   La parola (più YourCompany.com) è denominata CNAME. Ne avrete bisogno in un secondo momento, quindi prendetene nota.
+   La parola (più YourCompany.com) è denominata CNAME. Ne avrete bisogno in un secondo momento, quindi prendete nota.
 
-1. Trovate la stringa account.
+1. Trova la stringa account.
 
-1. Andate nell&#39;area **Admin** e fate clic su **Pagine di destinazione**.
+1. Vai all&#39;area **Amministratore** e fai clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Nella scheda **Pagine di destinazione**, copiare la stringa account dalla sezione Impostazioni.
+1. Nella scheda **Pagine di destinazione** , copia la stringa account dalla sezione Impostazioni.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
-1. Ne avrete bisogno anche in seguito, quindi prendete nota.
+1. Avrete anche bisogno di questo più tardi, quindi prendete nota di esso.
 
 1. Invia richiesta all&#39;IT.
 
-1. Chiedete al personale IT di impostare il seguente CNAME (sostituite la parola [CNAME] e [ACCOUNT STRING] con il testo del passaggio precedente):
+1. Chiedi al tuo personale IT di impostare i seguenti CNAME (sostituisci la parola [CNAME] e [ACCOUNT STRING] con il testo del passaggio precedente):
 
    [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
-1. Completate l’impostazione del CNAME.
+1. Completa l’impostazione del CNAME.
 
-1. Una volta che il CNAME è stato creato dal reparto IT, andate a **Admin** e fate clic su **Pagine di destinazione**.
+1. Una volta creato il CNAME, vai a **Amministratore** e fai clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Nella sezione **Impostazioni**, fare clic su **Modifica**.
+1. Nella sezione **Impostazioni**, fai clic su **Modifica**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Immettete il CNAME in **Nome di dominio per le pagine di destinazione**, immettete la pagina di fallback **Fallback**, immettete la pagina **Homepage** e fate clic su **Salva**.
+1. Inserisci il tuo CNAME in **Nome di dominio per le pagine di destinazione**, immetti la tua **Pagina di fallback**, immetti la tua **Home page** e fai clic su **Salva**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-La pagina di fallback contiene il reindirizzamento delle persone se la pagina di destinazione Marketo non è disponibile.
+La pagina di fallback è il percorso in cui le persone verranno reindirizzate se la pagina di destinazione di Marketo non è disponibile.
 
-Bel lavoro! Le pagine di destinazione sono ora personalizzate con il dominio della società.
+Bel lavoro! Le pagine di destinazione sono ora contrassegnate con il marchio del dominio aziendale.
