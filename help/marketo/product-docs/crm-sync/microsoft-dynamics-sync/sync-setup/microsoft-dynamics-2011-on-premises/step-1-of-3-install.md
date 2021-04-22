@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571805
-description: Passaggio 1 di 3 - Installare la soluzione Marketo (On-Premises 2011) - Marketo Docs - Documentazione del prodotto
+description: Passaggio 1 di 3 - Installare la soluzione Marketo (2011 On-Premises) - Marketo Docs - Documentazione del prodotto
 title: Passaggio 1 di 3 - Installare la soluzione Marketo (2011 On-Premises)
+exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-
-# Passaggio 1 di 3: Installare la soluzione Marketo (On-Premises 2011) {#step-of-install-the-marketo-solution-on-premises}
+# Passaggio 1 di 3: Installare la soluzione Marketo (2011 On-Premises) {#step-of-install-the-marketo-solution-on-premises}
 
 Prima di poter sincronizzare Microsoft Dynamics On-Premises e Marketo, è necessario installare la soluzione Marketo in Dynamics.
 
@@ -21,21 +21,21 @@ Prima di poter sincronizzare Microsoft Dynamics On-Premises e Marketo, è necess
 
 >[!PREREQUISITES]
 >
->È necessario che [Distribuzione su Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) sia configurato [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 o 3.0 (ADFS). **Nota**: Il documento IFD viene scaricato automaticamente quando si fa clic sul collegamento.
+>È necessario che sia configurato [Implementazione con interfaccia Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) con [Servizi federativi Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 o 3.0 (ADFS). **Nota**: Il documento IFD viene scaricato automaticamente quando fai clic sul collegamento.
 >
->[Scarica la ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) soluzione di gestione dei lead Marketo prima di iniziare.
+>[Scarica la ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) soluzione Marketo per la gestione dei lead prima di iniziare.
 
 >[!NOTE]
 >
->**Autorizzazioni di amministrazione di Dynamics richieste.**
+>**Autorizzazioni per l’amministrazione di Dynamics richieste.**
 >
->Per eseguire questa sincronizzazione, sono necessari i privilegi di amministratore CRM.
+>Per eseguire questa sincronizzazione è necessario disporre dei privilegi di amministratore CRM.
 
-1. Accedete a **Dynamics**, selezionate **Settings** nel menu in basso a sinistra.
+1. Accedi a **Dynamics**, seleziona **Impostazioni** nel menu in basso a sinistra.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. Selezionare **Soluzioni** nella struttura.
+1. Seleziona **Soluzioni** nella struttura.
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
@@ -43,31 +43,31 @@ Prima di poter sincronizzare Microsoft Dynamics On-Premises e Marketo, è necess
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Fare clic su **Sfoglia**. Selezionate la soluzione Marketing To Lead Management che avete [scaricato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fare clic su **Next**.
+1. Fare clic su **Sfoglia**. Seleziona la soluzione Marketo Lead Management scaricata [](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fare clic su **Avanti**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. Visualizzare le informazioni sulla soluzione e fare clic su **Visualizza i dettagli del pacchetto della soluzione**.
+1. Visualizza le informazioni sulla soluzione e fai clic su **Visualizza i dettagli del pacchetto della soluzione**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. Dopo aver controllato tutti i dettagli, fare clic su **Chiudi**.
+1. Dopo aver controllato tutti i dettagli, fai clic su **Chiudi**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Nella pagina Informazioni sulla soluzione, fate clic su **Avanti**.
+1. Nella pagina Informazioni sulla soluzione fare clic su **Avanti**.
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. Accertati che la casella di controllo relativa all’opzione Messaggio SDK sia selezionata. Fare clic su **Next**.
+1. Assicurati che la casella di controllo dell&#39;opzione Messaggio SDK sia selezionata. Fare clic su **Avanti**.
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 
    >[!TIP]
    >
-   >Sarà necessario abilitare i pop-up nel browser per completare il processo di installazione.
+   >Sarà necessario abilitare i pop-up sul browser per completare il processo di installazione.
 
-1. Attendere il termine dell&#39;importazione. Alzati e fai qualche stirata.
+1. Ora attendi il completamento dell’importazione. Alzati e fai delle distese.
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
@@ -75,24 +75,24 @@ Prima di poter sincronizzare Microsoft Dynamics On-Premises e Marketo, è necess
 
    >[!NOTE]
    >
-   >È possibile che venga visualizzato un messaggio con la dicitura &quot;Gestione lead Marketo completata con un avviso&quot;. Ciò è pienamente atteso.
+   >È possibile che venga visualizzato un messaggio che indica &quot;Gestione lead Marketo completata con un avviso&quot;. Ciò è pienamente atteso.
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. La gestione dei lead Marketo verrà ora visualizzata nella pagina **Tutte le soluzioni**.
+1. Gestione lead Marketo verrà ora visualizzata nella pagina **Tutte le soluzioni** .
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Selezionare Gestione lead Marketo e fare clic su **Pubblica tutte le personalizzazioni.**
+1. Seleziona Gestione lead Marketo e fai clic su **Pubblica tutte le personalizzazioni.**
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
-Non era troppo male, giusto? Avanti, continuerò a passarvi attraverso il resto.
+Non era male giusto? Avanti, continuerò a passarvi attraverso il resto.
 
 >[!CAUTION]
 >
->La disattivazione di uno qualsiasi dei processi di messaggistica SDK di Marketo comporterà l&#39;interruzione dell&#39;installazione.
+>La disattivazione di uno qualsiasi dei processi di messaggistica SDK di Marketo provocherà un&#39;installazione non funzionante.
 
 >[!MORELIKETHIS]
 >
->[Passaggio 2 di 3: Impostazione della sincronizzazione degli utenti di Marketing in Dynamics (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>[Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
