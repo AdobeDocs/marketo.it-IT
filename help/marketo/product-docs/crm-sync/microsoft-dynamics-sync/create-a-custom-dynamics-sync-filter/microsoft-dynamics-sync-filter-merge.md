@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10092969
-description: Filtro di sincronizzazione di Microsoft Dynamics - Unisci - Documenti Marketo - Documentazione prodotto
-title: Filtro di sincronizzazione di Microsoft Dynamics - Unisci
+description: Filtro Microsoft Dynamics Sync -Merge - Documenti Marketo - Documentazione del prodotto
+title: Filtro di sincronizzazione di Microsoft Dynamics -Merge
+exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # Filtro di sincronizzazione Microsoft Dynamics: Unisci {#microsoft-dynamics-sync-filter-merge}
 
-L&#39;unione dei lead in Microsoft Dynamics utilizza il tipo due opzioni: filtro di sincronizzazione = Sì (TRUE) e filtro di sincronizzazione = No (FALSE). Quando si uniscono due record, il risultato varia a seconda del record vero e falso.
+L’unione dei lead in Microsoft Dynamics utilizza il tipo Due opzioni: Filtro di sincronizzazione = Sì (TRUE) e Filtro di sincronizzazione = No (FALSE). Quando si uniscono due record, il risultato varia a seconda del record True e False.
 
-I record lead diventano veri o falsi in base alle regole del flusso di lavoro definite dall’amministratore per determinare il vincitore. Il filtro di sincronizzazione per il record vincente è ciò che determina in ultima analisi se il record MS Dynamics si sincronizza con Marketo.
+I record lead diventano true o false in base alle regole del flusso di lavoro definite dall’amministratore per determinare il vincitore. Il filtro di sincronizzazione per il record vincente è ciò che determina in ultima analisi se il record MS Dynamics si sincronizza con Marketo.
 
 È quando un record è vero e uno è falso che diventa complicato.
 
 | Se il filtro di sincronizzazione per il record di perdita è: | e il filtro di sincronizzazione per il record vincente è: | Questo è il risultato in Marketo |
 |---|---|---|
-| True | True | Il record vincente continua a sincronizzarsi con Marketo |
+| True | True | Il record vincente continua la sincronizzazione con Marketo |
 | False | False | Il record vincente continua a **non** sincronizzarsi con Marketo |
-| False | True | Il record vincente si sincronizzerà con Marketo |
+| False | True | Il record vincente verrà sincronizzato con Marketo |
 | True | False | Il record vincente non verrà sincronizzato con Marketo |
