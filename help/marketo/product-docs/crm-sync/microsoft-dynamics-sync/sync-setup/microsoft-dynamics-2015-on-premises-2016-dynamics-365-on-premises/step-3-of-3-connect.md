@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7504744
-description: Installa Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 3 di 3 - Documenti Marketo - Documentazione del prodotto
-title: Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 3 di 3
+description: Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 3 di 3 - Marketo Docs - Documentazione del prodotto
+title: Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 3 di 3
+exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-
 # Passaggio 3 di 3: Connetti Marketo Dynamics (On-Prem 2015 e On-Prem 2016 365) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
->* [Installazione di Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+>* [Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Installare Marketo per Dynamics 2015 On-Prem e 2016 365 On-Prem Step 2 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Assicurati che le tue credenziali siano corrette in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se vengono salvate le credenziali errate, dovrai ottenere una nuova sottoscrizione Marketo.
+   >Assicurati che le tue credenziali siano corrette in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se vengono salvate le credenziali errate, sarà necessario ottenere una nuova sottoscrizione Marketo.
 
 1. Immetti il **Nome utente**, **Password** di Microsoft Dynamics **URL** e un **ID client/segreto**. Al termine, fai clic su **Salva**.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* Se il provisioning di Marketo è stato eseguito prima di ottobre 2020, l’ID client e il segreto sono campi facoltativi. Altrimenti, sono obbligatori. L&#39;ottenimento di queste informazioni dipenderà dalla versione di MSD in uso.
+   >* Se il provisioning del tuo Marketo è stato eseguito prima di ottobre 2020, gli ID client e il segreto sono campi facoltativi. Altrimenti, sono obbligatori. L&#39;ottenimento di queste informazioni dipenderà dalla versione di MSD in uso.
    >* Il nome utente in Marketo deve corrispondere al nome utente per l&#39;utente di sincronizzazione in CRM. Il formato può essere `user@domain.com` o DOMAIN\user.
    >* Se non conosci l&#39;URL, [scopri come trovarlo qui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Seleziona i campi da sincronizzare con Marketo in modo che vengano preselezionati. Fare clic su **Salva**.
+1. Seleziona i campi da sincronizzare in Marketo, in modo che vengano preselezionati. Fare clic su **Salva**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
