@@ -4,7 +4,7 @@ description: Icona Glossario - Documenti Marketo - Documentazione del prodotto
 title: Icona Glossario
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Di seguito sono riportate le icone per Marketo Classic. Se hai effettuato il pas
   <tr> 
    <td> 
     <div> 
-     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Cartella</span></td> 
   </tr> 
