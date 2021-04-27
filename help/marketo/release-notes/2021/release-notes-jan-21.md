@@ -3,7 +3,7 @@ description: Note sulla versione - Jan 2021 - Documenti Marketo - Documentazione
 title: Note sulla versione - Gennaio 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Le seguenti funzionalità verranno rilasciate il **15 gennaio 2021**.
 
 ## Integrazione CRM Salesforce {#salesforce-crm-integration}
 
-* [Autenticazione](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md) CRM Salesforce: Il protocollo OAuth 2.0 è disponibile per le operazioni di sincronizzazione tra Marketi Engage e CRM Salesforce. Per i nuovi abbonati, questa opzione è attivata per impostazione predefinita. Gli abbonati attuali possono richiedere questa funzione contattando il supporto Marketo.
+* [Autenticazione](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md) CRM Salesforce: Il protocollo OAuth 2.0 è disponibile per le operazioni di sincronizzazione tra Marketi Engage e CRM Salesforce. Per i nuovi abbonati, questa opzione è attivata per impostazione predefinita. Gli abbonati attuali possono richiedere questa funzione contattando il supporto Marketo.
 * [Dashboard](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md) di sincronizzazione CRM Salesforce: Gli amministratori possono rivedere rapidamente lo stato di sincronizzazione CRM Salesforce dal dashboard. L’intervallo di tempo del rapporto sulle prestazioni di sincronizzazione è stato aumentato da 2 a 5 giorni.
 * **Esportazione** metadati: Migliorata per supportare gli attributi degli oggetti opportunità, gli account denominati, i campi standard e personalizzati dei membri del programma.
 
