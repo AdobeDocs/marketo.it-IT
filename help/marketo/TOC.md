@@ -5,9 +5,9 @@ user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '8003'
+source-wordcount: '8006'
 ht-degree: 0%
 
 ---
@@ -806,7 +806,7 @@ ht-degree: 0%
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1679,6 +1679,7 @@ ht-degree: 0%
    + [Pianificazione del rilascio](release-notes/release-schedule.md)
    + 2021{#2021}
       + [Note sulla versione: 21 gennaio](release-notes/2021/release-notes-jan-21.md)
+      + [Note sulla versione: Maggio 21](release-notes/2021/release-notes-may-21.md)
    + 2020{#2020}
       + [Note sulla versione: Gen. 20](release-notes/2020/release-notes-jan-20.md)
       + [Note sulla versione: Feb. 20](release-notes/2020/release-notes-feb-20.md)
