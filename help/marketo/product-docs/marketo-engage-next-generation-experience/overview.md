@@ -1,22 +1,22 @@
 ---
-description: Panoramica - Documenti Marketo - Documentazione del prodotto
+description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
-
 # Panoramica {#overview}
 
-Benvenuti nell’esperienza di Marketo Engage di nuova generazione, una nuova interfaccia che offre una migliore usabilità e un nuovo aspetto nella piattaforma Marketo.
+Benvenuti nell&#39;esperienza di Marketo Engage di nuova generazione, una nuova interfaccia che offre una migliore usabilità e un nuovo aspetto nella piattaforma Marketo.
 
 >[!PREREQUISITES]
 >
->Se il tuo team IT limita l&#39;accesso web utilizzando un inserì nell&#39;elenco Consentiti, chiedi loro di aggiungere i seguenti domini (incluso l&#39;asterisco) per consentire tutte le risorse Marketo e i socket web:
+>Se il tuo team IT limita l&#39;accesso web utilizzando un inserire nell&#39;elenco Consentiti, chiedi loro di aggiungere i seguenti domini (incluso l&#39;asterisco) per consentire tutte le risorse Marketo e i websoket:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -41,13 +41,7 @@ Ci sono molte nuove funzionalità in questa esperienza di nuova generazione, tut
 
 La nuova interfaccia offre funzioni migliorate ed estese di iconografia. Scopri di più qui: [Nuova icona Glossario](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Albero**
-
-Anche l&#39;albero è stato aggiornato.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Navigazione globale**
 
@@ -194,7 +188,7 @@ Date un&#39;occhiata alla nuova navigazione globale.
    <td>Tutti gli elementi precedenti di superball elencati</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>Utilizza questo per fornire feedback sulla tua esperienza MEUE</td> 
   </tr>
   <tr>
@@ -210,7 +204,7 @@ Date un&#39;occhiata alla nuova navigazione globale.
 
 >[!NOTE]
 >
->Tutto ciò che viveva nel menu a discesa superball è ancora disponibile come un riquadro nel tuo My Marketo.
+>Tutto ciò che viveva nel menu a discesa superball è ancora disponibile come un riquadro nel My Marketo.
 
 >[!TIP]
 >
