@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2950799
 description: Panoramica dei token - Documenti Marketo - Documentazione del prodotto
-title: Panoramica sui token
+title: Panoramica dei token
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
+# Panoramica dei token {#tokens-overview}
 
-# Panoramica sui token {#tokens-overview}
+Un token è una variabile che può essere utilizzata nei passaggi del flusso di campagne avanzate di Marketo, nelle e-mail, nelle pagine di destinazione, nei frammenti e nelle campagne web.
 
-Un token è una variabile che può essere utilizzata nei passaggi di flusso delle campagne smart Marketo, nelle e-mail, nelle pagine di destinazione, negli snippet e nelle campagne Web.
+## Valori predefiniti {#understanding-default-values}
 
-## Informazioni sui valori predefiniti {#understanding-default-values}
-
-Quando utilizzate un token, desiderate anche fornire un valore predefinito. Testo che mostra se una persona non ha un valore per il campo a cui si fa riferimento.
+Quando utilizzi un token, desideri anche fornire un valore predefinito. Questo è il testo che mostra se una persona non ha un valore per il campo a cui si fa riferimento.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-In questo esempio, il messaggio e-mail contiene &quot;Saluti, (nome)&quot; o &quot;Saluti, messa in movimento&quot; (valore predefinito).
+In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Saluti, messa a terra&quot; (valore predefinito).
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->I token non funzionano nella preintestazione quando si utilizza l&#39;editor e-mail di Marketo. Per utilizzare un token nel preheader, deve essere tramite il codice HTML personalizzato in un modello e-mail.
+>I token non funzionano nella preintestazione quando si utilizza l’editor e-mail di Marketo. Per utilizzare un token nella preintestazione, deve essere tramite il proprio HTML in un modello e-mail.
 
 >[!NOTE]
 >
@@ -87,9 +87,9 @@ In questo esempio, il messaggio e-mail contiene &quot;Saluti, (nome)&quot; o &qu
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* I campi per le persone personalizzate funzionano anche se utilizzate il nome visualizzato, ad esempio `{{lead.Custom Field Name}}`
+* I campi per le persone personalizzate funzionano anche se si utilizza il nome visualizzato, ad esempio `{{lead.Custom Field Name}}`
 
-## Token società {#company-tokens}
+## Token aziendali {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -110,9 +110,9 @@ In questo esempio, il messaggio e-mail contiene &quot;Saluti, (nome)&quot; o &qu
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* I campi personalizzati della società funzionano anche se utilizzate il nome visualizzato ad esempio. `{{Company.Custom Field Name}}`
+* I campi aziendali personalizzati funzionano anche se utilizzi il loro nome visualizzato, ad esempio. `{{Company.Custom Field Name}}`
 
-## Token campagna {#campaign-tokens}
+## Token di campagna {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
@@ -122,7 +122,7 @@ In questo esempio, il messaggio e-mail contiene &quot;Saluti, (nome)&quot; o &qu
 
 >[!NOTE]
 >
->Per ulteriori informazioni su questi token, vedere [Glossario dei token di sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Ulteriori informazioni su questi token nel [Glossario dei token di sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +131,7 @@ In questo esempio, il messaggio e-mail contiene &quot;Saluti, (nome)&quot; o &qu
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Token trigger {#trigger-tokens}
+## Token di attivazione {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,24 +149,24 @@ In questo esempio, il messaggio e-mail contiene &quot;Saluti, (nome)&quot; o &qu
 
 >[!NOTE]
 >
->Maggiori informazioni sui [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) in base ai trigger utilizzati in una campagna intelligente.
+>Trova ulteriori dettagli sui [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) in base ai trigger utilizzati in una campagna intelligente.
 
-## Token programma {#program-tokens}
+## Token del programma {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Token personali {#my-tokens}
+## Token {#my-tokens} personali
 
-I miei token sono definiti all&#39;interno di un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [My Tokens in a program](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+I miei token sono definiti all&#39;interno di un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token membro {#member-token}
 
-I token membri vengono utilizzati per inserire valori univoci dai partner di servizi integrati. Un uso comune dei token membri è quello degli URL univoci per i partecipanti al seminario. Ogni persona dispone di un URL univoco per accedere al webinar che può essere inserito utilizzando un token `{{member.webinar url}}`. Il token `{{member.webinar url}}` risolve automaticamente l&#39;URL di conferma univoco della persona generato dal provider di servizi.
+I token membri vengono utilizzati per inserire valori univoci da partner di servizi integrati. Un uso comune dei token membri è riservato agli URL univoci per i partecipanti al webinar. Ogni persona ha un URL univoco per accedere al webinar che può essere inserito utilizzando un token `{{member.webinar url}}`. Il token `{{member.webinar url}}` risolve automaticamente l’URL di conferma univoco della persona generato dal provider di servizi.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Il token `{{member.webinar url}}` verrà popolato solo se la campagna smart che invia l&#39;e-mail è una risorsa figlia del programma dell&#39;evento.
+>Il token `{{member.webinar url}}` verrà popolato solo se la campagna intelligente che invia l’e-mail è una risorsa figlia del programma evento.
