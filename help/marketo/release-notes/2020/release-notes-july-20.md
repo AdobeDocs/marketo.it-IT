@@ -4,7 +4,7 @@ description: Note sulla versione - Luglio 20 - Documentazione Marketo - Document
 title: Note sulla versione - Luglio 20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella versione del 20 luglio. Per informa
 
 >[!AVAILABILITY]
 >
->Tieni presente che, a seconda del pacchetto corrente, gli articoli con una stella ( ![(star)](assets/star-yellow.svg)) possono richiedere l’acquisto di un componente aggiuntivo di valore. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Tieni presente che, a seconda del pacchetto corrente, gli articoli con una stella ( ![(star)](assets/yellow-star.png)) possono richiedere l’acquisto di un componente aggiuntivo di valore. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni_** trimestraliLe seguenti funzionalità saranno rilasciate il 31  **luglio 2020**.
 
@@ -27,7 +27,7 @@ Le seguenti funzionalità sono incluse nella versione del 20 luglio. Per informa
 
 ## Marketing basato su account {#account-based-marketing}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Interfaccia aggiornata per il profiling** dell&#39;account: Semplifica la creazione dell’elenco degli account di destinazione in Profilo account con passaggi semplificati in un’unica schermata.
 
@@ -47,13 +47,13 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Informazioni sulle vendite {#sales-insight}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **[Approfondimenti vendite abilitati per i clienti con integrazione](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)  CRM non nativa Salesforce (Beta)**: I clienti di Marketo Engage con integrazioni CRM non native di Salesforce possono ora utilizzare la funzione Approfondimenti vendite per aiutare i loro team di vendita a comprendere, assegnare le priorità e interagire con i lead e le opportunità più coinvolti per consentire la vendita intelligente e offerte più veloci.
 
 ## Sales Connect {#sales-connect}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **[Consenso avanzato tra due parti per le chiamate di vendita:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** gli amministratori ora hanno un maggiore controllo sulle configurazioni di registrazione delle chiamate. [Abilita le ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) registrazioni delle chiamate con la certezza di rispettare la legge sul consenso di due parti. Automatizza la notifica della chiamata in corso e attiva le clip audio da riprodurre prima della chiamata.
 
