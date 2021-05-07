@@ -2,9 +2,9 @@
 description: Esegui campagna - Documentazione Marketo - Documentazione del prodotto
 title: Esegui campagna
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Esegui campagna {#execute-campaign}
 
 Una campagna eseguibile, come altre campagne, contiene un elenco avanzato, un flusso e una pianificazione. A differenza di altre campagne, in realtà non è possibile pianificarle o attivarle. Può essere chiamato solo da un’altra campagna tramite il passaggio Esegui flusso campagna . I passaggi del flusso nella Campagna eseguibile vengono eseguiti in serie con la campagna principale (a differenza di Request Campaign, che viene eseguita in parallelo in una campagna trigger separata).
+
+>[!NOTE]
+>
+>Questa funzione verrà abilitata per tutte le istanze di Marketo la sera di martedì 11 maggio.
 
 >[!NOTE]
 >
