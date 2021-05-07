@@ -4,7 +4,7 @@ description: Note sulla versione - Jan 2020 - Documentazione Marketo - Documenta
 title: Note sulla versione - Gennaio 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella versione del 20 gennaio. Per inform
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le caratteristiche indicate da una stella ( ![(star)](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni trimestrali_**
 
@@ -38,9 +38,9 @@ Le seguenti funzionalità verranno rilasciate il **17 gennaio 2020**.
 
 ## Marketing basato su account {#account-based-marketing}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
-* **[Nuova individuazione account (BETA)](https://docs.marketo.com/x/WQA6Ag) ![ (star)](assets/star-yellow.svg)**: Utilizza Profilo account per scoprire nuovi account target netti per la tua strategia ABM in base al modello di profilo cliente ideale basato sull’intelligenza artificiale. Visualizza, seleziona e importa i nuovi account consigliati, insieme ai relativi indicatori di dati di adattamento e intento basati sull’intelligenza artificiale, che non esistono già nel database dei lead e degli account di Marketo Engage per il targeting ABM. Immediatamente disponibile per i clienti idonei di Account Profiling.
+* **[Nuova individuazione account (BETA)](https://docs.marketo.com/x/WQA6Ag) ![ (star)](assets/yellow-star.png)**: Utilizza Profilo account per scoprire nuovi account target netti per la tua strategia ABM in base al modello di profilo cliente ideale basato sull’intelligenza artificiale. Visualizza, seleziona e importa i nuovi account consigliati, insieme ai relativi indicatori di dati di adattamento e intento basati sull’intelligenza artificiale, che non esistono già nel database dei lead e degli account di Marketo Engage per il targeting ABM. Immediatamente disponibile per i clienti idonei di Account Profiling.
 
 <br> 
 
@@ -50,7 +50,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Bizible {#bizible}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Integrazione** dei lead di Marketo Engage: Associa vendite e marketing con una visione unificata dei lead attraverso Bizible e Marketo Engage. Con questo aggiornamento, il Marketo Engage può ora essere utilizzato come origine dati lead aggiuntiva, pertanto non è più necessario attendere la sincronizzazione dei lead con CRM per generare rapporti sulla generazione di lead.
 * **Scopri i miglioramenti**: Ottieni di più dalle nostre bacheche di Discover in Bizible con miglioramenti sviluppati dal feedback dei clienti, come la possibilità di analizzare in profondità i record transazionali da riquadri e attributi, aggiungere i conteggi dei record essenziali e le metriche corrispondenti costo per, e aggiungere/rimuovere filtri dashboard per più dashboard. Al momento dell’accesso, verrai anche portato direttamente al dashboard predefinito.
