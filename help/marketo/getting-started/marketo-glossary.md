@@ -4,9 +4,9 @@ description: Glossario di Marketo - Documentazione di Marketo - Documentazione d
 title: Glossario Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Punteggio account</a></strong></td> 
-   <td colspan="1">In <strong>ABM</strong>, si tratta di un punteggio assegnato a un account per aiutarti a determinare il livello di coinvolgimento.</td> 
+   <td colspan="1">In <strong>TAM</strong>, si tratta di un punteggio assegnato a un account per aiutarti a determinare il livello di coinvolgimento.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Data acquisizione</strong></td> 
@@ -62,6 +62,10 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Integrazioni di reti di annunci </strong></a></td> 
    <td colspan="1">(precedentemente Ad Bridge) Un modo per collegare i dati di audience univoci di Marketo ai sistemi di media a pagamento in modo da poter eseguire campagne pubblicitarie digitali mirate e personalizzate.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Marketo Engage Adobe</strong></td> 
+   <td colspan="1">Il nome del marchio ufficiale per l’aggregato di tutte le offerte di prodotti Marketo all’interno di Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Avviso</a></strong></td> 
@@ -242,7 +246,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
     <div> 
      <p><strong> Database</strong></p> 
     </div></td> 
-   <td>Una delle sezioni principali di <strong>Marketo Engage</strong>. Il database ospita tutti i record <strong>person</strong>.</td> 
+   <td>Una delle sezioni principali di <strong>Marketo Engage Adobe</strong>. Il database ospita tutti i record <strong>person</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>De-Dupe</strong></td> 
@@ -269,7 +273,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">Una delle sezioni principali di <strong>Marketo Engage</strong>. Design Studio è la pagina principale delle <strong>risorse</strong>, ad esempio: <strong>pagine di destinazione</strong>, moduli, <strong>e-mail</strong>, <strong>snippet</strong> e immagini/file.</td> 
+   <td colspan="1">Una delle sezioni principali di <strong>Marketo Engage Adobe</strong>. Design Studio è la pagina principale delle <strong>risorse</strong>, ad esempio: <strong>pagine di destinazione</strong>, moduli, <strong>e-mail</strong>, <strong>snippet</strong> e immagini/file.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documenti</strong></td> 
@@ -482,7 +486,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>In <strong>Marketo Engage</strong>, lead è il termine precedente (sostituito da <strong>persona</strong>) utilizzato per descrivere un individuo nel tuo Marketo <strong>database</strong> con cui ti stai impegnando nelle tue campagne di marketing. Nel tuo <strong>CRM</strong>, un lead può rappresentare un concetto diverso (ad esempio, una persona associata a un <strong>opportunità</strong>) indipendente dalla funzionalità di Marketo.</td> 
+   <td>In <strong>Marketo Engage di Adobe</strong>, lead è il termine precedente (sostituito da <strong>persona</strong>) utilizzato per descrivere un individuo nel tuo Marketo <strong>database</strong> con cui ti stai impegnando nelle tue campagne di marketing. Nel tuo <strong>CRM</strong>, un lead può rappresentare un concetto diverso (ad esempio, una persona associata a un <strong>opportunità</strong>) indipendente dalla funzionalità di Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Database lead</strong></td> 
@@ -512,7 +516,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
  <tbody> 
   <tr> 
    <td><strong>Attività di marketing</strong></td> 
-   <td><p>Una delle sezioni principali del Marketo Engage. Qui si verifica l'orchestrazione <strong>campaign</strong>. Tutte le <strong>campagne</strong>, campagne e <strong>cartelle di campagne</strong> (nonché le relative <strong>risorse locali</strong>) sono live qui.</p></td> 
+   <td><p>Una delle sezioni principali del Marketo Engage Adobe. Qui si verifica l'orchestrazione <strong>campaign</strong>. Tutte le <strong>campagne</strong>, campagne e <strong>cartelle di campagne</strong> (nonché le relative <strong>risorse locali</strong>) sono live qui.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Automazione del marketing</strong></a></td> 
@@ -525,10 +529,6 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing sospeso</strong></a></td> 
    <td colspan="1">Questo campo viene impostato manualmente da <strong>user</strong> per rendere temporaneamente impossibile la spedizione di un utente nel proprio Marketo <strong>database</strong>.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Il nome del marchio ufficiale per l’aggregato di tutte le offerte di prodotti Marketo all’interno di Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Gestione lead Marketo (MLM)</strong></td> 
@@ -560,7 +560,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>My Marketo</strong></td> 
-   <td colspan="1">Una delle sezioni standard del Marketo Engage. agisce come la tua "homepage" Marketo, visualizzando tessere per tutte le sezioni di Marketo a cui hai accesso.</td> 
+   <td colspan="1">Una delle sezioni standard del Marketo Engage Adobe. agisce come la tua "homepage" Marketo, visualizzando tessere per tutte le sezioni di Marketo a cui hai accesso.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Token personali</strong></a></td> 
