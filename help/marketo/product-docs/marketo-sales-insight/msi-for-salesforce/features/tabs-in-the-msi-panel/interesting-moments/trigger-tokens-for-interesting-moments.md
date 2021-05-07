@@ -4,9 +4,9 @@ description: Token di attivazione per i momenti interessanti - Documenti Marketo
 title: Token di attivazione per i momenti interessanti
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -68,10 +68,10 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Clic su Collega in e-mail</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>E-mail rimbalzata dura</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Soft rimbalzi e-mail</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>E-Mail Consegnata</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Apre e-mail</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
     <tr> 
    <td>Inoltra a Amico e-mail ricevuto</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
     <tr> 
    <td>Inviato a Amico e-mail</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>Annulla l’abbonamento a un’e-mail</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Clic Link nell'e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Invia e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Apre l'e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Saldi e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>E-mail di vendita ricevuta</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
     <tr> 
    <td>Opportunità aggiornata</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
     <tr> 
    <td>Modifiche al proprietario</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>La persona viene convertita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>La persona viene cancellata dall'SFDC</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Persona sincronizzata con SFDC</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Rimosso dall'opportunità</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Rimosso dalla campagna SFDC</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>L’attività viene registrata</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>L’attività è stata aggiornata</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Aggiunto a Opportunità</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Aggiunto alla campagna SFDC</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Clic Link nell'e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Invia e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Apre l'e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Saldi e-mail di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>E-mail di vendita ricevuta</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>È stato aggiunto alla campagna di vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   <tr>
    <td>Modifiche al proprietario</td> 
    <td>È Rimosso Dalla Campagna Di Vendita</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Chiamata alle vendite ricevute</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Riempie il modulo</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Pagina Web Visite</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Clic sul link sulla pagina Web</td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(segno di spunta)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 >[!NOTE]
 >
->Se non ha un segno di spunta ![(tick)](assets/check.svg) restituirà una stringa vuota (niente) nel momento interessante.
+>Se non ha un segno di spunta ![(tick)](assets/) restituirà una stringa vuota (niente) nel momento interessante.
 
 *Il trigger **Visita pagina Web** dispone di alcuni token aggiuntivi:
 
@@ -816,4 +816,4 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 >
 >Testa sempre i tuoi momenti interessanti per assicurarti che rendano il modo in cui intendi.
 >
->Inoltre, assicurati che sia interessante per il Venditore, non solo per te. ![(rosa)](assets/wink.svg)>
+>Inoltre, assicurati che sia interessante per il Venditore, non solo per te!
