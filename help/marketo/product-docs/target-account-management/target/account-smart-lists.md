@@ -2,14 +2,14 @@
 unique-page-id: 11378814
 description: Elenchi avanzati account - Documenti Marketo - Documentazione del prodotto
 title: Elenchi avanzati account
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
 
 ---
-
 
 # Elenchi avanzati account {#account-smart-lists}
 
@@ -17,7 +17,11 @@ Ecco come identificare in modo rapido e preciso gli account di alto valore.
 
 >[!NOTE]
 >
->Questa funzione è disponibile in una versione beta aperta ed è disponibile per tutti coloro che hanno sia TAM che l’esperienza utente Marketo Next-Gen abilitata. Contatta il tuo CSM per partecipare alla Beta.
+>Questa funzione verrà abilitata per tutte le istanze Marketo qualificate la sera di martedì 11 maggio.
+
+>[!NOTE]
+>
+>Questa funzione è disponibile solo per coloro che dispongono sia di TAM che dell’esperienza utente di Marketo Engage Adobe Next-Gen abilitata.
 
 ## Creare un elenco smart account {#create-an-account-smart-list}
 
