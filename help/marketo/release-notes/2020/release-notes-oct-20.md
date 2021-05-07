@@ -4,9 +4,9 @@ description: Note sulla versione - 20 ottobre - Documentazione Marketo - Documen
 title: Note sulla versione - 20 ottobre
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Le seguenti funzionalità sono incluse nella versione del 20 ottobre. Per inform
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) possono essere aggiunte a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le caratteristiche indicate da una stella (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni_** trimestraliLe seguenti funzionalità saranno rilasciate il 16  **ottobre 2020**.
 
 ## Gestione account di Target {#target-account-management}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Elenco avanzato account (Beta)**: Sovrascrivi la tua strategia ABM con la nuova funzionalità Account Smart List. Identifica in modo dinamico gli account con gli attributi di account e persona desiderati per eseguire campagne cross-channel e invia avvisi tempestivi alle vendite per chiudere le offerte più rapidamente. Nota: questa funzione è disponibile solo per i clienti di Gestione account di Target che sono stati caricati nell’ [esperienza utente di nuova generazione](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## E-mail marketing {#email-marketing}
 
-* **Incremento e-mail in batch  ![(asterisco)](assets/star-yellow.svg)**: Invia più e-mail con un throughput incrementato fino a 5 milioni di e-mail batch all’ora. L’espansione delle opzioni di recapito messaggi e-mail elimina la necessità di attendere tra i batch di e-mail: invia tutte le e-mail in tempo utile e secondo la pianificazione.
+* **Incremento e-mail in batch  ![(asterisco)](assets/yellow-star.png)**: Invia più e-mail con un throughput incrementato fino a 5 milioni di e-mail batch all’ora. L’espansione delle opzioni di recapito messaggi e-mail elimina la necessità di attendere tra i batch di e-mail: invia tutte le e-mail in tempo utile e secondo la pianificazione.
 
 ## Sito Web Marketing {#website-marketing}
 
@@ -67,7 +67,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Informazioni sulle vendite {#sales-insight}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Opzioni** di ottimizzazione API e configurazione della nuova governance: Migliora l’esperienza utente in Sales Insight grazie all’ottimizzazione API migliorata e alle nuove funzioni di governance. Le impostazioni di configurazione consentono agli amministratori di definire il modo in cui le campagne e gli eventi vengono caricati nel dashboard Approfondimenti vendite. Le opzioni di visualizzazione flessibili delle attività del calendario riducono l&#39;utilizzo dell&#39;API e migliorano l&#39;esperienza complessiva.
 
