@@ -4,7 +4,7 @@ description: Note sulla versione - 19 agosto - Documenti Marketo - Documentazion
 title: Note sulla versione - Agosto '19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 * **Aggiornamento API di Smart Campaign**: Gestisci le funzionalità per il ciclo di vita delle campagne avanzate quando si completa l&#39;interfaccia CRUD (creazione, lettura, aggiornamento, eliminazione).
 * **Modifica** API delle intestazioni e-mail di aggiornamento: L’API Aggiorna intestazione e-mail non richiede più un’e-mail con un modello allegato per aggiornare i campi di intestazione, ad esempio l’oggetto.
 
-**Marketing basato su account** ![ (star)](assets/star-yellow.svg)
+**Marketing basato su account** ![ (star)](assets/yellow-star.png)
 
 * **linkedIn Account Matching**, precedentemente in versione beta, è ora generalmente disponibile.
 * **** AccountAI viene ufficialmente classificato come  **profilo account**.
@@ -36,13 +36,13 @@ Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 
 Le seguenti funzionalità sono disponibili su un ciclo non trimestrale e verranno rilasciate durante il terzo trimestre e all’inizio del quarto trimestre 2019.
 
-**Marketo Sales Connect** ![ (stella)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (stella)](assets/yellow-star.png)
 
 * **Miglioramento del layout della pagina Persone:** gestisci le persone e i gruppi tramite le importazioni di elenchi e le azioni in blocco nel nuovo layout di pagina Persone.
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il tuo rappresentante Marketo.
+>Le caratteristiche indicate da una stella ( ![(star)](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il tuo rappresentante Marketo.
 
 >[!NOTE]
 >
