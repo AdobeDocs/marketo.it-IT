@@ -4,7 +4,7 @@ description: Token di attivazione per i momenti interessanti - Documenti Marketo
 title: Token di attivazione per i momenti interessanti
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -804,7 +804,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 >[!NOTE]
 >
->Se non ha un segno di spunta ![(tick)](assets/) restituirà una stringa vuota (niente) nel momento interessante.
+>Se non ha un segno di spunta ![(tick)](assets/check.png) restituirà una stringa vuota (niente) nel momento interessante.
 
 *Il trigger **Visita pagina Web** dispone di alcuni token aggiuntivi:
 
