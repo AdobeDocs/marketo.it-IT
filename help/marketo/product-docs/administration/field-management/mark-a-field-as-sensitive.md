@@ -2,9 +2,9 @@
 description: Contrassegnare un campo come sensibile - Documenti Marketo - Documentazione del prodotto
 title: Contrassegnare un campo come sensibile
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Contrassegnare un campo come sensibile {#mark-a-field-as-sensitive}
 
 In qualità di amministratore di Marketo, è possibile contrassegnare un campo specifico come &quot;sensibile&quot; in modo che i suoi valori non vengano mai precompilati nei moduli, proteggendo in tal modo i dati sensibili degli utenti.
+
+>[!NOTE]
+>
+>Questa funzione verrà abilitata per tutte le istanze di Marketo la sera di martedì 11 maggio.
 
 1. Fai clic su **Amministratore**.
 
