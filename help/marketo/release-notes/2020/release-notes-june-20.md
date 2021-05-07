@@ -4,9 +4,9 @@ description: Note sulla versione - Giugno 20 - Documenti Marketo - Documentazion
 title: Note sulla versione - Giugno 20
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ Le seguenti funzionalità sono incluse nella versione del 20 giugno. Per informa
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) possono essere aggiunte a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le caratteristiche indicate da una stella (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni_** trimestraliLe seguenti funzionalità saranno rilasciate il 5  **giugno 2020**.
 
 ## Marketo Engage core {#core-marketo-engage}
 
-* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![ (stella)](assets/star-yellow.svg): I nuovi filtri per l’elenco avanzato e la campagna avanzata gestiti da Adobe Sensei consentono di creare segmenti di pubblico basati sull’intelligenza artificiale per i programmi di marketing relativi a e-mail, eventi e webinar. Utilizza l’intelligenza artificiale per segmentare il pubblico in base alla probabilità del lead di registrarsi a un evento, partecipare a un evento o annullare l’abbonamento. Crea tipi di pubblico lookalike basati su programmi passati per replicare in modo efficiente il successo precedente. Raggiungi gli obiettivi di conversione con il tracciamento predittivo degli obiettivi e ottieni consigli su come perfezionare i segmenti di pubblico per i programmi evento.
-* **Incremento e-mail in batch** ![ (stella)](assets/star-yellow.svg): Miglioramento della funzionalità di marketing e-mail che ti consente di inviare fino a 3 milioni di e-mail batch all’ora. Abbiamo riprogettato l’elaborazione di batch di campagne e report e-mail per migliorare le prestazioni dei programmi e-mail e delle campagne e-mail batch. Ciò comporta un lead time più breve per l’invio e tempi di completamento più lunghi. Imposta gli invii di posta elettronica come faresti normalmente, non c&#39;è complessità aggiuntiva. Questo miglioramento è disponibile come componente aggiuntivo di prodotto che include anche un pacchetto Launch per i servizi di consegna, strumenti di consegna e-mail e più indirizzi IP dedicati.
+* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![ (stella)](assets/yellow-star.png): I nuovi filtri per l’elenco avanzato e la campagna avanzata gestiti da Adobe Sensei consentono di creare segmenti di pubblico basati sull’intelligenza artificiale per i programmi di marketing relativi a e-mail, eventi e webinar. Utilizza l’intelligenza artificiale per segmentare il pubblico in base alla probabilità del lead di registrarsi a un evento, partecipare a un evento o annullare l’abbonamento. Crea tipi di pubblico lookalike basati su programmi passati per replicare in modo efficiente il successo precedente. Raggiungi gli obiettivi di conversione con il tracciamento predittivo degli obiettivi e ottieni consigli su come perfezionare i segmenti di pubblico per i programmi evento.
+* **Incremento e-mail in batch** ![ (stella)](assets/yellow-star.png): Miglioramento della funzionalità di marketing e-mail che ti consente di inviare fino a 3 milioni di e-mail batch all’ora. Abbiamo riprogettato l’elaborazione di batch di campagne e report e-mail per migliorare le prestazioni dei programmi e-mail e delle campagne e-mail batch. Ciò comporta un lead time più breve per l’invio e tempi di completamento più lunghi. Imposta gli invii di posta elettronica come faresti normalmente, non c&#39;è complessità aggiuntiva. Questo miglioramento è disponibile come componente aggiuntivo di prodotto che include anche un pacchetto Launch per i servizi di consegna, strumenti di consegna e-mail e più indirizzi IP dedicati.
 * **[Integrazione del pubblico con Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: Nuova integrazione di Adobe Experience Cloud (AEC) che consente di sincronizzare elenchi statici di lead noti da Marketo Engage con più applicazioni AEC per migliorare i programmi esistenti, sbloccare nuovi casi d’uso e orchestrare campagne multicanale. Questa integrazione include Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager e Adobe Advertising Cloud.
 * **[Campi](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)** personalizzati membri del programma: Acquisire e utilizzare campi personalizzati relativi a un membro del programma. Utilizza questi nuovi campi nei moduli di Marketo Engage, visualizzali nell’elenco dei membri di un programma, sfruttali nei filtri e nei trigger di elenchi avanzati e includili in una nuova azione di flusso di campagne avanzate per automazione avanzata e personalizzazione più granulare. Possono anche essere importate ed esportate tramite l’interfaccia utente e le API. Miglioramento della funzionalità per oggetti dati e campi personalizzati.
 * **Descrivi membro** del programma: Recupera i metadati dei membri del programma, consentendoti di importare ed esportare i dati dei campi personalizzati dei membri del programma utilizzando l’API REST. Miglioramento dell’API.
@@ -35,7 +35,7 @@ Le seguenti funzionalità sono incluse nella versione del 20 giugno. Per informa
 
 ## Marketing basato su account {#account-based-marketing}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Disponibilità generale di un nuovo account Discovery**
 
@@ -49,7 +49,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Bizible {#bizible}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Integrazione** dei programmi di Marketo Engage: Recupera i dati del programma direttamente dal Marketo Engage per creare punti di contatto lungo il percorso di attribuzione in Bizible per accreditare in modo appropriato i programmi e-mail e di coinvolgimento. Miglioramento dell’integrazione dei Marketi Engage.
 * **Integrazione delle attività di Marketo Engage (BETA)**: Trasferisci i dati delle attività di Marketo Engage direttamente in Bizible per creare punti di contatto nel percorso di clienti e in tutti i modelli di attribuzione. Alcuni esempi includono modifiche al punteggio lead, momenti interessanti, clic su e-mail o attività personalizzate. Miglioramento dell’integrazione dei Marketi Engage.
@@ -59,7 +59,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Informazioni sulle vendite {#sales-insight}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **[Dashboard approfondimenti per CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)** Salesforce: Stiamo riimmaginando la nostra capacità di Sales Insight con una nuova visibilità nei prossimi eventi e campagne di marketing per dare ai venditori la possibilità di rendere i consigli più rilevanti per i clienti e i potenziali clienti in base alle loro esigenze e ai loro interessi. I venditori possono anche visualizzare l’attività Contatto e Account nella timeline e accedere facilmente ai dettagli di attività aggiuntivi. Ulteriori informazioni su come aggiornare il pacchetto [qui](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
