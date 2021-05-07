@@ -3,7 +3,7 @@ description: Note sulla versione - Jan 2021 - Documenti Marketo - Documentazione
 title: Note sulla versione - Gennaio 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Le seguenti funzionalità sono incluse nella versione del 21 gennaio. Per inform
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le caratteristiche indicate da una stella ( ![(star)](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni trimestrali_**
 
@@ -57,7 +57,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Informazioni sulle vendite {#sales-insight}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **[Flussi di lavoro e-mail di test migliorati (CRM Salesforce)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Aumenta l’efficienza del tuo team di vendita con flussi di lavoro e-mail di test Approfondimenti vendite migliorati. I venditori possono inviare e-mail di prova agli indirizzi e-mail selezionati prima di inviare e-mail in blocco a un massimo di 200 destinatari.
 * **[Informazioni sullo stato delle e-mail (CRM Salesforce)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Gli utenti visualizzano un messaggio di avviso quando tentano di inviare un’e-mail a un ID e-mail non valido o a un indirizzo e-mail non iscritto prima di inviare un’e-mail.  Gli stati di consegna e-mail possono essere rivisti nella scheda e-mail di Informazioni sulle vendite.
@@ -67,7 +67,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Sales Connect {#sales-connect}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Limitazione connessione e-mail (BETA)**: Migliora il recapito dei messaggi e-mail e ridimensiona la comunicazione di vendita 1:1 con la limitazione della connessione e-mail per Sales Connect. La nostra nuova tecnologia di limitazione gestisce automaticamente i tempi di invio delle e-mail per creare esperienze senza soluzione di continuità per gli utenti di Exchange e Gmail. Diminuisci o elimina l’utilizzo di applicazioni di invio in massa di e-mail di terze parti.
 * **Tracciamento** messaggi non recapitati connessione e-mail: Ottieni informazioni approfondite sulla qualità dei lead e sulle prestazioni dei modelli e-mail con il nuovo rapporto non recapitato per e-mail. Gli utenti di Exchange e Gmail possono scegliere di ricevere notifiche non recapitate che passeranno a Feed live, Cartelle e-mail, Analisi dei modelli e Analytics di Campaign.
