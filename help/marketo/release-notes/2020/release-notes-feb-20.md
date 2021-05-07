@@ -4,7 +4,7 @@ description: Note sulla versione - Feb '20 - Documenti Marketo - Documentazione 
 title: Note sulla versione - Febbraio 20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Le seguenti funzionalità sono incluse nella versione del 20 febbraio. Per infor
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella ( ![(star)](assets/star-yellow.svg)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le caratteristiche indicate da una stella ( ![(star)](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni_** trimestraliLe seguenti funzionalità sono state rilasciate il 21  **febbraio 2020**.
 
@@ -37,7 +37,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Bizible {#bizible}
 
-![(stella)](assets/star-yellow.svg)
+![(stella)](assets/yellow-star.png)
 
 * **Segmentazione** basata su account: Analizza l’attribuzione a livello di account con la possibilità di creare segmenti e filtri per Discover boards in base agli attributi di account. Utilizza questi segmenti per approfondire le prestazioni di marketing basate sull’account.
 * **Salvataggio dei filtri**: Salva filtri specifici per ogni utente per analizzare le dashboard in modo rapido e coerente.
