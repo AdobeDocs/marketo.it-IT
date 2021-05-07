@@ -2,7 +2,7 @@
 description: Note sulla versione - Maggio 2021 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2021
 translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1510'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Le seguenti funzionalità sono incluse nella versione del 21 maggio. Per informa
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella ![](assets/star.png) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le caratteristiche indicate da una stella (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni trimestrali_**
 
@@ -24,14 +24,15 @@ Le seguenti funzionalità saranno rilasciate il **7 maggio 2021**.
 >[!NOTE]
 >
 >Queste tre funzioni saranno disponibili entro la sera di martedì 11 maggio:
+>
+>* **Elenchi avanzati account**
+>* **Esegui i passaggi del flusso di campagna**
+>* **Attività bot e-mail con filtro**
 
-* **Elenchi avanzati account**
-* **Esegui i passaggi del flusso di campagna**
-* **Attività bot e-mail con filtro**
 
 ## Esperienze basate su account {#Account-based-eaperiences}
 
-* **Elenchi smart account (disponibilità generale)** ![](assets/star.png): Identifica e qualifica in modo dinamico gli account con gli attributi di account e persona desiderati per eseguire il targeting in campagne di marketing cross-channel e invia avvisi tempestivi alle vendite per chiudere le offerte più rapidamente. Questa nuova funzionalità consente una solida automazione delle strategie di marketing basate su account. Gli elenchi smart account sono disponibili per i clienti con Gestione account di Target che fanno parte dell’esperienza utente di nuova generazione.
+* **Elenchi smart account (disponibilità generale)** ![](assets/yellow-star.png): Identifica e qualifica in modo dinamico gli account con gli attributi di account e persona desiderati per eseguire il targeting in campagne di marketing cross-channel e invia avvisi tempestivi alle vendite per chiudere le offerte più rapidamente. Questa nuova funzionalità consente una solida automazione delle strategie di marketing basate su account. Gli elenchi smart account sono disponibili per i clienti con Gestione account di Target che fanno parte dell’esperienza utente di nuova generazione.
 
 ## Esperienza utente di nuova generazione {#next-generation-user-experience}
 
@@ -83,7 +84,7 @@ Diversi aggiornamenti critici delle API Bulk e Lead, tra cui la possibilità di 
 
 ## Bizible {#bizible}
 
-![](assets/star.png)
+![](assets/yellow-star.png)
 
 * **Integrazione con LinkedIn Lead Gen Forms (Beta)**: Ottieni una visibilità profonda nella spesa e nel ROI del tuo canale LinkedIn con la soluzione di attribuzione Bizible Premium. Grazie all’integrazione più recente con Forms leader di LinkedIn, Bizible offre informazioni approfondite sui moduli inviati all’interno della piattaforma LinkedIn. Queste compilazioni vengono confrontate con i lead provenienti dall’istanza CRM (Customer Relationship Management) o dal Marketo Engage Adobe in modo che siano idonei all’attribuzione e possano essere tracciati rispetto agli altri contratti di marketing.
 
