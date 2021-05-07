@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: Creare un messaggio SMS Vibes - Documenti Marketo - Documentazione del prodotto
+description: Creare un messaggio SMS Vibes - Marketo Docs - Documentazione del prodotto
 title: Creare un messaggio SMS Vibes
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Creare un messaggio SMS Vibes {#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ Ecco come creare un messaggio SMS Vibes.
 
 >[!AVAILABILITY]
 >
->Questa funzione è disponibile come componente aggiuntivo per il tuo account Marketo Engage. Affinché possa essere fornito correttamente, deve essere acquistato tramite Adobe. Contatta il tuo Adobe Customer Success Manager per maggiori dettagli.
+>Questa funzione è disponibile come componente aggiuntivo per il tuo account di Marketo Engage di Adobe. Affinché possa essere fornito correttamente, deve essere acquistato tramite Adobe. Contatta il tuo Adobe Customer Success Manager per maggiori dettagli.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Ecco come creare un messaggio SMS Vibes.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Seleziona un tipo di collegamento. La pagina di destinazione Marketo è l’impostazione predefinita. Se si utilizza questa opzione, è necessario selezionare la pagina di destinazione dal menu a discesa e fare clic su **Inserisci**.
+1. Seleziona un tipo di collegamento. Pagina di destinazione di Marketo è l’impostazione predefinita. Se si utilizza questa opzione, è necessario selezionare la pagina di destinazione dal menu a discesa e fare clic su **Inserisci**.
 
    ![](assets/insert-link-real-hands.jpg)
 
