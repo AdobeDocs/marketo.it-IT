@@ -1,46 +1,46 @@
 ---
 unique-page-id: 2359837
-description: Attivatori e filtri per attività social - Marketo Docs - Documentazione prodotto
-title: Trigger e filtri per attività social
+description: Triggers e filtri per attività social - Documenti Marketo - Documentazione del prodotto
+title: Triggers e filtri per le attività Social
+exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
 # Trigger e filtri per attività social {#triggers-and-filters-for-social-activities}
 
-Le app per social network di Marketo dispongono di attivatori e filtri specifici.
+Le app social in Marketo hanno i propri attivatori e filtri speciali.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
-1. Per utilizzare i trigger _social_, selezionate la campagna smart e fate clic sulla scheda **Smart List**. A destra, fare clic su + per espandere **Triggers**, quindi **Social**.
+1. Per utilizzare i trigger _social_, seleziona la campagna avanzata e fai clic sulla scheda **Elenco avanzato** . A destra, fai clic sul simbolo + per espandere **Triggers**, quindi **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Per utilizzare i _filtri_ social network, fare clic su **+** per espandere i **filtri**.
+1. Per utilizzare i filtri _social_, fai clic su **+** per espandere **Filtri**.
 
    ![](assets/two-282-29.png)
 
-1. Fate riferimento alla tabella seguente per vedere quali attivatori e filtri funzionano con ciascuna app per social network.
+1. Fai riferimento alla tabella seguente per vedere quali attivatori e filtri funzionano con ogni app social.
 
-   | Triggers/Filtri | Pulsanti Social | Sondaggi | Video | Offerte Di Riferimento | Sweepstakes |
+   | Triggers/Filtri | Pulsanti Social | Sondaggi | Video | Offerte di riferimento | Lotterie |
    |---|---|---|---|---|---|
-   | Obiettivo raggiunto in riferimento |  |  |  | ![(tick)](assets/check.svg) |  |
-   | Condivide i contenuti | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) |
-   | Fate clic su Collegamento condiviso | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) |
-   | Squalifica gli Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg) |
-   | Entrate nell&#39;app Social |  |  |  |  | ![(tick)](assets/check.svg) |
-   | Entra in Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg) |
-   | Si riferisce all&#39;app Social |  |  |  | ![(tick)](assets/check.svg) | ![(tick)](assets/check.svg) |
-   | Accesso all&#39;offerta di riferimento |  |  |  | ![(tick)](assets/check.svg) |  |
-   | Votazione |  | ![(tick)](assets/check.svg) |  |  |  |
-   | Wins Sweepstakes |  |  |  |  | ![(tick)](assets/check.svg) |
+   | Obiettivo raggiunto in riferimento |  |  |  | ![(segno di spunta)](assets/check.png) |  |
+   | Condivide il contenuto | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) |
+   | Fai clic su Collegamento condiviso | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) |
+   | Squalifica gli Sweepstakes |  |  |  |  | ![(segno di spunta)](assets/check.png) |
+   | Guadagna l&#39;accesso all&#39;app Social |  |  |  |  | ![(segno di spunta)](assets/check.png) |
+   | Entra Sweepstakes |  |  |  |  | ![(segno di spunta)](assets/check.png) |
+   | Si riferisce all&#39;app Social |  |  |  | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) |
+   | Accesso all&#39;offerta di riferimento |  |  |  | ![(segno di spunta)](assets/check.png) |  |
+   | Voti in sondaggio |  | ![(segno di spunta)](assets/check.png) |  |  |  |
+   | Wins Sweepstakes |  |  |  |  | ![(segno di spunta)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >
