@@ -4,7 +4,7 @@ description: Token di attivazione per i momenti interessanti - Documenti Marketo
 title: Token di attivazione per i momenti interessanti
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
+source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -31,7 +31,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 **Attivatori e-mail**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -207,7 +207,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 **Trigger Salesforce**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -536,7 +536,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 **Trigger di Sales Connect**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -713,7 +713,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 **Varie**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
