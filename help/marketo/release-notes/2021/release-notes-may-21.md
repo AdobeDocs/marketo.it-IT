@@ -2,9 +2,9 @@
 description: Note sulla versione - Maggio 2021 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2021
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Diversi aggiornamenti critici delle API Bulk e Lead, tra cui la possibilità di 
 
 ## Annunci {#announcements}
 
-* **Piattaforme** di commutazione dei documenti Marketo: Siamo lieti di annunciare che i Marketo Product Docs si uniranno ad Adobe Experience League venerdì 7 maggio. Sarà comunque possibile utilizzare l’URL: docs.marketo.com e se hai degli articoli esistenti con segnalibro, verrai reindirizzato. Tutti i documenti sui prodotti attuali saranno disponibili sulla nuova piattaforma, con miglioramenti previsti per la fine dell&#39;anno.
+* **Piattaforme** di commutazione dei documenti Marketo: Siamo lieti di annunciare che i documenti sui prodotti Marketo sono entrati a far parte di Adobe Experience League venerdì 7 maggio. Sarà comunque possibile utilizzare l’URL: docs.marketo.com e se hai degli articoli esistenti con segnalibro, verrai reindirizzato. Tutti i documenti sui prodotti sono disponibili sulla nuova piattaforma, con miglioramenti pianificati per la fine dell&#39;anno.
 
 * **Amministrazione utente semplificata e Single Sign-On con tecnologia Adobe Identity System**: A partire da luglio 2021, i nuovi clienti del Marketo Engage di Adobi saranno caricati utilizzando le credenziali utente di Adobe. La migrazione degli attuali clienti al sistema di identità integrato non avverrà prima della metà del 2022 e non sarà necessaria alcuna azione da parte del cliente fino a nuovo avviso. Il single sign-on consente agli amministratori IT/di sicurezza di gestire più istanze di prodotti di Marketo Engage Adobe insieme ad altre soluzioni di Experience Cloud e di configurare SSO (Shared Services Organization) tramite una console comune. Gli amministratori possono gestire facilmente i gruppi di utenti e le adesioni degli utenti tramite un Admin Console comune.
+
+**_Webinar sulla versione del prodotto_**
+
+Vuoi saperne di più su queste funzioni e miglioramenti? Assicurati di [registrarti ora](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) per unirti a noi il 13 maggio alle 09:00 PT / 12:00 PM ET per un webinar live con il nostro team di prodotto per approfondire queste innovazioni.
