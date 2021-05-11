@@ -4,9 +4,9 @@ user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '8024'
+source-wordcount: '8023'
 ht-degree: 0%
 
 ---
@@ -809,7 +809,7 @@ ht-degree: 0%
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1065,7 +1065,7 @@ ht-degree: 0%
          + [Domini bloccati](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Blocco del contenuto](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Creare un sottoteam](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [Invita membri del team](product-docs/marketo-sales-connect/admin/invite-team-members.md)
+         + [Invitare gli utenti](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [Impostazione di SSO tramite SAML 2.0 in Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Impostazioni di condivisione](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Dettagli accesso utente](product-docs/marketo-sales-connect/admin/user-access-details.md)
