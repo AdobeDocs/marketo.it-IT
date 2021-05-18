@@ -1,10 +1,9 @@
 ---
 description: Note sulla versione - Maggio 2021 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2021
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ Le seguenti funzionalità sono incluse nella versione del 21 maggio. Per informa
 **_Versioni trimestrali_**
 
 Le seguenti funzionalità saranno rilasciate il **7 maggio 2021**.
-
->[!NOTE]
->
->Queste tre funzioni saranno disponibili entro la sera di martedì 11 maggio:
->
->* **Elenchi avanzati account**
->* **Esegui i passaggi del flusso di campagna**
->* **Attività bot e-mail con filtro**
-
 
 ## Esperienze basate su account {#Account-based-eaperiences}
 
