@@ -3,16 +3,15 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 0%
 
 ---
 
 
-# Guida Marketo {#using}
+# Guida a Marketo {#using}
 
 + [Pagina principale](home.md)
 + Guida introduttiva a Marketo {#getting-started-with-marketo}
@@ -38,7 +37,7 @@ ht-degree: 0%
       + [Reindirizzare una pagina di destinazione](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatizzare un avviso per le persone duplicate possibili](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Ereditazione di un&#39;istanza Marketo {#inheriting-a-marketo-instance}
-      + [Aiuto! Ho ereditato un&#39;istanza Marketo esistente](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Aiuto! Ho ereditato un&#39;istanza di Marketo esistente](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Elementi da disattivare](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Aspetti da esaminare: Competenze di base](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Come ottenere aiuto](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -807,7 +806,7 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1050,7 +1049,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Guida introduttiva {#getting-started}
          + [Panoramica di Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Guida introduttiva a Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Accesso alla nuova istanza di Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [Imposta Sales Connect](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [Pagina del mio profilo](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Video e Tutorials di avvio rapido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Modifica la password di vendita](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1203,7 +1203,7 @@ ht-degree: 0%
          + [Domande frequenti su contenuto e file allegato](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect ha un&#39;app iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [Come posso Inserire nell&#39;elenco Consentiti Sales Connect sul mio server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [Mi sono bloccata fuori dal mio account. Cosa devo fare?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [Mi sono bloccata fuori dal mio account. Cosa Faccio?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect è compatibile con Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Quali sono le versioni client più recenti?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Quali sono i termini del servizio di vendita Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1214,6 +1214,8 @@ ht-degree: 0%
       + Integrazioni {#integrations}
          + [Come registrare le e-mail ad altri CRM](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [Configurazione manuale della connessione Marketo](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Concessione dell’accesso agli utenti](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Momenti interessanti in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Rendere una campagna visibile agli utenti di Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + Persone {#people}
