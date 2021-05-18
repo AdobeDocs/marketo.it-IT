@@ -3,8 +3,7 @@ unique-page-id: 10099389
 description: Rilasci di plug-in Marketo per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
 title: Versioni plug-in di Marketo per Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
@@ -41,7 +40,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
    <th>Note</th> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">4.2.0.0</td> 
    <td colspan="1">16/10/20</td> 
    <td colspan="1">È stato aggiunto il supporto per la sincronizzazione di Campaign con MS Dynamics.</td> 
   </tr> 
@@ -86,7 +85,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
    <td colspan="1">Correzione bug: Quando il lead aveva un filtro di sincronizzazione impostato su NO e l’opportunità e il contatto non disponevano di un filtro di sincronizzazione, il registro di creazione non veniva generato per il contatto e l’opportunità quando il lead era qualificato.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1">29/03/16</td> 
    <td>Correzione bug: Un evento di assegnazione è stato registrato quando il filtro di sincronizzazione è stato disattivato.</td> 
   </tr> 
@@ -114,5 +113,5 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
 </table>
 
 >[!MORELIKETHIS]
+[Scarica la soluzione Marketo per la gestione dei lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
->[Scarica la soluzione Marketo per la gestione dei lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
