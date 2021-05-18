@@ -1,10 +1,9 @@
 ---
 description: Filtrare l’attività del bot e-mail - Documenti Marketo - Documentazione del prodotto
 title: Filtrare l’attività del bot e-mail
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # Filtrare l’attività del bot e-mail {#filtering-email-bot-activity}
 
 A volte, l’attività di bot e-mail può gonfiare erroneamente i dati di apertura e clic delle e-mail. Ecco come ripararlo.
-
->[!NOTE]
->
->Questa funzione verrà abilitata per tutte le istanze di Marketo la sera di martedì 11 maggio.
 
 >[!NOTE]
 >
