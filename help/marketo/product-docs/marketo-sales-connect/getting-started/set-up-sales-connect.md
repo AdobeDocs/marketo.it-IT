@@ -1,9 +1,9 @@
 ---
 description: Configurazione di Sales Connect - Marketo Docs - Documentazione del prodotto
 title: Imposta Sales Connect
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 Questo documento illustra i passaggi iniziali per la configurazione della nuova istanza di Sales Connect. Alcuni di questi passaggi richiedono l’accesso come amministratore Marketo, amministratore Salesforce e amministratore di Sales Connect. Segui le nostre guide qui sotto per completare la configurazione dell’istanza.
 
+>[!NOTE]
+>
+>**Autorizzazioni di amministrazione richieste.**
+
 ## Accesso al nuovo account Marketo Sales Connect {#accessing-your-new-marketo-sales-connect-account}
 
-Se hai acquistato Marketo Sales Connect, l’accesso all’istanza verrà fornito dalla sezione di amministrazione di Marketo. Fai clic qui per visualizzare le istruzioni su come un amministratore di Marketo può effettuare il provisioning dell’accesso alla tua nuova istanza.
+Se hai acquistato Marketo Sales Connect, l’accesso all’istanza verrà fornito dalla sezione di amministrazione di Marketo. [Fai clic ](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) qui per vedere le istruzioni su come un amministratore di Marketo può effettuare il provisioning dell’accesso alla tua nuova istanza.
 
 ![](assets/set-up-sales-connect-1.png)
 
