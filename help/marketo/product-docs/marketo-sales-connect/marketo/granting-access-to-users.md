@@ -1,9 +1,9 @@
 ---
 description: Concessione dell’accesso agli utenti - Documenti Marketo - Documentazione del prodotto
 title: Concessione dell’accesso agli utenti
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Segui i passaggi descritti in questo articolo per consentire agli utenti di Sales Connect di accedere alla connessione Marketo. Questo sblocca funzioni quali Momenti interessanti nel feed live e accesso a Campagne di marketing.
 
-È necessario invitare gli utenti a Sales Connect qui, prima che siano visibili nella pagina Marketo - Team Access, in cui è concesso l&#39;accesso alla connessione Marketo.
+È necessario invitare gli utenti a Sales Connect [qui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), prima che siano visibili nella pagina Marketo > Team Access (in Sales Connect), in cui viene concesso l&#39;accesso alla connessione Marketo.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Segui i passaggi descritti in questo articolo per consentire agli utenti di Sale
 
    >[!NOTE]
    >
-   >È possibile eseguire l&#39;assegnazione dell&#39;area di lavoro solo una volta al momento dell&#39;invito degli utenti. Una volta impostato, sarà necessario disconnettere l&#39;utente per modificarlo.
+   >È possibile eseguire l&#39;assegnazione dell&#39;area di lavoro solo una volta al momento della concessione dell&#39;accesso agli utenti. Una volta impostato, sarà necessario disconnettere l&#39;utente per modificarlo.
 
    ![](assets/granting-access-to-users-1.png)
 
@@ -33,9 +33,5 @@ Segui i passaggi descritti in questo articolo per consentire agli utenti di Sale
 1. Fai clic sull&#39;elenco a discesa Area di lavoro, seleziona le aree di lavoro desiderate e fai clic su **Connetti**.
 
    ![](assets/granting-access-to-users-3.png)
-
-   >[!NOTE]
-   >
-   >Se desideri aggiungere nuovi utenti, vai alla sezione Gestione team di Impostazioni amministratore e fai clic sul pulsante **Invita utenti** .
 
 Puoi aggiungere altri utenti dalla pagina Gestione team e seguire i passaggi descritti sopra per collegarli.
