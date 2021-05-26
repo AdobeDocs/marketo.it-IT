@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
+source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
 workflow-type: tm+mt
-source-wordcount: '8040'
+source-wordcount: '8030'
 ht-degree: 0%
 
 ---
@@ -1242,7 +1242,6 @@ ht-degree: 0%
          + [Non ho effettuato il log in cronologia attività](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Non ho effettuato il login a Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Abilita registrazione chiamate](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Come creare l&#39;elenco delle chiamate prioritarie in Sales Connect](product-docs/marketo-sales-connect/phone/how-to-create-your-priority-call-list-in-sales-connect.md)
          + [Come personalizzare il risultato della chiamata nel telefono di vendita](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Chiamata internazionale del telefono di vendita](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Presenza locale telefono di vendita](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
