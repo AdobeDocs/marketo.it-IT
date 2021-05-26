@@ -2,18 +2,30 @@
 unique-page-id: 17432598
 description: Impostazione del profiling dell’account - Documenti Marketo - Documentazione del prodotto
 title: Impostazione del profilo account
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 2%
 
 ---
-
 
 # Impostazione del profilo account {#setting-up-account-profiling}
 
 Segui questi passaggi per iniziare a utilizzare Profiling account.
+
+>[!CAUTION]
+>
+>Per il corretto funzionamento del profiling dell’account, i campi seguenti devono essere nascosti **not** .
+>
+>* Sito web
+>* Azienda
+>* E-mail
+>* Paese
+
+>
+>
+Scopri come [visualizzare un campo qui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. In My Marketo, apri **Gestione account Target**.
 
