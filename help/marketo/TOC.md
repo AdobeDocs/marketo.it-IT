@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 0%
@@ -81,10 +81,10 @@ ht-degree: 0%
          + [Dimension di account denominato in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Registri di account denominati](product-docs/target-account-management/measure/named-account-insights.md)
          + [Utilizzo di Personas](product-docs/target-account-management/using-personas.md)
-   + Profilo account {#account-profiling}
-      + [Impostazione del profilo account](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-      + [Classificazione e tuning del profilo dell&#39;account](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [Nuova individuazione account](product-docs/target-account-management/account-profiling/new-account-discovery.md)
+      + Profilo account {#account-profiling}
+         + [Impostazione del profilo account](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [Classificazione e tuning del profilo dell&#39;account](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [Nuova individuazione account](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
          + Informazioni sul SEO {#understanding-seo}
