@@ -3,10 +3,9 @@ unique-page-id: 37356194
 description: Inviare un elenco a Adobe Experience Cloud - Documentazione Marketo - Documentazione del prodotto
 title: Inviare un elenco a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -18,8 +17,8 @@ ht-degree: 0%
 >Impossibile utilizzare questa funzionalità in una distribuzione HIPAA di un&#39;istanza Marketo.
 
 >[!PREREQUISITES]
+[Configurare la condivisione del pubblico di Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)>
 >
->[Configurare la condivisione del pubblico di Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Applicazioni di destinazione supportate {#supported-destination-applications}
 
@@ -55,8 +54,7 @@ Una lista statica è solo quella, statica. L’elenco in Adobe Experience Cloud 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
-   >
-   >L&#39;iscrizione al pubblico può richiedere fino a 6-8 ore per essere completata in Adobe.
+   L&#39;iscrizione al pubblico può richiedere fino a 6-8 ore per essere completata in Adobe.
 
 ## Come inviare un elenco sincronizzato {#how-to-send-a-synced-list}
 
@@ -106,7 +104,7 @@ La sincronizzazione di un elenco significa che ogni volta che aggiorni un elenco
 
 **Condivisione su Adobe Analytics**
 
-Per i clienti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà la condivisione dei tipi di pubblico da Marketo alle suite di rapporti di Adobe Analytics. Tuttavia, per abilitarlo, è necessario eseguire alcuni passaggi aggiuntivi in Adobe Audience Manager. Per ulteriori informazioni su come impostare questa configurazione, consulta la documentazione di Adobe Audience Manager: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Per i clienti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà la condivisione dei tipi di pubblico da Marketo alle suite di rapporti di Adobe Analytics. Tuttavia, per abilitarlo, è necessario eseguire alcuni passaggi aggiuntivi in Adobe Audience Manager. Per ulteriori informazioni su come impostare questa configurazione, consulta la documentazione di Adobe Audience Manager: [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Utilizzo delle caratteristiche per i clienti Adobe Audience Manager**
 
