@@ -3,8 +3,7 @@ unique-page-id: 1146962
 description: Punteggio delle modifiche - Documenti Marketo - Documentazione del prodotto
 title: Cambia punteggio
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -39,4 +38,5 @@ Puntare le persone è facile e potente per aiutare il tuo team di vendita a dare
    * **-5** decrementerà (numeri negativi consentiti)
    * **=5** farà il punteggio che il numero esatto
    * **=-5** farà il punteggio che numero esatto negativo
-   Ottieni rapidamente alcuni punteggi di base e poi modificali i risultati nel tempo. È quello che abbiamo fatto!
+
+Ottieni rapidamente alcuni punteggi di base e poi modificali i risultati nel tempo. È quello che abbiamo fatto!
