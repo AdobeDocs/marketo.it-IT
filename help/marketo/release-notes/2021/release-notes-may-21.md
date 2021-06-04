@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione - Maggio 2021 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2021
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 813f06e6b54c8fb2f3029f92d642d25e39424b5e
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,6 @@ Con l’anteprima di ricerca globale, gli addetti al marketing possono vedere ra
 * **Invio** modulo spam blocco: Protect il database del Marketo Engage di Adobe da dati spazzatura che possono causare avvisi non validi alle vendite, attivare i backlog della campagna e creare attività indesiderate. Il nuovo meccanismo di convalida rifiuta l’invio di moduli non validi e interrompe gli attacchi di bot. I dati sono più puliti e le campagne di marketing vengono eseguite come previsto, riducendo al minimo il rischio di inviare lead non qualificati alle vendite.
 
 * **Avviso** di approvazione del programma e-mail: Impedisci l’invio di e-mail errate quando le nuove modifiche sono state apportate a un programma approvato in precedenza.  L’avviso funge da guardrail quando un addetto al marketing applica modifiche a un’e-mail già approvata, ma poi dimentica di approvare le modifiche più recenti e invia l’e-mail a un pubblico di grandi dimensioni senza contenuto, contenuto errato o contenuto obsoleto.
-
-* **Azione a flusso singolo nella pagina** dei dettagli lead: Consenti agli utenti di eseguire azioni di flusso come l’invio di e-mail, la modifica del proprietario del lead o qualsiasi altra azione di campagna intelligente su singoli lead dalla pagina dei dettagli del lead tramite il menu delle azioni di flusso. Gli addetti al marketing possono eseguire azioni di flusso sui lead senza passare alla vista griglia del database lead.
 
 * **Attività** bot e-mail con filtro: Impedisci avvisi di vendita non intenzionali e rapporti e-mail inesatti tramite la nuova funzionalità di filtro delle attività bot delle e-mail. Identifica e filtra aperture e clic che possono essere associati a bot di e-mail che ispezionano i collegamenti che portano a falsi attivatori e avvisi di vendita o a rapporti errati.
 
