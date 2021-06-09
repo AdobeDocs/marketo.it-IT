@@ -1,14 +1,13 @@
 ---
-description: Impostazione di Sales Insight per il tuo team - Documenti Marketo - Documentazione del prodotto
+description: Impostazione di Sales Insight per il tuo team - Marketo Docs - Documentazione del prodotto
 title: Impostazione di Sales Insight per il team
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
+source-git-commit: ecceb1a3aff3a2088379f8f4f2ac33e566f90e21
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Impostazione di Sales Insight per il team {#setting-up-sales-insight-for-your-team}
 
@@ -38,15 +37,13 @@ Se disponi di un profilo dedicato per gli utenti di Sales Insight, puoi saltare 
 
    **Per i profili a cui è consentito l’accesso a Sales Insight**:
 
-   * In Impostazioni app personalizzate, seleziona Marketo per rendere visibile l’app Marketo .
-   * In Impostazioni scheda, modificare le schede Marketo su Predefinito su
-   * In Autorizzazioni oggetto personalizzate, selezionare Leggi, Crea, Modifica ed Elimina su Marketing Sales Insight Config (se l’utente deve avere accesso alle impostazioni di configurazione, in genere utilizzate per gli amministratori)
+   * In Impostazioni scheda, modificare le schede Marketo in Predefinito su
+   * In Autorizzazioni oggetto personalizzate, selezionare Leggi, Crea, Modifica ed Elimina in Marketo Sales Insight Config (se l’utente deve avere accesso alle impostazioni di configurazione, in genere utilizzate per gli amministratori)
 
    **Per i profili ai quali non è consentito l’accesso a Sales Insight**:
 
-   * In Impostazioni app personalizzate, deseleziona Marketo per nascondere l’app Marketo
    * In Impostazioni scheda, modificare le schede Marketo in Tabulazione nascosta
-   * In Autorizzazioni oggetti personalizzati, deseleziona Leggi, Crea, Modifica ed Elimina nella configurazione Approfondimenti vendite Marketo
+   * In Autorizzazioni oggetto personalizzate, deselezionare Leggi, Crea, Modifica ed Elimina in Marketo Sales Insight Config
 
 
 1. Al termine, fai clic su **Salva**.
