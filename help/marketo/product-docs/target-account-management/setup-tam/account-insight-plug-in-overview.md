@@ -1,15 +1,14 @@
 ---
 unique-page-id: 12979282
-description: Panoramica del plug-in di Insight dell’account - Documenti Marketo - Documentazione del prodotto
+description: Panoramica del plug-in Insight dell’account - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del plug-in di Insight dell’account
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
+source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # Panoramica del plug-in di Insight dell’account {#account-insight-plug-in-overview}
 
@@ -22,6 +21,8 @@ Account Insight è un plug-in Chrome che presenta ai team di vendita informazion
 >[!CAUTION]
 >
 >Il plug-in Account Insight non funziona nelle sottoscrizioni per le quali è abilitato [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (single sign-on).
+
+>[!CAUTION]
 >
 >Il contesto CRM funziona per Salesforce quando si avvia il plug-in da un account, lead o contatti. Il contesto CRM non funzionerà per Dynamics quando si avvia il plug-in da un account, lead o contatti. Per gli utenti di Dynamics, si consiglia di utilizzare il plug-in Account Insight .
 
@@ -80,5 +81,5 @@ Fai clic sull’elenco a discesa **Filtro** per filtrare in base a diversi tipi 
 Roba fantastica!
 
 >[!MORELIKETHIS]
+[Configurare la funzione Approfondimenti account](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
->[Configurare la funzione Approfondimenti account](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
