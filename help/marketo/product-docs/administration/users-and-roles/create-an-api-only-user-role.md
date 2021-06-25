@@ -2,8 +2,7 @@
 unique-page-id: 2360203
 description: Creare un ruolo utente solo API - Documenti Marketo - Documentazione del prodotto
 title: Creare un ruolo utente solo API
-translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1cb8541afadb9a2c049d815fbc8d35a5e1bf01f6
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -41,4 +40,4 @@ Se desideri eseguire l&#39;integrazione con Marketo tramite l&#39; [API REST](ht
 
 >[!MORELIKETHIS]
 >
->Ok, ben fatto! Ora [creiamo un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+>Ok, ben fatto! Ora [creiamo un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
