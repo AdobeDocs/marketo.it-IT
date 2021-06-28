@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configurare Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Documentazione del prodotto
 title: Configurare Marketo Sales Insight in Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,7 @@ Di seguito sono riportati i passaggi da effettuare per configurare Marketo Sales
 
 ## Configurare la funzione Approfondimenti vendite in Marketo {#configure-sales-insight-in-marketo}
 
-1. Apri una nuova finestra del browser per ottenere le credenziali Marketo Sales Insight dal tuo account Marketo.
-
-1. Vai all&#39;area Amministratore e seleziona **Informazioni sulle vendite**.
+1. Ottieni le tue credenziali MSI in Marketo. Vai all&#39;area Amministratore e seleziona **Informazioni sulle vendite**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ Di seguito sono riportati i passaggi da effettuare per configurare Marketo Sales
 1. Verrà visualizzato un pop-up di conferma. Fare clic su **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   Tieni aperta questa finestra. Queste informazioni saranno necessarie più avanti a Salesforce.
 
 ## Configurazione di Sales Insight in Salesforce {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ Di seguito sono riportati i passaggi da effettuare per configurare Marketo Sales
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Inserisci il Nome del sito remoto (può essere simile a &quot;MarketoRestAPI&quot;). Inserisci URL del sito remoto, che è l’URL API dal pannello Configurazione API di ripristino in Marketo. Fare clic su **Salva**. Sono state create le impostazioni del sito remoto per l’API di ripristino.
-
-## Configurare Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Accedi alla tua istanza Marketo e fai clic su **Amministratore**.
-
-   ![](assets/login-admin.png)
-
-1. Fare clic su **Informazioni sulle vendite**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. Fai clic su **Modifica configurazione API**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. Immetti una **Chiave segreto API** e fai clic su **Salva**.
-
-   >[!CAUTION]
-   Non utilizzare una e commerciale (&amp;) nella chiave segreto API.
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   Tieni aperta questa finestra. Queste informazioni saranno necessarie in seguito in Salesforce.
-
-1. Torna a Salesforce, fai clic su **Configurazione**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. Cerca &quot;sito remoto&quot; e fai clic su **Impostazioni sito remoto** in **Controlli di sicurezza**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Fare clic su **Nuovo sito remoto**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Inserisci **Nome sito remoto** e **URL sito remoto**, quindi fai clic su **Salva**.
-
-   ![](assets/remote-site.png)
+1. Inserisci il Nome del sito remoto (può essere simile a &quot;MarketoAPI&quot;). Inserisci URL del sito remoto, che è l’URL API dal pannello Configurazione API di ripristino in Marketo. Fare clic su **Salva**. Sono state create le impostazioni del sito remoto per l’API di ripristino.
 
    >[!NOTE]
-   Scegli il tuo **Nome sito remoto** (MarketoAPI viene utilizzato qui). Il **URL del sito remoto** si trova nel campo Host Marketo della finestra di dialogo Modifica configurazione API dal passaggio 4.
+   __ Scegli il nome del sito  **remoto**  (MarketoAPI viene utilizzato qui). Il **URL del sito remoto** si trova nel campo Host Marketo della finestra di dialogo Modifica configurazione API dal passaggio 3 nella sezione &quot;Configura informazioni sulle vendite in Marketo&quot;.
 
 ## Personalizzare i layout di pagina {#customize-page-layouts}
 
