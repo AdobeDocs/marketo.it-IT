@@ -2,9 +2,9 @@
 description: Inviare un segmento Adobe Experience Cloud a un elenco statico di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Inviare un segmento Adobe Experience Cloud a un elenco statico di Marketo
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. Scegli il campo pertinente che contiene l’indirizzo e-mail che identifica l’utente. Al termine, fai clic su **Seleziona** .
+1. Scegli il pulsante di scelta **Seleziona attributi** o **Seleziona namespace identità** (in questo esempio, scegliamo Attributi).
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >Se hai scelto **Seleziona namespace identità**, dopo aver effettuato la selezione, passa al passaggio 15.
+
+1. Scegli il campo pertinente che contiene l’indirizzo e-mail che identifica l’utente. Al termine, fai clic su **Seleziona** .
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
 1. Fai clic sull’icona di mappatura.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. Scegli il campo di destinazione e fai clic su **Seleziona**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. Fare clic su **Avanti**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _In Marketo_, crea un elenco statico oppure trova e seleziona uno degli elenchi già creati. Copia l&#39;ID di mappatura dalla fine dell&#39;URL.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
 1. In Adobe Experience Platform, immetti l&#39;ID appena copiato. Scegli la data di inizio. Le persone si sincronizzano continuamente fino alla data di fine scelta. Per una sincronizzazione indefinita, lascia vuota la data di fine. Al termine, fai clic su **Avanti**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. Conferma le modifiche e fai clic su **Fine**.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
