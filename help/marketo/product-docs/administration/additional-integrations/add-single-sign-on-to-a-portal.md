@@ -3,15 +3,14 @@ unique-page-id: 2360356
 description: Aggiungere Single Sign-On a un portale - Marketo Docs - Documentazione del prodotto
 title: Aggiungere Single Sign-On a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
-# Aggiungi Single Sign-On a un portale {#add-single-sign-on-to-a-portal}
+# Aggiungere Single Sign-On a un portale {#add-single-sign-on-to-a-portal}
 
 Se disponi di un servizio di directory che autentica gli utenti, puoi consentire l’accesso single sign-on (SSO) in Marketo. Supportiamo questa funzione utilizzando la versione 2.0 o successiva di Security Assertion Markup Language (SAML).
 
@@ -30,9 +29,9 @@ Una volta abilitato l’SSO, l’IdP può convalidare le credenziali di un utent
 ## Come inviare la richiesta {#how-to-send-the-request}
 
 * Invia la richiesta SSO, che è una risposta SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Come URL del pubblico dell’SP. Usa `https://saml.marketo.com/sp`
-* Se utilizzi l’attributo SPNameQualifier, imposta l’elemento NameID per Subject su `https://saml.marketo.com/sp`
-* Se federi più abbonamenti Marketo allo stesso provider SSO, puoi utilizzare URL SP univoci per ogni sottomodulo Marketo con il formato `https://saml.marketo.com/sp/<munchkin_id>`
+* Come URL del pubblico dell’SP. Usa `http://saml.marketo.com/sp`
+* Se utilizzi l’attributo SPNameQualifier, imposta l’elemento NameID per Subject su `http://saml.marketo.com/sp`
+* Se federi più abbonamenti Marketo allo stesso provider SSO, puoi utilizzare URL SP univoci per ogni sottomodulo Marketo con il formato `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
@@ -51,7 +50,7 @@ Una volta abilitato l’SSO, l’IdP può convalidare le credenziali di un utent
 >
 >Prima di iniziare, chiedi al certificato del provider di identità in formato X.509 e con estensione crt, der o cer.
 
-## Aggiorna le impostazioni SAML {#update-saml-settings}
+## Aggiorna impostazioni SAML {#update-saml-settings}
 
 SSO è disattivato per impostazione predefinita. Segui questi passaggi per abilitare SAML e configurarlo.
 
@@ -108,6 +107,6 @@ SSO è disattivato per impostazione predefinita. Segui questi passaggi per abili
 >[!MORELIKETHIS]
 >
 >* [Utilizzo di un ID universale per l’accesso all’abbonamento](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Limita accesso utente solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitare gli utenti Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+* [Limita accesso utente solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+* [Invitare gli utenti Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
