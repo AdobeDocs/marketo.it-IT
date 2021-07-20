@@ -3,14 +3,14 @@ unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 05a174096a6ecab0791799db0af9291e1aa61c08
+source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# Pianificazione rilascio {#release-schedule}
+# Pianificazione del rilascio {#release-schedule}
 
 **Versione**: Marketo utilizza una pianificazione trimestrale delle versioni principali. Una volta disponibili, ciascuna delle note sulla versione sarà collegata nella tabella seguente.
 
@@ -48,7 +48,7 @@ _Le date di rilascio sono soggette a modifica_
   </tr> 
   <tr> 
    <td colspan="1">Agosto '21</td> 
-   <td colspan="1">13 agosto 2021</td> 
+   <td colspan="1">20 agosto 2021</td> 
    <td colspan="1">In corso</td> 
   </tr> 
   <tr> 
