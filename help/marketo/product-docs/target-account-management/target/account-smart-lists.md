@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Elenchi avanzati account - Documenti Marketo - Documentazione del prodotto
 title: Elenchi avanzati account
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -16,9 +16,9 @@ Ecco come identificare in modo rapido e preciso gli account di alto valore.
 
 >[!NOTE]
 >
->Questa funzione è disponibile solo per coloro che dispongono sia di TAM che dell’esperienza utente di Marketo Engage Adobe Next-Gen abilitata.
+>Questa funzione è disponibile solo per coloro che dispongono sia del componente aggiuntivo Gestione account di Target che di una licenza TAM rilasciata.
 
-## Creare un elenco smart account {#create-an-account-smart-list}
+## Creare un elenco avanzato account {#create-an-account-smart-list}
 
 1. In Marketo, vai a **Attività di marketing**.
 
@@ -42,7 +42,7 @@ Ecco come identificare in modo rapido e preciso gli account di alto valore.
 
 Il tuo Account Smart List è stato creato. Vedi sotto per i passaggi per la definizione delle sue regole.
 
-## Regole elenco avanzato account {#account-smart-list-rules}
+## Regole di elenco avanzato account {#account-smart-list-rules}
 
 Gli elenchi smart account funzionano in modo simile agli elenchi smart standard, con un&#39;eccezione notevole: contenitori.
 
@@ -78,7 +78,7 @@ Ed è tutto! Consulta la sezione seguente per scoprire come sfruttare il tuo Acc
 >
 >Come per gli elenchi avanzati standard, puoi utilizzare la logica avanzata per perfezionare ulteriormente i risultati. Per farlo, sono necessari almeno tre filtri e in Elenchi avanzati account un contenitore (indipendentemente dal numero di filtri che contiene) è uguale a un filtro.
 
-## Azioni elenco avanzato account {#account-smart-list-actions}
+## Azioni di elenco avanzato account {#account-smart-list-actions}
 
 Nella scheda Panoramica dell’elenco avanzato account, noterai alcune opzioni di azione.
 
