@@ -1,18 +1,17 @@
 ---
-description: Utilizzo della ricerca globale - Documenti Marketo - Documentazione del prodotto
+description: Utilizzo della ricerca globale - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo della ricerca globale
-translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
 
+# Utilizzo della ricerca globale {#using-the-global-search}
 
-# Utilizzo della Ricerca globale {#using-the-global-search}
-
-La potente ricerca globale offre un sacco di opzioni. Andiamo sopra di loro.
+La potente ricerca globale offre un sacco di opzioni senza limiti sui risultati visualizzati.
 
 ## Risultati completamento automatico {#autocomplete-results}
 
@@ -57,7 +56,7 @@ Utilizza la ricerca completa se i risultati di completamento automatico non most
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Prima pagina (o solo) di tutti i risultati della ricerca, fai clic in un punto qualsiasi delle breadcrumb da portare direttamente a quell'area</td> 
   </tr>
   <tr>
@@ -65,8 +64,8 @@ Utilizza la ricerca completa se i risultati di completamento automatico non most
    <td>Date/ore di creazione/ultima modifica dell’elemento</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Scegli una specifica sezione principale di Marketo per eseguire ricerche o eseguire ricerche tutte insieme</td> 
+   <td>1</td> 
+   <td>Scegliere una specifica sezione principale di Marketo per eseguire ricerche o eseguire ricerche in una sola volta</td> 
   </tr>
   <tr>
    <td>4</td> 
