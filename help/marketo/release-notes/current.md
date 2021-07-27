@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Le seguenti funzionalità sono incluse nella versione del 21 agosto. Per informa
 Le seguenti funzionalità saranno rilasciate il **20 agosto 2021**.
 
 ## Integrazione Adobe Experience Platform {#adobe-experience-platform-integration}
-
-* **Connettore Adobe Experience Platform nativo per la condivisione di tipi di pubblico su Marketo Engage**: Abilita l’orchestrazione di campagne multicanale nel Marketo Engage per i segmenti di pubblico creati in Adobe Experience Cloud tramite connettore di destinazione nativo. Il connettore utilizza indirizzi e-mail per far corrispondere i profili Adobe Experience Platform ai profili lead del Marketo Engage, consentendo una condivisione dei segmenti altamente accurata tra le applicazioni. Gli elenchi di Marketi Engage statici vengono creati automaticamente e consentono agli addetti al marketing di raggiungere il pubblico target con messaggi altamente personalizzati o di avviare flussi di lavoro. Attiva i tipi di pubblico sfruttando il proprio contesto di account e opportunità e dati più completi e in tempo reale, ad Experience Platform.
 
 * **Autenticazione utente Marketo Engage tramite Adobe Identity**: A partire da settembre 2021, i nuovi utenti del Marketo Engage con pacchetti Enterprise verranno caricati utilizzando le credenziali utente Adobe ID. La migrazione degli attuali utenti al sistema di identità integrato non avverrà prima della metà del 2022 e non sarà necessaria alcuna azione fino a nuovo avviso. L’autenticazione utente di Adobe Identity consente agli amministratori IT/Security di gestire più istanze di prodotti di Marketo Engage insieme ad altre soluzioni di Experience Cloud, nonché di configurare SSO tramite una console comune. Gli amministratori possono gestire facilmente i gruppi di utenti e le adesioni degli utenti in un’unica posizione.
 
