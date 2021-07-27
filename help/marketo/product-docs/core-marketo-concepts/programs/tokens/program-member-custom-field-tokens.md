@@ -3,10 +3,9 @@ unique-page-id: 1147114
 description: Token di campo personalizzati per i membri del programma - Documenti Marketo - Documentazione del prodotto
 title: Token dei campi personalizzati dei membri del programma
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -24,7 +23,7 @@ I token membri sono utilizzati per i campi che rientrano nell’ambito di partec
 >[!NOTE]
 >
 >* I campi personalizzati dei membri del programma possono essere utilizzati solo nel contesto di un programma.
->* I token dei campi personalizzati dei membri del programma non possono essere utilizzati in: script e-mail, preintestazione e-mail, token di data in passaggi di attesa o snippet.
+>* I token dei campi personalizzati dei membri del programma non possono essere utilizzati in: preintestazione e-mail, token di data in passaggi di attesa o snippet.
 >* Lo stato dei membri del programma non è supportato nei token membri.
 
 
