@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ![(stella)](assets/yellow-star.png)
 
-* **Limitazione connessione e-mail (GA)**: Migliora il recapito dei messaggi e-mail e ridimensiona le comunicazioni di vendita personalizzate con la limitazione della connessione e-mail per Sales Connect. Questa nuova tecnologia gestisce automaticamente i tempi di invio delle e-mail per creare esperienze senza soluzione di continuità per gli utenti di Exchange e Gmail. Diminuisci o elimina l’utilizzo di applicazioni di invio in blocco di e-mail di terze parti e invia con sicurezza tutte le tue e-mail da Sales Connect.
+* **Limitazione connessione e-mail (Beta)**: Migliora il recapito dei messaggi e-mail e ridimensiona le comunicazioni di vendita personalizzate con la limitazione della connessione e-mail per Sales Connect. Questa nuova tecnologia gestisce automaticamente i tempi di invio delle e-mail per creare esperienze senza soluzione di continuità per gli utenti di Exchange e Gmail. Diminuisci o elimina l’utilizzo di applicazioni di invio in blocco di e-mail di terze parti e invia con sicurezza tutte le tue e-mail da Sales Connect.
+
+>[!NOTE]
+>
+>La limitazione delle e-mail è ora disponibile in versione beta. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Approfondimenti** attività di vendita migliorati: Acquisisci e attiva un coinvolgimento personalizzato in base alle attività precedenti del tuo team di vendita. È possibile utilizzare nuovi attributi quali il collegamento di registrazione delle chiamate di vendita, il nome della campagna di vendita e l’oggetto dell’e-mail di vendita negli elenchi smart del Marketo Engage.  Queste attività possono essere esportate e segnalate tramite l’API REST di Marketo Engage o l’esportazione in blocco e sono disponibili su filtri e trigger come vincoli aggiuntivi per gli elenchi avanzati.
 
