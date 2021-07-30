@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
 workflow-type: tm+mt
-source-wordcount: '8045'
+source-wordcount: '8047'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 + [Pagina principale](home.md)
 + Guida introduttiva a Marketo {#getting-started-with-marketo}
    + [Introduzione](getting-started.md)
-   + [Cos&#39;è Marketo?](getting-started/what-is-marketo.md)
+   + [Che cos&#39;è l&#39;Marketo Engage Adobe?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glossario Marketo](getting-started/marketo-glossary.md)
    + [Icona Glossario](getting-started/icon-glossary.md)
    + Configurazione {#setup}
@@ -810,7 +810,7 @@ ht-degree: 0%
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
