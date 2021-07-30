@@ -1,7 +1,7 @@
 ---
 description: Guida introduttiva per gli amministratori di Sales Connect - Marketo Docs - Documentazione del prodotto
 title: Guida introduttiva per gli amministratori di Sales Connect
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Per collegare l’istanza di Sales Connect all’istanza di Salesforce, in quali
 La connessione a Marketo consentirà ai tuoi venditori di sfruttare la potenza dell’automazione del marketing e le informazioni di marketing nelle loro attività di ricerca. Le seguenti funzioni richiedono la configurazione di un’integrazione con Marketo.
 
 * Condividi [campagne di marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) con i venditori
-* Invia [Momenti interessanti](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) al feed live
+* Invia [Momenti interessanti](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) al feed live
 * Registrazione delle attività di vendita su Marketo
 
 Per ulteriori informazioni su come connettersi a Marketo e concedere agli utenti di vendita l&#39;accesso alla connessione, fare clic qui.
