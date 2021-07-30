@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 99d30f70d83df16a14c874f6ed5cc215a9e76705
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8048'
 ht-degree: 0%
 
 ---
@@ -1216,7 +1216,7 @@ ht-degree: 0%
       + Marketo {#marketo}
          + [Configurazione della connessione Marketo](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Concessione dell’accesso agli utenti](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-         + [Momenti interessanti in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
+         + [Momenti interessanti in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Rendere una campagna visibile agli utenti di Sales Connect](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + Persone {#people}
          + [Visualizzazione dettagli persona](product-docs/marketo-sales-connect/people/person-detail-view.md)
