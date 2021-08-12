@@ -3,16 +3,16 @@ description: Esportazione di metadati attività personalizzati - Documentazione 
 title: Esportazione metadati attività personalizzata
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Esportazione metadati attività personalizzata {#custom-activity-metadata-export}
 
-Se utilizzi l’API SOAP o Munchkin, puoi esportare lo schema metadati dell’attività personalizzata. Ecco come ottenerlo.
+Segui i passaggi riportati di seguito per esportare lo schema metadati dell’attività personalizzata.
 
 1. In My Marketo, fai clic su **Admin**.
 
