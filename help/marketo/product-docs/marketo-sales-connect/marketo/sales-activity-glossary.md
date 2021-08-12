@@ -3,10 +3,10 @@ description: Glossario delle attività di vendita - Documenti Marketo - Document
 title: Glossario delle attività di vendita
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 3%
+source-wordcount: '416'
+ht-degree: 2%
 
 ---
 
@@ -60,7 +60,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
  <tr>
   <td>ID modello</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">Email di vendita ricevute</th>
   <td>Ricevuto da</td>
  </tr>
@@ -150,6 +150,74 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <th>Descrizione</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Dettagli</strong></td> 
+   <td>Dettagli del messaggio di errore non recapitato.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>E-mail</strong></td> 
+   <td>Indirizzo e-mail rimbalzato.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Collegamento</strong></td> 
+   <td>URL su cui è stato fatto clic.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Ricevuto da</strong></td> 
+   <td>Indirizzo e-mail della persona che ha inviato l’e-mail.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Risposta alla chiamata di vendita da</strong></td> 
+   <td>Nome della persona che ha risposto alla chiamata.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Durata chiamata vendite</strong></td> 
+   <td>Durata della chiamata in secondi.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Chiamata Di Vendita Effettuata Da</strong></td> 
+   <td>Indirizzo e-mail del venditore che ha effettuato la chiamata.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL registrazione chiamata vendita</strong></td> 
+   <td>URL della registrazione della chiamata.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Stato della chiamata di vendita</strong></td> 
+   <td>Salva lo stato della chiamata finale, che include: completato, nessuna risposta, annullato, non riuscito.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Oggetto della chiamata di vendita</strong></td> 
+   <td>Chiama il risultato selezionato da un utente di vendita nel dialer.</td> 
+  </tr>
+  <tr> 
+   <td><strong>ID campagna di vendita</strong></td> 
+   <td>ID univoco per la risorsa della campagna di vendita in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nome della campagna di vendita</strong></td> 
+   <td>Nome della campagna di vendita.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL della campagna di vendita</strong></td> 
+   <td>URL di connessione alle vendite per la campagna di vendita.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Oggetto e-mail vendite</strong></td> 
+   <td>Oggetto dell'e-mail.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Numero di telefono di vendita chiamato</strong></td> 
+   <td>Numero di telefono chiamato dalle vendite.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nome del modello di vendita</strong></td> 
+   <td>Nome del modello e-mail in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL del modello di vendita</strong></td> 
+   <td>URL di connessione alle vendite per il modello e-mail.</td> 
+  </tr>
   <tr> 
    <td><strong>Inviato da</strong></td>
    <td>Indirizzo e-mail della persona che ha inviato l’e-mail.</td> 
@@ -162,18 +230,6 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
    <td><strong>ID modello</strong></td> 
    <td>Quando l'origine è Tout, l'ID modello sarà l'ID modello di Marketo Sales Connect. Utilizza questa opzione per eseguire il targeting di un modello specifico invece della riga dell’oggetto, che potrebbe essere presente in più modelli.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Ricevuto da</strong></td> 
-   <td>Indirizzo e-mail della persona che ha inviato l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Dettagli</strong></td> 
-   <td>Dettagli del messaggio di errore non recapitato.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>E-mail</strong></td> 
-   <td>Indirizzo e-mail rimbalzato.</td> 
   </tr> 
  </tbody> 
 </table>
