@@ -3,10 +3,9 @@ unique-page-id: 12980733
 description: Glossario di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '4231'
+source-wordcount: '4205'
 ht-degree: 0%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 0%
 # Glossario Marketo {#marketo-glossary}
 
 Di seguito sono riportate le definizioni di molti termini che si possono incontrare quando si utilizza Marketo. Per richiedere l&#39;aggiunta di un termine, [invia un&#39;e-mail](mailto:GRP-Marketo-articlefeedback@adobe.com).
-
-| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[M](#M)** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **[N](#N)** | **[O](#O)** | **[P](#P)** | **[Q](#Q)** | **[R](#R)** | **[S](#S)** | **[T](#T)** | **[U](#U)** | **V** | **[W](#W)** | **X** | **Y** | **Z** |
 
 ## A {#a}
 
