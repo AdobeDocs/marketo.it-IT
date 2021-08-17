@@ -3,10 +3,9 @@ unique-page-id: 37355768
 description: Importazione di risorse con Adobe Experience Manager - Documentazione Marketo - Documentazione del prodotto
 title: Importazione di risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -17,16 +16,15 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 >[!AVAILABILITY]
 >
->
 >Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
 
 >[!PREREQUISITES]
 >
 >Assicurati di aver già eseguito la [configurazione AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->Attualmente, questa funzione è supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nell’ultima versione di Chrome (v. 80), a seconda delle impostazioni dei cookie SameSite.
+>Questa funzione è completamente supportata nelle versioni correnti di Firefox, Chrome e Edge. Non è supportato in Safari.
 
 1. Fare clic su **Design Studio**.
 
@@ -40,7 +38,7 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
    ![](assets/three-1.png)
 
-1. Accedi a Adobe Experience Manager (se non lo hai già fatto).
+1. Accedi ad Adobe Experience Manager (se non lo hai già fatto).
 
    ![](assets/four-1.png)
 
