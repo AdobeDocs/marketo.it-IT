@@ -1,7 +1,7 @@
 ---
 description: Esegui campagna - Documentazione Marketo - Documentazione del prodotto
 title: Esegui campagna
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -67,11 +67,11 @@ Quando utilizzi la campagna di pianificazione o richiesta [nell&#39;API](https:/
 * Le campagne eseguibili non possono essere richiamate in più aree di lavoro
 * Se utilizzi l&#39;azione di flusso [Rimuovi da flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) per il targeting di una campagna eseguibile, eseguirai il targeting sia per il figlio che per il padre
 * Sfruttando l’ereditarietà dei token - Ad esempio, se disponi di un singolo flusso di punteggio comune attivato da più risorse diverse, puoi definire un punteggio My Token predefinito nella campagna figlio e nella campagna padre in modo da poter sovrascrivere il valore della campagna Punteggio figlio per le campagne principali (vedi sotto per un esempio visivo)
-* Al momento la nidificazione delle campagne eseguibili non è disponibile, ma sarà in una prossima versione
+* Le campagne eseguibili possono essere richiamate fino a tre livelli di profondità (ad esempio, Campagna padre > Figlio > Figlio > Figlio)
 
 >[!CAUTION]
 >
->Non lasciare mai non validi gli elenchi smart per le campagne eseguibili, altrimenti **nessuno** potrà qualificarli. Si consiglia di creare risorse separate per gli elenchi avanzati, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di Smart List&quot; nella Campagna eseguibile in modo da poter cambiare la definizione della tua smart list.
+>Non lasciare mai non validi gli elenchi smart per Campagne eseguibili, altrimenti **nessuno** potrà qualificarli. Si consiglia di creare risorse separate per gli elenchi avanzati, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di Smart List&quot; nella Campagna eseguibile in modo da poter cambiare la definizione della tua smart list.
 
 ## Esempio di ereditarietà dei token {#token-inheritance-example}
 
