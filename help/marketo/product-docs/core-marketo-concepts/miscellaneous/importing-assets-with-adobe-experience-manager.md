@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Importazione di risorse con Adobe Experience Manager - Documentazione Marketo - Documentazione del prodotto
 title: Importazione di risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -60,8 +60,8 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 ## Aspetti da considerare {#things-to-note}
 
-Marketo supporta attualmente le versioni 6.4 e 6.5 di Adobe Experience Manager.
+* Marketo supporta attualmente le versioni 6.4 e 6.5 di Adobe Experience Manager.
 
-Tutti gli utenti della tua istanza potranno visualizzare/accedere alle immagini importate.
+* Tutti gli utenti della tua istanza potranno visualizzare/accedere alle immagini importate.
 
-Le immagini non vengono aggiornate automaticamente. Se un&#39;immagine importata in Marketo Design Studio viene aggiornata in AEM, è necessario reimportarla manualmente in Marketo.
+* Le immagini non vengono aggiornate automaticamente. Se un&#39;immagine importata in Marketo Design Studio viene aggiornata in AEM, è necessario reimportarla manualmente in Marketo.
