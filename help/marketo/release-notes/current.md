@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ Le seguenti funzionalità saranno rilasciate il **20 agosto 2021**.
 
 * **Pagina**  singola azione di flusso in dettagli persona (disponibile entro il 30 agosto): Esegui azioni di flusso come l’invio di e-mail, la modifica del proprietario della persona o qualsiasi altra azione di campagna intelligente su singoli utenti dalla pagina dei dettagli della persona utilizzando il menu delle azioni di flusso senza passare alla visualizzazione della griglia del database.
 
-* **Esportazione** attività personalizzate: L’esportazione dei metadati supporta ora tutti gli oggetti e i rispettivi metadati che possono essere utilizzati per condividere, analizzare e progettare il modello di dati di abbonamento.
+* **[Esportazione](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** attività personalizzate: L’esportazione dei metadati supporta ora tutti gli oggetti e i rispettivi metadati che possono essere utilizzati per condividere, analizzare e progettare il modello di dati di abbonamento.
 
 ## Miglioramenti API {#api-enhancements}
-
-* **API** metadati campi personalizzati: Creazione e gestione semplificata dei campi personalizzati nel Marketo Engage per le integrazioni dei partner. Crea automaticamente nuovi campi su un oggetto lead e apporta aggiornamenti ai campi in più istanze di Marketi Engage immediatamente e simultaneamente.
 
 * **API** per l’invio di moduli: Quando un indirizzo e-mail viene duplicato in due o più record Lead, aggiorniamo l’ultimo record &quot;aggiornato&quot; invece di saltare del tutto. È simile all’API Forms 2.0.
 
