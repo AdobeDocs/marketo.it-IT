@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 87bb4a2945dad03f3f041286b89efe80a577f79f
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -562,51 +562,51 @@ ht-degree: 0%
          + [Registra un’app con Azure per acquisire l’ID client/ID app](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Eliminazione di un lead o di un contatto](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Sincronizzazione Salesforce {#salesforce-sync}
-      + [Informazioni sulla sincronizzazione di Salesforce](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-      + Configurazione {#setup}
-         + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
-            + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-            + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-            + [Passaggio 3 di 3: Connettere Marketo e Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-         + Professional Edition {#professional-edition}
-            + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-            + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-            + [Passaggio 3 di 3: Collegare Marketo e Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
-         + Passaggi facoltativi {#optional-steps}
-            + [Aggiungi/rimuovi campo di oggetto personalizzato come vincoli di elenco avanzato/trigger](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-            + [Personalizzare la sincronizzazione delle attività](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
-            + [Modifica mappature campi iniziali](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
-            + [Attiva/Disattiva la sincronizzazione di Campaign](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
-            + [Creare un utente di Marketo Sync come utente di marketing](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
-            + [Attiva/Disattiva la sincronizzazione personalizzata degli oggetti](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
-            + [Abilita sincronizzazione oggetti personalizzata non inglese](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
-            + [Imposta Cognome persona predefinito e Nome società](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
-            + [Disattiva notifiche e-mail al proprietario lead](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-         + Dettagli di sincronizzazione SFDC {#sfdc-sync-details}
-            + [Come far corrispondere gli stati del programma e gli stati della campagna Salesforce prima della sincronizzazione](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-            + [Sincr. SFDC: Sincronizzazione account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-            + [Utilizzo di account personali](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
-            + [Sincr. SFDC: Sincronizzazione delle attività](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-            + [Sincr. SFDC: Sincronizzazione campagna](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-            + [Sincr. SFDC: Sincronizzazione contatti](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-            + [Sincr. SFDC: Conversione di un lead in un contatto in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-            + [Sincr. SFDC: Sincronizzazione oggetti personalizzata](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-            + [Sincr. SFDC: Eliminazione di un lead/contatto](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-            + [Sincr. SFDC: Sincronizzazione dei campi](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-            + [Aggiungi un campo Salesforce esistente alla sincronizzazione Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-            + [Mapping campo Salesforce predefinito](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-            + [Nascondere un campo Salesforce dalla sincronizzazione Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
-            + [Sincr. SFDC: Sincronizzazione proprietario lead/account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-            + [Sincr. SFDC: Coda lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-            + [Sincr. SFDC: Sincronizzazione lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-            + [Sincr. SFDC: Unione di un lead/contatto/persona](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-            + [Sincr. SFDC: Sincronizzazione opportunità](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-         + [Aggiungi/rimuovi valori dell’elenco a discesa](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-         + [Attiva/Disattiva la sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-         + [Azioni Salesforce implicite](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
-         + [Errori di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-         + [Stato di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-         + [Accedere utilizzando OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Informazioni sulla sincronizzazione di Salesforce](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+         + Configurazione {#setup}
+            + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
+               + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+               + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+               + [Passaggio 3 di 3: Connettere Marketo e Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+            + Professional Edition {#professional-edition}
+               + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+               + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+               + [Passaggio 3 di 3: Collegare Marketo e Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
+            + Passaggi facoltativi {#optional-steps}
+               + [Aggiungi/rimuovi campo di oggetto personalizzato come vincoli di elenco avanzato/trigger](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+               + [Personalizzare la sincronizzazione delle attività](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
+               + [Modifica mappature campi iniziali](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
+               + [Attiva/Disattiva la sincronizzazione di Campaign](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
+               + [Creare un utente di Marketo Sync come utente di marketing](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
+               + [Attiva/Disattiva la sincronizzazione personalizzata degli oggetti](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
+               + [Abilita sincronizzazione oggetti personalizzata non inglese](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
+               + [Imposta Cognome persona predefinito e Nome società](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+               + [Disattiva notifiche e-mail al proprietario lead](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
+            + Dettagli di sincronizzazione SFDC {#sfdc-sync-details}
+               + [Come far corrispondere gli stati del programma e gli stati della campagna Salesforce prima della sincronizzazione](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+               + [Sincr. SFDC: Sincronizzazione account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+               + [Utilizzo di account personali](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
+               + [Sincr. SFDC: Sincronizzazione delle attività](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+               + [Sincr. SFDC: Sincronizzazione campagna](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+               + [Sincr. SFDC: Sincronizzazione contatti](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+               + [Sincr. SFDC: Conversione di un lead in un contatto in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+               + [Sincr. SFDC: Sincronizzazione oggetti personalizzata](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+               + [Sincr. SFDC: Eliminazione di un lead/contatto](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+               + [Sincr. SFDC: Sincronizzazione dei campi](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+               + [Aggiungi un campo Salesforce esistente alla sincronizzazione Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+               + [Mapping campo Salesforce predefinito](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
+               + [Nascondere un campo Salesforce dalla sincronizzazione Marketo](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
+               + [Sincr. SFDC: Sincronizzazione proprietario lead/account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+               + [Sincr. SFDC: Coda lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+               + [Sincr. SFDC: Sincronizzazione lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+               + [Sincr. SFDC: Unione di un lead/contatto/persona](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+               + [Sincr. SFDC: Sincronizzazione opportunità](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+            + [Aggiungi/rimuovi valori dell’elenco a discesa](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
+            + [Attiva/Disattiva la sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+            + [Azioni Salesforce implicite](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+            + [Errori di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+            + [Stato di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+            + [Accedere utilizzando OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
    + Generazione di domanda {#demand-generation}
       + Integrazioni di reti di annunci {#ad-network-integrations}
          + [Informazioni sulle integrazioni di Ad Network](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
@@ -811,9 +811,9 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
