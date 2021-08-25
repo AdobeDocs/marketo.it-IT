@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,12 @@ _Le date di rilascio sono soggette a modifica_
   <tr> 
    <td colspan="1">Agosto '21</td> 
    <td colspan="1">20 agosto 2021</td> 
-   <td colspan="1">In corso</td> 
+   <td colspan="1">Spedito</td> 
   </tr> 
   <tr> 
    <td colspan="1">Ottobre '21</td> 
-   <td colspan="1">15 ottobre 2021</td> 
-   <td colspan="1">On Schedule</td> 
+   <td colspan="1">22 ottobre 2021</td> 
+   <td colspan="1">In corso</td> 
   </tr> 
  </tbody> 
 </table>
