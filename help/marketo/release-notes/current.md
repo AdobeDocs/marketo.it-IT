@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
-source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
+source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Le seguenti funzionalità saranno rilasciate il **20 agosto 2021**.
 
 * **Nidificazione** campagna eseguibile: Le campagne eseguibili possono ora chiamare anche altre campagne eseguibili che consentono di nidificarle fino a tre livelli di profondità. Ciò consente un ulteriore consolidamento dei flussi operativi comuni e migliora la gestione di Smart Campaign.
 
-* **Pagina**  singola azione di flusso in dettagli persona (disponibile entro il 30 agosto): Esegui azioni di flusso come l’invio di e-mail, la modifica del proprietario della persona o qualsiasi altra azione di campagna intelligente su singoli utenti dalla pagina dei dettagli della persona utilizzando il menu delle azioni di flusso senza passare alla visualizzazione della griglia del database.
+* **Pagina**  singola azione di flusso in dettagli persona (disponibile entro il 9 settembre): Esegui azioni di flusso come l’invio di e-mail, la modifica del proprietario della persona o qualsiasi altra azione di campagna intelligente su singoli utenti dalla pagina dei dettagli della persona utilizzando il menu delle azioni di flusso senza passare alla visualizzazione della griglia del database.
 
 * **[Esportazione](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** attività personalizzate: L’esportazione dei metadati supporta ora tutti gli oggetti e i rispettivi metadati che possono essere utilizzati per condividere, analizzare e progettare il modello di dati di abbonamento.
 
