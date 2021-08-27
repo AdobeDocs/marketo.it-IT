@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
+source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -585,7 +585,7 @@ ht-degree: 0%
             + Dettagli di sincronizzazione SFDC {#sfdc-sync-details}
                + [Come far corrispondere gli stati del programma e gli stati della campagna Salesforce prima della sincronizzazione](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
                + [Sincr. SFDC: Sincronizzazione account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [Utilizzo di account personali](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
+               + [Utilizzo di account personali](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
                + [Sincr. SFDC: Sincronizzazione delle attività](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
                + [Sincr. SFDC: Sincronizzazione campagna](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
                + [Sincr. SFDC: Sincronizzazione contatti](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
@@ -811,7 +811,7 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
