@@ -3,8 +3,7 @@ unique-page-id: 3571800
 description: 'Passaggio 3 di 3: collegare Marketo e Salesforce (Professional) - Documentazione Marketo - Documentazione del prodotto'
 title: 'Passaggio 3 di 3: collegare Marketo e Salesforce (Professional)'
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8162db802cae125b406c463fde50d4ffdf0eb621
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
@@ -49,7 +48,7 @@ In questo articolo, configurerai Marketo per la sincronizzazione con la tua ista
 
    >[!NOTE]
    >
-   >Prima di fare clic su **Campi di sincronizzazione**, assicurarsi di [nascondere dall&#39;utente di sincronizzazione tutti i campi di cui non si ha bisogno](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo. Una volta fatto clic su Campi di sincronizzazione, tutti i campi che l’utente può visualizzare verranno creati in Marketo in modo permanente e non possono essere eliminati.
+   >Prima di fare clic su **Campi di sincronizzazione**, assicurarsi di [nascondere dall&#39;utente di sincronizzazione tutti i campi di cui non si ha bisogno](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo. Una volta fatto clic su Campi di sincronizzazione, tutti i campi che l’utente può visualizzare verranno creati in Marketo in modo permanente e non possono essere eliminati.
 
 1. Immetti le credenziali utente Salesforce Sync create nella parte 2 della configurazione Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) e fai clic su **Sincronizza campi**.
 
