@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '8071'
+source-wordcount: '8076'
 ht-degree: 0%
 
 ---
@@ -216,6 +216,8 @@ ht-degree: 0%
          + [Importa dati oggetto personalizzati](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [Attiva modifiche a oggetti personalizzati](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [Esportazione metadati oggetti personalizzati](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
+      + Marketo con identità Adobe {#marketo-with-adobe-identity}
+         + [Panoramica](product-docs/administration/marketo-with-adobe-identity/overview.md)
       + Impostazioni {#settings}
          + [Modificare le impostazioni di attribuzione per Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Modificare la password Marketo](product-docs/administration/settings/change-your-marketo-password.md)
@@ -811,9 +813,9 @@ ht-degree: 0%
                + [Modello 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Modello 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Modello 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Modello 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Modello 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Modello 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Modello 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Modello 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Modello 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)

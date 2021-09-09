@@ -1,42 +1,39 @@
 ---
 unique-page-id: 10098691
-description: Spostare un'e-mail - Documenti Marketo - Documentazione prodotto
-title: Spostare un'e-mail
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Spostare un’e-mail - Documenti Marketo - Documentazione del prodotto
+title: Sposta un’e-mail
+exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# Sposta un’e-mail {#move-an-email}
 
-# Sposta un&#39;e-mail {#move-an-email}
+Hai bisogno di spostare un&#39;e-mail da un programma a un altro? Ecco come.
 
-Hai bisogno di spostare un&#39;e-mail da un programma all&#39;altro? Ecco come.
+1. Vai a **Attività di marketing**.
 
-1. Andate a **Marketing Activities**.
+   ![](assets/move-an-email-1.png)
 
-   ![](assets/one-2.png)
+1. Individua l&#39;e-mail da spostare, fai clic con il pulsante destro del mouse su di essa e seleziona **Sposta**.
 
-1. Individuare l&#39;e-mail da spostare, fare clic con il pulsante destro del mouse su di essa e selezionare **Sposta**.
+   ![](assets/move-an-email-2.png)
 
-   ![](assets/leadperformance.jpg)
+1. Selezionare **Destinazione**, **Programma** e **Cartella** opzionale. Selezionare **Sposta**.
 
-1. Fare clic sul menu a discesa **Sposta a** e selezionare **Attività di marketing**.
-
-   ![](assets/three-2.png)
+   ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
-   >In questo esempio stiamo spostando un&#39;e-mail in un altro programma, ma potete anche spostare un&#39;e-mail in una cartella in Design Studio.
+   >In questo esempio viene spostato un messaggio e-mail in un altro programma, ma è anche possibile spostare un messaggio e-mail in una cartella in Design Studio.
 
-1. Fare clic sul menu a discesa **Program**, individuare e selezionare il programma di destinazione, quindi fare clic su **Move**.
+   Ora vedrai la tua e-mail che si trova nell&#39;altro programma.
 
-   ![](assets/four-2.png)
+   ![](assets/move-an-email-4.png)
 
-   Vedrai che la tua email ora vive nell&#39;altro programma.
-
-   ![](assets/leadperformance2.jpg)
-
-   Abbastanza elegante!
+   >[!NOTE]
+   >
+   >Puoi anche semplicemente trascinare e rilasciare l’e-mail in una nuova destinazione all’interno della struttura.
