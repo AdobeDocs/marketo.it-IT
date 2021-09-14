@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **Versione**: Marketo utilizza una pianificazione trimestrale delle versioni principali. Una volta disponibili, ciascuna delle note sulla versione sarà collegata nella tabella seguente.
 
-**Data** di rilascio: Il rollout inizia solitamente il mercoledì della settimana di rilascio, con la maggior parte dell’aggiornamento che avviene il venerdì sera. Viene inviata un’e-mail con date e dettagli specifici sulla versione. La data indicata è per l’aggiornamento del venerdì.
+**Data** di rilascio: Il rollout inizia solitamente il martedì della settimana di rilascio, con la maggior parte dell’aggiornamento che avviene venerdì sera. Viene inviata un’e-mail con date e dettagli specifici sulla versione. La data indicata è per l’aggiornamento del venerdì.
 
 **Avanzamento**:
 
