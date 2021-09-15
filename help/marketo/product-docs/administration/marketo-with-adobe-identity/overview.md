@@ -3,9 +3,9 @@ description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Mentre ci sarà una scheda prodotto in AC per Sales Connect, AC non deve essere 
 
 **Vado ancora alla sezione Amministratore in Marketo per apportare modifiche all’account?**
 
-No, devi passare a [account.adobe.com](account.adobe.com).
+No, devi passare a [account.adobe.com](https://account.adobe.com).
 
 **Come funziona questo con Marketo Universal ID?**
 
