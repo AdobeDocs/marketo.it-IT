@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092922
-description: Modello 20E - Documenti Marketo - Documentazione del prodotto
-title: Modello 20E
+description: Modello 20-E - Documenti Marketo - Documentazione del prodotto
+title: Modello 20-E
 exl-id: 37da2ba9-446b-4dee-8b15-a55b2636dd63
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Modello 20E {#template-20e}
+# Modello 20-E {#template-e}
 
-[Modello di download 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[Modello di download 20-E](https://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)
 
 ![](assets/template-20e.png)
 
@@ -27,4 +27,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Modello 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[Template20-E.html](https://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)

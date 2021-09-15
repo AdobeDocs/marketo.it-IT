@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437798
-description: Modello 13E - Documenti Marketo - Documentazione del prodotto
-title: Modello 13E
+description: Modello 13-E - Documenti Marketo - Documentazione del prodotto
+title: Modello 13-E
 exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# Modello 13E {#template-13e}
+# Modello 13-E {#template-e}
 
-[Scarica il modello 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+[Modello di download 13-E](https://docs.marketo.com/download/attachments/9437798/template-13e.html?version=1&amp;modificationdate=1438980113000&amp;api=v2)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -27,4 +27,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Modello 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+[Template13-E.html](https://docs.marketo.com/download/attachments/9437798/template-13e.html?version=1&amp;modificationdate=1438980113000&amp;api=v2)
