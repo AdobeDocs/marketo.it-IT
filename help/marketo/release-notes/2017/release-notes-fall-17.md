@@ -3,15 +3,14 @@ unique-page-id: 12983280
 description: Note sulla versione - Autunno 2017 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Autunno 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cbfa6110e85c185a5b65342052f168d9715f2f6a
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Autunno &#39;17 {#release-notes-fall}
+# Note sulla versione: Autunno 17 {#release-notes-fall}
 
 Le seguenti funzionalità sono incluse nella versione autunnale del 17. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
 
@@ -47,14 +46,14 @@ Marketo ha una nuova opzione per scegliere un segmento quando invia e-mail di es
 
 Personalizza i moduli LinkedIn Lead Gen per raccogliere gli attributi personalizzati del lead. È ora possibile porre fino a tre domande personalizzate per modulo, scegliere tra un testo a riga singola o domande a scelta multipla e mappare nuovamente i campi lead Marketo.
 
-## [Integrazione Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## Integrazione Slack {#slack-integration}
 
 Sono state rilasciate due funzionalità nell&#39;ambito della nuova integrazione di Slack:
 
 * Notifiche di sistema: Ottieni notifiche di Slack relative a eventi importanti nella tua istanza Marketo, come avvisi sugli stati della campagna corrente e su qualsiasi problema che richieda un’attenzione immediata.
 * Momenti interessanti: Quando Marketo Insight viene attivato da un individuo noto da un account di vendita, i proprietari lead possono essere informati tramite Slack. Le notifiche includono informazioni sui lead e dettagli sull’account di vendita.
 
-## Miglioramenti ABM {#abm-enhancements}
+## Miglioramenti di ABM {#abm-enhancements}
 
 **[Mostra account senza contatti](https://docs.marketo.com/x/fKCt)**
 
@@ -70,7 +69,7 @@ Visualizza e confronta le prestazioni del contenuto negli elenchi account ABM pe
 * contenuto convertito principale
 * Contenuto consigliato basato sull’intelligenza artificiale per attività di marketing
 
-## Miglioramenti della personalizzazione web {#web-personalization-enhancements}
+## Miglioramenti alla personalizzazione web {#web-personalization-enhancements}
 
 **[Token per campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
@@ -84,7 +83,7 @@ Risparmia tempo riutilizzando risorse creative e immagini su più canali in Mark
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integrazione {#integration}
+## Integrazione  {#integration}
 
 **[API di anteprima e-mail](https://developers.marketo.com/rest-api/assets/emails/)**
 
