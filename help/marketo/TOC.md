@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8090'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 0%
          + [Aggiungere ON24 come servizio LaunchPoint](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [Aggiungere ReadyTalk as a LaunchPoint Service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Aggiungere Single Sign-On a un portale](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Aggiungere Slack come servizio LaunchPoint](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [Aggiungere WebEx come servizio LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Aggiungere Workspace da Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Aggiungere zoom come servizio LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -619,6 +618,10 @@ ht-degree: 0%
          + [Aggiungere Google Customer Match come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Aggiungere tipi di pubblico corrispondenti a LinkedIn come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Inviare un elenco a una rete di annunci](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Chat dinamica {#dynamic-chat}
+         + [Panoramica della chat dinamica](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Finestre di dialogo](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [Configurazione](product-docs/demand-generation/dynamic-chat/configuration.md)
       + Eventi {#events}
          + Informazioni sugli eventi {#understanding-events}
             + [Aggiunta di membri a un programma evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
