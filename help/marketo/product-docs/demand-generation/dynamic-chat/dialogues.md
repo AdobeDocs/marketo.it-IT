@@ -3,7 +3,7 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
@@ -95,7 +95,7 @@ Domanda: Utilizzare quando si desidera porre una domanda a scelta multipla, di c
 
 Acquisizione delle informazioni: Utilizza quando desideri raccogliere informazioni. I tre campi tra cui scegliere sono Indirizzo e-mail, Numero di telefono e Testo (che consente al visitatore di scrivere il proprio messaggio).
 
-Utilità di pianificazione degli appuntamenti: Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette [l&#39;agente successivo in riga](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+Utilità di pianificazione degli appuntamenti: Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette [l&#39;agente successivo in riga](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
 
 Obiettivo: Questa è l&#39;unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all&#39;interno della chat specifica (es: se la raccolta dell&#39;e-mail del visitatore è l&#39;obiettivo, posiziona la scheda Obiettivo dopo l&#39;acquisizione delle informazioni nello streaming.)
 
