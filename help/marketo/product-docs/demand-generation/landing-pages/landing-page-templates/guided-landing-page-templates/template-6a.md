@@ -27,4 +27,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Modello 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+[Modello 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
