@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092905
-description: Modello 20-A - Documenti Marketo - Documentazione del prodotto
-title: Modello 20-A
+description: Modello 20A - Documentazione Marketo - Documentazione del prodotto
+title: Modello 20A
 exl-id: 0a535a43-c7c4-4a07-8562-da85ed4b8d5d
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Modello 20-A {#template-a}
+# Modello 20A {#template-20a}
 
-[Modello di download 20-A](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
+[Modello di download 20A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -27,4 +27,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Template20-A.html](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
+[Modello 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)

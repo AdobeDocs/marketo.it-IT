@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437568
-description: Modello 11-E - Documenti Marketo - Documentazione del prodotto
-title: Modello 11-E
+description: Modello 11E - Documenti Marketo - Documentazione del prodotto
+title: Modello 11E
 exl-id: fd45b28b-1d2c-489b-a16d-810ab0a43873
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Modello 11-E {#template-e}
+# Modello 11E {#template-11e}
 
-[Modello di download 11-E](https://docs.marketo.com/download/attachments/9437568/template-11e.html?version=1&amp;modificationdate=1438211431000&amp;api=v2)
+[Modello di download 11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
@@ -28,4 +28,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Template11-E.html](https://docs.marketo.com/download/attachments/9437568/template-11e.html?version=1&amp;modificationdate=1438211431000&amp;api=v2)
+[Modello 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8162243
-description: Modello 5-A - Documenti Marketo - Documentazione del prodotto
-title: Modello 5-A
+description: Modello 5A - Documentazione Marketo - Documentazione del prodotto
+title: Modello 5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Modello 5-A {#template-a}
+# Modello 5A {#template-5a}
 
-[Scarica Modello-5A](https://docs.marketo.com/download/attachments/8162243/template-5a.html?version=1&amp;modificationdate=1437692717000&amp;api=v2)
+[Scarica il modello 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -28,4 +28,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Template-5A.html](https://docs.marketo.com/download/attachments/8162243/template-5a.html?version=1&amp;modificationdate=1437692717000&amp;api=v2)
+[Modello 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)

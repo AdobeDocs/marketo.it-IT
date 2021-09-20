@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438215
-description: Modello 18-D - Documenti Marketo - Documentazione del prodotto
-title: Modello 18-D
+description: Modello 18D - Documentazione Marketo - Documentazione del prodotto
+title: Modello 18D
 exl-id: db998446-12a1-4fd9-9709-3ac08b8ceefa
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Modello 18-D {#template-d}
+# Modello 18D {#template-18d}
 
-[Modello di download 18-D](https://docs.marketo.com/download/attachments/9438215/template-18d.html?version=1&amp;modificationdate=1439843287000&amp;api=v2)
+[Scarica modello 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -28,4 +28,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Template18-D.html](https://docs.marketo.com/download/attachments/9438215/template-18d.html?version=1&amp;modificationdate=1439843287000&amp;api=v2)
+[Modello 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)

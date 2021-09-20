@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437577
-description: Modello 12-B - Documenti Marketo - Documentazione del prodotto
-title: Modello 12-B
+description: Modello 12B - Documenti Marketo - Documentazione del prodotto
+title: Modello 12B
 exl-id: 47d18c27-ff60-4f22-b590-8739e6352b13
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Modello 12-B {#template-b}
+# Modello 12B {#template-12b}
 
-[Modello di download 12-B](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&amp;modificationdate=1438211540000&amp;api=v2)
+[Modello di download 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 
@@ -28,4 +28,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Template12-B.html](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&amp;modificationdate=1438211540000&amp;api=v2)
+[Modello 12B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)

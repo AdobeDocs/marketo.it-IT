@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783987
-description: Modello 9-C - Documenti Marketo - Documentazione del prodotto
-title: Modello 9-C
+description: Modello 9C - Documenti Marketo - Documentazione del prodotto
+title: Modello 9C
 exl-id: 60c7b740-1b96-4ff1-92ba-05e573d513d1
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Modello 9-C {#template-c}
+# Modello 9C {#template-9c}
 
-[Scarica il modello 9-C](https://docs.marketo.com/download/attachments/8783987/template-9c.html?version=2&amp;modificationdate=1438210724000&amp;api=v2)
+[Scarica modello 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -27,4 +27,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Template9-C.html](https://docs.marketo.com/download/attachments/8783987/template-9c.html?version=2&amp;modificationdate=1438210724000&amp;api=v2)
+[Modello 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)

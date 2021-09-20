@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437580
-description: Modello 12-C - Documenti Marketo - Documentazione del prodotto
-title: Modello 12-C
+description: Modello 12C - Documentazione Marketo - Documentazione del prodotto
+title: Modello 12C
 exl-id: 23229f5a-6d79-4501-bd3b-56fccc2fa4cd
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Modello 12-C {#template-c}
+# Modello 12C {#template-12c}
 
-[Modello di download 12-C](https://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&amp;modificationdate=1438211583000&amp;api=v2)
+[Scarica il modello 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
@@ -28,4 +28,4 @@ Questo modello include il seguente contenuto:
 
 **Fai clic qui sotto per scaricare questo modello:**
 
-[Template12-C.html](https://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&amp;modificationdate=1438211583000&amp;api=v2)
+[Modello 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
