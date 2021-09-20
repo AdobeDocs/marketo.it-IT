@@ -3,9 +3,9 @@ description: Configurazione - Documentazione Marketo - Documentazione del prodot
 title: Configurazione
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ PICC di riempimento
 
 **Impostazioni agente**
 
-In Impostazioni agente, assegna un nome specifico al chatbot (verrà visualizzato nella parte superiore). Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat.
+In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di controllo (ad esempio: &quot;Punto Adobe&quot;) che verrà visualizzato nella parte superiore. Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat.
 
 PICC del nome dell&#39;impostazione
 

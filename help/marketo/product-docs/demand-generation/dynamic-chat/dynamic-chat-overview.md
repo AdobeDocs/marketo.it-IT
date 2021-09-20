@@ -3,9 +3,9 @@ description: Panoramica della chat dinamica - Documenti Marketo - Documentazione
 title: Panoramica della chat dinamica
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 testo introduttivo
 
+>[!NOTE]
+>
+>La chat dinamica sta per essere implementata, con tutte le sottoscrizioni che hanno accesso per DATA.
+
 ## Imposta chat dinamica {#access-dynamic-chat}
 
-text
+Segui questi passaggi per la configurazione iniziale.
 
 1. In My Marketo, fai clic sul riquadro **Chat dinamica** .
 
@@ -24,7 +28,7 @@ text
 
    >[!NOTE]
    >
-   >Se il tuo amministratore Marketo non ha ancora attivato la tessera per te, puoi anche [accedere alla chat dinamica qui](https://experience.adobe.com/dynamic-chat/).
+   >Se non vedi..contatta il tuo Marketo Admin).
 
 1. Se in precedenza hai effettuato l’accesso a un’applicazione con un Adobe ID, verrai reindirizzato direttamente a Chat dinamico. In caso contrario, [configura il tuo Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
@@ -32,19 +36,19 @@ text
 
 1. Per collegare la tua istanza Marketo, seleziona **Integrazioni**.
 
-PICC
+   PICC
 
 1. Fare clic su ?INSERISCI TESTO QUI?.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Il completamento della sincronizzazione può richiedere da 5 a 8 ore, a seconda delle dimensioni del database. Il tempo medio di sincronizzazione è di 60 minuti.
+   >[!NOTE]
+   >
+   >Il completamento della sincronizzazione può richiedere da 5 a 8 ore, a seconda delle dimensioni del database. Il tempo medio di sincronizzazione è di 60 minuti.
 
 ## Integrazioni {#integrations}
 
-Le integrazioni sono la prima scheda che si desidera visitare dopo aver effettuato l’accesso alla chat dinamica. È il luogo in cui si sincronizzano le sottoscrizioni Marketo, consentendoti di utilizzare i dati del database per identificare i visitatori del sito/della chat ([vedi il passaggio 3 sopra](#access-dynamic-chat)).
+Le integrazioni sono la prima scheda che si desidera visitare dopo aver effettuato l’accesso alla chat dinamica. È il luogo in cui si sincronizzano le sottoscrizioni Marketo, consentendoti di utilizzare i dati del database Marketo per identificare i visitatori del sito/della chat ([vedi il passaggio 3 sopra](#access-dynamic-chat)).
 
 ## Finestre di dialogo {#dialogues}
 
