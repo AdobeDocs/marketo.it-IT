@@ -3,10 +3,9 @@ unique-page-id: 11372975
 description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Professional) - Documenti Marketo - Documentazione del prodotto
 title: Passaggio 1 di 3 - Aggiungi campi Marketo a Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
@@ -223,7 +222,11 @@ Esegui i seguenti passaggi per ciascuno dei tre campi personalizzati per aggiung
  </tbody> 
 </table>
 
-## Mappa campi personalizzati per le conversioni {#map-custom-fields-for-conversions}
+>[!NOTE]
+>
+>I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in Salesforce al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con Salesforce al successivo aggiornamento del record su entrambi i sistemi (ovvero, un aggiornamento a uno qualsiasi dei campi sincronizzati tra Marketo e Salesforce).
+
+## Mappa campi personalizzati per le conversioni  {#map-custom-fields-for-conversions}
 
 Un campo personalizzato sull’oggetto lead di Salesforce deve essere mappato su un campo contatto dell’oggetto contatto in modo che i dati vengano trasferiti quando si verifica una conversione.
 

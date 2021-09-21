@@ -3,10 +3,9 @@ unique-page-id: 2360362
 description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Unlimited) - Marketo Docs - Documentazione del prodotto
 title: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Senza limiti)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -235,6 +234,10 @@ Esegui i seguenti passaggi per ciascuno dei tre campi personalizzati per aggiung
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in Salesforce al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con Salesforce al successivo aggiornamento del record su entrambi i sistemi (ovvero, un aggiornamento a uno qualsiasi dei campi sincronizzati tra Marketo e Salesforce).
 
 ## Mappa campi personalizzati per le conversioni {#map-custom-fields-for-conversions}
 
