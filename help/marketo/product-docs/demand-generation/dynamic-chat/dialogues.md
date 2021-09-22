@@ -3,16 +3,16 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Finestre di dialogo {#dialogues}
 
-Le finestre di dialogo sono le conversazioni di chat specifiche impostate. Possono essere personalizzati per look, così come quello che si dice e chi lo vede.
+Le finestre di dialogo sono le singole conversazioni di chat che configurerai. Scopri come personalizzarle visivamente, determinare quali pagine visualizzano e decidere cosa dicono e chi le visualizza.
 
 ## Creare una nuova finestra di dialogo {#create-a-new-dialogue}
 
@@ -34,9 +34,9 @@ PICC
 
 ## Criteri del pubblico {#audience-criteria}
 
-Analogamente agli elenchi avanzati di Marketo, gli attributi dei criteri per il pubblico consentono di definire il pubblico di destinazione.
+Analogamente agli elenchi avanzati di Marketo, gli attributi dei criteri per il pubblico consentono di definire il pubblico di destinazione. Puoi eseguire il targeting di lead noti o sconosciuti utilizzando attributi dedotti, lead o aziendali (o una combinazione di essi).
 
-Ci sono diversi attributi tra cui scegliere. In questo esempio, puntiamo tutti i lead noti in California che lavorano in un&#39;azienda con più di 50 dipendenti.
+Ci sono _molte combinazioni di attributi_ tra cui scegliere. In questo esempio, puntiamo tutti i lead noti in California che lavorano in un&#39;azienda con più di 50 dipendenti.
 
 1. Acquisite l’attributo Stato lead e trascinatelo a destra.
 
@@ -87,17 +87,29 @@ Formati accettabili:
 
 Il designer del flusso contiene diverse schede che è possibile aggiungere per modellare la conversazione di chat.
 
-TABELLA
-
-Messaggio: Utilizzare quando si desidera eseguire un&#39;istruzione senza alcuna risposta necessaria (ad esempio: &quot;Ciao! Oggi tutti gli articoli sono con uno sconto del 25% con codice SAVE25.&quot;)
-
-Domanda: Utilizzare quando si desidera porre una domanda a scelta multipla, di cui fornire le risposte disponibili (ad esempio: A che tipo di veicolo ti interessa? Risposte = SUV, compatto, camion, ecc.)
-
-Acquisizione delle informazioni: Utilizza quando desideri raccogliere informazioni. I tre campi tra cui scegliere sono Indirizzo e-mail, Numero di telefono e Testo (che consente al visitatore di scrivere il proprio messaggio).
-
-Utilità di pianificazione degli appuntamenti: Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette [l&#39;agente successivo in riga](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
-
-Obiettivo: Questa è l&#39;unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all&#39;interno della chat specifica (es: se la raccolta dell&#39;e-mail del visitatore è l&#39;obiettivo, posiziona la scheda Obiettivo dopo l&#39;acquisizione delle informazioni nello streaming.)
+<table>
+ <tr>
+  <td><strong>Messaggio</strong></td>
+  <td>Utilizzare quando si desidera eseguire un'istruzione senza alcuna risposta necessaria (ad esempio: "Ciao! Tutti gli articoli sono 25% off oggi con codice SAVE25").
+</td>
+ </tr>
+ <tr>
+  <td><strong>Domanda</strong></td>
+  <td>Utilizzare quando si desidera porre una domanda a scelta multipla, di cui fornire le risposte disponibili (ad esempio: A che tipo di veicolo ti interessa? Risposte = SUV, compatto, camion, ecc.).</td>
+ </tr>
+ <tr>
+  <td><strong>Acquisizione delle informazioni</strong></td>
+  <td>Utilizza quando desideri raccogliere informazioni. I tre campi tra cui scegliere sono Indirizzo e-mail, Numero di telefono e Testo (che consente al visitatore di scrivere il proprio messaggio).</td>
+ </tr>
+ <tr>
+  <td><strong>Scheduler appuntamenti</strong></td>
+  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette [l’agente successivo in linea](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+ </tr>
+ <tr>
+  <td><strong>Obiettivo</strong></td>
+  <td>Questa è l'unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all'interno della chat specifica (es: se la raccolta dell'e-mail del visitatore è l'obiettivo, posiziona la scheda Obiettivo dopo l'acquisizione delle informazioni nello streaming).</td>
+ </tr>
+</table>
 
 POSSIBILE SEZIONE PROPRIA
 

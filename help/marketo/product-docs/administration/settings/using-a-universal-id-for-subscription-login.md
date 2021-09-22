@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: Utilizzo di un ID universale per l’accesso all’abbonamento - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di un ID universale per l’accesso all’abbonamento
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Le impostazioni a livello di iscrizione vengono rispettate per gli utenti che ut
 
 ## Impostazione di un ID universale {#setting-up-a-universal-id}
 
-Da ogni singola istanza, il tuo amministratore Marketo deve invitarti a ciascuno dei tuoi diversi abbonamenti con lo stesso accesso. Marketo non può unire automaticamente gli accessi esistenti. Dopo aver abilitato l&#39;ID universale, **l&#39;istanza Marketo non sarà disponibile** per un massimo di 30 minuti. Se hai una base di utenti più ampia, potrebbe essere un po&#39; più lunga.
+Tutte le iscrizioni Marketo sono dotate della funzione opzionale Universal ID. Da ogni singola istanza, il tuo amministratore Marketo deve invitarti a ciascuno dei tuoi diversi abbonamenti con lo stesso accesso. Marketo non può unire automaticamente gli accessi esistenti.
 
 >[!NOTE]
 >
