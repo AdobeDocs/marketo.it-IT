@@ -3,9 +3,9 @@ description: Configurazione iniziale - Documentazione Marketo - Documentazione d
 title: Configurazione iniziale
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ testo introduttivo
 
 1. Dopo che la chat dinamica è abilitata per la tua istanza di Marketo, l’amministratore di sistema designato riceverà un’e-mail di benvenuto. In quell&#39;e-mail, fai clic su **Inizia**.
 
-   ![](assets/picture.png)
+   PICC
 
 1. Se in precedenza hai effettuato l’accesso a un’applicazione con un Adobe ID, verrai reindirizzato direttamente a Adobe Admin Console. In caso contrario, [configura il tuo Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-   ![](assets/picture.png)
+   PICC
 
 1. Aggiungi utenti (passaggi da seguire)
 
