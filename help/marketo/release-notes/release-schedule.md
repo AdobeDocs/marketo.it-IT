@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -37,17 +37,17 @@ _Le date di rilascio sono soggette a modifica_
    <th width="250px">Avanzamento</th> 
   </tr> 
   <tr> 
-   <td colspan="1">Gennaio '21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-jan-21.md">Gennaio '21</a></td> 
    <td colspan="1">15 gennaio 2021</td> 
    <td colspan="1">Spedito</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Maggio 21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/previous-releases/2021/release-notes-may-21.md">Maggio 21</a></td> 
    <td colspan="1">7 maggio 2021</td> 
    <td colspan="1">Spedito</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Agosto '21</td> 
+   <td colspan="1"><a href="/help/marketo/release-notes/current.md">Agosto '21</a></td> 
    <td colspan="1">20 agosto 2021</td> 
    <td colspan="1">Spedito</td> 
   </tr> 

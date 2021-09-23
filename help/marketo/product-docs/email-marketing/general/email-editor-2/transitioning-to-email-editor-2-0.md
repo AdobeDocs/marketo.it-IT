@@ -1,67 +1,66 @@
 ---
 unique-page-id: 11373011
-description: Passaggio all'editor di posta elettronica 2.0 - Documenti Marketo - Documentazione prodotto
-title: Passaggio all'editor di posta elettronica 2.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Transizione all’editor di e-mail 2.0 - Documenti Marketo - Documentazione del prodotto
+title: Transizione all’editor di e-mail 2.0
+exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
+source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
 
 ---
 
+# Transizione all’editor di e-mail 2.0 {#transitioning-to-email-editor}
 
-# Passaggio all&#39;editor di posta elettronica 2.0 {#transitioning-to-email-editor}
+A partire dalla versione del 19 giugno, tutte le iscrizioni Marketo sono state trasferite a Email Editor 2.0. [Ulteriori informazioni](https://nation.marketo.com/docs/DOC-7038) sulla rimozione di Email Editor 1.0.
 
-A partire dalla [versione del 19 giugno 2019](/help/marketo/release-notes/2016/release-notes-spring-16.md), tutte le iscrizioni a Marketo sono state trasferite a Editor e-mail 2.0. [Per saperne di più](https://nation.marketo.com/docs/DOC-7038) sull&#39;eliminazione di Email Editor 1.0.
-
-Le e-mail e i modelli e-mail all&#39;interno dell&#39;iscrizione devono avere un numero di versione. La versione è disponibile nella pagina di riepilogo della risorsa.
+Le e-mail e i modelli e-mail all’interno dell’abbonamento devono avere un numero di versione. La versione è disponibile nella pagina di riepilogo della risorsa.
 
 ![](assets/five-5.png)
 
-Per impostazione predefinita, tutti i modelli esistenti di e-mail e e e-mail saranno contrassegnati come v1.0 se creati prima della release primaverile del 16 o dopo la release in cui Editor e-mail 2.0 è disabilitato. Con l&#39;Editor e-mail 2.0 ora abilitato automaticamente, si verificherà il seguente comportamento:
+Per impostazione predefinita, tutte le e-mail e i modelli di e-mail esistenti saranno contrassegnati come v1.0 se sono stati creati prima della versione primaverile del 16 o dopo la release quando Email Editor 2.0 è disabilitato. Ora che l’editor di e-mail 2.0 è abilitato automaticamente, verrà visualizzato il seguente comportamento:
 
-* Quando create un nuovo messaggio e-mail, viene visualizzato il [Selettore modello e-mail](email-template-picker-overview.md) e potrete scegliere un modello e-mail v2.0.
-* Ogni volta che create o modificate un&#39;e-mail con Editor e-mail 2.0, l&#39;e-mail visualizzata sarà sempre **sempre** contrassegnata come v2.0 (anche se avete utilizzato un modello e-mail v1.0).
+* Quando crei un nuovo messaggio e-mail, viene visualizzato il [Selettore modelli e-mail](email-template-picker-overview.md) e potrai scegliere un modello e-mail v2.0.
+* Ogni volta che crei o modifichi un’e-mail con Email Editor 2.0, l’e-mail risultante sarà **sempre** contrassegnata come v2.0 (anche se hai utilizzato un modello e-mail v1.0).
 
-Se l’iscrizione contiene e-mail con v1.0 prima del passaggio a Editor e-mail 2.0, il comportamento dell’utente sarà il seguente in base allo stato corrente della risorsa:
+Se l’abbonamento dispone di e-mail v1.0 prima del passaggio a E-mail Editor 2.0, si verifica il seguente comportamento in base allo stato corrente della risorsa:
 
-**Approvato** - Facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 dell&#39;e-mail approvata. Se quindi approvate la bozza v2.0, lo stato approvato dell&#39;e-mail diventa v2.0 e non c&#39;è modo di ripristinare la versione 1.0.\
-**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarà possibile eliminare e ripristinare la versione 1.0 perché non è disponibile una versione approvata della risorsa.
-**Approvato con bozza** - Facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. Per questo motivo, non è possibile ripristinare la bozza a v1.0.
+**Approvato** : facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 dell’e-mail approvata. Se poi approvi la bozza v2.0, lo stato approvato dell’e-mail diventa v2.0 e non c’è modo di ripristinare la versione v1.0.\
+**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarà possibile eliminare e ripristinare la versione v1.0 perché non è disponibile una versione approvata della risorsa.
+**Approvato con bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. Per questo motivo, non è possibile ripristinare la bozza alla versione 1.0.
 
-Se l’iscrizione include modelli e-mail v1.0 prima del passaggio a Editor e-mail 2.0, si verificherà il seguente comportamento:
+Se l’abbonamento dispone di modelli e-mail v1.0 prima del passaggio a E-mail Editor 2.0, si verifica il seguente comportamento:
 
-**Approvato** - Facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 del modello e-mail esistente.
-**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarebbe possibile eliminare e ripristinare la versione 1.0 perché non esiste una versione approvata della risorsa.
-**Approvato con bozza** - Facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. Per questo motivo, non è possibile ripristinare la bozza a v1.0.
+**Approvato** : facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 del modello e-mail esistente.
+**Bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. A questo punto, non sarà possibile eliminare e ripristinare la versione v1.0 perché non è disponibile una versione approvata della risorsa.
+**Approvato con bozza** : facendo clic su &quot;Modifica bozza&quot; la bozza viene contrassegnata automaticamente come v2.0. Per questo motivo, non è possibile ripristinare la bozza alla versione 1.0.
 
-Se approvate un modello e-mail che era già v1.0 (in uno degli stati precedenti), verrà visualizzato il seguente comportamento:
+Se approvi un modello e-mail precedentemente v1.0 (in uno qualsiasi degli stati di cui sopra), vedrai il seguente comportamento:
 
 Per le e-mail v1.0 esistenti che utilizzavano il modello (in precedenza v1.0):\
-**Messaggio e-mail**  v1.0 approvato - Per questo messaggio e-mail verrà creata una bozza A v2.0, sempre utilizzando il modello v2.0 approvato di recente. Inoltre, verranno apportate eventuali modifiche al modello.\
-**Bozza e-mail**  v1.0: la bozza rimarrà v1.0 finché non si fa clic su &quot;Edit Draft&quot; (Modifica bozza). Successivamente, verrà automaticamente contrassegnato come v2.0 e riceverà eventuali modifiche apportate al modello.\
-**Approvato con bozza v1.0 e-mail** - La bozza rimarrà v1.0 finché non si fa clic su &quot;Edit Draft&quot; (Modifica bozza). Successivamente, verrà automaticamente contrassegnato come v2.0 e riceverà eventuali modifiche apportate al modello.
+**E-mail v1.0 approvata**  - Verrà creata una bozza di A v2.0 per questa e-mail, utilizzando comunque il modello v2.0 appena approvato. Riceverà anche eventuali modifiche al modello.\
+**Bozza e-mail v1.0**  - La bozza rimarrà v1.0 finché non fai clic su &quot;Modifica bozza&quot;. Successivamente, verrà automaticamente contrassegnato come v2.0 e riceverà eventuali modifiche al modello.\
+**Approvato con bozza v1.0 e-mail**  - La bozza rimarrà v1.0 finché non fai clic su &quot;Modifica bozza&quot;. Successivamente, verrà automaticamente contrassegnato come v2.0 e riceverà eventuali modifiche al modello.
 
-Per le e-mail v2.0 esistenti che utilizzavano il modello (v1.0 in precedenza):\
-**Messaggio e-mail**  v2.0 approvato: per questo messaggio e-mail verrà creata una bozza A v2.0, che continua a &quot;utilizzare&quot; il modello appena approvato e che riceverà eventuali modifiche al modello.\
-**Bozza e-mail**  v2.0: la bozza rimarrà invariata (v2.0) e riceverà eventuali modifiche al modello.\
+Per le e-mail v2.0 esistenti che utilizzavano il modello (in precedenza v1.0):\
+**E-mail v2.0 approvata**  - Verrà creata una bozza v2.0 per questa e-mail, ancora &quot;utilizzando&quot; il modello appena approvato, e riceverà eventuali modifiche al modello.\
+**Bozza e-mail v2.0**  - La bozza rimarrà invariata (v2.0) e riceverà eventuali modifiche al modello.\
 **Approvato con bozza v2.0 e-mail**  - La bozza rimarrà invariata (v2.0) e riceverà eventuali modifiche al modello.
 
 >[!CAUTION]
 >
->Se approvate la bozza v2.0 di un modello e-mail v1.0, il modello diventerà v2.0. **nessun modo** per ripristinarlo a v1.0.
+>Se approvi la bozza v2.0 di un modello e-mail v1.0, il modello diventerà v2.0. **nessun modo** per ripristinarlo alla versione v1.0.
 
-Cose da notare
+Aspetti da considerare
 
 * Le e-mail approvate vengono **mai** modificate.
 
 * I modelli e-mail approvati sono **mai** modificati.
 
-* In alcuni casi **rari**, non è possibile aprire un&#39;e-mail v1.0 in Editor e-mail 2.0. In tal caso, eliminate la bozza e contattate il supporto di Marketo.
+* In alcuni casi **rari**, non è possibile aprire un messaggio e-mail v1.0 in Email Editor 2.0. In questo caso, elimina la bozza e contatta il supporto Marketo.
 
 >[!MORELIKETHIS]
 >
 >* [Panoramica di Email Editor 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
->* [Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 

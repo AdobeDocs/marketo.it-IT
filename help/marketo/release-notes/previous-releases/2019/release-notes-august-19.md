@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Note sulla versione - 19 agosto - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Agosto '19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 
 ## Marketo Engage principale {#core-marketo-engage}
 
-* **Framework** del webinar estensibile: Risparmia tempo con il nuovo framework di webinar pronto all’uso di Marketo (introdotto nelle note sulla versione  [Winter ‘19 ](/help/marketo/release-notes/2019/release-notes-winter-19.md) che trasferiscono facilmente i dati dai provider di webinar in Marketo e viceversa. Cvent e Zoom sono ora disponibili in questo nuovo framework.
+* **Framework** del webinar estensibile: Risparmia tempo con il nuovo framework di webinar preconfigurato di Marketo (introdotto nelle note sulla versione &quot;19&quot; invernale) che trasmette senza problemi i dati dei provider di webinar in Marketo e viceversa. Cvent e Zoom sono ora disponibili in questo nuovo framework.
 * **Aggiornamento API di Smart Campaign**: Gestisci le funzionalità per il ciclo di vita delle campagne avanzate quando si completa l&#39;interfaccia CRUD (creazione, lettura, aggiornamento, eliminazione).
 * **Modifica** API delle intestazioni e-mail di aggiornamento: L’API Aggiorna intestazione e-mail non richiede più un’e-mail con un modello allegato per aggiornare i campi di intestazione, ad esempio l’oggetto.
 
