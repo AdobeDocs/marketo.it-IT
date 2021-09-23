@@ -3,19 +3,14 @@ unique-page-id: 1146995
 description: Utilizzare i token nei passaggi del flusso - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare i token nei passaggi del flusso
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-# Utilizza i token nei passaggi del flusso {#use-tokens-in-flow-steps}
-
->[!AVAILABILITY]
->
->Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
+# Utilizzare i token nei passaggi del flusso {#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >
@@ -30,7 +25,9 @@ Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destin
 * Crea attività
 * Invia avviso (solo nelle campagne di attivazione)
 
-1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie di token. ![](assets/image2014-9-22-14-3a3-3a17.png)
+1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie di token.
+
+   ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
