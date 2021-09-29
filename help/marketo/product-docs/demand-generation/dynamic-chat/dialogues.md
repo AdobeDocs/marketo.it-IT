@@ -3,16 +3,16 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
 # Finestre di dialogo {#dialogues}
 
-Le finestre di dialogo sono le singole conversazioni di chat che configurerai. Scopri come personalizzarle visivamente, determinare quali pagine visualizzano e decidere cosa dicono e chi le visualizza.
+Le finestre di dialogo sono conversazioni individuali via chat. Scopri come personalizzarle visivamente, determinare quali pagine visualizzano e decidere cosa dicono e chi le visualizza.
 
 ## Creare una nuova finestra di dialogo {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ Le finestre di dialogo sono le singole conversazioni di chat che configurerai. S
 
 >[!NOTE]
 >
->Il livello di priorità determina la posizione della finestra di dialogo nell’elenco (ad esempio: priorità = 1 significa che sarà all&#39;inizio).
+>Il livello di priorità determina la posizione della finestra di dialogo nell’elenco (ad esempio: priorità 1 significa che sarà in cima).
 
 ## Criteri del pubblico {#audience-criteria}
 
@@ -82,7 +82,7 @@ Esiste un modo semplice per eseguire il targeting specifico dei lead che non son
 
    >[!NOTE]
    >
-   >SPIEGHI INFERITI.
+   >Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e dedurre tutti i tipi di buone informazioni..
 
 1. __ Isis impostato per impostazione predefinita. Nel campo Seleziona valori digitare NY (è inoltre possibile fare clic sull’elenco a discesa e selezionarlo dall’elenco).
 
@@ -137,8 +137,38 @@ Il designer del flusso contiene diverse schede che è possibile aggiungere per m
  </tr>
 </table>
 
-MOSTRA GLI ESEMPI SEGUENTI
+**Creare un flusso**
+
+Ci sono _molte combinazioni di flusso_ da creare. In questo esempio faremo una domanda e prepareremo .
 
 ## Rapporti {#reports}
 
-Testo
+Nella scheda Rapporti , visualizza i dati degli ultimi 90 giorni. Ogni categoria è definita di seguito.
+
+<table>
+ <tr>
+  <td><strong>Totale attivato</strong></td>
+  <td>Viene incrementato ogni volta che un visitatore si qualifica o visualizza una finestra di dialogo.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Coinvolto</strong></td>
+  <td>Viene incrementato ogni volta che un visitatore fa clic sull’ancoraggio del chatbot per aprire la finestra di dialogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Completato</strong></td>
+  <td>Viene incrementato ogni volta che un visitatore raggiunge la fine di un ramo in una finestra di dialogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Lead catturati</strong></td>
+  <td>Viene incrementato ogni volta che un visitatore fornisce un indirizzo e-mail valido in un flusso di dialogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Riunioni prenotate</strong></td>
+  <td>Incrementa ogni volta che un visitatore pianifica correttamente un appuntamento tramite il chatbot.</td>
+ </tr>
+ <tr>
+  <td><strong>Obiettivi raggiunti</strong></td>
+  <td>Incrementa ogni volta che un visitatore raggiunge un obiettivo in qualsiasi flusso di dialogo.</td>
+ </tr>
+</table>
