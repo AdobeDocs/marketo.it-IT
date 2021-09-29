@@ -3,9 +3,9 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,9 @@ Il designer del flusso contiene diverse schede che è possibile aggiungere per m
 
 **Creare un flusso**
 
-Ci sono _molte combinazioni di flusso_ da creare. In questo esempio faremo una domanda e prepareremo .
+Ci sono _molte combinazioni di flusso_ da creare. In questo esempio faremo una domanda sì o no e prepareremo alcune risposte.
+
+ESEMPIO
 
 ## Rapporti {#reports}
 
