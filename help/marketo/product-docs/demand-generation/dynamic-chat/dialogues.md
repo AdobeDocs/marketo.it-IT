@@ -3,9 +3,9 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Le finestre di dialogo sono le singole conversazioni di chat che configurerai. S
 
 1. Fare clic su **Finestre di dialogo**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Fare clic sul pulsante **Crea nuovo**.
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Immetti un nome (la descrizione è facoltativa), imposta il livello di priorità e fai clic su **Salva**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
@@ -36,31 +36,57 @@ PICC
 
 Analogamente agli elenchi avanzati di Marketo, gli attributi dei criteri per il pubblico consentono di definire il pubblico di destinazione. Puoi eseguire il targeting di lead noti o sconosciuti utilizzando attributi dedotti, lead o aziendali (o una combinazione di essi).
 
-Ci sono _molte combinazioni di attributi_ tra cui scegliere. In questo esempio, puntiamo tutti i lead noti in California che lavorano in un&#39;azienda con più di 50 dipendenti.
+**Lead noti**
 
-1. Acquisite l’attributo Stato lead e trascinatelo a destra.
+Ci sono _molte combinazioni di attributi_ tra cui scegliere. In questo esempio, il targeting di tutti i **lead noti** in California che lavorano in un&#39;azienda con più di 50 dipendenti.
 
-PICC
+1. Prendi l’attributo **Stato lead** e trascinalo a destra.
+
+   ![](assets/dialogues-4.png)
 
 1. __ Isis impostato per impostazione predefinita. Nel campo Seleziona valori digitare CA (è inoltre possibile fare clic sul menu a discesa e selezionare dall’elenco).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Prendi l&#39;attributo Dimensione società e trascinalo a destra.
+1. Prendi l&#39;attributo **Dimensione società** e trascinalo nel punto in cui è indicato _trascina e rilascia un attributo qui_.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Fai clic sull’elenco a discesa dell’operatore e seleziona Maggiore di.
+   >[!NOTE]
+   >
+   >Puoi anche scegliere un attributo facendo clic sulla relativa icona **+**.
 
-PICC
+1. Fai clic sull’elenco a discesa dell’operatore e seleziona **Maggiore di**.
+
+   ![](assets/dialogues-7.png)
 
 1. Digitare 50 e fare clic in un altro punto dello schermo per salvare.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-COME CATTURARE ANON LEAD
+**Lead anonimi**
 
-NOTA - forse accennato a come lavori dedotti/mostra caso d’uso, l’e-mail lead è vuota
+Esiste un modo semplice per eseguire il targeting specifico dei lead che non sono ancora presenti nel database. In questo esempio, eseguiamo il targeting di tutti i **lead anonimi** situati nell&#39;area di New York.
+
+1. Prendi l’attributo **E-mail lead** e trascinalo a destra.
+
+   ![](assets/dialogues-9.png)
+
+1. Fai clic sull’elenco a discesa dell’operatore e seleziona **È vuoto**.
+
+   ![](assets/dialogues-10.png)
+
+1. Acquisisci l&#39;attributo **Stato di provenienza** e trascinalo nel punto in cui è indicato _trascina e rilascia un attributo qui_.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >SPIEGHI INFERITI.
+
+1. __ Isis impostato per impostazione predefinita. Nel campo Seleziona valori digitare NY (è inoltre possibile fare clic sull’elenco a discesa e selezionarlo dall’elenco).
+
+   ![](assets/dialogues-12.png)
 
 ## Aggiungi gruppi {#add-groups}
 
@@ -70,7 +96,7 @@ FINISCI QUESTO
 
 ## Target {#target}
 
-In questo punto immetti gli URL specifici su cui desideri visualizzare una finestra di dialogo specifica.
+In questa finestra immetti gli URL su cui desideri visualizzare una finestra di dialogo specifica.
 
 Formati accettabili:
 
@@ -110,8 +136,6 @@ Il designer del flusso contiene diverse schede che è possibile aggiungere per m
   <td>Questa è l'unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all'interno della chat specifica (es: se la raccolta dell'e-mail del visitatore è l'obiettivo, posiziona la scheda Obiettivo dopo l'acquisizione delle informazioni nello streaming).</td>
  </tr>
 </table>
-
-POSSIBILE SEZIONE PROPRIA
 
 MOSTRA GLI ESEMPI SEGUENTI
 
