@@ -3,9 +3,9 @@ description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 hide: true
 hidefromtoc: true
-source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -98,3 +98,9 @@ No. Il flusso di lavoro Invito utente non è più attivo quando un abbonamento �
 **Per Adobe IMS, è possibile utilizzare Adobe ID, Enterprise ID o Federated ID?**
 
 Sì, è possibile determinare il tipo di identità per ottenere il supporto dell&#39;organizzazione. Maggiori informazioni [qui](https://helpx.adobe.com/enterprise/using/identity.html) e [qui](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+>[!MORELIKETHIS]
+>
+>* [Configurazione amministratore](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [Aggiungere o rimuovere un amministratore di prodotto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [Aggiungi o rimuovi un utente](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)

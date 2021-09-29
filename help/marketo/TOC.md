@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 3a3002c7669ea084ea1a953d182bbaa4fcf93167
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8102'
 ht-degree: 0%
 
 ---
@@ -620,10 +620,11 @@ ht-degree: 0%
          + [Inviare un elenco a una rete di annunci](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dinamica {#dynamic-chat}
          + [Panoramica della chat dinamica](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [Finestre di dialogo](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [Configurazione](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [Aggiungi o rimuovi utenti chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Configurazione iniziale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+         + [Accesso a chat dinamica](product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)
+         + [Aggiungi o rimuovi utenti chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [Configurazione](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [Finestre di dialogo](product-docs/demand-generation/dynamic-chat/dialogues.md)
       + Eventi {#events}
          + Informazioni sugli eventi {#understanding-events}
             + [Aggiunta di membri a un programma evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)

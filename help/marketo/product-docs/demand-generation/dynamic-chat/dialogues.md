@@ -3,9 +3,9 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->SPIEGA IL LIVELLO DI PRIORITÀ
+>Il livello di priorità determina la posizione della finestra di dialogo nell’elenco (ad esempio: priorità = 1 significa che sarà all&#39;inizio).
 
 ## Criteri del pubblico {#audience-criteria}
 
@@ -114,3 +114,7 @@ Il designer del flusso contiene diverse schede che è possibile aggiungere per m
 POSSIBILE SEZIONE PROPRIA
 
 MOSTRA GLI ESEMPI SEGUENTI
+
+## Rapporti {#reports}
+
+Testo
