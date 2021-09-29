@@ -3,9 +3,9 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Le finestre di dialogo sono conversazioni individuali via chat. Scopri come pers
 
 >[!NOTE]
 >
->Il livello di priorità determina la posizione della finestra di dialogo nell’elenco (ad esempio: priorità 1 significa che sarà in cima).
+>La priorità determina quale finestra di dialogo verrà visualizzata a un visitatore quando si qualificano per più finestre di dialogo contemporaneamente.
 
 ## Criteri del pubblico {#audience-criteria}
 
