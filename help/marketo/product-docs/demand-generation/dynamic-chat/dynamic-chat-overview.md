@@ -3,9 +3,9 @@ description: Panoramica della chat dinamica - Documenti Marketo - Documentazione
 title: Panoramica della chat dinamica
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ La chat dinamica consente di sfruttare un’interfaccia di facile utilizzo per e
 
 >[!NOTE]
 >
->La chat dinamica sta per essere implementata gradualmente, con tutti gli abbonamenti dovuti avere accesso entro la primavera del 2022. Per ulteriori informazioni, contatta il tuo Customer Success Manager.
+>La chat dinamica sta per essere implementata gradualmente ed è attualmente a disponibilità limitata. Questa pagina verrà aggiornata con i dettagli di disponibilità generale (GA) man mano che diventano disponibili.
 
 ## Integrazioni {#integrations}
 
