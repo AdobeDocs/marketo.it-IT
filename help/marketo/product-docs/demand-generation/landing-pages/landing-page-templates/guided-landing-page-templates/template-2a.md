@@ -3,16 +3,16 @@ unique-page-id: 7516467
 description: Modello 2A - Documentazione Marketo - Documentazione del prodotto
 title: Modello 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 # Modello 2A {#template-2a}
 
-[Scarica il modello 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -26,6 +26,6 @@ Questo modello include il seguente contenuto:
 * Una sezione corpo (opzionale)
 * Piè di pagina (facoltativo)
 
-**Fai clic qui sotto per scaricare questo modello:**
+**Fai clic con il pulsante destro del mouse qui sotto per scaricare questo modello:**
 
 [Modello 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)

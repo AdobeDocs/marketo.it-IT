@@ -3,16 +3,16 @@ unique-page-id: 9437556
 description: Modello 11A - Documentazione Marketo - Documentazione del prodotto
 title: Modello 11A
 exl-id: 5c8956d3-35e5-448a-bb5d-c18c9a82664e
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Modello 11A {#template-11a}
 
-[Scarica Modello 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
+Fai clic con il pulsante destro del mouse per [scaricare il modello 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 
@@ -26,6 +26,6 @@ Questo modello include il seguente contenuto:
 * Quattro sezioni del corpo (facoltativo)
 * Piè di pagina (facoltativo)
 
-**Fai clic qui sotto per scaricare questo modello:**
+**Fai clic con il pulsante destro del mouse qui sotto per scaricare questo modello:**
 
 [Modello 11A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
