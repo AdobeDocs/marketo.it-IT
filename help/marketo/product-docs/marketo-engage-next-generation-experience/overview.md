@@ -2,9 +2,9 @@
 description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '491'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Ci sono molte nuove funzionalità in questa esperienza di nuova generazione, tut
 
 **Icone**
 
-La nuova interfaccia offre funzioni migliorate ed estese di iconografia. Scopri di più qui: [Nuova icona Glossario](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+La nuova interfaccia offre funzioni migliorate ed estese di iconografia. Scopri di più qui: [Icona Glossario](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
@@ -191,7 +191,7 @@ Date un&#39;occhiata alla nuova navigazione globale.
    <td>Tutti gli elementi precedenti di superball elencati</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>Utilizza questo per fornire feedback sulla tua esperienza MEUE</td> 
   </tr>
   <tr>
