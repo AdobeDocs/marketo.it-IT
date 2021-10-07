@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
-source-wordcount: '8001'
+source-wordcount: '8029'
 ht-degree: 0%
 
 ---
@@ -1173,8 +1173,11 @@ ht-degree: 0%
             + [CC o CCN nelle e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-mail contrassegnata come spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
             + [Invio di allegati di file nell’e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
+            + [Messaggio di errore limitazione in una consegna non riuscita](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
+            + [Errori di limitazione](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + Feed live {#the-live-feed}
             + [Posizione destinatario errata](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
+            + [Glossario icona feed live](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [Panoramica dei feed live](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Annulla sottoscrizione {#unsubscribes}
             + [Personalizza messaggio collegamento di annullamento sottoscrizione](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1221,7 +1224,10 @@ ht-degree: 0%
          + [Conformità alle normative RGPD e ai contratti di vendita](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Gestione dei contatti {#managing-contacts}
             + [Azioni collettive sulle persone](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
+            + [Collegare i lead Marketo con i lead di vendita Connect](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
+            + [Connessione con un gruppo](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [Creazione ed eliminazione di contatti](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
+            + [Eliminare un gruppo](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [Tipi di gruppi](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Gestione di Sales Connect per la disattivazione delle e-mail](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Come creare un gruppo di contatti](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
