@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8001'
 ht-degree: 0%
 
 ---
@@ -1169,29 +1169,12 @@ ht-degree: 0%
             + [Limitazione connessione e-mail](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [Impostazione di un canale di consegna personalizzato](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
-            + [Aggiungere un modello o una campagna](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
-            + [Aggiungi e-mail a Salesforce da Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
-            + [Aggiungi e-mail a Salesforce nel client e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
-            + [Aggiunta di contenuto](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
-            + [Errore di autenticazione non riuscita](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [Campaign è terminato](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC o CCN nelle e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-mail contrassegnata come spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [E-mail selezionate e gruppo e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
-            + [E-mail in arrivo](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
-            + [Errore durante l&#39;invio da Gmail o Outlook](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
-            + [Errore durante l&#39;invio dall&#39;applicazione Web](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
-            + [Punti forti](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
-            + [Come pianificare un’e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
-            + [Come inviare un’e-mail di gruppo](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
-            + [Come inviare un&#39;e-mail da Sales Engage](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
-            + [E-mail pianificate indirizzate alle bozze](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [Invio di allegati di file nell’e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
-            + [Messaggio di errore limitazione in una consegna non riuscita](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
-            + [Errori di limitazione](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + Feed live {#the-live-feed}
             + [Posizione destinatario errata](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
-            + [Glossario icona feed live](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [Panoramica dei feed live](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Annulla sottoscrizione {#unsubscribes}
             + [Personalizza messaggio collegamento di annullamento sottoscrizione](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1238,10 +1221,7 @@ ht-degree: 0%
          + [Conformità alle normative RGPD e ai contratti di vendita](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Gestione dei contatti {#managing-contacts}
             + [Azioni collettive sulle persone](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Collegare i lead Marketo con i lead di vendita Connect](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
-            + [Connessione con un gruppo](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [Creazione ed eliminazione di contatti](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [Eliminare un gruppo](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [Tipi di gruppi](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Gestione di Sales Connect per la disattivazione delle e-mail](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Come creare un gruppo di contatti](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
