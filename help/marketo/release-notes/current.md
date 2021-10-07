@@ -2,16 +2,16 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Agosto 2021 {#release-notes-aug-21}
+# Note sulla versione: Ottobre 2021 {#release-notes-oct-21}
 
-Le seguenti funzionalità sono incluse nella versione del 21 agosto. Per informazioni sulla disponibilità delle funzioni, consultare la versione Marketo Engage.
+Le seguenti funzionalità sono incluse nella versione del 21 ottobre. Per informazioni sulla disponibilità delle funzioni, consultare la versione Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -19,23 +19,21 @@ Le seguenti funzionalità sono incluse nella versione del 21 agosto. Per informa
 
 **_Versioni trimestrali_**
 
-Le seguenti funzionalità saranno rilasciate il **20 agosto 2021**.
+Le seguenti funzionalità verranno rilasciate il **22 ottobre 2021**.
+
+## Innovazione guidata dall&#39;intelligenza artificiale {#ai-driven-innovation}
+
+**Miglioramenti** di Predictive Audiences: Ora disponi di una maggiore visibilità sui comportamenti principali che influenzano le previsioni di AI per i modelli predittivi basati sull’intelligenza artificiale utilizzati nei programmi evento ed e-mail. È possibile esaminare i comportamenti dei membri della campagna che determinano un aumento delle registrazioni e della frequenza degli eventi, nonché ciò che determina l’annullamento delle iscrizioni. I modelli lookalike basati sull’intelligenza artificiale possono ora essere utilizzati in tutti i tipi di programmi in Marketo Engage.
+
+## Esperienza di nuova generazione {#next-gen-experience}
+
+**Scegli La Tua Esperienza**: Passa facilmente all’esperienza preferita con la nuova funzione quando lavori sui dettagli del modulo di Marketo Engage o sulla vista a elenco delle pagine di destinazione senza perdere contesto, modifiche alle risorse o preferenze. Inoltre, la nuova vista a elenco delle pagine di destinazione migliora la tua esperienza con i nuovi filtri e la capacità di eseguire azioni di massa.
+
+**Ricerca efficiente**: I miglioramenti all’accessibilità alla ricerca globale includono la navigazione da tastiera e le descrizioni delle etichette aggiornate, una nuova funzione di scorrimento per i risultati e filtri applicati più visibili. Le modalità di spostamento sono state migliorate per supportare le scelte rapide da tastiera. Monitora lo stato delle attività in esecuzione in background della nuova esperienza tramite la nuova barra di notifica delle attività nella barra di navigazione globale. La barra acquisisce le notifiche per le attività avviate dalla nuova visualizzazione esperienza dei dettagli del modulo e degli elenchi delle pagine di destinazione, tra cui la modifica dello stato delle pagine di destinazione e le azioni di massa generali tramite la nuova esperienza.
 
 ## Automazione delle esperienze {#experience-automation}
 
-* **Autenticazione utente Marketo Engage tramite Adobe Identity**: Presto, i nuovi utenti di Marketi Engage con pacchetti Enterprise verranno caricati utilizzando le credenziali utente Adobe ID. La migrazione degli attuali utenti al sistema di identità integrato non avverrà prima della metà del 2022 e non sarà necessaria alcuna azione fino a nuovo avviso. L’autenticazione utente di Adobe Identity consente agli amministratori IT/Security di gestire più istanze di prodotti di Marketo Engage insieme ad altre soluzioni di Experience Cloud, nonché di configurare SSO tramite una console comune. Gli amministratori possono gestire facilmente i gruppi di utenti e le adesioni degli utenti in un’unica posizione.
-
-* **Nidificazione** campagna eseguibile: Le campagne eseguibili possono ora chiamare anche altre campagne eseguibili che consentono di nidificarle fino a tre livelli di profondità. Ciò consente un ulteriore consolidamento dei flussi operativi comuni e migliora la gestione di Smart Campaign.
-
-* **Pagina**  singola azione di flusso in dettagli persona (disponibile entro il 9 settembre): Esegui azioni di flusso come l’invio di e-mail, la modifica del proprietario della persona o qualsiasi altra azione di campagna intelligente su singoli utenti dalla pagina dei dettagli della persona utilizzando il menu delle azioni di flusso senza passare alla visualizzazione della griglia del database.
-
-* **[Esportazione](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)** attività personalizzate: L’esportazione dei metadati supporta ora tutti gli oggetti e i rispettivi metadati che possono essere utilizzati per condividere, analizzare e progettare il modello di dati di abbonamento.
-
-## Miglioramenti API {#api-enhancements}
-
-* **API** per l’invio di moduli: Quando un indirizzo e-mail viene duplicato in due o più record Lead, aggiorniamo l’ultimo record &quot;aggiornato&quot; invece di saltare del tutto. È simile all’API Forms 2.0.
-
-* **API** e-mail: Recupera risorse e-mail campione o sfida. Recupera le risorse e-mail utilizzando il filtro dell’intervallo di date.
+**Supporto** campo personalizzato per i membri del programma API per l’invio del modulo: L’endpoint API per l’invio di moduli è stato aggiornato per supportare i campi personalizzati dei membri del programma, consentendo alle integrazioni di moduli personalizzate di raccogliere dati specifici per il programma.
 
 **_Rilascio in tutto il trimestre_**
 
@@ -45,40 +43,32 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ![(stella)](assets/yellow-star.png)
 
-* **Maggiore visibilità nelle attività Lead, Contatto, Account e Opportunità per gli utenti** CRM Salesforce: Il coinvolgimento con i potenziali clienti durante i lunghi cicli di vendita è più informato a causa di un maggior numero di record di coinvolgimento in Sales Insight. Le schede Momenti interessanti, attività web, e-mail e punteggio mostrano fino a 400 attività tra gli oggetti Lead, Contatto, Account e Opportunità.
+**Approfondimenti vendite per le vendite di Microsoft Dynamics 365**
+
+**Migliori miglioramenti**: La scheda Best Bets in Sales Insight fornisce alle vendite una visualizzazione in tempo reale dei contatti più caldi e dei lead prioritari in base alla qualità e all&#39;urgenza. Abbiamo aggiunto la possibilità per i rappresentanti commerciali di intraprendere azioni quali: esamina il punteggio di una persona, invia un’e-mail o aggiungi potenziali clienti a campagne di Marketo Engage designate direttamente dalla pagina Best Bets , aumentando l’efficienza e accelerando il tempo di risposta.
+
+**Nuovi dashboard** e-mail, attività Web e attività Web anonime: Abbiamo aggiunto le nuove dashboard di vendita per informare i venditori dei loro lead e contatti sulle attività web e e-mail più recenti. Con la nuova funzionalità di filtro, le dashboard ora forniscono informazioni approfondite sulle aperture delle e-mail, sui clic e sulle visite alle pagine web per l’elenco completo degli account o un account specifico. Il Marketo Engage tiene traccia di tutte le attività web e fornisce informazioni critiche sulle vendite, trasformando il traffico anonimo in lead. I venditori possono personalizzare il coinvolgimento e convertire i lead alle vendite più velocemente perché sono meglio informati sui comportamenti dei lead e agiscono in base alla rilevanza di tutti i punti di contatto.
+
+**Informazioni sulle vendite per CRM Salesforce**
+
+**Migliori offerte** a livello di account e opportunità: Insight vendite offre ora ai rappresentanti commerciali la possibilità di rivedere le Best Bets per tutti i contatti sull&#39;account o l&#39;opportunità che possiedono, anche quando il contatto è assegnato a un membro del team diverso. Questo offre ai titolari di account e opportunità una completa visibilità delle attività dei contatti rilevanti e li aiuta ad agire in base a una visione più olistica dell&#39;account o dell&#39;opportunità.
 
 ## Sales Connect {#sales-connect}
 
 ![(stella)](assets/yellow-star.png)
 
-* **Limitazione connessione e-mail (Beta)**: Migliora il recapito dei messaggi e-mail e ridimensiona le comunicazioni di vendita personalizzate con la limitazione della connessione e-mail per Sales Connect. Questa nuova tecnologia gestisce automaticamente i tempi di invio delle e-mail per creare esperienze senza soluzione di continuità per gli utenti di Exchange e Gmail. Diminuisci o elimina l’utilizzo di applicazioni di invio in blocco di e-mail di terze parti e invia con sicurezza tutte le tue e-mail da Sales Connect.
+**Limitazione connessione e-mail (GA)**: Migliora il recapito dei messaggi e-mail e ridimensiona le comunicazioni di vendita personalizzate con la limitazione della connessione e-mail per Sales Connect. Questa tecnologia innovativa gestisce automaticamente i tempi di invio delle e-mail per creare un&#39;esperienza diretta per gli utenti di Exchange e Gmail. Diminuisci o elimina l’utilizzo di applicazioni di invio in blocco di e-mail di terze parti e invia con sicurezza tutte le tue e-mail da Sales Connect.
 
->[!NOTE]
->
->La limitazione delle e-mail è ora disponibile in versione beta. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+**Approfondimenti** attività di vendita migliorati: Una nuova attività di tracciamento delle risposte via e-mail, e-mail di vendita risposte, tiene traccia delle interazioni dei destinatari con un’e-mail che viene automaticamente sincronizzata con il Marketo Engage. Inoltre, l’attributo Origine è stato aggiornato da &quot;Tout&quot; a &quot;App di vendita&quot;. Questa attività può essere esportata e segnalata tramite l’API REST di Marketo Engage o l’esportazione in blocco ed è disponibile su filtri e trigger come vincoli aggiuntivi per gli elenchi avanzati, espandendo le opzioni di personalizzazione in Smart Campaigns.
 
-* **Approfondimenti** attività di vendita migliorati: Acquisisci e attiva un coinvolgimento personalizzato in base alle attività precedenti del tuo team di vendita. È possibile utilizzare nuovi attributi quali il collegamento di registrazione delle chiamate di vendita, il nome della campagna di vendita e l’oggetto dell’e-mail di vendita negli elenchi smart del Marketo Engage.  Queste attività possono essere esportate e segnalate tramite l’API REST di Marketo Engage o l’esportazione in blocco e sono disponibili su filtri e trigger come vincoli aggiuntivi per gli elenchi avanzati.
+**Esperienza** utente semplificata: Questo aggiornamento introduce nuovi font, colori, pulsanti e modalità per Sales Connect basati sul sistema di progettazione Adobe Spectrum. Con questi aggiornamenti, offriamo un&#39;esperienza più efficiente, dove i venditori possono concentrarsi su ciò che è necessario, quando è necessario.
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Integrazione** Bizible LinkedIn Lead Gen Forms: Gli addetti al marketing possono ora eseguire l’attribuzione dei ricavi sulle conversioni che si verificano quando LinkedIn acquisisce i moduli compilati tramite le unità pubblicitarie Forms lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni del modulo e gli investimenti sui mezzi a pagamento. linkedIn Lead Gen Forms è una delle offerte a pagamento di LinkedIn in più rapida crescita e questa nuova funzionalità è inclusa nell’integrazione di LinkedIn Ads con Bizible. 
- 
-* **Dashboard** Velocity migliorato: Abbiamo aggiunto una nuova metrica di velocità e un filtro del dashboard per approfondimenti più approfonditi. Questo dashboard viene utilizzato dagli esperti di marketing per comprendere la velocità di lead e opportunità, in base allo stadio, e l’efficienza delle diverse forme di coinvolgimento nel marketing e nelle vendite.
-
-* **Nuovo dashboard** del Percorso Cascata coorte: Questo consente agli esperti di marketing di visualizzare la progressione di una coorte selezionata attraverso un set classico di fasi &quot;cascata della domanda&quot;, fornendo una rapida comprensione dei tassi di conversione e della causalità della conversione implicita per fase su base graduale.
-
-## Integrazione Bizible con Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
-
-Questa sezione include nuove funzioni per gli utenti Bizible che hanno completato la migrazione a Adobe Identity Management System (IMS). Se hai eseguito la migrazione, visualizzerai il tuo nuovo Adobe ID in Impostazioni Bizible nella scheda Adobe ID . La migrazione di tutti gli account è prevista per la fine del 2021.
-
-* **Integrazione Bizible con Adobe Privacy Service**  (disponibile a settembre 2021): L’integrazione di Bizible con Adobe Privacy Service centralizza la conformità alle normative fondamentali sulla privacy dei dati (come il RGPD) nelle applicazioni Adobe Experience Cloud. Ora puoi sfruttare questo servizio e gestire centralmente tutte le richieste di privacy in modo che le richieste di modifica provenienti da Bizible e da altri prodotti Adobe si riflettano tra le applicazioni.
-
-* **Bizible su Adobe Unified Shell**: L’adozione di Adobe Unified Shell da parte di Bizible offre agli utenti nuove funzionalità che verranno visualizzate nella barra di intestazione dell’applicazione Bizible e includono un migliore accesso alle risorse di supporto e al passaggio alle applicazioni. La shell unificata di Adobe consente di creare un’esperienza coerente tra Bizible e altre applicazioni Adobe Experience Cloud.
-
-* **Proprietà e gestione** del dominio Bizible: Gli utenti Bizible possono utilizzare Adobe Admin Console per gestire i domini che desiderano che Bizible tenga traccia. Questo consente di eseguire il self-service in un processo manuale precedente e fornisce un’esperienza coerente nella gestione della proprietà e del tracciamento dei domini nelle applicazioni Adobe Experience Cloud.
+**Integrazione Bizible con Adobe Privacy Service (GA)**: L’integrazione Bizible con Adobe Privacy Service centralizza la conformità alle normative importanti sulla privacy dei dati, come il RGPD (General Data Privacy Regulation, Regolamento generale sulla privacy dei dati) o il CCPA (California Consumer Privacy Act, legge sulla privacy dei consumatori della California) tra le applicazioni Adobe Experience Cloud. Ora puoi sfruttare questo servizio e gestire centralmente tutte le richieste di privacy tramite Privacy Service di Adobe, in modo che le richieste di modifica in Bizible e altri prodotti Adobe si riflettano tra le applicazioni.
 
 ## Annunci {#announcements}
 
-* **Aggiornamento delle impostazioni** ID universale della sottoscrizione: Per supportare la prossima integrazione di Marketo Engage e identità Adobe per gli utenti esistenti, tutte le sottoscrizioni di Marketo Engage saranno unificate nell’abilitazione del supporto di Universal ID. Ulteriori informazioni [sono disponibili qui](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+**Aggiornamento** Munchkin Beta 161/Deprecazione lead associato: Il 7 settembre 2021, la versione 161 di Munchkin ha iniziato a rotolare il 10% degli abbonamenti con Munchkin Beta abilitato, seguita dal 50% il 16 settembre e dal 100% il 30 settembre. Questa modifica interessa le pagine di destinazione del Marketo Engage e la versione del file munchkin-beta.js distribuito a pagine di destinazione esterne caricate dagli abbonamenti a cui è stata implementata la versione recente. Questa versione rende completamente obsoleto il metodo Munchkin Associate Lead , una funzione che consente l’invio di dati di una persona a un abbonamento di Marketo Engage e alla cronologia di navigazione Web associata a un record di persona noto. Il lead associato viene rimosso a favore di alternative più moderne e sicure, come l’API JS di Forms, l’API di invio del modulo e l’API REST lead associato. [Ulteriori informazioni su questo elemento obsoleto](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
