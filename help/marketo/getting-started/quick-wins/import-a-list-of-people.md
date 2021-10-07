@@ -3,10 +3,9 @@ unique-page-id: 2359418
 description: Importare un elenco di persone - Marketo Docs - Documentazione del prodotto
 title: Importare un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -23,7 +22,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
 ## Passaggio 1: Scaricare e modificare un foglio di calcolo {#step-download-and-edit-a-spreadsheet}
 
-1. Per iniziare, scarica sul tuo computer il file del foglio di calcolo del tuo esercizio ([**fidelizzazione-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)).
+1. Per iniziare, scarica sul tuo computer il file del foglio di calcolo del tuo esercizio ([**fidelizzazione-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)).
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -53,7 +52,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Rinomina il programma &quot;Il mio programma di presentazione&quot; e seleziona &quot;Evento&quot; per il tipo di  **programma**.
+1. **** Rinomina il programma &quot;Il mio programma di programma di programma&quot; e seleziona &quot;Evento&quot; per il tipo di  **programma**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -75,7 +74,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **** Rinomina l’elenco &quot;Partecipanti al programma di lavoro&quot; e fai clic su  **Crea**.
+1. **** Denomina l&#39;elenco &quot;Partecipanti al programma di lavoro&quot; e fai clic su  **Crea**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
@@ -91,7 +90,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
    >
    >Il limite di dimensione per i file CSV è di 100 MB.
 
-1. **** Individua il file  **del foglio di calcolo** fidelizzato-attendees. **csvfoglio di calcolo nel computer e fai clic su** Avanti.
+1. **** Individua il file  **del foglio di calcolo** csvecolarità sul computer e fai clic su  **Avanti**.
 
    ![](assets/eleven-2.png)
 

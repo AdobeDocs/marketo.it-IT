@@ -3,10 +3,9 @@ unique-page-id: 1147108
 description: Importare un programma - Documentazione Marketo - Documentazione del prodotto
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -82,7 +81,7 @@ La libreria dei programmi Marketo contiene programmi precompilati e testati che 
 >
 >È necessario creare due campi personalizzati (&quot;Punteggio demografico&quot; e &quot;Punteggio comportamentale&quot;) prima di importare il programma Punteggio - Standard &amp; Select Editions.
 
-## Impatto sulle risorse esterne durante le importazioni del programma {#impact-on-external-assets-during-program-imports}
+## Impatto sulle attività esterne durante le importazioni del programma {#impact-on-external-assets-during-program-imports}
 
 I programmi utilizzano risorse esterne come modelli e-mail, modelli di pagina di destinazione, immagini, moduli, token e tag di programma. È possibile configurare la modalità di gestione dei modelli di pagina di destinazione e dei tag di programma e Marketo gestisce automaticamente il resto.
 
@@ -98,7 +97,9 @@ I programmi utilizzano risorse esterne come modelli e-mail, modelli di pagina di
 >
 >I token di tipo immagine non sono supportati per le importazioni di programmi. Se viene importato un programma con un tipo di immagine, passeranno i token **no** .
 
-**Tag programma:** puoi utilizzare le regole di conflitto per controllare il modo in cui verranno trattati i tag programma non esistenti nell&#39;account di destinazione. Utilizzando la regola predefinita verranno creati i tag del programma oppure è possibile scegliere di ignorarli. **Forms:** i moduli esterni vengono importati automaticamente nello studio di progettazione, a meno che non esista uno con lo stesso nome.
+**Tag programma:** puoi utilizzare le regole di conflitto per controllare il modo in cui verranno trattati i tag programma non esistenti nell&#39;account di destinazione. Utilizzando la regola predefinita verranno creati i tag del programma oppure è possibile scegliere di ignorarli.
+
+**Forms:** i moduli esterni vengono importati automaticamente nello studio di progettazione, a meno che non esista uno con lo stesso nome.
 
 >[!CAUTION]
 >
