@@ -2,24 +2,24 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
 
 # Note sulla versione: Ottobre 2021 {#release-notes-oct-21}
 
-Le seguenti funzionalità sono incluse nella versione del 21 ottobre. Per informazioni sulla disponibilità delle funzioni, consultare la versione Marketo Engage.
+Le seguenti funzionalità sono incluse nella versione del 21 ottobre. Per informazioni sulla disponibilità delle funzioni, consulta l’edizione del Marketo Engage di Adobe.
 
 >[!AVAILABILITY]
 >
->Le caratteristiche indicate da una stella (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il tuo rappresentante del Marketo Engage Adobe.
+>Le caratteristiche indicate da una stella (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni trimestrali_**
 
-Le seguenti funzionalità verranno rilasciate il **22 ottobre 2021**.
+Le seguenti funzionalità inizieranno a essere rilasciate il **22 ottobre 2021**, con un rollout graduale di ogni funzione nella settimana successiva (salvo diversamente specificato).
 
 ## Innovazione guidata dall&#39;intelligenza artificiale {#ai-driven-innovation}
 
@@ -29,7 +29,9 @@ Le seguenti funzionalità verranno rilasciate il **22 ottobre 2021**.
 
 **Scegli La Tua Esperienza**: Passa facilmente all’esperienza preferita con la nuova funzione quando lavori sui dettagli del modulo di Marketo Engage o sulla vista a elenco delle pagine di destinazione senza perdere contesto, modifiche alle risorse o preferenze. Inoltre, la nuova vista a elenco delle pagine di destinazione migliora la tua esperienza con i nuovi filtri e la capacità di eseguire azioni di massa.
 
-**Ricerca efficiente**: I miglioramenti all’accessibilità alla ricerca globale includono la navigazione da tastiera e le descrizioni delle etichette aggiornate, una nuova funzione di scorrimento per i risultati e filtri applicati più visibili. Le modalità di spostamento sono state migliorate per supportare le scelte rapide da tastiera. Monitora lo stato delle attività in esecuzione in background della nuova esperienza tramite la nuova barra di notifica delle attività nella barra di navigazione globale. La barra acquisisce le notifiche per le attività avviate dalla nuova visualizzazione esperienza dei dettagli del modulo e degli elenchi delle pagine di destinazione, tra cui la modifica dello stato delle pagine di destinazione e le azioni di massa generali tramite la nuova esperienza.
+**Ricerca efficiente**: I miglioramenti all’accessibilità alla ricerca globale includono la navigazione da tastiera e le descrizioni delle etichette aggiornate, una nuova funzione di scorrimento per i risultati e filtri applicati più visibili.
+
+**Monitorare le attività**: Monitora lo stato delle attività in esecuzione in background della nuova esperienza tramite la nuova barra di notifica delle attività nella barra di navigazione globale. La barra acquisisce le notifiche per le attività avviate dalla nuova visualizzazione esperienza dei dettagli del modulo e dell’elenco delle pagine di destinazione, inclusa la modifica dello stato delle pagine di destinazione e le azioni di massa generali tramite la nuova esperienza.
 
 ## Automazione delle esperienze {#experience-automation}
 
