@@ -1,23 +1,22 @@
 ---
 unique-page-id: 45417460
-description: Assegnazione di attività ai membri del team - Documenti Marketo - Documentazione prodotto
-title: Assegnazione di attività ai membri del team
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Assegnazione delle attività ai membri del team - Documenti Marketo - Documentazione del prodotto
+title: Assegnazione delle attività ai membri del team
+exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
+source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
+# Assegnazione delle attività ai membri del team {#assigning-tasks-to-team-members}
 
-# Assegnazione di attività ai membri del team {#assigning-tasks-to-team-members}
-
-Se desiderate collaborare con altri membri del team, l’assegnazione delle attività può essere un ottimo modo per coordinare le attività di prospezione.
+Se desideri collaborare con altri membri del team, l’assegnazione delle attività può essere un ottimo modo per coordinare le attività di ricerca.
 
 >[!NOTE]
 >
->È possibile assegnare solo le attività per i contatti condivisi. Prima di collaborare con le attività condivise, è necessario [condividere un gruppo di contatti](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) con i membri del team.
+>È possibile assegnare solo le attività per i contatti condivisi.
 
 1. Fare clic sul **Centro comandi**.
 
@@ -31,15 +30,15 @@ Se desiderate collaborare con altri membri del team, l’assegnazione delle atti
 
    ![](assets/three-1.png)
 
-1. Assegna un nome alla tua attività.
+1. Assegna un nome al tuo compito.
 
    ![](assets/four-1.png)
 
-1. Selezionare la persona del team a cui assegnare l&#39;attività nel campo Assegna attività.
+1. Selezionare la persona del team a cui si desidera assegnare l&#39;attività nel campo Assegna attività.
 
    ![](assets/five.png)
 
-1. Aggiungi la persona a cui vuoi rivolgerti nel campo persona.
+1. Aggiungi la persona a cui desideri rivolgerti nel campo persona.
 
    ![](assets/six.png)
 
@@ -47,14 +46,10 @@ Se desiderate collaborare con altri membri del team, l’assegnazione delle atti
 
    ![](assets/seven.png)
 
-1. Impostate la priorità.
+1. Imposta la Priorità.
 
    ![](assets/eight.png)
 
-1. Aggiungete eventuali dettagli importanti rilevanti per il vostro team (facoltativi) e fate clic su **Crea**.
+1. Aggiungi tutti i dettagli importanti rilevanti per il tuo team (facoltativo) e fai clic su **Crea**.
 
    ![](assets/nine.png)
-
->[!MORELIKETHIS]
->
->[Come condividere un gruppo](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
