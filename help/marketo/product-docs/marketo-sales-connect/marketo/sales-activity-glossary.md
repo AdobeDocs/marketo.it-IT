@@ -1,10 +1,11 @@
 ---
 description: Glossario delle attività di vendita - Documenti Marketo - Documentazione del prodotto
 title: Glossario delle attività di vendita
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 2%
+source-wordcount: '480'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +27,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <th>Attributo</th>
  </tr>
  <tr>
-  <th rowspan="3">Invia e-mail di vendita</th>
+  <th rowspan="9">Invia e-mail di vendita</th>
   <td>Inviato da</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>ID modello</td>
  </tr>
  <tr>
-  <th rowspan="3">Apri e-mail di vendita</th>
+  <td>URL del modello di vendita</td>
+ </tr>
+ <tr>
+  <td>URL della campagna di vendita</td>
+ </tr>
+ <tr>
+  <td>Nome del modello di vendita</td>
+ </tr>
+ <tr>
+  <td>Oggetto e-mail</td>
+ </tr>
+ <tr>
+  <td>Nome della campagna di vendita</td>
+ </tr>
+ <tr>
+  <td>ID persona di vendita Marketo</td>
+ </tr>
+ <tr>
+  <th rowspan="9">Apri e-mail di vendita</th>
   <td>Inviato da</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>ID modello</td>
  </tr>
  <tr>
-  <th rowspan="4">E-mail di vendita selezionata</th>
+  <td>URL del modello di vendita</td>
+ </tr>
+ <tr>
+  <td>URL della campagna di vendita</td>
+ </tr>
+ <tr>
+  <td>Nome del modello di vendita</td>
+ </tr>
+ <tr>
+  <td>Oggetto e-mail</td>
+ </tr>
+ <tr>
+  <td>Nome della campagna di vendita</td>
+ </tr>
+ <tr>
+  <td>ID persona di vendita Marketo</td>
+ </tr>
+ <tr>
+  <th rowspan="10">E-mail di vendita selezionata</th>
   <td>Collegamento</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
  <tr>
   <td>ID modello</td>
  </tr>
+ <tr>
+  <td>URL del modello di vendita</td>
+ </tr>
+ <tr>
+  <td>URL della campagna di vendita</td>
+ </tr>
+ <tr>
+  <td>Nome del modello di vendita</td>
+ </tr>
+ <tr>
+  <td>Oggetto e-mail</td>
+ </tr>
+ <tr>
+  <td>Nome della campagna di vendita</td>
+ </tr>
+ <tr>
+  <td>ID persona di vendita Marketo</td>
+ </tr>
 <tr>
-  <th rowspan="2">Email di vendita ricevute</th>
+  <th rowspan="3">Email di vendita ricevute</th>
   <td>Ricevuto da</td>
  </tr>
  <tr>
   <td>Fonte</td>
  </tr>
  <tr>
-  <th rowspan="4">E-mail di vendita rimbalzata</th>
-  <td>Dettagli</td>
+  <td>ID persona (MSC)</td>
  </tr>
  <tr>
-  <td>ID modello</td>
- </tr>
- <tr>
-  <td>E-mail</td>
- </tr>
- <tr>
-  <td>Inviato da</td>
- </tr>
- <tr>
-  <th rowspan="7">Chiamata alle vendite ricevute</th>
+  <th rowspan="11">Chiamata alle vendite ricevute</th>
   <td>Chiamata Di Vendita Effettuata Da</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
  </tr>
  <tr>
   <td>Fonte</td>
+ </tr>
+ <tr>
+  <td>Durata chiamata vendite</td>
+ </tr>
+ <tr>
+  <td>URL registrazione chiamata vendita</td>
+ </tr>
+  <tr>
+  <td>Risposta alla chiamata di vendita da</td>
+ </tr>
+ <tr>
+  <td>ID persona di vendita Marketo (MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">Aggiungi alla campagna di vendita</th>
