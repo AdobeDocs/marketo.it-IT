@@ -2,9 +2,9 @@
 description: Glossario delle attività di vendita - Documenti Marketo - Documentazione del prodotto
 title: Glossario delle attività di vendita
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -121,7 +121,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>Fonte</td>
  </tr>
  <tr>
-  <td>ID persona (MSC)</td>
+  <td>ID persona di vendita Marketo</td>
  </tr>
  <tr>
   <th rowspan="11">Chiamata alle vendite ricevute</th>
@@ -155,7 +155,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>Risposta alla chiamata di vendita da</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo (MSC)</td>
+  <td>ID persona di vendita Marketo</td>
  </tr>
  <tr>
   <th rowspan="6">Aggiungi alla campagna di vendita</th>
@@ -216,6 +216,10 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <tr> 
    <td><strong>Collegamento</strong></td> 
    <td>URL su cui è stato fatto clic.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>ID persona di vendita Marketo</strong></td> 
+   <td>ID univoco per il record della persona in Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Ricevuto da</strong></td> 

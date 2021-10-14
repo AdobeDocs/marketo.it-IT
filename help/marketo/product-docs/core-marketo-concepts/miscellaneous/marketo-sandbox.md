@@ -3,8 +3,7 @@ unique-page-id: 11386358
 description: Sandbox Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -27,7 +26,7 @@ Una sandbox Marketo non può essere sincronizzata con il CRM normale se è già 
 * Se desideri aggiungere utenti, il processo è lo stesso di [aggiungere utenti in produzione](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Anche in questo caso, devono utilizzare un indirizzo e-mail diverso se dispongono già di un accesso Marketo.
 * La sandbox di Marketo inizierà a essere vuota, ma con le stesse funzionalità disponibili per l’istanza di produzione.
 * Se crei un programma nella sandbox e desideri spostarlo in produzione, puoi eseguire un [importazione di programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
-* Le sandbox sono limitate e le istanze di produzione non sono influenzate negativamente dagli ambienti di test. Puoi inviare fino a 30 e-mail per campagna.
+* Le sandbox sono limitate e le istanze di produzione non sono influenzate negativamente dagli ambienti di test. Puoi inviare fino a 20 e-mail per campagna.
 
 >[!CAUTION]
 >
