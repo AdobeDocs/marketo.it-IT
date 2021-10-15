@@ -3,9 +3,9 @@ description: Creare un flusso - Documenti Marketo - Documentazione del prodotto
 title: Creare un flusso
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Ci sono _molte combinazioni di flusso_ da creare. Di seguito è riportato un ese
 
 1. Dopo aver [creato la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), fare clic sulla scheda Progettazione flussi.
 
-   PICC
+   ![](assets/create-a-stream-1.png)
 
 1. Trascinare la scheda Domanda.
 
-   PICC
+   ![](assets/create-a-stream-2.png)
 
 1. Sotto Chatbot Response, indica come ti piacerebbe.
 
-   PICC
+   ![](assets/create-a-stream-3.png)
 
    >[!NOTE]
    >
@@ -32,20 +32,87 @@ Ci sono _molte combinazioni di flusso_ da creare. Di seguito è riportato un ese
 
 1. Inserisci le risposte utente e fai clic su **Salva**.
 
-   PICC
+   ![](assets/create-a-stream-4.png)
 
-1. Per &quot;Sì&quot; vogliamo pianificare un appuntamento, quindi dopo questa opzione trascina sulla scheda Scheduler Appointment.
+1. Per &quot;Sì&quot; vogliamo pianificare un appuntamento, quindi sotto questa opzione trascina sulla scheda Scheduler Appointment.
 
-   PICC
+   ![](assets/create-a-stream-5.png)
 
 1. Nella colonna a destra, fai clic su **Salva**.
 
-   PICC
+   ![](assets/create-a-stream-6.png)
 
 1. Poiché si tratta di un obiettivo, trascina la scheda Obiettivo sotto l’Utilità di pianificazione degli appuntamenti.
 
-   PICC
+   ![](assets/create-a-stream-7.png)
 
 1. Denomina l&#39;obiettivo (o scegli uno esistente) e fai clic su **Salva**.
 
-   PICC
+   ![](assets/create-a-stream-8.png)
+
+1. Per &quot;No&quot; vogliamo vedere se si uniranno alla mailing list, quindi sotto quell&#39;opzione trascina su un&#39;altra scheda Domanda.
+
+   ![](assets/create-a-stream-9.png)
+
+1. Immetti la risposta e aggiungi le scelte di risposta per il visitatore. Al termine, fai clic su **Salva**.
+
+   ![](assets/create-a-stream-10.png)
+
+   >[!NOTE]
+   >
+   >Per aggiungere altre risposte, fai clic su **Aggiungi risposta**.
+
+1. Sotto la risposta &quot;Sì&quot;, trascina sulla scheda Info Capture per raccogliere l&#39;e-mail del visitatore.
+
+   ![](assets/create-a-stream-11.png)
+
+1. Fai clic sul menu a discesa **Tipo** e seleziona **E-mail**.
+
+   ![](assets/create-a-stream-12.png)
+
+1. Inserisci un messaggio chatbot e un segnaposto. Assicurati che l&#39;attributo sia mappato sul campo appropriato in Marketo e fai clic su **Salva**.
+
+   ![](assets/create-a-stream-13.png)
+
+   <table>
+    <tr>
+     <td><strong>Tipo</strong></td>
+     <td>Tipo di informazioni da acquisire: Telefono, Testo, E-Mail.</td>
+    </tr>
+    <tr>
+     <td><strong>Messaggio Chatbot</strong></td>
+     <td>Il messaggio che il visitatore visualizza e che richiede loro di fornire le informazioni.</td>
+    </tr>
+    <tr>
+     <td><strong>Testo di esempio che aiuta il visitatore a vedere cosa immettere.</strong></td>
+     <td>text</td>
+    </tr>
+    <tr>
+     <td><strong>Mappa la risposta all'attributo</strong></td>
+     <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento Marketo.</td>
+    </tr>
+   </table>
+
+1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda Obiettivo sotto Info Capture (Acquisizione informazioni).
+
+   ![](assets/create-a-stream-14.png)
+
+1. Denomina l&#39;obiettivo (o scegli uno esistente) e fai clic su **Salva**.
+
+   ![](assets/create-a-stream-15.png)
+
+1. Ricordatevi di aggiungere una risposta se dicono &quot;No&quot;. Trascina una scheda Messaggio sotto quell’opzione.
+
+   ![](assets/create-a-stream-16.png)
+
+1. Inserisci il messaggio e fai clic su **Salva**.
+
+   ![](assets/create-a-stream-17.png)
+
+1. Per attivare la finestra di dialogo, fai clic su **Pubblica**.
+
+   ![](assets/create-a-stream-18.png)
+
+>[!NOTE]
+>
+>Prima di fare clic su Pubblica, ricorda di aver [inserito gli URL di destinazione](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
