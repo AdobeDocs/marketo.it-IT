@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -62,8 +62,6 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 ## Sales Connect {#sales-connect}
 
 ![(stella)](assets/yellow-star.png)
-
-**Limitazione connessione e-mail (GA)**: Migliora il recapito dei messaggi e-mail e ridimensiona le comunicazioni di vendita personalizzate con la limitazione della connessione e-mail per Sales Connect. Questa tecnologia innovativa gestisce automaticamente i tempi di invio delle e-mail per creare un&#39;esperienza diretta per gli utenti di Exchange e Gmail. Diminuisci o elimina l’utilizzo di applicazioni di invio in blocco di e-mail di terze parti e invia con sicurezza tutte le tue e-mail da Sales Connect.
 
 **Approfondimenti** attività di vendita migliorati: Una nuova attività di tracciamento delle risposte via e-mail, e-mail di vendita risposte, tiene traccia delle interazioni dei destinatari con un’e-mail che viene automaticamente sincronizzata con il Marketo Engage. Inoltre, l’attributo Origine è stato aggiornato da &quot;Tout&quot; a &quot;App di vendita&quot;. Questa attività può essere esportata e segnalata tramite l’API REST di Marketo Engage o l’esportazione in blocco ed è disponibile su filtri e trigger come vincoli aggiuntivi per gli elenchi avanzati, espandendo le opzioni di personalizzazione in Smart Campaigns.
 
