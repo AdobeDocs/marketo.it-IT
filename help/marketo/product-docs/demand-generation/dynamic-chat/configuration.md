@@ -3,9 +3,9 @@ description: Configurazione - Documentazione Marketo - Documentazione del prodot
 title: Configurazione
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ L’ancoraggio consente al visitatore del sito di aprire/chiudere la casella di 
 
 **Impostazioni agente**
 
-In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di controllo (ad esempio: &quot;Punto Adobe&quot;) che verrà visualizzato nella parte superiore. Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat.
+In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di controllo (ad esempio: &quot;Punto Adobe&quot;) che apparirà in cima ad esso. Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat.
 
 ![](assets/configuration-5.png)
 
@@ -60,4 +60,4 @@ Affinché il chatbot possa essere visualizzato sul tuo sito web, devi prima inst
 
 >[!NOTE]
 >
->Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di HTML. Per assistenza HTML, consulta uno sviluppatore web.
+>Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di HTML. Per assistenza su HTML, consulta uno sviluppatore web.

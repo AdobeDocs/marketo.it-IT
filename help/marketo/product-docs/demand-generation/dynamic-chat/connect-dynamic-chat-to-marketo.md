@@ -3,9 +3,9 @@ description: Collegare la chat dinamica a Marketo - Documentazione Marketo - Doc
 title: Collegare la chat dinamica a Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,10 @@ Dopo aver completato la [configurazione iniziale](/help/marketo/product-docs/dem
 
    PICC (screenshot quando ottengo un sub nuovo di zecca)
 
-   >[!NOTE]
-   >
-   >Il completamento della sincronizzazione può richiedere da 5 a 8 ore, a seconda delle dimensioni del database. Il tempo medio di sincronizzazione è di 60 minuti. VERIFICA FRAME DI TEMPO
+>[!NOTE]
+>
+>Il completamento della sincronizzazione può richiedere da 5 a 8 ore, a seconda delle dimensioni del database. Il tempo medio di sincronizzazione è di 60 minuti. VERIFICA FRAME DI TEMPO
 
-ARTICOLI CORRELATI
+>[!MORELIKETHIS]
+>
+>[Configurazione iniziale](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

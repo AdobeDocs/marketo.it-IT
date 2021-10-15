@@ -3,9 +3,9 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -34,13 +34,13 @@ Le finestre di dialogo sono conversazioni individuali via chat. Scopri come pers
 
 ## Criteri del pubblico {#audience-criteria}
 
-Analogamente agli elenchi avanzati di Marketo, gli attributi dei criteri per il pubblico consentono di definire il pubblico di destinazione. Puoi eseguire il targeting di lead noti o sconosciuti utilizzando attributi dedotti, lead o aziendali (o una combinazione di essi).
+Analogamente agli elenchi avanzati di Marketo, gli attributi dei criteri per il pubblico consentono di definire il pubblico di destinazione. Puoi eseguire il targeting di persone conosciute o sconosciute utilizzando attributi dedotti, di persone o di società (o una combinazione di essi).
 
-**Lead noti**
+**Persone conosciute**
 
-Ci sono _molte combinazioni di attributi_ tra cui scegliere. In questo esempio, il targeting di tutti i **lead noti** in California che lavorano in un&#39;azienda con più di 50 dipendenti.
+Ci sono _molte combinazioni di attributi_ tra cui scegliere. In questo esempio, il targeting è rivolto a tutte le **persone conosciute** della California che lavorano in un&#39;azienda con più di 50 dipendenti.
 
-1. Prendi l’attributo **Stato lead** e trascinalo a destra.
+1. Prendi l’attributo **Stato persona** e trascinalo a destra.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Ci sono _molte combinazioni di attributi_ tra cui scegliere. In questo esempio, 
 
    ![](assets/dialogues-8.png)
 
-**Lead anonimi**
+**Persone anonime**
 
-Esiste un modo semplice per eseguire il targeting specifico dei lead che non sono ancora presenti nel database. In questo esempio, eseguiamo il targeting di tutti i **lead anonimi** situati nell&#39;area di New York.
+C&#39;è un modo semplice per indirizzare specificamente le persone che non sono ancora nel tuo database. In questo esempio, stiamo eseguendo il targeting di tutte le **persone anonime** situate nell&#39;area di New York.
 
-1. Prendi l’attributo **E-mail lead** e trascinalo a destra.
+1. Prendi l’attributo **Persona e-mail** e trascinalo a destra.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ Il designer del flusso contiene diverse schede che è possibile aggiungere per m
  </tr>
  <tr>
   <td><strong>Scheduler appuntamenti</strong></td>
-  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette [l’agente successivo in linea](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l'agente successivo in riga</a>.</td>
  </tr>
  <tr>
   <td><strong>Obiettivo</strong></td>
-  <td>Questa è l'unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all'interno della chat specifica (es: se la raccolta dell'e-mail del visitatore è l'obiettivo, posiziona la scheda Obiettivo dopo l'acquisizione delle informazioni nello streaming).</td>
+  <td>Questa è l'unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all'interno della chat specifica (es: se la raccolta dell'e-mail del visitatore è l'obiettivo, posiziona la scheda Obiettivo subito dopo l'acquisizione delle informazioni nello streaming).</td>
  </tr>
 </table>
 
 **Creare un flusso**
 
-Ci sono _molte combinazioni di flusso_ da creare. Vediamo un solo esempio [in questo articolo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Ci sono _molte_ combinazioni possibili di flusso. Vediamo un esempio [in questo articolo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporti {#reports}
 
@@ -162,7 +162,7 @@ Nella scheda Rapporti , visualizza i dati degli ultimi 90 giorni. Ogni categoria
   <td>Viene incrementato ogni volta che un visitatore raggiunge la fine di un ramo in una finestra di dialogo.</td>
  </tr>
  <tr>
-  <td><strong>Lead catturati</strong></td>
+  <td><strong>Persone catturate</strong></td>
   <td>Viene incrementato ogni volta che un visitatore fornisce un indirizzo e-mail valido in un flusso di dialogo.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ Nella scheda Rapporti , visualizza i dati degli ultimi 90 giorni. Ogni categoria
   <td>Incrementa ogni volta che un visitatore raggiunge un obiettivo in qualsiasi flusso di dialogo.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Creare un flusso](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

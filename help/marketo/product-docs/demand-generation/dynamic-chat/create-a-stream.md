@@ -3,18 +3,18 @@ description: Creare un flusso - Documenti Marketo - Documentazione del prodotto
 title: Creare un flusso
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Creare un flusso {#create-a-stream}
 
-Ci sono _molte combinazioni di flusso_ da creare. Di seguito è riportato un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha delle domande. Se sì, il visitatore può pianificare un appuntamento. In caso contrario, al visitatore viene offerta la possibilità di partecipare a una mailing list per la corrispondenza futura. L&#39;obiettivo è pianificare un appuntamento o raccogliere l&#39;e-mail del visitatore.
+Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha delle domande sul prodotto. Se sì, il visitatore può pianificare un appuntamento. In caso contrario, al visitatore viene offerta la possibilità di partecipare a una mailing list per la corrispondenza futura. L&#39;obiettivo è pianificare un appuntamento o raccogliere l&#39;e-mail del visitatore.
 
-1. Dopo aver [creato la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), fare clic sulla scheda Progettazione flussi.
+1. Dopo aver [creato la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), fare clic sulla scheda **Progettazione flussi**.
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ Ci sono _molte combinazioni di flusso_ da creare. Di seguito è riportato un ese
      <td>Il messaggio che il visitatore visualizza e che richiede loro di fornire le informazioni.</td>
     </tr>
     <tr>
-     <td><strong>Testo di esempio che aiuta il visitatore a vedere cosa immettere.</strong></td>
-     <td>text</td>
+     <td><strong>Segnaposto</strong></td>
+     <td>Testo di esempio che aiuta il visitatore a vedere cosa immettere.</td>
     </tr>
     <tr>
      <td><strong>Mappa la risposta all'attributo</strong></td>
@@ -116,3 +116,7 @@ Ci sono _molte combinazioni di flusso_ da creare. Di seguito è riportato un ese
 >[!NOTE]
 >
 >Prima di fare clic su Pubblica, ricorda di aver [inserito gli URL di destinazione](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+
+>[!MORELIKETHIS]
+>
+>[Finestre di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)

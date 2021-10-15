@@ -3,16 +3,16 @@ description: Panoramica della chat dinamica - Documenti Marketo - Documentazione
 title: Panoramica della chat dinamica
 hide: true
 hidefromtoc: true
-source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
 # Panoramica della chat dinamica {#dynamic-chat-overview}
 
-La chat dinamica consente di sfruttare un’interfaccia di facile utilizzo per eseguire il targeting di entrambi i lead (PEOPLE?) e i relativi account (VISITANDO IL TUO?) sito web. Raccogli contenuti pertinenti quali nome, informazioni di contatto e testo libero. I visitatori del sito possono anche prenotare riunioni con il team di vendita. I dati di attività e coinvolgimento della chat dinamica possono essere utilizzati per aggiungere membri ai programmi Marketo e attivare attività cross-channel.
+La chat dinamica consente di sfruttare un&#39;interfaccia di facile utilizzo per eseguire il targeting sia per le persone che per gli account che visitano il tuo sito web. Raccogli contenuti pertinenti quali nome, informazioni di contatto e testo libero. I visitatori del sito possono anche prenotare riunioni con il team di vendita. I dati di attività e coinvolgimento della chat dinamica possono essere utilizzati per aggiungere membri ai programmi Marketo e attivare attività cross-channel.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Un componente chiave della chat dinamica è la sua capacità di interfaccia nati
 
 Viene sincronizzato quanto segue:
 
-* Dati campo lead
+* Dati del campo Persona
 * Dati sul campo dell&#39;azienda
 * Dati attività
 
@@ -40,15 +40,15 @@ Nella scheda Configurazione, personalizzare l&#39;aspetto delle varie finestre d
 
 Nella scheda Calendario, collegare il calendario (Outlook o Gmail) per l&#39;utilizzo nella pianificazione degli appuntamenti nel chatbot. Una volta che il calendario di un utente è connesso a Dynamic Chat, tale utente verrà aggiunto alla coda e il suo calendario sarà disponibile per i visitatori del sito web a pianificare gli appuntamenti in.
 
-Puoi anche personalizzare il corpo dell’invito e-mail? che viene inviato al visitatore quando programma un appuntamento sul calendario dell’utente.
+Puoi anche personalizzare il corpo dell’invito inviato al visitatore quando questo pianifica un appuntamento sul calendario dell’utente.
 
 ## Riunioni {#meetings}
 
-Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web attraverso le varie finestre di dialogo. Qui trovi l&#39;indirizzo e-mail del lead che ha prenotato l&#39;appuntamento, con quale agente ha prenotato l&#39;appuntamento, quando l&#39;appuntamento è pianificato e se la riunione è avvenuta o meno.
+Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web attraverso le varie finestre di dialogo. Qui trovi l&#39;indirizzo e-mail della persona che ha prenotato l&#39;appuntamento, con quale agente ha prenotato l&#39;appuntamento, quando l&#39;appuntamento è programmato e se la riunione è avvenuta o meno.
 
 ## Indirizzamento {#routing}
 
-Qui è possibile vedere una lista di tutti gli agenti che hanno collegato i loro calendari e l&#39;ordine in cui verranno presentati ai visitatori del sito web Incontri vanno in stile roboato, quindi se avete cinque agenti e l&#39;agente tre ha preso l&#39;ultima riunione, l&#39;agente quattro otterrà il prossimo, seguito da cinque, poi di nuovo all&#39;agente uno.
+Qui puoi vedere un elenco di tutti gli agenti che hanno collegato i loro calendari e l&#39;ordine in cui verranno presentati ai visitatori del sito web. Le riunioni vanno in stile robin, quindi se avete cinque agenti e l&#39;agente tre ha preso l&#39;ultima riunione, l&#39;agente quattro avrà quello successivo, seguito dall&#39;agente cinque, poi di nuovo all&#39;agente uno.
 
 ## Domande frequenti {#faq}
 
@@ -56,9 +56,9 @@ Qui è possibile vedere una lista di tutti gli agenti che hanno collegato i loro
 
 No, utilizza solo risposte predeterminate.
 
-**Come posso indirizzare i lead anonimi?**
+**Come posso indirizzare le persone anonime?**
 
-Nella finestra di dialogo, devi utilizzare l’attributo _E-mail lead è vuoto_ .
+Nella finestra di dialogo, devi utilizzare l’attributo _E-mail persona è vuoto_ .
 
 **Supporta la funzionalità AI/NLP?**
 
