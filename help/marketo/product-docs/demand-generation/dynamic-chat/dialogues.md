@@ -3,9 +3,9 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Esiste un modo semplice per eseguire il targeting specifico dei lead che non son
 
    >[!NOTE]
    >
-   >Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e dedurre tutti i tipi di buone informazioni..
+   >Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e dedurre tutti i tipi di buone informazioni.
 
 1. __ Isis impostato per impostazione predefinita. Nel campo Seleziona valori digitare NY (è inoltre possibile fare clic sull’elenco a discesa e selezionarlo dall’elenco).
 
@@ -90,9 +90,11 @@ Esiste un modo semplice per eseguire il targeting specifico dei lead che non son
 
 ## Aggiungi gruppi {#add-groups}
 
-Hai anche la possibilità di raggruppare gli attributi, nel caso in cui desideri avere tutti gli attributi insieme a &quot;qualsiasi&quot; di un altro.
+Hai anche la possibilità di raggruppare gli attributi, nel caso in cui desideri avere tutti gli attributi insieme a &quot;all o any&quot; di un altro. È possibile aggiungere più gruppi.
 
-FINISCI QUESTO
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Target {#target}
 
@@ -107,7 +109,7 @@ Formati accettabili:
 
 >[!NOTE]
 >
->L&#39;utilizzo di un asterisco funge da jolly catch-all. Quindi `https://*.website.com` inserirebbe la finestra di dialogo su ogni pagina del sito, inclusi i sottodomini (ad esempio: `support.website.com`). E `https://website.com/folder/*` inseriva la finestra di dialogo in ogni pagina HTML della cartella successiva (ad esempio: in questo caso diciamo che la cartella è &quot;sport&quot;, quindi: website.com/sports/baseball.html, website.com/sports/football.html, ecc.).
+>L&#39;utilizzo di un asterisco funge da jolly catch-all. Quindi `https://*.website.com` inserirebbe la finestra di dialogo su ogni pagina del sito, inclusi i sottodomini (ad esempio: `support.website.com`). E `https://website.com/folder/*` inseriva la finestra di dialogo in ogni pagina di HTML nella cartella successiva (ad esempio: in questo caso diciamo che la cartella è &quot;sport&quot;, quindi: website.com/sports/baseball.html, website.com/sports/football.html, ecc.).
 
 ## Progettazione flussi {#stream-designer}
 
@@ -139,9 +141,7 @@ Il designer del flusso contiene diverse schede che è possibile aggiungere per m
 
 **Creare un flusso**
 
-Ci sono _molte combinazioni di flusso_ da creare. In questo esempio faremo una domanda sì o no e prepareremo alcune risposte.
-
-ESEMPIO
+Ci sono _molte combinazioni di flusso_ da creare. Vediamo un solo esempio [in questo articolo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporti {#reports}
 

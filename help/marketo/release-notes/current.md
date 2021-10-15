@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **22 ottobre 2021**
 **_Rilascio in tutto il trimestre_**
 
 Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciate durante i prossimi mesi.
+
+**Connettore Adobe Experience Platform nativo per la condivisione di tipi di pubblico su Marketo Engage**: Abilita l’orchestrazione di campagne multicanale nel Marketo Engage per i segmenti di pubblico creati in Adobe Experience Platform tramite un connettore di destinazione nativo. Il connettore utilizza indirizzi e-mail o ECID per far corrispondere i profili Adobe Experience Platform ai record delle persone del Marketo Engage, con conseguente condivisione dei segmenti tra le applicazioni. Gli elenchi statici di Marketo Engage vengono compilati automaticamente, consentendo agli addetti al marketing di raggiungere il pubblico target con messaggi altamente personalizzati o di avviare flussi di lavoro. Attiva i tipi di pubblico sfruttando il proprio account e il contesto delle opportunità, e in Experience Platform un profilo unificato più completo in tempo reale.
+
+**Connettore** origine dati Adobe Experience Platform Marketo: Gli utenti sia di Adobe Experience Platform che di Marketo Engage potranno utilizzare il connettore sorgente Marketo per trasferire i dati da Marketo ad AEP. Potrai inviare dati (e relative modifiche) da Marketo in AEP per mantenere la coerenza dei dati tra i due prodotti. Il connettore Marketo può essere visualizzato tramite il catalogo Sorgenti, elencato in &quot;Applicazioni Adobe&quot;.
 
 ## Approfondimenti vendite {#sales-insight}
 
