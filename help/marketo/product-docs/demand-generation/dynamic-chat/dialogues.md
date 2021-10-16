@@ -3,9 +3,9 @@ description: Finestre di dialogo - Documenti Marketo - Documentazione del prodot
 title: Finestre di dialogo
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,8 @@ Ci sono _molte combinazioni di attributi_ tra cui scegliere. In questo esempio, 
 1. Digitare 50 e fare clic in un altro punto dello schermo per salvare.
 
    ![](assets/dialogues-8.png)
+
+Ed è tutto!
 
 **Persone anonime**
 
