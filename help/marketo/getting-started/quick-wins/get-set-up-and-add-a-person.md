@@ -3,21 +3,20 @@ unique-page-id: 2359351
 description: Configurazione e aggiunta di una persona - Documenti Marketo - Documentazione del prodotto
 title: Configurazione e aggiunta di una persona
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Imposta e aggiungi una persona {#get-set-up-and-add-a-person}
+# Configurazione e aggiunta di una persona {#get-set-up-and-add-a-person}
 
 Ci sono alcune cose da fare prima di iniziare le missioni.
 
-## Passaggio 1: Accedi a Marketo {#step-log-in-to-marketo}
+## Passaggio 1: Accedere a Marketo {#step-log-in-to-marketo}
 
-1. [Accedi a ](https://app.marketo.com) Marketing utilizzando le credenziali ricevute tramite e-mail.
+1. [Accedere a Marketo](https://app.marketo.com) utilizzando le credenziali ricevute tramite e-mail.
 
    ![](assets/one.png)
 
@@ -25,11 +24,11 @@ Ci sono alcune cose da fare prima di iniziare le missioni.
 
 Creiamo una cartella per contenere tutto ciò che farai nelle missioni.
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/two.png)
 
-1. Fai clic sul menu a discesa **Nuovo** e seleziona **Nuova cartella campagna**.
+1. Fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuova cartella campagna**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
@@ -45,15 +44,15 @@ Creiamo una cartella per contenere tutto ciò che farai nelle missioni.
 
 Aggiungi te stesso come persona in Marketo in modo da poter inviare e-mail di test a te stesso in un secondo momento.
 
-1. Passa all&#39;area **Database**.
+1. Vai a **Database** area.
 
    ![](assets/db.png)
 
-1. Fai clic sull&#39;elenco a discesa **Nuovo** e seleziona **Nuova persona**.
+1. Fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuova persona**.
 
    ![](assets/seven.png)
 
-1. Digita il tuo nome e cognome, indirizzo e-mail e nome società, quindi fai clic su **Crea** per aggiungerti come persona.
+1. Digita il nome e il cognome, l&#39;indirizzo e-mail e il nome dell&#39;azienda, quindi fai clic su **Crea** per aggiungerti come persona.
 
    ![](assets/eight.png)
 
@@ -61,11 +60,11 @@ Aggiungi te stesso come persona in Marketo in modo da poter inviare e-mail di te
 
    ![](assets/nine.png)
 
-1. Fare clic sulla scheda **Persone**. Dovresti vedere te stesso nel database.
+1. Fai clic sul pulsante **Persone** scheda . Dovresti vedere te stesso nel database.
 
    ![](assets/ten.png)
 
-## Configurazione completa {#set-up-complete}
+## Configurazione completata {#set-up-complete}
 
 Sei pronto a iniziare la tua prima missione!
 
