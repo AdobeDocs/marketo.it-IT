@@ -2,31 +2,32 @@
 title: filtri predittivi
 description: Filtri predittivi
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Filtri predittivi
 
-<br> 
-
 Come parte di Predictive Audiences, Marketo offre un gruppo di filtri basati su AI/ML negli elenchi avanzati.
 
 ![Immagine uno](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
 
+>[!NOTE]
+>
+>I filtri &quot;Probabile di partecipare&quot; e &quot;Probabile di registrarsi&quot; possono essere utilizzati solo nei programmi Evento o E-mail. È possibile utilizzare &quot;Probabilità di annullare l’iscrizione&quot;, &quot;Spettacolo dei membri del programma&quot; e &quot;Idoneità dei membri di Smart List&quot; in tutti i tipi di programmi.
+
 ## Probabilità di partecipazione
 
-Questo filtro viene utilizzato per restringere efficacemente il pubblico. Questo consente di eseguire il targeting e invitare i lead che hanno una probabilità più elevata di **partecipare** al webinar o all’evento. Tieni presente che il tuo &quot;[!UICONTROL Likelihood to attend program]&quot; sarà il tuo programma di eventi corrente.
+Questo filtro viene utilizzato per restringere efficacemente il pubblico. Questo consente di eseguire il targeting e invitare i lead che hanno una maggiore probabilità di **partecipante** il tuo webinar o evento. Tieni presente che il tuo &quot;[!UICONTROL Likelihood to attend program]&quot; sarà il programma dell&#39;evento corrente.
 
 ![Immagine 2](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilità di registrazione
 
-Simile al filtro [!UICONTROL _Probabilità di partecipare_], utilizza questo filtro per limitare il pubblico e indirizzare i lead che hanno una maggiore probabilità di **registrazione** per il webinar o l’evento.
+Simile al [!UICONTROL _Probabilità di partecipazione_] , utilizza questo filtro per restringere il pubblico e eseguire il targeting dei lead con maggiore probabilità **registrazione** per il tuo webinar o evento.
 
 ![Immagine tre](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +45,7 @@ Questo filtra il pubblico in base alla probabilità che annulli l’abbonamento 
 
 Questi due filtri consentono di espandere il pubblico corrente mediante il targeting di lead aggiuntivi simili ai membri di un altro programma o di un elenco avanzato. I filtri lookalike considerano più di 50 fattori, tra cui attributi lead, attività e-mail, attività web e coinvolgimento.
 
-Fare clic su **[!UICONTROL Add Constraint]** per scegliere i criteri di successo per i membri dei programmi selezionati.
+Fai clic su **[!UICONTROL Add Constraint]** scegliere i criteri di successo per i membri dei programmi selezionati.
 
 Fai clic sull’icona + accanto al menu a discesa del programma per aggiungere facilmente più programmi/elenchi avanzati a un unico filtro.
 

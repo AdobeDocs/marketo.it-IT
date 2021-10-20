@@ -1,9 +1,10 @@
 ---
 description: Trigger e filtri delle attività di vendita - Documentazione Marketo - Documentazione del prodotto
 title: Trigger e filtri dell'attività di vendita
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,11 +19,11 @@ Segui i passaggi riportati di seguito per scoprire come utilizzare i filtri e i 
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. Nella scheda **Smart List**, cerca &quot;Sales Connect&quot;.
+1. In **Elenco avanzato** Cerca &quot;App di vendita&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. Seleziona il filtro o il trigger desiderato.
+1. Seleziona e trascina il filtro o l’attivatore desiderato.
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
@@ -32,4 +33,4 @@ Segui i passaggi riportati di seguito per scoprire come utilizzare i filtri e i 
 
 >[!NOTE]
 >
->Per un elenco completo delle attività, dei vincoli e delle definizioni, consulta il nostro [Glossario delle attività di vendita](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Per un elenco completo delle attività, dei vincoli e delle definizioni, consulta le nostre [Glossario delle attività di vendita](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

@@ -2,10 +2,10 @@
 description: Glossario delle attività di vendita - Documenti Marketo - Documentazione del prodotto
 title: Glossario delle attività di vendita
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -114,7 +114,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>ID persona di vendita Marketo</td>
  </tr>
 <tr>
-  <th rowspan="3">Email di vendita ricevute</th>
+  <th rowspan="3">Risposta all'e-mail di vendita</th>
   <td>Ricevuto da</td>
  </tr>
  <tr>
