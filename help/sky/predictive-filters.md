@@ -2,7 +2,7 @@
 title: filtri predittivi
 description: Filtri predittivi
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -21,13 +21,13 @@ Come parte di Predictive Audiences, Marketo offre un gruppo di filtri basati su 
 
 ## Probabilità di partecipazione
 
-Questo filtro viene utilizzato per restringere efficacemente il pubblico. Questo consente di eseguire il targeting e invitare i lead che hanno una maggiore probabilità di **partecipante** il tuo webinar o evento. Tieni presente che il tuo &quot;[!UICONTROL Likelihood to attend program]&quot; sarà il programma dell&#39;evento corrente.
+Questo filtro viene utilizzato per restringere efficacemente il pubblico. Questo consente di eseguire il targeting e invitare i lead che hanno una maggiore probabilità di **partecipante** il tuo webinar o evento. Tieni presente che il tuo &quot;Probabilità di partecipare al programma&quot; sarà il tuo attuale programma di eventi.
 
 ![Immagine 2](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilità di registrazione
 
-Simile al [!UICONTROL _Probabilità di partecipazione_] , utilizza questo filtro per restringere il pubblico e eseguire il targeting dei lead con maggiore probabilità **registrazione** per il tuo webinar o evento.
+Simile al _Probabilità di partecipazione_ , utilizza questo filtro per restringere il pubblico e eseguire il targeting dei lead con maggiore probabilità **registrazione** per il tuo webinar o evento.
 
 ![Immagine tre](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 

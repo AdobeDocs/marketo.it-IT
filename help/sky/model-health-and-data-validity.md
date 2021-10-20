@@ -2,7 +2,7 @@
 title: model-health-and-data-valid
 description: Salute del modello e validità dei dati
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati
 
 >[!NOTE]
 >
->I comportamenti contrassegnati come (+) influenzano positivamente le previsioni (e viceversa).
+>I comportamenti contrassegnati con (+) influenzano positivamente le previsioni (e viceversa).
 
 Ecco come valutare lo stato di salute del modello.
 
