@@ -3,7 +3,7 @@ description: Creare un flusso - Documenti Marketo - Documentazione del prodotto
 title: Creare un flusso
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Creare un flusso {#create-a-stream}
 
-Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha delle domande sul prodotto. Se sì, il visitatore può pianificare un appuntamento. In caso contrario, al visitatore viene offerta la possibilità di partecipare a una mailing list per la corrispondenza futura. L&#39;obiettivo è pianificare un appuntamento o raccogliere l&#39;e-mail del visitatore.
+Ci sono _molti_ combinazioni di flussi che è possibile creare. Di seguito è riportato un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha delle domande sul prodotto. Se sì, il visitatore può pianificare un appuntamento. In caso contrario, al visitatore viene offerta la possibilità di partecipare a una mailing list per la corrispondenza futura. L&#39;obiettivo è pianificare un appuntamento o raccogliere l&#39;e-mail del visitatore.
 
-1. Dopo aver [creato la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), fare clic sulla scheda **Progettazione flussi**.
+1. Dopo [crea la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), fai clic su **Progettazione flussi** scheda .
 
    ![](assets/create-a-stream-1.png)
 
@@ -30,7 +30,7 @@ Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato u
    >
    >Poke è impostato su on per impostazione predefinita, che visualizza la domanda di apertura accanto all&#39;icona della chat senza che il visitatore debba fare clic su di esso per vederlo.
 
-1. Inserisci le risposte utente e fai clic su **Salva**.
+1. Immetti le risposte utente e fai clic su **Salva**.
 
    ![](assets/create-a-stream-4.png)
 
@@ -46,7 +46,7 @@ Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato u
 
    ![](assets/create-a-stream-7.png)
 
-1. Denomina l&#39;obiettivo (o scegli uno esistente) e fai clic su **Salva**.
+1. Denomina l&#39;obiettivo (o sceglierne uno esistente) e fai clic su **Salva**.
 
    ![](assets/create-a-stream-8.png)
 
@@ -54,7 +54,7 @@ Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato u
 
    ![](assets/create-a-stream-9.png)
 
-1. Immetti la risposta e aggiungi le scelte di risposta per il visitatore. Al termine, fai clic su **Salva**.
+1. Immetti la risposta e aggiungi le scelte di risposta per il visitatore. Fai clic su **Salva** al termine.
 
    ![](assets/create-a-stream-10.png)
 
@@ -66,7 +66,7 @@ Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato u
 
    ![](assets/create-a-stream-11.png)
 
-1. Fai clic sul menu a discesa **Tipo** e seleziona **E-mail**.
+1. Fai clic sul pulsante **Tipo** a discesa e seleziona **E-mail**.
 
    ![](assets/create-a-stream-12.png)
 
@@ -81,7 +81,7 @@ Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato u
     </tr>
     <tr>
      <td><strong>Messaggio Chatbot</strong></td>
-     <td>Il messaggio che il visitatore visualizza e che richiede loro di fornire le informazioni.</td>
+     <td>Il messaggio visualizzato dal visitatore richiede l’immissione delle informazioni.</td>
     </tr>
     <tr>
      <td><strong>Segnaposto</strong></td>
@@ -97,7 +97,7 @@ Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato u
 
    ![](assets/create-a-stream-14.png)
 
-1. Denomina l&#39;obiettivo (o scegli uno esistente) e fai clic su **Salva**.
+1. Denomina l&#39;obiettivo (o sceglierne uno esistente) e fai clic su **Salva**.
 
    ![](assets/create-a-stream-15.png)
 
@@ -115,7 +115,7 @@ Puoi creare diverse combinazioni di flusso _numerose_. Di seguito è riportato u
 
 >[!NOTE]
 >
->Prima di fare clic su Pubblica, ricorda di aver [inserito gli URL di destinazione](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Prima di fare clic su Pubblica, ricorda di avere [ha inserito gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
