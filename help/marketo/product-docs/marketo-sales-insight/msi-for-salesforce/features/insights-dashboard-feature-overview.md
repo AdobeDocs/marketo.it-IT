@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Panoramica delle funzioni del dashboard di approfondimenti - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della funzione del dashboard di Insights
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Ulteriori informazioni sulle funzioni disponibili nel dashboard Informazioni sul
 
 >[!PREREQUISITES]
 >
->Devi disporre del pacchetto SFDC MSI più recente e della [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>È necessario disporre dell&#39;ultimo pacchetto MSI SFDC e [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ Scheda Evento:
 * La barra Riepilogo settimanale mostrerà Momenti interessanti, E-mail e attività Web per quella settimana. Ogni icona è cliccabile e può essere utilizzata come filtro per mostrare un’attività specifica
 * Vista predefinita: Elenco delle attività della visualizzazione corrente
 
-**Prossima scheda Campagne e-mail ed** EventiCampagne e-mail:
+**Prossime campagne ed eventi e-mail** Scheda Campagne e-mail:
 
 * Include campagne che fanno parte di programmi e-mail o programmi predefiniti pianificati nei successivi 90 giorni
 * Non specifico per il contatto/lead (ad esempio, l’elenco delle campagne è un elenco generico di tutte le campagne e-mail pianificate nell’istanza Marketo). L’elenco delle campagne nei pannelli lead, contatti, account e opportunità sarà lo stesso
@@ -171,3 +171,7 @@ Scheda Evento:
 * Selezionando tutti gli eventi verrà visualizzato l’elenco degli eventi pianificati nei successivi 90 giorni
 * La scheda dei dettagli dell’attività in questa sezione presenta l’opzione di anteprima
 * Il filtro include &quot;Ricerca&quot;, &quot;Mostra solo eventi invitati&quot; e &quot;Intervallo date&quot;
+
+>[!NOTE]
+>
+>Se il tuo account o opportunità dispone di più di 800 contatti, il dashboard non visualizzerà alcun dato. Tuttavia, puoi passare ai singoli contatti per vedere le loro informazioni e il loro coinvolgimento. Se il tuo account ha più di 800 contatti, &quot;Mostra attività a livello di account&quot; verrà disattivato.
