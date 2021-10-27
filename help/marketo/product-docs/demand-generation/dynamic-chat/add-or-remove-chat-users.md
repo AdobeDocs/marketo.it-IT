@@ -3,9 +3,9 @@ description: Aggiungere o rimuovere utenti di chat - Documentazione di Marketo -
 title: Aggiungi o rimuovi utenti chat
 hide: true
 hidefromtoc: true
-source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,11 @@ Segui i passaggi seguenti per aggiungere o rimuovere utenti di chat.
    >
    >Se disponi di più abbonamenti Marketo, seleziona quello desiderato prima del passaggio successivo.
 
-1. Fai clic sulla scheda **Utenti** .
+1. Fai clic sul pulsante **Utenti** scheda .
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Fare clic sul pulsante **Aggiungi utente**.
+1. Fai clic sul pulsante **Aggiungi utente** pulsante .
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -40,45 +40,63 @@ Segui i passaggi seguenti per aggiungere o rimuovere utenti di chat.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. Fai clic sull’icona **+** e seleziona il profilo di prodotto desiderato.
+1. Fai clic sul pulsante **+** e seleziona il profilo di prodotto desiderato.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-L’utente riceverà quindi un’e-mail per accedere a Marketo.
+## Aggiungi accesso dinamico alla chat al ruolo Marketo {#add-dynamic-chat-access-to-marketo-role}
+
+Se il ruolo Marketo dell&#39;utente Chat appena aggiunto non dispone già dell&#39;autorizzazione Chat dinamica, ecco come aggiungerlo.
+
+1. In Marketo, fai clic su **Amministratore** e seleziona **Utenti e ruoli**.
+
+   ![](assets/add-or-remove-chat-users-8.png)
+
+1. Fai clic sul pulsante **Ruoli** scheda .
+
+   ![](assets/add-or-remove-chat-users-9.png)
+
+1. Dall’elenco, seleziona il ruolo da modificare e fai clic su **Modifica ruolo**.
+
+   ![](assets/add-or-remove-chat-users-10.png)
+
+1. Seleziona **Accesso a chat dinamica** e fai clic su **Salva**.
+
+   ![](assets/add-or-remove-chat-users-11.png)
 
 ## Rimuovere un utente della chat {#remove-a-chat-user}
 
 1. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   ![](assets/add-or-remove-chat-users-8.png)
+   ![](assets/add-or-remove-chat-users-12.png)
 
 1. Fai clic su **Chat dinamica**.
 
-   ![](assets/add-or-remove-chat-users-9.png)
+   ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
    >Se disponi di più abbonamenti Marketo, seleziona quello desiderato prima del passaggio successivo).
 
-1. Fai clic sulla scheda **Utenti** .
+1. Fai clic sul pulsante **Utenti** scheda .
 
-   ![](assets/add-or-remove-chat-users-10.png)
+   ![](assets/add-or-remove-chat-users-14.png)
 
 1. Seleziona l’utente da rimuovere.
 
-   ![](assets/add-or-remove-chat-users-11.png)
+   ![](assets/add-or-remove-chat-users-15.png)
 
-1. Fare clic sul pulsante **Rimuovi utente**.
+1. Fai clic sul pulsante **Rimuovi utente** pulsante .
 
-   ![](assets/add-or-remove-chat-users-12.png)
+   ![](assets/add-or-remove-chat-users-16.png)
 
-1. Fare clic su **Rimuovi utente** per confermare.
+1. Fai clic su **Rimuovi utente** per confermare.
 
-   ![](assets/add-or-remove-chat-users-13.png)
+   ![](assets/add-or-remove-chat-users-17.png)
 
 >[!MORELIKETHIS]
 >

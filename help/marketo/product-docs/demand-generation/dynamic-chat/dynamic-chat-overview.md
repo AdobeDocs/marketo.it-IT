@@ -3,9 +3,9 @@ description: Panoramica della chat dinamica - Documenti Marketo - Documentazione
 title: Panoramica della chat dinamica
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ La chat dinamica consente di sfruttare un&#39;interfaccia di facile utilizzo per
 
 ## Integrazioni {#integrations}
 
-Un componente chiave della chat dinamica è la sua capacità di interfaccia nativa con il tuo abbonamento Marketo. Per sfruttare appieno la funzionalità di questa integrazione, è innanzitutto necessario avviare la sincronizzazione dei dati. A seconda delle dimensioni del database Marketo, il completamento della sincronizzazione iniziale [una tantum](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) potrebbe richiedere fino a 24 ore per i dati. Il tempo medio di sincronizzazione è inferiore a due ore.
+Un componente chiave della chat dinamica è la sua capacità di interfaccia nativa con il tuo abbonamento Marketo. Per sfruttare appieno la funzionalità di questa integrazione, è innanzitutto necessario avviare la sincronizzazione dei dati. A seconda delle dimensioni del database Marketo, potrebbero essere necessarie fino a 24 ore per i dati iniziali, [sincronizzazione una tantum](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) da completare.
 
 Viene sincronizzato quanto segue:
 
@@ -58,7 +58,7 @@ No, utilizza solo risposte predeterminate.
 
 **Come posso indirizzare le persone anonime?**
 
-Nella finestra di dialogo, devi utilizzare l’attributo _E-mail persona è vuoto_ .
+Nella finestra di dialogo, devi utilizzare il _L&#39;e-mail della persona è vuota_ attributo.
 
 **Supporta la funzionalità AI/NLP?**
 
