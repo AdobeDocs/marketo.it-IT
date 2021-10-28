@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: Importare un elenco di persone - Marketo Docs - Documentazione del prodotto
 title: Importare un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -22,63 +22,63 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
 ## Passaggio 1: Scaricare e modificare un foglio di calcolo {#step-download-and-edit-a-spreadsheet}
 
-1. Per iniziare, scarica sul tuo computer il file del foglio di calcolo del tuo esercizio ([**fidelizzazione-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)).
+1. Per iniziare, scarica il file del foglio di calcolo della pratica ([**fidelizzazione.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) sul computer.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Quando importi una data, utilizza questo formato: **21/09/20** (mese/giorno/anno).
+   >Quando importi una data, utilizza questo formato: **21/09/20** (Mese/Giorno/Anno).
 
    >[!NOTE]
    >
    >Tutti i campi data/ora da importare vengono trattati come Ora centrale. Se si dispone di campi data/ora in un fuso orario diverso, è possibile utilizzare una formula Excel per trasformarla in Ora centrale (America/Chicago).
 
-1. Aggiungere il proprio nome, cognome, indirizzo e-mail e titolo del processo, quindi salvare il file sul computer.
+1. Aggiungi il tuo nome, cognome, indirizzo e-mail effettivo (in modo da poter ricevere le e-mail di promozione che invierai nella prossima missione) e il titolo del lavoro. Salvare il file sul computer.
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
->[!NOTE]
->
->Inserisci il tuo vero indirizzo e-mail nel file CSV in modo da poter ricevere le e-mail di sviluppo che invierai nella prossima missione.
+   >[!CAUTION]
+   >
+   >Marketo **not** supportano gli indirizzi e-mail che contengono emoticon.
 
 ## Passaggio 2: Creare un programma {#step-create-a-program}
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/ma-2.png)
 
-1. Seleziona la cartella **Apprendimento**, quindi in **Nuovo** fai clic su **Nuovo programma**.
+1. Seleziona la tua **Apprendimento** cartella, quindi sotto **Nuovo** click **Nuovo programma**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Rinomina il programma &quot;Il mio programma di programma di programma&quot; e seleziona &quot;Evento&quot; per il tipo di  **programma**.
+1. **Nome** il programma &quot;My Tradeshow Program&quot; e selezionare &quot;Event&quot; per il **Tipo di programma**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Seleziona **Tradeshow** per il **Canale** e fai clic su **Crea**.
+1. Seleziona **Presentazione** per **Canale** e fai clic su **Crea**.
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
 >[!NOTE]
 >
->I programmi evento si verificano in date specifiche. Ulteriori informazioni su [**Eventi**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>I programmi evento si verificano in date specifiche. Ulteriori informazioni [**Eventi**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Passaggio 3: Importare il foglio di calcolo in Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. In **Il mio programma di presentazione**, fai clic su **Nuovo** e seleziona **Nuova risorsa locale**.
+1. In **Il mio programma**, fai clic su **Nuovo** e seleziona **Nuova risorsa locale**.
 
    ![](assets/seven-3.png)
 
-1. Fare clic su **Elenco**.
+1. Fai clic su **Elenco**.
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **** Denomina l&#39;elenco &quot;Partecipanti al programma di lavoro&quot; e fai clic su  **Crea**.
+1. **Nome** l&#39;elenco &quot;Partecipanti alla fiera&quot; e fai clic su **Crea**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Nell&#39;elenco **Partecipanti alla presentazione**, fai clic su **Elenca azioni** e seleziona **Importa elenco**.
+1. Nel tuo **Partecipanti alla fiera** elenco, fai clic su **Azioni elenco** e seleziona **Importa elenco**.
 
    ![](assets/ten-2.png)
 
@@ -90,32 +90,32 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
    >
    >Il limite di dimensione per i file CSV è di 100 MB.
 
-1. **** Individua il file  **del foglio di calcolo** csvecolarità sul computer e fai clic su  **Avanti**.
+1. **Sfoglia** al **fidelizzazione.csv** foglio di calcolo sul computer e fai clic su **Successivo**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >In modalità di importazione elenco, scegliere **Ignora nuove persone e aggiornamenti** significa che non si avrà alcun impatto sui record di persone esistenti o registrare alcuna attività. Utilizza questa modalità se desideri un elenco rapido e pre-filtrato statico delle persone esistenti da utilizzare nelle attività di marketing. Selezionando questa modalità:
+   >In modalità di importazione elenco, scegliere **Ignora nuove persone e aggiornamenti** significa che non influirai sui record di persone esistenti o non registrerai alcuna attività. Utilizza questa modalità se desideri un elenco rapido e pre-filtrato statico delle persone esistenti da utilizzare nelle attività di marketing. Selezionando questa modalità:
    >
    > * Ignora la creazione di nuove persone
    > * Ignora aggiornamenti campo persona
    > * Ignora registrazione attività
 
 
-1. Mappa i campi Colonna elenco sul rispettivo campo Marketo e fai clic su **Avanti**.
+1. Mappa i campi della colonna dell’elenco nel rispettivo campo Marketo e fai clic su **Successivo**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
    >[!TIP]
    >
-   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (con distinzione tra maiuscole e minuscole). Se utilizzi campi personalizzati e non li vedi nell’elenco a discesa, torna indietro e [creali](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) in modo che possano diventare opzioni.
+   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (con distinzione tra maiuscole e minuscole). Se utilizzi campi personalizzati e non li visualizzi nell’elenco a discesa, torna indietro e [crearle](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) possono diventare opzioni.
 
    >[!NOTE]
    >
-   >Se esistono campi che non si desidera importare, selezionare **Ignora** nel menu a discesa Campo Marketo.
+   >Se sono presenti campi che non si desidera importare, selezionare **Ignora** nel menu a discesa Campo Marketo .
 
-1. Seleziona **Il mio programma di presentazione** per il **programma di acquisizione**, quindi fai clic su **Importa**.
+1. Seleziona **Il mio programma** per **Programma di acquisizione**, quindi fai clic su **Importa**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -123,13 +123,13 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. Di nuovo in **Il mio programma di presentazione**, fai clic sulla scheda **Membri** . Vedrete tutte le persone appena importate.
+1. Indietro **Il mio programma**, fai clic su **Membri** scheda . Vedrete tutte le persone appena importate.
 
    ![](assets/fifteen-1.png)
 
 >[!NOTE]
 >
->Puoi analizzare il successo del tuo programma monitorando l&#39;iscrizione al programma. Ulteriori informazioni su [**Programmi**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Puoi analizzare il successo del tuo programma monitorando l&#39;iscrizione al programma. Ulteriori informazioni [**Programmi**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Missione completata {#mission-complete}
 

@@ -3,10 +3,9 @@ unique-page-id: 1147316
 description: Creare manualmente una persona - Documenti Marketo - Documentazione del prodotto
 title: Creare manualmente una persona
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -15,11 +14,15 @@ ht-degree: 0%
 
 Ci sono molti modi per far entrare una persona in Marketo. Se devi crearne uno manualmente, ecco come farlo.
 
-1. Vai al **Database**.
+>[!CAUTION]
+>
+>Marketo **not** supportano gli indirizzi e-mail che contengono emoticon.
+
+1. Vai a **Database**.
 
    ![](assets/db-1.png)
 
-1. In **Nuova**, fai clic su **Nuova persona**.
+1. Sotto **Nuovo**, fai clic su **Nuova persona**.
 
    ![](assets/two-2.png)
 
