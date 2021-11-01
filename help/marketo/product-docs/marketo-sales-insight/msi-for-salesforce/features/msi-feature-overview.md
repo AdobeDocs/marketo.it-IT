@@ -2,14 +2,13 @@
 unique-page-id: 37356893
 description: Panoramica delle funzioni MSI - Documenti Marketo - Documentazione del prodotto
 title: Panoramica delle funzioni MSI
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: e6cd988c-afba-44e3-b240-68258236f344
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Panoramica delle funzioni MSI {#msi-feature-overview}
 
@@ -51,13 +50,13 @@ Campi:
 * Desc dell&#39;ultimo momento interessante
 * Ultima origine momento interessante
 * Ultimo tipo di momento interessante
-* Ultima attività di marketing per vendite
-* Ultimo Marketo Engagement per vendite
+* Ultima attività Marketo per vendite
+* Ultimo coinvolgimento Marketo per vendite
 * Punteggio relativo
 * Valore punteggio relativo
 * Urgenza
 * Valore di urgenza
-* Visualizza in Marketo - Fai clic su questo campo per aprire una vista non modificabile del lead in Marketo. Include: Informazioni lead, informazioni società, informazioni lead SFDC, campi personalizzati SFDC, registro attività
+* Visualizza in Marketo - Fai clic su questo campo per aprire una visualizzazione non modificabile del lead in Marketo. Include: Informazioni lead, informazioni società, informazioni lead SFDC, campi personalizzati SFDC, registro attività
 * ID contatto MSI - Aggiungi un contatto Salesforce a questo campo e includi il pannello &quot;Lead Contact Bridge&quot; nel layout lead per vedere il pannello MSI del contatto
 
 ## Layout dei contatti {#contact-layout}
@@ -76,12 +75,12 @@ Campi:
 * Desc dell&#39;ultimo momento interessante
 * Ultima origine momento interessante
 * Ultimo tipo di momento interessante
-* Ultima attività di marketing per vendite
+* Ultima attività Marketo per vendite
 * Punteggio relativo
 * Valore punteggio relativo
 * Urgenza
 * Valore di urgenza
-* Visualizza in Marketo - Fai clic su questo campo per aprire una vista non modificabile del lead in Marketo. Include: Informazioni lead, informazioni società, informazioni lead SFDC, campi personalizzati SFDC, registro attività
+* Visualizza in Marketo - Fai clic su questo campo per aprire una visualizzazione non modificabile del lead in Marketo. Include: Informazioni lead, informazioni società, informazioni lead SFDC, campi personalizzati SFDC, registro attività
 * Punteggio lead Mkto
 * Insight vendite: apre la pagina completa dell&#39;elenco dei contatti
 
@@ -103,7 +102,7 @@ Azioni:
 * Invia e-mail Marketo
 * Aggiungi/rimuovi da elenco di controllo
 
-Le seguenti funzioni sono **non disponibili** nella pagina Layout account :
+Le seguenti funzioni sono: **non disponibile** nella pagina Layout account:
 
 * Stelle e fiamme
 
@@ -118,7 +117,7 @@ Pagine della forza visiva:
 Campi:
 
 * Insight vendite: apre la pagina completa dell&#39;elenco dei contatti
-* Analisi delle opportunità di Marketo - Apre Opportunity Ininfluence Analyzer in Marketo
+* Analisi delle opportunità di Marketo - Apre Opportunity Influence Analyzer in Marketo
 
 Azioni:
 
@@ -126,15 +125,15 @@ Azioni:
 * Invia e-mail Marketo
 * Aggiungi/rimuovi da elenco di controllo
 
-Le seguenti funzioni sono **non disponibili** nella pagina Layout opportunità:
+Le seguenti funzioni sono: **non disponibile** nella pagina Layout opportunità :
 
 * Stelle e fiamme
 
 ## Visualizzazione Elenco contatti e lead (azioni in blocco) {#lead-and-contact-list-view-bulk-actions}
 
-Fulmine Salesforce: Aggiungi alla watchlist, Aggiungi alla campagna Marketo e Invia i pulsanti di azione collettiva Marketo Email nella vista Elenco contatti e lead.
+Fulmine Salesforce: Aggiungi alla watchlist, Aggiungi a Marketo Campaign e Invia i pulsanti di azione in blocco di Marketo Email nella vista Elenco lead e contatti.
 
-Salesforce Classic: Aggiungi alla watchlist, Aggiungi alla campagna Marketo e Invia i pulsanti di azione collettiva Marketo Email nella vista Elenco contatti e lead.
+Salesforce Classic: Aggiungi alla lista di controllo, Aggiungi a Marketo Campaign e Invia pulsanti di azione in blocco per e-mail Marketo nella vista Elenco contatti e lead .
 
 ## Scheda Marketo {#marketo-tab}
 
@@ -156,7 +155,7 @@ Salesforce Classic: Aggiungi alla watchlist, Aggiungi alla campagna Marketo e In
 * Attività Web anonime
 
    * Offre la possibilità di creare e modificare viste e funzioni filtro per intervalli di tempo
-   * Colonne - Page View, Company, Last Visit, Research (apre la pagina LinkedIn della società)
+   * Colonne - Page View, Company, Last Visit, Research (apre la pagina LinkedIn dell&#39;azienda)
 
 * E-mail personale
 
@@ -172,7 +171,7 @@ Salesforce Classic: Aggiungi alla watchlist, Aggiungi alla campagna Marketo e In
    * Opzione di abbonamento per ricevere notifiche e-mail per questo tipo di evento
    * Icona ad alta priorità per mostrare a questa persona una migliore scommessa
 
-## Scheda Configurazione Approfondimenti vendite Marketo {#marketo-sales-insight-configuration-tab}
+## Scheda Configurazione di Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
 * Impostazioni operative: Include le credenziali API Soap &amp; Rest necessarie per configurare MSI in SFDC
 * Configurazione MSI: Include la configurazione della scheda Marketo e del pannello di forza visiva MSI
@@ -180,7 +179,7 @@ Salesforce Classic: Aggiungi alla watchlist, Aggiungi alla campagna Marketo e In
 
 >[!MORELIKETHIS]
 >
->[Scheda Configurazione analisi vendite Marketo in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[Scheda Configurazione Marketo Sales Insight in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Rapporti sulle prestazioni di Sales Insight {#sales-insight-performance-reports}
 
@@ -190,6 +189,10 @@ Visualizzare le prestazioni delle e-mail inviate tramite Salesforce, Microsoft D
 
 Le funzioni MSI sono supportate nell’app mobile Salesforce
 
-## Supporto linguistico {#language-support}
+## Supporto lingua {#language-support}
 
-Informazioni sulle vendite Marketo è memorizzato per lingua. Quindi, se vuoi che funzioni per più lingue, devi immettere le credenziali separatamente per ogni lingua.
+Marketo Sales Insight è memorizzato per lingua. Quindi, se vuoi che funzioni per più lingue, devi immettere le credenziali separatamente per ogni lingua.
+
+>[!NOTE]
+>
+>Per poter essere aggiunto all’elenco di controllo, è necessario che un contatto/lead si trovi nella partizione predefinita.

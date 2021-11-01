@@ -2,7 +2,7 @@
 description: Migliori offerte - Documentazione Marketo - Documentazione del prodotto
 title: Migliori offerte
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -46,3 +46,7 @@ Puoi selezionare uno o più lead o contatti dalla pagina Best Bets utilizzando l
 * Aggiungi a watchlist
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>Per poter essere aggiunto all’elenco di controllo, è necessario che un contatto/lead si trovi nella partizione predefinita.
