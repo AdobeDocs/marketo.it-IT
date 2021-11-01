@@ -3,9 +3,9 @@ description: Aggiungere o rimuovere un utente - Documentazione Marketo - Documen
 title: Aggiungi o rimuovi un utente
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Fare clic su **Marketo Engage**.
+1. Fai clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Fai clic sulla scheda **Utenti** .
+1. Fai clic sul pulsante **Utenti** scheda .
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Fare clic sul pulsante **Aggiungi utente**.
+1. Fai clic sul pulsante **Aggiungi utente** pulsante .
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,15 +38,19 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. Fai clic sull’icona **+** e seleziona il profilo di prodotto desiderato.
+1. Fai clic sul pulsante **+** e seleziona il profilo di prodotto desiderato.
 
    ![](assets/add-or-remove-a-user-7.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
 L’utente riceverà quindi un’e-mail per accedere a Marketo.
+
+>[!NOTE]
+>
+>Quando l’utente viene aggiunto al Marketo Engage tramite Adobe Admin Console, gli viene assegnato il ruolo &quot;Utente standard&quot; all’interno dell’area di lavoro Predefinita della sottoscrizione. Se è necessario modificare il ruolo dell’utente all’interno dell’area di lavoro, questo viene fatto in Marketo Engage, [come descritto qui](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Rimuovere un utente {#remove-a-user}
 
@@ -54,7 +58,7 @@ L’utente riceverà quindi un’e-mail per accedere a Marketo.
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Fare clic su **Marketo Engage**.
+1. Fai clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -62,17 +66,19 @@ L’utente riceverà quindi un’e-mail per accedere a Marketo.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Fai clic sulla scheda **Utenti** .
+1. Fai clic sul pulsante **Utenti** scheda .
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Selezionare l&#39;utente da rimuovere e fare clic sul pulsante **Rimuovi**.
+1. Seleziona l’utente da rimuovere e fai clic sul pulsante **Rimuovi** pulsante .
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Fare clic su **Rimuovi utente** per confermare.
+1. Fai clic su **Rimuovi utente** per confermare.
 
    ![](assets/add-or-remove-a-user-14.png)
+
+L’utente riceverà quindi un’e-mail di notifica per informarlo che non ha più accesso al Marketo Engage da parte dell’amministratore di prodotto.
 
 >[!MORELIKETHIS]
 >
