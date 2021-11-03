@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
-source-wordcount: '7977'
+source-wordcount: '7981'
 ht-degree: 0%
 
 ---
@@ -504,6 +504,8 @@ ht-degree: 0%
          + [Importazione di risorse con Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [Glossario delle scelte rapide da tastiera](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Sandbox Marketo](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [Gestione della privacy](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+         + [Richieste sulla privacy](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Rinominare una risorsa Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
          + [Configurare la condivisione del pubblico di Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
          + [Sincronizzazione di un pubblico da Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
