@@ -1,9 +1,9 @@
 ---
 description: Gestione della privacy - Documenti Marketo - Documentazione del prodotto
 title: Gestione della privacy
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Per facilitare la preparazione alla privacy, il Marketo Engage ti consente di ge
 * La **Diritto di accesso** è il diritto per l’interessato di ottenere dal titolare del trattamento la conferma dell’avvenuto trattamento dei dati personali che li riguardano o meno, dove e a quale scopo. Il titolare del trattamento fornisce gratuitamente una copia dei dati personali in formato elettronico.
 * Noto anche come cancellazione dei dati, il **Diritto all&#39;oblio** (richiesta di cancellazione) concede all’interessato il diritto di richiedere al titolare del trattamento di cancellare i propri dati personali, di cessare l’ulteriore diffusione dei dati e di far cessare potenzialmente il trattamento dei dati da parte di terzi.
 
-Per scoprire come creare le richieste di accesso ed eliminazione e come le elaboriamo, consulta la sezione [fasi di implementazione](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Per scoprire come creare le richieste di accesso/cancellazione e come elaborarle, consulta [articolo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
