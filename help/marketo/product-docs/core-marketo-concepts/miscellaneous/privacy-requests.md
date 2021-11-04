@@ -1,9 +1,9 @@
 ---
 description: Richieste sulla privacy - Documenti Marketo - Documentazione del prodotto
 title: Richieste sulla privacy
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 
 Questo documento fornisce una panoramica sulla gestione delle singole richieste di privacy dei dati che è possibile inviare a Marketi Engage tramite l’interfaccia utente di Privacy Service e **API Privacy Service**.
 
+>[!NOTE]
+>
+>Le richieste di privacy inviate tramite l’interfaccia utente o l’API di Privacy Service per Marketo Engage si applicano solo a coloro che hanno versioni di Marketo Engage + RT-CDP, B2B e B2P.
+
 Puoi inviare singole richieste di accesso e cancellazione dei dati dei consumatori dal Marketo Engage in due modi:
 
 * Attraverso il [Interfaccia utente di Privacy Service](https://privacyui.cloud.adobe.io/). Consulta la documentazione [qui](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
@@ -19,13 +23,11 @@ Puoi inviare singole richieste di accesso e cancellazione dei dati dei consumato
 
 La [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
 
-Nota: Le richieste di privacy inviate tramite l’interfaccia utente o l’API di Privacy Service per Marketo Engage si applicano solo ai clienti con Marketo Engage + RT-CDP, B2B e le edizioni B2P.
-
 Vediamo come creare le richieste di accesso ed eliminazione.
 
 ## Configurazione necessaria per inviare richieste di Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-Per richiedere ad Marketo Engage l&#39;accesso e l&#39;eliminazione dei dati, devi:
+Per richiedere ad Marketo Engage l&#39;accesso e l&#39;eliminazione dei dati, è necessario:
 
 1. Identifica quanto segue:
 
@@ -45,7 +47,6 @@ b) Indirizzo e-mail della persona su cui desideri agire
 
 &quot;utenti&quot;:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   (facoltativo)
 * &quot;action&quot;: o **accesso** o **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
@@ -58,7 +59,7 @@ b) Indirizzo e-mail della persona su cui desideri agire
 
 &quot;regolamento&quot;:
 
-* **rgpd**, **ccpa**, **pdpa**, **lgpd** oppure **nzpa**  (regolamento sulla privacy applicabile alla richiesta)
+* **rgpd**, **ccpa**, **pdpa**, **lgpd_bra** oppure **nzpa_nzl**  (regolamento sulla privacy applicabile alla richiesta)
 
 ## Esempio 1: Richiesta di cancellazione RGPD {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ Richiesta JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ Risposta JSON
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ Richiesta JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ Risposta JSON
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
