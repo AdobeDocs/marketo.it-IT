@@ -1,9 +1,9 @@
 ---
 description: Gestione della privacy - Documenti Marketo - Documentazione del prodotto
 title: Gestione della privacy
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ Marketi Engage offre una serie di strumenti per aiutarti a rispettare le normati
 
 >[!NOTE]
 >
->Le richieste di privacy inviate tramite l’interfaccia utente o l’API di Privacy Service per Marketo Engage si applicano solo ai clienti con Marketo Engage + RT-CDP, B2B e le edizioni B2P.
+>Le richieste di privacy inviate tramite l’interfaccia utente o l’API di Privacy Service per Marketo Engage si applicano solo a coloro che hanno versioni di Marketo Engage + RT-CDP, B2B e B2P.
 
 ## Regolamenti sulla gestione della privacy {#regulations-on-privacy-management}
 
