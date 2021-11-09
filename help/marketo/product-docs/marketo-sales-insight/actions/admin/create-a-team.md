@@ -3,14 +3,14 @@ description: Creare un team - Documenti Marketo - Documentazione del prodotto
 title: Crea un team
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# Crea un team {#create-a-team}
+# Creazione di un team {#creating-a-team}
 
 La creazione di un team ti consente di assemblare un gruppo di utenti con cui è possibile condividere il contenuto e filtrare i rapporti in base a .
 
