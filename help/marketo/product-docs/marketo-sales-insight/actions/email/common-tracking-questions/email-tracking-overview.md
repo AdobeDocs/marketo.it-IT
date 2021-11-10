@@ -3,9 +3,9 @@ description: Panoramica sul tracciamento e-mail - Documenti Marketo - Documentaz
 title: Panoramica sul tracciamento e-mail
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,14 @@ Se Sales Connect non è in grado di tenere traccia della risposta del potenziale
 
 Ciò significa che se invii un’e-mail a flynn@flynnsarcade.com e risponde con kevinf@flynnsarcade.com, saremo in grado di tenere traccia della risposta. Inoltre, se invii un&#39;e-mail a flynn@flynnsarcade.com e CC alan@encom.com e Alan ti scrive di nuovo, rileverà anche la risposta e terminerà la campagna.
 
-## Come funziona il tracciamento delle risposte {#how-reply-tracking-works}
+## Come tenere traccia degli allegati e-mail {#how-to-track-your-email-attachments}
 
 text
 
-## Come tenere traccia degli allegati e-mail {#how-to-track-your-email-attachments}
+## Come funziona il tracciamento delle viste {#how-view-tracking-works}
 
+text
+
+## E-mail di test non visualizzata come visualizzata {#test-email-not-showed-as-viewed}
+
+text
