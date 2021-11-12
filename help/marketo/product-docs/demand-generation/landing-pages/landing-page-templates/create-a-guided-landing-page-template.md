@@ -3,7 +3,7 @@ unique-page-id: 7515401
 description: Creare un modello di pagina di destinazione guidata - Documenti Marketo - Documentazione del prodotto
 title: Creare un modello di pagina di destinazione guidata
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Il contenuto di un elemento con classe mktoText (se fornito) verrà utilizzato c
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## Immagine {#image}
 
@@ -60,7 +60,7 @@ mktoImgClass: Stringa. Il valore qui verrà aggiunto all&#39;attributo class del
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## Opzione 2 - Utilizza un `<img>` {#option-use-a-img}
 
@@ -74,7 +74,7 @@ src: URL stringa. Viene utilizzato come valore predefinito per l’immagine.
 
 Esempio:
 
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ Esempio:Attributi richiesti:\
 **id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
 **mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
-`<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
+`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Frammento {#snippet}
 
@@ -98,7 +98,7 @@ Attributi richiesti:\
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
+`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## Pulsante Condividi {#share-button}
 
@@ -109,7 +109,7 @@ Attributi richiesti:\
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
+`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## Video {#video}
 
@@ -124,7 +124,7 @@ Attributi richiesti:
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
+`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## Sondaggio {#poll}
 
@@ -135,7 +135,7 @@ Attributi richiesti:\
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
+`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
 
 ## Riferimento {#referral}
 
@@ -146,7 +146,7 @@ Attributi richiesti:\
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
+`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
 
 ## Lotterie {#sweepstakes}
 
@@ -157,7 +157,7 @@ Attributi richiesti:\
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
+`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Variabili modificabili {#editable-variables}
 
@@ -165,7 +165,7 @@ Tutti i tipi di variabili vengono utilizzati facendo riferimento al valore del r
 
 Esempio:
 
-`<pre data-theme="Confluence">${var1}</pre>`
+`${var1}`
 
 **Dichiarazione:**
 
@@ -184,11 +184,11 @@ Facoltativo:\
 
 Esempio di base:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable">`
 
 Esempio con tutti gli attributi:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## Colore {#color}
 
@@ -202,11 +202,11 @@ Facoltativo:\
 
 Esempio di base:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>`
+`<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
 Esempio con tutti gli attributi:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## Booleano {#boolean}
 
@@ -224,15 +224,15 @@ Facoltativo:\
 
 Esempio di base:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Esempio con tutti gli attributi:
 
 Questo esempio mostra un caso d’uso comune in cui una variabile booleana controlla la visibilità di un elemento css impostando il valore della proprietà di visualizzazione css su &quot;block&quot; o &quot;none&quot; per mostrare/nascondere un elemento per id con CSS. L’editor della pagina di destinazione utilizza il nome visualizzato Mostra/Nascondi invece di OFF/ON.
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >

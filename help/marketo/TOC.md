@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 0%
 
 ---
@@ -298,7 +298,7 @@ ht-degree: 0%
             + [Esegui subito una campagna avanzata in batch | Scheda Pianificazione](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Pianificare una campagna avanzata in batch da eseguire in un secondo momento](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Pianificare una campagna batch ricorrente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
-            + [Impostazione di una campagna avanzata trigger per le vendite utilizzando &quot;Campaign is Requested&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
+            + [Impostazione di una campagna avanzata trigger per le vendite utilizzando &quot;Campagna richiesta&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [Utilizzo della logica delle regole dell’elenco avanzato standard](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Azioni di flusso {#flow-actions}
             + [Aggiungere un passaggio di flusso a una campagna avanzata](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
@@ -574,7 +574,7 @@ ht-degree: 0%
             + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
                + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-               + [Passaggio 3 di 3: Connettere Marketo e Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+               + [Passaggio 3 di 3: Connetti Marketo e Salesforce (Enterprise/Senza limiti)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
             + Professional Edition {#professional-edition}
                + [Passaggio 1 di 3: Aggiungi campi Marketo a Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
                + [Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
@@ -1269,6 +1269,25 @@ ht-degree: 0%
             + [I miei campi dinamici non si stanno compilando](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Riferimento in un campo dinamico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Informazioni sulle vendite Marketo {#marketo-sales-insight}
+      + Azioni {#actions}
+         + Amministratore {#admin}
+            + [Domini bloccati](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Blocco del contenuto](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [Crea un team](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Come impostare il tracciamento del dominio personalizzato](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [Invitare utenti e amministratori](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Impostazioni di condivisione](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + E-mail {#email}
+            + Centro comandi {#command-center}
+               + [Panoramica della ricerca avanzata](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [Assegnazione delle attività ai membri del team](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [Panoramica del centro comandi](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [Colonne e-mail e layout pagina e-mail](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [Azioni rapide nel centro comandi](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + Impostazioni e-mail {#email-settings}
+            + [Verifica l’e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Invia un&#39;e-mail di vendita {#send-a-sales-email}
+            + [Panoramica sul tracciamento e-mail](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Utilizzo di MSI {#using-msi}
          + [Registra messaggi in entrata dai lead in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Plug-in Chrome MSI {#msi-chrome-plugin}
@@ -1455,7 +1474,7 @@ ht-degree: 0%
          + [Comprensione del contenuto predittivo](product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)
          + [Modifica del contenuto predittivo per le e-mail](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Modifica di contenuti predittivi per contenuti rich media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
-         + [Modifica del contenuto predittivo per la barra delle raccomandazioni](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+         + [Modifica contenuto predittivo per la barra delle raccomandazioni](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
    + Reporting {#reporting}
       + Reporting di base {#basic-reporting}
          + Creazione di report {#creating-reports}
@@ -1569,7 +1588,7 @@ ht-degree: 0%
             + [Utilizzo delle fasi del gate del modello di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Utilizzo delle fasi di inventario del modello di ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
             + [Utilizzo delle fasi SLA del modello di ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
-            + [Utilizzo delle transizioni dei modelli di ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
+            + [Utilizzo delle transizioni del modello di ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [Utilizzo di Success Path Analyzer](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Esplora ricavi {#revenue-explorer}
             + [Aggiunta di misure personalizzate a un rapporto di Esplora ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
