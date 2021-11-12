@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,8 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 ## Annunci {#announcements}
 
 **Aggiornamento di Munchkin Beta 161/Deprecazione lead associato**: Il 7 settembre 2021, la versione 161 di Munchkin ha iniziato a rotolare il 10% degli abbonamenti con Munchkin Beta abilitato, seguita dal 50% il 16 settembre e dal 100% il 30 settembre. Questa modifica interessa le pagine di destinazione del Marketo Engage e la versione del file munchkin-beta.js distribuito a pagine di destinazione esterne caricate dagli abbonamenti a cui è stata implementata la versione recente. Questa versione rende completamente obsoleto il metodo Munchkin Associate Lead , una funzione che consente l’invio di dati di una persona a un abbonamento di Marketo Engage e alla cronologia di navigazione Web associata a un record di persona noto. Il lead associato viene rimosso a favore di alternative più moderne e sicure, come l’API JS di Forms, l’API di invio del modulo e l’API REST lead associato. [Ulteriori informazioni su questa funzione obsoleta disponibili qui](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+**Aggiornamento di Sales Connect**: Un recente cambiamento dell&#39;interfaccia utente in Sales Connect ha causato l&#39;interruzione di alcuni modelli in Salesforce. Per risolvere il problema, esegui una [aggiornamento del pacchetto](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_Webinar sulla versione del prodotto_**
 
