@@ -3,9 +3,9 @@ description: Come impostare il tracciamento del dominio personalizzato - Documen
 title: Come impostare il tracciamento del dominio personalizzato
 hide: true
 hidefromtoc: true
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 Ti offriamo la possibilità di configurare il tracciamento del dominio personalizzato per i tuoi collegamenti, in modo che quando un utente passa il mouse su un collegamento, possa leggere `go.yourcompany.com` anziché `go.toutapp.com`.
 
-Per eseguire questa configurazione, l’amministratore IT deve seguire i passaggi elencati in [pagina delle impostazioni](https://toutapp.com/custom_tracking_domain).
+Per eseguire questa configurazione, l’amministratore IT deve seguire i passaggi elencati in [pagina delle impostazioni](https://toutapp.com/next#settings/admin/tracking).
 
 Una volta impostata, verrà inserire nell&#39;elenco Consentiti qualsiasi collegamento presente nell’e-mail come visualizzato `go.yourcompany.com`.
