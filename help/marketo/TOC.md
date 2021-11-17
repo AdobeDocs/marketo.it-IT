@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8047'
 ht-degree: 0%
 
 ---
@@ -1273,7 +1273,7 @@ ht-degree: 0%
          + Amministratore {#admin}
             + [Domini bloccati](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Blocco del contenuto](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [Crea un team](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Creazione di un team](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Come impostare il tracciamento del dominio personalizzato](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Invitare utenti e amministratori](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Impostazioni di condivisione](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1286,6 +1286,8 @@ ht-degree: 0%
                + [Azioni rapide nel centro comandi](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + Impostazioni e-mail {#email-settings}
             + [Verifica l’e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
             + [Panoramica sul tracciamento e-mail](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Utilizzo di MSI {#using-msi}

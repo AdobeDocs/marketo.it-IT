@@ -1,17 +1,16 @@
 ---
 unique-page-id: 6849029
-description: Aggiornare la soluzione Marketo per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
-title: Aggiornare la soluzione Marketo per Microsoft Dynamics
+description: Aggiornamento della soluzione Marketo per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
+title: Aggiornamento della soluzione Marketo per Microsoft Dynamics
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Aggiornare la soluzione Marketo per Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
+# Aggiornamento della soluzione Marketo per Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
 Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l’aggiornamento dall’area Amministratore nel tuo account.
 
@@ -21,21 +20,21 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente _prima di_ eseguire qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente _prima_ esecuzione di qualsiasi aggiornamento.
 
-1. Vai all&#39;area **Amministratore**.
+1. Vai a **Amministratore** area.
 
    ![](assets/admin.png)
 
-1. Fare clic su **Microsoft Dynamics**.
+1. Fai clic su **Microsoft Dynamics**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Seleziona **Scarica soluzione Marketo**.
+1. Seleziona **Scarica la soluzione Marketo**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
-1. Selezionare la soluzione appropriata per la versione di Microsoft Dynamics.
+1. Seleziona la soluzione appropriata per la versione di Microsoft Dynamics.
 
    ![](assets/msd-online.png)
 
@@ -43,7 +42,7 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 ## Esecuzione dell&#39;aggiornamento {#performing-the-update}
 
-1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio: se la tua versione di Dynamics CRM è 1.4 e la versione più recente è 1.5, importeresti _over_ version 1.4).
+1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio: se Dynamics CRM dispone della versione 1.4 e la versione più recente è la 1.5, importerai _over_ versione 1.4).
 
 1. Verrà visualizzato il seguente pop-up. Seleziona **Aggiorna** e **Gestisci personalizzazioni**, quindi fai clic su **Importa**.
 
@@ -51,4 +50,4 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 >[!CAUTION]
 >
->Se si seleziona Aggiorna invece di Aggiorna, i dati potrebbero essere danneggiati nell’ambiente Dynamics. **Scegliere** Aggiorna in Opzioni importazione.
+>Se si seleziona Aggiorna invece di Aggiorna, i dati potrebbero essere danneggiati nell’ambiente Dynamics. **Assicurati di scegliere Aggiorna** in Opzioni importazione.
