@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14746167
-description: Unsubscription Group - Marketo Docs - Documentazione prodotto
+description: Annulla sottoscrizione a un gruppo - Documenti Marketo - Documentazione del prodotto
 title: Annulla sottoscrizione gruppo
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-
 # Annulla sottoscrizione gruppo {#unsubscribe-group}
 
-Visualizza e gestisci tutte le persone non sottoscritte in un&#39;unica posizione.
+Visualizza e gestisci tutti i tuoi utenti non abbonati in un’unica posizione.
 
-![](assets/1.png)
+![](assets/-1.png)
 
-Utilizzate la barra di ricerca per cercare le persone non sottoscritte.
+Utilizza la barra di ricerca per cercare le persone non registrate.
 
-![](assets/2.png)
+![](assets/-2.png)
 
-Se siete un amministratore, potete accedere al gruppo di annullamento della sottoscrizione per filtrare in base agli account Annulla sottoscrizione e visualizzare tutti gli abbonamenti raccolti nel database delle persone.
+Se sei un amministratore, puoi accedere al gruppo di annullamento dell’abbonamento per filtrare in base agli account non abbonati e visualizzare tutti gli annullamenti di abbonamenti raccolti nel database delle persone.
 
-![](assets/3.png)
+![](assets/-3.png)

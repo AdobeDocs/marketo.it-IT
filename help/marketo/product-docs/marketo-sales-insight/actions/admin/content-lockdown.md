@@ -3,9 +3,9 @@ description: Blocco dei contenuti - Documenti Marketo - Documentazione del prodo
 title: Blocco del contenuto
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Attivando il blocco dei contenuti, gli utenti non amministratori non possono mod
 >
 >Gli utenti potranno comunque modificare il contenuto di un’e-mail al momento dell’invio o all’avvio di una campagna.
 
-1. In [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/content-lockdown-1.png)
 
