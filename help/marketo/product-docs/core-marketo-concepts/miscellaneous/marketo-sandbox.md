@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Sandbox Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: c2dc3c337cb5ea1446a2ebd6233f570025d1d986
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Una sandbox Marketo non può essere sincronizzata con il CRM normale se è già 
 ## Informazioni sulle sandbox {#things-to-know-about-sandboxes}
 
 * Una volta che Customer Success Manager ha configurato la sandbox e vi invia l&#39;invito, è necessario utilizzare un indirizzo e-mail diverso per l&#39;accesso rispetto all&#39;istanza di produzione Marketo.
-* Se desideri aggiungere utenti, il processo è lo stesso di [aggiungere utenti in produzione](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Anche in questo caso, devono utilizzare un indirizzo e-mail diverso se dispongono già di un accesso Marketo.
+* Se desideri aggiungere utenti, il processo è lo stesso di [aggiunta di utenti in produzione](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Anche in questo caso, devono utilizzare un indirizzo e-mail diverso se dispongono già di un accesso Marketo.
 * La sandbox di Marketo inizierà a essere vuota, ma con le stesse funzionalità disponibili per l’istanza di produzione.
-* Se crei un programma nella sandbox e desideri spostarlo in produzione, puoi eseguire un [importazione di programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* Se crei un programma nella sandbox e desideri spostarlo in produzione, puoi eseguire una [importazione di programmi](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * Le sandbox sono limitate e le istanze di produzione non sono influenzate negativamente dagli ambienti di test. Puoi inviare fino a 20 e-mail per campagna.
 
 >[!CAUTION]
@@ -34,10 +34,8 @@ Una sandbox Marketo non può essere sincronizzata con il CRM normale se è già 
 
 ## Copia istanza {#instance-copy}
 
-Puoi inviare un caso di assistenza per richiedere una copia unica dell’istanza per riempire la sandbox. La copia dell&#39;istanza non porterà comunque _tutto_. Per ulteriori informazioni, consultare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) .
+Puoi inviare un caso di assistenza per richiedere una copia unica dell’istanza per riempire la sandbox. La copia dell’istanza non verrà inserita _tutto_ Tuttavia. Consultare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per i dettagli.
 
 >[!NOTE]
 >
->* La copia dell’istanza è **non** supportata se l’istanza sorgente è integrata con Microsoft Dynamics.
->* Se stai modificando il tuo CRM nativo, sarebbe necessaria una nuova istanza di Marketo e non sarebbe possibile effettuare una copia dell&#39;istanza nella nuova istanza di Marketo. Per scoprire la funzionalità Importa programma, utilizza invece il supporto Marketo.
-
+>Se stai modificando il tuo CRM nativo, sarebbe necessaria una nuova istanza di Marketo e non sarebbe possibile effettuare una copia dell&#39;istanza nella nuova istanza di Marketo. Per scoprire la funzionalità Importa programma, utilizza invece il supporto Marketo.
