@@ -3,9 +3,9 @@ description: Gestione dei modelli - Documentazione di Marketo - Documentazione d
 title: 'Gestire i modelli '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >Digitare sempre il testo direttamente nel modello o copiarlo da un editor di testo normale (ad esempio, Blocco note o Modifica testo). Copiare e incollare da un editor Rich Text (ad esempio, MS Word) può causare irregolarità nella formattazione.
+
+## Visualizza dettagli modello {#view-template-details}
+
+L’area Dettagli modello contiene più schede.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Modello</strong></td>
+  <td>Rivedi e apporta modifiche, imposta criteri per rendere il modello un modello consigliato, aggiungi note</td>
+ </tr>
+ <tr>
+  <td><strong>Analytics</strong></td>
+  <td>Rivedi l’analisi del coinvolgimento per il modello. Eseguire una ricerca filtrata.</td>
+ </tr>
+ <tr>
+  <td><strong>E-mail</strong></td>
+  <td>Visualizza tutte le e-mail inviate utilizzando questo modello. Eseguire una ricerca filtrata.</td>
+ </tr>
+ <tr>
+  <td><strong>Campagne</strong></td>
+  <td>Vedi in quali campagne viene utilizzato il modello.</td>
+ </tr>
+</table>
 
 ## Condividere un modello {#share-a-template}
 
@@ -92,9 +117,17 @@ Da **Visualizza** a discesa, puoi scegliere di visualizzare: tutti i modelli, i 
 
 Archivia modelli per mantenere i contenuti di vendita organizzati e mirati senza perdere dati di modelli.
 
-Seleziona la casella accanto a un modello e fai clic su **Archivia**.
+1. Seleziona la casella accanto al modello da archiviare.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Fai clic su **Archivia**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Fai clic su **Archivia** per confermare.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ Per eliminare un modello, effettua le seguenti operazioni.
 >
 >L&#39;eliminazione di un modello comporta anche l&#39;eliminazione di TUTTI i dati di tracciamento e analisi associati ad esso.
 
-1. Seleziona il modello da rimuovere.
+1. Seleziona la casella accanto al modello da eliminare.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Fai clic sull’elenco a discesa del menu in alto a destra, quindi fai clic su **Elimina**.
+1. Fai clic su **Elimina**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Fai clic su **Elimina** per confermare.
 
-PICC
+   ![](assets/manage-templates-19.png)
