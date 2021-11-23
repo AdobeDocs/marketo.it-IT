@@ -3,9 +3,9 @@ description: Panoramica del centro comandi - Documenti Marketo - Documentazione 
 title: Panoramica del centro comandi
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Il centro comandi è una visualizzazione unica e unificata che ti aiuta a capire
 
 La sezione e-mail del Centro comandi consente di gestire l’intera attività e-mail. Consideralo come la tua casella di posta in uscita per esaminare le e-mail inviate da Sales Connect. Gestisci le e-mail pianificate, scopri chi si è occupato delle tue e-mail, controlla se ci sono stati problemi con le tue e-mail che vengono recapitate e altro ancora.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 La sezione e-mail ti offre una panoramica di tutte le e-mail e ne semplifica l’organizzazione tramite schede e schede principali che fungono da cartelle in cui le e-mail vengono memorizzate automaticamente in base al loro stato.
 
@@ -73,7 +73,7 @@ La sezione e-mail ti offre una panoramica di tutte le e-mail e ne semplifica l�
 
 La sezione attività è il tuo punto vendita unico per la gestione e il completamento delle attività. Qui puoi gestire le tue attività in modo semplice per aumentare la produttività e rimanere concentrati sugli elementi più rilevanti.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## Follow-up con prospettive coinvolgenti {#follow-up-with-engaged-prospects}
 

@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Panoramica delle funzioni MSI - Documenti Marketo - Documentazione del prodotto
 title: Panoramica delle funzioni MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Il pannello di visualizzazione MSI include le seguenti funzionalità:
 * Schede
 
    * [Dashboard approfondimenti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Momento interessante
+   * Momenti interessanti
    * Attività web
    * E-mail
    * Punteggio
@@ -195,4 +195,7 @@ Marketo Sales Insight è memorizzato per lingua. Quindi, se vuoi che funzioni pe
 
 >[!NOTE]
 >
->Per poter essere aggiunto all’elenco di controllo, è necessario che un contatto/lead si trovi nella partizione predefinita.
+>* Per poter essere aggiunto all’elenco di controllo, è necessario che un contatto/lead si trovi nella partizione predefinita.
+>
+>* Il pacchetto Salesforce MSI non supporta la visualizzazione personalizzata con campi dipendenti.
+
