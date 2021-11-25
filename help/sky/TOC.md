@@ -2,8 +2,7 @@
 solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Documentazione del prodotto'
 feature-set: Marketo Sky
-index: y
-source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
+source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%
@@ -14,10 +13,10 @@ ht-degree: 0%
 # Documenti Marketo Sky {#sky}
 
 + [Pagina principale](home.md)
-+ Guida introduttiva {#getting-started}
++ Introduzione {#getting-started}
    + [Funzioni di Marketo Sky](marketo-sky-features.md)
    + [Come iniziare](how-to-enable-roles-for-marketo-sky.md)
-+ Programmi evento {#event-programs}
++ Programmi eventi {#event-programs}
    + [Impostazione di un valore Cap per eventi](setting-an-event-cap.md)
    + [Impostazione degli obiettivi dell’evento](setting-event-goals.md)
 + Cartelle campagna {#campaign-folders}
@@ -54,7 +53,7 @@ ht-degree: 0%
    + [Aggiungi e rimuovi etichette](add-and-remove-labels.md)
    + [Copia etichette da originale a clone](copy-labels-from-original-to-clone.md)
    + [Copiare le etichette da padre a figlio](copy-labels-from-parent-to-child.md)
-+ Token {#my-tokens} personali
++ Token personali {#my-tokens}
    + [Crea cartelle token](create-my-token-folders.md)
    + [Azioni token personali: Modificare, eliminare, clonare e copiare i nomi dei token](my-token-actions-edit-delete-clone-and-copy-token-names.md)
    + [Token personale: File di calendario](my-token-calendar-file.md)
@@ -84,14 +83,14 @@ ht-degree: 0%
    + [Risorse locali: Azioni di massa](local-assets-mass-actions.md)
    + [Utilizzo della scheda Panoramica del programma](using-the-program-overview-tab.md)
    + [Utilizzo della scheda Configurazione programma](using-the-program-setup-tab.md)
-+ Vista programma {#program-schedule-view}
++ Vista a programma {#program-schedule-view}
    + [Creare una voce di base nella visualizzazione Pianificazione programma](create-a-basic-entry-in-program-schedule-view.md)
    + [Creare una campagna avanzata in batch nella vista Pianificazione del programma](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Creare un programma e-mail nella visualizzazione Pianificazione programma](create-an-email-program-in-program-schedule-view.md)
    + [Eliminare una voce nella vista Pianificazione programma](delete-an-entry-in-program-schedule-view.md)
    + [Modificare una voce nella visualizzazione Pianificazione programma](edit-an-entry-in-program-schedule-view.md)
    + [Navigazione nella vista Pianificazione programma](navigating-program-schedule-view.md)
-+ Campagne avanzate {#smart-campaigns}
++ Campagne intelligenti {#smart-campaigns}
    + [Attivare/disattivare una campagna avanzata trigger](activate-deactivate-a-trigger-smart-campaign.md)
    + [Aggiungere un passaggio di flusso a una campagna avanzata](add-a-flow-step-to-a-smart-campaign.md)
    + [Applicare limiti di comunicazione a una campagna avanzata](apply-communication-limits-to-a-smart-campaign.md)
@@ -115,7 +114,7 @@ ht-degree: 0%
 + Elenchi avanzati ed elenchi statici {#smart-lists-and-static-lists}
    + [Salva azioni di flusso](save-flow-actions.md)
    + [Salvare le regole dell’elenco avanzato](save-smart-list-rules.md)
-+ Struttura {#tree}
++ Albero {#tree}
    + [Configurazione dell’albero](configuring-the-tree.md)
    + [Informazioni sulle icone nella struttura ad albero](understanding-icons-in-the-tree.md)
    + [Utilizzare i filtri per ordinare la struttura ad albero](use-filters-to-sort-the-tree.md)
