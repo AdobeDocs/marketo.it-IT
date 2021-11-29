@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definire le regole di segmento - Documenti Marketo - Documentazione del prodotto
 title: Definire le regole di segmento
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ La definizione delle regole di segmento consente di classificare le persone in g
 
    >[!CAUTION]
    >
-   >Noi consigliamo _contro_ l’utilizzo dei campi Account durante la definizione delle regole dei segmenti, in quanto può causare problemi di registrazione delle attività.
+   >Il comportamento di registrazione delle attività per i campi Account può influire sulla qualificazione. Pertanto, sconsigliamo l’uso dei campi Account durante la definizione delle regole del segmento.
 
 1. Fai clic sul pulsante **Persone (bozza)** per visualizzare le persone che possono essere membri di questo segmento.
 

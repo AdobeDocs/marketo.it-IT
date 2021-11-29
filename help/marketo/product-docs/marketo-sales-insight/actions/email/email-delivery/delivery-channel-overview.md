@@ -3,9 +3,9 @@ description: Panoramica del canale di consegna - Documenti Marketo - Documentazi
 title: Panoramica del canale di consegna
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Inoltre, i fornitori SMTP di terze parti offrono una pletora di funzionalità pe
 I server di vendita Marketo sono disponibili solo per alcuni clienti ToutApp legacy. Questi clienti visualizzeranno i server di vendita Marketo disponibili nelle loro impostazioni e-mail. Tutti i clienti non legacy non vedranno Marketo Sales come opzione e dovrebbero collegare il loro account Gmail o Outlook alle vendite Marketo per sbloccare un canale di consegna.
 
 I server di vendita Marketo non supportano i metodi di autenticazione DKIM e SPF, che possono ridurre il tasso di recapito messaggi. Per questo motivo, consigliamo a tutti i clienti di connettersi a Gmail o Outlook per ottenere il miglior recapito messaggi.
+
+## Server MSC (Legacy) {#msc-servers-legacy}
+
+I server MSC sono disponibili solo per alcuni clienti ToutApp legacy. Questi clienti visualizzeranno i server MSC disponibili nelle loro impostazioni e-mail. Tutti i clienti non legacy non vedranno MSC come opzione e dovrebbero collegare il proprio account Gmail o Outlook a Vendite Connetti per sbloccare un canale di consegna.
+
+I server MSC non supportano i metodi di autenticazione DKIM e SPF, che possono ridurre il tasso di recapito messaggi. Per questo motivo, consigliamo a tutti i clienti di connettersi a Gmail o Outlook per ottenere il miglior recapito messaggi.
 
 ## Server Marketo {#marketo-servers}
 
