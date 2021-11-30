@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
+source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -1270,6 +1270,10 @@ ht-degree: 0%
             + [Riferimento in un campo dinamico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Informazioni sulle vendite Marketo {#marketo-sales-insight}
       + Azioni {#actions}
+         + Introduzione {#getting-started}
+            + Impostazioni e-mail {#email-settings}
+               + [Verifica l’e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+            + [Domini bloccati](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + Amministratore {#admin}
             + [Domini bloccati](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Blocco del contenuto](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1294,12 +1298,10 @@ ht-degree: 0%
                + [Personalizza messaggio collegamento di annullamento sottoscrizione](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Controllo dell’annullamento dell’abbonamento a Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronizzazione degli abbonamenti con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-         + Email Delivery {#email-delivery}
-            + [Panoramica del canale di consegna](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [Limitazione connessione e-mail](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
-            + [Impostazione di un canale di consegna personalizzato](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + Impostazioni e-mail {#email-settings}
-            + [Verifica l’e-mail](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+            + Email Delivery {#email-delivery}
+               + [Panoramica del canale di consegna](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [Limitazione connessione e-mail](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [Impostazione di un canale di consegna personalizzato](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Marketo {#marketo}
             + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
