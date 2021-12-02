@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importare un programma - Documentazione Marketo - Documentazione del prodotto
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -20,29 +20,29 @@ Un programma può essere importato da un abbonamento Marketo a un altro. Ad esem
 
    ![](assets/ma.png)
 
-1. Fare clic sul menu a discesa **Nuovo** . Selezionare **Programma di importazione**.
+1. Fai clic su **Nuovo** a discesa. Seleziona **Programma di importazione**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Importazione programma è disponibile solo per gli utenti per i quali è abilitata l’autorizzazione Importa programma. Ulteriori informazioni sulla [gestione di ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Importazione programma è disponibile solo per gli utenti per i quali è abilitata l’autorizzazione Importa programma. Ulteriori informazioni [gestione di ruoli e autorizzazioni utente](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Per collegare un account sandbox al tuo abbonamento live, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Per collegare un account sandbox al tuo abbonamento live, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Seleziona un Marketo **Iscrizione** e un programma da importare. Fare clic su **Avanti**.
+1. Selezionare un Marketo **Abbonamento** e un programma da importare. Fai clic su **Successivo**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Specifica una **cartella campagna** per il programma importato. Fare clic su **Avanti.**
+1. Specifica una **Cartella campagna** per il programma importato. Fai clic su **Avanti.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Assicurati che le regole **Usa conflitto predefinito** siano selezionate. Le regole di conflitto sono necessarie quando si importano programmi in un’istanza con risorse dello stesso nome.
+   >Assicurati **Usa conflitto predefinito** regole selezionate. Le regole di conflitto sono necessarie quando si importano programmi in un’istanza con risorse dello stesso nome.
 
-1. Visualizza in anteprima i dettagli e **Importa** il programma.
+1. Anteprima dettagli e **Importa** il programma.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -54,7 +54,7 @@ Al termine dell’importazione riceverai un messaggio e-mail di conferma.
 
 >[!NOTE]
 >
->Sarà necessario ripianificare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
+>Sarà necessario riprogrammare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
 
 ## Identificare i programmi predefiniti nella libreria dei programmi Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 
@@ -75,7 +75,7 @@ La libreria dei programmi Marketo contiene programmi precompilati e testati che 
 1. **Sincronizza nuove persone con CRM.** La campagna che sincronizza nuove persone nel tuo sistema CRM. Assegna uno stato di persona in modo che venga riconosciuto come non pronto per le vendite.
 1. **Webinar con adattatore evento.** Un set completo di e-mail, ad esempio inviti e promemoria, oltre a pagine di destinazione con moduli e campagne per lo spostamento delle persone all’interno del programma. Questo programma ottiene aggiornamenti su registrazione, frequenza, ecc. da provider di eventi online come WebEx.
 1. **Webinar senza adattatore evento.** Come sopra, ma con i processi manuali per la registrazione, la frequenza, ecc.
-1. **Programma** di valutazione delle decisioni siriane. Questo programma è progettato per supportare il modello standard di valutazione delle decisioni di Sirius, incluse le regole di valutazione implicite ed esplicite e l&#39;assegnazione di persone con corrispondenza.
+1. **Programma di valutazione delle decisioni siriane**. Questo programma è progettato per supportare il modello standard di valutazione delle decisioni di Sirius, incluse le regole di valutazione implicite ed esplicite e l&#39;assegnazione di persone con corrispondenza.
 
 >[!CAUTION]
 >
@@ -85,22 +85,20 @@ La libreria dei programmi Marketo contiene programmi precompilati e testati che 
 
 I programmi utilizzano risorse esterne come modelli e-mail, modelli di pagina di destinazione, immagini, moduli, token e tag di programma. È possibile configurare la modalità di gestione dei modelli di pagina di destinazione e dei tag di programma e Marketo gestisce automaticamente il resto.
 
-**Modelli e-mail:** i modelli e-mail vengono importati e creati automaticamente, a meno che non esista uno con lo stesso nome.
+**Modelli di pagina di destinazione/e-mail:** I modelli e-mail/pagina di destinazione vengono importati in Design Studio. È possibile utilizzare regole di conflitto per configurare il comportamento quando esiste un modello con lo stesso nome. Utilizzando la regola predefinita, a un modello verrà aggiunto un numero se ne esiste uno con lo stesso nome. Ad esempio, se disponi già di un modello denominato &quot;Modello standard&quot;, il nuovo verrà denominato &quot;Modello standard 1&quot;.
 
-**Modelli di pagina di destinazione:** i modelli di pagina di destinazione vengono importati nello studio di progettazione. È possibile utilizzare regole di conflitto per configurare il comportamento quando esiste un modello con lo stesso nome. Utilizzando la regola predefinita, a un modello di pagina di destinazione viene aggiunto un numero se ne esiste uno con lo stesso nome. Ad esempio, se esiste un modello di pagina di destinazione denominato Modello standard 1, verrà creato un modello di pagina di destinazione denominato Modello standard.
+**Immagini:** Le immagini utilizzate dalle pagine di destinazione vengono importate nello studio di progettazione, a meno che non ne esista una con lo stesso nome.
 
-**Immagini:** le immagini utilizzate dalle pagine di destinazione vengono importate nello studio di progettazione, a meno che non ne esista una con lo stesso nome.
-
-**Token:** i token che vivono al di fuori di un programma verranno convertiti in token locali durante il processo di importazione.
+**Token:** I token che risiedono al di fuori di un programma verranno convertiti in token locali durante il processo di importazione.
 
 >[!CAUTION]
 >
->I token di tipo immagine non sono supportati per le importazioni di programmi. Se viene importato un programma con un tipo di immagine, passeranno i token **no** .
+>I token di tipo immagine non sono supportati per le importazioni di programmi. Se viene importato un programma con tipo immagine, i miei token **no** passeranno dei token.
 
-**Tag programma:** puoi utilizzare le regole di conflitto per controllare il modo in cui verranno trattati i tag programma non esistenti nell&#39;account di destinazione. Utilizzando la regola predefinita verranno creati i tag del programma oppure è possibile scegliere di ignorarli.
+**Tag del programma:** È possibile utilizzare regole di conflitto per controllare il modo in cui verranno trattati i tag di programma non esistenti nell&#39;account di destinazione. Utilizzando la regola predefinita verranno creati i tag del programma oppure è possibile scegliere di ignorarli.
 
-**Forms:** i moduli esterni vengono importati automaticamente nello studio di progettazione, a meno che non esista uno con lo stesso nome.
+**Forms:** I moduli esterni vengono importati automaticamente nello studio di progettazione, a meno che non ne esista uno con lo stesso nome.
 
 >[!CAUTION]
 >
->Durante l’importazione di un programma, le pagine/e-mail di destinazione contenenti [contenuto dinamico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) verranno ignorate.
+>Durante l’importazione di un programma, invia e-mail/pagine di destinazione che contengono [contenuto dinamico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) verranno saltate.
