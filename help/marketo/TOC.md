@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
+source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8119'
 ht-degree: 0%
 
 ---
@@ -1273,6 +1273,9 @@ ht-degree: 0%
          + Introduzione {#getting-started}
             + Impostazioni e-mail {#email-settings}
                + [Verifica l’e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+               + [Aggiungi o aggiorna la tua firma e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
+               + [Aggiungi identità](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
+            + [Modificare la password di vendita di Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + Amministratore {#admin}
             + [Domini bloccati](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Blocco del contenuto](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1281,6 +1284,8 @@ ht-degree: 0%
             + [Invitare utenti e amministratori](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Impostazioni di condivisione](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Dettagli accesso utente](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + Campagne {#campaigns}
+            + [Campaign è terminato](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Integrazione Salesforce {#salesforce-integration}
                + [Collega il tuo account di vendita Marketo a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
@@ -1300,7 +1305,7 @@ ht-degree: 0%
             + Email Delivery {#email-delivery}
                + [Panoramica del canale di consegna](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Limitazione connessione e-mail](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [Impostazione di un canale di consegna personalizzato](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+               + [Impostare un canale di consegna personalizzato per il team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
          + Marketo {#marketo}
             + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
