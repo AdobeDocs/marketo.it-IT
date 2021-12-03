@@ -3,17 +3,39 @@ description: Come impostare il tracciamento del dominio personalizzato - Documen
 title: Come impostare il tracciamento del dominio personalizzato
 hide: true
 hidefromtoc: true
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
 # Come impostare il tracciamento del dominio personalizzato {#how-to-set-up-custom-domain-tracking}
 
-Ti offriamo la possibilità di configurare il tracciamento del dominio personalizzato per i tuoi collegamenti, in modo che quando un utente passa il mouse su un collegamento, possa leggere `go.yourcompany.com` anziché `go.toutapp.com`.
+Il tracciamento del dominio personalizzato consente al tuo team di utilizzare il nome della tua azienda in tutti i collegamenti tracciabili aggiunti alle e-mail di vendita. Una volta configurato questo, inserire nell&#39;elenco Consentiti tutti i collegamenti presenti nell&#39;e-mail che compariranno come go.yourcompany.com, in modo che quando qualcuno passa il mouse su un collegamento, legga go.yourcompany.com invece di go.toutapp.com.
 
-Per eseguire questa configurazione, l’amministratore IT deve seguire i passaggi elencati in [pagina delle impostazioni](https://toutapp.com/next#settings/admin/tracking).
+Per impostare un record CNAME per il dominio che punta a go.toutapp.com, ti servirà l&#39;assistenza del team IT. Questo CNAME sarà ciò che verrà visualizzato su tutti i tuoi collegamenti di tracciamento (ad esempio, go.yourcompany.com).
 
-Una volta impostata, verrà inserire nell&#39;elenco Consentiti qualsiasi collegamento presente nell’e-mail come visualizzato `go.yourcompany.com`.
+Dopo aver confermato con il team IT che il CNAME è configurato correttamente, puoi aggiungerlo alla pagina Monitoraggio dominio personalizzato in Azioni.
+
+>[!NOTE]
+>
+>Se il CNAME non è configurato correttamente e lo attivi come dominio personalizzato in Azioni, può interrompere i collegamenti di tracciamento e i pixel.
+
+## Abilita tracciamento dominio personalizzato {#enable-custom-domain-tracking}
+
+>[!NOTE]
+>
+>**Sono richiesti i privilegi di amministratore.**
+
+1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-1.png)
+
+1. In Impostazioni amministratore, seleziona **Tracking**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-2.png)
+
+1. Nella scheda Custom Domain Tracking , immetti il tuo CNAME e fai clic su **Connetti**.
+
+   ![](assets/how-to-set-up-custom-domain-tracking-3.png)

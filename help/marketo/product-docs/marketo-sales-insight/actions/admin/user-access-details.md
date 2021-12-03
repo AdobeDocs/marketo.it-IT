@@ -3,9 +3,9 @@ description: Dettagli accesso utente - Documentazione Marketo - Documentazione d
 title: Dettagli accesso utente
 hide: true
 hidefromtoc: true
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Gli amministratori possono vedere tutte le persone in una campagna in corso.
 
 ![](assets/user-access-details-4.png)
 
-Tutti i record relativi alle persone sono accessibili nel gruppo Everyone.
+Gli amministratori possono visualizzare le campagne degli utenti e le categorie di campagne con il menu a discesa Visualizza come .
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,12 @@ Gli amministratori possono interrompere le campagne per conto degli utenti.
    * Gli utenti possono eseguire il drill-through dei soli team a cui appartengono
    * Gli utenti possono guardare le proprie analisi
 
-* Pagina Relazioni:
+* Pagina Persone:
 
    * Gli utenti possono condividere i gruppi con tutti
    * Gli utenti possono condividere i gruppi solo con i team a cui appartengono
+   * Gli utenti avranno visibilità per tutte le persone nel database Azioni
    * Quando un utente viene eliminato, i contatti condivisi trasferiscono la proprietà all&#39;amministratore principale che ha eliminato l&#39;utente
-
-* Sales Beat - Next and Live Feed:
-
-   * Gli utenti possono visualizzare la vista &quot;tutti&quot;
-   * Gli utenti possono filtrare in base ai team a cui appartengono
-   * L&#39;utente può condividere i post con tutti
-   * Gli utenti possono condividere i post solo con i team a cui appartengono
 
 * Pagina Gestione team:
 
