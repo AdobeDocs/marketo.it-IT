@@ -1,18 +1,18 @@
 ---
-unique-page-id: 37356587
 description: Aggiungere un allegato o contenuti tracciabili alla tua e-mail - Marketo Docs - Documentazione del prodotto
 title: Aggiungere un allegato o contenuti tracciabili all’e-mail
-exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
+hide: true
+hidefromtoc: true
 source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
 
 # Aggiungere un allegato o contenuti tracciabili all’e-mail {#add-an-attachment-or-trackable-content-to-your-email}
 
-Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un file come allegato o creare un file come collegamento scaricabile (e monitorabile).
+Quando invii un’e-mail tramite Marketo Sales, puoi aggiungere un file come allegato o creare un collegamento scaricabile (e monitorabile).
 
 >[!NOTE]
 >
@@ -22,45 +22,45 @@ Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un 
 
 1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell’intestazione).
 
-   ![](assets/one-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-1.png)
 
 1. Compilare il campo A e immettere un oggetto.
 
-   ![](assets/attach-two.png)
+   ![](assets/add-an-attachment-or-trackable-content-2.png)
 
 1. Fare clic sull&#39;icona dell&#39;allegato.
 
-   ![](assets/attach-three.png)
+   ![](assets/add-an-attachment-or-trackable-content-3.png)
 
 1. Selezionare il file da allegare e fare clic su **Inserisci**.
 
-   ![](assets/attach-four.png)
+   ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
    >Se devi caricare un file, fai clic sul pulsante **Carica contenuto** in alto a destra nella finestra.
 
-   ![](assets/attach-five.png)
+   L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
-L’allegato viene visualizzato nella parte inferiore dell’e-mail.
+   ![](assets/add-an-attachment-or-trackable-content-5.png)
 
 ## Aggiungi contenuto tracciabile {#add-trackable-content}
 
 1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio scegliamo la finestra Componi ).
 
-   ![](assets/one-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-6.png)
 
 1. Compilare il campo A e immettere un oggetto.
 
-   ![](assets/two-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-7.png)
 
 1. Fai clic sul punto dell’e-mail che desideri visualizzare il contenuto tracciabile e fai clic sull’icona dell’allegato.
 
-   ![](assets/three-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-8.png)
 
 1. Seleziona il contenuto da aggiungere, fai clic sul pulsante **Il contenuto è tracciato** cursore e fai clic su **Inserisci**.
 
-   ![](assets/four-4.png)
+   ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
@@ -68,8 +68,38 @@ L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
    Il contenuto viene visualizzato come collegamento nell’e-mail. Il destinatario può fare clic sul collegamento per scaricare il contenuto.
 
-   ![](assets/five-2.png)
+   ![](assets/add-an-attachment-or-trackable-content-10.png)
 
    >[!NOTE]
    >
    >Gli utenti riceveranno una notifica nel feed live quando le persone visualizzano i loro contenuti tracciati. Gli utenti possono inoltre visualizzare il contenuto con le prestazioni più elevate nella sezione del contenuto della pagina Analytics.
+
+## Aggiornamenti dei contenuti tracciabili {#trackable-content-updates}
+
+**Visualizzatore di contenuti tracciabili**
+
+Quando un lead fa clic sul contenuto tracciabile nell’e-mail, apre un visualizzatore di contenuti.
+
+![](assets/add-an-attachment-or-trackable-content-11.png)
+
+All’interno dei lead dei visualizzatori di contenuti è possibile effettuare le seguenti operazioni.
+
+* Scarica il documento
+
+![](assets/add-an-attachment-or-trackable-content-12.png)
+
+* Pagina nel documento
+
+![](assets/add-an-attachment-or-trackable-content-13.png)
+
+* Visualizza le informazioni di contatto del mittente
+
+![](assets/add-an-attachment-or-trackable-content-14.png)
+
+**Eventi di contenuto tracciabili nel feed live**
+
+Quando un lead clicca sul link del nostro documento, viene visualizzato un evento click. Puoi fare clic sul collegamento per visualizzare il contenuto. Finché hai effettuato l’accesso al tuo account Azioni nel browser, questi clic non verranno conteggiati come eventi.
+
+![](assets/add-an-attachment-or-trackable-content-15.png)
+
+Ogni volta che il lead avanza verso un’altra pagina del documento, riceverai un evento Visualizzato nel feed live che mostra il nome del documento.
