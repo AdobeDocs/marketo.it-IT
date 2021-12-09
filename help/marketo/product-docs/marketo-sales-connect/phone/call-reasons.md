@@ -3,9 +3,10 @@ description: Motivi della chiamata - Documentazione Marketo - Documentazione del
 title: Motivi della chiamata
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ Consenti ai team di vendita di selezionare i motivi delle chiamate durante le ch
 
 1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. In Impostazioni amministratore, seleziona **Dialogo**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Seleziona **Abilita motivi di chiamata**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. Scegli VUOTO
+1. Scegli il requisito del motivo della chiamata desiderato.
 
-Selezionare &quot;Consenti agli utenti di completare le chiamate senza selezionare Motivi della chiamata&quot; se si desidera consentire agli utenti di completare una chiamata senza dover registrare una chiamata o selezionare &quot;Richiedi agli utenti di selezionare Motivi della chiamata prima di registrare le chiamate&quot; per richiedere
+   ![](assets/call-reasons-4.png)
 
 ## Crea motivo chiamata {#create-call}
 
 1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. In Impostazioni amministratore, seleziona **Dialogo**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Fai clic su **Gestire i motivi delle chiamate**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Immetti il nome del motivo della chiamata desiderato nel campo di testo.
+1. Inserisci il nome del motivo della chiamata desiderato nel campo di testo e fai clic su **Aggiungi**.
 
-PICC
-
-1. Fai clic su **Aggiungi**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Selezionare un motivo di chiamata {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ Una volta abilitati i motivi della chiamata. Gli utenti possono selezionarne uno
 
 1. Fai clic sul pulsante di chiamata per avviare il dialer.
 
-PICC
+   PICC
 
 1. Immetti le informazioni sulla chiamata nella finestra di dialogo.
 
-PICC
+   PICC
 
 1. Fai clic su Chiama.
 
-PICC
+   PICC
 
 1. Seleziona il motivo della chiamata che descrive meglio la chiamata.
 
-PICC
+   PICC
 
 1. Termina la chiamata.
 
-PICC
+   PICC
 
 1. Registra la chiamata.
 
-PICC
+   PICC
 
 >[!MORELIKETHIS]
 >
