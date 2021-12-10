@@ -1,9 +1,10 @@
 ---
 description: Gestione della privacy - Documenti Marketo - Documentazione del prodotto
 title: Gestione della privacy
-source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
+exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---

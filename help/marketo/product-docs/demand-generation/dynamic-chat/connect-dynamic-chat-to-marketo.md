@@ -3,7 +3,8 @@ description: Collegare la chat dinamica a Marketo - Documentazione Marketo - Doc
 title: Collegare la chat dinamica a Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
+exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

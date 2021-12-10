@@ -3,9 +3,10 @@ description: Limitazione della connessione e-mail - Documenti Marketo - Document
 title: Limitazione connessione e-mail
 hide: true
 hidefromtoc: true
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

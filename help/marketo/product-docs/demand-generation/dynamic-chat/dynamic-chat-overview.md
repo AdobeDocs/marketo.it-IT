@@ -3,7 +3,8 @@ description: Panoramica della chat dinamica - Documenti Marketo - Documentazione
 title: Panoramica della chat dinamica
 hide: true
 hidefromtoc: true
-source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
+exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 0%

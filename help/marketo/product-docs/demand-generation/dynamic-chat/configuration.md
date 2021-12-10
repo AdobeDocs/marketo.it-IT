@@ -3,7 +3,8 @@ description: Configurazione - Documentazione Marketo - Documentazione del prodot
 title: Configurazione
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -28,7 +29,7 @@ Sono disponibili diverse opzioni di personalizzazione.
 
 Qui è dove si definirà l&#39;aspetto e la sensazione del chatbot in cui verranno mostrati i dialoghi, tra cui: colori, caratteri, posizionamento del widget bot e nome/avatar del chatbot.
 
-Il colore di ciascuna categoria è determinato da un valore di colore esadecimale ](https://color.adobe.com/create/color-wheel) (ad esempio, bianco = #ffffff, rosso = #bf1932, ecc.).[
+Il colore di ciascuna categoria è determinato da un [valore esadecimale del colore](https://color.adobe.com/create/color-wheel) (ad esempio, bianco = #ffffff, rosso = #bf1932, ecc.).
 
 ![](assets/configuration-3.png)
 
@@ -42,13 +43,13 @@ In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di cont
 
 ![](assets/configuration-5.png)
 
-Dopo aver apportato le modifiche, ricorda di fare clic su **Salva**.
+Al termine della modifica, ricorda di fare clic su **Salva**.
 
 ![](assets/configuration-6.png)
 
 ## Scheda Privacy {#privacy-tab}
 
-Fai clic sulla scheda **Privacy** per aggiungere/modificare l’URL dell’informativa sulla privacy del sito (facoltativo).
+Fai clic sul pulsante **Privacy** per aggiungere/modificare l’URL dell’informativa sulla privacy del sito (facoltativo).
 
 ![](assets/configuration-7.png)
 

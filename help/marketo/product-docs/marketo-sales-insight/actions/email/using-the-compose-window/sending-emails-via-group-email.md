@@ -3,9 +3,10 @@ description: Invio di e-mail tramite e-mail di gruppo - Documenti Marketo - Docu
 title: Invio di e-mail tramite e-mail di gruppo
 hide: true
 hidefromtoc: true
-source-git-commit: 7462371066d983d9d7f483e8bf26bd3e666e495e
+exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -3,9 +3,10 @@ description: Risultati delle chiamate - Documentazione Marketo - Documentazione 
 title: Risultati chiamata
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate durante le
 
 1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. In Impostazioni amministratore, seleziona **Dialogo**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. Seleziona **Abilita risultati chiamata**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. Scegli il tuo requisito finale di chiamata desiderato.
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## Crea risultati chiamata {#create-call-outcomes}
 
 1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. In Impostazioni amministratore, seleziona **Dialogo**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. Fai clic su **Gestisci risultati chiamate**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. Inserisci il nome del risultato della chiamata desiderato nel campo di testo.
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. Fai clic sull’elenco a discesa Risposta e scegli il tipo di risultato (in questo esempio scegliamo Risposta). Quindi fai clic su **Aggiungi**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## Scegliere un risultato della chiamata {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [Segnala i motivi delle chiamate e i risultati delle chiamate a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Motivi della chiamata](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+

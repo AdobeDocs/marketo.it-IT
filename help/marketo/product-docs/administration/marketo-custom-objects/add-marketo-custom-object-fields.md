@@ -2,14 +2,13 @@
 unique-page-id: 10093688
 description: Aggiungi campi di oggetti personalizzati Marketo - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi campi oggetto personalizzati Marketo
-translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # Aggiungi campi oggetto personalizzati Marketo {#add-marketo-custom-object-fields}
 
@@ -17,7 +16,7 @@ Dopo aver creato un oggetto personalizzato, è necessario aggiungergli dei campi
 
 I campi definiscono le informazioni specifiche utilizzate da un oggetto personalizzato. I campi di collegamento hanno un lavoro speciale, per collegare oggetti personalizzati e sono trattati in un [articolo separato](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Fare clic su **Amministratore** e in **Gestione database** selezionare **Oggetti personalizzati Marketo**.
+1. Fai clic su **Amministratore** e in **Gestione database**, seleziona **Oggetti personalizzati Marketo**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +24,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. Nella scheda **Campi** , fai clic su **Nuovo campo**.
+1. In **Campi** scheda , fai clic su **Nuovo campo**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -45,7 +44,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. Se desideri utilizzare il nuovo campo come identificatore univoco, solleva il cursore Dedupe. Fai clic su **Salva** per terminare.
+1. Se desideri utilizzare il nuovo campo come identificatore univoco, solleva il cursore Dedupe. Fai clic su **Salva** per finire.
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
@@ -57,7 +56,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
    >[!NOTE]
    >
-   >Se stai creando una struttura uno-a-molti, devi aggiungere un campo Collegamento all’oggetto personalizzato. Per una struttura molti-a-molti, non è necessario un campo di collegamento nell’oggetto personalizzato, ma è necessario aggiungere due campi di collegamento nell’oggetto intermedio. Per ulteriori informazioni sui tipi di oggetti personalizzati, consulta [Aggiungi campi di collegamento oggetto personalizzato Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) e [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) .
+   >Se stai creando una struttura uno-a-molti, devi aggiungere un campo Collegamento all’oggetto personalizzato. Per una struttura molti-a-molti, non è necessario un campo di collegamento nell’oggetto personalizzato, ma è necessario aggiungere due campi di collegamento nell’oggetto intermedio. Vedi [Aggiungi campi di collegamento a oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) per creare i campi di collegamento e [Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) per ulteriori informazioni sui tipi di oggetti personalizzati.
 
 >[!MORELIKETHIS]
 >

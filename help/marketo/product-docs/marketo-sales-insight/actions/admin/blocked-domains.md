@@ -3,9 +3,10 @@ description: Domini bloccati - Documenti Marketo - Documentazione del prodotto
 title: Domini bloccati
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Nell&#39;applicazione Web, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell’applicazione web, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/blocked-domains-1.png)
 
@@ -26,7 +27,7 @@ Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare
 
    ![](assets/blocked-domains-2.png)
 
-1. Immettere il dominio che si desidera bloccare e fare clic su **Blocca dominio**.
+1. Immettere il dominio che si desidera bloccare e fare clic su **Dominio blocco**.
 
    ![](assets/blocked-domains-3.png)
 

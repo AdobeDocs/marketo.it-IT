@@ -3,9 +3,10 @@ description: Invitare utenti e amministratori - Documentazione di Marketo - Docu
 title: Invitare utenti e amministratori
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ L&#39;aggiunta di utenti o amministratori è rapida e semplice!
 
 ## Invitare gli utenti {#invite-users}
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/invite-users-and-admins-1.png)
 
@@ -24,15 +25,15 @@ L&#39;aggiunta di utenti o amministratori è rapida e semplice!
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Fai clic sul pulsante **Azioni** e seleziona **Invita utenti**.
+1. Fai clic sul pulsante **Azioni** e seleziona **Invitare gli utenti**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Puoi anche selezionare **Invita utenti tramite CSV** se li hai elencati tutti in un foglio di calcolo.
+   >Puoi anche selezionare **Invitare utenti tramite CSV** se sono elencati tutti in un foglio di calcolo.
 
-1. Inserisci gli indirizzi e-mail degli utenti a cui desideri aggiungere e fai clic su **Invita** (la selezione di un team a cui aggiungerli è facoltativa).
+1. Inserisci gli indirizzi e-mail degli utenti che desideri aggiungere e fai clic su **Invito** La selezione di un team a cui aggiungerli è facoltativa.
 
    ![](assets/invite-users-and-admins-4.png)
 
@@ -40,7 +41,7 @@ L&#39;aggiunta di utenti o amministratori è rapida e semplice!
    >
    >Per impostazione predefinita, tutti i nuovi membri verranno aggiunti al team Everyone.
 
-1. Fare clic su **OK**.
+1. Fai clic su **OK**.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -52,7 +53,7 @@ L&#39;aggiunta di utenti o amministratori è rapida e semplice!
 
 Segui questi passaggi per rendere un utente esistente un amministratore.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/invite-users-and-admins-6.png)
 
@@ -60,7 +61,7 @@ Segui questi passaggi per rendere un utente esistente un amministratore.
 
    ![](assets/invite-users-and-admins-7.png)
 
-1. Trova l&#39;utente che desideri creare come Amministratore, fai clic sul menu a discesa Ruolo e seleziona **Amministratore**.
+1. Individua l’utente che desideri creare come amministratore, fai clic sul menu a discesa Ruolo e seleziona **Amministratore**.
 
    ![](assets/invite-users-and-admins-8.png)
 

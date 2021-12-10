@@ -3,7 +3,8 @@ description: Aggiungere o rimuovere un amministratore di prodotto - Documenti Ma
 title: Aggiungere o rimuovere un amministratore di prodotto
 hide: true
 hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -38,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Immetti l’indirizzo e-mail o il nome utente dell’amministratore che desideri aggiungere. Il nome e il cognome sono facoltativi. Fai clic su **Salva**.
+1. Immetti l’indirizzo e-mail o il nome utente dell’amministratore da aggiungere. Il nome e il cognome sono facoltativi. Fai clic su **Salva**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
