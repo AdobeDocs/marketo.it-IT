@@ -4,9 +4,9 @@ title: Risultati chiamata
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ I risultati delle chiamate sono stati abilitati. Gli utenti possono selezionarne
 
 1. Fai clic sul pulsante di chiamata per avviare il dialer.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. Immetti le informazioni sulla chiamata nella finestra di dialogo.
+1. Immetti le informazioni sulla chiamata nella finestra di dialogo e fai clic su **Chiamata**.
 
-PICC
-
-1. Fai clic su Chiama.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. Seleziona il risultato della chiamata che descrive meglio la chiamata.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. Termina la chiamata.
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. Registra la chiamata.
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >

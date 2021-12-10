@@ -4,9 +4,9 @@ title: Segnala i motivi delle chiamate e i risultati delle chiamate a Salesforce
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ Per utilizzare questi campi, devi innanzitutto creare il campo come campo di att
 
 ### Aggiungi campo attività personalizzato al layout della pagina attività in Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>Sarà necessario seguire questi passaggi solo se non hai selezionato il layout di pagina desiderato nel passaggio 9 precedente.
+
 1. In Salesforce, fai clic su **Configurazione**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ Per utilizzare questi campi, devi innanzitutto creare il campo come campo di att
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Trascina il campo nel layout della pagina Attività.
+1. Trascina il campo nella sezione desiderata del layout della pagina Attività.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. Fai clic su **Salva**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Fulmine Salesforce {#salesforce-lightning}
 
 ### Crea campo attività personalizzato in fulmine di Salesforce {#create-custom-activity-field-in-salesforce-lightning}
 
-1. In Salesforce, fai clic sull&#39;icona dell&#39;ingranaggio in alto a destra.
+1. In Salesforce, fai clic sull&#39;icona dell&#39;ingranaggio in alto a destra e seleziona **Configurazione**.
 
-PICC
-
-1. Fai clic su **Configurazione**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. Fai clic su **Gestione oggetti**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Immetti Attività nella casella Ricerca rapida e fai clic sull’etichetta Attività per aprire la configurazione dell’oggetto.
+1. Digitare &quot;Attività&quot; nella casella Ricerca rapida.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Sul lato sinistro, fai clic su **Campi e correlazioni**.
+1. Fai clic sul pulsante **Attività** etichetta.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. Fai clic su **Campi e correlazioni**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. Fai clic su **Nuovo**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Aggiungi campo attività personalizzato al layout della pagina attività in Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. In Salesforce, fai clic sull&#39;icona dell&#39;ingranaggio in alto a destra.
+1. In Salesforce, fai clic sull&#39;icona dell&#39;ingranaggio in alto a destra e seleziona **Configurazione**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Fai clic su **Configurazione**.
+1. Fai clic su **Gestione oggetti**.
 
-PICC
-
-1. Vai al programma di installazione????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. Digitare &quot;Task&quot; nella casella Ricerca rapida.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Fai clic su Attività.
+1. Fai clic sul pulsante **Attività** etichetta.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Fare clic su Layout di pagina.
+1. Fai clic su **Layout di pagina**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. Fare clic sul layout della pagina attività a cui si desidera aggiungere il campo.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Trascina il campo nel layout della pagina Attività.
+1. Trascina il campo nella sezione desiderata del layout della pagina Attività.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Fai clic su Salva.
+1. Fai clic su **Salva**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
