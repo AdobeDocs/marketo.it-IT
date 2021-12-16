@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '948'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Le seguenti funzionalità verranno rilasciate il **21 gennaio 2022**.
 
 ## Esperienza di nuova generazione {#next-generation-experience}
 
-* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono miglioramenti di progettazione e usabilità aggiornati tramite l’interruttore di attivazione/disattivazione:
+* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
 
    * Dettagli delle risorse della pagina di destinazione in Design Studio
    * Dettagli delle risorse della pagina di destinazione nelle attività di marketing
