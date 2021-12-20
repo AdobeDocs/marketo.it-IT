@@ -2,9 +2,9 @@
 description: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    >[!NOTE]
    >
-   >I segmenti negli elenchi statici sono 1:1. Se scegli più segmenti qui, dovrai mappare ogni segmento a un elenco statico specifico nella scheda Pianificazione segmento .
+   >Se scegli più segmenti qui, dovrai mappare ogni segmento a un elenco statico specifico nella scheda Pianificazione segmento .
 
 1. Fai clic su **Aggiungi nuova mappatura**.
 
