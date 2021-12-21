@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,6 @@ I clienti di Marketo Engage che utilizzano anche Adobe Experience Platform (AEP)
 
 * **Verifica e-mail**: A partire da questa versione, gli abbonamenti al Marketo Engage inizieranno ad avere gli utenti &quot;non-API only&quot; che verificano gli indirizzi e-mail. Gli utenti autenticati del servizio di directory verificheranno automaticamente le loro e-mail quando la loro sottoscrizione viene abilitata con Verifica e-mail. La verifica e-mail per coloro che utilizzano la funzione &quot;Login in Invite User Dialog&quot; o per quelli con abbonamenti che hanno un singolo messaggio e-mail associato a più utenti all’interno dell’abbonamento verrà ritardata e coinciderà con la funzione obsoleta a marzo.
 
-* **Accedi alla finestra di dialogo Invita utente**: A marzo, la funzione opzionale esistente &quot;Accesso nella finestra di dialogo per l’invito di utenti&quot; diventerà obsoleta. La funzionalità &quot;Accesso nella finestra di dialogo per l’invito dell’utente&quot; viene ignorata dalla funzione ID universale, necessaria per la prossima integrazione di sistema di Adobe Identity Management ed è stata abilitata nell’agosto 2021 per tutte le sottoscrizioni. A seguito dell’eliminazione, il Marketo Engage applicherà tutti gli ID utente (accessi) affinché corrispondano all’indirizzo e-mail dell’utente e consentirà l’associazione di un solo utente per indirizzo e-mail all’interno di un abbonamento.
+* **Accedi alla finestra di dialogo Invita utente**: A marzo, la funzione opzionale esistente &quot;Accesso nella finestra di dialogo per l’invito di utenti&quot; diventerà obsoleta. La funzionalità &quot;Accesso nella finestra di dialogo per l’invito dell’utente&quot; viene ignorata dalla funzione ID universale, necessaria per la prossima integrazione di sistema di Adobe Identity Management ed è stata abilitata nell’agosto 2021 per tutte le sottoscrizioni. A seguito dell’eliminazione, il Marketo Engage applicherà un solo utente da associare per indirizzo e-mail all’interno di un abbonamento.
 
 **Domini Marketi Engage - Configurazione di Sales Insight**: Per i domini di Marketo Engage per i quali non è stato effettuato il provisioning del certificato SSL e https://, le chiamate non riusciranno con un errore di handshake SSL. Pertanto, questi domini verranno ritirati. Di conseguenza, gli utenti di Sales Insight con una configurazione precedente che punta a uno qualsiasi di questi domini potrebbero trovarsi in errori di callout del sistema sulla pagina Lead, Contatto, Account, Pannelli opportunità o Globale Marketo. Si consiglia di aggiornare il [Configurazione del Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Salesforce se si verifica questo errore. È sufficiente aggiornare le credenziali di Marketo Engage evidenziate nella sezione &quot;Marketo Sales Insight Config&quot; del documento.
