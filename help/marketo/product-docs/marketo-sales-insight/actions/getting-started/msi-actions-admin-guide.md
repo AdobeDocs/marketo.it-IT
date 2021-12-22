@@ -3,9 +3,9 @@ description: Guida per l’amministrazione delle azioni MSI - Documenti Marketo 
 title: Guida per l’amministrazione delle azioni MSI
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 1. In Marketo, fai clic su **Amministratore**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. Fai clic su **Approfondimenti vendite**, quindi **Configurazione azioni**. Seleziona da un elenco di amministratori Marketo da invitare e fai clic su **Invia invito**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 L’utente riceverà un’e-mail con i passaggi per accedere all’account.
 
@@ -73,19 +73,19 @@ L’utente riceverà un’e-mail con i passaggi per accedere all’account.
 
 1. Nel tuo account Marketo Sales, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. In Impostazioni amministratore, fai clic su **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. Nella scheda Connessioni e personalizzazioni fare clic su **Connetti**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. Fai clic su **OK**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 Se hai già effettuato l’accesso a Salesforce, verrai connesso. In caso contrario, ti verrà chiesto di effettuare l’accesso.
 
@@ -93,13 +93,15 @@ Se hai già effettuato l’accesso a Salesforce, verrai connesso. In caso contra
 
 1. Nel tuo account Marketo Sales, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. In Impostazioni amministratore, fai clic su **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. Fai clic su **connect**. Il tuo account verrà quindi connesso.
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## Avvia sincronizzazione dati {#initiate-data-sync}
 
-1. In Marketo, fai clic su Amministratore.
+1. In Marketo, fai clic su **Amministratore**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. Fare clic su Insight vendite, quindi su Configurazione azioni.
+1. Fare clic su Insight vendite.
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. Nella scheda Sincronizzazione campo azione, fai clic su **Sincronizzazione**.
+1. Fare clic sulla scheda Configurazione azioni. Nella scheda Sincronizzazione campo azione, fai clic su **Sincronizzazione**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. Verrà visualizzata un’anteprima dei campi che verranno sincronizzati. Fai clic su **Avvia sincronizzazione**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 I record personali esistenti in Marketo e Salesforce verranno sincronizzati nel tuo account App vendite Marketo.
 
@@ -129,17 +131,19 @@ I record personali esistenti in Marketo e Salesforce verranno sincronizzati nel 
 
 1. Nel tuo account Marketo Sales, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. In Impostazioni amministratore, seleziona **Gestione utente**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. Fai clic su **Azioni** e seleziona **Invitare gli utenti**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. Inserisci gli indirizzi e-mail e fai clic su **Invito**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ Riceverai un messaggio di conferma.
 
 1. Nel tuo account Marketo Sales, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. In Impostazioni amministratore, seleziona **Gestione utente**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. Fai clic su **Azioni** e seleziona **Invitare utenti tramite CSV**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. Cerca il CSV sul computer, selezionalo e fai clic su **Successivo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. Conferma che i campi siano mappati correttamente e fai clic su **Invito**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 Riceverai un messaggio di conferma dopo l’invio degli inviti.
 
