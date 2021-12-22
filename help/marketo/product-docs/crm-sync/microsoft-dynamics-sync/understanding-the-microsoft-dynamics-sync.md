@@ -3,7 +3,7 @@ unique-page-id: 10098625
 description: Informazioni su Microsoft Dynamics Sync - Marketo Docs - Documentazione del prodotto
 title: Informazioni sulla sincronizzazione di Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Informazioni sulla sincronizzazione di Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
-Marketo e Microsoft Dynamics sono compatibili. Manteniamo sincronizzati i dati di vendita e marketing.
+Marketo e Microsoft Dynamics collaborano. Manteniamo sincronizzati i dati di vendita e marketing.
 
 >[!NOTE]
 >
@@ -40,9 +40,9 @@ La sincronizzazione tra Marketo e Dynamics è bidirezionale per lead e contatti.
 * [Utenti](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * Team (gruppi di SystemUsers)
 * [Opportunità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [Entità personalizzate](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [Entità personalizzate](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-Le [credenziali immesse in Marketo per Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) vengono utilizzate per sincronizzare i dati.
+La [credenziali immesse in Marketo per Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) vengono utilizzati per sincronizzare i dati.
 
 >[!NOTE]
 >
