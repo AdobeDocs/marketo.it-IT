@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: Passaggio 2 di 3 - Configurazione dell’utente di sincronizzazione Marketo in Dynamics (On-Premises 2011) - Documentazione Marketo - Documentazione del prodotto
 title: Passaggio 2 di 3 - Configurazione dell’utente di sincronizzazione Marketo in Dynamics (On-Premises 2011)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Assegna il ruolo utente di sincronizzazione Marketo solo all&#39;utente di sincr
 
    >[!TIP]
    >
-   >Se il ruolo non viene visualizzato, torna a [passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) e importa la soluzione.
+   >Se il ruolo non viene visualizzato, torna a [passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) e importa la soluzione.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Quasi finito! Abbiamo solo qualche ultima configurazione prima di passare al pro
 
    >[!NOTE]
    >
-   >Se manca la configurazione Marketo, prova ad aggiornare la pagina. Se il problema persiste, [pubblicare nuovamente la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) oppure disconnettiti e accedi di nuovo.
+   >Se manca la configurazione Marketo, prova ad aggiornare la pagina. Se il problema persiste, [pubblicare nuovamente la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install.md) oppure disconnettiti e accedi di nuovo.
 
 1. Fai clic su **Predefinito**.
 
@@ -100,4 +100,4 @@ Ottimo lavoro!
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+>[Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)

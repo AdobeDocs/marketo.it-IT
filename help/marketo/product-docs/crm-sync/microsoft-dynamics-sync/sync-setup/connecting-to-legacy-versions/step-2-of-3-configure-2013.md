@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Passaggio 2 di 3 - Configurare la sincronizzazione degli utenti per Marketo (On-Premises 2013) - Marketo Docs - Documentazione del prodotto
 title: 'Passaggio 2 di 3: configurare l’utente per la sincronizzazione per Marketo (On-Premises 2013)'
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Assegna il ruolo utente di sincronizzazione Marketo solo all&#39;utente di sincr
 
    >[!TIP]
    >
-   >Se il ruolo non viene visualizzato, torna a [passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) e importa la soluzione.
+   >Se il ruolo non viene visualizzato, torna a [passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) e importa la soluzione.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Quasi finito! Abbiamo solo qualche ultima configurazione prima di passare al pro
 
    >[!NOTE]
    >
-   >Se **Configurazione Marketo** mancante, prova ad aggiornare la pagina. Se il problema persiste, [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) di nuovo o prova a disconnettersi e di nuovo ad entrare.
+   >Se **Configurazione Marketo** mancante, prova ad aggiornare la pagina. Se il problema persiste, [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) di nuovo o prova a disconnettersi e di nuovo ad entrare.
 
 1. Fai clic su **Predefinito**.
 
@@ -96,4 +96,4 @@ Ottimo lavoro!
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Collegare Marketo e Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+>[Passaggio 3 di 3: Collegare Marketo e Dynamics (On-Premises 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
