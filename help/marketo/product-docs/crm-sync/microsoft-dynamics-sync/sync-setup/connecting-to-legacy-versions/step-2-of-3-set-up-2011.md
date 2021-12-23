@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: Passaggio 2 di 3 - Configurazione dell’utente di sincronizzazione Marketo in Dynamics (On-Premises 2011) - Documentazione Marketo - Documentazione del prodotto
 title: Passaggio 2 di 3 - Configurazione dell’utente di sincronizzazione Marketo in Dynamics (On-Premises 2011)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: d4461e1bb73b7494970b4fde30fe551d9a5775d2
+source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -100,4 +100,4 @@ Ottimo lavoro!
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+>[Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
