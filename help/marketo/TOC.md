@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
+source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
 workflow-type: tm+mt
-source-wordcount: '8208'
+source-wordcount: '8206'
 ht-degree: 0%
 
 ---
@@ -409,15 +409,15 @@ ht-degree: 0%
             + [Informazioni sulle risorse locali in un programma](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [Informazioni sull’appartenenza al programma](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
             + [Utilizzo della scheda Risorse](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
-            + [Utilizzo della scheda Home del programma](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
+            + [Using the Program Home Tab](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
          + Utilizzo dei programmi {#working-with-programs}
             + [Best practice: Organizzare i programmi](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
-            + [Clona un programma](product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
+            + [Clone a Program](product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
             + [Clonare una risorsa in un programma](product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md)
-            + [Eliminare un programma](product-docs/core-marketo-concepts/programs/working-with-programs/delete-a-program.md)
+            + [Delete a Program](product-docs/core-marketo-concepts/programs/working-with-programs/delete-a-program.md)
             + [Modificare le impostazioni del comportamento di Analytics](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [Importare un programma](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
-            + [Importare membri da un foglio di calcolo in un programma](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
+            + [Import Members from a Spreadsheet into a Program](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
             + [Gestisci e visualizza membri](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Campi personalizzati membri del programma](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [Sincronizzazione di una campagna SFDC con un programma](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
@@ -425,9 +425,9 @@ ht-degree: 0%
             + [Informazioni sui tag](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
             + [Utilizzare i tag in un programma](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
             + [Utilizzo dei costi del periodo in un programma](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-         + Rapporto sulle prestazioni del programma {#program-performance-report}
-            + [Creare un rapporto sulle prestazioni del programma](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-            + [Aggiungi colonne di stato del programma a un rapporto del programma](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
+         + Program Performance Report {#program-performance-report}
+            + [Create a Program Performance Report](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+            + [Add Program Status Columns to a Program Report](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
             + [Filtrare un rapporto del programma per costo del periodo](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
             + [Filtrare un rapporto del programma per programma](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
             + [Filtrare un rapporto del programma per tag](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
@@ -436,7 +436,7 @@ ht-degree: 0%
             + [Creazione di una campagna avanzata in batch nella vista Pianificazione del programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)
             + [Creazione di un nuovo programma e-mail nella vista Pianificazione](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)
             + [Creazione di una voce nella vista Pianificazione del programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
-            + [Creazione di sovrapposizioni personalizzate nella vista Pianificazione del programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+            + [Creating Custom Overlays in Program Schedule View](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
             + [Modifica delle voci nella vista Pianificazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/editing-entries-in-the-program-schedule-view.md)
             + [Nascondere e nascondere tipi di voci personalizzati](product-docs/core-marketo-concepts/programs/program-schedule-view/hiding-and-unhiding-custom-entry-types.md)
             + [Spostamento di voci nella vista Pianificazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/moving-entries-in-the-program-schedule-view.md)
@@ -523,14 +523,13 @@ ht-degree: 0%
             + [Aggiornamento della soluzione Marketo per Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Convalida della sincronizzazione di Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Visualizzare l&#39;URL del servizio organizzazione](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
-               + [Passaggio 1 di 3: Installare la soluzione Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [Passaggio 2 di 3: Configurazione di Marketo Sync User in Dynamics (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2013 On-Premises {#microsoft-dynamics-2013-on-premises}
-               + [Passaggio 1 di 3: Installare la soluzione Marketo in Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
-               + [Passaggio 2 di 3: Configura l’utente di sincronizzazione per Marketo (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
-               + [Passaggio 3 di 3: Collegare Marketo e Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+            + Connessione a versioni precedenti {#connecting-to-legacy-versions}
+               + [Passaggio 1 di 3: Installare la soluzione Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [Passaggio 2 di 3: Configurazione di Marketo Sync User in Dynamics (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [Passaggio 3 di 3: Collegare Microsoft Dynamics con Marketo (On-Premises 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [Passaggio 1 di 3: Installare la soluzione Marketo in Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [Passaggio 2 di 3: Configura l’utente di sincronizzazione per Marketo (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [Passaggio 3 di 3: Collegare Marketo e Dynamics (On-Premises 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
             + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [Passaggio 1 di 3: Installa la soluzione Marketo - On-Premises 2015 / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Passaggio 2 di 3: Configurazione di Marketo Sync User in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
@@ -539,7 +538,7 @@ ht-degree: 0%
                + [Passaggio 1 di 3: Installare la soluzione Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [Passaggio 3 di 3: Connettere Microsoft Dynamics con Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
-            + Configurazione dell’autenticazione OAuth per Dynamics {#set-up-oauth-authentication-for-dynamics}
+            + Set up OAuth Authentication for Dynamics {#set-up-oauth-authentication-for-dynamics}
                + [Concessione del consenso per l’ID client e la registrazione dell’app](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [Configurare l’app Microsoft Dynamics CRM per Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Configurare l’app Microsoft Dynamics CRM per On-Prem](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
@@ -550,15 +549,15 @@ ht-degree: 0%
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione contatti](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
             + [Abilita sincronizzazione per un&#39;entità personalizzata](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione dei campi](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
-            + [Utilizzare la sincronizzazione rapida con Microsoft Dynamics per un nuovo campo personalizzato](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
+            + [Use Quick Sync with Microsoft Dynamics for a New Custom Field](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
             + [Modifica dei campi da sincronizzare prima di eliminarli in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione lead](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [Creare un contatto in Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
-            + [Sincronizzazione Microsoft Dynamics: Sincronizzazione opportunità](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+            + [Microsoft Dynamics Sync: Opportunity Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
             + [Sincronizzazione Microsoft Dynamics: Sincronizzazione utente](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Stato di sincronizzazione](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Panoramica sulla sincronizzazione di Campaign](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
-            + [Abilita sincronizzazione campagna](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+            + [Enable Campaign Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + Dettagli del filtro di sincronizzazione di Dynamics personalizzati {#custom-dynmaics-sync-filter-details}
             + [Creare un filtro di sincronizzazione di Dynamics personalizzato](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -861,15 +860,15 @@ ht-degree: 0%
                + [Modello 19D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19d.md)
                + [Modello 19E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19e.md)
                + [Modello 20A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20a.md)
-               + [Modello 20B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20b.md)
-               + [Modello 20C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md)
+               + [Template 20B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20b.md)
+               + [Template 20C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md)
                + [Modello 20D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md)
                + [Modello 20E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md)
          + Personalizzazione delle pagine di destinazione {#personalizing-landing-pages}
             + [Aggiungere uno snippet a una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Aggiungi CNAME aggiuntivi per pagine di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Aggiungere SSL alle pagine di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-            + [Aggiungere testo e token a una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
+            + [Add Text and Tokens to a Landing Page](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Abilitare gli URL personalizzati per una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Abilita URL personalizzati per il tuo account](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
             + [Esportare un elenco con URL personalizzati](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
@@ -1203,10 +1202,10 @@ ht-degree: 0%
          + [Domande frequenti su contenuto e file allegato](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect dispone di un&#39;app iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [Come posso Inserire nell&#39;elenco Consentiti Sales Connect sul mio server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [Mi sono bloccata fuori dal mio account. Cosa Faccio?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [I Got Locked out of My Account. What Do I Do?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect è compatibile con Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Quali sono le versioni client più recenti?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
-         + [Quali sono i termini del servizio di vendita Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
+         + [What Are the Sales Connect Terms of Service?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Qual è l&#39;integrazione di Sales Connect e Highspot?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
          + [Perché nessuno dei miei contatti viene portato in contatto con le vendite?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [Perché non è possibile eliminare un contatto?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
@@ -1549,16 +1548,16 @@ ht-degree: 0%
             + [Filtrare le risorse in un rapporto e-mail](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Rapporti di gruppo per attributo](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [Segnala E-Mail E Prestazioni Della Campagna Nelle Aree Di Lavoro](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
-            + [Condividere un modello tra aree di lavoro](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
+            + [Share a Model Across Workspaces](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
             + [Tracciamento di attività e persone anonime](product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
          + Abbonamenti ai rapporti {#report-subscriptions}
-            + [Modificare una sottoscrizione a un elenco avanzato](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+            + [Edit a Smart List Subscription](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
             + [Gestire sottoscrizioni di rapporti](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
-            + [Proteggere l’impostazione di amministrazione della sottoscrizione](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+            + [Secure the Subscription Admin Setting](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
             + [Iscriviti a un rapporto di base](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Iscriviti a un elenco avanzato](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
-         + Tipi di rapporti {#report-types}
-            + [Report attività campagna](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+         + Report Types {#report-types}
+            + [Campaign Activity Report](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Rapporto sulle prestazioni e-mail della campagna](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Report delle attività web aziendali](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapporto Persone per stato](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
@@ -1635,16 +1634,16 @@ ht-degree: 0%
             + [Utilizzo di Success Path Analyzer](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Esplora ricavi {#revenue-explorer}
             + [Aggiunta di misure personalizzate a un rapporto di Esplora ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
-            + [Aggiunta di campi a un rapporto di Esplora ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+            + [Adding Fields to a Revenue Explorer Report](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
             + [Creare un rapporto di Esplora ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
             + [Personalizzare e visualizzare le griglie di calore](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/customize-and-display-heat-grids.md)
             + [Eliminazione di un campo in un rapporto Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
             + [Esportazione di un rapporto di Esplora ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/exporting-a-revenue-explorer-report.md)
             + [Grafico dei risultati da Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/graphing-results-from-revenue-explorer.md)
             + [Tipi di rapporti di Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/revenue-explorer-report-types.md)
-            + [Salvataggio di un rapporto di Esplora ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
-            + [Abbonati a un rapporto di Esplora entrate](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-            + [Sincronizza campi personalizzati con l&#39;Explorer dei ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
+            + [Saving a Revenue Explorer Report](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+            + [Subscribe to a Revenue Explorer Report](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+            + [Sync Custom Fields to the Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
             + [Analisi delle opportunità in Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
             + [Utilizzo delle dashboard in Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
          + Strumenti di ricavo {#revenue-tools}
