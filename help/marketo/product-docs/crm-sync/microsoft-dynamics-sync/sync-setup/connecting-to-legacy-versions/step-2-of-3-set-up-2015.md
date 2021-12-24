@@ -3,7 +3,7 @@ unique-page-id: 7504739
 description: Installare Marketo per Microsoft Dynamics 2015 On-Premises Passaggio 2 di 3 - Documentazione Marketo - Documentazione del prodotto
 title: Installare Marketo per Microsoft Dynamics 2015 On-Premises, passaggio 2 di 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Ottimo lavoro per completare i passaggi precedenti. Continuiamo a muoverci.
 
 >[!PREREQUISITES]
 >
->[Installare Marketo per Microsoft Dynamics 2015 On-Premises, passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Installare Marketo per Microsoft Dynamics 2015 On-Premises, passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## Assegna ruolo utente di sincronizzazione {#assign-sync-user-role}
 
