@@ -1,8 +1,8 @@
 ---
-description: Configurare l’app Microsoft Dynamics CRM per Online - Documenti Marketo - Documentazione del prodotto
+description: Configurazione dell’app Microsoft Dynamics CRM per online - Documenti Marketo - Documentazione del prodotto
 title: Configurare l’app Microsoft Dynamics CRM per Online
 exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
-source-git-commit: 4283f1b6936316f3053543e06e7eaee45a7f2436
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Configurare l’app Microsoft Dynamics CRM per Online {#set-up-microsoft-dynamics-crm-app-for-online}
 
-## Imposta {#set-up}
+## Configurazione {#set-up}
 
 1. Vai su https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 1. Annotare l&#39;ID applicazione (ClientId). Sarà necessario inserirlo in Marketo in un secondo momento.
 
-1. Concedi il consenso dell&#39;amministratore seguendo i passaggi descritti in [questo articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md).
+1. Concedi il consenso dell’amministratore seguendo i passaggi descritti in [articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
 
 1. Genera un segreto client in Admin Center facendo clic su **Certificati e segreti**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-1.png)
 
-1. Fare clic su **Nuovo segreto client**.
+1. Fai clic su **Nuovo segreto client**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-2.png)
 
@@ -39,53 +39,53 @@ ht-degree: 0%
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-4.png)
 
-Marketo si autentica in Azure AD con OAuth utilizzando le credenziali per la password del proprietario della risorsa di tipo Grant_type ( ROPC). Questo scenario richiede la creazione di un criterio Home Realm Discovery per l&#39;applicazione specifica. Con questo criterio, Azure AD reindirizzerà la richiesta di autenticazione al servizio federativo. A questo scopo, la sincronizzazione hash della password deve essere abilitata in AD Connect. Per ulteriori informazioni, consulta [OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Imposta un criterio hrd per un&#39;applicazione](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
+Marketo si autentica in Azure AD con OAuth utilizzando le credenziali per la password del proprietario della risorsa di tipo Grant_type ( ROPC). Questo scenario richiede la creazione di un criterio Home Realm Discovery per l&#39;applicazione specifica. Con questo criterio, Azure AD reindirizzerà la richiesta di autenticazione al servizio federativo. A questo scopo, la sincronizzazione hash della password deve essere abilitata in AD Connect. Per ulteriori informazioni, consulta [OAuth con ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Impostare un criterio hrd per un&#39;applicazione](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Ulteriori riferimenti [sono disponibili qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated, are%20federated%20to%20Azure%20AD.).
+Riferimenti aggiuntivi [si trova qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated, are%20federated%20to%20Azure%20AD.).
 
-Al termine, è il momento di **immettere in Marketo** l’ID client generato e il segreto di Dynamics CRM in.
+Quando hai finito, è ora di **Immetti l’ID client e il segreto generati da Dynamics CRM in Marketo**.
 
 ## Immetti l’ID client e il segreto generati da Dynamics CRM in Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
-I passaggi seguenti sono applicabili alle versioni on-premise _e_ in linea.
+I seguenti passaggi sono applicabili a Online _e_ Versioni on-premise.
 
 1. In Marketo, fai clic su **Amministratore**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-5.png)
 
-1. Fare clic su **Microsoft Dynamics**.
+1. Fai clic su **Microsoft Dynamics**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-6.png)
 
-1. Fare clic su **Disattiva sincronizzazione**.
+1. Fai clic su **Disattiva sincronizzazione**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-7.png)
 
-1. Accanto alle credenziali, fare clic su **Modifica**.
+1. Accanto alle credenziali, fai clic su **Modifica**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-8.png)
 
-1. Immetti i **ID client** e **Segreto client** recuperati in precedenza e premi **Salva**.
+1. Inserisci il **ID client** e **Segreto client** recuperate in precedenza e premete **Salva**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-9.png)
 
-1. Fare clic su **Convalida configurazione sincronizzazione**.
+1. Fai clic su **Convalida configurazione sincronizzazione**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-10.png)
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-11.png)
 
-1. Dovresti visualizzare tutti i segni di spunta verdi. Fare clic su **Chiudi**.
+1. Dovresti visualizzare tutti i segni di spunta verdi. Fai clic su **Chiudi**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-12.png)
 
    >[!NOTE]
    >
-   >Se trovi una X rossa tra i segni di spunta verdi, consulta [questo articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) per le opzioni di correzione.
+   >Se vedi una X rossa tra i segni di spunta verdi, vedi [articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) per le opzioni di correzione.
 
-1. Fare clic su **Abilita sincronizzazione**.
+1. Fai clic su **Abilita sincronizzazione**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-13.png)
 

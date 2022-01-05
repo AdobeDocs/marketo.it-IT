@@ -1,9 +1,11 @@
 ---
+unique-page-id: 3571822
 description: Passaggio 1 di 3 - Installare la soluzione Marketo con S2S Connection - Marketo Docs - Documentazione del prodotto
 title: Passaggio 1 di 3 - Installare la soluzione Marketo con la connessione S2S
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -15,6 +17,7 @@ Prima di poter sincronizzare Microsoft Dynamics 365 e Marketo, è necessario ins
 >[!CAUTION]
 >
 >* Non abilitare la sincronizzazione di entità personalizzata prima del completamento della sincronizzazione iniziale. Una volta completata la sincronizzazione iniziale, riceverai una notifica via e-mail.
+>* Se per la sincronizzazione di Dynamics è abilitata l’autenticazione a più fattori (MFA), devi disattivarla affinché Dynamics si sincronizzi correttamente con Marketo. Per ulteriori informazioni, contattare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]

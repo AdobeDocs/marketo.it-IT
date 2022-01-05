@@ -1,22 +1,22 @@
 ---
 unique-page-id: 3571827
-description: Passaggio 2 di 3 - Configurare la soluzione Marketo con la connessione Controllo password proprietario risorsa - Marketo Docs - Documentazione del prodotto
-title: 'Passaggio 2 di 3: configurare la soluzione Marketo con la connessione per il controllo della password del proprietario della risorsa'
+description: 'Passaggio 2 di 3: configurare la soluzione Marketo con S2S Connection - Marketo Docs - Documentazione del prodotto'
+title: 'Passaggio 2 di 3: configurare la soluzione Marketo con la connessione S2S'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
 
-# Passaggio 2 di 3: Configurare la soluzione Marketo con la connessione Controllo password proprietario risorsa {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# Passaggio 2 di 3: Configurazione dell’utente di sincronizzazione Marketo in Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
 
 Cominciamo creando un account utente.
 
 >[!PREREQUISITES]
 >
->[Passaggio 1 di 3: Installare la soluzione Marketo con la connessione Controllo password proprietario risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md)
+>[Passaggio 1 di 3: Installare la soluzione Marketo con la connessione S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## Crea un nuovo utente {#create-a-new-user}
 
@@ -102,7 +102,7 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 
    >[!NOTE]
    >
-   >Se non vedi **Configurazione Marketo** nel menu Impostazioni , aggiorna la pagina. Se non funziona, prova a [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md) di nuovo o disconnettiti e accedi di nuovo.
+   >Se non vedi **Configurazione Marketo** nel menu Impostazioni , aggiorna la pagina. Se non funziona, prova a [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md) di nuovo o disconnettiti e accedi di nuovo.
 
 1. Fai clic su **Predefinito**.
 
@@ -136,4 +136,4 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Connessione della soluzione Marketo con la connessione del controllo password del proprietario della risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[Passaggio 3 di 3: Collegare la soluzione Marketo con la connessione S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
