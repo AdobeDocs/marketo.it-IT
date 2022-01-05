@@ -1,9 +1,7 @@
 ---
-unique-page-id: 3571827
 description: Passaggio 2 di 3 - Configurare la soluzione Marketo con la connessione Controllo password proprietario risorsa - Marketo Docs - Documentazione del prodotto
 title: 'Passaggio 2 di 3: configurare la soluzione Marketo con la connessione per il controllo della password del proprietario della risorsa'
-exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -136,4 +134,4 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Connessione della soluzione Marketo con la connessione del controllo password del proprietario della risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[Passaggio 3 di 4: Connessione della soluzione Marketo con la connessione del controllo password del proprietario della risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
