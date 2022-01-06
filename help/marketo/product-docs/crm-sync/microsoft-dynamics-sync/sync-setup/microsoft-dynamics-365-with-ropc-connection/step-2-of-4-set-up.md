@@ -16,7 +16,7 @@ Cominciamo creando un account utente.
 
 >[!PREREQUISITES]
 >
->[Passaggio 1 di 3: Installare la soluzione Marketo con la connessione Controllo password proprietario risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md)
+>[Passaggio 1 di 3: Installare la soluzione Marketo con la connessione Controllo password proprietario risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 
 ## Crea un nuovo utente {#create-a-new-user}
 
@@ -102,7 +102,7 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 
    >[!NOTE]
    >
-   >Se non vedi **Configurazione Marketo** nel menu Impostazioni , aggiorna la pagina. Se non funziona, prova a [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md) di nuovo o disconnettiti e accedi di nuovo.
+   >Se non vedi **Configurazione Marketo** nel menu Impostazioni , aggiorna la pagina. Se non funziona, prova a [pubblicare la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) di nuovo o disconnettiti e accedi di nuovo.
 
 1. Fai clic su **Predefinito**.
 
@@ -136,4 +136,4 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Connessione della soluzione Marketo con la connessione del controllo password del proprietario della risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[Passaggio 3 di 3: Connessione della soluzione Marketo con la connessione del controllo password del proprietario della risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
