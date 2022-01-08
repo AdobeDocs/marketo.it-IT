@@ -1,16 +1,15 @@
 ---
-unique-page-id: 3571822
-description: Passaggio 1 di 3 - Installare la soluzione Marketo con la connessione per il controllo della password del proprietario della risorsa - Documenti Marketo - Documentazione del prodotto
-title: Passaggio 1 di 3 - Installare la soluzione Marketo con la connessione per il controllo della password del proprietario della risorsa
-exl-id: 593fc014-db38-42cc-8f9f-0dd8307751e8
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+description: Passaggio 1 di 4 - Installare la soluzione Marketo con la connessione per il controllo della password del proprietario della risorsa - Documenti Marketo - Documentazione del prodotto
+title: Passaggio 1 di 4 - Installare la soluzione Marketo con la connessione per il controllo della password del proprietario della risorsa
+exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-# Passaggio 1 di 3: Installare la soluzione Marketo con la connessione Controllo password proprietario risorsa {#step-1-of-3-install-the-marketo-solution-ropc}
+# Passaggio 1 di 4: Installare la soluzione Marketo con la connessione Controllo password proprietario risorsa {#step-1-of-4-install-the-marketo-solution-ropc}
 
 Prima di poter sincronizzare Microsoft Dynamics 365 e Marketo, è necessario installare la soluzione Marketo in Dynamics. **Le autorizzazioni di Dynamics Admin sono necessarie.**
 
@@ -92,4 +91,4 @@ Prima di poter sincronizzare Microsoft Dynamics 365 e Marketo, è necessario ins
 
    >[!MORELIKETHIS]
    >
-   >[Passaggio 2 di 3: Configurare la soluzione Marketo con la connessione Controllo password proprietario risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-3-set-up.md)
+   >[Passaggio 2 di 4: Configurare la soluzione Marketo con la connessione Controllo password proprietario risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)

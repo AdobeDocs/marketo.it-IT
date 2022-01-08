@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: Passaggio 3 di 3 - Connettere la soluzione Marketo con S2S Connection - Marketo Docs - Documentazione del prodotto
-title: 'Passaggio 3 di 3: collegare la soluzione Marketo con la connessione S2S'
+description: 'Passaggio 3 di 3: collegare la soluzione Marketo con la connessione server-to-server - Marketo Docs - Documentazione del prodotto'
+title: 'Passaggio 3 di 3: collegare la soluzione Marketo con la connessione server-to-server'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
 
-# Passaggio 3 di 3: Collegare la soluzione Marketo con la connessione S2S {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# Passaggio 3 di 3: Connessione della soluzione Marketo con la connessione server a server {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 Questo è l&#39;ultimo passaggio della sincronizzazione. Ci siamo quasi!
 
 >[!PREREQUISITES]
 >
->* [Passaggio 1 di 3: Installare la soluzione Marketo con la connessione S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [Passaggio 2 di 3: Configurare la soluzione Marketo con la connessione S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [Passaggio 1 di 3: Installare la soluzione Marketo con la connessione server a server](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [Passaggio 2 di 3: Configurare la soluzione Marketo con la connessione server a server](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
