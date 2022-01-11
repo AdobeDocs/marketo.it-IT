@@ -2,7 +2,7 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -41,15 +41,15 @@ La nuova esperienza verrà caricata.
 
 1. In Marketo, trovare e selezionare il modulo.
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 La nuova esperienza verrà caricata.
 
-![](assets/toggle-switch-7.png)
+![](assets/toggle-switch-10.png)
 
 ## Abilita per tutte le funzionalità {#enable-for-all-features}
 
@@ -57,8 +57,8 @@ La nuova esperienza verrà caricata.
 
 1. In un&#39;area che al momento dispone dell&#39;interruttore di attivazione/disattivazione (in questo esempio ci troviamo in [Pagina dei dettagli del modulo](#form-details-page)), fai clic sull’icona a forma di ingranaggio in basso a destra della pagina.
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)
