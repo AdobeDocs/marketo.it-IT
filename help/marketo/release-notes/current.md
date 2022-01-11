@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Le seguenti funzionalità verranno rilasciate il **21 gennaio 2022**.
 
    * Dettagli delle risorse della pagina di destinazione in Design Studio
    * Dettagli delle risorse della pagina di destinazione nelle attività di marketing
-
-* **Admin Control per l’interruttore di attivazione/disattivazione esperienza di nuova generazione**: Gli amministratori possono selezionare i tipi di utenti che possono accedere all’interruttore di attivazione/disattivazione per visualizzare le schermate nell’esperienza di nuova generazione.
 
 ## Integrazione con Microsoft Dynamics {#microsoft-dynamics-integration}
 

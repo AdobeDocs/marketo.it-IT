@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '8255'
+source-wordcount: '8259'
 ht-degree: 0%
 
 ---
@@ -191,6 +191,7 @@ ht-degree: 0%
          + [Modifica impostazioni sottoscrizione](product-docs/administration/settings/edit-subscription-settings.md)
          + [Attiva o disattiva le caratteristiche del torace del tesoro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Abilita URL personalizzati per il tuo account (amministrazione)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Regole di convalida globali dei moduli](product-docs/administration/settings/global-form-validation-rules.md)
          + [Come bloccare gli invii di moduli spam](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Intestazioni pagina di destinazione](product-docs/administration/settings/landing-page-headers.md)
          + [Limitare gli accessi Marketo in base all’IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
