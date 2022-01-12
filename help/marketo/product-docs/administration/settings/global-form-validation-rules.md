@@ -3,9 +3,10 @@ description: Regole di convalida dei moduli globali - Documenti Marketo - Docume
 title: Regole di convalida globali dei moduli
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,46 +21,46 @@ Prima di poter utilizzare questa funzione, è necessario abilitarne l’autorizz
 
 1. In Marketo, fai clic su **Amministratore**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. Fai clic su **Utenti e ruoli**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. Fai clic sul pulsante **Ruoli** scheda .
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. Fare doppio clic sul ruolo a cui si desidera concedere le autorizzazioni.
 
-PICC
+   PICC
 
 1. Fai clic sul pulsante **+** Accedi a Amministratore di accesso.
 
-PICC
+   PICC
 
 1. Scorri verso il basso e seleziona **Accedere alle regole di convalida del modulo** e fai clic su **Salva**.
 
-PICC
+   PICC
 
 ## Crea nuova regola di convalida del modulo {#create-new-form-validation-rule}
 
 1. In Marketo, fai clic su **Amministratore**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. Fai clic su **Regola di convalida globale del modulo**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. Fai clic su **Nuova regola di convalida del modulo**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >Il menu a discesa Azioni regola di convalida consente di eliminare o modificare le regole esistenti.
 
 1. Denomina la regola, forniscila una descrizione facoltativa e inserisci il messaggio di errore che desideri venga visualizzato dai visitatori del modulo. Immetti i domini che desideri bloccati nella casella delle regole, seleziona **Attiva regola** e fai clic su **Crea**.
 
-PICC
-
->[!NOTE]
->
->Il menu a discesa Azioni regola di convalida consente di eliminare o modificare le regole esistenti.
+   ![](assets/global-form-validation-rules-10.png)

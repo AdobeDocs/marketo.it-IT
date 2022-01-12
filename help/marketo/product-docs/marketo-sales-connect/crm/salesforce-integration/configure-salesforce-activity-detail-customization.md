@@ -4,14 +4,20 @@ title: Configurare la personalizzazione dei dettagli dell’attività Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
 
 # Configurare la personalizzazione dei dettagli dell’attività Salesforce {#configure-salesforce-activity-detail-customization}
+
+>[!PREREQUISITES]
+>
+>* Salesforce e Marketo Sales Connect [deve essere collegato](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* Registrazione di attività e-mail tramite API [deve essere abilitato](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
 
 La personalizzazione dei dettagli dell&#39;attività consente agli amministratori di configurare le informazioni che verranno registrate nel campo Attività Salesforce - Oggetto, quando un&#39;attività/attività promemoria di Sales Connect viene sincronizzata in Salesforce.
 
