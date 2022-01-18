@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: Panoramica delle funzioni - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica delle funzioni
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,15 @@ Le seguenti funzionalità sono disponibili nella nuova soluzione MSI MSD.
 * Aggiungi a Marketo Campaign
 * Invia e-mail Marketo
 
-## Pagina Migliori offerte di Marketo  {#marketo-best-bets-page}
+## Pannello Marketo Sales Insight nel layout dell&#39;account {#marketo-sales-insight-panel-in-account-layout}
+
+* Stelle e fiamme
+* Momento interessante
+* Attività web
+* Punteggio
+* E-mail (apri e fai clic su)
+
+## Pagina Migliori offerte di Marketo {#marketo-best-bets-page}
 
 * Priorità (stelle e fiamme)
 * Nome (collegamento ipertestuale alla pagina Lead/Contatto)
