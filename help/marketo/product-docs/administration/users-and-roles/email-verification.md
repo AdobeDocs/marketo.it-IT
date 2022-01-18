@@ -4,21 +4,34 @@ title: Verifica e-mail
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Verifica e-mail {#email-verification}
 
-Penso che tu abbia detto che faremo una nuova pagina che copre la verifica delle e-mail per gli utenti
+Ad Adobe, gli abbonamenti al Marketo Engage richiedono che tutti gli utenti non API verifichino il loro indirizzo e-mail. Gli utenti Single Sign-on (SSO) verificheranno automaticamente la propria e-mail quando l’abbonamento viene attivato con Verifica e-mail.
 
-Invito dell&#39;utente Quando un amministratore invita un utente, nessuna modifica all&#39;interfaccia utente o all&#39;esperienza per l&#39;utente Quando l&#39;utente fa clic sul collegamento di invito, il loro messaggio e-mail viene verificato automaticamente Gli utenti con SSO vengono verificati automaticamente
+**Invito utente**
 
-La schermata dell’account utente mostra l’indirizzo e-mail come verificato Quando l’indirizzo e-mail viene aggiornato, l’interfaccia utente riflette il fatto che l’e-mail per l’account non è stata verificata e l’e-mail viene inviata (vedi l’e-mail allegata)
+Quando un amministratore invita un utente, viene verificato automaticamente una volta fatto clic sul collegamento di invito. Gli utenti con SSO vengono verificati automaticamente.
 
-Amministratore - Pagina Utenti e ruoli Nuova colonna che mostra lo stato di verifica di un utente Nuovo pulsante per attivare nuovamente la verifica dell’e-mail per l’utente
+**Modifica di un indirizzo e-mail**
 
-MyMarketo Quando un utente con e-mail non verificata effettua l’accesso, deve visualizzare un banner sulla pagina My Marketo (SOLO).
+Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail per consentir loro di ricontrollare. Gli amministratori possono inviare nuovamente manualmente l’e-mail facendo clic su **Invia verifica**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**Utenti e ruoli**
+
+In Amministratore > Utenti e ruoli, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
+
+![](assets/email-verification-3.png)
+
+Per verificare un utente non verificato, seleziona il record e fai clic sul pulsante **Verifica e-mail** pulsante .
+
