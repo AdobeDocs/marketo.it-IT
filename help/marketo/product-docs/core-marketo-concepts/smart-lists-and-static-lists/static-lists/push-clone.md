@@ -3,9 +3,9 @@ description: Clone push - Documenti Marketo - Documentazione del prodotto
 title: Clona push
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >Se scegli Nuovo account, puoi trovare il tuo Munchkin ID andando a **Amministratore** > **Munchkin** (fa anche parte del tuo URL Marketo una volta effettuato l’accesso). ID client/Segreto è necessario seguire i prerequisiti nella parte superiore di questo articolo.
+
 1. Scegli l’account di destinazione e fai clic su **Seleziona**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 1. Scegli il segmento da inviare a Marketo e fai clic su **Successivo**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >Se scegli più segmenti qui, dovrai mappare ogni segmento a un elenco statico specifico nella scheda Pianificazione segmento .
 
 1. Fai clic su **Aggiungi nuova mappatura**.
 
@@ -102,6 +110,10 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >Mappatura di e-mail e/o ECID da **Namespace Identity** tab è la cosa più importante da fare per garantire che la persona corrisponda in Marketo. La mappatura di e-mail garantirà la percentuale di corrispondenza più elevata.
+
 1. Ora è il momento di scegliere i campi di origine. Per e-mail, fai clic sull’icona del cursore.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 1. A questo punto sarà necessario l’ID della tua lista. Fai clic sulla scheda nel browser in cui è aperto l’elenco statico Marketo (oppure apri una nuova scheda e seleziona l’elenco statico desiderato).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >Per ottenere risultati ottimali, utilizzare un elenco di Marketi Engage vuoto.
 
 1. Evidenzia e copia l’ID elenco alla fine dell’URL.
 
