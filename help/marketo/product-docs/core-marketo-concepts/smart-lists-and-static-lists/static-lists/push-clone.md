@@ -3,9 +3,9 @@ description: Clone push - Documenti Marketo - Documentazione del prodotto
 title: Clona push
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 >
 >* [Creare un utente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Quindi, vai a **Amministratore** > **Punto di avvio**. Trova il nome del ruolo appena creato e fai clic su **Visualizza dettagli**. Copia e salva le informazioni in **ID client** e **Segreto client**, poiché ne avrai bisogno per questa funzione.
+>* In Marketo, crea un elenco statico oppure trova e seleziona quello già creato. Ti servirà il suo ID.
 
 
 1. Accedi a [Adobe Experience Platform](https://experience.adobe.com/).
@@ -53,15 +54,13 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-Ora dovrai scegliere se desideri far corrispondere solo le persone Marketo esistenti, o far corrispondere le persone Marketo esistenti e creare le persone mancanti in Marketo. Di seguito sono riportate le sezioni che descrivono come eseguire ciascuna operazione.
-
-## Corrispondenza con le persone esistenti di Marketo e creazione di persone mancanti in Marketo {#match-existing-marketo-people-create-missing-people}
-
-Dopo aver seguito i passaggi 1-8 dall&#39;alto...
-
-1. Immettere una destinazione **Nome** e una descrizione facoltativa. Fare clic sull&#39;elenco a discesa Creazione persona e selezionare **Corrispondenza con le persone esistenti di Marketo e creazione di persone mancanti in Marketo**.
+1. Immettere una destinazione **Nome** e una descrizione facoltativa. Fai clic sul menu a discesa Creazione persona e scegli &quot;Fai corrispondere le persone esistenti di Marketo e crea le persone mancanti in Marketo&quot; _o_ &quot;Solo persone Marketo esistenti&quot; In questo esempio scegliamo il primo.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >Se scegli &quot;Match Existing Marketo People Only&quot; (Solo persone esistenti), dovrai mappare solo l&#39;e-mail e/o l&#39;ECID, in modo da poter saltare i passaggi 13-16.
 
 1. Questa sezione è facoltativa. Fai clic su **Crea** per saltare.
 
@@ -87,7 +86,7 @@ Dopo aver seguito i passaggi 1-8 dall&#39;alto...
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. Mappa il cognome e il nome della società facendo clic su **Aggiungi nuova mappatura** di nuovo e ripetendo il passaggio 7 due volte, scegliendo lastName e quindi companyName.
+1. Mappa il cognome e il nome della società facendo clic su **Aggiungi nuova mappatura** di nuovo e ripetendo il passaggio 15 due volte, scegliendo **lastName** e poi **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ Dopo aver seguito i passaggi 1-8 dall&#39;alto...
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREEE
+1. Per scegliere il campo di origine Nome società, fare clic sull&#39;icona del cursore nella riga corrispondente.
 
-## Solo persone Marketo esistenti {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->Le identità vengono utilizzate per cercare le corrispondenze in Marketo. Se viene trovata una corrispondenza, la persona viene aggiunta all’elenco statico. Se non viene trovata una corrispondenza, queste persone vengono eliminate (ovvero, non create in Marketo).
+1. Lasciare selezionato il pulsante di opzione Seleziona attributo . Cerca &quot;azienda&quot; e seleziona **companyName**, quindi fai clic su **Seleziona**.
 
-1. _In Marketo_, crea un elenco statico oppure trova e seleziona un elenco già creato. Copia l&#39;ID di mappatura dalla fine dell&#39;URL.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. Mappare i campi di origine per Cognome e Nome facendo clic due volte sull&#39;icona del cursore per ciascuno e ripetendo il Passaggio 23, scegliendo **lastName** e poi **firstName**.
 
->[!NOTE]
->
->Per risultati ottimali, accertati che l’elenco a cui fai riferimento in Marketo sia vuoto.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. In Adobe Experience Platform, immetti l&#39;ID appena copiato. Scegli la data di inizio. Le persone si sincronizzano continuamente fino alla data di fine scelta. Per una sincronizzazione indefinita, lascia vuota la data di fine. Fai clic su **Successivo** al termine.
+1. Fai clic su **Successivo**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Conferma le modifiche e fai clic su **Fine**.
+1. A questo punto sarà necessario l’ID della tua lista. Fai clic sulla scheda nel browser in cui è aperto l’elenco statico Marketo (oppure apri una nuova scheda e seleziona l’elenco statico desiderato).
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. Evidenzia e copia l’ID elenco alla fine dell’URL.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. Incolla l&#39;ID appena copiato in Mapping ID (ID mappatura) e fai clic su **Successivo**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. Fai clic su **Fine**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)

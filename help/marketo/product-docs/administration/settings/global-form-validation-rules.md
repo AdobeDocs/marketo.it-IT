@@ -4,9 +4,9 @@ title: Regole di convalida globali dei moduli
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,10 @@ Prima di poter utilizzare questa funzione, è necessario abilitarne l’autorizz
    ![](assets/global-form-validation-rules-6.png)
 
 ## Crea nuova regola di convalida del modulo {#create-new-form-validation-rule}
+
+>[!IMPORTANT]
+>
+>Queste regole verranno applicate a tutti i moduli inclusi negli abbonamenti al Marketo Engage.
 
 1. In Marketo, fai clic su **Amministratore**.
 
