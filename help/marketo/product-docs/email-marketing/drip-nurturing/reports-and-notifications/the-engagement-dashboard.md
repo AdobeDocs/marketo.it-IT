@@ -1,74 +1,73 @@
 ---
 unique-page-id: 2359685
-description: Pannello di coinvolgimento - Documenti Marketo - Documentazione del prodotto
-title: Pannello di coinvolgimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Dashboard di coinvolgimento - Documenti Marketo - Documentazione del prodotto
+title: Dashboard di coinvolgimento
+exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
+source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
+# Dashboard di coinvolgimento {#the-engagement-dashboard}
 
-# Pannello di coinvolgimento {#the-engagement-dashboard}
-
-Il Pannello di coinvolgimento è il modo più semplice per vedere le prestazioni del contenuto nel programma di coinvolgimento.
+Il Dashboard di coinvolgimento è il modo più semplice per vedere le prestazioni del contenuto del programma di coinvolgimento.
 
 >[!NOTE]
 >
->Il punteggio di coinvolgimento è calcolato 72 ore dopo ogni cast. Ulteriori informazioni sul punteggio di coinvolgimento [](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Il punteggio di coinvolgimento include i dati degli ultimi tre cast. Una nuova viene calcolata 72 ore dopo ogni cast. Ulteriori informazioni sulle [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-## Visualizza il pannello Partecipazione {#view-the-engagement-dashboard}
+## Visualizza il dashboard di coinvolgimento {#view-the-engagement-dashboard}
 
-Selezionate il programma di coinvolgimento e fate clic su **Visualizza** > **Dashboard**.
+Seleziona il programma di coinvolgimento e fai clic su **Visualizza** > **Dashboard**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Per informazioni statistiche più dettagliate, consultare il [report sulle prestazioni del flusso di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md).
+>Consulta la sezione [rapporto sulle prestazioni del flusso di lavoro di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per statistiche più dettagliate.
 
-## Comprendere il widget di esaurimento {#understand-the-exhaustion-widget}
+## Comprendere il Widget di esaurimento {#understand-the-exhaustion-widget}
 
-Questo widget consente di anticipare quando i lead avranno esaurito tutto il contenuto. Il punteggio di esaurimento viene calcolato immediatamente dopo ogni cast. L’esempio seguente mostra che in 1 cast, 195 lead avranno esaurito tutto il contenuto.
+Questo widget ti aiuta a prevedere quando i lead avranno esaurito tutto il contenuto. Il punteggio di esaurimento viene calcolato immediatamente dopo ogni cast. L’esempio seguente mostra che in 1 cast, 195 lead avranno esaurito tutto il contenuto.
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->Per visualizzare il grafico, è necessario accedere alla scheda Configurazione e assicurarsi che le notifiche di contenuto con esaurimento siano **On**. Se sono spenti, il grafico avrà un aspetto diverso.
+>Devi entrare nella scheda Configurazione e accertarti che le notifiche di contenuto con esaurimento siano **On** per visualizzare il grafico qui sopra. Se sono disattivati, il grafico avrà un aspetto diverso.
 
 >[!CAUTION]
 >
->Le persone &quot;esauste&quot; non riceveranno alcuna comunicazione nel cast successivo.
+>Le persone &quot;esauste&quot; non riceveranno alcuna comunicazione nel prossimo cast.
 
-## Comprendere il coinvolgimento nel tempo {#understand-the-engagement-over-time-widget}
+## Comprendere il coinvolgimento nel tempo Widget {#understand-the-engagement-over-time-widget}
 
-Mostra il punteggio medio di coinvolgimento nel tempo e l&#39;impatto delle modifiche ai contenuti.
+Mostra il punteggio medio di coinvolgimento nel tempo e l’impatto delle modifiche al contenuto.
 
 >[!AVAILABILITY]
 >
->Questa funzione è disponibile come componente aggiuntivo per i clienti che utilizzano Esplora ciclo ricavi di Marketo. Contatta il tuo Customer Success Manager per ulteriori informazioni.
+>Questa funzione è disponibile come componente aggiuntivo per i clienti che utilizzano Marketo Revenue Cycle Explorer. Per ulteriori informazioni, contatta il tuo Customer Success Manager.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
-Per visualizzare un singolo contenuto invece di una media, fate clic sull’icona a forma di ingranaggio, quindi selezionate il contenuto.
+Per visualizzare un singolo contenuto invece che una media, fai clic sull’icona a forma di ingranaggio, quindi seleziona il contenuto.
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## Comprendere il widget di coinvolgimento più alto {#understand-the-highest-engagement-widget}
+## Comprendere il Widget di coinvolgimento più alto {#understand-the-highest-engagement-widget}
 
-Un elenco di tutti i contenuti, ordinati in base al punteggio di coinvolgimento più alto.
+Un elenco di tutti i contenuti, ordinati in base al punteggio di coinvolgimento più elevato.
 
 ![](assets/image2014-9-15-16-3a46-3a54.png)
 
-Per modificare l&#39;ordinamento, fare clic sull&#39;icona a forma di ingranaggio, quindi selezionare l&#39;ordinamento.
+Per modificare l’ordinamento, fai clic sull’icona a forma di ingranaggio, quindi seleziona l’ordinamento.
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_Edicola_ e  __ Oldefissare sulla base del tempo dell&#39;ultima approvazione.
+_Più recente_ e _Oldest_ sono basati sull&#39;ora dell&#39;ultima approvazione.
 
 >[!NOTE]
 >
->Per saperne di più, consulta la sezione [Creazione di un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).
+>Ulteriori informazioni nel [Creare un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) immersione profonda.
