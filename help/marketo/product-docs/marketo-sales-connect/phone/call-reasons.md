@@ -1,86 +1,90 @@
 ---
-description: Motivi della chiamata - Documentazione Marketo - Documentazione del prodotto
-title: Motivi della chiamata
+description: Call Reasons - Marketo Docs - Product Documentation
+title: Call Reasons
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Motivi della chiamata {#call-reasons}
+# Call Reasons {#call-reasons}
 
-Consenti ai team di vendita di selezionare i motivi delle chiamate durante le chiamate in modo che il tuo team possa capire perché vengono effettuate le chiamate.
+Allow your sales teams to select call reasons when making calls so your team can understand the why calls are being made.
 
 >[!NOTE]
 >
->**Autorizzazioni di amministrazione richieste.**
+>****
 
-## Abilita motivi di chiamata {#enable-call-reasons}
+## Enable Call Reasons {#enable-call-reasons}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. ****
 
    ![](assets/call-reasons-1.png)
 
-1. In Impostazioni amministratore, seleziona **Dialogo**.
+1. ****
 
    ![](assets/call-reasons-2.png)
 
-1. Seleziona **Abilita motivi di chiamata**.
+1. ****
 
    ![](assets/call-reasons-3.png)
 
-1. Scegli il requisito del motivo della chiamata desiderato.
+1. Choose your desired call reason requirement.
 
    ![](assets/call-reasons-4.png)
 
-## Crea motivo chiamata {#create-call}
+## Create Call Reason {#create-call}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+>[!NOTE]
+>
+>You can create a maximum of 15 Call Reasons.
+
+1. ****
 
    ![](assets/call-reasons-5.png)
 
-1. In Impostazioni amministratore, seleziona **Dialogo**.
+1. ****
 
    ![](assets/call-reasons-6.png)
 
-1. Fai clic su **Gestire i motivi delle chiamate**.
+1. ****
 
    ![](assets/call-reasons-7.png)
 
-1. Inserisci il nome del motivo della chiamata desiderato nel campo di testo e fai clic su **Aggiungi**.
+1. ****
 
    ![](assets/call-reasons-8.png)
 
-## Selezionare un motivo di chiamata {#select-a-call-reason}
+## Select a Call Reason {#select-a-call-reason}
 
-Una volta abilitati i motivi della chiamata. Gli utenti possono selezionarne uno durante una chiamata .
+Once call reasons have been enabled. Users can select one while making a call.
 
-1. Fai clic sul pulsante di chiamata per avviare il dialer.
+1. Click the call button to launch the dialer.
 
    ![](assets/call-reasons-9.png)
 
-1. Immetti le informazioni sulla chiamata nella finestra di dialogo e fai clic su **Chiamata**.
+1. ****
 
    ![](assets/call-reasons-10.png)
 
-1. Seleziona il motivo della chiamata che descrive meglio la chiamata.
+1. Select the call reason that best describes the call.
 
    ![](assets/call-reasons-11.png)
 
-1. Termina la chiamata.
+1. End the call.
 
    ![](assets/call-reasons-12.png)
 
-1. Registra la chiamata.
+1. Log the call.
 
    ![](assets/call-reasons-13.png)
 
 >[!MORELIKETHIS]
 >
->* [Segnala i motivi delle chiamate e i risultati delle chiamate a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Risultati chiamata](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
+>* [](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
 
