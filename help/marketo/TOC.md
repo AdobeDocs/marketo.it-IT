@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
+source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
 workflow-type: tm+mt
-source-wordcount: '8261'
+source-wordcount: '8255'
 ht-degree: 0%
 
 ---
@@ -91,7 +91,6 @@ ht-degree: 0%
          + [Requisiti minimi di sistema](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [Browser supportati](product-docs/administration/setup-administration/supported-browsers.md)
-         + [Regola di convalida globale del modulo](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Integrazioni aggiuntive {#additional-integrations}
          + [Aggiungere Adobe Connect as a LaunchPoint Service](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Aggiungere Google AdWords as a Launchpoint Service con un account Manager](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -361,7 +360,6 @@ ht-degree: 0%
             + [Creare un elenco statico](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Inviare un elenco a Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-            + [Clona push](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [Informazioni sugli elenchi statici](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programmi {#programs}
          + Creazione di programmi {#creating-programs}

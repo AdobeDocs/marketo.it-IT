@@ -1,10 +1,8 @@
 ---
 description: Regole di convalida dei moduli globali - Documenti Marketo - Documentazione del prodotto
 title: Regole di convalida globali dei moduli
-hide: true
-hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
