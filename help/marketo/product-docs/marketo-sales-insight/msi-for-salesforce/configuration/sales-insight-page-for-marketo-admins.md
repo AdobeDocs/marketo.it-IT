@@ -1,19 +1,18 @@
 ---
 unique-page-id: 42762409
-description: Pagina Informazioni sulle vendite per gli amministratori di Marketo - Documenti Marketo - Documentazione del prodotto
-title: Pagina Approfondimenti vendite per gli amministratori di Marketo
-translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+description: Pagina Approfondimenti vendite per amministratori Marketo - Documentazione Marketo - Documentazione del prodotto
+title: Pagina Approfondimenti vendite per gli amministratori Marketo
+exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
 
+# Pagina Approfondimenti vendite per gli amministratori Marketo {#sales-insight-page-for-marketo-admins}
 
-# Pagina Informazioni sulle vendite per gli amministratori di Marketo {#sales-insight-page-for-marketo-admins}
-
-Gli amministratori di Marketo dispongono di alcuni privilegi in Sales Insight. Scopri cosa sono sotto.
+Gli amministratori di Marketo dispongono di determinati privilegi in Sales Insight. Scopri cosa sono sotto.
 
 ## Configurazione API Soap {#soap-api-configuration}
 
@@ -21,24 +20,20 @@ Queste credenziali vengono utilizzate per collegare il tuo account Salesforce al
 
 ![](assets/one-1.png)
 
-## Configurazione API di ripristino {#rest-api-configuration}
+## Configurazione dell’API Rest {#rest-api-configuration}
 
 Queste credenziali vengono utilizzate per collegare il tuo account Salesforce alla tua istanza Marketo, al fine di utilizzare il Dashboard di MSI Insights in Salesforce.
 
 ![](assets/two-1.png)
-
-È possibile scegliere di rimuovere le credenziali API Rest in SFDC e utilizzare solo le API Soap. Questo disattiverà il dashboard Approfondimenti
-
-![](assets/three-1.png)
 
 ## Impostazioni punteggio persona {#person-score-settings}
 
 * **Stelle**: Le stelle rappresentano il punteggio di lead totale rispetto ad altri lead.
 * **Fiamma**: Le fiamme rappresentano l&#39;urgenza - quanto è cambiato di recente il punteggio di un lead.
 
-Per impostazione predefinita, in Marketing Sales Insight viene utilizzato il campo Lead Score per calcolare le stelle e le fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
+Per impostazione predefinita, Marketo Sales Insight utilizza il campo Lead Score per calcolare le stelle e le fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
-1. Nell&#39;area **Amministratore** di Marketo, fare clic su **Informazioni sulle vendite**.
+1. In **Amministratore** area di Marketo, fai clic su **Approfondimenti vendite**.
 
    ![](assets/four.png)
 
@@ -54,13 +49,13 @@ Per impostazione predefinita, in Marketing Sales Insight viene utilizzato il cam
 
    ![](assets/seven.png)
 
-1. Fare clic su **Salva**. Le informazioni sulle vendite richiederanno un po&#39; di tempo per ricalcolare. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
+1. Fai clic su **Salva**. Le informazioni sulle vendite richiederanno un po&#39; di tempo per ricalcolare. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Se non disponi già dei campi di valutazione personalizzati, scopri come [crearli](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Se non disponi già dei campi di valutazione personalizzati, ecco come [crearle](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -89,7 +84,7 @@ Quando abilitato, gli utenti MSI possono visualizzare il proprio feed lead in un
 
 **Scadenza token:**
 
-La scadenza del token è controllata in Feature Manager. Per attivarlo/disattivarlo, contatta il supporto di [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Quando abilitato, tutti i token Marketo scadono entro 10 minuti. Se disabilitata, i token Marketo non scadranno.
+La scadenza del token è controllata in Feature Manager. Per attivarlo/disattivarlo, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Quando abilitato, tutti i token Marketo scadono entro 10 minuti. Se disabilitata, i token Marketo non scadranno.
 
 I token generati prima dell’abilitazione della scadenza del token non avranno un tempo di scadenza per la convalida, pertanto non scadranno anche se la funzione è attualmente abilitata.
 

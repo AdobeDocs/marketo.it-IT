@@ -5,7 +5,7 @@ title: Scegliere un'azione in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -27,27 +27,28 @@ Le azioni seguenti sono disponibili dal menu a discesa Approfondimenti vendite i
 * Pulsante Layout lead : Azione singola e non può essere controllata dal profilo utente
 * Pulsante Layout contatto: Azione singola e non può essere controllata dal profilo utente
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **Layout di pagina con azione di gruppo**
 
-Pannello Layout account: Azione di gruppo e può essere controllata dal pannello Layout opportunità del profilo utente: Azione di gruppo e può essere controllata dal profilo utente
+* Pannello Layout account: Azione di gruppo e può essere controllata dal profilo utente
+* Pannello Layout Opportunità: Azione di gruppo e può essere controllata dal profilo utente
 
-![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **Scheda Best et**
 
 * Scheda Azioni In Blocco Best Bets: Azione di gruppo e può essere controllata dal profilo utente
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-3.png)
 
 * Scheda Azioni in linea di best practice: Azione singola e può essere controllata dal profilo utente
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **Visualizzazione a elenco con azione collettiva**
 
 * Vista a elenco lead: Azione in blocco e non può essere controllata dal profilo utente
 * Visualizzazione elenco contatti: Azione in blocco e non può essere controllata dal profilo utente
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-5.png)
