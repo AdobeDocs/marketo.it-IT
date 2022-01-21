@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: Panoramica delle funzioni del dashboard di approfondimenti - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della funzione del dashboard di Insights
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Ulteriori informazioni sulle funzioni disponibili nel dashboard Informazioni sul
 >
 >È necessario disporre dell&#39;ultimo pacchetto MSI SFDC e [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Layout dei contatti {#contact-layout}
 
@@ -48,7 +48,7 @@ Scheda Campagne e-mail:
 * La scheda dei dettagli dell’attività in questa sezione dispone di un’opzione di anteprima. Se il flusso include più passaggi e-mail di invio, tutte le e-mail saranno disponibili per l’anteprima. Nel passaggio di invio del flusso e-mail, se sono presenti più &quot;scelte e-mail&quot;, l’opzione predefinita sarà disponibile per l’anteprima
 * I filtri includono &quot;Search&quot; e &quot;Date Range&quot;
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Scheda Evento:
 
@@ -59,7 +59,7 @@ Scheda Evento:
 * La scheda dei dettagli dell’attività in questa sezione presenta l’opzione di anteprima
 * Il filtro include &quot;Ricerca&quot;, &quot;Mostra solo eventi invitati&quot; e &quot;Intervallo date&quot;
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Layout lead {#lead-layout}
 
@@ -72,7 +72,7 @@ Scheda Evento:
 
 **Drill down e riepilogo del coinvolgimento**
 
-* Schede di attività drill-down per Momenti interessanti, e-mail e attività web
+* Schede di attività drill-down per momenti interessanti, e-mail e attività web
 * Scheda attività Momenti interessanti : include l’opzione di abbonamento
 * Scheda Attività e-mail - Opzione Anteprima
 * Scheda Attività web : consente di fare clic sul collegamento
@@ -89,7 +89,7 @@ Scheda Campagne e-mail:
 * La scheda dei dettagli dell’attività in questa sezione dispone di un’opzione di anteprima. Se il flusso include più passaggi e-mail di invio, tutte le e-mail saranno disponibili per l’anteprima. Nel passaggio di invio del flusso e-mail, se sono presenti più &quot;scelte e-mail&quot;, l’opzione predefinita sarà disponibile per l’anteprima
 * I filtri includono &quot;Search&quot; e &quot;Date Range&quot;
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Scheda Evento:
 
@@ -100,7 +100,7 @@ Scheda Evento:
 * La scheda dei dettagli dell’attività in questa sezione presenta l’opzione di anteprima
 * Il filtro include &quot;Ricerca&quot;, &quot;Mostra solo eventi invitati&quot; e &quot;Intervallo date&quot;
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Layout account {#account-layout}
 
