@@ -4,9 +4,9 @@ title: Regole di convalida globali dei moduli
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -68,3 +68,7 @@ Prima di poter utilizzare questa funzione, è necessario abilitarne l’autorizz
 1. Denomina la regola, forniscila una descrizione facoltativa e inserisci il messaggio di errore che desideri venga visualizzato dai visitatori del modulo. Immetti i domini che desideri bloccati nella casella delle regole, seleziona **Attiva regola** e fai clic su **Crea**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>Il Marketo Engage offre un inserire nell&#39;elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola di &quot; del dominio e-mail consumatore&quot; precaricata. [Visualizza l&#39;elenco](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
