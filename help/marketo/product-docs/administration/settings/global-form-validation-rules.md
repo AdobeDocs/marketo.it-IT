@@ -4,7 +4,7 @@ title: Regole di convalida globali dei moduli
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
+source-git-commit: dcec5ef3856706d770a68228ae2b4c17cc47dfc0
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -71,4 +71,4 @@ Prima di poter utilizzare questa funzione, è necessario abilitarne l’autorizz
 
 >[!NOTE]
 >
->Il Marketo Engage offre un inserire nell&#39;elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola di &quot; del dominio e-mail consumatore&quot; precaricata. [Visualizza l&#39;elenco](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Il Marketo Engage dispone di un inserire nell&#39;elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola di Inserire nell&#39;elenco Bloccati &quot; del dominio e-mail consumatore&quot; precaricata. [Visualizza l&#39;elenco](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
