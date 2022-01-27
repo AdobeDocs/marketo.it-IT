@@ -4,9 +4,9 @@ title: Configurare la personalizzazione dei dettagli dell’attività Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 La personalizzazione dei dettagli dell&#39;attività consente agli amministratori di configurare le informazioni che verranno registrate nel campo Attività Salesforce - Oggetto, quando un&#39;attività/attività promemoria di Sales Connect viene sincronizzata in Salesforce.
+
+>[!NOTE]
+>
+>Gli aggiornamenti apportati al campo dell&#39;oggetto in Sales Connect di un&#39;attività promemoria verranno visualizzati nel campo dell&#39;oggetto dell&#39;attività Salesforce corrispondente, se si utilizza l&#39;oggetto `{{activity_subject}}` campo dinamico nella personalizzazione dei dettagli dell&#39;attività.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ La funzione può essere utilizzata per sbloccare i seguenti vantaggi:
 * Gli amministratori possono assegnare un tag al campo oggetto con un identificatore univoco, ad esempio &quot;Mkto_sales&quot;, in modo che le attività di Sales Connect possano essere facilmente identificate e differenziate da altre attività e-mail, attività di chiamata e attività.
 * Riduci la necessità di campi di attività personalizzati. Salesforce impone dei limiti al numero di campi di attività personalizzati, che possono limitare i dati disponibili da utilizzare nei rapporti. Utilizzando i campi dinamici dell’attività per aggiungere dati chiave alla riga dell’oggetto, puoi ridurre il numero di campi di attività personalizzati da creare nell’istanza Salesforce.
 * Il campo oggetto delle attività e delle attività seguirà un pattern coerente definito dall’amministratore di Sales Connect.
+
+>[!NOTE]
+>
+>Se registri le risposte e-mail come attività a Salesforce, queste non utilizzeranno le impostazioni di Personalizzazione dettagli attività di Salesforce. Invece, registreranno come &quot;Risposta: Oggetto e-mail.&quot;
 
 ## Campi dinamici dell’attività supportati {#activity-dynamic-fields-supported}
 

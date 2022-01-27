@@ -4,9 +4,9 @@ title: Sincronizzazione attività promemoria con Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -79,3 +79,7 @@ Ecco cosa succede quando si sincronizzano le attività di Sales Connect e SFDC:
 Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Sales Connect verranno sincronizzate nell&#39;elenco delle attività in Salesforce. E qualsiasi cosa creata, modificata, completata o eliminata in Salesforce aggiornerà l&#39;elenco delle attività in Sales Connect.
 
 Per attivare questa sincronizzazione, controlla la casella di sincronizzazione nel tuo [Pagina Impostazioni](https://toutapp.com/login) nell&#39;applicazione web.
+
+>[!NOTE]
+>
+>Il campo oggetto di un&#39;attività può essere aggiornato in Sales Connect e tale aggiornamento verrà sincronizzato nel campo Oggetto Salesforce per l&#39;attività sincronizzata corrispondente, se si utilizza il `{{activity_subject}}` campo dinamico nel [Personalizzazione dei dettagli dell&#39;attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) impostazioni. Al contrario, eventuali aggiornamenti apportati al campo oggetto in Salesforce _not_ eseguire la sincronizzazione con il campo oggetto attività promemoria di Sales Connect.
