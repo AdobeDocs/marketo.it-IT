@@ -4,7 +4,7 @@ title: Segnala i motivi delle chiamate e i risultati delle chiamate a Salesforce
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Per utilizzare questi campi, devi innanzitutto creare il campo come campo di att
 
 ### Crea campo attività personalizzato in Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fai clic su **Configurazione**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -70,7 +70,7 @@ Per utilizzare questi campi, devi innanzitutto creare il campo come campo di att
 >
 >Sarà necessario seguire questi passaggi solo se non hai selezionato il layout di pagina desiderato nel passaggio 9 precedente.
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fai clic su **Configurazione**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -110,11 +110,11 @@ Per utilizzare questi campi, devi innanzitutto creare il campo come campo di att
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Fai clic sul pulsante **Attività** etichetta.
+1. Fai clic sul pulsante **Attività** etichetta.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Fai clic su **Campi e correlazioni**.
+1. Fai clic su **Campi e correlazioni**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
