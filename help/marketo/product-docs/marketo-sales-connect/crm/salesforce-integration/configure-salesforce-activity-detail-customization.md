@@ -4,9 +4,9 @@ title: Configurare la personalizzazione dei dettagli dell’attività Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -102,25 +102,39 @@ Durante la configurazione dei dettagli dell’attività, considera quali dati sa
 
 1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. Fai clic su **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. Fai clic su **Impostazioni di sincronizzazione**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. Nell’editor di personalizzazione Dettagli attività aggiungi eventuale testo libero desiderato, questo rimarrà invariato per il campo oggetto di tutte le attività sincronizzate con Salesforce.
+1. Nell’editor di personalizzazione dei dettagli dell’attività, aggiungi eventuale testo libero desiderato. Il testo aggiunto non è dinamico e rimarrà invariato per il campo oggetto di tutte le attività sincronizzate con Salesforce.
 
-1. Aggiungi i campi dinamici da aggiungere facendo clic sul pulsante del campo dinamico e selezionando i campi dinamici che desideri utilizzare dall’elenco.
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >Anche se non obbligatorio, il wrapping di testo aggiunto tra parentesi graffe può facilitare la discernimento tra i dati quando vengono compilati in un campo oggetto in Salesforce. Esempio: `[Sales Connect] - {{Activity_type}}`
+
+1. Aggiungi eventuali campi dinamici aggiuntivi desiderati facendo clic sul pulsante **Aggiungi campo dinamico** pulsante .
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. Seleziona i campi dinamici desiderati.
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. Fai clic su **Salva**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce applica un limite di 255 caratteri. Se i dettagli dell’attività superano tale limite, verranno troncati per garantire che le informazioni possano essere memorizzate nel campo oggetto Salesforce.
+>Salesforce applica un limite di 255 caratteri. Se i dettagli dell’attività superano tale limite, verranno troncati per assicurarsi che le informazioni vengano memorizzate nel campo oggetto Salesforce.
 
 >[!MORELIKETHIS]
 >
