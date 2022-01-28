@@ -1,12 +1,10 @@
 ---
 description: Sincronizzazione attività promemoria con Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione attività promemoria con Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
