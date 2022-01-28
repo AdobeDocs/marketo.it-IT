@@ -2,17 +2,20 @@
 description: Accedere utilizzando OAuth 2.0 - Documenti Marketo - Documentazione del prodotto
 title: Accedere utilizzando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
-# Accedi utilizzando OAuth 2.0 {#log-in-using-oauth-2-0}
+# Accedere utilizzando OAuth 2.0 {#log-in-using-oauth-2-0}
 
 Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applicazioni di accedere in modo sicuro (autenticare l’applicazione utilizzando OAuth 2.0) ai dati senza dover rivelare le credenziali di accesso. Di seguito sono riportati i passaggi da eseguire per collegare e sincronizzare Marketo in modo sicuro con Salesforce.
+
+>[!IMPORTANT]
+>
+>Per collegare Marketo e Salesforce utilizzando OAuth, accedi a Marketo tramite browser privato (in incognito) in modo da evitare di connettersi a Salesforce con il nome utente errato.
 
 ## Configurazione app connessa {#set-up-connected-app}
 
@@ -24,15 +27,15 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 
    ![](assets/setting-up-oauth-2-2.png)
 
-1. Fai clic sulla casella di controllo **Abilita impostazioni OAuth** . Per URL di callback, immetti `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Seleziona tutti gli ambiti OAuth disponibili e fai clic su **Aggiungi**.
+1. Fai clic sul pulsante **Abilita impostazioni OAuth** casella di controllo. Per URL di callback, immetti `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Seleziona tutti gli ambiti OAuth disponibili e fai clic su **Aggiungi**.
 
    ![](assets/setting-up-oauth-2-3.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/setting-up-oauth-2-4.png)
 
-1. Fare clic su **Continua**.
+1. Fai clic su **Continua**.
 
    ![](assets/setting-up-oauth-2-5.png)
 
@@ -57,23 +60,23 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 
 >[!CAUTION]
 >
->Prima di fare clic su **Campi di sincronizzazione**, nascondi dall&#39;utente tutti i campi di cui non hai bisogno in Marketo. Dopo aver fatto clic su Campi di sincronizzazione, tutti i campi che l’utente può visualizzare in SFDC verranno creati in Marketo in modo permanente e non possono essere eliminati.
+>Prima di fare clic su , nascondi dall’utente di sincronizzazione tutti i campi di cui non hai bisogno in Marketo **Campi di sincronizzazione**. Dopo aver fatto clic su Campi di sincronizzazione, tutti i campi che l’utente può visualizzare in SFDC verranno creati in Marketo in modo permanente e non possono essere eliminati.
 
-1. Nella sezione Marketo Admin, fai clic su **CRM**, quindi su **Sincronizza con Salesforce**.
+1. Nella sezione Marketo Admin, fai clic su **CRM**, quindi **Sincronizzazione con Salesforce**.
 
    ![](assets/setting-up-oauth-2-7.png)
 
-1. Aggiungi la chiave del consumatore e le informazioni del segreto di consumo registrate in precedenza e fai clic su e **Salva**.
+1. Aggiungi la chiave del consumatore e le informazioni del segreto del consumatore registrate in precedenza e fai clic su e **Salva**.
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. Nella pagina di sincronizzazione di Marketo Salesforce, fai clic sul pulsante **Accedi con Salesforce** .
+1. Nella pagina di sincronizzazione di Marketo Salesforce, fai clic sul pulsante **Accedi con Salesforce** pulsante .
 
    ![](assets/setting-up-oauth-2-9.png)
 
    >[!CAUTION]
    >
-   >Se visualizzi i campi Nome utente/Password/Token e non il pulsante &quot;Accedi con Salesforce&quot;, la sottoscrizione Marketo è abilitata per l&#39;autenticazione di base. Fare riferimento a [Configurazione di Marketo con autenticazione di base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Una volta che la sincronizzazione inizia a utilizzare un set di credenziali, non vi è alcun cambiamento di credenziali Salesforce o sottoscrizione. Se desideri utilizzare Oauth 2.0, contatta il tuo Customer Success Manager.
+   >Se visualizzi i campi Nome utente/Password/Token e non il pulsante &quot;Accedi con Salesforce&quot;, la sottoscrizione Marketo è abilitata per l&#39;autenticazione di base. Fai riferimento a [Configurazione di Marketo con autenticazione di base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Una volta che la sincronizzazione inizia a utilizzare un set di credenziali, non vi è alcun cambiamento di credenziali Salesforce o sottoscrizione. Se desideri utilizzare Oauth 2.0, contatta il tuo Customer Success Manager.
 
 1. Verrà visualizzato un pop-up con la pagina di accesso di Salesforce. Immetti la chiave nelle tue credenziali &quot;Marketo Sync User&quot; e accedi.
 
@@ -83,11 +86,11 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 
    ![](assets/setting-up-oauth-2-11.png)
 
-1. Dopo la verifica, viene visualizzata la pagina di accesso che richiede l’accesso. Fare clic su **Consenti**.
+1. Dopo la verifica, viene visualizzata la pagina di accesso che richiede l’accesso. Fai clic su **Consenti**.
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. In pochi minuti verrà visualizzato un pop-up in Marketo. Fare clic su **Conferma credenziali**.
+1. In pochi minuti verrà visualizzato un pop-up in Marketo. Fai clic su **Conferma credenziali**.
 
    ![](assets/setting-up-oauth-2-13.png)
 
@@ -95,7 +98,7 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 
    ![](assets/setting-up-oauth-2-14.png)
 
-1. Fare clic su **Avvia sincronizzazione**.
+1. Fai clic su **Avvia sincronizzazione**.
 
    ![](assets/setting-up-oauth-2-15.png)
 
