@@ -2,9 +2,9 @@
 description: Configurare la personalizzazione dei dettagli dell’attività Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Configurare la personalizzazione dei dettagli dell’attività Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ La personalizzazione dei dettagli dell&#39;attività consente agli amministrator
 
 >[!NOTE]
 >
->Gli aggiornamenti apportati al campo dell&#39;oggetto in Sales Connect di un&#39;attività promemoria verranno visualizzati nel campo dell&#39;oggetto dell&#39;attività Salesforce corrispondente, se si utilizza l&#39;oggetto `{{activity_subject}}` campo dinamico nella personalizzazione dei dettagli dell&#39;attività.
+>* Gli aggiornamenti apportati al campo dell&#39;oggetto in Sales Connect di un&#39;attività promemoria verranno visualizzati nel campo dell&#39;oggetto dell&#39;attività Salesforce corrispondente, se si utilizza l&#39;oggetto `{{activity_subject}}` campo dinamico nella personalizzazione dei dettagli dell&#39;attività.
+>* Le interruzioni di riga non sono supportate quando si registrano le informazioni nel campo oggetto Salesforce. Eventuali interruzioni di riga nell&#39;editor Personalizzazione dettagli attività verranno rimosse quando viene aggiornato un soggetto dell&#39;attività di vendita.
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
