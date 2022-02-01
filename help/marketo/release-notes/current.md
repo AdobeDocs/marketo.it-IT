@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -40,9 +40,9 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **21 gennaio 2022**
 
 ## Amministrazione {#administration}
 
-* **Regole di convalida del modulo**: Mantenere lo stato del database con la possibilità di bloccare i domini e-mail problematici o indesiderati dall’invio dei moduli di Marketo Engage. Il pannello Regola di convalida globale del modulo consente agli amministratori di definire un inserire nell&#39;elenco Bloccati o di abilitare un elenco predefinito di domini consumer liberi per il blocco dai moduli.
+* **[Regole di convalida del modulo](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Mantenere lo stato del database con la possibilità di bloccare i domini e-mail problematici o indesiderati dall’invio dei moduli di Marketo Engage. Il pannello Regola di convalida globale del modulo consente agli amministratori di definire un inserire nell&#39;elenco Bloccati o di abilitare un elenco predefinito di domini consumer liberi per il blocco dai moduli.
 
-* **Sicurezza intestazione pagina di destinazione**: Gli amministratori possono gestire le intestazioni Strict Transport Security e X-Frame Options sui propri domini della pagina di destinazione per applicare requisiti di sicurezza elevati.
+* **[Sicurezza intestazione pagina di destinazione](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Gli amministratori possono gestire le intestazioni Strict Transport Security e X-Frame Options sui propri domini della pagina di destinazione per applicare requisiti di sicurezza elevati.
 
 **_Rilascio in tutto il trimestre_**
 
