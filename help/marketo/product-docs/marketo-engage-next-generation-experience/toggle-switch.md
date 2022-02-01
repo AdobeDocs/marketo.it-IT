@@ -2,9 +2,9 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ La visualizzazione a elenco Pagina di destinazione di prossima generazione offre
 La nuova esperienza verrà caricata.
 
 ![](assets/toggle-switch-4.png)
+
+## Pagina dei dettagli della pagina di destinazione {#landing-page-details-page}
+
+1. In Marketo, trova e seleziona la tua pagina di destinazione.
+
+   ![](assets/toggle-switch-5.png)
+
+1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
+
+   ![](assets/toggle-switch-6.png)
+
+La nuova esperienza verrà caricata.
+
+![](assets/toggle-switch-7.png)
 
 ## Pagina dei dettagli del modulo {#form-details-page}
 
