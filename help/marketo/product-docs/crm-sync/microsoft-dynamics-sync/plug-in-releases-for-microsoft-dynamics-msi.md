@@ -1,55 +1,54 @@
 ---
 unique-page-id: 10099102
-description: Versioni dei plug-in per Microsoft Dynamics MSI - Documenti Marketo - Documentazione del prodotto
-title: Versioni dei plug-in per Microsoft Dynamics MSI
+description: Plug-In Releases for Microsoft Dynamics MSI - Marketo Docs - Product Documentation
+title: Plug-In Releases for Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 4%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
-# Versioni dei plug-in per Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Plug-In Releases for Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica e installa la versione più recente dei plug-in per Marketo Sales Insight (MSI). Marketo aggiorna periodicamente questi plug-in, in modo da poter tornare alla stessa posizione in cui scaricare la nuova versione.
+When you first sync to Microsoft Dynamics, you download and install the latest version of the plug-ins for Marketo Sales Insight (MSI). Periodically, Marketo updates these plug-ins, so you can return to the same place to download the new version.
 
-Scarica l’ultimo plug-in ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) corrispondente alla versione di Dynamics.[
+[](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
 
 >[!NOTE]
 >
->Queste versioni funzionano sia per le versioni on-premise che online di Dynamics.
+>These versions work for both on-premise and online versions of Dynamics.
 
-## Aggiornamento della soluzione MSI {#upgrading-your-msi-solution}
+## Upgrading your MSI Solution {#upgrading-your-msi-solution}
 
-1. Importa la versione più recente della soluzione _sulla versione esistente_ di Dynamics CRM premendo il pulsante **Importa** in Dynamics.
+1. __****
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Esempio: se Dynamics CRM dispone della versione 2.0.0.20 e la versione più recente è 2.0.0.21, importerai _oltre_ versione 2.0.0.20.
+>__
 
-1. Fare clic su **Avanti**.
+1. ****
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Seleziona **Stage per l&#39;aggiornamento** e **Gestisci personalizzazioni**, quindi fai clic su **Importa**.
+1. ************
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Fare clic su **Avanti**.
+1. ****
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. Dopo un&#39;importazione di successo vedrete due soluzioni MSI: MarketoSalesInsight e MarketoSalesInsight_Upgrade. Selezionare la soluzione precedente e fare clic su Applica aggiornamento soluzione.
+1. After a successful import you&#39;ll see two MSI solutions: MarketoSalesInsight and MarketoSalesInsight_Upgrade. Select the older solution and click Apply Solution Upgrade.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-Ed è tutto! Dopo l&#39;aggiornamento verrà visualizzata una sola soluzione MSI.
+And that&#39;s it! After the upgrade you will only see one MSI Solution.
 
-## Aggiornamenti della versione {#version-updates}
+## Version Updates {#version-updates}
 
 <table> 
  <colgroup> 
@@ -59,39 +58,59 @@ Ed è tutto! Dopo l&#39;aggiornamento verrà visualizzata una sola soluzione MSI
  </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Data di rilascio</th> 
-   <th colspan="1">Versione</th> 
-   <th colspan="1">Note</th> 
+   <th colspan="1">Release Date</th> 
+   <th colspan="1">Version</th> 
+   <th colspan="1">Notes</th> 
   </tr> 
   <tr> 
-   <td colspan="1">01/10/20</td> 
+   <td colspan="1">02/03/22</td> 
+   <td colspan="1">2.0.0.27</td> 
+   <td colspan="1">Account Layout for Insights: Interesting Moments, Score changes, Web activities, Email activities</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">01/05/22</td> 
+   <td colspan="1">2.0.0.26</td> 
+   <td colspan="1">Program Adoption Score for Send Email</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/28/21</td> 
+   <td colspan="1">2.0.0.25</td> 
+   <td colspan="1">Product Adoption Score Metrics, new Global Dashboard (Web Activity, Email, Best Bets)</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">02/10/21</td> 
+   <td colspan="1">2.0.0.22</td> 
+   <td colspan="1">Remove Auto audit enabled and documentation changes on MSI solution</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">Correzione bug: Assegnazione dell'accesso ai campi di configurazione dell'API MSI per gli utenti con il ruolo Insight vendite</td> 
+   <td colspan="1">Bug Fix: Assigning access to MSI API config fields for users with Sales Insight role</td> 
   </tr> 
   <tr> 
-   <td colspan="1">20/07/20</td> 
+   <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Correzione bug: Aggiungere un messaggio di convalida per i record non sincronizzati</td> 
+   <td colspan="1">Bug fix: Add a validation message for non-synced records</td> 
   </tr> 
   <tr> 
-   <td colspan="1">12/06/20</td> 
+   <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Correzione bug: Per nascondere la password segreta MSI nella configurazione API MSD</td> 
+   <td colspan="1">Bug fix: To hide MSI Secret Password on MSD API Config</td> 
   </tr> 
   <tr> 
-   <td colspan="1">26/05/20</td> 
+   <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Correzione bug: Per modificare la convalida ID ruolo MSI per la visualizzazione dei pulsanti MSI</td> 
+   <td colspan="1">Bug fix: To change MSI role ID validation for displaying MSI buttons</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21/05/20</td> 
+   <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">Correzione bug: Mostra campo proprietario e rende i campi non obbligatori</td> 
+   <td colspan="1">Bug fix: Unhide owner field and making fields non-mandatory</td> 
   </tr> 
   <tr> 
-   <td colspan="1">28/04/20</td> 
+   <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Correzione bug: Rimozione della dipendenza dal collegamento di impostazione del sito CRM MSD in corso</td> 
+   <td colspan="1">Bug fix: Removing MSD CRM sitemap setting link dependency</td> 
   </tr> 
  </tbody> 
 </table>
