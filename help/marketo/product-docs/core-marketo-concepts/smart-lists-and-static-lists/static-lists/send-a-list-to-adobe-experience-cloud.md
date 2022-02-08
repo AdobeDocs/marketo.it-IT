@@ -3,102 +3,91 @@ unique-page-id: 37356194
 description: Inviare un elenco a Adobe Experience Cloud - Documentazione Marketo - Documentazione del prodotto
 title: Inviare un elenco a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
+source-git-commit: a82a2dd0a9c3a27b9b6bf3b352cd81d59932a31b
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
 
-# Invia un elenco a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
+# Inviare un elenco a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
 >Impossibile utilizzare questa funzionalità in una distribuzione HIPAA di un&#39;istanza Marketo.
 
 >[!PREREQUISITES]
-[Configurare la condivisione del pubblico di Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)>
 >
+>[Configurare la condivisione del pubblico di Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Applicazioni di destinazione supportate {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics (**solo** se possiedi una licenza Adobe Audience Manager)
+* Adobe Analytics (**only** se possiedi una licenza Adobe Audience Manager)
 * Adobe Audience Manager
 * Adobe Experience Manager
-* Adobe Real-Time Customer Data Platform
+* Adobe Real-time Customer Data Platform
 * Adobe Target
 
 ## Come inviare un elenco statico {#how-to-send-a-static-list}
 
 Una lista statica è solo quella, statica. L’elenco in Adobe Experience Cloud non verrà modificato se non manualmente.
 
-1. In Marketo, trova e seleziona l’elenco da esportare.
+1. In Marketo, trova l’elenco da esportare. Fai clic con il pulsante destro del mouse su di esso e seleziona **Invia ad Experience Cloud**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Fai clic sull&#39;elenco a discesa **Azioni elenco** e seleziona **Invia ad Experience Cloud**.
+1. Fai clic sul pulsante **Cartella Audience Manager** e seleziona la cartella di destinazione desiderata nell’Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. Fai clic sull&#39;elenco a discesa **Cartella Audience Manager** e seleziona la cartella di destinazione desiderata nell&#39;Experience Cloud.
+1. Scegli se creare un nuovo pubblico o sovrascriverne uno esistente (in questo esempio ne stiamo creando uno nuovo). Inserisci il nuovo nome del pubblico e fai clic su **Invia**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. Scegli se creare un nuovo pubblico o sovrascriverne uno esistente (in questo esempio ne stiamo creando uno nuovo). Inserisci il nuovo nome del pubblico e fai clic su **Invia**.
+1. Fai clic su **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
-1. Fare clic su **OK**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
-
    >[!NOTE]
-   L&#39;iscrizione al pubblico può richiedere fino a 6-8 ore per essere completata in Adobe.
+   >
+   >L&#39;iscrizione al pubblico può richiedere fino a 6-8 ore per essere completata in Adobe.
 
 ## Come inviare un elenco sincronizzato {#how-to-send-a-synced-list}
 
 La sincronizzazione di un elenco significa che ogni volta che aggiorni un elenco in Marketo, tale modifica si sincronizza automaticamente con il relativo pubblico in Adobe Experience Cloud.
 
-1. In Marketo, trova e seleziona l’elenco da sincronizzare.
+1. In Marketo, trova l’elenco da esportare. Fai clic con il pulsante destro del mouse su di esso e seleziona **Invia ad Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
+
+1. Fai clic sul pulsante **Cartella Libreria Pubblico** e seleziona la cartella di destinazione desiderata nell’Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. Fai clic sull&#39;elenco a discesa **Azioni elenco** e seleziona **Invia ad Experience Cloud**.
+1. Scegli se creare un nuovo pubblico o sovrascriverne uno esistente (in questo esempio ne stiamo creando uno nuovo). Immetti il nuovo nome del pubblico, seleziona il **Mantieni iscrizione pubblico in sincronia** e fai clic su **Invia**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Fai clic sull&#39;elenco a discesa **Cartella libreria Pubblico** e seleziona la cartella di destinazione desiderata nell&#39;Experience Cloud.
+1. Fai clic su **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
-
-1. Scegli se creare un nuovo pubblico o sovrascriverne uno esistente (in questo esempio ne stiamo creando uno nuovo). Inserisci il nuovo nome del pubblico, seleziona la casella **Mantieni iscrizione pubblico in sincronizzazione** e fai clic su **Invia**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
-
-1. Fare clic su **OK**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
 ## Come interrompere una sincronizzazione elenco {#how-to-stop-a-list-sync}
 
 È possibile impedire la sincronizzazione dell&#39;elenco in qualsiasi momento.
 
-1. In Marketo, trova e seleziona l’elenco di cui desideri interrompere la sincronizzazione.
+1. In Marketo, trova e fai clic con il pulsante destro del mouse sull’elenco di cui desideri interrompere la sincronizzazione. Fai clic su **Interrompi sincronizzazione elenco**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. Seleziona i tipi di pubblico che desideri interrompere la sincronizzazione e fai clic su **Interrompi**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+1. Fai clic su **Interrompi** per confermare.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
-
-1. Fai clic sull&#39;elenco a discesa **Azioni elenco** e seleziona **Interrompi sincronizzazione elenco**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
-
-1. Seleziona i tipi di pubblico per cui vuoi interrompere la sincronizzazione e fai clic su **Stop**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
-
-1. Fare clic su **Arresta** per confermare.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## Aspetti da considerare {#things-to-note}
 
@@ -122,9 +111,9 @@ Sotto il cofano, l&#39;integrazione del pubblico funziona sincronizzando i cooki
 
 **Come funziona la sincronizzazione dei cookie?**
 
-Quando la sincronizzazione dei cookie è abilitata per la tua iscrizione Marketo, Marketo’s munchkin.js tenterà di acquisire e memorizzare gli ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore del cookie Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi di ECID Adobi.
+Quando la sincronizzazione dei cookie è abilitata per la tua iscrizione Marketo, Marketo’s munchkin.js tenterà di acquisire e memorizzare gli ECID Adobi per l’organizzazione Adobe IMS specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore cookie Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi di ECID Adobi.
 
-È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato utilizzando un messaggio e-mail di testo normale. Esattamente come funziona è [descritto qui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato utilizzando un messaggio e-mail di testo normale. Esattamente come funziona [qui descritto](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **Quali informazioni sono condivise?**
 
