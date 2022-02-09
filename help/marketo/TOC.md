@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
+source-git-commit: 5df9b122cb340363a19a833b94d501cc5a766485
 workflow-type: tm+mt
-source-wordcount: '8275'
+source-wordcount: '8268'
 ht-degree: 0%
 
 ---
@@ -1284,21 +1284,19 @@ ht-degree: 0%
                + [Composizione di e-mail in blocco con Seleziona e Invia](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Invio di e-mail tramite e-mail di gruppo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Utilizzo di un modello nella finestra Componi](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Marketo {#marketo}
+            + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Persone {#people}
+            + [Visualizzazione dettagli persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Azioni di Insight sulle vendite e conformità al RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-         + Attività {#tasks}
-            + [Sincronizzazione attività promemoria con Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Configurazione Salesforce {#salesforce-configuration}
             + [Configurazione delle azioni MSI in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Disinstallare il pacchetto di personalizzazione Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Disinstallare il pacchetto di personalizzazione Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
-         + Marketo {#marketo}
-            + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-         + Persone {#people}
-         + [Visualizzazione dettagli persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-         + [Azioni di Insight sulle vendite e conformità al RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
             + [Panoramica sul tracciamento e-mail](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + Attività {#tasks}
+            + [Sincronizzazione attività promemoria con Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Modelli {#templates}
             + [Gestire i modelli](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Gestire le categorie di modelli](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
