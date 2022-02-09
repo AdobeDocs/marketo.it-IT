@@ -4,9 +4,9 @@ title: Impostazioni di sincronizzazione Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Questa funzionalità richiede l’utilizzo dell’edizione Enterprise/Unlimited 
 
 >[!PREREQUISITES]
 >
->È necessario collegare Salesforce e Marketo Sales.
+>È necessario collegare le azioni Salesforce e Sales Insight.
 
-1. In Vendite Marketo, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Azioni Approfondimenti vendite, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ Una volta attivato &quot;Email to Salesforce (CCN)&quot;, riceverai un CCN delle
 
 >[!PREREQUISITES]
 >
->È necessario collegare Salesforce e Marketo Sales.
+>È necessario collegare le azioni Salesforce e Sales Insight.
 
 **Per registrare le e-mail in Salesforce tramite E-mail (CCN)**
 
@@ -93,9 +93,9 @@ Se in Impostazioni non trovi My Email to Salesforce , il tuo amministratore potr
 1. Seleziona la casella accanto a &quot;Attivo&quot;.
 1. Fai clic su **Salva**.
 
-## Sincronizza le attività di vendita/promemoria di Marketo con le attività di Salesforce {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Sincronizza le azioni Approfondimenti vendite Attività/Promemoria alle attività Salesforce {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. In Vendite Marketo, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Azioni Approfondimenti vendite, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/salesforce-sync-settings-10.png)
 

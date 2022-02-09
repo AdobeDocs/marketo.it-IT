@@ -3,9 +3,9 @@ description: Visualizzazione dettagli persona - Documenti Marketo - Documentazio
 title: Visualizzazione dettagli persona
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ La visualizzazione dettagli persona fornisce un profilo dettagliato di ogni pers
 
 1. Per accedere alla visualizzazione dettagli persona, fai clic sul pulsante **Persone** scheda .
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. Seleziona la persona desiderata.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->Praticamente ovunque si veda il nome di una persona, è possibile cliccarlo e arrivare alla loro visualizzazione dettagli persona.
+   >[!TIP]
+   >
+   >Praticamente ovunque si veda il nome di una persona, è possibile cliccarlo e arrivare alla loro visualizzazione dettagli persona.
 
 ## Scheda Informazioni {#about-tab}
 
 Include tutte le informazioni di contatto della persona.
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **Scheda contatto**
 
