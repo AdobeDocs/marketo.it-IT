@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
 workflow-type: tm+mt
-source-wordcount: '8257'
+source-wordcount: '8275'
 ht-degree: 0%
 
 ---
@@ -32,15 +32,15 @@ ht-degree: 0%
       + [Importare un elenco di persone](getting-started/quick-wins/import-a-list-of-people.md)
       + [Asciugatura, Asciugatura, Alimentazione](getting-started/quick-wins/drip-drip-nurture.md)
       + [Personalizzare un’e-mail](getting-started/quick-wins/personalize-an-email.md)
-      + [Alert the Sales Rep](getting-started/quick-wins/alert-the-sales-rep.md)
+      + [Avvisare il rappresentante commerciale](getting-started/quick-wins/alert-the-sales-rep.md)
       + [Aggiorna dati persona](getting-started/quick-wins/update-person-data.md)
       + [Reindirizzare una pagina di destinazione](getting-started/quick-wins/redirect-a-landing-page.md)
-      + [Automate an Alert for Possible Duplicate People](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
+      + [Automatizzare un avviso per le persone duplicate possibili](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Ereditazione di un’istanza di Marketo {#inheriting-a-marketo-instance}
-      + [Aiuto! I&#39;ve Inherited an Existing Marketo Instance](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Aiuto! Ho ereditato un&#39;istanza di Marketo esistente](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Elementi da disattivare](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Aspetti da esaminare: Competenze di base](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-      + [Ways to Get Help](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
+      + [Come ottenere aiuto](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Documentazione del prodotto {#product-docs}
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
@@ -210,23 +210,23 @@ ht-degree: 0%
          + [Creare un ruolo utente solo API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Creare un utente solo API](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Creare, eliminare, modificare e modificare un ruolo utente](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [Email Verification](product-docs/administration/users-and-roles/email-verification.md)
+         + [Verifica e-mail](product-docs/administration/users-and-roles/email-verification.md)
          + [Abilitare l’autorizzazione all’importazione di elenchi avanzati per un ruolo](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Esportare un elenco di utenti e ruoli](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gestione degli utenti Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gestione di ruoli e autorizzazioni utente](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Export Roles and Permissions](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Esportare ruoli e autorizzazioni](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrizioni delle autorizzazioni del ruolo](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Abilita nessuna bozza per snippet](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Aree di lavoro e partizioni di persone {#workspaces-and-person-partitions}
-         + [Understanding Workspaces and Person Partitions](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+         + [Informazioni su aree di lavoro e partizioni di persone](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [Consenti accesso utente a un&#39;area di lavoro](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [Assegnare partizioni di persona alle aree di lavoro](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
-         + [Assigning Person Partitions with Assignment Rules](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
-         + [Change the Name of a Workspace](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
-         + [Create a New Workspace](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+         + [Assegnazione di partizioni di persone con le regole di assegnazione](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
+         + [Modificare il nome di un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
+         + [Creare una nuova area di lavoro](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
          + [Creare una partizione di persona](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
-         + [Delete a Workspace](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
+         + [Eliminare un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
          + [Modificare un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Modificare una partizione di persona esistente](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Condivisione di segmenti tra aree di lavoro e partizioni](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
@@ -449,11 +449,11 @@ ht-degree: 0%
                + [Informazioni sulle schede del programma e-mail](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
                + [Informazioni sulle schede evento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
                + [Informazioni sulle schede di Smart Campaign](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
-            + Working with Moments {#working-with-moments}
-               + [Creating a Favorite](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+            + Utilizzo dei momenti {#working-with-moments}
+               + [Creazione di un preferito](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
                + [Download di momenti Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/downloading-marketo-moments.md)
                + [Marcatura eseguita](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-               + [Personalizing Marketo Moments](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
+               + [Personalizzazione dei momenti Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
                + [Anteprima di un messaggio e-mail](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [Invio di un esempio](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Condivisione di un momento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
@@ -697,16 +697,16 @@ ht-degree: 0%
             + [Aggiungere un’immagine a una pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [Aggiunta di un rettangolo a una pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
             + [Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
-            + [Create a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-            + [Customize Mobile View for Your Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-            + [Use Dynamic Content in a Free-form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
+            + [Creare una pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+            + [Personalizzare la visualizzazione mobile della pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
+            + [Utilizzare i contenuti dinamici in una pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
             + [Usa guide per la progettazione gratuita di una pagina di destinazione](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-guides-for-free-form-landing-page-design.md)
-         + Guided Landing Pages {#guided-landing-pages}
+         + Pagine di destinazione guidate {#guided-landing-pages}
             + [Aggiungere un modulo a una pagina di destinazione guidata](product-docs/demand-generation/landing-pages/guided-landing-pages/add-a-form-to-a-guided-landing-page.md)
             + [Aggiungere un’immagine a una pagina di destinazione guidata](product-docs/demand-generation/landing-pages/guided-landing-pages/add-an-image-to-a-guided-landing-page.md)
             + [Creare una pagina di destinazione guidata](product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
          + Azioni pagina di destinazione {#landing-page-actions}
-            + [Approve Multiple Landing Pages at Once](product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
+            + [Approvare più pagine di destinazione contemporaneamente](product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
             + [Modificare l’URL della pagina di destinazione](product-docs/demand-generation/landing-pages/landing-page-actions/change-the-landing-page-url.md)
             + [Clonazione di un gruppo di test per una pagina di destinazione](product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)
             + [Personalizzare gli URL della pagina di destinazione con un CNAME](product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
@@ -877,17 +877,17 @@ ht-degree: 0%
             + [Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico di LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Utilizzare le e-mail nelle promozioni social](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
             + [Utilizzare filtri e attivatori per moduli lead Gen LinkedIn in una campagna avanzata](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-            + [Use Promo Codes for Offer Fulfillment](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
-            + [View Social Performance](product-docs/demand-generation/social/social-functions/view-social-performance.md)
+            + [Utilizza i codici promozionali per la consegna delle offerte](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
+            + [Visualizza prestazioni social](product-docs/demand-generation/social/social-functions/view-social-performance.md)
          + Lotterie {#sweepstakes}
             + [Crea i tuoi Sweepstakes](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Personalizzare gli stili degli sweep](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [Publish a Sweepstakes](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
-            + [Select Sweepstakes Winners](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
+            + [Pubblicare una sweep](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [Selezionare i vincitori di Sweepstakes](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-mail marketing {#email-marketing}
       + Consegna {#deliverability}
-         + [Durable Unsubscribe](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
-         + [Email Deliverability Power Pack: How to Import a Seedlist](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
+         + [Annullamento durevole dell&#39;abbonamento](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
+         + [Power Pack di recapito messaggi e-mail: Come importare un elenco di sementi](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
          + [Strumento Email Deliverability](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [Rimbalzi rigidi e morbidi nell’e-mail](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [Imposta una firma DKIM personalizzata](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
@@ -1121,16 +1121,16 @@ ht-degree: 0%
          + Centro comandi {#command-center}
             + [Panoramica del centro comandi](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Panoramica della ricerca avanzata](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
-            + [Assigning Tasks to Team Members](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
+            + [Assegnazione delle attività ai membri del team](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
             + [Colonne e-mail e layout pagina e-mail](product-docs/marketo-sales-connect/email/command-center/email-columns-and-email-page-layout.md)
             + [Utilizzo di azioni rapide per velocizzare il flusso di lavoro](product-docs/marketo-sales-connect/email/command-center/using-quick-actions-to-speed-up-your-workflow.md)
-         + Common Tracking Questions {#common-tracking-questions}
+         + Domande comuni sul tracciamento {#common-tracking-questions}
             + [Come funziona il tracciamento delle risposte](product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
             + [Come impostare il tracciamento del dominio personalizzato](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-set-up-custom-domain-tracking.md)
             + [Come tenere traccia degli allegati e-mail](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)
             + [Come funziona il tracciamento delle viste](product-docs/marketo-sales-connect/email/common-tracking-questions/how-view-tracking-works.md)
             + [Impedire visualizzazioni automatiche](product-docs/marketo-sales-connect/email/common-tracking-questions/preventing-self-views.md)
-            + [Test Email Not Showed as Viewed](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
+            + [E-mail di test non visualizzata come visualizzata](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + Email Delivery {#email-delivery}
             + [Panoramica del canale di consegna](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
             + [Limitazione connessione e-mail](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
@@ -1258,6 +1258,7 @@ ht-degree: 0%
             + [Campaign è terminato](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Integrazione Salesforce {#salesforce-integration}
+               + [Configurare la personalizzazione dei dettagli dell’attività Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Collega il tuo account di vendita Marketo a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Impostazioni di sincronizzazione Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + E-mail {#email}
@@ -1283,6 +1284,10 @@ ht-degree: 0%
                + [Composizione di e-mail in blocco con Seleziona e Invia](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Invio di e-mail tramite e-mail di gruppo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Utilizzo di un modello nella finestra Componi](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Persone {#people}
+            + [Azioni di Insight sulle vendite e conformità al RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+         + Attività {#tasks}
+            + [Sincronizzazione attività promemoria con Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Configurazione Salesforce {#salesforce-configuration}
             + [Configurazione delle azioni MSI in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Disinstallare il pacchetto di personalizzazione Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1309,7 +1314,7 @@ ht-degree: 0%
             + Scheda Marketo {#marketo-tab}
                + [Impostazione delle visualizzazioni MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [Migliori offerte](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
-               + [Email Activities](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+               + [Attività e-mail](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [Attività Web](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + Installazione {#installing}
             + [Scarica la soluzione Marketo Sales Insight per Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
@@ -1560,7 +1565,7 @@ ht-degree: 0%
             + [Informazioni su Opportunity Influence Analyzer](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
             + [Configurare un analizzatore di influenza opportunità](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
             + [Creare un analizzatore di influenza opportunità](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
-            + [Export Opportunity Influence Analyzer Data](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
+            + [Esportare i dati di Analizzatore di influenza opportunità](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
             + [Comunicare la storia di marketing con Opportunity Influence Analyzer](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
          + Analisi del programma {#program-analytics}
             + [Panoramica della generazione di rapporti sui programmi avanzati](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
@@ -1789,12 +1794,12 @@ ht-degree: 0%
          + [Note sulla versione: Luglio 2015](release-notes/previous-releases/2015/release-notes-july-2015.md)
          + [Note sulla versione: Giugno 2015](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [Note sulla versione: Marzo 2015](release-notes/previous-releases/2015/release-notes-march-2015.md)
-         + [Release Notes: May 2015](release-notes/previous-releases/2015/release-notes-may-2015.md)
+         + [Note sulla versione: Maggio 2015](release-notes/previous-releases/2015/release-notes-may-2015.md)
       + 2014 {#2014}
          + [Note sulla versione: Agosto 2014](release-notes/previous-releases/2014/release-notes-august-2014.md)
          + [Note sulla versione: Dicembre 2014](release-notes/previous-releases/2014/release-notes-december-2014.md)
          + [Note sulla versione: Febbraio 2014](release-notes/previous-releases/2014/release-notes-february-2014.md)
-         + [Release Notes: January 2014](release-notes/previous-releases/2014/release-notes-january-2014.md)
+         + [Note sulla versione: Gennaio 2014](release-notes/previous-releases/2014/release-notes-january-2014.md)
          + [Note sulla versione: Luglio 2014](release-notes/previous-releases/2014/release-notes-july-2014.md)
          + [Note sulla versione: Giugno 2014](release-notes/previous-releases/2014/release-notes-june-2014.md)
          + [Note sulla versione: Marzo 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
