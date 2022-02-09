@@ -3,9 +3,9 @@ description: Azioni di Insight sulle vendite e conformità ai requisiti RGPD - D
 title: Azioni di Insight sulle vendite e conformità al RGPD
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
-source-wordcount: '1396'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ Le azioni di Insight sulle vendite consentono inoltre di aggiornare in massa i t
 
 Quando si seleziona uno o più contatti dalla pagina Persone, a destra viene visualizzato un punto (menu a tre punti). Fai clic su di esso e vedrai Autorizzazione e origine come opzioni. Puoi impostare l&#39;autorizzazione o l&#39;origine di più contatti contemporaneamente.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 Quando fai clic sulla finestra modale Autorizzazione, viene visualizzato un pop-up con opzioni a discesa corrispondenti a quelle presenti nella scheda Conformità.
 
