@@ -3,9 +3,10 @@ description: Guida per l’amministrazione delle azioni MSI - Documenti Marketo 
 title: Guida per l’amministrazione delle azioni MSI
 hide: true
 hidefromtoc: true
-source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
+exl-id: 339d518d-445b-4634-ab81-92c9d5541927
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Conferma con il tuo Customer Success Manager che le azioni MSI sono state abilitate per il tuo account Marketo (se non hai un CSM, ti preghiamo di [contattare il supporto](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Conferma con il tuo Customer Success Manager che le azioni MSI sono state abilitate per il tuo account Marketo (se non hai un CSM, ti preghiamo di [contattare il supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support)).
 >* È necessario configurare la sincronizzazione Marketo/Salesforce.
 
 
