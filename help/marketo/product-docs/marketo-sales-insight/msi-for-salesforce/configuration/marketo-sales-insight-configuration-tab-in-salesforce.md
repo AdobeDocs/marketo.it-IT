@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Scheda Configurazione Marketo Sales Insight in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Scheda di configurazione Marketo Sales Insight in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 La scelta di questo tipo di configurazione eliminerà tutte le configurazioni della DSC e non sarà possibile ripristinarle. Dovrai riconfigurare tutto.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
+>[!IMPORTANT]
+>
+>Non selezionare la casella di controllo &quot;Abilita azioni MSI&quot; a meno che non si utilizzino le funzioni Azioni Approfondimenti vendite.
 
 >[!MORELIKETHIS]
 >
