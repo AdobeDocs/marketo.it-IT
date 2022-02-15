@@ -4,9 +4,9 @@ title: Aggiungi o rimuovi un utente
 hide: true
 hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -43,15 +43,19 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >Utente **deve** essere aggiunto a un profilo di prodotto per ottenere l’accesso al Marketo Engage.
+
 1. Fai clic su **Salva**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-L’utente riceverà quindi un’e-mail per accedere a Marketo.
+L’utente riceverà quindi un messaggio e-mail per accedere al Marketo Engage.
 
 >[!NOTE]
 >
->Quando l’utente viene aggiunto al Marketo Engage tramite Adobe Admin Console, gli viene assegnato il ruolo &quot;Utente standard&quot; all’interno dell’area di lavoro Predefinita della sottoscrizione. Se è necessario modificare il ruolo dell’utente all’interno dell’area di lavoro, questo viene fatto in Marketo Engage, [come descritto qui](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Quando l’utente viene aggiunto al Marketo Engage tramite Adobe Admin Console, gli viene assegnato il ruolo &quot;Utente standard&quot; all’interno dell’area di lavoro Predefinita della sottoscrizione. Se è necessario modificare il ruolo dell’utente nell’area di lavoro, questo viene fatto in Marketo Engage, [come descritto qui](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Rimuovere un utente {#remove-a-user}
 
@@ -79,7 +83,7 @@ L’utente riceverà quindi un’e-mail per accedere a Marketo.
 
    ![](assets/add-or-remove-a-user-14.png)
 
-L’utente riceverà quindi un’e-mail di notifica per informarlo che non ha più accesso al Marketo Engage da parte dell’amministratore di prodotto.
+L’utente riceverà quindi un’e-mail con la notifica che non ha più accesso al Marketo Engage.
 
 >[!MORELIKETHIS]
 >
