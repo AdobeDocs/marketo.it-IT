@@ -4,9 +4,9 @@ title: Domande frequenti sulla sincronizzazione dei dati delle azioni
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1033'
 ht-degree: 0%
 
 ---
@@ -120,4 +120,5 @@ Il diagramma qui sopra mostra quali informazioni sono registrate su Salesforce. 
 >* [Controllo dell’annullamento dell’abbonamento a Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Impostazioni di sincronizzazione Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Sincronizzazione attività promemoria con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [Avvia sincronizzazione dati](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
 

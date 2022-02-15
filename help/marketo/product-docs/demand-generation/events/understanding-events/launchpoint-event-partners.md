@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2949777
-description: Partner evento LaunchPoint - Documenti Marketo - Documentazione prodotto
-title: Partner evento LaunchPoint
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Partner evento - Documentazione Marketo - Documentazione del prodotto
+title: Partner eventi
+exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '83'
 ht-degree: 1%
 
 ---
 
+# Partner eventi {#event-partners}
 
-# Partner evento LaunchPoint {#launchpoint-event-partners}
+Collega Marketo a un partner evento per automatizzare i tuoi eventi online. Quando le connetti, puoi:
 
-Connetti Marketo a un partner evento LaunchPoint per automatizzare gli eventi online. Quando le connetti, puoi:
-
-* Gestione degli eventi del webinar
-* Informazioni sulla registrazione push acquisite su una pagina di destinazione Marketo al partner evento LaunchPoint configurato
-* Estrarre automaticamente le informazioni di partecipazione in un evento Marketo
+* Gestire gli eventi del webinar
+* Informazioni di registrazione push acquisite in una pagina di destinazione Marketo al partner evento configurato
+* Recupera automaticamente le informazioni sulla frequenza in un evento Marketo
 * Acquisire lo stato delle persone come membri del programma
 
-Consulta le istruzioni sull’integrazione degli eventi Marketo online con il partner evento LaunchPoint:
+Vedi le istruzioni sull&#39;integrazione degli eventi Marketo online con il partner evento:
 
-* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-* [ Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
 * [ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-* [VaiAwebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
+* [Webinar GoTo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)

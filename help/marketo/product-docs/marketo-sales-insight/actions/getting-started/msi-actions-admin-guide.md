@@ -4,9 +4,9 @@ title: Guida per l’amministrazione delle azioni MSI
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -110,15 +110,17 @@ Se hai già effettuato l’accesso a Salesforce, verrai connesso. In caso contra
 
 ## Avvia sincronizzazione dati {#initiate-data-sync}
 
+La sincronizzazione del campo di unificazione dei dati per le azioni Approfondimenti vendite consente al sistema di estrarre le informazioni personali dal database del Marketo Engage nel database delle azioni Insight vendite, di mantenere i dati delle persone aggiornati e di garantire che le attività siano registrate nei record giusti in Marketo e Salesforce.
+
 1. In Marketo, fai clic su **Amministratore**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Fare clic su Insight vendite.
+1. Fai clic su **Approfondimenti vendite**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Fare clic sulla scheda Configurazione azioni. Nella scheda Sincronizzazione campo azione, fai clic su **Sincronizzazione**.
+1. Fai clic sul pulsante **Configurazione azioni** scheda . Nella scheda Sincronizzazione campo azione, fai clic su **Sincronizzazione**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Se hai già effettuato l’accesso a Salesforce, verrai connesso. In caso contra
    ![](assets/msi-actions-admin-guide-13.png)
 
 I record personali esistenti in Marketo e Salesforce verranno sincronizzati nel tuo account App vendite Marketo.
+
+>[!NOTE]
+>
+>Per saperne di più sulle modalità di sincronizzazione dei dati di persone e attività tra le azioni Approfondimenti vendite, Marketo e Salesforce, [fai clic qui](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Invitare singoli utenti alle azioni MSI {#invite-individual-users-to-msi-actions}
 
