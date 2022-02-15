@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: Informazioni sull’appartenenza al programma - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sull’appartenenza al programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    1. La persona avrà automaticamente il primo stato nella progressione.
 
 1. Utilizzi le [cambia lo stato del programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) passaggio di flusso.
-1. Una persona registra o partecipa a un [webinar sincronizzato con un programma evento](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. Una persona registra o partecipa a un [webinar sincronizzato con un programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. Una persona è [creato utilizzando l’applicazione di archiviazione Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Viene aggiunta una persona a una campagna SFDC, che è [sincronizzato al programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
