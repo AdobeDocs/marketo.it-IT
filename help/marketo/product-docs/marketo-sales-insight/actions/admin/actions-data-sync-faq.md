@@ -4,9 +4,9 @@ title: Domande frequenti sulla sincronizzazione dei dati delle azioni
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ I lead e i contatti a cui è stato assegnato un proprietario di vendita verranno
 
 Puoi verificare se un lead/contatto ha un proprietario di vendite in Salesforce guardando il campo proprietario standard esistente.
 
-Il proprietario della vendita non deve essere necessariamente l&#39;utente di sincronizzazione Marketo o qualsiasi utente di vendita o Salesforce specifico. Se un utente è presente nel campo proprietario standard, includeremo il lead/contatto da sincronizzare nelle azioni di vendita, nonché includerlo in eventuali aggiornamenti dei campi sincronizzati da apportare a tale lead.
+Il proprietario della vendita non deve essere necessariamente l&#39;utente di sincronizzazione Marketo o qualsiasi utente di vendita o Salesforce specifico. È sufficiente che un utente sia elencato nel campo proprietario lead e proprietario del contatto elencato in Salesforce, in modo da identificarlo come lead di vendita e sincronizzarlo nelle azioni Approfondimenti vendite. Eventuali aggiornamenti ai campi con cui ci sincronizziamo verranno inoltre rilevati e aggiornati in Azioni Approfondimenti vendite.
 
 ## Da dove vengono estratti i dati dell&#39;attività visualizzati nella griglia intelligente di Insight vendite? {#where-does-the-activity-data-get-sourced-from}
 
