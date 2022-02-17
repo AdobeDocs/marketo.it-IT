@@ -2,9 +2,9 @@
 description: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
 >[!PREREQUISITES]
 >
+>* [Modificare il ruolo API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) per assicurarsi che abbia **Persona di lettura-scrittura** (disponibile nel menu a discesa API di accesso ).
 >* [Creare un utente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Vai a **Amministratore** > **Punto di avvio**. Trova il nome del ruolo appena creato e fai clic su **Visualizza dettagli**. Copia e salva le informazioni in **ID client** e **Segreto client**, in quanto potrebbe essere necessario per il passaggio 7.
 >* In Marketo, crea un elenco statico oppure trova e seleziona quello già creato. Ti servirà il suo ID.
@@ -36,7 +37,7 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Trova il riquadro del Marketo Engage e fai clic su **Attiva segmenti**.
+1. Trova il riquadro del Marketo Engage e fai clic su **Attiva**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    >[!NOTE]
    >
-   >Se scegli più segmenti qui, dovrai mappare ogni segmento a un elenco statico specifico nella scheda Pianificazione segmento .
+   >Se scegli più segmenti, dovrai mappare ciascun segmento a un elenco statico specifico nella scheda Pianificazione segmento .
+
+   >[!IMPORTANT]
+   >
+   >Dopo che un segmento è stato attivato per la prima volta nella destinazione Marketo, può essere necessario eseguire il backfill dei profili che erano già presenti nel segmento prima dell’attivazione della destinazione Marketo **fino a 24 ore**. In futuro, qualsiasi profilo ora viene aggiunto al segmento, verrà aggiunto immediatamente a Marketo.
 
 1. Fai clic su **Aggiungi nuova mappatura**.
 
