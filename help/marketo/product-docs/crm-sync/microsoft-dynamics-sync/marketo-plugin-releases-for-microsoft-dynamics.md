@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099389
-description: Rilasci di plug-in Marketo per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
-title: Versioni plug-in di Marketo per Microsoft Dynamics
+description: Rilasci di plug-in Marketo per Microsoft Dynamics - Documenti Marketo - Documentazione del prodotto
+title: Rilasci di plug-in Marketo per Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 6%
 
 La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la versione più recente dei plug-in per Marketo. Marketo aggiorna periodicamente questi plug-in, in modo da poter tornare alla stessa posizione in cui scaricare la nuova versione.
 
-[Scarica il ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) plug-in più recente non conforme alla versione di Dynamics.
+[Scarica il plug-in più recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) corrispondente alla versione di Dynamics.
 
-![](assets/lead-management-solution.png)
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Aggiornamento della soluzione Dynamics {#updating-your-dynamics-solution}
 
-1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio: se la tua versione di Dynamics CRM è 1.4 e la versione più recente è 1.5, importeresti _over_ version 1.4).
+1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio: se Dynamics CRM dispone della versione 1.4 e la versione più recente è la 1.5, importerai _over_ versione 1.4).
 
 1. Verrà visualizzato il seguente pop-up. Seleziona **Aggiorna** e **Gestisci personalizzazioni**, quindi fai clic su **Importa**.
 
@@ -40,6 +40,11 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
    <th>Note</th> 
   </tr> 
   <tr> 
+   <td colspan="1">5.0.1.1</td> 
+   <td colspan="1">04/02/21</td> 
+   <td colspan="1">Supporto per la sincronizzazione dei campi Optionset multiselect (questa funzione è disponibile solo per V9.X e versioni successive). .</td> 
+  </tr> 
+  <tr> 
    <td colspan="1">4.2.0.0</td> 
    <td colspan="1">16/10/20</td> 
    <td colspan="1">È stato aggiunto il supporto per la sincronizzazione di Campaign con MS Dynamics.</td> 
@@ -47,7 +52,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
   <tr> 
    <td colspan="1">4.0.0.24</td> 
    <td colspan="1">22/08/18</td> 
-   <td colspan="1">È stato aggiunto il supporto per i processi di contatto predefiniti per Microsoft Dynamics versione 9.x.</td> 
+   <td colspan="1">È stato aggiunto il supporto per i processi di contatto predefiniti per i lead per Microsoft Dynamics versione 9.x.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
@@ -77,7 +82,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
   <tr> 
    <td colspan="1">4.0.0.18</td> 
    <td colspan="1">31/05/16</td> 
-   <td colspan="1">Correzione bug:  L’aggiornamento e l’eliminazione degli oggetti personalizzati sono diventati asincroni.</td> 
+   <td colspan="1">Correzione bug: L’aggiornamento e l’eliminazione degli oggetti personalizzati sono diventati asincroni.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.17</td> 
@@ -113,5 +118,5 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarica la
 </table>
 
 >[!MORELIKETHIS]
-[Scarica la soluzione Marketo per la gestione dei lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
+>[Scarica la soluzione Marketo per la gestione dei lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
