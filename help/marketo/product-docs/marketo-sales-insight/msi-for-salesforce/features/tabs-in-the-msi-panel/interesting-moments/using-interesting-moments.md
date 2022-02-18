@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Utilizzo di momenti interessanti - Documentazione Marketo - Documentazione del prodotto
 title: Utilizzo di momenti interessanti
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ Per abbonarti a un momento interessante, fai clic sul pulsante Iscriviti nella s
 1. Scegliere gli indirizzi e-mail a cui si desidera inviare gli avvisi (membri del proprio team)
 
 1. Fai clic su **Abbonati**.
+
+>[!NOTE]
+>
+>Quando si sottoscrivono a Tipi o descrizioni di Momenti Interessanti, l&#39;utente riceverà notifiche e-mail per le persone (lead/contatti) che possiede quando attiva un Momento Interessante corrispondente a quel Tipo o alla Descrizione.
 
 ![](assets/using-interesting-moments-8.png)
