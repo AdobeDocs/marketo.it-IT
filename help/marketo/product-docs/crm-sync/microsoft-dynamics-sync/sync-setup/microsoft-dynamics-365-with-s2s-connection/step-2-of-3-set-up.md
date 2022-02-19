@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 'Passaggio 2 di 3: configurare la soluzione Marketo con la connessione server-to-server - Marketo Docs - Documentazione del prodotto'
 title: 'Passaggio 2 di 3: configurare la soluzione Marketo con la connessione server-to-server'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,13 @@ ht-degree: 0%
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. Segui i passaggi dal seguente collegamento a [configurare un utente dell&#39;applicazione in Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). Quando si assegnano le autorizzazioni all&#39;utente dell&#39;applicazione, assegnarlo a &quot;Ruolo utente di sincronizzazione Marketo&quot;.
+## Creare un utente dell’applicazione in Microsoft {#create-application-user-in-microsoft}
+
+1. Segui i passaggi dal seguente collegamento a [configurare un utente dell&#39;applicazione in Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation).
+
+   >[!IMPORTANT]
+   >
+   >Quando si assegnano le autorizzazioni all&#39;utente dell&#39;applicazione, assicurarsi di assegnarlo a &quot;Ruolo utente di sincronizzazione Marketo&quot;.
 
 ## Azure AD Federated con AD FS On-Prem {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -52,37 +58,13 @@ Federated Azure AD to ADFS Onprem richiede la creazione di un criterio di indivi
 
 Riferimenti aggiuntivi [si trova qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated, are%20federated%20to%20Azure%20AD.).
 
-## Assegna ruolo utente di sincronizzazione {#assign-sync-user-role}
-
-1. Assegna il ruolo utente Marketo Sync solo all’utente Marketo Sync.
-
->[!NOTE]
->
->Questo vale per la versione 4.0.0.14 e successive di Marketo. Per le versioni precedenti, tutti gli utenti devono avere il ruolo utente di sincronizzazione. Per aggiornare la soluzione Marketo, [vedi questo articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
-
-1. Torna alla scheda Utenti applicazioni e aggiorna l’elenco degli utenti.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
-
-1. Passa il puntatore del mouse accanto all&#39;utente dell&#39;applicazione appena creato e viene visualizzata una casella di controllo. Fai clic su per selezionarlo.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
-
-1. Fai clic su **Gestisci ruoli**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
-
-1. Controlla **Marketo Sync User** e fai clic su **OK**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
-
 ## Configurare la soluzione Marketo {#configure-marketo-solution}
 
 Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution sul nuovo utente creato.
 
 >[!IMPORTANT]
 >
->Se stai effettuando l’aggiornamento dall’autenticazione di base a OAuth, dovrai contattare [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per informazioni sull’aggiornamento dei parametri aggiuntivi. L’abilitazione di questa funzione interrompe temporaneamente la sincronizzazione finché non vengono inserite nuove credenziali e la sincronizzazione non viene riabilitata. La funzione può essere disabilitata (fino ad aprile 2022) se desideri tornare alla vecchia modalità di autenticazione.
+>Se stai effettuando l’aggiornamento dall’autenticazione di base a OAuth, dovrai contattare [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per informazioni sull’aggiornamento dei parametri aggiuntivi. L&#39;esecuzione di una modifica della configurazione all&#39;utente di sincronizzazione predefinita interrompe temporaneamente la sincronizzazione finché non vengono inserite nuove credenziali e la sincronizzazione non viene riabilitata. Su richiesta, il supporto Marketo può disattivare la funzione (fino ad aprile 2022) se desideri ripristinare il vecchio metodo di autenticazione.
 
 1. Torna alla sezione Impostazioni avanzate e fai clic su ![](assets/image2015-5-13-15-3a49-3a19.png) accanto a Impostazioni e seleziona **Configurazione Marketo**.
 
@@ -124,4 +106,6 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: Connessione della soluzione Marketo con la connessione server a server](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Passaggio 3 di 3: Connessione della soluzione Marketo con la connessione server a server](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Riconfigura metodo di autenticazione Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+
