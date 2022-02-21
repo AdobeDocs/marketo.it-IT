@@ -1,11 +1,10 @@
 ---
-unique-page-id: 3571830
 description: Passaggio 3 di 4 - Configurare l’app client su MS Dynamics - Marketo Docs - Documentazione del prodotto
 title: 'Passaggio 3 di 4: configurare l’app client su MS Dynamics'
-exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
+source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -49,6 +48,12 @@ ht-degree: 0%
 Federated Azure AD to ADFS Onprem richiede la creazione di un criterio di individuazione dell&#39;area iniziale per l&#39;applicazione specifica. Con questo criterio, Azure AD reindirizzerà la richiesta di autenticazione al servizio federativo. A questo scopo, la sincronizzazione hash della password deve essere abilitata in AD Connect. Per ulteriori informazioni, consulta [OAuth con ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Impostare un criterio hrd per un&#39;applicazione](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Riferimenti aggiuntivi [si trova qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated, are%20federated%20to%20Azure%20AD.).
+
+## Prima di procedere al passaggio 4 {#before-proceeding-to-step-4}
+
+* Se si desidera limitare il numero di record sincronizzati, [impostare un filtro di sincronizzazione personalizzato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) ora.
+* Esegui il [Convalida della sincronizzazione di Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) processo. Verifica che le impostazioni iniziali siano state eseguite correttamente.
+* Accedi all’utente di sincronizzazione Marketo in Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
