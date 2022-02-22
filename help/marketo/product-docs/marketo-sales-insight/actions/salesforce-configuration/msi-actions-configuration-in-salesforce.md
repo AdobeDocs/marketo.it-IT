@@ -4,9 +4,9 @@ title: Configurazione delle azioni MSI in Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: daff9a98605b8a5c89c538f711fecb5b7a382f84
+source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Installa/aggiorna a [Pacchetto azioni MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) nella tua istanza Salesforce.
+>* [Installa]() o [Aggiornamento]() Pacchetto di informazioni sulle vendite nella tua istanza di Salesforce Installa/aggiorna [Pacchetto azioni MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) nella tua istanza Salesforce.
+>* [Configurare Marketo Sales Insight in Salesforce Enterprise/Unlimited]()
+
+
+## Aggiungi nuovo sito remoto in Salesforce {#add-new-remote-site-in-salesforce}
+
+1. In Salesforce, fai clic su **Configurazione**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+
+1. Cerca &quot;sito remoto&quot; e seleziona **Impostazioni del sito remoto**.
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+
+1. Fai clic su **Nuovo sito remoto**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+
+1. Immettere il nome del sito remoto (può essere simile a &quot;MarketoSalesInsight&quot;). Inserisci l’URL del sito remoto (https://ims-na1-stg1.adobelogin.com) e fai clic su **Salva**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 ## Abilitazione delle azioni MSI in tutte le CRM {#enabling-msi-actions-across-the-crm}
 
 1. In Salesforce, fai clic sul pulsante **Configurazione di Marketo Sales Insight** scheda .
 
-   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
@@ -29,11 +48,11 @@ ht-degree: 0%
 
 1. Seleziona la **Abilita azioni MSI** casella di controllo.
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
 1. Immetti la chiave segreto API.
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
@@ -51,11 +70,11 @@ In questo modo verranno abilitate automaticamente tutte le funzionalità delle a
 
 1. È possibile disabilitare le campagne di vendita e/o la scheda Attività nella sezione successiva. Questo sarà applicabile ai pannelli lead, contatti, account e opportunità.
 
-   ![](assets/msi-actions-configuration-in-salesforce-4.png)
+   ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
 1. È possibile disabilitare le azioni MSI deselezionando le funzioni corrispondenti nelle impostazioni Azioni.
 
-   ![](assets/msi-actions-configuration-in-salesforce-5.png)
+   ![](assets/msi-actions-configuration-in-salesforce-9.png)
 
 >[!NOTE]
 >
