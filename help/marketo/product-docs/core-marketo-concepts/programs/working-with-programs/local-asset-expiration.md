@@ -3,9 +3,9 @@ description: Scadenza risorse locali - Documenti Marketo - Documentazione del pr
 title: Scadenza risorse locali
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Prima di pianificare la scadenza di una risorsa, è necessario che il ruolo Mark
 
 1. In [!UICONTROL Amministratore] area, fai clic su **[!UICONTROL Utenti e ruoli]**.
 
-   ![](assets/local-asset-expiration-2.png)
+   ![](assets/local-asset-expiration-1.png)
 
 1. Fai clic sul pulsante **[!UICONTROL Ruoli]** selezionare l&#39;utente a cui si desidera concedere l&#39;accesso, quindi fare clic su **[!UICONTROL Modifica ruolo]**.
 
-   ![](assets/local-asset-expiration-3.png)
+   ![](assets/local-asset-expiration-2.png)
 
 1. Sotto [!UICONTROL Accedere alle attività di marketing], seleziona **[!UICONTROL Pianificazione scadenza risorsa]**. Fai clic su **[!UICONTROL Salva]**.
 
-   ![](assets/local-asset-expiration-.png)
+PICC
 
 ## Imposta una data di scadenza {#set-an-expiration-date}
 
