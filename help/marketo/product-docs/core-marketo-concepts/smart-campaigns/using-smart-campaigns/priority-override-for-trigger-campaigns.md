@@ -3,9 +3,9 @@ description: Override prioritario per campagne trigger - Documenti Marketo - Doc
 title: Override prioritario per le campagne trigger
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Gli amministratori possono ignorare la priorità determinata di Marketo per atti
 
 ## Accesso alla priorità di sovvenzione {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >Solo gli amministratori o gli utenti con responsabilità di amministratore devono avere la priorità della campagna che sovrascrivono l’accesso.
 

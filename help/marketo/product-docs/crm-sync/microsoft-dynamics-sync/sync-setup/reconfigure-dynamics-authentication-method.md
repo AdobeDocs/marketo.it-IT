@@ -2,9 +2,9 @@
 description: Riconfigura il metodo di autenticazione di Dynamics - Documenti Marketo - Documentazione del prodotto
 title: Riconfigura metodo di autenticazione Dynamics
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,10 @@ Per aggiornare il metodo di autenticazione Dynamics, effettua le seguenti operaz
 
 1. Fai clic su **Conferma** di nuovo.
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. Fai clic su **OK**.
 
    >[!IMPORTANT]
    >
-   >Ricorda di riattivare la sincronizzazione.
+   >Il sistema impiega 15 minuti per accettare la nuova modalità di autenticazione. Attendere 15 minuti dal momento dell&#39;attivazione del commutatore prima di riattivare la sincronizzazione.

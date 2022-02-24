@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Risoluzione dei problemi di sincronizzazione della convalida di Dynamics - Documenti Marketo - Documentazione del prodotto
 title: Correggere i problemi di sincronizzazione della convalida di Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Se hai un ![x](assets/delete.png) verifica che il nome utente e la password di M
 
 ## L&#39;utente di sincronizzazione viene assegnato al ruolo utente di sincronizzazione di Marketo {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Se hai un ![x](assets/delete.png) qui, potrebbe essere uno dei due motivi seguenti.
+Se hai un ![x](assets/delete.png) potrebbe trattarsi di uno dei tre punti seguenti.
 
 **Opzione 1: verificare che il ruolo utente di Marketo Sync sia selezionato in Microsoft Dynamics**:
 
@@ -75,6 +75,10 @@ Se hai un ![x](assets/delete.png) qui, potrebbe essere uno dei due motivi seguen
 **Opzione 2 - Conferma il consenso**:
 
 1. Consulta la sezione [Concessione del consenso per l’ID client e la registrazione dell’app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) per confermare che l’app dispone del consenso dell’amministratore per chiamare le API.
+
+**Opzione tre - Sincronizza utente**:
+
+1. Verifica che l&#39;utente di sincronizzazione sia aggiunto alla configurazione Marketo.
 
 ## La soluzione Marketo è installata correttamente {#marketo-solution-is-properly-installed}
 
