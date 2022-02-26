@@ -3,9 +3,9 @@ description: Scadenza risorse locali - Documenti Marketo - Documentazione del pr
 title: Scadenza risorse locali
 hide: true
 hidefromtoc: true
-source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ Prima di pianificare la scadenza di una risorsa, è necessario che il ruolo Mark
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Sotto [!UICONTROL Accedere alle attività di marketing], seleziona **[!UICONTROL Pianificazione scadenza risorsa]**. Fai clic su **[!UICONTROL Salva]**.
+1. Sotto [!UICONTROL Accedere alle attività di marketing], seleziona **[!UICONTROL Pianificazione scadenza risorse locale]** e fai clic su **[!UICONTROL Salva]**.
 
-PICC
+   ![](assets/local-asset-expiration-3.png)
 
 ## Imposta una data di scadenza {#set-an-expiration-date}
 
@@ -56,6 +56,7 @@ PICC
 >
 >* Per modificare una data di scadenza esistente, controlla semplicemente le risorse e fai clic su **[!UICONTROL Imposta scadenza]**.
 >* Una volta scaduta, la risorsa non verrà più visualizzata nella griglia di scadenza. La griglia visualizza solo le pagine di destinazione pubblicate, le campagne attive e le campagne batch ricorrenti.
+>* Le scadenze pianificate verranno rimosse se la risorsa viene spostata in un altro programma.
 
 
 ## Rimuovere una data di scadenza {#remove-an-expiration-date}

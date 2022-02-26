@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importare un programma - Documentazione Marketo - Documentazione del prodotto
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,8 @@ I programmi utilizzano risorse esterne come modelli e-mail, modelli di pagina di
 
 **Modelli di pagina di destinazione/e-mail:** I modelli e-mail/pagina di destinazione vengono importati in Design Studio. È possibile utilizzare regole di conflitto per configurare il comportamento quando esiste un modello con lo stesso nome. Utilizzando la regola predefinita, a un modello verrà aggiunto un numero se ne esiste uno con lo stesso nome. Ad esempio, se disponi già di un modello denominato &quot;Modello standard&quot;, il nuovo verrà denominato &quot;Modello standard 1&quot;.
 
+**Pagine di destinazione/Forms:** Se in Design Studio esiste un modulo o una pagina di destinazione con lo stesso nome, verranno comunque importati, ma con un numero aggiunto al nome (ad esempio: Pagina di destinazione 1).
+
 **Immagini:** Le immagini utilizzate dalle pagine di destinazione vengono importate nello studio di progettazione, a meno che non ne esista una con lo stesso nome.
 
 **Token:** I token che risiedono al di fuori di un programma verranno convertiti in token locali durante il processo di importazione.
@@ -96,8 +98,6 @@ I programmi utilizzano risorse esterne come modelli e-mail, modelli di pagina di
 >I token di tipo immagine non sono supportati per le importazioni di programmi. Se viene importato un programma con tipo immagine, i miei token **no** passeranno dei token.
 
 **Tag del programma:** È possibile utilizzare regole di conflitto per controllare il modo in cui verranno trattati i tag di programma non esistenti nell&#39;account di destinazione. Utilizzando la regola predefinita verranno creati i tag del programma oppure è possibile scegliere di ignorarli.
-
-**Forms:** I moduli esterni vengono importati automaticamente nello studio di progettazione, a meno che non ne esista uno con lo stesso nome.
 
 >[!CAUTION]
 >
