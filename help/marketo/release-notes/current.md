@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,12 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 ![(stella)](assets/yellow-star.png)
 
 * **Modelli BI**: Bizible fornirà ora artefatti di reporting scaricabili e fondamentali e report di esempio per Tableau e Power BI per consentire un rapido sviluppo di report personalizzati su misura per le tue specifiche esigenze aziendali.
+
+## Sales Connect {#sales-connect}
+
+![(stella)](assets/yellow-star.png)
+
+* **Limitazione connessione e-mail (GA)**: La limitazione della connessione e-mail consente agli amministratori di Sales Connect di configurare il tasso di invio delle e-mail quando si utilizza Gmail o Exchange come canale di consegna, in modo che il tasso di consegna delle e-mail al provider del canale di consegna non superi i limiti imposti.
 
 ## Annunci {#announcements}
 
