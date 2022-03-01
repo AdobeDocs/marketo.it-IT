@@ -3,10 +3,9 @@ unique-page-id: 2359909
 description: Gestione di ruoli utente e autorizzazioni - Documenti Marketo - Documentazione del prodotto
 title: Gestione di ruoli e autorizzazioni utente
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -23,33 +22,37 @@ Ad esempio, un utente di marketing in genere ha bisogno di un accesso ampio all�
 
 Marketo fornisce diversi ruoli incorporati, con diversi livelli di accesso:
 
-* **Amministratore** : tutte le parti dell’applicazione, inclusa la sezione Amministratore
-* **Utente standard** : tutte le parti dell&#39;applicazione, eccetto la sezione Amministratore
-* **Marketing User** : tutte le parti dell&#39;applicazione, eccetto la sezione Admin
-* **Web Designer** : solo Design Studio
-* **Utente di Analytics** : solo la sezione Analytics
+* **Amministratore** - tutte le parti dell&#39;applicazione, inclusa la sezione Amministratore
+* **Utente standard** - tutte le parti dell&#39;applicazione, ad eccezione della sezione Amministratore
+* **Utente marketing** - tutte le parti dell&#39;applicazione, ad eccezione della sezione Amministratore
+* **Progettazione web** - solo Design Studio
+* **Utente di Analytics** - solo la sezione Analytics
 
 Non puoi modificare i ruoli Amministratore e Utente standard, ma puoi modificarli. Puoi anche creare nuovi ruoli personalizzati per adattarli alle strutture organizzative specifiche della tua azienda.
 
+## Marketo con identità Adobe {#marketo-with-adobe-identity}
+
+Se utilizzi Marketo con Adobe Identity, l’elenco delle descrizioni del profilo [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+
 ## Assegnare ruoli a un utente {#assign-roles-to-a-user}
 
-Puoi assegnare ruoli a un utente quando [crei utenti per la prima volta](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o modificando un utente esistente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).[
+Puoi assegnare ruoli a un utente quando [creare utenti per la prima volta](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o [modifica di un utente esistente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Per modificare un utente esistente, vai su **Amministratore** e fai clic su **Utenti e ruoli**.
+1. Per modificare un utente esistente, vai a **Amministratore** e fai clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-9-18-3a7-3a32.png)
 
-1. Dall&#39;elenco, seleziona l&#39;utente da modificare e fai clic su **Modifica utente**.
+1. Dall’elenco, seleziona l’utente da modificare e fai clic su **Modifica utente**.
 
    ![](assets/image2014-9-9-18-3a7-3a42.png)
 
-1. In **Ruoli**, selezionare i ruoli che si desidera assegnare all&#39;utente in base alle autorizzazioni necessarie e fare clic su **Salva**.
+1. Sotto **Ruoli**, seleziona i ruoli da assegnare all’utente in base alle autorizzazioni necessarie e fai clic su **Salva**.
 
    ![](assets/image2014-9-9-18-3a7-3a57.png)
 
    >[!NOTE]
    >
-   >Per informazioni su ciascun ruolo, consulta [Descrizioni delle autorizzazioni per i ruoli](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >Per informazioni su ciascun ruolo, consulta  [Descrizioni delle autorizzazioni del ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Creare un nuovo ruolo {#create-a-new-role}
 
@@ -59,15 +62,15 @@ A volte, la tua organizzazione dispone di dipendenti con ruoli molto specifici c
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. Fare clic sulla scheda **Ruoli**.
+1. Fai clic sul pulsante **Ruoli** scheda .
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. Fare clic su **Nuovo ruolo**.
+1. Fai clic su **Nuovo ruolo**.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. Immetti un **Nome ruolo**, una **Descrizione** (facoltativo) e seleziona le autorizzazioni necessarie agli utenti di questo ruolo.
+1. Inserisci un **Nome del ruolo**, **Descrizione** (facoltativo) e seleziona le autorizzazioni necessarie agli utenti di questo ruolo.
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
@@ -79,15 +82,15 @@ Se devi modificare le autorizzazioni associate a un ruolo esistente, puoi modifi
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
-1. Fare clic sulla scheda **Ruoli**.
+1. Fai clic sul pulsante **Ruoli** scheda .
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
-1. Dall&#39;elenco, seleziona il ruolo da modificare e fai clic su **Modifica ruolo**.
+1. Dall’elenco, seleziona il ruolo da modificare e fai clic su **Modifica ruolo**.
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Se necessario, modifica **Nome ruolo** e **Descrizione** e quindi modifica la selezione delle **Autorizzazioni** associate.
+1. Modificare la **Nome del ruolo** e **Descrizione** se necessario, quindi modificare la selezione di **Autorizzazioni**.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -103,7 +106,7 @@ Se un ruolo non è necessario, è possibile eliminarlo.
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. Fare clic sulla scheda **Ruoli**.
+1. Fai clic sul pulsante **Ruoli** scheda .
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
