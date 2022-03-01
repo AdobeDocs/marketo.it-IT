@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Risoluzione dei problemi di sincronizzazione della convalida di Dynamics - Documenti Marketo - Documentazione del prodotto
 title: Correggere i problemi di sincronizzazione della convalida di Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Se hai un ![x](assets/delete.png) in questo caso, verifica che l’URL sia valid
 
 ## Nome utente e password validi {#username-and-password-are-valid}
 
-Se hai un ![x](assets/delete.png) verifica che il nome utente e la password di Microsoft Dynamics siano validi.
+Se hai un ![x](assets/delete.png) in questo caso, verifica che le credenziali di Microsoft Dynamics siano valide. Per l’autenticazione Web API S2S, il nome utente in Marketo deve corrispondere al [indirizzo e-mail](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) dell&#39;utente dell&#39;applicazione nel CRM. Per altri tipi, deve corrispondere al nome utente per l&#39;utente di sincronizzazione.
 
 ## L&#39;utente di sincronizzazione viene assegnato al ruolo utente di sincronizzazione di Marketo {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
