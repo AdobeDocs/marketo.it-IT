@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352623
-description: Dettagli accesso utente - Documenti Marketo - Documentazione del prodotto
+description: Dettagli accesso utente - Documentazione Marketo - Documentazione del prodotto
 title: Dettagli accesso utente
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # Dettagli accesso utente {#user-access-details}
 
@@ -17,11 +16,11 @@ A cosa hanno accesso gli amministratori e i non amministratori?
 
 ## Autorizzazioni utente amministratore {#admin-user-permissions}
 
-Gli amministratori possono [visualizzare tutti i modelli](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Gli amministratori possono [visualizza tutti i modelli](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
-Gli amministratori possono [visualizzare tutte le campagne](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Gli amministratori possono [visualizza tutte le campagne](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
