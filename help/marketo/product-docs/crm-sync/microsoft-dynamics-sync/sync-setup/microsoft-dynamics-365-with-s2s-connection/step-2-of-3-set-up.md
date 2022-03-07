@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 'Passaggio 2 di 3: configurare la soluzione Marketo con la connessione server-to-server - Marketo Docs - Documentazione del prodotto'
 title: 'Passaggio 2 di 3: configurare la soluzione Marketo con la connessione server-to-server'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Riferimenti aggiuntivi [si trova qui](https://docs.microsoft.com/en-us/azure/act
 
 Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution sul nuovo utente creato.
 
->[!IMPORTANT]
->
->Se stai effettuando l’aggiornamento dall’autenticazione di base a OAuth, dovrai contattare [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per informazioni sull’aggiornamento dei parametri aggiuntivi. L&#39;esecuzione di una modifica della configurazione all&#39;utente di sincronizzazione predefinita interrompe temporaneamente la sincronizzazione finché non vengono inserite nuove credenziali e la sincronizzazione non viene riabilitata. Su richiesta, il supporto Marketo può disattivare la funzione (fino ad aprile 2022) se desideri ripristinare il vecchio metodo di autenticazione.
-
 1. Torna alla sezione Impostazioni avanzate e fai clic su ![](assets/image2015-5-13-15-3a49-3a19.png) accanto a Impostazioni e seleziona **Configurazione Marketo**.
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ Quasi lì! Tutto quello che ci rimane è quello di informare Marketo Solution su
 1. Fai clic sul pulsante **Pubblica tutte le personalizzazioni** pulsante .
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >Se esegui l’aggiornamento da Autenticazione di base a OAuth, puoi utilizzare [articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) per riconfigurare l’autenticazione.
 
 ## Prima di procedere al passaggio 3 {#before-proceeding-to-step}
 

@@ -2,9 +2,9 @@
 description: Passaggio 4 di 4 - Connettere la soluzione Marketo con la connessione Controllo password proprietario risorsa - Marketo Docs - Documentazione del prodotto
 title: Passaggio 4 di 4 - Connettere la soluzione Marketo con la connessione per il controllo della password del proprietario della risorsa
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Ci sei quasi!
 >
 >**Autorizzazioni amministratore richieste**
 
->[!IMPORTANT]
+>[!NOTE]
 >
->Se stai effettuando l’aggiornamento dall’autenticazione di base a OAuth, dovrai contattare [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per informazioni sull’aggiornamento dei parametri aggiuntivi. L’abilitazione di questa funzione interrompe temporaneamente la sincronizzazione finché non vengono inserite nuove credenziali e la sincronizzazione non viene riabilitata. La funzione può essere disabilitata (fino ad aprile 2022) se desideri tornare alla vecchia modalità di autenticazione.
+>Se esegui l’aggiornamento da Autenticazione di base a OAuth, puoi utilizzare [articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) per riconfigurare l’autenticazione.
 
 ## Immetti le informazioni utente di Dynamics Sync {#enter-dynamics-sync-user-information}
 
