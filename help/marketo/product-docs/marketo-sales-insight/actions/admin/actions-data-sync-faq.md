@@ -4,7 +4,7 @@ title: Domande frequenti sulla sincronizzazione dei dati delle azioni
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
+source-git-commit: 649bac859280bc4b83ce082684ad1e2d81dc3561
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La sincronizzazione del campo di unificazione dei dati per le azioni Approfondim
 
 Questo fornisce dati aggiornati sulle persone nell’app Web Sales Insight Actions e consente al sistema di raccogliere ID univoci per i record delle persone corrispondenti in Marketo e i record lead/contact/account/opportunità in Salesforce, in modo che i record possano essere correttamente referenziati per la registrazione dei dati.
 
-Questa sincronizzazione può essere abilitata dalla scheda Configurazione azioni di Insight vendite nella sezione Amministrazione del Marketo Engage. Per ulteriori informazioni, consulta [Avvia sincronizzazione dati](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
+Questa sincronizzazione può essere abilitata dalla scheda Configurazione azioni di Insight vendite nella sezione Amministrazione del Marketo Engage. Per ulteriori informazioni, consulta [Avvia sincronizzazione dati](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
@@ -120,5 +120,5 @@ Il diagramma qui sopra mostra quali informazioni sono registrate su Salesforce. 
 >* [Controllo dell’annullamento dell’abbonamento a Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Impostazioni di sincronizzazione Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Sincronizzazione attività promemoria con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [Avvia sincronizzazione dati](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
+>* [Avvia sincronizzazione dati](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
 
