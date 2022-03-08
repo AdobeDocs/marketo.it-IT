@@ -1,24 +1,19 @@
 ---
 description: Limitazione della connessione e-mail - Documenti Marketo - Documentazione del prodotto
 title: Limitazione connessione e-mail
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
+source-git-commit: 01748a560f41d5366862e75a3dd5349cf8b908bc
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
-
 
 # Limitazione connessione e-mail {#email-connection-throttling}
 
 L&#39;integrazione dell&#39;account Sales Connect per l&#39;invio tramite i provider di posta elettronica Exchange o Gmail offre una configurazione semplificata e ottimizza il recapito dei messaggi e-mail per le comunicazioni di vendita 1:1. Tuttavia, per mantenere i sistemi sani e gli account sicuri, Gmail e Exchange impongono limiti di invio delle e-mail. Tali limiti possono essere aumentati o diminuiti a discrezione dei fornitori.
 
 ## Limitazione connessione e-mail (Beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->Questa funzione è attualmente disponibile nella versione beta. Per partecipare a questa versione beta, contatta il tuo Customer Success Manager.
 
 La limitazione della connessione e-mail consente agli amministratori di Sales Connect di configurare il tasso di invio delle e-mail quando si utilizza Gmail o Exchange come canale di consegna, in modo che il tasso di consegna delle e-mail al provider del canale di consegna non superi i limiti imposti.
 
@@ -33,11 +28,11 @@ Quando i limiti vengono costantemente superati, questo può talvolta essere vist
 
 **Configurazione delle impostazioni di limitazione della connessione e-mail**
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Fare clic su **Generale**.
+1. Fai clic su **Generale**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -49,13 +44,13 @@ Quando i limiti vengono costantemente superati, questo può talvolta essere vist
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/email-connection-throttling-5.png)
 
 Con le modifiche salvate, tutti gli utenti riceveranno le e-mail inviate in batch al proprio account Gmail o Exchange connesso per la consegna.
 
-## Limiti dei provider di posta elettronica {#email-provider-limits}
+## Limiti per i provider di posta elettronica {#email-provider-limits}
 
 **Outlook 365**
 
@@ -65,7 +60,7 @@ Aziende/aziende
 * 30 al minuto
 * 500 destinatari per e-mail
 
-Ulteriori informazioni [sono disponibili qui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Ulteriori informazioni [si trova qui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -73,7 +68,7 @@ Ulteriori informazioni [sono disponibili qui](https://docs.microsoft.com/en-us/o
 * 2 e-mail al secondo (limite API)
 * 2.000 destinatari per messaggio (massimo 500 destinatari per destinatari esterni)
 
-Ulteriori informazioni [sono disponibili qui](https://support.google.com/a/answer/166852?hl=en).
+Ulteriori informazioni [si trova qui](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 
