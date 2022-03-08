@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
+source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
 workflow-type: tm+mt
-source-wordcount: '8396'
+source-wordcount: '8397'
 ht-degree: 0%
 
 ---
@@ -1087,7 +1087,7 @@ ht-degree: 0%
             + [Personalizzazioni di vendita Connect per CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Utilizzo di azioni in serie in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Utilizzo di azioni in serie in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
-         + Integrazione Salesforce {#salesforce-integration}
+         + Salesforce Integration {#salesforce-integration}
             + [Configurare la personalizzazione dei dettagli dell’attività Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Collega il tuo account di vendita Connect a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Scollega Salesforce Dal Tuo Account Di Connessione Di Vendita](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
@@ -1241,7 +1241,7 @@ ht-degree: 0%
          + [Panoramica della funzione Approfondimenti vendite](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Introduzione {#getting-started}
             + [Guida all’onboarding dell’utente sulle azioni di vendita](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Guida per l’amministrazione delle azioni MSI](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
+            + [Guida per l’amministrazione delle azioni MSI](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
             + [Modificare la password di vendita di Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + Impostazioni e-mail {#email-settings}
                + [Verifica l’e-mail](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
@@ -1311,7 +1311,7 @@ ht-degree: 0%
                + [Gestisci gruppi](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Colonne della pagina Persone](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Configurazione Salesforce {#salesforce-configuration}
-            + [Configurazione delle azioni MSI in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Configurazione delle azioni di Insight sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Disinstallare il pacchetto di personalizzazione Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Disinstallare il pacchetto di personalizzazione Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
@@ -1510,7 +1510,7 @@ ht-degree: 0%
          + [Elimina contenuto](product-docs/predictive-content/working-with-all-content/delete-content.md)
          + [Modifica contenuto](product-docs/predictive-content/working-with-all-content/edit-content.md)
          + [Annullare l’approvazione di un titolo per il contenuto predittivo](product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
-      + Abilitazione del contenuto predittivo {#enabling-predictive-content}
+      + Enabling Predictive Content {#enabling-predictive-content}
          + [Abilita contenuti predittivi per contenuti multimediali web](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
          + [Abilitare il contenuto predittivo nelle e-mail](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)
          + [Abilita la barra delle raccomandazioni del contenuto](product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
@@ -1537,14 +1537,14 @@ ht-degree: 0%
             + [Seleziona colonne rapporto](product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
             + [Ordina rapporto sulle colonne](product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
          + Attività rapporto {#report-activity}
-            + [Creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
+            + [Build a People Performance Report with Mobile Platform Columns](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
             + [Modifica del tempo di scadenza per gli URL nelle e-mail dei rapporti](product-docs/reporting/basic-reporting/report-activity/change-the-expiration-time-for-urls-in-report-emails.md)
             + [Clonazione di un rapporto in rapporti di gruppo](product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
             + [Clona un rapporto](product-docs/reporting/basic-reporting/report-activity/clone-a-report.md)
             + [Eliminare un rapporto](product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)
             + [Visualizzare persone o visitatori anonimi nei rapporti web](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [Eseguire un drill-down in un rapporto sulle prestazioni delle persone](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
-            + [Esportare un rapporto in Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
+            + [Export a Report to Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
             + [Filtrare un rapporto attività campagna](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Filtrare le risorse in rapporti e-mail di Campaign](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Filtrare le risorse in un rapporto e-mail](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
@@ -1753,7 +1753,7 @@ ht-degree: 0%
          + [Gestire i dati delle persone](product-docs/web-personalization/using-web-segments/manage-person-data.md)
          + [Visualizzare segmenti da un’etichetta specifica](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [Segmenti web](product-docs/web-personalization/using-web-segments/web-segments.md)
-      + Retargeting di siti web {#website-retargeting}
+      + Website Retargeting {#website-retargeting}
          + [Remarketing personalizzato in Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizzato in Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Retargeting with Web Personalization Data](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
