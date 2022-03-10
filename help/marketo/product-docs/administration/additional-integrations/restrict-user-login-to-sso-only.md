@@ -3,17 +3,20 @@ unique-page-id: 2360358
 description: Limitare l’accesso dell’utente solo all’accesso SSO - Documenti Marketo - Documentazione del prodotto
 title: Limita accesso utente solo a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Limita l&#39;accesso dell&#39;utente a SSO solo {#restrict-user-login-to-sso-only}
+# Limita accesso utente solo a SSO {#restrict-user-login-to-sso-only}
 
-Se utilizzi [SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) e desideri garantire che gli utenti non possano ignorare la sicurezza SSO, segui queste istruzioni.
+Se sei [utilizzo di SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) e per assicurarsi che gli utenti non possano ignorare la sicurezza SSO, seguire queste istruzioni.
+
+>[!IMPORTANT]
+>
+>Il presente articolo non si applica a [Adobe IMS abilitato](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Abbonamenti Marketo.
 
 >[!NOTE]
 >
@@ -23,7 +26,7 @@ Se utilizzi [SSO](/help/marketo/product-docs/administration/additional-integrati
 
    ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. Fare clic su **Modifica impostazioni di protezione**.
+1. Fai clic su **Modifica impostazioni di protezione**.
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
@@ -33,15 +36,15 @@ Se utilizzi [SSO](/help/marketo/product-docs/administration/additional-integrati
 
 >[!NOTE]
 >
->Si consiglia agli utenti di essere invitati e di accettare l’invito. __ Una volta accettato l’invito, gli amministratori devono impostarlo su &quot;Richiedi SSO&quot;.
+>Si consiglia agli utenti di essere invitati e di accettare l’invito. _Dopo_ l&#39;invito viene accettato, gli amministratori devono quindi impostarlo su &quot;Richiedi SSO&quot;.
 
 >[!TIP]
 >
->Se selezioni **Richiedi SSO**, puoi escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **Ignora Single Sign-On** durante la configurazione del ruolo. In questo modo gli utenti possono accedere normalmente. Ad esempio, gli utenti amministratori potrebbero comunque dover accedere a Marketo tramite la schermata di accesso.
+>Se si seleziona **Richiedi SSO**, puoi escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione controllando il **Ignora Single Sign-On** durante la configurazione del ruolo. In questo modo gli utenti possono accedere normalmente. Ad esempio, gli utenti amministratori potrebbero comunque dover accedere a Marketo tramite la schermata di accesso.
 
 >[!CAUTION]
 >
->Quando i nuovi utenti vengono invitati, ricevono le e-mail di invito. Tuttavia, se è selezionato **Richiedi SSO**, questi messaggi e-mail non vengono ricevuti, a meno che non siano assegnati a un ruolo impostato su **Ignora Single Sign-On**.
+>Quando i nuovi utenti vengono invitati, ricevono le e-mail di invito. Tuttavia, se **Richiedi SSO** è selezionato, non riceveranno tali e-mail, a meno che non siano assegnate a un ruolo impostato su **Ignora Single Sign-On**.
 
 Tutto qui! Ora tutti gli utenti (ad eccezione degli utenti con l&#39;autorizzazione di bypassare il single sign-on) saranno limitati all&#39;utilizzo solo dell&#39;accesso SSO.
 

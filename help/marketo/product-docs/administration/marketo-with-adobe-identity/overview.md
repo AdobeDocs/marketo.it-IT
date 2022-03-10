@@ -2,9 +2,9 @@
 description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Le sottoscrizioni di Marketo Engage di Adobe integrate nel sistema Identity Mana
  <tr>
   <td><strong>Amministratore prodotto Adobe Admin Console</strong></td>
   <td>Responsabile del diritto degli utenti al prodotto di Marketo Engage in Adobe Admin Console. Ruolo concesso in Adobe Admin Console.</td>
+ </tr>
+ <tr>
+  <td><strong>Amministratore del profilo di prodotto Adobe Admin Console</strong></td>
+  <td>Amministra le descrizioni del profilo di prodotto assegnate a tale amministratore e a tutte le funzioni amministrative associate.</td>
  </tr>
  <tr>
   <td><strong>Amministratore prodotto Marketo Engage</strong></td>
