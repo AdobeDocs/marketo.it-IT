@@ -2,9 +2,9 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -74,3 +74,71 @@ Non è supportata la funzionalità AI/NLP.
 **Dynamic Chat offre altre lingue oltre all&#39;inglese?**
 
 Non in questo momento.
+
+## Limiti della chat dinamica {#limits-in-dynamic-chat}
+
+<table>
+  <th>Parametro</th>
+  <th>Descrizione</th>
+  <th>Limite</th>
+ <tr>
+  <td>Finestre di dialogo totali</td>
+  <td>Numero totale di finestre di dialogo (pubblicate e bozza)</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Finestre di dialogo pubblicate</td>
+  <td>Numero di finestre di dialogo pubblicate salvate</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>URL di destinazione per finestra di dialogo</td>
+  <td>Numero di URL di destinazione che possono essere aggiunti a un’unica finestra di dialogo</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>Attributi per finestra di dialogo</td>
+  <td>Numero di attributi che possono essere aggiunti ai criteri del pubblico per una singola finestra di dialogo</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Gruppi</td>
+  <td>Numero di gruppi che possono essere aggiunti a una singola finestra di dialogo</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Attributi per gruppo</td>
+  <td>Numero di attributi che possono essere aggiunti a un gruppo</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Schede</td>
+  <td>Numero di schede che possono essere aggiunte all’area di lavoro per finestra di dialogo</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Periodo di conservazione dei dati lead anonimi</td>
+  <td>Durata per quanto tempo verranno mantenute le informazioni di un lead anonimo senza alcun coinvolgimento</td>
+  <td>90 giorni</td>
+ </tr>
+ <tr>
+  <td>Periodo di conservazione dell’attività dell’obiettivo</td>
+  <td>Quantità di dati dell’attività dell’obiettivo temporale conservati</td>
+  <td>24 mesi</td>
+ </tr>
+ <tr>
+  <td>Periodo di conservazione dell’attività del documento</td>
+  <td>Quantità di dati di attività del documento a tempo determinato conservati</td>
+  <td>24 mesi</td>
+ </tr>
+ <tr>
+  <td>Interagito con il periodo di conservazione dell’attività della finestra di dialogo</td>
+  <td>Il tempo interagito con i dati dell’attività Dialogo viene mantenuto</td>
+  <td>90 giorni</td>
+ </tr>
+ <tr>
+  <td>Periodo di conservazione dell'attività di prenotazione riunioni</td>
+  <td>Quantità di tempo durante la prenotazione delle riunioni verrà memorizzata in Chat dinamico</td>
+  <td>24 mesi</td>
+ </tr>
+</table>
