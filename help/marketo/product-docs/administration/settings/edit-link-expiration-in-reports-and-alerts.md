@@ -3,10 +3,9 @@ unique-page-id: 2360213
 description: Modifica scadenza collegamento in Reports and Alerts - Marketo Docs - Documentazione del prodotto
 title: Modifica scadenza collegamento in rapporti e avvisi
 exl-id: 9be08798-c413-451b-9b67-893042668061
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,20 +18,18 @@ I collegamenti nelle e-mail di abbonamento ai rapporti scadono dopo tre giorni. 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Amministratore**, fai clic su **Impostazioni di accesso**.
+1. Sotto **Amministratore**, fai clic su **Impostazioni di accesso**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Fare clic su **Modifica scadenza URL**.
+1. Fai clic su **Modifica scadenza URL**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
-1. Nel menu a discesa , seleziona il numero di giorni prima della scadenza del collegamento. Fare clic su **Salva**.
+1. Nel menu a discesa , seleziona il numero di giorni prima della scadenza del collegamento. Fai clic su **Salva**.
 
    ![](assets/emaillinkexpiration.png)
 
-Freddo, hai modificato le impostazioni di scadenza del collegamento e-mail.
-
->[!NOTE]
+>[!IMPORTANT]
 >
->Ricorda che questi si applicano solo ai collegamenti nei rapporti e negli avvisi, non alle e-mail di marketing.
+>Questa impostazione si applica solo ai collegamenti nei rapporti e negli avvisi. Lo fa **not** si applica al messaggio e-mail [scarica report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) collegamento o e-mail di marketing.
