@@ -3,7 +3,7 @@ unique-page-id: 1147108
 description: Importare un programma - Documentazione Marketo - Documentazione del prodotto
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
+source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -85,9 +85,9 @@ La libreria dei programmi Marketo contiene programmi precompilati e testati che 
 
 I programmi utilizzano risorse esterne come modelli e-mail, modelli di pagina di destinazione, immagini, moduli, token e tag di programma. È possibile configurare la modalità di gestione dei modelli di pagina di destinazione e dei tag di programma e Marketo gestisce automaticamente il resto.
 
-**Modelli di pagina di destinazione/e-mail:** I modelli e-mail/pagina di destinazione vengono importati in Design Studio. È possibile utilizzare regole di conflitto per configurare il comportamento quando esiste un modello con lo stesso nome. Utilizzando la regola predefinita, a un modello verrà aggiunto un numero se ne esiste uno con lo stesso nome. Ad esempio, se disponi già di un modello denominato &quot;Modello standard&quot;, il nuovo verrà denominato &quot;Modello standard 1&quot;.
+**Modelli di pagina di destinazione/e-mail:** I modelli e-mail/pagina di destinazione vengono importati in Design Studio. È possibile utilizzare regole di conflitto per configurare il comportamento quando esiste un modello con lo stesso nome. Utilizzando la regola predefinita, a un modello verrà aggiunto un numero se ne esiste uno con lo stesso nome. Ad esempio, se disponi già di un modello denominato &quot;Modello standard&quot;, il nuovo verrà denominato &quot;Modello standard - 1&quot;.
 
-**Pagine di destinazione/Forms:** Se in Design Studio esiste un modulo o una pagina di destinazione con lo stesso nome, verranno comunque importati, ma con un numero aggiunto al nome (ad esempio: Pagina di destinazione 1).
+**Pagine di destinazione/Forms:** Se in Design Studio esiste un modulo o una pagina di destinazione con lo stesso nome, verranno comunque importati, ma con un numero aggiunto al nome (ad esempio: Pagina di destinazione - 1).
 
 **Immagini:** Le immagini utilizzate dalle pagine di destinazione vengono importate nello studio di progettazione, a meno che non ne esista una con lo stesso nome.
 
