@@ -2,9 +2,9 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Qui puoi vedere un elenco di tutti gli agenti che hanno collegato i loro calenda
 
 ## Domande frequenti {#faq}
 
+**Per quanto tempo vengono memorizzati i dati per il reporting?**
+
+90 giorni (vedi l&#39;elenco completo dei limiti) [di seguito](#limits-in-dynamic-chat)).
+
 **La chat dinamica consente la chat dal vivo?**
 
 No, utilizza solo risposte predeterminate.
@@ -66,10 +70,6 @@ Nella finestra di dialogo, devi utilizzare il _L&#39;e-mail della persona è vuo
 **Supporta la funzionalità AI/NLP?**
 
 Non è supportata la funzionalità AI/NLP.
-
-**Per quanto tempo vengono memorizzati i dati per il reporting?**
-
-90 giorni.
 
 **Dynamic Chat offre altre lingue oltre all&#39;inglese?**
 
