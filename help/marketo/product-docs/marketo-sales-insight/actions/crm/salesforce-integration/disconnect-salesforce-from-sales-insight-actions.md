@@ -3,9 +3,9 @@ description: Scollegare Salesforce Dalle Azioni Di Insight Sulle Vendite - Marke
 title: Scollega Salesforce Dalle Azioni Di Insight Sulle Vendite
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ A volte può essere necessario scollegare il tuo account Salesforce dal tuo acco
 
 1. In Azioni Approfondimenti vendite, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
 1. In Impostazioni amministratore, fai clic su **Salesforce**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
 1. Nella scheda Connessioni e personalizzazioni fare clic su **Disconnetti**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
 ## Come disconnettersi da Salesforce come non amministratore {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. In Azioni Approfondimenti vendite, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
 1. In Il mio account, seleziona **Salesforce**.
 
