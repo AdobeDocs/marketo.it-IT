@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352613
-description: Add People to your Campaign - Marketo Docs - Product Documentation
-title: Add People to your Campaign
+description: Aggiungere persone alla campagna - Documentazione Marketo - Documentazione del prodotto
+title: Aggiungere persone alla campagna
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
@@ -10,80 +10,80 @@ ht-degree: 0%
 
 ---
 
-# Add People to your Campaign {#add-people-to-your-campaign}
+# Aggiungere persone alla campagna {#add-people-to-your-campaign}
 
-There are multiple ways to add someone to a Campaign.
+Esistono diversi modi per aggiungere un utente a una campagna.
 
-If you&#39;re starting communication with a prospect or customer, you can use Add to Campaign from any page in our web application, or from Salesforce.
+Se inizi a comunicare con un potenziale cliente o un potenziale cliente, puoi utilizzare Aggiungi a Campaign da qualsiasi pagina della nostra applicazione web o da Salesforce.
 
-This flow will allow you to preview, edit, and schedule your first email in the Campaign, and if your Campaign starts with a task, these tasks will get queued for you in your Tasks list in our web application and in Salesforce.
+Questo flusso ti consente di visualizzare in anteprima, modificare e pianificare la tua prima e-mail in Campaign e, se Campaign inizia con un’attività, queste attività verranno messe in coda per te nell’elenco Attività della nostra applicazione web e in Salesforce.
 
-You can do this from the Campaigns tab in our web application.
+Puoi eseguire questa operazione dalla scheda Campagne nella nostra applicazione web.
 
-You can find the Add to Campaign button on the Conversations and People pages in our web application.
+Puoi trovare il pulsante Aggiungi a campagna nelle pagine Conversazioni e Persone della nostra applicazione web.
 
-If you are following up with a prospect or customer from your Gmail or Outlook inbox, you can add them to a Campaign via your compose window when you follow up with them (if the first step in the Campaign is an Email).
+Se stai seguendo un potenziale cliente o un potenziale cliente dalla Posta in arrivo di Gmail o Outlook, puoi aggiungerli a una Campagna tramite la finestra di composizione al momento di seguirli (se il primo passaggio nella Campagna è un messaggio e-mail).
 
-Just reply to their email and choose a Campaign from our plugin.
+Basta rispondere alla loro e-mail e scegliere una campagna dal nostro plugin.
 
-## Remove People from a Campaign {#remove-people-from-a-campaign}
+## Rimuovere persone da una campagna {#remove-people-from-a-campaign}
 
-You can automatically end a Campaign when a recipient replies. And, you can choose to have that mark the Campaign as a &#39;success&#39; for that recipient.
+Puoi terminare automaticamente una campagna quando un destinatario risponde. Puoi inoltre scegliere di contrassegnare la campagna come un &quot;successo&quot; per quel destinatario.
 
-To set this up, after you have created your campaign, simply check the Unsubscribe boxes in the Settings portion of the Campaigns tab. Both of these options will end the campaign and your recipient will not receive any more emails from you. You must have reply tracking for this to work.
+Per impostare questa impostazione, dopo aver creato la campagna, è sufficiente selezionare le caselle Annulla sottoscrizione nella sezione Impostazioni della scheda Campagne. Entrambe queste opzioni termineranno la campagna e il destinatario non riceverà più e-mail da te. È necessario disporre del monitoraggio delle risposte per far sì che questo funzioni.
 
-Additionally, you can remove people from the campaign itself, remove people from a campaign within the People page, and remove an entire group of people. Let&#39;s take a look at all three methods below.
+Inoltre, puoi rimuovere persone dalla campagna stessa, rimuovere persone da una campagna all’interno della pagina Persone e rimuovere un intero gruppo di persone. Diamo un&#39;occhiata ai tre metodi seguenti.
 
-### Remove a Person Directly from a Campaign {#remove-a-person-directly-from-a-campaign}
+### Rimuovere una persona direttamente da una campagna {#remove-a-person-directly-from-a-campaign}
 
-1. ****
+1. In Sales Connect, fare clic sul pulsante **Campagne** scheda .
 
    ![](assets/one.png)
 
-1. Find your campaign and select it.
+1. Trova la campagna e selezionala.
 
    ![](assets/two.png)
 
-1. Your campaign appears on the right. Click anywhere on it to open it.
+1. La campagna viene visualizzata a destra. Fai clic in un punto qualsiasi per aprirlo.
 
    ![](assets/three.png)
 
-1. ****
+1. Individua la persona da rimuovere e fai clic su **Rimuovi**.
 
    ![](assets/four.png)
 
-1. ****
+1. (FASE FACOLTATIVO) È inoltre possibile rimuovere più persone contemporaneamente facendo clic sulle caselle di controllo accanto ai loro nomi e facendo clic sul pulsante **Rimuovi** in alto.
 
    ![](assets/five.png)
 
-### Remove a Person from a Campaign Within the People Page {#remove-a-person-from-a-campaign-within-the-people-page}
+### Rimuovere una persona da una campagna all’interno della pagina Persone {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. ****
+1. In Sales Connect, fare clic sul pulsante **Persone** scheda .
 
    ![](assets/one-a.png)
 
-1. Find and select the person you want removed.
+1. Trova e seleziona la persona da rimuovere.
 
    ![](assets/two-a.png)
 
-1. Their Person Detail View panel opens on the right. ********
+1. Il pannello Visualizzazione dettagli persona si apre a destra. Fai clic sul pulsante **Cronologia** scheda seguita da **Rimuovi** pulsante .
 
    ![](assets/three-a.png)
 
-### Remove a Group of People from a Campaign {#remove-a-group-of-people-from-a-campaign}
+### Rimuovere un gruppo di persone da una campagna {#remove-a-group-of-people-from-a-campaign}
 
-1. ****
+1. In Sales Connect, fare clic sul pulsante **Persone** scheda .
 
    ![](assets/one-b.png)
 
-1. ****
+1. Trova e seleziona il gruppo in **Gruppi personali**.
 
    ![](assets/two-b.png)
 
-1. Select the people you want removed.
+1. Seleziona le persone da rimuovere.
 
    ![](assets/three-b.png)
 
-1. ********
+1. Fai clic su **Azioni** e scegli **Rimuovi selezionati da campagna**.
 
    ![](assets/four-b.png)

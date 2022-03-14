@@ -1,6 +1,6 @@
 ---
-description: Understanding the Content Tab - Marketo Docs - Product Documentation
-title: Understanding the Content Tab
+description: Informazioni sulla scheda Contenuto - Documenti Marketo - Documentazione del prodotto
+title: Informazioni sulla scheda Contenuto
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,22 +10,22 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Content Tab {#understanding-the-content-tab}
+# Informazioni sulla scheda Contenuto {#understanding-the-content-tab}
 
-The Content Tab is all about your team&#39;s email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
+La scheda Contenuto è tutto sul coinvolgimento e-mail del tuo team quando utilizzi un modello. Crediamo di aver accumulato automaticamente tre metriche importanti.
 
-## Secret weapon {#secret-weapon}
+## Arma segreta {#secret-weapon}
 
-This is an email template that has not yet been shared with the team, but is receiving a high level of engagement. We show you the template subject line and the creator of the template. This is a great opportunity to reach out to this rep and recommend that they share the template!
+Si tratta di un modello e-mail che non è ancora stato condiviso con il team, ma che riceve un elevato livello di coinvolgimento. Vi mostriamo l’oggetto del modello e il creatore del modello. Questa è una grande opportunità per raggiungere questo rappresentante e consigliare che condividono il modello!
 
-## Highest engagement {#highest-engagement}
+## Maggiore impegno {#highest-engagement}
 
-This is the shared template that is getting the highest level of engagement across the board.
+Questo è il modello condiviso che sta ottenendo il livello di coinvolgimento più alto a livello globale.
 
-## Lowest engagement {#lowest-engagement}
+## Livello di coinvolgimento inferiore {#lowest-engagement}
 
-Can be shared or not shared, this is the template with the least amount of engagement.
+Può essere condiviso o non condiviso, è il modello con il minor numero di coinvolgimento.
 
-Scroll down the page to see the Templates section that shows all the templates your team has been using (in this time frame) with the most views.
+Scorri la pagina verso il basso per visualizzare la sezione Modelli che mostra tutti i modelli utilizzati dal team (in questo intervallo di tempo) con il maggior numero di visualizzazioni.
 
-You can also see the Top Attachments that your team has sent (getting the most views), and the Top Links (getting the most clicks).
+Puoi anche vedere gli Allegati principali inviati dal tuo team (ottenendo il maggior numero di visualizzazioni) e i Collegamenti principali (ottenendo il maggior numero di clic).

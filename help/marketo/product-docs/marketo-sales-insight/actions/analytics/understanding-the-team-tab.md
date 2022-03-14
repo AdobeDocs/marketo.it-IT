@@ -1,6 +1,6 @@
 ---
-description: Understanding the Team Tab - Marketo Docs - Product Documentation
-title: Understanding the Team Tab
+description: Informazioni sulla scheda Team - Marketo Docs - Documentazione del prodotto
+title: Informazioni sulla scheda Team
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,20 +10,20 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Team Tab {#understanding-the-team-tab}
+# Informazioni sulla scheda Team {#understanding-the-team-tab}
 
-In the Team Tab we highlight three important metrics.
+Nella scheda Team vengono evidenziate tre metriche importanti.
 
-## Emails sent with template {#emails-sent-with-template}
+## E-mail inviate con modello {#emails-sent-with-template}
 
-Of the emails that have been sent, how many of them utilized a template.
+Tra le e-mail inviate, quante utilizzavano un modello.
 
-## Peak time of engagement {#peak-time-of-engagement}
+## Tempo massimo di coinvolgimento {#peak-time-of-engagement}
 
-Across the board we bubble up the peak time of engagement that indicates what time of day your team is getting the most activity (views, clicks, replies). Your team can schedule emails or plan to send emails strategically around this time.
+Attraverso l&#39;intera bacheca si gonfia il picco di coinvolgimento che indica a che ora del giorno il tuo team sta ottenendo il maggior numero di attività (visualizzazioni, clic, risposte). Il team può pianificare e-mail o pianificare l’invio di e-mail in modo strategico in questo momento.
 
-## Deals closed {#deals-closed}
+## Offerte chiuse {#deals-closed}
 
-This is based on the sales gong and how many deals have been closed within the current month.
+Questo è basato sul gong di vendita e quante offerte sono state chiuse entro il mese in corso.
 
-As a bonus, we total your team&#39;s view rate engagement. In this Tab, you can also see the Rep Leaderboard. Email stats for each person in your team are displayed here.
+Come bonus, il tasso di coinvolgimento del tuo team è totale. In questa scheda è inoltre possibile visualizzare la classifica Rep. Qui vengono visualizzati gli stati e-mail per ogni persona del team.

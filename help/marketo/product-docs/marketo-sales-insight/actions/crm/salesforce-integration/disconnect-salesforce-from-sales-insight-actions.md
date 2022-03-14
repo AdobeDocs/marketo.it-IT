@@ -1,6 +1,6 @@
 ---
-description: Disconnect Salesforce From Sales Insight Actions - Marketo Docs - Product Documentation
-title: Disconnect Salesforce From Sales Insight Actions
+description: Scollegare Salesforce Dalle Azioni Di Insight Sulle Vendite - Marketo Docs - Documentazione Del Prodotto
+title: Scollega Salesforce Dalle Azioni Di Insight Sulle Vendite
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,34 +10,34 @@ ht-degree: 0%
 
 ---
 
-# Disconnect Salesforce From Sales Insight Actions {#disconnect-salesforce-from-sales-insight-actions}
+# Scollega Salesforce Dalle Azioni Di Insight Sulle Vendite {#disconnect-salesforce-from-sales-insight-actions}
 
-Sometimes you may need to disconnect your Salesforce account from your Sales Insight Actions account. Here&#39;s how.
+A volte può essere necessario scollegare il tuo account Salesforce dal tuo account Sales Insight Actions. Ecco come.
 
-## How to Disconnect From Salesforce as an Admin {#how-to-disconnect-from-salesforce-as-an-admin}
+## Come disconnettersi da Salesforce come amministratore {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. ****
-
-PICC
-
-1. ****
+1. In Azioni Approfondimenti vendite, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
 PICC
 
-1. ****
+1. In Impostazioni amministratore, fai clic su **Salesforce**.
 
 PICC
 
-## How to Disconnect From Salesforce as a non-Admin {#how-to-disconnect-from-salesforce-as-a-non-admin}
-
-1. ****
+1. Nella scheda Connessioni e personalizzazioni fare clic su **Disconnetti**.
 
 PICC
 
-1. ****
+## Come disconnettersi da Salesforce come non amministratore {#how-to-disconnect-from-salesforce-as-a-non-admin}
+
+1. In Azioni Approfondimenti vendite, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
 PICC
 
-1. ****
+1. In Il mio account, seleziona **Salesforce**.
+
+PICC
+
+1. Nella scheda Connessioni e personalizzazioni fare clic su **Disconnetti**.
 
 PICC

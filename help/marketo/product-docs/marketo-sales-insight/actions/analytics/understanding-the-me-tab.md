@@ -1,6 +1,6 @@
 ---
-description: Understanding the Me Tab - Marketo Docs - Product Documentation
-title: Understanding the Me Tab
+description: Informazioni sulla scheda Me - Marketo Docs - Documentazione del prodotto
+title: Informazioni sulla scheda Me
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,8 +10,8 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Me Tab {#understanding-the-me-tab}
+# Informazioni sulla scheda Me {#understanding-the-me-tab}
 
-In the Me Tab we show you the number of emails sent, as well as how many emails were sent using a template with the emailing activity.
+Nella scheda Me vengono visualizzati il numero di e-mail inviate, nonché il numero di e-mail inviate utilizzando un modello con l’attività e-mail.
 
-We also show you the list of who&#39;s been spending the most time trying to engage with you, and a list of your most engaging emails sorted by total number of tracked events (views/clicks/replies). Have a one-off email getting really high engagement? Make it a template!
+Ti mostriamo anche l’elenco delle persone che hanno più tempo a disposizione per cercare di interagire con te e un elenco delle e-mail più coinvolgenti ordinate per numero totale di eventi tracciati (visualizzazioni/clic/risposte). Hai un&#39;e-mail una tantum con un coinvolgimento davvero elevato? Fatelo un modello!
