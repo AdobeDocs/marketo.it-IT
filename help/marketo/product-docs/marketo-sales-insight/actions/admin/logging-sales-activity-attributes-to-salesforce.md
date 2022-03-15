@@ -3,9 +3,10 @@ description: Registrazione degli attributi delle attività di vendita su Salesfo
 title: Registrazione degli attributi delle attività di vendita a Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
@@ -26,7 +27,7 @@ L’amministratore Salesforce può aggiungere manualmente campi di attività per
 
 Descrizione di ciascuna colonna della tabella seguente:
 
-* **Etichetta campo**: Nome del campo visualizzato nell’interfaccia utente
+* **Etichetta campo**: Nome del campo visualizzato nell’interfaccia utente (questo nome può essere personalizzato per migliorare la leggibilità da parte del team)
 * **Nome campo**: Nome tecnico del campo (assicurati che il Nome campo immesso corrisponda al Nome campo nella tabella seguente)
 * **Nome API**: Nome tecnico del campo API (assicurati che il nome API immesso corrisponda al nome API nella tabella seguente)
 * **Tipo di dati**: Tipo di campo

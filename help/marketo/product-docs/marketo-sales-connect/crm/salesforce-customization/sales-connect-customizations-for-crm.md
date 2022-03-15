@@ -3,16 +3,16 @@ unique-page-id: 14745793
 description: Personalizzazioni di vendita Connect per CRM - Marketo Docs - Documentazione del prodotto
 title: Personalizzazioni di vendita Connect per CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
 
 # Personalizzazioni di vendita Connect per CRM {#sales-connect-customizations-for-crm}
 
-I campi e i pulsanti riportati di seguito vengono creati dall’API metadati in CRM Salesforce. Una volta creati i campi, gli amministratori devono configurare i layout di pagina nel proprio sistema di gestione delle relazioni con i clienti per esporli. Le istruzioni sono disponibili [qui](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+I campi e i pulsanti riportati di seguito vengono creati dall’API metadati in CRM Salesforce. Una volta creati i campi, gli amministratori devono configurare i layout di pagina nel proprio sistema di gestione delle relazioni con i clienti per esporli. Le istruzioni sono disponibili [qui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
