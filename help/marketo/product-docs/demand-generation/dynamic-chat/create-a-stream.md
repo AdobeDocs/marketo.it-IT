@@ -2,9 +2,9 @@
 description: Creare un flusso - Documenti Marketo - Documentazione del prodotto
 title: Creare un flusso
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: d2ac03bd01e1dd6998d47aac82383b64ffdd3ee7
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -110,7 +110,7 @@ Ci sono _molti_ combinazioni di flussi che è possibile creare. Questo articolo 
 
    ![](assets/create-a-stream-17.png)
 
-1. Per visualizzare l’anteprima della finestra di dialogo, fai clic sull’icona di anteprima a destra.
+1. Seleziona la **Anteprima** per visualizzare l’anteprima della finestra di dialogo.
 
    ![](assets/create-a-stream-18.png)
 
