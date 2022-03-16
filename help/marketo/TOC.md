@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '8449'
+source-wordcount: '8456'
 ht-degree: 0%
 
 ---
@@ -1321,6 +1321,9 @@ ht-degree: 0%
                + [Importare contatti tramite CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [Gestisci gruppi](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Colonne della pagina Persone](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
+         + Telefono {#phone}
+            + [Abilita registrazione chiamate](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [Impostazioni di consenso bipartito](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Configurazione Salesforce {#salesforce-configuration}
             + [Configurazione delle azioni di Insight sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Disinstallare il pacchetto di personalizzazione Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)

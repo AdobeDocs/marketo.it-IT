@@ -2,16 +2,18 @@
 description: Creare un flusso - Documenti Marketo - Documentazione del prodotto
 title: Creare un flusso
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Creare un flusso {#create-a-stream}
 
-Ci sono _molti_ combinazioni di flussi che è possibile creare. Di seguito è riportato un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha delle domande sul prodotto. Se sì, il visitatore può pianificare un appuntamento. In caso contrario, al visitatore viene offerta la possibilità di partecipare a una mailing list per la corrispondenza futura. L&#39;obiettivo è pianificare un appuntamento o raccogliere l&#39;e-mail del visitatore.
+Ci sono _molti_ combinazioni di flussi che è possibile creare. Questo articolo contiene un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha delle domande sul prodotto. Se sì, il visitatore può pianificare un appuntamento. In caso contrario, al visitatore viene offerta la possibilità di partecipare a una mailing list per la corrispondenza futura. L&#39;obiettivo è pianificare un appuntamento o raccogliere l&#39;e-mail del visitatore.
+
+![](assets/create-a-stream-0.png)
 
 1. Dopo [crea la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), fai clic su **Progettazione flussi** scheda .
 
@@ -108,9 +110,13 @@ Ci sono _molti_ combinazioni di flussi che è possibile creare. Di seguito è ri
 
    ![](assets/create-a-stream-17.png)
 
-1. Per attivare la finestra di dialogo, fai clic su **Pubblica**.
+1. Per visualizzare l’anteprima della finestra di dialogo, fai clic sull’icona di anteprima a destra.
 
    ![](assets/create-a-stream-18.png)
+
+1. Quando sei pronto per attivare la finestra di dialogo, fai clic su **Pubblica**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >

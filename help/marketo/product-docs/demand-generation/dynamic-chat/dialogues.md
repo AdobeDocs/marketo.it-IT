@@ -2,9 +2,9 @@
 description: Finestre di dialogo - Documenti Marketo - Documentazione del prodotto
 title: Finestre di dialogo
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Le finestre di dialogo sono conversazioni individuali via chat. Scopri come pers
 
    ![](assets/dialogues-2.png)
 
-1. Immettere un nome (la descrizione è facoltativa), impostare il livello di priorità e fare clic su **Salva**.
+1. Scegliere una finestra di dialogo vuota o uno dei modelli precompilati. Immetti un nome (la descrizione è facoltativa), modifica il livello di priorità (facoltativo) e fai clic su **Crea**.
 
    ![](assets/dialogues-3.png)
 
