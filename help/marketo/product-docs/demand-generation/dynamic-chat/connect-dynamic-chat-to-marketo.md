@@ -2,9 +2,9 @@
 description: Collegare la chat dinamica a Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Collegare la chat dinamica a Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Dopo aver completato le [configurazione iniziale](/help/marketo/product-docs/dem
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Seleziona fino a 50 campi standard o personalizzati da sincronizzare con Chat dinamica. Fai clic su **Successivo** al termine.
+1. Seleziona fino a 50 campi standard o personalizzati dall’istanza di Marketo per la sincronizzazione con la chat dinamica da utilizzare nel targeting del pubblico, nella mappatura dei dati e nella personalizzazione. Fai clic su **Successivo** al termine.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ Dopo aver completato le [configurazione iniziale](/help/marketo/product-docs/dem
    >
    >Al momento, le selezioni degli attributi **impossibile** vengono modificati dopo la sincronizzazione iniziale. Al termine della sincronizzazione, puoi solo tornare indietro e aggiungere di più (se hai scelto meno di 50).
 
-1. Assicurati di avere le selezioni corrette (promemoria: non è possibile rimuovere gli attributi post-sincronizzazione, quindi fai clic su **Modifica selezioni** se devi modificare qualcuno in questo passaggio). Fai clic su **Conferma** al termine dell’avvio della sincronizzazione.
+1. Rivedi le selezioni (promemoria: non è possibile rimuovere gli attributi post-sincronizzazione, quindi fai clic su **Modifica selezioni** se devi modificare qualcuno in questo passaggio). Fai clic su **Conferma** al termine dell’avvio della sincronizzazione.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
