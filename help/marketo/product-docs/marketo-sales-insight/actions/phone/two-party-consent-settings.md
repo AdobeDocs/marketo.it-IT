@@ -3,9 +3,10 @@ description: Impostazioni di consenso bipartito - Documenti Marketo - Documentaz
 title: Impostazioni di consenso bipartito
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,32 +21,32 @@ Al fine di garantire la conformità alle leggi di consenso di due parti degli St
 
 1. Fai clic sull’icona Impostazioni e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. In Impostazioni amministratore, fai clic su **Generale**.
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. Scorri verso il basso fino a Impostazioni telefono vendita Connect e fai clic su **Gestisci avviso di registrazione**.
+1. Nella scheda di registrazione delle chiamate, fai clic su **Gestisci avviso di registrazione**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. Fai clic su **Registrazione importazione**.
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
->[!NOTE]
->
->Sono supportati solo i file Wav e MP3. Non puoi caricare un file per più di 30 secondi.
+   >[!NOTE]
+   >
+   >Sono supportati solo i file Wav e MP3. Non puoi caricare un file per più di 30 secondi.
 
-1. Selezionare il file audio desiderato dal disco rigido.
+1. Selezionare i file audio desiderati dal disco rigido.
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. Una volta completato il caricamento, seleziona il punto (tre punti) nel file manager e fai clic su **Seleziona come avviso di consenso**. Fai clic su **OK** al termine.
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. Fai clic sull’interruttore per attivare la riproduzione del messaggio selezionato all’inizio delle chiamate registrate.
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)
