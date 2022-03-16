@@ -1,14 +1,13 @@
 ---
-description: Inviare un elenco a un Ad Network - Documenti Marketo - Documentazione del prodotto
+description: Inviare un elenco a una rete di annunci - Documenti Marketo - Documentazione del prodotto
 title: Inviare un elenco a una rete di annunci
-translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # Inviare un elenco a una rete di annunci {#send-a-list-to-an-ad-network}
 
@@ -16,11 +15,11 @@ Scopri come inviare un elenco statico a LinkedIn, Facebook o Google.
 
 ## Come inviare un elenco {#how-to-send-a-list}
 
-1. In Marketo, seleziona l’elenco, fai clic sul menu a discesa **Azioni elenco** e seleziona **Invia ad rete annunci**.
+1. In Marketo, seleziona l’elenco e fai clic sul pulsante **Azioni elenco** a discesa e seleziona **Invia ad Network**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Scegli tra LinkedIn, Facebook o Google (le altre opzioni non sono disponibili al momento). In questo esempio, scegliamo **LinkedIn**. Fare clic su **Avanti**.
+1. Scegli tra LinkedIn, Facebook o Google (le altre opzioni non sono disponibili al momento). In questo esempio, stiamo scegliendo **linkedIn**. Fai clic su **Successivo**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -38,9 +37,9 @@ Scopri come inviare un elenco statico a LinkedIn, Facebook o Google.
 
    >[!NOTE]
    >
-   >Se selezioni &quot;Abilita sincronizzazione continua del pubblico&quot;, Marketo mantiene l’elenco aggiornato nella rete di annunci selezionata quando l’iscrizione all’elenco cambia nell’istanza di Marketo.
+   >Se selezioni &quot;Abilita sincronizzazione continua dell&#39;audience&quot;, Marketo mantiene l&#39;elenco aggiornato nell&#39;Ad Network selezionato quando l&#39;elenco cambia nell&#39;istanza Marketo. Aggiungiamo entrambi **e** rimuovi le persone dal pubblico se sono state aggiunte o rimosse dall’elenco statico.
 
-1. Ed è tutto! Fare clic su **OK** per uscire.
+1. Ed è tutto! Fai clic su **OK** per uscire.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

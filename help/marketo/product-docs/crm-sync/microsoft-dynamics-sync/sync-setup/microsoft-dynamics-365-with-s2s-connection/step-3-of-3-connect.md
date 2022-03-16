@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 'Passaggio 3 di 3: collegare la soluzione Marketo con la connessione server-to-server - Marketo Docs - Documentazione del prodotto'
 title: 'Passaggio 3 di 3: collegare la soluzione Marketo con la connessione server-to-server'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Questo è l&#39;ultimo passaggio della sincronizzazione. Ci siamo quasi!
    >
    >Assicurati che l’URL dell’organizzazione sia corretto in quanto non è possibile ripristinare le successive modifiche dello schema dopo l’invio. Se viene utilizzato un URL organizzazione non corretto, dovrai ottenere una nuova sottoscrizione Marketo. Se non conosci l’URL, [scopri come trovarlo qui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Inserisci il **Nome utente**, **Password**, **ID client**, **Segreto client** e Microsoft Dynamics **URL**. Fai clic su **Salva** al termine.
+1. Immetti le informazioni utente di Dynamics Sync e fai clic su **Salva** al termine.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
