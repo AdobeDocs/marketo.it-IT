@@ -1,15 +1,15 @@
 ---
-unique-page-id: 14352494
 description: Mi sono bloccata fuori dal mio account. Cosa Faccio? - Documentazione Marketo - Documentazione del prodotto
 title: Mi sono bloccata fuori dal mio account. Cosa Faccio?
-exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
+hide: true
+hidefromtoc: true
 source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Mi sono bloccata fuori dal mio account. Cosa Faccio? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Se hai superato il numero di tentativi di accesso, verrai bloccato fuori dal tuo account. Contattare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support#) per assistenza che lo sblocca.
+A questo punto, l&#39;unico modo per sbloccare il tuo account è contattare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support#).
