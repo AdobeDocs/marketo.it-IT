@@ -4,9 +4,9 @@ title: Impostazioni di sincronizzazione Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -114,3 +114,21 @@ Se in Impostazioni non trovi My Email to Salesforce , il tuo amministratore potr
 1. Scegli l’opzione desiderata (&quot;Non sincronizzare con le attività Salesforce&quot; è selezionata per impostazione predefinita).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Sincronizzazione delle azioni Approfondimenti vendite con Salesforce per la prima volta {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+Quando attivi per la prima volta la sincronizzazione tra le azioni Approfondimenti vendite e le attività Salesforce, importiamo le attività Salesforce. Non verranno inviate a Salesforce le attività correnti in Azioni Approfondimenti vendite. Per ridurre l&#39;ingombro e i duplicati, le uniche attività che vengono sincronizzate dalle azioni Insight sulle vendite in Salesforce sono le attività create dopo la sincronizzazione delle azioni Approfondimenti sulle vendite con SFDC.
+
+Ecco cosa succede quando sincronizzi le azioni Approfondimenti vendite e le attività SFDC:
+
+Non appena fai clic su salva nella sincronizzazione delle attività, queste iniziano a sincronizzarsi. Inizialmente ci vorrà un po&#39; di tempo.
+
+Eventuali promemoria aggiornati o creati nelle ultime 24 ore verranno trasferiti dalla DSC alle azioni di Insight sulle vendite. La sincronizzazione è basata sulla data di scadenza e tutte le attività verranno sincronizzate sul back-end, ma in Command Center verranno visualizzate solo le attività scadute oggi e domani.
+
+Se la sincronizzazione è stata attivata in precedenza e si eliminano attività in SFDC, tutto ciò che è stato eliminato negli ultimi 15 giorni verrà eliminato dal Centro comandi.
+
+Sincronizzeremo costantemente le attività tra le azioni Approfondimenti vendite e SFDC, purché la sincronizzazione sia abilitata.
+
+Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Azioni Insight vendite verranno sincronizzate nell’elenco delle attività in Salesforce. E qualsiasi cosa creata, modificata, completata o eliminata in Salesforce aggiornerà l’elenco delle attività in Azioni Approfondimenti vendite.
+
+Per attivare questa sincronizzazione, è sufficiente selezionare la casella di sincronizzazione nella pagina Impostazioni nell&#39;applicazione Web.

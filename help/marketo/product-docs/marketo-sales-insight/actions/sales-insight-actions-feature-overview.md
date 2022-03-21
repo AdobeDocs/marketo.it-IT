@@ -2,9 +2,9 @@
 description: Panoramica delle azioni Approfondimenti vendite - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della funzione Approfondimenti vendite
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Panoramica della funzione Approfondimenti vendite {#msi-actions-feature-overview}
 
 Accelerare le attività di ricerca grazie a strumenti di intelligenza e coinvolgimento basati sul marketing insieme in un unico flusso di lavoro utilizzando le azioni di Insight sulle vendite.
+
+>[!AVAILABILITY]
+>
+>Questa funzione è attualmente in versione GA limitata. Contatta il tuo Customer Success Manager o invia un&#39;e-mail `sales-insights(at)adobe(dot)com` per richiedere l&#39;accesso.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
