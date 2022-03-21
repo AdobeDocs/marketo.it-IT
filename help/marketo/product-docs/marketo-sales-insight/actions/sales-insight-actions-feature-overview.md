@@ -1,10 +1,8 @@
 ---
 description: Panoramica delle azioni Approfondimenti vendite - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della funzione Approfondimenti vendite
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 0%
@@ -23,7 +21,7 @@ Le seguenti azioni sono disponibili dal menu a discesa &quot;Scegli azioni&quot;
 
 * Invia e-mail di vendita
    * Le e-mail di vendita dispongono di funzioni di visualizzazione, tracciamento dei clic e delle risposte (quando il canale di consegna è impostato)
-   * Include personalizzazione e-mail, firma personalizzata e allegati
+   * Include Personalization e-mail, firma personalizzata e allegati
    * Condivisione di modelli e rapporti
    * Condivisione di team, e-mail di gruppo e funzionalità CC/CCN
    * L&#39;attività e-mail di vendita verrà registrata nel record personale di Marketo
@@ -75,7 +73,7 @@ Le seguenti azioni sono disponibili nella navigazione superiore:
 
 * Invia e-mail di vendita - Possibilità di inviare e-mail di gruppo personalizzate o modellate con visualizzazione, clic e risposta tracking a tutti i contatti associati a un account/opportunità
    * Le e-mail di vendita dispongono di funzioni di visualizzazione, tracciamento dei clic e delle risposte (quando il canale di consegna è impostato)
-   * Include personalizzazione e-mail, firma personalizzata e allegati
+   * Include Personalization e-mail, firma personalizzata e allegati
    * Condivisione di modelli e rapporti
    * Condivisione di team, e-mail di gruppo e funzionalità CC/CCN
    * L&#39;attività e-mail di vendita verrà registrata nel record personale di Marketo
