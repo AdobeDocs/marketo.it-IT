@@ -3,7 +3,7 @@ description: Campi dinamici - Documenti Marketo - Documentazione del prodotto
 title: Campi dinamici
 hide: true
 hidefromtoc: true
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: a0b10255513c13b7100b667513e3e61fc3788a15
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -60,4 +60,4 @@ Questo strumento viene utilizzato per `auto-personalize your email` e risparmiar
 
 >[!TIP]
 >
->Se i campi dinamici non si popolano, estrarre [articolo](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out).
+>Se i campi dinamici non si popolano, estrarre [articolo](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
