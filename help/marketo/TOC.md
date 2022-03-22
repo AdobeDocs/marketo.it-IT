@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 0%
          + Campagne {#campaigns}
             + [Aggiungi a campagna di marketing](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Campaign è terminato](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Visualizza elenco campagne come un altro utente](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Personalizzazione Salesforce {#salesforce-customization}
                + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 0%
             + [Registra e-mail in un&#39;origine esterna](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Momenti interessanti nelle azioni di Insight sulle vendite](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Rendere una campagna visibile agli utenti di Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [Trigger e filtri dell&#39;attività di vendita](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossario delle attività di Sales Insight](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
