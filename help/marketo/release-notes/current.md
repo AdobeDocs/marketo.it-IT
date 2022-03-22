@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 
 ## Orchestrazione tra canali {#cross-channel-orchestration}
 
-* **Chat dinamica**: Ottimizza ogni opportunità sul tuo sito web puntando sia i lead che gli account con conversazioni personalizzate proattive, coinvolgenti e 1:1. La chat dinamica consente agli utenti del Marketo Engage di iniziare a sfruttare la chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le funzioni includono: la possibilità di prenotare riunioni direttamente nella chat, indirizzamento lead, modelli iniziali, creazione di conversazioni drag-and-drop e molto altro ancora. La chat dinamica è inclusa in tutti i pacchetti di Marketo Engage e verrà implementata a tutti gli utenti del Marketo Engage quest&#39;anno.
+* **Chat dinamica**: Ottimizza ogni opportunità sul tuo sito web puntando sia i lead che gli account con conversazioni personalizzate proattive, coinvolgenti e 1:1. [Chat dinamica](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} consente agli utenti del Marketo Engage di iniziare a sfruttare la chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le funzioni includono: la possibilità di prenotare riunioni direttamente nella chat, indirizzamento lead, modelli iniziali, creazione di conversazioni drag-and-drop e molto altro ancora. La chat dinamica è inclusa in tutti i pacchetti di Marketo Engage e verrà implementata a tutti gli utenti del Marketo Engage quest&#39;anno.
 
-* **Miglioramento del filtro dell’attività del bot e-mail**: Come miglioramento alla funzione di filtro dell’attività bot e-mail precedentemente rilasciata, ora puoi acconsentire alle attività di registrazione identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
+* **Miglioramento del filtro dell’attività del bot e-mail**: Come miglioramento alla versione precedente [Filtro attività bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}, ora puoi acconsentire alle attività di registrazione identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
 
 ## Esperienza di nuova generazione {#next-generation-experience}
 
@@ -54,6 +54,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 * **Esportazione oggetti personalizzati in blocco aggiornata al filtro**: Consente agli addetti al marketing di sincronizzare programmaticamente gli oggetti personalizzati
 * **Impostazione Expo Head Start per i programmi e-mail**: Consente agli esperti di marketing di configurare programmi e-mail con head-start tramite API
 * **Aggiornamento tag del programma selettivo**: Consente agli addetti al marketing di inviare aggiornamenti selettivi dei tag senza spostare contemporaneamente tutti i tag
+* **Campo actionResult dell&#39;estrazione dell&#39;attività in blocco**: Consente agli esperti di marketing di identificare quali attività sono state saltate o non riuscite
 
 **_Rilascio in tutto il trimestre_**
 
