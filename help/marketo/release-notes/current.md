@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,6 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 
 * **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
 
-   * Visualizzazione elenco e-mail in Design Studio (comprese nuove azioni in blocco)
    * Visualizzazione a elenco moduli in Design Studio (comprese nuove azioni in blocco)
 
 * **Aggiorna flusso di lavoro del programma di importazione**: Il flusso di lavoro del programma di importazione viene distribuito nell’esperienza di nuova generazione con una progettazione aggiornata e miglioramenti all’usabilità. Si tratta di una modifica automatica senza interruttore di attivazione/disattivazione.
