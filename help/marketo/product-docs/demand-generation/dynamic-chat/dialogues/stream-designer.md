@@ -2,9 +2,9 @@
 description: Stream Designer - Documenti Marketo - Documentazione del prodotto
 title: Progettazione flussi
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
 
 ## Creare un flusso {#create-a-stream}
 
-1. Dopo [crea la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md), fai clic su **Progettazione flussi** scheda .
+1. Dopo [crea la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, fai clic sul pulsante **Progettazione flussi** scheda .
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
 
 >[!NOTE]
 >
->Prima di fare clic su Pubblica, ricorda di avere [ha inserito gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Prima di fare clic su Pubblica, ricorda di avere [ha inserito gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >

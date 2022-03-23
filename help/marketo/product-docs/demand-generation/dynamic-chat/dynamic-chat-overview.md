@@ -2,9 +2,9 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Viene sincronizzato quanto segue:
 
 ## Finestre di dialogo {#dialogues}
 
-Le finestre di dialogo rappresentano un singolo coinvolgimento di chat. Immaginalo come un contenitore con tutte le cose necessarie per avere un dialogo chat coinvolgente con i visitatori del tuo sito web. In ciascuna finestra di dialogo è possibile specificare le pagine sulle quali si desidera visualizzare la finestra di dialogo, le relative pagine e il contenuto e il flusso della finestra stessa. Inoltre, puoi trovare le metriche per vedere le prestazioni della finestra di dialogo. [Ulteriori informazioni sulle finestre di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Le finestre di dialogo rappresentano un singolo coinvolgimento di chat. Immaginalo come un contenitore con tutte le cose necessarie per avere un dialogo chat coinvolgente con i visitatori del tuo sito web. In ciascuna finestra di dialogo è possibile specificare le pagine sulle quali si desidera visualizzare la finestra di dialogo, le relative pagine e il contenuto e il flusso della finestra stessa. Inoltre, puoi trovare le metriche per vedere le prestazioni della finestra di dialogo. [Ulteriori informazioni sulle finestre di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
 ## Configurazione {#configuration}
 
