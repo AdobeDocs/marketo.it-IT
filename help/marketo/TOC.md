@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 2e9bedc9141e2a50899e0d7e3c8407ca5ed2a2f9
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8608'
 ht-degree: 0%
 
 ---
@@ -595,7 +595,7 @@ ht-degree: 0%
             + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Creare una finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Criteri del pubblico](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [Creare un flusso](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+            + [Progettazione flussi](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
             + [Rapporti](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Eventi {#events}
          + Informazioni sugli eventi {#understanding-events}
