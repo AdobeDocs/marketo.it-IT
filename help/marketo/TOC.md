@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 2e9bedc9141e2a50899e0d7e3c8407ca5ed2a2f9
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '8608'
+source-wordcount: '8609'
 ht-degree: 0%
 
 ---
@@ -1279,7 +1279,7 @@ ht-degree: 0%
                + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Integrazione Salesforce {#salesforce-integration}
                + [Configurare la personalizzazione dei dettagli dell’attività Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-               + [Collega il tuo account di vendita Marketo a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Collega l&#39;account delle azioni di Insight sulle vendite a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + [Scollega Salesforce Dalle Azioni Di Insight Sulle Vendite](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Registrazione delle risposte](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostica Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)

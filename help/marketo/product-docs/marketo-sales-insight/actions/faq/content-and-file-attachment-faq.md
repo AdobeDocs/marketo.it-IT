@@ -1,9 +1,8 @@
 ---
 description: Domande frequenti su contenuto e file allegati - Documenti Marketo - Documentazione del prodotto
 title: Domande frequenti su contenuto e file allegato
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -26,7 +25,7 @@ Le opzioni File e contenuto sono disponibili in: e-mail una tantum, modelli, cam
 
 ## Chi gestisce il contenuto e dove viene memorizzato? {#who-manages-the-content-and-where-is-it-stored}
 
-Il contenuto può essere caricato nell’archivio delle azioni Insight di vendita da qualsiasi utente con la possibilità di creare modelli. Ciò significa che gli utenti potranno caricare il contenuto desiderato.
+Il contenuto può essere caricato nell’archivio delle azioni Insight di vendita da qualsiasi utente con la possibilità di creare modelli. Ciò significa che gli utenti potranno caricare il contenuto a loro scelta.
 
 ## I contenuti, le playlist, i modelli, ecc. possono essere creati/organizzati dai team? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

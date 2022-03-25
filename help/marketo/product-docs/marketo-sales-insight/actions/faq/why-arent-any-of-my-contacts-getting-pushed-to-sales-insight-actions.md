@@ -1,9 +1,8 @@
 ---
 description: Perché nessuno dei miei contatti viene spinto ad azioni di Insight sulle vendite? - Documentazione Marketo - Documentazione del prodotto
 title: Perché nessuno dei miei contatti viene spinto ad azioni di Insight sulle vendite?
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
