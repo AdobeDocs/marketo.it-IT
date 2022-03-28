@@ -3,7 +3,8 @@ description: Tracciamento degli obiettivi e registrazioni previste - Documenti M
 title: Informazioni sul tracciamento degli obiettivi e sulle registrazioni previste
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
+source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Informazioni sul tracciamento degli obiettivi e sulle registrazioni previste {#understanding-goal-tracking-and-projected-registrations}
 
-Dopo [impostazione degli obiettivi dell’evento](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) e inviare inviti tramite un [campagna intelligente](/help/sky/create-a-smart-campaign.md), ecco come tracciare il progresso del tuo obiettivo e capire le previsioni di Marketo.
+Dopo [impostazione degli obiettivi dell’evento](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) e inviare inviti tramite un [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md), ecco come tracciare il progresso del tuo obiettivo e capire le previsioni di Marketo.
 
 >[!NOTE]
 >
