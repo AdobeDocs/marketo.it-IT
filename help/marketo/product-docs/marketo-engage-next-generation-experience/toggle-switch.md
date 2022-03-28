@@ -2,9 +2,9 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -81,14 +81,32 @@ La nuova esperienza verrà caricata.
 
 ![](assets/toggle-switch-13.png)
 
+## Visualizzazione a elenco moduli {#form-list-view}
+
+1. In Marketo, seleziona **Design Studio**.
+
+   ![](assets/toggle-switch-14.png)
+
+1. Seleziona **Forms**.
+
+   ![](assets/toggle-switch-15.png)
+
+1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
+
+   ![](assets/toggle-switch-16.png)
+
+La nuova esperienza verrà caricata.
+
+![](assets/toggle-switch-17.png)
+
 ## Abilita per tutte le funzionalità {#enable-for-all-features}
 
 È possibile abilitare l&#39;interfaccia di nuova generazione di Marketo per tutte le funzioni disponibili, attuali e future.
 
 1. In un&#39;area che al momento dispone dell&#39;interruttore di attivazione/disattivazione (in questo esempio ci troviamo in [Pagina dei dettagli del modulo](#form-details-page)), fai clic sull’icona a forma di ingranaggio in basso a destra della pagina.
 
-   ![](assets/toggle-switch-14.png)
+   ![](assets/toggle-switch-18.png)
 
 1. Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
 
-   ![](assets/toggle-switch-15.png)
+   ![](assets/toggle-switch-19.png)

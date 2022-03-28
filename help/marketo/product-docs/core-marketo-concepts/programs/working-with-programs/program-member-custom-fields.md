@@ -3,15 +3,14 @@ unique-page-id: 37355569
 description: Campi personalizzati dei membri del programma - Documenti Marketo - Documentazione del prodotto
 title: Campi personalizzati membri del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
-# Campi personalizzati dei membri del programma {#program-member-custom-fields}
+# Campi personalizzati membri del programma {#program-member-custom-fields}
 
 I campi personalizzati dei membri del programma consentono di raccogliere dati specifici per ciascun membro. Possono essere utilizzati in: Moduli Marketo, filtri e attivatori dell’elenco avanzato e azioni di flusso di Smart Campaign. I dati sono visualizzabili nella scheda Membri del programma.
 
@@ -19,17 +18,17 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 >
 >Al momento i campi personalizzati dei membri del programma non dispongono di un’integrazione con i campi membri della campagna Salesforce.
 
-## Crea un campo personalizzato membro del programma {#create-a-program-member-custom-field}
+## Creare un campo personalizzato per un membro del programma {#create-a-program-member-custom-field}
 
 1. In Marketo, fai clic su **Amministratore**.
 
    ![](assets/one.png)
 
-1. Fare clic su **Gestione campi**.
+1. Fai clic su **Gestione dei campi**.
 
    ![](assets/two.png)
 
-1. Fare clic su **Nuovo campo personalizzato**.
+1. Fai clic su **Nuovo campo personalizzato**.
 
    ![](assets/three.png)
 
@@ -60,19 +59,20 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 
 ## Triggers e filtri {#triggers-and-filters}
 
-Puoi sfruttare questi dati specifici del programma negli elenchi smart tramite [trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) e/o [filtri](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
+Puoi sfruttare questi dati specifici del programma in elenchi smart tramite [trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) e/o [filtri](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
 ![](assets/six.png)
 
-## Informazioni da conoscere {#things-to-know}
+## Cose da sapere {#things-to-know}
 
 * I campi personalizzati dei membri del programma sono disponibili solo nelle risorse locali. Non sono supportati in Design Studio perché non è possibile collegarli a un programma specifico.
 * Non è possibile clonare/spostare in Design Studio un modulo (o una pagina di destinazione con un modulo) contenente campi personalizzati per i membri del programma.
 * L&#39;oggetto membro del programma può contenere fino a 20 campi personalizzati. Tali campi sono disponibili per qualsiasi programma.
 * Quando si rimuove un membro di un programma, se nel campo personalizzato Membro programma sono presenti dati, i dati verranno eliminati da tale campo.
 * Per visualizzare i dati, fare clic sulla scheda Membri nel programma e creare una visualizzazione personalizzata che includa tali campi.
-* Sono supportate l’importazione e l’esportazione tramite [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [API](https://developers.marketo.com/).
+* Importazione ed esportazione tramite [elenco](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [API](https://developers.marketo.com/) sono supportati.
 * Quando si uniscono due persone, vengono utilizzati i dati dei campi personalizzati dei membri del programma vincitori. Ma se il vincitore non ne ha, verrà utilizzato il valore del perdente.
+* Cambia tipo: **not** consentito nei campi Informazioni membro programma.
 
 >[!MORELIKETHIS]
 >
