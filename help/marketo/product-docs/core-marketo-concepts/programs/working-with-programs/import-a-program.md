@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importare un programma - Documentazione Marketo - Documentazione del prodotto
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Un programma può essere importato da un abbonamento Marketo a un altro. Ad esem
 
 1. Vai a **Attività di marketing.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. Fai clic su **Nuovo** a discesa. Seleziona **Programma di importazione**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ Un programma può essere importato da un abbonamento Marketo a un altro. Ad esem
 
 1. Selezionare un Marketo **Abbonamento** e un programma da importare. Fai clic su **Successivo**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. Specifica una **Cartella campagna** per il programma importato. Fai clic su **Avanti.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >Assicurati **Usa conflitto predefinito** regole selezionate. Le regole di conflitto sono necessarie quando si importano programmi in un’istanza con risorse dello stesso nome.
 
+1. Scegli i dettagli di conflitto desiderati e fai clic su **Successivo**.
+
+   ![](assets/import-a-program-5.png)
+
 1. Anteprima dettagli e **Importa** il programma.
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   Viene visualizzata una finestra di dialogo per l’avanzamento dell’importazione del programma.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 Al termine dell’importazione riceverai un messaggio e-mail di conferma.
 
