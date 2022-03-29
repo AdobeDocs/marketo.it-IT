@@ -2,7 +2,7 @@
 description: Panoramica della finestra di dialogo - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica della finestra di dialogo
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -28,3 +28,5 @@ La [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-c
 ## Rapporti {#reports}
 
 La [Rapporti](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)La sezione {target=&quot;_blank&quot;} di una finestra di dialogo consente di visualizzare le metriche relative alle prestazioni della finestra di dialogo.
+
+![](assets/dialogue-overview-3.png)

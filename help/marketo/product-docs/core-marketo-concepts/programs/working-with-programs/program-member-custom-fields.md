@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Campi personalizzati dei membri del programma - Documenti Marketo - Documentazione del prodotto
 title: Campi personalizzati membri del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Puoi sfruttare questi dati specifici del programma in elenchi smart tramite [tri
 * L&#39;oggetto membro del programma può contenere fino a 20 campi personalizzati. Tali campi sono disponibili per qualsiasi programma.
 * Quando si rimuove un membro di un programma, se nel campo personalizzato Membro programma sono presenti dati, i dati verranno eliminati da tale campo.
 * Per visualizzare i dati, fare clic sulla scheda Membri nel programma e creare una visualizzazione personalizzata che includa tali campi.
-* Importazione ed esportazione tramite [elenco](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [API](https://developers.marketo.com/) sono supportati.
+* Importazione ed esportazione tramite [elenco](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) e [API](https://developers.marketo.com/) sono supportati. Le esportazioni funzionano solo negli elenchi dei membri del programma, non negli elenchi statici.
 * Quando si uniscono due persone, vengono utilizzati i dati dei campi personalizzati dei membri del programma vincitori. Ma se il vincitore non ne ha, verrà utilizzato il valore del perdente.
 * Cambia tipo: **not** consentito nei campi Informazioni membro programma.
 
