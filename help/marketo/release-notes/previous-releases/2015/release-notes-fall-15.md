@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: Note sulla versione - Autunno 2015 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Autunno 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Crea facilmente oggetti personalizzati dall’interfaccia utente di amministrazi
 
 [Marketo Insights per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Siamo entusiasti di annunciare il rilascio di un aggiornamento alla nostra estensione Google Mail Sales Insight! Visualizzalo nel [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Siamo entusiasti di annunciare il rilascio di un aggiornamento alla nostra estensione Google Mail Sales Insight! Visualizzalo nel  [Archivio Chrome](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Questo aggiornamento include molte nuove funzioni e funzionalità:
 
@@ -60,11 +60,11 @@ Questo aggiornamento include molte nuove funzioni e funzionalità:
 * [Invia esempio](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Anteprima](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalizza facilmente le notifiche push con [token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Personalizzare facilmente le notifiche push con [gettoni](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Puoi anche [preview](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o inviare una notifica push [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) prima di distribuirla ai clienti.
+È inoltre possibile [anteprima](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o inviare un [esempio](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) notifica push prima di distribuirla ai clienti.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ Le statistiche sulle e-mail inviate tramite le campagne avanzate sono ora dispon
 
 ## RTP - Analisi dei contenuti e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Analisi dei contenuti e ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Recommendations
+[Analisi dei contenuti](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e Recommendations
 
 L’analisi dei contenuti RTP mostra le prestazioni delle risorse di contenuto web dalle visite web regolari e le visite generate dal motore di raccomandazione dei contenuti RTP.
 
@@ -95,8 +95,8 @@ L’analisi dei contenuti RTP mostra le prestazioni delle risorse di contenuto w
 
 La pagina Risorse di RTP è ora divisa in Analisi dei contenuti e Recommendations dei contenuti.
 
-* **Analisi dei contenuti:** mostra le visualizzazioni e i lead diretti di tutti i contenuti web scoperti e definiti, consentendoti di analizzare i contenuti con le prestazioni migliori
-* **Content Recommendations**: Mostra impression e clic dal contenuto consigliato dell’RTP e l’attribuzione del lead associata. Puoi anche modificare e abilitare i consigli sui contenuti da questa pagina per i consigli [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
+* **Analisi dei contenuti:** Mostra le visualizzazioni e i lead diretti di tutti i contenuti web scoperti e definiti, per consentirti di analizzare i contenuti con le prestazioni migliori
+* **Content Recommendations**: Mostra impression e clic dal contenuto consigliato dell’RTP e l’attribuzione del lead associata. Puoi anche modificare e abilitare i consigli sui contenuti da questa pagina per [barra](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) raccomandazioni.
 
 * Tutti i dati lead diretti in queste due pagine sono stati aggiornati retroattivamente dall’inizio dell’anno (1° gennaio 2015).
 
@@ -112,7 +112,7 @@ La clonazione di una campagna RTP rende più rapido ed efficiente la creazione d
 
 Stiamo apportando diversi miglioramenti all’editor Rich Text. Dopo il rilascio dell&#39;editor aggiornato a luglio, abbiamo ricevuto un feedback eccellente e siamo stati in grado di lavorare queste modifiche in questo aggiornamento. Ci sarà molto altro da fare nei prossimi mesi. Ecco un elenco delle novità di Q4:
 
-* VML ora è supportato all&#39;interno del codice HTML:
+* VML è ora supportato all’interno del codice HTML:
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -126,7 +126,7 @@ Stiamo apportando diversi miglioramenti all’editor Rich Text. Dopo il rilascio
 
 * Non aggiungere celle di tabella vuote con `&nbsp;`
 
-* Pulsante Ingrandisci/riduci a icona aggiunto all’editor sorgente HTML
+* Pulsante Massimizza/riduci a icona aggiunto all’editor sorgente di HTML
 * Le proprietà della tabella preesistenti vengono ora identificate e visualizzate nella finestra di dialogo Proprietà tabella
 * Entrambe le righe di pulsanti sono ora visualizzate per impostazione predefinita.
 * L’editor ora accetta qualsiasi elemento (anche elementi obsoleti o non standard):

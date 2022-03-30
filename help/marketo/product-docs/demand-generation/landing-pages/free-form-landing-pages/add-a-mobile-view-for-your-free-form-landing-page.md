@@ -1,52 +1,51 @@
 ---
 unique-page-id: 4720856
-description: Aggiungere una vista mobile alla pagina di destinazione a forma libera - Documenti Marketo - Documentazione del prodotto
-title: Aggiungere una vista mobile alla pagina di destinazione a forma libera
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Aggiungere una visualizzazione Mobile per la pagina di destinazione in formato libero - Marketo Docs - Documentazione del prodotto
+title: Aggiungere una visualizzazione mobile per la pagina di destinazione in formato libero
+exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Aggiungere una visualizzazione mobile per la pagina di destinazione in formato libero {#add-a-mobile-view-for-your-free-form-landing-page}
 
-# Aggiungere una visualizzazione mobile per la pagina di destinazione a forma libera {#add-a-mobile-view-for-your-free-form-landing-page}
-
-È facile rendere le pagine di destinazione a forma libera perfette su uno smartphone.
+È facile rendere le pagine di destinazione in formato libero splendide su uno smartphone.
 
 >[!NOTE]
 >
->La visualizzazione mobile funziona su schermi con una larghezza pari o inferiore a 480 pixel. In altre parole, gli smartphone. Ulteriori [informazioni sulle risoluzioni del dispositivo](https://mydevice.io/devices/).
+>La visualizzazione mobile funziona su schermi di larghezza (o inferiore a 480 px). In altre parole, gli smartphone. Ecco di più [informazioni sulle risoluzioni del dispositivo](https://www.mydevice.io/).
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selezionate una pagina di destinazione a forma libera.
+1. Seleziona una pagina di destinazione a forma libera.
 
    ![](assets/choose-landing-page.jpg)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **Modifica bozza**.
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Fare clic sulla scheda **Mobile**.
+1. Fai clic sul pulsante **Mobile** scheda .
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Fare clic su **Attiva**.
+1. Fai clic su **Attiva**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
    >[!CAUTION]
    >
-   >Potrebbe essere necessario aggiornare il modello a forma libera. Se viene visualizzato questo messaggio, leggi rapidamente come [rendere mobile compatibile un modello di pagina di destinazione a forma libera esistente](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Potrebbe essere necessario aggiornare il modello a forma libera. Se ricevi quel messaggio, consulta rapidamente le informazioni su come [rendere compatibile un modello di pagina di destinazione a forma libera esistente per dispositivi mobili](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Fantastico! È stata attivata la versione mobile della pagina di destinazione. Fare clic su **Chiudi**.
+1. Fantastico! È stata ora attivata la versione mobile della pagina di destinazione. Fai clic su **Chiudi**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Ora è possibile [personalizzare la visualizzazione mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
+   Ora puoi [personalizzare la visualizzazione mobile](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)

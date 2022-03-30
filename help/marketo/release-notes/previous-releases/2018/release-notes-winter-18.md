@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Note sulla versione - Inverno del 18 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -24,9 +24,9 @@ Marketo sfrutta la nostra architettura dei dati di grandi dimensioni per aumenta
 
 Abbiamo due miglioramenti alla nostra integrazione CRM Salesforce:
 
-* [Notifiche ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) dell’amministratore di Marketo per alcuni errori di sincronizzazione CRM (credenziali scadute, limiti API raggiunti, ecc.)
+* [Notifiche agli amministratori di Marketo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) per alcuni errori di sincronizzazione CRM (credenziali scadute, limiti API raggiunti, ecc.)
 
-* [Possibilità di disattivare le ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) notifiche e-mail ai proprietari lead in caso di assegnazione lead
+* [Possibilità di disattivare le notifiche e-mail](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) per i proprietari lead in caso di assegnazione lead
 
 Questi miglioramenti saranno implementati nel 2018.
 
@@ -54,7 +54,7 @@ Gli script Velocity sono ora supportati nelle e-mail che utilizzano contenuto di
 
 **Fuso orario destinatario**
 
-* **[Cadenza](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)** mensile dell&#39;infermiera: Abbiamo aggiunto la possibilità di programmare programmi di nutrizione su cadenza mensile.
+* **[Caduta mensile dell&#39;infermiera](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Abbiamo aggiunto la possibilità di programmare programmi di nutrizione su cadenza mensile.
 
 * **[Interrompi consegna](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Ora puoi interrompere tutti gli invii rimanenti a metà esecuzione.
 
@@ -62,7 +62,7 @@ Gli script Velocity sono ora supportati nelle e-mail che utilizzano contenuto di
 
 **[Integrazione Customer Match di Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Con questa integrazione, puoi inviare un pubblico Marketo a Google per il targeting tramite Google AdWords, nonché rieseguire il targeting del pubblico in YouTube, Search e Gmail.
+Con questa integrazione, puoi inviare un pubblico Marketo a Google per il targeting utilizzando Google AdWords, nonché rieseguire il targeting del pubblico in YouTube, Search e Gmail.
 
 **[Miglioramento dell’API di linkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
@@ -70,13 +70,13 @@ La nostra nuova API LinkedIn ora ti consente di rieseguire il targeting delle pe
 
 ## Personalizzazione web {#web-personalization}
 
-**Origine dati giapponese per la personalizzazione web**
+**Origine dati giapponese per Web Personalization**
 
-Marketo sta aggiungendo un’origine dati giapponese aggiuntiva per la personalizzazione web per migliorare l’identificazione dei visitatori web (ricerca IP inversa) e la personalizzazione per i visitatori provenienti dal Giappone. I nomi dell&#39;organizzazione verranno visualizzati in giapponese.
+Marketo sta aggiungendo un’origine dati giapponese aggiuntiva per Web Personalization per migliorare l’identificazione dei visitatori web (ricerca IP inversa) e la personalizzazione per i visitatori provenienti dal Giappone. I nomi dell&#39;organizzazione verranno visualizzati in giapponese.
 
 **[Creare un segmento Web utilizzando elenchi statici](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-La personalizzazione web può ora personalizzare il contenuto per un visitatore web noto che fa parte di un elenco statico definito in Attività di marketing (MLM). Con questo miglioramento, ora puoi commercializzare elenchi statici su più canali e rivolgerti alle persone in questi elenchi con contenuti personalizzati sul tuo sito web.
+Web Personalization ora può personalizzare il contenuto per un visitatore web noto che fa parte di un elenco statico definito in Attività di marketing (MLM). Con questo miglioramento, ora puoi commercializzare elenchi statici su più canali e rivolgerti alle persone in questi elenchi con contenuti personalizzati sul tuo sito web.
 
 ## ContentAI {#contentai}
 
@@ -86,7 +86,7 @@ I contenuti consigliati tramite gli algoritmi di ContentAI ottimizzati per Marke
 
 ## Integrazione {#integration}
 
-**[Attivare/disattivare l’API di Campaign](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Attivare/disattivare l’API di Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Questa nuova API consente di attivare e disattivare in remoto le campagne di attivazione, per creare modelli di programma completamente automatizzati. Crea un modello di programma una volta, quindi automatizza la clonazione, gli aggiornamenti collaterali di marketing e ora l&#39;attivazione/pianificazione di campagne intelligenti.
 
@@ -94,7 +94,7 @@ Questa nuova API consente di attivare e disattivare in remoto le campagne di att
 
 **Annulla sottoscrizione aggiornamento**
 
-A partire dal 1° marzo 2018, tutte le e-mail inviate da [ToutApp.com](https://ToutApp.com) (e utilizzando il pulsante &quot;E-mail con timeout&quot; in Salesforce) avranno un collegamento per l’annullamento dell’abbonamento aggiunto in basso.
+A partire dal 1° marzo 2018, tutte le e-mail inviate da [ToutApp.com](https://ToutApp.com) (e utilizzando il pulsante &quot;Email with Tout&quot; in Salesforce) sarà aggiunto un collegamento per l’annullamento dell’abbonamento in basso.
 
 **Aggiornamento dei feed live**
 

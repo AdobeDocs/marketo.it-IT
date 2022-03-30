@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Note sulla versione - Spring 2019 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Primavera 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -24,11 +24,11 @@ Le seguenti funzionalità sono state rilasciate il 15 marzo 2019.
 
 * **In lista d&#39;attesa:** Nuovo stato di programma/evento per l&#39;elenco in attesa di un membro quando si desidera [tenerli in attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) fino all&#39;apertura di un posto vacante. Questo vale per i canali associati ai programmi Evento in Marketo Classic e per i programmi Evento ed Evento con Webinar in Marketo Sky. Per impostazione predefinita, nell&#39;elenco in attesa è presente lo stesso valore di passaggio di Registered.
 * **[Limite di comunicazione personalizzato](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Gli amministratori possono ora impostare limiti di comunicazione personalizzati giornalieri o settimanali.
-* **[API delle risorse di Smart Campaign](https://developers.marketo.com/rest-api/assets/campaigns/)**: Arricchisci le tue analisi al di fuori di Marketo con il recupero intelligente dei record delle campagne in base a data e ID aggiornati.
+* **[API delle risorse di Smart Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Arricchisci le tue analisi al di fuori di Marketo con il recupero intelligente dei record delle campagne in base a data e ID aggiornati.
 * **Collegamenti di tracciamento HTTPS per e-mail:** Per i clienti che hanno acquistato &quot;Domini protetti per i collegamenti di tracciamento&quot;, i collegamenti di tracciamento con marchio possono ora essere visualizzati nelle e-mail come HTTPS.
 * **Aggiornamenti Powerpack per la consegna e-mail**: Possibilità di contrassegnare e commentare risultati di test specifici, condividere i risultati con le parti interessate tramite un URL e tenere traccia delle modifiche per visualizzare l’evoluzione di un’e-mail quando le parti interessate modificano il contenuto.
 
-Marketing basato su account
+Account-Based Marketing
 
 **[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Ora generalmente disponibile. AccountAI utilizza l’intelligenza artificiale per rivelare gli account a cui devi rivolgerti per la tua strategia ABM.
 

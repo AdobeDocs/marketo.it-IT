@@ -3,9 +3,9 @@ description: Creare una campagna di vendita - Documenti Marketo - Documentazione
 title: Creare una campagna di vendita
 hide: true
 hidefromtoc: true
-source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Ora è il momento di iniziare ad aggiungere persone alla tua campagna!
 
 >[!MORELIKETHIS]
 >
->* Informazioni sulle opzioni di invio delle campagne di vendita per i passaggi e-mail
+>* [Opzioni di invio della campagna di vendita per i passaggi e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
 >* [Tipi di passaggi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* Impostazioni della campagna di vendita
+>* [Impostazioni della campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
 
