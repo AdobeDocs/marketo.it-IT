@@ -1,35 +1,34 @@
 ---
 unique-page-id: 13796475
-description: Visualizzazione dettagli persona - Documenti Marketo - Documentazione prodotto
+description: Visualizzazione dettagli persona - Documenti Marketo - Documentazione del prodotto
 title: Visualizzazione dettagli persona
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
+source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
-
 # Visualizzazione dettagli persona {#person-detail-view}
 
-La visualizzazione dei dettagli della persona fornisce un profilo dettagliato di ogni persona nel tuo account MSC.
+La visualizzazione dettagli persona fornisce un profilo dettagliato di ogni persona nel tuo account MSC.
 
-## Come accedere a {#how-to-access}
+## Accesso {#how-to-access}
 
-1. Per accedere alla visualizzazione dei dettagli della persona, fare clic sulla scheda **Persone**.
+1. Per accedere alla visualizzazione dettagli persona, fai clic sul pulsante **Persone** scheda .
 
    ![](assets/people-tab.png)
 
-1. Fate clic sulla persona desiderata.
+1. Fai clic sulla persona desiderata.
 
    ![](assets/select-contact.png)
 
    >[!TIP]
    >
-   >Praticamente ovunque tu possa vedere il nome di una persona, puoi cliccarci sopra e arrivare alla loro visualizzazione Dettagli persona.
+   >Praticamente ovunque si veda il nome di una persona, è possibile cliccarlo e arrivare alla loro visualizzazione dettagli persona.
 
-## Informazioni sulla scheda {#about-tab}
+## Scheda Informazioni {#about-tab}
 
 Include tutte le informazioni di contatto della persona.
 
@@ -37,64 +36,64 @@ Include tutte le informazioni di contatto della persona.
 
 **Scheda contatto**
 
-* Contiene informazioni di contatto come: indirizzo e-mail, nome, società, titolo, numero di telefono e collegamenti social media
+* Contiene informazioni di contatto come: indirizzo e-mail, nome, società, titolo, numero di telefono e collegamenti ai social media
 
 **Gruppi**
 
-* Visualizza e gestisce i gruppi di cui questa persona è membro
+* Visualizza e gestisce i gruppi di cui fa parte questa persona
 
-**Informazioni account**
+**Informazioni sull&#39;account**
 
-* Aggiunta di una persona a Salesforce
-* Account di pull e informazioni di lead/contatto di Salesforce
+* Può aggiungere una persona a Salesforce
+* Estrarre il conto e le informazioni di lead/contatti da Salesforce
 
 **Campi personalizzati**
 
-* Aggiunta o rimozione di campi personalizzati utilizzabili come campi dinamici nei modelli e nelle campagne
+* Aggiungi o rimuovi campi personalizzati che possono essere utilizzati come campi dinamici nei modelli e nelle campagne
 
 **Note**
 
 * Creare note personalizzate
 
-## Scheda Engagement {#engagement-tab}
+## Scheda Coinvolgimento {#engagement-tab}
 
-Scopri in che modo questa persona si sta impegnando con la tua attività.
+Scopri in che modo questa persona si impegna con il tuo outreach.
 
 ![](assets/engagement.jpg)
 
 **Attività di vendita Connect**
 
-* Attività di coinvolgimento dalle e-mail e dalle campagne di vendita
+* Vedi le attività di coinvolgimento dalle e-mail e dalle campagne di vendita
 
 **Attività di marketing**
 
-* Scopri come la tua persona interagisce con le campagne di marketing
+* Scopri il coinvolgimento della tua persona nelle campagne di marketing
 
 ## Scheda Cronologia {#history-tab}
 
-Mostra la cronologia del tuo coinvolgimento. Include e-mail, campagne e chiamate.
+Mostra la cronologia del tuo outreach. Include e-mail, campagne e chiamate.
 
 ![](assets/history.jpg)
 
 **Campagne di vendita**
 
-* Visualizza tutte le campagne attive o completate a cui questa persona appartiene
+* Visualizza tutte le campagne attive o completate a cui appartiene questa persona
 
 **Campagne di marketing**
 
-* Vedi tutte le campagne di marketing di cui questa persona è membro
+* Vedi tutte le campagne di marketing a cui questa persona è membro
 
 **E-mail di vendita**
 
-* Visualizza tutte le e-mail che hai inviato a questa persona e le metriche di coinvolgimento
+* Vedi tutte le e-mail che hai inviato a questa persona e le metriche di coinvolgimento
 
 **Chiamate di vendita**
 
-* Vedi tutte le chiamate effettuate a questa persona
+* Visualizza tutte le chiamate effettuate a questa persona
 
 ## Scheda Attività {#tasks-tab}
 
-Consente di gestire le attività associate a questa persona.
+Gestisci le attività associate a questa persona.
 
 ![](assets/tasks.jpg)
 
@@ -102,19 +101,5 @@ Azioni eseguibili:
 
 * Modificare o eliminare un’attività
 * Vedi la data di scadenza
-* Fare clic su Tipo per avviare il telefono di vendita se Chiama, Componi per e-mail se E-mail, Collega se Inmail e Nota personalizzata se Personalizzato.
-* Contrassegnare un&#39;attività come completata
-
-## Scheda Navigatore vendite {#sales-navigator-tab}
-
-Visualizzare i dati del profilo LinkedIn con il Navigator delle vendite di LinkedIn.
-
->[!NOTE]
->
->Sales Navigator è un componente aggiuntivo a pagamento tramite LinkedIn. Contattateli per ottenere questa funzionalità.
-
-![](assets/linkedin.jpg)
-
-Menzione i rompighiaccio per costruire il rapporto.
-
-Salva i contatti come lead in Sales Navigator.
+* Fai clic sul Tipo per avviare il telefono di vendita se Chiama, Componi e-mail se E-mail, Collegato se Inmail e Nota personalizzata se Personalizzato.
+* Contrassegna attività come completata
