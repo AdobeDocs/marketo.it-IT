@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 ## Integrazione CRM nativa {#native-crm-integration}
 
-**Integrazione CRM nativa Veeva (disponibilità limitata)**: Migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva VRM e il Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente ai professionisti del marketing di creare esperienze cross-channel più personalizzate e fluide per i professionisti del settore sanitario. Contatta il tuo Customer Success Manager per partecipare.
+**Integrazione CRM nativa Veeva (disponibilità limitata)**: Migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva CRM e il Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente ai professionisti del marketing di creare esperienze cross-channel più personalizzate e fluide per i professionisti del settore sanitario. Contatta il tuo Customer Success Manager per partecipare.
 
 ## Orchestrazione tra canali {#cross-channel-orchestration}
 
