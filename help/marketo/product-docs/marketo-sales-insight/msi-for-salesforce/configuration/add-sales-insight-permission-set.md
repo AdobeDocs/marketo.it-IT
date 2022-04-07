@@ -1,11 +1,10 @@
 ---
 description: Aggiungi set di autorizzazioni Insight vendite - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi set di autorizzazioni Insight vendite
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -85,31 +84,29 @@ L’autorizzazione &quot;Marketo App&quot; fa parte del pacchetto Salesforce Ins
 
 1. Accedi al tuo account Salesforce.
 
-PICC
-
 1. Fai clic su **Configurazione**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. In Amministratore, fai clic su per eseguire la rimozione **Gestione utenti**, quindi **Utenti**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. In Tutti gli utenti, selezionare l&#39;utente a cui si desidera fornire l&#39;accesso, quindi fare clic su **Assegnazioni set di autorizzazioni**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. Fai clic su **Modifica assegnazioni**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. Seleziona **Accesso alle app Marketo** dai set di autorizzazioni disponibili, quindi **Aggiungi**. Fai clic su **Salva**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. Ora, quando scorri verso il basso la pagina dei dettagli utente, vedrai &quot;Accesso alle app Marketo&quot; in Assegnazioni dei set di autorizzazioni.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
