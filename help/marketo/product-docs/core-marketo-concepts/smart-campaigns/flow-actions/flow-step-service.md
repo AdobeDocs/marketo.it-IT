@@ -1,12 +1,10 @@
 ---
 description: Servizio dettagliato del flusso - Documentazione Marketo - Documentazione del prodotto
 title: Servizio a gradini di flusso
-hide: true
-hidefromtoc: true
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '1325'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -15,17 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questa funzione pre-release è attualmente disponibile solo per gli account iscritti al programma self-service Flow Steps Beta.
+>I passaggi del flusso self-service si trovano attualmente in Open Beta. Puoi abilitarlo per il tuo abbonamento nel menu Admin (Ammin) > Treasure Chest (Torta tesoro).
 
-I passaggi di flusso self-service è un framework e un insieme di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web in Adobe Marketi Engage Smart Campaigns. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del tuo servizio, consulta [Archivio GitHub per l’interfaccia dei provider di servizi](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). È possibile trovare un’implementazione della tabella di ricerca a prova di concetto [qui](https://github.com/adobe/mkto-flow-lookup).
+I passaggi di flusso self-service è un framework e un insieme di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web in Adobe Marketi Engage Smart Campaigns. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del tuo servizio, consulta [Archivio GitHub per l’interfaccia dei provider di servizi](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. È possibile trovare un’implementazione della tabella di ricerca a prova di concetto [qui](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Restrizioni e avvisi pre-rilascio {#pre-release-restrictions-and-warnings}
 
-Questa funzione è attualmente in versione beta chiusa e presenta alcune restrizioni all’utilizzo.
-
-* Questa funzione può essere utilizzata solo sulle istanze Sandbox di Marketo Engage
-* I passaggi di flusso personalizzati e di terze parti non sono compatibili con le campagne eseguibili a partire dalla versione Q4 2021. Questo problema verrà risolto nel secondo trimestre del 2022
-* L’interfaccia utente di Marketo Sky non deve essere utilizzata per le istanze con questa funzione abilitata
+Questa funzione è attualmente in versione beta aperta e deve essere utilizzata solo sulle istanze Sandbox di Marketo Engage fino a quando il servizio non viene completamente testato.
 
 ## Onboarding e gestione dei servizi {#onboarding-and-managing-services}
 

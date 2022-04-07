@@ -3,15 +3,14 @@ unique-page-id: 2953415
 description: Utilizzo della pagina dei dettagli della persona - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo della pagina Dettagli persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 13%
 
 ---
 
-# Utilizzo della pagina dei dettagli della persona {#using-the-person-detail-page}
+# Utilizzo della pagina Dettagli persona {#using-the-person-detail-page}
 
 La pagina dei dettagli relativi alla persona contiene tutte le informazioni che Marketo conosce su una persona. Puoi modificare i dati direttamente da questa pagina.
 
@@ -19,10 +18,10 @@ La pagina dei dettagli relativi alla persona contiene tutte le informazioni che 
 
 Ci sono molti modi per aprire persone specifiche. Alcuni esempi sono:
 
-* Dal **Database**, è possibile cercare nella Ricerca rapida
-* Qualsiasi elenco **smart** o
-* **** Iscrizione a un programma
-* **Visualizzare l’** iscrizione a una campagna avanzata
+* Da **Database**, è possibile cercare nella Ricerca rapida
+* Qualsiasi intelligente **elenco** o elenco
+* **Membri** scheda di un programma
+* **Visualizza membri della campagna** in una campagna avanzata
 * Alcuni **rapporti**
 
    <br> 
@@ -61,7 +60,7 @@ Le informazioni sulla persona sono suddivise in categorie nelle seguenti schede:
 
 >[!NOTE]
 >
->Puoi anche vedere Informazioni opportunità [inserite tramite API](http://developers.marketo.com/rest-api/lead-database/opportunities/) per le istanze che non sono sincronizzate con un CRM.
+>Puoi anche vedere le informazioni sulle opportunità [inserito tramite API](https://developers.marketo.com/rest-api/lead-database/opportunities/) per le istanze che non sono sincronizzate con un CRM.
 
 ## Modifica di un campo {#editing-a-field}
 
@@ -94,16 +93,14 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 
 >[!NOTE]
 >
->Alcuni campi sono _non_ modificabili:
+>Alcuni campi sono _not_ modificabile:
 >
 >* Registro attività
 >* Informazioni aziendali
 >* Opportunità per i contatti della DSC
 >* Alcuni campi specifici di Marketo, ad esempio Data creazione e Tipo origine originale.
-
 >
->
-Ulteriori informazioni su [Campi gestiti dal sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Ulteriori informazioni [Campi gestiti di sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
