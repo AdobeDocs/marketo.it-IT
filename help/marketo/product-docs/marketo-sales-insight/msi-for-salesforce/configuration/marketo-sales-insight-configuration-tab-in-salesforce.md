@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Scheda Configurazione Marketo Sales Insight in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Scheda di configurazione Marketo Sales Insight in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ La scelta di questo tipo di configurazione eliminerà tutte le configurazioni de
 
 >[!MORELIKETHIS]
 >
->[Impostazione di Sales Insight per il team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>[Aggiungi accesso a informazioni sulle vendite nei profili](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
