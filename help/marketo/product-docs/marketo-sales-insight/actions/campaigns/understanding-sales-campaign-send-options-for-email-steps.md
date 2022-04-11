@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: Informazioni sulle opzioni di invio - Documenti Marketo - Documentazione del prodotto
-title: Informazioni sulle opzioni di invio
+description: Informazioni sulle opzioni di invio delle campagne di vendita per i passaggi e-mail - Documenti Marketo - Documentazione del prodotto
+title: Informazioni sulle opzioni di invio delle campagne di vendita per i passaggi e-mail
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulle opzioni di invio {#understanding-send-options}
+# Informazioni sulle opzioni di invio delle campagne di vendita per i passaggi e-mail {#understanding-sales-campaign-send-options-for-email-steps}
 
-Quando crei una campagna, hai diverse opzioni su come vengono creati i tuoi passaggi e-mail in Sales Connect. Inoltre, a seconda di dove si trova l’e-mail nella campagna, anche le opzioni variano.
+Quando crei una campagna, hai a disposizione diverse opzioni su come vengono creati i tuoi passaggi e-mail in Azioni Approfondimenti vendite. Inoltre, a seconda di dove si trova l’e-mail nella campagna, anche le opzioni variano.
 
 Se si tratta del primo passaggio e del primo giorno della campagna, avrai a disposizione le seguenti opzioni:
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 Sceglierò quando inviare questa e-mail
 
@@ -58,3 +58,9 @@ Creare un’attività; Io manderò questa e-mail da solo
 Invia questo messaggio e-mail all’e-mail precedente
 
 * Questa opzione di invio sarà un &quot;follow-up&quot; dell’e-mail precedente e aggiungerà il corpo dell’e-mail precedente in fondo a questa e-mail.
+
+>[!MORELIKETHIS]
+>
+>[Creare una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Tipi di passaggi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[Impostazioni della campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}

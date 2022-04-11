@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: Visualizzazione dettagli persona - Documenti Marketo - Documentazione del prodotto
 title: Visualizzazione dettagli persona
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -18,11 +18,11 @@ La visualizzazione dettagli persona fornisce un profilo dettagliato di ogni pers
 
 1. Per accedere alla visualizzazione dettagli persona, fai clic sul pulsante **Persone** scheda .
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. Fai clic sulla persona desiderata.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ La visualizzazione dettagli persona fornisce un profilo dettagliato di ogni pers
 
 Include tutte le informazioni di contatto della persona.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **Scheda contatto**
 
@@ -59,7 +59,7 @@ Include tutte le informazioni di contatto della persona.
 
 Scopri in che modo questa persona si impegna con il tuo outreach.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Attività di vendita Connect**
 
@@ -73,7 +73,7 @@ Scopri in che modo questa persona si impegna con il tuo outreach.
 
 Mostra la cronologia del tuo outreach. Include e-mail, campagne e chiamate.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **Campagne di vendita**
 
@@ -95,7 +95,7 @@ Mostra la cronologia del tuo outreach. Include e-mail, campagne e chiamate.
 
 Gestisci le attività associate a questa persona.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 Azioni eseguibili:
 
