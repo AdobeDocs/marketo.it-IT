@@ -1,9 +1,10 @@
 ---
 description: Approfondimenti sulle vendite per integrazioni MS Dynamics non native - Documentazione Marketo - Documentazione del prodotto
 title: Approfondimenti vendite per integrazioni di MS Dynamics non native
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1439'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,7 @@ Se il tuo account Adobe Marketo Engage è connesso a MS Dynamics tramite un’in
 >[!PREREQUISITES]
 >
 >* La funzione &quot;MSI non nativa&quot; abilitata per la tua istanza Marketo prima di iniziare a configurare MSI (se non lo è e hai già acquistato la funzione, contatta [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} - se non hai ancora acquistato questa funzionalità, contatta il tuo Customer Success Manager).
+>* Scarica [Pacchetto MSI per sincronizzazione personalizzata](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 >* Una sottoscrizione a MS Dynamics con configurazione MSI ([On-Prem](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;}, [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;}).
 >* API REST di Marketo [configurazione completata](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}. Le API CRUD esposte costituiranno la base per l’esecuzione della sincronizzazione non nativa.
 >* Leggi [questo post di blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;} per comprendere l&#39;oggetto e le relazioni.
