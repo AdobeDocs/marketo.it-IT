@@ -2,9 +2,9 @@
 description: Accesso a informazioni sulle vendite - Documenti Marketo - Documentazione del prodotto
 title: Rimuovi accesso a informazioni sulle vendite
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,8 +68,8 @@ Per accedere a tutte le funzioni di Sales Insight è necessaria l’autorizzazio
  </tbody> 
 </table>
 
-* Accesso classe Apex: 159 Classi Apex che essendo con &quot;mkto_si&quot;
-* Accesso a una pagina di visualizzazione: 64 Pagine di visualizzazione con &quot;mkto_si&quot;
+* Accesso classe Apex: 159 Classi Apex che iniziano con &quot;mkto_si&quot;
+* Accesso a una pagina di visualizzazione: 64 Pagine di visualizzazione che iniziano con &quot;mkto_si&quot;
 * Definizioni di impostazione personalizzate: Impostazioni mkto_si.Marketo e preferenze utente mkto_si.User
 
 ## Rimozione dell&#39;accesso a Sales Insight {#removing-access-to-sales-insight}
