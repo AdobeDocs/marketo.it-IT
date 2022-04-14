@@ -1,32 +1,31 @@
 ---
 description: Creare una campagna di vendita - Documenti Marketo - Documentazione del prodotto
 title: Creare una campagna di vendita
-hide: true
-hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Creare una campagna di vendita {#create-a-sales-campaign}
 
-Le campagne sono una serie di passaggi multicanale, tra cui: e-mail, chiamate telefoniche, InMail e attività personalizzate. Consentono di semplificare le comunicazioni con i clienti potenziali ed esistenti.
+Le campagne di vendita sono una serie di passaggi multicanale tra cui: e-mail, chiamate telefoniche, InMail e attività personalizzate. Consentono di semplificare le comunicazioni con i clienti potenziali ed esistenti.
 
-Con le campagne è possibile:
+Con le campagne di vendita è possibile:
 
 * **Organizza**: Semplifica tutte le attività di outreach in un’unica posizione per un’esecuzione efficiente.
 * **Scala**: Pianifica tutti i tuoi sforzi di sensibilizzazione in modo da poter scalare i tuoi sforzi, ridurre al minimo il lavoro manuale e personalizzare quanto necessario.
 * **Misura**: Monitora il successo di tutte le e-mail e le attività in un&#39;unica posizione registrandole automaticamente in Salesforce. Conoscendo ciò che è risonante e portando a risultati, puoi testare e migliorare costantemente i risultati.
 
-Quindi, come si configura una campagna?
+Quindi, come si configura una campagna di vendita?
 
 1. Fai clic sul pulsante **Campagne** scheda .
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Seleziona una categoria e fai clic sul pulsante **Creare una campagna** per creare una nuova campagna.
+1. Seleziona una categoria e fai clic sul pulsante **Crea nuova campagna** pulsante .
 
    ![](assets/create-a-sales-campaign-2.png)
 
@@ -56,13 +55,13 @@ Quindi, come si configura una campagna?
 
    >[!NOTE]
    >
-   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna avrà una durata di 7 giorni e immetti &quot;3&quot; significa che l’azione verrà eseguita il giorno 3 di 7, **not** 3 giorni dopo.
+   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la tua campagna di vendita avrà una durata di 7 giorni, l’inserimento di &quot;3&quot; significa che l’azione verrà eseguita il giorno 3 del 7, **not** 3 giorni dopo.
 
-1. Assicurati di personalizzare la pianificazione e le opzioni di risposta, come saltare i fine settimana (che è fantastico) visitando il **Scheda Impostazioni** per la tua campagna.
+1. Assicurati di personalizzare la pianificazione e le opzioni di risposta, come saltare i fine settimana (che è fantastico) visitando il **Scheda Impostazioni** per la campagna di vendita.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Ora è il momento di iniziare ad aggiungere persone alla tua campagna!
+Ora è il momento di iniziare ad aggiungere persone!
 
 >[!MORELIKETHIS]
 >

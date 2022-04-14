@@ -1,19 +1,17 @@
 ---
 description: Impostazioni della campagna di vendita - Documentazione Marketo - Documentazione del prodotto
 title: Impostazioni della campagna di vendita
-hide: true
-hidefromtoc: true
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Impostazioni della campagna di vendita {#sales-campaign-settings}
 
-La sezione delle impostazioni della campagna di vendita ti consente di configurare una campagna di vendita specifica in modo che possa funzionare al meglio per i casi d’uso del tuo team per quella campagna.
+La sezione delle impostazioni della campagna di vendita consente di configurare una campagna di vendita specifica in modo che possa funzionare al meglio in base ai casi d&#39;uso del team per quella campagna di vendita.
 
 ## Ignora fine settimana {#skip-weekends}
 
@@ -27,7 +25,7 @@ Abilita salta i fine settimana in modo che tutti i passaggi che sarebbero caduti
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. Scegli la campagna desiderata.
+1. Scegli la campagna di vendita desiderata.
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -41,13 +39,13 @@ Abilita salta i fine settimana in modo che tutti i passaggi che sarebbero caduti
 
 ## Rimuovi in rimbalzo {#remove-on-bounce}
 
-Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati in base al messaggio non recapitato inviato alla casella in entrata degli utenti. Inoltre, è possibile rimuovere le persone dalle campagne quando viene rilevato un messaggio non recapitato.
+Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati in base al messaggio non recapitato inviato alla casella in entrata degli utenti. Inoltre, è possibile rimuovere le persone dalle campagne di vendita quando viene rilevato un rimbalzo.
 
 1. Fai clic su **Campagne**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. Scegli la campagna desiderata.
+1. Scegli la campagna di vendita desiderata.
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -67,7 +65,7 @@ Se per Gmail o Exchange è abilitato il tracciamento delle risposte, è possibil
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. Scegli la campagna desiderata.
+1. Scegli la campagna di vendita desiderata.
 
    ![](assets/sales-campaign-settings-10.png)
 

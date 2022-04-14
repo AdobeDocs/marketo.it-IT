@@ -1,12 +1,10 @@
 ---
 description: Tipi di passaggi della campagna di vendita e attività di promemoria - Marketo Docs - Documentazione del prodotto
 title: Tipi di passaggi della campagna di vendita e attività promemoria
-hide: true
-hidefromtoc: true
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,7 +13,7 @@ ht-degree: 0%
 
 ## Tipi di passaggi della campagna di vendita {#sales-campaign-step-types}
 
-Quando aggiungi un passaggio alla campagna, avrai a disposizione quattro opzioni.
+Quando aggiungi un passaggio alla campagna di vendita, hai quattro opzioni.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
@@ -53,21 +51,17 @@ Utilizzare attività personalizzate quando le opzioni di cui sopra non sono appl
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-5.png)
 
-## Utilizzo delle attività di promemoria nelle campagne {#using-reminder-tasks-in-campaigns}
+## Utilizzo delle attività di promemoria nelle campagne di vendita {#using-reminder-tasks-in-sales-campaigns}
 
-Le attività sono uno strumento potente per l&#39;invio di una campagna a un contatto, specialmente se il processo di vendita è multicanale/touch.
+Le attività sono uno strumento potente per l&#39;invio di una campagna di vendita a un contatto, specialmente se il processo di vendita è multicanale/touch.
 
-Le attività per l’invio di un’e-mail e di un’attività per chiamare un contatto sono gli usi più comuni per le attività nelle campagne.
+Le attività per l&#39;invio di un&#39;e-mail e di un&#39;attività per chiamare un contatto sono gli usi più comuni per le attività nelle campagne di vendita.
 
 Puoi anche effettuare un &quot;Task to Inmail&quot; un contatto su LinkedIn se questo fa parte del tuo flusso di lavoro. Puoi anche fare un&#39;attività personalizzata per ricordarti di invitarli a un&#39;ora felice, chiedere circa il loro evento di beneficenza, o check-in dopo il gioco 5, ecc.
 
 >[!NOTE]
 >
->La cosa più importante sulle attività in Campagne, è necessario completare l’attività per attivare il passaggio successivo.
-
-Le attività saranno sempre associate a ogni singolo utente della campagna. Questo significa che devi entrare in ogni persona e chiudere l’attività per far sì che la campagna individuale prosegua.
-
-Puoi gestire le tue attività in: la scheda Attività della campagna in Campaign 2.0, direttamente dal centro comandi o dalla sezione Attività del feed live. Inoltre, puoi anche gestire le tue attività da Salesforce.
+>Per attivare il passaggio successivo, è necessario completare l&#39;attività per eseguire la cosa più importante sulle attività in Campagne di vendita.
 
 >[!MORELIKETHIS]
 >
