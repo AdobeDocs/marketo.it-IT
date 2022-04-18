@@ -2,9 +2,9 @@
 description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Benvenuti nell&#39;esperienza di Marketo Engage di nuova generazione, una nuova 
 
 ## Fate il tour {#take-the-tour}
 
-Al primo accesso, apparirà un pop-up, pronto per darvi il riepilogo della nuova esperienza. In testa, se scegli di saltare, sarà disponibile **not** in un secondo momento.
+Al primo accesso, apparirà un pop-up, pronto per darvi il riepilogo della nuova esperienza. Testa in su, se si sceglie di saltare, **not** sarà disponibile in seguito.
 
 ![](assets/overview-1.png)
 
@@ -60,7 +60,7 @@ Ci sono una tonnellata di nuove funzionalità ad albero disponibili.
 
 >[!NOTE]
 >
->Quando si esegue una ricerca nella struttura vengono visualizzati solo i primi 250 risultati. Se dopo una ricerca non riesci a individuare la risorsa, utilizza la funzione [Ricerca globale](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) .
+>Quando si esegue una ricerca nella struttura vengono visualizzati solo i primi 250 risultati. Se dopo una ricerca non riesci a individuare la risorsa, utilizza la [Ricerca globale](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) funzione .
 
 **Marketo Classic e il nuovo Marketo**
 
@@ -192,7 +192,7 @@ Date un&#39;occhiata alla nuova navigazione globale.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Utilizza questo per fornire feedback sulla tua esperienza MEUE</td> 
+   <td>Utilizzalo per fornire un feedback sulla tua esperienza</td> 
   </tr>
   <tr>
    <td>4</td> 
