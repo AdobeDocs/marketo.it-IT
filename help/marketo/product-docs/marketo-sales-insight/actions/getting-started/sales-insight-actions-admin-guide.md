@@ -2,9 +2,9 @@
 description: Guida per l’amministratore delle azioni di vendita - Documenti Marketo - Documentazione del prodotto
 title: Guida per l’amministratore di Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,10 @@ Se hai già effettuato l’accesso a Salesforce, verrai connesso. In caso contra
 ## Avvia sincronizzazione dati {#initiate-data-sync}
 
 La sincronizzazione del campo di unificazione dei dati per le azioni Approfondimenti vendite consente al sistema di estrarre le informazioni personali dal database del Marketo Engage nel database delle azioni Insight vendite, di mantenere i dati delle persone aggiornati e di garantire che le attività siano registrate nei record giusti in Marketo e Salesforce.
+
+>[!CAUTION]
+>
+>Dopo aver avviato la sincronizzazione dei dati, devi **not** rimuovere l&#39;utente originale dall&#39;istanza di Sales Insight Actions. Questo è l’utente a cui è stato inviato il primo invito.
 
 1. In Marketo, fai clic su **Amministratore**.
 
