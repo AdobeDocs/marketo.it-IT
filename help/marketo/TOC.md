@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
 workflow-type: tm+mt
-source-wordcount: '8654'
+source-wordcount: '8658'
 ht-degree: 0%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 0%
          + [Modifica le impostazioni di supporto del browser &quot;Do Not Track&quot;](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Modifica impostazioni pagina di destinazione](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Modifica scadenza collegamento in rapporti e avvisi](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [Intestazioni dei collegamenti di tracciamento e-mail](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Modifica impostazioni sottoscrizione](product-docs/administration/settings/edit-subscription-settings.md)
          + [Attiva o disattiva le caratteristiche del torace del tesoro](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Abilita URL personalizzati per il tuo account (amministrazione)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
