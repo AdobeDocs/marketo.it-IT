@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
+source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
 workflow-type: tm+mt
-source-wordcount: '8658'
+source-wordcount: '8728'
 ht-degree: 0%
 
 ---
@@ -579,6 +579,19 @@ ht-degree: 0%
          + [Errori di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Stato di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Utilizzo di account personali](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
+      + Veeva CRM Sync {#veeva-crm-sync}
+         + [Informazioni sulla sincronizzazione di Veeva CRM](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + Configurazione {#setup}
+            + [Passaggio 1 di 3: Aggiungere campi Marketo a Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
+            + [Passaggio 2 di 3: Creare un utente CRM Veeva per Marketo Engage](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [Passaggio 3 di 3: Collegare Marketo Engage e Salesforce (Professional)](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+         + Dettagli sincronizzazione {#sync-details}
+            + [Aggiungi/rimuovi campo di oggetto personalizzato come vincoli di elenco avanzato/trigger](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [Mappatura predefinita del campo Veeva](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
+            + [Attiva/Disattiva la sincronizzazione personalizzata degli oggetti](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
+            + [Sincronizzazione account personale](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+            + [Sincronizzazione dei messaggi chiave di chiamata e chiamata](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
+            + [Veeva CRM Custom Object Sync](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
    + Generazione di domanda {#demand-generation}
       + Integrazioni di reti di annunci {#ad-network-integrations}
          + [Informazioni sulle integrazioni di Ad Network](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
