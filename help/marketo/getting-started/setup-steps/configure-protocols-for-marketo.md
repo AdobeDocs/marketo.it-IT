@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configurare i protocolli per Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Configurare i protocolli per Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,7 @@ Questo articolo deve essere condiviso con il reparto IT dell&#39;azienda che des
 >Se il tuo team IT limita l&#39;accesso web utilizzando un inserire nell&#39;elenco Consentiti, chiedi loro di aggiungere i seguenti domini (incluso l&#39;asterisco) per consentire tutte le risorse Marketo e i websoket:
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Passaggio 1: Creare record DNS per pagine di destinazione e posta elettronica {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ Ad esempio:
 
 Notifica al team di marketing al completamento di questo processo.
 
+`4` **Contatto [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} per avviare il processo di provisioning di un certificato SSL.**
+
+Il completamento di questo processo può richiedere fino a 3 giorni lavorativi.
+
 ## Passaggio 2: Inserire nell&#39;elenco Consentiti IP Marketo {#step-allowlist-marketo-ips}
 
 Quando il gruppo di marketing utilizza Marketo per inviare e-mail di test (una best practice prima di inviare esplosioni e-mail), le e-mail di test vengono talvolta bloccate dai sistemi anti-spam che si basano sugli indirizzi IP del mittente per verificare che l’e-mail sia valida. Per assicurare che tali e-mail di test arrivino, aggiungi Marketo al tuo inserire nell&#39;elenco Consentiti.
@@ -71,7 +73,7 @@ Aggiungi questi indirizzi IP al tuo inserire nell&#39;elenco Consentiti aziendal
 103.237.104.0/22\
 94.236.119.0/26
 
-Alcuni sistemi anti-spam utilizzano il campo Email Return-Path invece dell&#39;indirizzo IP per l&#39;autorizzazione. In questi casi, l’approccio migliore è quello di inserire nell&#39;elenco Consentiti ‘*.mktomail.com’, in quanto Marketo utilizza diversi sottodomini di cassette postali. Altri sistemi anti-spam inserire nell&#39;elenco Consentiti in base all&#39;indirizzo Da. In queste situazioni, assicurati di includere tutti i domini di invio (&quot;Da&quot;) utilizzati dal tuo gruppo di marketing per comunicare con persone/lead.
+Alcuni sistemi anti-spam utilizzano il campo Email Return-Path invece dell&#39;indirizzo IP per l&#39;autorizzazione. In questi casi, l&#39;approccio migliore è quello di inserire nell&#39;elenco Consentiti &quot;&#42;.mktomail.com&quot;, in quanto Marketo utilizza diversi sottodomini di cassette postali. Altri sistemi anti-spam inserire nell&#39;elenco Consentiti in base all&#39;indirizzo Da. In queste situazioni, assicurati di includere tutti i domini di invio (&quot;Da&quot;) utilizzati dal tuo gruppo di marketing per comunicare con persone/lead.
 
 >[!NOTE]
 >
