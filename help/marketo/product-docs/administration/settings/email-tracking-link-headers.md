@@ -1,12 +1,10 @@
 ---
 description: Intestazioni dei collegamenti di tracciamento e-mail - Documenti Marketo - Documentazione del prodotto
 title: Intestazioni dei collegamenti di tracciamento e-mail
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ Segui i passaggi riportati di seguito per personalizzare le intestazioni dei col
 <table>
  <tr>
   <td><strong>Strict-Transport-Security</strong></td>
-  <td>Utilizza questo per garantire che le connessioni alle pagine di destinazione vengano sempre servite tramite HTTPS (deve essere impostato solo per gli abbonamenti con pagine di destinazione protette da SSL)</td>
+  <td>Utilizza questo per garantire che i collegamenti di tracciamento siano sempre serviti tramite HTTPS (dovrebbe essere impostato solo per gli abbonamenti con collegamenti di tracciamento protetti da SSL)</td>
  </tr>
 </table>
 
