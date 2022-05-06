@@ -2,16 +2,16 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Interruttore {#toggle-switch}
 
-L&#39;interruttore di attivazione/disattivazione consente di passare dall&#39;interfaccia classica di Marketo alla nuova esperienza di Marketo Engage di nuova generazione. È disponibile nella vista a elenco delle pagine di destinazione e nelle pagine dei dettagli del modulo.
+L&#39;interruttore di attivazione/disattivazione consente di passare dall&#39;interfaccia classica di Marketo all&#39;esperienza di Marketo Engage di nuova generazione. È disponibile in tutte le aree evidenziate di seguito. A partire dalla versione di maggio 2022, l’esperienza di nuova generazione sarà abilitata per impostazione predefinita.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ La nuova esperienza verrà caricata.
 
 ![](assets/toggle-switch-17.png)
 
-## Abilita per tutte le funzionalità {#enable-for-all-features}
+## Visualizzazione dettagli modello e-mail {#email-template-details-view}
 
-È possibile abilitare l&#39;interfaccia di nuova generazione di Marketo per tutte le funzioni disponibili, attuali e future.
-
-1. In un&#39;area che al momento dispone dell&#39;interruttore di attivazione/disattivazione (in questo esempio ci troviamo in [Pagina dei dettagli del modulo](#form-details-page)), fai clic sull’icona a forma di ingranaggio in basso a destra della pagina.
+1. In Marketo, seleziona **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
+1. Seleziona il modello e-mail desiderato.
 
    ![](assets/toggle-switch-19.png)
+
+1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
+
+   ![](assets/toggle-switch-20.png)
+
+La nuova esperienza verrà caricata.
+
+![](assets/toggle-switch-21.png)
+
+## Abilita per tutte le funzionalità {#enable-for-all-features}
+
+È possibile abilitare manualmente l&#39;interfaccia di nuova generazione di Marketo per tutte le funzioni disponibili, attuali e future.
+
+1. In un&#39;area che al momento dispone dell&#39;interruttore di attivazione/disattivazione (in questo esempio ci troviamo in [Pagina dei dettagli del modulo](#form-details-page)), fai clic sull’icona a forma di ingranaggio in basso a destra della pagina.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
+
+   ![](assets/toggle-switch-23.png)
