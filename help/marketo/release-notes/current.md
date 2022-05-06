@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,8 @@ Nell’esperienza di nuova generazione, offriamo una visualizzazione dei dettagl
 **Verifica e-mail e univocità**: A partire da aprile, inizierà il rollout della verifica e-mail. A quel punto, gli indirizzi e-mail degli utenti di Marketo Engage richiederanno verifica e univocità (questo non si applica agli utenti solo API). Gli utenti autenticati del servizio di directory verificheranno automaticamente le loro e-mail quando la loro sottoscrizione viene abilitata con Verifica e-mail.
 
 La verifica e-mail per gli abbonamenti che utilizzano la funzione &quot;Accesso nella finestra di dialogo per l’invito di utenti&quot; o che hanno un singolo messaggio e-mail associato a più utenti coinciderà con la versione di maggio. Gli abbonamenti con un’unica e-mail associata a più utenti verranno abilitati per Verifica e-mail e richiederanno a tali utenti di risolvere il conflitto e utilizzare un’e-mail univoca per ogni utente. Quando la funzione &quot;Accedi alla finestra di dialogo per l’invito dell’utente&quot; è abilitata, gli utenti invitati tramite questa funzione dovranno disporre di un indirizzo e-mail univoco. Per gli utenti solo API invitati tramite questa funzione, l’indirizzo e-mail non deve essere univoco.
+
+**Modifica del comportamento della cartella archivio**: Con questa versione, la possibilità di creare nuove risorse nelle cartelle Archivia non sarà più disponibile dai menu di scelta rapida della struttura. Le opzioni del menu per la creazione di nuove risorse saranno nascoste per tutte le risorse. [Ulteriori informazioni qui](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
 
 **_Webinar sulla versione del prodotto_**
 
