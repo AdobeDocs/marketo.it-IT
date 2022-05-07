@@ -2,9 +2,9 @@
 description: Configurazione - Documentazione Marketo - Documentazione del prodotto
 title: Configurazione
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,15 @@ Fai clic sul pulsante **Privacy** per aggiungere/modificare l’URL dell’infor
 Affinché il chatbot possa essere visualizzato sul tuo sito web, devi prima installare lo snippet JavaScript per chat dinamica. Fai clic su questa scheda per trovare/copiare il codice necessario. Se non conosci questa operazione, contatta il tuo team web o il reparto IT per assistenza.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>Se il sito utilizza un&#39;informativa sulla sicurezza dei contenuti, potrebbe essere necessario inserire in una whitelist i seguenti URL affinché il chatbot funzioni come previsto:
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
