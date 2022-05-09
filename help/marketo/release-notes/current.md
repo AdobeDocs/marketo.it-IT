@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 ## Integrazione CRM nativa {#native-crm-integration}
 
-**Integrazione CRM nativa Veeva (disponibilità limitata)**: Migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva CRM e il Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente ai professionisti del marketing di creare esperienze cross-channel più personalizzate e fluide per i professionisti del settore sanitario. Contatta il tuo Customer Success Manager per partecipare.
+**[Integrazione CRM nativa Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (disponibilità limitata)**: Migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva CRM e il Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente ai professionisti del marketing di creare esperienze cross-channel più personalizzate e fluide per i professionisti del settore sanitario. Contatta il tuo Customer Success Manager per partecipare.
 
 ## Orchestrazione tra canali {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 **Escludere gli URL per la chat dinamica**: Controlla su quale delle tue pagine web appare la chat dinamica con la possibilità di escludere URL specifici dai criteri di targeting.
 
-**Miglioramenti al filtro delle attività dei bot e-mail**: Continua a proteggere lo stato del database con la possibilità di identificare il comportamento di bot in base ai collegamenti nascosti Agenti utente o IP e ai pattern di prossimità, oltre all’identificazione esistente della corrispondenza dell’elenco IAB. Visualizzare gli stati delle attività bot che consentono di comprendere il numero di attività bot identificate per ciascun tipo.
+**[Miglioramenti al filtro delle attività dei bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Continua a proteggere lo stato del database con la possibilità di identificare il comportamento di bot in base ai collegamenti nascosti Agenti utente o IP e ai pattern di prossimità, oltre all’identificazione esistente della corrispondenza dell’elenco IAB. Visualizzare gli stati delle attività bot che consentono di comprendere il numero di attività bot identificate per ciascun tipo.
 
-**Intestazione STS per i collegamenti di tracciamento e-mail**: Soddisfa le best practice di sicurezza con la possibilità di applicare intestazioni Secure Transport Security per garantire che il traffico verso i collegamenti tracciati sia sempre sicuro.
+**[Intestazione STS per i collegamenti di tracciamento e-mail](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Soddisfa le best practice di sicurezza con la possibilità di applicare intestazioni Secure Transport Security per garantire che il traffico verso i collegamenti tracciati sia sempre sicuro.
 
 ## Esperienza di nuova generazione {#next-generation-experience}
 
