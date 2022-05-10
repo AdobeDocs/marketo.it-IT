@@ -2,9 +2,9 @@
 description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,8 @@ Le iscrizioni Adobe Marketo Engage caricate nel sistema Adobe Identity Managemen
  </tr>
  <tr>
   <td><strong>Amministratore del profilo di prodotto Adobe Admin Console</strong></td>
-  <td>Amministra le descrizioni del profilo di prodotto assegnate a tale amministratore e a tutte le funzioni amministrative associate.</td>
+  <td>Responsabile dell’amministrazione degli utenti all’interno di un profilo di prodotto. Non possono gestire gli utenti al di fuori di quel profilo specifico. Un amministratore del profilo di prodotto non ha accesso all’applicazione Marketo a meno che non venga aggiunto al profilo di prodotto come utente. Il loro ruolo rimane un utente standard (area di lavoro predefinita se sono presenti più aree di lavoro).
+</td>
  </tr>
  <tr>
   <td><strong>Amministratore prodotto Marketo Engage</strong></td>
