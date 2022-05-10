@@ -2,16 +2,16 @@
 description: Messaggi chiave di chiamata e chiamata di sincronizzazione - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione dei messaggi chiave di chiamata e chiamata
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
 # Sincronizzazione dei messaggi chiave di chiamata e chiamata {#syncing-call-and-call-key-messages}
 
-Gli oggetti del messaggio chiave di chiamata e chiamata in Veeva CRM sono sincronizzati per impostazione predefinita in Marketo Engage. Marketo sincronizza i dati che hanno fino a 6 mesi, in base alla data della chiamata.
+Gli oggetti del messaggio chiave di chiamata e chiamata in Veeva CRM sono sincronizzati per impostazione predefinita in Marketo Engage. Marketo sincronizza i dati con un massimo di 6 mesi, in base alla data di creazione della chiamata.
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ I campi seguenti nei messaggi di chiamata e chiave di chiamata sono sincronizzat
       <td>Data della chiamata al primo salvataggio o invio. Questo campo viene impostato tramite un trigger alla data corrente se non viene fornito né il campo data né il campo data/ora.</td>
       <td>Call_Date_vod_c</td>
       <td>Data</td>
-    </tr>
-    <tr>
-      <td>Chiamata</td>
-      <td>Prodotti dettagliati</td>
-      <td>Campo helper per per visualizzare l’elenco dei prodotti dettagliati per una chiamata. I nomi dei prodotti devono essere delimitati da spazi doppi e l’ordine deve essere prioritario da sinistra a destra. Questo campo non controlla l’elaborazione ed è incluso per rendere gli elenchi e i rapporti correlati più facili da usare.</td>
-      <td>Detailed_Products_vod_c</td>
-      <td>Area di testo(255)</td>
     </tr>
     <tr>
       <td>Chiamata</td>

@@ -2,9 +2,9 @@
 description: Domande frequenti sulla sincronizzazione degli account personali - Documentazione di Marketo - Documentazione del prodotto
 title: Domande frequenti sulla sincronizzazione dell’account personale
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Gli account personali possono essere configurati in Veeva per soddisfare le esig
 
 >[!NOTE]
 >
->Gli account Veeva predefiniti sono Professionisti.
+>Sincronizziamo solo gli account di livello &quot;Professional&quot; come account personali.
 
 **Che cos’è un account persona?**
 
@@ -49,7 +49,7 @@ Saremmo gentili e lasceremmo vincere Veeva CRM. Tuttavia, è raro che si verific
 
 **Il tipo di record Lead o Contact è sincronizzato con Veeva CRM?**
 
-Veeva CRM si occupa solo degli oggetti Account personali e dispone anche di Account commerciali. I tradizionali tipi di CRM di lead, contatti e opportunità non sono realmente in uso nei sistemi tradizionali di gestione delle relazioni con i clienti Veeva. Questi possono essere creati in Veeva CRM e la sincronizzazione può portarli in Marketo, ma non sono ufficialmente supportati utilizzando questo connettore.
+Veeva CRM si occupa solo degli oggetti Account personali e dispone anche di Account commerciali. I tradizionali tipi di CRM di lead, contatti e opportunità non sono realmente in uso nei sistemi tradizionali di gestione delle relazioni con i clienti Veeva. Questi possono essere creati in Veeva CRM, ma non sono ufficialmente supportati utilizzando questo connettore.
 
 **Posso convertire una persona in un contatto in Marketo?**
 

@@ -2,7 +2,7 @@
 description: Passaggio 1 di 3 - Aggiungere campi Marketo a Veeva CRM - Marketo Docs - Documentazione del prodotto
 title: Passaggio 1 di 3 - Aggiungere campi Marketo a Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Tutti questi campi personalizzati sono facoltativi e non sono necessari per sinc
 
 ## Aggiungere campi Marketo a Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-Aggiungi tre campi personalizzati sugli oggetti lead e contact in Veeva CRM elencati sopra. Per ulteriori informazioni, consulta la tabella dei campi disponibili alla fine di questa sezione.
+Aggiungi un campo personalizzato sugli oggetti lead e contact in Veeva CRM elencati sopra. Per ulteriori informazioni, consulta la tabella dei campi disponibili alla fine di questa sezione.
 
 Esegui i seguenti passaggi per aggiungere il campo Punteggio .
 
@@ -112,7 +112,7 @@ Posizioni decimali 0</td>
 
 >[!NOTE]
 >
->Aggiungendo il campo all&#39;oggetto Contact, vengono aggiunti anche all&#39;account Persona.
+>Aggiungendo il campo all&#39;oggetto Contact, vengono aggiunti anche all&#39;oggetto Account persona.
 
 FACOLTATIVO: Utilizza la procedura precedente per tutti i campi personalizzati aggiuntivi della tabella seguente.
 
