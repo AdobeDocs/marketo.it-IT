@@ -3,7 +3,7 @@ unique-page-id: 4720710
 description: Configurare SPF e DKIM per la consegna delle e-mail - Documenti Marketo - Documentazione del prodotto
 title: Impostare SPF e DKIM per il recapito messaggi e-mail
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Impostare SPF e DKIM per il recapito messaggi e-mail {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Un metodo rapido per migliorare le percentuali di consegna delle e-mail è quello di incorporare **SPF** (Sender Policy Framework) e **DKIM** (Domain Keys Identified Mail) nelle impostazioni DNS. Oltre alle voci DNS, stai comunicando ai destinatari che hai autorizzato Marketo a inviare e-mail per tuo conto. Senza questa modifica, l’e-mail ha maggiori possibilità di essere contrassegnata come spam da quando l’e-mail è stata indirizzata dal tuo dominio, ma inviata da un indirizzo IP con un dominio Marketo.
+Un metodo rapido per migliorare le percentuali di consegna delle e-mail è quello di incorporare **SPF** (Framework dei criteri per il mittente) e **DKIM** (Domain Keys Identified Mail) nelle impostazioni DNS. Oltre alle voci DNS, stai comunicando ai destinatari che hai autorizzato Marketo a inviare e-mail per tuo conto. Senza questa modifica, l’e-mail ha maggiori possibilità di essere contrassegnata come spam da quando l’e-mail è stata indirizzata dal tuo dominio, ma inviata da un indirizzo IP con un dominio Marketo.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Un metodo rapido per migliorare le percentuali di consegna delle e-mail è quell
 
 **Se NON hai un record SPF sul tuo dominio**
 
-Chiedi all&#39;amministratore di rete di aggiungere la seguente riga alle voci DNS. Sostituisci [dominio] con il dominio principale del sito web (ad esempio. &quot;company.com&quot;) e [corpIP] con l&#39;indirizzo IP del server e-mail aziendale (ad esempio &quot;255.255.255.255&quot;). Se invii e-mail da più domini tramite Marketo, devi aggiungerle a ciascun dominio (su una riga).
+Chiedi all&#39;amministratore di rete di aggiungere la seguente riga alle voci DNS. Sostituisci [dominio] con il dominio principale del tuo sito web (es. &quot;company.com&quot;) e [corpIP] con l&#39;indirizzo IP del server e-mail aziendale (ad es. &quot;255.255.255.255&quot;). Se invii e-mail da più domini tramite Marketo, devi aggiungerle a ciascun dominio (su una riga).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -34,7 +34,7 @@ include:mktomail.com
 
 ## Configurare DKIM {#set-up-dkim}
 
-**Cos&#39;è DKIM? Perché impostare DKIM?**
+**Cos&#39;è DKIM? Perché voglio configurare DKIM?**
 
 DKIM è un protocollo di autenticazione utilizzato dai ricevitori di e-mail per determinare se un messaggio e-mail è stato inviato da chi afferma che è stato inviato da. DKIM migliora spesso la consegna delle e-mail alla casella in entrata, poiché un destinatario può essere sicuro che il messaggio non è un falso.
 
@@ -46,12 +46,12 @@ Dopo aver impostato la chiave pubblica nel record DNS e aver attivato il dominio
 
 **Come si configura DKIM?**
 
-Fare riferimento a [Impostare una firma DKIM personalizzata](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+Fai riferimento a [Imposta una firma DKIM personalizzata](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
 >* [Ulteriori informazioni su SPF e come funziona](http://www.open-spf.org/Introduction/)
 >* [Strumenti di consegna e-mail Marketo](https://www.marketo.com/software/email-marketing/email-deliverability/)
 >* [Il Mio SPF È Impostato Correttamente?](https://www.kitterman.com/spf/validate.html)
->* [Ho usato la sintassi giusta?](https://www.open-spf.org/SPF_Record_Syntax/)
+>* [Ho usato la sintassi giusta?](http://www.open-spf.org/SPF_Record_Syntax/)
 
