@@ -2,9 +2,9 @@
 description: Richieste sulla privacy - Documenti Marketo - Documentazione del prodotto
 title: Richieste sulla privacy
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Questo documento fornisce una panoramica sulla gestione delle singole richieste 
 
 Puoi inviare singole richieste di accesso e cancellazione dei dati dei consumatori dal Marketo Engage in due modi:
 
-* Attraverso il [Interfaccia utente di Privacy Service](https://privacyui.cloud.adobe.io/). Consulta la documentazione [qui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* Attraverso il **API Privacy Service**. Consulta la documentazione [qui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) e il riferimento API [qui](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Attraverso il [Interfaccia utente di Privacy Service](https://privacyui.cloud.adobe.io/). Consulta la documentazione [qui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
+* Attraverso il **API Privacy Service**. Consulta la documentazione [qui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} e informazioni API [qui](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-La [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
+La [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
 
 Vediamo come creare le richieste di accesso ed eliminazione.
 

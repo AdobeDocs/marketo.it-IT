@@ -3,9 +3,9 @@ unique-page-id: 6094890
 description: Note sulla versione - Febbraio 2015 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Febbraio 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Le seguenti funzionalità sono incluse nella versione di febbraio 2015. Per info
 
 Rallegratevi! Ora è possibile spostare le campagne avanzate all’interno e all’esterno dei programmi mediante trascinamento o la funzione Sposta nella struttura.
 
-**[Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  - supportato!
+**[Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - supportato!
 
 **Modifiche al certificato HTTPS**
 
@@ -28,11 +28,11 @@ Per proteggere la riservatezza e l&#39;integrità dei dati dei clienti e dei ser
 
 e sostituirà i protocolli di sicurezza attualmente utilizzati (SHA-1 e SSL) con versioni più sicure (SHA-2 (alias SHA-256) e TLS) per i seguenti domini:
 
-* [marketo.net](https://marketo.net)  (traffico Munchkin crittografato)
+* marketo.net (traffico Munchkin crittografato)
 
-* [marketo.com](https://marketo.com)  (principali applicazioni SaaS)
+* [marketo.com](https://marketo.com) (applicazioni SaaS principali)
 
-Questo succederà poco dopo questa versione. Il protocollo SHA-1 sarà temporaneamente supportato sul dominio [mktoapi.com](https://mktoapi.com) fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i propri sistemi con compatibilità SHA-2.
+Questo succederà poco dopo questa versione. Il protocollo SHA-1 sarà temporaneamente supportato su [mktoapi.com](https://mktoapi.com) fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i propri sistemi con compatibilità SHA-2.
 
 **Munchkin sicuro**
 
