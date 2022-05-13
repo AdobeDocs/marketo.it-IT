@@ -2,7 +2,7 @@
 description: Accesso automatico da Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Accesso automatico da Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ L&#39;accesso automatico consente agli utenti delle azioni Approfondimenti vendi
 
 Per utilizzare il login automatico:
 
-* [Impostazioni di Gestione accessi](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md) deve essere impostato su &quot;Solo Salesforce&quot;
+* [Impostazioni di Gestione accessi](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) deve essere impostato su &quot;Solo Salesforce&quot;
 
 * L&#39;utente deve essere stato invitato a utilizzare le azioni Approfondimenti vendite
 
