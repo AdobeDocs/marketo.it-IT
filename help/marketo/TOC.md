@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 0%
@@ -1279,7 +1279,6 @@ ht-degree: 0%
             + [Come impostare il tracciamento del dominio personalizzato](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Invitare utenti e amministratori](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Registrazione degli attributi delle attività di vendita a Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [Impostazioni di Gestione accessi](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Impostazioni di condivisione](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Dettagli accesso utente](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 0%
                + [Registrazione delle risposte](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostica Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Impostazioni di sincronizzazione Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Configurazione Salesforce {#salesforce-configuration}
+               + [Impostazioni di Gestione accessi](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Configurazione delle azioni di Insight sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Disinstallare il pacchetto di personalizzazione Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Disinstallare il pacchetto di personalizzazione Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + E-mail {#email}
             + Centro comandi {#command-center}
                + [Panoramica della ricerca avanzata](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1372,10 +1376,6 @@ ht-degree: 0%
             + [Chiamata internazionale](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Presenza locale](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Impostazioni di consenso bipartito](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Configurazione Salesforce {#salesforce-configuration}
-            + [Configurazione delle azioni di Insight sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [Disinstallare il pacchetto di personalizzazione Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [Disinstallare il pacchetto di personalizzazione Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Invia un&#39;e-mail di vendita {#send-a-sales-email}
             + [Panoramica sul tracciamento e-mail](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Attività {#tasks}
