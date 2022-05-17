@@ -2,9 +2,9 @@
 description: Registrazione degli attributi delle attività di vendita su Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Registrazione degli attributi delle attività di vendita a Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,20 @@ Descrizione di ciascuna colonna della tabella seguente:
   <th>Nome API</th>
   <th>Tipo di dati</th>
   <th>Dimensione</th>
+ </tr>
+  <tr>
+  <td>Risultati chiamata</td>
+  <td>mktosales_call_result</td>
+  <td>mktosales_call_result_c</td>
+  <td>Testo</td>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>Motivi della chiamata</td>
+  <td>mktosales_call_reason</td>
+  <td>mktosales_call_reason_c</td>
+  <td>Testo</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>ID presenza locale chiamata vendita Marketo</td>
