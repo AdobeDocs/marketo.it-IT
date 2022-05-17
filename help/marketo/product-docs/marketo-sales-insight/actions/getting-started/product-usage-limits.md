@@ -1,14 +1,16 @@
 ---
 description: Limiti di utilizzo del prodotto - Documenti Marketo - Documentazione del prodotto
 title: Limiti di utilizzo del prodotto
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 14%
+source-wordcount: '186'
+ht-degree: 13%
 
 ---
 
 # Limiti di utilizzo del prodotto {#product-usage-limits}
+
+I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinvolgimento delle vendite estese disponibili con le azioni Approfondimenti vendite.
 
 <table>
   <th>Funzionalità</th>
