@@ -2,10 +2,10 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 0%
+source-wordcount: '780'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Viene sincronizzato quanto segue:
 * Dati sul campo dell&#39;azienda
 * Dati attività
 
-## Finestre di dialogo {#dialogues}
+## Dialoghi {#dialogues}
 
 Le finestre di dialogo rappresentano un singolo coinvolgimento di chat. Immaginalo come un contenitore con tutte le cose necessarie per avere un dialogo chat coinvolgente con i visitatori del tuo sito web. In ciascuna finestra di dialogo è possibile specificare le pagine sulle quali si desidera visualizzare la finestra di dialogo, le relative pagine e il contenuto e il flusso della finestra stessa. Inoltre, puoi trovare le metriche per vedere le prestazioni della finestra di dialogo. [Ulteriori informazioni sulle finestre di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
@@ -45,7 +45,7 @@ Nella scheda Calendario, collegare il calendario (Outlook o Gmail) per l&#39;uti
 
 Puoi anche personalizzare il corpo dell’invito inviato al visitatore quando questo pianifica un appuntamento sul calendario dell’utente.
 
-## Riunioni {#meetings}
+## Meeting {#meetings}
 
 Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web attraverso le varie finestre di dialogo. Qui trovi l&#39;indirizzo e-mail della persona che ha prenotato l&#39;appuntamento, con quale agente ha prenotato l&#39;appuntamento, quando l&#39;appuntamento è programmato e se la riunione è avvenuta o meno.
 
@@ -54,6 +54,10 @@ Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web a
 Qui puoi vedere un elenco di tutti gli agenti che hanno collegato i loro calendari e l&#39;ordine in cui verranno presentati ai visitatori del sito web. Le riunioni vanno in stile robin, quindi se avete cinque agenti e l&#39;agente tre ha preso l&#39;ultima riunione, l&#39;agente quattro avrà quello successivo, seguito dall&#39;agente cinque, poi di nuovo all&#39;agente uno.
 
 ## Domande frequenti {#faq}
+
+**Posso installare la chat dinamica in qualsiasi punto del sito web della mia azienda o funziona solo sulle pagine di destinazione di Marketo?**
+
+Lo snippet JavaScript per chat dinamica può essere installato su qualsiasi sito web e sulle pagine di destinazione di Marketo.
 
 **Per quanto tempo vengono memorizzati i dati per il reporting?**
 
