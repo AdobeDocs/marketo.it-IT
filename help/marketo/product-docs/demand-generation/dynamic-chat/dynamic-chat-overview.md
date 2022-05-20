@@ -2,9 +2,9 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 1%
 
 ---
@@ -67,17 +67,39 @@ Lo snippet JavaScript per chat dinamica può essere installato su qualsiasi sito
 
 No, utilizza solo risposte predeterminate.
 
-**Come posso indirizzare le persone anonime?**
+**Dynamic Chat supporta lingue diverse dall&#39;inglese?**
 
-Nella finestra di dialogo, devi utilizzare il _L&#39;e-mail della persona è vuota_ attributo.
+Sì. La chat dinamica supporta le seguenti lingue: Francese, tedesco, giapponese, spagnolo, italiano, portoghese brasiliano, coreano, cinese semplificato e cinese tradizionale. Ulteriori informazioni nel [sezione sottostante](#changing-the-language).
 
 **Supporta la funzionalità AI/NLP?**
 
 Non è supportata la funzionalità AI/NLP.
 
-**Dynamic Chat offre altre lingue oltre all&#39;inglese?**
+**Come posso indirizzare le persone anonime?**
 
-Non in questo momento.
+Nella finestra di dialogo, devi utilizzare il _L&#39;e-mail della persona è vuota_ attributo.
+
+## Modifica della lingua {#changing-the-language}
+
+Segui questi passaggi per modificare la lingua chat dinamica.
+
+1. Nell&#39;account di Experience Cloud, fai clic sull&#39;icona delle impostazioni e scegli **Preferenze**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Fai clic sulla lingua corrente nell’indirizzo e-mail.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Scegli la nuova lingua (la seconda lingua è facoltativa) e fai clic su **Salva**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Ci sono alcune dozzine di lingue tra cui scegliere, tuttavia Dynamic Chat supporta solo quanto segue: Inglese, francese, tedesco, giapponese, spagnolo, italiano, portoghese brasiliano, coreano, cinese semplificato e cinese tradizionale.
+
+Quando aggiorni la tua lingua, tutto ciò che si trova nell’app stessa cambia, tranne le parole che hai popolato personalmente (ad esempio, le risposte di streaming).
 
 ## Limiti della chat dinamica {#limits-in-dynamic-chat}
 
