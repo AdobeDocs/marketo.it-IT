@@ -2,10 +2,10 @@
 description: Criteri del pubblico - Documenti Marketo - Documentazione del prodotto
 title: Criteri di audience
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -13,9 +13,31 @@ ht-degree: 1%
 
 Analogamente agli elenchi avanzati di Marketo, gli attributi dei criteri per il pubblico consentono di definire il pubblico di destinazione. Puoi eseguire il targeting di persone conosciute o sconosciute utilizzando attributi dedotti, di persone o di società (o una combinazione di essi).
 
+## Eventi {#events}
+
+![](assets/audience-criteria-0.png)
+
+Gli eventi ti consentono di eseguire il targeting dei visitatori in base al loro scorrimento o al loro tempo sulla pagina/sito. Nell’esempio seguente, il targeting è per i visitatori che si trovano su una pagina specifica da più di 20 secondi.
+
+1. Afferra la **Tempo sulla pagina** e trascinarlo a destra.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Impostare il tempo &quot;Maggiore di&quot; su 20 secondi.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Aggiungi l’URL della pagina desiderata nel [Target](#target) sezione .
+
+   ![](assets/audience-criteria-0c.png)
+
+## Attributi {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **Persone conosciute**
 
-Ci sono _molti_ combinazioni di attributi tra cui scegliere. In questo esempio il targeting è tutto **persone conosciute** in California che lavorano in un&#39;azienda con più di 50 dipendenti.
+Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio seguente, eseguiamo il targeting di tutti **persone conosciute** in California che lavorano in un&#39;azienda con più di 50 dipendenti.
 
 1. Afferra la **Stato persona** e trascinalo a destra.
 
