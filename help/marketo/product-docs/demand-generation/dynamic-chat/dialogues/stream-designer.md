@@ -1,10 +1,10 @@
 ---
 description: Stream Designer - Documenti Marketo - Documentazione del prodotto
-title: Progettazione flussi
+title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,15 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
   <td>Utilizzare quando si desidera porre una domanda a scelta multipla, di cui fornire le risposte disponibili (ad esempio: A che tipo di veicolo ti interessa? Risposte = SUV, compatto, camion, ecc.).</td>
  </tr>
  <tr>
+  <td><strong>Documento</strong></td>
+  <td>Consente di incorporare i documenti PDF nelle finestre di dialogo e di tenere traccia dell’attività di coinvolgimento dei visitatori nei documenti (quante pagine sono state visualizzate, se il documento è stato scaricato e/o eventuali termini di ricerca utilizzati).</td>
+ </tr>
+ <tr>
   <td><strong>Acquisizione delle informazioni</strong></td>
   <td>Utilizza quando desideri raccogliere informazioni. I tre campi tra cui scegliere sono Indirizzo e-mail, Numero di telefono e Testo (che consente al visitatore di scrivere il proprio messaggio).</td>
  </tr>
  <tr>
-  <td><strong>Scheduler appuntamenti</strong></td>
+  <td><strong>Pianificatore appuntamenti</strong></td>
   <td>Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">l'agente successivo in linea</a>.</td>
  </tr>
  <tr>
@@ -109,7 +113,7 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
      <td>Tipo di informazioni da acquisire: Telefono, Testo, E-Mail.</td>
     </tr>
     <tr>
-     <td><strong>Messaggio Chatbot</strong></td>
+     <td><strong>Messaggio del chatbot</strong></td>
      <td>Il messaggio visualizzato dal visitatore richiede l’immissione delle informazioni.</td>
     </tr>
     <tr>
@@ -117,7 +121,7 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
      <td>Testo di esempio che aiuta il visitatore a vedere cosa immettere.</td>
     </tr>
     <tr>
-     <td><strong>Mappa la risposta all'attributo</strong></td>
+     <td><strong>Mappa risposta all'attributo</strong></td>
      <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento Marketo.</td>
     </tr>
    </table>
