@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glossario di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td><strong>Elenco account</strong></td> 
-   <td>Elenco dei nomi di account/organizzazioni chiave. Noto anche come marketing basato su account (<strong>ABM</strong>).</td> 
+   <td>Elenco dei nomi di account/organizzazioni chiave. Noto anche come Account-Based Marketing (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Profilazione account</strong></td> 
@@ -47,7 +47,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
    <td colspan="1">In <strong>TAM</strong>, è un punteggio assegnato a un account per aiutarti a determinare il livello di coinvolgimento.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Data acquisizione</strong></td> 
+   <td colspan="1"><strong>Data di acquisizione</strong></td> 
    <td colspan="1">La data in cui una persona diventa nota in Marketo. Questa data corrisponde a <strong>Programma di acquisizione</strong> ha acquisito la persona.</td> 
   </tr> 
   <tr> 
@@ -59,7 +59,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
    <td colspan="1">(precedentemente Ad Bridge) Un modo per collegare i dati di audience univoci di Marketo ai sistemi di media a pagamento in modo da poter eseguire campagne pubblicitarie digitali mirate e personalizzate.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Marketo Engage Adobe</strong></td> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
    <td colspan="1">Il nome del marchio ufficiale per l’aggregato di tutte le offerte di prodotti Marketo all’interno di Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
@@ -241,7 +241,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
     <div> 
      <p><strong> Database</strong></p> 
     </div></td> 
-   <td>Una delle sezioni principali di <strong>Marketo Engage Adobe</strong>. Il database ospita tutti i <strong>persona</strong> registrazioni.</td> 
+   <td>Una delle sezioni principali di <strong>Adobe Marketo Engage</strong>. Il database ospita tutti i <strong>persona</strong> registrazioni.</td> 
   </tr> 
   <tr> 
    <td><strong>De-Dupe</strong></td> 
@@ -268,11 +268,11 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">Una delle sezioni principali di <strong>Marketo Engage Adobe</strong>. Design Studio è la sede principale del tuo <strong>assets</strong>, ad esempio: <strong>pagine di destinazione</strong>, moduli, <strong>e-mail</strong>, <strong>frammenti</strong>e immagini/file.</td> 
+   <td colspan="1">Una delle sezioni principali di <strong>Adobe Marketo Engage</strong>. Design Studio è la sede principale del tuo <strong>assets</strong>, ad esempio: <strong>pagine di destinazione</strong>, moduli, <strong>e-mail</strong>, <strong>frammenti</strong>e immagini/file.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documenti</strong></td> 
-   <td colspan="1">Brevemente ai documenti, i documenti sono articoli di aiuto per i clienti per comprendere meglio il prodotto. Marketo dispone di diversi tipi di documenti: documenti di prodotto (il sito in cui ti trovi attualmente), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> medici, <a href="https://developers.marketo.com/" rel="nofollow">Sviluppatore</a> documenti, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Supporto</a> documenti.</td> 
+   <td colspan="1">Brevemente ai documenti, i documenti sono articoli di aiuto per i clienti per comprendere meglio il prodotto. Marketo dispone di diversi tipi di documenti: documenti di prodotto (il sito in cui ti trovi attualmente), <a href="https://developers.marketo.com/" rel="nofollow">Sviluppatore</a> documenti, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Supporto</a> documenti.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Autenticazione, reporting e conformità dei messaggi basati sul dominio (DMARC)</strong></td> 
@@ -481,7 +481,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td><strong>Lead</strong></td> 
-   <td>In <strong>Marketo Engage Adobe</strong>, lead è il termine precedente (sostituito da <strong>persona</strong>) utilizzata per descrivere un individuo nel tuo Marketo <strong>database</strong> che utilizzi tramite le campagne di marketing. Nel tuo <strong>CRM</strong>, un lead può rappresentare un concetto diverso (ovvero, una persona associata a un <strong>opportunità</strong>) indipendente dalla funzionalità di Marketo.</td> 
+   <td>In <strong>Adobe Marketo Engage</strong>, lead è il termine precedente (sostituito da <strong>persona</strong>) utilizzata per descrivere un individuo nel tuo Marketo <strong>database</strong> che utilizzi tramite le campagne di marketing. Nel tuo <strong>CRM</strong>, un lead può rappresentare un concetto diverso (ovvero, una persona associata a un <strong>opportunità</strong>) indipendente dalla funzionalità di Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Database lead</strong></td> 
@@ -511,7 +511,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
  <tbody> 
   <tr> 
    <td><strong>Attività di marketing</strong></td> 
-   <td><p>Una delle sezioni principali del Marketo Engage Adobe. Qui è dove <strong>campagna</strong> viene eseguita l'orchestrazione. Tutte le tue <strong>programmi</strong>, campagne e <strong>cartelle delle campagne</strong> (nonché <strong>risorse locali</strong>) vivono qui.</p></td> 
+   <td><p>Una delle sezioni principali di Adobe Marketo Engage. Qui è dove <strong>campagna</strong> viene eseguita l'orchestrazione. Tutte le tue <strong>programmi</strong>, campagne e <strong>cartelle delle campagne</strong> (nonché <strong>risorse locali</strong>) vivono qui.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Automazione del marketing</strong></a></td> 
@@ -555,7 +555,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>My Marketo</strong></td> 
-   <td colspan="1">Una delle sezioni standard del Marketo Engage Adobe. agisce come la tua "homepage" Marketo, visualizzando tessere per tutte le sezioni di Marketo a cui hai accesso.</td> 
+   <td colspan="1">Una delle sezioni standard di Adobe Marketo Engage. agisce come la tua "homepage" Marketo, visualizzando tessere per tutte le sezioni di Marketo a cui hai accesso.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Token personali</strong></a></td> 

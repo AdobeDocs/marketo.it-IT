@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '8766'
+source-wordcount: '8770'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 + [Pagina principale](home.md)
 + Guida introduttiva a Marketo {#getting-started-with-marketo}
    + [Introduzione](getting-started.md)
-   + [Che cos&#39;è l&#39;Marketo Engage Adobe?](getting-started/what-is-adobe-marketo-engage.md)
+   + [Cos&#39;è Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glossario Marketo](getting-started/marketo-glossary.md)
    + [Glossario a icona classica](getting-started/classic-icon-glossary.md)
    + Configurazione {#setup}
@@ -82,7 +82,7 @@ ht-degree: 0%
             + [SEO - Ottieni suggerimenti collegamenti in entrata](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
             + [SEO - Rimuovere/eliminare un URL di collegamento in entrata](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
             + [SEO - Informazioni sui collegamenti in entrata](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-         + Rapporti {#reports}
+         + Report {#reports}
             + [SEO - Utilizzare il rapporto sulle tendenze KW della concorrenza](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Utilizzare il rapporto Tendenze parole chiave](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + Amministrazione {#administration}
@@ -614,12 +614,13 @@ ht-degree: 0%
          + [Aggiungi o rimuovi utenti chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Configurazione](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Attività chat dinamiche](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + Finestre di dialogo {#dialogues}
+         + Dialoghi {#dialogues}
             + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Creare una finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
-            + [Criteri del pubblico](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [Progettazione flussi](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [Rapporti](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [Criteri di audience](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
+            + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [Utilizzo della scheda documento](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
+            + [Report](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Eventi {#events}
          + Informazioni sugli eventi {#understanding-events}
             + [Aggiunta di membri a un programma evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
