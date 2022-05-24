@@ -4,16 +4,16 @@ title: Informazioni sul tracciamento degli obiettivi e sulle registrazioni previ
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
 
 # Informazioni sul tracciamento degli obiettivi e sulle registrazioni previste {#understanding-goal-tracking-and-projected-registrations}
 
-Dopo [impostazione degli obiettivi dell’evento](/help/sky/setting-event-goals.md) e inviare inviti tramite un [campagna intelligente](/help/sky/create-a-smart-campaign.md), ecco come tracciare il progresso del tuo obiettivo e capire le previsioni di Marketo.
+Ecco come tracciare il progresso del tuo obiettivo e comprendere le previsioni di Marketo.
 
 >[!NOTE]
 >
