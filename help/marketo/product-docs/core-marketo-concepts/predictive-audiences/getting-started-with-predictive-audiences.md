@@ -1,12 +1,10 @@
 ---
 description: Guida introduttiva di Predictive Audiences - Documenti Marketo - Documentazione del prodotto
 title: Guida introduttiva di Predictive Audiences
-hide: true
-hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,7 +19,7 @@ L’applicazione a pagina singola include le seguenti funzionalità:
 * [Filtri predittivi](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
 * [Modelli e fattori di influenza](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
 * Informazioni basate su AI/ML
-* [Tracciamento degli obiettivi e registrazioni previste](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (il tracciamento degli obiettivi è disponibile solo per coloro che hanno abilitato l’interruttore di prossima generazione per i programmi evento - per accedere a questo interruttore, contatta il tuo CSM e richiedi tipi di pubblico predittivi)
+* Tracciamento degli obiettivi e registrazioni previste - (il tracciamento degli obiettivi è disponibile solo per coloro che hanno abilitato l’interruttore di prossima generazione per i programmi evento - per accedere a questo interruttore, contatta il tuo CSM e richiedi tipi di pubblico predittivi)
 
 >[!NOTE]
 >
