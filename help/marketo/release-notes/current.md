@@ -4,7 +4,7 @@ title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,14 +32,6 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **24 giugno 2022**,
 * **Reporting avanzato delle finestre di dialogo per la chat dinamica**: Visualizza le prestazioni delle campagne Dynamic Chat in modo più dettagliato utilizzando nuove visualizzazioni di dati per le metriche di coinvolgimento e conversione.
 
 * **Attributi di Marketo Engage non utilizzati non sincronizzati per la chat dinamica**: Annullare la sincronizzazione degli attributi di Marketo Engage dalla sottoscrizione Dynamic Chat che non vengono utilizzati, facilitando la pulizia dei dati e consentendo la sincronizzazione degli attributi alternativi in base alle esigenze.
-
-## Esperienza di nuova generazione {#next-generation-experience}
-
-* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
-
-   * Pagina dei dettagli e-mail
-   * Visualizzazione a elenco e-mail
-   * Elenco immagini e file e dettagli
 
 ## Automazione delle esperienze {#experience-automation}
 
