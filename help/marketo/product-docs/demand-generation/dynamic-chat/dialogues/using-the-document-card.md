@@ -1,11 +1,10 @@
 ---
 description: Utilizzo della scheda documenti - Marketo Docs - Documentazione del prodotto
 title: Utilizzo della scheda documento
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ La scheda Documento consente di incorporare i documenti PDF nelle finestre di di
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >Sarà necessario utilizzare il dominio in cui ospiterai il chatbot (ad esempio, se ospiti il chatbot su mycompany.com, assicurati di inserirlo nel passaggio 4).
+
 1. Fai clic su **Copia** per copiare l’ID client.
 
    ![](assets/using-the-document-card-4.png)
 
-1. Indietro in Chat dinamica, fai clic su **Integrazioni**. Fai clic sul dato in API di incorporamento di Adobe PDF e seleziona **Modifica configurazione**.
+1. Indietro in Chat dinamica, fai clic su **Integrazioni**. Nella scheda API di incorporamento di Adobe PDF, fai clic su **Attiva**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. Incolla l’ID client e fai clic su **Aggiorna**.
+1. Incolla l’ID client e fai clic su **Salva**.
 
    ![](assets/using-the-document-card-6.png)
 
