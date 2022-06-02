@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
+source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **24 giugno 2022**,
 
 ## Annunci {#announcements}
 
-* **Forms Deprecation - Forms 1.0, endpoint per l’acquisizione/il salvataggio di lead e versioni non basate su script dei moduli**: Il supporto per le risorse Forms 1.0 verrà rimosso completamente dal Marketo Engage. Tutte le risorse Forms 1.0 esistenti cesseranno di funzionare. I moduli di Marketo Engage richiedono il caricamento di JavaScript su pagine di destinazione e siti web.
+* **Forms Deprecation - Forms 1.0, endpoint per l’acquisizione/il salvataggio di lead e versioni non basate su script dei moduli**: Il supporto per le risorse Forms 1.0 verrà rimosso completamente dal Marketo Engage a ottobre 2022. Tutte le risorse Forms 1.0 esistenti cesseranno di funzionare. I moduli di Marketo Engage richiedono il caricamento di JavaScript su pagine di destinazione e siti web.
 
 **_Webinar sulla versione del prodotto_**
 
