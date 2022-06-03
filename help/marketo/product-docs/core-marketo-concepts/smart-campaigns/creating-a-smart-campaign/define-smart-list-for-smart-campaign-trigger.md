@@ -3,10 +3,9 @@ unique-page-id: 1146942
 description: Definire un elenco avanzato per Smart Campaign | Trigger - Documentazione Marketo - Documentazione del prodotto
 title: Definire un elenco avanzato per Smart Campaign | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Crea una campagna intelligente da eseguire su una persona alla volta in base agli eventi live aggiungendo trigger.
 
-1. Nella campagna avanzata, fai clic sulla scheda **Elenco avanzato** .
+1. Nella campagna intelligente, fai clic su **Elenco avanzato** scheda .
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -25,7 +24,11 @@ Crea una campagna intelligente da eseguire su una persona alla volta in base agl
 
    >[!NOTE]
    >
-   >Una campagna intelligente con trigger viene eseguita in modalità **Trigger** . Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
+   >Una campagna intelligente con trigger viene eseguita in **Trigger** modalità. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
+
+   >[!IMPORTANT]
+   >
+   >Quando utilizzi un campo booleano in un elenco smart della campagna di attivazione, devi impostarlo esplicitamente su &quot;false&quot; affinché il campo possa essere valutato correttamente durante l’esecuzione della campagna.
 
 1. Fai clic sull’elenco a discesa e scegli un operatore .
 
@@ -45,9 +48,9 @@ Crea una campagna intelligente da eseguire su una persona alla volta in base agl
 
    >[!NOTE]
    >
-   >Con più attivatori, una persona attraversa il flusso se **ANY** viene attivato uno dei trigger.
+   >Con più attivatori, una persona attraversa il flusso se **QUALSIASI** uno dei trigger viene attivato.
 
-Per eseguire la campagna su un insieme di persone tutte contemporaneamente, scopri come [definire un elenco avanzato per la campagna avanzata | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Per eseguire la campagna su un insieme di persone tutte contemporaneamente, scopri come [Definire un elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >
