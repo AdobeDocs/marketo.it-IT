@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configurare Marketo Sales Insight in Salesforce Professional Edition - Documentazione Marketo - Documentazione del prodotto
 title: Configurare Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -155,6 +155,10 @@ Di seguito sono riportati i passaggi da effettuare per configurare Marketo Sales
 1. Modifica altezza in **450** pixel e fai clic su **OK**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
+
+   >[!NOTE]
+   >
+   >Controlla **Mostra barre di scorrimento** se hai bisogno di accedere alle attività di scorrimento.
 
    >[!TIP]
    >
