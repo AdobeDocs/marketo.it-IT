@@ -2,9 +2,9 @@
 description: Configurazione dell’amministratore - Documentazione di Marketo - Documentazione del prodotto
 title: Configurazione amministratore
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 Una volta aggiunto come amministratore di sistema di Adobe al Marketo Engage in un’organizzazione di Adobe, dovrai effettuare alcuni passaggi per completare la configurazione iniziale.
 
-## Configurazione amministratore di sistema {#system-admin-setup}
+## Configurazione iniziale {#initial-setup}
 
 1. Dopo essere stato aggiunto come amministratore di sistema designato per il Marketo Engage (in un’organizzazione nuova o stabilita), riceverai un’e-mail di benvenuto. In quell’e-mail, fai clic su **Introduzione**.
 
    ![](assets/admin-setup-1.png)
 
-1. Se in precedenza hai effettuato l’accesso a un’applicazione con un Adobe ID, verrai reindirizzato direttamente a Adobe Admin Console. In caso contrario, [configurare il tuo Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Se in precedenza hai effettuato l’accesso a un’applicazione con un Adobe ID, verrai reindirizzato direttamente a Adobe Admin Console. In caso contrario, [configurare il tuo Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
 
    ![](assets/admin-setup-2.png)
 
@@ -53,4 +53,4 @@ Dopo che l’amministratore di sistema accede all’Admin Console, è ora di cre
 
 >[!MORELIKETHIS]
 >
->[Aggiungere o rimuovere un amministratore di prodotto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[Aggiungere o rimuovere un amministratore di prodotto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}

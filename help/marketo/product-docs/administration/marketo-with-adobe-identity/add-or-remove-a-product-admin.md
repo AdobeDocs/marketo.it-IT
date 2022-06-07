@@ -2,9 +2,9 @@
 description: Aggiungere o rimuovere un amministratore di prodotto - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere o rimuovere un amministratore di prodotto
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 >**Sistema** Gli amministratori vengono creati solo a livello di organizzazione Adobe. Se pensi di averne più di uno, contatta [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Aggiungi un amministratore di prodotto {#add-a-product-admin}
+
+>[!IMPORTANT]
+>
+>Per accedere al Marketo Engage, devi aggiungere un amministratore a un profilo di prodotto .
 
 1. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/).
 
