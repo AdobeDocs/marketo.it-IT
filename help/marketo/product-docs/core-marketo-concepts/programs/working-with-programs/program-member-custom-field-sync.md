@@ -1,0 +1,162 @@
+---
+description: Campi personalizzati dei membri del programma - Documenti Marketo - Documentazione del prodotto
+title: Campi personalizzati membri del programma
+hide: true
+hidefromtoc: true
+source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 4%
+
+---
+
+# Sincronizzazione campo personalizzata membro del programma {#program-member-custom-field-sync}
+
+>[!PREREQUISITES]
+>
+>Creazione di [Campi personalizzati membri del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
+
+>[!NOTE]
+>
+>L&#39;oggetto membro del programma può contenere fino a 20 campi personalizzati. Tali campi sono disponibili per qualsiasi programma.
+
+## Mappare campi Salesforce nei campi membri del programma {#map-salesforce-fields-to-program-member-fields}
+
+1. In Marketo, fai clic su **Amministratore**.
+
+   ![](assets/program-member-custom-field-sync-1.png)
+
+1. Fai clic su **Salesforce**, quindi fai clic su **Modifica** accanto a Sincronizzazione campo personalizzata membro del programma.
+
+   ![](assets/program-member-custom-field-sync-2.png)
+
+1. Utilizzare la casella di ricerca per individuare i campi Salesforce che si desidera mappare. In questo esempio, stiamo utilizzando Do Not Call.
+
+   ![](assets/program-member-custom-field-sync-3.png)
+
+1. Fai clic sull’elenco a discesa.
+
+   ![](assets/program-member-custom-field-sync-4.png)
+
+1. Scegli il campo personalizzato del membro del programma Marketo desiderato da mappare.
+
+   ![](assets/program-member-custom-field-sync-5.png)
+
+   >[!NOTE]
+   >
+   >L’elenco a discesa visualizza solo i campi personalizzati dei membri del programma che corrispondono al tipo di dati del campo Salesforce.
+
+1. Per ulteriori mappature dei campi, deselezionare la casella di ricerca e ripetere i passaggi da 3 a 5.
+
+1. Fai clic su **Salva** al termine.
+
+   ![](assets/program-member-custom-field-sync-6.png)
+
+   >[!IMPORTANT]
+   >
+   >Le modifiche ai dati dei membri del programma nei campi mappati verranno sincronizzate tra Marketo e Salesforce in futuro.
+
+   >[!NOTE]
+   >
+   >Se rinomini o modifichi il tipo di dati di un campo in Salesforce, verranno rimosse eventuali mappature di tale campo con il campo personalizzato del membro del programma. Tuttavia, puoi riutilizzarlo con il nuovo campo dopo la revisione.
+
+## Annulla la mappatura dei campi Salesforce nei campi membri del programma {#unmap-salesforce-fields-to-program-member-fields}
+
+Se si desidera liberare un campo per sostituirlo o apportare una modifica generale, è necessario prima eseguire una rimozione dalla mappatura. Ecco come.
+
+1. In Marketo, fai clic su **Amministratore**.
+
+   ![](assets/program-member-custom-field-sync-7.png)
+
+1. Fai clic su **Salesforce**, quindi fai clic su **Modifica** accanto a Sincronizzazione campo personalizzata membro del programma.
+
+   ![](assets/program-member-custom-field-sync-8.png)
+
+1. Utilizzare la casella di ricerca per individuare i campi da demappare. In questo esempio, stiamo utilizzando Do Not Call.
+
+   ![](assets/program-member-custom-field-sync-9.png)
+
+   >[!TIP]
+   >
+   >È possibile selezionare la **Mappata** per visualizzare solo i campi mappati.
+
+1. Annulla mappatura facendo clic sul pulsante **X** accanto al campo .
+
+   ![](assets/program-member-custom-field-sync-10.png)
+
+1. La mappatura viene ora rimossa. Fai clic su **Salva**.
+
+   ![](assets/program-member-custom-field-sync-11.png)
+
+## Mappatura del tipo di dati {#datatype-mapping}
+
+<table>
+  <colgroup>
+    <col/>
+    <col/>
+  </colgroup>
+  <tbody>
+    <tr>
+      <th>Tipo di dati SFDC</th>
+      <th>Tipo di dati campo membro del programma</th>
+    </tr>
+    <tr>
+      <td>Testo</td>
+      <td>Stringa</td>
+    </tr>
+    <tr>
+      <td>Elenco a discesa</td>
+      <td>Stringa</td>
+    </tr>
+    <tr>
+      <td>Selezione multipla</td>
+      <td>Stringa</td>
+    </tr>
+    <tr>
+      <td>Telefono</td>
+      <td>Stringa</td>
+    </tr>
+    <tr>
+      <td>E-mail</td>
+      <td>Stringa</td>
+    </tr>
+    <tr>
+      <td>Numero(m)</td>
+      <td>Intero</td>
+    </tr>
+    <tr>
+      <td>Numero(m,n)</td>
+      <td>Mobile</td>
+    </tr>
+    <tr>
+      <td>Casella di controllo</td>
+      <td>Booleano</td>
+    </tr>
+    <tr>
+      <td>URL</td>
+      <td>URL</td>
+    </tr>
+    <tr>
+      <td>Data</td>
+      <td>Data</td>
+    </tr>
+    <tr>
+      <td>Datetime</td>
+      <td>Datetime</td>
+    </tr>
+    <tr>
+      <td>Ricerca (riferimento)</td>
+      <td>Stringa</td>
+    </tr>
+    <tr>
+      <td>Base64</td>
+      <td>Stringa</td>
+    </tr>
+  </tbody>
+</table>
+
+>[!MORELIKETHIS]
+>
+>* [Modifica dati dei membri del programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
+>* [Visualizzare i dati sulla griglia dei membri del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
+
