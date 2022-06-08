@@ -3,8 +3,7 @@ unique-page-id: 2953467
 description: Sincr. SFDC - Sincronizzazione opportunità - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione SFDC - Sincronizzazione opportunità
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -19,7 +18,7 @@ La sincronizzazione è un modo: da Salesforce a Marketo. Gli aggiornamenti alle 
 
 >[!NOTE]
 >
->Le [credenziali immesse in Marketo per Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui tali credenziali hanno accesso.
+>La [credenziali inserite in Marketo per Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzati per sincronizzare i dati. Verranno inclusi solo i dati a cui tali credenziali hanno accesso.
 
 ## Posso avviare una sincronizzazione opportunità? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +26,7 @@ No, non puoi. Le modifiche apportate a qualsiasi opportunità in Salesforce verr
 
 ## Marketo supporta più di una valuta nell&#39;importo opportunità? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo supporta una sola valuta. L&#39;importo dell&#39;opportunità verrà sincronizzato da Salesforce ma la valuta sarà la [valuta predefinita](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) nell&#39;abbonamento Marketo.
+No, Marketo supporta una sola valuta. L&#39;importo dell&#39;opportunità verrà sincronizzato da Salesforce ma la valuta sarà [valuta predefinita](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) nel tuo abbonamento Marketo.
 
 ## In che modo Marketo associa opportunità e contatti? {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,7 +34,7 @@ Marketo associa opportunità e contatti utilizzando [Ruoli contatto opportunità
 
 ## Come posso vedere tutte le opportunità di una persona? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-È possibile visualizzare un elenco di opportunità nella scheda **Informazioni opportunità** nella pagina [Dettagli persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+È possibile visualizzare un elenco di opportunità nella **Informazioni opportunità** nella scheda [Dettagli persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pagina.
 
 ## Quali sono i trigger/filtri correlati alle opportunità? {#what-are-the-triggers-filters-related-to-opportunity}
 

@@ -3,17 +3,16 @@ unique-page-id: 7516241
 description: Sincr. SFDC - Coda lead - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione SFDC - Coda lead
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Sincr. SFDC: Coda lead {#sfdc-sync-lead-queue}
 
-Marketo consente di aggiungere persone alle [code lead Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) per facilitare la distribuzione dei lead. Ecco i dettagli.
+Marketo consente di aggiungere persone a [code lead Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) per facilitare la distribuzione dei lead. Ecco i dettagli.
 
 ## Come assegnare una persona a una coda in Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
