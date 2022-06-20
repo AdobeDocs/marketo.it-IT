@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glossario di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 0%
 
 ---
@@ -28,19 +28,15 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
-   <td colspan="1">Questo termine può avere significati diversi:<br>- La tua istanza Marketo stessa può essere definita il tuo account Marketo.<br>Ingresso <strong>ABM</strong>, <strong>Account denominato</strong> è un account che l'utente ha determinato come un account target che desidera perseguire.<br>- In ABM un account CRM è un account mappato dal collegamento <strong>CRM</strong> (conto in <strong>Salesforce</strong>, <strong>Dynamics MS</strong> o <strong>API</strong>).<br>- Nel tuo CRM, gli account sono l'azienda/azienda a cui sono associati i lead e i contatti.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing basato su account</a> (ABM)</strong></td> 
-   <td colspan="1">Funzione aggiuntiva che consente di eseguire il targeting e coinvolgere account chiave in modo altamente coordinato.</td> 
+   <td colspan="1">Questo termine può avere significati diversi:<br>- La tua istanza Marketo stessa può essere definita il tuo account Marketo.<br>Ingresso <strong>TAM</strong>, <strong>Account denominato</strong> è un account che l'utente ha determinato come un account target che desidera perseguire.<br>- In TAM, un account CRM è un account mappato dal tuo collegato <strong>CRM</strong> (conto in <strong>Salesforce</strong>, <strong>Dynamics MS</strong> o <strong>API</strong>).<br>- Nel tuo CRM, gli account sono l'azienda/azienda a cui sono associati i lead e i contatti.</td> 
   </tr> 
   <tr> 
    <td><strong>Elenco account</strong></td> 
-   <td>Elenco dei nomi di account/organizzazioni chiave. Noto anche come Account-Based Marketing (<strong>ABM</strong>).</td> 
+   <td>Elenco dei nomi di account/organizzazioni chiave. Noto anche come Gestione account di Target (<strong>TAM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Profilazione account</strong></td> 
-   <td colspan="1">(precedentemente AccountAI) In <strong>ABM</strong>, utilizzando il tuo profilo cliente ideale (ICP), le aziende esistenti nel tuo database verranno classificate e le classificazioni vengono aggiunte come punteggi sui tuoi account.</td> 
+   <td colspan="1">(precedentemente AccountAI) In <strong>TAM</strong>, utilizzando il tuo profilo cliente ideale (ICP), le aziende esistenti nel tuo database verranno classificate e le classificazioni vengono aggiunte come punteggi sui tuoi account.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Punteggio account</a></strong></td> 
@@ -574,7 +570,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
  <tbody> 
   <tr> 
    <td><strong>Account denominato</strong></td> 
-   <td><p>In <strong>ABM</strong>, un account determinato dall’utente è un account target che desidera perseguire.</p></td> 
+   <td><p>In <strong>TAM</strong>, un account determinato dall’utente è un account target che desidera perseguire.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Programma di educazione</strong></td> 
@@ -647,7 +643,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">In Marketo <strong>Marketing basato su account</strong>, gli utenti tipo sono un sottoinsieme di un pubblico e consentono un targeting più specifico.</td> 
+   <td colspan="1">In Marketo <strong>Gestione account di Target</strong>, gli utenti tipo sono un sottoinsieme di un pubblico e consentono un targeting più specifico.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Sondaggio</strong></a></td> 
@@ -807,7 +803,11 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Tag</a></strong></td> 
    <td>Identificatori utilizzati per descrivere <strong>programmi</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Gestione account di Target</a> (TAM)</strong></td> 
+   <td colspan="1">(precedentemente Marketing/ABM basato su account) Funzione aggiuntiva che consente di eseguire il targeting e coinvolgere gli account chiave in modo altamente coordinato.</td> 
+  </tr>
   <tr> 
    <td><strong>Modello</strong></td> 
    <td>Un <strong>email</strong> o <strong>pagina di destinazione</strong> viene utilizzato come punto di partenza per la creazione di e-mail o pagine di destinazione aggiuntive.</td> 
