@@ -2,9 +2,9 @@
 description: Regole di convalida dei moduli globali - Documenti Marketo - Documentazione del prodotto
 title: Regole di convalida globali dei moduli
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -70,3 +70,17 @@ Prima di poter utilizzare questa funzione, è necessario abilitarne l’autorizz
 >[!NOTE]
 >
 >Il Marketo Engage dispone di un inserire nell&#39;elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola di Inserire nell&#39;elenco Bloccati &quot; del dominio e-mail consumatore&quot; precaricata. [Visualizza l&#39;elenco](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+
+## Disattivazione dell’accesso per modulo{#how-to-disable-access-per-form}
+
+Una volta abilitate, le regole si applicano a tutti i moduli. Tuttavia, se si dispone di un modulo con requisiti specifici e non si desidera che venga rifiutato alcun elemento, è possibile disabilitare le Regole di convalida dei moduli globali nelle impostazioni di un modulo.
+
+1. Nel modulo desiderato, fai clic su **Impostazioni modulo**, quindi **Impostazioni**.
+
+   ![](assets/global-form-validation-rules-11.png)
+
+1. Fai clic sull’elenco a discesa Regole di convalida globale del modulo e scegli **Disabilitato**.
+
+   ![](assets/global-form-validation-rules-12.png)
+
+Quando si approva e si pubblica il modulo, verranno ignorate le regole di convalida del modulo globale.
