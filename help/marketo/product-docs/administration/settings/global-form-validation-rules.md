@@ -2,9 +2,9 @@
 description: Regole di convalida dei moduli globali - Documenti Marketo - Documentazione del prodotto
 title: Regole di convalida globali dei moduli
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
+source-git-commit: c91fa08bcb833a4c8a65055fd2471d7bc03a4e71
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ Prima di poter utilizzare questa funzione, è necessario abilitarne l’autorizz
 
 ## Disattivazione dell’accesso per modulo{#how-to-disable-access-per-form}
 
-Una volta abilitate, le regole si applicano a tutti i moduli. Tuttavia, se si dispone di un modulo con requisiti specifici e non si desidera che venga rifiutato alcun elemento, è possibile disabilitare le Regole di convalida dei moduli globali nelle impostazioni di un modulo.
+Una volta abilitate, le regole si applicano a tutti i moduli. Tuttavia, se si dispone di un modulo con requisiti specifici e non si desidera che venga rifiutato alcun elemento, è possibile disabilitare le Regole di convalida dei moduli globali nelle impostazioni del modulo.
 
 1. Nel modulo desiderato, fai clic su **Impostazioni modulo**, quindi **Impostazioni**.
 
