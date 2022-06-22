@@ -2,24 +2,16 @@
 description: Servizio dettagliato del flusso - Documentazione Marketo - Documentazione del prodotto
 title: Servizio a gradini di flusso
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # Servizio a gradini di flusso {#flow-step-service}
 
->[!NOTE]
->
->I passaggi del flusso self-service si trovano attualmente in Open Beta. Puoi abilitarlo per il tuo abbonamento nel menu Admin (Ammin) > Treasure Chest (Torta tesoro).
-
-I passaggi di flusso self-service è un framework e un insieme di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web in Adobe Marketi Engage Smart Campaigns. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del tuo servizio, consulta [Archivio GitHub per l’interfaccia dei provider di servizi](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. È possibile trovare un’implementazione della tabella di ricerca a prova di concetto [qui](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## Restrizioni e avvisi pre-rilascio {#pre-release-restrictions-and-warnings}
-
-Questa funzione è attualmente in versione beta aperta e deve essere utilizzata solo sulle istanze Sandbox di Marketo Engage fino a quando il servizio non viene completamente testato.
+I passaggi di flusso self-service è un framework e un insieme di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web nelle campagne avanzate Adobe Marketo Engage. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del tuo servizio, consulta [Archivio GitHub per l’interfaccia dei provider di servizi](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. È possibile trovare un’implementazione della tabella di ricerca a prova di concetto [qui](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Onboarding e gestione dei servizi {#onboarding-and-managing-services}
 
