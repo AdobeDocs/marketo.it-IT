@@ -2,9 +2,9 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ La nuova esperienza verrà caricata.
 
 ![](assets/toggle-switch-7.png)
 
-## Pagina dei dettagli della pagina di destinazione {#landing-page-details-page}
+## Visualizzazione dei dettagli della pagina di destinazione {#landing-page-details-view}
 
 1. In Marketo, trova e seleziona la tua pagina di destinazione.
 
@@ -117,14 +117,48 @@ La nuova esperienza verrà caricata.
 
 ![](assets/toggle-switch-21.png)
 
+## Visualizzazione dettagli e-mail {#email-details-view}
+
+1. In Marketo, trova e seleziona il tuo messaggio e-mail.
+
+   ![](assets/toggle-switch-22.png)
+
+1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
+
+   ![](assets/toggle-switch-23.png)
+
+La nuova esperienza verrà caricata.
+
+![](assets/toggle-switch-24.png)
+
+## Visualizzazione a elenco e-mail {#email-list-view}
+
+La visualizzazione elenco e-mail di nuova generazione offre filtri di ricerca e la possibilità di eseguire azioni e-mail di massa.
+
+1. In Marketo, seleziona **Design Studio**.
+
+   ![](assets/toggle-switch-25.png)
+
+1. Seleziona **E-mail**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
+
+   ![](assets/toggle-switch-27.png)
+
+La nuova esperienza verrà caricata.
+
+![](assets/toggle-switch-28.png)
+
 ## Abilita per tutte le funzionalità {#enable-for-all-features}
 
 È possibile abilitare manualmente l&#39;interfaccia di nuova generazione di Marketo per tutte le funzioni disponibili, attuali e future.
 
 1. In un&#39;area che al momento dispone dell&#39;interruttore di attivazione/disattivazione (in questo esempio ci troviamo in [Pagina dei dettagli del modulo](#form-details-page)), fai clic sull’icona a forma di ingranaggio in basso a destra della pagina.
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
