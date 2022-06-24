@@ -3,8 +3,7 @@ unique-page-id: 10093188
 description: Informazioni sugli oggetti personalizzati di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sugli oggetti personalizzati Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
@@ -27,7 +26,7 @@ Utilizza oggetti personalizzati come filtri e attivatori nelle campagne avanzate
 È possibile impostare oggetti personalizzati in una relazione uno-a-molti o molti-a-molti. Ad esempio:
 
 * **Uno-a-molti**: Una persona possiede diverse auto
-* **Many-to-Many** (Da molti-a-molti): Più studenti iscritti a più corsi da un catalogo di corsi
+* **Many-to-Many (Da molti-a-molti)**: Più studenti iscritti a più corsi da un catalogo di corsi
 
 Una struttura uno-a-molti utilizza un singolo campo di collegamento per collegare l’oggetto personalizzato a una persona o a un’azienda.
 
@@ -43,13 +42,13 @@ Gli oggetti personalizzati molti-a-molti utilizzano due campi di collegamento, p
 
 ## Accesso agli oggetti personalizzati Marketo {#accessing-marketo-custom-objects}
 
-1. Per creare o modificare oggetti personalizzati Marketo, fare clic su **Amministratore**, quindi sul collegamento **Oggetti personalizzati Marketo**.
+1. Per creare o modificare oggetti personalizzati Marketo, fare clic su **Amministratore** e poi **Oggetti personalizzati Marketo** link.
 
-   ![](assets/image2016-5-18-16-3a59-3a30.png)
+   ![](assets/understanding-marketo-custom-objects-1.png)
 
 1. Nella visualizzazione Oggetti personalizzati di Marketo sono elencati tutti gli oggetti personalizzati sulla destra, ma solo quelli approvati nella griglia principale.
 
-   ![](assets/image2016-6-10-15-3a14-3a18.png)
+   ![](assets/understanding-marketo-custom-objects-2.png)
 
 1. La griglia visualizza il nome dell’oggetto, il numero di record, il numero di campi e la data dell’aggiornamento più recente.
 
@@ -59,7 +58,7 @@ Gli oggetti personalizzati molti-a-molti utilizzano due campi di collegamento, p
 
 1. Fai clic sul nome dell’oggetto a destra per aprire la pagina dei dettagli.
 
-   ![](assets/image2016-6-10-15-3a15-3a29.png)
+   ![](assets/understanding-marketo-custom-objects-3.png)
 
 ## Visualizza oggetti personalizzati associati a una persona {#view-custom-objects-associated-to-a-person}
 
@@ -67,29 +66,29 @@ Dopo aver creato la struttura dell’oggetto personalizzato, quando si caricano 
 
 1. Vai a **Database**.
 
-   ![](assets/db.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
-1. Apri il database e fai clic sulla scheda **Persone** . Fare doppio clic sul record relativo a una persona associata a un oggetto personalizzato.
+1. Apri il database e fai clic su **Persone** scheda . Fare doppio clic sul record relativo a una persona associata a un oggetto personalizzato.
 
-   ![](assets/five.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Nella pagina dei dettagli della persona fare clic sulla scheda **Oggetti personalizzati** . Seleziona l’oggetto dal menu a discesa.
+1. Nella pagina dei dettagli della persona, fai clic sul pulsante **Oggetti personalizzati** scheda . Seleziona l’oggetto dal menu a discesa.
 
-   ![](assets/six.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. Ora è possibile visualizzare un elenco di tutti gli oggetti personalizzati di quel tipo associati a tale persona.
 
-   ![](assets/seven.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 ## Utilizzo di oggetti personalizzati con le aziende {#using-custom-objects-with-companies}
 
-Un oggetto personalizzato collegato alla società funziona al meglio se sincronizzi le società dal CRM o se crei società in modo esplicito utilizzando l&#39;API. Inoltre, ti consigliamo di utilizzare l&#39;ID società come campo di collegamento.
+Un oggetto personalizzato collegato all&#39;azienda funziona meglio se sincronizzi le aziende dal CRM o se crei società in modo esplicito utilizzando l&#39;API. Inoltre, ti consigliamo di utilizzare l&#39;ID società come campo di collegamento.
 
 Se in Marketo sono presenti più persone che sono record nel CRM o solo nei record Marketo, un oggetto personalizzato collegato a un&#39;azienda non viene associato a più di un record singolo. Questo perché un&#39;azienda con più persone al suo interno è supportata solo quando le aziende sono sincronizzate dal CRM o se utilizzi un&#39;API per creare esplicitamente società.
 
 Gli oggetti personalizzati possono essere collegati direttamente a un solo record. Ciò significa che, quando il tipo di oggetto personalizzato è collegato dal campo aziendale, è necessario assicurarsi che i record personali siano associati a una società utilizzando la conversione dei contatti nel CRM, oppure utilizzando il campo externalCompanyId, se gestisci le aziende utilizzando le API REST di Marketo. Per i record di persone che non sono collegati esplicitamente ai record aziendali, gli oggetti personalizzati collegati tramite società verranno collegati in modo casuale a un singolo record, anche se il valore del campo società viene condiviso tra più persone.
 
-Per ulteriori informazioni, consulta [Importazione di dati di oggetti personalizzati](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) .
+Vedi [Importa dati oggetto personalizzati](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) per ulteriori informazioni.
 
 >[!MORELIKETHIS]
 >
