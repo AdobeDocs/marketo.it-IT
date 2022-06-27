@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: Creare un Webhook - Marketo Docs - Documentazione del prodotto
 title: Creare un Webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Utilizza i webhook per sfruttare i servizi web di terze parti per inviare messag
 
    * **Tipo di risposta**: Seleziona il formato della risposta ricevuta dal servizio (**JSON** o **XML**).
 
-   * **Tipo di richiesta**: Selezionare il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT)
+   * **Tipo di richiesta**: Selezionare il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT).
 
    Fai clic su **Crea**.
 
