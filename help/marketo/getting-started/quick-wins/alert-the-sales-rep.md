@@ -3,43 +3,42 @@ unique-page-id: 2359424
 description: Avvisare il rappresentante commerciale - Marketo Docs - Documentazione del prodotto
 title: Avvisare il rappresentante commerciale
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # Avvisare il rappresentante commerciale {#alert-the-sales-rep}
 
-## Missione: Avvisa il rappresentante commerciale quando una persona compila un modulo sul tuo sito web {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
+## Missione: Segnala al rappresentante commerciale quando una persona compila un modulo sul tuo sito web {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
 Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, tutto ciò di cui hai bisogno è un’e-mail di avviso e una campagna e-mail. Ecco come farlo.
 
 >[!PREREQUISITES]
 >
->[Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 ## Passaggio 1: Creare un messaggio e-mail di avviso {#step-create-an-alert-email}
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/one-5.png)
 
-1. Seleziona **Il mio programma** che hai creato nella [Pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), quindi in **Nuovo** fai clic su **Nuova risorsa locale**.
+1. Seleziona **Il mio programma** creato in [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida, quindi sotto **Nuovo** click **Nuova risorsa locale**.
 
    ![](assets/two-6.png)
 
-1. Fare clic su **Email**.
+1. Fai clic su **E-mail**.
 
    ![](assets/three-5.png)
 
-1. **** Assegna un nome all’e-mail &quot;My Email Alert&quot;, seleziona un modello e fai clic su  **Crea**.
+1. **Nome** l&#39;e-mail &quot;My Email Alert&quot;, seleziona un modello e fai clic su **Crea**.
 
    ![](assets/four-4.png)
 
-1. Immetti i valori **Da nome**, **Da e-mail**, **Risposta-a** e **Oggetto** che desideri che venga visualizzato dal team di vendita.
+1. Inserisci il **Nome da**, **Da e-mail**, **Risposta** e **Oggetto** che vuoi che il tuo team di vendita veda.
 
    ![](assets/five-5.png)
 
@@ -51,19 +50,19 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
    ![](assets/seven-6.png)
 
-1. Posizionare il cursore nel punto in cui si desidera inserire le informazioni di contatto della persona e fare clic sull&#39;icona **Inserisci token**.
+1. Posizionare il cursore nel punto in cui si desidera inserire le informazioni di contatto della persona e fare clic sul **Inserisci token** icona.
 
    ![](assets/eight-4.png)
 
-1. Trova e seleziona il `{{SP_Send_Alert_Info}}` **Token** e fai clic su **Inserisci**.
+1. Trova e seleziona la `{{SP_Send_Alert_Info}}` **Token** e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} è un token speciale per le e-mail di avviso. Per ulteriori informazioni, consulta [Utilizzare il token per le informazioni sull’invio degli avvisi](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) .
+   >{{SP_Send_Alert_Info}} è un token speciale per le e-mail di avviso. Vedi [Utilizzare il token di invio delle informazioni di avviso](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} per ulteriori informazioni.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/ten-5.png)
 
@@ -71,21 +70,21 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
    ![](assets/eleven-5.png)
 
-1. In **Azioni e-mail** fai clic su **Approva**.
+1. Sotto **Azioni e-mail** click **Approva**.
 
    ![](assets/twelve-4.png)
 
 ## Passaggio 2: Creare una campagna di attivazione degli avvisi {#step-create-an-alert-trigger-campaign}
 
-1. Seleziona **Il mio programma** creato in precedenza, quindi in **Nuovo** fai clic su **Nuova campagna avanzata**.
+1. Seleziona **Il mio programma** creato in precedenza, quindi in **Nuovo** click **Nuova campagna Smart**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **** Denomina la campagna &quot;My Alert Campaign&quot; (Campagna di avviso personale) e fai clic su  **Crea**.
+1. **Nome** la campagna &quot;My Alert Campaign&quot; (Campagna di avviso personale) e fai clic su **Crea**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Sotto la scheda **Elenco avanzato** , trova e trascina il trigger **Riempie il modulo** sull’area di lavoro.
+1. Sotto la **Elenco avanzato** , trova e trascina **Riempie il modulo** attiva l’area di lavoro.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,25 +92,25 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Nella scheda **Flusso** , trova e trascina l’azione di flusso **Invia avviso** nell’area di lavoro.
+1. Sotto la **Flusso** , trova e trascina **Invia avviso** azione di scorrimento nell&#39;area di lavoro.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Seleziona **My Alert Email** creato in precedenza e lascia **Invia a** come **Proprietario vendite**.
+1. Seleziona **E-mail di avviso** creato in precedenza e lasciato **Invia a** come **Proprietario vendite**.
 
    ![](assets/eighteen-1.png)
 
-1. Digita il tuo indirizzo e-mail nel campo **Fino ad altre e-mail** .
+1. Digita il tuo indirizzo e-mail nel **Ad altre e-mail** campo .
 
    ![](assets/nineteen-2.png)
 
-1. Vai alla scheda **Pianificazione** e fai clic sul pulsante **Attiva** .
+1. Vai a **Pianificazione** e fai clic su **Attiva** pulsante .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Imposta le **Regole di qualifica** su **ogni volta** (modificando la Smart Campaign) per consentire alla stessa persona di attivare gli avvisi più volte.
+   >Imposta la **Regole di qualifica** a **ogni volta** (modificando Smart Campaign) per consentire alla stessa persona di attivare gli avvisi più volte.
 
 1. Fai clic su **Attiva** nella schermata di conferma.
 
@@ -135,12 +134,12 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
    >[!NOTE]
    >
-   >Fai clic sulla scheda **Informazioni persona** in Marketo per visualizzare le informazioni sul contatto.
+   >Fai clic sul pulsante **Informazioni sulla persona** scheda in Marketo per visualizzare le informazioni sul contatto.
 
 ## Missione Completa! {#mission-complete}
 
 <br> 
 
-[◄ Missione 7: Personalizzare un’e-mail](personalize-an-email.md)
+[◄ Missione 7: Personalizzare un’e-mail](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Missione 9 Aggiorna dati lead ►](update-person-data.md)
+[Missione 9 Aggiorna dati personali ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

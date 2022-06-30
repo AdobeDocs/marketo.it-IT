@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Configurazione e aggiunta di una persona - Documenti Marketo - Documentazione del prodotto
 title: Configurazione e aggiunta di una persona
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Ci sono alcune cose da fare prima di iniziare le missioni.
 
 ## Passaggio 1: Accedere a Marketo {#step-log-in-to-marketo}
 
-1. [Accedere a Marketo](https://app.marketo.com) utilizzando le credenziali ricevute tramite e-mail.
+1. [Accedere a Marketo](https://app.marketo.com){target=&quot;_blank&quot;} utilizzando le credenziali ricevute tramite e-mail.
 
    ![](assets/one.png)
 

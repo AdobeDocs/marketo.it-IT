@@ -2,16 +2,14 @@
 unique-page-id: 11387674
 description: Aggiornamenti alla terminologia di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiornamenti alla terminologia di Marketo
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 0%
+source-wordcount: '368'
+ht-degree: 1%
 
 ---
 
-
-# Aggiornamenti alla terminologia Marketo {#updates-to-marketo-terminology}
+# Aggiornamenti alla terminologia di Marketo {#updates-to-marketo-terminology}
 
 Stiamo apportando alcune modifiche alla nostra piattaforma, che influiranno su ciò che alcune cose vengono chiamate. Se disponi di una nuova istanza di Marketo a partire da marzo 2016 o se la tua azienda è stata rinnovata dopo luglio 2016, potresti visualizzare la nuova terminologia ora.
 
@@ -19,7 +17,7 @@ Anche se potresti trovare una terminologia diversa nella documentazione di Marke
 
 Allora, cosa è cambiato?
 
-## Il lead è ora Persona {#lead-is-now-person}
+## Il lead è ora una persona {#lead-is-now-person}
 
 Il cambiamento più importante è la ridenominazione di Lead/Lead a persona/persone.
 
@@ -71,15 +69,15 @@ In alcuni casi, la parola &quot;lead&quot; viene semplicemente rimossa.
  </tbody> 
 </table>
 
-Lead e Persona **sono la stessa cosa**.
+Lead e persona **sono la stessa cosa**.
 
 ## Token {#tokens}
 
-I token con la parola lead **non cambiano**. Ci scusiamo per ogni confusione; tuttavia, cambiare tutti i token in modo che corrispondano alla nuova terminologia interromperebbe molti token attualmente in uso. Quindi vedrai ancora token come &quot;`{{lead.First Name}}`&quot;. Non sono disponibili token specifici per una persona.
+Token con la parola lead **non vengono modificati**. Ci scusiamo per ogni confusione; tuttavia, cambiare tutti i token in modo che corrispondano alla nuova terminologia interromperebbe molti token attualmente in uso. Quindi vedrai ancora token come &quot;`{{lead.First Name}}`.&quot; Non sono disponibili token specifici per una persona.
 
 >[!NOTE]
 >
->C&#39;è *è* un token chiamato &quot;Note sulla persona&quot;, tuttavia quel token era sempre lì. In genere viene utilizzato per un campo di descrizione nel CRM, se del caso.
+>Là *è* un token chiamato &quot;Note personali&quot;, tuttavia quel token era sempre presente. In genere viene utilizzato per un campo di descrizione nel CRM, se del caso.
 
 ## Gestione dei campi {#field-management}
 
@@ -110,7 +108,7 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
 
 >[!NOTE]
 >
->Per un elenco completo dei nomi di campo interessati, visita questo [articolo di supporto](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>Per un elenco completo dei nomi di campo interessati, visita questo [Articolo di supporto](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
 
 ## La personalizzazione in tempo reale (RTP, Real-Time Personalization) è ora la personalizzazione web {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -139,11 +137,11 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
 
 Oltre alla modifica del nome, ora è costituito da quattro app separate:
 
-| ** [Personalizzazione web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Ha un proprio riquadro sullo schermo home |
+| **[Personalizzazione web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Ha un proprio riquadro sullo schermo home |
 |---|---|
-| ** [Web Marketing basato su account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accessibile tramite il riquadro di personalizzazione web |
-| ** [Retargeting personalizzato](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accessibile tramite il riquadro di personalizzazione web |
-| ** [Contenuto predittivo](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Ha un proprio riquadro sullo schermo home |
+| **[Web Marketing basato su account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Accessibile tramite il riquadro di personalizzazione web |
+| **[Retargeting personalizzato](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Accessibile tramite il riquadro di personalizzazione web |
+| **[Contenuto predittivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Ha un proprio riquadro sullo schermo home |
 
 >[!NOTE]
 >

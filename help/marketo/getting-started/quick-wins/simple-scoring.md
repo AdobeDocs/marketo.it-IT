@@ -3,10 +3,9 @@ unique-page-id: 2359414
 description: Punteggio semplice - Documenti Marketo - Documentazione del prodotto
 title: Punteggio semplice
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -15,17 +14,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](get-set-up-and-add-a-person.md)
->* [Pagina di destinazione con un modulo](landing-page-with-a-form.md)
+>* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
 ## Passaggio 1: Creare una campagna di valutazione {#step-create-a-scoring-campaign}
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/ma-1.png)
 
-1. Fai clic con il pulsante destro del mouse sulla cartella **Apprendimento** e fai clic su **Nuova cartella campagna**.
+1. Fai clic con il pulsante destro del mouse sul **Apprendimento** e fai clic su **Nuova cartella campagna**.
 
    ![](assets/two-2.png)
 
@@ -37,21 +36,21 @@ ht-degree: 0%
    >
    >Se disponi già di una cartella Punteggio, assegna un nome diverso a questa, ad esempio Punteggio 1. I nomi delle cartelle devono essere univoci.
 
-1. Fai clic con il pulsante destro del mouse sulla nuova cartella **Punteggio** e seleziona **Nuova campagna avanzata**.
+1. Quindi fai clic con il pulsante destro del mouse sul nuovo **Punteggio** e seleziona **Nuova campagna Smart**.
 
    ![](assets/four.png)
 
-1. **** Denomina la campagna &quot;Cambia punteggio&quot; e fai clic su  **Crea**.
+1. **Nome** la campagna &quot;Cambia punteggio&quot; e fai clic su **Crea**.
 
    ![](assets/five-1.png)
 
-1. Fare clic sulla scheda **Elenco avanzato**.
+1. Fai clic sul pulsante **Elenco avanzato** scheda .
 
    ![](assets/six-1.png)
 
-   Vogliamo che questa campagna venga eseguita ogni volta che una persona compila il tuo **modulo di richiesta di prova**.
+   Vogliamo che questa campagna venga eseguita ogni volta che una persona compila il tuo **Modulo di richiesta di prova**.
 
-1. Trova e trascina il trigger **Riempie il modulo** nell’area di lavoro a sinistra.
+1. Trova e trascina **Riempie il modulo** attivarsi sull&#39;area di lavoro sinistra.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -59,27 +58,27 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se hai completato la [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) vittoria rapida, devi disporre del modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
+   >Se hai completato la [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida è necessario disporre del modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Fare clic sulla scheda **Flusso**.
+1. Fai clic sul pulsante **Flusso** scheda .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
-1. Trascina l’azione di flusso **Cambia punteggio** nell’area di lavoro a sinistra.
+1. Trascina **Cambia punteggio** scorrere l&#39;azione sull&#39;area di lavoro sinistra.
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. Puoi digitare qualsiasi valore da aggiungere al punteggio della persona. Immetti &quot;+5&quot; nel campo **Cambia** .
+1. Puoi digitare qualsiasi valore da aggiungere al punteggio della persona. Immetti &quot;+5&quot; nel campo **Modifica** campo .
 
    ![](assets/eleven-1.png)
 
    >[!TIP]
    >
-   >Le campagne di punteggio sono fondamentali per la fornitura di persone di alta qualità alle vendite. Leggi [**La guida definitiva al punteggio lead**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Le campagne di punteggio sono fondamentali per la fornitura di persone di alta qualità alle vendite. Leggi [**Guida definitiva al punteggio lead**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}.
 
-1. Fare clic sulla scheda **Pianificazione** e sul pulsante **Attiva**.
+1. Fai clic sul pulsante **Pianificazione** e **Attiva** pulsante .
 
    ![](assets/twelve-1.png)
 
@@ -91,13 +90,13 @@ ht-degree: 0%
 >
 >Una volta attivata, questa campagna viene eseguita ogni volta che una persona compila il modulo. La campagna continuerà a essere in esecuzione finché non viene disattivata.
 
-## Passaggio 2: Compila il modulo {#step-fill-out-the-form}
+## Passaggio 2: Compilare il modulo {#step-fill-out-the-form}
 
-1. Seleziona la pagina di destinazione creata nella [Pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+1. Seleziona la pagina di destinazione creata nella [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida.
 
    ![](assets/fourteen-1.png)
 
-1. Fare clic su **Visualizza pagina approvata**. La pagina di destinazione viene aperta in una nuova scheda.
+1. Fai clic su **Visualizza pagina approvata**. La pagina di destinazione viene aperta in una nuova scheda.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
@@ -109,7 +108,7 @@ ht-degree: 0%
    >
    >Usa lo stesso nome e indirizzo e-mail che hai usato quando ti sei inserito per la prima volta come persona per applicare l&#39;aumento del punteggio &quot;+5&quot;.
 
-## Passaggio 3: Visualizza le informazioni personali {#step-view-the-person-info}
+## Passaggio 3: Visualizza le informazioni sulla persona {#step-view-the-person-info}
 
 1. Passare all&#39;area Database.
 
@@ -127,7 +126,10 @@ I dettagli della persona verranno aperti in una nuova scheda o finestra. Vedi co
 
 ![](assets/twenty.png)
 
-**Complimenti.** Hai creato una campagna di punteggio.
+## Missione Completa! {#mission-complete}
+
+<br> 
+
 [◄ Missione 2: Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 [Missione 4: Risposta automatica tramite e-mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

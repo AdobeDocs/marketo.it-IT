@@ -3,10 +3,9 @@ unique-page-id: 2359416
 description: Risposta automatica e-mail - Documenti Marketo - Documentazione del prodotto
 title: Risposta automatica e-mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -17,8 +16,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
 ## Passaggio 1: Creare un messaggio e-mail {#step-create-an-email}
@@ -39,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Viene aperto un editor e-mail in una nuova finestra o scheda. Se i pop-up sono bloccati, fai clic su **Modifica bozza** nella pagina di riepilogo delle risorse per accedere al messaggio e-mail.
+   Viene aperto un editor e-mail in una nuova finestra o scheda. Se i popup sono bloccati, fare clic su **Modifica bozza** nella pagina di riepilogo delle risorse per accedere all’e-mail.
 
 1. Inserisci un oggetto, quindi fai doppio clic sull’area modificabile dell’e-mail.
 
@@ -65,37 +64,37 @@ ht-degree: 0%
 
 ## Passaggio 2: Creare una campagna avanzata {#step-create-a-smart-campaign}
 
-1. Fai clic con il pulsante destro del mouse su **Il mio programma** e fai clic su **Nuova campagna avanzata**.
+1. Fai clic con il pulsante destro del mouse **Il mio programma** e fai clic su **Nuova campagna Smart**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **** Denomina la campagna intelligente &quot;Auto Response Campaign&quot; e fai clic su  **Crea**.
+1. **Nome** la campagna intelligente &quot;Auto Response Campaign&quot; e fai clic su **Crea**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Vai alla scheda **Smart List** .
+1. Vai a **Elenco avanzato** scheda .
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Questa campagna viene impostata per essere eseguita ogni volta che una persona compila il modulo creato in [**Pagina di destinazione con un modulo**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   Questa campagna viene impostata per essere eseguita ogni volta che una persona compila il modulo creato in [**Pagina di destinazione con un modulo**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}.
 
-1. Trova e trascina il trigger **Riempie il modulo** nell’area di lavoro a sinistra.
+1. Trova e trascina **Riempie il modulo** attiva l’area di lavoro a sinistra.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Seleziona **Modulo** nel menu a discesa. Fare clic sulla scheda **Flusso**.
+1. Seleziona **Modulo personale** nel menu a discesa . Fai clic sul pulsante **Flusso** scheda .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Trascina l’azione di flusso **Invia e-mail** nell’area di lavoro a sinistra.
+1. Trascina **Invia e-mail** azione di scorrimento verso l&#39;area di lavoro sinistra.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Seleziona la tua **E-mail di risposta automatica** e vai alla scheda **Pianificazione** .
+1. Seleziona la tua **E-mail di risposta automatica** e vai al **Pianificazione** scheda .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
-1. Fare clic su **Modifica**.
+1. Fai clic su **Modifica**.
 
    ![](assets/8.png)
 
@@ -103,7 +102,7 @@ ht-degree: 0%
 
    ![](assets/9.png)
 
-1. Fare clic su **Attiva**.
+1. Fai clic su **Attiva**.
 
    ![](assets/10.png)
 
@@ -115,13 +114,13 @@ ht-degree: 0%
 >
 >Una volta attivata, questa campagna viene eseguita ogni volta che una persona compila il modulo specificato. La campagna continuerà a essere in esecuzione finché non viene disattivata.
 
-## Passaggio 3: Compila il modulo {#step-fill-out-the-form}
+## Passaggio 3: Compilare il modulo {#step-fill-out-the-form}
 
-1. Seleziona **Pagina personale**. Questa operazione è stata creata nella [pagina di destinazione con una vittoria rapida di Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+1. Seleziona **Pagina personale**. Questa funzione è stata creata in [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Fare clic su **Visualizza pagina approvata**.
+1. Fai clic su **Visualizza pagina approvata**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
@@ -143,4 +142,4 @@ Nel giro di pochi minuti dovresti visualizzare l’e-mail di risposta automatica
 
 [◄ Missione 3: Punteggio semplice](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[Missione 5: Importa un elenco di lead ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Missione 5: Importa un elenco di persone ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

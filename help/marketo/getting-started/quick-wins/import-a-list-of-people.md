@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importare un elenco di persone - Marketo Docs - Documentazione del prodotto
 title: Importare un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 Questa esercitazione spiega come importare in Marketo le persone da un file di foglio di calcolo.
 
 ## Passaggio 1: Scaricare e modificare un foglio di calcolo {#step-download-and-edit-a-spreadsheet}
 
-1. Per iniziare, scarica il file del foglio di calcolo della pratica ([**fidelizzazione.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) sul computer.
+1. Per iniziare, scarica il file del foglio di calcolo della pratica ([**fidelizzazione.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) al computer.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -52,7 +52,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Nome** il programma &quot;My Tradeshow Program&quot; e selezionare &quot;Event&quot; per il **Tipo di programma**.
+1. **Nome** il programma &quot;My Tradeshow Program&quot; e selezionare &quot;Event&quot; per **Tipo di programma**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -62,7 +62,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
 >[!NOTE]
 >
->I programmi evento si verificano in date specifiche. Ulteriori informazioni [**Eventi**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>I programmi evento si verificano in date specifiche. Ulteriori informazioni [**Eventi**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}.
 
 ## Passaggio 3: Importare il foglio di calcolo in Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -109,7 +109,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
    >[!TIP]
    >
-   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (con distinzione tra maiuscole e minuscole). Se utilizzi campi personalizzati e non li visualizzi nell’elenco a discesa, torna indietro e [crearle](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) possono diventare opzioni.
+   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (con distinzione tra maiuscole e minuscole). Se utilizzi campi personalizzati e non li visualizzi nell’elenco a discesa, torna indietro e [crearle](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;} in modo che possano diventare opzioni.
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ Questa esercitazione spiega come importare in Marketo le persone da un file di f
 
 >[!NOTE]
 >
->Puoi analizzare il successo del tuo programma monitorando l&#39;iscrizione al programma. Ulteriori informazioni [**Programmi**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Puoi analizzare il successo del tuo programma monitorando l&#39;iscrizione al programma. Ulteriori informazioni [**Programmi**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}.
 
 ## Missione completata {#mission-complete}
 

@@ -3,10 +3,9 @@ unique-page-id: 2359412
 description: Pagina di destinazione con un modulo - Marketo Docs - Documentazione del prodotto
 title: Pagina di destinazione con un modulo
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -21,19 +20,19 @@ ht-degree: 0%
 
 ## PASSAGGIO 1: Creare un programma {#step-create-a-program}
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/ma.png)
 
-1. Seleziona la cartella **Learning** creata nella [precedente vittoria rapida](/help/marketo/getting-started/quick-wins/send-an-email.md).
+1. Seleziona la **Apprendimento** cartella creata in [vittoria rapida precedente](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
-1. In **Nuovo**, fai clic su **Nuovo programma**.
+1. Sotto **Nuovo**, fai clic su **Nuovo programma**.
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Inserisci un programma **Nome**, seleziona un **Canale** e fai clic su **Crea**.
+1. Inserire un programma **Nome**, seleziona un **Canale** e fai clic su **Crea**.
 
    >[!NOTE]
    >
@@ -43,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Un programma è una specifica iniziativa di marketing. Il **canale** è destinato a essere il meccanismo di consegna, ad esempio Webinar, Sponsorship o Online Ad. Puoi visualizzare diverse opzioni di canale nel menu a discesa, a seconda di ciò che è disponibile nella tua istanza. Puoi anche [creare il tuo canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   >Un programma è una specifica iniziativa di marketing. La **canale** è destinato a essere il meccanismo di consegna, come Webinar, Sponsorship o Online Ad. Puoi visualizzare diverse opzioni di canale nel menu a discesa, a seconda di ciò che è disponibile nella tua istanza. È inoltre possibile [creare un canale personalizzato](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -51,31 +50,31 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 ## PASSAGGIO 2: Creare un modulo {#step-create-a-form}
 
-1. Con il programma selezionato, fai clic su **Nuovo** e poi su **Nuova risorsa locale**.
+1. Con il programma selezionato, fai clic su **Nuovo** then **Nuova risorsa locale**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
-1. Selezionare **Modulo**.
+1. Seleziona **Modulo**.
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Immettere un modulo **Nome** e fare clic su **Crea**.
+1. Immettere un modulo **Nome** e fai clic su **Crea**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Assicurati che la casella **Apri nell&#39;editor** sia selezionata. In caso contrario, è necessario fare clic sulla scheda **Modifica modulo** .
+   >Assicurati che **Apri in editor** casella selezionata. In caso contrario, dovrai fare clic sul pulsante **Modifica modulo** scheda .
 
    >[!TIP]
    >
-   >Non vede l’editor di moduli? Il browser probabilmente ha bloccato la finestra. Abilita i pop-up da [app.marketo.com](https://app.marketo.com/) nel browser e fai clic su Modifica bozza nella barra dei menu superiore.
+   >Non vede l’editor di moduli? Il browser probabilmente ha bloccato la finestra. Abilita pop-up da [app.marketo.com](https://app.marketo.com/) nel browser e fai clic su Modifica bozza nella barra dei menu superiore.
 
-1. Seleziona il campo **Indirizzo e-mail** e seleziona **È richiesto**.
+1. Seleziona la **Indirizzo e-mail** campo e controllo **Obbligatorio**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/image2014-9-24-11-3a5-3a44.png)
 
@@ -83,11 +82,11 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. Nella sezione Pagina di ringraziamento , seleziona **External URL** per **Follow Up With**.
+1. Nella sezione Pagina di ringraziamento , seleziona **External URL** per **Segui con**.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,13 +96,13 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    >[!NOTE]
    >
-   >La pagina di completamento è la posizione in cui il visitatore viene reindirizzato dopo aver compilato il modulo. L’URL esterno è un’opzione ma ce ne sono altre. Vedere [Imposta una pagina di ringraziamento per il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >La pagina di completamento è la posizione in cui il visitatore viene reindirizzato dopo aver compilato il modulo. L’URL esterno è un’opzione ma ce ne sono altre. Vedi [Imposta la pagina di ringraziamento del modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-24-11-3a7-3a3.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
@@ -113,7 +112,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 ## PASSAGGIO 3: Creare una pagina di destinazione e aggiungere il modulo {#step-create-a-landing-page-and-add-your-form}
 
-1. Con il programma selezionato, fai clic su **Nuovo**, quindi su **Nuova risorsa locale**.
+1. Con il programma selezionato, fai clic su **Nuovo** e poi **Nuova risorsa locale**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
@@ -121,7 +120,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Inserisci una pagina **Nome**, seleziona un modello e fai clic su **Crea**.
+1. Immettere una pagina **Nome**, seleziona un modello e fai clic su **Crea**.
 
    >[!NOTE]
    >
@@ -149,7 +148,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 ## PASSAGGIO 4: Approva la tua pagina di destinazione {#step-approve-your-landing-page}
 
-1. Seleziona la pagina di destinazione e in **Azioni pagina di destinazione** fai clic su **Approva**.
+1. Seleziona la pagina di destinazione in **Azioni pagina di destinazione** click **Approva**.
 
    >[!NOTE]
    >
@@ -171,7 +170,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Passa all&#39;area **Database**.
+1. Vai a **Database** area.
 
    ![](assets/db-1.png)
 
@@ -187,6 +186,6 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 <br> 
 
-[◄ Invia un&#39;e-mail di avviso](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Missione 1: Invia un&#39;e-mail di avviso](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Punteggio semplice ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Missione 3: Punteggio semplice ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

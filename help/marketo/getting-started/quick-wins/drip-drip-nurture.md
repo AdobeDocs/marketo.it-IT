@@ -3,41 +3,40 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Documentazione del prodotto
 title: Asciugatura, Asciugatura, Alimentazione
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Asciugatura, Asciugatura, Indurimento {#drip-drip-nurture}
+# Asciugatura, Asciugatura, Alimentazione {#drip-drip-nurture}
 
-## Missione: Inferire le persone che hanno partecipato al tuo recente show commerciale {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Missione: Inferire le persone che hanno partecipato alla tua recente fiera {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 È possibile creare facilmente un sistema di nutrizione avanzato e sofisticato in Marketo. Ecco come!
 
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
 ## Passaggio 1: Creare un programma di coinvolgimento {#step-create-an-engagement-program}
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/one-3.png)
 
-1. Seleziona la cartella **Apprendimento**, fai clic sul menu a discesa **Nuovo** e seleziona **Nuovo programma**.
+1. Seleziona la **Apprendimento** fai clic su **Nuovo** a discesa e seleziona **Nuovo programma**.
 
    ![](assets/two-4.png)
 
-1. Immetti un **Nome** e seleziona **Coinvolgimento** per il **Tipo di programma**.
+1. Inserisci un **Nome** e seleziona **Coinvolgimento** per **Tipo di programma**.
 
    ![](assets/three-3.png)
 
-1. Assicurati che il campo **Canale** sia **Struttura** e fai clic su **Crea**.
+1. Assicurati che **Canale** campo **Infermiera** e fai clic su **Crea**.
 
    ![](assets/four-2.png)
 
@@ -49,17 +48,17 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-1. Fare clic su **Email**.
+1. Fai clic su **E-mail**.
 
    ![](assets/six-3.png)
 
-1. Inserisci un **Nome**, seleziona il **Modello** che desideri utilizzare e fai clic su **Crea**.
+1. Inserisci un **Nome**, seleziona **Modello** si desidera utilizzare e fare clic su **Crea**.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >Non vedi l’editor e-mail? Il browser probabilmente ha bloccato la finestra. Abilita i pop-up da [app.marketo.com](https://app.marketo.com) nel browser e fai clic su **Modifica bozza** nella barra dei menu superiore.
+   >Non vedi l’editor e-mail? Il browser probabilmente ha bloccato la finestra. Abilita pop-up da `app.marketo.com` nel browser e fai clic su **Modifica bozza** nella barra dei menu superiore.
 
 1. Inserisci un soggetto.
 
@@ -77,7 +76,7 @@ ht-degree: 0%
 
    ![](assets/eleven-3.png)
 
-1. In **Azioni e-mail**, fai clic su **Approva**.
+1. Sotto **Azioni e-mail**, fai clic su **Approva**.
 
    ![](assets/twelve-2.png)
 
@@ -93,7 +92,7 @@ ht-degree: 0%
 
 1. Ora è il momento di creare un flusso di contenuti per il programma di coinvolgimento utilizzando le e-mail create.
 
-1. Seleziona il programma di coinvolgimento e fai clic sulla scheda **Streams** .
+1. Selezionare il programma di coinvolgimento e fare clic sul pulsante **Flussi** scheda .
 
    ![](assets/fourteen-2.png)
 
@@ -103,11 +102,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >È inoltre possibile utilizzare il pulsante **Aggiungi contenuto** o l&#39;icona di flusso **+**.
+   >È inoltre possibile utilizzare **Aggiungi contenuto** pulsante o flusso **+** icona.
 
 ## Passaggio 4: Attiva contenuto flusso {#step-activate-stream-content}
 
-1. Attiva tutti i contenuti contemporaneamente facendo clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fai clic su **Attiva tutti i contenuti**.
+1. Attiva tutti i contenuti contemporaneamente facendo clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fai clic su **Attiva tutto il contenuto**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -119,11 +118,11 @@ ht-degree: 0%
 
 ## Passaggio 5: Imposta la cadenza del flusso {#step-set-the-stream-cadence}
 
-1. Fare clic su **Imposta cadenza flusso**.
+1. Fai clic su **Imposta cadenza flusso**.
 
    ![](assets/seventeen.png)
 
-1. Modifica le impostazioni in modo che corrispondano alla pianificazione desiderata e fai clic su **Salva**.
+1. Modifica le impostazioni in base alla pianificazione desiderata e fai clic su **Salva**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -135,7 +134,7 @@ ht-degree: 0%
 
 ## Passaggio 6: Aggiungere una persona di test al programma di coinvolgimento {#step-add-a-test-person-to-your-engagement-program}
 
-1. Passa all&#39;area **Database**.
+1. Vai a **Database** area.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +150,7 @@ ht-degree: 0%
 
    ![](assets/twenty-one.png)
 
-1. Seleziona il tuo **Programma** e **Flusso**, quindi fai clic su **Esegui ora**.
+1. Seleziona la tua **Programma** e **Flusso**, quindi fai clic su **Esegui ora**.
 
    ![](assets/twenty-two.png)
 
@@ -161,10 +160,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ulteriori informazioni su [Programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >Ulteriori informazioni [Programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}.
+
+## Missione Completa! {#mission-complete}
 
 <br> 
 
-[◄ Missione 5: Importare un elenco di lead](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Missione 5: Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 [Missione 7: Personalizza un&#39;e-mail ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

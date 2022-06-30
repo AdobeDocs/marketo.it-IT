@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2949467
-description: Che cos'è l'Marketo Engage Adobe? - Documentazione Marketo - Documentazione del prodotto
-title: Che cos'è l'Marketo Engage Adobe?
+description: Cos'è Adobe Marketo Engage? - Documentazione Marketo - Documentazione del prodotto
+title: Cos'è Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Che cos&#39;è l&#39;Marketo Engage Adobe? {#what-is-adobe-marketo-engage}
+# Cos&#39;è Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 
-Un Marketo Engage Adobe (a volte denominato Marketo Engage, o anche solo Marketo) è il software di automazione del marketing. L’automazione del marketing ti consente di semplificare, automatizzare e misurare le attività e i flussi di lavoro di marketing in modo da aumentare l’efficienza operativa e aumentare i ricavi più rapidamente.
+Adobe Marketo Engage (a volte indicato come Marketo Engage, o anche solo Marketo), è un software di automazione del marketing. L’automazione del marketing ti consente di semplificare, automatizzare e misurare le attività e i flussi di lavoro di marketing in modo da aumentare l’efficienza operativa e aumentare i ricavi più rapidamente.
 
 ## Cosa posso fare in Marketo Engage? {#what-can-i-do-in-marketo-engage}
 
@@ -43,10 +43,10 @@ No! È facile iniziare in Marketo Engage, e si evolverà con voi. Potete imparar
 
 ## Devo fare qualche configurazione? {#do-i-need-to-do-any-setup}
 
-Sì, abbiamo fatto una [lista di controllo delle cose da fare](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Sì, abbiamo fatto un [elenco di controllo delle operazioni da eseguire](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}.
 
 ## Devo aspettare che la configurazione sia completata per imparare? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-No! Abbiamo fatto una serie di semplici tutorial. [Inizia qui](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). Ci dovrebbe volere circa un&#39;ora. Puoi iniziare da qualsiasi ora.
+No! Abbiamo fatto una serie di semplici tutorial. [Introduzione qui](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. Ci dovrebbe volere circa un&#39;ora. Puoi iniziare da qualsiasi ora.
 
 Benvenuta al Marketo Engage! Siamo felici che tu sia qui.

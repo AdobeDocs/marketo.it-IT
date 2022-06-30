@@ -3,17 +3,16 @@ unique-page-id: 2949471
 description: Lista di controllo per l'installazione - Documenti Marketo - Documentazione del prodotto
 title: Elenco di controllo per l'installazione
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
 # Elenco di controllo per l&#39;installazione {#setup-checklist}
 
-Benvenuto in Marketo! Puoi usare la seguente lista di controllo come elenco di cose da fare visivo per iniziare. I dettagli sono disponibili in [Procedura di installazione](/help/marketo/getting-started/setup-steps.md).
+Benvenuto/a in Marketo! Puoi usare la seguente lista di controllo come elenco di cose da fare visivo per iniziare. I dettagli sono disponibili in [Passaggi di configurazione](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Accedi a Marketo e crea altri utenti {#log-in-to-marketo-and-create-additional-users}
 
@@ -28,7 +27,7 @@ Benvenuto in Marketo! Puoi usare la seguente lista di controllo come elenco di c
 1. Chiedi all’IT di creare un record DNS per il CNAME della tua pagina di destinazione
 1. Al termine dell’IT, imposta il nome di dominio della pagina di destinazione in Marketo
 
-## Assicurati il recapito messaggi e-mail {#ensure-email-deliverability}
+## Assicurare il recapito messaggi e-mail {#ensure-email-deliverability}
 
 1. Selezionare un CNAME e-mail per i collegamenti di tracciamento con marchio
 1. Chiedi all&#39;IT di impostare un record DNS per il tuo CNAME di posta elettronica
@@ -37,7 +36,7 @@ Benvenuto in Marketo! Puoi usare la seguente lista di controllo come elenco di c
 1. Imposta MX per `[FromDomain1]`
 1. Al termine dell’IT con il CNAME e-mail, imposta il tuo CNAME e-mail in Marketo
 
-## Invia un URL per modelli di pagina di destinazione e e-mail {#submit-a-url-for-landing-page-and-email-templates}
+## Invia un URL per la pagina di destinazione e i modelli e-mail {#submit-a-url-for-landing-page-and-email-templates}
 
 1. Compila il modulo per inviare un URL per i nuovi modelli
 
@@ -51,4 +50,4 @@ Benvenuto in Marketo! Puoi usare la seguente lista di controllo come elenco di c
 
 >[!MORELIKETHIS]
 >
->[Passaggi di configurazione](/help/marketo/getting-started/setup-steps.md)
+>[Passaggi di configurazione](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
