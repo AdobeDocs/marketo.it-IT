@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossario di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">Test A/B</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Test A/B</a></strong></td>
    <td colspan="1">Consente di modificare i componenti dell’e-mail (ad esempio, riga dell’oggetto, indirizzo e così via) e impostare i criteri di test per determinare quale insieme di tariffe del contenuto è migliore.</td> 
   </tr> 
   <tr> 

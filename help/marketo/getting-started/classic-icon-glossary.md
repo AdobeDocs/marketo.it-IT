@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: Glossario a icona classica - Documentazione Marketo - Documentazione del prodotto
 title: Glossario a icona classica
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 0%
+source-wordcount: '564'
+ht-degree: 6%
 
 ---
 
 # Glossario a icona classica {#classic-icon-glossary}
 
-Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossario delle icone è disponibile [qui](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossario delle icone può essere [qui](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Icone generali**
 
@@ -80,7 +80,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>Successo!(mostrato frequentemente come programma riuscito, eseguito correttamente o attivo)</td> 
+   <td>Operazione riuscita!(mostrato frequentemente come programma riuscito, eseguito correttamente o attivo)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +410,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programma e-mail <br>(Segnalazione rossa inattiva = e-mail non ancora inviata)</td> 
+   <td>Programma e-mail <br>(Segnalazione rossa verso il basso = l’e-mail non è ancora stata inviata)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
