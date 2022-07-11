@@ -1,41 +1,40 @@
 ---
 unique-page-id: 12980661
-description: Aggiungi la partita di clienti Google come servizio LaunchPoint - Documenti Marketo - Documentazione prodotto
-title: Aggiungi la corrispondenza cliente Google come servizio LaunchPoint
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Aggiungere Google Customer Match as a LaunchPoint Service - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere Customer Match di Google come servizio LaunchPoint
+exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
+source-git-commit: fb4e51a45fafaad547a641c6df5bb48cf536490d
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
+# Aggiungere Customer Match di Google come servizio LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
-# Aggiungi la corrispondenza cliente Google come servizio LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
-
-Con questa integrazione, potete inviare un pubblico di Marketo a Google per il targeting tramite Google AdWords, così come rieseguire il targeting del pubblico su YouTube, Search e Gmail.
+Con questa integrazione, puoi inviare un pubblico Marketo a Google per il targeting utilizzando Google AdWords, nonché rieseguire il targeting del pubblico in YouTube, Search e Gmail.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Admin**.
+1. Vai a **Amministratore**.
 
    ![](assets/admin.png)
 
-1. Fare clic su **LaunchPoint**.
+1. Fai clic su **LaunchPoint**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selezionare **New**, quindi **New Service**.
+1. Seleziona **Nuovo** then **Nuovo servizio**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immettete un **Nome visualizzato** e selezionate **Corrispondenza cliente Google** dal menu a discesa **Servizio**. Fare clic su **Crea**.
+1. Inserisci un **Nome visualizzato** e seleziona **Customer Match di Google** dal **Servizio** a discesa. Fai clic su **Crea**.
 
    ![](assets/chooseservice.png)
 
-1. Per collegare un account Google AdWords, fai clic su **Autorizza**.
+1. Per collegare un account Google AdWords, fai clic su **Autorizzare**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,16 +42,20 @@ Con questa integrazione, potete inviare un pubblico di Marketo a Google per il t
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare audience tra più account AdWords, l&#39;utente Google che autorizzi nei passaggi seguenti deve avere accesso a _tutti_ di questi account.
+   >Affinché Marketo possa inviare tipi di pubblico tra più account AdWords, l’utente Google autorizzato nei passaggi seguenti deve avere accesso a _tutto_ di tali conti.
 
    ![](assets/chooseaccount.png)
 
-1. Rivedete le autorizzazioni richieste, quindi fate clic su **Consenti**.
+1. Esamina le autorizzazioni richieste, quindi fai clic su **Consenti**.
 
    ![](assets/reviewpermissions.png)
 
-1. Il tuo account Google AdWords ora è connesso a Marketo. Fare clic su **Crea**.
+1. L&#39;account Google AdWords è ora connesso a Marketo. Fai clic su **Crea**.
 
    ![](assets/authorizesuccess.png)
 
-   Fantastico! Nella scheda Servizi installati verrà ora visualizzato Google Matched Audiences elencato come servizio LaunchPoint.
+   Fantastico! Nella scheda Servizi installati è ora disponibile l’elenco Tipi di pubblico corrispondenti per Google come servizio LaunchPoint .
+
+>[!NOTE]
+>
+>L’integrazione Customer Match di Google può contenere un solo account manager e tutti i sotto-account all’interno di tale account manager. Account manager multipli non supportati.
