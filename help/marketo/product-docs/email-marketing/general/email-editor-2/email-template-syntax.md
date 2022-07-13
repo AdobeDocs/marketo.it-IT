@@ -1,59 +1,58 @@
 ---
 unique-page-id: 11371040
-description: Sintassi modello e-mail - Documenti Marketo - Documentazione prodotto
-title: Sintassi modello e-mail
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Sintassi dei modelli e-mail - Documenti Marketo - Documentazione del prodotto
+title: Sintassi del modello e-mail
+exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2423'
 ht-degree: 0%
 
 ---
 
+# Sintassi del modello e-mail {#email-template-syntax}
 
-# Sintassi modello e-mail {#email-template-syntax}
+Nella nuova esperienza e-mail 2.0 di Marketo, i modelli e-mail sono composti da qualsiasi combinazione di elementi, variabili, moduli o contenitori. Ognuna di esse è definita aggiungendo al tuo HTML una sintassi specifica per Marketo. I vecchi modelli e-mail (v1.0) sono supportati in Email Editor 2.0; tuttavia, non includeranno tutte le funzioni del nuovo editor.
 
-Nella nuova esperienza e-mail 2.0 di Marketo, i modelli e-mail sono composti da qualsiasi combinazione di elementi, variabili, moduli o contenitori. Ciascuno di essi è definito aggiungendo al codice HTML una sintassi specifica di Marketo. I modelli di e-mail precedenti (v1.0) sono supportati in Editor e-mail 2.0; tuttavia, non includeranno tutte le funzioni del nuovo editor.
-
-La sintassi e-mail Marketo funziona solo nei modelli e nelle singole e-mail; se incorporato in snippet o token RTF, non funziona **non**.
+La sintassi e-mail Marketo funziona solo nei modelli e nelle singole e-mail; lo fa **not** funziona se è incorporato in snippet o token Rich Text.
 
 >[!NOTE]
 >
->Il supporto di Marketo non è impostato per fornire assistenza con CSS/HTML. Se non avete familiarità con CSS/HTML, rivolgetevi al vostro sviluppatore.
+>Il supporto Marketo non è impostato per l&#39;assistenza con CSS/HTML. Se non hai familiarità con CSS/HTML, consulta il tuo sviluppatore.
 
 >[!CAUTION]
 >
->I valori delle classi contenenti la sintassi Marketo (ad es. mktoModule, mktoContainer, mktoText) fanno distinzione tra maiuscole e minuscole. I nomi degli attributi personalizzati (ad es. mktoimgwidth, mktoname) non lo sono.
+>I valori delle classi contenenti la sintassi Marketo (ad esempio mktoModule, mktoContainer, mktoText) fanno distinzione tra maiuscole e minuscole. I nomi degli attributi personalizzati (ad esempio mktoimgwidth, mktoname) non lo sono.
 
 ## Elementi {#elements}
 
-Gli elementi sono aree di contenuto definite come modificabili nel modello e-mail. L&#39;esperienza di modifica di un elemento è univoca per il suo tipo e offre un modo semplice per lavorare con i contenuti. Gli elementi che possono essere inclusi in un modello e-mail sono:
+Gli elementi sono aree di contenuto definite modificabili nel modello e-mail. L’esperienza di modifica di un elemento è unica nel suo tipo e offre un modo semplice per lavorare con i contenuti. Gli elementi possibili che possono essere inclusi in un modello e-mail sono:
 
 * Rich Text
 * Immagini
-* Snippet
+* Frammenti
 * Video
 
 ## Rich Text {#rich-text}
 
-Se si definisce un&#39;area come RTF, gli utenti potranno modificarne il contenuto [utilizzando l&#39;Editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Esistono due modi per definire un elemento RTF all’interno di un modello e-mail: mktEditable e mktoText. Tenete presente che un elemento Rich Text può sempre essere convertito in uno snippet dall’editor e-mail.
+Se definisci un’area come RTF, gli utenti potranno modificarne il contenuto [utilizzo dell’editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Esistono due modi per definire un elemento Rich Text all’interno di un modello e-mail: mktEditable e mktoText. Tieni presente che un elemento Rich Text può sempre essere convertito in uno snippet dall’interno dell’editor e-mail.
 
 ### Opzione 1 - mktEditable {#option-mkteditable}
 
-Poiché Editor e-mail 2.0 è retrocompatibile, alcuni vecchi modelli di e-mail potrebbero specificare elementi RTF aggiungendo class=&quot;mktEditable&quot; a qualsiasi elemento HTML. Questo è ancora supportato e l&#39;ID dell&#39;elemento è quello che verrà utilizzato come nome visualizzato all&#39;interno dell&#39;editor e-mail.
+Poiché Email Editor 2.0 è compatibile con le versioni precedenti, alcuni modelli e-mail precedenti possono specificare elementi di testo RTF aggiungendo class=&quot;mktEditable&quot; su qualsiasi elemento HTML. Questo è ancora supportato e l’ID dell’elemento è ciò che verrà utilizzato come nome visualizzato all’interno dell’editor e-mail.
 
 Attributi richiesti
 
-* **class**: &quot;mktEditable&quot;.
-* **id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
+* **Classe**: &quot;mktEditable&quot;.
+* **id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
 
 Attributi opzionali
 
-* **mktoName** : Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **mktoName** : Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Valore predefinito
 
-Il contenuto all&#39;interno dell&#39;elemento HTML (se fornito) con class=&quot;mktEditable&quot; verrà utilizzato come valore predefinito per l&#39;elemento Rich Text.
+Il contenuto all’interno dell’elemento HTML (se fornito) con class=&quot;mktEditable&quot; verrà utilizzato come valore predefinito per l’elemento Rich Text.
 
 Esempio:
 
@@ -61,17 +60,17 @@ Esempio:
 
 ### Opzione 2 - mktoText {#option-mktotext}
 
-Si consiglia di specificare elementi Rich Text utilizzando la sintassi class=&quot;mktoText&quot;. In questo modo viene sempre visualizzato un nome corretto per l&#39;elemento.
+Si consiglia di specificare gli elementi Rich Text utilizzando la sintassi class=&quot;mktoText&quot;. In questo modo si garantisce che l’elemento disponga sempre di un nome visualizzato corretto.
 
 Attributi richiesti
 
-* **class**: &quot;mktoText&quot;
-* **id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
-* **mktoName** : Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **Classe**: &quot;mktoText&quot;
+* **id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+* **mktoName** : Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Valore predefinito
 
-Il contenuto all&#39;interno dell&#39;elemento HTML (se fornito) con class=&quot;mktoText&quot; verrà utilizzato come valore predefinito per l&#39;elemento Rich Text.
+Il contenuto all’interno dell’elemento HTML (se fornito) con class=&quot;mktoText&quot; verrà utilizzato come valore predefinito per l’elemento Rich Text.
 
 Esempio:
 
@@ -79,65 +78,65 @@ Esempio:
 
 ## Immagini {#images}
 
-Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare un `<div>` che specifica un contenitore in cui inserire il tag `<img>` oppure un tag `<img>`. Se si desidera che l’utente finale scelga semplicemente un’immagine che restituisca l’URL dell’immagine (anziché il DOM), fare riferimento a &quot;variabili di immagine&quot; nella sezione seguente. Le due opzioni seguenti inseriranno un elemento HTML `<img>`.
+Sono disponibili due opzioni per la definizione degli elementi immagine modificabili. Puoi utilizzare una delle due opzioni `<div>`, che specifica un contenitore `<img>` verranno inseriti in oppure in `<img>` tag . Se desideri che l’utente finale selezioni semplicemente un’immagine che restituirà l’URL dell’immagine (anziché il DOM), fai riferimento a &quot;variabili immagine&quot; nella sezione seguente. Le due opzioni seguenti consentono di inserire un HTML `<img>` elemento.
 
-### Opzione 1 - Utilizzare un `<div>` {#option-use-a-div}
+### Opzione 1 - Utilizza un `<div>` {#option-use-a-div}
 
 Attributi richiesti
 
-* **class:** &quot;mktoImg&quot;.
-* **stringa id:** ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
-* **mktoName:** String. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **Classe:** &quot;mktoImg&quot;.
+* **id:** Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+* **mktoName :** Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **mktoImgClass:** String. Il valore qui verrà aggiunto all&#39;attributo class dell&#39;elemento `<img>` all&#39;interno del div.
-* **mktoImgSrc:** Da utilizzare come valore predefinito per l&#39;immagine inserita all&#39;interno di questo div. Se omesso, verrà utilizzato un segnaposto.
-* **mktoImgLink:** Indicate che il  `<img>` tag deve essere circondato da un  `<a>` tag con questo URL di destinazione. L’utente può modificare questa impostazione nell’editor e-mail.
-* **mktoImgLinkTarget:** Indicate che il  `<a>` tag dall’attributo mktoImgLink deve usare questa destinazione. Non ha alcun effetto se non viene utilizzato anche mktoImgLink.
-* **mktoImgWidth:** utilizzato come larghezza nella larghezza inclusa  `<img>`.
-* **mktoImgHeight:** utilizzata come altezza nella parte racchiusa  `<img>`.
-* **mktoLockImgSize:** Utilizzato per sbloccare le proprietà relative all&#39;altezza e alla larghezza dell&#39; `<img>` elemento in modo che l&#39;utente finale possa modificare (l&#39;impostazione predefinita è true se omesso).
-* **mktoLockImgStyle:** Utilizzato per bloccare la proprietà di stile dell&#39; `<img>` elemento (il valore predefinito è false).
+* **mktoImgClass:** Stringa. Il valore qui verrà aggiunto all&#39;attributo class del `<img>` all’interno del div.
+* **mktoImgSrc:** Da utilizzare come valore predefinito per l’immagine inserita all’interno di questo div. Se viene omesso, viene utilizzato un segnaposto.
+* **mktoImgLink:** Indica che la `<img>` devono essere circondati da un `<a>` con questo URL di destinazione. L’utente può modificarlo nell’editor e-mail.
+* **mktoImgLinkTarget:** Indica che la `<a>` Usa questa destinazione dal tag mktoImgLink . Non ha effetto se non viene utilizzato anche mktoImgLink.
+* **mktoImgWidth:** Utilizzato come larghezza nel racchiuso `<img>`.
+* **mktoImgHeight:** Utilizzato come altezza sul racchiuso `<img>`.
+* **mktoLockImgSize:** Utilizzato per sbloccare il `<img>` proprietà height e width dell’elemento in modo che l’utente finale possa modificare (l’impostazione predefinita è true se omesso).
+* **mktoLockImgStyle:** Utilizzato per bloccare il `<img>` proprietà di stile dell’elemento (il valore predefinito è false).
 
 Valore predefinito (facoltativo)
 
-**`<img>`**: Da usare come  `<img>` elemento in cui verrà inserita l’immagine. Utile per aggiungere all’immagine uno stile in linea. Ricorda di includere i tag `<a> </a>` circostanti, in modo che se l&#39;utente aggiunge un collegamento, lo stile non verrà rimosso!
+**`<img>`**: Da utilizzare come `<img>` che l’immagine verrà inserita. Utile per aggiungere all’immagine uno stile in linea. Ricorda di includere i dati circostanti `<a> </a>` tag, quindi se l’utente aggiunge un collegamento, lo stile non verrà rimosso!
 
 Esempio:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
-### Opzione 2 - Utilizzate \&lt;img\> {#option-use-an-img}
+### Opzione 2 - Utilizza un \&lt;img> {#option-use-an-img}
 
 >[!NOTE]
 >
->Questa opzione non consente agli utenti finali di aggiungere un collegamento alla propria immagine. Utilizzate l&#39;opzione 1 se questo è importante per il modello.
+>Questa opzione non consente agli utenti finali di aggiungere un collegamento alla propria immagine. Utilizza l&#39;opzione 1 se questo è importante per il modello.
 
 Attributi richiesti
 
-* **class:** &quot;mktoImg&quot;.
-* **stringa id:** ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
-* **mktoName:** String. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.  Valore predefinito (facoltativo)
-* **src:** Da usare come valore predefinito per l&#39;immagine. Se omesso, verrà utilizzato un segnaposto.
-* **mktoLockImgSize:** Utilizzato per sbloccare le proprietà relative all&#39;altezza e alla larghezza dell&#39; `<img>` elemento in modo che l&#39;utente finale possa modificare (l&#39;impostazione predefinita è true se omesso).
-* **mktoLockImgStyle:** Utilizzato per bloccare la proprietà di stile dell&#39; `<img>` elemento (il valore predefinito è false).
+* **Classe:** &quot;mktoImg&quot;.
+* **id:** Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+* **mktoName:** Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.  Valore predefinito (facoltativo)
+* **src:** Da utilizzare come valore predefinito dell’immagine. Se viene omesso, viene utilizzato un segnaposto.
+* **mktoLockImgSize:** Utilizzato per sbloccare il `<img>` proprietà height e width dell’elemento in modo che l’utente finale possa modificare (l’impostazione predefinita è true se omesso).
+* **mktoLockImgStyle:** Utilizzato per bloccare il `<img>` proprietà di stile dell’elemento (il valore predefinito è false).
 
 Esempio:
 `<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
 
-## Snippet {#snippets}
+## Frammenti {#snippets}
 
-Se definite un&#39;area come snippet, gli utenti finali potranno scegliere quale [snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)approvato inserire in questa area. Sebbene sia possibile convertire gli elementi RTF in snippet dall’editor e-mail, quando si definisce un’area specifica come snippet non è possibile convertirla in RTF. Potete specificare un&#39;area Snippet utilizzando un `<div>` con class=&quot;mktoSnippet&quot;
+Se definisci un&#39;area come frammento, gli utenti finali potranno scegliere quale area approvata [Frammento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)a loro piacerebbe inserire in questa regione. Anche se gli elementi Rich Text possono essere convertiti in snippet dall’interno dell’editor e-mail, quando definisci un’area specifica come frammento non può essere convertita in Rich Text. È possibile specificare un’area Snippet utilizzando un `<div>` con class=&quot;mktoSnippet&quot;
 
 Attributi richiesti
 
-* **stringa id:** ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
-* **mktoName:** String. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **id:** Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+* **mktoName:** Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Valore predefinito (facoltativo)
 
-**mktoDefaultSnippetId**: L&#39;ID numerico dello snippet di Marketo che dovrebbe essere visualizzato per impostazione predefinita (funzionerà solo se uno snippet con tale ID esiste e viene approvato in tale area di lavoro).
+**mktoDefaultSnippetId**: L’ID numerico del frammento di Marketo che deve essere visualizzato per impostazione predefinita (funziona solo se un frammento con tale ID esiste e viene approvato in quell’area di lavoro).
 
 Esempio:
 
@@ -145,16 +144,16 @@ Esempio:
 
 ## Video {#video}
 
-Se definite un&#39;area come video, gli utenti finali potranno inserire un URL YouTube o Vimeo che verrà visualizzato come miniatura (con il pulsante &quot;play&quot;) all&#39;interno dell&#39;e-mail. Potete specificare un&#39;area Video utilizzando un `<div>` con class=&quot;mktoVideo&quot;
+Se definisci un’area come video, gli utenti finali potranno inserire all’interno dell’e-mail un URL YouTube o Vimeo che verrà visualizzato come miniatura (con il pulsante &quot;play&quot;). È possibile specificare un’area video utilizzando una `<div>` con class=&quot;mktoVideo&quot;
 
 Attributi richiesti
 
-* **stringa id:** ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e carattere di sottolineatura &quot;_&quot;. Nessun spazio consentito. Deve essere univoco.
-* **mktoName:** String. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **id:** Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+* **mktoName:** Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **mktoImgClass:** String. Il valore qui verrà aggiunto all&#39;attributo class della miniatura video `<img>` all&#39;interno del div.
+* **mktoImgClass:** Stringa. Il valore qui verrà aggiunto all’attributo class della miniatura video `<img>` all’interno del div.
 
 Esempio:
 
@@ -162,22 +161,22 @@ Esempio:
 
 ## Variabili {#variables}
 
-Le variabili sono come token. Per prima cosa, è necessario definirli all&#39;interno della sezione `<head>` del modello e-mail utilizzando i tag `<meta>`, quindi utilizzarli il numero desiderato di volte nel modello. Poiché sono definiti nel modello, l&#39;utente finale potrà modificare i propri valori in base alle proprie regole. È possibile definire una variabile come locale o globale nell&#39;ambito. Se si utilizza una variabile all&#39;interno di un &quot;modulo&quot; (vedere di seguito) e un utente finale duplica tale modulo, le variabili locali avranno valori indipendenti, mentre le variabili globali saranno applicabili a entrambi i moduli.
+Le variabili sono come token. Le definisci innanzitutto all’interno della `<head>` sezione del modello e-mail utilizzando `<meta>` , quindi utilizzali il numero di volte desiderato in tutto il modello. Poiché sono definiti nel modello, l’utente finale sarà in grado di modificare i propri valori in base alle proprie regole. È possibile definire una variabile come locale o globale nell’ambito. Se utilizzi una variabile all’interno di un &quot;modulo&quot; (vedi di seguito) e un utente finale duplica tale modulo, le variabili locali avranno valori indipendenti, mentre le variabili globali si applicheranno a entrambi i moduli.
 
 ## Stringa {#string}
 
-Se si specifica una variabile come String, l&#39;utente finale potrà immettere del testo all&#39;interno di una casella di testo nell&#39;editor di posta elettronica. È possibile specificare una variabile String utilizzando `<meta>` con class=&quot;mktoString&quot;
+Se specifichi una variabile come stringa, l’utente finale sarà in grado di immettere testo all’interno di una casella di testo nell’editor e-mail. Specificare una variabile String utilizzando `<meta>` con class=&quot;mktoString&quot;
 
 Attributi richiesti
 
 * **id:** Come si fa riferimento alla variabile all’interno del modello e-mail.
-* **mktoName:** String. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **mktoName:** Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **allowHTML:** Boolean. Controlla se il valore della variabile è caratterizzato da un carattere di escape HTML. Il valore predefinito è False se viene omesso.
-* **predefinito**: Valore predefinito per la stringa. Vuoto se omesso.
-* **mktoModuleScope**: Boolean. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Il valore predefinito è False se viene omesso.
+* **allowHTML:** Booleano. Controlla se il valore della variabile è di tipo HTML-escape. Predefinito su False se omesso.
+* **default**: Valore predefinito per la stringa. Vuoto se omesso.
+* **mktoModuleScope**: Booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Predefinito su False se omesso.
 
 Esempio di dichiarazione:
 
@@ -189,18 +188,18 @@ Esempio di utilizzo:
 
 ## Elenco {#list}
 
-Se si specifica una variabile come Elenco, l’utente finale potrà scegliere tra un set di valori definito nell’editor e-mail. Per specificare una variabile Elenco, utilizzate `<meta>` con class=&quot;mktoList&quot;
+Se specifichi una variabile come elenco, l’utente finale sarà in grado di scegliere da un set di valori definito nell’editor e-mail. Specifica una variabile di elenco utilizzando `<meta>` con class=&quot;mktoList&quot;
 
 Attributi richiesti
 
 * **id**: Come si fa riferimento alla variabile all’interno del modello e-mail.
-* **mktoName:** String. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
-* **valori:elenco di valori separati da** virgole. Deve contenere almeno una stringa.
+* **mktoName:** Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **valori:** Elenco di valori separati da virgole. Deve avere almeno una stringa.
 
 Attributi opzionali
 
-* **predefinito:valore** predefinito del menu a discesa di selezione. Se omesso, verrà utilizzato il primo valore dell&#39;attributo &quot;values&quot;.
-* **mktoModuleScope**: Boolean. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Il valore predefinito è False se viene omesso.
+* **predefinito:** Valore predefinito del menu a discesa di selezione. Se omesso, verrà utilizzato il primo valore dell&#39;attributo &quot;values&quot;.
+* **mktoModuleScope**: Booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Predefinito su False se omesso.
 
 Esempio di dichiarazione:
 
@@ -212,21 +211,21 @@ Esempio di utilizzo:
 
 ## Numero {#number}
 
-Se si specifica una variabile come numero, l&#39;utente finale potrà immettere un numero nell&#39;editor e-mail. È possibile specificare una variabile Number utilizzando `<meta>` con class=&quot;mktoNumber&quot;
+Se specifichi una variabile come numero, l’utente finale sarà in grado di inserire un numero nell’editor e-mail. Specifica una variabile Number utilizzando `<meta>` con class=&quot;mktoNumber&quot;
 
 Attributi richiesti
 
 * **id**: Come si fa riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
-* **predefinito:valore numerico** predefinito per la variabile.
+* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **predefinito:** Valore numerico predefinito per la variabile .
 
 Attributi opzionali
 
-* **min: valore** minimo accettato.
-* **max:** Valore accettato max.
-* **unità:** Unità da aggiungere al valore numerico (ad esempio: px, pt, em, ecc.) quando vengono visualizzati nell&#39;Editor e-mail e nel codice risultante.
-* **step:** Quante unità la variabile number deve aumentare/diminuire di (0,1, 1, 10, ecc.). Se omesso, il valore predefinito è 1.
-* **mktoModuleScope**: Boolean. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Il valore predefinito è False se viene omesso.
+* **min** Valore minimo accettato.
+* **max:** Valore massimo accettato.
+* **unità:** Unità da aggiungere al valore numerico (ad esempio: px, pt, em, ecc.) quando vengono visualizzati nell’editor e-mail e nel codice risultante.
+* **passo:** Quante unità la variabile numero dovrebbe aumentare/diminuire di (0.1, 1, 10, ecc.). Se omesso, verrà impostato automaticamente su 1.
+* **mktoModuleScope**: Booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Predefinito su False se omesso.
 
 Esempio di dichiarazione:
 
@@ -238,17 +237,17 @@ Esempio di utilizzo:
 
 ## Colore {#color}
 
-Se specificate una variabile come Colore, l’utente finale potrà immettere un valore di colore esadecimale o scegliere un colore dal selettore colore nell’editor e-mail. Per specificare una variabile di colore, utilizzate `<meta>` con class=&quot;mktoColor&quot;
+Se specifichi una variabile come Colore, l’utente finale sarà in grado di immettere un valore di colore esadecimale o scegliere un colore dal selettore colore all’interno dell’editor e-mail. È possibile specificare una variabile di colore utilizzando `<meta>` con class=&quot;mktoColor&quot;
 
 Attributi richiesti
 
 * **id**: Come si fa riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **predefinito:valore** predefinito per il colore. Codice colore esadecimale a 6 cifre. Ex: #ffffff.
-* **mktoModuleScope**: Boolean. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Il valore predefinito è False se viene omesso.
+* **predefinito:** Valore predefinito per il colore. Codice a colori esadecimale a 6 cifre. Ex: #ffffff.
+* **mktoModuleScope**: Booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Predefinito su False se omesso.
 
 Esempio di dichiarazione:
 
@@ -260,21 +259,21 @@ Esempio di utilizzo:
 
 ## Booleano {#boolean}
 
-Se si specifica una variabile come booleana, l&#39;utente finale sarà in grado di attivare/disattivare l&#39;opzione all&#39;interno dell&#39;editor e-mail. È possibile specificare una variabile booleana utilizzando `<meta>` con class=&quot;mktoBoolean&quot;
+Se specifichi una variabile come booleana, l’utente finale sarà in grado di attivare/disattivare l’opzione all’interno dell’editor e-mail. Specifica una variabile booleana utilizzando `<meta>` con class=&quot;mktoBoolean&quot;
 
 Attributi richiesti
 
 * **id**: Come si fa riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **default:valore** booleano che determina lo stato predefinito dell&#39;interruttore di attivazione/disattivazione. False se omesso.
-* **false_value:** Valore da inserire quando l&#39;interruttore è nella posizione OFF. False se omesso.
-* **true_value:** Valore da inserire quando l&#39;attivazione è attiva. True se omesso.
-* **false_value_name:** interfaccia utente visualizzata nella posizione OFF. False se omesso.
-* **true_value_name:** interfaccia utente visualizzata nella posizione Attivato. True se omesso.
-* **mktoModuleScope**: Boolean. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Il valore predefinito è False se viene omesso.
+* **predefinito:** Valore booleano che determina lo stato predefinito dell&#39;interruttore di attivazione/disattivazione. False se omesso.
+* **false_value:** Valore da inserire quando l&#39;interruttore è in posizione OFF. False se omesso.
+* **true_value:** Valore da inserire quando l’interruttore è in posizione ON. True se omesso.
+* **nome_valore_falso:** L’interfaccia utente viene visualizzata quando è in posizione OFF. False se omesso.
+* **nome_valore_vero:** Interfaccia utente visualizzata nell’interruttore quando è attivata. True se omesso.
+* **mktoModuleScope**: Booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Predefinito su False se omesso.
 
 Esempio di dichiarazione:
 
@@ -286,17 +285,17 @@ Esempio di utilizzo:
 
 ## Blocco HTML {#html-block}
 
-Se si specifica una variabile come blocco HTML, l&#39;utente finale sarà in grado di inserire il testo HTML integrale dall&#39;editor e-mail. È possibile specificare una variabile Blocco HTML utilizzando `<meta>` con class=&quot;mktoHTML&quot;
+Se specifichi una variabile come blocco di HTML, l’utente finale sarà in grado di inserire testo HTML letterale dall’interno dell’editor e-mail. È possibile specificare una variabile Blocco di HTML utilizzando `<meta>` con class=&quot;mktoHTML&quot;
 
 Attributi richiesti
 
 * **id**: Come si fa riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **predefinito:valore codificato** HTML da utilizzare come contenuto predefinito del blocco.
-* **mktoModuleScope**: Boolean. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Il valore predefinito è False se viene omesso.
+* **predefinito:** Valore codificato di HTML da utilizzare come contenuto predefinito del blocco.
+* **mktoModuleScope**: Booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Predefinito su False se omesso.
 
 Esempio di dichiarazione:
 
@@ -308,17 +307,17 @@ Esempio di utilizzo:
 
 ## Variabile immagine {#image-variable}
 
-Se specificate una variabile come immagine, l’utente finale potrà scegliere un’immagine dal selettore immagini all’interno dell’editor e-mail. L’URL immagine selezionato sarà il valore della variabile. Per specificare una variabile immagine, utilizzate `<meta>` con class=&quot;mktoImg&quot;
+Se specifichi una variabile come immagine, l’utente finale sarà in grado di scegliere un’immagine dal selettore immagini all’interno dell’editor e-mail. L’URL immagine selezionato sarà il valore della variabile . Specifica una variabile immagine utilizzando `<meta>` con class=&quot;mktoImg&quot;
 
 Attributi richiesti
 
 * **id**: Come si fa riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **predefinito:URL immagine** predefinita per l’elemento.
-* **mktoModuleScope**: Boolean. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Il valore predefinito è False se viene omesso.
+* **predefinito:** URL immagine predefinito per l’elemento.
+* **mktoModuleScope**: Booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Predefinito su False se omesso.
 
 Esempio di dichiarazione:
 
@@ -330,35 +329,39 @@ Esempio di utilizzo:
 
 ## Moduli {#modules}
 
-I moduli sono sezioni con modelli definite a livello di modello che verranno visualizzate per consentire agli utenti finali di inserire il proprio messaggio e-mail. Poiché questi moduli sono già stati creati, potete assicurarvi che interagiscano con il resto del contenuto delle e-mail in modo corretto (in modo completamente reattivo). È possibile inserire un modulo solo in un contenitore.
+I moduli sono sezioni di modelli definite a livello di modello che verranno visualizzate per consentire agli utenti finali di inserire nell’e-mail. Poiché questi moduli sono già stati creati, puoi assicurarti che interagiscano con il resto del contenuto delle e-mail in modo gradevole (in modo pienamente reattivo). È possibile inserire un modulo solo in un contenitore.
 
-**Per contenitori di tipo  `<table>`,  `<tbody>`,  `<thead>`, o  `<tfoot>`:**
+>[!IMPORTANT]
+>
+>Quando un messaggio e-mail viene generato da un modello e-mail che contiene componenti modulo definiti, tutte le modifiche apportate ai moduli del modello verranno **not** venga inviato a tale e-mail.
+
+**Per contenitori di tipo `<table>`, `<tbody>`, `<thead>`oppure `<tfoot>`:**
 
 Specificato utilizzando `<tr>` con class=&quot;mktoModule&quot;
 
-**Per contenitori di tipo  `<td>`:**
+**Per contenitori di tipo `<td>`:**
 
 Specificato utilizzando `<table>` con class=&quot;mktoModule&quot;
 
 Attributi richiesti
 
 * **id**: Come si fa riferimento al modulo all’interno del modello e-mail.
-* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Editor e-mail 2.0. Come procedura ottimale si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: Stringa. Questo è il nome visualizzato che verrà visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi opzionali
 
-* **mktoActive:** Determina se il modulo viene visualizzato nell’elenco dei moduli all’interno dell’editor e-mail. Il valore predefinito è true. Se false, il modulo non può essere aggiunto da un utente finale a un&#39;e-mail.
-* **mktoAddByDefault:** Determina se il modulo sarà incluso nel quadro di un nuovo messaggio e-mail che utilizza questo modello al momento della creazione. Il valore predefinito è true (se mktoActive è false, questo valore viene ignorato).
+* **mktoActive:** Determina se questo modulo viene visualizzato nell’elenco dei moduli all’interno dell’editor e-mail. Predefinito su true. Se false, il modulo non può essere aggiunto da un utente finale a un&#39;e-mail.
+* **mktoAddByDefault:** Determina se questo modulo si troverà nell’area di lavoro di un nuovo messaggio e-mail che utilizza questo modello al momento della creazione. Predefinito su true (se mktoActive è false, questo valore viene ignorato).
 
 >[!NOTE]
 >
->I valori delle classi contenenti la sintassi Marketo (ad es. mktoModule, mktoContainer, mktoText) fanno distinzione tra maiuscole e minuscole. I nomi degli attributi personalizzati (ad es. mktoimgwidth, mktoname) non lo sono.
+>I valori delle classi contenenti la sintassi Marketo (ad esempio mktoModule, mktoContainer, mktoText) fanno distinzione tra maiuscole e minuscole. I nomi degli attributi personalizzati (ad esempio mktoimgwidth, mktoname) non lo sono.
 
 ## Contenitori {#containers}
 
-Un contenitore contiene dei moduli e definisce la posizione in cui possono essere posizionati. Quando gli utenti finali riordinano e inseriscono moduli nella propria e-mail, il contenitore controlla dove possono andare.
+Un contenitore contiene Moduli e definisce dove possono essere posizionati. Quando gli utenti finali riordinano e inseriscono moduli nella loro e-mail, il contenitore controlla dove possono andare.
 
-**Specificato utilizzando  `<table>`,  `<tbody>`,  `<thead>`o  `<tfoot>`   `<td>` con class=&quot;mktoContainer&quot;**
+**Specificato utilizzando `<table>`, `<tbody>`, `<thead>`, `<tfoot>` o `<td>` con class=&quot;mktoContainer&quot;**
 
 Attributi richiesti
 
@@ -366,4 +369,4 @@ Attributi richiesti
 
 >[!CAUTION]
 >
->I contenitori possono contenere solo moduli. Se c&#39;è altro presente, il contenitore è considerato non valido. È consentito un solo contenitore per modello.
+>I contenitori possono contenere solo moduli - se è presente altro, il contenitore è considerato non valido! È consentito un solo contenitore per modello.
