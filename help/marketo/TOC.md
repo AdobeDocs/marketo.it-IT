@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Guida a Marketo {#using}
 
-+ [Pagina principale](home.md)
++ [Home](home.md)
 + Guida introduttiva a Marketo {#getting-started-with-marketo}
    + [Introduzione](getting-started.md)
    + [Cos&#39;è Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
@@ -630,6 +630,8 @@ ht-degree: 0%
             + [Modificare un canale evento](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [Partner eventi](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [Informazioni sui programmi evento](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [Impostazione di un valore Cap per eventi](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [Impostazione degli obiettivi dell’evento](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + Creare un evento {#create-an-event}
             + [Creare un evento con Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Creare un evento con GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
