@@ -3,9 +3,10 @@ description: Impostazione di un Event Cap - Marketo Docs - Documentazione del pr
 title: Impostazione di un valore Cap per eventi
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,24 +24,24 @@ Limita la quantità di persone che possono registrarsi per l’evento con un lim
 
 1. Selezionare il programma dell&#39;evento.
 
-PICC
+   ![](assets/setting-an-event-cap-1.png)
 
 1. Nella panoramica , trova [!UICONTROL Estensione evento] e fai clic su **[!UICONTROL Non impostato]**.
 
-PICC
+   ![](assets/setting-an-event-cap-2.png)
 
 1. Inserisci la quantità massima di persone che desideri registrare per l’evento e fai clic su **[!UICONTROL Successivo]**.
 
-PICC
+   ![](assets/setting-an-event-cap-3.png)
 
 1. Fai clic sul pulsante [!UICONTROL Pagina di registrazione] e seleziona la pagina di destinazione che fungerà da pagina di registrazione.
 
-PICC
+   ![](assets/setting-an-event-cap-4.png)
 
 1. Fai clic sul pulsante **[!UICONTROL Pagina completa registrazione]** e seleziona la pagina di destinazione che fungerà da pagina completa della registrazione. Fai clic su **[!UICONTROL Imposta e abilita]** al termine.
 
-PICC
+   ![](assets/setting-an-event-cap-5.png)
 
-Siete tutti pronti. Per modificare i dettagli del limite dell’evento, fai clic sul testo blu accanto a [!UICONTROL Estensione evento] e ripetere dal passaggio 3 in poi.
+   Siete tutti pronti. Per modificare i dettagli del limite dell’evento, fai clic sul testo blu accanto a [!UICONTROL Estensione evento].
 
-PICC
+   ![](assets/setting-an-event-cap-6.png)
