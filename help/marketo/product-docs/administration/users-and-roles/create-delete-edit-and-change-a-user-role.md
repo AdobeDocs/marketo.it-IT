@@ -3,21 +3,31 @@ unique-page-id: 2360198
 description: Creare, eliminare, modificare e modificare un ruolo utente - Marketo Docs - Documentazione del prodotto
 title: Creare, eliminare, modificare e modificare un ruolo utente
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 # Creare, eliminare, modificare e modificare un ruolo utente {#create-delete-edit-and-change-a-user-role}
 
-**** Raggruppa una serie di autorizzazioni. **** Le autorizzazioni ti consentono di eseguire operazioni in Marketo. Puoi assegnare un **ruolo** a un utente. Facile come una torta.
+**Ruoli** raggruppare una serie di autorizzazioni. **Autorizzazioni** ti permettono di fare cose in Marketo. Assegnare un **ruolo** a un utente. Facile come una torta.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
+
+>[!IMPORTANT]
+>
+>I seguenti ruoli sono ruoli di sistema e non possono essere modificati o eliminati:
+>
+>* Amministratore
+>* Amministratore prodotto Adobe
+>* Utente standard
+>* Editor RTP
+>* Launcher RTP
+
 
 ## Creare un ruolo {#create-a-role}
 
@@ -25,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Vai alla scheda **Ruoli** e fai clic su **Nuovo ruolo**.
+1. Vai a **Scheda Ruoli** e fai clic su **Nuovo ruolo**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +45,11 @@ ht-degree: 0%
 
 ## Eliminare un ruolo {#delete-a-role}
 
-1. In **Amministratore**, fai clic su **Utenti e ruoli**.
+1. Sotto **Amministratore**, fai clic su **Utenti e ruoli**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Nella scheda **Ruoli** , seleziona un ruolo e fai clic su **Elimina ruolo**.
+1. Sotto la **Ruoli** seleziona un ruolo e fai clic su **Elimina ruolo**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Fare clic sulla scheda **Ruoli**.
+1. Fai clic sul pulsante **Ruoli** scheda .
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
@@ -87,11 +97,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Selezionare l&#39;utente a cui si desidera assegnare un ruolo diverso e fare clic su **Modifica utente.**
+1. Selezionare l’utente a cui si desidera assegnare un ruolo diverso e fare clic su **Modifica utente.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
-1. Deseleziona il ruolo precedente, seleziona il nuovo, quindi fai clic su **Salva**.
+1. Deseleziona il ruolo precedente, selezionane uno nuovo, quindi fai clic su **Salva**.
 
    ![](assets/image2014-9-16-13-3a36-3a35.png)
 
