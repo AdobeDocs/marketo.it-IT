@@ -2,9 +2,9 @@
 description: Filtrare l’attività del bot e-mail - Documenti Marketo - Documentazione del prodotto
 title: Filtrare l’attività del bot e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ In corrispondenza dell’attività di selezione dei collegamenti e-mail e apertu
 
 >[!NOTE]
 >
->Puoi scegliere di filtrare l’attività bot **o** registrato. Se scegli filtrato, potresti visualizzare un calo nelle aperture delle e-mail e dei clic mentre le attività false vengono eliminate
+>* Puoi scegliere di filtrare l’attività bot **o** registrato. Se scegli filtrato, potresti visualizzare un calo nelle aperture delle e-mail e dei clic man mano che le attività false vengono eliminate.
+>
+>* Al momento è disponibile solo &quot;Log Bot Activity&quot; per &quot;Match with Proximity Pattern&quot;.
+
 
 **PASSAGGIO OPZIONALE**: Per disattivare questa funzione, deselezionare i dispositivi di scorrimento. Se disattivi, i dati non vengono reimpostati.
 

@@ -3,9 +3,10 @@ description: Impostazione di un Event Cap - Marketo Docs - Documentazione del pr
 title: Impostazione di un valore Cap per eventi
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,10 @@ Limita la quantità di persone che possono registrarsi per l’evento con un lim
 
 >[!IMPORTANT]
 >È necessario disporre di almeno due pagine di destinazione approvate (una pagina di registrazione e una pagina di registrazione completa) nel programma prima di poter impostare un limite per l’evento.
+
+>[!NOTE]
+>
+>Per liberare spazio in un evento, il membro del programma deve essere rimosso (è possibile farlo aggiornando il suo stato su &quot;Non in programma&quot;).
 
 1. Selezionare il programma dell&#39;evento.
 

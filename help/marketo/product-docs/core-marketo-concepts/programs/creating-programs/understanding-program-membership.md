@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: Informazioni sull’appartenenza al programma - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sull’appartenenza al programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo sta standardizzando la lingua per tutte le sottoscrizioni, pertanto potresti visualizzare lead/lead nell’abbonamento e persona/persone in docs.marketo.com. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori informazioni](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo sta standardizzando la lingua per tutti gli abbonamenti, pertanto potresti visualizzare i lead/lead nell’abbonamento e la persona/le persone nei nostri documenti. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori informazioni](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >

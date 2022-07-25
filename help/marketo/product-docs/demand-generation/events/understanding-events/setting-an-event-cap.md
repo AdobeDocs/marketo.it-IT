@@ -4,9 +4,9 @@ title: Impostazione di un valore Cap per eventi
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Limita la quantità di persone che possono registrarsi per l’evento con un lim
 
 >[!IMPORTANT]
 >È necessario disporre di almeno due pagine di destinazione approvate (una pagina di registrazione e una pagina di registrazione completa) nel programma prima di poter impostare un limite per l’evento.
+
+>[!NOTE]
+>
+>Per liberare spazio in un evento, il membro del programma deve essere rimosso (è possibile farlo aggiornando il suo stato su &quot;Non in programma&quot;).
 
 1. Selezionare il programma dell&#39;evento.
 
