@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **19 agosto 2022**,
 * **Branding Adobe**: Aspetto aggiornato per gli editor e la pagina dei dettagli personali con il nuovo marchio Adobe Experience Cloud.
 
 * **Visualizza gerarchia cartelle della cartella di destinazione nella finestra di dialogo Sposta**: La visualizzazione della gerarchia di cartelle per ciascuna cartella semplifica lo spostamento delle risorse e riduce la probabilità di inserirle nella cartella errata.
+
+* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
+
+   * Dettagli su &quot;Immagini e file&quot;
+   * Dettagli frammento
 
 >[!NOTE]
 >
