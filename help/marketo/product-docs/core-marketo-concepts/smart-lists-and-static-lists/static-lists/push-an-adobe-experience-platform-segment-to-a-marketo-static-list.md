@@ -2,9 +2,9 @@
 description: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Immettere una destinazione **Nome** e una descrizione facoltativa. Fai clic sul menu a discesa Creazione persona e scegli &quot;Fai corrispondere le persone esistenti di Marketo e crea le persone mancanti in Marketo&quot; _o_ &quot;Solo persone Marketo esistenti&quot; In questo esempio scegliamo il primo.
+1. Immettere una destinazione **Nome** e una descrizione facoltativa. Fai clic sul menu a discesa Creazione persona e scegli &quot;Fai corrispondere le persone esistenti di Marketo e crea le persone mancanti in Marketo&quot; _o_ &quot;Solo persone Marketo esistenti&quot; In questo esempio scegliamo il primo. Facoltativamente, puoi anche scegliere un’area di lavoro o semplicemente scegliere quella predefinita.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Mappa nome selezionando **firstName** e facendo clic su **Seleziona**.
+1. Scegli gli attributi desiderati e fai clic su **Seleziona**. In questo esempio, scegliamo nome, cognome e indirizzo e-mail.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >Puoi mappare gli attributi da Experience Platform a uno qualsiasi degli attributi a cui la tua organizzazione ha accesso in Marketo Engage. Utilizza la [Descrizione della richiesta API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
 
 1. Mappa il cognome e il nome della società facendo clic su **Aggiungi nuova mappatura** di nuovo e ripetendo il passaggio 15 due volte, scegliendo **lastName** e poi **companyName**.
 
@@ -142,22 +146,6 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. A questo punto sarà necessario l’ID della tua lista. Fai clic sulla scheda nel browser in cui è aperto l’elenco statico Marketo (oppure apri una nuova scheda e seleziona l’elenco statico desiderato).
+1. Rivedi le modifiche e fai clic su **Fine**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >Per ottenere risultati ottimali, utilizzare un elenco di Marketi Engage vuoto.
-
-1. Evidenzia e copia l’ID elenco alla fine dell’URL.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. Incolla l&#39;ID appena copiato in Mapping ID (ID mappatura) e fai clic su **Successivo**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. Fai clic su **Fine**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
