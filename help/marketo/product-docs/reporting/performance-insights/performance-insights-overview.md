@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Panoramica di Performance Insights - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Performance Insights
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Panoramica di Performance Insights {#performance-insights-overview}
 
 Marketo Performance Insights ti aiuta a ottimizzare il mix dei canali per la massima efficacia, nonché a individuare tendenze a lungo termine per individuare strategie vincenti coerenti.
+
+>[!AVAILABILITY]
+>
+>Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
 
 Performance Insights carica i dati dai (fino a) 24 mesi precedenti. Sono inclusi i dati correnti relativi all’anno corrente e quelli relativi all’anno precedente. Ad esempio, il 31 gennaio 2019 , MPI caricherà i dati da quel mese e ogni mese dal 2018. Il 31 dicembre 2019, MPI caricherà i dati a partire da ogni mese del 2019 e del 2018.
 

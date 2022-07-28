@@ -2,9 +2,9 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 1%
 
 ---
@@ -170,5 +170,15 @@ Quando aggiorni la lingua, tutto ciò che si trova nell’app stessa cambia, ad 
   <td>Periodo di conservazione dell'attività di prenotazione riunioni</td>
   <td>Quantità di tempo durante la prenotazione delle riunioni verrà memorizzata in Chat dinamico</td>
   <td>24 mesi</td>
+ </tr>
+ <tr>
+  <td>Conversazioni interessate</td>
+  <td>Numero di conversazioni via chat con cui i visitatori web possono essere coinvolti al giorno</td>
+  <td>1.000</td>
+ </tr>
+ <tr>
+  <td>Conversazioni innescate</td>
+  <td>Numero di conversazioni via chat che possono essere mostrate ai visitatori web al giorno</td>
+  <td>25.000</td>
  </tr>
 </table>
