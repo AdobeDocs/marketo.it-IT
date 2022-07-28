@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
 workflow-type: tm+mt
-source-wordcount: '8790'
+source-wordcount: '8793'
 ht-degree: 0%
 
 ---
@@ -1448,6 +1448,7 @@ ht-degree: 0%
          + Funzioni {#features}
             + [Panoramica delle funzioni MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Panoramica della funzione del dashboard di Insights](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Integrazione Chat dinamica](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Inviare un&#39;e-mail a più record in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Azioni nel pannello MSI {#actions-in-the-msi-panel}
                + [Scegliere un&#39;azione in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
