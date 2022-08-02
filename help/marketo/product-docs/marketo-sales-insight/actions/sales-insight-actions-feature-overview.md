@@ -2,9 +2,9 @@
 description: Panoramica delle azioni Approfondimenti vendite - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della funzione Approfondimenti vendite
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Accelerare le attività di ricerca grazie a strumenti di intelligenza e coinvolg
 
 >[!AVAILABILITY]
 >
->Questa funzione è attualmente in versione GA limitata. Contatta il tuo Customer Success Manager o invia un&#39;e-mail `sales-insights(at)adobe(dot)com` per richiedere l&#39;accesso.
+>Questa funzione è attualmente in fase di rollout graduale. Contatta il tuo Customer Success Manager o invia un&#39;e-mail `sales-insights(at)adobe(dot)com` per richiedere l&#39;accesso.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -25,7 +25,7 @@ Le seguenti azioni sono disponibili dal menu a discesa &quot;Scegli azioni&quot;
 
 * Invia e-mail di vendita
    * Le e-mail di vendita dispongono di funzioni di visualizzazione, tracciamento dei clic e delle risposte (quando il canale di consegna è impostato)
-   * Include Personalization e-mail, firma personalizzata e allegati
+   * Include personalizzazione e-mail, firma personalizzata e allegati
    * Condivisione di modelli e rapporti
    * Condivisione di team, e-mail di gruppo e funzionalità CC/CCN
    * L&#39;attività e-mail di vendita verrà registrata nel record personale di Marketo
@@ -77,7 +77,7 @@ Le seguenti azioni sono disponibili nella navigazione superiore:
 
 * Invia e-mail di vendita - Possibilità di inviare e-mail di gruppo personalizzate o modellate con visualizzazione, clic e risposta tracking a tutti i contatti associati a un account/opportunità
    * Le e-mail di vendita dispongono di funzioni di visualizzazione, tracciamento dei clic e delle risposte (quando il canale di consegna è impostato)
-   * Include Personalization e-mail, firma personalizzata e allegati
+   * Include personalizzazione e-mail, firma personalizzata e allegati
    * Condivisione di modelli e rapporti
    * Condivisione di team, e-mail di gruppo e funzionalità CC/CCN
    * L&#39;attività e-mail di vendita verrà registrata nel record personale di Marketo
