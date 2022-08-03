@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: Creare un rapporto di analisi e-mail che elenca i lead - Documenti Marketo - Documentazione del prodotto
 title: Creare un rapporto di analisi e-mail in cui sono elencati i lead
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Creare un rapporto di analisi e-mail in cui sono elencati i lead {#build-an-email-analysis-report-that-lists-leads}
 
+Segui questi passaggi per creare un rapporto di analisi e-mail che ti mostrerà ogni lead a cui è stato inviato un messaggio e-mail specifico. Questo rapporto includerà anche gli stati Clic e Apri .
+
 >[!AVAILABILITY]
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo Customer Success Manager per maggiori dettagli.
-
-Segui questi passaggi per creare un rapporto di analisi e-mail che ti mostrerà ogni lead a cui è stato inviato un messaggio e-mail specifico. Questo rapporto includerà anche gli stati Clic e Apri .
 
 >[!NOTE]
 >
