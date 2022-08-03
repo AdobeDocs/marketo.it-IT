@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **19 agosto 2022**,
 ## Miglioramenti API {#api-enhancements}
 
 * **Nuove funzionalità di filtro per l&#39;API di estrazione dei membri del programma in blocco**: Filtrare per stato di appartenenza al programma, aggiornamento di At, cadenza o contenuto esaurito per perfezionare il set di dati estratti.
-
-* **Esporre l&#39;utente solo API nelle notifiche di errore dei servizi web**: Per migliorare la risoluzione dei problemi, vedere quale utente solo API ha generato un errore di servizi Web.
 
 ## Annunci {#announcements}
 
