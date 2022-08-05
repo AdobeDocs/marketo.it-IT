@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -35,8 +35,8 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **26 agosto 2022**,
 
 * **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
 
-   * Dettagli su &quot;Immagini e file&quot;
    * Dettagli frammento
+   * Dettagli su &quot;Immagini e file&quot;
 
 >[!NOTE]
 >
