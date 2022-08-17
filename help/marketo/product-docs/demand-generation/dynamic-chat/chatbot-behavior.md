@@ -1,10 +1,8 @@
 ---
 description: Comportamento Chatbot - Documentazione Marketo - Documentazione del prodotto
 title: Comportamento del chatbot
-hide: true
-hidefromtoc: true
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 97b1a00b8ff1dc29a92687a70c71093fc8c04267
+source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -54,9 +52,9 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto su V1 </p>
+        <p>D1 verrà risolto in V1 </p>
       </td>
-      <td>Il numero di trigger per D1 deve essere aumentato di 1</td>
+      <td>Il numero di trigger per D1 verrà aumentato di 1</td>
     </tr>
     <tr>
       <td>
@@ -65,11 +63,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto su V1</p>
-        <p>Dopo l'aggiornamento, D1 deve essere risolto di nuovo</p>
+        <p>D1 verrà risolto in V1</p>
+        <p>Dopo l'aggiornamento, D1 verrà nuovamente risolto</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
         <p>Dopo l'aggiornamento, nessuna modifica al trigger D1 o al conteggio del coinvolgimento</p>
       </td>
     </tr>
@@ -79,9 +77,9 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP1 per la prima volta</p>
         <p>V1 clicca su D1 ma non risponde</p>
       </td>
-      <td>D1 deve essere risolto su V1</td>
+      <td>D1 verrà risolto in V1</td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
         <p>Nessuna modifica al conteggio del coinvolgimento D1</p>
       </td>
     </tr>
@@ -91,10 +89,10 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP1 per la prima volta</p>
         <p>V1 clicca su D1 e fornisce la prima risposta</p>
       </td>
-      <td>D1 deve essere risolto su V1</td>
+      <td>D1 verrà risolto in V1</td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
-        <p>Il conteggio del coinvolgimento per D1 dovrebbe essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
+        <p>Il conteggio del coinvolgimento per D1 verrà incrementato di 1</p>
       </td>
     </tr>
     <tr>
@@ -105,11 +103,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto su V1</p>
-        <p>Dopo l'aggiornamento, D1 deve continuare</p>
+        <p>D1 verrà risolto in V1</p>
+        <p>Dopo l'aggiornamento, D1 continuerà</p>
       </td>
       <td>
-        <p>Il conteggio del trigger e il conteggio del coinvolgimento per D1 devono essere aumentati di 1</p>
+        <p>Il conteggio del trigger e il conteggio del coinvolgimento per D1 verranno incrementati di 1</p>
         <p>Dopo l'aggiornamento, nessuna modifica ad alcun conteggio</p>
       </td>
     </tr>
@@ -121,12 +119,12 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto su V1</p>
-        <p>Dopo l'aggiornamento, non è necessario risolvere nessuna finestra di dialogo o finestra di dialogo successiva per V1</p>
+        <p>D1 verrà risolto in V1</p>
+        <p>Dopo l'aggiornamento, per V1 non verrà risolta alcuna finestra di dialogo o finestra di dialogo successiva</p>
       </td>
       <td>
-        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 devono essere aumentati di 1</p>
-        <p>Dopo l’aggiornamento, non deve essere risolta alcuna finestra di dialogo o di dialogo successiva</p>
+        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 verranno incrementati di 1</p>
+        <p>Dopo l’aggiornamento, non verrà risolta alcuna finestra di dialogo o finestra di dialogo successiva</p>
       </td>
     </tr>
     <tr>
@@ -137,11 +135,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP2</p>
       </td>
       <td>
-        <p>Visita di pagina WP1, D1 deve essere risolto a V1</p>
-        <p>Visita di pagina WP2, D1 deve essere risolto a V2</p>
+        <p>Visita di pagina WP1, D1 sarà risolto a V1</p>
+        <p>Visita di pagina WP2, D1 sarà risolto a V2</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
         <p>In WP2, nessuna modifica al conteggio dei trigger D1</p>
       </td>
     </tr>
@@ -153,11 +151,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP2</p>
       </td>
       <td>
-        <p>Visita di pagina WP1, D1 deve essere risolto a V1</p>
-        <p>Visita di pagina WP2, D1 deve essere risolto a V1</p>
+        <p>Visita di pagina WP1, D1 sarà risolto a V1</p>
+        <p>Visita di pagina WP2, D1 sarà risolto a V1</p>
       </td>
       <td>
-        <p>Il conteggio del trigger e il conteggio del coinvolgimento per D1 devono essere aumentati di 1</p>
+        <p>Il conteggio del trigger e il conteggio del coinvolgimento per D1 verranno incrementati di 1</p>
         <p>In WP2, nessuna modifica ad alcun conteggio</p>
       </td>
     </tr>
@@ -170,11 +168,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP2</p>
       </td>
       <td>
-        <p>D1 deve essere risolto con WP1</p>
-        <p>D1 deve continuare a V1 su WP2</p>
+        <p>D1 verrà risolto con WP1</p>
+        <p>D1 continuerà a V1 su WP2</p>
       </td>
       <td>
-        <p>Il conteggio del trigger e il conteggio del coinvolgimento per D1 devono essere aumentati di 1</p>
+        <p>Il conteggio del trigger e il conteggio del coinvolgimento per D1 verranno incrementati di 1</p>
         <p>Nessuna modifica al trigger D2 o al conteggio del coinvolgimento</p>
       </td>
     </tr>
@@ -186,11 +184,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 clicca su D1 ma non risponde </p>
         <p>V1 visita WP2</p>
       </td>
-      <td>D1 deve essere risolto con WP1<br/>
-      D2 deve essere risolto con WP2</td>
+      <td>D1 verrà risolto con WP1<br/>
+      D2 verrà risolto con WP2</td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
-        <p>Il numero di trigger per D2 dovrebbe essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
+        <p>Il numero di trigger per D2 verrà aumentato di 1</p>
       </td>
     </tr>
     <tr>
@@ -201,10 +199,10 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 clicca su D1 e completa D1</p>
         <p>V1 visita WP2</p>
       </td>
-      <td>D1 deve essere risolto su WP1 e su post-completamento<br/>D2 deve essere risolto con WP2</td>
+      <td>D1 sarà risolto su WP1 e su post-completamento<br/>D2 verrà risolto con WP2</td>
       <td>
-        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 devono essere aumentati di 1</p>
-        <p>Il numero di trigger per D2 dovrebbe essere aumentato di 1</p>
+        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 verranno incrementati di 1</p>
+        <p>Il numero di trigger per D2 verrà aumentato di 1</p>
       </td>
     </tr>
     <tr>
@@ -216,10 +214,10 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP2</p>
         <p>I clic V1 su D2 forniscono la prima risposta </p>
       </td>
-      <td>D1 deve essere risolto su WP1 e su post-completamento<br/>D2 deve essere risolto con WP2</td>
+      <td>D1 sarà risolto su WP1 e su post-completamento<br/>D2 verrà risolto con WP2</td>
       <td>
-        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 devono essere aumentati di 1</p>
-        <p>Il trigger e il conteggio del coinvolgimento per D2 dovrebbero essere aumentati di 1</p>
+        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 verranno incrementati di 1</p>
+        <p>Il trigger e il conteggio del coinvolgimento per D2 saranno aumentati di 1</p>
       </td>
     </tr>
     <tr>
@@ -229,9 +227,9 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 clicca su D1 ma non risponde</p>
         <p>D1 non pubblicato</p>
       </td>
-      <td>D1 deve essere risolto su V1</td>
+      <td>D1 verrà risolto in V1</td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
         <p>Nessuna modifica al conteggio del coinvolgimento D1</p>
       </td>
     </tr>
@@ -244,11 +242,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto a V1 per la prima volta</p>
-        <p>Dopo l’aggiornamento, nessuna finestra di dialogo deve essere risolta</p>
+        <p>D1 verrà risolto per la prima volta a V1</p>
+        <p>Dopo l’aggiornamento, non verrà risolta alcuna finestra di dialogo</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
         <p>Nessuna modifica al conteggio del coinvolgimento D1</p>
         <p>Dopo l'aggiornamento, nessuna modifica al trigger D1 o al conteggio del coinvolgimento</p>
       </td>
@@ -262,12 +260,12 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto su V1</p>
-        <p>Dopo l'aggiornamento, D1 deve continuare</p>
+        <p>D1 verrà risolto in V1</p>
+        <p>Dopo l'aggiornamento, D1 continuerà</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
-        <p>Il numero di coinvolgimento D1 dovrebbe aumentare di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
+        <p>Il conteggio del coinvolgimento D1 verrà incrementato di 1</p>
         <p>Dopo l'aggiornamento, come D1 continuerà senza ulteriori modifiche per attivare o contare il coinvolgimento</p>
       </td>
     </tr>
@@ -280,11 +278,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto a V1 per la prima volta</p>
-        <p>Dopo l’aggiornamento, la finestra di dialogo con le nuove modifiche deve essere risolta</p>
+        <p>D1 verrà risolto per la prima volta a V1</p>
+        <p>Dopo l’aggiornamento, verrà risolta la finestra di dialogo con le nuove modifiche</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
         <p>Dopo l'aggiornamento, come D1 con nuove modifiche ma senza ulteriori modifiche per attivare il conteggio</p>
       </td>
     </tr>
@@ -297,12 +295,12 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto a V1 per la prima volta</p>
-        <p>Dopo l'aggiornamento, la finestra di dialogo con le modifiche precedenti deve continuare</p>
+        <p>D1 verrà risolto per la prima volta a V1</p>
+        <p>Dopo l’aggiornamento, la finestra di dialogo con le modifiche precedenti continuerà</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
-        <p>Il conteggio del coinvolgimento per D1 dovrebbe essere aumentato di 1 </p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
+        <p>Il conteggio del coinvolgimento per D1 verrà incrementato di 1 </p>
         <p>Dopo l'aggiornamento, come il vecchio D1 apparirà in modo che nessuna modifica per attivare il conteggio</p>
       </td>
     </tr>
@@ -316,12 +314,12 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto a V1 per la prima volta</p>
-        <p>Dopo l'aggiornamento, D2 deve essere risolto in V1</p>
+        <p>D1 verrà risolto per la prima volta a V1</p>
+        <p>Dopo l'aggiornamento, D2 verrà risolto in V1</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
-        <p>Dopo l'aggiornamento, il conteggio degli attivatori per D2 dovrebbe essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
+        <p>Dopo l'aggiornamento, il conteggio degli attivatori per D2 verrà aumentato di 1</p>
       </td>
     </tr>
     <tr>
@@ -335,12 +333,12 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 aggiorna WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto a V1 per la prima volta</p>
-        <p>Dopo l'aggiornamento, D2 deve essere risolto in V1</p>
-        <p>Dopo aver completato D1 e D2, indipendentemente da quali modifiche o ripubblicato D1, D2 non deve essere mostrato nuovamente a V1</p>
+        <p>D1 verrà risolto per la prima volta a V1</p>
+        <p>Dopo l'aggiornamento, D2 verrà risolto in V1</p>
+        <p>Dopo aver completato D1 e D2, indipendentemente da quali modifiche o ripubblicato D1, D2 non verrà mostrato nuovamente a V1</p>
       </td>
       <td>
-        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 devono essere aumentati di 1</p>
+        <p>Il conteggio del trigger, il conteggio del coinvolgimento e il conteggio completato per D1 verranno incrementati di 1</p>
         <p>Aggiorna dopo il completamento di D2, nessuna azione da intraprendere</p>
       </td>
     </tr>
@@ -350,10 +348,10 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto ma non verrà attivato su V1</p>
-        <p>Dopo 30 secondi, D1 deve essere mostrato/attivato su V1</p>
+        <p>D1 verrà risolto ma non verrà attivato su V1</p>
+        <p>Dopo 30 secondi, D1 verrà mostrato/attivato a V1</p>
       </td>
-      <td>Il conteggio del trigger per D1 dovrebbe essere aumentato di 1 solo dopo 30+ secondi trascorsi sulla pagina web</td>
+      <td>Il conteggio degli attivatori per D1 verrà aumentato di 1 solo dopo 30+ secondi trascorsi sulla pagina web</td>
     </tr>
     <tr>
       <td>
@@ -361,10 +359,10 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP1, WP2</p>
       </td>
       <td>
-        <p>D1 deve essere risolto ma non verrà attivato su V1</p>
-        <p>Dopo 30 secondi, D1 deve essere mostrato/attivato su V1</p>
+        <p>D1 verrà risolto ma non verrà attivato su V1</p>
+        <p>Dopo 30 secondi, D1 verrà mostrato/attivato a V1</p>
       </td>
-      <td>Il conteggio del trigger per D1 dovrebbe essere aumentato di 1 solo dopo 30+ secondi trascorsi sulla pagina web</td>
+      <td>Il conteggio degli attivatori per D1 verrà aumentato di 1 solo dopo 30+ secondi trascorsi sulla pagina web</td>
     </tr>
     <tr>
       <td>
@@ -372,10 +370,10 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP1</p>
       </td>
       <td>
-        <p>D1 deve essere risolto ma non verrà attivato su V1</p>
-        <p>Dopo lo scorrimento del 50%, D1 deve essere mostrato/attivato a V1</p>
+        <p>D1 verrà risolto ma non verrà attivato su V1</p>
+        <p>Dopo lo scorrimento del 50%, D1 verrà mostrato/attivato a V1</p>
       </td>
-      <td>Il numero di trigger per D1 deve essere aumentato di 1 solo dopo lo scorrimento del 50%</td>
+      <td>Il numero di trigger per D1 verrà aumentato di 1 solo dopo lo scorrimento del 50%</td>
     </tr>
     <tr>
       <td>
@@ -384,11 +382,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 visita WP1, dopo 10 secondi V1 visita WP2, V1 visita WP1</p>
       </td>
       <td>
-        <p>Su WP1, D1 dovrebbe essere risolto ma non verrà attivato su V1</p>
-        <p>Su WP2, D2 dovrebbe essere risolto ma non verrà attivato su V1</p>
-        <p>Su WP1, D1 deve essere risolto e dopo 20 secondi D1 deve essere attivato su V1</p>
+        <p>Su WP1, D1 verrà risolto ma non verrà attivato su V1</p>
+        <p>Su WP2, D2 verrà risolto ma non verrà attivato su V1</p>
+        <p>Su WP1, D1 verrà risolto e dopo 20 secondi D1 verrà attivato su V1</p>
       </td>
-      <td>Il numero di attivatori per D1 dovrebbe essere aumentato di 1 solo dopo 30 secondi</td>
+      <td>Il conteggio degli attivatori per D1 verrà aumentato di 1 solo dopo 30 secondi</td>
     </tr>
     <tr>
       <td>
@@ -397,11 +395,11 @@ Di seguito sono riportati diversi scenari possibili che delineano il comportamen
         <p>V1 chiude il WP1 e ritorna al WP1 2 giorni dopo</p>
       </td>
       <td>
-        <p>D1 deve essere mostrato automaticamente a V1 in quanto hanno già soddisfatto i criteri di attivazione durante la sessione precedente</p>
-        <p>La stessa logica dovrebbe essere applicata a "Time on Page" e "page Scroll Percentuali"</p>
+        <p>D1 verrà mostrato automaticamente a V1 in quanto hanno già soddisfatto i criteri di attivazione durante la sessione precedente</p>
+        <p>La stessa logica si applica a "Time on Page" (Tempo sulla pagina) e a "page Scroll Percentuali" (Percentuale di scorrimento della pagina)</p>
       </td>
       <td>
-        <p>Il numero di trigger per D1 deve essere aumentato di 1</p>
+        <p>Il numero di trigger per D1 verrà aumentato di 1</p>
         <p>Dopo il ritorno, nessuna azione da intraprendere</p>
       </td>
     </tr>
