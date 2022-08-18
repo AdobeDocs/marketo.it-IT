@@ -2,9 +2,9 @@
 description: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Inviare un segmento Adobe Experience Platform a un elenco statico di Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Questa funzione ti consente di inviare in push a Marketo i segmenti situati nel 
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Immettere una destinazione **Nome** e una descrizione facoltativa. Fai clic sul menu a discesa Creazione persona e scegli &quot;Fai corrispondere le persone esistenti di Marketo e crea le persone mancanti in Marketo&quot; _o_ &quot;Solo persone Marketo esistenti&quot; In questo esempio scegliamo il primo. Facoltativamente, puoi anche scegliere un’area di lavoro o semplicemente scegliere quella predefinita.
+1. Immettere una destinazione **Nome** e una descrizione facoltativa. Fai clic sul menu a discesa Creazione persona e scegli &quot;Fai corrispondere le persone esistenti di Marketo e crea le persone mancanti in Marketo&quot; _o_ &quot;Match Existing Marketo People Only&quot; (Solo persone esistenti in) (in questo esempio scegliamo il primo). È inoltre necessario scegliere un **Area di lavoro**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
