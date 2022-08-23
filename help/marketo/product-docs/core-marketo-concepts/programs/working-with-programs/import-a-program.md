@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importare un programma - Documentazione Marketo - Documentazione del prodotto
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Un programma può essere importato da un abbonamento Marketo a un altro. Ad esempio, puoi creare un programma in una sandbox e importarlo nell’abbonamento live. È inoltre possibile importare un programma predefinito dalla libreria dei programmi Marketo.
 
-## Importare un programma {#import-a-program-1}
+## Importazione di un programma {#importing-a-program}
 
 1. Vai a **Attività di marketing.**
 
@@ -46,6 +46,10 @@ Un programma può essere importato da un abbonamento Marketo a un altro. Ad esem
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >Importazione di un programma che utilizza passaggi di flusso personalizzati o regole di elenchi avanzati derivate da un servizio di passaggi del flusso in un&#39;istanza di destinazione in cui sono presenti più provider di servizi compatibili, all&#39;utente importatore verrà richiesto di assegnare passaggi o regole al provider di servizi corretto nell&#39;istanza di destinazione.
+
 1. Anteprima dettagli e **Importa** il programma.
 
    ![](assets/import-a-program-6.png)
@@ -54,7 +58,7 @@ Al termine dell’importazione riceverai un messaggio e-mail di conferma.
 
 >[!NOTE]
 >
->Sarà necessario riprogrammare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
+>Sarà necessario ripianificare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
 
 ## Identificare i programmi predefiniti nella libreria dei programmi Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 

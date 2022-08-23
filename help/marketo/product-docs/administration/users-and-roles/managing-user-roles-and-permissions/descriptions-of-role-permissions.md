@@ -3,10 +3,9 @@ unique-page-id: 6848747
 description: Descrizioni delle autorizzazioni del ruolo - Documenti Marketo - Documentazione del prodotto
 title: Descrizioni delle autorizzazioni del ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1146'
 ht-degree: 0%
 
 ---
@@ -23,11 +22,11 @@ Alcune informazioni aggiuntive sulle autorizzazioni:
 
 ## Autorizzazioni disponibili {#available-permissions}
 
-Quando [crei o modifichi un ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puoi selezionare le seguenti autorizzazioni per consentire tale ruolo selezionando le caselle appropriate.
+Quando [creare o modificare un ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puoi selezionare le seguenti autorizzazioni per consentire tale ruolo selezionando le caselle appropriate.
 
 ![](assets/createnewrole.png)
 
-## Amministratore di accesso {#access-admin}
+## Amministratore di accesso  {#access-admin}
 
 Visualizza e apporta modifiche alle impostazioni nella sezione Account personale di Admin.
 
@@ -59,9 +58,9 @@ Visualizza e apporta modifiche alle impostazioni nella sezione Account personale
 * Accedere ai webhook - Consente agli utenti di accedere ai webhook in Amministratore per impostare dettagli e mappature di risposta
 * Accesso a aree di lavoro e partizioni : consente agli utenti di creare, modificare ed eliminare aree di lavoro e partizioni in Admin
 
-## API di accesso {#access-api}
+## API di accesso  {#access-api}
 
-Consente agli utenti con l&#39;accesso **Solo API** **Ruolo** alle singole API elencate di seguito.
+Fornisce agli utenti **Solo API** **Ruolo** accedere alle singole API elencate di seguito.
 
 * Approvare le risorse
 * Esegui campagna
@@ -94,19 +93,19 @@ Consente agli utenti di accedere alle schede Analytics, a Approfondimenti e-mail
 * Elimina rapporto : se si deseleziona, l’utente non potrà più eliminare i rapporti
 * Esportare i dati di Analytics - Deselezionare l’opzione per rimuovere la possibilità dell’utente di esportare i dati di Analytics
 
-## Accedi a Presentations calendario {#access-calendar-presentations}
+## Calendario di accesso Presentations {#access-calendar-presentations}
 
 Consente agli utenti di accedere alle presentazioni Calendario - consente la visualizzazione del pulsante Presentations in basso.
 
 * Modifica Presentations calendario - Consente agli utenti di modificare le presentazioni nel Calendario
 
-## Accesso a Design Studio {#access-design-studio}
+## Access Design Studio {#access-design-studio}
 
 Consente agli utenti di accedere alla scheda e alla visualizzazione della struttura di Design Studio, ma non ai dettagli.
 
 * Accesso a e-mail
    * Modifica e-mail : consente agli utenti di modificare, creare e duplicare le e-mail
-      * Rendi l’e-mail operativa : consente agli utenti di rendere operativa un’e-mail. Vedi: [Rendere un&#39;e-mail operativa](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Rendi l’e-mail operativa : consente agli utenti di rendere operativa un’e-mail. Vedi: [Rendere operativa un’e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Approva e-mail : consente agli utenti di approvare le e-mail.
       * Elimina e-mail : consente agli utenti di eliminare le e-mail.
@@ -120,6 +119,7 @@ Consente agli utenti di accedere alla scheda e alla visualizzazione della strutt
 
 * Modulo di accesso
 
+   * Approva modulo
    * Elimina modulo
    * Modifica modulo - Modifica, creazione e duplicazione di moduli
 
@@ -152,7 +152,7 @@ Consente agli utenti di accedere alla scheda e alla visualizzazione della strutt
    * Elimina app social
    * Modifica app social
 
-## Database di accesso {#access-database}
+## Database di Access {#access-database}
 
 Visualizzare il database, nonché visualizzare e modificare gli elenchi smart/statici.
 
@@ -170,7 +170,7 @@ Visualizzare il database, nonché visualizzare e modificare gli elenchi smart/st
 * Importa oggetto personalizzato
 * Importa elenco
 * Unisci persone
-* Esegui azioni a flusso singolo : consente agli utenti di eseguire il passaggio di flusso **Modifica valore dati** sulle persone provenienti dal database
+* Eseguire azioni a flusso singolo - Consente agli utenti di eseguire **Modifica valore dati** passaggio di flusso sulle persone dal database
 
 * Visualizza dati opportunità : nasconde le informazioni sulle opportunità nella pagina dei dettagli della persona
 
