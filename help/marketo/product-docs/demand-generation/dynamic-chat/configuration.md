@@ -2,9 +2,9 @@
 description: Configurazione - Documentazione Marketo - Documentazione del prodotto
 title: Configurazione
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ L’ancoraggio consente al visitatore del sito di aprire/chiudere la casella di 
 
 **Impostazioni agente**
 
-In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di controllo (ad esempio: &quot;Punto Adobe&quot;) che apparirà in cima ad esso. Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat.
+In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di controllo (ad esempio: &quot;Punto Adobe&quot;) che apparirà in cima ad esso. Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat. Per caricare la tua immagine avatar, fai clic sul pulsante **+** pulsante .
 
 ![](assets/configuration-5.png)
 
