@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: Guida introduttiva - Documenti Marketo - Documentazione del prodotto
 title: Introduzione
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
@@ -22,7 +22,7 @@ Cos&#39;è Marketo che ti chiedi? Grande domanda!
 
 Con un piccolo aiuto del team IT, è possibile farlo in poco tempo.
 
-[Avvia configurazione](/help/marketo/getting-started/setup-steps.md)
+[Avvia configurazione](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## PASSAGGIO 3 Ottieni alcune vincite rapide {#get-some-quick-wins}
 
@@ -35,7 +35,7 @@ Completa queste missioni per scoprire le funzionalità principali di Marketo.
       <img alt="Connetti" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Imposta e aggiungi una persona</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configurazione e aggiunta di una persona</a>
     </div>
     <br>
   </td>
@@ -43,7 +43,7 @@ Completa queste missioni per scoprire le funzionalità principali di Marketo.
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="Importa" src="getting-started/assets/getting-started-2.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Invia un'e-mail</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Invia un messaggio e-mail</a>
     </div>
     <br>
   </td>
@@ -89,7 +89,7 @@ Completa queste missioni per scoprire le funzionalità principali di Marketo.
       <img alt="Connetti" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drip Nurture</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Indurimento a goccia</a>
     </div>
     <br>
   </td>
@@ -97,7 +97,7 @@ Completa queste missioni per scoprire le funzionalità principali di Marketo.
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="Importa" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizza un'e-mail</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizzare un’e-mail</a>
     </div>
     <br>
   </td>
@@ -106,7 +106,7 @@ Completa queste missioni per scoprire le funzionalità principali di Marketo.
       <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisa il rappresentante commerciale</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisare il rappresentante commerciale</a>
     </div>
     <br>
   </td>

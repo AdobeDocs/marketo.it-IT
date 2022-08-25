@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Lista di controllo per l'installazione - Documenti Marketo - Documentazione del prodotto
 title: Elenco di controllo per l'installazione
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Elenco di controllo per l&#39;installazione {#setup-checklist}
 
-Benvenuto/a in Marketo! Puoi usare la seguente lista di controllo come elenco di cose da fare visivo per iniziare. I dettagli sono disponibili in [Passaggi di configurazione](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
+Benvenuto/a in Marketo! Puoi usare la seguente lista di controllo come elenco di cose da fare visivo per iniziare. I dettagli sono disponibili in [Passaggi di configurazione](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Accedi a Marketo e crea altri utenti {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Benvenuto/a in Marketo! Puoi usare la seguente lista di controllo come elenco di
 
 >[!MORELIKETHIS]
 >
->[Passaggi di configurazione](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[Passaggi di configurazione](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
