@@ -3,21 +3,20 @@ unique-page-id: 11377392
 description: Modificare il dominio di branding predefinito - Documenti Marketo - Documentazione del prodotto
 title: Modifica del dominio di branding predefinito
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Modifica il dominio di branding predefinito {#edit-your-default-branding-domain}
+# Modifica del dominio di branding predefinito {#edit-your-default-branding-domain}
 
 La modifica del dominio di branding predefinito è il primo passaggio nell’utilizzo dei domini di branding.
 
 >[!PREREQUISITES]
 >
->Assicurati di aver [configurato un CNAME nel DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) prima di aggiungere i domini di branding in Marketo.
+>Assicurati di [configurare un CNAME nel DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) prima di aggiungere i domini di branding in Marketo.
 
 1. Vai a **Amministratore** e fai clic su **E-mail**.
 
@@ -35,4 +34,4 @@ La modifica del dominio di branding predefinito è il primo passaggio nell’uti
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Ora puoi [aggiungere tutti i domini di branding aggiuntivi](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) necessari.
+Ora puoi [aggiungi altri domini di branding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) avete bisogno di.

@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Passaggi di configurazione - Documentazione Marketo - Documentazione del prodotto
 title: Passaggi di configurazione
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ Ora hai tutte le informazioni necessarie per inviare la tua richiesta all&#39;IT
 
 Una volta raccolte tutte le informazioni necessarie, puoi inviare una richiesta all’IT. È possibile utilizzare il testo seguente come modello, sostituendo il testo in grassetto con le proprie informazioni.
 
-[Includi un collegamento a questo articolo](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Includi un collegamento a questo articolo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 Incolla questo testo nell’e-mail e sostituisci i segnaposto con grassetto:
 
