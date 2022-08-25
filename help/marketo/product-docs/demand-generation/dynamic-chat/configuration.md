@@ -2,10 +2,10 @@
 description: Configurazione - Documentazione Marketo - Documentazione del prodotto
 title: Configurazione
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '319'
+ht-degree: 1%
 
 ---
 
@@ -40,6 +40,10 @@ L’ancoraggio consente al visitatore del sito di aprire/chiudere la casella di 
 In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di controllo (ad esempio: &quot;Punto Adobe&quot;) che apparirà in cima ad esso. Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat. Per caricare la tua immagine avatar, fai clic sul pulsante **+** pulsante .
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>Gli avatar personalizzati devono essere immagini quadrate inferiori a 256 kb e inferiori a 200x200 px. I tipi di file supportati sono: .jpg, .png, .gif, .webp, .svg.
 
 Al termine della modifica, ricorda di fare clic su **Salva**.
 
