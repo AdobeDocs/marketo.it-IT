@@ -2,16 +2,16 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
+source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
 # Interruttore {#toggle-switch}
 
-L&#39;interruttore di attivazione/disattivazione consente di passare dall&#39;interfaccia classica di Marketo all&#39;esperienza di Marketo Engage di nuova generazione. È disponibile in tutte le aree evidenziate di seguito. A partire dalla versione di maggio 2022, l’esperienza di nuova generazione sarà abilitata per impostazione predefinita.
+L&#39;interruttore di attivazione/disattivazione consente di passare dall&#39;interfaccia classica di Marketo all&#39;esperienza di Marketo Engage di nuova generazione. È disponibile in tutte le aree evidenziate di seguito.
 
 >[!NOTE]
 >
@@ -33,132 +33,37 @@ Abilita l’interruttore di attivazione/disattivazione per i singoli ruoli o tut
 
    ![](assets/toggle-switch-3.png)
 
-## Visualizzazione a elenco pagina di destinazione {#landing-page-list-view}
+## Abilita per funzionalità {#enable-for-features}
 
-La visualizzazione a elenco Pagina di destinazione di prossima generazione offre i filtri di ricerca e la possibilità di eseguire azioni di massa Pagina di destinazione.
+È possibile abilitare manualmente l’interfaccia di nuova generazione di Marketo per le singole funzioni o tutte le funzioni disponibili (attuali e future).
 
-1. In Marketo, seleziona **Design Studio**.
+In un’area che al momento dispone dell’interruttore di attivazione/disattivazione (in questo esempio è disponibile la visualizzazione elenco e-mail), fai clic sull’interruttore in basso a destra della pagina.
 
-   ![](assets/toggle-switch-4.png)
-
-1. Seleziona **Pagine di destinazione**.
-
-   ![](assets/toggle-switch-5.png)
-
-1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
-
-   ![](assets/toggle-switch-6.png)
+![](assets/toggle-switch-4.png)
 
 La nuova esperienza verrà caricata.
+
+![](assets/toggle-switch-5.png)
+
+Per attivarlo _tutto_ feature, fate clic sull&#39;icona a forma di ingranaggio accanto all&#39;interruttore di attivazione/disattivazione.
+
+![](assets/toggle-switch-6.png)
+
+Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
 
 ![](assets/toggle-switch-7.png)
 
-## Visualizzazione dei dettagli della pagina di destinazione {#landing-page-details-view}
+## Funzioni disponibili {#available-features}
 
-1. In Marketo, trova e seleziona la tua pagina di destinazione.
+Le seguenti funzioni sono attualmente disponibili nell’interfaccia di nuova generazione di Marketo (con nuove funzioni aggiunte a ogni versione):
 
-   ![](assets/toggle-switch-8.png)
-
-1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
-
-   ![](assets/toggle-switch-9.png)
-
-La nuova esperienza verrà caricata.
-
-![](assets/toggle-switch-10.png)
-
-## Pagina dei dettagli del modulo {#form-details-page}
-
-1. In Marketo, trovare e selezionare il modulo.
-
-   ![](assets/toggle-switch-11.png)
-
-1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
-
-   ![](assets/toggle-switch-12.png)
-
-La nuova esperienza verrà caricata.
-
-![](assets/toggle-switch-13.png)
-
-## Visualizzazione a elenco moduli {#form-list-view}
-
-1. In Marketo, seleziona **Design Studio**.
-
-   ![](assets/toggle-switch-14.png)
-
-1. Seleziona **Forms**.
-
-   ![](assets/toggle-switch-15.png)
-
-1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
-
-   ![](assets/toggle-switch-16.png)
-
-La nuova esperienza verrà caricata.
-
-![](assets/toggle-switch-17.png)
-
-## Visualizzazione dettagli modello e-mail {#email-template-details-view}
-
-1. In Marketo, seleziona **Design Studio**.
-
-   ![](assets/toggle-switch-18.png)
-
-1. Seleziona il modello e-mail desiderato.
-
-   ![](assets/toggle-switch-19.png)
-
-1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
-
-   ![](assets/toggle-switch-20.png)
-
-La nuova esperienza verrà caricata.
-
-![](assets/toggle-switch-21.png)
-
-## Visualizzazione dettagli e-mail {#email-details-view}
-
-1. In Marketo, trova e seleziona il tuo messaggio e-mail.
-
-   ![](assets/toggle-switch-22.png)
-
-1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
-
-   ![](assets/toggle-switch-23.png)
-
-La nuova esperienza verrà caricata.
-
-![](assets/toggle-switch-24.png)
-
-## Visualizzazione a elenco e-mail {#email-list-view}
-
-La visualizzazione elenco e-mail di nuova generazione offre filtri di ricerca e la possibilità di eseguire azioni e-mail di massa.
-
-1. In Marketo, seleziona **Design Studio**.
-
-   ![](assets/toggle-switch-25.png)
-
-1. Seleziona **E-mail**.
-
-   ![](assets/toggle-switch-26.png)
-
-1. In basso a destra della pagina, fai clic sul pulsante **Nuova esperienza** alternare.
-
-   ![](assets/toggle-switch-27.png)
-
-La nuova esperienza verrà caricata.
-
-![](assets/toggle-switch-28.png)
-
-## Abilita per tutte le funzionalità {#enable-for-all-features}
-
-È possibile abilitare manualmente l&#39;interfaccia di nuova generazione di Marketo per tutte le funzioni disponibili, attuali e future.
-
-1. In un&#39;area che al momento dispone dell&#39;interruttore di attivazione/disattivazione (in questo esempio ci troviamo in [Pagina dei dettagli del modulo](#form-details-page)), fai clic sull’icona a forma di ingranaggio in basso a destra della pagina.
-
-   ![](assets/toggle-switch-second-last.png)
-
-1. Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
-
-   ![](assets/toggle-switch-last.png)
+* Visualizzazione dettagli e-mail
+* Visualizzazione a elenco e-mail
+* Visualizzazione dettagli modello e-mail
+* Visualizzazione dashboard di test e-mail
+* Visualizzazione dettagli modulo
+* Visualizzazione a elenco moduli
+* Pagina Dettagli immagini e file
+* Visualizzazione dei dettagli della pagina di destinazione
+* Visualizzazione a elenco pagina di destinazione
+* Visualizzazione dettagli frammento
