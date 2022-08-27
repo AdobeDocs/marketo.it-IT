@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: Inviare un’e-mail - Documenti Marketo - Documentazione del prodotto
 title: Invia un messaggio e-mail
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 1. Vai a **Attività di marketing** area.
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. Seleziona la tua **Apprendimento** cartella. Fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuovo programma**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. Inserisci un **Nome** e seleziona **E-mail** per **Tipo di programma.**
 
@@ -34,29 +34,29 @@ ht-degree: 0%
    >
    >Aggiungi le iniziali alla fine del nome del programma per renderlo univoco.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. Sotto **Canale**, seleziona **Invia e-mail** e fai clic su **Crea**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## Definire il pubblico {#define-your-audience}
 
 1. Fai clic su **Modifica elenco avanzato** sotto la sezione Pubblico .
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
-1. Trova e trascina il filtro Indirizzo e-mail nell’area di lavoro.
+1. Trova e trascina il filtro Indirizzo e-mail sull’area di lavoro.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Utilizzo **Ricerca** nella parte superiore dell’elenco Filtri per trovare più facilmente il filtro.
+   >Utilizza la **Ricerca** per trovare più facilmente i filtri.
 
 1. Trova e seleziona il tuo indirizzo e-mail.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 1. Torna alla scheda del programma principale e fai clic sull&#39;icona di aggiornamento per **Persona**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    Dovresti vedere il numero di persone salire fino a 1. Sei tu!
 
@@ -76,15 +76,15 @@ ht-degree: 0%
 
 1. Sotto il riquadro E-mail fai clic su **Nuovo messaggio e-mail**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. Inserisci un **Nome**, seleziona un **Modello** e fai clic su **Crea**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. Viene aperta la finestra dell’editor e-mail. Inserisci un oggetto con un massimo di 50 caratteri (consigliato).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ ht-degree: 0%
 
 1. Seleziona l’area da modificare, fai clic sull’icona a forma di ingranaggio a destra, quindi seleziona **Modifica** (puoi anche fare doppio clic sulla sezione modificabile da modificare).
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. Inserisci il contenuto desiderato e fai clic su **Salva**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. Le modifiche verranno salvate automaticamente. Chiudi la scheda/finestra dell’editor.
+1. Fai clic sul pulsante **Azioni e-mail** a discesa e seleziona **Approva e chiudi**.
 
-   ![](assets/fourteen.png)
-
-1. Fai clic sul pulsante **Azioni e-mail** a discesa e seleziona **Approva**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ ht-degree: 0%
 
 1. Seleziona il programma e-mail nella struttura a sinistra.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. Nella sezione Pianificazione , imposta il giorno di lancio dell’e-mail su **Oggi.**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >Ulteriori informazioni [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} e [Inizio testina](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
 
 1. Seleziona un&#39;ora che sarà di almeno 15 minuti in futuro.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 1. Fai clic su **Approva programma** sotto la sezione Approvazione e avete finito!
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 Dovresti ricevere l’e-mail poco dopo il giorno/ora pianificati.
 
