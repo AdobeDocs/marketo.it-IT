@@ -1,9 +1,10 @@
 ---
 description: Note sulla versione - Giugno 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Giugno 2022
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -75,4 +76,4 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **24 giugno 2022**,
 
 **_Webinar sulla versione del prodotto_**
 
-Unisciti a noi il 24 agosto 2022, alle 9:00 PT / 12:00 PM ET per un [webinar dal vivo](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} ospitato dal nostro team di prodotti per scoprire come utilizzare tutte le ultime innovazioni dei prodotti.
+[Webinar sul rilascio del Marketo Engage giugno e agosto 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}

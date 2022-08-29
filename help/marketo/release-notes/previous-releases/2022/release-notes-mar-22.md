@@ -1,16 +1,17 @@
 ---
 description: Note sulla versione - Marzo 2022 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Marzo 2022
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: 91826d56-a38e-44af-b798-17bfc016c311
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
 
 # Note sulla versione: Marzo 2022 {#release-notes-mar-22}
 
-Le seguenti funzionalità sono incluse nella versione del 22 marzo 2012. Per informazioni sulla disponibilità delle funzioni, consulta l’edizione del Marketo Engage di Adobe.
+Le seguenti funzionalità sono incluse nella versione del 22 marzo 2012. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
 
 >[!AVAILABILITY]
 >
@@ -76,4 +77,4 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 **_Webinar sulla versione del prodotto_**
 
-Unisciti a noi l&#39;11 maggio 2022, alle 9:00 PT / 12:00 PM ET per un [webinar dal vivo](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) ospitato dal nostro team di prodotti, dove potrai scoprire come utilizzare tutte le ultime innovazioni dei prodotti.
+[Webinar sul rilascio del Marketo Engage di marzo e maggio 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}

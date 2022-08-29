@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **26 agosto 2022**,
 
 **_Webinar sulla versione del prodotto_**
 
-Unisciti a noi il 24 agosto 2022, alle 9 PT / 12:00 PM ET per un [webinar dal vivo](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} ospitato dal nostro team di prodotti per scoprire come utilizzare tutte le ultime innovazioni dei prodotti.
+[Webinar sul rilascio del Marketo Engage giugno e agosto 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
