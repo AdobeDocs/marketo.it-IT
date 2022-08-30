@@ -2,7 +2,7 @@
 description: Configurazione - Documentazione Marketo - Documentazione del prodotto
 title: Configurazione
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Sono disponibili diverse opzioni di personalizzazione.
 
 ## Scheda Stile {#style-tab}
 
-**Stile**
+### Stile {#style}
 
 Qui è dove si definirà l&#39;aspetto e la sensazione del chatbot in cui verranno mostrati i dialoghi, tra cui: colori, caratteri, posizionamento del widget bot e nome/avatar del chatbot.
 
@@ -35,7 +35,7 @@ L’ancoraggio consente al visitatore del sito di aprire/chiudere la casella di 
 
 ![](assets/configuration-4.png)
 
-**Impostazioni agente**
+### Impostazioni agente {#agent-settings}
 
 In Impostazioni agente puoi aggiungere un&#39;etichetta alla tua casella di controllo (ad esempio: &quot;Punto Adobe&quot;) che apparirà in cima ad esso. Puoi anche determinare il ritardo di risposta (in secondi) e cambiare l&#39;avatar della chat. Per caricare la tua immagine avatar, fai clic sul pulsante **+** pulsante .
 
