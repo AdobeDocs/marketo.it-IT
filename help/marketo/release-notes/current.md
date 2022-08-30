@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **26 agosto 2022**,
 
 ## Orchestrazione tra canali {#cross-channel-orchestration}
 
-* **Attiva/disattiva tutte le finestre di dialogo pubblicate contemporaneamente per la chat dinamica**: Attiva/disattiva globalmente tutte le finestre di dialogo pubblicate contemporaneamente dalla pagina Configurazione premendo un pulsante.
+* **[Attiva/disattiva tutte le finestre di dialogo pubblicate contemporaneamente per la chat dinamica](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Attiva/disattiva globalmente tutte le finestre di dialogo pubblicate contemporaneamente dalla pagina Configurazione premendo un pulsante.
 
 * **Avatar personalizzati per chat dinamica**: Carica un avatar chatbot personalizzato in modo che possa essere personalizzato sul tuo marchio.
 
