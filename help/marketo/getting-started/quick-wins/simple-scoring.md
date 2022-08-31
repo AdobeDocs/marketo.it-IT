@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Punteggio semplice - Documenti Marketo - Documentazione del prodotto
 title: Punteggio semplice
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 10637f7853c5b0f8a076779d95b8163b2de8abcb
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -22,57 +22,57 @@ ht-degree: 0%
 
 1. Vai a **Attività di marketing** area.
 
-   ![](assets/ma-1.png)
+   ![](assets/simple-scoring-1.png)
 
 1. Fai clic con il pulsante destro del mouse sul **Apprendimento** e fai clic su **Nuova cartella campagna**.
 
-   ![](assets/two-2.png)
+   ![](assets/simple-scoring-2.png)
 
-1. Denomina la cartella della campagna &quot;Punteggio&quot;.
+1. Denomina la cartella della campagna &quot;Punteggio&quot; e fai clic su **Crea**.
 
-   ![](assets/three-1.png)
+   ![](assets/simple-scoring-3.png)
 
    >[!NOTE]
    >
    >Se disponi già di una cartella Punteggio, assegna un nome diverso a questa, ad esempio Punteggio 1. I nomi delle cartelle devono essere univoci.
 
-1. Quindi fai clic con il pulsante destro del mouse sul nuovo **Punteggio** e seleziona **Nuova campagna Smart**.
+1. Fai clic con il pulsante destro del mouse sul **Punteggio** e seleziona **Nuova campagna Smart**.
 
-   ![](assets/four.png)
+   ![](assets/simple-scoring-4.png)
 
-1. **Nome** la campagna &quot;Cambia punteggio&quot; e fai clic su **Crea**.
+1. Denomina la campagna &quot;Cambia punteggio&quot; e fai clic su **Crea**.
 
-   ![](assets/five-1.png)
+   ![](assets/simple-scoring-5.png)
 
 1. Fai clic sul pulsante **Elenco avanzato** scheda .
 
-   ![](assets/six-1.png)
+   ![](assets/simple-scoring-6.png)
 
    Vogliamo che questa campagna venga eseguita ogni volta che una persona compila il tuo **Modulo di richiesta di prova**.
 
 1. Trova e trascina **Riempie il modulo** attivarsi sull&#39;area di lavoro sinistra.
 
-   ![](assets/image2014-9-24-11-3a43-3a35.png)
+   ![](assets/simple-scoring-7.png)
 
 1. Seleziona **Modulo personale**.
 
+   ![](assets/simple-scoring-8.png)
+
    >[!NOTE]
    >
-   >Se hai completato la [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida è necessario disporre del modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
-
-   ![](assets/image2014-9-24-11-3a44-3a16.png)
+   >Se hai completato la [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida, è necessario disporre del modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
 
 1. Fai clic sul pulsante **Flusso** scheda .
 
-   ![](assets/image2014-9-24-11-3a44-3a33.png)
+   ![](assets/simple-scoring-9.png)
 
 1. Trascina **Cambia punteggio** scorrere l&#39;azione sull&#39;area di lavoro sinistra.
 
-   ![](assets/image2014-9-24-11-3a44-3a45.png)
+   ![](assets/simple-scoring-10.png)
 
 1. Puoi digitare qualsiasi valore da aggiungere al punteggio della persona. Immetti &quot;+5&quot; nel campo **Modifica** campo .
 
-   ![](assets/eleven-1.png)
+   ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
@@ -80,11 +80,11 @@ ht-degree: 0%
 
 1. Fai clic sul pulsante **Pianificazione** e **Attiva** pulsante .
 
-   ![](assets/twelve-1.png)
+   ![](assets/simple-scoring-12.png)
 
 1. Fai clic su **Attiva** nella schermata di conferma.
 
-   ![](assets/thirteen-1.png)
+   ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
@@ -94,15 +94,15 @@ ht-degree: 0%
 
 1. Seleziona la pagina di destinazione creata nella [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida.
 
-   ![](assets/fourteen-1.png)
+   ![](assets/simple-scoring-14.png)
 
-1. Fai clic su **Visualizza pagina approvata**. La pagina di destinazione viene aperta in una nuova scheda.
+1. Fai clic su **Anteprima**. La pagina di destinazione viene aperta in una nuova scheda.
 
-   ![](assets/image2014-9-24-11-3a47-3a51.png)
+   ![](assets/simple-scoring-15.png)
 
 1. Compila il modulo con il tuo nome, cognome e indirizzo e-mail, quindi fai clic su **Invia**.
 
-   ![](assets/image2014-9-24-11-3a47-3a59.png)
+   ![](assets/simple-scoring-16.png)
 
    >[!NOTE]
    >
@@ -112,19 +112,19 @@ ht-degree: 0%
 
 1. Passare all&#39;area Database.
 
-   ![](assets/db-2.png)
+   ![](assets/simple-scoring-17.png)
 
 1. Cercare l’indirizzo e-mail utilizzato durante la compilazione del modulo.
 
-   ![](assets/eighteen.png)
+   ![](assets/simple-scoring-18.png)
 
 1. Fai doppio clic sulla persona.
 
-   ![](assets/nineteen.png)
+   ![](assets/simple-scoring-19.png)
 
-I dettagli della persona verranno aperti in una nuova scheda o finestra. Vedi come il tuo punteggio è aumentato di 5 punti per compilare il modulo?!
+I dettagli della persona verranno aperti in una nuova scheda o finestra. Vedi come il tuo punteggio è aumentato di 5 punti per compilare il modulo?
 
-![](assets/twenty.png)
+![](assets/simple-scoring-20.png)
 
 ## Missione Completa! {#mission-complete}
 
