@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descrizioni delle autorizzazioni del ruolo - Documenti Marketo - Documentazione del prodotto
 title: Descrizioni delle autorizzazioni del ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
@@ -162,7 +162,6 @@ Visualizzare il database, nonché visualizzare e modificare gli elenchi smart/st
    * Elimina segmentazione
    * Modifica segmentazione
 
-* Importazione avanzata elenco
 * Elimina persona
 * Elimina elenco
 * Modifica persona : evita la modifica manuale ed esegui passaggi a flusso singolo; è comunque possibile modificare le persone mediante campagne
