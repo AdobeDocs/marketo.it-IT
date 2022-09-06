@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Documentazione del prodotto
 title: Asciugatura, Asciugatura, Alimentazione
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -26,35 +26,35 @@ ht-degree: 0%
 
 1. Vai a **Attività di marketing** area.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Seleziona la **Apprendimento** fai clic su **Nuovo** a discesa e seleziona **Nuovo programma**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Inserisci un **Nome** e seleziona **Coinvolgimento** per **Tipo di programma**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Assicurati che **Canale** campo **Infermiera** e fai clic su **Crea**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    Ora hai creato un programma di coinvolgimento.
 
 ## Passaggio 2: Creare un messaggio e-mail {#step-create-an-email}
 
-1. Seleziona il programma di coinvolgimento, quindi fai clic su **Nuovo** e seleziona **Nuova risorsa locale**.
+1. Seleziona il programma di coinvolgimento, fai clic su **Nuovo** e seleziona **Nuova risorsa locale**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Fai clic su **E-mail**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Inserisci un **Nome**, seleziona **Modello** si desidera utilizzare e fare clic su **Crea**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ ht-degree: 0%
 
 1. Inserisci un soggetto.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Seleziona l’area dell’e-mail da modificare, fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Modifica l’e-mail e fai clic su **Salva**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Chiudi la scheda/finestra dell’editor e-mail.
+1. Sotto **Azioni e-mail**, fai clic su **Approva e chiudi**.
 
-   ![](assets/eleven-3.png)
-
-1. Sotto **Azioni e-mail**, fai clic su **Approva**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >Non dimenticare di approvare le e-mail o non potrai attivarle in un secondo momento.
+   >Ricorda di approvare le e-mail o non potrai attivarle in un secondo momento.
 
-1. Ora crea un’altra e-mail ripetendo le azioni del passaggio 2.
+1. Ora crea un’altra e-mail ripetendo le azioni nei passaggi 2-7.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Passaggio 3: Aggiungi contenuto al flusso {#step-add-content-to-your-stream}
 
-1. Ora è il momento di creare un flusso di contenuti per il programma di coinvolgimento utilizzando le e-mail create.
+Ora è il momento di creare un flusso di contenuti per il programma di coinvolgimento utilizzando le e-mail create.
 
-1. Selezionare il programma di coinvolgimento e fare clic sul pulsante **Flussi** scheda .
+1. Seleziona il programma di coinvolgimento e fai clic sul pulsante **Flussi** scheda .
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Trascina le due e-mail create nell’area di lavoro destra.
+1. Fai clic sul pulsante **Aggiungi contenuto** nel flusso.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >È inoltre possibile utilizzare **Aggiungi contenuto** pulsante o flusso **+** icona.
+   >È inoltre possibile utilizzare **+** icona.
+
+1. Lascia selezionato il tipo &quot;E-mail&quot;. Trova e seleziona le due e-mail che hai creato.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Passaggio 4: Attiva contenuto flusso {#step-activate-stream-content}
 
 1. Attiva tutti i contenuti contemporaneamente facendo clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fai clic su **Attiva tutto il contenuto**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ ht-degree: 0%
 
 1. Fai clic su **Imposta cadenza flusso**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Modifica le impostazioni in base alla pianificazione desiderata e fai clic su **Salva**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Il tuo programma di coinvolgimento è pronto. Ora aggiungiamo una persona di prova al tuo programma.
 
@@ -136,23 +136,23 @@ ht-degree: 0%
 
 1. Vai a **Database** area.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Cerca la persona di prova.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Assicurati che la persona di prova disponga di un indirizzo e-mail valido in modo da poter confermare la ricezione delle e-mail durante il test.
 
-1. Fare clic con il pulsante destro del mouse sulla persona, quindi scegliere Programmi e Aggiungi al programma di coinvolgimento.
+1. Fai clic con il pulsante destro del mouse sulla persona, quindi fai clic su **Programmi** e **Aggiungi al programma di coinvolgimento**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Seleziona la tua **Programma** e **Flusso**, quindi fai clic su **Esegui ora**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. Missione Completa!
 

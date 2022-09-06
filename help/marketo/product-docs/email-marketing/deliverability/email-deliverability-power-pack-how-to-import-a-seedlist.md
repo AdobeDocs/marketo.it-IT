@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Power Pack di recapito messaggi e-mail - Come importare una lista di distribuzione - Marketo Docs - Documentazione del prodotto
 title: Power Pack di recapito messaggi e-mail - Come importare un elenco di messaggi
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ Un elenco di seed è un elenco di account e-mail in più provider di cassette po
 
 ## Importare un elenco di sementi {#import-a-seedlist}
 
-1. Vai a **Strumenti di consegna**.
+1. In My Marketo, seleziona **Strumenti di consegna**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. Fai clic su **Inviatore casella in entrata**.
 
