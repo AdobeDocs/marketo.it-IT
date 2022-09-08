@@ -1,93 +1,96 @@
 ---
 unique-page-id: 10096679
-description: Esempio di integrazione degli eventi ON24 - Documenti Marketo - Documentazione del prodotto
-title: Esempio di integrazione evento ON24
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Esempio di integrazione di eventi ON24 - Documenti Marketo - Documentazione del prodotto
+title: Esempio di integrazione di eventi ON24
+exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
+# Esempio di integrazione di eventi ON24 {#example-on-event-integration}
 
-# Esempio di integrazione evento ON24 {#example-on-event-integration}
+>[!IMPORTANT]
+>
+>A partire da agosto 2022, ON24 non supporta più nuove integrazioni Marketo. Le informazioni contenute in questo articolo si applicano solo agli utenti esistenti.
 
-Ecco un esempio di evento, incluse le campagne, per un webinar ON24. Quando create un evento, accertatevi di verificare le campagne prima di eseguirle.
+Ecco un evento di esempio, campagne incluse, per un webinar ON24. Quando crei l’evento, assicurati di testare le campagne prima di eseguirle.
 
-## Creazione di un nuovo evento nelle attività di marketing {#create-a-new-event-in-marketing-activities}
+## Creare un nuovo evento nelle attività di marketing {#create-a-new-event-in-marketing-activities}
 
-1. Selezionare **Nuovo** > **Nuovo programma**.
+1. Seleziona **Nuovo** > **Nuovo programma**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Selezionate una **cartella campagna** in cui l&#39;evento vivrà.
+1. Seleziona una **Cartella campagna** dove sarà live l&#39;evento.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Immettete un **Nome** per l&#39;evento.
+1. Inserisci un **Nome** per l&#39;evento.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Selezionare **Event** come **Tipo di programma**.
+1. Seleziona **Evento** come **Tipo di programma**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Selezionate **Webinar** come **Canale** per l&#39;evento.
+1. Seleziona **Webinar** come **Canale** per l&#39;evento.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Fare clic su **Crea**.
+1. Fai clic su **Crea**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
-## Invita (campagna batch) {#invite-batch-campaign}
+## Invita (campagna batch)  {#invite-batch-campaign}
 
-* **Elenco**  avanzato - Consente di definire chi invitare all’evento.
+* **Elenco avanzato** - Definisci chi inviti all’evento.
 * **Flusso**
 
-   * Invia e-mail: se si tratta di un messaggio e-mail di risorsa locale, avrà la seguente convenzione di denominazione: EventName.EmailName. Potete anche utilizzare e-mail globali.
-   * Modifica stato in progressione - Impostate su Webinar > Invitato.
+   * Invia e-mail : se si tratta di un’e-mail di risorsa locale, avrà la seguente convenzione di denominazione: EventName.EmailName. Puoi anche utilizzare le e-mail globali.
+   * Cambia stato in progressione - Imposta su Webinar > Invitato.
 
-* **Pianificazione** : imposta la data di invio dell&#39;invito.
+* **Pianificazione** - Imposta la data dell&#39;invito da inviare.
 
 ## Registrazione/conferma (Trigger Campaign) {#registration-confirmation-trigger-campaign}
 
-* **Smart List**
+* **Elenco avanzato**
 
-   * Attiva la campagna in base a **Compilazione del modulo**. Assicurarsi di includere la pagina di destinazione su cui si trova il modulo utilizzando **Aggiungi vincolo**, soprattutto se il modulo è utilizzato su più pagine di destinazione.
+   * Attiva la campagna in base a **Riempie il modulo**. Accertati di includere la pagina di destinazione in cui si trova il modulo utilizzando **Aggiungi vincolo**, soprattutto se il modulo viene utilizzato su più pagine di destinazione.
 
 >[!CAUTION]
 >
->È necessario utilizzare un modulo Marketo per registrare le persone per l&#39;evento, oppure un modulo non Marketo con l&#39;integrazione API corretta per inviare i dati di registrazione push a Marketo. Ciò è fondamentale per il successo dell&#39;integrazione dei partner evento. **NOTA**: Se si utilizza un modulo Marketo su una pagina di destinazione non Marketo, viene attivato  **Riempie il** modulo con il nome del modulo.
+>È necessario utilizzare un modulo Marketo per registrare le persone per l’evento, o un modulo non Marketo con l’integrazione API corretta per inviare i dati di registrazione push a Marketo. Questo è fondamentale per il successo dell’integrazione Event Partner. **NOTA**: Se utilizzi un modulo Marketo su una pagina di destinazione non Marketo, il trigger sarà **Riempie il modulo** con il nome del modulo.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Flusso**
 
-   * **Modifica stato in progressione** : impostate su Webinar > Registrato. **ATTENZIONE**: Questo passaggio di flusso è necessario per configurare la campagna figlio. Quando lo stato di progressione di una persona cambia in **Registrato**, Marketo invia le informazioni di registrazione a ON24.
+   * **Cambia stato in progressione** - Imposta su Webinar > Registrato. **ATTENZIONE**: Questo passaggio di flusso è necessario quando si imposta la campagna figlio. Quando lo stato di avanzamento di una persona cambia in **Registrato**, Marketo invia le informazioni di registrazione a ON24.
 
-   * **Invia e-mail**  - Messaggio e-mail di conferma (impostato su  **** Operatività) per ricevere le persone che si sono registrate.
+   * **Invia e-mail** - Messaggio e-mail di conferma (impostato su **Operativo** in modo che le persone non abbonate che si sono registrate lo ricevano ancora).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**NOTA**: Se la persona viene restituita con un errore di registrazione, non riceverà la conferma e-mail.
+**NOTA**: Se la persona viene restituita con un errore di registrazione, non riceverà la conferma via e-mail.
 
 ## Promemoria (campagna batch) {#reminder-batch-campaign}
 
-* **Smart List** - Filtrare utilizzando  **Member of** Programmazione e impostare lo stato su  **Registered**.
+* **Elenco avanzato** - Filtro con **Membro del programma** e imposta lo stato su **Registrato**.
 
-* **Flusso**  - Invia e-mail (e-mail promemoria).
+* **Flusso** - Invia e-mail (Promemoria E-Mail).
 
-**NOTA**: Potete utilizzare una campagna simile per inviare un&#39;e-mail di follow-up  ** diversa alle persone invitate ma che non si sono ancora registrate.
+**NOTA**: Puoi utilizzare una campagna simile per inviare un *diverso* e-mail di follow-up alle persone invitate ma non ancora registrate.
 
-## Campagna di follow-up (Batch o Trigger Campaign) {#follow-up-campaign-batch-or-trigger-campaign}
+## Campagna di follow-up (campagna batch o trigger) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Smart List** - Trigger in base alle modifiche dello stato del programma.
+* **Elenco avanzato** - Trigger in base alle modifiche allo stato del programma.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Flusso**  - Invia e-mail. Usa le opzioni per inviare e-mail diverse in base allo stato del programma.
+* **Flusso** - Invia e-mail. Utilizza le opzioni per inviare e-mail diverse in base allo stato del programma.
 
 ![](assets/ten.png)
 

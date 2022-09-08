@@ -3,14 +3,18 @@ unique-page-id: 10096675
 description: Creare campagne figlio e risorse locali - Documenti Marketo - Documentazione del prodotto
 title: Creare campagne figlio e risorse locali
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
 # Creare campagne figlio e risorse locali {#create-child-campaigns-and-local-assets}
+
+>[!IMPORTANT]
+>
+>A partire da agosto 2022, ON24 non supporta più nuove integrazioni Marketo. Le informazioni contenute in questo articolo si applicano solo agli utenti esistenti.
 
 Crea le tue campagne figlio e risorse locali utilizzando Design Studio.
 
