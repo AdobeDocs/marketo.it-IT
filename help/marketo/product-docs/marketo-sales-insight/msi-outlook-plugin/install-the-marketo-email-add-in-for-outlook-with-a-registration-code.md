@@ -1,35 +1,38 @@
 ---
 unique-page-id: 2949711
-description: Installa il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione - Documenti Marketo - Documentazione del prodotto
-title: Installa il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+description: Installa il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione - Marketo Docs - Documentazione del prodotto
+title: Installare il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
+source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
-
-# Installa il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installare il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Se gli utenti possono accedere alle impostazioni dell&#39;amministratore sul proprio laptop, puoi inviare loro direttamente un codice di registrazione.
 
-Se non hai ricevuto un messaggio e-mail di invito, chiedi all’amministratore di Marketo di invitarti.
+Se non hai ricevuto un messaggio e-mail di invito, chiedi al tuo amministratore Marketo di invitarti.
 
 >[!PREREQUISITES]
 >
->Devi essere [rilasciato una licenza del componente aggiuntivo Marketo Email](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Devi essere [ha rilasciato una licenza del componente aggiuntivo per e-mail di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+
+>[!IMPORTANT]
+>
+>L&#39;installazione non è supportata nei PC in cui la cartella Utente di Windows contiene caratteri non inglesi. Questa cartella viene generata automaticamente da Windows in <System Root>\Users\ in base al nome utente di Windows e può contenere caratteri non inglesi se il nome utente di Windows è un nome non inglese. Rivolgiti al tuo team IT per verificare se riscontri problemi di installazione.
 
 >[!NOTE]
 >
->A partire dal 20/1/10, la versione più recente del plug-in di Outlook non supporta più la modalità offline. Questo avrà effetto dopo l&#39;installazione/aggiornamento il o dopo 10/1.
+>Il 20/1/10, la versione più recente del plug-in di Outlook non supporta più la modalità offline.
 
 ## Download del programma di installazione {#download-installer}
 
-1. Identificare la [versione di Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifica le [Versione di Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 
-1. Fare clic sul collegamento per scaricare il programma di installazione appropriato per la versione in uso di Microsoft Outlook.
+1. Fare clic sul collegamento per scaricare il programma di installazione appropriato per la versione di Microsoft Outlook.
 
    >[!NOTE]
    >
@@ -50,7 +53,7 @@ Se non hai ricevuto un messaggio e-mail di invito, chiedi all’amministratore d
 
    *Versione Office 365: Solo client Windows (su Windows 10, Enterprise o Pro).
 
-## Copia il codice di registrazione {#copy-your-registration-code}
+## Copia il tuo codice di registrazione {#copy-your-registration-code}
 
 1. Copia il codice di registrazione dal messaggio e-mail di invito ricevuto.
 
@@ -70,11 +73,11 @@ Se non hai ricevuto un messaggio e-mail di invito, chiedi all’amministratore d
    >
    >Se ricevi un avviso di sicurezza, non ti preoccupare! Fai clic su **Esegui**.
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Compila **Nome**, **Cognome**, **Indirizzo e-mail**, quindi copia e incolla il **Codice di registrazione** dall&#39;e-mail nel modulo e fai clic su **Avanti**.
+1. Riempi **Nome**, **Cognome**, **Indirizzo e-mail**, quindi copia e incolla il **Codice di registrazione** dall’e-mail al modulo e fai clic su **Successivo**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -82,29 +85,29 @@ Se non hai ricevuto un messaggio e-mail di invito, chiedi all’amministratore d
    >
    >Se l&#39;installazione non riesce, controlla con il tuo reparto IT per assicurarti che il traffico HTTPS non sia bloccato. Il programma di installazione richiede l’apertura del traffico HTTPS.
 
-1. Fare clic su **Avanti** per eseguire l&#39;installazione nel percorso predefinito.
+1. Fai clic su **Successivo** da installare nel percorso predefinito.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Se ricevi una richiesta di protezione relativa a un editore sconosciuto, fai clic su **Sì**.
+   >Se ricevi una richiesta di protezione su un editore sconosciuto, fai clic su **Sì**.
 
-1. L&#39;installazione è ora completa, fare clic su **Chiudi**.
+1. L&#39;installazione è stata completata, fai clic su **Chiudi**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Aprire Microsoft Outlook e visualizzare i pulsanti Marketo.
+1. Ora aprire Microsoft Outlook e vedere i pulsanti Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
    Eccellente! Ora i pulsanti Marketo sono in un posto migliore.
 
-Ulteriori informazioni sull’utilizzo delle azioni Messaggio di Marketo e Registro con Marketo .
+Ulteriori informazioni sull&#39;utilizzo delle azioni Messaggio Marketo e Registro con Marketo.
 
 >[!MORELIKETHIS]
 >
