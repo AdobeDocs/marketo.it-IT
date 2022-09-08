@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installa il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione - Marketo Docs - Documentazione del prodotto
 title: Installare il componente aggiuntivo Marketo Email per Outlook con un codice di registrazione
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ Se non hai ricevuto un messaggio e-mail di invito, chiedi al tuo amministratore 
 
 >[!IMPORTANT]
 >
->L&#39;installazione non è supportata nei PC in cui la cartella Utente di Windows contiene caratteri non inglesi. Questa cartella viene generata automaticamente da Windows in <System Root>\Users\ in base al nome utente di Windows e può contenere caratteri non inglesi se il nome utente di Windows è un nome non inglese. Rivolgiti al tuo team IT per verificare se riscontri problemi di installazione.
+>L&#39;installazione non è supportata nei PC in cui la cartella Utente di Windows contiene caratteri non inglesi. Questa cartella viene generata automaticamente da Windows in `<System Root>\Users\` in base al nome utente di Windows e può contenere caratteri non inglesi se il nome utente di Windows è un nome non inglese. Rivolgiti al tuo team IT per verificare se riscontri problemi di installazione.
 
 >[!NOTE]
 >
