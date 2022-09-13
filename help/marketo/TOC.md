@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 0%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 0%
          + [Esportazione metadati oggetti personalizzati](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo con identità Adobe {#marketo-with-adobe-identity}
          + [Guida rapida](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [Panoramica](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [Panoramica di Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Configurazione amministratore](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Configurazione dell’amministratore del prodotto](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Aggiungi utente solo API per sottoscrizioni abilitate Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 0%
          + [Note sulla versione: Marzo 22](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [Note sulla versione: Maggio &#39;22](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [Note sulla versione: Giugno 22](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [Note sulla versione: Agosto &#39;22](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021 {#2021}
          + [Note sulla versione: Gennaio &#39;21](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Note sulla versione: Maggio 21](release-notes/previous-releases/2021/release-notes-may-21.md)
