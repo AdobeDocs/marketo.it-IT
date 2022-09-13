@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Limitare l’accesso dell’utente solo all’accesso SSO - Documenti Marketo - Documentazione del prodotto
 title: Limita accesso utente solo a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Se sei [utilizzo di SSO](/help/marketo/product-docs/administration/additional-in
 
 >[!IMPORTANT]
 >
->Il presente articolo non si applica a [Adobe IMS abilitato](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Abbonamenti Marketo.
+>Il presente articolo non si applica a [Adobe IMS abilitato](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Abbonamenti Marketo.
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Gestione di ruoli utente e autorizzazioni - Documenti Marketo - Documentazione del prodotto
 title: Gestione di ruoli e autorizzazioni utente
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Non puoi modificare i ruoli Amministratore e Utente standard, ma puoi modificarl
 
 ## Marketo con identità Adobe {#marketo-with-adobe-identity}
 
-Se utilizzi Marketo con Adobe Identity, l’elenco delle descrizioni del profilo [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+Se utilizzi Marketo con Adobe Identity, l’elenco delle descrizioni del profilo [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Assegnare ruoli a un utente {#assign-roles-to-a-user}
 
