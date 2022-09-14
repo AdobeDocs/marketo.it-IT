@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Power Pack di recapito messaggi e-mail - Come importare una lista di distribuzione - Marketo Docs - Documentazione del prodotto
 title: Power Pack di recapito messaggi e-mail - Come importare un elenco di messaggi
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ Un elenco di seed è un elenco di account e-mail in più provider di cassette po
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Fai clic su **Inviatore casella in entrata**.
+1. Si aprirà l&#39;applicazione Everest. Nel menu di navigazione a sinistra, fai clic su **In volo** e seleziona **Posizionamento casella in entrata**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Fai clic su **Get Seedlist**.
+1. Fai clic sul pulsante **Gestisci elenco di sementi** scheda .
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Fai clic su **Esporta elenco**.
+1. Fai clic sull’elenco a discesa Azioni e seleziona **Scarica una per riga**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Scegli **Elenco di ottimizzazione** se si desidera 250ok [ottimizzare l&#39;elenco](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) per te. Scegli **Personalizza elenco** se si desidera selezionare le aree dell’elenco di siti da includere.
+   >Utilizza l&#39;Ottimizzatore elenco di seed (nella parte superiore della pagina) se desideri che Everest ottimizzi il tuo elenco per te.
 
 1. Dopo l’esportazione, l’elenco verrà visualizzato come file .txt nella cartella dei download del browser. Recuperarlo e [importare](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) nella tua istanza Marketo come elenco statico.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ Un elenco di seed è un elenco di account e-mail in più provider di cassette po
 
    >[!CAUTION]
    >
-   >Puoi ottenere una quantità limitata di queste campagne informative Posta in arrivo al mese. Per vedere quanti ne ottieni, guarda nel tuo 250ok **Impostazioni account**. Per ottenere di più, contatta il tuo rappresentante commerciale Marketo.
+   >Puoi ottenere una quantità limitata di queste Campagne posizionamento casella in entrata al mese. Per vedere quanti ottieni, consulta la sezione Iscrizione in Impostazioni account > Iscrizione in Everest. Per ottenere di più, contatta il tuo rappresentante commerciale Marketo.
 
 ## Acquisizione di nuovi elenchi di siti {#acquiring-new-seedlists}
 
