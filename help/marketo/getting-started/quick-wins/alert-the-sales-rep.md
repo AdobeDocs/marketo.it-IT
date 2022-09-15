@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Avvisare il rappresentante commerciale - Marketo Docs - Documentazione del prodotto
 title: Avvisare il rappresentante commerciale
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 1127928b43762086ed4d157719ff80d6c3de9ee3
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -24,39 +24,39 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
 1. Vai a **Attività di marketing** area.
 
-   ![](assets/one-5.png)
+   ![](assets/alert-the-sales-rep-1.png)
 
 1. Seleziona **Il mio programma** creato in [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} vittoria rapida, quindi sotto **Nuovo** click **Nuova risorsa locale**.
 
-   ![](assets/two-6.png)
+   ![](assets/alert-the-sales-rep-2.png)
 
 1. Fai clic su **E-mail**.
 
-   ![](assets/three-5.png)
+   ![](assets/alert-the-sales-rep-3.png)
 
 1. **Nome** l&#39;e-mail &quot;My Email Alert&quot;, seleziona un modello e fai clic su **Crea**.
 
-   ![](assets/four-4.png)
+   ![](assets/alert-the-sales-rep-4.png)
 
 1. Inserisci il **Nome da**, **Da e-mail**, **Risposta** e **Oggetto** che vuoi che il tuo team di vendita veda.
 
-   ![](assets/five-5.png)
+   ![](assets/alert-the-sales-rep-5.png)
 
 1. Fai doppio clic per modificare il testo dell’e-mail.
 
-   ![](assets/six-5.png)
+   ![](assets/alert-the-sales-rep-6.png)
 
 1. Digita il contenuto dell’e-mail.
 
-   ![](assets/seven-6.png)
+   ![](assets/alert-the-sales-rep-7.png)
 
 1. Posizionare il cursore nel punto in cui si desidera inserire le informazioni di contatto della persona e fare clic sul **Inserisci token** icona.
 
-   ![](assets/eight-4.png)
+   ![](assets/alert-the-sales-rep-8.png)
 
 1. Trova e seleziona la `{{SP_Send_Alert_Info}}` **Token** e fai clic su **Inserisci**.
 
-   ![](assets/image2014-9-24-13-3a10-3a0.png)
+   ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
@@ -64,49 +64,45 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
 1. Fai clic su **Salva**.
 
-   ![](assets/ten-5.png)
+   ![](assets/alert-the-sales-rep-10.png)
 
-1. Chiudi la scheda/finestra dell’editor e-mail.
+1. Fai clic sul pulsante **Azioni e-mail** a discesa e seleziona **Approva e chiudi**.
 
-   ![](assets/eleven-5.png)
-
-1. Sotto **Azioni e-mail** click **Approva**.
-
-   ![](assets/twelve-4.png)
+   ![](assets/alert-the-sales-rep-11.png)
 
 ## Passaggio 2: Creare una campagna di attivazione degli avvisi {#step-create-an-alert-trigger-campaign}
 
 1. Seleziona **Il mio programma** creato in precedenza, quindi in **Nuovo** click **Nuova campagna Smart**.
 
-   ![](assets/image2014-9-24-13-3a14-3a17.png)
+   ![](assets/alert-the-sales-rep-12.png)
 
 1. **Nome** la campagna &quot;My Alert Campaign&quot; (Campagna di avviso personale) e fai clic su **Crea**.
 
-   ![](assets/image2014-9-24-13-3a14-3a28.png)
+   ![](assets/alert-the-sales-rep-13.png)
 
 1. Sotto la **Elenco avanzato** , trova e trascina **Riempie il modulo** attiva l’area di lavoro.
 
-   ![](assets/image2014-9-24-13-3a14-3a43.png)
+   ![](assets/alert-the-sales-rep-14.png)
 
 1. Selezionare il modulo creato in precedenza.
 
-   ![](assets/image2014-9-24-13-3a14-3a58.png)
+   ![](assets/alert-the-sales-rep-15.png)
 
 1. Sotto la **Flusso** , trova e trascina **Invia avviso** azione di scorrimento nell&#39;area di lavoro.
 
-   ![](assets/image2014-9-24-13-3a15-3a10.png)
+   ![](assets/alert-the-sales-rep-16.png)
 
 1. Seleziona **E-mail di avviso** creato in precedenza e lasciato **Invia a** come **Proprietario vendite**.
 
-   ![](assets/eighteen-1.png)
+   ![](assets/alert-the-sales-rep-17.png)
 
 1. Digita il tuo indirizzo e-mail nel **Ad altre e-mail** campo .
 
-   ![](assets/nineteen-2.png)
+   ![](assets/alert-the-sales-rep-18.png)
 
 1. Vai a **Pianificazione** e fai clic su **Attiva** pulsante .
 
-   ![](assets/twenty-2.png)
+   ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
@@ -114,13 +110,13 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
 1. Fai clic su **Attiva** nella schermata di conferma.
 
-   ![](assets/twenty-one-1.png)
+   ![](assets/alert-the-sales-rep-20.png)
 
 ## Passaggio 3: Testa fuori! {#step-test-it-out}
 
 1. Seleziona la pagina di destinazione e fai clic su **Visualizza pagina approvata**.
 
-   ![](assets/image2014-9-24-13-3a17-3a8.png)
+   ![](assets/alert-the-sales-21.png)
 
    >[!NOTE]
    >
@@ -128,7 +124,7 @@ Per inviare automaticamente le e-mail di avviso ai rappresentanti commerciali, t
 
 1. Compila il modulo e fai clic su **Invia**.
 
-   ![](assets/image2014-9-24-13-3a17-3a41.png)
+   ![](assets/alert-the-sales-22.png)
 
 1. A breve riceverai la tua e-mail. Dopo aver verificato che tutto funziona come dovrebbe, rimuovi il tuo indirizzo e-mail dal flusso di avvisi di invio (vedi il passaggio 2.7 sopra).
 
