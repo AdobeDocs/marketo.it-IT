@@ -3,16 +3,16 @@ unique-page-id: 37355768
 description: Importazione di risorse con Adobe Experience Manager - Documentazione Marketo - Documentazione del prodotto
 title: Importazione di risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
 # Importazione di risorse con Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e importare AEM risorse in Marketo Design Studio. **Le autorizzazioni di amministratore sono necessarie**.
+Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e importare AEM risorse in Marketo Design Studio. **Sono necessarie le autorizzazioni di amministratore**.
 
 >[!AVAILABILITY]
 >
@@ -20,17 +20,17 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 >[!PREREQUISITES]
 >
->Assicurati di aver già eseguito la [configurazione AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Assicurati di aver già eseguito le [Configurazione AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Questa funzione è completamente supportata nelle versioni correnti di Firefox, Chrome e Edge. Non è supportato in Safari.
+>Attualmente, questa funzione è supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nell’ultima versione di Chrome, a seconda delle impostazioni dei cookie SameSite.
 
-1. Fare clic su **Design Studio**.
+1. Fai clic su **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. Fai clic sul menu a discesa Nuovo e seleziona **Importa da Adobe Experience Manager**.
+1. Fai clic sul menu a discesa Nuovo e seleziona **Importazione da Adobe Experience Manager**.
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
    ![](assets/four-1.png)
 
-1. Scegli la tua cartella. Quindi seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Al termine, fai clic su **Seleziona** .
+1. Scegli la tua cartella. Quindi seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Fai clic su **Seleziona** al termine.
 
    ![](assets/five.png)
 
@@ -54,7 +54,7 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
    ![](assets/six-1.png)
 
-   Ed è tutto! Fare clic su **Chiudi** per tornare a Design Studio.
+   Ed è tutto! Fai clic su **Chiudi** per tornare a Design Studio.
 
    ![](assets/seven-1.png)
 
