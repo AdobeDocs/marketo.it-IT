@@ -3,7 +3,7 @@ unique-page-id: 2359428
 description: Reindirizzare una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
 title: Reindirizzare una pagina di destinazione
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -28,21 +28,21 @@ ht-degree: 0%
 
 1. Vai a **Amministratore** area.
 
-   ![](assets/admin.png)
+   ![](assets/redirect-a-landing-page-1.png)
 
 1. Vai a **Pagine di destinazione**.
 
-   ![](assets/image2014-9-24-13-3a28-3a43.png)
+   ![](assets/redirect-a-landing-page-2.png)
 
 1. Fai clic sul pulsante **Regole** scheda , quindi fai clic su **Nuovo** e **Nuova regola di reindirizzamento**.
 
-   ![](assets/image2014-9-24-13-3a28-3a59.png)
+   ![](assets/redirect-a-landing-page-3.png)
 
 ## Passaggio 2: Definire la regola di reindirizzamento {#step-define-the-redirect-rule}
 
 1. Fai clic sul primo **URL originale** e seleziona il tuo CNAME Marketo.
 
-   ![](assets/image2014-9-24-13-3a30-3a33.png)
+   ![](assets/redirect-a-landing-page-4.png)
 
    >[!NOTE]
    >
@@ -50,11 +50,11 @@ ht-degree: 0%
 
 1. Fai clic sul secondo **URL originale** e seleziona la pagina di destinazione da reindirizzare.
 
-   ![](assets/image2014-9-24-13-3a30-3a50.png)
+   ![](assets/redirect-a-landing-page-5.png)
 
 1. Per **URL di reindirizzamento** seleziona la pagina a cui desideri reindirizzare e fai clic su **Crea**.
 
-   ![](assets/image2014-9-24-13-3a31-3a10.png)
+   ![](assets/redirect-a-landing-page-6.png)
 
 ## Missione completata {#mission-complete}
 
