@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **14 ottobre 2022**
 ## Miglioramenti API {#api-enhancements}
 
 * **Importazione in serie di lead: Associazione dei venditori**: Parità con l’API REST lead per poter associare i lead ai venditori durante il processo di importazione in serie per lead, riducendo la complessità e il numero di chiamate API richieste.
+
+## Approfondimenti vendite {#sales-insight}
+
+![(stella)](assets/yellow-star.png)
+
+* **[Integrazione di Sales Insight con la chat dinamica](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Dashboard di Insights ora include attività di chat dinamiche nella griglia avanzata insieme a schede di riepilogo e dettagli settimanali.
 
 ## Annunci {#announcements}
 
