@@ -3,7 +3,7 @@ unique-page-id: 2359426
 description: Aggiornare i dati personali - Documenti Marketo - Documentazione del prodotto
 title: Aggiorna dati persona
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Immaginiamo che al tuo recente show di commercio una persona ti abbia dato infor
 
 1. Passa al database.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. Cerca il nome o l’indirizzo e-mail della persona.
 
@@ -34,11 +34,11 @@ Immaginiamo che al tuo recente show di commercio una persona ti abbia dato infor
    >
    >L’utilizzo dell’indirizzo e-mail per la ricerca si tradurrà in una ricerca più rapida.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. Fare doppio clic per aprire il dettaglio della persona.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ Immaginiamo che al tuo recente show di commercio una persona ti abbia dato infor
 
 1. Inserisci le nuove informazioni ricevute e chiudi la scheda .
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
