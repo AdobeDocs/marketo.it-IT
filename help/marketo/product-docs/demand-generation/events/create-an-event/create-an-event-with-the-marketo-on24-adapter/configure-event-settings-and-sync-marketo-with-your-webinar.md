@@ -3,18 +3,14 @@ unique-page-id: 10096673
 description: Configurare le impostazioni degli eventi e sincronizzare Marketo con il webinar - Documentazione Marketo - Documentazione del prodotto
 title: Configurare le impostazioni evento e sincronizzare Marketo con il webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Configurare le impostazioni evento e sincronizzare Marketo con il webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
-
->[!IMPORTANT]
->
->A partire da agosto 2022, ON24 non supporta più nuove integrazioni Marketo. Le informazioni contenute in questo articolo si applicano solo agli utenti esistenti.
 
 Segui questi passaggi per configurare le impostazioni dell’evento Marketo e collegare Marketo e ON24.
 
@@ -56,8 +52,8 @@ Quando si imposta un evento associato a un webinar ON24, la pianificazione dell&
    >
    >Se si aggiornano le informazioni sull&#39;evento in ON24, è necessario fare clic su **Aggiorna da Webinar Provider** nel menu Azioni evento per visualizzare la compilazione dei nuovi dati.
 
-Ora puoi passare al passaggio successivo: [creazione di campagne figlio e risorse locali](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
+Ora puoi passare al passaggio successivo: [creazione di campagne figlio e risorse locali](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli eventi dell&#39;adattatore Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Informazioni sugli eventi dell&#39;adattatore Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

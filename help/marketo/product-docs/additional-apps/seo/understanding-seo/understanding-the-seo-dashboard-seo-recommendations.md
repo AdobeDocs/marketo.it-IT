@@ -3,10 +3,9 @@ unique-page-id: 2949180
 description: Informazioni sul dashboard SEO - SEO Recommendations - Marketo Docs - Documentazione del prodotto
 title: Informazioni sul dashboard SEO -SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ Puoi anche scoprire come migliorare utilizzando la sezione Recommendations . Int
 
 ## Problemi principali di ottimizzazione delle pagine {#top-page-optimization-issues}
 
-Questo vi mostrerà cinque modi ad alto impatto per iniziare a ottimizzare il vostro sito immediatamente! Basta fare clic su uno dei collegamenti per visualizzare il [Drill down completo dei dettagli di pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Questo vi mostrerà cinque modi ad alto impatto per iniziare a ottimizzare il vostro sito immediatamente! Fai clic su uno dei link per visualizzare il [Drill-down dei dettagli della pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >
@@ -43,4 +42,4 @@ Andiamo! Vivi più a fondo qui.
 
 >[!MORELIKETHIS]
 >
->[Drill-down dei dettagli della pagina](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[Drill-down dei dettagli della pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}

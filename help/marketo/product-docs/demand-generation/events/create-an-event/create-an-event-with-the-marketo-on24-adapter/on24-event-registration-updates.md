@@ -3,18 +3,14 @@ unique-page-id: 10096683
 description: Aggiornamenti alla registrazione degli eventi ON24 - Documenti Marketo - Documentazione del prodotto
 title: Aggiornamenti alla registrazione degli eventi ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # Aggiornamenti alla registrazione degli eventi ON24 {#on-event-registration-updates}
-
->[!IMPORTANT]
->
->A partire da agosto 2022, ON24 non supporta più nuove integrazioni Marketo. Le informazioni contenute in questo articolo si applicano solo agli utenti esistenti.
 
 ## Approvazione manuale dei dichiaranti {#manually-approving-registrants}
 
@@ -44,4 +40,4 @@ Marketo richiama automaticamente le informazioni sulla presenza alle 11 di sera 
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: Informazioni sugli stati del programma Webinar - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sugli stati del programma webinar
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Informazioni sugli stati del programma webinar {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->A partire da agosto 2022, ON24 non supporta più nuove integrazioni Marketo. Le informazioni contenute in questo articolo si applicano solo agli utenti esistenti.
 
 Gli stati del programma rappresentano i diversi stati dell’evento che una persona compie come membro dell’evento. Sono associati a un tipo di canale. Marketo ha un tipo di canale integrato denominato **Webinar**. Gli stati possono essere utilizzati sia nelle campagne batch che nelle campagne di attivazione.
 
@@ -32,7 +28,7 @@ Ecco una breve descrizione degli stati del programma associati al canale del web
 
 **Invitato** - Utilizzare questo stato per aggiungere persone all&#39;evento.
 
-**Approvazione in sospeso** - Utilizza questo stato per interrompere l’invio di un’e-mail di conferma alle tue persone. Consulta &quot;Approvazione manuale degli utenti registrati&quot; in [Aggiornamenti alla registrazione degli eventi ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) per ulteriori informazioni.
+**Approvazione in sospeso** - Utilizza questo stato per interrompere l’invio di un’e-mail di conferma alle tue persone. Consulta &quot;Approvazione manuale degli utenti registrati&quot; in [Aggiornamenti alla registrazione degli eventi ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} per ulteriori informazioni.
 
 **Wait Listed** - Utilizzare questo stato per mantenere alcune persone in attesa di ulteriori posti disponibili.
 
@@ -58,4 +54,4 @@ Ecco una breve descrizione degli stati del programma associati al canale del web
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
