@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
+source-git-commit: 18a09eb1d41d76b35072f45d0bdb3c66908a6335
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 1%
 
 ---
 
@@ -57,12 +57,12 @@ _Le date di rilascio sono soggette a modifica_
    <td>Spedito</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Agosto '22</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">Agosto '22</td>
    <td>26 agosto 2022</td>
-   <td>In corso</td>
+   <td>Spedito</td>
   </tr>
   <tr>
-   <td>Ottobre '22</td>
+   <td><a href="/help/marketo/release-notes/current.md">Ottobre '22</td>
    <td>14 ottobre 2022</td>
    <td>On Schedule</td>
   </tr>
