@@ -2,10 +2,10 @@
 description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
+source-git-commit: 7b11a25c54ac987bda0d21a82eceb182d99b6270
 workflow-type: tm+mt
-source-wordcount: '490'
-ht-degree: 1%
+source-wordcount: '489'
+ht-degree: 2%
 
 ---
 
@@ -168,7 +168,7 @@ Ci sono una tonnellata di nuove funzionalità ad albero disponibili.
   </tr>
   <tr>
    <td>Logica di ricerca 'Word inizia con'</td> 
-   <td><strong>X</strong></td> 
+   <td></td> 
    <td><strong>X</strong></td> 
   </tr>
  </tbody>
