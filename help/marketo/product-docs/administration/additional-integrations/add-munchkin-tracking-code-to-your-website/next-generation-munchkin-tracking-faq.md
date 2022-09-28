@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Domande frequenti sul monitoraggio Munchkin di nuova generazione - Documenti Marketo - Documentazione del prodotto
 title: Domande frequenti sul monitoraggio Munchkin di nuova generazione
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ No. Il codice di tracciamento Munchkin rimane lo stesso. Non è necessario appor
 
 >[!NOTE]
 >
->Questa modifica non interessa Web Personalization (Real-Time Personalization). Continua a identificare visitatori web anonimi e noti e a personalizzare contenuti in tempo reale per questi visitatori.
+>Questa modifica non influisce sulla personalizzazione web (Personalizzazione in tempo reale). Continua a identificare visitatori web anonimi e noti e a personalizzare contenuti in tempo reale per questi visitatori.
 
 ## Perché Marketo ha rimosso il filtro &quot;È anonimo&quot; dagli elenchi smart? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ Esaminali e identifica dove hai impostato &quot;Is Anonymous&quot; su True, in q
 
 Dai un’occhiata a questi collegamenti:
 
-[Panoramica degli aggiornamenti dei lead anonimi](https://nation.marketo.com/docs/DOC-2937)
+[Panoramica degli aggiornamenti dei lead anonimi](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[Aggiornamenti dei lead anonimi - Modifiche all’interno dell’interfaccia utente di Marketo](https://nation.marketo.com/docs/DOC-2938)
+[Aggiornamenti dei lead anonimi - Modifiche all’interno dell’interfaccia utente di Marketo](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[Aggiornamenti anonimi dei lead - Necessità di un intervento del cliente](https://nation.marketo.com/docs/DOC-2939)
+[Aggiornamenti anonimi dei lead - Necessità di un intervento del cliente](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[Aggiornamenti dei lead anonimi - Rapporti di Analytics](https://nation.marketo.com/docs/DOC-2940)
+[Aggiornamenti dei lead anonimi - Rapporti di Analytics](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[Aggiornamenti dei lead anonimi - Pianificazione del rilascio](https://nation.marketo.com/docs/DOC-2961)
+[Aggiornamenti dei lead anonimi - Pianificazione del rilascio](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[Aggiornamenti Anonimi Di Piombo - Sotto Il Cappuccio](https://nation.marketo.com/docs/DOC-2962)
+[Aggiornamenti Anonimi Di Piombo - Sotto Il Cappuccio](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[Promozione di lead anonimi a lead noti - Munchkin V2 Comportamento](https://nation.marketo.com/docs/DOC-2963)
+[Promozione di lead anonimi a lead noti - Munchkin V2 Comportamento](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## Ho altre domande! Come le faccio rispondere? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Si prega di contattare [community](https://nation.marketo.com/). È inoltre possibile contattare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Saranno felici di rispondere alle vostre domande.
+Si prega di contattare [community](https://nation.marketo.com/){target=&quot;_blank&quot;}. È inoltre possibile contattare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. Saranno felici di rispondere alle vostre domande.

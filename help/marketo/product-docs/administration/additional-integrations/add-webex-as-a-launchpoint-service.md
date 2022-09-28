@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: Aggiungere Webex as a LaunchPoint Service - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere Webex come servizio LaunchPoint
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -30,30 +30,34 @@ Il Marketo Engage gestisce la registrazione e la partecipazione del webinar Webe
 >
 >**Attenzione:** Non inserire l’intero URL in questo campo; immetti solo il nome del sito!
 
-1. Vai a **Amministratore** e fai clic su **LaunchPoint**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2015-4-23-11-3a20-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-1.png)
+
+1. Fai clic su **LaunchPoint**.
+
+   ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
 1. Seleziona **Nuovo** e poi **Nuovo servizio**.
 
-   ![](assets/webex-new-service.png)
+   ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
 1. Inserisci un **Nome visualizzato**. Sotto **Servizio**, seleziona **Webex**.
 
-   ![](assets/new-service-webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
 1. Inserisci il tuo **Nome utente** e **Password**.
 
-   ![](assets/image2015-4-24-18-3a56-3a56.png)
+   ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
 1. Completa il processo inserendo il **Nome del sito** quindi fai clic su **Crea**.
 
-   ![](assets/image2015-4-24-18-3a58-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
 1. Fenomenale! Le **Webex** ora è sincronizzato con Marketo.
 
-   ![](assets/webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Scopri come [creare un evento con Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Scopri come [creare un evento con Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target=&quot;_blank&quot;}.
