@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Pagina di destinazione con un modulo - Marketo Docs - Documentazione del prodotto
 title: Pagina di destinazione con un modulo
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo dei con
 
 ## PASSAGGIO 3: Creare una pagina di destinazione e aggiungere il modulo {#step-create-a-landing-page-and-add-your-form}
 
-1. Con il programma selezionato, fai clic su **Nuovo** e poi **Nuova risorsa locale**.
+1. Con il programma selezionato, fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuova risorsa locale**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
