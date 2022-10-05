@@ -2,9 +2,9 @@
 description: Stream Designer - Documenti Marketo - Documentazione del prodotto
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '821'
 ht-degree: 2%
 
 ---
@@ -49,19 +49,46 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
  </tr>
 </table>
 
+## Icone di Stream Designer {#stream-designer-icons}
+
+In alto a destra di Stream Designer sono disponibili alcune icone. Ecco cosa fanno.
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>Aggiunge una griglia allo sfondo per coloro che preferiscono tale visualizzazione</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>Ingrandisce, creando schede più grandi</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>Esegue lo zoom indietro, creando schede più piccole</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Apre una finestra per verificare la chat (premere lo stesso pulsante per chiuderla)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>Organizza tutte le schede nel flusso</td>
+ </tr>
+</table>
+
 ## Creare un flusso {#create-a-stream}
 
 1. Dopo [crea la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, fai clic sul pulsante **Progettazione flussi** scheda .
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. Trascinare la scheda Domanda.
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. Sotto Chatbot Response, indica come ti piacerebbe.
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -69,7 +96,7 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
 
 1. Immetti le risposte utente e fai clic su **Salva**.
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -77,27 +104,27 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
 
 1. Per &quot;Sì&quot; vogliamo pianificare un appuntamento, quindi sotto questa opzione trascina sulla scheda Scheduler Appointment.
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. Nella colonna a destra, fai clic su **Salva**.
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. Poiché si tratta di un obiettivo, trascina la scheda Obiettivo sotto l’Utilità di pianificazione degli appuntamenti.
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. Denomina l&#39;obiettivo (o sceglierne uno esistente) e fai clic su **Salva**.
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. Per &quot;No&quot; vogliamo vedere se si uniranno alla mailing list, quindi sotto quell&#39;opzione trascina su un&#39;altra scheda Domanda.
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. Immetti la risposta e aggiungi le scelte di risposta per il visitatore. Fai clic su **Salva** al termine.
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -105,15 +132,15 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
 
 1. Sotto la risposta &quot;Sì&quot;, trascina sulla scheda Info Capture per raccogliere l&#39;e-mail del visitatore.
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. Fai clic sul pulsante **Tipo** a discesa e seleziona **E-mail**.
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. Inserisci un messaggio chatbot e un segnaposto. Assicurati che l&#39;attributo sia mappato sul campo appropriato in Marketo e fai clic su **Salva**.
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -136,27 +163,27 @@ Il designer del flusso contiene più schede che è possibile aggiungere per mode
 
 1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda Obiettivo sotto Info Capture (Acquisizione informazioni).
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. Denomina l&#39;obiettivo (o sceglierne uno esistente) e fai clic su **Salva**.
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. Ricordatevi di aggiungere una risposta se dicono &quot;No&quot;. Un’opzione consiste nel trascinare una scheda Messaggio in basso e dire &quot;comunque grazie&quot;. Ma in questo esempio, forniremo loro invece un documento PDF gratuito.
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. In questo esempio verrà creato un nuovo documento. Assegna un nome, immetti l’URL del PDF già ospitato e fai clic su **Salva**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. Seleziona la **Anteprima** per visualizzare l’anteprima della finestra di dialogo.
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. Quando sei pronto per attivare la finestra di dialogo, fai clic su **Pubblica**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
