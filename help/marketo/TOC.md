@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
 workflow-type: tm+mt
-source-wordcount: '8802'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -615,6 +615,10 @@ ht-degree: 0%
          + [Configurazione](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamento del chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Attività chat dinamiche](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Pianificazione degli appuntamenti {#appointment-scheduling}
+            + [Calendario](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [Meeting](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+            + [Indirizzamento](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integrazioni {#integrations}
             + [Collegare la chat dinamica a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilizzo della scheda documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
