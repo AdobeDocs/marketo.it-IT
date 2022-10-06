@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione - Agosto 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Agosto 2022
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Le seguenti funzioni hanno avviato un rollout graduale **26 agosto 2022**.
 
 * **Visibilità intestazione personalizzata Webhook**: Le intestazioni personalizzate Webhook ora sono visualizzate nella scheda Amministratore > Ganci web per una migliore visibilità.
 
-* **CAPTCHA**: Valutare la validità degli invii dei moduli utilizzando reCAPTCHA v3 per valutare il traffico dei moduli in arrivo. Crea flussi di lavoro di marketing per escludere, mettere in quarantena o eliminare automaticamente il traffico bot sospetto.
+* **CAPTCHA**: Valutare la validità degli invii dei moduli [utilizzo di reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} per il punteggio del traffico del modulo in arrivo. Crea flussi di lavoro di marketing per escludere, mettere in quarantena o eliminare automaticamente il traffico bot sospetto.
 
 * **Autorizzazione ad approvare il modulo**: Nuova autorizzazione per controllare quali designer possono approvare le modifiche a un modulo in linea con altre risorse di Design Studio. Questo impedisce ad altri designer di inviare modifiche ai moduli senza che altri utenti dispongano dell’autorizzazione necessaria per esaminarli.
 

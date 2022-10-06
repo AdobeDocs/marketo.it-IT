@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: Guida introduttiva - Documenti Marketo - Documentazione del prodotto
 title: Introduzione
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Introduzione {#getting-started}
 
-## PASSAGGIO 1 Cos&#39;è Marketo {#what-is-marketo}
+## Che cos’è Adobe Marketo Engage {#what-is-marketo-engage}
 
-Cos&#39;è Marketo che ti chiedi? Grande domanda!
+Cos&#39;è il Marketo Engage, chiede? Grande domanda!
 
-[Scopri Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Marketo Engage di apprendimento](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## STEP 2 - Configurazione {#get-set-up}
+## Quali livelli di prezzo sono disponibili {#what-pricing-tiers-are-available}
+
+Consulta la sezione [Pagina Determinazione prezzi Marketi Engage e imballaggio](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} per ulteriori informazioni.
+
+## Configurazione {#get-set-up}
 
 Con un piccolo aiuto del team IT, è possibile farlo in poco tempo.
 
-[Avvia configurazione](/help/marketo/getting-started/setup/setup-steps.md)
+[Avvia configurazione](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## PASSAGGIO 3 Ottieni alcune vincite rapide {#get-some-quick-wins}
+## Ottieni alcune vincite rapide {#get-some-quick-wins}
 
-Completa queste missioni per scoprire le funzionalità principali di Marketo.
+Completa queste missioni per scoprire le funzionalità principali del Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ Completa queste missioni per scoprire le funzionalità principali di Marketo.
 
 ## FASE 4 Congratulazioni! Sei pronto per la Nazione  {#congrats-youre-ready-for-the-nation}
 
-È ora di unirsi al Marketing Nation!
-
-[Unisciti alla nazione](https://nation.marketo.com)
+Consulta la sezione [Nome marketing](https://nation.marketo.com){target=&quot;_blank&quot;}!
