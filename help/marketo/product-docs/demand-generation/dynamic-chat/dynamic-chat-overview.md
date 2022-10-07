@@ -2,10 +2,10 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,7 @@ Puoi anche personalizzare il corpo dell’invito inviato al visitatore quando qu
 
 ## Meeting {#meetings}
 
-Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web attraverso le varie finestre di dialogo. Qui trovi l&#39;indirizzo e-mail della persona che ha prenotato l&#39;appuntamento, con quale agente ha prenotato l&#39;appuntamento, quando l&#39;appuntamento è programmato e se la riunione è avvenuta o meno.
+Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web attraverso le varie finestre di dialogo. Qui troverete l&#39;indirizzo e-mail della persona che ha prenotato l&#39;appuntamento, con quale agente ha prenotato l&#39;appuntamento, quando l&#39;appuntamento è programmato, e se l&#39;orario della riunione è scaduto o meno.
 
 ## Indirizzamento {#routing}
 

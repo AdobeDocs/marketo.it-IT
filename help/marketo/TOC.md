@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -1605,6 +1605,7 @@ ht-degree: 0%
          + [Modifica di contenuti predittivi per contenuti rich media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Modifica contenuto predittivo per la barra delle raccomandazioni](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
    + Reporting {#reporting}
+      + [Panoramica del reporting](product-docs/reporting/reporting-overview.md)
       + Reporting di base {#basic-reporting}
          + Creazione di report {#creating-reports}
             + [Creare un rapporto in un programma](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
