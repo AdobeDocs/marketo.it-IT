@@ -2,9 +2,9 @@
 description: Panoramica della chat dinamica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica della chat dinamica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
-source-wordcount: '919'
+source-wordcount: '845'
 ht-degree: 1%
 
 ---
@@ -41,17 +41,15 @@ Nella scheda Configurazione, personalizzare l&#39;aspetto delle varie finestre d
 
 ## Calendario {#calendar}
 
-Nella scheda Calendario, collegare il calendario (Outlook o Gmail) per l&#39;utilizzo nella pianificazione degli appuntamenti nel chatbot. Una volta che il calendario di un utente è connesso a Dynamic Chat, tale utente verrà aggiunto alla coda e il suo calendario sarà disponibile per i visitatori del sito web a pianificare gli appuntamenti in.
-
-Puoi anche personalizzare il corpo dell’invito inviato al visitatore quando questo pianifica un appuntamento sul calendario dell’utente.
+Collegare il calendario di Outlook o Gmail per l&#39;utilizzo nella pianificazione degli appuntamenti nel chatbot. [Ulteriori informazioni su Calendario](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
 
 ## Meeting {#meetings}
 
-Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web attraverso le varie finestre di dialogo. Qui troverete l&#39;indirizzo e-mail della persona che ha prenotato l&#39;appuntamento, con quale agente ha prenotato l&#39;appuntamento, quando l&#39;appuntamento è programmato, e se l&#39;orario della riunione è scaduto o meno.
+Qui puoi vedere tutti gli appuntamenti pianificati dai visitatori del sito web attraverso le varie finestre di dialogo. [Ulteriori informazioni sulle riunioni](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
 
 ## Indirizzamento {#routing}
 
-Qui puoi vedere un elenco di tutti gli agenti che hanno collegato i loro calendari e l&#39;ordine in cui verranno presentati ai visitatori del sito web.
+Qui puoi vedere un elenco di tutti gli agenti che hanno connesso i loro calendari, l’ordine in cui verranno presentati ai visitatori del sito web e creare regole di indirizzamento personalizzate. [Ulteriori informazioni sull&#39;indirizzamento](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
 
 ## Domande frequenti {#faq}
 
