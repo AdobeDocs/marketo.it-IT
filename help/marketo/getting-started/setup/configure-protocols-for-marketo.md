@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Configurare i protocolli per Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Configurare i protocolli per Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 1%
+source-wordcount: '1046'
+ht-degree: 2%
 
 ---
 
@@ -57,7 +57,7 @@ Ad esempio:
 
 `3` **Notifica al team di marketing**
 
-Notifica al team di marketing al completamento di questo processo.
+Invia una notifica al team di marketing al completamento di questo processo.
 
 `4` **Contatto [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} per avviare il processo di provisioning di un certificato SSL.**
 
@@ -77,7 +77,7 @@ Aggiungi questi indirizzi IP al tuo inserire nell&#39;elenco Consentiti aziendal
 103.237.104.0/22\
 94.236.119.0/26
 
-Alcuni sistemi anti-spam utilizzano il campo Email Return-Path invece dell&#39;indirizzo IP per l&#39;autorizzazione. In questi casi, l&#39;approccio migliore è quello di inserire nell&#39;elenco Consentiti &quot;&#42;.mktomail.com&quot;, in quanto Marketo utilizza diversi sottodomini di cassette postali. Altri sistemi anti-spam inserire nell&#39;elenco Consentiti in base all&#39;indirizzo Da. In queste situazioni, assicurati di includere tutti i domini di invio (&quot;Da&quot;) utilizzati dal tuo gruppo di marketing per comunicare con persone/lead.
+Alcuni sistemi anti-spam utilizzano il campo Email Return-Path invece dell&#39;indirizzo IP per l&#39;autorizzazione. In questi casi, l&#39;approccio migliore è quello di inserire nell&#39;elenco Consentiti &quot;&#42;.mktomail.com&#39;, in quanto Marketo utilizza diversi sottodomini di cassette postali. Altri sistemi anti-spam inserire nell&#39;elenco Consentiti in base all&#39;indirizzo Da. In queste situazioni, accertati di includere tutti i domini di invio (&quot;Da&quot;) utilizzati dal gruppo di marketing per comunicare con persone/lead.
 
 >[!NOTE]
 >
@@ -123,7 +123,7 @@ Marketo Engage [Sincronizzazione CRM Salesforce](/help/marketo/product-docs/crm-
 
 **Marketo Engage blocchi di indirizzi IP in uscita**
 
-La tabella seguente descrive tutti i server di Marketo Engage che eseguono chiamate in uscita. Utilizza questo elenco se configuri un inserire nell&#39;elenco Consentiti IP, un server, un firewall, un elenco di controllo degli accessi, un gruppo di sicurezza o un servizio di terze parti per ricevere connessioni in uscita dal Marketo Engage.
+Le tabelle seguenti coprono tutti i server di Marketo Engage che eseguono chiamate in uscita. Utilizzare gli elenchi riportati di seguito se si configura un inserire nell&#39;elenco Consentiti IP, un server, un firewall, un elenco di controllo degli accessi, un gruppo di sicurezza o un servizio di terze parti per la ricezione di connessioni in uscita dal Marketo Engage.
 
 <table>
  <tbody>
@@ -156,3 +156,48 @@ La tabella seguente descrive tutti i server di Marketo Engage che eseguono chiam
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>Indirizzo IP individuale</th>
+  </tr>
+  <tr>
+   <td>54.212.167.17</td>
+  </tr>
+   <tr>
+   <td>44.235.171.179</td>
+  </tr>
+   <tr>
+   <td>35.165.244.220</td>
+  </tr>
+   <tr>
+   <td>52.20.211.99</td>
+  </tr>
+   <tr>
+   <td>54.237.141.197</td>
+  </tr>
+  <tr>
+   <td>54.160.246.246</td>
+  </tr>
+   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34.247.24.245</td>
+  </tr>
+   <tr>
+   <td>54.220.138.65</td>
+  </tr>
+  <tr>
+   <td>13.237.155.207</td>
+  </tr>
+   <tr>
+   <td>13.55.192.247</td>
+  </tr>
+  <tr>
+   <td>52.64.109.86</td>
+  </tr>
+ </tbody>
+</table>
+

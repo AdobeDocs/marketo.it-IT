@@ -2,9 +2,9 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,13 @@ Le seguenti funzioni sono attualmente disponibili nell’interfaccia di nuova ge
 * Visualizzazione dettagli e-mail
 * Visualizzazione a elenco e-mail
 * Visualizzazione dettagli modello e-mail
+* Elenco modelli e-mail
 * Visualizzazione dashboard di test e-mail
 * Visualizzazione dettagli modulo
 * Visualizzazione a elenco moduli
 * Pagina Dettagli immagini e file
 * Visualizzazione dei dettagli della pagina di destinazione
 * Visualizzazione a elenco pagina di destinazione
+* Dettagli modello pagina di destinazione
 * Visualizzazione dettagli frammento
+
