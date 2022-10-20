@@ -5,7 +5,7 @@ user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '8809'
 ht-degree: 0%
 
 ---
