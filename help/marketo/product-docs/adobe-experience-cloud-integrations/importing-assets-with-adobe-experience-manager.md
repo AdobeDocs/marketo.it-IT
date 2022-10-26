@@ -28,23 +28,23 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 1. Fai clic su **Design Studio**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. Fai clic sul menu a discesa Nuovo e seleziona **Importazione da Adobe Experience Manager**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. Scegli la cartella in cui verranno salvate le immagini.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. Accedi ad Adobe Experience Manager (se non lo hai già fatto).
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. Scegli la tua cartella. Quindi seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Fai clic su **Seleziona** al termine.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 1. Fai clic su **Importa** per completare il processo.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    Ed è tutto! Fai clic su **Chiudi** per tornare a Design Studio.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## Aspetti da considerare {#things-to-note}
 
