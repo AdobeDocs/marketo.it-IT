@@ -3,7 +3,7 @@ unique-page-id: 42762511
 description: Impostare Adobe Organization Mapping - Marketo Docs - Documentazione del prodotto
 title: Configurare la mappatura dell'organizzazione Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
+source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -52,4 +52,4 @@ Per eseguire la sincronizzazione con applicazioni di Adobe, ad Audience Manager 
 
 1. Se sei _not_ già connesso, un pop-up apparirà in una nuova scheda/finestra. Accedi alla tua organizzazione Adobe (questa azione convalida l&#39;accesso all&#39;organizzazione).
 
-Ed è tutto! Ora puoi [condividere dati sul pubblico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} su o [sincronizzare un pubblico](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} da Adobe Experience Cloud.
+Ed è tutto! Ora puoi [condividere dati sul pubblico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} a, oppure [sincronizzare un pubblico](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} da Adobe Experience Cloud.
