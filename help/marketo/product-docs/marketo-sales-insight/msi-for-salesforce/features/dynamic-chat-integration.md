@@ -2,9 +2,9 @@
 description: Integrazione dinamica della chat - Documenti Marketo - Documentazione del prodotto
 title: Integrazione Chat dinamica
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '392'
 ht-degree: 3%
 
 ---
@@ -58,17 +58,27 @@ Obiettivo raggiunto: Effettuato l’accesso a Marketo e compilato in Sales Insig
 * Nome obiettivo
 * URL della pagina
 
-La scheda Chat è disponibile nei pannelli Lead e Contatto . Include le colonne Tipo di attività, Nome finestra di dialogo e Data .
+Interagito con Document: Effettuato l’accesso a Marketo e compilato in Sales Insight quando un visitatore interagisce con un documento condiviso tramite il chatbot.
+
+* Nome dialogo
+* Documento
+* Stato
+
+Le attività di chat sono disponibili nel dashboard di Insights.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Per ulteriori informazioni su un tipo di attività, fai clic su di esso.
+La scheda Chat è disponibile nei pannelli Lead e Contatto . Include le colonne Tipo di attività, Nome finestra di dialogo e Data .
 
 ![](assets/dynamic-chat-integration-4.png)
 
-Analogamente, i pannelli Account e Opportunità includono le colonne Nome, Tipo di attività, Nome finestra di dialogo e Data .
+Per ulteriori informazioni su un tipo di attività, fai clic su di esso.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+Analogamente, i pannelli Account e Opportunità includono le colonne Nome, Tipo di attività, Nome finestra di dialogo e Data .
+
+![](assets/dynamic-chat-integration-6.png)
 
 La scheda Chat è inclusa anche nella scheda Marketo globale. Include tre tipi di attività (Finestra di dialogo impegnata, Appuntamento pianificato, Obiettivo raggiunto), insieme alle colonne seguenti:
 
@@ -80,8 +90,15 @@ La scheda Chat è inclusa anche nella scheda Marketo globale. Include tre tipi d
 
 Anche in questo caso, fai clic su di esso per ulteriori informazioni su un tipo di attività.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->L’attività &quot;Interagito con il documento&quot; sarà disponibile in MSI in una prossima versione.
+>Se la casella di controllo &quot;Abilita dati chat dinamica&quot; è disabilitata, le seguenti funzioni saranno disattivate:
+>
+>* Riga con attività Chat nel dashboard Approfondimenti (smart grid e vista a elenco settimanale)
+>* Scheda Chat nei pannelli Lead, Contatto, Account e Opportunità
+>* Scheda Chat nella scheda Marketo globale
+>
+>Non è possibile disattivare solo una di queste funzioni.
+
