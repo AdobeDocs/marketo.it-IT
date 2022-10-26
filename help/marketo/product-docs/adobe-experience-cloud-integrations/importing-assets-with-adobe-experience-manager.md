@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Importazione di risorse con Adobe Experience Manager - Documentazione Marketo - Documentazione del prodotto
 title: Importazione di risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -28,23 +28,23 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 1. Fai clic su **Design Studio**.
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
 1. Fai clic sul menu a discesa Nuovo e seleziona **Importazione da Adobe Experience Manager**.
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. Scegli la cartella in cui verranno salvate le immagini.
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. Accedi ad Adobe Experience Manager (se non lo hai già fatto).
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
 1. Scegli la tua cartella. Quindi seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Fai clic su **Seleziona** al termine.
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 1. Fai clic su **Importa** per completare il processo.
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
    Ed è tutto! Fai clic su **Chiudi** per tornare a Design Studio.
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## Aspetti da considerare {#things-to-note}
 
