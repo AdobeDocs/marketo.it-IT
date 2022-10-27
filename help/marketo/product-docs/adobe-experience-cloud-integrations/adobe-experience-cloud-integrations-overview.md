@@ -1,11 +1,9 @@
 ---
 description: Panoramica delle integrazioni Adobe Experience Cloud - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica delle integrazioni Adobe Experience Cloud
-hide: true
-hidefromtoc: true
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 653ff34c57c6c47544402e58e39042f014b496fa
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -16,7 +14,7 @@ Adobe offre una solida soluzione di marketing della domanda, a partire dalla sin
 
 >[!NOTE]
 >
->Le integrazioni, che includono Audience Manager, Connettore Marketo CDP B2B e Chat dinamico, possono richiedere la mappatura dell’organizzazione IMS nel Marketo Engage. [Scopri come impostare la mappatura dell’organizzazione Adobe qui](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
+>Le integrazioni, che includono Audience Manager, Connettore Marketo CDP B2B e Chat dinamico, possono richiedere la mappatura dell’organizzazione IMS nel Marketo Engage. [Scopri come impostare la mappatura dell’organizzazione Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
 
 ## Integrazioni Adobe Experience Cloud {#adobe-experience-cloud-integrations}
 
