@@ -3,9 +3,9 @@ description: Panoramica dei rapporti - Documenti Marketo - Documentazione del pr
 title: Panoramica del reporting
 hide: true
 hidefromtoc: true
-source-git-commit: 9873a01d8828e247a5cb60b88b5239721226615d
+source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Marketo offre diversi moduli di reporting per diverse esigenze.
 
 ## Reporting di base {#basic-reporting}
 
-Puoi impostare rapporti di base all’interno di programmi o nell’area Analytics. I rapporti di base sono formati da diversi tipi di rapporti predefiniti con la flessibilità di filtrare, ordinare e regolare gli intervalli di tempo.
+È possibile configurare [rapporti di base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} all&#39;interno dei programmi o nell&#39;area Analytics. I rapporti di base sono formati da diversi tipi di rapporti predefiniti con la flessibilità di filtrare, ordinare e regolare gli intervalli di tempo.
 
 ## Approfondimenti e-mail {#email-insights}
 
-Utilizza Analytics e invia per ottenere informazioni potenti dai dati storici.
+Utilizza Analytics e invia per ottenere [informazioni approfondite](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} sulle e-mail dai dati storici.
 
 ## Informazioni sulle prestazioni {#performance-insights}
 
-Performance Insights descrive le prestazioni dei canali e le prestazioni dei programmi per il coinvolgimento, la pipeline e la generazione di ricavi.
+[Informazioni sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} copre le prestazioni del canale e del programma per la generazione di coinvolgimento, pipeline e ricavi.
 
 ## Reporting avanzato di BI Analytics {#advanced-bi-analytics-reporting}
 
@@ -35,7 +35,7 @@ _(precedentemente noto come Revenue Cycle Explorer/Advanced Report Builder)_
 >
 >Non tutti i clienti hanno acquistato i moduli Advanced BI Analytics e Advanced Percorsi Analytics. Contatta il tuo Customer Success Manager per ulteriori informazioni.
 
-Monitora il ROI delle iniziative di marketing. Analizzare e-mail, lead, programmi, opportunità, analisi delle prestazioni dei modelli (aziende) e analisi delle prestazioni dei modelli (lead). BI Explorer consente di creare rapporti personalizzati all’interno dell’area di analisi e di creare grafici, grafici, pivot e dashboard con i dati.
+Monitora il ROI delle iniziative di marketing. Analizzare e-mail, persone, programmi, opportunità, analisi delle prestazioni dei modelli (aziende) e analisi delle prestazioni dei modelli (lead). BI Explorer consente di creare rapporti personalizzati all’interno dell’area di analisi e di creare grafici, grafici, pivot e dashboard con i dati.
 
 Alcuni vantaggi della funzionalità di reporting di BI Analytics avanzata includono:
 
@@ -55,6 +55,10 @@ Alcuni vantaggi della funzionalità di reporting di BI Analytics avanzata includ
 
 ## Analisi avanzata dei Percorsi {#advanced-journey-analytics}
 
+>[!AVAILABILITY]
+>
+>Non tutti i clienti hanno acquistato i moduli Advanced BI Analytics e Advanced Percorsi Analytics. Contatta il tuo Customer Success Manager per ulteriori informazioni.
+
 Modelli di ciclo dei ricavi : modello di tutte le fasi dell’intero funnel dei ricavi e della relativa transizione tra tali fasi, da quando interagisci per la prima volta con un lead fino a quando il lead non è un cliente vincente.
 
 Analisi del percorso di successo - Ottieni una rappresentazione visiva della velocità e del flusso nel modello del ciclo di ricavi. L’analisi dei percorsi di successo richiede la creazione di modelli di ciclo dei ricavi.
@@ -65,7 +69,7 @@ Analisi dell’influenza delle opportunità : dimostra il contributo di Marketin
 
 >[!NOTE]
 >
->L&#39;analisi delle prestazioni del modello (aziende) e l&#39;analisi delle prestazioni del modello (lead) con Esplora ciclo dei ricavi dipendono dal modello del ciclo dei ricavi.
+>L&#39;analisi delle prestazioni del modello (aziende) e l&#39;analisi delle prestazioni del modello (lead) con reporting di BI Analytics avanzato dipendono dal modello del ciclo dei ricavi creato nel prodotto Advanced Percorsi Analytics.
 
 
 
