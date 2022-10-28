@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 18a09eb1d41d76b35072f45d0bdb3c66908a6335
+source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '140'
 ht-degree: 1%
 
 ---
@@ -37,33 +37,39 @@ _Le date di rilascio sono soggette a modifica_
    <th width="250px">Stato</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">Gennaio '22</a></td>
-   <td>21 gennaio 2022</td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">Marzo 22</a></td>
-   <td>11 marzo 2022</td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-may-22.md">Maggio '22</a></td>
-   <td>6 maggio 2022</td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">Giugno 22</td>
-   <td>24 giugno 2022</td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">Agosto '22</td>
-   <td>26 agosto 2022</td>
-   <td>Spedito</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/current.md">Ottobre '22</td>
    <td>14 ottobre 2022</td>
+   <td>Spedito</td>
+  </tr>
+  <tr> 
+   <td>Gennaio '23</td>
+   <td>20 gennaio 2023</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>Marzo 23</td>
+   <td>24 marzo 2023</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>Maggio '23</td>
+   <td>19 maggio 2023</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr> 
+   <td>Luglio '23</td>
+   <td>21 luglio 2023</td>
+   <td>On Schedule</td>
+  </tr>
+  <tr>
+   <td>Settembre 23</td>
+   <td>8 settembre 2023</td>
+   <td>On Schedule</td>
+  </tr>
+
+<tr>
+   <td>Ottobre '23</td>
+   <td>20 ottobre 2023</td>
    <td>On Schedule</td>
   </tr>
  </tbody>
