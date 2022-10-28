@@ -1,9 +1,9 @@
 ---
 description: Panoramica dei rapporti - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del reporting
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Alcuni vantaggi della funzionalità di reporting di BI Analytics avanzata includ
 * Visualizzazione in forma grafica, mappe termiche e curve di distribuzione
 
 ## Analisi avanzata dei Percorsi {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->Non tutti i clienti hanno acquistato i moduli Advanced BI Analytics e Advanced Percorsi Analytics. Contatta il tuo Customer Success Manager per ulteriori informazioni.
 
 Modelli di ciclo dei ricavi: modellare tutte le fasi dell’intero funnel dei ricavi e la relativa transizione tra tali fasi, da quando interagisci per la prima volta con un lead fino a quando il lead non è un cliente vincente.
 
