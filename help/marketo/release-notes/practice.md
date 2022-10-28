@@ -3,7 +3,7 @@ description: Note sulla versione - Documentazione Marketo - Documentazione del p
 title: Note sulla versione pratiche
 hide: true
 hidefromtoc: true
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: f57bb27c1b33e1c47c69f68c3719a35ee3f2d82e
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 2%
@@ -133,7 +133,7 @@ _**Chat dinamica**_
 
 ![(stella)](assets/yellow-star.png)
 
-* **[Integrazione di Sales Insight con la chat dinamica**: Dashboard di Insights ora include attività di chat dinamiche nella griglia avanzata insieme a schede di riepilogo e dettagli settimanali.
+* **Integrazione di Sales Insight con la chat dinamica**: Dashboard di Insights ora include attività di chat dinamiche nella griglia avanzata insieme a schede di riepilogo e dettagli settimanali.
 
 <table> 
   <tr> 
