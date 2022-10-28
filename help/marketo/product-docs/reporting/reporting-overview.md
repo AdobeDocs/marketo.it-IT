@@ -3,7 +3,7 @@ description: Panoramica dei rapporti - Documenti Marketo - Documentazione del pr
 title: Panoramica del reporting
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -59,13 +59,13 @@ Alcuni vantaggi della funzionalità di reporting di BI Analytics avanzata includ
 >
 >Non tutti i clienti hanno acquistato i moduli Advanced BI Analytics e Advanced Percorsi Analytics. Contatta il tuo Customer Success Manager per ulteriori informazioni.
 
-Modelli di ciclo dei ricavi : modello di tutte le fasi dell’intero funnel dei ricavi e della relativa transizione tra tali fasi, da quando interagisci per la prima volta con un lead fino a quando il lead non è un cliente vincente.
+Modelli di ciclo dei ricavi: modellare tutte le fasi dell’intero funnel dei ricavi e la relativa transizione tra tali fasi, da quando interagisci per la prima volta con un lead fino a quando il lead non è un cliente vincente.
 
-Analisi del percorso di successo - Ottieni una rappresentazione visiva della velocità e del flusso nel modello del ciclo di ricavi. L’analisi dei percorsi di successo richiede la creazione di modelli di ciclo dei ricavi.
+Analisi del percorso di successo: Ottieni una rappresentazione visiva di velocità e flusso attraverso il tuo modello di ciclo dei ricavi. L’analisi dei percorsi di successo richiede la creazione di modelli di ciclo dei ricavi.
 
-Analisi programmi : identifica rapidamente i programmi che hanno esito positivo o meno e mette a fuoco le risorse in modo appropriato. Utilizzare l&#39;analizzatore di programma per analizzare e confrontare ogni costo e restituire in dettaglio per programma o per canale.
+Analisi del programma: Identifica rapidamente i programmi che hanno successo o meno e focalizza le tue risorse in modo appropriato. Utilizzare l&#39;analizzatore di programma per analizzare e confrontare ogni costo e restituire in dettaglio per programma o per canale.
 
-Analisi dell’influenza delle opportunità : dimostra il contributo di Marketing misurando l’impatto dei programmi e degli impegni chiave che hanno generato opportunità.
+Analisi di influenza opportunità: Dimostrare il contributo di Marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
 
 >[!NOTE]
 >
