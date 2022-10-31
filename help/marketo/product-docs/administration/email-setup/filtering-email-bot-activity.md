@@ -2,7 +2,7 @@
 description: Filtrare l’attività del bot e-mail - Documenti Marketo - Documentazione del prodotto
 title: Filtrare l’attività del bot e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 32e635cf2c37f078737103653c706ad7b1afb515
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Utilizziamo tre metodi distinti per confermare l’attività di bot:
 * Corrispondenza con [Elenco bot di Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: Le attività che corrispondono a qualsiasi elemento nell’elenco UA/IP (User Agent/IP address) IAB saranno contrassegnate come bot.
 * Corrispondenza con il pattern di prossimità: Quando più di due attività avvengono contemporaneamente (in meno di un secondo), vengono identificate come bot.
 
-In corrispondenza dell’attività di selezione dei collegamenti e-mail e apertura delle e-mail, i nuovi attributi verranno compilati con i valori seguenti:
+In corrispondenza dell’attività di clic e apertura del collegamento e-mail, i nuovi attributi verranno compilati con i valori seguenti:
 
 * Le attività identificate come bot avranno &quot;Attività bot&quot; come &quot;True&quot; e &quot;Pattern attività bot&quot; come pattern/metodo identificato
 * Le attività identificate come non bot avranno &quot;Attività bot&quot; come &quot;False&quot; e &quot;Pattern attività bot&quot; come &quot;N/A&quot;
