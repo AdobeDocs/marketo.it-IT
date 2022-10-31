@@ -2,7 +2,7 @@
 description: Panoramica della finestra di dialogo - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica della finestra di dialogo
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
@@ -21,7 +21,7 @@ La [Criteri del pubblico](/help/marketo/product-docs/demand-generation/dynamic-c
 
 ## Stream Designer {#stream-designer}
 
-La [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)Nella sezione {target=&quot;_blank&quot;} di una finestra di dialogo è possibile progettare la conversazione che si desidera avere con i visitatori del sito web.
+La [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)La sezione {target=&quot;_blank&quot;} di una finestra di dialogo consente di progettare la conversazione che si desidera avere con i visitatori del sito web.
 
 ![](assets/dialogue-overview-2.png)
 

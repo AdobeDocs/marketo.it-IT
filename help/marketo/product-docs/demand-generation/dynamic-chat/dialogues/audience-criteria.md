@@ -2,10 +2,10 @@
 description: Criteri del pubblico - Documenti Marketo - Documentazione del prodotto
 title: Criteri di audience
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '548'
+ht-degree: 1%
 
 ---
 
@@ -13,27 +13,33 @@ ht-degree: 0%
 
 Analogamente agli elenchi avanzati di Marketo, gli attributi dei criteri per il pubblico consentono di definire il pubblico di destinazione. Puoi eseguire il targeting di persone conosciute o sconosciute utilizzando attributi dedotti, di persone o di società (o una combinazione di essi).
 
+## Priorità {#priority}
+
+La priorità determina la finestra di dialogo che un lead riceve nel caso in cui si qualifichi per più di uno. È stabilito quando si inizia [crea la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}. È possibile modificare la priorità di una finestra di dialogo esistente aprendola e andando a **Dettagli finestra di dialogo** nella scheda Criteri di pubblico .
+
+![](assets/audience-criteria-1.png)
+
 ## Eventi {#events}
 
-![](assets/audience-criteria-0.png)
+![](assets/audience-criteria-2.png)
 
 Gli eventi ti consentono di eseguire il targeting dei visitatori in base al loro scorrimento o al loro tempo sulla pagina/sito. Nell’esempio seguente, il targeting è per i visitatori che si trovano su una pagina specifica da più di 20 secondi.
 
 1. Afferra la **Tempo sulla pagina** e trascinarlo a destra.
 
-   ![](assets/audience-criteria-0a.png)
+   ![](assets/audience-criteria-3.png)
 
 1. Impostare il tempo &quot;Maggiore di&quot; su 20 secondi.
 
-   ![](assets/audience-criteria-0b.png)
+   ![](assets/audience-criteria-4.png)
 
 1. Aggiungi l’URL della pagina desiderata nel [Target](#target) sezione .
 
-   ![](assets/audience-criteria-0c.png)
+   ![](assets/audience-criteria-5.png)
 
 ## Attributi {#attributes}
 
-![](assets/audience-criteria-0d.png)
+![](assets/audience-criteria-6.png)
 
 **Persone conosciute**
 
@@ -41,15 +47,15 @@ Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio segu
 
 1. Afferra la **Stato persona** e trascinalo a destra.
 
-   ![](assets/audience-criteria-1.png)
+   ![](assets/audience-criteria-7.png)
 
 1. _Is_ è impostato per impostazione predefinita. Nel campo Seleziona valori digitare CA (è inoltre possibile fare clic sul menu a discesa e selezionare dall’elenco).
 
-   ![](assets/audience-criteria-2.png)
+   ![](assets/audience-criteria-8.png)
 
 1. Afferra la **Dimensione dell&#39;azienda** attributo e trascinalo nel punto in cui dice _trascina un attributo qui_.
 
-   ![](assets/audience-criteria-3.png)
+   ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
@@ -57,11 +63,11 @@ Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio segu
 
 1. Fai clic sull’elenco a discesa dell’operatore e seleziona **Maggiore di**.
 
-   ![](assets/audience-criteria-4.png)
+   ![](assets/audience-criteria-10.png)
 
 1. Digitare 50 e fare clic in un altro punto dello schermo per salvare.
 
-   ![](assets/audience-criteria-5.png)
+   ![](assets/audience-criteria-11.png)
 
 Ed è tutto!
 
@@ -71,15 +77,15 @@ C&#39;è un modo semplice per indirizzare specificamente le persone che non sono
 
 1. Afferra la **E-mail persona** e trascinalo a destra.
 
-   ![](assets/audience-criteria-6.png)
+   ![](assets/audience-criteria-12.png)
 
 1. Fai clic sull’elenco a discesa dell’operatore e seleziona **È vuoto**.
 
-   ![](assets/audience-criteria-7.png)
+   ![](assets/audience-criteria-13.png)
 
 1. Afferra la **Stato interessato** attributo e trascinalo nel punto in cui dice _trascina un attributo qui_.
 
-   ![](assets/audience-criteria-8.png)
+   ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
@@ -87,15 +93,15 @@ C&#39;è un modo semplice per indirizzare specificamente le persone che non sono
 
 1. _Is_ è impostato per impostazione predefinita. Nel campo Seleziona valori digitare NY (è inoltre possibile fare clic sull’elenco a discesa e selezionarlo dall’elenco).
 
-   ![](assets/audience-criteria-9.png)
+   ![](assets/audience-criteria-15.png)
 
 ## Aggiungi gruppi {#add-groups}
 
 Hai anche la possibilità di raggruppare gli attributi, nel caso in cui desideri avere tutti gli attributi insieme a &quot;all o any&quot; di un altro. È possibile aggiungere più gruppi.
 
-![](assets/audience-criteria-10.png)
+![](assets/audience-criteria-16.png)
 
-![](assets/audience-criteria-11.png)
+![](assets/audience-criteria-17.png)
 
 ## Target {#target}
 
@@ -116,7 +122,7 @@ Formati accettabili:
 
 Utilizza le esclusioni per assicurarti che la finestra di dialogo funzioni **not** vengono visualizzate in una pagina/area specifica del sito. Le esclusioni seguono lo stesso formato delle inclusioni.
 
-![](assets/audience-criteria-12.png)
+![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
