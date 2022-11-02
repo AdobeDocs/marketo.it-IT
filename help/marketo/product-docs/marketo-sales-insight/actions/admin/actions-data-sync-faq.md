@@ -2,9 +2,9 @@
 description: Domande frequenti sulla sincronizzazione dei dati delle azioni - Documenti Marketo - Documentazione del prodotto
 title: Domande frequenti sulla sincronizzazione dei dati delle azioni
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Il proprietario della vendita non deve essere necessariamente l&#39;utente di si
 
 ![](assets/actions-data-sync-faq-3.png)
 
-I dati dell’attività, come e-mail, chiamata, momento interessante e web, provengono tutti dal database del Marketo Engage. La griglia intelligente di Insight vendite invia una richiesta all&#39;istanza di Marketo Engage per recuperarla ogni volta che un utente di vendita carica il pannello Insight vendite.
+I dati di attività come e-mail, chiamata, momento interessante e web, sono tutti derivati dal database del Marketo Engage. La griglia intelligente di Insight vendite invia una richiesta all&#39;istanza di Marketo Engage per recuperarla ogni volta che un utente di vendita carica il pannello Insight vendite.
 
 ![](assets/actions-data-sync-faq-4.png)
 
@@ -55,6 +55,8 @@ Ci sono 11 campi che si sincronizzano da Marketo Engage a azione Approfondimenti
 * Cognome
 * ID contatto Salesforce
 * ID lead Salesforce
+* ID account Salesforce
+* ID opportunità Salesforce
 * ID Marketo
 * Azienda
 * Titolo
