@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: d3070dba1556793905d8945eda12442fcba70ce9
+source-git-commit: 118d0d8266fce05ea670f141372f2dbc2ce10116
 workflow-type: tm+mt
-source-wordcount: '8820'
+source-wordcount: '8827'
 ht-degree: 0%
 
 ---
@@ -647,6 +647,7 @@ ht-degree: 0%
             + [Crea un evento con WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Creare un evento con zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Creare un evento con l&#39;adattatore Marketo ON24 {#create-an-event-with-the-marketo-on24-adapter}
+               + [Configurare l&#39;integrazione ON24 con Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
                + [Creare un evento con l&#39;adattatore Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Configurare le impostazioni evento e sincronizzare Marketo con il webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Creare un evento in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
