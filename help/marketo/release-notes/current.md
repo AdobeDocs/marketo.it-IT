@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
+source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '591'
 ht-degree: 3%
 
 ---
@@ -17,9 +17,110 @@ Di seguito sono elencate tutte le funzioni incluse nella versione del 22 ottobre
 >
 >Caratteristiche indicate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
-Le seguenti funzionalità inizieranno a essere rilasciate il **14 ottobre 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-## Orchestrazione tra canali {#cross-channel-orchestration}
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **14 ottobre 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+
+### Esperienza di nuova generazione {#next-generation-experience}
+
+* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
+
+   * Dettagli modello pagina di destinazione
+   * Elenco modelli e-mail
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Interruttore</a></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Miglioramento utilizzato dalla scheda nei dettagli del modello e-mail**: Nella nuova esperienza, vedrai ulteriori informazioni sulle risorse utilizzando il modello e-mail, tra cui Stato risorsa, Ultima modifica e Ultima modifica di. Puoi anche eseguire ricerche, ordinare e filtrare l’elenco delle risorse utilizzate.
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td>Spedito</td>
+   <td>n/d</td>
+  </tr>
+  </tbody>
+</table>
+
+* **Riporta moduli filtro risorse**: Nuova progettazione per i modelli di configurazione dei rapporti che visualizzano una nuova struttura delle risorse nel menu di configurazione e un filtro per Data di creazione e modifica.
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td>Spedito</td>
+   <td>n/d</td>
+  </tr>
+  </tbody>
+</table>
+
+### Ambiente dati di marketing {#marketing-data-environment}
+
+* **Integrazione di Adobe Privacy Service**: Armonizza con Privacy Service per automatizzare la conformità alle normative sulla privacy dei dati tra i prodotti Experience Cloud. Attualmente, questo servizio è disponibile solo per i clienti di Marketo Engage che hanno effettuato l’accesso al sistema Adobe Identity Management.
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### Miglioramenti API {#api-enhancements}
+
+* **Importazione in serie di lead: Associazione dei venditori**: Parità con l’API REST lead per poter associare i lead ai venditori durante il processo di importazione in serie per lead, riducendo la complessità e il numero di chiamate API richieste.
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td>Spedito</td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Importazione in blocco di lead</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### Approfondimenti vendite {#sales-insight}
+
+![(stella)](assets/yellow-star.png)
+
+* **Integrazione di Sales Insight con la chat dinamica**: Dashboard di Insights ora include attività di chat dinamiche nella griglia avanzata insieme a schede di riepilogo e dettagli settimanali.
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integrazione Chat dinamica</a></td>
+  </tr>
+  </tbody>
+</table>
+
+## Funzioni di rilascio di Agile
+
+Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse date prima o dopo la data di rilascio standard. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
 
 * **Flusso di dialogo di disposizione automatica per chat dinamica**: Migliora la tua area di dialogo affollata organizzando tutto sulla tela in un formato pulito e facile da leggere con la pressione di un pulsante attraverso Auto Arrange.
 
@@ -73,103 +174,6 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **14 ottobre 2022**
   <tr> 
    <td><i>In arrivo</i></td>
    <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-## Esperienza di nuova generazione {#next-generation-experience}
-
-* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
-
-   * Dettagli modello pagina di destinazione
-   * Elenco modelli e-mail
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Interruttore</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Miglioramento utilizzato dalla scheda nei dettagli del modello e-mail**: Nella nuova esperienza, vedrai ulteriori informazioni sulle risorse utilizzando il modello e-mail, tra cui Stato risorsa, Ultima modifica e Ultima modifica di. Puoi anche eseguire ricerche, ordinare e filtrare l’elenco delle risorse utilizzate.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Riporta moduli filtro risorse**: Nuova progettazione per i modelli di configurazione dei rapporti che visualizzano una nuova struttura delle risorse nel menu di configurazione e un filtro per Data di creazione e modifica.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-## Ambiente dati di marketing {#marketing-data-environment}
-
-* **Integrazione di Adobe Privacy Service**: Armonizza con Privacy Service per automatizzare la conformità alle normative sulla privacy dei dati tra i prodotti Experience Cloud. Attualmente, questo servizio è disponibile solo per i clienti di Marketo Engage che hanno effettuato l’accesso al sistema Adobe Identity Management.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## Miglioramenti API {#api-enhancements}
-
-* **Importazione in serie di lead: Associazione dei venditori**: Parità con l’API REST lead per poter associare i lead ai venditori durante il processo di importazione in serie per lead, riducendo la complessità e il numero di chiamate API richieste.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Importazione in blocco di lead</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## Approfondimenti vendite {#sales-insight}
-
-![(stella)](assets/yellow-star.png)
-
-* **Integrazione di Sales Insight con la chat dinamica**: Dashboard di Insights ora include attività di chat dinamiche nella griglia avanzata insieme a schede di riepilogo e dettagli settimanali.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integrazione Chat dinamica</a></td>
   </tr>
   </tbody>
 </table>
