@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 3%
@@ -22,6 +22,8 @@ Di seguito sono elencate tutte le funzioni incluse nella versione del 22 ottobre
 Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **14 ottobre 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
 
 ### Esperienza di nuova generazione {#next-generation-experience}
+
+</br>
 
 * **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
 
@@ -70,6 +72,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 ### Ambiente dati di marketing {#marketing-data-environment}
 
+</br>
+
 * **Integrazione di Adobe Privacy Service**: Armonizza con Privacy Service per automatizzare la conformità alle normative sulla privacy dei dati tra i prodotti Experience Cloud. Attualmente, questo servizio è disponibile solo per i clienti di Marketo Engage che hanno effettuato l’accesso al sistema Adobe Identity Management.
 
 <table> 
@@ -86,6 +90,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 ### Miglioramenti API {#api-enhancements}
 
+</br>
+
 * **Importazione in serie di lead: Associazione dei venditori**: Parità con l’API REST lead per poter associare i lead ai venditori durante il processo di importazione in serie per lead, riducendo la complessità e il numero di chiamate API richieste.
 
 <table> 
@@ -101,6 +107,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 </table>
 
 ### Approfondimenti vendite {#sales-insight}
+
+</br>
 
 ![(stella)](assets/yellow-star.png)
 
