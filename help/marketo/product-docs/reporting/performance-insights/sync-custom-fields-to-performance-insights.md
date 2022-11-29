@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14746432
-description: Sincronizza campi personalizzati con informazioni approfondite sulle prestazioni - Documenti Marketo - Documentazione prodotto
-title: Sincronizza campi personalizzati con approfondimenti delle prestazioni
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Sincronizza campi personalizzati con informazioni sulle prestazioni - Documenti Marketo - Documentazione del prodotto
+title: Sincronizza campi personalizzati con informazioni sulle prestazioni
+exl-id: 90b7cd29-b8f3-4f52-aa15-5c1a0e50b590
+source-git-commit: 84b1e13e29fb4c7d7b7d10660983f418e6d9957c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # Sincronizza campi personalizzati con informazioni sulle prestazioni {#sync-custom-fields-to-performance-insights}
 
-Le dashboard Revenue and Pipeline MPI possono filtrare sui campi Marketo personalizzati. per farlo, è necessario impostare i campi personalizzati da sincronizzare.
+Le dashboard Ricavi MPI e pipeline possono filtrare i campi Marketo personalizzati. per farlo, devi impostare i campi personalizzati da sincronizzare.
 
 >[!NOTE]
 >
@@ -21,29 +20,33 @@ Le dashboard Revenue and Pipeline MPI possono filtrare sui campi Marketo persona
 
 >[!NOTE]
 >
->Questo articolo è solo per gli utenti che **non** dispongono di Analisi del ciclo delle entrate. Se si dispone di RCA, seguire i passaggi in [questo articolo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
+>Questo articolo è solo per gli utenti che lo fanno **not** dispongono di analisi del ciclo dei ricavi. Se si dispone di RCA, seguire i passi in [articolo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
 
-1. Andate alla sezione **Admin**.
+1. Vai a **Amministratore** sezione .
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. In Altro, selezionare **Analisi programma**.
+1. In Altro, selezionare **Analisi del programma**.
 
    ![](assets/2-3.png)
 
-1. Fare clic sulla scheda **Sincronizzazione campo personalizzata**.
+1. Fai clic sul pulsante **Sincronizzazione campo personalizzata** scheda .
 
    ![](assets/3-5.png)
 
-1. Selezionate il campo per il quale desiderate abilitare la sincronizzazione e fate clic su **Modifica opzione di sincronizzazione**.
+1. Seleziona il campo per il quale desideri abilitare la sincronizzazione e fai clic su **Modifica opzione di sincronizzazione**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Modificate **Stato sincronizzazione** in **Abilitato**.
+   >[!IMPORTANT]
+   >
+   >I campi selezionati devono essere correlati solo all’area Opportunità del programma.
+
+1. Modificare la **Stato di sincronizzazione** a **Abilitato**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Selezionare il **RCA Type** desiderato, quindi fare clic su **Save**.
+1. Seleziona la **Tipo RCA** di tua scelta, quindi fai clic su **Salva**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
