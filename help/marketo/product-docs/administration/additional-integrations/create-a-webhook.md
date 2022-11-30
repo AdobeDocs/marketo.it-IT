@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Creare un Webhook - Marketo Docs - Documentazione del prodotto
 title: Creare un Webhook
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Utilizza i webhook per sfruttare i servizi web di terze parti per inviare messag
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
-1. Vai a **Amministratore** e fai clic su **Webhook**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. Fai clic su **Webhook**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. Fai clic su **Nuovo Webhook**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. Denomina e configura il tuo webhook.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ Utilizza i webhook per sfruttare i servizi web di terze parti per inviare messag
 
    * **Tipo di richiesta**: Selezionare il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT).
 
-   Fai clic su **Crea**.
+1. Fai clic su **Crea**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >

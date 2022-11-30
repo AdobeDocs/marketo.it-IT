@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: Configurazione delle impostazioni API SOAP - Documenti Marketo - Documentazione del prodotto
 title: Configurazione delle impostazioni API SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -21,13 +20,17 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** e fai clic su **Servizi web**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Imposta una **chiave di crittografia** appropriata, fai clic su **Salva modifiche** e passa tutte le informazioni al tuo sviluppatore.
+1. Fai clic su **Servizi Web**.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-2.png)
+
+1. Imposta un **Chiave di crittografia**, fai clic su **Salva modifiche**, e passare tutte le informazioni al tuo sviluppatore.
+
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >

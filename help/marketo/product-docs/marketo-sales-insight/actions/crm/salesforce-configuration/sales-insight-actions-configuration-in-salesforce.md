@@ -2,7 +2,7 @@
 description: Configurazione delle azioni di Insight sulle vendite in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Configurazione delle azioni di Insight sulle vendite in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ## Aggiungi nuovo sito remoto in Salesforce {#add-new-remote-site-in-salesforce}
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fai clic su **Configurazione**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Cerca &quot;sito remoto&quot; e seleziona **Impostazioni del sito remoto**.
+1. Cerca &quot;sito remoto&quot; e seleziona **Impostazioni del sito remoto**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. Fai clic su **Nuovo sito remoto**.
+1. Fai clic su **Nuovo sito remoto**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. Immettere il nome del sito remoto (può essere simile a &quot;MarketoSalesInsight2&quot;). Immettere l&#39;URL del sito remoto `https://mkto-sales-connect.adobe.io` e fai clic su **Salva**.
+1. Immettere il nome del sito remoto (può essere simile a &quot;MarketoSalesInsight2&quot;). Immettere l&#39;URL del sito remoto `https://mkto-sales-connect.adobe.io` e fai clic su **Salva**.
 
 ## Abilitazione delle azioni Approfondimenti vendite nel CRM {#enabling-sales-insight-actions-across-the-crm}
 
