@@ -3,53 +3,52 @@ unique-page-id: 11378468
 description: Filtraggio in Audit Trail - Documenti Marketo - Documentazione del prodotto
 title: Filtro in Audit Trail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Filtro nella traccia di audit {#filtering-in-audit-trail}
+# Filtro in Audit Trail {#filtering-in-audit-trail}
 
 Filtrare per intervallo di tempo, tipo di risorsa, utenti, azioni eseguite e altro ancora.
 
 1. Fai clic su **Amministratore**.
 
-   ![](assets/one-1.png)
+   ![](assets/filtering-in-audit-trail-1.png)
 
-1. In **Sicurezza**, seleziona **Audit Trail**.
+1. Sotto **Sicurezza**, seleziona **Audit Trail**.
 
-   ![](assets/two-1.png)
+   ![](assets/filtering-in-audit-trail-2.png)
 
 1. Fai clic sull’icona del filtro.
 
-   ![](assets/three.png)
+   ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
    >Ci sono una moltitudine di possibili combinazioni di parametri di ricerca. In questo esempio individuiamo: _tutte le e-mail - modificate da chiunque - nei sette giorni precedenti_.
 
-1. Fai clic sul menu a discesa **Periodo** e seleziona **Ultimi 7 giorni**.
+1. Fai clic sul pulsante **Punto** a discesa e seleziona **Ultimi 7 giorni**.
 
-   ![](assets/four.png)
+   ![](assets/filtering-in-audit-trail-4.png)
 
-1. Fai clic sul menu a discesa **Tipo di risorsa** e seleziona **E-mail**.
+1. Fai clic sul pulsante **Tipo di risorsa** a discesa e seleziona **E-mail**.
 
-   ![](assets/five.png)
+   ![](assets/filtering-in-audit-trail-5.png)
 
-1. Fai clic sull&#39;elenco a discesa **Azioni** e seleziona **Modifica**.
+1. Fai clic sul pulsante **Azioni** a discesa e seleziona **Modifica**.
 
-   ![](assets/six.png)
+   ![](assets/filtering-in-audit-trail-6.png)
 
-1. Fare clic su **Applica**.
+1. Fai clic su **Applica**.
 
-   ![](assets/seven.png)
+   ![](assets/filtering-in-audit-trail-7.png)
 
 1. I risultati filtrati vengono visualizzati a sinistra.
 
-   ![](assets/eight.png)
+   ![](assets/filtering-in-audit-trail-8.png)
 
    Tutto qui!
 
