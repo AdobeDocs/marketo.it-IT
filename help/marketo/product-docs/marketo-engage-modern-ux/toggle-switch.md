@@ -2,7 +2,7 @@
 description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
 title: Interruttore
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Interruttore {#toggle-switch}
 
-L&#39;interruttore di attivazione/disattivazione consente di passare dall&#39;interfaccia classica di Marketo all&#39;esperienza di Marketo Engage di nuova generazione. È disponibile in tutte le aree evidenziate di seguito.
+L&#39;interruttore di attivazione/disattivazione consente di passare dall&#39;interfaccia classica di Marketo all&#39;interfaccia UX moderna. È disponibile in tutte le aree evidenziate di seguito.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Abilita l’interruttore di attivazione/disattivazione per i singoli ruoli o tut
 
 ## Abilita per funzionalità {#enable-for-features}
 
-È possibile abilitare manualmente l’interfaccia di nuova generazione di Marketo per le singole funzioni o tutte le funzioni disponibili (attuali e future).
+È possibile abilitare manualmente il Marketo Engage UX moderno per le singole funzioni o tutte le funzioni disponibili (correnti e future).
 
 In un’area che al momento dispone dell’interruttore di attivazione/disattivazione (in questo esempio è disponibile la visualizzazione elenco e-mail), fai clic sull’interruttore in basso a destra della pagina.
 
@@ -55,7 +55,7 @@ Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
 
 ## Funzioni disponibili {#available-features}
 
-Le seguenti funzioni sono attualmente disponibili nell’interfaccia di nuova generazione di Marketo (con nuove funzioni aggiunte a ogni versione):
+Le seguenti funzioni sono attualmente disponibili nell’interfaccia utente moderna (con nuove funzioni aggiunte a ogni versione):
 
 * Visualizzazione dettagli e-mail
 * Visualizzazione a elenco e-mail
