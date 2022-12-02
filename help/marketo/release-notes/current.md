@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 3%
@@ -53,7 +53,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-### Esperienza di nuova generazione {#next-generation-experience}
+### Esperienza di nuova generazione {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Interruttore</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Interruttore</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
 * **Forms 1.0**: La versione 1.0 di Forms diventerà obsoleta con la versione di ottobre. Le risorse Forms 1.0 non saranno più in grado di inviare dati al Marketo Engage e restituiranno errori se tentati.
 
 * **Forms senza script**: Forms non funzionerà più quando JavaScript è disabilitato nel browser. Per l’invio del modulo è necessario abilitare Javascript.
+
