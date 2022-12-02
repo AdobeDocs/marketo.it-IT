@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
+source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '628'
 ht-degree: 3%
 
 ---
@@ -33,8 +33,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campi personalizzati membri del programma</a></td>
   </tr>
   </tbody>
 </table>
