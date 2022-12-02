@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
+source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 3%
@@ -25,7 +25,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Sincronizzazione campi personalizzati membri del programma**: Possibilità di sincronizzare bidirezionalmente i campi estensibili acquisiti per un membro del programma (ad esempio, preferenze dei partecipanti durante la registrazione dell&#39;evento come cibo, sessioni, tracce, ecc.)
+* **Sincronizzazione campo personalizzata membro del programma**: Possibilità di sincronizzare bidirezionalmente i campi estensibili acquisiti per un membro del programma (ad esempio, preferenze dei partecipanti durante la registrazione dell&#39;evento come cibo, sessioni, tracce, ecc.)
 
 <table> 
   <tr> 
@@ -34,7 +34,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campi personalizzati membri del programma</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campo personalizzata membro del programma</a></td>
   </tr>
   </tbody>
 </table>
