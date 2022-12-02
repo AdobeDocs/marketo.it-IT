@@ -1,7 +1,8 @@
 ---
 description: Note sulla versione - Gennaio 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2022
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
@@ -10,7 +11,7 @@ ht-degree: 0%
 
 # Note sulla versione: Gennaio 2022 {#release-notes-jan-22}
 
-Le seguenti funzionalità sono incluse nella versione del 22 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta l’edizione del Marketo Engage di Adobe.
+Le seguenti funzionalità sono incluse nella versione del 22 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
 
 >[!AVAILABILITY]
 >
@@ -20,7 +21,7 @@ Le seguenti funzionalità sono incluse nella versione del 22 gennaio. Per inform
 
 Le seguenti funzionalità inizieranno a essere rilasciate il **21 gennaio 2022**, con un rollout graduale di ogni feature nelle settimane successive (salvo diversa indicazione).
 
-## Esperienza di nuova generazione {#next-generation-experience}
+## Esperienza di nuova generazione {#modern-ux}
 
 * **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
 
@@ -77,7 +78,7 @@ I clienti di Marketo Engage che utilizzano anche Adobe Experience Platform (AEP)
 
 ## Annunci {#announcements}
 
-* **Obsolescenza di Marketo Sky**: A marzo, Marketo Sky non sarà più disponibile in quanto concentreremo le nostre risorse sulla distribuzione dell’esperienza utente di nuova generazione. Per mantenere l’accesso a funzionalità esclusive di Marketo Sky, a marzo porteremo Asset Expiration e Smart Campaign Priority Override nell’esperienza tradizionale. [Fai clic qui](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) per saperne di più.
+* **Obsolescenza di Marketo Sky**: A marzo, Marketo Sky non sarà più disponibile in quanto concentreremo le nostre risorse sulla distribuzione dell’esperienza utente di nuova generazione. Per mantenere l’accesso a funzionalità esclusive di Marketo Sky, a marzo porteremo Asset Expiration e Smart Campaign Priority Override nell’esperienza tradizionale. [Fai clic qui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) per saperne di più.
 
 * **Elementi obsoleti del modulo**: I POST programmatici non supportati nell’endpoint leadCapture/save2 verranno rifiutati dai moduli di Marketo Engage. [Fai clic qui](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) per saperne di più.
 

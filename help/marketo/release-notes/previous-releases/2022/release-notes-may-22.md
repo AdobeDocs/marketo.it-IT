@@ -2,7 +2,7 @@
 description: Note sulla versione - Maggio 2022 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Maggio 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 **[Intestazione STS per i collegamenti di tracciamento e-mail](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Soddisfa le best practice di sicurezza con la possibilità di applicare intestazioni Secure Transport Security per garantire che il traffico verso i collegamenti tracciati sia sempre sicuro.
 
-## Esperienza di nuova generazione {#next-generation-experience}
+## Esperienza di nuova generazione {#modern-ux}
 
 **Attiva/disattiva switch predefinito per l&#39;esperienza di nuova generazione**: l’interruttore di attivazione/disattivazione sarà predefinito per la nuova esperienza in tutte le schermate in cui è disponibile, facilitando agli utenti la scoperta dei progetti aggiornati e dei miglioramenti all’usabilità.
 

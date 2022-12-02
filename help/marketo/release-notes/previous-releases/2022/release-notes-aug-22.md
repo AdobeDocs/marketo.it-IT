@@ -2,7 +2,7 @@
 description: Note sulla versione - Agosto 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Agosto 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Le seguenti funzioni hanno avviato un rollout graduale **26 agosto 2022**.
 
 * **Visualizza gerarchia cartelle della cartella di destinazione nella finestra di dialogo Sposta**: La visualizzazione della gerarchia di cartelle per ciascuna cartella semplifica lo spostamento delle risorse e riduce la probabilità di inserirle nella cartella errata.
 
-* **[Schermi aggiornati nell’esperienza di nuova generazione](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
+* **[Schermi aggiornati nell’esperienza di nuova generazione](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
 
    * Dettagli frammento
    * Dettagli su &quot;Immagini e file&quot;

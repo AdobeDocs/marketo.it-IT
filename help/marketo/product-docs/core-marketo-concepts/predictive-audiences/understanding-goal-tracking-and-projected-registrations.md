@@ -2,7 +2,7 @@
 description: Tracciamento degli obiettivi e registrazioni previste - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sul tracciamento degli obiettivi e sulle registrazioni previste
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Ecco come tracciare il progresso del tuo obiettivo e comprendere le previsioni d
 
 >[!PREREQUISITES]
 >
->Per accedere alla maggior parte di queste funzioni, assicurati di abilitare il [interruttore di nuova generazione](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} per i programmi evento.
+>Per accedere alla maggior parte di queste funzioni, assicurati di abilitare il [interruttore di nuova generazione](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} per i programmi evento.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Nel calcolo di programmi simili, includiamo, tra gli altri, i seguenti fattori:
 
 * Tipo di programma
 * Canale del programma
-* Dimensione del pubblico
+* Dimensione pubblico
 * Tag del programma
 * Durata del tempo dalla creazione dell’evento all’inizio dell’evento
 * Durata dell&#39;evento
@@ -122,7 +122,7 @@ v. In qualsiasi momento, se desideri comprendere il motivo per cui viene visuali
 
 R: Tre barre, ciascuna delle quali rappresenta un segmento (molto probabile, probabile, meno probabile).
 
-**Linea punteggiata viola:** Tasso medio di conversazione per la registrazione in quel segmento, in base a programmi simili passati.
+**Linea punteggiata viola:** Tasso medio di conversazione per la registrazione in quel segmento, sulla base di programmi simili passati.
 
 **Barra blu:** Percentuale di registrazione di tutte le persone in quel segmento.
 

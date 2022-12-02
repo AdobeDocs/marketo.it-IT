@@ -2,7 +2,7 @@
 description: Note sulla versione - Giugno 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Giugno 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 0%
@@ -37,8 +37,8 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **24 giugno 2022**,
 
 **Nuova visualizzazione alternata**: Le visualizzazioni seguenti sono ora disponibili nell’esperienza di nuova generazione:
 
-* [Visualizzazione dettagli e-mail](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [Visualizzazione a elenco e-mail](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [Visualizzazione dettagli e-mail](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [Visualizzazione a elenco e-mail](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## Automazione delle esperienze {#experience-automation}
 

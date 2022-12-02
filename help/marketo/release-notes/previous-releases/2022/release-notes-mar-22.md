@@ -2,7 +2,7 @@
 description: Note sulla versione - Marzo 2022 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Marzo 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 
 * **Miglioramento del filtro dell’attività del bot e-mail**: Come miglioramento alla versione precedente [Filtro attività bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}, ora puoi acconsentire alle attività di registrazione identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
 
-## Esperienza di nuova generazione {#next-generation-experience}
+## Esperienza di nuova generazione {#modern-ux}
 
 * **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
 
@@ -73,7 +73,7 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ## Annunci {#announcements}
 
-* **Obsolescenza di Marketo Sky**: A marzo, Marketo Sky non sarà più disponibile in quanto concentreremo le nostre risorse sulla distribuzione dell’esperienza utente di nuova generazione. Per mantenere l’accesso alle funzionalità esclusive di Marketo Sky, ora vengono introdotte nell’esperienza classica le opzioni Scadenza risorse e Override priorità di Smart Campaign. [Fai clic qui](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) per saperne di più.
+* **Obsolescenza di Marketo Sky**: A marzo, Marketo Sky non sarà più disponibile in quanto concentreremo le nostre risorse sulla distribuzione dell’esperienza utente di nuova generazione. Per mantenere l’accesso alle funzionalità esclusive di Marketo Sky, ora vengono introdotte nell’esperienza classica le opzioni Scadenza risorse e Override priorità di Smart Campaign. [Fai clic qui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) per saperne di più.
 
 **_Webinar sulla versione del prodotto_**
 
