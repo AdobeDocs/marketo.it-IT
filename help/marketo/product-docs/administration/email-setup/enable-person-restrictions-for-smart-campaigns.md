@@ -3,17 +3,16 @@ unique-page-id: 2360243
 description: Abilita restrizioni di persona per campagne avanzate - Documenti Marketo - Documentazione del prodotto
 title: Abilitare le restrizioni alle persone per le campagne avanzate
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 # Abilitare le restrizioni alle persone per le campagne avanzate {#enable-person-restrictions-for-smart-campaigns}
 
-In Marketo è disponibile una funzione che consente di limitare il numero _massimo_ di persone idonee per una campagna avanzata. Questo evita di inviare accidentalmente l&#39;intero database.
+È presente una funzione in Marketo per limitare il _massimo_ numero di persone idonee per una campagna intelligente. Questo evita di inviare accidentalmente l&#39;intero database.
 
 >[!NOTE]
 >
@@ -23,13 +22,17 @@ In Marketo è disponibile una funzione che consente di limitare il numero _massi
 >
 >Questo vale solo per le campagne batch e i programmi e-mail.
 
-1. Fai clic su **Amministratore**, quindi su **Campagna avanzata**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-18-15-3a58-3a29.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. Fare clic su **Modifica**.
+1. Fai clic su **Smart Campaign**.
 
-   ![](assets/image2014-9-18-15-3a59-3a7.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
+
+1. Fai clic su **Modifica**.
+
+   ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
    >[!CAUTION]
    >
@@ -37,7 +40,7 @@ In Marketo è disponibile una funzione che consente di limitare il numero _massi
 
 1. Inserisci un limite e fai clic su **Salva**.
 
-   ![](assets/image2014-9-18-15-3a59-3a56.png)
+   ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 
    >[!TIP]
    >
@@ -47,7 +50,7 @@ In Marketo è disponibile una funzione che consente di limitare il numero _massi
    >
    >Questo limite viene applicato a tutte le campagne avanzate, ma può essere ignorato a livello di campagna. Scopri come [ignorare le restrizioni relative alle persone in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
-Bingo! Hai appena acceso l&#39;interruttore di sicurezza. Buona idea, vero?
+Completato! Hai appena acceso l&#39;interruttore di sicurezza.
 
 >[!MORELIKETHIS]
 >

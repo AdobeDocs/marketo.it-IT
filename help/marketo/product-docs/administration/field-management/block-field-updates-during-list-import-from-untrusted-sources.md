@@ -3,10 +3,9 @@ unique-page-id: 2360335
 description: Aggiornamenti dei campi di blocco durante l’importazione dell’elenco da origini non attendibili - Documenti Marketo - Documentazione del prodotto
 title: Aggiornamenti dei campi di blocco durante l'importazione dell'elenco da origini non attendibili
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,32 +18,36 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-## Blocco degli aggiornamenti dei campi da origini non attendibili {#blocking-field-updates-from-untrusted-sources}
+## Blocco Degli Aggiornamenti Dei Campi Da Origini Non Attendibili {#blocking-field-updates-from-untrusted-sources}
 
-1. Vai a **Amministratore** e fai clic su **Gestione campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-19-9-3a38-3a38.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Trova il campo desiderato, selezionalo, quindi in **Azioni campo**, fai clic su **Blocca aggiornamenti campo**.
+1. Fai clic su **Gestione dei campi**.
 
-   ![](assets/image2014-9-19-9-3a39-3a40.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Selezionare **Importa elenco origine non attendibile** e fare clic su **Applica**.
+1. Trovare il campo desiderato, selezionarlo, quindi sotto **Azioni campo**, fai clic su **Aggiornamenti dei campi di blocco**.
 
-   ![](assets/blockupdates.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
+
+1. Controlla **Importa elenco sorgente non attendibile** e fai clic su **Applica**.
+
+   ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->È possibile proteggere i campi da tutti gli elenchi, attendibili e non attendibili, anche selezionando **Importa origine attendibile**.
+>È possibile proteggere i campi da tutti gli elenchi, affidabili e non attendibili, anche selezionando **Importa elenco fonti attendibili**.
 
 Ripetere i passaggi precedenti per tutti gli altri campi che si desidera proteggere dagli elenchi non attendibili.
 
-## Esecuzione di un&#39;importazione elenco non attendibile {#running-an-untrusted-list-import}
+## Esecuzione di un&#39;importazione di elenchi non attendibile {#running-an-untrusted-list-import}
 
 1. Quando esegui l’importazione dell’elenco, assicurati di selezionare **Non attendibile** se desideri che tutti i campi impostati nel passaggio precedente siano sicuri.
 
-   ![](assets/importpersondetails.jpg)
+   ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Per istruzioni dettagliate sull&#39;importazione degli elenchi, vedere [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+Per istruzioni dettagliate sull’importazione degli elenchi, consulta [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Ottimo lavoro! Ora è possibile proteggere i campi chiave da elenchi non attendibili.

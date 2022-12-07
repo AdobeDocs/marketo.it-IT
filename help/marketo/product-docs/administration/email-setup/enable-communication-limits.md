@@ -3,10 +3,9 @@ unique-page-id: 2360222
 description: Abilita i limiti di comunicazione - Documentazione di Marketo - Documentazione del prodotto
 title: Abilita limiti di comunicazione
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,41 +18,45 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Amministratore**, fai clic su **Limiti di comunicazione**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-18-15-3a53-3a37.png)
+   ![](assets/enable-communication-limits-1.png)
 
-1. Fare clic su **Modifica**.
+1. Fai clic su **Limiti di comunicazione**.
 
-   ![](assets/image2014-9-18-15-3a53-3a47.png)
+   ![](assets/enable-communication-limits-2.png)
+
+1. Fai clic su **Modifica**.
+
+   ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
    >Al giorno si basa sul giorno del calendario nel fuso orario dell’abbonamento (mezzanotte-mezzanotte).
 
-1. Fai clic sul menu a discesa **Per giorno** e seleziona il limite desiderato. In questo esempio scegliamo 1.
+1. Fai clic sul pulsante **Al giorno** e seleziona il limite desiderato. In questo esempio scegliamo 1.
 
-   ![](assets/three.png)
+   ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
    >Puoi anche scegliere **Personalizzato** se nessuna delle opzioni preimpostate funziona.
 
-1. Fai clic sul menu a discesa **Per 7 giorni** e seleziona il limite desiderato. In questo esempio scegliamo 5.
+1. Fai clic sul pulsante **Per 7 giorni** e seleziona il limite desiderato. In questo esempio scegliamo 5.
 
-   ![](assets/four.png)
+   ![](assets/enable-communication-limits-5.png)
 
 1. Seleziona **Blocca e-mail non operative**.
 
-   ![](assets/five.png)
+   ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >Ulteriori informazioni sulle [e-mail operative](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+   >Ulteriori informazioni su cosa [e-mail operative](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sono.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
-   ![](assets/six.png)
+   ![](assets/enable-communication-limits-7.png)
 
    >[!NOTE]
    >
