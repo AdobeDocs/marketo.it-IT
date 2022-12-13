@@ -2,9 +2,9 @@
 description: Panoramica di Adobe Identity Management - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Se hai un nuovo account con Adobe Marketo Engage (nuovo account, non solo una nuova istanza per un account esistente) a partire dal 15 febbraio 2022, potrebbe venire integrato con Adobe Identity Management System, a seconda del pacchetto di prodotti acquistato. Per verificare se è disponibile, contatta il tuo Marketo Admin o il Customer Success Manager del tuo account.
 
-Gli abbonamenti Marketo esistenti verranno migrati al sistema Adobe Identity Management a partire dalla fine di quest&#39;anno.
+Gli abbonamenti Marketo esistenti inizieranno la migrazione al sistema Adobe Identity Management nella seconda metà del 2023.
 
 >[!NOTE]
 >
@@ -69,7 +69,7 @@ Gli abbonamenti Marketo esistenti verranno migrati al sistema Adobe Identity Man
 * Ad Adobe, il ruolo di amministratore prodotto viene assegnato agli utenti aggiunti come amministratore prodotto in Adobe Admin Console
 * Adobe Product Admin è un ruolo di sola lettura e non può essere modificato o eliminato dal Marketo Engage.
 * L’amministratore di prodotto di Adobe dispone degli stessi diritti e privilegi di un amministratore Marketo standard.
-* Il ruolo dell’amministratore di Marketo Engage è ancora un amministratore e viene concesso a un utente del Marketo Engage.
+* Il ruolo di amministratore di Marketo Engage è ancora un amministratore e viene concesso a un utente del Marketo Engage.
 
 **C&#39;è qualche modifica nel supporto client API di gestione utenti?**
 
@@ -113,11 +113,11 @@ Sì. L’integrazione di Marketo con Adobe IMS supporta gli utenti Universal ID 
 
 **Come funziona l’autorizzazione dei dispositivi?**
 
-Adobe IMS al momento non supporta funzioni simili a quelle di autorizzazione dei dispositivi Marketo.
+Adobe IMS al momento non supporta funzioni come quelle di autorizzazione dei dispositivi Marketo.
 
 **È ancora possibile utilizzare la funzione &quot;Login in Invita finestra di dialogo utente&quot; per rendere unico l&#39;accesso di un utente dal suo messaggio e-mail?**
 
-No. Il flusso di lavoro Invito utente non è più attivo quando un abbonamento è abilitato per IMS, pertanto la funzione non è più valida. L’identità di Adobe richiede che l’identità di un utente sia determinata dalla sua e-mail.
+No. Il flusso di lavoro Invito utente non è più attivo quando un abbonamento è abilitato per IMS, pertanto la funzione non è più valida. L&#39;identità di Adobe richiede che l&#39;identità di un utente sia determinata dalla sua e-mail.
 
 **Per Adobe IMS, è possibile utilizzare Adobe ID, Enterprise ID o Federated ID?**
 
