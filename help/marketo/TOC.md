@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida a Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '8810'
+source-wordcount: '8812'
 ht-degree: 0%
 
 ---
@@ -1869,6 +1869,7 @@ ht-degree: 0%
 + Note sulla versione {#release-notes}
    + [Pianificazione del rilascio](release-notes/release-schedule.md)
    + [Versione corrente](release-notes/current.md)
+   + [Versione corrente](release-notes/temp.md)
    + Versioni precedenti {#previous-releases}
       + 2022 {#2022}
          + [Note sulla versione: Gennaio &#39;22](release-notes/previous-releases/2022/release-notes-jan-22.md)
