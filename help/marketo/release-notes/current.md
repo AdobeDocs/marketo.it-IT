@@ -1,11 +1,11 @@
 ---
-description: Note sulla versione corrente - Documentazione Marketo - Documentazione del prodotto
+description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 8%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 ## Funzioni di rilascio di Agile
 
 Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse date prima o dopo la data di rilascio standard. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+
+### Chat dinamica {#dynamic-chat}
+
+</br>
 
 * **Definisci elenco a discesa nella scheda di acquisizione informazioni per la chat dinamica**: Per garantire la pulizia dei dati, puoi definire elenchi di selezione per le schede di acquisizione delle informazioni in modo che i visitatori possano selezionare solo da un elenco predefinito di opzioni.
 
