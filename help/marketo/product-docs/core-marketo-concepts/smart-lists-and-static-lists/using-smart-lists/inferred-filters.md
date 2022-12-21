@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: Filtri indiretti - Documenti Marketo - Documentazione del prodotto
 title: Filtri indiretti
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # Filtri indiretti {#inferred-filters}
 
-Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e dedurre tutti i tipi di buone informazioni. Guardate.
+Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e dedurre tutti i tipi di buone informazioni.
+
+>[!NOTE]
+>
+>Per garantire che i valori dei campi dedotti rimangano aggiornati, aggiorniamo periodicamente il database utilizzato per le ricerche degli indirizzi IP. Gli aggiornamenti del database possono introdurre nuovi valori di campo dedotti che possono essere necessari per aggiungere alle definizioni dei filtri degli elenchi avanzati.
+>
+>Gli aggiornamenti del database possono verificarsi durante un [Rilascio del prodotto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Quando si verifica un aggiornamento, il [Note sulla versione del Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} conterrà una spiegazione di eventuali modifiche ai valori dei campi dedotti.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
