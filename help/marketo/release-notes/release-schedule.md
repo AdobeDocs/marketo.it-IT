@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
 title: Pianificazione del rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 1%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 1%
 
 **Stato**:
 
-* On Schedule - Stiamo pianificando di rilasciare le funzioni e i miglioramenti trimestrali alla data indicata
-* In corso - Stiamo sviluppando e documentando il contenuto per la pubblicazione alla data indicata
+* On Schedule - Stiamo pianificando di rilasciare le funzioni e i miglioramenti alla data indicata
+* In corso - Stiamo implementando le funzioni della versione
 * Spedito - Rilascio completato
 
 _Le date di rilascio sono soggette a modifica_
@@ -37,12 +37,12 @@ _Le date di rilascio sono soggette a modifica_
    <th width="250px">Stato</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Ottobre '22</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">Ottobre '22</a></td>
    <td>14 ottobre 2022</td>
    <td>Spedito</td>
   </tr>
   <tr> 
-   <td>Gennaio '23</td>
+   <td><a href="/help/marketo/release-notes/current.md">Gennaio '23</a></td>
    <td>20 gennaio 2023</td>
    <td>On Schedule</td>
   </tr>
