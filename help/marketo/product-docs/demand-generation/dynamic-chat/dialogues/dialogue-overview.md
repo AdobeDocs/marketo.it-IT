@@ -25,7 +25,7 @@ La [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-c
 
 ![](assets/dialogue-overview-2.png)
 
-## Report {#reports}
+## Rapporti {#reports}
 
 La [Rapporti](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)La sezione {target=&quot;_blank&quot;} di una finestra di dialogo consente di visualizzare le metriche relative alle prestazioni della finestra di dialogo.
 

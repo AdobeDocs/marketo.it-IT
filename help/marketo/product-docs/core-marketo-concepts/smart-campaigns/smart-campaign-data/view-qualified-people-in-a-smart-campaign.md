@@ -3,7 +3,6 @@ unique-page-id: 1146966
 description: Visualizzare le persone qualificate in una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Visualizzare le persone qualificate in una campagna avanzata
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -23,7 +22,7 @@ Visualizza le persone idonee per l’esecuzione di una campagna avanzata durante
 >
 >Le campagne avanzate di attivazione non visualizzano le persone qualificate, in quanto vengono eseguite in base a eventi live.
 
-1. La scheda **Persone qualificate** elenca le persone idonee ad attraversare il flusso durante l&#39;esecuzione della campagna.
+1. La **Persone qualificate** nella scheda vengono elencate le persone idonee per l’esecuzione del flusso durante la campagna.
 
    ![](assets/qualifiedpeople-tab.png)
 

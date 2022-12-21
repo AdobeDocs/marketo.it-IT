@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ Dare agli eventi obiettivi specifici e vedere come si comportano.
 
    ![](assets/setting-event-goals-1.png)
 
-1. Scegli la [!UICONTROL Cartella campagna], assegna all&#39;evento un [!UICONTROL Nome], seleziona [!UICONTROL Tipo di programma] e [!UICONTROL Canale]. Fai clic su **[!UICONTROL Crea]** al termine.
+1. Scegli la [!UICONTROL Campaign Folder], assegna all&#39;evento un [!UICONTROL Name], seleziona [!UICONTROL Program Type] e [!UICONTROL Channel]. Fai clic su **[!UICONTROL Create]** al termine.
 
    ![](assets/setting-event-goals-2.png)
 
-1. In un evento, fai clic su **[!UICONTROL Rapporti]** scheda .
+1. In un evento, fai clic su **[!UICONTROL Reports]** scheda .
 
    ![](assets/setting-event-goals-3.png)
 
-1. Immettere l&#39;obiettivo per [!UICONTROL Registrato] facendo clic su **[!UICONTROL Impostare un obiettivo]**. Digita il numero in e premi invio.
+1. Immettere l&#39;obiettivo per [!UICONTROL Registered] facendo clic su **[!UICONTROL Set a goal]**. Digita il numero in e premi invio.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. Ripeti gli stessi passaggi per [!UICONTROL Partecipato].
+1. Ripeti gli stessi passaggi per [!UICONTROL Attended].
 
    ![](assets/setting-event-goals-6.png)
 
@@ -44,4 +44,4 @@ Dare agli eventi obiettivi specifici e vedere come si comportano.
 >
 >Non puoi impostare obiettivi per un evento dopo l&#39;avvio.
 
-Ed è tutto! Controlla lo stato dell&#39;obiettivo dell&#39;evento facendo clic sul pulsante [!UICONTROL Rapporti] scheda .
+Ed è tutto! Controlla lo stato dell&#39;obiettivo dell&#39;evento facendo clic sul pulsante [!UICONTROL Reports] scheda .

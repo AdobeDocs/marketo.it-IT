@@ -16,9 +16,9 @@ Le seguenti funzioni sono incluse nella versione di agosto 2014. Per informazion
 
 ## Licenze calendario di marketing {#marketing-calendar-licenses}
 
-Dopo il 5 settembre 2014, solo 5 utenti possono avere accesso gratuito al calendario di marketing. Assicurati di [Rilasciare/revocare una licenza di Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti che preferisci prima di allora per un accesso senza interruzioni.
+Dopo il 5 settembre 2014, solo 5 utenti possono avere accesso gratuito al calendario di marketing. Assicurati di [Rilascio/revoca di una licenza di calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti di tua scelta prima di allora per un accesso ininterrotto.
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nuove autorizzazioni utente {#new-user-permissions}
 
@@ -34,7 +34,7 @@ Sono state aggiunte le seguenti nuove autorizzazioni utente:
 
 ## Esportare utenti e ruoli da Amministratore {#export-users-and-roles-from-admin}
 
-Ora è possibile [esportare un elenco di utenti e ruoli](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Puoi anche includere una marca temporale &quot;Ultimo accesso&quot; da includere nell’esportazione.
+Ora puoi [Esportare un elenco di utenti e ruoli](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Puoi anche includere una marca temporale &quot;Ultimo accesso&quot; da includere nell’esportazione.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

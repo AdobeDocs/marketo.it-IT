@@ -4,7 +4,7 @@ title: Creare e assegnare attività promemoria
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---

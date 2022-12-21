@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352633
-description: Preferito a Template - Marketo Docs - Documentazione prodotto
+description: Modello preferito - Documenti Marketo - Documentazione del prodotto
 title: Modello preferito
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
+# Modello preferito {#favorite-a-template}
 
-# Preferito a Template {#favorite-a-template}
+È possibile aggiungere modelli da qualsiasi categoria all&#39;elenco Preferiti. In questo modo viene generata automaticamente una nuova categoria nella parte superiore dell’elenco, per accedere rapidamente ai modelli più utilizzati.
 
-Potete aggiungere i modelli di qualsiasi categoria all&#39;elenco Preferiti. Questo genera automaticamente una nuova categoria nella parte superiore dell’elenco, in modo da poter accedere rapidamente ai modelli più utilizzati.
-
-Fate clic sulla stella accanto a un modello per preferirlo. Potete eseguire questa operazione dall’elenco dei modelli o dalla finestra dell’editor.
+Fai clic sulla stella accanto a un modello per preferirlo. Puoi eseguire questa operazione dall’elenco dei modelli o dalla finestra dell’editor.

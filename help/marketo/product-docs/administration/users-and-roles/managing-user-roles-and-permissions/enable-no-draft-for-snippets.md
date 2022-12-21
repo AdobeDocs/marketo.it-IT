@@ -3,7 +3,6 @@ unique-page-id: 10095636
 description: Abilita nessuna bozza per snippet - Documenti Marketo - Documentazione del prodotto
 title: Abilita nessuna bozza per snippet
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -29,19 +28,19 @@ Nessuna bozza viene abilitata automaticamente per tutti i ruoli di amministrator
 
    ![](assets/usersandroles.png)
 
-1. Vai alla scheda **Ruoli**, seleziona un ruolo, quindi fai clic su **Modifica ruolo**.
+1. Vai a **Ruoli** seleziona un ruolo, quindi fai clic su **Modifica ruolo**.
 
    ![](assets/editrole2.png)
 
-1. Espandere l&#39;opzione **Access Design Studio**.
+1. Espandi la **Access Design Studio** opzione .
 
    ![](assets/expanddesignstudio.png)
 
-1. Espandi l’opzione **Accedi a snippet** .
+1. Espandi la **Frammento di accesso** opzione .
 
    ![](assets/expandsnippet.png)
 
-1. Espandi l’autorizzazione **Approva snippet** e seleziona la casella **No-Draft** . Quindi fai clic su **Salva**.
+1. Espandi la **Approva snippet** autorizzazione e controllo **No-Draft** scatola. Quindi fai clic su **Salva**.
 
    ![](assets/2017-06-15-10-35-04.png)
 

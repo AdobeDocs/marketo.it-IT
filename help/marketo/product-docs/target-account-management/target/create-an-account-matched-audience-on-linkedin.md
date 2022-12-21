@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Creare un pubblico con corrispondenza account su LinkedIn {#create-an-account-matched-audience-on-linkedin}
 
-Crea tipi di pubblico corrispondenti dal tuo elenco account TAM per [LinkedIn Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn corrisponderà all&#39;elenco degli account nel loro sistema e puoi creare un pubblico LinkedIn basato su tale elenco account da attivare tra i canali LinkedIn. Questo consente agli esperti di marketing di eseguire il targeting delle persone all’interno o all’esterno del database.
+Crea tipi di pubblico corrispondenti dall’elenco degli account TAM per [Targeting degli annunci linkedIn](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn corrisponderà all&#39;elenco degli account nel loro sistema e puoi creare un pubblico LinkedIn basato su tale elenco account da attivare tra i canali LinkedIn. Questo consente agli esperti di marketing di eseguire il targeting delle persone all’interno o all’esterno del database.
 
 >[!PREREQUISITES]
-[Aggiungere tipi di pubblico corrispondenti a LinkedIn come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)>
 >
+>[Aggiungere tipi di pubblico corrispondenti a LinkedIn come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. In TAM, fai clic sulla scheda **Elenchi account** .
+1. In TAM, fai clic sul pulsante **Elenchi account** scheda .
 
    ![](assets/create-a-matched-audience-on-linkedin-1.png)
 
@@ -26,19 +26,19 @@ Crea tipi di pubblico corrispondenti dal tuo elenco account TAM per [LinkedIn Ad
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
-1. Fai clic sul menu a discesa **Azioni elenco account** e seleziona **Invia tramite AdBridge**.
+1. Fai clic sul pulsante **Azioni elenco account** a discesa e seleziona **Invia tramite AdBridge**.
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 
-1. Scegli **LinkedIn** e fai clic su **Avanti**.
+1. Scegli **linkedIn** e fai clic su **Successivo**.
 
    ![](assets/create-a-matched-audience-on-linkedin-4.png)
 
-1. Fai clic sul menu a discesa **Pubblico** . Puoi selezionare un pubblico esistente o crearne uno nuovo. In questo esempio, ne creeremo uno nuovo (se selezioni un pubblico esistente, passa al Passaggio 7).
+1. Fai clic sul pulsante **Pubblico** a discesa. Puoi selezionare un pubblico esistente o crearne uno nuovo. In questo esempio, ne creeremo uno nuovo (se selezioni un pubblico esistente, passa al Passaggio 7).
 
    ![](assets/create-a-matched-audience-on-linkedin-5.png)
 
-1. Fai clic sull&#39;elenco a discesa **Ad Account** e seleziona l&#39;account dell&#39;annuncio di destinazione.
+1. Fai clic sul pulsante **Account annuncio** e seleziona l’account dell’annuncio di destinazione.
 
    ![](assets/create-a-matched-audience-on-linkedin-6.png)
 
@@ -49,4 +49,5 @@ Crea tipi di pubblico corrispondenti dal tuo elenco account TAM per [LinkedIn Ad
 Ed è tutto. L&#39;elenco degli account è stato inviato a LinkedIn
 
 >[!MORELIKETHIS]
-[Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico di LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>
+>[Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico di LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

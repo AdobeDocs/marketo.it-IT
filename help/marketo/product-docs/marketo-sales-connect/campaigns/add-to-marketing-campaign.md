@@ -5,7 +5,7 @@ title: Aggiungi a campagna di marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Per aggiungere una persona a una campagna Marketo da Sales Connect, Sales Connect deve disporre dell&#39;ID lead Marketo della persona.
 
-1. Fare clic sulla scheda **Persone**.
+1. Fai clic sul pulsante **Persone** Tab.
 
    ![](assets/one-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. Poiché stai aggiungendo a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile scegliere di aggiungere altri contatti. Se lo si sceglie, fare clic su Individui e digitare il testo desiderato. Al termine, fai clic su **Avanti**.
+1. Poiché stai aggiungendo a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile scegliere di aggiungere altri contatti. Se lo si sceglie, fare clic su Individui e digitare il testo desiderato. Fai clic su **Successivo** al termine.
 
    ![](assets/five-2.png)
 
@@ -54,17 +54,17 @@ ht-degree: 0%
    >
    >Se l&#39;area di lavoro desiderata non è visibile, assicurati che l&#39;amministratore la distribuisca tramite la pagina Marketo Team Access.
 
-1. Seleziona la campagna desiderata e fai clic su **Avanti**.
+1. Seleziona la campagna desiderata e fai clic su **Successivo**.
 
    ![](assets/eight.png)
 
-1. Vengono visualizzati i contatti idonei. Fai clic su **Start** per aggiungerli.
+1. Vengono visualizzati i contatti idonei. Fai clic su **Inizio** per farli aggiungere.
 
    ![](assets/nine.png)
 
 ## Aggiungere un gruppo a una campagna {#add-a-group-to-a-campaign}
 
-1. Fare clic sulla scheda **Persone**.
+1. Fai clic sul pulsante **Persone** Tab.
 
    ![](assets/one-3.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. Poiché stai aggiungendo a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile scegliere di aggiungere altri contatti. Se lo si sceglie, fare clic su Individui e digitare il testo desiderato. Al termine, fai clic su **Avanti**.
+1. Poiché stai aggiungendo a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile scegliere di aggiungere altri contatti. Se lo si sceglie, fare clic su Individui e digitare il testo desiderato. Fai clic su **Successivo** al termine.
 
    ![](assets/thirteen.png)
 
@@ -96,10 +96,10 @@ ht-degree: 0%
    >
    >Se l&#39;area di lavoro desiderata non è visibile, assicurati che l&#39;amministratore la distribuisca tramite la pagina Marketo Team Access.
 
-1. Seleziona la campagna desiderata e fai clic su **Avanti**.
+1. Seleziona la campagna desiderata e fai clic su **Successivo**.
 
    ![](assets/eight.png)
 
-1. Vengono visualizzati i contatti idonei. Fai clic su **Start** per aggiungerli.
+1. Vengono visualizzati i contatti idonei. Fai clic su **Inizio** per farli aggiungere.
 
    ![](assets/nine.png)

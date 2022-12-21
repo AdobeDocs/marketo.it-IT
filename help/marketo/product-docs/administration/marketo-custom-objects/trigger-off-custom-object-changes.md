@@ -3,7 +3,6 @@ unique-page-id: 11378713
 description: Attivazione di modifiche agli oggetti personalizzati - Documenti Marketo - Documentazione del prodotto
 title: Attiva modifiche a oggetti personalizzati
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -20,12 +19,10 @@ ht-degree: 0%
 >* Per i clienti dell&#39;infrastruttura Orion
 >* Da utilizzare solo con oggetti personalizzati Marketo, non con oggetti personalizzati sincronizzati tramite l’integrazione nativa Salesforce o Microsoft Dynamics
 >* Come attivatore, non come filtro
-
 >
->
-Contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per abilitare i trigger di modifica degli oggetti personalizzati.
+>Contattare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per abilitare i trigger di modifica oggetti personalizzati.
 
-Nell’elenco smart di una campagna intelligente, puoi attivare un’azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda. È inoltre possibile creare un elenco smart che utilizza come attivatore una *modifica* in un oggetto personalizzato. Ad esempio, utilizzalo per inviare un’e-mail quando il nome di un corso viene aggiornato.
+Nell’elenco smart di una campagna intelligente, puoi attivare un’azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda. È inoltre possibile creare un elenco avanzato che utilizzi un *cambiare* in un oggetto personalizzato come attivatore. Ad esempio, utilizzalo per inviare un’e-mail quando il nome di un corso viene aggiornato.
 
 >[!NOTE]
 >

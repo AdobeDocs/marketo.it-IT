@@ -3,11 +3,10 @@ unique-page-id: 1147009
 description: Modifica successo del programma - Documentazione di Marketo - Documentazione del prodotto
 title: Modifica successo programma
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +28,7 @@ Se un gruppo di persone è contrassegnato accidentalmente con Successo programma
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Seleziona **Success** o **Success Date** come attributo.
+1. Seleziona **Completato** o **Data di successo** come attributo.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +36,7 @@ Se un gruppo di persone è contrassegnato accidentalmente con Successo programma
    >
    >Impostando la Data di successo su qualsiasi valore, il successo viene impostato automaticamente su true. L’impostazione di Success su true imposta automaticamente la Data di successo sulla data corrente.
 
-1. Impostare il **Nuovo valore** su **True** o **False**.
+1. Imposta la **Nuovo valore** a **True** o **False**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 

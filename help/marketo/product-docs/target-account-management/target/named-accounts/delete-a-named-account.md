@@ -1,15 +1,14 @@
 ---
 unique-page-id: 12615802
-description: Eliminare un account denominato - Documenti Marketo - Documentazione del prodotto
+description: Eliminare un account denominato - Documentazione Marketo - Documentazione del prodotto
 title: Eliminare un account denominato
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Eliminare un account denominato {#delete-a-named-account}
 
@@ -23,11 +22,11 @@ Segui questi passaggi rapidi per eliminare un account denominato.
    >
    >Ctrl+clic (Windows) o Comando+clic (Mac) per selezionare più account denominati.
 
-1. Fai clic sull&#39;elenco a discesa **Azioni account con nome** e seleziona **Elimina account con nome**.
+1. Fai clic sul pulsante **Azioni account denominate** a discesa e seleziona **Elimina account con nome**.
 
    ![](assets/eight-1.png)
 
-1. Fare clic su **Elimina**.
+1. Fai clic su **Elimina**.
 
    ![](assets/nine-1.png)
 

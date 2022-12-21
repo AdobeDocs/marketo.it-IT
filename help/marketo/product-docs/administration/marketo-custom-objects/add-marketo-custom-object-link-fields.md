@@ -3,7 +3,6 @@ unique-page-id: 10097613
 description: Aggiungere campi di collegamento oggetto personalizzato Marketo - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi campi di collegamento a oggetti personalizzati Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Aggiungi campi di collegamento oggetto personalizzato Marketo {#add-marketo-custom-object-link-fields}
+# Aggiungi campi di collegamento a oggetti personalizzati Marketo {#add-marketo-custom-object-link-fields}
 
 Quando si creano oggetti personalizzati, è necessario fornire campi di collegamento per collegare il record di oggetti personalizzati al record padre corretto.
 
@@ -22,7 +21,7 @@ Quando si creano oggetti personalizzati, è necessario fornire campi di collegam
 
 Ecco come creare un campo di collegamento in un oggetto personalizzato per una struttura uno-a-molti.
 
-1. Fare clic su **Amministratore** e in **Gestione database** selezionare **Oggetti personalizzati Marketo**.
+1. Fai clic su **Amministratore** e in **Gestione database**, seleziona **Oggetti personalizzati Marketo**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +29,7 @@ Ecco come creare un campo di collegamento in un oggetto personalizzato per una s
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Nella scheda **Campi** , fai clic su **Nuovo campo**.
+1. In **Campi** scheda , fai clic su **Nuovo campo**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -60,11 +59,11 @@ Ecco come creare un campo di collegamento in un oggetto personalizzato per una s
    >
    >Nel campo di collegamento sono supportati solo i tipi di campo stringa.
 
-1. Fare clic su **Salva.**
+1. Fai clic su **Salva.**
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
-## Creare un campo di collegamento per una struttura Many-to-Many {#create-a-link-field-for-a-many-to-many-structure} (Da molti-a-molti)
+## Creare un campo di collegamento per una struttura Molti-a-Molti {#create-a-link-field-for-a-many-to-many-structure}
 
 Ecco come creare un campo di collegamento in un oggetto intermedio da utilizzare in una struttura molti-a-molti.
 
@@ -72,7 +71,7 @@ Ecco come creare un campo di collegamento in un oggetto intermedio da utilizzare
 >
 >È necessario aver già creato l’oggetto intermedio ed eventuali oggetti personalizzati a cui si desidera collegarlo.
 
-1. Fare clic su **Amministratore** e in **Gestione database** selezionare **Oggetti personalizzati Marketo**.
+1. Fai clic su **Amministratore** e in **Gestione database**, seleziona **Oggetti personalizzati Marketo**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -80,7 +79,7 @@ Ecco come creare un campo di collegamento in un oggetto intermedio da utilizzare
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Nella scheda **Campi** , fai clic su **Nuovo campo**.
+1. In **Campi** scheda , fai clic su **Nuovo campo**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -104,7 +103,7 @@ Ecco come creare un campo di collegamento in un oggetto intermedio da utilizzare
    >
    >Nel campo di collegamento sono supportati solo i tipi di campo stringa.
 
-1. Fare clic su **Salva.**
+1. Fai clic su **Salva.**
 
    ![](assets/image2016-1-18-9-3a55-3a18.png)
 

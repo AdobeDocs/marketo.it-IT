@@ -44,7 +44,7 @@ Collega facilmente un evento Marketo a una riunione ReadyTalk. Utilizza un modul
 
 ## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
 
-È ora supportata Microsoft Dynamics 2011 on-premise con una distribuzione su Internet.
+È ora disponibile il supporto on-premise di Microsoft Dynamics 2011 con una distribuzione su Internet.
 
 ## Ganci (Torace del Tesoro) {#webhooks-treasure-chest}
 

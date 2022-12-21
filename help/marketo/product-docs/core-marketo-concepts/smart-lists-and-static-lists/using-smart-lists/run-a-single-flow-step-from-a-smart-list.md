@@ -3,11 +3,10 @@ unique-page-id: 557322
 description: Eseguire un singolo passaggio di flusso da un elenco avanzato - Marketo Docs - Documentazione del prodotto
 title: Eseguire un singolo passaggio di flusso da un elenco avanzato
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,7 +22,7 @@ Se desideri eseguire un solo passaggio di flusso una volta, puoi utilizzare un s
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona un elenco o un elenco smart con le persone incluse, quindi vai alla scheda **Persone** .
+1. Seleziona un elenco o un elenco smart con le persone incluse, quindi vai alla **Persone** scheda .
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,15 +30,15 @@ Se desideri eseguire un solo passaggio di flusso una volta, puoi utilizzare un s
    >
    >Questa funzionalità è disponibile sia per gli elenchi statici che per gli elenchi avanzati.
 
-1. Fare clic su **Seleziona tutto**. È inoltre possibile utilizzare **Ctrl/Cmd** e fare clic per selezionare alcuni record manualmente.
+1. Fai clic su **Seleziona tutto**. È inoltre possibile utilizzare **Ctrl/Comando** e fare clic su per selezionare alcuni record manualmente.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** verranno selezionate tutte le persone in tutte le pagine.
+   >Se i risultati si estendono su più pagine, facendo clic su **Seleziona tutto** selezionerà tutte le persone in tutte le pagine.
 
-1. In **Persona** **Azioni**, seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Cambia valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Sotto **Persona** **Azioni**, seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
@@ -47,11 +46,11 @@ Se desideri eseguire un solo passaggio di flusso una volta, puoi utilizzare un s
 
    ![](assets/runaction-hands.png)
 
-1. Immettere un nuovo valore. Fare clic su **Esegui ora**.
+1. Inserisci un nuovo valore. Fai clic su **Esegui ora**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Se si modificano i valori dei dati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fare clic su **Vai per**.
+1. Se si modificano i valori dei dati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fai clic su **Vai**.
 
    ![](assets/changedatavalue.jpg)
 

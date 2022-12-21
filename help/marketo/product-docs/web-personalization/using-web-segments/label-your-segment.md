@@ -1,40 +1,39 @@
 ---
 unique-page-id: 4719348
-description: Etichettare il segmento - Documenti Marketo - Documentazione prodotto
+description: Etichettare il segmento - Documenti Marketo - Documentazione del prodotto
 title: Etichettare il segmento
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
 # Etichettare il segmento {#label-your-segment}
 
-Esistono così tanti segmenti che lo scorrimento diventa complicato? Utilizzare le etichette per assegnare tag ai segmenti in modo da poterli trovare rapidamente.
+Hai così tanti segmenti che lo scorrimento diventa ingombrante? Utilizza le etichette per assegnare tag ai segmenti in modo da poterli trovare rapidamente.
 
 ## Assegnare tag a un segmento {#tag-a-segment}
 
-1. Accedi a Web Personalization (Personalizzazione Web) e vai a **Segments** (Segmenti).
+1. Accedi a Personalizzazione web e vai a **Segmenti**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Seleziona i segmenti a cui applicare un tag con un’etichetta.
+1. Seleziona i segmenti a cui assegnare un’etichetta.
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Per utilizzare un&#39;etichetta esistente, fare clic su **Imposta etichetta**, selezionare una casella e fare clic su **Applica**.
+1. Per utilizzare un’etichetta esistente, fai clic su **Imposta etichetta**, seleziona una casella e fai clic su **Applica**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. In alternativa, per creare una nuova etichetta, fare clic su **Imposta etichetta**, immettere il nuovo nome dell&#39;etichetta e fare clic su **Crea nuovo**.
+1. Oppure, per creare una nuova etichetta, fai clic su **Imposta etichetta**, immetti il nuovo nome dell’etichetta e fai clic su **Crea nuovo**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
    >[!NOTE]
    >
-   >Il pulsante Crea nuovo mostra il nome della nuova etichetta. Se l&#39;etichetta è troppo lunga, potrebbe non essere visualizzato &quot;Crea nuovo&quot;.
+   >Il pulsante Crea nuovo mostra il nome della nuova etichetta. Se l’etichetta è troppo lunga, potrebbe non essere visualizzato &quot;Crea nuovo&quot;.
 
-Fantastico! Ora puoi assegnare e creare etichette per i segmenti.
+Calmo! Ora sai come assegnare e creare etichette per i segmenti.

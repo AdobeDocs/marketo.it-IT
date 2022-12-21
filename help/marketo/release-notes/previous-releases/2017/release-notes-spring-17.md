@@ -18,9 +18,9 @@ Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati p
 
 ## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[I moduli lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) di linkedIn sono un modo più diretto per un’azienda di eseguire campagne di generazione di lead su LinkedIn. Le persone possono compilare moduli per esprimere interesse per un prodotto o un servizio, consentendo all’azienda di acquisire i dettagli della persona e sincronizzarli con Marketo, dove possono verificarsi processi di follow-up automatizzati e attività di indirizzamento dei lead.
+[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sono un modo più diretto per un&#39;azienda di eseguire campagne di generazione di lead su LinkedIn. Le persone possono compilare moduli per esprimere interesse per un prodotto o un servizio, consentendo all’azienda di acquisire i dettagli della persona e sincronizzarli con Marketo, dove possono verificarsi processi di follow-up automatizzati e attività di indirizzamento dei lead.
 
-L’integrazione di Marketo con LinkedIn Lead Gen Forms acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Lead Gen. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo trigger e filtro **Fills Out LinkedIn Lead Gen Form** .
+L’integrazione di Marketo con LinkedIn Lead Gen Forms acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Lead Gen. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo **Riempie il modulo LinkedIn Lead Gen** attiva e filtra.
 
 ![](assets/release-notes-image.png)
 

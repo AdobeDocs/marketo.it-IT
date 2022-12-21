@@ -36,7 +36,7 @@ Con questa nuova funzione, ora puoi tenere e consegnare e-mail in base ai fusi o
 
 >[!NOTE]
 >
->Se non puoi ancora abilitare il fuso orario dei destinatari nelle tue e-mail e nei tuoi programmi di coinvolgimento, non farti prendere dal panico! Questa funzione viene gradualmente abilitata per tutti i clienti.
+>Se non puoi ancora abilitare il fuso orario dei destinatari nelle tue e-mail e nei tuoi programmi di coinvolgimento, non preoccuparti! Questa funzione viene gradualmente abilitata per tutti i clienti.
 
 ## [Rivedi e-mail di esempio per segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
@@ -91,4 +91,4 @@ Ora puoi visualizzare in anteprima e-mail in remoto al di fuori di Marketo, semp
 
 **[Sostituire l’API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in modo remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.
+Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in modo remoto, consentendo loro di lavorare all’interno di un singolo sistema per gestire le risorse.

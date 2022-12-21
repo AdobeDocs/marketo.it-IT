@@ -3,7 +3,6 @@ unique-page-id: 1146999
 description: Token di attivazione per i momenti interessanti - Documenti Marketo - Documentazione del prodotto
 title: Token di attivazione per i momenti interessanti
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Scopri come utilizzare il [passaggio Interessante del flusso di momenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Scopri come utilizzare il [Interessante fase del flusso del momento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Token disponibili {#available-tokens}
 
-Consulta [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che puoi inserire in un momento interessante.
+Consulta [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che si possono mettere in un momento interessante.
 
 ## Token di attivazione {#trigger-tokens}
 
@@ -804,9 +803,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 >[!NOTE]
 >
->Se non ha un segno di spunta ![(tick)](assets/check.png) restituirà una stringa vuota (niente) nel momento interessante.
+>Se non ha un assegno ![(segno di spunta)](assets/check.png) allora restituirebbe una stringa vuota (niente) nel momento interessante.
 
-*Il trigger **Visita pagina Web** dispone di alcuni token aggiuntivi:
+&#42;Trigger **Pagina Web Visite** dispone di alcuni token aggiuntivi:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

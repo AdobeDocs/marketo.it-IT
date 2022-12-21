@@ -3,11 +3,10 @@ unique-page-id: 1147013
 description: Modifica della cadenza del programma di coinvolgimento - Documenti Marketo - Documentazione del prodotto
 title: Modifica la cadenza del programma di coinvolgimento
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,8 +28,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Seleziona **Sospeso** come **Nuovo valore** per impedire alla persona di ricevere contenuti.
+1. Seleziona **In pausa** come **Nuovo valore** per impedire alla persona di ricevere contenuti.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-È possibile impostare nuovamente la persona su **Normale** se si desidera che riceva nuovamente il contenuto.
+È possibile impostare nuovamente la persona su **Normale** se vuoi che inizino a ricevere di nuovo il contenuto.

@@ -1,60 +1,59 @@
 ---
 unique-page-id: 2359791
-description: Specificare l'obiettivo per l'offerta di riferimento - Documenti Marketo - Documentazione prodotto
-title: Specificare l'obiettivo per l'offerta di riferimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Specificare l'obiettivo per l'offerta di riferimento - Documenti Marketo - Documentazione del prodotto
+title: Specifica obiettivo per offerta di riferimento
+exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
+# Specifica obiettivo per offerta di riferimento {#specify-goal-for-referral-offer}
 
-# Specificare l&#39;obiettivo per l&#39;offerta di riferimento {#specify-goal-for-referral-offer}
+Quando [creare un’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), devi definire l’obiettivo di realizzazione. L’obiettivo può essere definito in base all’attività della persona sulla pagina web, ad esempio visite di pagina o iscrizioni. Puoi anche utilizzare un [evento JavaScript personalizzato](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Quando [create un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), dovete definire l&#39;obiettivo di evasione. L&#39;obiettivo può essere definito in base all&#39;attività della persona sulla pagina Web, ad esempio visite di pagina o registrazioni. È anche possibile utilizzare un evento JavaScript [personalizzato](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
-
-In alternativa, puoi utilizzare un attivatore per elenchi smart in Marketo per attendere qualsiasi attività cardine, ad esempio la creazione di un&#39;opportunità per la persona di riferimento.
+In alternativa, è possibile utilizzare un trigger di elenco smart in Marketo per attendere qualsiasi attività cardine, ad esempio la creazione di un’opportunità per la persona indicata.
 
 Obiettivi di esempio:
 
-* 10 visite di cui
-* 5 registrazioni di riferimento
+* 10 visite di riferimento
+* 5 iscrizioni di riferimento
 * 1 opportunità di riferimento creata
-* 2 acquisti e-commerce di riferimento
+* 2 acquisti e-commerce rinviati
 * 5 partecipanti al webinar di riferimento
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Selezionate l&#39;offerta di riferimento e fate clic su **Modifica bozza**.
+1. Seleziona l’offerta di riferimento e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. Nell&#39;editor delle offerte di riferimento, andate a **Impostazioni app** > **Dettagli offerta**.
+1. Nell’editor delle offerte di riferimento, vai a **Impostazioni app** > **Dettagli offerta**.
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. In **Impostazioni**, scegliete un tipo di evento dal menu a discesa **Obiettivo di evasione**.
+1. Sotto **Impostazioni**, scegli un tipo di evento dal **Obiettivo di realizzazione** a discesa.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->Se si prevede di utilizzare il passaggio di flusso **Assegna credito al referente**, è necessario selezionare il trigger **Smart List** come tipo di obiettivo di evasione.
+>Se prevedi di utilizzare il **Attribuisci credito al referente** passaggio di flusso, è necessario selezionare **Attivatore di elenchi avanzati** come tipo di obiettivo di realizzazione qui.
 
-* Visite di riferimento: I partecipanti all&#39;offerta ricevono credito per ogni visita da un amico alla pagina in cui è presente l&#39;offerta.
-* Sign-Ups Di Riferimento: I partecipanti all&#39;offerta ricevono credito per ogni amico che si registra per l&#39;offerta.
-* Trigger elenco avanzato: I partecipanti all&#39;offerta ottengono credito per ogni amico che soddisfa le condizioni di un [trigger di elenco smart](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) in una [campagna smart](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ad esempio, potete utilizzare un trigger che si attiva quando un potenziale potenziale di ricerca di riferimento si registra per un seminario Web.
+* Visite di riferimento: I partecipanti all’offerta ricevono credito per ogni visita da un amico alla pagina che ospita la tua offerta.
+* Segni di riferimento: I partecipanti all&#39;offerta ricevono credito per ogni amico che si iscrive all&#39;offerta.
+* Attivatore di elenchi avanzati: I partecipanti all&#39;offerta ricevono credito per ogni amico che soddisfa le condizioni di un [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) attivatore in un [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ad esempio, puoi utilizzare un trigger che viene attivato quando un potenziale potenziale di riferimento si iscrive a un webinar.
 
-* Evento JavaScript personalizzato: I partecipanti all&#39;offerta ottengono credito per ogni amico che attiva un evento JavaScript definito sulla pagina. Vedere [Script di conversione per eventi personalizzati](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* Evento JavaScript personalizzato: I partecipanti all’offerta ricevono credito per ogni amico che attiva un evento JavaScript definito sulla tua pagina. Vedi [Script di conversione per eventi personalizzati](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
->Nelle campagne intelligenti sono disponibili nuovi filtri e attivatori per monitorare l&#39;attività social. Consultate [usare attivatori e filtri per attività social](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>Nelle campagne avanzate sono disponibili nuovi filtri e trigger per monitorare l’attività social. Vedi [utilizzare trigger e filtri per attività social](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!MORELIKETHIS]
 >
->Successivamente, è possibile [selezionare le e-mail di registrazione e di evasione](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) da inviare dall&#39;offerta di riferimento.
+>Successivamente, puoi [seleziona le e-mail di registrazione e di evasione](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) da inviare dalla tua offerta di riferimento.

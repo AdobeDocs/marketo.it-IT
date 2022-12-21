@@ -3,7 +3,6 @@ unique-page-id: 10099785
 description: Modifica impostazioni iscrizione - Documentazione Marketo - Documentazione del prodotto
 title: Modifica impostazioni sottoscrizione
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Se hai accesso a più abbonamenti Marketo e vuoi essere sicuro di quale utilizzi, prova a assegnare a ciascuno un nome univoco. Tale nome viene quindi visualizzato nella parte superiore della pagina di abbonamento.
 
-Ad esempio, se lavori sia nelle istanze di produzione che in quelle sandbox, puoi denominare una sottoscrizione **Produzione Marketo** e l’altra **Sandbox Marketo**.
+Ad esempio, se lavori sia nelle istanze di produzione che in quelle sandbox, puoi assegnare un nome a una sottoscrizione **Produzione Marketo** e l&#39;altro **Sandbox Marketo**.
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
@@ -27,7 +26,7 @@ Ad esempio, se lavori sia nelle istanze di produzione che in quelle sandbox, puo
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Fare clic su **Modifica informazioni sottoscrizione**.
+1. Fai clic su **Modifica informazioni sottoscrizione**.
 
    ![](assets/image2016-5-24-10-3a34-3a32.png)
 

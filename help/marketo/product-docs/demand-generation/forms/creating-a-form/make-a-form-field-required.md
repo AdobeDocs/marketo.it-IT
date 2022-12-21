@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359569
-description: Rendi campo modulo obbligatorio - Documenti Marketo - Documentazione prodotto
-title: Impostazione di un campo modulo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Rendere obbligatorio un campo modulo - Documenti Marketo - Documentazione del prodotto
+title: Rendi obbligatorio un campo modulo
+exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# Rendi obbligatorio un campo modulo {#make-a-form-field-required}
 
-# Imposta campo modulo obbligatorio {#make-a-form-field-required}
+Quando [aggiunta di campi a un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) potrebbe essere necessario fare alcuni di loro alla persona che li sta riempiendo. Ecco come.
 
-Quando si aggiungono campi a un modulo [è possibile che sia necessario specificarne alcuni per la persona che li compila. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) Ecco come.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selezionare il modulo e fare clic su **Modifica modulo**.
+1. Seleziona il modulo e fai clic su **Modifica modulo**.
 
    ![](assets/editform-2.png)
 
@@ -27,16 +26,16 @@ Quando si aggiungono campi a un modulo [è possibile che sia necessario specific
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Ben fatto! Fare clic su **Fine**.
+1. Ben fatto! Fai clic su **Fine**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Fare clic su **Approva e Chiudi**.
+1. Fai clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->Non dimenticare di [approvare le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) in cui il modulo continua a pubblicare le modifiche.
+>Non dimenticarti di [approvare qualsiasi pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) questo modulo continua a esistere perché i cambiamenti diventino attivi.
 
-È necessario [riordinare i campi aggiunti al modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Deve [riordinare i campi aggiunti al modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

@@ -70,7 +70,8 @@ Quando il gruppo di marketing utilizza Marketo per inviare e-mail di test (una b
 Aggiungi questi indirizzi IP al tuo inserire nell&#39;elenco Consentiti aziendale:
 
 199.15.212.0/22\
-192.28.144.0/20 192.28.160.0/19\
+192.28.144.0/20
+192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\

@@ -3,7 +3,6 @@ unique-page-id: 1147120
 description: Importare i membri da un foglio di calcolo in un programma - Marketo Docs - Documentazione del prodotto
 title: Importare membri da un foglio di calcolo in un programma
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 È possibile importare un elenco di persone che diventano automaticamente membri di un programma. Ecco cosa fare.
 
-## Prepara il file CSV {#prepare-your-csv-file}
+## Preparare il file CSV {#prepare-your-csv-file}
 
 1. Crea un file CSV standard in Excel, come nell&#39;esempio seguente.
 
@@ -27,31 +26,31 @@ ht-degree: 0%
 
 ## Importare il CSV in Marketo {#import-your-csv-into-marketo}
 
-1. Nel programma, vai alla sezione **Membri** .
+1. Nel tuo programma, vai al **Membri** sezione .
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Fare clic su **Importa membri**.
+1. Fai clic su **Importa membri**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Seleziona il CSV e fai clic su **Avanti**.
+1. Seleziona il CSV e fai clic su **Successivo**.
 
    ![](assets/importlist1.png)
 
-1. Mappa i valori dei dati dall’elenco sui campi Marketo corrispondenti e fai clic su **Avanti**.
+1. Mappa i valori dei dati dall’elenco ai campi Marketo corrispondenti e fai clic su **Successivo**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Se esistono campi che non si desidera importare, selezionare **IGNORE** nel menu a discesa Campo Marketo.
+   >Se sono presenti campi che non si desidera importare, selezionare **IGNORE** nel menu a discesa Campo Marketo .
 
-1. Seleziona il **Stato membro** per il tuo elenco.
+1. Seleziona la **Stato membro** per la tua lista.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Fare clic su **Importa**.
+1. Fai clic su **Importa**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

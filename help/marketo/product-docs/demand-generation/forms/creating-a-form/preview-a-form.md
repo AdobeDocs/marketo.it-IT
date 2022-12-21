@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359575
-description: Anteprima di un modulo - Documenti Marketo - Documentazione prodotto
+description: Anteprima di un modulo - Documenti Marketo - Documentazione del prodotto
 title: Anteprima di un modulo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-
 # Anteprima di un modulo {#preview-a-form}
 
-Prima di pubblicare il modulo, è possibile visualizzarlo in questa anteprima rapida e semplice.
+Prima di pubblicare, è possibile visualizzare il modulo in questa anteprima rapida e semplice.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,20 +22,20 @@ Prima di pubblicare il modulo, è possibile visualizzarlo in questa anteprima ra
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. In **Azioni modulo** fare clic su **Anteprima**.
+1. Sotto **Azioni modulo**, fai clic su **Anteprima**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. L&#39;editor del modulo si aprirà in modalità **preview**.
+1. L’editor moduli si aprirà in **anteprima** modalità.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Fare clic su **Edit Draft** per tornare alla modalità **edit**.
+1. Fai clic su **Modifica bozza** per tornare a **modifica** modalità.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Per tornare indietro facilmente, fare clic su **Anteprima bozza**.
+1. Torna indietro facilmente facendo clic su **Anteprima bozza**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
-Non era così facile? Ora è possibile visualizzare l&#39;anteprima del modulo durante la modifica.
+Non era così facile? Ora è possibile visualizzare un’anteprima del modulo durante l’esecuzione delle modifiche.

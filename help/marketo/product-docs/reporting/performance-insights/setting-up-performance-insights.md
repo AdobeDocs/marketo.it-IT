@@ -1,35 +1,34 @@
 ---
 unique-page-id: 12981145
-description: Impostazione di approfondimenti sulle prestazioni - Documenti Marketo - Documentazione del prodotto
-title: Impostazione di approfondimenti sulle prestazioni
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Configurazione di informazioni sulle prestazioni - Documentazione Marketo - Documentazione del prodotto
+title: Impostazione di informazioni sulle prestazioni
+exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
+# Impostazione di informazioni sulle prestazioni {#setting-up-performance-insights}
 
-# Impostazione di approfondimenti sulle prestazioni {#setting-up-performance-insights}
-
-Seguite i passaggi riportati di seguito per impostare MPI.
+Per impostare MPI, effettua le seguenti operazioni.
 
 ## Impostazione opportunità {#opportunity-setup}
 
-1. Fare clic su **Admin**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/admin.png)
 
-1. Fare clic su **Analisi del ciclo economico**.
+1. Fai clic su **Analisi del ciclo dei ricavi**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Se non si dispone di RCA, è necessario selezionare **Analisi programma** per il passaggio 2.
+   >Se non hai RCA, dovrai selezionare **Analisi del programma** per il passaggio 2.
 
-1. In Attribuzione, fare clic su **Modifica**.
+1. In Attribution, fai clic su **Modifica**.
 
    ![](assets/three-1.png)
 
@@ -37,27 +36,27 @@ Seguite i passaggi riportati di seguito per impostare MPI.
 
    ![](assets/four-2.png)
 
-   Se Attribuzione è esplicita, accertatevi che il ruolo di contatto opportunità sia stato popolato (tramite l&#39;endpoint Ruolo opportunità o tramite l&#39;integrazione CRM).
+   Se Attribution è esplicito, assicurati che il ruolo Contatto opportunità sia stato popolato (tramite l’endpoint Ruolo opportunità o tramite l’integrazione con CRM).
 
-   Se Attribuzione è implicita, accertatevi che il campo società sul lead/contatto sia lo stesso del Nome account dell&#39;opportunità.
+   Se Attribution è implicito, assicurati che il campo società sul lead/contatto sia lo stesso del Nome account dell’opportunità.
 
    >[!NOTE]
    >
-   >Verifica che tutti i campi delle opportunità siano compilati:
+   >Assicurati che tutti i campi appropriati siano compilati:
    >
    >* Importo opportunità
-   >* È chiusa
-   >* È stato vinto
-   >* Data creazione (questa impostazione potrebbe non essere impostata nel caso in cui lo si tratti)
-   >* Data di chiusura (potrebbe non essere impostato nel caso in cui lo si tratti)
-   >* Tipo opportunità
+   >* È chiuso
+   >* Vinato
+   >* Data creazione (potrebbe non essere impostata nel caso in cui lo si verifichi)
+   >* Data di chiusura (potrebbe non essere impostata nel tuo caso)
+   >* Tipo di opportunità
 
 
-## Impostazione programma {#program-setup}
+## Configurazione del programma {#program-setup}
 
-Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o utilizzando l&#39;API del programma. In questo esempio lo facciamo manualmente.
+Aggiornare i costi del programma per almeno 12 mesi. Puoi eseguire questa operazione manualmente o utilizzando l’API del programma. In questo esempio lo facciamo manualmente.
 
-1. Fate clic su **Attività marketing**.
+1. Fai clic su **Attività di marketing**.
 
    ![](assets/ma.png)
 
@@ -65,57 +64,57 @@ Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o ut
 
    ![](assets/select-program.png)
 
-1. Fare clic sulla scheda **Setup**.
+1. Fai clic sul pulsante **Configurazione** scheda .
 
    ![](assets/setup-tab.png)
 
-1. Trascinare **Costo periodo** nell&#39;area di lavoro.
+1. Trascina **Costo del periodo** sulla tela.
 
    ![](assets/period-cost.png)
 
-1. Impostare il mese del programma almeno 12 mesi fa e fare clic su **Ok**.
+1. Imposta il mese del programma almeno 12 mesi fa e fai clic su **Ok**.
 
    ![](assets/set-period.png)
 
-1. Impostate il costo del periodo e fate clic su **Salva**.
+1. Imposta il costo del periodo e fai clic su **Salva**.
 
    ![](assets/set-cost.png)
 
-Quindi, controlla il comportamento di analisi per indicare se un particolare canale deve essere incluso nell&#39;analisi. Impostate il comportamento di Analytics (Normale, Inclusivo, Operativo).
+Quindi, controlla il comportamento di analisi per indicare se un particolare canale deve essere incluso in analytics. Imposta il comportamento di Analytics (Normale, Inclusivo, Operativo).
 
-1. Fare clic su **Admin**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/admin.png)
 
-1. Fare clic su **Tag**.
+1. Fai clic su **Tag**.
 
    ![](assets/tags.png)
 
-1. Fare clic su **+** per espandere l&#39;elenco Canale.
+1. Fai clic sul pulsante **+** per espandere l’elenco Canale.
 
    ![](assets/channel.png)
 
-1. Fate doppio clic sul canale desiderato.
+1. Fai doppio clic sul canale desiderato.
 
    ![](assets/channel-click.png)
 
-1. Fai clic sul menu a discesa **Comportamento analisi** e seleziona il comportamento desiderato.
+1. Fai clic sul pulsante **Comportamento di Analytics** e seleziona il comportamento desiderato.
 
    ![](assets/edit-channel.png)
 
-1. Impostate i criteri di successo.
+1. Imposta i criteri di successo.
 
    ![](assets/success.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/save.png)
 
-## Collegare il programma alla persona {#tie-the-program-to-the-person}
+## Legare il programma alla persona {#tie-the-program-to-the-person}
 
-1. Accertati che il programma di acquisizione e la data di acquisizione siano stati impostati per ogni persona presente nel tuo database al fine di poter utilizzare la funzione First Touch Attribution.
-1. Assicurati che i tuoi programmi stiano impostando gli stati di successo per le persone.
+1. Assicurati che il programma di acquisizione e la data di acquisizione siano stati impostati per ciascuna persona nel database in modo che l&#39;attribuzione Primo contatto funzioni.
+1. Assicurati che i tuoi programmi impostino gli stati di successo per il tuo personale.
 
 >[!NOTE]
 >
->Le modifiche apportate non sono istantanee. Prima dell&#39;entrata in vigore delle modifiche è necessario un periodo overnight.
+>Le modifiche apportate non sono istantanee. È necessario un periodo overnight prima che le modifiche entrino in vigore.

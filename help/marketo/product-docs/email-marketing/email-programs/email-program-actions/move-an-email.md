@@ -18,11 +18,11 @@ Hai bisogno di spostare un&#39;e-mail da un programma a un altro? Ecco come.
 
    ![](assets/move-an-email-1.png)
 
-1. Individua l&#39;e-mail da spostare, fai clic con il pulsante destro del mouse su di essa e seleziona **Sposta**.
+1. Individua l’e-mail da spostare, fai clic con il pulsante destro del mouse su di essa e seleziona **Sposta**.
 
    ![](assets/move-an-email-2.png)
 
-1. Selezionare **Destinazione**, **Programma** e **Cartella** opzionale. Selezionare **Sposta**.
+1. Seleziona la **Destinazione**, **Programma**, e facoltativo **Cartella**. Seleziona **Sposta**.
 
    ![](assets/move-an-email-3.png)
 

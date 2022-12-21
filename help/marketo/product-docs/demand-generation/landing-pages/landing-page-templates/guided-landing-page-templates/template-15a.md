@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 15A {#template-15a}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 

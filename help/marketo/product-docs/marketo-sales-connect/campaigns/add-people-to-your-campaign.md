@@ -1,28 +1,27 @@
 ---
 unique-page-id: 14352613
-description: Aggiungere persone alla campagna - Documenti Marketo - Documentazione prodotto
+description: Aggiungere persone alla campagna - Documentazione Marketo - Documentazione del prodotto
 title: Aggiungere persone alla campagna
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-
-# Aggiungi persone alla tua campagna {#add-people-to-your-campaign}
+# Aggiungere persone alla campagna {#add-people-to-your-campaign}
 
 Esistono diversi modi per aggiungere un utente a una campagna.
 
-Se iniziate a comunicare con un cliente o un potenziale cliente, potete utilizzare Aggiungi a campagna da qualsiasi pagina nella nostra applicazione Web o da Salesforce.
+Se inizi a comunicare con un potenziale cliente o un potenziale cliente, puoi utilizzare Aggiungi a Campaign da qualsiasi pagina della nostra applicazione web o da Salesforce.
 
-Questo flusso consente di visualizzare l&#39;anteprima, modificare e pianificare la prima e-mail nella campagna. Se la campagna inizia con un&#39;attività, tali attività verranno messe in coda nell&#39;elenco Attività dell&#39;applicazione Web e in Salesforce.
+Questo flusso ti consente di visualizzare in anteprima, modificare e pianificare la tua prima e-mail in Campaign e, se Campaign inizia con un’attività, queste attività verranno messe in coda per te nell’elenco Attività della nostra applicazione web e in Salesforce.
 
-È possibile farlo dalla scheda Campagne nella nostra applicazione Web.
+Puoi eseguire questa operazione dalla scheda Campagne nella nostra applicazione web.
 
-Puoi trovare il pulsante Aggiungi a campagna nelle pagine Conversazioni e Persone dell’applicazione Web.
+Puoi trovare il pulsante Aggiungi a campagna nelle pagine Conversazioni e Persone della nostra applicazione web.
 
-Se stai seguendo un potenziale o un cliente dalla posta in arrivo di Gmail o Outlook, puoi aggiungerli a una campagna tramite la finestra di composizione al momento di seguirli (se il primo passaggio nella campagna è un messaggio e-mail).
+Se stai seguendo un potenziale cliente o un potenziale cliente dalla Posta in arrivo di Gmail o Outlook, puoi aggiungerli a una Campagna tramite la finestra di composizione al momento di seguirli (se il primo passaggio nella Campagna è un messaggio e-mail).
 
 Basta rispondere alla loro e-mail e scegliere una campagna dal nostro plugin.

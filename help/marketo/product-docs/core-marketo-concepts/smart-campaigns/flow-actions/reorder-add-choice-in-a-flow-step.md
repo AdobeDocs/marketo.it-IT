@@ -3,7 +3,6 @@ unique-page-id: 557333
 description: Riordinare Aggiungi scelta in un passaggio del flusso - Documenti Marketo - Documentazione del prodotto
 title: Riordinare Aggiungi scelta in un passaggio di flusso
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -19,11 +18,11 @@ Poiché solo la prima scelta di abbinamento si applica a una persona, l&#39;ordi
 
    ![](assets/one.png)
 
-1. Spostiamo la scelta 3 sopra la scelta 2. Fai clic su **Scelta 3**, quindi fai clic su **Sposta su**.
+1. Spostiamo la scelta 3 sopra la scelta 2. Fai clic su **Scelta 3** quindi fai clic su **Sposta su**.
 
    >[!NOTE]
    >
-   >Durante il riordino, è possibile **Sposta su**, **Sposta giù** o **Sposta su**.
+   >Quando riordinate, potete **Sposta su**, **Sposta in basso** oppure **Sposta a**.
 
    ![](assets/two.png)
 
@@ -31,7 +30,7 @@ Poiché solo la prima scelta di abbinamento si applica a una persona, l&#39;ordi
 
    ![](assets/three.png)
 
-1. Se si dispone di molte opzioni e si desidera spostare uno o più livelli verso l&#39;alto o verso il basso, è possibile utilizzare questo metodo alternativo per risparmiare tempo. Fare clic sulla scelta da spostare, quindi in **Sposta a** trascinare il cursore nella posizione in cui si desidera spostare la scelta.
+1. Se si dispone di molte opzioni e si desidera spostare uno o più livelli verso l&#39;alto o verso il basso, è possibile utilizzare questo metodo alternativo per risparmiare tempo. Fare clic sulla scelta che si desidera spostare, quindi in **Sposta a**, trascinare il cursore nella posizione in cui si desidera spostare la scelta.
 
    ![](assets/four.png)
 

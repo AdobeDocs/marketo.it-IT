@@ -4,7 +4,7 @@ title: Modelli e informazioni
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati
 
 Ecco come valutare lo stato di salute del modello.
 
-Passa a **[!UICONTROL Modelli e integrità dei dati]** sezione **[!UICONTROL Predictive Audiences]** in **[!UICONTROL Amministratore]** area del Marketo Engage. Qui potrai vedere tutti i tuoi modelli e i loro stati.
+Passa a **[!UICONTROL Models and Data Health]** sezione **[!UICONTROL Predictive Audiences]** in **[!UICONTROL Admin]** area del Marketo Engage. Qui potrai vedere tutti i tuoi modelli e i loro stati.
 
 ![Immagine uno](assets/models-and-insights-1.png)
 

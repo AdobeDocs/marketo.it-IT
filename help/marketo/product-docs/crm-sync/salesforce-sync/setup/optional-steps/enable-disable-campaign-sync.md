@@ -3,7 +3,6 @@ unique-page-id: 4719289
 description: Attivare/disattivare la sincronizzazione di Campaign - Documentazione di Marketo - Documentazione del prodotto
 title: Attiva/Disattiva la sincronizzazione di Campaign
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Attiva/Disattiva la sincronizzazione delle campagne {#enable-disable-campaign-sync}
+# Attiva/Disattiva la sincronizzazione di Campaign {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -23,7 +22,7 @@ Questa opzione consente a Marketo di sincronizzare l’iscrizione al programma e
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. Fare clic su **Modifica impostazioni di sincronizzazione**.
+1. Fai clic su **Modifica impostazioni di sincronizzazione**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 

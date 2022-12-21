@@ -3,7 +3,6 @@ unique-page-id: 1147324
 description: Valori dei campi chiari - Documenti Marketo - Documentazione del prodotto
 title: Cancella valori campo
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # Cancella valori campo {#clear-field-values}
 
-[Cambiare il ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valore dei dati è ottimo, ma come si  __ rimuove completamente il valore? Buona domanda!
+[Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) è grandioso, ma come fai? _remove_ il valore completamente? Buona domanda!
 
-1. Nel passaggio di flusso, scegli il campo da cancellare e digita **NULL** (tutti i maiuscoli) come **Nuovo valore**.
+1. Nel passaggio del flusso, scegli il campo da cancellare e digita **NULL** (tutti i tappi) come **Nuovo valore**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 

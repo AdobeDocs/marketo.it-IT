@@ -1,51 +1,50 @@
 ---
 unique-page-id: 2360219
-description: Imposta una firma DKIM personalizzata - Documenti Marketo - Documentazione prodotto
-title: Impostazione di una firma DKIM personalizzata
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Imposta una firma DKIM personalizzata - Marketo Docs - Documentazione del prodotto
+title: Imposta una firma DKIM personalizzata
+exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Imposta una firma DKIM personalizzata {#set-up-a-custom-dkim-signature}
 
-Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono automaticamente firmati con una firma DKIM Marketo condivisa.
+Al fine di garantire il recapito messaggi di primo livello, firmiamo automaticamente tutti i messaggi in uscita con una firma Marketo DKIM condivisa.
 
 >[!NOTE]
 >
 >Potrebbe essere necessario l&#39;aiuto del team IT per completare alcuni dei passaggi descritti in questo articolo.
 
-È possibile personalizzare la firma DKIM in modo da riflettere i domini di propria scelta. Ecco come.
+Puoi personalizzare la firma DKIM in modo da riflettere i domini selezionati. Ecco come.
 
-1. Andate alla sezione **Admin**.
+1. Vai a **Amministratore** sezione .
 
    ![](assets/adminhand.png)
 
    >[!NOTE]
    >
-   >Se imposti una firma DKIM personalizzata nel modo precedente, continuerà a funzionare e dovrebbe comparire qui.
+   >Se si imposta una firma DKIM personalizzata nel modo precedente, continuerà a funzionare e dovrebbe comparire qui.
 
-1. Fare clic su **Email**, quindi sulla scheda **DKIM** e infine su **Aggiungi dominio**.
+1. Fai clic su **E-mail**, quindi **DKIM** e infine **Aggiungi dominio**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Immettete il dominio che utilizzerete nelle e-mail di Marketo come indirizzo Da e fate clic su **Aggiungi**.
+1. Immetti il dominio che utilizzerai nelle e-mail di Marketo come indirizzo Da e fai clic su **Aggiungi**.
 
    >[!TIP]
    >
-   >Se utilizzi un dominio diverso nell’indirizzo Da, utilizzeremo la firma DKIM condivisa da Marketo.
+   >Se utilizzi un dominio diverso nell’indirizzo Da, utilizzeremo la firma DKIM condivisa di Marketo.
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Inviate all&#39;IT **Record host** e **TXT Value**. Chiedete loro di creare il record e assicuratevi che si propaghi a tutti i server dei nomi associati al dominio da. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio in cui è firmata DKIM.
+1. Invia **Record host** e **Valore TXT** all&#39;IT. Chiedi loro di creare il record per te e assicurati che si propaghi a tutti i server dei nomi associati al dominio da. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio firmato da DKIM.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
-1. Dopo aver confermato di aver creato il record, tornare a Marketo, selezionare il dominio e fare clic su **Controlla DNS**.
+1. Dopo aver confermato di aver creato il record, torna a Marketo, seleziona il dominio e fai clic su **Controlla DNS**.
 
    ![](assets/check.png)
 
@@ -55,6 +54,6 @@ Al fine di garantire la massima recapito, tutti i messaggi in uscita vengono aut
 
    >[!CAUTION]
    >
-   >Modificando/rimuovendo il record DNS corrispondente si verificherà un danneggiamento della recapito. Assicurarsi di eliminare la voce in Marketo prima di apportare modifiche DNS.
+   >La modifica/rimozione del record DNS corrispondente causerà un danneggiamento del recapito messaggi. Assicurati di eliminare la voce in Marketo prima di apportare modifiche DNS.
 
-   In questo modo sarà assolutamente utile gestire la tua recapito delle e-mail. È necessario ottenere la convalida che il record è presente e corretto.
+   Questo ti aiuterà assolutamente con il recapito messaggi e-mail. È necessario ottenere la convalida della presenza del record e della relativa correzione.

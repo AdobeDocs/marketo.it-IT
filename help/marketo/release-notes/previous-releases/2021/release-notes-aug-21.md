@@ -15,7 +15,7 @@ Le seguenti funzionalità sono incluse nella versione del 21 agosto. Per informa
 
 >[!AVAILABILITY]
 >
->Caratteristiche indicate da una stella (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il tuo rappresentante del Marketo Engage Adobe.
+>Caratteristiche indicate da una stella (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il tuo rappresentante Adobe Marketo Engage.
 
 **_Versioni trimestrali_**
 

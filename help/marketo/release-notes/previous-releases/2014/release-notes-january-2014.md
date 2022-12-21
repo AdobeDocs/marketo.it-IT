@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Note sulla versione: Gennaio 2014 {#release-notes-january}
 
-Le seguenti funzionalità sono incluse nella versione di gennaio 2014. Controlla la tua [Marketo Edition](https://www.marketo.com/pricing/) per verificare la disponibilità delle funzioni.
+Le seguenti funzionalità sono incluse nella versione di gennaio 2014. Controlla la tua [Marketo Edition](https://www.marketo.com/pricing/) per la disponibilità delle funzioni.
 
 ## Forms 2.0 {#forms}
 
@@ -40,12 +40,12 @@ Sono finiti i giorni in cui il codice HTML viene rimosso dai moduli posizionati 
 
 ## Limiti di comunicazione per il programma e-mail {#communication-limits-for-email-program}
 
-[Imposta i limiti di comunicazione su un ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) programma e-mail per evitare comunicazioni eccessive al database. Se una persona supera il limite definito, non riceverà l’e-mail.
+[Impostare i limiti di comunicazione su un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) per evitare comunicazioni eccessive nel database. Se una persona supera il limite definito, non riceverà l’e-mail.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Campi aggiuntivi nell’analisi dell’appartenenza al programma {#additional-fields-in-program-membership-analysis}
 
-Ora puoi aggiungere e raggruppare le metriche [Analisi dell&#39;appartenenza al programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) in base agli attributi del lead e dell&#39;azienda. Ad esempio, è possibile aggiungere il campo Settore per visualizzare la suddivisione dei membri e dei successi del programma.
+Ora puoi aggiungere e raggruppare il tuo [Analisi dell&#39;appartenenza al programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metriche per attributi lead e aziendali. Ad esempio, è possibile aggiungere il campo Settore per visualizzare la suddivisione dei membri e dei successi del programma.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

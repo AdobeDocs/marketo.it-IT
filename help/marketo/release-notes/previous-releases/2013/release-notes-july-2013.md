@@ -28,7 +28,7 @@ Vuoi smettere di inviare messaggi di posta elettronica in eccesso? Ora è facile
 
 ## Interfaccia utente Cobalt {#cobalt-user-interface}
 
-Nei prossimi mesi, noterete più del nostro nuovo tema che si estende in diverse parti dell&#39;applicazione. Nessuna funzionalità verrà spostata o rimossa.
+Nei prossimi mesi, noterete più del nostro nuovo tema che si sta estendendo in diverse parti dell&#39;applicazione. Nessuna funzionalità verrà spostata o rimossa.
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 

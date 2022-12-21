@@ -20,7 +20,7 @@ Esistono due modi principali per creare un’e-mail in Marketo. Guardiamo entram
 
    ![](assets/create-an-email-1.png)
 
-1. Fai clic sul menu a discesa **Nuovo** e seleziona **Nuovo messaggio e-mail**.
+1. Fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuovo messaggio e-mail**.
 
    ![](assets/create-an-email-2.png)
 
@@ -36,11 +36,11 @@ Semplice! Ora al contrario..
 
    ![](assets/create-an-email-3.png)
 
-1. Seleziona il programma a cui aggiungere il messaggio e-mail, fai clic sul menu a discesa **Nuovo** e seleziona **Nuova risorsa locale**.
+1. Seleziona il programma a cui desideri aggiungere il messaggio e-mail, fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuova risorsa locale**.
 
    ![](assets/create-an-email-4.png)
 
-1. Fare clic su **Email**.
+1. Fai clic su **E-mail**.
 
    ![](assets/create-an-email-5.png)
 
@@ -48,19 +48,19 @@ Semplice! Ora al contrario..
 
 Qualsiasi metodo scelto ti porta al selettore dei modelli.
 
-1. Assegna un nome all&#39;e-mail, fai clic sul modello che desideri utilizzare, quindi fai clic su **Crea**.
+1. Assegna un nome alla tua e-mail, fai clic sul modello che desideri utilizzare, quindi fai clic su **Crea**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Puoi scegliere tra una raccolta di modelli e-mail reattivi pronti per l’uso o un modello salvato selezionando prima **Modelli personali** e seguendo gli stessi passaggi.
+   >Puoi scegliere tra una raccolta di modelli e-mail reattivi pronti per l’uso o un modello salvato selezionando prima l’opzione **Modelli personali** e seguendo gli stessi passaggi.
 
 1. Immettere un oggetto. Il limite di caratteri consigliato è 50.
 
    ![](assets/create-an-email-7.png)
 
-   A seconda del modello scelto, avrai a disposizione diverse opzioni per modificare il messaggio e-mail. Per le e-mail con moduli, controlla [Aggiungi moduli alla tua E-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   A seconda del modello scelto, avrai a disposizione diverse opzioni per modificare il messaggio e-mail. Per le e-mail con moduli, effettua il check-out [Aggiungi moduli all’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 L’e-mail viene ora creata, quindi puoi modificarla.
 

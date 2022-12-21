@@ -1,50 +1,49 @@
 ---
 unique-page-id: 14352618
-description: Creare una campagna - Documenti Marketo - Documentazione del prodotto
+description: Creare una campagna - Documentazione di Marketo - Documentazione del prodotto
 title: Creare una campagna
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # Creare una campagna {#create-a-campaign}
 
-Le campagne sono una serie di passaggi per più canali, tra cui: e-mail, telefonate, InMail e attività personalizzate. Consentono di semplificare le comunicazioni con i clienti potenziali ed esistenti.
+Le campagne sono una serie di passaggi multicanale, tra cui: e-mail, chiamate telefoniche, InMail e attività personalizzate. Consentono di semplificare le comunicazioni con i clienti potenziali ed esistenti.
 
 Con le campagne è possibile:
 
-* **Organizza**: Semplificate tutte le attività di sensibilizzazione in un unico luogo per un&#39;esecuzione efficiente.
+* **Organizza**: Semplifica tutte le attività di outreach in un’unica posizione per un’esecuzione efficiente.
 
-* **Scala**: Pianificate tutti i vostri sforzi di sensibilizzazione in modo da poter ridurre al minimo il lavoro manuale e personalizzare quanto necessario.
-* **Misura**: Monitora il successo di tutte le tue e-mail e le tue attività in un&#39;unica posizione durante l&#39;accesso automatico a Salesforce. Conoscendo le risonanze e i risultati ottenuti, potete sottoporre a test e migliorare i risultati in modo coerente.
+* **Scala**: Pianifica tutti i tuoi sforzi di sensibilizzazione in modo da poter scalare i tuoi sforzi, ridurre al minimo il lavoro manuale e personalizzare quanto necessario.
+* **Misura**: Monitora il successo di tutte le e-mail e le attività in un&#39;unica posizione registrandole automaticamente in Salesforce. Conoscendo ciò che è risonante e portando a risultati, puoi testare e migliorare costantemente i risultati.
 
 Quindi, come si configura una campagna?
 
-1. Fare clic sulla scheda **Campagne**.
+1. Fai clic sul pulsante **Campagne** scheda .
 
    ![](assets/one-1.png)
 
-1. Selezionate una categoria e fate clic sul pulsante **Crea una campagna** per creare una nuova campagna.
+1. Seleziona una categoria e fai clic sul pulsante **Creare una campagna** per creare una nuova campagna.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Per creare una nuova categoria, fare clic su **+** accanto a **Categorie**.
+   >Crea una nuova categoria facendo clic sul pulsante **+** accanto a **Categorie**.
 
-1. La categoria scelta verrà selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **Continue**.
+1. La categoria selezionata verrà selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fai clic su **Continua**.
 
    ![](assets/three-1.png)
 
-1. Fare clic su **Aggiungi un passo**.
+1. Fai clic su **Aggiungi un passaggio**.
 
    ![](assets/four-1.png)
 
-1. Scegli tra: E-mail, Call, InMail o Attività Personalizzata. In questo esempio abbiamo scelto [Email](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
+1. Scegli tra: E-mail, chiamata, InMail o Attività personalizzata. In questo esempio scegliamo [E-mail](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -54,10 +53,10 @@ Quindi, come si configura una campagna?
 
    >[!NOTE]
    >
-   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna avrà una durata di 7 giorni, inserendo &#39;3&#39; l&#39;azione verrà eseguita il giorno 3 di 7, **not** 3 giorni dopo.
+   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna avrà una durata di 7 giorni e immetti &quot;3&quot; significa che l’azione verrà eseguita il giorno 3 di 7, **not** 3 giorni dopo.
 
-1. Assicurati di personalizzare la pianificazione e le opzioni di risposta, ad esempio saltare i fine settimana (che è fantastico) visitando la **scheda Settings** per la campagna.
+1. Assicurati di personalizzare la pianificazione e le opzioni di risposta, come saltare i fine settimana (che è fantastico) visitando il **Scheda Impostazioni** per la tua campagna.
 
    ![](assets/seven.png)
 
-   Ora è il momento di iniziare ad aggiungere persone alla tua campagna!
+   Ora è il momento di iniziare l’Aggiunta di persone alla tua campagna!

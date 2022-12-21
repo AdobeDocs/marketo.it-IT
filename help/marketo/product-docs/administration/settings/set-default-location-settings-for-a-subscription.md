@@ -3,7 +3,6 @@ unique-page-id: 2359902
 description: Imposta le impostazioni di posizione predefinite per una sottoscrizione - Marketo Docs - Documentazione del prodotto
 title: Imposta le impostazioni di posizione predefinite per una sottoscrizione
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
@@ -21,23 +20,23 @@ Questo articolo descrive come un amministratore visualizza e modifica le imposta
 
 ## Imposta le impostazioni di posizione predefinite per una sottoscrizione {#set-default-location-settings-for-a-subscription-1}
 
-Quando un amministratore modifica le impostazioni di posizione predefinite, i nuovi utenti creati ereditano queste impostazioni. Gli utenti possono sempre [modificare la lingua, le impostazioni internazionali e le preferenze di fuso orario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) nei propri account.
+Quando un amministratore modifica le impostazioni di posizione predefinite, i nuovi utenti creati ereditano queste impostazioni. Gli utenti possono sempre [modifica delle preferenze relative a lingua, impostazioni internazionali e fuso orario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) nei loro conti individuali.
 
-1. In **Amministratore**, fai clic su **Posizione**.
+1. Sotto **Amministratore**, fai clic su **Posizione**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
-1. Fare clic su **Modifica**.
+1. Fai clic su **Modifica**.
 
    ![](assets/image2014-11-7-11-3a40-3a39.png)
 
    Questo abbonamento è stato creato in inglese. Supponiamo che ti trovassi a Londra e che desideri cambiare le impostazioni internazionali e il fuso orario predefiniti. Le impostazioni internazionali determinano la formattazione di numeri, date e ore.
 
-1. Selezionare le **Impostazioni internazionali** e modificarle in **Inglese** (Regno Unito).
+1. Seleziona la **Impostazioni internazionali** e cambiarlo in **Inglese** (Regno Unito).
 
    ![](assets/image2014-11-7-11-3a51-3a26.png)
 
-1. Infine, scegli il **fuso orario** appropriato.
+1. Infine, scegli il **Fuso orario**.
 
    ![](assets/image2014-11-7-14-3a42-3a34.png)
 
@@ -49,11 +48,11 @@ Quando un amministratore modifica le impostazioni di posizione predefinite, i nu
 
 Se si modificano le impostazioni internazionali predefinite per gli utenti, è possibile modificare anche le impostazioni del formato della valuta.
 
-1. Fare clic su **Modifica** in Impostazioni valuta sottoscrizione.
+1. Fai clic su **Modifica** in Impostazioni valuta sottoscrizione.
 
    ![](assets/image2014-11-7-15-3a50-3a33.png)
 
-1. Seleziona il formato della valuta desiderato e fai clic su **Salva**.
+1. Selezionare il formato di valuta desiderato e fare clic su **Salva**.
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 

@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2360201
-description: Aggiungere colonne personalizzate a un rapporto sulla persona - Documenti Marketo - Documentazione prodotto
-title: Aggiunta di colonne personalizzate a un report di persona
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Aggiungere colonne personalizzate a un rapporto sulla persona - Documenti Marketo - Documentazione del prodotto
+title: Aggiungi colonne personalizzate a un rapporto di persona
+exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# Aggiungi colonne personalizzate a un rapporto di persona {#add-custom-columns-to-a-person-report}
 
-# Aggiungi colonne personalizzate a un report di persona {#add-custom-columns-to-a-person-report}
+Puoi filtrare ulteriormente le metriche nei rapporti sulle persone utilizzando il tuo [elenchi smart](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) come colonne personalizzate.
 
-Puoi filtrare ulteriormente le metriche nei report personali utilizzando gli [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) come colonne personalizzate.
-
-1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
+1. Vai a **Attività di marketing** o **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Selezionate il rapporto e fate clic sulla scheda **Configurazione**.
+1. Seleziona il rapporto e fai clic sul pulsante **Configurazione** scheda .
 
    ![](assets/two-1.png)
 
-1. Trascinare su **Colonne personalizzate**.
+1. Trascina **Colonne personalizzate**.
 
    ![](assets/three-1.png)
 
-1. Selezionare gli elenchi smart da utilizzare come colonne del rapporto.
+1. Selezionare gli elenchi avanzati da utilizzare come colonne di report.
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. Ce l&#39;hai fatta! Fare clic sulla scheda **Report** per visualizzare il rapporto con le nuove colonne.
+1. Ce l&#39;hai fatta! Fai clic sul pulsante **Rapporto** per visualizzare il rapporto con le nuove colonne.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >Potete anche [aggiungere colonne opportunità a un report lead](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >È inoltre possibile [Aggiungere colonne Opportunità a un rapporto lead](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).

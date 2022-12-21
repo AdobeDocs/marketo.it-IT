@@ -3,7 +3,6 @@ unique-page-id: 557320
 description: Clonare un elenco o un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Clonare un elenco o un elenco avanzato
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
@@ -23,7 +22,7 @@ Invece di creare da zero un elenco avanzato, risparmia tempo clonandone uno simi
 
    ![](assets/smartlist-find.png)
 
-1. In **Elenca azioni**, fai clic su **Clona elenco avanzato**.
+1. Sotto **Azioni elenco**, fai clic su **Clona elenco avanzato**.
 
    ![](assets/clonesmartlist-hands.png)
 

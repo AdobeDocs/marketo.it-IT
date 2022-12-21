@@ -3,7 +3,6 @@ unique-page-id: 2949186
 description: SEO - Utilizzo del drill-down dei dettagli della pagina - Marketo Docs - Documentazione del prodotto
 title: SEO - Utilizzo del drill-down dei dettagli della pagina
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# SEO - Utilizzo del drill-down dei dettagli pagina {#seo-using-the-page-detail-drill-down}
+# SEO - Utilizzo del drill-down dei dettagli della pagina {#seo-using-the-page-detail-drill-down}
 
 Puoi visualizzare molte informazioni sulle tue pagine utilizzando il drill-down dei dettagli delle pagine.
 
@@ -29,7 +28,7 @@ Puoi visualizzare molte informazioni sulle tue pagine utilizzando il drill-down 
 
    ![](assets/image2014-9-17-21-3a55-3a2.png)
 
-## Sezione dettagli pagina {#page-detail-section}
+## Sezione Dettagli pagina {#page-detail-section}
 
 ![](assets/image2014-9-17-21-3a55-3a46.png)
 
@@ -44,9 +43,9 @@ Puoi visualizzare molte informazioni sulle tue pagine utilizzando il drill-down 
 | Facebook mi piace | Numero di volte in cui la condivisione di pagina è stata gradita in Facebook. |
 | Clic facebook | Numero di clic dalla condivisione Facebook. |
 
-## Parole chiave per cui la pagina è ottimizzata per {#keyword-s-that-page-is-optimized-for}
+## Parole chiave per cui la pagina è ottimizzata  {#keyword-s-that-page-is-optimized-for}
 
-In questo punto [seleziona la parola chiave che stai tentando di ottimizzare la pagina per](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Qui è dove [selezionare la parola chiave per la quale si sta tentando di ottimizzare la pagina](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >

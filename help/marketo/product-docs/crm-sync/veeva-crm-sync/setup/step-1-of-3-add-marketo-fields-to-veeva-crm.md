@@ -5,7 +5,7 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -98,7 +98,7 @@ Posizioni decimali 0</td>
 1. Deseleziona la casella di controllo Sola lettura per il profilo dell&#39;utente di sincronizzazione:
 
 * Se si dispone di un utente con il profilo di un amministratore di sistema come utente di sincronizzazione, deselezionare la casella di controllo Sola lettura del profilo Amministratore di sistema (come mostrato di seguito).
-* Se hai creato un profilo personalizzato per l’utente di sincronizzazione, deseleziona la casella di controllo Sola lettura per quel profilo personalizzato.
+* Se hai creato un profilo personalizzato per l’utente di sincronizzazione, deseleziona la casella di controllo Sola lettura per tale profilo personalizzato.
 
    ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -125,7 +125,7 @@ FACOLTATIVO: Utilizza la procedura precedente per tutti i campi personalizzati a
    <th>Attributi del campo
   </tr>
   <tr>
-   <td>Città di riferimento</td>
+   <td>Città in oggetto</td>
    <td>mkto71_Inferred_City</td>
    <td>Testo</td>
    <td>Lunghezza 255</td>
@@ -143,25 +143,25 @@ FACOLTATIVO: Utilizza la procedura precedente per tutti i campi personalizzati a
    <td>Lunghezza 255</td>
   </tr>
   <tr>
-   <td>Area metropolitana</td>
+   <td>oArea metropolitana in oggetto</td>
    <td>mkto71_Inferred_Metropolitan_Area</td>
    <td>Testo</td>
    <td>Lunghezza 255</td>
   </tr>
   <tr>
-   <td>Codice di area del telefono</td>
+   <td>Prefisso telefonico in oggetto</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Testo</td>
    <td>Lunghezza 255</td>
   </tr>
   <tr>
-   <td>Codice postale trasferito</td>
+   <td>Codice postale in oggetto</td>
    <td>mkto71_Inferred_Postal_Code</td>
    <td>Testo</td>
    <td>Lunghezza 255</td>
   </tr>
   <tr>
-   <td>Regione dello Stato di provenienza</td>
+   <td>Stato in oggetto</td>
    <td>mkto71_Inferred_State_Region</td>
    <td>Testo</td>
    <td>Lunghezza 255</td>

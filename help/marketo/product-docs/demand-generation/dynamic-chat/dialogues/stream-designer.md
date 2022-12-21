@@ -9,7 +9,7 @@ ht-degree: 2%
 
 ---
 
-# Progettazione flussi {#stream-designer}
+# Stream Designer {#stream-designer}
 
 Ci sono _molti_ possibili combinazioni di flusso. Questo articolo contiene un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha delle domande sul prodotto. Se sì, il visitatore può pianificare un appuntamento. In caso contrario, al visitatore viene offerta la possibilità di partecipare a una mailing list per la corrispondenza futura. Gli viene offerto anche un PDF gratuito. L&#39;obiettivo finale è la pianificazione di un appuntamento o la raccolta dell&#39;e-mail del visitatore.
 

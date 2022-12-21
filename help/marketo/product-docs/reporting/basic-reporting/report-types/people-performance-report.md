@@ -1,47 +1,46 @@
 ---
 unique-page-id: 2360014
 description: Rapporto sulle prestazioni delle persone - Documenti Marketo - Documentazione del prodotto
-title: Report Prestazioni Persone
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+title: Report sulle prestazioni delle persone
+exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
+# Report sulle prestazioni delle persone {#people-performance-report}
 
-# Report prestazioni Persone {#people-performance-report}
+Utilizzare un rapporto sulle prestazioni delle persone per misurare la crescita del database nel tempo. Puoi vedere quante persone hai aggiunto e quando. Scopri di più sulle persone e valuta i tuoi programmi. Raggruppa i risultati per qualsiasi persona o attributo aziendale, o per [segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Utilizzare un report sulle prestazioni delle persone per misurare la crescita del database nel tempo. Potete vedere quante persone avete aggiunto e quando. Scopri di più sulle persone e valuta i tuoi programmi. Raggruppare i risultati per qualsiasi attributo di persona o società o per [segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona la **Prestazioni delle persone** [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Create un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo **** [Persone ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)che esegue PerformancePort.
+1. [Impostare l&#39;intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic su **Rapporto** scheda .
 
-1. [Impostate l&#39;intervallo di tempo del ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda  **** Rapporto.
-
-1. Fantastico! Ora sei pronto per esplorare il tuo rapporto sulle prestazioni delle persone. Scopri come ottenere ancora di più dall&#39;elenco seguente.
+1. Fantastico! Ora puoi esplorare il tuo rapporto Prestazioni persone . Scopri come ricavarne di più dall’elenco seguente.
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, i report Prestazioni persone sono raggruppati per *Creato a* mese.
+   >Per impostazione predefinita, i rapporti Prestazioni persone sono raggruppati per *Creato in* mese.
 
    ![](assets/one.png)
 
-## Report Power of People Performance (Potenza delle prestazioni delle persone) {#the-power-of-people-performance-reports}
+## Rapporti sul potere delle prestazioni delle persone {#the-power-of-people-performance-reports}
 
-I report sulle prestazioni delle persone sono molto potenti. Raggruppandoli, filtrandoli e configurandoli ulteriormente, potete imparare molto sulle persone presenti nel database e sull&#39;efficacia dei vostri programmi.
+I rapporti sulle prestazioni delle persone sono molto potenti. Raggruppandoli, filtrandoli e configurandoli ulteriormente, puoi imparare molto sulle persone presenti nel tuo database e sull&#39;efficacia dei tuoi programmi.
 
-È possibile:
+Puoi:
 
-* [Raggruppa i lead per attributo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md) lead o società.
-* [Raggruppa i lead per segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
-* [Utilizzare gli elenchi smart come colonne di rapporti personalizzate.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-* [Aggiungi le metriche delle opportunità come colonne del report.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
-* [Espandete per ulteriori informazioni sui lead in una riga specifica.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
+* [Lead di gruppo per attributo lead o società](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+* [Raggruppa lead per segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+* [Utilizzare gli elenchi avanzati come colonne di rapporti personalizzate.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+* [Aggiungi le metriche delle opportunità come colonne del rapporto.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
+* [Approfondisci per ulteriori informazioni sui lead in una riga specifica.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
 * [Filtrare i lead nel rapporto con un elenco avanzato.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-* [Selezionare le colonne da includere.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+* [Seleziona le colonne da includere.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 * [Ordinare le colonne del rapporto.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
 
    >[!TIP]
    >
-   >Ricorda che i report sono facili da [creare](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), configurare e [eliminare](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Fai clic qui per giocare con i molti modi in cui puoi manipolarli, per scoprire i modi migliori per concentrarti sui dati chiave.
+   >Ricorda che i rapporti sono facili da usare [creare](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), configura e [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Procedi e gioca con i tanti modi in cui puoi manipolarli, per imparare i modi migliori per concentrarsi sui dati chiave.

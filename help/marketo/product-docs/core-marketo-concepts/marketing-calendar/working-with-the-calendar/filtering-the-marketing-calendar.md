@@ -3,7 +3,6 @@ unique-page-id: 1147294
 description: Filtrare il calendario di marketing - Documenti Marketo - Documentazione del prodotto
 title: Filtrare il calendario di marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Filtro del calendario di marketing {#filtering-the-marketing-calendar}
+# Filtrare il calendario di marketing {#filtering-the-marketing-calendar}
 
-Utilizzare i tipi di voce, i tag di programma o le aree di lavoro per filtrare le informazioni visualizzate nel calendario.
+Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le informazioni visualizzate nel calendario.
 
 1. Vai al Calendario.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Fai clic sull&#39;elenco a discesa **Tipo di voce** .
+1. Fai clic sul pulsante **Tipo di voce** a discesa.
 
    >[!NOTE]
    >
@@ -33,7 +32,7 @@ Utilizzare i tipi di voce, i tag di programma o le aree di lavoro per filtrare l
 
    >[!TIP]
    >
-   >Per la descrizione dei tipi di immissione standard, controllare [Tipi di immissione visualizzazione pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Per la descrizione dei tipi di immissione standard, estrarre [Tipi di voci della visualizzazione della pianificazione del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Selezionare i tag di programma di interesse.
 

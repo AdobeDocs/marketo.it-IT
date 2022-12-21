@@ -1,27 +1,26 @@
 ---
 unique-page-id: 11384438
-description: Impostazione del rapporto TAM - Documenti Marketo - Documentazione del prodotto
+description: Impostazione dei rapporti TAM - Documentazione Marketo - Documentazione del prodotto
 title: Impostazione report TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
 # Impostazione report TAM {#tam-report-setup}
 
 Il rapporto vendite TAM è un messaggio e-mail settimanale personalizzato inviato al team dell&#39;account.
 
-## Imposta rapporto {#report-setup}
+## Configurazione del rapporto {#report-setup}
 
 1. Fai clic su **Amministratore**.
 
    ![](assets/one-3.png)
 
-1. Fai clic su **Gestione account di destinazione**.
+1. Fai clic su **Gestione account di Target**.
 
    ![](assets/tam-report-setup-2.png)
 
@@ -29,15 +28,15 @@ Il rapporto vendite TAM è un messaggio e-mail settimanale personalizzato inviat
 
    ![](assets/three-3.png)
 
-1. Fai clic sull’elenco a discesa **Giorno** e seleziona il giorno della settimana in cui i destinatari devono ricevere l’e-mail.
+1. Fai clic sul pulsante **Giorno** e seleziona il giorno della settimana in cui desideri che i destinatari ricevano l’e-mail.
 
    ![](assets/four-4.png)
 
-1. Per determinare il layout del messaggio e-mail, fai clic sul menu a discesa **Ordina per** e scegli una selezione.
+1. Per determinare il layout dell’e-mail, fai clic sul pulsante **Ordina per** a discesa ed effettua una selezione.
 
    ![](assets/five-3.png)
 
-1. Seleziona la casella di controllo **Utenti** , quindi fai clic sull&#39;elenco a discesa e seleziona il destinatario del messaggio e-mail.
+1. Controlla la **Utenti** , quindi fai clic sull’elenco a discesa e seleziona il destinatario del messaggio e-mail.
 
    ![](assets/six-2.png)
 
@@ -45,25 +44,25 @@ Il rapporto vendite TAM è un messaggio e-mail settimanale personalizzato inviat
    >
    >Le notifiche verranno inviate solo ai proprietari dell&#39;account o ai membri del team.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/seven-2.png)
 
 Ed è tutto!
 
-## Come annullare l&#39;iscrizione {#how-to-unsubscribe}
+## Come annullare l’abbonamento {#how-to-unsubscribe}
 
-Ogni rapporto include l’opzione di rinuncia. Per farlo, fai clic su **Annulla sottoscrizione** in fondo all&#39;e-mail.
+Ogni rapporto include l’opzione di rinuncia. Fai clic su **Annulla sottoscrizione** in fondo all’e-mail.
 
 ![](assets/eight-1.png)
 
-## Come effettuare l&#39;iscrizione {#how-to-resubscribe}
+## Come effettuare l’abbonamento {#how-to-resubscribe}
 
 1. Fai clic su **Amministratore**.
 
    ![](assets/one-3.png)
 
-1. Fai clic su **Gestione account di destinazione**.
+1. Fai clic su **Gestione account di Target**.
 
    ![](assets/tam-report-setup-10.png)
 
@@ -71,10 +70,10 @@ Ogni rapporto include l’opzione di rinuncia. Per farlo, fai clic su **Annulla 
 
    ![](assets/nine.png)
 
-1. Fai clic sul menu a discesa **Utenti** .
+1. Fai clic sul pulsante **Utenti** a discesa.
 
    ![](assets/ten.png)
 
-1. Seleziona l&#39;utente che desideri ricevere nuovamente le e-mail e fai clic su **Ripristina**.
+1. Seleziona l’utente che desideri ricevere nuovamente le e-mail e fai clic su **Ripristina**.
 
    ![](assets/eleven.png)

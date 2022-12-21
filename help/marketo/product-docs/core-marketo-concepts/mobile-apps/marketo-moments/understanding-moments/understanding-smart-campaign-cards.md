@@ -3,7 +3,6 @@ unique-page-id: 10093348
 description: Informazioni sulle schede di Smart Campaign - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle schede di Smart Campaign
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # Informazioni sulle schede di Smart Campaign {#understanding-smart-campaign-cards}
 
-Utilizza Marketo Moments per visualizzare ogni esecuzione delle campagne intelligenti dallo smart phone o dall’iPad. La smart card Marketo Moments rappresenta una singola esecuzione di una campagna; a ogni esecuzione della campagna intelligente viene visualizzata una nuova scheda. Le schede smart della campagna sono contrassegnate da una lampadina in alto a sinistra.
+Utilizza i Momenti Marketo per visualizzare ogni esecuzione delle campagne intelligenti dal tuo smartphone o iPad. La smart card Marketo Moments rappresenta una singola esecuzione di una campagna; a ogni esecuzione della campagna intelligente viene visualizzata una nuova scheda. Le schede smart della campagna sono contrassegnate da una lampadina in alto a sinistra.
 
 Per le campagne avanzate future pianificate ma non ancora eseguite, la scheda Marketo Moments non visualizza ancora i dati delle campagne. Verranno visualizzate in una versione futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
-## Schede di Smart Campaign {#smart-campaign-cards}
+## Schede Smart Campaign {#smart-campaign-cards}
 
 1. Toccate la scheda per aprire la scheda dei dettagli.
 
@@ -67,7 +66,7 @@ Per le campagne avanzate future pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tocca [Invia campione](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Anteprima e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fai clic su questi collegamenti per ulteriori dettagli).
+1. Tocca [Invia esempio](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Anteprima e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fai clic su questi collegamenti per ulteriori dettagli).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,7 +82,7 @@ Le schede per le campagne avanzate non confermate sono grigie fino a quando non 
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tocca **Conferma** per completare il lavoro, oppure **Non fare attenzione** in caso di ripensamenti.
+1. Tocca **Conferma** per completare il lavoro, oppure **Non importa** se avete dei ripensamenti.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +102,7 @@ Le schede per le campagne avanzate non confermate sono grigie fino a quando non 
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tocca **Annulla esecuzione**. Se decidi all’ultimo minuto di non annullare l’esecuzione, tocca **Never Mind** e la campagna intelligente verrà eseguita come pianificato.
+1. Tocca **Annulla esecuzione**. Se all’ultimo minuto decidi di non annullare l’esecuzione, tocca **Non importa** e la campagna intelligente verrà eseguita come pianificato.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,7 +118,7 @@ Puoi ripianificare una campagna avanzata confermata non ancora eseguita.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Seleziona una data sul calendario e tocca **Riprogramma**.
+1. Seleziona una data nel calendario e tocca **Riprogramma**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -137,8 +136,8 @@ Come per le altre schede Marketo Moments, puoi toccare i tre punti su qualsiasi 
 
 >[!NOTE]
 >
->Puoi anche toccare l’icona **Condividi** su una scheda Smart Campaign da condividere, e le icone **Fine** e **Preferito** sulla scheda dei dettagli.
+>Puoi anche toccare il pulsante **Condividi** su una scheda di Smart Campaign da condividere, e **Fine** e **Preferito** sulla scheda dei dettagli.
 
-## Eliminazione rapida di una scheda di Smart Campaign {#quickly-delete-a-smart-campaign-card}
+## Eliminazione rapida di una scheda Smart Campaign {#quickly-delete-a-smart-campaign-card}
 
 Se si dispone di una scheda di cui non si ha più bisogno, forse di una carta utilizzata per il test, è possibile sbarazzarsene con un rapido scorrimento a sinistra o a destra.

@@ -3,7 +3,6 @@ unique-page-id: 2360309
 description: Informazioni su aree di lavoro e partizioni di persone - Documenti Marketo - Documentazione del prodotto
 title: Informazioni su aree di lavoro e partizioni di persone
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -17,7 +16,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Le aree di lavoro possono essere complesse da configurare. Contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per sapere se è il momento giusto per te.
+>Le aree di lavoro possono essere complesse da configurare. Contatto [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per scoprire se hanno ragione per te.
 
 Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing come programmi, pagine di destinazione, e-mail e altro ancora. Possono essere utilizzati da più persone. Ogni utente ha accesso a una o più aree di lavoro.
 
@@ -29,10 +28,8 @@ Le aree di lavoro sono aree separate in Marketo che contengono risorse di market
 >
 >* Informazioni geografiche: I reparti marketing Europa, Asia e Nord America ricevono uno spazio di lavoro
 >* Business Unit: Quicken, Quickbook e TurboTax ciascuno ottengono un&#39;area di lavoro
-
 >
->
-In ogni caso, la separazione è dovuta al fatto che le risorse di marketing sono completamente diverse. Se condividono risorse di marketing, le aree di lavoro potrebbero non essere lo strumento giusto per te.
+>In ogni caso, la separazione è dovuta al fatto che le risorse di marketing sono completamente diverse. Se condividono risorse di marketing, le aree di lavoro potrebbero non essere lo strumento giusto per te.
 
 >[!NOTE]
 >
@@ -62,7 +59,7 @@ Ecco come condividere risorse tra le aree di lavoro. Funziona allo stesso modo p
 
    ![](assets/four.png)
 
-1. Selezionare le aree di lavoro con cui si desidera condividere la cartella e fare clic su **Salva**. Nella finestra di dialogo Condividi cartella vengono visualizzate solo le aree di lavoro autorizzate.
+1. Seleziona le aree di lavoro con cui desideri condividere la cartella e fai clic su **Salva**. Nella finestra di dialogo Condividi cartella vengono visualizzate solo le aree di lavoro autorizzate.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
@@ -103,9 +100,9 @@ Per spostare le risorse in una nuova area di lavoro, inserirle in una cartella e
 
 ## Partizioni di persona {#person-partitions}
 
-Le partizioni personali si comportano come database separati. Ogni partizione ha le proprie persone che non deduplicano o si mescolano con altre partizioni. Se ritieni di avere un caso d&#39;uso aziendale che potrebbe richiedere la presenza di record duplicati con lo stesso indirizzo e-mail, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+Le partizioni personali si comportano come database separati. Ogni partizione ha le proprie persone che non deduplicano o si mescolano con altre partizioni. Se ritieni di avere un caso d&#39;uso commerciale che può richiedere la presenza di record duplicati con lo stesso indirizzo e-mail, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-È possibile assegnare partizioni personali a [aree di lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
+È possibile assegnare partizioni personali a  [aree di lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
 
 * un&#39;area di lavoro a una partizione personale (1:1)
 * un&#39;area di lavoro per più partizioni di persone (1:x)
@@ -125,4 +122,4 @@ Le partizioni personali si comportano come database separati. Ogni partizione ha
 
 >[!NOTE]
 >
->Scopri come [creare una partizione di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>Scopri come [creare una partizione personale](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).

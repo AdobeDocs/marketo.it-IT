@@ -18,7 +18,7 @@ Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati p
 
 ## Insight dell’account {#account-insight}
 
-**[Account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** Insightis un plug-in Google Chrome che presenta ai team di vendita ABM fruibili e informazioni sull’account, consentendo loro di collaborare strettamente con il marketing per interagire efficacemente con gli account. I team di vendita potranno visualizzare i dati e le informazioni generate per ciascuno degli account denominati di loro proprietà. Ciò includerà i percentili del punteggio dell&#39;account, un elenco con priorità dei loro account denominati, le persone coinvolte all&#39;interno di tali account e un flusso di attività live delle attività recenti dall&#39;account.
+**[Insight dell’account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** è un plug-in Google Chrome che trasmette ai team di vendita informazioni fruibili su ABM e account, consentendo loro di collaborare strettamente con il marketing per interagire efficacemente con gli account. I team di vendita potranno visualizzare i dati e le informazioni generate per ciascuno degli account denominati di loro proprietà. Ciò includerà i percentili del punteggio dell&#39;account, un elenco con priorità dei loro account denominati, le persone coinvolte all&#39;interno di tali account e un flusso di attività live delle attività recenti dall&#39;account.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -26,6 +26,6 @@ Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati p
 
 ## [Elenchi account dinamici](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-Stiamo aggiungendo un nuovo modo per creare elenchi di account in ABM. Oltre agli elenchi di account esistenti, ora puoi creare elenchi di account dinamici generati dalle visualizzazioni account CRM pubbliche. Una visualizzazione account CRM è un insieme di regole che funge da filtro durante la visualizzazione degli account. Ad esempio, puoi utilizzarlo per trovare account in cui l&#39;Industria è Medicale _e_ Ricavi superiori a $100M.
+Stiamo aggiungendo un nuovo modo per creare elenchi di account in ABM. Oltre agli elenchi di account esistenti, ora puoi creare elenchi di account dinamici generati dalle visualizzazioni account CRM pubbliche. Una visualizzazione account CRM è un insieme di regole che funge da filtro durante la visualizzazione degli account. Ad esempio, puoi usarlo per trovare account in cui l&#39;Industria è Medicale _e_ Le entrate superano i 100 milioni di dollari.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)

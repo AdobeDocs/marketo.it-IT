@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359965
-description: Panoramica sul tipo di rapporto - Documenti Marketo - Documentazione sul prodotto
-title: Panoramica tipo di rapporto
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Panoramica sul tipo di rapporto - Documenti Marketo - Documentazione del prodotto
+title: Panoramica del tipo di rapporto
+exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
+# Panoramica del tipo di rapporto {#report-type-overview}
 
-# Panoramica sul tipo di rapporto {#report-type-overview}
-
-Quando [create un rapporto in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), scegliete il tipo di rapporto desiderato.
+Quando [creare un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), scegli il tipo di rapporto desiderato.
 
 ## Report più utilizzati {#most-used-reports}
 
 <table> 
  <thead> 
   <tr> 
-   <th>Report</th> 
+   <th>Rapporto</th> 
    <th>Descrizione</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td><strong>  <a href="people-performance-report.md">Report Prestazioni Persone</a>  </strong></td> 
-   <td>Raggruppare le persone in base a qualsiasi attributo e includere informazioni sulle opportunità. Espandi ed esplora.</td> 
+   <td><strong>  <a href="people-performance-report.md">Report sulle prestazioni delle persone</a>  </strong></td> 
+   <td>Raggruppa le persone per qualsiasi attributo e includi informazioni sulle opportunità. Approfondisci ed esplora.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">Prestazioni collegamento e-mail</a>  </strong></td> 
@@ -35,52 +34,52 @@ Quando [create un rapporto in un programma](/help/marketo/product-docs/reporting
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">Prestazioni e-mail</a>  </strong></td> 
-   <td>Controlla le interazioni con i tuoi messaggi e-mail: consegnati o rimbalzati, aperti, fatti clic, non sottoscritti, ecc.</td> 
+   <td>Controlla le interazioni con le e-mail: recapitato o rimbalzato, aperto, su cui è stato fatto clic, annullato l’abbonamento, ecc.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Prestazioni e-mail in base alle esigenze di vendita</a>  </strong></td> 
-   <td>Controlla le interazioni con le e-mail inviate tramite Marketing Sales Insight in Salesforce, Microsoft Dynamics e il plug-in per Outlook e Gmail.</td> 
+   <td><strong>  <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Prestazioni e-mail in Approfondimenti vendite</a>  </strong></td> 
+   <td>Controlla le interazioni con le e-mail inviate tramite Marketo Sales Insight in Salesforce, Microsoft Dynamics e il plug-in Outlook e Gmail.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="people-by-status-report.md">Report Persone per stato</a>  </strong></td> 
-   <td>Report automatico basato sul campo Stato persona.</td> 
+   <td><strong>  <a href="people-by-status-report.md">Rapporto Persone per stato</a>  </strong></td> 
+   <td>Generazione automatica di rapporti in base al campo Stato persona .</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Report stato Persone per ricavi</a>  </strong></td> 
-   <td>Reporting di base per il <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Modello ricavi</a>. Per informazioni dettagliate, vedere <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
+   <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapporto sulla fase Persone per Ricavo</a>  </strong></td> 
+   <td>Rapporti di base per <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Modello dei ricavi</a>. Vedi <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo dei ricavi</a> per rapporti più approfonditi.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestazioni della pagina di destinazione</a>  </strong></td> 
-   <td>Non un sostituto per le Google Analytics, ma ancora una buona informazione.</td> 
+   <td>Non un sostituto delle Google Analytics, ma ancora una buona informazione.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Prestazioni del programma</a>  </strong></td> 
-   <td>Metriche di base del programma come membri e successo. Per informazioni dettagliate, vedere <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo di ricavi</a>.</td> 
+   <td>Metriche di base del programma come membri e successo. Vedi <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analisi del ciclo dei ricavi</a> per rapporti più approfonditi.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="company-web-activity-report.md">Attività Web società</a>  </strong></td> 
-   <td>Report sull’attività Web nelle pagine di destinazione e nel sito Web pubblico, raggruppati per società.</td> 
+   <td><strong>  <a href="company-web-activity-report.md">Attività Web aziendali</a>  </strong></td> 
+   <td>Genera rapporti sull’attività web nelle pagine di destinazione e nel sito web pubblico, raggruppati per azienda.</td> 
   </tr> 
   <tr> 
-   <td><strong>  <a href="web-page-activity-report.md">Attività pagina Web</a>  </strong></td> 
-   <td>Potete creare rapporti sull’attività Web nelle pagine di destinazione e nel sito Web pubblico.</td> 
+   <td><strong>  <a href="web-page-activity-report.md">Attività pagina web</a>  </strong></td> 
+   <td>Generare rapporti sulle attività web nelle pagine di destinazione e nel sito web pubblico.</td> 
   </tr> 
   <tr> 
    <td><strong>Influenza sociale</strong></td> 
-   <td>Rivedete l'attività social che state generando e scoprite con quale frequenza la vostra gente parla di voi ai suoi amici.</td> 
+   <td>Rivedi l'attività sociale che stai generando e vedi con quale frequenza la tua gente parla di te ai suoi amici.</td> 
   </tr> 
   <tr> 
-   <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Report prestazioni flusso di coinvolgimento</a> </strong></td> 
-   <td><p>Scopri il funzionamento del <a href="https://docs.marketo.com/display/docs/drip+nurturing">programma di coinvolgimento</a>.</p></td> 
+   <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapporto sulle prestazioni del flusso di lavoro di coinvolgimento</a> </strong></td> 
+   <td><p>Scopri come <a href="https://docs.marketo.com/display/docs/drip+nurturing">programma di impegno</a> Sta lavorando.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Rapporti vari {#miscellaneous-reports}
 
-Non è utile come i tipi di rapporto sopra, ma è ancora disponibile.
+Non è utile come i tipi di report precedenti, ma è ancora disponibile.
 
-| Report | Descrizione |
+| Rapporto | Descrizione |
 |---|---|
-| [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) | Stati di elaborazione delle campagne intelligenti. |
-| [Prestazioni e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) | Prestazioni e-mail, raggruppate per campagne intelligenti. |
+| [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) | Statistiche di elaborazione di Smart Campaign. |
+| [Prestazioni e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) | Prestazioni e-mail, raggruppate per campagne avanzate. |

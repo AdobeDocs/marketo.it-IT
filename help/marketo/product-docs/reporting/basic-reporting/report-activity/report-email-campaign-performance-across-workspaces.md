@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2360055
-description: E-mail report, Prestazioni Della Campagna Tra Aree Di Lavoro - Documenti Marketo - Documentazione Del Prodotto
-title: E-mail report, Prestazioni Della Campagna Nelle Aree Di Lavoro
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Report E-Mail, Prestazioni Della Campagna Nelle Aree Di Lavoro - Documenti Marketo - Documentazione Del Prodotto
+title: Segnala E-Mail E Prestazioni Della Campagna Nelle Aree Di Lavoro
+exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
+# Segnala E-Mail E Prestazioni Della Campagna Nelle Aree Di Lavoro {#report-email-campaign-performance-across-workspaces}
 
-# E-mail report, prestazioni della campagna nelle aree di lavoro {#report-email-campaign-performance-across-workspaces}
+Attiva reporting globale per includere i dati da tutti i Marketo [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nel tuo [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Prestazioni del collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)e [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) rapporti.
 
-Attivate Global Reporting per includere i dati provenienti da tutte le aree di lavoro di Marketing [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nei rapporti [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).
-
-1. Andate all&#39;area **Analytics** (o **Marketing Activities**).
+1. Vai a **Analytics** o **Attività di marketing**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
-1. Selezionate il rapporto.
+1. Seleziona il rapporto.
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Fare clic sulla scheda **Setup** e fare doppio clic su **Global Reporting**.
+1. Fai clic sul pulsante **Configurazione** e fai doppio clic **Reporting globale**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Selezionare **Enabled**.
+1. Seleziona **Abilitato**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. È tutto! Fare clic sulla scheda **Report** per visualizzare i dati di tutte le aree di lavoro.
+1. È tutto! Fai clic sul pulsante **Rapporto** per visualizzare i dati di tutte le aree di lavoro.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 

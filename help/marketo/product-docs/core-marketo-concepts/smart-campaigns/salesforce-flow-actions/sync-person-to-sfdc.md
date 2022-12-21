@@ -3,11 +3,10 @@ unique-page-id: 1147027
 description: Sincronizza persona con SFDC - Documenti Marketo - Documentazione del prodotto
 title: Sincronizza persona con SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

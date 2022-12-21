@@ -3,7 +3,6 @@ unique-page-id: 2360327
 description: Assegnazione di partizioni di persone alle regole di assegnazione - Documenti Marketo - Documentazione del prodotto
 title: Assegnazione di partizioni di persone con le regole di assegnazione
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Assegnazione di partizioni di persona alle regole di assegnazione {#assigning-person-partitions-with-assignment-rules}
+# Assegnazione di partizioni di persone con le regole di assegnazione {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -31,11 +30,11 @@ Quando si utilizzano partizioni personali, impostare regole di assegnazione per 
 
    ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Nella scheda **Partizioni di persone**, fai clic su **Regole di assegnazione**.
+1. Sotto la **Partizioni di persone** scheda , fai clic su **Regole di assegnazione**.
 
    ![](assets/two-6.png)
 
-1. Fare clic su **Aggiungi scelta** per aggiungere condizioni per l&#39;indirizzamento delle persone alle partizioni personali.
+1. Fai clic su **Aggiungi scelta** per aggiungere condizioni per indirizzare le persone nelle partizioni personali.
 
    ![](assets/three-6.png)
 
@@ -55,7 +54,7 @@ Quando si utilizzano partizioni personali, impostare regole di assegnazione per 
    >
    >Puoi aggiungere tutte le scelte che desideri.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/seven.png)
 

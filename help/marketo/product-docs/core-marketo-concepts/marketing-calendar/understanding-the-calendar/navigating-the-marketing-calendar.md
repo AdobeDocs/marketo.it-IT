@@ -3,7 +3,6 @@ unique-page-id: 1147257
 description: Navigazione nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
 title: Navigazione nel calendario di marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
@@ -17,9 +16,9 @@ Navigare nel Calendario di Marketing è facile come uno, due, tre!
 
 >[!PREREQUISITES]
 >
->Assicurati di avere una [licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - altrimenti la sezione Marketing Calendar (Calendario marketing) non verrà visualizzata in My Marketo.
+>Assicurati di avere un [Licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - altrimenti la sezione Calendario marketing non verrà visualizzata in My Marketo.
 
-1. Vai a **Marketing Calendar**.
+1. Vai a **Calendario di marketing**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -29,19 +28,19 @@ Navigare nel Calendario di Marketing è facile come uno, due, tre!
 
 ## Modifica tra le modalità {#change-between-modes}
 
-1. Fare clic sulle schede **3 settimane** o **Mese** per passare da una modalità all&#39;altra.
+1. Fai clic sul pulsante **3 settimane** o **Mese** schede per passare da una modalità all’altra.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Utilizza la visualizzazione ordine del giorno {#use-the-agenda-view}
+## Utilizzare la visualizzazione Agenda {#use-the-agenda-view}
 
 Nella vista Agenda vengono visualizzate tutte le voci come un elenco.
 
-1. Fai clic sull&#39;elenco a discesa **Filtro**.
+1. Fai clic sul pulsante **Elenco a discesa Filtro**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selezionare la visualizzazione **Agenda**.
+1. Seleziona la **Agenda** visualizza.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -49,7 +48,7 @@ Nella vista Agenda vengono visualizzate tutte le voci come un elenco.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Naviga nel tempo {#navigate-through-time}
+## Passa al tempo {#navigate-through-time}
 
 Senza un DeLorean! Fai clic sui pulsanti di navigazione.
 

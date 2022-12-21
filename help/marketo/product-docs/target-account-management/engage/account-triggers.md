@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380734
-description: Trigger account - Documenti Marketo - Documentazione del prodotto
+description: Trigger account - Documentazione Marketo - Documentazione del prodotto
 title: Trigger account
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Trigger account {#account-triggers}
 
@@ -23,7 +22,7 @@ Inserisci &quot;Account con nome&quot; nella casella di ricerca per trovare entr
 
 ![](assets/two-1.png)
 
-Trascinate il trigger desiderato sull’area di lavoro. In questo esempio utilizziamo _Aggiunto a Account denominato_.
+Trascinate il trigger desiderato sull’area di lavoro. In questo esempio utilizziamo _Aggiunto all’account con nome_.
 
 ![](assets/three-1.png)
 

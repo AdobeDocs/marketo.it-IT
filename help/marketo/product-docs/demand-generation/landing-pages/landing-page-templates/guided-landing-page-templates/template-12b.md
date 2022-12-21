@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 12B {#template-12b}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 

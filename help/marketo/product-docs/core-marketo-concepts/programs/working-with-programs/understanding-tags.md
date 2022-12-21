@@ -3,7 +3,6 @@ unique-page-id: 1147112
 description: Informazioni sui tag - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sui tag
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -23,7 +22,7 @@ I tipi di tag identificano il tipo di informazioni in base al quale desideri ese
 
 >[!TIP]
 >
->Per creare tag personalizzati, rivolgiti al tuo [Amministratore Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md) .
+>Parla con il tuo [Amministratore Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md) per creare tag personalizzati.
 
 >[!NOTE]
 >
@@ -49,7 +48,7 @@ Ogni tipo di tag avrà dei valori tra cui scegliere.
 
 ## Canale {#channel}
 
-I canali vengono utilizzati per creare rapporti sul modo in cui i [membri](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) si sono spostati all&#39;interno del programma. Ogni canale ha un set di stati di progressione e uno stato impostato su uguale successo.
+I canali vengono utilizzati per creare rapporti su come [membri](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) è passato attraverso il programma. Ogni canale ha un set di stati di progressione e uno stato impostato su uguale successo.
 
 >[!NOTE]
 >

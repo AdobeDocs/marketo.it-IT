@@ -5,7 +5,7 @@ title: Aggiornare la soluzione Marketo Sales Insight per Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---

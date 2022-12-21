@@ -1,6 +1,6 @@
 ---
 audience: end-user
-user-guide-title: Guida a Marketo
+user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Guida a Marketo {#using}
+# Guida di Marketo {#using}
 
 + [Home](home.md)
 + Guida introduttiva a Marketo {#getting-started-with-marketo}
@@ -82,7 +82,7 @@ ht-degree: 0%
             + [SEO - Ottieni suggerimenti collegamenti in entrata](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
             + [SEO - Rimuovere/eliminare un URL di collegamento in entrata](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
             + [SEO - Informazioni sui collegamenti in entrata](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-         + Report {#reports}
+         + Rapporti {#reports}
             + [SEO - Utilizzare il rapporto sulle tendenze KW della concorrenza](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Utilizzare il rapporto Tendenze parole chiave](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + Amministrazione {#administration}
@@ -628,7 +628,7 @@ ht-degree: 0%
             + [Creare una finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Criteri di audience](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [Report](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
+            + [Rapporti](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Eventi {#events}
          + Informazioni sugli eventi {#understanding-events}
             + [Aggiunta di membri a un programma evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)

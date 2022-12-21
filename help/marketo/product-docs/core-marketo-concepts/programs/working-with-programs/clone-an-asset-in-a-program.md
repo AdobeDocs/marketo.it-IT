@@ -3,7 +3,6 @@ unique-page-id: 1147152
 description: Clonare una risorsa in un programma - Documenti Marketo - Documentazione del prodotto
 title: Clonare una risorsa in un programma
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
@@ -13,11 +12,11 @@ ht-degree: 0%
 
 # Clonare una risorsa in un programma {#clone-an-asset-in-a-program}
 
-Clonazione di un programma cloni _tutto_. A volte è sufficiente clonare una risorsa. Ecco come.
+Clonazione di cloni di un programma _tutto_. A volte è sufficiente clonare una risorsa. Ecco come.
 
 >[!NOTE]
 >
->È necessario eseguire ulteriori passaggi per [clonare un gruppo di test della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>Sarà necessario eseguire ulteriori passaggi per [clonare un gruppo di test della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Clonare una risorsa locale {#clone-a-local-asset}
 
@@ -29,7 +28,7 @@ Clonazione di un programma cloni _tutto_. A volte è sufficiente clonare una ris
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fare clic su **Clona**.
+1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fai clic su **Clona**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
@@ -39,7 +38,7 @@ Clonazione di un programma cloni _tutto_. A volte è sufficiente clonare una ris
 
    >[!TIP]
    >
-   >Puoi anche clonare una risorsa in un programma diverso. Utilizza il menu a discesa **Programma** per effettuare la selezione.
+   >Puoi anche clonare una risorsa in un programma diverso. Utilizza la **Programma** a discesa per effettuare la selezione.
 
 1. Fantastico! Ora dovresti vedere la nuova risorsa clonata.
 

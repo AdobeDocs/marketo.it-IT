@@ -1,37 +1,36 @@
 ---
 unique-page-id: 1900565
-description: Includere un evento del calendario (.ics) in un messaggio e-mail - Documenti Marketo - Documentazione del prodotto
-title: Includi un evento del calendario (.ics) in un messaggio e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Includere un evento calendario (.ics) in un messaggio e-mail - Marketo Docs - Documentazione del prodotto
+title: Includere un evento calendario (.ics) in un messaggio e-mail
+exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
+# Includere un evento calendario (.ics) in un messaggio e-mail {#include-a-calendar-event-ics-in-an-email}
 
-# Includi un evento del calendario (.ics) in un messaggio e-mail {#include-a-calendar-event-ics-in-an-email}
-
-Un token per file di calendario consente di aggiungere un collegamento evento di calendario (.ics) alle e-mail di Marketo.
+Un token del file calendario consente di aggiungere un collegamento evento calendario (.ics) alle e-mail di Marketo.
 
 >[!PREREQUISITES]
 >
 >[Creare un file evento calendario (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. Durante la modifica dell&#39;e-mail del programma, fare clic nel punto in cui si desidera inserire il token, quindi fare clic sul pulsante Inserisci token.
+1. Durante la modifica dell&#39;e-mail del programma, fai clic sul punto in cui desideri inserire il token, quindi fai clic sul pulsante Inserisci token .
 
 ![](assets/one-6.png)
 
-1. Selezionare il token del file di calendario e fare clic su **Inserisci**.
+1. Seleziona il token del file di calendario e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/three-5.png)
 
-   I destinatari riceveranno un&#39;e-mail simile a quella riportata di seguito.
+   I destinatari riceveranno un’e-mail simile a questa.
 
    ![](assets/image2014-9-11-16-3a53-3a48.png)
 

@@ -1,63 +1,62 @@
 ---
 unique-page-id: 10094959
-description: Utilizzo dei dashboard in Revenue Explorer - Marketo Docs - Documentazione prodotto
-title: Utilizzo dei dashboard in Esplora entrate
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Utilizzo delle dashboard in Revenue Explorer - Marketo Docs - Documentazione del prodotto
+title: Utilizzo delle dashboard in Revenue Explorer
+exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
+# Utilizzo delle dashboard in Revenue Explorer {#using-dashboards-in-revenue-explorer}
 
-# Utilizzo dei dashboard in Esplora entrate {#using-dashboards-in-revenue-explorer}
-
-Una dashboard è una combinazione di report Revenue Explorer per ottenere una panoramica rapida dei lead, delle campagne, delle opportunità e/o dei modelli.
+Una dashboard è una combinazione di report di Revenue Explorer per ottenere una rapida panoramica dei lead, delle campagne, delle opportunità e/o dei modelli.
 
 ## Creazione di un nuovo dashboard {#creating-a-new-dashboard}
 
-1. Fare clic su **Revenue Explorer**.
+1. Fai clic su **Esplora ricavi**.
 
    ![](assets/one.png)
 
-1. Fare clic su **Crea nuovo**, quindi su **Dashboard**.
+1. Fai clic su **Crea nuovo**, quindi **Dashboard**.
 
    ![](assets/two.png)
 
-1. Nella parte inferiore della pagina, per impostazione predefinita verranno selezionati Modelli. Fate clic sul layout da utilizzare. &quot;2 Colonna&quot; è utilizzato qui.
+1. Nella parte inferiore della pagina, per impostazione predefinita verrà selezionato Modelli . Fare clic sul layout che si desidera utilizzare. &quot;2 Colonna&quot; è utilizzato qui.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Per personalizzare ulteriormente l&#39;aspetto del dashboard, fai clic su **Temi** e scegli il tuo preferito.
+   >Puoi personalizzare ulteriormente l’aspetto del dashboard facendo clic su **Temi** e scegliere il tuo preferito.
 
-1. Nella prima sezione del dashboard, fare clic sull&#39;icona **Inserisci** e selezionare **File**.
+1. Nella prima sezione del dashboard, fai clic su **Inserisci** e seleziona **File**.
 
    ![](assets/four.png)
 
-1. Fare doppio clic su **Revenue Explorer**.
+1. Fare doppio clic **Esplora ricavi**.
 
    ![](assets/five.png)
 
-1. Fare doppio clic su **Tutti i report e dashboard**.
+1. Fare doppio clic **Tutti i rapporti e le dashboard**.
 
    ![](assets/six.png)
 
-1. Fate doppio clic sulla cartella in cui è memorizzato il rapporto che desiderate utilizzare.
+1. Fare doppio clic sulla cartella che contiene il rapporto che si desidera utilizzare.
 
    ![](assets/seven.png)
 
-1. Scegliete il rapporto e fate clic su **Seleziona**.
+1. Scegli il rapporto e fai clic su **Seleziona**.
 
    ![](assets/eight.png)
 
-1. Il rapporto verrà quindi compilato. Ripetere i passaggi da 4 a 8 per ogni sezione rimanente.
+1. Il report verrà quindi compilato. Ripetere i passaggi 4-8 per ogni sezione rimanente.
 
    ![](assets/nine.png)
 
-1. Per rinominare una sezione, fate clic su di essa per selezionarla, digitate il nome desiderato in Titolo e fate clic su **Applica**. Ripetere la procedura per ogni sezione.
+1. Per rinominare una sezione, fai clic su di essa per selezionarla, digita il nome desiderato sotto Titolo e fai clic su **Applica**. Ripeti per ogni sezione.
 
    ![](assets/ten.png)
 
@@ -67,28 +66,28 @@ Una dashboard è una combinazione di report Revenue Explorer per ottenere una pa
 
 ## Modifica di un dashboard {#editing-a-dashboard}
 
-1. Fare clic su **Revenue Explorer**.
+1. Fai clic su **Esplora ricavi**.
 
    ![](assets/one.png)
 
-1. Fare doppio clic sulla cartella **Revenue Explorer**. Individuate la posizione di vita del dashboard.
+1. Fai doppio clic sul pulsante **Esplora ricavi** cartella. Passa al punto in cui si trova il dashboard.
 
    ![](assets/thirteen.png)
 
-1. Selezionate il dashboard da modificare, quindi fate clic su **Modifica**.
+1. Seleziona il dashboard da modificare, quindi fai clic su **Modifica**.
 
    ![](assets/fourteen.png)
 
 ## Eliminazione di un dashboard {#deleting-a-dashboard}
 
-1. Fare clic su **Revenue Explorer**.
+1. Fai clic su **Esplora ricavi**.
 
    ![](assets/one.png)
 
-1. Fare doppio clic sulla cartella **Revenue Explorer**. Individuate la posizione di vita del dashboard.
+1. Fai doppio clic sul pulsante **Esplora ricavi** cartella. Passa al punto in cui si trova il dashboard.
 
    ![](assets/thirteen.png)
 
-1. Selezionate il dashboard da eliminare, quindi fate clic su **Sposta nel cestino**.
+1. Seleziona il dashboard da eliminare, quindi fai clic su **Passa al cestino**.
 
    ![](assets/fifteen.png)

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 4718636
-description: Informazioni sull'area di analisi dei costi del programma - Documenti Marketo - Documentazione del prodotto
-title: Informazioni sull'area Analisi costi del programma
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Informazioni sull’area Analisi dei costi del programma - Documenti Marketo - Documentazione del prodotto
+title: Informazioni sull’area di analisi dei costi del programma
+exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Informazioni sull’area di analisi dei costi del programma {#understanding-the-program-cost-analysis-area}
 
-# Informazioni sull&#39;area di analisi dei costi del programma {#understanding-the-program-cost-analysis-area}
+L’area Analisi dei costi del programma consente di analizzare l’efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale per un determinato periodo di tempo.
 
-L&#39;area Analisi costi programma consente di analizzare l&#39;efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale per un determinato periodo di tempo.
-
-## Esempi di domande aziendali {#example-business-questions}
+## Domande aziendali di esempio {#example-business-questions}
 
 Quanti nuovi nomi sono stati generati ogni canale al mese?
 
 ![](assets/image2015-5-6-14-3a13-3a47.png)
 
-Qual è stato il mio costo per ogni nuovo nome per canale al mese?
+Qual è stato il costo per ogni nuovo nome per canale al mese?
 
 ![](assets/image2015-5-6-14-3a16-3a28.png)
 
@@ -47,9 +46,9 @@ Quanto ho speso per programma al mese?
 | Costo per nuovo nome | Costo medio per lead acquisito dal programma |
 | Costo per successo | Costo medio per lead che ha raggiunto il successo nella progressione di un programma |
 | Costo per successo (nuovi nomi) | Costo medio per lead acquisito dal programma E raggiunto il successo nella progressione del programma |
-| Costo del programma | Costo del periodo totale del programma |
+| Costo del programma | Costo totale del programma |
 
-## Appartenenza {#membership}
+## iscrizione {#membership}
 
 <table> 
  <tbody> 
@@ -63,44 +62,44 @@ Quanto ho speso per programma al mese?
   </tr> 
   <tr> 
    <td>Membri</td> 
-   <td>Totale lead in un programma</td> 
+   <td>Numero totale di lead in un programma</td> 
   </tr> 
   <tr> 
    <td>Nuovi nomi</td> 
-   <td>Totale nuovi nomi acquisiti da un programma</td> 
+   <td>Totale delle nuove denominazioni acquisite da un programma</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Attributi del programma {#program-attributes}
 
-| Dimension | Descrizione |
+| Dimensione | Descrizione |
 |---|---|
-| Canale programma | Canale programma |
-| Nome programma | Nome programma |
+| Canale del programma | Canale del programma |
+| Nome del programma | Nome del programma |
 
-## Calendario costi programma {#program-cost-timeframe}
+## Calendario dei costi del programma {#program-cost-timeframe}
 
-| Dimension | Descrizione |
+| Dimensione | Descrizione |
 |---|---|
-| Anno | Calendario costi programma |
-| Trimestre | Durata del programma |
-| Mese | Calendario costi programma |
+| Anno | Calendario dei costi del programma |
+| Trimestre | Intervallo di tempo del programma |
+| Mese | Calendario dei costi del programma |
 
-## Tag programma {#program-tags}
+## Tag del programma {#program-tags}
 
 | Misura | Descrizione |
 |---|---|
-| Industria | Tag del programma |
-| Linea prodotto | Tag del programma |
+| Settore | Tag del programma |
+| Linea di prodotto | Tag del programma |
 | Proprietario programma | Tag del programma |
-| Regione | Tag del programma |
+| Area geografica | Tag del programma |
 
-## Successo {#success}
+## Operazione riuscita {#success}
 
 | Misura | Descrizione |
 |---|---|
-| % esito positivo (nuovi nomi) | Percentuale di lead acquisiti dal programma E ottenuti con successo nella progressione del programma |
+| % riuscito (nuovi nomi) | Percentuale di lead acquisiti dal programma e realizzati con successo nella progressione del programma |
 | % successo (totale) | Percentuale di lead che hanno raggiunto il successo nella progressione di un programma |
-| Successo (nuovi nomi) | Numero totale di nuovi nomi che hanno raggiunto il successo nella progressione di un programma |
+| Operazione riuscita (nuovi nomi) | Numero totale di nuovi nomi che hanno raggiunto il successo nella progressione di un programma |
 | Successo (totale) | Numero totale di lead che hanno raggiunto il successo nella progressione di un programma |

@@ -2,7 +2,6 @@
 description: Attivare la sincronizzazione di Campaign - Documentazione di Marketo - Documentazione del prodotto
 title: Abilita sincronizzazione campagna
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
@@ -26,7 +25,7 @@ Questa opzione consente a Marketo di aggiungere e rimuovere membri da MS Dynamic
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Fare clic su **Microsoft Dynamics**.
+1. Fai clic su **Microsoft Dynamics**.
 
    ![](assets/enable-campaign-sync-2.png)
 
@@ -34,7 +33,7 @@ Questa opzione consente a Marketo di aggiungere e rimuovere membri da MS Dynamic
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Seleziona la casella di controllo **Abilita sincronizzazione di Microsoft Dynamics Campaign** e fai clic su **Salva**.
+1. Seleziona la **Abilita sincronizzazione Microsoft Dynamics Campaign** seleziona e fai clic su **Salva**.
 
    ![](assets/enable-campaign-sync-4.png)
 

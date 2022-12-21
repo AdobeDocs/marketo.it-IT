@@ -1,37 +1,36 @@
 ---
 unique-page-id: 3571888
-description: Abilitazione della sincronizzazione campo personalizzata per l'analisi del ciclo dei ricavi - Documenti Marketo - Documentazione del prodotto
-title: Abilitazione della sincronizzazione dei campi personalizzata per l'analisi del ciclo delle entrate
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Abilitazione della sincronizzazione dei campi personalizzati per l’analisi del ciclo dei ricavi - Documenti Marketo - Documentazione del prodotto
+title: Abilitazione della sincronizzazione dei campi personalizzati per l’analisi del ciclo dei ricavi
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# Abilitazione della sincronizzazione dei campi personalizzati per l’analisi del ciclo dei ricavi {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
-# Abilitazione della sincronizzazione dei campi personalizzata per l&#39;analisi del ciclo dei ricavi {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+I passaggi seguenti ti consentono di utilizzare campi personalizzati nei rapporti RCA.
 
-La procedura seguente consente di utilizzare campi personalizzati nei rapporti RCA.
-
-1. Fare clic su **Admin**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/one.png)
 
-1. Fare clic su **Analisi del ciclo di ricavi**, quindi su **Sincronizzazione campo personalizzata**.
+1. Fai clic su **Analisi del ciclo dei ricavi**, quindi **Sincronizzazione campo personalizzata**.
 
    ![](assets/two.png)
 
-1. Selezionare il **Nome campo**, quindi fare clic su **Modifica opzione di sincronizzazione**.
+1. Seleziona la tua **Nome campo**, quindi fai clic su **Modifica opzione di sincronizzazione**.
 
    ![](assets/three.png)
 
-1. In Stato sincronizzazione, selezionare **Abilitato**, quindi fare clic su **Salva**.
+1. In Stato sincronizzazione, seleziona **Abilitato**, quindi fai clic su **Salva**.
 
    ![](assets/four.png)
 
-1. Il controllo verde consente di sapere che il campo è impostato per la sincronizzazione.
+1. Il controllo verde ti consente di sapere che il campo è configurato per la sincronizzazione.
 
    ![](assets/five.png)
 
@@ -39,4 +38,4 @@ La procedura seguente consente di utilizzare campi personalizzati nei rapporti R
 
    >[!NOTE]
    >
-   >Dopo che il campo è abilitato, i dati saranno disponibili in Analisi del ciclo delle entrate il giorno successivo.
+   >Una volta abilitato il campo , i dati saranno disponibili in Analisi del ciclo dei ricavi il giorno successivo.

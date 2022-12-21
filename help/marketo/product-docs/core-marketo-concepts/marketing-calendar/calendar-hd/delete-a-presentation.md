@@ -3,7 +3,6 @@ unique-page-id: 7504060
 description: Eliminare una presentazione - Documenti Marketo - Documentazione del prodotto
 title: Eliminare una presentazione
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'

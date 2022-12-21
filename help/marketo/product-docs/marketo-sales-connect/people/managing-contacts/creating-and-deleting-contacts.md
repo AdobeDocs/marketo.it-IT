@@ -1,46 +1,45 @@
 ---
 unique-page-id: 14352516
-description: Creazione ed eliminazione di contatti - Documenti Marketo - Documentazione prodotto
+description: Creazione ed eliminazione di contatti - Documenti Marketo - Documentazione del prodotto
 title: Creazione ed eliminazione di contatti
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
 # Creazione ed eliminazione di contatti {#creating-and-deleting-contacts}
 
-## Creazione di contatti {#creating-contacts}
+## Creazione dei contatti {#creating-contacts}
 
-1. Nella pagina Persone, fare clic sul pulsante **Azioni gruppo** e selezionare **Crea contatto**.
+1. Nella pagina Persone, fai clic sul pulsante **Azioni gruppo** e seleziona **Crea contatto**.
 
    ![](assets/one-2.png)
 
-1. Inserite il nome/cognome e l’indirizzo e-mail, insieme alle altre informazioni desiderate. Fare clic su **Crea** al termine, oppure su **Crea e aggiungi nuovo** per aggiungere altri contatti.
+1. Inserisci il nome/cognome e l’indirizzo e-mail, insieme a qualsiasi altra informazione desiderata. Fai clic su **Crea** al termine, oppure **Crea e aggiungi nuovo** per aggiungere altri contatti.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Vuoi aggiungere più contatti contemporaneamente? [Fai clic ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) qui per scoprire come importare i contatti tramite CSV.
+   >Vuoi aggiungere più contatti contemporaneamente? [Fai clic qui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) per scoprire come importare i contatti tramite CSV.
 
 ## Eliminazione dei contatti {#deleting-contacts}
 
-1. Nella pagina Persone, selezionate la casella del contatto che desiderate eliminare.
+1. Nella pagina Persone , seleziona la casella del contatto da eliminare.
 
    ![](assets/three-2.png)
 
    >[!NOTE]
    >
-   >Per eliminare più contatti, è sufficiente selezionare più persone. I passaggi rimanenti sarebbero gli stessi.
+   >Per eliminare più contatti, selezionare semplicemente più persone. I passaggi rimanenti sarebbero gli stessi.
 
-1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
+1. Fai clic sul punto (tre punti verticali) e seleziona **Elimina**.
 
    ![](assets/four-2.png)
 
-1. Fare clic su **Elimina contatto** per confermare.
+1. Fai clic su **Elimina contatto** per confermare.
 
    ![](assets/five-2.png)

@@ -5,7 +5,7 @@ title: Sincr. SFDC - Sincronizzazione campagna
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---

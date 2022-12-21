@@ -1,33 +1,32 @@
 ---
 unique-page-id: 1900589
-description: Aggiungere collegamenti tracciati a un messaggio e-mail di testo - Documenti Marketo - Documentazione prodotto
-title: Aggiunta di collegamenti tracciati a un messaggio e-mail di testo
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Aggiungere collegamenti tracciati a un messaggio e-mail di testo - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere collegamenti tracciati a un’e-mail di testo
+exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
-# Aggiungere collegamenti tracciati a un&#39;e-mail di testo {#add-tracked-links-to-a-text-email}
+# Aggiungere collegamenti tracciati a un’e-mail di testo {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
->* [Creare un messaggio e-mail solo testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [Crea un messaggio e-mail solo testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Modificare gli elementi in un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 
-I collegamenti e-mail di testo possono essere tracciati in Marketo. Vediamo come funziona. 1. Selezionate il messaggio e-mail e fate clic su Modifica bozza.
+I collegamenti e-mail di testo possono essere tracciati in Marketo. Vediamo come funziona. 1. Seleziona l’e-mail e fai clic su Modifica bozza.
 
 ![](assets/one-9.png)
 
-1. Fare doppio clic sull&#39;area modificabile a cui si desidera aggiungere il collegamento.
+1. Fare doppio clic sull’area modificabile a cui si desidera aggiungere il collegamento.
 
    ![](assets/two-8.png)
 
-1. Inserite l’URL con parentesi quadre, come segue: `[[www.domain.com/path/page.html]]`.
+1. Inserisci l’URL con parentesi quadre, come riportato di seguito: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -37,10 +36,10 @@ I collegamenti e-mail di testo possono essere tracciati in Marketo. Vediamo come
 
 >[!NOTE]
 >
->La funzionalità di classe mktNoTok non funziona con i collegamenti tracciabili nelle e-mail di testo. Solo per le e-mail HTML.
+>La funzionalità della classe mktNoTok non funziona con i collegamenti tracciabili nelle e-mail di testo. Solo per le e-mail di HTML.
 
 >[!TIP]
 >
->Verificate il risultato per eseguire un doppio controllo. Assicurarsi di aver inserito correttamente le parentesi.
+>Esegui il test per verificare due volte. Assicurati di aver inserito correttamente le parentesi.
 
-Bel lavoro!
+Ottimo lavoro!

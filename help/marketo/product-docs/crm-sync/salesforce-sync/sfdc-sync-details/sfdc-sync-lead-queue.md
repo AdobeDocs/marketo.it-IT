@@ -5,7 +5,7 @@ title: Sincronizzazione SFDC - Coda lead
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

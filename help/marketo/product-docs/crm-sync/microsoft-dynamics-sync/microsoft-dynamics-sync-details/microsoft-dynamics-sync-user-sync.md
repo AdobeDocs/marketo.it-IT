@@ -5,7 +5,7 @@ title: Microsoft Dynamics Sync - Sincronizzazione utente
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---

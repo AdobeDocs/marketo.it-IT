@@ -1,61 +1,60 @@
 ---
 unique-page-id: 37356584
-description: Invio di e-mail tramite posta elettronica di gruppo - Documenti Marketo - Documentazione del prodotto
+description: Invio di e-mail tramite e-mail di gruppo - Documenti Marketo - Documentazione del prodotto
 title: Invio di e-mail tramite e-mail di gruppo
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
+# Invio di e-mail tramite e-mail di gruppo {#sending-emails-via-group-email}
 
-# Invio di e-mail tramite posta elettronica di gruppo {#sending-emails-via-group-email}
+Ecco come inviare/modificare le e-mail utilizzando l’opzione Raggruppa e-mail .
 
-Di seguito viene illustrato come inviare/modificare e-mail utilizzando l&#39;opzione Raggruppa e-mail.
+## Invio di un’e-mail di gruppo {#sending-a-group-email}
 
-## Invio di un&#39;e-mail di gruppo {#sending-a-group-email}
-
-1. Fare clic sulla scheda **Persone**.
+1. Fai clic sul pulsante **Persone** scheda .
 
    ![](assets/one-3.png)
 
-1. Selezionate il gruppo da inviare per e-mail.
+1. Seleziona il gruppo da inviare tramite e-mail.
 
    ![](assets/two-3.png)
 
-1. Fate clic sul pulsante Azioni gruppo e selezionate **Gruppo e-mail**.
+1. Fare clic sul pulsante Raggruppa azioni e selezionare **Gruppo e-mail**.
 
    ![](assets/three-3.png)
 
-1. Compilate il messaggio e-mail (o selezionate un modello) e inviatelo (o pianificatelo).
+1. Compila il tuo messaggio e-mail (o seleziona un modello) e invialo (o pianificalo).
 
    ![](assets/four-3.png)
 
-## Modifica di un&#39;e-mail di gruppo {#editing-a-group-email}
+## Modifica di un messaggio e-mail di gruppo {#editing-a-group-email}
 
-1. Create un&#39;e-mail di gruppo utilizzando i [Passaggi da 1 a 3 sopra](#sending-a-group-email).
+1. Creare un messaggio e-mail di gruppo utilizzando [Passaggi da 1 a 3](#sending-a-group-email).
 
-1. Scegliete un modello o compilate il messaggio e-mail.
+1. Scegli un modello o compila il tuo messaggio e-mail.
 
    ![](assets/edit-two.png)
 
-1. Al termine dell&#39;e-mail, è ora possibile visualizzare in anteprima ogni e-mail nell&#39;elenco per verificare se i campi dinamici si stanno compilando correttamente.
+1. Al termine dell’e-mail, ora puoi visualizzare in anteprima ogni e-mail nell’elenco per verificare se i campi dinamici si stanno popolando correttamente.
 
    ![](assets/edit-three.png)
 
-1. Selezionate il destinatario desiderato.
+1. Seleziona il destinatario desiderato.
 
    ![](assets/edit-four.png)
 
-1. Fare clic su **Anteprima campi dinamici** e visualizzare l&#39;anteprima a destra.
+1. Fai clic su **Anteprima campi dinamici** e visualizza l&#39;anteprima a destra.
 
    ![](assets/edit-five.png)
 
    >[!NOTE]
    >
-   >Potete apportare modifiche collettive all’e-mail o al modello al momento dell’invio di un’e-mail di gruppo, ma non potete apportare modifiche univoche a destinatari specifici nell’elenco.
+   >Puoi apportare modifiche in blocco all’e-mail o al modello quando invii un’e-mail di gruppo, ma non puoi apportare modifiche univoche per destinatari specifici nell’elenco.
 
 >[!MORELIKETHIS]
 >

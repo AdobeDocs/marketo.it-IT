@@ -1,27 +1,26 @@
 ---
 unique-page-id: 8783141
-description: Invio di un esempio di notifica push - Documenti Marketo - Documentazione prodotto
-title: Invio di un esempio di notifica push
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Inviare un esempio di notifica push - Documenti Marketo - Documentazione del prodotto
+title: Invia un esempio di notifica push
+exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
 # Invia un esempio di notifica push {#send-a-push-notification-sample}
 
-Potete inviare un esempio per verificare il corretto funzionamento della notifica push!
+Puoi inviare un esempio per verificare che la notifica push funzioni correttamente!
 
 >[!PREREQUISITES]
 >
->Accertatevi che l&#39;app sia installata sul dispositivo a cui state inviando l&#39;esempio.
+>Assicurati che l’app sia installata sul dispositivo a cui stai inviando l’esempio.
 
-1. Potete inviare un esempio in tre modi:
+1. Puoi inviare un esempio in tre modi:
 
-   Nella struttura ad albero a sinistra, fate clic con il pulsante destro del mouse sulla risorsa di notifica push e fate clic su **Invia esempio**.
+   Nella struttura ad albero a sinistra, fai clic con il pulsante destro del mouse sulla risorsa di notifica push e fai clic su **Invia esempio**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
@@ -29,36 +28,35 @@ Potete inviare un esempio per verificare il corretto funzionamento della notific
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Oppure, nell&#39;Editor notifiche push, fai clic su **Invia esempio**.
+   Oppure, nell’Editor notifiche push, fai clic su **Invia esempio**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
-1. Se avete già impostato il dispositivo di prova che desiderate utilizzare, selezionatelo dall’elenco.
+1. Se hai già impostato il dispositivo di prova che desideri utilizzare, selezionalo dall’elenco.
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   In alternativa, fare clic su **Aggiungi dispositivo** a [aggiungi un nuovo dispositivo di prova](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) a cui inviare l&#39;esempio.
+   Oppure, fai clic su **Aggiungi dispositivo** a [aggiungi un nuovo dispositivo di test](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) a cui inviare il campione.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
-1. Sono disponibili due modi per collegare il dispositivo all&#39;app.
+1. Puoi collegare il tuo dispositivo all’app in due modi.
 
-   Con la prima opzione, fare clic sul pulsante **Visit URL with device**, copiare l&#39;URL dal campo e inviarlo in un messaggio di posta elettronica o di testo al dispositivo. Dal dispositivo, toccate l’URL. Quando lo stato mostra la connessione, fare clic su **Invia**.
+   Con la prima opzione, fai clic sul pulsante **URL visita con il dispositivo** , copia l’URL dal campo e invialo in un messaggio e-mail o di testo al tuo dispositivo. Dal dispositivo, tocca l’URL. Quando lo stato mostra la connessione, fai clic su **Invia**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Oppure, con la seconda opzione, fare clic sul pulsante **Digitalizza il codice QR con il dispositivo** e analizzare il codice QR con il dispositivo. Quando lo stato mostra la connessione, fare clic su **Invia**.
+   Oppure, con la seconda opzione, fai clic sul pulsante **Digitalizza il codice QR con il dispositivo** e scansiona il codice QR con il tuo dispositivo. Quando lo stato mostra la connessione, fai clic su **Invia**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >È stato aggiunto correttamente un dispositivo di prova, ma non è elencato nel campo **Invia a**? Per risolvere i problemi, controllate i seguenti elementi:
+   >È stato aggiunto correttamente un dispositivo di test, ma non viene visualizzato nell’elenco **Invia a** campo? Controlla questi per risolvere i problemi:
    >
-   >* Le notifiche push sono attivate per l&#39;app associata alla notifica push.
-      >
-      >
-   * La notifica push è configurata per la piattaforma del dispositivo di prova. Ad esempio, se avete appena aggiunto un iPhone come dispositivo di prova, accertatevi che la notifica push sia abilitata per iOS.
+   >* Le notifiche push sono attivate per l’app associata alla notifica push.
+   >
+   >* La notifica push è configurata per la piattaforma del dispositivo di test. Ad esempio, se hai appena aggiunto un dispositivo di test iPhone, assicurati che la notifica push sia abilitata per iOS.
 
 
 Facile!

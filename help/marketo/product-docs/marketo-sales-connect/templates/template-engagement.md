@@ -1,32 +1,31 @@
 ---
 unique-page-id: 14352504
 description: Coinvolgimento dei modelli - Documenti Marketo - Documentazione del prodotto
-title: Coinvolgimento modello
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+title: Coinvolgimento del modello
+exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# Coinvolgimento del modello {#template-engagement}
 
-# Coinvolgimento modello {#template-engagement}
+Segui i passaggi riportati di seguito per visualizzare il coinvolgimento del modello.
 
-Segui i passaggi indicati di seguito per visualizzare il coinvolgimento dei modelli.
+1. Passa a **Analytics** pagina.
 
-1. Andate alla pagina **Analytics**.
+1. Fai clic sul pulsante **Contenuto** e filtra in base all’intervallo di date desiderato.
 
-1. Fare clic sul pulsante **Content** e filtrare in base all&#39;intervallo di date desiderato.
+1. In base all’intervallo di date selezionato, nella parte superiore della pagina puoi vedere il numero totale di e-mail e modelli utilizzati nel tuo team.
 
-1. In base all&#39;intervallo di date selezionato, nella parte superiore della pagina è visualizzato il numero totale di e-mail e modelli utilizzati nel team.
+   Sotto, la tua vista è suddivisa in tre sezioni:
 
-   Sotto a questo, la vista è suddivisa in tre sezioni:
+   **Arma segreta** - Un modello non ancora condiviso tra i team che sta ottenendo tonnellate di coinvolgimento
 
-   **Arma**  segreta - Un modello non ancora condiviso tra i team che sta ottenendo un sacco di coinvolgimento
+   **Maggiore coinvolgimento** - Un modello già condiviso in tutto il team che lo sta uccidendo nel coinvolgimento
 
-   **Massimo coinvolgimento** : un modello già condiviso tra il team che lo sta uccidendo nel coinvolgimento
+   **Coinvolgimento più basso** - Un modello che richiede una certa rielaborazione del tasso di coinvolgimento (questo modello può essere condiviso o non condiviso tra i team)
 
-   **Coinvolgimento**  più basso: modello che necessita di un nuovo tentativo di adattamento al tasso di coinvolgimento (il modello può essere condiviso o non condiviso tra i membri del team)
-
-   Da qui, scorri verso il basso e vedi tutti i modelli creati nel tuo team in base ai loro tassi di visualizzazione all&#39;interno dell&#39;intervallo di date selezionato. A livello di singolo modello potete vedere: chi lo ha creato, sia che sia condiviso, il numero di e-mail con cui è stato utilizzato e i dati di tracciamento (visualizzazioni, clic, risposte).
+   Da lì, scorri verso il basso e vedi tutti i modelli creati nel tuo team in base ai loro tassi di visualizzazione all’interno dell’intervallo di date selezionato. A livello di singolo modello puoi vedere: chi l’ha creato, condiviso o meno, numero di e-mail con cui è stato utilizzato e dati di tracciamento (visualizzazioni, clic, risposte).

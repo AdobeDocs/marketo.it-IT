@@ -2,14 +2,13 @@
 unique-page-id: 17727818
 description: Utilizzo di Personas - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di Personas
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # Utilizzo di Personas {#using-personas}
 
@@ -21,11 +20,11 @@ Le persone sono un ottimo modo per segmentare il pubblico e il mercato ABM a un 
 
    ![](assets/one.png)
 
-1. Nella struttura, seleziona **Gestione account di destinazione**.
+1. Nella struttura, seleziona **Gestione account di Target**.
 
    ![](assets/using-personas-2.png)
 
-1. Fare clic su **Modifica**.
+1. Fai clic su **Modifica**.
 
    ![](assets/three.png)
 
@@ -37,15 +36,15 @@ Le persone sono un ottimo modo per segmentare il pubblico e il mercato ABM a un 
 
    ![](assets/four.png)
 
-1. Assegna un nome alla tua persona e seleziona il campo corrispondente nel menu a discesa. Puoi aggiungere fino a due utenti tipo aggiuntivi. Al termine, fai clic su **Salva**.
+1. Assegna un nome alla tua persona e seleziona il campo corrispondente nel menu a discesa. Puoi aggiungere fino a due utenti tipo aggiuntivi. Fai clic su **Salva** al termine.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Solo i campi personalizzati Salesforce di tipo &quot;elenco di selezione&quot; sincronizzati nell’istanza Marketo sono disponibili nel menu a discesa del campo utente durante la creazione di una persona.
+   >Solo i campi personalizzati Salesforce di tipo &quot;elenco di selezione&quot; sincronizzati nell’istanza Marketo sono disponibili nel menu a discesa del campo utente quando si crea un utente tipo.
 
-## Visualizza i tuoi utenti {#view-your-personas}
+## Visualizza i tuoi dipendenti {#view-your-personas}
 
 Visualizza i tuoi utenti tipo visitando uno specifico account con nome.
 
@@ -53,11 +52,11 @@ Visualizza i tuoi utenti tipo visitando uno specifico account con nome.
 
    ![](assets/one-a.png)
 
-1. Fai clic sulla scheda **Personas** .
+1. Fai clic sul pulsante **Personas** scheda .
 
    ![](assets/two-a.png)
 
-1. Tutti i tuoi utenti tipo sono elencati. Fai clic su un numero per visualizzare l’elenco delle persone.
+1. Tutti i tuoi utenti tipo sono elencati. Fai clic su un numero per visualizzare l&#39;elenco delle persone.
 
    ![](assets/three-a.png)
 

@@ -2,22 +2,21 @@
 unique-page-id: 11378816
 description: Aggiungere persone a un account denominato - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere persone a un account denominato
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-
 # Aggiungere persone a un account denominato {#add-people-to-a-named-account}
 
 Sono disponibili tre modi diversi per aggiungere manualmente le persone a un account denominato in TAM.
 
-## Azione flusso singolo {#single-flow-action}
+## Azione a flusso singolo {#single-flow-action}
 
-1. Fare clic su **Database**.
+1. Fai clic su **Database**.
 
    ![](assets/one-2.png)
 
@@ -25,17 +24,17 @@ Sono disponibili tre modi diversi per aggiungere manualmente le persone a un acc
 
    ![](assets/two.png)
 
-1. Fai clic sulla persona per selezionarla. Fai clic sul menu a discesa **Azioni persona**, fai clic su **Marketing** e seleziona **Aggiungi a account denominato**.
+1. Fai clic sulla persona per selezionarla. Fai clic sul pulsante **Azioni personali** a discesa, fai clic su **Marketing** e seleziona **Aggiungi a account con nome**.
 
    ![](assets/three.png)
 
-1. Fai clic sull&#39;elenco a discesa **Account con nome**, seleziona l&#39;account con nome desiderato e fai clic su **Esegui ora**.
+1. Fai clic sul pulsante **Account denominato** a discesa, seleziona l&#39;account con nome desiderato e fai clic su **Esegui ora**.
 
    ![](assets/four.png)
 
-## Passaggio flusso campagna avanzata {#smart-campaign-flow-step}
+## Passaggio al flusso di una campagna intelligente {#smart-campaign-flow-step}
 
-1. Seleziona la tua campagna avanzata e fai clic su **Flusso**.
+1. Seleziona la tua Smart Campaign e fai clic su **Flusso**.
 
    ![](assets/five.png)
 
@@ -47,7 +46,7 @@ Sono disponibili tre modi diversi per aggiungere manualmente le persone a un acc
 
    ![](assets/seven.png)
 
-1. Fai clic sull&#39;elenco a discesa **Account con nome** e seleziona l&#39;account con nome desiderato.
+1. Fai clic sul pulsante **Account denominato** e seleziona l&#39;account denominato desiderato.
 
    ![](assets/eight.png)
 
@@ -55,15 +54,15 @@ Sono disponibili tre modi diversi per aggiungere manualmente le persone a un acc
 
 ## Importazione elenco {#list-import}
 
-1. Seleziona l’elenco, fai clic sul menu a discesa **Azioni elenco** e seleziona **Elenco di importazione**.
+1. Seleziona l’elenco e fai clic sul pulsante **Azioni elenco** a discesa e seleziona **Importa elenco**.
 
    ![](assets/nine.png)
 
-1. Dopo aver scelto il file e le impostazioni, fare clic su **Avanti**.
+1. Dopo aver scelto il file e le impostazioni, fai clic su **Successivo**.
 
    ![](assets/ten.png)
 
-1. Mappa i campi desiderati. Assicurati che il campo **Account con nome** sia mappato.
+1. Mappa i campi desiderati. Assicurati che **Account denominato** campo mappato.
 
    ![](assets/eleven.png)
 

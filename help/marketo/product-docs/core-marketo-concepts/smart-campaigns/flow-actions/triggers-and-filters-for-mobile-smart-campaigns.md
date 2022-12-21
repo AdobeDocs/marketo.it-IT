@@ -3,7 +3,6 @@ unique-page-id: 9437991
 description: Triggers e filtri per campagne avanzate mobili - Documenti Marketo - Documentazione del prodotto
 title: Triggers e filtri per campagne mobile avanzate
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Trigger e filtri per campagne avanzate mobili {#triggers-and-filters-for-mobile-smart-campaigns}
+# Triggers e filtri per campagne mobile avanzate {#triggers-and-filters-for-mobile-smart-campaigns}
 
 Puoi impostare attivatori e filtri per una campagna avanzata app mobile.
 
-Per la maggior parte delle attività, sono disponibili un trigger, un filtro e un filtro di inattività. Utilizza i filtri di inattività per tracciare un’azione, ad esempio toccando una notifica push, che *non ha* generato.
+Per la maggior parte delle attività, sono disponibili un trigger, un filtro e un filtro di inattività. Utilizza i filtri di inattività per tenere traccia di un’azione, ad esempio toccando una notifica push, che *non* succede.
 
 * L&#39;App Mobile È/Era Installata
 * App mobile aperta
@@ -27,7 +26,7 @@ Sono disponibili solo filtri per questa attività:
 
 * È stata inviata una notifica push - filtro e filtro di inattività
 
-Cerca **app mobile** nel pannello di destra per elencare tutti i trigger e i filtri dell’app mobile.
+Cerca **app mobile** nel pannello di destra, elencare tutti i trigger e i filtri dell’app mobile.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -39,7 +38,7 @@ Utilizza i vincoli con i trigger e i filtri per ordinare ulteriormente i dati.
 
 Tutti i trigger e i filtri, a eccezione di Era stato inviato una notifica push, contengono i due vincoli standard seguenti:
 
-* Tipo di dispositivo - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, Sconosciuto (questo è un elenco predefinito)
+* Tipo di dispositivo - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, Unknown (Questo è un elenco di predefiniti)
 
 * Piattaforma - iPhone o Android
 
@@ -57,7 +56,7 @@ Alcuni trigger e filtri offrono vincoli aggiuntivi, ad esempio:
 
 * Durata sessione (secondi) - Ora della sessione in cui l’app è in primo piano
 
-* È abilitato per push - **True** significa che è possibile inviare le notifiche push. **** Falsemeans che non possono; ad esempio, la persona potrebbe aver rinunciato alla ricezione di notifiche push
+* È abilitato per push - **True** significa che le notifiche push possono essere inviate. **False** significa che non possono; ad esempio, la persona potrebbe aver rinunciato alla ricezione di notifiche push
 
 ## Triggers e filtri {#triggers-and-filters}
 
@@ -103,7 +102,7 @@ App mobile aperta
 
 Con/Avevano Attività App Mobile
 
-Queste forniscono un modo efficace per monitorare l’attività mobile personalizzata. Sarà necessario collaborare con lo sviluppatore per configurare il tracciamento [per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Queste forniscono un modo efficace per monitorare l’attività mobile personalizzata. Devi collaborare con il tuo sviluppatore per configurare il tracciamento [per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Con attività app mobile - trigger
 
@@ -129,7 +128,7 @@ I vincoli di azione ti consentono di utilizzare il trigger e i filtri per tenere
 >
 >**Esempio**
 >
->Sotto il tipo di azione *Shopping*, ecco un&#39;azione molto specifica, con gli altri vincoli che la definiscono:
+>Sotto il tipo di azione di *Shopping*, ecco un&#39;azione molto specifica, con gli altri vincoli che la definiscono:
 >
 >* Comprata una camicia
    >   * Era rosso
@@ -182,7 +181,7 @@ Notifiche push con tocco/a comparsa
 >
 >Utilizza il filtro di inattività delle notifiche push non toccate per individuare le persone che non hanno toccato una notifica push inviata di recente, in modo da poter seguire tramite e-mail.
 
-**È stata inviata una** notifica pushQuesta attività è disponibile solo come filtro.
+**È stata inviata una notifica push** Questa attività è disponibile solo come filtro.
 
 * È stata inviata la notifica push - filtro
 

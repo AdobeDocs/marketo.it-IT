@@ -3,7 +3,6 @@ unique-page-id: 2359837
 description: Triggers e filtri per attività social - Documenti Marketo - Documentazione del prodotto
 title: Triggers e filtri per le attività Social
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Trigger e filtri per attività social {#triggers-and-filters-for-social-activities}
+# Triggers e filtri per le attività Social {#triggers-and-filters-for-social-activities}
 
 Le app social in Marketo hanno i propri attivatori e filtri speciali.
 
@@ -19,11 +18,11 @@ Le app social in Marketo hanno i propri attivatori e filtri speciali.
 >
 >Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
-1. Per utilizzare i trigger _social_, seleziona la campagna avanzata e fai clic sulla scheda **Elenco avanzato** . A destra, fai clic sul simbolo + per espandere **Triggers**, quindi **Social**.
+1. Per utilizzare social _trigger_, seleziona la campagna avanzata e fai clic sul pulsante **Elenco avanzato** scheda . A destra, fai clic sul segno + per espandere **Triggers**, quindi **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Per utilizzare i filtri _social_, fai clic su **+** per espandere **Filtri**.
+1. Per utilizzare social _filtri_, fai clic su **+** per espandere **Filtri**.
 
    ![](assets/two-282-29.png)
 

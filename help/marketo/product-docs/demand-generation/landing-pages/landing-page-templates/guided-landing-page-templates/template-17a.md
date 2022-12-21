@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 17A {#template-17a}
 
-Fai clic con il pulsante destro del mouse per [scaricare il modello 17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 

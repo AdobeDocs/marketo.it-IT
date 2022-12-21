@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359821
-description: Imposta requisito condivisione tramite social network - Documenti Marketo - Documentazione prodotto
-title: Imposta requisito condivisione mediante social network
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Imposta requisito condivisione social - Documenti Marketo - Documentazione del prodotto
+title: Imposta requisito condivisione social
+exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
+# Imposta requisito condivisione social {#set-social-share-requirement}
 
-# Imposta requisito condivisione tramite social network {#set-social-share-requirement}
+Quando [creare un’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi richiedere agli utenti di condividere l’offerta per registrarsi o renderla facoltativa.
 
-Quando [create un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), potete richiedere agli utenti di condividere l&#39;offerta per registrarsi o renderla facoltativa.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/ma-1.png)
 
-1. Selezionate l&#39;offerta di riferimento e fate clic su **Modifica bozza**.
+1. Seleziona l’offerta di riferimento e fai clic su **Modifica bozza**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Nell&#39;editor delle offerte di riferimento, andate a **Impostazioni app** e quindi a **Passaggi di flusso di registrazione**.
+1. Nell’editor delle offerte di riferimento, vai a **Impostazioni app** e poi **Passaggi del flusso di registrazione**.
 
    ![](assets/three.png)
 
@@ -31,9 +30,9 @@ Quando [create un&#39;offerta di riferimento](/help/marketo/product-docs/demand-
 
    ![](assets/four.png)
 
-   * **Persona Capture** >  **Condividi**: La persona può saltare la condivisione e semplicemente registrarsi.
-   * **Condividi**  > Acquisizione **** persona: La persona deve condividere per poter registrarsi.
+   * **Cattura della persona** > **Condividi**: La persona può saltare la condivisione e semplicemente iscriversi.
+   * **Condividi** > **Cattura della persona**: La persona deve condividere per iscriversi.
 
-1. Per ciascuna opzione, vedere l&#39;anteprima nella finestra **Visualizza e modifica**.
+1. Per ogni opzione, consulta l’anteprima nella **Visualizza e modifica** finestra.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

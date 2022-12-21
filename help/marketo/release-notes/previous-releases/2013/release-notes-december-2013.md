@@ -18,21 +18,21 @@ Dopo il rilascio, assicurati di controllare la scheda Nuova versione nella commu
 
 ## Programma e-mail {#email-program}
 
-L’invio di un’e-mail non è mai stato così semplice. Utilizza il nuovo [programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) per inviare un messaggio e-mail batch, invece del programma predefinito. Definisci l&#39;elenco smart, l&#39;e-mail, pianificalo e sei disattivato!
+L’invio di un’e-mail non è mai stato così semplice. Utilizza il nuovo [programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) per inviare un messaggio e-mail batch, anziché il programma predefinito. Definisci l&#39;elenco smart, l&#39;e-mail, pianificalo e sei disattivato!
 
 ![](assets/image2014-9-22-17-3a19-3a55.png)
 
-Consulta anche il nuovo [Dashboard delle metriche e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) per vedere le prestazioni dell&#39;e-mail.
+Consulta anche il nuovo [Dashboard delle metriche e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md) per visualizzare le prestazioni dell’e-mail.
 
 ![](assets/image2014-9-22-17-3a20-3a14.png)
 
 ## Test A/B e-mail {#email-a-b-testing}
 
-Nel nuovo programma e-mail, esegui un [test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) su una percentuale della popolazione totale di invio e-mail. Scegliere tra 4 diversi tipi di test: Oggetto, Indirizzo mittente, Data/ora e Indirizzo e-mail completo. Puoi anche scegliere di promuovere manualmente il vincitore o lasciare che il sistema lo promuova in base a criteri di vincita predefiniti. Il nuovo programma e-mail, incluso il test A/B, può essere nidificato in Eventi e il programma predefinito per rendere l’invio dell’e-mail così semplice!
+Nel nuovo programma e-mail, esegui un [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) su una percentuale della popolazione totale di invio e-mail. Scegliere tra 4 diversi tipi di test: Oggetto, Indirizzo mittente, Data/ora e Indirizzo e-mail completo. Puoi anche scegliere di promuovere manualmente il vincitore o lasciare che il sistema lo promuova in base a criteri di vincita predefiniti. Il nuovo programma e-mail, incluso il test A/B, può essere nidificato in Eventi e il programma predefinito per rendere l’invio dell’e-mail così semplice!
 
 ## E-mail campione/test di sfida {#email-champion-challenger-testing}
 
-[Il ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) test di Champion/Challenger è simile al test A/B, ma la differenza è che viene utilizzato per le e-mail attivate e non invii automaticamente un vincitore. Questo test ti permette di sfidare un modo consolidato di fare qualcosa, chiamato il Campione, e di testare se è ancora il meglio introducendo un Challenger. Inoltre, i test e-mail Champion/Challenger possono essere utilizzati all&#39;interno dei flussi di programma Engagement.
+[Test di Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) è simile al test A/B, ma la differenza è che viene utilizzato per le e-mail attivate e non invii automaticamente un vincitore. Questo test ti permette di sfidare un modo consolidato di fare qualcosa, chiamato il Campione, e di testare se è ancora il meglio introducendo un Challenger. Inoltre, i test e-mail Champion/Challenger possono essere utilizzati all&#39;interno dei flussi di programma Engagement.
 
 ## Dettagli lead in Analisi e-mail {#lead-details-in-email-analysis}
 

@@ -1,14 +1,15 @@
 ---
 description: Accesso alla nuova istanza di Sales Connect - Marketo Docs - Documentazione del prodotto
 title: Accesso alla nuova istanza di Sales Connect
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Accesso alla nuova istanza di vendita Connect {#accessing-your-new-sales-connect-instance}
+# Accesso alla nuova istanza di Sales Connect {#accessing-your-new-sales-connect-instance}
 
 >[!NOTE]
 >
@@ -20,7 +21,7 @@ Una volta acquistato Sales Connect, nella tua istanza Marketo verrà visualizzat
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Fare clic su **Sales Connect**.
+1. Fai clic su **Sales Connect**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
@@ -32,4 +33,4 @@ L&#39;utente riceverà un&#39;e-mail con i passaggi per accedere all&#39;account
 
 >[!NOTE]
 >
->Altri utenti **non** verranno aggiunti tramite Marketo e verranno aggiunti tramite la pagina Gestione utenti di Sales Connect. [Fai clic ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) qui per ulteriori informazioni sull’aggiunta di ulteriori utenti.
+>Altri utenti **not** verranno aggiunti tramite Marketo e verranno aggiunti tramite la pagina Gestione utenti di Sales Connect. [Fai clic qui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) per ulteriori informazioni sull’aggiunta di utenti aggiuntivi.

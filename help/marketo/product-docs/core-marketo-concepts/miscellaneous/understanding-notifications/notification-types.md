@@ -3,11 +3,10 @@ unique-page-id: 2953243
 description: Tipi di notifica - Documenti Marketo - Documentazione del prodotto
 title: Tipi di notifica
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Esistono diversi tipi di notifica.
 
-## Errore campagna {#campaign-failure}
+## Errore campagna  {#campaign-failure}
 
 Gli errori delle campagne ti avvisano degli errori nelle campagne intelligenti.
 
@@ -47,7 +46,7 @@ Se tenti di inviare lead a Facebook senza accettare i termini del servizio o se 
 
 Pulizia campagna attivatore inattivo
 
-La disattivazione ha attivato campagne avanzate che non ricevono più alcuna attività. Ulteriori informazioni su [pulizia automatica della campagna trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+La disattivazione ha attivato campagne avanzate che non ricevono più alcuna attività. Ulteriori informazioni  [pulizia automatica della campagna di attivazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,4 +60,4 @@ Riceverai una notifica al raggiungimento della quota giornaliera. La quota viene
 
 >[!NOTE]
 >
->Alcuni dei codici di errore che potresti ricevere sono descritti nella nostra [Documentazione per sviluppatori](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>Alcuni dei codici di errore che potresti ricevere sono descritti nella nostra [Documentazione per gli sviluppatori](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).

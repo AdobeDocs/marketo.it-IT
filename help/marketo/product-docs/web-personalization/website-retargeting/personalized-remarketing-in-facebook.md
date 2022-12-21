@@ -1,59 +1,58 @@
 ---
 unique-page-id: 4720917
-description: Notizie personalizzate su Facebook - Marketo Docs - Documentazione prodotto
-title: Osservazioni personalizzate su Facebook
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Remarketing personalizzato in Facebook - Documentazione Marketo - Documentazione del prodotto
+title: Remarketing personalizzato in Facebook
+exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Remarketing personalizzato in Facebook {#personalized-remarketing-in-facebook}
 
-# Osservazioni personalizzate in Facebook {#personalized-remarketing-in-facebook}
-
-La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli utenti utilizzando i dati RTP e la potenza della funzione di marcatura di Facebook.
+Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti utilizzando i dati RTP e la potenza del remarketing Facebook.
 
 >[!PREREQUISITES]
 >
->* Completa la configurazione di [Retargeting with Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Leggi la documentazione di [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook su Custom Audiences](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Notizie.
+>* Completa il [Retargeting with Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) setup
+>* Consulta la sezione [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Documentazione di facebook sui tipi di pubblico personalizzati](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e il remarketing.
 
 
 ## Creazione di un pubblico in Facebook {#creating-an-audience-in-facebook}
 
-1. In Facebook, andate alla [scheda Pubblico](https://www.facebook.com/ads/audience_manager) in Ads Manager.
+1. In Facebook, vai al tuo [Scheda Pubblico](https://www.facebook.com/ads/audience_manager) in Ads Manager.
 
-1. Fare clic su **Strumenti** e selezionare **Audiences**.
+1. Fai clic su **Strumenti** e seleziona **Tipi di pubblico**.
 
    ![](assets/one-1.png)
 
-1. Fate clic su **Crea un pubblico personalizzato**.
+1. Fai clic su **Creare un pubblico personalizzato**.
 
    ![](assets/two-1.png)
 
-1. Selezionare **Traffico sito Web**.
+1. Seleziona **Traffico sito web**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Nell&#39;elenco del traffico del sito Web, selezionare **Combinazione personalizzata**.
+1. Nell’elenco Traffico sito web, seleziona **Combinazione personalizzata**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. Nell&#39;elenco Includi, selezionare **Evento**.
+1. Nell’elenco Includi, seleziona **Evento**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Nell&#39;elenco Evento, selezionare **RTP Note** e selezionare un parametro.
+1. Nell’elenco Evento, seleziona **Remarketing RTP** e seleziona un parametro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. In questo esempio, selezionare Industria per contenere **Istruzione**. Immettere **Istruzione** e modificare **Nell&#39;ultima** fino a 180 giorni. Inserisci nome pubblico: **Settore dell&#39;istruzione**. Fare clic su **Crea pubblico**.
+1. Per questo esempio, selezionare Settore da contenere **Istruzione**. Invio **Istruzione** e modifica **Nell&#39;ultimo** 180 giorni. Immetti il nome del pubblico: **Industria dell&#39;istruzione**. Fai clic su **Crea pubblico**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. Ora hai creato una nuova audience personalizzata utilizzando i dati RTP in Facebook.
+1. Ora hai creato un nuovo pubblico personalizzato utilizzando i dati RTP in Facebook.
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
@@ -66,7 +65,7 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
    <th> </th> 
   </tr> 
   <tr> 
-   <td>Risposte RTP</td> 
+   <td>Remarketing RTP</td> 
    <td> 
     <div> 
      <table> 
@@ -77,23 +76,23 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
        </tr> 
        <tr> 
         <td>Elenco ABM</td> 
-        <td>(Nome dell'elenco basato su account)</td> 
+        <td>(Nome dell'elenco basato su conto)</td> 
        </tr> 
        <tr> 
         <td colspan="1">Categoria</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
+        <td colspan="1"><p>Fortune 500</p><p>Fortuna 1000</p><p>Globale 2000</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">Gruppo</td> 
         <td colspan="1"><p>Enterprise</p><p>SMB</p></td> 
        </tr> 
        <tr> 
-        <td>Industria</td> 
-        <td><p>Difesa</p><p>Istruzione</p><p>Servizi finanziari</p><p>Governo</p><p>Medicale, Pharma, Biotech</p><p>Software e Internet</p><p>ecc... (in base alle opzioni del settore RTP)</p></td> 
+        <td>Settore</td> 
+        <td><p>Difesa</p><p>Istruzione</p><p>Servizi finanziari</p><p>Governo</p><p>Medicale, Farma, Biotecnologia</p><p>Software e Internet</p><p>ecc.. (secondo le opzioni del settore RTP)</p></td> 
        </tr> 
        <tr> 
         <td colspan="1">Pubblico segmentato</td> 
-        <td colspan="1">(Nome dell’audience segmentata creata in RTP)</td> 
+        <td colspan="1">(Nome del pubblico segmentato creato in RTP)</td> 
        </tr> 
       </tbody> 
      </table> 
@@ -102,34 +101,34 @@ La funzione di marcatura personalizzata consente di coinvolgere nuovamente gli u
  </tbody> 
 </table>
 
-## Esegue il targeting del pubblico con un annuncio {#target-your-audience-with-an-ad}
+## Eseguire il targeting del pubblico con un annuncio {#target-your-audience-with-an-ad}
 
-Per ulteriori dettagli, consultare la [documentazione di Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+Per ulteriori dettagli, consulta [Documentazione di facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
 1. Vai a Gestione annunci, fai clic su **Crea annuncio**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Selezionate **Invia utenti al sito Web** come obiettivo della campagna.
+1. Seleziona **Invia persone al tuo sito web** come obiettivo della campagna.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
-1. Inserite l’URL del sito Web.
+1. Inserisci l’URL del sito web.
 
    ![](assets/image2015-1-19-17-3a12-3a39.png)
 
-1. Create il set di annunci. Selezionate un&#39;audience personalizzata dall&#39;elenco di Audience che avete creato, ad esempio, Education Industry (Settore dell&#39;istruzione).
+1. Crea il tuo set di annunci. Seleziona un pubblico personalizzato dall’elenco dei tipi di pubblico creati, ad esempio Education Industry.
 
    ![](assets/image2015-1-19-17-3a18-3a13.png)
 
-1. Seleziona tutte le altre opzioni di set di annunci, imposta il budget e definisce le tue creatività.
+1. Seleziona tutte le altre opzioni di set di annunci, imposta il budget e definisci i creativi degli annunci.
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. Ora tutti siete pronti con una campagna di remarketing personalizzata su Facebook.
+1. Ora siete tutti configurati con una campagna di remarketing personalizzata in Facebook.
 
 >[!MORELIKETHIS]
 >
->* [Ritargeting con dati di personalizzazione Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [Osservazioni personalizzate in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [Retargeting with Web Personalization Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Remarketing personalizzato in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 

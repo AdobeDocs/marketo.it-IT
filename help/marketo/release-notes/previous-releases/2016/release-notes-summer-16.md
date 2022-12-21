@@ -18,9 +18,9 @@ Le seguenti funzionalità sono incluse nella versione del 16 estate. Per informa
 
 Il marketing basato su account Marketo offre tutti gli elementi essenziali in un&#39;unica piattaforma unificata:
 
-* **Target** : individuazione account, corrispondenza lead-to-account ed elenchi di account denominati
-* **Coinvolgi** : personalizzazione basata su account, coinvolgimento tra canali e flussi di lavoro specifici per l’account
-* **Misura** : informazioni a livello di account ed elenco, punteggio di coinvolgimento dell’account e impatto sulla pipeline e sui ricavi
+* **Target** - Individuazione account, abbinamento lead-to-account ed elenchi di account denominati
+* **Coinvolgi** - Personalizzazione basata su account, coinvolgimento cross-channel e flussi di lavoro specifici per l’account
+* **Misura** - Approfondimenti a livello di account ed elenco, punteggio di coinvolgimento dell&#39;account e impatto sulla pipeline e sui ricavi
 
 ![](assets/abm-5-acme.png)
 
@@ -52,14 +52,14 @@ Crea facilmente messaggi SMS direttamente in Marketo. Personalizza ed esegui il 
 
 **Variabili a livello di modulo**
 
-Precedentemente, tutte le variabili specificate nei modelli Email 2.0 erano &quot;globali&quot; nell’ambito. Quando si utilizzano variabili all’interno dei moduli, questo non è sempre opportuno se si prevede di utilizzare più istanze del modulo. Con questa versione, le variabili possono ora essere specificate come &quot;livello modulo&quot;, il che ti consente di indicare che l’utente deve essere in grado di impostare valori univoci per ciascun modulo in cui viene utilizzato.
+Precedentemente, tutte le variabili specificate nei modelli Email 2.0 erano &quot;globali&quot; nell’ambito. Quando si utilizzano variabili all’interno dei moduli, questo non è sempre opportuno se si prevede di utilizzare più istanze del modulo. Con questa versione, le variabili possono ora essere specificate come &quot;livello di modulo&quot;, il che ti consente di indicare che l’utente deve essere in grado di impostare valori univoci per ciascun modulo in cui viene utilizzato.
 
 ![](assets/module-level-variables.png)
 
 **Aggiornamenti della sintassi**
 
 * È ora possibile utilizzare &quot;mktoAddByDefault&quot; sui moduli specificati nei modelli di e-mail 2.0 per indicare quali moduli devono essere visualizzati nelle nuove e-mail per impostazione predefinita. Questo è molto più conveniente se si sta creando un modello e-mail con un gran numero di moduli.
-* Sugli elementi immagine, ora puoi specificare se le proprietà &quot;height&quot; e &quot;width&quot; dell’elemento HTML sottostante devono essere bloccate o modificabili per l’utente finale. `<img>` mktoLockImgSize=&quot;true&quot; blocca l&#39;altezza/larghezza (anche se l&#39;immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; blocca la proprietà &quot;style&quot;.
+* Negli elementi immagine è ora possibile specificare se il sottostante `<img>` Le proprietà &quot;height&quot; e &quot;width&quot; dell’elemento HTML devono essere bloccate o modificabili per l’utente finale. mktoLockImgSize=&quot;true&quot; blocca l&#39;altezza/larghezza (anche se l&#39;immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; blocca la proprietà &quot;style&quot;.
 
 **Ricerca del codice**
 
@@ -69,7 +69,7 @@ Utilizza la nuova funzionalità di ricerca per trovare e sostituire in modo effi
 
 **Supporto token negli elementi immagine**
 
-I token possono ora essere utilizzati nell’area &quot;External URL&quot; dell’esperienza di inserimento immagine. Se hai specificato le immagini con `{{my.tokens}}`, ora puoi fare riferimento a questi token all’interno di E-mail Editor 2.0. Nota che l’immagine continuerà a essere danneggiata nell’area di lavoro di E-mail Editor 2.0. Tuttavia, potrai visualizzarli in Anteprima e invia campione prima di inviare il tuo messaggio e-mail.
+I token possono ora essere utilizzati nell’area &quot;External URL&quot; dell’esperienza di inserimento immagine. Se hai specificato immagini con `{{my.tokens}}`, è ora possibile fare riferimento a questi token all’interno di E-mail Editor 2.0. L’immagine continuerà a essere danneggiata nell’area di lavoro di E-mail Editor 2.0. Tuttavia, potrai visualizzarli in Anteprima e invia campione prima di inviare il tuo messaggio e-mail.
 
 ## Più domini di branding {#multiple-branding-domains}
 

@@ -3,7 +3,6 @@ unique-page-id: 557154
 description: Creare un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Creare un elenco avanzato
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
@@ -23,11 +22,11 @@ Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzan
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. In **Nuovo**, fai clic su **Nuova risorsa locale**.
+1. Sotto **Nuovo**, fai clic su **Nuova risorsa locale**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Seleziona **Smart List**.
+1. Seleziona **Elenco avanzato**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 

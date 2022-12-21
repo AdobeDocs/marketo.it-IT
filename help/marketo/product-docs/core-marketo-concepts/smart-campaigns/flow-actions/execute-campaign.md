@@ -1,7 +1,8 @@
 ---
 description: Esegui campagna - Documentazione Marketo - Documentazione del prodotto
 title: Esegui campagna
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Puoi eseguire molte operazioni con una campagna eseguibile. Sono progettati per 
 
 È inoltre possibile utilizzarli quando è necessario eseguire un flusso separato, ma è necessario dipendere dai risultati di tale flusso nelle scelte successive delle fasi di flusso (ovvero, se necessario, eseguire questa operazione).
 
-Esegui campagna è un miglioramento rispetto a [Richiedi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), in quanto può essere eseguita in serie o in parallelo, mentre quest&#39;ultima viene eseguita solo in parallelo.
+Esegui campagna è un miglioramento [Richiedi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), poiché può essere eseguito in serie o in parallelo, mentre quest&#39;ultima funziona solo in parallelo.
 
 >[!NOTE]
 >
@@ -30,17 +31,17 @@ Esegui campagna è un miglioramento rispetto a [Richiedi campagna](/help/marketo
 
 ## Come creare una campagna eseguibile {#how-to-create-an-executable-campaign}
 
-1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona **Nuova campagna avanzata**.
+1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona **Nuova campagna Smart**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Assegna un nome, seleziona la casella di controllo **Eseguibile** e fai clic su **Crea**.
+1. Assegna un nome, seleziona la **Eseguibile** e fai clic su **Crea**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definisci l’elenco e il flusso avanzati, come qualsiasi altra campagna avanzata.
 
-Puoi anche clonare una campagna avanzata esistente. Se cloni una Campagna Eseguibile esistente, dovrai comunque selezionare la casella di controllo **Eseguibile** dopo averla nominata.
+Puoi anche clonare una campagna avanzata esistente. Se cloni una campagna eseguibile esistente, dovrai comunque selezionare la **Eseguibile** casella di controllo dopo averlo denominato.
 
 >[!NOTE]
 >
@@ -54,28 +55,28 @@ Se è impostato su true, i seguenti contesti di token verranno inviati alla camp
 * Token di campagna
 * Token del programma
 * Token membri
-* [Token di attivazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)  (se chiamati da una campagna attivata)
+* [Token di attivazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (se chiamato da una campagna attivata)
 
 **Interazione API**
 
-Quando utilizzi la campagna di pianificazione o richiesta [nell&#39;API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), puoi entrambi trasmettere i valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che stai chiamando. Se la campagna esegue un’altra campagna e imposta &quot;Use Parent Context to True&quot;, utilizzerà i valori passati tramite l’API anziché i valori impostati nell’applicazione.
+Quando si utilizza la campagna di pianificazione o richiesta [nell’API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), entrambi consentono di trasmettere i valori per i token personali, che sostituiscono i valori impostati per tali token nella campagna chiamata. Se la campagna esegue un’altra campagna e imposta &quot;Use Parent Context to True&quot;, utilizzerà i valori passati tramite l’API anziché i valori impostati nell’applicazione.
 
 ## Aspetti da considerare {#things-to-note}
 
 * L&#39;Elenco avanzato escluderà chiunque non si qualifichi. Se una persona si qualifica, il record di attività della campagna eseguita risultante li elencherà come &quot;Qualificato: TRUE&quot; (e FALSE in caso contrario)
 * Si applicano le regole di qualificazione della campagna (Impostazioni di Smart Campaign nella scheda Pianificazione )
 * Le campagne eseguibili non possono essere richiamate in più aree di lavoro
-* Se utilizzi l&#39;azione di flusso [Rimuovi da flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) per il targeting di una campagna eseguibile, eseguirai il targeting sia per il figlio che per il padre
+* Se utilizzi [Rimuovi da flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) azione di flusso indirizzata a una campagna eseguibile, eseguirà il targeting sia dell’elemento figlio che dell’elemento padre
 * Sfruttando l’ereditarietà dei token - Ad esempio, se disponi di un singolo flusso di punteggio comune attivato da più risorse diverse, puoi definire un punteggio My Token predefinito nella campagna figlio e nella campagna padre in modo da poter sovrascrivere il valore della campagna Punteggio figlio per le campagne principali (vedi sotto per un esempio visivo)
 * Le campagne eseguibili possono essere richiamate fino a tre livelli di profondità (ad esempio, Campagna padre > Figlio > Figlio > Figlio)
 
 >[!CAUTION]
 >
->Non lasciare mai non validi gli elenchi smart per Campagne eseguibili, altrimenti **nessuno** potrà qualificarli. Si consiglia di creare risorse separate per gli elenchi avanzati, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di Smart List&quot; nella Campagna eseguibile in modo da poter cambiare la definizione della tua smart list.
+>Non lasciare mai non validi gli elenchi smart per Campagne eseguibili, altrimenti **nessuno** si qualificheranno. Si consiglia di creare risorse separate per gli elenchi avanzati, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di Smart List&quot; nella Campagna eseguibile in modo da poter cambiare la definizione della tua smart list.
 
 ## Esempio di ereditarietà dei token {#token-inheritance-example}
 
-Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: uno con contesto token impostato su **True**, l&#39;altro su **False**.
+Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: uno con contesto token impostato su **True**, dall&#39;altro **False**.
 
 Campagna per bambini con punteggio di cambiamento token.
 
@@ -101,7 +102,7 @@ I risultati: punteggio modificato di +10.
 
 **Esempio 2: False**
 
-Nel filtro Esegui campagna della seconda campagna padre, &quot;Usa contesto token campagna padre&quot; è impostato su **False**.
+Nel filtro Esegui campagna della seconda campagna padre, l’opzione &quot;Usa contesto token campagna padre&quot; è impostata su **False**.
 
 ![](assets/execute-campaign-8.png)
 

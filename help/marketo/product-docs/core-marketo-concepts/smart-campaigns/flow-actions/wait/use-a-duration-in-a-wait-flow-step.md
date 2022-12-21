@@ -3,7 +3,6 @@ unique-page-id: 1146978
 description: Utilizzare una durata in un passaggio del flusso di attesa - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare una durata in un passaggio del flusso di attesa
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso di una persona attraverso una campagna intelligente per un certo periodo di tempo. Puoi inoltre specificare i criteri per il giorno della settimana e l’ora in cui termina.
 
-1. Nella scheda **Flusso** della campagna intelligente, trascina il passaggio del passaggio di flusso **Attendi**.
+1. Nella tua campagna intelligente **Flusso** , trascina **Wait** passaggio di flusso.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -31,7 +30,7 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Facoltativamente, specifica l’ora. Fare clic su **Salva**.
+1. Facoltativamente, specifica l’ora. Fai clic su **Salva**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -41,7 +40,7 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
    >
    >Una persona attiva una campagna intelligente venerdì alle 17:00. Il passaggio di attesa è avanzato: 48 ore e deve terminare il lunedì-venerdì alle 9.
    >
-   >Il risultato sarebbe che la persona avrebbe continuato nel flusso il **Lunedì, 9am**. Questa è la prima data M-F dopo 48 ore.
+   >Il risultato sarebbe che la persona avrebbe continuato nel flusso su **Lunedì, 9**. Questa è la prima data M-F dopo 48 ore.
 
    >[!NOTE]
    >

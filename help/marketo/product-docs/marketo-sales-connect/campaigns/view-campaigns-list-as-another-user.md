@@ -1,17 +1,16 @@
 ---
 unique-page-id: 18317367
-description: Visualizza elenco campagne come un altro utente - Documenti Marketo - Documentazione prodotto
-title: Visualizza elenco campagne come altro utente
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Visualizza elenco campagne come un altro utente - Marketo Docs - Documentazione del prodotto
+title: Visualizza elenco campagne come un altro utente
+exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
-# Visualizza elenco campagne come altro utente {#view-campaigns-list-as-another-user}
+# Visualizza elenco campagne come un altro utente {#view-campaigns-list-as-another-user}
 
 In qualità di amministratore, puoi visualizzare le campagne come qualsiasi utente.
 
@@ -19,11 +18,11 @@ In qualità di amministratore, puoi visualizzare le campagne come qualsiasi uten
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Nell&#39;applicazione Web, fare clic su **Campagne**.
+1. Nell&#39;applicazione Web, fai clic su **Campagne**.
 
    ![](assets/one-5.png)
 
-1. Fare clic sul menu a discesa **Visualizza come** e selezionare l&#39;utente desiderato.
+1. Fai clic sul pulsante **Visualizza come** e seleziona l’utente desiderato.
 
    ![](assets/two-4.png)
 
@@ -33,4 +32,4 @@ In qualità di amministratore, puoi visualizzare le campagne come qualsiasi uten
 
    >[!NOTE]
    >
-   >È inoltre possibile utilizzare i filtri o la funzione di ricerca insieme a Visualizza come per visualizzare il contenuto più rilevante.
+   >Puoi anche utilizzare i filtri o la funzione di ricerca insieme a Visualizza come per visualizzare ciò che ti interessa di più.

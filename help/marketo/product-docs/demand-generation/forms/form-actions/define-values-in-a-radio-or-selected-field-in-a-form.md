@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359614
-description: Definire i valori in una radio o in un campo selezionato in un modulo - Documenti Marketo - Documentazione prodotto
-title: Definire i valori in una radio o in un campo selezionato in un modulo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Definire i valori in una casella di controllo o in un campo selezionato in un modulo - Marketo Docs - Documentazione del prodotto
+title: Definire i valori in una casella di scelta o in un campo selezionato in un modulo
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-
 # Definire i valori in una casella di scelta o in un campo selezionato in un modulo {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Dopo aver [impostato un tipo di campo ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o selezionato il tipo, è necessario definire i valori da cui l&#39;utente può scegliere. Ecco come.
+Una volta [impostare un tipo di campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) per essere un pulsante di scelta o selezionare il tipo, è necessario definire i valori da cui l’utente può scegliere. Ecco come.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Selezionare il modulo e fare clic su **Modifica modulo**.
+1. Seleziona il modulo e fai clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. Selezionare il campo e fare clic su **Modifica**.
+1. Seleziona il campo e fai clic su **Modifica**.
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
    >[!NOTE]
    >
-   >Il primo e il valore predefinito è sempre &quot;Select...&quot; Non esitate a modificarlo. Se si modifica il pulsante di scelta predefinito in un&#39;altra riga, &quot;Seleziona...&quot; non verrà visualizzata come scelta nel modulo.
+   >Il primo e il valore predefinito è sempre &quot;Seleziona...&quot;. Non esitate a modificarlo. Se si modifica il pulsante di scelta predefinito in un&#39;altra riga, selezionare &quot;Seleziona...&quot; non viene visualizzato come scelta nel modulo.
 
-1. Fate clic per aggiungere il valore.
+1. Fai clic su per aggiungere il tuo valore.
 
    ![](assets/image2014-9-15-16-3a29-3a18.png)
 
@@ -39,28 +38,28 @@ Dopo aver [impostato un tipo di campo ](/help/marketo/product-docs/administratio
    >
    >**Definizione**
    >
-   >**Valore visualizzato:** ciò che viene mostrato al visitatore.
+   >**Valore visualizzato:** Cosa viene mostrato al visitatore.
    >
-   >**Valore memorizzato:** ciò che viene registrato in Marketo.
+   >**Valore memorizzato:** Ciò che viene registrato in Marketo.
 
-1. Aggiungete tutti i valori necessari, quindi fate clic su **Salva**.
+1. Aggiungi tutti i valori necessari, quindi fai clic su **Salva**.
 
    >[!NOTE]
    >
-   >Se non immetti un valore memorizzato, Marketing utilizzerà il valore di visualizzazione e lo memorizzerà.
+   >Se non immetti un valore memorizzato, Marketo utilizzerà il valore visualizzato e lo memorizzerà.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Fare clic su **Editor avanzato** per copiare/incollare un elenco di valori, se lo si desidera. Può essere un risparmio in tempo reale.
+   >Fai clic su **Editor avanzato** per copiare/incollare un elenco di valori, se lo si desidera. Può essere un risparmio in tempo reale.
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Fare clic su **Approva e Chiudi**.
+1. Fai clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Ottimo lavoro! State davvero bene.
+Lavoro eccellente! Stai davvero bene.

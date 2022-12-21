@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352444
-description: Barra degli strumenti di vendita Connect - Documenti Marketo - Documentazione del prodotto
+description: Barra degli strumenti di vendita Connect - Marketo Docs - Documentazione del prodotto
 title: Barra degli strumenti di vendita Connect
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
+# Barra degli strumenti di vendita Connect {#the-sales-connect-tool-bar}
 
-# Barra degli strumenti di Connect per le vendite {#the-sales-connect-tool-bar}
-
-Cinque pulsanti di collegamento alle vendite verranno aggiunti nella parte superiore della pagina Gmail al momento dell&#39;accesso.
+All&#39;accesso verranno aggiunti cinque pulsanti di connessione alle vendite nella parte superiore della pagina Gmail.
 
 | Pulsante | Descrizione |
 |---|---|
-| **Pulsante Live Feed** | Consente di aprire il servizio di vendita [Live Feed](https://toutapp.com/next#live) di Adobe Connect, in cui è possibile ottenere informazioni sul tracciamento in tempo reale nelle e-mail. |
-| **Pulsante Attività** | Visualizza un elenco a discesa di tutte le attività. |
-| **Pulsanti Modelli e Conversazioni** | Apre rispettivamente la pagina Modelli e le pagine Conversazioni dell&#39;applicazione Web [dell&#39;applicazione Web](https://toutapp.com/login). Tutto all&#39;interno della pagina Gmail. |
-| **Pulsante Gong vendite** | Consente di celebrare le vostre offerte chiuse/vinte con i vostri compagni di squadra. |
+| **Pulsante Live Feed** | Apre il tuo Sales Connect [Feed live](https://toutapp.com/next#live) dove puoi ottenere informazioni di tracciamento in tempo reale sulle e-mail. |
+| **Pulsante Attività** | Mostra un elenco a discesa di tutte le attività. |
+| **Pulsanti Modelli e conversazioni** | Apre la [applicazione web](https://toutapp.com/login)rispettivamente la pagina Modelli e la pagina Conversazioni . Tutto all&#39;interno della tua pagina Gmail. |
+| **Pulsante Gong vendite** | Consente di festeggiare i tuoi affari chiusi/vinti con i tuoi compagni di squadra. |

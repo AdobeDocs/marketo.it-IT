@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2360237
-description: Comunica la storia di marketing con un’analisi dell’influenza opportunità - Documenti Marketo - Documentazione del prodotto
+description: Comunicare la storia di marketing con Opportunity Influence Analyzer - Marketo Docs - Documentazione del prodotto
 title: Comunicare la storia di marketing con Opportunity Influence Analyzer
-translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
 
 ---
 
-
-# Comunica la storia di marketing con un Analizzatore di influenza opportunità {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Comunicare la storia di marketing con Opportunity Influence Analyzer {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Utilizza un’analisi dell’influenza opportunità per illustrare il ruolo del marketing in opportunità importanti. Mostra come il marketing ha influenzato un&#39;opportunità, dal primo contatto alla creazione di opportunità, alla vittoria e oltre.
 
@@ -19,27 +18,27 @@ Utilizza un’analisi dell’influenza opportunità per illustrare il ruolo del 
 >
 >[Creare un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Vai a **Analytics** e seleziona **Analisi di influenza opportunità**.
+1. Vai a **Analytics** e seleziona la **Analisi dell’influenza delle opportunità**.
 
    ![](assets/analytics-opportunityhand.png)
 
    L&#39;Analisi di influenza opportunità è una rappresentazione visiva delle interazioni e dei successi dei programmi e degli eventi coinvolti in tale opportunità. Esploriamo il grafico:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **I** punti arancioni rappresentano momenti interessanti nell’opportunità (e-mail aperte, visite a stand di commercio, download di whitepaper, ecc.). I punti più grandi indicano più interazioni.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Punti arancioni** rappresentano momenti interessanti nell&#39;opportunità (e-mail aperte, visite di stand di commercio, download di whitepaper, ecc.). I punti più grandi indicano più interazioni.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Icona** legante indica i successi del programma.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Icone del binario** indicare i successi del programma.
 
-   * ![- ](assets/image2014-10-3-13-3a44-3a40.png) **Icona** Calendario per indicare i successi dell&#39;evento.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Icone del calendario** indicano i successi dell’evento.
 
    * **Periodo di opportunità**. L&#39;area verde rappresenta l&#39;opportunità stessa, dalla creazione di opportunità alla chiusura di opportunità (vinta o persa).
 
-   * **Ciclo** di vita opportunità. Le aree grigie prima e dopo il periodo di opportunità verde mostrano le interazioni che hanno portato e seguito l’opportunità.
+   * **Ciclo di vita opportunità**. Le aree grigie prima e dopo il periodo di opportunità verde mostrano le interazioni che hanno portato e seguito l’opportunità.
 
-   Il pannello **Impostazioni** elenca le persone dell&#39;account:
+   La **Impostazioni** nel pannello vengono elencate le persone dell’account :
 
-   * Il numero **tra parentesi** indica il numero di interazioni con tale contatto.
+   * La **numero tra parentesi** è il numero di interazioni con tale contatto.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Il contatto principale è indicato  **dal** giallo.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)La **stella gialla** indica il contatto principale.
 
 
 1. Passa il puntatore del mouse sopra un nome per vedere il titolo del lavoro della persona e la fonte del suo coinvolgimento con l&#39;opportunità.

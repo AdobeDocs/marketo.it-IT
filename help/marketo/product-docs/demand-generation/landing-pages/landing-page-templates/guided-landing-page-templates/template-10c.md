@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 10C {#template-10c}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 

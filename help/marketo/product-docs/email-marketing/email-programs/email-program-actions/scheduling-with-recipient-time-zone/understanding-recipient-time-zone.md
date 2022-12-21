@@ -16,31 +16,31 @@ I programmi e-mail e di coinvolgimento possono essere configurati in modo da ess
 
 >[!NOTE]
 >
->Il fuso orario destinatario attualmente funziona **solo** con il contenuto dell&#39;e-mail. Non funzionerà per i programmi di coinvolgimento predefiniti.
+>Il fuso orario del destinatario funziona attualmente **only** con contenuto e-mail. Non funzionerà per i programmi di coinvolgimento predefiniti.
 
 ## Programmi e-mail {#email-programs}
 
-Esistono due scenari principali in cui [è in corso la pianificazione di un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
+Esistono due scenari principali quando [programmazione di un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
 
 1. Programmazione del programma da eseguire entro le prossime 25 ore.
 1. Programmazione del programma in modo che venga eseguito più di 25 ore in futuro (ad esempio, la settimana successiva).
 
-Per adattarsi a ogni fuso orario, i programmi e-mail pianificati con il fuso orario Destinatario iniziano a essere in esecuzione a mezzanotte nel fuso orario **primo/primo** del mondo (UTC +14:00).
+Per adattarsi a ogni fuso orario, i programmi e-mail pianificati con il fuso orario Destinatario iniziano a essere in esecuzione a mezzanotte nel **primo/primo** fuso orario nel mondo (UTC +14:00).
 
 ## Programmi di coinvolgimento {#engagement-programs}
 
-Quando [pianifichi un flusso di programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e il fuso orario destinatario è attivo, il cast del programma inizierà a partire dalla mezzanotte in UTC +14:00. Ti chiediamo di pianificare il primo cast almeno 25 ore nel futuro (24 ore + un po &#39;di tempo per avviare la campagna) perché le persone possono qualificarsi per il cast in ogni fuso orario in tutto il mondo. A partire da questa elaborazione in UTC +14:00 garantisce che l’e-mail verrà inviata alla data e all’ora pianificate per ogni persona idonea a questo cast.
+Quando [programmare un flusso di programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e il fuso orario destinatario è attivo, il cast del programma inizierà a partire dalla mezzanotte in UTC +14:00. Ti chiediamo di pianificare il primo cast almeno 25 ore nel futuro (24 ore + un po &#39;di tempo per avviare la campagna) perché le persone possono qualificarsi per il cast in ogni fuso orario in tutto il mondo. A partire da questa elaborazione in UTC +14:00 garantisce che l’e-mail verrà inviata alla data e all’ora pianificate per ogni persona idonea a questo cast.
 
 ## Calcolo del fuso orario {#calculating-time-zone}
 
 Marketo calcola il fuso orario in base alla città, allo stato, al paese o al codice postale di una persona. Se non siamo in grado di calcolare il fuso orario di qualcuno in base a questi valori, torniamo ai campi Città di riferimento, Stato di provenienza, Paese di provenienza e Codice postale di provenienza.
 
-Nei casi in cui abbiamo **solo** Paese o **solo** Stato disponibile:
+Nei casi in cui **only** Paese o **only** Stato disponibile:
 
 * Per i paesi con tre o meno fusi orari, selezioniamo il fuso orario intermedio.
 * Per gli stati con due fusi orari, selezioniamo il primo dei due.
 
-Se non è ancora possibile determinare il fuso orario di un utente in base a una combinazione di questi campi, **non** assegneremo un fuso orario e l’e-mail verrà inviata in base al fuso orario dell’abbonamento a Marketo. Quindi, se il tuo programma è pianificato per le 9:00 PDT, le persone senza fuso orario assegnato verranno inviate l’e-mail alle 9:00 PDT.
+Se non siamo ancora in grado di determinare il fuso orario di qualcuno da una qualsiasi combinazione di questi campi, **not** assegna un fuso orario e l’e-mail viene inviata in base al tuo fuso orario di abbonamento Marketo. Quindi, se il tuo programma è pianificato per le 9:00 PDT, le persone senza fuso orario assegnato verranno inviate l’e-mail alle 9:00 PDT.
 
 >[!NOTE]
 >

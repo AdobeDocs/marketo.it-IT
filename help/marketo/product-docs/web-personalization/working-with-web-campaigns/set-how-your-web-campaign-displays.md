@@ -1,77 +1,76 @@
 ---
 unique-page-id: 12978906
-description: Imposta Come Viene Visualizzata La Campagna Web - Documenti Marketo - Documentazione Del Prodotto
+description: Imposta Come Viene Visualizzata La Tua Campagna Web - Documenti Marketo - Documentazione Del Prodotto
 title: Imposta Come Viene Visualizzata La Campagna Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
+# Imposta Come Viene Visualizzata La Campagna Web {#set-how-your-web-campaign-displays}
 
-# Imposta la modalità di visualizzazione della campagna Web {#set-how-your-web-campaign-displays}
-
-Esistono diversi metodi da utilizzare quando si tratta di quando/come viene visualizzata la campagna Web.
+Esistono diversi metodi da utilizzare quando si tratta di quando/come viene visualizzata la campagna web.
 
 ## Caricamento pagina {#page-load}
 
-Selezionata per impostazione predefinita, questa opzione mostra semplicemente la campagna al caricamento della pagina.
+Selezionata per impostazione predefinita, questa opzione visualizza semplicemente la campagna al caricamento della pagina.
 
 ![](assets/pl1.png)
 
 ## Ritardo {#delay}
 
-Specificate un ritardo (in secondi totali) per consentire alle campagne Web di reagire sul sito Web.
+Specifica un ritardo (in secondi totali) per consentire alle campagne web di reagire sul tuo sito web.
 
-1. Fare clic sul menu a discesa **Visualizza su** e selezionare **Ritardo**.
+1. Fai clic sul pulsante **Visualizza su** a discesa e seleziona **Ritardo**.
 
    ![](assets/d1.png)
 
-1. Fare clic sul menu a discesa **Aspetta** e selezionare il tempo desiderato.
+1. Fai clic sul pulsante **Wait** e seleziona il tempo desiderato.
 
    ![](assets/d2.png)
 
-## Scorrimento {#scroll}
+## Scorri {#scroll}
 
-1. Fare clic sul menu a discesa **Visualizza su** e selezionare **Scorri**.
+1. Fai clic sul pulsante **Visualizza su** a discesa e seleziona **Scorri**.
 
    ![](assets/s1.png)
 
-1. Fate clic sul menu a discesa **Quando** e selezionate quando visualizzare la campagna Web.
+1. Fai clic sul pulsante **Quando** e seleziona quando visualizzare la campagna Web.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Sotto la piega</strong></td> 
+   <td><strong>Sotto piega</strong></td> 
    <td>Visualizza la campagna quando il visitatore scorre sotto la piega. La campagna scompare quando il visitatore scorre indietro sopra la piega.</td> 
   </tr> 
   <tr> 
    <td><strong>Percentuale</strong></td> 
-   <td>Visualizza la campagna quando il visitatore scorre fino alla percentuale prestabilita della pagina.</td> 
+   <td>Visualizza la campagna quando il visitatore scorre fino a una percentuale predeterminata della pagina.</td> 
   </tr> 
   <tr> 
    <td><strong>Pixel</strong></td> 
-   <td><p>Visualizza la campagna quando il visitatore scorre fino al pixel superiore predefinito della pagina.</p></td> 
+   <td><p>Visualizza la campagna quando il visitatore scorre fino al pixel superiore predesignato sulla pagina.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Intento di uscita {#exit-intent}
 
-L&#39;intento di uscita visualizzerà la campagna Web all&#39;uscita del mouse dal browser.
+L’intento di uscita visualizzerà la campagna web quando il cursore del mouse esce dal browser.
 
-1. Fare clic sul menu a discesa **Visualizza su** e selezionare **Intento di uscita**.
+1. Fai clic sul pulsante **Visualizza su** a discesa e seleziona **Intento di uscita**.
 
    ![](assets/ei1.png)
 
-1. Viene visualizzato un messaggio per ricordare che l&#39;intento di uscita non è compatibile con il dispositivo mobile.
+1. Viene visualizzato un messaggio che ricorda che l&#39;intento di uscita non è compatibile con il dispositivo mobile.
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->Vuoi vedere come saranno anticipati i tuoi effetti? Controllali tramite un [Anteprima campagna Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Vuoi vedere come i tuoi effetti scelti saranno in anticipo? Puoi controllarli tramite un’ [Anteprima campagna web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

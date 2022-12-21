@@ -1,32 +1,31 @@
 ---
 unique-page-id: 12982903
-description: Pianificazione di programmi e-mail con fuso orario destinatario - Documenti Marketo - Documentazione prodotto
-title: Pianificazione dei programmi e-mail con il fuso orario del destinatario
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Pianificazione dei programmi e-mail con fuso orario destinatario - Documenti Marketo - Documentazione del prodotto
+title: Pianificare programmi e-mail con il fuso orario del destinatario
+exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
 
+# Pianificare programmi e-mail con il fuso orario del destinatario {#schedule-email-programs-with-recipient-time-zone}
 
-# Pianificare i programmi e-mail con il fuso orario del destinatario {#schedule-email-programs-with-recipient-time-zone}
+Esistono due possibili scenari quando si pianifica un programma e-mail quando il fuso orario Destinatario è abilitato:
 
-Esistono due possibili scenari quando si pianifica un programma e-mail mentre il fuso orario del destinatario è abilitato:
-
-1. Programmazione del programma per eseguire **entro** le prossime 25 ore
-1. Programmare il programma per eseguire **più** di 25 ore in futuro (ad es., la settimana successiva)
+1. Pianificazione del programma da eseguire **entro** le prossime 25 ore
+1. Pianificazione del programma da eseguire **more** più di 25 ore future (cioè la settimana prossima)
 
 ## Scenario 1: Entro 25 ore {#scenario-within-hours}
 
-Supponiamo che tu approvi un programma e-mail con l&#39;opzione Fuso orario destinatario abilitata e un orario di consegna pianificato entro le prossime 25 ore. È possibile che nell&#39;elenco smart siano presenti persone che vivono in fusi orari in cui l&#39;ora pianificata è già passata.
+Supponiamo che tu approvi un programma e-mail con il fuso orario destinatario abilitato e un orario di consegna pianificato entro le prossime 25 ore. Potresti avere persone nella tua lista intelligente che vivono in fusi orari in cui l&#39;orario pianificato è già passato.
 
-In questo scenario, vi consentiamo di decidere cosa fare con questo sottoinsieme di persone qualificate. Fare clic sull&#39;icona a forma di ingranaggio accanto a **Destinent Time Zone** nella sezione **Schedule** del programma e-mail.
+In questo scenario, ti permettiamo di decidere cosa fare con questo sottoinsieme di persone qualificate. Fai clic sull’icona a forma di ingranaggio accanto a **Fuso orario destinatario** in **Pianificazione** sezione del programma e-mail.
 
 ![](assets/image2017-12-5-10-3a46-3a42.png)
 
-Sono disponibili due opzioni:
+Questo offre due opzioni:
 
 ![](assets/image2017-12-5-10-3a31-3a28.png)
 
@@ -34,17 +33,16 @@ Sono disponibili due opzioni:
 >
 >**Definizione**
 >
->* **Consegna del giorno seguente nel fuso** orario del destinatario: se l&#39;e-mail è prevista per martedì alle 9:00, le persone qualificate che vivono nei fusi orari in cui l&#39;orario previsto è già passato riceveranno l&#39;e-mail il  ** mercoledì alle 9:00.
-   >
-   >
-* **Eseguire utilizzando l&#39;ora** predefinita del programma: se l&#39;e-mail è pianificata per uscire martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail  _in base alle impostazioni_ del fuso orario dell&#39;iscrizione. Pertanto, se le [impostazioni relative al fuso orario dell&#39;abbonamento](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sono impostate su PDT America/Los Angeles, questi destinatari riceveranno comunque l&#39;e-mail il martedì alle 9:00 PDT (a prescindere dall&#39;ora in cui si trovano i fusi orari).
+>* **Consegna del giorno successivo nel fuso orario del destinatario**: se l’e-mail verrà inviata martedì alle 09:00, le persone qualificate che vivono in fusi orari in cui l’orario pianificato è già passato riceveranno l’e-mail in *Mercoledì* alle 9.
+>
+>* **Consegna utilizzando l&#39;orario predefinito del programma**: se l’e-mail verrà inviata martedì alle 09:00, le persone qualificate che vivono in fusi orari in cui l’orario pianificato è già passato riceveranno l’e-mail _in base alle impostazioni del fuso orario dell’abbonamento_. Quindi, se il tuo [impostazioni del fuso orario della sottoscrizione](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sono impostati su PDT America/Los Angeles, questi destinatari riceveranno ancora l&#39;e-mail martedì alle 9:00 PDT (a prescindere dall&#39;ora che può essere nel proprio fuso orario).
 
 
 >[!NOTE]
 >
->[Scopri ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) di più sul modo in cui Marketo calcola i fusi orari per i destinatari.
+>[Ulteriori informazioni](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) informazioni su come Marketo calcola i fusi orari dei destinatari.
 
-Consideriamo questo scenario più dettagliatamente. Supponiamo che tu sia a San Francisco, che pianifichi un&#39;e-mail alle 7:00 per un **9:00 am** invio. Nell&#39;elenco smart, sono presenti persone provenienti dalle seguenti aree:
+Consideriamo questo scenario più dettagliatamente. Se sei a San Francisco, pianifica un&#39;e-mail alle 7:00 per un **9:00** invia. Nell’elenco smart sono presenti persone provenienti dalle seguenti aree:
 
 * San Francisco
 * Texas
@@ -53,47 +51,47 @@ Consideriamo questo scenario più dettagliatamente. Supponiamo che tu sia a San 
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-Le 9:00 sono già passate a New York e in Italia, così le persone qualificate in questi due fusi orari riceveranno l&#39;e-mail in base alle **Impostazioni Fuso orario**:
+Le 9:00 sono già passate a New York e in Italia, così persone qualificate in questi due fusi orari riceveranno l&#39;e-mail basata sul **Impostazioni del fuso orario**:
 
-* **Consegna del giorno successivo nel fuso orario del destinatario:** Mercoledì alle 9:00 nei rispettivi fusi orari,  **OPPURE**
+* **Fornisci il giorno seguente nel fuso orario del destinatario:** Mercoledì alle 9.00 nei rispettivi fusi orari, **O**
 
-* **Eseguire utilizzando l&#39;ora** predefinita del programma: Martedì alle 9:00 PDT (New York - 12:00 EDT e Italia - 18:00 CET).
+* **Consegna utilizzando l&#39;orario predefinito del programma**: Martedì alle 9:00 PDT (New York - 12:00 EDT e Italia - 18:00 CET).
 
-Una volta approvato, il programma inizia a funzionare entro 15 minuti.
+Una volta approvato il programma, questo inizia a funzionare entro 15 minuti.
 
 ![](assets/screen-shot-2017-12-09-at-3.34.14-pm.png)
 
 >[!NOTE]
 >
->Anche se il programma avvierà il _processo_ di invio di e-mail in 15 minuti, in quel momento le e-mail non verranno consegnate __. I destinatari continueranno a ricevere e-mail in base alle **Impostazioni fuso orario** scelte.
+>Anche se il programma avvierà il _processo_ di inviare e-mail in 15 minuti, le e-mail non saranno _consegnato_ all&#39;epoca. I destinatari riceveranno ancora e-mail basate su **Impostazioni del fuso orario** scegli tu.
 
 ## Scenario 2: Oltre 25 ore {#scenario-more-than-hours}
 
-In questo secondo scenario, si approva un programma e-mail con **Fuso orario destinatario** abilitato e un orario di consegna pianificato superiore a 25 ore in futuro. In questo caso, il programma inizierà a funzionare all&#39;ora pianificata nel **primo** fuso orario del mondo (UTC + 14:00). Ci possono essere persone idonee per il tuo elenco smart in ogni fuso orario del mondo, quindi a partire dal primo fuso orario ci permette di inviare l&#39;e-mail alla data/ora pianificata a tutti i destinatari nei rispettivi fusi orari.
+In questo secondo scenario, approvi un programma e-mail con **Fuso orario destinatario** abilitato e un tempo di consegna pianificato superiore a 25 ore in futuro. In questo caso, il programma inizierà a funzionare all&#39;ora pianificata nella **primo** fuso orario nel mondo (UTC + 14.00). Ci possono essere persone idonee per il tuo smart list in ogni fuso orario del mondo, quindi a partire dal primo fuso orario possiamo inviare l’e-mail alla data/ora pianificata a tutti i destinatari nei rispettivi fusi orari.
 
-**Inizio punta**
+**Inizio testina**
 
-Ora, parliamo di come [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) funziona con **Recipient Time Zone**. La funzione Head Start richiede che il programma sia pianificato almeno con 12 ore di anticipo. Cosa significa questo per Recipiente Fuso orario? Ricorda che quando l&#39;opzione Fuso orario destinatario è abilitata, il programma e-mail viene avviato all&#39;ora pianificata nel fuso orario più recente (UTC +14:00). Pertanto, per abilitare **sia** Head Start che Recipient Time Zone, i programmi e-mail devono essere programmati **almeno 12 ore prima dell&#39;ora pianificata in UTC +14:00.**
+Ora, parliamo di come [Inizio testina](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) funziona con **Fuso orario destinatario**. La funzionalità Head Start esistente richiede che il programma sia programmato almeno con 12 ore di anticipo. Cosa significa questo per il fuso orario dei destinatari? Ricorda che quando il fuso orario del destinatario è abilitato, il programma e-mail viene eseguito all’ora pianificata nel primo fuso orario (UTC +14:00). Quindi, per **entrambi** Inizio intestazione e Fuso orario destinatario, i programmi e-mail devono essere pianificati **almeno 12 ore prima dell’orario previsto in UTC +14:00.**
 
-Ciò significa che se siete in America/Los Angeles e desiderate attivare sia Head Start che Recipient Time Zone, è necessario pianificare il programma **34 ore** in anticipo. Come siamo arrivati a questo numero?
+Ciò significa che se sei in America/Los Angeles e vuoi abilitare sia Head Start che Recipient Time Zone, devi pianificare il programma **34 ore** in anticipo. Come siamo arrivati a questo numero?
 
 ![](assets/image2017-12-5-13-3a11-3a38.png)
 
 <br> 
 
-In breve, i programmi e-mail pianificati con il fuso orario del destinatario devono iniziare a essere in esecuzione all&#39;ora pianificata nel primo fuso orario (ovvero, dove arriva prima la mezzanotte) per poter ospitare ogni fuso orario. Quindi, se pianifichi un programma email...
+In breve, i programmi e-mail pianificati con il fuso orario del destinatario devono iniziare a essere in esecuzione all’ora pianificata nel primo fuso orario (cioè, dove raggiunge prima la mezzanotte) per adattarsi a ogni fuso orario. Quindi, se pianifichi un programma e-mail...
 
-* **con un tempo di consegna  _entro_ 25 ore**, il programma inizia a funzionare entro 15 minuti. I destinatari che hanno già superato l&#39;orario previsto riceveranno l&#39;e-mail in base alle impostazioni del fuso orario prescelte.
-* **con un tempo di consegna  _superiore_ a 25 ore in futuro**, il programma inizia a funzionare all&#39;ora pianificata nel fuso orario più vicino (UTC +14:00).
-* **con Head Start**, il programma inizia l&#39;elaborazione 12 ore prima dell&#39;orario previsto nel fuso orario più vicino (UTC +14:00).
+* **con tempi di consegna _entro_ 25 ore**, il programma inizia a funzionare entro 15 minuti. I destinatari che hanno già superato l’orario pianificato riceveranno l’e-mail in base alle impostazioni del fuso orario scelte.
+* **con tempi di consegna _più di_ 25 ore future**, il programma inizia a funzionare all’ora pianificata nel primo fuso orario (UTC +14:00).
+* **con inizio testa**, il programma inizia l’elaborazione 12 ore prima dell’ora pianificata nel primo fuso orario (UTC +14:00).
 
 >[!CAUTION]
 >
->Chiunque annulla l’iscrizione tra il momento in cui viene avviata l’invio e-mail e il momento in cui viene effettivamente recapitato riceverà comunque l’e-mail. È consigliabile regolare la notifica di annullamento dell’iscrizione in modo da riflettere il fatto che l’elaborazione degli abbonamenti potrebbe richiedere 1-2 giorni lavorativi.
+>Chiunque annulli l’abbonamento tra il momento in cui si avvia l’invio dell’e-mail e il momento in cui viene effettivamente consegnato riceverà comunque l’e-mail. È consigliabile regolare la notifica di annullamento dell’abbonamento in modo che rifletta che l’elaborazione degli abbonamenti potrebbe richiedere 1-2 giorni lavorativi.
 
 >[!MORELIKETHIS]
 >
 >* [Informazioni sul fuso orario del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Head Start for Email Programs](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [Interrompi consegna programmi e-mail pianificati con il fuso orario del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
+>* [Avvio intestazione per programmi e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Interrompi la consegna di programmi e-mail pianificati con il fuso orario del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 

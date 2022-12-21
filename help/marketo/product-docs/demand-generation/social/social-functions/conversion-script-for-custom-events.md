@@ -1,63 +1,62 @@
 ---
 unique-page-id: 2950561
-description: Script di conversione per eventi personalizzati - Documenti Marketo - Documentazione prodotto
+description: Script di conversione per eventi personalizzati - Documenti Marketo - Documentazione del prodotto
 title: Script di conversione per eventi personalizzati
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-
 # Script di conversione per eventi personalizzati {#conversion-script-for-custom-events}
 
-Definite l&#39;obiettivo di evasione quando create un&#39;offerta di riferimento. Se l&#39;azione che conta verso l&#39;obiettivo è un evento specifico sulla tua pagina Web, puoi utilizzare uno script di conversione per chiamare la nostra API JavaScript.
+Puoi definire l’obiettivo di evasione quando crei un’offerta di riferimento. Se l&#39;azione che conta verso l&#39;obiettivo è un evento specifico sulla tua pagina web, puoi utilizzare uno script di conversione per chiamare la nostra API JavaScript.
 
-## Recuperare lo script di conversione {#retrieve-the-conversion-script}
+## Recupera lo script di conversione {#retrieve-the-conversion-script}
 
-1. Nell&#39;editor delle offerte di riferimento, fate clic su **Dettagli offerta**, quindi selezionate **Evento JavaScript cliente** dal menu a discesa dell&#39;obiettivo di evasione.
+1. Nell’editor delle offerte di riferimento, fai clic su **Dettagli offerta** quindi seleziona **Evento JavaScript del cliente** dal menu a discesa dell’obiettivo di realizzazione.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copiate lo script superiore nella casella grigia e inseritelo nella pagina Web all&#39;interno dei tag `<body>`. Lo script inferiore viene posizionato all&#39;interno dei tag `<header>`.
+1. Copia lo script superiore nella casella grigia e inseriscilo nella pagina web all’interno del `<body>` tag. Lo script inferiore viene posizionato all&#39;interno del `<header>` tag.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
    >
-   >Ricordate di copiare e incollare entrambi gli script se si trovano su un sito Web non Marketo.
+   >Ricordare di copiare e incollare entrambi gli script se si trovano in un sito Web non Marketo.
 
-## Recuperare lo script di caricamento {#retrieve-the-loader-script}
+## Recupera lo script del caricatore {#retrieve-the-loader-script}
 
-1. Selezionate l&#39;offerta di riferimento dalla struttura, quindi fate clic su **Azioni offerta di riferimento** e **Incorpora codice**.
+1. Seleziona l’offerta di riferimento dalla struttura, quindi fai clic su **Azioni di offerta di riferimento** e **Codice di incorporamento**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Fare clic con il pulsante destro del mouse sul **Codice intestazione** e inserirlo nell&#39;intestazione della pagina Web. Quindi eseguire le stesse operazioni per il **Codice del corpo**.
+1. Fai clic con il pulsante destro del mouse sul pulsante **Codice intestazione** e inseriscilo nell&#39;intestazione della pagina web. Quindi fai lo stesso per il **Codice del corpo**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
-## Incollare gli script sulla pagina Web {#pasting-the-scripts-onto-your-webpage}
+## Incollare gli script nella pagina web {#pasting-the-scripts-onto-your-webpage}
 
-Incollate gli script di conversione in HTML per il corpo e l&#39;intestazione. Posizionare quindi gli script di caricamento nell&#39;HTML per il corpo e l&#39;intestazione.
+Incolla gli script di conversione in HTML per il corpo e l’intestazione. Quindi, inserire gli script del caricatore in HTML per il corpo e l’intestazione.
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
 ## Collegamento dello script di conversione {#connecting-the-conversion-script}
 
-Qui è possibile scrivere una funzione JavaScript che utilizza l&#39;ID HTML specifico di qualsiasi elemento di pagina su cui si desidera attivare il completamento dell&#39;obiettivo. Ad esempio:
+Qui è possibile scrivere una funzione JavaScript che utilizza l&#39;ID HTML specifico di qualsiasi elemento di pagina su cui desideri attivare il completamento dell&#39;obiettivo. Ad esempio:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
-In questo esempio sulla pagina Web è presente un pulsante con ID &quot;#myButtonId&quot;. Quando si fa clic su quel pulsante, la persona verrà registrata come se avesse completato l&#39;obiettivo.
+In questo esempio, sulla pagina web è presente un pulsante con ID &quot;#myButtonId&quot;. Quando fai clic su quel pulsante, la persona verrà registrata come se avesse completato l’obiettivo.
 
-Fantastico! Il sito Web ora sta acquisendo obiettivi di promozione sociale personalizzati con Marketo.
+Fantastico! Il tuo sito web sta ora acquisendo obiettivi di promozione social personalizzati con Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Specificare l&#39;obiettivo per l&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Creare un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Implementare Social nel sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+>* [Specifica obiettivo per offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Creare un’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Distribuisci Social sul tuo sito web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 

@@ -2,7 +2,6 @@
 description: Modificare i dati dei membri del programma - Documentazione Marketo - Documentazione del prodotto
 title: Modifica dati dei membri del programma
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
@@ -18,7 +17,7 @@ ht-degree: 0%
 >
 >Puoi anche impedire l’aggiornamento di un campo. Per ulteriori informazioni, consulta la sezione su come aggiornare un campo .
 
-1. Nella scheda Flusso di Smart Campaign, passa il passaggio del flusso **Cambia dati membro del programma** e scegli il programma desiderato.
+1. Nella scheda Flusso di Smart Campaign, passa il **Modifica dati dei membri del programma** Flusso e scegli il programma desiderato.
 
    ![](assets/change-program-member-data-1.png)
 

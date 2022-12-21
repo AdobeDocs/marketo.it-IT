@@ -3,11 +3,10 @@ unique-page-id: 37356426
 description: Cambia proprietario in Microsoft - Documentazione Marketo - Documentazione del prodotto
 title: Cambia proprietario in Microsoft
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +16,7 @@ Se si dispone di persone esistenti già assegnate a un proprietario, è possibil
 
 >[!NOTE]
 >
->Questo passaggio di flusso funziona **solo se utilizzato con triggers**, non con filtri, nella campagna avanzata.
+>Questo passaggio del flusso **funziona solo con i trigger**, non filtri, nella campagna intelligente.
 
 ![](assets/one-1.png)
 

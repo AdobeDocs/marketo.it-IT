@@ -1,72 +1,68 @@
 ---
 unique-page-id: 2359462
-description: Approvare/annullare l'approvazione di un programma e-mail - Documenti Marketo - Documentazione del prodotto
-title: Approvare/annullare l'approvazione di un programma e-mail
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: Approvare/annullare l’approvazione di un programma e-mail - Documenti Marketo - Documentazione del prodotto
+title: Approvare/annullare l’approvazione di un programma e-mail
+exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
-# Approvare/annullare l&#39;approvazione di un programma e-mail {#approve-unapprove-an-email-program}
+# Approvare/annullare l’approvazione di un programma e-mail {#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definire un pubblico con un ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) elenco avanzato  [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
-   >
-   >
-* [Scegliere un ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-mail esistente o  [creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-   >
-   >
-* [Pianificazione del programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Definire un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>
+>* [Scegli un’e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Creare un messaggio e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>
+>* [Programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
-## Approva il programma e-mail {#approve-your-email-program}
+## Approva il tuo programma e-mail {#approve-your-email-program}
 
-Ora che il programma è pronto, il passo finale è quello di approvarlo. Di seguito è riportata la procedura seguente:
+Ora che il programma è pronto, il passo finale è quello di approvarlo. Ecco come:
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-   Selezionate il programma e-mail.
+   Seleziona il tuo programma e-mail.
    ![](assets/selectemailprogram-2.jpg)
 
    >[!CAUTION]
    >
-   >Se non approvi il tuo programma di posta elettronica, l&#39;e-mail non uscirà.
+   >Se non approvi il tuo programma e-mail, l’e-mail non verrà inviata.
 
-1. Nella sezione **Approvazione** fare clic su **Approva programma**.
+1. Sotto la **Approvazione** riquadro andare avanti e fare clic su **Approva programma**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
-1. Se troviamo dei problemi, ti faremo sapere - correggili e prova a approvarli di nuovo.
+1. Se trovi problemi, ti faremo sapere - correggili e prova di nuovo ad approvare.
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   Perfetto! Hai finito. L&#39;e-mail verrà inviata all&#39;ora pianificata.
+   Perfetto! Ha finito. L’e-mail verrà inviata all’ora pianificata.
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## Disapprovare il programma e-mail {#unapprove-your-email-program}
+## Annullare l’approvazione del programma e-mail {#unapprove-your-email-program}
 
-Se cambi idea e decidi di non volerne uscire, puoi disapprovare il programma e-mail.
+Se cambi idea e decidi di non volerlo uscire, puoi disapprovare il programma e-mail.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionate il programma e-mail.
+1. Seleziona il tuo programma e-mail.
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Nella sezione **Approvazione**, fare clic su **Disapprova programma**.
+1. Sotto la **Approvazione** riquadro, semplicemente clicca **Annulla approvazione programma**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
-Fatto! La tua email non uscirà finché non la approverai di nuovo.
+Fatto! L&#39;e-mail non verrà inviata fino a quando non la approverai nuovamente.

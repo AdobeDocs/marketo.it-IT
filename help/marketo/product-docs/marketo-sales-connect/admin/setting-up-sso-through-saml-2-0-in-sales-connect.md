@@ -1,36 +1,35 @@
 ---
 unique-page-id: 14352405
 description: Impostazione di SSO tramite SAML 2.0 in Sales Connect - Marketo Docs - Documentazione del prodotto
-title: Configurazione di SSO tramite SAML 2.0 in Sales Connect
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+title: Impostazione di SSO tramite SAML 2.0 in Sales Connect
+exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-
 # Impostazione di SSO tramite SAML 2.0 in Sales Connect {#setting-up-sso-through-saml-in-sales-connect}
 
-Supportiamo SSO tramite la specifica SAML 2.0. Al momento, tuttavia, non disponiamo di integrazioni dirette con alcun fornitore. Per ottenere questa configurazione, è necessario raccogliere informazioni dal provider SSO.
+Supportiamo SSO tramite la specifica SAML 2.0. Tuttavia, al momento non disponiamo di integrazioni dirette con alcun provider. Per ottenere questa configurazione, dovremo raccogliere alcune informazioni dal provider SSO.
 
 >[!NOTE]
 >
->Questo è applicabile solo ai clienti **Marketing Connect**. Se non disponete di un servizio di vendita ma desiderate ulteriori informazioni, contattate il vostro Customer Success Manager.
+>Questo è applicabile solo a **Marketo Sales Connect** clienti. Se non disponi di Sales Connect ma desideri saperne di più, contatta il tuo Customer Success Manager.
 
 ## Requisiti {#requirements}
 
 * Account SSO
-* Iscrizione di Marketo Sales Connect
-* Metadata.xml dall’account SSO (URL edizione, endpoint per la convalida e chiave pubblica)
+* abbonamento a Marketo Sales connect
+* Metadata.xml dall&#39;account SSO (URL del problema, l&#39;endpoint per la convalida e una chiave pubblica)
 
 ## Configurazione {#setup}
 
-Il file metadata.xml dell&#39;istanza SSO del team deve contenere l&#39;URL emittente, l&#39;endpoint per la convalida e una chiave pubblica.
+Il file metadata.xml dell&#39;istanza SSO del team deve contenere l&#39;URL dell&#39;emittente, l&#39;endpoint per la convalida e una chiave pubblica.
 
-Inoltre, per fare in modo che l&#39;account SSO della tua azienda sia un dominio univoco, è necessario disporre della posizione SSO. Ad esempio, è necessario un sottodominio univoco come `toutapp.pingidentity.com` o simile. Senza questo tipo di identificatore univoco, non sarà possibile impostare SAML dal dashboard.
+Avremo anche bisogno della posizione SSO perché l&#39;account SSO della tua azienda sia un dominio unico. Ad esempio, abbiamo bisogno di un sottodominio univoco come `toutapp.pingidentity.com` o simili. Senza questo tipo di identificatore univoco, non sarà possibile impostare SAML dal dashboard.
 
-Un login e un Okta non sempre forniscono identificatori univoci quando si assegna un URL. Se utilizzi Okta o One Login, significa che non saremo in grado di impostare un login dal pulsante del dashboard. Sarà comunque possibile configurarlo dal pulsante Single Sign On sull&#39; [applicazione Web](https://toutapp.com/login).
+Un accesso e Okta non sempre forniscono identificatori univoci quando si assegna un URL. Se utilizzi Okta o One Login significa che non saremo in grado di impostare un login dal pulsante del dashboard. Sarà comunque possibile configurarlo dal pulsante Single Sign On nella [applicazione web](https://toutapp.com/login).
 
-Una volta ottenute tali informazioni, collaboreremo con il nostro team di progettazione per configurare l&#39;iscrizione.
+Una volta che avremo queste informazioni, lavoreremo con il nostro team di ingegneri per impostare questo per il tuo abbonamento.

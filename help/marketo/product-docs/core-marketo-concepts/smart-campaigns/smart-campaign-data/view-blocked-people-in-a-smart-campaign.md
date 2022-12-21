@@ -3,7 +3,6 @@ unique-page-id: 1147062
 description: Visualizzare le persone bloccate in una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Visualizzare le persone bloccate in una campagna avanzata
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
@@ -19,13 +18,13 @@ Le persone bloccate nel database Marketo sono contrassegnate inserire nell&#39;e
 >
 >Marketo sta cambiando termini come Blacklist e Whitelist in Inserii nell&#39;elenco Bloccati e Inserire nell&#39;elenco Consentiti nel nostro prodotto. Durante questo aggiornamento, potresti vedere i vecchi termini nella nostra interfaccia utente e le schermate della documentazione, e i nuovi termini nel nostro testo della documentazione. Ci scusiamo per ogni confusione.
 
-1. Nella tua campagna intelligente, fai clic su **Pianifica**. In **Stato elenco avanzato** fai clic sul secondo collegamento.
+1. Nella campagna intelligente, fai clic su **Pianificazione**. Sotto **Stato elenco avanzato** fai clic sul secondo collegamento.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Anche le persone che hanno raggiunto i loro limiti di comunicazione possono essere ostacolate dalla ricezione di mail. Scopri come [modificare i limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) nella sezione Amministratore.
+   >Anche le persone che hanno raggiunto i loro limiti di comunicazione possono essere ostacolate dalla ricezione di mail. Scopri come [modifica dei limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) nella sezione Amministratore.
 
    La scheda Persone bloccate mostra le persone che potrebbero non ricevere messaggi.
 

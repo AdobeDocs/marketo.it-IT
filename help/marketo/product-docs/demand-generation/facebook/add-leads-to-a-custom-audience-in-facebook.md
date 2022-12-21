@@ -1,51 +1,48 @@
 ---
 unique-page-id: 11376700
-description: Aggiunta di lead a un pubblico personalizzato in Facebook - Documenti Marketo - Documentazione prodotto
-title: Aggiunta di lead a un pubblico personalizzato in Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Aggiungere lead a un pubblico personalizzato in Facebook - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere lead a un pubblico personalizzato in Facebook
+exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
+# Aggiungere lead a un pubblico personalizzato in Facebook {#add-leads-to-a-custom-audience-in-facebook}
 
-# Aggiunta di lead a un pubblico personalizzato in Facebook {#add-leads-to-a-custom-audience-in-facebook}
-
-Disponete già di un&#39;audience personalizzata in Facebook e desiderate aggiungere altri lead? Ecco come.
+Hai già un pubblico personalizzato in Facebook e desideri aggiungerne altri? Ecco come.
 
 >[!PREREQUISITES]
 >
 >* [Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Accettate i ](https://www.facebook.com/ads/manage/customaudiences/tos.php) termini di pubblico personalizzati di Facebook all&#39;interno dell&#39;account Facebook.
-
+>* [Accettare termini di pubblico personalizzati per Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account Facebook.
 >
 
 
-
-1. Individuate e selezionate l’elenco smart o statico che contiene i lead da aggiungere.
+1. Trova e seleziona l’elenco smart o statico contenente i lead che desideri aggiungere.
 
    ![](assets/one.png)
 
-1. Selezionate la scheda **Lead**, quindi fate clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
+1. Seleziona la **Lead** , quindi fai clic sul **Invia tramite Ad Bridge** in basso.
 
    ![](assets/two-1.png)
 
-1. Selezionare **Facebook** e fare clic su **Next**.
+1. Seleziona **Facebook** e fai clic su **Successivo**.
 
    ![](assets/three.png)
 
-1. Fare clic sul menu a discesa **Audience**, selezionare il pubblico a cui si desidera aggiungere i lead, quindi fare clic su **Aggiorna**.
+1. Fai clic sul pulsante **Pubblico** a discesa, seleziona il pubblico a cui desideri aggiungere i lead e fai clic su **Aggiorna**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Aggiungi i lead all&#39;audience**: saranno disponibili solo audience Facebook con un sottotipo personalizzato.\
-   >**Rimuovere i lead dall&#39;audience**: rimuove i lead nell&#39;elenco statico o avanzato da un&#39;audience di Facebook.
+   >**Aggiungere lead al pubblico**: saranno disponibili solo i tipi di pubblico Facebook con un sottotipo personalizzato.\
+   >**Rimuovere i lead dal pubblico**: rimuove i lead dall’elenco statico o avanzato da un pubblico Facebook.
 
-1. Al termine, lo stato verrà aggiornato.
+1. Al termine, lo stato viene aggiornato.
 
    ![](assets/five-1.png)
 

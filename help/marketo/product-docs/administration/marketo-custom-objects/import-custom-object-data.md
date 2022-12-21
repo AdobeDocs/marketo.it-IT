@@ -3,7 +3,6 @@ unique-page-id: 10099680
 description: Importare dati di oggetti personalizzati - Documenti Marketo - Documentazione del prodotto
 title: Importa dati oggetto personalizzati
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # Importa dati oggetto personalizzati {#import-custom-object-data}
 
-È facile importare dati di oggetti personalizzati nel database. Se utilizzi oggetti personalizzati con le aziende, consulta [Uso di oggetti personalizzati con le società](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) per ulteriori informazioni.
+È facile importare dati di oggetti personalizzati nel database. Se utilizzi oggetti personalizzati con aziende, consulta [Utilizzo di oggetti personalizzati con le aziende](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) per ulteriori informazioni.
 
 1. In My Marketo, vai a **Database**.
 
    ![](assets/db-1.png)
 
-1. Fare clic su **Nuovo** e selezionare **Importa dati oggetto personalizzati**.
+1. Fai clic su **Nuovo** e seleziona **Importa dati oggetto personalizzati**.
 
    ![](assets/image2016-4-7-10-6-54.png)
 
@@ -31,13 +30,13 @@ ht-degree: 0%
 
    ![](assets/image2016-4-13-14-3a24-3a54.png)
 
-1. Seleziona la Modalità di deduplicazione dal menu a discesa. Fare clic su **Avanti**.
+1. Seleziona la Modalità di deduplicazione dal menu a discesa. Fai clic su **Successivo**.
 
    ![](assets/image2016-4-13-14-3a28-3a7.png)
 
    >[!NOTE]
    >
-   >Utilizzare i campi Deduplice come identificatori univoci quando si creano o aggiornano record di oggetti personalizzati. In questo esempio viene utilizzato il campo Deduplice dell&#39;oggetto personalizzato **car** - vin (numero ID veicolo). Se si aggiornano solo i record di oggetti personalizzati, è possibile selezionare Marketo Guid come modalità dedicata.
+   >Utilizzare i campi Deduplice come identificatori univoci quando si creano o aggiornano record di oggetti personalizzati. In questo esempio viene utilizzato il campo Deduplice del **auto** oggetto personalizzato - vin (numero ID veicolo). Se si aggiornano solo i record di oggetti personalizzati, è possibile selezionare Marketo Guid come modalità dedicata.
 
 1. Mappa ciascuna colonna su un campo Marketo, selezionandola dall’elenco a discesa.
 
@@ -47,11 +46,11 @@ ht-degree: 0%
    >
    >Assicurati che i valori nel file corrispondano al tipo di campo a cui stai confrontando (ad es. testo, numero intero, ecc.), altrimenti il file verrà rifiutato.
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/image2016-4-13-14-3a38-3a41.png)
 
-1. Fare clic su **Importa**.
+1. Fai clic su **Importa**.
 
    ![](assets/image2016-4-7-13-3a15-3a9.png)
 
@@ -61,7 +60,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Inserisci il tuo indirizzo e-mail nel campo **Invia avviso a:** e Marketo ti invierà un messaggio e-mail al termine dell’importazione!
+   >Inserisci il tuo indirizzo e-mail nel **Invia avviso a:** campo e Marketo ti invierà un&#39;e-mail al termine dell&#39;importazione!
 
 1. Nell’angolo in alto a destra della schermata, viene visualizzata una notifica mentre l’importazione è in esecuzione e i risultati finali al termine dell’importazione.
 

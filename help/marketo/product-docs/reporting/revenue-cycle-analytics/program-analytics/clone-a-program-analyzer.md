@@ -1,44 +1,43 @@
 ---
 unique-page-id: 11383877
-description: Clona un analizzatore di programma - Documenti Marketo - Documentazione di prodotto
-title: Clona un analizzatore di programma
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Clonare un analizzatore di programmi - Documentazione di Marketo - Documentazione del prodotto
+title: Clonare un programma Analyzer
+exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
+# Clonare un programma Analyzer {#clone-a-program-analyzer}
 
-# Clonare un analizzatore di programma {#clone-a-program-analyzer}
+Dopo aver salvato un analizzatore, è facile clonarlo per crearne uno nuovo. Quindi, entra e modifica il nuovo se ha bisogno di modifiche.
 
-Dopo aver salvato un analizzatore, è facile duplicarlo per crearne uno nuovo. Quindi, se necessario, entrate e modificate la nuova.
-
-1. Fare clic sulla sezione **Analytics**.
+1. Fai clic sul pulsante **Analytics** piastrelle.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Fare clic sulla sezione **Programma Analyzer**.
+1. Fai clic sul pulsante **Analisi del programma** piastrelle.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Quando l&#39;analizzatore salvato è aperto, aprire il menu a discesa Azioni analizzatore e selezionare **Analizzatore cloni**.
+1. Quando l’analizzatore salvato è aperto, apri il menu a discesa Azioni di Analyzer e seleziona **Analisi clone**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Selezionare il percorso per l&#39;analizzatore duplicato dai menu a discesa **Clone To** e **Folder**.
+1. Seleziona la posizione dell’analizzatore clonato dal **Clona in** e **Cartella** a discesa.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Assegnate un nome all&#39;analizzatore clonato e fate clic su **Clone**.
+1. Denomina l&#39;analizzatore clonato e fai clic su **Clona**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
-1. Ora, avete due analizzatori identici con nomi diversi. Aprite il clone per apportare le modifiche necessarie.
+1. Ora, avete due analizzatori identici con nomi diversi. Apri il clone per apportare le modifiche necessarie.
 
    ![](assets/image2016-10-31-16-3a17-3a11.png)
 
    >[!MORELIKETHIS]
    >
-   >[Creare un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Creare un’analisi dei programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

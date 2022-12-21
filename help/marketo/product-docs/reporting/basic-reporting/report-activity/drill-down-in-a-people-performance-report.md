@@ -1,44 +1,43 @@
 ---
 unique-page-id: 2360035
-description: Approfondisci in un report sulle prestazioni delle persone - Marketo Docs - Documentazione del prodotto
-title: Approfondimenti in un report sulle prestazioni delle persone
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Approfondire i dettagli in un rapporto sulle prestazioni delle persone - Marketo Docs - Documentazione del prodotto
+title: Eseguire un drill-down in un rapporto sulle prestazioni delle persone
+exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
+# Eseguire un drill-down in un rapporto sulle prestazioni delle persone {#drill-down-in-a-people-performance-report}
 
-# Approfondisci in un report sulle prestazioni delle persone {#drill-down-in-a-people-performance-report}
+Eseguire un drill-down in un report sulle prestazioni delle persone per visualizzare informazioni aggiuntive sulle persone.
 
-Espandete in un report sulle prestazioni delle persone per visualizzare informazioni aggiuntive sulle persone.
-
-1. Fare clic sulla scheda **Report** per visualizzare qualsiasi rapporto esistente.
+1. Fai clic sul pulsante **Rapporto** per visualizzare eventuali rapporti esistenti.
 
    ![](assets/one.png)
 
-1. Selezionare una riga del rapporto su cui si desidera ottenere ulteriori informazioni.
+1. Seleziona nel rapporto una riga per ulteriori informazioni.
 
    ![](assets/two.png)
 
-1. Fare clic su **Drill-Down**.
+1. Fai clic su **Drill-down**.
 
    ![](assets/three.png)
 
-1. Nel menu a comparsa **Drill-Down**, selezionate l&#39;attributo a cui desiderate eseguire il drill-down. Fare clic su **Drill-Down**.
+1. In **Drill-down** a comparsa, seleziona l’attributo a cui desideri eseguire il drill-down. Quindi fai clic su **Drill-down**.
 
    ![](assets/four.png)
 
-1. Ottimo lavoro! Il rapporto di drill-down si aprirà in una nuova scheda. Ora è possibile esaminare il nuovo rapporto.
+1. Ottimo lavoro! Il rapporto di drill-down si aprirà in una nuova scheda. Ora puoi esplorare il nuovo rapporto.
 
    >[!TIP]
    >
-   >Se non viene visualizzata una nuova scheda del rapporto, il browser potrebbe bloccare le finestre a comparsa. Modificate le impostazioni del browser per consentirne l&#39;utilizzo.
+   >Se non viene visualizzata una nuova scheda del rapporto, il browser potrebbe bloccare i pop-up. Modifica le impostazioni del browser per consentirlo.
 
    ![](assets/five.png)
 
-1. Per salvare i risultati (facoltativo), fate clic sull&#39;icona **Export** in basso a sinistra.
+1. Per salvare i risultati (facoltativo), fai clic sul pulsante **Esporta** in basso a sinistra.
 
    ![](assets/six.png)

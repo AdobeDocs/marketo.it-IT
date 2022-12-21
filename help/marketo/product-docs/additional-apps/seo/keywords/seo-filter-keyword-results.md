@@ -3,7 +3,6 @@ unique-page-id: 2949208
 description: SEO - Filtrare i risultati delle parole chiave - Documenti Marketo - Documentazione del prodotto
 title: SEO - Filtrare i risultati delle parole chiave
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# SEO - Risultati parola chiave filtro {#seo-filter-keyword-results}
+# SEO - Filtrare i risultati delle parole chiave {#seo-filter-keyword-results}
 
-Potresti avere molte [parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Di seguito sono riportati diversi modi per filtrarli:
+Potresti avere un sacco di [parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Di seguito sono riportati diversi modi per filtrarli:
 
 ## Filtra per elenco {#filter-by-list}
 
-1. Vai alla sezione **Parole chiave** .
+1. Vai a **Parole chiave** sezione .
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -37,7 +36,7 @@ Dolce! Ora si vedranno solo le parole chiave in quell&#39;elenco.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   I quadrati arancioni definiscono i limiti superiore (sinistro) e inferiore (destro). Il filtro funziona sul rango [SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) della parola chiave.
+   I quadrati arancioni definiscono i limiti superiore (sinistro) e inferiore (destro). Il filtro funziona sulla parola chiave [Classificazione SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Far scorrere i quadrati arancioni a sinistra/a destra per filtrare i risultati.
 
@@ -47,7 +46,7 @@ Dolce! Ora si vedranno solo le parole chiave in quell&#39;elenco.
 
 Puoi anche trovare le parole chiave che stai cercando utilizzando il campo di ricerca nell’angolo in alto a destra.
 
-1. Vai alla sezione **Parole chiave** .
+1. Vai a **Parole chiave** sezione .
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 

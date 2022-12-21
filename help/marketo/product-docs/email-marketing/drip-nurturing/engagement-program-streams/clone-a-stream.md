@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359789
-description: Clona un flusso - Documenti Marketo - Documentazione del prodotto
-title: Duplica un flusso
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Clona un flusso - Documentazione di Marketo - Documentazione del prodotto
+title: Clona un flusso
+exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
+# Clona un flusso {#clone-a-stream}
 
-# Duplica un flusso {#clone-a-stream}
+Clona un flusso per vari motivi, tra cui test di ordini diversi e cadenze diverse.
 
-Duplica un flusso per vari motivi, incluso il test di ordini diversi e cadenze diverse.
-
-1. Selezionate il programma di coinvolgimento e andate alla scheda **Streams**.
+1. Seleziona il tuo programma di coinvolgimento e vai al **Flussi** scheda .
 
    ![](assets/cloneasteam.jpg)
 
-1. Fare clic sull&#39;icona dell&#39;ingranaggio del flusso, quindi fare clic su **Clone**.
+1. Fai clic sull’icona dell’ingranaggio del flusso, quindi fai clic su **Clona**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 
@@ -33,4 +32,4 @@ Duplica un flusso per vari motivi, incluso il test di ordini diversi e cadenze d
 
    >[!CAUTION]
    >
-   >Tutto nel flusso è clonato tranne la Cadenza. Ricorda di impostarlo.
+   >Tutto nel flusso viene clonato tranne la Cadenza. Ricordatevi di impostarlo.

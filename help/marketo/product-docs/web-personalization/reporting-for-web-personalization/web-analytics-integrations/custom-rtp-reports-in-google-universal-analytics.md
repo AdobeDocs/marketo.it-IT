@@ -1,60 +1,59 @@
 ---
 unique-page-id: 7504218
-description: Report RTP personalizzati in Google Universal Analytics - Documenti Marketo - Documentazione prodotto
-title: Report RTP personalizzati in Google Universal Analytics
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Rapporti RTP personalizzati in Google Universal Analytics - Documenti Marketo - Documentazione del prodotto
+title: Rapporti RTP personalizzati in Google Universal Analytics
+exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Report RTP personalizzati in Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
+# Rapporti RTP personalizzati in Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >
 >[Integrare RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Questo articolo spiega come impostare i rapporti personalizzati RTP per Google Universal Analytics (GUA).  I dati inviati da RTP a GUA possono essere impostati come due rapporti personalizzati separati, denominati:
+Questo articolo spiega come impostare rapporti personalizzati RTP per Google Universal Analytics (GUA).  I dati inviati da RTP a GUA possono essere impostati come due rapporti personalizzati separati denominati:
 
 * RTP B2B
 * Coinvolgimento RTP
 
-## Impostazione di un report personalizzato {#setting-up-a-custom-report}
+## Impostazione di un rapporto personalizzato {#setting-up-a-custom-report}
 
-1. Accedete alle Google Analytics.
+1. Accedi a Google Analytics.
 
-1. Fare clic su **Personalizzazione** nel menu principale.
+1. Fai clic su **Personalizzazione** nel menu principale.
 
-1. Fare clic su **+Nuovo report personalizzato**.
+1. Fai clic su **+Nuovo rapporto personalizzato**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
-## Report RTP B2B {#rtp-b-b-report}
+## Rapporto B2B RTP {#rtp-b-b-report}
 
-1. Denominate il report **RTP B2B Report**.
+1. Denomina il report **Rapporto B2B RTP**.
 
-1. Denominate la prima scheda **Industria**.
+1. Denomina la prima scheda **Industria**.
 
 >[!NOTE]
 >
->**Duplica questa scheda** e ne crei altre simili - passaggio 5)
+>Sarà **Duplica questa scheda** e crearne altri simili - passaggio 5)
 
-1. Selezionare il tipo di rapporto **Explorer**.
+1. Seleziona la **Esplora risorse** tipo di report.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Nella sezione **Gruppi di metriche**, seleziona le metriche rilevanti per la tua attività.
+1. In **Gruppi di metriche** seleziona le metriche rilevanti per la tua attività.
 
-   a. Consigliamo quanto segue:
+   a) Si consiglia quanto segue:
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Duplica questa scheda 4 volte e denominale:
 
-   1. **Industria**
+   1. **Settore**
    1. **Gruppo**
    1. **Categoria**
    1. **ABM**
@@ -62,7 +61,7 @@ Questo articolo spiega come impostare i rapporti personalizzati RTP per Google U
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Nella sezione **Dimension Drill downs** impostare le dimensioni rilevanti per ciascuna scheda come indicato di seguito.
+1. In **Analisi a discesa dei Dimension** imposta le dimensioni rilevanti per ciascuna scheda come segue.
 
 <table> 
  <thead> 
@@ -73,13 +72,13 @@ Questo articolo spiega come impostare i rapporti personalizzati RTP per Google U
     </div></th> 
    <th> 
     <div>
-      Dimension Drill down
+      Analisi a discesa dei Dimension
     </div></th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Industria</td> 
+   <td>Settore</td> 
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -101,41 +100,41 @@ Questo articolo spiega come impostare i rapporti personalizzati RTP per Google U
  </tbody> 
 </table>
 
-1. Non impostare filtri e impostare il rapporto in modo che sia disponibile per **Tutti i dati del sito Web** (o modificare se pertinente per un account Analytics specifico).
+1. Non impostare filtri e imposta il rapporto come disponibile per **Tutti i dati del sito Web** (o cambia se pertinente per un account Analytics specifico).
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## Rapporto di coinvolgimento RTP {#rtp-engagement-report}
 
-1. Denominate il report **Rapporto di coinvolgimento RTP**.
+1. Denomina il report **Rapporto di coinvolgimento RTP**.
 
-1. Impostate il nome della prima scheda su **All Engagement**.
+1. Imposta il nome della prima scheda su **Interazione completa**.
 
 >[!NOTE]
 >
->Duplica questa scheda e ne crea altre simili - passaggio 5)
+>Duplicerai questa scheda e creerai altri simili - passaggio 5)
 
-1. Selezionare il tipo di rapporto **Explorer**.
+1. Seleziona la **Esplora risorse** tipo di report.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Nella sezione Gruppi di metriche, seleziona le metriche rilevanti per la tua attività. Di seguito è riportata una raccomandazione:
+1. Nella sezione Gruppi di metriche , seleziona le metriche rilevanti per la tua attività. Ecco una raccomandazione:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplica questa scheda 4 volte e denominale:
 
-   1. **Tutto il coinvolgimento**
+   1. **Interazione completa**
    1. **Coinvolgimento per settore**
    1. **Coinvolgimento per gruppo**
    1. **Coinvolgimento per categoria**
-   1. **Engagement by ABM**
+   1. **Coinvolgimento di ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Nella sezione **Dimension Drill downs** impostare le dimensioni relative a ciascuna scheda come segue:
+1. In **Analisi a discesa dei Dimension** imposta le dimensioni pertinenti per ciascuna scheda come segue:
 
 <table> 
  <thead> 
@@ -146,17 +145,17 @@ Questo articolo spiega come impostare i rapporti personalizzati RTP per Google U
     </div></th> 
    <th> 
     <div>
-      Dimension Drill down 
+      Analisi a discesa dei Dimension 
     </div></th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Tutto il coinvolgimento</td> 
+   <td>Interazione completa</td> 
    <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Engagement by ABM</td> 
+   <td>Coinvolgimento di ABM</td> 
    <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -174,22 +173,22 @@ Questo articolo spiega come impostare i rapporti personalizzati RTP per Google U
  </tbody> 
 </table>
 
-1. Impostate i seguenti filtri:
+1. Imposta i seguenti filtri:
 
 <table> 
  <thead> 
   <tr> 
    <th> 
     <div>
-      Inc/Exc 
+      Inc. 
     </div></th> 
    <th> 
     <div>
-      Field 
+      Campo 
     </div></th> 
    <th> 
     <div>
-      Tipo corrispondenza 
+      Tipo di corrispondenza 
     </div></th> 
    <th> 
     <div>
@@ -206,7 +205,7 @@ Questo articolo spiega come impostare i rapporti personalizzati RTP per Google U
    <td><p>Includi</p></td> 
    <td><p>Categoria evento</p></td> 
    <td>Regex</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
+   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segmenti</td> 
    <td colspan="1">Filtrerà tutti gli altri eventi personalizzati non correlati a RTP</td> 
   </tr> 
   <tr> 
@@ -214,16 +213,16 @@ Questo articolo spiega come impostare i rapporti personalizzati RTP per Google U
    <td>Etichetta evento</td> 
    <td>Regex</td> 
    <td>#</td> 
-   <td colspan="1">Consente di filtrare dalla campagna di report utilizzando # nel nome della campagna</td> 
+   <td colspan="1">Consente di filtrare dalla campagna di rapporti utilizzando # nel nome della campagna</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Impostate questo rapporto in modo che sia disponibile per **Tutti i dati del sito Web** (o modificate se necessario).
+1. Imposta questo rapporto come disponibile per **Tutti i dati del sito Web** (o eventualmente modificare).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

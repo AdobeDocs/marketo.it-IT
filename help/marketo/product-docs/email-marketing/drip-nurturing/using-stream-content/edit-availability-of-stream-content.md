@@ -1,36 +1,35 @@
 ---
 unique-page-id: 2359910
-description: Modifica la disponibilità del contenuto del flusso - Documenti Marketo - Documentazione del prodotto
-title: Modifica disponibilità contenuto flusso
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Modifica disponibilità contenuto flusso - Documenti Marketo - Documentazione del prodotto
+title: Modifica la disponibilità del contenuto di flusso
+exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
+# Modifica la disponibilità del contenuto di flusso {#edit-availability-of-stream-content}
 
-# Modifica disponibilità contenuto flusso {#edit-availability-of-stream-content}
+Puoi impostare un intervallo di tempo per l’attivazione del contenuto nel flusso. Ecco come.
 
-Potete impostare un intervallo di tempo per l&#39;attivazione del contenuto nel flusso. Ecco come.
-
-1. Selezionate il programma di coinvolgimento e andate alla scheda **Streams**.
+1. Seleziona il tuo programma di coinvolgimento e vai al **Flussi** scheda .
 
    ![](assets/cloneasteam-2.jpg)
 
-1. Fate clic sull&#39;icona a forma di ingranaggio per il contenuto da pianificare, quindi selezionate **Edit Availability**.
+1. Fai clic sull’icona a forma di ingranaggio per il contenuto da programmare, quindi seleziona **Modifica disponibilità**.
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Selezionare la data **Active From**, quindi la data **Active Through** e fare clic su **Save**.
+1. Seleziona la tua **Attivo da** data, quindi **Attivo** data e fai clic su **Salva**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Potete lasciare vuoto **Active Through** per rendere il contenuto disponibile per sempre.
+   >Puoi partire **Attivo** vuoto per rendere i contenuti disponibili per sempre.
 
-   Perfetto! Accanto al contenuto pianificato verrà visualizzata l&#39;icona a forma di orologio. Diventerà attivo e inattivo in base alla pianificazione impostata.
+   Perfetto! Accanto al contenuto pianificato viene visualizzata l’icona dell’orologio. Diventa attivo e inattivo in base alla pianificazione impostata.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

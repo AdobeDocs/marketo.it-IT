@@ -3,7 +3,6 @@ unique-page-id: 1147017
 description: Crea attività - Documentazione Marketo - Documentazione del prodotto
 title: Crea attività
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
@@ -19,7 +18,7 @@ In qualità di addetto al marketing, hai informazioni che possono aiutare le ven
 
 >[!NOTE]
 >
->Quando l&#39;utente di sincronizzazione Marketo sta creando attività, **Due in** è un campo obbligatorio per l&#39;attività da creare in Salesforce. Se non è presente alcun valore, Marketo immetterà cinque giorni per impostazione predefinita.
+>Quando l&#39;utente di sincronizzazione Marketo sta creando attività, **Ingresso** è un campo obbligatorio per l’attività da creare in Salesforce. Se non è presente alcun valore, Marketo immetterà cinque giorni per impostazione predefinita.
 
 Per impostazione predefinita, il passaggio di flusso si presenta così:
 
@@ -31,4 +30,4 @@ Personalizza tutti i campi per creare l’attività nel modo desiderato.
 
 >[!TIP]
 >
->Puoi utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in **Oggetto** e **Descrizione**. Per ulteriori informazioni, consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) .
+>È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in **Oggetto** e **Descrizione**. Vedi [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) per ulteriori dettagli.

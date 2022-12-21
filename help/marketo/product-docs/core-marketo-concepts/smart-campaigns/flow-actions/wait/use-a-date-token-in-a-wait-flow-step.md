@@ -3,7 +3,6 @@ unique-page-id: 1146997
 description: Utilizzare un token di data in un passaggio del flusso di attesa - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare un token di data in un passaggio del flusso di attesa
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
@@ -19,7 +18,7 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
 >
 >Questo vale solo per attivare le campagne. Non è possibile utilizzare questa funzione nelle campagne batch.
 
-1. Nella scheda **Flusso** della campagna intelligente, trascina il passaggio del passaggio di flusso **Attendi**.
+1. Nella tua campagna intelligente **Flusso** , trascina **Wait** passaggio di flusso.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +26,7 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Dal menu a discesa **Tipo**, seleziona **Token di data**.
+1. Da **Tipo** a discesa, seleziona **Token data**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,9 +53,9 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
 
    >[!NOTE]
    >
-   >È inoltre possibile specificare il numero di giorni utilizzando un token `{{lead.` o `{{company.` che rappresenta un campo intero o un token `{{my.` di tipo numerico.
+   >Puoi inoltre specificare il numero di giorni utilizzando un `{{lead.` o `{{company.` token che rappresenta un campo intero o un `{{my.` token del tipo di numero.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 

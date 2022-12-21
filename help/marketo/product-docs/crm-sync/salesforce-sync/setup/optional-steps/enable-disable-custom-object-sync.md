@@ -3,7 +3,6 @@ unique-page-id: 4719297
 description: Attivare/disattivare la sincronizzazione personalizzata degli oggetti - Documenti Marketo - Documentazione del prodotto
 title: Attiva/Disattiva la sincronizzazione personalizzata degli oggetti
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Attiva/disattiva la sincronizzazione personalizzata degli oggetti {#enable-disable-custom-object-sync}
+# Attiva/Disattiva la sincronizzazione personalizzata degli oggetti {#enable-disable-custom-object-sync}
 
 Gli oggetti personalizzati creati nella tua istanza Salesforce possono far parte anche di Marketo. Ecco come configurarlo.
 
-## Attiva/disattiva la sincronizzazione personalizzata degli oggetti {#enable-disable-custom-object-sync-1}
+## Attiva/Disattiva la sincronizzazione personalizzata degli oggetti {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
@@ -29,11 +28,11 @@ Gli oggetti personalizzati creati nella tua istanza Salesforce possono far parte
 
    ![](assets/two-2.png)
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su **Sincronizza schema.** In caso contrario, fare clic su  **Aggiorna** schema per verificare di disporre della versione più recente.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **Sincronizza schema.** Altrimenti fai clic su **Aggiorna schema** per essere certo di avere le ultime notizie.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Se la sincronizzazione globale è in esecuzione, è necessario disattivarla facendo clic su **Disattiva sincronizzazione globale.**
+1. Se la sincronizzazione globale è in esecuzione, è necessario disattivarla facendo clic su **Disattiva la sincronizzazione globale.**
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -41,7 +40,7 @@ Gli oggetti personalizzati creati nella tua istanza Salesforce possono far parte
    >
    >La sincronizzazione dello schema di oggetti personalizzati Salesforce potrebbe richiedere alcuni minuti.
 
-1. Fare clic su **Aggiorna schema**.
+1. Fai clic su **Aggiorna schema**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
@@ -53,11 +52,11 @@ Gli oggetti personalizzati creati nella tua istanza Salesforce possono far parte
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Fare nuovamente clic su **Abilita sincronizzazione**.
+1. Fai clic su **Abilita sincronizzazione** di nuovo.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Torna alla scheda **Salesforce** e fai clic su **Abilita sincronizzazione**.
+1. Torna alla pagina **Salesforce** e fai clic su **Abilita sincronizzazione**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +66,7 @@ Gli oggetti personalizzati creati nella tua istanza Salesforce possono far parte
 >
 >Non è possibile utilizzare oggetti personalizzati nelle campagne avanzate con i trigger.
 
-1. Nell’elenco avanzato, trascina il filtro **Con opportunità** e imposta su **true**.
+1. Nell’elenco avanzato, trascina **Ha opportunità** filtra e imposta su **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 

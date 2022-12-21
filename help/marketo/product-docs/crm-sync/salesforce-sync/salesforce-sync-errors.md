@@ -2,11 +2,10 @@
 description: Errori di sincronizzazione Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Errori di sincronizzazione Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -24,7 +23,7 @@ Visualizza un riepilogo degli errori riscontrati durante il processo di sincroni
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. In Integrazione, fai clic su **Salesforce**, quindi sulla scheda **Errori di sincronizzazione**.
+1. In Integrazione, fai clic su **Salesforce**, quindi **Errori di sincronizzazione** scheda .
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +33,7 @@ Visualizza un riepilogo degli errori riscontrati durante il processo di sincroni
 
 | Campo | Descrizione |
 |---|---|
-| Non riuscito | Livello record _o_ Livello processo |
+| Non riuscito | Livello record _o_ Livello di lavoro |
 | Data/ora dell’errore | Dettagli errore |
 | Tipo di errore | Messaggio di ritorno SFDC |
 
@@ -48,10 +47,10 @@ Visualizza un riepilogo degli errori riscontrati durante il processo di sincroni
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Seleziona il tuo intervallo di date e ore, quindi filtra per Tipo di errore (Livello di lavoro o Livello di record). Al termine, fai clic su **Applica**.
+1. Seleziona il tuo intervallo di date e ore, quindi filtra per Tipo di errore (Livello di lavoro o Livello di record). Fai clic su **Applica** al termine.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Passaggio** facoltativo: Per esportare gli errori di sincronizzazione, fai clic su  **Esporta**. I dati verranno esportati come CSV.
+**Passaggio facoltativo**: Per esportare gli errori di sincronizzazione, fai clic su **Esporta**. I dati verranno esportati come CSV.
 
 ![](assets/salesforce-sync-errors-5.png)

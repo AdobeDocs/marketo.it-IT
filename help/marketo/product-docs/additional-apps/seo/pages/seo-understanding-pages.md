@@ -3,17 +3,16 @@ unique-page-id: 2949184
 description: SEO - Informazioni sulle pagine - Documenti Marketo - Documentazione del prodotto
 title: SEO - Informazioni sulle pagine
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # SEO - Informazioni sulle pagine {#seo-understanding-pages}
 
-## Punteggio di ottimizzazione pagina / Per eseguire Widget {#page-optimization-score-to-do-widget}
+## Punteggio / Per Eseguire Widget {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
@@ -38,7 +37,7 @@ La scheda Pagine mostra il livello di ottimizzazione delle singole pagine del si
 | Titolo | Titolo e URL di tutte le pagine del dominio. Verifica il dominio. |
 | Punteggio di ottimizzazione | La salsa segreta utilizzata per mostrare quanto bene la tua pagina è ottimizzata per la ricerca su una scala da 1 a 100. |
 | Collegamenti | Numero di domini diversi con almeno 1 collegamento in entrata al sito. |
-| Parole chiave di Target | Le parole chiave per le quali si decide di ottimizzare ogni pagina. [Questo richiede l’input](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| Parole chiave di Target | Le parole chiave per le quali si decide di ottimizzare ogni pagina. [Questo richiede l&#39;input](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## Scheda Problemi {#issues-tab}
 
@@ -53,4 +52,4 @@ La scheda Problemi identificherà i miglioramenti possibili per aumentare il pun
 | Categoria | Il tipo di problema da segnalare. |
 | Stato | L&#39;attività è completa o ancora aperta. Una volta che tu e il tuo webmaster avete risolto il problema sul tuo sito, lo stato dovrebbe cambiare in risolto (controllo verde). |
 
-Meraviglioso, ora che conosci le nozioni di base delle pagine, controlla l&#39; [Page Detail Drill Down article](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) per scoprire cose più interessanti che puoi fare.
+Impressionante, ora che conosci le basi delle pagine, controlla il [Articolo drill-down dettagli pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) per imparare cose più interessanti puoi fare.

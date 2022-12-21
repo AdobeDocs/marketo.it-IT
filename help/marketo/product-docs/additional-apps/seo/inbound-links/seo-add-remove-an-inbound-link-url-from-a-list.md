@@ -3,7 +3,6 @@ unique-page-id: 2949251
 description: SEO - Aggiungere/rimuovere un URL di collegamento in entrata da un elenco - Documenti Marketo - Documentazione del prodotto
 title: SEO - Aggiunta/rimozione di un URL di collegamento in entrata da un elenco
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# SEO - Aggiungi/rimuovi un URL di collegamento in entrata da un elenco {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO - Aggiunta/rimozione di un URL di collegamento in entrata da un elenco {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 Puoi organizzare gli URL di collegamento in entrata per i contenuti del tuo cuore.
 
@@ -21,7 +20,7 @@ Puoi organizzare gli URL di collegamento in entrata per i contenuti del tuo cuor
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Passa il puntatore del mouse sull’URL del collegamento in entrata da classificare. Fare clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il puntatore del mouse sull’URL del collegamento in entrata da classificare. Fai clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -41,11 +40,11 @@ A volte può essere utile rimuovere gli URL di un collegamento in entrata da un 
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Fai clic sull&#39;elenco a discesa **Filtra per elenco** . Fare clic sull&#39;elenco da pulire.
+1. Fai clic sul pulsante **Filtra per elenco** a discesa. Fare clic sull&#39;elenco da pulire.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Passa il puntatore sull’URL del collegamento in entrata da rimuovere. Fare clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il puntatore sull’URL del collegamento in entrata da rimuovere. Fai clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

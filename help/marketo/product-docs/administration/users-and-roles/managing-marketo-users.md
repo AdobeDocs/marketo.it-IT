@@ -1,9 +1,8 @@
 ---
 unique-page-id: 2359906
-description: Gestione degli utenti Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Gestione degli utenti di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione degli utenti Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
@@ -19,19 +18,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
-1. Fare clic su **Invita nuovo utente**.
+1. Fai clic su **Invita nuovo utente**.
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Immetti l&#39; **Indirizzo e-mail**, **Nome** e **Cognome**.
+1. Inserisci il **Indirizzo e-mail**, **Nome** e **Cognome**.
 
    ![](assets/image2016-5-24-9-3a45-3a30.png)
 
-1. Facoltativamente, inserisci un motivo per l’invito e seleziona una data di scadenza nel campo **Accedi a scadenza** utilizzando il selettore data.
+1. Facoltativamente, immetti un motivo per l’invito e seleziona una data di scadenza nel **Scadenza accesso** utilizzando il selettore data.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/image2016-5-24-9-3a58-3a10.png)
 
@@ -43,11 +42,11 @@ ht-degree: 0%
    >
    >Quando arriva la data di scadenza, l’utente riceve una notifica di scadenza e il suo account è bloccato.
 
-1. Seleziona il **Ruolo** desiderato e fai clic su **Avanti**.
+1. Seleziona la **Ruolo** di tua scelta e fai clic su **Successivo**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
-1. Apporta le modifiche necessarie al messaggio di invito. Fare clic su **Invia**.
+1. Apporta le modifiche necessarie al messaggio di invito. Fai clic su **Invia**.
 
    ![](assets/image2016-5-24-10-3a3-3a56.png)
 
@@ -69,7 +68,7 @@ Il nuovo utente è ora elencato nella scheda Utenti e riceverà un messaggio e-m
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Seleziona l&#39;utente da rimuovere e fai clic su **Elimina utente**.
+1. Seleziona l’utente da rimuovere e fai clic su **Elimina utente**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
@@ -77,7 +76,7 @@ Il nuovo utente è ora elencato nella scheda Utenti e riceverà un messaggio e-m
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
-## Ripristina password utente {#reset-user-passwords}
+## Reimposta password utente {#reset-user-passwords}
 
 1. Vai ad Amministratore e fai clic su **Utenti e ruoli**.
 
@@ -109,7 +108,7 @@ L’utente riceverà un’e-mail con le istruzioni per la reimpostazione della p
 
    ![](assets/image2014-9-9-11-3a37-3a16.png)
 
-1. È possibile modificare le informazioni utente e modificare il ruolo associato. Fare clic su **Salva**.
+1. È possibile modificare le informazioni utente e modificare il ruolo associato. Fai clic su **Salva**.
 
    ![](assets/image2014-9-9-11-3a37-3a31.png)
 

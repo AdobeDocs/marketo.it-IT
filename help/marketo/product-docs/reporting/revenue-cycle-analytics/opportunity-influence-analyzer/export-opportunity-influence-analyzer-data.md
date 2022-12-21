@@ -1,48 +1,47 @@
 ---
 unique-page-id: 2360394
-description: Esportazione dei dati dell'analisi dell'influenza delle opportunità - Marketo Docs - Documentazione del prodotto
-title: Esporta dati analizzatore di influenza opportunità
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Esportare i dati di Experience Experience Experience Influence Analyzer - Documenti Marketo - Documentazione del prodotto
+title: Esportare i dati di Analizzatore di influenza opportunità
+exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# Esportare i dati di Analizzatore di influenza opportunità {#export-opportunity-influence-analyzer-data}
 
-# Esporta dati analizzatore di influenza opportunità {#export-opportunity-influence-analyzer-data}
+Per ricevere gli aggiornamenti dai tuoi report di Revenue Cycle Explorer e per condividerli, puoi abbonarti a un rapporto qualsiasi indirizzo e-mail.
 
-Per ricevere gli aggiornamenti dai rapporti di Esplora ricavi e condividerli, puoi abbonare qualsiasi indirizzo e-mail a un rapporto esistente.
-
-1. Andate su **Analytics** e selezionate **New** > **New Report Subscription** (Nuova iscrizione al report).
+1. Vai a **Analytics** e seleziona **Nuovo** > **Nuova sottoscrizione report**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Per iscriversi a un report di base creato in un programma, vedere [Iscriviti a un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >Per abbonarti a un report di base creato in un programma, vedi [Iscriviti a un rapporto di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Per Origine report, selezionare **Revenue Explorer**.
+1. Per Origine rapporto, seleziona **Esplora ricavi**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
-1. Spostatevi nella struttura delle cartelle e selezionate il rapporto.
+1. Passa alla struttura delle cartelle e seleziona il rapporto.
 
    ![](assets/image2014-9-17-12-3a42-3a24.png)
 
-1. Inserite gli indirizzi e-mail e impostate la frequenza delle e-mail del rapporto.
+1. Inserisci gli indirizzi e-mail e imposta la frequenza delle e-mail del rapporto.
 
    ![](assets/image2014-9-17-12-3a42-3a29.png)
 
    >[!NOTE]
    >
-   >Chiunque può annullare l’iscrizione nel messaggio e-mail ricevuto.
+   >Chiunque può annullare l’iscrizione al rapporto nell’e-mail che riceve.
 
-1. L&#39;abbonamento è impostato! Se avete incluso il vostro indirizzo e-mail, riceverete il rapporto tramite e-mail.
+1. L&#39;abbonamento è impostato! Se hai incluso il tuo indirizzo e-mail, riceverai il rapporto tramite e-mail.
 
    ![](assets/image2014-9-17-12-3a42-3a53.png)
 
 >[!MORELIKETHIS]
 >
->Scopri come [gestire tutte le iscrizioni per report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un&#39;unica posizione.
+>Scopri come [gestisci tutti gli abbonamenti ai rapporti](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un posto.

@@ -3,11 +3,10 @@ unique-page-id: 1147082
 description: Elimina persona - Documenti Marketo - Documentazione del prodotto
 title: Elimina persona
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,4 +36,4 @@ Puoi eliminare da Marketo e non dal tuo CRM, come segue:
 
 >[!NOTE]
 >
->La rimozione della persona dal CRM **funziona solo con Salesforce**. Se elimini una persona da Marketo e scegli di tenerla in Salesforce, verrà ricreata in Marketo se il suo record Salesforce verrà mai aggiornato.
+>Rimozione della persona dal CRM in corso **funziona solo con Salesforce**. Se elimini una persona da Marketo e scegli di tenerla in Salesforce, verrà ricreata in Marketo se il suo record Salesforce verrà mai aggiornato.

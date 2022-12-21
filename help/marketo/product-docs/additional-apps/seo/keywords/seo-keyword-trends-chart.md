@@ -3,7 +3,6 @@ unique-page-id: 2949680
 description: SEO - Grafico delle tendenze delle parole chiave - Documenti Marketo - Documentazione del prodotto
 title: SEO - Grafico delle tendenze delle parole chiave
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # SEO - Grafico delle tendenze delle parole chiave {#seo-keyword-trends-chart}
 
-È importante monitorare l&#39;andamento della parola chiave [SERP Ranks](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) nel tempo. Controlla questo grafico per monitorare l&#39;avanzamento.
+È importante monitorare come la parola chiave [Gradi SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) tendono nel tempo. Controlla questo grafico per monitorare l&#39;avanzamento.
 
-1. Vai alla sezione **Parole chiave** .
+1. Vai a **Parole chiave** sezione .
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Vedete? Mostra il tuo [SERP Rank](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) per gli ultimi 30 giorni:
+   Vedete? Mostra il tuo [Classificazione SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) negli ultimi 30 giorni:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 

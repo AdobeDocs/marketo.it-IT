@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359703
-description: Aggiungere un'immagine a una pagina di destinazione a forma libera - Marketo Docs - Documentazione prodotto
-title: Aggiungere un’immagine a una pagina di destinazione a forma libera
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Aggiungere un’immagine a una pagina di destinazione in formato libero - Marketo Docs - Documentazione del prodotto
+title: Aggiungere un’immagine a una pagina di destinazione in formato libero
+exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# Aggiungere un&#39;immagine a una pagina di destinazione a forma libera {#add-an-image-to-a-free-form-landing-page}
+# Aggiungere un’immagine a una pagina di destinazione in formato libero {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[Aggiungi immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Aggiungere immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Selezionate la pagina di destinazione a forma libera e fate clic su **Modifica** **Bozza**.
+1. Seleziona la pagina di destinazione a forma libera e fai clic su **Modifica** **Bozza**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Nell&#39;editor, trascinare sull&#39;elemento **Image**.
+1. Nell’editor, trascina il **Immagine** elemento.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
-1. Trova e seleziona l’immagine desiderata.
+1. Trova e seleziona l&#39;immagine desiderata.
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Fare clic su **Inserisci**.
+1. Fai clic su **Inserisci**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   Ottimo lavoro! È stata appena aggiunta un’immagine alla pagina di destinazione a forma libera.
+   Ottimo lavoro! Hai appena aggiunto un’immagine alla pagina di destinazione in formato libero.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)

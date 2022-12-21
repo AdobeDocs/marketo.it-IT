@@ -3,7 +3,6 @@ unique-page-id: 4719287
 description: Modifica mappature dei campi iniziali - Documenti Marketo - Documentazione del prodotto
 title: Modifica mappature campi iniziali
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questa funzione è accessibile solo prima della sincronizzazione iniziale con Salesforce! Una volta premuto il pulsante **Sincronizza ora**, non è più possibile eseguire questa operazione.
+>Questa funzione è accessibile solo prima della sincronizzazione iniziale con Salesforce! Una volta che **Sincronizza** Questo non può più essere fatto.
 
 Durante la sincronizzazione iniziale con Salesforce, Marketo combina automaticamente campi personalizzati con nomi simili in un singolo campo sul lato Marketo per garantire che i dati possano essere scambiati con oggetti Lead e Contact nel CRM. Questo articolo spiega come personalizzare queste mappature.
 
@@ -27,7 +26,7 @@ Quando viene visualizzato un campo nella cartella Campi non mappati, significa c
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Apri la cartella **Campi personalizzati non mappati** .
+1. Apri **Campi personalizzati non mappati** cartella.
 
    ![](assets/two.png)
 
@@ -39,11 +38,11 @@ Quando viene visualizzato un campo nella cartella Campi non mappati, significa c
 
    ![](assets/three.png)
 
-1. Al termine, fai clic su **Fine mappature**.
+1. Fai clic su **Mappature di fine** quando hai finito.
 
    ![](assets/four.png)
 
-## Interruzione mappatura esistente {#break-existing-mapping}
+## Interrompi mappatura esistente {#break-existing-mapping}
 
 Se nell’oggetto lead sono presenti campi con nomi simili, Marketo li associa automaticamente. Puoi considerarli diversi e conservare dati diversi. Rompete la mappatura in questo modo.
 
@@ -55,7 +54,7 @@ Se nell’oggetto lead sono presenti campi con nomi simili, Marketo li associa a
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Al termine, fai clic su **Fine mappature**.
+1. Fai clic su **Mappature di fine** quando hai finito.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 

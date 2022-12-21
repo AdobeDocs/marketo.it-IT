@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380785
-description: Informazioni sull’account denominato - Documenti Marketo - Documentazione del prodotto
+description: Registri di account denominati - Documenti Marketo - Documentazione del prodotto
 title: Registri di account denominati
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Registri di account denominati {#named-account-insights}
 
@@ -19,13 +18,13 @@ Il Dashboard account con nome fornisce una visualizzazione a 360 gradi di un acc
 
 ## Dashboard {#dashboard}
 
-Il dashboard aggrega le informazioni chiave a livello di account da tutte le persone all’interno di un account denominato, evitando in tal modo la necessità di andare da ciascuna persona per valutare i propri progressi. Puoi approfondire l’attività nell’e-mail utilizzando [Approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Il dashboard aggrega le informazioni chiave a livello di account da tutte le persone all’interno di un account denominato, evitando in tal modo la necessità di andare da ciascuna persona per valutare i propri progressi. Puoi approfondire l’attività dell’e-mail utilizzando [Approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
 >I grafici mostrano informazioni degli ultimi 90 giorni.
 
-**Interazione account nel** tempoFai clic sull’elenco a discesa  **** Visualizzazione a destra per modificare la visualizzazione. Oltre al punteggio account, puoi visualizzare per Ricavi totali...
+**Coinvolgimento dell&#39;account nel tempo** Fai clic sul pulsante **Visualizza** elenco a discesa a destra per modificare la visualizzazione. Oltre al punteggio account, puoi visualizzare per Ricavi totali..
 
 ![](assets/two-new.png)
 
@@ -58,13 +57,13 @@ Disponibile per gli utenti di Marketo Sales Insight, puoi vedere i momenti inter
 
 **Persone principali**
 
-Queste persone vengono calcolate in base a priorità basate sulla recency o sull’urgenza mostrate da persone di account denominati (come [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) o Punteggi definiti dall’utente. **** La priorità è disponibile solo per gli utenti di Marketing Sales Insight.
+Queste persone vengono calcolate in base a priorità basate sulla recency o sull&#39;urgenza mostrate da persone di account denominati (come [Migliori offerte](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Approfondimenti vendite), o Punteggi definiti dall’utente. **Priorità** è disponibile solo per gli utenti di Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
 **Include bambini**
 
-Fai clic su **Include Children** per visualizzare e scegliere gli account figlio dell&#39;account denominato selezionato e visualizzarne l&#39;analisi aggregata.
+Fai clic su **Include bambini** per visualizzare e scegliere gli account figlio dell&#39;account denominato selezionato e visualizzarne l&#39;analisi aggregata.
 
 ![](assets/abm.png)
 
@@ -108,10 +107,10 @@ Visualizza i membri del team dell&#39;account, aggiungi/rimuovi i membri, persin
 
 >[!NOTE]
 >
->Fai clic sull&#39;elenco a discesa **Azioni team account** per aggiungere/rimuovere membri dell&#39;account o assegnare un proprietario dell&#39;account.
+>Fai clic sul pulsante **Azioni team account** elenco a discesa per aggiungere/rimuovere membri account o assegnare un proprietario account.
 
 ## Indicatori ICP {#icp-indicators}
 
-Visualizzare gli indicatori ICP selezionati per l&#39;esportazione quando [il modello è stato regolato](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Visualizzare gli indicatori ICP selezionati per l’esportazione quando si [sintonizzazione del modello](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

@@ -6,7 +6,7 @@ exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -65,7 +65,7 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per vedere le prestaz
    <td colspan="1" rowspan="1">Numero di persone univoche che che hanno fatto clic sul collegamento.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% persone</td> 
+   <td colspan="1" rowspan="1">% Persone</td> 
    <td colspan="1" rowspan="1">Percentuale del totale di persone univoche che hanno fatto clic sui collegamenti in quell'e-mail, su questo collegamento.</td> 
   </tr> 
  </tbody> 

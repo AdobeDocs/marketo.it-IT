@@ -1,67 +1,66 @@
 ---
 unique-page-id: 2949857
-description: Modifica di un canale eventi - Documenti Marketo - Documentazione prodotto
-title: Modifica di un canale evento
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Modificare un canale evento - Documentazione Marketo - Documentazione del prodotto
+title: Modificare un canale evento
+exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
+# Modificare un canale evento {#edit-an-event-channel}
 
-# Modifica di un canale evento {#edit-an-event-channel}
-
-È possibile modificare il tipo di canale dalla scheda **Riepilogo** dell&#39;evento o dalla scheda **Configurazione**.
-
->[!NOTE]
->
->Questa opzione è disponibile solo per gli eventi che non hanno membri associati. Una volta che un evento ha dei membri, non potete modificare il tipo di canale.
+Puoi modificare il tipo di canale da **Riepilogo** o dalla sua scheda **Configurazione** scheda .
 
 >[!NOTE]
 >
->Un programma è una specifica iniziativa di marketing. Il **canale** è destinato ad essere il meccanismo di distribuzione, ad esempio Webinar, Tradeshow o Online Ad. Nel menu a discesa possono essere visualizzate diverse opzioni di canale, a seconda di quanto è disponibile nella propria istanza. È inoltre possibile [creare un proprio canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>Questa opzione è disponibile solo per gli eventi a cui non sono associati membri. Una volta che un evento dispone di membri, non è possibile modificare il tipo di canale.
+
+>[!NOTE]
+>
+>Un programma è una specifica iniziativa di marketing. La **canale** è destinato a essere il meccanismo di consegna, come Webinar, Tradeshow o Online Ad. Puoi visualizzare diverse opzioni di canale nel menu a discesa, a seconda di ciò che è disponibile nella tua istanza. È inoltre possibile  [creare un canale personalizzato](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## Dalla scheda Riepilogo {#from-the-summary-tab}
 
-1. In **Attività di marketing**, selezionate l&#39;evento dalla struttura.
+1. Da **Attività di marketing**, seleziona l’evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Passare alla visualizzazione **Riepilogo**.
+1. Passa a **Riepilogo** visualizza.
 
    ![](assets/eventprogramsummary.png)
 
-1. Nella categoria **Impostazioni**, selezionare il canale **Canale** corrente visualizzato come collegamento ipertestuale.
+1. Sotto la **Impostazioni** selezionare la categoria corrente **Canale** visualizzato come collegamento ipertestuale.
 
    ![](assets/channeltypeevent.png)
 
-1. Dall’elenco a discesa, selezionate un nuovo canale.
+1. Dall’elenco a discesa , seleziona un nuovo canale.
 
    ![](assets/tradeshowchange.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Dalla scheda Configurazione {#from-the-setup-tab}
 
-Un nuovo tipo di canale può essere assegnato anche dalla scheda **Setup** dell&#39;evento.
+È inoltre possibile assegnare un nuovo tipo di canale dal **Configurazione** scheda .
 
-1. Selezionate l’evento dalla struttura.
+1. Seleziona l’evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Passate alla scheda **Setup**. Fare doppio clic sul canale **corrente**.
+1. Passa a **Configurazione** scheda . Fare doppio clic sulla **Canale**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Selezionare un nuovo **Canale**.
+1. Seleziona un nuovo **Canale**.
 
    ![](assets/tradeshowchange.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

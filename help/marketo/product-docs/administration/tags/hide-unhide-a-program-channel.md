@@ -3,7 +3,6 @@ unique-page-id: 2360276
 description: Nascondere/scoprire un canale del programma - Documentazione di Marketo - Documentazione del prodotto
 title: Nascondere/visualizzare un canale del programma
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
@@ -21,15 +20,15 @@ ht-degree: 0%
 
 ## Nascondere un canale del programma {#hide-a-program-channel}
 
-1. In **Amministratore**, fai clic su **Tag**.
+1. Sotto **Amministratore**, fai clic su **Tag**.
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. Fai clic sul menu a discesa **Canale** e seleziona il **Canale** per nasconderlo.
+1. Fai clic sul pulsante **Canale** e seleziona il **Canale** per nascondersi.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
-1. In **Azioni tag**, fai clic su **Nascondi**.
+1. Sotto **Azioni tag**, fai clic su **Nascondi**.
 
    ![](assets/image2014-9-24-15-3a46-3a22.png)
 

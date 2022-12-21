@@ -3,7 +3,6 @@ unique-page-id: 6848705
 description: Procedure consigliate - Come organizzare i programmi - Documentazione Marketo - Documentazione del prodotto
 title: 'Procedure consigliate: come organizzare i programmi'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Best practice: Come organizzare i programmi {#best-practice-how-to-organize-your-programs}
+# Best practice: Organizzare i programmi {#best-practice-how-to-organize-your-programs}
 
 Sono disponibili diversi modi per organizzare l’albero nelle attività di marketing e i contenuti di un singolo programma. Tuttavia, alcuni modi sono migliori e aiuteranno le persone nel tuo reparto marketing.
 
@@ -60,11 +59,11 @@ Ognuno di questi menzionati nell’esempio è una cartella. Notate come si chiam
 
 È certamente possibile aggiungere più cartelle come si ritiene opportuno. Tieni presente che le future generazioni di esperti di marketing della tua azienda vivranno con le tue decisioni su come assegnare un nome o organizzare le cose.
 
-## Schemi di denominazione {#naming-schemes}
+## Denominazione degli schemi {#naming-schemes}
 
 La denominazione è fondamentale, in quanto le funzionalità di Marketo utilizzano tutte un linguaggio comune per comunicare. Per i programmi, devi denominarli qualcosa di unico. **Due programmi non possono avere lo stesso nome**. Si consiglia di utilizzare il formato seguente:
 
-[Abbreviazione del ] [tipo di programmaAAAA]-[MM]-[Facoltativo ] [DDBrief Descrizione]
+[Abbreviazione del tipo di programma] [YYYY]-[MM]-[DD opzionale] [Descrizione breve]
 
 >[!NOTE]
 >
@@ -77,7 +76,7 @@ La denominazione è fondamentale, in quanto le funzionalità di Marketo utilizza
 >1. Argomento del webinar WBN 2015-12-01 qui
 
 
-I nomi dei programmi devono essere univoci nell&#39;abbonamento, anche in diverse [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Per le risorse locali all&#39;interno dei programmi, la regola è di **mantenere il nome semplice**. Basta nominare un invito &quot;Invito&quot;, invece di &quot;2015 June Webinar Invitation&quot;. Poiché si trovano in un programma, il programma principale viene automaticamente incluso nel nome quando lo si sceglie altrove. In altre parole, le risorse locali devono essere univoche all’interno del programma. Puoi avere centinaia di risorse denominate &quot;Invite&quot;, ciascuna in un programma diverso e non ti farà preoccupare.
+I nomi dei programmi devono essere univoci nell&#39;abbonamento, anche in diversi [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Per le risorse locali all’interno dei programmi, la regola è di **mantieni il nome semplice**. Basta nominare un invito &quot;Invito&quot;, invece di &quot;2015 June Webinar Invitation&quot;. Poiché si trovano in un programma, il programma principale viene automaticamente incluso nel nome quando lo si sceglie altrove. In altre parole, le risorse locali devono essere univoche all’interno del programma. Puoi avere centinaia di risorse denominate &quot;Invite&quot;, ciascuna in un programma diverso e non ti farà preoccupare.
 
 ## Token {#tokens}
 
@@ -89,7 +88,7 @@ L’organizzazione di cui sopra consente di inserire token nella cartella Evento
 >
 >**Esempio**
 >
->**Il tuo indirizzo** aziendale. Utilizza un token invece di scriverlo ogni volta. In questo modo è possibile aggiornarlo in un unico punto senza dover creare molte bozze. Quindi, sostituisci il token come necessario in una cartella di livello inferiore.
+>**Indirizzo dell&#39;azienda**. Utilizza un token invece di scriverlo ogni volta. In questo modo è possibile aggiornarlo in un unico punto senza dover creare molte bozze. Quindi, sostituisci il token come necessario in una cartella di livello inferiore.
 
 ## Eventi {#events}
 
@@ -99,7 +98,7 @@ Un evento ha solitamente molte parti mobili, tra cui: inviti, pagine di destinaz
 
 ## Programmi di coinvolgimento {#engagement-programs}
 
-Scopri [tutto sui programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Il modo migliore per organizzare il programma di coinvolgimento è con le cartelle. Crea una cartella per ogni flusso e poi inserisci le e-mail o i programmi in quella cartella. Includi una cartella di archivio in ogni flusso quando il contenuto non è aggiornato e vuoi rimuoverlo.
+Scopri [tutti i programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Il modo migliore per organizzare il programma di coinvolgimento è con le cartelle. Crea una cartella per ogni flusso e poi inserisci le e-mail o i programmi in quella cartella. Includi una cartella di archivio in ogni flusso quando il contenuto non è aggiornato e vuoi rimuoverlo.
 
 ## Programmi operativi {#operational-programs}
 
@@ -123,4 +122,4 @@ Alcuni utenti possono anche astrarre la maggior parte del testo nelle e-mail e n
 
 ## Riepilogo {#summary}
 
-Come potete vedere, c&#39;è molta energia in Marketo. Abbiamo trattato le nozioni di base qui, ma considera alcuni servizi [aggiuntivi di Marketo Experts](https://www.marketo.com/services/) per perfezionare e configurarsi per il successo.
+Come potete vedere, c&#39;è molta energia in Marketo. Abbiamo trattato le basi qui, ma consideriamo alcune [servizi aggiuntivi da Marketo Experts](https://www.marketo.com/services/) per perfezionare e impostarsi per il successo.

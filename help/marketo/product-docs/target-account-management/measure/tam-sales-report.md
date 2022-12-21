@@ -2,14 +2,13 @@
 unique-page-id: 11385183
 description: Rapporto vendite TAM - Documenti Marketo - Documentazione del prodotto
 title: Rapporto vendite TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # Rapporto vendite TAM {#tam-sales-report}
 
@@ -28,7 +27,7 @@ Il rapporto condivide:
 
 ![](assets/tam-sales-report-1.png)
 
-## Chiave rapporto vendite {#sales-report-key}
+## Chiave dei rapporti sulle vendite {#sales-report-key}
 
 <table> 
  <tbody> 

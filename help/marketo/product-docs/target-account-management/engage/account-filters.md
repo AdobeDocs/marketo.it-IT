@@ -2,14 +2,13 @@
 unique-page-id: 11380732
 description: Filtri dell’account - Documenti Marketo - Documentazione del prodotto
 title: Filtri account
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Filtri account {#account-filters}
 
@@ -21,7 +20,7 @@ Identifica e coinvolge gli Account con nome e gli utenti tipo al loro interno ut
 
    ![](assets/one.png)
 
-1. Fai clic su **+** per espandere la cartella **Filtri account** .
+1. Fai clic sul pulsante **+** per espandere **Filtri account** cartella.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ Identifica e coinvolge gli Account con nome e gli utenti tipo al loro interno ut
 
    ![](assets/three.png)
 
-## Membro dell&#39;elenco dei conti {#member-of-account-list}
+## Membro dell’elenco dei conti {#member-of-account-list}
 
 Per utilizzare questo filtro, fai clic sull&#39;elenco a discesa dell&#39;account..
 
@@ -43,9 +42,9 @@ Per utilizzare questo filtro, fai clic sull&#39;elenco a discesa dell&#39;accoun
 >
 >Per il filtro Elenco membri account, esiste un solo qualificatore: &quot;is&quot; - Non sono disponibili qualificatori aggiuntivi (ad esempio &quot;is not&quot; e &quot;is any&quot;).
 
-## Membro dell&#39;account denominato {#member-of-named-account}
+## Membro del conto denominato {#member-of-named-account}
 
-Innanzitutto, scegli un qualificatore. **** È per uno o più account denominati specifici o  **è** qualsiasi account denominato.
+Innanzitutto, scegli un qualificatore. **Is** per uno o più account denominati specifici o **è qualsiasi** per qualsiasi account denominato.
 
 ![](assets/six.png)
 

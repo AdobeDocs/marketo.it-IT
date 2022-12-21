@@ -1,79 +1,78 @@
 ---
 unique-page-id: 2359665
-description: Set Stream Cadence - Marketo Docs - Documentazione prodotto
+description: Impostare la cadenza del flusso - Documenti Marketo - Documentazione del prodotto
 title: Imposta cadenza flusso
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-
 # Imposta cadenza flusso {#set-stream-cadence}
 
-Potete inviare il contenuto del coinvolgimento a qualsiasi intervallo. Ad esempio: una volta alla settimana, o ogni terzo martedì del mese.
+Puoi inviare il contenuto del coinvolgimento a qualsiasi intervallo desideri. Ad esempio: una volta alla settimana, o ogni terzo martedì del mese.
 
 ## Imposta cadenza {#set-cadence}
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Trova e seleziona il programma di coinvolgimento, fai clic sulla scheda **Streams**, quindi su **Imposta Cadenza flusso**.
+1. Trova e seleziona il tuo programma di coinvolgimento, fai clic sul pulsante **Flussi** scheda , quindi fai clic su **Imposta cadenza flusso**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Selezionare la frequenza con cui si desidera che la frequenza venga ripetuta. È possibile scegliere **Settimanale** o **Mensile**.
+1. Selezionare la frequenza con cui si desidera che la frequenza venga ripetuta. Puoi scegliere **Settimanale** o **Mensile**.
 
 ## Settimanale {#weekly}
 
-1. Selezionare **Settimanale**.
+1. Seleziona **Settimanale**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Se si seleziona **None**, il flusso verrà spento.
+   >Selezione **Nessuno** spegnerà il flusso.
 
 1. Selezionare la data del primo cast.
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Ora scegli se vuoi che la frequenza accada ogni settimana o più distanziata. Scegliamo ogni 2 settimane.
+1. Ora scegli se vuoi che il cadavere accada ogni settimana o più distanziati. Scegliamo ogni 2 settimane.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Decidete quali giorni della settimana. In questo caso facciamo martedì, mercoledì e giovedì.
+1. Decidi quali giorni della settimana. In questo caso facciamo martedì, mercoledì e giovedì.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
    >[!TIP]
    >
-   >È possibile impostare la cadenza da eseguire ogni giorno scegliendo **Ripeti: Settimanale** / **Ogni: 1 settimana** / **On**: tutti i giorni.
+   >Puoi impostare la tua cadenza da eseguire ogni giorno scegliendo **Ripete: Settimanale** / **Ogni: 1 settimana** / **On**: tutti i giorni.
 
-   Ora scegli il Tempo. Selezionare la casella se si desidera utilizzare il fuso orario [Destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(ovvero, distribuire in base ai fusi orari locali), quindi fare clic su **Salva**.
+   Ora scegli il Tempo. Seleziona la casella se desideri utilizzare [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(ad esempio, consegna in base ai fusi orari locali), quindi fai clic su **Salva**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
    >
-   >Il contenuto verrà visualizzato nella data selezionata per il primo cast, quindi accertatevi che coincida con il giorno della settimana scelta; altrimenti uscirà due volte nella prima settimana.
+   >Il contenuto uscirà nella data selezionata per il primo cast, quindi accertati che coincida con il giorno della settimana scelta; altrimenti uscirà due volte nella prima settimana.
 
-1. Passa il mouse sulla cadenza. Vedrai quali giorni usciranno i proiettili futuri.
+1. Passa il mouse sulla cadenza. Vedrete quali giorni usciranno i futuri cast.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >In questo esempio, un&#39;e-mail verrà inviata giovedì. Poi saltiamo una settimana e inviamo di nuovo martedì, mercoledì e giovedì della settimana successiva. E poi passiamo di nuovo in rassegna.
+   >In questo esempio, giovedì verrà inviata un’e-mail. Poi saltiamo una settimana e inviamo di nuovo martedì, mercoledì e giovedì della settimana successiva. E poi ripassiamo il cerchio.
 
-È tutto! Continua a leggere se vuoi impostare una cadenza mensile.
+Tutto qui! Continua a leggere se vuoi impostare una cadenza mensile.
 
 ## Mensile {#monthly}
 
-1. Selezionare **Menthly** per sapere con quale frequenza si ripete.
+1. Seleziona **Mensile** per quanto spesso si ripete.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -81,7 +80,7 @@ Potete inviare il contenuto del coinvolgimento a qualsiasi intervallo. Ad esempi
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Seleziona se vuoi che sia ogni mese o più distanziati... Scegliamo ogni quarto mese.
+1. Seleziona se vuoi che sia ogni mese o più distanziato... Scegliamo ogni quarto mese.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -91,21 +90,21 @@ Potete inviare il contenuto del coinvolgimento a qualsiasi intervallo. Ad esempi
 
    >[!TIP]
    >
-   >In alternativa, potete scegliere il giorno della settimana.
+   >In alternativa, è possibile scegliere il giorno della settimana.
 
-1. Selezionare un **Time** e fare clic su **Save**.
+1. Scegli una **Time** e fai clic su **Salva**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Passa il mouse sulla cadenza. Vedrai quali giorni usciranno i proiettili futuri.
+1. Passa il mouse sulla cadenza. Vedrete quali giorni usciranno i futuri cast.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
    >[!CAUTION]
    >
-   >Se decidi di modificare la cadenza del flusso di coinvolgimento in un secondo momento, accertati che il primo cast sia impostato su una data futura.
+   >Se decidi di modificare la cadenza del flusso di coinvolgimento in un secondo momento, assicurati che il primo cast sia impostato su una data futura.
 
-Ora sapete come impostare un flusso cadenza!
+Ora sapete come impostare una cadenza di torrente!
 
 >[!MORELIKETHIS]
 >

@@ -1,72 +1,71 @@
 ---
 unique-page-id: 10617440
-description: Approvare il messaggio in-app - Documenti Marketo - Documentazione prodotto
+description: Approvare Il Messaggio In-App - Documentazione Marketo - Documentazione del prodotto
 title: Approva il messaggio in-app
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
-
 # Approva il messaggio in-app {#approve-your-in-app-message}
 
-Devi approvare l&#39;invio prima che il messaggio in-app venga inviato.
+Devi approvare l’invio prima che il messaggio in-app venga inviato.
 
-1. Se tutto è a posto, fare clic su **Approva e su Avvia**.
+1. Se tutto sembra a posto, fare clic su **Approvare e avviare**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm-281-29.png)
 
    >[!NOTE]
    >
-   >Se una parte del processo di invio è incompleta, ad esempio, il messaggio in-app non è approvato, viene visualizzato un messaggio di avviso che indica quale area richiede l&#39;attenzione dell&#39;utente. Correggi il problema e dovresti visualizzare il messaggio al punto 2.
+   >Se una parte del processo di invio è incompleta, ad esempio se il messaggio in-app non è approvato, viene visualizzato un messaggio di avviso che indica quale area richiede l’attenzione dell’utente. Correggi e dovresti visualizzare il messaggio al passaggio 2.
 
-1. Fare clic su **Approva e Avvia**.
+1. Fai clic su **Approvare e avviare**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
-1. Se avete utilizzato campi personalizzati, l&#39;esecuzione di Marketo potrebbe richiedere più tempo e verrà visualizzato questo messaggio.
+1. Se hai utilizzato campi personalizzati, l’esecuzione di Marketo potrebbe richiedere più tempo e verrà visualizzato questo messaggio.
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. Il messaggio ora è attivo.
+1. Il messaggio è ora attivo.
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 
    >[!NOTE]
    >
-   >Normalmente sono necessari dai 15 ai 30 minuti perché un messaggio in-app approvato sia visibile ai visitatori nel programma. Ricordate che, se utilizzate campi personalizzati, potrebbero essere necessarie più ore o più.
+   >Normalmente sono necessari dai 15 ai 30 minuti perché un messaggio in-app approvato sia visibile ai visitatori nel programma. Tenere presente che, se si utilizzano campi personalizzati, potrebbero essere necessarie più ore o più.
 
    Potete mettere in pausa o interrompere un programma attivo, ma c&#39;è una grande differenza tra queste due opzioni.
 
-1. Fare clic su **Pausa programma** se è necessario interrompere il programma per un po&#39;, ma riprenderlo successivamente. Verrà impostato lo stato **Paused**.
+1. Fai clic su **Pausa programma** se è necessario interrompere il programma per un po&#39; ma riprenderlo in seguito. Cambierà in **In pausa** stato.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
    >[!NOTE]
    >
-   >I motivi della pausa potrebbero essere semplicemente per interromperla per un po&#39;, o se si desidera modificare il messaggio o regolare la pianificazione. Tuttavia, non puoi passare a un altro messaggio, ma solo modificare quello esistente.
+   >I motivi della pausa potrebbero essere semplicemente di interromperla per un po&#39;, o se si desidera modificare il messaggio o regolare la pianificazione. Tuttavia, non puoi passare a un messaggio diverso, ma solo modificare quello esistente.
 
-1. Se si desidera che il programma messo in pausa continui a essere in esecuzione, fare clic su **Riprendi programma**.
+1. Per continuare l&#39;esecuzione del programma in pausa, fare clic su **Riprendi programma**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
-1. Per arrestare completamente il programma, fare clic su **Stop Program**.
+1. Per interrompere completamente il programma, fai clic su **Interrompi programma**.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. Se si è certi di voler arrestare il programma, fare clic su **Stop**.
+1. Se si desidera interrompere il programma, fare clic su **Interrompi**.
 
    ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
-   >Quando interrompete un programma, questo non viene più eseguito e non può essere ripreso. Se vuoi riavviarlo, dovrai ricostruirlo. Quindi, assicurarsi di aver finito con un programma prima di fare clic su **Stop Program**!
+   >Quando si interrompe un programma, questo non viene più eseguito e non può essere ripreso. Se vuoi riavviarlo, devi ricostruirlo. Quindi, assicurati di aver completato un programma prima di fare clic su **Interrompi programma**!
 
 ## Dashboard in-app {#in-app-dashboard}
 
-Dopo l&#39;esecuzione del programma, puoi controllarne le prestazioni con il dashboard in-app, che viene visualizzato automaticamente dopo l&#39;approvazione del programma. Per tornare al programma, fare clic sul collegamento in alto a destra e selezionare **Pannello di controllo Campaign**.
+Dopo l&#39;esecuzione del programma, puoi monitorarne le prestazioni con la dashboard in-app, che viene visualizzata automaticamente dopo l&#39;approvazione del programma. Per tornare al programma, fai clic sul collegamento in alto a destra e seleziona **Pannello di controllo Campaign**.
 
 Tutto qui, gente!

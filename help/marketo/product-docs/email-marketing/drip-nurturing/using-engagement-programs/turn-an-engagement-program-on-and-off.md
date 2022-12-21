@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2359856
-description: Attivazione e disattivazione di un programma di coinvolgimento - Documenti Marketo - Documentazione del prodotto
-title: Attivazione e disattivazione di un programma di coinvolgimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Attivare e disattivare un programma di coinvolgimento - Marketo Docs - Documentazione del prodotto
+title: Attiva e disattiva un programma di coinvolgimento
+exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
+# Attiva e disattiva un programma di coinvolgimento {#turn-an-engagement-program-on-and-off}
 
-# Attivare e disattivare un programma di coinvolgimento {#turn-an-engagement-program-on-and-off}
+È possibile disattivare un programma di coinvolgimento con il clic di un interruttore. Questo impedirà l’invio di qualsiasi contenuto. Ecco come.
 
-È possibile disattivare un programma di coinvolgimento con il click di un interruttore. In questo modo si impedirà l&#39;invio di qualsiasi contenuto. Ecco come.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate il programma di coinvolgimento e fate clic su **Setup**.
+1. Seleziona il programma di coinvolgimento e fai clic su **Configurazione**.
 
    >[!NOTE]
    >
-   >I programmi di coinvolgimento sono attivati per impostazione predefinita, a meno che non si superi il limite di iscrizione.
+   >I programmi di coinvolgimento sono attivati per impostazione predefinita, a meno che tu non superi il limite di abbonamento.
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Fare doppio clic su **Stato programma**.
+1. Fare doppio clic **Stato del programma**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Selezionare **Off** e fare clic su **Save**.
+1. Seleziona **Disattivato** e fai clic su **Salva**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-Ecco qua! È possibile riattivarla con gli stessi passaggi.
+Ecco qua! È possibile riaccenderlo utilizzando gli stessi passaggi.

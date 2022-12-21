@@ -22,7 +22,7 @@ Le seguenti funzionalità sono incluse nella versione di aprile 2015. Per inform
 >
 >Questa funzione verrà rilasciata martedì 28 aprile.
 
-La nuova [Home page di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) consente l&#39;accesso rapido per l&#39;esecuzione di report ad hoc tra i tipi di report disponibili.
+Il nuovo [Home page di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) consente l’accesso rapido per l’esecuzione di report ad hoc tra i tipi di report disponibili.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ Con Marketo Mobile Engagement, distribuire esperienze mobili avvincenti è facil
 
 [Integrazione di linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estendi la tua strategia di nutrizione lead a display a pagamento e annunci sociali. L’ [integrazione di rete ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator consente di creare in modo sicuro un segmento di pubblico all’interno di LinkedIn in base ai membri di qualsiasi elenco statico o avanzato. I membri all’interno di un segmento di pubblico di LinkedIn possono quindi essere nutriti con una sequenza di annunci pertinenti.
+Estendi la tua strategia di nutrizione lead a display a pagamento e annunci sociali. La [integrazione di ad network](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator è possibile creare in modo sicuro un segmento di pubblico in LinkedIn in base ai membri di qualsiasi elenco statico o intelligente. I membri all’interno di un segmento di pubblico di LinkedIn possono quindi essere nutriti con una sequenza di annunci pertinenti.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -50,8 +50,8 @@ Le tue funzioni di Insight sulle vendite preferite - feed lead, migliori puntate
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP - Analisi di marketing basata su account {#rtp-account-based-marketing-analytics}
+## RTP - Account-Based Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-**RTP - Analisi di marketing basata su account**
+**RTP - Account-Based Marketing Analytics**
 
 Ottieni una visibilità immediata delle prestazioni delle tue liste Named Account in base a ogni fase del ciclo di acquisto, con il nuovo grafico delle prestazioni per le tue liste Named Account. Il grafico mostra la fase della visita dall’organizzazione chiave che parte dalla consapevolezza fino all’azione, in base al numero di visite e allo stato del visitatore.

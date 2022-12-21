@@ -3,7 +3,6 @@ unique-page-id: 2949220
 description: SEO - Aggiungere note ai problemi di pagina - Documenti Marketo - Documentazione del prodotto
 title: SEO - Aggiungere note ai problemi di pagina
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
@@ -35,9 +34,9 @@ Sapevi di poter aggiungere note ai problemi delle pagine come promemoria persona
 
 >[!TIP]
 >
->Per eliminare la nota, fai clic sul simbolo **x** nell&#39;angolo in alto a sinistra.
+>Per eliminare la nota, fai clic sul pulsante **x** nell&#39;angolo in alto a sinistra.
 
-## Aggiungi note nel dettaglio pagina {#add-notes-in-page-detail-drill-down}
+## Aggiungi note nel drill-down dei dettagli della pagina {#add-notes-in-page-detail-drill-down}
 
 1. Vai alla sezione Pagine .
 
@@ -51,7 +50,7 @@ Sapevi di poter aggiungere note ai problemi delle pagine come promemoria persona
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Inserisci la tua nota. Fare clic su **Salva**.
+1. Inserisci la tua nota. Fai clic su **Salva**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 

@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14746655
-description: Versioni di personalizzazione - Documenti Marketo - Documentazione prodotto
+description: Versioni di personalizzazione - Documenti Marketo - Documentazione del prodotto
 title: Versioni di personalizzazione
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-
 # Versioni di personalizzazione {#customization-versions}
 
-Di seguito sono riportati i dettagli relativi agli aggiornamenti apportati alle personalizzazioni di Marketing Connect per Salesforce.
+Di seguito sono riportati i dettagli relativi agli aggiornamenti apportati alle personalizzazioni Marketo Sales Connect per Salesforce.
 
-**Campi**
-attività versione 1, Campi contatto, Campi lead, Campi account, Campi opportunità, Pulsanti,  [questi campi](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md) marketing.
+**Versione 1**
+Campi Attività, Campi Contatto, Campi Lead, Campi Account , Campi Opportunità, Pulsanti, [Questi campi Marketo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
-**La versione 1.1**
-Campi attività, Campi contatto, Campi lead, Campi account, Campi opportunità, Pulsanti, Campi marketing ora sono disponibili nel layout di pagina per Salesforce Lightning.
+**Versione 1.1**
+Campi attività, campi contatto, campi lead, campi account , campi opportunità, pulsanti, campi Marketo sono ora disponibili nel layout di pagina per Salesforce Lightning.

@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352629
-description: Personalizza visualizzazione modello - Documenti Marketo - Documentazione prodotto
-title: Personalizza visualizzazione modello
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Personalizzare la visualizzazione dei modelli - Documenti Marketo - Documentazione del prodotto
+title: Personalizzare la visualizzazione dei modelli
+exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
+# Personalizzare la visualizzazione dei modelli {#customize-template-view}
 
-# Personalizza visualizzazione modello {#customize-template-view}
+Da **Visualizza** a discesa, puoi scegliere di visualizzare: tutti i modelli, i modelli, i modelli condivisi o i modelli non utilizzati (modelli che non sono stati utilizzati negli ultimi 90 giorni).
 
-Dal menu a discesa **View**, potete scegliere di visualizzare: tutti i modelli, i modelli, i modelli condivisi o i modelli non utilizzati (modelli che non sono stati utilizzati negli ultimi 90 giorni).
-
-Inoltre, potete aggiungere o rimuovere colonne nella visualizzazione modello facendo clic sull&#39;icona delle impostazioni a destra di **Visualizza.**
+Inoltre, puoi aggiungere/rimuovere colonne nella visualizzazione modello facendo clic sull’icona delle impostazioni a destra di **Visualizza.**

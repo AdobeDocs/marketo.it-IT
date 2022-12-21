@@ -2,20 +2,19 @@
 unique-page-id: 11378809
 description: Panoramica dell’account denominato - Documenti Marketo - Documentazione del prodotto
 title: Panoramica account con nome
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Panoramica account denominato {#named-account-overview}
+# Panoramica account con nome {#named-account-overview}
 
 Gli account denominati contengono le persone delle società di destinazione. Il dashboard fornisce i dati correnti di ogni attributo per tutti gli account denominati.
 
-## Dashboard account denominati {#named-accounts-dashboard}
+## Dashboard degli account denominati {#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -56,12 +55,12 @@ Gli account denominati contengono le persone delle società di destinazione. Il 
    <td>Dominio dell’account denominato (ad esempio marketo.com)</td> 
   </tr> 
   <tr> 
-   <td><strong>Industria</strong></td> 
+   <td><strong>Settore</strong></td> 
    <td>Tipo di settore attribuito a Conto denominato</td> 
   </tr> 
   <tr> 
-   <td><strong>Codice SIC</strong></td> 
-   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - codice a quattro cifre per la classificazione delle industrie<br></span></td> 
+   <td><strong>Codice SIC (Standard Industrial Classification)</strong></td> 
+   <td><span><strong>S</strong>candela <strong>I</strong>industriale <strong>C</strong>Classificazione - codice a quattro cifre per la classificazione delle industrie<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Entrate</strong></td> 

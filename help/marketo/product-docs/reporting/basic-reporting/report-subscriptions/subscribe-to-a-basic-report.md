@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2359987
-description: Iscriviti a un report di base - Documenti Marketo - Documentazione del prodotto
-title: Iscriviti a un report di base
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Iscriviti a un rapporto di base - Documentazione Marketo - Documentazione del prodotto
+title: Iscriviti a un rapporto di base
+exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
+# Iscriviti a un rapporto di base {#subscribe-to-a-basic-report}
 
-# Iscriviti a un report di base {#subscribe-to-a-basic-report}
-
-Per ricevere gli aggiornamenti automatici di un rapporto di base, o per condividerli, potete sottoscrivere qualsiasi indirizzo e-mail a un rapporto esistente.
+Per ricevere gli aggiornamenti automatici di un rapporto di base o per condividerli, puoi abbonarti a un rapporto qualsiasi indirizzo e-mail.
 
 >[!NOTE]
 >
->Per le sottoscrizioni di report di Esplora ricavi, vedere [Iscrizione a un report di Esplora ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Per gli abbonamenti ai rapporti di Esplora ricavi, vedi [Abbonati a un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Andate all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Iscrizioni**.
+1. Seleziona il rapporto dalla struttura di navigazione e fai clic sul pulsante **Abbonamenti** scheda .
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Potete inoltre iscrivervi ai rapporti dalla scheda **Analytics**.
+   >Puoi anche abbonarti ai rapporti dal **Analytics** scheda .
 
-1. Fare clic su **Nuova sottoscrizione report**.
+1. Fai clic su **Nuova sottoscrizione report**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
-1. Inserite gli indirizzi e-mail e impostate la frequenza delle e-mail del rapporto.
+1. Inserisci gli indirizzi e-mail e imposta la frequenza delle e-mail del rapporto.
 
    ![](assets/image2014-9-16-10-3a32-3a31.png)
 
    >[!NOTE]
    >
-   >Chiunque può annullare l’iscrizione nel messaggio e-mail ricevuto.
+   >Chiunque può annullare l’iscrizione al rapporto nell’e-mail che riceve.
 
-   È tutto! Controlla la tua inbox!
+   Tutto qui! Controlla la tua casella in entrata!
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]
    >
-   >Scopri come [gestire tutte le iscrizioni per report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un&#39;unica posizione.
+   >Scopri come [gestisci tutti gli abbonamenti ai rapporti](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un posto.

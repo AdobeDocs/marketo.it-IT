@@ -3,7 +3,6 @@ unique-page-id: 1146976
 description: Utilizzare una data specifica in un passaggio del flusso di attesa - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare una data specifica in un passaggio del flusso di attesa
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # Utilizzare una data specifica in un passaggio del flusso di attesa {#use-a-specific-date-in-a-wait-flow-step}
 
-Puoi utilizzare il passaggio di flusso **Wait** per mettere in pausa il percorso di una persona attraverso una campagna intelligente fino a una data specifica.
+È possibile utilizzare **Wait** passaggio di flusso per mettere in pausa il percorso di una persona attraverso una campagna intelligente fino a una data specifica.
 
-1. Nella scheda **Flusso** della campagna intelligente, trascina il passaggio del passaggio di flusso **Attendi**.
+1. Nella tua campagna intelligente **Flusso** , trascina **Wait** passaggio di flusso.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
@@ -23,7 +22,7 @@ Puoi utilizzare il passaggio di flusso **Wait** per mettere in pausa il percorso
 
    ![](assets/image2014-9-22-11-3a50-3a59.png)
 
-1. Dal menu a discesa **Tipo**, selezionare **Data**.
+1. Da **Tipo** a discesa, seleziona **Data**.
 
    ![](assets/image2014-9-22-11-3a51-3a27.png)
 
@@ -31,7 +30,7 @@ Puoi utilizzare il passaggio di flusso **Wait** per mettere in pausa il percorso
 
    ![](assets/image2014-9-22-11-3a51-3a20.png)
 
-1. Specifica l&#39;ora (facoltativa) e fai clic su **Salva**.
+1. Specifica l’ora (facoltativa) e fai clic su **Salva**.
 
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 3D {#template-3d}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 

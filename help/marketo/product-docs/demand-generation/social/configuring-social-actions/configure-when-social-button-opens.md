@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2950551
-description: Configura all'apertura del pulsante Social - Documenti Marketo - Documentazione prodotto
+description: Configurare Quando Si Apre Il Pulsante Social - Documentazione Marketo - Documentazione del prodotto
 title: Configura all'apertura del pulsante Social
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
+# Configura all&#39;apertura del pulsante Social {#configure-when-social-button-opens}
 
-# Configura quando il pulsante Social apre {#configure-when-social-button-opens}
+Quando crei una [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), puoi configurare quando il pulsante presenta il prompt di condivisione.
 
-Quando create un [pulsante sociale](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), potete configurare quando il pulsante presenta il prompt di condivisione.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/ma-3.png)
 
-1. Selezionate l&#39;app e fate clic su **Modifica bozza**.
+1. Seleziona l’app e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-22-16-3a35-3a50.png)
 
-1. Nell&#39;editor delle app per social network, andate a **Impostazioni app** > **Opzioni avanzate**.
+1. Nell’editor di app social, vai a **Impostazioni app** > **Opzioni avanzate**.
 
    ![](assets/image2014-9-22-16-3a36-3a6.png)
 
-1. Scegliete quando il pulsante Condividi presenta i prompt di condivisione.
+1. Scegli quando il pulsante di condivisione presenta i prompt di condivisione.
 
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
-   * **Al clic:** quando una persona fa clic sul pulsante per social network.
-   * **Al caricamento della pagina:** non appena la pagina di destinazione contenente il pulsante per social network viene caricata nel browser di una persona.
-   * **Al passaggio del mouse:** quando una persona passa il mouse sul pulsante del social network.
+   * **Al clic:** Quando una persona fa clic sul pulsante social.
+   * **Al caricamento della pagina:** Non appena la pagina di destinazione che contiene il pulsante social viene caricata nel browser di una persona.
+   * **Al passaggio del mouse:** Quando una persona passa il mouse sul pulsante social.
 
    >[!MORELIKETHIS]
    >
-   >Dopo che la persona ha condiviso, potete richiedere il suo indirizzo e-mail o presentare un messaggio di conferma. Scoprite come [configurare i prompt di post-condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+   >Dopo che la persona ha condiviso, puoi richiedere il suo indirizzo e-mail o presentare un messaggio di conferma. Scopri come [configurare i prompt dei comandi dopo la condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

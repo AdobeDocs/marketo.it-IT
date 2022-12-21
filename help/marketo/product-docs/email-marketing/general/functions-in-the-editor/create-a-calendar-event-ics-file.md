@@ -1,40 +1,39 @@
 ---
 unique-page-id: 1900563
-description: Creare un file evento calendario (.ics) - Documenti Marketo - Documentazione prodotto
+description: Creare un file evento calendario (.ics) - Documenti Marketo - Documentazione del prodotto
 title: Creare un file evento calendario (.ics)
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
 # Creare un file evento calendario (.ics) {#create-a-calendar-event-ics-file}
 
-Un token per file di calendario consente di aggiungere un collegamento evento di calendario (.ics) alle e-mail e alle pagine di destinazione di Marketo.
+Un token File calendario consente di aggiungere un collegamento evento calendario (.ics) alle e-mail e alle pagine di destinazione di Marketo.
 
-1. All&#39;interno del programma, passare alla scheda **My Tokens**.
+1. All&#39;interno del programma, vai a **Token personali** scheda .
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Trascinare un token **File calendario** nell&#39;area di lavoro.
+1. Trascina un **File di calendario** token nell&#39;area di lavoro.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Immettere un **nome token** e **Edit**.
+1. Inserisci un **Nome token** e **Modifica**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. Inserite i dettagli e fate clic su **Salva**.
+1. Immetti i dettagli e fai clic su **Salva**.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 
-Missione compiuta! Assicuratevi di testarlo.
+Missione compiuta! Assicurati di testarlo.
 
 >[!MORELIKETHIS]
 >
->* [Includi un evento del calendario (.ics) in un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->* [Includere un file ICS evento del calendario in una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+>* [Includere un evento calendario (.ics) in un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [Includere un file ICS evento calendario in una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
 

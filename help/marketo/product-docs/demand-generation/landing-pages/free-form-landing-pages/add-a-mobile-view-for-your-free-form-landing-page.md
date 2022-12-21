@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720856
-description: Aggiungere una visualizzazione Mobile per la pagina di destinazione in formato libero - Marketo Docs - Documentazione del prodotto
+description: Aggiungere una visualizzazione mobile per la pagina di destinazione in formato libero - Marketo Docs - Documentazione del prodotto
 title: Aggiungere una visualizzazione mobile per la pagina di destinazione in formato libero
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

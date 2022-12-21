@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12979010
-description: Panoramica sulle tendenze delle prestazioni - Documenti Marketo - Documentazione del prodotto
-title: Panoramica sulle tendenze di Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Panoramica delle tendenze di Performance Insights - Documenti Marketo - Documentazione del prodotto
+title: Panoramica delle tendenze di Performance Insights
+exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-
-# Panoramica sulle tendenze delle prestazioni {#performance-insights-trend-overview}
+# Panoramica delle tendenze di Performance Insights {#performance-insights-trend-overview}
 
 La tendenza mostra le prestazioni del canale in un periodo di tempo.
 
-Fare clic sulla scheda **Tendenza** per accedere a questa visualizzazione.
+Fai clic sul pulsante **Tendenza** per accedere a questa visualizzazione.
 
 ![](assets/1.png)
 
@@ -23,7 +22,7 @@ Fare clic sulla scheda **Tendenza** per accedere a questa visualizzazione.
 
 ![](assets/2-1.png)
 
-Selezionare la metrica per la quale si desidera visualizzare le prestazioni. In questo esempio vedremo le opportunità vinte tramite [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Seleziona la metrica in base alla quale desideri visualizzare le prestazioni. In questo esempio esamineremo le opportunità vinte tramite [Primo contatto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -31,7 +30,7 @@ Le metriche sono presentate tramite due grafici: ciambella e linea.
 
 ![](assets/4-1.png)
 
-Il grafico ad anello mostra i primi dieci canali per la metrica selezionata.
+Il grafico ad anello mostra i dieci canali principali per la metrica selezionata.
 
 ![](assets/5-2.png)
 
@@ -39,11 +38,11 @@ Il grafico a linee mostra la tendenza delle prestazioni del canale per la metric
 
 ![](assets/6-1.png)
 
-Selezionare uno o più canali e il grafico a linee mostra la tendenza dei canali. Fate di nuovo clic sui canali per deselezionare.
+Selezionare uno o più canali e il grafico a linee visualizza la tendenza del canale. Fai nuovamente clic sui canali per deselezionare.
 
 ![](assets/7.png)
 
-La griglia di dati sottostante funziona come un foglio di calcolo, che mostra tutti i dati di tendenza disponibili per la metrica selezionata per gli ultimi 12 mesi.
+La griglia di dati sottostante funziona come un foglio di calcolo, mostrando tutti i dati di tendenza disponibili per la metrica selezionata per gli ultimi 12 mesi.
 
 ![](assets/8.png)
 
@@ -53,4 +52,4 @@ Espandi un canale per visualizzare i primi dieci programmi, combinando i restant
 
 >[!NOTE]
 >
->Facendo clic sulla casella di controllo accanto a un canale, questo viene attivato o disattivato nel grafico ad anello.
+>Quando si fa clic sulla casella di controllo accanto a un canale, questo viene attivato o disattivato nel grafico ad anello.

@@ -1,7 +1,8 @@
 ---
 description: Limiti di utilizzo del prodotto - Documenti Marketo - Documentazione del prodotto
 title: Limiti di utilizzo del prodotto
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 13%
@@ -14,12 +15,12 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
 
 <table>
   <th>Funzionalità</th>
-  <th>Rate</th>
+  <th>Tariffa</th>
   <th>Limite</th>
  <tr>
   <td>Invio e-mail di vendita</td>
   <td>per utente/giorno</td>
-  <td>1.000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>E-mail di vendita in blocco</td>
@@ -29,7 +30,7 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
  <tr>
   <td>Modelli e-mail</td>
   <td>per istanza</td>
-  <td>2.000</td>
+  <td>2,000</td>
  </tr>
  <tr>
   <td>Categorie di modelli e-mail</td>

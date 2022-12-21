@@ -1,39 +1,38 @@
 ---
 unique-page-id: 14352509
-description: Glossario Campi Dinamici - Documenti Marketo - Documentazione prodotto
-title: Glossario campi dinamici
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Glossario dei campi dinamici - Documenti Marketo - Documentazione del prodotto
+title: Glossario dei campi dinamici
+exl-id: 28351ba9-53da-4408-9526-918200d9bd29
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
+# Glossario dei campi dinamici {#dynamic-fields-glossary}
 
-# Glossario campi dinamici {#dynamic-fields-glossary}
+Durante la creazione di un modello in Sales Connect, si consiglia sempre di integrare i campi dinamici, utilizzando **Campi dinamici MSE** pulsante .
 
-Durante la creazione di un modello in Sales Connect, si consiglia sempre di integrare i campi dinamici utilizzando il pulsante **Campi dinamici MSE**.
-
-Questo strumento è utilizzato per `auto-personalize your email` e risparmiare tonnellate di tempo per `pulling information from the People page`.
+Questo strumento viene utilizzato per `auto-personalize your email` e risparmiare tonnellate di tempo `pulling information from the People page`.
 
 | Campo dinamico | Esempio di ciò che viene visualizzato nel messaggio e-mail |
 |---|---|
 | `{{company}}` | Marketo |
 | `{{company_friendly}}` | Marketo |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Se non vuoi sentire di nuovo da me, per favore fatemelo sapere qui |
+| `{{friendly_unsubscribe}}` | Se non vuoi più sentire la mia voce, fammelo sapere qui |
 | `{{my_name}}` | Alan Bradley |
 | `{{personal_email}}` | keith@pickyouremail.com |
-| `{{title}}` | Responsabile tecnico |
+| `{{title}}` | Redattore tecnico senior |
 | `{{work_website}}` | https://www.marketo.com |
 
-**Elementi da notare**:
+**Cose da notare**:
 
-* Se le informazioni di un contatto sono inserite in modo errato o mancano nella pagina Persone, non verranno trascinate correttamente nel modello.
-* La differenza tra `{{company}}` e `{{company_friendly}}` è che `{{company_friendly}}` rimuoverà dal nome della società del contatto qualsiasi titolo formale, come Inc., LLC, ecc.
-* Quando si utilizza `{{company_friendly}}`, assicurarsi di separare Inc. o Co. con una virgola nei dettagli di contatto. Questo è il modo in cui Sales Connect sa cosa rimuovere quando estrae il valore.
+* Se le informazioni di un contatto vengono inserite in modo errato o sono mancanti dalla pagina Persone, non verranno trascinate correttamente nel modello.
+* La differenza tra `{{company}}` e `{{company_friendly}}` è `{{company_friendly}}` rimuoverà qualsiasi titolo formale, come Inc., LLC, ecc., dal nome dell&#39;azienda del contatto.
+* Quando utilizzi `{{company_friendly}}`, assicurati di separare Inc. o Co. con una virgola nei dettagli del contatto. Questo è il modo in cui Sales Connect sa cosa rimuovere quando si estrae il valore.
 
 >[!TIP]
 >
->È possibile creare un proprio [campo dinamico personalizzato](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) per qualsiasi elemento che si desidera inserire automaticamente nelle e-mail
+>Puoi crearne uno personalizzato [campo dinamico personalizzato](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) per tutto ciò che vorresti fosse inserito automaticamente nelle tue e-mail

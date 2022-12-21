@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2359488
-description: Rapporti e-mail di gruppo per segmenti - Documenti Marketo - Documentazione prodotto
-title: Raggruppa rapporti e-mail per segmenti
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Rapporti e-mail di gruppo per segmenti - Documenti Marketo - Documentazione del prodotto
+title: Raggruppare i rapporti e-mail per segmenti
+exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
+# Raggruppare i rapporti e-mail per segmenti {#group-email-reports-by-segmentations}
 
-# Rapporti e-mail per gruppo per segmenti {#group-email-reports-by-segmentations}
-
-Le segmentazioni non sono solo per contenuti dinamici. Potete anche raggruppare il rapporto sulle prestazioni delle e-mail in base alle segmentazioni.
+Le segmentazioni non sono solo per i contenuti dinamici. Puoi raggruppare anche il rapporto sulle prestazioni delle e-mail in base alle segmentazioni.
 
 >[!PREREQUISITES]
 >
 >[Approvare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
+1. Vai a **Attività di marketing** o **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Selezionare il report **Email Performance**.
+1. Seleziona la tua **Prestazioni e-mail** rapporto.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Fare clic sulla scheda **Configurazione** e trascinare su **Raggruppa per segmenti**.
+1. Fai clic sul pulsante **Configurazione** trascina **Raggruppamento per segmenti**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Scegliete uno o due segmenti da utilizzare per raggruppare il rapporto. Fare clic su **Applica**.
+1. Scegli una o due segmentazioni da utilizzare per raggruppare il rapporto. Fai clic su **Applica**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. È tutto! Fare clic sulla scheda **Report**. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
+1. Tutto qui! Fai clic sul pulsante **Rapporto** scheda . Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Se si utilizzano due segmentazioni, viene visualizzata una riga per ogni _combinazione_ di segmenti.
+1. Se utilizzi due segmentazioni, mostra una riga per ogni _combinazione_ di segmenti.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 

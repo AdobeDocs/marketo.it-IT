@@ -3,15 +3,14 @@ unique-page-id: 1147080
 description: Passaggio dei ricavi - Documentazione Marketo - Documentazione del prodotto
 title: Cambia fase ricavi
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Modifica fase ricavi {#change-revenue-stage}
+# Cambia fase ricavi {#change-revenue-stage}
 
 ## Panoramica {#overview}
 
@@ -21,11 +20,11 @@ Se utilizzi Modeler del ciclo dei ricavi e disponi di un modello approvato, puoi
 
 ## Utilizzo {#usage}
 
-1. Selezionare il **Modello**.
+1. Seleziona la **Modello**.
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Seleziona la **Nuova fase** da assegnare ed esegui l&#39;operazione.
+1. Seleziona la **Nuovo stadio** vuoi assegnare e hai finito!
 
    ![](assets/image2014-9-22-17-5-8.png)
 

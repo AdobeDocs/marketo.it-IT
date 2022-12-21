@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 19E {#template-19e}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 

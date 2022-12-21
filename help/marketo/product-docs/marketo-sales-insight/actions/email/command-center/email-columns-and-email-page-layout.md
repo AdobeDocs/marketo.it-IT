@@ -5,7 +5,7 @@ exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '513'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -54,7 +54,7 @@ Puoi configurare una qualsiasi delle colonne disponibili affinché sia visibile 
    <td>Mostra i gruppi a cui appartiene il destinatario e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Professione</td> 
+   <td><strong>Qualifica</td> 
    <td>Titolo del destinatario e-mail.</td> 
   </tr> 
   <tr> 

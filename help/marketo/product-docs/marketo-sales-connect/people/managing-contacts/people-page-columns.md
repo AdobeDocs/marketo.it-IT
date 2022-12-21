@@ -1,27 +1,26 @@
 ---
 unique-page-id: 30081307
-description: Colonne pagina Persone - Documenti Marketo - Documentazione prodotto
-title: Colonne pagina Persone
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Colonne delle pagine Persone - Documenti Marketo - Documentazione del prodotto
+title: Colonne della pagina Persone
+exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
+# Colonne della pagina Persone {#people-page-columns}
 
-# Colonne pagina Persone {#people-page-columns}
-
-È possibile personalizzare le informazioni di contatto visualizzate scegliendo le colonne visualizzate.
+Puoi personalizzare le informazioni di contatto visualizzate scegliendo quali colonne visualizzare.
 
 ## Come selezionare le colonne {#how-to-select-columns}
 
-1. Nella pagina Persone, fate clic sull’icona Impostazioni elenco.
+1. Nella pagina Persone, fai clic sull’icona Impostazioni elenco .
 
    ![](assets/one-5.png)
 
-1. Scorri e seleziona le colonne desiderate (puoi anche fare clic su **Seleziona tutto** se desideri ogni colonna). Al termine, fate clic fuori dall’elenco.
+1. Scorri e seleziona le colonne desiderate (puoi anche fare clic su **Seleziona tutto** se si desidera ogni colonna). Al termine, fai clic su fuori dall’elenco.
 
    ![](assets/two-4.png)
 
@@ -55,19 +54,19 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">Titolo (predefinito)</td> 
-   <td colspan="1">Titolo processo</td> 
+   <td colspan="1">Qualifica</td> 
   </tr> 
   <tr> 
-   <td>Company (predefinito)</td> 
+   <td>Società (predefinito)</td> 
    <td>Nome società</td> 
   </tr> 
   <tr> 
    <td>Campaign (predefinito)</td> 
-   <td>Campagna di vendita in cui è attualmente presente la persona</td> 
+   <td>Campagna di vendita in cui si trova attualmente la persona</td> 
   </tr> 
   <tr> 
    <td># Campagne</td> 
-   <td>Numero totale di campagne di vendita di cui la persona è stata parte</td> 
+   <td>Numero totale di campagne di vendita di cui la persona ha fatto parte</td> 
   </tr> 
   <tr> 
    <td>N. chiamate</td> 
@@ -79,27 +78,27 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>Data scadenza attività</td> 
-   <td>Data scadenza attività</td> 
+   <td>Data di scadenza del compito</td> 
   </tr> 
   <tr> 
    <td># Eventi (predefinito)</td> 
-   <td>Numero totale di eventi di coinvolgimento da parte della persona (visualizzazioni, clic e risposte)</td> 
+   <td>Numero totale di eventi di coinvolgimento per persona (visualizzazioni, clic e risposte)</td> 
   </tr> 
   <tr> 
-   <td># Activities (predefinito)</td> 
+   <td># Attività (predefinito)</td> 
    <td>Numero totale di attività eseguite dall’utente per questo lead (e-mail, chiamate e attività)</td> 
   </tr> 
   <tr> 
    <td>Consenso</td> 
-   <td><p>Interesse legittimo, esecuzione di un contratto, rispetto dell'obbligo giuridico, protezione degli interessi vitali, interesse pubblico/autorità ufficiale e altro</p></td> 
+   <td><p>Interesse legittimo, esecuzione di un contratto, rispetto degli obblighi legali, tutela degli interessi vitali, interesse pubblico/autorità ufficiale e altro</p></td> 
   </tr> 
   <tr> 
    <td>Apri attività</td> 
-   <td>Numero di attività aperte per la persona</td> 
+   <td>Numero di attività aperte per questa persona</td> 
   </tr> 
   <tr> 
    <td>N. visualizzazioni</td> 
-   <td>Numero totale di visualizzazioni da parte di questa persona</td> 
+   <td>Numero totale di visualizzazioni per persona</td> 
   </tr> 
   <tr> 
    <td>N. clic</td> 
@@ -107,7 +106,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>N. risposte</td> 
-   <td>Numero totale di risposte da parte di questa persona</td> 
+   <td>Numero totale di risposte della persona</td> 
   </tr> 
   <tr> 
    <td>Ultimo aggiornamento</td> 
@@ -118,15 +117,15 @@ ht-degree: 0%
    <td>Nome dell’utente che ha creato la persona</td> 
   </tr> 
   <tr> 
-   <td>Origine</td> 
-   <td>Origine di dove è stata creata la persona</td> 
+   <td>Fonte</td> 
+   <td>Origine da cui è stata creata la persona</td> 
   </tr> 
   <tr> 
    <td>Gruppi (predefinito)</td> 
    <td>Gruppi di cui la persona fa parte</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Annulla sottoscrizione</td> 
+   <td colspan="1">Annulla l'iscrizione</td> 
    <td colspan="1">Stato annullamento sottoscrizione vendite</td> 
   </tr> 
  </tbody> 

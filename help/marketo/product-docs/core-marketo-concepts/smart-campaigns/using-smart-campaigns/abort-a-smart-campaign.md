@@ -3,7 +3,6 @@ unique-page-id: 1147053
 description: Interrompere una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Interrompere una campagna avanzata
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
@@ -19,15 +18,15 @@ ht-degree: 0%
 
 A volte si lancia una campagna intelligente e immediatamente si rende conto che è stato un errore. Ecco come tirare il freno di emergenza e fermare la campagna intelligente a metà corsa.
 
-1. In **Attività di marketing**, seleziona la campagna avanzata e vai alla scheda **Pianificazione** .
+1. Sotto **Attività di marketing**, seleziona la campagna avanzata e vai alla pagina **Pianificazione** scheda .
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Fai clic sul menu a discesa **Azioni campagna** . Seleziona **Interrompi campagna**.
+1. Fai clic sul pulsante **Azioni campagna** a discesa. Seleziona **Interrompi campagna**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. Fai clic su **Interrompi** per confermare.
+1. Fai clic su **Interrompere** per confermare.
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
@@ -39,10 +38,10 @@ A volte si lancia una campagna intelligente e immediatamente si rende conto che 
 
    >[!NOTE]
    >
-   >Osserva la scheda **Risultati** della campagna intelligente per vedere quali azioni sono state eseguite prima dell’interruzione. Troverai anche una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
+   >Dai un&#39;occhiata al **Risultati** scheda della campagna intelligente per visualizzare le azioni eseguite prima dell’interruzione. Troverai anche un  [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
 
    >[!TIP]
    >
-   >Vuoi rimuovere una persona dal flusso in una campagna trigger? Estrai [Rimuovi da Flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Vuoi rimuovere una persona dal flusso in una campagna trigger? Consulta [Rimuovi da flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Controlla sempre il tuo lavoro, ma questo freno d&#39;emergenza potrebbe essere utile in futuro.

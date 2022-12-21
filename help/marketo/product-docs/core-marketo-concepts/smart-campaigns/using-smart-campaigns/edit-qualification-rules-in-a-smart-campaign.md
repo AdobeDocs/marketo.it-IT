@@ -3,7 +3,6 @@ unique-page-id: 1146974
 description: Modificare le regole di qualifica in una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Modificare le regole di qualifica in una campagna avanzata
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Le regole di qualificazione controllano quante volte qualcuno può eseguire il flusso in una campagna intelligente. Per impostazione predefinita, anche se un utente attiva una campagna intelligente più volte, questa verrà inviata attraverso il flusso solo una volta. Ecco come modificare queste impostazioni.
 
-1. Nella campagna avanzata, fai clic sulla scheda **Pianifica** , quindi su **Modifica impostazioni**.
+1. Nella campagna intelligente, fai clic su **Pianificazione** e quindi **Modifica impostazioni**.
 
    ![](assets/programeditsettings-hands.png)
 
@@ -23,7 +22,7 @@ Le regole di qualificazione controllano quante volte qualcuno può eseguire il f
    >
    >Puoi anche fare clic su **Modifica** a destra di &quot;Impostazioni di Smart Campaign&quot;.
 
-1. Scegli la frequenza con cui eseguire le tue persone attraverso il flusso di campagne intelligenti: **una sola volta**, **ogni volta** o **una volta ogni # giorni**/**settimane**/**mesi**.
+1. Scegli la frequenza con cui eseguire le tue persone attraverso il flusso di campagne intelligenti: **una volta**, **ogni volta** oppure **una volta ogni # giorni**/**settimane**/**mesi**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -33,7 +32,7 @@ Le regole di qualificazione controllano quante volte qualcuno può eseguire il f
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, i limiti di comunicazione non vengono applicati alle campagne avanzate. Scopri come [applicare i limiti di comunicazione a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >Per impostazione predefinita, i limiti di comunicazione non vengono applicati alle campagne avanzate. Scopri come [applicare limiti di comunicazione a una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >

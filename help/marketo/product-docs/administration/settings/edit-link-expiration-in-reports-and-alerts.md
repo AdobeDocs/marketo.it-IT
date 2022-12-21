@@ -5,7 +5,7 @@ title: Modifica scadenza collegamento in rapporti e avvisi
 exl-id: 9be08798-c413-451b-9b67-893042668061
 source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---

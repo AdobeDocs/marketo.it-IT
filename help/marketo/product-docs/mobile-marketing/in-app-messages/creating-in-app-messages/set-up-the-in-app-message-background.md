@@ -1,77 +1,76 @@
 ---
 unique-page-id: 10100649
-description: Impostazione dello sfondo dei messaggi in-app - Documenti Marketo - Documentazione del prodotto
+description: Configurare lo sfondo del messaggio in-app - Documenti Marketo - Documentazione del prodotto
 title: Configurare lo sfondo del messaggio in-app
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
+# Configurare lo sfondo del messaggio in-app {#set-up-the-in-app-message-background}
 
-# Impostazione dello sfondo dei messaggi in-app {#set-up-the-in-app-message-background}
-
-La selezione dello sfondo di un messaggio è un passo importante per completare il messaggio in-app.
+La selezione dello sfondo di un messaggio è un passaggio importante per completare il messaggio in-app.
 
 >[!TIP]
 >
->Per le immagini di sfondo, le texture e le sfumature funzionano meglio.
+>Per le immagini di sfondo, le texture e le sfumature funzionano generalmente meglio.
 
-1. Nell’editor, fate clic sull’area di sfondo.
+1. Nell’editor, fai clic sull’area di sfondo.
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Per impostare un colore, fare clic su **Colore**, quindi sul quadrato di selezione del colore. Selezionate il colore facendo clic su di esso o immettendo i codici esadecimali o RGB nel selettore colore.
+1. Per impostare un colore, fai clic su **Colore**, quindi il quadrato di selezione del colore. Selezionare il colore facendo clic su di esso o immettendo i codici esadecimale o RGB sul selettore colore.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
    >[!NOTE]
    >
-   >Bianco semplice, il valore predefinito, è in genere un vincitore.
+   >Il bianco normale, il valore predefinito, è in genere un vincitore.
 
-1. Se si desidera utilizzare uno sfondo, fare clic su **Immagine**, quindi sul collegamento **Seleziona immagine**.
+1. Se desideri utilizzare uno sfondo, fai clic su **Immagine** e poi **Seleziona immagine** link.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Scegliete tra i file caricati in Design Studio. Fare clic su **Seleziona**.
+1. Scegli tra i file caricati in Design Studio. Fai clic su **Seleziona**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
    >[!NOTE]
    >
-   >Le dimensioni delle immagini sono limitate a 1440 x 2560 px e 5 MB.
+   >Le dimensioni dell&#39;immagine sono limitate a 1440 x 2560 px e 5 MB.
 
 1. Valuta i risultati. Oops-forse un colore normale, texture o sfumatura funzionerà meglio!
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Consente di applicare un bordo immagine facoltativo. L&#39;impostazione predefinita è **Off**. Innanzitutto, selezionate il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB nel selettore colore.
+1. Applicare un bordo immagine facoltativo. L&#39;impostazione predefinita è **Disattivato**. Per prima cosa, selezionare il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB sul selettore colore.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
-1. Fare clic sulle frecce per variare la larghezza del bordo. Questo bordo verde di 12 pixel modifica l&#39;aspetto del messaggio in-app.
+1. Fare clic sulle frecce per variare la larghezza del bordo. Questo bordo verde largo 12 pixel modifica l’aspetto del messaggio in-app.
 
    ![](assets/image2016-5-9-9-3a58-3a38.png)
 
-1. Selezionate il raggio di un angolo utilizzando il cursore. Selezionate una posizione da sinistra a destra: 0, 4, 8, 12 o 16 pixel. La selezione predefinita è 8 pixel (al centro).
+1. Selezionate un raggio d&#39;angolo utilizzando il cursore. Selezionare una posizione da sinistra a destra: 0, 4, 8, 12 o 16 pixel. La selezione predefinita è 8 pixel (al centro).
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Selezionare la casella per impostare l&#39;azione del tocco in background (disattivata per impostazione predefinita).
+1. Seleziona la casella per impostare l’azione di tocco in background (disattivata per impostazione predefinita).
 
    ![](assets/image2016-5-9-10-3a6-3a10.png)
 
    >[!NOTE]
    >
-   >Per le azioni di tocco per gli sfondi, potete impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita oppure selezionare **None**.
+   >Per le azioni di tocco per gli sfondi, puoi impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all’altra, puoi lasciare l’altra nell’impostazione predefinita oppure selezionare **Nessuno**.
 
-   Per completare il processo, l&#39;ultimo passaggio è [impostare il pulsante Dismiss](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Per completare il lavoro, l&#39;ultimo passo è quello di [impostare il pulsante Ignora](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
    >* [Informazioni sui messaggi in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >* [Invio di un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Inviare un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
    >* [Scegliere un layout per il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 

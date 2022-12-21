@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 13%
+ht-degree: 17%
 
 ---
 
@@ -29,7 +29,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     </tr>
     <tr>
       <td>Data creazione Microsoft</td>
-      <td>Creato il</td>
+      <td>Creato in data</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -55,17 +55,17 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>indirizzo e-mail1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>Professione</td>
-      <td>Titolo del processo</td>
+      <td>Qualifica</td>
+      <td>Qualifica</td>
       <td>jobtitle</td>
     </tr>
     <tr>
       <td>Telefono</td>
       <td>Telefono ufficio</td>
-      <td>telefono1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobile</td>
@@ -165,7 +165,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     <tr>
       <td>Telefono abitazione Microsoft</td>
       <td>Telefono abitazione</td>
-      <td>telefono2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Metodo Di Contatto Preferito Di Microsoft</td>
@@ -199,7 +199,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     </tr>
     <tr>
       <td>Azienda</td>
-      <td>Nome dell'azienda</td>
+      <td>Nome azienda</td>
       <td>nome azienda</td>
     </tr>
     <tr>
@@ -269,7 +269,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>Data creazione Microsoft</td>
-      <td>Creato il</td>
+      <td>Creato in data</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -295,17 +295,17 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>indirizzo e-mail1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>Professione</td>
-      <td>Professione</td>
+      <td>Qualifica</td>
+      <td>Qualifica</td>
       <td>jobtitle</td>
     </tr>
     <tr>
       <td>Telefono</td>
       <td>Telefono ufficio</td>
-      <td>telefono1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobile</td>
@@ -375,7 +375,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Telefono abitazione Microsoft</td>
       <td>Telefono abitazione</td>
-      <td>telefono2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Metodo Di Contatto Preferito Di Microsoft</td>
@@ -467,7 +467,7 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>gencustomerid</td>
-      <td>Nome dell'azienda</td>
+      <td>Nome azienda</td>
     </tr>
   </tbody>
 </table>
@@ -524,7 +524,7 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Numero di telefono</td>
       <td>Numero di telefono</td>
-      <td>telefono1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Tipo di business</td>
@@ -632,8 +632,8 @@ I campi Account di seguito sono sincronizzati per uso interno.
       <td>probabilità di chiusura</td>
     </tr>
     <tr>
-      <td>Stage</td>
-      <td>status</td>
+      <td>Fase</td>
+      <td>stato</td>
       <td>codice di stato</td>
     </tr>
     <tr>

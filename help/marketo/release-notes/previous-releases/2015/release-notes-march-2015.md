@@ -26,7 +26,7 @@ Mostra le attività di marketing del tuo team con la nuova modalità di presenta
 
 ## Integrazione di Google Adwords {#google-adwords-integration}
 
-Collega l&#39;account [Google AdWords a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall’interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di ricavo desideri monitorare).
+Collega [Account Google AdWords in Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall’interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di ricavo desideri monitorare).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -38,18 +38,18 @@ Revenue Explorer ha un look e un tocco nuovi, così come il nuovo tipo di grafic
 
 [Nuove API REST per le risorse](https://developers.marketo.com/)
 
-È ora disponibile il supporto per la creazione e la modifica di e-mail, modelli, token, file e snippet [tramite API](https://developers.marketo.com/documentation/asset-api)!
+Ora è disponibile il supporto per la creazione e la modifica di e-mail, modelli, token, file e snippet [tramite API](https://developers.marketo.com/documentation/asset-api)!
 
-## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics 2015 on-premise {#microsoft-dynamics-on-premise}
 
-Supportato con l&#39;ultimo programma di installazione ora [accessibile tramite l&#39;app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Supportato con l&#39;ultimo programma di installazione [accessibile tramite l’app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - Web Engagement personalizzato con dati lead {#rtp-personalized-web-engagement-with-lead-data}
 
-Utilizza i [campi dati lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) disponibili nel database lead di Marketo per creare segmentazione in tempo reale e campagne di contenuto personalizzato. Gestisci i campi dei dati lead in RTP e aggiungi/elimina i campi pertinenti per i lead.
+Sfruttare [campi dati lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) nel database lead di Marketo puoi creare segmentazione in tempo reale e campagne di contenuti personalizzati. Gestisci i campi dei dati lead in RTP e aggiungi/elimina i campi pertinenti per i lead.
 
 ## RTP - Personalizzare il contenuto web per e-mail o nome della campagna del programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Continua la conversazione con il tuo lead tra canali diversi, dalle e-mail al web. [Personalizza il contenuto in entrata in base alla campagna e-mail o al nome del ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) programma utilizzato nelle attività di marketing di Marketo.
+Continua la conversazione con il tuo lead tra canali diversi, dalle e-mail al web. [Personalizzare il contenuto in entrata in base alla campagna o al programma e-mail](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nome utilizzato nelle attività di marketing di Marketo.

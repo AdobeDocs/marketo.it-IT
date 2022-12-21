@@ -1,56 +1,55 @@
 ---
 unique-page-id: 11370892
-description: Test Facebook Lead Ads for Desktop Integration with Marketo - Marketo Docs - Documentazione prodotto
-title: Test degli annunci lead Facebook per l'integrazione desktop con Marketo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Test Facebook Lead Ads per l'integrazione desktop con Marketo - Documenti Marketo - Documentazione del prodotto
+title: Test degli annunci lead Facebook per l’integrazione desktop con Marketo
+exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-
-# Test degli annunci lead Facebook per l&#39;integrazione desktop con Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Test degli annunci lead Facebook per l’integrazione desktop con Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 Dopo aver creato il tuo annuncio lead, devi testarlo! Ecco come farlo sul desktop.
 
 >[!PREREQUISITES]
 >
->È necessario [configurare l&#39;integrazione degli annunci lead di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Devi [Configurare l’integrazione di Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. In Facebook Power Editor, selezionare una campagna, un annuncio, quindi fare clic su **Edit**.
+1. In Facebook Power Editor, selezionare una campagna, un annuncio e fare clic su **Modifica**.
 
-1. In **Links** fare clic sul collegamento **Visualizza in News Feed**.
+1. Sotto **Collegamenti**, fai clic su **Visualizza in News Feed** link.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
-1. Verrai indirizzato a Facebook in una nuova scheda del browser. Fai clic su Invito all’azione nell’unità Annuncio lead di Facebook.
+1. Verrai indirizzato a Facebook in una nuova scheda nel browser. Fai clic su Invito all’azione nell’unità Facebook Lead Ad .
 
    ![](assets/image2016-5-13-14-3a42-3a45.png)
 
    >[!NOTE]
    >
-   >Questo è solo un esempio, che utilizza un&#39;azione Ulteriori informazioni sulla chiamata all&#39;azione. La chiamata all&#39;azione dell&#39;unità di annuncio principale potrebbe essere diversa.
+   >Questo è solo un esempio, che utilizza un invito all&#39;azione per saperne di più. L’invito all’azione dell’unità annunci lead potrebbe essere diverso.
 
-1. Inviate l&#39;unità di test Lead Ad compilando il modulo sul desktop. Fare clic su **Invia**.
+1. Invia l’unità lead di test compilando il modulo sul desktop. Fai clic su **Invia**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
-1. Congratulazioni. È sufficiente inviare il modulo Annuncio lead.
+1. Congratulazioni. Hai finito di inviare il modulo Annuncio lead.
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [creare un elenco smart in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) nell&#39;ambito di un programma o nel database che utilizza il filtro Modulo lead per annunci Facebook compilati. Inserite il nome del modulo lead per il modulo appena inviato.
+1. Ecco dove avviene la magia! Dopo aver inviato il modulo, [creare un elenco smart in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) come parte di un programma o nel database che utilizza il filtro Modulo lead annunci Facebook compilato. Inserire il nome del modulo lead annuncio del modulo appena inviato.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Ora fate clic sulla scheda **Persone** per verificare il corretto funzionamento della sincronizzazione.
+1. Ora fai clic su **Persone** per verificare che la sincronizzazione funzioni correttamente.
 
    ![](assets/people.png)
 
-   È figo o cosa?
+   È fantastico o cosa?
 
 >[!MORELIKETHIS]
 >
->[Impostazione Di Annunci Lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Imposta annunci lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

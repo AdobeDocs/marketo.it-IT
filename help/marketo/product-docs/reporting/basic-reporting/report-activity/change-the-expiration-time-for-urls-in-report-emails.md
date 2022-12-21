@@ -1,38 +1,37 @@
 ---
 unique-page-id: 2360032
-description: Modifica del tempo di scadenza per gli URL nelle e-mail dei rapporti - Documenti Marketo - Documentazione del prodotto
-title: Modifica dell’ora di scadenza per gli URL nelle e-mail dei rapporti
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Modifica del tempo di scadenza per gli URL nelle e-mail dei rapporti - Marketo Docs - Documentazione del prodotto
+title: Modifica del tempo di scadenza per gli URL nelle e-mail dei rapporti
+exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Modificare il tempo di scadenza per gli URL nelle e-mail dei rapporti {#change-the-expiration-time-for-urls-in-report-emails}
+# Modifica del tempo di scadenza per gli URL nelle e-mail dei rapporti {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-I collegamenti nelle e-mail di iscrizione al rapporto scadono dopo tre giorni. Per modificare l&#39;ora di scadenza di questi collegamenti, attenetevi alla seguente procedura.
+I collegamenti nelle e-mail di abbonamento ai rapporti scadono dopo tre giorni. Per modificare il tempo di scadenza di questi collegamenti, segui questi passaggi.
 
-1. In **Admin**, fare clic su **Impostazioni di accesso**.
+1. Sotto **Amministratore**, fai clic su **Impostazioni di accesso**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Fare clic sul pulsante **Modifica scadenza URL**.
+1. Fai clic sul pulsante **Modifica scadenza URL** pulsante .
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Dal menu a discesa, scegliete quanti giorni prima della scadenza del collegamento. Fare clic su **Salva**.
+1. Seleziona dal menu a discesa il numero di giorni prima della scadenza del collegamento. Fai clic su **Salva**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
-   È stato corretto modificare le impostazioni di scadenza del collegamento e-mail.
+   Freddo, hai modificato le impostazioni di scadenza del collegamento e-mail.
 
    >[!NOTE]
    >
-   >Ricorda che questi criteri si applicano solo ai collegamenti in rapporti e avvisi, non alle e-mail di marketing.
+   >Ricorda che questi si applicano solo ai collegamenti nei rapporti e negli avvisi, non alle e-mail di marketing.

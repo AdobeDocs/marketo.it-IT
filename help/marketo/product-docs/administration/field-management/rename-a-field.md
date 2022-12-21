@@ -3,7 +3,6 @@ unique-page-id: 2360293
 description: Rinomina un campo - Documentazione Marketo - Documentazione del prodotto
 title: Rinomina un campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -21,7 +20,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad Amministratore e fai clic su **Gestione campi**.
+1. Vai ad Amministratore e fai clic su **Gestione dei campi**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -29,7 +28,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Fai clic sul collegamento **Utilizzato da** per trovare le risorse che fanno riferimento a questo campo.
+   >Fai clic sul pulsante **Utilizzato da** collegamento per trovare le risorse che fanno riferimento a questo campo.
 
    ![](assets/changefieldname.png)
 

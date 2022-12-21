@@ -60,7 +60,7 @@ Se disponi di più abbonamenti, puoi avere più profili di community. È consigl
 
 ## Piattaforma mobile {#mobile-platform}
 
-Gli utenti con ID universale possono visualizzare i propri dati su Marketo Moments e sull’applicazione di check-in degli eventi per iPad dall’abbonamento a cui hanno effettuato l’ultimo accesso. Non è possibile modificare gli abbonamenti dalla piattaforma Mobile stessa.
+Gli utenti con ID universale possono visualizzare i propri dati sui Momenti Marketo e l’applicazione di check-in degli eventi iPad dall’abbonamento a cui hanno effettuato l’ultimo accesso. Non è possibile modificare gli abbonamenti dalla piattaforma Mobile stessa.
 
 >[!MORELIKETHIS]
 >

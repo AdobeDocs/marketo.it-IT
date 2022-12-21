@@ -1,31 +1,30 @@
 ---
 unique-page-id: 7515266
-description: Creare una pagina di destinazione guidata - Marketo Docs - Documentazione prodotto
+description: Creare una pagina di destinazione guidata - Documenti Marketo - Documentazione del prodotto
 title: Creare una pagina di destinazione guidata
-translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-
 # Creare una pagina di destinazione guidata {#create-a-guided-landing-page}
 
 >[!NOTE]
 >
->Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagina di destinazione guidati e a forma libera.
+>Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori informazioni](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagine di destinazione guidati e in formato libero.
 
 >[!PREREQUISITES]
 >
->Per utilizzare un modello personalizzato, è innanzitutto necessario [creare un modello di pagina di destinazione guidato](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>Per utilizzare un modello personalizzato, devi prima [creare un modello di pagina di destinazione guidato](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 ## Creare una pagina di destinazione guidata in un programma {#create-a-guided-landing-page-in-a-program}
 
-Le pagine di destinazione guidate possono essere create come risorse locali di un programma o in Design Studio da utilizzare a livello globale.
+Le pagine di destinazione guidate possono essere create come risorse locali di un programma o in Design Studio e utilizzate a livello globale.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/one-1.png)
 
@@ -33,19 +32,19 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Fare clic sul menu a discesa **Nuovo**. Selezionare **Nuova risorsa locale**.
+1. Fai clic sul pulsante **Nuovo** a discesa. Seleziona **Nuova risorsa locale**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Selezionare **Pagina di destinazione**.
+1. Seleziona **Pagina di destinazione**.
 
    ![](assets/four.png)
 
-1. Denominate la pagina di destinazione. Fare clic sul menu a discesa **Modello** e selezionare **Modello guidato**.
+1. Denomina la pagina di destinazione. Fai clic sul pulsante **Modello** a discesa e seleziona **Modello guidato**.
 
    >[!NOTE]
    >
-   >Accanto ai modelli delle pagine di destinazione guidate è presente l&#39;icona ![—](assets/image2015-5-26-9-3a26-3a51.png). I modelli guidati sono strutturati in modo che possano rimanere pienamente reattivi.
+   >I modelli delle pagine di destinazione guidati hanno ![—](assets/image2015-5-26-9-3a26-3a51.png) accanto a loro. I modelli guidati sono strutturati in modo che possano rimanere pienamente reattivi.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,20 +54,20 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/six.png)
 
-1. Fare clic sul menu a discesa **Nuovo**. Selezionare **Nuova pagina di destinazione**.
+1. Fai clic sul pulsante **Nuovo** a discesa. Seleziona **Nuova pagina di destinazione**.
 
    ![](assets/seven.png)
 
-1. Denominate la pagina di destinazione. Fare clic sul menu a discesa **Modello** e selezionare **Modello guidato**.
+1. Denomina la pagina di destinazione. Fai clic sul pulsante **Modello** a discesa e seleziona **Modello guidato**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Fare clic su **Crea**.
+1. Fai clic su **Crea**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->L&#39;URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **URL pagina**.
+>L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l’URL, modifica la variabile **URL della pagina** campo .
 >
->Deselezionare la casella **Apri nell&#39;editor** se non si desidera che l&#39;editor si apra immediatamente dopo aver fatto clic su **Crea**.
+>Elimina **Apri in editor** se non desideri che l’editor si apra immediatamente dopo aver fatto clic su **Crea**.

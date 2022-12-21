@@ -1,34 +1,33 @@
 ---
 unique-page-id: 14352537
-description: Come tenere traccia degli allegati e-mail - Documenti Marketo - Documentazione prodotto
+description: Come tenere traccia degli allegati e-mail - Documenti Marketo - Documentazione del prodotto
 title: Come tenere traccia degli allegati e-mail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-
 # Come tenere traccia degli allegati e-mail {#how-to-track-your-email-attachments}
 
-I servizi di vendita Connect consentono di tenere traccia degli allegati (.doc, .ppt, .pdf) per vedere quando sono stati aperti o scaricati e vedere le pagine che il destinatario sta cercando. Vi consentiremo di utilizzare la nostra funzione di allegati tracciabili sia dall&#39; [applicazione Web](https://toutapp.com/login) che da Gmail (o da Google Apps).
+Sales Connect offre il tracciamento dei tuoi allegati (.doc, .ppt, .pdf) in modo da poter vedere quando sono stati aperti/scaricati e vedere quali pagine il destinatario sta guardando. Ti permetteremo di utilizzare la nostra funzione di allegati tracciabili da entrambi i [applicazione web](https://toutapp.com/login) e Gmail (o app Google).
 
 >[!NOTE]
 >
->Il tracciamento degli allegati è disponibile solo per i piani del nostro team (a partire dal nostro piano di avvio g3start).
+>Il tracciamento degli allegati è disponibile solo per i piani del nostro team (a partire dal nostro piano di avvio g3).
 
-## Come inviare il primo allegato tracciabile {#how-to-send-your-first-trackable-attachment}
+## Come inviare il tuo primo allegato rintracciabile {#how-to-send-your-first-trackable-attachment}
 
-1. Componi un&#39;e-mail o modifica un modello, quindi fai clic sul pulsante **Content**.
+1. Componi un messaggio e-mail o modifica un modello, quindi fai clic sul pulsante **Contenuto** pulsante .
 
-1. Caricate l&#39;allegato e inviatelo. Supportiamo PDF, documenti Word e presentazioni PowerPoint.
+1. Carica l&#39;allegato e invialo. Supportiamo PDF, documenti Word e presentazioni Powerpoint.
 
-1. Selezionare **Aggiungi a e-mail**.
+1. Seleziona **Aggiungi a e-mail**.
 
-1. Fare clic su **Invia** e attivare il feed dal vivo. I destinatari verranno visualizzati all&#39;apertura e alla pagina degli allegati.
+1. Fai clic su **Invia** e attiva il tuo Live Feed. Visualizzerai i destinatari quando si aprono e sfogliano gli allegati.
 
    >[!TIP]
    >
-   >Se non si desidera tenere traccia di un allegato, fare clic su **Allega file** e l&#39;allegato non verrà monitorato.
+   >Se non desideri tenere traccia di un allegato, fai clic su **Allega file** e questo allegato non verrà tracciato.

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359861
-description: Consulta i membri di un programma di coinvolgimento - Documenti Marketo - Documentazione del prodotto
+description: Consulta i membri di un programma di coinvolgimento - Marketo Docs - Documentazione del prodotto
 title: Vedere i membri di un programma di coinvolgimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-
-# Vedere Membri di un programma di coinvolgimento {#see-members-of-an-engagement-program}
+# Vedere i membri di un programma di coinvolgimento {#see-members-of-an-engagement-program}
 
 Puoi vedere rapidamente i membri di un programma di coinvolgimento. Ecco come.
 
@@ -21,8 +20,8 @@ Puoi vedere rapidamente i membri di un programma di coinvolgimento. Ecco come.
 
    >[!NOTE]
    >
-   >Il valore della colonna [Contenuto con esaurimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) viene aggiornato dopo ogni cast.
+   >La  [Contenuto esaurito](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) il valore della colonna viene aggiornato dopo ogni cast.
 
-1. È ora possibile visualizzare tutti i membri del programma.
+1. Ora è possibile visualizzare tutti i membri del programma.
 
    ![](assets/image2014-9-15-17-3a17-3a26.png)

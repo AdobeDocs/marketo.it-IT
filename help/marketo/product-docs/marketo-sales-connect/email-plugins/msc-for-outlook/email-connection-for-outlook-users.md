@@ -1,17 +1,16 @@
 ---
 unique-page-id: 17727591
-description: Connessione e-mail per gli utenti di Outlook - Documenti Marketo - Documentazione del prodotto
+description: Connessione e-mail per utenti di Outlook - Documentazione di Marketo - Documentazione del prodotto
 title: Connessione e-mail per utenti di Outlook
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+exl-id: e694915c-39a6-4476-a643-080acb758de7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-
-# Connessione e-mail per gli utenti di Outlook {#email-connection-for-outlook-users}
+# Connessione e-mail per utenti di Outlook {#email-connection-for-outlook-users}
 
 Scopri come collegare il tuo account di vendita Connect con Outlook.
 
@@ -31,19 +30,19 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&
 
    ![](assets/two.png)
 
-1. Fare clic sulla scheda **Connessione e-mail**.
+1. Fai clic sul pulsante **Connessione e-mail** scheda .
 
    ![](assets/three.png)
 
-1. Fare clic su **Introduzione**.
+1. Fai clic su **Introduzione**.
 
    ![](assets/four.png)
 
-1. Selezionare **Uso Outlook per inviare e-mail** e fare clic su **Avanti**.
+1. Seleziona **Utilizzo di Outlook per l&#39;invio di e-mail** e fai clic su **Successivo**.
 
    ![](assets/five-a.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Avanti**. In questo esempio stiamo scegliendo Outlook Online.
+1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio stiamo scegliendo Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -64,15 +63,15 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&
    >
    >Al momento, Marketo non supporta gli account Exchange Hybrid.
 
-1. Fare clic su **OK**.
+1. Fai clic su **OK**.
 
    ![](assets/seven-a.png)
 
-1. Se non hai effettuato l&#39;accesso a Outlook, immetti le informazioni di accesso e fai clic su **Avanti**. In questo caso, scegli l&#39;account a cui desideri connetterti e fai clic su **Avanti**. In questo esempio, abbiamo già effettuato l&#39;accesso.
+1. Se non hai effettuato l&#39;accesso a Outlook, immetti le informazioni di accesso e fai clic su **Successivo**. In caso affermativo, scegli l’account a cui desideri connetterti e fai clic su **Successivo**. In questo esempio, abbiamo già effettuato l&#39;accesso.
 
    ![](assets/eight-a.png)
 
-1. Fare clic su **Accetta**.
+1. Fai clic su **Accetta**.
 
    ![](assets/nine-a.png)
 
@@ -94,19 +93,19 @@ La connessione a Exchange On-Premise consente di ricevere il tracciamento delle 
 
    ![](assets/two.png)
 
-1. Fare clic sulla scheda **Connessione e-mail**.
+1. Fai clic sul pulsante **Connessione e-mail** scheda .
 
    ![](assets/three.png)
 
-1. Fare clic su **Introduzione**.
+1. Fai clic su **Introduzione**.
 
    ![](assets/four.png)
 
-1. Selezionare **Uso Outlook per inviare e-mail** e fare clic su **Avanti**.
+1. Seleziona **Utilizzo di Outlook per l&#39;invio di e-mail** e fai clic su **Successivo**.
 
    ![](assets/five-a.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Avanti**. In questo esempio scegliamo Exchange On-Premise.
+1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio scegliamo Exchange On-Premise.
 
    ![](assets/six-b.png)
 

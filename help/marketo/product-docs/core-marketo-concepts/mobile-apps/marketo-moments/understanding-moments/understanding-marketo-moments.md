@@ -3,7 +3,6 @@ unique-page-id: 8781845
 description: Informazioni sui momenti di Marketo - Documentazione Marketo - Documentazione del prodotto
 title: I momenti di Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
@@ -13,12 +12,12 @@ ht-degree: 0%
 
 # I momenti di Marketo {#understanding-marketo-moments}
 
-Il potere di Marketo è ora nelle vostre mani, letteralmente! Anteprima e riprogrammazione di e-mail direttamente dal telefono o dall’iPad.
+Il potere di Marketo è ora nelle vostre mani, letteralmente! Anteprima e riprogrammazione di e-mail direttamente dal telefono o da iPad.
 
 >[!AVAILABILITY]
 >
 >
->È richiesta l&#39;autorizzazione per l&#39;accesso alle app mobili. Contatta il tuo amministratore Marketo per [aggiornare il tuo ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>È richiesta l&#39;autorizzazione per l&#39;accesso alle app mobili. Contatta l’amministratore Marketo per [aggiorna il tuo ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Flussi {#streams}
 
@@ -38,25 +37,25 @@ Ecco i diversi flussi in Momenti.
 
 Ok, ora che abbiamo questo fuori strada, diamo un&#39;occhiata al Marketo Moments al telefono!
 
-## Tre tipi di schede {#three-kinds-of-cards}
+## Tre tipi di carte {#three-kinds-of-cards}
 
 Marketo Moments offre tre diverse schede per seguire l’avanzamento della tua e-mail:
 
-**On-deck**  - Questa e-mail sta per uscire. È la tua ultima possibilità di visualizzarlo in anteprima, inviare un campione o, se necessario, annullarlo.
+**On-deck** - Questa e-mail sta per essere inviata. È la tua ultima possibilità di visualizzarlo in anteprima, inviare un campione o, se necessario, annullarlo.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Heart-beat**  - Ehi - questa e-mail è stata consegnata ora! E ci sono anche statistiche. Vai avanti e condividilo.
+**Battito cardiaco** - Hey - Questa e-mail è stata consegnata ora! E ci sono anche statistiche. Vai avanti e condividilo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Risultati**  - Ecco come ha fatto l&#39;e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati viene visualizzato il punteggio di coinvolgimento e altre statistiche.
+**Risultati** - Ecco come ha fatto l&#39;e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati viene visualizzato il punteggio di coinvolgimento e altre statistiche.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
-## Flusso di momenti {#moments-stream}
+## Flusso dei momenti {#moments-stream}
 
-Quando apri l&#39;app o tocca **Momenti** nel menu, vengono visualizzate per prime le schede pertinenti. Ognuna contiene informazioni su questa specifica iniziativa di marketing e sulle sue prestazioni complessive.
+La prima volta che apri l’app o tocca **Momenti** nel menu vengono visualizzate per prime le schede pertinenti. Ognuna contiene informazioni su questa specifica iniziativa di marketing e sulle sue prestazioni complessive.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -115,7 +114,7 @@ Per gli eventi, verrà visualizzato il numero totale di membri e il relativo sta
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
-## Schede Analytics {#analytics-cards}
+## Schede di Analytics {#analytics-cards}
 
 Le schede Moment di Analytics mostrano le prestazioni mensili delle e-mail e degli eventi negli ultimi sei mesi, per:
 
@@ -131,13 +130,13 @@ Le schede smart per campagne rappresentano una singola esecuzione di una campagn
 
 ![](assets/image2015-9-23-11-3a0-3a54.png)
 
-## Conferma o Annulla un&#39;azione {#confirm-or-cancel-an-action}
+## Conferma o Annulla un’azione {#confirm-or-cancel-an-action}
 
-Per ogni passaggio, puoi confermare o annullare un’azione. Se cambi idea, basta toccare **Never Mind**.
+Per ogni passaggio, puoi confermare o annullare un’azione. Se cambi idea, tocca **Non importa**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Versioni supportate {#supported-versions}
+## Versioni supportate  {#supported-versions}
 
 Marketo Moments supporta le seguenti versioni del sistema operativo:
 

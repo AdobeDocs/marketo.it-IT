@@ -3,7 +3,6 @@ unique-page-id: 4720779
 description: Informazioni sulle cartelle - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle cartelle
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Cartelle {#understanding-folders}
+# Informazioni sulle cartelle {#understanding-folders}
 
-Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse avanzate. Sono diverse dalle [cartelle delle campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse avanzate. Sono diversi da [cartelle delle campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Creare una cartella {#create-a-folder}
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/ma.png)
 
-1. Fai clic con il pulsante destro del mouse su un programma e seleziona **Nuova cartella**.
+1. Fare clic con il pulsante destro del mouse su un programma e selezionare **Nuova cartella**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Denomina la nuova cartella e premi **Invio**.
+1. Assegna un nome alla nuova cartella e premi **Invio**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -70,7 +69,7 @@ Quando archivi una cartella:
 * I modelli archiviati non sono disponibili quando si crea un messaggio e-mail o una pagina di destinazione in Design Studio
 * Le pagine archiviate non possono essere utilizzate nei gruppi di test delle pagine di destinazione
 
-Funzionalità che **non** cambia durante l&#39;archiviazione:
+Funzionalità che **not** cambia durante l&#39;archiviazione:
 
 * La ricerca globale trova ancora i risultati in cartelle archiviate
 * Una risorsa in uso continuerà a funzionare anche dopo l’archiviazione

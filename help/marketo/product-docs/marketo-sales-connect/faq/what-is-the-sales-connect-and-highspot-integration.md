@@ -1,50 +1,49 @@
 ---
 unique-page-id: 14352553
-description: Cos'è l'integrazione di Sales Connect e Highspot? - Documenti Marketo - Documentazione del prodotto
-title: Cos'è l'integrazione di Sales Connect e Highspot?
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Qual è l'integrazione di Sales Connect e Highspot? - Documentazione Marketo - Documentazione del prodotto
+title: Qual è l'integrazione di Sales Connect e Highspot?
+exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
+# Qual è l&#39;integrazione di Sales Connect e Highspot? {#what-is-the-sales-connect-and-highspot-integration}
 
-# Cos&#39;è l&#39;integrazione di Sales Connect e Highspot? {#what-is-the-sales-connect-and-highspot-integration}
-
-Sales Connect supporta l&#39;integrazione con [Highspot](https://www.highspot.com/), un sistema di gestione dei contenuti. I clienti di Sales Connect che sono anche clienti di Highspot possono accedere al proprio contenuto Highspot dall&#39;applicazione Web.
+Sales Connect supporta l&#39;integrazione con [Highspot](https://www.highspot.com/), un sistema di gestione dei contenuti. Vendite I clienti che sono anche clienti Highspot possono accedere ai loro contenuti Highspot dall&#39;applicazione Web.
 
 ## Requisiti {#requirements}
 
-Per utilizzare l’integrazione di Sales Connect con Highspot, è necessario disporre dei seguenti elementi:
+Per utilizzare l&#39;integrazione di Sales Connect con Highspot, è necessario quanto segue:
 
-* **Browser - Ultime versioni di Chrome e Safari, Edge, IE o Firefox**
+* **Browser - Versioni più recenti di Chrome e Safari, Edge, IE o Firefox**
 
-Oltre a lavorare in Sales Connect in un browser, l&#39;integrazione Highspot è disponibile nel client di posta elettronica Outlook .Net. I requisiti sono i seguenti:
+Oltre a lavorare in Sales Connect in un browser, l&#39;integrazione Highspot è disponibile nel nostro client e-mail Outlook .Net. I requisiti sono i seguenti:
 
-* **Outlook .Net &amp; Exchange**  - Versione supportata di Outlook .Net, Exchange Online, Exchange 2016 di Connect
+* **Outlook .Net e Exchange** - Versione supportata di Outlook .Net, Exchange Online, Exchange 2016
 
 >[!NOTE]
 >
->L&#39;estensione Gmail di Adobe Connect per le vendite al momento non supporta l&#39;integrazione con Highspot
+>L&#39;estensione Sales Connect Gmail non supporta attualmente l&#39;integrazione Highspot
 
-## Abilitazione di Sales Connect e integrazione Highspot {#enabling-the-sales-connect-and-highspot-integration}
+## Abilitazione dell&#39;integrazione di Sales Connect e Highspot {#enabling-the-sales-connect-and-highspot-integration}
 
-Se sei interessato ad abilitare l&#39;integrazione con Highspot per il tuo team, contatta il [Supporto di Marketo](https://nation.marketo.com/t5/Support/ct-p/Support#).
+Se sei interessato ad abilitare l&#39;integrazione Highspot per il tuo team, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
 ## Come utilizzare l&#39;integrazione {#how-to-use-the-integration}
 
-Una volta attivato, ecco come accedere al contenuto Highspot in Sales Connect.
+Una volta attivato, ecco come accedere ai contenuti Highspot in Sales Connect.
 
-1. Durante la composizione di un&#39;e-mail in Sales Connect o Outlook, scegliete **Aggiungi contenuto**.
+1. Quando si compone un&#39;e-mail in Sales Connect o Outlook, scegliere **Aggiungi contenuto**.
 
-1. Selezionare **Highspot**.
+1. Seleziona **Highspot**.
 
-1. Inserite il messaggio e-mail dell&#39;account Highspot e fate clic su **Continue**.
+1. Inserisci il tuo account Highspot e-mail e fai clic su **Continua**.
 
-1. Inserite la password dell&#39;account Highspot e fate clic su **Accedi**.
+1. Immetti la password del tuo account Highspot e fai clic su **Accesso**.
 
-1. Selezionate il contenuto da Evidenziatore da inserire nell&#39;e-mail o nel modello e fate clic su **Aggiungi contenuto**.
+1. Seleziona il contenuto da Highspot da inserire nell’e-mail o nel modello e fai clic su **Aggiungi contenuto**.
 
 1. Il contenuto viene inserito nell’e-mail o nel modello.

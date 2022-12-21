@@ -5,7 +5,7 @@ exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
 source-wordcount: '636'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -49,13 +49,13 @@ Seguendo questi passaggi l’utente della sincronizzazione Marketo potrà aggior
 
 1. Ripeti il passaggio precedente per i campi seguenti:
 
-   * Città di riferimento
+   * Città in oggetto
    * Azienda in oggetto
    * Paese in oggetto
-   * Area metropolitana
-   * Codice di area del telefono
-   * Codice postale trasferito
-   * Regione dello Stato di provenienza
+   * oArea metropolitana in oggetto
+   * Prefisso telefonico in oggetto
+   * Codice postale in oggetto
+   * Stato in oggetto
 
    >[!NOTE]
    >

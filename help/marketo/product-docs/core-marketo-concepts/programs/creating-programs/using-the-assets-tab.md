@@ -3,7 +3,6 @@ unique-page-id: 1147124
 description: Utilizzo della scheda Risorse - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo della scheda Risorse
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
@@ -17,11 +16,11 @@ L’area di lavoro delle risorse è una rappresentazione visiva del programma. P
 
 ## Aggiunta di risorse {#adding-assets}
 
-Nell’area **Attività di marketing**, fai clic sulla scheda **Risorse** . Scegli una delle risorse seguenti e aggiungili al tuo programma.
+Da **Attività di marketing** fai clic sull’area **Risorse** scheda . Scegli una delle risorse seguenti e aggiungili al tuo programma.
 
 ![](assets/programassets.png)
 
-## Gestire il programma {#manage-your-program}
+## Gestione del programma  {#manage-your-program}
 
 Quando sono presenti risorse nel programma, queste vengono elencate qui.
 

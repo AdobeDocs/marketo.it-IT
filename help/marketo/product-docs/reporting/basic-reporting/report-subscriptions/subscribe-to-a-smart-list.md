@@ -1,74 +1,73 @@
 ---
 unique-page-id: 7505310
-description: Iscriviti a un Smart List - Marketo Docs - Documentazione prodotto
-title: Iscriviti a un Smart List
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Iscriviti a un elenco avanzato - Documenti Marketo - Documentazione del prodotto
+title: Iscriviti a un elenco avanzato
+exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
+# Iscriviti a un elenco avanzato {#subscribe-to-a-smart-list}
 
-# Iscriviti a un Smart List {#subscribe-to-a-smart-list}
+Iscriversi a elenchi smart è un ottimo modo per tenere traccia delle persone, con i rapporti inviati direttamente alla tua casella in entrata.
 
-La sottoscrizione a smart list è un ottimo modo per tenere traccia delle persone, con i rapporti inviati direttamente alla casella in entrata.
-
-Potete creare un’iscrizione a un elenco smart in due posizioni distinte:
+Puoi creare una sottoscrizione a un elenco smart in due posizioni distinte:
 
 * Attività di marketing
 * Database
 
-Le iscrizioni utilizzano l&#39;elenco completo delle persone al momento dell&#39;esecuzione dell&#39;iscrizione.
+Gli abbonamenti utilizzano l’elenco completo delle persone al momento dell’esecuzione dell’abbonamento.
 
-Le iscrizioni sono live dove vive l&#39;elenco smart, in Attività di marketing o Database.
+Le sottoscrizioni sono live in cui si trova l&#39;elenco smart, in Attività di marketing o Database.
 
-Potete creare più sottoscrizioni dallo stesso smart list.
+È possibile creare più abbonamenti dallo stesso smart list.
 
-Le iscrizioni sono specifiche dell&#39;area di lavoro. Ad esempio, questo elenco di iscrizioni si trova in un’area di lavoro diversa da quelle mostrate nel resto dell’articolo:
+Le sottoscrizioni sono specifiche per l&#39;area di lavoro. Ad esempio, questo elenco di sottoscrizioni si trova in un’area di lavoro diversa da quelle mostrate nel resto dell’articolo:
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->È possibile utilizzare un massimo di 100 iscrizioni e un massimo di 100.000 persone per iscrizione, in più aree di lavoro, per ogni istanza di Marketo. Se l&#39;elenco smart contiene più di 100.000 nomi, Marketo eseguirà l&#39;iscrizione per i primi 100.000.
+>Puoi avere un massimo di 100 abbonamenti e un massimo di 100.000 persone per abbonamento, su più aree di lavoro, per istanza di Marketo. Se l’elenco avanzato contiene più di 100.000 nomi, Marketo eseguirà l’abbonamento per i primi 100.000.
 
 ## Creare una sottoscrizione a un elenco avanzato {#create-a-smart-list-subscription}
 
-1. Andate al **Database** o **Marketing Activities**.
+1. Vai a **Database** o **Attività di marketing**.
 
    ![](assets/db.png)
 
-1. Selezionate l’elenco avanzato per il quale desiderate creare un’iscrizione. Fare clic su **Azioni elenco** e selezionare **Nuova iscrizione elenco avanzato**.
+1. Selezionare l’elenco smart per il quale si desidera creare un abbonamento. Fai clic su **Azioni elenco** e seleziona **Nuova sottoscrizione a elenchi avanzati**.
 
    ![](assets/three.png)
 
-1. Assegna al tuo abbonamento un **Nome**, quindi seleziona o immetti gli indirizzi e-mail dei **Destinatari**.
+1. Assegna un abbonamento a **Nome**, quindi seleziona o immetti gli indirizzi e-mail del **Destinatari**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Fare clic sull&#39;elenco **Frequenza** e selezionare una frequenza.
+1. Fai clic sul pulsante **Frequenza** e selezionare una frequenza.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Impostare la data **Fine consegna**. È possibile selezionare **Mai** o una data di calendario.
+1. Imposta la **Fine consegna** data. È possibile selezionare **Mai** o una data del calendario.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Fare clic su **Formato** e scegliere dall&#39;elenco.
+1. Fai clic su **Formato** e scegliere dall&#39;elenco.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Fare clic su **Crea**.
+1. Fai clic su **Crea**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. La nuova iscrizione all&#39;elenco smart viene visualizzata nella parte superiore dell&#39;elenco nella scheda Iscrizioni. Fare clic su **Invia** se si desidera inviare ora e non attendere fino alla consegna pianificata dell&#39;e-mail.
+1. La nuova sottoscrizione all’elenco smart viene visualizzata nella parte superiore dell’elenco nella scheda Sottoscrizioni. Fai clic su **Invia** se desideri inviare ora e non attendere la consegna e-mail pianificata.
 
    ![](assets/eight.png)
 
-1. È consigliabile deselezionare la casella di controllo Attivo per disattivare un&#39;iscrizione all&#39;elenco smart se nessuno vi ha sottoscritto.
+1. È consigliabile deselezionare la casella di controllo Attivo per disattivare l’abbonamento a un elenco smart se non è presente alcun abbonamento.
 
    ![](assets/nine.png)
 
@@ -76,32 +75,32 @@ Le iscrizioni sono specifiche dell&#39;area di lavoro. Ad esempio, questo elenco
 
 ## Messaggio e-mail {#email-message}
 
-I destinatari riceveranno un&#39;e-mail con l&#39;opzione per scaricare il rapporto, nonché un collegamento direttamente all&#39;elenco all&#39;interno dell&#39;istanza di Marketo. Il collegamento per il download scade tra quattro giorni.
+I destinatari riceveranno un’e-mail con un’opzione per scaricare il rapporto, nonché un collegamento diretto all’elenco all’interno dell’istanza di Marketo. Il collegamento per il download scade tra quattro giorni.
 
 >[!NOTE]
 >
->Se l&#39;impostazione [Amministratore iscrizione protetta](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) è impostata su **Sì**, solo gli utenti che hanno accesso all&#39;istanza Marketo potranno scaricare il rapporto.
+>Se la [Amministrazione di un abbonamento sicuro](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) è impostato su **Sì**, solo le persone con accesso all’istanza Marketo potranno scaricare il rapporto.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
-Se un report contiene 0 persone, i destinatari riceveranno comunque un&#39;e-mail. Tuttavia, l&#39;e-mail dichiara semplicemente che non ci sono persone da segnalare.
+Se un rapporto contiene 0 persone, i destinatari riceveranno comunque un’e-mail. Tuttavia, l&#39;e-mail dichiara semplicemente che non ci sono persone da segnalare.
 
 ![](assets/image2015-4-17-16-3a11-3a8.png)
 
 >[!NOTE]
 >
->Quando modificate un filtro per elenchi avanzati su cui avete basato un&#39;iscrizione, viene aggiornato anche il rapporto.
+>Quando modifichi un filtro per elenchi avanzati su cui hai basato una sottoscrizione, aggiorna anche il rapporto.
 
-Il messaggio e-mail contiene anche informazioni aggiuntive sui filtri utilizzati per creare l’elenco.
+L’e-mail fornisce inoltre informazioni aggiuntive sui filtri utilizzati per creare l’elenco.
 
 ## Eliminare una sottoscrizione {#delete-a-subscription}
 
-Per eliminare una sottoscrizione, selezionatela nella scheda Iscrizioni e fate clic su Elimina iscrizione.
+Per eliminare un abbonamento, selezionalo nella scheda Abbonamenti e fai clic su Elimina abbonamento .
 
 ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
 >* [Modificare una sottoscrizione a un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [Proteggere l&#39;impostazione dell&#39;amministratore delle iscrizioni](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [Proteggere l’impostazione di amministrazione della sottoscrizione](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 

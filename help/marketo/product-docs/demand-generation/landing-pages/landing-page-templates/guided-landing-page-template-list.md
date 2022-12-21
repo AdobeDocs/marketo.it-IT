@@ -22,11 +22,11 @@ Per importare un modello in Marketo:
 
 1. Fai clic sul nome del modello per ingrandire la visualizzazione.
 1. Scarica il modello scelto.
-1. In Marketo, passa a **Design Studio.**
-1. Fai clic su **Pagine di destinazione** nella struttura a sinistra, quindi seleziona **Modelli.**
+1. In Marketo, passa alla **Design Studio.**
+1. Fai clic su **Pagine di destinazione** nell&#39;albero a sinistra, quindi selezionare **Modelli.**
 
 1. Nella barra dei menu, fai clic su **Importa modello.**
-1. Scegli il file scaricato, inserisci un nome di modello, quindi fai clic su **Importa** (assicurati di scegliere un nome descrittivo e indica che la modalità di modifica è **Guidata**).
+1. Scegli il file scaricato, inserisci un nome di modello, quindi fai clic su **Importa** Assicurati di scegliere un nome descrittivo e indica che la modalità di modifica è **Guidato**).
 
 |  |  |  |
 |---|---|---|

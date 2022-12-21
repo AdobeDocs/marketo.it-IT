@@ -4,7 +4,7 @@ title: Segnala i motivi delle chiamate e i risultati delle chiamate a Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---

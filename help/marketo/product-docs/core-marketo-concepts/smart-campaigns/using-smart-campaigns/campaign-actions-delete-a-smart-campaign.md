@@ -3,7 +3,6 @@ unique-page-id: 1147055
 description: Azioni campagna - Eliminare una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Azioni di campagna - Eliminare una campagna avanzata
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
@@ -19,11 +18,11 @@ Se hai una vecchia campagna intelligente di cui non hai più bisogno, puoi cance
 >
 >Assicurati prima di eliminare. Una volta eliminata una campagna intelligente, non può essere ripristinata.
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Passa alla campagna avanzata inattiva. In **Campagna** **Azioni**, fai clic su **Elimina**.
+1. Passa alla campagna avanzata inattiva. Sotto **Campaign** **Azioni**, fai clic su **Elimina**.
 
    >[!TIP]
    >
@@ -37,4 +36,4 @@ Se hai una vecchia campagna intelligente di cui non hai più bisogno, puoi cance
 
    >[!CAUTION]
    >
-   >Non eliminare una campagna avanzata attiva con le persone nei passaggi del flusso. **** È probabile che la campagna venga comunque eseguita.
+   >Do **NOT** elimina una campagna avanzata attiva con le persone nei passaggi del flusso. È probabile che la campagna venga comunque eseguita.

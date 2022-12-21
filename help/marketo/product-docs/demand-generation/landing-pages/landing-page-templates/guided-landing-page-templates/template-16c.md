@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 16C {#template-16c}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 

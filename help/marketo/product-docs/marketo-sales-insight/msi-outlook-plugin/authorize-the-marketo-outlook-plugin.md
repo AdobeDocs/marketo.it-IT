@@ -1,29 +1,28 @@
 ---
 unique-page-id: 11377640
-description: Autorizzare il plug-in Marketo Outlook - Marketo Docs - Documentazione prodotto
-title: Autorizzazione del plug-in Marketo Outlook
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Autorizzare Marketo Outlook Plugin - Marketo Docs - Documentazione del prodotto
+title: Autorizzare il plugin di Marketo Outlook
+exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
+# Autorizzare il plugin di Marketo Outlook {#authorize-the-marketo-outlook-plugin}
 
-# Autorizzare il plug-in Marketo Outlook {#authorize-the-marketo-outlook-plugin}
-
-Per utilizzare il plug-in Marketo MSI in Outlook, è necessario autorizzarlo.
+Per utilizzare il plugin Marketo MSI in Outlook, è necessario autorizzarlo.
 
 >[!PREREQUISITES]
 >
->Il plug-in deve essere già installato e devi essere autorizzato come utente plug-in dall&#39;amministratore di Marketo.
+>Il plug-in deve essere già installato e devi essere autorizzato come utente del plug-in dal tuo amministratore Marketo.
 
-1. Fate clic su uno dei pulsanti Messaggio marketing.
+1. Fare clic su uno dei pulsanti Messaggio di Marketo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Quando viene visualizzata la finestra di dialogo Autorizza plug-in Marketo, fare clic su **Richiedi codice**.
+1. Quando viene visualizzata la finestra di dialogo Autorizza plugin Marketo, fai clic su **Codice di richiesta**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -31,14 +30,14 @@ Per utilizzare il plug-in Marketo MSI in Outlook, è necessario autorizzarlo.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Se l&#39;indirizzo e-mail predefinito dell&#39;account di Outlook viene estratto, riceverete una chiave di registrazione. Inseritelo nella finestra a comparsa e fate clic su **Invia**.
+1. Se l&#39;indirizzo e-mail predefinito dell&#39;account di Outlook viene estratto, riceverai una chiave di registrazione. Inseriscilo nella finestra a comparsa e fai clic su **Invia**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 
    >[!NOTE]
    >
-   >Il codice di registrazione **scade dopo 14 giorni.**
+   >Codice di registrazione **scade dopo 14 giorni.**
 
-1. Se l&#39;indirizzo e-mail non è autorizzato, riceverai questa e-mail meno felice. Per risolvere il problema, contatta l’amministratore di marketing.
+1. Se l&#39;indirizzo e-mail non è autorizzato, riceverai questa e-mail meno felice. Per risolvere il problema, contatta il tuo amministratore Marketo.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)

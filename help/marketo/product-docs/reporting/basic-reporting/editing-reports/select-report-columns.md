@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359994
-description: Seleziona colonne report - Documenti Marketo - Documentazione prodotto
+description: Seleziona colonne rapporto - Documentazione Marketo - Documentazione prodotto
 title: Seleziona colonne rapporto
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 11357993-7b29-41cb-a376-06de387d1e92
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
+# Seleziona colonne rapporto {#select-report-columns}
 
-# Seleziona colonne report {#select-report-columns}
+Puoi scegliere quali colonne sono e non sono incluse nel rapporto.
 
-Potete scegliere quali colonne includere nel rapporto e quali no.
-
-1. Andate all&#39;area **Analytics** (o **Marketing Activities**).
+1. Vai a **Analytics** o **Attività di marketing**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
-1. Selezionate il rapporto.
+1. Seleziona il rapporto.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Fare clic sulla scheda **Report**, quindi fare clic sull&#39;intestazione di una colonna e selezionare **Colonne**, quindi scegliere le colonne da includere.
+1. Fai clic sul pulsante **Rapporto** , quindi fai clic su un’intestazione di colonna e seleziona **Colonne**, quindi scegli le colonne da includere.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 6095047
 description: Modificare le impostazioni di supporto del browser "Do Not Track" - Marketo Docs - Documentazione del prodotto
 title: Modifica le impostazioni di supporto del browser "Do Not Track"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
@@ -27,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Fare clic su **Munchkin**.
+1. Fai clic su **Munchkin**.
 
    ![](assets/two.png)
 
-1. In **Tracciamento persona**, fai clic su **Modifica**.
+1. Sotto **Tracciamento delle persone**, fai clic su **Modifica**.
 
    ![](assets/three-2.png)
 
@@ -49,4 +48,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Per ulteriori informazioni su &quot;Non tenere traccia&quot; e su come funziona, visita [questa pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Per saperne di più su &quot;Do Not Track&quot; e su come funziona, visita [questa pagina](https://en.wikipedia.org/wiki/Do_Not_Track).

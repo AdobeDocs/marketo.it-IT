@@ -2,7 +2,6 @@
 description: Panoramica sulla sincronizzazione di Campaign - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica sulla sincronizzazione di Campaign
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -10,7 +9,7 @@ ht-degree: 0%
 
 ---
 
-# Panoramica sulla sincronizzazione delle campagne {#campaign-sync-overview}
+# Panoramica sulla sincronizzazione di Campaign {#campaign-sync-overview}
 
 Come parte di Campaign Sync, gli utenti possono configurare l’automazione per operare sull’appartenenza a una campagna Dynamics. I lead qualificati per comportamenti o dati demografici specifici possono essere inseriti nelle campagne Microsoft.
 
@@ -25,7 +24,7 @@ Sono disponibili le seguenti azioni di flusso:
 
 >[!NOTE]
 >
->**Rimuovi da Microsoft** Campaign rimuoverà solo le persone aggiunte utilizzando le azioni di flusso in Marketo.
+>**Rimuovi da Microsoft Campaign** rimuove solo le persone aggiunte utilizzando le azioni di flusso in Marketo.
 
 Ci sono anche due trigger:
 

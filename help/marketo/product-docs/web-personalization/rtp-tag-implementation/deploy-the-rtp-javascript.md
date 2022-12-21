@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4719332
-description: Distribuzione di JavaScript RTP - Documenti Marketo - Documentazione prodotto
-title: Implementare il codice JavaScript RTP
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Distribuzione di JavaScript RTP - Documenti Marketo - Documentazione del prodotto
+title: Distribuzione del JavaScript RTP
+exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
+# Distribuzione del JavaScript RTP {#deploy-the-rtp-javascript}
 
-# Implementare il codice JavaScript RTP {#deploy-the-rtp-javascript}
-
-Per generare e impostare il tag RTP, seguire le istruzioni di installazione riportate di seguito
+Per generare e impostare il tag RTP, segui le istruzioni di installazione riportate di seguito
 
 ## Genera tag {#generate-tag}
 
@@ -21,24 +20,24 @@ Per generare e impostare il tag RTP, seguire le istruzioni di installazione ripo
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. In **Domain** e **Domain Configuration**, individuare il dominio appropriato e fare clic su **Generate Tag**.
+1. In **Dominio** e **Configurazione del dominio**, individua il dominio interessato e fai clic su **Genera tag**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
-1. Copiate e incollate il tag Web Personalization (RTP) nel sito Web.
+1. Copia e incolla il tag di personalizzazione web (RTP, Web Personalization) nel sito web.
 
    ![](assets/web-personalization-tag.png)
 
    >[!NOTE]
    >
-   >Copiate il tag JavaScript RTP e incollatelo come primo script nell’intestazione delle pagine, tra i tag `<head> </head>`.
+   >Copia il tag JavaScript RTP e incollalo come primo script nell’intestazione delle pagine, tra `<head> </head>` tag.
 
-   Accertatevi che il tag sia visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini. Per verificare il problema, fate clic con il pulsante destro del mouse sulla pagina del sito Web. Vai a Visualizza origine pagina in un browser Web. Ricerca: &quot;RTP&quot;.
+   Assicurati che il tag sia visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini. Per controllare, fai clic con il pulsante destro del mouse sulla pagina del sito web. Vai a Visualizza origine pagina in un browser web. Ricerca: &quot;RTP&quot;.
 
-1. È possibile impostare l&#39;opzione di attivazione/disattivazione tag su **ON**.
+1. Imposta/disattiva tag su **ON**.
 
-   Verificate che l&#39;opzione Tag sia attivata. Dovresti iniziare a visualizzare il flusso di dati nella scheda Organizzazione.
+   Conferma che l’opzione Tag sia impostata su ON. Dovresti iniziare a visualizzare il flusso di dati nella scheda Organizzazione.
 
-   Ora hai impostato il tag RTP e sei pronto per iniziare [la creazione di segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) e di campagne in tempo reale!
+   Ora sei configurato con il tag RTP e pronto per l’avvio [creazione di segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) e campagne in tempo reale!
 
-1. Verifica che il tag si trovi su tutte le pagine.
+1. Verifica che il tag sia presente su tutte le pagine.

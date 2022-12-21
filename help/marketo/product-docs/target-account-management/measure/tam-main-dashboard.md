@@ -2,16 +2,15 @@
 unique-page-id: 11380783
 description: Dashboard principale di TAM - Documenti Marketo - Documentazione del prodotto
 title: Dashboard principale del TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-
-# Dashboard principale TAM {#tam-main-dashboard}
+# Dashboard principale del TAM {#tam-main-dashboard}
 
 Il dashboard principale fornisce un riepilogo delle attività di gestione account di Target. Puoi vedere gli account o gli elenchi degli account di destinazione che mostrano il successo e quelli che necessitano di maggiore attenzione.
 
@@ -25,7 +24,7 @@ Per filtrare per elenco account, fai clic sull’elenco a discesa Visualizza .
 
 ![](assets/three.png)
 
-Per visualizzare il [Dashboard dell&#39;elenco account](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), fai clic sul nome dell&#39;elenco account selezionato...
+Per visualizzare il [Dashboard dell&#39;elenco account](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), fai clic sul nome dell’elenco account selezionato...
 
 ![](assets/four.png)
 
@@ -33,10 +32,10 @@ Per visualizzare il [Dashboard dell&#39;elenco account](/help/marketo/product-do
 
 ![](assets/five.png)
 
-Se invece di visualizzare il dashboard dell&#39;elenco account che si desidera espandere in un account denominato, fare clic su **Maggiori dettagli** sotto il nome...
+Se invece di visualizzare il dashboard dell&#39;elenco account che si desidera espandere in un account denominato, fare clic su **Maggiori dettagli** sotto il suo nome...
 
 ![](assets/six.png)
 
-...e visualizza le informazioni sull&#39;account [denominato](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...e visualizza [approfondimenti dell&#39;account denominato](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

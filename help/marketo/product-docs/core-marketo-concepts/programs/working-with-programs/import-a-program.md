@@ -58,7 +58,7 @@ Al termine dell’importazione riceverai un messaggio e-mail di conferma.
 
 >[!NOTE]
 >
->Sarà necessario ripianificare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
+>Sarà necessario riprogrammare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
 
 ## Identificare i programmi predefiniti nella libreria dei programmi Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 

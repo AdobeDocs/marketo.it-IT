@@ -3,7 +3,6 @@ unique-page-id: 1147093
 description: Informazioni sulle risorse locali in un programma - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle risorse locali in un programma
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'

@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2360005
-description: Report attività Web società - Documenti Marketo - Documentazione prodotto
-title: Report attività Web società
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Report attività Web aziendale - Documenti Marketo - Documentazione del prodotto
+title: Report delle attività web aziendali
+exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Report delle attività web aziendali {#company-web-activity-report}
 
-# Report attività Web società {#company-web-activity-report}
+Vedi quali aziende stanno visitando il tuo sito web. Puoi scegliere di visualizzare visitatori noti o anonimi, ma non entrambi nello stesso rapporto.
 
-Scopri quali aziende stanno visitando il tuo sito Web. Potete scegliere di visualizzare i visitatori noti o anonimi, ma non entrambi nello stesso rapporto.
-
-Create un report sull&#39;attività di [pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) per vedere le singole persone che stanno visitando il sito.
+Crea un [Rapporto attività pagina web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) per vedere le singole persone che visitano il tuo sito.
 
 >[!PREREQUISITES]
 >
->Per acquisire l&#39;attività dal sito Web di Marketo, è innanzitutto necessario impostare [Munchkin sul sito ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Per acquisire attività dal sito web in Marketo, devi prima impostare [su Munchkin sul tuo sito](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Create un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo di  [rapporto](report-type-overview.md) Attività Web società.
+1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selezionare Report attività Web società [tipo di rapporto](report-type-overview.md).
 
-1. Scegliere di [visualizzare persone conosciute o anonime](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) nel report.
+1. Scegli [visualizzare persone conosciute o anonime](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) nel rapporto.
 
-1. [Impostate l&#39;intervallo di tempo del ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda  **** Rapporto.
+1. [Impostare l&#39;intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic su **Rapporto** scheda .
 
-1. È tutto! Leggi il tuo rapporto per scoprire quali aziende stanno visitando il tuo sito.
+1. Tutto qui! Controlla il tuo rapporto per vedere quali aziende stanno visitando il tuo sito.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Per trovare le aziende che visitano maggiormente il sito, [ordinate il rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _Visualizzazioni pagina_ e scegliete **Ordinamento decrescente**.
+   >Per trovare le aziende che visitano di più il tuo sito, [ordinare il rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) sulla _Visualizzazioni pagina_ e scegli **Ordinamento decrescente**.
 
-   [Le colonne che è possibile ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) selezionare per un rapporto Attività Web società includono:
+   [Colonne selezionabili](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto sull&#39;attività Web dell&#39;azienda:
 
 <table> 
  <thead> 
@@ -47,11 +46,11 @@ Create un report sull&#39;attività di [pagina Web](/help/marketo/product-docs/r
  <tbody> 
   <tr> 
    <td>Azienda</td> 
-   <td>La società dei visitatori.<br> <strong>Nomi in </strong> boldare confermato di essere il nome della società da almeno una persona.</td> 
+   <td>L'azienda dei visitatori.<br> <strong>Nomi in grassetto</strong> sono confermate come nome della società da almeno una persona.</td> 
   </tr> 
   <tr> 
    <td>Società o ISP interessati</td> 
-   <td>La società, come ricavato dall'indirizzo IP dei visitatori. <br> <strong>I nomi in </strong> boldindicano che si tratta dell'azienda, non dell'ISP. </td> 
+   <td>L’azienda, come dedotto dall’indirizzo IP dei visitatori. <br> <strong>Nomi in grassetto</strong> indica che si tratta dell'azienda, non dell'ISP. </td> 
   </tr> 
   <tr> 
    <td>Visualizzazioni pagina</td> 
@@ -59,19 +58,19 @@ Create un report sull&#39;attività di [pagina Web](/help/marketo/product-docs/r
   </tr> 
   <tr> 
    <td>Persone</td> 
-   <td>Numero di persone di questa società che hanno visitato il sito.</td> 
+   <td>Numero di persone di questa azienda che hanno visitato il tuo sito.</td> 
   </tr> 
   <tr> 
-   <td>Paese, stato/regione e città</td> 
+   <td>Paese, Stato/Regione e Città</td> 
    <td>Posizione geografica della società.</td> 
   </tr> 
   <tr> 
-   <td>Prima/Ultima visita (fuso orario)</td> 
-   <td>Data e ora della prima/ultima visita effettuata da chiunque di questa società.</td> 
+   <td>Prima/ultima visita (fuso orario)</td> 
+   <td>Data e ora della prima/ultima visita da parte di chiunque di questa azienda.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Visualizzare persone o visitatori anonimi nei rapporti Web](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>[Visualizzare persone o visitatori anonimi nei rapporti web](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)

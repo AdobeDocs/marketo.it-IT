@@ -3,7 +3,6 @@ unique-page-id: 2949206
 description: SEO - Importazione di parole chiave con un CSV - Marketo Docs - Documentazione del prodotto
 title: SEO - Importazione di parole chiave con CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # SEO - Importazione di parole chiave con CSV {#seo-importing-keywords-with-a-csv}
 
-1. Puoi [aggiungere manualmente parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md), [ottenere suggerimenti per parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e anche importare parole chiave da un file CSV. Ecco come effettuare l’importazione.
+1. È possibile [aggiungi parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [ottieni suggerimenti per le parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e anche importare parole chiave da un file CSV. Ecco come effettuare l’importazione.
 
-1. Vai alla sezione **Parole chiave** .
+1. Vai a **Parole chiave** sezione .
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Fare clic su **Importa**.
+1. Fai clic su **Importa**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Fare clic su **Scegli file**.
+1. Fai clic su **Scegli file**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +34,7 @@ ht-degree: 0%
    >
    >I limiti di importazione variano a seconda dell’abbonamento. Contatta il tuo rappresentante commerciale per ulteriori informazioni.
 
-1. Fare clic su **Importa**.
+1. Fai clic su **Importa**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 

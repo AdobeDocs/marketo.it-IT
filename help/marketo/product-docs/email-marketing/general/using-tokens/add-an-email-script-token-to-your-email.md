@@ -1,58 +1,57 @@
 ---
 unique-page-id: 1900575
-description: Aggiungere un token di script e-mail alla posta elettronica - Documenti Marketo - Documentazione prodotto
-title: Aggiungere un token di script e-mail al messaggio e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Aggiungere un token di script e-mail all’e-mail - Documenti Marketo - Documentazione del prodotto
+title: Aggiungi un token di script e-mail al tuo indirizzo e-mail
+exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
+# Aggiungi un token di script e-mail al tuo indirizzo e-mail {#add-an-email-script-token-to-your-email}
 
-# Aggiungere un token di script e-mail all&#39;e-mail {#add-an-email-script-token-to-your-email}
-
-Dopo aver [creato lo script e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), è necessario aggiungerlo a un messaggio e-mail per visualizzarlo in azione. Ecco come.
+Dopo [creato lo script e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), aggiungilo a un’e-mail per visualizzarla in azione. Ecco come.
 
 >[!NOTE]
 >
->La dimensione totale di tutti i token di script inseriti in un&#39;unica e-mail non può superare i 100 KB.
+>La dimensione totale di tutti i token di script inseriti in un’unica e-mail non può superare i 100 KB.
 
-1. Andate all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/one-2.png)
 
-1. Individuate e selezionate l&#39;e-mail a cui desiderate aggiungere il token e fate clic su **Edit Draft**.
+1. Trova e seleziona l’e-mail a cui desideri aggiungere il token e fai clic su **Modifica bozza**.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Potete anche aggiungere il token a un modello e-mail, se preferite.
+   >Puoi anche aggiungere il token a un modello e-mail, se lo desideri.
 
-1. Fare doppio clic sull&#39;area modificabile a cui si desidera aggiungere il token.
+1. Fare doppio clic sull’area modificabile a cui si desidera aggiungere il token.
 
    ![](assets/three-2.png)
 
-1. Posizionare il cursore nel punto in cui si desidera inserire il token e fare clic sull&#39;icona Inserisci token.
+1. Posiziona il cursore nel punto in cui desideri che sia il token e fai clic sull’icona Inserisci token .
 
    ![](assets/four-2.png)
 
-1. Individuate e selezionate il token di script e-mail creato in precedenza e fate clic su **Inserisci**.
+1. Trova e seleziona il token di script e-mail creato in precedenza e fai clic su **Inserisci**.
 
    ![](assets/five-1.png)
 
    >[!TIP]
    >
-   >Se lo desiderate, aggiungete un valore predefinito.
+   >Se lo desideri, aggiungi un valore predefinito.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->Non dimenticare di [approvare l&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Non dimenticarti di [approva l’e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
-È tutto! Quando questo messaggio e-mail viene inviato, lo script dietro il token viene eseguito e popolato.
+Tutto qui! Quando l’e-mail viene inviata, lo script dietro il token viene eseguito e popolato.

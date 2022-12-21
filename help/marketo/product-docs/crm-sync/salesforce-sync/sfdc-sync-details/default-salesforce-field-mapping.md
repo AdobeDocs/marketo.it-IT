@@ -6,7 +6,7 @@ exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 33%
+ht-degree: 40%
 
 ---
 
@@ -20,8 +20,8 @@ Quando sincronizzi inizialmente il tuo account Marketo con Salesforce, Marketo c
 |---|---|
 | Entrata annuale | Entrata annuale |
 | Città | Città |
-| Azienda | Nome dell&#39;azienda |
-| Data conversione | Data conversione SFDC |
+| Azienda | Nome azienda |
+| Data conversione | Data di conversione SFDC |
 | Paese | Paese |
 | Data creazione | Data creazione SFDC |
 | Descrizione | Note sulla persona |
@@ -35,7 +35,7 @@ Quando sincronizzi inizialmente il tuo account Marketo con Salesforce, Marketo c
 | Cognome | Cognome |
 | Fonte Lead | Fonte |
 | Punteggio Lead | Punteggio |
-| Telefono cellulare | Numero di cellulare |
+| Telefono cellulare | Numero di telefono |
 | Dipendenti | Numero dipendenti |
 | Telefono | Numero di telefono |
 | Codice postale | Codice postale |
@@ -44,7 +44,7 @@ Quando sincronizzi inizialmente il tuo account Marketo con Salesforce, Marketo c
 | Provincia | Stato |
 | Stato | Stato |
 | Via | Indirizzo |
-| Titolo | Professione |
+| Titolo | Qualifica |
 | Sito web | Sito web |
 
 ## Campi contatto {#contact-fields}
@@ -67,10 +67,10 @@ Quando sincronizzi inizialmente il tuo account Marketo con Salesforce, Marketo c
 | Codice postale | Codice postale |
 | MailingState | Stato |
 | MailingStreet | Indirizzo |
-| Telefono cellulare | Numero di cellulare |
+| Telefono cellulare | Numero di telefono |
 | Telefono ufficio | Numero di telefono |
 | Formula di saluto | Formula di saluto |
-| Titolo | Professione |
+| Titolo | Qualifica |
 
 ## Campi account {#account-fields}
 
@@ -85,7 +85,7 @@ Quando sincronizzi inizialmente il tuo account Marketo con Salesforce, Marketo c
 | Descrizione account | Note aziendali |
 | Settore | Settore |
 | Eliminato | SFDC È Eliminato |
-| Nome account | Nome dell&#39;azienda |
+| Nome account | Nome azienda |
 | Dipendenti | Numero dipendenti |
 | Telefono account | Numero di telefono |
 | Codice SIC (Standard Industrial Classification) | Codice SIC (Standard Industrial Classification) |

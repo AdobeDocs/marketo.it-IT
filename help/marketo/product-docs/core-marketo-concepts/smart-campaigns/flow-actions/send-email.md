@@ -3,11 +3,10 @@ unique-page-id: 1146948
 description: Invia e-mail - Documenti Marketo - Documentazione del prodotto
 title: Invia e-mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Il passaggio di flusso **Invia e-mail** può essere utilizzato come parte delle campagne o come singolo passaggio di flusso per inviare e-mail alle persone.
+La **Invia e-mail** Le fasi di flusso possono essere utilizzate come parte delle campagne o come un singolo passaggio di flusso per inviare e-mail alle persone.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 

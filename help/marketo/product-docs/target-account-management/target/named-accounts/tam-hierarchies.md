@@ -2,14 +2,13 @@
 unique-page-id: 13795510
 description: Gerarchie TAM - Documenti Marketo - Documentazione del prodotto
 title: Gerarchie TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # Gerarchie TAM {#tam-hierarchies}
 
@@ -33,8 +32,8 @@ Con Gerarchie TAM è possibile ottenere rapidamente informazioni su un&#39;inter
 
 >[!NOTE]
 >
->L’interfaccia Marketo visualizzerà solo fino a 10 livelli in basso (account figlio e figlio dell’account padre), tuttavia non vi è alcun limite al numero di account figlio che è possibile creare.
+>L’interfaccia di Marketo visualizzerà solo fino a 10 livelli in basso (account figlio e nipote dell’account padre), tuttavia non vi è alcun limite al numero di account figlio che è possibile creare.
 
-Esegui il targeting e genera rapporti su intere gerarchie con [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Eseguire il targeting e generare rapporti su gerarchie intere con [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

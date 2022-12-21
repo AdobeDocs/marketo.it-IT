@@ -3,7 +3,6 @@ unique-page-id: 2360423
 description: Trova tutti i lead in un modello di ciclo dei ricavi - Marketo Docs - Documentazione del prodotto
 title: Trova tutti i lead in un modello di ciclo dei ricavi
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -19,29 +18,29 @@ Utilizzando gli elenchi avanzati, puoi trovare facilmente tutti i membri del mod
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con lo smart list selezionato, fai clic sulla scheda **Smart List** .
+1. Con lo smart list selezionato, fai clic sul pulsante **Elenco avanzato** scheda .
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Trova il filtro **Membro del modello di ricavi** e trascinalo nell’area di lavoro.
+1. Trova il **Membro del modello di entrate** filtrare e trascinarlo nell’area di lavoro.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Seleziona un **Modello**.
+1. Seleziona una **Modello**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    In questo modo si ottengono tutti i lead in quel modello, a prescindere dal palco. Di solito si desidera un passaggio specifico. Utilizza invece il seguente filtro.
 
-1. Trova il filtro **Revenue Stage** e trascinalo nell&#39;area di lavoro.
+1. Trova il **Fase di ricavo** filtrare e trascinarlo nell’area di lavoro.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Seleziona un **Stage**.
+1. Seleziona una **Stage**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Passa alla scheda **Lead** per visualizzare i risultati.
+1. Vai a **Lead** per visualizzare i risultati.
 
    ![](assets/2.png)
 

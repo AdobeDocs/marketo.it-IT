@@ -1,36 +1,35 @@
 ---
 unique-page-id: 2950553
-description: Personalizza flusso condivisione video - Documenti Marketo - Documentazione prodotto
+description: Flusso di condivisione video personalizzato - Documenti Marketo - Documentazione del prodotto
 title: Personalizza flusso di condivisione video
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
+# Personalizza flusso di condivisione video {#customize-video-share-flow}
 
-# Personalizza flusso condivisione video {#customize-video-share-flow}
+Quando [creare una condivisione video](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), puoi personalizzare quando e dove viene visualizzato il prompt di condivisione.
 
-Quando [create una condivisione video](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), potete personalizzare quando e dove viene visualizzato il prompt di condivisione.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionate l&#39;app e fate clic su **Modifica bozza**.
+1. Seleziona l’app e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Nell&#39;editor di condivisione video, andate a **Impostazioni app** > **Opzioni avanzate**.
+1. Nell’editor per la condivisione video, passa a **Impostazioni app** > **Opzioni avanzate**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
-1. Scegliete quando l&#39;app richiede all&#39;utente di condividere e dove viene visualizzato il messaggio di richiesta.
+1. Scegli quando l’app richiede all’utente di condividere e dove viene visualizzato il messaggio.
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
 >[!MORELIKETHIS]
 >
->Il passaggio successivo è [configurare ciò che accade dopo la condivisione video](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>Il passaggio successivo consiste nel [configurare cosa accade dopo la condivisione video](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

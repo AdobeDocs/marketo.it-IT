@@ -60,7 +60,7 @@ Le organizzazioni ora possono supportare un accesso senza soluzione di continuit
 
 Gli editor di e-mail e pagine di destinazione sono stati riprogettati con un’interfaccia più invitante, una navigazione intuitiva e un’esperienza utente notevolmente migliorata, che include:
 
-Una visualizzazione HTML e testo affiancata
+Una visualizzazione affiancata HTML e testo
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 

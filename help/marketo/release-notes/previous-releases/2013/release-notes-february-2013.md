@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Note sulla versione: Febbraio 2013 {#release-notes-february}
 
-La versione di febbraio include una funzione fortemente richiesta, il supporto per Apple Safari e altri piccoli miglioramenti.
+La versione di febbraio include una funzionalità fortemente richiesta, il supporto per Apple Safari e altri piccoli miglioramenti.
 
 ## Supporto ufficiale per Apple Safari {#official-support-for-apple-safari}
 
@@ -32,4 +32,4 @@ Le schede facebook pubblicate da Marketo rilevano i dispositivi mobili e li indi
 
 ## Disponibile a breve: Supporto per più modelli {#coming-soon-support-for-multiple-models}
 
-Stiamo gettando le basi per supportare più modelli di ciclo del reddito, abbiamo votato l&#39;idea #1 per la RCA nella Comunità, in una versione futura. In questa versione, noterai alcune modifiche, tra cui i filtri [Smart List e Aggiungi scelte in Passaggi di flusso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) per supportare la selezione di un modello e di un’area di visualizzazione. Stiamo anche spostando i campi della fase dei ricavi lead e del modello del ciclo dei ricavi lead dalla scheda della griglia lead per elenco avanzato .
+Stiamo gettando le basi per supportare più modelli di ciclo del reddito, abbiamo votato l&#39;idea #1 per la RCA nella Comunità, in una versione futura. In questa versione noterai alcune modifiche, tra cui [Filtri per l’elenco avanzato e opzioni aggiuntive nei passaggi del flusso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) per supportare la selezione di un modello e di uno stage. Stiamo anche spostando i campi della fase dei ricavi lead e del modello del ciclo dei ricavi lead dalla scheda della griglia lead per elenco avanzato .

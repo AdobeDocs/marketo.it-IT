@@ -2,16 +2,15 @@
 unique-page-id: 4720236
 description: Creare un segmento utilizzando un elenco di account - Documenti Marketo - Documentazione del prodotto
 title: Creare un segmento utilizzando un elenco account
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# Creare un segmento utilizzando un elenco di account {#create-a-segment-using-an-account-list}
+# Creare un segmento utilizzando un elenco account {#create-a-segment-using-an-account-list}
 
 Ecco come creare un segmento utilizzando un elenco account.
 
@@ -23,11 +22,11 @@ Ecco come creare un segmento utilizzando un elenco account.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Fare clic su **Crea nuovo**.
+1. Fai clic su **Crea nuovo**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Inserisci un nome per il segmento. Trascinare **Elenchi account** dalla sezione **FirmoGraphics**.
+1. Inserisci un nome per il segmento. Trascinamento della selezione **Elenchi account** dal **Firmografica** sezione .
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,8 +38,8 @@ Ecco come creare un segmento utilizzando un elenco account.
    >
    >Gli elenchi degli account vengono sincronizzati da ABM alla personalizzazione web per l’utilizzo in Segmentazione. Selezionali dal menu a discesa. La sincronizzazione può richiedere fino a cinque minuti. Si sincronizza solo se nell&#39;elenco account sono presenti uno o più account denominati.
 
-1. Fai clic su **Salva** o su **Salva e definisci campagna** per passare alla pagina Campagne.
+1. Fai clic su **Salva** o fai clic su **Salva e definisci campagna** per passare alla pagina Campagne .
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Congratulazioni! Ora hai impostato un segmento che esegue il targeting di un elenco account.
+Complimenti. Ora hai impostato un segmento che esegue il targeting di un elenco account.

@@ -3,7 +3,6 @@ unique-page-id: 2953132
 description: Campagne avanzate in batch e trigger - Documentazione di Marketo - Documentazione del prodotto
 title: Campagne avanzate in batch e trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
@@ -27,18 +26,18 @@ Le campagne smart in batch avranno solo filtri all’interno della sezione dell�
 
 ![](assets/batch-filter.png)
 
-Facendo clic sulla scheda **Pianificazione** si verifica che la campagna avanzata sia impostata su &quot;Batch&quot;.
+Fai clic sul pulsante **Pianificazione** La scheda confermerà che la campagna intelligente è impostata su &quot;Batch&quot;.
 
 ![](assets/batch-c4.png)
 
 **Campagne avanzate in batch**
 
 * Può essere pianificato per le ricorrenze, ad esempio giornaliere, settimanali e mensili. Puoi anche farli funzionare una sola volta.
-* Sono visibili nella [visualizzazione programmazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Qualsiasi elemento dopo un passaggio &quot;Wait&quot; (Attendi) all’interno della campagna intelligente non verrà incluso nella visualizzazione.
+* Sono visibili sul [vista programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Qualsiasi elemento dopo un passaggio &quot;Wait&quot; (Attendi) all’interno della campagna intelligente non verrà incluso nella visualizzazione.
 
 <br> 
 
-## Trigger della campagna avanzata {#trigger-smart-campaign}
+## Trigger di una campagna avanzata {#trigger-smart-campaign}
 
 >[!NOTE]
 >
@@ -50,7 +49,7 @@ Se una campagna intelligente utilizza almeno un trigger all’interno della sezi
 
 ![](assets/trigger.png)
 
-Facendo clic sulla scheda **Schedule** (Pianificazione), la campagna avanzata viene impostata su &quot;Triggered&quot; (Attivato).
+Fai clic sul pulsante **Pianificazione** La scheda conferma che la campagna intelligente è impostata su &quot;Attivato&quot;.
 
 ![](assets/trigger2.png)
 
@@ -61,4 +60,4 @@ Facendo clic sulla scheda **Schedule** (Pianificazione), la campagna avanzata vi
 
 >[!TIP]
 >
->Utilizza il [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) per vedere cosa si è verificato passo dopo passo all&#39;interno delle campagne intelligenti. Puoi trovare il registro attività nell’ultima scheda della pagina dei dettagli di una persona.
+>Utilizza la [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) per vedere cosa si è verificato passo dopo passo all’interno delle campagne intelligenti. Puoi trovare il registro attività nell’ultima scheda della pagina dei dettagli di una persona.

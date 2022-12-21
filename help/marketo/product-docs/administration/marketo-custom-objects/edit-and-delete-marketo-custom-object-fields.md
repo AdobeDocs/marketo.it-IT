@@ -3,7 +3,6 @@ unique-page-id: 10095453
 description: Modificare ed eliminare i campi oggetto personalizzati di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Modificare ed eliminare i campi oggetto personalizzati Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
@@ -45,7 +44,7 @@ Quando non è più necessario un campo in un oggetto personalizzato, è possibil
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   Assicurati di voler eliminare il campo prima di premere il trigger! Fare clic su **Elimina**.
+   Assicurati di voler eliminare il campo prima di premere il trigger! Fai clic su **Elimina**.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 

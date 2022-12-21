@@ -1,42 +1,41 @@
 ---
 unique-page-id: 2949283
-description: Invia e tieni traccia da Outlook utilizzando un modello Marketo - Documenti Marketo - Documentazione prodotto
-title: Invio e tracciamento da Outlook con un modello Marketo
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Inviare e tenere traccia da Outlook utilizzando un modello Marketo - Documenti Marketo - Documentazione del prodotto
+title: Invia e tieni traccia da Outlook utilizzando un modello Marketo
+exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
 # Invia e tieni traccia da Outlook utilizzando un modello Marketo {#send-and-track-from-outlook-using-a-marketo-template}
 
-Se il team di marketing ti ha reso disponibili i modelli, ecco come utilizzarli per risparmiare tempo nella composizione delle e-mail.
+Se il team marketing ti ha reso disponibili i modelli, puoi utilizzarli per risparmiare tempo nella composizione delle e-mail.
 
-1. Aprire Microsoft Outlook e fare clic su **Messaggio marketing**.
+1. Apri Microsoft Outlook e fai clic su **Messaggio Marketo**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. Selezionate il modello desiderato, visualizzatelo in anteprima e fate clic su **OK**.
+1. Selezionare il modello desiderato, visualizzarlo in anteprima e fare clic su **OK**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Apportate tutte le modifiche, quindi fate clic su **Invia e tieni traccia**.
+1. Apporta tutte le modifiche, quindi fai clic su **Invio e tracciamento**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
    >[!NOTE]
    >
-   >I token non sono supportati con il componente aggiuntivo. Rimuovete eventuali elementi eventualmente presenti nel modello.
+   >I token non sono supportati con il componente aggiuntivo . Rimuovi eventuali elementi presenti nel modello.
 
-1. Controlla l&#39;anteprima, accertati che sia buona, quindi fai clic su **Send**.
+1. Controlla l&#39;anteprima, accertati che sia buona, quindi fai clic su **Invia**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   Ed eccola! È stato possibile risparmiare un sacco di tempo utilizzando modelli creati dal team di marketing straordinario per voi.
+   Ed eccoti qui! È stato possibile risparmiare un sacco di tempo utilizzando modelli che il tuo fantastico team di marketing ha creato per te.
 
 >[!MORELIKETHIS]
 >
->[Registra posta in entrata dai lead di Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Registra messaggi in entrata dai lead in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

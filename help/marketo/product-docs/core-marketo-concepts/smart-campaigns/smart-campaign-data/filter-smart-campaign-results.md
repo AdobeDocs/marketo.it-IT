@@ -3,7 +3,6 @@ unique-page-id: 1147068
 description: Filtrare i risultati di una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Filtrare i risultati di una campagna avanzata
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Filtrare i risultati delle campagne avanzate {#filter-smart-campaign-results}
+# Filtrare i risultati di una campagna avanzata {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +20,7 @@ Filtra i risultati delle campagne intelligenti per visualizzare attività specif
 
 ## Filtrare per filtri salvati {#filter-by-saved-filters}
 
-1. Nella scheda **Risultati** della campagna intelligente, fai clic su **Filtro** e seleziona un filtro salvato.
+1. Nella tua campagna intelligente **Risultati** scheda , fai clic su **Filtro** e selezionare un filtro salvato.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -31,7 +30,7 @@ Filtra i risultati delle campagne intelligenti per visualizzare attività specif
 
 ## Creare un filtro personalizzato {#create-a-custom-filter}
 
-1. Fai clic su **Filtro**, quindi **Personalizzato**.
+1. Fai clic su **Filtro** e poi **Personalizzato**.
 
    ![](assets/filterscustom-hands.png)
 

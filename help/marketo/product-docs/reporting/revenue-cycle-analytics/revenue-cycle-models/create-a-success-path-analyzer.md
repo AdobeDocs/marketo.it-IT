@@ -1,61 +1,60 @@
 ---
 unique-page-id: 2360411
-description: Creare un analizzatore percorso di successo - Documenti Marketo - Documentazione prodotto
-title: Creare un analizzatore percorso di successo
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Creare un analisi dei percorsi di successo - Documenti Marketo - Documentazione del prodotto
+title: Creare un analizzatore del percorso di successo
+exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
+# Creare un analizzatore del percorso di successo {#create-a-success-path-analyzer}
 
-# Creare un analizzatore percorso di successo {#create-a-success-path-analyzer}
-
-Ottenere una rappresentazione visiva della velocità e del flusso attraverso il modello del ciclo di ricavi.
+Ottieni una rappresentazione visiva di velocità e flusso attraverso il tuo modello di ciclo dei ricavi.
 
 >[!PREREQUISITES]
 >
 >[Creare un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Fare clic sulla sezione **Analytics**.
+1. Fai clic sul pulsante **Analytics** piastrelle.
 
    ![](assets/one.png)
 
-1. Fare clic sull&#39;icona **Success Path Analyzer**.
+1. Fai clic sul pulsante **Analisi del percorso di successo** icona.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Se ricevi un avviso che segnala che non sono stati trovati dati nell&#39;intervallo di tempo specificato, fai clic su **Chiudi** per cambiare l&#39;intervallo di tempo. Se non viene richiesto, ma si desidera modificare l&#39;intervallo di tempo, andare a **Setup** e fare doppio clic su **Time Frame**.
+   >Se ricevi un avviso che segnala che non sono stati trovati dati nell&#39;intervallo di tempo specificato, fai clic su **Chiudi** per cambiare l&#39;intervallo temporale. Se non viene richiesto, ma si desidera modificare l&#39;intervallo di tempo, passare a **Configurazione** e fai doppio clic **Intervallo temporale**.
 
-1. Se non disponete di dati o modificate l&#39;intervallo di tempo, selezionatene uno dall&#39;elenco a discesa e fate clic su Salva.
+1. Se non disponi di dati o stai modificando l&#39;intervallo di tempo, selezionane uno dall&#39;elenco a discesa e fai clic su Salva.
 
    ![](assets/timeframe.png)
 
    >[!TIP]
    >
-   >Per selezionare un intervallo specifico, selezionare i campi **Personalizzato** e utilizzare i campi **Da** e **A**.
+   >Per selezionare un intervallo specifico, seleziona **Personalizzato** e utilizza **Da** e **A** campi.
 
-1. Se si dispone di più modelli ciclo ricavi, selezionare quello desiderato dalla scheda **Setup**.
+1. Se disponi di più modelli di ciclo dei ricavi, seleziona quello desiderato dalla **Configurazione** scheda .
 
    ![](assets/four.png)
 
-1. Selezionare il modello appropriato e fare clic su **Applica**.
+1. Scegliete il modello appropriato e fate clic su **Applica**.
 
    ![](assets/five.png)
 
-1. Fare clic sulla scheda **Success Path Analyzer**.
+1. Fai clic sul pulsante **Analisi del percorso di successo** scheda .
 
    ![](assets/success-tab.png)
 
-Ora potete esplorare il movimento da ogni fase a quello successivo!
+Ora è possibile esplorare il movimento da ogni fase al successivo!
 
 >[!TIP]
 >
->Vuoi salvare il tuo rapporto? Fare clic sul menu a discesa **Azioni analizzatore** e selezionare **Salva con nome**.
+>Vuoi salvare il tuo rapporto? Fai clic sul pulsante **Azioni di Analyzer** a discesa e seleziona **Salva con nome**.
 
 >[!MORELIKETHIS]
 >

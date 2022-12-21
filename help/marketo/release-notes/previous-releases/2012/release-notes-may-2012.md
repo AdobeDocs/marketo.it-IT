@@ -36,7 +36,7 @@ Figura 2. Esempio di filtro e-mail archiviato
 
 ## Nuova app per il check-in di eventi per iPad {#new-event-check-in-app-for-ipad}
 
-Semplifica il processo di check-in degli eventi utilizzando la nostra nuova app per iPad! L’app Event Check-in si sincronizza con il tuo programma Marketo e ti consente di controllare facilmente i registranti in un evento, nonché di aggiungere nuovi lead al volo.
+Semplifica il processo di check-in degli eventi utilizzando la nostra nuova app iPad. L’app Event Check-in si sincronizza con il tuo programma Marketo e ti consente di controllare facilmente i registranti in un evento, nonché di aggiungere nuovi lead al volo.
 
 Richiede iOS 5.1 o versione successiva; Solo iPad.
 
@@ -54,7 +54,7 @@ Figura 5. Controllatele
 
 ## URL di conferma del webinar migliorato {#enhanced-webinar-confirmation-url}
 
-Ora disponibile per ON24 e Adobe Connect! Includi un collegamento univoco nell’e-mail di conferma per ogni partecipante registrato utilizzando il nuovo token `{{member.webinar URL}}`. I miglioramenti di Adobe Connect includono anche la possibilità di attivare/disattivare l&#39;e-mail con le informazioni sull&#39;account Adobe che include l&#39;ID di accesso e la password per l&#39;utente.
+Ora disponibile per ON24 e Adobe Connect! Includi un collegamento univoco nell&#39;e-mail di conferma per ogni partecipante registrato utilizzando il nuovo `{{member.webinar URL}}` token. I miglioramenti di Adobe Connect includono anche la possibilità di attivare/disattivare l&#39;e-mail con le informazioni sull&#39;account Adobe che include l&#39;ID di accesso e la password per l&#39;utente.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 

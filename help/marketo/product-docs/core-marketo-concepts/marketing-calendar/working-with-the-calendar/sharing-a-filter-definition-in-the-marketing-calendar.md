@@ -3,7 +3,6 @@ unique-page-id: 1147304
 description: Condivisione di una definizione di filtro nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
 title: Condivisione di una definizione di filtro nel calendario di marketing
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'

@@ -16,7 +16,7 @@ Le seguenti funzionalità sono incluse nella versione di agosto 2013.
 
 **E-mail solo testo**
 
-Ora puoi inviare [solo la versione di testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) di un&#39;e-mail. Tieni presente che i collegamenti non verranno decorati quando utilizzi questa opzione.
+Ora puoi inviare [solo la versione testuale](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) di un messaggio e-mail. Tieni presente che i collegamenti non verranno decorati quando utilizzi questa opzione.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -24,13 +24,13 @@ Ora puoi inviare [solo la versione di testo](/help/marketo/product-docs/email-ma
 
 ### Ignora contenuto esaurito {#ignore-exhausted-content}
 
-Configura il programma di coinvolgimento per [ignorare l&#39;esaurimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), inclusa l&#39;eliminazione di eventuali notifiche.
+Configura il programma di coinvolgimento per [ignorare l&#39;esaurimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), compresa la soppressione delle notifiche.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Test del flusso di coinvolgimento {#engagement-stream-testing}
 
-Utilizza la [nuova funzione di test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) per simulare un cast e testare il contenuto appena aggiunto a un flusso live.
+Utilizza la [nuova funzionalità di test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) per simulare un cast e testare il contenuto appena aggiunto in un flusso live.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -48,7 +48,7 @@ Utilizza questi [nuovi token](/help/marketo/product-docs/email-marketing/general
 
 ## Pulizia automatica della campagna di attivazione {#automatic-trigger-campaign-cleanup}
 
-Marketo ti avviserà periodicamente e disattiverà automaticamente le campagne trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) che non sono state eseguite negli ultimi sei mesi.[
+Marketo ti avviserà periodicamente e [disattivare automaticamente le campagne di attivazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) che non hanno funzionato negli ultimi sei mesi.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

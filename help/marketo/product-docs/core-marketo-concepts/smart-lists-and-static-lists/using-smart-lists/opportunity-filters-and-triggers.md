@@ -3,15 +3,14 @@ unique-page-id: 8159286
 description: Filtri e attivatori per le opportunità - Documenti Marketo - Documentazione del prodotto
 title: Filtri e attivatori per le opportunità
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-# Filtri e attivatori opportunità {#opportunity-filters-and-triggers}
+# Filtri e attivatori per le opportunità {#opportunity-filters-and-triggers}
 
 I filtri e gli attivatori delle opportunità ti consentono di tenere traccia degli eventi delle opportunità da Salesforce. Sono un po&#39; diversi rispetto ad altri filtri e trigger.
 
@@ -27,7 +26,7 @@ I filtri delle opportunità ti consentono di analizzare in profondità i lead Sa
 * Opportunità rimossa
 * Opportunità aggiornata
 
-Se cerchi i campi Opportunità (personalizzati o standard), utilizza il filtro **Con opportunità** o **L&#39;opportunità era`[Added/Removed/Updated]`** filtri o trigger.
+Se cerchi i campi Opportunità (personalizzati o standard), utilizza la **Ha opportunità** filtro o **L&#39;opportunità era`[Added/Removed/Updated]`** filtri o attivatori.
 
 **Numero di opzioni, Importo totale dell&#39;opzione, Ricavi totali previsti dell&#39;opzione**
 
@@ -37,10 +36,10 @@ Con questi filtri, puoi trovare i lead in base al numero totale, alla quantità 
 
 **Ha un&#39;opportunità, è stata aggiunta all&#39;opportunità, è stata rimossa dall&#39;opportunità**
 
-Se cerchi lead che hanno opportunità in base a una combinazione di criteri, utilizza il filtro **Con opportunità**, **È stato aggiunto a Opportunity** o **È stato rimosso da Opportunity** . Vi dicono:
+Se cerchi dei lead che hanno opportunità basate su una combinazione di criteri, utilizza le **Ha opportunità**, **È stato aggiunto all&#39;opportunità** oppure **È stato rimosso dall&#39;opportunità** filtro. Vi dicono:
 
 * **Ha opportunità**: Se questo lead ha al momento qualche opportunità di corrispondenza
-* **È stato aggiunto a Opportunità**: Se questo lead è stato aggiunto a un’opportunità corrispondente
+* **È stato aggiunto all&#39;opportunità**: Se questo lead è stato aggiunto a un’opportunità corrispondente
 * **È stato rimosso dall&#39;opportunità**: Se questo lead è stato rimosso da un’opportunità corrispondente
 
 Aggiungi i criteri di ricerca come **Vincoli** sul filtro. I vincoli includono i campi di opportunità standard e personalizzati:
@@ -49,7 +48,7 @@ Aggiungi i criteri di ricerca come **Vincoli** sul filtro. I vincoli includono i
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Ad esempio, supponiamo di voler trovare i lead che hanno opportunità aperte di almeno 5.000 $. Trascina il filtro **Ha opportunità** e utilizza i vincoli **È chiuso** e **Importo**:
+Ad esempio, supponiamo di voler trovare i lead che hanno opportunità aperte di almeno 5.000 $. Trascina **Ha opportunità** e utilizza **È chiuso** e **Importo** vincoli:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -59,7 +58,7 @@ Ad esempio, supponiamo di voler trovare i lead che hanno opportunità aperte di 
 
 **Opportunità aggiornata**
 
-Il filtro **Opportunità è stata aggiornata** cerca qualsiasi opportunità quando un campo opportunità specifico è stato aggiornato. Scegli il campo da controllare con il menu a discesa Attributo trigger, quindi utilizza i vincoli per limitare il set di modifiche.
+La **Opportunità aggiornata** Il filtro cerca qualsiasi opportunità quando un campo opportunità specifico è stato aggiornato. Scegli il campo da controllare con il menu a discesa Attributo trigger, quindi utilizza i vincoli per limitare il set di modifiche.
 
 Ad esempio, questo filtro mostrerà a tutti i lead che hanno subito modifiche alla data di chiusura negli ultimi 30 giorni:
 
@@ -77,6 +76,6 @@ Ad esempio, puoi utilizzare questo Smart List per attivarsi quando viene aggiunt
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Per disattivare i campi personalizzati delle opportunità, utilizza l&#39;attivatore **Opportunity is Updated** (Opportunità aggiornata) e scegli il campo nel menu a discesa:
+Per disattivare i campi personalizzati delle opportunità, utilizza le **Opportunità aggiornata** attiva e seleziona il campo nel menu a discesa:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)

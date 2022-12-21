@@ -1,42 +1,41 @@
 ---
 unique-page-id: 10100397
-description: Informazioni sui messaggi in-app - Documenti Marketo - Documentazione prodotto
+description: Informazioni sui messaggi in-app - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sui messaggi in-app
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
 # Informazioni sui messaggi in-app {#understanding-in-app-messages}
 
 >[!NOTE]
 >
->La messaggistica in-app è un&#39;applicazione aggiuntiva. Conferma con il tuo account manager Marketo per essere sicuro che sia attivato.
+>La messaggistica in-app è un’applicazione aggiuntiva. Conferma con il tuo account manager Marketo per assicurarti che sia attivato.
 
-Utilizzate i messaggi in-app per interagire direttamente con i clienti mentre utilizzano l&#39;app. Quando aprono o eseguono un&#39;azione personalizzata, puoi presentare un&#39;offerta promozionale. Un clic li porta a una pagina di destinazione, a un sito Web esterno o a un collegamento profondo, dove possono ottenere ulteriori informazioni e fare un acquisto. Oppure, il clic può semplicemente ignorare il messaggio.  Potete anche utilizzare i messaggi in-app come promemoria per i clienti, ad esempio, per completare il loro profilo o per informarli sulle nuove funzionalità dell&#39;app.
+Utilizza i messaggi in-app per interagire direttamente con i clienti durante l’utilizzo dell’app. Quando aprono o intraprendono un’azione personalizzata, puoi presentare un’offerta promozionale. Con un solo clic possono passare a una pagina di destinazione, a un sito web esterno o a un collegamento profondo, dove possono ulteriori informazioni e fare un acquisto. Oppure, puoi semplicemente ignorare il messaggio.  Puoi anche utilizzare i messaggi in-app come promemoria per i clienti, ad esempio, per completare il profilo o per informarli sulle nuove funzioni dell’app.
 
 >[!NOTE]
 >
->**Esempio 1**: La promozione &quot;Vendita estiva&quot; viene visualizzata all&#39;apertura dell&#39;app.
+>**Esempio 1**: All’apertura dell’app viene visualizzato il messaggio promozionale &quot;Vendita estiva&quot;.
 >
->**Esempio 2**: Durante la visione di un video medico, pianificare una visita medica, e attiva un coupon di $40.
+>**Esempio 2**: Durante la visione di un video medico, programmare una visita medica, e innesca un $ 40 off coupon.
 
-Prima di poter creare e inviare messaggi in-app per la tua app mobile, devi essere l&#39;amministratore di Marketing e lo sviluppatore di app mobile per eseguire alcune impostazioni.  Il processo di produzione dei messaggi in-app è suddiviso in tre fasi:
+Prima di poter creare e inviare messaggi in-app per la tua app mobile, devi essere l’amministratore di Marketo e lo sviluppatore di app mobili per eseguire alcune impostazioni.  Sono disponibili tre passaggi per la generazione di messaggi in-app:
 
-## Passaggio 1: Amministratore e sviluppatore eseguono le impostazioni iniziali {#step-admin-and-developer-perform-initial-setups}
+## Passaggio 1: Amministrazione e sviluppatori eseguono le impostazioni iniziali {#step-admin-and-developer-perform-initial-setups}
 
-Lo sviluppatore di app marketing e per dispositivi mobili collabora per configurarti. Per informazioni, consultate [Prima di creare notifiche push e messaggi in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
+Lo sviluppatore di app mobili e amministratori di Marketo collabora per configurarti. Vedi [Prima di creare notifiche push e messaggi in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) per i dettagli.
 
 ## Passaggio 2: Creare un messaggio in-app {#step-create-an-in-app-message}
 
-[create un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) utilizzando l&#39;editor online.
+You [creare un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) utilizzando l’editor online.
 
 ## Passaggio 3: Invia! {#step-send}
 
-Si crea un programma per [inviare il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Crea un programma per [inviare il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 Sta arrivando.

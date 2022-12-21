@@ -1,29 +1,28 @@
 ---
 unique-page-id: 11378871
-description: Usa messaggi SMS Vibs in Smart List Triggers e Filtri - Marketo Docs - Documentazione del prodotto
-title: Utilizzare i messaggi SMS Vibs in attivatori e filtri di elenchi avanzati
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Utilizzare messaggi SMS Vibes in attivatori e filtri di elenchi avanzati - Documenti Marketo - Documentazione del prodotto
+title: Utilizzare messaggi SMS Vibes in attivatori e filtri di elenchi avanzati
+exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
+# Utilizzare messaggi SMS Vibes in attivatori e filtri di elenchi avanzati {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-# Utilizzare i messaggi SMS Vibb in attivatori e filtri di elenchi avanzati {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
+Dopo [creare un messaggio SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md), utilizza i trigger e filtri di elenchi avanzati all’interno di una campagna intelligente per ottenere i vantaggi. Ecco come.
 
-Dopo aver [creato un messaggio Vibes SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md), sarà necessario utilizzare attivatori e filtri per elenchi intelligenti all&#39;interno di una campagna intelligente per ottenere i vantaggi. Ecco come.
-
-1. In My Marketo, fate clic su **Marketing Activities**.
+1. In My Marketo, fai clic su **Attività di marketing**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Scegliete una campagna intelligente in cui desiderate utilizzare la risorsa SMS. Trascinare su un trigger, ad esempio il popolare **Riempie il modulo**.
+1. Scegli una campagna intelligente in cui desideri utilizzare la risorsa SMS. Trascina su un trigger, ad esempio **Riempie il modulo**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
-## Triggers SMS {#sms-triggers}
+## Trigger SMS {#sms-triggers}
 
 Sono disponibili altri attivatori SMS. Gli attivatori SMS vengono visualizzati solo se il servizio Vibes è abilitato.
 
@@ -31,36 +30,36 @@ Sono disponibili altri attivatori SMS. Gli attivatori SMS vengono visualizzati s
 
 Di seguito sono riportati alcuni esempi:
 
-L&#39;attivatore Bounces messaggio SMS avvia un flusso, ad esempio l&#39;invio di un&#39;e-mail, quando un messaggio SMS viene rimbalzato.
+L’attivazione dei rimbalzi di messaggio SMS avvia un flusso, ad esempio l’invio di un’e-mail, quando un messaggio SMS rimbalza.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Il trigger **Iscrizioni a elenco vibrazioni** avvia un flusso quando una persona si iscrive.
+La **Iscriviti all’elenco Vibes** trigger avvia un flusso quando una persona si abbona.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Il **clic su Collega in SMS Message** attiva un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
+La **Clic su Collega nel messaggio SMS** l’attivatore avvia un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## Filtri SMS {#sms-filters}
 
-Potete anche utilizzare i filtri Vibes negli elenchi smart. Il filtro **Iscrizione a Vibes List** individua chiunque abbia *mai* sottoscritto a Vibes. Questo include sia persone non sottoscritte che eliminate, anche se le persone eliminate vengono omesse dal flusso. Questo filtro è ideale per i report.
+È inoltre possibile utilizzare i filtri Vibes negli elenchi avanzati. La **Lista Vibes sottoscritta** il filtro trova chiunque abbia *mai* abbonato a Vibes. Ciò include sia le persone non sottoscritte che eliminate, anche se le persone eliminate vengono omesse dal flusso. Questo filtro è più adatto per i rapporti.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Per contro, il filtro **Member of Vibes List** trova _chiunque_ attualmente sia iscritto a Vibes ed è particolarmente indicato per l&#39;utilizzo in campagne o elenchi intelligenti.
+Al contrario, il **Membro dell&#39;elenco delle vibrazioni** ricerca di filtri _chiunque_ attualmente abbonato a Vibes ed è più adatto per l’utilizzo in campagne o elenchi intelligenti.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Tutti i filtri SMS includono il vincolo **Data dell&#39;attività** per impostazione predefinita.
+>Tutti i filtri SMS includono **Data dell’attività** per impostazione predefinita.
 
-Dopo aver impostato attivatori e filtri Vibes nell&#39;elenco smart, è possibile definire il flusso](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).[
+Dopo aver configurato attivatori e filtri Vibes nell’elenco avanzato, puoi [definire il flusso](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Definisci elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Trovare e aggiungere filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definire un elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Ricerca e aggiunta di filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 

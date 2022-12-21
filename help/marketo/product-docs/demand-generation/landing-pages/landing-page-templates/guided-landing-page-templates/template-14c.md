@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 14C {#template-14c}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 14C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 

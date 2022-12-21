@@ -1,19 +1,18 @@
 ---
 unique-page-id: 10093041
-description: Modifica di un abbonamento a un elenco avanzato - Marketo Docs - Documentazione prodotto
+description: Modificare un abbonamento a un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Modificare una sottoscrizione a un elenco avanzato
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Modificare una sottoscrizione a un elenco avanzato {#edit-a-smart-list-subscription}
 
-# Modifica iscrizione a Smart List {#edit-a-smart-list-subscription}
-
-Potete modificare queste colonne direttamente nella scheda Iscrizioni, che viene visualizzata in Attività di marketing o nel database:
+Puoi modificare queste colonne direttamente nella scheda Sottoscrizioni , visualizzata in Attività di marketing o Database:
 
 * Destinatari
 * Frequenza
@@ -21,34 +20,34 @@ Potete modificare queste colonne direttamente nella scheda Iscrizioni, che viene
 * Fine consegna
 * Formato
 
-1. Selezionate **Database** (in questo esempio viene utilizzato anche se Marketing Activities funziona esattamente allo stesso modo).
+1. Seleziona **Database** (lo usiamo in questo esempio, ma Marketing Activities funziona esattamente nello stesso modo).
 
    ![](assets/db-1.png)
 
-1. Selezionate l’iscrizione da modificare.
+1. Seleziona la sottoscrizione da modificare.
 
    ![](assets/two.png)
 
-1. Fate clic sulla colonna Destinatari e si apre in modo da poter inserire altri indirizzi e-mail (separateli con una virgola).
+1. Fai clic nella colonna Destinatari per accedere e immettere altri indirizzi e-mail (separali con una virgola).
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Fare clic sulla colonna **Frequenza** per scegliere o modificare l&#39;impostazione.
+1. Fai clic sul pulsante **Frequenza** per scegliere o modificare l’impostazione.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Aprite la colonna **Colonne** e utilizzate il selettore per aggiungere o rimuovere colonne dal rapporto. Colonne rapporto contiene tutte le colonne disponibili e Colonne marketing mostra solo quelle selezionate per essere visualizzate nel rapporto. Fare clic su **Salva**.
+1. Apri **Colonne** e utilizza il selettore per aggiungere o rimuovere colonne dal report. Le colonne dei rapporti contengono tutte le colonne disponibili e le colonne di Marketo mostrano solo quelle selezionate per la visualizzazione nel rapporto. Fai clic su **Salva**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
    >[!NOTE]
    >
-   >Le colonne sotto Marketo Colonne sono le colonne del rapporto, non quelle utilizzate nella scheda del rapporto Iscrizioni.
+   >Le colonne in Marketo Columns sono le colonne del rapporto, non quelle utilizzate nella scheda del rapporto Sottoscrizioni.
 
-1. Fare clic sulla colonna **Data di fine** per modificare la data di fine. Selezionare **Never** o **Date**. Per una data, immettetela o sceglietela dal calendario. Fare clic su **Approva**.
+1. Fai clic sul pulsante **Data di fine** per modificare la data di fine. Seleziona **Mai** o **Data**. Per una data, inseriscila o sceglierla dal calendario. Fai clic su **Approva**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. L&#39;ultimo pezzo del puzzle è il formato. Fare clic sulla colonna **Formato** e selezionare quello desiderato. CSV è il valore predefinito.
+1. L&#39;ultimo pezzo del puzzle è il formato. Fai clic sul pulsante **Formato** e selezionare quello desiderato. CSV è il valore predefinito.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

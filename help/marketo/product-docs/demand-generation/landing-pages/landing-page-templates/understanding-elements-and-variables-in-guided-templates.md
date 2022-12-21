@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7515069
-description: Informazioni sugli elementi e le variabili nei modelli guidati - Documenti Marketo - Documentazione prodotto
-title: Informazioni sugli elementi e le variabili nei modelli guidati
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Elementi e variabili nei modelli guidati - Documenti Marketo - Documentazione del prodotto
+title: Elementi e variabili nei modelli guidati
+exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Informazioni sugli elementi e le variabili nei modelli guidati {#understanding-elements-and-variables-in-guided-templates}
+# Elementi e variabili nei modelli guidati {#understanding-elements-and-variables-in-guided-templates}
 
 I modelli delle pagine di destinazione guidati hanno due tipi di sezioni modificabili: elementi e variabili.
 
@@ -21,17 +20,17 @@ Gli elementi sono i diversi contenuti che compongono una pagina di destinazione.
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
-Quando modificate una pagina di destinazione guidata, gli elementi vengono visualizzati se sono stati contrassegnati come modificabili nel modello. Gli elementi avranno le seguenti icone:
+Quando modifichi una pagina di destinazione guidata, gli elementi vengono visualizzati se sono stati contrassegnati come modificabili nel modello. Gli elementi avranno le seguenti icone:
 
-* ![—](assets/image2015-5-20-12-3a30-3a48.png) Immagine
-* ![—Modulo ](assets/image2015-5-20-12-3a31-3a33.png)Marketo
-* ![—](assets/image2015-5-20-12-3a41-3a21.png)Testo
+* ![--](assets/image2015-5-20-12-3a30-3a48.png) Immagine
+* ![—](assets/image2015-5-20-12-3a31-3a33.png)Modulo Marketo
+* ![--](assets/image2015-5-20-12-3a41-3a21.png)Testo
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Video
-* ![—Pulsante ](assets/image2015-5-20-12-3a44-3a17.png)Marketo Share
-* ![—Sondaggio ](assets/image2015-5-20-12-3a43-3a21.png)Marketo
+* ![—](assets/image2015-5-20-12-3a44-3a17.png)Pulsante Condividi Marketo
+* ![—](assets/image2015-5-20-12-3a43-3a21.png)Sondaggio Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Riferimento Marketo
-* ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
-* ![—Snippet ](assets/image2015-5-20-12-3a47-3a45.png)Marketo
+* ![—](assets/image2015-5-20-12-3a44-3a40.png)Sweepstakes Marketo
+* ![—](assets/image2015-5-20-12-3a47-3a45.png)Frammento Marketo
 
 ## Variabili {#variables}
 
@@ -39,7 +38,7 @@ Le variabili sono attributi simili a token che possono essere personalizzati dal
 
 ![](assets/image2015-5-20-15-3a0-3a2.png)
 
-Esistono tre tipi di variabili: variabili stringa, variabili colore e variabili booleane.
+Esistono tre tipi di variabili: variabili stringa, variabili di colore e variabili booleane.
 
 <table> 
  <tbody> 
@@ -49,15 +48,15 @@ Esistono tre tipi di variabili: variabili stringa, variabili colore e variabili 
   </tr> 
   <tr> 
    <td>Colore</td> 
-   <td><p>Codice esadecimale modificabile per il colore</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Esempio: Colore di sfondo, colore del font, colore del bordo</p></td> 
+   <td><p>Codice esadecimale modificabile per il colore</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempio: Colore di sfondo, colore del font, colore del bordo</p></td> 
   </tr> 
   <tr> 
    <td>Booleano</td> 
-   <td><p>Leva che controlla gli stati di attivazione/disattivazione per oggetti o formati sulla pagina di destinazione</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Esempi: Mostra piè di pagina (Sì/No), Conteggio colonne (1/2), Google Analytics da incorporare (Vero/Falso)</p></td> 
+   <td><p>Leva che controlla gli stati di attivazione/disattivazione di oggetti o formati nella pagina di destinazione</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempi: Mostra piè di pagina (Sì/No), Conteggio colonne (1/2), Google Analytics di incorporamento (True/False)</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Creare un modello di pagina di destinazione guidato](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[Creare un modello di pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

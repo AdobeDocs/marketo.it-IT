@@ -1,36 +1,35 @@
 ---
 unique-page-id: 11382593
-description: Impostazione della personalizzazione Web per non tenere traccia - Documenti Marketo - Documentazione prodotto
-title: Impostazione della personalizzazione Web per non tenere traccia
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Impostazione della personalizzazione web su Do Not Track - Marketo Docs - Documentazione del prodotto
+title: Impostazione della personalizzazione web per non tenere traccia
+exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
+# Impostazione della personalizzazione web per non tenere traccia {#setting-web-personalization-to-do-not-track}
 
-# Impostazione della personalizzazione Web per non tenere traccia di {#setting-web-personalization-to-do-not-track}
+I visitatori web possono impostare il proprio browser per impedire il tracciamento da parte di qualsiasi sito web, scegliendo &quot;Do Not Track&quot; (DNT). Questo impedisce il tracciamento per quel particolare browser e dispositivo.
 
-I visitatori Web possono impostare il proprio browser per impedire il tracciamento da parte di qualsiasi sito Web, scegliendo &quot;Non tenere traccia&quot; (DNT). Questo impedisce il tracciamento per quel particolare browser e dispositivo.
+In Personalizzazione web e Contenuto predittivo, un addetto al marketing può impostare un interruttore per indicare se supportare o ignorare l’impostazione Do Not Track (DNT) del browser. L’opzione di attivazione per gli account è disattivata come impostazione predefinita, il che significa che l’applicazione non rispetta il DNT.
 
-In Personalizzazione Web e Predictive Content (Contenuto predittivo), un esperto di marketing può impostare un interruttore per indicare se supportare o ignorare l&#39;impostazione Do Not Track (DNT) del browser. L&#39;attivazione dell&#39;attivazione per gli account è disattivata come impostazione predefinita, il che significa che il DNT non viene rispettato dall&#39;applicazione.
-
-## Attivare o disattivare l&#39;interruttore {#enable-or-disable-the-toggle}
+## Attiva o disattiva l&#39;interruttore {#enable-or-disable-the-toggle}
 
 1. Vai a **Impostazioni account**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. In Configurazione dominio e dominio, selezionare **Attivato** per attivare l&#39;opzione Honor DNT.
+1. In Configurazione dominio e dominio, seleziona **On** per attivare l&#39;interruttore Honor DNT.
 
    ![](assets/two-1.png)
 
-   Quando l&#39;opzione è attivata, Web Personalization (Personalizzazione Web) rispetta e supporta l&#39;impostazione DNT (Do Not Track) del browser e non tiene traccia di alcuna attività Web né esegue campagne o raccomandazioni di contenuto sul sito Web.
+   Quando l’opzione è attivata, la personalizzazione web rispetterà e supporterà l’impostazione Do Not Track (DNT) del browser e non terrà traccia di alcuna attività web né eseguirà campagne o consigli di contenuto sul sito web.
 
    >[!NOTE]
    >
-   >L&#39;impostazione di attivazione può influenzare il valore e la funzionalità di Marketo in aree specifiche.
+   >L’impostazione dell’opzione su Attivato potrebbe influenzare il valore e la funzionalità di Marketo in aree specifiche.
 
-1. Per disattivare l&#39;opzione Honor DNT e ignorare l&#39;impostazione Do No Track (DNT) del browser, selezionare **Off** in Honor DNT.
+1. Per disattivare l’opzione Honor DNT e ignorare l’impostazione Do No Track (DNT) del browser, seleziona **Disattivato** sotto Honor DNT.

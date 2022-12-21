@@ -3,7 +3,6 @@ unique-page-id: 557130
 description: Informazioni sugli elenchi avanzati - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sugli elenchi avanzati
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
@@ -15,8 +14,8 @@ ht-degree: 0%
 
 Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzando filtri semplici. Sono utilizzati in tutta Marketo, ad esempio in campagne intelligenti, programmi, rapporti, segmentazioni, modelli di business, programmi di coinvolgimento, contenuti dinamici e altro ancora. A seconda delle esigenze, in Marketo è possibile creare elenchi avanzati in due posizioni:
 
-1. In **Database**, dove sono disponibili per uso condiviso/globale (ad esempio, &quot;Tutte le persone non abbonate&quot;).
-1. In **programmi** come risorse locali, dove trovano un gruppo di persone rilevanti per quel programma specifico (ad esempio, &quot;Partecipazione a un programma commerciale&quot;).
+1. In **Database**, dove sono disponibili per uso condiviso/globale (ad es., &quot;All Unsubscribed People&quot;).
+1. In **programmi** come risorse locali, dove trovano un gruppo di persone rilevanti per quel programma specifico (ad esempio, &quot;Partecipazione al programma commerciale&quot;).
 
 I passaggi principali per la creazione di un elenco avanzato sono i seguenti:
 
@@ -28,13 +27,13 @@ Ecco un esempio di come appare una lista intelligente.
 
 ## Scheda principale {#main-tab}
 
-Qui puoi [modificare il nome dell&#39;elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) e visualizzare informazioni sull&#39;elenco avanzato.
+Qui puoi [modifica il nome dell’elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) e vedere informazioni sull&#39;elenco smart.
 
 ![](assets/smartlist.png)
 
 ## Scheda Persone {#people-tab}
 
-Qui vedete i risultati; ovvero tutte le persone idonee per i filtri aggiunti [e definiti](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) nella scheda Elenco avanzato.
+Qui vedete i risultati; ovvero tutte le persone che hanno diritto ai filtri [aggiunto e definito](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) nella scheda Smart List.
 
 ![](assets/smartlist-people.png)
 

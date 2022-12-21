@@ -3,10 +3,9 @@ unique-page-id: 8781988
 description: Informazioni sulle schede di Analytics - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle schede di Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 All&#39;inizio di ogni mese, Marketo Moments fornisce tre diverse schede di report: Lead acquisiti, nuovi lead e annullamenti degli abbonamenti. Ognuna mostra le prestazioni mensili e la tendenza su un periodo di sei mesi.
 
-## Schede Analytics {#analytics-cards}
+## Schede di Analytics {#analytics-cards}
 
 Quando tocchi una scheda di Analytics puoi:
 
@@ -37,7 +36,7 @@ In questo esempio, il rosso indica che il valore è diminuito nell’intervallo 
 
 ## Lead acquisiti {#acquired-leads}
 
-La scheda **Lead acquisiti** mostra un rapporto mensile con tendenze relative al numero di nuovi lead.
+La **Lead acquisiti** la scheda mostra un rapporto mensile con tendenze del numero di nuovi lead.
 
 >[!NOTE]
 >
@@ -47,13 +46,13 @@ La scheda **Lead acquisiti** mostra un rapporto mensile con tendenze relative al
 
 ## Nuovi lead {#new-leads}
 
-La scheda **Nuovi lead** mostra una tendenza nel rapporto mese-su-mese del numero totale di nuovi lead nell’istanza negli ultimi sei mesi.
+La **Nuovi lead** la scheda mostra un rapporto mensile con tendenze del numero totale di nuovi lead nell’istanza negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Annulla sottoscrizione {#unsubscribes}
 
-La scheda **Annulla abbonamenti** mostra un rapporto di tendenza mensile su mese del tasso di annullamento dell’abbonamento negli ultimi sei mesi.
+La **Annulla sottoscrizione** la scheda mostra un rapporto di tendenza mensile del tasso di annullamento dell’abbonamento negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 

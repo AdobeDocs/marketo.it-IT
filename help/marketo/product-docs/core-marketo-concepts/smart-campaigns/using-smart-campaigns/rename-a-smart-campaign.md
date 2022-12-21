@@ -3,7 +3,6 @@ unique-page-id: 1147049
 description: Rinominare una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Rinominare una campagna avanzata
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Rinomina una campagna avanzata {#rename-a-smart-campaign}
+# Rinominare una campagna avanzata {#rename-a-smart-campaign}
 
 Puoi modificare il nome di una campagna avanzata esistente. Ecco come.
 
@@ -27,7 +26,7 @@ Puoi modificare il nome di una campagna avanzata esistente. Ecco come.
    >
    >I nomi di campagne intelligenti all’interno dei programmi si traducono sempre nel formato &#39;NomeProgramma.NomeCampagna&#39;.
 
-1. Immetti il nuovo nome della campagna avanzata e fai clic su **Salva**.
+1. Inserisci il nuovo nome della campagna avanzata e fai clic su **Salva**.
 
    ![](assets/rename-cursorandhand.png)
 

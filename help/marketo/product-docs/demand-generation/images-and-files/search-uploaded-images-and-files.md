@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359862
-description: Cerca immagini e file caricati - Documenti Marketo - Documentazione del prodotto
-title: Cerca immagini e file caricati
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Ricerca di immagini e file caricati - Marketo Docs - Documentazione del prodotto
+title: Ricerca di immagini e file caricati
+exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Cerca immagini e file caricati {#search-uploaded-images-and-files}
+# Ricerca di immagini e file caricati {#search-uploaded-images-and-files}
 
 In Marketo, trovare immagini e file è un gioco da ragazzi.
 
-1. Andate a **Design Studio**.
+1. Vai a **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Fate clic su **Immagini e file** per visualizzare un elenco completo di tutti i file caricati.
+1. Fai clic su **Immagini e file** per visualizzare un elenco completo di tutti i file caricati.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. Nella casella **Ricerca rapida** in fondo allo schermo, digitare il nome del file che si sta cercando e fare clic su **Invio**.
+1. In **Ricerca rapida** nella parte inferiore dello schermo, digitare il nome del file che si sta cercando e fare clic su **Invio**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Per avviare una nuova ricerca, fare clic su **x** nella casella **Ricerca rapida**.
+>Per avviare una nuova ricerca, fai clic sul pulsante **x** in **Ricerca rapida** scatola.
 
-Alzate i piedi, avete finito!
+Alzati i piedi, hai finito!
 
 >[!MORELIKETHIS]
 >

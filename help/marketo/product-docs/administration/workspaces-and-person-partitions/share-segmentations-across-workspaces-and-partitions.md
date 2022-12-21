@@ -3,7 +3,6 @@ unique-page-id: 7515767
 description: Condivisione di segmenti tra aree di lavoro e partizioni - Documenti Marketo - Documentazione del prodotto
 title: Condivisione di segmenti tra aree di lavoro e partizioni
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Condividere segmenti tra aree di lavoro e partizioni {#share-segmentations-across-workspaces-and-partitions}
+# Condivisione di segmenti tra aree di lavoro e partizioni {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
 >
@@ -25,13 +24,13 @@ Marketo è brava a scegliere le persone giuste per un programma o una campagna i
 >
 >Scopri [come creare segmentazioni](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Una volta configurati questi utenti utente (_e_ utilizzi le aree di lavoro), dovrai condividerli tra le aree di lavoro. Ecco alcune buone cose da sapere:
+Una volta configurati questi utenti utente (_e_ se si utilizzano le aree di lavoro), è necessario condividerle tra le aree di lavoro. Ecco alcune buone cose da sapere:
 
 ## Regole e suggerimenti {#rules-tips}
 
 * Ogni abbonamento a Marketo può contenere fino a 20 Segmenti &quot;totali&quot; in più aree di lavoro (**non 20 per area di lavoro**).
 * Puoi condividere una segmentazione solo con le aree di lavoro a cui hai accesso.
-* Assicurati di creare e utilizzare un&#39;area di lavoro **Predefinita con visibilità in tutte le partizioni**.
+* Assicurati di creare e utilizzare un **Area di lavoro predefinita con visibilità in tutte le partizioni**.
 
 * L’elaborazione della segmentazione viene eseguita solo sulle persone nell’area di lavoro in cui viene creata la segmentazione.
 
@@ -56,15 +55,15 @@ Una volta configurati questi utenti utente (_e_ utilizzi le aree di lavoro), dov
 
 ## Condividere una segmentazione {#share-a-segmentation}
 
-1. Vai al **Database**.
+1. Vai a **Database**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Fai clic con il pulsante destro del mouse su **Segmentazioni** e seleziona **Nuove cartelle**.
+1. Fai clic con il pulsante destro del mouse **Segmenti** e seleziona **Nuove cartelle**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
-1. Denomina la cartella da condividere tra le aree di lavoro (ad esempio: Condividere segmenti).
+1. Denomina la cartella da condividere tra le aree di lavoro (esempio: Condividere segmenti).
 
    ![](assets/image2017-3-29-8-3a40-3a45.png)
 
@@ -76,7 +75,7 @@ Una volta configurati questi utenti utente (_e_ utilizzi le aree di lavoro), dov
 
    ![](assets/image2017-3-29-8-3a41-3a19.png)
 
-1. Selezionare le aree di lavoro con cui si desidera condividere la cartella. Fare clic su **Salva**.
+1. Selezionare le aree di lavoro con cui si desidera condividere la cartella. Fai clic su **Salva**.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 

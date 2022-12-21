@@ -3,11 +3,10 @@ unique-page-id: 1147023
 description: Chiama Webhook - Marketo Docs - Documentazione del prodotto
 title: Chiama Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,17 +18,17 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-I webhook ti consentono di interagire con i servizi di terze parti. Inviare/ricevere informazioni richiamando un webhook in un flusso di campagne intelligente.
+I webhook ti consentono di interagire con i servizi di terze parti. Invia/ricevi informazioni richiamando un webhook in un flusso di campagne intelligente.
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->Scopri le molte cose affascinanti che [Webhooks](https://developers.marketo.com/documentation/webhooks/) può fare per te.
+>Scopri le molte cose affascinanti che [Webhook](https://developers.marketo.com/documentation/webhooks/) Posso fare per te.
 
 ## Utilizzo {#usage}
 
-Seleziona un **Webhook** dal menu a discesa.
+Seleziona una **Webhook** dal menu a discesa.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 

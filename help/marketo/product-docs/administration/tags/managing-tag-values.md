@@ -3,7 +3,6 @@ unique-page-id: 2360274
 description: Gestione dei valori dei tag - Documenti Marketo - Documentazione del prodotto
 title: Gestione dei valori dei tag
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Gestione dei valori dei tag {#managing-tag-values}
 
-[](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) I tag vengono utilizzati per descrivere i programmi. Puoi crearne quanti ne desideri, ciascuno con valori univoci. Ecco come gestire questi valori.
+[Tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) sono utilizzati per descrivere i programmi. Puoi crearne quanti ne desideri, ciascuno con valori univoci. Ecco come gestire questi valori.
 
 >[!NOTE]
 >
@@ -25,7 +24,7 @@ ht-degree: 0%
 
 ## Aggiunta di valori tag {#adding-tag-values}
 
-1. In **Amministratore**, fai clic su **Tag**.
+1. Sotto **Amministratore**, fai clic su **Tag**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
@@ -33,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Seleziona il **Tipo di tag**.
+1. Seleziona la **Tipo di tag**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
@@ -53,11 +52,11 @@ ht-degree: 0%
 
 I tag possono essere utilizzati da vecchi programmi. Per disattivarli, nascondi il tipo di tag .
 
-1. Seleziona il **Tag** e seleziona il **Valore** da nascondere.
+1. Seleziona la **Tag** e seleziona la **Valore** vuole nascondersi.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. In **Azioni tag**, selezionare **Nascondi**.
+1. Sotto **Azioni tag**, seleziona **Nascondi**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 

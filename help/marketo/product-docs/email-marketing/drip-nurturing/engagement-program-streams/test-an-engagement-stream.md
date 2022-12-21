@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2359839
-description: Test di un flusso di coinvolgimento - Marketo Docs - Documentazione prodotto
+description: Test e flusso di coinvolgimento - Documentazione Marketo - Documentazione del prodotto
 title: Test di un flusso di coinvolgimento
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
 # Test di un flusso di coinvolgimento {#test-an-engagement-stream}
 
-Dopo aver aggiunto tutto il contenuto a uno streaming, potete testarlo un pezzo alla volta.
+Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla volta.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/one.png)
 
-1. Selezionate il programma di coinvolgimento.
+1. Seleziona il tuo programma di coinvolgimento.
 
    ![](assets/two.png)
 
-1. Fare clic su **Azioni programma** e selezionare **Test Stream**.
+1. Fai clic su **Azioni del programma** e seleziona **Flusso di test**.
 
    ![](assets/three.png)
 
-1. Selezionare la persona dal menu a discesa **Persona di prova**. Ricordate, il contenuto si spegne, quindi tenetelo a mente quando si sceglie.
+1. Seleziona la tua persona dal **Persona di prova** a discesa. Ricordate, il contenuto si spegnerà, quindi tenetelo presente quando lo scegliete.
 
    ![](assets/four-rubix.png)
 
    >[!CAUTION]
    >
-   >Assicuratevi che la persona di prova sia univoca e che non contenga duplicati nel database.
+   >Assicurati che la persona di test sia univoca e che non abbia duplicati nel database.
 
    >[!TIP]
    >
-   >Se la persona che stai cercando non esiste, utilizza l&#39;opzione **Crea persona** per crearne una al volo.
+   >Se la persona che stai cercando non esiste, utilizza la **Crea persona** opzione per crearne una al volo.
 
-   Fate clic su Flusso iniziale, selezionate il flusso da verificare e fate clic su Esegui cast.
+   Fare clic su Flusso iniziale, selezionare il flusso da testare e fare clic su Esegui cast.
    ![](assets/five-rubiks.png)
 
-1. Dopo che la persona ha eseguito le [regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) precedentemente impostate, fare clic sull&#39;icona Aggiorna.
+1. Dopo che la persona passa attraverso il [regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) dopo aver impostato in precedenza, fare clic sull&#39;icona Aggiorna.
 
    ![](assets/six-rubiks.png)
 
-1. Viene visualizzato il nuovo flusso, a indicare che il test è stato eseguito correttamente.
+1. Viene visualizzato il nuovo flusso, che indica il successo del test.
 
    ![](assets/seven-rubiks.png)
 
@@ -54,4 +53,4 @@ Dopo aver aggiunto tutto il contenuto a uno streaming, potete testarlo un pezzo 
 
    >[!NOTE]
    >
-   >Nessun altro contenuto verrà inviato a meno che non si faccia di nuovo clic su **Esegui Cast**.
+   >Nessun altro contenuto verrà inviato a meno che tu non faccia clic su **Esegui di nuovo Cast**.

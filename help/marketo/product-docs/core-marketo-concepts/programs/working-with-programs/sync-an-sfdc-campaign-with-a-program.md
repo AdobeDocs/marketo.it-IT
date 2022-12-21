@@ -5,7 +5,7 @@ title: Sincronizzazione di una campagna SFDC con un programma
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Marketo consente di sincronizzare i programmi con le campagne Salesforce per man
 
 >[!PREREQUISITES]
 >
->Devi prima [abilitare la sincronizzazione della campagna Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+>Dovrai [abilita sincronizzazione campagna Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) prima.
 
 >[!CAUTION]
 >
@@ -30,15 +30,15 @@ Marketo consente di sincronizzare i programmi con le campagne Salesforce per man
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Fai clic su **Azioni programma**, quindi seleziona **Salesforce Campaign Sync**.
+1. Fai clic su **Azioni del programma**, quindi seleziona **Sincronizzazione campagna Salesforce**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Seleziona **Crea nuovo** o scegli una campagna Salesforce esistente.
+1. Seleziona **Crea nuovo** oppure scegli una campagna Salesforce esistente.
 
    >[!TIP]
    >
-   >Se selezioni una campagna Salesforce esistente, assicurati di [corrispondere agli stati del programma della campagna Salesforce e del programma Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Se selezioni una campagna Salesforce esistente, assicurati di [corrispondono agli stati del programma della campagna Salesforce e del programma Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Inserisci un nome per la nuova campagna e fai clic su **Salva**.
 

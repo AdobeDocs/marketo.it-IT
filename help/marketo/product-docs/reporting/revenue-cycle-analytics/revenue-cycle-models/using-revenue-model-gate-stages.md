@@ -1,81 +1,80 @@
 ---
 unique-page-id: 4718670
-description: Utilizzo delle fasi del Gate del modello di ricavi - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo delle fasi del cancello del modello di ricavi
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Utilizzo delle fasi del gateway del modello di ricavi - Documentazione Marketo - Documentazione del prodotto
+title: Utilizzo delle fasi del gate del modello di ricavo
+exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
+# Utilizzo delle fasi del gate del modello di ricavo {#using-revenue-model-gate-stages}
 
-# Utilizzo delle fasi del cancello del modello di ricavi {#using-revenue-model-gate-stages}
-
-Una fase gate funge da controllo di qualifica.
+Una fase del gate funge da controllo di qualificazione.
 
 >[!TIP]
 >
->È una grande idea creare un modello di pratica in un programma grafico o di presentazione e confermarlo con i colleghi.
+>È una buona idea creare un modello di esercitazione in un programma di grafica o presentazione e confermarlo con i colleghi.
 
-## Aggiungere un Gate Stage {#add-a-gate-stage}
+## Aggiungere Una Fase Gate {#add-a-gate-stage}
 
-1. Andate all&#39;area **Analytics**.
+1. Vai a **Analytics** area.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Selezionare un modello esistente oppure [crearne uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Selezionare un modello esistente oppure [crearne una nuova](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Fare clic sul pulsante **Gate**, quindi trascinare e rilasciare ovunque nel quadro.
+1. Fai clic sul pulsante **Gate** , quindi trascinare e rilasciare in qualsiasi punto dell’area di lavoro.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Modificare il **Nome** e selezionare un **Tipo**.
+1. Modifica le **Nome** e seleziona un **Tipo**.
 
    >[!NOTE]
    >
-   >Selezionare [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) al momento per avere informazioni dettagliate sulle prestazioni degli account mentre avanzano nel modello.
+   >Seleziona [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) in questo momento per ottenere informazioni approfondite sulle prestazioni dei tuoi account mentre avanzano attraverso il tuo modello.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->Lo stage cancella i lead in base ai criteri inseriti nelle regole di transizione; **non contiene lead**. È necessaria una transizione predefinita in modo che i lead che non sono selezionati dalle altre transizioni finiscano per scorrere il valore predefinito.
+>La Gate Stage suddivide i lead in base ai criteri immessi nelle regole di transizione; **non contiene lead**. È necessaria una transizione predefinita in modo che i lead che non sono selezionati dalle altre transizioni finiscano per passare attraverso il valore predefinito.
 
-## Modifica di un Gate Stage {#edit-a-gate-stage}
+## Modificare una fase di cancello {#edit-a-gate-stage}
 
-Modificate Nome, Descrizione e regolate il Tipo dell’area di visualizzazione Porta. È inoltre possibile scegliere di [Avviare il tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Modificare il Nome, la Descrizione e regolare il Tipo dell’area di visualizzazione Cancello. Puoi anche scegliere di [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Fate clic sull&#39;icona **Gate** dell&#39;area di visualizzazione.
+1. Fai clic su **Gate** icona stage.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Fare clic all&#39;interno dei campi **Name** e **Description** per modificarne il contenuto.
+1. Fai clic in **Nome** e **Descrizione** per modificarne il contenuto.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Selezionare il menu a discesa **Tipo** da modificare.
+1. Seleziona la **Tipo** elenco a discesa per la modifica.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
-## Eliminare un Gate Stage {#delete-a-gate-stage}
+## Eliminare Una Fase Gate {#delete-a-gate-stage}
 
-1. È possibile eliminare un Gate Stage facendo clic con il pulsante destro del mouse sull&#39;icona Gate stage e selezionando **Elimina**.
+1. È possibile eliminare una fase di cancello facendo clic con il pulsante destro del mouse sull&#39;icona dell&#39;area di visualizzazione e selezionando **Elimina**.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. È inoltre possibile eliminare un passaggio Gate facendo clic su di esso, quindi nel menu a discesa **Azioni stage**, selezionando **Elimina**.
+1. È inoltre possibile eliminare una fase Gate facendo clic su di essa, quindi nella **Azioni stage** elenco a discesa, selezione **Elimina**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Fare clic su **Elimina**.
+1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Fai clic su **Elimina**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
@@ -83,7 +82,7 @@ Congratulazioni! Ora capite il meraviglioso mondo dei Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo delle fasi di magazzino del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Utilizzo delle fasi di inventario del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >* [Utilizzo delle fasi SLA del modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
->* [Creare un nuovo modello](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md) di ricavi.
+>* [Creare un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 

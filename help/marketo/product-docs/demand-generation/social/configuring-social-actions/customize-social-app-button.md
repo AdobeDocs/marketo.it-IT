@@ -1,64 +1,63 @@
 ---
 unique-page-id: 2359759
-description: Pulsante Personalizza app social - Documenti Marketo - Documentazione prodotto
-title: Personalizza pulsante App Social
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Pulsante Personalizza app social - Documenti Marketo - Documentazione del prodotto
+title: Pulsante Personalizza app social
+exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
+# Pulsante Personalizza app social {#customize-social-app-button}
 
-# Personalizza pulsante app social network {#customize-social-app-button}
+Quando crei una [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), è possibile personalizzare l’aspetto dei pulsanti.
 
-Quando create un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o un&#39;offerta di riferimento [](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), potete personalizzare l&#39;aspetto dei pulsanti.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionate l&#39;app e fate clic su **Modifica bozza**.
+1. Seleziona l’app e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Nell&#39;editor delle app per social network, andate a **Impostazioni app** > **Stile pulsante** (oppure **Stile registrazione,** per le offerte di riferimento).
+1. Nell’editor di app social, vai a **Impostazioni app** > **Stile pulsante** o **Stile di registrazione,** per offerte di riferimento).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
-1. Scegliete dove visualizzare o meno il conteggio delle condivisioni.
+1. Scegli dove visualizzare o meno il conteggio delle condivisioni.
 
    ![](assets/image2014-9-23-17-3a4-3a10.png)
 
-1. Selezionate le icone dei social network da visualizzare con i pulsanti corrispondenti.
+1. Seleziona le icone dei social network da visualizzare con i pulsanti corrispondenti.
 
    ![](assets/image2014-9-23-17-3a4-3a22.png)
 
    >[!NOTE]
    >
-   >Per le offerte di riferimento, selezionate le reti in **2. Flusso di registrazione > Social Network**.
+   >Per le offerte di riferimento, seleziona le reti in **2. Flusso di iscrizione > Social Networks**.
 
-1. Scegliete un tipo di pulsante.
+1. Scegli un tipo di pulsante.
 
    ![](assets/image2014-9-23-17-3a4-3a50.png)
 
    >[!TIP]
    >
-   >Se avete scelto **Carica immagini in Stile pulsante** sopra, le sezioni seguenti consentono di caricare le immagini dei pulsanti invece di modificare il testo.
+   >Se hai scelto **Carica immagini in stile pulsante** in precedenza, le sezioni seguenti ti consentono di caricare le immagini dei pulsanti invece di modificare il testo.
 
-1. Modificare le etichette del pulsante prima e dopo aver fatto clic su di esso.
+1. Modifica le etichette del pulsante prima e dopo aver fatto clic su di esso.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Per ogni scelta, controllate il risultato nella finestra **Visualizza e modifica**.
+1. Mentre effettui ogni scelta, rivedi il risultato nel **Visualizza e modifica** finestra.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In un&#39;offerta di riferimento, potete personalizzare anche il pulsante **Track Progress**. Vai a **Impostazioni app** > **Stile avanzamento traccia** e segui la stessa procedura descritta sopra.
+>In un’offerta di riferimento, puoi anche personalizzare la **Tracciamento avanzamento** pulsante . Vai a **Impostazioni app** > **Stile di avanzamento traccia** e segui gli stessi passaggi indicati sopra.
 
 >[!MORELIKETHIS]
 >
->Per un pulsante social, [configurare quando apre](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Per un&#39;offerta di riferimento, [specificate l&#39;obiettivo dell&#39;offerta](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+>Per un pulsante social, [configura all&#39;apertura](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Per un’offerta di riferimento, [specifica l’obiettivo dell’offerta](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).

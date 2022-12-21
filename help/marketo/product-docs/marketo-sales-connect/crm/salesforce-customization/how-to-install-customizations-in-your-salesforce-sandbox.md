@@ -1,17 +1,16 @@
 ---
 unique-page-id: 15368208
-description: Come installare le personalizzazioni nella sandbox Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Come installare le personalizzazioni nella sandbox di Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Come installare le personalizzazioni nella Sandbox Salesforce - Documenti Marketo - Documentazione del prodotto
+title: Come installare le personalizzazioni nella Sandbox Salesforce
+exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
-# Come installare le personalizzazioni nella sandbox di Salesforce {#how-to-install-customizations-in-your-salesforce-sandbox}
+# Come installare le personalizzazioni nella Sandbox Salesforce {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >
@@ -19,18 +18,18 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Connetti alle vendite per la sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[Connetti le vendite alla Sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. In Sales Connect, fate clic sull&#39;icona dell&#39;ingranaggio in alto a destra e selezionate **Settings**.
+1. In Sales Connect, fai clic sull&#39;icona dell&#39;ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one-3.png)
 
-1. In Impostazioni amministratore fare clic su **Salesforce.**
+1. In Impostazioni amministratore fai clic su **Salesforce.**
 
    ![](assets/two-3.png)
 
-1. Fare clic su **Installa personalizzazioni**.
+1. Fai clic su **Installazione personalizzazioni**.
 
    ![](assets/three-3.png)
 
-   Segui semplicemente i passaggi necessari per installare la personalizzazione come faresti con un normale account Salesforce.
+   Quindi, segui i passaggi per installare la personalizzazione come faresti su un normale account Salesforce.

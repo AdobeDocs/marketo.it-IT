@@ -172,11 +172,11 @@ Quando aggiorni la lingua, tutto ciò che si trova nell’app stessa cambia, ad 
  <tr>
   <td>Conversazioni interessate</td>
   <td>Numero di conversazioni via chat con cui i visitatori web possono essere coinvolti al giorno</td>
-  <td>1.000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Conversazioni innescate</td>
   <td>Numero di conversazioni via chat che possono essere mostrate ai visitatori web al giorno</td>
-  <td>25.000</td>
+  <td>25,000</td>
  </tr>
 </table>

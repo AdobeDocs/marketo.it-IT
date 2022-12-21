@@ -1,76 +1,75 @@
 ---
 unique-page-id: 42762825
-description: Utilizzo di azioni di massa in Salesforce Lightning - Marketo Docs - Documentazione prodotto
-title: Utilizzo di azioni di massa in Salesforce Lightning
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Utilizzo di azioni in serie in Salesforce Lightning - Documenti Marketo - Documentazione del prodotto
+title: Utilizzo di azioni in serie in Salesforce Lightning
+exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
+# Utilizzo di azioni in serie in Salesforce Lightning {#using-bulk-actions-in-salesforce-lightning}
 
-# Utilizzo di azioni di massa in Salesforce Lightning {#using-bulk-actions-in-salesforce-lightning}
-
-Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, inviare un messaggio e-mail in massa o inviare i lead da Salesforce a Sales Connect.
+Scopri come eseguire azioni in blocco, ad esempio aggiungere lead a una campagna, inviare un messaggio e-mail in blocco o inviare i lead da Salesforce a Sales Connect.
 
 >[!PREREQUISITES]
 >
->Effettuate l&#39;aggiornamento alla versione più recente del pacchetto Sales Connect e installate i pulsanti di azione in blocco nella vista lead/contatto. [Fare clic qui per le istruzioni](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Aggiorna la versione più recente del pacchetto Sales Connect e installa i pulsanti di azione collettiva nella visualizzazione lead/contatti. [Fai clic qui per le istruzioni](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
->Prima di seguire i passaggi indicati di seguito, verifica di aver effettuato l&#39;accesso al tuo account Marketing Sales Connect.
+>Prima di seguire i passaggi seguenti, assicurati di aver effettuato l&#39;accesso al tuo account Marketo Sales Connect.
 
-## E-mail di massa {#bulk-email}
+## E-mail in blocco {#bulk-email}
 
-1. In Salesforce, fare clic sulla scheda **Lead**, quindi scegliere l&#39;elenco dei lead desiderati.
+1. In Salesforce, fai clic sul pulsante **Lead** , quindi scegli l’elenco dei lead desiderati.
 
    ![](assets/one-6.png)
 
    >[!NOTE]
    >
-   >Se siete già sulla lista che userete, dovrete eseguire nuovamente la lista scegliendo dall&#39;elenco a discesa per essere certi che i pulsanti di azione sfusi MSC siano visualizzati. Si tratta di un comportamento Salesforce che non può essere modificato.
+   >Se ti trovi già nell’elenco che utilizzerai, dovrai eseguirlo nuovamente scegliendo dal menu a discesa per assicurarti che vengano visualizzati i pulsanti di azione di massa MSC. Questo è il comportamento di Salesforce che non può essere modificato.
 
-1. Fare clic sul menu a discesa freccia (all&#39;estrema destra dello schermo) e selezionare **E-mail con MSC**.
+1. Fai clic sull’elenco a discesa della freccia (all’estrema destra dello schermo) e seleziona **Email con MSC**.
 
    ![](assets/two-6.png)
 
-1. Verrà visualizzato un messaggio e-mail MSC. Include le seguenti funzionalità:
+1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
-   a. Il campo &quot;A&quot; mostra &quot;Tutte le ricevute&quot;, corrispondente all’elenco di lead scelto nella vista Elenco lead\
-   b. Questo elenco è visibile nel pannello a sinistra chiamato &quot;Composizione in blocco&quot;. È possibile aggiungere o rimuovere i destinatari qui\
-   c. Potete scegliere un modello o creare un messaggio e-mail personalizzato\
-   d. Potete inviare l&#39;e-mail immediatamente o pianificare l&#39;invio in un secondo momento
+   a) Il campo &quot;A&quot; mostra &quot;Tutte le entrate&quot;, corrispondente all’elenco di lead scelto nella vista Elenco lead\
+   b) Questo elenco è visibile nel pannello a sinistra denominato &quot;Composizione in blocco&quot; - è possibile aggiungere/rimuovere i destinatari qui\
+   c. Puoi scegliere un modello o creare un tuo indirizzo e-mail\
+   d. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
 
    ![](assets/three-5.png)
 
-## Aggiungi alla campagna {#add-to-campaign}
+## Aggiungi a Campaign {#add-to-campaign}
 
-1. In Salesforce, fare clic sulla scheda **Lead**, quindi scegliere l&#39;elenco dei lead desiderati.
+1. In Salesforce, fai clic sul pulsante **Lead** , quindi scegli l’elenco dei lead desiderati.
 
    ![](assets/four-4.png)
 
-1. Fate clic sul menu a discesa freccia (all&#39;estrema destra della schermata) e selezionate **Aggiungi a MSC Campaign**.
+1. Fai clic sull’elenco a discesa della freccia (all’estrema destra dello schermo) e seleziona **Aggiungi alla campagna MSC**.
 
    ![](assets/five-4.png)
 
-1. Viene visualizzata una finestra a comparsa &quot;Aggiungi persone alla campagna&quot;. Fate clic su **Next** e seguite il flusso di campagne tipico per attivare una campagna MSC.
+1. Verrà visualizzato un pop-up &quot;Aggiungi persone alla tua campagna&quot;. Fai clic su **Successivo** e passa attraverso il flusso tipico della campagna per attivare una campagna MSC.
 
    ![](assets/six-1.png)
 
-## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Invia a Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. In Salesforce, fare clic sulla scheda **Lead**, quindi scegliere l&#39;elenco dei lead desiderati.
+1. In Salesforce, fai clic sul pulsante **Lead** , quindi scegli l’elenco dei lead desiderati.
 
    ![](assets/seven-2.png)
 
-1. Fare clic sul menu a discesa freccia (all&#39;estrema destra dello schermo) e selezionare **Premi a MSC**.
+1. Fai clic sull’elenco a discesa della freccia (all’estrema destra dello schermo) e seleziona **Spingi a MSC**.
 
    ![](assets/eight-2.png)
 
-1. Viene aperta una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fare clic sul pulsante **Procedi al gruppo →**.
+1. Viene aperta una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fai clic sul pulsante **Procedi al gruppo →** pulsante .
 
    ![](assets/nine-2.png)
 
@@ -80,10 +79,10 @@ Scopri come eseguire azioni in massa, come aggiungere lead a una campagna, invia
 
 >[!NOTE]
 >
->Potete seguire gli stessi passaggi per utilizzare le azioni in blocco anche nella vista Elenco contatti.
+>È possibile seguire gli stessi passaggi per utilizzare azioni in blocco anche nella visualizzazione elenco contatti.
 
 >[!MORELIKETHIS]
 >
 >* [Invio di e-mail tramite e-mail di gruppo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [Composizione di e-mail in blocco con Seleziona e invia](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Composizione di e-mail in blocco con Seleziona e Invia](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 

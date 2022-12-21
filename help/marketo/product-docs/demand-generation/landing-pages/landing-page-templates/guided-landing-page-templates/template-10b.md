@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 10B {#template-10b}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 

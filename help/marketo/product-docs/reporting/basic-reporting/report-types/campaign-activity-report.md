@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2360057
-description: Rapporto Attività campagna - Documenti Marketo - Documentazione prodotto
+description: Rapporto sulle attività di Campaign - Documentazione di Marketo - Documentazione del prodotto
 title: Report attività campagna
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Report attività campagna {#campaign-activity-report}
 
-# Rapporto attività campagna {#campaign-activity-report}
+Scopri come [campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) si esibiscono.
 
-Scopri le prestazioni delle [campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona la **Attività campagna** [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Create un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo di rapporto  **Attività** [campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Impostare l&#39;intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic su **Rapporto** scheda .
 
-1. [Impostate l&#39;intervallo di tempo del ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda  **** Rapporto.
-
-1. Fantastico! Esplora il tuo rapporto per identificare le campagne più efficaci, raggruppate per tipo di campagna.
+1. Fantastico! Esplora il rapporto per identificare le campagne più efficaci, raggruppate per tipo di campagna.
 
    ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >Per trovare le campagne che hanno elaborato il maggior numero di persone, ad esempio [ordinare il report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) su _Totale persone elaborate_ e scegliere **Ordinamento decrescente**.
+   >Per trovare le campagne che hanno elaborato il maggior numero di persone, ad esempio: [ordinare il rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) su _Totale persone elaborate_ e scegli **Ordinamento decrescente**.
 
-   Fate clic sul nome di una campagna intelligente per aprirla.  [Le colonne che potete ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) selezionare per un rapporto Attività campagna includono:
+   Fai clic sul nome di una campagna intelligente per aprirla.  [Colonne selezionabili](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto sull’attività di una campagna:
 
    | Colonna | Descrizione |
    |---|---|
    | Conteggio esecuzione batch | Numero di volte in cui è stata eseguita la campagna. |
    | Totale persone elaborate | Numero di persone che hanno attraversato il flusso della campagna. |
-   | Persone nel passaggio di attesa | Se una campagna è ancora in esecuzione, il numero di persone che rimangono nel passaggio *Wait*. |
+   | Persone nel passaggio di attesa | Se una campagna è ancora in esecuzione, il numero di persone che rimangono nel *Wait* passo. |
    | Rimosso da Flusso | Numero di persone rimosse dalla campagna. |
-   | Ultima attività | L&#39;ultima volta che una persona è stata elaborata dalla campagna. |
+   | Ultima attività | L’ultima volta che una persona è stata elaborata dalla campagna. |
 
-   Tipi di campagne nel rapporto:
+   Tipi di campagna nel rapporto:
 
    | Tipo | Descrizione |
    |---|---|
-   | Batch | Campagne batch nella scheda **Marketing Activities**. |
-   | Esegui azione | Azioni di persona eseguite dal **database**. |
-   | Attivazione (attiva) | Campagne attivate correnti nella scheda **Attività marketing**. |
-   | Attivazione (non attiva) | Campagne attivate non attive nella scheda **Attività marketing**. |
+   | Batch | Campagne in batch **Attività di marketing** scheda . |
+   | Esegui azione | Azioni personali eseguite da **Database**. |
+   | Attivato (attivo) | Campagne attivate correnti in **Attività di marketing** scheda . |
+   | Attivato (inattivo) | Campagne attivate inattive nel **Attività di marketing** scheda . |
 
    >[!MORELIKETHIS]
    >

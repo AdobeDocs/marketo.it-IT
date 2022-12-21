@@ -3,7 +3,6 @@ unique-page-id: 1147142
 description: Creazione di una campagna avanzata in batch nella vista Pianificazione del programma - Marketo Docs - Documentazione del prodotto
 title: Creazione di una campagna avanzata in batch nella vista Pianificazione del programma
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Creazione di una campagna avanzata in batch nella vista Pianificazione del programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-È possibile creare nuove campagne avanzate e [eseguire nuovamente quelle esistenti](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) all&#39;interno del programma dalla visualizzazione della pianificazione del programma.
+Puoi creare nuove campagne intelligenti e [ripetere quelli esistenti](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) all&#39;interno del programma dalla vista pianificazione del programma.
 
 >[!NOTE]
 >
@@ -23,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Scegli un nome per la tua voce, che diventerà la tua nuova campagna intelligente. Premere il tasto **Enter/Return** per confermare il nome.
+1. Scegli un nome per la tua voce, che diventerà la tua nuova campagna intelligente. Premere **Invio** per confermare il nome.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Fai clic sull’elenco a discesa **Tipo** e scegli **Campagna avanzata**.
+1. Fai clic sul pulsante **Tipo** a discesa e scegli **Smart Campaign**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Scegli le regole [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) .
+1. Scegli la tua [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) regole.
 
    ![](assets/changeprogramstatus-hands.png)
 

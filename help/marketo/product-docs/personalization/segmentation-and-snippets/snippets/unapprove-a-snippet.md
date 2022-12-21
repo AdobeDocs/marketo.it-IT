@@ -1,32 +1,31 @@
 ---
 unique-page-id: 2359516
-description: Disapprovare uno snippet - Documenti Marketo - Documentazione prodotto
-title: Disapprovare uno snippet
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: Annullare l’approvazione di un frammento - Documenti Marketo - Documentazione del prodotto
+title: Annullare l’approvazione di un frammento
+exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# Annullare l’approvazione di un frammento {#unapprove-a-snippet}
 
-# Disapprovare uno snippet {#unapprove-a-snippet}
+Uno snippet non approvato non può essere utilizzato nelle e-mail o nelle pagine di destinazione.
 
-Non è possibile utilizzare uno snippet non autorizzato nelle e-mail o nelle pagine di destinazione.
-
-1. Andate a **Design Studio**.
+1. Vai a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Accedete allo snippet e accertatevi che non siano presenti risorse **Utilizzate da**.
+1. Vai al tuo Snippet e assicurati che non sia **Utilizzato da** qualsiasi risorsa.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
-   Se lo snippet è utilizzato da altre risorse, rimuovete tali associazioni prima di procedere.
+   Se lo snippet viene utilizzato da altre risorse, rimuovi queste associazioni prima di procedere.
 
-1. In **Azioni snippet**, fare clic su **Disapprova**.
+1. In **Azioni frammento**, fai clic su **Annulla approvazione**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
-È tutto! Lo snippet è nello stato bozza per consentire di apportare modifiche o eliminarlo.
+Tutto qui! Lo snippet è in stato di bozza ora per poter apportare modifiche o eliminarlo.

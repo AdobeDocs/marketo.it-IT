@@ -3,7 +3,6 @@ unique-page-id: 1147150
 description: Utilizzare i tag in un programma - Documenti Marketo - Documentazione del prodotto
 title: Utilizzare i tag in un programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
@@ -17,7 +16,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
 ## Utilizzare un tag in un programma {#use-a-tag-in-a-program}
 
-1. Selezionare il programma. Fare clic su **Configurazione**.
+1. Selezionare il programma. Fai clic su **Configurazione**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -29,7 +28,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
    ![](assets/image2014-9-23-15-3a45-3a30.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
@@ -39,7 +38,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
 ## Modificare un tag {#edit-a-tag}
 
-1. Vai alla scheda **Configurazione** . Fai clic con il pulsante destro del mouse sul tag . Selezionare **Modifica**.
+1. Vai a **Configurazione** scheda . Fai clic con il pulsante destro del mouse sul tag . Seleziona **Modifica**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -47,7 +46,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
    ![](assets/image2014-9-23-15-3a46-3a12.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
@@ -55,9 +54,9 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Eliminare un tag {#delete-a-tag}
+## Eliminare un tag  {#delete-a-tag}
 
-1. Vai alla scheda **Configurazione** . Fai clic con il pulsante destro del mouse sul tag e seleziona **Elimina**.
+1. Vai a **Configurazione** scheda . Fai clic con il pulsante destro del mouse sul tag e seleziona **Elimina**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 

@@ -2,16 +2,15 @@
 unique-page-id: 11385938
 description: Modifica del contenuto predittivo per le e-mail - Documenti Marketo - Documentazione del prodotto
 title: Modifica del contenuto predittivo per le e-mail
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
-
-# Modifica contenuto predittivo per e-mail {#edit-predictive-content-for-emails}
+# Modifica del contenuto predittivo per le e-mail {#edit-predictive-content-for-emails}
 
 Ecco come impostare il contenuto predittivo per le e-mail.
 
@@ -23,7 +22,7 @@ Ecco come impostare il contenuto predittivo per le e-mail.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Viene visualizzata la pagina di modifica. **** Per impostazione predefinita viene visualizzata l’e-mail.
+1. Viene visualizzata la pagina di modifica. **E-mail** viene visualizzato per impostazione predefinita.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +38,7 @@ Ecco come impostare il contenuto predittivo per le e-mail.
    >
    >Se hai modificato l’etichetta del pulsante, questa viene aggiornata quando salvi le modifiche o visualizzi l’anteprima dell’immagine.
 
-1. Per aggiungere o modificare l&#39;URL dell&#39;immagine, fai clic su **Modifica immagine**.
+1. Per aggiungere o modificare l’URL dell’immagine, fai clic su **Modifica immagine**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +46,11 @@ Ecco come impostare il contenuto predittivo per le e-mail.
    >
    >Per garantire la migliore qualità, l&#39;immagine deve essere di 400x400 pixel o più piccola.
 
-1. Inserisci l&#39;URL dell&#39;immagine e fai clic su **Aggiungi**.
+1. Inserisci l’URL dell’immagine e fai clic su **Aggiungi**.
 
    ![](assets/five.png)
 
-1. Fai clic e trascina il cursore per modificare le dimensioni dell’immagine. Quindi fai clic e trascina la casella di ritaglio per isolare l’area dell’immagine desiderata che desideri utilizzare. Al termine, fai clic su **Anteprima**.
+1. Fai clic e trascina il cursore per modificare le dimensioni dell’immagine. Quindi fai clic e trascina la casella di ritaglio per isolare l’area dell’immagine desiderata che desideri utilizzare. Fai clic su **Anteprima** al termine.
 
    ![](assets/six.png)
 
@@ -60,7 +59,7 @@ Ecco come impostare il contenuto predittivo per le e-mail.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Facoltativamente, fai clic sul campo **Categorie** e aggiungi categorie al contenuto. Le opzioni provengono dalle [categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Facoltativamente, fai clic sul **Categorie** e aggiungere categorie al contenuto. Le opzioni sono [categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,10 +67,10 @@ Ecco come impostare il contenuto predittivo per le e-mail.
 
    ![](assets/nine.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >In Marketo Email Editor v2.0, è inoltre possibile [visualizzare i modelli di layout](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) utilizzati durante l&#39;abilitazione del contenuto.
+   >In Marketo Email Editor v2.0 è inoltre possibile [visualizzare i modelli di layout](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) viene utilizzato quando si abilita il contenuto.

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger - Definisci i criteri di promozione - Marketo Docs - Documentazione del prodotto
-title: Campione/Sfida - Definizione dei criteri di promozione
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Champion/Challenger - Definire i criteri dei campioni - Marketo Docs - Documentazione del prodotto
+title: Campione/sfida - Definire i criteri dei campioni
+exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Campione/sfida: Definisci criteri campione {#champion-challenger-define-champion-criteria}
 
-# Campione/Sfida: Definire i criteri campione {#champion-challenger-define-champion-criteria}
-
-Una volta configurato il tipo di test, è necessario definire i criteri campione. Ecco come.
+Una volta impostato il tipo di test, è necessario definire i criteri campione. Ecco come.
 
 >[!PREREQUISITES]
 >
@@ -21,19 +20,19 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
 
 ## Criteri campione standard {#standard-champion-criteria}
 
-1. Selezionare uno dei **criteri di campione** disponibili.
+1. Selezionare una delle opzioni disponibili **Criteri per i campioni**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
    >[!NOTE]
    >
-   >Seguiremo questa metrica e ti invieremo un rapporto con i dati via e-mail.
+   >Tratteremo questa metrica e ti invieremo un rapporto con i dati per e-mail.
 
-1. Se hai scelto uno dei **criteri campione** predefiniti, vai avanti e passa a [Campione/Sfida: Configura avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Se hai scelto una delle opzioni predefinite **Criteri per i campioni**, vai avanti e passa a [Campione/sfida: Configurare gli avvisi dei rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Criteri campione personalizzati {#custom-champion-criteria}
 
-1. Se si desidera ottenere la fantasia, è possibile utilizzare la personalizzazione selezionando **Conversione personalizzata** e facendo clic su **Modifica**.
+1. Se vuoi ottenere fantasia, puoi andare personalizzato selezionando **Conversione personalizzata** e facendo clic su **Modifica**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -41,17 +40,17 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
    >
    >Questo consente di impostare qualsiasi evento come conversione utilizzando attivatori e filtri.
 
-1. Viene visualizzata una finestra, che consente di individuare l&#39;attivatore desiderato e trascinarlo nell&#39;area di lavoro.
+1. Viene visualizzata una finestra - trova il trigger desiderato e trascinalo nell’area di lavoro.
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 
-1. Definire il trigger.
+1. Definisci il trigger.
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo consente solo attivatori per le persone che hanno ricevuto l&#39;e-mail da questo programma e-mail. Non è necessario aggiungere un filtro &quot;È stato inviato un messaggio e-mail&quot;.
+   Marketo consente solo i trigger per le persone a cui è stato inviato il messaggio e-mail da questo programma e-mail. Non è necessario aggiungere un filtro &quot;È stato inviato un messaggio e-mail&quot;.
 
-1. Fare clic su **Chiudi**.
+1. Fai clic su **Chiudi**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
@@ -59,4 +58,4 @@ Una volta configurato il tipo di test, è necessario definire i criteri campione
 
    >[!MORELIKETHIS]
    >
-   >[Campione/Sfida: Configurare gli avvisi di rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[Campione/sfida: Configurare gli avvisi dei rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

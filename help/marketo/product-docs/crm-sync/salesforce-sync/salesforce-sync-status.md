@@ -2,11 +2,10 @@
 description: Stato di sincronizzazione Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Stato di sincronizzazione Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -20,7 +19,7 @@ I passaggi di sincronizzazione riflettono le operazioni di push o pull in base a
 >
 >Autorizzazioni amministratore richieste
 
-## Visualizza lo stato di sincronizzazione {#view-sync-status}
+## Visualizza stato di sincronizzazione {#view-sync-status}
 
 1. Fai clic su **Amministratore**.
 
@@ -34,7 +33,7 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
 
 ![](assets/salesforce-sync-status-3.png)
 
-## Stato sincronizzazione filtro {#filter-sync-status}
+## Stato di sincronizzazione del filtro {#filter-sync-status}
 
 1. Per filtrare i dati, fai clic sull’icona del filtro posta all’estrema destra della pagina.
 
@@ -44,15 +43,15 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Fare clic su **Applica**.
+1. Fai clic su **Applica**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Passaggio** facoltativo: Per esportare gli errori di sincronizzazione, fai clic su  **Esporta**. I dati verranno esportati come CSV.
+**Passaggio facoltativo**: Per esportare gli errori di sincronizzazione, fai clic su **Esporta**. I dati verranno esportati come CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
-## Campi di stato di sincronizzazione {#sync-status-fields}
+## Campi di stato della sincronizzazione {#sync-status-fields}
 
 <table> 
  <colgroup> 
@@ -119,7 +118,7 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
  </tbody> 
 </table>
 
-*I dati sono stati ripristinati allo stato precedente di integrità dopo un errore del passo di sincronizzazione.
+&#42;I dati sono stati ripristinati allo stato precedente di integrità dopo un errore del passaggio di sincronizzazione.
 
 ## Tipo di oggetto {#object-type}
 
@@ -242,11 +241,11 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
   </tr>  
   <tr> 
    <td colspan="1">Aggiorna FKS</td> 
-   <td colspan="1">Tutto</td> 
+   <td colspan="1">Tutte</td> 
    <td colspan="1">Aggiorna la chiave esterna di tutti gli oggetti</td> 
    <td colspan="1">N/D</td>
   </tr>  
  </tbody> 
 </table>
 
-*La configurazione del branding a livello di abbonamento determina l&#39;etichetta: &quot;Lead&quot; o &quot;Persona&quot; nel rapporto.
+&#42;La configurazione del branding a livello di abbonamento determina l’etichetta: &quot;Lead&quot; o &quot;Persona&quot; nel rapporto.

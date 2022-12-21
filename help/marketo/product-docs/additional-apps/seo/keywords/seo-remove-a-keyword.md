@@ -3,7 +3,6 @@ unique-page-id: 2949240
 description: SEO - Rimuovere una parola chiave - Marketo Docs - Documentazione del prodotto
 title: SEO - Rimuovere una parola chiave
 exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Se si dispone di una parola chiave per la quale non si desidera continuare l&#39;ottimizzazione, ecco come rimuoverla.
 
-1. Fare clic per passare alla sezione **Parole chiave**.
+1. Fai clic per passare al **Parole chiave** sezione .
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -23,7 +22,7 @@ Se si dispone di una parola chiave per la quale non si desidera continuare l&#39
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Fai di nuovo clic su **Elimina** per confermare.
+1. Fai clic su **Elimina** di nuovo per confermare.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)
 

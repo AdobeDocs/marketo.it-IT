@@ -3,15 +3,14 @@ unique-page-id: 2360364
 description: Passaggio 2 di 3 - Creare un utente Salesforce per Marketo (Enterprise/Unlimited) - Marketo Docs - Documentazione del prodotto
 title: Passaggio 2 di 3 - Creare un utente Salesforce per Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Passaggio 2 di 3: Creare un utente Salesforce per Marketo (Enterprise/Senza limiti) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -25,11 +24,11 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
 ## Creare un profilo {#create-a-profile}
 
-1. Fare clic su **Configurazione**.
+1. Fai clic su **Configurazione**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Digita &quot;profiles&quot; nella barra di ricerca della barra di navigazione e fai clic sul collegamento **Profiles** .
+1. Digita &quot;profiles&quot; nella barra di ricerca della barra di navigazione e fai clic sul **Profili** link.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -41,16 +40,16 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
-## Imposta autorizzazioni profilo {#set-profile-permissions}
+## Impostare le autorizzazioni del profilo {#set-profile-permissions}
 
-1. Fare clic su **Modifica** per impostare le autorizzazioni di protezione.
+1. Fai clic su **Modifica** per impostare le autorizzazioni di protezione.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Nella sezione **Autorizzazioni amministrative** , accertati che siano selezionate le seguenti caselle:
+1. Sotto la **Autorizzazioni amministrative** Assicurati che le seguenti caselle siano selezionate:
 
    * API abilitata
-   * Modifica modelli HTML
+   * Modificare i modelli di HTML
    * Gestisci documenti pubblici
    * Gestisci modelli pubblici
 
@@ -58,7 +57,7 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
    >[!TIP]
    >
-   >Controlla la casella **Password Never Expires** .
+   >Assicurati di controllare il **La password non scade mai** scatola.
 
 1. Nella sezione Autorizzazioni generali utente , accertati che siano selezionate le seguenti caselle:
 
@@ -86,7 +85,7 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
-## Imposta autorizzazioni campo {#set-field-permissions}
+## Impostare le autorizzazioni del campo {#set-field-permissions}
 
 1. Parla con i tuoi esperti di marketing per scoprire quali campi personalizzati sono necessari per la sincronizzazione.
 
@@ -94,7 +93,7 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
    >
    >Questo passaggio impedisce la visualizzazione dei campi non necessari in Marketo, riducendo il disordine e velocizzando la sincronizzazione.
 
-1. Nella pagina dei dettagli del profilo, vai alla sezione **Sicurezza a livello di campo** . Fai clic su **Visualizza** per modificare l&#39;accessibilità degli oggetti:
+1. Nella pagina dei dettagli del profilo, vai a **Sicurezza a livello di campo** sezione . Fai clic su **Visualizza** per modificare l’accessibilità degli oggetti:
 
    * Lead
    * Contatto
@@ -107,11 +106,11 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
    ![](assets/image2014-12-9-9-3a20-3a14.png)
 
-1. Per ciascun oggetto, fare clic su **Modifica**.
+1. Per ciascun oggetto, fai clic su **Modifica**.
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Individua i campi non necessari e assicurati che **Accesso in lettura** e **Accesso in modifica** siano deselezionati. Al termine fai clic su **Salva** .
+1. Individua i campi non necessari, assicurati che **Accesso in lettura** e **Modifica accesso** sono deselezionate. Fai clic su **Salva** quando hai finito.
 
    >[!NOTE]
    >
@@ -119,7 +118,7 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Dopo aver disabilitato tutti i campi non necessari, è necessario controllare **Accesso in lettura e Modifica accesso** per i seguenti campi oggetto. Al termine fai clic su **Salva** .
+1. Dopo aver disabilitato tutti i campi non necessari, devi controllare **Accesso in lettura e accesso in modifica** per i campi oggetto seguenti. Fai clic su **Salva** quando hai finito.
 
 <table> 
  <tbody> 
@@ -154,7 +153,7 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
    ![](assets/sfdc-new-users.png)
 
-1. Compila i campi richiesti. Quindi, seleziona la **Licenza utente: Salesforce** e il profilo creato in precedenza. Al termine fai clic su **Salva** .
+1. Compila i campi richiesti. Quindi, seleziona la **Licenza utente: Salesforce** e il profilo creato in precedenza. Fai clic su **Salva** quando hai finito.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
@@ -162,4 +161,4 @@ Il passaggio 2 di 2 è completato.
 
 >[!NOTE]
 >
->[Passaggio 3 di 3: Connettere Marketo e Salesforce (Enterprise/Senza limiti)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[Passaggio 3 di 3: Connetti Marketo e Salesforce (Enterprise/Senza limiti)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

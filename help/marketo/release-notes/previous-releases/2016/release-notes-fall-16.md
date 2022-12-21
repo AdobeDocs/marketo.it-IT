@@ -52,7 +52,7 @@ Ora è possibile assegnare team di account a account denominati in ABM (Account 
 
 **API REST**
 
-Questa versione consente inoltre di gestire gli attributi e i punteggi degli account denominati in ABM utilizzando l’API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visita il sito web [Marketo Developers](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Questa versione consente inoltre di gestire gli attributi e i punteggi degli account denominati in ABM utilizzando l’API REST di Marketo. Per maggiori dettagli sulle operazioni API, visita il [Sito web Marketo Developers](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Miglioramenti a Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -66,11 +66,11 @@ Sono finiti i giorni in cui ci si doveva preoccupare che gli utenti inviassero e
 
 **Modificare le restrizioni delle campagne**
 
-Perché impostare le [restrizioni della campagna](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) se non è possibile applicarle? Quando imposti Impostazioni limite campagna per limitare il numero di persone nel database che possono essere oggetto di targeting con una singola campagna, ora puoi limitare quali utenti possono ignorare queste impostazioni durante la pianificazione di una campagna.
+Perché impostare [restrizioni alle campagne](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) se non riesci a farle rispettare? Quando imposti Impostazioni limite campagna per limitare il numero di persone nel database che possono essere oggetto di targeting con una singola campagna, ora puoi limitare quali utenti possono ignorare queste impostazioni durante la pianificazione di una campagna.
 
 ## [Suono per le notifiche push per dispositivi mobili](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
-Attribuisci maggiore ricchezza alla notifica push iOS abilitando l&#39;audio. Questa nuova funzione consente di attivare un suono quando si visualizzano le notifiche push sul dispositivo mobile.
+Offri ai tuoi iOS Push Notification una maggiore ricchezza abilitando il suono. Questa nuova funzione consente di attivare un suono quando si visualizzano le notifiche push sul dispositivo mobile.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Attribuisci maggiore ricchezza alla notifica push iOS abilitando l&#39;audio. Qu
 
 ## [Insight delle vendite compatibile con la crittografia Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight è ora compatibile con la crittografia Salesforce Shield. Tutti i clienti di Sales Insight devono effettuare l’aggiornamento a questo pacchetto gestito più recente (versione 1.4359.2), che è [disponibile su Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight è ora compatibile con la crittografia Salesforce Shield. Tutti i clienti di Sales Insight devono effettuare l’aggiornamento a questo pacchetto gestito più recente (versione 1.4359.2), ovvero [disponibile su Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [API di account denominati](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 

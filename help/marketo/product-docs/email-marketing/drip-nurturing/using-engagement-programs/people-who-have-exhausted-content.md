@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359953
-description: Persone Che Hanno Esaurito Il Contenuto - Marketo Docs - Documentazione Di Prodotto
-title: Persone Con Contenuto Esaurito
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Persone con contenuti esauriti - Documentazione Marketo - Documentazione del prodotto
+title: Persone con contenuti esauriti
+exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
+# Persone con contenuti esauriti {#people-who-have-exhausted-content}
 
-# Persone con contenuto con esaurimento {#people-who-have-exhausted-content}
+Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaurito tutte le possibilità e aspetterà inattivo fino a quando non viene aggiunto altro. Si possono trovare persone &quot;esauste&quot; in diversi modi.
 
-Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaurito tutte le possibilità e aspetterà inattivo fino a quando non viene aggiunto altro. Potete trovare persone &quot;esauste&quot; in molti modi.
+## Filtro Membro del programma di coinvolgimento {#member-of-engagement-program-filter}
 
-## Membro del filtro Programma di coinvolgimento {#member-of-engagement-program-filter}
-
-1. Crea un nuovo elenco smart, quindi trova e trascina nel filtro **Membro del programma di coinvolgimento**.
+1. Crea un nuovo elenco avanzato, quindi trova e trascina **Membro del programma di coinvolgimento** filtro.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,35 +24,35 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. In **Aggiungi vincolo**, selezionare **Contenuto esaurito**.
+1. Sotto **Aggiungi vincolo**, seleziona **Contenuto esaurito**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Impostate **Exhausted Content** su **true**.
+1. Imposta **Contenuto esaurito** a **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
-   È sufficiente eseguire questo smart list per visualizzare l&#39;elenco delle persone che hanno esaurito tutto il contenuto del flusso in cui si trovano.
+   Esegui semplicemente questo smart list per visualizzare l’elenco delle persone che hanno esaurito tutti i contenuti del flusso in cui si trovano.
 
 ## Scheda Membri {#members-tab}
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Selezionate il programma di coinvolgimento e andate alla scheda **Membri**.
+1. Seleziona il tuo programma di coinvolgimento e vai al **Membri** scheda .
 
    ![](assets/memberstab.jpg)
 
-1. Osservate la colonna **Contenuto con esaurimento**.
+1. Osserva la colonna denominata **Contenuto esaurito**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
-   Questo mostra le persone che hanno esaurito tutti i contenuti e coloro che non li hanno.
+   Questo mostra le persone che hanno esaurito tutti i contenuti e quelli che non lo hanno fatto.
 
 ## Flusso {#stream}
 
-1. È inoltre possibile visualizzare il totale delle persone che hanno esaurito il contenuto nella scheda Streams sullo streaming stesso.
+1. Puoi anche vedere le persone totali che hanno esaurito il contenuto nella scheda Streams del flusso stesso.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

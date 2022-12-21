@@ -93,7 +93,7 @@ Attributi opzionali
 * **mktoImgClass:** Stringa. Il valore qui verrà aggiunto all&#39;attributo class del `<img>` all’interno del div.
 * **mktoImgSrc:** Da utilizzare come valore predefinito per l’immagine inserita all’interno di questo div. Se viene omesso, viene utilizzato un segnaposto.
 * **mktoImgLink:** Indica che la `<img>` devono essere circondati da un `<a>` con questo URL di destinazione. L’utente può modificarlo nell’editor e-mail.
-* **mktoImgLinkTarget:** Indica che la `<a>` Usa questa destinazione dal tag mktoImgLink . Non ha effetto se non viene utilizzato anche mktoImgLink.
+* **mktoImgLinkTarget:** Indica che la `<a>` Usa questa destinazione dal tag mktoImgLink . Non ha alcun effetto se non viene utilizzato anche mktoImgLink.
 * **mktoImgWidth:** Utilizzato come larghezza nel racchiuso `<img>`.
 * **mktoImgHeight:** Utilizzato come altezza sul racchiuso `<img>`.
 * **mktoLockImgSize:** Utilizzato per sbloccare il `<img>` proprietà height e width dell’elemento in modo che l’utente finale possa modificare (l’impostazione predefinita è true se omesso).

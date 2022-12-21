@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352406
-description: Creare un Sub-Team - Marketo Docs - Documentazione prodotto
-title: Creare un sottogruppo
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Creare un team secondario - Documentazione Marketo - Documentazione del prodotto
+title: Creare un sottoteam
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
+# Creare un sottoteam {#create-a-sub-team}
 
-# Crea un sub-team {#create-a-sub-team}
+## Creare un sottoteam {#create-a-sub-team-1}
 
-## Crea un sub-team {#create-a-sub-team-1}
-
-1. Fare clic sull&#39;icona dell&#39;ingranaggio e selezionare **Impostazioni**.
+1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/one-1.png)
 
@@ -23,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. Accanto a Tutti i team, fare clic su **+**.
+1. Accanto a Tutti i team, fai clic sul pulsante **+**.
 
    ![](assets/three-1.png)
 
-1. Immettete un nome per il team (e una descrizione facoltativa) e fate clic su **Crea**.
+1. Inserisci un nome del team (e una descrizione facoltativa) e fai clic su **Crea**.
 
    ![](assets/four-1.png)
 
@@ -35,24 +34,24 @@ ht-degree: 0%
    >
    >Ora puoi condividere modelli, campagne e gruppi con quel team.
 
-## Aggiungi persone al tuo sottogruppo {#add-people-to-your-sub-team}
+## Aggiungi persone al tuo sottoteam {#add-people-to-your-sub-team}
 
-1. In Gestione team, selezionate il gruppo **Tutti**.
+1. Sempre in Gestione team, seleziona la **Tutti** gruppo.
 
    ![](assets/five-1.png)
 
-1. Individuate gli utenti da aggiungere al sottoteam e selezionate la relativa casella di controllo.
+1. Individua gli utenti da aggiungere al tuo sottoteam e seleziona la relativa casella di controllo.
 
    ![](assets/six.png)
 
-1. Fare clic su **Aggiungi selezionati ai team**.
+1. Fai clic su **Aggiungi selezionati ai team**.
 
    ![](assets/seven.png)
 
-1. Fai clic sul menu a discesa e seleziona il team desiderato.
+1. Fai clic sull’elenco a discesa e seleziona il team desiderato.
 
    ![](assets/eight.png)
 
-1. Fare clic su **Aggiungi a team** al termine.
+1. Fai clic su **Aggiungi ai team** al termine.
 
    ![](assets/nine.png)

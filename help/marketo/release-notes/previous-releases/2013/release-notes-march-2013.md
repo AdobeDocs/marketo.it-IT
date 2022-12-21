@@ -16,7 +16,7 @@ Le seguenti funzionalità sono incluse nella versione di marzo.
 
 ## File di calendario Marketo {#marketo-calendar-files}
 
-Crea un file di calendario come **My Token** da utilizzare nelle e-mail di conferma e promemoria dell’evento. Questo file di calendario integrato (ad esempio, file .ics) eseguirà il rendering di tutti i token, inclusi i token My e il token `{{member.webinar URL}}`.
+Crea un file di calendario come **Token personale** da utilizzare nelle e-mail di conferma e promemoria dell’evento. Questo file di calendario integrato (ad esempio, file .ics) eseguirà il rendering di tutti i token, inclusi i token My e il `{{member.webinar URL}}` token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

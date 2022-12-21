@@ -5,8 +5,8 @@ title: Creare campagne figlio e risorse locali
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '678'
+ht-degree: 1%
 
 ---
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359606
-description: Eliminazione di un campo in un modulo - Documenti Marketo - Documentazione prodotto
-title: Eliminazione di un campo in un modulo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Eliminare un campo in un modulo - Documenti Marketo - Documentazione del prodotto
+title: Eliminare un campo in un modulo
+exl-id: 294150f1-309f-42a3-9569-628deb160fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
+# Eliminare un campo in un modulo {#delete-a-field-in-a-form}
 
-# Eliminazione di un campo in un modulo {#delete-a-field-in-a-form}
+Se sul modulo non è più necessario inserire un campo, è possibile eliminarlo facilmente. Ecco come.
 
-Se nel modulo non è più necessario inserire un campo, è possibile eliminarlo facilmente. Ecco come.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,18 +22,18 @@ Se nel modulo non è più necessario inserire un campo, è possibile eliminarlo 
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Selezionare il campo e fare clic sull&#39;icona **delete**.
+1. Seleziona il campo e fai clic sul pulsante **delete** icona.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Fare clic su **Approva e Chiudi**.
+1. Fai clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
 >[!NOTE]
 >
->Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
+>Non dimenticarti di [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creato dalle modifiche al modulo.

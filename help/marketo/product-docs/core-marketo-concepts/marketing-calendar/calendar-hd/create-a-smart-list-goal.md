@@ -3,7 +3,6 @@ unique-page-id: 7504128
 description: Creare un obiettivo di elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Creare un obiettivo di elenco avanzato
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Gli obiettivi sono modi per monitorare il progresso e motivare il tuo team. Possono essere combinati con elenchi intelligenti per tenere traccia di tutti i tipi di cose in Marketo. Inoltre, dopo aver impostato un obiettivo di elenco intelligente, questo verrà aggiornato automaticamente ogni 2 ore quando viene utilizzato in una presentazione.
 
-Come per le presentazioni, gli obiettivi sono specifici per [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Come le presentazioni, gli obiettivi sono [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifico.
 
-1. Vai al **Calendario**.
+1. Vai a **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -25,23 +24,23 @@ Come per le presentazioni, gli obiettivi sono specifici per [workspace](/help/ma
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Seleziona la scheda **Obiettivi** .
+1. Seleziona la **Obiettivi** scheda .
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Trascina **Obiettivo dell’elenco avanzato** sull’area di lavoro.
+1. Trascinamento della selezione **Obiettivo dell’elenco avanzato** sulla tela.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Immetti un nome per l&#39;obiettivo e immetti un **Obiettivo di Target**. Quindi fai clic su **Crea**.
+1. Immettere un nome per l&#39;obiettivo e immettere un **Target**. Quindi fai clic su **Crea**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Definisci l’elenco](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) avanzato. Le possibilità sono infinite!
+1. [Definire l’elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). Le possibilità sono infinite!
 
    ![](assets/mql.png)
 
-1. Una volta impostato l&#39;elenco avanzato, fare clic sul pulsante **Chiudi** e tornare alla scheda precedente.
+1. Una volta impostato l’elenco avanzato, fai clic sul pulsante **Chiudi** e torna alla scheda precedente.
 
    ![](assets/mql2.png)
 

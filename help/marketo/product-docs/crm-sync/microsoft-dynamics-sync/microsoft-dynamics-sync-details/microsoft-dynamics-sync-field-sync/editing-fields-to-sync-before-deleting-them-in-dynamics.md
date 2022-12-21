@@ -2,7 +2,6 @@
 description: Modifica dei campi da sincronizzare prima di eliminarli in Dynamics - Documenti Marketo - Documentazione del prodotto
 title: Modifica dei campi da sincronizzare prima di eliminarli in Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
@@ -22,7 +21,7 @@ A volte può essere utile eliminare i campi in Dynamics. Marketo mantiene l’el
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 
-1. Fare clic su **Disattiva sincronizzazione**.
+1. Fai clic su **Disattiva sincronizzazione**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-3.png)
 
@@ -32,16 +31,16 @@ A volte può essere utile eliminare i campi in Dynamics. Marketo mantiene l’el
 
    ![](assets/sync-before-deleting-them-in-dynamics-4.png)
 
-1. Rivedi i campi e fai clic su **Salva**.
+1. Esamina i campi e fai clic su **Salva**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-5.png)
 
 >[!CAUTION]
 >
->Per salvare lo schema aggiornato per la sincronizzazione, è necessario fare clic su **Salva** anche se non sono state apportate modifiche.
+>Clic **Salva** è necessario per salvare lo schema aggiornato per la sincronizzazione, anche se non sono state apportate modifiche.
 
 >[!NOTE]
 >
->Se la sincronizzazione non viene arrestata prima di eliminare un campo in Dynamics, la sincronizzazione potrebbe incontrare errori. Se lo fa, la sincronizzazione si arresta. Prima di riprendere, l’amministratore di Marketo dovrebbe rivedere &quot;Seleziona campi da sincronizzare&quot; (discusso in precedenza) e fare clic su **Salva** per consentire la sincronizzazione di accettare le modifiche dello schema.
+>Se la sincronizzazione non viene arrestata prima di eliminare un campo in Dynamics, la sincronizzazione potrebbe incontrare errori. Se lo fa, la sincronizzazione si arresta. Prima di riprendere, l’amministratore di Marketo dovrebbe rivedere &quot;Seleziona campi da sincronizzare&quot; (discusso in precedenza) e fare clic su **Salva** affinché la sincronizzazione accetti le modifiche dello schema.
 
 Ricorda di abilitare la sincronizzazione dopo il salvataggio delle modifiche.

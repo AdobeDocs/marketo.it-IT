@@ -3,7 +3,6 @@ unique-page-id: 1146931
 description: Creare una nuova campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
 title: Creare una nuova campagna avanzata
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
@@ -17,13 +16,13 @@ Le campagne intelligenti sono lo strumento più importante in Marketo. Possono a
 
 >[!NOTE]
 >
->Le campagne intelligenti sono fantastiche. Ulteriori informazioni su di loro [qui](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Le campagne intelligenti sono fantastiche. Ulteriori informazioni [qui](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Scegli un **Programma**, quindi in **Nuovo** fai clic su **Nuova risorsa locale**.
+1. Scegli un **Programma** e quindi sotto **Nuovo** fare clic su **Nuova risorsa locale**.
 
    ![](assets/program-localassethands.png)
 
@@ -35,7 +34,7 @@ Le campagne intelligenti sono lo strumento più importante in Marketo. Possono a
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
-1. Immetti il nome della campagna avanzata e fai clic su **Crea**.
+1. Inserisci il nome della campagna intelligente e fai clic su **Crea**.
 
    ![](assets/image2014-9-19-15-3a10-3a41.png)
 

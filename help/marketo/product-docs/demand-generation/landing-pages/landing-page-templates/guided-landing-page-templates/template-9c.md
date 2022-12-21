@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 9C {#template-9c}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 

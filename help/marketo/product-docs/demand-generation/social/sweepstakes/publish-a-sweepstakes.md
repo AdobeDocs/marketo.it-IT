@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359799
-description: Pubblicare una pagina di ricerca - Marketo Docs - Documentazione prodotto
-title: Pubblicare una Sweepstakes
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Pubblicare una sweep - Documentazione Marketo - Documentazione del prodotto
+title: Pubblicare una sweep
+exl-id: c02d213c-a965-4737-817a-ce8bd7491853
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
+# Pubblicare una sweep {#publish-a-sweepstakes}
 
-# Pubblicare gli Sweepstakes {#publish-a-sweepstakes}
-
-Dopo aver [creato una pagina di ricerca, potete pubblicarla sulle pagine di destinazione di Marketo, sul sito Web e su Facebook.](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+Dopo [creare una sweep](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi pubblicarlo sulle pagine di destinazione di Marketo, sul sito web e sul Facebook.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
 >[!NOTE]
 >
->Prima di pubblicare l&#39;offerta, verificate che sia conforme a tutte le leggi, le regole e le normative applicabili.
+>Prima di pubblicare l’offerta, conferma che è conforme a tutte le leggi, le regole e i regolamenti applicabili.
 
-1. Individuate la pagina di destinazione e fate clic su **Modifica bozza**.
+1. Individua la pagina di destinazione e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Individuate la sezione Inserisci elementi sul lato destro della pagina. Trascinare su **Sweepstakes**.
+1. Individua la sezione Inserisci elementi sul lato destro della pagina. Trascina **Laghi**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. Selezionate i vostri dolci e fate clic su **Inserisci**.
+1. Seleziona le tue azioni e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -39,12 +38,12 @@ Dopo aver [creato una pagina di ricerca, potete pubblicarla sulle pagine di dest
    >
    >Devi approvare i tuoi dolci per renderli disponibili qui.
 
-   Congratulazioni! Approva la pagina di destinazione e i tuoi dolci sono live. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la pagina di destinazione nel sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Complimenti. Approva la pagina di destinazione e i tuoi sweep sono live. È inoltre possibile [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [mettere la posta in gioco sul tuo sito web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
-   >Test e affina i tuoi dolci. Andate alla pagina Web e registratevi con le informazioni sul test. Prendete nota di tutto ciò che desiderate modificare in merito all&#39;esperienza dell&#39;utente.
+   >Testa e perfeziona i tuoi dolci. Vai alle ricerche sulla tua pagina web e registrati con le informazioni di prova. Prendi nota di tutto ciò che desideri modificare sull’esperienza dell’utente.
 
    >[!NOTE]
    >
-   >Quando le persone iniziano a registrarsi, ricorda di tornare all&#39;app per [selezionare i vincitori della sweep ](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
+   >Quando le persone iniziano a registrarsi, ricorda di tornare all’app per [seleziona i vincitori della sweep](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!

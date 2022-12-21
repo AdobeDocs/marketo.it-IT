@@ -3,9 +3,10 @@ description: Stato del modello e validità dei dati - Documenti Marketo - Docume
 title: Salute del modello e validità dei dati
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: fdb4ae1c-a638-4aa3-aa09-1993760b8be5
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati
 
 Ecco come valutare lo stato di salute del modello.
 
-Passa a **[!UICONTROL Modelli e integrità dei dati]** sezione **[!UICONTROL Predictive Audiences]** in **[!UICONTROL Amministratore]** area di Marketo Classic. Qui potrai vedere tutti i tuoi modelli e i loro stati.
+Passa a **[!UICONTROL Models and Data Health]** sezione **[!UICONTROL Predictive Audiences]** in **[!UICONTROL Admin]** area di Marketo Classic. Qui potrai vedere tutti i tuoi modelli e i loro stati.
 
 ![Immagine uno](assets/model-health-and-data-validity-1.png)
 

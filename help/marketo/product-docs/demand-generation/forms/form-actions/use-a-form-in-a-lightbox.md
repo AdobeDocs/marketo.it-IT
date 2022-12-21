@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359677
-description: Utilizzare un modulo in una Lightbox - Marketo Docs - Documentazione prodotto
-title: Usare un modulo in una casella di controllo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Utilizzare un modulo in una Lightbox - Documenti Marketo - Documentazione del prodotto
+title: Utilizzare un modulo in una Lightbox
+exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# Utilizzare un modulo in una Lightbox {#use-a-form-in-a-lightbox}
 
-# Utilizzare un modulo in una casella di controllo Lightbox {#use-a-form-in-a-lightbox}
+Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando lo desideri. Ecco come.
 
-Una Lightbox è una tecnica che consente di aprire un modulo davanti al contenuto per consentirne la visualizzazione. Ecco come.
-
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,22 +22,22 @@ Una Lightbox è una tecnica che consente di aprire un modulo davanti al contenut
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. In **Azioni modulo** fare clic su **Incorpora codice**.
+1. Sotto **Azioni modulo**, fai clic su **Codice di incorporamento**.
 
    >[!NOTE]
    >
-   >Il modulo deve essere approvato affinché la voce di codice da incorporare sia visibile/utilizzabile.
+   >Il modulo deve essere approvato affinché l’elemento del codice di incorporamento sia visibile/utilizzabile.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Impostare **Tipo di codice** su **Lightbox**.
+1. Imposta **Tipo di codice** a **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Selezionare/copiare il codice e fare clic su **Chiudi**.
+1. Seleziona/copia il codice e fai clic su **Chiudi**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
-Consegnate il codice al vostro sviluppatore Web e fatelo aggiungere al sito Web.
+Trasmetti il codice al tuo sviluppatore web e fai in modo che lo aggiungano al tuo sito web.
 
 Ottimo lavoro!

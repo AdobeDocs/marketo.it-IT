@@ -3,11 +3,10 @@ unique-page-id: 4719283
 description: Informazioni sulla sincronizzazione di Salesforce - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulla sincronizzazione di Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Marketo e Salesforce si riuniscono come piselli e carote. Manteniamo sincronizzati i dati di vendita e marketing.
 
-## Funzionamento della sincronizzazione {#how-sync-works}
+## Come funziona la sincronizzazione {#how-sync-works}
 
 Marketo sincronizza con Salesforce tutto il giorno, ogni giorno. Ogni sincronizzazione richiede un po&#39; di tempo e poi si mette in pausa per 5 minuti, quindi si riavvia.
 
@@ -40,6 +39,6 @@ La sincronizzazione tra Salesforce e Marketo è bidirezionale solo per lead, con
 
 >[!NOTE]
 >
->Le [credenziali immesse in Marketo per Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui tali credenziali hanno accesso.
+>La [credenziali inserite in Marketo per Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzati per sincronizzare i dati. Verranno inclusi solo i dati a cui tali credenziali hanno accesso.
 
 La sincronizzazione Marketo con Salesforce è la più potente del suo genere al mondo. Sembra magia; viene apportata una modifica e l&#39;altro sistema è presto aggiornato.

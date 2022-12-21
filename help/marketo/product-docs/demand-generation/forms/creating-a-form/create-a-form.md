@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359398
-description: Creazione di un modulo - Documenti Marketo - Documentazione prodotto
-title: Creazione di un modulo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Creare un modulo - Documenti Marketo - Documentazione del prodotto
+title: Creare un modulo
+exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-
 # Creare un modulo {#create-a-form}
 
-Creare e utilizzare un modulo su una pagina di destinazione per generare nuovi nomi. È davvero facile - ecco come iniziare.
+Creare e utilizzare un modulo in una pagina di destinazione per generare nuovi nomi. È davvero facile - ecco come iniziare.
 
 >[!NOTE]
 >
->Scopri le operazioni eseguite da Marketo per [proteggere i moduli](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Scopri le operazioni di Marketo [proteggere i moduli](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,26 +26,26 @@ Creare e utilizzare un modulo su una pagina di destinazione per generare nuovi n
 
    ![](assets/programseelct.png)
 
-1. In **New**, fare clic su **New** **Local** **Asset**.
+1. Sotto **Nuovo**, fai clic su **Nuovo** **Locale** **Risorsa**.
 
    ![](assets/newlocalasset.png)
 
-1. Selezionare **Form**.
+1. Seleziona **Modulo**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Inserire un modulo **Nome** e fare clic su **Crea**.
+1. Immettere un modulo **Nome** e fai clic su **Crea**.
 
    ![](assets/newformwithhands.png)
 
 >[!TIP]
 >
->La maggior parte dei clienti crea un nuovo modulo per ciascuna pagina di destinazione, ma è anche possibile creare un modulo da utilizzare con più pagine di destinazione. Sta interamente a te!
+>La maggior parte dei clienti crea un nuovo modulo per ogni pagina di destinazione, ma è anche possibile creare un modulo da utilizzare con più pagine di destinazione. Sta interamente a te!
 
-Dolce! Ora che il modulo è stato creato, andiamo avanti e mettiamolo in ordine.
+Dolce! Ora che il modulo è stato creato, andiamo avanti e vestiamolo.
 
 >[!MORELIKETHIS]
 >
->* [Selezione di un tema modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
->* [Aggiunta di un set di campi a un modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
+>* [Selezionare un tema del modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Aggiungere un set di campi a un modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 

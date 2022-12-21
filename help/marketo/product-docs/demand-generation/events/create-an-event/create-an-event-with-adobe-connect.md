@@ -3,7 +3,6 @@ unique-page-id: 2949865
 description: Creare un evento con Adobe Connect - Documentazione Marketo - Documentazione del prodotto
 title: Creare un evento con Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
-translation-type: tm+mt
 source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
 source-wordcount: '419'
@@ -21,7 +20,7 @@ La sincronizzazione con Adobe Connect ti consente di gestire la registrazione e 
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-In primo luogo, assicurati di aver creato la riunione o il seminario in Adobe Connect. Se hai bisogno di aiuto, consulta la [Guida utente di Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+In primo luogo, assicurati di aver creato la riunione o il seminario in Adobe Connect. Se hai bisogno di aiuto, consulta la sezione [Guida utente di Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cartella specificata al momento dell&#39;immissione delle credenziali in Marketo. Dopo aver creato la riunione o il seminario, prendere nota di tutte le informazioni logistiche rilevanti (come il numero di telefono), da utilizzare nel file di conferma e-mail e ICS.
 
@@ -33,23 +32,23 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
 >
 >Al momento non è supportato Adobe Connect On-Site.
 
-1. Nella home di un nuovo evento, selezionare **Azioni evento**, quindi **Impostazioni evento**.
+1. Nella home di un nuovo evento, seleziona **Azioni evento** e quindi **Impostazioni evento**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Se non trovi **Impostazioni evento** nel menu a discesa, assicurati che il canale dell&#39;evento sia selezionato in **Evento con webinar** in &quot;Si applica a&quot;.
+   >Se non vedi **Impostazioni evento** nel menu a discesa , assicurati che il canale dell’evento abbia **Evento con Webinar** selezionato in &quot;Si applica a&quot;.
 
-1. In **Partner evento**, seleziona **Adobe Connect**.
+1. Sotto **Partner evento**, seleziona **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Seleziona il tuo **Login** ID e seleziona il tuo **Evento**.
+1. Seleziona la tua **Login** ID e seleziona il tuo **Evento**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/event-settings-overview.png)
 
@@ -63,7 +62,7 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
    >
    >Per inserire l’URL univoco della persona in un’e-mail, utilizza questo token: `{{member.webinar url}}`. Quando l’e-mail viene inviata, questo token risolve automaticamente l’URL di conferma univoco della persona da Adobe Connect.
    >
-   >Imposta il tuo messaggio e-mail di conferma su **Operativo** per assicurarti che le persone che si registrano e possono essere cancellate ricevano comunque le loro informazioni di conferma.
+   >Imposta l’e-mail di conferma su **Operativo** per garantire che le persone che si registrano e possono essere cancellate ricevano comunque le informazioni di conferma.
 
    Le persone che si iscrivono al tuo webinar riceveranno un push al tuo provider tramite il passaggio Cambia lo stato del programma quando il nuovo stato è impostato su &quot;Registrato&quot;. Nessun altro stato invierà la persona. Inoltre, assicurati di fare il passaggio di flusso Modifica stato programma n. 1 e Invia passaggio di flusso e-mail n. 2.
 
@@ -75,7 +74,7 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
 
    >[!TIP]
    >
-   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver aspettato così a lungo non vedi ancora nulla, seleziona **Aggiorna dal provider di webinar** dal menu Azioni evento nella scheda Riepilogo dell&#39;evento.
+   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver aspettato così a lungo non vedi ancora nulla, seleziona **Aggiorna da Webinar Provider** dal menu Azioni evento nella scheda Riepilogo dell’evento.
 
    >[!MORELIKETHIS]
    >

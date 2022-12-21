@@ -845,7 +845,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><strong> Annulla sottoscrizione</strong></p> 
+     <p><strong> Annulla iscrizione</strong></p> 
     </div></td> 
    <td colspan="1">Quando un <strong>persona</strong> sceglie di non ricevere più e-mail di marketing, un altro termine per la rinuncia.</td> 
   </tr> 

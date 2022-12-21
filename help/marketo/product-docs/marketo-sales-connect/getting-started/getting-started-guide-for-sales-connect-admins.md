@@ -1,7 +1,8 @@
 ---
 description: Guida introduttiva per gli amministratori di Sales Connect - Marketo Docs - Documentazione del prodotto
 title: Guida introduttiva per gli amministratori di Sales Connect
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -18,13 +19,13 @@ Questo documento illustra i passaggi iniziali per la configurazione della nuova 
 
 ## Accesso al nuovo account Marketo Sales Connect {#accessing-your-new-marketo-sales-connect-account}
 
-Se hai acquistato Marketo Sales Connect, l’accesso all’istanza verrà fornito dalla sezione di amministrazione di Marketo. [Fai clic ](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) qui per vedere le istruzioni su come un amministratore di Marketo può effettuare il provisioning dell’accesso alla tua nuova istanza.
+Se hai acquistato Marketo Sales Connect, l’accesso all’istanza verrà fornito dalla sezione di amministrazione di Marketo. [Fai clic qui](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) per vedere le istruzioni su come un amministratore di Marketo può effettuare il provisioning dell’accesso alla nuova istanza.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
 ## Invitare e gestire gli utenti {#inviting-and-managing-users}
 
-Dopo aver effettuato il provisioning del tuo account Marketo Sales Connect da Marketo e invitato il tuo primo utente amministratore, tale utente amministratore può invitare altri utenti dalla pagina di gestione utenti di Marketo Sales Connect. [Fai clic ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) qui per scoprire come invitare gli utenti dalla pagina di gestione degli utenti.
+Dopo aver effettuato il provisioning del tuo account Marketo Sales Connect da Marketo e invitato il tuo primo utente amministratore, tale utente amministratore può invitare altri utenti dalla pagina di gestione utenti di Marketo Sales Connect. [Fai clic qui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) per vedere come invitare gli utenti dalla pagina di gestione utenti.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
@@ -32,7 +33,7 @@ Dopo aver effettuato il provisioning del tuo account Marketo Sales Connect da Ma
 
 Tutti gli utenti dovranno connettersi individualmente a Salesforce per consentire alle attività di vendita dei registri di accedere alle attività di vendita, ad esempio e-mail, chiamate e attività. Tuttavia, quando ti connetti a Salesforce come amministratore, avrai la possibilità di configurare le impostazioni di registrazione delle attività per l’intero team, in modo che le impostazioni di registrazione globali vengano applicate a tutti gli utenti di Sales Connect.
 
-Per collegare l’istanza di Sales Connect all’istanza di Salesforce, in qualità di Amministratore o di non amministratore, segui i passaggi descritti in [questo articolo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
+Per collegare l’istanza di Sales Connect all’istanza di Salesforce, in qualità di Amministratore o di non amministratore, segui i passaggi descritti in [articolo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -41,7 +42,7 @@ Per collegare l’istanza di Sales Connect all’istanza di Salesforce, in quali
 La connessione a Marketo consentirà ai tuoi venditori di sfruttare la potenza dell’automazione del marketing e le informazioni di marketing nelle loro attività di ricerca. Le seguenti funzioni richiedono la configurazione di un’integrazione con Marketo.
 
 * Condividi [campagne di marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) con i venditori
-* Invia [Momenti interessanti](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) al feed live
+* Push [Momenti interessanti](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) al feed live
 * Registrazione delle attività di vendita su Marketo
 
 Per ulteriori informazioni su come connettersi a Marketo e concedere agli utenti di vendita l&#39;accesso alla connessione, fare clic qui.
@@ -50,7 +51,7 @@ Per ulteriori informazioni su come connettersi a Marketo e concedere agli utenti
 
 Garantire che le vendite siano abilitate per il successo significa avere le funzionalità giuste nell&#39;area di lavoro primaria. Il pacchetto di personalizzazione di Sales Connect consente di accedere da Salesforce alle funzionalità di coinvolgimento e agli attributi chiave delle attività di vendita.
 
-Per ulteriori informazioni sull&#39;installazione di Sales Connect Customization [fare clic qui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+Per ulteriori informazioni sull&#39;installazione di Sales Connect Customization [fai clic qui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 ## Test in Sandbox {#testing-in-sandbox}
 
@@ -61,5 +62,5 @@ Per i team che desiderano testare Marketo Sales Connect con la propria Sandbox M
 >Non è possibile fornire a più istanze un account Sales Connect con lo stesso ID e-mail. Ciò significa che se desideri avere un account di vendita Connect aggiuntivo da testare con la tua istanza Sandbox di Marketo, dovrai utilizzare un ID e-mail diverso in ciascuno degli account.
 
 >[!MORELIKETHIS]
-[Privilegi di amministratore](/help/marketo/product-docs/marketo-sales-connect/admin/user-access-details.md)>
 >
+>[Privilegi di amministratore](/help/marketo/product-docs/marketo-sales-connect/admin/user-access-details.md)

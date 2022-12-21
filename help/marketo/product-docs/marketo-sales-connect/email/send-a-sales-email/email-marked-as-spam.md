@@ -1,31 +1,30 @@
 ---
 unique-page-id: 14352525
-description: E-mail contrassegnata come spam - Documenti Marketo - Documentazione prodotto
+description: E-mail contrassegnata come spam - Documenti Marketo - Documentazione del prodotto
 title: E-mail contrassegnata come spam
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-
 # E-mail contrassegnata come spam {#email-marked-as-spam}
 
-Come azienda, lavoriamo sodo per garantire che i nostri tassi di recapito restino elevati. Esistono tuttavia alcuni comportamenti e impostazioni utente che possono attivare le e-mail inviate per essere indirizzate alla cartella dello spam.
+In qualità di azienda, lavoriamo sodo per garantire che i nostri tassi di recapito di messaggi rimangano elevati. Tuttavia, esistono alcuni comportamenti e impostazioni utente che possono attivare l’indirizzamento delle e-mail inviate alla cartella spam.
 
 **Controlla le impostazioni**
 
-* Tracciamento dominio personalizzato: Questo ti permette di avere tutti i tuoi collegamenti di tracciamento che appaiono come sempre&quot;.yourdomain&quot; invece di go.toutapp. Alcune funzioni di sicurezza e-mail vedranno che l&#39;e-mail proviene dal &quot;dominio&quot;, ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti di dominio personalizzato, le e-mail appariranno legittime e avranno una maggiore probabilità di colpire la inbox del destinatario.
-* Canale di distribuzione e-mail: Per impostazione predefinita, i messaggi e-mail vengono inviati tramite i server ToutApp. Impostando il proprio Gmail o SMTP personalizzato, puoi dare alle tue e-mail la migliore opportunità di atterrare nella inbox di un destinatario. [Fai clic ](https://nation.marketo.com/docs/DOC-5080) qui per saperne di più sulla selezione del canale di consegna adatto alle tue esigenze.
+* Tracciamento dominio personalizzato: Questo ti permette di visualizzare tutti i tuoi collegamenti di tracciamento come sempre.&quot;dominio&quot; invece di go.toutapp. Alcune funzioni di sicurezza e-mail visualizzano l’e-mail proveniente dal &quot;tuo dominio&quot; ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti del dominio personalizzato, le tue e-mail appariranno legittime e avranno una maggiore probabilità di colpire la casella in entrata del destinatario.
+* Canale di consegna e-mail: Per impostazione predefinita, le e-mail vengono inviate tramite i server ToutApp. Impostando il proprio Gmail o SMTP personalizzato, puoi dare alle tue e-mail la migliore opportunità di arrivare nella casella in entrata di un destinatario. [Fai clic qui](https://nation.marketo.com/docs/DOC-5080) per saperne di più sulla selezione del canale di consegna adatto alle tue esigenze.
 
 **Controlla i tuoi comportamenti e-mail**
 
-* Le e-mail devono essere brevi e informali e i modelli devono essere incollati come e-mail che avete scritto in precedenza.
+* Mantieni le e-mail brevi e informali e incolla i tuoi modelli come e-mail che hai scritto in precedenza.
 
-* Evitate e-mail in formato eccessivo o messaggi in cui utilizzate parole transnazionali.
+* Evita e-mail o messaggi sovraformattati in cui utilizzi parole transnazionali.
 
-* Assicurarsi di disporre di una firma e-mail completa con un indirizzo fisico.
+* Assicurati di disporre di una firma e-mail completa con un indirizzo fisico.
 
-* Leggi e assicurati di rispettare le [leggi CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Leggi e assicurati di rispettare [LEGGI CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).

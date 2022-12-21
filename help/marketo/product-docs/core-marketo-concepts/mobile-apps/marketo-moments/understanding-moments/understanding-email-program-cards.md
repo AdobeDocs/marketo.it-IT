@@ -3,7 +3,6 @@ unique-page-id: 8781911
 description: Informazioni sulle schede dei programmi e-mail - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle schede del programma e-mail
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Schede del programma e-mail {#understanding-email-program-cards}
+# Informazioni sulle schede del programma e-mail {#understanding-email-program-cards}
 
-Utilizza Marketo Moments per visualizzare i tuoi programmi e-mail dal telefono o l’iPad.
+Utilizza Marketo Moments per visualizzare i tuoi programmi e-mail dal telefono o iPad.
 
 ## Schede del programma e-mail {#email-program-cards}
 
@@ -41,7 +40,7 @@ Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tocca **Conferma** per completare il lavoro, oppure **Non fare attenzione** se hai dei ripensamenti.
+1. Tocca **Conferma** per completare il lavoro, oppure **Non importa** se avesse avuto dei ripensamenti.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,7 +48,7 @@ Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti
    >
    >Ora la tua carta diventerà arancione!
 
-## Annullamento dell&#39;invio di una scheda e-mail {#canceling-an-email-card-send}
+## Annullamento dell’invio di una scheda e-mail {#canceling-an-email-card-send}
 
 1. Se decidi di non inviare l’e-mail confermata, tocca il menu a tre punti.
 
@@ -75,13 +74,13 @@ Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Seleziona una data sul calendario e tocca **Riprogramma**.
+1. Seleziona una data nel calendario e tocca **Riprogramma**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
    Se hai un servizio wireless, puoi riprogrammare da qualsiasi luogo!
 
-## Invio di un campione {#sending-a-sample}
+## Invio di un esempio {#sending-a-sample}
 
 Puoi condividere un esempio di momento e-mail direttamente con un utente.
 
@@ -89,11 +88,11 @@ Puoi condividere un esempio di momento e-mail direttamente con un utente.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocca **Invia campione**.
+1. Tocca **Invia esempio**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Immetti un indirizzo e-mail e fai clic su **Invia campione**.
+1. Immetti un indirizzo e-mail e fai clic su **Invia esempio**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 

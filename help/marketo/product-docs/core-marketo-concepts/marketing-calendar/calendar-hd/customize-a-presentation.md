@@ -3,7 +3,6 @@ unique-page-id: 7503973
 description: Personalizzare una presentazione - Documenti Marketo - Documentazione del prodotto
 title: Personalizzare una presentazione
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
@@ -22,41 +21,40 @@ Imposta la presentazione del calendario in modo che rifletta gli obiettivi e le 
 
 >[!PREREQUISITES]
 >
->* [Creare obiettivi ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) di elenco  [avanzati personalizzati goalor](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
-   >
-   >
-* [Creare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Creare obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) o [Obiettivi dell’elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
+>
+>* [Creare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## Scelta delle visualizzazioni {#choosing-the-views}
 
-Presentations passa attraverso diverse [definizioni di filtro](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) scelte. Inserire tutte le visualizzazioni desiderate e personalizzare la frequenza.
+Ciclo Presentations attraverso diversi [definizioni dei filtri](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) scegli tu. Inserire tutte le visualizzazioni desiderate e personalizzare la frequenza.
 
 1. Dall’albero di destra, trascinate le diverse viste da ruotare nella presentazione.
 
    ![](assets/image2015-3-18-13-3a6-3a10.png)
 
-## Aggiungi un obiettivo {#add-a-goal}
+## Aggiungere un obiettivo {#add-a-goal}
 
-Presentations è la più straordinaria quando visualizzano gli obiettivi del tuo team. Trascina i diversi [obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) o [obiettivi dell’elenco smart](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Puoi utilizzare fino a 10.
+Presentations è la più straordinaria quando visualizzano gli obiettivi del tuo team. Trascina su diversi [obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) o [obiettivi elenco smart](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). Puoi utilizzare fino a 10.
 
 1. Dall’albero di destra, trascina i diversi obiettivi da visualizzare nella presentazione.
 
    ![](assets/image2015-3-24-14-3a23-3a26.png)
 
-## Impostare la frequenza di rotazione {#set-the-frequency-of-rotation}
+## Imposta la frequenza di rotazione {#set-the-frequency-of-rotation}
 
 Dopo aver inserito le visualizzazioni desiderate nella presentazione, impostate la frequenza di rotazione tra le diverse viste.
 
-1. Fare clic su **5 minuti** (cadenza predefinita).
+1. Fai clic su **5 minuti** (cadenza predefinita).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. Immettere un&#39;ora utilizzando i minuti. Fare clic su **Salva**.
+1. Immettere un&#39;ora utilizzando i minuti. Fai clic su **Salva**.
 
    >[!NOTE]
    >
-   >Visualizzare una visualizzazione statica selezionando **Disattiva rotazione**.
+   >Visualizzare una visualizzazione statica controllando **Disattiva rotazione**.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -64,7 +62,7 @@ Dopo aver inserito le visualizzazioni desiderate nella presentazione, impostate 
 
 La visualizzazione del calendario può essere modificata in una visualizzazione a 3 settimane o mensile.
 
-1. Seleziona il menu a discesa **Visualizzazione calendario** e scegli tra **3 settimane** o uno **Mese**.
+1. Seleziona la **Visualizzazione calendario** a discesa e scegli tra **3 settimane** o uno **Mese**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -78,7 +76,7 @@ La visualizzazione del calendario può essere modificata in una visualizzazione 
 
 Una volta configurata, la presentazione è pronta per essere visualizzata in anteprima e avviata.
 
-1. Selezionare **Anteprima**.
+1. Seleziona **Anteprima**.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 

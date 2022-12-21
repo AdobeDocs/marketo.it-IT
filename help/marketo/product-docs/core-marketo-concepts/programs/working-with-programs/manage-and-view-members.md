@@ -3,7 +3,6 @@ unique-page-id: 1147122
 description: Gestione e visualizzazione dei membri - Documentazione Marketo - Documentazione del prodotto
 title: Gestisci e visualizza membri
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -17,13 +16,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Approfondisci l&#39;appartenenza al [programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Approfondisci [iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Cerca un membro {#search-for-a-member}
 
 Nella parte inferiore della sezione Membri, utilizzare il campo di ricerca per cercare i membri del programma per nome, e-mail, titolo del lavoro o società.
 
-1. Fare clic sulla scheda **Membri** del programma.
+1. Fai clic sul pulsante **Membri** scheda del programma.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -31,7 +30,7 @@ Nella parte inferiore della sezione Membri, utilizzare il campo di ricerca per c
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## Esporta la griglia dei membri {#export-the-members-grid}
+## Esporta griglia membri {#export-the-members-grid}
 
 È possibile esportare l&#39;elenco dei membri facendo clic sull&#39;icona Excel accanto al campo di ricerca.
 
@@ -49,21 +48,21 @@ Fai clic con il pulsante destro del mouse sull’intestazione della colonna per 
 
 ## Scegliere le colonne visibili nella griglia {#choose-which-columns-are-visible-in-the-grid}
 
-1. Fai clic sull&#39;elenco a discesa **Visualizza** e seleziona **Crea visualizzazione**.
+1. Fai clic sul pulsante **Visualizza** a discesa e seleziona **Crea visualizzazione**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Assegna un nome alla visualizzazione personalizzata. Selezionare i titoli delle colonne. Fare clic su **Aggiungi** e **Rimuovi** per spostare le colonne e creare una visualizzazione.
+1. Assegna un nome alla visualizzazione personalizzata. Selezionare i titoli delle colonne. Fai clic su **Aggiungi** e **Rimuovi** per spostare le colonne e creare una visualizzazione.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Fare clic su **Crea**.
+1. Fai clic su **Crea**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrare la griglia dei membri {#filter-the-members-grid}
+## Filtrare la griglia dei membri  {#filter-the-members-grid}
 
-1. Fai clic sull&#39;elenco a discesa **Filtro** e seleziona un passaggio di progressione per eseguire l&#39;ordinamento.
+1. Fai clic sul pulsante **Filtro** e seleziona un passaggio di progressione in base al quale eseguire l’ordinamento.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +70,11 @@ Fai clic con il pulsante destro del mouse sull’intestazione della colonna per 
 
 È possibile modificare lo stato delle persone all&#39;interno della griglia dei membri.
 
-1. Tenere premuto **Ctrl/Cmd** e selezionare le persone.
+1. Tenere premuto **Ctrl/Comando** e seleziona le persone.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Fai clic sul menu a discesa **Cambia stato** e seleziona uno stato.
+1. Fai clic sul pulsante **Cambia stato** e seleziona uno stato.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

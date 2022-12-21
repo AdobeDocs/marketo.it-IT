@@ -3,10 +3,9 @@ unique-page-id: 557337
 description: Creare e modificare visualizzazioni per elenchi e elenchi avanzati - Documenti Marketo - Documentazione del prodotto
 title: Creare e modificare visualizzazioni per elenchi e elenchi avanzati
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,7 +16,7 @@ Un elenco smart visualizza un set predefinito di colonne. Sapevate di poter modi
 
 ## Creare una visualizzazione {#create-a-view}
 
-1. Vai a un elenco o a un elenco avanzato, fai clic sulla scheda **Persone** e fai clic su **Crea** **Visualizza** nel menu a discesa **Visualizza** .
+1. Passa a un elenco o a un elenco avanzato, quindi fai clic sul pulsante **Persone** e fai clic su **Crea** **Visualizza** in **Visualizza** a discesa.
 
    ![](assets/smartlist-createview.png)
 
@@ -31,11 +30,11 @@ Un elenco smart visualizza un set predefinito di colonne. Sapevate di poter modi
 
 >[!TIP]
 >
->Per eseguire rapidamente la ricerca, utilizzare la casella **Trova**.
+>Per eseguire rapidamente la ricerca, utilizza le **Trova** scatola.
 
 ## Cambia visualizzazioni {#switch-views}
 
-1. Fai clic sull&#39;elenco a discesa **Visualizza** , quindi seleziona la visualizzazione desiderata. Se necessario, passa da una visualizzazione all’altra.
+1. Fai clic sul pulsante **Visualizza** a discesa, quindi seleziona la visualizzazione desiderata. Se necessario, passa da una visualizzazione all’altra.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -45,11 +44,11 @@ Un elenco smart visualizza un set predefinito di colonne. Sapevate di poter modi
 
 ## Modificare una visualizzazione {#edit-a-view}
 
-1. Assicurati che la visualizzazione da modificare sia selezionata nel menu a discesa **Visualizza** .
+1. Assicurati che la visualizzazione da modificare sia selezionata nella **Visualizza** a discesa.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Fare clic sull&#39;opzione **Modifica**.
+1. Fai clic sul pulsante **Modifica** opzione .
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -59,11 +58,11 @@ Un elenco smart visualizza un set predefinito di colonne. Sapevate di poter modi
 
 ## Eliminare una visualizzazione {#delete-a-view}
 
-1. Seleziona l&#39;opzione **Modifica** per la visualizzazione da eliminare dal menu a discesa **Visualizza**.
+1. Seleziona la **Modifica** per la visualizzazione da eliminare dal **Visualizza** a discesa.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Fare clic su **Elimina**.
+1. Fai clic su **Elimina**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 

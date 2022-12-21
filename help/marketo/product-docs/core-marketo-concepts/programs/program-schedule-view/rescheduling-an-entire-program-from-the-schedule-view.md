@@ -3,7 +3,6 @@ unique-page-id: 1147138
 description: Riprogrammazione di un intero programma dalla vista Pianificazione - Marketo Docs - Documentazione del prodotto
 title: Riprogrammazione di un intero programma dalla vista Pianificazione
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
@@ -19,7 +18,7 @@ Quando cloni un programma o un evento con date, è probabile che desideri ripian
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleziona il menu a discesa Azione evento . Scegliere **Riprogramma voci**.
+1. Seleziona il menu a discesa Azione evento . Scegli **Riprogramma voci**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +30,7 @@ Quando cloni un programma o un evento con date, è probabile che desideri ripian
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Fare clic su **Riprogramma**.
+1. Fai clic su **Riprogramma**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

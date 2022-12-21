@@ -3,7 +3,6 @@ unique-page-id: 2953207
 description: Crea nuova cartella campagna - Documentazione Marketo - Documentazione del prodotto
 title: Crea nuova cartella campagna
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
@@ -19,7 +18,7 @@ Le cartelle di Campaign ti consentono di mantenere un’area di lavoro ordinata.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare **Nuovo**.
+1. Seleziona **Nuovo**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
@@ -27,11 +26,11 @@ Le cartelle di Campaign ti consentono di mantenere un’area di lavoro ordinata.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Immetti un **Nome** per la cartella della campagna.
+1. Inserisci un **Nome** per la cartella della campagna.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facoltativo: Inserisci una **Descrizione** e fai clic su **Crea**.
+1. Facoltativo: Inserisci un **Descrizione** e fai clic su **Crea**.
 
    >[!TIP]
    >
@@ -43,7 +42,7 @@ Le cartelle di Campaign ti consentono di mantenere un’area di lavoro ordinata.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ora, quando [crei un nuovo programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), visualizzerai questa cartella della campagna come opzione.
+   Ora quando [creazione di un nuovo programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), visualizzerai questa cartella della campagna come opzione.
 
 >[!MORELIKETHIS]
 >

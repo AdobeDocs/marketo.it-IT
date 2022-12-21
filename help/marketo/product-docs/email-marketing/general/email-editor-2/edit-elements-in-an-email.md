@@ -1,93 +1,92 @@
 ---
 unique-page-id: 1900558
-description: Modifica di elementi in un'e-mail - Documenti Marketo - Documentazione prodotto
+description: Modifica di elementi in un’e-mail - Documenti Marketo - Documentazione del prodotto
 title: Modificare gli elementi in un messaggio e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
 
 ---
 
+# Modificare gli elementi in un messaggio e-mail {#edit-elements-in-an-email}
 
-# Modificare gli elementi in un&#39;e-mail {#edit-elements-in-an-email}
+Le e-mail possono contenere quattro elementi diversi: Rich text, immagini, snippet e video. Ecco come modificarli.
 
-Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e video. Ecco come modificare ciascuno.
+## Come modificare l’elemento RTF {#how-to-edit-the-rich-text-element}
 
-## Come modificare l&#39;elemento RTF {#how-to-edit-the-rich-text-element}
-
-1. Individuate il messaggio e-mail, selezionatelo e fate clic su **Modifica bozza**.
+1. Trova il tuo messaggio e-mail, selezionalo e fai clic su **Modifica bozza**.
 
    ![](assets/one-edited.png)
 
-1. Viene aperto l’editor e-mail. Selezionate il testo RTF, fate clic sull&#39;icona a forma di ingranaggio e selezionate **Modifica**.
+1. Verrà aperto l’editor e-mail. Seleziona Rich text, fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/two.png)
 
-   È inoltre possibile passare il mouse sull&#39;elemento nel riquadro a destra, causando la visualizzazione dell&#39;icona a forma di ingranaggio.
+   Puoi anche passare il cursore sull’elemento nel riquadro a destra, facendo apparire l’icona a forma di ingranaggio.
 
    ![](assets/three.png)
 
-1. Aggiungete/modificate il testo e premete **Salva**.
+1. Aggiungi/Modifica il testo e premi **Salva**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Potete inoltre aggiungere immagini, token, tabelle e altri elementi. Vedere [Utilizzo dell&#39;Editor Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Puoi anche aggiungere immagini, token, tabelle e altri elementi. Vedi [Utilizzo dell’editor Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
-   >Evitate di copiare e incollare testo da un’origine di testo RTF, ad esempio un sito Web o un documento Word. Invece, incollate prima il testo RTF in un editor di testo normale, ad esempio Blocco note (Windows) o TextEdit (Mac). Una volta &quot;pulito&quot;, potete copiarlo dall&#39;editor di testo semplice e incollarlo nell&#39;e-mail.
+   >Evita di copiare e incollare testo da un’origine di testo RTF, ad esempio un sito web o un documento Word. Invece, incolla prima il testo RTF in un editor di testo normale, ad esempio Blocco note (Windows) o Modifica testo (Mac). Una volta &quot;pulito&quot;, puoi copiarlo dall’editor di testo normale e incollarlo nell’e-mail.
 
-## Come modificare l&#39;elemento immagine {#how-to-edit-the-image-element}
+## Come modificare l’elemento immagine {#how-to-edit-the-image-element}
 
-1. Fate clic all’interno del modulo con l’elemento Immagine per selezionarlo.
+1. Fai clic all’interno del modulo con l’elemento Immagine per selezionarlo.
 
    ![](assets/five.png)
 
-1. Fare clic sull&#39;elemento Immagine che si desidera modificare, quindi fare clic sull&#39;icona a forma di ingranaggio e selezionare **Modifica**.
+1. Fai clic sull’elemento immagine da modificare, quindi fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/six.png)
 
    >[!NOTE]
    >
-   >Potete anche fare doppio clic sull&#39;elemento per iniziare la modifica.
+   >Puoi anche fare doppio clic sull’elemento per iniziare la modifica.
 
 1. Viene visualizzato l’editor di immagini.
 
    ![](assets/seven.png)
 
-   Sono disponibili tre opzioni per l’inserimento di un’immagine. Guardiamo ciascuno.
+   Sono disponibili tre opzioni per l’inserimento di un’immagine. Diamo un&#39;occhiata a ciascuno.
 
-   **URL esterno**
+   **External URL**
 
    >[!NOTE]
    >
-   >Se desiderate utilizzare un token Marketo, utilizzate questa opzione. Tenete presente che quando utilizzate un token, l’immagine apparirà interrotta nell’editor, ma verrà riprodotta in modalità Anteprima e nel messaggio e-mail Invia esempio.
+   >Se desideri utilizzare un token Marketo, utilizza questa opzione. Tieni presente che quando utilizzi un token, l’immagine apparirà interrotta nell’editor, ma verrà riprodotta in modalità Anteprima e nell’e-mail Invia esempio.
 
-   Per usare un URL esterno, incollate prima l’URL dell’immagine. Modificate le dimensioni in base alle vostre esigenze e aggiungete del testo Alt (facoltativo). Premere quindi **Swap**.
+   Per utilizzare un URL esterno, incolla prima l’URL dell’immagine. Modifica le dimensioni in base alle tue esigenze e aggiungi del testo Alt (facoltativo). Quindi premere **Scambio**.
 
    ![](assets/eight.png)
 
    **Risorse del computer**
 
-   Per caricare un&#39;immagine dal computer, fare clic su **Sfoglia**.
+   Per caricare un&#39;immagine dal computer, fai clic su **Sfoglia**.
 
    ![](assets/nine.png)
 
-   Individuare la posizione dell&#39;immagine sul computer e inserirla.
+   Passa alla posizione dell&#39;immagine sul computer e inseriscila.
 
    ![](assets/ten.png)
 
-   Modificate le dimensioni in base alle vostre esigenze, modificate il testo Alt (facoltativo), quindi premete **Swap**.
+   Modificare le dimensioni in base alle esigenze, modificare il Testo Alt (facoltativo), quindi premere **Scambio**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Per sostituire un&#39;immagine, è necessario selezionare la casella **Sovrascrivi immagine esistente** visualizzata sotto l&#39;URL/nome immagine.
+   >Se sostituisci un’immagine, dovrai controllare la **Sovrascrivi immagine esistente** che appare sotto l&#39;URL/nome immagine.
 
    **Design Studio**
 
@@ -95,44 +94,44 @@ Le e-mail possono contenere quattro elementi diversi: RTF, immagini, snippet e v
 
    ![](assets/twelve.png)
 
-   ...e inserirla. Modificate le dimensioni in base alle vostre esigenze, modificate il testo Alt (facoltativo), quindi premete **Swap**.
+   ...e inseriscilo. Modificare le dimensioni in base alle esigenze, modificare il Testo Alt (facoltativo), quindi premere **Scambio**.
 
    ![](assets/thirteen.png)
 
-## Come modificare l&#39;elemento snippet {#how-to-edit-the-snippet-element}
+## Come modificare l’elemento frammento {#how-to-edit-the-snippet-element}
 
-1. Fate clic all&#39;interno del modulo con l&#39;elemento Snippet.
+1. Fai clic all’interno del modulo con l’elemento Snippet.
 
    ![](assets/fourteen.png)
 
-1. Fare clic sull&#39;elemento Snippet, quindi sull&#39;icona a forma di ingranaggio e selezionare **Edit**.
+1. Fai clic sull’elemento Frammento , quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/fifteen.png)
 
-1. Trovate lo snippet, selezionatelo e fate clic su **Salva**.
+1. Trova il tuo frammento, selezionalo e fai clic su **Salva**.
 
    ![](assets/sixteen.png)
 
-1. Il tuo snippet viene poi popolato.
+1. Il tuo frammento si popola.
 
    ![](assets/eighteen.png)
 
-## Come modificare l&#39;elemento video {#how-to-edit-the-video-element}
+## Come modificare l’elemento video {#how-to-edit-the-video-element}
 
-1. Fate clic all&#39;interno del modulo con l&#39;elemento Video.
+1. Fai clic all’interno del modulo con l’elemento Video .
 
    ![](assets/nineteen.png)
 
-1. Fate clic sull&#39;elemento Video, quindi sull&#39;icona a forma di ingranaggio e selezionate **Modifica**.
+1. Fai clic sull’elemento video, quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/twenty.png)
 
-1. Incolla nell’URL del video da Vimeo o YouTube. Fate clic fuori dalla casella URL per il caricamento dell’anteprima. Modificate le dimensioni in base alle vostre esigenze, aggiungete Alt Text (facoltativo), quindi premete **Insert**.
+1. Incolla nell’URL del video da Vimeo o YouTube. Quindi fai clic fuori dalla casella URL per caricare l’anteprima. Modifica le dimensioni in base alle tue esigenze, aggiungi Testo Alt (facoltativo), quindi premi **Inserisci**.
 
    ![](assets/twentyone.png)
 
    >[!NOTE]
    >
-   >Per i video di YouTube utilizzate l&#39;URL completo dalla barra degli indirizzi, non l&#39;URL di collegamento trovato nell&#39;opzione Condividi.
+   >Per i video di YouTube, utilizza l’URL completo dalla barra degli indirizzi, non l’URL di scelta rapida trovato nell’opzione Condividi .
 
 Divertiti a progettare l&#39;e-mail perfetta!

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2949279
-description: Aggiorna il tuo componente aggiuntivo Marketo Email per Outlook - Documenti Marketo - Documentazione del prodotto
-title: Aggiorna il componente aggiuntivo Marketo Email per Outlook
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+description: Aggiorna il componente aggiuntivo Marketo Email per Outlook - Marketo Docs - Documentazione del prodotto
+title: Aggiornare il componente aggiuntivo e-mail Marketo per Outlook
+exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
-# Aggiorna il componente aggiuntivo Marketo Email per Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# Aggiornare il componente aggiuntivo e-mail Marketo per Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Quando è disponibile una nuova versione del componente aggiuntivo e-mail Marketo per Outlook, segui queste istruzioni per eseguire l&#39;aggiornamento.
 
@@ -21,7 +20,7 @@ Quando è disponibile una nuova versione del componente aggiuntivo e-mail Market
 
 ## Download del programma di installazione {#download-installer}
 
-Scaricare il programma di installazione appropriato per la versione di Microsoft Outlook in uso.
+Scaricare il programma di installazione appropriato per la versione di Microsoft Outlook.
 
 <table> 
  <colgroup> 
@@ -117,11 +116,11 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
  </tbody> 
 </table>
 
-*Versione Office 365: Solo client Windows (su Windows 10, Enterprise o Pro).
+&#42;Versione Office 365: Solo client Windows (su Windows 10, Enterprise o Pro).
 
-## Aggiorna {#upgrade}
+## Aggiornamento {#upgrade}
 
-1. Identifica la tua [versione di Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifica le [Versione di Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Seleziona la tua versione dall’elenco precedente.
 
@@ -129,7 +128,7 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +140,7 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Noterai che tutte le tue informazioni sono precompilate. Fai clic su **Avanti**.
+1. Noterai che tutte le tue informazioni sono precompilate. Fai clic su **Successivo**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,19 +148,19 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
    >
    >Se l&#39;installazione non riesce, collabora con il tuo reparto IT per assicurarti che il traffico HTTPS non sia bloccato. Il programma di installazione richiede l’apertura del traffico HTTPS.
 
-1. Fare clic su **Avanti** per eseguire l&#39;installazione nel percorso predefinito.
+1. Fai clic su **Successivo** da installare nel percorso predefinito.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Fare clic su **Avanti**.
+1. Fai clic su **Successivo**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. Installazione completata. Fare clic su **Chiudi**.
+1. Installazione completata. Fai clic su **Chiudi**.
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. Aprire Microsoft Outlook per visualizzare la versione più recente dei pulsanti Marketo.
+1. Ora aprire Microsoft Outlook per visualizzare la versione più recente dei pulsanti Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

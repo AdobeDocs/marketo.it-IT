@@ -3,7 +3,6 @@ unique-page-id: 2950799
 description: Panoramica dei token - Documenti Marketo - Documentazione del prodotto
 title: Panoramica dei token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Un token è una variabile che può essere utilizzata nei passaggi del flusso di campagne avanzate di Marketo, nelle e-mail, nelle pagine di destinazione, nei frammenti e nelle campagne web.
 
-## Valori predefiniti {#understanding-default-values}
+## Informazioni sui valori predefiniti {#understanding-default-values}
 
 Quando utilizzi un token, desideri anche fornire un valore predefinito. Questo è il testo che mostra se una persona non ha un valore per il campo a cui si fa riferimento.
 
@@ -27,7 +26,7 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 
 >[!CAUTION]
 >
->I token non funzionano nella preintestazione quando si utilizza l’editor e-mail di Marketo. Per utilizzare un token nella preintestazione, deve essere tramite il proprio HTML in un modello e-mail.
+>I token non funzionano nella preintestazione quando si utilizza l’editor e-mail di Marketo. Per utilizzare un token nella preintestazione, è necessario che sia tramite il proprio HTML in un modello e-mail.
 
 >[!NOTE]
 >
@@ -149,7 +148,7 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 
 >[!NOTE]
 >
->Trova ulteriori dettagli sui [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) in base ai trigger utilizzati in una campagna intelligente.
+>Maggiori informazioni [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basati sui trigger utilizzati in una campagna avanzata.
 
 ## Token del programma {#program-tokens}
 
@@ -157,16 +156,16 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Token {#my-tokens} personali
+## Token personali {#my-tokens}
 
-I miei token sono definiti all&#39;interno di un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+I token personali sono definiti all&#39;interno di un programma e iniziano con `{{my.` seguita dal nome creato per il token. Ulteriori informazioni [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token membro {#member-token}
 
-I token membri vengono utilizzati per inserire valori univoci da partner di servizi integrati. Un uso comune dei token membri è riservato agli URL univoci per i partecipanti al webinar. Ogni persona ha un URL univoco per accedere al webinar che può essere inserito utilizzando un token `{{member.webinar url}}`. Il token `{{member.webinar url}}` risolve automaticamente l’URL di conferma univoco della persona generato dal provider di servizi.
+I token membri vengono utilizzati per inserire valori univoci da partner di servizi integrati. Un uso comune dei token membri è riservato agli URL univoci per i partecipanti al webinar. Ogni persona ha un URL univoco per accedere al webinar che può essere inserito utilizzando un `{{member.webinar url}}` token. La `{{member.webinar url}}` il token risolve automaticamente l’URL di conferma univoco della persona generato dal provider di servizi.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Il token `{{member.webinar url}}` verrà popolato solo se la campagna intelligente che invia l’e-mail è una risorsa figlia del programma evento.
+>La `{{member.webinar url}}` Il token verrà popolato solo se la campagna intelligente che invia l’e-mail è una risorsa figlia del programma evento.

@@ -3,7 +3,6 @@ unique-page-id: 2360311
 description: Creare un nuovo spazio di lavoro - Documentazione di Marketo - Documentazione del prodotto
 title: Creare una nuova area di lavoro
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Creare un nuovo spazio di lavoro {#create-a-new-workspace}
+# Creare una nuova area di lavoro {#create-a-new-workspace}
 
 Le aree di lavoro sono utili per suddividere la tua azienda. I motivi per l’impostazione delle aree di lavoro includono:
 
@@ -26,13 +25,13 @@ Come creare una nuova area di lavoro.
 
 >[!NOTE]
 >
->Comprendi prima con [Informazioni sulle aree di lavoro e le partizioni di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Comprendi per primo con [Informazioni su aree di lavoro e partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
 >Per ulteriori informazioni sulle best practice per Workspace, contatta [Marketo Professional Services](mailto:services@marketo.com).
 
-1. In **Amministratore**, fai clic su **Aree di lavoro e partizioni**.
+1. Sotto **Amministratore**, fai clic su **Aree di lavoro e partizioni**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
@@ -40,19 +39,19 @@ Come creare una nuova area di lavoro.
 
    ![](assets/two-1.png)
 
-1. Inserisci un **Nome** e seleziona le **Partizioni di persona** che desideri utilizzare. Scegliere una **partizione della persona principale**.
+1. Inserisci un **Nome**, quindi seleziona la **Partizioni personali** volete usare. Scegli un **Partizione di persona principale**.
 
    >[!NOTE]
    >
-   >Assicurati di [creare partizioni di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se non lo hai già fatto.
+   >Assicurati di [creare partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se non lo hai già fatto.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La casella di controllo **Tutte le partizioni di persona** indica che l&#39;area di lavoro può utilizzare tutte le partizioni di persona nel sistema.
+   >La **Tutte le partizioni personali** casella di controllo significa che questo spazio di lavoro può utilizzare tutte le partizioni personali nel sistema.
    >
-   >La **partizione di persona primaria** agisce come predefinita ed è il punto in cui verranno assegnate tutte le persone.
+   >La **partizione della persona principale** agisce come impostazione predefinita ed è dove verranno assegnate tutte le persone.
 
    Se hai abilitato più domini con marchio, devi scegliere un dominio con marchio principale.
 
@@ -66,7 +65,7 @@ Come creare una nuova area di lavoro.
 
    ![](assets/five.png)
 
-1. Fare clic su **Crea**.
+1. Fai clic su **Crea**.
 
    ![](assets/six.png)
 

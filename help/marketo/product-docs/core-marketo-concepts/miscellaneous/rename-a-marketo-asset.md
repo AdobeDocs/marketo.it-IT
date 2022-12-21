@@ -3,7 +3,6 @@ unique-page-id: 2952484
 description: Rinominare una risorsa Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Rinominare una risorsa Marketo
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Rinomina una risorsa Marketo {#rename-a-marketo-asset}
+# Rinominare una risorsa Marketo {#rename-a-marketo-asset}
 
 È possibile rinominare facilmente cartelle, programmi e risorse locali.
 
@@ -19,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. Digitare un nuovo nome all’interno del campo di testo. Fare clic su **Salva**.
+1. Digitare un nuovo nome all’interno del campo di testo. Fai clic su **Salva**.
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 

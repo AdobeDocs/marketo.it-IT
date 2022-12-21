@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2953373
-description: Configurare i piè di pagina per l'annullamento della sottoscrizione a Marketo Sales Insight - Marketo Docs - Documentazione prodotto
-title: Configurare i piè di pagina per l’annullamento della sottoscrizione in Marketing Cloud
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Configurare i piè di pagina per l’annullamento dell’abbonamento in Marketo Sales Insight - Documenti Marketo - Documentazione del prodotto
+title: Configurare i piè di pagina per l’annullamento dell’abbonamento in Marketo Sales Insight
+exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
+# Configurare i piè di pagina per l’annullamento dell’abbonamento in Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
-# Configurare i piè di pagina per l&#39;annullamento della sottoscrizione in Marketing Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
-
-Le e-mail di vendita inseriscono automaticamente il piè di pagina di annullamento sottoscrizione nella parte inferiore. Tuttavia, potete regolare le impostazioni in base alle vostre esigenze.
+Le e-mail di vendita inseriscono automaticamente il piè di pagina dell’annullamento dell’abbonamento nella parte inferiore. Tuttavia, è possibile regolare le impostazioni in base alle proprie esigenze.
 
 >[!NOTE]
 >
@@ -23,37 +22,37 @@ Le e-mail di vendita inseriscono automaticamente il piè di pagina di annullamen
 >
 >**Definizione**
 >
->**Le** e-mail di vendita sono quelle inviate da Sales Insight (non includono quelle inviate dal plug-in di Outlook di Marketo).
+>**E-mail di vendita** sono quelli inviati da Sales Insight (non include quelli inviati dal plugin Marketo Outlook).
 
-1. Andate all&#39;area **Admin**.
+1. Vai a **Amministratore** area.
 
    ![](assets/one-1.png)
 
-1. Fare clic su **Sales Insight**, quindi su **Edit Settings**.
+1. Fai clic su **Approfondimenti vendite**, quindi **Modifica impostazioni**.
 
    ![](assets/two-1.png)
 
-   Ci sono diverse opzioni. Analizziamo innanzitutto i tipi di e-mail per cui potete modificare le impostazioni.
+   Ci sono diverse opzioni. In primo luogo, diamo un&#39;occhiata ai tipi di e-mail per cui puoi modificare le impostazioni.
 
    ![](assets/three-1.png)
 
-   * **Nessun modello** : composto manualmente dall&#39;utente di vendita.
-   * **E-mail**  standard - E-mail basate su un modello.
-   * **E-mail**  operativa: e-mail che ignorano i limiti di sottoscrizione non sottoscritti, sospensione del marketing e comunicazione (inviano indipendentemente da quale elemento).
+   * **Nessun modello** - Composto manualmente dall&#39;utente di vendita.
+   * **E-mail standard** - E-mail basate su un modello.
+   * **E-mail operativa** - E-mail che ignorano i limiti di abbonamento, di sospensione del marketing e di comunicazione (che inviano indipendentemente da cosa).
 
-   Potete impostare un comportamento diverso per ciascun tipo.
+   Puoi impostare comportamenti diversi per ogni tipo.
 
    >[!CAUTION]
    >
-   >**Rispetta le impostazioni** di annullamento sottoscrizione: i lead non sottoscritti NON riceveranno l&#39;e-mail persino se l&#39;e-mail pubblicata è &quot;operativa&quot;
+   >**Rispetta le impostazioni di annullamento sottoscrizione**: i lead non abbonati NON riceveranno l’e-mail nemmeno se l’e-mail pubblicata è &quot;operativa&quot;
    >
-   >**Ignora impostazioni** annullamento sottoscrizione: i lead non sottoscritti riceveranno l&#39;e-mail
+   >**Ignora impostazioni di annullamento sottoscrizione**: i lead non abbonati riceveranno l’e-mail
 
-1. Apportate le modifiche desiderate, quindi fate clic su **Salva**.
+1. Apporta le modifiche desiderate, quindi fai clic su **Salva**.
 
    >[!TIP]
    >
-   >Le ultime due opzioni consentono di includere/escludere dinamicamente il piè di pagina per l’annullamento della sottoscrizione in base al numero di destinatari (maggiore di 1 o maggiore di 5).
+   >Le ultime due opzioni consentono di includere/escludere dinamicamente il piè di pagina dell’annullamento dell’abbonamento in base al numero di destinatari (maggiore di 1 o maggiore di 5).
 
    ![](assets/four-1.png)
 

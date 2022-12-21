@@ -1,24 +1,23 @@
 ---
 unique-page-id: 7504922
-description: Tipi di report di Esplora ricavi - Documenti Marketo - Documentazione prodotto
-title: Tipi di rapporti di Esplora ricavi
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Tipi di rapporti di Revenue Explorer - Documenti Marketo - Documentazione del prodotto
+title: Tipi di rapporti di Revenue Explorer
+exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
+# Tipi di rapporti di Revenue Explorer {#revenue-explorer-report-types}
 
-# Tipi di report di Esplora ricavi {#revenue-explorer-report-types}
-
-Di seguito sono riportati i tipi di report che si verificheranno se si utilizza l&#39;analisi del ciclo delle entrate.
+Di seguito sono elencati i tipi di report che si verificano se si utilizza l&#39;analisi del ciclo dei ricavi.
 
 <table> 
  <thead> 
   <tr> 
-   <th>Report</th> 
+   <th>Rapporto</th> 
    <th>Descrizione</th> 
   </tr> 
  </thead> 
@@ -29,35 +28,35 @@ Di seguito sono riportati i tipi di report che si verificheranno se si utilizza 
   </tr> 
   <tr> 
    <td>Analisi lead</td> 
-   <td>Metriche e attributi del lead e della società correlati ai lead</td> 
+   <td>Metriche e attributi principali e aziendali relativi ai lead</td> 
   </tr> 
   <tr> 
-   <td>Model Performance Analysis (società)</td> 
-   <td>Metriche e attributi relativi al modello del ciclo delle entrate per società</td> 
+   <td>Analisi delle prestazioni del modello (aziende)</td> 
+   <td>Metriche e attributi relativi al modello di ciclo dei ricavi per società</td> 
   </tr> 
   <tr> 
-   <td>Analisi prestazioni modello (lead)</td> 
-   <td>Metriche e attributi relativi al modello del ciclo delle entrate per lead</td> 
+   <td>Analisi delle prestazioni del modello (lead)</td> 
+   <td>Metriche e attributi relativi al modello di ciclo dei ricavi per lead</td> 
   </tr> 
   <tr> 
-   <td>Analisi opportunità</td> 
+   <td>Analisi delle opportunità</td> 
    <td><p>Metriche e attributi principali e aziendali relativi alle opportunità</p></td> 
   </tr> 
   <tr> 
-   <td>Analisi costi programma</td> 
-   <td>Metriche e attributi relativi ai programmi con almeno un periodo di costo</td> 
+   <td>Analisi dei costi del programma</td> 
+   <td>Metriche e attributi relativi a programmi con almeno un periodo di costo</td> 
   </tr> 
   <tr> 
-   <td>Analisi iscrizione al programma</td> 
-   <td>Metriche e attributi relativi ai programmi con almeno un membro</td> 
+   <td>Analisi dell'appartenenza al programma</td> 
+   <td>Metriche e attributi relativi a programmi con almeno un membro</td> 
   </tr> 
   <tr> 
-   <td>Analisi opportunità del programma</td> 
-   <td>Metriche e attributi opportunità relativi ai programmi</td> 
+   <td>Analisi delle opportunità del programma</td> 
+   <td>Metriche e attributi di opportunità relativi ai programmi</td> 
   </tr> 
   <tr> 
-   <td>Analisi fase ricavi programma</td> 
-   <td>Metriche e attributi basati sul modello del ciclo delle entrate</td> 
+   <td>Analisi della fase di ricavo del programma</td> 
+   <td>Metriche e attributi in base al modello del ciclo dei ricavi</td> 
   </tr> 
  </tbody> 
 </table>

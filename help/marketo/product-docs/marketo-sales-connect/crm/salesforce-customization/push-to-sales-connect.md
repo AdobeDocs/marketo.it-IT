@@ -1,39 +1,38 @@
 ---
 unique-page-id: 14352477
-description: Push to Sales Connect - Marketo Docs - Documentazione prodotto
+description: Push to Sales Connect - Documentazione Marketo - Documentazione del prodotto
 title: Push to Sales Connect
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-
 # Push to Sales Connect {#push-to-sales-connect}
 
-Il nostro pulsante Premi a Tout fornirà un elenco dei lead/contatti in Salesforce e li invierà a un gruppo in Sales Connect. Potete quindi inviare rapidamente un&#39;e-mail di gruppo personalizzabile con tracciamento del Tout allegato.
+Il nostro pulsante Push to Tout prenderà un elenco dei vostri lead/contatti in Salesforce e li spingerà in un gruppo in Sales Connect. Puoi quindi inviare rapidamente un’e-mail di gruppo personalizzabile con tracciamento Tout allegato.
 
 ## Requisiti {#requirements}
 
-* Pacchetto Salesforce di Sales Connect installato dall&#39;amministratore Salesforce
+* Pacchetto Salesforce Sales Connect installato da Salesforce Admin
 
-* Pulsante Push to Sales Connect installato dall&#39;amministratore Salesforce per visualizzare l&#39;elenco
+* Pulsante Push to Sales Connect installato nella visualizzazione elenco da Salesforce Admin
 
-* Connessione Salesforce realizzata con Sales Connect per gli utenti che eseguono il push
+* Connessione Salesforce effettuata con Sales Connect per l&#39;utente che effettua il push
 
-## Come {#how-to}
+## Come fare per {#how-to}
 
-1. Fare clic sulla scheda **Lead/Contact** in Salesforce.
-1. Passate alla vista Elenco a cui desiderate aggiungere il pulsante Premi per il collegamento vendite accanto al pulsante Vai.
-1. Fare clic su **Go**.
+1. Fai clic sul pulsante **Lead/Contatto** scheda in Salesforce.
+1. Passa alla vista Elenco da premere per la connessione alle vendite accanto al pulsante Vai.
+1. Fai clic su **Vai**.
 1. Seleziona tutti i lead/contatti che desideri inviare al tout.
-1. Selezionare **Push to MSE**.
-1. Viene visualizzata una nuova finestra per verificare il numero di lead/contatti da spostare. Selezionare **Procedi a Group**. I servizi di vendita Connect non eseguiranno il push dei contatti contrassegnati come Rifiuto e-mail in Salesforce o Annulla sottoscrizione in Sales Connect.
+1. Seleziona **Invia a MSE**.
+1. Viene visualizzata una nuova finestra che verifica il numero di lead/contatti da spingere. Seleziona **Procedi al gruppo**. Sales Connect non eseguirà il push di contatti contrassegnati come Rinuncia via e-mail in Salesforce o Annulla sottoscrizione in Sales Connect.
 
    >[!NOTE]
    >
-   >In Sales Connect verrà aggiunto il gruppo denominato &quot;SFDC-...&quot; nella pagina Relazioni dell&#39; [applicazione Web](https://toutapp.com/login).
+   >Sales Connect aggiunge questo gruppo denominato &quot;SFDC-...&quot; alla pagina Relazioni della [applicazione web](https://toutapp.com/login).
 
-1. Selezionare **Email Entire Group** per inviare l&#39;e-mail del gruppo.
+1. Seleziona **Invia a tutto il gruppo e-mail** per inviare questa e-mail di gruppo.

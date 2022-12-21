@@ -25,7 +25,7 @@ Le opzioni File e contenuto sono disponibili in: e-mail una tantum, modelli, cam
 
 ## Chi gestisce il contenuto e dove viene memorizzato? {#who-manages-the-content-and-where-is-it-stored}
 
-Il contenuto può essere caricato nell’archivio delle azioni Insight di vendita da qualsiasi utente con la possibilità di creare modelli. Ciò significa che gli utenti potranno caricare il contenuto a loro scelta.
+Il contenuto può essere caricato nell’archivio delle azioni Insight di vendita da qualsiasi utente con la possibilità di creare modelli. Ciò significa che gli utenti potranno caricare il contenuto desiderato.
 
 ## I contenuti, le playlist, i modelli, ecc. possono essere creati/organizzati dai team? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

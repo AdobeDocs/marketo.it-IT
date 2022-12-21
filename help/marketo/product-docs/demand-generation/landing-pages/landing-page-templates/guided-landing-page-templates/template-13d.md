@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 13D {#template-13d}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 

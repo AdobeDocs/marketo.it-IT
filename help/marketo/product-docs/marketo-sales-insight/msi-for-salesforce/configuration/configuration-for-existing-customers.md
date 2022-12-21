@@ -22,11 +22,11 @@ Imposta la seguente configurazione per iniziare a utilizzare il nuovo dashboard 
 
 1. Apri una nuova scheda nel browser per ottenere le credenziali Marketo Sales Insights dal tuo account Marketo.
 
-1. Vai all&#39;area **Amministratore**.
+1. Vai a **Amministratore** area.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Fare clic su **Informazioni sulle vendite**.
+1. Fai clic su **Approfondimenti vendite**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
@@ -34,7 +34,7 @@ Imposta la seguente configurazione per iniziare a utilizzare il nuovo dashboard 
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Verrà visualizzato un pop-up di conferma. Fare clic su **OK**.
+1. Verrà visualizzato un pop-up di conferma. Fai clic su **OK**.
 
 ## Configurazione di Sales Insight in Salesforce {#configure-sales-insight-in-salesforce}
 
@@ -42,11 +42,11 @@ Imposta la seguente configurazione per iniziare a utilizzare il nuovo dashboard 
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Cerca e seleziona **Impostazioni sito remoto**.
+1. Cerca e seleziona **Impostazioni del sito remoto**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Fare clic su **Nuovo sito remoto**.
+1. Fai clic su **Nuovo sito remoto**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -54,7 +54,7 @@ Imposta la seguente configurazione per iniziare a utilizzare il nuovo dashboard 
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

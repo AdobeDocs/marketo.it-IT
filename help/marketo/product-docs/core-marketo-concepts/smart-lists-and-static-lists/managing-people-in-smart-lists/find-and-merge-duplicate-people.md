@@ -3,7 +3,6 @@ unique-page-id: 557339
 description: Trova e unisci persone duplicate - Documenti Marketo - Documentazione del prodotto
 title: Trova e unisci persone duplicate
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
@@ -17,15 +16,15 @@ Marketo deduplica automaticamente quando nuove persone accedono al sistema. Tutt
 
 >[!NOTE]
 >
->Marketo non eseguirà la deduplicazione automatica contro una sincronizzazione Salesforce o Microsoft Dynamics o quando si immettono manualmente le persone.
+>Marketo non eseguirà la deduplicazione automatica contro una sincronizzazione Salesforce o Microsoft Dynamics o quando immetti manualmente le persone.
 
 >[!PREREQUISITES]
 >
->La ricerca e l&#39;unione di duplicati richiederà l&#39;utilizzo di [elenchi smart incorporati / di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>La ricerca e l&#39;unione dei duplicati implicherà l&#39;utilizzo di [elenchi smart integrati/di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Trova duplicati {#find-duplicates}
 
-1. Passa all&#39;area **Database**.
+1. Vai a **Database** area.
 
    ![](assets/db.png)
 
@@ -33,19 +32,19 @@ Marketo deduplica automaticamente quando nuove persone accedono al sistema. Tutt
    >
    >L’unione delle persone in Marketo potrebbe non funzionare se utilizzi un account personale Salesforce. Unisci i record in Salesforce, se possibile.
 
-1. Seleziona l&#39;elenco smart di sistema **Duplicati possibili** e fai clic sulla scheda **Persone** .
+1. Seleziona la **Possibili duplicati** elenco smart di sistema e fai clic su **Persone** scheda .
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Puoi anche [trovare persone duplicate con logica personalizzata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >È inoltre possibile [Trova persone duplicate con logica personalizzata](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
 ## Unisci manualmente le persone {#merge-people-manually}
 
 >[!CAUTION]
 >
->Durante l&#39;unione delle persone, se la persona perdente ha un oggetto personalizzato Marketo, **non** verrà riassociata alla persona vincente. Prima di eseguire l&#39;unione, rieseguire l&#39;oggetto personalizzato.
+>Durante l&#39;unione delle persone, se la persona perdente ha un oggetto personalizzato Marketo, **not** viene ri-associato alla persona vincente. Prima di eseguire l&#39;unione, rieseguire l&#39;oggetto personalizzato.
 
 1. Seleziona i duplicati tenendo premuto Ctrl/Comando e facendo clic su , quindi fai clic su **Unisci persone**.
 
@@ -55,7 +54,7 @@ Marketo deduplica automaticamente quando nuove persone accedono al sistema. Tutt
    >
    >Potresti avere due o più duplicati per la stessa persona - selezionali tutti contemporaneamente.
 
-1. Vedrai i valori tra i record che _non_ corrispondono. Selezionare il valore da mantenere per ogni campo. Al termine, fai clic su **Unisci**. Se non desideri entrambi i valori, puoi selezionare **Personalizzato** e immettere un valore desiderato.
+1. Vedrai i valori tra i record che _non_ corrispondenza. Selezionare il valore da mantenere per ogni campo. Fai clic su **Unisci** al termine. Se non desideri entrambi i valori, puoi controllare **Personalizzato** e immetti un valore desiderato.
 
    ![](assets/four.png)
 

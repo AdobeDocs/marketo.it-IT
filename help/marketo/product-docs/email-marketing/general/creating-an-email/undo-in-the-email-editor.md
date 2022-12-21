@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900567
-description: Annulla nell'Editor e-mail - Documenti Marketo - Documentazione prodotto
+description: Annulla nell’editor e-mail - Documenti Marketo - Documentazione del prodotto
 title: Annulla nell’editor e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
+# Annulla nell’editor e-mail {#undo-in-the-email-editor}
 
-# Annulla nell&#39;editor e-mail {#undo-in-the-email-editor}
-
-1. Per annullare una modifica, fare clic sulla freccia sinistra.
+1. Per annullare una modifica, fare clic sulla freccia Sinistra.
 
 ![](assets/one-2.png)
 
@@ -21,12 +20,12 @@ ht-degree: 0%
 >
 >Annulla può tornare a 50 modifiche.
 
-1. Per ripristinare una modifica, fare clic sulla freccia destra.
+1. Per ripristinare una modifica, fai clic sulla freccia Destra.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Non è possibile annullare l’operazione durante la modifica del testo. Al termine, è possibile annullare tutte le modifiche dalla prima modifica al salvataggio.
+   >Non è possibile annullare la modifica durante la modifica del testo. Al termine, puoi annullare tutte le modifiche dalla prima modifica al salvataggio.
 
-   Bello! Ora puoi annullare e ripristinare come un professionista.
+   Bello! Ora è possibile annullare e ripristinare come un professionista.

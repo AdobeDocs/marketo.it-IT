@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359787
-description: Aggiungere un flusso - Documenti Marketo - Documentazione prodotto
+description: Aggiungere un flusso - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere un flusso
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-
 # Aggiungere un flusso {#add-a-stream}
 
-I programmi di coinvolgimento possono contenere più di un flusso. Ecco come aggiungerne una nuova.
+I programmi di coinvolgimento possono contenere più di un flusso. Ecco come aggiungerne uno nuovo.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selezionate il programma di coinvolgimento e fate clic sulla scheda **Streams**.
+1. Seleziona il programma di coinvolgimento e fai clic sul pulsante **Flussi** scheda .
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Fare clic su **Aggiungi flusso**.
+1. Fai clic su **Aggiungi flusso**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 

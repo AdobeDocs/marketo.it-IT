@@ -3,7 +3,6 @@ unique-page-id: 1147140
 description: Informazioni sulle date provvisorie/confermate - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle date provvisorie/confermate
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
@@ -13,11 +12,11 @@ ht-degree: 0%
 
 # Informazioni sulle date provvisorie/confermate {#understanding-tentative-confirmed-dates}
 
-Le campagne e i programmi e-mail intelligenti hanno una potente funzionalità da contrassegnare come **Tentative** o **Confermato**. Ecco come funzionano.
+Le campagne e i programmi e-mail intelligenti dispongono di una potente funzionalità da contrassegnare come **Provvisorio** o **Confermato**. Ecco come funzionano.
 
 ## Provvisorio {#tentative}
 
-Le date provvisorie trasmettono l&#39;intento. Considera questo come _apposizione della matita_ qualcosa nel calendario. Le voci provvisorie non verranno eseguite, ma solo segnaposto.
+Le date provvisorie trasmettono l&#39;intento. Pensate a questo come _matita_ qualcosa nel calendario. Le voci provvisorie non verranno eseguite, ma solo segnaposto.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -45,9 +44,9 @@ Le voci confermate verranno sicuramente eseguite. Hanno regole, risorse approvat
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Completato {#finished}
+## Completato  {#finished}
 
-Le voci completate sono già in esecuzione. Possono essere solo nel passato (ovviamente). Una volta eseguita una voce ed è **Finished**, non è possibile spostarla o renderla provvisoria. (Nessun cambiamento della realtà e interruzione del continuum del flusso temporale).
+Le voci completate sono già in esecuzione. Possono essere solo nel passato (ovviamente). Una volta eseguita e **Completato** Non puoi muoverlo o renderlo provvisorio. (Nessun cambiamento della realtà e interruzione del continuum del flusso temporale).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

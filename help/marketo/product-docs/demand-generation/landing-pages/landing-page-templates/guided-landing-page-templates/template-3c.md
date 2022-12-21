@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 3C {#template-3c}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 

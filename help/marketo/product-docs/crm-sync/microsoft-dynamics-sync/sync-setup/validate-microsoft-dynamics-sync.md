@@ -1,9 +1,8 @@
 ---
 unique-page-id: 8783322
-description: Convalida di Microsoft Dynamics Sync - Documentazione di Marketo - Documentazione del prodotto
+description: Convalida Microsoft Dynamics Sync - Documentazione Marketo - Documentazione del prodotto
 title: Convalida della sincronizzazione di Microsoft Dynamics
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '266'
@@ -21,31 +20,31 @@ ht-degree: 0%
 
 È molto importante eseguire lo strumento Convalida sincronizzazione per verificare che Microsoft Dynamics Sync con Marketo sia configurato correttamente prima di stabilire la connessione finale tra di essi. Il processo genera una lista di controllo di sette passaggi di configurazione che individuano dove esistono problemi. Verificare che siano stati eseguiti correttamente può risparmiare molto tempo in seguito.
 
-1. Fare clic sulla scheda **Amministratore**, quindi sul collegamento **Microsoft Dynamics** nell&#39;area Integrazione.
+1. Fai clic sul pulsante **Amministratore** e quindi la **Microsoft Dynamics** nell&#39;area Integrazione.
 
    ![](assets/image2015-9-28-16-3a7-3a51.png)
 
-1. Selezionare **Microsoft**.
+1. Seleziona **Microsoft**.
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 
-1. Fare clic sulla scheda **Convalida impostazione sincronizzazione**.
+1. Fai clic sul pulsante **Convalida configurazione sincronizzazione** scheda .
 
    ![](assets/image2015-9-28-16-3a11-3a45.png)
 
-1. Immetti il nome utente, la password e l’URL (l’ID client e il segreto client sono facoltativi). Al termine, fai clic su **Avanti**.
+1. Immetti il nome utente, la password e l’URL (l’ID client e il segreto client sono facoltativi). Fai clic su **Successivo** al termine.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Se hai sincronizzato in precedenza, **CRM** nella struttura a sinistra leggerà **Microsoft Dynamics** e i dati nel modulo sopra potrebbero essere precompilati.
+   >Se hai sincronizzato in precedenza, **CRM** nell&#39;albero di sinistra leggerà **Microsoft Dynamics**, e i dati nel modulo precedente possono essere precompilati.
 
-1. Se tutto va bene, la funzione Convalida sincronizzazione genera una lista di controllo piena di segni di spunta verdi ![—](assets/check.png).
+1. Se tutto va bene, Convalida sincronizzazione genera una lista di controllo piena di segni di spunta verdi ![—](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Se vedi un ![—](assets/delete.png), allora quel passaggio ha un problema. Per identificare e risolvere il problema, consulta [Correggere i problemi di sincronizzazione della convalida di Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) . Quindi esegui nuovamente i passaggi di convalida della sincronizzazione fino a ottenere un risultato simile all&#39;immagine precedente.
+1. Se vedi un ![—](assets/delete.png)Poi quel passaggio ha un problema. Vedi [Correggere i problemi di sincronizzazione della convalida di Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) per identificare e risolvere il problema. Quindi esegui nuovamente i passaggi di convalida della sincronizzazione fino a ottenere un risultato simile all&#39;immagine precedente.
 
    >[!CAUTION]
    >

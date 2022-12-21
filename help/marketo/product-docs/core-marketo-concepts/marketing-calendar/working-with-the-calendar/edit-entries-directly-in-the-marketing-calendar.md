@@ -3,7 +3,6 @@ unique-page-id: 2953352
 description: Modificare Le Voci Direttamente Nel Calendario Di Marketing - Marketo Docs - Documentazione Del Prodotto
 title: Modificare le voci direttamente nel calendario di marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Modifica Le Voci Direttamente Nel Calendario Di Marketing {#edit-entries-directly-in-the-marketing-calendar}
+# Modificare le voci direttamente nel calendario di marketing {#edit-entries-directly-in-the-marketing-calendar}
 
 Una volta in modalità di attivazione del programma, è possibile apportare rapidamente modifiche alle voci del calendario. Ecco come.
 
-## Attiva il focus del programma {#enable-program-focus}
+## Attiva focus programma {#enable-program-focus}
 
-1. Vai al **Calendario**.
+1. Vai a **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selezionare una voce che appartiene al programma su cui si desidera mettere a fuoco e fare clic su **Mostra focus programma**.
+1. Selezionare una voce che appartiene al programma su cui si desidera concentrarsi e fare clic su **Mostra focus programma**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 

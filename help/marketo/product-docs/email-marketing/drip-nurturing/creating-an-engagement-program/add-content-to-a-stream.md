@@ -18,7 +18,7 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere dei contenuti a
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Seleziona il programma di coinvolgimento e vai alla scheda **Streams** .
+1. Seleziona il tuo programma di coinvolgimento e vai al **Flussi** scheda .
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -26,11 +26,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere dei contenuti a
 
 **Pulsante Aggiungi contenuto**
 
-1. Fai clic sul pulsante **Aggiungi contenuto** .
+1. Fai clic sul pulsante **Aggiungi contenuto** pulsante .
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Scegli **E-mail** _o_ **Programma**, quindi seleziona l&#39;e-mail o il programma/campagna intelligente che desideri aggiungere.
+1. Scegli **E-mail** _o_ **Programma**, quindi seleziona l’e-mail o il programma/campagna intelligente da aggiungere.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -40,13 +40,13 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere dei contenuti a
 
 **Icona +**
 
-1. Fai clic sull&#39;icona **+**, scegli **E-mail** _o_ **Programma**, quindi seleziona l&#39;e-mail o il programma/campagna intelligente che desideri aggiungere.
+1. Fai clic sul pulsante **+** icona, scegli **E-mail** _o_ **Programma**, quindi seleziona l’e-mail o il programma/campagna intelligente da aggiungere.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Per il corretto funzionamento di una campagna intelligente deve contenere il filtro **Membro del programma di coinvolgimento** .
+   >Una campagna intelligente deve contenere **Membro del programma di coinvolgimento** filtrarlo per il corretto funzionamento.
 
 Ottimo lavoro! Ora sai come aggiungere contenuti ai flussi di programmi. Aggiungi tutto il necessario per la tua nutrizione. Per ulteriori informazioni, consulta il relativo articolo di seguito.
 

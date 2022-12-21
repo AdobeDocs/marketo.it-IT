@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Il registro attività è la fonte finale di verità. Questa è la storia completa del percorso di una persona in Marketo.
 
-1. Vai al **Database**.
+1. Vai a **Database**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
@@ -22,7 +22,7 @@ Il registro attività è la fonte finale di verità. Questa è la storia complet
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Fare clic sulla scheda **Persone**. Selezionare un numero di persona **Id**.
+1. Fai clic sul pulsante **Persone** scheda . Selezionare una persona **Id** numero.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
@@ -48,4 +48,4 @@ Devi esportare il registro attività di una persona in Excel?
 
    >[!MORELIKETHIS]
    >
-   >Ulteriori informazioni su [filtro del registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) per visualizzare attività specifiche di persone.
+   >Ulteriori informazioni [filtraggio del registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) per visualizzare attività specifiche relative alle persone.

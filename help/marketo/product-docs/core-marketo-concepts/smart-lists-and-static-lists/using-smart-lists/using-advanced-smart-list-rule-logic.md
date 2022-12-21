@@ -3,7 +3,6 @@ unique-page-id: 1146901
 description: Utilizzo della logica avanzata delle regole dell’elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo della logica avanzata delle regole dell’elenco avanzato
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
@@ -25,11 +24,11 @@ Puoi trovare le persone giuste applicando la logica della regola di elenco avanz
 >
 >La logica di filtro avanzata è disponibile solo se sono presenti tre o più filtri nell’elenco avanzato.
 
-## Aggiungi logica a un elenco avanzato {#add-logic-to-a-smart-list}
+## Aggiungere logica a un elenco avanzato {#add-logic-to-a-smart-list}
 
-Per impostazione predefinita, nell’elenco smart sono presenti le persone che corrispondono ai filtri **ALL** (filtri 1 _e_ 2 _e_ 3). È possibile modificare la logica delle regole per individuare le persone corrispondenti a **ANY** dei filtri definiti (filtri 1 _o_ 2 _o_ 3) o utilizzare filtri avanzati (filtri 1 _e_ 2 _o_ 3).
+Per impostazione predefinita, l’elenco smart individua le persone corrispondenti **TUTTO** filtri (filtri 1 _e_ 2 _e_ 3). Puoi modificare la logica delle regole per trovare le persone che corrispondono a **QUALSIASI** dei filtri definiti (filtri 1 _o_ 2 _o_ 3) o utilizzare filtri avanzati (filtri 1) _e_ 2 _o_ 3).
 
-In questo esempio, supponiamo che desideri trovare persone in California _e_ con un punteggio di almeno 50 punti _o_ con lo stato &quot;Qualificato per le vendite&quot;.
+In questo esempio, diciamo che volete trovare persone in California _e_ con un punteggio di almeno 50 punti _o_ con lo stato &quot;Vendite qualificate&quot;.
 
 1. Seleziona **Usa filtri avanzati** dal menu a discesa.
 
@@ -37,9 +36,9 @@ In questo esempio, supponiamo che desideri trovare persone in California _e_ con
 
    >[!NOTE]
    >
-   >L’utilizzo di filtri **Avanzate** riduce la necessità di creare elenchi avanzati con il filtro Membro di Smart List. Questo consente di ottimizzare le prestazioni.
+   >Utilizzo **Avanzate** i filtri riducono la necessità di creare elenchi avanzati con il filtro Membro di Smart List. Questo consente di ottimizzare le prestazioni.
 
-1. La casella di testo **Filtri avanzati** visualizza &quot;e&quot; come valore predefinito tra tutti i filtri.
+1. La **Filtri avanzati** la casella di testo visualizzerà &quot;e&quot; come valore predefinito tra tutti i filtri.
 
    ![](assets/two-2.png)
 
@@ -55,13 +54,13 @@ In questo esempio, supponiamo che desideri trovare persone in California _e_ con
 
    ![](assets/four-1.png)
 
-## Usa le parentesi quando mischi &quot;And&quot; e &quot;Or {#use-parentheses-when-mixing-and-and-or}
+## Usa le parentesi quando mischi &quot;And&quot; e &quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
 
 La combinazione di logica &quot;e&quot; e &quot;o&quot; richiede parentesi per chiarire la tua intenzione.
 
 ![](assets/advancedfilters-parent.png)
 
-## Usa parentesi nidificate per quattro o più filtri se necessario {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Usa parentesi nidificate per quattro o più filtri, se necessario {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 A seconda delle tue intenzioni, potresti dover aggiungere parentesi nidificate quando utilizzi quattro o più filtri.
 

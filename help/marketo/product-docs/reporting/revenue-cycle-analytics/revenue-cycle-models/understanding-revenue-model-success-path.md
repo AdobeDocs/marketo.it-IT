@@ -2,50 +2,49 @@
 unique-page-id: 4718664
 description: Comprendere il percorso di successo del modello di ricavi - Documenti Marketo - Documentazione del prodotto
 title: Comprendere il percorso di successo del modello di ricavi
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Comprendere il percorso di successo del modello di ricavi {#understanding-revenue-model-success-path}
 
 ## Percorso di successo {#success-path}
 
-Nel modello, il percorso verde noto come **Percorso di successo** rappresenta il percorso ottimale per il passaggio lineare di un lead a un&#39;attività chiusa/aziendale chiusa.
+Nel modello, il percorso verde, noto come **Percorso di successo** è il percorso ottimale per la transizione lineare di un lead a un business chiuso/won.
 
-![—](assets/image2015-6-12-17-3a12-3a18.png)
+![--](assets/image2015-6-12-17-3a12-3a18.png)
 
-Esempi di fasi su un percorso di successo:
+Esempi di fasi in un percorso di successo:
 
-| **NOME STAGE PERCORSO DI SUCCESSO** | **DEFINIZIONE** |
+| **NOME DELLO STATO DEL PERCORSO DI SUCCESSO** | **DEFINIZIONE** |
 |---|---|
-| **Rivedi nuovi nomi** | Verifica se i nuovi nomi sono qualificati |
+| **Rivedi nuovi nomi** | Controlla se i nuovi nomi sono qualificati |
 | **Prospettiva** | Prospetti qualificati che non sono ancora pronti per le vendite |
 | **Lead** | Lead qualificati per il marketing (&quot;pronti per le vendite&quot;) |
-| **Opportunità** | Lead accettati per le vendite, lavorare attivamente |
-| **Cliente** | Offerte vinte chiuse |
+| **Opportunità** | Lead accettati dalle vendite, che lavorano attivamente |
+| **Cliente** | Offerte chiuse |
 
 >[!TIP]
 >
->Il verde è per i soldi. Tutto sulla via del verde è sulla via del successo! Per questo motivo esistono solo frecce verdi in [Success Path Analyzer](using-the-success-path-analyzer.md).
+>Il verde è per i soldi. Tutto sulla via del verde è sulla strada del successo! Ecco perché ci sono solo frecce verdi nel [Analisi del percorso di successo](using-the-success-path-analyzer.md).
 
-## Detection {#detours}
+## Detours {#detours}
 
-Riconoscendo che non tutti i lead seguono un &quot;percorso di successo&quot; lineare, è necessario definire anche le &quot;fasi di deviazione&quot; per catturare i lead che non sono qualificati, o che richiedono alcuni cicli di cura prima di essere pronti. Ad esempio:
+Riconoscendo che non tutti i lead seguono un &quot;percorso di successo&quot; lineare, è necessario definire anche le &quot;fasi di deviazione&quot; per catturare i lead che non sono qualificati, o che richiedono alcuni cicli di nutrizione prima di essere pronti. Ad esempio:
 
-| **NOME STATO DI DETOUR** | **DEFINIZIONE** |
+| **NOME DELLO STATO DI DETOUR** | **DEFINIZIONE** |
 |---|---|
-| **Non Qualificato** | Nomi contrassegnati come profilo non incluso |
-| **Inattivo** | Prospettive non reattive |
-| **Riciclato** | Qualificati ma che richiedono maggiore cura (collegati alla Prospettiva) |
-| **Perso** | Perdite di opportunità (formazione continua) |
+| **Non qualificato** | Nomi contrassegnati come profilo non in |
+| **Non attivo** | Prospettive non reattive |
+| **Riciclato** | Qualificato ma con più bisogno di nutrimento (collegato alla prospettiva) |
+| **Perso** | Opportunità perdute (sviluppo continuo) |
 
 >[!TIP]
 >
->Questi non sono sul sentiero verde. Questi passaggi non verranno visualizzati nell&#39;analizzatore percorso di successo.
+>Questi non sono sul sentiero verde. Queste fasi non verranno visualizzate in Analisi del percorso di successo.
 
-Vedere come i lead fluiranno in futuro sarà molto più facile! Saluta il tuo nuovo piccolo amico.
+Vedere come fluiranno i lead in futuro sarà molto più semplice! Salutate il vostro nuovo piccolo amico.

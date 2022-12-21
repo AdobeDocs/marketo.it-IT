@@ -3,7 +3,6 @@ unique-page-id: 1147102
 description: Creazione di una voce nella vista Pianificazione del programma - Marketo Docs - Documentazione del prodotto
 title: Creazione di una voce nella vista Pianificazione del programma
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 È possibile creare voci dall&#39;interno della visualizzazione di programmazione del programma per completare un programma esistente.
 
-## Creare una voce di base {#create-a-basic-entry}
+## Crea una voce di base {#create-a-basic-entry}
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il programma. Fai clic sul menu a discesa **Visualizza** . Selezionare **Pianificazione**.
+1. Selezionare il programma. Fai clic sul pulsante **Visualizza** a discesa. Seleziona **Pianificazione**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Denomina la voce. Premere **Invio** per confermare il nome.
+1. Denomina la voce. Press **Invio** per confermare il nome.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -51,15 +50,15 @@ ht-degree: 0%
 
 ## Cambia tipo di voce {#change-entry-type}
 
-1. Selezionare una voce di base dalla vista **Agenda**.
+1. Seleziona una voce di base dal **Agenda** visualizza.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Seleziona il menu a discesa **Tipo** . Scegliere un nuovo tipo di voce.
+1. Seleziona la **Tipo** a discesa. Scegliere un nuovo tipo di voce.
 
    >[!NOTE]
    >
-   >To-do è una voce [personalizzata](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Puoi creare un To-do e altre voci personalizzate per tenere traccia degli elementi dell’agenda non Marketo.
+   >Da fare è un [voce personalizzata](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Puoi creare un To-do e altre voci personalizzate per tenere traccia degli elementi dell’agenda non Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +68,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Puoi anche creare un [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o un [programma e-mail](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) dalla vista della pianificazione.
+> Puoi anche creare un [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o [programma di posta elettronica](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) dalla vista Pianificazione.

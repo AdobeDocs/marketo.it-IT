@@ -1,72 +1,71 @@
 ---
 unique-page-id: 12979008
-description: Performance Insights Contribution Overview - Marketo Docs - Documentazione prodotto
+description: Panoramica del contributo di Performance Insights - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del contributo di Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-
 # Panoramica del contributo di Performance Insights {#performance-insights-contribution-overview}
 
-In Approfondimenti delle prestazioni marketing, la visualizzazione Contributo è visualizzata per impostazione predefinita.
+In Marketo Performance Insights, la visualizzazione Contribution viene visualizzata per impostazione predefinita.
 
 ![](assets/one-1.png)
 
-Selezionare la metrica per la quale si desidera visualizzare le prestazioni. In questo esempio vedremo le opportunità vinte tramite Multi-Touch nella dashboard Entrate.
+Seleziona la metrica in base alla quale desideri visualizzare le prestazioni. In questo esempio esamineremo le opportunità vinte tramite Multi-Touch nel dashboard Entrate.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Informazioni su [First-Touch and Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Scopri [Primo contatto e multi-touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Scegliere il periodo per il quale visualizzare le metriche. In questo esempio stiamo osservando l&#39;anno corrente (anno-to-date).
+Scegli il periodo per il quale visualizzare le metriche. In questo esempio osserviamo l’anno corrente (anno-to-date).
 
 ![](assets/3-1.png)
 
 >[!NOTE]
 >
->Abbiamo temporaneamente rimosso la selezione &quot;Anno precedente&quot;. È comunque possibile visualizzare i dati delle prestazioni dell&#39;anno precedente utilizzando la selezione Intervallo personalizzato.
+>Abbiamo temporaneamente rimosso la selezione &quot;Anno precedente&quot;. Puoi comunque visualizzare i dati delle prestazioni dell’anno precedente per intero, utilizzando la selezione Intervallo personalizzato.
 
 Le metriche sono presentate tramite due grafici: ciambella e barra.
 
 ![](assets/four.png)
 
-Il grafico ad anello mostra i primi dieci canali per la metrica selezionata.
+Il grafico ad anello mostra i dieci canali principali per la metrica selezionata.
 
 ![](assets/5-1.png)
 
-Il grafico a barre mostra le prestazioni del programma su tutti i canali (dieci programmi alla volta) per la metrica selezionata. Per visualizzare di più, fate clic sulla freccia a destra per scorrere fino al gruppo successivo.
+Il grafico a barre mostra le prestazioni del programma in tutti i canali (dieci programmi alla volta) per la metrica selezionata. Per visualizzare di più, fai clic sulla freccia a destra per scorrere fino al gruppo successivo.
 
 ![](assets/six.png)
 
 >[!TIP]
 >
->Se desiderate che le barre del grafico vengano ridimensionate durante lo scorrimento dei gruppi, selezionate la casella di controllo **Scala Y per adattare**.
+>Se desideri che le barre del grafico si ridimensionino durante lo scorrimento tra i gruppi, seleziona la **Adatta l&#39;asse Y** casella di controllo.
 
-Passate il puntatore del mouse su una barra per visualizzare ulteriori dettagli.
+Passa il puntatore del mouse su una barra per visualizzare ulteriori dettagli.
 
 ![](assets/seven.png)
 
-Selezionate uno o più canali nel grafico ad anello e tutti i programmi associati a tali canali sono visualizzati nel grafico a barre a destra. Fate di nuovo clic sui canali per deselezionare.
+Selezionare uno o più canali nel grafico ad anello e tutti i programmi associati a tali canali vengono visualizzati nel grafico a barre a destra. Fai nuovamente clic sui canali per deselezionare.
 
 ![](assets/eight.png)
 
-La griglia di dati sottostante funziona come un foglio di calcolo, che mostra tutte le metriche disponibili nel modello di attribuzione scelto (First-Touch/Multi-Touch). La colonna contenente la metrica scelta viene evidenziata.
+La griglia di dati sottostante funziona come un foglio di calcolo, mostrando tutte le metriche disponibili nel modello di attribuzione scelto (First-Touch/Multi-Touch). Viene evidenziata la colonna contenente la metrica scelta.
 
 ![](assets/9.png)
 
-| **Opportunità conquistate** | La parte di credito (in valore numerico) ricevuta dal programma per influenzare l&#39;opportunità ottenuta |
+| **Opportunità conquistate** | La parte di credito (in valore numerico) ricevuta dal programma per influenzare l&#39;opportunità di acquisto |
 |---|---|
-| **Entrate** | La quota di credito (in valore monetario) ricevuta dal programma per influenzare l&#39;opportunità di vincita |
+| **Entrate vinte** | La parte di credito (in valore monetario) ricevuta dal programma per influenzare l&#39;opportunità |
 | **Costo** | Costo totale del programma |
-| **Costo per opportunità** | Rapporto tra il costo del programma e la quota di credito (in valore numerico) ricevuta dal programma per influenzare la creazione di nuove opportunità |
-| **Rapporto tra ricavi e costi** | Il rapporto tra la quota di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità acquisite e il costo del programma |
+| **Costo per opportunità** | Il rapporto tra il costo del programma e la parte di credito (in valore numerico) ricevuta dal programma per influenzare la creazione di nuove opportunità |
+| **Rapporto Ricavo-Costo** | Il rapporto tra la parte di credito (in valore monetario) ricevuta dal programma per influenzare le proprie opportunità e il costo del programma |
 
 Espandi un canale per visualizzare i primi dieci programmi, combinando i restanti programmi.
 
@@ -74,4 +73,4 @@ Espandi un canale per visualizzare i primi dieci programmi, combinando i restant
 
 >[!NOTE]
 >
->Facendo clic sulla casella di controllo accanto a un canale, questo viene attivato o disattivato nel grafico ad anello precedente.
+>Facendo clic sulla casella di controllo accanto a un canale, questo viene attivato/disattivato nel grafico a ciambelle sopra riportato.

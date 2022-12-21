@@ -2,14 +2,13 @@
 unique-page-id: 14746470
 description: Impostazione di un canale di consegna personalizzato - Documenti Marketo - Documentazione del prodotto
 title: Impostazione di un canale di consegna personalizzato
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
-
 
 # Impostazione di un canale di consegna personalizzato {#setting-up-a-custom-delivery-channel}
 
@@ -19,14 +18,14 @@ Gli utenti possono impostare un server SMTP personalizzato per il proprio utiliz
 
 >[!NOTE]
 >
->* Oltre a configurare il server SMTP, prima di poter inviare le e-mail è necessario verificare l’identità e-mail [prima di poter inviare le e-mail.](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Oltre a configurare il server SMTP, [l’identità e-mail deve essere verificata](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) prima di poter inviare e-mail.
 >* È consigliabile collaborare con il team IT o il fornitore del server SMTP per ottenere le credenziali corrette per il server SMTP.
 >* Non è possibile collegare il server Gmail ed Exchange utilizzando le credenziali del server SMTP. Utilizza il nostro servizio di connessione e-mail per integrarsi con questi provider.
 
 
 ## SMTP personalizzato {#custom-smtp}
 
-1. Accedi all&#39; [applicazione web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
+1. Accedi a [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
@@ -46,11 +45,11 @@ Gli utenti possono impostare un server SMTP personalizzato per il proprio utiliz
    >
    >Se questo è il tuo unico canale di consegna, viene automaticamente assegnato a tutte le tue identità e-mail, e hai finito qui. Se questo non è l&#39;unico canale di consegna, continua a seguire il passaggio 5.
 
-1. In Impostazioni e-mail, fare clic su **Indirizzo e firma**.
+1. Sempre in Impostazioni e-mail, fai clic su **Indirizzo e firma**.
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
-1. Trova l’identità e-mail per la quale vuoi scegliere un canale di consegna e fai clic su **Scegli canale di consegna**.
+1. Trova l’identità e-mail per la quale desideri scegliere un canale di consegna e fai clic su **Scegli il canale di consegna**.
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
@@ -58,7 +57,7 @@ Gli utenti possono impostare un server SMTP personalizzato per il proprio utiliz
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Fai clic sull’elenco a discesa Canale e scegli il canale di consegna personalizzato appena aggiunto. Fare clic su **Salva**.
+1. Fai clic sull’elenco a discesa Canale e scegli il canale di consegna personalizzato appena aggiunto. Fai clic su **Salva**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -72,7 +71,7 @@ Gli utenti possono impostare un server SMTP personalizzato per il proprio utiliz
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedi all&#39; [applicazione web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
+1. Accedi a [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -80,7 +79,7 @@ Gli utenti possono impostare un server SMTP personalizzato per il proprio utiliz
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Fai clic su **Canale di consegna del team**.
+1. Fai clic su **Canale di consegna team**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
@@ -95,7 +94,6 @@ Gli utenti possono impostare un server SMTP personalizzato per il proprio utiliz
    >[!MORELIKETHIS]
    >
    >* [Connessione e-mail per utenti Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-      >
-      >
-   * [Connessione e-mail per utenti di Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >
+   >* [Connessione e-mail per utenti di Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 

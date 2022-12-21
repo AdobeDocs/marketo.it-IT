@@ -3,7 +3,6 @@ unique-page-id: 2953348
 description: Creare voci direttamente nel calendario di marketing - Marketo Docs - Documentazione del prodotto
 title: Creare voci direttamente nel calendario di marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -22,11 +21,11 @@ Marketo consente di creare voci direttamente nel calendario di marketing utilizz
 
 Ecco come.
 
-1. Vai al **Calendario**.
+1. Vai a **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Selezionare una voce precedente e fare clic su **Mostra focus programma**.
+1. Seleziona una voce precedente e fai clic su **Mostra focus programma**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -40,7 +39,7 @@ Ecco come.
 
    >[!TIP]
    >
-   >È inoltre possibile creare **Campagne avanzate**, **Programmi e-mail** e **Voci di base** allo stesso modo.
+   >Puoi anche creare **Campagne intelligenti**, **Programmi e-mail** e **Voci di base** in questo modo.
 
 1. Al termine dell&#39;editing, chiudere la modalità di messa a fuoco del programma.
 

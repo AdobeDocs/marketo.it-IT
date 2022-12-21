@@ -5,7 +5,7 @@ title: Token dei campi personalizzati dei membri del programma
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Sul retro delle funzionalità Campi personalizzati dei membri del programma, è 
 
 I token PMCF saranno supportati nel dominio membro della famiglia di token.
 
-I token membri sono utilizzati per i campi che rientrano nell’ambito di partecipazione al programma. Allo stato attuale, i token degli Stati membri sono utilizzati anche per inserire valori univoci da partner di servizi integrati. `{{member.webinar url}}` il token risolve automaticamente l’URL di conferma univoco della persona generato dal provider di servizi. {{membro.registration code}} risolve il codice di registrazione fornito dal provider di servizi.
+I token membri sono utilizzati per i campi che rientrano nell’ambito di partecipazione al programma. Allo stato attuale, i token degli Stati membri sono utilizzati anche per inserire valori univoci da partner di servizi integrati. `{{member.webinar url}}` il token risolve automaticamente l’URL di conferma univoco della persona generato dal provider di servizi. {{member.registration code}} risolve il codice di registrazione fornito dal fornitore del servizio.
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Puoi inserire token di campi personalizzati dei membri del programma in e-mail, 
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Trova e seleziona il Token di campo personalizzato del membro del programma desiderato, inserisci un valore predefinito e fai clic su **Inserisci**.
+1. Trova e seleziona il token campo personalizzato del membro del programma desiderato, immetti un valore predefinito e fai clic su **Inserisci**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -79,7 +79,7 @@ Puoi inserire token di campi personalizzati dei membri del programma in e-mail, 
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -89,7 +89,7 @@ Puoi inserire token di campi personalizzati dei membri del programma in e-mail, 
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Fai clic sul pulsante **`{{ Token`** .
+1. Fai clic sul pulsante **`{{ Token`** pulsante .
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,7 +97,7 @@ Puoi inserire token di campi personalizzati dei membri del programma in e-mail, 
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Fai clic sull’elenco a discesa Azioni SMS e seleziona **Approva e chiudi**.
+1. Fai clic sul menu a discesa Azioni SMS e seleziona **Approva e chiudi**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -111,7 +111,7 @@ Puoi inserire token di campi personalizzati dei membri del programma in e-mail, 
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Fai clic sul messaggio nell’editor e fai clic sul pulsante `{{` per ottenere il selettore dei token.
+1. Fai clic sul messaggio nell’editor e fai clic sul `{{` per ottenere il selettore token.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
@@ -119,7 +119,7 @@ Puoi inserire token di campi personalizzati dei membri del programma in e-mail, 
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Fare clic su **Fine** per salvare e uscire (oppure su **Avanti** per eseguire prima la revisione).
+1. Fai clic su **Fine** per salvare e chiudere (oppure **Successivo** prima di tutto).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

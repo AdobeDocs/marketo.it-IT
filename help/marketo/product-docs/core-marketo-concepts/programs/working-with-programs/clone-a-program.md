@@ -3,7 +3,6 @@ unique-page-id: 1147110
 description: Clona un programma - Documentazione di Marketo - Documentazione del prodotto
 title: Clona un programma
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
@@ -17,9 +16,9 @@ Duplica in modo rapido e semplice un intero programma e tutte le relative risors
 
 >[!PREREQUISITES]
 >
->Prima di iniziare, scopri le [best practice per evitare la corruzione nelle risorse clonate](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
+>Prima di immergerti, scopri [best practice per evitare la corruzione nelle risorse clonate](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
 
-1. Trova e seleziona il programma da clonare, quindi in **Azioni programma** fai clic su **Clona**.
+1. Trova e seleziona il programma da clonare, quindi in **Azioni del programma** click **Clona**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -27,7 +26,7 @@ Duplica in modo rapido e semplice un intero programma e tutte le relative risors
 
    >[!NOTE]
    >
-   >I programmi possono essere clonati in [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicurati di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l’area di lavoro di destinazione prima della duplicazione.
+   >I programmi possono essere clonati in [campagna](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicurati di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l’area di lavoro di destinazione prima della duplicazione.
 
    ![](assets/cloneto.png)
 

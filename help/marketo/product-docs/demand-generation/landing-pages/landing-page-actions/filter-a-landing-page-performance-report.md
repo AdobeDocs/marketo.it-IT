@@ -1,44 +1,43 @@
 ---
 unique-page-id: 2359742
-description: Filtrare un report sulle prestazioni della pagina di destinazione - Marketo Docs - Documentazione del prodotto
-title: Filtrare un report sulle prestazioni della pagina di destinazione
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Filtrare un rapporto sulle prestazioni di una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
+title: Filtrare un rapporto sulle prestazioni di una pagina di destinazione
+exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
+# Filtrare un rapporto sulle prestazioni di una pagina di destinazione {#filter-a-landing-page-performance-report}
 
-# Filtrare un report sulle prestazioni della pagina di destinazione {#filter-a-landing-page-performance-report}
+Mettere a fuoco [rapporto sulle prestazioni della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) su pagine di destinazione nei programmi (risorse locali), in quelli in Design Studio (risorse globali) o in quelli archiviati.
 
-Concentrare il report sulle prestazioni della [pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) sulle pagine di destinazione dei programmi (risorse locali), su quelle in Design Studio (risorse globali) o su quelle archiviate.
-
-1. Andate a **Analytics** (o **Marketing Activities**).
+1. Vai a **Analytics** o **Attività di marketing**).
 
    ![](assets/analyticstile.png)
 
-1. Selezionate il rapporto sulla pagina di destinazione dalla struttura di navigazione.
+1. Seleziona il rapporto della pagina di destinazione dalla struttura di navigazione.
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Fare clic sulla scheda **Setup** e trascinare in un filtro.
+1. Fai clic sul pulsante **Configurazione** e trascina un filtro.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Pagine di destinazione di Design Studio:risorse** globali gestite in Design Studio.
-   * **Pagine di destinazione Attività di marketing:risorse** locali nei programmi nella scheda Attività di marketing.
-   * **Pagine di destinazione archiviate:pagine di destinazione** non attive e ritirate.
+   * **Pagine di destinazione di Design Studio:** Risorse globali gestite in Design Studio.
+   * **Pagine di destinazione delle attività di marketing:** Risorse locali nei programmi nella scheda Marketing Activities (Attività di marketing).
+   * **Pagine di destinazione archiviate:** Pagine di destinazione inattive e in pensione.
 
-1. Scegliete le cartelle e le pagine di destinazione specifiche da includere nel rapporto.
+1. Scegli le cartelle e le pagine di destinazione specifiche da includere nel rapporto.
 
    ![](assets/image2014-9-18-15-3a46-3a47.png)
 
    >[!TIP]
    >
-   >Se selezionate una cartella, il rapporto includerà tutto ciò che contiene al momento dell&#39;esecuzione del rapporto.
+   >Se selezioni una cartella, il rapporto includerà tutto ciò che contiene al momento dell’esecuzione del rapporto.
 
-1. Hai finito! Fare clic sulla scheda **Report** per visualizzare il rapporto filtrato.
+1. Hai finito! Fai clic sul pulsante **Rapporto** per visualizzare il rapporto filtrato.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

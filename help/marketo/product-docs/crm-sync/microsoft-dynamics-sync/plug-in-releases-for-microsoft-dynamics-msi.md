@@ -6,7 +6,7 @@ exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -63,52 +63,52 @@ Ed è tutto! Dopo l&#39;aggiornamento verrà visualizzata una sola soluzione MSI
    <th colspan="1">Note</th> 
   </tr> 
   <tr> 
-   <td colspan="1">03/02/22</td> 
+   <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
    <td colspan="1">Layout dell'account per informazioni approfondite: Momenti interessanti, modifiche al punteggio, attività web, attività e-mail</td> 
   </tr>
   <tr> 
-   <td colspan="1">05/01/22</td> 
+   <td colspan="1">01/05/22</td> 
    <td colspan="1">2.0.0.26</td> 
    <td colspan="1">Punteggio di adozione del programma per l’invio di e-mail</td> 
   </tr>
   <tr> 
-   <td colspan="1">28/10/21</td> 
+   <td colspan="1">10/28/21</td> 
    <td colspan="1">2.0.0.25</td> 
    <td colspan="1">Metriche punteggio di adozione del prodotto, nuovo dashboard globale (attività web, e-mail, elementi migliori)</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/02/21</td> 
+   <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
    <td colspan="1">Rimuovere il controllo automatico abilitato e le modifiche alla documentazione sulla soluzione MSI</td> 
   </tr>
   <tr> 
-   <td colspan="1">01/10/20</td> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Correzione bug: Assegnazione dell'accesso ai campi di configurazione dell'API MSI per gli utenti con il ruolo Insight vendite</td> 
   </tr> 
   <tr> 
-   <td colspan="1">20/07/20</td> 
+   <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Correzione bug: Aggiungere un messaggio di convalida per i record non sincronizzati</td> 
   </tr> 
   <tr> 
-   <td colspan="1">12/06/20</td> 
+   <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
    <td colspan="1">Correzione bug: Per nascondere la password segreta MSI nella configurazione API MSD</td> 
   </tr> 
   <tr> 
-   <td colspan="1">26/05/20</td> 
+   <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1">Correzione bug: Per modificare la convalida ID ruolo MSI per la visualizzazione dei pulsanti MSI</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21/05/20</td> 
+   <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1">Correzione bug: Mostra campo proprietario e rende i campi non obbligatori</td> 
   </tr> 
   <tr> 
-   <td colspan="1">28/04/20</td> 
+   <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1">Correzione bug: Rimozione della dipendenza dal collegamento di impostazione del sito CRM MSD in corso</td> 
   </tr> 

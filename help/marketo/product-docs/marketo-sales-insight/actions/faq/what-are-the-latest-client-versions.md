@@ -25,15 +25,15 @@ Di seguito sono riportate le versioni più recenti per tutti i client di Sales I
   </tr> 
   <tr> 
    <td><strong>Windows di Outlook</strong></td> 
-   <td>2.1.3.</td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
    <td><strong>Mac di Outlook</strong></td> 
-   <td>2.1.3.</td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook 365</strong></td> 
-   <td>2.1.3.</td> 
+   <td>2.1.3</td> 
   </tr> 
  </tbody> 
 </table>

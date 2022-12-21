@@ -3,7 +3,6 @@ unique-page-id: 4719312
 description: Aggiungere/rimuovere i valori delle liste di prelievo - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi/rimuovi valori dell’elenco a discesa
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
@@ -11,19 +10,19 @@ ht-degree: 0%
 
 ---
 
-# Aggiungi/rimuovi valori dell&#39;elenco puntato {#add-remove-picklist-values}
+# Aggiungi/rimuovi valori dell’elenco a discesa {#add-remove-picklist-values}
 
 Di seguito sono riportate alcune informazioni sull’aggiunta e la rimozione dei valori della lista di selezione in Salesforce.
 
-## Aggiunta di valori della lista di foto {#adding-picklist-values}
+## Aggiunta di valori della lista rapida {#adding-picklist-values}
 
-1. Se in Salesforce viene aggiunto un valore aggiuntivo a un tipo di campo elenco di selezione, riceverai una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) che identifica i moduli interessati.
+1. Se in Salesforce viene aggiunto un valore aggiuntivo a un tipo di campo elenco di selezione, riceverai un [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificazione dei moduli interessati.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Vai all’editor dei moduli e [aggiungi il valore aggiuntivo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) all’elenco dei suggerimenti.
+1. Passa all’editor di moduli e [aggiungi il valore aggiuntivo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) all&#39;elenco dei suggerimenti.
 
-## Rimuovi i valori dell&#39;elenco puntato {#remove-picklist-values}
+## Rimuovi i valori della lista rapida {#remove-picklist-values}
 
 Quando un valore della lista di selezione viene rimosso da un campo in Salesforce, sarà necessario rimuovere manualmente questo valore da tutti i moduli che ospitano questo campo.
 

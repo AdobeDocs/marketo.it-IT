@@ -1,32 +1,31 @@
 ---
 unique-page-id: 14352609
-description: Disattivazione di una campagna - Documenti Marketo - Documentazione prodotto
-title: Disattivazione di una campagna
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Disattivare una campagna - Documenti Marketo - Documentazione del prodotto
+title: Disattivare una campagna
+exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # Disattivare una campagna {#turn-off-a-campaign}
 
-Hai bisogno di terminare automaticamente una campagna quando un destinatario risponde? Ecco come.
+Devi terminare automaticamente una campagna quando un destinatario risponde? Ecco come.
 
 >[!NOTE]
 >
->Questo è disponibile solo per i clienti che sono integrati con Gmail o Exchange e hanno abilitato il tracciamento delle risposte.
+>Questa funzione è disponibile solo per i clienti che sono integrati con Gmail o Exchange e dispongono del monitoraggio delle risposte abilitato.
 
-## Disattivazione di una campagna per una persona {#turn-off-a-campaign-for-one-person}
+## Disattivare una campagna per una persona {#turn-off-a-campaign-for-one-person}
 
-Dopo aver creato la campagna, andate semplicemente alla scheda **Settings** (Impostazioni) e scegliete come desiderate comportarvi la campagna se qualcuno risponde.
+Dopo aver creato la campagna, passa semplicemente alla **Impostazioni** e scegli come desideri che si comporti la campagna se qualcuno risponde.
 
-Entrambe le opzioni termineranno la campagna e il destinatario non riceverà più e-mail dall&#39;utente.
+Entrambe le opzioni termineranno la campagna e il destinatario non riceverà più e-mail da te.
 
-## Disattivazione di una campagna per più persone {#turn-off-a-campaign-for-multiple-people}
+## Disattivare una campagna per più persone {#turn-off-a-campaign-for-multiple-people}
 
-Nella cartella inviata, selezionate i contatti per rimuoverli dalla campagna con il filtro impostato su &quot;All&quot; per catturare chiunque abbia ricevuto una campagna.
+Nella cartella inviata, seleziona i contatti per rimuoverli dalla campagna con il filtro impostato su &quot;All&quot; per catturare chiunque abbia ricevuto una campagna.
 
-Oppure puoi accedere direttamente alla campagna su cui si trovano e rimuoverli in massa.
+Oppure puoi passare direttamente alla campagna su cui sono accesi e rimuoverli in blocco.

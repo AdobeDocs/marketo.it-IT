@@ -30,9 +30,9 @@ Incrementa la pipeline e i ricavi consentendo alle vendite di essere dotate di i
 
 **ToutApp**
 
-* **Scheda** di conformità: Garantire la conformità ai requisiti RGPD acquisendo la fonte dei contatti di vendita e i dettagli del consenso dei clienti alla ricezione delle comunicazioni.
-* **Aggiornamento** dei criteri per le password: Rendi i tuoi dati più sicuri grazie a requisiti più rigorosi per la creazione, il ripristino e la scadenza della password (soddisfa i requisiti di conformità di tipo 1 di Soc II).
-* **Esperienza** di configurazione dell&#39;account semplificata: Configura e collega il tuo account a Gmail, Outlook e altri sistemi più velocemente.
+* **Scheda di conformità**: Garantire la conformità ai requisiti RGPD acquisendo la fonte dei contatti di vendita e i dettagli del consenso dei clienti alla ricezione delle comunicazioni.
+* **Aggiornamento dei criteri password**: Rendi i tuoi dati più sicuri grazie a requisiti più rigorosi per la creazione, il ripristino e la scadenza della password (soddisfa i requisiti di conformità di tipo 1 di Soc II).
+* **Esperienza di configurazione dell&#39;account semplificata**: Configura e collega il tuo account a Gmail, Outlook e altri sistemi più velocemente.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 

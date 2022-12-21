@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 7F {#template-7f}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 7F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 

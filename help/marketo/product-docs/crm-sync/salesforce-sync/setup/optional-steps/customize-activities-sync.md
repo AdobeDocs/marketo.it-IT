@@ -3,7 +3,6 @@ unique-page-id: 4719294
 description: Personalizzare la sincronizzazione delle attività - Documenti Marketo - Documentazione del prodotto
 title: Personalizzare la sincronizzazione delle attività
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Personalizzare la sincronizzazione delle attività {#customize-activities-sync}
 
-Se non utilizzi Marketo Sales Insight, Marketo può creare i record della cronologia delle attività di Salesforce per alcuni eventi. Ecco come attivarli.
+Se non utilizzi Marketo Sales Insight, Marketo può creare i record della cronologia delle attività di Salesforce per alcuni eventi. Ecco come attivarle.
 
 1. Vai a **Amministratore**.
 
@@ -29,7 +28,7 @@ Se non utilizzi Marketo Sales Insight, Marketo può creare i record della cronol
 
    >[!NOTE]
    >
-   >Una volta attivato, Marketo invierà una cronologia delle attività per tre mesi. A seconda della quantità di dati, _questo potrebbe richiedere diversi giorni per il completamento_. Gli aggiornamenti che si verificano durante il push delle attività iniziali possono essere ritardati fino al completamento della sincronizzazione iniziale delle attività.
+   >Una volta attivato, Marketo invierà una cronologia delle attività per tre mesi. A seconda della quantità di dati, _potrebbero essere necessari diversi giorni per il completamento_. Gli aggiornamenti che si verificano durante il push delle attività iniziali possono essere ritardati fino al completamento della sincronizzazione iniziale delle attività.
 
 <table> 
  <colgroup> 
@@ -96,8 +95,8 @@ Se non utilizzi Marketo Sales Insight, Marketo può creare i record della cronol
 
 >[!NOTE]
 >
->&quot;E-mail di vendita ricevuta&quot; indica **non** consegnata. Lo stato di consegna non viene acquisito per le e-mail inviate tramite Sales Insight.
+>&quot;E-mail di vendita ricevuta&quot; fa **not** media consegnata. Lo stato di consegna non viene acquisito per le e-mail inviate tramite Sales Insight.
 
 >[!TIP]
 >
->Per maggiori informazioni su Marketo in Salesforce, consulta il nostro prodotto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) .
+>Se sei interessato a ottenere più informazioni Marketo in Salesforce, consulta la nostra [Informazioni sulle vendite Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) prodotto.

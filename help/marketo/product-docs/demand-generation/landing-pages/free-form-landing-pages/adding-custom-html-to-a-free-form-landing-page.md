@@ -1,42 +1,41 @@
 ---
 unique-page-id: 2359730
-description: Aggiunta di HTML personalizzati a una pagina di destinazione a forma libera - Documenti Marketo - Documentazione prodotto
-title: Aggiunta di HTML personalizzato a una pagina di destinazione a forma libera
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+title: Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero
+exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
+# Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero {#adding-custom-html-to-a-free-form-landing-page}
 
-# Aggiunta di HTML personalizzato a una pagina di destinazione a forma libera {#adding-custom-html-to-a-free-form-landing-page}
-
-Potete aggiungere script personalizzati, CSS o altro HTML alle pagine di destinazione.
+Puoi aggiungere script personalizzati, CSS o altri HTML alle pagine di destinazione.
 
 >[!NOTE]
 >
->Il supporto di Marketo non è impostato per fornire assistenza nella risoluzione di problemi HTML personalizzati. Per assistenza HTML, consultate uno sviluppatore Web.
+>Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi relativi a HTML personalizzati. Per assistenza su HTML, consulta uno sviluppatore web.
 
-1. Selezionate la pagina di destinazione e fate clic su **Modifica bozza**.
+1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Nell&#39;editor della pagina di destinazione, trascinare nell&#39;elemento **HTML**.
+1. Nell’editor delle pagine di destinazione, trascina **HTML** elemento.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Immettete il codice HTML personalizzato e fate clic su **Salva**.
+1. Immetti il codice HTML personalizzato e fai clic su **Salva**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-Bello! Inserite gli script o i CSS desiderati.
+Bello! Inserisci gli script o i CSS desiderati.
 
 >[!TIP]
 >
->Quando possibile, eseguite il test dell&#39;origine HTML personalizzata in un ambiente locale prima di distribuirla in una pagina di destinazione.
+>Quando possibile, testa l’origine HTML personalizzata in un ambiente locale prima di distribuirla in una pagina di destinazione.
 
 >[!CAUTION]
 >
->Se il codice HTML personalizzato non è un rendering (ad esempio una funzione JavaScript invisibile o CSS), inserite l&#39;elemento in una posizione memorizzabile come quella in alto a sinistra. Il contorno dell&#39;elemento è visibile solo quando si fa clic nella relativa area.
+>Se HTML personalizzato non esegue il rendering (ad esempio una funzione JavaScript invisibile o CSS), inserisci l’elemento in una posizione memorizzabile come in alto a sinistra. Il profilo dell’elemento è visibile solo quando fai clic nella relativa area.

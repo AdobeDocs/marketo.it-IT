@@ -48,7 +48,7 @@ Quando lo visualizzo in Salesforce, ogni elemento dispone di:
   </tr> 
   <tr> 
    <td><p>C. Nome del conto</p></td> 
-   <td><p>Nome dell'azienda</p></td> 
+   <td><p>Nome società</p></td> 
   </tr> 
   <tr> 
    <td><p>D. Tempo</p></td> 

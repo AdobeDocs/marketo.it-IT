@@ -6,7 +6,7 @@ exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 13%
+ht-degree: 19%
 
 ---
 
@@ -40,7 +40,7 @@ Le informazioni sulla persona sono suddivise in categorie nelle seguenti schede:
 
 | Scheda | Descrizione |
 |---|---|
-| Info | Contatta informazioni e campi personalizzati su una persona. |
+| Informazioni | Contatta informazioni e campi personalizzati su una persona. |
 | Informazioni aziendali | Informazioni e indirizzo aziendali della persona. |
 | Informazioni opportunità | Informazioni sulle opportunità sincronizzate da Salesforce. |
 | Campo lead SFDC | Campi Salesforce incorporati. |
@@ -51,7 +51,7 @@ Le informazioni sulla persona sono suddivise in categorie nelle seguenti schede:
 
 | Scheda | Descrizione |
 |---|---|
-| Info | Contatta informazioni e campi personalizzati su una persona. |
+| Informazioni | Contatta informazioni e campi personalizzati su una persona. |
 | Informazioni aziendali | Informazioni e indirizzo aziendali della persona. |
 | Informazioni opportunità | Informazioni sulle opportunità sincronizzate da Microsoft. |
 | Campi personalizzati Microsoft | Campi Microsoft personalizzati. |
@@ -73,13 +73,13 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 |  |  |  |  |  |
 |---|---|---|---|---|
 | Indirizzo | Entrata annuale | IP anonimo | Indirizzo di fatturazione | Città di fatturazione |
-| Paese di fatturazione | Codice postale di fatturazione | Stato di fatturazione | Città | Nome dell&#39;azienda |
-| Paese | Creato in | Data di nascita | Dipartimento | Non effettuare la chiamata |
-| Non chiamare causa | Motivo per cui non effettuare la chiamata | Indirizzo e-mail | E-mail non valida | Causa non valida dell&#39;e-mail |
-| ID società esterna | ID persona vendita esterna | Numero di fax | Nome | Nome completo |
-| Settore | Città di riferimento | Azienda in oggetto | Paese in oggetto | Area metropolitana |
-| Codice di area del telefono | Codice postale trasferito | Regione dello Stato di provenienza | È Anonimo | È cliente |
-| È un partner | Professione | Cognome | Valutazione | Punteggio |
+| Paese di fatturazione | Codice postale di fatturazione | Stato di fatturazione | Città | Nome azienda |
+| Paese | Creato | Data di nascita | Dipartimento | Non effettuare la chiamata |
+| Non chiamare causa | Motivo per cui non effettuare la chiamata | Indirizzo e-mail | E-mail non valida | E-mail causa non valida |
+| ID società esterna | ID dell&#39;addetto alle vendite esterno | Numero di fax | Nome | Nome completo |
+| Settore | Città in oggetto | Azienda in oggetto | Paese in oggetto | oArea metropolitana in oggetto |
+| Prefisso telefonico in oggetto | Codice postale in oggetto | Stato in oggetto | È Anonimo | È cliente |
+| È partner | Professione | Cognome | Valutazione | Punteggio |
 | Origine persona | Stato | Numero di telefono | Nome visualizzato di Marketo Social Facebook | ID Facebook di Marketo Social |
 | URL foto di Marketo Social Facebook | URL profilo Facebook di Marketo Social | Raggiungimento di Marketo Social Facebook | Iscrizioni di riferimento Marketo Social Facebook | Visite con riferimento a Marketo Social Facebook |
 | Genere sociale Marketo | Ultima registrazione di riferimento di Marketo Social | Ultima visita di riferimento di Marketo Social | Nome visualizzato di Marketo Social LinkedIn | ID LinkedIn di Marketo Social |

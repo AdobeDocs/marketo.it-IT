@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 18C {#template-18c}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 

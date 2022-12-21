@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 5C {#template-5c}
 
-Fare clic con il pulsante destro del mouse per [scaricare Template 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 

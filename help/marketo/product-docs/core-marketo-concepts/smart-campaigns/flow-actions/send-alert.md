@@ -3,11 +3,10 @@ unique-page-id: 1146958
 description: Invia avviso - Documenti Marketo - Documentazione del prodotto
 title: Invia avviso
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 ## Panoramica {#overview}
 
-Marketo può inviare un avviso via e-mail con informazioni personali a chiunque: il proprietario del venditore, un partner o qualcun altro. Utilizza il passaggio di flusso **Invia avviso** .
+Marketo può inviare un avviso via e-mail con informazioni personali a chiunque: il proprietario del venditore, un partner o qualcun altro. Utilizza la **Invia avviso** passaggio di flusso.
 
 ![](assets/one-1.png)
 
@@ -27,7 +26,7 @@ Marketo può inviare un avviso via e-mail con informazioni personali a chiunque:
 
    >[!NOTE]
    >
-   >L&#39;avviso e-mail deve contenere tutte le informazioni di intestazione e trovarsi nello stato **Approvato** .
+   >L’avviso e-mail deve contenere tutte le informazioni di intestazione e deve essere nel **Approvato** stato.
 
 1. Fai clic sull’icona di anteprima per assicurarti di aver selezionato l’e-mail corretta.
 
@@ -35,7 +34,7 @@ Marketo può inviare un avviso via e-mail con informazioni personali a chiunque:
 
    >[!NOTE]
    >
-   >Assicurati di utilizzare il token **Send Alert Info** nel messaggio e-mail.
+   >Assicurati di utilizzare il **Invia informazioni avviso** token nell&#39;e-mail.
 
 1. Selezionare il destinatario dell’avviso. È possibile scegliere Proprietario vendite o Proprietario account.
 
@@ -47,9 +46,9 @@ Marketo può inviare un avviso via e-mail con informazioni personali a chiunque:
 
    >[!TIP]
    >
-   >Nelle campagne di attivazione, puoi utilizzare i token in **Ad altre e-mail** come `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. I token in **Ad altre e-mail** non funzioneranno in una campagna batch.
+   >Nelle campagne di attivazione, puoi utilizzare i token in **Ad altre e-mail** quali `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. Token in **Ad altre e-mail** non funziona in una campagna batch.
 
-Tutto qui! Ora è possibile utilizzare il passaggio di flusso **Invia avviso**.
+Tutto qui! Ora sai come utilizzare il **Invia avviso** passaggio di flusso.
 
 >[!MORELIKETHIS]
 >

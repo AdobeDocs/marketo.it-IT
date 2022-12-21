@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ## Momenti Marketo {#marketo-moments}
 
-A pranzo, ma devi riprogrammare un&#39;e-mail? L’app Marketo Moments, disponibile da The App Store o Google Play, ti dà il potere di vedere le prestazioni delle tue campagne e-mail ed eventi in tempo reale, nonché ciò che verrà in futuro, dal tuo telefono iPhone, iPad o Android.
+A pranzo, ma devi riprogrammare un&#39;e-mail? L’app Marketo Moments, disponibile da App Store o Google Play, consente di vedere le prestazioni delle campagne e-mail ed eventi in tempo reale e in futuro dal telefono iPhone, iPad o Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Aggiornamento dell’editor Rich Text {#rich-text-editor-update}
 
-Editor di testo aggiornato con aspetto e aspetto moderno, con formattazione del testo semplificata, modifica delle immagini, inserimento di collegamenti e modifica HTML. L’editor HTML ora dispone di una convalida minima, che consente di modificare il codice in modo meno restrittivo.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà automaticamente rilasciato entro pochi giorni dalla versione di luglio. In seguito, potrai passare dalla versione nuova a quella precedente dell’editor da **Amministratore > E-mail > Modifica impostazioni editor**.
+Editor di testo aggiornato con aspetto e aspetto moderni, con formattazione del testo semplificata, modifica delle immagini, inserimento di collegamenti e modifica di HTML. L’editor di HTML ora dispone di una convalida minima che consente di modificare il codice in modo meno restrittivo.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà automaticamente rilasciato entro pochi giorni dalla versione di luglio. In seguito, potrai alternare tra le versioni nuove e precedenti dell’editor da **Amministratore > E-mail > Modifica impostazioni editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -47,10 +47,10 @@ Hai impostato diverse campagne RTP personalizzate e hai notato che alcune di ess
 
 ## API società {#company-api}
 
-**Accesso agli oggetti aziendali tramite l’API** REST: L’API REST fornisce ora l’accesso all’oggetto Marketo Company (noto anche come Account). Ciò significa che puoi leggere, aggiornare ed eliminare gli oggetti aziendali creati in Marketo e associare i lead a tali società utilizzando l’API lead aggiornata.
+**Accesso agli oggetti aziendali tramite API REST**: L’API REST fornisce ora l’accesso all’oggetto Marketo Company (noto anche come Account). Ciò significa che puoi leggere, aggiornare ed eliminare gli oggetti aziendali creati in Marketo e associare i lead a tali società utilizzando l’API lead aggiornata.
 
-Scopri [di più](https://developers.marketo.com/documentation/company-api/) nella nostra guida di riferimento per l&#39;API aziendale.
+Scopri [more](https://developers.marketo.com/documentation/company-api/) nella nostra guida di riferimento per l&#39;API aziendale.
 
 ## Accesso al recapito messaggi e-mail {#access-email-deliverability}
 
-**Accedi allo strumento** di recapito messaggi e-mail: Questa nuova autorizzazione consente agli amministratori di concedere agli utenti l’accesso allo strumento Email Deliverability .
+**Accesso allo strumento di recapito messaggi e-mail**: Questa nuova autorizzazione consente agli amministratori di concedere agli utenti l’accesso allo strumento Email Deliverability .

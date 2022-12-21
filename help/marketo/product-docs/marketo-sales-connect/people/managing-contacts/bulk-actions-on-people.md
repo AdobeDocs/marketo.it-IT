@@ -1,33 +1,32 @@
 ---
 unique-page-id: 30081230
-description: Azioni di massa sulle persone - Documenti Marketo - Documentazione prodotto
-title: Azioni di massa sulle persone
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Azioni in serie sulle persone - Documenti Marketo - Documentazione del prodotto
+title: Azioni collettive sulle persone
+exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# Azioni di massa sulle persone {#bulk-actions-on-people}
+# Azioni collettive sulle persone {#bulk-actions-on-people}
 
 Ci sono alcune cose che puoi fare con i tuoi contatti in massa per risparmiare tempo.
 
-Il primo passo per tutte le azioni di massa disponibili consiste nel selezionare due o più contatti e fare clic sul dato (tre punti verticali).
+Il primo passo per tutte le azioni in blocco disponibili è quello di selezionare due o più contatti e fare clic sul punto (tre punti verticali).
 
 ![](assets/one-3.png)
 
 ## Aggiungi persone al gruppo {#add-people-to-group}
 
-Aggiungete più persone a un gruppo allo stesso tempo.
+Aggiunge più persone a un gruppo contemporaneamente.
 
 ![](assets/add-to-group.png)
 
-## Origine {#source}
+## Fonte {#source}
 
-Assegniamo automaticamente una fonte a ogni contatto che entra nel database. Utilizzate questo passaggio per aggiornare tale origine.
+Assegniamo automaticamente una sorgente a ogni contatto che entra nel database. Utilizza questo passaggio per aggiornare l&#39;origine.
 
 ![](assets/source.png)
 
@@ -37,18 +36,18 @@ Assegniamo automaticamente una fonte a ogni contatto che entra nel database. Uti
 
 ## Autorizzazione {#authorization}
 
-In conformità con [GDPR](https://eugdpr.org/), utilizzare l&#39;autorizzazione per indicare in che modo hai ricevuto l&#39;autorizzazione per interagire con questi contatti.
+In conformità con [RGPD](https://eugdpr.org/), utilizza l’autorizzazione per indicare in che modo hai ricevuto l’autorizzazione per interagire con questi contatti.
 
 ![](assets/authorization.png)
 
-## Annulla sottoscrizione {#unsubscribe}
+## Annulla iscrizione {#unsubscribe}
 
-Esegui un&#39;iscrizione in blocco sui contatti che non desiderano più ricevere la corrispondenza da te.
+Esegui una cancellazione in massa su contatti che non desiderano più ricevere la corrispondenza da te.
 
 ![](assets/unsubscribe.png)
 
 ## Elimina {#delete}
 
-Elimina i contatti in blocco. I passaggi completi sono disponibili [qui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
+Elimina i contatti in blocco. Puoi trovare i passaggi completi [qui](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)

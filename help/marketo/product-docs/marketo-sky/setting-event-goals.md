@@ -3,9 +3,10 @@ description: Impostazione degli obiettivi dell’evento - Documenti Marketo - Do
 title: Impostazione degli obiettivi dell’evento
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -21,12 +22,12 @@ Dare agli eventi obiettivi specifici e vedere come si comportano.
 
    ![Immagine uno](assets/setting-event-goals-1.png)
 
-1. Assegna a un evento [!UICONTROL Nome], seleziona [!UICONTROL Destinazione] cartella e [!UICONTROL Canale].
+1. Assegna a un evento [!UICONTROL Name], seleziona [!UICONTROL Destination] cartella e [!UICONTROL Channel].
 
    ![Immagine 2](assets/setting-event-goals-2.png)
 
-1. Immettere l&#39;obiettivo per [!UICONTROL Registrato] e [!UICONTROL Partecipato], quindi fai clic su **[!UICONTROL Crea]** ([!UICONTROL Descrizione] e [!UICONTROL Etichette] sono facoltativi).
+1. Immettere l&#39;obiettivo per [!UICONTROL Registered] e [!UICONTROL Attended], quindi fai clic su **[!UICONTROL Create]** ([!UICONTROL Description] e [!UICONTROL Labels] sono facoltativi).
 
    ![Immagine tre](assets/setting-event-goals-3.png)
 
-Ed è tutto! Controlla lo stato dell&#39;obiettivo dell&#39;evento facendo clic sul pulsante [!UICONTROL Rapporti] scheda .
+Ed è tutto! Controlla lo stato dell&#39;obiettivo dell&#39;evento facendo clic sul pulsante [!UICONTROL Reports] scheda .

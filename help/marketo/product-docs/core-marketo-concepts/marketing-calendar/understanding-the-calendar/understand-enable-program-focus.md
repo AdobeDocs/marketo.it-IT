@@ -3,7 +3,6 @@ unique-page-id: 2953364
 description: Comprendere/abilitare il focus del programma - Documentazione di Marketo - Documentazione del prodotto
 title: Comprendere/abilitare il focus del programma
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # Comprendere/abilitare il focus del programma {#understand-enable-program-focus}
 
-Il Calendario Marketing offre una visione panoramica delle cose, ma permette anche alcune interazioni. È possibile [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [modificare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) e [confermare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) voci. Per interagire con le voci, è necessario concentrarsi prima su un programma.
+Il Calendario Marketing offre una visione panoramica delle cose, ma permette anche alcune interazioni. È possibile [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [modifica](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)e [confermare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) voci. Per interagire con le voci, è necessario concentrarsi prima su un programma.
 
-1. Vai a **Marketing Calendar**.
+1. Vai a **Calendario di marketing**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Selezionare una voce e fare clic su **Mostra focus programma**.
+1. Seleziona una voce e fai clic su **Mostra focus programma**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 

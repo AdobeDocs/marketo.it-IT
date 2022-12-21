@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7512451
-description: Creare una notifica push - Documenti Marketo - Documentazione prodotto
+description: Creare una notifica push - Documenti Marketo - Documentazione del prodotto
 title: Creare una notifica push
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-
 # Creare una notifica push {#create-a-push-notification}
 
-È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che il tuo responsabile marketing Admin e sviluppatore di app mobili configurino alcune cose che ti servono mentre lo stai facendo. Per informazioni, consultate [Informazioni sulle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md).
+È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che il tuo amministratore Marketo e sviluppatore di app mobili configurino alcune cose che ti serviranno mentre lo stai facendo. Vedi [Notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) per i dettagli.
 
-1. Andate all&#39;area **Attività di marketing**.
+1. Vai a **Attività di marketing** area.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,16 +22,16 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. In **Nuova**, fare clic su **Nuova risorsa locale**.
+1. Sotto **Nuovo**, fai clic su **Nuova risorsa locale**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Selezionare **Notifica push**.
+1. Seleziona **Notifica push**.
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Immettete un **Nome notifica push** e fate clic su **Crea**.
+1. Inserisci un **Nome notifica push** e fai clic su **Crea**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Dolce! Ora che viene creata la notifica push, andiamo avanti e [vestiamola](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   Dolce! Ora che viene creata la notifica push, andiamo avanti e [vestire](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

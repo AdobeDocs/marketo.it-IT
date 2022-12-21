@@ -18,7 +18,7 @@ Se hai bisogno di risultati di elenchi o elenchi smart al di fuori di Marketo, p
 
    ![](assets/ma.png)
 
-1. Seleziona l’elenco o l’elenco avanzato da esportare e passa alla scheda **Persone** .
+1. Seleziona l’elenco o l’elenco smart da esportare e vai alla **Persone** scheda .
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -32,16 +32,16 @@ Se hai bisogno di risultati di elenchi o elenchi smart al di fuori di Marketo, p
 
    >[!NOTE]
    >
-   >Se scegli **Tutte le colonne**, l&#39;esportazione avrà dimensioni maggiori e richiederà più tempo per generare/scaricare.
+   >Se scegli **Tutte le colonne**, le dimensioni dell’esportazione saranno maggiori e la generazione/il download saranno più lunghi.
 
    >[!TIP]
    >
-   >Se i record personali contengono caratteri stranieri di cui non è stato eseguito il rendering correttamente al momento dell&#39;esportazione, prova a modificare il tipo di file nel menu a discesa **Formato**.
+   >Se i record personali contengono caratteri stranieri di cui non è stato eseguito il rendering correttamente al momento dell&#39;esportazione, prova a modificare il tipo di file nel **Formato** a discesa.
 
-1. Verrà eseguita l&#39;esportazione. Una volta terminato, puoi fare clic su **Scarica ora** per afferrare il file.
+1. Verrà eseguita l&#39;esportazione. Al termine, puoi fare clic su **Scarica ora** per afferrare il file.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Se l’esportazione richiede un po’ di tempo, puoi sempre disconnetterti e tornare ad essa in un secondo momento. Il collegamento **Scarica ora** è accessibile selezionando **Mostra stato esportazione** nel menu **Elenca azioni** ed è valido per una settimana.
+   >Se l’esportazione richiede un po’ di tempo, puoi sempre disconnetterti e tornare ad essa in un secondo momento. La **Scarica ora** è possibile accedere al collegamento selezionando **Mostra stato esportazione** in **Azioni elenco** ed è valido per una settimana.

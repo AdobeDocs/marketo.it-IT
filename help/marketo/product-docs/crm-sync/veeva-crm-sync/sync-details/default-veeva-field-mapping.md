@@ -5,7 +5,7 @@ exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 27%
+ht-degree: 31%
 
 ---
 
@@ -93,7 +93,7 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
     </tr>
     <tr>
       <td>Telefono cellulare</td>
-      <td>Numero di cellulare</td>
+      <td>Numero di telefono</td>
     </tr>
     <tr>
       <td>Telefono ufficio</td>
@@ -105,7 +105,7 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
     </tr>
     <tr>
       <td>Titolo</td>
-      <td>Professione</td>
+      <td>Qualifica</td>
     </tr>
   </tbody>
 </table>
@@ -162,7 +162,7 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
     </tr>
     <tr>
       <td>Nome account</td>
-      <td>Nome dell'azienda</td>
+      <td>Nome azienda</td>
     </tr>
     <tr>
       <td>Dipendenti</td>

@@ -3,7 +3,6 @@ unique-page-id: 2949678
 description: SEO - Aggiungere/rimuovere parole chiave da un elenco - Marketo Docs - Documentazione del prodotto
 title: SEO - Aggiungi/rimuovi parole chiave da un elenco
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -17,11 +16,11 @@ ht-degree: 0%
 
 ## Aggiungi a un elenco {#add-to-a-list}
 
-1. Vai alla sezione **Parole chiave** .
+1. Vai a **Parole chiave** sezione .
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passa il puntatore del mouse sulla parola chiave da aggiungere a un elenco. Fare clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il puntatore del mouse sulla parola chiave da aggiungere a un elenco. Fai clic su **Aggiungi/Rimuovi dall&#39;elenco**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -41,11 +40,11 @@ Ehi! Seleziona l’elenco per visualizzare le nuove parole chiave.
 
 È inoltre possibile rimuovere le parole chiave da un elenco.
 
-1. Vai alla sezione **Parole chiave** .
+1. Vai a **Parole chiave** sezione .
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passa il puntatore del mouse sulla parola chiave da rimuovere da un elenco. Fare clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il puntatore del mouse sulla parola chiave da rimuovere da un elenco. Fai clic su **Aggiungi/Rimuovi dall&#39;elenco**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

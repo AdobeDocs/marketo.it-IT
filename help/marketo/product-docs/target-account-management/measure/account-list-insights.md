@@ -1,17 +1,16 @@
 ---
 unique-page-id: 11380787
-description: Informazioni sull’elenco account - Documenti Marketo - Documentazione del prodotto
+description: Informazioni sull’elenco account - Documentazione Marketo - Documentazione del prodotto
 title: Approfondimenti elenco account
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
-# Informazioni sull&#39;elenco account {#account-list-insights}
+# Approfondimenti elenco account {#account-list-insights}
 
 Il dashboard Elenco account offre una visualizzazione delle informazioni aggregate provenienti da tutti gli account denominati all’interno di tale elenco.
 
@@ -44,16 +43,16 @@ Per visualizzare il dashboard di un elenco account, fai clic sul suo nome..
 
 ## Scheda Account denominati {#named-accounts-tab}
 
-Fai clic sulla scheda **Account denominati** per vedere quali account denominati appartengono a tale elenco.
+Fai clic sul pulsante **Account denominati** per vedere quali account denominati appartengono a tale elenco account.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->È possibile rimuovere un account denominato in questa scheda selezionandolo e facendo clic su **Rimuovi account denominati**.
+>Per rimuovere un account denominato in questa scheda, selezionalo e fai clic su **Rimuovi account denominati**.
 
 ## Utilizzato dalla scheda {#used-by-tab}
 
-Fai clic sulla scheda **Usato da** per vedere quali risorse fanno riferimento a tale elenco account.
+Fai clic sul pulsante **Utilizzato da** per vedere quali risorse fanno riferimento a tale elenco account.
 
 ![](assets/four-2.png)

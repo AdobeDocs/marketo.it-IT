@@ -3,7 +3,6 @@ unique-page-id: 8782024
 description: Download di momenti Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Download di momenti Marketo
 exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
@@ -17,7 +16,7 @@ Scarica Marketo Moments dall&#39;App Store o Google Play e voila! Magia Marketo 
 
 ## Per iPhone {#for-iphone}
 
-1. Vai all&#39; [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
+1. Vai a [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 

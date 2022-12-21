@@ -42,7 +42,7 @@ L’integrazione di LeanData ora consente la corrispondenza lead-to-account in M
 
 **[Miglioramenti all’anteprima di Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-I professionisti del marketing possono ora garantire che le campagne web abbiano un aspetto eccezionale su qualsiasi dispositivo *prima di* di avviarle. Con questi miglioramenti, scopri come le campagne web verranno renderizzate su desktop, dispositivi mobili e tablet. Il nuovo plug-in per Chrome offre anche anteprime più coerenti e precise.
+I professionisti del marketing possono ora garantire che le loro campagne web abbiano un aspetto eccezionale su qualsiasi dispositivo *prima* lanciarli. Con questi miglioramenti, scopri come le campagne web verranno renderizzate su desktop, dispositivi mobili e tablet. Il nuovo plug-in per Chrome offre anche anteprime più coerenti e precise.
 
 **[Miglioramenti apportati alle campagne Widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 

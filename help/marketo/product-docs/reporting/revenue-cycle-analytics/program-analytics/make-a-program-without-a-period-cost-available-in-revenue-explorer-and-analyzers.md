@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2360389
-description: Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analisti - Documenti Marketo - Documentazione prodotto
-title: Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analizzatori
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Rendere disponibile un programma senza un costo del periodo in Esplora ricavi e analisti - Marketo Docs - Documentazione del prodotto
+title: Rendere disponibile un programma senza un costo del periodo in Esplora ricavi e analisti
+exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
+# Rendere disponibile un programma senza un costo del periodo in Esplora ricavi e analisti {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-# Rendere disponibile un programma senza un costo periodo in Esplora ricavi e analizzatori {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
-
-I costi del periodo di programma consentono di definire &quot;Quanti soldi&quot; e &quot;Quando&quot; per un programma. Questo viene visualizzato in Esplora ciclo delle entrate e in [analizzatori](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+I costi del periodo di programma consentono di definire &quot;Quanto denaro&quot; e &quot;Quando&quot; per un programma. Questo viene visualizzato in Revenue Cycle Explorer e [analizzatori](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Alcuni programmi potrebbero dover essere inclusi anche se non hanno un costo periodo. Sebbene sia possibile inserire 0 per il costo del periodo, abbiamo reso più semplice l&#39;inclusione di questi programmi.
+Alcuni programmi possono dover essere inclusi anche se non hanno un costo di periodo. Sebbene sia possibile immettere 0 per il costo del periodo, è stato più semplice includere questi programmi.
 
 >[!NOTE]
 >
->L&#39;analizzatore del programma esegue il programma Success in base al costo del periodo. Se non è disponibile alcun costo periodo, il Successo programma non verrà visualizzato, indipendentemente dal comportamento di analisi del programma. Se il comportamento di analisi è impostato, i dati verranno visualizzati per le metriche delle opportunità (opportunità di pipeline, ricavi ottenuti, ecc.).
+>Analisi programma esegue il bucket Programma con successo per costo del periodo. Se non è disponibile alcun costo del periodo, il successo del programma non verrà visualizzato, indipendentemente dal comportamento di analisi del programma. Se è impostato il comportamento di analisi, i dati verranno visualizzati per le metriche delle opportunità (opportunità di pipeline, ricavi ottenuti, ecc.).
 
-1. Nella sezione Amministratore, fare clic su **Tag**.
+1. Nella sezione Amministrazione , fai clic su **Tag**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -33,7 +32,7 @@ Alcuni programmi potrebbero dover essere inclusi anche se non hanno un costo per
 
    >[!NOTE]
    >
-   >Tutti i programmi che utilizzano questo canale, indipendentemente dal costo del periodo, saranno disponibili per gli esperti di analisi delle entrate e gli analizzatori. La modifica avrà effetto il giorno successivo.
+   >Tutti i programmi che utilizzano questo canale, indipendentemente dal costo del periodo, saranno disponibili per l&#39;explorer dei ricavi e gli analizzatori. Questa modifica entrerà in vigore il giorno successivo.
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
@@ -43,10 +42,10 @@ Alcuni programmi potrebbero dover essere inclusi anche se non hanno un costo per
 
 >[!TIP]
 >
->Avete notato l&#39;opzione Operativa? Questo fa il contrario. Sono esclusi da tali programmi indipendentemente dal costo del periodo.
+>Hai notato l&#39;opzione Operativa? Questo fa il contrario. Esso esclude tali programmi indipendentemente dal costo del periodo.
 
-Bel lavoro! Ora qualsiasi programma che utilizza il canale modificato sarà incluso in elenco ricavi e analizzatori senza la necessità di un costo di periodo.
+Bel lavoro! Ora qualsiasi programma che utilizza il canale modificato sarà incluso in Revenue explorer e analyzers senza la necessità di un costo di periodo.
 
 >[!MORELIKETHIS]
 >
->[Escludi comportamento Analytics a livello di programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[Ignorare il comportamento di Analytics a livello di programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)

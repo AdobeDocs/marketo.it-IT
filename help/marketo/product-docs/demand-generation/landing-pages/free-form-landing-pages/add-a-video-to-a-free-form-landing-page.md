@@ -1,50 +1,49 @@
 ---
 unique-page-id: 2359722
-description: Aggiungere un video a una pagina di destinazione a forma libera - Marketo Docs - Documentazione del prodotto
-title: Aggiungere un video a una pagina di destinazione a forma libera
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Aggiungere un video a una pagina di destinazione in formato libero - Marketo Docs - Documentazione del prodotto
+title: Aggiungere un video a una pagina di destinazione in formato libero
+exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
+# Aggiungere un video a una pagina di destinazione in formato libero {#add-a-video-to-a-free-form-landing-page}
 
-# Aggiungere un video a una pagina di destinazione a forma libera {#add-a-video-to-a-free-form-landing-page}
-
-Inserite i video con opzioni di condivisione per social network nelle pagine di destinazione.
+Inserisci video con opzioni di condivisione social sulle pagine di destinazione.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
-1. Passare alla pagina di destinazione a forma libera e fare clic su **Modifica bozza**.
+1. Passa alla pagina di destinazione a forma libera e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. Trascinare il cursore su **Video** dagli elementi a destra.
+1. Trascina **Video** dagli elementi a destra.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. Selezionare **Crea nuovo** dal menu a discesa.
+1. Seleziona **Crea nuovo** dal menu a discesa.
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >La funzione **Crea nuovo** viene visualizzata solo nelle attività di marketing; non è disponibile in Design Studio. In Design Studio sono disponibili solo i video già creati. Tuttavia, potete creare una condivisione video _all&#39;interno di un programma_ selezionando **Nuovo** > **Nuova risorsa locale**. Potete quindi selezionarlo dall’elenco a discesa, come illustrato di seguito.
+   >La **Crea nuovo** questa funzione viene visualizzata solo nelle attività di marketing; non è disponibile in Design Studio. In Design Studio sono disponibili solo i video già creati. Tuttavia, puoi creare una condivisione video _all&#39;interno di un programma_ selezionando **Nuovo** > **Nuova risorsa locale**. Puoi quindi selezionarlo dall’elenco a discesa, come illustrato di seguito.
 
-1. Immettete l’URL del video di YouTube, quindi denominate il video. Nell&#39;elenco a discesa Clona da, selezionare **Nessuno**, quindi fare clic su **Inserisci**.
+1. Inserisci l’URL del video YouTube, quindi denomina il video. Nel menu a discesa Clona da , seleziona **Nessuno**, quindi fai clic su **Inserisci**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->Per risparmiare tempo, potete utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
+>Per risparmiare tempo, è possibile utilizzare **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
 
-Congratulazioni! È stata aggiunta una condivisione video alla pagina di destinazione a forma libera. Approva la pagina di destinazione e la condivisione video è live. È inoltre possibile [pubblicare la pagina di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video nel sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Complimenti. Hai aggiunto una condivisione video alla pagina di destinazione in formato libero. Approva la pagina di destinazione e la condivisione video è attiva. È inoltre possibile [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video sul sito web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->Al termine, potete tuttavia modificare le impostazioni della condivisione video, se necessario. Iniziate con [personalizzazione del flusso di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e dove si apre il prompt di condivisione).
+>Hai finito, ma puoi modificare le impostazioni della condivisione video se necessario. Inizia con  [personalizzazione del flusso di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e dove si apre il prompt di condivisione).

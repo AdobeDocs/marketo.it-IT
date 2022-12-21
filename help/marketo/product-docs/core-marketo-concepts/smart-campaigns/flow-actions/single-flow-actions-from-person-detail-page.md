@@ -3,7 +3,8 @@ description: Azioni a flusso singolo dalla pagina dei dettagli della persona - D
 title: Pagina Azioni a flusso singolo da dettagli persona
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Oltre a eseguire azioni a flusso singolo dall’interno di un elenco avanzato, puoi eseguirle direttamente in una pagina Dettagli persona.
 
-1. Fare clic su **Database**.
+1. Fai clic su **Database**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,7 +23,7 @@ Oltre a eseguire azioni a flusso singolo dall’interno di un elenco avanzato, p
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Fai clic sul menu a discesa **Azioni persona** e seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Invia e-mail](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Fai clic sul pulsante **Azioni personali** e seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Invia e-mail](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 

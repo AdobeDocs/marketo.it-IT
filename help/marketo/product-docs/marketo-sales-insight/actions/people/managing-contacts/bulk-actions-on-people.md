@@ -5,7 +5,7 @@ exl-id: fcd89688-6905-4714-9254-42873eca8428
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ In conformità con [RGPD](https://eugdpr.org/), utilizza l’autorizzazione per 
 
 ![](assets/bulk-actions-on-people-4.png)
 
-## Annulla sottoscrizione {#unsubscribe}
+## Annulla iscrizione {#unsubscribe}
 
 Esegui una cancellazione in massa su contatti che non desiderano più ricevere la corrispondenza da te.
 

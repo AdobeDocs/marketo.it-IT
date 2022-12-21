@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 10D {#template-10d}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 

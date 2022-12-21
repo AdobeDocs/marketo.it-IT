@@ -2,14 +2,13 @@
 unique-page-id: 11380774
 description: Punteggio account - Documenti Marketo - Documentazione del prodotto
 title: Punteggio account
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
 
 ---
-
 
 # Punteggio account {#account-score}
 
@@ -44,7 +43,7 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 
 >[!NOTE]
 >
->Per calcolare i punteggi del conto, devi innanzitutto creare i punteggi dei lead. Marketo TAM aggrega automaticamente i punteggi dei lead ai punteggi dei conti. Ad esempio, prenderemo due degli esempi precedenti (_Punteggio di interesse del prodotto dell&#39;account_ e _Punteggio di coinvolgimento del web dell&#39;account_).
+>Per calcolare i punteggi del conto, devi innanzitutto creare i punteggi dei lead. Marketo TAM aggrega automaticamente i punteggi dei lead ai punteggi dei conti. Ad esempio, prenderemo due degli esempi di cui sopra (_Punteggio di interesse del prodotto dell&#39;account_ e _Punteggio di coinvolgimento Web dell&#39;account_).
 >
 >Innanzitutto, crea campi per il punteggio lead che acquisiscono i dettagli rilevanti da ciascun lead di un account target.\
 >Quindi assegna i punteggi lead ai rispettivi punteggi del conto:\
@@ -61,7 +60,7 @@ Una volta configurato il punteggio lead, procedi seguendo i passaggi seguenti.
 
    ![](assets/one-1.png)
 
-1. Fai clic su **Gestione account di destinazione**.
+1. Fai clic su **Gestione account di Target**.
 
    ![](assets/account-score-2.png)
 
@@ -71,9 +70,9 @@ Una volta configurato il punteggio lead, procedi seguendo i passaggi seguenti.
 
    >[!NOTE]
    >
-   >Puoi scegliere fino a **cinque** campi per calcolare il punteggio dell&#39;account.
+   >Puoi scegliere fino a **cinque** campi per calcolare il punteggio conto.
 
-1. Inserisci il nome del punteggio account, fai clic sul menu a discesa **Seleziona punteggio persona** e seleziona il punteggio corrispondente.
+1. Immetti il nome del punteggio account, fai clic sul pulsante **Seleziona punteggio persona** e seleziona il punteggio corrispondente.
 
    ![](assets/four.png)
 
@@ -81,6 +80,6 @@ Una volta configurato il punteggio lead, procedi seguendo i passaggi seguenti.
 
    ![](assets/five.png)
 
-1. Aggiungi tutti i punteggi desiderati. Al termine, fai clic su **Salva**.
+1. Aggiungi tutti i punteggi desiderati. Fai clic su **Salva** al termine.
 
    ![](assets/six.png)

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 45416564
-description: Abilita registrazione chiamate - Documenti Marketo - Documentazione prodotto
+description: Abilitare la registrazione delle chiamate - Documenti Marketo - Documentazione del prodotto
 title: Abilita registrazione chiamate
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-
 # Abilita registrazione chiamate {#enable-call-recording}
 
-In qualità di amministratore potete abilitare la registrazione delle chiamate per le chiamate di Sales Connect. Registrare le chiamate del team può essere un ottimo modo per istruire i rappresentanti di vendita sulle best call practice.
+In qualità di amministratore puoi abilitare la registrazione delle chiamate per le chiamate di Sales Connect. Registrare le chiamate del tuo team può essere un ottimo modo per allenare i tuoi rappresentanti di vendita sulle migliori pratiche di chiamata.
 
-1. Fate clic sull&#39;icona Impostazioni e selezionate **Impostazioni**.
+1. Fai clic sull’icona Impostazioni e seleziona **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -23,14 +22,14 @@ In qualità di amministratore potete abilitare la registrazione delle chiamate p
 
    ![](assets/two.png)
 
-1. Scorri verso il basso fino a Impostazioni telefono di vendita Connect e seleziona l&#39;interruttore **Abilita registrazione chiamate**.
+1. Scorri verso il basso fino a Impostazioni telefono connessione vendite e seleziona **Abilita registrazione chiamate** alternare.
 
    ![](assets/three.png)
 
-1. Se desiderate dare ai venditori la possibilità di abilitare o disabilitare la registrazione delle chiamate per se stessi, fate clic su **Registrazione facoltativa per tutti i membri del team**. Se desiderate che tutte le chiamate vengano registrate automaticamente, fate clic su **Registra tutte le chiamate**.
+1. Se vuoi dare ai tuoi venditori la possibilità di abilitare o disabilitare la registrazione delle chiamate per se stessi, fai clic su **Registrazione opzionale per tutti i membri del team**. Se desideri che tutte le chiamate vengano registrate automaticamente, fai clic su **Registra tutte le chiamate**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Impostazioni di consenso di due parti](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
+>[Impostazioni di consenso tra due parti](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

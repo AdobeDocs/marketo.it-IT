@@ -3,7 +3,6 @@ unique-page-id: 2360287
 description: Creare un campo personalizzato in Marketo - Documenti Marketo - Documentazione del prodotto
 title: Creare un campo personalizzato in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acquisire dati, ecco come crearne uno.
 
-1. Vai ad Amministratore e fai clic su **Gestione campi**.
+1. Vai ad Amministratore e fai clic su **Gestione dei campi**.
 
    ![](assets/image2014-9-24-13-3a46-3a26.png)
 
@@ -23,7 +22,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acqui
    >
    >Se desideri che i campi siano mantenuti sincronizzati con il tuo CRM, creali nel CRM e verranno creati automaticamente in Marketo.
 
-1. Fare clic su **Nuovo campo personalizzato**.
+1. Fai clic su **Nuovo campo personalizzato**.
 
    ![](assets/two.png)
 
@@ -31,11 +30,11 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acqui
 
    >[!TIP]
    >
-   >Consulta il [Glossario dei tipi di campi personalizzati](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Consulta la sezione [Glossario dei tipi di campi personalizzati](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
-1. Immetti il Nome come desideri che appaia in Marketo. Il nome API viene generato automaticamente. È possibile modificarla, ma non può essere rinominata una volta impostata. Al termine, fai clic su **Crea** .
+1. Immetti il Nome come desideri che appaia in Marketo. Il nome API viene generato automaticamente. È possibile modificarla, ma non può essere rinominata una volta impostata. Fai clic su **Crea** al termine.
 
 >[!CAUTION]
 >

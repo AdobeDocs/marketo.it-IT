@@ -3,7 +3,6 @@ unique-page-id: 2949839
 description: Controllare le persone nell'evento dal Tablet PC - Marketo Docs - Documentazione del prodotto
 title: Controllare le persone nell'evento dal Tablet PC
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Controllare le persone nell&#39;evento dal Tablet {#check-people-into-your-event-from-your-tablet}
+# Controllare le persone nell&#39;evento dal Tablet PC {#check-people-into-your-event-from-your-tablet}
 
 Quando le persone si presentano al tuo evento, puoi trovare le loro informazioni sull’app. Dopo il check-in, vengono promossi allo stato Partecipante al momento della sincronizzazione con Marketo.
 
@@ -20,24 +19,24 @@ L’app funziona allo stesso modo sia su iPad che su Android, tranne che per dif
 >[!PREREQUISITES]
 >
 >* Crea un evento in Marketo e popolalo con persone invitate e registrate.
->* Scarica l&#39;app per tablet per [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* Scarica l’app per tablet per [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 
 ## Accedi agli ospiti registrati {#check-in-registered-guests}
 
-1. Tocca l’icona dell’app sull’iPad o sul tablet Android.
+1. Tocca l’icona dell’app sul tablet iPad o Android.
 
-1. Tocca **Login** per avviare l&#39;app Marketo Event.
+1. Tocca **Login** per avviare l’app Marketo Event.
 
    ![](assets/1.jpg)
 
-1. Immetti il nome utente e la password Marketo e fai clic su **Login**.
+1. Inserisci il tuo nome utente e password Marketo e fai clic su **Login**.
 
    >[!NOTE]
    >
    >Per visualizzare le persone nell’app, devi disporre di un ruolo con accesso al database.
 
-1. Selezionare un **Evento**.
+1. Seleziona un **Evento**.
 
    ![](assets/2.jpg)
 
@@ -53,7 +52,7 @@ L’app funziona allo stesso modo sia su iPad che su Android, tranne che per dif
 
    >[!NOTE]
    >
-   >Il processo è lo stesso su iPad e Android, ma gli schermi sono diversi e gli elementi possono trovarsi in posizioni diverse. Questo articolo presenta l’interfaccia iPad. Confronta la schermata Android in questa sezione per riferimento.
+   >Il processo è lo stesso su iPad e Android, ma le schermate sono diverse e gli elementi possono trovarsi in posizioni diverse. Questo articolo presenta l’interfaccia di iPad. Confronta la schermata Android in questa sezione per riferimento.
 
    **iPad**
 
@@ -63,7 +62,7 @@ L’app funziona allo stesso modo sia su iPad che su Android, tranne che per dif
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Toccare il nome selezionato e sul record della persona, toccare **Check-in**.
+1. Tocca il nome selezionato e, nel record della persona, tocca **Check-in**.
 
    ![](assets/img-0068-35-hands.png)
 
@@ -79,13 +78,13 @@ L&#39;ospite ora ha uno stato Partecipante e riceve un segno di spunta. Il recor
 
 >[!TIP]
 >
->Se una persona è invitata ma non è registrata, è possibile cercare il nome facendo clic su **Cerca sul server**, appena sotto la casella Ricerca. Lo stato Invitato cambia in **Partecipato** per l&#39;evento.
+>Se una persona è invitata ma non è registrata, è possibile cercare il nome facendo clic su **Cerca nel server**, appena sotto la casella Ricerca. Lo stato Invitato cambia in **Partecipato** per l&#39;evento.
 
-## Crea una nuova persona sul Tablet {#create-a-new-person-on-the-tablet}
+## Crea una nuova persona sul Tablet PC {#create-a-new-person-on-the-tablet}
 
 Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel database Marketo. Verranno automaticamente archiviate e aggiunte al database al momento della sincronizzazione con Marketo.
 
-1. Fare clic su **Aggiungi**.
+1. Fai clic su **Aggiungi**.
 
    **iPad**
 
@@ -95,7 +94,7 @@ Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel databa
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Compila tutti i campi di informazioni di base possibili e tocca **Fine**.
+1. Completa tutti i campi informazioni di base che puoi e tocca **Fine**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -111,9 +110,9 @@ La nuova persona viene registrata come ha effettuato l&#39;accesso all&#39;event
 
 ## Invertire un Check-In {#reverse-a-check-in}
 
-Se hai selezionato una persona per errore _prima di eseguire la sincronizzazione con Marketo_, puoi invertire lo stato Partecipante.
+Se hai controllato una persona per errore, _prima della sincronizzazione con Marketo_, è possibile annullare lo stato Partecipante.
 
-1. Toccare il nome nell’elenco e nel record della persona toccare **Annulla**.
+1. Tocca il nome nell’elenco e, nel record della persona, tocca **Annulla**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -123,7 +122,7 @@ Se hai selezionato una persona per errore _prima di eseguire la sincronizzazione
 
 Puoi aggiungere e modificare le informazioni sugli ospiti, direttamente all&#39;evento!
 
-1. Toccare il nome nell&#39;elenco delle persone e toccare **Modifica**.
+1. Tocca il nome nell’elenco delle persone e tocca **Modifica**.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
@@ -133,11 +132,11 @@ Puoi aggiungere e modificare le informazioni sugli ospiti, direttamente all&#39;
 
    >[!NOTE]
    >
-   >In Android, il pulsante **Fine** può essere nascosto. Scorri verso il basso per trovarlo.
+   >In Android, il **Fine** Questo pulsante può essere nascosto. Scorri verso il basso per trovarlo.
 
 Le informazioni vengono aggiornate al momento della sincronizzazione dell’app con Marketo.
 
-## Sincronizza l&#39;app con Marketo {#sync-the-app-with-marketo}
+## Sincronizza l’app con Marketo {#sync-the-app-with-marketo}
 
 L’app Marketo Events funziona in modo indipendente finché non sincronizzi nuovamente l’attività al database Marketo. È consigliabile eseguire la sincronizzazione il prima possibile dopo l’ultimo check-in. Il tablet deve essere connesso a Internet.
 
@@ -147,13 +146,13 @@ L’app Marketo Events funziona in modo indipendente finché non sincronizzi nuo
 
 1. Sul tablet, apri l’app e accedi all’evento.
 
-1. Tocca **Sincronizza**.
+1. Tocca **Sincronizzazione**.
 
    L&#39;evento viene aggiornato con nuovi check-in nel database Marketo. Il contatore rosso sul pulsante Sincronizza si cancella finché non si verifica l&#39;inserimento di un altro utente.
 
    Per motivi di sicurezza, dopo aver completato la sincronizzazione dovresti chiudere l’app Marketo Events.
 
-## Utilizzo di Accesso Internet limitato {#working-with-limited-internet-access}
+## Utilizzo dell&#39;accesso a Internet limitato {#working-with-limited-internet-access}
 
 Alcuni luoghi hanno un accesso a Internet scarso. È necessaria una buona connessione a:
 

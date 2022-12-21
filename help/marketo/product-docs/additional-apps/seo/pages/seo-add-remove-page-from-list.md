@@ -3,7 +3,6 @@ unique-page-id: 2949218
 description: SEO - Aggiungi/rimuovi pagina dall’elenco - Marketo Docs - Documentazione del prodotto
 title: SEO - Aggiungi/rimuovi pagina dall’elenco
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -17,11 +16,11 @@ Vuoi gestire le tue pagine? È possibile farlo facilmente creando un elenco. È 
 
 ## Aggiungi pagina a un elenco {#add-page-to-a-list}
 
-1. Vai alla sezione **Pagine** .
+1. Vai a **Pagine** sezione .
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passa il puntatore del mouse sulla pagina da aggiungere a un elenco. Fare clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il puntatore del mouse sulla pagina da aggiungere a un elenco. Fai clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +48,7 @@ Yay! A questo punto dovrebbe essere visualizzata la pagina aggiunta all’elenco
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passa il puntatore del mouse sulla pagina da rimuovere. Fare clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il puntatore del mouse sulla pagina da rimuovere. Fai clic su **Aggiungi/Rimuovi da elenco**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

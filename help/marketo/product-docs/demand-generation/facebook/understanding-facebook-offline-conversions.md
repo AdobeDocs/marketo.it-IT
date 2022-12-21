@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11383945
-description: Informazioni sulle conversioni offline di Facebook - Documenti Marketo - Documentazione prodotto
+description: Informazioni sulle conversioni offline di Facebook - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle conversioni offline di Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-
 # Informazioni sulle conversioni offline di Facebook {#understanding-facebook-offline-conversions}
 
-Le campagne lead Ads di Facebook generano lead e li inviano a Marketo per l&#39;utilizzo nelle campagne di marketing. Tuttavia, senza visibilità nelle conversioni offline, l&#39;inserzionista Facebook non può sapere quali annunci sono più efficaci. Ecco un esempio.
+Le campagne facebook Lead Ads generano lead e li inviano a Marketo per l’utilizzo nelle campagne di marketing. Tuttavia, senza visibilità nelle conversioni offline, l&#39;inserzionista Facebook non può sapere quali annunci sono più efficaci. Ecco un esempio.
 
 >[!NOTE]
 >
@@ -21,31 +20,27 @@ Le campagne lead Ads di Facebook generano lead e li inviano a Marketo per l&#39;
 >
 >Facebook Lead Ads esegue tre annunci.
 >
->* Ad 1 genera 20 lead
->* Ad 2 genera 30 lead
->* Ad 3 genera 50 lead
+>* L’annuncio 1 genera 20 lead
+>* L’annuncio 2 genera 30 lead
+>* L’annuncio 3 genera 50 lead
+>
+>Basato solo su questi numeri, l&#39;Ad 3 sembra il più efficace.
+>
+>Tuttavia, quando si esaminano i dati sul lato Marketo, si sviluppa una storia diversa.
+>
+>* L’annuncio 1 genera 10 vendite
+>* L&#39;annuncio 3 genera 2 vendite
+>
+>Ciò significa che l&#39;Ad 1, nonostante generasse meno lead, aveva un tasso di successo del 50%, mentre l&#39;Ad 3 non era affatto efficace.
+>
+>Senza conversioni offline, l&#39;inserzionista probabilmente investirà più denaro in Ad 3. Con i dati di conversione offline, l’inserzionista probabilmente investirà in Ad 1.
 
->
->
-Basandosi solo su questi numeri, Ad 3 sembra il più efficace.
->
->Tuttavia, quando si esaminano i dati dal lato di Marketo, si sviluppa una storia diversa.
->
->* L&#39;annuncio 1 genera 10 vendite
->* Ad 3 genera 2 vendite
+È possibile [configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
 
->
->
-Ciò significa che l&#39;annuncio 1, nonostante avesse generato meno lead, aveva un tasso di successo del 50%, mentre l&#39;annuncio 3 non era affatto efficace.
->
->Senza le conversioni offline, l&#39;inserzionista probabilmente investirebbe più soldi in Ad 3. Con i dati di conversione offline, l&#39;inserzionista investirà più probabilmente in Ad 1.
-
-Potete [configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
-
-1. Accertati che l&#39;integrazione di [Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) sia aggiornata.
-1. Mappa le fasi del modello del ciclo di ricavi sulle fasi di conversione offline su Facebook.
-1. Quando un lead Facebook viene generato da un annuncio lead Facebook e raggiunge una fase mappata, Marketo invia i dati di conversione offline a Facebook diverse volte al giorno tramite un&#39;API sicura e automatizzata. I dati vengono visualizzati nel report Facebook Ads Manager (Gestione annunci Facebook).
+1. Assicurati che [Integrazione facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) è aggiornato.
+1. Mappa le fasi nel modello del ciclo di ricavi alle fasi di conversione offline su Facebook.
+1. Quando un lead Facebook viene generato da un annuncio lead Facebook e raggiunge una fase mappata, Marketo invia i dati di conversione offline a Facebook diverse volte al giorno tramite un’API sicura e automatizzata. I dati vengono visualizzati nel rapporto di Facebook Ads Manager.
 
 >[!MORELIKETHIS]
 >
->[Configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[Configurazione delle conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

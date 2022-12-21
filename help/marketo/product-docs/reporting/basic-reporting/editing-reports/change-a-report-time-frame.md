@@ -1,51 +1,50 @@
 ---
 unique-page-id: 2359968
-description: Modificare un intervallo di tempo per il rapporto - Documenti Marketo - Documentazione del prodotto
-title: Modifica di un intervallo di tempo per il rapporto
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Modificare un intervallo di tempo per un rapporto - Documenti Marketo - Documentazione del prodotto
+title: Modificare un intervallo di tempo per un rapporto
+exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
+# Modificare un intervallo di tempo per un rapporto {#change-a-report-time-frame}
 
-# Modificare un intervallo di tempo per il rapporto {#change-a-report-time-frame}
+Modifica il periodo di tempo coperto dal rapporto, per concentrarti su un momento di attività specifico.
 
-Modificate il periodo di tempo coperto dal rapporto, per concentrarvi su un periodo di attività specifico.
-
-1. Andate all&#39;area **Attività di marketing** (o **Analytics**).
+1. Vai a **Attività di marketing** o **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Selezionate il rapporto dalla struttura di navigazione e fate clic sulla scheda **Configurazione**.
+1. Seleziona il rapporto dalla struttura di navigazione e fai clic sul pulsante **Configurazione** scheda .
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
-1. Fate doppio clic sul campo dell’intervallo di tempo, con un’etichetta diversa a seconda del tipo di rapporto:
+1. Fai doppio clic sul campo dell’intervallo di tempo, etichettato in modo diverso a seconda del tipo di rapporto:
 
-   * **Persona creata a**, rapporti di persona
-   * **Data** invio, nei rapporti e-mail
-   * **Data attività**, in tutti gli altri rapporti
+   * **Persona creata in** rapporti personali
+   * **Data invio**, nei rapporti e-mail
+   * **Data dell’attività** in tutti gli altri rapporti
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**Persona creata** Atriferisce al momento in cui la persona è diventata nota nel database.
+   >**Persona creata in** si riferisce al momento in cui la persona è stata conosciuta nel tuo database.
 
-1. Scegliete l’intervallo di tempo appropriato dal menu a discesa.
+1. Scegli l’intervallo di tempo appropriato dal menu a discesa.
 
    ![](assets/image2017-3-27-9-3a58-3a40.png)
 
    >[!TIP]
    >
-   >Per impostare date specifiche, selezionare **Personalizzato** dal menu a discesa e immettere le date nei campi di calendario **From** e **To**.
+   >Per impostare date specifiche, seleziona **Personalizzato** dal menu a discesa e immetti le date nel **Da** e **A** campi calendario.
 
-   Fare clic sulla scheda **Report** per visualizzare il rapporto per l&#39;intervallo di tempo selezionato.\
+   Fai clic sul pulsante **Rapporto** per visualizzare il report per l&#39;intervallo di tempo selezionato.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
    >
-   >Per limitare il rapporto in base ad attributi di persona specifici, potete [filtrare le persone in un rapporto con un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
+   >Per limitare il rapporto in base ad attributi di persona specifici, puoi [Filtrare le persone in un rapporto con un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).

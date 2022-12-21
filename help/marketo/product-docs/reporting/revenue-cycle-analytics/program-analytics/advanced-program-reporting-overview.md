@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2953144
-description: Panoramica sulla generazione di rapporti dei programmi avanzati - Documenti Marketo - Documentazione sui prodotti
-title: Panoramica di Advanced Program Reporting
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Panoramica della generazione di rapporti sui programmi avanzati - Documenti Marketo - Documentazione del prodotto
+title: Panoramica della generazione di rapporti sui programmi avanzati
+exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
+# Panoramica della generazione di rapporti sui programmi avanzati {#advanced-program-reporting-overview}
 
-# Panoramica sulla generazione di rapporti sul programma avanzata {#advanced-program-reporting-overview}
-
-**Revenue Cycle** Explorerinclude diverse aree di analisi e un&#39;ampia gamma di nuove metriche che consentono di misurare l&#39;efficacia del programma.
+**Esplora ricavi** include diverse aree di analisi e un’ampia gamma di nuove metriche che consentono di misurare l’efficacia del programma.
 
 ![](assets/rev.png)
 
-Ci sono molte belle qui dentro. Controlliamole!
+Ci sono molte buone qui dentro. Controlliamole!
 
 ![](assets/image2015-4-30-10-3a15-3a17.png)
 
-## Cos&#39;è un&#39;area di analisi? {#whats-an-analysis-area}
+## Cos’è un’area di analisi? {#whats-an-analysis-area}
 
-Ciascuna area di analisi contiene set di dati e metriche diversi in Esplora entrate. Ogni area è correlata all’oggetto di reporting che avete scelto di visualizzare.
+Le aree di analisi contengono set di dati e metriche diversi in Esplora ricavi. Ogni area si riferisce all’oggetto di reporting che hai scelto di visualizzare.
 
-## Aree di analisi dei programmi {#program-analysis-areas}
+## Aree di analisi del programma {#program-analysis-areas}
 
-* **[Analisi](understanding-the-program-cost-analysis-area.md)**  dei costi del programma - Visualizzare il ROI di tutti i programmi.
+* **[Analisi dei costi del programma](understanding-the-program-cost-analysis-area.md)** - Visualizzare il ROI di tutti i programmi.
 
-* **[Analisi](understanding-the-program-membership-analysis-area.md)**  dell&#39;appartenenza al programma - Visualizzare i risultati per canale, partecipazione, criteri di successo, ecc.
+* **[Analisi dell&#39;appartenenza al programma](understanding-the-program-membership-analysis-area.md)** - Visualizza i risultati per canale, partecipazione, criteri di successo, ecc.
 
-* **[Analisi](understanding-the-program-opportunity-analysis-area.md)**  delle opportunità del programma - Opportunità generate in base alla distribuzione, alle entrate e al ROI.
+* **[Analisi delle opportunità del programma](understanding-the-program-opportunity-analysis-area.md)** - Opportunità generate in base alla distribuzione, ai ricavi e al ROI.
 
-* **[Analisi](understanding-the-program-revenue-stage-analysis-area.md)**  fase ricavi programma - Nuovi nomi che hanno raggiunto stadi di successo particolari all&#39;interno del modello del ciclo di ricavi.
+* **[Analisi della fase di ricavo del programma](understanding-the-program-revenue-stage-analysis-area.md)** - Nuovi nomi che hanno raggiunto particolari fasi di successo all&#39;interno del modello del ciclo dei ricavi.
 
-## Analisi programmi {#program-analyzers}
+## Analisi dei programmi {#program-analyzers}
 
-* **Analisi**  programmi: consente di identificare rapidamente i programmi che hanno esito positivo o meno e di concentrare le risorse in modo appropriato.
+* **Analisi del programma** - Identificare rapidamente i programmi che hanno successo o meno e concentrare le risorse in modo appropriato.
 
-* **Opportunity Influence Analyzer**  - Dimostra il contributo del marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
+* **Analisi dell’influenza delle opportunità** - Dimostrare il contributo di Marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
 
-## Opzioni report {#report-options}
+## Opzioni rapporto {#report-options}
 
-In ciascun rapporto sono disponibili diverse opzioni per facilitare la personalizzazione dell&#39;esperienza.
+In ciascun rapporto sono disponibili diverse opzioni per personalizzare l’esperienza.
 
 ![](assets/report-options.png)
 
 >[!CAUTION]
 >
->Anche se è possibile visualizzare Righe/Colonne in cui la cella Misura è lasciata vuota (prima casella di controllo), è consigliabile non eseguire questa operazione, in quanto potrebbe rallentare l&#39;elaborazione e potrebbe addirittura interrompere il rapporto.
+>Anche se hai l’opzione di mostrare Righe/Colonne in cui la cella Misura viene lasciata vuota (prima casella di controllo), sconsigliamo di eseguire questa operazione, in quanto potrebbe rallentare l’elaborazione e potrebbe addirittura causare il timeout del rapporto.
 
 >[!NOTE]
 >
->I dati in Revenue Cycle Explorer si aggiornano di notte dall&#39;istanza di Marketo. Di conseguenza, qualsiasi modifica nell&#39;attività personale e account all&#39;interno di Marketo verrà riflessa il giorno lavorativo successivo in Esplora ciclo di ricavi.
+>I dati in Revenue Cycle Explorer si aggiornano di notte dalla tua istanza di Marketo. Di conseguenza, qualsiasi modifica nell&#39;attività personale e dell&#39;account all&#39;interno di Marketo verrà riflessa nel giorno lavorativo successivo in Revenue Cycle Explorer.
 
-Acquisire familiarità con l&#39;analisi dei ricavi ti darà una visione completa dei tuoi programmi e del loro impatto.
+Acquisire familiarità con l’analisi dei ricavi ti fornirà informazioni approfondite sui tuoi programmi e sul loro impatto.

@@ -1,14 +1,13 @@
 ---
 description: Scheda E-mail - Documenti Marketo - Documentazione del prodotto
 title: Scheda E-mail
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Scheda E-mail {#email-tab}
 
@@ -39,5 +38,5 @@ Puoi fare clic sul pulsante &quot;Verifica stato consegna&quot; per aprire una n
 >[!NOTE]
 >
 >* Lo stato di consegna per le e-mail inviate da Sales Insight da Salesforce CRM non è disponibile.
->* Questa scheda riflette il nome del modello per le e-mail inviate da Marketo e la riga dell’oggetto per le e-mail inviate da Sales Insight. Apri in modalità anteprima per visualizzare l’oggetto delle e-mail inviate o fai riferimento alla scheda e-mail nel pannello lead/contatti/account/opportunità .
+>* Questa scheda riflette il nome del modello per le e-mail inviate da Marketo e la riga dell’oggetto per le e-mail inviate da Sales Insight. Apri in modalità anteprima per visualizzare l’oggetto delle e-mail inviate o fai riferimento alla scheda e-mail nel pannello lead/contact/account/opportunità .
 

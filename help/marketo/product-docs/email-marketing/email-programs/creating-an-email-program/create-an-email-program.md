@@ -1,39 +1,38 @@
 ---
 unique-page-id: 1900591
-description: Creare un programma e-mail - Documenti Marketo - Documentazione prodotto
+description: Creare un programma e-mail - Documenti Marketo - Documentazione del prodotto
 title: Creare un programma e-mail
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-
 # Creare un programma e-mail {#create-an-email-program}
 
-Utilizzate i programmi e-mail per inviare rapidamente e facilmente un&#39;e-mail a un gruppo di persone.
+Utilizza i programmi e-mail per inviare un’e-mail in modo rapido e semplice a gruppi di persone.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/one.png)
 
-1. Selezionare la cartella in cui si desidera creare il programma, fare clic sul menu a discesa **Nuovo** e selezionare **Nuovo programma**.
+1. Seleziona la cartella in cui desideri creare il programma, fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuovo programma**.
 
    ![](assets/two.png)
 
-1. Immettere un nome, selezionare **E-mail** come tipo di programma, quindi fare clic su **Crea**.
+1. Immettere un nome, selezionare **E-mail** come Tipo di programma e fai clic su **Crea**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Quando si seleziona **E-mail** come tipo di programma, il canale verrà impostato automaticamente su **Invia per e-mail**. Può cambiarlo se vuole.
+   >Quando si seleziona **E-mail** come Tipo di programma, il Canale viene automaticamente impostato su **Invia e-mail**. Può cambiarla se vuole.
 
    ![](assets/four.png)
 
-Bello! Notate che il programma è ora nella struttura ad albero e pronto per essere utilizzato. Il passo successivo sarà quello di definire il pubblico. Consulta gli articoli correlati al marketing di seguito.
+Bello! Il programma è ora nell&#39;albero e pronto per essere utilizzato. Il passaggio successivo consiste nel definire il pubblico. Vedi gli articoli correlati a Marketo di seguito.
 
 >[!MORELIKETHIS]
 >

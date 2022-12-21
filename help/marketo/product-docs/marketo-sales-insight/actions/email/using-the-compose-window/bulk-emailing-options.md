@@ -5,7 +5,7 @@ exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -35,7 +35,7 @@ L&#39;invio di e-mail in blocco è un ottimo modo per accelerare il tuo coinvolg
   </tr> 
   <tr> 
    <td>E-mail gruppo</td> 
-   <td>1.000</td> 
+   <td>1,000</td> 
    <td>Selezionare un gruppo e fare clic sul pulsante "Azioni gruppo" oppure digitare il nome del gruppo nel campo A.</td> 
    <td>Sì</td> 
    <td>No</td> 

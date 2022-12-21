@@ -16,11 +16,11 @@ Le seguenti funzionalità sono incluse nella versione di ottobre 2013.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) illustra i modelli e-mail e di pagina di destinazione (inclusi i modelli e-mail per dispositivi mobili reattivi) scaricabili dalla libreria dei programmi di Marketo. Aggiungeremo modelli mensili, torna spesso!
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) mostra i modelli e-mail e delle pagine di destinazione (inclusi i modelli e-mail per dispositivi mobili reattivi) scaricabili dalla libreria dei programmi di Marketo. Aggiungeremo modelli mensili, torna spesso!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](https://developers.marketo.com) comis per gli sviluppatori che desiderano creare integrazioni in Marketo. È possibile fare riferimento a diverse opzioni di integrazione, tra cui API JavaScript Munchkin, esempi di codice API SOAP, hook web e script e-mail. Un SDK Java è disponibile anche su [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.com](https://developers.marketo.com) è per gli sviluppatori che desiderano creare integrazioni in Marketo. È possibile fare riferimento a diverse opzioni di integrazione, tra cui API JavaScript Munchkin, esempi di codice API SOAP, hook web e script e-mail. Un SDK Java è disponibile anche in [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Scheda evento BrightTALK aggiornata {#updated-brighttalk-event-adapter}
 
@@ -28,4 +28,4 @@ Sincronizza altri campi da BrightTALK a Marketo, tra cui Nome società, Titolo l
 
 ## App per il check-in di eventi del Tablet Android {#android-tablet-event-check-in-app}
 
-Controlla gli utenti registrati nel tuo evento utilizzando il nostro nuovo [assegno basato su Android in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponibile su [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Controlla i registratori nel tuo evento utilizzando il nostro nuovo [App di archiviazione basata su Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponibile su [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

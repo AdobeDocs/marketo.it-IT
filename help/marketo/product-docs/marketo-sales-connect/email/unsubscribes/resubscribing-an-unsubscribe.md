@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746177
-description: Ripristino dell’abbonamento a un servizio Annulla sottoscrizione - Documenti Marketo - Documentazione del prodotto
+description: Ripristino dell’abbonamento e annullamento dell’abbonamento - Documenti Marketo - Documentazione del prodotto
 title: Registrazione di un annullamento dell’abbonamento
-translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
-# Ripristino di un abbonamento {#resubscribing-an-unsubscribe}
+# Registrazione di un annullamento dell’abbonamento {#resubscribing-an-unsubscribe}
 
 A volte le persone vogliono tornare a ricevere le e-mail. Ecco come rendere nuovamente gli abbonamenti più mailing.
 
@@ -27,17 +26,17 @@ A volte le persone vogliono tornare a ricevere le e-mail. Ecco come rendere nuov
 >
 >Se la sincronizzazione per l’annullamento dell’abbonamento è attivata, devi rimuovere l’iscrizione da ToutApp e deselezionare l’opzione di rinuncia in Salesforce affinché il record della persona non si sincronizzi di nuovo.
 
-1. Vai all&#39; [applicazione web](https://toutapp.com/login) e fai clic su **Persone**.
+1. Vai a [applicazione web](https://toutapp.com/login) e fai clic su **Persone**.
 
 1. Selezionare la persona per aprire la visualizzazione dei dettagli della persona.
 
    ![](assets/two.png)
 
-1. Fare clic sui tre punti nella visualizzazione dei dettagli della persona e selezionare **Rimuovi annullamento sottoscrizione**.
+1. Fare clic sui tre punti nella visualizzazione dettagli persona e selezionare **Rimuovi annullamento sottoscrizione**.
 
    ![](assets/three.png)
 
-1. Seleziona il motivo per cui l’utente ha acconsentito alla ricezione di e-mail, quindi fai clic su **Rimuovi annullamento sottoscrizione**.
+1. Seleziona il motivo per cui la persona viene nuovamente acconsentito alla ricezione di e-mail, quindi fai clic su **Rimuovi annullamento sottoscrizione**.
 
    ![](assets/four.png)
 

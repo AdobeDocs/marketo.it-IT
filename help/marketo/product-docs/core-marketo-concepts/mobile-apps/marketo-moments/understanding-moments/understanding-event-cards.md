@@ -3,7 +3,6 @@ unique-page-id: 8781974
 description: Informazioni sulle schede degli eventi - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle schede evento
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Informazioni sulle schede evento {#understanding-event-cards}
 
-Utilizza Marketo Moments per visualizzare i programmi dell&#39;evento sul tuo telefono o iPad.
+Utilizza Marketo Moments per visualizzare i programmi degli eventi sul telefono o iPad.
 
 Quando tocchi una scheda del programma e-mail puoi:
 

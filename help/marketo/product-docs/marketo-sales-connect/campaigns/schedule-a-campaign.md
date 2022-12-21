@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352612
-description: Pianificazione di una campagna - Documenti Marketo - Documentazione prodotto
-title: Pianificazione di una campagna
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Pianificazione di una campagna - Documentazione di Marketo - Documentazione del prodotto
+title: Pianificare una campagna
+exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Pianificare una campagna {#schedule-a-campaign}
 
-# Pianificazione di una campagna {#schedule-a-campaign}
+Puoi pianificare ogni singolo passaggio e-mail della campagna in modo che venga inviato a un momento specifico, oppure scegliere ogni passaggio e-mail successivo da uscire contemporaneamente alla prima e-mail della campagna.
 
-Potete pianificare ogni singolo passaggio e-mail della campagna in modo che venga inviato alla data e all&#39;ora specificate, oppure scegliere ogni successivo passaggio e-mail in modo che venga inviato contemporaneamente al primo messaggio e-mail della campagna.
+Tutto ciò che devi fare è scegliere quando desideri che le tue e-mail vengano inviate quando crei la tua campagna.
 
-È sufficiente scegliere quando inviare i messaggi e-mail al momento della creazione della campagna.
+Se non hai pianificato il tuo primo passaggio o hai bisogno di scegliere l’ora &quot;Invia a&quot;, ti verrà chiesto di scegliere quando inviare la tua campagna, ogni volta che aggiungi una persona o un gruppo.
 
-Se non hai pianificato il primo passaggio o hai bisogno di scegliere l&#39;ora &quot;Invia a&quot;, ti verrà chiesto di scegliere quando inviare la campagna, ogni volta che aggiungi una persona o un gruppo.
+Apri il modale Aggiungi a campagna , aggiungendo singoli utenti, un gruppo o persone selezionate e fai clic su **Successivo**.
 
-Aprite il modale Aggiungi alla campagna, aggiungendo individui, un gruppo o persone selezionate, quindi fate clic su **Avanti**.
+Dopo aver fatto clic su **Successivo**, puoi visualizzare in anteprima il primo messaggio e-mail.
 
-Dopo aver fatto clic su **Next**, potete visualizzare in anteprima il primo messaggio e-mail.
-
-Dopo aver fatto di nuovo clic su **Next**, verrà visualizzata un&#39;opzione per il momento in cui si desidera uscire dalla campagna. È possibile avviarlo ora oppure pianificare un&#39;ora per avviare la campagna in un secondo momento.
+Dopo aver fatto clic su **Successivo** di nuovo, scegli un’opzione per quando vuoi che la campagna esca. È possibile avviarlo ora oppure pianificare un’ora per l’inizio della campagna in un secondo momento.

@@ -1,13 +1,12 @@
 ---
 unique-page-id: 10092969
 description: Filtro Microsoft Dynamics Sync -Merge - Documenti Marketo - Documentazione del prodotto
-title: Filtro di sincronizzazione di Microsoft Dynamics -Merge
+title: Filtro di sincronizzazione Microsoft Dynamics -Merge
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -22,6 +21,6 @@ I record lead diventano true o false in base alle regole del flusso di lavoro de
 | Se il filtro di sincronizzazione per il record di perdita è: | e il filtro di sincronizzazione per il record vincente è: | Questo è il risultato in Marketo |
 |---|---|---|
 | True | True | Il record vincente continua la sincronizzazione con Marketo |
-| False | False | Il record vincente continua a **non** sincronizzarsi con Marketo |
+| False | False | Il record vincente continua a **not** sincronizzazione con Marketo |
 | False | True | Il record vincente verrà sincronizzato con Marketo |
 | True | False | Il record vincente non verrà sincronizzato con Marketo |

@@ -3,7 +3,6 @@ unique-page-id: 10097584
 description: Stato di sincronizzazione - Documentazione Marketo - Documentazione del prodotto
 title: Stato di sincronizzazione
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
@@ -21,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Fare clic sulla scheda **Stato sincronizzazione**.
+1. Fai clic sul pulsante **Stato di sincronizzazione** scheda .
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Fai clic sul menu a discesa **Visualizza:** e seleziona **Ultima ora** per visualizzare le informazioni sul throughput.
+1. Fai clic sul pulsante **Visualizza:** a discesa e seleziona **Ultima ora** per visualizzare le informazioni sul throughput.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

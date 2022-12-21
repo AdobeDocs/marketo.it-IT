@@ -2,22 +2,21 @@
 unique-page-id: 14352407
 description: Panoramica del canale di consegna - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del canale di consegna
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
 
 ---
 
-
 # Panoramica del canale di consegna {#delivery-channel-overview}
 
 Marketo Sales Connect offre diverse opzioni per la consegna delle e-mail. Questo articolo esaminerà i canali di consegna che puoi sfruttare, come selezionarli e quando sceglierli tra loro.
 
-## Consigliato: Gmail o Exchange tramite Connessione e-mail {#recommended-gmail-or-exchange-via-email-connection}
+## Consigliato: Gmail o Exchange tramite connessione e-mail {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect consente una configurazione semplificata e un miglioramento del recapito messaggi attraverso il nostro servizio Email Connection. La connessione e-mail consente a ogni utente di connettersi al proprio account [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) o [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) a Sales Connect per essere utilizzato come canale di consegna scelto per tutte le e-mail di Sales Connect.
+Sales Connect consente una configurazione semplificata e un miglioramento del recapito messaggi attraverso il nostro servizio Email Connection. La connessione e-mail consente a ogni utente di connettersi ai propri [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) o [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) account a Sales Connect da utilizzare come canale di consegna scelto per tutte le e-mail di Sales Connect.
 
 L&#39;utilizzo di Gmail o Exchange presenta alcuni vantaggi rispetto ad altre opzioni di canale di consegna:
 
@@ -25,13 +24,13 @@ L&#39;utilizzo di Gmail o Exchange presenta alcuni vantaggi rispetto ad altre op
 * I metodi di autenticazione come SPF e DKIM sono già configurati e gestiti dal team IT, quindi non è disponibile alcuna configurazione aggiuntiva.
 * L’invio di e-mail all’interno di una determinata rete e-mail (ad esempio, l’invio di un’e-mail come utente di Exchange a un’azienda che riceve e-mail tramite Exchange) può contribuire ad aumentare ulteriormente il recapito messaggi.
 
-È importante notare che questi canali di consegna hanno i propri limiti di invio che vengono applicati da Microsoft e Google. Per combatterlo, utilizziamo un meccanismo di limitazione per aiutare gli utenti a rimanere entro questi limiti. Ulteriori informazioni sulla [limitazione delle e-mail qui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+È importante notare che questi canali di consegna hanno i propri limiti di invio che vengono applicati da Microsoft e Google. Per combatterlo, utilizziamo un meccanismo di limitazione per aiutare gli utenti a rimanere entro questi limiti. Ulteriori informazioni [limitazione e-mail](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
 >Per impostazione predefinita, il plugin O365 utilizzerà sempre il tuo canale di consegna scambio e il plugin Gmail utilizzerà sempre il tuo canale di consegna Gmail per inviare e-mail dai plugin.
 
-**Tracciamento** messaggi non recapitati: MSC è in grado di rilevare i messaggi non recapitati per gli utenti di Exchange Online o Gmail rilevando il messaggio non recapitato inviato alla casella in entrata del mittente. Queste notifiche rimbalzate verranno raggruppate nelle notifiche di analisi dei modelli, Campaign Analytics e Live Feed per gli utenti. Il tracciamento non recapitato non è supportato per i clienti Exchange On-Prem.
+**Tracciamento messaggi non recapitati**: MSC è in grado di rilevare i messaggi non recapitati per gli utenti di Exchange Online o Gmail rilevando il messaggio non recapitato inviato alla casella in entrata del mittente. Queste notifiche rimbalzate verranno raggruppate nelle notifiche di analisi dei modelli, Campaign Analytics e Live Feed per gli utenti. Il tracciamento non recapitato non è supportato per i clienti Exchange On-Prem.
 
 ## Canale di consegna personalizzato tramite SMTP {#custom-delivery-channel-via-smtp}
 
@@ -49,7 +48,7 @@ I server MSC non supportano i metodi di autenticazione DKIM e SPF, che possono r
 
 ## Server Marketo {#marketo-servers}
 
-I server e-mail Marketo non si integrano con Sales Connect. I server Marketo sono ottimizzati per la distribuzione in blocco e consentono di scalare le risorse in base alle esigenze degli esperti di marketing. Tuttavia, Gmail e Exchange hanno un tasso di successo più elevato per le comunicazioni di vendita 1:1, motivo per cui si consiglia di utilizzare questi server per le comunicazioni di vendita.
+I server e-mail Marketo non si integrano con Sales Connect. I server Marketo sono ottimizzati per la distribuzione in serie e consentono di scalare le risorse in base alle esigenze degli addetti al marketing. Tuttavia, Gmail e Exchange hanno un tasso di successo più elevato per le comunicazioni di vendita 1:1, motivo per cui si consiglia di utilizzare questi server per le comunicazioni di vendita.
 
 >[!MORELIKETHIS]
 >

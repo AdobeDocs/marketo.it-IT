@@ -1,37 +1,36 @@
 ---
 unique-page-id: 14352475
-description: Installazione dei campi evento di vendita Connect sulla cronologia attività - Documenti Marketo - Documentazione prodotto
-title: Installazione dei campi evento di vendita Connect nella cronologia attività
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Installa i campi evento Sales Connect nella cronologia delle attività - Marketo Docs - Documentazione del prodotto
+title: Installa i campi evento Sales Connect nella cronologia delle attività
+exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
+# Installa i campi evento Sales Connect nella cronologia delle attività {#install-sales-connect-event-fields-on-activity-history}
 
-# Installazione dei campi evento di vendita Connect nella cronologia attività {#install-sales-connect-event-fields-on-activity-history}
+Una volta installato il pacchetto Enterprise in Salesforce, è possibile installare i campi evento Sales Connect nella sezione della cronologia delle attività. I campi evento di vendita Connect includono informazioni quali visualizzazioni, clic e campagne. Questo ti consente di importare direttamente in Salesforce le informazioni sulle e-mail.
 
-Una volta installato il pacchetto Enterprise in Salesforce, potete installare i campi evento di Sales Connect nella sezione Cronologia attività. I campi evento di Connect per le vendite includono informazioni quali visualizzazioni, clic e campagne. Questo consente di avere informazioni sulle e-mail importate direttamente in Salesforce.
+Assicurati di collaborare con il tuo amministratore Salesforce quando esegui questi passaggi. In questo esempio verranno installati i campi nel **Lead del layout di pagina**. È inoltre possibile installare i campi nei layout della pagina Contatto, Account e Opportunità. Ricorda che, quando esegui la registrazione delle e-mail sugli account e sulle opportunità, avrai bisogno del contatto a cui ti stai associando come ruolo di contatto.
 
-Quando esegui questi passaggi, assicurati di collaborare con l&#39;amministratore Salesforce. In questo esempio i campi verranno installati sul **Layout pagina lead**. È inoltre possibile installare i campi nei layout Contatto, Account e Pagina opportunità. Ricorda: quando accedi alle e-mail agli account e alle opportunità, avrai bisogno del contatto a cui stai inviando un&#39;e-mail come ruolo di contatto.
-
-1. Fare clic su **Setup**.
-1. Fare clic su **Personalizza**.
-1. Fare clic su **Lead**.
-1. Fare clic su **Layout di pagina**.
-1. Fare clic su **Modifica** accanto al layout della pagina che si desidera modificare.
+1. Fai clic su **Configurazione**.
+1. Fai clic su **Personalizza**.
+1. Fai clic su **Lead**.
+1. Fai clic su **Layout di pagina**.
+1. Fai clic su **Modifica** accanto al layout di pagina che si desidera modificare.
 
    >[!NOTE]
    >
-   >Sales Connect vi installerà alcuni layout di pagina, ma se ne avete già uno predefinito che il team sta utilizzando, sarà necessario installarlo. Potete eliminare i layout di pagina di Connect vendite se non desiderate utilizzarli.
+   >Sales Connect vi installerà alcuni layout di pagina, ma se ne avete già uno predefinito che il vostro team sta utilizzando, vorrete installarlo lì. È possibile eliminare i layout di pagina di Sales Connect se non si desidera utilizzarli.
 
-1. Scorri verso il basso fino alla sezione Cronologia attività.
-1. Fare clic sulla chiave inglese da modificare.
-1. Selezionate i campi di vendita Connect che desiderate includere nella sezione Cronologia attività. Se non visualizzi qui i campi di Connect per le vendite, potresti aver installato il pacchetto Salesforce sbagliato.
-1. Fare clic su **Aggiungi** per spostare i campi desiderati.
-1. Fare clic su **OK**.
-1. Fare clic su **Salva**.
+1. Scorri verso il basso fino alla sezione Cronologia attività .
+1. Fai clic sulla chiave inglese da modificare.
+1. Selezionare i campi Connetti alle vendite che si desidera includere nella sezione Cronologia attività. Se i campi di vendita Connect non sono visualizzati, è possibile che sia stato installato il pacchetto Salesforce errato.
+1. Fai clic su **Aggiungi** per spostare i campi desiderati.
+1. Fai clic su **OK**.
+1. Fai clic su **Salva**.
 
-   I tuoi utenti possono ora visualizzare informazioni e aggiornamenti preziosi sulle loro e-mail in Salesforce!
+   Gli utenti possono ora vedere informazioni e aggiornamenti utili sulle loro e-mail in Salesforce!

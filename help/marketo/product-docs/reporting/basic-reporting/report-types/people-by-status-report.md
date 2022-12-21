@@ -1,32 +1,31 @@
 ---
 unique-page-id: 2360012
-description: Rapporto Persone per stato - Documenti Marketo - Documentazione prodotto
-title: Report Persone per stato
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Rapporto Persone per stato - Documenti Marketo - Documentazione del prodotto
+title: Rapporto Persone per stato
+exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
+# Rapporto Persone per stato {#people-by-status-report}
 
-# Report Persone per stato {#people-by-status-report}
+Controlla quanto bene stai spostando le persone attraverso il processo controllando quanti di loro appaiono in ogni _Stato persona_ ogni mese.
 
-Verificare la qualità del movimento delle persone attraverso il processo, verificando il numero di persone visualizzate in ogni _Stato persona_ valore mensile.
+1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona la **Persone per stato** [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Create un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapporto e selezionate il tipo di rapporto  **Persone per** [stato](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Impostare l&#39;intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic su **Rapporto** scheda .
 
-1. [Impostate l&#39;intervallo di tempo del ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) rapporto e fate clic sulla scheda  **** Rapporto.
-
-1. Fantastico! Ora puoi vedere quante persone si trovavano in ogni stato Persona, da mese a mese.
+1. Fantastico! Ora puoi vedere quante persone si trovavano in ogni Stato persona, da mese a mese.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 
    >[!TIP]
    >
-   >Fare clic sul segno più (+) per espandere ogni mese e visualizzare i numeri specifici per ogni stato di persona.
+   >Fai clic sul segno più (+) per espandere ogni mese e visualizzare i numeri specifici per ogni stato di persona.
 
    >[!MORELIKETHIS]
    >
-   >[Utilizzate un elenco avanzato per filtrare il ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) rapporto per persone specifiche.
+   >[Utilizzare un elenco avanzato per filtrare il rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) a persone specifiche.

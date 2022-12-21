@@ -3,7 +3,6 @@ unique-page-id: 1147136
 description: Modifica delle voci nella vista Pianificazione del programma - Marketo Docs - Documentazione del prodotto
 title: Modifica delle voci nella vista Pianificazione programma
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -21,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Digitare un nuovo nome e premere **Invio/Invio** sulla tastiera per confermare la modifica.
+1. Digitare un nuovo nome e premere **Invio** sulla tastiera per confermare la modifica.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,13 +28,13 @@ ht-degree: 0%
 >
 >In questo modo viene modificato solo il nome visualizzato nella vista Pianificazione. Il nome della risorsa nel programma rimarrà invariato.
 
-## Modifica la descrizione di una voce {#edit-an-entrys-description}
+## Modificare la descrizione di una voce {#edit-an-entrys-description}
 
 1. Fai clic sull’icona della descrizione.
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Modifica la descrizione. Fare clic su **Salva**.
+1. Modifica la descrizione. Fai clic su **Salva**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -43,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
-## Modificare la data di una voce {#edit-an-entrys-date}
+## Modificare la data di un elemento {#edit-an-entrys-date}
 
 1. Seleziona la nuova data.
 

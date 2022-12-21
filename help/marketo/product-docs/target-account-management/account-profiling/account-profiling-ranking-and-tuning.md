@@ -1,15 +1,14 @@
 ---
 unique-page-id: 15695924
-description: Classificazione e tuning del profilo dell'account - Documenti Marketo - Documentazione del prodotto
+description: Classificazione e tuning del profilo dell'account - Marketo Docs - Documentazione del prodotto
 title: Classificazione e tuning del profilo dell'account
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
 
 ---
-
 
 # Classificazione e tuning del profilo dell&#39;account {#account-profiling-ranking-and-tuning}
 
@@ -21,12 +20,12 @@ I risultati mostrano tutti gli account noti suddivisi per grado. A è il grado p
 
 ![](assets/results.png)
 
-Anche se opzionale, è consigliabile selezionare la casella di controllo Promuovi automaticamente , in quanto consente di risparmiare un sacco di tempo. Tuttavia, se desideri esaminare ciascun account e [aggiungerlo manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lascia la casella deselezionata.
+Anche se opzionale, è consigliabile selezionare la casella di controllo Promuovi automaticamente , in quanto consente di risparmiare un sacco di tempo. Tuttavia, se desideri esaminare ciascun account e [aggiungili manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lascia la casella deselezionata.
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Classificazione</strong></td> 
+   <td><strong>Classifica</strong></td> 
    <td> 
     <div>
       Classificazione dell'account in base al profilo cliente ideale. A è la migliore vestibilità, D è la meno adatta. 
@@ -56,7 +55,7 @@ Anche se opzionale, è consigliabile selezionare la casella di controllo Promuov
  </tbody> 
 </table>
 
-## Ottimizzazione del modello {#model-tuning}
+## Regolazione del modello {#model-tuning}
 
 Nella scheda Modello fare clic sul pulsante Sintonizza modello.
 
@@ -158,13 +157,13 @@ Fai clic sul menu a discesa Aggiungi indicatore ICP per inserire ulteriori indic
 
 ![](assets/add-icp.png)
 
-Selezionando la casella Esporta è possibile visualizzare l&#39;indicatore ICP nella pagina Dettagli conto denominato, nonché utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Selezionando la casella Esporta è possibile visualizzare l&#39;indicatore ICP nella pagina Dettagli conto denominato e utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Gli indicatori ICP sono inclusi come vincoli in **Membro di Account denominato** Filtri e Triggers.
+>Gli indicatori ICP sono inclusi come vincoli **Membro del conto denominato** Filtri e attivatori.
 
 La ponderazione dell&#39;indicatore è ciò che controlla il livello di importanza che ogni indicatore riceve nel modello.
 
@@ -174,6 +173,6 @@ Fare clic su Aggiorna modello per rendere effettive le modifiche.
 
 ![](assets/refresh-button.png)
 
-Al termine della regolazione del modello (dopo averlo aggiornato), torna alla scheda Risultati modello e fai clic su **Salva e applica blocchi**.
+Al termine della regolazione del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica blocchi**.
 
 ![](assets/ranks.png)

@@ -28,20 +28,20 @@ Le notifiche ti tengono aggiornato sugli eventi di sistema che si verificano nel
 
 Puoi abbonarti alle notifiche per riceverle nella tua e-mail.
 
-1. Vai a Notifiche e fai clic su **Sottoscrivi**.
+1. Vai a Notifiche e fai clic su **Abbonati**.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Seleziona il Tipo di notifica e immetti gli indirizzi e-mail a cui desideri inviare le notifiche (separati da una virgola). Al termine, fai clic su **Sottoscrivi** .
+1. Seleziona il Tipo di notifica e immetti gli indirizzi e-mail a cui desideri inviare le notifiche (separati da una virgola). Fai clic su **Abbonati** al termine.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->L’area **Invia a** è riservata solo all’utente che deve inserire l’e-mail, ma non presenta un elenco di abbonati esistenti.
+>La **invia a** l’area è riservata solo all’utente che deve inserire l’e-mail, ma non presenta un elenco di abbonati esistenti.
 
 In alcuni casi, una notifica fornisce un collegamento &quot;Vedi l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione Microsoft Dynamics. Marketo conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, ottieni un errore 404.
 
 >[!TIP]
 >
->Desideri annullare l’iscrizione alle e-mail di notifica? Nessun problema. Fai clic sul collegamento **Annulla iscrizione a Notifiche** in fondo all’e-mail.
+>Desideri annullare l’iscrizione alle e-mail di notifica? Nessun problema. Fai clic sul pulsante **annulla sottoscrizione a notifiche** link in fondo all&#39;e-mail.

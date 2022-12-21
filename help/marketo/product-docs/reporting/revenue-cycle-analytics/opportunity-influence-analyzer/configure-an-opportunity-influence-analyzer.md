@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2360240
-description: Configurare un analizzatore di influenza opportunità - Documenti Marketo - Documentazione prodotto
+description: Configurare un’analisi dell’influenza opportunità - Documenti Marketo - Documentazione del prodotto
 title: Configurare un analizzatore di influenza opportunità
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-
 # Configurare un analizzatore di influenza opportunità {#configure-an-opportunity-influence-analyzer}
 
-Una volta che [create un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), potete configurare i tipi di [momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) inclusi.
+Una volta [creare un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), puoi configurare i tipi di [momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) inclusi.
 
 >[!PREREQUISITES]
 >
 >[Creare un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Fare clic su **Analytics**.
+1. Fai clic su **Analytics**.
 
    ![](assets/login-to-analytics.png)
 
-1. Andate ad Analytics e selezionate il vostro analizzatore di influenza opportunità.
+1. Vai su Analytics e seleziona il tuo Opportunity Influence Analyzer.
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Se il grafico dell&#39;analizzatore contiene troppi momenti interessanti, puoi ridurli deselezionando le persone nel pannello **Impostazioni** o riducendo i tipi di momenti interessanti.
+   Se ci sono troppi momenti interessanti nel grafico dell&#39;analizzatore, puoi ridurli deselezionando le persone nel **Impostazioni** o riducendo i tipi di momenti interessanti.
 
-1. Per configurare quali tipi di momenti interessanti includere, andate alla scheda Configurazione e trascinate il filtro Momenti interessanti.
+1. Per configurare i tipi di momenti interessanti da includere, passa alla scheda Configurazione e trascina il filtro Momenti interessanti .
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
-1. Scegliete se visualizzare Tutti, Nessuno o Alcuni.
+1. Scegliere se visualizzare Tutti, Nessuno o Alcuni.
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. Se scegliete Alcuni, potete scegliere quali tipi includere.
+1. Se scegli Alcuni, puoi scegliere quali tipi includere.
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Fai clic su ogni tipo di momento interessante che vuoi. Fare clic su **Salva**.
+1. Fai clic su ogni tipo di momento interessante che desideri. Quindi fai clic su **Salva**.
 
-1. Fai clic sulla scheda principale per vedere la cronologia dell&#39;opportunità con solo i tipi selezionati di momento interessante.
+1. Fai clic sulla scheda principale per visualizzare la cronologia dell’opportunità con solo i tipi selezionati di momento interessante.
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
 >[!MORELIKETHIS]
 >
->[Comunicare la storia di marketing con un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[Comunicare la storia di marketing con Opportunity Influence Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

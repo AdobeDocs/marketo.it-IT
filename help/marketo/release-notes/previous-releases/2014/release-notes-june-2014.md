@@ -28,13 +28,13 @@ Quando invii un’e-mail di test da Sales Insight, i token presenti nell’e-mai
 
 ## Personalizzare le percentuali delle stelle e delle fiamme {#customize-percentages-for-stars-and-flames}
 
-[Imposta la ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) percentuale di lead che ricevono 1, 2 o 3 stelle e fiamme.
+[Imposta la percentuale](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) di cavi che ottengono 1, 2 o 3 stelle e fiamme.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## API ReST lead {#lead-rest-api}
 
-Crea, leggi e aggiorna i lead a livello di programmazione tramite la nuova API ReST. Per iniziare a utilizzare ReST è necessario [creare un servizio personalizzato](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Quindi passa al [sito per sviluppatori](https://developers.marketo.com/documentation/rest/) per i dettagli sull&#39;utilizzo di questa API.
+Crea, leggi e aggiorna i lead a livello di programmazione tramite la nuova API ReST. Per iniziare con ReST devi [creare un servizio personalizzato](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Poi testa verso il [sito per sviluppatori](https://developers.marketo.com/documentation/rest/) per informazioni sull’utilizzo di questa API.
 
 ## Aggiornamento della pagina Campagne Marketo Real-Time Personalization (RTP) {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
@@ -46,6 +46,6 @@ Le campagne RTP ora includono un nuovo design con viste miniature e prestazioni 
 
 Aggiungi tutti i dati RTP all’interno della piattaforma web analytics.
 
-L&#39;integrazione con [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) è ora attivata per impostazione predefinita, quindi in Impostazioni account attivare lo switch per il quale i dati da inviare alle variabili e agli eventi personalizzati GA.
+L&#39;integrazione con [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ora è abilitato per impostazione predefinita, quindi in Impostazioni account attivare lo switch per cui i dati che si desidera inviare alle variabili e agli eventi personalizzati GA.
 
-Abbiamo inoltre completato l’integrazione con [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+Abbiamo anche completato l’integrazione con [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).

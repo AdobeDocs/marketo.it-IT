@@ -1,32 +1,31 @@
 ---
 unique-page-id: 11379060
-description: Pannello SMS - Documenti Marketo - Documentazione prodotto
-title: Pannello messaggio SMS
-translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+description: Dashboard messaggi SMS - Documentazione Marketo - Documentazione del prodotto
+title: Dashboard messaggi SMS
+exl-id: a08fb3d9-f2fa-40d4-9cba-5c404e8574b8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
+# Dashboard messaggi SMS {#the-sms-message-dashboard}
 
-# Pannello messaggio SMS {#the-sms-message-dashboard}
-
-Il Pannello messaggio SMS visualizza informazioni utili sul messaggio SMS.
+Il dashboard messaggi SMS visualizza informazioni utili sul messaggio SMS.
 
 ![](assets/converted-dashboard-image.png)
 
-Il grafico **Progressione SMS** mostra il totale inviato e il totale consegnato. Gli importi si trovano a destra e se passi il cursore su una barra, viene visualizzata la percentuale.
+La **Avanzamento SMS** Il grafico mostra il totale inviato e il totale consegnato. Gli importi si trovano a destra e, se passi il cursore su una barra, viene visualizzata la percentuale.
 
 ![](assets/sms-progression-hand-border.png)
 
-Il grafico **Summary** mostra il tasso di rimbalzo calcolato come percentuale. Passate il puntatore del mouse sulla barra ad arco per visualizzare il tasso di consegna in base all&#39;importo e alla percentuale. Passate il puntatore del mouse sopra la sezione Frequenza rimbalzo arancione della barra per visualizzare gli importi e le percentuali di rimbalzo morbido e di rimbalzo duro.
+La **Riepilogo** Il grafico mostra la frequenza di rimbalzo calcolata come percentuale. Passa il puntatore del mouse sulla barra di arco per visualizzare il tasso di consegna in base a quantità e percentuale. Passa il puntatore del mouse sulla sezione Frequenza di rimbalzo arancione della barra per visualizzare le quantità e le percentuali di frequenza di rimbalzo morbida e di rimbalzo rigido.
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-Il grafico **Attività nel tempo** consente di selezionare Totale inviato o Totale consegnato. Selezionare un intervallo appropriato dal selettore dell&#39;intervallo di date.
+La **Attività nel tempo** Il grafico consente di selezionare Totale inviato o Totale consegnato. Seleziona un intervallo appropriato dal selettore dell’intervallo di date.
 
 ![](assets/activity-over-time-hands.png)
 
-Cancella come un campanello!
+Cancella come campanella!

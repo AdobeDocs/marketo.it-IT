@@ -3,17 +3,16 @@ unique-page-id: 5472615
 description: Informazioni sui campi gestiti del sistema - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sui campi gestiti del sistema
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '522'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
 # Informazioni sui campi gestiti del sistema {#understanding-system-managed-fields}
 
-Potresti aver notato che la [pagina di dettaglio della persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) presenta una serie di campi non modificabili creati da Marketo. Questi dati provengono da varie fonti, e ci sono innumerevoli valori che possono essere visualizzati.
+Avreste notato che la [pagina dei dettagli della persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) dispone di una serie di campi non modificabili creati da Marketo. Questi dati provengono da varie fonti, e ci sono innumerevoli valori che possono essere visualizzati.
 
 ## Tipi di campi {#field-types}
 
@@ -28,12 +27,12 @@ Potresti aver notato che la [pagina di dettaglio della persona](/help/marketo/pr
 | Informazioni origine registrazione | Specifiche relative a tale posizione (Esempio: Nome dell’elenco, URL della pagina web) |
 | IP anonimo | Indica l’indirizzo IP di una persona |
 | Azienda in oggetto | Indovina migliore (basata su IP) Marketo dell&#39;azienda della persona |
-| Città di riferimento | Migliore stima (basata su IP) della città della persona su Marketo |
-| Regione dello Stato di provenienza | Migliore stima (basata su IP) dello stato o della regione della persona in Marketo |
-| Codice postale trasferito | Migliore stima (basata su IP) del codice postale della persona in Marketo |
+| Città in oggetto | Migliore stima (basata su IP) della città della persona su Marketo |
+| Stato in oggetto | Migliore stima (basata su IP) dello stato o della regione della persona in Marketo |
+| Codice postale in oggetto | Migliore stima (basata su IP) del codice postale della persona in Marketo |
 | Paese in oggetto | Migliore stima Marketo (basata su IP) del paese della persona |
-| Area metropolitana | Indovina migliore (basata su IP) Marketo dell&#39;area metropolitana della persona |
-| Codice di area del telefono | Migliore stima (basata su IP) del codice di area della persona in Marketo |
+| oArea metropolitana in oggetto | Indovina migliore (basata su IP) Marketo dell&#39;area metropolitana della persona |
+| Prefisso telefonico in oggetto | Migliore stima (basata su IP) del codice di area della persona in Marketo |
 
 ## Valori possibili per il tipo di origine originale e di registrazione {#possible-values-for-original-and-registration-source-type}
 
@@ -41,7 +40,7 @@ Di seguito sono riportati alcuni possibili valori e cosa intendono.
 
 | **Tipo di origine originale** | **Definizione** |
 |---|---|
-| Salesforce.com | La persona è stata scoperta da una sincronizzazione Salesforce |
+| Salesforce.com | Persona rilevata da una sincronizzazione Salesforce |
 | Visite a una pagina web | Persona scoperta da una pagina web |
 | Compilazione modulo web | Persona scoperta dopo la compilazione di un modulo |
 | Importazione elenco | Persona scoperta da un&#39;importazione di elenchi |

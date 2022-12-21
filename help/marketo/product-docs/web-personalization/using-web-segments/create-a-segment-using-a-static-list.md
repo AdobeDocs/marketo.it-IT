@@ -1,52 +1,51 @@
 ---
 unique-page-id: 13795536
-description: Crea un segmento utilizzando un elenco statico - Documenti Marketo - Documentazione prodotto
+description: Creare un segmento utilizzando un elenco statico - Documenti Marketo - Documentazione del prodotto
 title: Creare un segmento utilizzando un elenco statico
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # Creare un segmento utilizzando un elenco statico {#create-a-segment-using-a-static-list}
 
-Segmenta i visitatori Web noti quando visitano il tuo sito Web in base a se si trovano o meno in uno degli [elenchi statici](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) di Marketo.
+Segmenta i visitatori web noti quando visitano il tuo sito web in base se si trovano o meno in uno dei tuoi Marketo [elenchi statici](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
-1. Vai a **Segments**.
+1. Vai a **Segmenti**.
 
    ![](assets/1.jpg)
 
-1. Fare clic su **Crea nuovo**.
+1. Fai clic su **Crea nuovo**.
 
    ![](assets/two.png)
 
-1. Inserite il nome del segmento.
+1. Inserisci un nome per il segmento.
 
    ![](assets/three.png)
 
-1. In Lead noti, trascinare **Elenchi statici** sull&#39;area di lavoro.
+1. In Lead noti, trascina **Elenchi statici** verso l&#39;area di lavoro.
 
    ![](assets/four-2.png)
 
-1. Fare clic sull&#39;elenco a discesa per selezionare **is** o **is not** (a seconda di cosa si desidera) e digitare il nome dell&#39;elenco statico.
+1. Fai clic sull’elenco a discesa per selezionare **è** o **non** (a seconda di cosa desideri), e digita il nome dell’elenco statico.
 
    ![](assets/five-2.png)
 
-1. Per aggiungere più elenchi, è necessario creare una nuova riga per ciascuno di essi facendo clic su **+**. Se si desidera un solo elenco, passare a [Passaggio 8](#eight).
+1. Per aggiungere più elenchi, è necessario creare una nuova riga per ciascuno di essi facendo clic sul pulsante **+**. Se desideri un solo elenco, passa a [Passaggio 8](#eight).
 
    ![](assets/six-1.png)
 
-1. Per più elenchi (o più elenchi &quot;non è&quot;), ripetete i passaggi appresi in [Passo 5](#five).
+1. Per più elenchi (o più elenchi &quot;non è&quot;), ripeti i passaggi appresi in [Passaggio 5](#five).
 
    ![](assets/seven-2.png)
 
    >[!NOTE]
    >
-   >Il menu a discesa e/o è proprio questo. Fare clic su di esso per selezionare **e**, **o** oppure **e/o**.
+   >Il menu a discesa e/o è proprio questo. Fai clic su di esso per selezionarlo **e**, **o** oppure **e/o**.
 
-1. Fare clic su **Salva** per salvare il segmento oppure su **Salva e definisci campagna** per salvare e passare alla pagina Campagne.
+1. Fai clic su **Salva** per salvare il segmento o **Salva e definisci campagna** per salvare e passare alla pagina Campagne .
 
    ![](assets/eight-1.png)

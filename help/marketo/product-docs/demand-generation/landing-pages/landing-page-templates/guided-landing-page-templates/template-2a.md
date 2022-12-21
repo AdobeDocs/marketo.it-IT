@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 2A {#template-2a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+Fai clic con il pulsante destro del mouse per [scarica il modello 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 

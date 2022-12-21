@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1900585
-description: Aggiungere sezioni modificabili ai modelli e-mail v1.0 - Documenti Marketo - Documentazione prodotto
+description: Aggiungere sezioni modificabili ai modelli e-mail v1.0 - Documenti Marketo - Documentazione del prodotto
 title: Aggiungere sezioni modificabili ai modelli e-mail v1.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Aggiungere sezioni modificabili ai modelli e-mail v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-Se state creando un modello nell&#39;Editor modelli e-mail v1.0, potete rendere modificabile qualsiasi sezione inserendo un `<div>` speciale attorno ad esso.
+Se crei un modello nell’Editor modelli e-mail v1.0, puoi rendere modificabile qualsiasi sezione inserendo uno speciale `<div>` intorno.
 
 >[!NOTE]
 >
@@ -23,13 +22,13 @@ Se state creando un modello nell&#39;Editor modelli e-mail v1.0, potete rendere 
 
 Regole:
 
-1. L&#39;HTML deve sempre essere valido.
-1. È necessario includere la classe di **mktEditable**.
-1. L’ID deve essere univoco in tale HTML.
-1. Nessun spazio nell’ID.
+1. Il HTML deve essere sempre valido.
+1. La classe di **mktEditable** deve essere incluso.
+1. L&#39;ID deve essere univoco in quel HTML.
+1. Nessun spazio nell&#39;ID.
 
 >[!CAUTION]
 >
->le istruzioni mktEditable non possono essere nidificate.
+>Impossibile nidificare le istruzioni mktEditable.
 
-Per informazioni su come eseguire questa operazione in Editor modelli e-mail v2.0, controllare [sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).
+Per informazioni su come eseguire questa operazione in Editor modelli e-mail v2.0, consulta [sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).

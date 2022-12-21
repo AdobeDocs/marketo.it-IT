@@ -1,49 +1,48 @@
 ---
 unique-page-id: 2359616
-description: Abilitare la compilazione del modulo per social network su un modulo - Documenti Marketo - Documentazione prodotto
-title: Abilitare la compilazione di un modulo per social network
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Abilitare la compilazione di moduli social su un modulo - Documenti Marketo - Documentazione del prodotto
+title: Abilitare la compilazione di un modulo social
+exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
+# Abilitare la compilazione di un modulo social {#enable-social-form-fill-on-a-form}
 
-# Abilitare la compilazione del modulo social su un modulo {#enable-social-form-fill-on-a-form}
-
-Consentire ai visitatori di compilare il modulo utilizzando il social network. Otterrete automaticamente ulteriori dati e avranno un&#39;esperienza più rapida.
+Consenti ai visitatori di compilare il modulo utilizzando il loro social network. Otterrai automaticamente dati aggiuntivi e loro ottengono un&#39;esperienza più rapida.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il modulo e fare clic su **Modifica modulo**.
+1. Seleziona il modulo e fai clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. In **Form** **Settings** fare clic su **Settings**.
+1. Sotto **Modulo** **Impostazioni** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
-1. Controllate i pulsanti del social network che desiderate includere.
+1. Selezionare i pulsanti di social network che si desidera includere.
 
    ![](assets/image2016-4-28-16-3a38-3a58.png)
 
    >[!TIP]
    >
-   >Date un&#39;occhiata a quanto [data Marketo acquisirà](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se le persone usano i pulsanti dei social network.
+   >Guarda cosa [data che Marketo acquisirà](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se le persone usano i pulsanti social.
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Fare clic su **Approva e Chiudi**.
+1. Fai clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

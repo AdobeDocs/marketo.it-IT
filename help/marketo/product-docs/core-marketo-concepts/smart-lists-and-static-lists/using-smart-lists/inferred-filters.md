@@ -3,7 +3,6 @@ unique-page-id: 2953188
 description: Filtri indiretti - Documenti Marketo - Documentazione del prodotto
 title: Filtri indiretti
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
@@ -34,11 +33,11 @@ Quando utilizzi uno di questi filtri in un elenco avanzato, i risultati restitui
 >Utilizza questi filtri in un rapporto di attività web. Utilizza i territori degli agenti di vendita e abbonali a un rapporto giornaliero personalizzato con i visitatori del sito web nelle ultime 24 ore. Lo ameranno!
 >
 >* Pagina Web visitata - Ultime 24 ore
->* Lo stato di riferimento è [selezionare il proprio territorio]
+>* Stato di riferimento è [selezionare il proprio territorio]
 
 
 Questi visitatori anonimi vengono automaticamente convertiti in persone quando fanno clic su un collegamento e-mail o compilano un modulo. Tuttavia, conservano tutte le informazioni dedotte.
 
 >[!NOTE]
 >
->Ulteriori informazioni su [attività anonima e lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Ulteriori informazioni [attività anonima e lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).

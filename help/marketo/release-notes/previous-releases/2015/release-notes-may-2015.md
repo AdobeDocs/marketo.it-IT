@@ -38,7 +38,7 @@ A partire da questa versione, i commenti HTML validi ora sono consentiti e non v
 
 ## RTP: Editor segmenti trascinato {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Trascinare l&#39;Editor segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [Editor segmenti trascinato](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Trascina e rilascia i criteri nel generatore di segmenti, definisci il valore e stai cercando di creare un segmento in tempo reale.
 

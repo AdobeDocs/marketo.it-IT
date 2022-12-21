@@ -4,7 +4,7 @@ title: Sincronizzazione attività promemoria con Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---

@@ -3,7 +3,6 @@ unique-page-id: 10100269
 description: Modificare un’attività personalizzata - Documenti Marketo - Documentazione del prodotto
 title: Modificare un’attività personalizzata
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Modificare un&#39;attività personalizzata {#edit-a-custom-activity}
+# Modificare un’attività personalizzata {#edit-a-custom-activity}
 
 Devi apportare modifiche a un’attività personalizzata già creata? Ecco come.
 
@@ -19,7 +18,7 @@ Devi apportare modifiche a un’attività personalizzata già creata? Ecco come.
 
    ![](assets/one-1.png)
 
-1. In **Gestione database** fare clic su **Attività personalizzate**.
+1. In **Gestione database** click **Attività personalizzate**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +26,7 @@ Devi apportare modifiche a un’attività personalizzata già creata? Ecco come.
 
    ![](assets/three-1.png)
 
-1. Fai clic su **Azioni attività personalizzate** e seleziona **Modifica attività**.
+1. Fai clic su **Azioni di attività personalizzate** e seleziona **Modifica attività**.
 
    ![](assets/four-1.png)
 

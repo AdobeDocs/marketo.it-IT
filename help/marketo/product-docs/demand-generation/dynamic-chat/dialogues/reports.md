@@ -1,10 +1,11 @@
 ---
 description: Rapporti - Documentazione Marketo - Documentazione del prodotto
 title: Rapporti
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -31,7 +32,7 @@ Nella scheda Rapporti , visualizza i dati degli ultimi 90 giorni. Ogni categoria
   <td>Viene incrementato ogni volta che un visitatore fornisce un indirizzo e-mail valido in un flusso di dialogo.</td>
  </tr>
  <tr>
-  <td><strong>Riunioni prenotate</strong></td>
+  <td><strong>Meeting prenotati</strong></td>
   <td>Incrementa ogni volta che un visitatore pianifica correttamente un appuntamento tramite il chatbot.</td>
  </tr>
  <tr>

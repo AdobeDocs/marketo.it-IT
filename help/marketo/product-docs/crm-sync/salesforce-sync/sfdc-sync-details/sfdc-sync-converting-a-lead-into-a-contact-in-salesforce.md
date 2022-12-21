@@ -5,7 +5,7 @@ title: Sincr. SFDC - Conversione di un lead in un contatto in Salesforce
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

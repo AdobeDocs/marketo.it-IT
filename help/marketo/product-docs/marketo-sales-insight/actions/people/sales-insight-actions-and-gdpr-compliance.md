@@ -5,7 +5,7 @@ exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '1396'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -146,7 +146,7 @@ Puoi esportare le informazioni di contatto dalla Visualizzazione dettagli person
   </tr> 
   <tr> 
    <td>Titolo</td> 
-   <td>Creato in</td> 
+   <td>Creato</td> 
    <td>Esportato in</td> 
   </tr> 
   <tr> 

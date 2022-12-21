@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352403
-description: Amministratori Aggiuntivi - Documenti Marketo - Documentazione prodotto
+description: Amministratori aggiuntivi - Documenti Marketo - Documentazione del prodotto
 title: Amministratori aggiuntivi
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 57c0024b-6b36-4b1c-bcee-b1dbb9fdb57d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-
 # Amministratori aggiuntivi {#additional-admins}
 
-Per cambiare o rimuovere un membro del team, andate alla pagina Impostazioni e fate clic su **Gestione team** nel pannello di navigazione a sinistra.
-In qualità di amministratore di un account, potete gestire in questo modo chi si trova nel vostro team.
+Per modificare o rimuovere un membro del team, passa alla pagina Impostazioni e fai clic su **Gestione team** nel pannello di navigazione a sinistra.
+In qualità di amministratore di un account, puoi gestire gli utenti che fanno parte del tuo team.

@@ -64,7 +64,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">Cartella di destinazione condivisa da un'altra area di lavoro <br>(il lucchetto indica che non è possibile apportare modifiche)</td> 
   </tr> 
@@ -92,7 +92,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">Trigger</td> 
   </tr> 
@@ -415,7 +415,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">Programma e-mail pianificato con Head Start</td> 
   </tr> 

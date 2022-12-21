@@ -1,29 +1,28 @@
 ---
 unique-page-id: 37356590
-description: Aggiunta di contenuti mirati alle e-mail - Documenti Marketo - Documentazione prodotto
+description: Aggiunta di contenuti di rilievo all’e-mail - Documenti Marketo - Documentazione del prodotto
 title: Aggiunta di contenuti mirati all’e-mail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: a069d29a-46b6-4347-b474-df17b7595436
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# Aggiunta di contenuti mirati all’e-mail {#adding-highspot-content-to-your-email}
 
-# Aggiunta di contenuto in evidenza all&#39;e-mail {#adding-highspot-content-to-your-email}
+Se sei un cliente Highspot, puoi inserire facilmente contenuti Highspot nelle e-mail di Sales Connect.
 
-Se sei un cliente di Highspot, puoi inserire facilmente il contenuto di Highspot nelle e-mail di Sales Connect.
-
-1. Create la bozza dell&#39;e-mail (vi sono diversi modi per farlo, in questo esempio scegliamo **Componi** nell&#39;intestazione).
+1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell’intestazione).
 
    ![](assets/one-5.png)
 
-1. Compilare il campo A e inserire un oggetto.
+1. Compilare il campo A e immettere un oggetto.
 
    ![](assets/two-5.png)
 
-1. Fate clic sul punto del messaggio e-mail in cui desiderate inserire il contenuto Evidenzia. Fare clic sul menu a discesa freccia (accanto all&#39;icona dell&#39;allegato) e selezionare **Evidenziatore**.
+1. Fai clic sul punto dell’e-mail in cui desideri inserire il contenuto Highspot. Fare clic sull&#39;elenco a discesa della freccia (accanto all&#39;icona dell&#39;allegato) e selezionare **Highspot**.
 
    ![](assets/three-5.png)
 
@@ -31,13 +30,13 @@ Se sei un cliente di Highspot, puoi inserire facilmente il contenuto di Highspot
 
    ![](assets/four-5.png)
 
-1. Selezionate il contenuto desiderato e fate clic sul pulsante **Aggiungi contenuto**.
+1. Seleziona il contenuto desiderato e fai clic sul pulsante **Aggiungi contenuto** pulsante .
 
    ![](assets/five-3.png)
 
    >[!NOTE]
    >
-   >Se non visualizzate il contenuto da elencare, utilizzate la barra di ricerca nella parte superiore.
+   >Se il contenuto da elencare non viene visualizzato, utilizza la barra di ricerca nella parte superiore.
 
    ![](assets/six.png)
 

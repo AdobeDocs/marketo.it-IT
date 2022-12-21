@@ -3,7 +3,6 @@ unique-page-id: 557318
 description: Aggiornare un elenco o un elenco avanzato - Documenti Marketo - Documentazione del prodotto
 title: Aggiornare un elenco o un elenco avanzato
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
@@ -17,7 +16,7 @@ Se hai eseguito una lista intelligente e sono passati alcuni minuti, i risultati
 
 ## Aggiorna risultati {#refresh-results}
 
-1. Per aggiornare i dati nella scheda **Persone** di un elenco smart, fai clic sull’icona di aggiornamento.
+1. Per aggiornare i dati in **Persone** fare clic sull&#39;icona di aggiornamento nella scheda di un elenco avanzato.
 
    ![](assets/refreshbutton.png)
 

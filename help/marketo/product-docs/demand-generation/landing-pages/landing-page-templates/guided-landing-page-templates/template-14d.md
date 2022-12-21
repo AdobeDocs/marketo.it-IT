@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 14D {#template-14d}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
 
 ![](assets/image2015-8-13-10-3a36-3a45.png)
 

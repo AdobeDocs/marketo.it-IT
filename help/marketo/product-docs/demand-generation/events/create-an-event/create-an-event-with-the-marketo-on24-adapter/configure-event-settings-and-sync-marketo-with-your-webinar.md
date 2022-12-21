@@ -5,7 +5,7 @@ title: Configurare le impostazioni evento e sincronizzare Marketo con il webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---

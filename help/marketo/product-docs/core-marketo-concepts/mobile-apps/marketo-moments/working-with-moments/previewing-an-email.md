@@ -3,10 +3,9 @@ unique-page-id: 8783563
 description: Anteprima di un’e-mail - Documenti Marketo - Documentazione del prodotto
 title: Anteprima di un messaggio e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---

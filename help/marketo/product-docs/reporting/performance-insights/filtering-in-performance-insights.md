@@ -1,45 +1,44 @@
 ---
 unique-page-id: 12979012
-description: Filtraggio in Performance Insights - Marketo Docs - Documentazione del prodotto
-title: Applicazione di filtri in Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Filtraggio in Performance Insights - Documenti Marketo - Documentazione del prodotto
+title: Filtraggio in Performance Insights
+exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
-
-# Filtro in Performance Insights {#filtering-in-performance-insights}
+# Filtraggio in Performance Insights {#filtering-in-performance-insights}
 
 Filtrare facilmente i dati per eseguire query su informazioni specifiche.
 
-Fate clic sul simbolo + per iniziare ad aggiungere i filtri.
+Fai clic sul segno + per iniziare ad aggiungere filtri.
 
 ![](assets/1-1.png)
 
 >[!NOTE]
 >
->Al momento, gli attributi personalizzati sono disponibili nei filtri solo per i clienti che hanno abilitato l&#39;analisi del ciclo delle entrate.
+>Al momento, gli attributi personalizzati sono disponibili nei filtri solo per i clienti che hanno abilitato l’analisi del ciclo dei ricavi.
 
 Facendo clic su una categoria vengono visualizzate più sottocategorie.
 
 ![](assets/two-1.png)
 
-Scegliete una sottocategoria e cercate/selezionate un valore.
+Scegli una sottocategoria e cerca/seleziona un valore.
 
 ![](assets/three.png)
 
-I grafici si aggiornano per riflettere i filtri selezionati.
+I grafici vengono aggiornati in modo da riflettere i filtri selezionati.
 
 ![](assets/four-1.png)
 
-Potete aggiungere altri filtri seguendo la stessa procedura.
+Puoi aggiungere altri filtri seguendo gli stessi passaggi.
 
 ![](assets/five.png)
 
-Per rimuovere un filtro in qualsiasi momento, fai clic sulla X accanto ad esso. Rimuovete tutti i filtri contemporaneamente facendo clic sulla X all&#39;estrema destra.
+Puoi rimuovere un filtro in qualsiasi momento facendo clic sulla X accanto ad esso. Rimuovi tutti i filtri contemporaneamente facendo clic sulla X all&#39;estrema destra.
 
 ![](assets/6-2.png)
 
@@ -49,35 +48,35 @@ Per rimuovere un filtro in qualsiasi momento, fai clic sulla X accanto ad esso. 
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Elenco account ABM</strong></td> 
-   <td colspan="1">Se utilizzi Marketo ABM, tutti gli elenchi degli account saranno sincronizzati con MPI e saranno visibili tramite il filtro "ABM Account List". Potete selezionare un elenco di account per filtrare i risultati su tali account.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Ulteriori informazioni sugli elenchi di account ABM.</a></td> 
+   <td colspan="1">Se utilizzi Marketo ABM, tutti gli elenchi dei tuoi account verranno sincronizzati in MPI e saranno visibili tramite il filtro "ABM Account List". È possibile selezionare un elenco di account per filtrare i risultati in tali account.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Ulteriori informazioni sugli elenchi di account ABM.</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Account denominato ABM</strong></td> 
-   <td colspan="1">Se utilizzi Marketo ABM, tutti i tuoi account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro "ABM Named Account". Potete selezionare un account denominato per filtrare i risultati su tali account.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account con nome ABM.</a></td> 
+   <td colspan="1"><strong>Account con nome ABM</strong></td> 
+   <td colspan="1">Se utilizzi Marketo ABM, tutti i tuoi account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro "ABM Named Account". Puoi selezionare un account con nome per filtrare i risultati in tali account.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account con nome ABM.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Attributi personalizzati</strong></td> 
-   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">attivati</a> per l'analisi delle opportunità possono essere filtrati in Performance Insights.</p></td> 
+   <td colspan="1"><p>Questi sono determinati da te. Tutti i campi <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">abilita</a> per l’analisi delle opportunità può essere filtrata in Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Periodo di investimento</strong></p></td> 
-   <td colspan="1"><p>Durata del programma.</p></td> 
+   <td colspan="1"><p>Tempi di esecuzione dei programmi.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Tipo opportunità</strong></p></td> 
-   <td colspan="1"><p>Tipo di opportunità impostato sull'oggetto Opportunità nella configurazione di Salesforce (CRM).</p></td> 
+   <td colspan="1"><p><strong>Tipo di opportunità</strong></p></td> 
+   <td colspan="1"><p>Tipo di opportunità impostato sull'oggetto Opportunity nella configurazione di Salesforce (CRM).</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Tag del programma</strong></p></td> 
-   <td><p>I tag vengono utilizzati per descrivere i programmi. Potete creare quanti ne avete bisogno, ciascuno con valori univoci. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Scopri come utilizzare i tag dei programmi qui.</a></p></td> 
+   <td><p>I tag vengono utilizzati per descrivere i programmi. Puoi crearne quanti ne desideri, ciascuno con valori univoci. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Scopri come utilizzare i tag dei programmi qui.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Area di lavoro</strong></td> 
-   <td><p>Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing, come: programmi, pagine di destinazione, e-mail e altro ancora. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Ulteriori informazioni sulle aree di lavoro sono disponibili qui.</a></p></td> 
+   <td><p>Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing, come: programmi, pagine di destinazione, e-mail e altro ancora. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Ulteriori informazioni sulle aree di lavoro disponibili qui.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Nel pannello Partecipazione sono disponibili solo i tag del programma e i filtri dell&#39;area di lavoro.
+>Nel dashboard Coinvolgimento sono disponibili solo i tag del programma e i filtri dell’area di lavoro.

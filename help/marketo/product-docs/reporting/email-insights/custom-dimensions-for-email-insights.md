@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11375276
-description: Dimension personalizzati per approfondimenti e-mail - Documenti Marketo - Documentazione prodotto
-title: Dimension personalizzati per approfondimenti e-mail
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Dimension personalizzati per Approfondimenti e-mail - Documenti Marketo - Documentazione del prodotto
+title: Dimension personalizzati per Approfondimenti e-mail
+exl-id: e648a788-50da-495b-b195-f287bcbaeecb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
+# Dimension personalizzati per Approfondimenti e-mail {#custom-dimensions-for-email-insights}
 
-# Dimension personalizzati per approfondimenti e-mail {#custom-dimensions-for-email-insights}
-
-Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere fino a 10 dimensioni personalizzate. Le dimensioni personalizzate sono composte da segmentazioni e tag di programma. Ecco come aggiungerli.
+Sono incluse tutte le dimensioni standard di Marketo, ma puoi aggiungere fino a 10 dimensioni personalizzate. Le dimensioni personalizzate sono costituite da segmentazioni e tag del programma. Ecco come aggiungerle.
 
 >[!NOTE]
 >
@@ -21,21 +20,21 @@ Sono incluse tutte le dimensioni standard di Marketo, ma è possibile aggiungere
 
 >[!CAUTION]
 >
->Le dimensioni personalizzate **non possono essere eliminate o sostituite**, quindi scegliete attentamente le 10.
+>Dimensioni personalizzate **impossibile** essere cancellato o sostituito, quindi scegli attentamente i tuoi 10.
 
 1. In Approfondimenti e-mail, fai clic sull’icona a forma di ingranaggio in alto a destra della pagina.
 
    ![](assets/cd1.png)
 
-1. Fare clic su **System**.
+1. Fai clic su **Sistema**.
 
    ![](assets/cd2.png)
 
-1. Fare clic su **+** accanto a **Aggiungi dimensione**.
+1. Fai clic sul pulsante **+** accanto a **Aggiungi dimensione**.
 
    ![](assets/cd3.png)
 
-1. Iniziate a selezionare!
+1. Inizia a selezionare!
 
    ![](assets/cd4.png)
 

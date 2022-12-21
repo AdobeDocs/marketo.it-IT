@@ -1,36 +1,35 @@
 ---
 unique-page-id: 10095347
-description: Protezione dell'impostazione amministratore iscrizione - Documenti Marketo - Documentazione prodotto
-title: Proteggere l'impostazione dell'amministratore delle iscrizioni
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: Proteggere l’impostazione di amministrazione dell’abbonamento - Documenti Marketo - Documentazione del prodotto
+title: Proteggere l’impostazione di amministrazione della sottoscrizione
+exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
-# Proteggere l&#39;impostazione dell&#39;amministratore delle iscrizioni {#secure-the-subscription-admin-setting}
+# Proteggere l’impostazione di amministrazione della sottoscrizione {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Un amministratore può scegliere di effettuare il login per visualizzare un rapporto.
+Per visualizzare un rapporto, un amministratore può scegliere di richiedere l’accesso.
 
-1. Fare clic su **Admin**, quindi su **Impostazioni di accesso**.
+1. Fai clic su **Amministratore** e quindi **Impostazioni di accesso**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Fate clic su **Modifica** per le impostazioni dei rapporti degli elenchi avanzati.
+1. Fai clic su **Modifica** per le impostazioni dei rapporti degli elenchi avanzati.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Selezionare **Sì** per richiedere un login per scaricare i rapporti.
+1. Seleziona **Sì** per scaricare i rapporti è necessario un accesso.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 
    >[!CAUTION]
    >
-   >Se per scaricare i rapporti è necessario effettuare l&#39;accesso, se non si dispone dell&#39;accesso a Marketo, non si riceveranno e-mail per i rapporti sugli elenchi smart. Questo vale per le iscrizioni esistenti e future.
+   >Quando è necessario un accesso per scaricare i rapporti, se non si dispone dell’accesso a Marketo, non si riceveranno e-mail di rapporti per gli elenchi smart. Questo vale per gli abbonamenti esistenti e futuri.

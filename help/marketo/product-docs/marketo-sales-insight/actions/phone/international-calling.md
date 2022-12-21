@@ -5,7 +5,7 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
@@ -31,7 +31,7 @@ Sales Dialer ti consente di comunicare facilmente a livello internazionale. Per 
   </tr> 
   <tr> 
    <td colspan="1">Austria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4366 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 

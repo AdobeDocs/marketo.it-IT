@@ -38,7 +38,7 @@ Esporta tutti i dettagli e le analisi della campagna web in formato CSV. È quin
 
 ## Localizzazione {#localization}
 
-Le app Personalizzazione web, Contenuto predittivo e Approfondimenti e-mail sono ora disponibili in giapponese, tedesco e spagnolo. Per visualizzare i contenuti in queste lingue, seleziona la lingua e le impostazioni internazionali ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) .[
+Le app Personalizzazione web, Contenuto predittivo e Approfondimenti e-mail sono ora disponibili in giapponese, tedesco e spagnolo. You [selezionare la lingua e le impostazioni internazionali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) per visualizzare i contenuti in queste lingue.
 
 ![](assets/japanese-web-personalization.png)
 

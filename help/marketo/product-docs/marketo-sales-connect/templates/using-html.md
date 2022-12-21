@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352594
-description: Utilizzo di HTML - Marketo Docs - Documentazione prodotto
+description: Utilizzo di HTML - Documentazione Marketo - Documentazione del prodotto
 title: Utilizzo di HTML
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-
 # Utilizzo di HTML {#using-html}
 
-1. Copiate il codice sorgente dalle e-mail nello strumento che usate per creare e-mail in HTML (ad esempio Editor e-mail di Marketo).
+1. Copia il codice sorgente dalle e-mail nello strumento utilizzato per creare e-mail in HTML (ad esempio Marketo Email Editor).
 
-1. Fate clic sul pulsante **Source** nell&#39;editor modelli.
+1. Fai clic sul pulsante **Origine** nell’editor modelli.
 
-1. Incollate il codice sorgente.
+1. Incolla qui il codice sorgente.
 
-1. Fare clic su **Salva**.
+1. Fai clic su **Salva**.
 
 >[!NOTE]
 >
->Se viene visualizzato l&#39;errore &quot;Errore - per rimuovere i tag style/java/html&quot;, significa che hai uno stile che non siamo in grado di supportare. È necessario cercare il codice sorgente per lo stile della parola ed eliminare tutto da `<style>` a `</style>`.
+>Se viene visualizzato l’errore &quot;Errore - per rimuovere i tag style/java/html&quot;, significa che hai uno stile che non è supportato. È necessario cercare il codice sorgente per lo stile della parola ed eliminare tutto da `<style>` attraverso `</style>`.

@@ -3,7 +3,6 @@ unique-page-id: 4719291
 description: Imposta il cognome e il nome della società predefiniti - Marketo Docs - Documentazione del prodotto
 title: Imposta Cognome persona predefinito e Nome società
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
@@ -19,11 +18,11 @@ Salesforce richiede il cognome (minimo) e il nome della società per i suoi Lead
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Fare clic su **Modifica opzioni di sincronizzazione**.
+1. Fai clic su **Modifica opzioni di sincronizzazione**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Inserisci un **cognome predefinito** e una **società persona predefinita**, quindi fai clic su **Salva**.
+1. Inserisci un **Cognome persona predefinito** e **Società a persona predefinita** quindi fai clic su **Salva**.
 
    ![](assets/sync-options-hands.png)
 

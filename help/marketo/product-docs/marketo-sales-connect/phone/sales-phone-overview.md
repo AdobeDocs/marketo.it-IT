@@ -2,41 +2,40 @@
 unique-page-id: 14352438
 description: Panoramica del telefono di vendita - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del telefono di vendita
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
 # Panoramica del telefono di vendita {#sales-phone-overview}
 
 ## Perché il telefono di vendita? {#why-sales-phone}
 
-* Risparmio di tempo per effettuare chiamate telefoniche. Sono necessari due clic per effettuare una chiamata e tutto viene registrato automaticamente a Salesforce.
-* Aumentare la probabilità di connettersi con qualcuno utilizzando la presenza locale.
-* Coinvolgi i responsabili e migliora le prestazioni del tuo team sfruttando le registrazioni delle chiamate per comprendere cosa funziona e cosa non funziona.
+* Risparmio di tempo per le chiamate telefoniche. Ci vogliono due clic per effettuare una chiamata, e tutto viene registrato automaticamente a Salesforce per te.
+* Aumentare la probabilità di connettersi con un utente utilizzando la presenza locale.
+* Coach rappresenta e migliora le prestazioni del tuo team sfruttando le registrazioni delle chiamate per comprendere cosa funziona e cosa non funziona.
 
-## Come posso essere configurato rapidamente con il telefono di vendita? {#how-do-i-quickly-get-set-up-with-sales-phone}
+## Come posso impostare rapidamente il telefono di vendita? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Numero di telefono:** sarà necessario digitarlo una sola volta. Il numero di riferimento per tutte le chiamate future verrà memorizzato in Adobe Connect.
+**Numero di telefono:** Sarà necessario digitare il testo solo una volta. Sales Connect ricorderà il numero di telefono per tutte le chiamate future.
 
-**Presenza locale:** dovrete solo controllare &quot;use local presence&quot; (usa presenza locale) e registrare la chiamata per la prima chiamata. In Sales Connect vengono memorizzate le impostazioni per tutte le chiamate future.
+**Presenza locale:** Dovrai solo controllare &quot;usa presenza locale&quot; e registrare la chiamata per la tua prima chiamata. Sales Connect ricorda le impostazioni per tutte le chiamate future.
 
-Se desiderate che Sales Connect crei automaticamente un&#39;attività di chiamata in Salesforce, controllate [questo articolo](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+Se si desidera che Sales Connect crei automaticamente un&#39;attività di chiamata in Salesforce, estrarre [articolo](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
-## Come si effettua una chiamata con il telefono di vendita? {#how-do-i-make-a-call-with-sales-phone}
+## Come posso effettuare una chiamata con il telefono di vendita? {#how-do-i-make-a-call-with-sales-phone}
 
-Puoi chiamare dal feed live in Gmail/Outlook e dal centro comandi nell’applicazione Web (pulsanti di chiamata e di chiamata e fai una chiamata e direttamente da qualsiasi contatto in Sales Connect.
+È possibile chiamare dal feed live in Gmail/Outlook e dal centro di comando nell&#39;applicazione Web (Call &amp; Make a Call Buttons e direttamente da qualsiasi contatto in Sales Connect.
 
-Potete chiamare da Niko, ma non siamo ancora in grado di supportare la registrazione delle chiamate o la presenza locale da lì.
+Puoi chiamare da Niko, ma non supportiamo ancora la registrazione delle chiamate o la presenza locale da lì.
 
-In Centro comandi, puoi utilizzare l&#39;elenco delle chiamate dalla scheda inviata.
+In Centro comandi è possibile utilizzare la &quot;lista di chiamate&quot; dalla scheda inviata.
 
-Una volta raggiunta la chiamata o effettuata una chiamata, il Sales Connect effettua il pulling del numero di telefono del lead/contatto da Salesforce. Se in Salesforce non è elencato alcun numero, Sales Connect recupererà il numero di telefono del record dell&#39;account.
+Una volta effettuata una chiamata o effettuata una chiamata, Sales Connect effettua il richiamo del numero di telefono del lead/contatto da Salesforce. Se non è presente alcun numero in Salesforce, Sales Connect inserirà il numero di telefono nel record dell&#39;account.
 
-Per i team che utilizzano altri CRMS, Sales Connect estrae il numero di telefono dal numero registrato in Sales Connect. Questi dati possono essere facilmente disponibili tramite un [caricamento CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+Per i team che utilizzano altri CRMS, Sales Connect estrarrà il numero di telefono dal numero del record in Sales Connect. Questi dati possono essere facilmente disponibili tramite un [Caricamento CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-Premere il grande tasto **Call** verde. Il telefono inizierà a suonare. Il telefono e il reparto vendite chiameranno automaticamente il lead/contatto.
+Colpisci il grande verde **Chiamata** pulsante . Il telefono inizierà a suonare. Raccogli il telefono e il Sales Connect chiamerà automaticamente il lead/contatto.

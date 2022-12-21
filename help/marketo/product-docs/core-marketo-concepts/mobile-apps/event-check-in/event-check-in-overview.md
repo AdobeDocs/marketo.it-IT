@@ -2,10 +2,9 @@
 description: Panoramica del check-in degli eventi
 title: Panoramica del check-in degli eventi
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -24,26 +23,26 @@ Organizza un grande evento!
 
 Prima dell’evento:
 
-* [Crea un nuovo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ruolo Marketo per gli utenti iPad o Android per l’evento
-* [Invitare nuovi utenti di tablet all’](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) evento e assegnargli il nuovo ruolo
+* [Creare un nuovo ruolo Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) per gli utenti iPad o Android per l’evento
+* [Invitare nuovi utenti di tablet all’evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e assegnare loro il nuovo ruolo
 * [Creare un nuovo programma di eventi Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * Specifica le date dell’evento
 * Aggiungi persone all&#39;evento
 
-## Configurazione iPad o Android Tablet
+## Configurazione di iPad o Android Tablet
 
-Per preparare iPad o tablet Android:
+Per preparare il tablet iPad o Android:
 
-* Scarica e installa l’app Marketo Events iPad o Android Tablet
+* Scaricare e installare l’app Marketo Events iPad o Android per tablet
 * Conferma delle credenziali di accesso
 * Sincronizza l’app per popolare l’evento
 * Conferma del funzionamento dei check-in
 
-## Controllare le persone in utilizzando l’iPad o il Tablet
+## Controllare le persone in utilizzando iPad o Tablet
 
 All&#39;evento:
 
 * Accesso all’app
 * Trova ospiti (e crea nuove persone)
-* [Check-in ospiti](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)  (check-in a ritroso, modifica record persona al check-in)
-* Sincronizza l’app per tablet iPad o Android con Marketo
+* [Check-in degli ospiti](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (archiviazione inversa, modifica record persona al momento del check-in)
+* Sincronizza l’app tablet iPad o Android con Marketo

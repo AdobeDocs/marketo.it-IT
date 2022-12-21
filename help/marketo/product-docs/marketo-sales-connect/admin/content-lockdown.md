@@ -1,25 +1,24 @@
 ---
 unique-page-id: 37355755
 description: Blocco dei contenuti - Documenti Marketo - Documentazione del prodotto
-title: Blocco contenuto
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+title: Blocco del contenuto
+exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# Blocco del contenuto {#content-lockdown}
 
-# Blocco contenuto {#content-lockdown}
-
-Abilitando il blocco dei contenuti, gli utenti non amministratori non possono modificare modelli e/o campagne. Gli utenti non potranno: condividere, duplicare, modificare o eliminare contenuti. Inoltre, non avranno la possibilità di archiviare i modelli.
+Attivando il blocco dei contenuti, gli utenti non amministratori non possono modificare modelli e/o campagne. Gli utenti non potranno: condividere, clonare, modificare o eliminare contenuti. Inoltre, non avranno la possibilità di archiviare i modelli.
 
 >[!NOTE]
 >
->Gli utenti **saranno comunque in grado di modificare il contenuto di un&#39;e-mail al momento dell&#39;invio o dell&#39;avvio di una campagna.**
+>Utenti **sarà** puoi comunque modificare il contenuto di un’e-mail al momento dell’invio o all’avvio di una campagna.
 
-1. In Sales Connect, fate clic sull&#39;icona delle impostazioni e selezionate **Settings**.
+1. In Sales Connect, fare clic sull&#39;icona delle impostazioni e selezionare **Impostazioni**.
 
    ![](assets/one-4.png)
 
@@ -27,6 +26,6 @@ Abilitando il blocco dei contenuti, gli utenti non amministratori non possono mo
 
    ![](assets/two-4.png)
 
-1. Scorri verso il basso fino a Blocca contenuto. Attivando uno dei cursori _si disattiverà_ la capacità dei membri del team di creare/modificare modelli e/o campagne.
+1. Scorri verso il basso fino a Blocco del contenuto. Accendere uno dei dispositivi di scorrimento _disable_ la capacità dei membri del team di creare/modificare modelli e/o campagne.
 
    ![](assets/three-4.png)

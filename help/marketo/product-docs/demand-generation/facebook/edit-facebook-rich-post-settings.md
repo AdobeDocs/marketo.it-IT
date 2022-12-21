@@ -1,67 +1,66 @@
 ---
 unique-page-id: 2950555
-description: Modifica impostazioni Facebook Rich Post - Documenti Marketo - Documentazione del prodotto
-title: Modifica impostazioni post RTF Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Modificare le impostazioni di Facebook Rich Post - Documentazione Marketo - Documentazione del prodotto
+title: Modifica impostazioni di Facebook Rich Post
+exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
+# Modifica impostazioni di Facebook Rich Post {#edit-facebook-rich-post-settings}
 
-# Modifica impostazioni post RTF di Facebook {#edit-facebook-rich-post-settings}
-
-Personalizzate i post quando gli utenti vi condividono su Facebook.
+Personalizza i post quando le persone ti condividono su Facebook.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Per informazioni, contattate il rappresentante commerciale.
+>Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
 
-Le [app per social network](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) consentono ai lead di condividere le pagine di destinazione con le loro connessioni sui social network come Facebook, Twitter, ecc. I tag OpenGraph di Facebook (tag OG) consentono di specificare quali informazioni della pagina di destinazione sono incluse nei post di Facebook.
+Marketo [app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) consenti ai lead di condividere le pagine di destinazione con le loro connessioni su social network come Facebook, Twitter, ecc. I tag OpenGraph di facebook (tag OG) consentono di specificare quali informazioni della pagina di destinazione sono incluse nei post di Facebook.
 
-## Seleziona le opzioni per i post avanzati {#select-rich-post-options}
+## Selezionare le opzioni del post RTF {#select-rich-post-options}
 
-Potete specificare i tipi di informazioni di pagina da utilizzare nei post ricchi di Facebook generati dalle condivisioni dalla pagina di destinazione.
+Puoi specificare i tipi di informazioni di pagina da utilizzare nei post rich post di Facebook generati dalle condivisioni dalla pagina di destinazione.
 
-1. Selezionate **Facebook Message** nell&#39;editor per il pulsante video o social di **YouTube**.
+1. Seleziona **Messaggio facebook** nell’editor per **YouTube** pulsante video o social.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Selezionate una delle seguenti opzioni per il messaggio di Facebook.
+1. Seleziona una delle seguenti opzioni per il messaggio Facebook.
 
-   * Aggiungi contenuto statico: Selezionate questa opzione per immettere manualmente il titolo, la didascalia e la descrizione.
+   * Aggiungi contenuto statico: Selezionare questa opzione per immettere manualmente il titolo, la didascalia e la descrizione.
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Aggiungi contenuto dinamico: L&#39;app per social network può utilizzare i tag `<TITLE>`, `<CAPTION>` e `<DESCRIPTION>` della pagina di destinazione per compilare il post RTF.
+   * Aggiungi contenuto dinamico: L’app social può utilizzare le’ della pagina di destinazione `<TITLE>`, `<CAPTION>`e `<DESCRIPTION>` tag per popolare il tuo post RTF.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >Questi dovrebbero già esistere nell&#39;origine della pagina, ma per un maggiore controllo, è possibile aggiungere alla pagina di destinazione specifici tag OG di Facebook.
+   >Questi dovrebbero già esistere nell’origine della pagina, ma per un maggiore controllo, puoi aggiungere alla pagina di destinazione tag OG specifici di Facebook.
 
-   * Non aggiungere contenuti avanzati: Limita i post di Facebook dalla pagina di destinazione al messaggio e al collegamento principali.
+   * Non aggiungere contenuti avanzati: Limita i post di Facebook dalla pagina di destinazione al solo messaggio principale e al collegamento.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Aggiungere tag OG di Facebook a una pagina di destinazione {#add-facebook-og-tags-to-a-landing-page}
 
-Per controllare gli elementi della pagina che verranno inclusi nelle condivisioni Facebook dalla pagina di destinazione, potete aggiungere alla pagina di destinazione tag OG (Open Graph) di Facebook per titolo, didascalia e descrizione.
+Per controllare gli elementi della pagina che verranno inclusi nelle condivisioni Facebook dalla pagina di destinazione, puoi aggiungere alla pagina di destinazione tag OG (Open Graph) di Facebook per titolo, didascalia e descrizione.
 
-1. Aprite la pagina di destinazione che contiene il **pulsante video di YouTube** o il pulsante per social network.
+1. Apri la pagina di destinazione che contiene **Video YouTube** o pulsante social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   La **pagina di destinazione Designer** si apre in una nuova finestra.
+   La **Progettazione pagine di destinazione** si apre in una nuova finestra.
 
-1. Selezionare **Azioni pagina di destinazione** > **Modifica tag metadati pagina**.
+1. Seleziona **Azioni pagina di destinazione** > **Modifica tag dei metadati di una pagina**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. Aggiungete l’HTML che definisce og:title, og:caption e og:description. Copiate e incollate queste righe e sostituite il testo segnaposto:
+1. Aggiungi il HTML che definisce og:title, og:caption e og:description. Copiare e incollare queste righe e sostituire il testo segnaposto:
 
    `<meta property="og:title" content="My Post Title"/>`
 
@@ -73,4 +72,4 @@ Per controllare gli elementi della pagina che verranno inclusi nelle condivision
 
 >[!NOTE]
 >
->Prestate attenzione a utilizzare la sintassi HTML corretta quando aggiungete i tag OG.
+>Quando aggiungi i tag OG, assicurati di utilizzare la sintassi HTML corretta.

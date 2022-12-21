@@ -54,7 +54,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
    >
    >Il servizio scade automaticamente un anno dopo l&#39;autorizzazione. Per recuperare l&#39;accesso, fai clic su **Riautorizzare**. Potrebbe essere necessario reimmettere la password LinkedIn, a seconda delle impostazioni del browser.
 
-1. Seleziona gli account da cui desideri che i lead principali di LinkedIn entrino in Marketo e fai clic su **Successivo**.
+1. Seleziona gli account da cui desideri che i lead Gen LinkedIn entrino in Marketo e fai clic su **Successivo**.
 
    >[!TIP]
    >

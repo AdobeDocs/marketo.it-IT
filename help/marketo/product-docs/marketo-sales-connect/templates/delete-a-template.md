@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14352630
-description: Eliminare un modello - Documenti Marketo - Documentazione prodotto
+description: Eliminare un modello - Documenti Marketo - Documentazione del prodotto
 title: Eliminare un modello
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-
 # Eliminare un modello {#delete-a-template}
 
-Per eliminare un modello, effettuate le seguenti operazioni.
+Segui questi semplici passaggi per eliminare un modello.
 
 >[!CAUTION]
 >
->Eliminando un modello, verranno eliminati anche TUTTI i dati di monitoraggio e analisi associati.
+>L&#39;eliminazione di un modello comporta anche l&#39;eliminazione di TUTTI i dati di tracciamento e analisi associati ad esso.
 
-1. Selezionate il modello da rimuovere.
+1. Seleziona il modello da rimuovere.
 
-1. Fare clic sul menu a discesa in alto a destra, quindi fare clic su **Elimina**.
+1. Fai clic sull’elenco a discesa del menu in alto a destra, quindi fai clic su **Elimina**.
 
-1. Fare clic su **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.

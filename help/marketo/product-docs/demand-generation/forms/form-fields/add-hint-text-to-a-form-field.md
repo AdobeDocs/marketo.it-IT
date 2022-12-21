@@ -1,52 +1,51 @@
 ---
 unique-page-id: 2359671
-description: Aggiunta di testo di suggerimento a un campo modulo - Documenti Marketo - Documentazione prodotto
+description: Aggiungere testo di suggerimento a un campo modulo - Documenti Marketo - Documentazione del prodotto
 title: Aggiunta di testo di suggerimento a un campo modulo
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-
 # Aggiunta di testo di suggerimento a un campo modulo {#add-hint-text-to-a-form-field}
 
-Suggerimenti e [istruzioni](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) per consentire agli utenti di compilare i moduli. Ecco come aggiungere un suggerimento.
+Suggerimenti [istruzioni](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) aiutare le persone a compilare i moduli. Ecco come aggiungere un suggerimento.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->Il modulo **Suggerimenti** è testo all&#39;interno del campo che scompare quando il visitatore inizia a digitare nel campo.
+>Modulo **Suggerimenti** è un testo all’interno del campo che scompare quando il visitatore inizia a digitare nel campo.
 >
->Le **Istruzioni** del modulo sono piccole descrizioni comandi che vengono visualizzate quando il visitatore passa il mouse sul campo.
+>Modulo **Istruzioni** sono piccole descrizioni a comparsa quando il visitatore passa il mouse sul campo.
 
-1. Andate a **Marketing Activities**.
+1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selezionare il modulo e fare clic su **Modifica modulo**.
+1. Seleziona il modulo e fai clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Selezionare il campo e inserire il **Testo hint**.
+1. Seleziona il campo e immetti il tuo **Testo suggerimento**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Fare clic su **Approva e Chiudi**.
+1. Fai clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
    >[!NOTE]
    >
-   >Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche apportate al modulo.
+   >Non dimenticarti di [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creato dalle modifiche al modulo.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Guardate! Andiamo avanti e aggiungiamo alcune [istruzioni](add-tooltip-instructions-to-a-form-field.md) ora.
+Guardate! Andiamo avanti e aggiungiamo un po&#39; [istruzioni](add-tooltip-instructions-to-a-form-field.md) ora.

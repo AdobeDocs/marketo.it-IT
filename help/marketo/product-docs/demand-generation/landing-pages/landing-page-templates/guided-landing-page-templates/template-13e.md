@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello 13E {#template-13e}
 
-Fai clic con il pulsante destro del mouse per [scaricare Template 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+Fai clic con il pulsante destro del mouse per [scarica modello 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 

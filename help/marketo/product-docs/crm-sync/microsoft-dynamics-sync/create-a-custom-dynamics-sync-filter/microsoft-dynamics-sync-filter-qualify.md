@@ -1,13 +1,12 @@
 ---
 unique-page-id: 10092977
 description: Filtro Microsoft Dynamics Sync - Qualifica - Documenti Marketo - Documentazione del prodotto
-title: Filtro di sincronizzazione Microsoft Dynamics - Qualifica
+title: Filtro Microsoft Dynamics Sync - Qualifica
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Per convertire un lead in un contatto in Microsoft Dynamics, assicurati di utilizzare questo processo di qualificazione predefinito. Quindi, sincronizzalo con Marketo.
 
-## Processo di conversione {#the-conversion-process}
+## Il processo di conversione {#the-conversion-process}
 
 Ecco come funzionano i filtri durante il processo di conversione.
 

@@ -3,7 +3,6 @@ unique-page-id: 1147070
 description: Esportare i risultati di una campagna avanzata in Excel - Documenti Marketo - Documentazione del prodotto
 title: Esportare i risultati di una campagna avanzata in Excel
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Esporta i risultati della campagna intelligente in Excel da utilizzare al di fuori di Marketo.
 
-1. Nella campagna intelligente, fai clic su **Risultati** e quindi sull&#39;icona di esportazione nella parte inferiore.
+1. Nella campagna intelligente, fai clic su **Risultati** e poi l&#39;icona di esportazione in basso.
 
    ![](assets/exportexcel-hands.png)
 

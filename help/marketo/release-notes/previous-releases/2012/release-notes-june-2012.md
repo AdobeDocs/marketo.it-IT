@@ -64,7 +64,7 @@ Quando pianifichi una campagna, puoi fare clic sul collegamento per visualizzare
 
 ## Passaggio di attesa: token lead e token personale {#wait-step-lead-token-and-my-token}
 
-Nella versione di maggio sono state aggiunte opzioni avanzate al passaggio Flusso di attesa . Con queste modifiche, puoi specificare un giorno, una data e un’ora aziendali. In questa versione, è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, puoi utilizzare `{{lead.Birthday}}` per inviare un messaggio e-mail per il compleanno o utilizzare `{{my.Event Date}}` per inviare un promemoria del webinar finale.
+Nella versione di maggio sono state aggiunte opzioni avanzate al passaggio Flusso di attesa . Con queste modifiche, puoi specificare un giorno, una data e un’ora aziendali. In questa versione, è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, è possibile utilizzare `{{lead.Birthday}}` per inviare un&#39;e-mail sul loro compleanno o utilizzare `{{my.Event Date}}` per inviare un promemoria del webinar finale.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

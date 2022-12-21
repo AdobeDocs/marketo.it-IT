@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Note sulla versione: Gennaio 2013 {#release-notes-january}
 
-La versione di gennaio espande la nostra offerta social con **Offerte di riferimento**. Inoltre, gli utenti di Gestione lead di Marketo possono impostare il proprio fuso orario, la lingua e le preferenze internazionali. Le caratteristiche contrassegnate con un * sono disponibili solo in Seleziona edizione.
+La versione di gennaio amplia la nostra offerta social con **Offerte di riferimento**. Inoltre, gli utenti di Gestione lead di Marketo possono impostare il proprio fuso orario, la lingua e le preferenze internazionali. Si prega di notare che le caratteristiche contrassegnate con un &#42; sono disponibili solo in Seleziona edizione.
 
 ## Offerte di riferimento {#referral-offers}
 
-Un **Offerta di riferimento** offre ai lead un incentivo a fare riferimento ai loro amici. Crea obiettivi e premi per referrals di successo. Puoi utilizzarlo nelle pagine di destinazione, nel sito web e persino in Facebook.
+A **Offerta di riferimento** dà ai tuoi lead un incentivo a fare riferimento ai loro amici. Crea obiettivi e premi per referrals di successo. Puoi utilizzarlo nelle pagine di destinazione, nel sito web e persino in Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

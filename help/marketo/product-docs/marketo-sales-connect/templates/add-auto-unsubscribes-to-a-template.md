@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352637
-description: Aggiunta di sottoscrizioni automatiche a un modello - Documenti Marketo - Documentazione prodotto
-title: Aggiunta di sottoscrizioni automatiche a un modello
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Aggiungi l’annullamento automatico dell’abbonamento a un modello - Documenti Marketo - Documentazione del prodotto
+title: Aggiunta dell’annullamento automatico dell’abbonamento a un modello
+exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
+# Aggiunta dell’annullamento automatico dell’abbonamento a un modello {#add-auto-unsubscribes-to-a-template}
 
-# Aggiunta di sottoscrizioni automatiche a un modello {#add-auto-unsubscribes-to-a-template}
+1. Seleziona il modello e fai clic su **Modifica** nella sezione Annulla sottoscrizione .
 
-1. Selezionate il modello e fate clic su **Modifica** nella sezione Annulla sottoscrizione.
+1. Seleziona se desideri aggiungere l’annullamento dell’abbonamento automatico, l’annullamento dell’abbonamento per blocco automatico o entrambi.
 
-1. Selezionate se desiderate aggiungere l’annullamento della sottoscrizione automatica, l’annullamento della sottoscrizione per blocco automatico o entrambi.
-
-   Una volta salvate le selezioni, queste verranno aggiunte automaticamente sotto la firma ogni volta che si inviano e-mail con questo modello.
+   Una volta salvate queste selezioni, queste verranno aggiunte automaticamente sotto la firma ogni volta che invii e-mail con questo modello.
 
 >[!NOTE]
 >
->È inoltre possibile regolare la modalità di visualizzazione di questi messaggi di annullamento della sottoscrizione dalla scheda **Fuso orario e Annulla sottoscrizione** in **Impostazioni**.
+>Puoi anche regolare la modalità di visualizzazione dei messaggi di annullamento dell’abbonamento dalla **Fuso orario e Annulla sottoscrizione** scheda in **Impostazioni**.

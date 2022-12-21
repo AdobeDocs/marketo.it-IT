@@ -3,7 +3,6 @@ unique-page-id: 2949273
 description: SEO - Utilizzare il rapporto Tendenze parole chiave - Marketo Docs - Documentazione del prodotto
 title: SEO - Utilizzare il rapporto Tendenze parole chiave
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
@@ -21,7 +20,7 @@ In questo rapporto puoi vedere in che modo ti trovi in una classifica delle paro
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Fai clic su **Tendenze di classificazione delle parole chiave**.
+1. Fai clic su **Tendenze della classificazione delle parole chiave**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -36,7 +35,7 @@ In questo rapporto puoi vedere in che modo ti trovi in una classifica delle paro
    | Parole chiave | Il numero di parole chiave che stai tracciando. |
    | URL di classificazione | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
    | Media rango | Il grado medio delle parole chiave nell&#39;intervallo impostato. |
-   | Media ricerche | Il numero medio di ricerche su quelle parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, sulla ricerca Google US |
+   | Media ricerche | Numero medio di ricerche nelle parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, nella ricerca Google US |
 
 ## Filtrare i dati {#filtering-data}
 
@@ -48,7 +47,7 @@ In questo rapporto puoi vedere in che modo ti trovi in una classifica delle paro
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Esportazione di dati {#exporting-data}
+## Esportazione dei dati {#exporting-data}
 
 >[!TIP]
 >

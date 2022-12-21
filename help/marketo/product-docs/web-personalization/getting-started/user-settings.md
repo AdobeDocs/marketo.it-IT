@@ -1,23 +1,22 @@
 ---
 unique-page-id: 4719336
-description: Impostazioni utente - Documenti Marketo - Documentazione prodotto
+description: Impostazioni utente - Documentazione Marketo - Documentazione del prodotto
 title: Impostazioni utente
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
 # Impostazioni utente {#user-settings}
 
-Modificare le impostazioni come il fuso orario o i rapporti e-mail sulla personalizzazione Web.
+Modifica impostazioni come fuso orario o rapporti e-mail di personalizzazione web.
 
 ## Profilo utente / Password / Fusi orari {#user-profile-passwords-time-zones}
 
-1. Fate clic sul vostro nome e selezionate **Impostazioni utente**.
+1. Fai clic sul nome e seleziona **Impostazioni utente**.
 
    ![](assets/one.png)
 
@@ -25,31 +24,31 @@ Modificare le impostazioni come il fuso orario o i rapporti e-mail sulla persona
 
    ![](assets/two.png)
 
-   Nella pagina Impostazioni utente potete:
+   Nella pagina Impostazioni utente è possibile:
 
    * Modificare l&#39;indirizzo e-mail
    * Aggiungi dati personali (nome e cognome, numero mobile e fuso orario)
-   * Selezionare il numero di righe che si desidera esportare durante l&#39;esportazione delle tabelle nella piattaforma. Vedere campo: &quot;Numero massimo di righe nell&#39;esportazione Excel (limitato a 10.000)&quot;
-   * Seleziona le notifiche per dispositivi mobili per una nuova persona o un elenco di orologi correlato all’applicazione mobile
-   * Regolare le impostazioni della regione personale facendo clic su **Modifica regioni**.
+   * Seleziona il numero di righe da esportare durante l’esportazione di tabelle nella piattaforma. Campo: &quot;Numero massimo di righe nell’esportazione Excel (limitato a 10.000)&quot;
+   * Seleziona le notifiche mobile per una nuova persona o un elenco di orologi relativo all’app mobile
+   * Regolare le impostazioni dell&#39;area personale facendo clic su **Modifica aree**.
    * Modificare la password
-   * Seleziona le impostazioni di notifica Rapporto e-mail per i rapporti e-mail su Organizzazioni, Persone, Campaign e Prestazioni risorsa
+   * Seleziona le impostazioni di notifica per i rapporti e-mail su organizzazioni, persone, campagne e prestazioni delle risorse
 
-   Fare clic su **Salva** dopo aver apportato le modifiche.
+   Fai clic su **Salva** dopo aver apportato eventuali modifiche.
 
    >[!NOTE]
    >
-   >Quando si seleziona la propria area geografica, vengono visualizzati solo i dati e inviati rapporti e-mail relativi a organizzazioni e persone provenienti dalla regione definita.
+   >Selezionando la propria area geografica verranno visualizzati solo i dati e inviati rapporti e-mail relativi a organizzazioni e persone provenienti dalla regione definita.
 
-## Seleziona report e-mail {#select-email-reports}
+## Selezionare Report e-mail {#select-email-reports}
 
-Selezionare il [rapporto e-mail](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) da associare all&#39;utente e la frequenza (giornaliera, settimanale o trimestrale) alla quale verrà inviato il rapporto.
+Seleziona quale [rapporto e-mail](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) da associare all’utente e alla frequenza (giornaliera, settimanale o trimestrale) dell’invio del rapporto.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Facendo clic su **Salva** non si esce da Impostazioni utente. Per uscire, fai clic sul logo Marketo in alto a sinistra e seleziona la destinazione.
+>Clic **Salva** non ti uscirà da Impostazioni utente. Per uscire, fai clic sul logo Marketo in alto a sinistra e seleziona la destinazione.
 
 >[!MORELIKETHIS]
 >
