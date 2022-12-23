@@ -5,7 +5,7 @@ title: Trigger account
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Ascolta e agisce su importanti attività comportamentali a livello di account su diversi canali (ad esempio, e-mail, web, annunci) utilizzando trigger a livello di account.
 
-Seleziona la campagna avanzata e fai clic su **[!UICONTROL Smart List]**.
+Seleziona la campagna avanzata e fai clic su **[!UICONTROL Elenco avanzato]**.
 
 ![](assets/one-1.png)
 

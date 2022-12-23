@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: fdb4ae1c-a638-4aa3-aa09-1993760b8be5
 source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati
 
 Ecco come valutare lo stato di salute del modello.
 
-Passa a **[!UICONTROL Models and Data Health]** sezione **[!UICONTROL Predictive Audiences]** in **[!UICONTROL Admin]** area di Marketo Classic. Qui potrai vedere tutti i tuoi modelli e i loro stati.
+Passa a **[!UICONTROL Modelli e integrità dei dati]** sezione **[!UICONTROL Predictive Audiences]** in **[!UICONTROL Amministratore]** area di Marketo Classic. Qui potrai vedere tutti i tuoi modelli e i loro stati.
 
 ![Immagine uno](assets/model-health-and-data-validity-1.png)
 

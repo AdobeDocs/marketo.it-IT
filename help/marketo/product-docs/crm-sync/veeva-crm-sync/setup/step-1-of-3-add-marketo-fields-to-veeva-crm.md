@@ -98,7 +98,7 @@ Posizioni decimali 0</td>
 1. Deseleziona la casella di controllo Sola lettura per il profilo dell&#39;utente di sincronizzazione:
 
 * Se si dispone di un utente con il profilo di un amministratore di sistema come utente di sincronizzazione, deselezionare la casella di controllo Sola lettura del profilo Amministratore di sistema (come mostrato di seguito).
-* Se hai creato un profilo personalizzato per l’utente di sincronizzazione, deseleziona la casella di controllo Sola lettura per tale profilo personalizzato.
+* Se hai creato un profilo personalizzato per l’utente di sincronizzazione, deseleziona la casella di controllo Sola lettura per quel profilo personalizzato.
 
    ![](assets/step-1-of-3-add-marketo-fields-9.png)
 

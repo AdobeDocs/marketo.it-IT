@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -30,22 +30,22 @@ Limita la quantità di persone che possono registrarsi per l’evento con un lim
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. Nella panoramica , trova [!UICONTROL Event Cap] e fai clic su **[!UICONTROL Not Set]**.
+1. Nella panoramica , trova [!UICONTROL Estensione evento] e fai clic su **[!UICONTROL Non impostato]**.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. Inserisci la quantità massima di persone che desideri registrare per l’evento e fai clic su **[!UICONTROL Next]**.
+1. Inserisci la quantità massima di persone che desideri registrare per l’evento e fai clic su **[!UICONTROL Successivo]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Fai clic sul pulsante [!UICONTROL Registration Page] e seleziona la pagina di destinazione che fungerà da pagina di registrazione.
+1. Fai clic sul pulsante [!UICONTROL Pagina di registrazione] e seleziona la pagina di destinazione che fungerà da pagina di registrazione.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Registration Full Page]** e seleziona la pagina di destinazione che fungerà da pagina completa della registrazione. Fai clic su **[!UICONTROL Set and Enable]** al termine.
+1. Fai clic sul pulsante **[!UICONTROL Pagina completa registrazione]** e seleziona la pagina di destinazione che fungerà da pagina completa della registrazione. Fai clic su **[!UICONTROL Imposta e abilita]** al termine.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   Siete tutti pronti. Per modificare i dettagli del limite dell’evento, fai clic sul testo blu accanto a [!UICONTROL Event Cap].
+   Siete tutti pronti. Per modificare i dettagli del limite dell’evento, fai clic sul testo blu accanto a [!UICONTROL Estensione evento].
 
    ![](assets/setting-an-event-cap-6.png)

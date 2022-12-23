@@ -4,7 +4,7 @@ title: Guida introduttiva di Predictive Audiences
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,6 @@ Le prestazioni dei modelli AI/ML si basano sui dati presenti nell’abbonamento.
 
 Predictive Audiences viene automaticamente incluso e attivato per le istanze che utilizzano i bundle di prezzi Prime o Ultimate. Per ulteriori informazioni su come accedere a questa funzione, contatta il tuo Customer Success Manager.
 
-1. Una volta aggiunta la funzione all’istanza, passa alla **[!UICONTROL Predictive Audiences]** nella pagina **[!UICONTROL Admin]** area di Marketo.
+1. Una volta aggiunta la funzione all’istanza, passa alla **[!UICONTROL Predictive Audiences]** nella pagina **[!UICONTROL Amministratore]** area di Marketo.
 
-1. Controlla **[!UICONTROL Enable Predictive Audiences]** per attivare la funzione. Tieni presente che il completamento della configurazione potrebbe richiedere fino a 24 ore.
+1. Controlla **[!UICONTROL Abilita Predictive Audiences]** per attivare la funzione. Tieni presente che il completamento della configurazione potrebbe richiedere fino a 24 ore.

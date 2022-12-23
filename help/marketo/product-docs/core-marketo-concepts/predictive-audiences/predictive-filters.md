@@ -4,7 +4,7 @@ title: Filtri predittivi
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Questo filtra il pubblico in base alla probabilità che annulli l’abbonamento 
 
 Questi due filtri consentono di espandere il pubblico corrente mediante il targeting di lead aggiuntivi simili ai membri di un altro programma o di un elenco avanzato. I filtri lookalike considerano più di 50 fattori, tra cui attributi lead, attività e-mail, attività web e coinvolgimento.
 
-Fai clic su **[!UICONTROL Add Constraint]** scegliere i criteri di successo per i membri dei programmi selezionati.
+Fai clic su **[!UICONTROL Aggiungi vincolo]** scegliere i criteri di successo per i membri dei programmi selezionati.
 
 Fai clic sul pulsante **+** per aggiungere facilmente più programmi/elenchi smart a un filtro.
 

@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
 source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ Le prestazioni dei modelli AI/ML si basano sui dati presenti nell’abbonamento.
 
 Predictive Audiences viene automaticamente incluso e attivato per le istanze che utilizzano i bundle di prezzi Prime o Ultimate. Per ulteriori informazioni su come accedere a questa funzione, contatta il tuo Customer Success Manager.
 
-1. Una volta aggiunta la funzione all’istanza, passa alla **[!UICONTROL Predictive Audiences]** nella pagina **[!UICONTROL Admin]** area [!DNL Marketo Classic].
+1. Una volta aggiunta la funzione all’istanza, passa alla **[!UICONTROL Predictive Audiences]** nella pagina **[!UICONTROL Amministratore]** area [!DNL Marketo Classic].
 
-1. Controlla **[!UICONTROL Enable Predictive Audiences]** per attivare la funzione. Tieni presente che potrebbero essere necessarie fino a 24 ore per completare la configurazione di tutti i processi.
+1. Controlla **[!UICONTROL Abilita Predictive Audiences]** per attivare la funzione. Tieni presente che potrebbero essere necessarie fino a 24 ore per completare la configurazione di tutti i processi.
 
    ![Immagine uno](assets/getting-started-with-predictive-audiences-1.png)

@@ -136,7 +136,7 @@ Audit Trail offre una grande quantità di informazioni su chi sta facendo cosa n
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>Modulo di modifica <code>"<module name>" <attribute></code> a "value"</td> 
+   <td>Modulo di modifica <module name><attribute> a "value"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 

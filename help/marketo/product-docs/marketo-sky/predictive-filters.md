@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 29c586d1-6c7d-4892-9c71-354af1552076
 source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Questo filtra il pubblico in base alla probabilità che annulli l’abbonamento 
 
 Questi due filtri consentono di espandere il pubblico corrente mediante il targeting di lead aggiuntivi simili ai membri di un altro programma o di un elenco avanzato. I filtri lookalike considerano più di 50 fattori, tra cui attributi lead, attività e-mail, attività web e coinvolgimento.
 
-Fai clic su **[!UICONTROL Add Constraint]** scegliere i criteri di successo per i membri dei programmi selezionati.
+Fai clic su **[!UICONTROL Aggiungi vincolo]** scegliere i criteri di successo per i membri dei programmi selezionati.
 
 Fai clic sull’icona + accanto al menu a discesa del programma per aggiungere facilmente più programmi/elenchi avanzati a un unico filtro.
 

@@ -78,7 +78,7 @@ Quasi finito! Abbiamo solo qualche ultima configurazione prima di passare al pro
 
    ![](assets/configure2.png)
 
-1. Fai clic sul pulsante **Utente Marketo** e seleziona l’utente di sincronizzazione.
+1. Fai clic sul pulsante **Utente Marketo** e seleziona l&#39;utente di sincronizzazione.
 
    ![](assets/configure3.png)
 

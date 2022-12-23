@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
 source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Dopo [impostazione degli obiettivi dell’evento](/help/marketo/product-docs/mar
 
 ## Tracciamento degli obiettivi e registrazioni previste {#goal-tracking-and-projected-registrations}
 
-1. Puoi trovare i dettagli di tracciamento dell’obiettivo nella sezione **[!UICONTROL Reports]** scheda del programma dell’evento. In questo particolare esempio, finora vi sono 150 iscritti contro un obiettivo di 200 (75%).
+1. Puoi trovare i dettagli di tracciamento dell’obiettivo nella sezione **[!UICONTROL Rapporti]** scheda del programma dell’evento. In questo particolare esempio, finora vi sono 150 iscritti contro un obiettivo di 200 (75%).
 
    ![Immagine uno](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Vedrai anche il tuo **[!UICONTROL Projected]** registrazioni. Passa il puntatore sull’icona delle informazioni per visualizzare una suddivisione di questo numero per segmento di probabilità.
+Vedrai anche il tuo **[!UICONTROL Proiettato]** registrazioni. Passa il puntatore sull’icona delle informazioni per visualizzare una suddivisione di questo numero per segmento di probabilità.
 
 ![Immagine 2](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -68,7 +68,7 @@ Nella parte superiore della pagina Rapporti puoi trovare consigli basati su AI/M
 
 ## Previsioni a livello di persona {#person-level-predictions}
 
-Fai clic sul pulsante **[!UICONTROL Members]** per visualizzare tutti i membri del programma. Passa il puntatore del mouse **[!UICONTROL Registration Likelihood]** o **[!UICONTROL Attendance Likelihood]** barre per visualizzare le percentuali esatte e le classificazioni. È quindi possibile intervenire sui membri di una determinata categoria (ad esempio, tutti nella categoria &quot;Meno probabile&quot; di registrare), e specificatamente mirarli per aumentare potenzialmente i numeri di registrazione.
+Fai clic sul pulsante **[!UICONTROL Membri]** per visualizzare tutti i membri del programma. Passa il puntatore del mouse **[!UICONTROL Probabilità di registrazione]** o **[!UICONTROL Probabilità di partecipazione]** barre per visualizzare le percentuali esatte e le classificazioni. È quindi possibile intervenire sui membri di una determinata categoria (ad esempio, tutti nella categoria &quot;Meno probabile&quot; di registrare), e specificatamente mirarli per aumentare potenzialmente i numeri di registrazione.
 
 ![Immagine sette](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -102,7 +102,7 @@ R: La best practice prevede quanto segue:
 
 i. Puoi creare un programma e quindi una campagna avanzata utilizza filtri predittivi con &quot;maggiore di X&quot;, che determinerebbero una certa quantità di persone (diciamo 1000) ed esegui la campagna.
 
-ii) Dopo 24 ore, nella [!UICONTROL Reports] è possibile visualizzare le registrazioni previste calcolate in base alla probabilità di registrare i valori di tutte le persone attualmente invitate.
+ii) Dopo 24 ore, nella [!UICONTROL Rapporti] è possibile visualizzare le registrazioni previste calcolate in base alla probabilità di registrare i valori di tutte le persone attualmente invitate.
 
 iii) Se le registrazioni previste sono inferiori all&#39;obiettivo, dovresti invitare più persone. A questo punto, potete vedere le intuizioni che vi dicono qual era la soglia che funzionava nei programmi passati.
 
