@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Campi personalizzati dei membri del programma - Documenti Marketo - Documentazione del prodotto
 title: Campi personalizzati membri del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 1%
 # Campi personalizzati membri del programma {#program-member-custom-fields}
 
 I campi personalizzati dei membri del programma consentono di raccogliere dati specifici per ciascun membro. Possono essere utilizzati in: Moduli Marketo, filtri e attivatori dell’elenco avanzato e azioni di flusso di Smart Campaign. I dati sono visualizzabili nella scheda Membri del programma.
-
->[!NOTE]
->
->Al momento i campi personalizzati dei membri del programma non dispongono di un’integrazione con i campi membri della campagna Salesforce.
 
 ## Creare un campo personalizzato per un membro del programma {#create-a-program-member-custom-field}
 
@@ -67,14 +63,18 @@ Puoi sfruttare questi dati specifici del programma in elenchi smart tramite [tri
 
 * I campi personalizzati dei membri del programma sono disponibili solo nelle risorse locali. Non sono supportati in Design Studio perché non è possibile collegarli a un programma specifico.
 * Non è possibile clonare/spostare in Design Studio un modulo (o una pagina di destinazione con un modulo) contenente campi personalizzati per i membri del programma.
+* [È possibile sincronizzare](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} campi personalizzati membri del programma con campi personalizzati membri della campagna.
 * L&#39;oggetto membro del programma può contenere fino a 20 campi personalizzati. Tali campi sono disponibili per qualsiasi programma.
 * Quando si rimuove un membro di un programma, se nel campo personalizzato Membro programma sono presenti dati, i dati verranno eliminati da tale campo.
 * Per visualizzare i dati, fare clic sulla scheda Membri nel programma e creare una visualizzazione personalizzata che includa tali campi.
 * Importazione ed esportazione tramite [elenco](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} e [API](https://developers.marketo.com/){target=&quot;_blank&quot;} sono supportati. Le esportazioni funzionano solo negli elenchi dei membri del programma, non negli elenchi statici.
-* Quando si uniscono due persone, vengono utilizzati i dati dei campi personalizzati dei membri del programma vincitori. Ma se il vincitore non ne ha, verrà utilizzato il valore del perdente.
+* Quando si uniscono due persone, verranno utilizzati i dati dei campi personalizzati dei membri del programma vincitori. Ma se il vincitore non ne ha, verrà utilizzato il valore del perdente.
 * Il tipo di modifica non è consentito nei campi Informazioni membro programma.
 * Il vincolo &quot;contiene&quot; elenco avanzato non è supportato per i campi personalizzati dei membri del programma.
 
 >[!MORELIKETHIS]
 >
->[Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>
+>* [Sincronizzazione campo personalizzata membro del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+
