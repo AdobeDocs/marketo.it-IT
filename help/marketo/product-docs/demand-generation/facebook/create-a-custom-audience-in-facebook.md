@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Creare un pubblico personalizzato in Facebook - Documentazione Marketo - Documentazione del prodotto
 title: Creare un pubblico personalizzato in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) nella sezione Amministratore.
->* [Accettare i termini personalizzati del pubblico di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account Facebook.
->
+>* [Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} nella sezione Amministratore.
+>* [Accettare i termini personalizzati del pubblico di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} nel tuo account Facebook.
 
 
 >[!TIP]
 >
->Ulteriori informazioni [tipi di pubblico personalizzati in Facebook](https://www.facebook.com/help/341425252616329).
+>Ulteriori informazioni [tipi di pubblico personalizzati in Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
 
 1. Trova e seleziona l’elenco statico o avanzato contenente i lead da cui desideri creare il pubblico.
 
@@ -55,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Ed è tutto! In Facebook vedrai il nuovo pubblico in **Ads Manager > Audiences**.
+   Ed è tutto! In Facebook vedrai il nuovo pubblico in **Gestione annunci** > **Tipi di pubblico**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -65,8 +64,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulta la sezione [Percorso di apprendimento facebook per i clienti Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Vengono trattati tutti gli aspetti necessari, dalla creazione di una pagina Facebook al targeting degli annunci Facebook tramite integrazioni di rete e annunci Marketo.
+   >Consulta la sezione [Percorso di apprendimento facebook per i clienti Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Vengono trattati tutti gli aspetti necessari, dalla creazione di una pagina Facebook al targeting degli annunci Facebook tramite integrazioni di rete e annunci Marketo.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Aggiungere lead a un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
