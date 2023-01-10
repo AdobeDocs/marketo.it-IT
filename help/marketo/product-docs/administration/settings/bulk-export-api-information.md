@@ -3,16 +3,16 @@ description: Informazioni API sull’esportazione in blocco - Documenti Marketo 
 title: Informazioni API per l’esportazione in blocco
 hide: true
 hidefromtoc: true
-source-git-commit: 54c6a3d3a9749abb39a1d74422b13cbdb260214a
+source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Informazioni API per l’esportazione in blocco {#bulk-export-api-information}
 
-Scopri come controllare la capacità di Estrazione di massa occupata dall’istanza di Marketo Engage negli ultimi sette giorni.
+Scopri come verificare il valore [API di estrazione in blocco](https://developers.marketo.com/rest-api/bulk-extract/)La capacità di {target=&quot;_blank&quot;} è stata occupata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
 
 >[!NOTE]
 >
