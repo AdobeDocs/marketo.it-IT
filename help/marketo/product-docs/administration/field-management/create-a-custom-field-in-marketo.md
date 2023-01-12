@@ -3,9 +3,9 @@ unique-page-id: 2360287
 description: Creare un campo personalizzato in Marketo - Documenti Marketo - Documentazione del prodotto
 title: Creare un campo personalizzato in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acquisire dati, ecco come crearne uno.
 
-1. Vai ad Amministratore e fai clic su **Gestione dei campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-24-13-3a46-3a26.png)
+   ![](assets/create-a-custom-field-in-marketo-1.png)
+
+1. Fai clic su **Gestione dei campi**.
+
+   ![](assets/create-a-custom-field-in-marketo-2.png)
 
    >[!TIP]
    >
@@ -24,7 +28,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acqui
 
 1. Fai clic su **Nuovo campo personalizzato**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-field-in-marketo-3.png)
 
 1. Scegliere il tipo di campo. Questo cambierà il rendering negli elenchi smart e nei moduli in Marketo.
 
@@ -32,7 +36,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acqui
    >
    >Consulta la sezione [Glossario dei tipi di campi personalizzati](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-   ![](assets/image2014-9-24-13-3a47-3a42.png)
+   ![](assets/create-a-custom-field-in-marketo-4.png)
 
 1. Immetti il Nome come desideri che appaia in Marketo. Il nome API viene generato automaticamente. È possibile modificarla, ma non può essere rinominata una volta impostata. Fai clic su **Crea** al termine.
 
@@ -40,7 +44,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo per memorizzare/acqui
 >
 >I nomi dei campi non possono iniziare con i seguenti caratteri: **. &amp; +[]**
 
-![](assets/image2014-9-24-13-3a48-3a26.png)
+![](assets/create-a-custom-field-in-marketo-5.png)
 
 >[!NOTE]
 >
