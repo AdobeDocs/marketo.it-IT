@@ -3,9 +3,9 @@ unique-page-id: 2360344
 description: Visualizzare le mappature dei campi tra Marketo e Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Visualizzare mappature dei campi tra Marketo e Salesforce
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,17 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** e fai clic su **Gestione dei campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. Fai clic su **Gestione dei campi**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. Trova il campo che ti interessa e fai clic sul pulsante **+** per espandere la mappatura.
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ unique-page-id: 2360293
 description: Rinomina un campo - Documentazione Marketo - Documentazione del prodotto
 title: Rinomina un campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,25 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai ad Amministratore e fai clic su **Gestione dei campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/rename-a-field-1.png)
+
+1. Fai clic su **Gestione dei campi**.
+
+   ![](assets/rename-a-field-2.png)
 
 1. Trova e seleziona il campo da rinominare, quindi fai clic sul nome del campo nell’area di lavoro.
+
+   ![](assets/rename-a-field-3.png)
 
    >[!TIP]
    >
    >Fai clic sul pulsante **Utilizzato da** collegamento per trovare le risorse che fanno riferimento a questo campo.
 
-   ![](assets/changefieldname.png)
-
 1. Rinomina il campo e fai clic su **Salva**.
 
-   ![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/rename-a-field-4.png)
 
 Bel lavoro! È ora possibile modificare la denominazione dei campi in Marketo.
 

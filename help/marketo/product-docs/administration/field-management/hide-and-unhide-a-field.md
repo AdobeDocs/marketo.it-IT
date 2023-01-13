@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: Nascondere e visualizzare un campo - Documenti Marketo - Documentazione del prodotto
 title: Nascondere e visualizzare un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,17 @@ Se non utilizzi più un campo in Marketo, puoi nasconderlo dall’interfaccia ut
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** e fai clic su **Gestione dei campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-18-13-3a10-3a3.png)
+   ![](assets/hide-and-unhide-a-field-1.png)
+
+1. Fai clic su **Gestione dei campi**.
+
+   ![](assets/hide-and-unhide-a-field-2.png)
 
 1. Trova il campo, selezionalo, quindi sotto **Azioni campo** click **Nascondi campo**.
 
-   ![](assets/fieldmanagement-hidefield-.png)
+   ![](assets/hide-and-unhide-a-field-3.png)
 
    >[!NOTE]
    >
@@ -34,21 +38,25 @@ Se non utilizzi più un campo in Marketo, puoi nasconderlo dall’interfaccia ut
 
 1. Fai clic su **Nascondi** per confermare.
 
-   ![](assets/image2014-9-18-13-3a10-3a36.png)
+   ![](assets/hide-and-unhide-a-field-4.png)
 
    Ottimo lavoro! Ora sai come nascondere un campo dall’interfaccia utente di Marketo.
 
-   ![](assets/image2014-9-18-13-3a10-3a45.png)
+   ![](assets/hide-and-unhide-a-field-5.png)
 
 ## Mostra campo {#unhide-a-field}
 
-1. Vai a **Amministratore** e fai clic su **Gestione dei campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-18-13-3a11-3a3.png)
+   ![](assets/hide-and-unhide-a-field-6.png)
+
+1. Fai clic su **Gestione dei campi**.
+
+   ![](assets/hide-and-unhide-a-field-7.png)
 
 1. Trova e seleziona il campo. Nell’elenco a discesa Azioni campo , fai clic su **Mostra campo**.
 
-   ![](assets/image2014-9-18-13-3a11-3a46.png)
+   ![](assets/hide-and-unhide-a-field-8.png)
 
    Ottimo lavoro! Ora sai come scoprire i campi e renderli nuovamente visibili nell’interfaccia utente di Marketo.
 
