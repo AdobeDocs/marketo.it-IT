@@ -3,9 +3,9 @@ unique-page-id: 10100269
 description: Modificare un’attività personalizzata - Documenti Marketo - Documentazione del prodotto
 title: Modificare un’attività personalizzata
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,29 @@ ht-degree: 0%
 
 Devi apportare modifiche a un’attività personalizzata già creata? Ecco come.
 
-1. Fai clic su **Amministratore**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/one-1.png)
+   ![](assets/edit-a-custom-activity-1.png)
 
-1. In **Gestione database** click **Attività personalizzate**.
+1. Fai clic su **Attività personalizzate Marketo**.
 
-   ![](assets/two-1.png)
+   ![](assets/edit-a-custom-activity-2.png)
 
 1. Seleziona l’attività personalizzata da modificare.
 
-   ![](assets/three-1.png)
+   ![](assets/edit-a-custom-activity-3.png)
 
 1. Fai clic su **Azioni di attività personalizzate** e seleziona **Modifica attività**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-a-custom-activity-4.png)
 
    Viene visualizzato Modifica tipo di attività. In questo esempio stiamo correggendo un errore di battitura.
 
-   ![](assets/five-1.png)
+   ![](assets/edit-a-custom-activity-5.png)
 
 1. Immetti le nuove informazioni e fai clic su **Invia**.
 
-   ![](assets/six-1.png)
+   ![](assets/edit-a-custom-activity-6.png)
 
    L’attività personalizzata viene ora modificata.
 

@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: Aggiungi/Modifica/Elimina campi attività personalizzati Marketo - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi/Modifica/Elimina campi attività personalizzati Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,29 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo d
 
 ## Aggiungi un campo di attività personalizzato {#add-a-custom-activity-field}
 
-1. In Attività personalizzate Marketo, fai clic su **Campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
+
+1. Fai clic su **Attività personalizzate Marketo**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
+
+1. Fai clic su **Campi**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
 1. Seleziona l’attività personalizzata a cui desideri aggiungere un campo.
 
-   ![](assets/two-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
 1. Fai clic su **Nuovo campo**.
 
-   ![](assets/three-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
 1. Scegliere il tipo di dati del campo.
 
-   ![](assets/four-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
@@ -38,31 +46,39 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo d
 
 1. Denomina il campo. Il nome dell’Api viene compilato automaticamente. Al termine, fai clic su **Salva**.
 
-   ![](assets/five-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
    Tutto qui! Il nuovo campo è stato aggiunto.
 
 ## Modificare un campo di attività personalizzato {#edit-a-custom-activity-field}
 
-1. In Attività personalizzate Marketo, fai clic su **Campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
+
+1. Fai clic su **Attività personalizzate Marketo**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
+
+1. Fai clic su **Campi**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
 1. Seleziona l’attività personalizzata che contiene il campo da modificare.
 
-   ![](assets/seven.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
 1. Seleziona il campo da modificare, fai clic sul pulsante **Azioni campo** a discesa e seleziona **Modifica campo**.
 
-   ![](assets/eight.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
    Viene visualizzata la finestra a comparsa Modifica campo. In questo esempio modifichiamo il nome del campo.
 
-   ![](assets/nine.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
 1. Immetti il nuovo nome e il nome dell&#39;Api, quindi fai clic su **Salva**.
 
-   ![](assets/ten.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
@@ -80,16 +96,22 @@ Il campo è ora modificato.
 
 ## Eliminare un campo di attività personalizzato {#delete-a-custom-activity-field}
 
-1. In Attività personalizzate Marketo, fai clic su **Campi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/one-3.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
+
+1. Fai clic su **Attività personalizzate Marketo**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
+
+1. Fai clic su **Campi**.
+
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
 1. Seleziona l’attività personalizzata che contiene il campo da eliminare.
 
-   ![](assets/twelve.png)
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
 1. Seleziona il campo da eliminare, fai clic sul pulsante **Azioni campo** a discesa e seleziona **Elimina campo**.
 
-   ![](assets/thirteen.png)
-
-   È così facile!
+   ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

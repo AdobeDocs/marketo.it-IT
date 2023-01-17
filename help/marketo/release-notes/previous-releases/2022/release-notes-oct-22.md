@@ -1,10 +1,10 @@
 ---
 description: Note sulla versione - Ottobre 2022 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Ottobre 2022
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 3%
+source-wordcount: '601'
+ht-degree: 2%
 
 ---
 
@@ -172,20 +172,6 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
 </table>
 
 * **Supporta tipi di dati aggiuntivi per la chat dinamica**: Tre nuovi tipi di dati (booleano, intero, mobile) ti consentono di sfruttare più campi di Marketo Engage esistenti nella chat dinamica per elementi come il targeting basato su punteggi o fare ai visitatori domande sì/no.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td><i>In arrivo</i></td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Notifiche di riunione pianificate per chat dinamica**: I rappresentanti di vendita ricevono notifiche e-mail automatizzate relative alle riunioni programmate e a qualsiasi informazione pertinente sull&#39;interazione del chatbot del visitatore.
 
 <table> 
   <tr> 

@@ -3,7 +3,7 @@ unique-page-id: 10100272
 description: Pubblicare un’attività personalizzata - Documenti Marketo - Documentazione del prodotto
 title: Pubblicare un’attività personalizzata
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -14,28 +14,28 @@ ht-degree: 0%
 
 L’attività personalizzata è esattamente come desideri. Ora, è ora di pubblicarlo!
 
-1. Fai clic su **Amministratore**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/one-2.png)
+   ![](assets/publish-a-custom-activity-1.png)
 
-1. In **Gestione database** click **Attività personalizzate Marketo**.
+1. Fai clic su **Attività personalizzate Marketo**.
 
-   ![](assets/two-2.png)
+   ![](assets/publish-a-custom-activity-2.png)
 
 1. Seleziona l’attività personalizzata da pubblicare.
 
-   ![](assets/three-2.png)
+   ![](assets/publish-a-custom-activity-3.png)
 
 1. Fai clic sul pulsante **Azioni di attività personalizzate** a discesa e seleziona **Pubblica attività**.
 
-   ![](assets/four-2.png)
+   ![](assets/publish-a-custom-activity-4.png)
 
    Lo stato dell’attività personalizzata verrà visualizzato da Bozza...
 
-   ![](assets/five-2.png)
+   ![](assets/publish-a-custom-activity-5.png)
 
    ...Pubblicato.
 
-   ![](assets/six-2.png)
+   ![](assets/publish-a-custom-activity-6.png)
 
    Ben fatto!
