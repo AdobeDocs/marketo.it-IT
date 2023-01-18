@@ -2,10 +2,10 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 9%
+source-wordcount: '635'
+ht-degree: 8%
 
 ---
 
@@ -175,20 +175,6 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
 </table>
 
 * **Notifiche e-mail delle riunioni pianificate per chat dinamica**: Quando una riunione viene prenotata sul calendario di un agente, l&#39;agente riceverà una notifica e-mail sulla prenotazione, incluse informazioni dettagliate sul coinvolgimento di Chat dinamica del visitatore.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Rapporto di coinvolgimento della finestra di dialogo per la chat dinamica**: Offre una visualizzazione del coinvolgimento di Dialog nel tempo, inclusa la possibilità di filtrare in base al tipo di visitatore e al tipo di coinvolgimento.
 
 <table> 
   <tr> 
