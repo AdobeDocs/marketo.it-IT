@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: Approvare un oggetto personalizzato - Documenti Marketo - Documentazione del prodotto
 title: Approvare un oggetto personalizzato
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ ht-degree: 0%
 
 È stato creato un nuovo oggetto personalizzato. Ecco come approvarlo.
 
-1. In Admin, fai clic su **Oggetti personalizzati Marketo** e selezionare un oggetto in stato Bozza.
+1. Vai a **Amministratore** area.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Fai clic su **Oggetti personalizzati Marketo**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Selezionare un oggetto in stato Bozza.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Fai clic sul pulsante **Azioni oggetto personalizzate** a discesa e seleziona **Approva oggetto**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. Lo stato diventa Approvato.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ Dopo aver modificato un oggetto personalizzato approvato, è necessario approvar
 
 1. Quando si modifica un oggetto personalizzato già approvato, questo riceve uno stato Approvato con stato Bozza.
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. Quando sei pronto per approvare la bozza, fai clic sul pulsante **Azioni oggetto personalizzate** a discesa e seleziona **Approva oggetto**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. Nell&#39;anteprima vengono visualizzati gli elementi modificati nella bozza. Fai clic su **Approva**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)

@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Aggiungi campi di oggetti personalizzati Marketo - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi campi oggetto personalizzati Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,21 @@ Dopo aver creato un oggetto personalizzato, è necessario aggiungergli dei campi
 
 I campi definiscono le informazioni specifiche utilizzate da un oggetto personalizzato. I campi di collegamento hanno un lavoro speciale, per collegare oggetti personalizzati e sono trattati in un [articolo separato](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Fai clic su **Amministratore** e in **Gestione database**, seleziona **Oggetti personalizzati Marketo**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2016-1-18-9-3a2-3a6.png)
+   ![](assets/add-marketo-custom-object-fields-1.png)
+
+1. Fai clic su **Oggetti personalizzati Marketo**.
+
+   ![](assets/add-marketo-custom-object-fields-2.png)
 
 1. Selezionare l’oggetto a cui si desidera aggiungere il campo a destra.
 
-   ![](assets/image2016-1-18-9-3a5-3a3.png)
+   ![](assets/add-marketo-custom-object-fields-3.png)
 
 1. In **Campi** scheda , fai clic su **Nuovo campo**.
 
-   ![](assets/image2015-9-15-16-3a53-3a40.png)
+   ![](assets/add-marketo-custom-object-fields-4.png)
 
    >[!NOTE]
    >
@@ -34,7 +38,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
 1. Immetti un nome e una descrizione visualizzati.
 
-   ![](assets/image2015-10-5-11-3a35-3a48.png)
+   ![](assets/add-marketo-custom-object-fields-5.png)
 
    >[!NOTE]
    >
@@ -42,11 +46,11 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
 1. A questo punto, scegli un tipo di dati appropriato dall’elenco.
 
-   ![](assets/image2015-10-5-11-3a37-3a24.png)
+   ![](assets/add-marketo-custom-object-fields-6.png)
 
 1. Se desideri utilizzare il nuovo campo come identificatore univoco, solleva il cursore Dedupe. Fai clic su **Salva** per finire.
 
-   ![](assets/image2015-10-5-11-3a40-3a12.png)
+   ![](assets/add-marketo-custom-object-fields-7.png)
 
    >[!TIP]
    >
