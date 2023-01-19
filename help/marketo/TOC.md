@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 296657faa22a31de377fe6e6bd2a72dab07d02dd
 workflow-type: tm+mt
-source-wordcount: '8817'
+source-wordcount: '8822'
 ht-degree: 0%
 
 ---
@@ -657,6 +657,8 @@ ht-degree: 0%
                + [Verifica dell’integrazione degli eventi ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Informazioni sugli eventi dell&#39;adattatore Marketo On24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [Informazioni sugli stati del programma webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+         + Webinar interattivi {#interactive-webinars}
+            + [Panoramica dei webinar interattivi](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
       + Facebook {#facebook}
          + [Aggiungere lead a un pubblico personalizzato in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Creare un pubblico personalizzato in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
