@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Attivare o disattivare dinamicamente la visibilità di un campo modulo - Documenti Marketo - Documentazione del prodotto
 title: Attiva/disattiva dinamicamente la visibilità di un campo modulo
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ Una caratteristica davvero interessante dei moduli Marketo è che è possibile n
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 Ed è tutto! Ora, quando gli utenti compilano il modulo e selezionano Stati Uniti per paese, il campo Stato verrà visualizzato in modo dinamico con le opzioni specificate.
+
+>[!IMPORTANT]
+>
+>Il comportamento del campo del modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzati utilizzando [Funzioni API](https://developers.marketo.com/javascript-api/forms/){target="_blank"} in Forms 2.0.
+>
+>I campi condizionali potrebbero non funzionare come previsto se i valori dei campi vengono modificati da script esterni diversi dall’API JavaScript Forms 2.0.
