@@ -2,9 +2,9 @@
 description: Esegui campagna - Documentazione Marketo - Documentazione del prodotto
 title: Esegui campagna
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Puoi eseguire molte operazioni con una campagna eseguibile. Sono progettati per 
 
 È inoltre possibile utilizzarli quando è necessario eseguire un flusso separato, ma è necessario dipendere dai risultati di tale flusso nelle scelte successive delle fasi di flusso (ovvero, se necessario, eseguire questa operazione).
 
-Esegui campagna è un miglioramento [Richiedi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), poiché può essere eseguito in serie o in parallelo, mentre quest&#39;ultima funziona solo in parallelo.
+Esegui campagna è un miglioramento [Richiedi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), come può funzionare in serie, mentre quest&#39;ultima funziona solo in parallelo.
 
 >[!NOTE]
 >

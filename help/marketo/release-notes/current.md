@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '603'
 ht-degree: 8%
 
 ---
@@ -190,4 +190,4 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
 
 **_Webinar sulla versione del prodotto_**
 
-Vuoi saperne di più su queste funzioni e miglioramenti? Assicurati di [registra](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) per partecipare il 24 gennaio alle 09:00 PT / 12:00 PM ET a un webinar dal vivo con il nostro team di prodotto per approfondire queste innovazioni.
+[Webinar sul rilascio del Marketo Engage di ottobre 2022 e gennaio 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
