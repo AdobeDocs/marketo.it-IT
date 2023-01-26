@@ -2,10 +2,10 @@
 description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 2%
+source-wordcount: '486'
+ht-degree: 1%
 
 ---
 
@@ -30,8 +30,6 @@ Al primo accesso, apparirà un pop-up, pronto per darvi il riepilogo della nuova
 
 Il tour vi guida attraverso tutto quello che dovete sapere!
 
-![](assets/overview-2.png)
-
 ## Novità {#whats-new}
 
 Ci sono molte nuove funzionalità nell&#39;UX moderno, tutte progettate per migliorare significativamente la tua esperienza di marketing.
@@ -40,7 +38,7 @@ Ci sono molte nuove funzionalità nell&#39;UX moderno, tutte progettate per migl
 
 La nuova interfaccia offre funzioni migliorate ed estese di iconografia. Scopri di più qui: [Icona Glossario](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **Navigazione globale**
 
@@ -191,15 +189,12 @@ Date un&#39;occhiata alla nuova navigazione globale.
    <td>Tutti gli elementi precedenti di superball elencati</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Utilizzalo per fornire un feedback sulla tua esperienza</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>Se hai più abbonamenti, fai clic sul tuo nome secondario per passare facilmente a un altro</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>Ricerca globale: puoi ora cercare l’intera istanza da qui</td> 
   </tr>
  </tbody>
