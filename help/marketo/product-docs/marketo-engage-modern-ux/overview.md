@@ -2,9 +2,9 @@
 description: Panoramica - Documentazione Marketo - Documentazione del prodotto
 title: Panoramica
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -208,4 +208,4 @@ Date un&#39;occhiata alla nuova navigazione globale.
 >
 >L’utilizzo della ricerca nell’albero darà solo risultati dalla sezione in cui ci si trova (ad esempio, Attività di marketing). Se desideri cercare l’intera istanza, utilizza la ricerca globale.
 
-Goditi la nuova esperienza di Marketo Engage e assicurati di condividere il tuo feedback!
+Godetevi la nuova esperienza di Marketo Engage!
