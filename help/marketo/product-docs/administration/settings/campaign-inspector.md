@@ -1,7 +1,7 @@
 ---
 description: Campaign Inspector - Documentazione di Marketo - Documentazione del prodotto
 title: Ispettore campagna
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Utilizza Campaign Inspector per visualizzare/cercare tutte le campagne avanzate in un’unica posizione.
 
-## Attiva Ispettore Campaign {#activate-campaign-inspector}
+## Abilita controllo Campaign {#enable-campaign-inspector}
 
 1. Vai a **Amministratore** area.
 
