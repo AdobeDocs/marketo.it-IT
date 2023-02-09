@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Elenchi avanzati account - Documenti Marketo - Documentazione del prodotto
 title: Elenchi avanzati account
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Gli elenchi smart account funzionano in modo simile agli elenchi smart standard,
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >Dati dell&#39;indicatore ICP utilizzati nel [Classificazione e tuning del profilo dell&#39;account](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) verrà visualizzato come Attributi account personalizzati da utilizzare nel tuo Elenco smart account. Questi dati di attributi personalizzati si basano su quando è stato creato/aggiornato il modello di profilo account.
 
 1. Scegli i filtri persona corrispondenti. In questo esempio scegliamo _Lo stato è la California_.
 

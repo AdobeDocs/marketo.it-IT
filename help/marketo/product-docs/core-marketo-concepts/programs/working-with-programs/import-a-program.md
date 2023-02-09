@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importare un programma - Documentazione Marketo - Documentazione del prodotto
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -58,32 +58,7 @@ Al termine dell’importazione riceverai un messaggio e-mail di conferma.
 
 >[!NOTE]
 >
->Sarà necessario riprogrammare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
-
-## Identificare i programmi predefiniti nella libreria dei programmi Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
-
-La libreria dei programmi Marketo contiene programmi precompilati e testati che puoi importare nell’abbonamento. I programmi disponibili includono:
-
-1. **Cura Di Base.** Invia una serie di e-mail separate da passaggi di attesa.
-1. **Gestione dei dati.** Mantiene l’integrità dei dati tramite campagne intelligenti.
-1. **Invia e-mail con pagina di destinazione.** Invia un’e-mail iniziale con un’offerta, ad esempio &quot;scarica questo white paper&quot;. Segue un messaggio e-mail di conferma o di promemoria. Include una pagina di destinazione con un modulo.
-1. **E-mail con stato progressivo** Invia un&#39;esplosione di posta con un link tracciabile per la persona da fare clic. Aggiorna lo stato di avanzamento per ogni persona: Inviata, Aperta, Cliccata, ecc.
-1. **Momenti Interessanti.** Crea momenti interessanti per il tuo team di vendita per tenerli aggiornati.
-1. **Pagina di destinazione con autoresponder.** Utilizza i contenuti scaricabili per ottenere nuove persone e nutrirle. Include pagine di destinazione e moduli.
-1. **Ciclo di vita 2.** Utilizza il punteggio per spostare una persona da nuova a qualificata per il marketing.
-1. **Modello E-Mail Mobile.** Un modello e-mail reattivo è stato testato su iPhone e Android. Alcune versioni di Android, MS Outlook, Exchange e applicazioni di terze parti come Gmail e Yahoo! Le app mobile di posta non supportano il CSS richiesto per i modelli reattivi. È consigliabile eseguire il test prima di inviare le e-mail.
-1. **Programma Importazione Sweepstakes.** Programma Sweepstakes per quelli che provano la Biblioteca Programma! È sufficiente approvare le e-mail e la pagina di destinazione e attivare la campagna avanzata. Quindi visualizza la pagina di destinazione approvata, compila il modulo e immetti!
-1. **Campagne disponibili per le vendite.** Fornisce ai tuoi rappresentanti commerciali un modo per eseguire campagne avanzate Marketo da un dashboard nel tuo CRM.
-1. **Punteggio - Spark Edition.** Punteggio demografico e comportamentale acquisito in un singolo campo di punteggio. Include più di due dozzine di campagne relative al punteggio.
-1. **Punteggio - Standard e Seleziona edizioni.** Punteggio demografico e comportamentale acquisito in campi di punteggio separati. Include più di due dozzine di campagne relative al punteggio.
-1. **Sincronizza nuove persone con CRM.** La campagna che sincronizza nuove persone nel tuo sistema CRM. Assegna uno stato di persona in modo che venga riconosciuto come non pronto per le vendite.
-1. **Webinar con adattatore evento.** Un set completo di e-mail, ad esempio inviti e promemoria, oltre a pagine di destinazione con moduli e campagne per lo spostamento delle persone all’interno del programma. Questo programma ottiene aggiornamenti su registrazione, frequenza, ecc. da provider di eventi online come WebEx.
-1. **Webinar senza adattatore evento.** Come sopra, ma con i processi manuali per la registrazione, la frequenza, ecc.
-1. **Programma di valutazione delle decisioni siriane**. Questo programma è progettato per supportare il modello standard di valutazione delle decisioni di Sirius, incluse le regole di valutazione implicite ed esplicite e l&#39;assegnazione di persone con corrispondenza.
-
->[!CAUTION]
->
->È necessario creare due campi personalizzati (&quot;Punteggio demografico&quot; e &quot;Punteggio comportamentale&quot;) prima di importare il programma Punteggio - Standard &amp; Select Editions.
+>Sarà necessario ripianificare le campagne batch importate e attivare le campagne di attivazione. Il sistema disattiva automaticamente le pianificazioni delle campagne e attiva le campagne nel programma importato.
 
 ## Impatto sulle attività esterne durante le importazioni del programma {#impact-on-external-assets-during-program-imports}
 
