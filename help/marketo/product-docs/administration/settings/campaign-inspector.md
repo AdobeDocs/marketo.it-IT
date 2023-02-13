@@ -1,9 +1,9 @@
 ---
 description: Campaign Inspector - Documentazione di Marketo - Documentazione del prodotto
 title: Ispettore campagna
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ Utilizza Campaign Inspector per visualizzare/cercare tutte le campagne avanzate 
 1. Seleziona la **Abilitato** seleziona e fai clic su **Salva**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >L’area di lavoro desiderata deve essere selezionata nella struttura per visualizzare la scheda Ispettore campagna dopo che è stata abilitata.
 
 ## Utilizzo di Campaign Inspector {#using-campaign-inspector}
 
