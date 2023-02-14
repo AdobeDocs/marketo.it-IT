@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: Modificare ed eliminare un oggetto personalizzato Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Modificare ed eliminare un oggetto personalizzato Marketo
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-source-git-commit: 8f02503736ba1def4b2f4df79118eeb352b212a0
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,25 @@ ht-degree: 0%
 
 Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un oggetto personalizzato.
 
-1. Fai clic su **Amministratore** e in **Gestione database**, seleziona **Oggetti personalizzati Marketo**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2016-1-18-13-3a31-3a51.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
+
+1. Fai clic su **Oggetti personalizzati Marketo**.
+
+   ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
 1. Selezionare l’oggetto personalizzato da modificare a destra.
 
-   ![](assets/image2016-1-18-13-3a33-3a11.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
 1. Fai clic sul pulsante **Azioni oggetto personalizzate** e fai clic su **Modifica oggetto**.
 
-   ![](assets/image2015-9-23-11-3a37-3a44.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
 1. Apporta le modifiche desiderate. Trascinare il cursore sopra se si desidera visualizzare l’oggetto nella pagina Dettagli lead. Fai clic su **Salva**.
 
-   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
 1. Assicurati di approvare [oggetto modificato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
@@ -46,17 +50,21 @@ Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un o
 >
 >Non è possibile ripristinare un oggetto personalizzato dopo averlo eliminato.
 
-1. Fai clic su **Amministratore** e in **Gestione database**, seleziona **Oggetti personalizzati Marketo**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2016-1-18-13-3a36-3a0.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
+
+1. Fai clic su **Oggetti personalizzati Marketo**.
+
+   ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
 1. Selezionare l’oggetto da eliminare.
 
-   ![](assets/image2015-9-23-16-3a29-3a5.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
 1. Fai clic su **Azioni oggetto personalizzate** e seleziona **Elimina oggetto**.
 
-   ![](assets/image2015-9-23-11-3a39-3a5.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
@@ -64,11 +72,11 @@ Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un o
 
 1. Se l’oggetto personalizzato è in forma di bozza e non è ancora stato approvato, viene visualizzato questo avviso. Se sei sicuro, fai clic su **Elimina**.
 
-   ![](assets/image2015-9-23-16-3a31-3a2.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
 1. Se l’oggetto personalizzato è già approvato, l’eliminazione comporta un rischio maggiore. Quindi, riceverete questo avviso più severo. Invio **Capisco**, controlla **Impossibile annullare** e fai clic su **Elimina**.
 
-   ![](assets/image2016-1-15-9-3a49-3a38.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
    >[!NOTE]
    >

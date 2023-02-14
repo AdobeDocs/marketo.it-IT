@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: Modificare ed eliminare i campi oggetto personalizzati di Marketo - Documenti Marketo - Documentazione del prodotto
 title: Modificare ed eliminare i campi oggetto personalizzati Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -18,15 +18,15 @@ A volte è necessario modificare un campo non ancora approvato.
 
 1. Fare clic su un oggetto personalizzato e sul campo che si desidera modificare.
 
-   ![](assets/image2015-10-2-10-3a55-3a1.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
 1. Nella scheda Campi fare clic su **Azioni campo** e **Modifica campo**.
 
-   ![](assets/image2015-10-2-10-3a53-3a26.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
 1. Apporta le modifiche desiderate e fai clic su **Salva**.
 
-   ![](assets/image2015-10-2-10-3a58-3a56.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ A volte è necessario modificare un campo non ancora approvato.
 
 1. Le modifiche vengono visualizzate nell’elenco Campi.
 
-   ![](assets/image2015-10-2-11-3a1-3a13.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
 ## Eliminare un campo {#delete-a-field}
 
@@ -42,15 +42,15 @@ Quando non è più necessario un campo in un oggetto personalizzato, è possibil
 
 1. Nella scheda Campi fare clic su **Azioni campo** e **Elimina campo**.
 
-   ![](assets/image2015-10-2-11-3a11-3a20.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
    Assicurati di voler eliminare il campo prima di premere il trigger! Fai clic su **Elimina**.
 
-   ![](assets/image2015-10-2-11-3a14-3a5.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
    È sparita!
 
-   ![](assets/image2015-10-2-11-3a15-3a48.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
    >[!NOTE]
    >

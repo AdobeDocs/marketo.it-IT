@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: Importare dati di oggetti personalizzati - Documenti Marketo - Documentazione del prodotto
 title: Importa dati oggetto personalizzati
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 1. In My Marketo, vai a **Database**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. Fai clic su **Nuovo** e seleziona **Importa dati oggetto personalizzati**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. Fai clic su **Sfoglia** per individuare il file di dati. Selezionare il formato del file (Comma Separated Values in questo esempio).
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. Seleziona l’oggetto personalizzato.
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. Seleziona la Modalità di deduplicazione dal menu a discesa. Fai clic su **Successivo**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 1. Mappa ciascuna colonna su un campo Marketo, selezionandola dall’elenco a discesa.
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ ht-degree: 0%
 
 1. Fai clic su **Successivo**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. Fai clic su **Importa**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 1. Nell’angolo in alto a destra della schermata, viene visualizzata una notifica mentre l’importazione è in esecuzione e i risultati finali al termine dell’importazione.
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    Yay!
 

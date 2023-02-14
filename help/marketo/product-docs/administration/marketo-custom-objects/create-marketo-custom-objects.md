@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Creare oggetti personalizzati Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Creare oggetti personalizzati Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,17 @@ Utilizza oggetti personalizzati in Marketo per tenere traccia delle metriche spe
 
 Questo esempio mostra un oggetto personalizzato Car da utilizzare in una struttura uno-a-molti. In seguito, creerai un oggetto personalizzato del corso e un oggetto intermediario da utilizzare in una struttura molti-a-molti.
 
-1. Fai clic su **Amministratore** e in **Gestione database** select **Oggetti personalizzati Marketo**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. Fai clic su **Oggetti personalizzati Marketo**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. Fai clic su **Nuovo oggetto personalizzato**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ Questo esempio mostra un oggetto personalizzato Car da utilizzare in una struttu
 
 1. Immettere un nome visualizzato. Il nome API e il nome plurale vengono compilati automaticamente. Immetti una descrizione (facoltativa).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >È possibile modificare questi campi durante la creazione, ma dopo averli salvati, è possibile modificare solo il campo Nome plurale e il campo **Mostra in dettaglio lead** cursore.
 
-1. Estrarre **Mostra in dettaglio lead** cursore sopra la visualizzazione **Mostra** se si desidera visualizzare i dati degli oggetti personalizzati nella pagina Database lead. Fai clic su **Salva**.
+1. Estrarre **Mostra in dettaglio lead** cursore sopra la visualizzazione **Mostra** se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Database. Fai clic su **Salva**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. Le informazioni sull’oggetto personalizzato visualizzano il contenuto immesso. Notate che è in stato Bozza.
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    Il passaggio successivo consiste nell’aggiungere campi a [creare l’oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
 >
 >Per una relazione molti-a-molti, non è necessario creare un collegamento nell’oggetto personalizzato. Al contrario, verranno aggiunti due collegamenti all’oggetto intermediario (vedi di seguito).
 
-1. Fai clic su **Amministratore** e in **Gestione database** select **Oggetti personalizzati Marketo**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. Fai clic su **Oggetti personalizzati Marketo**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. Fai clic su **Nuovo oggetto personalizzato**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. Immettere un nome visualizzato. Il nome API e il nome plurale vengono compilati automaticamente. Immetti una descrizione (facoltativa).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >È possibile modificare questi campi durante la creazione, ma dopo averli salvati, è possibile modificare solo il campo Nome plurale e il campo **Mostra in dettaglio lead** cursore.
 
-1. Estrarre **Mostra in dettaglio lead** cursore sopra la visualizzazione **Mostra** se si desidera visualizzare i dati degli oggetti personalizzati nella pagina Database lead. Fai clic su **Salva**.
+1. Estrarre **Mostra in dettaglio lead** cursore sopra la visualizzazione **Mostra** se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Database. Fai clic su **Salva**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. Le informazioni sull’oggetto personalizzato visualizzano il contenuto immesso. Notate che è in stato Bozza.
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Utilizzare un oggetto intermedio per collegare un oggetto personalizzato a perso
 >
 >Non è necessario creare un oggetto intermedio per una struttura di oggetti personalizzati uno-a-molti.
 
-1. Fai clic su **Amministratore** e in **Gestione database**, seleziona **Oggetti personalizzati Marketo**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. Fai clic su **Oggetti personalizzati Marketo**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. Fai clic su **Nuovo oggetto personalizzato**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. Immettere un nome visualizzato. Il nome API e il nome plurale vengono compilati automaticamente. Immetti una descrizione (facoltativa).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >È possibile modificare questi campi durante la creazione, ma dopo averli salvati, è possibile modificare solo il campo Nome plurale e il cursore Mostra in dettaglio lead.
 
-1. Estrarre **Mostra in dettaglio lead** cursore sopra la visualizzazione **Mostra** se si desidera visualizzare i dati degli oggetti personalizzati nella pagina Database lead. Fai clic su **Salva**.
+1. Estrarre **Mostra in dettaglio lead** cursore sopra la visualizzazione **Mostra** se si desidera visualizzare i dati dell&#39;oggetto personalizzato nella pagina Database. Fai clic su **Salva**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. Le informazioni sull’oggetto personalizzato visualizzano il contenuto immesso. Notate che è in stato Bozza.
 
