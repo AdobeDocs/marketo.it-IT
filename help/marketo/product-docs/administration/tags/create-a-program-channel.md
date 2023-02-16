@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Creare un canale del programma - Documentazione di Marketo - Documentazione del prodotto
 title: Creare un canale del programma
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 >
 >Ulteriori informazioni [programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l’elemento più importante in Marketo.
 
-1. Sotto la **Amministratore** sezione, fai clic su **Tag**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. Fai clic su **Tag**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 1. Fai clic sul pulsante **+** firma accanto a **Canale** per espandere e visualizzare i canali esistenti.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. Sotto **Nuovo**, fai clic su **Nuovo canale**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 1. Passiamo all&#39;esempio del canale Party. Dai un nome al nuovo **Canale** e selezionare il tipo di programma a cui si applica.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >
    >Quando utilizzi &quot;Event with Webinar&quot;, le mappature di sistema saranno bloccate (come richiesto dalle integrazioni dei webinar) e non possono essere modificate.
 
-   Immettere i primi due nomi di stato del programma, quindi fare clic su Aggiungi passo.
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. Immettere i primi due nomi di stato del programma, quindi fare clic su **Aggiungi passaggio**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. Inserisci un altro programma **Stato** e **Passaggio** numero, quindi fare clic su **Aggiungi passaggio**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 1. Inserire l&#39;ultimo programma **Stato** e **Passaggio** numero.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 1. Scegli la **Stato del check-in per dispositivi mobili** per **Registrato**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. Scegli la **Stato del check-in per dispositivi mobili** per **Partecipato**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 1. Seleziona la **Completato** stato del programma, quindi fare clic su **Crea**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    Ben fatto! Quando si effettua un nuovo programma di quel tipo, questo nuovo canale sarà una delle scelte.
