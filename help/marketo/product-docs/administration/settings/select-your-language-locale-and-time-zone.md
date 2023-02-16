@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Selezionare la lingua, le impostazioni internazionali e il fuso orario - Marketo Docs - Documentazione del prodotto
 title: Selezionare la lingua, le impostazioni internazionali e il fuso orario
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '124'
 ht-degree: 4%
 
 ---
@@ -25,17 +25,21 @@ L&#39;inglese non è la sua prima lingua? Non ti preoccupare, ti abbiamo coperto
 
 ## Modificare la lingua, le impostazioni internazionali e il fuso orario dell&#39;utente {#change-user-language-locale-and-time-zone}
 
-1. Accedi a Marketo e seleziona il tuo nome **Il mio account**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/myaccount.png)
+   ![](assets/select-your-language-locale-and-time-zone-1.png)
+
+1. Seleziona **Il mio account**.
+
+   ![](assets/select-your-language-locale-and-time-zone-2.png)
 
 1. In Il mio account, fai clic su **Modifica impostazioni posizione**.
 
-   ![](assets/image2014-9-9-11-3a9-3a47.png)
+   ![](assets/select-your-language-locale-and-time-zone-3.png)
 
 1. Cambia il tuo **Lingua**.
 
-   ![](assets/image2014-9-9-11-3a10-3a4.png)
+   ![](assets/select-your-language-locale-and-time-zone-4.png)
 
    >[!TIP]
    >
@@ -43,16 +47,16 @@ L&#39;inglese non è la sua prima lingua? Non ti preoccupare, ti abbiamo coperto
 
 1. Cambia il tuo **Impostazioni internazionali**.
 
-   ![](assets/image2014-9-9-11-3a10-3a29.png)
+   ![](assets/select-your-language-locale-and-time-zone-5.png)
 
 1. Cambia il tuo **Fuso orario**.
 
-   ![](assets/image2014-9-9-11-3a10-3a56.png)
+   ![](assets/select-your-language-locale-and-time-zone-6.png)
 
 1. Fai clic su **Salva**.
 
-   ![](assets/image2014-9-9-11-3a11-3a18.png)
+   ![](assets/select-your-language-locale-and-time-zone-7.png)
 
 Bel lavoro! Il browser viene aggiornato e le modifiche dovrebbero essere visualizzate.
 
-![](assets/image2014-9-9-11-3a12-3a2.png)
+![](assets/select-your-language-locale-and-time-zone-8.png)

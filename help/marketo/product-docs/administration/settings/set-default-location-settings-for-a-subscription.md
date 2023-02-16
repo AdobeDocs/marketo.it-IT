@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: Imposta le impostazioni di posizione predefinite per una sottoscrizione - Marketo Docs - Documentazione del prodotto
 title: Imposta le impostazioni di posizione predefinite per una sottoscrizione
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -22,23 +22,27 @@ Questo articolo descrive come un amministratore visualizza e modifica le imposta
 
 Quando un amministratore modifica le impostazioni di posizione predefinite, i nuovi utenti creati ereditano queste impostazioni. Gli utenti possono sempre [modifica delle preferenze relative a lingua, impostazioni internazionali e fuso orario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) nei loro conti individuali.
 
-1. Sotto **Amministratore**, fai clic su **Posizione**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-11-7-11-3a39-3a17.png)
+   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+
+1. Fai clic su **Posizione**.
+
+   ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
 1. Fai clic su **Modifica**.
 
-   ![](assets/image2014-11-7-11-3a40-3a39.png)
+   ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
-   Questo abbonamento è stato creato in inglese. Supponiamo che ti trovassi a Londra e che desideri cambiare le impostazioni internazionali e il fuso orario predefiniti. Le impostazioni internazionali determinano la formattazione di numeri, date e ore.
+   Questo abbonamento è stato creato in inglese. Supponiamo che tu sia a Londra e desideri cambiare le impostazioni internazionali e il fuso orario predefiniti. Le impostazioni internazionali determinano la formattazione di numeri, date e ore.
 
 1. Seleziona la **Impostazioni internazionali** e cambiarlo in **Inglese** (Regno Unito).
 
-   ![](assets/image2014-11-7-11-3a51-3a26.png)
+   ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
 1. Infine, scegli il **Fuso orario**.
 
-   ![](assets/image2014-11-7-14-3a42-3a34.png)
+   ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
@@ -50,11 +54,11 @@ Se si modificano le impostazioni internazionali predefinite per gli utenti, è p
 
 1. Fai clic su **Modifica** in Impostazioni valuta sottoscrizione.
 
-   ![](assets/image2014-11-7-15-3a50-3a33.png)
+   ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
 1. Selezionare il formato di valuta desiderato e fare clic su **Salva**.
 
-   ![](assets/image2014-11-7-15-3a58-3a21.png)
+   ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
    Complimenti. Hai modificato le impostazioni di posizione per l’abbonamento.
 

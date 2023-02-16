@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Informazioni sulle impostazioni della privacy - Documenti Marketo - Documentazione del prodotto
 title: Informazioni sulle impostazioni di privacy
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -43,17 +43,17 @@ Di seguito sono riportati alcuni esempi di una pagina web con un collegamento di
 
 Ecco una pagina web con un pulsante con il parametro &quot;?marketo_opt_out=true&quot; nel collegamento di rinuncia.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 Puoi creare e pubblicare una pagina di destinazione come pagina di follow-up per quando fai clic sul collegamento con il parametro &quot;?marketo_opt_out=true&quot;.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 Quando fai clic sul collegamento, Marketo aggiunge un cookie denominato **mkto_opt_out** al browser del visitatore che disabilita il tracciamento Munchkin del visitatore del sito che fa clic sul collegamento con il parametro di cui sopra.
 
 Per verificare che il cookie possa essere impiantato, accertati di essere un lead cookie e fai clic sul collegamento . Quindi controlla i tuoi cookie del browser per verificare che **mkto_opt_out** è stato aggiunto il cookie .
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >
