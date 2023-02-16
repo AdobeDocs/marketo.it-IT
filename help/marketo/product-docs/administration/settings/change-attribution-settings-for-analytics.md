@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: Modificare le impostazioni di attribuzione per Analytics - Documenti Marketo - Documentazione del prodotto
 title: Modificare le impostazioni di attribuzione per Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,17 @@ Puoi modificare il modo in cui Marketo collega i contatti alle opportunità per 
 
 Queste impostazioni avranno un impatto sui report di Revenue Explorer nella sezione [Analisi delle opportunità del programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analisi delle opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)e le aree Analisi lead. Questo influisce anche sul rapporto di Program Analyzer (Analisi programmi).
 
-1. Sotto la **Amministratore** sezione, fai clic su **Analisi del ciclo dei ricavi**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. Fai clic su **Analisi del ciclo dei ricavi**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. Fai clic sul pulsante **Modifica** link sotto **Attribuzione**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ Queste impostazioni avranno un impatto sui report di Revenue Explorer nella sezi
 
 1. Seleziona un’opzione e fai clic su **Salva**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >

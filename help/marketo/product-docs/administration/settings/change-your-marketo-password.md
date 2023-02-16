@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: Modificare la password Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Modificare la password Marketo
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,22 @@ ht-degree: 0%
 
 Modifica la tua password Marketo con questi semplici passaggi.
 
-1. Qualsiasi utente Marketo può fare clic sul suo nome e **Il mio account**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2015-11-10-10-3a40-3a8.png)
+   ![](assets/change-your-marketo-password-1.png)
 
-1. Gli amministratori possono anche fare clic su **Amministratore** e poi **Modifica password** per modificare la password amministratore.
+1. Fai clic su **Il mio account**.
 
-   ![](assets/image2014-9-10-9-3a43-3a47.png)
+   ![](assets/change-your-marketo-password-2.png)
 
-1. Immettere la vecchia password e la nuova password, quindi fare clic su **Salva** quando la nuova password soddisfa tutti i requisiti.
+1. Fai clic su **Modifica password**.
 
-   ![](assets/image2014-9-10-9-3a44-3a2.png)
+   ![](assets/change-your-marketo-password-3.png)
 
-   Tenetela segreta! La tenga al sicuro!
+1. Immettere la vecchia password e la nuova password, quindi fare clic su **Salva**.
 
-   >[!TIP]
+   ![](assets/change-your-marketo-password-4.png)
+
+   >[!NOTE]
    >
-   >Qual è una buona password? Qualcosa a lungo con un sacco di lettere, numeri e simboli come &quot;M@rk3to!$ Gre@t&quot;. Eccetto, non quello. Siate creativi e createvi.
+   >Prendi nota dei requisiti della password quando effettui l&#39;aggiornamento.

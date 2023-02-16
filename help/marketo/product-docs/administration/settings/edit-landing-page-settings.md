@@ -3,9 +3,9 @@ unique-page-id: 2359918
 description: Modifica impostazioni pagina di destinazione - Documentazione Marketo - Documentazione del prodotto
 title: Modifica impostazioni pagina di destinazione
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,21 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Sotto **Amministratore**, fai clic su **Pagine di destinazione**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-10-9-3a47-3a40.png)
+   ![](assets/edit-landing-page-settings-1.png)
+
+1. Fai clic su **Pagine di destinazione**.
+
+   ![](assets/edit-landing-page-settings-2.png)
 
 1. In **Pagine di destinazione** sezione, fai clic su **Modifica**.
 
-   ![](assets/image2014-9-10-9-3a47-3a12.png)
+   ![](assets/edit-landing-page-settings-3.png)
 
 1. Immetti il dominio e le informazioni sulla pagina.
+
+   ![](assets/edit-landing-page-settings-4.png)
 
    | Termine | Definizione |
    |---|---|
@@ -34,15 +40,13 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
    | Pagina di fallback | Se la pagina di destinazione non esiste o è inattiva, verrà visualizzata la seguente pagina. Ulteriori informazioni [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Home page | Inserisci l&#39;URL del sito aziendale. |
 
-   ![](assets/three.png)
-
 1. Controlla la **Precompilazione modulo** per consentire ai moduli di precompilare le informazioni per le persone note (cookie). Deseleziona per bloccare.
 
-   ![](assets/four.png)
+   ![](assets/edit-landing-page-settings-5.png)
 
 1. Per evitare che un sito dannoso possa apparentemente ospitare i contenuti, controlla la **Non consentire l’incorporazione di pagine Marketo in pagine web esterne** casella di controllo.
 
-   ![](assets/five.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -52,6 +56,6 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 
 1. Dopo aver effettuato le selezioni, fai clic su **Salva.**
 
-   ![](assets/six.png)
+   ![](assets/edit-landing-page-settings-7.png)
 
    Ottimo lavoro! Le pagine di destinazione ora dispongono delle informazioni giuste e devono iniziare a funzionare immediatamente.

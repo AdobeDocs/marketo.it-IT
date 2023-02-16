@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Modificare le impostazioni di protezione della password - Documenti Marketo - Documentazione del prodotto
 title: Modificare le impostazioni di protezione della password
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,25 @@ Controlla i criteri della password del tuo abbonamento. Ecco come.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Sotto **Amministratore**, fai clic su **Impostazioni di accesso**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-16-12-3a41-3a40.png)
+   ![](assets/change-your-password-security-settings-1.png)
+
+1. Fai clic su **Impostazioni di accesso**.
+
+   ![](assets/change-your-password-security-settings-2.png)
 
 1. Sotto **Impostazioni di protezione**, fai clic su **Modifica**.
 
-   ![](assets/passwordsettings-hand.png)
+   ![](assets/change-your-password-security-settings-3.png)
 
 1. Seleziona una **Modello**. Per le opzioni avanzate, fai clic su **Avanzate** a discesa.
+
+   ![](assets/change-your-password-security-settings-4.png)
 
    >[!NOTE]
    >
    >Un modello è solo una configurazione predefinita. Lo standard è buono. L&#39;alta sicurezza è la più forte. Personalizza ti consente di creare il tuo.
-
-   ![](assets/passwordstrength.png)
 
    >[!TIP]
    >
@@ -40,14 +44,12 @@ Controlla i criteri della password del tuo abbonamento. Ecco come.
 
 1. Imposta la **Scadenza**. Questa funzione richiede automaticamente agli utenti di reimpostare le password dopo un certo periodo di tempo. Questo include anche l’utente amministratore .
 
+   ![](assets/change-your-password-security-settings-5.png)
+
    >[!CAUTION]
    >
    >Le modifiche non verranno notificate agli utenti esistenti. Imposta **Scadenza** fino a 30 giorni prima per assicurarsi che tutti abbiano aggiornato le nuove impostazioni, quindi cambiarlo nuovamente nella cadenza originale.
 
-   ![](assets/expiration.png)
-
 1. Imposta la **Timeout sessione inattiva**. Questo determina per quanto tempo un utente può essere inattivo prima di dover effettuare nuovamente l&#39;accesso a Marketo.
 
-   ![](assets/inactivesession.png)
-
-   La sicurezza è un affare serio. Ti abbiamo preso la schiena.
+   ![](assets/change-your-password-security-settings-6.png)
