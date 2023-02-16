@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glossario di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -98,7 +98,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>Punteggio del comportamento</strong></td> 
-   <td colspan="1">Un valore punto assegnato a una persona in base alle sue azioni/comportamenti (ad esempio, visitare una pagina web, fare clic su un collegamento in un’e-mail, compilare un modulo, ecc.). Generalmente utilizzato per misurare l’interesse di una persona nel prodotto o nella società.</td> 
+   <td colspan="1">Un valore punto assegnato a una persona in base alle sue azioni/comportamenti (ad esempio, visitare una pagina web, fare clic su un collegamento in un’e-mail, compilare un modulo, ecc.). Generalmente utilizzato per misurare l'interesse di una persona nel prodotto o nella società.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Inserire nell'elenco Bloccati</strong></td> 
@@ -171,7 +171,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
    <td colspan="1">In Marketo puoi creare duplicati di diversi tipi di entità all’interno dell’istanza. Puoi clonare <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programmi</a>, un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">risorsa all’interno di un programma</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">flusso</a>e altro ancora.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Parte anteriore dell’URL. La parola (più YourCompany.com) è denominata CNAME (ad esempio, <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>Punteggio demografico</strong></td> 
-   <td colspan="1">Valore punto assegnato in base agli attributi specifici di cui dispone la persona, ad esempio il titolo del lavoro, la dimensione dei ricavi o il settore di destinazione. Generalmente utilizzato per misurare la vestibilità di una persona con il prodotto o la società. </td> 
+   <td colspan="1">Valore punto assegnato in base agli attributi specifici di cui dispone la persona, ad esempio il titolo del lavoro, la dimensione dei ricavi o il settore di destinazione. In genere utilizzato per misurare la vestibilità di una persona con il prodotto o la società. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
