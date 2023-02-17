@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: Gestione dei valori dei tag - Documenti Marketo - Documentazione del prodotto
 title: Gestione dei valori dei tag
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,33 @@ ht-degree: 0%
 
 ## Aggiunta di valori tag {#adding-tag-values}
 
-1. Sotto **Amministratore**, fai clic su **Tag**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-24-12-3a24-3a55.png)
+   ![](assets/managing-tag-values-1.png)
+
+1. Fai clic su **Tag**.
+
+   ![](assets/managing-tag-values-2.png)
 
 1. Fai clic su **Nuovo**, quindi **Nuovo valore tag**.
 
-   ![](assets/image2014-9-24-12-3a25-3a23.png)
+   ![](assets/managing-tag-values-3.png)
 
 1. Seleziona la **Tipo di tag**.
 
-   ![](assets/image2014-9-24-12-3a26-3a2.png)
+   ![](assets/managing-tag-values-4.png)
 
 1. Inserisci un **Valore** e fai clic su **Aggiungi un altro**. Puoi aggiungere tutti i valori desiderati.
 
-   ![](assets/image2014-9-24-12-3a26-3a27.png)
+   ![](assets/managing-tag-values-5.png)
 
 1. Aggiungi i valori rimanenti e fai clic su **Crea**.
 
-   ![](assets/image2014-9-24-12-3a26-3a55.png)
+   ![](assets/managing-tag-values-6.png)
 
 1. Dovresti vedere immediatamente le modifiche!
 
-   ![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/managing-tag-values-7.png)
 
 ## Nascondere i valori dei tag {#hiding-tag-values}
 
@@ -54,11 +58,11 @@ I tag possono essere utilizzati da vecchi programmi. Per disattivarli, nascondi 
 
 1. Seleziona la **Tag** e seleziona la **Valore** vuole nascondersi.
 
-   ![](assets/image2014-9-24-12-3a28-3a25.png)
+   ![](assets/managing-tag-values-8.png)
 
 1. Sotto **Azioni tag**, seleziona **Nascondi**.
 
-   ![](assets/image2014-9-24-12-3a29-3a4.png)
+   ![](assets/managing-tag-values-9.png)
 
 ## Mostra valori nascosti {#show-hidden-values}
 
@@ -66,6 +70,6 @@ Se desideri visualizzare nuovamente i valori nascosti, procedi come segue:
 
 1. Selezionare la casella Mostra nascosto. Una volta selezionato, puoi visualizzare il valore nascosto.
 
-   ![](assets/image2014-9-24-12-3a29-3a58.png)
+   ![](assets/managing-tag-values-10.png)
 
 Puoi quindi scoprire i valori che desideri utilizzare in futuro.
