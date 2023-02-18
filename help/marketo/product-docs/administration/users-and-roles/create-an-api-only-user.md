@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Creare un utente solo API - Documenti Marketo - Documentazione del prodotto
 title: Creare un utente solo API
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ Se desideri effettuare l’integrazione con Marketo tramite il [API REST](https:
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Sotto **Amministratore**, fai clic su **Utenti e ruoli.**
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-17-9-3a31-3a31.png)
+   ![](assets/create-an-api-only-user-1.png)
+
+1. Fai clic su **Utenti e ruoli**.
+
+   ![](assets/create-an-api-only-user-2.png)
 
 1. Fai clic su **Invita nuovo utente**.
 
-   ![](assets/image2014-9-17-9-3a32-3a3.png)
+   ![](assets/create-an-api-only-user-3.png)
 
 1. Immetti un indirizzo e-mail, un nome e un cognome per l’utente solo dell’API. Fai clic su **Successivo**.
 
-   ![](assets/image2016-5-24-10-3a53-3a7.png)
+   ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
@@ -40,11 +44,11 @@ Se desideri effettuare l’integrazione con Marketo tramite il [API REST](https:
 
 1. Seleziona la **Solo API** e controlla il **Solo API** casella di controllo. Fai clic su **Successivo**.
 
-   ![](assets/four.png)
+   ![](assets/create-an-api-only-user-5.png)
 
 1. Fai clic su **Invia**.
 
-   ![](assets/image2016-5-24-11-3a8-3a20.png)
+   ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >
