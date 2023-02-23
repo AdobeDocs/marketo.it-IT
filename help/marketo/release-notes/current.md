@@ -2,16 +2,16 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 5%
+source-wordcount: '623'
+ht-degree: 9%
 
 ---
 
-# Note sulla versione: Gennaio 2023 {#release-notes-jan-23}
+# Note sulla versione: Marzo 2023 {#release-notes-mar-23}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione del 23 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
+Di seguito sono elencate tutte le funzioni incluse nella versione del 23 marzo. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
 
 >[!AVAILABILITY]
 >
@@ -19,16 +19,13 @@ Di seguito sono elencate tutte le funzioni incluse nella versione del 23 gennaio
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **20 gennaio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **24 marzo 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
 
 ### UX moderno Marketo Engage {#modern-ux}
 
 </br>
 
-* **Schermi aggiornati in UX moderno**: In UX moderno (precedentemente noto come Esperienza di nuova generazione), sono disponibili schermate aggiornate che offrono miglioramenti aggiornati alla progettazione e all’usabilità, accessibili tramite switch di attivazione/disattivazione:
-
-   * Visualizzazione elenco frammenti
-   * Elenco dei modelli di pagina di destinazione
+* **Miglioramento utilizzato dal componente per i dettagli dei modelli di pagina di destinazione e dei moduli**: La scheda Nuovo utilizzato dall’interfaccia utente fornisce informazioni aggiuntive nei dettagli dei modelli di pagina di destinazione e dei dettagli del modulo, con ulteriori dettagli sulle risorse che hanno utilizzato una risorsa selezionata. Esegui analisi su lunghi elenchi di risorse tramite le funzionalità di ricerca, ordinamento e filtro.
 
    <table> 
   <tr> 
@@ -36,13 +33,13 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Interruttore</a></td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Miglioramento utilizzato dal componente per i dettagli dei modelli e-mail e dei frammenti**: La scheda Nuovo utilizzato dall’interfaccia utente fornisce informazioni aggiuntive su ciascuna risorsa utilizzata da, ad esempio quando è stata modificata per l’ultima volta e da chi. Puoi eseguire facilmente le analisi tramite le funzionalità di ricerca, ordinamento e filtro. Questo nuovo componente dell’interfaccia utente verrà incorporato a partire dalle risorse Modello e-mail e Frammento .
+* **Rimuovere l’interruttore di attivazione e l’esperienza classica dalle pagine di destinazione**: La deprecazione dell’interruttore di attivazione e dell’esperienza classica per le pagine di destinazione ti aiuterà ad adottare completamente la nuova esperienza. La nuova esperienza consente un utilizzo completo delle funzionalità fornite con queste risorse senza dover fare affidamento sulla vecchia esperienza o dover passare costantemente da un’esperienza all’altra.
 
 <table> 
   <tr> 
@@ -56,29 +53,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-### Analisi d’impatto sul marketing {#marketing-impact-analytics}
-
-</br>
-
-* **Moduli riprogettati per le risorse dei rapporti**: Nuova progettazione per i modelli di configurazione dei rapporti nell’interfaccia utente moderna che offre un aspetto e un aspetto aggiornati e una migliore accessibilità.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketo Measure {#marketo-measure}
-
-</br>
-
-* **Marketo Measure Ultimate**: Abilita l’attribuzione B2B completa per le aziende con più istanze di gestione delle relazioni con i clienti e/o di Marketo Engage e diverse esigenze di dati sorgente. Fornisce anche una soluzione di attribuzione B2B per Adobe RT-CDP tramite dati AEP condivisi.
+* **Miglioramenti delle prestazioni del nodo ad albero**: Coloro che dispongono di un numero elevato di nodi ad albero vedranno un significativo miglioramento delle prestazioni.
 
 <table> 
   <tr> 
@@ -96,7 +71,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Scheda Servizi Web ottimizzati aggiungendo informazioni sulle API di esportazione in blocco**: Ora è possibile visualizzare l’allocazione giornaliera della capacità per le sottoscrizioni e visualizzare la quantità di allocazione giornaliera della capacità utilizzata negli ultimi 7 giorni.
+* **Aggiornare l’integrazione Marketo Facebook per utilizzare l’aggiornamento API di Facebook Graph**: Con il recente aggiornamento di Facebook all’API Graph di Facebook v15, ora è possibile creare un limite di 500 tipi di pubblico personalizzati per un particolare account di annunci.
 
 <table> 
   <tr> 
@@ -104,8 +79,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informazioni API per l’esportazione in blocco</a></td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
@@ -118,7 +93,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
 
 </br>
 
-* **Definisci elenco a discesa nella scheda di acquisizione informazioni per la chat dinamica**: Per garantire la pulizia dei dati, puoi definire elenchi di selezione per le schede di acquisizione delle informazioni in modo che i visitatori possano selezionare solo da un elenco predefinito di opzioni.
+* **Rapporto di coinvolgimento della finestra di dialogo per la chat dinamica**: Fornisce una visualizzazione del coinvolgimento della finestra di dialogo nel tempo, inclusa la possibilità di filtrare in base al tipo di visitatore e al tipo di coinvolgimento per fornire una migliore visibilità agli utenti.
 
 <table> 
   <tr> 
@@ -126,13 +101,13 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Personalizzazione nella conferma della riunione per la chat dinamica**: Gli agenti possono personalizzare le conferme delle e-mail di prenotazione delle riunioni utilizzando i campi relativi alla persona e all’azienda del Marketo Engage per interagire meglio con i visitatori (ad esempio: saluta i visitatori per nome nel messaggio e-mail di notifica della prenotazione automatica delle riunioni).
+* **Ruoli e autorizzazioni per la chat dinamica**: Introduce ruoli e autorizzazioni per la chat dinamica, consentendo agli amministratori di limitare la visibilità e l’utilizzo di aree diverse dell’app a tipi di utenti selezionati.
 
 <table> 
   <tr> 
@@ -140,13 +115,13 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendario</a></td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Ricerca in Stream Designer**: Cerca facilmente contenuti in Stream Designer per trovare rapidamente contenuti su tutte le schede/nodi in un flusso (ad esempio: cerca &quot;SEO&quot; e evidenzierà tutti i nodi che contengono quella stringa).
+* **Chat come canale di programma per chat dinamica**: Crea un nuovo canale del programma &quot;Chat&quot; per monitorare la progressione del programma per le persone acquisite da Dynamic Chat. Ad esempio, un addetto al marketing dispone di un programma associato a una finestra di dialogo chat dinamica per acquisire nuovi lead. Ora possono assegnare il programma al canale Chat in modo da poter tenere traccia di quando i lead sono membri del programma e quando hanno raggiunto il successo.
 
 <table> 
   <tr> 
@@ -154,13 +129,13 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Selettore data/ora del chatbot per chat dinamica**: I visitatori web possono utilizzare il selettore del calendario per scegliere una data e un’ora anziché inserire manualmente la data.
+* **Attributi indiretti per la chat dinamica**: Assicura che i dati IP dedotti (città, stato, paese, ecc.) è scritto nel record della persona per le nuove persone acquisite da Dynamic Chat.
 
 <table> 
   <tr> 
@@ -168,13 +143,13 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Notifiche e-mail delle riunioni pianificate per chat dinamica**: Quando una riunione viene prenotata sul calendario di un agente, l&#39;agente riceverà una notifica e-mail sulla prenotazione, incluse informazioni dettagliate sul coinvolgimento di Chat dinamica del visitatore.
+* **Supporto linguistico aggiuntivo per chat dinamica**: Ora puoi scegliere tra nove lingue supportate per visualizzare il contenuto statico di Chat dinamica in .
 
 <table> 
   <tr> 
@@ -182,14 +157,26 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Meeting</a></td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Passa al nodo nell’anteprima di Stream Designer per la chat dinamica**: Passa direttamente a un nodo in Stream Designer dal pannello di anteprima.
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Annunci {#announcements}
 
-* **Modifica dell’API REST di Marketo**: Con la versione di ottobre 2022, è stata introdotta una modifica minore al messaggio di risposta API REST di Marketo. Vedi questo [Post Marketo Nation](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} per ulteriori dettagli.
-
-* **_Webinar sulla versione del prodotto_**: [Webinar sul rilascio del Marketo Engage di ottobre 2022 e gennaio 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar sulla versione del prodotto_**: Unisciti a noi il 17 maggio 2023, alle 9:00 PT / 12:00 PM ET [per un webinar live](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} ospitato dal nostro team di prodotti, dove potrai scoprire come utilizzare tutte le ultime innovazioni dei prodotti introdotte nelle versioni di marzo e 23 maggio.
