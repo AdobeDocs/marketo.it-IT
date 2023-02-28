@@ -2,10 +2,10 @@
 description: Limiti di utilizzo del prodotto - Documenti Marketo - Documentazione del prodotto
 title: Limiti di utilizzo del prodotto
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
+source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 13%
+source-wordcount: '192'
+ht-degree: 14%
 
 ---
 
@@ -80,6 +80,11 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <td>Gruppi</td>
   <td>per utente</td>
   <td>50</td>
+ </tr>
+ <tr>
+  <td>Persone per gruppo</td>
+  <td>per gruppo</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>Allegati caricati</td>
