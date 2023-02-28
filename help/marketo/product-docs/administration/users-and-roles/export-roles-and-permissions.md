@@ -2,9 +2,9 @@
 description: Esportare ruoli e autorizzazioni - Documenti Marketo - Documentazione del prodotto
 title: Esportare ruoli e autorizzazioni
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ecco come esportare tutti i ruoli e le relative autorizzazioni.
 >
 >Autorizzazioni amministratore richieste
 
-1. In My Marketo, fai clic su **Amministratore**.
+1. Vai a **Amministratore** area.
 
    ![](assets/export-roles-and-permissions-1.png)
 

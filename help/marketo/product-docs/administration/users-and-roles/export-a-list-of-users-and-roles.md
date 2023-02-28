@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: Esportare un elenco di utenti e ruoli - Documenti Marketo - Documentazione del prodotto
 title: Esportare un elenco di utenti e ruoli
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -20,24 +20,24 @@ ht-degree: 0%
 
 1. Vai a **Amministratore**.
 
-   ![](assets/adminhand.png)
+   ![](assets/export-a-list-of-users-and-roles-1.png)
 
 1. Fai clic su **Utenti e ruoli**.
 
-   ![](assets/image2014-9-10-9-3a25-3a27.png)
+   ![](assets/export-a-list-of-users-and-roles-2.png)
 
 1. Aggiungi/rimuovi le colonne desiderate prima dell’esportazione.
 
    >[!TIP]
    >
-   >Per esportare i ruoli, vai alla pagina **Ruoli**** **prima esporta.
+   >Per esportare i ruoli, vai alla pagina **Ruoli** prima scheda, quindi esporta.
 
-   ![](assets/image2014-9-10-9-3a25-3a49.png)
+   ![](assets/export-a-list-of-users-and-roles-3.png)
 
 1. Fai clic sul pulsante **Esporta** icona.
 
-   ![](assets/image2014-9-10-9-3a26-3a3.png)
+   ![](assets/export-a-list-of-users-and-roles-4.png)
 
    E questo è tutto, gente! È necessario scaricare il nuovo file Excel.
 
-   ![](assets/image2014-9-10-9-3a26-3a17.png)
+   ![](assets/export-a-list-of-users-and-roles-5.png)
