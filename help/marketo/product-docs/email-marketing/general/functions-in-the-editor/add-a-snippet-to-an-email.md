@@ -1,32 +1,32 @@
 ---
 unique-page-id: 1147358
-description: Aggiungere uno snippet a un’e-mail - Documenti Marketo - Documentazione del prodotto
-title: Aggiungere uno snippet a un’e-mail
+description: Aggiungere uno snippet a un messaggio e-mail - Documentazione di Marketo - Documentazione del prodotto
+title: Aggiungere uno snippet a un messaggio e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Aggiungere uno snippet a un’e-mail {#add-a-snippet-to-an-email}
+# Aggiungere uno snippet a un messaggio e-mail {#add-a-snippet-to-an-email}
 
-Gli snippet sono blocchi riutilizzabili di testo RTF e grafica utilizzabili nelle e-mail e nelle pagine di destinazione.
+I snippet sono blocchi di testo RTF e di grafica riutilizzabili che è possibile utilizzare nelle e-mail e nelle pagine di destinazione.
 
 >[!PREREQUISITES]
 >
->[Creare un frammento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Creare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 >[!NOTE]
 >
->Non è possibile incorporare alcun [Sintassi e-mail Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in frammenti; sarà **not** lavora in un’e-mail. Gli snippet devono essere costituiti solo da contenuto corpo (HTML + TESTO).
+>Non è possibile incorporare [Sintassi e-mail Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in snippet; **non** lavorare in un’e-mail. I frammenti devono essere solo contenuto del corpo (HTML + TESTO).
 
-1. Trova il tuo messaggio e-mail, selezionalo e fai clic su **Modifica bozza**.
+1. Trova l’e-mail, selezionala e fai clic su **Modifica bozza**.
 
    ![](assets/one-2.png)
 
-1. Seleziona l’area modificabile da convertire in frammento, fai clic sull’icona a forma di ingranaggio e seleziona **Sostituisci con frammento**.
+1. Seleziona l’area modificabile da convertire in snippet, fai clic sull’icona a forma di ingranaggio e seleziona **Sostituisci con snippet**.
 
    ![](assets/two-2.png)
 
@@ -42,6 +42,6 @@ Gli snippet sono blocchi riutilizzabili di testo RTF e grafica utilizzabili nell
 
    >[!NOTE]
    >
-   >Ogni volta che aggiorni e approvi il frammento, le modifiche verranno riportate nell’e-mail. L’e-mail verrà redatta a meno che tu non approvi lo snippet con [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Ogni volta che aggiorni e approvi il frammento di codice, le modifiche verranno riportate nell’e-mail. L’e-mail verrà redatta a meno che tu non approvi lo snippet con [Nessuna bozza](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
-Questo è un modo rapido e semplice per riutilizzare i contenuti dinamici.
+Si tratta di un modo rapido e semplice per riutilizzare i contenuti dinamici.
