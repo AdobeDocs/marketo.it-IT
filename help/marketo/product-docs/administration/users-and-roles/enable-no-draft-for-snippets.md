@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: Abilitare No-Draft for Snippets - Documentazione di Marketo - Documentazione del prodotto
 title: Abilita bozza senza testo per snippet
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,29 @@ No-Draft viene abilitato automaticamente per tutti i ruoli di amministratore. Un
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** e fai clic su **Utenti e ruoli**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/usersandroles.png)
+   ![](assets/enable-no-draft-for-snippets-1.png)
+
+1. Clic **Utenti e ruoli**.
+
+   ![](assets/enable-no-draft-for-snippets-2.png)
 
 1. Vai a **Ruoli** , selezionare un ruolo, quindi fare clic su **Modifica Ruolo**.
 
-   ![](assets/editrole2.png)
+   ![](assets/enable-no-draft-for-snippets-3.png)
 
 1. Espandi **Accedere a Design Studio** opzione.
 
-   ![](assets/expanddesignstudio.png)
+   ![](assets/enable-no-draft-for-snippets-4.png)
 
 1. Espandi **Snippet di accesso** opzione.
 
-   ![](assets/expandsnippet.png)
+   ![](assets/enable-no-draft-for-snippets-5.png)
 
 1. Espandi **Approva snippet** e controlla **Nessuna bozza** casella. Quindi fai clic su **Salva**.
 
-   ![](assets/2017-06-15-10-35-04.png)
+   ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
