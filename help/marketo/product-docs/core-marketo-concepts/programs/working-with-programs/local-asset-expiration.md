@@ -1,41 +1,41 @@
 ---
-description: Scadenza risorse locali - Documenti Marketo - Documentazione del prodotto
-title: Scadenza risorse locali
+description: Scadenza risorse locali - Documentazione Marketo - Documentazione del prodotto
+title: Scadenza risorsa locale
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# Scadenza risorse locali {#local-asset-expiration}
+# Scadenza risorsa locale {#local-asset-expiration}
 
-Imposta una data/ora di scadenza per annullare la pubblicazione delle pagine di destinazione, disattivare l’attivazione delle campagne o interrompere le campagne batch ricorrenti.
+Imposta una data/ora di scadenza per annullare la pubblicazione delle pagine di destinazione, disattivare le campagne di attivazione o interrompere le campagne batch ricorrenti.
 
-## Autorizzazione per la scadenza della risorsa della pianificazione {#grant-schedule-asset-expiration-permission}
+## Concedi autorizzazione scadenza cespite programmata {#grant-schedule-asset-expiration-permission}
 
-Prima di pianificare la scadenza di una risorsa, è necessario che il ruolo Marketo disponga dell’autorizzazione appropriata abilitata.
+Prima di poter pianificare la scadenza di una risorsa, il ruolo Marketo deve disporre dell’autorizzazione appropriata abilitata.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In [!UICONTROL Amministratore] area, fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. In [!UICONTROL Amministratore] , fare clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/local-asset-expiration-1.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Ruoli]** selezionare l&#39;utente a cui si desidera concedere l&#39;accesso, quindi fare clic su **[!UICONTROL Modifica ruolo]**.
+1. Fai clic su **[!UICONTROL Ruoli]** , selezionare l&#39;utente a cui si desidera concedere l&#39;accesso, quindi fare clic su **[!UICONTROL Modifica Ruolo]**.
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Sotto [!UICONTROL Accedere alle attività di marketing], seleziona **[!UICONTROL Pianificazione scadenza risorse locale]** e fai clic su **[!UICONTROL Salva]**.
+1. Sotto [!UICONTROL Accedere alle attività di marketing], seleziona **[!UICONTROL Pianifica scadenza risorse locali]** e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/local-asset-expiration-3.png)
 
-## Imposta una data di scadenza {#set-an-expiration-date}
+## Impostare una data di scadenza {#set-an-expiration-date}
 
-1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona **[!UICONTROL Imposta scadenza risorsa locale]**.
+1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona (Condividi) **[!UICONTROL Imposta scadenza risorsa locale]**.
 
    ![](assets/local-asset-expiration-4.png)
 
@@ -47,27 +47,27 @@ Prima di pianificare la scadenza di una risorsa, è necessario che il ruolo Mark
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Imposta un&#39;ora. È necessario pianificare un orario di almeno 20 minuti in futuro (non dimenticare di inserire AM/PM). Fai clic su **[!UICONTROL Conferma]** al termine.
+1. Imposta un orario. È necessario pianificare un orario di almeno 15 minuti in futuro (non dimenticare di immettere AM/PM). Clic **[!UICONTROL Conferma]** al termine.
 
    ![](assets/local-asset-expiration-7.png)
 
 >[!NOTE]
 >
->* Per modificare una data di scadenza esistente, controlla semplicemente le risorse e fai clic su **[!UICONTROL Imposta scadenza]**.
->* Una volta scaduta, la risorsa non verrà più visualizzata nella griglia di scadenza. La griglia visualizza solo le pagine di destinazione pubblicate, le campagne attive e le campagne batch ricorrenti.
+>* Per modificare una data di scadenza esistente, seleziona le risorse e fai clic su **[!UICONTROL Imposta scadenza]**.
+>* Una volta scaduta, una risorsa non viene più visualizzata sulla griglia di scadenza. Nella griglia vengono visualizzate solo le pagine di destinazione pubblicate, le campagne di attivazione attive e le campagne batch ricorrenti.
 >* Le scadenze pianificate verranno rimosse se la risorsa viene spostata in un altro programma.
 
 
 ## Rimuovere una data di scadenza {#remove-an-expiration-date}
 
-1. Per rimuovere una data di scadenza, controlla le risorse e fai clic su **[!UICONTROL Rimuovi scadenza]**.
+1. Per rimuovere una data di scadenza, seleziona le risorse e fai clic su **[!UICONTROL Rimuovi scadenza]**.
 
    ![](assets/local-asset-expiration-8.png)
 
-1. Esamina le risorse interessate, quindi fai clic su **[!UICONTROL Conferma]**.
+1. Controlla le risorse interessate, quindi fai clic su **[!UICONTROL Conferma]**.
 
    ![](assets/local-asset-expiration-9.png)
 
 >[!NOTE]
 >
->Non è possibile rimuovere le date di scadenza inferiori a 15 minuti nel futuro. Per &quot;rimuovere&quot; la scadenza, è necessario attendere che la risorsa scada, quindi riapprovarla o riattivarla.
+>Non è possibile rimuovere date di scadenza entro i 15 minuti successivi. Per &quot;rimuovere&quot; la scadenza, devi attendere la scadenza della risorsa, quindi approvarla nuovamente o riattivarla.
