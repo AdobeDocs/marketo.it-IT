@@ -5,7 +5,7 @@ title: Abilita bozza senza testo per snippet
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,25 @@ No-Draft viene abilitato automaticamente per tutti i ruoli di amministratore. Un
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** area.
+1. Vai a **Amministratore** e fai clic su **Utenti e ruoli**.
 
-   ![](assets/enable-no-draft-for-snippets-1.png)
-
-1. Clic **Utenti e ruoli**.
-
-   ![](assets/enable-no-draft-for-snippets-2.png)
+   ![](assets/usersandroles.png)
 
 1. Vai a **Ruoli** , selezionare un ruolo, quindi fare clic su **Modifica Ruolo**.
 
-   ![](assets/enable-no-draft-for-snippets-3.png)
+   ![](assets/editrole2.png)
 
 1. Espandi **Accedere a Design Studio** opzione.
 
-   ![](assets/enable-no-draft-for-snippets-4.png)
+   ![](assets/expanddesignstudio.png)
 
 1. Espandi **Snippet di accesso** opzione.
 
-   ![](assets/enable-no-draft-for-snippets-5.png)
+   ![](assets/expandsnippet.png)
 
 1. Espandi **Approva snippet** e controlla **Nessuna bozza** casella. Quindi fai clic su **Salva**.
 
-   ![](assets/enable-no-draft-for-snippets-6.png)
+   ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
