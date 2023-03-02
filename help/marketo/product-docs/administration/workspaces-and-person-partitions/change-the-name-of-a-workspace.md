@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2360321
-description: Modificare il nome di un’area di lavoro - Documenti Marketo - Documentazione del prodotto
+description: Modificare il nome di un’area di lavoro - Documentazione di Marketo - Documentazione del prodotto
 title: Modificare il nome di un’area di lavoro
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,24 @@ Gli utenti possono modificare il nome di un’area di lavoro. È piuttosto sempl
 
 >[!NOTE]
 >
->Comprendi per primo con [Informazioni su aree di lavoro e partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Comprendere prima con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Sotto **Amministratore**, fai clic su **Aree di lavoro e partizioni.**
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-17-11-3a8-3a28.png)
+   ![](assets/change-the-name-of-a-workspace-1.png)
+
+1. Clic **Aree di lavoro e partizioni**.
+
+   ![](assets/change-the-name-of-a-workspace-2.png)
 
 1. Seleziona l’area di lavoro e fai clic su **Modifica area di lavoro**.
 
-   ![](assets/two-4.png)
+   ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. Immettere un nuovo **Nome** per il tuo spazio di lavoro e fai clic su **Salva.**
+1. Inserisci un nuovo **Nome** per il tuo Workspace e fai clic su **Salva.**
 
-   ![](assets/three-4.png)
+   ![](assets/change-the-name-of-a-workspace-4.png)
 
-1. Dopo il salvataggio, le modifiche dovrebbero essere visualizzate.
+Dopo il salvataggio, dovresti vedere le modifiche.
 
-   ![](assets/image2014-9-17-11-3a9-3a9.png)
+![](assets/change-the-name-of-a-workspace-5.png)

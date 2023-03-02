@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360317
-description: Assegnare le partizioni di persona alle aree di lavoro - Documenti Marketo - Documentazione del prodotto
-title: Assegnare partizioni di persona alle aree di lavoro
+description: Assegnare partizioni persona alle aree di lavoro - Documentazione Marketo - Documentazione del prodotto
+title: Assegnare partizioni persona alle aree di lavoro
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Assegnare partizioni di persona alle aree di lavoro {#assign-person-partitions-to-workspaces}
+# Assegnare partizioni persona alle aree di lavoro {#assign-person-partitions-to-workspaces}
 
-Come modificare le assegnazioni di partizione/area di lavoro della persona:
+Di seguito viene illustrato come modificare le assegnazioni della partizione persona/area di lavoro:
 
 >[!NOTE]
 >
@@ -24,36 +24,41 @@ Come modificare le assegnazioni di partizione/area di lavoro della persona:
 
 >[!CAUTION]
 >
->Le aree di lavoro e le partizioni di persona possono essere complesse. Contattare  [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per aiuto nella loro configurazione.
+>Le aree di lavoro e le partizioni delle persone possono essere complesse. Contatta  [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per assistenza nella loro configurazione.
 
-1. In Amministratore, fai clic su **Aree di lavoro e partizioni**.
+1. Vai a **Amministratore** area.
 
-![](assets/image2014-9-17-11-3a13-3a24.png)
+   ![](assets/assign-person-partitions-to-workspaces-1.png)
 
-1. Seleziona l’area di lavoro e fai clic su **Modifica area di lavoro**.
+1. Clic **Aree di lavoro e partizioni**.
 
-   ![](assets/two-3.png)
+   ![](assets/assign-person-partitions-to-workspaces-2.png)
 
-1. Modificare le informazioni sulla partizione personale che si desidera modificare.
+1. Seleziona il tuo workspace e fai clic su **Modifica area di lavoro**.
+
+   ![](assets/assign-person-partitions-to-workspaces-3.png)
+
+1. Modificare le informazioni sulla partizione della persona che si desidera modificare.
+
+   ![](assets/assign-person-partitions-to-workspaces-4.png)
 
    >[!NOTE]
    >
-   >La casella di controllo Tutte le partizioni di persona indica che l&#39;area di lavoro dispone dell&#39;accesso a tutte le partizioni di persona nel sistema.
+   >* La casella di controllo &quot;Tutte le partizioni persona&quot; indica che l&#39;area di lavoro ha accesso a tutte le partizioni persona nel sistema.
+   >
+   >* Le partizioni di persona primarie sono quelle predefinite in cui vengono immesse tutte le persone. Utilizzare [passaggi di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [regole di assegnazione](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) per spostare le persone.
 
-   ![](assets/three-3.png)
 
-   Le partizioni primarie sono le partizioni predefinite in cui verranno inseriti tutti i popoli. Utilizzo [gradini di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [regole di assegnazione](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) per spostare la gente.
+1. Clic **Salva**.
 
-1. Fai clic su **Salva**.
+   ![](assets/assign-person-partitions-to-workspaces-5.png)
 
-   ![](assets/four-3.png)
+Dopo il salvataggio, dovresti vedere le modifiche.
 
-   Dopo il salvataggio, dovresti vedere le modifiche!
+![](assets/assign-person-partitions-to-workspaces-6.png)
 
-   ![](assets/image2014-9-17-11-3a14-3a53.png)
-
-Complimenti. L&#39;area di lavoro è stata modificata.
+L&#39;area di lavoro è stata modificata.
 
 >[!MORELIKETHIS]
 >
->[Informazioni su aree di lavoro e partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>[Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).

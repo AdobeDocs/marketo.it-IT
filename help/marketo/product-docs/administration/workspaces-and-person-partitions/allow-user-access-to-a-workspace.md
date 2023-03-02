@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360325
-description: Consentire l’accesso degli utenti a un’area di lavoro - Documenti Marketo - Documentazione del prodotto
-title: Consenti accesso utente a un'area di lavoro
+description: Consentire l’accesso degli utenti a un’area di lavoro - Documentazione di Marketo - Documentazione del prodotto
+title: Consentire l’accesso degli utenti a un’area di lavoro
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Consenti accesso utente a un&#39;area di lavoro {#allow-user-access-to-a-workspace}
+# Consentire l’accesso degli utenti a un’area di lavoro {#allow-user-access-to-a-workspace}
 
-Le aree di lavoro possono essere per qualsiasi motivo (ad esempio unità aziendale o separazione geografica). Separano le risorse (elenchi avanzati, programmi, ecc.) di ogni squadra. Ecco come consentire a un utente di accedere a una o più aree di lavoro.
+Le aree di lavoro possono avere qualsiasi motivo (ad esempio, separazione geografica o di business unit). Separano le risorse (elenchi avanzati, programmi, ecc.) di ogni team. Di seguito viene illustrato come concedere a un utente l’accesso a una o più aree di lavoro.
 
 >[!NOTE]
 >
@@ -20,26 +20,29 @@ Le aree di lavoro possono essere per qualsiasi motivo (ad esempio unità azienda
 
 >[!NOTE]
 >
->Ulteriori informazioni [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Ulteriori informazioni su [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. In Amministratore, fai clic su Utenti e ruoli.
+1. Vai a **Amministratore** area.
 
-![](assets/image2014-9-17-11-3a2-3a32.png)
+   ![](assets/allow-user-access-to-a-workspace-1.png)
 
-1. Sotto la **Utenti** , seleziona l’utente e fai clic su **Modifica utente**.
+1. Clic **Utenti e ruoli**.
 
-   ![](assets/image2014-9-17-11-3a2-3a46.png)
+   ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. Seleziona la **Ruolo e area di lavoro** desideri che l’utente abbia accesso a .
+1. Sotto **Utenti** , seleziona l’utente e fai clic su **Modifica utente**.
+
+   ![](assets/allow-user-access-to-a-workspace-3.png)
+
+1. Seleziona la **Ruolo e area di lavoro** desideri che l’utente abbia accesso a.
+
+   ![](assets/allow-user-access-to-a-workspace-4.png)
 
    >[!NOTE]
    >
-   >È possibile consentire agli utenti di avere qualsiasi combinazione di accesso alle aree di lavoro.
+   >Puoi consentire agli utenti di accedere alle aree di lavoro in qualsiasi combinazione.
 
-   ![](assets/image2014-9-17-11-3a3-3a16.png)
+Dopo aver salvato le modifiche, dovresti visualizzare l’aggiornamento.
 
-1. Dopo aver salvato le modifiche, verrà visualizzato l&#39;aggiornamento.
+![](assets/allow-user-access-to-a-workspace-5.png)
 
-   ![](assets/image2014-9-17-11-3a3-3a31.png)
-
-Fantastico! Ora, quando effettuano l’accesso, vedranno tutte le aree di lavoro a cui hai dato accesso.
