@@ -1,11 +1,9 @@
 ---
 description: Integrazione Highspot - Documentazione Marketo - Documentazione del prodotto
 title: Integrazione Highspot
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Accedi a Highspot e aggiungi contenuto alle e-mail dalla finestra di composizion
 
    ![](assets/highspot-integration-7.png)
 
-1. Accedi al tuo account Highspot.
+1. Accedi all’account Highspot (se non hai già effettuato l’accesso).
 
    ![](assets/highspot-integration-8.png)
 
