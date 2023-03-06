@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 303df236491f9574532c8b59289f89f505671acb
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8835'
+source-wordcount: '8829'
 ht-degree: 0%
 
 ---
@@ -1201,7 +1201,6 @@ ht-degree: 0%
             + [Panoramica sull’annullamento dell’abbonamento](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + Utilizzo della finestra Componi {#using-the-compose-window}
             + [Aggiungere un allegato o un contenuto tracciabile all’e-mail](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [Aggiunta di contenuto Highspot all’e-mail](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Opzioni di invio in blocco](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Composizione di e-mail in blocco con Seleziona e invia](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [Pianificazione di un’e-mail](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
