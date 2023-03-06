@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 303df236491f9574532c8b59289f89f505671acb
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8835'
 ht-degree: 0%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 0%
       + [Imposta mapping organizzazione Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizzare un pubblico da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importazione di risorse con Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Panoramica di Unified Shell](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + Concetti di base su Marketo {#core-marketo-concepts}
       + Campagne avanzate {#smart-campaigns}
          + [Informazioni sulle campagne avanzate](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1377,7 +1378,7 @@ ht-degree: 0%
             + [Perché non tutti i miei contatti sono stati inviati ad azioni di approfondimento sulle vendite?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Perché l’attività di tracciamento non viene visualizzata nell’attività Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integrazioni {#integrations}
-            + [Registra le e-mail su un’origine esterna](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Integrazione Highspot](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Momenti di interesse nelle azioni di approfondimento sulle vendite](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
