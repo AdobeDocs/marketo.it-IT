@@ -3,9 +3,9 @@ description: Integrazione Highspot - Documentazione Marketo - Documentazione del
 title: Integrazione Highspot
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ Le vendite possono accedere alle funzionalità Highspot da Sales Insight Actions
 >
 >Per abilitare Highspot per l&#39;istanza delle azioni Sales Insight, è necessario disporre dei privilegi di amministratore.
 
-1. Seleziona impostazioni
+1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Seleziona le impostazioni generali nella barra laterale
+1. Sotto **Impostazioni di amministrazione**, seleziona **Generale**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Scorri fino alla scheda integrazioni e abilita Highspot
+1. Scorri fino a **Integrazioni** e fare clic sul dispositivo di scorrimento per attivare Highspot.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Ora gli utenti visualizzano un’opzione per selezionare Highspot quando si seleziona il pulsante di caricamento del contenuto nella finestra di composizione, nell’editor di modelli e nell’editor e-mail della campagna.
+Ora gli utenti visualizzano un’opzione per selezionare Highspot quando si seleziona il pulsante di caricamento del contenuto nella finestra di composizione, nell’editor di modelli e nell’editor e-mail della campagna.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Accesso ai contenuti Highspot e condivisione dei contenuti via e-mail {#accessing-highspot-content}
 
