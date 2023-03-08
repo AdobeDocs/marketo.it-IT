@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione - Gennaio 2023 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2023
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '628'
 ht-degree: 3%
 
 ---
@@ -85,7 +85,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
    <td><i>In arrivo</i></td>
   </tr>
   </tbody>

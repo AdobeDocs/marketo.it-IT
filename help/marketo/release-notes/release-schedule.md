@@ -1,28 +1,28 @@
 ---
 unique-page-id: 5472490
 description: Pianificazione del rilascio - Documenti Marketo - Documentazione del prodotto
-title: Pianificazione del rilascio
+title: Pianificazione rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 612c8ddc8858c61a62fc5c7b10c3868a5e1dd089
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 5%
 
 ---
 
-# Pianificazione del rilascio {#release-schedule}
+# Pianificazione rilascio {#release-schedule}
 
-**Versione**: Mese/anno di ciascuna versione. Una volta disponibili, le note sulla versione saranno collegate nella tabella seguente.
+**Versione**: il mese/anno di ciascuna versione. Una volta disponibili, le note sulla versione saranno collegate nella tabella seguente.
 
-**Data di rilascio**: Il rollout inizia solitamente il martedì della settimana di rilascio, con la maggior parte dell’aggiornamento che avviene venerdì sera. Viene inviata un’e-mail con date e dettagli specifici sulla versione. La data indicata è per l’aggiornamento del venerdì.
+**Data di rilascio**: il rollout inizia in genere il martedì della settimana di rilascio, con l’aggiornamento principalmente previsto per venerdì sera. Viene inviata un’e-mail con date e dettagli di rilascio specifici. La data indicata corrisponde all’aggiornamento del venerdì.
 
 **Stato**:
 
-* On Schedule - Stiamo pianificando di rilasciare le funzioni e i miglioramenti alla data indicata
-* In corso - Stiamo implementando le funzioni della versione
-* Spedito - Rilascio completato
+* Pianificazione: prevediamo di rilasciare le funzioni e i miglioramenti alla data indicata
+* In corso: stiamo implementando le funzioni della versione
+* Spedito: rilascio completato
 
-_Le date di rilascio sono soggette a modifica_
+_Le date di rilascio sono soggette a modifiche_
 
 <table> 
  <colgroup> 
@@ -44,32 +44,32 @@ _Le date di rilascio sono soggette a modifica_
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">Gennaio '23</a></td>
    <td>20 gennaio 2023</td>
-   <td>In corso</td>
+   <td>Spedito</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Marzo 23</a></td>
+   <td><a href="/help/marketo/release-notes/current.md">Marzo '23</a></td>
    <td>24 marzo 2023</td>
-   <td>On Schedule</td>
+   <td>Su pianificazione</td>
   </tr>
   <tr> 
    <td>Maggio '23</td>
    <td>19 maggio 2023</td>
-   <td>On Schedule</td>
+   <td>Su pianificazione</td>
   </tr>
   <tr> 
    <td>Luglio '23</td>
    <td>21 luglio 2023</td>
-   <td>On Schedule</td>
+   <td>Su pianificazione</td>
   </tr>
   <tr>
-   <td>Settembre 23</td>
+   <td>Settembre '23</td>
    <td>8 settembre 2023</td>
-   <td>On Schedule</td>
+   <td>Su pianificazione</td>
   </tr>
   <tr>
    <td>Ottobre '23</td>
    <td>20 ottobre 2023</td>
-   <td>On Schedule</td>
+   <td>Su pianificazione</td>
   </tr>
  </tbody>
 </table>
