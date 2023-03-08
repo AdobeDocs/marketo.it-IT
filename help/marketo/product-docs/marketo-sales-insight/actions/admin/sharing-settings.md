@@ -1,33 +1,33 @@
 ---
-description: Impostazioni di condivisione - Documentazione Marketo - Documentazione del prodotto
+description: Impostazioni di condivisione - Documentazione di Marketo - Documentazione del prodotto
 title: Impostazioni di condivisione
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
 # Impostazioni di condivisione {#sharing-settings}
 
-Gestisci meglio i modelli limitando gli elementi condivisibili dagli utenti e le categorie con cui possono essere condivisi.
+Gestisci meglio i modelli limitando ciò che gli utenti possono condividere e con quali categorie.
 
-Quando l&#39;account di vendita Connect viene creato per la prima volta, le impostazioni di condivisione vengono abilitate. Questo offre agli amministratori dell’account l’opportunità di creare e organizzare le categorie di modelli prima di aprire i gateway e consentire agli utenti di condividere i contenuti nelle categorie del team.
+Quando il tuo account Sales Insight Actions viene creato per la prima volta, le impostazioni di condivisione sono abilitate. In questo modo gli amministratori del tuo account possono creare e organizzare le categorie di modelli prima di aprire i portali e consentire agli utenti di condividere i contenuti nelle categorie del team.
 
-Quando le Impostazioni di condivisione sono abilitate, solo gli amministratori possono condividerle in categorie a meno che non siano forniti privilegi di condivisione a un team o a tutti. Se le impostazioni di condivisione sono disattivate, non vi sono restrizioni e tutti gli utenti possono condividerle in qualsiasi categoria di modelli.
+Quando le impostazioni di condivisione sono abilitate, solo gli amministratori possono condividere in categorie, a meno che non vengano forniti privilegi di condivisione a un team o a tutti. Se le impostazioni di condivisione sono disattivate, non vi sono restrizioni e tutti gli utenti possono condividere in qualsiasi categoria di modelli.
 
-## Configurare le impostazioni di condivisione {#configure-your-sharing-settings}
+## Configurare Le Impostazioni Di Condivisione {#configure-your-sharing-settings}
 
 1. In [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/sharing-settings-1.png)
 
-1. In Impostazioni amministratore, seleziona **Accesso condiviso**.
+1. In Impostazioni amministratore, seleziona **Condivisione dell&#39;accesso**.
 
    ![](assets/sharing-settings-2.png)
 
-1. Assicurati **Impostazioni di condivisione** è abilitato. Questo significa che per impostazione predefinita solo gli amministratori possono condividere i modelli nelle categorie di modelli.
+1. Assicurati che **Impostazioni di condivisione** è abilitato. Ciò significa che, per impostazione predefinita, solo gli amministratori potranno condividere i modelli nelle categorie dei modelli.
 
    ![](assets/sharing-settings-3.png)
 
@@ -35,7 +35,7 @@ Quando le Impostazioni di condivisione sono abilitate, solo gli amministratori p
 
    ![](assets/sharing-settings-4.png)
 
-1. Fai clic su **Aggiungi team per l&#39;accesso**.
+1. Clic **Aggiungi team per l&#39;accesso**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -47,10 +47,10 @@ Quando le Impostazioni di condivisione sono abilitate, solo gli amministratori p
    >
    >Se non trovi team, devi passare a Gestione team e creare un team di utenti.
 
-1. Fai clic su **Aggiungi team per l&#39;accesso** da salvare.
+1. Clic **Aggiungi team per l&#39;accesso** per salvare.
 
    ![](assets/sharing-settings-7.png)
 
-1. Dopo l’aggiunta del team, puoi selezionare per consentire solo agli amministratori del team di condividere o a tutti gli utenti del team. In questo esempio diamo a tutti gli utenti del team SDR l&#39;accesso condiviso.
+1. Dopo aver aggiunto il team, puoi scegliere di consentire solo agli amministratori del team di condividere o tutti gli utenti del team. In questo esempio concederemo a tutti gli utenti del team SDR l&#39;accesso condiviso.
 
    ![](assets/sharing-settings-8.png)
