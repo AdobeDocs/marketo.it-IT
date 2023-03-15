@@ -2,16 +2,16 @@
 description: Servizio dettagliato del flusso - Documentazione Marketo - Documentazione del prodotto
 title: Servizio a gradini di flusso
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # Servizio a gradini di flusso {#flow-step-service}
 
-I passaggi di flusso self-service è un framework e un insieme di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web nelle campagne avanzate Adobe Marketo Engage. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del tuo servizio, consulta [Archivio GitHub per l’interfaccia dei provider di servizi](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. È possibile trovare un’implementazione della tabella di ricerca a prova di concetto [qui](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
+I passaggi di flusso self-service è un framework e un insieme di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web nelle campagne avanzate Adobe Marketo Engage. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del tuo servizio, consulta [Archivio GitHub per l’interfaccia dei provider di servizi](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding e gestione dei servizi {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ Fai clic su **Successivo** per passare alla sezione Inserisci credenziali del se
 ## Immettere le credenziali del servizio {#enter-service-credentials}
 
 Per accedere al servizio installato, Marketo deve disporre di credenziali API valide. Queste credenziali devono essere fornite dal provider di servizi. I servizi dispongono di tre diverse opzioni di autenticazione, pertanto potresti visualizzare uno dei tre diversi prompt per le credenziali: **Chiave API** che dispone di un solo campo di ingresso, **Autenticazione di base** che richiede un nome utente e una password e può anche richiedere un campo chiamato Realm, e **OAuth2** utilizzando _Credenziali client_ una sovvenzione, che richiede un _ID client_ e _Segreto client_.
-
->[!NOTE]
->
->OAuth2 non sarà disponibile fino alla versione dell’11 marzo.
 
 Quando salvi le credenziali, Marketo tenterà di chiamare l’endpoint di stato del servizio per verificarne la validità. Se le credenziali fornite non sono valide, verrà visualizzato un errore che lo indica.
 
