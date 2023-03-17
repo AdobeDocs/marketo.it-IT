@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: Aggiungi/Modifica/Elimina campi attività personalizzati Marketo - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi/Modifica/Elimina campi attività personalizzati Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ Potrebbe essere necessario aggiungere, modificare o persino eliminare un campo d
 
    >[!CAUTION]
    >
-   >Puoi modificare il Nome Api o cambiare il campo in Primario solo se l’attività personalizzata non è mai stata pubblicata. Se l’attività è già stata pubblicata, puoi solo modificare il nome del campo e la relativa descrizione facoltativa.
+   >Puoi modificare il Nome Api o cambiare il campo in Primario solo se l’attività personalizzata non è mai stata pubblicata.
 
    >[!NOTE]
    >
