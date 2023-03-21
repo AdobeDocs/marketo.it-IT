@@ -3,7 +3,7 @@ description: Panoramica della shell unificata - Documentazione di Marketo - Docu
 title: Panoramica della shell unificata
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Unified Shell allinea l&#39;aspetto &quot;shell&quot; delle applicazioni e dei s
 
 Se non hai già effettuato l&#39;accesso a un prodotto Adobe Experience Cloud, accedi direttamente a [!DNL Marketo Engage] qui: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Se _sono_ ha già effettuato l&#39;accesso a un prodotto Adobe Experience Cloud, fai clic sull&#39;icona del menu e seleziona **[!DNL Marketo Measure]**.
+Se _sono_ ha già effettuato l&#39;accesso a un prodotto Adobe Experience Cloud, fai clic sull&#39;icona del menu e seleziona **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
