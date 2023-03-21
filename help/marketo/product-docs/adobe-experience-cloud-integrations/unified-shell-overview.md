@@ -3,9 +3,9 @@ description: Panoramica della shell unificata - Documentazione di Marketo - Docu
 title: Panoramica della shell unificata
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Oltre all’aspetto e all’aspetto aggiornati, noterai le seguenti funzioni:
 
 **Centro assistenza integrato**
 
-Cerca articoli di supporto, invia ticket, fornisci feedback, il tutto dall’interno del [!DNL Marketo Engage] applicazione.
+Accedi a una varietà di risorse di aiuto disponibili dall’interno della [!DNL Marketo Engage] applicazione.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Puoi visualizzare e interagire direttamente nell’applicazione con le notifiche
 
 **Impostazioni Adobe**
 
-Fai clic sull’icona del profilo per modificare la lingua o altre preferenze a livello di Adobe. Puoi anche effettuare [!DNL Marketo Engage]- modifiche specifiche facendo clic su **Impostazioni personali**.
+Fai clic sull’icona del profilo per modificare la lingua o altre preferenze a livello di Adobe.
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Se puoi accedere a Adobe Experience Cloud, ma vedi l&#39;errore &quot;Impossibil
 **Dove sono andati la cronologia utente, la ricerca globale, le notifiche Marketo e il carrello attività?**
 
 Queste funzioni sono state spostate dal menu di navigazione superiore a una nuova barra sul lato sinistro in Unified Shell.
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
