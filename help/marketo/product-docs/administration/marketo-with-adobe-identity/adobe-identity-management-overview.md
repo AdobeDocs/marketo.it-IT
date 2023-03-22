@@ -2,9 +2,9 @@
 description: Panoramica di Adobe Identity Management - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -122,6 +122,10 @@ No. Il flusso di lavoro Invito utente non è più attivo quando un abbonamento �
 **Per Adobe IMS, è possibile utilizzare Adobe ID, Enterprise ID o Federated ID?**
 
 Sì, è possibile determinare il tipo di identità per ottenere il supporto dell&#39;organizzazione. Maggiori informazioni sono disponibili qui: [Panoramica dell’identità](https://helpx.adobe.com/enterprise/using/identity.html) e qui: [Imposta identità](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Quali schede di prodotto sono supportate in Adobe Admin Console?**
+
+Le schede di prodotto supportate sono: Azioni Marketi Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect e Marketo Sales Insight sulle vendite.
 
 >[!MORELIKETHIS]
 >
