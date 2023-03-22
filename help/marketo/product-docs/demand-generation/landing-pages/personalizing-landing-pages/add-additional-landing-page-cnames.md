@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Aggiungere CNAME aggiuntivi per le pagine di destinazione - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi CNAME aggiuntivi per pagine di destinazione
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -28,33 +28,37 @@ Puoi aggiungere CNAME per pagine di destinazione per consentire a URL diversi di
 >
 >**Autorizzazioni amministratore richieste**
 
-## Trova La Stringa Account {#find-your-account-string}
+1. Vai a **Amministratore** area.
 
-1. Vai a **Amministratore** area e fai clic su **Pagine di destinazione**.
+   ![](assets/add-additional-landing-page-cnames-1.png)
 
-   ![](assets/image2014-9-16-15-3a19-3a54.png)
+1. Fai clic su **Il mio account**.
 
-1. Copia il **Stringa account** dal **Impostazioni** sezione .
+   ![](assets/add-additional-landing-page-cnames-2.png)
 
-   ![](assets/image2014-9-16-15-3a20-3a2.png)
+1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo Munchkin ID.
 
-1. Prendi nota del passaggio successivo.
+   ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## Invia richiesta all&#39;IT {#send-request-to-it}
 
-1. Chiedi al tuo reparto IT di configurare il seguente CNAME: (Sostituisci la parola [CNAME] con il CNAME di tua scelta e [STRINGA ACCOUNT] con il testo del passaggio precedente).
+1. Chiedi al tuo reparto IT di configurare il seguente CNAME: (Sostituisci la parola [CNAME] con il CNAME di tua scelta e [ID Munchkin] con il testo del passaggio precedente).
 
-   [CNAME].YourCompany.com > [STRINGA ACCOUNT].mktoweb.com
+   [CNAME].YourCompany.com > [ID Munchkin].mktoweb.com
 
 ## Aggiungi un nuovo CNAME {#add-a-new-cname}
 
-1. Una volta creato il CNAME dal reparto IT, vai a **Amministratore** quindi fai clic su **Pagine di destinazione**.
+1. Una volta che il reparto IT ha creato il CNAME, vai al **Amministratore** area.
 
-   ![](assets/image2014-9-16-15-3a20-3a20.png)
+   ![](assets/add-additional-landing-page-cnames-4.png)
+
+1. Fai clic su **Pagine di destinazione**.
+
+   ![](assets/add-additional-landing-page-cnames-5.png)
 
 1. Fai clic su **Nuovo** quindi seleziona **Nuovo alias di dominio**.
 
-   ![](assets/image2014-9-16-15-3a20-3a28.png)
+   ![](assets/add-additional-landing-page-cnames-6.png)
 
 1. Inserisci il tuo **Alias di dominio.** La **Pagina predefinita** viene visualizzato se il visitatore non inserisce un URL. Inserisci dove dovrebbero andare in quel caso.
 
@@ -62,10 +66,10 @@ Puoi aggiungere CNAME per pagine di destinazione per consentire a URL diversi di
    >
    >Per la pagina predefinita, puoi selezionare una pagina di destinazione o un URL esterno, ad esempio il tuo sito web pubblico.
 
-   ![](assets/image2014-9-16-15-3a20-3a36.png)
+   ![](assets/add-additional-landing-page-cnames-7.png)
 
 1. Inserisci il tuo **Pagina predefinita** e fai clic su **Crea**.
 
-   ![](assets/image2014-9-16-15-3a20-3a43.png)
+   ![](assets/add-additional-landing-page-cnames-8.png)
 
 Bello! Ora sai cosa fare se vuoi aggiungere un CNAME.

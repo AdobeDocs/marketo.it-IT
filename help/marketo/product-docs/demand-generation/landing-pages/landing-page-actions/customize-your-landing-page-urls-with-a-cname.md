@@ -3,9 +3,9 @@ unique-page-id: 2359746
 description: Personalizzare gli URL della pagina di destinazione con un CNAME - Marketo Docs - Documentazione del prodotto
 title: Personalizzare gli URL della pagina di destinazione con un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -30,41 +30,47 @@ Scegli una parola da inserire all’inizio dell’URL per le pagine di destinazi
 
 La parola (più YourCompany.com) è denominata CNAME. Ne avrai bisogno più tardi, quindi prendine nota.
 
-## Trova la stringa account {#find-your-account-string}
+## Trova il tuo Munchkin ID {#find-your-munchkin-id}
 
-1. Vai a **Amministratore** e fai clic su **Pagine di destinazione**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-18-16-3a2-3a45.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
+
+1. Fai clic su **Il mio account**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
    >**Autorizzazioni amministratore richieste**
 
-1. Sotto la **Atterraggio** **Pagine** , copia il **Account** **Stringa** dal **Impostazioni** sezione .
+1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo Munchkin ID.
 
-   ![](assets/image2014-9-18-16-3a44-3a12.png)
-
-1. Avrete bisogno anche più tardi, quindi prendete una nota di esso.
+   ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Invia richiesta all&#39;IT {#send-request-to-it}
 
-Chiedi al tuo personale IT di configurare il seguente CNAME: (Sostituisci la parola [CNAME] e [STRINGA ACCOUNT] con il testo del passaggio precedente).
+Chiedi al tuo personale IT di configurare il seguente CNAME: (Sostituisci la parola [CNAME] e [ID Munchkin] con il testo del passaggio precedente).
 
-[CNAME].YourCompany.com > [STRINGA ACCOUNT].mktoweb.com
+[CNAME].YourCompany.com > [ID Munchkin].mktoweb.com
 
 ## Configurazione completa CNAME {#complete-cname-setup}
 
-1. Una volta creato il CNAME, vai a **Amministratore** e fai clic su **Pagine di destinazione**.
+1. Una volta creato il CNAME, passa alla pagina **Amministratore** area.
 
-   ![](assets/image2014-9-18-17-3a15-3a11.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
+
+1. Fai clic su **Pagine di destinazione**.
+
+   ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
 1. Sotto la **Impostazioni** sezione, fai clic su **Modifica**.
 
-   ![](assets/image2014-9-18-17-3a15-3a18.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
 1. Immetti il tuo CNAME in **Nome di dominio per le pagine di destinazione**, inserisci il **Pagina di fallback**, inserisci il **Homepage** e fai clic su **Salva**.
 
-   ![](assets/image2014-9-18-17-3a15-3a25.png)
+   ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 >[!NOTE]
 >
