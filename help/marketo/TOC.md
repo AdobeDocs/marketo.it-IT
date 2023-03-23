@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
+source-git-commit: 0507bc7dfdfda6a19dd9838852c52de9d278ddc6
 workflow-type: tm+mt
 source-wordcount: '8849'
 ht-degree: 0%
@@ -1287,7 +1287,7 @@ ht-degree: 0%
          + [Panoramica della funzione Approfondimenti vendite](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Introduzione {#getting-started}
             + [Guida all’onboarding dell’utente sulle azioni di vendita](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Elenco di controllo per l&#39;onboarding dell&#39;utente delle azioni Insight vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
+            + [Elenco di controllo per l&#39;onboarding dell&#39;utente delle azioni Insight vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-onboarding-checklist.md)
             + [Guida all’impostazione per l’amministratore di Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Modificare la password di vendita di Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [Limiti di utilizzo del prodotto](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
