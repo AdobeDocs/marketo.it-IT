@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 8%
@@ -27,7 +27,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 * **Miglioramento utilizzato dal componente per i dettagli dei modelli di pagina di destinazione e dei moduli**: La scheda Nuovo utilizzato dall’interfaccia utente fornisce informazioni aggiuntive nei dettagli dei modelli di pagina di destinazione e dei dettagli del modulo, con ulteriori dettagli sulle risorse che hanno utilizzato una risorsa selezionata. Esegui analisi su lunghi elenchi di risorse tramite le funzionalità di ricerca, ordinamento e filtro.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>Stato</b></td>
    <td><b>Aggiornamenti alla documentazione</b></td>
@@ -67,7 +67,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-### Miglioramenti API {#api-enhancements}
+### Aggiornamenti dell’integrazione {#integration-updates}
 
 </br>
 
