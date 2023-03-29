@@ -2,9 +2,9 @@
 description: Panoramica dei rapporti - Documenti Marketo - Documentazione del prodotto
 title: Panoramica del reporting
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ Marketo offre diversi moduli di reporting per diverse esigenze.
 
 ## Reporting di base {#basic-reporting}
 
-È possibile configurare [rapporti di base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} all&#39;interno dei programmi o nell&#39;area Analytics. I rapporti di base sono formati da diversi tipi di rapporti predefiniti con la flessibilità di filtrare, ordinare e regolare gli intervalli di tempo.
+È possibile configurare [rapporti di base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} all’interno di programmi o nell’area Analytics. I rapporti di base sono formati da diversi tipi di rapporti predefiniti con la flessibilità di filtrare, ordinare e regolare gli intervalli di tempo.
 
 ## Approfondimenti e-mail {#email-insights}
 
-Utilizza Analytics e invia per ottenere [informazioni approfondite](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} sulle e-mail dai dati storici.
+Utilizza Analytics e invia per ottenere [informazioni approfondite](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} e-mail da dati storici.
 
 ## Informazioni sulle prestazioni {#performance-insights}
 
-[Informazioni sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} copre le prestazioni del canale e del programma per la generazione di coinvolgimento, pipeline e ricavi.
+[Informazioni sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} copre le prestazioni del canale e le prestazioni del programma per la generazione di coinvolgimento, pipeline e ricavi.
 
 ## Reporting avanzato di BI Analytics {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(precedentemente noto come Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato i moduli Advanced BI Analytics e Advanced Percorsi Analytics. Contatta il tuo Customer Success Manager per ulteriori informazioni.
+>Non tutti hanno acquistato i moduli Advanced BI Analytics e Advanced Percorsi Analytics. Per ulteriori informazioni, contatta il team dell&#39;account Adobe (il tuo Account Manager).
 
 Monitora il ROI delle iniziative di marketing. Analizzare e-mail, persone, programmi, opportunità, analisi delle prestazioni dei modelli (aziende) e analisi delle prestazioni dei modelli (lead). BI Explorer consente di creare rapporti personalizzati all’interno dell’area di analisi e di creare grafici, grafici, pivot e dashboard con i dati.
 

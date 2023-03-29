@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Creare un rapporto di analisi e-mail che mostra le informazioni sul programma - Documenti Marketo - Documentazione del prodotto
 title: Creare un rapporto di analisi e-mail che mostra le informazioni sul programma
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Segui questi passaggi per creare un rapporto di analisi e-mail che mostrerà inf
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo Customer Success Manager per maggiori dettagli.
+>Non tutti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
 
 1. Launch **Esplora ricavi**.
 

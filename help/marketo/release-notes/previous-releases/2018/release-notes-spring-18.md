@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Note sulla versione - Primavera 18 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Primavera '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati p
 
 >[!AVAILABILITY]
 >
->Sales Engage è un prodotto aggiuntivo. Contatta il tuo Marketo Customer Success Manager o Account Executive per un preventivo.
+>Sales Engage è un prodotto aggiuntivo. Contatta il tuo Marketo Account Manager o Account Executive per un preventivo.
 
 Incrementa la pipeline e i ricavi consentendo alle vendite di essere dotate di intelligenza, contenuti, playlist e analisi per convertire più lead in opportunità di vendita. Sales Engage fornisce alle vendite e al marketing una piattaforma unificata per il coinvolgimento dei clienti nel percorso e consente un migliore coordinamento attraverso una visione condivisa dei punti di contatto dei clienti.
 

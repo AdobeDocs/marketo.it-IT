@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Dashboard di coinvolgimento - Documenti Marketo - Documentazione del prodotto
 title: Dashboard di coinvolgimento
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Mostra il punteggio medio di coinvolgimento nel tempo e l’impatto delle modifi
 
 >[!AVAILABILITY]
 >
->Questa funzione è disponibile come componente aggiuntivo per i clienti che utilizzano Marketo Revenue Cycle Explorer. Per ulteriori informazioni, contatta il tuo Customer Success Manager.
+>Questa funzione è disponibile come componente aggiuntivo per i clienti che utilizzano Marketo Revenue Cycle Explorer. Per ulteriori informazioni, contatta il team dell&#39;account Adobe (il tuo Account Manager).
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

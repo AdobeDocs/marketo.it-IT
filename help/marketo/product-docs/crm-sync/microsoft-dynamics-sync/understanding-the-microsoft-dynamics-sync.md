@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Informazioni su Microsoft Dynamics Sync - Marketo Docs - Documentazione del prodotto
 title: Informazioni sulla sincronizzazione di Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo e Microsoft Dynamics collaborano. Manteniamo sincronizzati i dati di ven
 
 >[!CAUTION]
 >
->Al momento non è supportato l’aggiornamento della sandbox per Marketo Dynamics Sync. Se devi aggiornare la sandbox di Dynamics CRM, sarà necessaria una nuova sandbox Marketo. Per ulteriori informazioni, contatta il tuo Customer Success Manager.
+>Al momento non è supportato l’aggiornamento della sandbox per Marketo Dynamics Sync. Se devi aggiornare la sandbox di Dynamics CRM, sarà necessaria una nuova sandbox Marketo. Per ulteriori informazioni, contatta il team dell&#39;account Adobe (il tuo Account Manager).
 
 ## Come funziona la sincronizzazione {#how-sync-works}
 

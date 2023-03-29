@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Trova e unisci persone duplicate - Documenti Marketo - Documentazione del prodotto
 title: Trova e unisci persone duplicate
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Per informazioni specifiche sul comportamento di Salesforce durante l&#39;unione
 
 ## Unione in blocco {#bulk-merging}
 
-Se hai troppi duplicati da unire manualmente, contatta il tuo Customer Success Manager per discutere le tue opzioni.
+Se hai troppi duplicati da unire manualmente, contatta il team dell’account Adobe (il tuo account manager) per discutere le opzioni disponibili.
 
-Super! Se sei connesso a un CRM, i record verranno uniti in base alle regole riportate di seguito.
+Se sei connesso a un CRM, i record verranno uniti in base alle regole riportate di seguito.

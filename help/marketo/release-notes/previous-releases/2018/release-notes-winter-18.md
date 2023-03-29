@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Note sulla versione - Inverno del 18 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Fai clic sui collegamenti del titolo per visualizzare gli articoli dettagliati p
 
 Marketo sfrutta la nostra architettura dei dati di grandi dimensioni per aumentare il throughput delle campagne e migliorare l’elaborazione delle attività web, in modo da poter reagire più rapidamente alle azioni del pubblico.
 
-## Miglioramenti all’integrazione di Marketo con Salesforce CRM {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Miglioramenti all&#39;integrazione Marketo Salesforce CRM {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Abbiamo due miglioramenti alla nostra integrazione CRM Salesforce:
 
@@ -34,7 +34,7 @@ Questi miglioramenti saranno implementati nel 2018.
 
 >[!AVAILABILITY]
 >
->Performance Insights è un prodotto aggiuntivo. Contatta il tuo Marketo Customer Success Manager o Account Executive per un preventivo.
+>Performance Insights è un prodotto aggiuntivo. Contatta il tuo Marketo Account Manager o Account Executive per un preventivo.
 
 Scopri in che modo le campagne e i canali hanno un impatto sui risultati aziendali con analisi di attribuzione, visualizzazioni interattive e una tabella di dati dettagliata.
 

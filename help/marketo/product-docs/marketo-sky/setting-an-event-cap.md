@@ -4,9 +4,9 @@ title: Impostazione di un valore Cap per eventi
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Limita la quantità di persone che possono registrarsi per l’evento con un lim
 
 >[!NOTE]
 >
->Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
+>Non tutti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
 
 >[!IMPORTANT]
 >È necessario disporre di almeno due pagine di destinazione approvate (una pagina di registrazione e una pagina di registrazione completa) nel programma prima di poter impostare un limite per l’evento.

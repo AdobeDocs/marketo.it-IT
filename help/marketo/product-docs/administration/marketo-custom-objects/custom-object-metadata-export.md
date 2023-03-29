@@ -2,9 +2,9 @@
 description: Esportazione di metadati oggetti personalizzati - Documentazione Marketo - Documentazione del prodotto
 title: Esportazione metadati oggetti personalizzati
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Se utilizzi l’API SOAP o Munchkin, puoi esportare lo schema metadati dell’og
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
+>Non tutti i clienti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
 
 1. In My Marketo, fai clic su **Amministratore**.
 

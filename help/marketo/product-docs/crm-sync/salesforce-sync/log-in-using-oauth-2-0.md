@@ -2,9 +2,9 @@
 description: Accedere utilizzando OAuth 2.0 - Documenti Marketo - Documentazione del prodotto
 title: Accedere utilizzando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 
    >[!CAUTION]
    >
-   >Se visualizzi i campi Nome utente/Password/Token e non il pulsante &quot;Accedi con Salesforce&quot;, la sottoscrizione Marketo è abilitata per l&#39;autenticazione di base. Fai riferimento a [Configurazione di Marketo con autenticazione di base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Una volta che la sincronizzazione inizia a utilizzare un set di credenziali, non vi è alcun cambiamento di credenziali Salesforce o sottoscrizione. Se desideri utilizzare Oauth 2.0, contatta il tuo Customer Success Manager.
+   >Se visualizzi i campi Nome utente/Password/Token e non il pulsante &quot;Accedi con Salesforce&quot;, la sottoscrizione Marketo è abilitata per l&#39;autenticazione di base. Fai riferimento a [Configurazione di Marketo con autenticazione di base](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Una volta che la sincronizzazione inizia a utilizzare un set di credenziali, non vi è alcun cambiamento di credenziali Salesforce o sottoscrizione. Se desideri utilizzare Oauth 2.0, contatta il team dell’account Adobe (il tuo Account Manager).
 
 1. Verrà visualizzato un pop-up con la pagina di accesso di Salesforce. Immetti la chiave nelle tue credenziali &quot;Marketo Sync User&quot; e accedi.
 

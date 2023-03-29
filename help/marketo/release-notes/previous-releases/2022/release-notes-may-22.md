@@ -2,9 +2,9 @@
 description: Note sulla versione - Maggio 2022 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Maggio 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 ## Integrazione CRM nativa {#native-crm-integration}
 
-**[Integrazione CRM nativa Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (disponibilità limitata)**: Migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva CRM e il Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente ai professionisti del marketing di creare esperienze cross-channel più personalizzate e fluide per i professionisti del settore sanitario. Contatta il tuo Customer Success Manager per partecipare.
+**[Integrazione CRM nativa Veeva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilità limitata)**: Migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva CRM e il Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente ai professionisti del marketing di creare esperienze cross-channel più personalizzate e fluide per i professionisti del settore sanitario. Contatta l&#39;Adobe Account Team (il tuo Account Manager) per partecipare.
 
 ## Orchestrazione tra canali {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 **Escludere gli URL per la chat dinamica**: Controlla su quale delle tue pagine web appare la chat dinamica con la possibilità di escludere URL specifici dai criteri di targeting.
 
-**[Miglioramenti al filtro delle attività dei bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Continua a proteggere lo stato del database con la possibilità di identificare il comportamento di bot in base ai collegamenti nascosti Agenti utente o IP e ai pattern di prossimità, oltre all’identificazione esistente della corrispondenza dell’elenco IAB. Visualizzare gli stati delle attività bot che consentono di comprendere il numero di attività bot identificate per ciascun tipo.
+**[Miglioramenti al filtro delle attività dei bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Continua a proteggere lo stato del database con la possibilità di identificare il comportamento di bot in base ai collegamenti nascosti Agenti utente o IP e ai pattern di prossimità, oltre all’identificazione esistente della corrispondenza dell’elenco IAB. Visualizzare gli stati delle attività bot che consentono di comprendere il numero di attività bot identificate per ciascun tipo.
 
-**[Intestazione STS per i collegamenti di tracciamento e-mail](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Soddisfa le best practice di sicurezza con la possibilità di applicare intestazioni Secure Transport Security per garantire che il traffico verso i collegamenti tracciati sia sempre sicuro.
+**[Intestazione STS per i collegamenti di tracciamento e-mail](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Soddisfa le best practice di sicurezza con la possibilità di applicare intestazioni Secure Transport Security per garantire che il traffico verso i collegamenti tracciati sia sempre sicuro.
 
 ## Esperienza di nuova generazione {#modern-ux}
 
@@ -45,7 +45,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 **Schermata aggiornata nell’esperienza di nuova generazione**:
 
-Nell’esperienza di nuova generazione, offriamo una visualizzazione dei dettagli dei modelli e-mail in Design Studio, che offre miglioramenti aggiornati alla progettazione e all’usabilità accessibili tramite l’interruttore di attivazione/disattivazione.
+Forniamo la visualizzazione dei dettagli dei modelli e-mail in Design Studio nell’esperienza di nuova generazione, offrendo una progettazione aggiornata e miglioramenti all’usabilità accessibili tramite interruttore di attivazione/disattivazione.
 
 ## Automazione delle esperienze {#experience-automation}
 
@@ -65,8 +65,8 @@ Nell’esperienza di nuova generazione, offriamo una visualizzazione dei dettagl
 
 La verifica e-mail per gli abbonamenti che utilizzano la funzione &quot;Accesso nella finestra di dialogo per l’invito di utenti&quot; o che hanno un singolo messaggio e-mail associato a più utenti coinciderà con la versione di maggio. Gli abbonamenti con un’unica e-mail associata a più utenti verranno abilitati per Verifica e-mail e richiederanno a tali utenti di risolvere il conflitto e utilizzare un’e-mail univoca per ogni utente. Quando la funzione &quot;Accedi alla finestra di dialogo per l’invito dell’utente&quot; è abilitata, gli utenti invitati tramite questa funzione dovranno disporre di un indirizzo e-mail univoco. Per gli utenti solo API invitati tramite questa funzione, l’indirizzo e-mail non deve essere univoco.
 
-**Modifica del comportamento della cartella archivio**: Con questa versione, la possibilità di creare nuove risorse nelle cartelle Archivia non sarà più disponibile dai menu di scelta rapida della struttura. Le opzioni del menu per la creazione di nuove risorse saranno nascoste per tutte le risorse. [Ulteriori informazioni qui](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
+**Modifica del comportamento della cartella archivio**: Con questa versione, la possibilità di creare nuove risorse nelle cartelle Archivia non sarà più disponibile dai menu di scelta rapida della struttura. Le opzioni del menu per la creazione di nuove risorse saranno nascoste per tutte le risorse. [Ulteriori informazioni qui](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_Webinar sulla versione del prodotto_**
 
-[Webinar sul rilascio del Marketo Engage di marzo e maggio 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[Webinar sul rilascio del Marketo Engage di marzo e maggio 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

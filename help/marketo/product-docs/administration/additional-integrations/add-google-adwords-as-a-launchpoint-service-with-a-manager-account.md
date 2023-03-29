@@ -3,24 +3,24 @@ unique-page-id: 7504893
 description: Aggiungere Google AdWords as a Launchpoint Service con un account manager - Marketo Docs - Documentazione del prodotto
 title: Aggiungere Google AdWords as a Launchpoint Service con un account Manager
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '359'
 ht-degree: 1%
 
 ---
 
 # Aggiungere Google AdWords as a Launchpoint Service con un account Manager {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall’interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di ricavo desideri monitorare) dopo aver  [aggiungere colonne personalizzate](https://support.google.com/adwords/answer/3073556){target=&quot;_blank&quot;} in AdWords. Queste informazioni non vengono visualizzate nell’interfaccia utente di Marketo.
+Collega il tuo account Google AdWords a Marketo per caricare automaticamente i dati di conversione offline da Marketo a Google AdWords. Quindi, dall’interfaccia utente di AdWords, potrai vedere facilmente quali clic hanno portato a lead qualificati, opportunità e nuovi clienti (o qualsiasi fase di ricavo desideri monitorare) dopo aver  [aggiungere colonne personalizzate](https://support.google.com/adwords/answer/3073556){target="_blank"} in AdWords. Queste informazioni non vengono visualizzate nell’interfaccia utente di Marketo.
 
-Se disponi di più account Google Adwords, puoi utilizzare un [Account Google AdWords Manager](https://www.google.com/adwords/manager-accounts/){target=&quot;_blank&quot;} (precedentemente noto come Centro client personale) per integrarli con Marketo.
+Se disponi di più account Google Adwords, puoi utilizzare un [Account Google AdWords Manager](https://www.google.com/adwords/manager-accounts/){target="_blank"} (precedentemente noto come Centro client personale) per integrarli con Marketo.
 
-Ulteriori informazioni [Funzione di importazione della conversione offline di Google](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
+Ulteriori informazioni [Funzione di importazione della conversione offline di Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
+>Non tutti i clienti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Ulteriori informazioni [Funzione di importazione della conversione offline di Go
 
 >[!NOTE]
 >
->È inoltre possibile integrare un [account Google AdWords autonomo come servizio Launchpoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target=&quot;_blank&quot;}.
+>È inoltre possibile integrare un [account Google AdWords autonomo come servizio Launchpoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. Vai a **Amministratore** sezione .
 
@@ -81,7 +81,7 @@ Ulteriori informazioni [Funzione di importazione della conversione offline di Go
 
    >[!NOTE]
    >
-   >[Assegnazione tag automatica](https://support.google.com/adwords/answer/1752125?hl=en)È necessario selezionare {target=&quot;_blank&quot;} per il funzionamento di questa funzionalità. Deve essere attivato in AdWords.
+   >[Assegnazione tag automatica](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} deve essere selezionato per il funzionamento di questa funzione. Deve essere attivato in AdWords.
 
 1. Fai clic su **Successivo**.
 
@@ -95,4 +95,4 @@ Ulteriori informazioni [Funzione di importazione della conversione offline di Go
 
    >[!MORELIKETHIS]
    >
-   >[Impostare le conversioni Google AdWords nel modello dei ricavi con un account manager](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target=&quot;_blank&quot;}
+   >[Impostare le conversioni Google AdWords nel modello dei ricavi con un account manager](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

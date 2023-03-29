@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importazione di risorse con Adobe Experience Manager - Documentazione Marketo - Documentazione del prodotto
 title: Importazione di risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
+>Non tutti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
 
 >[!PREREQUISITES]
 >

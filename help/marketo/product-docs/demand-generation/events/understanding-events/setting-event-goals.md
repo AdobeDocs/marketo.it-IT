@@ -4,9 +4,9 @@ title: Impostazione degli obiettivi dell’evento
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Dare agli eventi obiettivi specifici e vedere come si comportano.
 
 >[!IMPORTANT]
->Non tutti i clienti hanno accesso a questa funzione. Contatta il tuo Customer Success Manager per i dettagli.
+>
+>Non tutti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
 
 1. Crea un programma evento.
 

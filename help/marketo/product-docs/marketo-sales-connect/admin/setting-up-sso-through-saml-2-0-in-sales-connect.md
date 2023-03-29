@@ -3,9 +3,9 @@ unique-page-id: 14352405
 description: Impostazione di SSO tramite SAML 2.0 in Sales Connect - Marketo Docs - Documentazione del prodotto
 title: Impostazione di SSO tramite SAML 2.0 in Sales Connect
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Supportiamo SSO tramite la specifica SAML 2.0. Tuttavia, al momento non disponia
 
 >[!NOTE]
 >
->Questo è applicabile solo a **Marketo Sales Connect** clienti. Se non disponi di Sales Connect ma desideri saperne di più, contatta il tuo Customer Success Manager.
+>Questo è applicabile solo a **Marketo Sales Connect** utenti. Se non disponi di Sales Connect ma desideri saperne di più, contatta il team Adobe Account (il tuo Account Manager).
 
 ## Requisiti {#requirements}
 
