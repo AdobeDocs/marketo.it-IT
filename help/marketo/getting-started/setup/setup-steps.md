@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Passaggi di configurazione - Documentazione Marketo - Documentazione del prodotto
 title: Passaggi di configurazione
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
+source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
 workflow-type: tm+mt
-source-wordcount: '2085'
+source-wordcount: '2054'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Alcuni passaggi richiedono l&#39;aiuto del team IT.
 
 >[!TIP]
 >
->Se [stampa questa checklist](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}, puoi disattivare gli elementi durante il loro completamento.
+>Se [stampa questa checklist](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, puoi disattivare gli elementi quando li completi.
 
 ## Accedi e crea altri utenti Marketo {#log-in-and-create-additional-marketo-users}
 
-1. Accedere a Marketo [qui](https://app.marketo.com/){target=&quot;_blank&quot;} utilizzando le credenziali ricevute tramite e-mail.
+1. Accedere a Marketo [qui](https://app.marketo.com/){target="_blank"} utilizzando le credenziali ricevute tramite e-mail.
 
    ![](assets/setup-steps-1.png)
 
-Complimenti. Ora sei in Marketo e puoi iniziare ad esplorare. Potresti invitare i tuoi colleghi del team marketing a unirti a te. Per farlo, aggiungi nuovi utenti.
+Congratulazioni Ora sei in Marketo e puoi iniziare ad esplorare. Potresti invitare i tuoi colleghi del team marketing a unirti a te. Per farlo, aggiungi nuovi utenti.
 
 Vai a **Amministratore** area.
 
@@ -79,7 +79,7 @@ Seleziona un ruolo e fai clic su **Successivo**. Gli utenti standard possono acc
 
 >[!NOTE]
 >
->Oltre ai cinque ruoli incorporati, puoi anche creare ruoli personalizzati. Ulteriori informazioni [Gestione di ruoli e autorizzazioni utente](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target=&quot;_blank&quot;}.
+>Oltre ai cinque ruoli incorporati, puoi anche creare ruoli personalizzati. Ulteriori informazioni [Gestione di ruoli e autorizzazioni utente](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 Puoi modificare il testo dell’invito. Fai clic su **Invia**.
 
@@ -91,13 +91,13 @@ Il nuovo utente è ora elencato nella scheda Utenti e deve ricevere un messaggio
 
 ## Configurare i contatti di supporto autorizzati {#set-up-your-authorized-support-contacts}
 
-Potresti aver ricevuto un&#39;e-mail dall&#39;Assistenza clienti Marketo in cui si dichiara di essere l&#39;amministratore dell&#39;Assistenza clienti Marketo per la tua azienda. In tal caso, puoi configurare **contatti di supporto autorizzati** per la tua squadra. Solo i contatti di supporto autorizzati possono contattare direttamente l&#39;Assistenza clienti Marketo tramite [Portale di supporto Marketo](https://support.marketo.com){target=&quot;_blank&quot;}.
+Potresti aver ricevuto un&#39;e-mail dall&#39;Assistenza clienti Marketo in cui si dichiara di essere l&#39;amministratore dell&#39;Assistenza clienti Marketo per la tua azienda. In tal caso, puoi configurare **contatti di supporto autorizzati** per la tua squadra. Solo i contatti di supporto autorizzati possono contattare direttamente l&#39;Assistenza clienti Marketo tramite [Portale di supporto Marketo](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
 >Il numero di contatti di supporto che è possibile creare dipende dal pacchetto acquistato. Questo limite è specificato nell&#39;e-mail dal supporto Marketo.
 
-I documenti di contatto per il supporto autorizzato sono stati spostati nella community Marketo. Vedi [articolo](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}.
+I documenti di contatto per il supporto autorizzato sono stati spostati nella community Marketo. Vedi [articolo](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
@@ -125,19 +125,19 @@ Scegli un CNAME per le pagine di destinazione. Alcuni esempi:
 
 La prima parte (in grassetto) è `[LandingPageCNAME]`. Ne avrai bisogno nel passaggio 5.
 
-Per recuperare la stringa account da sostituire con il CNAME della pagina di destinazione, passa all’area Amministratore.
+Per recuperare l’ID Munchkin da sostituire con il CNAME della pagina di destinazione, passa all’area Amministratore.
 
 ![](assets/setup-steps-9.png)
 
-Fai clic su **Pagine di destinazione**.
+Fai clic su **Il mio account**.
 
 ![](assets/setup-steps-10.png)
 
-Copia la stringa account dalle impostazioni della pagina di destinazione.
+Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo Munchkin ID.
 
 ![](assets/setup-steps-11.png)
 
-Questa è la `[AccountString]`. Salvala. Sarà necessario assegnarlo all&#39;IT nel passaggio 5.
+Questa è la `[Munchkin ID]`. Salvala. Sarà necessario assegnarlo all&#39;IT nel passaggio 5.
 
 Configura le impostazioni del dominio in modo che le pagine di destinazione utilizzino il dominio della tua azienda invece che Marketo (in cui sono ospitate).
 
@@ -155,7 +155,7 @@ Puoi adottare diverse misure per garantire che le e-mail raggiungano il maggior 
 * **Imposta un record MX per il dominio.** Un record MX ti consente di ricevere la posta al dominio da cui invii l’e-mail per elaborare le risposte e rispondere automaticamente. Se invii dal dominio aziendale, probabilmente questo è già configurato. In caso contrario, in genere puoi impostare la mappatura sul record MX del dominio aziendale.
 * **Impostazioni consigliate per l&#39;indirizzo Da.** È necessario utilizzare un dominio e-mail valido, esistente e funzionante nell’indirizzo Da in tutte le campagne e-mail. Può essere utile configurare un sottodominio del dominio aziendale anziché inviare dal dominio aziendale. In questo modo i problemi del tuo flusso di posta aziendale non avranno alcun impatto sul tuo flusso di posta Marketo e viceversa. Inoltre, l&#39;invio di posta da `something@nonexistentdomain.com` causerà il filtraggio o il blocco delle e-mail. Qualsiasi dominio utilizzato nell&#39;indirizzo Da del mittente deve avere un account postmaster@ valido e funzionante e abusare di@.
 
-Se utilizzi Google Apps per ospitare l&#39;e-mail aziendale, non potrai creare e-mail abusive@ o postmaster@ sotto il tuo dominio. Per aggirare questo problema, è necessario creare gruppi denominati &quot;abuso&quot; e &quot;postmaster&quot;. Gli utenti che sono membri di questi gruppi riceveranno e-mail inviate a tali indirizzi (ad esempio, postmaster@domain.com). Istruzioni dettagliate per la creazione dei gruppi sono disponibili [qui](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
+Se utilizzi Google Apps per ospitare l&#39;e-mail aziendale, non potrai creare e-mail abusive@ o postmaster@ sotto il tuo dominio. Per aggirare questo problema, è necessario creare gruppi denominati &quot;abuso&quot; e &quot;postmaster&quot;. Gli utenti che sono membri di questi gruppi riceveranno e-mail inviate a tali indirizzi (ad esempio, postmaster@domain.com). Istruzioni dettagliate per la creazione dei gruppi sono disponibili [qui](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Scegli un CNAME per i collegamenti di tracciamento e-mail (scegli uno che sia _diverso_ dalla pagina di destinazione CNAME scelta al passaggio 3). Alcuni esempi:
 
@@ -207,13 +207,13 @@ Incolla questo testo nell’e-mail e sostituisci i segnaposto con grassetto:
 >
 >Per determinare il testo da sostituire ai segnaposto, vedere i passaggi 3 e 4 di cui sopra. Ricorda `[LandingPageCNAME]` e `[EmailTrackingCNAME]` deve essere diverso.
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Gentile amministratore IT,
 
 Il nostro team marketing sta ora utilizzando la piattaforma Marketo per comunicare con le nostre persone. Per garantire il recapito messaggi e-mail di livello elevato, è necessario apportare le seguenti modifiche:
 
-`1)` Per le pagine di destinazione, aggiungi una voce DNS (CNAME) per **[LandingPageCNAME]**.**[CompanyDomain]**.com, indicando **[AccountString]**.mktoweb.com.
+`1)` Per le pagine di destinazione, aggiungi una voce DNS (CNAME) per **[LandingPageCNAME]**.**[CompanyDomain]**.com, indicando **[ID Munchkin]**.mktoweb.com.
 
 `2)` Per i nostri collegamenti di tracciamento nelle e-mail, aggiungi una voce DNS (CNAME) per **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, indicando **[MktoTrackingLink]**.
 
@@ -276,7 +276,7 @@ Amore,
 
 **`[Your Name]`**
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Invia l&#39;e-mail all&#39;IT. Comprendiamo che può essere necessario un po&#39; di tempo per l&#39;IT per completare queste attività. Puoi continuare con il Passaggio 7, ma ricorda che devi tornare al Passaggio 6 per completare la configurazione di Marketo.
 
@@ -335,7 +335,7 @@ Scegli tra le seguenti opzioni, a seconda del CRM utilizzato dalla tua azienda.
 >
 >Sei un cliente di Launch Pack? Puoi saltare questo passaggio. Il tuo consulente ti fornirà le istruzioni di codice Munchkin nel documento sulle istruzioni di configurazione IT.
 
-Marketo dispone di JavaScript di tracciamento personalizzato (denominato Munchkin) che è possibile utilizzare per monitorare le attività delle persone su qualsiasi pagina web. Munchkin è necessario per integrare il tuo sito web in Marketo. Segui questi passaggi per [Aggiungi il codice di tracciamento Munchkin al tuo sito web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target=&quot;_blank&quot;}.
+Marketo dispone di JavaScript di tracciamento personalizzato (denominato Munchkin) che è possibile utilizzare per monitorare le attività delle persone su qualsiasi pagina web. Munchkin è necessario per integrare il tuo sito web in Marketo. Segui questi passaggi per [Aggiungi il codice di tracciamento Munchkin al tuo sito web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -343,6 +343,6 @@ Marketo dispone di JavaScript di tracciamento personalizzato (denominato Munchki
 
 ## Aspettative di performance {#performance-expectations}
 
-Cosa ci si può aspettare in termini di prestazioni da Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [Marketo Engage Descrizione del prodotto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. Le colonne &quot;Prestazioni&quot; e &quot;Prestazioni Plus&quot; fanno riferimento ai pacchetti dei livelli di prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
+Cosa ci si può aspettare in termini di prestazioni da Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [Marketo Engage Descrizione del prodotto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Tutti i tuoi passaggi di configurazione sono finiti. L&#39;unica cosa rimasta è tuffarsi e usare Marketo!
