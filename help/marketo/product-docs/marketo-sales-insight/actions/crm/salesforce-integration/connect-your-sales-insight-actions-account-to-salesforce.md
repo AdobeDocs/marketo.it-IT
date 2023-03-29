@@ -1,10 +1,8 @@
 ---
 description: Collega l'account delle azioni di Insight sulle vendite a Salesforce - Marketo Docs - Documentazione del prodotto
 title: Collega l'account delle azioni di Insight sulle vendite a Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
-source-git-commit: 238e2049ecb70c8fdc6d0d9c2fae8b7b99fcc17f
+source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -33,7 +31,7 @@ Segui questi semplici passaggi per collegare l&#39;account Sales Insight Actions
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, ti verrà chiesto di effettuare l’accesso.
+1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, ti verrà chiesto di effettuare l&#39;accesso.
 
 ## Come connettersi come non amministratore {#how-to-connect-as-a-non-admin}
 
@@ -51,4 +49,4 @@ Segui questi semplici passaggi per collegare l&#39;account Sales Insight Actions
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, ti verrà chiesto di effettuare l’accesso.
+1. Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, ti verrà chiesto di effettuare l&#39;accesso.
