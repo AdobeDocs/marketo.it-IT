@@ -2,9 +2,9 @@
 description: Limiti di utilizzo del prodotto - Documenti Marketo - Documentazione del prodotto
 title: Limiti di utilizzo del prodotto
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
+source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 14%
 
 ---
@@ -17,6 +17,11 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <th>Funzionalità</th>
   <th>Tariffa</th>
   <th>Limite</th>
+ <tr>
+  <td>Sincronizzazione del database Marketo Person</td>
+  <td>continuo</td>
+  <td>1.500.000 persone</td>
+ </tr>
  <tr>
   <td>Invio e-mail di vendita</td>
   <td>per utente/giorno</td>
