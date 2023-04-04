@@ -2,10 +2,10 @@
 description: Filtrare l’attività del bot e-mail - Documenti Marketo - Documentazione del prodotto
 title: Filtrare l’attività del bot e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 792db38ec0891d4a6de5a8d0bd746bd7bb429edb
+source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 3%
+source-wordcount: '470'
+ht-degree: 14%
 
 ---
 
@@ -27,6 +27,8 @@ In corrispondenza dell’attività di clic e apertura del collegamento e-mail, i
 * Le attività identificate come bot avranno &quot;Attività bot&quot; come &quot;True&quot; e &quot;Pattern attività bot&quot; come pattern/metodo identificato
 * Le attività identificate come non bot avranno &quot;Attività bot&quot; come &quot;False&quot; e &quot;Pattern attività bot&quot; come &quot;N/A&quot;
 * Le attività che sono successe prima dell’introduzione di questi attributi avranno &quot;Attività bot&quot; come &quot; (vuoto) e &quot;Pattern attività bot&quot; come &quot; (vuoto)
+
+## Seleziona tipo di filtro {#select-filter-type}
 
 1. Fai clic su **Amministratore**.
 
@@ -58,6 +60,57 @@ In corrispondenza dell’attività di clic e apertura del collegamento e-mail, i
 
 Abbiamo compilato un elenco di indirizzi IP responsabili della generazione di milioni di falsi impegni, in quanto tale coinvolgimento ricevuto da uno dei seguenti IP viene filtrato automaticamente e non aggiunto all’istanza di Marketo Engage. Questo può comportare una riduzione dell’apertura delle e-mail, dei clic e di altre attività correlate. L&#39;elenco che segue può essere aggiornato periodicamente.
 
+* 40.94.34.52
+* 40.94.34.86
+* 52.34.76.65
+* 54.70.53.60
+* 54.71.187.124
+* 60.28.2.248
+* 64.235.150.252
+* 64.235.153.10
+* 64.235.153.2
+* 64.235.154.105
+* 64.235.154.109
+* 64.235.154.140
+* 64.74.215.1
+* 64.74.215.100
+* 64.74.215.138
+* 64.74.215.139
+* 64.74.215.142
+* 64.74.215.146
+* 64.74.215.150
+* 64.74.215.154
+* 64.74.215.158
+* 64.74.215.162
+* 64.74.215.164
+* 64.74.215.166
+* 64.74.215.170
+* 64.74.215.174
+* 64.74.215.176
+* 64.74.215.178
+* 64.74.215.51
+* 64.74.215.56
+* 64.74.215.58
+* 64.74.215.59
+* 64.74.215.86
+* 64.74.215.98
+* 65.154.226.101
+* 66.249.91.149
+* 70.42.131.106
+* 74.125.217.116
+* 74.217.90.250
+* 104.129.41.4
+* 104.47.55.126
+* 104.47.58.126
+* 104.47.70.126
+* 104.47.73.126
+* 104.47.73.254
+* 104.47.74.126
+* 128.220.160.1
+* 155.70.39.101
+* 162.129.251.14
+* 162.129.251.42
+* 208.52.157.204
 * 209.222.82.126
 * 209.222.82.127
 * 209.222.82.128
