@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Informazioni sulle campagne avanzate - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle campagne intelligenti
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 Se Marketo è un&#39;auto potente, la campagna intelligente è davvero il motore. È semplice iniziare, ma può fare quasi tutto quello che gli viene chiesto.
 
-La campagna intelligente comprende 3 aree principali: La [Elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;} e [Pianificazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)Schede {target=&quot;_blank&quot;}.
+La campagna intelligente comprende 3 aree principali: La [Elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} schede.
 
 ## Elenco avanzato {#smart-list}
 
-L’elenco smart è il modo in cui definisci l’utente a cui rivolgerti con la campagna intelligente. Contiene filtri e attivatori.
+L’elenco avanzato è il modo in cui definisci _chi_ desideri eseguire il targeting con la tua campagna intelligente. Contiene filtri e attivatori.
 
 <table> 
  <tbody> 
@@ -54,8 +54,8 @@ C&#39;è un&#39;enorme quantità di cose che la campagna intelligente può fare.
 
 >[!CAUTION]
 >
->Se sposti una campagna avanzata da un programma a un altro e i passaggi di elenco o flusso della campagna fanno riferimento al programma originale, devi aggiornare manualmente le informazioni per riflettere il nuovo programma, in quanto lo faranno **not** aggiornamento automatico.
+>Se sposti una campagna avanzata da un programma a un altro e i passaggi di elenco o flusso della campagna fanno riferimento al programma originale, devi aggiornare manualmente le informazioni per riflettere il nuovo programma, in quanto lo saranno **not** aggiornamento automatico.
 
 >[!MORELIKETHIS]
 >
->[Creare una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
+>[Creare una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

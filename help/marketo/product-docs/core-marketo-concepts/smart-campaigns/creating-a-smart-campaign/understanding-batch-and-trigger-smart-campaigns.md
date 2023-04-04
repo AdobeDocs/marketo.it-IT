@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Campagne avanzate in batch e trigger - Documentazione di Marketo - Documentazione del prodotto
 title: Campagne avanzate in batch e trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Esistono due tipi di campagne intelligenti: Batch e Trigger.
 
 Le campagne smart in batch avranno solo filtri all’interno della sezione dell’elenco avanzato (ovvero, nessun trigger).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Fai clic sul pulsante **Pianificazione** La scheda confermerà che la campagna intelligente è impostata su &quot;Batch&quot;.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campagne avanzate in batch**
 
@@ -47,11 +47,11 @@ Fai clic sul pulsante **Pianificazione** La scheda confermerà che la campagna i
 
 Se una campagna intelligente utilizza almeno un trigger all’interno della sezione dell’elenco avanzato, la modalità verrà automaticamente impostata su attivata.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Fai clic sul pulsante **Pianificazione** La scheda conferma che la campagna intelligente è impostata su &quot;Attivato&quot;.
+Fai clic su **Pianificazione** La scheda conferma che la campagna intelligente è impostata su &quot;Attivato&quot;.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Attivazione di campagne avanzate**
 

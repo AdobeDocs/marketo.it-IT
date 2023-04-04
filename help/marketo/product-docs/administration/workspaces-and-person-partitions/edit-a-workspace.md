@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Modificare un’area di lavoro - Documentazione di Marketo - Documentazione del prodotto
 title: Modificare un’area di lavoro
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
 >
 >Eseguire il pennello sulle aree di lavoro con [Informazioni su aree di lavoro e partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Sotto **Amministratore**, fai clic su **Aree di lavoro e partizioni**.
+1. Vai a **Amministratore** area.
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. Fai clic su **Aree di lavoro e partizioni**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. Seleziona l’area di lavoro da modificare e fai clic su **Modifica area di lavoro**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. È possibile selezionare una partizione lead diversa e scegliere una partizione principale diversa dal menu a discesa.
 
@@ -36,7 +40,7 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
    >
    >È possibile [creare più partizioni di persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) se vi servono.
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ A volte è necessario apportare modifiche in un’area di lavoro. È facile.
 
    Se hai abilitato più domini con marchio, puoi passare a un dominio principale diverso. Fai clic su **Salva**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >
