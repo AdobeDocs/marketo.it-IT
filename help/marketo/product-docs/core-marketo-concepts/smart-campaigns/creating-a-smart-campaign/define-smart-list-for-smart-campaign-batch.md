@@ -3,36 +3,36 @@ unique-page-id: 1146940
 description: Definire un elenco avanzato per Smart Campaign | Batch - Documentazione Marketo - Documentazione del prodotto
 title: Definire un elenco avanzato per Smart Campaign | Batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
 # Definire un elenco avanzato per Smart Campaign | Batch {#define-smart-list-for-smart-campaign-batch}
 
-Gli elenchi avanzati sono il meccanismo utilizzato in Marketo per definire &quot;chi&quot; (quali persone) da includere, sia che si tratti di un rapporto, di un elenco o di una campagna intelligente. Ecco come definire un elenco smart per una campagna batch.
+Gli elenchi avanzati sono il meccanismo utilizzato in Marketo per definire &quot;chi&quot; (quali persone) includere, sia che si tratti di un rapporto, di un elenco o di una campagna avanzata. Ecco come definire un Smart List per una campagna batch.
 
-1. Scegli una campagna intelligente, quindi fai clic su **Elenco avanzato**.
+1. Scegli una campagna avanzata, quindi fai clic su **Elenco avanzato**.
 
-   ![](assets/campaignchoose-hand.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
-1. Digita per cercare un filtro, quindi trascinalo e rilascialo nell’area di lavoro. Ripeti l’operazione per più filtri.
+1. Digita per cercare un filtro e trascinalo nell’area di lavoro. Ripeti l’operazione per più filtri.
 
-   ![](assets/dragin.png)
-
-   >[!NOTE]
-   >
-   >Viene eseguita una campagna intelligente con solo filtri **Batch** modalità. Trova le persone nel database che si qualificano in base ai filtri e le esegue tutte in una sola volta nel flusso.
+   ![](assets/define-smart-list-for-smart-campaign-batch-2.png)
 
    >[!NOTE]
    >
-   >Puoi eseguire una campagna intelligente su una persona alla volta in base agli eventi live aggiungendo dei trigger, che inseriscono la campagna intelligente in **Trigger** modalità.
+   >Viene eseguita una campagna avanzata con solo i filtri **Batch** modalità. Trova le persone nel database che si qualificano in base ai filtri e le esegue tutte in una sola volta nel flusso.
+
+   >[!NOTE]
+   >
+   >Puoi eseguire una campagna avanzata su una persona alla volta in base agli eventi live aggiungendo dei trigger, che inseriscono la campagna avanzata in **Trigger** modalità.
 
 1. Fai clic sull’elenco a discesa e scegli un operatore di filtro per il filtro scelto.
 
-   ![](assets/programdropdown-hands.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-3.png)
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Gli elenchi avanzati sono il meccanismo utilizzato in Marketo per definire &quot
 
 1. Immetti il valore del filtro.
 
-   ![](assets/chooseprogram.png)
+   ![](assets/define-smart-list-for-smart-campaign-batch-4.png)
 
    >[!NOTE]
    >

@@ -3,28 +3,28 @@ unique-page-id: 1146942
 description: Definire un elenco avanzato per Smart Campaign | Trigger - Documentazione Marketo - Documentazione del prodotto
 title: Definire un elenco avanzato per Smart Campaign | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Definire un elenco avanzato per Smart Campaign | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
-Crea una campagna intelligente da eseguire su una persona alla volta in base agli eventi live aggiungendo trigger.
+Esegui una campagna avanzata su una persona alla volta in base agli eventi live aggiungendo trigger.
 
-1. Nella campagna intelligente, fai clic su **Elenco avanzato** scheda .
+1. Nella tua Smart Campaign, fai clic sul pulsante **Elenco avanzato** scheda .
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. Cerca il trigger, quindi trascina e rilascia il trigger nell’area di lavoro.
+1. Cerca il trigger desiderato e trascinalo nell’area di lavoro.
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
-   >Una campagna intelligente con trigger viene eseguita in **Trigger** modalità. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
+   >Viene eseguita una campagna avanzata con i trigger **Trigger** modalità. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
 
    >[!IMPORTANT]
    >
@@ -32,7 +32,7 @@ Crea una campagna intelligente da eseguire su una persona alla volta in base agl
 
 1. Fai clic sull’elenco a discesa e scegli un operatore .
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ Crea una campagna intelligente da eseguire su una persona alla volta in base agl
 
    >[!TIP]
    >
-   >In una campagna avanzata con trigger e filtri, i trigger si trovano nella parte superiore e, quando vengono attivati, solo le persone che soddisfano i criteri di filtro passano attraverso il flusso.
+   >In una Smart Campaign con trigger e filtri, i trigger si trovano nella parte superiore e, quando vengono attivati, solo le persone che soddisfano i criteri di filtro passano attraverso il flusso.
 
 1. Definisci il trigger.
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >
