@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Pulizia automatica della campagna di trigger - Documenti Marketo - Documentazione del prodotto
 title: Pulizia automatica della campagna di attivazione
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Una volta al trimestre, Marketo troverà campagne intelligenti che sono rimaste 
 
 Certo! Una volta al trimestre, riceverai una notifica con una settimana di anticipo che mostra ogni campagna che prevediamo di disattivare.
 
-1. Vai a **Notifiche** scheda .
+1. Fai clic sul pulsante **Notifiche** icona.
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Fai clic su **Pulizia campagna attivatore inattivo pianificata**. Quindi fai clic sul pulsante **Le campagne Idle Trigger verranno disattivate** link.
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    Verrà visualizzato un elenco delle campagne avanzate che saranno disattivate.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## Quali campagne verranno disattivate? {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Assolutamente: una settimana dopo la notifica originale, disattiveremo le campag
 
 1. Seleziona la **Pulizia campagna attivatore inattivo pianificata** notifica. Fai clic sul pulsante **Attivano le campagne inattive** link.
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. Viene visualizzato un elenco delle campagne disattivate.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)

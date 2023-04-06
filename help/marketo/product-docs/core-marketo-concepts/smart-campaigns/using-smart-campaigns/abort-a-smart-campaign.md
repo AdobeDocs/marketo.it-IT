@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Interrompere una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Interrompere una campagna avanzata
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -16,29 +16,29 @@ ht-degree: 0%
 >
 >Solo per uso di emergenza
 
-A volte si lancia una campagna intelligente e immediatamente si rende conto che è stato un errore. Ecco come tirare il freno di emergenza e fermare la campagna intelligente a metà corsa.
+A volte avvii una campagna avanzata e ti accorgi immediatamente che si è trattato di un errore. Ecco come tirare il freno di emergenza e fermare lo Smart Campaign a metà corsa.
 
-1. Sotto **Attività di marketing**, seleziona la campagna avanzata e vai alla pagina **Pianificazione** scheda .
+1. Scegli la Smart Campaign desiderata e fai clic sul pulsante **Pianificazione** scheda .
 
-   ![](assets/image2014-9-22-16-3a19-3a44.png)
+   ![](assets/abort-a-smart-campaign-1.png)
 
 1. Fai clic sul pulsante **Azioni campagna** a discesa. Seleziona **Interrompi campagna**.
 
-   ![](assets/image2014-9-22-16-19-48.png)
+   ![](assets/abort-a-smart-campaign-2.png)
 
 1. Fai clic su **Interrompere** per confermare.
 
-   ![](assets/image2014-9-22-16-3a19-3a57.png)
+   ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >L’interruzione non annulla i passaggi già completati, ma ne impedisce l’esecuzione. (Esempio: Le e-mail non possono essere annullate.)
+   >L’interruzione non annulla i passaggi già completati, ma ne interrompe altri (ad esempio: le e-mail non possono essere annullate).
 
-   ![](assets/image2014-9-22-16-3a20-3a0.png)
+   ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >
-   >Dai un&#39;occhiata al **Risultati** scheda della campagna intelligente per visualizzare le azioni eseguite prima dell’interruzione. Troverai anche un  [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
+   >Dai un&#39;occhiata al **Risultati** scheda della Smart Campaign per visualizzare le azioni eseguite prima dell’interruzione. Troverai anche un  [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con ulteriori dettagli.
 
    >[!TIP]
    >
