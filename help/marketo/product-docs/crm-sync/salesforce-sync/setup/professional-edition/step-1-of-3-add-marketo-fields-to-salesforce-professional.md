@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Professional) - Documenti Marketo - Documentazione del prodotto
 title: Passaggio 1 di 3 - Aggiungi campi Marketo a Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '782'
 ht-degree: 5%
 
 ---
@@ -178,19 +178,19 @@ Esegui i seguenti passaggi per ciascuno dei tre campi personalizzati per aggiung
    <td>Lunghezza 255</td> 
   </tr> 
   <tr> 
-   <td>Città in oggetto</td> 
+   <td>Città dedotta</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Testo</td> 
    <td>Lunghezza 255</td> 
   </tr> 
   <tr> 
-   <td>Azienda in oggetto</td> 
+   <td>Azienda dedotta</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Testo</td> 
    <td>Lunghezza 255</td> 
   </tr> 
   <tr> 
-   <td>Paese in oggetto</td> 
+   <td>Paese dedotto</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Testo</td> 
    <td>Lunghezza 255</td> 
@@ -251,13 +251,10 @@ Un campo personalizzato sull’oggetto lead di Salesforce deve essere mappato su
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Ripeti i passaggi precedenti per tutti gli altri campi creati.
+
 1. Al termine, fai clic su Salva .
 
 Abbastanza facile, vero?
-
->[!NOTE]
->
->Ecco un [video dell&#39;intero processo](https://nation.marketo.com/videos/1475) dovrebbe essere chiaro!
 
 >[!MORELIKETHIS]
 >
