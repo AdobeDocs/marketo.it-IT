@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: Configurare SPF e DKIM per la consegna delle e-mail - Documenti Marketo - Documentazione del prodotto
 title: Impostare SPF e DKIM per il recapito messaggi e-mail
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -46,12 +46,11 @@ Dopo aver impostato la chiave pubblica nel record DNS e aver attivato il dominio
 
 **Come si configura DKIM?**
 
-Fai riferimento a [Imposta una firma DKIM personalizzata](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+Fai riferimento a [Imposta una firma DKIM personalizzata](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Ulteriori informazioni su SPF e come funziona](http://www.open-spf.org/Introduction/)
->* [Strumenti di consegna e-mail Marketo](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [Il Mio SPF È Impostato Correttamente?](https://www.kitterman.com/spf/validate.html)
->* [Ho usato la sintassi giusta?](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [Ulteriori informazioni su SPF e come funziona](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [Il Mio SPF È Impostato Correttamente?](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [Ho usato la sintassi giusta?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
 
