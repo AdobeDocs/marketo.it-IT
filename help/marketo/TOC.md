@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 0%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 0%
             + [Aggiungere una lista di selezione per paese al modulo](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Aggiungere testo RTF a un modulo](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [Modificare le impostazioni internazionali di un modulo](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [Modificare la lingua dei messaggi di errore/convalida del modulo e il pulsante Invia](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [Modificare la lingua di un modulo](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [Configurare il profiling progressivo del modulo](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [Definire i valori in una casella di scelta o in un campo selezionato in un modulo](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [Eliminare un modulo](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
