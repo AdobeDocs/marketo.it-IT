@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Triggers e filtri per campagne avanzate mobili - Documenti Marketo - Documentazione del prodotto
 title: Triggers e filtri per campagne mobile avanzate
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -28,13 +28,13 @@ Sono disponibili solo filtri per questa attività:
 
 Cerca **app mobile** nel pannello di destra, elencare tutti i trigger e i filtri dell’app mobile.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Vincoli {#constraints}
 
 Utilizza i vincoli con i trigger e i filtri per ordinare ulteriormente i dati.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 Tutti i trigger e i filtri, a eccezione di Era stato inviato una notifica push, contengono i due vincoli standard seguenti:
 
@@ -70,7 +70,7 @@ Usa questo filtro per scoprire tutte le persone che hanno mai avuto la tua app i
 
 **Vincoli**: Tipo di dispositivo, Piattaforma, App mobile, Versione app mobile, Tipo di dispositivo, Origine di installazione, È abilitato tramite push e Impostazioni internazionali
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ L&#39;App Mobile È/Era Installata
 
 **Vincoli**: Tipo di dispositivo, piattaforma, versione app, lingua e origine di installazione
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 App mobile aperta
 
@@ -98,7 +98,7 @@ App mobile aperta
 
 **Vincoli**: Tipo di dispositivo e piattaforma
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Con/Avevano Attività App Mobile
 
@@ -138,7 +138,7 @@ I vincoli di azione ti consentono di utilizzare il trigger e i filtri per tenere
 
 Ecco come si presenta il filtro in Marketo:
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ Ecco come si presenta il filtro in Marketo:
 
 **Vincoli**: Tipo di dispositivo, piattaforma e lunghezza della sessione (secondi)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Notifiche push con tocco/a comparsa
 
@@ -175,7 +175,7 @@ Notifiche push con tocco/a comparsa
 
 **Vincoli**: Tipo di dispositivo, piattaforma, versione dell’app mobile, notifica push e versione della piattaforma
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ Notifiche push con tocco/a comparsa
 
 **Vincoli**: Notifiche push e app mobile
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
