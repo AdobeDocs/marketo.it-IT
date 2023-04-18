@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: Triggers e filtri per campagne avanzate mobili - Documenti Marketo - Documentazione del prodotto
 title: Triggers e filtri per campagne mobile avanzate
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Usa questo filtro per scoprire tutte le persone che hanno mai avuto la tua app i
 >
 >Il filtro trova le installazioni correnti e precedenti, in quanto Marketo non tiene traccia delle disinstallazioni dell’app.
 
-**Vincoli**: Tipo di dispositivo, Piattaforma, App mobile, Versione app mobile, Tipo di dispositivo, Origine di installazione, È abilitato tramite push e Impostazioni internazionali
+**Vincoli** - Tipo di dispositivo, Piattaforma, App mobile, Versione app mobile, Tipo di dispositivo, Origine di installazione, È abilitato tramite push e Impostazioni internazionali
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ L&#39;App Mobile È/Era Installata
 
 * NON è stata installata l&#39;app mobile - filtro di inattività
 
-**Vincoli**: Tipo di dispositivo, piattaforma, versione app, lingua e origine di installazione
+**Vincoli** - Tipo di dispositivo, piattaforma, versione app, lingua e origine di installazione
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ App mobile aperta
 
 * L&#39;app NON mobile è stata aperta - filtro di inattività
 
-**Vincoli**: Tipo di dispositivo e piattaforma
+**Vincoli** - Tipo di dispositivo e piattaforma
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ Queste forniscono un modo efficace per monitorare l’attività mobile personali
 
 * Attività app mobile non disponibile - filtro di inattività
 
-**Vincoli**: Tipo di dispositivo e piattaforma, più cinque ulteriori:
+**Vincoli** - Tipo di dispositivo, Piattaforma, Versione app mobile, Locale, Versione piattaforma, più cinque ulteriori:
 
 * Azione: attività mobile personalizzata
 
@@ -161,7 +161,7 @@ Ecco come si presenta il filtro in Marketo:
 
 * Sessione app mobile NOT - filtro di inattività
 
-**Vincoli**: Tipo di dispositivo, piattaforma e lunghezza della sessione (secondi)
+**Vincoli** - Tipo di dispositivo, piattaforma e lunghezza della sessione (secondi)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ Notifiche push con tocco/a comparsa
 
 * Notifica push non con tocco - Filtro di inattività
 
-**Vincoli**: Tipo di dispositivo, piattaforma, versione dell’app mobile, notifica push e versione della piattaforma
+**Vincoli** - Tipo di dispositivo, piattaforma, versione dell’app mobile, notifica push e versione della piattaforma
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ Notifiche push con tocco/a comparsa
 
 * NOTA INVIATA Notifica push - Filtro inattività
 
-**Vincoli**: Notifiche push e app mobile
+**Vincoli** - Notifica push e app mobile
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
