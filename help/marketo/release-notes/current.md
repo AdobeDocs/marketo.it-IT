@@ -2,16 +2,16 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3c4f24edeba54a5275ae876e228388cf975438fb
+source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '480'
 ht-degree: 7%
 
 ---
 
-# Note sulla versione: Marzo 2023 {#release-notes-mar-23}
+# Note sulla versione: Maggio 2023 {#release-notes-may-23}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione del 23 marzo. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
+Di seguito sono elencate tutte le funzioni incluse nella versione del 23 maggio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
 
 >[!AVAILABILITY]
 >
@@ -19,27 +19,13 @@ Di seguito sono elencate tutte le funzioni incluse nella versione del 23 marzo. 
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **31 marzo 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **19 maggio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
 
 ### UX moderno Marketo Engage {#modern-ux}
 
 </br>
 
-* **Miglioramento utilizzato dal componente per i dettagli dei modelli di pagina di destinazione e dei moduli**: La scheda Nuovo utilizzato dall’interfaccia utente fornisce informazioni aggiuntive nei dettagli dei modelli di pagina di destinazione e dei dettagli del modulo, con ulteriori dettagli sulle risorse che hanno utilizzato una risorsa selezionata. Esegui analisi su lunghi elenchi di risorse tramite le funzionalità di ricerca, ordinamento e filtro.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Rimuovere l’interruttore di attivazione e l’esperienza classica dalle pagine di destinazione**: La deprecazione dell’interruttore di attivazione e dell’esperienza classica per le pagine di destinazione ti aiuterà ad adottare completamente la nuova esperienza. La nuova esperienza consente un utilizzo completo delle funzionalità fornite con queste risorse senza dover fare affidamento sulla vecchia esperienza o dover passare costantemente da un’esperienza all’altra.
+* **Aggiornamenti di switch e rimozione esperienza classica per UX moderno**: Rimozione delle pagine dei dettagli per modelli e-mail, modelli di pagina di destinazione, Forms e snippet per garantire che l’esperienza moderna sia l’unica esperienza disponibile.
 
 <table> 
   <tr> 
@@ -53,7 +39,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-* **Miglioramenti delle prestazioni del nodo ad albero**: Coloro che dispongono di un numero elevato di nodi ad albero vedranno un significativo miglioramento delle prestazioni.
+* **Shell unificata**: Allinea Marketo Engage con Experience Cloud per creare un’esperienza di navigazione coerente tra più soluzioni di Experience Cloud in una singola sessione utente.
 
 <table> 
   <tr> 
@@ -67,11 +53,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-### Aggiornamenti dell’integrazione {#integration-updates}
-
-</br>
-
-* **Aggiornare l’integrazione Marketo Facebook per utilizzare l’aggiornamento API di Facebook Graph**: Con il recente aggiornamento di Facebook all’API Graph di Facebook v15, ora è possibile creare un limite di 500 tipi di pubblico personalizzati per un particolare account di annunci.
+* **Centro assistenza Marketo Engage**: Il Centro assistenza fornisce agli utenti del Marketo Engage una posizione centrale per trovare le risorse di aiuto all&#39;interno del prodotto. Inoltre, il Centro assistenza consente agli utenti di attivare guide all’interno del prodotto che spiegano come sfruttare le funzioni chiave.
 
 <table> 
   <tr> 
@@ -89,11 +71,33 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse date prima o dopo la data di rilascio standard. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
 
+### Orchestrazione tra canali {#cross-channel-orchestration}
+
+</br>
+
+* **Webinar interattivi (disponibilità limitata inizialmente)**:
+
+I webinar interattivi consentono di migliorare l’esperienza esistente Eventi e webinar fornendo un’esperienza nativa e senza soluzione di continuità agli esperti di marketing per creare, gestire e distribuire eventi all’interno del Marketo Engage. Personalizza i webinar in base al tipo di evento e aggiungi anche i relatori, se lo desideri. Ottieni informazioni approfondite sul coinvolgimento tramite funzioni di Adobe Connect quali sondaggi live, chat, sessioni di domande e risposte, clic su collegamenti web, download di documenti e altro ancora. Recupera la registrazione del webinar direttamente nel Marketo Engage e valutane le prestazioni attraverso metriche del dashboard avanzate.
+
+INFORMAZIONI DI ACCESSO PRESTO
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  </tbody>
+</table>
+
 ### Chat dinamica {#dynamic-chat}
 
 </br>
 
-* **Rapporto di coinvolgimento della finestra di dialogo per la chat dinamica**: Fornisce una visualizzazione del coinvolgimento della finestra di dialogo nel tempo, inclusa la possibilità di filtrare in base al tipo di visitatore e al tipo di coinvolgimento per fornire una migliore visibilità agli utenti.
+* **Attività Chat Dinamica Avanzata**: Le attività, i filtri e i trigger esistenti della chat dinamica vengono migliorati con attributi aggiuntivi e una convenzione di denominazione standard.
 
 <table> 
   <tr> 
@@ -107,7 +111,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
   </tbody>
 </table>
 
-* **Ruoli e autorizzazioni per la chat dinamica**: Introduce ruoli e autorizzazioni per la chat dinamica, consentendo agli amministratori di limitare la visibilità e l’utilizzo di aree diverse dell’app a tipi di utenti selezionati.
+* **Origine chat per Chat dinamica**: &quot;Chat&quot; è ora offerto come fonte di nuovi record e attività personali. Questa sorgente può essere utilizzata per aiutare gli utenti a filtrare le attività in Smart List/Campaigns. L&#39;origine può anche essere bloccata dagli aggiornamenti sui campi.
 
 <table> 
   <tr> 
@@ -115,64 +119,8 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Chat come canale di programma per chat dinamica**: Crea un nuovo canale del programma &quot;Chat&quot; per monitorare la progressione del programma per le persone acquisite da Dynamic Chat. Ad esempio, un addetto al marketing dispone di un programma associato a una finestra di dialogo chat dinamica per acquisire nuovi lead. Ora possono assegnare il programma al canale Chat in modo da poter tenere traccia di quando i lead sono membri del programma e quando hanno raggiunto il successo.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Attributi indiretti per la chat dinamica**: Assicura che i dati IP dedotti (città, stato, paese, ecc.) è scritto nel record della persona per le nuove persone acquisite da Dynamic Chat.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Supporto linguistico aggiuntivo per chat dinamica**: Ora puoi scegliere tra nove lingue supportate per visualizzare il contenuto statico di Chat dinamica in .
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Passa al nodo nell’anteprima di Stream Designer per la chat dinamica**: Passa direttamente a un nodo in Stream Designer dal pannello di anteprima.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td>Spedito</td>
-   <td>n/d</td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
