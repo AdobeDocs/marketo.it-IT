@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Modificare le regole di qualifica in una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Modificare le regole di qualifica in una campagna avanzata
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Le regole di qualificazione controllano quante volte qualcuno può eseguire il f
 
 1. Nella campagna intelligente, fai clic su **Pianificazione** e quindi **Modifica impostazioni**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ Le regole di qualificazione controllano quante volte qualcuno può eseguire il f
 
 1. Scegli la frequenza con cui eseguire le tue persone attraverso il flusso di campagne intelligenti: **una volta**, **ogni volta** oppure **una volta ogni # giorni**/**settimane**/**mesi**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
