@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: Escludere le restrizioni relative alle persone in una campagna avanzata - Documenti Marketo - Documentazione del prodotto
 title: Escludere le restrizioni relative alle persone in una campagna avanzata
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Marketo consente di impostare il numero massimo di persone idonee per una campag
 
 1. In Attività di marketing, accedi alla tua campagna intelligente e fai clic su **Pianificazione**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. In Impostazioni di Smart Campaign, fai clic su **Modifica**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Marketo consente di impostare il numero massimo di persone idonee per una campag
 
 1. Inserisci un nuovo limite e fai clic su **Salva.**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    La campagna intelligente non verrà eseguita se il numero di persone idonee supera il limite impostato.
 
