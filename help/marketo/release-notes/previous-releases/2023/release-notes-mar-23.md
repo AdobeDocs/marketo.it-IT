@@ -1,10 +1,11 @@
 ---
 description: Note sulla versione - Marzo 2023 - Marketo Docs - Documentazione del prodotto
 title: Note sulla versione - Marzo 2023
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 6%
+source-wordcount: '615'
+ht-degree: 5%
 
 ---
 
@@ -46,8 +47,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
@@ -60,8 +61,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
