@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
 workflow-type: tm+mt
-source-wordcount: '8866'
+source-wordcount: '8876'
 ht-degree: 0%
 
 ---
@@ -397,6 +397,9 @@ ht-degree: 0%
             + [Informazioni sui tag](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
             + [Utilizzare i tag in un programma](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
             + [Utilizzo dei costi del periodo in un programma](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+         + Libreria dei programmi {#program-library}
+            + [Panoramica della libreria di importazione del programma](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
+            + [Modello del programma di gestione del consenso](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md)
          + Rapporto sulle prestazioni del programma {#program-performance-report}
             + [Creare un rapporto sulle prestazioni del programma](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Aggiungi colonne di stato del programma a un rapporto del programma](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
