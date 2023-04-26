@@ -2,16 +2,16 @@
 description: Verifica e-mail - Documentazione Marketo - Documentazione del prodotto
 title: Verifica e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Verifica e-mail {#email-verification}
 
-Gli abbonamenti a Adobe Marketo Engage richiedono a tutti gli utenti non solo API, inclusi gli amministratori di Marketo Engage, di verificare il loro indirizzo e-mail. Gli utenti Single Sign-on (SSO), a cui non viene assegnato un ruolo Amministratore, avranno automaticamente la verifica della propria e-mail quando l’abbonamento viene abilitato con la funzione Verifica e-mail.
+Gli abbonamenti a Adobe Marketo Engage richiedono a tutti gli utenti non solo API, inclusi gli amministratori di Marketo Engage, di verificare il loro indirizzo e-mail. Gli utenti Single Sign-on (SSO) a cui non è assegnato un ruolo Amministratore o a cui viene assegnato un ruolo con l’autorizzazione &quot;Bypass SSO&quot; avranno automaticamente la verifica della propria e-mail quando l’abbonamento viene attivato con la funzione Verifica e-mail.
 
 **Invito utente**
 
