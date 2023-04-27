@@ -4,7 +4,7 @@ title: Flussi di lavoro degli eventi
 hide: true
 hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: f7cbb624337ecd4d5bebaf69edd0ed9605e84575
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -21,20 +21,18 @@ Il dashboard è costituito da 4 widget:
 
 1. Stato del programma dell&#39;evento:
 
-Il widget Stato programma evento evidenzia i vari stati del programma per quell&#39;evento e il numero di membri del programma che attualmente contengono tale valore di stato del programma.
+   Il widget Stato programma evento evidenzia i vari stati del programma per quell&#39;evento e il numero di membri del programma che attualmente contengono tale valore di stato del programma.
 
-2. Partecipazione:
+1. Partecipazione:
 
-Il widget di Partecipazione evidenzia la durata di presenza di vari membri che hanno partecipato al webinar rispetto alla durata complessiva del webinar in termini di percentuale.
+   Il widget di Partecipazione evidenzia la durata di presenza di vari membri che hanno partecipato al webinar rispetto alla durata complessiva del webinar in termini di percentuale.
 
-3. Prestazioni sondaggio:
+1. Prestazioni sondaggio:
 
-Il widget Performance del sondaggio evidenzia vari sondaggi lanciati durante il webinar in Adobe Connect e la distribuzione dei membri che hanno partecipato al sondaggio e hanno risposto al sondaggio in tutte le risposte.
+   Il widget Performance del sondaggio evidenzia vari sondaggi lanciati durante il webinar in Adobe Connect e la distribuzione dei membri che hanno partecipato al sondaggio e hanno risposto al sondaggio in tutte le risposte.
 
-4. Fai clic su e scarica attività:
+1. Fai clic su e scarica attività:
 
-L’attività Download di clic e file evidenzia il numero di download di file e weblinks selezionati durante il Webinar in Adobe Connect da vari membri che hanno partecipato al webinar e hanno eseguito quell’azione specifica.
-
-
+   L’attività Download di clic e file evidenzia il numero di download di file e weblinks selezionati durante il Webinar in Adobe Connect da vari membri che hanno partecipato al webinar e hanno eseguito quell’azione specifica.
 
 Filtrare e attivare su IW - &quot;Webinar&quot; in Smart List
