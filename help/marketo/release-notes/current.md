@@ -2,7 +2,7 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 7%
@@ -19,7 +19,7 @@ Di seguito sono elencate tutte le funzioni incluse nella versione del 23 maggio.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **19 maggio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **12 maggio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
 
 ### UX moderno Marketo Engage {#modern-ux}
 

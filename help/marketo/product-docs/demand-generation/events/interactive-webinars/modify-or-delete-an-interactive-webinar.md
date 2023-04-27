@@ -4,9 +4,9 @@ title: Modificare o eliminare un webinar interattivo
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Introduzione
 
 ## Modificare un webinar interattivo {#modify-an-interactive-webinar}
 
-1. Seleziona il webinar desiderato e fai clic su **Cambia stanza/modello**.
+1. Seleziona il programma eventi desiderato e fai clic su **Cambia stanza/modello**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
@@ -27,30 +27,38 @@ PICC
 
 ## Riprogrammazione di un webinar interattivo {#reschedule-an-interactive-webinar}
 
-1. Seleziona il webinar desiderato e fai clic su **Cambia stanza/modello**.
+1. Seleziona il Programma eventi desiderato e fai clic sull’icona a forma di matita accanto alla data/ora attualmente pianificata.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
-1. Testo
+1. Fai clic sull’icona del calendario, scegli la nuova data/ora e fai clic su **Salva**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
 ## Clona un webinar interattivo {#clone-an-interactive-webinar}
 
-1. Seleziona il webinar desiderato.
+1. Selezionare il programma eventi desiderato.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. Testo
+1. Fai clic sul menu a discesa Azioni programma e seleziona **Clona**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-9.png)
+
+   >[!TIP]
+   >
+   >È inoltre possibile fare clic con il pulsante destro del mouse sul programma evento nella struttura e selezionare **Clona** da lì.
 
 ## Eliminare un webinar interattivo {#delete-an-interactive-webinar}
 
-1. Fai clic con il pulsante destro del mouse sul webinar desiderato e seleziona **Elimina**.
+1. Selezionare il programma eventi desiderato.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
->[!NOTE]
->
->Testo
+1. Fai clic sul menu a discesa Azioni programma e seleziona **Elimina**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!TIP]
+   >
+   >È inoltre possibile fare clic con il pulsante destro del mouse sul programma evento nella struttura e selezionare **Elimina** da lì.
