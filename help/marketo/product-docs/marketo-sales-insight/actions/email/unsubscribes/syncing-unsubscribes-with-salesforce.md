@@ -2,7 +2,7 @@
 description: Sincronizzazione degli abbonamenti con Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione degli abbonamenti con Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Quando viene raccolto un annullamento dell’abbonamento in Marketo Sales, lo in
 
 **Annulla sincronizzazione**
 
-Dopo aver attivato la sincronizzazione dell’annullamento dell’abbonamento (passaggio 3 qui sotto) verrà attivata la sincronizzazione notturna. La sincronizzazione avviene una volta al giorno intorno alle 20:00 PST. Sincronizza bidirezionale tutti gli annullamenti di abbonamenti in MSE/ToutApp con il campo Opt Out in Salesforce.
+Dopo aver attivato la sincronizzazione dell’annullamento dell’abbonamento (passaggio 3 qui sotto) verrà attivata la sincronizzazione notturna. La sincronizzazione avviene una volta al giorno intorno alle 20:00 PST. Sincronizza bidirezionale tutti gli annullamenti di abbonamenti nelle vendite di Marketo con il campo Opt Out in Salesforce.
 
 ## Configurare Annulla sottoscrizione sincronizzazione con Salesforce {#configure-unsubscribe-sync-to-salesforce}
 
