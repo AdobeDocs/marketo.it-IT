@@ -4,16 +4,16 @@ title: Gestione di utenti e licenze
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Gestione di utenti e licenze {#user-and-license-management}
 
-Introduzione
+Scopri come aggiungere e rimuovere utenti e visualizzare le licenze correnti.
 
 ## Aggiungi un utente {#add-a-user}
 
