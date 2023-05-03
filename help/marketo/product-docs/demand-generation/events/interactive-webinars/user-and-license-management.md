@@ -4,7 +4,7 @@ title: Gestione di utenti e licenze
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Scopri come aggiungere e rimuovere utenti e visualizzare le licenze correnti.
 
 ## Utilizzo della licenza {#license-usage}
 
-I webinar interattivi offrono licenze specifiche per la creazione di eventi Adobe Connect. Ogni volta che viene aggiunta una licenza, viene visualizzata una nuova casella di utilizzo della licenza. Gli amministratori di Marketo possono visualizzare (non modificare) le licenze seguendo la procedura seguente. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per acquisire licenze aggiuntive.
+I webinar interattivi offrono licenze specifiche per la creazione di eventi Adobe Connect. Ogni volta che viene aggiunta una licenza, viene visualizzata una nuova casella di utilizzo della licenza. Gli amministratori di Marketo possono visualizzare (non modificare) le licenze seguendo i passaggi seguenti. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per acquisire licenze aggiuntive.
 
 1. Vai a **Amministratore** area.
 
@@ -107,4 +107,4 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi Adob
 
 * Ogni volta che un evento viene creato, viene conteggiato come &quot;consumato&quot; dalla rispettiva licenza (a meno che non si tratti di una Licenza di Stanza Condivisa). La preferenza verrà data a &quot;Licenza evento condivisa&quot; se sono presenti sia &quot;Licenza evento condiviso&quot; che &quot;Licenza stanza condivisa&quot; della stessa capacità. Se l’evento non è stato consegnato e il programma Evento viene eliminato prima dell’ora pianificata, il conteggio degli eventi viene ricompilato sottraendo un evento dagli eventi utilizzati.
 
-* Una volta esaurita la licenza, la relativa porzione rimane nella schermata Webinar interattivi nell’amministratore con gli eventi totali e gli eventi utilizzati con lo stesso valore. Solo alla scadenza della licenza verrà rimossa dalla schermata.
+* Una volta esaurita la licenza, la relativa porzione rimane nella schermata Webinar interattivi nella sezione Amministratore con &quot;Eventi totali&quot; e &quot;Eventi consumati&quot; con lo stesso valore. Solo alla scadenza della licenza verrà rimossa dalla schermata.

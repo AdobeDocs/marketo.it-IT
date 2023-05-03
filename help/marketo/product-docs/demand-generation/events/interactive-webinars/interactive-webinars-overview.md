@@ -4,16 +4,18 @@ title: Panoramica dei webinar interattivi
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
 # Panoramica dei webinar interattivi {#interactive-webinars-overview}
 
 Scopri di più sullo strumento di Marketo Engage nativo per la creazione di webinar VUOTI ed efficaci.
+
+Un webinar Adobe Connect è una conferenza online interattiva per più utenti. La stanza è uno spazio virtuale online persistente che si utilizza per condurre webinar. Include vari pannelli di visualizzazione (pod) e layout. Sono disponibili diversi layout predefiniti per sale riunioni, oppure è possibile creare e utilizzare layout personalizzati aggiuntivi in base alle proprie esigenze. La stanza consente ai partecipanti di condividere schermi o file del computer, chattare, trasmettere audio e video e partecipare ad attività interattive online.
 
 _Cosa sono i webinar interattivi_
 

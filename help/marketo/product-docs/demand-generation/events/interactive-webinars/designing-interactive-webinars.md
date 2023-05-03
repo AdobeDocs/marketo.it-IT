@@ -4,16 +4,16 @@ title: Progettazione di webinar interattivi
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
 
 # Progettazione di webinar interattivi {#designing-interactive-webinars}
 
-Introduzione
+Progetta il tuo webinar a tuo piacimento.
 
 1. Seleziona l’evento e fai clic su **Webinar Progettazione**.
 
@@ -25,7 +25,7 @@ Introduzione
 
    >[!NOTE]
    >
-   >Una stanza è uno spazio online che utilizzerai per condurre riunioni.
+   >Una stanza è uno spazio online utilizzato per condurre riunioni.
 
 1. Scegli un modello.
 
@@ -51,23 +51,16 @@ Introduzione
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Testo
+1. Per informazioni dettagliate su camere e modelli, controllare la sezione &quot;Modelli e layout delle sale riunioni&quot; di [articolo della guida di questo Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings??????
+1. Al termine della progettazione del webinar, fai clic su **Sala di uscita**.
 
+   ![](assets/designing-interactive-webinars-9.png)
 
-Sala: (hanno tratto questo dalla documentazione di Connect per essere precisi) Origine: https://helpx.adobe.com/in/adobe-connect/using/meeting-basics.html
+## Elementi di progettazione {#design-elements}
 
-Un webinar Adobe Connect è una conferenza online interattiva per più utenti. La stanza è uno spazio virtuale online persistente che si utilizza per condurre webinar. Include vari pannelli di visualizzazione (pod) e layout. Sono disponibili diversi layout predefiniti per sale riunioni, oppure è possibile creare e utilizzare layout personalizzati aggiuntivi in base alle proprie esigenze. La stanza consente ai partecipanti di condividere schermi o file del computer, chattare, trasmettere audio e video e partecipare ad attività interattive online.
+**Modello**: Modello è una struttura fornita a una stanza in base all&#39;obiettivo del webinar che viene consegnato. Ad esempio, se desideri pianificare un webinar relativo a una presentazione del prodotto, la condivisione dello schermo è un componente essenziale per mostrare la demo. Il modello assicura che i componenti essenziali necessari per una consegna efficace di un particolare tipo di webinar siano in atto durante la configurazione della stanza del webinar.
 
-Modello:
+**Layout**: Layout fa riferimento a diversi modi in cui i diversi componenti necessari per garantire il successo del webinar vengono disposti in un particolare modello. Un singolo modello può avere più layout tra cui scegliere. I componenti essenziali del webinar rimarranno gli stessi tra i vari modelli. La disposizione selezionata sarebbe più adatta allo stile/alle esigenze di voi o del presentatore che consegna il webinar.
 
-Modello è una struttura fornita a una stanza in base all&#39;obiettivo del webinar che viene consegnato nella stanza. Ad esempio, se un addetto al marketing desidera pianificare un webinar relativo alla presentazione di un prodotto, la condivisione dello schermo costituirà un componente essenziale per mostrare la demo in base al caso specifico. Il modello assicura che i componenti essenziali necessari per una consegna efficace di un particolare tipo di webinar siano in atto durante la configurazione della stanza del webinar.
-
-Layout:
-
-Layout fa riferimento a diversi modi in cui più componenti necessari per garantire il successo del webinar vengono disposti in un particolare modello. Un singolo modello può avere più layout tra cui scegliere l’addetto al marketing. I componenti essenziali del webinar rimarranno gli stessi nei vari modelli. La disposizione selezionata dall&#39;addetto al marketing sarebbe più adatta alle esigenze e allo stile dell&#39;addetto al marketing o del presentatore che distribuisce il webinar.
-
-Pod:
-
-Il contenitore si riferisce a un componente all’interno di un modello che consente di eseguire una particolare attività durante il webinar. Ad esempio, l’impostazione e la distribuzione di un sondaggio per acquisire le risposte dei partecipanti in un’attività che può essere soddisfatta da un poll pod. Allo stesso modo, chattare con i partecipanti per trasmettere un messaggio o interagire casualmente con loro può essere un&#39;attività effettuata attraverso il pod chat. In Connect sono disponibili più altri pod come Condividi, Note, Video, Chat, Elenco partecipanti, File, Collegamenti web, Sondaggi e domande e risposte.
+**Pod**: Il contenitore si riferisce a un componente all’interno di un modello che esegue una particolare attività durante il webinar. Ad esempio, l’impostazione e la distribuzione di un sondaggio per acquisire le risposte dei partecipanti in un’attività che può essere soddisfatta da un poll pod. Allo stesso modo, chattare con i partecipanti per trasmettere un messaggio o interagire casualmente con loro può essere un&#39;attività effettuata attraverso il pod chat. Sono disponibili più altri pod, come Condividi, Note, Video, Chat, Elenco partecipanti, File, Collegamenti web, Sondaggi e Domande e Risposte.

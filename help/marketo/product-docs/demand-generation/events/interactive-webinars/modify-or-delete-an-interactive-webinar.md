@@ -4,9 +4,9 @@ title: Modificare o eliminare un webinar interattivo
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ Scopri come apportare modifiche al Webinar interattivo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Testo
+1. La stanza si caricherà. Se si desidera modificare la stanza, selezionarne una dal menu a discesa Stanze. Per aggiornare il modello, fai clic su **Sala d&#39;uso**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-?? per Nilesh - è normale non essere portati nella stanza in cui si trova il Webinar? In caso negativo, qual è la migliore pratica?
+>[!NOTE]
+>
+>La sostituzione della stanza è facoltativa e non è necessaria per aggiornare il modello.
+
+1. Fai clic su **Migliora il tuo webinar ora**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Seleziona le preferenze audio/video e fai clic su **Sala**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. Dopo aver apportato le modifiche, fai clic su **Sala di uscita**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Riprogrammazione di un webinar interattivo {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. Fai clic su **Successivo**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >Al momento è possibile salvare un Webinar interattivo clonato solo come Webinar interattivo. Salvataggio di un webinar clonato come Webinar partner (ad esempio, Zoom, ON24, ecc.) sarà disponibile a breve.
 
 1. Scegli le impostazioni per il webinar clonato e fai clic su **Clona**.
 
