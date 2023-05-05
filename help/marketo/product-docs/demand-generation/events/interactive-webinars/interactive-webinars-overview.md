@@ -4,9 +4,9 @@ title: Panoramica dei webinar interattivi
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,57 @@ Rispondi.
 **Domanda?**
 
 Rispondi.
+
+I webinar interattivi sono la funzionalità più recente di Adobe Marketo Engage che fornisce agli addetti al marketing una soluzione one-stop per tutte le esigenze di marketing relative agli eventi. Gli addetti al marketing possono creare, pianificare, promuovere e distribuire webinar in Marketo senza dover utilizzare strumenti aggiuntivi.
+
+Con i programmi evento basati su punti di Launch, gli addetti al marketing devono affrontare le seguenti sfide:
+
+1. Creazione di un evento nello strumento del provider del webinar e successivo collegamento al programma evento basato su Launch in Marketo.
+
+1. Utilizzo di più strumenti come il provider di webinar, middleware per il trasferimento di dati e strumento BI per l&#39;analisi degli eventi.
+
+1. Sono necessarie più autenticazioni per garantire che vengano eseguite le attività di marketing relative agli eventi.
+
+1. I dati di registrazione potrebbero non essere trasferiti in tempo al provider del webinar.
+
+1. La connessione scende tra i provider di Marketo Engage e Webinar.
+
+1. Mancanza di dati sulle prestazioni degli eventi potenziati dopo il webinar.
+
+1. È necessario creare oggetti personalizzati per memorizzare dati di webinar aggiuntivi, se necessario. Gli oggetti personalizzati limitati erano un grande punto dolente.
+
+1. Attività, filtri e trigger mancanti per eseguire attività di sviluppo personalizzate e sofisticate attività di sviluppo dei lead.
+
+1. Nessuna visualizzazione per determinare le prestazioni e il ROI dell&#39;evento.
+
+Alcuni dei vantaggi dei webinar interattivi sono:
+
+1. Maggiore produttività grazie a una soluzione all-in-one Event Marketing (singolo strumento).
+
+1. Costi di esercizio ridotti (strumento singolo)
+
+1. Problemi ridotti di autenticazione multipla.
+
+1. Flussi di lavoro semplificati per la creazione e la distribuzione di eventi.
+
+1. Flessibilità nella riprogrammazione degli eventi.
+
+1. Trasferimento di informazioni senza soluzione di continuità tra il provider di webinar (Adobe Connect) e la piattaforma di automazione marketing (Marketo Engage)
+
+1. Approfondimenti avanzati disponibili dopo il webinar per il targeting personalizzato e il punteggio massimo sofisticato.
+
+1. Dashboard dei dettagli per informazioni approfondite sulle prestazioni degli eventi.
+
+Di seguito sono riportate le funzionalità dei webinar interattivi:
+
+1. Gestione degli eventi end-to-end: Creazione di eventi, pianificazione, promozione, consegna, registrazioni in un&#39;unica posizione.
+
+1. Gestione utente: L’amministratore può scegliere quali utenti di Marketo possono creare webinar interattivi.
+
+1. Gestione licenze: L’amministratore può visualizzare le licenze disponibili e regolare la creazione del webinar.
+
+1. Interfaccia di connessione personalizzata: Collega modelli e layout in base alle esigenze degli esperti di marketing.
+
+1. Segmentazione post-evento: Filtri e attivatori speciali per gli elenchi avanzati per la segmentazione dei lead.
+
+1. Analisi delle prestazioni degli eventi: Report speciali e dashboard per dati di coinvolgimento lead e aggregati.
