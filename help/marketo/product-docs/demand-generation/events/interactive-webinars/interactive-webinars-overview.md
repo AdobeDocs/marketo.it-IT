@@ -4,93 +4,51 @@ title: Panoramica dei webinar interattivi
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
+source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
 # Panoramica dei webinar interattivi {#interactive-webinars-overview}
 
-Scopri di più sullo strumento di Marketo Engage nativo per la creazione di webinar VUOTI ed efficaci.
+La funzione Webinar interattivo consente di creare, pianificare, promuovere e distribuire webinar in Marketo Engage senza dover utilizzare strumenti o integrazioni aggiuntivi.
 
-Un webinar Adobe Connect è una conferenza online interattiva per più utenti. La stanza è uno spazio virtuale online persistente che si utilizza per condurre webinar. Include vari pannelli di visualizzazione (pod) e layout. Sono disponibili diversi layout predefiniti per sale riunioni, oppure è possibile creare e utilizzare layout personalizzati aggiuntivi in base alle proprie esigenze. La stanza consente ai partecipanti di condividere schermi o file del computer, chattare, trasmettere audio e video e partecipare ad attività interattive online.
+## Che cosa sono i webinar interattivi? {#what-is-interactive-webinars}
 
-_Cosa sono i webinar interattivi_
+Webinar interattivi è una conferenza online interattiva disponibile per più utenti. Quando [creare un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, sono disponibili diversi layout predefiniti per sale riunioni, personalizzabili. Puoi anche creare e utilizzare layout personalizzati aggiuntivi. I partecipanti possono condividere schermi/file di computer, chattare tra loro, trasmettere audio e video e partecipare ad attività online interattive.
 
-Integrato in modo nativo con la proposta di valore di Adobe Connect - come è diverso da altri Aggiungi il video anche in questa sezione
+Offerte di webinar interattivi [tre licenze diverse](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, ciascuna con varie funzioni e capacità.
 
-_Comprendere il provisioning e l’utilizzo della licenza_
-
-Vari tipi di licenze
-
-A un certo punto, quando le persone possono acquistare, possiamo anche informare su come possono entrare in contatto con l&#39;Adobe per acquistare di più
-
-_Comprensione del flusso di dati (utile per aggiungere un diagramma)_
-
-I dati di registrazione scorrono automaticamente da Marketo Connect (cosa, quando e come) I dati dell&#39;evento vengono inviati automaticamente da Connect a Marketo (quali dati e il loro significato, quando e come) Ciclo di vita dello stato membro del programma (Invitato -> Registrato -> Partecipato / No-show)
+Dopo il webinar, accedi [analisi delle prestazioni degli eventi](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} tramite report e dashboard contenenti dati di coinvolgimento lead e aggregati. I filtri e gli attivatori specifici per i webinar interattivi consentono di trovare gruppi specifici di persone che hanno eseguito azioni specifiche (ad esempio, clic su un collegamento, download di una risorsa e altro).
 
 ## Domande frequenti {#faq}
 
-**Domanda?**
+**È necessaria una licenza Adobe Connect separata per utilizzare i webinar interattivi?**
 
-Rispondi.
+No. Per utilizzare i webinar interattivi è richiesta solo una sottoscrizione attiva al Marketo Engage.
 
-**Domanda?**
+**Quali sono le diverse licenze per i webinar interattivi?**
 
-Rispondi.
+I webinar interattivi hanno tre tipi di licenze.
 
-I webinar interattivi sono la funzionalità più recente di Adobe Marketo Engage che fornisce agli addetti al marketing una soluzione one-stop per tutte le esigenze di marketing relative agli eventi. Gli addetti al marketing possono creare, pianificare, promuovere e distribuire webinar in Marketo senza dover utilizzare strumenti aggiuntivi.
+`1.` Shared Events License - Questa licenza è disponibile in diverse capacità dei partecipanti: 500, 1000 e 1500. Contiene un numero limitato di webinar che possono essere utilizzati e 3 GB di spazio di archiviazione.
 
-Con i programmi evento basati su punti di Launch, gli addetti al marketing devono affrontare le seguenti sfide:
+`2.` Licenza condivisa delle camere - Questa licenza è disponibile in diverse capacità dei partecipanti: 200, 500, 1000 e 1500. Contiene un numero illimitato di webinar che possono essere utilizzati e spazio di archiviazione illimitato.
 
-1. Creazione di un evento nello strumento del provider del webinar e successivo collegamento al programma evento basato su Launch in Marketo.
+`3.` Licenza di archiviazione aggiuntiva: questa licenza contiene memoria aggiuntiva (100 GB o 1 TB) utilizzabile in più licenze di eventi condivisi in cui è stato superato il limite di archiviazione.
 
-1. Utilizzo di più strumenti come il provider di webinar, middleware per il trasferimento di dati e strumento BI per l&#39;analisi degli eventi.
+È possibile acquisire qualsiasi combinazione di queste licenze.
 
-1. Sono necessarie più autenticazioni per garantire che vengano eseguite le attività di marketing relative agli eventi.
+**Ho esaurito il mio numero di webinar interattivi. Come si ottengono più sessioni, o più capacità?**
 
-1. I dati di registrazione potrebbero non essere trasferiti in tempo al provider del webinar.
+Contatta il team dell&#39;account Adobe (il tuo Account Manager) per assistenza.
 
-1. La connessione scende tra i provider di Marketo Engage e Webinar.
+**In qualità di amministratore di Marketo, posso controllare quali dei miei utenti Marketo possono creare webinar interattivi?**
 
-1. Mancanza di dati sulle prestazioni degli eventi potenziati dopo il webinar.
+Sì, puoi controllare quali utenti Marketo ottengono l’autorizzazione per creare e distribuire webinar interattivi. È possibile accedervi tramite la sezione Webinar interattivi nell’area Amministratore dell’istanza Adobe Marketo Engage.
 
-1. È necessario creare oggetti personalizzati per memorizzare dati di webinar aggiuntivi, se necessario. Gli oggetti personalizzati limitati erano un grande punto dolente.
+**È necessario associare nuovamente il webinar Adobe Connect al programma di eventi del webinar interattivo come con i programmi evento di Launch?**
 
-1. Attività, filtri e trigger mancanti per eseguire attività di sviluppo personalizzate e sofisticate attività di sviluppo dei lead.
-
-1. Nessuna visualizzazione per determinare le prestazioni e il ROI dell&#39;evento.
-
-Alcuni dei vantaggi dei webinar interattivi sono:
-
-1. Maggiore produttività grazie a una soluzione all-in-one Event Marketing (singolo strumento).
-
-1. Costi di esercizio ridotti (strumento singolo)
-
-1. Problemi ridotti di autenticazione multipla.
-
-1. Flussi di lavoro semplificati per la creazione e la distribuzione di eventi.
-
-1. Flessibilità nella riprogrammazione degli eventi.
-
-1. Trasferimento di informazioni senza soluzione di continuità tra il provider di webinar (Adobe Connect) e la piattaforma di automazione marketing (Marketo Engage)
-
-1. Approfondimenti avanzati disponibili dopo il webinar per il targeting personalizzato e il punteggio massimo sofisticato.
-
-1. Dashboard dei dettagli per informazioni approfondite sulle prestazioni degli eventi.
-
-Di seguito sono riportate le funzionalità dei webinar interattivi:
-
-1. Gestione degli eventi end-to-end: Creazione di eventi, pianificazione, promozione, consegna, registrazioni in un&#39;unica posizione.
-
-1. Gestione utente: L’amministratore può scegliere quali utenti di Marketo possono creare webinar interattivi.
-
-1. Gestione licenze: L’amministratore può visualizzare le licenze disponibili e regolare la creazione del webinar.
-
-1. Interfaccia di connessione personalizzata: Collega modelli e layout in base alle esigenze degli esperti di marketing.
-
-1. Segmentazione post-evento: Filtri e attivatori speciali per gli elenchi avanzati per la segmentazione dei lead.
-
-1. Analisi delle prestazioni degli eventi: Report speciali e dashboard per dati di coinvolgimento lead e aggregati.
+No, i programmi evento webinar interattivi creano l’associazione per te.
