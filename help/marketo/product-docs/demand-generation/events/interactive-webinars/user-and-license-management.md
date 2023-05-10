@@ -4,7 +4,7 @@ title: Gestione di utenti e licenze
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Scopri come aggiungere e rimuovere utenti e visualizzare le licenze correnti.
 
 ## Utilizzo della licenza {#license-usage}
 
-I webinar interattivi offrono licenze specifiche per la creazione di eventi Adobe Connect. Ogni volta che viene aggiunta una licenza, viene visualizzata una nuova casella di utilizzo della licenza. Gli amministratori di Marketo possono visualizzare (non modificare) le licenze seguendo i passaggi seguenti. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per acquisire licenze aggiuntive.
+I webinar interattivi offrono licenze specifiche per la creazione di eventi Adobe Connect. Ogni volta che viene aggiunta una licenza, viene visualizzata una nuova casella di utilizzo della licenza. Gli amministratori di Marketo possono visualizzare (non modificare) le licenze seguendo i passaggi seguenti. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per ottenere licenze aggiuntive.
 
 1. Vai a **Amministratore** area.
 

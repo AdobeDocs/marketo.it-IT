@@ -4,9 +4,9 @@ title: Progettazione di webinar interattivi
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Scopri come progettare il tuo webinar in base alle tue esigenze.
 
-1. Seleziona l’evento e fai clic su **Webinar Progettazione**.
+1. Seleziona l’evento e fai clic su **Progettazione del webinar**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -59,8 +59,8 @@ Scopri come progettare il tuo webinar in base alle tue esigenze.
 
 ## Elementi di progettazione {#design-elements}
 
-**Modello**: Modello è una struttura fornita a una stanza in base all&#39;obiettivo del webinar che viene consegnato. Ad esempio, se desideri pianificare un webinar relativo a una presentazione del prodotto, la condivisione dello schermo è un componente essenziale per mostrare la demo. Il modello assicura che i componenti essenziali necessari per una consegna efficace di un particolare tipo di webinar siano in atto durante la configurazione della stanza del webinar.
+**Modello**: Struttura fornita a una stanza in base all&#39;obiettivo del webinar che viene consegnato. Ad esempio, se desideri pianificare un webinar relativo a una presentazione del prodotto, la condivisione dello schermo è un componente essenziale per mostrare la demo. Il modello assicura che i componenti essenziali necessari per una consegna efficace di un particolare tipo di webinar siano in atto durante la configurazione della stanza del webinar.
 
-**Layout**: Layout fa riferimento a diversi modi in cui i diversi componenti necessari per garantire il successo del webinar vengono disposti in un particolare modello. Un singolo modello può avere più layout tra cui scegliere. I componenti essenziali del webinar rimarranno gli stessi tra i vari modelli. La disposizione selezionata sarebbe più adatta allo stile/alle esigenze di voi o del presentatore che consegna il webinar.
+**Layout**: Si riferisce a diversi modi in cui i diversi componenti necessari per garantire il successo del webinar sono disposti in un particolare modello. Un singolo modello può avere più layout tra cui scegliere. I componenti essenziali del webinar rimarranno gli stessi tra i vari modelli. La disposizione selezionata sarebbe più adatta allo stile/alle esigenze di voi o del presentatore che consegna il webinar.
 
-**Pod**: Il contenitore si riferisce a un componente all’interno di un modello che esegue una particolare attività durante il webinar. Ad esempio, l’impostazione e la distribuzione di un sondaggio per acquisire le risposte dei partecipanti in un’attività che può essere soddisfatta da un poll pod. Allo stesso modo, chattare con i partecipanti per trasmettere un messaggio o interagire casualmente con loro può essere un&#39;attività effettuata attraverso il pod chat. Sono disponibili più altri pod, come Condividi, Note, Video, Chat, Elenco partecipanti, File, Collegamenti web, Sondaggi e Domande e Risposte.
+**Pod**: Un componente all’interno di un modello che esegue una particolare attività durante il webinar. Ad esempio, l’impostazione e la distribuzione di un sondaggio per acquisire le risposte dei partecipanti in un’attività che può essere soddisfatta da un poll pod. Allo stesso modo, chattare con i partecipanti per trasmettere un messaggio o interagire casualmente con loro può essere un&#39;attività effettuata attraverso il pod chat. Sono disponibili più altri pod, come Condividi, Note, Video, Chat, Elenco partecipanti, File, Collegamenti web, Sondaggi e Domande e Risposte.
