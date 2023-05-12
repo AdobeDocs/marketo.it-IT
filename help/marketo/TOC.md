@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '8884'
+source-wordcount: '8886'
 ht-degree: 0%
 
 ---
@@ -239,7 +239,7 @@ ht-degree: 0%
       + [Configurare la mappatura dell&#39;organizzazione Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizzazione di un pubblico da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importazione di risorse con Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Panoramica della shell unificata](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
+      + [Panoramica dell’interfaccia Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Concetti Marketo di base {#core-marketo-concepts}
       + Campagne intelligenti {#smart-campaigns}
          + [Informazioni sulle campagne intelligenti](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)

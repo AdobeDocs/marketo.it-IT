@@ -2,10 +2,10 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '413'
+ht-degree: 6%
 
 ---
 
@@ -25,21 +25,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Aggiornamenti di switch e rimozione esperienza classica per UX moderno**: Rimozione delle pagine dei dettagli per modelli e-mail, modelli di pagina di destinazione, Forms e snippet per garantire che l’esperienza moderna sia l’unica esperienza disponibile.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Shell unificata**: Allinea Marketo Engage con Experience Cloud per creare un’esperienza di navigazione coerente tra più soluzioni di Experience Cloud in una singola sessione utente.
+* **Interfaccia Adobe Experience Cloud**: Allinea Marketo Engage con Experience Cloud per creare un’esperienza di navigazione coerente tra più soluzioni di Experience Cloud in una singola sessione utente.
 
 <table> 
   <tr> 

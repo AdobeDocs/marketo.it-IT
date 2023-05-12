@@ -2,9 +2,9 @@
 description: Note sulla versione - Agosto 2021 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Agosto 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,8 @@ Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciat
 
 ![](assets/yellow-star.png)
 
-* **Integrazione Bizible LinkedIn Lead Gen Forms**: Gli addetti al marketing possono ora eseguire l’attribuzione dei ricavi sulle conversioni che si verificano quando LinkedIn acquisisce i moduli compilati tramite le unità pubblicitarie Forms lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni del modulo e gli investimenti sui mezzi a pagamento. linkedIn Lead Gen Forms è una delle offerte a pagamento di LinkedIn in più rapida crescita e questa nuova funzionalità è inclusa nell’integrazione di LinkedIn Ads con Bizible.   
+* **Integrazione Bizible LinkedIn Lead Gen Forms**: Gli addetti al marketing possono ora eseguire l’attribuzione dei ricavi sulle conversioni che si verificano quando LinkedIn acquisisce i moduli compilati tramite le unità pubblicitarie Forms lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni del modulo e gli investimenti sui mezzi a pagamento. linkedIn Lead Gen Forms è una delle offerte di supporti a pagamento a più rapida crescita di LinkedIn e questa nuova funzionalità è inclusa nella nostra integrazione di LinkedIn Ads con Bizible.
+
 * **Dashboard di Velocity migliorato**: Abbiamo aggiunto una nuova metrica di velocità e un filtro del dashboard per approfondimenti più approfonditi. Questo dashboard viene utilizzato dagli esperti di marketing per comprendere la velocità di lead e opportunità, in base allo stadio, e l’efficienza delle diverse forme di coinvolgimento nel marketing e nelle vendite.
 
 * **Nuovo dashboard Percorso Cascata coorte**: Questo consente agli esperti di marketing di visualizzare la progressione di una coorte selezionata attraverso un set classico di fasi &quot;cascata della domanda&quot;, fornendo una rapida comprensione dei tassi di conversione e della causalità della conversione implicita per fase su base graduale.
@@ -74,7 +75,7 @@ Questa sezione include nuove funzioni per gli utenti Bizible che hanno completat
 
 * **Integrazione Bizible con Adobe Privacy Service** (disponibile a settembre 2021): L’integrazione di Bizible con Adobe Privacy Service centralizza la conformità alle normative fondamentali sulla privacy dei dati (come il RGPD) nelle applicazioni Adobe Experience Cloud. Ora puoi sfruttare questo servizio e gestire centralmente tutte le richieste di privacy in modo che le richieste di modifica provenienti da Bizible e da altri prodotti Adobe si riflettano tra le applicazioni.
 
-* **Bizible su Adobe Unified Shell**: L’adozione di Adobe Unified Shell da parte di Bizible offre agli utenti nuove funzionalità che verranno visualizzate nella barra di intestazione dell’applicazione Bizible e includono un migliore accesso alle risorse di supporto e al passaggio alle applicazioni. La shell unificata di Adobe consente di creare un’esperienza coerente tra Bizible e altre applicazioni Adobe Experience Cloud.
+* **Bizible sull&#39;interfaccia Adobe Experience Cloud**: L&#39;adozione di Adobe Experience Cloud Interface da parte di Bizible offre agli utenti nuove funzionalità che appariranno nella barra di intestazione dell&#39;applicazione Bizible e includono un migliore accesso alle risorse di supporto e al cambio di applicazione. L’interfaccia Experience Cloud consente di creare un’esperienza coerente tra Bizible e altre applicazioni Adobe Experience Cloud.
 
 * **Proprietà e gestione autonoma del dominio Bizible**: Gli utenti Bizible possono utilizzare Adobe Admin Console per gestire i domini che desiderano che Bizible tenga traccia. Questo consente di eseguire il self-service in un processo manuale precedente e fornisce un’esperienza coerente nella gestione della proprietà e del tracciamento dei domini nelle applicazioni Adobe Experience Cloud.
 

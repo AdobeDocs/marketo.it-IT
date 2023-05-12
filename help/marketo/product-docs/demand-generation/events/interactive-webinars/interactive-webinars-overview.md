@@ -4,9 +4,9 @@ title: Panoramica dei webinar interattivi
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La funzione Webinar interattivi è la nostra piattaforma webinar integrata all&#
 
 ## Che cosa sono i webinar interattivi? {#what-is-interactive-webinars}
 
-I webinar interattivi consentono di migliorare l’esperienza esistente Eventi e webinar fornendo un’esperienza nativa e perfetta per creare, gestire e distribuire eventi all’interno del Marketo Engage. Quando [creare un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, sono disponibili diversi layout predefiniti per sale riunioni tra cui scegliere, tutti personalizzabili (è inoltre possibile creare e utilizzare layout personalizzati aggiuntivi). I partecipanti possono condividere schermi/file di computer, chattare tra loro, trasmettere audio e video e partecipare ad attività online interattive.
+I webinar interattivi consentono di migliorare l’esperienza esistente Eventi e webinar fornendo un’esperienza nativa e perfetta per creare, gestire e distribuire eventi all’interno del Marketo Engage. Quando [creare un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, sono disponibili diversi modelli di riunione predefiniti tra cui scegliere, tutti personalizzabili (è inoltre possibile creare e utilizzare modelli personalizzati). I partecipanti possono condividere schermi/file di computer, chattare tra loro, trasmettere audio e video e partecipare ad attività online interattive.
 
 Offerte di webinar interattivi [tre licenze diverse](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, ciascuna con varie funzioni e capacità.
 
