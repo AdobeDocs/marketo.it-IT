@@ -3,10 +3,10 @@ unique-page-id: 12980733
 description: Glossario di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
-   <td colspan="1">Questo termine può avere significati diversi:<br>- La tua istanza Marketo stessa può essere definita il tuo account Marketo.<br>Ingresso <strong>TAM</strong>, <strong>Account denominato</strong> è un account che l'utente ha determinato come un account target che desidera perseguire.<br>- In TAM, un account CRM è un account mappato dal tuo collegato <strong>CRM</strong> (conto in <strong>Salesforce</strong>, <strong>Dynamics MS</strong> o <strong>API</strong>).<br>- Nel tuo CRM, gli account sono l'azienda/azienda a cui sono associati i lead e i contatti.</td> 
+   <td colspan="1">Questo termine può avere significati diversi:<br>- La tua istanza Marketo stessa può essere definita il tuo account Marketo.<br>Ingresso <strong>TAM</strong>, <strong>Account denominato</strong> è un account che l'utente ha determinato come un account target che desidera perseguire.<br>- In TAM, un account CRM è un account mappato dal tuo collegato <strong>CRM</strong> (conto in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">Dynamics MS</span></strong> o <strong>API</strong>).<br>- Nel tuo CRM, gli account sono l'azienda/azienda a cui sono associati i lead e i contatti.</td> 
   </tr> 
   <tr> 
    <td><strong>Elenco account</strong></td> 
@@ -167,7 +167,7 @@ Di seguito sono riportate le definizioni di molti termini che si possono incontr
    <td>L’attività del visitatore e il percorso URL sul sito e per quanto tempo ha visitato ogni pagina.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Clona</strong></td> 
+   <td colspan="1"><strong>Duplica</strong></td> 
    <td colspan="1">In Marketo puoi creare duplicati di diversi tipi di entità all’interno dell’istanza. Puoi clonare <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programmi</a>, un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">risorsa all’interno di un programma</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">flusso</a>e altro ancora.</td> 
   </tr> 
   <tr> 

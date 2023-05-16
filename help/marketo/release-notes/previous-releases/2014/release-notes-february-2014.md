@@ -3,7 +3,7 @@ unique-page-id: 2951048
 description: Note sulla versione - Febbraio 2014 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Febbraio 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -36,9 +36,9 @@ Le seguenti funzionalità sono incluse nella versione di febbraio 2014. Per info
 
 [Esportare le metriche e-mail in Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), compresi i dati della variante del test AB.
 
-## Punteggio di coinvolgimento nel report sulle prestazioni del flusso di coinvolgimento {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Punteggio di coinvolgimento] in [!UICONTROL Prestazioni flusso di coinvolgimento] Rapporto {#engagement-score-in-engagement-stream-performance-report}
 
-È stato aggiunto il punteggio di coinvolgimento al [Rapporto sulle prestazioni del flusso di lavoro di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per aiutarti a vedere quanto sono efficaci i contenuti del tuo programma di coinvolgimento.
+È stato aggiunto il punteggio di coinvolgimento al [[!UICONTROL Prestazioni flusso di coinvolgimento] Rapporto](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per aiutarti a vedere quanto sono efficaci i contenuti del tuo programma di coinvolgimento.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -60,6 +60,6 @@ Sono stati aggiornati i seguenti nomi di filtro e trigger:
 
 ## Miglioramenti di Forms 2.0 {#forms-enhancements}
 
-A partire da questa versione, Forms 2.0 ha ricevuto diversi aggiornamenti sulla &quot;qualità della vita&quot;. Oltre ad abilitare il profiling progressivo sui moduli incorporati, abbiamo apportato modifiche al flusso di lavoro e all’interfaccia utente che semplificheranno l’utilizzo delle funzionalità più avanzate nell’editor, [incluse le regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), pagine di ringraziamento avanzate e campi nascosti.
+Con questa versione Forms 2.0 è stato aggiornato diversi aggiornamenti sulla &quot;qualità della vita&quot;. Oltre ad abilitare il profiling progressivo sui moduli incorporati, abbiamo apportato modifiche al flusso di lavoro e all’interfaccia utente che semplificheranno l’utilizzo delle funzionalità più avanzate nell’editor, [incluse le regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), pagine di ringraziamento avanzate e campi nascosti.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)
