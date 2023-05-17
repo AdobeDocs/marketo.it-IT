@@ -2,9 +2,9 @@
 description: Sincronizzazione degli abbonamenti con Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione degli abbonamenti con Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,6 @@ L’opzione Rinuncia via e-mail è un campo standard di Salesforce che è dispon
 
 ## Rinuncia alle vendite Marketo {#marketo-sales-opt-out}
 
-Il campo Rinuncia alle vendite Marketo è un campo personalizzato disponibile per gli utenti che hanno installato le personalizzazioni delle vendite Marketo.
+Il campo Marketo Sales Opt Out è un campo personalizzato disponibile per gli utenti che hanno installato il pacchetto Marketo Sales Insight [dall&#39;AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Dopo aver installato con successo le personalizzazioni delle vendite Marketo in Salesforce vedrai il campo Rinuncia alle vendite Marketo disponibile.
+Dopo aver installato con successo il pacchetto Marketo Sales Insight dall’AppExchange in Salesforce, visualizzerai il campo Marketo Sales Opt Out disponibile per te.
