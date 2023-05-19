@@ -1,54 +1,54 @@
 ---
 unique-page-id: 2949251
-description: SEO - Aggiungere/rimuovere un URL di collegamento in entrata da un elenco - Documenti Marketo - Documentazione del prodotto
-title: SEO - Aggiunta/rimozione di un URL di collegamento in entrata da un elenco
+description: 'SEO: aggiungere/rimuovere un URL di collegamento in entrata da un elenco - Documentazione di Marketo - Documentazione del prodotto'
+title: 'SEO: aggiungere/rimuovere un URL di collegamento in entrata da un elenco'
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# SEO - Aggiunta/rimozione di un URL di collegamento in entrata da un elenco {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO: aggiungere/rimuovere un URL di collegamento in entrata da un elenco {#seo-add-remove-an-inbound-link-url-from-a-list}
 
-Puoi organizzare gli URL di collegamento in entrata per i contenuti del tuo cuore.
+Puoi organizzare gli URL dei collegamenti in entrata per il contenuto del tuo cuore.
 
 ## Aggiungere un URL di collegamento in entrata a un elenco {#add-an-inbound-link-url-to-a-list}
 
-1. Vai alla sezione Collegamenti in entrata .
+1. Vai a **[!UICONTROL Collegamenti in entrata]** sezione.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Passa il puntatore del mouse sull’URL del collegamento in entrata da classificare. Fai clic su **Aggiungi/Rimuovi da elenco**.
+1. Passa il puntatore del mouse sull’URL del collegamento in entrata da categorizzare. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
-1. Fai clic sull’elenco a cui desideri indirizzare l’URL del collegamento in entrata.
+1. Fai clic sull’elenco dell’URL del collegamento in entrata che desideri spostare.
 
    ![](assets/image2014-11-20-18-3a28-3a18.png)
 
 >[!TIP]
 >
->È inoltre possibile creare un nuovo elenco per la parola chiave da utilizzare. Digita il nome desiderato in Crea un nuovo elenco.
+>È inoltre possibile creare un nuovo elenco per la parola chiave da spostare. Digita il nome desiderato in [!UICONTROL Crea un nuovo elenco].
 
 ## Rimuovere un URL di collegamento in entrata da un elenco {#remove-an-inbound-link-url-from-a-list}
 
-A volte può essere utile rimuovere gli URL di un collegamento in entrata da un elenco.
+A volte è necessario rimuovere un URL di collegamento in entrata da un elenco.
 
-1. Fai clic su **Collegamenti in entrata**.
+1. Clic **[!UICONTROL Collegamenti in entrata]**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Fai clic sul pulsante **Filtra per elenco** a discesa. Fare clic sull&#39;elenco da pulire.
+1. Fai clic su **[!UICONTROL Filtra per elenco]** a discesa. Fare clic sull&#39;elenco da pulire.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Passa il puntatore sull’URL del collegamento in entrata da rimuovere. Fai clic su **Aggiungi/Rimuovi da elenco**.
+1. Passa il puntatore del mouse sull’URL del collegamento in entrata da rimuovere. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
-1. Viene controllato l’elenco che si desidera organizzare. Fai clic sul nome dell’elenco per rimuovere l’URL del collegamento in entrata da questo elenco.
+1. Verrà selezionato l&#39;elenco che si desidera organizzare. Fai clic sul nome dell’elenco per rimuovere l’URL del collegamento in entrata da questo elenco.
 
    ![](assets/image2014-11-20-18-3a30-3a10.png)
 
