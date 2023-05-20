@@ -1,44 +1,44 @@
 ---
 unique-page-id: 2949220
-description: SEO - Aggiungere note ai problemi di pagina - Documenti Marketo - Documentazione del prodotto
-title: SEO - Aggiungere note ai problemi di pagina
+description: SEO - Aggiungere note ai problemi delle pagine - Documentazione di Marketo - Documentazione del prodotto
+title: 'SEO: aggiungere note ai problemi della pagina'
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# SEO - Aggiungere note ai problemi di pagina {#seo-add-notes-to-page-issues}
+# SEO: aggiungere note ai problemi della pagina {#seo-add-notes-to-page-issues}
 
-Sapevi di poter aggiungere note ai problemi delle pagine come promemoria personali o messaggi del team?
+Sapevi che è possibile aggiungere note ai problemi della pagina come promemoria personali o messaggi del team?
 
-## Aggiunta di note nella sezione Problemi di pagina {#adding-notes-in-page-issues-section}
+## Aggiunta di note nella sezione Problemi della pagina {#adding-notes-in-page-issues-section}
 
-1. Vai alla sezione Pagine .
+1. Vai a **[!UICONTROL Pagine]** sezione.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Nella scheda pagine, fai clic su **Problemi**.
+1. Nella scheda delle pagine, fai clic su **[!UICONTROL Problemi]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Passa il puntatore del mouse sul problema a cui desideri aggiungere una nota. Fai clic su **Aggiungi nota adesiva**.
+1. Passa il puntatore del mouse sul problema a cui desideri aggiungere una nota. Clic **[!UICONTROL Aggiungi nota]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
-1. Immettere una nota nella casella di testo gialla. Facendo clic all&#39;esterno della casella di testo, la nota verrà salvata.
+1. Immettere una nota nella casella di testo gialla. Se si fa clic all&#39;esterno della casella di testo, la nota verrà salvata.
 
 ![](assets/image2014-9-18-13-3a12-3a32.png)
 
 >[!TIP]
 >
->Per eliminare la nota, fai clic sul pulsante **x** nell&#39;angolo in alto a sinistra.
+>È possibile eliminare la nota facendo clic sul piccolo **x** nell’angolo superiore sinistro.
 
-## Aggiungi note nel drill-down dei dettagli della pagina {#add-notes-in-page-detail-drill-down}
+## Aggiungi note nell&#39;espansione dei dettagli della pagina {#add-notes-in-page-detail-drill-down}
 
-1. Vai alla sezione Pagine .
+1. Vai a **[!UICONTROL Pagine]** sezione.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -46,14 +46,14 @@ Sapevi di poter aggiungere note ai problemi delle pagine come promemoria persona
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Passa il puntatore del mouse sul problema della pagina a cui desideri aggiungere una nota e fai clic su **Aggiungi nota**.
+1. Passa il puntatore del mouse sul problema della pagina a cui desideri aggiungere una nota e fai clic su **[!UICONTROL Aggiungi nota]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Inserisci la tua nota. Fai clic su **Salva**.
+1. Immetti la nota. Clic **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   La tua nota è stata aggiunta!
+   La nota è stata aggiunta.
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)

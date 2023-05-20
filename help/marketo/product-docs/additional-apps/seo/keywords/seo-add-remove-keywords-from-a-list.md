@@ -1,50 +1,50 @@
 ---
 unique-page-id: 2949678
-description: SEO - Aggiungere/rimuovere parole chiave da un elenco - Marketo Docs - Documentazione del prodotto
-title: SEO - Aggiungi/rimuovi parole chiave da un elenco
+description: SEO (Search Engine Optimization) - Aggiungere/rimuovere parole chiave da un elenco - Documentazione di Marketo - Documentazione del prodotto
+title: SEO - Aggiungere/rimuovere parole chiave da un elenco
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# SEO - Aggiungi/rimuovi parole chiave da un elenco {#seo-add-remove-keywords-from-a-list}
+# SEO - Aggiungere/rimuovere parole chiave da un elenco {#seo-add-remove-keywords-from-a-list}
 
-È possibile mantenere tutte le parole chiave belle e organizzate utilizzando elenchi. Questo renderà facile trovare dati su parole chiave specifiche come torta.
+Puoi mantenere tutte le tue parole chiave belle e organizzate utilizzando gli elenchi. In questo modo sarà più semplice trovare i dati su parole chiave specifiche.
 
 ## Aggiungi a un elenco {#add-to-a-list}
 
-1. Vai a **Parole chiave** sezione .
+1. Vai a **[!UICONTROL Parole chiave]** sezione.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passa il puntatore del mouse sulla parola chiave da aggiungere a un elenco. Fai clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il cursore del mouse sulla parola chiave da aggiungere a un elenco. Clic **[!UICONTROL Aggiungi/Rimuovi dall’elenco]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
-1. Fai clic sull’elenco e le parole chiave verranno aggiunte.
+1. Fai clic sull’elenco per aggiungere le parole chiave.
 
    ![](assets/image2014-9-18-11-3a48-3a47.png)
 
    >[!TIP]
    >
-   >È inoltre possibile creare un nuovo elenco per le parole chiave. Digita il nome in Crea un nuovo elenco.
+   >È inoltre possibile creare un nuovo elenco per le parole chiave. Digita il nome **[!UICONTROL Crea un nuovo elenco]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-Ehi! Seleziona l’elenco per visualizzare le nuove parole chiave.
+Ehi! Selezionare l&#39;elenco per visualizzare le nuove parole chiave.
 
 ## Rimuovi parola chiave dall&#39;elenco {#remove-keyword-from-list}
 
-È inoltre possibile rimuovere le parole chiave da un elenco.
+È inoltre possibile rimuovere parole chiave da un elenco.
 
-1. Vai a **Parole chiave** sezione .
+1. Vai a **[!UICONTROL Parole chiave]** sezione.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passa il puntatore del mouse sulla parola chiave da rimuovere da un elenco. Fai clic su **Aggiungi/Rimuovi dall&#39;elenco**.
+1. Passa il cursore del mouse sulla parola chiave da rimuovere da un elenco. Clic **[!UICONTROL Aggiungi/Rimuovi dall’elenco]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -52,11 +52,11 @@ Ehi! Seleziona l’elenco per visualizzare le nuove parole chiave.
 
    >[!NOTE]
    >
-   >Tutti gli elenchi a cui appartiene la parola chiave al momento avranno un segno di spunta. Una volta rimosso dall’elenco, il controllo scompare.
+   >Tutti gli elenchi a cui appartiene attualmente la parola chiave avranno un segno di spunta. Una volta rimosso dall’elenco, il segno di spunta scompare.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
-   Perfetto, la parola chiave non è più in questo elenco. Aggiorna la pagina per aggiornare la visualizzazione.
+   La parola chiave non è più nell&#39;elenco. Aggiorna la pagina per aggiornare la visualizzazione.
 
    >[!MORELIKETHIS]
    >

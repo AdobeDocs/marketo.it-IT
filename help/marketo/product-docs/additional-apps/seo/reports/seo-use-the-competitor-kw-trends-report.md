@@ -1,60 +1,58 @@
 ---
 unique-page-id: 2949270
-description: SEO - Utilizzare il rapporto Tendenze KW concorrenza - Marketo Docs - Documentazione del prodotto
-title: SEO - Utilizzare il rapporto sulle tendenze KW della concorrenza
+description: 'SEO: utilizzare il rapporto sulle tendenze del KW della concorrenza - Documentazione di Marketo - Documentazione del prodotto'
+title: 'SEO: utilizzare il rapporto sulle tendenze del KW della concorrenza'
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# SEO - Utilizzare il rapporto sulle tendenze KW della concorrenza {#seo-use-the-competitor-kw-trends-report}
+# SEO: utilizzare il rapporto sulle tendenze del KW della concorrenza {#seo-use-the-competitor-kw-trends-report}
 
-In questo rapporto puoi vedere come tu e i tuoi concorrenti siete classificati in base alle parole chiave nel tempo.
+In questo rapporto, puoi vedere come tu e i tuoi concorrenti siete classificati in base alle parole chiave nel tempo.
 
-## Trova rapporti {#find-reports}
+## Trova i Report {#find-reports}
 
-1. Vai a **Rapporti**.
+1. Vai a **[!UICONTROL Rapporti]**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Fai clic su **Tendenze di classifica KW competitive**.
+1. Clic **[!UICONTROL Tendenze della classifica KW del concorrente]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
-## Grafico delle tendenze del gioco KW {#kw-rank-trends-graph}
+## Grafico delle tendenze della classificazione KW {#kw-rank-trends-graph}
 
-Questo grafico può mostrarti quale percentuale delle tue parole chiave è classificata in un intervallo specifico e come i tuoi concorrenti impilano.
+Questo grafico può mostrare quale percentuale delle parole chiave viene classificata in un intervallo specificato e come i tuoi concorrenti si accumulano.
 
 ![](assets/image2014-9-18-14-3a7-3a1.png)
 
 | Elemento | Descrizione |
 |---|---|
-| Parole chiave | Il numero di parole chiave che stai tracciando. |
-| URL di classificazione | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
-| % in grado | La percentuale di classificazione delle parole chiave nell’intervallo impostato. |
-| Media ricerche | Numero medio di ricerche nelle parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, nella ricerca Google US) |
+| [!UICONTROL Parole chiave] | Il numero di parole chiave che si stanno tracciando. |
+| [!UICONTROL URL di classificazione] | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
+| [!UICONTROL % in classifica] | Percentuale di parole chiave che rientrano nell&#39;intervallo impostato. |
+| [!UICONTROL Media ricerche] | Il numero medio di ricerche su tali parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, in Google US search) |
 
-## Filtrare i dati {#filtering-data}
+## Filtraggio dei dati {#filtering-data}
 
 1. Fai clic sull’elenco a discesa e seleziona il periodo di tempo desiderato.
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Fai clic sul pulsante **Classificazione** menu a discesa per scegliere l’intervallo di classificazione per cui visualizzare le parole chiave.
+1. Fai clic su **[!UICONTROL Classifica]** per scegliere per quale intervallo di classificazione si desidera visualizzare le parole chiave.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Esportazione dei dati  {#exporting-data}
+## Esportazione dei dati {#exporting-data}
 
 >[!TIP]
 >
->Puoi esportare il rapporto sul desktop.
+>Puoi esportare questo rapporto sul desktop.
 
-1. Fai clic su **Esportare CSV** o **Export PDF**.
+1. Clic **[!UICONTROL Esporta CSV]** o **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
-
-   Un lavoro!

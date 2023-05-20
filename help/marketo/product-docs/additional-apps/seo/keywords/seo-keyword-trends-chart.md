@@ -1,33 +1,35 @@
 ---
 unique-page-id: 2949680
-description: SEO - Grafico delle tendenze delle parole chiave - Documenti Marketo - Documentazione del prodotto
+description: SEO - Grafico delle tendenze delle parole chiave - Documentazione di Marketo - Documentazione del prodotto
 title: SEO - Grafico delle tendenze delle parole chiave
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # SEO - Grafico delle tendenze delle parole chiave {#seo-keyword-trends-chart}
 
-È importante monitorare come la parola chiave [Gradi SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) tendono nel tempo. Controlla questo grafico per monitorare l&#39;avanzamento.
+È importante monitorare il modo in cui la parola chiave [Rank SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) hanno una tendenza nel tempo. Selezionare questo grafico per monitorare l&#39;avanzamento.
 
-1. Vai a **Parole chiave** sezione .
+1. Vai a **[!UICONTROL Parole chiave]** sezione.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
-1. Fai clic sulla casella di classificazione per la parola chiave che desideri applicare alle tendenze.
+1. Fare clic sulla casella di classificazione per la parola chiave di cui si desidera impostare la tendenza.
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Vedete? Mostra il tuo [Classificazione SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) negli ultimi 30 giorni:
+   Mostra il tuo [Grado SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) negli ultimi 30 giorni:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
-   Bello, eh? Per ulteriori informazioni sulla classificazione delle parole chiave nel rapporto Tendenze parole chiave .
+   >[!TIP]
+   >
+   >Per ulteriori informazioni sulla classificazione delle parole chiave, consulta il rapporto sulle tendenze per le parole chiave.
 
    >[!MORELIKETHIS]
    >
-   >[Utilizzo del rapporto Tendenze parole chiave](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+   >[Utilizzo del rapporto sulle tendenze delle parole chiave](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)

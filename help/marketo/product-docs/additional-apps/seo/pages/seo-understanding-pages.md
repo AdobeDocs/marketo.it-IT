@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2949184
-description: SEO - Informazioni sulle pagine - Documenti Marketo - Documentazione del prodotto
+description: SEO - Informazioni sulle pagine - Documentazione di Marketo - Documentazione del prodotto
 title: SEO - Informazioni sulle pagine
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 1%
@@ -12,44 +12,44 @@ ht-degree: 1%
 
 # SEO - Informazioni sulle pagine {#seo-understanding-pages}
 
-## Punteggio / Per Eseguire Widget {#page-optimization-score-to-do-widget}
+## Punteggio ottimizzazione pagina/Widget attività {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-Il Punteggio di ottimizzazione della pagina è una classifica generale di come la tua pagina è ottimizzata per la ricerca, su una scala da 1 a 100. Si basa su decine di best practice in SEO.
+La pagina [!UICONTROL Punteggio ottimizzazione] è una classificazione generale dell’ottimizzazione della pagina per la ricerca, su una scala da 1 a 100. Si basa su decine di best practice nell’ambito dell’ottimizzazione SEO.
 
 * 0 - 35 = Non ottimizzato
-* 35 - 70 = Sulla pista destra
-* 70 - 100 = Fare grande!
+* 35 - 70 = sulla strada giusta
+* 70 - 100 = Ottimo!
 
 >[!TIP]
 >
->Fare clic sul collegamento ad alto impatto nella casella Da fare per reindirizzare alla scheda Problemi e visualizzare i problemi ad alta priorità da risolvere.
+>Fai clic sul pulsante [!UICONTROL Impatto elevato] collegamento in [!UICONTROL Da fare] , questo ti reindirizzerà al [!UICONTROL Scheda Problemi] e mostrare problemi ad alta priorità da risolvere.
 
-## Scheda Pagine {#pages-tab}
+## [!UICONTROL Pagine] Linguetta {#pages-tab}
 
-La scheda Pagine mostra il livello di ottimizzazione delle singole pagine del sito per la ricerca.
+Il **[!UICONTROL Pagine] scheda** mostra come le singole pagine del sito sono ottimizzate per la ricerca.
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
 | Nome colonna | Descrizione |
 |---|---|
-| Titolo | Titolo e URL di tutte le pagine del dominio. Verifica il dominio. |
-| Punteggio di ottimizzazione | La salsa segreta utilizzata per mostrare quanto bene la tua pagina è ottimizzata per la ricerca su una scala da 1 a 100. |
-| Collegamenti | Numero di domini diversi con almeno 1 collegamento in entrata al sito. |
-| Parole chiave di Target | Le parole chiave per le quali si decide di ottimizzare ogni pagina. [Questo richiede l&#39;input](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Titolo] | Titolo e URL di tutte le pagine del dominio. Verifica il dominio. |
+| [!UICONTROL Punteggio ottimizzazione] | La salsa segreta utilizzata per mostrare come la tua pagina è ottimizzata per la ricerca su una scala da 1 a 100. |
+| [!UICONTROL Collegamenti] | Numero di domini diversi con almeno 1 collegamento in entrata al sito. |
+| [!UICONTROL Parole chiave di Target] | Le parole chiave per le quali decidi di ottimizzare ogni pagina. [È necessario il tuo input](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## Scheda Problemi {#issues-tab}
+## [!UICONTROL Problemi] Linguetta {#issues-tab}
 
-La scheda Problemi identificherà i miglioramenti possibili per aumentare il punteggio di ottimizzazione e la classificazione.
+Il **[!UICONTROL Problemi] scheda** identificherà quali miglioramenti è possibile apportare per aumentare il punteggio di ottimizzazione e la classificazione.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
 | Nome colonna | Descrizione |
 |---|---|
-| Problemi | Elenco di elementi utilizzabili per migliorare il punteggio di ottimizzazione. |
-| Impatto | Quanto è importante per il tuo punteggio complessivo. Correggi prima gli elementi ad alto impatto! |
-| Categoria | Il tipo di problema da segnalare. |
-| Stato | L&#39;attività è completa o ancora aperta. Una volta che tu e il tuo webmaster avete risolto il problema sul tuo sito, lo stato dovrebbe cambiare in risolto (controllo verde). |
+| [!UICONTROL Problemi] | Elenco di elementi utilizzabili che ti aiuteranno a migliorare il tuo punteggio di ottimizzazione. |
+| [!UICONTROL Impatto] | Quanto è importante per il tuo punteggio complessivo. Correggi prima gli elementi ad alto impatto. |
+| [!UICONTROL Categoria] | Tipo di problema segnalato. |
+| [!UICONTROL Stato] | L’attività è completa o ancora aperta. Una volta che tu e il webmaster avete risolto il problema sul sito, lo stato dovrebbe cambiare in risolto (controllo verde). |
 
-Impressionante, ora che conosci le basi delle pagine, controlla il [Articolo drill-down dettagli pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) per imparare cose più interessanti puoi fare.
+Fantastico, ora che conosci le nozioni di base delle pagine, consulta la [Articolo di approfondimento pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) per scoprire cose più interessanti che puoi fare.

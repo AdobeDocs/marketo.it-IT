@@ -1,81 +1,79 @@
 ---
 unique-page-id: 2949202
-description: SEO - Ottieni parole chiave suggerite - Marketo Docs - Documentazione del prodotto
+description: SEO - Ottieni parole chiave suggerite - Documentazione di Marketo - Documentazione del prodotto
 title: SEO - Ottieni parole chiave suggerite
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # SEO - Ottieni parole chiave suggerite {#seo-get-suggested-keywords}
 
-Marketo SEO può suggerire quali parole chiave dovresti tenere traccia. Possiamo fornire suggerimenti basati su una parola chiave o sull’URL di un sito. Dai una mossa!
+Marketo SEO può suggerire quali parole chiave dovresti tenere traccia. Possiamo fornire suggerimenti in base a una parola chiave o all’URL di un sito. Dacci un&#39;occhiata!
 
-## Ottieni suggerimenti per parole chiave utilizzando una parola chiave {#get-keyword-suggestions-using-a-keyword}
+## Ottenere suggerimenti di parole chiave utilizzando una parola chiave {#get-keyword-suggestions-using-a-keyword}
 
-1. Vai a **Parole chiave** sezione .
+1. Vai a **[!UICONTROL Parole chiave]** sezione.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Fai clic su **Ottieni suggerimenti**.
+1. Clic **[!UICONTROL Ottieni suggerimenti]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Inserisci un **Parola chiave**. Fai clic su **Suggerisci parole chiave**.
+1. Immetti un **[!UICONTROL Parola chiave]**. Clic **[!UICONTROL Suggerisci parole chiave]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Lo sapevate che potete  [aggiungi la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
+   >Lo sapevi che puoi  [aggiungere la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
-1. Seleziona le parole chiave suggerite. Fai clic su **Aggiungi selezionati**.
+1. Seleziona le parole chiave suggerite. Clic **[!UICONTROL Aggiungi selezionati]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
-   Fantastico! La parola chiave è stata aggiunta.
+   Fantastico! Parola chiave aggiunta.
 
    ![](assets/image2014-9-18-10-3a54-3a16.png)
 
-   Sì! Ora che sai come ottenere suggerimenti per parole chiave basati su una parola chiave, prova a ricevere suggerimenti basati su un URL.
+   Ehaw! Ora che sai come ottenere suggerimenti di parole chiave basati su una parola chiave, prova a ottenere suggerimenti basati su un URL.
 
-## Ottenere suggerimenti per parole chiave da un URL  {#get-keyword-suggestions-from-a-url}
+## Ottenere suggerimenti di parole chiave da un URL  {#get-keyword-suggestions-from-a-url}
 
-1. Vai a **Parole chiave** sezione .
+1. Vai a **[!UICONTROL Parole chiave]** sezione.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Fai clic su **Ottieni suggerimenti**.
+1. Clic **[!UICONTROL Ottieni suggerimenti]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Imposta **Suggerisci per** a **URL**.
+1. Imposta **[!UICONTROL Suggerisci per]** a **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Inserisci un **URL** e fai clic su **Suggerisci parole chiave**.
+1. Immetti un **[!UICONTROL URL]** e fai clic su **[!UICONTROL Suggerisci parole chiave]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Lo sapevate che potete [aggiungi la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
+   >Lo sapevi che puoi [aggiungere la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
-1. Seleziona le parole chiave suggerite. Fai clic su **Aggiungi selezionati**.
+1. Seleziona le parole chiave suggerite. Clic **[!UICONTROL Aggiungi selezionati]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. Fantastico! La parola chiave è stata aggiunta.
+Fantastico! Parola chiave aggiunta.
 
-   ![](assets/image2014-9-18-11-3a8-3a25.png)
+![](assets/image2014-9-18-11-3a8-3a25.png)
 
-   Ok, stai rockin questa cosa. Continuate!
-
-   >[!MORELIKETHIS]
-   >
-   >* [Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Aggiungi/rimuovi parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>[!MORELIKETHIS]
+>
+>* [Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [Aggiungere/rimuovere parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
