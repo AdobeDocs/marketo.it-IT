@@ -3,7 +3,7 @@ description: Centro assistenza - Documentazione di Marketo - Documentazione del 
 title: Centro assistenza
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 3%
@@ -20,7 +20,7 @@ Dopo aver effettuato l&#39;accesso al Marketo Engage, fare clic sull&#39;icona A
 
 ![](assets/help-center-1.png)
 
-**Guide**
+### Guide {#guides}
 
 Le guide fungono da procedure dettagliate rapide per le funzioni più comuni.
 
@@ -46,7 +46,7 @@ Clic **Fine** per uscire dalla procedura dettagliata.
 >
 >Esci dalla guida in qualsiasi momento facendo clic su **Ignora**.
 
-**Novità**
+### Novità {#whats-new}
 
 La scheda Novità contiene tutti i dettagli dell’ultima versione del Marketo Engage.
 
@@ -56,7 +56,7 @@ La scheda Novità contiene tutti i dettagli dell’ultima versione del Marketo E
 >
 >Fai clic sull’icona a forma di freccia in basso per visualizzare la pagina in Experience League.
 
-**Risorse**
+### Risorse {#resources}
 
 La scheda Risorse consente di accedere in modo rapido e diretto a vari modi per ottenere ulteriore assistenza sull’istanza di Marketo Engage.
 
