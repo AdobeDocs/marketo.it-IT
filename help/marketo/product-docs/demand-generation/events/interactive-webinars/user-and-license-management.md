@@ -1,10 +1,8 @@
 ---
-description: Gestione di utenti e licenze - Documenti Marketo - Documentazione del prodotto
+description: Gestione di utenti e licenze - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione di utenti e licenze
-hide: true
-hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -21,11 +19,11 @@ Scopri come aggiungere e rimuovere utenti e visualizzare le licenze correnti.
 
    ![](assets/user-and-license-management-1.png)
 
-1. Fai clic su **Webinar interattivi**.
+1. Clic **Webinar interattivi**.
 
    ![](assets/user-and-license-management-2.png)
 
-1. Fai clic su **Aggiungi/rimuovi utenti**.
+1. Clic **Aggiungi/Rimuovi utenti**.
 
    ![](assets/user-and-license-management-3.png)
 
@@ -33,37 +31,37 @@ Scopri come aggiungere e rimuovere utenti e visualizzare le licenze correnti.
 
    ![](assets/user-and-license-management-4.png)
 
-## Rimuovere un utente {#remove-a-user}
+## Rimuovi un utente {#remove-a-user}
 
 1. Vai a **Amministratore** area.
 
    ![](assets/user-and-license-management-5.png)
 
-1. Fai clic su **Webinar interattivi**.
+1. Clic **Webinar interattivi**.
 
    ![](assets/user-and-license-management-6.png)
 
-1. Fai clic su **Aggiungi/rimuovi utenti**.
+1. Clic **Aggiungi/Rimuovi utenti**.
 
    ![](assets/user-and-license-management-7.png)
 
-1. Evidenziare gli utenti da rimuovere e premere il tasto Canc sulla tastiera. Fai clic su **OK** al termine.
+1. Evidenziare gli utenti che si desidera rimuovere e premere il tasto Canc sulla tastiera. Clic **OK** al termine.
 
    ![](assets/user-and-license-management-8.png)
 
-## Utilizzo della licenza {#license-usage}
+## Utilizzo licenze {#license-usage}
 
-I webinar interattivi offrono licenze specifiche per la creazione di eventi Adobe Connect. Ogni volta che viene aggiunta una licenza, viene visualizzata una nuova casella di utilizzo della licenza. Gli amministratori di Marketo possono visualizzare (non modificare) le licenze seguendo i passaggi seguenti. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per ottenere licenze aggiuntive.
+I webinar interattivi offrono licenze specifiche per la creazione di eventi Adobe Connect. Ogni volta che viene aggiunta una licenza, viene visualizzata una nuova casella di utilizzo della licenza. Gli amministratori di Marketo possono visualizzare (non modificare) le licenze seguendo la procedura riportata di seguito. Contatta l’Adobe Account Team (il tuo Account Manager) per ottenere ulteriori licenze.
 
 1. Vai a **Amministratore** area.
 
    ![](assets/user-and-license-management-9.png)
 
-1. Fai clic su **Webinar interattivi**.
+1. Clic **Webinar interattivi**.
 
    ![](assets/user-and-license-management-10.png)
 
-1. Scorri verso il basso fino alle schede Utilizzo licenza.
+1. Scorri verso il basso fino alle schede Utilizzo licenze.
 
    ![](assets/user-and-license-management-11.png)
 
@@ -78,14 +76,14 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi Adob
   </tr>
   <tr> 
    <td><b>Tipo</b></td>
-   <td>Tipo di licenza acquistata. Sono disponibili tre tipi: Licenza Eventi Condivisi, Licenza Stanze Condivise, Licenza Di Archiviazione Aggiuntiva.</td>
+   <td>Tipo di licenza acquistata. Sono disponibili tre tipi di licenza: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
   <tr> 
    <td><b>Capacità evento</b></td>
-   <td>Il numero massimo di partecipanti che possono essere inclusi in un evento.</td>
+   <td>Il numero massimo di partecipanti che possono essere ospitati in un evento.</td>
   </tr>
   <tr> 
-   <td><b>Totale eventi</b></td>
+   <td><b>Eventi totali</b></td>
    <td>Numero totale di eventi per i quali è stato eseguito il provisioning con questa licenza.</td>
   </tr>
   <tr> 
@@ -93,18 +91,18 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi Adob
    <td>Numero totale di eventi completati.</td>
   </tr>
   <tr> 
-   <td><b>Capacità di storage</b></td>
-   <td>Quantità di spazio di archiviazione disponibile per l'archiviazione di registrazioni, garanzie reali, heri images, documentazione e altre risorse.</td>
+   <td><b>Capacità di archiviazione</b></td>
+   <td>Quantità di storage disponibile per l'archiviazione di registrazioni, materiale collaterale, heri images, documentazione e altre risorse.</td>
   </tr>
   </tbody>
 </table>
 
 **Aspetti da considerare**
 
-* Il tipo &quot;Licenza di archiviazione aggiuntiva&quot; fornisce semplicemente lo storage, quindi il valore in ogni campo _inoltre_ La capacità di storage sarà indicata semplicemente come &quot;-&quot;.
+* Il tipo &quot;Licenza di archiviazione aggiuntiva&quot; fornisce solo storage, pertanto il valore in ogni campo _oltre a_ La capacità di storage verrà elencata semplicemente come &quot;-&quot;.
 
-* Il tipo &quot;Shared Room License&quot; ha eventi illimitati e &quot;Additional Storage License&quot; fornisce semplicemente spazio di archiviazione, pertanto il campo Total Events per queste licenze verrà elencato semplicemente come &quot;-&quot;.
+* Il tipo &quot;Shared Room License&quot; ha eventi illimitati e &quot;Additional Storage License&quot; fornisce solo storage, pertanto il campo Total Events (Eventi totali) per queste licenze verrà elencato semplicemente come &quot;-&quot;.
 
-* Ogni volta che un evento viene creato, viene conteggiato come &quot;consumato&quot; dalla rispettiva licenza (a meno che non si tratti di una Licenza di Stanza Condivisa). La preferenza verrà data a &quot;Licenza evento condivisa&quot; se sono presenti sia &quot;Licenza evento condiviso&quot; che &quot;Licenza stanza condivisa&quot; della stessa capacità. Se l’evento non è stato consegnato e il programma Evento viene eliminato prima dell’ora pianificata, il conteggio degli eventi viene ricompilato sottraendo un evento dagli eventi utilizzati.
+* Ogni volta che un evento viene creato, verrà conteggiato come &quot;consumato&quot; dalla rispettiva licenza (a meno che non si tratti di una licenza per sala condivisa). La preferenza verrà data a &quot;Shared Event License&quot; se sono presenti sia &quot;Shared Event License&quot; che &quot;Shared Room License&quot; della stessa capacità. Se l&#39;evento non è stato consegnato e il programma eventi viene eliminato prima dell&#39;ora pianificata, il conteggio degli eventi viene rifornito sottraendo un evento dagli eventi consumati.
 
-* Una volta esaurita la licenza, la relativa porzione rimane nella schermata Webinar interattivi nella sezione Amministratore con &quot;Eventi totali&quot; e &quot;Eventi consumati&quot; con lo stesso valore. Solo alla scadenza della licenza verrà rimossa dalla schermata.
+* Una volta esaurita la licenza, il riquadro rimane nella schermata Webinar interattivi della sezione Amministratore con &quot;Eventi totali&quot; e &quot;Eventi consumati&quot; che hanno lo stesso valore. La licenza verrà rimossa dalla schermata solo alla scadenza.

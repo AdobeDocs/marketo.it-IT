@@ -1,19 +1,17 @@
 ---
-description: Flussi di lavoro degli eventi - Documentazione Marketo - Documentazione del prodotto
-title: Flussi di lavoro degli eventi
-hide: true
-hidefromtoc: true
+description: Flussi di lavoro per eventi - Documentazione di Marketo - Documentazione del prodotto
+title: Flussi di lavoro eventi
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# Flussi di lavoro degli eventi {#event-workflows}
+# Flussi di lavoro eventi {#event-workflows}
 
-Al termine del webinar, accedi alla scheda Dashboard per visualizzare le prestazioni aggregate.
+Al termine del webinar, vai alla scheda Dashboard per visualizzare le prestazioni aggregate.
 
 ![](assets/event-workflows-1.png)
 
@@ -25,35 +23,35 @@ Al termine del webinar, accedi alla scheda Dashboard per visualizzare le prestaz
 
 Il dashboard è costituito da quattro widget.
 
-**Stato del programma evento**: Mostra i vari stati del programma per l&#39;evento e il numero di membri del programma che attualmente contengono tale valore di stato del programma.
+**Stato programma evento**: mostra i vari stati del programma per quell’evento e il numero di membri del programma che attualmente detengono tale valore di stato del programma.
 
-**Partecipazione**: Evidenzia la durata della partecipazione di vari membri che hanno partecipato al webinar rispetto alla durata complessiva del webinar in termini di percentuale.
+**Partecipazione**: evidenzia la durata della partecipazione dei vari membri che hanno partecipato al webinar rispetto alla durata complessiva del webinar in termini di percentuale.
 
-**Prestazioni sondaggio**: Visualizza vari sondaggi lanciati durante il webinar in Adobe Connect e la distribuzione dei membri che hanno partecipato e risposto al sondaggio in tutte le risposte.
+**Prestazioni sondaggio**: mostra vari sondaggi lanciati durante il webinar in Adobe Connect e la distribuzione dei membri che hanno partecipato e risposto al sondaggio in ciascuna delle risposte.
 
-**Attività di download dei file e dei clic**: Fornisce il conteggio del download dei file e dei link cliccati durante il webinar in Adobe Connect da vari membri che hanno partecipato al webinar e hanno intrapreso quell&#39;azione specifica.
+**Attività di download dei clic e dei file**: fornisce il numero di download del file e dei collegamenti web su cui hanno fatto clic durante il webinar in Adobe Connect diversi membri che hanno partecipato al webinar e intrapreso tale azione specifica.
 
-## Triggers e filtri {#triggers-and-filters}
+## Trigger e filtri {#triggers-and-filters}
 
-Utilizza i filtri e gli attivatori relativi ai webinar interattivi per individuare gruppi specifici di persone all’interno del programma Evento.
+Utilizza i trigger e i filtri relativi al webinar interattivo per individuare gruppi specifici di persone all’interno del programma di eventi.
 
 ![](assets/event-workflows-2.png)
 
-Ogni trigger/filtro viene fornito con vincoli aggiuntivi, che consentono di acquisire un sottoinsieme mirato di quel gruppo.
+Ogni trigger/filtro è dotato di vincoli aggiuntivi che consentono di acquisire un sottoinsieme mirato di quel gruppo.
 
-**Fa domande durante l&#39;evento** (Versione filtro: Ha fatto domande durante l&#39;evento)
+**Pone domande durante l’evento** (Versione filtro: Ha posto domande durante l’evento)
 
 ![](assets/event-workflows-3.png)
 
-**Evento Partecipa** (Versione filtro: Ha partecipato all&#39;evento)
+**Partecipa all&#39;evento** (Versione filtro: ha partecipato all’evento)
 
 ![](assets/event-workflows-4.png)
 
-**Clic su un collegamento** (Versione filtro: Clic su un link)
+**Clic su un collegamento** (Versione filtro: Selezionato su un collegamento)
 
 ![](assets/event-workflows-5.png)
 
-**Scarica una risorsa** (Versione filtro: Scarica una risorsa)
+**Scarica una risorsa** (Versione filtro: Scaricata una risorsa)
 
 ![](assets/event-workflows-6.png)
 
