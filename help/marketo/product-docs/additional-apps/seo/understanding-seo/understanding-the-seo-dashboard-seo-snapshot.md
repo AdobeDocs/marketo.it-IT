@@ -1,65 +1,65 @@
 ---
 unique-page-id: 2949178
-description: Informazioni sul dashboard SEO -SEO Snapshot - Marketo Docs - Documentazione del prodotto
-title: Informazioni sul dashboard SEO -SEO Snapshot
+description: 'Dashboard SEO: istantanea SEO, documenti Marketo, documentazione del prodotto'
+title: Informazioni sulla dashboard SEO - Snapshot SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# Informazioni sul dashboard SEO (Search Engine Optimization): Istantanea SEO {#understanding-the-seo-dashboard-seo-snapshot}
+# Informazioni sulla dashboard SEO: istantanea SEO {#understanding-the-seo-dashboard-seo-snapshot}
 
-Utilizza il dashboard per ottenere una visione di alto livello della tendenza della classificazione delle parole chiave e di quanto il tuo sito sia ottimizzato per SEO.
+Utilizza la dashboard per ottenere una visualizzazione di alto livello della tendenza del rango delle parole chiave e dell’ottimizzazione del sito per SEO (Search Engine Optimization).
 
-Per scoprire su cosa concentrarsi per migliorare i tuoi sforzi SEO, utilizza [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) di questa dashboard.
+Per scoprire su cosa concentrarti per migliorare le tue attività SEO, utilizza [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) sezione di questo dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Riepilogo della classificazione delle parole chiave {#keyword-rank-summary}
+## [!UICONTROL Riepilogo classificazione parole chiave] {#keyword-rank-summary}
 
-In questa sezione viene illustrato come il sito è classificato per il [parole chiave di destinazione](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Questa sezione mostra come il tuo sito viene classificato per il [parole chiave di destinazione](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
 | Colore | Classifica |
 |---|---|
-| Verde | primo risultato nella ricerca |
+| Verde | Primo risultato nella ricerca |
 | Giallo | 2° - 10° risultato nella ricerca |
 | Grigio | 11° - 20° risultato nella ricerca |
 
 >[!TIP]
 >
->È inoltre possibile visualizzare un [elenco specifico](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) delle parole chiave in corso. Fai clic sull’elenco a discesa e seleziona quello che ti interessa.
+>È inoltre possibile visualizzare come [elenco specifico](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) di parole chiave in esecuzione. Fai clic sull’elenco a discesa e seleziona quello che ti interessa.
 
-Forza! Continuiamo a muoverci.
+Forza, forza! Continuiamo a muoverci.
 
-## Punteggio medio di ottimizzazione pagina {#average-page-optimization-score}
+## [!UICONTROL Punteggio medio di ottimizzazione pagina] {#average-page-optimization-score}
 
-Il Punteggio medio di ottimizzazione della pagina è un punteggio Marketo proprietario che misura tutte le pagine del sito su una scala da 1 a 100.
+Il Punteggio medio di ottimizzazione pagina è un punteggio Marketo proprietario che misura tutte le pagine del sito su una scala da 1 a 100.
 
-Si basa su una raccolta di dozzine di best practice. Un punteggio di 70 o superiore indica un sito ottimizzato.
+Si basa su una raccolta di decine di best practice. Un punteggio pari o superiore a 70 indica un sito ben ottimizzato.
 
 ![](assets/image2014-9-17-21-3a35-3a55.png)
 
 >[!TIP]
 >
->Puoi anche visualizzare il punteggio di ottimizzazione per specifici elenchi di pagine. Utilizza il menu a discesa e seleziona quello che ti interessa.
+>Puoi anche visualizzare il punteggio di ottimizzazione per elenchi specifici di pagine. Utilizza l’elenco a discesa e selezionane uno che ti interessa.
 
-## Tendenze della classificazione delle parole chiave {#keyword-rank-trends}
+## [!UICONTROL Tendenze classificazione parole chiave] {#keyword-rank-trends}
 
-Il grafico delle tendenze della classificazione delle parole chiave richiama le parole chiave con i cinque volumi di ricerca mensili più elevati e genera un grafico in cui viene illustrata la classificazione nel tempo.
+Il [!UICONTROL Tendenze classificazione parole chiave] graph richiama le parole chiave con i cinque volumi di ricerca mensili più elevati e genera un grafico che illustra la classificazione nel tempo.
 
 >[!TIP]
 >
->È possibile rimuovere le parole chiave da questo grafico facendo clic su di esse. Provatela! Il grafico verrà ricostruito in modo dinamico.
+>È possibile rimuovere le parole chiave dal grafico facendo clic su di esse. Provalo! Il grafico verrà rigenerato in modo dinamico.
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Facile, vero? Ora esaminiamo la sezione Recommendations di questo dashboard.
+Ora diamo un’occhiata al [!UICONTROL Recommendations] sezione di questo dashboard.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sul dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Informazioni sulla dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

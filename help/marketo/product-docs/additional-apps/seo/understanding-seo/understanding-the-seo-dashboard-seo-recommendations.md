@@ -1,45 +1,43 @@
 ---
 unique-page-id: 2949180
-description: Informazioni sul dashboard SEO - SEO Recommendations - Marketo Docs - Documentazione del prodotto
-title: Informazioni sul dashboard SEO -SEO Recommendations
+description: Informazioni su SEO Dashboard -SEO Recommendations - Documentazione di Marketo - Documentazione del prodotto
+title: Informazioni su SEO Dashboard - SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-# Informazioni sul dashboard SEO (Search Engine Optimization): SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# Informazioni su SEO Dashboard: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
 
-Utilizza il dashboard per ottenere una visione di alto livello delle tendenze delle classificazioni delle parole chiave e di quanto il tuo sito sia ottimizzato per SEO.
+Utilizza la dashboard per ottenere una visualizzazione di alto livello della tendenza dei livelli di parole chiave e dell’ottimizzazione del sito per SEO (Search Engine Optimization).
 
-Puoi anche scoprire come migliorare utilizzando la sezione Recommendations . Intuiamo!
+Puoi anche scoprire come migliorare utilizzando [!UICONTROL Recommendations] sezione. Andiamo a tuffarci!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Problemi principali di ottimizzazione delle pagine {#top-page-optimization-issues}
+## [!UICONTROL Problemi relativi all’ottimizzazione della pagina superiore] {#top-page-optimization-issues}
 
-Questo vi mostrerà cinque modi ad alto impatto per iniziare a ottimizzare il vostro sito immediatamente! Fai clic su uno dei link per visualizzare il [Drill-down dei dettagli della pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}.
+Questo ti mostrerà cinque modi ad alto impatto per iniziare a ottimizzare il tuo sito immediatamente! È sufficiente fare clic su uno dei collegamenti per visualizzare il [Drill-down dei dettagli della pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
->Puoi fare clic su Problemi di ottimizzazione della pagina principali per visualizzare un elenco completo.
+>Puoi fare clic su [!UICONTROL Problemi relativi all’ottimizzazione della pagina superiore] per visualizzare un elenco completo.
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## Opportunità di collegamento principali {#top-link-opportunities}
+## [!UICONTROL Principali opportunità di collegamento] {#top-link-opportunities}
 
-L&#39;utilizzo di collegamenti affidabili ai siti ai contenuti può aumentare la classificazione delle pagine. Ecco alcune delle opportunità di priorità più importanti che abbiamo trovato per il tuo sito.
+Se ai contenuti sono collegati siti attendibili, la classificazione delle pagine può aumentare. Ecco alcune delle opportunità con la massima priorità che abbiamo trovato per te.
 
 >[!TIP]
 >
->Fai clic su Ottimizzazione collegamenti principali per visualizzare un elenco completo.
+>Puoi fare clic su [!UICONTROL Ottimizzazione collegamento superiore] per visualizzare un elenco completo.
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
-Andiamo! Vivi più a fondo qui.
-
 >[!MORELIKETHIS]
 >
->[Drill-down dei dettagli della pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}
+>[Drill-down dei dettagli della pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

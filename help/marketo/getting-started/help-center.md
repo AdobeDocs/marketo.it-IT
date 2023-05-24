@@ -1,9 +1,7 @@
 ---
 description: Centro assistenza - Documentazione di Marketo - Documentazione del prodotto
 title: Centro assistenza
-hide: true
-hidefromtoc: true
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 3%
@@ -12,7 +10,7 @@ ht-degree: 3%
 
 # Centro assistenza {#help-center}
 
-Il Centro assistenza in Marketo Engage funge da sede centralizzata per ottenere assistenza. Oltre a collegarsi a varie risorse (ad esempio, [documentazione del prodotto](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}), puoi accedere a utili procedure dettagliate interne al prodotto organizzate per livello di esperienza.
+Il Centro assistenza in Marketo Engage funge da sede centralizzata per ottenere assistenza. Oltre a collegarsi a varie risorse (ad esempio, [documentazione del prodotto](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}), puoi accedere a utili procedure dettagliate interne al prodotto organizzate per livello di esperienza.
 
 ## Come accedere {#how-to-access}
 
@@ -26,25 +24,25 @@ Le guide fungono da procedure dettagliate rapide per le funzioni più comuni.
 
 ![](assets/help-center-2.png)
 
-Fai clic sulla guida desiderata per visualizzarla.
+1. Fai clic sulla guida desiderata per visualizzarla.
 
-![](assets/help-center-3.png)
+   ![](assets/help-center-3.png)
 
-Clic **Introduzione**.
+1. Clic **Introduzione**.
 
-![](assets/help-center-4.png)
+   ![](assets/help-center-4.png)
 
-Clic **Successivo** per continuare.
+1. Clic **Successivo** per continuare.
 
-![](assets/help-center-5.png)
+   ![](assets/help-center-5.png)
 
-Clic **Fine** per uscire dalla procedura dettagliata.
+1. Clic **Fine** per uscire dalla procedura dettagliata.
 
-![](assets/help-center-6.png)
+   ![](assets/help-center-6.png)
 
->[!TIP]
->
->Esci dalla guida in qualsiasi momento facendo clic su **Ignora**.
+   >[!TIP]
+   >
+   >Esci dalla guida in qualsiasi momento facendo clic su **Ignora**.
 
 ### Novità {#whats-new}
 
