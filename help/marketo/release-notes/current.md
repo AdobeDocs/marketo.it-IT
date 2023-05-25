@@ -2,9 +2,9 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '401'
 ht-degree: 6%
 
 ---
@@ -99,4 +99,4 @@ I webinar interattivi verranno introdotti gradualmente. Per richiedere l&#39;acc
 
 ## Annunci {#announcements}
 
-* **_Webinar sulla versione del prodotto_**: Unisciti a noi il 17 maggio 2023, alle 9:00 PT / 12:00 PM ET [per un webinar live](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} ospitato dal nostro team di prodotto, dove puoi imparare a utilizzare tutte le ultime innovazioni di prodotto disponibili nelle versioni di marzo e maggio 2023.
+* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione del Marketo Engage di marzo e maggio 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
