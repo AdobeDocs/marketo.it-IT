@@ -1,57 +1,57 @@
 ---
 unique-page-id: 2360360
-description: Creare un Webhook - Marketo Docs - Documentazione del prodotto
-title: Creare un Webhook
+description: Creare un [!DNL Webhook] - Documentazione di Marketo - Documentazione del prodotto
+title: Creare un [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-# Creare un Webhook {#create-a-webhook}
+# Creare un [!DNL Webhook] {#create-a-webhook}
 
-Utilizza i webhook per sfruttare i servizi web di terze parti per inviare messaggi di testo, espandere i dati delle persone e altro ancora.
+Utilizzare [!DNL Webhooks] per sfruttare i servizi web di terze parti per inviare messaggi di testo, espandere i dati di persone e altro ancora.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
+>Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/create-a-webhook-1.png)
 
-1. Fai clic su **Webhook**.
+1. Clic **[!UICONTROL Webhook]**.
 
    ![](assets/create-a-webhook-2.png)
 
-1. Fai clic su **Nuovo Webhook**.
+1. Clic **[!UICONTROL Nuovo webhook]**.
 
    ![](assets/create-a-webhook-3.png)
 
-1. Denomina e configura il tuo webhook.
+1. Denomina e configura il tuo [!DNL Webhook].
 
    ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
-   >Ciò include spesso l&#39;immissione delle credenziali del servizio di terze parti come parametro URL o nel modello POST.
+   >Questo spesso include l’immissione delle credenziali del servizio di terze parti come parametro URL o nel modello POST.
 
-   * **URL**: Immetti l’URL utilizzato nella richiesta al servizio Web. Per inserire un token, ad esempio l’indirizzo e-mail della persona (**`{{lead.Email Address}}`**), nella richiesta fai clic su **Inserisci token**.
+   * **[!UICONTROL URL]**: immetti l’URL da utilizzare nella richiesta al servizio web. Per inserire un token, ad esempio l’indirizzo e-mail della persona (**`{{lead.Email Address}}`**), nella tua richiesta, fai clic su **[!UICONTROL Inserisci token]**.
 
-   * **Modello**: Se desideri trasmettere informazioni nel corpo della richiesta, inserisci tramite il modello di payload. Modelli consentiti per i seguenti tipi di richiesta: POST, DELETE, PATCH o PUT. È possibile utilizzare formati di dati quali JSON o XML. Per inserire un token nel modello, fai clic su **Inserisci token**.
+   * **[!UICONTROL Modello]**: se desideri trasmettere le informazioni nel corpo della richiesta, immetti tramite il modello di payload. Modelli consentiti per i seguenti tipi di richiesta: POST, DELETE, PATCH o PUT. Puoi utilizzare formati di dati come JSON o XML. Per inserire un token nel modello, fai clic su **[!UICONTROL Inserisci token]**.
 
-   * **Richiedi codifica token**: Se i valori del token includono caratteri speciali (ad esempio una e commerciale, &quot;&amp;&quot;), indica il formato della richiesta (**JSON** o **Modulo/Url**).
+   * **[!UICONTROL Richiedi codifica token]**: se i valori del token includono caratteri speciali (ad esempio una e commerciale, &#39;&amp;&#39;), indica il formato della richiesta (**JSON** o **Modulo/Url**).
 
-   * **Tipo di risposta**: Seleziona il formato della risposta ricevuta dal servizio (**JSON** o **XML**).
+   * **[!UICONTROL Tipo di risposta]**: seleziona il formato della risposta ricevuta dal servizio (**JSON** o **XML**).
 
-   * **Tipo di richiesta**: Selezionare il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Tipo di richiesta]**: seleziona il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT).
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->Ulteriori informazioni nel [webhook](https://developers.marketo.com/documentation/webhooks/) immersione profonda.
+>Per ulteriori informazioni, consulta [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} immersione profonda.

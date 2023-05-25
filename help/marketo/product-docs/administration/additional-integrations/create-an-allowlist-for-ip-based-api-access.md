@@ -1,47 +1,47 @@
 ---
 unique-page-id: 10098433
-description: Creare un Inserire nell'elenco Consentiti per l’accesso API basato su IP - Marketo Docs - Documentazione del prodotto
-title: Creare un Inserire nell'elenco Consentiti per l’accesso API basato su IP
+description: Creare un Inserisco nell'elenco Consentiti di accesso API basato su IP - Documentazione di Marketo - Documentazione del prodotto
+title: Creazione di un Inserisco nell'elenco Consentiti di accesso API basato su IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Creare un Inserire nell&#39;elenco Consentiti per l’accesso API basato su IP {#create-an-allowlist-for-ip-based-api-access}
+# Creazione di un Inserisco nell&#39;elenco Consentiti di accesso API basato su IP {#create-an-allowlist-for-ip-based-api-access}
 
-A volte, puoi concedere l’accesso API solo a un indirizzo IP specifico o a una serie di indirizzi. A questo scopo, devi prima abilitare le restrizioni, quindi specificare gli indirizzi IP che possono utilizzare le API.
+A volte, è necessario concedere l’accesso API solo a un indirizzo IP specifico o a un intervallo di indirizzi. A questo scopo, devi innanzitutto abilitare le restrizioni, quindi specificare gli indirizzi IP che possono utilizzare le API.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Fai clic su **Servizi Web**.
+1. Clic **[!UICONTROL Servizi Web]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. Nell’area Limitazioni IP, fai clic su **Modifica,** o fai clic su **Modifica restrizioni IP** in alto a sinistra.
+1. In **[!UICONTROL Restrizioni IP]** , fare clic su **[!UICONTROL Modifica],** o fai clic su **[!UICONTROL Modifica restrizioni IP]** in alto a sinistra.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Controlla la **Abilita restrizioni IP** e immetti gli indirizzi IP che desideri inserire nell&#39;elenco Consentiti.
+1. Controlla la **[!UICONTROL Abilita restrizioni IP]** e immettere gli indirizzi IP che si desidera Inserire nell&#39;elenco Consentiti.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
-   >È possibile immettere un indirizzo IP singolo o un intervallo di indirizzi o utilizzare un carattere jolly.
+   >È possibile immettere un singolo indirizzo IP o un intervallo oppure utilizzare un carattere jolly.
 
-1. Fai clic su **Aggiungi** per aprire campi aggiuntivi e immettere altri indirizzi IP.
+1. Clic **[!UICONTROL Aggiungi]** per aprire campi aggiuntivi e immettere altri indirizzi IP.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Fai clic su **Salva**.
+1. Clic **[!UICONTROL Salva]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

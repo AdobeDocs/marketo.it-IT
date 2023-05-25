@@ -1,29 +1,29 @@
 ---
 unique-page-id: 7512607
-description: Scarica il registro delle attività di Google Adwords - Documentazione di Marketo - Documentazione del prodotto
-title: Scarica il registro delle attività di Google Adwords
+description: "Download [!DNL GoogleAdwords Activity Log] - Documentazione di Marketo - Documentazione del prodotto"
+title: "Scarica [!DNL GoogleAdwords Activity Log]"
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
-source-git-commit: e1288ad56fdd49f411e0f0a60769d66347724207
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
-# Scarica il registro delle attività di Google Adwords {#download-googleadwords-activity-log}
+# Scarica [!DNL Google Adwords] Registro attività {#download-googleadwords-activity-log}
 
 Succede della roba. A volte è necessario scaricare il registro attività per risolvere i problemi.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/download-googleadwords-activity-log-1.png)
 
-1. Fai clic su **LaunchPoint**.
+1. Clic **[!UICONTROL LaunchPoint]**.
 
    ![](assets/download-googleadwords-activity-log-2.png)
 
-1. Trova il servizio Google AdWords e fai clic su **Download del registro delle attività**.
+1. Trova il [!DNL Google AdWords] servizio e clic **[!UICONTROL Scarica registro attività]**.
 
    ![](assets/download-googleadwords-activity-log-3.png)
 
-1. Sul computer verrà scaricato un file .zip.
+1. Un file .zip verrà scaricato sul computer.
