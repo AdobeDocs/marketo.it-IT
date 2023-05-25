@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14745982
-description: Aggiungere Workspace da Facebook as a LaunchPoint Service - Documentazione Marketo - Documentazione del prodotto
-title: Aggiungere Workspace da Facebook as a LaunchPoint Service
+description: "Aggiungi [!DNL Workplace By Facebook] as a [!DNL LaunchPoint Service] - Documentazione di Marketo - Documentazione del prodotto"
+title: "Aggiungi [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] Servizio"
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '254'
 ht-degree: 1%
 
 ---
 
-# Aggiungere Workspace da Facebook as a LaunchPoint Service {#add-workplace-by-facebook-as-a-launchpoint-service}
+# Aggiungi [!DNL Workplace By Facebook] as a [!DNL LaunchPoint] Servizio {#add-workplace-by-facebook-as-a-launchpoint-service}
 
-Nell’integrazione di Workspace sono inclusi due tipi di notifica:
+Esistono due tipi di notifica inclusi nel [!DNL Workplace] integrazione:
 
-* **Notifiche di sistema**: Ottieni notifiche Workspace relative a eventi importanti nella tua istanza di Marketo, come avvisi sugli stati della campagna corrente e su qualsiasi problema che richieda un’attenzione immediata (errori CRM e limiti API).
-* **Momenti interessanti**: Quando Marketo Insight è stato attivato da un individuo noto da un account di vendita, i proprietari dei lead possono essere avvisati tramite Workplace. Le notifiche includono informazioni sui lead e dettagli sull’account di vendita.
+* **Notifiche di sistema**: Ottieni [!DNL Workplace] notifiche relative a eventi importanti nell’istanza di Marketo, come avvisi relativi agli stati correnti della campagna ed eventuali problemi che richiedono attenzione immediata (errori CRM e limiti API).
+* **Momenti interessanti**: quando un [!DNL Marketo Insight] è stato attivato da un individuo noto da un account di vendita, i proprietari dei lead possono essere informati tramite [!DNL Workplace]. Le notifiche includono informazioni sul lead e dettagli sul conto vendite.
 
 >[!NOTE]
 >
@@ -23,52 +23,52 @@ Nell’integrazione di Workspace sono inclusi due tipi di notifica:
 
 >[!PREREQUISITES]
 >
->Se non hai già abilitato le notifiche di Workspace, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+>Se non hai [!DNL Workplace] Notifiche già abilitate, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-1.png)
 
-1. Fai clic su **LaunchPoint**.
+1. Clic **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-2.png)
 
-1. Seleziona **Nuovo** e poi **Nuovo servizio**.
+1. Seleziona **[!UICONTROL Nuovo]** e poi **[!UICONTROL Nuovo servizio]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. Immetti un nome visualizzato per l’integrazione di Workspace. In **Servizio** a discesa, seleziona **Luogo di lavoro di Facebook**. Fai clic su **Crea**.
+1. Immetti un **[!UICONTROL Nome visualizzato]** per [!DNL Workplace] integrazione. In **[!UICONTROL Servizio]** a discesa, seleziona **[!UICONTROL Area di lavoro di Facebook]**. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
-1. Per ricevere notifiche di sistema e momenti interessanti, lascia le opzioni così come sono. Fai clic su **Crea**.
+1. Per ricevere notifiche di sistema e momenti interessanti, lascia le opzioni invariate. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
-1. Fai clic su **Autorizzare**. Viene aperto Workspace in una nuova scheda, in cui verrà completata l’autorizzazione e verrà concessa l’autorizzazione Marketo per estrarre informazioni da Workspace.
+1. Clic **[!UICONTROL Autorizza]**. Verrà aperto [!DNL Workplace] in una nuova scheda, dove completerai l’autorizzazione e concederai a Marketo l’autorizzazione per richiamare informazioni da [!DNL Workplace].
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
-1. Nella nuova scheda Area di lavoro, immetti il tuo indirizzo e-mail aziendale o il nome utente di Workspace e fai clic su **Continua**.
+1. Nel nuovo [!DNL Workplace] , inserisci l’e-mail aziendale o [!DNL Workplace] nome utente e clic su **[!UICONTROL Continua]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-7.png)
 
-1. Immetti le credenziali di Workspace e fai clic su **Accedere**.
+1. Immetti il [!DNL Workplace] e fai clic su **[!UICONTROL Accedi]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-8.png)
 
-1. Nella finestra a comparsa Area di lavoro, scegli un gruppo Facebook in cui desideri inviare le notifiche da Marketo (ad esempio, Integrazioni partner). Fai clic su **Installa**.
+1. In [!DNL Workplace] pop-up, scegli un [!DNL Facebook] gruppo in cui desideri che vengano pubblicate le notifiche da Marketo (ad esempio, [!UICONTROL Integrazioni dei partner]). Clic **[!UICONTROL Installa]**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-9.png)
 
-1. Di seguito è riportata la notifica di conferma. La scheda si chiude automaticamente.
+1. Dovresti visualizzare la notifica di conferma riportata di seguito. La scheda si chiude automaticamente.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-10.png)
 
-1. Aggiorna la scheda Marketo e conferma che Workplace sia ora elencato come servizio attivo in LaunchPoint.
+1. Aggiorna la scheda Marketo e verifica che [!DNL Workplace] è ora elencato come servizio attivo in [!DNL LaunchPoint].
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-11.png)
 
-   Le notifiche inizieranno a essere pubblicate sul gruppo Facebook selezionato al passaggio 7. Avranno un aspetto simile a questo:
+   Le notifiche inizieranno a essere pubblicate su [!DNL Facebook] gruppo selezionato al passaggio 7. Avranno un aspetto simile al seguente:
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-12.png)
