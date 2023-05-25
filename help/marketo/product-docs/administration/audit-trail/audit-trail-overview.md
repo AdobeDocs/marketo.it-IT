@@ -1,43 +1,43 @@
 ---
 unique-page-id: 11377945
-description: Panoramica della traccia di audit - Documenti Marketo - Documentazione del prodotto
-title: Panoramica della traccia di audit
+description: Panoramica di Audit Trail - Documentazione di Marketo - Documentazione del prodotto
+title: Panoramica di Audit Trail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
-# Panoramica della traccia di audit {#audit-trail-overview}
+# Panoramica di Audit Trail {#audit-trail-overview}
 
-Audit Trail consente di ottenere una cronologia completa (per un periodo di sei mesi) delle modifiche apportate all’interno dell’istanza Marketo.
+Audit Trail consente di ottenere una cronologia completa (sei mesi) delle modifiche apportate all’interno dell’istanza Marketo.
 
 >[!NOTE]
 >
->La cronologia dei dati di audit trail è iniziata il 14 settembre 2016.
+>La cronologia dei dati di Audit Trail è iniziata il 14 settembre 2016.
 
 ![](assets/audit-trail-overview-1.png)
 
-## Che cos’è Audit Trail {#what-is-audit-trail}
+## Cos’è Audit Trail {#what-is-audit-trail}
 
-Audit Trail acquisisce in tempo reale un elenco completo delle azioni e degli eventi che si verificano all’interno di una sottoscrizione Marketo. Include un modo self-service per accedere a una cronologia di dati di sei mesi per rispondere a domande come:
+Audit Trail acquisisce in tempo reale un elenco completo delle azioni e degli eventi che si verificano all’interno di un abbonamento Marketo. Include una modalità autonoma di accedere alla cronologia dei dati di sei mesi per poter rispondere a domande quali:
 
 Cos’è successo a questa risorsa o impostazione e chi l’ha aggiornata per ultimo?
 
-Fino a che punto è stato l&#39;utente X?
+Cosa ha fatto l&#39;utente X?
 
-Chi effettua l&#39;accesso al nostro account?
+Chi accede al nostro account?
 
-## Controllo {#what-we-audit}
+## Cosa Controlliamo {#what-we-audit}
 
 Marketo controllerà [creare, modificare ed eliminare](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) azioni per:
 
-* Progettazione di risorse in studio
+* Risorse di Design Studio
 * Tutti i programmi Marketo
 * Campagne intelligenti
-* Elenchi (smart/statici)
+* Elenchi (smart/static)
 * Utenti (amministratore)
 * Ruoli e autorizzazioni (amministratore)
 * Area di lavoro e partizioni (amministratore)
@@ -45,31 +45,31 @@ Marketo controllerà [creare, modificare ed eliminare](/help/marketo/product-doc
 
 >[!NOTE]
 >
->Marketo è _not_ al momento è possibile controllare le modifiche apportate in Personalizzazione web, Contenuto predittivo o Approfondimenti vendite.
+>Marketo è _non_ il controllo delle modifiche apportate in Personalizzazione web, Contenuto predittivo o Insight vendite in questo momento.
 
-## Componenti della traccia di audit {#audit-trail-components}
+## Componenti Audit Trail {#audit-trail-components}
 
 Audit Trail è costituito da tre componenti.
 
-**1) [Traccia di audit della risorsa](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [Asset Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
-Consulta attività eseguita per risorse specifiche.
+Consulta Attività eseguita su risorse specifiche.
 
-**2) [Audit Trail amministratore](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
+**2) [Admin Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
-Monitora i dettagli basati sull&#39;utente.
+Monitorare i dettagli basati sugli utenti.
 
-**3) [Cronologia accessi utente](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3) [Cronologia di accesso utente](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Scopri chi ha effettuato l’accesso all’abbonamento e quando. Sono inclusi anche i tentativi di accesso non riusciti.
+Scopri chi ha effettuato l’accesso al tuo abbonamento e quando. Sono inclusi anche i tentativi di accesso non riusciti.
 
 >[!TIP]
 >
->Puoi eseguire il controllo di audit utilizzando Audit Trail, assicurati di utilizzare [Filtro](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Ci sono così tante cose che puoi controllare utilizzando Audit Trail, assicurati di utilizzare [Filtraggio](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## Esportazione dei dati {#exporting-data}
 
-Puoi visualizzare solo 30 giorni di dati nella tua istanza. Per ottenere (fino a) sei mesi di valore, utilizza l’opzione di esportazione.
+Puoi visualizzare solo dati relativi a 30 giorni nella tua istanza. Per ottenere un valore massimo di sei mesi, utilizza l’opzione di esportazione.
 
 ![](assets/two.png)
 
@@ -77,8 +77,8 @@ Puoi visualizzare solo 30 giorni di dati nella tua istanza. Per ottenere (fino a
 >
 >**Definizione**
 >
->**Sconosciuto:** In audit trail, puoi visualizzare il nome di un utente e l’e-mail elencati come &quot;Sconosciuto&quot;. Questo accade quando apporti una modifica ai valori della lista di selezione nel tuo CRM. Questi valori vengono visualizzati nei moduli Marketo e nelle pagine di destinazione. Se si esegue questo aggiornamento sul lato CRM, le pagine di destinazione che fanno riferimento al modulo verranno automaticamente abbozzate. In audit trail acquisiremo che la pagina di destinazione è stata redatta, ma il nome dell’utente e l’e-mail saranno visualizzati come &quot;Sconosciuto&quot;, in quanto non siamo in grado di acquisire le informazioni utente dal lato CRM.
+>**Sconosciuto:** In entrata [!DNL Webhook], è possibile che il nome e l’indirizzo e-mail di un utente siano elencati come &quot;Sconosciuto&quot;. Ciò si verifica quando si apporta una modifica ai valori dell’elenco di selezione nel CRM. Questi valori vengono visualizzati nei moduli e nelle pagine di destinazione di Marketo. Effettuando questo aggiornamento sul lato CRM, le pagine di destinazione che fanno riferimento al modulo verranno automaticamente redatte. In entrata [!DNL Webhook], acquisiremo che la pagina di destinazione è stata redatta, ma il nome e l’e-mail dell’utente saranno visualizzati come &quot;Sconosciuto&quot;, in quanto non siamo in grado di acquisire le informazioni utente dal lato CRM.
 
 >[!MORELIKETHIS]
 >
->[Abilita traccia di audit](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
+>[Abilita Audit Trail](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
