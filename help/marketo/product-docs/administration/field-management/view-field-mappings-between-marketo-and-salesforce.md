@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2360344
-description: Visualizzare le mappature dei campi tra Marketo e Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Visualizzare mappature dei campi tra Marketo e Salesforce
+description: "Visualizza mappature campi tra Marketo e [!DNL Salesforce] - Documentazione di Marketo - Documentazione del prodotto"
+title: "Visualizza mappature campi tra Marketo e [!DNL Salesforce]"
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# Visualizzare mappature dei campi tra Marketo e Salesforce {#view-field-mappings-between-marketo-and-salesforce}
+# Visualizza mappature campi tra Marketo e [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-È possibile sapere a quali campi di Salesforce è associato uno specifico campo Marketo. Ecco come controllare.
+Potrebbe essere utile sapere quale [!DNL Salesforce] campi a cui è associato un campo Marketo specifico. Ecco come controllare.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. Fai clic su **Gestione dei campi**.
+1. Clic **[!UICONTROL Gestione dei campi]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
-1. Trova il campo che ti interessa e fai clic sul pulsante **+** per espandere la mappatura.
+1. Trova il campo che desideri visualizzare e fai clic su **+** per espandere la mappatura.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >
->Viene visualizzato il nome dell’API Salesforce, non il nome dell’etichetta.
+>Questa è la visualizzazione [!DNL Salesforce] Nome API, non nome etichetta.
 
 >[!IMPORTANT]
 >
->I campi elencati riflettono solo i dati della mappatura iniziale. Non vengono aggiornati dopo la sincronizzazione Marketo/Salesforce.
+>I campi elencati riflettono solo i dati della mappatura iniziale. Non vengono aggiornati dopo il Marketo/[!DNL Salesforce] sincronizzazione

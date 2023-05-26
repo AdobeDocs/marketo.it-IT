@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2360331
-description: Modificare il tipo di campo personalizzato Marketo - Documenti Marketo - Documentazione del prodotto
-title: Modificare il tipo di campo personalizzato Marketo
+description: Modificare il tipo di campo personalizzato Marketo - Documentazione Marketo - Documentazione del prodotto
+title: Modificare il tipo di un campo personalizzato di Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# Modificare il tipo di campo personalizzato Marketo {#change-the-type-of-a-marketo-custom-field}
+# Modificare il tipo di un campo personalizzato di Marketo {#change-the-type-of-a-marketo-custom-field}
 
-Come modificare il tipo di campo di un campo personalizzato.
+Per modificare il tipo di campo di un campo personalizzato, procedere come segue.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. Fai clic su **Gestione dei campi**.
+1. Clic **[!UICONTROL Gestione dei campi]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -26,25 +26,25 @@ Come modificare il tipo di campo di un campo personalizzato.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. In **Azioni campo** a discesa, fai clic su **Tipo di modifica**.
+1. In **[!UICONTROL Azioni campo]** a discesa, fai clic su **[!UICONTROL Cambia tipo]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
-1. Seleziona il nuovo tipo.
+1. Selezionare il nuovo tipo.
 
    >[!NOTE]
    >
-   >Impossibile modificare i campi punteggio e formula.
+   >I campi Punteggio e Formula non possono essere modificati.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. Leggere l&#39;avviso, quindi fare clic su **Modifica** per confermare.
+1. Leggi l’avviso, quindi fai clic su **[!UICONTROL Cambia]** per confermare.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 
    >[!NOTE]
    >
-   >Il messaggio di avviso visualizzato varia a seconda del tipo di campo da/a.
+   >Il messaggio di avviso visualizzato varia a seconda del tipo di campo da/a che si desidera modificare.
 
    >[!MORELIKETHIS]
    >

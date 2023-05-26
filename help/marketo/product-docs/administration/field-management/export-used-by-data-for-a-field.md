@@ -1,28 +1,28 @@
 ---
 unique-page-id: 45417092
-description: Esportazione utilizzata dai dati per un campo - Marketo Docs - Documentazione del prodotto
+description: Esportazione utilizzata dai dati per un campo - Documentazione Marketo - Documentazione del prodotto
 title: Esportazione utilizzata dai dati per un campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Esportazione utilizzata dai dati per un campo {#export-used-by-data-for-a-field}
 
-In qualità di Amministratore, puoi esportare le risorse correlate di un campo per delegare il loro scollegamento al team.
+In qualità di amministratore, puoi esportare le risorse correlate di un campo in modo da delegarne lo scollegamento al team.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Fai clic su **Gestione dei campi**.
+1. Clic **[!UICONTROL Gestione dei campi]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -30,14 +30,14 @@ In qualità di Amministratore, puoi esportare le risorse correlate di un campo p
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Fai clic sul pulsante **Azioni campo** a discesa e seleziona **Esporta utilizzato da**.
+1. Fai clic su **[!UICONTROL Azioni campo]** a discesa e selezionare **[!UICONTROL Esporta utilizzato da]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Verrà esportato un file Excel. Apri per visualizzarne il contenuto.
+1. Un [!DNL Excel] il file verrà esportato. Aprilo per visualizzarne il contenuto.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >
-   >Ogni risorsa correlata è un collegamento su cui puoi fare clic e che verrà aperto in Marketo.
+   >Ogni risorsa correlata è un collegamento su cui è possibile fare clic e che si aprirà in Marketo.
