@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10100272
-description: Pubblicare un’attività personalizzata - Documenti Marketo - Documentazione del prodotto
+description: Pubblicare un’attività personalizzata - Documentazione di Marketo - Documentazione del prodotto
 title: Pubblicare un’attività personalizzata
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Pubblicare un’attività personalizzata {#publish-a-custom-activity}
 
-L’attività personalizzata è esattamente come desideri. Ora, è ora di pubblicarlo!
+L’attività personalizzata si svolge esattamente come desideri. Ora è il momento di pubblicarlo!
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/publish-a-custom-activity-1.png)
 
-1. Fai clic su **Attività personalizzate Marketo**.
+1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/publish-a-custom-activity-2.png)
 
@@ -26,15 +26,15 @@ L’attività personalizzata è esattamente come desideri. Ora, è ora di pubbli
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Fai clic sul pulsante **Azioni di attività personalizzate** a discesa e seleziona **Pubblica attività**.
+1. Fai clic su **[!UICONTROL Azioni attività personalizzate]** a discesa e selezionare **[!UICONTROL Attività di pubblicazione]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Lo stato dell’attività personalizzata verrà visualizzato da Bozza...
+   Visualizzerai i [!UICONTROL stato] vai da [!UICONTROL Bozza]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...Pubblicato.
+   ...a [!UICONTROL Pubblicato].
 
    ![](assets/publish-a-custom-activity-6.png)
 

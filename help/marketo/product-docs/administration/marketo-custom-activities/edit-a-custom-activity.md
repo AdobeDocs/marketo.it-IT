@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10100269
-description: Modificare un’attività personalizzata - Documenti Marketo - Documentazione del prodotto
+description: Modificare un’attività personalizzata - Documentazione di Marketo - Documentazione del prodotto
 title: Modificare un’attività personalizzata
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Modificare un’attività personalizzata {#edit-a-custom-activity}
 
-Devi apportare modifiche a un’attività personalizzata già creata? Ecco come.
+Vuoi apportare modifiche a un&#39;attività personalizzata già creata? Ecco come.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Fai clic su **Attività personalizzate Marketo**.
+1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -26,20 +26,20 @@ Devi apportare modifiche a un’attività personalizzata già creata? Ecco come.
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Fai clic su **Azioni di attività personalizzate** e seleziona **Modifica attività**.
+1. Clic **[!UICONTROL Azioni attività personalizzate]** e seleziona **[!UICONTROL Modifica attività]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   Viene visualizzato Modifica tipo di attività. In questo esempio stiamo correggendo un errore di battitura.
+   Viene visualizzato Modifica tipo di attività. In questo esempio, stiamo correggendo un errore di battitura.
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Immetti le nuove informazioni e fai clic su **Invia**.
+1. Immetti le nuove informazioni e fai clic su **[!UICONTROL Invia]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   L’attività personalizzata viene ora modificata.
+   L&#39;attività personalizzata è stata modificata.
 
    >[!NOTE]
    >
-   >Se l’attività era una bozza al momento della modifica, rimane una bozza. Se è stato pubblicato, lo stato diventa Pubblicato con bozza.
+   >Se al momento della modifica l’attività era una bozza, rimane una bozza. Se è stata pubblicata, lo stato diventa Pubblicato con bozza.
