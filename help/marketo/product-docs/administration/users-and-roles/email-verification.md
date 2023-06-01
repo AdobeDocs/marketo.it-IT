@@ -2,9 +2,9 @@
 description: Verifica e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Verifica e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Quando un amministratore invita un utente, quest’ultimo viene verificato autom
 
 ## E-mail di verifica {#verification-email}
 
-Gli utenti invitati riceveranno la seguente e-mail:
+Gli utenti riceveranno il seguente messaggio e-mail quando la verifica e-mail viene attivata per un abbonamento o se è attivata da un amministratore/utente:
 
 ![](assets/email-verification-1.png)
 
