@@ -1,42 +1,42 @@
 ---
 unique-page-id: 10099680
-description: Importare dati di oggetti personalizzati - Documenti Marketo - Documentazione del prodotto
+description: Importare dati oggetto personalizzati - Documentazione di Marketo - Documentazione del prodotto
 title: Importa dati oggetto personalizzati
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Importa dati oggetto personalizzati {#import-custom-object-data}
 
-È facile importare dati di oggetti personalizzati nel database. Se utilizzi oggetti personalizzati con aziende, consulta [Utilizzo di oggetti personalizzati con le aziende](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) per ulteriori informazioni.
+È facile importare dati oggetto personalizzati nel database. Se utilizzi oggetti personalizzati con le aziende, consulta [Utilizzo di oggetti personalizzati con le aziende](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) per ulteriori informazioni.
 
-1. In My Marketo, vai a **Database**.
+1. In Il mio Marketo, vai a **[!UICONTROL Database]**.
 
    ![](assets/import-custom-object-data-1.png)
 
-1. Fai clic su **Nuovo** e seleziona **Importa dati oggetto personalizzati**.
+1. Clic **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Importa dati oggetto personalizzati]**.
 
    ![](assets/import-custom-object-data-2.png)
 
-1. Fai clic su **Sfoglia** per individuare il file di dati. Selezionare il formato del file (Comma Separated Values in questo esempio).
+1. Clic **[!UICONTROL Sfoglia]** per individuare il file di dati. Selezionare il formato del file (valori separati da virgola in questo esempio).
 
    ![](assets/import-custom-object-data-3.png)
 
-1. Seleziona l’oggetto personalizzato.
+1. Seleziona il [!UICONTROL oggetto personalizzato].
 
    ![](assets/import-custom-object-data-4.png)
 
-1. Seleziona la Modalità di deduplicazione dal menu a discesa. Fai clic su **Successivo**.
+1. Seleziona la [!UICONTROL Modalità di deduplicazione] dal menu a discesa. Clic **[!UICONTROL Successivo]**.
 
    ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
-   >Utilizzare i campi Deduplice come identificatori univoci quando si creano o aggiornano record di oggetti personalizzati. In questo esempio viene utilizzato il campo Deduplice del **auto** oggetto personalizzato - vin (numero ID veicolo). Se si aggiornano solo i record di oggetti personalizzati, è possibile selezionare Marketo Guid come modalità dedicata.
+   >Utilizzare i campi di deduplicazione come identificatori univoci quando si creano o si aggiornano record oggetto personalizzati. In questo esempio viene utilizzato il campo Dedupe del **automobile** oggetto personalizzato - vin (numero ID veicolo). Se si aggiornano solo record oggetto personalizzati, è possibile selezionare [!UICONTROL GUID MARKETO] come [!UICONTROL Modalità di deduplicazione].
 
 1. Mappa ciascuna colonna su un campo Marketo, selezionandola dall’elenco a discesa.
 
@@ -44,13 +44,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Assicurati che i valori nel file corrispondano al tipo di campo a cui stai confrontando (ad es. testo, numero intero, ecc.), altrimenti il file verrà rifiutato.
+   >Assicurati che i valori nel file corrispondano al tipo di campo a cui stai corrispondendo (ad esempio, testo, numero intero, ecc.), altrimenti il file verrà rifiutato.
 
-1. Fai clic su **Successivo**.
+1. Clic **[!UICONTROL Successivo]**.
 
    ![](assets/import-custom-object-data-7.png)
 
-1. Fai clic su **Importa**.
+1. Clic **[!UICONTROL Importa]**.
 
    ![](assets/import-custom-object-data-8.png)
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Inserisci il tuo indirizzo e-mail nel **Invia avviso a:** campo e Marketo ti invierà un&#39;e-mail al termine dell&#39;importazione!
+   >Inserisci il tuo indirizzo e-mail in **[!UICONTROL Invia avviso a]** e Marketo ti invierà un’e-mail al termine dell’importazione.
 
-1. Nell’angolo in alto a destra della schermata, viene visualizzata una notifica mentre l’importazione è in esecuzione e i risultati finali al termine dell’importazione.
+1. Nell’angolo in alto a destra dello schermo viene visualizzata una notifica mentre l’importazione è in esecuzione e al termine vengono visualizzati i risultati finali.
 
    ![](assets/import-custom-object-data-9.png)
 
@@ -70,4 +70,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[Informazioni sugli oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
