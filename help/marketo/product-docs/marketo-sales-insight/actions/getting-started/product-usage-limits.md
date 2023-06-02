@@ -1,17 +1,21 @@
 ---
-description: Limiti di utilizzo del prodotto - Documenti Marketo - Documentazione del prodotto
-title: Limiti di utilizzo del prodotto
+description: Limiti di utilizzo del prodotto - Documentazione di Marketo - Documentazione del prodotto
+title: Limiti di utilizzo prodotto
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 14%
+source-wordcount: '231'
+ht-degree: 12%
 
 ---
 
-# Limiti di utilizzo del prodotto {#product-usage-limits}
+# Limiti di utilizzo prodotto {#product-usage-limits}
 
-I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinvolgimento delle vendite estese disponibili con le azioni Approfondimenti vendite.
+Di seguito sono riportati i limiti per l&#39;utilizzo delle funzionalità di coinvolgimento nelle vendite estese disponibili con le azioni di approfondimento sulle vendite.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite [Pacchetto Sales Insight di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
 
 <table>
   <th>Funzionalità</th>
@@ -19,16 +23,16 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <th>Limite</th>
  <tr>
   <td>Sincronizzazione del database Marketo Person</td>
-  <td>continuo</td>
+  <td>in corso</td>
   <td>1.500.000 persone</td>
  </tr>
  <tr>
-  <td>Invio e-mail di vendita</td>
-  <td>per utente/giorno</td>
+  <td>Invii e-mail vendite</td>
+  <td>per utente/per giorno</td>
   <td>1,000</td>
  </tr>
  <tr>
-  <td>E-mail di vendita in blocco</td>
+  <td>E-mail per vendite in blocco</td>
   <td>per invio</td>
   <td>200</td>
  </tr>
@@ -38,12 +42,12 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <td>2,000</td>
  </tr>
  <tr>
-  <td>Categorie di modelli e-mail</td>
+  <td>Categorie dei modelli e-mail</td>
   <td>per istanza</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>Ricerche salvate per e-mail</td>
+  <td>Ricerche salvate tramite e-mail</td>
   <td>per utente</td>
   <td>50</td>
  </tr>
@@ -54,12 +58,12 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
  </tr>
  <tr>
   <td>Lanci di campagne</td>
-  <td>per utente/giorno</td>
+  <td>per utente/per giorno</td>
   <td>200</td>
  </tr>
  <tr>
   <td>Campagne in esecuzione</td>
-  <td>per utente/giorno</td>
+  <td>per utente/per giorno</td>
   <td>200</td>
  </tr>
  <tr>
@@ -73,12 +77,12 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <td>500</td>
  </tr>
   <td>Chiamate</td>
-  <td>per utente/mese (condiviso nell’istanza)</td>
+  <td>per utente/al mese (condiviso tra le istanze)</td>
   <td>50 minuti</td>
  </tr>
  <tr>
-  <td>Registrazioni delle chiamate</td>
-  <td>per utente/mese (condiviso nell’istanza)</td>
+  <td>Richiama registrazioni</td>
+  <td>per utente/al mese (condiviso tra le istanze)</td>
   <td>50</td>
  </tr>
  <tr>
@@ -97,7 +101,7 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <td>25</td>
  </tr>
  <tr>
-  <td>Sedi utente</td>
+  <td>Postazioni utente</td>
   <td>per istanza</td>
   <td>100</td>
  </tr>
@@ -107,7 +111,7 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <td>20</td>
  </tr>
  <tr>
-  <td>Risultati chiamata</td>
+  <td>Risultati della chiamata</td>
   <td>per istanza</td>
   <td>15</td>
  </tr>
@@ -117,7 +121,7 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <td>15</td>
  </tr>
  <tr>
-  <td>Avvisi di registrazione delle chiamate</td>
+  <td>Avvisi di registrazione chiamate</td>
   <td>per istanza</td>
   <td>5</td>
  </tr>
@@ -131,12 +135,12 @@ I seguenti limiti sono in vigore per l&#39;utilizzo delle funzionalità di coinv
   <td>2</td>
  </tr>
  <tr>
-  <td>Connessioni server SMTP del team</td>
+  <td>Connessioni server SMTP team</td>
   <td>per istanza</td>
   <td>1</td>
  </tr>
  <tr>
-  <td>Messaggi di annullamento sottoscrizione team</td>
+  <td>Messaggi per annullare l’iscrizione del team</td>
   <td>per istanza</td>
   <td>1</td>
  </tr>
