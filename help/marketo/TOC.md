@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
 workflow-type: tm+mt
-source-wordcount: '8890'
+source-wordcount: '8900'
 ht-degree: 0%
 
 ---
@@ -1373,6 +1373,11 @@ ht-degree: 0%
                + [Composizione di e-mail in blocco con Seleziona e invia](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Invio di e-mail tramite e-mail gruppo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Utilizzo di un modello nella finestra Componi](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Integrazioni e-mail {#email-integrations}
+            + Gmail {#gmail}
+               + [Connetti a Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+            + Outlook {#outlook}
+               + [Connetti a Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + Domande frequenti {#faq}
             + [È possibile recuperare un contatto o un gruppo eliminato?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Posso tenere traccia di più destinatari con CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
