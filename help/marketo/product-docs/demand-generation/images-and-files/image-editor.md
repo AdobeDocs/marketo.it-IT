@@ -1,31 +1,29 @@
 ---
 description: Editor immagini - Documentazione di Marketo - Documentazione del prodotto
 title: Editor immagini
-hide: true
-hidefromtoc: true
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Editor immagini
+# Editor immagini {#image-editor}
 
 L&#39;editor di immagini consente di apportare modifiche rapide e leggere alle immagini in Marketo Engage.
 
 1. Vai a **[!UICONTROL Design Studio]**.
 
-PICC
+   ![](assets/image-editor-1.png)
 
-1. Individua l&#39;immagine ([!UICONTROL Risorse recenti di Design Studio] o [!UICONTROL Immagini e file]) e fare clic sul relativo nome file.
+1. Individuare e selezionare l&#39;immagine.
 
-PICC
+   ![](assets/image-editor-2.png)
 
 1. Fai clic su **[!UICONTROL Modifica immagine]** pulsante.
 
-PICC
+   ![](assets/image-editor-3.png)
 
 1. Puoi scegliere tra diverse funzioni nella barra degli strumenti nella parte superiore. Clic **[!UICONTROL Salva]** al termine.
 
-PICC
+   ![](assets/image-editor-4.png)
