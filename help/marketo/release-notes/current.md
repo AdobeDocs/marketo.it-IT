@@ -2,10 +2,10 @@
 description: Note sulla versione corrente - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '368'
+ht-degree: 3%
 
 ---
 
@@ -33,8 +33,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Panoramica dell’interfaccia Experience Cloud</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ I webinar interattivi verranno introdotti gradualmente. Per richiedere l&#39;acc
   <tr> 
    <td>Rollout avviato</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Panoramica dei webinar interattivi</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Dynamic Chat {#dynamic-chat}
-
-</br>
-
-* **Origine chat per Dynamic Chat**: &quot;Chat&quot; ora è offerto come fonte di nuovi record e attività di persona. Questa origine può essere utilizzata per aiutare gli utenti a filtrare le attività in elenchi smart o campagne. L’origine può anche essere bloccata dagli aggiornamenti sui campi.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
   </tr>
   </tbody>
 </table>
