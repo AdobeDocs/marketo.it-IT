@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
 workflow-type: tm+mt
-source-wordcount: '8904'
+source-wordcount: '8906'
 ht-degree: 0%
 
 ---
@@ -1430,6 +1430,7 @@ ht-degree: 0%
          + Modelli {#templates}
             + [Aggiungi testo con collegamento ipertestuale](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Campi dinamici](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
+            + [Prompt dei campi](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
             + [Gestisci modelli](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Gestisci categorie modello](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [Modelli consigliati](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
