@@ -1,7 +1,8 @@
 ---
-description: Campaign Inspector - Documentazione di Marketo - Documentazione del prodotto
+description: Ispettore campagna - Documentazione Marketo - Documentazione del prodotto
 title: Ispettore campagna
-source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
+exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 Utilizza Campaign Inspector per visualizzare/cercare tutte le campagne avanzate in un’unica posizione.
 
-## Abilita controllo Campaign {#enable-campaign-inspector}
+## Abilita Ispettore campagna {#enable-campaign-inspector}
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Fai clic su **Torace del tesoro**.
+1. Clic **[!UICONTROL Treasure Chest]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Fai clic su **Modifica** accanto a Ispettore campagna.
+1. Clic **[!UICONTROL Modifica]** accanto a Ispettore campagna.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Seleziona la **Abilitato** seleziona e fai clic su **Salva**.
+1. Seleziona la **[!UICONTROL Abilitato]** e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -36,14 +37,14 @@ Utilizza Campaign Inspector per visualizzare/cercare tutte le campagne avanzate 
 
 ## Utilizzo di Campaign Inspector {#using-campaign-inspector}
 
-Una volta attivata, la scheda Ispettore campagna si trova accanto alla scheda Attività di marketing .
+Una volta abilitata, la scheda Ispettore campagna si trova accanto alla scheda Attività di marketing.
 
 ![](assets/campaign-inspector-5.png)
 
-Fai clic sul pulsante **Campagne attive** elenco a discesa per filtrare in base a diversi tipi di campagne.
+Fai clic su **[!UICONTROL Campagne attive]** per filtrare in base a diversi tipi di campagne.
 
 ![](assets/campaign-inspector-6.png)
 
-Nella parte inferiore della pagina, accedi a strumenti utili come la barra di ricerca o esporta i risultati.
+Nella parte inferiore della pagina, puoi accedere a strumenti utili come la barra di ricerca o esportare i risultati.
 
 ![](assets/campaign-inspector-7.png)

@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360217
-description: Modificare le impostazioni di attribuzione per Analytics - Documenti Marketo - Documentazione del prodotto
+description: Modificare le impostazioni di attribuzione per Analytics - Documentazione di Marketo - Documentazione del prodotto
 title: Modificare le impostazioni di attribuzione per Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -12,27 +12,27 @@ ht-degree: 0%
 
 # Modificare le impostazioni di attribuzione per Analytics {#change-attribution-settings-for-analytics}
 
-Puoi modificare il modo in cui Marketo collega i contatti alle opportunità per l’attribuzione primo e multi-touch, le metriche di conversione lead e il flag di opportunità influenzato dal marketing.
+Puoi modificare il modo in cui Marketo collega i contatti alle opportunità di attribuzione di primo e più contatti, alle metriche di conversione dei lead e al flag di opportunità influenzato dal marketing.
 
-Queste impostazioni avranno un impatto sui report di Revenue Explorer nella sezione [Analisi delle opportunità del programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analisi delle opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)e le aree Analisi lead. Questo influisce anche sul rapporto di Program Analyzer (Analisi programmi).
+Queste impostazioni avranno un impatto [!UICONTROL Gestione ricavi] rapporti in [Analisi opportunità programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analisi dell’opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), e Analisi dei lead. Questo inciderà anche sulla [!UICONTROL Analizzatore di programmi] rapporto.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 
-1. Fai clic su **Analisi del ciclo dei ricavi**.
+1. Clic **[!UICONTROL Analisi del ciclo dei ricavi]**.
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 
-1. Fai clic sul pulsante **Modifica** link sotto **Attribuzione**.
+1. Fai clic su **[!UICONTROL Modifica]** collega in **[!UICONTROL Attribuzione]**.
 
    ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
-   >La modifica di questa impostazione non modifica alcun dato di Marketo; cambia semplicemente il modo in cui vengono eseguiti i rapporti. Questo può essere ripristinato in qualsiasi momento.
+   >La modifica di questa impostazione non comporta la modifica di alcun dato di Marketo, ma semplicemente modifica il modo in cui vengono eseguiti i rapporti. Questa funzione può essere ripristinata in qualsiasi momento.
 
-1. Seleziona un’opzione e fai clic su **Salva**.
+1. Seleziona un’opzione e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/change-attribution-settings-for-analytics-4.png)
 
@@ -40,12 +40,12 @@ Queste impostazioni avranno un impatto sui report di Revenue Explorer nella sezi
    >
    >**Definizione**
    >
-   >**Esplicito**: Solo i contatti con i ruoli (impostazione predefinita).
+   >**[!UICONTROL Esplicito]**: solo contatti con ruoli (impostazione predefinita).
    >
-   >**Ibrido**: Contatti con ruoli, se disponibili. Se non sono disponibili, vengono utilizzati tutti i contatti presenti negli account.
+   >**[!UICONTROL Ibrido]**: contatti con i ruoli, se disponibili. Se non ne è disponibile alcuno, vengono utilizzati tutti i contatti negli account.
    >
-   >**Implicato**: Tutti i contatti indipendentemente dal ruolo.
+   >**[!UICONTROL Implicito]**: tutti i contatti indipendentemente dal ruolo.
 
 >[!CAUTION]
 >
->Quando utilizzi **Implicato**, Marketo esaminerà sempre tutti i contatti associati all’account, indipendentemente dal ruolo. **Marketo consiglia vivamente di utilizzare la modalità Esplicita**. L&#39;utilizzo di Implicit può creare falsi positivi; persone che hanno il merito di avere un&#39;opportunità nonostante non abbiano una reale influenza nell&#39;opportunità. Usa Implicit con cautela.
+>Quando si utilizza **[!UICONTROL Implicito]**, Marketo esaminerà sempre tutti i contatti associati all’account, indipendentemente dal ruolo. **Marketo consiglia vivamente di [!UICONTROL Esplicito] modalità**. Utilizzo di [!UICONTROL Implicito] può creare falsi positivi, ovvero persone che hanno il merito di un’opportunità pur non avendo una reale influenza su di essa. Utilizzare [!UICONTROL Implicito] con cautela.

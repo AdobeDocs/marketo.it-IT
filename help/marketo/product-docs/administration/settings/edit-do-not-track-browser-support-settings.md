@@ -1,18 +1,18 @@
 ---
 unique-page-id: 6095047
-description: Modificare le impostazioni di supporto del browser "Do Not Track" - Marketo Docs - Documentazione del prodotto
-title: Modifica le impostazioni di supporto del browser "Do Not Track"
+description: Modificare le impostazioni di supporto del browser "Do Not Track" (Non tenere traccia) - Documentazione di Marketo - Documentazione del prodotto
+title: Modifica impostazioni di supporto browser "Do Not Track" (Non tenere traccia)
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Modifica le impostazioni di supporto del browser &quot;Do Not Track&quot; {#edit-do-not-track-browser-support-settings}
+# Modifica impostazioni di supporto browser &quot;Do Not Track&quot; (Non tenere traccia) {#edit-do-not-track-browser-support-settings}
 
-&quot;Do Not Track&quot; è una richiesta del browser da non tenere traccia in sistemi come Marketo. Puoi soddisfare la richiesta seguendo questi passaggi.
+&quot;Do Not Track&quot; è una richiesta del browser per non essere tracciato in sistemi come Marketo. Puoi soddisfare questa richiesta con i seguenti passaggi.
 
 >[!NOTE]
 >
@@ -20,32 +20,32 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->L’opzione &quot;Non tenere traccia&quot; verrà impostata su Ignora per impostazione predefinita, quindi se si desidera, non sarà necessario eseguire alcuna operazione.
+>&quot;Do Not Track&quot; (Non tracciare) sarà impostato su Ignore (Ignora) per impostazione predefinita, quindi se questo è ciò che desideri, non dovrai adottare alcuna misura.
 
-1. Fai clic su **Amministratore**.
+1. Clic **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Fai clic su **Munchkin**.
+1. Clic **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Sotto **Tracciamento delle persone**, fai clic su **Modifica**.
+1. Sotto **[!UICONTROL Tracciamento persona]**, fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Seleziona **Supporto** e fai clic su **Salva**.
+1. Seleziona **[!UICONTROL Supporto]** e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
-   Dopo aver salvato le modifiche, verrà visualizzato l&#39;aggiornamento.
+   Dopo aver salvato le modifiche, verrà visualizzato l’aggiornamento.
 
    ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >
-   >Si consiglia di supportare la funzione &quot;Do Not Track&quot; (Non tenere traccia). In Europa è la legge!
+   >Si consiglia di supportare la funzione &quot;Do Not Track&quot;. In Europa è la legge!
 
    >[!TIP]
    >
-   >Per saperne di più su &quot;Do Not Track&quot; e su come funziona, visita [questa pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Per ulteriori informazioni su &quot;Do Not Track&quot; e sul suo funzionamento, visita [questa pagina](https://en.wikipedia.org/wiki/Do_Not_Track).

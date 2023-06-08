@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360189
-description: Personalizzare gli URL della pagina di destinazione con un CNAME (amministrazione) - Documenti Marketo - Documentazione del prodotto
+description: Personalizzare gli URL della pagina di destinazione con un CNAME (Amministrazione) - Documentazione di Marketo - Documentazione del prodotto
 title: Personalizzare gli URL della pagina di destinazione con un CNAME (amministrazione)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Anche se Marketo ospita le pagine di destinazione, l’URL deve essere personali
 >
 >CNAME con marchio:
 >
->https://go.**Società** com/UnsuscribePage.html
+>https://go.**La tua azienda**.com/UnsuscribePage.html
 
 >[!NOTE]
 >
@@ -34,52 +34,52 @@ Prepariamoci!
 
    È la parte anteriore dell&#39;URL. Esempi:
 
-   * **andare**.YourCompany.com/NameOfPage.html
+   * **vai**.YourCompany.com/NameOfPage.html
    * **info**.YourCompany.com/NameOfPage.html
    * **pagine**.YourCompany.com/NameOfPage.html
 
-   La parola (più YourCompany.com) è denominata CNAME. Ne avrete bisogno in un secondo momento, quindi prendete nota.
+   L’unica parola (più YourCompany.com) è denominata CNAME. Ne avrai bisogno in seguito, quindi prendi nota.
 
-1. Trova la stringa account.
+1. Trova la stringa del tuo account.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Fai clic su **Pagine di destinazione**.
+1. Clic **[!UICONTROL Pagine di destinazione]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. Sotto la **Pagine di destinazione** , copia la stringa account dalla sezione Impostazioni.
+1. Sotto **[!UICONTROL Pagine di destinazione]** , copia la stringa dell&#39;account dalla sezione Impostazioni.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
-1. Avrete anche bisogno di questo più tardi, quindi prendete nota di esso.
+1. Ne avrai bisogno anche in seguito, quindi prendi nota.
 
-1. Invia richiesta all&#39;IT.
+1. Invia una richiesta al reparto IT.
 
-1. Chiedi al tuo personale IT di configurare il seguente CNAME (sostituisci la parola [CNAME] e [STRINGA ACCOUNT] con il testo del passaggio precedente):
+1. Chiedi al tuo staff IT di configurare il seguente CNAME (sostituisci la parola [CNAME] e [STRINGA ACCOUNT] con il testo del passaggio precedente):
 
    [CNAME].YourCompany.com > [STRINGA ACCOUNT].mktoweb.com
 
-1. Completa l’impostazione del CNAME.
+1. Completa la configurazione CNAME.
 
-1. Una volta creato il CNAME, torna al **Amministratore** area.
+1. Una volta che il reparto di IT ha creato il CNAME, torna al **[!UICONTROL Amministratore]** area.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Fai clic su **Pagine di destinazione**.
+1. Clic **[!UICONTROL Pagine di destinazione]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Sotto la **Impostazioni** sezione, fai clic su **Modifica**.
+1. Sotto **[!UICONTROL Impostazioni]** , fare clic su **[!UICONTROL Modifica]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Immetti il tuo CNAME in **Nome di dominio per le pagine di destinazione**, inserisci il **Pagina di fallback**, inserisci il **Homepage** e fai clic su **Salva**.
+1. Immetti il CNAME in **[!UICONTROL Nome di dominio per le pagine di destinazione]**, immetti il **[!UICONTROL Pagina di fallback]**, immetti il **[!UICONTROL Homepage]** e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
-La pagina di fallback è il percorso in cui le persone verranno reindirizzate se la pagina di destinazione di Marketo non è disponibile.
+Se la pagina di destinazione di Marketo non è disponibile, le persone verranno reindirizzate alla pagina di fallback.
 
-Bel lavoro! Le pagine di destinazione sono ora contrassegnate con il marchio del dominio aziendale.
+Bel lavoro! Le pagine di destinazione ora sono contrassegnate con il dominio della tua azienda.

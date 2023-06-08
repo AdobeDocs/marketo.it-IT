@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360305
-description: Creazione di una scheda personalizzata per la pagina Dettagli persona - Marketo Docs - Documentazione del prodotto
+description: Creazione di una scheda personalizzata per la pagina dei dettagli della persona - Documenti Marketo - Documentazione del prodotto
 title: Creazione di una scheda personalizzata per la pagina Dettagli persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -12,36 +12,36 @@ ht-degree: 0%
 
 # Creazione di una scheda personalizzata per la pagina Dettagli persona {#creating-a-custom-tab-for-the-person-detail-page}
 
-Se cerchi più volte un insieme specifico di campi nei dettagli delle persone, puoi creare un layout personalizzato per semplificare le cose.
+Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi creare un layout personalizzato per semplificare la ricerca.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Fai clic su **Gestione dei campi**.
+1. Clic **[!UICONTROL Gestione dei campi]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Fai clic sul pulsante **Progettazione layout personalizzato** scheda .
+1. Fai clic su **[!UICONTROL Progettazione layout personalizzati]** scheda.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
-1. Trova un campo da aggiungere, quindi trascinalo nell’area di lavoro.
+1. Trova un campo da aggiungere, quindi trascinalo e rilascialo nell’area di lavoro.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
-1. Continua ad aggiungere campi fino a ottenere il layout desiderato nel modo desiderato.
+1. Continuare ad aggiungere i campi fino a disporre del layout nel modo desiderato.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
    >[!NOTE]
    >
-   >Sono disponibili due colonne con cui lavorare.
+   >Hai due colonne con cui lavorare.
 
-   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo che si desidera rimuovere e fare clic su **Elimina**.
+   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo che si desidera rimuovere e scegliere **[!UICONTROL Elimina]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Lavoro fantastico! Quando carichi i dettagli di una persona, puoi utilizzare il layout personalizzato per accedere alle informazioni più importanti.
+   Ottimo lavoro! Ora, quando carichi i dettagli di una persona, puoi utilizzare il layout personalizzato per accedere alle informazioni che ti interessano.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)
