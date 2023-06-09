@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2360278
-description: Eliminare uno stato del programma da un canale del programma - Documentazione di Marketo - Documentazione del prodotto
+description: Eliminare lo stato di un programma da un canale - Documentazione Marketo - Documentazione del prodotto
 title: Eliminare lo stato di un programma da un canale del programma
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 # Eliminare lo stato di un programma da un canale del programma {#delete-a-program-status-from-a-program-channel}
 
-Gli stati del programma sono i punti di controllo attraverso un percorso del programma (canale). Se si crea uno stato per errore o non è più necessario, puoi cancellarlo liberamente.
+Gli stati dei programmi sono i punti di controllo attraverso un percorso dei programmi (canale). Se per errore crei uno stato o non ne hai più bisogno, puoi eliminarlo.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Fai clic su **Tag**.
+1. Clic **[!UICONTROL Tag]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Selezionare il canale da cui si desidera rimuovere lo stato, quindi in **Azioni tag**, fai clic su **Modifica**.
+1. Seleziona il canale da cui vuoi rimuovere uno stato, quindi in **[!UICONTROL Azioni tag]**, fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Fai clic sul rosso **X** per rimuovere lo stato, fai clic su **Salva**.
+1. Fai clic sul pulsante rosso **X** per rimuovere lo stato, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
    >[!TIP]
    >
-   >Se una persona è attualmente assegnata allo stato in questione, non è possibile eliminarlo, è comunque possibile nasconderlo.
+   >Se una persona è attualmente assegnata allo stato in questione, non è possibile eliminarlo, è tuttavia possibile nasconderlo.
 
-Ben fatto! È inoltre possibile [eliminare un intero canale](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se necessario.
+Ben fatto! È inoltre possibile [eliminare un intero canale](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se è necessario.

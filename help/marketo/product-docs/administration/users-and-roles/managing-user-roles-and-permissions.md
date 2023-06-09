@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Gestione di ruoli e autorizzazioni utente - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione di ruoli utente e autorizzazioni
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -38,19 +38,19 @@ Se utilizzi Marketo con Adobe Identity, l’elenco delle descrizioni del profilo
 
 È possibile assegnare ruoli a un utente quando [creare gli utenti per la prima volta](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o da [modifica di un utente esistente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. Clic **Utenti e ruoli**.
+1. Clic **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. Dall’elenco, seleziona l’utente da modificare e fai clic su **Modifica utente**.
+1. Dall’elenco, seleziona l’utente da modificare e fai clic su **[!UICONTROL Modifica utente]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. Sotto **Ruoli**, seleziona i ruoli da assegnare all’utente in base alle autorizzazioni necessarie e fai clic su **Salva**.
+1. Sotto **[!UICONTROL Ruoli]**, seleziona i ruoli da assegnare all’utente in base alle autorizzazioni necessarie e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -62,23 +62,23 @@ Se utilizzi Marketo con Adobe Identity, l’elenco delle descrizioni del profilo
 
 Talvolta all’interno dell’organizzazione sono presenti dipendenti con ruoli molto specifici che richiedono una combinazione personalizzata di autorizzazioni.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. Clic **Utenti e ruoli**.
+1. Clic **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. Fai clic su **Ruoli** scheda.
+1. Fai clic su **[!UICONTROL Ruoli]** scheda.
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. Clic **Crea Ruolo**.
+1. Clic **[!UICONTROL Crea Ruolo]**.
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. Immetti un **Nome Ruolo**, a **Descrizione** (facoltativo) e seleziona le autorizzazioni necessarie agli utenti di questo ruolo.
+1. Immetti un **[!UICONTROL Nome Ruolo]**, a **[!UICONTROL Descrizione]** (facoltativo) e seleziona le autorizzazioni necessarie agli utenti di questo ruolo.
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -86,23 +86,23 @@ Talvolta all’interno dell’organizzazione sono presenti dipendenti con ruoli 
 
 Se è necessario modificare le autorizzazioni associate a un ruolo esistente, è possibile modificare il ruolo.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. Clic **Utenti e ruoli**.
+1. Clic **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. Fai clic su **Ruoli** scheda.
+1. Fai clic su **[!UICONTROL Ruoli]** scheda.
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. Dall’elenco, seleziona il ruolo da modificare e fai clic su **Modifica Ruolo**.
+1. Dall’elenco, seleziona il ruolo da modificare e fai clic su **[!UICONTROL Modifica Ruolo]**.
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Modificare il **Nome Ruolo** e **Descrizione** se necessario, quindi modificare la selezione di **Autorizzazioni**.
+1. Modificare il **[!UICONTROL Nome Ruolo]** e **[!UICONTROL Descrizione]** se necessario, quindi modificare la selezione di **[!UICONTROL Autorizzazioni]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -114,22 +114,22 @@ Se è necessario modificare le autorizzazioni associate a un ruolo esistente, è
 
 Se un ruolo non è più necessario, è possibile eliminarlo.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. Clic **Utenti e ruoli**.
+1. Clic **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. Fai clic su **Ruoli** scheda.
+1. Fai clic su **[!UICONTROL Ruoli]** scheda.
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. Dall’elenco, seleziona il ruolo da eliminare e fai clic su **Elimina Ruolo**.
+1. Dall’elenco, seleziona il ruolo da eliminare e fai clic su **[!UICONTROL Elimina Ruolo]**.
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. Clic **Elimina** per confermare.
+1. Clic **[!UICONTROL Elimina]** per confermare.
 
    ![](assets/managing-user-roles-and-permissions-19.png)

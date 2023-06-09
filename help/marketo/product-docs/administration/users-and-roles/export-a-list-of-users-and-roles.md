@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2359912
-description: Esportare un elenco di utenti e ruoli - Documenti Marketo - Documentazione del prodotto
+description: Esportare un elenco di utenti e ruoli - Documentazione di Marketo - Documentazione del prodotto
 title: Esportare un elenco di utenti e ruoli
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -16,25 +16,25 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-È abbastanza facile esportare un elenco completo dei tuoi utenti e ruoli utente. Ecco come.
+È piuttosto semplice esportare un elenco completo degli utenti e dei ruoli utente. Ecco come.
 
-1. Vai a **Amministratore**.
+1. Vai a **[!UICONTROL Amministratore]**.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. Fai clic su **Utenti e ruoli**.
+1. Clic **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
-1. Aggiungi/rimuovi le colonne desiderate prima dell’esportazione.
+1. Aggiungere o rimuovere le colonne desiderate prima dell&#39;esportazione.
 
    >[!TIP]
    >
-   >Per esportare i ruoli, vai alla pagina **Ruoli** prima scheda, quindi esporta.
+   >Per esportare i ruoli, vai a **[!UICONTROL Ruoli]** , quindi esporta.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. Fai clic sul pulsante **Esporta** icona.
+1. Fai clic su **[!UICONTROL Esporta]** icona.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

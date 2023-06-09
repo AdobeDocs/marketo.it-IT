@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: Consentire l’accesso degli utenti a un’area di lavoro - Documentazione di Marketo - Documentazione del prodotto
 title: Consentire l’accesso degli utenti a un’area di lavoro
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Le aree di lavoro possono avere qualsiasi motivo (ad esempio, separazione geogra
 >
 >Ulteriori informazioni su [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 
-1. Clic **Utenti e ruoli**.
+1. Clic **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. Sotto **Utenti** , seleziona l’utente e fai clic su **Modifica utente**.
+1. Sotto **[!UICONTROL Utenti]** , seleziona l’utente e fai clic su **[!UICONTROL Modifica utente]**.
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. Seleziona la **Ruolo e area di lavoro** desideri che l’utente abbia accesso a.
+1. Seleziona la **[!UICONTROL Ruoli e aree di lavoro]** desideri che l’utente abbia accesso a.
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

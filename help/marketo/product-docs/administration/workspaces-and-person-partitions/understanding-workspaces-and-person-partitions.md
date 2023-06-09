@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Aree di lavoro e partizioni delle persone - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle aree di lavoro e sulle partizioni delle persone
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Le aree di lavoro sono aree separate in Marketo che contengono risorse di market
 >Alcuni motivi per cui potresti utilizzare un’area di lavoro:
 >
 >* Geografia: i reparti marketing di Europa, Asia e Nord America dispongono ognuno di un’area di lavoro
->* Business Unit: Quicken, Quickbook e TurboTax ottengono ognuno un’area di lavoro
+>* Business Unit: [!DNL Quicken], [!DNL Quickbooks] e [!DNL TurboTax] ciascuno ottiene un’area di lavoro
 >
 >In ogni caso, la separazione è dovuta al fatto che le risorse di marketing sono completamente diverse. Se condividono risorse di marketing, le aree di lavoro potrebbero non essere lo strumento giusto per te.
 
@@ -43,15 +43,15 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 >
 >La cartella principale contenente le risorse è l’unica cartella che può essere condivisa, non le cartelle secondarie.
 
-1. Scegliere Database.
+1. Clic **[!UICONTROL Database]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Fai clic con il pulsante destro del mouse sulla cartella Segmentazione e fai clic su **Nuova cartella**.
+1. Fai clic con il pulsante destro del mouse sulla cartella Segmentazione e fai clic su **[!UICONTROL Nuova cartella]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Denomina la cartella e fai clic su **Crea**.
+1. Denomina la cartella e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **Condividi cartella**.
+1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Condividi cartella]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Seleziona i workspace con cui vuoi condividere la cartella e fai clic su **Salva**. Nella finestra di dialogo Condividi cartella verranno visualizzate solo le aree di lavoro per le quali si dispone dell&#39;autorizzazione di visualizzazione.
+1. Seleziona i workspace con cui vuoi condividere la cartella e fai clic su **[!UICONTROL Salva]**. Nella finestra di dialogo Condividi cartella verranno visualizzate solo le aree di lavoro per le quali si dispone dell&#39;autorizzazione di visualizzazione.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ Le partizioni delle persone si comportano come database separati. Ogni partizion
 >
 >* Le aree di lavoro non dispongono solo di risorse diverse, ma non condividono nemmeno altre persone
 >* Si desiderano duplicati per altri motivi aziendali
-
 
 >[!CAUTION]
 >

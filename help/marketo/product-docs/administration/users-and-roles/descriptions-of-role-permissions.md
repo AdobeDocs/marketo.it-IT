@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descrizioni delle autorizzazioni per il ruolo - Documentazione di Marketo - Documentazione del prodotto
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accedi a Audit Trail: consente agli utenti di accedere sia ad Asset Audit Trail che ad Admin Audit Trail
 * Accesso ai canali: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
 * Limite di comunicazione di accesso: consente agli utenti di abilitare un limite di comunicazione in Admin
-* Accesso al CRM: consente agli utenti di accedere al CRM, ad esempio Salesforce o Microsoft Dynamics, in Admin
-* Accesso [Data.com](https://Data.com) - Consente agli utenti di accedere all’azione di flusso Data.com
+* Accesso al CRM: consente agli utenti di accedere al CRM, ad esempio [!DNL Salesforce] o [!DNL Microsoft Dynamics], in Admin
+* Accesso [[!DNL Data.com]](https://Data.com) - Consente agli utenti di accedere all’azione di flusso Data.com
 * Accedi ad Amministrazione e-mail: consente agli utenti di accedere ad Amministratore e-mail per modificare le impostazioni predefinite, ad esempio i domini di annullamento dell’abbonamento e di branding
 * Accesso ai partner eventi: consente agli utenti di accedere a LaunchPoint in Admin
 * Accesso alla gestione dei campi: consente agli utenti di accedere alla gestione dei campi in Admin
@@ -45,7 +45,7 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Impostazioni di accesso - Consente agli utenti di accedere alle impostazioni di accesso in Amministratore per sicurezza, restrizioni IP e impostazioni dei rapporti degli elenchi avanzati
 * Accedi all’attività personalizzata di Marketo: consente agli utenti di accedere alle attività personalizzate di Marketo in Amministratore
 * Accedi a oggetto personalizzato Marketo: consente agli utenti di accedere a oggetti personalizzati Marketo in Amministrazione
-* Accesso a Munchkin: gli utenti di GIves accedono a Munchkin in amministratore per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
+* Accesso [!DNL Munchkin] - Accesso degli utenti di GIves a [!DNL Munchkin] in Admin, per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
 * Accedere ad Analytics per il ciclo dei ricavi: consente agli utenti di accedere ad Analytics per il ciclo dei ricavi in Admin, per impostare Riepilogo sincronizzazione e Attribuzione
 * Ruoli di accesso: consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
 * Accedi a Sales Insight: consente agli utenti di gestire Sales Insight in Admin (Amministrazione) per impostare lo stato, la configurazione API, il punteggio persona e altre impostazioni

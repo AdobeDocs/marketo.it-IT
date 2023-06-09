@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: Assegnazione di partizioni persona con regole di assegnazione - Documenti Marketo - Documentazione del prodotto
 title: Assegnazione di partizioni persona con regole di assegnazione
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -26,19 +26,19 @@ Quando si utilizzano le partizioni persona, impostare le regole di assegnazione 
 >
 >Solo le persone create in Marketo dal CRM e tramite l’API SOAP avranno regole di assegnazione applicate.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Clic **Aree di lavoro e partizioni**.
+1. Clic **[!UICONTROL Aree di lavoro e partizioni]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Sotto **Partizioni persone** , fare clic su **Regole di assegnazione**.
+1. Sotto **[!UICONTROL Partizioni della persona]** , fare clic su **[!UICONTROL Regole di assegnazione]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Clic **Aggiungi scelta** per aggiungere le condizioni per instradare le persone nelle partizioni personali.
+1. Clic **[!UICONTROL Aggiungi scelta]** per aggiungere le condizioni per instradare le persone nelle partizioni personali.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ Quando si utilizzano le partizioni persona, impostare le regole di assegnazione 
    >
    >Puoi aggiungere tutte le scelte che ti piacciono.
 
-1. Clic **Salva**.
+1. Clic **[!UICONTROL Salva]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

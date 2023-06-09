@@ -2,7 +2,7 @@
 description: Verifica e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Verifica e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Gli utenti riceveranno il seguente messaggio e-mail quando la verifica e-mail vi
 
 >[!NOTE]
 >
->Per inviare di nuovo un messaggio e-mail di verifica a un utente non verificato, selezionane il record e fai clic su **Verifica e-mail** pulsante.
+>Per inviare di nuovo un messaggio e-mail di verifica a un utente non verificato, selezionane il record e fai clic su **[!UICONTROL Verifica e-mail]** pulsante.
 
 ## Modifica di un indirizzo e-mail {#changing-an-email-address}
 
-Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail che consentirà di eseguire nuovamente la verifica. Gli utenti possono inviare nuovamente tale e-mail facendo clic su **Invia di nuovo la verifica**.
+Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail che consentirà di eseguire nuovamente la verifica. Gli utenti possono inviare nuovamente tale e-mail facendo clic su **[!UICONTROL Invia di nuovo la verifica]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato.
 
 ## Utenti e ruoli {#users-and-roles}
 
-In entrata **Amministratore** > **Utenti e ruoli**, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
+In entrata **[!UICONTROL Amministratore]** > **[!UICONTROL Utenti e ruoli]**, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
 
 ![](assets/email-verification-4.png)
 
