@@ -1,9 +1,9 @@
 ---
 description: Prompt dei campi - Documentazione di Marketo - Documentazione del prodotto
 title: Prompt dei campi
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,8 @@ Per aggiungere un prompt dei campi, digitare il testo desiderato. Prefettelo con
 `{{! Add sentence that references their industry and role}}`
 
 <p>Gli utenti dovranno sostituire questo testo con la propria personalizzazione prima di poter inviare l’e-mail.
+
+![](assets/field-prompts-1.png)
 
 >[!NOTE]
 >

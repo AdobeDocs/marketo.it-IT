@@ -2,9 +2,9 @@
 description: Verifica e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Verifica e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Verifica e-mail {#email-verification}
 
 Gli abbonamenti Adobe Marketo Engage richiedono a tutti gli utenti non API, inclusi gli amministratori di Marketo Engage, di verificare il proprio indirizzo e-mail. Gli utenti Single Sign-on (SSO) a cui non è assegnato un ruolo di amministratore o a cui è assegnato un ruolo con l’autorizzazione &quot;Ignora SSO&quot; avranno automaticamente la verifica della propria e-mail quando la sottoscrizione viene abilitata con la funzione di verifica e-mail.
+
+## Perché è stata introdotta questa funzione {#why-this-feature-was-introduced}
+
+Il Marketo Engage sta continuando il rollout di Verifica e-mail in preparazione alla migrazione dei clienti alla piattaforma aziendale Adobe, inclusa la migrazione degli utenti agli ID Adobe. Questa funzione migliora la sicurezza degli account utente di Marketo Engage esistenti. Per garantire che un utente del Marketo Engage sia associato all’Adobe ID corretto, gli utenti del Marketo Engage esistenti devono verificare il proprio indirizzo e-mail. Per eseguire la migrazione a un’Adobe ID, l’utente del Marketo Engage deve disporre di un indirizzo e-mail verificato. Se un utente del Marketo Engage non verifica il proprio indirizzo e-mail, non può effettuare la migrazione a un Adobe ID e perderà l’accesso a un abbonamento Marketo al termine della migrazione utente per l’abbonamento.
 
 ## Invito utente {#user-invite}
 
@@ -49,7 +53,7 @@ A un singolo indirizzo e-mail può essere associato un solo account utente. Se a
 * Utilizza una nuova e-mail per l&#39;ID di accesso utente corrente
 * Posticipa la decisione al prossimo accesso
 
-   ![](assets/email-verification-5.png)
+  ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
