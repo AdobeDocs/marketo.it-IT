@@ -2,9 +2,9 @@
 description: Campi dinamici - Documentazione di Marketo - Documentazione del prodotto
 title: Campi dinamici
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ Se invii messaggi di posta elettronica a contatti esistenti in Salesforce, puoi 
 
 Quando aggiungi campi dinamici ai modelli e-mail, puoi aggiungere un valore predefinito che il campo dinamico risolverà se non è disponibile alcun altro valore.
 
-A questo scopo, aggiungi &quot;|&quot; dopo l’etichetta del campo dinamico, quindi aggiungi &quot;default:&quot;. Quindi, aggiungi il valore in cui vuoi risolvere il campo, se non è possibile trovare un altro valore.
+A questo scopo, aggiungi &quot;|&quot; dopo l’etichetta del campo dinamico, quindi aggiungi &quot;default:&quot; (entrambi senza virgolette). Quindi, aggiungi il valore a cui vuoi risolvere il campo (racchiuso tra virgolette) se non è possibile trovare altri valori.
 
 **Esempio:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## Glossario dei campi dinamici {#dynamic-fields-glossary}
 
