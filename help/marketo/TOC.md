@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
-source-wordcount: '8911'
+source-wordcount: '8920'
 ht-degree: 0%
 
 ---
@@ -1351,6 +1351,7 @@ ht-degree: 0%
                + [Configurazione delle azioni di approfondimento sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Disinstalla Marketo Sales Connect da Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Disinstalla Marketo Sales Connect da Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Aggiorna il campo del tipo di attività durante la registrazione delle attività in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
          + E-mail {#email}
             + Centro comandi {#command-center}
                + [Panoramica sulla ricerca avanzata](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
