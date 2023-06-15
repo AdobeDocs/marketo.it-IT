@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 0%
 
 ---
@@ -1346,11 +1346,11 @@ ht-degree: 0%
                + [Registrazione delle risposte](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostica Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Impostazioni di sincronizzazione Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-            + Configurazione Salesforce {#salesforce-configuration}
-               + [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Configurazione delle azioni di approfondimento sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-               + [Disinstalla il pacchetto di personalizzazione Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Disinstalla il pacchetto di personalizzazione Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+            + Configurazione pacchetto Salesforce {#salesforce-package-configuration}
+               + [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+               + [Configurazione delle azioni di approfondimento sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Disinstalla Marketo Sales Connect da Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+               + [Disinstalla Marketo Sales Connect da Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + E-mail {#email}
             + Centro comandi {#command-center}
                + [Panoramica sulla ricerca avanzata](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
