@@ -1,9 +1,10 @@
 ---
 description: Aggiorna il campo del tipo di attività durante la registrazione delle attività in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Aggiorna il campo del tipo di attività durante la registrazione delle attività in Salesforce
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+exl-id: f65d7d97-ec65-4210-9381-02be788498f9
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -59,4 +60,4 @@ Ora che questa è attiva, inizierai a vedere che il campo Tipo popola il valore 
 >
 >* [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
 >* [Configura personalizzazione dettagli attività Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
->* [Impostazioni di sincronizzazione Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md){target="_blank"}
+>* [Sincronizza attività di vendita con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

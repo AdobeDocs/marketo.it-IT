@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '8920'
+source-wordcount: '8933'
 ht-degree: 0%
 
 ---
@@ -1345,7 +1345,7 @@ ht-degree: 0%
                + [Disconnetti Salesforce Dalle Azioni Di Insight Sulle Vendite](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Registrazione delle risposte](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostica Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Impostazioni di sincronizzazione Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+               + [Sincronizza attività di vendita con Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configurazione pacchetto Salesforce {#salesforce-package-configuration}
                + [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Configurazione delle azioni di approfondimento sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1395,6 +1395,7 @@ ht-degree: 0%
             + [Quali sono i termini di servizio delle azioni Sales Insight?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Perché nessuno dei miei contatti viene inviato alle azioni di approfondimento sulle vendite?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Perché i campi dinamici non vengono compilati?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+            + [Perché le attività di vendita e i campi attività non vengono sincronizzati con Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Perché non è possibile eliminare un contatto?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Perché non tutti i miei contatti sono stati inviati ad azioni di approfondimento sulle vendite?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Perché l’attività di tracciamento non viene visualizzata nell’attività Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)

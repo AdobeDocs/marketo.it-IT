@@ -2,9 +2,9 @@
 description: Sincronizzare i dati relativi alle azioni di vendita con Marketo e Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzare i dati relativi alle azioni di vendita con Marketo e Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1064'
 ht-degree: 1%
 
 ---
@@ -112,13 +112,12 @@ Le azioni di approfondimento sulle vendite consentono agli amministratori di con
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Il diagramma precedente mostra quali informazioni vengono registrate in Salesforce. Attività come e-mail e chiamate vengono registrate in Salesforce in un [sincronizzazione unidirezionale](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Annulla iscrizione](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) e [Attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) vengono mantenuti aggiornati con una sincronizzazione bidirezionale. Ognuna di queste sincronizzazioni dati è configurabile dall’interfaccia dell’app web Sales Insight Actions.
+Il diagramma precedente mostra quali informazioni vengono registrate in Salesforce. Attività come e-mail e chiamate vengono registrate in Salesforce in un [sincronizzazione unidirezionale](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Annulla iscrizione](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) e [Attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) vengono mantenuti aggiornati con una sincronizzazione bidirezionale. Ognuna di queste sincronizzazioni dati è configurabile dall’interfaccia dell’app web Sales Insight Actions.
 
 >[!MORELIKETHIS]
 >
 >* [Sincronizzazione degli annullamenti di abbonamenti con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Verifica annullamento iscrizione Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Impostazioni di sincronizzazione Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Sincronizza attività di vendita con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Sincronizzazione attività promemoria con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Avvia sincronizzazione dati](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-
