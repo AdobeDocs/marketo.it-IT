@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11378814
-description: Elenchi avanzati account - Documenti Marketo - Documentazione del prodotto
+description: Elenchi avanzati account - Documentazione Marketo - Documentazione del prodotto
 title: Elenchi avanzati account
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -12,27 +12,27 @@ ht-degree: 0%
 
 # Elenchi avanzati account {#account-smart-lists}
 
-Ecco come identificare in modo rapido e preciso gli account di alto valore.
+Ecco come identificare in modo rapido e accurato i tuoi account di alto valore.
 
 >[!NOTE]
 >
 >Questa funzione è disponibile solo per coloro che dispongono sia del componente aggiuntivo Gestione account di Target che di una licenza TAM rilasciata.
 
-## Creare un elenco avanzato account {#create-an-account-smart-list}
+## Creare un elenco avanzato dell’account {#create-an-account-smart-list}
 
 1. In Marketo, vai a **Attività di marketing**.
 
    ![](assets/account-smart-lists-1.png)
 
-1. Trova e seleziona il programma desiderato.
+1. Individuare e selezionare il programma desiderato.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Fai clic sul pulsante **Nuovo** a discesa e seleziona **Nuova risorsa locale**.
+1. Fai clic su **Nuovo** a discesa e selezionare **Nuova risorsa locale**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Fai clic su **Elenco avanzato account**.
+1. Clic **Elenco avanzato account**.
 
    ![](assets/account-smart-lists-4.png)
 
@@ -40,17 +40,17 @@ Ecco come identificare in modo rapido e preciso gli account di alto valore.
 
    ![](assets/account-smart-lists-5.png)
 
-Il tuo Account Smart List è stato creato. Vedi sotto per i passaggi per la definizione delle sue regole.
+L&#39;elenco avanzato account è stato creato. Consulta di seguito per i passaggi per definirne le regole.
 
-## Regole di elenco avanzato account {#account-smart-list-rules}
+## Regole per elenchi avanzati account {#account-smart-list-rules}
 
-Gli elenchi smart account funzionano in modo simile agli elenchi smart standard, con un&#39;eccezione notevole: contenitori.
+Gli elenchi avanzati account funzionano in modo simile agli elenchi avanzati standard, con una notevole eccezione: i contenitori.
 
-1. Per definire l’elenco avanzato dell’account, fai clic sul pulsante **Regole di elenco avanzato account** scheda .
+1. Per definire l’elenco avanzato degli account, fai clic su **Regole per elenchi avanzati account** scheda.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Scegli i filtri account desiderati. In questo esempio scegliamo _Il settore sanitario_.
+1. Scegli i filtri account desiderati. In questo esempio stiamo scegliendo _Il settore è quello sanitario_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -58,13 +58,13 @@ Gli elenchi smart account funzionano in modo simile agli elenchi smart standard,
 
    >[!NOTE]
    >
-   >Dati dell&#39;indicatore ICP utilizzati nel [Classificazione e tuning del profilo dell&#39;account](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) verrà visualizzato come Attributi account personalizzati da utilizzare nel tuo Elenco smart account. Questi dati di attributi personalizzati si basano su quando è stato creato/aggiornato il modello di profilo account.
+   >dati degli indicatori ICP utilizzati nel [Classificazione e tuning profilo account](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) verranno visualizzati come attributi dell’account personalizzati da utilizzare nell’elenco avanzato degli account. Questi dati attributo personalizzati si basano su quando è stato creato/aggiornato il modello di profilo account.
 
-1. Scegli i filtri persona corrispondenti. In questo esempio scegliamo _Lo stato è la California_.
+1. Scegli i filtri persona corrispondenti. In questo esempio stiamo scegliendo _Lo stato è la California_.
 
    ![](assets/account-smart-lists-9.png)
 
-**Passaggio facoltativo**: Ecco dove entrano i contenitori. Se scegli un filtro persona aggiuntivo corrispondente, puoi trascinarlo sotto il primo, oppure _in_ creazione di un contenitore. In questo esempio viene creato un contenitore aggiungendo _Il titolo del processo è CFO_.
+**PASSAGGIO FACOLTATIVO**: Ecco dove entrano i contenitori. Se scegli un filtro persona corrispondente aggiuntivo, puoi rilasciarlo sotto il primo, oppure _in_ creando un contenitore. In questo esempio stiamo creando un contenitore aggiungendo _La qualifica è CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -74,34 +74,34 @@ Ecco come apparirà il contenitore.
 
 >[!NOTE]
 >
->La creazione di un contenitore di filtri crea una regola &quot;e&quot;, il che significa che restituisce solo tutti i risultati combinati. In questo esempio, account con un&#39;industria sanitaria, oltre ad essere situato in California _e_ con qualcuno elencato come CFO. Se non desideri utilizzare i contenitori, rilascia semplicemente il filtro sotto o sopra quello esistente.
+>La creazione di un contenitore di filtri crea una regola &quot;e&quot;, che restituisce solo tutti i risultati combinati. In questo esempio, gli account con un settore sanitario, oltre a trovarsi in California _e_ con qualcuno elencato come direttore finanziario. Se non desideri utilizzare i contenitori, rilascia semplicemente il filtro al di sotto/al di sopra di quello esistente.
 
-Ed è tutto! Consulta la sezione seguente per scoprire come sfruttare il tuo Account Smart List.
+Ed è tutto! Consulta la sezione seguente per scoprire come sfruttare il tuo elenco avanzato degli account.
 
 >[!TIP]
 >
->Come per gli elenchi avanzati standard, puoi utilizzare la logica avanzata per perfezionare ulteriormente i risultati. Per farlo, sono necessari almeno tre filtri e in Elenchi avanzati account un contenitore (indipendentemente dal numero di filtri che contiene) è uguale a un filtro.
+>Proprio come con gli elenchi avanzati standard, puoi utilizzare la logica avanzata per perfezionare ulteriormente i risultati. A tale scopo, sono necessari almeno tre filtri e, negli elenchi avanzati account, un contenitore (indipendentemente dal numero di filtri contenuti) equivale a un filtro.
 
-## Azioni di elenco avanzato account {#account-smart-list-actions}
+## Azioni per elenchi avanzati account {#account-smart-list-actions}
 
 Nella scheda Panoramica dell’elenco avanzato account, noterai alcune opzioni di azione.
 
-**Esporta**: In questo modo i risultati dell’elenco avanzato account vengono esportati come CSV.
+**Esporta**: esporta i risultati dell’elenco avanzato dell’account come file CSV.
 
-**Clona**: Crea una copia del tuo Account Smart List.
+**Clona**: crea una copia dell’elenco avanzato dell’account.
 
-**Invia ad Network**: Invia l’elenco a LinkedIn come nuovo pubblico con corrispondenza.
+**Invia ad Ad Network**: invia l’elenco a LinkedIn come nuovo pubblico corrispondente.
 
-Puoi anche fare riferimento al tuo Account Smart List in una Smart Campaign/List standard utilizzando _Persone membro dell’elenco avanzato account_ filtro.
+Puoi anche fare riferimento all’elenco avanzato dell’account in un elenco/campagna avanzato standard utilizzando _Persone Membro dell’elenco avanzato account_ filtro.
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->I risultati del membro persone dell’elenco smart dell’account mostreranno ogni persona negli account identificati, non solo le persone che si trovano tramite filtri a persona abbinata nell’elenco smart dell’account.
+>I risultati dell’elenco avanzato Persone membro dell’account mostreranno tutte le persone negli account identificati, non solo le persone che si trovano tramite i filtri Persona corrispondente nell’elenco avanzato degli account.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->**Persone membro dell’elenco avanzato account**: In questo caso la parola &quot;membro&quot; si riferisce all&#39;account stesso, quindi &quot;membro della gente&quot; significa la persona effettiva (record Marketo) in tali account.
+>**Persone Membro dell’elenco avanzato account**: in questo caso la parola &quot;membro&quot; fa riferimento all’account stesso, quindi &quot;membro persona&quot; indica le persone effettive (record Marketo) in tali account.

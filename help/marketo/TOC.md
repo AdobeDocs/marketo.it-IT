@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '8933'
+source-wordcount: '8958'
 ht-degree: 0%
 
 ---
@@ -634,7 +634,7 @@ ht-degree: 0%
             + [Meeting](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Indirizzamento](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integrazioni {#integrations}
-            + [Connettere Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Connetti Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilizzo della scheda documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogo {#dialogues}
             + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
@@ -1347,11 +1347,15 @@ ht-degree: 0%
                + [Diagnostica Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Sincronizza attività di vendita con Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configurazione pacchetto Salesforce {#salesforce-package-configuration}
-               + [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Configurazione delle azioni di approfondimento sulle vendite in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Disinstalla Marketo Sales Connect da Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Disinstalla Marketo Sales Connect da Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Aggiungi pulsanti di azione alla vista a elenco Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Aggiorna il campo del tipo di attività durante la registrazione delle attività in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+            + Azioni in Salesforce {#actions-in-salesforce}
+               + [Utilizzo dell’e-mail per le vendite in blocco in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+               + [Utilizzo di Bulk Add to Sales Campaign in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-mail {#email}
             + Centro comandi {#command-center}
                + [Panoramica sulla ricerca avanzata](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

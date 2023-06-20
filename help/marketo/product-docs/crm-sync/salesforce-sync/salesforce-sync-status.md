@@ -2,18 +2,18 @@
 description: Stato di sincronizzazione Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Stato di sincronizzazione Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
 # Stato di sincronizzazione Salesforce {#salesforce-sync-status}
 
-Utilizza il dashboard Stato sincronizzazione per visualizzare le statistiche di sincronizzazione come parte dei passaggi di sincronizzazione e del relativo stato di successo.
+Utilizza il dashboard Stato di sincronizzazione per visualizzare le statistiche di sincronizzazione come parte dei passaggi di sincronizzazione e il relativo stato di completamento.
 
-I passaggi di sincronizzazione riflettono le operazioni di push o pull in base a ciascun tipo di oggetto per lo schema dell’oggetto e i dati stessi. Le statistiche coprono nuovi record, aggiornamenti, eliminazioni e conteggi non riusciti durante la sincronizzazione. Gli utenti possono filtrare per data, tipo di operazione o tipo di oggetto. Dashboard di stato sincronizzazione mostra lo stato dei cicli di sincronizzazione per gli ultimi cinque giorni.
+I passaggi di sincronizzazione riflettono le operazioni di push o pull di ciascun tipo di oggetto per lo schema dell’oggetto e i dati stessi. Le statistiche riguardano nuovi record, aggiornamenti, eliminazioni e conteggi di errori durante la sincronizzazione. Gli utenti possono filtrare per data, tipo di operazione o tipo di oggetto. Il dashboard Stato di sincronizzazione mostra lo stato dei cicli di sincronizzazione per gli ultimi cinque giorni.
 
 >[!NOTE]
 >
@@ -21,37 +21,37 @@ I passaggi di sincronizzazione riflettono le operazioni di push o pull in base a
 
 ## Visualizza stato di sincronizzazione {#view-sync-status}
 
-1. Fai clic su **Amministratore**.
+1. Clic **Amministratore**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. In Integrazione, fai clic su Salesforce, quindi sulla scheda Stato sincronizzazione .
+1. In Integrazione, fai clic su Salesforce, quindi sulla scheda Stato di sincronizzazione.
 
    ![](assets/salesforce-sync-status-2.png)
 
-Per impostazione predefinita, le statistiche vengono ordinate in base all’avvio più recente. Per ordinare in base a Inizia o Termina con (dal più recente al meno recente), fai clic sull’icona di ordinamento.
+Per impostazione predefinita, le statistiche vengono ordinate in base all’ultimo avvio. È possibile ordinare in base a Iniziato o Terminato alle, dal più recente al meno recente, facendo clic sull&#39;icona di ordinamento.
 
 ![](assets/salesforce-sync-status-3.png)
 
-## Stato di sincronizzazione del filtro {#filter-sync-status}
+## Filtra stato sincronizzazione {#filter-sync-status}
 
 1. Per filtrare i dati, fai clic sull’icona del filtro posta all’estrema destra della pagina.
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Seleziona l’intervallo di date e ore, quindi fai clic sull’elenco a discesa per filtrare in base al tipo di oggetto, al tipo di operazione e/o al tipo di stato.
+1. Selezionare l&#39;intervallo di date e ore, quindi fare clic sull&#39;elenco a discesa per filtrare in base al tipo di oggetto, al tipo di operazione e/o al tipo di stato.
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Fai clic su **Applica**.
+1. Clic **Applica**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Passaggio facoltativo**: Per esportare gli errori di sincronizzazione, fai clic su **Esporta**. I dati verranno esportati come CSV.
+**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fai clic su **Esporta**. I dati verranno esportati come file CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
-## Campi di stato della sincronizzazione {#sync-status-fields}
+## Sincronizza campi stato {#sync-status-fields}
 
 <table> 
  <colgroup> 
@@ -63,46 +63,46 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
   <tr> 
    <th>Campo</th> 
    <th>Descrizione</th> 
-   <th>Valori Enum</th> 
+   <th>Valori enum</th> 
   </tr> 
   <tr> 
-   <td colspan="1">Inizia a</td> 
+   <td colspan="1">Iniziato alle</td> 
    <td colspan="1">Data/ora di inizio del ciclo di sincronizzazione (fuso orario dell'utente)</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">Terminato a</td> 
-   <td colspan="1">Data/ora di fine del ciclo di sincronizzazione (fuso orario dell’utente)</td> 
+   <td colspan="1">Terminato il</td> 
+   <td colspan="1">Data/ora di fine del ciclo di sincronizzazione (fuso orario dell'utente)</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
    <td colspan="1">Oggetto</td> 
    <td colspan="1">Tipo di oggetto</td> 
-   <td colspan="1">Contatto, Persona, Attività, Opportunità, Lead, Altri come di seguito</td> 
+   <td colspan="1">Contatto, Persona, Attività, Opportunità, Lead, Altri come segue</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Funzionamento</td> 
+   <td colspan="1">Operazione</td> 
    <td colspan="1">Tipo di operazione</td> 
-   <td colspan="1">Tipi di operazioni come sotto</td> 
+   <td colspan="1">Tipi di operazioni:</td> 
   </tr>  
   <tr> 
    <td colspan="1">Stato</td> 
    <td colspan="1">Stato del batch</td> 
-   <td colspan="1">Riuscito, Non riuscito, Incompleto, In corso, Pulito*</td> 
+   <td colspan="1">Operazione riuscita, non riuscita, incompleta, in corso, pulita*</td> 
   </tr>
   <tr> 
    <td colspan="1">Nuovo</td> 
-   <td colspan="1">Conteggio dei nuovi record</td> 
+   <td colspan="1">Numero di nuovi record</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
    <td colspan="1">Aggiornato</td> 
-   <td colspan="1">Conteggio dei record aggiornati</td> 
+   <td colspan="1">Numero di record aggiornati</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
    <td colspan="1">Eliminato</td> 
-   <td colspan="1">Conteggio dei record eliminati</td> 
+   <td colspan="1">Numero di record eliminati</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
@@ -111,14 +111,14 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
    <td colspan="1"><br></td> 
   </tr>  
   <tr> 
-   <td colspan="1">Saltato</td> 
-   <td colspan="1">Numero di record saltati perché non vi sono state modifiche ai campi di interesse per la sincronizzazione</td> 
+   <td colspan="1">Ignorato</td> 
+   <td colspan="1">Numero di record ignorati perché non sono state apportate modifiche ai campi di interesse per la sincronizzazione</td> 
    <td colspan="1"></td> 
   </tr>  
  </tbody> 
 </table>
 
-&#42;I dati sono stati ripristinati allo stato precedente di integrità dopo un errore del passaggio di sincronizzazione.
+&#42;Dati ripristinati allo stato precedente di integrità dopo un errore del passaggio di sincronizzazione.
 
 ## Tipo di oggetto {#object-type}
 
@@ -131,16 +131,16 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
    <td colspan="1">Account</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Tipo di conto</td> 
+   <td colspan="1">Tipo di account</td> 
   </tr> 
   <tr> 
    <td colspan="1">Oggetti personalizzati</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Campaign</td> 
+   <td colspan="1">Campagna</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Stato membro campagna</td> 
+   <td colspan="1">Stato membro della campagna</td> 
   </tr>
   <tr> 
    <td colspan="1">Contatto</td> 
@@ -181,68 +181,68 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’avvi
  <tbody> 
   <tr> 
    <th>Tipo di operazione</th> 
-   <th>Trovato in questi oggetti</th> 
+   <th>Trovato rispetto a questi oggetti</th> 
    <th>Osservazioni</th> 
    <th>Tipo di operazione</th>
   </tr> 
   <tr> 
-   <td colspan="1">Collegamento Init con il programma</td> 
-   <td colspan="1">Campaign</td> 
+   <td colspan="1">Collegamento iniziale con il programma</td> 
+   <td colspan="1">Campagna</td> 
    <td colspan="1">Collegamento di campagne a programmi</td> 
    <td colspan="1">Aggiorna</td>
   </tr>  
   <tr> 
-   <td colspan="1">Conversioni di pull</td> 
+   <td colspan="1">Conversioni pull</td> 
    <td colspan="1">Persona (lead)*</td> 
-   <td colspan="1">Recupera le azioni di conversione da SFDC a Marketo. Unità (numeri): lead che si convertono in contatti</td> 
+   <td colspan="1">Azioni di conversione pull da SFDC a Marketo. Le unità (numeri) sono lead che si convertono in contatti</td> 
    <td colspan="1">Aggiornamento, elemento non riuscito o ignorato</td>
   </tr> 
   <tr> 
-   <td colspan="1">Elimina pull</td> 
+   <td colspan="1">Eliminazioni pull</td> 
    <td colspan="1">Contatto, Persona (lead), Opportunità, Campagna, Membri campagna, Contatto opportunità, Oggetti personalizzati, Campagne, Stato membro campagna, Ruolo contatto opportunità</td> 
-   <td colspan="1">Record eliminati di SFDC sincronizzati con Marketo</td> 
-   <td colspan="1">Eliminato, non riuscito o ignorato</td>
+   <td colspan="1">Record eliminati di SFDC sincronizzati in Marketo</td> 
+   <td colspan="1">Eliminato, Elemento non riuscito o Ignorato</td>
   </tr>  
   <tr> 
    <td colspan="1">Aggiornamenti pull</td> 
-   <td colspan="1">Attività, Persona (Lead), Coda Persona (Lead), Contatto, Evento, Opportunità, Account, Tipo di account, Membri campagna, Oggetti Personalizzati, Campagne, Stato Membro campagna, Eventi, Stato Persona, Opportunità, Ruolo Contatto opportunità</td> 
-   <td colspan="1">Aggiornamenti o nuovi record in SFDC sincronizzati con Marketo, Recupera eventi come attività</td> 
-   <td colspan="1">Nuovo, aggiornato, elemento non riuscito o ignorato</td>
+   <td colspan="1">Attività, Persona (Lead), Persona (Lead) Coda, Contatto, Evento, Opportunità, Account, Tipo Di Account, Membri Della Campagna, Oggetti Personalizzati, Campagne, Stato Membro Della Campagna, Eventi, Stato Persona, Opportunità, Ruolo Contatto Opportunità</td> 
+   <td colspan="1">Aggiornamenti o nuovi record in SFDC sincronizzati in Marketo; pull di eventi come attività</td> 
+   <td colspan="1">Nuovo, aggiornato, non riuscito o saltato</td>
   </tr>  
   <tr> 
    <td colspan="1">Invia nuovo</td> 
-   <td colspan="1">Attività, modelli e-mail</td> 
-   <td colspan="1">Attività push (attività)</td> 
+   <td colspan="1">Attività, Modelli e-mail</td> 
+   <td colspan="1">Attività push</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
    <td colspan="1">Aggiornamenti push</td> 
-   <td colspan="1">Attività, Modelli E-Mail, Persona, Contatto, Campagne</td> 
-   <td colspan="1">Invio di aggiornamenti a SFDC ed eliminazione</td> 
+   <td colspan="1">Attività, Modelli e-mail, Persona, Contatto, Campagne</td> 
+   <td colspan="1">Invio di aggiornamenti a SFDC ed eliminazioni</td> 
    <td colspan="1">Aggiornamento, elemento non riuscito o ignorato</td>
   </tr>  
   <tr> 
-   <td colspan="1">Schema di sincronizzazione</td> 
-   <td colspan="1">Membri della campagna, oggetti personalizzati, campagne, stato membro campagna, attività, persona, opportunità, ruolo contatto opportunità, utenti</td> 
-   <td colspan="1">Sincronizza metadati per oggetti diversi, per decidere quali nuovi campi sincronizzare nel ciclo successivo</td> 
+   <td colspan="1">Sincronizza schema</td> 
+   <td colspan="1">Membri campagna, Oggetti personalizzati, Campagne, Stato membro campagna, Attività, Persona, Opportunità, Ruolo contatto opportunità, Utenti</td> 
+   <td colspan="1">Sincronizza i metadati per oggetti diversi, per decidere quali nuovi campi sincronizzare nel ciclo successivo</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
-   <td colspan="1">Sincronizza con il programma</td> 
+   <td colspan="1">Sincronizza con programma</td> 
    <td colspan="1">Campagne</td> 
    <td colspan="1">Sincronizza il programma Marketo con le campagne SFDC</td> 
-   <td colspan="1">Nuovo, Aggiornamenti, Non riuscito o ignorato</td>
+   <td colspan="1">Nuovo, Aggiornamenti, Non riuscito o Ignorato</td>
   </tr> 
   <tr> 
    <td colspan="1">Aggiornare le attività</td> 
    <td colspan="1">Attività</td> 
-   <td colspan="1">Recupera attività da Salesforce</td> 
+   <td colspan="1">Attività pull da Salesforce</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
    <td colspan="1">Aggiorna FKS</td> 
    <td colspan="1">Tutte</td> 
-   <td colspan="1">Aggiorna la chiave esterna di tutti gli oggetti</td> 
+   <td colspan="1">Aggiorna chiave esterna di tutti gli oggetti</td> 
    <td colspan="1">N/D</td>
   </tr>  
  </tbody> 

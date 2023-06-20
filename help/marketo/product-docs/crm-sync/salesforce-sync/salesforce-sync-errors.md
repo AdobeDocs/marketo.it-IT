@@ -1,8 +1,8 @@
 ---
-description: Errori di sincronizzazione Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Errori di sincronizzazione Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Errori di sincronizzazione Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%
@@ -19,38 +19,38 @@ Visualizza un riepilogo degli errori riscontrati durante il processo di sincroni
 
 ## Visualizza errori di sincronizzazione {#view-sync-errors}
 
-1. Fai clic su **Amministratore**.
+1. Clic **Amministratore**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. In Integrazione, fai clic su **Salesforce**, quindi **Errori di sincronizzazione** scheda .
+1. In Integrazione, fai clic su **Salesforce**, quindi **Errori di sincronizzazione** scheda.
 
    ![](assets/salesforce-sync-errors-2.png)
 
 >[!NOTE]
 >
->Gli errori elencati vanno dall’ora corrente ai cinque giorni precedenti la sincronizzazione corrente.
+>Gli errori elencati vanno dall&#39;ora corrente ai cinque giorni precedenti la sincronizzazione corrente.
 
 | Campo | Descrizione |
 |---|---|
-| Non riuscito | Livello record _o_ Livello di lavoro |
+| Non riuscito il | Livello record _o_ Livello di lavoro |
 | Data/ora dell’errore | Dettagli errore |
-| Tipo di errore | Messaggio di ritorno SFDC |
+| Tipo di errore | Messaggio restituito SFDC |
 
 >[!TIP]
 >
->Facendo clic sul record a livello di record vengono visualizzati gli ID Marketo e Salesforce dell’oggetto correlato. In alcuni casi, il messaggio sugli errori a livello di record e di processo proviene direttamente da Salesforce. La ricerca online può fornire ulteriori dettagli.
+>Facendo clic sul record a livello di record vengono visualizzati gli ID Marketo e Salesforce dell&#39;oggetto correlato. In alcuni casi, il messaggio sul record e gli errori a livello di processo provengono direttamente da Salesforce. Per ulteriori informazioni, vedere Ricerca in linea.
 
-## Errori di sincronizzazione del filtro {#filter-sync-errors}
+## Errori di sincronizzazione filtri {#filter-sync-errors}
 
 1. Per filtrare i dati, fai clic sull’icona del filtro posta all’estrema destra della pagina.
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Seleziona il tuo intervallo di date e ore, quindi filtra per Tipo di errore (Livello di lavoro o Livello di record). Fai clic su **Applica** al termine.
+1. Seleziona l’intervallo di date e ore, quindi filtra per tipo di errore (livello processo o livello record). Clic **Applica** al termine.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Passaggio facoltativo**: Per esportare gli errori di sincronizzazione, fai clic su **Esporta**. I dati verranno esportati come CSV.
+**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fai clic su **Esporta**. I dati verranno esportati come file CSV.
 
 ![](assets/salesforce-sync-errors-5.png)
