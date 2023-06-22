@@ -1,7 +1,7 @@
 ---
 description: Utilizzo dell’invio in blocco di e-mail per le vendite in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo dell’e-mail per le vendite in blocco in Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
    >
    >Per creare una nuova vista, fai clic sull’icona a forma di cono a destra e seleziona **Nuovo**. Dopo aver assegnato alla visualizzazione un nuovo nome e averla salvata, puoi fare clic sull’icona del filtro a destra per passare al set desiderato di lead/contatti da inviare tramite e-mail.
 
-1. Scegliere l&#39;elenco di contatti o di lead desiderato e fare clic su **Invia e-mail vendite** pulsante.
+1. Scegliere l&#39;elenco di contatti o lead desiderato e fare clic su **Invia e-mail vendite** pulsante.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-2.png)
 
@@ -67,6 +67,8 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
    >Per creare una nuova visualizzazione, fare clic su Crea nuova visualizzazione e configurare i filtri disponibili per limitare l&#39;elenco delle persone da aggiungere a una campagna di vendita.
 
 1. Scegliere l&#39;elenco dei contatti o dei lead desiderati e fare clic su **Invia e-mail vendite** pulsante.
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. Passerete alla finestra di composizione Azioni con i destinatari selezionati nella finestra di composizione.
 

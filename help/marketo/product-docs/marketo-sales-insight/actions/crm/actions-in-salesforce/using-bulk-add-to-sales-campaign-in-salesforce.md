@@ -1,7 +1,7 @@
 ---
 description: Utilizzo dell’aggiunta in blocco alla campagna di vendita in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di Bulk Add to Sales Campaign in Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -74,26 +74,28 @@ Dopo aver fatto clic su Start, viene visualizzata una schermata di conferma che 
 
 1. Scegliere l&#39;elenco di contatti o lead desiderato e fare clic su **Aggiungi a campagna di vendita** pulsante.
 
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+
 1. Verrà visualizzata la finestra modale Azioni campagna vendite con le persone selezionate aggiunte.
 
 1. Apporta le modifiche necessarie per rimuovere persone o gruppi, quindi fai clic su **Successivo**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. Selezionare la categoria della campagna di vendita che si desidera utilizzare dal **Categorie** a discesa.
 
 1. Seleziona la campagna di vendita a cui desideri aggiungere le persone selezionate e fai clic su **Successivo**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
 1. Puoi visualizzare opzioni diverse a seconda del primo passaggio della campagna. Se il primo passaggio è un’e-mail, avrai la possibilità di modificare l’e-mail per ciascun destinatario come mostrato di seguito. Al termine, fai clic su **Successivo**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
 1. Anche in questo caso, se il primo passaggio è un’e-mail e l’hai configurato per consentirti di selezionare quando verrà avviata la campagna, avrai la possibilità di **Inizia ora** o **Pianifica un nuovo orario di inizio**. Al termine, fai clic su **Inizio**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
 Dopo aver fatto clic su Start, viene visualizzata una schermata di conferma che consente di sapere quante persone sono state aggiunte.
 
-![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
+![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)
