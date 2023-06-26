@@ -1,54 +1,81 @@
 ---
-description: Panoramica del nome - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica dei nomi
+description: Panoramica di Engagement Canvas - Documentazione di Marketo - Documentazione del prodotto
+title: Panoramica dell’area di lavoro del coinvolgimento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
 
-# Panoramica dei nomi {#name-overview}
+# Panoramica dell’area di lavoro del coinvolgimento {#engagement-canvas-overview}
 
-Puoi visualizzare Smart Campaign con i Percorsi. Il valore dei Percorsi risiede nella capacità di creare campagne riutilizzabili con l’ausilio di elementi visivi intuitivi. Offre piena compatibilità con le versioni precedenti di tutte le campagne intelligenti di Marketo Engage esistenti, senza perdere le funzioni correnti.
+>[!AVAILABILITY]
+>
+>Questa funzione è attualmente disponibile per le campagne avanzate. Non è disponibile per i programmi.
 
-Accesso ai Percorsi: puoi passare a qualsiasi campagna esistente e fare clic sul pulsante &quot;Genera nel Percorso&quot; per accedere alla scheda Percorso
+L’area di lavoro Coinvolgimento consente di creare campagne intelligenti riutilizzabili con l’aiuto di elementi visivi intuitivi. Offre piena compatibilità con le versioni precedenti di tutte le campagne Smart di Marketo Engage esistenti, senza la perdita di funzioni correnti.
 
-Triggers: ogni campagna includerà una scheda &quot;Panoramica trigger&quot;; facendo clic su di essa, si espanderà simultaneamente per mostrare la scheda &quot;Dettagli trigger&quot; e un pannello a tendina con ulteriori informazioni sugli Attivatori.
+SCHERMATA
 
-Filtri: ogni campagna includerà 1 scheda &quot;Panoramica filtri&quot;; facendo clic su questa scheda si aprirà un pannello a tendina con ulteriori informazioni sui filtri.
+## Accesso all’area di lavoro del coinvolgimento {#accessing-engagement-canvas}
 
-Passaggi del flusso: ogni campagna includerà una scheda &quot;Flusso&quot; di serie; facendo clic su questa icona si aprirà un pannello a tendina con ulteriori informazioni sul flusso. Se il passaggio Flusso dispone di opzioni, facendo clic sulla scheda Flusso si espande simultaneamente per visualizzare la scheda &quot;Scelta&quot; e un pannello a tendina con ulteriori informazioni sul passaggio Flusso.
+Passa a una campagna esistente e fai clic su **Area di lavoro del coinvolgimento** pulsante.
 
-Scelte: se un passaggio di flusso include una o più scelte, facendo clic sulla scheda del flusso si espande simultaneamente per visualizzare la scheda delle scelte e il pannello a tendina con ulteriori informazioni sulle scelte incluse nel passaggio di flusso.
+SCHERMATA
 
-Campagne nidificate:
+Una volta nell’area di lavoro Coinvolgimento, vengono visualizzate due schede: [Area di lavoro del coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}.
 
-Se una campagna include il passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda del flusso si espande simultaneamente per visualizzare i dettagli della campagna chiamata diapositiva e del pannello esterno con ulteriori informazioni sul passaggio Flusso. La campagna nidificata includerà anche una pillola di chiusura; facendo clic su questa, le schede associate alla campagna nidificata verranno compresse.
+SCHERMATA
 
-Se una campagna include il passaggio di flusso Richiedi o Esegui campagna con le scelte, facendo clic sulla scheda di flusso si espande simultaneamente per mostrare le scelte e un pannello a tendina con ulteriori informazioni sulle scelte incluse nel passaggio di flusso. Facendo clic su ciascuna scheda di scelta, si espande simultaneamente per mostrare i dettagli della campagna chiamata diapositiva e il pannello esterno con ulteriori informazioni sulla scheda di scelta
+INTESTAZIONE
 
-Inoltre, se una delle campagne nidificate include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda del flusso si espande per visualizzare i dettagli della campagna. Lo stesso vale quando la fase di flusso include delle scelte.
+**Triggers**: nelle campagne che includono trigger, l’area di lavoro avrà una scheda &quot;Panoramica trigger&quot;. Facendo clic su questa icona verrà visualizzata una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
 
-Navigazione superiore
+**Filtri**: nelle campagne che includono filtri, l’area di lavoro conterrà una scheda per ciascuna di esse. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
+
+**Passaggi del flusso**: ogni campagna includerà una scheda per ogni passaggio di flusso. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
+
+**Scelte**: se un passaggio di flusso include una o più scelte, facendo clic sulla scheda del flusso viene visualizzata una scheda per ogni scelta e un pannello a tendina con ulteriori informazioni.
+
+## Campagne nidificate {#nested-campaigns}
+
+* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni. La campagna nidificata includerà anche una pillola di chiusura; facendo clic su questa icona, le schede associate alla campagna nidificata verranno compresse. !!!!!!!!!!!!! - RIPAROLA O RIMOZIONE
+
+* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con scelte, facendo clic sulla scheda di flusso vengono visualizzate una scheda di scelte e un pannello a tendina con ulteriori informazioni sulle scelte. Facendo clic su ciascuna scheda di scelta verranno visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
+
+* Inoltre, se una delle campagne nidificate include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda del flusso verranno visualizzati i dettagli della campagna. Lo stesso vale quando il passaggio di flusso include delle scelte.
+
+## Navigazione superiore {#top-navigation}
+
+SCHERMATA
 
 Il menu di navigazione superiore include le seguenti funzioni:
 
-Nome della campagna e accesso al modale &quot;Modifica campagna&quot;. Puoi modificare il nome e la descrizione della campagna qui.
+!!!!! CONFERMA GRAMMATICALE E SCHERMATA OBSOLETA
 
-Lo stato della campagna e il tipo di campagna saranno riportati sotto il nome della campagna
+* Nome della campagna e accesso al modale &quot;Modifica campagna&quot;. Puoi modificare il nome e la descrizione della campagna qui.
 
-Pulsante Attiva/Disattiva per attivare le campagne
+* Lo stato della campagna e il tipo di campagna saranno riportati sotto il nome della campagna
 
-Modifica elenco avanzato: l’utente passa all’interfaccia Elenco avanzato in una nuova scheda, dove è possibile aggiungere o modificare l’elenco avanzato
+* Pulsante Attiva/Disattiva per attivare le campagne
 
-Modifica flusso: per passare all’interfaccia Flusso in una nuova scheda è possibile aggiungere o modificare l’elenco avanzato
+* Modifica elenco avanzato: l’utente passa all’interfaccia Elenco avanzato in una nuova scheda, dove è possibile aggiungere o modificare l’elenco avanzato
 
-Esportazione: consente di scaricare un’immagine della visualizzazione della campagna. La versione scaricata rifletterà tutti i rami espansi
+* Modifica flusso: per passare all’interfaccia Flusso in una nuova scheda è possibile aggiungere o modificare l’elenco avanzato
 
-Visualizza membri campagna: si apre una nuova scheda con i dettagli dei membri della campagna.
+* Esportazione: consente di scaricare un’immagine della visualizzazione della campagna. La versione scaricata rifletterà tutti i rami espansi
 
-Nota: le modifiche apportate in una scheda Elenco avanzato e Flusso aperta verranno riportate nella scheda Percorsi al momento dell&#39;aggiornamento. Non verrà aggiornato automaticamente.
+* Visualizza membri campagna: si apre una nuova scheda con i dettagli dei membri della campagna.
+
+>[!NOTE]
+>
+>Le modifiche apportate in una scheda Elenco avanzato e Flusso aperta verranno riportate nella scheda Area di lavoro di Engagement al momento dell&#39;aggiornamento. Non verrà aggiornato automaticamente. Verranno applicate le modifiche e gli aggiornamenti salvati automaticamente.
+
+>[!MORELIKETHIS]
+>
+>* [Scheda Area di lavoro coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md){target="_blank"}
+>* [Scheda Impostazioni](/help/marketo/product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md){target="_blank"}

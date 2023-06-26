@@ -4,22 +4,24 @@ title: Scheda Impostazioni
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 1%
 
 ---
 
 # Scheda Impostazioni {#settings-tab}
 
-La scheda Impostazioni è un punto di riferimento unico che include tutte le impostazioni della campagna. Include gli stessi set di autorizzazioni e l’accesso della scheda Pianificazione. Non interromperà le impostazioni di campagna esistenti. Include 3 sezioni e i relativi moduli per modificare ogni sezione.
+La scheda Impostazioni contiene tutte le impostazioni della campagna, inclusi gli stessi set di autorizzazioni e l’accesso della scheda Pianificazione. MODIFICHE IN QUESTA SCHEDA??? Non interromperà le impostazioni di campagna esistenti.
 
-Regole di qualificazione che determinano quante volte ogni persona può eseguire il flusso di Smart Campaign
+Include le tre sezioni seguenti.
 
-Singole esecuzioni che possono essere utilizzate per pianificare esecuzioni singole immediatamente o in futuro
+* **Regole di qualificazione**: determina quante volte ogni persona può eseguire il flusso di Smart Campaign.
 
-Ricorrenza utilizzata per pianificare la ricorrenza giornaliera, settimanale o mensile
+* **Singole esecuzioni**: può essere utilizzato per pianificare esecuzioni singole immediatamente o in futuro.
+
+* **Ricorrenza**: utilizzato per pianificare una ricorrenza giornaliera, settimanale o mensile.
 
 SCHERMATA
 
