@@ -1,19 +1,19 @@
 ---
-description: Utilizzo di un modello nella finestra Componi - Marketo Docs - Documentazione del prodotto
+description: Utilizzo di un modello nella finestra Componi - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo di un modello nella finestra Componi
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Utilizzo di un modello nella finestra Componi {#using-a-template-in-the-compose-window}
 
-## Ricerca e utilizzo di modelli {#finding-and-using-templates}
+## Ricerca e utilizzo dei modelli {#finding-and-using-templates}
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
@@ -25,7 +25,11 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Selezionare una categoria da cercare (oppure selezionare Tutto per cercare in tutte le categorie).
+   >[!TIP]
+   >
+   >È consigliabile aggiungere la categoria &quot;Tutti&quot; per accedere rapidamente alla ricerca nell&#39;intera libreria di modelli, in quanto spesso è necessario eseguire ricerche in tutti i modelli per trovare ciò che si sta cercando. Se hai selezionato una categoria bloccata e fai clic sull’icona di ricerca, per impostazione predefinita la ricerca viene eseguita all’interno della categoria bloccata selezionata.
+
+1. Selezionare una categoria in cui eseguire la ricerca oppure selezionare Tutte per eseguire la ricerca in tutte le categorie.
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -35,31 +39,31 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Quando si seleziona un altro modello, vengono sostituite tutte le informazioni attualmente presenti nell’editor. Se apporti modifiche, accertati di copiarle prima di selezionare un altro modello.
+   >Selezionando un altro modello, tutte le informazioni presenti nell’editor verranno sostituite. Se apporti modifiche, assicurati di copiarle prima di selezionare un altro modello.
 
-## Fissare le categorie di modelli nella finestra Componi {#pinning-template-categories-in-the-compose-window}
+## Aggiunta di categorie di modelli nella finestra Componi {#pinning-template-categories-in-the-compose-window}
 
 Preferito **fino a cinque** categorie di modelli specifiche per accedere rapidamente ai modelli più utilizzati.
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Fai clic sul pulsante **+** accanto a Preferiti.
+1. Fai clic su **+** accanto a Preferiti.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Fai clic sul pulsante **Fissare una categoria** e seleziona la categoria desiderata.
+1. Fai clic su **Fissa una categoria** e selezionare la categoria desiderata.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
-1. Fai clic su **Salva modifiche** al termine (facoltativo: ripetere il passaggio 3 per aggiungere di più).
+1. Clic **Salva modifiche** al termine (facoltativo: ripetere il passaggio 3 per aggiungerne altri).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
    >[!TIP]
    >
-   >È possibile ridisporre le categorie fissate semplicemente trascinandole e rilasciandole prima di salvare le modifiche.
+   >Puoi riorganizzare le categorie bloccate semplicemente trascinandole e rilasciandole prima di salvare le modifiche.
 
    ![](assets/using-a-template-in-the-compose-window-10.png)
 
@@ -67,4 +71,4 @@ Preferito **fino a cinque** categorie di modelli specifiche per accedere rapidam
    >
    >**Preferiti** è presente per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
 
-   La categoria selezionata è ora bloccata.
+   La categoria selezionata è bloccata.

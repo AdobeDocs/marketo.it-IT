@@ -1,35 +1,39 @@
 ---
 unique-page-id: 14352412
-description: Aggiungi identità - Documenti Marketo - Documentazione del prodotto
+description: Aggiungere identità - Documentazione Marketo - Documentazione del prodotto
 title: Aggiungi identità
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # Aggiungi identità {#add-identity}
 
-Aggiungi un’identità quando hai più indirizzi e-mail da cui inviare.
+Aggiungi un’identità quando disponi di più indirizzi e-mail da inviare.
 
-1. Fai clic sull’icona Impostazioni .
+>[!NOTE]
+>
+>L’utilizzo di più identità non è supportato con i canali di consegna Gmail o Outlook/Exchange. Gmail e Outlook/Exchange si autenticano a livello di utente, pertanto verranno inviate solo le e-mail dall’indirizzo e-mail connesso. Per utilizzare più identità con indirizzi e-mail diversi, devi collegare un provider SMTP di terze parti (canale di consegna e-mail) che ti consenta di registrare i domini e-mail da cui inviare. Questo consente agli utenti di connettersi al canale di consegna SMTP e di inviare da qualsiasi indirizzo e-mail, purché si tratti di un dominio registrato.
 
-1. Fai clic su **Impostazioni e-mail**.
+1. Fai clic sull’icona Impostazioni.
 
-1. Fai clic su **Aggiungi identità**.
+1. Clic **Impostazioni e-mail**.
 
-1. Inserisci le tue informazioni (e-mail e nome sono campi obbligatori), fai clic su **Crea** al termine.
+1. Clic **Aggiungi identità**.
 
-1. Fai clic sul collegamento nell’e-mail di verifica che ricevi.
+1. Inserisci le tue informazioni (i campi e-mail e nome sono obbligatori), fai clic su **Crea** al termine.
 
-   Quando invii un&#39;e-mail in Sales Connect, puoi alternare le diverse identità.
+1. Fai clic sul collegamento nell’e-mail di verifica ricevuta.
 
-   >[!NOTE]
-   >
-   >Non esiste alcun limite al numero di identità e-mail che è possibile impostare.
+   Quando invii un’e-mail in Sales Connect, puoi alternare le identità.
 
-   >[!MORELIKETHIS]
-   >
-   >[Aggiungi firma e-mail](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[!NOTE]
+>
+>Non esiste alcun limite al numero di identità e-mail che è possibile impostare.
+
+>[!MORELIKETHIS]
+>
+>[Aggiungere la firma e-mail](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
