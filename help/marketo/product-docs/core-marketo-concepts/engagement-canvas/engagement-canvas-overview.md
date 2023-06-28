@@ -4,9 +4,9 @@ title: Panoramica dell’area di lavoro del coinvolgimento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Una volta nell’area di lavoro Coinvolgimento, vengono visualizzate due schede:
 
 SCHERMATA
 
-INTESTAZIONE
+INTESTAZIONE - DESCRIZIONI DELLE SCHEDE? - LOPA CONFERMERÀ
 
 **Triggers**: nelle campagne che includono trigger, l’area di lavoro avrà una scheda &quot;Panoramica trigger&quot;. Facendo clic su questa icona verrà visualizzata una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
 
@@ -43,7 +43,7 @@ INTESTAZIONE
 
 ## Campagne nidificate {#nested-campaigns}
 
-* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni. La campagna nidificata includerà anche una pillola di chiusura; facendo clic su questa icona, le schede associate alla campagna nidificata verranno compresse. !!!!!!!!!!!!! - RIPAROLA O RIMOZIONE
+* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni. La campagna nidificata includerà anche una pillola di chiusura; facendo clic su questa icona, le schede associate alla campagna nidificata verranno compresse. !!!!!!!!!!!!! - REWORD O REMOVE - LOPA CONFERMERÀ
 
 * Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con scelte, facendo clic sulla scheda di flusso vengono visualizzate una scheda di scelte e un pannello a tendina con ulteriori informazioni sulle scelte. Facendo clic su ciascuna scheda di scelta verranno visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
 
@@ -55,7 +55,7 @@ SCHERMATA
 
 Il menu di navigazione superiore include le seguenti funzioni:
 
-!!!!! CONFERMA GRAMMATICALE E SCHERMATA OBSOLETA
+!!!!! LA SCHERMATA È OBSOLETA - ACQUISISCI UNA NUOVA
 
 * Nome della campagna e accesso al modale &quot;Modifica campagna&quot;. Puoi modificare il nome e la descrizione della campagna qui.
 
@@ -74,6 +74,10 @@ Il menu di navigazione superiore include le seguenti funzioni:
 >[!NOTE]
 >
 >Le modifiche apportate in una scheda Elenco avanzato e Flusso aperta verranno riportate nella scheda Area di lavoro di Engagement al momento dell&#39;aggiornamento. Non verrà aggiornato automaticamente. Verranno applicate le modifiche e gli aggiornamenti salvati automaticamente.
+
+## Domande frequenti {#faq}
+
+LOPA FORNIRÀ
 
 >[!MORELIKETHIS]
 >

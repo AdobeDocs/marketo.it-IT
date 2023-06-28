@@ -4,9 +4,9 @@ title: Scheda Area di lavoro coinvolgimento
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '973'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -83,22 +83,18 @@ SCHERMATA
 
 SCHERMATA
 
-* Se una campagna Execute (Esegui) o Request (Richiedi) include delle scelte, facendo clic sulla scheda del flusso si espande per mostrare tutte le scelte nelle singole schede. Facendo clic sulla scheda di scelta, si espande la campagna associata alla scelta specifica e si apre contemporaneamente il pannello a tendina con le seguenti informazioni:
+* Se una campagna Execute (Esegui) o Request (Richiedi) include delle scelte, facendo clic sulla scheda del flusso si espande per mostrare tutte le scelte nelle singole schede. Facendo clic sulla scheda di scelta si espanderà la campagna associata alla scelta specifica e si visualizzerà un pannello a tendina con le seguenti informazioni:
 
-!!!!!!!!!! CORREZIONE GRAMMATICALE SECONDA FRASE
-
-* Campagna a cui appartiene la scelta
-* Pulsante &quot;Modifica scelta&quot;
-* Elenco delle condizioni di scelta associate alla fase del flusso
-* Pulsante &quot;Visualizza elenco&quot;, che apre un elenco di campagne che utilizzano la specifica campagna di richiesta/esecuzione
+   * Campagna a cui appartiene la scelta
+   * Pulsante &quot;Modifica scelta&quot;
+   * Elenco delle condizioni di scelta associate alla fase del flusso
+   * Pulsante &quot;Visualizza elenco&quot;, che apre un elenco di campagne che utilizzano la specifica campagna di richiesta/esecuzione
 
 SCHERMATA
 
-!!!!!!!!!!!!!!! DI SEGUITO - Aggiungere &quot;a&quot; prima di Nidificare?
+## Visualizzazione di una campagna di esecuzione nidificata {#visualizing-a-nested-execute-campaign}
 
-## Visualizzazione della campagna di esecuzione nidificata {#visualizing-nested-execute-campaign}
-
-MODIFICA QUI INTERROTTA
+MODIFICA QUI INTERROTTA - RITIRA DOPO L&#39;ARRESTO
 
 Eseguire le campagne eseguite in serie con la campagna principale, ovvero i lead idonei per una campagna eseguibile, completare tutti i passaggi di flusso dalla campagna e tornare alla campagna principale per continuare attraverso i passaggi di flusso di questa campagna.
 
