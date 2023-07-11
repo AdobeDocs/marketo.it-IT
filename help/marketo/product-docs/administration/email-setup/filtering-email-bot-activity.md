@@ -2,7 +2,7 @@
 description: Filtraggio dell’attività bot e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Filtraggio dell’attività bot e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
@@ -13,7 +13,7 @@ ht-degree: 14%
 
 A volte, l’attività di bot su e-mail può erroneamente gonfiare le aperture delle e-mail e fare clic sui dati. Per risolvere il problema, segui la procedura riportata di seguito.
 
-Per confermare l’attività da bot usiamo tre metodi separati:
+Per confermare l’attività da bot usiamo due metodi separati:
 
 * Corrispondenza con [Elenco dei bot di Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: le attività che corrispondono a qualcosa nell’elenco IAB UA/IP (agente utente/indirizzo IP) verranno contrassegnate come bot.
 * Corrispondenza con pattern di prossimità: quando più di due attività si verificano contemporaneamente (in meno di un secondo), vengono identificate come bot. Attributi considerati durante il confronto:
