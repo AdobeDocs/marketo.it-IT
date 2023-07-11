@@ -2,7 +2,7 @@
 description: Utilizzo di un modello nella finestra Componi - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo di un modello nella finestra Componi
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -24,10 +24,6 @@ ht-degree: 0%
 1. Fai clic sull’icona di ricerca nella sezione del modello per aprire il campo di ricerca del modello.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
-
-   >[!TIP]
-   >
-   >È consigliabile aggiungere la categoria &quot;Tutti&quot; per accedere rapidamente alla ricerca nell&#39;intera libreria di modelli, in quanto spesso è necessario eseguire ricerche in tutti i modelli per trovare ciò che si sta cercando. Se hai selezionato una categoria bloccata e fai clic sull’icona di ricerca, per impostazione predefinita la ricerca viene eseguita all’interno della categoria bloccata selezionata.
 
 1. Selezionare una categoria in cui eseguire la ricerca oppure selezionare Tutte per eseguire la ricerca in tutte le categorie.
 
@@ -56,6 +52,10 @@ Preferito **fino a cinque** categorie di modelli specifiche per accedere rapidam
 1. Fai clic su **Fissa una categoria** e selezionare la categoria desiderata.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >È consigliabile aggiungere la categoria &quot;Tutti&quot; per accedere rapidamente alla ricerca nell&#39;intera libreria di modelli, in quanto spesso è necessario eseguire ricerche in tutti i modelli per trovare ciò che si sta cercando. Se hai selezionato una categoria bloccata e fai clic sull’icona di ricerca, per impostazione predefinita la ricerca viene eseguita all’interno della categoria bloccata selezionata.
 
 1. Clic **Salva modifiche** al termine (facoltativo: ripetere il passaggio 3 per aggiungerne altri).
 

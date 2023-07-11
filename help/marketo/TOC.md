@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 0%
 
 ---
@@ -1332,7 +1332,6 @@ ht-degree: 0%
             + [La campagna è terminata](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [Creare una campagna di vendita](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Impostazioni campagna di vendita](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [Opzioni di invio della campagna vendite per i passaggi e-mail](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [Tipi di fasi della campagna di vendita e task promemoria](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Visualizza elenco campagne come altro utente](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 0%
             + [È possibile recuperare un contatto o un gruppo eliminato?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Posso tenere traccia di più destinatari con CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Domande frequenti su contenuto e file allegato](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Vengono tracciate le visualizzazioni, i clic e le risposte dei destinatari elencati nelle sezioni CC e Ccn dell’e-mail?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Le azioni Sales Insight hanno un’app iPhone o Android?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Come posso Inserire nell&#39;elenco Consentiti azioni di approfondimento sulle vendite sul mio server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Come posso risolvere il problema &quot;Impossibile autenticare la richiesta&quot; durante la connessione a Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 0%
             + [Perché le attività di vendita e i campi attività non vengono sincronizzati con Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Perché non è possibile eliminare un contatto?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Perché non tutti i miei contatti sono stati inviati ad azioni di approfondimento sulle vendite?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [Perché le mie e-mail vengono contrassegnate come spam?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [Perché La Mia Campagna È Terminata?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [Perché l’attività di tracciamento non viene visualizzata nell’attività Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integrazioni {#integrations}
             + [Integrazione Highspot](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
@@ -1640,7 +1642,7 @@ ht-degree: 0%
          + [Modifica contenuto predittivo per le e-mail](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Modifica contenuto predittivo per contenuti rich media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Modifica contenuto predittivo per la barra dei consigli](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Generazione rapporti {#reporting}
+   + Reporting {#reporting}
       + [Panoramica sul reporting](product-docs/reporting/reporting-overview.md)
       + Reporting di base {#basic-reporting}
          + Creazione di rapporti {#creating-reports}
