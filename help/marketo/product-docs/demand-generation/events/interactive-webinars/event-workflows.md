@@ -2,9 +2,9 @@
 description: Flussi di lavoro per eventi - Documentazione di Marketo - Documentazione del prodotto
 title: Flussi di lavoro eventi
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Il dashboard è costituito da quattro widget.
 
 **Partecipazione**: evidenzia la durata della partecipazione dei vari membri che hanno partecipato al webinar rispetto alla durata complessiva del webinar in termini di percentuale.
 
-**Prestazioni sondaggio**: mostra vari sondaggi lanciati durante il webinar in Adobe Connect e la distribuzione dei membri che hanno partecipato e risposto al sondaggio in ciascuna delle risposte.
+**Prestazioni sondaggio**: mostra vari sondaggi lanciati durante il webinar con tecnologia Adobe Connect e la distribuzione dei membri che hanno partecipato e risposto al sondaggio in ciascuna delle risposte.
 
-**Attività di download dei clic e dei file**: fornisce il numero di download del file e dei collegamenti web su cui hanno fatto clic durante il webinar in Adobe Connect diversi membri che hanno partecipato al webinar e intrapreso tale azione specifica.
+**Attività di download dei clic e dei file**: fornisce il numero di download del file e dei collegamenti web su cui è stato fatto clic durante il webinar con tecnologia Adobe Connect da parte di vari membri che hanno partecipato al webinar e intrapreso tale azione specifica.
 
 ## Trigger e filtri {#triggers-and-filters}
 

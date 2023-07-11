@@ -2,9 +2,9 @@
 description: Panoramica dei webinar interattivi - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Contatta l’Adobe Account Team (il tuo Account Manager) per assistenza.
 
 Sì, puoi controllare quali utenti di Marketo ottengono l’autorizzazione per creare e distribuire webinar interattivi. È accessibile tramite la sezione Webinar interattivi nell’area Amministratore dell’istanza di Adobe Marketo Engage.
 
-**È necessario associare nuovamente il webinar di Adobe Connect al programma di eventi del webinar interattivo, ad esempio ai programmi di eventi Launchpoint?**
+**È necessario associare nuovamente il webinar con tecnologia Adobe Connect al programma di eventi del webinar interattivo, come per i programmi di eventi Launchpoint?**
 
 No, i programmi di eventi di webinar interattivi creano l’associazione per te.
