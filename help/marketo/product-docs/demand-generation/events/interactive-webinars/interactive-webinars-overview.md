@@ -2,9 +2,9 @@
 description: Panoramica dei webinar interattivi - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+source-git-commit: 95751fc45efb135f13fdcc3f57806f9c669e76ad
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -23,21 +23,9 @@ Dopo il webinar, accedi a [analisi delle prestazioni degli eventi](/help/marketo
 
 ## Domande frequenti {#faq}
 
-**È necessaria una licenza Adobe Connect separata per utilizzare i webinar interattivi?**
+**È necessario un abbonamento separato per utilizzare i webinar interattivi?**
 
 No. Per utilizzare i webinar interattivi è necessaria solo una sottoscrizione di Marketo Engage attiva.
-
-**Quali sono le diverse licenze dei webinar interattivi?**
-
-I webinar interattivi hanno tre tipi di licenze.
-
-`1.` Licenza per eventi condivisi: questa licenza è disponibile in diverse capacità dei partecipanti: 500, 1000 e 1500. Contiene un numero limitato di webinar utilizzabili e 3 GB di storage.
-
-`2.` Licenza per camere condivise - Questa licenza è disponibile in diverse capacità dei partecipanti: 200, 500, 1000 e 1500. Contiene un numero illimitato di webinar che possono essere utilizzati e archiviazione illimitata.
-
-`3.` Licenza di storage aggiuntiva: questa licenza contiene storage aggiuntivo (100 GB o 1 TB) che può essere utilizzato in più licenze per eventi condivisi in cui il limite di storage è stato superato.
-
-È possibile acquisire qualsiasi combinazione di queste licenze.
 
 **Ho esaurito il numero di webinar interattivi inclusi. Come posso ottenere più sessioni o più capacità?**
 
