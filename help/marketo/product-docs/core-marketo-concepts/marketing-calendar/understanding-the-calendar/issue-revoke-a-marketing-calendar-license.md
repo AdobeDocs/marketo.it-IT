@@ -1,49 +1,47 @@
 ---
 unique-page-id: 1147255
-description: Rilascio/revoca di una licenza di calendario di marketing - Documenti Marketo - Documentazione del prodotto
-title: Rilascio/revoca di una licenza di calendario di marketing
+description: Rilasciare/revocare una licenza di Marketing Calendar (Calendario di marketing) - Documenti Marketo - Documentazione del prodotto
+title: Rilasciare/revocare una licenza di Marketing Calendar
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# Rilascio/revoca di una licenza di calendario di marketing {#issue-revoke-a-marketing-calendar-license}
+# Rilasciare/revocare una licenza di Marketing Calendar {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Per utilizzare il tuo [Calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) postazioni, è necessario rilasciare licenze agli utenti che necessitano di accesso. Ecco come.
+Per utilizzare [Calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} postazioni, devi rilasciare le licenze agli utenti che hanno bisogno di accedervi. Ecco come.
 
-1. Vai a **Amministratore** sezione .
+1. Vai a **[!UICONTROL Amministratore]** sezione.
 
    ![](assets/adminhand.png)
 
-1. Fai clic su **Utenti e ruoli**.
+1. Clic **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/2.png)
 
-1. Seleziona gli utenti e fai clic su **Rilascio della licenza.**
+1. Seleziona gli utenti e fai clic su **[!UICONTROL Licenza Issue]**.
 
    >[!TIP]
    >
-   >Utilizzo **Ctrl/Comando+clic** per selezionare più utenti contemporaneamente.
+   >Utilizzare **Ctrl/Comando+clic** per selezionare più utenti contemporaneamente.
 
    ![](assets/3.png)
 
-1. Controlla **Abilita licenza** e fai clic su **Salva.**
+1. Verifica **[!UICONTROL Abilita licenza]** e fai clic su **[!UICONTROL Salva]**.
 
    >[!NOTE]
    >
-   >Vi è un limite di 5 licenze. Se hai bisogno di più, contatta il tuo rappresentante commerciale.
+   >È previsto un limite di 5 licenze. Per maggiori informazioni, contatta il tuo rappresentante commerciale.
 
    ![](assets/4.png)
 
-   Ben fatto! Vedi il segno di spunta verde sotto &quot;Calendario?&quot;
+   Ben fatto! Vedi il segno di spunta verde in &quot;Calendario?&quot;
 
    ![](assets/5.png)
-
-Fantastico - Sei pronto a programmare!

@@ -1,40 +1,40 @@
 ---
 unique-page-id: 37355768
-description: Importazione di risorse con Adobe Experience Manager - Documentazione Marketo - Documentazione del prodotto
+description: Importazione di risorse con Adobe Experience Manager - Documentazione di Marketo - Documentazione del prodotto
 title: Importazione di risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Importazione di risorse con Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e importare AEM risorse in Marketo Design Studio. **Sono necessarie le autorizzazioni di amministratore**.
+Asset Selector consente ai clienti di Marketo di accedere, selezionare e importare risorse AEM in Marketo [!DNL Design Studio]. **Sono necessarie le autorizzazioni di amministratore**.
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 >[!PREREQUISITES]
 >
->Assicurati di aver già eseguito le [Configurazione AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Assicurati di aver già eseguito [Configurazione AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Attualmente, questa funzione è supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nell’ultima versione di Chrome, a seconda delle impostazioni dei cookie SameSite.
+>Attualmente, questa funzione è completamente supportata solo in [!DNL Firefox]. Non è supportato in [!DNL Safari]e potrebbe non funzionare nella versione più recente di [!DNL Chrome], a seconda del [!DNL SameSite] impostazioni dei cookie.
 
-1. Fai clic su **Design Studio**.
+1. Clic **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Fai clic sul menu a discesa Nuovo e seleziona **Importazione da Adobe Experience Manager**.
+1. Fai clic sul menu a discesa Nuovo e seleziona **[!UICONTROL Importa da Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
-1. Scegli la cartella in cui verranno salvate le immagini.
+1. Scegliere la cartella in cui salvare le immagini.
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,26 +42,26 @@ Il Selettore risorse consente ai clienti Marketo di accedere, selezionare e impo
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Scegli la tua cartella. Quindi seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Fai clic su **Seleziona** al termine.
+1. Scegli la cartella. Quindi, seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Clic **[!UICONTROL Seleziona]** al termine.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
-   >Le immagini non possono avere dimensioni superiori a 100 MB.
+   >Le immagini non possono superare i 100 MB.
 
-1. Fai clic su **Importa** per completare il processo.
+1. Clic **[!UICONTROL Importa]** per completare il processo.
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   Ed è tutto! Fai clic su **Chiudi** per tornare a Design Studio.
+   Ed è tutto! Clic **[!UICONTROL Chiudi]** per tornare a Design Studio.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## Aspetti da considerare {#things-to-note}
 
-* Marketo supporta attualmente le versioni 6.4 e 6.5 di Adobe Experience Manager.
+* Marketo supporta attualmente Adobe Experience Manager versioni 6.4 e 6.5.
 
-* Tutti gli utenti della tua istanza potranno visualizzare/accedere alle immagini importate.
+* Tutti gli utenti nell’istanza potranno visualizzare/accedere alle immagini importate.
 
-* Le immagini non vengono aggiornate automaticamente. Se un&#39;immagine importata in Marketo Design Studio viene aggiornata in AEM, è necessario reimportarla manualmente in Marketo.
+* Le immagini non vengono aggiornate automaticamente. Se un’immagine importata in Marketo [!DNL Design Studio] viene aggiornato in AEM, è necessario reimportarlo manualmente in Marketo.

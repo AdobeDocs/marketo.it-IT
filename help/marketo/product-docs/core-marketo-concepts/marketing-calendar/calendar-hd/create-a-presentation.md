@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7503971
-description: Creare una presentazione - Documenti Marketo - Documentazione del prodotto
+description: Creazione di una presentazione - Documenti Marketo - Documentazione del prodotto
 title: Creare una presentazione
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 2%
@@ -12,30 +12,30 @@ ht-degree: 2%
 
 # Creare una presentazione {#create-a-presentation}
 
-Crea una presentazione per proiettare le visualizzazioni e gli obiettivi del calendario del tuo team su un HDTV. Presentations è specifico per Workspace.
+Crea una presentazione per proiettare le visualizzazioni e gli obiettivi del calendario del tuo team su una HDTV. Presentations sono specifici per Workspace.
 
 >[!AVAILABILITY]
 >
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
+>Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
 
-1. Vai a **Calendario**.
+1. Vai a **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Fai clic su **Presentazione** nell&#39;angolo in basso a destra.
+1. Clic **[!UICONTROL Presentations]** nell’angolo in basso a destra.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Fai clic su **Azioni di presentazione** e seleziona **Nuova presentazione**.
+1. Clic **[!UICONTROL Azioni di presentazione]** e seleziona **[!UICONTROL Nuova presentazione]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Scegliere un nome per la presentazione. Fai clic su **Crea**.
+1. Scegliere un nome per la presentazione. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   Bel lavoro! Ora è possibile personalizzare la presentazione.
+   Bel lavoro! A questo punto è possibile personalizzare la presentazione.
 
 >[!MORELIKETHIS]
 >

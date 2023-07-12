@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7504130
-description: Creare un obiettivo personalizzato - Documenti Marketo - Documentazione del prodotto
+description: Creare un obiettivo personalizzato - Documentazione di Marketo - Documentazione del prodotto
 title: Creare un obiettivo personalizzato
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -12,38 +12,38 @@ ht-degree: 0%
 
 # Creare un obiettivo personalizzato {#create-a-custom-goal}
 
-Gli obiettivi sono modi per monitorare il progresso e motivare il tuo team. Una volta creati, devono essere aggiornati manualmente.
+Gli obiettivi sono modi per tenere traccia dei progressi e motivare il tuo team. Una volta creati, devono essere aggiornati manualmente.
 
-Come le presentazioni, gli obiettivi sono [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifico.
+Come le presentazioni, gli obiettivi sono [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)specifico di.
 
-1. Vai a **Calendario**.
+1. Vai a **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Fai clic su **Presentazione** nell&#39;angolo in basso a destra.
+1. Clic **[!UICONTROL Presentations]** nell’angolo in basso a destra.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Seleziona la **Obiettivi** scheda .
+1. Seleziona la **[!UICONTROL Obiettivi]** scheda.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Trascinamento della selezione **Obiettivo personalizzato** nell&#39;area di lavoro.
+1. Trascina **[!UICONTROL Obiettivo personalizzato]** nell’area di lavoro.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Immettere un nome per l&#39;obiettivo. Seleziona una **Valuta**.
+1. Immetti un nome per l’obiettivo. Seleziona un **[!UICONTROL Valuta]**.
 
    >[!NOTE]
    >
-   >Se l&#39;obiettivo non è un valore monetario è possibile selezionare **Nessuno**.
+   >Se l’obiettivo non è un valore monetario, puoi selezionare **[!UICONTROL Nessuno]**.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Immetti un valore per la **Target** e **Valore corrente** (se non ce n&#39;è uno, **immetti 0**). Quindi fai clic su **Crea**.
+1. Immetti un valore per **[!UICONTROL Target obiettivo]** e **[!UICONTROL Valore corrente]** (se non esiste, immettere **0**). Quindi fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
-   Il tuo obiettivo personalizzato è stato creato!
+   L&#39;obiettivo personalizzato è stato creato.
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)

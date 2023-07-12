@@ -1,9 +1,9 @@
 ---
 unique-page-id: 1147294
-description: Filtrare il calendario di marketing - Documenti Marketo - Documentazione del prodotto
+description: Filtrare il calendario di marketing - Documentazione di Marketo - Documentazione del prodotto
 title: Filtrare il calendario di marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le informazioni visualizzate nel calendario.
 
-1. Vai al Calendario.
+1. Fai clic su **[!UICONTROL Calendario]** affiancare.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Fai clic sul pulsante **Tipo di voce** a discesa.
+1. Fai clic su **[!UICONTROL Tipo di voce]** a discesa.
 
    >[!NOTE]
    >
-   >I tipi di voce predefiniti saranno **E-mail** **Programmi** e **Smart** **Campagne** **con** **E-mail**.
+   >I tipi di voce predefiniti saranno **[!UICONTROL E-mail]** **[!UICONTROL Programmi]** e **[!UICONTROL Campagne intelligenti con e-mail]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. Scegli i tipi di voce aggiuntivi da visualizzare nel filtro.
+1. Scegli altri tipi di voce da visualizzare nel filtro.
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >Per la descrizione dei tipi di immissione standard, estrarre [Tipi di voci della visualizzazione della pianificazione del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Per le descrizioni dei tipi di voce standard, estrarre [Tipi di voci di visualizzazione della programmazione](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
-1. Selezionare i tag di programma di interesse.
+1. Seleziona i tag del programma che ti interessano.
 
    ![](assets/image2014-9-24-10-3a47-3a5.png)
 
@@ -42,8 +42,8 @@ Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le infor
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Fantastico! Verranno visualizzate solo le voci che si applicano al filtro appena definito.
+   Fantastico! Ora verranno visualizzate solo le voci che si applicano al filtro appena definito.
 
    >[!NOTE]
    >
-   >[Salvataggio di una definizione di filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+   >[Salvataggio di una definizione di filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

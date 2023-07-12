@@ -1,55 +1,55 @@
 ---
 unique-page-id: 42762511
-description: Impostare Adobe Organization Mapping - Marketo Docs - Documentazione del prodotto
-title: Configurare la mappatura dell'organizzazione Adobe
+description: Configurare la mappatura dell’organizzazione Adobe - Documenti Marketo - Documentazione del prodotto
+title: Imposta mapping organizzazione Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-# Configurare la mappatura dell&#39;organizzazione Adobe {#set-up-adobe-organization-mapping}
+# Imposta mapping organizzazione Adobe {#set-up-adobe-organization-mapping}
 
-Per eseguire la sincronizzazione con applicazioni di Adobe, ad Audience Manager il connettore Marketo CDP B2B, la chat dinamica e così via, è necessario prima immettere le credenziali dell’organizzazione Adobe IMS in Marketo.
+Per sincronizzarsi con applicazioni Adobe, come Audience Manager, il connettore Marketo CDP B2B, [!DNL Dynamic Chat], ecc., devi prima immettere le credenziali dell’organizzazione Adobe IMS in Marketo.
 
 >[!NOTE]
 >
->Impossibile utilizzare questa integrazione in una distribuzione HIPAA di un&#39;istanza Marketo.
+>Una distribuzione compatibile con HIPAA di un’istanza Marketo non può utilizzare questa integrazione.
 
 >[!CAUTION]
 >
->Per i clienti che hanno effettuato l’accesso ad Adobe Business Platform e al sistema Identity Management, l’ID organizzazione associato all’abbonamento sarà già popolato ed è un campo di sola lettura.
+>Per i clienti che effettuano l’onboarding in Adobe Business Platform e Identity Management System, l’ID organizzazione associato all’abbonamento sarà già popolato ed è un campo di sola lettura.
 
-1. In Marketo, fai clic su **Amministratore**.
+1. In Marketo, fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. In Integrazione, fai clic su **Mappatura dell&#39;organizzazione di Adobe**.
+1. In Integrazione, fai clic su **[!UICONTROL Mappatura organizzazione Adobe]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
-1. Fai clic su **Modifica**.
+1. Clic **[!UICONTROL Modifica]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Immetti il tuo ID organizzazione Adobe IMS (scopri come trovarlo) [qui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) e fai clic su **OK**.
+1. Immetti l’ID organizzazione Adobe IMS (scopri come trovare [qui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
-1. Fai clic su **Conferma**.
+1. Clic **[!UICONTROL Conferma]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. Fai clic su **Chiudi**.
+1. Fai clic su **[!UICONTROL Chiudi]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
    >[!IMPORTANT]
    >
-   >Per motivi di sicurezza, devi essere un amministratore organizzazione per l’organizzazione Adobe a cui desideri eseguire la mappatura. In caso contrario, l’azione fallirà. Inoltre, l’utente Adobe e l’utente Marketo devono utilizzare lo stesso indirizzo e-mail al momento dell’accesso.
+   >Per motivi di sicurezza, devi essere un amministratore organizzazione per l’organizzazione Adobe a cui desideri mappare. In caso contrario, l’azione avrà esito negativo. Inoltre, l’utente Adobe e l’utente Marketo devono utilizzare lo stesso indirizzo e-mail al momento dell’accesso.
 
-1. Se sei _not_ già connesso, un pop-up apparirà in una nuova scheda/finestra. Accedi alla tua organizzazione Adobe (questa azione convalida l&#39;accesso all&#39;organizzazione).
+1. Se sei _non_ già connesso, verrà visualizzato un pop-up in una nuova scheda/finestra. Accedi all’organizzazione di Adobe (questa azione convalida l’accesso all’organizzazione).
 
-Ed è tutto! Ora puoi [condividere dati sul pubblico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} a, oppure [sincronizzare un pubblico](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} da Adobe Experience Cloud.
+Ed è tutto! Ora puoi [condividere i dati sul pubblico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} to, or [sync an audience](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} da Adobe Experience Cloud.
