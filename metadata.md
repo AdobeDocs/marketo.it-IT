@@ -1,12 +1,13 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Engage
+feature-set: Marketo Engage
 product: marketo
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo.it-IT
 index: true
-source-git-commit: 83318a6cbba230271f048efcc0ef8c13de3141c1
+source-git-commit: fb0e1c3682331083f514b87bcd8c5f0fe45c7ecf
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -16,6 +17,6 @@ ht-degree: 0%
 
 # Metadati per uso interno
 
-Il file metadata.md include metadati a livello di repository che passano ai file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
+Il file metadata.md include metadati a livello di repository che passano attraverso i file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Vedi [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) per un elenco di valori validi per **soluzione**, **prodotto** e **type**.
+Consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) per un elenco di valori validi per **soluzione**, **prodotto**, e **tipo**.
