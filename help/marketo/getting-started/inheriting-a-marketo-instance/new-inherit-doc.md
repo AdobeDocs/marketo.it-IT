@@ -3,16 +3,16 @@ description: Eredita documento - Documentazione Marketo - Documentazione del pro
 title: Eredita documento
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '188'
 ht-degree: 48%
 
 ---
 
 # Eredita documento {#inherit-doc}
 
-Hai ereditato un’istanza di Marketo Engage esistente da un altro amministratore? In caso affermativo, questa guida è destinata a te.
+Hai ereditato un’istanza di Marketo Engage esistente da un altro amministratore? Se è così, questo articolo è per te.
 
 >[!TIP]
 >
