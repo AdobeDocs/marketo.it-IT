@@ -4,7 +4,7 @@ title: Panoramica dell’area di lavoro del coinvolgimento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 60b3abf6639e4a257b37fd3ace3cb5a3a6c318fb
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -43,7 +43,7 @@ INTESTAZIONE - DESCRIZIONI DELLE SCHEDE? - LOPA CONFERMERÀ
 
 ## Campagne nidificate {#nested-campaigns}
 
-* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni. La campagna nidificata includerà anche una pillola di chiusura; facendo clic su questa icona, le schede associate alla campagna nidificata verranno compresse. !!!!!!!!!!!!! - REWORD O REMOVE - LOPA CONFERMERÀ
+* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni. La campagna nidificata includerà anche una pillola di chiusura; facendo clic su questa icona, le schede associate alla campagna nidificata verranno compresse. !!!!!!!!!!!! - REWORD O REMOVE - LOPA CONFERMERÀ
 
 * Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con scelte, facendo clic sulla scheda di flusso vengono visualizzate una scheda di scelte e un pannello a tendina con ulteriori informazioni sulle scelte. Facendo clic su ciascuna scheda di scelta verranno visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
 
