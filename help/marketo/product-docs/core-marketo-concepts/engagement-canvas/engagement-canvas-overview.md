@@ -4,9 +4,9 @@ title: Panoramica dell’area di lavoro del coinvolgimento
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ Il menu di navigazione superiore include le seguenti funzioni:
 
 ## Domande frequenti {#faq}
 
-LOPA FORNIRÀ
+**Devo ricreare tutte le mie campagne in Engagement Canvas?**
+
+No. L’area di lavoro del coinvolgimento è completamente compatibile con le versioni precedenti. Facendo clic su un pulsante, potrai visualizzare tutte le campagne esistenti nell’interfaccia dell’area di lavoro di Coinvolgimento visivo.
+
+**Avere Engagement Canvas in Marketo Engage significa che perderò l’accesso alla struttura delle cartelle e dovrò imparare di nuovo a creare una campagna intelligente?**
+
+No. La cosa fantastica di Engagement Canvas è che ti offre il meglio di entrambi i mondi; è complementare al modo attuale di creare campagne. Puoi scegliere se utilizzare l’interfaccia esistente o generare/visualizzare nella nuova interfaccia. Tutti gli utenti riceveranno comunque il potente set di funzioni del Marketo Engage, ora integrato da uno strumento di creazione visiva.
+
+**Engagement Canvas è un componente aggiuntivo a pagamento?**
+
+No. Tutti gli utenti del Marketo Engage nuovi ed esistenti in tutti gli abbonamenti avranno accesso a questa funzione gratuita.
+
+**In qualità di amministratore di Marketo Engage, sono responsabile dell’attivazione/disattivazione di Engagement Canvas?**
+
+No. L’area di lavoro del coinvolgimento sarà disponibile per tutti gli utenti nelle loro istanze. Non sarà possibile attivarla o disattivarla per determinati utenti, aree di lavoro e così via.
+
+**Tutto ciò che è attualmente disponibile in Smart Campaigns è disponibile anche in Engagement Canvas?**
+
+Sì. L’area di lavoro del coinvolgimento ha parità di funzioni completa con le campagne avanzate.
+
+**In che modo questo è diverso da altri costruttori visivi?**
+
+Sono tre gli elementi chiave che distinguono Engagement Canvas:
+
+* Flessibilità: gestisci e convalida facilmente le campagne interconnesse o fortemente nidificate tramite la visualizzazione.
+
+* Funzionalità: tutti gli elementi visivi sono pronti all’uso, per un utilizzo più semplice; la struttura nidificata consente di immergerti e ottenere l’intera immagine.
+
+* Potenza: mantieni tutta la sofisticazione del Marketo Engage, ora in un formato visivo.
 
 >[!MORELIKETHIS]
 >

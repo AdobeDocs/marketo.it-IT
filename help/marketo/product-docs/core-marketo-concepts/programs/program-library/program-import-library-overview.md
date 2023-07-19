@@ -3,7 +3,8 @@ description: Panoramica della libreria di importazione del programma - Documenta
 title: Panoramica della libreria di importazione del programma
 hide: true
 hidefromtoc: true
-source-git-commit: aa40c14f1c781b43db224bc4b47df16f00e70122
+exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -14,27 +15,27 @@ ht-degree: 0%
 
 Testo introduttivo.
 
-—Informazioni sulla libreria di importazione dei programmi di Marketo Engage qui—
+—Informazioni sulla libreria di importazione del programma di Marketo Engage qui—
 
-* [Gestione del consenso OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md){target="_blank"}
+* [Gestione contenuti operativi](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
 
-* Gestione del recapito messaggi
+* Gestione recapito messaggi OP
 
-* Gestione dei dati OP
+* Gestione dei dati operativi
 
-* API di acquisizione OP
+* API OP-Acquisition
 
-* Punteggio OP-Demografico
+* OP-Scoring-Demografico
 
-* Comportamento del punteggio finale
+* Comportamento con punteggio OP
 
-* Gestione lead OP
+* Gestione OP-Lead
 
-* Richiesta di demo WR-YYYY-MM con Profiling progressivo
+* Richiesta demo WR-YYY-MM-Progressive Profiling
 
-* EM-YYYY-MM-DD-Email Send
+* Invia e-mail AAAA-MM-GG
 
-* NL-YYYY-MM-Newsletter
+* Newsletter NL-YYYY-MM
 
 * EV-YYYY-MM-DD-Event
 
@@ -42,12 +43,12 @@ Testo introduttivo.
 
 * Webinar WBN-YYYY-MM-DD
 
-* OA-YYYY-MM-Pubblicità online con pagina di destinazione di Marketo
+* Pubblicità online OA-YYY-MM-con pagina di destinazione di Marketo
 
-* NUR-YYYY-MM-Semplice
+* NUR-YYYY-MM-Statura semplice
 
-* NUR-YYYY-MM-Avanzata Drip
+* NUR-YYYY-MM-Sviluppo goccia avanzato
 
-* CT-YYYY-MM-Content sulla pagina di destinazione di Marketo
+* Contenuto CT-YYYY-MM sulla pagina di destinazione di Marketo
 
-* CT-YYYY-MM-Content Non-Marketo Pagina di destinazione
+* Pagina di destinazione CT-YYY-MM-Content non-Marketo
