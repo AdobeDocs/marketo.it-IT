@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Area di lavoro del coinvolgimento**: Engagement Canvas è uno strumento visivo che consente di creare e organizzare campagne riutilizzabili. È completamente compatibile con le versioni precedenti, pertanto tutte le campagne esistenti possono essere visualizzate in questa nuova struttura con un clic. Le tele possono essere scaricate e condivise.
+* **Mappa di coinvolgimento**: Engagement Map è uno strumento visivo che consente di creare e organizzare campagne riutilizzabili. È completamente compatibile con le versioni precedenti, pertanto tutte le campagne esistenti possono essere visualizzate in questa nuova struttura con un clic. Le tele possono essere scaricate e condivise.
 
 <table> 
   <tr> 
@@ -34,6 +34,20 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   <tr> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Notifiche - Errore servizi Web**: la notifica di errore dei servizi Web ora include il nome della sottoscrizione, che semplifica la gestione di più istanze di Marketo Engage. È stata aggiunta anche una colonna &quot;Utente&quot; alla tabella che contiene i codici e i conteggi di errore, per identificare facilmente l’utente API responsabile della generazione di un errore specifico durante la chiamata all’API REST di Marketo.
+
+<table> 
+  <tr> 
+   <td><b>Stato</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
+  </tr>
+  <tr> 
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [Informazioni sulle cartelle](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Notifiche](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipi di notifica](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Area di lavoro del coinvolgimento {#engagement-canvas}
-         + [Panoramica dell’area di lavoro del coinvolgimento](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [Scheda Area di lavoro coinvolgimento](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [Scheda Impostazioni](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + Mappa di coinvolgimento {#engagement-map}
+         + [Panoramica di Engagement Map](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [Scheda Mappa di coinvolgimento](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [Scheda Impostazioni](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [Guida introduttiva di Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modelli e informazioni](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -634,7 +634,7 @@ ht-degree: 0%
             + [Riunioni](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Indirizzamento](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integrazioni {#integrations}
-            + [Connetti Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Connettere Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilizzo della scheda documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogo {#dialogues}
             + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
