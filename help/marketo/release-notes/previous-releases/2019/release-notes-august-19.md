@@ -1,52 +1,53 @@
 ---
 unique-page-id: 27656786
-description: Note sulla versione - 19 agosto - Documenti Marketo - Documentazione del prodotto
-title: Note sulla versione - Agosto '19
+description: Note sulla versione -19 agosto - Documentazione Marketo - Documentazione del prodotto
+title: Note sulla versione di Marketing Cloud
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Agosto &#39;19 {#release-notes-august}
+# Note sulla versione: agosto &#39;19 {#release-notes-august}
 
-Le seguenti funzionalità sono incluse nella versione del 19 agosto. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo .
+Le seguenti funzioni sono incluse nella versione di agosto 19. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
 **_Versioni trimestrali_**
 
 Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 
-## Marketo Engage principale {#core-marketo-engage}
+## Marketo Engage core {#core-marketo-engage}
 
-* **Framework di webinar estensibile**: Risparmia tempo con il nuovo framework di webinar preconfigurato di Marketo (introdotto nelle note sulla versione &quot;19&quot; invernale) che trasmette senza problemi i dati dei provider di webinar in Marketo e viceversa. Cvent e Zoom sono ora disponibili in questo nuovo framework.
-* **Aggiornamento API di Smart Campaign**: Gestisci le funzionalità per il ciclo di vita delle campagne avanzate quando si completa l&#39;interfaccia CRUD (creazione, lettura, aggiornamento, eliminazione).
-* **Aggiorna modifica API intestazioni e-mail**: L’API Aggiorna intestazione e-mail non richiede più un’e-mail con un modello allegato per aggiornare i campi di intestazione, ad esempio l’oggetto.
+* **Framework di webinar estensibile**: risparmia tempo con il nuovo framework di webinar predefinito di Marketo (introdotto nelle note sulla versione di Winter ‘19) che trasmette senza problemi i dati dai provider di webinar a Marketo e viceversa. Cvent e Zoom sono ora disponibili in questo nuovo framework.
+* **Aggiornamento API di Smart Campaign**: gestisci le funzionalità avanzate del ciclo di vita delle campagne man mano che completiamo l’interfaccia CRUD (create, read, update, delete).
+* **Modifica API per l’aggiornamento delle intestazioni e-mail**: l’API Update Email Header (Aggiorna intestazione e-mail) non richiede più che a un messaggio e-mail sia allegato un modello per aggiornare i campi dell’intestazione, ad esempio la riga dell’oggetto.
 
 **Account-Based Marketing** ![(stella)](assets/yellow-star.png)
 
-* **Corrispondenza account linkedIn**, in precedenza nella versione beta, ora è generalmente disponibile.
-* **AccountAI** viene ufficialmente riassegnato come **Profilazione account**.
+* **Corrispondenza account linkedIn**, precedentemente in versione beta, è ora generalmente disponibile.
+* **AccountAI** viene ufficialmente rinominato come **Profilo account**.
 
 <br> 
 
-**_Rilascio in tutto il trimestre_**
+**_Rilascio nel corso del trimestre_**
 
-Le seguenti funzionalità sono disponibili su un ciclo non trimestrale e verranno rilasciate durante il terzo trimestre e all’inizio del quarto trimestre 2019.
+Le seguenti funzionalità sono presentate in un ciclo non trimestrale e saranno rilasciate durante il terzo trimestre del calendario e all’inizio del quarto trimestre del 2019.
 
 **Marketo Sales Connect** ![(stella)](assets/yellow-star.png)
 
-* **Miglioramento del layout della pagina Persone:** Gestisci le tue persone e i tuoi gruppi tramite le importazioni di elenchi e le azioni in blocco nel nuovo layout di pagina persone.
+* **Miglioramento del layout di pagina Persone:** Gestisci persone e gruppi tramite importazioni di elenchi e azioni in blocco nel layout della nuova pagina Persone.
 
 >[!AVAILABILITY]
 >
->Caratteristiche indicate da una stella ( ![(stella)](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il tuo rappresentante Marketo.
+>Caratteristiche contrassegnate da una stella ( ![(stella)](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo.
 
 >[!NOTE]
 >
->**Obsolescenza di TLS 1.0 e 1.1**: Per allinearci agli standard di sicurezza di Adobe, il supporto per Transport Layer Security (TLS) 1.0 e 1.1 diventerà obsoleto a partire dal 13 dicembre 2019. I sistemi che si integrano con Marketo e che non sono conformi al protocollo 1.2 potrebbero perdere l&#39;accesso ai servizi di Marketo Engage.
+>**Obsolescenza di TLS 1.0 e 1.1**: per allinearsi allo standard di livello mondiale Adobe per la sicurezza, a partire dal 13 dicembre 2019 verrà dichiarato obsoleto il supporto per TLS (Transport Layer Security) 1.0 e 1.1. I sistemi che si integrano con Marketo non conformi al protocollo 1.2 potrebbero perdere l&#39;accesso ai servizi di Marketo Engage.
 >
->**Per mantenere l’accesso al Marketo Engage, assicurati che tutti i sistemi client siano conformi a TLS 1.2 prima del 13 dicembre 2019**. Informazioni più dettagliate sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Per mantenere l’accesso al Marketo Engage, assicurati che tutti i sistemi client siano conformi a TLS 1.2 prima del 13 dicembre 2019**. Ulteriori informazioni sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar sulla versione del prodotto_** [Unisciti a noi](https://engage.marketo.com/August_19_Release_Webinar.html) il 28 agosto alle 13:00 PT / 4:00PM ET per un webinar live ospitato dal nostro team di prodotto e scopri di più sulle funzioni incluse in questa versione.
+**_Webinar sulla versione del prodotto_** [Partecipa](https://engage.marketo.com/August_19_Release_Webinar.html) il 28 agosto alle 13:00 PT / 16:00 ET per un webinar in diretta ospitato dal nostro team di prodotto e ulteriori informazioni sulle funzioni incluse in questa versione.

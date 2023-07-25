@@ -1,28 +1,29 @@
 ---
 unique-page-id: 2359798
-description: Aggiungere CNAME aggiuntivi per le pagine di destinazione - Documenti Marketo - Documentazione del prodotto
-title: Aggiungi CNAME aggiuntivi per pagine di destinazione
+description: Aggiungere ulteriori CNAME per la pagina di destinazione - Documentazione Marketo - Documentazione del prodotto
+title: Aggiungi altri CNAME per pagina di destinazione
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-# Aggiungi CNAME aggiuntivi per pagine di destinazione {#add-additional-landing-page-cnames}
+# Aggiungi altri CNAME per pagina di destinazione {#add-additional-landing-page-cnames}
 
-Puoi aggiungere CNAME per pagine di destinazione per consentire a URL diversi di puntare alle pagine di destinazione di Marketo. Seguendo i passaggi seguenti potrai gestire più domini.
+Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL diversi di puntare alle pagine di destinazione di Marketo. Segui i passaggi seguenti per gestire più domini.
 
 >[!CAUTION]
 >
->I cookie non sono condivisibili tra i domini.
+>I cookie non sono condivisibili tra domini diversi.
 
 >[!TIP]
 >
->**Stesso dominio di primo livello - Buono! I cookie sono condivisi**.<br/> **andare**.mycompany.com > **info**.miasocietà.com
+>**Stesso dominio di primo livello - Buono! I cookie sono condivisi**.<br/> **vai**.mycompany.com > **info**.mycompany.com
 >
->**Diversi domini di primo livello - Cattivo! I cookie sono _not_ condiviso**.<br/> vai.**mia azienda**.com > vai.**mynewcompany**.com
+>**Domini di primo livello diversi: non valido I cookie sono _non_ condiviso**.<br/> vai.**mia azienda**.com > vai.**mynewcompany**.com
 
 >[!NOTE]
 >
@@ -32,17 +33,17 @@ Puoi aggiungere CNAME per pagine di destinazione per consentire a URL diversi di
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. Fai clic su **Il mio account**.
+1. Clic **Il mio account**.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo Munchkin ID.
+1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo ID Munchkin.
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
-## Invia richiesta all&#39;IT {#send-request-to-it}
+## Invia richiesta al reparto IT {#send-request-to-it}
 
-1. Chiedi al tuo reparto IT di configurare il seguente CNAME: (Sostituisci la parola [CNAME] con il CNAME di tua scelta e [ID Munchkin] con il testo del passaggio precedente).
+1. Chiedi al tuo reparto IT di impostare il seguente CNAME: (Sostituisci la parola [CNAME] con il CNAME desiderato e [ID Munchkin] con il testo del passaggio precedente).
 
    [CNAME].YourCompany.com > [ID Munchkin].mktoweb.com
 
@@ -52,24 +53,24 @@ Puoi aggiungere CNAME per pagine di destinazione per consentire a URL diversi di
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. Fai clic su **Pagine di destinazione**.
+1. Clic **Pagine di destinazione**.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Fai clic su **Nuovo** quindi seleziona **Nuovo alias di dominio**.
+1. Clic **Nuovo** quindi seleziona **Nuovo alias di dominio**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Inserisci il tuo **Alias di dominio.** La **Pagina predefinita** viene visualizzato se il visitatore non inserisce un URL. Inserisci dove dovrebbero andare in quel caso.
+1. Immetti il **Alias di dominio.** Il **Pagina predefinita** viene visualizzato se il visitatore non inserisce un URL. In tal caso, specifica il percorso da seguire.
 
    >[!NOTE]
    >
-   >Per la pagina predefinita, puoi selezionare una pagina di destinazione o un URL esterno, ad esempio il tuo sito web pubblico.
+   >Per Pagina predefinita, puoi selezionare una pagina di destinazione o un URL esterno, ad esempio il sito web pubblico.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Inserisci il tuo **Pagina predefinita** e fai clic su **Crea**.
+1. Immetti il **Pagina predefinita** e fai clic su **Crea**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-Bello! Ora sai cosa fare se vuoi aggiungere un CNAME.
+Bello! Ora sai cosa fare se mai vorrai aggiungere un CNAME.

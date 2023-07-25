@@ -5,7 +5,8 @@ title: Configurazione dell’integrazione di Adobe Experience Manager
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # Configurazione dell’integrazione di Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configura Adobe Experience Manager (AEM) per accedere, selezionare e importare AEM risorse nel Marketo Engage Design Studio.
+Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare e importare le risorse AEM in Marketi Engage Design Studio.
 
 >[!NOTE]
 >
@@ -22,12 +23,11 @@ Configura Adobe Experience Manager (AEM) per accedere, selezionare e importare A
 
 >[!IMPORTANT]
 >
->* Questa integrazione funziona solo con le implementazioni on-premise di AEM e non è supportata per le implementazioni AEM Cloud Service.
+>* Questa integrazione funziona solo con le implementazioni on-premise dell’AEM e non è supportata per le implementazioni AEM Cloud Service.
 >
->* Attualmente, questa funzione è supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nell’ultima versione di Chrome, a seconda delle impostazioni dei cookie SameSite.
+>* Attualmente, questa funzione è completamente supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nella versione più recente di Chrome, a seconda delle impostazioni del cookie SameSite.
 
-
-1. Passa ad Adobe Experience Manager (l’URL è specifico per la tua azienda).
+1. Passa a Adobe Experience Manager (l’URL è specifico per la tua azienda).
 
    ![](assets/one.png)
 
@@ -35,15 +35,15 @@ Configura Adobe Experience Manager (AEM) per accedere, selezionare e importare A
 
    ![](assets/two.png)
 
-1. In **Strumenti**, fai clic su **Operazioni** e seleziona **Console web**.
+1. In entrata **Strumenti**, fai clic su **Operazioni** e seleziona **Console web**.
 
    ![](assets/2a.png)
 
-1. Nel browser, cerca (ctrl+f su Windows, cmd+f su Mac) per &quot;Criteri di condivisione risorse multiorigine di Adobe Granite&quot;.
+1. Nel browser, cerca (Ctrl+F su Windows, Comando+F su Mac) per &quot;Adobe di criteri di condivisione risorse tra le origini di Granite&quot;.
 
    ![](assets/three.png)
 
-1. Fai clic sul pulsante **+** firma a destra.
+1. Fai clic su **+** accedi a destra.
 
    ![](assets/four.png)
 
@@ -55,11 +55,11 @@ Configura Adobe Experience Manager (AEM) per accedere, selezionare e importare A
 
    ![](assets/six.png)
 
-1. In Informazioni server , fai clic sul pulsante **Riavvia** pulsante .
+1. In Informazioni server fare clic su **Riavvia** pulsante.
 
    ![](assets/seven.png)
 
-1. Fai clic su **OK** per confermare.
+1. Clic **OK** per confermare.
 
    ![](assets/eight.png)
 
@@ -71,10 +71,10 @@ Configura Adobe Experience Manager (AEM) per accedere, selezionare e importare A
 
    ![](assets/ten.png)
 
-1. Fai clic su **Modifica**.
+1. Clic **Modifica**.
 
    ![](assets/eleven.png)
 
-1. Inserisci l&#39;URL AEM e fai clic su **OK**.
+1. Inserisci l’URL dell’AEM e fai clic su **OK**.
 
    ![](assets/twelve.png)

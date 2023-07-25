@@ -2,7 +2,8 @@
 description: Gestione di utenti e licenze - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+feature: Interactive Webinars
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -67,7 +68,7 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
 
 <table> 
   <tr> 
-   <td><b>Data di inizio</b></td>
+   <td><b>Data inizio</b></td>
    <td>Data di inizio della licenza.</td>
   </tr>
   <tr> 

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7512463
-description: Eliminare le notifiche push per dispositivi mobili - Documenti Marketo - Documentazione del prodotto
+description: Elimina notifica push mobile - Documentazione Marketo - Documentazione del prodotto
 title: Elimina notifica push mobile
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
-1. Trova e seleziona la notifica push mobile.
+1. Trova e seleziona la notifica push per dispositivi mobili.
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
@@ -30,4 +31,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se la notifica push per dispositivi mobili viene utilizzata da altre risorse, non potrai eliminarla. Devi andare a rimuoverlo dalle risorse.
+   >Se la notifica push per dispositivi mobili è utilizzata da altre risorse, non potrai eliminarla. Devi andare a rimuoverlo dalle risorse.

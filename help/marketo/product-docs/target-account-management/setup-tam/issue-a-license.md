@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11380771
-description: Rilascio di una licenza - Documenti Marketo - Documentazione del prodotto
+description: Rilasciare una licenza - Documenti Marketo - Documentazione del prodotto
 title: Rilasciare una licenza
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -12,24 +13,24 @@ ht-degree: 0%
 
 # Rilasciare una licenza {#issue-a-license}
 
-Per utilizzare TAM dovrai configurare gli utenti con una licenza . Ecco come farlo.
+Devi configurare gli utenti con una licenza per l’utilizzo di TAM. Ecco come farlo.
 
 >[!NOTE]
 >
->Il numero di licenze disponibili varia in base all&#39;abbonamento. Se hai bisogno di più, contatta il tuo rappresentante commerciale.
+>Il numero di licenze disponibili varia in base all’abbonamento. Per maggiori informazioni, contatta il tuo rappresentante commerciale.
 
-1. Fai clic su **Amministratore**.
+1. Clic **Amministratore**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Fai clic su **Utenti e ruoli**. Seleziona l’utente a cui rilasciare la licenza, fai clic sul pulsante **Rilascio della licenza** a discesa e seleziona **Gestione account di Target**.
+1. Clic **Utenti e ruoli**. Selezionare l&#39;utente a cui rilasciare la licenza, fare clic sul pulsante **Licenza Issue** e selezionare **Gestione account di destinazione**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Controlla la **Abilita licenza** seleziona e fai clic su **Salva**.
+1. Controlla la **Abilita licenza** e fai clic su **Salva**.
 
    ![](assets/issue-a-license-3.png)
 
    >[!NOTE]
    >
-   >Per rimuovere la licenza di un utente, segui il passaggio 1, quindi deseleziona la casella di controllo e fai clic su **Salva**.
+   >Per rimuovere la licenza di un utente, seguire il passaggio 1, quindi deselezionare la casella di controllo e fare clic su **Salva**.

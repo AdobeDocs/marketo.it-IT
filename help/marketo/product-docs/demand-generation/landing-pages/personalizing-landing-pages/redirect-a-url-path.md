@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359826
-description: Reindirizzare un percorso URL - Documenti Marketo - Documentazione del prodotto
+description: Reindirizzare un percorso URL - Documentazione Marketo - Documentazione del prodotto
 title: Reindirizzare un percorso URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Reindirizzare un percorso URL {#redirect-a-url-path}
 
-Marketo semplifica il reindirizzamento di un percorso URL a qualsiasi pagina scelta. Ecco come.
+Marketo consente di reindirizzare facilmente un percorso URL a qualsiasi pagina scelta. Ecco come.
 
 >[!NOTE]
 >
@@ -22,11 +23,11 @@ Marketo semplifica il reindirizzamento di un percorso URL a qualsiasi pagina sce
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Fai clic sul pulsante **Regole** scheda , quindi fai clic su **Nuovo** e **Nuova regola di reindirizzamento**.
+1. Fai clic su **Regole** , quindi fai clic su **Nuovo** e **Nuova regola di reindirizzamento**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Fai clic sul primo **URL originale** e seleziona il tuo CNAME Marketo.
+1. Fai clic sul primo **URL originale** e selezionare il proprio Marketo CNAME.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -34,17 +35,17 @@ Marketo semplifica il reindirizzamento di un percorso URL a qualsiasi pagina sce
    >
    >Ricorda che puoi reindirizzare solo gli URL che iniziano con il tuo Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Digita il percorso URL (o pagina specifica) a cui desideri reindirizzare nel secondo **URL originale** campo a destra.
+1. Digita il percorso URL (o una pagina specifica) da reindirizzare nel secondo **URL originale** campo a destra.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Fai clic su **Utilizzare una pagina di destinazione non Marketo**, digita la pagina a cui desideri reindirizzare i visitatori nel **URL di reindirizzamento** e fai clic su **Crea**.
+1. Clic **Usa pagina di destinazione non Marketo**, digita la pagina a cui desideri reindirizzare i visitatori in **URL di reindirizzamento** e fai clic su **Crea**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
    È possibile [utilizzare le pagine di destinazione di Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) come destinazione.
 
-Complimenti. Il percorso URL è stato reindirizzato correttamente.
+Congratulazioni! Hai reindirizzato correttamente il tuo percorso URL.
 
 >[!MORELIKETHIS]
 >

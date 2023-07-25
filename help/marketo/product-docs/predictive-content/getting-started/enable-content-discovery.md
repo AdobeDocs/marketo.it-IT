@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4719190
-description: Abilita individuazione contenuti - Documenti Marketo - Documentazione del prodotto
+description: Abilitare l’individuazione dei contenuti - Documentazione di Marketo - Documentazione del prodotto
 title: Abilita individuazione contenuto
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -12,14 +13,14 @@ ht-degree: 0%
 
 # Abilita individuazione contenuto {#enable-content-discovery}
 
-La funzione Content Discovery individua automaticamente e contrassegna i contenuti già esistenti (inclusi case study, post di blog, video, comunicati stampa, ecc.) dal sito web e tiene traccia del numero di visualizzazioni su questi materiali.  Il contenuto predittivo utilizza il contenuto scoperto, utilizzando l’analisi predittiva per determinare quale sia il contenuto con le prestazioni migliori e consiglia il contenuto migliore alla persona giusta.
+La funzione di individuazione dei contenuti individua e assegna tag automaticamente ai contenuti già esistenti (inclusi casi di studio, post di blog, video, comunicati stampa e così via). dal tuo sito web e tiene traccia del numero di visualizzazioni su questi materiali.  Il contenuto predittivo utilizza il contenuto scoperto, impiegando analisi predittive per determinare quale sia il contenuto con le prestazioni migliori e consiglia il contenuto migliore alla persona giusta.
 
 1. Vai a **Impostazioni contenuto**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Imposta la funzione di individuazione dei contenuti su **On**.
+1. Imposta Content Discovery su **On**.
 
    ![](assets/content-discovery-on-hand.png)
 
-Se si imposta l’opzione Content Discovery su On, verrà automaticamente rilevato un contenuto PDF o video quando un visitatore web fa clic sul file o guarda il video. Questo contenuto (URL, nome del contenuto e URL dell’immagine) viene aggiunto e quindi tracciato nella pagina Tutto il contenuto. Durante la ricerca automatica di un video, scopriamo un video quando un visitatore web clicca e guarda un video incorporato da YouTube, Vimeo o Wistia. Per l’individuazione automatica di altri contenuti, è necessario [creare pattern di contenuto](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).
+Se si imposta l&#39;individuazione del contenuto su Attivato, verrà automaticamente rilevato un contenuto PDF o video quando un visitatore Web fa clic sul file o guarda il video. Questa parte di contenuto (URL, nome del contenuto e URL dell’immagine) viene aggiunta e quindi tracciata nella pagina Tutto il contenuto. Durante la ricerca automatica di un video, viene rilevato un video quando un visitatore web fa clic su e guarda un video incorporato da YouTube, Vimeo o Wistia. Per la ricerca automatica di altri contenuti, è necessario: [creare modelli di contenuto](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).

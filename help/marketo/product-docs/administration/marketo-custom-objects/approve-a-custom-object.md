@@ -3,9 +3,10 @@ unique-page-id: 10094188
 description: Approvare un oggetto personalizzato - Documentazione di Marketo - Documentazione del prodotto
 title: Approvare un oggetto personalizzato
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---

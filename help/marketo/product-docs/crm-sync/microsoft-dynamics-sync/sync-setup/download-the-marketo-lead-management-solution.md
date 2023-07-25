@@ -1,30 +1,31 @@
 ---
 unique-page-id: 6848922
-description: Scarica la soluzione Marketo per la gestione dei lead - Documentazione Marketo - Documentazione del prodotto
-title: Scarica la soluzione Marketo per la gestione dei lead
+description: Scaricare la soluzione di gestione dei lead Marketo - Documentazione Marketo - Documentazione del prodotto
+title: Scarica la soluzione di gestione dei lead Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
-source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# Scarica la soluzione Marketo per la gestione dei lead {#download-the-marketo-lead-management-solution}
+# Scarica la soluzione di gestione dei lead Marketo {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Marketo nel tuo account Microsoft Dynamics.
+Per avviare la sincronizzazione, è necessario scaricare e installare una soluzione Marketo nell&#39;account Microsoft Dynamics.
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente _prima_ esecuzione di qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente _prima di_ esecuzione di qualsiasi aggiornamento.
 
 >[!NOTE]
 >
->Marketo supporta solo i certificati SSL compatibili con Java 7 al momento.
+>Al momento, Marketo supporta solo i certificati SSL compatibili con Java 7.
 
 1. Vai a **Amministratore** area.
 
@@ -46,4 +47,4 @@ Per avviare la sincronizzazione, dovrai scaricare e installare una soluzione Mar
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-Fantastico! Ora sul dispositivo verrà scaricato un file zip della soluzione.
+Fantastico! Ora sul dispositivo viene scaricato un file zip della soluzione.

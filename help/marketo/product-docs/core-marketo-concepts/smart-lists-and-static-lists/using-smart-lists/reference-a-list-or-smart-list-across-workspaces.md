@@ -1,22 +1,23 @@
 ---
 unique-page-id: 4720377
-description: Riferimento a un elenco o a un elenco avanzato nelle aree di lavoro - Marketo Docs - Documentazione del prodotto
-title: Riferimento a un elenco o a un elenco avanzato nelle aree di lavoro
+description: Fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro - Documentazione di Marketo - Documentazione del prodotto
+title: Fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Riferimento a un elenco o a un elenco avanzato nelle aree di lavoro {#reference-a-list-or-smart-list-across-workspaces}
+# Fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro {#reference-a-list-or-smart-list-across-workspaces}
 
-Gli elenchi e gli elenchi smart possono essere condivisi e utilizzati come riferimento tra le aree di lavoro per un facile riutilizzo dal database.
+Gli elenchi e gli elenchi avanzati possono essere condivisi e utilizzati come riferimento in più aree di lavoro per un facile riutilizzo dal database.
 
 >[!NOTE]
 >
->Si applicano le regole di partizione di persona (gli elenchi smart e gli elenchi statici in un&#39;area di lavoro mostrano solo le persone che sono entrambi membri dell&#39;elenco *e* membri dell&#39;area di lavoro corrente).
+>Vengono applicate le regole di partizione della persona (gli elenchi smart e gli elenchi statici in un&#39;area di lavoro mostrano solo gli utenti che sono entrambi membri dell&#39;elenco *e* membri del workspace corrente).
 
 ## Condividere un elenco o un elenco avanzato  {#share-a-list-or-smart-list}
 
@@ -28,19 +29,19 @@ Gli elenchi e gli elenchi smart possono essere condivisi e utilizzati come rifer
 
    >[!NOTE]
    >
-   >Le risorse possono essere condivise tra le aree di lavoro solo se nidificate in una cartella.
+   >Le risorse possono essere condivise tra aree di lavoro solo se sono nidificate in una cartella.
 
    ![](assets/two-4.png)
 
-1. Trascinare un elenco o un elenco smart da condividere nella nuova cartella.
+1. Trascina nella nuova cartella un elenco o un elenco avanzato da condividere.
 
    ![](assets/three-4.png)
 
-1. Fai clic con il pulsante destro del mouse **Nuova cartella** e seleziona **Condividi cartella**.
+1. Clic con il pulsante destro **Nuova cartella** e seleziona **Condividi cartella**.
 
    ![](assets/four-3.png)
 
-1. Scegli un **Area di lavoro** da condividere con. Seleziona **Salva**.
+1. Scegli un **Workspace** da condividere con. Seleziona **Salva**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -48,4 +49,4 @@ Gli elenchi e gli elenchi smart possono essere condivisi e utilizzati come rifer
 
    >[!NOTE]
    >
-   >In Attività di marketing puoi condividere solo cartelle di livello principale. In Database è possibile condividere cartelle di livello superiore e un livello inferiore.
+   >In Attività di marketing, puoi condividere solo cartelle di livello superiore. In Database è possibile condividere cartelle di primo livello e cartelle di livello inferiore.

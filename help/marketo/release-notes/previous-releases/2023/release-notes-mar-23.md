@@ -2,7 +2,8 @@
 description: Note sulla versione - Marzo 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Marzo 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -107,7 +108,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Ruoli e autorizzazioni per Dynamic Chat**: introduce ruoli e autorizzazioni in Dynamic Chat, consentendo agli amministratori di limitare la visibilità e l’utilizzo di diverse aree dell’app a specifici tipi di utenti.
+* **Ruoli e autorizzazioni per il Dynamic Chat**: introduce ruoli e autorizzazioni al Dynamic Chat, consentendo agli amministratori di limitare la visibilità e l’utilizzo di diverse aree dell’app a specifici tipi di utenti.
 
 <table> 
   <tr> 
@@ -121,7 +122,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Chat come canale di programma per la chat dinamica**: crea un nuovo canale del programma &quot;Chat&quot; per monitorare la progressione del programma per le persone acquisite tramite Dynamic Chat. Ad esempio, un addetto marketing dispone di un programma associato a una finestra di dialogo di chat dinamica per acquisire nuovi lead. Ora possono assegnare quel programma al canale Chat in modo da poter monitorare quando i lead sono membri del programma e quando hanno raggiunto il successo.
+* **Chat come canale del programma per il Dynamic Chat**: crea un nuovo canale del programma &quot;Chat&quot; per monitorare la progressione del programma per le persone acquisite dal Dynamic Chat. Ad esempio, un addetto marketing ha un programma associato a una finestra di dialogo di Dynamic Chat per acquisire nuovi lead. Ora possono assegnare quel programma al canale Chat in modo da poter monitorare quando i lead sono membri del programma e quando hanno raggiunto il successo.
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Attributi dedotti per Dynamic Chat**: assicura che i dati IP dedotti (città, stato, paese, ecc.) viene scritto nel record persona per le nuove persone acquisite da Dynamic Chat.
+* **Attributi dedotti per Dynamic Chat**: assicura che i dati IP dedotti (città, stato, paese, ecc.) viene scritto nel record persona per le nuove persone acquisite dal Dynamic Chat.
 
 <table> 
   <tr> 
@@ -149,7 +150,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Supporto linguistico aggiuntivo per Dynamic Chat**: ora puoi scegliere tra nove lingue supportate per visualizzare il contenuto della Dynamic Chat statica in.
+* **Supporto linguistico aggiuntivo per Dynamic Chat**: ora puoi scegliere tra nove lingue supportate per visualizzare il contenuto statico del Dynamic Chat in.
 
 <table> 
   <tr> 
@@ -163,7 +164,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Passa al nodo nell’anteprima di Stream Designer per Dynamic Chat**: dal pannello di anteprima, passa direttamente a un nodo in Progettazione flussi.
+* **Passa al nodo nell&#39;anteprima di Stream Designer per il Dynamic Chat**: dal pannello di anteprima, passa direttamente a un nodo in Progettazione flussi.
 
 <table> 
   <tr> 

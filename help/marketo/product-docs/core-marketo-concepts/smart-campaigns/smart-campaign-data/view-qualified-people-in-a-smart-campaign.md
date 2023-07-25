@@ -1,44 +1,44 @@
 ---
 unique-page-id: 1146966
-description: Visualizzare le persone qualificate in una campagna avanzata - Documenti Marketo - Documentazione del prodotto
-title: Visualizzare le persone qualificate in una campagna avanzata
+description: Visualizzare persone qualificate in una campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
+title: Visualizzare persone qualificate in una campagna avanzata
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Visualizzare le persone qualificate in una campagna avanzata {#view-qualified-people-in-a-smart-campaign}
+# Visualizzare persone qualificate in una campagna avanzata {#view-qualified-people-in-a-smart-campaign}
 
-Visualizza le persone idonee per l’esecuzione di una campagna avanzata durante il flusso.
+Visualizza le persone che si qualificano per seguire il flusso quando esegui una campagna intelligente.
 
-1. Nella campagna intelligente, fai clic su Pianifica. In Stato elenco avanzato, fai clic sul primo collegamento.
+1. Nella tua smart campaign, fai clic su Pianifica. In Stato elenco avanzato, fare clic sul primo collegamento.
 
 ![](assets/qualifedpeople-hands.png)
 
 >[!NOTE]
 >
->Le campagne avanzate di attivazione non visualizzano le persone qualificate, in quanto vengono eseguite in base a eventi live.
+>Le campagne intelligenti Trigger non visualizzano persone qualificate, in quanto vengono eseguite in base a eventi live.
 
-1. La **Persone qualificate** nella scheda vengono elencate le persone idonee per l’esecuzione del flusso durante la campagna.
+1. Il **Persone qualificate** La scheda elenca le persone che si qualificano per passare attraverso il flusso durante l’esecuzione della campagna.
 
    ![](assets/qualifiedpeople-tab.png)
 
    >[!CAUTION]
    >
-   >L&#39;elenco Persone qualificate non tiene conto delle persone bloccate o che hanno raggiunto i limiti di comunicazione.
+   >L’elenco Persone qualificate non tiene conto delle persone bloccate o che hanno raggiunto i limiti di comunicazione.
 
    >[!NOTE]
    >
-   >Il numero di persone qualificate dipende anche dalle regole di qualificazione delle campagne intelligenti. Scopri come [modificare le regole di qualificazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Il numero di persone qualificate dipende anche dalle regole di qualificazione delle campagne intelligenti. Scopri come [modificare le regole di qualifica](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
-Dolce! È possibile utilizzare questo elenco per verificare quali persone potrebbero attraversare il flusso prima di eseguire una campagna intelligente.
+Dolce! Puoi utilizzare questo elenco per verificare quali persone potrebbero attraversare il flusso prima di eseguire una campagna intelligente.
 
 >[!MORELIKETHIS]
 >
->* [Visualizzare i membri di Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [Visualizza membri di Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
 >* [Visualizzare le persone bloccate in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
 >* [Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-

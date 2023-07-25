@@ -1,29 +1,30 @@
 ---
 unique-page-id: 4720224
-description: Modifica aree geografiche - Documentazione Marketo - Documentazione del prodotto
-title: Modifica aree
+description: Modifica aree geografiche - Documentazione di Marketo - Documentazione del prodotto
+title: Modifica aree geografiche
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Modifica aree {#edit-regions}
+# Modifica aree geografiche {#edit-regions}
 
-Desideri modificare le impostazioni internazionali dell’utente per visualizzare solo i dati della tua area geografica specifica?
+Vuoi modificare le impostazioni internazionali dell’utente per visualizzare solo i dati per la tua area geografica specifica?
 
 1. Vai a **Impostazioni utente**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Fai clic su **Modifica aree**.
+1. Clic **Modifica aree geografiche**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
-1. Controlla i tuoi paesi o stati relativi alla tua regione.
+1. Controlla i tuoi paesi o stati correlati alla tua area geografica.
 
 >[!NOTE]
 >
->Selezionando gli Stati Uniti, si aprirà in fondo alla pagina tutte le opzioni degli Stati Uniti da selezionare.
+>Selezionando Stati Uniti, si aprirà nella parte inferiore della pagina tutte le opzioni degli Stati Uniti da selezionare.

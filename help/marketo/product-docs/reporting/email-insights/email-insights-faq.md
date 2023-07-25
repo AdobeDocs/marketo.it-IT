@@ -1,45 +1,46 @@
 ---
 unique-page-id: 10100257
-description: Domande frequenti su Approfondimenti e-mail - Documenti Marketo - Documentazione del prodotto
-title: Domande frequenti su Approfondimenti e-mail
+description: Domande frequenti su Email Insights - Documentazione di Marketo - Documentazione del prodotto
+title: Domande frequenti su Email Insights
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%
 
 ---
 
-# Domande frequenti su Approfondimenti e-mail {#email-insights-faq}
+# Domande frequenti su Email Insights {#email-insights-faq}
 
-## Esistono differenze tra le metriche delle proporzioni con Approfondimenti e-mail e altri rapporti e-mail di Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
+## Esistono differenze tra le metriche del rapporto con Email Insights e altri rapporti e-mail di Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-Sì. E-mail Insights mette in correlazione le metriche di coinvolgimento con le metriche di consegna corrispondenti per la stessa e-mail inviata quando si calcolano i rapporti delle metriche di coinvolgimento (tasso di apertura, tasso di clic-su-apertura, tasso di annullamento sottoscrizione). Ad esempio, in Approfondimenti e-mail, quando osservi un grafico a serie temporale nell’ultima settimana con raggruppamenti giornalieri di Click-to-Open-Rate, ora viene mostrato il rapporto effettivo e correlato degli eventi di apertura/clic/annullamento dell’abbonamento in base alle metriche di consegna corrispondenti. Questo è in contrasto con il comportamento in Revenue Explorer, che semplicemente riassume tutto. E-mail Insights offre una visualizzazione più accurata dei rapporti di coinvolgimento.
+Sì. Email Insights mette in correlazione le metriche di coinvolgimento con le metriche di consegna corrispondenti per la stessa e-mail inviata quando si calcolano i rapporti delle metriche di coinvolgimento (Percentuale di apertura, Percentuale di clic per apertura, Percentuale di annullamento dell’abbonamento). Ad esempio, in Email Insights, quando osservi un grafico a serie temporali nell’ultima settimana con raggruppamenti giornalieri di click-to-open-rate, ora mostriamo il rapporto effettivo correlato tra eventi di apertura, clic e annullamento dell’abbonamento in base alle metriche di consegna corrispondenti. Ciò è in contrasto con il comportamento di Esplora entrate, che semplicemente riassume tutto. Email Insights offre una visualizzazione più precisa dei rapporti di coinvolgimento.
 
-## Perché e-mail Insights supporta solo 10 Dimension personalizzati? {#why-does-email-insights-only-support-custom-dimensions}
+## Perché Email Insights supporta solo 10 Dimension personalizzati? {#why-does-email-insights-only-support-custom-dimensions}
 
-Per molti casi d’uso, l’estensione delle dimensioni di sistema predefinite con 10 dimensioni personalizzate aggiuntive sarà più che adeguata e include dimensioni personalizzate in base a Segmenti o Tag programma. In futuro, consentiremo ai clienti di aumentare il numero di Dimension personalizzati consentiti.
+Per molti casi d’uso, l’estensione delle dimensioni di sistema predefinite con 10 dimensioni personalizzate aggiuntive sarà più che adeguata e includerà dimensioni personalizzate basate su Segmentazioni o Tag programma. In futuro, prevediamo di consentire ai clienti di aumentare il numero di Dimension personalizzati consentiti.
 
-## Perché non è possibile riutilizzare gli slot di Dimension personalizzati dopo che sono stati assegnati? {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
+## Perché non è possibile riutilizzare gli slot Dimension personalizzati dopo averli assegnati? {#why-cant-i-re-use-custom-dimensions-slots-after-theyve-been-assigned}
 
-Una volta allocato uno slot di Dimension personalizzato specifico, la nuova mappatura causerebbe un errore nei dati precedenti quando vengono mescolati con un nuovo significato. Per questo motivo, è possibile che gli slot di Dimension personalizzati non vengano riutilizzati. Questo comportamento è coerente con quello di altri strumenti di analisi delle metriche, come le Google Analytics.
+Una volta allocato uno slot di Dimension personalizzato, la modifica della mappatura causerebbe la generazione di un errore nei dati precedenti in caso di fusione con un nuovo significato. Per questo motivo, gli slot di Dimension personalizzati non possono essere riutilizzati. Questo comportamento è coerente con quello di altri strumenti di analisi metrica, come le Google Analytics.
 
-## E-mail Insights supporta le e-mail Marketo Sales Insight? {#does-email-insights-support-marketo-sales-insight-emails}
+## Email Insights supporta le e-mail di Marketo Sales Insight? {#does-email-insights-support-marketo-sales-insight-emails}
 
-Sì. Tutte le e-mail inviate tramite Marketo Sales Insights sono incluse in Email Insights.
+Sì. Tutte le e-mail inviate tramite Approfondimenti vendite Marketo sono incluse in Approfondimenti e-mail.
 
-## E-mail Insights supporta le e-mail operative? {#does-email-insights-support-operational-emails}
+## Email Insights supporta le e-mail operative? {#does-email-insights-support-operational-emails}
 
-Sì. Per impostazione predefinita, le e-mail operative sono nascoste per visualizzare e interrogare. Tuttavia, puoi modificare questa impostazione nel pannello Impostazioni personali .
+Sì. Per impostazione predefinita, le e-mail operative sono nascoste dalla visualizzazione e dall’esecuzione di query. Tuttavia, potete modificare questa impostazione nel pannello Impostazioni personali.
 
-## Gli approfondimenti e-mail acquisiscono i passaggi ricorrenti pianificati o rieseguiti del flusso di e-mail di Smart Campaign? {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
+## Email Insights acquisisce i passaggi ricorrenti del flusso e-mail pianificati o rieseguiti di Smart Campaign? {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 
-Sì e No. Con la versione iniziale di E-mail Insights, tutti gli eventi e-mail vengono acquisiti e accessibili per qualsiasi campagna avanzata pianificata o rieseguita periodicamente. Ma non sarai in grado di distinguere tra diverse esecuzioni di quella Smart Campaign. Stiamo aggiungendo supporto nella prossima versione per acquisire le informazioni di esecuzione di Smart Campaign per gli eventi Apri, Fai clic e Annulla sottoscrizione al fine di differenziare.
+Sì e No. Con la versione iniziale di Email Insights, tutti gli eventi e-mail vengono acquisiti e accessibili per qualsiasi campagna Smart ricorrente pianificata o rieseguita. Ma non potrai distinguere tra diverse esecuzioni di quella campagna avanzata. Nella prossima versione verrà aggiunto il supporto necessario per acquisire le informazioni di esecuzione di Smart Campaign per gli eventi Apri, Clic e Annulla iscrizione al fine di differenziarli.
 
-## Perché molte metriche mostrano zero quando si filtra per tipo di dispositivo o sistema operativo del dispositivo? {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
+## Perché molte metriche mostrano lo zero quando si filtra per tipo di dispositivo o SO del dispositivo? {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
 
-Ad eccezione di Click-to-Open-Rate, Aperture, Clic e Annulla sottoscrizione, tutte le altre metriche supportate sono eventi di consegna o rapporti derivati da eventi di consegna. Poiché il tipo di dispositivo e il sistema operativo del dispositivo si applicano solo alle metriche di coinvolgimento, non disponiamo semplicemente delle informazioni da visualizzare. Ad esempio, è una query non definita per richiedere il tasso di consegna quando viene filtrato per tipo di dispositivo = mobile, poiché Marketo non avrebbe ricevuto alcuna metrica di coinvolgimento per gli eventi di consegna e invio sottostanti. Stiamo esplorando modi per applicare il tipo di dispositivo e il sistema operativo del dispositivo dalle metriche di coinvolgimento per rapporti comprendenti sia le metriche di coinvolgimento che di consegna.
+Ad eccezione di Tasso di clic per apertura, Aperture, Clic e Annullamenti abbonamenti, tutte le altre metriche supportate sono eventi di consegna o rapporti derivati da eventi di consegna. Poiché il tipo di dispositivo e il sistema operativo del dispositivo si applicano solo alle metriche di coinvolgimento, le informazioni da visualizzare non sono disponibili. Ad esempio, si tratta di una query non definita per richiedere la Percentuale di Consegna quando viene filtrata per Tipo di Dispositivo = mobile, in quanto Marketo non avrebbe ricevuto alcuna metrica di Coinvolgimento per gli eventi di Consegna e Inviato sottostanti. Stiamo esplorando modi per applicare il tipo di dispositivo e il sistema operativo del dispositivo dalle metriche di coinvolgimento per rapporti che comprendono sia le metriche di coinvolgimento che quelle di consegna.
 
-## Cosa fa Email Insights quando determinati client e-mail bloccano le immagini? {#what-does-email-insights-do-when-certain-email-clients-block-images}
+## Cosa fa Email Insights quando alcuni client e-mail bloccano le immagini? {#what-does-email-insights-do-when-certain-email-clients-block-images}
 
-Un problema comune del settore è che un numero crescente di client e-mail sta disattivando le immagini per impostazione predefinita. Il caricamento delle immagini è la base per la registrazione di Aperture . È del tutto possibile che un utente riceva un&#39;e-mail con immagini bloccate, ma con il testo e i collegamenti completamente leggibili. Se un utente ha fatto clic su un collegamento presente nell’e-mail, si finisce per avere uno scenario di un evento Click, ma non un evento Open corrispondente per tale e-mail. Marketo Email Insights genera automaticamente tutti gli eventi mancanti. La logica è identica a quella utilizzata da Marketo per il rapporto Prestazioni e-mail e per l’area Analisi e-mail in Revenue Explorer.
+Un problema comune del settore è che un numero crescente di client e-mail disattivano le immagini per impostazione predefinita. Il caricamento delle immagini è la base per la registrazione delle aperture. È del tutto possibile che un utente riceva un’e-mail con immagini bloccate, ma con il testo e i collegamenti completamente leggibili. Se un utente ha avuto questa esperienza e ha fatto clic su un collegamento in quell’e-mail, si presenterà lo scenario di un evento Click, ma non il corrispondente evento Open per tale e-mail. Marketo Email Insights genererà automaticamente eventuali eventi mancanti. La logica è identica a quella utilizzata da Marketo per il rapporto Prestazioni e-mail e per l’area Analisi e-mail in Revenue Explorer.

@@ -1,8 +1,9 @@
 ---
-description: Abilitare CAPTCHA in Marketo Forms - Documenti Marketo - Documentazione del prodotto
+description: Abilitare il CAPTCHA in Marketo Forms - Documenti Marketo - Documentazione del prodotto
 title: Abilitare CAPTCHA in Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -11,17 +12,17 @@ ht-degree: 0%
 
 # Abilitare CAPTCHA in Marketo Forms {#enable-captcha-in-marketo-forms}
 
-È possibile abilitare/disabilitare il CAPTCHA a livello di singolo modulo.
+Puoi abilitare/disabilitare il CAPTCHA in base al modulo.
 
 1. Individuare e selezionare il modulo desiderato.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Fai clic su **Modifica bozza** Se il modulo è già stato approvato, fare clic su Crea bozza.
+1. Clic **Modifica bozza** Se il modulo è già stato approvato, fare clic su Crea bozza.
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Fai clic su **Impostazioni modulo**, quindi **Impostazioni**.
+1. Clic **Impostazioni modulo**, quindi **Impostazioni**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
@@ -29,20 +30,20 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Fai clic su **Fine**.
+1. Clic **Fine**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Fai clic su **Approva e chiudi**.
+1. Clic **Approva e chiudi**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
-Potrebbero essere necessari alcuni minuti perché le modifiche a questo elenco si propaghino da Google.
+La propagazione delle modifiche a questo elenco da Google potrebbe richiedere alcuni minuti.
 
 >[!NOTE]
 >
->Al modulo o ai moduli abilitati per CAPTCHA verrà aggiunto testo standardizzato, compresi i collegamenti all’Informativa sulla privacy e alle Condizioni del servizio di Google.
+>Ai moduli abilitati per CAPTCHA verrà aggiunto testo standard, inclusi i collegamenti alle Regole sulla Privacy e ai Termini di servizio di Google.
 
 >[!MORELIKETHIS]
 >
->[Configurazione reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+>[Configurazione di reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)

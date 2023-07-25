@@ -1,22 +1,23 @@
 ---
 unique-page-id: 7512445
-description: Verificare la configurazione push - Documenti Marketo - Documentazione del prodotto
-title: Verificare la configurazione push
+description: Verificare la configurazione push - Documentazione Marketo - Documentazione del prodotto
+title: Verifica configurazione push
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Verificare la configurazione push {#verify-push-configuration}
+# Verifica configurazione push {#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
 >Lo sviluppatore mobile deve aver aggiunto il codice SDK di Marketo alla tua app mobile.
 
-Verifica la configurazione push per garantire che tutto sia sincronizzato correttamente.
+Verifica la configurazione push per assicurarti che tutto sia sincronizzato correttamente.
 
 1. Fai clic su **Amministratore**.
 
@@ -30,11 +31,11 @@ Verifica la configurazione push per garantire che tutto sia sincronizzato corret
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Fai clic su **Azioni per app mobili** e seleziona **Verificare la configurazione push**.
+1. Clic **Azioni app mobile** e seleziona **Verifica configurazione push**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Conferma la lettura delle piattaforme desiderate e fai clic su **Chiudi**.
+1. Conferma le piattaforme desiderate, leggi e fai clic su **Chiudi**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

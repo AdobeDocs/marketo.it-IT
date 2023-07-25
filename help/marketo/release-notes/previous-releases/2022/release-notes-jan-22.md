@@ -2,88 +2,89 @@
 description: Note sulla versione - Gennaio 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '889'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Gennaio 2022 {#release-notes-jan-22}
+# Note sulla versione: gennaio 2022 {#release-notes-jan-22}
 
-Le seguenti funzionalità sono incluse nella versione del 22 gennaio. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
+Le seguenti funzioni sono incluse nella versione di gennaio 2022. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Caratteristiche indicate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Caratteristiche contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni trimestrali_**
 
-Le seguenti funzionalità inizieranno a essere rilasciate il **21 gennaio 2022**, con un rollout graduale di ogni feature nelle settimane successive (salvo diversa indicazione).
+Le seguenti funzioni inizieranno ad essere rilasciate il **21 gennaio 2022**, con un rollout graduale di ogni funzione nelle settimane successive (salvo diversa indicazione).
 
 ## Esperienza di nuova generazione {#modern-ux}
 
-* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
+* **Schermi aggiornati nell’esperienza di nuova generazione**: nell’esperienza di nuova generazione, presentiamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti a livello di usabilità accessibili tramite interruttore:
 
-   * Dettagli delle risorse della pagina di destinazione in Design Studio
-   * Dettagli delle risorse della pagina di destinazione nelle attività di marketing
+   * Dettagli sulla risorsa della pagina di destinazione in Design Studio
+   * Dettagli sulle risorse della pagina di destinazione nelle attività di marketing
 
 ## Integrazione con Microsoft Dynamics {#microsoft-dynamics-integration}
 
-* **Sincronizzazione del tipo di campo Optionset multiselect Generalmente disponibile**: Sincronizza il tipo di campo set di opzioni multiseletto da Microsoft Dynamics per sfruttare in Elenchi avanzati e Campagne avanzate per un targeting del pubblico più granulare. Gli esempi includono: argomenti/prodotti di interesse, modalità di comunicazione preferita e altro ancora. Questa nuova sincronizzazione è disponibile per Microsoft Dynamics versione 9.X (incluso Dynamics 365 Online).
+* **Sincronizzazione del tipo di campo Multiselect Optionset generalmente disponibile**: sincronizza il tipo di campo set di opzioni a selezione multipla da Microsoft Dynamics per sfruttare in Elenchi avanzati e Campagne avanzate per un targeting del pubblico più granulare. Alcuni esempi includono: argomenti/prodotti di interesse, modalità di comunicazione preferite e altro ancora. Questa nuova sincronizzazione è disponibile per Microsoft Dynamics versione 9.X (incluso Dynamics 365 Online).
 
-* **Autenticazione server-to-server per Microsoft Dynamics 365 Online**: Per una maggiore sicurezza, ora supporteremo Server to Server (S2S) come modalità di autenticazione aggiuntiva per l’utente di sincronizzazione del Marketo Engage su Azure Active Directory per l’accesso non interattivo a Microsoft Dynamics 365 Online. Questo consente di utilizzare l’autenticazione a più fattori, in quanto tutte le autenticazione e gli accessi saranno basati su OAuth (solo ID client e segreto client).
+* **Autenticazione da server a server per Microsoft Dynamics 365 Online**: per una maggiore sicurezza, ora supporteremo Server to Server (S2S) come modalità di autenticazione aggiuntiva per l’utente di sincronizzazione del Marketo Engage in Azure Active Directory per l’accesso non interattivo a Microsoft Dynamics 365 Online. Questo ti consente di utilizzare l’autenticazione a più fattori, in quanto tutte le autenticazioni e gli accessi saranno basati su OAuth (solo ID client e segreto client).
 
 >[!NOTE]
 >
->La modalità S2S si basa sull’utente dell’applicazione anziché su quello concesso in licenza, il che consente di risparmiare l’utilizzo di una licenza aggiuntiva.
+>La modalità S2S si basa sull&#39;utente dell&#39;applicazione anziché sull&#39;utente con licenza, che consente di risparmiare l&#39;uso di una licenza aggiuntiva.
 
 ## Amministrazione {#administration}
 
-* **[Regole di convalida del modulo](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Mantenere lo stato del database con la possibilità di bloccare i domini e-mail problematici o indesiderati dall’invio dei moduli di Marketo Engage. Il pannello Regola di convalida globale del modulo consente agli amministratori di definire un inserire nell&#39;elenco Bloccati o di abilitare un elenco predefinito di domini consumer liberi per il blocco dai moduli.
+* **[Regole di convalida modulo](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: mantieni l’integrità del database con la possibilità di impedire l’invio di moduli di Marketo Engage a domini e-mail problematici o indesiderati. Il pannello Regola di convalida modulo globale consente agli amministratori di definire un inserisco nell&#39;elenco Bloccati di o di abilitare un elenco predefinito di domini consumer liberi da bloccare dai moduli.
 
-* **[Sicurezza intestazione pagina di destinazione](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Gli amministratori possono gestire le intestazioni Strict Transport Security e X-Frame Options sui propri domini della pagina di destinazione per applicare requisiti di sicurezza elevati.
+* **[Sicurezza intestazione pagina di destinazione](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: gli amministratori possono gestire le intestazioni Strict Transport Security e X-Frame Options sui propri domini di pagina di destinazione per applicare requisiti di sicurezza rigorosi.
 
-**_Rilascio in tutto il trimestre_**
+**_Rilascio nel corso del trimestre_**
 
-Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciate durante i prossimi mesi.
+Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
 
-## Connettore di destinazione del Marketo Engage AEP - Crea nuovi lead netti {#aep-marketo-engage-destination-connector}
+## Connettore di destinazione Marketo Engage AEP - Creazione di lead nuovi {#aep-marketo-engage-destination-connector}
 
-I clienti di Marketo Engage che utilizzano anche Adobe Experience Platform (AEP) possono massimizzare il proprio database con la possibilità di inviare record nuovi di persone al Marketo Engage da AEP tramite il connettore di destinazione AEP. Quando invii segmenti di pubblico da AEP al Marketo Engage, le persone all’interno del segmento che non esistono già nel database del Marketo Engage [può essere aggiunto automaticamente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
+I clienti di Marketo Engage che utilizzano anche Adobe Experience Platform (AEP) possono massimizzare il database con la possibilità di inviare record di persone nuovi al Marketo Engage da AEP tramite il connettore di destinazione AEP. Quando invii segmenti di pubblico da AEP al Marketo Engage, persone all’interno del segmento che non esistono già nel database di Marketo Engage [può essere aggiunto automaticamente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
-## Approfondimenti vendite {#sales-insight}
+## Insight sulle vendite {#sales-insight}
 
 ![(stella)](assets/yellow-star.png)
 
-**Informazioni sulle vendite per CRM Salesforce**
+**Insight vendite per Salesforce CRM**
 
-* **Nuova colonna di tipi per migliori**: I venditori riceveranno informazioni più rapide con una nuova colonna denominata &quot;Tipo&quot; per distinguere tra lead e contatti nella pagina Best Bets.
+* **Nuova colonna Tipo per elementi di maggiore rilevanza**: i venditori riceveranno informazioni più rapide con una nuova colonna denominata &quot;Tipo&quot; per distinguere lead e contatti nella pagina Elementi di maggiore rilevanza.
 
-* **Aggiornamento API della piattaforma Salesforce**: In risposta al ritiro delle versioni API di Salesforce Platform da 21.0 a 30.0, il pacchetto Insight vendite è stato aggiornato con le API più recenti.
+* **Aggiornamento API Salesforce Platform**: in risposta al ritiro delle versioni 21.0-30.0 dell’API di Salesforce Platform, il pacchetto Sales Insight è stato aggiornato con le API più recenti.
 
-* **Branding aggiornato**: Tutte le pagine Approfondimenti vendite vengono aggiornate per allinearle con il marchio Adobe.
+* **Branding aggiornato**: tutte le pagine Sales Insight vengono aggiornate per allinearsi al branding Adobe.
 
-**Approfondimenti vendite per Microsoft Dynamics**
+**Informazioni sulla vendita per Microsoft Dynamics**
 
-* **Layout account aggiornato**: I venditori possono ottenere una visione collettiva delle attività principali come: attività e-mail, attività web, momenti interessanti e modifiche al punteggio per tutti i contatti all’interno di un account.
+* **Layout dell’account aggiornato**: i venditori possono ottenere una visione collettiva delle attività principali, ad esempio e-mail, attività web, momenti di interesse e modifiche di punteggio per tutti i contatti all’interno di un account.
 
 ## Sales Connect {#sales-connect}
 
 ![(stella)](assets/yellow-star.png)
 
-* **Risultati e motivi della chiamata**: Comprendi e tieni traccia delle attività in uscita dei tuoi team di vendita in modo più dettagliato con le nuove opzioni di risultato della chiamata e del motivo della chiamata completamente personalizzabili. Oltre a questi nuovi campi, stiamo introducendo una nuova governance per applicare il motivo della chiamata e la selezione dei risultati mentre i venditori eseguono chiamate, una nuova governance per abilitare o disabilitare i motivi e i risultati della chiamata e un nuovo campo personalizzato Ragione della chiamata e risultato della chiamata Salesforce Activity per registrare i dati in Salesforce. [Fai clic qui](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) per saperne di più.
+* **Risultati e motivi della chiamata**: scopri e tieni traccia delle attività in uscita dei tuoi team di vendita in modo più dettagliato, con nuove opzioni completamente personalizzabili per esito e motivo della chiamata. Oltre a questi nuovi campi, stiamo introducendo una nuova governance per applicare il motivo della chiamata e la selezione dei risultati durante le chiamate dei venditori, una nuova governance per abilitare o disabilitare i motivi e i risultati delle chiamate e un nuovo campo personalizzato Motivo della chiamata e Risultato della chiamata Attività Salesforce per la registrazione dei dati in Salesforce. [Fai clic qui](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) per ulteriori informazioni.
 
-* **Personalizzazione dei dettagli dell&#39;attività Salesforce**: Acquisisci ulteriori dati relativi alle attività di vendita e alle attività in Salesforce personalizzando quali informazioni vengono aggiunte al campo oggetto attività Salesforce quando un&#39;attività di vendita viene registrata a Salesforce da Sales Connect. [Fai clic qui](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) per saperne di più.
+* **Personalizzazione dettagli attività Salesforce**: acquisisci ulteriori attività di vendita e dati sulle attività in Salesforce personalizzando le informazioni aggiunte al campo dell’oggetto attività Salesforce quando un’attività di vendita viene registrata in Salesforce da Sales Connect. [Fai clic qui](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) per ulteriori informazioni.
 
 ## Annunci {#announcements}
 
-* **Obsolescenza di Marketo Sky**: A marzo, Marketo Sky non sarà più disponibile in quanto concentreremo le nostre risorse sulla distribuzione dell’esperienza utente di nuova generazione. Per mantenere l’accesso a funzionalità esclusive di Marketo Sky, a marzo porteremo Asset Expiration e Smart Campaign Priority Override nell’esperienza tradizionale. [Fai clic qui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) per saperne di più.
+* **Obsolescenza Marketo Sky**: a marzo, Marketo Sky non sarà più disponibile, poiché le nostre risorse verranno dedicate alla creazione di un’esperienza di utilizzo di nuova generazione. Nel tentativo di mantenere l’accesso a funzionalità esclusive di Marketo Sky, a marzo presenteremo Asset Expiration e Smart Campaign Priority Override nell’esperienza mainstream. [Fai clic qui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) per ulteriori informazioni.
 
-* **Elementi obsoleti del modulo**: I POST programmatici non supportati nell’endpoint leadCapture/save2 verranno rifiutati dai moduli di Marketo Engage. [Fai clic qui](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) per saperne di più.
+* **Endpoint modulo obsoleti**: i moduli programmatici POST non supportati per l’endpoint leadCapture/save2 verranno rifiutati dai moduli di Marketo Engage. [Fai clic qui](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) per ulteriori informazioni.
 
-**Domini Marketi Engage - Configurazione di Sales Insight**: Per i domini di Marketo Engage per i quali non è stato effettuato il provisioning del certificato SSL e https://, le chiamate non riusciranno con un errore di handshake SSL. Pertanto, questi domini verranno ritirati. Di conseguenza, gli utenti di Sales Insight con una configurazione precedente che punta a uno qualsiasi di questi domini potrebbero trovarsi in errori di callout del sistema sulla pagina Lead, Contatto, Account, Pannelli opportunità o Globale Marketo. Si consiglia di aggiornare il [Configurazione del Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Salesforce se si verifica questo errore. È sufficiente aggiornare le credenziali di Marketo Engage evidenziate nella sezione &quot;Marketo Sales Insight Config&quot; del documento.
+**Domini Marketo Engage - Configurazione approfondimento vendite**: per i domini di Marketo Engage per i quali non è stato eseguito il provisioning del certificato SSL e https://, le chiamate non riusciranno e verrà restituito un errore di handshake SSL. Pertanto, questi domini saranno ritirati. Di conseguenza, gli utenti di Sales Insight con una configurazione precedente che punta a uno di questi domini potrebbero riscontrare errori di callout di sistema nella pagina Lead, Contact, Account, Opportunity Panels o Marketo Global. Si consiglia di aggiornare [Configurazione Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Salesforce se riscontri questo errore. È sufficiente aggiornare le credenziali del Marketo Engage evidenziate nella sezione &quot;Marketo Sales Insight Config&quot; del documento.
 
 **_Webinar sulla versione del prodotto_**
 
-[Webinar sul rilascio del Marketo Engage di gennaio 2022](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)
+[Webinar sulla versione del Marketo Engage di gennaio 2022](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)

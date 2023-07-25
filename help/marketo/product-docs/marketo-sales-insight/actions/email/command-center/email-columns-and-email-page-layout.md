@@ -1,17 +1,18 @@
 ---
-description: Colonne e-mail e layout pagina e-mail - Documenti Marketo - Documentazione del prodotto
-title: Colonne e-mail e layout pagina e-mail
+description: Colonne e-mail e layout della pagina e-mail - Documenti Marketo - Documentazione del prodotto
+title: Colonne e-mail e layout della pagina e-mail
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 2%
 
 ---
 
-# Colonne e-mail e layout pagina e-mail {#email-columns-and-email-page-layout}
+# Colonne e-mail e layout della pagina e-mail {#email-columns-and-email-page-layout}
 
-Puoi configurare una qualsiasi delle colonne disponibili affinché sia visibile nella sezione e-mail della sezione [Centro comandi](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Le impostazioni di configurazione verranno salvate per ogni sottocartella e-mail (ad esempio, Consegnato, Non riuscito, Pianificato, ecc.).
+Puoi configurare una qualsiasi delle colonne disponibili in modo che sia visibile nella sezione e-mail della sezione [Centro comandi](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Le impostazioni di configurazione verranno salvate per ogni sottocartella e-mail (ad esempio Consegnata, Non riuscita, Pianificata, ecc.).
 
 ## Colonne e-mail {#email-columns}
 
@@ -27,7 +28,7 @@ Puoi configurare una qualsiasi delle colonne disponibili affinché sia visibile 
   </tr> 
   <tr> 
    <td><strong>Persona</td> 
-   <td>Nome e indirizzo di posta elettronica della persona in Sales Connect. Facendo clic su questo campo si aprirà la scheda Informazioni sulla visualizzazione dei dettagli della persona.</td> 
+   <td>Nome e indirizzo e-mail della persona in Sales Connect. Facendo clic su questo campo si aprirà la scheda Informazioni nella visualizzazione Dettagli persona.</td> 
   </tr> 
   <tr> 
    <td><strong>Nome</td> 
@@ -38,8 +39,8 @@ Puoi configurare una qualsiasi delle colonne disponibili affinché sia visibile 
    <td>Indirizzo e-mail principale della persona in Sales Connect.</td> 
   </tr> 
   <tr> 
-   <td><strong>Campaign</td> 
-   <td>Se l’e-mail è stata inviata come parte di una campagna, verrà visualizzato il nome della campagna. Fai clic su questo campo per passare alla pagina di configurazione della campagna.</td> 
+   <td><strong>Campagna</td> 
+   <td>Se l’e-mail è stata inviata come parte di una campagna, verrà visualizzato il nome della campagna. Facendo clic su questo campo si aprirà la pagina di configurazione della campagna.</td> 
   </tr> 
   <tr> 
    <td><strong>Modello</td> 
@@ -59,14 +60,14 @@ Puoi configurare una qualsiasi delle colonne disponibili affinché sia visibile 
   </tr> 
   <tr> 
    <td><strong>Azienda</td> 
-   <td>Azienda del destinatario e-mail.</td> 
+   <td>Società del destinatario dell’e-mail.</td> 
   </tr> 
   <tr> 
    <td><strong>Stato e-mail</td> 
-   <td>Stato in cui si trova l’e-mail. Gli stati includono: Bozza, Programmata, In Corso, Spam, Bounced, Failed, Inviata. Le e-mail inviate mostreranno un flusso di attività che mostra quante visualizzazioni, clic e risposte hanno avuto luogo su quell’e-mail.</td> 
+   <td>Stato in cui si trova l’e-mail. Gli stati includono: Bozza, Pianificato, In corso, Spam, Rifiutato, Non riuscito, Inviato. Le e-mail inviate mostreranno un flusso di attività che mostra il numero di visualizzazioni, clic e risposte effettuate su quell’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Data creazione</td> 
+   <td><strong>Data di creazione</td> 
    <td>Data di creazione dell’e-mail.</td> 
   </tr> 
   <tr> 
@@ -75,56 +76,56 @@ Puoi configurare una qualsiasi delle colonne disponibili affinché sia visibile 
   </tr> 
   <tr> 
    <td><strong>Canale di consegna</td> 
-   <td>Nome del canale di consegna utilizzato per l’invio dell’e-mail.</td> 
+   <td>Il nome del canale di consegna utilizzato per inviare l’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Attività più recente</td> 
-   <td>L’ultimo coinvolgimento del destinatario e-mail (ad esempio, visualizza, fai clic o rispondi).</td> 
+   <td><strong>Ultima attività</td> 
+   <td>L’ultimo impegno del destinatario dell’e-mail (ad esempio, visualizza, fai clic o rispondi).</td> 
   </tr> 
   <tr> 
-   <td><strong>Data invio</td> 
-   <td>Data di invio dell’e-mail.</td> 
+   <td><strong>Data di invio</td> 
+   <td>La data in cui l’e-mail è stata inviata.</td> 
   </tr> 
   <tr> 
-   <td><strong>Azioni di follow-up</td> 
-   <td>Pulsanti di azione rapida che possono essere utilizzati per il follow-up tramite e-mail, telefono, inMail o attività.</td> 
+   <td><strong>Azioni di follow up</td> 
+   <td>Pulsanti di azione rapida che possono essere utilizzati per il completamento tramite e-mail, telefono, inMail o attività.</td> 
   </tr> 
   <tr> 
    <td><strong>E-mail gruppo</td> 
-   <td>Visualizza un segno di spunta se l’e-mail è stata inviata come parte di un messaggio e-mail del gruppo.</td> 
+   <td>Visualizza un segno di spunta se l’e-mail è stata inviata come parte di un’e-mail di gruppo.</td> 
   </tr> 
   <tr> 
    <td><strong>Data scadenza attività</td> 
-   <td>Mostra la data di scadenza delle attività correlate all’e-mail. Le attività possono essere correlate a un’e-mail tramite i pulsanti di azione rapida nell’elenco e-mail.</td> 
+   <td>Mostra la scadenza delle attività correlate all’e-mail. Le attività possono essere correlate a un’e-mail creando dai pulsanti di azione rapida nell’elenco e-mail.</td> 
   </tr> 
   <tr> 
    <td><strong>Azione e-mail</td> 
-   <td>Pulsanti di azione rapida utilizzabili per intervenire sull’e-mail. A seconda dello stato dell’e-mail, possono essere disponibili le seguenti azioni: Archivia, Esegui, Elimina, Riprova Invia, Annulla archiviazione.</td> 
+   <td>Pulsanti di azione rapida che possono essere utilizzati per intervenire sull’e-mail. A seconda dello stato dell’e-mail, possono essere disponibili le seguenti azioni: Archivia, Riuscito, Elimina, Riprova a inviare, Annulla archiviazione.</td> 
   </tr> 
   <tr> 
    <td><strong>Tipo di attività</td> 
-   <td>Mostra il tipo di attività di un'attività correlata all'e-mail. Le attività possono essere correlate a un’e-mail tramite i pulsanti di azione rapida nell’elenco e-mail.</td> 
+   <td>Mostra il tipo di attività di un'attività correlata all'e-mail. Le attività possono essere correlate a un’e-mail creando dai pulsanti di azione rapida nell’elenco e-mail.</td> 
   </tr> 
   <tr> 
    <td><strong>Data non riuscita</td> 
-   <td>Mostra la data dell’errore dell’e-mail se l’e-mail non è stata recapitata.</td> 
+   <td>Mostra la data in cui l’e-mail non è riuscita se non è stata consegnata.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Impostazioni del layout della pagina e-mail {#email-page-layout-settings}
+## Impostazioni layout pagina e-mail {#email-page-layout-settings}
 
-Puoi configurare il layout seguendo questi passaggi.
+Per configurare il layout, segui la procedura riportata di seguito.
 
-1. Nell&#39;applicazione Web, fai clic su **Centro comandi**.
+1. Nell’applicazione web, fai clic su **Centro comandi**.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. Seleziona la **E-mail** sezione .
+1. Seleziona la **E-mail** sezione.
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 
-1. Fai clic sul pulsante di configurazione . Le opzioni disponibili sono: scegliere quante righe si desidera, selezionare i campi da visualizzare e selezionare se si desidera che le e-mail di gruppo vengano raggruppate in un singolo elemento della griglia (o se si desidera che tutte le e-mail che fanno parte di una griglia e-mail vengano visualizzate come un singolo elemento).
+1. Fai clic sul pulsante di configurazione. Le opzioni disponibili includono: la scelta del numero di righe desiderate, la selezione dei campi da visualizzare e la selezione della possibilità di raggruppare le e-mail in un singolo elemento della griglia (oppure di visualizzare come singolo elemento tutte le e-mail che fanno parte di una griglia e-mail).
 
    ![](assets/email-columns-and-email-page-layout-3.png)
 

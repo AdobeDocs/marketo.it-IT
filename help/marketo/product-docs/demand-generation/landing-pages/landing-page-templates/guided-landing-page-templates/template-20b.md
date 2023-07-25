@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10092913
-description: Modello 20B - Documenti Marketo - Documentazione del prodotto
+description: Modello 20B - Documentazione Marketo - Documentazione del prodotto
 title: Modello 20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -12,15 +13,15 @@ ht-degree: 0%
 
 # Modello 20B {#template-20b}
 
-Fai clic con il pulsante destro del mouse per [scarica modello 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+Fare clic con il pulsante destro del mouse per [scarica modello 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 
-Questo modello include il seguente contenuto:
+Questo modello include i seguenti contenuti:
 
 * Una sezione primaria
 
-   * include video e testo eroe
+   * include testo e video principale
 
 * Quattro sezioni del corpo (facoltativo)
 * Piè di pagina (facoltativo)

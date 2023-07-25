@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359667
-description: Applicare il mascheramento di input a un campo di un modulo - Documenti Marketo - Documentazione del prodotto
-title: Applicazione del mascheramento dell’input a un campo di un modulo
+description: Applicare il mascheramento di input a un campo in un modulo - Documenti Marketo - Documentazione del prodotto
+title: Applicare il mascheramento di input a un campo di un modulo
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-# Applicazione del mascheramento dell’input a un campo di un modulo {#apply-input-masking-to-a-field-in-a-form}
+# Applicare il mascheramento di input a un campo di un modulo {#apply-input-masking-to-a-field-in-a-form}
 
-Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad esempio, puoi desiderare che i visitatori immettano numeri di telefono solo in un formato specifico.
+Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad esempio, è possibile che si desideri che i visitatori immettano i numeri di telefono solo in un formato specifico.
 
 1. Vai a **Attività di marketing**.
 
@@ -22,7 +23,7 @@ Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad ese
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Seleziona il campo e assicurati che il **Tipo di campo** è impostato su **Testo**.
+1. Seleziona il campo e assicurati che **Tipo di campo** è impostato su **Testo**.
 
    >[!NOTE]
    >
@@ -30,7 +31,7 @@ Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad ese
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Fai clic sul pulsante **Input maschera** link.
+1. Fai clic su **Input maschera** collegamento.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -40,22 +41,22 @@ Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad ese
 
    >[!NOTE]
    >
-   >Presta attenzione alle regole di mascheramento. È possibile limitare l’input a numeri, lettere e/o anche al numero di caratteri immessi.
+   >Presta attenzione alle regole di mascheramento. È possibile limitare l&#39;input a numeri, lettere, entrambi e/o anche limitare il numero di caratteri immessi.
 
-1. Fai clic su **Fine**.
+1. Clic **Fine**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Fai clic su **Approva e chiudi**.
+1. Clic **Approva e chiudi**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Guardate! Ora stai chiedendo al visitatore di inserire numeri in un formato specifico.
+   Dai un&#39;occhiata! Ora stai chiedendo al visitatore di inserire i numeri in un formato specifico.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
-   >Nel campo potrebbero non essere visualizzate aree predefinite, come illustrato nell’immagine precedente. Può apparire vuoto finché il visitatore non inizia a immettere numeri, che quindi si attiene automaticamente al formato di input definito per il campo.
+   >Il campo potrebbe non visualizzare aree predefinite, come illustrato nell’immagine precedente. Può apparire vuota finché il visitatore non inizia a immettere numeri, che poi aderiranno automaticamente al formato di input definito per il campo.
 
 Fantastico, eh?

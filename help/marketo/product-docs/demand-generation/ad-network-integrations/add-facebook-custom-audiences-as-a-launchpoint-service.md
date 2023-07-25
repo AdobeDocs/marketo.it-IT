@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4720257
-description: Aggiungere tipi di pubblico personalizzati di Facebook as a LaunchPoint Service - Documentazione di Marketo - Documentazione del prodotto
+description: Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-Con questa integrazione è possibile inviare dati sul pubblico da elenchi statici e avanzati di Marketo a Facebook da utilizzare come tipi di pubblico personalizzati nelle campagne pubblicitarie Facebook. Ecco come configurarlo.
+Con questa integrazione è possibile inviare dati di pubblico da elenchi statici e avanzati di Marketo a Facebook per utilizzarli come tipi di pubblico personalizzati nelle campagne Facebook Ad. Ecco come configurarlo.
 
 1. Vai a Marketo **Amministratore**.
 
@@ -26,7 +27,7 @@ Con questa integrazione è possibile inviare dati sul pubblico da elenchi static
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Inserisci un **Nome visualizzato** per il servizio e seleziona la **Tipi di pubblico personalizzati facebook** dal servizio **Servizio** a discesa.
+1. Immetti un **Nome visualizzato** per il servizio e selezionare **Tipi di pubblico personalizzati facebook** servizio da **Servizio** a discesa.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -34,19 +35,19 @@ Con questa integrazione è possibile inviare dati sul pubblico da elenchi static
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare tipi di pubblico tra più account Ad Manager, l’utente Facebook autorizzato nei seguenti passaggi deve avere accesso a *tutto* di tali conti.
+   >Affinché Marketo possa inviare tipi di pubblico su più account di Ad Manager, l&#39;utente Facebook autorizzato nei passaggi seguenti deve avere accesso a *tutto* di questi conti.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Dopo aver effettuato l’accesso a Facebook, torna a Marketo. Fai clic su **Autorizzare**.
+1. Dopo aver effettuato l’accesso a Facebook, torna a Marketo. Clic **Autorizza**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >You _deve_ utilizza un account Facebook Business Manager per il corretto funzionamento dell’integrazione con tipi di pubblico personalizzati. Per informazioni su come impostare un account Business Manager, consulta [Guida di facebook](https://www.facebook.com/business/help/1710077379203657).
+   >Tu _deve_ utilizza un account Facebook Business Manager per il funzionamento dell’integrazione di tipi di pubblico personalizzati. Per informazioni sulla configurazione di un account Business Manager, fare riferimento a [Guida di facebook](https://www.facebook.com/business/help/1710077379203657).
 
-1. Se richiesto, fai clic su **OK** per accettare l’installazione dell’app Marketo in Facebook.
+1. Se richiesto, fare clic su **OK** per accettare l’installazione dell’app Marketo in Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -54,7 +55,7 @@ Con questa integrazione è possibile inviare dati sul pubblico da elenchi static
 
    >[!NOTE]
    >
-   >**Corrispondenza di base** utilizza solo indirizzi e-mail. **Corrispondenza avanzata** utilizza sette campi aggiuntivi, che aumentano il tasso di corrispondenza, per una maggiore conversione. Tuttavia, se l&#39;informativa sulla privacy dell&#39;azienda non consente la condivisione di campi aggiuntivi o se i dati non li includono, selezionare Corrispondenza di base.
+   >**Corrispondenza di base** utilizza solo indirizzi e-mail. **Corrispondenza avanzata** utilizza sette campi aggiuntivi, che aumentano il tasso di corrispondenza, per una maggiore conversione. Tuttavia, se l’informativa sulla privacy della tua azienda non consente la condivisione di campi aggiuntivi o se i tuoi dati non li includono, seleziona Corrispondenza di base.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -62,11 +63,10 @@ Con questa integrazione è possibile inviare dati sul pubblico da elenchi static
 
    >[!CAUTION]
    >
-   >Oh, prima di andare, assicurati di [Accettare i termini personalizzati del pubblico di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account Facebook! Senza questo intervento, gli aggiornamenti del pubblico non riusciranno.
+   >Oh, prima di andare, assicurati di [Accettare i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account Facebook. In caso contrario, gli aggiornamenti del pubblico non riusciranno.
 
 >[!MORELIKETHIS]
 >
 >* [Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [Imposta annunci lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
+>* [Configurazione annunci lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -3,9 +3,10 @@ unique-page-id: 10097613
 description: Aggiungere campi di collegamento oggetti personalizzati di Marketo - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiungi campi collegamento oggetto personalizzato Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -133,4 +134,3 @@ Il passaggio successivo consiste nell’utilizzare questi oggetti personalizzati
 >* [Modificare ed eliminare un oggetto personalizzato di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Informazioni sugli oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Modificare ed eliminare i campi oggetto personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
-

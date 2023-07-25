@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7515401
-description: Creare un modello di pagina di destinazione guidata - Documenti Marketo - Documentazione del prodotto
+description: Creare un modello di pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
 title: Creare un modello di pagina di destinazione guidata
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1254'
 ht-degree: 1%
@@ -12,15 +13,15 @@ ht-degree: 1%
 
 # Creare un modello di pagina di destinazione guidata {#create-a-guided-landing-page-template}
 
-I modelli delle pagine di destinazione guidati hanno una sintassi particolare. Utilizza questa sintassi per specificare cosa è personalizzabile e dove termina il contenuto in ogni pagina di destinazione creata a partire dal modello. Solo le aree o variabili specificate come modificabili saranno disponibili per la personalizzazione nell’editor pagina di destinazione &quot;Guidata&quot;.
+I modelli di pagina di destinazione guidata hanno una sintassi speciale. Utilizza questa sintassi per specificare cosa è personalizzabile e dove il contenuto finirà su ogni pagina di destinazione creata dal modello. Solo le aree geografiche o le variabili specificate come modificabili saranno disponibili per la personalizzazione nell’editor di pagine di destinazione &quot;Guidate&quot;.
 
 >[!TIP]
 >
->Utilizza buone convenzioni di denominazione e il tuo team marketing si innamorerà di te.
+>Utilizza le buone convenzioni di denominazione e il tuo team di marketing si innamorerà di te.
 
-Esistono due modi per dichiarare che un elemento della pagina deve essere modificabile:
+Esistono due modi per dichiarare che un elemento nella pagina deve essere modificabile:
 
-* Dichiara un oggetto come &quot;elemento&quot;. Il creatore della pagina di destinazione potrà aggiungere immagini, testo o risorse Marketo nelle aree specificate.
+* Dichiarare un oggetto come &quot;elemento&quot;. Il creatore della pagina di destinazione sarà in grado di aggiungere immagini, testo o risorse Marketo nelle aree specificate.
 * Dichiara una stringa come &quot;variabile&quot;. Il creatore della pagina di destinazione sarà in grado di sostituire tale variabile con una stringa, un colore o uno stato booleano da una leva true/false.
 
 ## Elementi modificabili {#editable-elements}
@@ -29,15 +30,15 @@ Gli elementi vengono dichiarati aggiungendo un normale elemento DOM al modello, 
 
 ## Testo {#text}
 
-Se definisci un’area come RTF, gli utenti potranno modificarne il contenuto [utilizzo dell’editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Se si definisce un&#39;area come Testo formattato, gli utenti potranno modificarne il contenuto [utilizzo dell’editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Attributi richiesti:\
-**Classe**: &quot;mktoText&quot;\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**classe**: &quot;mktoText&quot;\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:\
-Il contenuto di un elemento con classe mktoText (se fornito) verrà utilizzato come valore predefinito per l’area modificabile.
+Il contenuto di un elemento con la classe mktoText (se fornita) verrà utilizzato come valore predefinito per l’area modificabile.
 
 Esempio:
 
@@ -45,32 +46,32 @@ Esempio:
 
 ## Immagine {#image}
 
-Sono disponibili due opzioni per la definizione degli elementi immagine modificabili. Puoi utilizzare una delle due opzioni `<div>`, che specifica un contenitore in cui verrà inserita l’immagine, o un `<img>` tag .
+Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare una delle seguenti opzioni `<div>`, che specifica un contenitore in cui verrà inserita l&#39;immagine o un `<img>` tag.
 
-## Opzione 1 - Utilizza un `<div>` {#option-use-a-div}
+## Opzione 1 - Utilizzare un `<div>` {#option-use-a-div}
 
 Attributi richiesti:
 
-Classe: &quot;mktoImg&quot;\
-id: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-mktoName : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+class: &quot;mktoImg&quot;\
+id: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+mktoName : Stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:\
-mktoImgClass: Stringa. Il valore qui verrà aggiunto all&#39;attributo class del `<img>` all’interno del div.
+mktoImgClass: Stringa. Il valore qui verrà aggiunto all’attributo class del `<img>` all&#39;interno del div.
 
 Esempio:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Opzione 2 - Utilizza un `<img>` {#option-use-a-img}
+## Opzione 2 - Utilizzare un `<img>` {#option-use-a-img}
 
 Attributi richiesti:\
-Classe: &quot;mktoImg&quot;\
-id: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-mktoName : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+class: &quot;mktoImg&quot;\
+id: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+mktoName : Stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:\
-src: URL stringa. Viene utilizzato come valore predefinito per l’immagine.
+src: URL stringa. Verrà utilizzato come valore predefinito per l&#39;immagine.
 
 Esempio:
 
@@ -78,23 +79,23 @@ Esempio:
 
 >[!NOTE]
 >
->Quando utilizzi `<img>` Il HTML renderizzato conterrà un wrapper div generato intorno alla `<img>` tag . Sarà impostato su class .&quot;mktoImg.mktoGen,&quot; e sarà display:inline-block.
+>Quando si utilizza `<img>` versione, il HTML sottoposto a rendering conterrà un wrapper div generato intorno al `<img>` tag. Sarà impostato su class .&quot;mktoImg.mktoGen,&quot; e sarà visualizzato:inline-block.
 
 ## Modulo {#form}
 
-Esempio:Attributi richiesti:\
-**Classe**: &quot;mktoForm&quot;\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+Esempio:Attributi obbligatori:\
+**classe**: &quot;mktoForm&quot;\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Frammento {#snippet}
 
 Attributi richiesti:\
-**Classe**: &quot;mktoSnippet&quot;\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**classe**: &quot;mktoSnippet&quot;\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
 
@@ -103,9 +104,9 @@ Esempio:
 ## Pulsante Condividi {#share-button}
 
 Attributi richiesti:\
-**Classe**: &quot;mktoShareButton&quot;\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**classe**: &quot;mktoShareButton&quot;\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
 
@@ -115,12 +116,12 @@ Esempio:
 
 >[!NOTE]
 >
->Quando utilizzi l’elemento video in una pagina di destinazione, Marketo supporta solo i video provenienti da YouTube. Se utilizzi un altro servizio, ti consigliamo di utilizzare una casella di testo RTF e incollare nel codice di incorporamento del video.
+>Quando utilizzi l’elemento video in una pagina di destinazione, Marketo supporta solo i video di YouTube. Se utilizzi un altro servizio, ti consigliamo di utilizzare una casella di testo RTF e di incollarla nel codice di incorporamento del video.
 
 Attributi richiesti:
-**Classe**: &quot;mktoVideo&quot;
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**classe**: &quot;mktoVideo&quot;
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
 
@@ -129,20 +130,20 @@ Esempio:
 ## Sondaggio {#poll}
 
 Attributi richiesti:\
-**Classe**: &quot;mktoPoll&quot;\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**classe**: &quot;mktoPoll&quot;\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
 
 `<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
 
-## Riferimento {#referral}
+## Referral {#referral}
 
 Attributi richiesti:\
-**Classe**: &quot;mktoReferral&quot;\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**classe**: &quot;mktoReferral&quot;\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
 
@@ -151,17 +152,17 @@ Esempio:
 ## Lotterie {#sweepstakes}
 
 Attributi richiesti:\
-**Classe**: &quot;mktoSweepstakes&quot;\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**classe**: &quot;mktoSweepstakes&quot;\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
 
 `<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
-## Variabili modificabili {#editable-variables}
+## Variabili Modificabili {#editable-variables}
 
-Tutti i tipi di variabili vengono utilizzati facendo riferimento al valore del relativo attributo id racchiuso all&#39;interno di una sequenza di caratteri ${ }. Possono essere utilizzati in qualsiasi punto del documento, ad eccezione dell’interno di altre dichiarazioni di variabili.
+Tutti i tipi di variabili vengono utilizzati facendo riferimento al valore del loro attributo id racchiuso all&#39;interno di una sequenza di caratteri ${ }. Possono essere utilizzati in qualsiasi punto del documento, ad eccezione delle dichiarazioni di altre variabili.
 
 Esempio:
 
@@ -169,18 +170,18 @@ Esempio:
 
 **Dichiarazione:**
 
-Le variabili vengono dichiarate come meta tag all’interno di `<head>` elemento del modello. Sono disponibili tre tipi di variabili da utilizzare: Stringa, colore e booleana.
+Le variabili vengono dichiarate come metatag all’interno del `<head>` del modello. Sono disponibili tre tipi di variabili: String, Color e Boolean.
 
 ## Stringa {#string}
 
-Attributi richiesti:\
-**Classe** : &quot;mktoString&quot;,\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+Attributi obbligatori:\
+**classe** : &quot;mktoString&quot;,\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:\
-**default**: Valore stringa per l&#39;attributo. Vuoto se non ne è stato fornito uno.\
-**allowHtml**: &quot;true&quot; o &quot;false&quot;. Controlla se il valore verrà stampato senza l’escape di HTML. Predefinito su &quot;false&quot; se non impostato.
+**predefinito**: valore stringa per l’attributo. Vuoto se non specificato.\
+**allowHtml**: &quot;true&quot; o &quot;false&quot;. Controlla se il valore verrà stampato senza escape HTML. Se non viene impostato, il valore predefinito è &quot;false&quot;.
 
 Esempio di base:
 
@@ -192,13 +193,13 @@ Esempio con tutti gli attributi:
 
 ## Colore {#color}
 
-Attributi richiesti:\
-**Classe** : &quot;mktoColor&quot;,\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+Attributi obbligatori:\
+**classe** : &quot;mktoColor&quot;,\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:\
-**default**: Codice a colori HEX a 7 cifre. Esempio: &quot;#336699&quot;
+**predefinito**: codice colore del carattere HEX a 7 cifre. Esempio: &quot;#336699&quot;
 
 Esempio di base:
 
@@ -210,17 +211,17 @@ Esempio con tutti gli attributi:
 
 ## Booleano {#boolean}
 
-Attributi richiesti:\
-**Classe** : &quot;mktoBoolean&quot;,\
-**id**: Stringa ID. Contiene solo lettere, numeri, trattino &quot;-&quot; e trattino basso &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
-**mktoName** : Stringa. Questo è il nome visualizzato che verrà mostrato nell’editor delle pagine di destinazione. Si consiglia di utilizzare un nome descrittivo.
+Attributi obbligatori:\
+**classe** : &quot;mktoBoolean&quot;,\
+**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.\
+**mktoName** : stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:\
-**default**: Stringa booleana. &quot;true&quot; o &quot;false&quot; controlla se il valore inizia nella posizione ON o OFF. &quot;false&quot; se non specificato.\
-**false_value**: Stringa. Il valore da inserire per la variabile quando si trova in posizione OFF. &quot;false&quot; se non specificato.\
-**true_value**: Stringa. Il valore da inserire per la variabile quando si trova nella posizione ON. &quot;true&quot; se non viene fornito.\
-**false_value_name**: Stringa. Nome visualizzato nell’editor della pagina di destinazione quando il valore è in posizione OFF. &quot;OFF&quot; se non fornito.\
-**true_value_name**: Stringa. Nome visualizzato da visualizzare nell’editor delle pagine di destinazione quando il valore è nella posizione ON. &quot;ON&quot; se non viene fornito.
+**predefinito**: stringa booleana. &quot;true&quot; o &quot;false&quot; controlla se il valore inizia in posizione ON o OFF. &quot;false&quot; se non specificato.\
+**false_value**: stringa. Il valore da inserire per la variabile quando è in posizione OFF. &quot;false&quot; se non specificato.\
+**true_value**: stringa. Valore da inserire per la variabile quando è in posizione ON. &quot;true&quot; se non specificato.\
+**false_value_name**: stringa. Il nome visualizzato da visualizzare nell’editor pagina di destinazione quando il valore è in posizione OFF. &quot;OFF&quot; se non specificato.\
+**true_value_name**: stringa. Il nome visualizzato da visualizzare nell’editor pagina di destinazione quando il valore è nella posizione ON. &quot;ON&quot; se non specificato.
 
 Esempio di base:
 
@@ -230,10 +231,10 @@ Esempio di base:
 
 Esempio con tutti gli attributi:
 
-Questo esempio mostra un caso d’uso comune in cui una variabile booleana controlla la visibilità di un elemento css impostando il valore della proprietà di visualizzazione css su &quot;block&quot; o &quot;none&quot; per mostrare/nascondere un elemento per id con CSS. L’editor della pagina di destinazione utilizza il nome visualizzato Mostra/Nascondi invece di OFF/ON.
+Questo esempio mostra un caso d’uso comune in cui una variabile booleana controlla la visibilità di un elemento css impostando il valore della proprietà di visualizzazione css su &quot;block&quot; o &quot;none&quot; per mostrare/nascondere un elemento per id con gli stili CSS. L’editor della pagina di destinazione utilizza il nome visualizzato Mostra/Nascondi invece di OFF/ON.
 
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >
->I token del programma (my.token) possono essere utilizzati anche ovunque nelle pagine di destinazione Guided o Free-form.
+>I token del programma (my.token) possono essere utilizzati anche in qualsiasi punto delle pagine di destinazione guidate o in formato libero.

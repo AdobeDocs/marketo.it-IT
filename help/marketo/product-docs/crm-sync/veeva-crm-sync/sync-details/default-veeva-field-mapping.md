@@ -1,17 +1,18 @@
 ---
-description: Mappatura predefinita del campo Veeva - Documenti Marketo - Documentazione del prodotto
-title: Mappatura predefinita del campo Veeva
+description: Mappatura campo Veeva predefinita - Documentazione Marketo - Documentazione del prodotto
+title: Mappatura campo Veeva predefinita
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 31%
+ht-degree: 33%
 
 ---
 
-# Mappatura predefinita del campo Veeva {#default-veeva-field-mapping}
+# Mappatura campo Veeva predefinita {#default-veeva-field-mapping}
 
-Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Marketo crea automaticamente queste associazioni tra i campi Veeva incorporati e Marketo. Marketo sincronizzerà anche i campi personalizzati sui tuoi account e contatti.
+Quando sincronizzi inizialmente l’account di Marketo Engage con Veeva, Marketo crea automaticamente queste associazioni tra i campi incorporati di Veeva e Marketo. Marketo sincronizzerà inoltre i campi personalizzati sugli account e sui contatti.
 
 ## Campi contatto {#contact-fields}
 
@@ -32,12 +33,12 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
       <td>Data di nascita</td>
     </tr>
     <tr>
-      <td>Data creazione</td>
-      <td>Data creazione SFDC</td>
+      <td>Data di creazione</td>
+      <td>Data di creazione SFDC</td>
     </tr>
     <tr>
       <td>Descrizione contatto</td>
-      <td>Note sulla persona</td>
+      <td>Note della persona</td>
     </tr>
     <tr>
       <td>E-mail</td>
@@ -52,23 +53,23 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
       <td>Nome</td>
     </tr>
     <tr>
-      <td>Rifiuto e-mail</td>
+      <td>Rinuncia e-mail</td>
       <td>Annulla l'iscrizione</td>
     </tr>
     <tr>
       <td>Eliminato</td>
-      <td>SFDC È Eliminato</td>
+      <td>SFDC è stato eliminato</td>
     </tr>
     <tr>
       <td>Cognome</td>
       <td>Cognome</td>
     </tr>
     <tr>
-      <td>Fonte Lead</td>
-      <td>Fonte</td>
+      <td>Fonte lead</td>
+      <td>Origine</td>
     </tr>
     <tr>
-      <td>Punteggio Lead</td>
+      <td>Punteggio lead</td>
       <td>Punteggio</td>
     </tr>
     <tr>
@@ -80,7 +81,7 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
       <td>Paese</td>
     </tr>
     <tr>
-      <td>Codice postale</td>
+      <td>CodicePostaleMailing</td>
       <td>Codice postale</td>
     </tr>
     <tr>
@@ -96,7 +97,7 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
       <td>Numero di telefono</td>
     </tr>
     <tr>
-      <td>Telefono ufficio</td>
+      <td>Telefono (uff.)</td>
       <td>Numero di telefono</td>
     </tr>
     <tr>
@@ -137,7 +138,7 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
       <td>Paese di fatturazione</td>
     </tr>
     <tr>
-      <td>Codice postale/CAP di fatturazione</td>
+      <td>CAP fatturazione</td>
       <td>Codice postale di fatturazione</td>
     </tr>
     <tr>
@@ -145,12 +146,12 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
       <td>Stato di fatturazione</td>
     </tr>
     <tr>
-      <td>Billing Street</td>
+      <td>Via di fatturazione</td>
       <td>Indirizzo di fatturazione</td>
     </tr>
     <tr>
       <td>Descrizione account</td>
-      <td>Note aziendali</td>
+      <td>Note società</td>
     </tr>
     <tr>
       <td>Settore</td>
@@ -158,7 +159,7 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
     </tr>
     <tr>
       <td>Eliminato</td>
-      <td>SFDC È Eliminato</td>
+      <td>SFDC è stato eliminato</td>
     </tr>
     <tr>
       <td>Nome account</td>
@@ -177,11 +178,11 @@ Quando si sincronizza inizialmente l&#39;account di Marketo Engage con Veeva, Ma
       <td>Codice SIC (Standard Industrial Classification)</td>
     </tr>
     <tr>
-      <td>Sito dell'account</td>
+      <td>Sito dell’account</td>
       <td>Sito</td>
     </tr>
     <tr>
-      <td>Tipo di conto</td>
+      <td>Tipo di account</td>
       <td>Tipo SFDC</td>
     </tr>
     <tr>
@@ -208,20 +209,20 @@ Questi campi vengono creati in Marketo ma non possono essere regolati dai client
   </thead>
   <tbody>
     <tr>
-      <td>Id Veeva</td>
-      <td>ID Salesforce a 18 caratteri</td>
+      <td>ID Veeva</td>
+      <td>ID Salesforce di 18 caratteri</td>
     </tr>
     <tr>
-      <td>Tipo di Veeva</td>
-      <td>Contatta. Se vuoto, il lead esiste solo come persona in Marketo</td>
+      <td>Tipo Veeva</td>
+      <td>Contatto. Se vuoto, il lead esiste solo come persona in Marketo</td>
     </tr>
     <tr>
-      <td>Data creazione veeva</td>
-      <td>Data di creazione in SFDC (può essere diversa da Creata in Marketo)</td>
+      <td>Data creazione Veeva</td>
+      <td>Data di creazione in SFDC (può essere diversa da Creato in Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva è soppresso</td>
-      <td>Una persona era in SFDC ma è stata cancellata e ora vive solo in Marketo</td>
+      <td>Veeva è eliminato</td>
+      <td>La persona era in SFDC ma è stata eliminata e ora risiede solo in Marketo</td>
     </tr>
   </tbody>
 </table>

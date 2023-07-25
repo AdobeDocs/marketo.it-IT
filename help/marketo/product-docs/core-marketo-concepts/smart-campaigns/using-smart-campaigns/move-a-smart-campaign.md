@@ -1,9 +1,10 @@
 ---
 unique-page-id: 6094949
-description: Spostare una campagna avanzata - Documenti Marketo - Documentazione del prodotto
+description: Spostare una campagna avanzata - Documentazione Marketo - Documentazione del prodotto
 title: Spostare una campagna avanzata
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # Spostare una campagna avanzata {#move-a-smart-campaign}
 
-Per spostare una campagna intelligente tra diversi programmi o cartelle, trascinala o sposta nella struttura. Le regole della campagna intelligente non verranno modificate, ma verranno semplicemente nidificate in un punto diverso.
+Sposta una campagna intelligente tra diversi programmi o cartelle utilizzando il trascinamento della selezione o la funzione Sposta nella struttura. Le regole della tua campagna intelligente non cambieranno, ma saranno nidificate in un luogo diverso.
 
 >[!CAUTION]
 >
->Poiché le regole non verranno modificate, se i passaggi di Smart List o Flow della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente tali informazioni per riflettere il nuovo programma, in quanto lo saranno **not** aggiornamento automatico.
+>Poiché le regole non cambiano, se l’elenco avanzato o i passaggi del flusso della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente tali informazioni per riflettere il nuovo programma, come accadrà **non** aggiornamento automatico.
 
 1. Vai a **Attività di marketing**.
 
@@ -32,7 +33,7 @@ Per spostare una campagna intelligente tra diversi programmi o cartelle, trascin
 
    >[!NOTE]
    >
-   >In questo esempio stiamo spostando Smart Campaign in un altro programma, ma puoi anche spostarlo in una cartella della campagna.
+   >In questo esempio stiamo spostando Smart Campaign in un altro programma, ma puoi anche spostarla in una cartella della campagna.
 
 Ben fatto! La campagna avanzata è stata spostata.
 

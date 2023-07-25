@@ -1,31 +1,32 @@
 ---
-description: Configurazione della connessione Marketo - Documentazione Marketo - Documentazione del prodotto
-title: Configurazione della connessione Marketo
+description: Configurare la connessione Marketo - Documentazione Marketo - Documentazione del prodotto
+title: Configurare la connessione Marketo
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
-source-git-commit: cbc5e338fd5c5c428b4c946c3f1195ab527bf355
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Configurazione della connessione Marketo {#set-up-your-marketo-connection}
+# Configurare la connessione Marketo {#set-up-your-marketo-connection}
 
 >[!NOTE]
 >
->Quando esegui il provisioning di azioni di Insight sulle vendite, Marketo invierà automaticamente le tue credenziali ad Azioni e collegherà la tua istanza a Marketo. Questo passaggio è obbligatorio **solo se la connessione non è stata stabilita** dopo il provisioning dell&#39;istanza di Sales Connect. Se la connessione è stata stabilita, visualizzerai le credenziali immesse nella pagina Impostazioni amministratore di Marketo e un&#39;opzione per disconnettersi.
+>Quando esegui il provisioning di Azioni approfondimenti sulle vendite, Marketo invia automaticamente le tue credenziali alle Azioni e collega la tua istanza a Marketo. Questo passaggio è obbligatorio **solo se la connessione stabilita non viene visualizzata** dopo il provisioning dell’istanza Sales Connect. Se la connessione viene stabilita, le credenziali immesse verranno visualizzate nella pagina Impostazioni amministratore di Marketo e verrà visualizzata un&#39;opzione per disconnettersi.
 
 ## Acquisizione delle credenziali prima della connessione delle vendite Connetti con Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Sarà necessario ottenere un set di credenziali da Marketo. Queste credenziali verranno utilizzate successivamente dall&#39;amministratore di Sales Connect per collegare Marketo a Sales Connect.
+È necessario ottenere un set di credenziali da Marketo. Queste credenziali verranno utilizzate successivamente dall&#39;amministratore di Sales Connect per collegare Marketo a Sales Connect.
 
 1. In Marketo, fai clic su **Amministratore**.
 
 PICC
 
-1. Nella struttura ad albero, fai clic su **Sales Connect**.
+1. Nella struttura, fai clic su **Sales Connect**.
 
 PICC
 
@@ -37,9 +38,9 @@ PICC
 >
 >Quando copi e incolla le informazioni di cui sopra, assicurati che non vengano aggiunti spazi.
 
-## Connetti le vendite a Marketo {#connect-sales-connect-to-marketo}
+## Connetti vendite Connetti a Marketo {#connect-sales-connect-to-marketo}
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
 PICC
 
@@ -47,6 +48,6 @@ PICC
 
 PICC
 
-1. Immetti le credenziali Marketo fornite dall’amministratore Marketo e fai clic su **Connetti**.
+1. Inserisci le credenziali Marketo fornite dall’amministratore di Marketo e fai clic su **Connetti**.
 
 PICC

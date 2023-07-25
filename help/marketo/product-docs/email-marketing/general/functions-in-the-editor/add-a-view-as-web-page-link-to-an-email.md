@@ -1,22 +1,23 @@
 ---
 unique-page-id: 1900560
-description: Aggiungere una visualizzazione come collegamento a una pagina web a un’e-mail - Documenti Marketo - Documentazione del prodotto
-title: Aggiungere una visualizzazione come collegamento a una pagina web a un’e-mail
+description: Aggiungere un collegamento Visualizza come pagina web a un messaggio e-mail - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere a un messaggio e-mail un collegamento Visualizza come pagina web
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Aggiungere una visualizzazione come collegamento a una pagina web a un’e-mail {#add-a-view-as-web-page-link-to-an-email}
+# Aggiungere a un messaggio e-mail un collegamento Visualizza come pagina web {#add-a-view-as-web-page-link-to-an-email}
 
-Le e-mail hanno funzionalità limitate (CSS limitati e nessun JavaScript o moduli). Utilizza Visualizza come pagina web per fornire un collegamento che consenta di visualizzare l’e-mail in un browser. Verrà eseguito il cookie del destinatario utilizzando Munchkin.
+Le e-mail hanno funzionalità limitate (CSS limitate e nessun JavaScript o moduli). Utilizza Visualizza come pagina web per fornire un collegamento che consenta di visualizzare l’e-mail in un browser. In questo modo il destinatario verrà cookie utilizzando Munchkin.
 
 >[!NOTE]
 >
->Durante la creazione di un nuovo messaggio e-mail, Visualizza come pagina web non è abilitato. Se lo abiliti e cloni l’e-mail, questa impostazione verrà copiata.
+>Durante la creazione di una nuova e-mail, l’opzione Visualizza come pagina web non è abilitata. Se lo abiliti e cloni l’e-mail, questa impostazione verrà copiata.
 
 1. Seleziona l’e-mail e fai clic su **Modifica bozza**.
 
@@ -26,16 +27,16 @@ Le e-mail hanno funzionalità limitate (CSS limitati e nessun JavaScript o modul
 
    ![](assets/two-5.png)
 
-1. Controlla la **Includi visualizzazione come pagina web** e fai clic su **Salva**.
+1. Controlla la **Includi visualizzazione come pagina Web** e fai clic su **Salva**.
 
    ![](assets/three-4.png)
 
-Ecco un esempio di come si presenta:
+Ecco un esempio:
 
 ![](assets/four-3.png)
 
 >[!TIP]
 >
->Il collegamento Visualizza come pagina web verrà visualizzato solo dopo l’invio dell’e-mail. Inviati un test da visualizzare.
+>Il collegamento Visualizza come pagina web viene visualizzato solo dopo l’invio dell’e-mail. Invia un test da visualizzare.
 
-Per modificare il testo predefinito, vedi [Modificare il messaggio &quot;Visualizza come pagina web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Per modificare il testo predefinito, vedere [Modifica il messaggio &quot;Visualizza come pagina web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

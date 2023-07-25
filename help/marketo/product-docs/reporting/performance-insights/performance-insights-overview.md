@@ -3,7 +3,8 @@ unique-page-id: 12979006
 description: Panoramica di Performance Insights - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Performance Insights
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # Panoramica di Performance Insights {#performance-insights-overview}
 
-Marketo Performance Insights ti aiuta a ottimizzare il mix dei canali per la massima efficacia, nonché a individuare tendenze a lungo termine per individuare strategie vincenti coerenti.
+Marketo Performance Insights consente di ottimizzare il mix di canali per la massima efficacia e di individuare tendenze a lungo termine per individuare strategie vincenti coerenti.
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-Performance Insights carica i dati dai (fino a) 24 mesi precedenti. Sono inclusi i dati correnti relativi all’anno corrente e quelli relativi all’anno precedente. Ad esempio, il 31 gennaio 2019 , MPI caricherà i dati da quel mese e ogni mese dal 2018. Il 31 dicembre 2019, MPI caricherà i dati a partire da ogni mese del 2019 e del 2018.
+Performance Insights carica i dati (fino a) nei 24 mesi precedenti. Sono inclusi i dati correnti dell&#39;anno corrente e dell&#39;anno precedente. Ad esempio, il 31 gennaio 2019 , MPI caricherà i dati di quel mese e ogni mese a partire dal 2018. Il 31 dicembre 2019, MPI caricherà i dati da ogni mese del 2019 e del 2018.
 
 Per accedere a Performance Insights, fai clic sulla relativa icona nella schermata iniziale di Analytics.
 
@@ -26,23 +27,23 @@ Per accedere a Performance Insights, fai clic sulla relativa icona nella scherma
 
 ## Contributo {#contribution}
 
-Valutare il marketing [contributo alle entrate](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) in funzione dell&#39;acquisizione, dell&#39;influenza, della conversione, anche della crescita di base installata.
+Valutare i [contributo alle entrate](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) in funzione dell&#39;acquisizione, dell&#39;influenza e della conversione dei clienti, nonché della crescita della base installata.
 
 ![](assets/two.png)
 
-Per impostazione predefinita, i dati visualizzati riflettono le prestazioni in base al coinvolgimento. Puoi passare alle prestazioni in base a pipeline o ricavi semplicemente facendo clic su uno di essi.
+Per impostazione predefinita, i dati visualizzati riflettono le prestazioni per coinvolgimento. Puoi passare alle prestazioni per pipeline o ricavo semplicemente cliccando su uno di essi.
 
 ![](assets/3.png)
 
 ## Tendenza {#trend}
 
-Scopri [tendenze a lungo termine](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) individuare strategie vincenti coerenti.
+Scopri [tendenze a lungo termine](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) per individuare strategie vincenti coerenti.
 
 ![](assets/4.png)
 
 ## Impostazioni {#settings}
 
-Nelle dashboard Entrate e pipeline, fai clic sul pulsante [Impostazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) per impostare parametri aggiuntivi.
+Nei dashboard Ricavi e Pipeline, fai clic su [Impostazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) per impostare parametri aggiuntivi.
 
 ![](assets/5.png)
 
@@ -54,4 +55,4 @@ Nelle dashboard Entrate e pipeline, fai clic sul pulsante [Impostazioni](/help/m
 
 >[!NOTE]
 >
->Esporta i dati in Excel per visualizzare i dati disponibili per tutti i canali (non solo per i primi dieci). L&#39;esportazione PPT sarà WYSIWYG (l&#39;output imiterà ciò che si vede sullo schermo).
+>Esporta i dati in Excel per visualizzare i dati disponibili per tutti i canali (non solo per i primi dieci). L’esportazione PPT sarà WYSIWYG (l’output imiterà quanto visualizzato sullo schermo).

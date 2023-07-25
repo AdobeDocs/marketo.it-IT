@@ -1,24 +1,25 @@
 ---
 unique-page-id: 4719344
-description: Creare un segmento Web di base - Documenti Marketo - Documentazione del prodotto
-title: Creare un segmento Web di base
+description: Creazione di un segmento web di base - Documentazione di Marketo - Documentazione di prodotto
+title: Creare un segmento web di base
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-# Creare un segmento Web di base {#create-a-basic-web-segment}
+# Creare un segmento web di base {#create-a-basic-web-segment}
 
-Creiamo un segmento di base indirizzato a tutti i visitatori web dagli Stati Uniti e dall&#39;industria dei servizi finanziari.
+Creiamo un segmento di base destinato a tutti i visitatori web dagli Stati Uniti e dal settore dei servizi finanziari.
 
 1. Vai a **Segmenti**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Fai clic su **Crea nuovo**.
+1. Clic **Crea nuovo**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -38,7 +39,7 @@ Creiamo un segmento di base indirizzato a tutti i visitatori web dagli Stati Uni
    >
    >Il numero di città è limitato a 300 per segmento.
 
-1. Trascina **Industrie** dal menu di destra e rilascialo nell’editor segmenti.
+1. Trascina **Settori** dal menu di destra e rilascialo nell’editor segmenti.
 
    ![](assets/industries-hand.jpg)
 
@@ -46,13 +47,13 @@ Creiamo un segmento di base indirizzato a tutti i visitatori web dagli Stati Uni
 
    ![](assets/segment-industries.png)
 
-   Ora hai impostato un segmento di base per tutti i potenziali clienti che visitano il tuo sito web dagli Stati Uniti e dall&#39;industria finanziaria.
+   Ora hai impostato un segmento di base per tutti i potenziali clienti che visitano il tuo sito web dagli Stati Uniti e dal settore finanziario.
 
-1. Fai clic su **Salva** per salvare il segmento o **Salva e definisci campagna** per passare alla pagina Campagne .
+1. Clic **Salva** per salvare il segmento o **Salva e definisci campagna** per passare alla pagina Campagne.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Ora avete segmentato i vostri visitatori dagli Stati Uniti, andate avanti e aggiungete l&#39;industria dei servizi finanziari.
+Ora che hai segmentato i tuoi visitatori dagli Stati Uniti, vai avanti e aggiungi il settore dei servizi finanziari.
 
 >[!MORELIKETHIS]
 >

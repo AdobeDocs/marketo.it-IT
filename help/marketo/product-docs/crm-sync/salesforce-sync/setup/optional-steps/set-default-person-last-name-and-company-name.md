@@ -1,33 +1,34 @@
 ---
 unique-page-id: 4719291
-description: Imposta il cognome e il nome della società predefiniti - Marketo Docs - Documentazione del prodotto
-title: Imposta Cognome persona predefinito e Nome società
+description: Impostare il cognome e il nome società della persona predefinita - Documenti Marketo - Documentazione del prodotto
+title: Imposta cognome persona e nome società predefiniti
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Imposta Cognome persona predefinito e Nome società {#set-default-person-last-name-and-company-name}
+# Imposta cognome persona e nome società predefiniti {#set-default-person-last-name-and-company-name}
 
-Salesforce richiede il cognome (minimo) e il nome della società per i suoi Lead e Contatti. I record incompleti non verranno sincronizzati con Salesforce. Se desideri sincronizzare i record parziali, devi impostare i valori predefiniti per Marketo da utilizzare con Salesforce.
+Salesforce richiede (almeno) il cognome e il nome della società per i lead e i contatti. I record incompleti non verranno sincronizzati con Salesforce. Se si desidera sincronizzare record parziali, è necessario impostare i valori predefiniti per Marketo da utilizzare con Salesforce.
 
 1. Vai a **Amministratore** e fai clic su **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Fai clic su **Modifica opzioni di sincronizzazione**.
+1. Clic **Modifica opzioni di sincronizzazione**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Inserisci un **Cognome persona predefinito** e **Società a persona predefinita** quindi fai clic su **Salva**.
+1. Immetti un **Cognome persona predefinito** e un **Società persona predefinita** quindi fai clic su **Salva**.
 
    ![](assets/sync-options-hands.png)
 
    >[!NOTE]
    >
-   >Marketo assegna un valore predefinito solo quando il record viene inizialmente sincronizzato con Salesforce e solo se uno dei campi obbligatori è vuoto.
+   >Marketo assegna un valore predefinito solo quando il record viene sincronizzato inizialmente con Salesforce e solo se uno dei campi obbligatori è vuoto.
 
-Ed è questo! Ogni volta che a una persona manca un cognome e/o un nome società, Marketo aggiunge il valore predefinito durante la sincronizzazione del record.
+E questo è quanto! Ogni volta che a una persona mancano un cognome e/o il nome della società, Marketo aggiungerà il valore predefinito mentre sincronizza il record.

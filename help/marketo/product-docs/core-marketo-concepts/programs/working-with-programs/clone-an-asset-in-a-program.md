@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147152
-description: Clonare una risorsa in un programma - Documenti Marketo - Documentazione del prodotto
+description: Clonare una risorsa in un programma - Documentazione Marketo - Documentazione del prodotto
 title: Clonare una risorsa in un programma
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # Clonare una risorsa in un programma {#clone-an-asset-in-a-program}
 
-Clonazione di cloni di un programma _tutto_. A volte è sufficiente clonare una risorsa. Ecco come.
+Clonazione di un programma duplicati _tutto_. A volte ti basta clonare una risorsa. Ecco come.
 
 >[!NOTE]
 >
->Sarà necessario eseguire ulteriori passaggi per [clonare un gruppo di test della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>Dovrai eseguire ulteriori passaggi per [clonare un gruppo di test di una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Clonare una risorsa locale {#clone-a-local-asset}
 
@@ -24,23 +25,23 @@ Clonazione di cloni di un programma _tutto_. A volte è sufficiente clonare una 
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare il programma.
+1. Seleziona il programma.
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fai clic su **Clona**.
+1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Clic **Clona**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. È sufficiente compilare le informazioni e fare clic su **Clona**.
+1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. Compila le informazioni e fai clic su **Clona**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >Puoi anche clonare una risorsa in un programma diverso. Utilizza la **Programma** a discesa per effettuare la selezione.
+   >Puoi anche clonare una risorsa in un altro programma. Utilizza il **Programma** per effettuare la selezione.
 
-1. Fantastico! Ora dovresti vedere la nuova risorsa clonata.
+1. Fantastico! Ora dovresti visualizzare la nuova risorsa clonata.
 
    ![](assets/report.jpg)
 

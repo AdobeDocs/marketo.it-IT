@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147031
-description: Elimina persona da SFDC - Documentazione Marketo - Documentazione del prodotto
+description: Elimina persona da SFDC - Documentazione di Marketo - Documentazione del prodotto
 title: Elimina persona da SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -18,7 +19,7 @@ Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come perso
 >
 >Disponibile solo se integrato con Salesforce.
 
-1. Nel database fare clic sulla persona che si desidera rimuovere da Salesforce. Quindi fai clic su **Azioni personali** e seleziona **Salesforce**.
+1. Nel database, fare clic sulla persona che si desidera rimuovere da Salesforce. Quindi fai clic su **Azioni della persona** e seleziona **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
@@ -26,12 +27,12 @@ Se devi rimuovere un set specifico di lead da Salesforce ma lasciarli come perso
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Assicurati che **Elimina in Marketo** impostazione **false**, quindi fai clic su **Esegui ora**.
+1. Assicurarsi che **Elimina in Marketo** impostazione è **false**, quindi fai clic su **Esegui ora**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
-   Una volta eseguito il passaggio del flusso, la tua persona non sarà più un lead in Salesforce ma rimarrà in Marketo.
+   Dopo l’esecuzione del passaggio di flusso, la persona non sarà più un lead in Salesforce, ma rimarrà in Marketo.
 
    >[!CAUTION]
    >
-   >Se si imposta **Elimina in Marketo** a **true** e cancellare le persone da Marketo e i lead da Salesforce, sono spariti per sempre. Questo non può essere annullato.
+   >Se si imposta **Elimina in Marketo** a **true** e cancellare le persone da Marketo e i lead da Salesforce, sono andati per sempre. Questa operazione non può essere annullata.

@@ -2,7 +2,8 @@
 description: Panoramica delle funzioni Analisi delle vendite - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica sulla funzione Azioni approfondimenti vendite
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 0%
@@ -130,7 +131,7 @@ Le seguenti azioni in blocco sono disponibili dal menu a discesa nella scheda El
 * Invia e-mail di vendita: possibilità di inviare e-mail personalizzate o modellate con visualizzazione, tracciamento dei clic e delle risposte
 * Invia campagna di vendita: aggiungi i lead ai playbook di vendita, una sequenza di e-mail e attività
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 Nella scheda Elementi di maggiore rilevanza sono disponibili le seguenti azioni in linea per singoli lead/contatti:
 
@@ -139,7 +140,7 @@ Nella scheda Elementi di maggiore rilevanza sono disponibili le seguenti azioni 
 * Connessione di vendita: effettua chiamate di vendita utilizzando la connessione di chiamata all&#39;interno del sistema CRM
 * Aggiungi attività: crea attività e-mail, chiamata, cliente o LinkedIn per potenziali lead
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **Scheda E-mail**
 
@@ -160,7 +161,7 @@ Nella scheda Elementi di maggiore rilevanza sono disponibili le seguenti azioni 
 * Sincronizza attività con Salesforce
 * Registra le attività nella sezione Cronologia attività Salesforce
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Feed live**
 
@@ -189,4 +190,4 @@ I filtri e i trigger includono:
 * Aggiunto alla campagna di vendita
 * Rimosso dalla campagna di vendita
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

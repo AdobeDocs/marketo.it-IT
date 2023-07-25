@@ -1,33 +1,34 @@
 ---
 unique-page-id: 11385183
-description: Rapporto vendite TAM - Documenti Marketo - Documentazione del prodotto
-title: Rapporto vendite TAM
+description: Rapporto vendite TAM - Documentazione Marketo - Documentazione del prodotto
+title: Report vendite TAM
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
-# Rapporto vendite TAM {#tam-sales-report}
+# Report vendite TAM {#tam-sales-report}
 
-Ricevi un’e-mail settimanale contenente i tuoi account principali e le loro tendenze settimanali.
+Ricevi un’e-mail settimanale contenente i tuoi account principali e le relative tendenze settimanali.
 
 >[!NOTE]
 >
 >Scopri come impostare questo rapporto [qui](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
-Il rapporto condivide:
+La relazione riporta:
 
-* Account denominati ordinati in base al punteggio di account scelto
-* Persone più coinvolte
+* Account denominati ordinati in base al punteggio account scelto
+* Principali persone coinvolte
 * Tendenze chiave e momenti interessanti
-* Collegamento per scaricare un file CSV contenente ulteriori dettagli
+* Un collegamento per scaricare un file CSV contenente ulteriori dettagli
 
 ![](assets/tam-sales-report-1.png)
 
-## Chiave dei rapporti sulle vendite {#sales-report-key}
+## Chiave report vendite {#sales-report-key}
 
 <table> 
  <tbody> 
@@ -35,25 +36,25 @@ Il rapporto condivide:
    <td><strong>Punteggio account</strong></td> 
    <td> 
     <div>
-      Tendenza settimanale per punteggio conto (selezionato nella configurazione), seguito dal punteggio conto corrente 
+      Tendenza settimanale per punteggio account (selezionato in configurazione), seguita da punteggio account corrente 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Pipeline di vendita</strong></td> 
    <td> 
     <div>
-      Tendenza settimanale per conduttura, seguita dalla pipeline corrente totale e dal numero di opportunità aperte 
+      Tendenza settimanale per pipeline, seguita dal totale della pipeline corrente e dal numero di opportunità aperte 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Visualizzazioni pagina</strong></td> 
    <td> 
     <div>
-      Tendenza settimanale delle visualizzazioni di pagina, seguita da visualizzazioni totali di pagina e dal numero di visitatori unici 
+      Tendenza settimanale delle visualizzazioni di pagina, seguita dal totale delle visualizzazioni di pagina e dal numero di visitatori univoci 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Momenti interessanti</strong></td> 
+   <td><strong>Momenti di interesse</strong></td> 
    <td> 
     <div>
       Numero totale di momenti interessanti che si sono verificati durante la settimana 

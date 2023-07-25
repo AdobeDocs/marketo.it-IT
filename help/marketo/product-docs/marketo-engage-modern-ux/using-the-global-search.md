@@ -1,8 +1,9 @@
 ---
-description: Utilizzo della ricerca globale - Documentazione di Marketo - Documentazione del prodotto
+description: Utilizzo di Global Search - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo della ricerca globale
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -11,31 +12,31 @@ ht-degree: 3%
 
 # Utilizzo della ricerca globale {#using-the-global-search}
 
-La potente ricerca globale offre un sacco di opzioni senza limiti sui risultati visualizzati.
+La potente ricerca globale offre numerose opzioni senza limiti per i risultati visualizzati.
 
 ## Esecuzione di una ricerca {#performing-a-search}
 
-1. Nella barra di navigazione globale, fai clic sull’icona di ricerca.
+1. Nella navigazione globale, fai clic sull’icona di ricerca.
 
    ![](assets/using-the-global-search-1.png)
 
-1. Digita il testo di identificazione della risorsa.
+1. Digita il testo di identificazione per la risorsa.
 
    ![](assets/using-the-global-search-2.png)
 
-1. Vengono visualizzati i risultati della ricerca. Puoi fare clic in un punto qualsiasi delle breadcrumb per passare direttamente a tale elemento.
+1. Vengono visualizzati i risultati della ricerca. Puoi fare clic in un punto qualsiasi di una delle breadcrumb per passare direttamente a tale elemento.
 
    ![](assets/using-the-global-search-3.png)
 
-1. In questo esempio, scegliamo di essere portati direttamente all&#39;e-mail che stiamo cercando. Fai clic sul nome dell’e-mail.
+1. In questo esempio, scegliamo di passare direttamente all’e-mail che stiamo cercando. Fai clic sul nome dell’e-mail.
 
    ![](assets/using-the-global-search-4.png)
 
-Viene inviata direttamente all’e-mail desiderata.
+Viene visualizzata direttamente l’e-mail desiderata.
 
 ![](assets/using-the-global-search-5.png)
 
-## Pagina Risultati ricerca {#search-results-page}
+## Pagina risultati di ricerca {#search-results-page}
 
 ![](assets/using-the-global-search-6.png)
 
@@ -43,7 +44,7 @@ Viene inviata direttamente all’e-mail desiderata.
  <tbody>
   <tr>
    <td>1</td> 
-   <td>Nome dell'elemento/destinazione</td> 
+   <td>Nome dell’articolo/destinazione</td> 
   </tr>
   <tr>
    <td>2</td> 
@@ -51,19 +52,19 @@ Viene inviata direttamente all’e-mail desiderata.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Data e ora dell'ultima modifica dell'elemento/destinazione</td> 
+   <td>Data e ora dell'ultima modifica dell'articolo/destinazione</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>Data e ora di creazione dell'elemento/destinazione</td> 
+   <td>Data e ora di creazione dell'articolo/destinazione</td> 
   </tr>
   <tr>
    <td>5</td> 
-   <td>Implementare filtri mirati per limitare i risultati della ricerca</td> 
+   <td>Implementare filtri mirati per limitare i risultati di ricerca</td> 
   </tr>
  </tbody>
 </table>
 
-**PASSAGGIO OPZIONALE**: Per utilizzare il filtro, seleziona semplicemente le opzioni desiderate.
+**PASSAGGIO FACOLTATIVO**: per utilizzare il filtro, seleziona semplicemente le opzioni desiderate.
 
 ![](assets/using-the-global-search-7.png)

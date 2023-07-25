@@ -1,39 +1,40 @@
 ---
 unique-page-id: 14352457
-description: Panoramica dei componenti aggiuntivi .NET - Documenti Marketo - Documentazione del prodotto
-title: Panoramica dei componenti aggiuntivi .NET
+description: Panoramica del componente aggiuntivo .NET - Documentazione di Marketo - Documentazione del prodotto
+title: Panoramica del componente aggiuntivo .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# Panoramica dei componenti aggiuntivi .NET {#net-add-in-overview}
+# Panoramica del componente aggiuntivo .NET {#net-add-in-overview}
 
 >[!NOTE]
 >
->Questo è il nostro vecchio componente aggiuntivo. Se è già installato, continuerà a funzionare fino al 2020. Se sei un nuovo utente, installa il nuovo [Componente aggiuntivo per Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Questo è il nostro vecchio componente aggiuntivo. Se è già installato, continuerà a funzionare fino al 2020. Se sei un nuovo utente, installa il nuovo [Componente aggiuntivo Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Collegamento di un contenuto {#attaching-a-piece-of-content}
+## Come allegare un contenuto {#attaching-a-piece-of-content}
 
-Aggiungi il contenuto tracciabile facendo clic sul pulsante **Contenuto** e caricamento di un file.
+Aggiungi contenuto tracciabile facendo clic sul pulsante **Contenuto** e caricare un file.
 
-Qualsiasi contenuto precedentemente caricato apparirà per voi da selezionare nella finestra a comparsa senza dover caricare di nuovo.
+Tutti i contenuti caricati in precedenza vengono visualizzati nella finestra a comparsa e selezionati senza dover essere caricati nuovamente.
 
 ## Funzionalità calendario {#calendar-functionality}
 
-Comunica ai destinatari quando sei disponibile premendo il pulsante **Calendario** pulsante .
+Informa i destinatari quando sei disponibile premendo il tasto **Calendario** pulsante.
 
-Consente di inserire il calendario di Outlook e di aggiungere date e ore specifiche e di aggiungere le informazioni al messaggio e-mail.
+In questo modo, puoi inserire il calendario di Outlook e aggiungere date e ore specifiche per il periodo in cui sei libero, nonché aggiungere le informazioni all’e-mail.
 
-## Estrazione in un modello {#pulling-in-a-template}
+## Estrazione di un modello {#pulling-in-a-template}
 
-Estrarre un modello Tout pre-fatto al messaggio di Outlook premendo il pulsante **Modelli** pulsante .
+Estrarre un modello precompilato nel messaggio di Outlook premendo il tasto **Modelli** pulsante.
 
-Ci sincronizziamo con tutti i tuoi modelli personali e con tutti i modelli condivisi tra il team. Inoltre, estraiamo automaticamente l’ultimo modello utilizzato e il modello più utilizzato per un facile accesso.
+Ci sincronizziamo con tutti i tuoi modelli personali ed eventuali modelli condivisi tra il team. Per un facile accesso, estraiamo automaticamente anche l’ultimo modello utilizzato e quello più utilizzato.
 
 ## Pulsante Tout It {#the-tout-it-button}
 
-Dopo aver compilato l’e-mail personalizzata e pronto per l’uso, assicurati di aver sempre colpito il **Taglia** per ottenere il tracciamento. Apparirà una scatola che legge &quot;aspetta, stiamo aggiungendo la magia del tracciamento.&quot;
+Una volta che l’e-mail personalizzata è stata compilata e pronta per essere spedita, assicurati di premere sempre il tasto **Tout It** per ottenere il tracciamento. Apparirà una casella con scritto &quot;aspetta, stiamo aggiungendo la magia del tracciamento.&quot;

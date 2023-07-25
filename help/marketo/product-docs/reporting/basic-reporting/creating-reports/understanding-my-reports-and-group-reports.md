@@ -1,31 +1,31 @@
 ---
 unique-page-id: 7511725
-description: Informazioni sui rapporti personali e sui rapporti di gruppo - Documenti Marketo - Documentazione del prodotto
-title: Informazioni sui rapporti personali e sui rapporti di gruppo
+description: I miei report e i report dei gruppi - Documentazione di Marketo - Documentazione del prodotto
+title: I miei report e i report dei gruppi
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Informazioni sui rapporti personali e sui rapporti di gruppo {#understanding-my-reports-and-group-reports}
+# I miei report e i report dei gruppi {#understanding-my-reports-and-group-reports}
 
-Puoi creare **Report personali** e **Report dei gruppi** dal [Home di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+Puoi creare **I miei report** e **Rapporti sui gruppi** dal [Pagina principale di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
-**Report personali** sono visibili solo a voi.
+**I miei report** sono visibili solo a te.
 
-**Report dei gruppi** sono visibili a tutti gli utenti di quell’area di lavoro.
+**Rapporti sui gruppi** sono visibili a tutti gli utenti in quell’area di lavoro.
 
 >[!NOTE]
 >
->Ogni area di lavoro ha un set di **Report personali** e **Report dei gruppi**.
+>Ogni area di lavoro ha un set di **I miei report** e **Rapporti sui gruppi**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
 >* [Salvare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [Clonazione di un rapporto in rapporti di gruppo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
-
+>* [Clonare un rapporto in rapporti di gruppo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

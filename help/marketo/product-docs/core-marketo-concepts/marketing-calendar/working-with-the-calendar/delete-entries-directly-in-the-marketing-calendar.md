@@ -3,7 +3,8 @@ unique-page-id: 2953358
 description: Eliminare le voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
 title: Elimina voci direttamente nel calendario di marketing
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

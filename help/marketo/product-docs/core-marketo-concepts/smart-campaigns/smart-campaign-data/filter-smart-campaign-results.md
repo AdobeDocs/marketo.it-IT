@@ -1,26 +1,27 @@
 ---
 unique-page-id: 1147068
-description: Filtrare i risultati di una campagna avanzata - Documenti Marketo - Documentazione del prodotto
-title: Filtrare i risultati di una campagna avanzata
+description: Filtrare i risultati di una campagna intelligente - Documentazione Marketo - Documentazione del prodotto
+title: Filtrare i risultati della campagna avanzata
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Filtrare i risultati di una campagna avanzata {#filter-smart-campaign-results}
+# Filtrare i risultati della campagna avanzata {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
->[Visualizzare i risultati delle campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
+>[Visualizzare i risultati di una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
-Filtra i risultati delle campagne intelligenti per visualizzare attività specifiche rilevanti.
+Filtra i risultati delle campagne intelligenti per visualizzare le attività specifiche che ti interessano.
 
-## Filtrare per filtri salvati {#filter-by-saved-filters}
+## Filtra per filtri salvati {#filter-by-saved-filters}
 
-1. Nella tua campagna intelligente **Risultati** scheda , fai clic su **Filtro** e selezionare un filtro salvato.
+1. Nella tua campagna intelligente **Risultati** , fare clic su **Filtro** e seleziona un filtro salvato.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -34,7 +35,7 @@ Filtra i risultati delle campagne intelligenti per visualizzare attività specif
 
    ![](assets/filterscustom-hands.png)
 
-1. Seleziona i tipi di attività da visualizzare, quindi fai clic su **Salva con nome** .
+1. Seleziona i tipi di attività che desideri visualizzare e quindi fai clic su **Salva con nome** .
 
    ![](assets/activityfiltersettings-hands.png)
 
@@ -42,7 +43,7 @@ Filtra i risultati delle campagne intelligenti per visualizzare attività specif
    >
    >Fai clic su **Applica** per applicare direttamente un filtro personalizzato ai risultati senza salvarlo.
 
-1. Immetti un nome di filtro e fai clic su **Salva**.
+1. Immetti un nome per il filtro e fai clic su **Salva**.
 
    ![](assets/saveasfilter-hands.png)
 
@@ -50,4 +51,4 @@ Filtra i risultati delle campagne intelligenti per visualizzare attività specif
 
    ![](assets/customfilter-hands.png)
 
-   Non è fantastico? Il filtro personalizzato è ora disponibile per l’utilizzo in tutti i registri attività.
+   Non è figo? Il filtro personalizzato è ora disponibile per l’utilizzo in tutti i registri attività.

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 14745750
-description: Impostazioni degli obiettivi dell'algoritmo - Documentazione Marketo - Documentazione del prodotto
-title: Impostazioni dell’obiettivo dell’algoritmo
+description: Impostazioni obiettivo algoritmo - Documentazione Marketo - Documentazione del prodotto
+title: Impostazioni obiettivo algoritmo
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Impostazioni dell’obiettivo dell’algoritmo {#algorithm-goal-settings}
+# Impostazioni obiettivo algoritmo {#algorithm-goal-settings}
 
-Le impostazioni dell’obiettivo dell’algoritmo consentono di impostare l’obiettivo finale dell’algoritmo di intelligenza artificiale del contenuto predittivo in modo da allinearlo agli obiettivi aziendali.
+Impostazioni obiettivo algoritmo consente di impostare l’obiettivo finale dell’algoritmo di Predictive Content (intelligenza artificiale) in modo che sia allineato agli obiettivi aziendali.
 
-1. In Predictive Content, fai clic sul nome dell’accesso e seleziona **Impostazioni contenuto**.
+1. In Predictive Content (Contenuto predittivo), fai clic sul nome del login e seleziona **Impostazioni contenuto**.
 
    ![](assets/1.png)
 
@@ -26,10 +27,10 @@ Le impostazioni dell’obiettivo dell’algoritmo consentono di impostare l’ob
 
    ![](assets/three-new.png)
 
-   | **Clic** | Visualizza il contenuto con maggiore probabilità che la persona che visualizza il contenuto vi faccia clic |
+   | **Clic** | Visualizzare il contenuto che molto probabilmente farà fare clic su di esso l’utente che lo visualizza |
    |---|---|
-   | **Conversioni** | Visualizza il contenuto che più probabilmente farà sì che la persona che visualizza il contenuto invii un modulo |
+   | **Conversioni** | Visualizza il contenuto che probabilmente farà inviare un modulo all’utente che lo visualizza |
 
-1. Fai clic su **Salva** al termine.
+1. Clic **Salva** al termine.
 
    ![](assets/four.png)

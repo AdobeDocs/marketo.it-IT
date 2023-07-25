@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359532
-description: Utilizzare i contenuti dinamici in una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
-title: Utilizzare i contenuti dinamici in una pagina di destinazione
+description: Utilizzare il contenuto dinamico in una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
+title: Utilizzare il contenuto dinamico in una pagina di destinazione
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# Utilizzare i contenuti dinamici in una pagina di destinazione {#use-dynamic-content-in-a-landing-page}
+# Utilizzare il contenuto dinamico in una pagina di destinazione {#use-dynamic-content-in-a-landing-page}
 
 >[!PREREQUISITES]
 >
 >* [Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Creare una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [Aggiungere un nuovo modulo a una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
 
 L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le persone con informazioni mirate.
 
@@ -31,11 +31,11 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le per
 
    ![](assets/landingpageeditdraft.jpg)
 
-   Fai clic su Segmento per.
+   Fai clic su Segmenta per.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Inserisci il nome Segmentazione e fai clic su Salva.
+   Inserisci il nome della segmentazione e fai clic su Salva.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
@@ -45,19 +45,19 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le per
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, tutti gli elementi della pagina di destinazione sono statici.
+   >Tutti gli elementi della pagina di destinazione sono statici per impostazione predefinita.
 
 ## Rendi elemento dinamico {#make-element-dynamic}
 
-1. Trascina gli elementi da Statico a **Dinamico**.
+1. Trascina gli elementi da Static a **Dinamico**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Puoi anche creare elementi statici o dinamici dall’elemento **Impostazioni**.
+1. Puoi anche rendere gli elementi statici o dinamici dall’elemento **Impostazioni**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
-## Applica contenuto dinamico {#apply-dynamic-content}
+## Applicare contenuti dinamici {#apply-dynamic-content}
 
 1. Seleziona un elemento sotto un segmento, quindi fai clic su **Modifica**. Ripeti per ogni segmento.
 
@@ -69,16 +69,15 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le per
 
    >[!CAUTION]
    >
-   >Le modifiche al blocco di contenuto del segmento predefinito vengono applicate a tutti i segmenti.
+   >Le modifiche al blocco di contenuto predefinito del segmento vengono applicate a tutti i segmenti.
 
    >[!TIP]
    >
-   >Crea una pagina di destinazione predefinita prima di modificare il contenuto per i vari segmenti.
+   >Crea una pagina di destinazione predefinita prima di modificare il contenuto dei vari segmenti.
 
-Voila! Ora puoi inviare contenuto mirato.
+Voilà! Ora puoi inviare contenuti mirati.
 
 >[!MORELIKETHIS]
 >
->* [Visualizzare in anteprima una pagina di destinazione con contenuto dinamico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Utilizzo di contenuti dinamici in un’e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
+>* [Anteprima di una pagina di destinazione con contenuto dinamico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Utilizzo di contenuti dinamici in un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

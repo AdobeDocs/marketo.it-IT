@@ -1,18 +1,19 @@
 ---
 unique-page-id: 14352402
-description: Invitare gli utenti - Documentazione Marketo - Documentazione del prodotto
-title: Invitare gli utenti
+description: Invitare utenti - Documentazione di Marketo - Documentazione del prodotto
+title: Invita utenti
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Invitare gli utenti {#invite-users}
+# Invita utenti {#invite-users}
 
-L&#39;aggiunta di utenti è facile e veloce!
+Aggiungere utenti è facile e veloce.
 
 1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
@@ -22,18 +23,18 @@ L&#39;aggiunta di utenti è facile e veloce!
 
    ![](assets/invite-team-members-2.png)
 
-1. Fai clic su **Invitare gli utenti**.
+1. Clic **Invita utenti**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Inserisci gli indirizzi e-mail degli utenti che desideri aggiungere e fai clic su **Successivo**.
+1. Inserisci gli indirizzi e-mail dei singoli utenti che desideri aggiungere e fai clic su **Successivo**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, tutti i nuovi membri verranno aggiunti al team Everyone.
+   >Per impostazione predefinita, tutti i nuovi membri vengono aggiunti al team Everyone.
 
-1. Fai clic su **OK**.
+1. Clic **OK**.
 
    ![](assets/five.png)

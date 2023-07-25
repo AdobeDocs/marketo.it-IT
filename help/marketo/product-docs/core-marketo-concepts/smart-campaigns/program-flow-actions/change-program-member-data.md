@@ -1,23 +1,24 @@
 ---
-description: Modificare i dati dei membri del programma - Documentazione Marketo - Documentazione del prodotto
-title: Modifica dati dei membri del programma
+description: Modifica dati membro del programma - Documentazione di Marketo - Documentazione del prodotto
+title: Modifica dati membro programma
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Modifica dati dei membri del programma {#change-program-member-data}
+# Modifica dati membro programma {#change-program-member-data}
 
-È possibile utilizzare Marketo per aggiornare il valore di un campo utilizzando l’azione Cambia flusso di valore dei dati.
+È possibile utilizzare Marketo per aggiornare il valore di un campo utilizzando l&#39;azione di flusso Modifica valore dati.
 
 >[!NOTE]
 >
->Puoi anche impedire l’aggiornamento di un campo. Per ulteriori informazioni, consulta la sezione su come aggiornare un campo .
+>Puoi anche impedire l’aggiornamento di un campo. Per ulteriori informazioni, consulta Bloccare aggiornamenti a un campo.
 
-1. Nella scheda Flusso di Smart Campaign, passa il **Modifica dati dei membri del programma** Flusso e scegli il programma desiderato.
+1. Nella scheda Flusso della campagna avanzata, riporta **Modifica dati membro programma** e scegliere il programma desiderato.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/change-program-member-data-2.png)
 
-1. Immettere il valore dell&#39;attributo desiderato.
+1. Immettere il valore di attributo desiderato.
 
    ![](assets/change-program-member-data-3.png)
 
@@ -33,14 +34,13 @@ ht-degree: 0%
 >
 >Puoi anche utilizzare i token in Nuovo valore.
 
-Ora esegui la Smart Campaign e hai finito!
+Ora esegui Smart Campaign ed è tutto pronto!
 
 >[!TIP]
 >
->Se desideri cancellare i campi invece di aggiornarli, puoi immettere &quot;NULL&quot; (senza virgolette, tutte maiuscole) come nuovo valore.
+>Se si desidera cancellare i campi invece di aggiornarli, è possibile immettere &quot;NULL&quot; (nessuna virgoletta, tutte maiuscole) come Nuovo valore.
 
 >[!MORELIKETHIS]
 >
 >* [Utilizzare i token nei passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
 >* [Aggiungere dati a un campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
-

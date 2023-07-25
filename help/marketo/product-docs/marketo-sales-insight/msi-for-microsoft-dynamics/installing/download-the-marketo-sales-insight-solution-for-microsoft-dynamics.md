@@ -1,11 +1,12 @@
 ---
 unique-page-id: 6849070
-description: Scarica la soluzione Marketo Sales Insight per Microsoft Dynamics - Documenti Marketo - Documentazione del prodotto
+description: Scarica la soluzione Marketo Sales Insight per la documentazione di Microsoft Dynamics - Marketo - Documentazione del prodotto
 title: Scarica la soluzione Marketo Sales Insight per Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -18,13 +19,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Il plug-in in questa pagina è per coloro che si sincronizzano con il Marketo Engage utilizzando la soluzione di sincronizzazione CRM nativa di Marketo a Dynamics 365. Per coloro che hanno: una sincronizzazione personalizzata, MS Dynamics 365 Online (9.x e versioni successive) e hanno acquistato Marketo Sales Insight, il [il pacchetto è qui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
+>Il plug-in in questa pagina è per coloro che eseguono la sincronizzazione con il Marketo Engage utilizzando la soluzione di sincronizzazione CRM nativa di Marketo per Dynamics 365. Per coloro che hanno: una sincronizzazione personalizzata, MS Dynamics 365 Online (9.x e versioni successive) e hanno acquistato Marketo Sales Insight, il [il pacchetto è qui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 1. Vai a **Amministratore** area.
 
    ![](assets/mainnavhand.png)
 
-1. Fai clic su **CRM**.
+1. Clic **CRM**.
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
@@ -40,4 +41,4 @@ ht-degree: 0%
 
    ![](assets/msd-online.png)
 
-Fantastico! Sul dispositivo verrà scaricato un file zip della soluzione.
+Fantastico! Un file zip della soluzione verrà scaricato sul dispositivo.

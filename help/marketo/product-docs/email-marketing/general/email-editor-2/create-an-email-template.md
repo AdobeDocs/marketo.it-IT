@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10096400
-description: Creare un modello e-mail - Documenti Marketo - Documentazione del prodotto
+description: Creazione di un modello di e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Creare un modello e-mail
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
-source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -12,23 +13,23 @@ ht-degree: 0%
 
 # Creare un modello e-mail {#create-an-email-template}
 
-Segui questi passaggi per creare un nuovo modello e-mail.
+Per creare un nuovo modello di e-mail, segui la procedura riportata di seguito.
 
 >[!NOTE]
 >
->Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi relativi a HTML personalizzati. Per assistenza su HTML, consulta uno sviluppatore web.
+>Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di custom HTML. Per assistenza HTML, consulta uno sviluppatore web.
 
 >[!CAUTION]
 >
->L’editor che utilizziamo converte i valori delle proprietà CSS a colori e di sfondo in minuscolo, quindi evita di usare maiuscole e minuscole e utilizza invece nomi o trattini minuscoli.
+>L’editor che utilizziamo converte i valori delle proprietà CSS color e background-color in minuscolo, quindi evita di usare le maiuscole/minuscole e utilizza invece nomi o trattini minuscoli.
 
-## Creare un nuovo modello e-mail {#create-a-new-email-template}
+## Crea un nuovo modello e-mail {#create-a-new-email-template}
 
-1. Fai clic su **Design Studio**.
+1. Clic **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Fai clic su **Nuovo**, quindi seleziona **Nuovo modello e-mail**.
+1. Clic **Nuovo**, quindi seleziona **Nuovo modello e-mail**.
 
    ![](assets/ds-two.png)
 
@@ -42,25 +43,25 @@ Segui questi passaggi per creare un nuovo modello e-mail.
 
    >[!CAUTION]
    >
-   >Anche se non esiste un limite rigido, una volta che un modello e-mail viene utilizzato da oltre 500 e-mail, la riapprovazione di quel modello dopo un aggiornamento potrebbe causare problemi di prestazioni. Una volta che un modello e-mail è associato a 500 e-mail, ti consigliamo di creare un nuovo modello.
+   >Anche se non esiste alcun limite, una volta che un modello e-mail viene utilizzato da oltre 500 e-mail, la sua riapprovazione dopo un aggiornamento potrebbe causare problemi di prestazioni. Per creare un nuovo modello, consigliamo di associare a un modello e-mail 500 e-mail.
 
-## Salvare un’e-mail come modello {#save-an-email-as-a-template}
+## Salvare un messaggio e-mail come modello {#save-an-email-as-a-template}
 
-Se hai creato un messaggio e-mail che desideri salvare come modello per utilizzi futuri, segui questi semplici passaggi.
+Se hai creato un’e-mail da salvare come modello da utilizzare in futuro, segui questi semplici passaggi.
 
-1. Fai clic su **Attività di marketing**.
+1. Clic **Attività di marketing**.
 
    ![](assets/one.png)
 
-1. Trova e seleziona il tuo indirizzo e-mail, quindi fai clic su **Modifica bozza**.
+1. Trova e seleziona l’e-mail, quindi fai clic su **Modifica bozza**.
 
    ![](assets/two-1.png)
 
-1. Fai clic sul pulsante **Azioni e-mail** a discesa e seleziona **Salva come modello**.
+1. Fai clic su **Azioni e-mail** a discesa e selezionare **Salva come modello**.
 
    ![](assets/four-1.png)
 
-1. Fai clic sul pulsante **Cartella** a discesa, seleziona il punto in cui vuoi che il modello viva e fai clic su **Salva**.
+1. Fai clic su **Cartella** , seleziona la posizione in cui vuoi inserire il modello e fai clic su **Salva**.
 
    ![](assets/five-1.png)
 
@@ -68,9 +69,9 @@ Se hai creato un messaggio e-mail che desideri salvare come modello per utilizzi
 
    >[!CAUTION]
    >
-   >Quando salvi un’e-mail come modello, i valori delle variabili non vengono riportati. Le variabili continueranno a utilizzare i valori predefiniti specificati nel modello sottostante. Anche i moduli disponibili nell’e-mail non verranno riportati a meno che non siano stati inseriti nel corpo dell’e-mail.
+   >Quando si salva un’e-mail come modello, i valori delle variabili non vengono riportati. Le variabili continueranno a utilizzare i valori predefiniti specificati nel modello sottostante. Inoltre, i moduli disponibili nell’e-mail non vengono riportati, a meno che non siano stati inseriti nel corpo dell’e-mail.
 
-Per personalizzare il modello e-mail, controlla l’articolo seguente.
+Per personalizzare il modello di e-mail, consulta l’articolo seguente.
 
 >[!MORELIKETHIS]
 >

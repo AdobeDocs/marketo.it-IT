@@ -1,27 +1,28 @@
 ---
 unique-page-id: 10096725
-description: Creare un evento in Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Creazione di un evento in Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Creare un evento in Marketo
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Creare un evento in Marketo {#create-an-event-in-marketo}
 
-Un evento Marketo tiene traccia della progressione delle persone attraverso un programma. Invia le informazioni di registrazione e richiama le informazioni di presenza utilizzando l&#39;adattatore ON24. L’evento acquisisce lo stato delle persone durante il loro avanzamento.
+Un evento Marketo traccia la progressione delle persone attraverso un programma. Invia le informazioni di registrazione e richiama le informazioni sulla partecipazione utilizzando l&#39;adattatore ON24. L’evento acquisisce lo stato delle tue persone mentre progrediscono attraverso di esso.
 
 Ecco come vengono scambiati i dati:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Quando crei un evento Marketo, seleziona **Webinar** come tipo di canale. Puoi modificare questo canale in Amministratore e creare un nuovo canale. Se crei un nuovo canale, deve essere del tipo **Evento con Webinar** affinché l’integrazione funzioni. Vedi [Creare un canale del programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;} per ulteriori informazioni.
+Quando crei l’evento Marketo, seleziona **Webinar** come tipo di canale. Puoi modificare questo canale in Admin (Amministrazione) e crearne uno nuovo. Se crei un nuovo canale, questo deve essere del tipo **Evento con webinar** affinché l’integrazione funzioni. Consulta [Creare un canale del programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} per ulteriori informazioni.
 
-Il passaggio successivo è: [configurare le impostazioni evento e sincronizzare Marketo con il webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target=&quot;_blank&quot;}.
+Il passaggio successivo consiste nel [configurare le impostazioni degli eventi e sincronizzare Marketo con il webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Informazioni sugli eventi delle schede di rete Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

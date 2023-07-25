@@ -1,26 +1,27 @@
 ---
 unique-page-id: 2951220
-description: Creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile - Marketo Docs - Documentazione del prodotto
-title: Creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile
+description: Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile - Documentazione di Marketo - Documentazione del prodotto
+title: Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-# Creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile {#build-a-people-performance-report-with-mobile-platform-columns}
+# Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile {#build-a-people-performance-report-with-mobile-platform-columns}
 
-Segui questi passaggi per creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile (iOS/Android).
+Per creare un rapporto sulle prestazioni delle persone con colonne di piattaforma mobile (iOS/Android), segui la procedura riportata di seguito.
 
-## Creare elenchi smart mobili {#create-mobile-smart-lists}
+## Creare elenchi avanzati per dispositivi mobili {#create-mobile-smart-lists}
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Scegli un programma.
+1. Scegliere un programma.
 
    ![](assets/two-1.png)
 
@@ -28,7 +29,7 @@ Segui questi passaggi per creare un rapporto sulle prestazioni delle persone con
 
    ![](assets/three-1.png)
 
-1. Fai clic su **Elenco avanzato**.
+1. Clic **Elenco avanzato**.
 
    ![](assets/four-1.png)
 
@@ -50,7 +51,7 @@ Segui questi passaggi per creare un rapporto sulle prestazioni delle persone con
 
    >[!TIP]
    >
-   >In questo esempio è stato utilizzato il filtro E-mail aperta . È inoltre possibile utilizzare il filtro E-mail con clic in quanto presenta il vincolo Piattaforma .
+   >In questo esempio è stato utilizzato il filtro E-mail aperta. Puoi anche utilizzare il filtro E-mail selezionata poiché presenta il vincolo Platform.
 
 1. Imposta piattaforma su **iOS**.
 
@@ -58,13 +59,13 @@ Segui questi passaggi per creare un rapporto sulle prestazioni delle persone con
 
    >[!NOTE]
    >
-   >Almeno una persona deve aver aperto una delle tue e-mail su un dispositivo iOS per consentire all’utente di Marketo di trovarlo. Se non viene visualizzato, puoi digitarlo manualmente in e salvarlo.
+   >Almeno una persona deve aver aperto una delle tue e-mail su un dispositivo iOS affinché il suggerimento automatico di Marketo possa trovarla. Se non viene visualizzato, puoi digitarlo manualmente e salvarlo.
 
-   Ora crea un secondo elenco smart per la piattaforma &quot;Android&quot;. Al termine, passa alla sezione successiva.
+   Ora crea un secondo elenco avanzato per la piattaforma &quot;Android&quot;. Al termine, passa alla sezione successiva.
 
 ## Creare un rapporto sulle prestazioni delle persone {#create-a-people-performance-report}
 
-1. In Attività di marketing, seleziona il programma che ospita il tuo **iOS** e **Android** elenchi smart.
+1. In Attività di marketing, seleziona il programma che contiene il **iOS** e **Android** elenchi avanzati.
 
    ![](assets/ten.png)
 
@@ -72,11 +73,11 @@ Segui questi passaggi per creare un rapporto sulle prestazioni delle persone con
 
    ![](assets/eleven.png)
 
-1. Fai clic su **Rapporto**.
+1. Clic **Report**.
 
    ![](assets/twelve.png)
 
-1. Imposta tipo su **Prestazioni delle persone**.
+1. Imposta tipo su **Prestazioni persone**.
 
    ![](assets/thirteen.png)
 
@@ -86,22 +87,22 @@ Segui questi passaggi per creare un rapporto sulle prestazioni delle persone con
 
    Stai andando alla grande! Passiamo ora alla sezione successiva.
 
-## Aggiungi elenchi smart mobili come colonne {#add-mobile-smart-lists-as-columns}
+## Aggiungi elenchi avanzati mobili come colonne {#add-mobile-smart-lists-as-columns}
 
-1. Nel rapporto appena creato, fai clic su **Configurazione**, quindi trascina **Colonne personalizzate** nell&#39;area di lavoro.
+1. Nel report appena creato, fai clic su **Configurazione**, quindi trascina **Colonne personalizzate** nell’area di lavoro.
 
    ![](assets/fifteen.png)
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, il rapporto Prestazioni persone considera gli ultimi 7 giorni. Puoi modificare l’intervallo temporale facendo doppio clic su di esso.
+   >Per impostazione predefinita, il rapporto Prestazioni persone esamina gli ultimi 7 giorni. Per modificare l’intervallo temporale, fai doppio clic su di esso.
 
-1. Trova e seleziona gli elenchi smart creati in precedenza e fai clic su **Applica**.
+1. Trova e seleziona gli elenchi avanzati creati in precedenza e fai clic su **Applica**.
 
    ![](assets/sixteen.png)
 
-1. Fai clic su **Rapporto** per eseguire il rapporto e visualizzare i dati.
+1. Clic **Report** per eseguire il rapporto e visualizzare i dati.
 
    ![](assets/seventeen.png)
 
-   Forte, vero? Ben fatto!
+   Fantastico, vero? Ben fatto!

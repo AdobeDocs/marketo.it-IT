@@ -1,36 +1,37 @@
 ---
 unique-page-id: 2953038
-description: Clonazione di un gruppo di test della pagina di destinazione - Marketo Docs - Documentazione del prodotto
-title: Clonazione di un gruppo di test per una pagina di destinazione
+description: Clonazione di un gruppo di test di una pagina di destinazione - Documentazione di Marketo - Documentazione del prodotto
+title: Clonazione di un gruppo di test di una pagina di destinazione
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-# Clonazione di un gruppo di test per una pagina di destinazione {#cloning-a-landing-page-test-group}
+# Clonazione di un gruppo di test di una pagina di destinazione {#cloning-a-landing-page-test-group}
 
-In Design Studio è possibile trovare e duplicare un gruppo di test della pagina di destinazione.
+Da Design Studio è possibile trovare e duplicare un gruppo di test di una pagina di destinazione.
 
-1. Fai clic con il pulsante destro del mouse su una pagina non approvata. Seleziona **Clona**.
+1. Fare clic con il pulsante destro del mouse su una pagina non approvata. Seleziona **Clona**.
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 
-1. Assegna una nuova pagina clonata **Nome**. Le pagine clonate vengono visualizzate nella parte inferiore della cartella corrente.
+1. Assegna una nuova pagina duplicata **Nome**. Le pagine clonate vengono visualizzate nella parte inferiore della cartella corrente.
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
-1. Crea un nuovo gruppo di test facendo clic su **Nuovo** e prelievo **Nuovo gruppo di test**.
+1. Creare un nuovo gruppo di test facendo clic su **Nuovo** e prelievo **Nuovo gruppo di test**.
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. Nella finestra di dialogo Crea nuove pagine di destinazione, immetti il nuovo gruppo di test **Nome**.
+1. Nella finestra di dialogo Crea nuove pagine di destinazione, inserisci il nuovo gruppo di test **Nome**.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. Nella parte inferiore della finestra di dialogo, seleziona le pagine clonate nel **Pagine di destinazione disponibili** e fai clic sulla freccia rivolta a destra per includerla nell&#39;elenco **Pagine di destinazione testate**. Effettua questa operazione per tutte le pagine di destinazione desiderate nel gruppo.
+1. Nella parte inferiore della finestra di dialogo, seleziona le pagine clonate nella sezione **Pagine di destinazione disponibili** e fare clic sulla freccia rivolta a destra per includerlo nell&#39; **Pagine di destinazione testate**. Esegui questa operazione per tutte le pagine di destinazione che desideri nel gruppo.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
@@ -38,8 +39,8 @@ In Design Studio è possibile trovare e duplicare un gruppo di test della pagina
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
-1. Quando sei pronto per avviare il gruppo di test, fai clic con il pulsante destro del mouse sul gruppo nella struttura e scegli **Approva gruppo di test**.
+1. Quando si è pronti per avviare il gruppo di test, fare clic con il pulsante destro del mouse sul gruppo nella struttura e scegliere **Approva gruppo di test**.
 
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
-   Il gruppo ora terrà traccia attiva delle visite e delle completamenti del modulo, in modo da poter vedere quale pagina di destinazione funziona meglio.
+   Ora il gruppo tiene traccia delle visite e dei completamenti dei moduli in modo da poter vedere quale pagina di destinazione offre le prestazioni migliori.

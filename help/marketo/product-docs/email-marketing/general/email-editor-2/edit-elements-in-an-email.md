@@ -1,44 +1,45 @@
 ---
 unique-page-id: 1900558
-description: Modifica di elementi in un’e-mail - Documenti Marketo - Documentazione del prodotto
-title: Modificare gli elementi in un messaggio e-mail
+description: Modificare elementi in un messaggio e-mail - Documentazione di Marketo - Documentazione del prodotto
+title: Modificare elementi in un messaggio e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
 
 ---
 
-# Modificare gli elementi in un messaggio e-mail {#edit-elements-in-an-email}
+# Modificare elementi in un messaggio e-mail {#edit-elements-in-an-email}
 
-Le e-mail possono contenere quattro elementi diversi: Rich text, immagini, snippet e video. Ecco come modificarli.
+Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini, Snippet e Video. Ecco come modificarli.
 
-## Come modificare l’elemento RTF {#how-to-edit-the-rich-text-element}
+## Come modificare l’elemento Rich Text {#how-to-edit-the-rich-text-element}
 
-1. Trova il tuo messaggio e-mail, selezionalo e fai clic su **Modifica bozza**.
+1. Trova l’e-mail, selezionala e fai clic su **Modifica bozza**.
 
    ![](assets/one-edited.png)
 
-1. Verrà aperto l’editor e-mail. Seleziona Rich text, fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Si aprirà l’editor e-mail. Seleziona il Testo formattato, fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/two.png)
 
-   Puoi anche passare il cursore sull’elemento nel riquadro a destra, facendo apparire l’icona a forma di ingranaggio.
+   Puoi anche passare il cursore del mouse sull’elemento nel riquadro di destra, causando la visualizzazione dell’icona a forma di ingranaggio.
 
    ![](assets/three.png)
 
-1. Aggiungi/Modifica il testo e premi **Salva**.
+1. Aggiungere/modificare il testo e premere **Salva**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Puoi anche aggiungere immagini, token, tabelle e altri elementi. Vedi [Utilizzo dell’editor Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Puoi anche aggiungere immagini, token, tabelle e altri elementi. Consulta [Utilizzo dell’Editor Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
-   >Evita di copiare e incollare testo da un’origine di testo RTF, ad esempio un sito web o un documento Word. Invece, incolla prima il testo RTF in un editor di testo normale, ad esempio Blocco note (Windows) o Modifica testo (Mac). Una volta &quot;pulito&quot;, puoi copiarlo dall’editor di testo normale e incollarlo nell’e-mail.
+   >Evitare di copiare e incollare testo da un&#39;origine RTF, ad esempio un sito Web o un documento di Word. Piuttosto, incolla prima il testo RTF in un editor di testo normale, ad esempio Blocco note (Windows) o TextEdit (Mac). Una volta che è &quot;pulito&quot;, puoi copiarlo dall’editor di testo normale e incollarlo nell’e-mail.
 
 ## Come modificare l’elemento immagine {#how-to-edit-the-image-element}
 
@@ -46,7 +47,7 @@ Le e-mail possono contenere quattro elementi diversi: Rich text, immagini, snipp
 
    ![](assets/five.png)
 
-1. Fai clic sull’elemento immagine da modificare, quindi fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Fai clic sull’elemento Immagine da modificare, quindi fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/six.png)
 
@@ -58,35 +59,35 @@ Le e-mail possono contenere quattro elementi diversi: Rich text, immagini, snipp
 
    ![](assets/seven.png)
 
-   Sono disponibili tre opzioni per l’inserimento di un’immagine. Diamo un&#39;occhiata a ciascuno.
+   Sono disponibili tre opzioni per l&#39;inserimento di un&#39;immagine. Guardiamo ognuno di essi.
 
-   **External URL**
+   **URL esterno**
 
    >[!NOTE]
    >
-   >Se desideri utilizzare un token Marketo, utilizza questa opzione. Tieni presente che quando utilizzi un token, l’immagine apparirà interrotta nell’editor, ma verrà riprodotta in modalità Anteprima e nell’e-mail Invia esempio.
+   >Se desideri utilizzare un token Marketo, utilizza questa opzione. Tieni presente che quando utilizzi un token, l’immagine apparirà danneggiata nell’editor, ma verrà riprodotta in modalità Anteprima e nell’e-mail Invia campione.
 
-   Per utilizzare un URL esterno, incolla prima l’URL dell’immagine. Modifica le dimensioni in base alle tue esigenze e aggiungi del testo Alt (facoltativo). Quindi premere **Scambio**.
+   Per utilizzare un URL esterno, incolla prima l’URL dell’immagine. Modifica le dimensioni in base alle tue esigenze e aggiungi del testo alternativo (facoltativo). Quindi premere **Scambia**.
 
    ![](assets/eight.png)
 
    **Risorse del computer**
 
-   Per caricare un&#39;immagine dal computer, fai clic su **Sfoglia**.
+   Per caricare un&#39;immagine dal computer, fare clic su **Sfoglia**.
 
    ![](assets/nine.png)
 
-   Passa alla posizione dell&#39;immagine sul computer e inseriscila.
+   Passare alla posizione dell&#39;immagine nel computer e inserirla.
 
    ![](assets/ten.png)
 
-   Modificare le dimensioni in base alle esigenze, modificare il Testo Alt (facoltativo), quindi premere **Scambio**.
+   Modificare le dimensioni in base alle proprie esigenze, modificare il testo Alt (facoltativo), quindi premere **Scambia**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Se sostituisci un’immagine, dovrai controllare la **Sovrascrivi immagine esistente** che appare sotto l&#39;URL/nome immagine.
+   >Se stai sostituendo un&#39;immagine, dovrai controllare il **Sovrascrivi immagine esistente** che viene visualizzata sotto l’URL/nome dell’immagine.
 
    **Design Studio**
 
@@ -94,44 +95,44 @@ Le e-mail possono contenere quattro elementi diversi: Rich text, immagini, snipp
 
    ![](assets/twelve.png)
 
-   ...e inseriscilo. Modificare le dimensioni in base alle esigenze, modificare il Testo Alt (facoltativo), quindi premere **Scambio**.
+   ...e inseriscilo. Modificare le dimensioni in base alle proprie esigenze, modificare il testo Alt (facoltativo), quindi premere **Scambia**.
 
    ![](assets/thirteen.png)
 
-## Come modificare l’elemento frammento {#how-to-edit-the-snippet-element}
+## Come modificare l’elemento Snippet {#how-to-edit-the-snippet-element}
 
-1. Fai clic all’interno del modulo con l’elemento Snippet.
+1. Fare clic all&#39;interno del modulo con l&#39;elemento Snippet.
 
    ![](assets/fourteen.png)
 
-1. Fai clic sull’elemento Frammento , quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Fai clic sull’elemento Snippet, quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/fifteen.png)
 
-1. Trova il tuo frammento, selezionalo e fai clic su **Salva**.
+1. Trovare il frammento, selezionarlo e fare clic su **Salva**.
 
    ![](assets/sixteen.png)
 
-1. Il tuo frammento si popola.
+1. Lo snippet viene quindi popolato.
 
    ![](assets/eighteen.png)
 
 ## Come modificare l’elemento video {#how-to-edit-the-video-element}
 
-1. Fai clic all’interno del modulo con l’elemento Video .
+1. Fai clic all’interno del modulo con l’elemento Video.
 
    ![](assets/nineteen.png)
 
-1. Fai clic sull’elemento video, quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Fai clic sull’elemento Video, quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/twenty.png)
 
-1. Incolla nell’URL del video da Vimeo o YouTube. Quindi fai clic fuori dalla casella URL per caricare l’anteprima. Modifica le dimensioni in base alle tue esigenze, aggiungi Testo Alt (facoltativo), quindi premi **Inserisci**.
+1. Incolla l’URL del video da Vimeo o YouTube. Quindi fai clic su nella casella URL per caricare l’anteprima. Modifica le dimensioni in base alle tue esigenze, aggiungi Testo alternativo (facoltativo), quindi premi **Inserisci**.
 
    ![](assets/twentyone.png)
 
    >[!NOTE]
    >
-   >Per i video di YouTube, utilizza l’URL completo dalla barra degli indirizzi, non l’URL di scelta rapida trovato nell’opzione Condividi .
+   >Per i video di YouTube, utilizza l’URL completo dalla barra degli indirizzi, non l’URL del collegamento trovato nell’opzione Condividi.
 
-Divertiti a progettare l&#39;e-mail perfetta!
+Divertiti a progettare l’e-mail perfetta!

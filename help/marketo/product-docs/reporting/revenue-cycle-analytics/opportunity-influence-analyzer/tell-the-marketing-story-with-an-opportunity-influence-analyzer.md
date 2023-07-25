@@ -1,47 +1,47 @@
 ---
 unique-page-id: 2360237
-description: Comunicare la storia di marketing con Opportunity Influence Analyzer - Marketo Docs - Documentazione del prodotto
-title: Comunicare la storia di marketing con Opportunity Influence Analyzer
+description: Raccontare la storia del marketing con un analizzatore di influenza dell’opportunità - Documentazione di Marketo - Documentazione del prodotto
+title: Raccontare la storia del marketing con un analizzatore di influenza dell’opportunità
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
 
 ---
 
-# Comunicare la storia di marketing con Opportunity Influence Analyzer {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Raccontare la storia del marketing con un analizzatore di influenza dell’opportunità {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-Utilizza un’analisi dell’influenza opportunità per illustrare il ruolo del marketing in opportunità importanti. Mostra come il marketing ha influenzato un&#39;opportunità, dal primo contatto alla creazione di opportunità, alla vittoria e oltre.
+Utilizza un analizzatore di influenza sulle opportunità per illustrare il ruolo del marketing nelle opportunità importanti. Mostrare in che modo il marketing ha influenzato un’opportunità, dal primo contatto alla creazione e alla vincita.
 
 >[!PREREQUISITES]
 >
->[Creare un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[Creare un analizzatore di influenza dell’opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Vai a **Analytics** e seleziona la **Analisi dell’influenza delle opportunità**.
+1. Vai a **Analytics** e seleziona la **Analisi influenza opportunità**.
 
    ![](assets/analytics-opportunityhand.png)
 
-   L&#39;Analisi di influenza opportunità è una rappresentazione visiva delle interazioni e dei successi dei programmi e degli eventi coinvolti in tale opportunità. Esploriamo il grafico:
+   Opportunity Influence Analyzer (Analisi influenza opportunità) è una rappresentazione visiva delle interazioni e dei successi di programma ed evento coinvolti in tale opportunità. Esaminiamo il grafico:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Punti arancioni** rappresentano momenti interessanti nell&#39;opportunità (e-mail aperte, visite di stand di commercio, download di whitepaper, ecc.). I punti più grandi indicano più interazioni.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Punti arancioni** rappresentare momenti interessanti nell’opportunità (e-mail aperte, visite allo stand fieristico, download di white paper, ecc.). Punti più grandi indicano più interazioni.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Icone del binario** indicare i successi del programma.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Icone del raccoglitore** indica il successo del programma.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Icone del calendario** indicano i successi dell’evento.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Icone del calendario** indica il successo dell’evento.
 
-   * **Periodo di opportunità**. L&#39;area verde rappresenta l&#39;opportunità stessa, dalla creazione di opportunità alla chiusura di opportunità (vinta o persa).
+   * **Periodo di opportunità**. L’area verde rappresenta l’opportunità stessa, dalla creazione dell’opportunità alla chiusura dell’opportunità (vinta o persa).
 
-   * **Ciclo di vita opportunità**. Le aree grigie prima e dopo il periodo di opportunità verde mostrano le interazioni che hanno portato e seguito l’opportunità.
+   * **Ciclo di vita dell’opportunità**. Le aree grigie prima e dopo il periodo di opportunità verde mostrano le interazioni che hanno portato all’opportunità e l’hanno seguita.
 
-   La **Impostazioni** nel pannello vengono elencate le persone dell’account :
+   Il **Impostazioni** Il pannello elenca le persone dell’account:
 
-   * La **numero tra parentesi** è il numero di interazioni con tale contatto.
+   * Il **numero tra parentesi** è il numero di interazioni con quel contatto.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)La **stella gialla** indica il contatto principale.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Il **stella gialla** indica il contatto principale.
 
-
-1. Passa il puntatore del mouse sopra un nome per vedere il titolo del lavoro della persona e la fonte del suo coinvolgimento con l&#39;opportunità.
+1. Passa il mouse sopra un nome per vedere la qualifica di quella persona e la fonte del suo coinvolgimento con l’opportunità.
 
    ![](assets/image2015-6-23-14-3a43-3a1.png)
 
@@ -49,16 +49,16 @@ Utilizza un’analisi dell’influenza opportunità per illustrare il ruolo del 
 
    ![](assets/image2015-6-23-14-3a43-3a35.png)
 
-   Il grafico si regola automaticamente per mostrare le interazioni nell’opportunità. In questo esempio, vediamo immediatamente che l&#39;amministratore delegato di MegaCorp Sarah Geller era profondamente coinvolta nell&#39;opportunità, anche se non aveva alcun ruolo assegnato nel CRM per l&#39;opportunità.
+   Il grafico si regola automaticamente in modo da visualizzare le interazioni nell’opportunità. In questo esempio, vediamo immediatamente che l&#39;amministratore delegato di MegaCorp, Sarah Geller, è stata profondamente coinvolta nell&#39;opportunità, anche se non le è stato assegnato alcun ruolo nel CRM per l&#39;opportunità.
 
 1. Fai clic su un punto arancione per visualizzare i dettagli dell’interazione.
 
    ![](assets/image2015-6-23-14-3a44-3a15.png)
 
-   Nel nostro esempio, impariamo che l&#39;amministratore delegato Sarah Geller ha visitato il sito web più volte e si è anche abbonata al blog. Questo suggerisce che l&#39;interesse di MegaCorp per l&#39;opportunità è stato guidato, in gran parte, da programmi e risorse di marketing.
+   Nel nostro esempio, scopriamo che l&#39;amministratore delegato Sarah Geller ha visitato il sito web più volte e si è anche iscritto al blog. Questo suggerisce che l&#39;interesse di MegaCorp per l&#39;opportunità è stato guidato, in gran parte, da programmi e risorse di marketing.
 
-   Fai clic su altri punti arancioni lungo la timeline per riempire la storia degli eventi, dei programmi e dei momenti interessanti che hanno contribuito a creare e chiudere l&#39;opportunità.
+   Fai clic su altri punti arancioni lungo la timeline per compilare la storia degli eventi, dei programmi e dei momenti interessanti che hanno contribuito a creare e chiudere l’opportunità.
 
    >[!MORELIKETHIS]
    >
-   >[Configurare un analizzatore di influenza opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[Configurare un analizzatore di influenza dell’opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

@@ -1,80 +1,81 @@
 ---
-description: Note sulla versione - Marzo 2022 - Marketo Docs - Documentazione del prodotto
+description: Note sulla versione - Marzo 2022 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Marzo 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '765'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Marzo 2022 {#release-notes-mar-22}
+# Note sulla versione: marzo 2022 {#release-notes-mar-22}
 
-Le seguenti funzionalità sono incluse nella versione del 22 marzo 2012. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
+Le seguenti funzioni sono incluse nella versione di marzo 2022. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Caratteristiche indicate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Caratteristiche contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 **_Versioni trimestrali_**
 
-Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, con un rollout graduale di ogni feature nelle settimane successive (salvo diversa indicazione).
+Le seguenti funzioni inizieranno ad essere rilasciate il **11 marzo 2022**, con un rollout graduale di ogni funzione nelle settimane successive (salvo diversa indicazione).
 
-## Orchestrazione tra canali {#cross-channel-orchestration}
+## Orchestrazione cross-channel {#cross-channel-orchestration}
 
-* **Chat dinamica**: Ottimizza ogni opportunità sul tuo sito web puntando sia i lead che gli account con conversazioni personalizzate proattive, coinvolgenti e 1:1. [Chat dinamica](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} consente agli utenti del Marketo Engage di iniziare a sfruttare la chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le funzioni includono: la possibilità di prenotare riunioni direttamente nella chat, indirizzamento lead, modelli iniziali, creazione di conversazioni drag-and-drop e molto altro ancora. La chat dinamica è inclusa in tutti i pacchetti di Marketo Engage e verrà implementata a tutti gli utenti del Marketo Engage quest&#39;anno.
+* **Dynamic Chat**: massimizza ogni opportunità sul tuo sito web eseguendo il targeting di lead e account con conversazioni proattive, coinvolgenti e personalizzate 1:1. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} consente agli utenti del Marketo Engage di iniziare a sfruttare le chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le caratteristiche includono: la possibilità di prenotare le riunioni direttamente all&#39;interno della chat, l&#39;indirizzamento dei lead, modelli di avvio, creazione di conversazioni con trascinamento e molto altro. Il Dynamic Chat è incluso in tutti i pacchetti del Marketo Engage e verrà introdotto quest’anno per tutti gli utenti del Marketo Engage.
 
-* **Miglioramento del filtro dell’attività del bot e-mail**: Come miglioramento alla versione precedente [Filtro attività bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}, ora puoi acconsentire alle attività di registrazione identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
+* **Miglioramento del filtro delle attività bot e-mail**: come miglioramento del rilasciato in precedenza [Filtro attività bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} è ora possibile dare il consenso esplicito alle attività di registrazione identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
 
 ## Esperienza di nuova generazione {#modern-ux}
 
-* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
+* **Schermi aggiornati nell’esperienza di nuova generazione**: nell’esperienza di nuova generazione, presentiamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti a livello di usabilità accessibili tramite interruttore:
 
-   * Visualizzazione a elenco moduli in Design Studio (comprese nuove azioni in blocco)
+   * Visualizzazione elenco moduli in Design Studio (incluse nuove azioni in blocco)
 
-* **Aggiorna flusso di lavoro del programma di importazione**: Il flusso di lavoro del programma di importazione viene distribuito nell’esperienza di nuova generazione con una progettazione aggiornata e miglioramenti all’usabilità. Si tratta di una modifica automatica senza interruttore di attivazione/disattivazione.
+* **Importa aggiornamento flusso di lavoro del programma**: il flusso di lavoro del programma di importazione viene distribuito nell’esperienza di nuova generazione con una progettazione aggiornata e miglioramenti a livello di usabilità. Si tratta di una modifica automatica senza interruttore.
 
-* **Admin Control per lo switch di attivazione/disattivazione esperienza di nuova generazione**: Gestisci l’esperienza di rollout di nuova generazione in modo che gli utenti possano scegliere i tipi di utenti che possono accedere all’interruttore di attivazione/disattivazione.
+* **Admin Control per l&#39;interruttore Experience Toggle di nuova generazione**: gestisci il rollout dell’esperienza di nuova generazione in modo che funzioni per i tuoi utenti, con la possibilità per gli amministratori di selezionare i tipi di utente che possono accedere al commutatore di attivazione.
 
-## Automazione delle esperienze {#experience-automation}
+## Automazione dell’esperienza {#experience-automation}
 
-* **Passaggi di flusso self-service (Beta)**: Espandi la connettività tra il Marketo Engage e il resto della pila con la possibilità di creare passaggi di flusso personalizzati da utilizzare in Smart Campaigns. Sia gli utenti che i partner Marketo possono sfruttare questa funzionalità per consentire l’utilizzo di servizi Web esterni in campagne batch ed eseguibili, a differenza dei webhook, che possono essere utilizzati solo nelle campagne di attivazione.
+* **Passaggi del flusso self-service (Beta)**: espandi la connettività tra il Marketo Engage e il resto dello stack con la possibilità di creare passaggi di flusso personalizzati da utilizzare nelle campagne avanzate. Sia gli utenti che i partner di Marketo possono sfruttare questa funzionalità per consentire l’utilizzo di servizi web esterni in campagne batch ed eseguibili, a differenza dei webhook, che possono essere utilizzati solo in campagne trigger.
 
-* **Scadenza risorsa**: Mantieni il controllo delle risorse e delle campagne sensibili al tempo con la possibilità di pianificare la loro disattivazione automatica a una data e ora specificate nell’esperienza utente classica.
+* **Scadenza risorsa**: mantieni il controllo delle risorse e delle campagne sensibili al tempo con la possibilità di pianificare la loro disattivazione automatica a una data e un’ora specificate nell’esperienza utente classica.
 
-* **Override priorità di Smart Campaign**: Assicurati che le campagne avanzate vengano eseguite il prima possibile con la possibilità di ignorare la classificazione delle priorità delle campagne standard. È inoltre possibile ridurre la priorità dell’attivazione di campagne avanzate in modo da liberare le risorse di elaborazione per altre attività ad alta priorità.
+* **Sostituzione priorità campagna avanzata**: assicurati che le campagne avanzate con trigger ad alta priorità vengano eseguite il prima possibile con la possibilità di ignorare la classificazione di priorità della campagna standard. È inoltre possibile ridurre la priorità delle campagne intelligenti con trigger a bassa priorità per liberare risorse di elaborazione per altre attività ad alta priorità.
 
 ## Miglioramenti API {#api-enhancements}
 
-* **Ritorna Disattiva stato di tracciamento aperto delle e-mail**: Consente la lettura dello stato di tracciamento aperto delle e-mail tramite API
-* **Recupera le linee dell’oggetto contenuto dinamico dall’e-mail**: Consente agli esperti di marketing di eseguire l’analisi delle linee dell’oggetto dinamico negli strumenti BI
-* **CRUD campi personalizzati membro del programma**: Consente agli addetti al marketing di creare a livello di programmazione campi personalizzati per i membri del programma
-* **Esportazione oggetti personalizzati in blocco aggiornata al filtro**: Consente agli addetti al marketing di sincronizzare programmaticamente gli oggetti personalizzati
-* **Impostazione Expo Head Start per i programmi e-mail**: Consente agli esperti di marketing di configurare programmi e-mail con head-start tramite API
-* **Aggiornamento tag del programma selettivo**: Consente agli addetti al marketing di inviare aggiornamenti selettivi dei tag senza spostare contemporaneamente tutti i tag
-* **Campo actionResult dell&#39;estrazione dell&#39;attività in blocco**: Consente agli esperti di marketing di identificare quali attività sono state saltate o non riuscite
+* **Restituisce Disabilita tracciamento aperto delle e-mail**: consente la lettura dello stato di tracciamento delle e-mail aperte tramite API
+* **Recupera righe oggetto contenuto dinamico da e-mail**: consente agli addetti al marketing di eseguire analisi delle linee dell’oggetto dinamiche negli strumenti di business intelligence
+* **Campi personalizzati membro del programma CRUD**: consente agli addetti al marketing di creare in modo programmatico campi personalizzati per i membri del programma
+* **Esportazione oggetti personalizzati in blocco aggiornata al filtro**: consente agli addetti al marketing di sincronizzare in modo programmatico gli oggetti personalizzati
+* **Impostazione di esposizione avvio automatico per i programmi e-mail**: consente agli addetti al marketing di configurare programmi e-mail con head start tramite API
+* **Aggiornamento selettivo dei tag del programma**: consente agli esperti di marketing di inviare aggiornamenti selettivi dei tag senza inviare tutti i tag contemporaneamente
+* **Campo actionResult dell’estrazione dell’attività in blocco**: consente agli addetti al marketing di identificare le attività saltate o non riuscite
 
-**_Rilascio in tutto il trimestre_**
+**_Rilascio nel corso del trimestre_**
 
-Le seguenti caratteristiche sono su un ciclo non trimestrale e saranno rilasciate durante i prossimi mesi.
+Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
 
 ## Bizible {#bizible}
 
 ![(stella)](assets/yellow-star.png)
 
-* **Modelli BI**: Bizible fornirà ora artefatti di reporting scaricabili e fondamentali e report di esempio per Tableau e Power BI per consentire un rapido sviluppo di report personalizzati su misura per le tue specifiche esigenze aziendali.
+* **Modelli BI**: Bizible ora fornirà artefatti di reporting fondamentali e scaricabili e rapporti di esempio per Tableau e Power BI per consentire lo sviluppo rapido di rapporti personalizzati personalizzati su misura per le tue esigenze aziendali specifiche.
 
 ## Sales Connect {#sales-connect}
 
 ![(stella)](assets/yellow-star.png)
 
-* **Limitazione connessione e-mail (GA)**: La limitazione della connessione e-mail consente agli amministratori di Sales Connect di configurare il tasso di invio delle e-mail quando si utilizza Gmail o Exchange come canale di consegna, in modo che il tasso di consegna delle e-mail al provider del canale di consegna non superi i limiti imposti.
+* **Limitazione della connessione e-mail (GA)**: la limitazione della connessione e-mail consente agli amministratori di Sales Connect di configurare la frequenza di invio delle e-mail quando si utilizza Gmail o Exchange come canale di consegna, in modo che la frequenza con cui le e-mail vengono consegnate al provider del canale di consegna non superi i limiti imposti.
 
 ## Annunci {#announcements}
 
-* **Obsolescenza di Marketo Sky**: A marzo, Marketo Sky non sarà più disponibile in quanto concentreremo le nostre risorse sulla distribuzione dell’esperienza utente di nuova generazione. Per mantenere l’accesso alle funzionalità esclusive di Marketo Sky, ora vengono introdotte nell’esperienza classica le opzioni Scadenza risorse e Override priorità di Smart Campaign. [Fai clic qui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) per saperne di più.
+* **Obsolescenza Marketo Sky**: a marzo, Marketo Sky non sarà più disponibile, poiché le nostre risorse verranno dedicate alla creazione di un’esperienza di utilizzo di nuova generazione. Nel tentativo di mantenere l’accesso a funzionalità esclusive di Marketo Sky, ora AEM Asset Expiration e Smart Campaign Priority Override sono incluse nell’esperienza classica. [Fai clic qui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) per ulteriori informazioni.
 
 **_Webinar sulla versione del prodotto_**
 
-[Webinar sul rilascio del Marketo Engage di marzo e maggio 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[Webinar sulla versione del Marketo Engage di marzo e maggio 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

@@ -1,34 +1,35 @@
 ---
 unique-page-id: 1146999
-description: Token di attivazione per i momenti interessanti - Documenti Marketo - Documentazione del prodotto
-title: Token di attivazione per i momenti interessanti
+description: Token di attivazione per i momenti di interesse - Documentazione di Marketo - Documentazione del prodotto
+title: Attiva token per momenti di interesse
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
 
 ---
 
-# Token di attivazione per i momenti interessanti {#trigger-tokens-for-interesting-moments}
+# Attiva token per momenti di interesse {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->Scopri come utilizzare il [Interessante fase del flusso del momento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Scopri come utilizzare la [Passaggio flusso momento di interesse](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Token disponibili {#available-tokens}
 
-Consulta [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token che si possono mettere in un momento interessante.
+Estrai [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token si può mettere in un momento interessante.
 
-## Token di attivazione {#trigger-tokens}
+## Attiva token {#trigger-tokens}
 
-In base al trigger utilizzato in una campagna intelligente, sono disponibili ulteriori token trigger.
+In base al trigger utilizzato in una campagna intelligente, sono disponibili token di trigger aggiuntivi.
 
-* `{{trigger.Trigger Name}}` che è sempre il trigger effettivo stesso. Ad esempio: Fai clic su Collega in E-mail.
-* `{{trigger.Name}}` è il nome della risorsa che ha attivato la campagna. Ad esempio: Clic Link sulla pagina web è l’URL stesso, l’oggetto per i trigger Salesforce, ecc.
-* Sono disponibili altri trigger basati sui vincoli elencati di seguito.
+* `{{trigger.Trigger Name}}` che è sempre il trigger effettivo. Ad esempio: fa clic su Collega nell’e-mail.
+* `{{trigger.Name}}` è il nome della risorsa che ha attivato la campagna. Ad esempio: Collegamento clic sulla pagina web è l’URL stesso, oggetto per i trigger Salesforce, ecc.
+* Sono disponibili trigger aggiuntivi in base ai vincoli elencati di seguito.
 
-**Attivatori e-mail**
+**Trigger e-mail**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -66,11 +67,11 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Clic su Collega in e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Clic sul collegamento nell’e-mail</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -83,13 +84,13 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>E-mail rimbalzata dura</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Notifica di mancato recapito e-mail grave</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -100,13 +101,13 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Soft rimbalzi e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Mancato recapito e-mail non permanenti</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -118,10 +119,10 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>E-Mail Consegnata</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -134,28 +135,11 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Apre e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Apre l’e-mail</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>Inoltra a Amico e-mail ricevuto</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -168,9 +152,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Inviato a Amico e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Ricevuto Inoltra a e-mail amico</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -179,21 +163,38 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Inoltro a e-mail amico</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="spunta"></td>
   </tr> 
   <tr> 
-   <td>Annulla l’abbonamento a un’e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Annulla iscrizione all’e-mail</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -242,34 +243,34 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Clic Link nell'e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Clic sul collegamento nell’e-mail di vendita</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Invia e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>E-Mail Di Vendita Inviata</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -277,25 +278,25 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Apre l'e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Saldi e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>E-mail di vendita non recapitate</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -311,42 +312,42 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>E-mail di vendita ricevuta</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>Opportunità aggiornata</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Modifiche al proprietario</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>L’opportunità è aggiornata</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Modifiche proprietario</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -362,8 +363,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>La persona viene convertita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -378,9 +379,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>La persona viene cancellata dall'SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Persona eliminata da SFDC</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -396,8 +397,8 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Persona sincronizzata con SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -412,9 +413,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Rimosso dall'opportunità</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Rimosso dall’opportunità</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -429,9 +430,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Rimosso dalla campagna SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Rimosso da Campagna SFDC</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -446,9 +447,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>L’attività viene registrata</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Attività registrata</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -463,9 +464,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>L’attività è stata aggiornata</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>L'attività è aggiornata</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -480,9 +481,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Aggiunto a Opportunità</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Aggiunto all’opportunità</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -497,9 +498,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Aggiunto alla campagna SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Aggiunta a Campagna SFDC</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -514,7 +515,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Lo stato viene modificato nella campagna SFDC</td> 
+   <td>Stato modificato nella campagna SFDC</td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -533,7 +534,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
  </tbody> 
 </table>
 
-**Trigger di Sales Connect**
+**Trigger Sales Connect**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -571,34 +572,34 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Clic Link nell'e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Clic sul collegamento nell’e-mail di vendita</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Invia e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>E-Mail Di Vendita Inviata</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -606,25 +607,25 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Apre l'e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Saldi e-mail di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>E-mail di vendita non recapitate</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -640,25 +641,25 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>E-mail di vendita ricevuta</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>È stato aggiunto alla campagna di vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Aggiunto alla campagna di vendita</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -673,10 +674,10 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr>
-   <td>Modifiche al proprietario</td> 
-   <td>È Rimosso Dalla Campagna Di Vendita</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Modifiche proprietario</td> 
+   <td>Viene Rimosso Dalla Campagna Di Vendita</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -691,9 +692,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Chiamata alle vendite ricevute</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Chiamata di vendita ricevuta</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -748,15 +749,15 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Riempie il modulo</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Compila modulo</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -766,34 +767,34 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
   </tr> 
   <tr> 
    <td>Pagina Web Visite</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Clic sul link sulla pagina Web</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td>Clic sul collegamento sulla pagina web</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -803,9 +804,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 >[!NOTE]
 >
->Se non ha un assegno ![(segno di spunta)](assets/check.png) allora restituirebbe una stringa vuota (niente) nel momento interessante.
+>Se non ha un assegno ![(segno di spunta)](assets/check.png) quindi restituirebbe una stringa vuota (niente) nel momento interessante.
 
-&#42;Trigger **Pagina Web Visite** dispone di alcuni token aggiuntivi:
+&#42;Il trigger **Pagina Web Visite** dispone di alcuni token aggiuntivi:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -813,6 +814,6 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili ult
 
 >[!TIP]
 >
->Testa sempre i tuoi momenti interessanti per assicurarti che rendano il modo in cui intendi.
+>Metti sempre alla prova i tuoi momenti interessanti per assicurarti che vengano riprodotti nel modo in cui desideri.
 >
->Inoltre, assicurati che sia interessante per il Venditore, non solo per te!
+>Inoltre, assicurati che sia interessante per il venditore, non solo per te!

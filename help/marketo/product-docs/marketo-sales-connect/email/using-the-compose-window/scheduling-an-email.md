@@ -1,9 +1,10 @@
 ---
 unique-page-id: 37356568
-description: Pianificazione di un’e-mail - Documenti Marketo - Documentazione del prodotto
+description: Pianificazione di un’e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Pianificazione di un’e-mail
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -16,9 +17,9 @@ Segui questi semplici passaggi per pianificare un’e-mail.
 
 >[!NOTE]
 >
->Per aggiornare il fuso orario predefinito, vai alla pagina Impostazioni .
+>Per aggiornare il fuso orario predefinito, vai alla pagina Impostazioni.
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
 
    ![](assets/one-1.png)
 
@@ -26,7 +27,7 @@ Segui questi semplici passaggi per pianificare un’e-mail.
 
    ![](assets/two-1.png)
 
-1. Fai clic sulla data per aprire il selettore data e selezionare una data.
+1. Fai clic sulla data per aprire il selettore data e seleziona una data.
 
    ![](assets/three-1.png)
 
@@ -40,7 +41,7 @@ Segui questi semplici passaggi per pianificare un’e-mail.
 
    >[!NOTE]
    >
-   >Le e-mail pianificate possono essere visualizzate/modificate nella sezione delle cartelle pianificate del Centro comandi.
+   >Le e-mail pianificate possono essere visualizzate/modificate nella sezione cartelle pianificate del Centro comandi.
 
    >[!MORELIKETHIS]
    >

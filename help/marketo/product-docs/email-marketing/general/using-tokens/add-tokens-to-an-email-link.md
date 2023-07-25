@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147360
-description: Aggiungere token a un collegamento e-mail - Documenti Marketo - Documentazione del prodotto
+description: Aggiungere token a un collegamento e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiungere token a un collegamento e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Aggiungere token a un collegamento e-mail {#add-tokens-to-an-email-link}
 
-Per inserire parametri aggiuntivi e specifici per una persona nei collegamenti, puoi utilizzare i token. Ecco come.
+Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, puoi utilizzare i token. Ecco come.
 
-1. Seleziona l’e-mail e fai clic sul pulsante **Modifica bozza** scheda .
+1. Seleziona l’e-mail e fai clic su **Modifica bozza** scheda.
 
    ![](assets/one.png)
 
-1. Fare doppio clic su un’area modificabile.
+1. Fare doppio clic su un&#39;area modificabile.
 
    ![](assets/two.png)
 
-1. Individua o scrivi il testo del collegamento. Evidenzialo e fai clic sul pulsante **Inserisci/Modifica collegamento** icona.
+1. Individua o scrive il testo del collegamento. Evidenziarlo e fare clic su **Inserisci/Modifica collegamento** icona.
 
    ![](assets/three.png)
 
@@ -30,7 +31,7 @@ Per inserire parametri aggiuntivi e specifici per una persona nei collegamenti, 
 
    ![](assets/four.png)
 
-1. Fai clic su **Salva**.
+1. Clic **Salva**.
 
    ![](assets/five.png)
 
@@ -38,4 +39,4 @@ Per inserire parametri aggiuntivi e specifici per una persona nei collegamenti, 
 
 >[!MORELIKETHIS]
 >
->[Utilizzo degli URL nei token personali](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[Utilizzo degli URL nei miei token](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

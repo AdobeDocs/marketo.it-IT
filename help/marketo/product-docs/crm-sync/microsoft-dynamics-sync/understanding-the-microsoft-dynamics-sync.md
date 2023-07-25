@@ -1,49 +1,50 @@
 ---
 unique-page-id: 10098625
-description: Informazioni su Microsoft Dynamics Sync - Marketo Docs - Documentazione del prodotto
-title: Informazioni sulla sincronizzazione di Microsoft Dynamics
+description: Informazioni su Microsoft Dynamics Sync - Documentazione di Marketo - Documentazione del prodotto
+title: Informazioni su Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulla sincronizzazione di Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
+# Informazioni su Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
-Marketo e Microsoft Dynamics collaborano. Manteniamo sincronizzati i dati di vendita e marketing.
+Marketo e Microsoft Dynamics funzionano insieme. Manteniamo sincronizzati i dati di vendita e marketing.
 
 >[!NOTE]
 >
->Marketo supporta solo i certificati SSL compatibili con Java 7 al momento.
+>Al momento, Marketo supporta solo i certificati SSL compatibili con Java 7.
 
 >[!CAUTION]
 >
->Al momento non è supportato l’aggiornamento della sandbox per Marketo Dynamics Sync. Se devi aggiornare la sandbox di Dynamics CRM, sarà necessaria una nuova sandbox Marketo. Per ulteriori informazioni, contatta il team dell&#39;account Adobe (il tuo Account Manager).
+>Al momento non è supportato l’aggiornamento della sandbox per Marketo Dynamics Sync. Se devi aggiornare la sandbox di Dynamics CRM, sarà necessaria una nuova sandbox di Marketo. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-## Come funziona la sincronizzazione {#how-sync-works}
+## Funzionamento di Sync {#how-sync-works}
 
-Marketo sincronizza continuamente i dati con Microsoft Dynamics tutto il giorno e ogni giorno. Viene eseguito usando la sincronizzazione in background, in batch, non in tempo reale.
+Marketo sincronizza continuamente i dati con Microsoft Dynamics tutto il giorno, ogni giorno. Viene eseguita utilizzando la sincronizzazione in background, in batch, non in tempo reale.
 
 >[!NOTE]
 >
->La prima sincronizzazione della sottoscrizione richiede minuti alle ore, a seconda delle dimensioni del database. Marketo copia l’intero database da Dynamics. In seguito, ogni sincronizzazione richiede in genere secondi o minuti e sincronizza solo i dati che sono cambiati.
+>La prima sincronizzazione della sottoscrizione richiede da minuti a ore, a seconda delle dimensioni del database. Marketo copia l’intero database da Dynamics. Successivamente, ogni sincronizzazione richiede in genere secondi o minuti e sincronizza solo i dati modificati.
 
-La sincronizzazione tra Marketo e Dynamics è bidirezionale per lead e contatti. Se apporti modifiche in Marketo o Dynamics, gli aggiornamenti verranno rispecchiati in entrambi i sistemi. Tutti gli altri campi, come account e opportunità, vengono sincronizzati in un solo modo, da Dynamics a Marketo.
+La sincronizzazione tra Marketo e Dynamics è bidirezionale per lead e contatti. Se apporti modifiche in Marketo o Dynamics, i tuoi aggiornamenti si rifletteranno in entrambi i sistemi. Tutti gli altri campi, ad esempio account e opportunità, vengono sincronizzati in un solo modo, da Dynamics a Marketo.
 
-## Cosa viene sincronizzato tra Marketo e Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Cos’è sincronizzato tra Marketo e Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [Lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [Contatti](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
 * [Account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [Utenti](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
-* Team (gruppi di SystemUsers)
+* Team (gruppi di UtentiSistema)
 * [Opportunità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Entità personalizzate](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-La [credenziali immesse in Marketo per Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) vengono utilizzati per sincronizzare i dati.
+Il [credenziali immesse in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) vengono utilizzati per sincronizzare i dati.
 
 >[!NOTE]
 >
->La copia dell’istanza non è supportata se l’istanza sorgente è integrata con Microsoft Dynamics.
+>La copia dell’istanza non è supportata se l’istanza di origine è integrata con Microsoft Dynamics.

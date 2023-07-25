@@ -1,30 +1,31 @@
 ---
 unique-page-id: 7514149
-description: Attribution Example 3 - Documentazione Marketo - Documentazione del prodotto
-title: Attribution, esempio 3
+description: Esempio di attribuzione 3 - Documentazione di Marketo - Documentazione del prodotto
+title: Esempio di attribuzione 3
 exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-# Attribution, esempio 3 {#attribution-example}
+# Esempio di attribuzione 3 {#attribution-example}
 
-Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero essere nella griglia.
+Leggi lo scenario seguente e prova a determinare i numeri che devono essere presenti nella griglia.
 
-* 11 aprile | Download Steve (contenuto) - successo
-* 22 aprile | L&#39;opportunità è creata per $3.000 (Sia Steve che Jason hanno ruoli)
-* 25 aprile | Jason partecipa (Webinar) - successo
-* 30 aprile | Opportunità chiusa
+* 11 aprile | Download di Steve (contenuto) - operazione riuscita
+* Aprile 22 | L’opportunità è stata creata per 3.000 dollari (sia Steve che Jason hanno un ruolo)
+* Aprile 25 | Jason partecipa (webinar) - operazione riuscita
+* Aprile 30 | Opportunità chiusa
 
 | Metrica di attribuzione | (Contenuto) | (Webinar) |
 |---|---|---|
-| (MT) Opty Created | `<pre>1</pre>` | `<pre>0</pre>` |
+| (MT) Opty creato | `<pre>1</pre>` | `<pre>0</pre>` |
 | (MT) Pipeline creata | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
-| (MT) Vincita | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
-| (MT) Entrate vinte | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
+| (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
+| (MT) Entrate realizzate | `<pre>$1,500</pre>` | `<pre>$1,500</pre>` |
 
 **Mostra risposte**
 
@@ -32,24 +33,22 @@ Leggere lo scenario seguente e cercare di determinare i numeri che dovrebbero es
 >
 >**Spiegazione**
 >
->Ricorda la regola di attribuzione n. 3. Jason ha avuto successo di programma DOPO la creazione della povertà. Pertanto, il webinar non può ottenere credito per la creazione dell&#39;opportunità. Ha vinto solo il credito per l&#39;Opty.
+>Ricorda #3. regola di attribuzione Jason ha avuto successo nel programma DOPO la creazione dell’opzione. Pertanto, al webinar non viene attribuito il merito per la creazione dell’opportunità. Solo il merito per l&#39;opzione vinta.
 >
->Pertanto, (Contenuto) ha ottenuto il 100% del credito per la creazione e la pipeline di Opty, ma solo il 50% del credito per la partecipazione ha vinto.
+>Pertanto, (Contenuto) ha il 100% di credito per la creazione e la pipeline dell’opzione, ma solo il 50% di credito per l’opzione vinta.
 
 >[!NOTE]
 >
 >**Regole di attribuzione**
 >
->1. Il credito è suddiviso in modo uniforme
->1. Non puoi dare più credito di quanto guadagnato
->1. Non puoi dare credito a qualcosa che è successo in passato
+>1. Il credito viene suddiviso in modo uniforme
+>1. Non puoi dare più credito di quello che hai guadagnato
+>1. Non puoi dare credito a qualcosa che è successo nel passato
 
-
-Prova tutti gli esempi e sarai un professionista di attribuzione!
+Prova tutti gli esempi e sarai un professionista dell’attribuzione.
 
 >[!MORELIKETHIS]
 >
->* [Attribution, esempio 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Attribution, esempio 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Attribution, esempio 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-
+>* [Esempio di attribuzione 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Esempio di attribuzione 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Esempio di attribuzione 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)

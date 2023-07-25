@@ -1,82 +1,82 @@
 ---
-description: Aggiungere accesso a informazioni sulle vendite ai profili - Documenti Marketo - Documentazione del prodotto
-title: Aggiungi accesso a informazioni sulle vendite nei profili
+description: Aggiungere l’accesso a Sales Insight ai profili - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere l’accesso a Sales Insight ai profili
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
-# Aggiungi accesso a informazioni sulle vendite nei profili {#add-sales-insight-access-to-profiles}
+# Aggiungere l’accesso a Sales Insight ai profili {#add-sales-insight-access-to-profiles}
 
-Ecco come creare un profilo con accesso a Sales Insight rimuovendo l’accesso per gli altri profili. Questo è per gli utenti che hanno già installato il [Pacchetto AppExchange Insight vendite](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}.
+Ecco come creare un profilo con accesso a Sales Insight durante la rimozione dell’accesso per gli altri profili. Questo è per gli utenti che hanno già installato il [Pacchetto di AppExchange di Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Se in precedenza hai concesso l’accesso a Sales Insight a tutti i profili, devi [rimuovi accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} per utilizzare questo set di autorizzazioni.
+>Se in precedenza hai concesso l’accesso a Sales Insight a tutti i profili, devi [rimuovi accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} per utilizzare questo set di autorizzazioni.
 
-## Crea un nuovo profilo per Sales Insight {#create-a-new-profile-for-sales-insight}
+## Crea un nuovo profilo per approfondimenti vendite {#create-a-new-profile-for-sales-insight}
 
 Se disponi di un profilo dedicato per gli utenti di Sales Insight, puoi saltare questo passaggio.
 
 1. In Salesforce, vai alla pagina Configurazione.
 
-1. Cerca profili in Ricerca rapida e seleziona la **Profilo** opzione .
+1. Cerca i profili in Ricerca rapida e seleziona la **Profilo** opzione.
 
-1. Fai clic sul pulsante **Nuovo profilo** nella parte superiore della pagina.
+1. Fai clic su **Nuovo profilo** nella parte superiore della pagina.
 
-1. Scegli un profilo da clonare e assegnargli un nome (ad esempio: Sales Insight User).
+1. Selezionare un profilo da clonare e assegnargli un nome (ad esempio, Utente Sales Insight).
 
-1. Fai clic su **Salva** al termine.
+1. Clic **Salva** al termine.
 
-## Aggiungere le autorizzazioni Approfondimenti vendite {#add-sales-insight-permissions}
+## Aggiungi autorizzazioni approfondimento vendite {#add-sales-insight-permissions}
 
-1. Torna all’elenco Profili.
+1. Torna all’elenco dei profili.
 
-1. Fai clic sul pulsante **Modifica** collegamento per il nuovo profilo appena creato (o qualsiasi altro profilo esistente a cui desideri dare accesso a Sales Insight Access).
+1. Fai clic su **Modifica** un collegamento per il nuovo profilo appena creato (o per qualsiasi altro profilo esistente a cui si desidera concedere l’accesso a Sales Insight).
 
 1. Nella pagina di modifica, dovrai modificare alcune impostazioni.
 
-   **Per i profili a cui è consentito l’accesso a Sales Insight**:
+   **Per i profili che sono autorizzati ad accedere a Sales Insight**:
 
-   * In Impostazioni scheda, modificare le schede Marketo in Predefinito su
-   * In Autorizzazioni oggetto personalizzate, selezionare Leggi, Crea, Modifica ed Elimina in Marketo Sales Insight Config (se l’utente deve avere accesso alle impostazioni di configurazione, in genere utilizzate per gli amministratori)
+   * In Impostazioni scheda, modifica le schede di Marketo in Attivato predefinito
+   * In Autorizzazioni oggetto personalizzato, seleziona Leggi, Crea, Modifica ed Elimina in Configurazione di Marketo Sales Insight (se l’utente deve avere accesso alle impostazioni di configurazione, solitamente utilizzate per gli amministratori)
 
-   **Per i profili ai quali non è consentito l’accesso a Sales Insight**:
+   **Per i profili a cui non è consentito l’accesso a Sales Insight**:
 
-   * In Impostazioni scheda, modificare le schede Marketo in Tabulazione nascosta
-   * In Autorizzazioni oggetto personalizzate, deselezionare Leggi, Crea, Modifica ed Elimina in Marketo Sales Insight Config
+   * In Impostazioni scheda, modifica le schede di Marketo in Nascosto per scheda
+   * In Autorizzazioni oggetto personalizzate, deseleziona Leggi, Crea, Modifica ed Elimina in Configurazione di Marketo Sales Insight
 
+1. Clic **Salva** al termine.
 
-1. Fai clic su **Salva** al termine.
+## Crea layout per approfondimenti vendite {#create-layout-for-sales-insight}
 
-## Crea layout per informazioni sulle vendite {#create-layout-for-sales-insight}
+1. Vai alla pagina Configurazione, quindi fai clic su **Configurazione app** > **Personalizza** > **Lead** > **Layout di pagina**. Quindi fai clic su **Nuovo** pulsante.
 
-1. Vai alla pagina Configurazione, quindi fai clic su **Configurazione app** > **Personalizza** > **Lead** > **Layout di pagina**. Quindi fai clic sul pulsante **Nuovo** pulsante .
+1. Clona il layout desiderato e assegna al layout un nome appropriato (ad esempio, Layout approfondimenti vendite).
 
-1. Clona il layout desiderato e assegna al layout un nome appropriato (ad esempio: Layout Approfondimenti vendite).
-
-1. Fai clic su **Salva** al termine.
+1. Clic **Salva** al termine.
 
 1. Ripetere questi passaggi per i layout di pagina Contatti, Opportunità e Account.
 
-## Assegna profilo al layout {#assign-profile-to-layout}
+## Assegna profilo a layout {#assign-profile-to-layout}
 
-1. Torna alla sezione Layout di pagina e fai clic sul pulsante **Assegnazione layout pagina** pulsante .
+1. Torna alla sezione Layout di pagina e fai clic su **Assegnazione layout di pagina** pulsante.
 
 1. Seleziona **Modifica assegnazione**.
 
-1. Seleziona il tuo profilo Approfondimenti vendite dall&#39;elenco, quindi seleziona il layout Approfondimenti vendite dal menu a discesa &quot;Seleziona layout pagina&quot;.
+1. Seleziona il profilo Sales Insight dall’elenco, quindi seleziona il layout Sales Insight dal menu a discesa &quot;Seleziona layout di pagina&quot;.
 
-1. Fai clic su **Salva** al termine.
+1. Clic **Salva** al termine.
 
 1. Ripetere questi passaggi per i layout di pagina Contatti, Opportunità e Account.
 
 ## Altre modifiche {#other-changes}
 
-Qui ci sono altri posti in cui potrebbero apparire gli articoli di Insight vendite. Dovrai rimuoverli definitivamente poiché non puoi utilizzare Profili per limitarne l’accesso:
+Di seguito sono riportati alcuni altri luoghi in cui potrebbero essere visualizzati articoli di approfondimento sulle vendite. Dovrai rimuoverli subito poiché non puoi utilizzare i Profili per limitarne l’accesso:
 
-* Rimuovi i pulsanti Approfondimenti vendite da Cerca layout per contatti, lead e account
-* Rimuovere le colonne Approfondimenti vendite dagli elenchi Contatti e Lead
+* Rimuovere i pulsanti Informazioni sulle vendite dai layout di ricerca per Contatti, Lead e Account
+* Rimozione delle colonne Sales Insight dagli elenchi Contatti e Lead

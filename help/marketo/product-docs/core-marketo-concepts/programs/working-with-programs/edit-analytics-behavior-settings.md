@@ -1,28 +1,29 @@
 ---
 unique-page-id: 2953405
 description: Modificare le impostazioni del comportamento di Analytics - Documentazione di Marketo - Documentazione del prodotto
-title: Modificare le impostazioni del comportamento di Analytics
+title: Modifica impostazioni comportamento di Analytics
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Modificare le impostazioni del comportamento di Analytics {#edit-analytics-behavior-settings}
+# Modifica impostazioni comportamento di Analytics {#edit-analytics-behavior-settings}
 
-È possibile impostare [comportamento di analytics a livello di amministratore sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma puoi anche modificarlo a livello di programma. Ecco come.
+È possibile impostare [comportamento di analytics a livello di amministrazione sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma puoi anche modificarlo a livello di programma. Ecco come.
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Trova e seleziona il programma.
+1. Individuare e selezionare il programma.
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Nella scheda Configurazione , trascina Comportamento di Analytics sull’area di lavoro.
+1. Nella scheda Configurazione, trascina Comportamento di Analytics nell’area di lavoro.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -34,15 +35,15 @@ ht-degree: 0%
 >
 >**Definizione**
 >
->**Inclusivo** - Questa opzione assicura che il programma sia disponibile per la generazione di rapporti in explorer dei ricavi e analizzatori, indipendentemente dal fatto che tu abbia incluso o meno un costo del periodo.
+>**Inclusivo** - Questa opzione garantisce che il programma sia disponibile per la generazione di rapporti in Esplora ricavi e analizzatori indipendentemente dal fatto che sia stato incluso o meno un costo del periodo.
 >
->**Operativo** - Questa opzione fa sì che il programma non venga visualizzato né nell&#39;elenco dei ricavi né negli analizzatori.
+>**Operativo** - Con questa opzione, il programma non viene visualizzato in Esplora ricavi o negli analizzatori.
 
 >[!NOTE]
 >
->Il comportamento predefinito (se questa impostazione non viene applicata) è che il programma verrà incluso in Analytics SOLO se vi è almeno un costo del periodo, anche uno con zero dollari assegnati.
+>Il comportamento predefinito (se questa impostazione non viene applicata) è che il programma viene incluso in Analytics SOLO se è presente almeno un costo periodo, anche uno a cui sono assegnati zero dollari.
 
-1. Fai clic su **Salva**.
+1. Clic **Salva**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -50,4 +51,4 @@ Ben fatto! Ora sai come ignorare il comportamento di analisi a livello di progra
 
 >[!NOTE]
 >
->Le modifiche entreranno in vigore il giorno successivo e il programma sarà reso disponibile o estratto da esploratori e analizzatori di entrate.
+>Le modifiche diventeranno effettive il giorno successivo e il programma sarà reso disponibile o ritirato da Revenue Explorer e Analyzer.

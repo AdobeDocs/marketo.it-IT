@@ -3,7 +3,8 @@ unique-page-id: 14352608
 description: Rimuovere persone da una campagna - Documentazione di Marketo - Documentazione del prodotto
 title: Rimuovere persone da una campagna
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -12,15 +13,15 @@ ht-degree: 0%
 
 # Rimuovere persone da una campagna {#remove-people-from-a-campaign}
 
-Puoi terminare automaticamente una campagna quando un destinatario risponde. Puoi inoltre scegliere di contrassegnare la campagna come un &quot;successo&quot; per quel destinatario.
+Puoi terminare automaticamente una campagna quando un destinatario risponde. Inoltre, puoi scegliere di contrassegnare la campagna come un &quot;successo&quot; per quel destinatario.
 
-Per impostare questa impostazione, dopo aver creato la campagna, è sufficiente selezionare le caselle Annulla sottoscrizione nella sezione Impostazioni della scheda Campagne. Entrambe queste opzioni termineranno la campagna e il destinatario non riceverà più e-mail da te. È necessario disporre del monitoraggio delle risposte per far sì che questo funzioni.
+Per eseguire questa configurazione, dopo aver creato la campagna, seleziona semplicemente le caselle Annulla iscrizione nella sezione Impostazioni della scheda Campagne. Entrambe queste opzioni termineranno la campagna e il destinatario non riceverà più e-mail da te. Affinché ciò funzioni, è necessario disporre del tracciamento delle risposte.
 
-Inoltre, puoi rimuovere persone dalla campagna stessa, rimuovere persone da una campagna all’interno della pagina Persone e rimuovere un intero gruppo di persone. Diamo un&#39;occhiata ai tre metodi seguenti.
+Inoltre, puoi rimuovere persone dalla campagna stessa, rimuovere persone da una campagna all’interno della pagina Persone e rimuovere un intero gruppo di persone. Esaminiamo tutti e tre i metodi riportati di seguito.
 
 ## Rimuovere una persona direttamente da una campagna {#remove-a-person-directly-from-a-campaign}
 
-1. In Sales Connect, fare clic sul pulsante **Campagne** scheda .
+1. In Sales Connect, fare clic su **Campagne** scheda.
 
    ![](assets/one.png)
 
@@ -28,46 +29,46 @@ Inoltre, puoi rimuovere persone dalla campagna stessa, rimuovere persone da una 
 
    ![](assets/two.png)
 
-1. La campagna viene visualizzata a destra. Fai clic in un punto qualsiasi per aprirlo.
+1. La campagna viene visualizzata a destra. Fai clic in un punto qualsiasi su di esso per aprirlo.
 
    ![](assets/three.png)
 
-1. Individua la persona da rimuovere e fai clic su **Rimuovi**.
+1. Individuare la persona da rimuovere e fare clic su **Rimuovi**.
 
    ![](assets/four.png)
 
-1. (FASE FACOLTATIVO) È inoltre possibile rimuovere più persone contemporaneamente facendo clic sulle caselle di controllo accanto ai loro nomi e facendo clic sul pulsante **Rimuovi** in alto.
+1. (PASSAGGIO FACOLTATIVO) È inoltre possibile rimuovere più persone contemporaneamente facendo clic sulle caselle di controllo accanto ai relativi nomi e facendo clic su **Rimuovi** nella parte superiore.
 
    ![](assets/five.png)
 
-## Rimuovere una persona da una campagna all’interno della pagina Persone {#remove-a-person-from-a-campaign-within-the-people-page}
+## Rimuovere una persona da una campagna nella pagina Persone {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. In Sales Connect, fare clic sul pulsante **Persone** scheda .
+1. In Sales Connect, fare clic su **Persone** scheda.
 
    ![](assets/one-a.png)
 
-1. Trova e seleziona la persona da rimuovere.
+1. Individuare e selezionare la persona che si desidera rimuovere.
 
    ![](assets/two-a.png)
 
-1. Il pannello Visualizzazione dettagli persona si apre a destra. Fai clic sul pulsante **Cronologia** scheda seguita da **Rimuovi** pulsante .
+1. Il pannello Visualizzazione dettagli persona si apre a destra. Fai clic su **Cronologia** seguito dalla scheda **Rimuovi** pulsante.
 
    ![](assets/three-a.png)
 
 ## Rimuovere un gruppo di persone da una campagna {#remove-a-group-of-people-from-a-campaign}
 
-1. In Sales Connect, fare clic sul pulsante **Persone** scheda .
+1. In Sales Connect, fare clic su **Persone** scheda.
 
    ![](assets/one-b.png)
 
-1. Trova e seleziona il gruppo in **Gruppi personali**.
+1. Trova e seleziona il gruppo in **I miei gruppi**.
 
    ![](assets/two-b.png)
 
-1. Seleziona le persone da rimuovere.
+1. Selezionare le persone che si desidera rimuovere.
 
    ![](assets/three-b.png)
 
-1. Fai clic su **Azioni** e scegli **Rimuovi selezionati da campagna**.
+1. Clic **Azioni** e scegli **Rimuovi selezionati dalla campagna**.
 
    ![](assets/four-b.png)

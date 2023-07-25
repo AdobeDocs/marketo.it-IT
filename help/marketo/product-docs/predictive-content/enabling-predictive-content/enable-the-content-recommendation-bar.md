@@ -1,39 +1,39 @@
 ---
 unique-page-id: 4720108
-description: Abilita la barra dei consigli sul contenuto - Documenti Marketo - Documentazione del prodotto
-title: Abilita la barra delle raccomandazioni del contenuto
+description: Abilitare la barra dei consigli per i contenuti - Documentazione di Marketo - Documentazione del prodotto
+title: Abilitare la barra dei consigli dei contenuti
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
-# Abilita la barra delle raccomandazioni del contenuto {#enable-the-content-recommendation-bar}
+# Abilitare la barra dei consigli dei contenuti {#enable-the-content-recommendation-bar}
 
-Il motore di consigli per i contenuti utilizza algoritmi di analisi predittiva e machine learning per fornire contenuti pertinenti a ogni visitatore web. Il motore di raccomandazione prevede quale contenuto avrebbe prestazioni migliori per visitatore. Il contenuto del motore viene monitorato e controllato nella pagina Recommendations, aiutandoti a ottimizzare il ROI dei contenuti.
+Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi predittiva e di apprendimento automatico per fornire contenuti rilevanti a ogni visitatore web. Il motore di consigli prevede quale contenuto avrebbe le migliori prestazioni per visitatore. Il contenuto del motore viene monitorato e controllato nella pagina Recommendations, consentendoti di ottimizzare il ROI dei contenuti.
 
 >[!PREREQUISITES]
 >
->Prima di abilitare il contenuto predittivo, devi:
+>Prima di abilitare il contenuto predittivo, è necessario:
 >
->* **Preparare il contenuto predittivo**
-   >
-   >   * [Modifica del contenuto predittivo per le e-mail](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) o
-   >   * [Modifica di contenuti predittivi per contenuti rich media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) o
-   >   * [Modifica contenuto predittivo per la barra delle raccomandazioni](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>* **Preparare i contenuti predittivi**
+>
+>   * [Modifica contenuto predittivo per le e-mail](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) o
+>   * [Modifica contenuto predittivo per contenuti rich media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) o
+>   * [Modifica contenuto predittivo per la barra dei consigli](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
-
-## Abilita e personalizza la barra delle raccomandazioni del contenuto {#enable-and-customize-the-content-recommendation-bar}
+## Abilitare e personalizzare la barra dei consigli dei contenuti {#enable-and-customize-the-content-recommendation-bar}
 
 1. Vai a **Impostazioni contenuto**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Fai clic su **Barre**.
+1. Clic **Barre**.
 
    ![](assets/content-settings-bar-hand.png)
 
@@ -41,29 +41,28 @@ Il motore di consigli per i contenuti utilizza algoritmi di analisi predittiva e
 
    ![](assets/bar-enable.png)
 
-1. Per personalizzare un URL, selezionate i colori, lo stile, il formato, le frecce per la barra dei consigli e le pagine da includere o escludere la barra. Personalizza per adattarti al tuo marchio del sito web. Fai clic su **Salva**.
+1. Per personalizzare un URL, seleziona colori, stile, formato, frecce per la barra dei consigli e pagine per includerla o escluderla. Personalizza per adattarti al tuo marchio del sito web. Clic **Salva**.
 
    ![](assets/bar-customize-details-hands.png)
 
    >[!NOTE]
    >
-   >**URL di visualizzazione Includi/Escludi**
+   >**URL di visualizzazione inclusione/esclusione**
    >
-   >* L&#39;URL di visualizzazione deve essere il percorso del dominio
+   >* L’URL di visualizzazione deve essere il percorso del dominio
    >* Non includere https:// o https://
-   >* Utilizzo &#42; per caratteri jolly
+   >* Utilizzare &#42; per i caratteri jolly
    >* Utilizzare un punto e virgola come separatore
    >* Esempio: /contact_us&#42;; &#42;action=logout&#42;
-   >* Questo campo è sensibile a maiuscole e minuscole
+   >* Questo campo distingue tra maiuscole e minuscole
 
+## Considerazioni sulla barra dei consigli {#recommendation-bar-considerations}
 
-## Considerazioni sulle barre dei consigli {#recommendation-bar-considerations}
+* È necessario almeno un contenuto per la barra dei consigli impostata su **On** sulla pagina Recommendations per il funzionamento del motore di consigli. Se non è abilitato alcun contenuto e la barra è impostata su **On**, l&#39;effetto Freccia viene visualizzato in basso a destra della pagina Web, ma non viene visualizzato alcun contenuto consigliato.
 
-* È necessario almeno un elemento di contenuto per la barra dei consigli impostata su **On** nella pagina Recommendations per il funzionamento del motore di raccomandazioni. Se non è attivato alcun contenuto e la barra è impostata su **On**, l’effetto Freccia viene visualizzato in basso a destra della pagina web, ma non viene visualizzato alcun contenuto consigliato.
-
-* Maggiore è il contenuto in esecuzione nel motore di raccomandazione, migliore sarà l&#39;algoritmo per testare e scoprire quale contenuto funziona meglio. È consigliabile iniziare con 10-20 contenuti in esecuzione e attivi e continuare ad aggiungerne di nuovi.
-* Il contenuto abilitato per la raccomandazione deve includere il tag Javascript RTP. Questo consente all’algoritmo di tenere traccia e ottimizzare il contenuto consigliato.
+* Maggiore è il numero di contenuti in esecuzione nel motore di consigli, migliore sarà la possibilità per l’algoritmo di testare e scoprire quale contenuto funziona meglio. È consigliabile iniziare con 10-20 contenuti in esecuzione e attivi e continuare ad aggiungerne di nuovi.
+* La parte di contenuto abilitata per i consigli deve includere il tag JavaScript RTP. In questo modo l’algoritmo può tenere traccia e ottimizzare il contenuto consigliato.
 
 >[!MORELIKETHIS]
 >
->[Abilita contenuti predittivi per contenuti multimediali web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Abilitare il contenuto predittivo per i contenuti rich media web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

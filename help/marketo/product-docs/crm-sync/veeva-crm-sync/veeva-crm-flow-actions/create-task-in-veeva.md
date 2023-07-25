@@ -1,32 +1,33 @@
 ---
-description: Crea attività a Veeva - Documentazione Marketo - Documentazione del prodotto
-title: Crea attività a Veeva
+description: Crea attività in Veeva - Documentazione Marketo - Documentazione del prodotto
+title: Crea attività in Veeva
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
-source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Crea attività a Veeva {#create-task-in-veeva}
+# Crea attività in Veeva {#create-task-in-veeva}
 
-In qualità di addetto al marketing, hai informazioni che possono aiutare le vendite a concludere le offerte. È possibile creare attività per informarli di ciò che dovrebbero fare e di quando dovrebbero farlo.
+In qualità di addetto al marketing, hai a disposizione informazioni che possono essere di aiuto alle vendite per concludere un affare. Puoi creare attività per comunicare loro cosa dovrebbero fare e quando dovrebbero farlo.
 
 ![](assets/create-task-in-veeva-1.png)
 
 >[!NOTE]
 >
->Quando l&#39;utente di sincronizzazione Marketo sta creando attività, **Ingresso** è un campo obbligatorio per l’attività da creare in Veeva. Se non è presente alcun valore, Marketo immetterà cinque giorni per impostazione predefinita.
+>Quando l&#39;utente di Marketo Sync sta creando attività, **Scade tra** è un campo obbligatorio per la creazione dell’attività in Veeva. Marketo inserirà cinque giorni per impostazione predefinita se non è presente alcun valore.
 
-Per impostazione predefinita, il passaggio di flusso si presenta così:
+Per impostazione predefinita, il passaggio del flusso si presenta così:
 
 ![](assets/create-task-in-veeva-2.png)
 
-Personalizza tutti i campi per creare l’attività nel modo desiderato.
+Personalizzare tutti i campi per creare l&#39;attività nel modo desiderato.
 
 ![](assets/create-task-in-veeva-3.png)
 
 >[!TIP]
 >
->È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nel Oggetto e nella Descrizione. Vedi [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target=&quot;_blank&quot;} per ulteriori dettagli.
+>È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in Oggetto e Descrizione. Consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} per ulteriori dettagli.

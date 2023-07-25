@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352443
-description: Funzionalità del calendario - Documenti Marketo - Documentazione del prodotto
+description: Funzionalità calendario - Documentazione di Marketo - Documentazione del prodotto
 title: Funzionalità calendario
 exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -12,4 +13,4 @@ ht-degree: 0%
 
 # Funzionalità calendario {#calendar-functionality}
 
-Comunica ai destinatari quando sei disponibile premendo il pulsante **Calendario** pulsante . Inserisce il calendario Google e ti consente di aggiungere date e ore specifiche gratuite e il destinatario può rispondere con un orario adatto a loro.
+Informa i destinatari quando sei disponibile premendo il tasto **Calendario** pulsante. Inserisce il calendario Google e consente di aggiungere date e ore specifiche gratuite. Il destinatario può rispondere con un orario adeguato.

@@ -1,22 +1,23 @@
 ---
 unique-page-id: 14352434
-description: Chiamata internazionale per il telefono di vendita - Marketo Docs - Documentazione del prodotto
-title: Chiamata internazionale del telefono di vendita
+description: Chiamate internazionali tramite telefono - Documentazione Marketo - Documentazione del prodotto
+title: Chiamate internazionali telefono vendita
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 10%
 
 ---
 
-# Chiamata internazionale del telefono di vendita {#sales-phone-international-calling}
+# Chiamate internazionali telefono vendita {#sales-phone-international-calling}
 
-Il telefono di vendita consente di comunicare facilmente a livello internazionale. Per i clienti che richiamano dall&#39;interno degli Stati Uniti, il numero telefonico di vendita può essere utilizzato per le chiamate in uscita verso i paesi internazionali. Per i clienti al di fuori degli Stati Uniti, sosteniamo le chiamate da paesi internazionali.
+Il numero di telefono consente di comunicare facilmente a livello internazionale. Per i clienti che chiamano dall&#39;interno degli Stati Uniti, il telefono di vendita può essere utilizzato per le chiamate in uscita verso paesi internazionali. Per i clienti al di fuori degli Stati Uniti, supportiamo le chiamate provenienti da paesi internazionali.
 
 >[!NOTE]
 >
->In genere non siamo favorevoli a chiamare i numeri di telefonia mobile internazionali e l&#39;Alaska viene trattata come un numero internazionale non supportato.
+>In genere non siamo a favore delle chiamate ai numeri di telefonia mobile internazionali e l&#39;Alaska viene trattata come un numero internazionale non supportato.
 
 ## Paesi supportati {#supported-countries}
 
@@ -79,7 +80,7 @@ Il telefono di vendita consente di comunicare facilmente a livello internazional
    <td colspan="1">39</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Kazakhstan </td> 
+   <td colspan="1">Kazakistan </td> 
    <td colspan="1">76, 77</td> 
   </tr> 
   <tr> 
@@ -145,18 +146,18 @@ Il telefono di vendita consente di comunicare facilmente a livello internazional
 
 {#international-calling-faq}
 
-**Perché il MSE non sostiene la richiesta internazionale di tutti i paesi?**
+**Perché MSE non sostiene la richiesta internazionale di tutti i paesi?**
 
-Oggi, offriamo chiamate internazionali con telefono di vendita senza costi aggiuntivi. Vogliamo semplificare la comunicazione con i tuoi clienti e potenziali clienti, per questo abbiamo lanciato il supporto per le chiamate internazionali a tariffa standard. Forniamo copertura a 34 paesi al di fuori degli Stati Uniti e del Canada per regioni in Europa, Asia e altre destinazioni chiave. Continueremo ad espanderci in base al feedback ricevuto dai clienti.
+Oggi offriamo chiamate internazionali con telefono di vendita senza costi aggiuntivi. Vogliamo semplificarvi la comunicazione con i vostri potenziali clienti e clienti, per questo abbiamo lanciato il supporto per le chiamate internazionali a tariffa standard. Forniamo copertura a 34 paesi al di fuori degli Stati Uniti e del Canada per regioni in Europa, Asia e altre destinazioni chiave. Continueremo ad espanderci in base al feedback ricevuto dai clienti.
 
-**Se sono al di fuori degli Stati Uniti, da quali paesi posso chiamare?**
+**Se mi trovo al di fuori degli Stati Uniti, a quali paesi posso rivolgermi?**
 
-Elenco dei paesi che attualmente non supportano le chiamate da e a. Se il paese da cui stai chiamando è supportato, potrai chiamare qualsiasi altro paese internazionale che sosteniamo.
+Di seguito è riportato l&#39;elenco dei paesi per i quali attualmente non supportiamo le chiamate da e verso. Se il paese da cui stai chiamando è supportato, potrai chiamare qualsiasi altro paese internazionale che sosteniamo.
 
-**Ci sono tipi specifici di numeri che non posso chiamare con il telefono di vendita?**
+**Esistono tipi specifici di numeri che non è possibile chiamare con il telefono di vendita?**
 
-Sì. Non supportiamo le chiamate ai numeri di telefono di servizio a tariffa premium (come i numeri 900 negli Stati Uniti e +449 nel Regno Unito). In generale, non siamo favorevoli a chiamare i numeri telefonici a costi condivisi e a un numero limitato di altri percorsi premium.
+Sì. Non sono supportate le chiamate ai numeri di telefono dei servizi a tariffa maggiorata (ad esempio i numeri 900 negli Stati Uniti e +449 nel Regno Unito). In generale, non è supportata la chiamata di numeri telefonici a costo condiviso e di un numero limitato di altre rotte premium.
 
-**Posso usare la presenza locale quando richiamo internazionale?**
+**Posso utilizzare la presenza locale quando richiamo internazionale?**
 
 No. La presenza locale è disponibile solo per i numeri statunitensi.

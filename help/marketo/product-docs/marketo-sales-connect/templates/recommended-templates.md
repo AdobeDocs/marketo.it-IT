@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352510
-description: Modelli consigliati - Documenti Marketo - Documentazione del prodotto
+description: Modelli consigliati - Documentazione di Marketo - Documentazione del prodotto
 title: Modelli consigliati
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -12,36 +13,36 @@ ht-degree: 0%
 
 # Modelli consigliati {#recommended-templates}
 
-I modelli consigliati di Sales Connect consentono di ricevere la messaggistica corretta risparmiando tempo. Questo offre un maggiore flusso durante l’invio delle e-mail e riduce l’incertezza quando si cerca di trovare l’e-mail giusta per la persona giusta.
+I modelli consigliati di Sales Connect consentono di ottenere i messaggi corretti risparmiando tempo. Questo offre un flusso maggiore durante l’invio di e-mail e riduce l’incertezza quando si tenta di trovare l’e-mail giusta per la persona giusta.
 
-1. Passa alla scheda Modelli .
+1. Passa alla scheda Modelli.
 
 1. Seleziona il modello da consigliare e fai clic su **Modifica**.
 
-1. Per abilitare la funzionalità Modello consigliato nel modello, controlla **Suggerisci automaticamente questo modello quando**.
+1. Per abilitare la funzionalità Modello consigliato nel modello, selezionare **Suggerisci automaticamente questo modello quando**.
 
-## Tutto vs. qualsiasi {#all-vs-any}
+## Tutti e Qualsiasi {#all-vs-any}
 
-Ora è il momento di selezionare le impostazioni dei criteri. Seleziona **Tutto** se desideri che il modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **Qualsiasi** se desideri che il modello sia consigliato quando viene soddisfatto uno dei criteri.
+Ora è il momento di selezionare le impostazioni dei criteri. Seleziona **Tutti** se desideri che il modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **Qualsiasi** se desideri che il modello sia consigliato quando viene soddisfatto uno qualsiasi dei criteri.
 
 ## Impostazione dei criteri {#setting-criteria}
 
-I criteri imposteranno le condizioni per le quali verranno consigliati i modelli. Puoi impostare un massimo di 3 criteri. Seleziona innanzitutto i campi dinamici a cui vuoi indirizzare il tuo modello.
+I criteri imposteranno le condizioni per le quali verranno consigliati i modelli. Puoi impostare un massimo di 3 criteri. Seleziona innanzitutto i campi dinamici a cui vuoi puntare nel modello.
 
 ## Condizioni {#conditions}
 
-Ora, seleziona la tua condizione. Quando vengono soddisfatte le condizioni per il campo dinamico, si consiglia di utilizzare il modello . Scegli tra 4 condizioni diverse.
+Ora, seleziona la condizione. Quando vengono soddisfatte le condizioni per il campo dinamico, viene consigliato il modello. Scegli tra 4 diverse condizioni.
 
-**Uguale**: Il valore deve essere una corrispondenza esatta (ad esempio, Marketo è uguale a Marketo)
+**Uguale a**: il valore deve corrispondere esattamente (ad esempio, Marketo è uguale a Marketo)
 
-**È diverso da**: Il valore deve essere qualsiasi cosa tranne una corrispondenza esatta (ad esempio, Marketing Nation non equivale a Marketing)
+**Does Not Equal**: il valore deve corrispondere a qualsiasi cosa tranne che a una corrispondenza esatta (ad esempio, Marketing Nation è diverso da Marketing)
 
-**Contiene**: Deve contenere solo il valore (ad esempio, Marketo Rocks! contiene Marketo)
+**Contiene**: deve solo contenere il valore (ad esempio, Marketo Rocks! contiene Marketo)
 
-**Non contiene**: Il valore non deve trovarsi nel campo dinamico (ad esempio, Marketo Rocks! non contiene Ammirevole)
+**Does Not Contain**: il valore non deve trovarsi nel campo dinamico (ad esempio, Marketo Rocks! non contiene Awesome)
 
-## Aspetto Di Un Modello Consigliato {#what-a-recommended-template-looks-like}
+## Descrizione Di Un Modello Consigliato {#what-a-recommended-template-looks-like}
 
-Una volta impostato il criterio, salva il modello. Da qui, Sales Connect lavorerà la sua magia per far emergere i migliori modelli per voi.
+Una volta impostati i criteri, salvare il modello. Da qui, Sales Connect lavorerà la sua magia per far emergere i modelli migliori per voi.
 
-Ora che hai mappato il tuo primo modello, è ora di mappare il resto. Esamina i modelli più efficaci e consigliali. Non dimenticare di condividere il modello anche con il tuo team. Le impostazioni consigliate per qualsiasi modello verranno condivise anche tra il team.
+Ora che hai mappato il tuo primo modello, è ora di mappare il resto. Individua i modelli di maggior successo e consigliali. Non dimenticare di condividere il modello anche con il tuo team. Anche le impostazioni consigliate per eventuali modelli verranno condivise tra il team.

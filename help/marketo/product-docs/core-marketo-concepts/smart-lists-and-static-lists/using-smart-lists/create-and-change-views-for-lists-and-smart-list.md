@@ -1,26 +1,27 @@
 ---
 unique-page-id: 557337
-description: Creare e modificare visualizzazioni per elenchi e elenchi avanzati - Documenti Marketo - Documentazione del prodotto
-title: Creare e modificare visualizzazioni per elenchi e elenchi avanzati
+description: Creazione e modifica di visualizzazioni per elenchi e elenchi avanzati - Documentazione di Marketo - Documentazione del prodotto
+title: Creare e modificare le visualizzazioni per elenchi e elenchi avanzati
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Creare e modificare visualizzazioni per elenchi e elenchi avanzati {#create-and-change-views-for-lists-and-smart-list}
+# Creare e modificare le visualizzazioni per elenchi e elenchi avanzati {#create-and-change-views-for-lists-and-smart-list}
 
-Un elenco smart visualizza un set predefinito di colonne. Sapevate di poter modificare quelle colonne nel contenuto del vostro cuore? Ecco come.
+In un elenco avanzato viene visualizzato un set predefinito di colonne. Sapevi che era possibile modificare quelle colonne nel contenuto del tuo cuore? Ecco come.
 
 ## Creare una visualizzazione {#create-a-view}
 
-1. Passa a un elenco o a un elenco avanzato, quindi fai clic sul pulsante **Persone** e fai clic su **Crea** **Visualizza** in **Visualizza** a discesa.
+1. Passare a un elenco o a un elenco avanzato, fare clic sul pulsante **Persone** e fai clic su **Crea** **Visualizza** sotto **Visualizza** a discesa.
 
    ![](assets/smartlist-createview.png)
 
-1. Assegna un nome alla visualizzazione e trova la colonna da aggiungere o rimuovere.
+1. Assegna un nome alla visualizzazione e individua la colonna da aggiungere o rimuovere.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
@@ -30,46 +31,45 @@ Un elenco smart visualizza un set predefinito di colonne. Sapevate di poter modi
 
 >[!TIP]
 >
->Per eseguire rapidamente la ricerca, utilizza le **Trova** scatola.
+>Per eseguire ricerche rapide, utilizza **Trova** casella.
 
-## Cambia visualizzazioni {#switch-views}
+## Cambia visualizzazione {#switch-views}
 
-1. Fai clic sul pulsante **Visualizza** a discesa, quindi seleziona la visualizzazione desiderata. Se necessario, passa da una visualizzazione all’altra.
+1. Fai clic su **Visualizza** , quindi selezionare la visualizzazione desiderata. Passate avanti e indietro tra le viste, in base alle esigenze.
 
    ![](assets/smartlist-customviewchoose.png)
 
 >[!NOTE]
 >
-> Per cambiare visualizzazione, è innanzitutto necessario creare una seconda vista, oltre alla vista predefinita.
+> Per cambiare vista, è necessario innanzitutto creare una seconda vista, oltre a quella predefinita.
 
 ## Modificare una visualizzazione {#edit-a-view}
 
-1. Assicurati che la visualizzazione da modificare sia selezionata nella **Visualizza** a discesa.
+1. Assicurati che la vista da modificare sia selezionata nel **Visualizza** a discesa.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Fai clic sul pulsante **Modifica** opzione .
+1. Fai clic su **Modifica** opzione.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Apporta le modifiche desiderate e fai clic su **Salva**.
+1. Apportare le modifiche desiderate e fare clic su **Salva**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 ## Eliminare una visualizzazione {#delete-a-view}
 
-1. Seleziona la **Modifica** per la visualizzazione da eliminare dal **Visualizza** a discesa.
+1. Seleziona la **Modifica** per la vista che si desidera eliminare dal **Visualizza** a discesa.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Fai clic su **Elimina**.
+1. Clic **Elimina**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
-Solo le visualizzazioni personalizzate create nel menu a discesa Visualizza consentono di comunicare agli amici che devono creare le proprie viste.
+Solo tu puoi visualizzare le visualizzazioni personalizzate create nel menu a discesa Visualizza, quindi informa i tuoi amici che devono crearne di proprie.
 
 >[!MORELIKETHIS]
 >
->* [Utilizzare elenchi smart di sistema/incorporati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Usa elenchi avanzati incorporati/di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-

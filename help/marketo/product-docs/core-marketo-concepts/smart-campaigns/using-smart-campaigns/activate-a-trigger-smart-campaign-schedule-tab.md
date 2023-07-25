@@ -1,33 +1,34 @@
 ---
 unique-page-id: 1146935
-description: Attivare una campagna avanzata trigger | Scheda Pianificazione - Documenti Marketo - Documentazione del prodotto
-title: Attivare una campagna avanzata trigger | Scheda Pianificazione
+description: Attivare una campagna avanzata tramite trigger | Scheda Schedule - Documentazione Marketo - Documentazione del prodotto
+title: Attivare una campagna avanzata tramite trigger | Scheda Schedule
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Attivare una campagna avanzata trigger | Scheda Pianificazione {#activate-a-trigger-smart-campaign-schedule-tab}
+# Attivare una campagna avanzata tramite trigger | Scheda Schedule {#activate-a-trigger-smart-campaign-schedule-tab}
 
-L’attivazione di una campagna avanzata trigger è simile all’attivazione. Ecco cosa fare.
+Attivare una campagna avanzata è come attivarla. Ecco cosa fare.
 
-1. Nella campagna avanzata **Pianificazione** scheda , fai clic su **Attiva**.
+1. Nel di Smart Campaign **Pianificazione** , fare clic su **Attiva**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
    >[!TIP]
    >
-   >Rivedi la Smart Campaign prima di attivarla.
+   >Controlla la campagna avanzata prima di attivarla.
 
-1. Fai clic su **Attiva** di nuovo.
+1. Clic **Attiva** di nuovo.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 
    >[!CAUTION]
    >
-   >Assicurati che la campagna sia pronta prima di attivarla!
+   >Assicurati che la campagna sia pronta prima di attivarla.
 
-Da questo momento in poi, chiunque si qualifichi per l’Elenco avanzato passerà attraverso il flusso definito dalla tua Smart Campaign.
+Da questo momento in poi, chiunque sia idoneo per l’elenco avanzato passerà attraverso il flusso definito dalla tua campagna avanzata.

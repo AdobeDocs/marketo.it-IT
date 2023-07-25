@@ -1,62 +1,63 @@
 ---
 unique-page-id: 2949467
-description: Cos'è Adobe Marketo Engage? - Documentazione Marketo - Documentazione del prodotto
-title: Cos'è Adobe Marketo Engage?
+description: Cos’è Adobe Marketo Engage? - Documentazione di Marketo - Documentazione del prodotto
+title: Cos’è Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: a433eb0496bc919f4e19361fbe68512b19f03879
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-# Cos&#39;è Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
+# Cos’è Adobe Marketo Engage? {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage (a volte indicato come Marketo Engage, o anche solo Marketo), è un software di automazione del marketing. L’automazione del marketing ti consente di semplificare, automatizzare e misurare le attività e i flussi di lavoro di marketing in modo da aumentare l’efficienza operativa e aumentare i ricavi più rapidamente.
+Adobe Marketo Engage (a volte indicato come Marketi Engage, o anche solo Marketo) è un software di automazione del marketing. L’automazione del marketing consente di semplificare, automatizzare e misurare le attività e i flussi di lavoro di marketing, in modo da aumentare l’efficienza operativa e far crescere i ricavi più rapidamente.
 
 ## Cosa posso fare in Marketo Engage? {#what-can-i-do-in-marketo-engage}
 
-Il Marketo Engage dispone di una serie di funzioni straordinarie per aiutarti a raggiungere i tuoi obiettivi di marketing. Cose come...
+Il Marketo Engage dispone di un sacco di grandi funzioni per aiutarti a raggiungere i tuoi obiettivi di marketing. Cose come...
 
-* Editor moduli
+* Editor di moduli
 * Editor pagina di destinazione
-* Modelli di pagina di destinazione guidati
+* Modelli di pagina di destinazione guidata
 * Editor e-mail
-* Utensili per posta
+* Strumenti per la posta elettronica
 * Segmentazione
 * Contenuto predittivo
-* Integrazione Webinar
+* Integrazione webinar
 * Mobile Marketing
 * Sincronizza con il tuo CRM (Salesforce o Dynamics)
-* Integrazione sito web
-* Motore di workflow
-* Punteggio di persona
-* Dashboard in-CRM per rappresentanti di vendita
+* Integrazione del sito web
+* Motore flusso di lavoro
+* Punteggio della persona
+* Dashboard in-CRM per agenti di vendita
 * Analisi del programma
-* Gestione account di Target
+* Gestione account di destinazione
 
 ...e molto di più!
 
-## Devo imparare tutto quello? {#do-i-need-to-learn-all-of-that}
+## Devo imparare tutto questo? {#do-i-need-to-learn-all-of-that}
 
-No! È facile iniziare in Marketo Engage, e si evolverà con voi. Potete imparare tutto se volete, o usare solo i pezzi che soddisfano le vostre esigenze.
+Non è vero! È facile iniziare in Marketo Engage, e si evolverà con voi. Puoi imparare tutto, se lo desideri, o semplicemente utilizzare i pezzi che si adattano alle tue esigenze.
 
-## Devo fare qualche configurazione? {#do-i-need-to-do-any-setup}
+## È necessario eseguire una configurazione? {#do-i-need-to-do-any-setup}
 
 Sì, abbiamo fatto un [elenco di controllo delle operazioni da eseguire](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.
 
-## Devo aspettare che la configurazione sia completata per imparare? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
+## È necessario attendere il completamento dell&#39;installazione per apprendere? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-No! Abbiamo fatto una serie di semplici tutorial. [Introduzione qui](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Ci dovrebbe volere circa un&#39;ora. Puoi iniziare da qualsiasi ora.
+No! Abbiamo creato una serie di semplici tutorial. [Inizia qui](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Dovrebbero volerci circa un&#39;ora. Puoi iniziare in qualsiasi momento.
 
-## C&#39;è un elenco di cose che copre i limiti, come il numero totale di e-mail che posso inviare in una settimana? {#list-of-limits}
+## Esiste un elenco di elementi che copre i limiti, ad esempio il numero totale di e-mail che è possibile inviare in una settimana? {#list-of-limits}
 
-C&#39;è. I limiti statici (e altri parametri) sono descritti [nel presente articolo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+C&#39;è. Vengono descritti i limiti statici (e altri parametri) [in questo articolo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
-## Per quanto tempo Marketo mantiene i miei dati? {#data-retention-policy}
+## Per quanto tempo Marketo conserva i miei dati? {#data-retention-policy}
 
-Consulta [questo posto della Nazione](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} per i dettagli.
+Rivedi [questo post Nazione](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} per i dettagli.
 
 <br>
 
-Benvenuta al Marketo Engage! Siamo felici che tu sia qui.
+Benvenuto nel Marketo Engage! Noi siamo felici che siate qui.

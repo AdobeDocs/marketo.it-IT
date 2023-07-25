@@ -1,16 +1,18 @@
 ---
 description: Risultati delle chiamate - Documentazione Marketo - Documentazione del prodotto
-title: Risultati chiamata
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+title: Risultati della chiamata
+exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Risultati chiamata {#call-outcomes}
+# Risultati della chiamata {#call-outcomes}
 
-Consenti ai team di vendita di selezionare i risultati delle chiamate durante le chiamate in modo che il tuo team possa comprendere l&#39;impatto delle attività di coinvolgimento dei clienti.
+Consenti ai team di vendita di selezionare i risultati delle chiamate quando si effettuano le chiamate, in modo che il team possa comprendere l&#39;impatto delle attività di coinvolgimento dei clienti.
 
 >[!NOTE]
 >
@@ -18,11 +20,11 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate durante le
 
 ## Abilita risultati chiamata {#enable-call-outcomes}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona dell’ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/call-outcomes-1.png)
 
-1. In Impostazioni amministratore, seleziona **Dialogo**.
+1. In Impostazioni amministratore seleziona **Connessione telefonica**.
 
    ![](assets/call-outcomes-2.png)
 
@@ -30,7 +32,7 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate durante le
 
    ![](assets/call-outcomes-3.png)
 
-1. Scegli il tuo requisito finale di chiamata desiderato.
+1. Scegli il requisito di risultato della chiamata desiderato.
 
    ![](assets/call-outcomes-4.png)
 
@@ -40,39 +42,39 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate durante le
 >
 >Puoi creare un massimo di 15 risultati di chiamata.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona dell’ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/call-outcomes-5.png)
 
-1. In Impostazioni amministratore, seleziona **Dialogo**.
+1. In Impostazioni amministratore seleziona **Connessione telefonica**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Fai clic su **Gestisci risultati chiamate**.
+1. Clic **Gestire gli esiti delle chiamate**.
 
    ![](assets/call-outcomes-7.png)
 
-1. Inserisci il nome del risultato della chiamata desiderato nel campo di testo.
+1. Immetti il nome del risultato della chiamata desiderato nel campo di testo.
 
    ![](assets/call-outcomes-8.png)
 
-1. Fai clic sull’elenco a discesa Risposta e scegli il tipo di risultato (in questo esempio scegliamo Risposta). Quindi fai clic su **Aggiungi**.
+1. Fare clic sull&#39;elenco a discesa Risposte e scegliere il tipo di risultato (in questo esempio si sta scegliendo Risposte). Quindi fai clic su **Aggiungi**.
 
    ![](assets/call-outcomes-9.png)
 
-## Scegliere un risultato della chiamata {#choose-a-call-outcome}
+## Scegli un risultato della chiamata {#choose-a-call-outcome}
 
-I risultati delle chiamate sono stati abilitati. Gli utenti possono selezionarne uno durante una chiamata .
+Una volta abilitati i risultati della chiamata. Gli utenti possono selezionarne uno durante una chiamata.
 
-1. Fai clic sul pulsante di chiamata per avviare il dialer.
+1. Fare clic sul pulsante di chiamata per avviare la composizione.
 
    ![](assets/call-outcomes-10.png)
 
-1. Immetti le informazioni sulla chiamata nella finestra di dialogo e fai clic su **Chiamata**.
+1. Inserisci le informazioni sulla chiamata nella finestra di dialogo e fai clic su **Chiamata**.
 
    ![](assets/call-outcomes-11.png)
 
-1. Seleziona il risultato della chiamata che descrive meglio la chiamata.
+1. Seleziona il risultato della chiamata che meglio descrive la chiamata.
 
    ![](assets/call-outcomes-12.png)
 
@@ -86,6 +88,5 @@ I risultati delle chiamate sono stati abilitati. Gli utenti possono selezionarne
 
 >[!MORELIKETHIS]
 >
->* [Segnala i motivi delle chiamate e i risultati delle chiamate a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Registra i motivi e gli esiti delle chiamate a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Motivi della chiamata](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
-

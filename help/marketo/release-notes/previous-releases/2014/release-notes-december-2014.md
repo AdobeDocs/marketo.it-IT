@@ -1,22 +1,23 @@
 ---
 unique-page-id: 4720253
-description: Note sulla versione - Dicembre 2014 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione -Dicembre 2014 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Dicembre 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Dicembre 2014 {#release-notes-december}
+# Note sulla versione: dicembre 2014 {#release-notes-december}
 
-Le seguenti funzionalità sono incluse nella versione di dicembre 2014. Per informazioni sulla disponibilità delle funzioni, controlla la tua Marketo Edition. Dopo il rilascio, assicurati di tornare a trovare i collegamenti agli articoli dettagliati per ogni funzione!
+Le seguenti funzioni sono incluse nella versione di dicembre 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 
 ## Rapporti Approfondimenti vendite {#sales-insight-reports}
 
-La [Rapporto sulle prestazioni delle e-mail in Approfondimenti vendite](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche delle e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite Salesforce, Microsoft Dynamics, il plug-in di Outlook e il plug-in Gmail.
+Il [Rapporto sulle prestazioni delle e-mail di Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite Salesforce, Microsoft Dynamics, il plug-in di Outlook e il plug-in Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -24,55 +25,55 @@ La [Rapporto sulle prestazioni delle e-mail in Approfondimenti vendite](/help/ma
 
 ## Tipi di pubblico personalizzati facebook {#facebook-custom-audiences}
 
-Una volta aggiunto l’amministratore di Marketo [Facebook tramite Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), è possibile creare, aggiornare o [sostituire un pubblico personalizzato Facebook con i lead provenienti da un elenco statico o avanzato di Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cerca la nuova icona Facebook nella parte inferiore della griglia lead di qualsiasi elenco statico o avanzato.
+Una volta aggiunto il tuo amministratore Marketo [Facebook tramite Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puoi facilmente creare, aggiornare o [sostituire un pubblico personalizzato di Facebook con lead da un elenco statico o avanzato di Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cerca la nuova icona Facebook nella parte inferiore della griglia dei lead di un elenco statico o avanzato.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
-## Clonazione migliorata tra le aree di lavoro  {#improved-cloning-across-workspaces}
+## Clonazione migliorata in più aree di lavoro  {#improved-cloning-across-workspaces}
 
-[Clonazione di un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) in un altro spazio di lavoro non è mai stato più facile! Quando fai clic su clone, seleziona l’area di lavoro di destinazione. Basta clonare in una cartella e poi spostare la cartella!
+[Clonazione di un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) in un&#39;altra area di lavoro non è mai stato così facile. Quando si fa clic su clona, viene selezionato il workspace di destinazione. Non clonare più in una cartella e quindi spostare la cartella.
 
 >[!NOTE]
 >
->Questa nuova funzione Clona è disponibile solo per i programmi in questo momento.
+>Questa nuova funzione di clonazione è attualmente disponibile solo per i programmi.
 
 ![](assets/image2014-12-5-11-3a7-3a13.png)
 
-## Elenco smart di riferimento {#reference-smart-list}
+## Elenco avanzato riferimenti {#reference-smart-list}
 
-[È possibile fare riferimento agli elenchi avanzati condivisi con un’altra area di lavoro](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) durante la creazione di un elenco o flusso smart.
+[È possibile fare riferimento agli elenchi avanzati condivisi con un&#39;altra area di lavoro](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) durante la creazione di un elenco avanzato o di un flusso.
 
-## Miglioramenti all’importazione di elenchi {#list-import-improvements}
+## Miglioramenti all’importazione degli elenchi {#list-import-improvements}
 
-[Importare file](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codificato in UTF-16, Shift-JIS o EUC-JP. Continuiamo a supportare file codificati UTF-8.
+[Importa file](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codificati in UTF-16, Shift-JIS o EUC-JP. Continuiamo a supportare i file con codifica UTF-8.
 
-## Tracciamento dei collegamenti negli script e-mail {#link-tracking-in-email-scripting}
+## Tracciamento dei collegamenti nello script e-mail {#link-tracking-in-email-scripting}
 
-I collegamenti all’interno degli script e-mail verranno ora tracciati e disponibili nel rapporto Prestazioni collegamento e-mail .
+I collegamenti all’interno degli script e-mail verranno ora tracciati e disponibili all’interno del rapporto sulle prestazioni del collegamento e-mail.
 
-## Impostazione di codifica dei token {#token-encoding-setting}
+## Impostazione codifica token {#token-encoding-setting}
 
-È stata implementata una nuova funzione di sicurezza per la codifica automatica dei token in HTML, che verrà attivata per impostazione predefinita a marzo 2015. Fino ad allora, attiva questa funzionalità in Gestione campi per testare il comportamento in anticipo. Tutti i token lead e aziendali verranno codificati quando vengono inseriti nelle e-mail o nelle pagine di destinazione. Le opzioni sono disponibili anche per i singoli campi.
+È stata implementata una nuova funzione di sicurezza per la codifica automatica dei token da parte di HTML, che verrà abilitata per impostazione predefinita a marzo 2015. Fino ad allora, attiva questa funzionalità in Gestione campi per verificare il comportamento in anticipo. Tutti i token di lead e società verranno codificati quando vengono inseriti nelle e-mail o nelle pagine di destinazione. Saranno inoltre disponibili opzioni per singoli campi.
 
 ## Nuove chiamate API ReST {#new-rest-api-calls}
 
-Tre nuove chiamate per l’API Lead &amp; Activity ReST:
+Tre nuove chiamate per l’API ReST per lead e attività:
 
-・ Ottieni quote lead
+· Ottieni partizioni lead
 
-・ Associa lead
+· Associa lead
 
-・ Unisci lead
+· Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [developers.marketo.com](https://developers.marketo.com/)
+I dettagli completi saranno disponibili dopo il rilascio, all’indirizzo [developers.marketo.com](https://developers.marketo.com/)
 
-## Miglioramenti Della Compatibilità Javascript Di Munchkin {#munchkin-javascript-compatibility-enhancements}
+## Miglioramenti alla compatibilità di Munchkin con JavaScript {#munchkin-javascript-compatibility-enhancements}
 
-Abbiamo apportato diversi miglioramenti minori a Munchkin per garantire che continui a caricarsi rapidamente e funzioni come desiderato nei casi con altri JavaScript sulla pagina.
+Abbiamo apportato diversi miglioramenti minori a Munchkin per assicurarne il caricamento rapido e il corretto funzionamento nei casi in cui si riscontri la presenza di altri JavaScript sulla pagina.
 
-Il rollout sarà messo in scena a partire da metà dicembre e continuerà per i prossimi mesi.
+Il rollout sarà messo in scena a partire da metà dicembre e continuerà per diversi mesi.
 
-## Aspetto e sensazione aggiornati di Revenue Explorer {#revenue-explorer-upgraded-look-and-feel}
+## Revenue Explorer - Aspetto aggiornato {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -80,16 +81,16 @@ Il rollout sarà messo in scena a partire da metà dicembre e continuerà per i 
 
 ![](assets/image2014-12-5-11-3a8-3a36.png)
 
-## RTP: Modulo elenco account denominato {#rtp-named-account-list-module}
+## RTP: modulo elenco account denominati {#rtp-named-account-list-module}
 
-Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina Account denominati . Carica nuovi elenchi di account denominati per identificare ed eseguire il targeting di tali organizzazioni. Abbiamo automatizzato il processo, fornendo maggiore controllo e flessibilità per implementare i piani di marketing basati sull’account e indirizzare i tuoi account chiave su diversi canali (web e pubblicità).
+Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina Account denominati. Carica nuovi elenchi di account denominati per identificare ed eseguire il targeting di queste organizzazioni. Il processo è stato automatizzato per offrirti maggiore controllo e flessibilità nell’implementare piani di marketing basati sull’account e indirizzare gli account chiave verso canali diversi (web e pubblicitari).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
 ![](assets/image2014-12-5-11-3a9-3a10.png)
 
-## RTP: Effetto scorrevole per le campagne nelle aree {#rtp-sliding-effect-for-in-zone-campaigns}
+## RTP: effetto scorrevole per le campagne In Zone {#rtp-sliding-effect-for-in-zone-campaigns}
 
-È stato aggiunto un nuovo effetto di scorrimento per le campagne In Zone per consentire la creazione di contenuti personalizzati al caricamento della pagina.
+Abbiamo aggiunto un nuovo effetto Scorrimento per le campagne In Zone per consentire ai contenuti personalizzati di scorrere in posizione al caricamento della pagina.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)

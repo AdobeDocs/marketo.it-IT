@@ -1,81 +1,82 @@
 ---
 unique-page-id: 10099360
-description: Prepararsi per il tuo evento - Documentazione Marketo - Documentazione del prodotto
-title: Preparare l'evento
+description: Prepararsi per l’evento - Documentazione di Marketo - Documentazione del prodotto
+title: Preparati per l’evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-# Preparare l&#39;evento {#prepare-for-your-event}
+# Preparati per l’evento {#prepare-for-your-event}
 
 Ci sono diverse cose da fare per prepararsi all&#39;evento.
 
-## Creare un nuovo ruolo Marketo {#create-a-new-marketo-role}
+## Crea un nuovo ruolo Marketo {#create-a-new-marketo-role}
 
-Marketo ha un ruolo utente speciale per l’app di check-in degli eventi. [Creare un nuovo ruolo Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) per gli utenti iPad o Android, con l’autorizzazione per accedere all’app mobile.
+Marketo ha un ruolo utente speciale per l’app di archiviazione degli eventi. [Crea un nuovo ruolo Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) per utenti iPad o Android, con l’autorizzazione di accesso all’app mobile.
 
-## Invitare nuovi utenti di Tablet nell’evento {#invite-new-tablet-users-to-the-event}
+## Invita nuovi utenti Tablet PC all&#39;evento {#invite-new-tablet-users-to-the-event}
 
-[Invitare nuovi utenti di tablet all’evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e assegnare loro il nuovo ruolo.
+[Invita nuovi utenti tablet all&#39;evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e assegnargli il nuovo ruolo.
 
-## Creare un nuovo programma evento Marketo {#create-a-new-marketo-event-program}
+## Creazione di un nuovo programma eventi di Marketo {#create-a-new-marketo-event-program}
 
-[Creare un nuovo programma di eventi Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) per acquisire lo stato delle persone durante l’avanzamento in diverse fasi e ottenere misure accurate del ROI per le iniziative di marketing.
+[Creazione di un nuovo programma eventi di Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) acquisire lo stato delle persone durante il loro avanzamento in diverse fasi e ottenere misurazioni accurate del ROI per le iniziative di marketing.
 
-## Specifica le date dell’evento {#specify-the-event-dates}
+## Specificare le date dell&#39;evento {#specify-the-event-dates}
 
-È un&#39;istantanea impostare le date dell&#39;evento.
+Impostare le date dell&#39;evento è un&#39;operazione immediata.
 
 1. Fai clic sull’evento nella pianificazione e imposta la data e l’ora di inizio e di fine.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Passa a **Provvisorio** a **Confermato**.
+1. Scorri verso l&#39;alto per cambiare **Provvisorio** a **Confermato**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
    >[!CAUTION]
    >
-   >Se la data dell’evento è precedente o successiva alla data corrente più di una settimana, l’evento non verrà visualizzato nell’app. **Suggerimento**: Per verificarlo, imposta temporaneamente le date entro una settimana dalla data odierna. Ricorda di restituire l’evento alle date corrette dopo averlo verificato.
+   >Se la data dell’evento è anteriore o posteriore di più di una settimana alla data corrente, l’evento non verrà visualizzato nell’app. **Suggerimento**: per eseguire il test, imposta temporaneamente le date su entro una settimana dalla data odierna. Ricordati di ripristinare le date corrette dell’evento dopo averlo testato.
 
-## Aggiungi persone all’evento {#add-people-to-your-event}
+## Aggiungi persone al tuo evento {#add-people-to-your-event}
 
-Ora conosci il *quando*, è ora di aggiungere il *chi*.
+Ora che conosci *quando*, è ora di aggiungere *chi*.
 
-1. Se disponi già di un elenco di persone, in My Marketo fai clic sul pulsante **Database** piastrelle.
+1. Se si dispone già di un elenco di persone, in Il mio Marketo fare clic sul pulsante **Database** affiancare.
 
    ![](assets/db.png)
 
-1. Seleziona un elenco con le persone e fai clic sul pulsante **Persone** scheda .
+1. Seleziona un elenco con persone e fai clic su **Persone** scheda.
 
    ![](assets/four.png)
 
-1. Seleziona le persone per l’evento dall’elenco. Utilizzo **Ctrl** o **Comando** su un Mac) per fare clic su più persone, oppure **Seleziona tutto** per segnarli tutti.
+1. Seleziona dall’elenco le persone per il tuo evento. Utilizzare **Ctrl** (o **Comando** su un Mac) per fare clic su più persone, oppure **Seleziona tutto** per contrassegnarli tutti.
 
    ![](assets/five.png)
 
-1. Fai clic su **Azioni personali**, passa il mouse **Programmi** e seleziona **Cambia stato del programma**.
+1. Clic **Azioni della persona**, passaggio del mouse **Programmi** e seleziona **Modifica stato programma**.
 
    ![](assets/six.png)
 
-1. Fai clic sul pulsante **Programma** elenco a discesa e seleziona l’evento.
+1. Fai clic su **Programma** e seleziona l’evento.
 
    ![](assets/seven.png)
 
-1. Fai clic sul pulsante **Nuovo stato** a discesa e seleziona **Roadshow > Registrato**. Fai clic su **Esegui ora**.
+1. Fai clic su **Nuovo stato** a discesa e selezionare **Roadshow > Registrato**. Clic **Esegui ora**.
 
    ![](assets/eight.png)
 
-1. Una piccola finestra mostra l&#39;avanzamento..
+1. Una piccola finestra mostra lo stato di avanzamento...
 
    ![](assets/image2016-4-7-16-3a49-3a7.png)
 
-1. ...e indica quando l’attività è completa.
+1. ...e indica quando l&#39;attività è completa.
 
    ![](assets/ten.png)
 
-   Le persone selezionate sono ora nell&#39;evento, pronte per essere archiviate utilizzando l&#39;app per tablet sul pavimento della fiera.
+   Le persone selezionate sono ora nel tuo evento, pronte per il check-in tramite l’app tablet nell’ambito della fiera.

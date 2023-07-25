@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2359679
-description: Modificare il CSS di un tema del modulo - Marketo Docs - Documentazione del prodotto
-title: Modificare il CSS di un tema del modulo
+description: Modificare il CSS di un tema modulo - Documentazione Marketo - Documentazione del prodotto
+title: Modificare il CSS di un tema modulo
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
 
 ---
 
-# Modificare il CSS di un tema del modulo {#edit-the-css-of-a-form-theme}
+# Modificare il CSS di un tema modulo {#edit-the-css-of-a-form-theme}
 
-Hai alcuni predefiniti [temi che puoi scegliere](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Ma se ami modificare CSS, puoi apportare le modifiche desiderate. Ecco come.
+Ne sono presenti alcuni predefiniti [temi tra cui scegliere](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Ma se ti piace modificare i CSS, puoi apportare le modifiche desiderate. Ecco come.
 
 >[!NOTE]
 >
->Assicurati di conoscere i CSS se desideri provare questo, in quanto il supporto Marketo non è impostato per assistere con la codifica personalizzata. Inoltre, le modifiche apportate verranno applicate solo al modulo attualmente in fase di modifica.
+>Se desideri provare, assicurati di conoscere i file CSS, in quanto il supporto Marketo non è configurato per assistere nella codifica personalizzata. Inoltre, le modifiche apportate verranno applicate solo al modulo che si sta modificando.
 
 1. Vai a **Attività di marketing**.
 
@@ -30,7 +31,7 @@ Hai alcuni predefiniti [temi che puoi scegliere](/help/marketo/product-docs/dema
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
-1. Seleziona il tema a cui desideri apportare le modifiche.
+1. Selezionare il tema che si desidera modificare.
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
@@ -38,7 +39,7 @@ Hai alcuni predefiniti [temi che puoi scegliere](/help/marketo/product-docs/dema
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. Puoi tagliare/incollare questo CSS nel tuo editor. È di sola lettura, quindi avrai solo bisogno dell&#39;override CSS.
+1. Puoi tagliare/incollare questo CSS nel tuo editor personale. È di sola lettura, quindi avrai bisogno solo del CSS di sostituzione.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -46,11 +47,11 @@ Hai alcuni predefiniti [temi che puoi scegliere](/help/marketo/product-docs/dema
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Sotto l’icona a forma di ingranaggio, fai clic su **Modifica CSS personalizzati**.
+1. Sotto l’icona a forma di ingranaggio, fai clic su **Modifica CSS personalizzato**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
-1. Inserisci il tuo CSS personalizzato. Non ce n&#39;è bisogno di tutto, solo delle parti che sono diverse.
+1. Inserisci il CSS personalizzato. Non ne avete bisogno di tutte, solo di parti che sono diverse.
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
@@ -62,4 +63,4 @@ Hai alcuni predefiniti [temi che puoi scegliere](/help/marketo/product-docs/dema
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
-Ed è questo!
+E questo è quanto!

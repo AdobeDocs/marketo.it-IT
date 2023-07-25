@@ -1,18 +1,19 @@
 ---
 unique-page-id: 17727591
-description: Connessione e-mail per utenti di Outlook - Documentazione di Marketo - Documentazione del prodotto
-title: Connessione e-mail per utenti di Outlook
+description: Connessione e-mail per gli utenti di Outlook - Documentazione di Marketo - Documentazione del prodotto
+title: Connessione e-mail per gli utenti di Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Connessione e-mail per utenti di Outlook {#email-connection-for-outlook-users}
+# Connessione e-mail per gli utenti di Outlook {#email-connection-for-outlook-users}
 
-Scopri come collegare il tuo account di vendita Connect con Outlook.
+Scopri come collegare l’account Sales Connect a Outlook.
 
 >[!NOTE]
 >
@@ -20,9 +21,9 @@ Scopri come collegare il tuo account di vendita Connect con Outlook.
 
 ## Connessione a Outlook Online {#connecting-to-outlook-online}
 
-La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&#39;accesso al canale di consegna di Outlook, la possibilità di pianificare le e-mail in Outlook e inviare la conformità.
+La connessione a Outlook ti consente di ricevere il tracciamento delle risposte, di accedere al canale di consegna di Outlook, di pianificare le e-mail in Outlook e di inviare messaggi di conformità.
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -30,30 +31,30 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&
 
    ![](assets/two.png)
 
-1. Fai clic sul pulsante **Connessione e-mail** scheda .
+1. Fai clic su **Connessione e-mail** scheda.
 
    ![](assets/three.png)
 
-1. Fai clic su **Introduzione**.
+1. Clic **Introduzione**.
 
    ![](assets/four.png)
 
-1. Seleziona **Utilizzo di Outlook per l&#39;invio di e-mail** e fai clic su **Successivo**.
+1. Seleziona **Utilizzo Outlook per inviare le e-mail** e fai clic su **Successivo**.
 
    ![](assets/five-a.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio stiamo scegliendo Outlook Online.
+1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio si sta scegliendo Outlook Online.
 
    ![](assets/six-a.png)
 
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook in linea</strong></td> 
-      <td>Noto anche come Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td> 
+      <td>Anche noto come Exchange Online</td> 
      </tr>
      <tr>
-      <td><strong>Exchange on-premise</strong></td> 
+      <td><strong>Exchange On-Premise</strong></td> 
       <td>Include Exchange 2013 e 2016</td> 
      </tr>
     </tbody>
@@ -61,17 +62,17 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&
 
    >[!NOTE]
    >
-   >Al momento, Marketo non supporta gli account Exchange Hybrid.
+   >Al momento, Marketo non supporta gli account ibridi di Exchange.
 
-1. Fai clic su **OK**.
+1. Clic **OK**.
 
    ![](assets/seven-a.png)
 
-1. Se non hai effettuato l&#39;accesso a Outlook, immetti le informazioni di accesso e fai clic su **Successivo**. In caso affermativo, scegli l’account a cui desideri connetterti e fai clic su **Successivo**. In questo esempio, abbiamo già effettuato l&#39;accesso.
+1. Se non si è connessi a Outlook, immettere le informazioni di accesso e fare clic su **Successivo**. Se lo sei, scegli l’account a cui desideri connetterti e fai clic su **Successivo**. In questo esempio, abbiamo già effettuato l’accesso.
 
    ![](assets/eight-a.png)
 
-1. Fai clic su **Accetta**.
+1. Clic **Accetta**.
 
    ![](assets/nine-a.png)
 
@@ -79,13 +80,13 @@ La connessione a Outlook consente di ricevere il tracciamento delle risposte, l&
 
    >[!NOTE]
    >
-   >Outlook Online (Office365) applica i propri limiti di invio. [Ulteriori informazioni qui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365) applica i propri limiti di invio. [Fai clic qui per ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Connessione a Exchange On-Premise {#connecting-to-exchange-on-premise}
 
-La connessione a Exchange On-Premise consente di ricevere il tracciamento delle risposte, l&#39;accesso al canale di consegna di Outlook, la possibilità di pianificare le e-mail in Outlook e inviare la conformità.
+La connessione a Exchange On-Premise ti consente di ricevere il tracciamento delle risposte, di accedere al canale di consegna di Outlook, di pianificare le e-mail in Outlook e di inviare messaggi di conformità.
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -93,30 +94,30 @@ La connessione a Exchange On-Premise consente di ricevere il tracciamento delle 
 
    ![](assets/two.png)
 
-1. Fai clic sul pulsante **Connessione e-mail** scheda .
+1. Fai clic su **Connessione e-mail** scheda.
 
    ![](assets/three.png)
 
-1. Fai clic su **Introduzione**.
+1. Clic **Introduzione**.
 
    ![](assets/four.png)
 
-1. Seleziona **Utilizzo di Outlook per l&#39;invio di e-mail** e fai clic su **Successivo**.
+1. Seleziona **Utilizzo Outlook per inviare le e-mail** e fai clic su **Successivo**.
 
    ![](assets/five-a.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio scegliamo Exchange On-Premise.
+1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio viene scelto Exchange On-Premise.
 
    ![](assets/six-b.png)
 
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook in linea</strong></td> 
-      <td>Noto anche come Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td> 
+      <td>Anche noto come Exchange Online</td> 
      </tr>
      <tr>
-      <td><strong>Exchange on-premise</strong></td> 
+      <td><strong>Exchange On-Premise</strong></td> 
       <td>Include Exchange 2013 e 2016</td> 
      </tr>
     </tbody>

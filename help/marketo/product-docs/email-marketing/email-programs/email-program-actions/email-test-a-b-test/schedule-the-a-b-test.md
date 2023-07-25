@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359547
-description: Pianificare il test A/B - Documenti Marketo - Documentazione del prodotto
+description: Pianificare il test A/B - Documentazione di Marketo - Documentazione del prodotto
 title: Pianificare il test A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Pianificare il test A/B {#schedule-the-a-b-test}
 
-Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri per i vincitori, dovrai pianificare l’inizio del test. Ecco come.
+Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri dei vincitori, dovrai pianificare quando inizia il test. Ecco come.
 
 >[!PREREQUISITES]
 >
@@ -20,7 +21,7 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri per i 
 
 >[!NOTE]
 >
->Per i test di data/ora, è necessario impostare solo quando si riceve il riepilogo dei risultati del test.
+>Per i test di data e ora, è necessario impostare solo quando si riceve il riepilogo dei risultati del test.
 
 1. Seleziona la **Invia test** data.
 
@@ -32,9 +33,9 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri per i 
 
    >[!NOTE]
    >
-   >Send Test and Send Winner deve essere distante almeno 4 ore. Tuttavia, per invii più grandi si può voler aspettare 24 ore per consentire abbastanza tempo per ottenere buoni risultati.
+   >Invia vincitore test e Invia vincitore devono essere a distanza di almeno 4 ore. Tuttavia, per invii più grandi potresti voler aspettare 24 ore per avere il tempo necessario per ottenere buoni risultati.
 
-1. Fai la stessa cosa per **Invia vincitore**. Immetti i destinatari della notifica (facoltativo) e fai clic su **Successivo**.
+1. Fai la stessa cosa per **Invia vincitore**. Inserisci i destinatari della notifica (facoltativo) e fai clic su **Successivo**.
 
    >[!NOTE]
    >
@@ -44,13 +45,13 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri per i 
 
    >[!NOTE]
    >
-   >Se scegliete di dichiarare manualmente un vincitore, definite **Invia rapporto** data/ora anziché **Termina mailing** data/ora.
+   >Se hai scelto di dichiarare manualmente un vincitore, definirai **Invio report** data/ora anziché **Termina mailing** data/ora.
 
-   Super! Hai finito, controlla il riepilogo e fai clic su Chiudi.
+   Super! Al termine, esaminare il riepilogo e fare clic su Chiudi.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Noterai la **Pianificazione** riquadro è stato aggiornato.
+   Noterai la **Pianificazione** Il riquadro è stato aggiornato.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
@@ -58,8 +59,8 @@ Dopo aver aggiunto un test A/B a un programma e-mail e definito i criteri per i 
    >
    >La pianificazione di un test A/B configura anche la data di invio finale o la data di invio del rapporto.
 
-   Supponendo che il pubblico sia già stato definito e abbia scelto un’e-mail, l’unico passaggio rimasto è l’approvazione del programma.
+   Supponendo di aver già definito il pubblico e scelto un’e-mail, l’unico passaggio rimasto è approvare il programma.
 
    >[!MORELIKETHIS]
    >
-   >[Approvare/annullare l’approvazione di un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[Approvare/Annullare l’approvazione di un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359657
-description: Modificare le impostazioni internazionali di un modulo - Marketo Docs - Documentazione del prodotto
+description: Modificare le impostazioni internazionali di un modulo - Documentazione di Marketo - Documentazione del prodotto
 title: Modificare le impostazioni internazionali di un modulo
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Modificare le impostazioni internazionali di un modulo {#change-a-forms-locale}
 
-Quando si utilizzano moduli internazionali, è necessario visualizzare le date/ore nei formati corretti. Marketo farà questo automaticamente per te, tutto quello che devi fare è impostare le impostazioni internazionali del modulo e ci occupiamo del resto.
+Quando si utilizzano i moduli internazionali, è necessario visualizzare le date e le ore nei formati corretti. Marketo eseguirà automaticamente questa operazione, non dovrai fare altro che impostare le impostazioni locali del modulo e ci occuperemo del resto.
 
 1. Vai a **Attività di marketing**.
 
@@ -26,15 +27,15 @@ Quando si utilizzano moduli internazionali, è necessario visualizzare le date/o
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Seleziona la **Impostazioni internazionali** di tua scelta.
+1. Seleziona la **Lingua** di tua scelta.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Fai clic su **Fine**.
+1. Clic **Fine**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Fai clic su **Approva e chiudi** per applicare e salvare le modifiche.
+1. Clic **Approva e chiudi** per applicare e salvare le modifiche.
 
    >[!NOTE]
    >
@@ -44,8 +45,8 @@ Quando si utilizzano moduli internazionali, è necessario visualizzare le date/o
 
    >[!NOTE]
    >
-   >Ricorda di [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creato dalle modifiche al modulo.
+   >Ricorda a [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) create dalle modifiche apportate al modulo.
 
-   Ecco qua! Le persone possono vedere la data/ora visualizzata nelle impostazioni internazionali corrette.
+   Questo è quanto! Gli utenti possono visualizzare la data/ora nella lingua corretta.
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 7512434
-description: Configurare l’accesso push iOS per app mobile - Documenti Marketo - Documentazione del prodotto
-title: Configurare l’accesso push iOS per app mobile
+description: Configurare l’accesso push iOS per app mobili - Documentazione Marketo - Documentazione del prodotto
+title: Configurare l’accesso push di iOS per app mobili
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# Configurare l’accesso push iOS per app mobile {#configure-mobile-app-ios-push-access}
+# Configurare l’accesso push di iOS per app mobili {#configure-mobile-app-ios-push-access}
 
-1. Fai clic su **Amministratore**.
+1. Clic **Amministratore**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -30,14 +31,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Avrai bisogno di un **Certificato** e **Password** dallo sviluppatore di app mobili. Lo sviluppatore li riceve accedendo al Centro per sviluppatori Apple, configurando e scaricando un certificato di notifica push per la tua app ed esportando il contenuto. Lo sviluppatore imposta la password quando effettua l’esportazione. **IMPORTANTE**: Il certificato deve essere appropriato per il tipo di ambiente utilizzato: Sandbox o Production. Verifica questa situazione con il tuo sviluppatore di app mobili o amministratore di Marketo.
+   >Avrai bisogno di un **Certificato** e **Password** dallo sviluppatore di app mobili. Lo sviluppatore riceve queste notifiche accedendo ad Apple Developer Member Center, configurando e scaricando un certificato di notifica push per l’app ed esportando il contenuto. Lo sviluppatore imposta la password durante l’esportazione. **IMPORTANTE**: il certificato deve essere appropriato per il tipo di ambiente che utilizzi: sandbox o produzione. Verifica questa situazione con il tuo amministratore di Marketo o con lo sviluppatore di app per dispositivi mobili.
 
 1. Seleziona il certificato, immetti la password e fai clic su **Salva**.
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
-Ottimo lavoro! Assicurati anche di configurare l&#39;app con Android.
+Ottimo lavoro! Assicurati anche di configurare l’app con Android.
 
 >[!MORELIKETHIS]
 >
->[Configurare l’accesso push Android per app mobile](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>[Configurare l’accesso push Android per app mobili](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)

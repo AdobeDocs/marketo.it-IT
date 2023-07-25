@@ -1,30 +1,32 @@
 ---
-description: Note sulla versione - Ottobre 2022 - Documentazione Marketo - Documentazione del prodotto
+description: Note sulla versione - Ottobre 2022 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Ottobre 2022
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 2%
 
 ---
 
-# Note sulla versione: Ottobre 2022 {#release-notes-oct-22}
+# Note sulla versione: ottobre 2022 {#release-notes-oct-22}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione del 22 ottobre. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Adobe Marketo Engage .
+Qui sotto trovi tutte le funzioni incluse nella versione di ottobre 2022. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Caratteristiche indicate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Caratteristiche contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **14 ottobre 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **14 ottobre 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 ### Ambiente dati di marketing {#marketing-data-environment}
 
 </br>
 
-* **Sincronizzazione campo personalizzata membro del programma**: Possibilità di sincronizzare bidirezionalmente i campi estensibili acquisiti per un membro del programma (ad esempio, preferenze dei partecipanti durante la registrazione dell&#39;evento come cibo, sessioni, tracce, ecc.) con i campi membri della campagna in Salesforce.
+* **Sincronizzazione campo personalizzato membro programma**: possibilità di sincronizzare in modo bidirezionale i campi estensibili acquisiti per un membro del programma (ad esempio, le preferenze del partecipante durante la registrazione dell’evento come cibo, sessioni, brani ecc.) con Campi membro della campagna in Salesforce.
 
 <table> 
   <tr> 
@@ -33,12 +35,12 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campo personalizzata membro del programma</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campo personalizzato membro programma</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Integrazione di Adobe Privacy Service**: Armonizza con Privacy Service per automatizzare la conformità alle normative sulla privacy dei dati tra i prodotti Experience Cloud. Attualmente, questo servizio è disponibile solo per i clienti di Marketo Engage che hanno effettuato l’accesso al sistema Adobe Identity Management.
+* **Integrazione Adobe Privacy Service**: armonizza con Privacy Service per automatizzare la conformità alle normative sulla privacy dei dati tra i prodotti Experience Cloud. Attualmente, questo servizio è disponibile solo per i clienti del Marketo Engage che hanno effettuato l’onboarding in Adobe Identity Management System.
 
 <table> 
   <tr> 
@@ -56,10 +58,10 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Schermi aggiornati nell’esperienza di nuova generazione**: Nell’esperienza di nuova generazione, offriamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti all’usabilità accessibili tramite interruttore:
+* **Schermi aggiornati nell’esperienza di nuova generazione**: nell’esperienza di nuova generazione, presentiamo schermi aggiuntivi e aggiornati che offrono un design aggiornato e miglioramenti a livello di usabilità accessibili tramite interruttore:
 
-   * Dettagli modello pagina di destinazione
-   * Elenco modelli e-mail
+   * Dettagli del modello della pagina di destinazione
+   * Lista dei Modelli di Email
 
 <table> 
   <tr> 
@@ -68,12 +70,12 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Interruttore</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Attiva/Disattiva</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Miglioramento utilizzato dalla scheda nei dettagli del modello e-mail**: Nella nuova esperienza, vedrai ulteriori informazioni sulle risorse utilizzando il modello e-mail, tra cui Stato risorsa, Ultima modifica e Ultima modifica di. Puoi anche eseguire ricerche, ordinare e filtrare l’elenco delle risorse utilizzate.
+* **Scheda Utilizzo migliorato di nei dettagli del modello e-mail**: nella nuova esperienza, troverai informazioni aggiuntive relative alle risorse che utilizzano il modello e-mail, tra cui Stato risorsa, Ultima modifica e Ultima modifica di. Puoi anche cercare, ordinare e filtrare l’elenco delle risorse utilizzate.
 
 <table> 
   <tr> 
@@ -87,7 +89,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-* **Riporta moduli filtro risorse**: Nuova progettazione per i modelli di configurazione dei rapporti che visualizzano una nuova struttura delle risorse nel menu di configurazione e un filtro per Data di creazione e modifica.
+* **Modali filtro risorse di rapporto**: nuova progettazione per i moduli di configurazione dei rapporti con una nuova struttura di risorse nel menu di configurazione e un filtro per Data di creazione e Modifica.
 
 <table> 
   <tr> 
@@ -105,7 +107,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Importazione in serie di lead: Associazione dei venditori**: Parità con l’API REST lead per poter associare i lead ai venditori durante il processo di importazione in serie per lead, riducendo la complessità e il numero di chiamate API richieste.
+* **Importazione lead in blocco: associazione rappresentante commerciale**: parità con l’API REST del lead per poter associare i lead ai venditori durante il processo di importazione dei lead in blocco, riducendo la complessità e il numero di chiamate API richieste.
 
 <table> 
   <tr> 
@@ -114,18 +116,18 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Importazione in blocco di lead</a></td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Importazione lead in blocco</a></td>
   </tr>
   </tbody>
 </table>
 
-### Approfondimenti vendite {#sales-insight}
+### Insight sulle vendite {#sales-insight}
 
 </br>
 
 ![(stella)](assets/yellow-star.png)
 
-* **Integrazione di Sales Insight con la chat dinamica**: Dashboard di Insights ora include attività di chat dinamiche nella griglia avanzata insieme a schede di riepilogo e dettagli settimanali.
+* **Integrazione di Sales Insight con Dynamic Chat**: il dashboard Approfondimenti ora include attività di Dynamic Chat nella griglia intelligente, oltre a un riepilogo settimanale e schede di dettaglio.
 
 <table> 
   <tr> 
@@ -134,16 +136,16 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integrazione Chat dinamica</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integrazione Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>
 
-## Funzioni di rilascio di Agile
+## Funzioni di rilascio Agile
 
-Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse date prima o dopo la data di rilascio standard. Per informazioni sullo stato di ciascuna caratteristica, controlla di seguito.
+Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date prima o dopo la data di rilascio standard. Di seguito è riportato lo stato di ciascuna funzionalità.
 
-* **Flusso di dialogo di disposizione automatica per chat dinamica**: Migliora la tua area di dialogo affollata organizzando tutto sulla tela in un formato pulito e facile da leggere con la pressione di un pulsante attraverso Auto Arrange.
+* **Flussi finestra di dialogo Disponi automaticamente per Dynamic Chat**: migliora l’area di lavoro affollata di Dialog organizzando tutto ciò che si trova sull’area di lavoro in un formato pulito e di facile lettura con la pressione di un pulsante tramite Disponi automaticamente.
 
 <table> 
   <tr> 
@@ -157,7 +159,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
   </tbody>
 </table>
 
-* **Collegamenti riunione per chat dinamiche**: Opzione per includere automaticamente un collegamento Team o Meeting per Google e Outlook in ogni invito del calendario inviato ai visitatori.
+* **Collegamenti riunione per Dynamic Chat**: opzione per includere automaticamente un collegamento Team o Meeting per Google e Outlook in ogni invito al calendario inviato ai visitatori.
 
 <table> 
   <tr> 
@@ -171,7 +173,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
   </tbody>
 </table>
 
-* **Supporta tipi di dati aggiuntivi per la chat dinamica**: Tre nuovi tipi di dati (booleano, intero, mobile) ti consentono di sfruttare più campi di Marketo Engage esistenti nella chat dinamica per elementi come il targeting basato su punteggi o fare ai visitatori domande sì/no.
+* **Supporta tipi di dati aggiuntivi per il Dynamic Chat**: tre nuovi tipi di dati (booleano, intero, float) ti consentono di sfruttare più campi di Marketo Engage esistenti nel Dynamic Chat per elementi come il targeting basato su punteggi o la richiesta ai visitatori di domande sì/no.
 
 <table> 
   <tr> 
@@ -187,6 +189,6 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in diverse da
 
 ## Annunci {#announcements}
 
-* **Forms 1.0**: La versione 1.0 di Forms diventerà obsoleta con la versione di ottobre. Le risorse Forms 1.0 non saranno più in grado di inviare dati al Marketo Engage e restituiranno errori se tentati.
+* **Forms 1.0**: la versione obsoleta di Forms 1.0 verrà completata con la versione di ottobre. Le risorse di Forms 1.0 non saranno più in grado di inviare dati al Marketo Engage e, se tentate, restituiranno errori.
 
-* **Forms senza script**: Forms non funzionerà più quando JavaScript è disabilitato nel browser. Per l’invio del modulo è necessario abilitare Javascript.
+* **Forms senza script**: Forms non funzionerà più se JavaScript è disabilitato nel browser. Per l’invio di un modulo è necessario abilitare JavaScript.

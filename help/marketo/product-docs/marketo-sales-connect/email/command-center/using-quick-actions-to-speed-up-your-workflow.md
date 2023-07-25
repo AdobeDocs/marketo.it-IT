@@ -1,9 +1,10 @@
 ---
 unique-page-id: 37357306
-description: Utilizzo di azioni rapide per velocizzare il flusso di lavoro - Documenti Marketo - Documentazione del prodotto
+description: Utilizzo di azioni rapide per velocizzare il flusso di lavoro - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo di azioni rapide per velocizzare il flusso di lavoro
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 3%
@@ -12,18 +13,18 @@ ht-degree: 3%
 
 # Utilizzo di azioni rapide per velocizzare il flusso di lavoro {#using-quick-actions-to-speed-up-your-workflow}
 
-Esistono due tipi di colonne di azioni rapide nella griglia e-mail. Azioni e-mail, che ti consente di intervenire sull’e-mail e azioni di follow-up, che ti consentono di intraprendere azioni di coinvolgimento con alcuni clic rapidi.
+Nella griglia dell’e-mail esistono due tipi di colonne di azione rapida. Azioni e-mail, che consente di intervenire sull’e-mail e Azioni di follow-up, che consente di intraprendere azioni di coinvolgimento con pochi clic rapidi.
 
 ## Azioni e-mail {#email-actions}
 
-Le azioni rapide e-mail sono dinamiche e si aggiornano in base alle azioni più rilevanti per lo stato dell’e-mail che stai esaminando. Per ogni stato e-mail sono visibili al massimo due azioni rapide e-mail. Puoi vedere quali azioni rapide e-mail saranno disponibili per ogni stato di seguito.
+Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle azioni più rilevanti per lo stato dell’e-mail che stai esaminando. Per ogni stato dell’e-mail sono visibili al massimo due azioni rapide e-mail. Puoi vedere quali azioni rapide e-mail saranno disponibili per ciascuno stato di seguito.
 
 **Consegnato**
 
 | Stato | Descrizione |
 |---|---|
-| Archivia | Aggiungerà l&#39;e-mail alla cartella archiviata e interromperà tutte le visualizzazioni disabilitate e il tracciamento dei clic per quell&#39;e-mail. |
-| Operazione riuscita | Contrassegna l’e-mail come corretta da segnalare in analisi dei modelli. |
+| Archivia | Aggiunge l’e-mail alla cartella archiviata e interrompe tutte le attività di visualizzazione disabilitata e il tracciamento dei clic per tale e-mail. |
+| Completato | Contrassegna l’e-mail come completata da segnalare nell’analisi dei modelli. |
 
 **Archiviato**
 
@@ -35,7 +36,7 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano in base alle azioni più 
  <tbody> 
   <tr> 
    <td>Annulla archiviazione</td> 
-   <td>Sposta l’e-mail nella cartella consegnata e riattiva il tracciamento di visualizzazione/clic.</td> 
+   <td>L’e-mail verrà spostata nuovamente nella cartella di destinazione e verrà riattivato il tracciamento di visualizzazioni/clic.</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -44,7 +45,7 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano in base alle azioni più 
  </tbody> 
 </table>
 
-**Bozza e pianificazione**
+**Bozza e pianificata**
 
 <table> 
  <colgroup> 
@@ -63,7 +64,7 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano in base alle azioni più 
  </tbody> 
 </table>
 
-**Non riuscito, rimbalzato e spam**
+**Non riuscito, non recapitato e spam**
 
 <table> 
  <colgroup> 
@@ -73,7 +74,7 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano in base alle azioni più 
  <tbody> 
   <tr> 
    <td>Riprova invio</td> 
-   <td>Tenterà immediatamente di inviare nuovamente l’e-mail.</td> 
+   <td>Tenterà immediatamente di inviare di nuovo l’e-mail.</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -82,13 +83,13 @@ Le azioni rapide e-mail sono dinamiche e si aggiornano in base alle azioni più 
  </tbody> 
 </table>
 
-**Azioni di follow-up**
+**Azioni di seguito**
 
 ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
 | Funzione | Descrizione |
 |---|---|
-| Invia e-mail di follow-up | Apre la finestra di composizione con il corpo dell’e-mail in linea selezionato aggiunto e pronto per essere inviato al destinatario. |
-| Fai una chiamata | Apre il telefono di vendita per effettuare una chiamata al destinatario e-mail. |
-| Invia inMail | Reindirizza a LinkedIn per inviare alla persona un messaggio InMail. |
+| Invia e-mail di completamento | Apre la finestra di composizione con il corpo dell’e-mail in linea selezionato aggiunto e pronto per essere inviato al destinatario. |
+| Effettua chiamata | Apre il telefono di vendita per effettuare una chiamata al destinatario e-mail. |
+| Invia inMail | Reindirizza a LinkedIn per inviare all&#39;utente un messaggio InMail. |
 | Crea attività | Apre la finestra a comparsa Crea attività per creare un&#39;attività promemoria. |

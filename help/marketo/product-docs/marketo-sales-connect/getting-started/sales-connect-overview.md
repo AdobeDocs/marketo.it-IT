@@ -1,9 +1,10 @@
 ---
 unique-page-id: 13796464
-description: Panoramica di Sales Connect - Documenti Marketo - Documentazione del prodotto
+description: Panoramica di Sales Connect - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica di Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -12,15 +13,15 @@ ht-degree: 0%
 
 # Panoramica di Sales Connect {#sales-connect-overview}
 
-Marketo Sales Connect è una soluzione di supporto per le vendite multi-sfaccettature con una varietà di funzioni, che vi aiuta a stimolare il coinvolgimento durante tutto il ciclo di vendita.
+Marketo Sales Connect è una soluzione di supporto alle vendite con svariate funzioni che consente di coinvolgere il cliente durante l&#39;intero ciclo di vendita.
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 ## Feed live {#the-live-feed}
 
-I rappresentanti possono visualizzare [coinvolgimento in tempo reale](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) di contenuti di marketing e di vendita.
+Gli agenti di vendita possono visualizzare [coinvolgimento in tempo reale](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) di contenuti sia di marketing che di vendita.
 
 ![](assets/engagement.jpg)
 
@@ -30,9 +31,9 @@ Accesso [statistiche dettagliate sulle persone](/help/marketo/product-docs/marke
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Consulta Risultati nel registro delle attività di Marketo {#see-results-in-your-marketo-activity-log}
+## Visualizza risultati nel registro attività di Marketo {#see-results-in-your-marketo-activity-log}
 
-Scopri come le tue prospettive sono coinvolte nelle tue attività di vendita.
+Scopri in che modo i tuoi clienti potenziali sono coinvolti nelle tue attività di vendita.
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
@@ -43,28 +44,28 @@ Scopri come le tue prospettive sono coinvolte nelle tue attività di vendita.
    <th>Descrizione</th> 
   </tr> 
   <tr> 
-   <td><p>Invia e-mail di vendita</p></td> 
+   <td><p>Invia e-mail vendite</p></td> 
    <td><p>L'utente ha inviato un'e-mail di vendita da Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Apri e-mail di vendita</p></td> 
-   <td><p>Il lead ha aperto un messaggio e-mail di vendita inviato da Sales Connect.</p></td> 
+   <td><p>Apri e-mail vendite</p></td> 
+   <td><p>Il lead ha aperto un'e-mail di vendita inviata da Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Fai clic su E-mail di vendita</p></td> 
-   <td><p>Il lead ha fatto clic su un collegamento presente in un messaggio e-mail di vendita inviato da Sales Connect.</p></td> 
+   <td><p>Fai clic su E-mail vendita</p></td> 
+   <td><p>Lead ha fatto clic su un collegamento in un messaggio e-mail di vendita inviato da Sales Connect.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Ricevi e-mail di vendita</p></td> 
+   <td colspan="1"><p>Ricevi e-mail vendite</p></td> 
    <td colspan="1"><p>Il lead ha ricevuto un'e-mail inviata da Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ricevi chiamata di vendita</p></td> 
-   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore che utilizza <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefono vendita</a>.</p></td> 
+   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore utilizzando <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefono di vendita</a>.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Aggiungi alla campagna di vendita</p></td> 
-   <td colspan="1"><p>Il lead è stato aggiunto a una campagna di vendita creata in Sales Connect (nella pagina Campagne ).</p></td> 
+   <td colspan="1"><p>Aggiungi a campagna di vendita</p></td> 
+   <td colspan="1"><p>Il lead è stato aggiunto a una campagna di vendita creata in Connessione vendite (nella pagina Campagne ).</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Rimosso Dalla Campagna Di Vendita</p></td> 
@@ -79,11 +80,11 @@ Scopri come le tue prospettive sono coinvolte nelle tue attività di vendita.
 
 ## Condivisione di campagne di marketing {#share-marketing-campaigns}
 
-Crea una semplice campagna intelligente per consentire agli utenti di vendita di accedere a [Dati della campagna Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Crea una semplice campagna intelligente per dare accesso agli utenti delle vendite a [Dati campagna Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
-Pronti per iniziare? Per le istruzioni di configurazione, fai clic sul link qui sotto.
+Pronti per iniziare? Per le istruzioni di configurazione, fai clic sul collegamento seguente.
 
 >[!MORELIKETHIS]
 >

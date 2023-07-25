@@ -1,17 +1,18 @@
 ---
-description: Mappatura predefinita dei campi di Dynamics - Documenti Marketo - Documentazione del prodotto
-title: Mappatura predefinita dei campi di Dynamics
+description: Mappatura campo Dynamics predefinita - Documenti Marketo - Documentazione del prodotto
+title: Mappatura campo Dynamics predefinita
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
-source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 17%
+ht-degree: 18%
 
 ---
 
-# Mappatura predefinita dei campi di Dynamics {#default-dynamics-field-mapping}
+# Mappatura campo Dynamics predefinita {#default-dynamics-field-mapping}
 
-Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo crea automaticamente queste associazioni tra i campi incorporati di Dynamics e Marketo.  Marketo sincronizzerà anche i campi personalizzati sui lead, account, opportunità e contatti.
+Quando sincronizzi inizialmente l’account Marketo con Microsoft, Marketo crea automaticamente queste associazioni tra i campi Dynamics e Marketo incorporati.  Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
 
 ## Campi lead {#lead-fields}
 
@@ -25,12 +26,12 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     <tr>
       <th>Campo Marketo</th>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Data creazione Microsoft</td>
-      <td>Creato in data</td>
-      <td>createdon</td>
+      <td>Data di creazione Microsoft</td>
+      <td>Creato il</td>
+      <td>creato il</td>
     </tr>
     <tr>
       <td>Formula di saluto</td>
@@ -43,9 +44,9 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
       <td>nome</td>
     </tr>
     <tr>
-      <td>Medio</td>
+      <td>In mezzo</td>
       <td>Secondo nome</td>
-      <td>nomeintermedio</td>
+      <td>middlename</td>
     </tr>
     <tr>
       <td>Ultimo</td>
@@ -64,13 +65,13 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     </tr>
     <tr>
       <td>Telefono</td>
-      <td>Telefono ufficio</td>
+      <td>Telefono (uff.)</td>
       <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobile</td>
       <td>Telefono cellulare</td>
-      <td>cellulare</td>
+      <td>telefono cellulare</td>
     </tr>
     <tr>
       <td>Fax</td>
@@ -79,7 +80,7 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     </tr>
     <tr>
       <td>Indirizzo</td>
-      <td>Via 1</td>
+      <td>Strada 1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
@@ -89,28 +90,28 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     </tr>
     <tr>
       <td>Stato</td>
-      <td>Provincia</td>
+      <td>Stato/Provincia</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
       <td>Paese</td>
-      <td>Paese/Regione</td>
+      <td>Paese</td>
       <td>address1_country</td>
     </tr>
     <tr>
       <td>Codice postale</td>
-      <td>Codice postale</td>
+      <td>CAP</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
       <td>Origine persona</td>
-      <td>Fonte Lead</td>
-      <td>leadsourcecode</td>
+      <td>Fonte lead</td>
+      <td>lead sourcecode</td>
     </tr>
     <tr>
-      <td>Stato persona</td>
+      <td>Stato della persona</td>
       <td>Stato</td>
-      <td>codice di stato</td>
+      <td>statecode</td>
     </tr>
     <tr>
       <td>Motivo dello stato</td>
@@ -118,14 +119,14 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>Note sulla persona</td>
+      <td>Note della persona</td>
       <td>Descrizione</td>
       <td>descrizione</td>
     </tr>
     <tr>
       <td>Non effettuare la chiamata</td>
-      <td>Non consentire chiamate telefoniche</td>
-      <td>telefonino</td>
+      <td>Non consentire telefonate</td>
+      <td>donotphone</td>
     </tr>
     <tr>
       <td>Annulla l'iscrizione</td>
@@ -133,74 +134,74 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Valutazione persona</td>
+      <td>Valutazione della persona</td>
       <td>Valutazione</td>
-      <td>leadqualitycode</td>
+      <td>lead qualitycode</td>
     </tr>
     <tr>
       <td>Indirizzo Microsoft 2</td>
-      <td>Via 2</td>
+      <td>Strada 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Indirizzo Microsoft 3</td>
-      <td>Via 3</td>
+      <td>Strada 3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft non invia e-mail</td>
-      <td>Non consentire e-mail</td>
-      <td>donotemale</td>
+      <td>Microsoft Do Not Email</td>
+      <td>Non Consentire Le E-Mail</td>
+      <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft Non Fax</td>
-      <td>Non Consentire I Fax</td>
+      <td>Microsoft Do Not Fax</td>
+      <td>Non consentire fax</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Microsoft Non Invia Materiale Di Marketing</td>
+      <td>Microsoft - Non inviare materiale di marketing</td>
       <td>Materiale di marketing</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Telefono abitazione Microsoft</td>
+      <td>Telefono Microsoft (ab.)</td>
       <td>Telefono abitazione</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>Metodo Di Contatto Preferito Di Microsoft</td>
+      <td>Metodo Di Contatto Preferito Da Microsoft</td>
       <td>Metodo di contatto preferito</td>
-      <td>preferredcontactmetodcode</td>
+      <td>preferredcontactmethod code</td>
     </tr>
     <tr>
       <td>Argomento Microsoft</td>
       <td>Argomento</td>
-      <td>soggetto</td>
+      <td>oggetto</td>
     </tr>
     <tr>
-      <td>Data ultimo momento interessante</td>
-      <td>Data ultimo momento interessante</td>
-      <td>mkt_lastinteressante_momentingdate</td>
+      <td>Data ultimo momento di interesse</td>
+      <td>Data ultimo momento di interesse</td>
+      <td>mkt_lastengmomentdate</td>
     </tr>
     <tr>
-      <td>Ultimo interessante desc momento</td>
-      <td>Ultimo interessante desc momento</td>
-      <td>mkt_lastinteressante ingmomentdesc</td>
+      <td>Ultimo momento di interesse desc</td>
+      <td>Ultimo momento di interesse desc</td>
+      <td>mkt_lastinteressanti momentdesc</td>
     </tr>
     <tr>
-      <td>Ultima fonte di momento interessante</td>
-      <td>Ultima fonte di momento interessante</td>
-      <td>mkt_leadinteressante momentingsource</td>
+      <td>Sorgente ultimo momento di interesse</td>
+      <td>Sorgente ultimo momento di interesse</td>
+      <td>mkt_leadingInteressomomentsource</td>
     </tr>
     <tr>
-      <td>Ultimo tipo di momento interessante</td>
-      <td>Ultimo tipo di momento interessante</td>
-      <td>mkt_lastinteressantemomenttype</td>
+      <td>Ultimo tipo di momento di interesse</td>
+      <td>Ultimo tipo di momento di interesse</td>
+      <td>mkt_lastinteressante momenttype</td>
     </tr>
     <tr>
       <td>Azienda</td>
       <td>Nome azienda</td>
-      <td>nome azienda</td>
+      <td>nome società</td>
     </tr>
     <tr>
       <td>Punteggio relativo</td>
@@ -215,17 +216,17 @@ Quando si sincronizza inizialmente l’account Marketo con Microsoft, Marketo cr
     <tr>
       <td>Urgenza relativa</td>
       <td>urgenza</td>
-      <td>mkt_urgy</td>
+      <td>mkt_priority</td>
     </tr>
     <tr>
       <td>Oggetto</td>
       <td>Argomento</td>
-      <td>soggetto</td>
+      <td>oggetto</td>
     </tr>
     <tr>
       <td>Entrata annuale</td>
       <td>Entrata annuale</td>
-      <td>entrate</td>
+      <td>ricavi</td>
     </tr>
   </tbody>
 </table>
@@ -240,15 +241,15 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
   <tbody>
     <tr>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
       <td>Proprietario </td>
-      <td>proprietario</td>
+      <td>ownerid</td>
     </tr>
     <tr>
       <td>creato il</td>
-      <td>createdon</td>
+      <td>creato il</td>
     </tr>
   </tbody>
 </table>
@@ -265,12 +266,12 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <th>Campo Marketo</th>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Data creazione Microsoft</td>
-      <td>Creato in data</td>
-      <td>createdon</td>
+      <td>Data di creazione Microsoft</td>
+      <td>Creato il</td>
+      <td>creato il</td>
     </tr>
     <tr>
       <td>Formula di saluto</td>
@@ -283,9 +284,9 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
       <td>nome</td>
     </tr>
     <tr>
-      <td>Medio</td>
+      <td>In mezzo</td>
       <td>Secondo nome</td>
-      <td>nomeintermedio</td>
+      <td>middlename</td>
     </tr>
     <tr>
       <td>Ultimo</td>
@@ -304,43 +305,43 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>Telefono</td>
-      <td>Telefono ufficio</td>
+      <td>Telefono (uff.)</td>
       <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobile</td>
       <td>Telefono cellulare</td>
-      <td>cellulare</td>
+      <td>telefono cellulare</td>
     </tr>
     <tr>
       <td>Indirizzo</td>
-      <td>Indirizzo 1: Via 1</td>
+      <td>Indirizzo 1: via 1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>Città</td>
-      <td>Indirizzo 1: Città</td>
+      <td>Indirizzo 1: città</td>
       <td>address1_city</td>
     </tr>
     <tr>
       <td>Stato</td>
-      <td>Indirizzo 1: Provincia</td>
+      <td>Indirizzo 1: Stato/Provincia</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
       <td>Paese</td>
-      <td>Indirizzo 1: Paese/Regione</td>
+      <td>Indirizzo 1: Paese</td>
       <td>address1_country</td>
     </tr>
     <tr>
       <td>Codice postale</td>
-      <td>Indirizzo 1: Codice postale</td>
+      <td>Indirizzo 1: CAP</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Stato persona</td>
+      <td>Stato della persona</td>
       <td>Stato</td>
-      <td>codice di stato</td>
+      <td>statecode</td>
     </tr>
     <tr>
       <td>Motivo dello stato</td>
@@ -349,8 +350,8 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>Non effettuare la chiamata</td>
-      <td>Non consentire chiamate telefoniche</td>
-      <td>telefonino</td>
+      <td>Non consentire telefonate</td>
+      <td>donotphone</td>
     </tr>
     <tr>
       <td>Annulla l'iscrizione</td>
@@ -359,57 +360,57 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>Indirizzo Microsoft 2</td>
-      <td>Indirizzo 1: Via 2</td>
+      <td>Indirizzo 1: via 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Indirizzo Microsoft 3</td>
-      <td>Indirizzo 1: Via 3</td>
+      <td>Indirizzo 1: via 3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft non invia e-mail</td>
-      <td>Non consentire e-mail</td>
-      <td>donotemale</td>
+      <td>Microsoft Do Not Email</td>
+      <td>Non Consentire Le E-Mail</td>
+      <td>donotemail</td>
     </tr>
     <tr>
-      <td>Telefono abitazione Microsoft</td>
+      <td>Telefono Microsoft (ab.)</td>
       <td>Telefono abitazione</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>Metodo Di Contatto Preferito Di Microsoft</td>
+      <td>Metodo Di Contatto Preferito Da Microsoft</td>
       <td>Metodo Di Contatto Preferito</td>
-      <td>preferredcontactmetodcode</td>
+      <td>preferredcontactmethod code</td>
     </tr>
     <tr>
-      <td>Data ultimo momento interessante</td>
-      <td>Data ultimo momento interessante</td>
-      <td>mkt_lastinteressante_momentingdate</td>
+      <td>Data ultimo momento di interesse</td>
+      <td>Data ultimo momento di interesse</td>
+      <td>mkt_lastengmomentdate</td>
     </tr>
     <tr>
-      <td>Ultimo tipo di momento interessante</td>
-      <td>Ultimo tipo di momento interessante</td>
-      <td>mkt_lastinteressantemomenttype</td>
+      <td>Ultimo tipo di momento di interesse</td>
+      <td>Ultimo tipo di momento di interesse</td>
+      <td>mkt_lastinteressante momenttype</td>
     </tr>
     <tr>
-      <td>Ultima fonte di momento interessante</td>
-      <td>Ultima fonte di momento interessante</td>
-      <td>mkt_leadinteressante momentingsource</td>
+      <td>Sorgente ultimo momento di interesse</td>
+      <td>Sorgente ultimo momento di interesse</td>
+      <td>mkt_leadingInteressomomentsource</td>
     </tr>
     <tr>
-      <td>Ultimo interessante desc momento</td>
-      <td>Ultimo interessante desc momento</td>
-      <td>mkt_lastinteressante ingmomentdesc</td>
+      <td>Ultimo momento di interesse desc</td>
+      <td>Ultimo momento di interesse desc</td>
+      <td>mkt_lastinteressanti momentdesc</td>
     </tr>
     <tr>
-      <td>Microsoft Non Invia Materiale Di Marketing</td>
+      <td>Microsoft - Non inviare materiale di marketing</td>
       <td>Materiale di marketing</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft Non Fax</td>
-      <td>Microsoft Non Fax</td>
+      <td>Microsoft Do Not Fax</td>
+      <td>Microsoft Do Not Fax</td>
       <td>donotfax</td>
     </tr>
     <tr>
@@ -420,7 +421,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Urgenza relativa</td>
       <td>urgenza</td>
-      <td>mkt_urgy</td>
+      <td>mkt_priority</td>
     </tr>
     <tr>
       <td>Punteggio relativo</td>
@@ -428,17 +429,17 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>Note sulla persona</td>
+      <td>Note della persona</td>
       <td>Descrizione</td>
       <td>descrizione </td>
     </tr>
     <tr>
-      <td>Punteggio persona</td>
-      <td>Punteggio Lead</td>
-      <td>mkt_leadscore</td>
+      <td>Punteggio della persona</td>
+      <td>Punteggio lead</td>
+      <td>mkt_leadingScore</td>
     </tr>
     <tr>
-      <td>Note sulla persona</td>
+      <td>Note della persona</td>
       <td>Descrizione</td>
       <td>descrizione </td>
     </tr>
@@ -455,18 +456,18 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
   <tbody>
     <tr>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
       <td>Proprietario </td>
-      <td>proprietario</td>
+      <td>ownerid</td>
     </tr>
     <tr>
       <td>creato il</td>
-      <td>createdon</td>
+      <td>creato il</td>
     </tr>
     <tr>
-      <td>gencustomerid</td>
+      <td>parentcustomerid</td>
       <td>Nome azienda</td>
     </tr>
   </tbody>
@@ -484,41 +485,41 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <th>Campo Marketo</th>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
       <td>Conto (a)</td>
       <td>Account</td>
-      <td>contabile</td>
+      <td>accounttid</td>
     </tr>
     <tr>
       <td>Indirizzo di fatturazione</td>
-      <td>Indirizzo 1: Via 1</td>
+      <td>Indirizzo 1: via 1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>Città di fatturazione</td>
-      <td>Indirizzo 1: Città</td>
+      <td>Indirizzo 1: città</td>
       <td>address1_city</td>
     </tr>
     <tr>
       <td>Paese di fatturazione</td>
-      <td>Indirizzo 1: Paese/Regione</td>
+      <td>Indirizzo 1: Paese</td>
       <td>address1_country</td>
     </tr>
     <tr>
       <td>Codice postale di fatturazione</td>
-      <td>Indirizzo 1: Codice postale</td>
+      <td>Indirizzo 1: CAP</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
       <td>Indirizzo di fatturazione Microsoft 2</td>
-      <td>Indirizzo 1: Via 2</td>
+      <td>Indirizzo 1: via 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Indirizzo di fatturazione Microsoft 3</td>
-      <td>Indirizzo 1: Via 3</td>
+      <td>Indirizzo 1: via 3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -527,27 +528,27 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
       <td>telephone1</td>
     </tr>
     <tr>
-      <td>Tipo di business</td>
-      <td>Tipo di business</td>
-      <td>codice di fabbrica</td>
+      <td>Tipo di azienda</td>
+      <td>Tipo di azienda</td>
+      <td>businesstypecode</td>
     </tr>
     <tr>
       <td>Numero account Microsoft</td>
-      <td>Numero di conto</td>
-      <td>numero contabile</td>
+      <td>Numero account</td>
+      <td>numero account</td>
     </tr>
     <tr>
-      <td>Stato dell'azienda Microsoft</td>
+      <td>Stato società Microsoft</td>
       <td>Stato</td>
-      <td>codice di stato</td>
+      <td>statecode</td>
     </tr>
     <tr>
       <td>Entrata annuale</td>
       <td>Entrata annuale</td>
-      <td>entrate</td>
+      <td>ricavi</td>
     </tr>
     <tr>
-      <td>Note aziendali</td>
+      <td>Note società</td>
       <td>Descrizione</td>
       <td>descrizione</td>
     </tr>
@@ -569,7 +570,7 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Numero dipendenti</td>
       <td>Numero di dipendenti</td>
-      <td>numberofdipendenti</td>
+      <td>numero di dipendenti</td>
     </tr>
     <tr>
       <td>Codice SIC (Standard Industrial Classification)</td>
@@ -584,12 +585,12 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Numero dipendenti</td>
       <td>Numero di dipendenti</td>
-      <td>numberofdipendenti</td>
+      <td>numero di dipendenti</td>
     </tr>
   </tbody>
 </table>
 
-I campi Account di seguito sono sincronizzati per uso interno.
+I campi Account riportati di seguito sono sincronizzati per uso interno.
 
 <table>
   <colgroup>
@@ -599,15 +600,15 @@ I campi Account di seguito sono sincronizzati per uso interno.
   <tbody>
     <tr>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
       <td>Proprietario </td>
-      <td>proprietario</td>
+      <td>ownerid</td>
     </tr>
     <tr>
       <td>creato il</td>
-      <td>createdon</td>
+      <td>creato il</td>
     </tr>
   </tbody>
 </table>
@@ -624,22 +625,22 @@ I campi Account di seguito sono sincronizzati per uso interno.
     <tr>
       <th>Campo Marketo</th>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
       <td>Probabilità di chiusura</td>
       <td>Probabilità</td>
-      <td>probabilità di chiusura</td>
+      <td>closeprobability</td>
     </tr>
     <tr>
       <td>Fase</td>
       <td>stato</td>
-      <td>codice di stato</td>
+      <td>statecode</td>
     </tr>
     <tr>
       <td>Data di chiusura effettiva</td>
       <td>Data di chiusura effettiva</td>
-      <td>attualclosedato</td>
+      <td>actualclosedate</td>
     </tr>
     <tr>
       <td>Nome</td>
@@ -648,8 +649,8 @@ I campi Account di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>Valore stimato</td>
-      <td>Est Entrate</td>
-      <td>evaluateValue</td>
+      <td>Stim. Ricavi</td>
+      <td>estimatedValue</td>
     </tr>
     <tr>
       <td>Descrizione</td>
@@ -659,7 +660,7 @@ I campi Account di seguito sono sincronizzati per uso interno.
   </tbody>
 </table>
 
-I campi Account di seguito sono sincronizzati per uso interno.
+I campi Account riportati di seguito sono sincronizzati per uso interno.
 
 <table>
   <colgroup>
@@ -669,15 +670,15 @@ I campi Account di seguito sono sincronizzati per uso interno.
   <tbody>
     <tr>
       <th>Campo MS Dynamics</th>
-      <th>Nome API di MS Dynamics</th>
+      <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
       <td>Proprietario </td>
-      <td>proprietario</td>
+      <td>ownerid</td>
     </tr>
     <tr>
       <td>Opportunità</td>
-      <td>opportunitàId</td>
+      <td>optionId</td>
     </tr>
     <tr>
       <td>Cliente potenziale</td>
@@ -705,12 +706,12 @@ I campi seguenti vengono creati in Marketo ma non possono essere regolati dagli 
       <td>Lead o contatto. Se vuoto, il lead esiste solo come persona in Marketo</td>
     </tr>
     <tr>
-      <td>Data creazione Microsoft</td>
-      <td>Data di creazione in MS Dynamics (può essere diversa da quella creata in Marketo)</td>
+      <td>Data di creazione Microsoft</td>
+      <td>Data di creazione in MS Dynamics (può essere diversa da Creato in Marketo)</td>
     </tr>
     <tr>
-      <td>Microsoft viene eliminato</td>
-      <td>Una persona era in Microsoft ma è stata eliminata e ora vive solo in Marketo</td>
+      <td>Microsoft eliminato</td>
+      <td>La persona era in Microsoft ma è stata eliminata e ora risiede solo in Marketo</td>
     </tr>
   </tbody>
 </table>

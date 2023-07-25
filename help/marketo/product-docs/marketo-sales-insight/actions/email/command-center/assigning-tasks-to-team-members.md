@@ -1,27 +1,28 @@
 ---
-description: Assegnazione delle attività ai membri del team - Documenti Marketo - Documentazione del prodotto
-title: Assegnazione delle attività ai membri del team
+description: Assegnazione di attività ai membri del team - Documentazione di Marketo - Documentazione del prodotto
+title: Assegnazione di attività ai membri del team
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Assegnazione delle attività ai membri del team {#assigning-tasks-to-team-members}
+# Assegnazione di attività ai membri del team {#assigning-tasks-to-team-members}
 
-Se desideri collaborare con altri membri del team, l’assegnazione delle attività può essere un ottimo modo per coordinare le attività di ricerca.
+Se desideri collaborare con altri membri del team, l’assegnazione di attività può essere un ottimo modo per coordinare le attività di ricerca di potenziali clienti.
 
 >[!NOTE]
 >
->È possibile assegnare solo le attività per i contatti condivisi.
+>È possibile assegnare solo attività per i contatti condivisi.
 
-1. Nell&#39;applicazione Web, fai clic su **Centro comandi**.
+1. Nell’applicazione web, fai clic su **Centro comandi**.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Fai clic su **Aggiungi attività**.
+1. Clic **Aggiungi attività**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -29,11 +30,11 @@ Se desideri collaborare con altri membri del team, l’assegnazione delle attivi
 
    ![](assets/assigning-tasks-to-team-members-3.png)
 
-1. Assegna un nome al tuo compito.
+1. Assegna un nome all&#39;attività.
 
    ![](assets/assigning-tasks-to-team-members-4.png)
 
-1. Selezionare la persona del team a cui si desidera assegnare l&#39;attività nel campo Assegna attività.
+1. Nel campo Assegna attività selezionare la persona del team a cui si desidera assegnare l&#39;attività.
 
    ![](assets/assigning-tasks-to-team-members-5.png)
 
@@ -49,6 +50,6 @@ Se desideri collaborare con altri membri del team, l’assegnazione delle attivi
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Aggiungi tutti i dettagli importanti rilevanti per il tuo team (facoltativo) e fai clic su **Crea**.
+1. Aggiungi tutti i dettagli importanti che sono rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **Crea**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

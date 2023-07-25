@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352414
-description: Informazioni sulla scheda Team - Marketo Docs - Documentazione del prodotto
+description: Informazioni sulla scheda Team - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulla scheda Team
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Informazioni sulla scheda Team {#understanding-the-team-tab}
 
-Nella scheda Team vengono evidenziate tre metriche importanti.
+Nella scheda Team sono evidenziate tre metriche importanti.
 
-## E-mail inviate con modello {#emails-sent-with-template}
+## E-mail inviate con il modello {#emails-sent-with-template}
 
-Tra le e-mail inviate, quante utilizzavano un modello.
+Delle e-mail inviate, quante utilizzavano un modello.
 
-## Tempo massimo di coinvolgimento {#peak-time-of-engagement}
+## Tempo di picco del coinvolgimento {#peak-time-of-engagement}
 
-Attraverso l&#39;intera bacheca si gonfia il picco di coinvolgimento che indica a che ora del giorno il tuo team sta ottenendo il maggior numero di attività (visualizzazioni, clic, risposte). Il team può pianificare e-mail o pianificare l’invio di e-mail in modo strategico in questo momento.
+In tutto il mondo viene riportato il picco di tempo di coinvolgimento che indica a che ora del giorno il team riceve più attività (visualizzazioni, clic, risposte). Il tuo team può pianificare le e-mail o pianificare l’invio di e-mail in modo strategico in questo periodo di tempo.
 
 ## Offerte chiuse {#deals-closed}
 
-Questo è basato sul gong di vendita e quante offerte sono state chiuse entro il mese in corso.
+Questo dato si basa sull&#39;andamento delle vendite e sul numero di transazioni chiuse nel mese in corso.
 
-Come bonus, il tasso di coinvolgimento del tuo team è totale. In questa scheda è inoltre possibile visualizzare la classifica Rep. Qui vengono visualizzati gli stati e-mail per ogni persona del team.
+Come bonus, calcoliamo il tasso di coinvolgimento del tuo team. In questa scheda puoi anche vedere la classifica Rep. Le statistiche delle e-mail per ogni persona nel team sono visualizzate qui.

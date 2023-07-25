@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14746690
-description: Tipi di passaggi della campagna - Documenti Marketo - Documentazione del prodotto
+description: Tipi di passaggi della campagna - Documentazione di Marketo - Documentazione del prodotto
 title: Tipi di passaggi della campagna
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Tipi di passaggi della campagna {#campaign-step-types}
 
-Quando aggiungi un passaggio alla campagna, avrai a disposizione quattro opzioni.
+Quando aggiungi un passaggio alla campagna, hai quattro opzioni.
 
 ![](assets/one-4.png)
 
@@ -22,30 +23,30 @@ Componi una nuova e-mail o utilizza un modello preesistente.
 
 ![](assets/email.png)
 
-| **Utilizzare un modello** | Seleziona uno dei modelli esistenti |
+| **Usa un modello** | Seleziona uno dei modelli preesistenti |
 |---|---|
 | **Salva come modello** | Salva l’e-mail appena composta come nuovo modello |
 | **Aggiungi contenuto** | Carica un file sul nostro server e ricevi un URL (che punta al contenuto) che può essere tracciato nella tua e-mail |
-| **Allega file** | Allegare un file dal computer all&#39;e-mail (limite di dimensione di 23 MB) |
+| **Allega file** | Allega un file dal computer all’e-mail (limite di 23 MB) |
 
 >[!TIP]
 >
->Scopri i dettagli [opzioni di invio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Scopri i dettagli del tuo [opzioni di invio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Chiamata {#call}
 
-Imposta un promemoria da seguire con un contatto via telefono. Puoi anche salvare le note da utilizzare come traccia vocale durante la chiamata.
+Imposta un promemoria per il follow-up con un contatto telefonico. È inoltre possibile salvare le note da utilizzare come traccia di conversazione durante la chiamata.
 
 ![](assets/pic.png)
 
 ## InMail {#inmail}
 
-Seguire più canali è un ottimo modo per connettersi con i lead. Con le attività InMail, è possibile impostare un promemoria per raggiungere tramite LinkedIn.
+Il follow-up su più canali è un ottimo modo per connettersi con i lead. Con le attività InMail, puoi impostare un promemoria da inviare tramite LinkedIn.
 
 ![](assets/inmail.png)
 
 ## Attività personalizzata {#custom-task}
 
-Utilizzare attività personalizzate quando le opzioni di cui sopra non sono applicabili. Ad esempio, puoi invitare un collega a seguire un lead via e-mail.
+Utilizza le attività personalizzate quando le opzioni di cui sopra non sono applicabili. Ad esempio, puoi invitare un collega a seguire un lead tramite e-mail.
 
 ![](assets/custom.png)

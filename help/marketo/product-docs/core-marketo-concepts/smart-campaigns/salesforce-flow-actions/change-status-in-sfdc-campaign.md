@@ -1,16 +1,17 @@
 ---
 unique-page-id: 1147029
-description: Cambia stato in campagna SFDC - Documenti Marketo - Documentazione del prodotto
-title: Cambia stato nella campagna SFDC
+description: Modifica stato in Campagna SFDC - Documentazione Marketo - Documentazione del prodotto
+title: Modifica stato in una campagna SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 2%
 
 ---
 
-# Cambia stato nella campagna SFDC {#change-status-in-sfdc-campaign}
+# Modifica stato in una campagna SFDC {#change-status-in-sfdc-campaign}
 
 >[!NOTE]
 >
@@ -18,18 +19,18 @@ ht-degree: 2%
 
 ## Panoramica {#overview}
 
-Questo passaggio di flusso ti consente di modificare lo stato membro della campagna Salesforce dei lead.
+Questo passaggio di flusso consente di modificare lo stato dei membri della campagna Salesforce dei lead.
 
-Se un lead non esiste in Salesforce o non è ancora membro della campagna, verrà sincronizzato e aggiunto automaticamente alla campagna Salesforce con lo stato appropriato.
+Se un lead non esiste in Salesforce o non è ancora membro della campagna, verrà automaticamente sincronizzato e aggiunto alla campagna Salesforce con lo stato appropriato.
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
 ## Utilizzo {#usage}
 
-1. Per prima cosa, trova e seleziona Salesforce **Campaign** il record è in.
+1. Trova e seleziona la Salesforce **Campagna** il record è in.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Quindi seleziona la **Nuovo stato** vuoi metterti e hai finito!
+1. Quindi seleziona la **Nuovo stato** vuoi iniziare e hai finito!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)

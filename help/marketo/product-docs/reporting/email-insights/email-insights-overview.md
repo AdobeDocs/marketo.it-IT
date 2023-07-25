@@ -1,67 +1,67 @@
 ---
 unique-page-id: 10099408
-description: Panoramica di Approfondimenti e-mail - Documenti Marketo - Documentazione del prodotto
-title: Panoramica di Approfondimenti e-mail
+description: Panoramica di Email Insights - Documenti Marketo - Documentazione del prodotto
+title: Panoramica di Email Insights
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 1%
 
 ---
 
-# Panoramica di Approfondimenti e-mail {#email-insights-overview}
+# Panoramica di Email Insights {#email-insights-overview}
 
-Approfondimenti e-mail fornisce informazioni approfondite sui dati storici per gli addetti al marketing e-mail. Si compone di due sezioni distinte ma associate: Analytics e invia.
+Email Insights fornisce informazioni approfondite dai dati storici per gli esperti di e-mail marketing. È costituito da due sezioni separate ma associate: Analytics e Sends.
 
-Per accedere a Approfondimenti e-mail, fai clic semplicemente sul relativo riquadro in My Marketo (o nella schermata iniziale di Analytics).
+Per accedere a Email Insights, fai clic sulla relativa sezione in Il mio Marketo (o nella schermata Home di Analytics).
 
 ![](assets/icon.png)
 
 >[!NOTE]
 >
->Per impostazione predefinita, visualizzerai i dati per ogni area di lavoro a cui hai accesso. È possibile deselezionare le aree di lavoro che non si desidera visualizzare. Le selezioni verranno ricordate in futuro.
+>Per impostazione predefinita, vengono visualizzati i dati di ogni area di lavoro a cui hai accesso. È possibile deselezionare le aree di lavoro da non visualizzare. Le selezioni verranno ricordate in futuro.
 
 ## Analytics {#analytics}
 
-Utilizzo [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) per esplorare i dati aggregati delle serie temporali per le metriche di consegna e-mail e coinvolgimento.
+Utilizzare [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) per esplorare i dati aggregati della serie temporale per le metriche di consegna e-mail e coinvolgimento.
 
 ![](assets/emailanalytics.jpg)
 
 **Filtri**
 
-Utilizzato avanzato [filtri](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) per suddividere i risultati per pubblico, contenuto o piattaforma. Gli stessi filtri si applicano sia ad Analytics che a Sending.
+Usato avanzato [filtri](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) per suddividere i risultati per pubblico, contenuto o piattaforma. Gli stessi filtri si applicano sia ad Analytics che a Sends.
 
 ![](assets/filter.png)
 
 **Grafici rapidi**
 
-[Grafici rapidi](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) sono miniature create e salvate, che forniscono una visualizzazione rapida dei grafici che sono importanti per te.
+[Grafici rapidi](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) sono miniature create e salvate, che consentono di visualizzare rapidamente i grafici più importanti per l&#39;utente.
 
 ![](assets/three.png)
 
-## Invio {#sends}
+## Invia {#sends}
 
-In [Invio](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) , esamina le caratteristiche della comunicazione e-mail recente.
+In [Invia](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) pagina, esamina le caratteristiche delle comunicazioni e-mail recenti.
 
 ![](assets/two.png)
 
-**Parametri**
+**Metriche**
 
-Fai clic sulle barre Metriche per tradurre i colori in numeri.
+Fai clic sulle barre delle metriche per tradurre i colori in numeri.
 
 ![](assets/delivery-metrics.png)
 
 >[!NOTE]
 >
->La riflessione dei dati in Approfondimenti e-mail può richiedere fino a 8 ore.
+>La visualizzazione dei dati in Email Insights può richiedere fino a 8 ore.
 
 ## Dimension personalizzati {#custom-dimensions}
 
-Sono incluse tutte le dimensioni standard di Marketo, ma puoi aggiungere fino a 10 dimensioni personalizzate. [Dimensioni personalizzate](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) sono costituite da segmentazioni e tag di programma.
+Sono incluse tutte le dimensioni Marketo standard, ma puoi aggiungere fino a 10 dimensioni personalizzate. [Dimensioni personalizzate](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) consiste in segmentazioni e tag di programma.
 
 >[!MORELIKETHIS]
 >
->* [Panoramica di Analytics Approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [Panoramica sull’invio di Approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
-
+>* [Panoramica di Analytics su Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>* [Panoramica sugli invii di e-mail Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

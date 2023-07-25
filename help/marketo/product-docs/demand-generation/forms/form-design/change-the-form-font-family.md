@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2359608
-description: Modificare la famiglia di font per moduli - Marketo Docs - Documentazione del prodotto
-title: Modificare la famiglia di font per modulo
+description: Modificare la famiglia di caratteri del modulo - Documentazione di Marketo - Documentazione del prodotto
+title: Modificare la famiglia di caratteri del modulo
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Modificare la famiglia di font per modulo {#change-the-form-font-family}
+# Modificare la famiglia di caratteri del modulo {#change-the-form-font-family}
 
-I font Google sono fantastici, e li abbiamo inseriti direttamente nell’editor di moduli. Guardate!
+I Google Fonts sono fantastici, e li abbiamo inseriti direttamente nell&#39;editor di moduli. Dai un&#39;occhiata!
 
 >[!NOTE]
 >
->Questa impostazione ha effetto sull’etichetta del modulo, sul testo di input e su qualsiasi testo RTF.
+>Questa impostazione ha effetto sull&#39;etichetta del modulo, sul testo di input e su qualsiasi testo RTF.
 
 1. Vai a **Attività di marketing**.
 
@@ -30,19 +31,19 @@ I font Google sono fantastici, e li abbiamo inseriti direttamente nell’editor 
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Seleziona la **Famiglia di font** volete.
+1. Seleziona la **Famiglia font** tu vuoi.
 
    >[!TIP]
    >
-   >Un mucchio di [Font Google](https://www.google.com/fonts) sono disponibili per l&#39;uso.
+   >Un gruppo di [Google Fonts](https://www.google.com/fonts) sono disponibili per l’uso.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Fai clic su **Fine**.
+1. Clic **Fine**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Fai clic su **Approva e chiudi**.
+1. Clic **Approva e chiudi**.
 
    >[!NOTE]
    >
@@ -52,12 +53,12 @@ I font Google sono fantastici, e li abbiamo inseriti direttamente nell’editor 
 
    >[!NOTE]
    >
-   >Ricordare di approvare la bozza della pagina di destinazione creata dalle modifiche al modulo.
+   >Ricorda di approvare la bozza della pagina di destinazione creata dalle modifiche del modulo.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
 
-Vedere quanto era semplice cambiare la famiglia di font in un modulo? Adesso che è tutto fatto, impariamo a modificare la dimensione del font del modulo.
+È stato facile modificare la famiglia di caratteri in un modulo? Ottimo, ora che è fatto, impariamo a modificare la dimensione del font del modulo.
 
 >[!MORELIKETHIS]
 >
->[Modificare le dimensioni del font del modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
+>[Modificare le dimensioni del carattere del modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)

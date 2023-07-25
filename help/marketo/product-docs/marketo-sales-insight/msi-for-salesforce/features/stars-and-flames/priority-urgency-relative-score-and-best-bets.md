@@ -1,55 +1,56 @@
 ---
 unique-page-id: 2950396
-description: Priorità, Urgenza, Punteggio relativo e Migliori offerte - Documenti Marketo - Documentazione del prodotto
-title: Priorità, Urgenza, Punteggio relativo e Migliori offerte
+description: Priorità, urgenza, punteggio relativo e elementi di maggiore rilevanza - Documenti Marketo - Documentazione del prodotto
+title: Priorità, urgenza, punteggio relativo e elementi di maggiore rilevanza
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
 
-# Priorità, Urgenza, Punteggio relativo e Migliori offerte {#priority-urgency-relative-score-and-best-bets}
+# Priorità, urgenza, punteggio relativo e elementi di maggiore rilevanza {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight sceglie i migliori lead e contatti in base alla loro priorità. La priorità di un lead o di un contatto ha due componenti: urgenza e punteggio relativo.
+Marketo Sales Insight seleziona i contatti e i lead migliori in base alla loro priorità. La priorità di un lead o di un contatto ha due componenti: urgenza e punteggio relativo.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
-Questi sono derivati dal punteggio iniziale, una misura dell&#39;interesse della persona nei prodotti. Più alto è il punteggio, più è probabile che rispondano positivamente a una chiamata dal team di vendita.
+Questi sono derivati dal punteggio di lead, una misura dell’interesse della persona per i tuoi prodotti. Maggiore è il punteggio, più è probabile che rispondano positivamente a una chiamata del team di vendita.
 
 >[!NOTE]
 >
->Sono necessarie diverse campagne di punteggio per ottenere il valore completo di priorità, urgenza e punteggio relativo.  Se le campagne di valutazione sono insufficienti o non disponibili, questi campi non saranno utili.
+>Sono necessarie diverse campagne di punteggio per ottenere il valore completo di priorità, urgenza e punteggio relativo.  Con un numero insufficiente di campagne di punteggio o senza campagne di punteggio, questi campi non saranno utili.
 
 ## Urgenza {#urgency}
 
-Le fiamme rappresentano l&#39;urgenza — quanto è cambiato il punteggio iniziale di questa persona di recente. Un&#39;elevata urgenza (più fiamme) significa che il punteggio di questo lead è aumentato notevolmente ultimamente; è un buon segno che questo lead è interessato alla tua offerta. Dovrebbe seguire questa persona rapidamente!
+Le fiamme rappresentano l&#39;urgenza — quanto il punteggio di vantaggio di questa persona è cambiato di recente. Un&#39;alta urgenza (più fiamme) significa che il punteggio di questo lead è aumentato molto di recente; è un buon segno che questo lead è interessato alla tua offerta. Dovresti seguire questa persona rapidamente!
 
-Ad esempio, un lead che ha richiesto una demo e ha visitato diverse pagine web avrà probabilmente un’urgenza molto elevata. Un lead che non ha visitato la tua pagina web o aperto le tue e-mail avrà una bassa urgenza. Usa l’urgenza per assegnare la priorità a chi deve essere contattato dopo.
+Ad esempio, un lead che ha richiesto una demo e ha visitato diverse pagine web avrà probabilmente un’urgenza molto elevata. Un lead che non ha visitato la tua pagina web o aperto le tue e-mail avrà una bassa urgenza. Usa l’urgenza per assegnare la priorità a chi deve essere contattato successivamente.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-2.png)
 
 ## Punteggio relativo {#relative-score}
 
-Le stelle rappresentano il punteggio relativo — una misura del punteggio iniziale di questa persona rispetto a quello di tutti gli altri. Un punteggio relativo elevato significa che questa persona è probabilmente più interessata e informata sulla tua offerta rispetto a persone con punteggi relativi inferiori.
+Le stelle rappresentano il punteggio relativo: una misura di come il punteggio di testa di questa persona si confronta con quello di chiunque altro. Un punteggio relativo elevato significa che questa persona è probabilmente più interessata e informata sulla tua offerta rispetto alle persone con punteggi relativi più bassi.
 
-Se due lead hanno la stessa urgenza, è possibile utilizzare il punteggio relativo per indicare quale si merita una prima chiamata. Quella con il punteggio relativo più alto potrebbe reagire più favorevolmente alla tua offerta rispetto a quella più bassa.
+Se due lead hanno la stessa urgenza, puoi utilizzare il punteggio relativo per indicare a quale lead si merita prima una telefonata. Quello con il punteggio relativo più alto potrebbe reagire più favorevolmente alla tua offerta rispetto a quella più bassa.
 
-## Migliori offerte {#best-bets}
+## Elementi di maggiore rilevanza {#best-bets}
 
-Le migliori scommesse sono i vostri lead e contatti con la massima urgenza e il punteggio relativo. Solo i lead che possiedi sono visibili in tale elenco e l’elenco viene aggiornato in seguito alla modifica dei punteggi dei lead.
+Gli elementi di maggiore rilevanza sono i lead e i contatti con il punteggio relativo e di urgenza più elevato. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
 
 >[!NOTE]
 >
->Se le tue migliori scommesse non corrispondono ai migliori lead e contatti che possiedi, parla con qualcuno della tua azienda che ha accesso a Marketo sull&#39;aggiornamento della tua [Regole di valutazione](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Se le tue scelte migliori non corrispondono ai contatti e ai lead migliori che possiedi, chiedi a qualcuno della tua azienda che ha accesso a Marketo di aggiornare i tuoi [Regole punteggio](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Calcolo dell’urgenza e del punteggio relativo
 
-Per calcolare il numero di stelle e fiamme, i lead e i contatti vengono prima ordinati per punteggio o variazione di punteggio (rispettivamente per Punteggio relativo e Urgenza). Poi sono divisi in livelli — il livello superiore riceve il maggior numero di stelle o fiamme, quello successivo ne riceve meno, e così via.
+Per calcolare il numero di stelle e fiamme, i lead e i contatti vengono prima ordinati in base al punteggio o alla variazione del punteggio (rispettivamente per Punteggio relativo e Urgenza). Poi sono divisi in livelli — il livello superiore riceve più stelle o fiamme, quello successivo meno stelle e così via.
 
-Quando i punteggi cambiano, i valori di urgenza, priorità e punteggio relativo vengono immediatamente ricalcolati. I livelli di urgenza e punteggio relativo vengono calcolati automaticamente ogni notte sui server Marketo.
+Man mano che i punteggi cambiano, i valori di urgenza, priorità e punteggio relativo vengono ricalcolati immediatamente. I livelli di urgenza e punteggio relativo vengono calcolati automaticamente ogni notte sui server Marketo.
 
 >[!NOTE]
 >
->Il conteggio di Urgenza relativa (fiamme) e Punteggio relativo (stelle) sono numeri interi in Marketo. I valori possibili per ciascuno sono 0-3.
+>I valori Urgenza relativa (fiamme) e Punteggio relativo (stelle) sono numeri interi in Marketo. I valori possibili per ciascuno sono 0-3.

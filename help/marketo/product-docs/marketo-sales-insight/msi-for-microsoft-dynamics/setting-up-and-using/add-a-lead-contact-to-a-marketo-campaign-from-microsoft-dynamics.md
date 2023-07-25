@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2953342
-description: Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics - Documenti Marketo - Documentazione del prodotto
+description: Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
 title: Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 # Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-Puoi aggiungere in modo rapido e semplice lead/contatti a campagne avanzate Marketo direttamente da Microsoft Dynamics. Ecco come.
+Puoi aggiungere lead/contatti alle campagne intelligenti di Marketo in modo rapido e semplice direttamente da Microsoft Dynamics. Ecco come.
 
-1. In Dynamics, passa a **Vendite** area.
+1. In Dynamics, vai a **Vendite** area.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
-1. Seleziona una vista.
+1. Selezionare una visualizzazione.
 
    ![](assets/image2014-10-20-12-3a10-3a6.png)
 
-1. Selezionare uno o più lead o contatti.
+1. Seleziona uno o più contatti o lead.
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Fai clic su **...** e seleziona **Aggiungi a Marketo Campaign**.
+1. Clic **...** e seleziona **Aggiungi a Marketo Campaign**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -36,6 +37,6 @@ Puoi aggiungere in modo rapido e semplice lead/contatti a campagne avanzate Mark
 
    >[!NOTE]
    >
-   >Affinché la campagna venga visualizzata nel menu a discesa, utilizza  [**Richiesta campagna** attivare](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con Insight vendite come origine, quando si imposta la campagna.
+   >Per visualizzare la campagna nel menu a discesa, utilizza  [**Campagna richiesta** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con Sales Insight come origine, quando configuri la campagna.
 
-E questo è tutto, gente! Ora puoi contare sulla potenza delle campagne intelligenti Marketo direttamente da Dynamics.
+E questa è tutta gente! Ora puoi sfruttare la potenza delle campagne intelligenti di Marketo direttamente da Dynamics.

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 7504749
-description: Esportazione di un rapporto di Esplora entrate - Documenti Marketo - Documentazione del prodotto
-title: Esportazione di un rapporto di Esplora ricavi
+description: Esportazione di un rapporto di Revenue Explorer (documenti Marketo) - Documentazione del prodotto
+title: Esportazione di un rapporto di Gestione ricavi
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%
 
 ---
 
-# Esportazione di un rapporto di Esplora ricavi {#exporting-a-revenue-explorer-report}
+# Esportazione di un rapporto di Gestione ricavi {#exporting-a-revenue-explorer-report}
 
-Puoi esportare qualsiasi rapporto di elenco dei ricavi e condividerlo con chiunque.
+Puoi esportare qualsiasi rapporto di Gestione ricavi e condividerlo con chiunque.
 
 1. Fai clic sull’icona a forma di ingranaggio, seleziona **Esporta** e selezionare un formato di file.
 
@@ -26,13 +27,12 @@ Puoi esportare qualsiasi rapporto di elenco dei ricavi e condividerlo con chiunq
    >* Excel
    >* CSV
 
-
 1. Seleziona il **Formato pagina** e **Orientamento** e fai clic su **Esporta**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
-   Dolce! Invia questo file e impressiona i tuoi pari con le tue abilità di marketing ninja.
+   Dolce! Invia questo file e impressiona i tuoi colleghi con le tue abilità di marketing ninja.
 
 >[!MORELIKETHIS]
 >
->[Abbonati a un rapporto di Esplora entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Iscriviti a un rapporto di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

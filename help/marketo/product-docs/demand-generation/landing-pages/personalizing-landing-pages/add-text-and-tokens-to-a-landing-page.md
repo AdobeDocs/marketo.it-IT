@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359530
-description: Aggiungere testo e token a una pagina di destinazione - Marketo Docs - Documentazione del prodotto
+description: Aggiungere testo e token a una pagina di destinazione - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiungere testo e token a una pagina di destinazione
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 >
 >I token sono supportati solo nelle pagine di destinazione di Marketo.
 
-## Aggiungere testo RTF alla pagina di destinazione {#add-rich-text-to-your-landing-page}
+## Aggiungere testo formattato alla pagina di destinazione {#add-rich-text-to-your-landing-page}
 
 1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
 
@@ -24,9 +25,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >La finestra di progettazione della pagina di destinazione viene aperta in una nuova finestra.
+   >Il designer della pagina di destinazione si apre in una nuova finestra.
 
-1. Trascina sopra **Rich Text** elemento.
+1. Trascina sulla **Rich Text** elemento.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
@@ -34,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Ora che sai come aggiungere testo a una pagina di destinazione, è necessario aggiungere un token.
+Ora che sai come aggiungere testo a una pagina di destinazione, lavoriamo sull’aggiunta di un token.
 
 ## Aggiungere un token alla pagina di destinazione {#add-a-token-to-your-landing-page}
 
-I token sono bit di testo dinamici che possono personalizzare la pagina di destinazione.
+I token sono parti di testo dinamiche che possono personalizzare la pagina di destinazione.
 
 >[!TIP]
 >
->Cose come Nome provengono dal record della persona. Altri token provengono dalla scheda Token personali nel programma.
+>Cose come First Name provengono dal record della persona. Altri token provengono dalla scheda I miei token del programma.
 
 1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
 
@@ -50,13 +51,13 @@ I token sono bit di testo dinamici che possono personalizzare la pagina di desti
 
    >[!NOTE]
    >
-   >La finestra di progettazione della pagina di destinazione viene aperta in una nuova finestra.
+   >Il designer della pagina di destinazione si apre in una nuova finestra.
 
-1. Fare doppio clic sulla casella RTF a cui si desidera aggiungere il token.
+1. Fare doppio clic sulla casella di testo RTF a cui si desidera aggiungere il token.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
-1. Fai clic sull’icona Inserisci token .
+1. Fai clic sull’icona Inserisci token.
 
    ![](assets/image2015-7-8-17-3a21-3a53.png)
 
@@ -64,12 +65,12 @@ I token sono bit di testo dinamici che possono personalizzare la pagina di desti
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Inserisci un **Valore predefinito** e fai clic su **Inserisci**.
+1. Immetti un **Valore predefinito** e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Fai clic su **Salva**.
+1. Clic **Salva**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Missione completata Ora disponi di un token sulla pagina di destinazione.
+   Missione completata. Ora hai un token nella pagina di destinazione.

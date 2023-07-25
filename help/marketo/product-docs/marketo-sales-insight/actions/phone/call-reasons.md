@@ -1,7 +1,9 @@
 ---
-description: Motivi della chiamata - Documentazione Marketo - Documentazione del prodotto
+description: Motivi delle chiamate - Documentazione Marketo - Documentazione del prodotto
 title: Motivi della chiamata
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+exl-id: 82533d6b-a373-49c7-9cee-271e36916111
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -10,7 +12,7 @@ ht-degree: 0%
 
 # Motivi della chiamata {#call-reasons}
 
-Consenti ai team di vendita di selezionare i motivi delle chiamate durante le chiamate in modo che il tuo team possa capire perché vengono effettuate le chiamate.
+Consenti ai team di vendita di selezionare i motivi della chiamata quando si effettuano le chiamate in modo che il team possa capire il motivo per cui vengono effettuate le chiamate.
 
 >[!NOTE]
 >
@@ -18,11 +20,11 @@ Consenti ai team di vendita di selezionare i motivi delle chiamate durante le ch
 
 ## Abilita motivi di chiamata {#enable-call-reasons}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona dell’ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/call-reasons-1.png)
 
-1. In Impostazioni amministratore, seleziona **Dialogo**.
+1. In Impostazioni amministratore seleziona **Connessione telefonica**.
 
    ![](assets/call-reasons-2.png)
 
@@ -30,7 +32,7 @@ Consenti ai team di vendita di selezionare i motivi delle chiamate durante le ch
 
    ![](assets/call-reasons-3.png)
 
-1. Scegli il requisito del motivo della chiamata desiderato.
+1. Scegli il requisito del motivo di chiamata desiderato.
 
    ![](assets/call-reasons-4.png)
 
@@ -40,35 +42,35 @@ Consenti ai team di vendita di selezionare i motivi delle chiamate durante le ch
 >
 >Puoi creare un massimo di 15 motivi di chiamata.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull’icona dell’ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/call-reasons-5.png)
 
-1. In Impostazioni amministratore, seleziona **Dialogo**.
+1. In Impostazioni amministratore seleziona **Connessione telefonica**.
 
    ![](assets/call-reasons-6.png)
 
-1. Fai clic su **Gestire i motivi delle chiamate**.
+1. Clic **Gestire i motivi delle chiamate**.
 
    ![](assets/call-reasons-7.png)
 
-1. Inserisci il nome del motivo della chiamata desiderato nel campo di testo e fai clic su **Aggiungi**.
+1. Inserisci il nome del motivo di chiamata desiderato nel campo di testo e fai clic su **Aggiungi**.
 
    ![](assets/call-reasons-8.png)
 
-## Selezionare un motivo di chiamata {#select-a-call-reason}
+## Seleziona un motivo di chiamata {#select-a-call-reason}
 
-Una volta abilitati i motivi della chiamata. Gli utenti possono selezionarne uno durante una chiamata .
+Una volta abilitati i motivi della chiamata. Gli utenti possono selezionarne uno durante una chiamata.
 
-1. Fai clic sul pulsante di chiamata per avviare il dialer.
+1. Fare clic sul pulsante di chiamata per avviare la composizione.
 
    ![](assets/call-reasons-9.png)
 
-1. Immetti le informazioni sulla chiamata nella finestra di dialogo e fai clic su **Chiamata**.
+1. Inserisci le informazioni sulla chiamata nella finestra di dialogo e fai clic su **Chiamata**.
 
    ![](assets/call-reasons-10.png)
 
-1. Seleziona il motivo della chiamata che descrive meglio la chiamata.
+1. Seleziona il motivo della chiamata che meglio descrive la chiamata.
 
    ![](assets/call-reasons-11.png)
 
@@ -82,6 +84,5 @@ Una volta abilitati i motivi della chiamata. Gli utenti possono selezionarne uno
 
 >[!MORELIKETHIS]
 >
->* [Segnala i motivi delle chiamate e i risultati delle chiamate a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Risultati chiamata](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
-
+>* [Registra i motivi e gli esiti delle chiamate a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Risultati della chiamata](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)

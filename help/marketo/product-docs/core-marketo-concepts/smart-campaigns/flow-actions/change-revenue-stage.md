@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1147080
-description: Passaggio dei ricavi - Documentazione Marketo - Documentazione del prodotto
-title: Cambia fase ricavi
+description: Fase di modifica ricavi - Documentazione Marketo - Documentazione del prodotto
+title: Modifica fase ricavi
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 2%
 
 ---
 
-# Cambia fase ricavi {#change-revenue-stage}
+# Modifica fase ricavi {#change-revenue-stage}
 
 ## Panoramica {#overview}
 
-Se utilizzi Modeler del ciclo dei ricavi e disponi di un modello approvato, puoi decidere di spostare manualmente i lead da una fase all’altra. Questo passaggio del flusso sarà utile.
+Se si utilizza Revenue Cycle Modeler e si dispone di un modello approvato, è possibile decidere di spostare manualmente i lead da uno stadio all&#39;altro. Questo passaggio di flusso ti aiuterà.
 
 ![](assets/image2014-9-22-17-3a4-3a59.png)
 
@@ -24,10 +25,10 @@ Se utilizzi Modeler del ciclo dei ricavi e disponi di un modello approvato, puoi
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Seleziona la **Nuovo stadio** vuoi assegnare e hai finito!
+1. Seleziona la **Nuova fase** l&#39;assegnazione è terminata.
 
    ![](assets/image2014-9-22-17-5-8.png)
 
    >[!CAUTION]
    >
-   >Il data warehouse presta molta attenzione al momento in cui i lead passano tra le fasi. In questo modo si possono creare dati errati se utilizzati in modo errato.
+   >Il data warehouse presta particolare attenzione al momento in cui i lead passano da una fase all&#39;altra. Se utilizzato in modo errato, si potrebbero generare dati errati.

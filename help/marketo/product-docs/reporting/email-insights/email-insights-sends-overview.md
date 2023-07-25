@@ -1,22 +1,23 @@
 ---
 unique-page-id: 10099413
-description: Panoramica sull’invio di Approfondimenti e-mail - Documenti Marketo - Documentazione del prodotto
-title: Panoramica sull’invio di Approfondimenti e-mail
+description: Panoramica sugli invii di e-mail Insights - Documenti Marketo - Documentazione del prodotto
+title: Panoramica sugli invii di e-mail Insights
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Panoramica sull’invio di Approfondimenti e-mail {#email-insights-sends-overview}
+# Panoramica sugli invii di e-mail Insights {#email-insights-sends-overview}
 
-Nella pagina Invio , esamina le caratteristiche della comunicazione e-mail recente.
+Nella pagina Invii, esamina le caratteristiche delle comunicazioni e-mail recenti.
 
 ![](assets/one.png)
 
-Utilizzo [filtro](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) per specificare le e-mail da visualizzare.
+Utilizzare [filtro](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) per specificare quali e-mail desideri visualizzare.
 
 ![](assets/filtering.png)
 
@@ -24,26 +25,26 @@ Sul lato destro della pagina sono presenti diverse informazioni relative alle e-
 
 ![](assets/two-1.png)
 
-**Tipo** indica il tipo di risorsa utilizzata.
-**Destinatario** numero indica quante persone sono state inviate l’e-mail.
-**Metriche di consegna** offre una rapida panoramica del numero di e-mail consegnate, in sospeso o rimbalzate.\
-**Metriche di coinvolgimento** fornisce una panoramica rapida del numero di destinatari che hanno aperto, fatto clic su di essi e annullato l’abbonamento a un’e-mail.
-**Punteggio** è la tua e-mail [Punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Tipo** indica il tipo di risorsa utilizzato.
+**Destinatario** numero indica quante persone hanno ricevuto l’e-mail.
+**Metriche di consegna** ti offre una visualizzazione rapida di quante e-mail sono state consegnate, sono in sospeso o sono rimbalzate.\
+**Metriche di coinvolgimento** ti offre una visualizzazione rapida del numero di destinatari che hanno aperto, fatto clic e annullato l’abbonamento a un’e-mail.
+**Punteggio** è l’e-mail di [Punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-Per impostazione predefinita, le e-mail sono ordinate in base alla data più recente, ma puoi ordinarle in base a qualsiasi metrica disponibile.
+Per impostazione predefinita, le e-mail sono ordinate in base alla più recente, ma puoi ordinarle in base a qualsiasi metrica disponibile.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Le e-mail sono elencate per nome del programma o della campagna (in alto) e per nome della risorsa e-mail (in basso).
+>Le e-mail sono elencate per nome del programma o della campagna (in alto) e nome della risorsa e-mail (in basso).
 
-Per visualizzare le statistiche dell’e-mail in Analytics, passa il puntatore del mouse su Punteggio e fai clic sull’icona del grafico.
+Per visualizzare le statistiche delle e-mail in Analytics, passa il puntatore del mouse su Punteggio e fai clic sull’icona del grafico.
 
 ![](assets/five.png)
 
-Roba bella!
+Roba fantastica!
 
 >[!MORELIKETHIS]
 >
->[Panoramica di Analytics Approfondimenti e-mail](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[Panoramica di Analytics su Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

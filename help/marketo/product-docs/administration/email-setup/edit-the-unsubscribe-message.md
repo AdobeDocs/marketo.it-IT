@@ -3,7 +3,8 @@ unique-page-id: 2360251
 description: Modificare il messaggio di annullamento dell’iscrizione - Documentazione di Marketo - Documentazione del prodotto
 title: Modificare il messaggio di annullamento dell’iscrizione
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -34,7 +35,6 @@ Quando invii e-mail marketing (non[operative](/help/marketo/product-docs/email-m
    >
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
-
 
 1. Modifica il **[!UICONTROL Annulla sottoscrizione HTML]** e **[!UICONTROL Testo per annullamento iscrizione]** versioni desiderate e fare clic su **[!UICONTROL Salva modifiche]**.
 

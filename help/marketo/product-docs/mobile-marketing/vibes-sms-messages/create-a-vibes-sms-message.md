@@ -1,40 +1,41 @@
 ---
 unique-page-id: 11378869
-description: Creare un messaggio SMS Vibes - Marketo Docs - Documentazione del prodotto
-title: Creare un messaggio SMS Vibes
+description: Creazione di un messaggio Vibes SMS - Documentazione di Marketo - Documentazione di prodotto
+title: Creare un messaggio Vibes SMS
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
 
-# Creare un messaggio SMS Vibes {#create-a-vibes-sms-message}
+# Creare un messaggio Vibes SMS {#create-a-vibes-sms-message}
 
 Ecco come creare un messaggio SMS Vibes.
 
 >[!AVAILABILITY]
 >
->Questa funzione è disponibile come componente aggiuntivo per il tuo account Adobe Marketo Engage. Affinché possa essere fornito correttamente, deve essere acquistato tramite Adobe. Contatta il team dell&#39;account Adobe (il tuo Account Manager) per maggiori informazioni.
+>Questa funzione è disponibile come componente aggiuntivo per il tuo account Adobe Marketo Engage. Per essere fornito correttamente, deve essere acquistato tramite Adobe. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 >[!NOTE]
 >
->La messaggistica di testo SMS non è compatibile con HIPAA.
+>I messaggi di testo SMS non sono conformi a HIPAA.
 
 1. Vai a **Attività di marketing** e fare clic con il pulsante destro del mouse su un programma.
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Fai clic su **Nuova risorsa locale**.
+1. Clic **Nuova risorsa locale**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >In alternativa, puoi fare clic sul pulsante **Nuovo** a discesa.
+   >In alternativa, è possibile fare clic su **Nuovo** a discesa.
 
-1. Fai clic su **Messaggio SMS**.
+1. Clic **Messaggio SMS**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
@@ -42,31 +43,31 @@ Ecco come creare un messaggio SMS Vibes.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. Fai clic su **Modifica bozza**.
+1. Clic **Modifica bozza**.
 
    ![](assets/edit-draft-hand.jpg)
 
-1. Nell’editor dei messaggi, fai clic all’interno della bolla blu e inizia a inserire del testo.
+1. Nell’editor dei messaggi, fai clic all’interno della bolla blu e inizia a immettere il testo.
 
    ![](assets/message-text-pencil.jpg)
 
    >[!NOTE]
    >
-   >I limiti per gli Stati Uniti e il Canada sono diversi, rispettivamente a 160 e 130 caratteri. Se superi questi limiti di caratteri, il messaggio potrebbe essere suddiviso. Mentre ti mostriamo quando superi il limite canadese, l&#39;editor è ottimizzato per gli Stati Uniti e divide il messaggio in base al limite degli Stati Uniti.
+   >I limiti per gli Stati Uniti e il Canada sono diversi, rispettivamente a 160 e 130 caratteri. Se superi questi limiti di caratteri, il messaggio potrebbe essere diviso. Anche se mostriamo quando superi il limite canadese, l’editor è ottimizzato per gli Stati Uniti e divide il messaggio in base al limite degli Stati Uniti.
 
-1. Fai clic su **Token** nel menu Inserisci per aggiungere un token al messaggio.
+1. Clic **Token** per aggiungere un token al messaggio.
 
    ![](assets/add-token-real-hand.jpg)
 
    >[!NOTE]
    >
-   >L’aggiunta di un token può causare il superamento del limite di caratteri del messaggio. Il messaggio verrà quindi suddiviso, con conseguente costo aggiuntivo.
+   >L’aggiunta di un token può causare il superamento del limite di caratteri per il messaggio. Il messaggio verrà quindi suddiviso, con conseguente addebito di ulteriori costi.
 
-1. Fai clic su **Collegamento** nel menu Inserisci per aggiungere un collegamento al messaggio.
+1. Clic **Collegamento** per aggiungere un collegamento al messaggio.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Seleziona un tipo di collegamento. Pagina di destinazione di Marketo è l’impostazione predefinita. Per utilizzare questa opzione, seleziona la pagina di destinazione dal menu a discesa e fai clic su **Inserisci**.
+1. Seleziona un tipo di collegamento. Pagina di destinazione di Marketo è l’impostazione predefinita. Se utilizzi questa funzione, seleziona la pagina di destinazione dal menu a discesa e fai clic su **Inserisci**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -74,7 +75,7 @@ Ecco come creare un messaggio SMS Vibes.
    >
    >I due collegamenti di tracciamento sono selezionati per impostazione predefinita.
 
-1. Se invece desideri utilizzare un URL esterno, fai clic sul pulsante **External URL** e immetti l’URL nel campo URL . Fai clic su **Inserisci**.
+1. Se invece desideri utilizzare un URL esterno, fai clic su **URL esterno** e immetti l’URL nel campo URL. Clic **Inserisci**.
 
    ![](assets/insert-link-url-hands.jpg)
 
@@ -84,7 +85,7 @@ Ecco come creare un messaggio SMS Vibes.
 
    >[!NOTE]
    >
-   >Marketo visualizza un’anteprima del collegamento del dominio di tracciamento del brand. Se deselezioni la casella di controllo del collegamento mkt_tok, il collegamento viene modificato. Deseleziona anche la casella di controllo Track Link e l’URL verrà abbreviato in base alla lunghezza (ad esempio, www.mygooglepage.com).
+   >In Marketo viene visualizzata un’anteprima dei collegamenti del dominio di tracciamento del marchio. Se deselezionate la casella di controllo Collegamento mkt_tok (Market_tok link), il collegamento viene modificato. Deseleziona anche la casella di controllo Track Link (Collegamento traccia) e l’URL verrà ridotto alla sua lunghezza di base (ad esempio, www.mygooglepage.com).
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
@@ -92,4 +93,4 @@ Ecco come creare un messaggio SMS Vibes.
    >
    >Il conteggio dei caratteri riflette solo i caratteri contenuti nel messaggio più basso.
 
-Se inserisci più del limite USA, l&#39;editor suddivide il messaggio in sezioni. C&#39;è un limite totale assoluto di 900 caratteri. Una volta raggiunto tale limite, il messaggio viene troncato automaticamente quando viene inviato al relativo pubblico.
+Se inserisci un numero di elementi superiore al limite per gli Stati Uniti, l’editor suddivide il messaggio in sezioni. Il limite totale assoluto è di 900 caratteri. Una volta raggiunto tale limite, il messaggio viene troncato automaticamente quando viene inviato al relativo pubblico.

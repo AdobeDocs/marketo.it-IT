@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14746661
-description: Domande frequenti su contenuto e file allegati - Documenti Marketo - Documentazione del prodotto
+description: Domande frequenti su contenuto e file allegati - Documentazione di Marketo - Documentazione del prodotto
 title: Domande frequenti su contenuto e file allegato
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -12,24 +13,24 @@ ht-degree: 0%
 
 # Domande frequenti su contenuto e file allegato {#content-and-file-attachment-faq}
 
-## Qual è la differenza tra il contenuto e un allegato di file? {#what-is-the-difference-between-content-and-a-file-attachment}
+## Qual è la differenza tra il contenuto e un file allegato? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **file allegato** è esattamente come un file allegato che utilizzeresti nel tuo normale client di posta elettronica.
+A **file allegato** è esattamente come un file allegato da utilizzare nel normale client e-mail.
 
-**Contenuto** è ciò che utilizziamo per descrivere qualsiasi file (PPT, PDF, Word doc, ecc.) che desideri essere monitorato da Sales Connect.
+**Contenuto** è ciò che usiamo per descrivere qualsiasi file (PPT, PDF, Word doc, ecc.) che si desidera essere monitorati da Sales Connect.
 
-Dopo aver fatto clic su quel pulsante, puoi scegliere un file già caricato o caricare un nuovo file da monitorare. Quindi inseriamo un collegamento nell’e-mail o nel modello in uso.
+Dopo aver fatto clic su questo pulsante, puoi scegliere un file già caricato o caricare un nuovo file da tracciare. Quindi inseriamo un collegamento nell’e-mail o nel modello in uso.
 
-Al termine della ricezione, il destinatario fa clic sul collegamento e il contenuto verrà popolato nel browser. Questo ci consente di tenere traccia di ogni visualizzazione di pagina e di segnalarle all&#39;utente di Sales Connect nel feed live.
+Al termine della ricezione, il destinatario fa clic sul collegamento e il contenuto verrà popolato nel browser. Questo consente di tenere traccia di ogni visualizzazione di pagina e di segnalarla all&#39;utente Sales Connect nel feed live.
 
-Le opzioni File e contenuto sono disponibili in: e-mail una tantum, modelli, campagne, Outlook (sia Windows che Mac), Gmail e OWA.
+Le opzioni di file e contenuto sono disponibili in: e-mail una tantum, modelli, campagne, Outlook (sia Windows che Mac), Gmail e OWA.
 
-## Chi gestisce il contenuto e dove viene memorizzato? {#who-manages-the-content-and-where-is-it-stored}
+## Chi gestisce i contenuti e dove vengono archiviati? {#who-manages-the-content-and-where-is-it-stored}
 
-Il contenuto può essere caricato nell&#39;archivio di Sales Connect da qualsiasi utente con la possibilità di creare modelli. Ciò significa che gli utenti potranno caricare il contenuto desiderato.
+I contenuti possono essere caricati nel repository di Sales Connect da qualsiasi utente con la possibilità di creare modelli. Gli utenti potranno quindi caricare i contenuti di loro scelta.
 
-## I contenuti, le playlist, i modelli, ecc. possono essere creati/organizzati dai team? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
+## I team possono creare/organizzare contenuti, playbook, modelli e così via? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 
-Gli utenti possono creare i propri modelli e possono essere organizzati dal team. A questo scopo, crea un team tramite la pagina Gestione team . Poi, quando il tuo team andrà a condividere modelli/playlist/gruppi, saranno in grado di condividere con solo quei gruppi, invece dell&#39;intero abbonamento degli utenti.
+Gli utenti possono creare i propri modelli e sono organizzati dal team. A questo scopo, crea un team tramite la pagina Gestione team. Quindi, quando il team va a condividere modelli/playbook/gruppi, potrà condividere con solo tali gruppi, anziché l’intero abbonamento di utenti.
 
-Il contenuto può essere condiviso in tutta l’organizzazione.
+I contenuti possono essere condivisi in tutta l’organizzazione.

@@ -1,17 +1,18 @@
 ---
-description: Icona Glossario - Documenti Marketo - Documentazione del prodotto
+description: Icona Glossario - Documentazione di Marketo - Documentazione del prodotto
 title: Icona Glossario
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 19%
+ht-degree: 20%
 
 ---
 
 # Icona Glossario {#new-icon-glossary}
 
-Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Engage. Se devi fare riferimento alle icone di Marketo Classic, possono essere [qui](/help/marketo/getting-started/classic-icon-glossary.md).
+Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage. Se hai bisogno di fare riferimento alle icone di Marketo Classic, possono essere [trovato qui](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## Icone generali {#general-icons}
 
@@ -19,7 +20,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
@@ -30,12 +31,12 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td> 
    <td><img src="assets/batch-active.png"></td> 
-   <td>Campagna in batch - attiva</td> 
+   <td>Campagna batch - attiva</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td> 
    <td><img src="assets/batch-inactive.png"></td> 
-   <td>Campagna batch: inattiva</td> 
+   <td>Campagna batch - inattiva</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td> 
@@ -70,12 +71,12 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-executable-campaign.png"></td> 
    <td><img src="assets/executable-campaign.png"></td> 
-   <td>Campagna Eseguibile</td> 
+   <td>Campagna eseguibile</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td> 
    <td><img src="assets/field-organizer.png"></td> 
-   <td>Organizzatore di campi</td> 
+   <td>Organizzatore campo</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
@@ -155,7 +156,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-report.png"></td> 
    <td><img src="assets/report.png"></td> 
-   <td>Rapporto</td> 
+   <td>Report</td> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 
@@ -175,7 +176,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td> 
    <td><img src="assets/smart-list-cached.png"></td> 
-   <td>Smart List - memorizzato nella cache</td> 
+   <td>Elenco avanzato - memorizzato nella cache</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td> 
@@ -185,12 +186,12 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-snippet.png"></td> 
    <td><img src="assets/snippets.png"></td> 
-   <td>Frammenti</td> 
+   <td>Snippet</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-social-button.png"></td> 
    <td><img src="assets/social-button.png"></td> 
-   <td>Pulsante Social</td> 
+   <td>Pulsante social</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td> 
@@ -225,24 +226,24 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-youtube.png"></td> 
    <td><img src="assets/youtube.png"></td> 
-   <td>Video YouTube</td> 
+   <td>Video su YouTube</td> 
   </tr>
  </tbody>
 </table>
 
-## Campagne in batch {#batch-campaigns}
+## Campagne batch {#batch-campaigns}
 
 <table> 
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
    <td><img src="assets/has-run-no-upcoming.png"></td> 
-   <td>È in esecuzione, non in arrivo</td> 
+   <td>È In Esecuzione, Nessun Prossimo</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
@@ -257,7 +258,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
    <td><img src="assets/running-in-wait-step.png"></td> 
-   <td>In esecuzione, in fase di attesa</td> 
+   <td>In esecuzione, nel passaggio Attesa</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td> 
@@ -272,18 +273,18 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td> 
    <td><img src="assets/used-by-nurture.png"></td> 
-   <td>Utilizzato Da Infermiera</td> 
+   <td>Utilizzato dall’allevamento</td> 
   </tr>
  </tbody>
 </table>
 
-## Attivate campagne {#trigger-campaigns}
+## Attivare campagne {#trigger-campaigns}
 
 <table> 
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
@@ -315,7 +316,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
@@ -331,7 +332,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td> 
    <td><img src="assets/not-approved.png"></td> 
-   <td>Non approvato</td> 
+   <td>Non Approvato</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td> 
@@ -347,7 +348,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
@@ -369,7 +370,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
@@ -395,7 +396,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td> 
    <td><img src="assets/stopped.png"></td> 
-   <td>Arrestato</td> 
+   <td>Interrotto</td> 
   </tr>
  </tbody>
 </table>
@@ -406,7 +407,7 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
@@ -433,18 +434,18 @@ Di seguito sono riportate le icone per la nuova interfaccia di Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icona precedente</th> 
-   <th> Icona Nuovo</th> 
+   <th> Nuova icona</th> 
    <th>Descrizione</th> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 
    <td><img src="assets/approved-under-calculation.png"></td> 
-   <td>Approvato - in fase di calcolo</td> 
+   <td>Approvato - In fase di calcolo</td> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 
    <td><img src="assets/approved-under-recalculation.png"></td> 
-   <td>Approvato - in fase di ricalcolo</td> 
+   <td>Approvato - in ricalcolo</td> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 

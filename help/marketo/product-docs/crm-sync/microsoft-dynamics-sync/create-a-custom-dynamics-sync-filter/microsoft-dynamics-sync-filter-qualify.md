@@ -1,30 +1,31 @@
 ---
 unique-page-id: 10092977
-description: Filtro Microsoft Dynamics Sync - Qualifica - Documenti Marketo - Documentazione del prodotto
-title: Filtro Microsoft Dynamics Sync - Qualifica
+description: Filtro di sincronizzazione Microsoft Dynamics - Qualifica - Documentazione Marketo - Documentazione del prodotto
+title: Filtro di sincronizzazione di Microsoft Dynamics - Qualifica
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 6%
 
 ---
 
-# Filtro di sincronizzazione Microsoft Dynamics: Qualifica {#microsoft-dynamics-sync-filter-qualify}
+# Filtro sincronizzazione Microsoft Dynamics: qualificato {#microsoft-dynamics-sync-filter-qualify}
 
-Per convertire un lead in un contatto in Microsoft Dynamics, assicurati di utilizzare questo processo di qualificazione predefinito. Quindi, sincronizzalo con Marketo.
+Quando si desidera convertire un lead in un contatto in Microsoft Dynamics, assicurarsi di utilizzare questo processo di qualificazione predefinito. Quindi, sincronizzalo con Marketo.
 
 ## Il processo di conversione {#the-conversion-process}
 
 Ecco come funzionano i filtri durante il processo di conversione.
 
-| Se il filtro di sincronizzazione lead è: | e il filtro di sincronizzazione dei contatti è: | Questo è il risultato in Marketo |
+| Se il filtro di sincronizzazione del lead è: | e il filtro di sincronizzazione dei contatti è: | Questo è il risultato in Marketo |
 |---|---|---|
-| False | False | Nessun elemento sincronizzato in Marketo |
-| True | True | Il contatto viene sincronizzato in Marketo |
-| False | True | Nuovo record di contatto creato in Marketo |
-| True | False | MS Dynamics aggiorna le informazioni sui lead in Marketo ma il record di contatto non è sincronizzato |
+| False | False | Non viene sincronizzato nulla in Marketo |
+| True | True | Il contatto è sincronizzato in Marketo |
+| False | True | Nuovo record contatto creato in Marketo |
+| True | False | MS Dynamics aggiorna le informazioni del lead in Marketo, ma il record del contatto non è sincronizzato |
 
 >[!CAUTION]
 >
->Supportiamo solo il processo di conversione Qualifica preconfigurato.
+>Supportiamo solo il processo predefinito di conversione Qualify.

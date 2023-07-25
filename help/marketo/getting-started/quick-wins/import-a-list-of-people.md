@@ -3,7 +3,8 @@ unique-page-id: 2359418
 description: Importare un elenco di persone - Documentazione di Marketo - Documentazione del prodotto
 title: Importa un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -101,7 +102,6 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
    > * Ignora creazione nuova persona
    > * Ignora aggiornamenti campo persona
    > * Ignora registrazione attività
-
 
 1. Mappa il tuo [!UICONTROL Colonna elenco] ai rispettivi campi Marketo e fai clic su **[!UICONTROL Successivo]**.
 

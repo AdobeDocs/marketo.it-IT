@@ -3,7 +3,8 @@ unique-page-id: 2949243
 description: SEO (Search Engine Optimization) - Aggiunta/rimozione di colonne dalla visualizzazione delle parole chiave - Documentazione di Marketo - Documentazione del prodotto
 title: SEO - Aggiungi/Rimuovi colonne dalla visualizzazione Parole chiave
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

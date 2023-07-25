@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147058
-description: Annullare un'esecuzione pianificata di una campagna batch - Marketo Docs - Documentazione del prodotto
+description: Annullare l’esecuzione di una campagna batch pianificata - Documenti Marketo - Documentazione del prodotto
 title: Annullare un’esecuzione di una campagna batch pianificata
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # Annullare un’esecuzione di una campagna batch pianificata {#cancel-a-scheduled-batch-campaign-run}
 
-Se hai pianificato un&#39;esecuzione per una delle campagne batch e desideri annullarla, ecco come.
+Se hai pianificato un’esecuzione per una delle tue campagne batch e desideri annullarla, ecco come.
 
-1. Seleziona la campagna e vai alla **Pianificazione** scheda .
+1. Seleziona la campagna e passa a **Pianificazione** scheda.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Trova l&#39;esecuzione pianificata che desideri annullare e fai clic sul pulsante **x** accanto.
+1. Individuare l&#39;esecuzione pianificata che si desidera annullare e fare clic su **x** accanto.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
@@ -28,4 +29,4 @@ Se hai pianificato un&#39;esecuzione per una delle campagne batch e desideri ann
 
 >[!NOTE]
 >
->Questa operazione non sarà utile se l&#39;esecuzione è già iniziata. Utilizzalo quando decidi che un&#39;esecuzione futura deve essere annullata.
+>Questa operazione non sarà utile se l’esecuzione è già iniziata. Utilizzalo quando decidi che un’esecuzione futura deve essere annullata.

@@ -1,38 +1,39 @@
 ---
 unique-page-id: 11381917
-description: Gestione account di Target - Documenti Marketo - Documentazione del prodotto
-title: Gestione account di Target
+description: Gestione degli account di Target - Documentazione di Marketo - Documentazione del prodotto
+title: Gestione account di destinazione
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
-# Gestione account di Target {#target-account-management-overview}
+# Gestione account di destinazione {#target-account-management-overview}
 
-Addetto al marketing, soddisfa Target Account Management. Gestione account di Target, incontra l’addetto al marketing.
+Addetto marketing, incontra la direzione dell’account Target. Gestione account di Target, incontra l’addetto marketing.
 
 ![](assets/photo-collage.png)
 
-Cos’è la gestione dell’account di Marketo Target?
+Che cos&#39;è la gestione degli account di Marketo Target?
 
-Marketo Target Account Management unisce i team di vendita e marketing per eseguire il targeting e coinvolgere gli account chiave in modo altamente coordinato, colmando il divario tra strategia incentrata sugli account, esecuzione e successo - il tutto all&#39;interno di una singola piattaforma.
+Marketo Target Account Management riunisce i team di vendita e marketing per eseguire il targeting e coinvolgere i principali account in modo altamente coordinato, colmando il divario tra strategia, esecuzione e successo incentrata sull’account - il tutto all’interno di un’unica piattaforma.
 
-Perché utilizzare Gestione account Marketo Target?
+Perché utilizzare Gestione account di Marketo Target?
 
-Marketo unisce il TAM e la gestione dei lead in un’unica soluzione, semplificando l’esecuzione di campagne personalizzate per account e lead in un unico movimento. Puoi anche trarre vantaggio dal raggiungere i principali responsabili decisionali e gli influenzatori delle transazioni.
+Marketo unisce la gestione dei lead e dei TAM in un’unica soluzione, semplificando agli addetti al marketing l’esecuzione di campagne personalizzate per account e lead in un’unica mozione. Puoi anche trarre vantaggio dal raggiungere i decision maker chiave e gli influencer dell&#39;offerta.
 
 Marketo TAM è costituito da tre componenti:
 
 **1) Target**
 
 * Individuazione account
-* Corrispondenza lead-to-account
-* Elenchi account denominati
+* Corrispondenza lead-account
+* Elenchi di account denominati
 
-**2) Coinvolgere**
+**2) Coinvolgi**
 
 * Personalizzazione basata su account
 * Cross-Channel Engagement
@@ -42,22 +43,22 @@ Marketo TAM è costituito da tre componenti:
 
 * Informazioni a livello di account e elenco
 * Punteggio di coinvolgimento dell’account
-* Impatto su pipeline e ricavi
+* Impatto pipeline e ricavi
 
-Marketo Account Based Marketing offre anche vari strumenti per personalizzare l&#39;esperienza dell&#39;account denominato tra i canali.
+Il marketing basato su account Marketo offre anche diversi strumenti per personalizzare l’esperienza dell’account denominato tra i canali.
 
 * Personalizzazione di e-mail e pagine di destinazione
 * Personalizzazione web
 * URL [Personalizzazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 * Annuncio [Personalizzazione](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Personalizzato](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Osservazioni
+* [Personalizzato](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing
 
-Sono dentro! Come inizio?
+Sono dentro! Come si inizia?
 
-Pensavamo che non lo avresti mai chiesto! TAM è disponibile come componente aggiuntivo per il tuo abbonamento Marketo, quindi contatta il tuo rappresentante commerciale per implementarlo. Una volta ottenuto, controlla questo articolo: [Guida introduttiva a TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
+Pensavamo che non avresti mai chiesto! Il TAM è disponibile come componente aggiuntivo per l’abbonamento a Marketo; per favore contatta il tuo rappresentante di vendita per l’implementazione. Una volta ottenuto, consulta questo articolo: [Guida introduttiva a TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
->Gli account denominati gestiti in Marketo TAM sono accessibili direttamente da Web TAM per le esigenze di personalizzazione web. Ulteriori informazioni [qui](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
+>Gli account denominati gestiti in Marketo TAM sono accessibili direttamente da Web TAM per esigenze di personalizzazione web. Ulteriori informazioni [qui](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
 
-Benvenuti in Marketo TAM e godetevi il marketing mirato!
+Benvenuti in Marketo TAM e approfittate del marketing mirato!

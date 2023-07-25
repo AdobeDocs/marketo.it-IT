@@ -1,43 +1,44 @@
 ---
 unique-page-id: 12979223
-description: Configurazione di Insight sull’account - Documenti Marketo - Documentazione del prodotto
-title: Configurare la funzione Approfondimenti account
+description: Configurare l’approfondimento dell’account - Documentazione di Marketo - Documentazione del prodotto
+title: Configurare l’approfondimento dell’account
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Configurare la funzione Approfondimenti account {#set-up-account-insight}
+# Configurare l’approfondimento dell’account {#set-up-account-insight}
 
 Ecco come impostare Account Insight.
 
 >[!PREREQUISITES]
 >
->Punteggio account TAM [deve essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) prima.
+>Punteggio dell’account TAM [deve essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) prima.
 
-1. Fai clic su **Amministratore**.
+1. Clic **Amministratore**.
 
    ![](assets/admin-1.png)
 
-1. Fai clic su **Gestione account di Target** nell&#39;albero, quindi il **Vendite** scheda .
+1. Clic **Gestione account di destinazione** nell&#39;albero, quindi **Vendite** scheda.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Fai clic su **Modifica**.
+1. Clic **Modifica**.
 
    ![](assets/set-up-account-insight-3.png)
 
-1. Fai clic sull’elenco a discesa per scegliere in che modo Account Insight dà priorità agli account denominati e alle persone impegnate.
+1. Fai clic sui menu a discesa per scegliere il modo in cui Insight account assegna priorità agli account denominati e alle persone coinvolte.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Se la [Impostazioni del punteggio account](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) vengono aggiornati in qualsiasi momento; la configurazione in Vendite deve essere aggiornata da un amministratore per assicurarsi che i punteggi riflettano con precisione le preferenze dell&#39;utente. Per visualizzare le modifiche, l’utente deve disconnettersi ed effettuare nuovamente l’accesso.
+   >Se il [Impostazioni punteggio account](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) vengono aggiornate in qualsiasi momento, la configurazione in Vendite deve essere aggiornata da un amministratore per assicurarsi che i punteggi riflettano accuratamente le preferenze dell’utente. L’utente deve disconnettersi ed effettuare di nuovo l’accesso per visualizzare le modifiche.
 
-1. Fai clic su **Salva**.
+1. Clic **Salva**.
 
    ![](assets/five-4.png)

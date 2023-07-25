@@ -3,7 +3,8 @@ unique-page-id: 2360309
 description: Aree di lavoro e partizioni delle persone - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle aree di lavoro e sulle partizioni delle persone
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Partitions, Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 0%

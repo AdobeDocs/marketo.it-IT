@@ -1,9 +1,10 @@
 ---
 unique-page-id: 12981204
-description: Panoramica di Predictive Content Analytics - Documenti Marketo - Documentazione del prodotto
+description: Panoramica di Predictive Content Analytics - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica di Predictive Content Analytics
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Panoramica di Predictive Content Analytics {#predictive-content-analytics-overview}
 
-Utilizza l’analisi dei contenuti per ottenere ulteriori informazioni sui contenuti esistenti, per scoprire (in base all’intelligenza artificiale e agli algoritmi predittivi) quali contenuti funzionano per i tuoi tipi di pubblico e per incrementare il ROI delle tue attività di marketing.
+Utilizza l’analisi dei contenuti per acquisire ulteriori informazioni sui contenuti esistenti, scoprire (in base all’intelligenza artificiale e agli algoritmi predittivi) quali contenuti funzionano per il pubblico e aumentare il ROI derivante dalle attività di marketing.
 
 >[!NOTE]
 >
@@ -20,33 +21,33 @@ Utilizza l’analisi dei contenuti per ottenere ulteriori informazioni sui conte
 
 ## Panoramica {#overview}
 
-Nella pagina Riepilogo, fai clic su **Analytics**.
+Nella pagina Riepilogo fare clic su **Analytics**.
 
 ![](assets/one.png)
 
-Analytics si compone di diverse sezioni: Contenuto principale per visualizzazioni, Contenuto principale per tasso di conversione, Contenuto di tendenza, Contenuto suggerito e Contenuto.
+Analytics comprende diverse sezioni: Contenuto principale per visualizzazioni, Contenuto principale per tasso di conversione, Contenuto di tendenza, Contenuto suggerito e Contenuto.
 
 ![](assets/new-2.png)
 
-Passa il puntatore del mouse sul punto interrogativo in un&#39;intestazione di sezione per ulteriori dettagli.
+Passa il cursore del mouse sul punto interrogativo in un’intestazione di sezione per visualizzare ulteriori dettagli.
 
 ![](assets/new-3.png)
 
-Fai clic sul pulsante di esportazione per esportare i risultati di quella sezione tramite Excel.
+Fai clic sul pulsante Esporta per esportare i risultati di quella sezione tramite Excel.
 
 ![](assets/new-3point5.png)
 
-È possibile filtrare i risultati per vari attributi/proprietà (ad esempio ABM Account List, Country, ecc.).
+Puoi filtrare i risultati per vari attributi/proprietà (ad esempio, Elenco account ABM, Paese, ecc.).
 
 ![](assets/pca.png)
 
-Fai clic sull’icona del calendario per modificare le date dei dati visualizzati. Scegli una quantità di tempo preimpostata o un intervallo di date specifico.
+Fai clic sull’icona del calendario per modificare le date dei dati riflessi. Scegli un periodo di tempo predefinito o un intervallo di date specifico.
 
 ![](assets/dates.png)
 
 ## Contenuto principale per visualizzazioni {#top-content-by-views}
 
-Visualizza le parti di contenuto principali in base al numero di visualizzazioni per l’intervallo di date selezionato.
+Visualizza i contenuti principali in base al numero di visualizzazioni per intervallo di date selezionato.
 
 ![](assets/new-6.png)
 
@@ -60,11 +61,11 @@ Visualizza il contenuto di conversione superiore in base al tasso di conversione
 >
 >**Definizione**
 >
->**Tasso di conversione**: Una percentuale calcolata per conversioni dirette divise per clic.
+>**Tasso di conversione**: percentuale calcolata dividendo le conversioni dirette per i clic.
 
 ## Contenuto di tendenza {#trending-content}
 
-Mostra l’aumento di popolarità di un elemento di contenuto osservando l’ultimo aumento di due settimane nelle visualizzazioni rispetto allo stesso periodo precedente.
+Mostra l’aumento di popolarità di un contenuto osservando l’aumento di visualizzazioni delle ultime due settimane rispetto allo stesso periodo precedente.
 
 ![](assets/new-8.png)
 
@@ -74,22 +75,22 @@ Visualizza il contenuto che ti consigliamo di promuovere nelle attività di mark
 
 ![](assets/image2017-10-3-10-3a18-3a35.png)
 
-Passa il puntatore del mouse su un&#39;immagine in Contenuti consigliati per visualizzare le opzioni disponibili.
+Passa il puntatore del mouse su un’immagine in Contenuto consigliato per visualizzare le opzioni disponibili.
 
 ![](assets/image2017-10-3-10-3a21-3a37.png)
 
 >[!NOTE]
 >
->Vedete quelle icone in basso? Da sinistra a destra sono: Visualizza contenuto, Esporta in CSV, Approva contenuto.
+>Vedi quelle icone in basso? Da sinistra a destra sono: Visualizza contenuto, Esporta in CSV, Approva contenuto.
 
 ## Contenuto {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Cerca il contenuto desiderato e fai clic su di esso per visualizzare ulteriori dettagli, tra cui: i visitatori che lo visualizzano, nuovi rispetto al ritorno, noti e anonimi, le posizioni principali da cui provengono i visitatori durante la visualizzazione del contenuto e le principali industrie dedotte da cui provengono.
+Cerca il contenuto desiderato e fai clic su di esso per visualizzare ulteriori dettagli, tra cui: i visitatori che lo visualizzano, quelli nuovi rispetto a quelli di ritorno, noti e anonimi, le posizioni principali da cui provengono i visitatori quando visualizzano il contenuto e i principali settori dedotti da cui provengono.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 
 >[!NOTE]
 >
->Contenuto simile si basa sul contenuto selezionato e viene calcolato da un algoritmo delle regole di associazione. I risultati rappresentano parti di contenuto su cui i visitatori probabilmente faranno clic, a seconda del pezzo selezionato e del comportamento del visitatore precedente. Non tiene conto del filtro o dell’intervallo di date.
+>Un contenuto simile si basa sulla parte di contenuto selezionata e viene calcolato da un algoritmo delle regole di associazione. I risultati rappresentano parti di contenuto su cui i visitatori faranno probabilmente clic, a seconda della parte selezionata e del comportamento del visitatore passato. Non tiene conto del filtro o dell’intervallo di date.

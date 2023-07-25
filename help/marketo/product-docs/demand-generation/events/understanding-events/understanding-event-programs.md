@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2949841
-description: Informazioni sui programmi degli eventi - Documentazione di Marketo - Documentazione del prodotto
+description: Informazioni sui programmi di eventi - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sui programmi evento
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -14,11 +15,11 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
+>Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
 
 ## Panoramica {#overview}
 
-Un programma evento è un tipo di programma che può essere utilizzato per automatizzare gli eventi offline o online. Considera un programma di eventi come qualsiasi cosa che abbia partecipanti a una data e a un&#39;ora specifiche.
+Un programma di eventi è un tipo di programma che può essere utilizzato per automatizzare gli eventi offline o online. Considera un programma evento come qualsiasi cosa che abbia partecipanti in una data e un’ora specifiche.
 
 >[!NOTE]
 >
@@ -26,15 +27,13 @@ Un programma evento è un tipo di programma che può essere utilizzato per autom
 >
 >* Webinar
 >* Parti
->* Fiere commerciali
+>* Fiere
 >* Riunioni
 
-
-Gli eventi possono connettersi automaticamente al tuo [provider di webinar](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) e sincronizzato con un [App di archiviazione iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Gli eventi possono connettersi automaticamente al tuo [provider webinar](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) nonché sincronizzare con un [App di check-in iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
 >* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [Partner evento LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
-
+>* [Partner eventi LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

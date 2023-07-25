@@ -1,38 +1,39 @@
 ---
 unique-page-id: 1147102
-description: Creazione di una voce nella vista Pianificazione del programma - Marketo Docs - Documentazione del prodotto
-title: Creazione di una voce nella vista Pianificazione del programma
+description: Creazione di una voce nella visualizzazione Pianificazione programma - Documenti Marketo - Documentazione del prodotto
+title: Creazione di una voce nella vista Programmazione programma
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-# Creazione di una voce nella vista Pianificazione del programma {#creating-an-entry-in-the-program-schedule-view}
+# Creazione di una voce nella vista Programmazione programma {#creating-an-entry-in-the-program-schedule-view}
 
-È possibile creare voci dall&#39;interno della visualizzazione di programmazione del programma per completare un programma esistente.
+È possibile creare voci all&#39;interno della vista programmazione del programma per integrare un programma esistente.
 
-## Crea una voce di base {#create-a-basic-entry}
+## Creare una voce di base {#create-a-basic-entry}
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare il programma. Fai clic sul pulsante **Visualizza** a discesa. Seleziona **Pianificazione**.
+1. Seleziona il programma. Fai clic su **Visualizza** a discesa. Seleziona **Pianificazione**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
-1. Fai clic su un giorno a cui aggiungere la voce.
+1. Fare clic su un giorno a cui aggiungere la voce.
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Denomina la voce. Press **Invio** per confermare il nome.
+1. Denomina la voce. Premi **Invio** per confermare il nome.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
-1. Seleziona la data/ora di inizio e di fine della nuova voce.
+1. Selezionare la data/ora di inizio e di fine della nuova voce.
 
    ![](assets/image2014-9-16-9-3a23-3a39.png)
 
@@ -40,17 +41,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Immetti la descrizione e fai clic su **Salva**.
+1. Inserisci la descrizione e fai clic su **Salva**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
-1. Passa il puntatore sull’icona della descrizione per visualizzare la descrizione della voce.
+1. Passa il puntatore del mouse sull&#39;icona della descrizione per visualizzare la descrizione della voce.
 
    ![](assets/image2014-9-16-9-3a25-3a51.png)
 
 ## Cambia tipo di voce {#change-entry-type}
 
-1. Seleziona una voce di base dal **Agenda** visualizza.
+1. Selezionare una voce di base dalla **Agenda** visualizzazione.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
@@ -58,14 +59,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Da fare è un [voce personalizzata](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Puoi creare un To-do e altre voci personalizzate per tenere traccia degli elementi dell’agenda non Marketo.
+   >Da fare è un [voce personalizzata](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Puoi creare una sezione da fare e altre voci personalizzate per tenere traccia di voci dell’agenda non Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
-   Calmo! Dovresti visualizzare immediatamente le modifiche.
+   Fantastico! Dovresti vedere le modifiche immediatamente.
 
    ![](assets/image2014-9-16-9-3a27-3a21.png)
 
 >[!NOTE]
 >
-> Puoi anche creare un [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o [programma di posta elettronica](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) dalla vista Pianificazione.
+> Puoi anche creare una [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o [programma e-mail](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) dalla vista pianificazione.

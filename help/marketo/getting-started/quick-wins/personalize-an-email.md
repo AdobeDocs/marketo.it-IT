@@ -3,7 +3,8 @@ unique-page-id: 2359422
 description: Personalizzazione di un’e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Personalizzazione di un’e-mail
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Invia un&#39;esplosione e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
 >* [Goccia, Goccia, Alimentazione](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
-
 
 ## Passaggio 1: selezionare un messaggio e-mail da personalizzare {#step-select-an-email-to-personalize}
 

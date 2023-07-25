@@ -1,9 +1,10 @@
 ---
 unique-page-id: 30081250
-description: Gestione dei gruppi - Documenti Marketo - Documentazione del prodotto
+description: Gestire i gruppi - Documentazione di Marketo - Documentazione del prodotto
 title: Gestisci gruppi
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -16,7 +17,7 @@ Scopri come gestire i gruppi in Sales Connect.
 
 ## Creare un gruppo {#create-a-group}
 
-1. Nella pagina Persone, fai clic sul pulsante **+** accanto a Gruppi.
+1. Nella pagina Persone, fai clic su **+** accanto a Gruppi.
 
    ![](assets/one-4.png)
 
@@ -26,21 +27,21 @@ Scopri come gestire i gruppi in Sales Connect.
 
    Tutto qui!
 
-## Aggiungi contatti a un gruppo {#add-contacts-to-a-group}
+## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
 
-1. Nella pagina Persone , individua e seleziona il gruppo a cui desideri aggiungere le persone.
+1. Nella pagina Persone individuare e selezionare il gruppo a cui si desidera aggiungere le persone.
 
    ![](assets/three-3.png)
 
-1. Fai clic su **Azioni gruppo** e seleziona **Crea contatto**.
+1. Clic **Azioni gruppo** e seleziona **Crea contatto**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Questo aggiungerà un contatto alla volta. Per aggiungere più contatti contemporaneamente, segui [questi passaggi](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, eseguire le operazioni seguenti [questi passaggi](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Compila le informazioni del contatto e fai clic su **Crea** o **Crea e aggiungi nuovo** per aggiungere un altro).
+1. Inserisci le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
 
    ![](assets/five-3.png)
 
@@ -48,11 +49,11 @@ Scopri come gestire i gruppi in Sales Connect.
 
    >[!NOTE]
    >
-   >Potrebbe essere necessario premere l&#39;aggiornamento per visualizzare eventuali nuovi contatti aggiunti.
+   >Per visualizzare i nuovi contatti aggiunti, potrebbe essere necessario premere Aggiorna.
 
-## Condivisione di un gruppo {#share-a-group}
+## Condividere un gruppo {#share-a-group}
 
-1. Nella pagina Persone, individua e seleziona il gruppo da condividere.
+1. Nella pagina Persone individuare e selezionare il gruppo che si desidera condividere.
 
    ![](assets/six.png)
 
@@ -60,19 +61,19 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/seven.png)
 
-1. Fai clic sull’elenco a discesa e scegli il team con cui desideri condividere il gruppo.
+1. Fai clic sull’elenco a discesa e scegli il team con cui vuoi condividere il gruppo.
 
    ![](assets/eight.png)
 
-1. Fai clic su **Condividi**.
+1. Clic **Condividi**.
 
    ![](assets/nine.png)
 
-   Il gruppo è ancora di proprietà, ma verrà visualizzato in Gruppi team.
+   Il gruppo è ancora di tua proprietà, ma ora verrà visualizzato in Gruppi di team.
 
 ## Annullare la condivisione di un gruppo {#unshare-a-group}
 
-1. Nella pagina Persone , individua e seleziona il gruppo di cui desideri annullare la condivisione.
+1. Nella pagina Persone individuare e selezionare il gruppo che si desidera annullare la condivisione.
 
    ![](assets/ten.png)
 
@@ -80,15 +81,15 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/eleven.png)
 
-1. Fai clic sul pulsante **X** accanto al team con cui hai condiviso il gruppo, quindi fai clic su fuori dal modale.
+1. Fai clic su **X** accanto al team con cui hai condiviso il gruppo, quindi fai clic su fuori dal modale.
 
    ![](assets/twelve.png)
 
-   Il gruppo ora non è condiviso.
+   Il gruppo non è più condiviso.
 
-## Rinomina un gruppo {#rename-a-group}
+## Rinominare un gruppo {#rename-a-group}
 
-1. Nella pagina Persone, individuare e selezionare il gruppo da rinominare.
+1. Nella pagina Persone individuare e selezionare il gruppo da rinominare.
 
    ![](assets/six.png)
 
@@ -102,7 +103,7 @@ Scopri come gestire i gruppi in Sales Connect.
 
 ## Eliminare un gruppo {#delete-a-group}
 
-1. Nella pagina Persone, individua e seleziona il gruppo da eliminare.
+1. Nella pagina Persone individuare e selezionare il gruppo che si desidera eliminare.
 
    ![](assets/fifteen.png)
 
@@ -110,6 +111,6 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/sixteen.png)
 
-1. Fai clic su **Elimina** per confermare.
+1. Clic **Elimina** per confermare.
 
    ![](assets/seventeen.png)

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359873
-description: Eliminare un'immagine o un file caricato - Documenti Marketo - Documentazione del prodotto
+description: Eliminare un’immagine o un file caricato - Documentazione di Marketo - Documentazione del prodotto
 title: Eliminare un'immagine o un file caricato
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Fai clic sul pulsante **Azioni file** a discesa e seleziona **Elimina**.
+1. Fai clic su **Azioni file** a discesa e selezionare **Elimina**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
@@ -30,9 +31,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Le immagini e i file eliminati vengono rimossi completamente da Marketo e non possono essere recuperati.  Non verranno più visualizzati su alcuna pagina di destinazione o e-mail in cui erano in uso.
+   >Le immagini e i file eliminati vengono rimossi completamente da Marketo e non possono essere recuperati.  Non verranno più visualizzati sulle pagine di destinazione o sulle e-mail in cui erano in uso.
 
-1. Verrai restituito al **Immagini** e **File** pagina, in cui vedrai che il tuo file è stato eliminato.
+1. Verrai riportato al **Immagini** e **File** pagina, in cui si noterà che il file è stato eliminato.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
@@ -41,6 +42,5 @@ Ben fatto!
 >[!MORELIKETHIS]
 >
 >* [Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Ricerca di immagini e file caricati](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Trova l&#39;URL di un&#39;immagine o di un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
-
+>* [Cerca immagini e file caricati](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [Trovare l’URL di un’immagine o di un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)

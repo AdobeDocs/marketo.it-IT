@@ -1,25 +1,26 @@
 ---
 unique-page-id: 14352435
-description: Le chiamate non effettuano la registrazione a Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Le chiamate non vengono registrate in Salesforce
+description: Le chiamate non si registrano in Salesforce - Documentazione Marketo - Documentazione del prodotto
+title: Le chiamate non si registrano in Salesforce
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Le chiamate non vengono registrate in Salesforce {#calls-arent-logging-to-salesforce}
+# Le chiamate non si registrano in Salesforce {#calls-arent-logging-to-salesforce}
 
-Se desideri che le tue chiamate dal telefono di vendita siano automaticamente registrate a Salesforce, assicurati che sia presente quanto segue.
+Se desideri che le tue chiamate dal telefono di vendita vengano automaticamente registrate in Salesforce, assicurati che siano presenti le seguenti condizioni.
 
-Sarà necessario che il tuo account di vendita Connect sia collegato al tuo [Conto Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) tramite la connessione API.
+Sarà necessario che l&#39;account Sales Connect sia connesso al [Account Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) tramite la connessione API.
 
-Se si chiama da [applicazione web](https://toutapp.com/login), sarà necessario salvare un ID Salesforce in quel contatto. [Fai clic qui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) per vedere come è possibile assicurarsi che tutti i contatti di vendita Connect siano associati a un ID Salesforce.
+Se stai chiamando da [applicazione web](https://toutapp.com/login), dovrai salvare un ID Salesforce su quel contatto. [Fai clic qui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) per verificare come è possibile assicurarsi che a tutti i contatti di Sales Connect sia associato un ID Salesforce.
 
 >[!NOTE]
 >
->Assicurati di avere &quot;Call&quot; nella lista di selezione dei tipi di attività per ottenere rapporti precisi e semplici in Salesforce.
+>Assicurati di avere &quot;Chiamata&quot; nell’elenco a discesa Tipo di attività per una segnalazione accurata e semplice in Salesforce.
 
-Una volta che questo è attivo, vedrai un&#39;attività creata nella sezione Cronologia attività di Salesforce.
+Una volta impostato, vedrai un Task creato nella sezione Cronologia attività di Salesforce.

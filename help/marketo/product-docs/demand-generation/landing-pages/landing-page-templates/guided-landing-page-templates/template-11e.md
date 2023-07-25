@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437568
-description: Modello 11E - Documenti Marketo - Documentazione del prodotto
+description: Modello 11E - Documentazione Marketo - Documentazione del prodotto
 title: Modello 11E
 exl-id: fd45b28b-1d2c-489b-a16d-810ab0a43873
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -12,16 +13,16 @@ ht-degree: 0%
 
 # Modello 11E {#template-11e}
 
-Fai clic con il pulsante destro del mouse per [scarica modello 11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+Fare clic con il pulsante destro del mouse per [scarica modello 11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
-Questo modello include il seguente contenuto:
+Questo modello include i seguenti contenuti:
 
-* Intestazione A (opzionale)
+* Intestazione A (facoltativa)
 * Una sezione primaria
 
-   * Include titolo, testo e sweep
+   * Include titolo, testo e punteggi
 
 * Quattro sezioni del corpo (facoltativo)
 * Piè di pagina (facoltativo)

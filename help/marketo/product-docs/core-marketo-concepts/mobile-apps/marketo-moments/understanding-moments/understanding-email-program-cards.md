@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8781911
-description: Informazioni sulle schede dei programmi e-mail - Documenti Marketo - Documentazione del prodotto
+description: Informazioni sulle schede del programma e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle schede del programma e-mail
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -12,27 +13,27 @@ ht-degree: 0%
 
 # Informazioni sulle schede del programma e-mail {#understanding-email-program-cards}
 
-Utilizza Marketo Moments per visualizzare i tuoi programmi e-mail dal telefono o iPad.
+Utilizza Marketo Moments per visualizzare i programmi e-mail dal telefono o da iPad.
 
-## Schede del programma e-mail {#email-program-cards}
+## Schede programma e-mail {#email-program-cards}
 
-Quando tocchi una scheda del programma e-mail puoi:
+Quando tocchi una scheda del programma e-mail, puoi:
 
-* [Rendere un&#39;e-mail un preferito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Contrassegna un’e-mail come completata](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Condividi una scheda momento e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Imposta un messaggio e-mail come preferito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Contrassegna un messaggio e-mail come completato](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Condivisione di una scheda dei momenti e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Sulla scheda di un programma e-mail per un’e-mail non ancora inviata, troverai informazioni sullo stato e il pubblico del programma e-mail.
+In una scheda del programma e-mail per un messaggio e-mail non ancora inviato, troverai informazioni sullo stato e sul pubblico del programma e-mail.
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
-Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti, tra cui il numero di e-mail inviate, le azioni dei destinatari e un collegamento all’elenco avanzato utilizzato nella campagna.
+Dopo l’invio dell’e-mail, la scheda mostra altre informazioni importanti, tra cui il numero di e-mail consegnate, le azioni dei destinatari e un collegamento all’elenco avanzato utilizzato nella campagna.
 
 ![](assets/image2015-9-25-10-3a5-3a29.png)
 
 ## Conferma di una scheda e-mail {#confirming-an-email-card}
 
-1. Per confermare una scheda e-mail non confermata, tocca il menu a tre punti.
+1. Per confermare una scheda e-mail non confermata, tocca il menu con tre punti.
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
@@ -40,7 +41,7 @@ Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tocca **Conferma** per completare il lavoro, oppure **Non importa** se avesse avuto dei ripensamenti.
+1. Tocca **Conferma** per terminare il lavoro, oppure **Non importa** se ha avuto dei ripensamenti.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -50,7 +51,7 @@ Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti
 
 ## Annullamento dell’invio di una scheda e-mail {#canceling-an-email-card-send}
 
-1. Se decidi di non inviare l’e-mail confermata, tocca il menu a tre punti.
+1. Se decidi di non inviare l’e-mail confermata, tocca il menu con tre punti.
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
@@ -60,7 +61,7 @@ Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti
 
 ## Riprogrammazione di una scheda e-mail {#rescheduling-an-email-card}
 
-È possibile riprogrammare le schede e-mail confermate o non confermate.
+Puoi riprogrammare le schede e-mail confermate o non confermate.
 
 >[!NOTE]
 >
@@ -78,13 +79,13 @@ Dopo l’invio dell’e-mail, la scheda visualizza altre informazioni importanti
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   Se hai un servizio wireless, puoi riprogrammare da qualsiasi luogo!
+   Se si dispone di un servizio wireless, è possibile riprogrammare da qualsiasi luogo.
 
-## Invio di un esempio {#sending-a-sample}
+## Invio di un campione {#sending-a-sample}
 
-Puoi condividere un esempio di momento e-mail direttamente con un utente.
+Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcuno.
 
-1. Apri il menu della scheda.
+1. Apri il menu Scheda.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
@@ -92,19 +93,19 @@ Puoi condividere un esempio di momento e-mail direttamente con un utente.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Immetti un indirizzo e-mail e fai clic su **Invia esempio**.
+1. Inserisci un indirizzo e-mail e fai clic su **Invia esempio**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Anteprima di un messaggio e-mail {#previewing-an-email}
+## Anteprima di un’e-mail {#previewing-an-email}
 
-Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarla in anteprima.
+Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l’anteprima.
 
 1. Tocca **Anteprima e-mail**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   In questo modo, sai che la tua e-mail è perfetta prima di premere il trigger!
+   In questo modo, sai che la tua e-mail è perfetta prima di premere il grilletto!
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
@@ -114,7 +115,6 @@ E questo è lo scoop sulla visualizzazione delle tue campagne e-mail. Ora, sei u
 
 >[!MORELIKETHIS]
 >
->* [I momenti di Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Informazioni su Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Informazioni sulle schede evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Informazioni sulle schede di Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
-

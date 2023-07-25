@@ -1,8 +1,9 @@
 ---
-description: Aggiungi la scheda Marketo a Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Aggiunta della scheda Marketo a Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Aggiungi scheda Marketo a Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
-source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Aggiungi scheda Marketo a Salesforce {#add-marketo-tab-to-salesforce}
 
-1. In Salesforce, fai clic su **+** e fai clic su **Personalizzare le schede**.
+1. In Salesforce, fai clic su **+** e fai clic su **Personalizza schede personali**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
@@ -19,10 +20,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Utilizza la **Su** e **Giù** freccia per riordinare le schede.
+   >Utilizza il **Su** e **Giù** freccia per riordinare le schede.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 
-   Ed ecco la tua scheda Marketo!
+   E qui è la tua scheda Marketo!
 
    ![](assets/add-marketo-tab-to-salesforce-3.png)

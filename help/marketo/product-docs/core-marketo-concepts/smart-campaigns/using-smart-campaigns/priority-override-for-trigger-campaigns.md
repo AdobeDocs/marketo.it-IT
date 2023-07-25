@@ -1,61 +1,61 @@
 ---
-description: Override prioritario per campagne trigger - Documenti Marketo - Documentazione del prodotto
-title: Override prioritario per le campagne trigger
+description: Sovrascrittura delle priorità per le campagne Trigger - Documenti Marketo - Documentazione del prodotto
+title: Sovrascrittura priorità per campagne trigger
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-# Override prioritario per le campagne trigger {#priority-override-for-trigger-campaigns}
+# Sovrascrittura priorità per campagne trigger {#priority-override-for-trigger-campaigns}
 
-Gli amministratori possono ignorare la priorità determinata di Marketo per attivare le campagne al fine di impostare priorità più allineate con gli obiettivi aziendali.
+Gli amministratori possono ignorare la determinata priorità di Marketo per attivare campagne per impostare priorità che si allineano meglio agli obiettivi aziendali.
 
 >[!NOTE]
 >
->Questa funzione è disponibile solo per le campagne di attivazione e per gli utenti a cui è stato concesso il [Autorizzazione &quot;Modifica priorità impulso campagna&quot;](#grant-priority-override-access).
+>Questa funzione è disponibile solo per le campagne trigger e per gli utenti a cui è stato concesso il [Autorizzazione &quot;Modifica priorità campagna trigger&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >
->È consigliabile utilizzare questa funzione in un set limitato di campagne business critical (25 è il massimo consigliato). L’utilizzo approssimativo della funzione su un set di grandi dimensioni può influenzare negativamente l’esecuzione complessiva della campagna.
+>Si consiglia vivamente di utilizzare questa funzione su un set limitato di campagne aziendali critiche (25 è il massimo consigliato). L’utilizzo generico della funzione su un set di grandi dimensioni può influire negativamente sull’esecuzione complessiva della campagna.
 
-## Accesso alla priorità di sovvenzione {#grant-priority-override-access}
+## Concedi accesso di sostituzione priorità {#grant-priority-override-access}
 
 >[!NOTE]
 >
->Solo gli amministratori o gli utenti con responsabilità di amministratore devono avere la priorità della campagna che sovrascrivono l’accesso.
+>Solo gli amministratori o gli utenti con responsabilità di amministratore devono avere accesso con priorità alla sostituzione della campagna.
 
-1. In [!UICONTROL Amministratore] area, fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. In [!UICONTROL Amministratore] , fare clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Ruoli]** selezionare l&#39;utente a cui si desidera concedere l&#39;accesso, quindi fare clic su **[!UICONTROL Modifica ruolo]**.
+1. Fai clic su **[!UICONTROL Ruoli]** , selezionare l&#39;utente a cui si desidera concedere l&#39;accesso, quindi fare clic su **[!UICONTROL Modifica Ruolo]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Sotto [!UICONTROL Accedere alle attività di marketing], seleziona **[!UICONTROL Modifica priorità campagna trigger]**. Fai clic su **[!UICONTROL Salva]**.
+1. Sotto [!UICONTROL Accedere alle attività di marketing], seleziona **[!UICONTROL Modifica Priorità Campagna Attivatore]**. Clic **[!UICONTROL Salva]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
-## Ignora priorità {#override-priority}
+## Sovrascrivi priorità {#override-priority}
 
-1. Individua la campagna trigger. Fai clic con il pulsante destro del mouse su di esso e seleziona **[!UICONTROL Ignora priorità campagna]**.
+1. Individua la campagna trigger. Fai clic con il pulsante destro del mouse e seleziona (Confronta periodi di tempo) **[!UICONTROL Ignora priorità campagna]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Ignora priorità campagna]** cursore per attivare. Scegli un nuovo livello di priorità e fai clic su **[!UICONTROL Conferma]**.
+1. Fai clic su **[!UICONTROL Ignora priorità campagna]** cursore per l&#39;attivazione. Scegli un nuovo livello di priorità e fai clic su **[!UICONTROL Conferma]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
-   Il nuovo livello di priorità verrà visualizzato nella scheda Pianificazione .
+   Il nuovo livello di priorità viene visualizzato nella scheda Pianificazione.
 
    ![](assets/priority-override-for-trigger-campaigns-6.png)
 
 >[!NOTE]
 >
->* Puoi visualizzare la priorità predefinita della campagna nella [!UICONTROL Coda campagna] sotto [!UICONTROL Attività di marketing]. Per incrementare il tasso di esecuzione, ti consigliamo di impostare la priorità della campagna su un livello superiore rispetto a quello predefinito.
->* La priorità definita dall&#39;utente si applica solo alle nuove persone che si qualificano per la campagna; le persone già in coda non saranno interessate.
->* Le sostituzioni prioritarie vengono acquisite in [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
-
+>* Puoi visualizzare la priorità predefinita della campagna in [!UICONTROL Coda campagna] in [!UICONTROL Attività di marketing]. Per aumentare il tasso di esecuzione, si consiglia di impostare la priorità della campagna su un livello più alto del valore predefinito.
+>* La priorità impostata dall&#39;utente si applica solo alle nuove persone che si qualificano per la campagna; le persone già in coda non saranno interessate.
+>* Le sostituzioni di priorità vengono acquisite in [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).

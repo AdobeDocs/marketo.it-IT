@@ -1,8 +1,9 @@
 ---
-description: Gestione dei gruppi - Documenti Marketo - Documentazione del prodotto
+description: Gestire i gruppi - Documentazione di Marketo - Documentazione del prodotto
 title: Gestisci gruppi
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 0%
@@ -11,9 +12,9 @@ ht-degree: 0%
 
 # Gestisci gruppi {#manage-groups}
 
-Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
+Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
-## Tipi di gruppi {#group-types}
+## Tipi di gruppo {#group-types}
 
 <table> 
  <colgroup> 
@@ -27,26 +28,26 @@ Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
   </tr> 
   <tr> 
    <td>Tutte le persone</td> 
-   <td>Tutti i contatti di tutti gli utenti che sono visibili a voi.</td> 
+   <td>Tutti i contatti di tutti gli utenti visibili.</td> 
   </tr> 
   <tr> 
    <td>Gruppi dinamici</td> 
-   <td>Contatti personali: Tutti i contatti che possiedi.<br>Annulla sottoscrizione: Contatti che hanno rinunciato a ricevere la corrispondenza.</td> 
+   <td>Contatti personali: tutti i contatti di cui si è proprietari.<br>Annullamenti iscrizione: contatti che hanno rinunciato a ricevere corrispondenza.</td> 
   </tr> 
   <tr> 
-   <td>Gruppi personali</td> 
-   <td>Gruppi creati. Possono contenere i tuoi contatti o contatti che sono stati condivisi con te.</td> 
+   <td>I miei gruppi</td> 
+   <td>Gruppi creati. Possono contenere i tuoi contatti o i contatti condivisi con te.</td> 
   </tr> 
   <tr> 
    <td>Gruppi di team</td> 
-   <td>Gruppi condivisi con e/o da te. Possono contenere contatti propri dei tuoi compagni di squadra o contatti che hai condiviso con loro.</td> 
+   <td>Gruppi che sono stati condivisi con e/o da te. Possono contenere i contatti di proprietà dei tuoi colleghi o quelli che hai condiviso con loro.</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Creare un gruppo {#create-a-group}
 
-1. Nella pagina Persone, fai clic sul pulsante **+** accanto a Gruppi.
+1. Nella pagina Persone, fai clic su **+** accanto a Gruppi.
 
    ![](assets/manage-groups-1.png)
 
@@ -56,21 +57,21 @@ Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
 
    Tutto qui!
 
-## Aggiungi contatti a un gruppo {#add-contacts-to-a-group}
+## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
 
-1. Nella pagina Persone , individua e seleziona il gruppo a cui desideri aggiungere le persone.
+1. Nella pagina Persone individuare e selezionare il gruppo a cui si desidera aggiungere le persone.
 
    ![](assets/manage-groups-3.png)
 
-1. Fai clic su **Azioni gruppo** e seleziona **Crea contatto e aggiungi al gruppo**.
+1. Clic **Azioni gruppo** e seleziona **Crea contatto e aggiungi al gruppo**.
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >Questo aggiungerà un contatto alla volta. Per aggiungere più contatti contemporaneamente, segui [questi passaggi](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, eseguire le operazioni seguenti [questi passaggi](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Compila le informazioni del contatto e fai clic su **Crea** o **Crea e aggiungi nuovo** per aggiungere un altro).
+1. Inserisci le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
 
    ![](assets/manage-groups-5.png)
 
@@ -78,11 +79,11 @@ Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
 
    >[!NOTE]
    >
-   >Potrebbe essere necessario premere l&#39;aggiornamento per visualizzare eventuali nuovi contatti aggiunti.
+   >Per visualizzare i nuovi contatti aggiunti, potrebbe essere necessario premere Aggiorna.
 
-## Condivisione di un gruppo {#share-a-group}
+## Condividere un gruppo {#share-a-group}
 
-1. Nella pagina Persone, individua e seleziona il gruppo da condividere.
+1. Nella pagina Persone individuare e selezionare il gruppo che si desidera condividere.
 
    ![](assets/manage-groups-6.png)
 
@@ -94,11 +95,11 @@ Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
 
    ![](assets/manage-groups-8.png)
 
-   Il gruppo è ancora di proprietà, ma verrà visualizzato sotto _Gruppi di team_.
+   Il gruppo è ancora di tua proprietà, ma ora verrà visualizzato in _Gruppi di team_.
 
 ## Annullare la condivisione di un gruppo {#unshare-a-group}
 
-1. Nella pagina Persone , individua e seleziona il gruppo di cui desideri annullare la condivisione.
+1. Nella pagina Persone individuare e selezionare il gruppo che si desidera annullare la condivisione.
 
    ![](assets/manage-groups-9.png)
 
@@ -106,15 +107,15 @@ Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
 
    ![](assets/manage-groups-10.png)
 
-1. Fai clic sul pulsante **X** accanto al team con cui hai condiviso il gruppo, quindi fai clic su fuori dal modale.
+1. Fai clic su **X** accanto al team con cui hai condiviso il gruppo, quindi fai clic su fuori dal modale.
 
    ![](assets/manage-groups-11.png)
 
-   Il gruppo ora non è condiviso.
+   Il gruppo non è più condiviso.
 
-## Rinomina un gruppo {#rename-a-group}
+## Rinominare un gruppo {#rename-a-group}
 
-1. Nella pagina Persone, individuare e selezionare il gruppo da rinominare.
+1. Nella pagina Persone individuare e selezionare il gruppo da rinominare.
 
    ![](assets/manage-groups-12.png)
 
@@ -122,13 +123,13 @@ Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
 
    ![](assets/manage-groups-13.png)
 
-1. Digitare il nuovo nome e fare clic su **Salva**.
+1. Digita il nuovo nome e fai clic su **Salva**.
 
    ![](assets/manage-groups-14.png)
 
 ## Eliminare un gruppo {#delete-a-group}
 
-1. Nella pagina Persone, individua e seleziona il gruppo da eliminare.
+1. Nella pagina Persone individuare e selezionare il gruppo che si desidera eliminare.
 
    ![](assets/manage-groups-15.png)
 
@@ -136,6 +137,6 @@ Scopri come gestire i gruppi in Azioni Approfondimenti vendite.
 
    ![](assets/manage-groups-16.png)
 
-1. Fai clic su **Elimina** per confermare.
+1. Clic **Elimina** per confermare.
 
    ![](assets/manage-groups-17.png)

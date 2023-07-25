@@ -1,43 +1,44 @@
 ---
 unique-page-id: 10096683
-description: Aggiornamenti alla registrazione degli eventi ON24 - Documenti Marketo - Documentazione del prodotto
-title: Aggiornamenti alla registrazione degli eventi ON24
+description: Aggiornamenti alla registrazione di eventi ON24 - Documentazione di Marketo - Documentazione del prodotto
+title: Aggiornamenti alla registrazione dell'evento ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-# Aggiornamenti alla registrazione degli eventi ON24 {#on-event-registration-updates}
+# Aggiornamenti alla registrazione dell&#39;evento ON24 {#on-event-registration-updates}
 
 ## Approvazione manuale dei dichiaranti {#manually-approving-registrants}
 
-Puoi approvare manualmente i registranti prima di inviare loro un messaggio e-mail di conferma. A questo scopo, dovrai configurare le campagne per gestire questo passaggio aggiuntivo:
+Puoi approvare manualmente i tuoi iscritti prima di inviare loro un messaggio e-mail di conferma. A tal fine, dovrai configurare le campagne per gestire questo passaggio aggiuntivo:
 
-1. Per la campagna di attivazione della registrazione:
+1. Per la campagna Trigger registrazione:
 
-   * Nell’elenco avanzato, imposta il trigger su **Riempie il modulo**.
-   * Nel flusso, imposta lo stato in progressivo su **Approvazione in sospeso**.
+   * Nell’elenco avanzato, imposta il trigger su **Compila modulo**.
+   * Nel flusso, imposta lo stato in Progressione su **In attesa di approvazione**.
 
-1. Vai all’evento e fai clic sul pulsante **Membri** scheda . In questa scheda vengono visualizzate tutte le persone che hanno compilato il modulo. Il loro stato deve essere impostato su **Approvazione in sospeso**.
-1. Utilizza il filtro nella parte superiore della griglia per visualizzare solo le persone con uno stato **Approvazione in sospeso**.
-1. Selezionare le persone da registrare (MAIUSC+clic, CTRL+clic o Seleziona tutto).
-1. Dal menu , fai clic su **Cambia stato**. Seleziona **Registrato**, **Rifiutato** o qualsiasi altro stato applicabile.
+1. Vai all’evento e fai clic su **Membri** scheda. In questa scheda vengono visualizzate tutte le persone che hanno compilato il modulo. Il loro stato deve essere impostato su **In attesa di approvazione**.
+1. Utilizza il filtro nella parte superiore della griglia per visualizzare solo le persone con lo stato **In attesa di approvazione**.
+1. Selezionare le persone da registrare (Maiusc-clic, Ctrl-clic o Seleziona tutto).
+1. Dal menu, fai clic su **Modifica stato**. Seleziona **Registrato**, **Rifiutato** o qualsiasi altro stato applicabile.
 
 ## Gestione delle persone con un errore di registrazione {#handling-people-with-a-registration-error}
 
-Se una persona finisce per non essere registrata, ma piuttosto impostato sullo stato Errore di registrazione, non è troppo tardi per recuperare.
+Se una persona alla fine non viene registrata, ma piuttosto impostata sullo stato Errore di registrazione, non è troppo tardi per recuperare.
 
-1. Dalla scheda Membri , filtra l’elenco delle persone con lo stato **Errore di registrazione**.
-1. Prima di continuare, assicurati di aver determinato e risolto il problema relativo all&#39;integrazione (controlla che non ci siano errori in **Partner eventi** in Admin).
-1. Una volta risolto il problema, seleziona tutte le persone con lo stato Errore di registrazione e cambia il loro stato in **Registrato**. Si cercherà di registrarli nuovamente con ON24.
+1. Dalla scheda Membri, filtrare l&#39;elenco di persone con lo stato **Errore di registrazione**.
+1. Prima di continuare, accertati di aver determinato e risolto il problema con l’integrazione (verifica che non vi siano errori in ). **Partner evento** in Admin).
+1. Dopo aver risolto il problema, seleziona tutte le persone con lo stato Errore di registrazione e modificane lo stato in **Registrato**. Verrà eseguito un nuovo tentativo di registrazione con ON24.
 
-## Aggiornamento dello stato membro da ON24 {#updating-member-status-from-on}
+## Aggiornamento dello stato del membro da ON24 {#updating-member-status-from-on}
 
-Marketo richiama automaticamente le informazioni sulla presenza alle 11 di sera circa nel Pacifico. Per aggiornare manualmente le informazioni sulla presenza, fai clic su **Aggiorna da Webinar Provider** sotto **Azioni evento**.
+Marketo richiama automaticamente le informazioni sulla frequenza alle 23:00 circa (Pacifico) di ogni notte. Per aggiornare manualmente le informazioni sulla partecipazione, fare clic su **Aggiorna dal provider del webinar** in **Azioni evento**.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli eventi dell&#39;adattatore Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Informazioni sugli eventi delle schede di rete Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

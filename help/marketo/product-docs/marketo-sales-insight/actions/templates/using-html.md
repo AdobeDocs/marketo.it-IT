@@ -1,8 +1,9 @@
 ---
-description: Utilizzo di HTML - Documentazione Marketo - Documentazione del prodotto
+description: Utilizzo di HTML - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo di HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -11,9 +12,9 @@ ht-degree: 0%
 
 # Utilizzo di HTML {#using-html}
 
-1. Copia il codice sorgente dalle e-mail nello strumento utilizzato per creare e-mail in HTML (ad esempio, Marketo Email Editor).
+1. Copia il codice sorgente dalle e-mail nello strumento utilizzato per creare le e-mail in HTML (ad esempio, Editor e-mail di Marketo).
 
-1. Selezionare il modello a cui si desidera aggiungere il HTML.
+1. Seleziona il modello a cui desideri aggiungere il HTML.
 
    ![](assets/using-html-1.png)
 
@@ -21,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/using-html-2.png)
 
-1. Fai clic sul pulsante **Origine** nell’editor modelli.
+1. Fai clic su **Sorgente** nell’editor modelli.
 
    ![](assets/using-html-3.png)
 
@@ -31,4 +32,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se viene visualizzato l’errore &quot;Errore - per rimuovere i tag style/java/html&quot;, significa che hai uno stile che non è supportato. È necessario cercare il codice sorgente per lo stile della parola ed eliminare tutto da `<style>` attraverso `</style>`.
+>Se viene visualizzato l’errore &quot;Error - to remove the style/java/html tags&quot; (Errore: per rimuovere i tag style/java/html), significa che sono presenti stili non supportati. È necessario cercare nel codice sorgente lo stile della parola ed eliminare tutto da `<style>` da a `</style>`.

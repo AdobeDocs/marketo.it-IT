@@ -1,30 +1,31 @@
 ---
 unique-page-id: 10099798
-description: Filtraggio in Approfondimenti e-mail - Documenti Marketo - Documentazione del prodotto
-title: Filtraggio in Approfondimenti e-mail
+description: Filtraggio in Email Insights - Documentazione di Marketo - Documentazione del prodotto
+title: Filtraggio in Informazioni e-mail
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Filtraggio in Approfondimenti e-mail {#filtering-in-email-insights}
+# Filtraggio in Informazioni e-mail {#filtering-in-email-insights}
 
-In Approfondimenti e-mail, esistono diversi modi per filtrare i dati.
+In Email Insights (Approfondimenti e-mail) sono disponibili diversi modi per filtrare i dati.
 
-## Approfondimenti e-mail {#email-insights}
+## Email Insights {#email-insights}
 
-Fai clic sul segno + per iniziare ad aggiungere filtri. Aggiungete quanti ne volete.
+Fai clic sul pulsante + per iniziare ad aggiungere filtri. Aggiungetene quanti ne volete.
 
 ![](assets/one-2.png)
 
-Se nella stessa categoria sono presenti più filtri, questi verranno uniti e visualizzati la quantità.
+Se nella stessa categoria sono presenti più filtri, questi eseguiranno l&#39;unione e visualizzeranno la quantità.
 
 ![](assets/state.png)
 
-Per visualizzare i filtri applicati, fai clic sul filtro. Puoi anche aggiungerne altri lì.
+Se hai bisogno di vedere quali filtri hai applicato, fai clic sul filtro. Puoi anche aggiungerne altre.
 
 ![](assets/states.png)
 
@@ -36,15 +37,15 @@ E ancora più filtri!
 
 ![](assets/more-filters.png)
 
-Il grafico cambia dopo ogni filtro applicato.
+Il grafico cambia dopo l’applicazione di ciascun filtro.
 
 ![](assets/filtered-chart.png)
 
-Per eliminare una categoria, fare clic sulla relativa X.
+Per eliminare una categoria, fare clic sulla X corrispondente.
 
 ![](assets/filter1.png)
 
-Per cancellare tutti i filtri, fai clic sulla X alla fine della barra del filtro.
+Per cancellare tutti i filtri, fai clic sulla X alla fine della barra dei filtri.
 
 ![](assets/filter2.png)
 
@@ -52,16 +53,16 @@ Per dati specifici per data, utilizza intervalli di date.
 
 ![](assets/date-click.png)
 
-Scegli tra intervalli di date predefiniti comuni, seleziona date specifiche e utilizza anche il periodo precedente per il confronto.
+Scegli tra intervalli di date predefiniti comuni, seleziona date specifiche e utilizza il periodo precedente per il confronto.
 
 ![](assets/date-range.png)
 
 >[!NOTE]
 >
->Gli intervalli di date si applicano sia alla pagina Analytics che alla pagina Invio. La **Confronto** tuttavia, questa opzione è applicabile solo alla pagina Analytics.
+>Gli intervalli di date si applicano sia alla pagina Analytics che alla pagina Invii. Il **Confronta** Tuttavia, questa opzione è applicabile solo alla pagina Analytics.
 
-## Marketing basato su account {#account-based-marketing}
+## Marketing basato sull&#39;account {#account-based-marketing}
 
-Se utilizzi [Gestione account di Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), esistono filtri specifici per te.
+Se usa [Gestione account di destinazione](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), esistono filtri specifici per te.
 
 ![](assets/abm.png)

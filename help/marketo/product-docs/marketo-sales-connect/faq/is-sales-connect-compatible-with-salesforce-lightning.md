@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352493
-description: Sales Connect è compatibile con Salesforce Lightning? - Documentazione Marketo - Documentazione del prodotto
+description: Sales Connect è compatibile con Salesforce Lightning? - Documentazione di Marketo - Documentazione del prodotto
 title: Sales Connect è compatibile con Salesforce Lightning?
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -14,8 +15,8 @@ ht-degree: 0%
 
 Sì, Sales Connect è compatibile con Salesforce Lightning.
 
-Per favore [fai clic qui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) per la Guida all’installazione e al successo.
+Per favore [fai clic qui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) per la Guida all&#39;installazione e al successo.
 
 >[!NOTE]
 >
->I pulsanti Connetti alle vendite per le azioni in blocco sono disponibili nelle viste Elenco lead e Contatto.
+>I pulsanti Sales Connect per le azioni in blocco sono disponibili nelle viste elenco Lead e Contatti.

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 4720476
-description: Glossario a icona classica - Documentazione Marketo - Documentazione del prodotto
-title: Glossario a icona classica
+description: Glossario delle icone classiche - Documentazione di Marketo - Documentazione del prodotto
+title: Glossario icona classica
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '562'
 ht-degree: 6%
 
 ---
 
-# Glossario a icona classica {#classic-icon-glossary}
+# Glossario icona classica {#classic-icon-glossary}
 
-Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossario delle icone può essere [qui](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}.
+Di seguito sono riportate le vecchie icone di Marketo Classic. Il glossario della nuova icona può essere [trovato qui](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **Icone generali**
 
@@ -59,7 +60,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">Cartella di origine condivisa con un’altra area di lavoro</td> 
+   <td colspan="1">Cartella di origine condivisa con un'altra area di lavoro</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -73,14 +74,14 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>Archivia cartella o Converti in cartella archivio (può essere visualizzato per qualsiasi cartella e programma archiviato)</td> 
+   <td>Cartella archivio o Converti in cartella archivio (può essere visualizzata per qualsiasi cartella e programma archiviato)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>Operazione riuscita!(mostrato frequentemente come programma riuscito, eseguito correttamente o attivo)</td> 
+   <td>Completato!(viene spesso visualizzato come Esecuzione riuscita del programma, Esecuzione riuscita o Attivo)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -122,7 +123,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-10-3a47-3a12.png"> 
     </div></td> 
-   <td>Informazioni sull’abbonamento</td> 
+   <td>Informazioni abbonamento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -168,7 +169,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>Sicurezza/disconnessione</td> 
+   <td>Protezione/Disconnessione</td> 
   </tr> 
   <tr> 
    <td> 
@@ -196,7 +197,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-8-16-3a36-3a19.png"> 
     </div></td> 
-   <td>Smart Campaign</td> 
+   <td>Campagna avanzata</td> 
   </tr> 
   <tr> 
    <td> 
@@ -238,7 +239,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>Approfondimenti vendite</td> 
+   <td>Insight sulle vendite</td> 
   </tr> 
   <tr> 
    <td> 
@@ -280,7 +281,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>Tag - Attributo del programma</td> 
+   <td>Tag - Attributo programma</td> 
   </tr> 
   <tr> 
    <td> 
@@ -294,7 +295,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td>Torace del tesoro</td> 
+   <td>Treasure Chest</td> 
   </tr> 
   <tr> 
    <td> 
@@ -340,14 +341,14 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-11-3a24-3a42.png"> 
     </div></td> 
-   <td>Programma di importazione</td> 
+   <td>Importa programma</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>Inferenza di coinvolgimento</td> 
+   <td>Coinvolgimento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -361,42 +362,42 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>Cadenza di coinvolgimento della modifica (in pausa, normale)</td> 
+   <td>Cambia cadenza di coinvolgimento (in pausa,normale)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2014-12-23-11-3a42-3a5.png"> 
     </div></td> 
-   <td>Cambia flusso di coinvolgimento</td> 
+   <td>Flusso di modifica del coinvolgimento</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a11-3a29.png"> 
     </div></td> 
-   <td>Smart Campaign - Attivo e attivato</td> 
+   <td>Smart Campaign: attiva e attivata</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>Campagna avanzata richiesta (tramite informazioni sulle vendite o azione di flusso Marketo)</td> 
+   <td>Campagna intelligente richiesta (tramite Sales Insight o Azione di flusso Marketo)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>Smart Campaign - Batch (eseguito in precedenza)</td> 
+   <td>Smart Campaign - Batch (è stato eseguito in precedenza)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>Smart Campaign - Inattivo o mai eseguito</td> 
+   <td>Smart Campaign: inattiva o mai eseguita</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +411,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programma e-mail <br>(Segnalazione rossa verso il basso = l’e-mail non è ancora stata inviata)</td> 
+   <td>Programma e-mail <br>(Flag di rosso verso il basso = l’e-mail non è ancora stata inviata)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -424,7 +425,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>Smart Campaign - Batch pianificato (il segno di spunta indica che è stato eseguito prima)</td> 
+   <td>Smart Campaign - Batch pianificato (il segno di spunta indica che è stato eseguito in precedenza)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -438,7 +439,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>Azione flusso</td> 
+   <td>Azione di flusso</td> 
   </tr> 
   <tr> 
    <td> 
@@ -487,7 +488,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </div></td> 
-   <td>Azioni pulsante Social</td> 
+   <td>Azioni pulsante social</td> 
   </tr> 
   <tr> 
    <td> 
@@ -508,7 +509,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-14-3a46-3a39.png"> 
     </div></td> 
-   <td>Clona</td> 
+   <td>Duplica</td> 
   </tr> 
   <tr> 
    <td> 
@@ -557,7 +558,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-14-3a57-3a27.png"> 
     </div></td> 
-   <td>Clona</td> 
+   <td>Duplica</td> 
   </tr> 
   <tr> 
    <td> 
@@ -571,7 +572,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td>Azioni Sweepstakes</td> 
+   <td>Azioni di Sweepstakes</td> 
   </tr> 
   <tr> 
    <td> 
@@ -599,7 +600,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-15-3a18-3a20.png"> 
     </div></td> 
-   <td>Clona</td> 
+   <td>Duplica</td> 
   </tr> 
   <tr> 
    <td> 
@@ -613,7 +614,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>Scegli vincitori</td> 
+   <td>Scegli i vincitori</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -641,7 +642,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a30.png"> 
     </div></td> 
-   <td colspan="1">Clona</td> 
+   <td colspan="1">Duplica</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -722,7 +723,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>Pubblicare su Facebook</td> 
+   <td>Pubblica su Facebook</td> 
   </tr> 
   <tr> 
    <td> 
@@ -778,21 +779,21 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>Modello pagina di destinazione/e-mail - Non approvato</td> 
+   <td>Pagina di destinazione/Modello e-mail - Non approvato</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>Modello pagina di destinazione/e-mail - Approvato</td> 
+   <td>Pagina di destinazione/Modello e-mail - Approvato</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
-   <td>E-mail - Non approvato o Bozza</td> 
+   <td>E-mail - Non approvato o bozza</td> 
   </tr> 
   <tr> 
    <td> 
@@ -820,7 +821,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>Bozza di una risorsa approvata (non attiva fino a quando la bozza non viene approvata)</td> 
+   <td>Bozza di una risorsa approvata (disponibile solo dopo l’approvazione della bozza)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -834,14 +835,14 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>Frammento: non approvato o bozza</td> 
+   <td>Frammento - Non approvato o bozza</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>Frammento - Approvato</td> 
+   <td>Snippet - Approvato</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -908,14 +909,14 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a23.png"> 
     </div></td> 
-   <td>Azioni dei rapporti</td> 
+   <td>Azioni report</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </div></td> 
-   <td>Rapporto</td> 
+   <td>Report</td> 
   </tr> 
   <tr> 
    <td> 
@@ -929,21 +930,21 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-12-3a57-3a19.png"> 
     </div></td> 
-   <td>Elimina rapporto</td> 
+   <td>Elimina report</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>Visualizza lead qualificati</td> 
+   <td>Visualizza lead qualificato</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>Panoramica dei momenti interessanti</td> 
+   <td>Panoramica dei momenti di interesse</td> 
   </tr> 
   <tr> 
    <td> 
@@ -964,7 +965,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-9-13-3a43-3a15.png"> 
     </div></td> 
-   <td>Lead di gruppo per</td> 
+   <td>Raggruppa lead per</td> 
   </tr> 
   <tr> 
    <td> 
@@ -989,14 +990,14 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>ICS calendario - iCalendari (calendari integrati)</td> 
+   <td>ICS calendario - iCalendars, (calendari integrati)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </div></td> 
-   <td>Rich Text (non una pagina di destinazione)</td> 
+   <td>Testo formattato (non pagina di destinazione)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1010,14 +1011,14 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce (anche su tutti i punti della DSC)</td> 
+   <td>Salesforce (anche su tutti gli elementi correlati all’SFDC)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>Pianificare la campagna avanzata da eseguire una volta</td> 
+   <td>Pianificare l’esecuzione di una sola campagna avanzata</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1031,19 +1032,19 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>Aggiorna (Di Solito Esegui Conteggio, Report, Smart List)</td> 
+   <td>Aggiorna (solitamente conteggio esecuzioni, rapporto, elenco avanzato)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>Visualizza membri avanzati (qualificati in precedenza e correnti)</td> 
+   <td>Visualizza membri avanzati (precedentemente qualificati e correnti)</td> 
   </tr> 
  </tbody> 
 </table>
 
-### Menu della campagna {#campaign-menus}
+### Menu Campaign {#campaign-menus}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -1063,7 +1064,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </div></td> 
-   <td>Annullare l’esecuzione, l’azione o l’eliminazione</td> 
+   <td>Annullare l'esecuzione, l'azione o l'eliminazione</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1077,7 +1078,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce (anche su tutti i punti della DSC)</td> 
+   <td>Salesforce (anche su tutti gli elementi correlati all’SFDC)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1091,7 +1092,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td>Punteggio relativo (visibile anche su tutte le azioni del flusso di Punteggio)</td> 
+   <td>Punteggio relativo (visibile anche su tutte le azioni del flusso Punteggio)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1112,7 +1113,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>Data - Formattata come "MM-GG-AAAA"</td> 
+   <td>Data - Formattata come "DD/MM/YYYY"</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1137,7 +1138,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-16-3a27-3a35.png"> 
     </div></td> 
-   <td>Elenco avanzato - Memorizzato nella cache</td> 
+   <td>Elenco avanzato - Memorizzato in cache</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1151,7 +1152,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>Segmentazione o segmento - Approvato o Bozza</td> 
+   <td>Segmentazione o segmento - Approvato o bozza</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1165,7 +1166,7 @@ Di seguito sono riportate le vecchie icone di Marketo Classic. Il nuovo glossari
     <div> 
      <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td>Organizzatore di campi</td> 
+   <td>Organizzatore campo</td> 
   </tr> 
   <tr> 
    <td> 

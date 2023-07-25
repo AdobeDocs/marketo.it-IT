@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: "Prossima generazione [!DNL Munchkin] Domande frequenti sul tracciamento - Documentazione di Marketo - Documentazione del prodotto"
 title: "Prossima generazione [!DNL Munchkin] Domande frequenti sul tracciamento"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ Se utilizzi già questo filtro in un elenco avanzato (ad esempio, in una campagn
 >* Avere un Momento di Interesse registrato per lei (con la data in cui ha effettivamente visitato la pagina, non quando è diventata nota)
 >
 >* Registra un’attività &quot;Nuova persona&quot;, come avviene attualmente
-
 
 ## Cosa succede ai miei elenchi avanzati che hanno già il filtro &quot;È anonimo&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352609
-description: Disattivare una campagna - Documenti Marketo - Documentazione del prodotto
+description: Disattivare una campagna - Documentazione di Marketo - Documentazione del prodotto
 title: Disattivare una campagna
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -12,20 +13,20 @@ ht-degree: 0%
 
 # Disattivare una campagna {#turn-off-a-campaign}
 
-Devi terminare automaticamente una campagna quando un destinatario risponde? Ecco come.
+È necessario terminare automaticamente una campagna quando un destinatario risponde? Ecco come.
 
 >[!NOTE]
 >
->Questa funzione è disponibile solo per i clienti che sono integrati con Gmail o Exchange e dispongono del monitoraggio delle risposte abilitato.
+>Questa opzione è disponibile solo per i clienti che sono integrati con Gmail o Exchange e per i quali è abilitato il tracciamento delle risposte.
 
 ## Disattivare una campagna per una persona {#turn-off-a-campaign-for-one-person}
 
-Dopo aver creato la campagna, passa semplicemente alla **Impostazioni** e scegli come desideri che si comporti la campagna se qualcuno risponde.
+Dopo aver creato la campagna, passa semplicemente al **Impostazioni** e scegli il comportamento desiderato per la campagna nel caso in cui qualcuno risponda.
 
 Entrambe le opzioni termineranno la campagna e il destinatario non riceverà più e-mail da te.
 
 ## Disattivare una campagna per più persone {#turn-off-a-campaign-for-multiple-people}
 
-Nella cartella inviata, seleziona i contatti per rimuoverli dalla campagna con il filtro impostato su &quot;All&quot; per catturare chiunque abbia ricevuto una campagna.
+Nella cartella inviata, seleziona i contatti da rimuovere dalla campagna con il filtro impostato su &quot;Tutti&quot; per acquisire tutti coloro che hanno ricevuto una campagna.
 
-Oppure puoi passare direttamente alla campagna su cui sono accesi e rimuoverli in blocco.
+In alternativa, puoi passare direttamente alla campagna in cui si trovano e rimuoverle in blocco.

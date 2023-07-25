@@ -1,16 +1,17 @@
 ---
 unique-page-id: 15368208
-description: Come installare le personalizzazioni nella Sandbox Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Come installare le personalizzazioni nella Sandbox Salesforce
+description: Come installare personalizzazioni nel tuo Salesforce Sandbox - Documentazione di Marketo - Documentazione del prodotto
+title: Come installare personalizzazioni nel tuo Salesforce Sandbox
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Come installare le personalizzazioni nella Sandbox Salesforce {#how-to-install-customizations-in-your-salesforce-sandbox}
+# Come installare personalizzazioni nel tuo Salesforce Sandbox {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >
@@ -18,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Connetti le vendite alla Sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[Connetti vendite Connetti alla tua sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. In Sales Connect, fai clic sull&#39;icona dell&#39;ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull’icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one-3.png)
 
@@ -28,8 +29,8 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Fai clic su **Installazione personalizzazioni**.
+1. Clic **Installare le personalizzazioni**.
 
    ![](assets/three-3.png)
 
-   Quindi, segui i passaggi per installare la personalizzazione come faresti su un normale account Salesforce.
+   Quindi, è sufficiente eseguire i passaggi necessari per installare la personalizzazione come si farebbe su un normale account Salesforce.

@@ -1,39 +1,40 @@
 ---
 unique-page-id: 1147023
-description: Chiama Webhook - Marketo Docs - Documentazione del prodotto
-title: Chiama Webhook
+description: Chiama webhook - Documentazione Marketo - Documentazione del prodotto
+title: Chiama webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 2%
 
 ---
 
-# Chiama Webhook {#call-webhook}
+# Chiama webhook {#call-webhook}
 
 >[!PREREQUISITES]
 >
->[Creare un Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[Creare un webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## Panoramica {#overview}
 
-I webhook ti consentono di interagire con i servizi di terze parti. Invia/ricevi informazioni richiamando un webhook in un flusso di campagne intelligente.
+I webhook consentono di interagire con i servizi di terze parti. Invia/ricevi informazioni chiamando un webhook in un flusso di campagne intelligente.
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->Scopri le molte cose affascinanti che [Webhook](https://developers.marketo.com/documentation/webhooks/) Posso fare per te.
+>Scopri le tante cose affascinanti che [Webhook](https://developers.marketo.com/documentation/webhooks/) può fare per te.
 
 ## Utilizzo {#usage}
 
-Seleziona una **Webhook** dal menu a discesa.
+Seleziona un **Webhook** dal menu a discesa.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-È tutto! Il webhook verrà ora richiamato ogni volta che gli utenti accedono al flusso di campagne avanzate.
+Tutto qui! Il webhook verrà ora richiamato ogni volta che le persone entrano nel flusso della campagna intelligente.
 
 >[!MORELIKETHIS]
 >
->[Utilizzare un Webhook in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[Utilizzare un webhook in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)

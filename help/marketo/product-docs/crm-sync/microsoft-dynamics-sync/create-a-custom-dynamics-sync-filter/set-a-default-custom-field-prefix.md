@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10094647
-description: Imposta un prefisso di campo personalizzato predefinito - Documenti Marketo - Documentazione del prodotto
+description: Impostare un prefisso di campo personalizzato predefinito - Documentazione di Marketo - Documentazione del prodotto
 title: Imposta un prefisso di campo personalizzato predefinito
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 # Imposta un prefisso di campo personalizzato predefinito {#set-a-default-custom-field-prefix}
 
-Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve essere **nuovo** affinché i campi proprietari di Marketo si sincronizzino correttamente. Ecco come modificare il prefisso predefinito.
+Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve essere **nuovo** per consentire la corretta sincronizzazione dei campi proprietari di Marketo. Per modificare il prefisso predefinito, procedere come segue.
 
 1. Vai a Impostazioni e seleziona **Personalizzazioni.**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Fai clic su **Editori**.
+1. Clic **Editori**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
-1. Seleziona l’editore predefinito dall’elenco.
+1. Selezionare l&#39;autore predefinito dall&#39;elenco.
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Cambia il prefisso in **nuovo**. Fai clic su **Salva e chiudi**.
+1. Cambia il prefisso in **nuovo**. Clic **Salva e chiudi**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
@@ -34,7 +35,7 @@ Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve es
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Fai clic su **Pubblica tutte le personalizzazioni**.
+1. Clic **Pubblica tutte le personalizzazioni**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

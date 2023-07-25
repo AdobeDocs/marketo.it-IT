@@ -1,26 +1,27 @@
 ---
 unique-page-id: 15695924
-description: Classificazione e tuning del profilo dell'account - Marketo Docs - Documentazione del prodotto
-title: Classificazione e tuning del profilo dell'account
+description: Classificazione e ottimizzazione della profilatura dell’account - Documentazione di Marketo - Documentazione del prodotto
+title: Classificazione e tuning profilo account
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
-# Classificazione e tuning del profilo dell&#39;account {#account-profiling-ranking-and-tuning}
+# Classificazione e tuning profilo account {#account-profiling-ranking-and-tuning}
 
-La profilazione dell&#39;account identifica il tuo profilo cliente ideale (ICP), classifica le aziende nel tuo database in base all&#39;ICP e aggiunge i dati dell&#39;indicatore ICP agli account promossi come Account denominati.
+La profilazione account identifica il profilo cliente ideale (ICP), classifica le aziende nel database in base all&#39;ICP e aggiunge i dati dell&#39;indicatore ICP agli account promossi come Account denominati.
 
 ## Risultati modello {#model-results}
 
-I risultati mostrano tutti gli account noti suddivisi per grado. A è il grado più alto, D è il più basso.
+I risultati mostrano tutti i tuoi account noti suddivisi per livello. A è il grado più alto, D è il più basso.
 
 ![](assets/results.png)
 
-Anche se opzionale, è consigliabile selezionare la casella di controllo Promuovi automaticamente , in quanto consente di risparmiare un sacco di tempo. Tuttavia, se desideri esaminare ciascun account e [aggiungili manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lascia la casella deselezionata.
+Anche se facoltativo, è consigliabile selezionare la casella di controllo Promuovi automaticamente in quanto consente di risparmiare molto tempo. Tuttavia, se desideri esaminare ogni account e [aggiungili manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lascia semplicemente deselezionata la casella.
 
 <table> 
  <tbody> 
@@ -28,44 +29,44 @@ Anche se opzionale, è consigliabile selezionare la casella di controllo Promuov
    <td><strong>Classifica</strong></td> 
    <td> 
     <div>
-      Classificazione dell'account in base al profilo cliente ideale. A è la migliore vestibilità, D è la meno adatta. 
+      Classificazione dell’account in base al profilo cliente ideale. A è la misura migliore, D è la misura minore. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Propensione</strong></td> 
    <td> 
     <div>
-      Incremento stimato del tasso di conversione rispetto a una selezione di conti non basata su ICP. 
+      Aumento stimato del tasso di conversione rispetto a una selezione di conti non basata su ICP. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Account (%)</strong></td> 
    <td> 
     <div>
-      Percentuale di account in input modello con questo rango. 
+      Percentuale di conti in input modello con questa classificazione. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>% di base del modello</strong></td> 
+   <td><strong>% della base del modello</strong></td> 
    <td> 
     <div>
-      Percentuale di conti in base al modello con questo rango. 
+      Percentuale di conti in base a modello che hanno questa classificazione. 
     </div></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Regolazione del modello {#model-tuning}
+## Regolazione modello {#model-tuning}
 
-Nella scheda Modello fare clic sul pulsante Sintonizza modello.
+Nella scheda Modello (Model), fate clic sul pulsante Ottimizza modello (Tune Model).
 
 ![](assets/two.png)
 
-Ci sono diverse schede tra cui scegliere, consentendo una personalizzazione approfondita.
+Sono disponibili diverse schede tra cui scegliere, che consentono una personalizzazione approfondita.
 
 ![](assets/tuning-page.png)
 
-**Categorie di indicatori**
+**Categorie indicatori**
 
 <table> 
  <tbody> 
@@ -73,35 +74,35 @@ Ci sono diverse schede tra cui scegliere, consentendo una personalizzazione appr
    <td><strong>Conformità</strong></td> 
    <td> 
     <div>
-      Certificazioni, posizioni/assunzioni relative alla conformità. 
+      Certificazioni, posizioni relative alla conformità/assunzione. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Operazioni</strong></td> 
    <td> 
     <div>
-      Posizioni/assunzioni relative alle operazioni. 
+      Posizioni/assunzioni legate alle operazioni. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>HR</strong></td> 
+   <td><strong>ORE</strong></td> 
    <td> 
     <div>
       Software HR o Payroll, posizioni/assunzioni relative alle risorse umane.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Ingegneria</strong></td> 
+   <td><strong>Progettazione</strong></td> 
    <td> 
     <div>
-      Tecnologie, quadri, posizioni/assunzioni relative all'ingegneria. 
+      Tecnologie, quadri di riferimento, posizioni/assunzioni correlate all'ingegneria. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Vendite</strong></td> 
    <td> 
     <div>
-      Soluzioni e software per le vendite, posizioni relative alle vendite/assunzioni. 
+      Soluzioni e software per la vendita, posizioni di vendita/noleggio. 
     </div></td> 
   </tr> 
   <tr> 
@@ -129,50 +130,50 @@ Ci sono diverse schede tra cui scegliere, consentendo una personalizzazione appr
    <td><strong>Marketing</strong></td> 
    <td> 
     <div>
-      Tecnologie e software di marketing, posizioni/assunzioni relative al marketing. 
+      Tecnologie e software di marketing, posizioni di marketing/noleggio. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Business</strong></td> 
+   <td><strong>Aziende</strong></td> 
    <td> 
     <div>
-      Annunci Forbes o Inc o partnership commerciale. 
+      Inserzioni o partnership commerciali con Forbes o Inc. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Esperienza cliente e relazioni</strong></td> 
    <td> 
     <div>
-      Successo del cliente e posizioni/assunzioni di relazioni con i clienti.
+      Posizioni/assunzioni relative a relazioni con i clienti e successo del cliente.
     </div></td> 
   </tr> 
  </tbody> 
 </table>
 
-Passa il puntatore del mouse sulle descrizioni comandi per ottenere una descrizione di ciascuna colonna.
+Passa il cursore del mouse sulle descrizioni per visualizzare una descrizione di ciascuna colonna.
 
 ![](assets/tool-tip.png)
 
-Fai clic sul menu a discesa Aggiungi indicatore ICP per inserire ulteriori indicatori nel modello.
+Fai clic sul menu a discesa Aggiungi indicatore ICP per inserire indicatori aggiuntivi nel modello.
 
 ![](assets/add-icp.png)
 
-Selezionando la casella Esporta è possibile visualizzare l&#39;indicatore ICP nella pagina Dettagli conto denominato e utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+La selezione della casella Esporta consente di visualizzare l&#39;indicatore ICP nella pagina Dettagli conto denominato e di utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Gli indicatori ICP sono inclusi come vincoli **Membro del conto denominato** Filtri e attivatori.
+>Gli indicatori ICP sono inclusi come vincoli in **Membro di account denominato** Filtri e trigger.
 
-La ponderazione dell&#39;indicatore è ciò che controlla il livello di importanza che ogni indicatore riceve nel modello.
+Ponderazione indicatore è ciò che controlla il livello di importanza che ogni indicatore riceve nel modello.
 
 ![](assets/weightage.png)
 
-Fare clic su Aggiorna modello per rendere effettive le modifiche.
+Fate clic su Aggiorna modello (Refresh Model) per rendere effettive le modifiche.
 
 ![](assets/refresh-button.png)
 
-Al termine della regolazione del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica blocchi**.
+Al termine della messa a punto del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica le classificazioni**.
 
 ![](assets/ranks.png)

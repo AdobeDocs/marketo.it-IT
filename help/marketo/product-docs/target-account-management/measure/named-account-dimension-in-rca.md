@@ -3,7 +3,8 @@ unique-page-id: 11380789
 description: Dimension di account denominato in RCA - Documentazione Marketo - Documentazione del prodotto
 title: Dimension di account denominato in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -12,24 +13,24 @@ ht-degree: 0%
 
 # Dimension di account denominato in RCA {#named-account-dimension-in-rca}
 
-Crea rapporti basati sui ricavi utilizzando la dimensione Conto con nome specifica per il TAM in Analisi del ciclo dei ricavi.
+Crea rapporti basati sui ricavi utilizzando la dimensione Conto denominato specifica per TAM in Revenue Cycle Analytics.
 
 >[!NOTE]
 >
->**Dimension** - gli attributi (rappresentati da punti gialli) che danno una diversa visione delle misure.
+>**Dimension** - attributi (rappresentati da punti gialli) che forniscono viste diverse delle misure.
 
 ![](assets/one-2.png)
 
 >[!NOTE]
 >
->La dimensione Conto con nome in RCA può essere utilizzata per misurare l’impatto in linea di fondo da conti mirati (ad esempio, i ricavi ottenuti, generati dalla pipeline o l’accelerazione nel ciclo di vendita). Questa dimensione può essere utilizzata anche per identificare quali programmi hanno eseguito o meno correttamente in base a account denominati.
+>La dimensione Conto denominato in RCA può essere utilizzata per misurare l’impatto sul risultato finale dai conti target (ad esempio ricavi ottenuti, pipeline generata o accelerazione nel ciclo di vendita). Questa dimensione può essere utilizzata anche per identificare quali programmi hanno eseguito o non hanno eseguito correttamente i conti denominati.
 
-I seguenti rapporti hanno accesso alla dimensione Conto con nome:
+I seguenti rapporti hanno accesso alla dimensione Conto denominato:
 
 * Analisi e-mail
-* Analisi lead
-* Analisi delle opportunità
-* Analisi dell&#39;appartenenza al programma
+* Analisi dei lead
+* Analisi dell’opportunità
+* Analisi dell’iscrizione al programma
 
 >[!NOTE]
 >
@@ -39,14 +40,14 @@ Accelerazione della pipeline all’interno di account denominati
 
 ![](assets/two-1.png)
 
-Efficienza del canale e successo per account denominati
+Efficacia e successo del canale in base agli account denominati
 
 ![](assets/three-2.png)
 
-Efficacia del programma e impatto sui risultati
+Efficacia e impatto del programma sui profitti
 
 ![](assets/four-3.png)
 
-Copertura dei lead di qualità e coinvolgimento all’interno di account denominati
+Copertura di lead di qualità e coinvolgimento in account denominati
 
 ![](assets/five-2.png)

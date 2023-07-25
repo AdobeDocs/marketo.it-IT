@@ -1,21 +1,22 @@
 ---
-description: Utilizzo della scheda documenti - Marketo Docs - Documentazione del prodotto
+description: Utilizzo della scheda documento - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo della scheda documento
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Utilizzo della scheda documento {#using-the-document-card}
 
-La scheda Documento consente di incorporare i documenti PDF nelle finestre di dialogo e di tenere traccia dell’attività di coinvolgimento dei visitatori nei documenti. Ecco come configurarlo.
+La scheda Documento consente di incorporare documenti PDF nelle finestre di dialogo e di tenere traccia dell’attività di coinvolgimento dei visitatori nei documenti. Ecco come configurarlo.
 
-1. Passa a [API di incorporamento Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}.
+1. Accedi a [API di incorporamento Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Fai clic su **Ottieni credenziali**.
+1. Clic **Ottieni credenziali**.
 
    ![](assets/using-the-document-card-1.png)
 
@@ -23,19 +24,19 @@ La scheda Documento consente di incorporare i documenti PDF nelle finestre di di
 
    ![](assets/using-the-document-card-2.png)
 
-1. Immetti le tue credenziali, accetta i termini e fai clic su **Crea credenziali**.
+1. Immetti le credenziali, accetta i termini e fai clic su **Crea credenziali**.
 
    ![](assets/using-the-document-card-3.png)
 
    >[!IMPORTANT]
    >
-   >Sarà necessario utilizzare il dominio in cui ospiterai il chatbot (ad esempio, se ospiti il chatbot su mycompany.com, assicurati di inserirlo nel passaggio 4).
+   >Dovrai utilizzare il dominio in cui ospiterai il chatbot (ad esempio, se ospiti il chatbot su mycompany.com, assicurati di immetterlo nel passaggio 4).
 
-1. Fai clic su **Copia** per copiare l’ID client.
+1. Clic **Copia** per copiare l&#39;ID client.
 
    ![](assets/using-the-document-card-4.png)
 
-1. Indietro in Chat dinamica, fai clic su **Integrazioni**. Nella scheda API di incorporamento di Adobe PDF, fai clic su **Attiva**.
+1. Nel Dynamic Chat, fai clic su **Integrazioni**. Nella scheda Adobe PDF Embed API, fai clic su **Attiva**.
 
    ![](assets/using-the-document-card-5.png)
 
@@ -43,4 +44,4 @@ La scheda Documento consente di incorporare i documenti PDF nelle finestre di di
 
    ![](assets/using-the-document-card-6.png)
 
-È ora possibile utilizzare la scheda Documento nelle finestre di dialogo [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+È ora possibile utilizzare la scheda Documento nelle finestre di dialogo&#39; [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!

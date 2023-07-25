@@ -1,8 +1,9 @@
 ---
-description: Routing - Documenti Marketo - Documentazione del prodotto
+description: Indirizzamento - Documentazione Marketo - Documentazione del prodotto
 title: Indirizzamento
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -11,25 +12,25 @@ ht-degree: 1%
 
 # Indirizzamento {#routing}
 
-Le riunioni prenotate in chat dinamica possono essere instradate in due modi. Round robin o utilizzando una regola personalizzata.
+Le riunioni prenotate in Dynamic Chat possono essere instradate in due modi. Round robin o utilizzo di una regola personalizzata.
 
-Round robin: Le riunioni vengono assegnate agli agenti in sequenza. Quindi se avete cinque agenti e l&#39;agente tre ha preso l&#39;ultima riunione, l&#39;agente quattro avrà quello successivo, seguito dall&#39;agente cinque, poi tornerà all&#39;agente uno.
+Round robin: le riunioni vengono assegnate agli agenti in sequenza. Quindi se hai cinque agenti e l&#39;agente tre ha preso l&#39;ultima riunione, l&#39;agente quattro prenderà la prossima, seguita dall&#39;agente cinque, e poi di nuovo dall&#39;agente uno.
 
-Regola personalizzata: È possibile scegliere agenti specifici per ricevere riunioni in base agli attributi selezionati.
+Regola personalizzata: è possibile scegliere agenti specifici per ricevere riunioni in base agli attributi selezionati.
 
 ## Creare una regola personalizzata {#create-a-custom-rule}
 
-In questo esempio inviamo tutte le riunioni dagli stati inferti di CA, OR, e WA all&#39;agente John.
+In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA all&#39;agente John.
 
-1. In Chat dinamica, seleziona **Indirizzamento**.
+1. In Dynamic Chat, seleziona **Indirizzamento**.
 
    ![](assets/routing-1.png)
 
-1. Fai clic sul pulsante **Regole personalizzate** scheda .
+1. Fai clic su **Regole personalizzate** scheda.
 
    ![](assets/routing-2.png)
 
-1. Fai clic su **Crea regola**.
+1. Clic **Crea regola**.
 
    ![](assets/routing-3.png)
 
@@ -41,7 +42,7 @@ In questo esempio inviamo tutte le riunioni dagli stati inferti di CA, OR, e WA 
 
    ![](assets/routing-5.png)
 
-1. Trascina gli attributi desiderati.
+1. Trascina sull’attributo o sugli attributi desiderati.
 
    ![](assets/routing-6.png)
 
@@ -49,6 +50,6 @@ In questo esempio inviamo tutte le riunioni dagli stati inferti di CA, OR, e WA 
 
    ![](assets/routing-7.png)
 
-1. Quando vengono selezionati tutti i valori desiderati, fai clic su **Salva**.
+1. Dopo aver selezionato tutti i valori desiderati, fai clic su **Salva**.
 
    ![](assets/routing-8.png)

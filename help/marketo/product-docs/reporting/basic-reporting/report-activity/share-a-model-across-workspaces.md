@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2360205
-description: Condividere un modello tra aree di lavoro - Documenti Marketo - Documentazione del prodotto
+description: Condivisione di un modello in più aree di lavoro - Documentazione di Marketo - Documentazione del prodotto
 title: Condividere un modello tra aree di lavoro
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # Condividere un modello tra aree di lavoro {#share-a-model-across-workspaces}
 
-Marketo consente di condividere un modello o più modelli tra le diverse aree di lavoro. Ecco come.
+Marketo consente di condividere uno o più modelli tra più aree di lavoro. Ecco come.
 
-1. Vai a **Analytics** sezione .
+1. Vai a **Analytics** sezione.
 
    ![](assets/analytics.png)
 
-1. Fai clic con il pulsante destro del mouse **Modelli personali** e fai clic su **Nuova cartella**.
+1. Fai clic con il pulsante destro del mouse sulla **I miei modelli** cartella e fai clic su **Nuova cartella**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -36,10 +37,10 @@ Marketo consente di condividere un modello o più modelli tra le diverse aree di
 
    >[!NOTE]
    >
-   >La condivisione di un modello con un’altra area di lavoro consente agli utenti di eseguire rapporti basati sul modello.
+   >La condivisione di un modello con un’altra area di lavoro consente a tali utenti di eseguire rapporti basati sul modello.
 
-1. Selezionare le aree di lavoro con cui si desidera condividere la cartella e fare clic su **Salva**.
+1. Seleziona le aree di lavoro con cui vuoi condividere la cartella e fai clic su **Salva**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-È così facile! Ora le persone provenienti da altre aree di lavoro possono spostarsi all&#39;interno del modello condiviso.
+È così facile! Ora gli utenti di altre aree di lavoro possono spostarsi attraverso il modello condiviso.

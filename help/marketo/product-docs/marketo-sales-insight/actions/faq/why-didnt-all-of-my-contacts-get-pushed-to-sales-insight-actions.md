@@ -1,16 +1,17 @@
 ---
-description: Perché tutti i miei contatti non sono stati spinti ad azioni di Insight sulle vendite? - Documentazione Marketo - Documentazione del prodotto
-title: Perché tutti i miei contatti non sono stati spinti ad azioni di Insight sulle vendite?
+description: Perché non tutti i miei contatti sono stati inviati ad azioni di approfondimento sulle vendite? - Documentazione di Marketo - Documentazione del prodotto
+title: Perché non tutti i miei contatti sono stati inviati ad azioni di approfondimento sulle vendite?
 exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Perché tutti i miei contatti non sono stati spinti ad azioni di Insight sulle vendite? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions}
+# Perché non tutti i miei contatti sono stati inviati ad azioni di approfondimento sulle vendite? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions}
 
-Se solo alcuni dei tuoi contatti vengono inviati, è possibile che quelli che non sono stati contrassegnati come &quot;email opt out&quot; nell&#39;istanza Salesforce della tua azienda.
+Se solo alcuni dei tuoi contatti stanno passando, è possibile che quelli che non sono stati contrassegnati come &quot;rinuncia e-mail&quot; nell’istanza Salesforce della tua azienda.
 
-Controlla l&#39;icona Avvisi per motivi dettagliati per cui l&#39;intero gruppo non ha inviato il push. Per motivi relativi alla configurazione di Salesforce della tua azienda, contatta il tuo amministratore SFDC.
+Controlla l’icona Avvisi per i motivi dettagliati per cui l’intero gruppo non ha eseguito il push. Per motivi relativi alla configurazione Salesforce della tua azienda, contatta il tuo amministratore SFDC.

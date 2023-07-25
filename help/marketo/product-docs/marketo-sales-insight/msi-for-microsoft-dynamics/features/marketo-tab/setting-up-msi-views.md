@@ -1,45 +1,46 @@
 ---
-description: Configurazione delle visualizzazioni MSI - Marketo Docs - Documentazione del prodotto
-title: Impostazione delle visualizzazioni MSI
+description: Configurazione delle visualizzazioni MSI - Documentazione di Marketo - Documentazione del prodotto
+title: Configurazione delle visualizzazioni MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-# Impostazione delle visualizzazioni MSI {#setting-up-msi-views}
+# Configurazione delle visualizzazioni MSI {#setting-up-msi-views}
 
-Quando si installa il plug-in Sales Insight in Dynamics, nella mappa del sito vengono aggiunti automaticamente i Best Bet e le relative dashboard. Se per qualche motivo le dashboard non vengono aggiunte, ecco come aggiungerle manualmente.
+L’installazione del plug-in Sales Insight in Dynamics aggiunge automaticamente gli elementi di maggiore rilevanza e le dashboard correlate nella mappa del sito. Se per qualche motivo le dashboard non vengono aggiunte, ecco come aggiungerle manualmente.
 
 1. In Dynamics, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni avanzate** dal menu a discesa.
 
-1. In alto a sinistra dello schermo, fai clic su **Impostazioni**. In Personalizzazione scegli **Personalizzazioni**.
+1. In alto a sinistra, fai clic su **Impostazioni**. In Personalizzazione scegliere **Personalizzazioni**.
 
-1. Fai clic su **Personalizzare il sistema**.
+1. Clic **Personalizzare il sistema**.
 
-1. Nell&#39;albero a sinistra, fai clic su **Estensioni client** e fai doppio clic **Mappa del sito**.
+1. Nella struttura ad albero a sinistra, fai clic su **Estensioni client** e doppio clic **Mappa del sito**.
 
-1. Fare clic sulla freccia destra per passare alla pagina successiva. In Vendite, dovresti vedere Marketo. In caso contrario, assicurati di aver importato correttamente il pacchetto.
+1. Fare clic sulla freccia destra per passare alla pagina successiva. Alla voce Vendite, dovresti trovare Marketo. In caso contrario, assicurati di aver importato correttamente il pacchetto.
 
    >[!NOTE]
    >
-   >In Marketo dovresti avere: Best ets, My Email, Web Activity e Anonymous Web Activity. Se manca uno di questi dashboard, fai clic sul segno + sopra Vendite e aggiungili come sottoarea.
+   >In Marketo dovresti disporre di: Elementi di maggiore rilevanza, E-mail, Attività web e Attività web anonima. Se manca qualcuno di questi dashboard, fai clic sul segno + sopra Vendite e aggiungili come sottoarea.
 
-1. Fai clic su un dashboard per selezionarlo. Nella colonna a destra, inserisci le rispettive informazioni riportate di seguito. È possibile ignorare tutte le categorie non elencate.
+1. Fai clic su una dashboard per selezionarla. Nella colonna a destra, inserisci le rispettive informazioni di seguito per ciascuno di essi. Puoi ignorare tutte le categorie non elencate.
 
-   **Migliori offerte**</br>
+   **Elementi di maggiore rilevanza**</br>
 URL: MainviewBestbets.html</br>
 Icona: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
 ID: marketo_bestbets</br>
-Titolo: Migliori offerte
+Title: Elementi di maggiore rilevanza
 
-   **E-mail personale**</br>
+   **E-mail**</br>
 URL: mkt_/MainViewMyEmail.html</br>
 Icona: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
 ID: marketo_myemail</br>
-Titolo: E-mail personale
+Titolo: E-mail
 
    **Attività web**</br>
 URL: mkt_/MainViewWebActivity.html</br>
@@ -47,10 +48,10 @@ Icona: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
 ID: marketo_webactivity</br>
 Titolo: Attività web
 
-   **Attività Web anonime**</br>
+   **Attività Web anonima**</br>
 URL: mkt_/MainViewWebActivity.html</br>
 Icona: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
 ID: marketo_anonymous_webactivity</br>
-Titolo: Attività Web anonime
+Titolo: Attività Web anonima
 
-1. Fai clic su **Salva** al termine.
+1. Clic **Salva** al termine.

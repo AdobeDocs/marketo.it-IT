@@ -1,8 +1,9 @@
 ---
-description: Accesso automatico da Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Accesso automatico da Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Accesso automatico da Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -11,18 +12,18 @@ ht-degree: 0%
 
 # Accesso automatico da Salesforce {#auto-login-from-salesforce}
 
-L&#39;accesso automatico consente agli utenti delle azioni Approfondimenti vendite di autenticarsi automaticamente alle azioni Approfondimenti vendite quando lavorano da Salesforce.
+L’accesso automatico consente agli utenti delle azioni di approfondimento sulle vendite di autenticarsi automaticamente in tali azioni quando lavorano da Salesforce.
 
-Per utilizzare il login automatico:
+Per utilizzare l’accesso automatico:
 
-* [Impostazioni di Gestione accessi](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) deve essere impostato su &quot;Solo Salesforce&quot;
+* [Impostazioni di Gestione accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) deve essere impostato su &quot;Solo Salesforce&quot;
 
-* L&#39;utente deve essere stato invitato a utilizzare le azioni Approfondimenti vendite
+* L&#39;utente deve essere stato invitato a utilizzare le azioni di approfondimento sulle vendite
 
-* L’utente deve aver attivato l’account collegando il proprio account Salesforce alla propria istanza di azioni Insight vendite
+* L’utente deve aver attivato l’account collegando il proprio account Salesforce alla propria istanza delle azioni di Sales Insight
 
-* Il nome utente di Sales Insight Actions dell’utente deve corrispondere al nome utente Salesforce (o il nome utente Salesforce e l’e-mail sono uguali)
+* Il nome utente delle azioni Sales Insight deve corrispondere al nome utente Salesforce dell’utente (oppure il nome utente e l’e-mail Salesforce corrispondono)
 
 >[!MORELIKETHIS]
 >
->[Invitare utenti e amministratori](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+>[Invita utenti e amministratori](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)

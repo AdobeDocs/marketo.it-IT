@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1146948
-description: Invia e-mail - Documenti Marketo - Documentazione del prodotto
+description: Inviare e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Invia e-mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
@@ -14,7 +15,7 @@ ht-degree: 2%
 
 ## Panoramica {#overview}
 
-La **Invia e-mail** Le fasi di flusso possono essere utilizzate come parte delle campagne o come un singolo passaggio di flusso per inviare e-mail alle persone.
+Il **Invia e-mail** il passaggio di flusso può essere utilizzato come parte di campagne o come un singolo passaggio di flusso per inviare e-mail alle tue persone.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
@@ -28,9 +29,9 @@ Puoi visualizzare in anteprima l’e-mail selezionata direttamente dal passaggio
 
    >[!NOTE]
    >
-   >L’e-mail deve essere approvata se desideri selezionarla nel passaggio di flusso.
+   >Se desideri selezionarla nel passaggio del flusso, l’e-mail deve essere approvata.
 
-1. Fai clic sull’icona di anteprima per visualizzare il messaggio e-mail attualmente selezionato.
+1. Fai clic sull’icona di anteprima per visualizzare l’e-mail attualmente selezionata.
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 

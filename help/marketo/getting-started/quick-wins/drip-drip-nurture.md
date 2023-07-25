@@ -3,7 +3,8 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Documentazione Marketo - Documentazione del prodotto
 title: Goccia, Goccia, Alimentazione
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Marketo offre un sistema di sviluppo avanzato e sofisticato. Ecco come!
 >
 >* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importa un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 ## Passaggio 1: creare un programma di coinvolgimento {#step-create-an-engagement-program}
 

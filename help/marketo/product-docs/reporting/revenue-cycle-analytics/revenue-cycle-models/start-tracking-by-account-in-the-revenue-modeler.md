@@ -1,45 +1,46 @@
 ---
 unique-page-id: 4718681
-description: Inizia il tracciamento per account nel Modeler dei ricavi - Marketo Docs - Documentazione del prodotto
-title: Inizia il tracciamento per account nel Modeler dei ricavi
+description: Avviare il tracciamento per account in Revenue Modeler - Documenti Marketo - Documentazione del prodotto
+title: Avviare il tracciamento per account nel Modeler ricavi
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Inizia il tracciamento per account nel Modeler dei ricavi {#start-tracking-by-account-in-the-revenue-modeler}
+# Avviare il tracciamento per account nel Modeler ricavi {#start-tracking-by-account-in-the-revenue-modeler}
 
-Con Revenue Stage Modeler ed Revenue Explorer, puoi ottenere informazioni approfondite sulle prestazioni dei tuoi lead e account mentre progrediscono attraverso il tuo modello.
+Con Revenue Stage Modeler e Revenue Explorer, puoi ottenere informazioni approfondite sulle prestazioni dei lead e degli account durante l’avanzamento del modello.
 
 >[!NOTE]
 >
->Assicurati che il modello approvato abbia fasi sul percorso di successo con **Avvia tracciamento per account** controllato
+>Assicurati che il modello approvato presenti fasi sul percorso di successo con **Avvia tracciamento per account** selezionato
 
-1. Dopo aver trascorso abbastanza tempo per raccogliere dati utili, seleziona **Esplora ricavi** in **Pagina principale di Marketo**.
+1. Trascorso il tempo necessario per la raccolta dei dati utili, seleziona **Gestione ricavi** sotto **Home di My Marketo**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Per creare un nuovo rapporto, fai clic su **File** e seleziona **Nuovo** then **Rapporto**.
+1. Per creare un nuovo rapporto, fai clic su **File** e seleziona **Nuovo** allora **Report**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Seleziona **Analisi delle prestazioni del modello (aziende)** come area di analisi e fai clic su **OK**.
+1. Seleziona **Analisi delle prestazioni del modello (Aziende)** come area di analisi e fare clic su **OK**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Ti consigliamo di trascinare nella **Stage**, **Mese** e **Saldo finale** campi per mostrare la progressione delle aziende attraverso il modello per mese. Utilizza i filtri per selezionare i mesi desiderati.
+1. È consigliabile trascinare il **Fase**, **Mese**, e **Saldo finale** per mostrare la progressione delle aziende attraverso il modello per mese. Utilizzare i filtri per selezionare i mesi desiderati.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Dopo aver impostato il rapporto, fai clic con il pulsante destro del mouse su **Is Track Company** e seleziona **Filtro**. Lo utilizzeremo per limitare il rapporto alle sole fasi in cui **Tracciamento per account** è selezionato.
+1. Al termine della configurazione del report, fai clic con il pulsante destro del mouse su **È una società di tracciamento** e seleziona **Filtro**. Questo verrà utilizzato per limitare il rapporto solo alle fasi in cui **Tracciamento per account** è selezionato.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. Nella finestra di dialogo visualizzata, selezionare Sì e fare clic sulla freccia rivolta verso destra al centro. Questo filtrerà solo le fasi con l’opzione &quot;Tracking by Account&quot; abilitato. Fai clic su **OK** quando hai finito.
+1. Nella finestra di dialogo visualizzata, seleziona Sì e fai clic sulla freccia rivolta a destra al centro. Questo filtra solo le fasi con &quot;Tracciamento per account&quot; abilitato. Clic **OK** quando hai finito.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
-1. Ora il rapporto dovrebbe mostrare solo le fasi che stai tracciando per account. Assicurati di salvare il rapporto in modo da poterlo utilizzare in futuro. Ora puoi utilizzarlo come un’altra misura del successo delle tue attività di marketing.
+1. Il report ora dovrebbe mostrare solo le fasi tracciate per account. Assicurati di salvare il rapporto in modo da poterlo utilizzare in futuro. Ora puoi utilizzarlo come un’altra misura del successo delle tue attività di marketing.

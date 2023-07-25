@@ -1,20 +1,21 @@
 ---
 unique-page-id: 8783559
-description: Condivisione di un momento - Documentazione Marketo - Documentazione del prodotto
+description: Condivisione di un momento - Documentazione di Marketo - Documentazione del prodotto
 title: Condivisione di un momento
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Condivisione di un momento {#sharing-a-moment}
 
-Vuoi aggiornare il tuo team? Puoi scegliere di condividere due opzioni:
+Vuoi fornire un aggiornamento al tuo team? Sono disponibili due opzioni per selezionare la condivisione:
 
-1. Tocca **Condividi** sulla scheda .
+1. Tocca il **Condividi** sulla scheda.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
@@ -24,11 +25,11 @@ Vuoi aggiornare il tuo team? Puoi scegliere di condividere due opzioni:
 
    ![](assets/image2015-7-14-16-3a8-3a18.png)
 
-1. Seleziona la modalità di condivisione. Andiamo con le email.
+1. Seleziona la modalità di condivisione. Passiamo all&#39;e-mail.
 
    >[!NOTE]
    >
-   >La condivisione dipende dalle app installate sul telefono. Quindi, se non avete Facebook, non lo vedrete nei Momenti.
+   >La condivisione dipende dalle app installate sul telefono. Quindi, se non avete Facebook, non lo vedrete in Momenti.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

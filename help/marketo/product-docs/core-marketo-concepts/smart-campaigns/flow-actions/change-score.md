@@ -1,42 +1,43 @@
 ---
 unique-page-id: 1146962
-description: Punteggio delle modifiche - Documenti Marketo - Documentazione del prodotto
-title: Cambia punteggio
+description: Punteggio di modifica - Documentazione di Marketo - Documentazione del prodotto
+title: Modifica punteggio
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
 
 ---
 
-# Cambia punteggio {#change-score}
+# Modifica punteggio {#change-score}
 
 ## Panoramica {#overview}
 
-Puntare le persone è facile e potente per aiutare il tuo team di vendita a dare la priorità.
+Assegnare un punteggio alle persone è semplice e potente per aiutare il tuo team di vendita a dare la priorità.
 
 ![](assets/flowstep-changescore.png)
 
 ## Utilizzo {#usage}
 
-1. Selezionare il campo punteggio che si desidera modificare.
+1. Selezionare il campo di punteggio che si desidera modificare.
 
    ![](assets/image2014-9-22-11-3a7-3a31.png)
 
    >[!TIP]
    >
-   >Puoi creare più campi punteggio. Vedi [Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) per i dettagli.
+   >Puoi creare più campi di punteggio. Consulta [Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) per i dettagli.
 
-1. Inserisci la modifica del punteggio desiderata.
+1. Immetti la modifica di punteggio desiderata.
 
    ![](assets/flowstep-changescoretype.png)
 
    Modifiche:
 
-   * **+5** per incrementare
-   * **-5** decremento (numeri negativi consentiti)
-   * **=5** farà il punteggio che il numero esatto
-   * **=-5** farà il punteggio che numero esatto negativo
+   * **+5** da incrementare
+   * **-5** decremento (sono consentiti numeri negativi)
+   * **=5** farà il punteggio quel numero esatto
+   * **=-5** restituirà il punteggio corrispondente al numero negativo esatto
 
-Ottieni rapidamente alcuni punteggi di base e poi modificali i risultati nel tempo. È quello che abbiamo fatto!
+Posiziona rapidamente alcuni punteggi di base e quindi modifica i risultati nel tempo. È quello che abbiamo fatto!

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 13795734
-description: Creare una gerarchia - Documenti Marketo - Documentazione del prodotto
+description: Creare una gerarchia - Documentazione di Marketo - Documentazione del prodotto
 title: Creare una gerarchia
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -14,27 +15,27 @@ ht-degree: 0%
 
 Le gerarchie devono essere create in CRM. Tuttavia, se non disponi di un CRM, segui questi passaggi per creare manualmente una gerarchia.
 
-1. In Account denominati, fai clic sul pulsante **Raggruppa per gerarchia** casella di controllo.
+1. In Account denominati, fai clic su **Raggruppa per gerarchia** casella di controllo.
 
    ![](assets/create-a-hierarchy-1.png)
 
    >[!NOTE]
    >
-   >Solo gli account non CRM possono essere utilizzati per creare manualmente una gerarchia. Gli account collegati a CRM devono avere le loro gerarchie create nel CRM.
+   >Per creare manualmente una gerarchia è possibile utilizzare solo account non CRM. Gli account collegati a CRM devono avere le loro gerarchie create nel CRM.
 
-1. Con Ctrl+clic (Windows) o Comando+clic (Mac), selezionate tutti gli account da raggruppare in una gerarchia.
+1. Utilizzando i comandi Ctrl-clic (Windows) o Comando-clic (Mac), selezionare tutti gli account che si desidera raggruppare in una gerarchia.
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Fai clic sul pulsante **Azioni account denominate** a discesa e seleziona **Collegamento a un account denominato**.
+1. Fai clic su **Azioni account denominate** a discesa e selezionare **Collegamento a account denominato**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Per scollegare gli account, segui i passaggi precedenti ma scegli **Scollega da account con nome**.
+   >Se desideri scollegare gli account, segui i passaggi indicati sopra ma scegli **Scollega da account denominato**.
 
-1. Seleziona un account principale denominato dal menu a discesa e fai clic su **Collegamento**.
+1. Seleziona un account denominato principale dal menu a discesa e fai clic su **Collegamento**.
 
    ![](assets/create-a-hierarchy-4.png)
 

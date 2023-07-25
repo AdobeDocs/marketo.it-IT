@@ -1,55 +1,56 @@
 ---
 unique-page-id: 2360437
-description: Esplorare i dettagli del programma e del canale con Program Analyzer - Marketo Docs - Documentazione del prodotto
-title: Esplorare i dettagli del programma e del canale con Program Analyzer
+description: Esplora i dettagli del programma e del canale con il tool Program Analyzer - Documentazione di Marketo - Documentazione del prodotto
+title: Esplora i dettagli del programma e del canale con l’analizzatore di programmi
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Esplorare i dettagli del programma e del canale con Program Analyzer {#explore-program-channel-details-with-the-program-analyzer}
+# Esplora i dettagli del programma e del canale con l’analizzatore di programmi {#explore-program-channel-details-with-the-program-analyzer}
 
-Puoi visualizzare informazioni dettagliate sul programma e sugli stati dei canali in Program Analyzer. Puoi anche aprirli in Revenue Cycle Explorer.
+Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in Program Analyzer (Analizzatore di programmi). È inoltre possibile aprirli in Esplora cicli di ricavi.
 
 >[!PREREQUISITES]
 >
->[Creare un’analisi dei programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Creare un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->Questa funzionalità non è inclusa in tutte le edizioni di Marketo. Per ulteriori informazioni, contatta il tuo account manager.
+>Non tutte le edizioni di Marketo includono questa funzionalità. Per ulteriori informazioni, contatta il tuo account manager.
 
-1. Fai clic su **Analytics**.
+1. Clic **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
-1. Seleziona il tuo programma Analyzer.
+1. Seleziona il tuo analizzatore di programmi.
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Per visualizzare le statistiche specifiche di un canale o di un programma (a seconda del **Visualizza** selezionate), fate clic sulla bolla corrispondente.
+1. Per visualizzare le statistiche specifiche di un canale o di un programma (a seconda della **Visualizza** selezionate), fate clic sulla bolla corrispondente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Molte delle metriche che è possibile scegliere nell&#39;analizzatore di programmi sono disponibili con calcoli di primo contatto (FT) e multi-touch (MT). È importante comprendere il [differenza tra l’attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Molte delle metriche selezionabili nell’analizzatore di programmi sono disponibili con calcoli di primo contatto (FT) e multi contatto (MT). È importante comprendere il [differenza tra attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Per confrontare tutti i programmi all&#39;interno di un singolo canale, fare clic sul nome del canale nella finestra di dialogo a comparsa.
 
    ![](assets/image2015-4-28-12-3a59-3a36.png)
 
-1. Ora è possibile confrontare i singoli programmi all&#39;interno di quel singolo canale!
+1. Ora puoi confrontare i singoli programmi all’interno di quel singolo canale.
 
    ![](assets/image2015-4-28-13-3a0-3a14.png)
 
    >[!NOTE]
    >
-   >Facendo clic su un singolo canale, la visualizzazione viene visualizzata in Per programma, filtrata solo su quel canale. Per tornare a tutti i canali, seleziona **Visualizza** > **Per canale**.
+   >Facendo clic su un singolo canale si passa alla visualizzazione Per programma, filtrata solo per quel canale. Per tornare a tutti i canali, seleziona **Visualizza** > **Per canale**.
 
-1. Per aprire Esplora ciclo ricavi per approfondire ulteriormente una statistica, fai clic su tale numero nella finestra di dialogo a comparsa.
+1. Per aprire Gestione ciclo ricavi e approfondire ulteriormente una statistica, fare clic su tale numero nella finestra di dialogo a comparsa.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)

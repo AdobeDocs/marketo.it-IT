@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2359587
-description: Campione/sfida - Eliminare un test e-mail - Marketo Docs - Documentazione del prodotto
-title: Campione/sfida - Elimina un test e-mail
+description: Champion/Challenger - Elimina un test e-mail - Documenti Marketo - Documentazione del prodotto
+title: 'Campione/Challenger: elimina un test e-mail'
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# Campione/sfida: Eliminare un test e-mail {#champion-challenger-discard-an-email-test}
+# Campione/Challenger: elimina un test e-mail {#champion-challenger-discard-an-email-test}
 
-Se in un qualsiasi momento decidi di non voler continuare a eseguire il test e-mail, puoi ignorarlo. Ecco come.
+Se, in qualsiasi momento, decidi di non voler continuare a eseguire il test e-mail, puoi eliminarlo. Ecco come.
 
 >[!PREREQUISITES]
 >
->[Campione/sfida: Approva il tuo test e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+>[Campione/Challenger: Approva Il Test E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Vai a **Attività di marketing**.
 
@@ -26,8 +27,8 @@ Se in un qualsiasi momento decidi di non voler continuare a eseguire il test e-m
 
    ![](assets/champion5.jpg)
 
-1. Fai clic su **Elimina** per confermare.
+1. Clic **Elimina** per confermare.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   Hai finito! Se decidi di voler impostare nuovamente un test, continua e [aggiungi un campione e-mail/sfidante](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   Hai finito! Se decidi di impostare nuovamente un test, procedi e [aggiungi un campione/sfidante e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

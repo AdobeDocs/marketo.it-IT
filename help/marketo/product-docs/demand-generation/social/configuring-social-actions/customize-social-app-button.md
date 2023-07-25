@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359759
-description: Pulsante Personalizza app social - Documenti Marketo - Documentazione del prodotto
+description: Pulsante Personalizza app social - Documentazione di Marketo - Documentazione del prodotto
 title: Pulsante Personalizza app social
 exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Pulsante Personalizza app social {#customize-social-app-button}
 
-Quando crei una [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), è possibile personalizzare l’aspetto dei pulsanti.
+Quando si crea un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o un [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), è possibile personalizzare l&#39;aspetto dei pulsanti.
 
 1. Vai a **Attività di marketing**.
 
@@ -22,7 +23,7 @@ Quando crei una [pulsante social](/help/marketo/product-docs/demand-generation/l
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Nell’editor di app social, vai a **Impostazioni app** > **Stile pulsante** o **Stile di registrazione,** per offerte di riferimento).
+1. Nell’editor delle app social, vai a **Impostazioni app** > **Stile pulsanti** (o **Stile registrazione,** per le offerte di riferimento).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -36,28 +37,28 @@ Quando crei una [pulsante social](/help/marketo/product-docs/demand-generation/l
 
    >[!NOTE]
    >
-   >Per le offerte di riferimento, seleziona le reti in **2. Flusso di iscrizione > Social Networks**.
+   >Per le offerte di riferimento, seleziona le reti in **2. Flusso registrazione > Social network**.
 
-1. Scegli un tipo di pulsante.
+1. Scegliere un tipo di pulsante.
 
    ![](assets/image2014-9-23-17-3a4-3a50.png)
 
    >[!TIP]
    >
-   >Se hai scelto **Carica immagini in stile pulsante** in precedenza, le sezioni seguenti ti consentono di caricare le immagini dei pulsanti invece di modificare il testo.
+   >Se si sceglie **Carica immagini in Stile pulsante** qui sopra, le sezioni seguenti ti consentono di caricare immagini di pulsanti invece di modificare il testo.
 
-1. Modifica le etichette del pulsante prima e dopo aver fatto clic su di esso.
+1. Modifica le etichette del pulsante prima e dopo aver fatto clic su.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Mentre effettui ogni scelta, rivedi il risultato nel **Visualizza e modifica** finestra.
+1. Quando effettui ogni scelta, rivedi il risultato in **Visualizza e modifica** finestra.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In un’offerta di riferimento, puoi anche personalizzare la **Tracciamento avanzamento** pulsante . Vai a **Impostazioni app** > **Stile di avanzamento traccia** e segui gli stessi passaggi indicati sopra.
+>In un’offerta di riferimento, puoi anche personalizzare **Tracciare l’avanzamento** pulsante. Vai a **Impostazioni app** > **Stile di avanzamento traccia** e segui gli stessi passaggi di cui sopra.
 
 >[!MORELIKETHIS]
 >
->Per un pulsante social, [configura all&#39;apertura](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Per un’offerta di riferimento, [specifica l’obiettivo dell’offerta](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+>Per un pulsante Social, [configura all’apertura](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Per un’offerta di riferimento, [specifica l’obiettivo dell’offerta](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).

@@ -1,27 +1,28 @@
 ---
-description: Impostazioni della campagna di vendita - Documentazione Marketo - Documentazione del prodotto
-title: Impostazioni della campagna di vendita
+description: Impostazioni delle campagne di vendita - Documentazione di Marketo - Documentazione del prodotto
+title: Impostazioni campagna di vendita
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
-# Impostazioni della campagna di vendita {#sales-campaign-settings}
+# Impostazioni campagna di vendita {#sales-campaign-settings}
 
-La sezione delle impostazioni della campagna di vendita consente di configurare una campagna di vendita specifica in modo che possa funzionare al meglio in base ai casi d&#39;uso del team per quella campagna di vendita.
+La sezione Impostazioni campagna di vendita consente di configurare una campagna di vendita specifica in modo che possa funzionare nel modo migliore per i casi d’uso del team per quella campagna di vendita.
 
-## Ignora fine settimana {#skip-weekends}
+## Salta fine settimana {#skip-weekends}
 
-Abilita salta i fine settimana in modo che tutti i passaggi che sarebbero caduti in un giorno weekend (sabato o domenica) verranno spostati a lunedì.
+Abilita Ignora fine settimana in modo che tutti i passaggi che sarebbero caduti in un giorno del weekend (sabato o domenica) vengano spostati a lunedì.
 
 >[!NOTE]
 >
->Se l’opzione Ignora fine settimana è abilitata, le e-mail verranno pianificate in base a una settimana di 5 giorni. Ciò significa che, quando un passaggio è pianificato, i fine settimana verranno ignorati come giorni.
+>Con Salta fine settimana abilitato, le e-mail verranno pianificate in base a una settimana di 5 giorni. Ciò significa che, quando un passaggio è pianificato, i fine settimana verranno ignorati come giorni.
 
-1. Fai clic su **Campagne**.
+1. Clic **Campagne**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -29,19 +30,19 @@ Abilita salta i fine settimana in modo che tutti i passaggi che sarebbero caduti
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Fai clic sul pulsante **Impostazioni** scheda .
+1. Fai clic su **Impostazioni** scheda.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Seleziona la **Ignora fine settimana** casella di controllo.
+1. Seleziona la **Salta fine settimana** casella di controllo.
 
    ![](assets/sales-campaign-settings-4.png)
 
-## Rimuovi in rimbalzo {#remove-on-bounce}
+## Rimuovi in caso di mancato recapito {#remove-on-bounce}
 
-Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati in base al messaggio non recapitato inviato alla casella in entrata degli utenti. Inoltre, è possibile rimuovere le persone dalle campagne di vendita quando viene rilevato un rimbalzo.
+Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati in base al messaggio non recapitato inviato alla casella in entrata degli utenti. Inoltre, possiamo rimuovere le persone dalle campagne di vendita quando viene rilevato un mancato recapito.
 
-1. Fai clic su **Campagne**.
+1. Clic **Campagne**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -49,19 +50,19 @@ Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati i
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Fai clic sul pulsante **Impostazioni** scheda .
+1. Fai clic su **Impostazioni** scheda.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Seleziona la **Rimuovi in rimbalzo** casella di controllo.
+1. Seleziona la **Rimuovi in caso di mancato recapito** casella di controllo.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## Se si verifica una risposta {#if-a-reply-occurs}
 
-Se per Gmail o Exchange è abilitato il tracciamento delle risposte, è possibile terminare automaticamente la campagna vendite se un destinatario risponde al messaggio e-mail.
+Se hai abilitato il tracciamento delle risposte per Gmail o Exchange, possiamo terminare automaticamente la tua campagna di vendita se un destinatario risponde alla tua e-mail.
 
-1. Fai clic su **Campagne**.
+1. Clic **Campagne**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -69,17 +70,16 @@ Se per Gmail o Exchange è abilitato il tracciamento delle risposte, è possibil
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Fai clic sul pulsante **Impostazioni** scheda .
+1. Fai clic su **Impostazioni** scheda.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Sotto **Se si verifica una risposta**, effettua le selezioni desiderate.
+1. Sotto **Se si verifica una risposta**, effettuare le selezioni desiderate.
 
    ![](assets/sales-campaign-settings-12.png)
 
 >[!MORELIKETHIS]
 >
->* [Creare una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
->* [Informazioni sulle opzioni di invio delle campagne di vendita per i passaggi e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
->* [Tipi di passaggi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
-
+>* [Creare una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* [Tipi di fasi della campagna di vendita e task promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

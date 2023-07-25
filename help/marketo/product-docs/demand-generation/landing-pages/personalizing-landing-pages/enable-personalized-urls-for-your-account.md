@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359810
-description: Abilita URL personalizzati per il tuo account - Documenti Marketo - Documentazione del prodotto
-title: Abilita URL personalizzati per il tuo account
+description: Abilitare URL personalizzati per l’account - Documentazione di Marketo - Documentazione del prodotto
+title: Abilitare gli URL personalizzati per il tuo account
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Abilita URL personalizzati per il tuo account {#enable-personalized-urls-for-your-account}
+# Abilitare gli URL personalizzati per il tuo account {#enable-personalized-urls-for-your-account}
 
-Gli URL personalizzati sono ottimi per le campagne di stampa.
+Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 
 >[!NOTE]
 >
@@ -22,7 +23,7 @@ Gli URL personalizzati sono ottimi per le campagne di stampa.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Fai clic su **Modifica**.
+1. Clic **Modifica**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
@@ -30,15 +31,14 @@ Gli URL personalizzati sono ottimi per le campagne di stampa.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Ottimo lavoro! Dopo aver abilitato i URL per il tuo account, puoi abilitarli per le singole pagine di destinazione.
+Ottimo lavoro! Ora che hai abilitato i PURL per il tuo account, puoi abilitarli per le singole pagine di destinazione.
 
 >[!NOTE]
 >
->Se due persone hanno gli stessi nomi e/o cognomi, il sistema aggiunge automaticamente un numero alla fine del loro nome PURL.
+>Se due persone hanno lo stesso nome e/o cognome, il sistema aggiungerà automaticamente un numero alla fine del loro nome PURL.
 >
 >Esempio:
 >
 >1. AnnaJones
 >1. AnnaJones2
 >1. AnnaJones3
-

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359543
-description: Aggiungere un campo a un modulo - Documenti Marketo - Documentazione del prodotto
+description: Aggiungere un campo a un modulo - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiungere un campo a un modulo
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungere un campo a un modulo {#add-a-field-to-a-form}
 
-Una volta [creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), puoi aggiungere altri campi da compilare per gli utenti. Ecco come.
+Una volta [ha creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [ha selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), potrebbe essere utile aggiungere altri campi da compilare. Ecco come.
 
 1. Vai a **Attività di marketing**.
 
@@ -22,13 +23,13 @@ Una volta [creato il modulo](/help/marketo/product-docs/demand-generation/forms/
 
    ![](assets/editform-1.png)
 
-1. Fai clic sul pulsante **+** segno.
+1. Fai clic su **+** firma.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
    >[!NOTE]
    >
-   >Quando si crea un nuovo modulo, vengono aggiunti automaticamente Nome, Cognome e Indirizzo e-mail.
+   >Quando si crea un nuovo modulo, vengono aggiunti automaticamente nome, cognome e indirizzo e-mail.
 
 1. Individuare e selezionare il campo che si desidera aggiungere al modulo.
 
@@ -44,6 +45,6 @@ Una volta [creato il modulo](/help/marketo/product-docs/demand-generation/forms/
 
 >[!NOTE]
 >
->Assicurati di approvare tutte le bozze delle pagine di destinazione create a causa delle modifiche al modulo.
+>Assicurati di approvare tutte le bozze di pagine di destinazione create a causa delle modifiche apportate al modulo.
 
-Niente male. Continuate il buon lavoro! Come impariamo come [rendere obbligatorio un campo modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) successivo?
+Non male per niente. Continua il buon lavoro! Che ne dici di imparare a [imposta un campo modulo obbligatorio](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) il prossimo?

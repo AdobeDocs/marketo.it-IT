@@ -1,28 +1,29 @@
 ---
 unique-page-id: 11380734
-description: Trigger account - Documentazione Marketo - Documentazione del prodotto
-title: Trigger account
+description: Trigger account - Documentazione di Marketo - Documentazione del prodotto
+title: Attivatori account
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Trigger account {#account-triggers}
+# Attivatori account {#account-triggers}
 
-Ascolta e agisce su importanti attività comportamentali a livello di account su diversi canali (ad esempio, e-mail, web, annunci) utilizzando trigger a livello di account.
+Ascolta e agisci su importanti attività comportamentali a livello di account tra diversi canali (ad esempio e-mail, web, annunci) utilizzando i trigger a livello di account.
 
-Seleziona la campagna avanzata e fai clic su **[!UICONTROL Elenco avanzato]**.
+Seleziona la tua campagna intelligente e fai clic su **[!UICONTROL Elenco avanzato]**.
 
 ![](assets/one-1.png)
 
-Inserisci &quot;Account con nome&quot; nella casella di ricerca per trovare entrambi i trigger Account con nome.
+Immettere &quot;Named Account&quot; nella casella di ricerca per trovare entrambi i trigger Named Account.
 
 ![](assets/two-1.png)
 
-Trascinate il trigger desiderato sull’area di lavoro. In questo esempio utilizziamo _Aggiunto all’account con nome_.
+Trascina il trigger desiderato nell’area di lavoro. In questo esempio utilizziamo _Aggiunto all&#39;account denominato_.
 
 ![](assets/three-1.png)
 
@@ -30,15 +31,15 @@ Scegli un qualificatore.
 
 ![](assets/four-1.png)
 
-Fai clic sull&#39;elenco a discesa dell&#39;account denominato...
+Fai clic sull’elenco a discesa dell’account denominato...
 
 ![](assets/five-1.png)
 
-...e scegli i tuoi account denominati desiderati.
+...e scegli gli account denominati desiderati.
 
 ![](assets/six-1.png)
 
-Tutto qui! Dopo aver completato il resto della campagna intelligente, ricorda di attivarla.
+Tutto qui! Dopo aver completato il resto della campagna avanzata, ricordati di attivarla.
 
 >[!MORELIKETHIS]
 >

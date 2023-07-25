@@ -1,8 +1,9 @@
 ---
-description: Modelli consigliati - Documenti Marketo - Documentazione del prodotto
+description: Modelli consigliati - Documentazione di Marketo - Documentazione del prodotto
 title: Modelli consigliati
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -11,9 +12,9 @@ ht-degree: 0%
 
 # Modelli consigliati {#recommended-templates}
 
-I modelli consigliati per l’azione Approfondimenti vendite consentono di ricevere la messaggistica corretta risparmiando tempo. Questo offre un maggiore flusso durante l’invio delle e-mail e riduce l’incertezza quando si cerca di trovare l’e-mail giusta per la persona giusta.
+I modelli consigliati dell’azione Sales Insight consentono di ricevere i messaggi giusti e di risparmiare tempo. Questo offre un flusso maggiore durante l’invio di e-mail e riduce l’incertezza quando si tenta di trovare l’e-mail giusta per la persona giusta.
 
-1. Passa alla scheda Modelli .
+1. Passa alla scheda Modelli.
 
    ![](assets/recommended-templates-1.png)
 
@@ -21,38 +22,38 @@ I modelli consigliati per l’azione Approfondimenti vendite consentono di ricev
 
    ![](assets/recommended-templates-2.png)
 
-1. Nella scheda Modello consigliato , fai clic su **Modifica**.
+1. Nella scheda Modello consigliato, fai clic su **Modifica**.
 
    ![](assets/recommended-templates-3.png)
 
-1. Seleziona la **Creare un modello consigliato** seleziona e fai clic su **Salva**.
+1. Seleziona la **Creare un modello consigliato** e fai clic su **Salva**.
 
    ![](assets/recommended-templates-4.png)
 
 >[!NOTE]
 >
->Per ulteriori informazioni sui criteri dei modelli, consulta di seguito.
+>Per ulteriori informazioni sui criteri dei modelli, vedi di seguito.
 
-## Tutto vs. qualsiasi {#all-vs-any}
+## Tutti e Qualsiasi {#all-vs-any}
 
-Seleziona **Tutto** se desideri che il modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **Qualsiasi** se desideri che il modello sia consigliato quando viene soddisfatto uno dei criteri.
+Seleziona **Tutti** se desideri che il modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **Qualsiasi** se desideri che il modello sia consigliato quando viene soddisfatto uno qualsiasi dei criteri.
 
 ## Impostazione dei criteri {#setting-criteria}
 
-I criteri imposteranno le condizioni per le quali verranno consigliati i modelli. Puoi impostare un massimo di 3 criteri. Seleziona innanzitutto i campi dinamici a cui vuoi indirizzare il tuo modello.
+I criteri imposteranno le condizioni per le quali verranno consigliati i modelli. Puoi impostare un massimo di 3 criteri. Seleziona innanzitutto i campi dinamici a cui vuoi puntare nel modello.
 
 ## Condizioni {#conditions}
 
-Ora, seleziona la tua condizione. Quando vengono soddisfatte le condizioni per il campo dinamico, si consiglia di utilizzare il modello . Scegli tra 4 condizioni diverse.
+Ora, seleziona la condizione. Quando vengono soddisfatte le condizioni per il campo dinamico, viene consigliato il modello. Scegli tra 4 diverse condizioni.
 
-**Uguale**: Il valore deve essere una corrispondenza esatta (ad esempio, Marketo è uguale a Marketo)
+**Uguale a**: il valore deve corrispondere esattamente (ad esempio, Marketo è uguale a Marketo)
 
-**È diverso da**: Il valore deve essere qualsiasi cosa tranne una corrispondenza esatta (ad esempio, Marketing Nation non equivale a Marketing)
+**Does Not Equal**: il valore deve corrispondere a qualsiasi cosa tranne che a una corrispondenza esatta (ad esempio, Marketing Nation è diverso da Marketing)
 
-**Contiene**: Deve contenere solo il valore (ad esempio, Marketo Rocks! contiene Marketo)
+**Contiene**: deve solo contenere il valore (ad esempio, Marketo Rocks! contiene Marketo)
 
-**Non contiene**: Il valore non deve trovarsi nel campo dinamico (ad esempio, Marketo Rocks! non contiene Ammirevole)
+**Does Not Contain**: il valore non deve trovarsi nel campo dinamico (ad esempio, Marketo Rocks! non contiene Awesome)
 
-## Aspetto Di Un Modello Consigliato {#what-a-recommended-template-looks-like}
+## Descrizione Di Un Modello Consigliato {#what-a-recommended-template-looks-like}
 
-Ora che hai mappato il tuo primo modello, è ora di mappare il resto. Esamina i modelli più efficaci e consigliali. Non dimenticare di condividere il modello anche con il tuo team. Le impostazioni consigliate per qualsiasi modello verranno condivise anche tra il team.
+Ora che hai mappato il tuo primo modello, è ora di mappare il resto. Individua i modelli di maggior successo e consigliali. Non dimenticare di condividere il modello anche con il tuo team. Anche le impostazioni consigliate per eventuali modelli verranno condivise tra il team.

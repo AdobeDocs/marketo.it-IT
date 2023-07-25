@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359951
-description: Rimuovere un membro da un programma di coinvolgimento - Marketo Docs - Documentazione del prodotto
+description: Rimuovere un membro da un programma di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
 title: Rimuovere un membro da un programma di coinvolgimento
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -12,28 +13,28 @@ ht-degree: 0%
 
 # Rimuovere un membro da un programma di coinvolgimento {#remove-a-member-from-an-engagement-program}
 
-Oops! Come sono entrate quelle persone? È possibile rimuovere membri da un programma di coinvolgimento con **Cambia stato del programma** passaggio di flusso.
+Ops! Come hanno fatto quelle persone a entrare? È possibile rimuovere membri da un programma di coinvolgimento con **Modifica stato programma** passaggio di flusso.
 
 >[!TIP]
 >
->Non utilizzare questa opzione per mettere in pausa il contenuto per una persona. Questo eliminerà tutte le attribuzioni in analytics. Ulteriori informazioni su come [mettere in pausa le persone in un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+>Non utilizzarlo per mettere in pausa il contenuto di una persona. Questo eliminerà tutte le attribuzioni nell’analisi. Ulteriori informazioni su come [mettere in pausa le persone in un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
-## Passaggio flusso {#flow-step}
+## Passaggio di flusso {#flow-step}
 
-1. Trascina **Cambia stato del programma** passaggio di flusso.
+1. Trascina nella **Modifica stato programma** passaggio di flusso.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Scegliere lo stato, **Non in programma**.
+   Scegli lo stato, **Non nel programma**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Tutti i membri definiti nella [smart list](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) non sarà più incluso in questo programma di impegno.
+   Groovy. Tutti i membri definiti in [elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) non sarà più in questo programma di coinvolgimento.
 
-## Pausa persone  {#pause-people}
+## Sospendi persone  {#pause-people}
 
-A volte si vuole solo mettere in pausa le persone in un programma di coinvolgimento e non rimuoverle. Questa operazione viene eseguita con la **Modifica la cadenza del programma di coinvolgimento**.
+A volte ti basta mettere in pausa le persone in un programma di coinvolgimento e non rimuoverle. Questa operazione viene eseguita con **Modifica cadenza programma di coinvolgimento**.
 
 >[!MORELIKETHIS]
 >
->[Sospendere le persone in un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
+>[Mettere in pausa le persone in un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)

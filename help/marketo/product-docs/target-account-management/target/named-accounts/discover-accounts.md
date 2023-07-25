@@ -1,38 +1,39 @@
 ---
 unique-page-id: 11378812
-description: Scopri gli account - Documenti Marketo - Documentazione del prodotto
-title: Scopri account
+description: Esplorare gli account - Documentazione di Marketo - Documentazione del prodotto
+title: Individua account
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Scopri account {#discover-accounts}
+# Individua account {#discover-accounts}
 
-Utilizza l’opzione Scopri per identificare potenziali account target.
+Utilizza l’opzione Discover per identificare potenziali account di destinazione.
 
 ## Scopri gli account CRM {#discover-crm-accounts}
 
-Identifica potenziali account target dal CRM.
+Identifica potenziali account di destinazione dal tuo CRM.
 
 >[!NOTE]
 >
->Dopo aver collegato il CRM a Marketo TAM, **Scopri gli account CRM** mostrerà tutti gli account CRM e le informazioni rilevanti per aiutarti a scegliere gli account denominati giusti. Marketo aggiunge ulteriori informazioni su ciò che viene ricevuto dal CRM.
+>Dopo aver collegato il CRM al TAM di Marketo, **Scopri gli account CRM** mostrerà tutti gli account CRM e le informazioni rilevanti per aiutarti a scegliere gli account denominati giusti. Marketo aggiunge ulteriori informazioni oltre a quelle ricevute dal sistema CRM.
 
-**Persone** (In Scopri gli account CRM e scopri le società Marketo): Include sia Contatti che Lead. I lead possono essere scoperti utilizzando Marketo [corrispondenza lead-to-account](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md).
+**Persone** (In Discover CRM Accounts &amp; Discover Marketo Companies): include sia contatti che lead. I lead possono essere rilevati utilizzando Marketo [corrispondenza lead-account](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md).
 
-**Persone potenziali** (In Scopri gli account CRM e scopri le società Marketo): Mostra quanti lead Marketo ha trovato che potrebbero appartenere a un account CRM.
+**Persone potenziali** (In Scopri account CRM e Scopri società Marketo): mostra quanti lead Marketo ha trovato che potrebbero appartenere a un account CRM.
 
-**Campo CRM personalizzato** (Solo in Scopri account CRM): Questo ti aiuterà ad allineare la tua organizzazione di vendita e marketing per la selezione di account di destinazione corretti. Una volta [mappa il campo CRM personalizzato](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) con Marketo TAM, ti mostreremo i dati mappati per aiutarti a identificare gli account di destinazione.
+**Campo CRM personalizzato** (Solo in Discover CRM Accounts): ti aiuterà ad allineare la tua organizzazione di vendita e marketing per la selezione di account target corretti. Una volta [mappare il campo CRM personalizzato](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) con Marketo TAM, ti mostreremo i dati mappati per aiutarti a identificare i tuoi account target.
 
-1. In Account denominati, fai clic sul pulsante **Nuovo** a discesa e seleziona **Scopri gli account CRM**.
+1. In Account denominati, fai clic su **Nuovo** a discesa e selezionare **Scopri gli account CRM**.
 
    ![](assets/disc-crm-one.png)
 
-1. Viene aperta una nuova finestra/scheda. Seleziona gli account CRM che desideri aggiungere ai tuoi account denominati e fai clic su **Successivo**.
+1. Viene aperta una nuova finestra o scheda. Seleziona gli account CRM che desideri aggiungere ai tuoi account denominati e fai clic su **Successivo**.
 
    ![](assets/disc-crm-two.png)
 
@@ -40,7 +41,7 @@ Identifica potenziali account target dal CRM.
 
    ![](assets/disc-three.png)
 
-   È tutto quello che c&#39;è da fare!
+   È tutto qui!
 
    ![](assets/disc-four.png)
 
@@ -50,52 +51,51 @@ Identifica le aziende giuste per il targeting.
 
 >[!NOTE]
 >
->In Scopri le società Marketo vedrai le società Marketo che non provengono dal tuo sistema di gestione delle relazioni con i clienti.
+>In Discover Marketo Companies, vedrai aziende Marketo che non provengono dal tuo sistema CRM.
 
-1. In Account denominati, fai clic sul pulsante **Nuovo** a discesa e seleziona **Scopri le aziende Marketo**.
+1. In Account denominati, fai clic su **Nuovo** a discesa e selezionare **Scopri le aziende Marketo**.
 
    ![](assets/one-1.png)
 
-1. Viene aperta una nuova finestra/scheda. Seleziona le società da aggiungere ai tuoi account denominati e fai clic su **Successivo**.
+1. Viene aperta una nuova finestra o scheda. Seleziona le società da aggiungere ai tuoi account denominati e fai clic su **Successivo**.
 
    ![](assets/disc-comp-two.png)
 
    >[!NOTE]
    >
-   >In Scopri le aziende Marketo e Scopri CRM, Marketo automaticamente:
+   >In Discover Marketo Companies and Discover CRM, Marketo automaticamente:
    >
-   >* Trova le persone del database Marketo per le quali l&#39;azienda è elencata nel record. Se visualizzi più valori per alcuni degli attributi (ad esempio, Settore), è perché Marketo ha trovato valori diversi elencati per quelle singole persone. L&#39;attributo con il maggior numero di hit vince
+   >* Trova gli utenti del database Marketo che hanno tale società elencata nel record. Se vedi più valori per alcuni degli attributi (ad esempio, Industria), è perché Marketo ha trovato valori diversi elencati per queste singole persone. L’attributo con il maggior numero di hit vince
    >
-   >In **Scopri CRM** Solo, Marketo automaticamente:
+   >In entrata **Scopri CRM** Solo Marketo:
    >
    >* Sincronizza e associa i contatti CRM con l&#39;account denominato
    >
-   >In **Scopri le aziende Marketo** Solo, Marketo automaticamente:
+   >In entrata **Scopri le aziende Marketo** Solo Marketo:
    >
-   >* Filtra la maggior parte dei provider di servizi Internet e i domini pubblici (ad esempio, yahoo.com, gmail.com) come nomi aziendali
+   >* Filtra la maggior parte dei provider di servizi Internet e dei domini pubblici (ad esempio, yahoo.com, gmail.com) come nomi di società
    >
-   >* Deduce gli account CRM. Se hai &quot;Acme&quot; in un record e &quot;Acme Inc&quot; (o uno dei seguenti suffissi: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), le fonderemo in TAM come &quot;Acme&quot;
+   >* Deduplica gli account CRM. Se hai &quot;Acme&quot; in un record e &quot;Acme Inc&quot; (o uno qualsiasi dei seguenti suffissi: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), li uniremo in TAM come semplicemente &quot;Acme&quot;
+   >
+   >Se desideri che Marketo deduplichi gli account in base all’ID CRM o al proprietario dell’account invece che in base al nome dell’azienda, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-   >
-   >Se desideri che Marketo deduplichi gli account per ID CRM o per proprietario dell&#39;account invece che per nome società, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
-
-1. Fai clic sulla freccia rivolta verso il basso sotto la colonna Account con nome per visualizzare il menu a discesa.
+1. Fai clic sulla freccia rivolta verso il basso sotto la colonna Account denominato per visualizzare il menu a discesa.
 
    ![](assets/disc-comp-three.png)
 
    >[!CAUTION]
    >
-   >In futuro, tutte le nuove persone provenienti da queste società selezionate saranno automaticamente assegnate ai rispettivi account denominati. Controlla queste aziende e assicurati che siano assegnate all&#39;account con nome corretto.
+   >In futuro, tutte le nuove persone di queste società selezionate verranno automaticamente assegnate ai loro rispettivi account denominati. Ricontrollare queste società e assicurarsi che siano assegnate all&#39;account denominato corretto.
 
-1. Per selezionare un account esistente, fai clic sul pulsante **Account denominato** a discesa, scegli l’account desiderato, quindi fai clic su **Successivo**.
+1. Per selezionare un account esistente, fai clic su **Account denominato** , scegli l’account desiderato, quindi fai clic su **Successivo**.
 
    ![](assets/disc-comp-four.png)
 
-   Puoi anche creare un nuovo account con nome digitando il nome desiderato direttamente nella casella a discesa. Al termine, fai clic lontano dalla casella..
+   Puoi anche creare un nuovo Account denominato digitando il nome desiderato direttamente nella casella a discesa. Al termine, fai clic lontano dalla casella...
 
    ![](assets/disc-comp-five.png)
 
-   ...e vedrai il tuo nuovo account denominato. A quel punto, fai clic su **Successivo** come nel passaggio 4.
+   ...e vedrai il tuo nuovo account con nome. A questo punto, fai clic su **Successivo** come nel Passaggio 4.
 
    ![](assets/disc-comp-six.png)
 
@@ -103,18 +103,17 @@ Identifica le aziende giuste per il targeting.
 
    ![](assets/disc-comp-seven.png)
 
-   Ottimo lavoro!
+   Ottimo lavoro. 
 
    ![](assets/disc-co-six.png)
 
 >[!NOTE]
 >
->Se si verifica una mancata corrispondenza tra gli account CRM selezionati e ciò che si trova nella griglia di Discover CRM, è probabile che ciò sia dovuto a uno o più dei seguenti elementi:
+>Se noti una mancata corrispondenza tra gli account CRM selezionati e quelli presenti nella griglia di individuazione CRM, è probabile che sia dovuta a una o più delle seguenti cause:
 >
->* Avere diversi account CRM con nomi simili che sono stati deduplicati
->* La successiva sincronizzazione pianificata non si è ancora verificata
-
+>* Avere account CRM diversi con nomi simili che sono stati deduplicati
+>* La prossima sincronizzazione pianificata non è ancora avvenuta
 
 >[!MORELIKETHIS]
 >
->[Corrispondenza lead a conto](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[Lead per corrispondenza account](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

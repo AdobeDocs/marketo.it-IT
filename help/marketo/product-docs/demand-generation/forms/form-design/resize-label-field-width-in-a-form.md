@@ -1,36 +1,37 @@
 ---
 unique-page-id: 2359604
-description: Ridimensionare l’etichetta/la larghezza del campo in un modulo - Documenti Marketo - Documentazione del prodotto
-title: Ridimensionare l’etichetta/la larghezza del campo in un modulo
+description: Ridimensionamento dell’etichetta/larghezza del campo in un modulo - Documenti Marketo - Documentazione del prodotto
+title: Ridimensionamento dell’etichetta o della larghezza del campo in un modulo
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Ridimensionare l’etichetta/la larghezza del campo in un modulo {#resize-label-field-width-in-a-form}
+# Ridimensionamento dell’etichetta o della larghezza del campo in un modulo {#resize-label-field-width-in-a-form}
 
 Esistono due modi per ridimensionare sia la larghezza dell’etichetta del campo che la larghezza del campo stesso.
 
-## Trascina e rilascia la larghezza {#drag-and-drop-the-width}
+## Trascina la larghezza {#drag-and-drop-the-width}
 
 1. In [editor di moduli](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), seleziona il campo da ridimensionare.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
-1. Trascinare l’angolo dell’etichetta o l’angolo del campo per ridimensionare.
+1. Trascina l’angolo dell’etichetta o del campo per ridimensionarlo.
 
    ![](assets/image2014-9-15-15-3a24-3a14.png)
 
-## Immettere manualmente la larghezza {#enter-the-width-manually}
+## Inserisci manualmente la larghezza {#enter-the-width-manually}
 
 1. Selezionare il campo da ridimensionare.
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Immettere un valore in pixel per la larghezza etichetta e/o la larghezza campo.
+1. Immettete un valore in pixel per Larghezza etichetta (Label Width) e/o Larghezza campo (Field Width).
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

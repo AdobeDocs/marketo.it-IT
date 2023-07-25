@@ -1,42 +1,43 @@
 ---
 unique-page-id: 10097747
-description: Aggiunta di misure personalizzate a un rapporto di Revenue Explorer - Marketo Docs - Documentazione del prodotto
-title: Aggiunta di misure personalizzate a un rapporto di Esplora ricavi
+description: Aggiunta di misure personalizzate a un rapporto di Revenue Explorer - Documenti Marketo - Documentazione del prodotto
+title: Aggiunta di misure personalizzate a un report di Gestione ricavi
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Aggiunta di misure personalizzate a un rapporto di Esplora ricavi {#adding-custom-measures-to-a-revenue-explorer-report}
+# Aggiunta di misure personalizzate a un report di Gestione ricavi {#adding-custom-measures-to-a-revenue-explorer-report}
 
-A volte, in un rapporto desideri una misura personalizzata. È facile crearne uno proprio.
+Talvolta, può essere necessario inserire una misura personalizzata in un rapporto. È facile crearne uno tuo.
 
-Nell’esempio seguente, si sta creando una misura calcolata per i mancati recapiti soft, che prende le metriche già presenti nel rapporto e utilizza la matematica di base per creare una nuova metrica. Puoi anche creare altri tipi di misure.
+Nell’esempio seguente, stai creando una misura calcolata per mancati recapiti non permanenti, che accetta metriche già presenti nel rapporto e utilizza dati matematici di base per creare una nuova metrica. Potete creare anche altri tipi di misure.
 
 >[!PREREQUISITES]
 >
->Nel rapporto è necessaria almeno una metrica, ma non deve essere necessariamente una delle misure utilizzate per definire la misura personalizzata.
+>È necessaria almeno una metrica nel rapporto, ma non deve essere una delle misure utilizzate per definire la misura personalizzata.
 
-1. Recupera i campi necessari per il rapporto. Vedi [Aggiunta di campi a un rapporto di Esplora ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) per i dettagli.
+1. Recupera i campi necessari per il report. Consulta [Aggiunta di campi a un rapporto di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) per i dettagli.
 
-1. Fai clic con il pulsante destro del mouse su una metrica esistente (cella blu), fai clic su **Misura definita dall&#39;utente** e seleziona **Misura calcolata**.
+1. Fare clic con il pulsante destro del mouse su una metrica esistente (cella blu) e scegliere **Misura definita dall&#39;utente** e seleziona **Misura calcolata**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
-1. Assegna un nome alla misura personalizzata e seleziona un formato.
+1. Denomina la misura personalizzata e seleziona un formato.
 
    ![](assets/image2016-1-26-11-3a26-3a23.png)
 
-1. Fare clic su ogni elemento desiderato a sinistra e fare clic sulla freccia per spostarlo. Aggiungi i simboli matematici in base alle esigenze.
+1. Fare clic su ogni elemento desiderato a sinistra e fare clic sulla freccia per spostarlo. Aggiungere simboli matematici in base alle esigenze.
 
    ![](assets/image2016-1-26-11-3a16-3a55.png)
 
    >[!TIP]
    >
-   >È possibile digitare manualmente i simboli matematici oppure utilizzare la casella di selezione.
+   >Potete digitare i simboli matematici personalmente o utilizzare la casella di selezione.
 
 1. Al termine, fai clic su **OK**.
 
@@ -48,4 +49,4 @@ Nell’esempio seguente, si sta creando una misura calcolata per i mancati recap
 
    >[!MORELIKETHIS]
    >
-   >[Aggiunta di campi a un rapporto di Esplora ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[Aggiunta di campi a un rapporto di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

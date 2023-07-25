@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1147226
-description: Guida introduttiva - Documenti Marketo - Documentazione del prodotto
-title: Introduzione
+description: Guida introduttiva - Documentazione di Marketo - Documentazione del prodotto
+title: Guida introduttiva
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 
-# Introduzione {#getting-started}
+# Guida introduttiva {#getting-started}
 
-## Che cos’è Adobe Marketo Engage {#what-is-marketo-engage}
+## Cos’è Adobe Marketo Engage {#what-is-marketo-engage}
 
-Cos&#39;è il Marketo Engage, chiede? Grande domanda!
+Che cos&#39;è il Marketo Engage? Ottima domanda!
 
-[Marketo Engage di apprendimento](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[Marketo Engage di apprendimento](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Configurazione {#get-set-up}
 
-Con un piccolo aiuto del team IT, è possibile farlo in poco tempo.
+Con un piccolo aiuto dal tuo team IT, potrai completarlo in breve tempo.
 
-[Avvia configurazione](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[Avvia configurazione](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
-## Ottieni alcune vincite rapide {#get-some-quick-wins}
+## Ottieni alcuni risultati in breve {#get-some-quick-wins}
 
-Completa queste missioni per scoprire le funzionalità principali del Marketo Engage.
+Completate queste missioni per apprendere le caratteristiche principali del Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -43,7 +44,7 @@ Completa queste missioni per scoprire le funzionalità principali del Marketo En
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="Importa" src="getting-started/assets/getting-started-2.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Invia un messaggio e-mail</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Inviare un’e-mail</a>
     </div>
     <br>
   </td>
@@ -80,7 +81,7 @@ Completa queste missioni per scoprire le funzionalità principali del Marketo En
       <img alt="E-mail" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importare un elenco di persone</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importa un elenco di persone</a>
     </div>
     <br>
   </td>
@@ -89,7 +90,7 @@ Completa queste missioni per scoprire le funzionalità principali del Marketo En
       <img alt="Connetti" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Indurimento a goccia</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Goccia Goccia Nurture</a>
     </div>
     <br>
   </td>
@@ -97,7 +98,7 @@ Completa queste missioni per scoprire le funzionalità principali del Marketo En
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="Importa" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizzare un’e-mail</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizzazione di un’e-mail</a>
     </div>
     <br>
   </td>
@@ -106,7 +107,7 @@ Completa queste missioni per scoprire le funzionalità principali del Marketo En
       <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisare il rappresentante commerciale</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisa il rappresentante commerciale</a>
     </div>
     <br>
   </td>
@@ -122,6 +123,6 @@ Completa queste missioni per scoprire le funzionalità principali del Marketo En
 </tr>
 </table>
 
-## FASE 4 Congratulazioni! Sei pronto per la Nazione  {#congrats-youre-ready-for-the-nation}
+## FASE 4 Congratulazioni! Sei pronto per la nazione  {#congrats-youre-ready-for-the-nation}
 
-Consulta la sezione [Nome marketing](https://nation.marketo.com){target=&quot;_blank&quot;}!
+Consulta la sezione [Nazione marketing](https://nation.marketo.com){target="_blank"}!

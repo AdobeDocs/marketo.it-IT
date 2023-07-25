@@ -3,9 +3,10 @@ unique-page-id: 11378713
 description: Attivare Le Modifiche Agli Oggetti Personalizzati - Documentazione Di Marketo - Documentazione Del Prodotto
 title: Attivazione Di Modifiche All'Oggetto Personalizzato
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -56,4 +57,3 @@ Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di fl
    >
    >* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
    >* [Informazioni sugli oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

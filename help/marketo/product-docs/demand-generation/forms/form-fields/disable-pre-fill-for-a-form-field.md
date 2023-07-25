@@ -1,26 +1,27 @@
 ---
 unique-page-id: 2359675
-description: Disattiva la precompilazione per un campo modulo - Marketo Docs - Documentazione del prodotto
-title: Disattivazione della precompilazione per un campo modulo
+description: Disabilita precompilazione per un campo modulo - Documenti Marketo - Documentazione del prodotto
+title: Disabilita precompilazione per un campo modulo
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Disattivazione della precompilazione per un campo modulo {#disable-pre-fill-for-a-form-field}
+# Disabilita precompilazione per un campo modulo {#disable-pre-fill-for-a-form-field}
 
-Quando un visitatore web è noto (con cookie), i moduli Marketo precompilano i campi con le relative informazioni per impostazione predefinita. Se volete spegnerlo, ecco come farlo.
+Quando un visitatore web è noto (cookie), i moduli Marketo precompilano i campi con le relative informazioni per impostazione predefinita. Se vuoi spegnerlo, ecco come farlo.
 
 >[!NOTE]
 >
->**Pre-compilazione modulo** è attivato per impostazione predefinita. Le impostazioni di pre-compilazione a livello di pagina di destinazione e le impostazioni di pre-compilazione a livello di amministratore troncano l’impostazione a livello di modulo:
+>**Precompilazione modulo** è attivato per impostazione predefinita. Le impostazioni di precompilazione a livello di pagina di destinazione e le impostazioni di precompilazione a livello di amministratore superano l’impostazione a livello di modulo:
 >
 >Modulo > Pagina di destinazione > Amministratore
 
-## Come disattivare il pre-riempimento {#how-to-disable-pre-fill}
+## Come disattivare la precompilazione {#how-to-disable-pre-fill}
 
 1. Vai a **Attività di marketing**.
 
@@ -34,24 +35,24 @@ Quando un visitatore web è noto (con cookie), i moduli Marketo precompilano i c
    >
    >La precompilazione del modulo non funziona quando si incorpora un modulo sulle proprie pagine. Funziona solo sulle pagine di destinazione di Marketo.
 
-1. Seleziona uno dei campi e imposta **Pre-compilazione modulo** a **Disabilitato**.
+1. Seleziona uno dei campi e imposta **Precompilazione modulo** a **Disabilitato**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
    >[!TIP]
    >
-   >È inoltre possibile disattivare la precompilazione del modulo a livello di pagina di destinazione o di amministratore.
+   >Puoi anche disattivare la precompilazione dei moduli a livello di pagina di destinazione o di amministratore.
 
-1. Fai clic su **Fine**.
+1. Clic **Fine**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Fai clic su **Approva e chiudi**.
+1. Clic **Approva e chiudi**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 ## Campi sensibili {#sensitive-fields}
 
-Quando [contrassegna un campo come sensibile](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), per evitare che i relativi valori vengano precompilati nei moduli, è possibile visualizzarli nell’opzione Pre-fill .
+Quando [contrassegnare un campo come sensibile](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), impedendo che i relativi valori vengano precompilati nei moduli, questo viene visualizzato sull’opzione Precompilazione.
 
 ![](assets/disable-pre-fill.png)

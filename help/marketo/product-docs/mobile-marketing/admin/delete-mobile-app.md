@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7512442
-description: Eliminare l’app mobile - Documenti Marketo - Documentazione del prodotto
+description: Elimina app mobile - Documentazione Marketo - Documentazione del prodotto
 title: Elimina app mobile
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Elimina app mobile {#delete-mobile-app}
 
-1. Fai clic su **Amministratore**.
+1. Clic **Amministratore**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Fai clic su **Azioni per app mobili** e seleziona **Elimina app**.
+1. Clic **Azioni app mobile** e seleziona **Elimina app**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 

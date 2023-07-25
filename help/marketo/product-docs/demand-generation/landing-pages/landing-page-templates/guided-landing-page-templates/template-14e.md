@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437813
-description: Modello 14E - Documenti Marketo - Documentazione del prodotto
+description: Modello 14E - Documentazione Marketo - Documentazione del prodotto
 title: Modello 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -12,18 +13,18 @@ ht-degree: 0%
 
 # Modello 14E {#template-14e}
 
-Fai clic con il pulsante destro del mouse per [scarica modello 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+Fare clic con il pulsante destro del mouse per [scarica modello 14E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
-Questo modello include il seguente contenuto:
+Questo modello include i seguenti contenuti:
 
-* Intestazione A (opzionale)
+* Intestazione A (facoltativa)
 * Una sezione primaria
 
-   * include l&#39;immagine protagonista e il pulsante per ulteriori informazioni
+   * include l&#39;immagine protagonista e il pulsante ulteriori informazioni
 
-* Cinque sezioni del corpo (facoltativo)
+* Cinque sezioni di carrozzeria (facoltativo)
 * Piè di pagina (facoltativo)
 
 **Fai clic con il pulsante destro del mouse qui sotto per scaricare questo modello:**

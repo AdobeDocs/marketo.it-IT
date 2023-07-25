@@ -3,7 +3,8 @@ unique-page-id: 5472328
 description: Aggiornare un rapporto - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiornare un rapporto
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # Aggiornare un rapporto {#refresh-a-report}
 
-Dopo aver visualizzato un rapporto, Marketo lo memorizza nel database in modo che venga caricato rapidamente alla visualizzazione successiva. Dopo la prima visualizzazione, i rapporti vengono aggiornati automaticamente ogni 24 ore, in modo che siano sempre aggiornati. Ma puoi aggiornarli manualmente in qualsiasi momento.
+Dopo aver visualizzato un report, Marketo lo memorizza nel database in modo che venga caricato rapidamente al momento della visualizzazione successiva. Dopo la prima visualizzazione, i rapporti vengono aggiornati automaticamente ogni 24 ore, in modo da essere sempre aggiornati. ma puoi aggiornarli manualmente in qualsiasi momento.
 
-1. Per visualizzare l’ultimo aggiornamento del rapporto, posiziona il cursore del mouse sull’icona a forma di freccia circolare nell’angolo in basso a sinistra.
+1. Per vedere quando è stato aggiornato l’ultimo rapporto, passa il cursore sull’icona a forma di freccia circolare nell’angolo in basso a sinistra.
 
    ![](assets/one.png)
 
@@ -22,7 +23,7 @@ Dopo aver visualizzato un rapporto, Marketo lo memorizza nel database in modo ch
 
    ![](assets/two.png)
 
-1. Puoi anche aggiornare il rapporto facendo clic sul pulsante **Azioni dei rapporti** e selezionando **Aggiorna rapporto**.
+1. Puoi anche aggiornare il rapporto facendo clic sul pulsante **Azioni report** e selezionando **Aggiorna report**.
 
    ![](assets/three.png)
 

@@ -2,7 +2,8 @@
 description: Guida all’onboarding degli utenti per le azioni di approfondimento sulle vendite - Documenti Marketo - Documentazione del prodotto
 title: Guida all’onboarding degli utenti per le azioni di approfondimento sulle vendite
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* Un amministratore deve invitare un utente ad iniziare a utilizzare le azioni MSI.
 >* Per attivare il tuo account con Salesforce, devi aver abilitato l’API nelle autorizzazioni del profilo Salesforce.
-
 
 I nuovi utenti dovranno seguire i passaggi indicati di seguito.
 

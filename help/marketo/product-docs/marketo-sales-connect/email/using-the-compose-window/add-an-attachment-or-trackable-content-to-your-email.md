@@ -1,26 +1,27 @@
 ---
 unique-page-id: 37356587
-description: Aggiungere un allegato o contenuti tracciabili alla tua e-mail - Marketo Docs - Documentazione del prodotto
-title: Aggiungere un allegato o contenuti tracciabili all’e-mail
+description: Aggiungere un allegato o un contenuto tracciabile al messaggio e-mail - Documenti Marketo - Documentazione del prodotto
+title: Aggiungere un allegato o un contenuto tracciabile all’e-mail
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-# Aggiungere un allegato o contenuti tracciabili all’e-mail {#add-an-attachment-or-trackable-content-to-your-email}
+# Aggiungere un allegato o un contenuto tracciabile all’e-mail {#add-an-attachment-or-trackable-content-to-your-email}
 
-Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un file come allegato o creare un file come collegamento scaricabile (e monitorabile).
+Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un file come allegato o rendere un file scaricabile (e tracciabile).
 
 >[!NOTE]
 >
->In genere, qualsiasi file superiore a 20 MB sarà troppo grande per essere consegnato. La dimensione dell’allegato che puoi inviare tramite e-mail varia a seconda del canale di consegna dell’e-mail in uso.
+>In genere, qualsiasi file superiore a 20 MB è troppo grande per essere consegnato. La dimensione di un allegato che puoi inviare tramite e-mail varia a seconda del canale di consegna e-mail in uso.
 
 ## Aggiungi un allegato {#add-an-attachment}
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
 
    ![](assets/one-4.png)
 
@@ -38,7 +39,7 @@ Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un 
 
    >[!NOTE]
    >
-   >Se devi caricare un file, fai clic sul pulsante **Carica contenuto** in alto a destra nella finestra.
+   >Se devi caricare un file, fai clic su **Carica contenuto** in alto a destra.
 
    ![](assets/attach-five.png)
 
@@ -46,7 +47,7 @@ L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
 ## Aggiungi contenuto tracciabile {#add-trackable-content}
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio scegliamo la finestra Componi ).
+1. Crea la bozza dell’e-mail (esistono diversi modi per farlo; in questo esempio stiamo scegliendo la finestra Componi).
 
    ![](assets/one-4.png)
 
@@ -54,17 +55,17 @@ L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
    ![](assets/two-4.png)
 
-1. Fai clic sul punto dell’e-mail che desideri visualizzare il contenuto tracciabile e fai clic sull’icona dell’allegato.
+1. Fai clic sul punto dell’e-mail in cui desideri visualizzare il contenuto tracciabile, quindi fai clic sull’icona dell’allegato.
 
    ![](assets/three-4.png)
 
-1. Seleziona il contenuto da aggiungere, fai clic sul pulsante **Il contenuto è tracciato** cursore e fai clic su **Inserisci**.
+1. Seleziona il contenuto da aggiungere, fai clic su **Il contenuto è tracciato** e fare clic su **Inserisci**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Se devi caricare un file, fai clic sul pulsante **Carica contenuto** in alto a destra nella finestra.
+   >Se devi caricare un file, fai clic su **Carica contenuto** in alto a destra.
 
    Il contenuto viene visualizzato come collegamento nell’e-mail. Il destinatario può fare clic sul collegamento per scaricare il contenuto.
 
@@ -72,4 +73,4 @@ L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
    >[!NOTE]
    >
-   >Gli utenti riceveranno una notifica nel feed live quando le persone visualizzano i loro contenuti tracciati. Gli utenti possono inoltre visualizzare il contenuto con le prestazioni più elevate nella sezione del contenuto della pagina Analytics.
+   >Gli utenti riceveranno una notifica nel feed live quando le persone visualizzano i propri contenuti tracciati. Gli utenti possono inoltre visualizzare i contenuti con le prestazioni più elevate nella sezione dei contenuti della pagina Analytics.

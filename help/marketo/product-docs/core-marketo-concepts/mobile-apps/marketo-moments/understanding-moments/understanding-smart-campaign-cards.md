@@ -1,30 +1,31 @@
 ---
 unique-page-id: 10093348
-description: Informazioni sulle schede di Smart Campaign - Documenti Marketo - Documentazione del prodotto
-title: Informazioni sulle schede di Smart Campaign
+description: Informazioni sulle schede per campagne intelligenti - Documentazione di Marketo - Documentazione del prodotto
+title: Informazioni sulle schede per campagne avanzate
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulle schede di Smart Campaign {#understanding-smart-campaign-cards}
+# Informazioni sulle schede per campagne avanzate {#understanding-smart-campaign-cards}
 
-Utilizza i Momenti Marketo per visualizzare ogni esecuzione delle campagne intelligenti dal tuo smartphone o iPad. La smart card Marketo Moments rappresenta una singola esecuzione di una campagna; a ogni esecuzione della campagna intelligente viene visualizzata una nuova scheda. Le schede smart della campagna sono contrassegnate da una lampadina in alto a sinistra.
+Utilizza Marketo Moments per visualizzare ogni esecuzione delle campagne intelligenti dal tuo smartphone o iPad. La smart card Moments di Marketo rappresenta una singola esecuzione di una campagna; viene visualizzata una nuova smart card ogni volta che la smart campaign viene eseguita. Le smart campaign card sono contrassegnate da una lampadina in alto a sinistra.
 
-Per le campagne avanzate future pianificate ma non ancora eseguite, la scheda Marketo Moments non visualizza ancora i dati delle campagne. Verranno visualizzate in una versione futura.
+Per le future campagne intelligenti pianificate ma non ancora eseguite, la scheda Marketo Moments non mostra ancora alcuno stato della campagna. Verranno visualizzati in una versione futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
 ## Schede Smart Campaign {#smart-campaign-cards}
 
-1. Toccate la scheda per aprire la scheda dei dettagli.
+1. Tocca la scheda per aprire la scheda dei dettagli.
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. La scheda dei dettagli consente di accedere alle informazioni sui filtri dell’elenco avanzato, sul flusso e sul riepilogo e-mail.
+1. La scheda dei dettagli consente di accedere alle informazioni sui filtri Elenco avanzato, Flusso e Riepilogo e-mail.
 
 1. Tocca **Elenco avanzato**.
 
@@ -38,43 +39,43 @@ Per le campagne avanzate future pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Ora vedrai il flusso della Smart Campaign. Questa campagna ha un solo passaggio di flusso, ma possono esserci più passaggi.
+1. Ora vedrai il flusso di Smart Campaign. Questa campagna ha un solo passaggio di flusso, ma possono esserci più passaggi.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Fai clic su **Riepilogo e-mail**.
+1. Clic **Riepilogo e-mail**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
-1. Ora puoi visualizzare la risposta del destinatario a ogni e-mail, per numero e percentuale.
+1. Ora puoi vedere la risposta dei destinatari a ogni e-mail, per numero e percentuale.
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Vedete quei due punti in basso? Indicano che ci sono due e-mail connesse a questa campagna intelligente. Per visualizzare i risultati dell’altro messaggio e-mail, scorri lo schermo verso sinistra. Di seguito sono riportati i risultati della seconda e-mail.
+1. Vedi quei due punti in basso? Indicano che ci sono due e-mail connesse a questa campagna intelligente. Per visualizzare i risultati per l’altra e-mail, scorri lo schermo verso sinistra. Ecco i risultati della seconda e-mail.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
    >[!NOTE]
    >
-   >L’altro punto viene ora evidenziato.
+   >L&#39;altro punto è ora evidenziato.
 
-## Creazione di esempi e anteprime di e-mail {#creating-email-samples-and-previews}
+## Creazione di esempi e anteprime e-mail {#creating-email-samples-and-previews}
 
-È una buona idea dare un&#39;occhiata a un&#39;e-mail prima che esca. Oppure, mandate un campione a qualcun altro per farci un secondo gruppo di occhi.
+È consigliabile dare un’occhiata a un’e-mail prima che venga inviata. Oppure, inviate un campione a qualcun altro per avere un secondo sguardo su di esso.
 
-1. Tocca il menu delle azioni a tre punti in un messaggio e-mail.
+1. Tocca il menu di azioni a tre punti su un’e-mail.
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tocca [Invia esempio](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Anteprima e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fai clic su questi collegamenti per ulteriori dettagli).
+1. Tocca [Invia esempio](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Anteprima e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fare clic su questi collegamenti per visualizzare i dettagli).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
 ## Conferma dell’esecuzione di una campagna avanzata {#confirming-a-smart-campaign-run}
 
-Le schede per le campagne avanzate non confermate sono grigie fino a quando non le confermi. Poi diventano arancioni.
+Le schede per le campagne intelligenti non confermate sono grigie fino a quando non le confermi. Poi diventano arancioni.
 
-1. Per confermare una smart card non confermata, tocca il menu delle tre azioni dei punti.
+1. Per confermare una smart card non confermata, tocca il menu Azioni con tre punti.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -82,7 +83,7 @@ Le schede per le campagne avanzate non confermate sono grigie fino a quando non 
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tocca **Conferma** per completare il lavoro, oppure **Non importa** se avete dei ripensamenti.
+1. Tocca **Conferma** per terminare il lavoro, oppure **Non importa** se ha dei ripensamenti.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -90,11 +91,11 @@ Le schede per le campagne avanzate non confermate sono grigie fino a quando non 
    >
    >Ora la tua carta diventerà arancione!
 
-## Annullamento dell’esecuzione di una campagna avanzata {#canceling-a-smart-campaign-run}
+## Annullamento di un’esecuzione di una campagna avanzata {#canceling-a-smart-campaign-run}
 
-È possibile annullare un&#39;esecuzione confermata di una campagna intelligente pianificata.
+Puoi annullare un’esecuzione confermata e pianificata di una campagna intelligente.
 
-1. Tocca il menu delle tre azioni dei punti.
+1. Tocca il menu Azioni con tre punti.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
@@ -102,15 +103,15 @@ Le schede per le campagne avanzate non confermate sono grigie fino a quando non 
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tocca **Annulla esecuzione**. Se all’ultimo minuto decidi di non annullare l’esecuzione, tocca **Non importa** e la campagna intelligente verrà eseguita come pianificato.
+1. Tocca **Annulla esecuzione**. Se decidi all’ultimo minuto di non annullare l’esecuzione, tocca **Non importa** e la campagna intelligente verrà eseguita come pianificato.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
 ## Riprogrammazione di una campagna avanzata {#rescheduling-a-smart-campaign}
 
-Puoi ripianificare una campagna avanzata confermata non ancora eseguita.
+Puoi ripianificare una campagna avanzata confermata che non è ancora stata eseguita.
 
-1. Tocca il menu delle tre azioni dei punti.
+1. Tocca il menu Azioni con tre punti.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
@@ -122,22 +123,22 @@ Puoi ripianificare una campagna avanzata confermata non ancora eseguita.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   Pezzo di torta!
+   Un pezzo di torta!
 
 ## Altre azioni di Smart Campaign {#other-smart-campaign-actions}
 
-Come per le altre schede Marketo Moments, puoi toccare i tre punti su qualsiasi scheda Smart Campaign o scheda dei dettagli per:
+Come per altre schede Marketo Moments, puoi toccare i tre punti su qualsiasi scheda Smart Campaign o scheda dettagli per:
 
-* [Farlo diventare un preferito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Segna fatto](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Imposta come preferito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Contrassegna come completato](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Condividi](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
 >[!NOTE]
 >
->Puoi anche toccare il pulsante **Condividi** su una scheda di Smart Campaign da condividere, e **Fine** e **Preferito** sulla scheda dei dettagli.
+>Puoi anche toccare il **Condividi** su una scheda di Smart Campaign da condividere e il **Fine** e **Preferito** icone nella scheda dei dettagli.
 
-## Eliminazione rapida di una scheda Smart Campaign {#quickly-delete-a-smart-campaign-card}
+## Eliminare rapidamente una smart card di una campagna {#quickly-delete-a-smart-campaign-card}
 
-Se si dispone di una scheda di cui non si ha più bisogno, forse di una carta utilizzata per il test, è possibile sbarazzarsene con un rapido scorrimento a sinistra o a destra.
+Se si dispone di una scheda che non è più necessaria, ad esempio quella utilizzata per i test, è possibile eliminarla rapidamente scorrendo verso sinistra o verso destra.

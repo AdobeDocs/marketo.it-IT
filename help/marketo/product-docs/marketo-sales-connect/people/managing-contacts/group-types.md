@@ -1,16 +1,17 @@
 ---
 unique-page-id: 30081321
-description: Tipi di gruppo - Documenti Marketo - Documentazione del prodotto
-title: Tipi di gruppi
+description: Tipi di gruppi - Documentazione di Marketo - Documentazione del prodotto
+title: Tipi di gruppo
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
 
 ---
 
-# Tipi di gruppi {#group-types}
+# Tipi di gruppo {#group-types}
 
 Scopri i diversi tipi di gruppi in Sales Connect.
 
@@ -28,19 +29,19 @@ Scopri i diversi tipi di gruppi in Sales Connect.
   </tr> 
   <tr> 
    <td><p>Tutte le persone</p></td> 
-   <td>Tutti i contatti di tutti gli utenti che sono visibili a voi.</td> 
+   <td>Tutti i contatti di tutti gli utenti visibili.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Gruppi dinamici</p></td> 
-   <td colspan="1">Contatti personali: Tutti i contatti che possiedi.<br>Annulla sottoscrizione: Contatti che hanno rinunciato a ricevere la corrispondenza.</td> 
+   <td colspan="1">Contatti personali: tutti i contatti di cui si è proprietari.<br>Annullamenti iscrizione: contatti che hanno rinunciato a ricevere corrispondenza.</td> 
   </tr> 
   <tr> 
-   <td><p>Gruppi personali</p></td> 
-   <td>Gruppi creati. Possono contenere i tuoi contatti o contatti che sono stati condivisi con te.</td> 
+   <td><p>I miei gruppi</p></td> 
+   <td>Gruppi creati. Possono contenere i tuoi contatti o i contatti condivisi con te.</td> 
   </tr> 
   <tr> 
    <td><p>Gruppi di team</p></td> 
-   <td>Gruppi condivisi con e/o da te. Possono contenere contatti propri dei tuoi compagni di squadra o contatti che hai condiviso con loro.</td> 
+   <td>Gruppi che sono stati condivisi con e/o da te. Possono contenere i contatti di proprietà dei tuoi colleghi o quelli che hai condiviso con loro.</td> 
   </tr> 
  </tbody> 
 </table>

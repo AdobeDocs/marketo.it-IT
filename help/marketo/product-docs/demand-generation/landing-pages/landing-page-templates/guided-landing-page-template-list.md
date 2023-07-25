@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7515616
-description: Elenco modelli pagina di destinazione guidata - Documenti Marketo - Documentazione del prodotto
+description: Elenco modelli pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco modelli pagina di destinazione guidata
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -12,23 +13,23 @@ ht-degree: 0%
 
 # Elenco modelli pagina di destinazione guidata {#guided-landing-page-template-list}
 
-Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con [Editor pagina di destinazione guidato](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è completamente reattivo e basato sul framework Bootstrap.
+Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con [Editor pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è pienamente reattivo e basato sul framework Bootstrap.
 
 >[!NOTE]
 >
->Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di HTML. Se hai bisogno di assistenza per modificare uno di questi modelli, consulta uno sviluppatore web.
+>Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di HTML. Per assistenza nella modifica di uno di questi modelli, consulta uno sviluppatore Web.
 
 Per importare un modello in Marketo:
 
-1. Fai clic sul nome del modello per ingrandire la visualizzazione.
+1. Fare clic sul nome del modello per ingrandire la visualizzazione.
 1. Scarica il modello scelto.
-1. In Marketo, passa alla **Design Studio.**
-1. Fai clic su **Pagine di destinazione** nell&#39;albero a sinistra, quindi selezionare **Modelli.**
+1. In Marketo, passa a **Design Studio**
+1. Clic **Pagine di destinazione** nell’albero a sinistra, seleziona quindi **Modelli.**
 
 1. Nella barra dei menu, fai clic su **Importa modello.**
-1. Scegli il file scaricato, inserisci un nome di modello, quindi fai clic su **Importa** Assicurati di scegliere un nome descrittivo e indica che la modalità di modifica è **Guidato**).
+1. Scegli il file scaricato, immetti un nome per il modello, quindi fai clic su **Importa** assicurati di scegliere un nome descrittivo e di indicare che la modalità di modifica è **Guidato**).
 
-|  |  |  |
+|   |  |  |
 |---|---|---|
 | [Modello 1A](guided-landing-page-templates/template-1a.md) | [Modello 1B](guided-landing-page-templates/template-1b.md) | [Modello 1C](guided-landing-page-templates/template-1c.md) |
 | ![](assets/1a.jpg) | ![](assets/1b.jpg) | ![](assets/1c.jpg) |

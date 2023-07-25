@@ -1,18 +1,19 @@
 ---
 unique-page-id: 1146991
-description: Disattivare una campagna avanzata trigger | Scheda Pianificazione - Documenti Marketo - Documentazione del prodotto
-title: Disattivare una campagna avanzata trigger | Scheda Pianificazione
+description: Disattivare una campagna avanzata tramite trigger | Scheda Schedule - Documentazione Marketo - Documentazione del prodotto
+title: Disattivare una campagna avanzata tramite trigger | Scheda Schedule
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# Disattivare una campagna avanzata trigger | Scheda Pianificazione {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# Disattivare una campagna avanzata tramite trigger | Scheda Schedule {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
-Se hai una campagna trigger precedente da disattivare, segui questi passaggi:
+Se devi disattivare una vecchia campagna trigger, effettua le seguenti operazioni:
 
 1. Trova e seleziona la campagna trigger attiva.
 
@@ -28,4 +29,4 @@ Se hai una campagna trigger precedente da disattivare, segui questi passaggi:
 
 >[!NOTE]
 >
->Questo si fermerà *nuovo* le persone non possono accedere al flusso, ma le persone in attesa di passaggi o di qualsiasi altro passaggio del flusso continueranno a spostarsi attraverso il flusso fino al termine.
+>Questa operazione verrà interrotta *nuovo* le persone non entrano nel flusso, ma le persone nei passaggi di attesa o in qualsiasi altro passaggio del flusso continueranno a spostarsi nel flusso fino al termine.

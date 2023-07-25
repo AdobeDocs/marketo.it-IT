@@ -1,46 +1,47 @@
 ---
 unique-page-id: 2950212
-description: Note sulla versione - Agosto 2014 - Documenti Marketo - Documentazione del prodotto
+description: Note sulla versione - Agosto 2014 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Agosto 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Agosto 2014 {#release-notes-august}
+# Note sulla versione: agosto 2014 {#release-notes-august}
 
-Le seguenti funzioni sono incluse nella versione di agosto 2014. Per informazioni sulla disponibilità delle funzioni, consulta la tua edizione Marketo . Torna dopo la versione per i collegamenti alla documentazione dettagliata sulle funzioni.
+Le seguenti funzioni sono incluse nella versione di agosto 2014. Verifica la disponibilità delle funzioni nella tua edizione di Marketo. Torna indietro dopo il rilascio per collegamenti alla documentazione dettagliata delle funzioni.
 
-## Licenze calendario di marketing {#marketing-calendar-licenses}
+## Licenze Marketing Calendar {#marketing-calendar-licenses}
 
-Dopo il 5 settembre 2014, solo 5 utenti possono avere accesso gratuito al calendario di marketing. Assicurati di [Rilascio/revoca di una licenza di calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti di tua scelta prima di allora per un accesso ininterrotto.
+Dopo il 5 settembre 2014, solo 5 utenti possono avere accesso gratuito al calendario di marketing. Assicurati di [Rilasciare/revocare una licenza di Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti di tua scelta prima di allora per un accesso ininterrotto.
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
-## Nuove autorizzazioni utente {#new-user-permissions}
+## Autorizzazioni per nuovi utenti {#new-user-permissions}
 
 Sono state aggiunte le seguenti nuove autorizzazioni utente:
 
 | Autorizzazione | Descrizione |
 |---|---|
-| Accedi a Revenue Explorer | Se hai acquistato RCA, ora avrai il controllo su chi potrà accedervi. |
-| Importa elenco | Limita l’importazione di elenchi nel database lead agli utenti. |
-| Importazione elenco | Limita l’importazione di elenchi tramite un programma in attività di marketing da parte degli utenti. |
-| Attiva campagna di attivazione | Controlla chi può e non può attivare le campagne. |
-| Pianificazione campagna batch | Controllare chi può e non può pianificare le esecuzioni di campagne batch. |
+| Accedi a Gestione ricavi | Se hai acquistato RCA, ora avrai il controllo su chi può accedervi. |
+| Importa elenco | Impedisci agli utenti di importare elenchi nel database dei lead. |
+| Importazione elenco | Limita gli utenti dall’importazione di elenchi tramite un programma in attività di marketing. |
+| Attiva campagna trigger | Controlla chi può e non può attivare le campagne di attivazione. |
+| Pianifica campagna batch | Controlla chi può e non può pianificare le esecuzioni delle campagne batch. |
 
-## Esportare utenti e ruoli da Amministratore {#export-users-and-roles-from-admin}
+## Esporta utenti e ruoli da amministratore {#export-users-and-roles-from-admin}
 
-Ora puoi [Esportare un elenco di utenti e ruoli](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Puoi anche includere una marca temporale &quot;Ultimo accesso&quot; da includere nell’esportazione.
+Ora puoi [Esportare un elenco di utenti e ruoli](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Puoi anche includere nell’esportazione il timestamp &quot;Last Login&quot; (Ultimo accesso).
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
-## Eliminare canali e tag {#delete-channels-and-tags}
+## Elimina canali e tag {#delete-channels-and-tags}
 
-Ora puoi eliminare tutti i canali e gli stati inutilizzati. Come sempre, puoi nascondere solo uno attualmente in uso.
+Ora puoi eliminare tutti i canali e gli stati non utilizzati. Come sempre, è possibile nasconderne solo uno attualmente in uso.
 
 ![](assets/image2014-9-16-12-3a20-3a30.png)
 
@@ -48,50 +49,50 @@ Ora puoi eliminare tutti i canali e gli stati inutilizzati. Come sempre, puoi na
 
 ## DKIM automatizzato {#automated-dkim}
 
-Per migliorare il recapito messaggi, tutte le e-mail in uscita saranno firmate DKIM (DomainKeys Identified Mail). Per impostazione predefinita, le e-mail utilizzano la firma DKIM condivisa di Marketo. Sarà possibile personalizzare la firma.
+Per migliorare il recapito messaggi, tutte le e-mail in uscita saranno firmate DKIM (DomainKeys Identified Mail). Per impostazione predefinita, le e-mail utilizzano la firma DKIM condivisa di Marketo. È possibile personalizzare la firma.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM verrà lanciato lentamente, potresti non vederlo per qualche settimana.
+>DKIM verrà introdotto lentamente, potrebbe non essere visibile per alcune settimane.
 
-## Aggiornamenti alla personalizzazione in tempo reale {#real-time-personalization-updates}
+## Aggiornamenti della personalizzazione in tempo reale {#real-time-personalization-updates}
 
-Abbiamo aggiunto delle etichette alla pagina della campagna in modo da poter assegnare tag ai contenuti dei vostri cuori.
+Abbiamo aggiunto delle etichette alla pagina della campagna per consentirti di assegnare tag al contenuto dei tuoi cuori.
 
 ![](assets/image2014-9-16-12-3a23-3a28.png)
 
-## Targeting mobile {#mobile-targeting}
+## Targeting per dispositivi mobili {#mobile-targeting}
 
-Hai chiesto alla comunità e abbiamo consegnato! Ora puoi includere, escludere o impostare una chiamata all’azione specifica per gli utenti di dispositivi mobili e tablet.
+Hai chiesto alla community e abbiamo consegnato il progetto! Ora puoi includere, escludere o impostare un invito all’azione specifico per gli utenti di dispositivi mobili e tablet.
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Segmentazione e targeting migliorati 1:1 {#enhanced-segmentation-and-targeting}
+## Segmentazione e targeting 1:1 migliorati {#enhanced-segmentation-and-targeting}
 
-Ora puoi utilizzare operatori di filtro avanzati per il targeting dei visitatori noti.
+Ora puoi utilizzare operatori di filtro avanzati per il targeting di visitatori noti.
 
 ![](assets/image2014-9-16-12-3a23-3a56.png)
 
-## Condivisione campagne {#campaign-sharing}
+## Condivisione di campagne {#campaign-sharing}
 
-Ora puoi condividere in modo rapido e semplice un collegamento di anteprima della campagna RTP.
+Ora puoi condividere in modo rapido e semplice il collegamento di anteprima di una campagna RTP.
 
 ![](assets/image2014-9-16-12-3a24-3a22.png)
 
-## Report del motore di consigli dei contenuti {#content-recommendation-engine-report}
+## Report del motore di consigli sui contenuti {#content-recommendation-engine-report}
 
-È stato aggiunto un nuovo report del motore di consigli per i contenuti per consentirti di visualizzare un buon riepilogo.
+È stato aggiunto un nuovo report sul motore di consigli dei contenuti per consentirti di visualizzare un riepilogo efficace.
 
 ![](assets/image2014-9-16-12-3a24-3a42.png)
 
-## Amministrazione utente migliorata {#enhanced-user-administration}
+## Amministrazione utenti migliorata {#enhanced-user-administration}
 
-Gli utenti amministratori possono ora bloccare gli utenti a causa di più tentativi di accesso non riusciti. Puoi anche sbloccare tali utenti, se necessario.
+Gli utenti amministratori possono ora bloccare gli utenti a causa di più tentativi di accesso non riusciti. Puoi anche sbloccarli, se lo desideri.
 
 ## Controllo del tracciamento {#tracking-control}
 
-Ora puoi escludere IP specifici da tutti i rapporti e il tracciamento nella Personalizzazione in tempo reale.
+Ora puoi escludere IP specifici da tutte le attività di tracciamento e reporting in Real-Time Personalization.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

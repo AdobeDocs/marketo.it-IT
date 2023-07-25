@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2953188
-description: Filtri indiretti - Documenti Marketo - Documentazione del prodotto
-title: Filtri indiretti
+description: Filtri dedotti - Documentazione Marketo - Documentazione del prodotto
+title: Filtri dedotti
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Filtri indiretti {#inferred-filters}
+# Filtri dedotti {#inferred-filters}
 
-Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e dedurre tutti i tipi di buone informazioni.
+Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di buone informazioni.
 
 >[!NOTE]
 >
->Per garantire che i valori dei campi dedotti rimangano aggiornati, aggiorniamo periodicamente il database utilizzato per le ricerche degli indirizzi IP. Gli aggiornamenti del database possono introdurre nuovi valori di campo dedotti che possono essere necessari per aggiungere alle definizioni dei filtri degli elenchi avanzati.
+>Per garantire che i valori dei campi dedotti rimangano aggiornati, viene aggiornato periodicamente il database utilizzato per le ricerche degli indirizzi IP. Gli aggiornamenti del database possono introdurre nuovi valori di campo dedotti che potrebbe essere necessario aggiungere alle definizioni dei filtri di elenchi smart.
 >
->Gli aggiornamenti del database possono verificarsi durante un [Rilascio del prodotto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Quando si verifica un aggiornamento, il [Note sulla versione del Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} conterrà una spiegazione di eventuali modifiche ai valori dei campi dedotti.
+>Gli aggiornamenti del database possono verificarsi durante un [Rilascio Marketo Engage del prodotto](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} conterrà una spiegazione di eventuali modifiche ai valori dei campi dedotti.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -36,14 +37,13 @@ Quando utilizzi uno di questi filtri in un elenco avanzato, i risultati restitui
 
 >[!TIP]
 >
->Utilizza questi filtri in un rapporto di attività web. Utilizza i territori degli agenti di vendita e abbonali a un rapporto giornaliero personalizzato con i visitatori del sito web nelle ultime 24 ore. Lo ameranno!
+>Utilizza questi filtri in un rapporto di attività web. Utilizza i territori degli agenti di vendita e abbonali a un rapporto giornaliero personalizzato con i visitatori del sito web nelle ultime 24 ore. Loro lo ameranno!
 >
 >* Pagina Web visitata - Ultime 24 ore
->* Stato di riferimento è [selezionare il proprio territorio]
-
+>* Lo stato dedotto è [seleziona il loro territorio]
 
 Questi visitatori anonimi vengono automaticamente convertiti in persone quando fanno clic su un collegamento e-mail o compilano un modulo. Tuttavia, conservano tutte le informazioni dedotte.
 
 >[!NOTE]
 >
->Ulteriori informazioni [attività anonima e lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Ulteriori informazioni su [attività anonima e lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).

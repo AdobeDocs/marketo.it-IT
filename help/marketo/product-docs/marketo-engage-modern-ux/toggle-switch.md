@@ -1,43 +1,44 @@
 ---
-description: Attiva/disattiva switch - Documentazione Marketo - Documentazione del prodotto
-title: Interruttore
+description: Switch di attivazione/disattivazione - Documentazione Marketo - Documentazione del prodotto
+title: Attiva/Disattiva
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f7e685b5386cddde508382d6598a63855bfd6cbf
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Interruttore {#toggle-switch}
+# Attiva/Disattiva {#toggle-switch}
 
-L&#39;interruttore di attivazione/disattivazione consente di passare dall&#39;interfaccia classica di Marketo all&#39;interfaccia UX moderna. È disponibile in tutte le aree evidenziate di seguito.
+L&#39;interruttore di attivazione consente di passare dall&#39;interfaccia classica di Marketo all&#39;interfaccia utente moderna. È disponibile in tutte le aree evidenziate di seguito.
 
 >[!NOTE]
 >
->Quando l’opzione Attiva/Disattiva interruttore è selezionata, tutti i flussi di lavoro esistenti vengono salvati automaticamente prima che si verifichi la modifica dell’interfaccia utente. Se un&#39;operazione è già in corso (ad esempio: una risorsa è in fase di approvazione) riceverai un messaggio di errore che indica come tale e riprova una volta completata l’operazione.
+>Quando l’opzione Attiva/Disattiva è selezionata, tutti i flussi di lavoro esistenti vengono salvati automaticamente prima della modifica dell’interfaccia utente. Se è già in corso un’operazione (ad esempio, se una risorsa è in fase di approvazione), riceverai un messaggio di errore che la indica come tale e riprova al termine dell’operazione.
 
-## Attiva l&#39;interruttore di attivazione/disattivazione per i singoli ruoli {#enable-the-toggle-switch-for-individual-roles}
+## Attiva interruttore di attivazione per singoli ruoli {#enable-the-toggle-switch-for-individual-roles}
 
-Abilita l’interruttore di attivazione/disattivazione per i singoli ruoli o tutti i ruoli. Ecco come.
+Attiva l’interruttore di attivazione per i singoli ruoli o per tutti i ruoli. Ecco come.
 
 1. In Marketo Engage, fai clic su **Amministratore**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Fai clic su **Nuova esperienza**.
+1. Clic **Nuova esperienza**.
 
    ![](assets/toggle-switch-2.png)
 
-1. Selezionare i ruoli a cui si desidera accedere all&#39;interruttore di attivazione/disattivazione.
+1. Selezionare i ruoli ai quali si desidera consentire l&#39;accesso all&#39;interruttore di attivazione.
 
    ![](assets/toggle-switch-3.png)
 
-## Abilita per funzionalità {#enable-for-features}
+## Attiva per funzioni {#enable-for-features}
 
-È possibile abilitare manualmente il Marketo Engage UX moderno per le singole funzioni o tutte le funzioni disponibili (correnti e future).
+È possibile abilitare manualmente l&#39;interfaccia utente moderna del Marketo Engage per singole funzioni o tutte le funzioni disponibili (correnti e future).
 
-In un’area che al momento dispone dell’interruttore di attivazione/disattivazione (in questo esempio è disponibile la visualizzazione elenco e-mail), fai clic sull’interruttore in basso a destra della pagina.
+In un’area che al momento dispone dell’interruttore di attivazione (in questo esempio ci troviamo nella visualizzazione Elenco e-mail), fai clic sull’opzione in basso a destra della pagina.
 
 ![](assets/toggle-switch-4.png)
 
@@ -45,32 +46,32 @@ La nuova esperienza verrà caricata.
 
 ![](assets/toggle-switch-5.png)
 
-Per attivarlo _tutto_ feature, fate clic sull&#39;icona a forma di ingranaggio accanto all&#39;interruttore di attivazione/disattivazione.
+Per abilitarlo per _tutto_ funzioni, fai clic sull’icona a forma di ingranaggio accanto all’interruttore di attivazione.
 
 ![](assets/toggle-switch-6.png)
 
-Seleziona **Abilita per tutte le funzioni disponibili** e fai clic su **OK**.
+Seleziona **Attiva per tutte le funzioni disponibili** e fai clic su **OK**.
 
 ![](assets/toggle-switch-7.png)
 
 ## Funzioni disponibili {#available-features}
 
-Le seguenti funzioni sono attualmente disponibili nell’interfaccia utente moderna (con nuove funzioni aggiunte a ogni versione):
+Nell’interfaccia utente moderna sono attualmente disponibili le seguenti funzioni (con nuove funzioni aggiunte a ogni versione):
 
 * Visualizzazione dettagli e-mail
-* Visualizzazione a elenco e-mail
+* Visualizzazione elenco e-mail
 * Visualizzazione dettagli modello e-mail
-* Elenco modelli e-mail
-* Visualizzazione dashboard di test e-mail
+* Lista dei Modelli di Email
+* Visualizzazione dashboard prova e-mail
 * Visualizzazione dettagli modulo
-* Visualizzazione a elenco moduli
+* Visualizzazione elenco moduli
 * Pagina Dettagli immagini e file
-* Visualizzazione dei dettagli della pagina di destinazione
-* Visualizzazione a elenco pagina di destinazione
-* Dettagli modello pagina di destinazione
-* Elenco dei modelli di pagina di destinazione
+* Visualizzazione dettagli pagina di destinazione
+* Visualizzazione elenco pagine di destinazione
+* Dettagli del modello della pagina di destinazione
+* Elenco modelli pagina di destinazione
 * Visualizzazione dettagli frammento
-* Visualizzazione elenco frammenti
+* Vista elenco snippet
 
 
 

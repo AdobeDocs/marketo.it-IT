@@ -3,7 +3,8 @@ unique-page-id: 1147124
 description: Utilizzo della scheda Risorse - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo della scheda Risorse
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -16,28 +17,28 @@ L’area di lavoro delle risorse è una rappresentazione visiva del programma. P
 
 ## Aggiunta di risorse {#adding-assets}
 
-Da **Attività di marketing** fai clic sull’area **Risorse** scheda . Scegli una delle risorse seguenti e aggiungili al tuo programma.
+Dalla sezione **Attività di marketing** , fare clic sul pulsante **Risorse** scheda. Scegli una delle risorse seguenti e aggiungile al programma.
 
 ![](assets/programassets.png)
 
 ## Gestione del programma  {#manage-your-program}
 
-Quando sono presenti risorse nel programma, queste vengono elencate qui.
+Quando il programma contiene delle risorse, le visualizzerai in questo elenco.
 
-| Arancio | Trigger Campaign |
+| Arancione | Attiva campagna |
 |---|---|
 | Verde | Campagna batch |
 
-Per interagire con la risorsa, fai clic con il pulsante destro del mouse sull’intestazione.
+Puoi fare clic con il pulsante destro del mouse sull’intestazione se desideri interagire con tale risorsa.
 
 ![](assets/assetsprefilled.png)
 
 >[!TIP]
 >
->Trascina e rilascia per ridisporre le colonne delle risorse.
+>Trascina per ridisporre le colonne della risorsa.
 
-Le risorse non locali del programma avranno l’aspetto seguente:
+Le risorse non locali per il programma avranno un aspetto simile a questo:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 
-La scheda delle risorse è un piccolo grande dashboard per tutto ciò che si trova all&#39;interno e a cui si fa riferimento nel programma.
+La scheda Risorse è una piccola dashboard perfetta per tutto ciò che contiene e a cui si fa riferimento nel programma.

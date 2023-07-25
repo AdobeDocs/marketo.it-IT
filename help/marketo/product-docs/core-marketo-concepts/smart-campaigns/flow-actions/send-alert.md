@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1146958
-description: Invia avviso - Documenti Marketo - Documentazione del prodotto
+description: Inviare un avviso - Documentazione di Marketo - Documentazione del prodotto
 title: Invia avviso
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
@@ -14,7 +15,7 @@ ht-degree: 1%
 
 ## Panoramica {#overview}
 
-Marketo può inviare un avviso via e-mail con informazioni personali a chiunque: il proprietario del venditore, un partner o qualcun altro. Utilizza la **Invia avviso** passaggio di flusso.
+Marketo può inviare un messaggio e-mail di notifica con le informazioni personali a chiunque: il proprietario, un partner o un altro utente. Utilizza il **Invia avviso** passaggio di flusso.
 
 ![](assets/one-1.png)
 
@@ -26,27 +27,27 @@ Marketo può inviare un avviso via e-mail con informazioni personali a chiunque:
 
    >[!NOTE]
    >
-   >L’avviso e-mail deve contenere tutte le informazioni di intestazione e deve essere nel **Approvato** stato.
+   >L&#39;avviso e-mail deve contenere tutte le informazioni di intestazione ed essere in **Approvato** stato.
 
-1. Fai clic sull’icona di anteprima per assicurarti di aver selezionato l’e-mail corretta.
+1. Puoi fare clic sull’icona di anteprima per assicurarti di aver selezionato l’e-mail corretta.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Assicurati di utilizzare il **Invia informazioni avviso** token nell&#39;e-mail.
+   >Assicurati di utilizzare il **Invia informazioni avviso** token nell’e-mail.
 
-1. Selezionare il destinatario dell’avviso. È possibile scegliere Proprietario vendite o Proprietario account.
+1. Selezionare il destinatario dell&#39;avviso. È possibile scegliere Proprietario vendite o Proprietario conto.
 
    ![](assets/four-2.png)
 
-1. Facoltativamente, aggiungi qualsiasi altro indirizzo e-mail desiderato (separato da una virgola o da un punto e virgola).
+1. Se necessario, aggiungi altri indirizzi e-mail, separati da virgola o punto e virgola.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Nelle campagne di attivazione, puoi utilizzare i token in **Ad altre e-mail** quali `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. Token in **Ad altre e-mail** non funziona in una campagna batch.
+   >Nelle campagne trigger puoi utilizzare i token in **Ad Altre E-Mail** come `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. Token in **Ad Altre E-Mail** non funzionerà in una campagna batch.
 
 Tutto qui! Ora sai come utilizzare il **Invia avviso** passaggio di flusso.
 

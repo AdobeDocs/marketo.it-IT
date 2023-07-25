@@ -1,15 +1,16 @@
 ---
 unique-page-id: 14352485
-description: Posso recuperare un contatto o un gruppo eliminato? - Documentazione Marketo - Documentazione del prodotto
-title: Posso recuperare un contatto o un gruppo eliminato?
+description: È possibile recuperare un contatto o un gruppo eliminato? - Documentazione di Marketo - Documentazione del prodotto
+title: È possibile recuperare un contatto o un gruppo eliminato?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Posso recuperare un contatto o un gruppo eliminato? {#can-i-recover-a-contact-or-group-i-deleted}
+# È possibile recuperare un contatto o un gruppo eliminato? {#can-i-recover-a-contact-or-group-i-deleted}
 
-Purtroppo non abbiamo la possibilità di recuperare un contatto o un gruppo dopo che sono stati cancellati. Se il gruppo è stato eliminato solo (persone non selezionate), tutti i contatti continueranno a esistere sotto &quot;Tutti&quot; nella scheda Persone, in modo da poterli selezionare e aggiungerli nuovamente a un nuovo gruppo.
+Sfortunatamente non è possibile ripristinare un contatto o un gruppo dopo che è stato eliminato. Se si elimina solo il gruppo (persone non selezionate), tutti i contatti saranno ancora presenti in &quot;Tutti&quot; nella scheda Persone, quindi è possibile selezionarli e aggiungerli di nuovo a un nuovo gruppo.

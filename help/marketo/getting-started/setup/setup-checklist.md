@@ -3,7 +3,8 @@ unique-page-id: 2949471
 description: Elenco di controllo per l’installazione - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco di controllo per l'installazione
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 1%
