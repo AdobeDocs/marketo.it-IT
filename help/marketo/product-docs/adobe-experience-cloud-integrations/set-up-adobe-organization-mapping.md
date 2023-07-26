@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Imposta mapping organizzazione Adobe {#set-up-adobe-organization-mapping}
 
-Per sincronizzarsi con applicazioni Adobe, come Audience Manager, il connettore Marketo CDP B2B, [!DNL Dynamic Chat], ecc., devi prima immettere le credenziali dell’organizzazione Adobe IMS in Marketo.
+Per sincronizzarsi con applicazioni Adobe, come Audienci Manager, il connettore Marketo CDP B2B, [!DNL Dynamic Chat], ecc., devi prima immettere le credenziali dell’organizzazione Adobe IMS in Marketo.
 
 >[!NOTE]
 >

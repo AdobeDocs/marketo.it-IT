@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # Perché l’attività di tracciamento non viene visualizzata nell’attività Salesforce? {#why-is-tracking-activity-not-showing-in-salesforce-activity}
 
-Se l&#39;attività di tracciamento non viene visualizzata, assicurati che i campi dell&#39;attività personalizzata forniti da Azioni approfondimenti vendite siano visibili o modificabili in Salesforce. Se i campi sono stati installati ma non vengono compilati, è possibile che la protezione a livello di campo impedisca il popolamento delle informazioni. Contatta l’Amministratore Salesforce.
+Se l&#39;attività di tracciamento non viene visualizzata, assicurati che i campi dell&#39;attività personalizzata forniti da Azioni approfondimenti vendite siano visibili o modificabili in Salesforce. Se i campi sono stati installati ma non sono compilati, è possibile che la protezione a livello di campo impedisca il popolamento delle informazioni. Contatta l’Amministratore Salesforce.
 
 Ulteriori informazioni su [Sicurezza a livello di campo](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) in Salesforce.

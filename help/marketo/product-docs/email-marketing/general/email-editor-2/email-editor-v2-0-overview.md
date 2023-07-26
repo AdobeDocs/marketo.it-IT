@@ -91,7 +91,7 @@ Sotto **Azioni e-mail**, noterai alcune nuove funzioni. **Carica un&#39;immagine
 
 **Impostazioni e-mail**
 
-È possibile aggiungere una Preheader. Quando le e-mail vengono visualizzate nella casella in entrata, il testo di riepilogo breve si trova dopo la riga dell’oggetto.
+È possibile aggiungere una Preheader. Un preheader è il breve testo di riepilogo che segue la riga dell’oggetto quando le e-mail vengono visualizzate nella casella in entrata.
 
 ![](assets/edit-settings-preheader-2.png)
 

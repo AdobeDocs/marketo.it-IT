@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Elementi di maggiore rilevanza in Salesforce1 {#best-bets-in-salesforce}
 
-Il tuo [Elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sono i tuoi lead e contatti con il livello di urgenza più elevato e il punteggio relativo. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
+Il tuo [Elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sono i tuoi lead e contatti con la massima urgenza e punteggio relativo. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
 
 1. Vai all’area Marketo nell’app Salesforce.
 

@@ -36,7 +36,7 @@ Aggiungere utenti o amministratori è facile e veloce.
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. PASSAGGIO FACOLTATIVO: aggiungere gli utenti a tutti i team di cui dovrebbero far parte. Se salti questa parte, tutti i nuovi membri verranno aggiunti al team Everyone.
+1. PASSAGGIO FACOLTATIVO: aggiungere gli utenti ai team di cui dovrebbero far parte. Se salti questa parte, tutti i nuovi membri verranno aggiunti al team Everyone.
 
    ![](assets/invite-users-and-admins-5.png)
 

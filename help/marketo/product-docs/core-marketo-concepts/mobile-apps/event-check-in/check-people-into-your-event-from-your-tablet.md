@@ -150,7 +150,7 @@ L’app Marketo Events funziona in modo indipendente finché non sincronizzi nuo
 
    L’evento viene aggiornato con le nuove archiviazioni nel database di Marketo. Il contatore rosso sul pulsante Sincronizza si cancella finché non si archivia un altro utente.
 
-   Per motivi di sicurezza, dovresti uscire dall’app Marketo Events al termine della sincronizzazione.
+   Per motivi di sicurezza, devi uscire dall’app Marketo Events al termine della sincronizzazione.
 
 ## Utilizzo dell&#39;accesso limitato a Internet {#working-with-limited-internet-access}
 

@@ -78,7 +78,7 @@ Potresti anche perdere delle opportunità a causa del costo del programma mancan
 
 ## Perché non vedo i filtri Campi personalizzati, Tipo di opportunità e ABM nel dashboard Coinvolgimento? {#why-do-i-not-see-custom-fields-opportunity-type-and-abm-filters-on-the-engagement-dashboard}
 
-I campi personalizzati, il tipo di opportunità e i filtri ABM sono tutti attributi correlati a un’opportunità. Il dashboard Coinvolgimento consente di misurare il coinvolgimento e l’acquisizione dei lead, indipendentemente dal fatto che siano associati o meno a un’opportunità. Poiché il dashboard Coinvolgimento non prende in considerazione l’opportunità, i campi personalizzati, il tipo di opportunità e i filtri ABM non sono applicabili.
+I campi personalizzati, il tipo di opportunità e i filtri ABM sono tutti attributi correlati a un’opportunità. Il dashboard Coinvolgimento consente di misurare il coinvolgimento e l’acquisizione del lead, indipendentemente dal fatto che siano associati o meno a un’opportunità. Poiché il dashboard Coinvolgimento non prende in considerazione l’opportunità, i campi personalizzati, il tipo di opportunità e i filtri ABM non sono applicabili.
 
 ## Desidero utilizzare un campo personalizzato Opportunità Salesforce per la generazione di rapporti sui ricavi anziché il campo standard Importo opportunità Salesforce. L&#39;MPI mi permette di farlo? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 

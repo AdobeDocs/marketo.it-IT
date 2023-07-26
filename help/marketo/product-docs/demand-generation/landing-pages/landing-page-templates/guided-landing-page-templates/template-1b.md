@@ -21,7 +21,7 @@ Questo modello include i seguenti contenuti:
 
 * Una sezione primaria
 
-   * include immagine principale, intestazione e modulo.
+   * include l’immagine principale, l’intestazione e il modulo.
 
 * Tre sezioni di corpo (facoltativo)
 * Piè di pagina (facoltativo)

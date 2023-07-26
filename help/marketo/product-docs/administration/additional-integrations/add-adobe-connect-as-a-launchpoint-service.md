@@ -53,7 +53,7 @@ Marketo gestisce la registrazione e la partecipazione ai webinar su Adobe Connec
 
    >[!TIP]
    >
-   >Quando crei la password del partecipante, il valore scelto viene incluso in una stringa di query quando i collegamenti vengono inviati per l&#39;evento. Consigliamo quindi di rendere il sistema semplice e intuitivo.
+   >Quando crei la password del partecipante, il valore scelto viene incluso in una stringa di query quando i collegamenti vengono inviati per l&#39;evento. Consigliamo quindi di semplificare le procedure.
 
    >[!NOTE]
    >

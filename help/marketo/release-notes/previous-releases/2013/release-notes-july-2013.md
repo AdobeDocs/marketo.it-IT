@@ -29,7 +29,7 @@ Vuoi interrompere l&#39;invio di e-mail in eccesso ai lead? Ora è facile limita
 
 ## Interfaccia utente cobalto {#cobalt-user-interface}
 
-Nei prossimi mesi, noterai come il nostro nuovo tema verrà introdotto in diverse parti dell’applicazione. Nessuna funzionalità verrà spostata o rimossa.
+Nei prossimi mesi, noterai più del nostro nuovo tema che si sta estendendo in diverse parti dell’applicazione. Nessuna funzionalità verrà spostata o rimossa.
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 

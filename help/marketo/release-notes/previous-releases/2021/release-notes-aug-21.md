@@ -46,7 +46,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ![(stella)](assets/yellow-star.png)
 
-* **Maggiore visibilità sulle attività di lead, contatti, account e opportunità per gli utenti CRM Salesforce**: il coinvolgimento con i potenziali clienti durante lunghi cicli di vendita è più informato a causa di un numero maggiore di record di coinvolgimento in Sales Insight. Le schede dei momenti interessanti, dell’attività web, delle e-mail e dei punteggi mostrano fino a 400 attività tra gli oggetti Lead, Contatto, Account e Opportunità.
+* **Visibilità migliorata delle attività relative a lead, contatti, account e opportunità per gli utenti del sistema CRM di Salesforce**: il coinvolgimento con i potenziali clienti durante lunghi cicli di vendita è più informato a causa di un numero maggiore di record di coinvolgimento in Sales Insight. Le schede dei momenti interessanti, dell’attività web, delle e-mail e dei punteggi mostrano fino a 400 attività tra gli oggetti Lead, Contatto, Account e Opportunità.
 
 ## Sales Connect {#sales-connect}
 

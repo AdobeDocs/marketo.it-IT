@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >La sospensione può essere giustificata solo dal fatto di interromperla per un po’, o se desideri modificare il messaggio o modificare la pianificazione. Tuttavia, non puoi passare a un messaggio diverso, ma solo modificare quello esistente.
+   >La sospensione può essere utile solo per interromperla per un po’ oppure se desideri modificare il messaggio o modificare la pianificazione. Tuttavia, non puoi passare a un messaggio diverso, ma solo modificare quello esistente.
 
 1. Se si desidera che il programma in pausa continui a essere in esecuzione, fare clic su **Riprendi programma**.
 

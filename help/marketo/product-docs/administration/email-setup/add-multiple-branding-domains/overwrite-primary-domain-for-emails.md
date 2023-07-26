@@ -29,4 +29,4 @@ Puoi sovrascrivere il dominio primario del marchio per ogni e-mail. Questo cambi
 
    >[!NOTE]
    >
-   >Non tutti gli utenti dispongono delle autorizzazioni necessarie per impostare il dominio con marchio per e-mail. Contatta l&#39;amministratore se non trovi [!UICONTROL Domini con marchio] a discesa.
+   >Non tutti gli utenti dispongono delle autorizzazioni necessarie per impostare il dominio con marchio per e-mail. Contatta l&#39;amministratore se non visualizzi [!UICONTROL Domini con marchio] a discesa.

@@ -27,7 +27,7 @@ Sales Connect offre il tracciamento degli allegati (.doc, .ppt, .pdf) per consen
 
 1. Seleziona **Aggiungi a e-mail**.
 
-1. Clic **Invia** e accendi il tuo feed live. Visualizzerai i destinatari mentre si aprono e scorri la pagina tra gli allegati.
+1. Clic **Invia** e accendi il tuo feed live. Visualizzerai i destinatari mentre si aprono e sfoglierai i tuoi allegati.
 
    >[!TIP]
    >

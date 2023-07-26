@@ -69,7 +69,7 @@ Utilizzare un Analisi del percorso di successo per esplorare i dettagli specific
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
-1. Il grafico viene aggiornato in arancione in modo da riflettere il numero di SLA scaduti su ciascun nodo.
+1. Il grafico si aggiorna per riflettere il numero di SLA scaduti su ciascun nodo, in arancione.
 
    ![](assets/image2015-6-12-17-3a52-3a17.png)
 

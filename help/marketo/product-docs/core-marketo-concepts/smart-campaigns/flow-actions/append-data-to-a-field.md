@@ -4,7 +4,7 @@ description: Aggiungere dati a un campo - Documentazione Marketo - Documentazion
 title: Aggiungere dati a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

@@ -3,7 +3,7 @@ description: Integrazione dei Dynamic Chat - Documentazione Marketo - Documentaz
 title: Integrazione Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 5%

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-mail di prova non visualizzata {#test-email-not-showed-as-viewed}
 
-Anche se hai inviato il messaggio a un altro indirizzo e-mail, non ti registreremo visualizzando le e-mail che ti sei inviato nel feed live. Il tracciamento è basato su dispositivi; finché utilizzi un computer con cui hai effettuato l’accesso a Sales Connect, questa attività verrà filtrata.
+Anche se hai inviato il messaggio a un altro indirizzo e-mail, non ti registreremo visualizzando le e-mail che ti sei inviato nel feed live. Il monitoraggio è basato su dispositivi; finché utilizzi un computer con cui hai effettuato l’accesso a Sales Connect, questa attività verrà filtrata.
 
 Il motivo? Sales Connect è intelligente, e i nostri utenti attivi non ci perdonerebbero mai se le loro informazioni comparissero nell&#39;attività Live Feed ogni volta che guardavano un&#39;e-mail inviata.
 

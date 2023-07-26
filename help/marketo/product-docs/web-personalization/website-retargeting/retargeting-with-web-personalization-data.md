@@ -72,7 +72,7 @@ La personalizzazione web invia i seguenti dati alle piattaforme di remarketing p
 
    ![](assets/two.png)
 
-1. Attiva la configurazione per Facebook. Fai clic su ed espandi il pannello a soffietto Facebook, quindi fai clic su **On** per inviare i rispettivi Eventi e dati tramite a Facebook Audience Manager. Clic **Salva**.
+1. Attiva la configurazione per Facebook. Fai clic su ed espandi il pannello a soffietto Facebook, quindi fai clic su **On** per inviare i rispettivi Eventi e dati tramite a Facebook Audienci Manager. Clic **Salva**.
 
    >[!NOTE]
    >

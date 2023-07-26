@@ -35,7 +35,7 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
-   a. Il campo &quot;A&quot; mostra &quot;Tutte le ricezioni&quot;, che corrisponde all&#39;elenco di lead scelti nella vista Elenco lead\
+   a. Il campo &quot;A&quot; mostra &quot;Tutte le ricezioni&quot;: corrisponde all&#39;elenco dei lead scelti nella vista Elenco lead\
    b. Questo elenco è visibile nel pannello a sinistra denominato &quot;Composizione in blocco&quot;. Qui puoi aggiungere/rimuovere i destinatari\
    c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato\
    d. Puoi visualizzare in anteprima i campi dinamici che verranno compilati nel messaggio e-mail\

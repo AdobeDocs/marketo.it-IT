@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352490
-description: Non ho effettuato l’accesso a Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Non ho effettuato l’accesso a Salesforce - Documentazione di Marketo - Documentazione del prodotto
 title: Non ho effettuato l’accesso a Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
