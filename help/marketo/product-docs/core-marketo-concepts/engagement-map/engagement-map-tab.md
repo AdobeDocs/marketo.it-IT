@@ -4,9 +4,9 @@ title: Scheda Mappa di coinvolgimento
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
@@ -94,22 +94,18 @@ Passaggi di flusso: in caso contrario _non_ includi eventuali scelte, questa sch
 
 ## Visualizzazione di una campagna di esecuzione nidificata {#visualizing-a-nested-execute-campaign}
 
-È STATA SELEZIONATA LA MODIFICA QUI-------------
+Esegui le campagne eseguite in serie con la campagna principale. Le persone idonee per una campagna eseguibile completano tutti i passaggi del flusso dalla campagna e tornano alla campagna principale per continuare attraverso i passaggi del flusso di questa campagna.
 
-Eseguire le campagne eseguite in serie con le persone della campagna padre idonee per una campagna eseguibile completare tutti i passaggi di flusso dalla campagna e tornare alla campagna principale per continuare attraverso i passaggi di flusso di questa campagna.
-
-Di seguito è riportato un esempio di campagna intelligente, &quot;Campaign A&quot;, che include un passaggio di esecuzione del flusso della campagna. Considera &quot;Campagna A&quot; come la tua campagna principale.
+Di seguito è riportato un esempio di campagna avanzata, &quot;Campaign A&quot;, che include un passaggio di esecuzione del flusso della campagna. Considera &quot;Campagna A&quot; come la tua campagna principale.
 
 ![](assets/engagement-map-tab-11.png)
 
 1. Facendo clic sulla scheda del flusso di esecuzione della campagna, si espande per visualizzare i dettagli della &quot;Campagna B&quot;.
-1. La &quot;Campagna B&quot; include un filtro che si espande in un pubblico qualificato e non qualificato.
-1. Il pubblico qualificato attraversa i passaggi di flusso associati alla &quot;Campagna B&quot;.
+1. &quot;Campagna B&quot; include un filtro che divide il pubblico in due gruppi: qualificato e non qualificato.
+1. Il pubblico qualificato attraversa i passaggi del flusso associati alla &quot;Campagna B&quot;.
 1. Tutti i tipi di pubblico (qualificati e non qualificati) tornano alla &quot;Campagna A&quot; e passano al passaggio di flusso successivo.
 
-HA SMESSO DI MODIFICARE QUI------------------
-
-![](assets/engagement-map-tab-12.png)
+   ![](assets/engagement-map-tab-12.png)
 
 Puoi fare clic sul passaggio del flusso Esegui campagna in &quot;Campaign B&quot;, che si espanderà per mostrare le schede di scelta e la campagna associate a ciascuna scelta.
 
@@ -117,49 +113,53 @@ Puoi fare clic sul passaggio del flusso Esegui campagna in &quot;Campaign B&quot
 
 ## Visualizzazione di una campagna di richieste {#visualizing-request-campaign}
 
-Le campagne di richiesta vengono eseguite in parallelo con la campagna principale, ovvero i lead idonei per una campagna di richiesta completano tutti i passaggi del flusso dalla campagna e chiudono la campagna. In parallelo, lo stesso set di lead passerà attraverso i passaggi del flusso dalla campagna principale
+Le campagne di richiesta vengono eseguite in parallelo alla campagna principale. Le persone idonee per una campagna di richieste completano tutti i passaggi del flusso dalla campagna e quindi escono dalla campagna. Contemporaneamente, lo stesso gruppo di persone passa attraverso i passaggi del flusso della campagna principale.
 
-Di seguito è riportato un esempio di campagna intelligente &quot;Campagna A&quot; che include un passaggio di flusso della campagna di richiesta. Puoi considerare la &quot;Campagna A&quot; come la tua campagna principale.
+Di seguito è riportato un esempio di campagna avanzata, &quot;Campaign A&quot;, che include un passaggio di flusso della campagna di richiesta. Considera &quot;Campagna A&quot; come la tua campagna principale.
 
 ![](assets/engagement-map-tab-14.png)
 
 1. Facendo clic sulla scheda del flusso della campagna di richiesta si espanderà per visualizzare i dettagli della &quot;Campagna B&quot;
-1. La campagna B include un filtro che consente di eseguire il branch in un pubblico qualificato.
-1. Il pubblico qualificato attraversa i passaggi di flusso associati alla &quot;Campagna B&quot;
-1. In parallelo, tutti i tipi di pubblico passano ai passaggi di flusso successivi nella &quot;Campagna A&quot;
+1. &quot;Campagna B&quot; include un filtro che divide il pubblico in due gruppi: qualificato e non qualificato.
+1. Il pubblico qualificato attraversa i passaggi del flusso associati alla &quot;Campagna B&quot;.
+1. Allo stesso tempo, tutti i tipi di pubblico passano ai passaggi di flusso successivi nella &quot;Campagna A&quot;.
 
    ![](assets/engagement-map-tab-15.png)
 
-Puoi approfondire le campagne nidificate, se uno dei passaggi del flusso include un’altra campagna di richiesta, facendo clic sulla scheda del flusso per visualizzare i dettagli della campagna
+Puoi approfondire le campagne nidificate se uno dei passaggi del flusso include un’altra campagna di richiesta facendo clic sulla scheda del flusso per visualizzare i dettagli della campagna.
 
 ![](assets/engagement-map-tab-16.png)
 
-Di seguito è riportato un esempio di campagna di richieste con scelte.
+Di seguito è riportato un esempio di campagna di richiesta con scelte.
 
 ![](assets/engagement-map-tab-17.png)
 
 ## Gestione degli errori {#error-handling}
 
-Gli errori nei passaggi dell’elenco smart e del flusso vengono evidenziati tramite l’icona di errore nella scheda. Inoltre, il messaggio di errore corrispondente verrà visualizzato nel pannello a tendina.
+Gli errori negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona di errore nella scheda. Inoltre, un messaggio di errore corrispondente verrà visualizzato nel pannello a tendina.
 
-Ecco un esempio di errore nel trigger che verrà indicato nella scheda di panoramica del trigger, nel pannello a tendina e nella scheda di attivazione dei dettagli
+Di seguito è riportato un esempio di errore in un trigger che viene visualizzato nella scheda panoramica trigger, nel pannello a tendina e nella scheda trigger di dettaglio.
 
 ![](assets/engagement-map-tab-18.png)
 
 ![](assets/engagement-map-tab-19.png)
 
-Errore nella scheda del filtro: può includere
+**Gli errori nelle schede dei filtri possono includere:**
 
-Errore nell’elenco avanzato. Il pubblico qualificato non verrà visualizzato
+* Errore nell’elenco avanzato che impedirà la visualizzazione del pubblico qualificato
 
-Errore nella logica del filtro
+* Errore nella logica del filtro
 
-Errore nei vincoli o mancanza di vincoli in uno o più filtri
+* Errore o assenza di vincoli in uno o più filtri
 
-![](assets/engagement-map-tab-20.png)
+  ![](assets/engagement-map-tab-20.png)
 
-Se non si immettono valori (attributi), questi non verranno contrassegnati come errori e continueranno a funzionare come nella scheda Flusso. Pertanto, le campagne esistenti non verranno interrotte. Tuttavia, quando i passaggi di flusso non includono attributi, questi verranno visualizzati come avvisi.
+Se non si immettono valori (attributi), non verrà generato un errore e continuerà a funzionare come nella scheda Flusso. Pertanto, le campagne esistenti non verranno interrotte. Tuttavia, quando i passaggi di flusso non includono attributi, questi verranno visualizzati come avvisi.
+
+^^^ NE ABBIAMO DAVVERO BISOGNO, IL CLIENTE NON VEDRÀ L&#39;AVVISO???
 
 ![](assets/engagement-map-tab-21.png)
 
-Nota: gli errori all’interno di una campagna nidificata non saranno visibili finché non fai clic su per espandere la campagna nidificata
+>[!NOTE]
+>
+>Gli errori all’interno di una campagna nidificata non saranno visibili finché non fai clic su per espandere la campagna nidificata.

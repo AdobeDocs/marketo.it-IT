@@ -4,9 +4,9 @@ title: Panoramica di Engagement Map
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Passa a una campagna esistente e fai clic su **Mappa di coinvolgimento** pulsant
 
 SCHERMATA
 
-Una volta nella mappa di coinvolgimento, verranno visualizzate due schede: [Mappa di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
+Una volta nella mappa di coinvolgimento, verranno visualizzate due schede: [Mappa di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 SCHERMATA
 
-INTESTAZIONE - DESCRIZIONI DELLE SCHEDE? - LOPA CONFERMERÀ
+## Descrizioni scheda {#card-descriptions}
 
 **Triggers**: nelle campagne che includono trigger, la mappa avrà una scheda &quot;Panoramica trigger&quot;. Facendo clic su questa icona verrà visualizzata una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
 
@@ -43,7 +43,7 @@ INTESTAZIONE - DESCRIZIONI DELLE SCHEDE? - LOPA CONFERMERÀ
 
 ## Campagne nidificate {#nested-campaigns}
 
-* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni. La campagna nidificata includerà anche una pillola di chiusura; facendo clic su questa icona, le schede associate alla campagna nidificata verranno compresse. !!!!!!!!!!!! - REWORD O REMOVE - LOPA CONFERMERÀ
+* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni.
 
 * Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con scelte, facendo clic sulla scheda di flusso vengono visualizzate una scheda di scelte e un pannello a tendina con ulteriori informazioni sulle scelte. Facendo clic su ciascuna scheda di scelta verranno visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
 
@@ -63,7 +63,7 @@ Il menu di navigazione superiore include le seguenti funzioni:
 
 * Pulsante Attiva/Disattiva per attivare le campagne
 
-* Modifica elenco avanzato: l’utente passa all’interfaccia Elenco avanzato in una nuova scheda, dove è possibile aggiungere o modificare l’elenco avanzato
+* Modifica elenco avanzato: per passare all’interfaccia Elenco avanzato in una nuova scheda, puoi aggiungere o modificare l’elenco avanzato
 
 * Modifica flusso: per passare all’interfaccia Flusso in una nuova scheda è possibile aggiungere o modificare l’elenco avanzato
 

@@ -4,16 +4,16 @@ title: Scheda Impostazioni
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '333'
 ht-degree: 1%
 
 ---
 
 # Scheda Impostazioni {#settings-tab}
 
-La scheda Impostazioni contiene tutte le impostazioni della campagna, inclusi gli stessi set di autorizzazioni e l’accesso della scheda Pianificazione. LA VISITA DI QUESTA SCHEDA NON COMPORTERÀ ALCUN DISTURBO??? CONSIDERA L’ELIMINAZIONE O LA RIFORMULAZIONE: LOPA CONFERMERÀ: non interromperà le impostazioni esistenti della campagna.
+La scheda Impostazioni contiene tutte le impostazioni della campagna, inclusi gli stessi set di autorizzazioni e l’accesso della scheda Pianificazione in Smart Campaigns.
 
 Include le tre sezioni seguenti.
 
@@ -58,9 +58,13 @@ La scheda Impostazioni include anche una breve panoramica dell’elenco avanzato
 
 Set di autorizzazioni ed errori nella scheda Impostazioni:
 
-Tutti i set di autorizzazioni esistenti saranno applicabili nella scheda Impostazioni. Se il pulsante Edit (Modifica) è disattivato, significa che non disponi delle autorizzazioni necessarie per eseguire le modifiche e che dovresti contattare il tuo amministratore Marketo.
+Tutti i set di autorizzazioni esistenti saranno applicabili nella scheda Impostazioni. Se il pulsante Modifica è disattivato, fai clic sull’icona Aiuto per scoprirne il motivo.
 
-AGGIUNGI DESCRIZIONE ALL&#39;ANNULLAMENTO DI ESECUZIONI PIANIFICATE - CONFERMA CON LOPA DOPO L&#39;ARRESTO —> Se un utente non ha accesso alla modifica delle impostazioni della campagna, non avrà accesso all&#39;annullamento delle esecuzioni pianificate.
+>[!NOTE]
+>
+>Se dopo aver fatto clic sull’icona della guida viene visualizzato &quot;È necessaria un’autorizzazione aggiuntiva&quot;, contatta il tuo amministratore Marketo.
+
+RIDONDANTE COME SPIEGATO IN PRECEDENZA, POSSIAMO RIMUOVERE —> Se un utente non ha accesso alla modifica delle impostazioni della campagna, non avrà accesso per annullare le esecuzioni pianificate.
 
 ![](assets/settings-tab-5.png)
 
