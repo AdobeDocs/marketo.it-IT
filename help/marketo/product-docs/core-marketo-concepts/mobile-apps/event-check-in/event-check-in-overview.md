@@ -3,14 +3,18 @@ description: Panoramica del check-in degli eventi
 title: Panoramica del check-in degli eventi
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Panoramica del check-in degli eventi {#event-check-in-overview}
+
+>[!AVAILABILITY]
+>
+>Questa app non è compatibile con [Autenticazione dell’identità di Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} in questo momento.
 
 L’app Marketo Events per iPad o tablet Android semplifica il check-in delle persone subito dopo l’arrivo all’evento.
 
@@ -24,9 +28,9 @@ Buon evento!
 
 Prima dell’evento:
 
-* [Crea un nuovo ruolo Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) per gli utenti iPad o Android per l’evento
-* [Invita nuovi utenti tablet all&#39;evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e assegna loro il nuovo ruolo
-* [Creazione di un nuovo programma eventi di Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [Crea un nuovo ruolo Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} per gli utenti iPad o Android per l’evento
+* [Invita nuovi utenti tablet all&#39;evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} e assegna loro il nuovo ruolo
+* [Creazione di un nuovo programma eventi di Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Specificare le date dell’evento
 * Aggiungi persone al tuo evento
 
@@ -45,5 +49,5 @@ All&#39;evento:
 
 * Accedere all’app
 * Trova ospiti (e crea nuove persone)
-* [Consegna a ospiti](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (storna check-in, modifica record persona al check-in)
+* [Consegna a ospiti](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (storna check-in, modifica record persona al check-in)
 * Sincronizzare l&#39;app tablet iPad o Android con Marketo

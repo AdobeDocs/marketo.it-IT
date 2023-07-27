@@ -4,9 +4,9 @@ description: Informazioni su Marketo Moments - Documentazione Marketo - Document
 title: Informazioni su Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 0%
 
 Il potere di Marketo ora è nelle vostre mani, letteralmente! Visualizza l’anteprima e riprogramma le e-mail direttamente dal telefono o da iPad.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >È necessaria l&#39;autorizzazione per accedere alle app per dispositivi mobili. Contatta il tuo amministratore Marketo per [aggiorna il ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>Questa app non è compatibile con [Autenticazione dell’identità di Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} in questo momento.
 
 ## Flussi {#streams}
 
