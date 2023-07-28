@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
 workflow-type: tm+mt
-source-wordcount: '8996'
+source-wordcount: '9001'
 ht-degree: 0%
 
 ---
@@ -409,7 +409,7 @@ ht-degree: 0%
             + [Filtrare un rapporto di programma per tag](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
          + Vista Schedule {#program-schedule-view}
             + [Crea tipi di voce personalizzati](product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)
-            + [Creazione di una campagna batch intelligente nella vista Programmazione del programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)
+            + [Creazione di una campagna batch intelligente nella vista Pianificazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)
             + [Creazione di un nuovo programma e-mail nella vista Pianificazione](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)
             + [Creazione di una voce nella vista Programmazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
             + [Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Inviare un elenco a una rete di annunci](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat {#dynamic-chat}
-         + [Panoramica di Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Panoramica del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configurazione iniziale](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Aggiungi o rimuovi utenti chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notifiche browser](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -634,7 +634,7 @@ ht-degree: 0%
             + [Riunioni](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Indirizzamento](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integrazioni {#integrations}
-            + [Connettere Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Connetti Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Utilizzo della scheda documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialogo {#dialogues}
             + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
@@ -958,6 +958,8 @@ ht-degree: 0%
          + [Indirizzi IP condivisi e dedicati](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Informazioni sull’annullamento dell’iscrizione](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Utilizza i tuoi indirizzi IP dedicati per inviare e-mail](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
+         + Tracciamento casella in entrata {#inbox-tracker}
+            + [Tutorials di tracciamento casella in entrata](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Coltivazione a goccia {#drip-nurturing}
          + Creazione di un programma di coinvolgimento {#creating-an-engagement-program}
             + [Aggiungi un flusso](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1354,7 +1356,7 @@ ht-degree: 0%
                + [Aggiungi pulsanti di azione alla vista a elenco Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Aggiorna il campo del tipo di attività durante la registrazione delle attività in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
             + Azioni in Salesforce {#actions-in-salesforce}
-               + [Utilizzo dell’e-mail per le vendite in blocco in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+               + [Utilizzo dell’e-mail per vendite in blocco in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [Utilizzo di Bulk Add to Sales Campaign in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-mail {#email}
             + Centro comandi {#command-center}
