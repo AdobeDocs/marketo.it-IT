@@ -1,23 +1,21 @@
 ---
 description: Tutorials di tracciamento casella in entrata - Documentazione Marketo - Documentazione del prodotto
 title: Tutorials di tracciamento casella in entrata
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Tutorials di tracciamento casella in entrata {#inbox-tracker-tutorials.md}
 
-Inbox Tracker, di MessageBird, è un potente strumento di terze parti...
+Test, monitoraggio e comprensione dei problemi di recapito messaggi con Marketo Email Deliverability Powerpack, basato sulla piattaforma di tracciamento della casella in entrata di MessageBird. Inbox Tracker è un’unica applicazione che combina l’intelligenza del programma e la previsione del rendering e del test della casella in entrata delle e-mail per massimizzare le prestazioni delle e-mail.
 
-MessageBird ha creato diversi video di formazione per aiutarti a navigare nella piattaforma.
+![](assets/inbox-tracker-tutorials-1.png)
 
-SCHERMATA
+MessageBird ha creato diversi video di formazione per aiutarti a ottenere il massimo da questo potente strumento.
 
 ## Panoramica di Inbox Tracker {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ SCHERMATA
 [Intellettuale (configurazione e download)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Sezione recapito messaggi di posta in arrivo {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [Panoramica del dashboard](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ SCHERMATA
 [Strumenti Google Postmaster](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Tracciamento progettazione {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [Tracciamento progettazione](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
