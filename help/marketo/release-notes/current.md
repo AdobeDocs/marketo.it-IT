@@ -3,7 +3,7 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 2%
@@ -24,7 +24,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Mappa di coinvolgimento**: Engagement Map è uno strumento visivo che consente di creare e organizzare campagne riutilizzabili. È completamente compatibile con le versioni precedenti, pertanto tutte le campagne esistenti possono essere visualizzate in questa nuova struttura con un clic. Le tele possono essere scaricate e condivise.
+* **Mappa di coinvolgimento**: Engagement Map è uno strumento visivo che consente di creare e organizzare campagne riutilizzabili. È completamente compatibile con le versioni precedenti, pertanto tutte le campagne esistenti possono essere visualizzate in questa nuova struttura con un clic. È possibile scaricare e condividere le mappe.
 
 <table> 
   <tr> 

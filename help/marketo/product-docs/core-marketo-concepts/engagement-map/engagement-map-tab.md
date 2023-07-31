@@ -4,9 +4,9 @@ title: Scheda Mappa di coinvolgimento
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ Di seguito è riportato un esempio di errore in un trigger che viene visualizzat
 * Errore o assenza di vincoli in uno o più filtri
 
   ![](assets/engagement-map-tab-20.png)
-
-Se non si immettono valori (attributi), non verrà generato un errore e continuerà a funzionare come nella scheda Flusso. Pertanto, le campagne esistenti non verranno interrotte. Tuttavia, quando i passaggi di flusso non includono attributi, questi verranno visualizzati come avvisi.
-
-^^^ NE ABBIAMO DAVVERO BISOGNO, IL CLIENTE NON VEDRÀ L&#39;AVVISO???
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >

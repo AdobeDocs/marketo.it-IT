@@ -4,9 +4,9 @@ title: Panoramica di Engagement Map
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 La mappa del coinvolgimento consente di creare campagne intelligenti riutilizzabili con l’aiuto di elementi visivi intuitivi. Offre piena compatibilità con le versioni precedenti di tutte le campagne Smart di Marketo Engage esistenti, senza la perdita di funzioni correnti.
 
-SCHERMATA
+![](assets/engagement-map-overview-1.png)
 
 ## Accesso a Engagement Map {#accessing-engagement-map}
 
 Passa a una campagna esistente e fai clic su **Mappa di coinvolgimento** pulsante.
 
-SCHERMATA
+![](assets/engagement-map-overview-2.png)
 
 Una volta nella mappa di coinvolgimento, verranno visualizzate due schede: [Mappa di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-SCHERMATA
+![](assets/engagement-map-overview-3.png)
 
 ## Descrizioni scheda {#card-descriptions}
 
@@ -51,11 +51,7 @@ SCHERMATA
 
 ## Navigazione superiore {#top-navigation}
 
-SCHERMATA
-
 Il menu di navigazione superiore include le seguenti funzioni:
-
-!!!!! LA SCHERMATA È OBSOLETA - ACQUISISCI UNA NUOVA
 
 * Nome della campagna e accesso al modale &quot;Modifica campagna&quot;. Puoi modificare il nome e la descrizione della campagna qui.
 
