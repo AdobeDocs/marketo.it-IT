@@ -4,7 +4,7 @@ title: Panoramica di Engagement Map
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Panoramica di Engagement Map {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->Questa funzione è attualmente disponibile per le campagne avanzate. Non è disponibile per i programmi.
-
 La mappa del coinvolgimento consente di creare campagne intelligenti riutilizzabili con l’aiuto di elementi visivi intuitivi. Offre piena compatibilità con le versioni precedenti di tutte le campagne Smart di Marketo Engage esistenti, senza la perdita di funzioni correnti.
+
+>[!NOTE]
+>
+>Engagement Map è attualmente disponibile in Smart Campaigns. Non è disponibile in Programmi.
 
 ![](assets/engagement-map-overview-1.png)
 
