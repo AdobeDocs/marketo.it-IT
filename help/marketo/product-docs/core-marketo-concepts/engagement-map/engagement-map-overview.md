@@ -1,12 +1,10 @@
 ---
 description: Panoramica di Engagement Map - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Engagement Map
-hide: true
-hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -33,19 +31,19 @@ Una volta nella mappa di coinvolgimento, verranno visualizzate due schede: [Mapp
 
 ## Descrizioni scheda {#card-descriptions}
 
-**Triggers**: nelle campagne che includono trigger, la mappa avrà una scheda &quot;Panoramica trigger&quot;. Facendo clic su questa icona verrà visualizzata una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
+**Triggers**: nelle campagne che includono trigger, la mappa avrà una scheda &quot;Panoramica trigger&quot;. Facendo clic su questo pulsante vengono visualizzate una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
 
-**Filtri**: nelle campagne che includono filtri, la mappa conterrà una scheda per ciascuna. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
+**Filtri**: nelle campagne che includono filtri, la mappa conterrà la scheda Panoramica filtri. Facendo clic su di esso verrà visualizzato un pannello a tendina con informazioni aggiuntive su ciascun filtro.
 
 **Passaggi del flusso**: ogni campagna includerà una scheda per ogni passaggio di flusso. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
 
-**Scelte**: se un passaggio di flusso include una o più scelte, facendo clic sulla scheda del flusso viene visualizzata una scheda per ogni scelta e un pannello a tendina con ulteriori informazioni.
+**Scelte**: se un passaggio di flusso include una o più scelte, facendo clic sulla scheda del flusso vengono visualizzate una scheda per ciascuna scelta e un pannello a tendina con informazioni aggiuntive.
 
 ## Campagne nidificate {#nested-campaigns}
 
 * Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni.
 
-* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con scelte, facendo clic sulla scheda di flusso vengono visualizzate una scheda di scelte e un pannello a tendina con ulteriori informazioni sulle scelte. Facendo clic su ciascuna scheda di scelta verranno visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
+* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con opzioni, facendo clic sulla scheda di flusso vengono visualizzate una scheda per ciascuna opzione e un pannello a tendina con ulteriori informazioni sulle opzioni disponibili. Facendo clic su ciascuna scheda di scelta verranno visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
 
 * Inoltre, se una delle campagne nidificate include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda del flusso verranno visualizzati i dettagli della campagna. Lo stesso vale quando il passaggio di flusso include delle scelte.
 
@@ -59,7 +57,7 @@ Il menu di navigazione superiore include le seguenti funzioni:
 
 * Pulsante Attiva/Disattiva per attivare le campagne
 
-* Modifica elenco avanzato: per passare all’interfaccia Elenco avanzato in una nuova scheda, puoi aggiungere o modificare l’elenco avanzato
+* Modifica elenco avanzato: per passare all’interfaccia Elenco avanzato in una nuova scheda, puoi aggiungere o modificare i passaggi del flusso
 
 * Modifica flusso: per passare all’interfaccia Flusso in una nuova scheda è possibile aggiungere o modificare l’elenco avanzato
 
@@ -69,7 +67,7 @@ Il menu di navigazione superiore include le seguenti funzioni:
 
 >[!NOTE]
 >
->Le modifiche apportate in una scheda Elenco avanzato e Flusso aperta verranno riportate nella scheda Mappa di coinvolgimento al momento dell&#39;aggiornamento. Non verrà aggiornato automaticamente. Verranno applicate le modifiche e gli aggiornamenti salvati automaticamente.
+>Le modifiche apportate in una scheda Elenco avanzato e Flusso aperta verranno riportate nella scheda Mappa di coinvolgimento al momento dell&#39;aggiornamento. Non verrà aggiornato automaticamente. Gli aggiornamenti e le modifiche salvati automaticamente verranno rispecchiati nell&#39;aggiornamento della scheda Mappa di coinvolgimento.
 
 ## Domande frequenti {#faq}
 
