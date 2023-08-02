@@ -2,9 +2,9 @@
 description: Panoramica di Engagement Map - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Engagement Map
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -51,15 +51,15 @@ Una volta nella mappa di coinvolgimento, verranno visualizzate due schede: [Mapp
 
 Il menu di navigazione superiore include le seguenti funzioni:
 
-* Nome della campagna e accesso al modale &quot;Modifica campagna&quot;. Puoi modificare il nome e la descrizione della campagna qui.
+* Nome della campagna e accesso alla finestra modale &quot;Modifica campagna&quot;. Puoi modificare il nome e la descrizione della campagna qui.
 
 * Lo stato della campagna e il tipo di campagna saranno riportati sotto il nome della campagna
 
 * Pulsante Attiva/Disattiva per attivare le campagne
 
-* Modifica elenco avanzato: per passare all’interfaccia Elenco avanzato in una nuova scheda, puoi aggiungere o modificare i passaggi del flusso
+* Modifica elenco avanzato: per passare all’interfaccia Elenco avanzato in una nuova scheda, puoi aggiungere o modificare i filtri e/o i trigger
 
-* Modifica flusso: per passare all’interfaccia Flusso in una nuova scheda è possibile aggiungere o modificare l’elenco avanzato
+* Modifica flusso: per passare all’interfaccia Flusso in una nuova scheda, puoi aggiungere o modificare i passaggi del flusso
 
 * Esportazione: consente di scaricare un’immagine della visualizzazione della campagna. La versione scaricata rifletterà tutti i rami espansi
 

@@ -3,10 +3,10 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 16%
+source-wordcount: '804'
+ht-degree: 7%
 
 ---
 
@@ -119,8 +119,8 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Impostazioni Smart Campaign</td> 
-   <td><li>Ci sono dei limiti? La tua azienda dispone di criteri in cui potrebbero essere necessari limiti di comunicazione?</li>
-<li>L’Adobe consiglia di limitare le comunicazioni a 1 al giorno e a 3 ogni 7 giorni se le e-mail non operative sono bloccate.</li></td>
+   <td><li>Hai una restrizione sulla dimensione di Smart Campaign?</li>
+<li>In caso contrario, puoi aggiungerne uno. È consigliabile limitare i limiti delle campagne intelligenti al 25% del database, per evitare comunicazioni eccessive o l’elaborazione dell’intero database nei flussi di lavoro. In questo modo non solo si protegge il marchio, ma si proteggono anche le prestazioni dell’istanza.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -136,18 +136,9 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
    <th>Colonna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Limiti di comunicazione</td> 
+   <td><li>Ci sono dei limiti? La tua azienda dispone di criteri in cui potrebbero essere necessari limiti di comunicazione?</li>
+<li>L’Adobe consiglia di limitare le comunicazioni a 1 al giorno e a 3 ogni 7 giorni, con le e-mail non operative bloccate.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,18 +154,24 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
    <th>Colonna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Tag</td> 
+   <td><li>Quanti tag ci sono? Quanti tag sono in uso? È necessario aggiungerne qualcuno?</li>
+<li>I tag sono richiesti all’interno dei programmi?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Canali</td> 
+   <td><li>Quanti canali ci sono? Quanti ne vengono utilizzati?</li>
+<li>Tutti gli stati dei programmi di canale sono appropriati? Mostrano la progressione all'interno del programma?</li>
+<li>I canali sono correlati a tipi di programmi specifici?</li>
+<li>Quali stati sono considerati di successo per ogni canale? Sono in linea con i tuoi obiettivi di marketing?</li>
+<li>Il canale operativo viene utilizzato in modo appropriato?</li>
+<li>Per il Report Builder avanzato (Revenue Cycle Explorer\RCE), il comportamento di analisi dei canali è impostato in modo da essere allineato alle procedure del programma che includono il costo del periodo?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Calendario marketing (se applicabile)</td> 
+   <td><li>Quanti tipi di voci del calendario sono disponibili? Sono ancora tutti rilevanti?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,18 +187,27 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
    <th>Colonna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Gestione dei campi</td> 
+   <td><li>Quanti campi ci sono? Fai clic su "Esporta nomi campi" per rivedere un elenco dei campi personalizzati e dei relativi nomi API.</li>
+<li>Quanti campi personalizzati sono presenti?</li>
+<li>Quanti campi vengono utilizzati? Seleziona "Esporta utilizzato da" nel menu a discesa Azioni campo per esaminare le risorse correlate di un campo.</li>
+<li>Quanti sono sincronizzati tra il Marketo Engage e il sistema CRM?</li>
+<li>I campi CRM sono sincronizzati con gli oggetti appropriati?</li>
+<li>Esiste una visualizzazione personalizzata impostata per i dettagli della persona? Ci dovrebbe essere?</li>
+<li>Disponi di una convenzione di denominazione per i campi basata sull’origine? In caso contrario, puoi implementarlo.</li>
+<li>Sono presenti campi bloccati? Assicurati di capire perché lo sono.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Attività personalizzate</td> 
+   <td><li>Esistono attività personalizzate?</li>
+<li>In tal caso, fai clic su di essi per capire quali attività non sono correlate a un modulo di Marketo, a un’e-mail o a una pagina di destinazione.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Oggetti personalizzati</td> 
+   <td><li>Quanti oggetti personalizzati sono presenti? Come vengono sincronizzati con il tuo sistema CRM?</li>
+<li>In che modo questi oggetti personalizzati vengono utilizzati dai programmi e dalle query elenco?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -229,6 +235,19 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight (se applicabile)</td> 
+   <td><li>Il pacchetto MSI è stato installato?</li>
+<li>Hai effettuato l’aggiornamento all’ultima versione di Sales Insight?</li>
+<li>Hai completato la configurazione di Sales Insight?</li>
+<li>Hai dato accesso ai tuoi utenti in base al numero di postazioni che hai acquistato?</li></td>
    <td>3</td>
   </tr>
  </tbody> 

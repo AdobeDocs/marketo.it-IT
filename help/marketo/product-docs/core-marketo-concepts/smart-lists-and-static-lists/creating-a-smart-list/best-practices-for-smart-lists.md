@@ -4,9 +4,9 @@ description: Best practice per elenchi avanzati - Documentazione di Marketo - Do
 title: Best practice per gli elenchi avanzati
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Per semplificarne l&#39;utilizzo e ottimizzare le prestazioni, è stato creato u
 
 >[!TIP]
 >
->Marketo può essere utilizzato in molti modi e alcune tecniche sono migliori per te e la tua azienda. Considerare [Servizi professionali Marketo](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} per dare lustro al tuo investimento.
+>Il Marketo Engage può essere utilizzato in molti modi e alcune tecniche sono migliori per te e la tua azienda. Contatta il tuo rappresentante commerciale Adobe Professional Services per ottenere il massimo dal tuo investimento.
