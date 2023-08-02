@@ -3,10 +3,10 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 7%
+source-wordcount: '851'
+ht-degree: 6%
 
 ---
 
@@ -223,8 +223,10 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
    <th>Colonna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>A quale CRM stai eseguendo la sincronizzazione? Salesforce? MS Dynamics? Veeva?</li>
+<li>La sincronizzazione personalizzata è bidirezionale? (KG: Correggi grammatica e controlla importanza)</li>
+<li>[Solo per Salesforce] L’istanza dispone di filtri di sincronizzazione personalizzati implementati? Contatta il supporto Marketo per identificare filtri di sincronizzazione personalizzati o richiedere l’implementazione di una regola di sincronizzazione personalizzata.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Marketo Sales Insight (se applicabile)</td> 
-   <td><li>Il pacchetto MSI è stato installato?</li>
-<li>Hai effettuato l’aggiornamento all’ultima versione di Sales Insight?</li>
+   <td><li>Ha <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Pacchetto MSI installato</a>?</li>
+<li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">aggiornato all’ultima versione di Sales Insight</a>?</li>
 <li>Hai completato la configurazione di Sales Insight?</li>
-<li>Hai dato accesso ai tuoi utenti in base al numero di postazioni che hai acquistato?</li></td>
+<li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">accesso dato ai tuoi utenti</a> in base al numero di posti che hai acquistato?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
