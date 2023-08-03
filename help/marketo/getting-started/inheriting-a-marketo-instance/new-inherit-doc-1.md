@@ -3,9 +3,9 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
+source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
@@ -261,7 +261,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
    <td>Marketo Sales Insight (se applicabile)</td> 
    <td><li>Ha <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Pacchetto MSI installato</a>?</li>
 <li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">aggiornato all’ultima versione di Sales Insight</a>?</li>
-<li>Hai completato la configurazione di Sales Insight?</li>
+<li>Hai completato la configurazione di Sales Insight? Utenti Enterprise/Unlimited <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">fai clic qui</a>, utenti professionali <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">fai clic qui</a>.</li>
 <li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">accesso dato ai tuoi utenti</a> in base al numero di posti che hai acquistato?</li></td>
    <td>3</td>
   </tr>
