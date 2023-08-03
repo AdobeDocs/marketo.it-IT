@@ -4,9 +4,9 @@ description: Token di attivazione per i momenti di interesse - Documentazione di
 title: Attiva token per momenti di interesse
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili tok
 * `{{trigger.Name}}` è il nome della risorsa che ha attivato la campagna. Ad esempio: Collegamento clic sulla pagina web è l’URL stesso, oggetto per i trigger Salesforce, ecc.
 * Sono disponibili trigger aggiuntivi in base ai vincoli elencati di seguito.
 
-**Trigger e-mail**
+### Trigger e-mail {#email-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -205,7 +205,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili tok
  </tbody> 
 </table>
 
-**Trigger Salesforce**
+### Trigger Salesforce {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -534,7 +534,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili tok
  </tbody> 
 </table>
 
-**Trigger Sales Connect**
+### Trigger Sales Connect {#sales-connect-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -711,7 +711,113 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili tok
  </tbody> 
 </table>
 
-**Varie**
+### Token di attivazione Dynamic Chat {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Coinvolto con una finestra di dialogo</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Riunione pianificata in una finestra di dialogo</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Obiettivo finestra di dialogo raggiunto</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interazione con il documento nella finestra di dialogo</td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+   <td><img src="assets/check.png" alt="spunta"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+### Varie {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
