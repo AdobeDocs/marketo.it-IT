@@ -3,9 +3,9 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
 
 ## Utenti e ruoli {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Area</th> 
@@ -33,22 +33,22 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr> 
   <tr> 
    <td>Utenti</td> 
-   <td><li>Quanti utenti ci sono?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Quanti utenti</a> ci sono?</li>
 <li>Ci sono utenti che dovrebbero essere scaduti?</li>
 <li>La tua azienda applica delle policy sull’eliminazione degli utenti?</li> 
-<li>Quanti utenti dispongono di autorizzazioni di amministratore?</li>
-<li>Uno di questi utenti deve essere cambiato in altri ruoli?</li> 
+<li>Quanti utenti hanno <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Autorizzazioni amministratore</a>?</li>
+<li>Se uno di questi utenti deve essere modificato in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">altri ruoli?</a></li> 
 <li>Chi sono gli utenti API in questa istanza?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Ruoli</td> 
    <td><li>Quanti ruoli ci sono?</li>  
-<li>Quali sono le autorizzazioni/l'accesso di ogni ruolo? Qualcosa dovrebbe essere regolato?</li>
+<li>Cosa <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">autorizzazioni/accesso</a> ciascun ruolo dispone di? Qualcosa dovrebbe essere regolato?</li>
 <li>Quanti utenti ci sono per ruolo?</li>
-<li>Con quale frequenza gli utenti effettuano l’accesso?</li>
-<li>Ogni utente API ha il proprio ruolo utente? In caso contrario, è consigliabile implementarlo per semplificare la risoluzione dei problemi.</li> 
-<li>I ruoli utente e le autorizzazioni sono in linea con le politiche sulla privacy dei dati aziendali?</li></td>
+<li>Con quale frequenza gli utenti <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">accesso</a>?</li>
+<li>Ogni utente API ha il proprio <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">ruolo utente proprio</a>? In caso contrario, è consigliabile implementarlo per semplificare la risoluzione dei problemi.</li> 
+<li>I ruoli utente e le autorizzazioni sono allineati ai dati aziendali <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">informativa sulla privacy</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr>
   <tr> 
    <td>Sandbox (se applicabile)</td> 
-   <td><li>Hai un’istanza sandbox? In tal caso, controlla le categorie precedenti per la sandbox.</li>
-<li>Il programma di importazione è collegato alla sandbox?</li></td>
+   <td><li>Hai un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">istanza sandbox</a>? In tal caso, controlla le categorie precedenti per la sandbox.</li>
+<li>È <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importazione programma</a> collegato alla sandbox?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr> 
   <tr> 
    <td>Audit Trail</td> 
-   <td><li>Chi lavora nell’istanza?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Chi sta lavorando</a> nell'istanza?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
 <li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">aggiornato all’ultima versione di Sales Insight</a>?</li>
 <li>Hai completato la configurazione di Sales Insight? Utenti Enterprise/Unlimited <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">fai clic qui</a>, utenti professionali <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">fai clic qui</a>.</li>
 <li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">accesso dato ai tuoi utenti</a> in base al numero di posti che hai acquistato?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Launchpoint (se applicabile)</td> 
+   <td><li>Quali servizi hai configurato (webinar, pubblicità, ecc.)? Qualcuno è vicino alla loro scadenza?</li>
+<li>Quante chiamate API utilizzano le integrazioni?</li>
+<li>Hai le integrazioni corrette per i tuoi casi d’uso?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhook (se applicabile)</td> 
+   <td><li>Quali connessioni hai configurato?</li>
+<li>Non sono più in uso?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>App mobili (se applicabile)</td> 
+   <td><li>Quali app per dispositivi mobili hai?</li>
+<li>Quali dispositivi di test sono stati aggiunti?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
