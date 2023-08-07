@@ -3,9 +3,9 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 3%
 
 ---
@@ -94,11 +94,11 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr> 
   <tr> 
    <td>Aree di lavoro e partizioni</td> 
-   <td><li>Quante aree di lavoro e/o partizioni hai?</li>
+   <td><li>Quanti <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">aree di lavoro e/o partizioni</a> l'hai fatto?</li>
 <li>Qual è lo scopo principale di ogni area di lavoro e partizione?</li>
-<li>Devono essere controllati o modificati?</li>
+<li>Effettua una delle seguenti operazioni <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Aree di lavoro</a> o <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partizioni</a> deve essere controllato/modificato?</li>
 <li>Qual è la relazione tra le aree di lavoro e le partizioni?</li>
-<li>Quanti utenti hanno accesso a ogni area di lavoro?</li></td>
+<li>Quanti utenti <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">avere accesso</a> in ogni area di lavoro?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr> 
   <tr> 
    <td>Impostazioni Smart Campaign</td> 
-   <td><li>Hai una restrizione sulla dimensione di Smart Campaign?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hai una restrizione?</a> sulle dimensioni di Smart Campaign?</li>
 <li>In caso contrario, puoi aggiungerne uno. È consigliabile limitare i limiti delle campagne intelligenti al 25% del database, per evitare comunicazioni eccessive o l’elaborazione dell’intero database nei flussi di lavoro. In questo modo non solo si protegge il marchio, ma si proteggono anche le prestazioni dell’istanza.</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr> 
   <tr> 
    <td>Limiti di comunicazione</td> 
-   <td><li>Ci sono dei limiti? La tua azienda dispone di criteri in cui potrebbero essere necessari limiti di comunicazione?</li>
-<li>L’Adobe consiglia di limitare le comunicazioni a 1 al giorno e a 3 ogni 7 giorni, con le e-mail non operative bloccate.</li></td>
+   <td><li>Ci sono <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limiti di comunicazione</a> sul posto? La tua azienda dispone di criteri in cui potrebbero essere necessari limiti di comunicazione?</li>
+<li>L’Adobe consiglia di limitare la comunicazione a 1 al giorno e a 3 ogni 7 giorni, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operative</a> e-mail bloccate.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr>
   <tr> 
    <td>Canali</td> 
-   <td><li>Quanti canali ci sono? Quanti ne vengono utilizzati?</li>
-<li>Tutti gli stati dei programmi di canale sono appropriati? Mostrano la progressione all'interno del programma?</li>
+   <td><li>Quanti <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">canali</a> ci sono? Quanti ne vengono utilizzati?</li>
+<li>Sono tutti <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">stati dei programmi canale appropriati</a>? Mostrano la progressione all'interno del programma?</li>
 <li>I canali sono correlati a tipi di programmi specifici?</li>
 <li>Quali stati sono considerati di successo per ogni canale? Sono in linea con i tuoi obiettivi di marketing?</li>
 <li>Il canale operativo viene utilizzato in modo appropriato?</li>
