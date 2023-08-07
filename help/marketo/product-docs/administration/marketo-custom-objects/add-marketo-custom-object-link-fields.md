@@ -4,9 +4,9 @@ description: Aggiungere campi di collegamento oggetti personalizzati di Marketo 
 title: Aggiungi campi collegamento oggetto personalizzato Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Quando si creano oggetti personalizzati, è necessario fornire campi di collegam
 
 * Per una struttura personalizzata uno-a-molti, utilizza il campo collegamento nell’oggetto personalizzato per connetterlo a una persona o a un’azienda.
 * Per una struttura molti-a-molti, si utilizzano due campi di collegamento, connessi da un oggetto intermedio creato separatamente (che è anche un tipo di oggetto personalizzato). Un collegamento si connette a persone o società nel database e l&#39;altro all&#39;oggetto personalizzato. In questo caso, il campo del collegamento non si trova nell’oggetto personalizzato stesso.
+
+>[!IMPORTANT]
+>
+>Il Marketo Engage supporta un solo oggetto edge per ogni oggetto bridge nella relazione Many to Many (Da molti a molti). Nell’esempio fornito di seguito, ogni iscrizione può essere collegata solo a un singolo corso. Tuttavia, possono esserci molti oggetti ponte per ogni oggetto perimetrale, così come ci sono molte iscrizioni degli studenti a ogni corso (relazione molti-a-uno). Se i dati oggetto personalizzati sono strutturati in modo che esistano più record oggetto Edge per ogni record oggetto Bridge (uno-a-molti o molti-a-molti), è possibile creare più record oggetto Bridge che fanno riferimento a ogni singolo record oggetto Edge per rappresentare tali dati in Marketo.
 
 ## Creare un campo collegamento per una struttura uno-a-molti {#create-a-link-field-for-a-one-to-many-structure}
 
