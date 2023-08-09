@@ -3,10 +3,10 @@ description: Eredita documento 2 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 48%
+source-wordcount: '295'
+ht-degree: 8%
 
 ---
 
@@ -18,272 +18,116 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
 >
 >Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario di Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Utenti e ruoli {#users-and-roles}
+## Elenchi smart di sistema {#system-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
+   <th>Area</th> 
+   <th>Rivedi focus</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Tutte le persone</td> 
+   <td><li>Quante persone esistono nel database?</li>
+<li>Se il database è quasi pieno, i criteri aziendali consigliano di espandere le dimensioni del database o di eliminare i dati storici?</li>
+<li>Il database complessivo è commerciabile almeno all'85%? Se il tuo rientra in questa soglia, controlla con maggiore attenzione gli altri elenchi avanzati del sistema (Inserisco nell'elenco Bloccati di marketing sospeso, duplicati, annullamento dell’iscrizione).</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Persone non abbonate</td> 
+   <td><li>Quali sono i criteri per le persone non abbonate? Ci sono troppe persone non iscritte?</li>
+<li>I metodi di annullamento dell’abbonamento sono in linea con i requisiti sulla privacy dei dati?</li>
+<li>La tua preferenza per annullare l’abbonamento è aggiornata? Per quanto tempo i record sono rimasti nel database come non commerciabili?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>Marketing sospeso</td> 
+   <td><li>Quali sono i criteri per la sospensione del marketing? Ci sono troppe persone che sono sospese per il marketing?</li>
+<li>Per quanto tempo i record sono rimasti nello stato di sospensione del marketing?</li>
+<p>Esempio di caso d’uso di marketing sospeso: record che sono attivamente coinvolti con le vendite in opportunità in fase avanzata per le quali desideri eliminare le comunicazioni di marketing.</td>
+  </tr>
+   <tr> 
+   <td>INSERISCO NELL'ELENCO BLOCCATI DI</td> 
+   <td><li>Quali sono i criteri per l’Inserisco nell'elenco Bloccati di? Inserire nell'elenco Bloccati Ci sono troppe persone che sono?</li></td>
+  </tr>
+  <tr> 
+   <td>Indirizzi e-mail non recapitati</td> 
+   <td><li>Testo</li></td>
+  </tr>
+  <tr> 
+   <td>Possibili duplicati</td> 
+   <td><li>Quanti record potenzialmente duplicati sono presenti? Provare a eliminarle o unirle.</li></td>
+  </tr>
+   <tr> 
+   <td>Nessun programma di acquisizione</td> 
+   <td><li>Quante persone non hanno un programma di acquisizione? Se ci sono molte cose, puoi indagare il perché.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Audit Trail {#audit-trail}
+## Raggruppa elenchi avanzati {#group-smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
+   <th>Area</th> 
+   <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Aree di lavoro e partizioni {#workspaces-and-partitions}
+## Elenchi di gruppi {#group-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
+   <th>Area</th> 
+   <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
 
-## Campagne avanzate {#smart-campaigns}
+## Segmentazioni {#segmentations}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
+   <th>Area</th> 
+   <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>1</td> 
    <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Limiti di comunicazione {#communication-limits}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Tag {#tags}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Gestione database {#database-management}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Integrazioni {#integrations}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Treasure Chest {#treasure-chest}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## Varie {#miscellaneous}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Colonna 1</th> 
-   <th>Colonna 2</th>
-   <th>Colonna 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
   </tr>
  </tbody> 
 </table>
