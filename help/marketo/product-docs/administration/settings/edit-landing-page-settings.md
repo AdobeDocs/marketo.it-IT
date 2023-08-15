@@ -4,9 +4,9 @@ description: Modifica impostazioni pagina di destinazione - Documentazione di Ma
 title: Modifica impostazioni pagina di destinazione
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '231'
 ht-degree: 1%
 
 ---
@@ -45,18 +45,14 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Se vuoi evitare che un sito dannoso ospiti apparentemente il tuo contenuto, controlla **[!UICONTROL Non consentire l’incorporamento di pagine Marketo in pagine web esterne]** casella di controllo.
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
-   >Se si desidera la precompilazione `<script>` da visualizzare alla fine del `<head>` nel codice, controlla **[!UICONTROL Inserisci script di preriempimento alla fine dell’intestazione]** casella. Lascia deselezionata questa opzione per visualizzarla all’inizio.
+   >Se desideri la precompilazione `<script>` da visualizzare alla fine del `<head>` nel codice, controlla **[!UICONTROL Inserisci script di preriempimento alla fine dell’intestazione]** casella. Lascia deselezionata questa opzione per visualizzarla all’inizio.
    >
    >Verifica **[!UICONTROL Rimuovi collegamenti favicon predefiniti]** per impedire a Marketo di inserire collegamenti favicon nel codice.
 
 1. Dopo aver effettuato le selezioni, fai clic su **[!UICONTROL Salva]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    Ottimo lavoro! Le pagine di destinazione ora dispongono delle informazioni corrette e dovrebbero iniziare a funzionare immediatamente.
