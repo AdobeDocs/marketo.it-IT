@@ -3,9 +3,9 @@ description: Eredita documento 2 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 1%
 
 ---
@@ -40,13 +40,13 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Marketing sospeso</td> 
-   <td><li>Quali sono i criteri per la sospensione del marketing? Ci sono troppe persone che sono sospese per il marketing?</li>
+   <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing sospeso</a>? Ci sono troppe persone che sono sospese per il marketing?</li>
 <li>Per quanto tempo i record sono rimasti nello stato di sospensione del marketing?</li>
 <p>Esempio di caso d’uso di marketing sospeso: record che sono attivamente coinvolti con le vendite in opportunità in fase avanzata per le quali desideri eliminare le comunicazioni di marketing.</td>
   </tr>
    <tr> 
    <td>INSERISCO NELL'ELENCO BLOCCATI DI</td> 
-   <td><li>Quali sono i criteri per l’Inserisco nell'elenco Bloccati di? Inserire nell'elenco Bloccati Ci sono troppe persone che sono?</li></td>
+   <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">record in inserita nell'elenco Bloccati</a>? Inserire nell'elenco Bloccati Ci sono troppe persone che sono?</li></td>
   </tr>
   <tr> 
    <td>Indirizzi e-mail non recapitati</td> 
@@ -54,11 +54,11 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Possibili duplicati</td> 
-   <td><li>Quanti record potenzialmente duplicati sono presenti? Provare a eliminarle o unirle.</li></td>
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">record potenzialmente duplicati</a> ci sono? Provare a eliminarle o unirle.</li></td>
   </tr>
    <tr> 
    <td>Nessun programma di acquisizione</td> 
-   <td><li>Quante persone non hanno un programma di acquisizione? Se ci sono molte cose, puoi indagare il perché.</li></td>
+   <td><li>Quante persone non hanno un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programma di acquisizione</a>? Se ci sono molte cose, puoi indagare il perché.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
    <td>Raggruppa elenchi avanzati</td> 
    <td><li>Quali sono gli elenchi smart di gruppo disponibili? Come vengono utilizzati in questa istanza?</li>
 <li>Gli elenchi sono organizzati in una struttura di cartelle coesa? Se disponi di elenchi orfani, puoi organizzare la struttura in modo che le risorse siano facili da trovare.</li>
-<p>Suggerimento: archivia gli elenchi avanzati dei gruppi che non sono più necessari per l’esecuzione di query, la generazione di rapporti o riferimenti per semplificare l’organizzazione e le prestazioni.</td>
+<p>Suggerimento <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivia</a> elenchi avanzati di gruppo non più necessari per l'esecuzione di query, la generazione di rapporti o riferimenti per semplificare l'organizzazione e le prestazioni.</td>
   </tr>
  </tbody> 
 </table>
