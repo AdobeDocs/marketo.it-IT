@@ -3,10 +3,10 @@ description: Panoramica - Documentazione di Marketo - Documentazione del prodott
 title: Panoramica
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 1%
+source-wordcount: '434'
+ht-degree: 2%
 
 ---
 
@@ -21,14 +21,6 @@ Benvenuti in Adobe Marketo Engage Modern UX (user experience), un’interfaccia 
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## Presentazione generale {#take-the-tour}
-
-Al primo accesso, verrà visualizzato un pop-up pronto per fornire il sommario della nuova esperienza. All&#39;inizio, se scegli di saltarlo, **non** sarà disponibile in un secondo momento.
-
-![](assets/overview-1.png)
-
-Il tour ti guida attraverso tutto ciò che devi sapere!
 
 ## Novità {#whats-new}
 
