@@ -3,9 +3,9 @@ description: Eredita documento 4 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '419'
 ht-degree: 2%
 
 ---
@@ -28,12 +28,11 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Pagine di destinazione globali</td> 
-   <td><li>Quante pagine di destinazione globali sono disponibili? Vengono utilizzati dai programmi?</li>
-<li>Se applicabile, esiste una pagina di destinazione del centro abbonamenti tramite Marketo?</li></td>
+   <td><li>Quanti globali <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Pagine di destinazione</a> ci sono? Vengono utilizzati dai programmi?</li></td>
   </tr>
   <tr> 
    <td>Modelli</td> 
-   <td><li>Quanti modelli di pagina di destinazione sono presenti? Vengono sfruttati?</li></td>
+   <td><li>Quanti <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Modelli di pagina di destinazione</a> ci sono? Vengono sfruttati?</li></td>
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 
@@ -52,7 +51,7 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Forms globale</td> 
-   <td><li>Quanti moduli globali sono presenti?</li>
+   <td><li>Quanti globali <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">moduli</a> ci sono?</li>
 <li>La maggior parte dei programmi utilizza moduli globali o locali?</li>
 <li>Tutti i moduli raccolgono i dati giusti per il marketing e le vendite?</li>
 <li>I valori nascosti vengono utilizzati in modo appropriato?</li>
@@ -60,12 +59,12 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Standardizzazione dati</td> 
-   <td><li>I campi modulo sono principalmente elenchi a discesa o campi di testo aperti?</li>
-<li>Se si tratta di campi di testo aperti, è consigliabile passare agli elenchi di selezione per evitare problemi di dati.</li></td>
+   <td><li>Sono <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">campi modulo</a> principalmente elenchi a discesa o campi di testo aperti?</li>
+<p>Suggerimento: se si tratta di campi di testo aperti, è consigliabile passare a elenchi di selezione per evitare problemi di dati.</td>
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 
-   <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in? Prendi in considerazione il Regolamento generale sulla protezione dei dati (RGPD), il CASL (Canada's Anti-Spam Law), il Controllo dell'aggressione della pornografia non sollecitata e il Marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc. per la conformità alle normative.</li>
+   <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in? Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>, il CASL (Legge canadese anti-spam), il Controllo dell'aggressione alla pornografia non richiesta e il marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc. per la conformità alle normative.</li>
 <p>Suggerimento: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody> 
@@ -81,11 +80,11 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>E-mail globali</td> 
-   <td><li>Quante e-mail globali ci sono? Vengono utilizzati dai programmi?</li></td>
+   <td><li>Quanti globali <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md" target="_blank">email</a> ci sono? Vengono utilizzati dai programmi?</li></td>
   </tr>
   <tr> 
    <td>Modelli</td> 
-   <td><li>Quanti modelli di e-mail sono disponibili? Vengono sfruttati?</li></td>
+   <td><li>Quanti <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">modelli e-mail</a> ci sono? Vengono sfruttati?</li></td>
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 
@@ -105,7 +104,7 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Snippet</td> 
-   <td><li>Quanti snippet ci sono? Vengono utilizzati? In caso contrario, è consigliabile utilizzarli per il contenuto dei piè di pagina delle e-mail e delle pagine di destinazione, per i logo e per altro ancora.</li></td>
+   <td><li>Quanti <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippet</a> ci sono? Vengono utilizzati? In caso contrario, è consigliabile utilizzarli per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">pagina di destinazione</a> contenuto del piè di pagina, logo e altro ancora.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,15 +119,15 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Convenzioni di denominazione</td> 
-   <td><li>Le immagini e i file hanno convenzioni di denominazione coerenti?</li></td>
+   <td><li>Esegui <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">immagini e file</a> hai convenzioni di denominazione coerenti?</li></td>
   </tr>
   <tr> 
    <td>Struttura delle cartelle</td> 
-   <td><li>Le immagini e i file sono organizzati in modo appropriato e sono facili da cercare?</li></td>
+   <td><li>Immagini e file <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organizzato in modo appropriato</a> e facili da cercare?</li></td>
   </tr>
   <tr> 
    <td>Immagini e file</td> 
-   <td><li>È necessario aggiornare le immagini o i file a cui si fa riferimento nelle pagine web? 
+   <td><li>Eseguire qualsiasi immagine o file <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">a cui si fa riferimento nelle pagine web</a> devono essere aggiornati? 
    <p>Esempio: potrebbe essere necessario aggiornare la struttura URL hardcoded, ad esempio <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Collabora con il tuo sviluppatore web per determinare dove è necessario apportare aggiornamenti.</li></td>
   </tr>

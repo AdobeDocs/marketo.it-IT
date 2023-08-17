@@ -3,9 +3,9 @@ description: Eredita documento 3 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Programmi</td> 
-   <td><li>Esiste un centro di eccellenza con modelli di programma? In caso affermativo, i modelli di programma sono adatti ai casi d’uso dei team?</li>
+   <td><li>KG - È ANCORA RILEVANTE È <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Centro di eccellenza</a> con i modelli di programma? In caso affermativo, i modelli di programma sono adatti ai casi d’uso dei team?</li>
 <li>Sono tipi di programma simili <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">strutturato in modo coerente</a>?</li>
 <li>Sono <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">costi periodo</a> mettere in atto?</li>
 <li>Sono tutti programmi <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sincronizzato in campagne SFDC</a> (se applicabile)?</li>
@@ -44,19 +44,19 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Archivia</td> 
-   <td><li>I programmi meno recenti sono archiviati? La best practice prevede una revisione ogni anno.</li>
+   <td><li>Sono programmi meno recenti <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archiviato</a>? La best practice prevede una revisione ogni anno.</li>
 <li>Con quale frequenza l'azienda controlla e archivia i vecchi programmi?</li></td>
   </tr>
   <tr> 
    <td>Notifiche</td> 
-   <td><li>Nella scheda Notifiche nella parte superiore dell’istanza sono presenti errori della campagna?</li>
-<li>Sei abbonato alle notifiche per rimanere al corrente di eventuali errori che potrebbero verificarsi in futuro?</li></td>
+   <td><li>Ci sono errori di campagna in <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">Scheda Notifiche</a> nella parte superiore della tua istanza?</li>
+<li>Sei tu? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">ha effettuato l’abbonamento a notifiche</a> per rimanere al passo con eventuali errori che potrebbero verificarsi in futuro?</li></td>
   </tr>
   <tr> 
    <td>Sottoscrizioni a elenchi avanzati 
    <br/>(Scheda Attività di marketing/Iscrizioni)</td> 
-   <td><li>Nella tua istanza sono presenti sottoscrizioni a elenchi avanzati in corso? Se sì, a chi si rivolgono?</li>
-<li>È consigliabile impostare sottoscrizioni a elenchi avanzati per passare a un alias del team anziché a un singolo utente. Questo ti copre nel caso in cui gli individui sono in vacanza o in congedo.</li></td>
+   <td><li>Sono in corso <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Sottoscrizioni a elenchi avanzati</a> nella tua istanza? Se sì, a chi si rivolgono?</li>
+<p>Suggerimento: è consigliabile impostare sottoscrizioni a elenchi avanzati per passare a un alias del team anziché a un singolo utente. Questo ti copre nel caso in cui gli individui sono in vacanza o in congedo.</td>
   </tr>
  </tbody> 
 </table>
@@ -71,40 +71,40 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Token</td> 
-   <td><li>I token vengono utilizzati in tipi di programma utilizzati regolarmente? In caso contrario, dovresti considerare la possibilità di utilizzarli per aumentare l’efficienza.</li>
+   <td><li>I token vengono utilizzati in tipi di programma utilizzati regolarmente? KG - DOPPIO CONTROLLO SIGNIFICATO In caso contrario, è consigliabile utilizzarli per aumentare l'efficienza.</li>
 <li>Se i token sono implementati, esistono token di cartelle globali? Come vengono utilizzati?</li></td>
   </tr>
   <tr> 
    <td>Programmi di coinvolgimento</td> 
-   <td><li>Ci sono programmi di educazione in diretta in esecuzione?</li>
-<li>Quante persone sono esauste? Se sono presenti molte persone esauste, puoi aggiungere contenuti.</li>
-<li>Le persone sono impegnate con il contenuto educativo? In caso contrario, puoi aggiornare il contenuto e/o eseguire test A/B.</li>
-<li>Quante persone fanno parte di più programmi di coinvolgimento? Dovrebbero essere in più?</li></td>
+   <td><li>Ci sono live <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programmi di coinvolgimento</a> in esecuzione?</li>
+<li>Quanti <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">le persone sono esauste</a>? Se sono presenti molte persone esauste, puoi aggiungere contenuti.</li>
+<li>Le persone sono coinvolte con i contenuti? In caso contrario, è consigliabile aggiornarlo e/o eseguire test A/B.</li>
+<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Quante persone</a> KG - È POSSIBILE VISUALIZZARE TUTTI I PROGRAMMI CONTEMPORANEAMENTE? NON LA PENSI COSÌ, MA ASSICURATI di essere incluso in più di un programma di coinvolgimento? Dovrebbero essere in più?</li></td>
   </tr>
   <tr> 
    <td>Campagne batch</td> 
-   <td><li>Quante campagne batch ricorrenti sono presenti?</li>
+   <td><li>Quante ricorrenti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign" target="_blank">Campagne batch</a> ci sono?</li>
 <li>Deve essere disattivato/archiviato qualcuno di questi?</li></td>
   </tr>
    <tr> 
    <td>Attivare campagne</td> 
-   <td><li>Quante campagne trigger ci sono?</li>
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-campaign" target="_blank">Attivare campagne</a> ci sono?</li>
 <li>Deve essere disattivato/archiviato qualcuno di questi?</li>
 <li>È necessario cambiare alcune campagne Trigger in campagne batch per migliorare l’efficienza di elaborazione?</li></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Forms locale</td> 
-   <td><li>Quanti programmi hanno moduli locali? Questi moduli devono essere trasformati in moduli globali?</li>
+   <td><li>Quanti programmi hanno locali <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">moduli</a>? Questi moduli devono essere trasformati in moduli globali?</li>
 <li>Acquisiscono dati appropriati per i team di marketing e vendita?</li>
 <p>Suggerimento: limitare il numero di moduli locali per semplificare l’aggiornamento e l’allineamento alle modifiche in base alla privacy dei dati, alle policy di consenso/rinuncia? Durante la creazione di un modulo, è opportuno considerare quali domande è necessario porre, se le informazioni raccolte non cambiano e se le funzionalità avanzate del modulo non cambiano, ad esempio un modulo globale anziché locale.</td>
   </tr>
   <tr> 
    <td>Forms globale</td> 
-   <td><li>Dove si utilizzano i moduli globali? (Pagine di destinazione Marketo e pagine di destinazione non Marketo)</li>
-<li>Come indirizzare gli utenti a una pagina di ringraziamento nei moduli globali? (tramite campo modulo nascosto o all’interno del modello di pagina del CMS)</li>
+   <td><li>Dove utilizzi <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">moduli globali</a>? (Pagine di destinazione Marketo e pagine di destinazione non Marketo)</li>
+<li>In che modo i moduli globali indirizzano gli utenti a un <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">pagina di ringraziamento</a>? (tramite campo modulo nascosto o all’interno del modello di pagina del CMS)</li>
 <li>È consigliabile aggiungere o rimuovere campi modulo?</li>
 <li>È necessario modificare i valori dell’elenco a discesa?</li>
-<li>È necessario prendere in considerazione la profilatura progressiva?</li>
+<li>È necessario considerare <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">profilatura progressiva</a>?</li>
 <li>Sono inclusi tutti i campi obbligatori per le esigenze di sincronizzazione e marketing del sistema CRM?</li>
 <li>I moduli globali tengono conto dei requisiti legali e di privacy dei dati per la strategia e la gestione del consenso?</li></td>
   </tr>
@@ -121,25 +121,25 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Punteggio della persona</td> 
-   <td><li>È attivo un programma centralizzato per il punteggio delle persone?</li>
+   <td><li>Avete un sistema <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">punteggio della persona</a> programma attivo?</li>
 <li>Il punteggio della persona aumenta e diminuisce il punteggio?</li></td>
   </tr>
   <tr> 
    <td>Origine persona</td> 
    <td><li>Si dispone di un programma centralizzato che assegna valori ai campi di origine della persona?</li>
-<p>Nota: il Marketo Engage raccoglie automaticamente i dati in un campo Origine indipendentemente dai programmi operativi</td>
+<p>Nota: il Marketo Engage raccoglie automaticamente i dati in un campo Origine indipendentemente dai programmi operativi.</td>
   </tr>
   <tr> 
    <td>Standardizzazione dati</td> 
-   <td><li>È disponibile un programma centralizzato per la standardizzazione dei dati in arrivo?</li></td>
+   <td><li>È disponibile un programma centralizzato per la standardizzazione dei dati in arrivo? KG - CONTROLLA DUE VOLTE</li></td>
   </tr>
   <tr> 
    <td>Gestione delle e-mail non consegnate</td> 
-   <td><li>Avete un programma centralizzato per gestire le persone che non raggiungono l'obiettivo?</li></td>
+   <td><li>Hai un programma centralizzato con cui gestire <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">persone che non raggiungono</a>? KG - QUESTO ARTICOLO DEL 2017 È ANCORA PERTINENTE?</li></td>
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 
-   <td><li>Hai programmi per assicurarti di rispettare le leggi sulla privacy dei dati e sulla posta indesiderata? Prendi in considerazione RGPD, CASL, CAN-SPAM, CCPA, ecc.</li>
+   <td><li>Hai programmi per assicurarti di rispettare le leggi sulla privacy dei dati e sulla posta indesiderata? Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, ecc.</li>
 <p>Suggerimento: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
   <tr> 
@@ -149,17 +149,17 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Recapito e-mail</td> 
-   <td><li>Recupera un rapporto sulle prestazioni delle e-mail per gli invii negli ultimi mesi. Come si presenta il recapito messaggi e-mail?</li>
-<li>Se il recapito dei messaggi e-mail è scarso, è consigliabile esaminare e implementare le best practice per il recapito dei messaggi e-mail, come SPF e DKIM.</li>
+   <td><li>Estrarre un <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapporto prestazioni e-mail</a> per gli invii negli ultimi mesi. Come si presenta il recapito messaggi e-mail?</li>
+<li>Se il recapito messaggi e-mail è scarso, è consigliabile esaminare e implementare le best practice per il recapito messaggi e-mail, ad esempio <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF e DKIM</a>.</li>
 <li>Stai raggiungendo il tuo pubblico completo commerciabile?</li></td>
   </tr>
   <tr> 
    <td>Centro sottoscrizioni/preferenze</td> 
-   <td><li>È stato configurato un Centro sottoscrizioni/preferenze? Funziona come dovrebbe?</li></td>
+   <td><li>Hai un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centro sottoscrizioni/preferenze</a> configurarlo? Funziona come dovrebbe?</li></td>
   </tr>
   <tr> 
    <td>Momenti di interesse (se applicabile)</td> 
-   <td><li>Hai un programma o dei passaggi di flusso nei programmi per inviare in modo appropriato i Momenti di interesse a Salesforce?</li></td>
+   <td><li>Si dispone di un programma o di passaggi di flusso nei programmi da inviare <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md" target="_blank">Momenti di interesse</a> a Salesforce in modo appropriato?</li></td>
   </tr>
  </tbody> 
 </table>
