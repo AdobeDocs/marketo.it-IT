@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 0%
@@ -403,7 +403,7 @@ ht-degree: 0%
             + [Utilizzo dei costi del periodo in un programma](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Libreria programmi {#program-library}
             + [Panoramica della libreria di importazione del programma](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Esempio di programma di gestione dei contenuti](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [Esempio di programma di gestione del consenso](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + Rapporto prestazioni programma {#program-performance-report}
             + [Creare un rapporto sulle prestazioni del programma](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Aggiunta di colonne di stato del programma a un report del programma](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -412,7 +412,7 @@ ht-degree: 0%
             + [Filtrare un rapporto di programma per tag](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
          + Vista Schedule {#program-schedule-view}
             + [Crea tipi di voce personalizzati](product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)
-            + [Creazione di una campagna batch intelligente nella vista Pianificazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)
+            + [Creazione di una campagna batch intelligente nella vista Programmazione del programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md)
             + [Creazione di un nuovo programma e-mail nella vista Pianificazione](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)
             + [Creazione di una voce nella vista Programmazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
             + [Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma](product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
@@ -660,9 +660,9 @@ ht-degree: 0%
             + [Creare un evento con una riunione Web di livello 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Creare un evento con WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Creare un evento con zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
-            + Creazione di un evento con l&#39;adattatore Marketo ON24 {#create-an-event-with-the-marketo-on24-adapter}
+            + Creazione di un evento con la scheda Marketo ON24 {#create-an-event-with-the-marketo-on24-adapter}
                + [Configurare l&#39;integrazione ON24 con Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
-               + [Creazione di un evento con l&#39;adattatore Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+               + [Creazione di un evento con la scheda Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Configurare le impostazioni degli eventi e sincronizzare Marketo con il webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Creare un evento in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [Creare campagne secondarie e risorse locali](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)

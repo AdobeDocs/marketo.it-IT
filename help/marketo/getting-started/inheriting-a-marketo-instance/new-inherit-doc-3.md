@@ -3,9 +3,9 @@ description: Eredita documento 3 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Token</td> 
-   <td><li>I token vengono utilizzati in tipi di programma utilizzati regolarmente? KG - DOPPIO CONTROLLO SIGNIFICATO In caso contrario, è consigliabile utilizzarli per aumentare l'efficienza.</li>
+   <td><li>I token vengono utilizzati nei tipi di programma più comunemente utilizzati? In caso contrario, dovresti considerare la possibilità di utilizzarli per aumentare l’efficienza.</li>
 <li>Se i token sono implementati, esistono token di cartelle globali? Come vengono utilizzati?</li></td>
   </tr>
   <tr> 
