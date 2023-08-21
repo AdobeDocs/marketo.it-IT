@@ -3,7 +3,7 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 1%
@@ -55,7 +55,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr>
   <tr> 
    <td>Sandbox (se applicabile)</td> 
-   <td><li>Hai un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">istanza sandbox</a>? 
+   <td><li>Hai un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">istanza sandbox</a>?
    <br/>In tal caso, controlla le categorie precedenti per la sandbox.</li>
 <li>È <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importazione programma</a> collegato alla sandbox?</li></td>
   </tr>
@@ -187,8 +187,8 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr>
   <tr> 
    <td>Attività personalizzate</td> 
-   <td><li>Ci sono <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">attività personalizzate</a>?</li>
-<br/>In tal caso, fai clic su di essi per capire quali attività non sono correlate a un modulo di Marketo, a un’e-mail o a una pagina di destinazione.</td>
+   <td><li>Ci sono <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">attività personalizzate</a>?
+<br/>In tal caso, fai clic su di essi per capire quali attività non sono correlate a un modulo di Marketo, a un’e-mail o a una pagina di destinazione.</li></td>
   </tr>
   <tr> 
    <td>Oggetti personalizzati</td> 
@@ -280,8 +280,8 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr>
   <tr> 
    <td>Ispettore campagna</td> 
-   <td><li>È <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Ispettore campagna</a> acceso?</li>
-<br/>In caso contrario, puoi attivarlo per identificare facilmente quali campagne sono: attive, in sincronizzazione con il tuo sistema di gestione delle relazioni con i clienti e/o eliminando record.</td>
+   <td><li>È <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Ispettore campagna</a> acceso?
+<br/>In caso contrario, puoi attivarlo per identificare facilmente quali campagne sono: attive, in sincronizzazione con il tuo sistema di gestione delle relazioni con i clienti e/o eliminando record.</li></td>
   </tr>
  </tbody> 
 </table>

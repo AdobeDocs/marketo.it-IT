@@ -3,7 +3,7 @@ description: Eredita documento 4 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 2%
@@ -64,7 +64,8 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 
-   <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in? Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>, il CASL (Legge canadese anti-spam), il Controllo dell'aggressione alla pornografia non richiesta e il marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc. per la conformità alle normative.</li>
+   <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in? 
+   <br/>Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>, il CASL (Legge canadese anti-spam), il Controlling the Assault of Non-Solicited Pornography and Marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
 <p>Suggerimento: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr> 
   <tr> 
    <td>Snippet</td> 
-   <td><li>Quanti <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippet</a> ci sono? Vengono utilizzati? In caso contrario, è consigliabile utilizzarli per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">pagina di destinazione</a> contenuto del piè di pagina, logo e altro ancora.</li></td>
+   <td><li>Quanti <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippet</a> ci sono? Vengono utilizzati? 
+   <br/>In caso contrario, è consigliabile utilizzarli per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Pagina di destinazione</a> contenuto del piè di pagina, logo e altro ancora.</li></td>
   </tr>
  </tbody> 
 </table>
