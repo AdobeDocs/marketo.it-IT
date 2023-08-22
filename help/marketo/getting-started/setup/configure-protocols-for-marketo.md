@@ -4,7 +4,7 @@ description: Configurare i protocolli per Marketo - Documentazione Marketo - Doc
 title: Configurazione dei protocolli per Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 3%
@@ -27,6 +27,7 @@ Se il tuo team IT limita l’accesso web utilizzando un inserisco nell&#39;elenc
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
+* `*.adobe.net`
 
 ## Passaggio 1: creare record DNS per le pagine di destinazione e l’e-mail {#step-create-dns-records-for-landing-pages-and-email}
 
