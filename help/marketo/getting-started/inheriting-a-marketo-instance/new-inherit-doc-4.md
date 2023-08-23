@@ -3,20 +3,16 @@ description: Eredita documento 4 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 2%
+source-wordcount: '506'
+ht-degree: 1%
 
 ---
 
 # Eredita documento 4 {#inherit-doc-4}
 
-Hai ereditato un’istanza di Marketo Engage esistente da un altro amministratore? Se è così, questo articolo è per te.
-
->[!TIP]
->
->Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario di Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+La struttura dei modelli e la creazione di moduli globali, snippet, immagini e file aiuteranno a ridurre al minimo gli errori di dati e a semplificare il flusso di lavoro della generazione del programma.
 
 ## Pagine di destinazione {#landing-pages}
 
@@ -35,6 +31,10 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
    <td><li>Quanti <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Modelli di pagina di destinazione</a> ci sono? Vengono sfruttati?</li></td>
   </tr>
   <tr> 
+   <td>Gruppi di test</td> 
+   <td><li>Quanti <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Gruppi di test della pagina di destinazione</a> lo sono? Sono ancora tutti rilevanti?</li></td>
+  </tr>
+   <tr> 
    <td>Privacy e conformità</td> 
    <td><li>Tutte le pagine di destinazione dispongono dei piè di pagina appropriati?</li></td>
   </tr>
@@ -88,6 +88,10 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
    <td><li>Quanti <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">modelli e-mail</a> ci sono? Vengono sfruttati?</li></td>
   </tr>
   <tr> 
+   <td>Test e-mail</td> 
+   <td><li>Come si utilizza <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">test e-mail</a>? Il vostro metodo è ancora efficace?</li></td>
+  </tr>
+  <tr> 
    <td>Privacy e conformità</td> 
    <td><li>Tutte le tue e-mail hanno i piè di pagina appropriati? Prendi in considerazione RGPD, CASL, CAN-SPAM, CCPA, ecc. per le implicazioni relative alla conformità.</li>
 <p>Suggerimento: ricorda di consultare sempre il tuo team legale per questioni di conformità. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
@@ -135,3 +139,30 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
  </tbody> 
 </table>
+
+## Tutte le risorse {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Area</th> 
+   <th>Rivedi focus</th>
+  </tr> 
+  <tr> 
+   <td>Stato risorsa</td> 
+   <td><li>Quante risorse contengono <i>Bozza</i> e <i>Approvato con bozza</i> stato?
+   <br/>Se ce ne sono molti, puoi eliminarli o approvarli.</li></td>
+  </tr>
+  <tr> 
+   <td>Condivisione di risorse</td> 
+   <td><li>Quali risorse sono <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">condiviso tra aree di lavoro</a>?</li>
+   <p>Nota: è importante saperlo, poiché le azioni eseguite in un’area di lavoro potrebbero causare l’inaccessibilità di una risorsa in un’area di lavoro diversa per un altro utente.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄ audit di un’istanza ereditata: attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Controllo di un’istanza ereditata: documenta il ► di configurazione dell’istanza ereditata](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
