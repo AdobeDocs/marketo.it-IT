@@ -2,9 +2,9 @@
 description: Scheda Mappa di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
 title: Scheda Mappa di coinvolgimento
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ Di seguito è riportato un esempio di campagna di richiesta con scelte.
 
 ## Gestione degli errori {#error-handling}
 
-Gli errori negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona di errore nella scheda. Inoltre, un messaggio di errore corrispondente verrà visualizzato nel pannello a tendina.
+Gli errori negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona rossa nella scheda. Inoltre, un messaggio di errore corrispondente verrà visualizzato nel pannello a tendina.
 
-Di seguito è riportato un esempio di errore in un trigger che viene visualizzato nella scheda panoramica trigger, nel pannello a tendina e nella scheda trigger di dettaglio.
+Gli avvisi presenti negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona arancione nella scheda. Inoltre, nel pannello a tendina viene visualizzato un messaggio di avvertenza corrispondente.
+
+Di seguito è riportato un esempio di avviso in una scheda Scelta che viene visualizzata nella scheda del passaggio Esegui campagna, nel pannello a tendina e nella scheda Scelta predefinita.
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Gli avvisi sono consigli da rivedere, ma non sono indicativi di errori in Smart Campaign.
 
 **Gli errori nelle schede dei filtri possono includere:**
 
