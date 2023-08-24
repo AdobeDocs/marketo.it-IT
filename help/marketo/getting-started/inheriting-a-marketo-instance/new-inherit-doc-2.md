@@ -3,20 +3,16 @@ description: Eredita documento 2 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 1%
 
 ---
 
 # Eredita documento 2 {#inherit-doc-2}
 
-Hai ereditato un’istanza di Marketo Engage esistente da un altro amministratore? Se è così, questo articolo è per te.
-
->[!TIP]
->
->Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario di Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Comprendi il numero totale di persone, persone commerciabili e principali sorgenti di acquisizione persone nel tuo abbonamento.
 
 ## Elenchi smart di sistema {#system-smart-lists}
 
@@ -116,3 +112,9 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ audit di un’istanza ereditata: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[Audit di un’istanza ereditata: ► delle attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

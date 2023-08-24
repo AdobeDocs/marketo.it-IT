@@ -3,16 +3,16 @@ description: Eredita documento 5 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 3%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # Eredita documento 5 {#inherit-doc-5}
 
-Testo
+Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita un’istanza stabilita, il passaggio successivo consiste nel creare o aggiornare la documentazione sulla configurazione dell’istanza e sullo stack tecnologico. La documentazione, sia che venga creata tramite foglio di calcolo o un’applicazione di gestione dei progetti, è un’ottima risorsa per tenere traccia dell’avanzamento e registrare i dettagli.
 
 ## Dati {#data}
 
@@ -51,7 +51,7 @@ Testo
   <tr> 
    <td>Organizzazione</td> 
     <td><li>Hai una solida documentazione su come è organizzata la tua istanza di Marketo Engage e perché?</li>
-   <p>Azione: creare la documentazione che contiene la struttura delle cartelle, la convenzione di denominazione e i canali/le statue KG - STATUTES? utilizzato nella tua istanza.</td>
+   <p>Azione: crea la documentazione che contiene la struttura delle cartelle, la convenzione di denominazione e i canali utilizzati nell’istanza.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ Testo
   </tr>
  </tbody> 
 </table>
+
+[◄ Controllo di un&#39;istanza ereditata: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

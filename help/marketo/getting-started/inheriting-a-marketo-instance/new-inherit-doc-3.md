@@ -3,20 +3,16 @@ description: Eredita documento 3 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
 
 # Eredita documento 3 {#inherit-doc-3}
 
-Hai ereditato un’istanza di Marketo Engage esistente da un altro amministratore? Se è così, questo articolo è per te.
-
->[!TIP]
->
->Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario di Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Nelle attività di marketing è possibile creare campagne avanzate, creare risorse creative (ad esempio e-mail e pagine di destinazione) e visualizzare le prestazioni delle risorse.
 
 ## Organizzazione {#organization}
 
@@ -45,9 +41,9 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
   <tr> 
    <td>Archivia</td> 
-   <td><li>Sono programmi meno recenti <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archiviato</a>? 
-   <br/>La best practice prevede una revisione ogni anno. KG - È VERO</li>
-<li>Con quale frequenza l'azienda controlla e archivia i vecchi programmi?</li></td>
+   <td><li>Sono programmi meno recenti <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archiviato</a>?</li>
+<li>Con quale frequenza l'azienda controlla e archivia i vecchi programmi?</li>
+<p>Suggerimento: è utile eseguire una revisione ogni anno.</td>
   </tr>
   <tr> 
    <td>Notifiche</td> 
@@ -83,8 +79,7 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
 <li>Quanti <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">le persone sono esauste</a>? 
 <br/>Se sono presenti molte persone esauste, puoi aggiungere contenuti.</li>
 <li>Le persone sono coinvolte con i contenuti? 
-<br/>In caso contrario, è consigliabile aggiornarlo e/o eseguire test A/B.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Quante persone</a> KG - È POSSIBILE VISUALIZZARE TUTTI I PROGRAMMI CONTEMPORANEAMENTE? NON LA PENSI COSÌ, MA ASSICURATI di essere incluso in più di un programma di coinvolgimento? Dovrebbero essere in più?</li></td>
+<br/>In caso contrario, è consigliabile aggiornarlo e/o eseguire test A/B.</li></td>
   </tr>
   <tr> 
    <td>Campagne batch</td> 
@@ -169,3 +164,9 @@ Hai ereditato un’istanza di Marketo Engage esistente da un altro amministrator
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ Audit di un&#39;istanza ereditata: database](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Controllo di un&#39;istanza ereditata: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

@@ -3,9 +3,9 @@ description: Scopri come ottimizzare e scalare un’istanza di Marketo Engage es
 title: Avvia un'istanza di Marketo Engage ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -55,5 +55,3 @@ Hai bisogno di ulteriore aiuto? Collegati a noi o ad altri utenti del Marketo En
 * Connettersi con gli altri utenti del Marketo Engage e imparare da essi in **[Nazione marketing](https://nation.marketo.com/){target="_blank"}**.
 
 * Per assistenza pratica su come ottenere il massimo dall’istanza del Marketo Engage, contatta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Per migliorare le tue abilità di Marketo Engage, sfoglia il **[Catalogo corsi Marketo Engage](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

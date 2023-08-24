@@ -3,9 +3,9 @@ description: Eseguire una campagna - Documentazione di Marketo - Documentazione 
 title: Esegui campagna
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ I risultati: punteggio cambiato di +10.
 
 **Esempio 2: False**
 
-Nel filtro Esegui campagna della seconda campagna principale, &quot;Usa contesto token campagna principale&quot; è impostato su **Falso**.
+Nel passaggio di flusso Esegui campagna della seconda campagna principale, &quot;Usa contesto token campagna principale&quot; è impostato su **Falso**.
 
 ![](assets/execute-campaign-8.png)
 

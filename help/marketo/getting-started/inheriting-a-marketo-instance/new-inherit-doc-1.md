@@ -3,20 +3,18 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 1%
 
 ---
 
 # Eredita documento 1 {#inherit-doc-1}
 
-Il controllo di un’istanza ereditata può sembrare un...
+In qualità di nuovo amministratore di Adobe Marketo Engage, dovrai eseguire diverse attività per verificare lo stato e la validità dell’istanza ereditata.
 
-Hai ereditato un’istanza di Marketo Engage esistente da un altro amministratore? Se è così, questo articolo è per voi...
-
-L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei campioni di Marketo per aiutarti a imparare rapidamente a usare l’istanza ereditata...
+Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state compilate insieme ai suggerimenti degli Champions Marketo per aiutarti a imparare a usare al meglio la tecnologia. Documenta l’avanzamento nell’elenco di controllo dell’istanza ereditata del Marketo Engage.
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   <tr> 
    <td>Impostazioni Smart Campaign</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hai una restrizione?</a> sulle dimensioni di Smart Campaign? 
-   <br/>In caso contrario, puoi aggiungerne uno. È consigliabile limitare i limiti della campagna intelligente al 25% del database per evitare comunicazioni eccessive o l’elaborazione dell’intero database nei flussi di lavoro; questo non solo protegge il brand, ma aiuta anche a proteggere le prestazioni dell’istanza. KG - È ACCURATO?</li></td>
+   <br/>In caso contrario, puoi aggiungerne uno. È consigliabile limitare i limiti di Smart Campaign al 25% del database per evitare comunicazioni eccessive o l’elaborazione dell’intero database nei flussi di lavoro; questo non solo protegge il brand, ma aiuta anche a proteggere le prestazioni dell’istanza.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   <tr> 
    <td>Limiti di comunicazione</td> 
    <td><li>Ci sono <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">limiti di comunicazione</a> sul posto? La tua azienda dispone di criteri in cui potrebbero essere necessari limiti di comunicazione?</li>
-<p>Nota: l’Adobe consiglia di limitare la comunicazione a 1 al giorno e a 3 ogni 7 giorni, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operative</a> e-mail bloccate. KG - È ACCURATO?</td>
+<p>Nota: l’Adobe consiglia di limitare la comunicazione a 1 al giorno e a 3 ogni 7 giorni, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operative</a> e-mail bloccate.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   <tr> 
    <td>CRM</td> 
    <td><li>A quale CRM stai eseguendo la sincronizzazione? Salesforce? MS Dynamics? Veeva?</li>
-<li>La sincronizzazione personalizzata è bidirezionale? (KG: FISSA GRAMMATICA E VERIFICA IMPORTANZA)</li>
+<li>Si sta utilizzando una sincronizzazione personalizzata?</li>
 <li>[Solo per Salesforce] L’istanza dispone di filtri di sincronizzazione personalizzati implementati? 
 <p>Nota: contatta il supporto Marketo per identificare filtri di sincronizzazione personalizzati o richiedere l’implementazione di una regola di sincronizzazione personalizzata.</li></td>
   </tr>
@@ -313,3 +311,7 @@ L’elenco di controllo seguente è stato aggiunto insieme ai suggerimenti dei c
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Controllo di un&#39;istanza ereditata: ► database](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
