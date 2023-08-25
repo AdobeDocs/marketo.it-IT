@@ -4,9 +4,9 @@ description: Rapporto sull’attività delle pagine web - Documenti Marketo - Do
 title: Rapporto attività pagina web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,12 @@ Puoi scegliere di visualizzare nello stesso rapporto persone conosciute o anonim
 
 >[!PREREQUISITES]
 >
->* [Aggiungere il codice di tracciamento Munchkin al sito Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [Aggiungere il codice di tracciamento Munchkin al sito Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)e seleziona la **Rapporto attività pagina web** [tipo di rapporto](report-type-overview.md).
+1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona la **Rapporto attività pagina web** [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. Scegli per [visualizza persone note o anonime](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} nella relazione.
 
-1. Scegli per [visualizza persone note o anonime](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) nella relazione.
-
-1. [Impostare l’intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic su **Report** scheda.
+1. [Impostare l’intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} e fai clic su **Report** scheda.
 
 1. Ce l&#39;hai fatta! Rivedi il rapporto per vedere chi sta visitando il tuo sito.
 
@@ -37,10 +36,10 @@ Puoi scegliere di visualizzare nello stesso rapporto persone conosciute o anonim
 
    >[!TIP]
    >
-   >Per scoprire chi visita di più il tuo sito, [ordinare il report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) il _Visualizzazioni pagina_ e scegliere Ordinamento decrescente.
+   >Per scoprire chi visita di più il tuo sito, [ordinare il report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} il _Visualizzazioni pagina_ e scegliere Ordinamento decrescente.
 
-   [Marketo aggiunge anonimo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) visitatori del sito web nel tuo database e puoi scegliere di visualizzarli in questo rapporto. Fornisce una grande quantità di informazioni anche se sono anonime.\
-   [Colonne selezionabili](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto di attività della pagina web, includere:
+   [Marketo aggiunge anonimo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} visitatori del sito web nel tuo database e puoi scegliere di visualizzarli in questo rapporto. Fornisce una grande quantità di informazioni anche se sono anonime.\
+   [Colonne selezionabili](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} per un rapporto di attività della pagina web, includere:
 
 <table> 
  <thead> 
@@ -60,7 +59,7 @@ Puoi scegliere di visualizzare nello stesso rapporto persone conosciute o anonim
   </tr> 
   <tr> 
    <td>Visualizzazioni pagina</td> 
-   <td>Numero di pagine caricate dal visitatore.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">Clic</a></strong> per visualizzare le pagine visitate.</td> 
+   <td>Numero di pagine caricate dal visitatore.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">Clic</a></strong> per visualizzare le pagine visitate.</td> 
   </tr> 
   <tr> 
    <td>Referer HTTP</td> 
@@ -83,9 +82,9 @@ Puoi scegliere di visualizzare nello stesso rapporto persone conosciute o anonim
 
 >[!TIP]
 >
->Dai un&#39;occhiata ai tuoi rappresentanti! [Filtrare il rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)per il loro territorio e [abbonali](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>Dai un&#39;occhiata ai tuoi rappresentanti! [Filtrare il rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} for their territory and [subscribe them to it](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
 
 >[!MORELIKETHIS]
 >
->* [Pagine Web visualizzate, Rapporto attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [Visualizzare persone o visitatori anonimi nei report web](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [Pagine Web visualizzate, Rapporto attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md){target="_blank"}
+>* [Visualizzare persone o visitatori anonimi nei report web](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}

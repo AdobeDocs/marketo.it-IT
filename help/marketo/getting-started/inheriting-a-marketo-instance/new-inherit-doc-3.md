@@ -3,9 +3,9 @@ description: Eredita documento 3 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Nelle attività di marketing è possibile creare campagne avanzate, creare risor
    <td>Forms locale</td> 
    <td><li>Quanti programmi hanno locali <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">moduli</a>? Questi moduli devono essere trasformati in moduli globali?</li>
 <li>Acquisiscono dati appropriati per i team di marketing e vendita?</li>
-<p>Suggerimento: limita il numero di moduli locali per semplificare l’aggiornamento e l’allineamento alle modifiche in base alla privacy dei dati e ai criteri di consenso/rinuncia. Quando si crea un modulo, considerare quali domande è necessario porre. Se le informazioni raccolte non cambiano e la funzionalità avanzata del modulo non cambia, è consigliabile utilizzare un modulo globale anziché locale. KG - VERIFICA</td>
+<p>Suggerimento: limita il numero di moduli locali per semplificare l’aggiornamento e l’allineamento alle modifiche in base alla privacy dei dati e ai criteri di consenso/rinuncia. Quali domande è necessario porre durante la creazione di un modulo? Se le informazioni raccolte non cambiano e la funzionalità avanzata del modulo non cambia, è consigliabile utilizzare un modulo globale anziché locale.</td>
   </tr>
   <tr> 
    <td>Forms globale</td> 
@@ -131,11 +131,11 @@ Nelle attività di marketing è possibile creare campagne avanzate, creare risor
   </tr>
   <tr> 
    <td>Standardizzazione dati</td> 
-   <td><li>È disponibile un programma centralizzato per la standardizzazione dei dati in arrivo? KG - CONTROLLA DUE VOLTE</li></td>
+   <td><li>È disponibile un programma centralizzato per la standardizzazione dei dati in arrivo?</li></td>
   </tr>
   <tr> 
    <td>Gestione delle e-mail non consegnate</td> 
-   <td><li>Hai un programma centralizzato con cui gestire <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">persone che non raggiungono</a>? KG - QUESTO ARTICOLO DEL 2017 È ANCORA PERTINENTE?</li></td>
+   <td><li>Hai un programma centralizzato con cui gestire <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">persone che non raggiungono</a>?</li></td>
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 
