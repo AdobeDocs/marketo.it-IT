@@ -4,20 +4,24 @@ description: Navigazione nel calendario di marketing - Documenti Marketo - Docum
 title: Navigazione nel calendario di marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # Navigazione nel calendario di marketing {#navigating-the-marketing-calendar}
 
-Navigare nel calendario di marketing è facile come uno, due, tre!
+Navigare nel calendario di marketing è facile. Ecco come.
 
 >[!PREREQUISITES]
 >
 >Assicurati di avere un [Licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - in caso contrario, il riquadro Marketing Calendar (Calendario di marketing) non verrà visualizzato in My Marketo (Il mio).
+
+>[!NOTE]
+>
+>Le campagne Smart ricorrenti non sono supportate nel calendario di marketing.
 
 1. Vai a **Calendario di marketing**.
 
@@ -33,7 +37,7 @@ Navigare nel calendario di marketing è facile come uno, due, tre!
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## Utilizzare la vista Agenda {#use-the-agenda-view}
+## Utilizzare la visualizzazione Agenda {#use-the-agenda-view}
 
 Nella vista Agenda tutte le voci vengono visualizzate come elenco.
 
