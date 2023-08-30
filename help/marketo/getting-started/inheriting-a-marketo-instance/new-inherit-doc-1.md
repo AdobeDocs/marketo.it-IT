@@ -3,29 +3,59 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1428'
 ht-degree: 1%
 
 ---
 
 # Eredita documento 1 {#inherit-doc-1}
 
-In qualità di nuovo amministratore di Adobe Marketo Engage, dovrai eseguire diverse attività per verificare lo stato e la validità dell’istanza ereditata.
-
-Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state compilate insieme ai suggerimenti degli Champions Marketo per aiutarti a imparare a usare al meglio la tecnologia. Documenta l’avanzamento nell’elenco di controllo dell’istanza ereditata del Marketo Engage.
+Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state compilate insieme ai suggerimenti degli Champions Marketo per aiutarti a imparare a usare al meglio la tecnologia. Puoi anche scaricare gli elenchi di controllo e tenere traccia dell’avanzamento.
 
 >[!TIP]
 >
 >Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario di Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+
+## Adobe Admin Console {#adobe-admin-console}
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th style="width:25%">Area</th> 
+   <th>Rivedi focus</th>
+  </tr> 
+  <tr> 
+   <td>Abbonamento</td> 
+   <td><li>Il tuo abbonamento al Marketo Engage è <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe di sistema Identity Management</a> (Adobe IMS) già? 
+<br/>
+In caso affermativo, l'amministratore di sistema di Adobe Admin Console ti ha assegnato il ruolo di "Amministratore di prodotto Adobe Admin Console"? Se non sai chi dispone dei privilegi di amministratore nella console all’interno della tua organizzazione, contatta <a href="https://helpx.adobe.com/contact.html" target="_blank">Assistenza clienti Adobe</a>.  
+<br/>In caso contrario, si procederà con <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">esperienza ruoli utente e autorizzazioni legacy</a> in Marketo Engage &gt; Amministratore &gt; Utenti e ruoli fino al rinnovo dell’abbonamento.</li></td>
+  </tr>
+  <tr> 
+   <td>Profilo prodotto</td> 
+   <td>(Abbonamenti su Adobe IMS <b>solo</b>)
+<p>
+<li>Ti è stato assegnato il ruolo di "Amministratore di prodotto Marketo Engage" in Marketo Engage/Amministratore/Utenti e ruoli?</li> 
+<li>Hai assegnato il Marketo Engage a tutti i profili di prodotto degli utenti appropriati in Adobe Admin Console?
+<br/>In caso contrario, assicurati di assegnare il Marketo Engage al loro profilo di prodotto Adobe IMS prima di assegnare i loro ruoli in Marketo Engage/Amministratore/Utenti e ruoli.</li>
+<p>Nota: se il tuo abbonamento ha più di 75 utenti ed è stato appena migrato ad Adobe IMS, puoi selezionare gli utenti da migrare in batch e amministrare il loro Adobe Identify in gruppi o tutti contemporaneamente. Ulteriori informazioni su cosa aspettarsi da <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Giorno della migrazione Adobe IMS</a>.</td>
+  </tr>
+  <tr> 
+   <td>API User Management</td> 
+   <td><li>Il tuo abbonamento ha utilizzato qualche API di gestione utenti di Marketo?
+<br/>In tal caso, dovrai utilizzare <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">API di Adobe IMS</a> per invitare, aggiornare ed eliminare gli utenti da un momento all'altro.</li></td>
+  </tr>
+ </tbody> 
+</table>
 
 ## Utenti e ruoli {#users-and-roles}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -47,6 +77,10 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <li>I ruoli utente e le autorizzazioni sono allineati ai dati aziendali <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">informativa sulla privacy</a>?</li></td>
   </tr>
   <tr> 
+   <td>Utenti di supporto</td> 
+   <td><li>Hai impostato il <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contatti autorizzati</a> nel portale di assistenza?</li></td>
+  </tr>
+  <tr> 
    <td>Documentazione interna</td> 
    <td><li>Gli utenti e i ruoli sono chiaramente definiti nella tua organizzazione?</li>
 <li>Qual è il processo per aggiungere un nuovo utente/amministratore?</li></td>
@@ -54,7 +88,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   <tr> 
    <td>Sandbox (se applicabile)</td> 
    <td><li>Hai un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">istanza sandbox</a>?
-   <br/>In tal caso, controlla le categorie precedenti per la sandbox.</li>
+   <br/>  In tal caso, controlla le categorie precedenti per la sandbox.</li>
 <li>È <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importazione programma</a> collegato alla sandbox?</li></td>
   </tr>
  </tbody> 
@@ -65,7 +99,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -80,12 +114,12 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>Aree di lavoro e partizioni</td> 
-   <td><li>Quanti <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">aree di lavoro e/o partizioni</a> l'hai fatto?</li>
+   <td><li>Quanti <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Aree di lavoro e/o partizioni</a> l'hai fatto?</li>
 <li>Qual è lo scopo principale di ogni area di lavoro e partizione?</li>
 <li>Effettua una delle seguenti operazioni <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Aree di lavoro</a> o <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partizioni</a> deve essere controllato/modificato?</li>
 <li>Qual è la relazione tra le aree di lavoro e le partizioni?</li>
@@ -104,7 +138,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -120,7 +154,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -136,7 +170,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -151,7 +185,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <li>I canali sono correlati a tipi di programmi specifici?</li>
 <li>Quali stati sono considerati di successo per ogni canale? Sono in linea con i tuoi obiettivi di marketing?</li>
 <li>Il canale operativo viene utilizzato in modo appropriato?</li>
-<li>Per il Report Builder avanzato (Revenue Cycle Explorer/RCE), il tuo comportamento di analisi dei canali è impostato per allinearsi alle tue procedure di programma, includendo il costo del periodo?</li></td>
+<li>Per il Report Builder avanzato (Revenue Cycle Explorer/RCE), il comportamento di analisi dei canali è impostato per l’allineamento con le procedure del programma che includono il costo del periodo?</li></td>
   </tr>
   <tr> 
    <td>Calendario marketing (se applicabile)</td> 
@@ -165,7 +199,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -175,13 +209,13 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <li>Quanti <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campi personalizzati</a> ci sono?</li>
 <li>Quanti campi vengono utilizzati? 
 <br/>Seleziona <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Esporta utilizzato da</a> nel menu a discesa Azioni campo per esaminare le risorse correlate di un campo.</li>
-<li>Quanti sono sincronizzati tra il Marketo Engage e il sistema CRM?</li>
+<li>Quanti campi sono sincronizzati tra il Marketo Engage e il CRM?</li>
 <li>I campi CRM sono sincronizzati con gli oggetti appropriati?</li>
 <li>Esiste un <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">set di visualizzazioni personalizzate</a> per i dettagli della persona? Ci dovrebbe essere?</li>
 <li>Disponi di una convenzione di denominazione per i campi basata sull’origine? 
 <br/>In caso contrario, puoi implementarlo.</li>
 <li>Sono presenti campi <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">bloccato</a>? 
-<br/>Assicurati di capire perché lo sono.</li></td>
+<br/>Se è così, assicurati di capire perché lo sono.</li></td>
   </tr>
   <tr> 
    <td>Attività personalizzate</td> 
@@ -201,13 +235,13 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>A quale CRM stai eseguendo la sincronizzazione? Salesforce? MS Dynamics? Veeva?</li>
-<li>Si sta utilizzando una sincronizzazione personalizzata?</li>
+<li>Stai utilizzando un’ <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">sincronizzazione personalizzata</a>?</li>
 <li>[Solo per Salesforce] L’istanza dispone di filtri di sincronizzazione personalizzati implementati? 
 <p>Nota: contatta il supporto Marketo per identificare filtri di sincronizzazione personalizzati o richiedere l’implementazione di una regola di sincronizzazione personalizzata.</li></td>
   </tr>
@@ -219,7 +253,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <li>La precompilazione del modulo è abilitata?</li>
 <li>Sono <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">URL personalizzati</a> abilitato?</li>
 <li>Esistono regole impostate per <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">reindirizzamenti</a>?</li>
-<li>Sono presenti alias di dominio? Stai monitorando attraverso la documentazione le modalità di utilizzo degli alias di dominio?</li>
+<li>Sono presenti alias di dominio? Stai monitorando come utilizzi gli alias di dominio?</li>
 <li>È <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Domini protetti per le pagine di destinazione</a> abilitato? 
 <br/>Conferma se le risorse della pagina di destinazione contengono un URL "http".</li></td>
   </tr>
@@ -242,11 +276,12 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
    <td><li>Ha <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Pacchetto MSI installato</a>?</li>
 <li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">aggiornato all’ultima versione di Sales Insight</a>?</li>
 <li>Hai completato la configurazione di Sales Insight? <br/>Utenti Enterprise/Unlimited <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">fai clic qui</a>, utenti professionali <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">fai clic qui</a>.</li>
-<li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">accesso dato ai tuoi utenti</a> in base al numero di posti che hai acquistato?</li></td>
+<li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">accesso dato ai tuoi utenti</a> in base al numero di posti che hai acquistato?</li>
+<li>Sono <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Stelle e fiamme</a> personalizzato?</li></td>
   </tr>
   <tr> 
    <td>Launchpoint (se applicabile)</td> 
-   <td><li>Quali servizi hai configurato (ad es. <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>, ecc.)? Qualcuno è vicino alla loro scadenza?</li>
+   <td><li>Quali servizi hai configurato (ad es. <a href="/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md" target="_blank">BrightTALK</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md" target="_blank">Zoom</a>, ecc.)? Qualcuno è vicino alla loro scadenza?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Quante chiamate API</a> le integrazioni utilizzano?</li>
 <li>Hai le integrazioni corrette per i tuoi casi d’uso?</li></td>
   </tr>
@@ -268,7 +303,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -284,21 +319,17 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
  </tbody> 
 </table>
 
-## Varie {#miscellaneous}
+## Avvisi e aggiornamenti {#alerts-and-updates}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th>
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>Aggiornamenti stato Marketo Engage</td> 
-   <td><li>L’istanza è registrata per <a href="https://status.adobe.com/" target="_blank">Aggiornamenti stato Marketo Engage</a>?</li></td>
-  </tr>
-  <tr> 
-   <td>Contatti autorizzati</td> 
-   <td><li>Hai impostato il <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contatti autorizzati</a> nel portale di assistenza?</li></td>
+   <td><li>La tua istanza è abbonata a <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Aggiornamenti stato Marketo Engage</a>?</li></td>
   </tr>
   <tr> 
    <td>Avvisi</td> 
