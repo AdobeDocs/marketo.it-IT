@@ -5,18 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 632f34fa3ab69537703b1f82678955047476d0d3
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Panoramica della libreria di importazione del programma {#program-import-library-overview}
 
-Testo introduttivo.
+La Libreria di riferimento di Marketo Engage include diversi programmi iniziali che è possibile importare direttamente nell’istanza di Marketo per avviare la creazione di programmi che aiuteranno il team.
 
-—Informazioni sulla libreria di importazione del programma di Marketo Engage qui—
+La libreria include programmi quali: e-mail, coinvolgimento, evento, punteggio, recapito messaggi e dati operativi. Tutti i programmi sono stati sviluppati dal team di prodotto di Adobe e analizzati dal nostro team Professional Services nel tentativo di massimizzare la qualità e l&#39;efficacia.
+
+## Esempi di programmi disponibili {#available-program-examples}
 
 * [Pagina di destinazione CT-YYY-MM-Content non-Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
@@ -51,3 +53,7 @@ Testo introduttivo.
 * [Programma del webinar WBN-YYYY-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
 * [Programma di richiesta Web WR-YYY-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
+>[!MORELIKETHIS]
+>
+>[Importare un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
