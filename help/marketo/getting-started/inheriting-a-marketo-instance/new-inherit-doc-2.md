@@ -3,9 +3,9 @@ description: Eredita documento 2 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '362'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -31,7 +31,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr>
   <tr> 
    <td>Persone non abbonate</td> 
-   <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">utenti non iscritti</a>? Ci sono troppe persone non iscritte?</li>
+   <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">utenti non iscritti</a>? Ci sono troppe persone non iscritte?</li>
 <li>I metodi di annullamento dell’abbonamento sono in linea con i requisiti sulla privacy dei dati?</li>
 <li>La tua preferenza per annullare l’abbonamento è aggiornata? Per quanto tempo i record sono rimasti nel database come non commerciabili?</li></td>
   </tr>
@@ -39,7 +39,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
    <td>Marketing sospeso</td> 
    <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing sospeso</a>? Ci sono troppe persone che sono sospese dal marketing?</li>
 <li>Per quanto tempo i documenti sono rimasti nello stato Marketing Sospeso?</li>
-<p>Esempio di caso d’uso Marketing Suspended: record che sono attivamente coinvolti con le vendite in opportunità in fase avanzata per le quali si desidera eliminare le comunicazioni di marketing.</td>
+<p>Esempio di caso d’uso Marketing Suspended: record di persone attivamente coinvolte nelle vendite in opportunità in fase avanzata per le quali desideri eliminare le comunicazioni di marketing.</td>
   </tr>
    <tr> 
    <td>INSERISCO NELL'ELENCO BLOCCATI DI</td> 
@@ -62,35 +62,34 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
  </tbody> 
 </table>
 
-## Raggruppa elenchi avanzati {#group-smart-lists}
+## Elenchi smart {#smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
-   <td>Raggruppa elenchi avanzati</td> 
-   <td><li>Quale gruppo di elenchi smart è presente? Come vengono utilizzati in questa istanza?</li>
+   <td>Elenchi smart</td> 
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Elenchi smart</a> ci sono? Come vengono utilizzati in questa istanza?</li>
 <li>Gli elenchi sono organizzati in una struttura di cartelle coesa? <br/>Se disponi di elenchi orfani, puoi organizzare la struttura in modo che le risorse siano facili da trovare.</li>
-<p>Suggerimento <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivia</a> raggruppa elenchi avanzati che non sono più necessari per eseguire query, generare rapporti o riferimenti per semplificare l’organizzazione e le prestazioni.</td>
+<p>Suggerimento <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiviare</a> Gli elenchi avanzati che non sono più necessari aiuteranno con l’organizzazione e le prestazioni.</td>
   </tr>
  </tbody> 
 </table>
 
-## Elenchi di gruppi {#group-lists}
+## Elenchi statici {#static-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
-   <td>Elenchi di gruppi</td> 
-   <td><li>Quali elenchi di gruppi sono disponibili?</li>
-<li>Come vengono utilizzati in questa istanza?</li></td>
+   <td>Elenchi statici</td> 
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Elenchi statici</a> ci sono? Come vengono utilizzati in questa istanza?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -100,7 +99,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:25%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
