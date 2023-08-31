@@ -1,19 +1,19 @@
 ---
-description: Invio e-mail singolo AAAA-MM-GG - Documenti Marketo - Documentazione del prodotto
-title: EM-YYYY-MM-DD-Single Email Send
+description: NL-YYYY-MM-Newsletter - Documentazione Marketo - Documentazione del prodotto
+title: Newsletter NL-YYYY-MM
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '282'
 ht-degree: 4%
 
 ---
 
-# EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
+# Newsletter NL-YYYY-MM {#nl-yyyy-mm-newsletter}
 
-In questo esempio viene inviata un’unica e-mail utilizzando un programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
+In questo esempio viene inviata un’e-mail alla newsletter utilizzando un programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
 
 Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
 
@@ -28,7 +28,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <th>Tipo di programma</th>
   </tr> 
   <tr> 
-   <td>E-mail</td> 
+   <td>Newsletter</td> 
    <td>01 membro 
 <br/>02-Coinvolto-Successo</td>
    <td>Inclusivo</td>
@@ -49,7 +49,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>E-mail</td> 
    <td>Modello e-mail di avvio rapido</td>
-   <td>01-E-Mail-Grazie</td>
+   <td>01 - E-mail</td>
   </tr>
   <tr> 
    <td>Rapporto locale</td> 
@@ -65,13 +65,13 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>01-Coinvolto (programma di successo)</td>
+   <td>01 - Coinvolto (successo del programma)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
    <td> </td>
    <td>Assets: ospita tutte le risorse creative 
-<br/>(sottocartelle per e-mail e pagine di destinazione)  </td>
+<br/>(sottocartelle per e-mail)  </td>
   </tr>
   <tr> 
    <td>Cartella</td> 
@@ -147,4 +147,4 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;01-Engaged&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;01-Engaged&quot; per il successo del tracciamento. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.

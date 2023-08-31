@@ -1,19 +1,19 @@
 ---
-description: Programma Evento EV-YYY-MM-DD - Documentazione Marketo - Documentazione del prodotto
-title: Programma Evento EV-YYY-MM-DD
+description: Programma WBN-YYYY-MM-DD-Webinar - Documentazione di Marketo - Documentazione del prodotto
+title: Programma del webinar WBN-YYYY-MM-DD
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 6%
+source-wordcount: '591'
+ht-degree: 5%
 
 ---
 
-# Programma Evento EV-YYY-MM-DD {#ev-yyyy-mm-dd-event-program}
+# Programma del webinar WBN-YYYY-MM-DD {#wbn-yyyy-mm-dd-webinar-program}
 
-Questo è un esempio di un programma di eventi con una pagina di registrazione, tre e-mail di invito e messaggi e-mail di follow-up che utilizzano un programma di eventi di Marketo Engage. Adatto per tutti gli eventi per i quali è necessaria la registrazione, inclusi eventi itineranti, pranzi, cene o presentazioni durante le fiere.
+Questo è un esempio di un programma di webinar con gestione della registrazione, tre e-mail di invito, promemoria per la partecipazione e e-mail di follow-up che utilizzano un programma di eventi di Marketo Engage.
 
 Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
 
@@ -30,12 +30,14 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Evento</td> 
    <td>01 - Invitato 
-<br/>02-In lista d’attesa
-<br/>03-Registrato
-<br/>04-Nessuno spettacolo
-<br/>05-Partecipated-Success</td>
+   <br/>02 - In lista d’attesa
+   <br/>03 - Registrato
+   <br/>04 - Nessuno spettacolo
+   <br/>05 - Partecipazione avvenuta - Esito positivo
+   <br/>06 - Partecipazione On-Demand - Esito positivo</td>
    <td>Inclusivo</td>
-   <td>Evento</td>
+   <td>Evento
+   <p>(Integrato: Evento con webinar)</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>E-mail</td> 
    <td>Modello e-mail di avvio rapido</td>
-   <td>01-E-Mail-Grazie</td>
+   <td>01 - E-mail - invito</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
    <td>Modello e-mail di avvio rapido</td>
-   <td>02a- E-mail - invito</td>
+   <td>02 - E-mail - Promemoria invito</td>
+  </tr>
+   <tr> 
+   <td>E-mail</td> 
+   <td>Modello e-mail di avvio rapido</td>
+   <td>03 - E-mail - Promemoria invito - Ultima possibilità</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modello e-mail di avvio rapido</td>
-   <td>02b - E-mail - Promemoria invito</td>
+   <td>04 - E-mail - Conferma della registrazione</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modello e-mail di avvio rapido</td>
-   <td>02c- E-mail - Promemoria invito Ultima possibilità</td>
+   <td>05 - E-mail - Promemoria per la partecipazione</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modello e-mail di avvio rapido</td>
-   <td>03 - E-mail - Promemoria per la partecipazione</td>
+   <td>06 - E-mail - Seguito - Partecipazione avvenuta</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>Modello e-mail di avvio rapido</td>
-   <td>04a - E-mail - Seguito - Partecipazione avvenuta</td>
+   <td>07 - E-mail - Follow-up - No show </td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
-   <td>04b - E-mail - Follow-up - NoShow</td>
-  </tr>
-  <tr> 
-   <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
-   <td>01a - LP - Registrazione</td>
-  </tr>
-  <tr> 
-   <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
-   <td>01b - LP - Grazie</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Modulo</td> 
    <td> </td>
    <td>Registrazione evento FM</td>
   </tr>
   <tr> 
+   <td>Pagina di destinazione</td> 
+   <td>Modello di programma di apprendimento rapido</td>
+   <td>01 - LP - Registrazione</td>
+  </tr>
+  <tr> 
+   <td>Pagina di destinazione</td> 
+   <td>Modello di programma di apprendimento rapido</td>
+   <td>02 - LP - Grazie</td>
+  </tr>
+  <tr> 
+   <td>Pagina di destinazione</td> 
+   <td>Modello di programma di apprendimento rapido</td>
+   <td>03 - LP - On-Demand</td>
+  </tr>
+  <tr> 
    <td>Rapporto locale</td> 
    <td> </td>
    <td>Prestazioni e-mail</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Rapporto locale</td> 
    <td> </td>
    <td>Prestazioni della pagina di destinazione</td>
@@ -117,7 +125,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>01 - Registrazione processo</td>
+   <td>01 - Elabora registrazioni</td>
   </tr>
    <tr> 
    <td>Campagna avanzata</td> 
@@ -132,28 +140,33 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>02c - Invia invito ultima possibilità</td>
+   <td>02c - Invia promemoria invito ultima possibilità</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
    <td>03 - Invia promemoria per partecipare</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
    <td>04 - Partecipazione avvenuta (programma riuscito)</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
    <td>05 - Inviare e-mail di follow-up</td>
   </tr>
   <tr> 
+   <td>Campagna avanzata</td> 
+   <td> </td>
+   <td>06 - Partecipazione on-demand (programma riuscito)</td>
+  </tr>
+  <tr> 
    <td>Cartella</td> 
    <td> </td>
    <td>Assets: ospita tutte le risorse creative 
-<br/>(sottocartelle per e-mail e pagine di destinazione)</td>
+<br/>(sottocartelle per e-mail, pagine di destinazione e Forms)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
@@ -184,6 +197,11 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr> 
    <td>Testo</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>Testo</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
    <tr> 
    <td>Rich Text</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>Doppio clic per dettagli  
-<br/><code><--My Content Description Here--></code> 
-<br/>Modifica questa descrizione del contenuto a livello di programma, nella scheda I miei token. 
+<br/><code><--My Event Description Here--></code> 
+<br/>Modifica questa descrizione dell’evento a livello di programma, nella scheda I miei token. 
 <br/>Imparerai: 
 <li>Punto elenco 1</li>
 <li>Punto elenco 2</li>
 <li>Punto elenco 3</li></td>
-  </tr>
-  <tr> 
-   <td>Testo</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>Testo</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Testo</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>Testo</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>Testo</td> 
@@ -246,7 +244,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Testo</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Evento live</td>
+   <td>Webinar</td>
   </tr>
   <tr> 
    <td>Testo</td> 
@@ -258,7 +256,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Testo</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 ## Best practice {#best-practices}
 
+* Se utilizzi un provider di webinar integrato, non dimenticare di collegare il programma di Marketo Engage al webinar nel sistema di hosting.
+
 * Dopo aver importato il programma del webinar, spostare il modulo da una risorsa locale a una risorsa globale disponibile in Design Studio.
    * La riduzione del numero di moduli e l’utilizzo di più risorse globali da Design Studio consentono una maggiore scalabilità nella progettazione dei programmi e nella governance amministrativa. Offre inoltre flessibilità per gli aggiornamenti regolari sulla conformità per campi, lingua di consenso, ecc.
 
@@ -333,7 +333,7 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;06 partecipanti (programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
+>Non dimenticare di attivare le campagne &quot;04 partecipanti (successo del programma)&quot; e &quot;06 partecipanti on demand (successo del programma)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
 
 >[!IMPORTANT]
 >

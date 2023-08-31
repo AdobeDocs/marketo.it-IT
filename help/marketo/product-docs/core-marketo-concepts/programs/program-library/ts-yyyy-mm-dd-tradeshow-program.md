@@ -1,19 +1,19 @@
 ---
-description: Invio e-mail singolo AAAA-MM-GG - Documenti Marketo - Documentazione del prodotto
-title: EM-YYYY-MM-DD-Single Email Send
+description: Programma di fiere TS-YYY-MM-DD - Documentazione di Marketo - Documentazione del prodotto
+title: TS-YYYY-MM-DD-Tradeshow
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---
 
-# EM-YYYY-MM-DD-Single Email Send {#em-yyyy-mm-dd-single-email-send}
+# TS-YYYY-MM-DD-Tradeshow {#ts-yyyy-mm-dd-tradeshow-program}
 
-In questo esempio viene inviata un’unica e-mail utilizzando un programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
+Questo è un esempio di programma di fiera con inviti e e-mail di follow-up utilizzando un programma di eventi di Marketo Engage.
 
 Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
 
@@ -28,11 +28,15 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <th>Tipo di programma</th>
   </tr> 
   <tr> 
-   <td>E-mail</td> 
-   <td>01 membro 
-<br/>02-Coinvolto-Successo</td>
+   <td>Evento</td> 
+   <td>01 - Invitato 
+   <br/>02-In lista d’attesa
+   <br/>03-Registrato
+   <br/>Stand visitato da 04
+   <br/>05-Coinvolto allo spettacolo - Successo
+   <br/>06-Coinvolto al Post Show - Successo</td>
    <td>Inclusivo</td>
-   <td>E-mail</td>
+   <td>Evento</td>
   </tr>
  </tbody> 
 </table>
@@ -51,6 +55,12 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td>Modello e-mail di avvio rapido</td>
    <td>01-E-Mail-Grazie</td>
   </tr>
+   <tr> 
+   <td>E-mail</td> 
+   <td>Modello e-mail di avvio rapido</td>
+   <td>02a- E-mail - invito</td>
+  </tr>
+  <tr>
   <tr> 
    <td>Rapporto locale</td> 
    <td> </td>
@@ -59,19 +69,38 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Rapporto locale</td> 
    <td> </td>
-   <td>Prestazioni collegamento e-mail</td>
+   <td>Prestazioni del programma</td>
   </tr>
-  <tr>
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>01-Coinvolto (programma di successo)</td>
+   <td>00 - Acquisizione del programma</td>
+  </tr>
+  <tr> 
+   <td>Campagna avanzata</td> 
+   <td> </td>
+   <td>01 - Invia invito</td>
+  </tr>
+   <tr> 
+   <td>Campagna avanzata</td> 
+   <td> </td>
+   <td>02 - Coinvolto allo spettacolo (operazione riuscita)</td>
+  </tr>
+   <tr> 
+   <td>Campagna avanzata</td> 
+   <td> </td>
+   <td>03 - Inviare e-mail di follow-up</td>
+  </tr>
+   <tr> 
+   <td>Campagna avanzata</td> 
+   <td> </td>
+   <td>04 - Coinvolto tramite e-mail di follow-up (operazione riuscita)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
    <td> </td>
    <td>Assets: ospita tutte le risorse creative 
-<br/>(sottocartelle per e-mail e pagine di destinazione)  </td>
+<br/>(sottocartelle per e-mail e pagine di destinazione)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
@@ -86,8 +115,6 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
-
 ## I miei token inclusi {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -96,6 +123,11 @@ SCHERMATA DEL PROGRAMMA
    <th>Tipo di token</th> 
    <th>Nome token</th>
    <th>Valore</th>
+  </tr>
+  <tr> 
+   <td>File di calendario</td> 
+   <td><code>{{my.AddToCalendar}}</code></td>
+   <td>Doppio clic per dettagli</td>
   </tr>
   <tr> 
    <td>Testo</td> 
@@ -112,8 +144,45 @@ SCHERMATA DEL PROGRAMMA
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
+  <tr> 
+   <td>Testo</td> 
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
+  </tr>
+   <tr> 
+   <td>Rich Text</td> 
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
+  </tr>
+   <tr> 
+   <td>Testo</td> 
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
+  </tr>
+  <tr> 
+   <td>Testo</td> 
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
+  </tr>
+  <tr> 
+   <td>Testo</td> 
+   <td><code>{{my.Event-Time}}</code></td>
+   <td><code><--My Event Time + TimeZone--></code></td>
+  </tr>
+  <tr> 
+   <td>Testo</td> 
+   <td><code>{{my.Event-Title}}</code></td>
+   <td><code><--My Event Title Here--></code></td>
+  </tr>
+  <tr> 
+   <td>Testo</td> 
+   <td><code>{{my.Event-Type}}</code></td>
+   <td>Tradeshow</td>
+  </tr>
  </tbody> 
 </table>
+
+SCHERMATA DEL PROGRAMMA
 
 ## Regole di conflitto {#conflict-rules}
 
@@ -137,6 +206,9 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 ## Best practice {#best-practices}
 
+* Dopo aver importato il programma del webinar, spostare il modulo da una risorsa locale a una risorsa globale disponibile in Design Studio.
+   * La riduzione del numero di moduli e l’utilizzo di più risorse globali da Design Studio consentono una maggiore scalabilità nella progettazione dei programmi e nella governance amministrativa. Offre inoltre flessibilità per gli aggiornamenti regolari sulla conformità per campi, lingua di consenso, ecc.
+
 * È consigliabile aggiornare i modelli nel programma importato per utilizzare i modelli attualmente contrassegnati con il marchio oppure aggiornare il modello appena importato in base al marchio aggiungendo uno snippet o le informazioni appropriate su logo/piè di pagina.
 
 * Prendi in considerazione l’aggiornamento della convenzione di denominazione di questo esempio di programma per allinearla alla convenzione di denominazione.
@@ -147,4 +219,8 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;01-Engaged&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
+>Non dimenticare di attivare le campagne &quot;02-Engaged at Show (Program Success)&quot; e &quot;04-Engaged by Follow-up Email (Program Success)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
+
+>[!IMPORTANT]
+>
+>I miei token che fanno riferimento a un URL non possono contenere http:// o https:// altrimenti il collegamento non funzionerà in modo appropriato all’interno della risorsa.
