@@ -3,9 +3,9 @@ description: Eredita documento 1 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1429'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 
 >[!TIP]
 >
->Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario di Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
