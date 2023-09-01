@@ -4,7 +4,7 @@ title: Comportamento con punteggio OP
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 11%
@@ -155,8 +155,6 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
-
 ## I miei token inclusi {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -243,6 +241,8 @@ SCHERMATA DEL PROGRAMMA
   </tr>
  </tbody> 
 </table>
+
+SCHERMATA DEL PROGRAMMA
 
 ## Regole di conflitto {#conflict-rules}
 

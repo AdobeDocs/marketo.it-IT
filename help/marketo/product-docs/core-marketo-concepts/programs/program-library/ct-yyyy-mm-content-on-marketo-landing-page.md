@@ -4,7 +4,7 @@ title: Contenuto CT-YYYY-MM sulla pagina di destinazione di Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 3%
@@ -105,8 +105,6 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
-
 ## I miei token inclusi {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -164,6 +162,8 @@ SCHERMATA DEL PROGRAMMA
   </tr>
  </tbody> 
 </table>
+
+SCHERMATA DEL PROGRAMMA
 
 ## Regole di conflitto {#conflict-rules}
 
