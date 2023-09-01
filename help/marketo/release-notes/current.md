@@ -3,7 +3,7 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
+source-git-commit: 515821580741449f71df31dbd0652498fd744783
 workflow-type: tm+mt
 source-wordcount: '941'
 ht-degree: 2%
@@ -314,7 +314,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 * **Attiva token per nuove attività**: sono disponibili nuovi token di attivazione per supportare le nuove attività di Dynamic Chat.
 
-<table> 
+<table style="margin-left:10px" width="400px"> 
   <tr> 
    <td><b>Stato</b></td>
    <td><b>Aggiornamenti alla documentazione</b></td>
