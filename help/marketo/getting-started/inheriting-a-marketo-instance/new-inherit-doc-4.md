@@ -3,9 +3,9 @@ description: Eredita documento 4 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr> 
    <td>Privacy e conformità</td> 
    <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in? 
-   <br/>Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>, il CASL (Legge canadese anti-spam), il Controlling the Assault of Non-Solicited Pornography and Marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
+   <br/>     Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>, la legge canadese anti-spam (CASL), il Controlling the Assault of Non-Solicited Pornography and Marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
 <p>Suggerimento: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>Snippet</td> 
    <td><li>Quanti <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippet</a> ci sono? Vengono utilizzati? 
-   <br/>In caso contrario, è consigliabile utilizzarli per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Pagina di destinazione</a> contenuto del piè di pagina, logo e altro ancora.</li></td>
+   <br/>     In caso contrario, è consigliabile utilizzarli per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Pagina di destinazione</a> contenuto del piè di pagina, logo e altro ancora.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr> 
    <td>Immagini e file</td> 
    <td><li>Eseguire qualsiasi immagine o file <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">a cui si fa riferimento nelle pagine web</a> devono essere aggiornati? 
-   <p>Esempio: potrebbe essere necessario aggiornare la struttura URL hardcoded, ad esempio <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Esempio: struttura URL hardcoded <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">potrebbe essere necessario aggiornare</a>, ad esempio <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>Collabora con il tuo sviluppatore web per determinare dove è necessario apportare aggiornamenti.</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>Stato risorsa</td> 
    <td><li>Quante risorse contengono <i>Bozza</i> e <i>Approvato con bozza</i> stato?
-   <br/>Se ce ne sono molti, puoi eliminarli o approvarli.</li></td>
+   <br/>     Se ce ne sono molti, puoi eliminarli o approvarli.</li></td>
   </tr>
   <tr> 
    <td>Condivisione di risorse</td> 

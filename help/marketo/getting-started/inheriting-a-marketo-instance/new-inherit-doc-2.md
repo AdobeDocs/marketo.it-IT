@@ -3,7 +3,7 @@ description: Eredita documento 2 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
    <td><li>Quante persone esistono nel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>Se il database è quasi pieno, i criteri aziendali consigliano di espandere le dimensioni del database o di eliminare i dati storici?</li>
 <li>Il database complessivo è commerciabile almeno all'85%? 
-<br/>Se il tuo rientra in questa soglia, controlla con maggiore attenzione gli altri elenchi avanzati del sistema (Inserisco nell'elenco Bloccati di marketing sospeso, duplicati, annullamento dell’iscrizione).</li></td>
+<br/>     Se il tuo rientra in questa soglia, controlla con maggiore attenzione gli altri elenchi avanzati del sistema (Inserisco nell'elenco Bloccati di marketing sospeso, duplicati, annullamento dell’iscrizione).</li></td>
   </tr>
   <tr> 
    <td>Persone non abbonate</td> 
@@ -52,12 +52,12 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   <tr> 
    <td>Possibili duplicati</td> 
    <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">record potenzialmente duplicati</a> ci sono?
-   <br/>Provare a eliminarle o unirle.</li></td>
+   <br/>     Provare a eliminarle o unirle.</li></td>
   </tr>
    <tr> 
    <td>Nessun programma di acquisizione</td> 
    <td><li>Quante persone non hanno un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programma di acquisizione</a>?
-   <br/>Se ci sono molte cose, puoi indagare il perché.</li></td>
+   <br/>     Se ci sono molte cose, puoi indagare il perché.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -67,13 +67,14 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>Elenchi smart</td> 
    <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Elenchi smart</a> ci sono? Come vengono utilizzati in questa istanza?</li>
-<li>Gli elenchi sono organizzati in una struttura di cartelle coesa? <br/>Se disponi di elenchi orfani, puoi organizzare la struttura in modo che le risorse siano facili da trovare.</li>
+<li>Gli elenchi sono organizzati in una struttura di cartelle coesa? 
+<br/>     Se disponi di elenchi orfani, puoi organizzare la struttura in modo che le risorse siano facili da trovare.</li>
 <p>Suggerimento <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiviare</a> Gli elenchi avanzati che non sono più necessari aiuteranno con l’organizzazione e le prestazioni.</td>
   </tr>
  </tbody> 
@@ -84,7 +85,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
    <td><li>Quale <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentazioni</a> ci sono? Come vengono utilizzati?</li>
 <li>Ci sono troppe persone in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmenti predefiniti</a>?</li>
 <li>Esiste una segmentazione per il pubblico commerciabile? 
-<br/>In caso contrario, puoi crearne una.</li></td>
+<br/>     In caso contrario, puoi crearne una.</li></td>
   </tr>
  </tbody> 
 </table>

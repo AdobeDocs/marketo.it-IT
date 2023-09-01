@@ -3,7 +3,7 @@ description: Eredita documento 5 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Area</th> 
+   <th style="width:20%">Area</th> 
    <th>Rivedi focus</th>
   </tr> 
   <tr> 
    <td>Dizionario dati</td> 
    <td><li>Esiste un dizionario dati separato che spieghi i campi disponibili?
-   <br/>In caso contrario, puoi crearne una.</li></td>
+   <br/>     In caso contrario, puoi crearne una.</li></td>
   </tr>
   <tr> 
    <td>Organizzazione</td> 
@@ -60,7 +60,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr> 
    <td>Playbook</td> 
     <td><li>La tua organizzazione dispone di un playbook utente o amministratore? 
-    <br/>In caso affermativo, aggiornale di conseguenza.</li></td>
+    <br/>     In caso affermativo, aggiornale di conseguenza.</li></td>
   </tr>
   <tr> 
    <td>Conversazioni con le parti interessate interne</td> 
