@@ -3,9 +3,9 @@ description: Eredita documento 2 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '365'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr>
   <tr> 
    <td>Indirizzi e-mail non recapitati</td> 
-   <td><li>Testo</li></td>
+   <td><li>KG - IN ATTESA DI CONSEGNA</li></td>
   </tr>
   <tr> 
    <td>Possibili duplicati</td> 

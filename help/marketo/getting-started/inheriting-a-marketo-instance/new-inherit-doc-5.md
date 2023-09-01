@@ -3,9 +3,9 @@ description: Eredita documento 5 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr> 
    <td>Dizionario dati</td> 
    <td><li>Esiste un dizionario dati separato che spieghi i campi disponibili?
-   <br/>     In caso contrario, puoi crearne una.</li></td>
+   <br/>     In caso contrario, puoi crearne una in una cartella accessibile al team Marketing Operations.</li></td>
   </tr>
   <tr> 
    <td>Organizzazione</td> 
