@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD-Tradeshow
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 4%
 
 ---
@@ -52,12 +52,12 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>02a- E-mail - invito</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>02 - Coinvolto allo spettacolo (operazione riuscita)</td>
+   <td>02 - Inviare e-mail di follow-up</td>
   </tr>
    <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>03 - Inviare e-mail di follow-up</td>
-  </tr>
-   <tr> 
-   <td>Campagna avanzata</td> 
-   <td> </td>
-   <td>04 - Coinvolto tramite e-mail di follow-up (operazione riuscita)</td>
+   <td>03 - Coinvolto tramite e-mail di follow-up (operazione riuscita)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
@@ -219,7 +214,7 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 >[!TIP]
 >
->Non dimenticare di attivare le campagne &quot;02-Engaged at Show (Program Success)&quot; e &quot;04-Engaged by Follow-up Email (Program Success)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;03 - Coinvolto tramite e-mail di follow-up (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
 
 >[!IMPORTANT]
 >

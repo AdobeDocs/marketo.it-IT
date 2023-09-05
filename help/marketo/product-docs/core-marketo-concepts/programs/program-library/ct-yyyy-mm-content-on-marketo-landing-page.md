@@ -4,9 +4,9 @@ title: Contenuto CT-YYYY-MM sulla pagina di destinazione di Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 3%
 
 ---
@@ -48,23 +48,23 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
   <tr> 
    <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>01 - LP - Registrazione</td>
   </tr>
   <tr> 
    <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>02 - LP - Grazie</td>
   </tr>
   <tr> 
    <td>Modulo</td> 
    <td> </td>
-   <td>Modulo di registrazione contenuto</td>
+   <td>FM - Modulo di registrazione contenuto</td>
   </tr>
   <tr> 
    <td>Rapporto locale</td> 
@@ -76,21 +76,26 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td> </td>
    <td>Prestazioni della pagina di destinazione</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>Modulo compilato da 01</td>
+   <td>00 - Acquisizione del programma</td>
   </tr>
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>02-Coinvolto (programma di successo)</td>
+   <td>01 - Modulo compilato</td>
+  </tr>
+  <tr> 
+   <td>Campagna avanzata</td> 
+   <td> </td>
+   <td>02 - Coinvolto (successo del programma)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
    <td> </td>
    <td>Assets: contiene tutte le risorse creative 
-<br/>(sottocartelle per e-mail e pagine di destinazione)  </td>
+<br/>(sottocartelle per e-mail, pagine di destinazione e Forms)  </td>
   </tr>
   <tr> 
    <td>Cartella</td> 

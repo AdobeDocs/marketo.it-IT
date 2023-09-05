@@ -4,9 +4,9 @@ title: Pagina di destinazione Marketo per la pubblicità online OA-YYY-MM
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 3%
 
 ---
@@ -29,8 +29,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr> 
   <tr> 
    <td>Pubblicità online</td> 
-   <td>01 membro 
-<br/>02-Coinvolto-Successo</td>
+   <td>01 - Membro 
+<br/>02 - Coinvolto - Completato</td>
    <td>Inclusivo</td>
    <td>Predefinito</td>
   </tr>
@@ -53,17 +53,17 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
   <tr> 
    <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>01 - LP - Registrazione</td>
   </tr>
    <tr> 
    <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>02 - LP - Grazie</td>
   </tr>
    <tr> 
@@ -79,17 +79,17 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>00-Acquisizione programma</td>
+   <td>00 - Acquisizione del programma</td>
   </tr>
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>Modulo compilato da 01</td>
+   <td>01 - Modulo compilato</td>
   </tr>
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>02-Coinvolto (programma di successo)</td>
+   <td>02 - Coinvolto (successo del programma)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
@@ -207,7 +207,7 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;02-Engaged&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;02 - Coinvolto (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
 
 >[!IMPORTANT]
 >

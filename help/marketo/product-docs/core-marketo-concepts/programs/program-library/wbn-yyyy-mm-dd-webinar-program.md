@@ -4,9 +4,9 @@ title: Programma del webinar WBN-YYYY-MM-DD
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 5%
 
 ---
@@ -53,37 +53,37 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01 - E-mail - invito</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>02 - E-mail - Promemoria invito</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>03 - E-mail - Promemoria invito - Ultima possibilità</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>04 - E-mail - Conferma della registrazione</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>05 - E-mail - Promemoria per la partecipazione</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>06 - E-mail - Seguito - Partecipazione avvenuta</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>07 - E-mail - Follow-up - No show </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr> 
    <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>01 - LP - Registrazione</td>
   </tr>
   <tr> 
    <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>02 - LP - Grazie</td>
   </tr>
   <tr> 
    <td>Pagina di destinazione</td> 
-   <td>Modello di programma di apprendimento rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>03 - LP - On-Demand</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>04 - Partecipazione avvenuta (programma riuscito)</td>
+   <td>04 - Inviare e-mail di follow-up</td>
   </tr>
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>05 - Inviare e-mail di follow-up</td>
-  </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
-   <td> </td>
-   <td>06 - Partecipazione on-demand (programma riuscito)</td>
+   <td>05 - Partecipazione On-Demand (successo del programma)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
@@ -333,7 +328,7 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 >[!TIP]
 >
->Non dimenticare di attivare le campagne &quot;04 partecipanti (successo del programma)&quot; e &quot;06 partecipanti on demand (successo del programma)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;05 - Partecipazione avvenuta (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
 
 >[!IMPORTANT]
 >
