@@ -4,7 +4,7 @@ title: Pagina di destinazione CT-YYY-MM-Content non-Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 3%
@@ -48,7 +48,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>Modello e-mail di avvio rapido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
   <tr> 

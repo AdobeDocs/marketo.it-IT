@@ -3,9 +3,9 @@ description: Filtri predittivi - Documentazione Marketo - Documentazione del pro
 title: Filtri predittivi
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Come parte di Predictive Audiences, Marketo offre un gruppo di filtri basati su 
 
 >[!NOTE]
 >
->I filtri &quot;Probabile partecipazione&quot; e &quot;Probabile registrazione&quot; possono essere utilizzati solo nei programmi Evento o E-mail. &quot;Probabilità di annullare l’iscrizione&quot;, &quot;Lookalike of Program Members&quot; e &quot;Lookalike of Smart List Members&quot; possono essere utilizzati in tutti i tipi di programmi.
+>I filtri &quot;Probabile partecipazione&quot; e &quot;Probabile registrazione&quot; possono essere utilizzati solo nei programmi di eventi. &quot;Probabilità di annullare l’iscrizione&quot;, &quot;Lookalike of Program Members&quot; e &quot;Lookalike of Smart List Members&quot; possono essere utilizzati in tutti i tipi di programmi.
 
 ## Probabilità di partecipare {#likelihood-to-attend}
 
