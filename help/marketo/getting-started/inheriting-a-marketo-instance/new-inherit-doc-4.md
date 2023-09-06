@@ -3,9 +3,9 @@ description: Eredita documento 4 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 1%
 
 ---
@@ -60,13 +60,13 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr> 
    <td>Standardizzazione dati</td> 
    <td><li>Sono <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">campi modulo</a> principalmente elenchi a discesa o campi di testo aperti?</li>
-<p>Suggerimento: se si tratta di campi di testo aperti, è consigliabile passare a elenchi di selezione per evitare problemi di dati.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: se si tratta di campi di testo aperti, è consigliabile passare agli elenchi a discesa per evitare problemi di dati.</td>
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 
    <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in? 
    <br/>     Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>, la legge canadese anti-spam (CASL), il Controlling the Assault of Non-Solicited Pornography and Marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
-<p>Suggerimento: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr> 
    <td>Privacy e conformità</td> 
    <td><li>Tutte le tue e-mail hanno i piè di pagina appropriati? Prendi in considerazione RGPD, CASL, CAN-SPAM, CCPA, ecc. per le implicazioni relative alla conformità.</li>
-<p>Suggerimento: ricorda di consultare sempre il tuo team legale per questioni di conformità. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale per questioni di conformità. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr> 
    <td>Condivisione di risorse</td> 
    <td><li>Quali risorse sono <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">condiviso tra aree di lavoro</a>?</li>
-   <p>Nota: è importante saperlo, poiché le azioni eseguite in un’area di lavoro potrebbero causare l’inaccessibilità di una risorsa in un’area di lavoro diversa per un altro utente.</td>
+   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: è importante saperlo, poiché le azioni eseguite in un’area di lavoro potrebbero causare l’inaccessibilità di una risorsa in un’area di lavoro diversa per un altro utente.</td>
   </tr>
  </tbody> 
 </table>

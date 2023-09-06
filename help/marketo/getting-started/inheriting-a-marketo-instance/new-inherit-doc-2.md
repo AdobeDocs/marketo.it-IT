@@ -3,9 +3,9 @@ description: Eredita documento 2 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 1%
 
 ---
@@ -75,7 +75,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
    <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Elenchi smart</a> ci sono? Come vengono utilizzati in questa istanza?</li>
 <li>Gli elenchi sono organizzati in una struttura di cartelle coesa? 
 <br/>     Se disponi di elenchi orfani, puoi organizzare la struttura in modo che le risorse siano facili da trovare.</li>
-<p>Suggerimento <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiviare</a> Gli elenchi avanzati che non sono più necessari aiuteranno con l’organizzazione e le prestazioni.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiviare</a> Gli elenchi avanzati che non sono più necessari aiuteranno con l’organizzazione e le prestazioni.</td>
   </tr>
  </tbody> 
 </table>

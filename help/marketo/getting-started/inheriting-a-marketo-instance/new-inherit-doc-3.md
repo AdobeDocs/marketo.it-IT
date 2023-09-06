@@ -3,9 +3,9 @@ description: Eredita documento 3 - Documentazione Marketo - Documentazione del p
 title: Eredita documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
    <td>Archivia</td> 
    <td><li>Sono programmi meno recenti <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archiviato</a>?</li>
 <li>Con quale frequenza l'azienda controlla e archivia i vecchi programmi?</li>
-<p>Suggerimento: è utile eseguire una revisione ogni anno.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: è utile eseguire una revisione ogni anno.</td>
   </tr>
   <tr> 
    <td>Notifiche</td> 
@@ -54,7 +54,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
    <td>Sottoscrizioni a elenchi avanzati 
    <br/>(Scheda Attività di marketing/Iscrizioni)</td> 
    <td><li>Sono in corso <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Sottoscrizioni a elenchi avanzati</a> nella tua istanza? Se sì, a chi si rivolgono?</li>
-<p>Suggerimento: è consigliabile impostare sottoscrizioni a elenchi avanzati per passare a un alias del team anziché a un singolo utente. Questo ti copre nel caso in cui gli individui siano fuori dall'ufficio.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: è consigliabile impostare sottoscrizioni a elenchi avanzati per passare a un alias del team anziché a un singolo utente. Questo ti copre nel caso in cui gli individui siano fuori dall'ufficio.</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
    <td>Forms locale</td> 
    <td><li>Quanti programmi hanno locali <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">moduli</a>? Questi moduli devono essere trasformati in moduli globali?</li>
 <li>Acquisiscono dati appropriati per i team di marketing e vendita?</li>
-<p>Suggerimento: limita il numero di moduli locali per semplificare l’aggiornamento e l’allineamento alle modifiche in base alla privacy dei dati e ai criteri di consenso/rinuncia. Quali domande è necessario porre durante la creazione di un modulo? Se le informazioni raccolte non cambiano e la funzionalità avanzata del modulo non cambia, è consigliabile utilizzare un modulo globale anziché locale.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: limita il numero di moduli locali per semplificare l’aggiornamento e l’allineamento alle modifiche in base alla privacy dei dati e ai criteri di consenso/rinuncia. Quali domande è necessario porre durante la creazione di un modulo? Se le informazioni raccolte non cambiano e la funzionalità avanzata del modulo non cambia, è consigliabile utilizzare un modulo globale anziché locale.</td>
   </tr>
   <tr> 
    <td>Forms globale</td> 
@@ -127,7 +127,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   <tr> 
    <td>Origine persona</td> 
    <td><li>Si dispone di un programma centralizzato che assegna valori ai campi di origine della persona?</li>
-<p>Nota: il Marketo Engage raccoglie automaticamente i dati in un campo di origine indipendentemente dai programmi operativi.</td>
+<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: il Marketo Engage raccoglie automaticamente i dati in un campo di origine indipendentemente dai programmi operativi.</td>
   </tr>
   <tr> 
    <td>Standardizzazione dati</td> 
@@ -141,7 +141,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
    <td>Privacy e conformità</td> 
    <td><li>Hai programmi per assicurarti di rispettare le leggi sulla privacy dei dati e sulla posta indesiderata? 
    <br/>     Considerare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, ecc.</li>
-<p>Suggerimento: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
   <tr> 
    <td>Ciclo di vita</td> 

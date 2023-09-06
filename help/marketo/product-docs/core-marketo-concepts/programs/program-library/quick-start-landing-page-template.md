@@ -4,9 +4,9 @@ title: Modello per pagina di destinazione rapida
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    * Mostrare o nascondere la sezione
    * Spaziatura superiore della sezione
    * Spaziatura inferiore della sezione
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### Sezione immagine {#image-section}
 
@@ -42,7 +42,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    * Collegamento immagine banner
    * Larghezza banner: una delle opzioni in basso a destra consente di impostare l’immagine come larghezza del contenitore di contenuti o come larghezza dell’intero browser
    * Mostrare o nascondere la sezione
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### Testo a 2 colonne a sinistra, modulo a destra {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    * Mostrare o nascondere l&#39;intera sezione
    * Mostrare o nascondere solo il modulo (se si nasconde il modulo, il testo nella colonna sinistra occuperà la larghezza della pagina. Può essere utilizzato per una pagina di ringraziamento o di conferma in cui non è presente un modulo.)
    * Mostrare o nascondere il testo dell&#39;informativa sulla privacy
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Sezione video {#video-section}
 
@@ -66,7 +66,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    * Codice di incorporamento video
    * Mostra/nascondi titolo video
    * Mostra/nascondi video
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### Sezione piè di pagina {#footer-section}
 
@@ -76,7 +76,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    * Colore di sfondo per sezione
    * Colore icone social
    * Mostra/nascondi sezione
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Variabili aggiuntive {#additional-variables}
 
