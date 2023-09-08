@@ -3,9 +3,9 @@ description: Panoramica dei webinar interattivi - Documentazione di Marketo - Do
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Dopo il webinar, accedi a [analisi delle prestazioni degli eventi](/help/marketo
 **È necessario un abbonamento separato per utilizzare i webinar interattivi?**
 
 No. Per utilizzare i webinar interattivi è necessaria solo una sottoscrizione di Marketo Engage attiva.
+
+**Quali lingue sono disponibili per i webinar interattivi?**
+
+I webinar interattivi sono disponibili in tutte e sei le lingue supportate da Marketo: inglese, francese, tedesco, giapponese, portoghese e spagnolo. Le stesse lingue sono supportate anche da Adobe Connect durante la consegna del webinar tramite webinar interattivi.
 
 **Ho esaurito il numero di webinar interattivi inclusi. Come posso ottenere più sessioni o più capacità?**
 

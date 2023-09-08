@@ -3,9 +3,9 @@ description: Progettazione di webinar interattivi - Documentazione di Marketo - 
 title: Progettazione di webinar interattivi
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Scopri come progettare il webinar in base alle tue esigenze.
 1. Verrà visualizzata l’anteprima del webinar.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!TIP]
+   >
+   >Il webinar verrà impostato sulla lingua predefinita nell’istanza del Marketo Engage, ma puoi scegliere di cambiare lingua per ogni webinar utilizzando il menu a discesa sopra l’anteprima.
 
 1. È possibile selezionare layout diversi per l&#39;anteprima. Per procedere, fai clic su **Usa modello**.
 

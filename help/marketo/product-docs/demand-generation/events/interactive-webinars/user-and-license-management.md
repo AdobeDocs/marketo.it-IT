@@ -3,9 +3,9 @@ description: Gestione di utenti e licenze - Documentazione di Marketo - Document
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -107,3 +107,15 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
 * Ogni volta che un evento viene creato, verrà conteggiato come &quot;consumato&quot; dalla rispettiva licenza (a meno che non si tratti di una licenza per sala condivisa). La preferenza verrà data a &quot;Shared Event License&quot; se sono presenti sia &quot;Shared Event License&quot; che &quot;Shared Room License&quot; della stessa capacità. Se l&#39;evento non è stato consegnato e il programma eventi viene eliminato prima dell&#39;ora pianificata, il conteggio degli eventi viene rifornito sottraendo un evento dagli eventi consumati.
 
 * Una volta esaurita la licenza, il riquadro rimane nella schermata Webinar interattivi della sezione Amministratore con &quot;Eventi totali&quot; e &quot;Eventi consumati&quot; che hanno lo stesso valore. La licenza verrà rimossa dalla schermata solo alla scadenza.
+
+## Accesso utente {#user-access}
+
+I webinar interattivi hanno la funzionalità di regolare l’utilizzo, consentendo agli utenti del Marketo Engage di creare e distribuire webinar interattivi. Tuttavia, un utente di un webinar interattivo (o non utente) potrebbe ancora avere accesso in lettura/modifica ai programmi di eventi di un webinar interattivo creati da altri utenti.
+
+Gli utenti di Marketo che dispongono delle autorizzazioni per i webinar interattivi e sono proprietari di un particolare programma di eventi per webinar interattivi saranno in grado di eseguire tutte le funzioni del webinar interattivo relative a tale programma. Ciò include: creazione, accesso, modifica, clonazione, spostamento ed eliminazione del programma. Tuttavia, una volta che tale utente non è più un utente del webinar interattivo, il proprietario del programma sarebbe in grado di accedere al programma e spostarlo, ma non di eseguire altre funzioni.
+
+Gli utenti di Marketo che hanno ricevuto l’autorizzazione per i webinar interattivi e sono _non_ I proprietari di un particolare programma di eventi di webinar interattivi sarebbero in grado di svolgere funzioni limitate su tali programmi. Gli utenti non amministratori di Marketo potranno accedere al programma e clonarlo, ma non potranno eseguire altre funzioni se dispongono delle autorizzazioni per i webinar interattivi. Tuttavia, gli utenti amministratore di Marketo _will_ essere in grado di eseguire tutte le funzioni, ad esempio accedere al programma, modificarlo, clonarlo, spostarlo ed eliminarlo, purché dispongano delle autorizzazioni per i webinar interattivi. Una volta revocata questa autorizzazione per gli utenti amministratori e non amministratori di Marketo, questi potranno solo accedere al Programma di eventi del webinar interattivo e non potranno eseguire altre funzioni.
+
+La limitazione delle funzioni utilizzabili è indicata da un pulsante di azione disattivato e da un messaggio al passaggio del mouse. Alcuni esempi dei pulsanti di azione disattivati sono &quot;Progettare il webinar&quot; o &quot;Immettere il webinar&quot;. Per le funzioni non utilizzabili, viene fornito un messaggio che evidenzia le restrizioni. Vedi l’esempio seguente:
+
+![](assets/user-and-license-management-12.png)
