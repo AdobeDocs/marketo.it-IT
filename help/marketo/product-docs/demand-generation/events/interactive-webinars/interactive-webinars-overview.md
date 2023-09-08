@@ -3,9 +3,9 @@ description: Panoramica dei webinar interattivi - Documentazione di Marketo - Do
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 2aa7c1cb3d41ef9fa4eb5906d2ac8f631ce8e209
+source-git-commit: 7d01503c6cf7c52e9f30b76cedc33e7150557fae
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ La funzione dei webinar interattivi è la nostra piattaforma integrata all’int
 
 >[!IMPORTANT]
 >
->I webinar interattivi basati su Adobe Connect sono una funzione con integrazione incorporata in Adobe Connect. L’utilizzo dei webinar interattivi sarà soggetto a termini e condizioni aggiuntivi.  Rivedi il contratto o [Adobe di contatto](https://nation.marketo.com/t5/support/ct-p/Support) per richiedere informazioni sui termini e le condizioni aggiuntive.
+>I webinar interattivi basati su Adobe Connect sono una funzione con integrazione incorporata in Adobe Connect. L’utilizzo dei webinar interattivi sarà soggetto a termini e condizioni aggiuntivi. Rivedi il contratto o l&#39;Adobe di contatto per informazioni sui termini e le condizioni aggiuntive.
 
 ## Cos’è un webinar interattivo? {#what-is-interactive-webinars}
 
