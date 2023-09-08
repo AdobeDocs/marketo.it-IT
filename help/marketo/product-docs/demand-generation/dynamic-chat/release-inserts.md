@@ -4,9 +4,9 @@ title: Configurazione iniziale
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -75,106 +75,251 @@ Nuove attività per supportare flussi conversazionali, chat in diretta e altre n
 
 ### Token di attivazione Dynamic Chat {#dynamic-chat-trigger-tokens}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col>
-  <col>
-  <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Page URL}}</code></th> 
-   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
-   <th><code>{{trigger.Conversation Status}}</code></th> 
-   <th><code>{{trigger.Agent Name}}</code></th> 
-   <th><code>{{trigger.Agent Email}}</code></th> 
-   <th><code>{{trigger.Scheduled For}}</code></th> 
-   <th><code>{{trigger.Goal name}}</code></th> 
-   <th><code>{{trigger.Document Name}}</code></th> 
-   <th><code>{{trigger.Document URL}}</code></th>
-   <th><code>{{trigger.Document Opened}}</code></th>
-   <th><code>{{trigger.Document Downloaded}}</code></th>
-  </tr> 
-  <tr> 
-   <td>Coinvolto con una finestra di dialogo</td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><br></td> 
-   <td></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Riunione pianificata in una finestra di dialogo</td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Obiettivo finestra di dialogo raggiunto</td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
+<table>
+<thead>
+  <tr>
+    <th> </th>
+    <th><code>{{trigger.Agent Email}}</code></th>
+    <th><code>{{trigger.Agent Name}}</code></th>
+    <th><code>{{trigger.Conversation Status}}</code></th>
+    <th><code>{{trigger.Conversation Summary}}</code></th>
+    <th><code>{{trigger.Conversation Transcript}}</code></th>
+    <th><code>{{trigger.Document Downloaded}}</code></th>
+    <th><code>{{trigger.Document Name}}</code></th>
+    <th><code>{{trigger.Document Opened}}</code></th>
+    <th><code>{{trigger.Document URL}}</code></th>
+    <th><code>{{trigger.Goal name}}</code></th>
+    <th><code>{{trigger.meeting status}}</code></th>
+    <th><code>{{trigger.Name}}</code></th>
+    <th><code>{{trigger.Page URL}}</code></th>
+    <th><code>{{trigger.routing queue name}}</code></th>
+    <th><code>{{trigger.Scheduled For}}</code></th>
+    <th><code>{{trigger.source name}}</code></th>
+    <th><code>{{trigger.source type}}</code></th>
+    <th><code>{{trigger.Trigger Name}}</code></th>
+    <th><code>{{trigger.ui type}}</code></th>
   </tr>
-  <tr> 
-   <td>Interazione con il documento nella finestra di dialogo</td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-   <td><img src="assets/check.png" alt="spunta"></td> 
-  </tr> 
- </tbody> 
+</thead>
+<tbody>
+  <tr>
+    <td>Coinvolto con una finestra di dialogo</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Coinvolto con un modulo conversazionale</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+  </tr>
+  <tr>
+    <td>Coinvolto con un agente nella finestra di dialogo</td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Coinvolto con un agente in modulo conversazionale</td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Riunione pianificata nella finestra di dialogo</td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Riunione pianificata in modulo conversazionale</td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Obiettivo finestra di dialogo raggiunto</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Obiettivo modulo conversazionale raggiunto</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interazione con il documento nella finestra di dialogo</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interazione con il documento nel modulo conversazionale</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td><img src="assets/check.png" alt="spunta"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
 </table>

@@ -4,9 +4,9 @@ title: Designer flusso
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '980'
 ht-degree: 2%
 
 ---
@@ -48,6 +48,16 @@ Lo stream designer contiene più schede che è possibile aggiungere per modellar
  <tr>
   <td><strong>Obiettivo</strong></td>
   <td>Questa è l'unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all’interno della chat specifica (ad esempio, se l’obiettivo è la raccolta dell’e-mail del visitatore, inserisci la scheda Obiettivo immediatamente dopo Info Capture nel flusso).</td>
+ </tr>
+ <tr>
+  <td><strong>Azione</strong></td>
+  <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile popolare qualsiasi attributo del lead o dell’azienda con valori impliciti che si desidera acquisire in base a un record del lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.</td>
+ </tr>
+ <tr>
+  <td><strong>Chat in tempo reale</strong></td>
+  <td>Utilizza la scheda chat in diretta quando desideri che i visitatori chattino con un agente in diretta.
+  <li>La scheda della chat live deve essere l’ultima scheda del ramo</li>
+  <li>I visitatori verranno indirizzati a un agente non appena raggiungeranno questa scheda nel flusso, pertanto si consiglia di anteporre a questa scheda una scheda con le domande che chiedono ai visitatori se desiderano chattare con un agente live</li></td>
  </tr>
 </table>
 

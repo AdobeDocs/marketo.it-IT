@@ -1,16 +1,18 @@
 ---
-description: Doc - Documentazione di Marketo - Documentazione del prodotto
-title: Doc
+description: Casella in entrata agente - Documentazione Marketo - Documentazione del prodotto
+title: Casella in entrata agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 0%
+source-wordcount: '24'
+ht-degree: 16%
 
 ---
 
-# Doc {#doc}
+# Casella in entrata agente {#agent-inbox}
 
 In arrivo
+
+Conversazioni attive Tutte le conversazioni Calendario condivisione Informazioni sul visitatore Attività recenti del Dynamic Chat
