@@ -4,9 +4,9 @@ title: Comportamento con punteggio OP
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '350'
 ht-degree: 11%
 
 ---
@@ -155,6 +155,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## I miei token inclusi {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
-
 ## Regole di conflitto {#conflict-rules}
 
 * **Tag del programma**
@@ -261,8 +261,6 @@ SCHERMATA DEL PROGRAMMA
 * **Modelli e-mail con lo stesso nome**
    * Mantieni entrambi i modelli - _Consigliato_
    * Sostituisci modello esistente
-
-SCHERMATA DELLE REGOLE DI CONFLITTO
 
 ## Best practice {#best-practices}
 

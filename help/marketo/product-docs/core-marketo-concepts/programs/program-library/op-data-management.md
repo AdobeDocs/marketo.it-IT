@@ -4,9 +4,9 @@ title: Gestione dei dati operativi
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '323'
 ht-degree: 2%
 
 ---
@@ -168,7 +168,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
+![](assets/op-data-management-1.png)
 
 ## Regole di conflitto {#conflict-rules}
 
@@ -187,8 +187,6 @@ SCHERMATA DEL PROGRAMMA
 * **Modelli e-mail con lo stesso nome**
    * Mantieni entrambi i modelli - _Consigliato_
    * Sostituisci modello esistente
-
-SCHERMATA DELLE REGOLE DI CONFLITTO
 
 ## Best practice {#best-practices}
 

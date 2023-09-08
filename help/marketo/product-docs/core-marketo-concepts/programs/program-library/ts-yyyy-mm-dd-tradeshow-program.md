@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD-Tradeshow
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---
@@ -110,6 +110,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
+![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
+
 ## I miei token inclusi {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -177,8 +179,6 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
-
 ## Regole di conflitto {#conflict-rules}
 
 * **Tag del programma**
@@ -196,8 +196,6 @@ SCHERMATA DEL PROGRAMMA
 * **Modelli e-mail con lo stesso nome**
    * Mantieni entrambi i modelli
    * Sostituisci modello esistente - _Consigliato_
-
-SCHERMATA DELLE REGOLE DI CONFLITTO
 
 ## Best practice {#best-practices}
 

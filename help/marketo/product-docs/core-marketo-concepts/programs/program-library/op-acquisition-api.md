@@ -4,9 +4,9 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -61,7 +61,7 @@ Questo programma di esempio Ã¨ destinato ai processi operativi per monitorare lâ
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
+![](assets/op-acquisition-api-1.png)
 
 ## Regole di conflitto {#conflict-rules}
 
@@ -80,8 +80,6 @@ SCHERMATA DEL PROGRAMMA
 * **Modelli e-mail con lo stesso nome**
    * Mantieni entrambi i modelli - _Consigliato_
    * Sostituisci modello esistente
-
-SCHERMATA DELLE REGOLE DI CONFLITTO
 
 ## Best practice {#best-practices}
 

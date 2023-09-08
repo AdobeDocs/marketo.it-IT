@@ -4,9 +4,9 @@ title: OP-Scoring-Demografico
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '313'
 ht-degree: 16%
 
 ---
@@ -130,6 +130,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
+![](assets/op-scoring-demographic-1.png)
+
 ## I miei token inclusi {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -232,8 +234,6 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-SCHERMATA DEL PROGRAMMA
-
 ## Regole di conflitto {#conflict-rules}
 
 * **Tag del programma**
@@ -251,8 +251,6 @@ SCHERMATA DEL PROGRAMMA
 * **Modelli e-mail con lo stesso nome**
    * Mantieni entrambi i modelli - _Consigliato_
    * Sostituisci modello esistente
-
-SCHERMATA DELLE REGOLE DI CONFLITTO
 
 ## Best practice {#best-practices}
 
