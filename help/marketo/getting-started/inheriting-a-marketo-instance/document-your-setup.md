@@ -3,10 +3,10 @@ description: Documento istanza ereditato La tua configurazione - Documentazione 
 title: Documento istanza ereditata Configurazione
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 2%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
    <td>Input</td> 
    <td><li>Quali sistemi inseriscono i dati nel Marketo Engage?</li>
    <li>Caricano i dati nei programmi o nel database? Se i programmi, quali?</li>
-   <p>Elemento azione: consente di creare un dizionario dati o una tabella di mappatura campi tra i sistemi.</td>
+   <p><img src="assets/action-item-icon.png" alt="icona azione">Elemento azione: consente di creare un dizionario dati o una tabella di mappatura campi tra i sistemi.</td>
   </tr>
   <tr> 
    <td>Output</td> 
@@ -51,7 +51,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr> 
    <td>Organizzazione</td> 
     <td><li>Hai una solida documentazione su come è organizzata la tua istanza di Marketo Engage e perché?</li>
-   <p>Azione: crea la documentazione che contiene la struttura delle cartelle, la convenzione di denominazione e i canali utilizzati nell’istanza.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="icona azione">Azione: crea la documentazione che contiene la struttura delle cartelle, la convenzione di denominazione e i canali utilizzati nell’istanza.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
  </tbody> 
 </table>
 
-[◄ Controllo di un&#39;istanza ereditata: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄ Controllo di un&#39;istanza ereditata: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
