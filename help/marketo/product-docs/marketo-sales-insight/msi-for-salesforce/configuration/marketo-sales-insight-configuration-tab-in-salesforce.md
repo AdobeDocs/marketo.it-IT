@@ -4,9 +4,9 @@ description: Scheda Configurazione di Marketo Sales Insight in Salesforce - Docu
 title: Scheda Configurazione di Marketo Sales Insight in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 * Feed RSS abilitato: se abilitato, gli utenti MSI possono visualizzare il proprio feed di lead in un feed RSS (oltre al feed di lead in Salesforce). Il feed RSS può funzionare solo se la funzione &quot;Scadenza token&quot; è disabilitata. Questa impostazione è controllata nella pagina di amministrazione di Marketo Sales Insight.
 * Modalità di debug elementi di maggiore rilevanza
 * Nascondi predefinito: l’opzione scelta qui corrisponde al numero di giorni in cui la puntata migliore verrà nascosta nella scheda Elementi di maggiore rilevanza in Marketo, quando si fa clic sull’icona &quot;Nascondi&quot;
-* Campo stato contatto: l’opzione scelta qui sarà il valore inserito nella colonna Intestazione stato della scheda Elementi di maggiore rilevanza in Marketo
+* Campo stato contatto: l&#39;opzione scelta in questo campo sarà il valore inserito nella colonna Intestazione stato della scheda Elementi di maggiore rilevanza di Marketo
 * Impostazioni feed live: opzione che consente di visualizzare solo feed live (nei pannelli Lead, Contatto, Account e Opportunità e nella pagina Marketo globale), solo feed lead (nella pagina globale di Marketo) o entrambi
 * Impostazioni scheda: per impostazione predefinita, tutte e cinque le schede sono disponibili. È possibile scegliere l&#39;ordine delle schede nella pagina globale di Marketo
 
@@ -63,11 +63,17 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
+## Impostazioni di supporto {#support-settings}
+
+Selezionando questa casella di controllo verrà abilitata la registrazione di debug nell’istanza Salesforce. Può essere utile per risolvere eventuali problemi.
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
 ## Reimposta approfondimenti vendite Marketo {#reset-marketo-sales-insight}
 
 La scelta di eseguire questa operazione cancellerà tutte le configurazioni in SFDC e non potranno essere ripristinate. Dovrai riconfigurare tutto.
 
-![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
 >[!IMPORTANT]
 >

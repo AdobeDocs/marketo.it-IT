@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 0%
       + [Elementi da disattivare](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Aspetti da considerare: competenze di base](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Come ottenere assistenza](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Nuovo documento ereditarietà 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [Nuovo documento ereditarietà 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [Nuovo documento ereditarietà 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [Nuovo documento ereditarietà 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [Nuovo documento ereditarietà 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [Istanza ereditata: elenco di controllo sezione amministratore](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [Istanza ereditata: elenco di controllo del database](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [Istanza ereditata: elenco di controllo delle attività di marketing](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [Istanza ereditata: elenco di controllo di Design Studio](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [Istanza ereditata: documenta la configurazione](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Documentazione del prodotto {#product-docs}
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
