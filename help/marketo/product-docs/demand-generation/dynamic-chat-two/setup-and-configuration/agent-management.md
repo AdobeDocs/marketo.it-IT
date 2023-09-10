@@ -1,16 +1,18 @@
 ---
-description: Doc - Documentazione di Marketo - Documentazione del prodotto
-title: Doc
+description: Gestione degli agenti - Documentazione di Marketo - Documentazione del prodotto
+title: Gestione agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Doc {#doc}
+# Gestione agente {#agent-management}
 
-In arrivo
+In Gestione agenti, visualizza un elenco di agenti nell’istanza di Dynamic Chat, gestisci i team e imposta le regole di fallback.
+
+Regole di fallback gestione team elenco agenti

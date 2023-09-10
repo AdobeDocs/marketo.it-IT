@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 1%
@@ -651,14 +651,14 @@ ht-degree: 1%
          + [Panoramica del Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
          + [Comportamento chatbot](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
          + [Elenco riunioni](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Attività Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Attività Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Chat automatizzata {#automated-chat}
             + [Panoramica dei flussi conversazionali](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Creare un flusso conversazionale](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [Impostazioni del flusso conversazionale](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [SDK conversazioni](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
-            + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Creare una finestra di dialogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Criteri di audience](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [Designer flusso](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)

@@ -4,16 +4,18 @@ title: Impostazioni agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 2%
+source-wordcount: '249'
+ht-degree: 3%
 
 ---
 
 # Impostazioni agente {#agent-settings}
 
 Nella scheda Calendario connettere il calendario di Outlook o Gmail per la pianificazione degli appuntamenti nel chatbot.
+
+## Connetti calendario {#connect-calendar}
 
 ![](assets/agent-settings-1.png)
 
@@ -31,7 +33,7 @@ Gli utenti possono inoltre personalizzare il corpo dell’invito inviato al visi
 >
 >Utilizza l’icona del token (parentesi graffe) per personalizzare le e-mail di conferma della prenotazione della riunione utilizzando gli attributi della persona o dell’azienda.
 
-## Autorizzazioni {#permissions}
+### Autorizzazioni {#permissions}
 
 La configurazione con Outlook concede le seguenti autorizzazioni al Dynamic Chat:
 
@@ -47,3 +49,15 @@ La configurazione con Google concede le seguenti autorizzazioni al Dynamic Chat:
 * Modifica le impostazioni, compreso chi può visualizzare gli eventi
 * Modifica l&#39;utente con cui è condiviso il calendario
 * Accesso a nome, indirizzo e-mail, preferenza della lingua e immagine del profilo
+
+## Impostazioni disponibilità chat in tempo reale {#live-chat-availability-settings}
+
+Testo
+
+## Impostazioni di disponibilità prenotazione riunioni {#meeting-booking-availability-settings}
+
+Testo
+
+## Durata riunione e tempo buffer {#meeting-length-and-buffer-time}
+
+Testo
