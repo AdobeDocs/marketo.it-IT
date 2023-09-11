@@ -4,10 +4,10 @@ title: Panoramica del Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 2%
+source-wordcount: '665'
+ht-degree: 1%
 
 ---
 
@@ -109,90 +109,29 @@ Per cambiare la lingua del Dynamic Chat, eseguire la procedura seguente.
 
 Quando aggiorni la lingua, tutto ciò che si trova nell’app stessa cambia, tranne le parole che hai popolato personalmente (ad esempio, le risposte in streaming).
 
-## Limiti nel Dynamic Chat {#limits-in-dynamic-chat}
+## Limiti Dynamic Chat di conservazione dei dati {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Parametro</th>
-  <th>Descrizione</th>
-  <th>Limite</th>
+  <th>Tipo di dati</th>
+  <th>Periodo di conservazione</th>
  <tr>
-  <td>Finestre di dialogo totali</td>
-  <td>Numero di dialoghi (pubblicati e bozza)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Calendari totali</td>
-  <td>Numero di calendari connessi</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Utenti totali (amministratori e utenti marketing)</td>
-  <td>Numero di utenti combinati consentiti per istanza di Dynamic Chat</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Finestre di dialogo pubblicate</td>
-  <td>Numero di finestre di dialogo pubblicate salvate</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>URL di destinazione per finestra di dialogo</td>
-  <td>Numero di URL di destinazione che possono essere aggiunti a una singola finestra di dialogo</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Attributi per finestra di dialogo</td>
-  <td>Numero di attributi che possono essere aggiunti ai criteri di pubblico per una singola finestra di dialogo</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Gruppi</td>
-  <td>Numero di gruppi che è possibile aggiungere a una singola finestra di dialogo</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Attributi per gruppo</td>
-  <td>Numero di attributi che possono essere aggiunti a un gruppo</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Schede</td>
-  <td>Numero di schede che possono essere aggiunte all’area di lavoro per finestra di dialogo</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Periodo di conservazione dati lead anonimi</td>
-  <td>Durata del periodo di conservazione delle informazioni di un lead anonimo senza alcun coinvolgimento</td>
+  <td>Lead anonimo senza alcun coinvolgimento</td>
   <td>90 giorni</td>
  </tr>
  <tr>
-  <td>Periodo di conservazione attività obiettivo</td>
-  <td>Quantità di tempo in cui i dati dell’attività obiettivo vengono conservati</td>
+  <td>Attività obiettivo</td>
   <td>24 mesi</td>
  </tr>
  <tr>
-  <td>Periodo di conservazione attività documenti</td>
-  <td>Quantità di tempo in cui i dati dell'attività del documento vengono conservati</td>
+  <td>Attività documento</td>
   <td>24 mesi</td>
  </tr>
  <tr>
-  <td>Interazione con periodo di conservazione attività finestra di dialogo</td>
-  <td>Quantità di tempo di conservazione dei dati dell’attività interazione con il dialogo</td>
+  <td>Interazione con attività finestra di dialogo</td>
   <td>90 giorni</td>
  </tr>
  <tr>
-  <td>Periodo di conservazione attività prenotazione riunione</td>
-  <td>Quantità di tempo per la prenotazione della riunione memorizzata nel Dynamic Chat</td>
+  <td>Attività prenotazione riunioni</td>
   <td>24 mesi</td>
- </tr>
- <tr>
-  <td>Conversazioni coinvolte</td>
-  <td>Numero di conversazioni chat che possono essere avviate con i visitatori Web al mese</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Conversazioni attivate</td>
-  <td>Numero di conversazioni chat che possono essere mostrate ai visitatori Web al mese</td>
-  <td>25,000</td>
  </tr>
 </table>

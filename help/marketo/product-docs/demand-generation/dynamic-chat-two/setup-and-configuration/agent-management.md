@@ -4,9 +4,9 @@ title: Gestione agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ In Gestione agenti, visualizza un elenco di agenti nell’istanza di Dynamic Cha
 
 Questa scheda elenca tutti gli agenti nell’istanza di Dynamic Chat e include informazioni quali nome, indirizzo e-mail, stato della chat in tempo reale e altro ancora.
 
-PICC2 - SCHERMATA NECESSARIA DAI RAGAZZI
+![](assets/agent-management-2.png)
 
 ## Team {#teams}
 

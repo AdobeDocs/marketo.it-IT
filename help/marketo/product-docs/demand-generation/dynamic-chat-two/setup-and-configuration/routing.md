@@ -4,9 +4,9 @@ title: Indirizzamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Regola personalizzata: è possibile scegliere agenti specifici per ricevere riun
 
 In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA all&#39;agente John.
 
-1. In Dynamic Chat, seleziona **Indirizzamento**.
+1. In Configurazione, fai clic su **Regole di instradamento**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA
 
    ![](assets/routing-3.png)
 
-1. Assegna un nome alla regola e fai clic su **Successivo**.
+1. Denomina la regola. Facoltativamente, puoi aggiungere una descrizione e impostarne il livello di priorità. Clic **Successivo**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA
 1. Dopo aver selezionato tutti i valori desiderati, fai clic su **Salva**.
 
    ![](assets/routing-8.png)
+
+
+## Indirizzamento account {#account-routing}
+
+Identifica e carica il tuo account di destinazione e i rispettivi proprietari delle vendite e indirizza i visitatori provenienti da tali account direttamente al rispettivo proprietario dell’account.
+
+![](assets/routing-9.png)
+
+Indirizzamento team
+
+Membro del routing dell&#39;elenco avanzato
