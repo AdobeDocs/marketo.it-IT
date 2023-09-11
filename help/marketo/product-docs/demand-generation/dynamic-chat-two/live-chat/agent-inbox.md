@@ -4,9 +4,9 @@ title: Casella in entrata agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -27,6 +27,10 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 >
 >**Questo sostituirà** il [disponibilità live chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) è stato stabilito in Impostazioni agente. Lo stato rimarrà fino al ripristino o al successivo blocco di tempo della disponibilità.
 
+>[!NOTE]
+>
+>Se imposti lo stato su Non disponibile, le chat attive non verranno influenzate.
+
 ## Accettazione di una chat in diretta {#accepting-a-live-chat}
 
 Quando una chat in diretta viene indirizzata all&#39;agente, vede un banner blu nella parte superiore dello schermo che chiede di accettare.
@@ -36,7 +40,6 @@ Quando una chat in diretta viene indirizzata all&#39;agente, vede un banner blu 
 ### Aspetti da considerare {#things-to-note}
 
 * Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accept chat&quot; (Accetta chat).
-* SUGGERIMENTO BROWSER
 * Al momento esiste un limite di 10 chat live per agente
 
 ## Conversazioni {#conversations}
@@ -44,6 +47,10 @@ Quando una chat in diretta viene indirizzata all&#39;agente, vede un banner blu 
 Sul lato sinistro della schermata Casella in entrata agente è possibile scegliere di visualizzare solo le conversazioni attive o tutte.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>Anche se puoi vedere conversazioni passate (inattive) da te stesso e da altri agenti, potrai vedere solo le tue conversazioni attive.
 
 ## Informazioni visitatore {#visitor-information}
 
@@ -61,4 +68,18 @@ Sotto le informazioni sul visitatore si trova la cronologia delle attività. Vis
 >
 >Le informazioni vengono visualizzate solo per gli ultimi 90 giorni.
 
-Conversazioni attive- Tutte le conversazioni- Condivisione calendario Informazioni visitatore- Attività di Dynamic Chat recenti
+## Condivisione calendario {#calendar-sharing}
+
+Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti consente di condividere il calendario del tuo agente o di un altro agente con il visitatore della chat.
+
+1. Fai clic sull’icona del calendario.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Scegli il calendario agente desiderato e fai clic su **Invia**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. Il visitatore della chat sarà in grado di prenotare una riunione.
+
+   ![](assets/agent-inbox-9.png)

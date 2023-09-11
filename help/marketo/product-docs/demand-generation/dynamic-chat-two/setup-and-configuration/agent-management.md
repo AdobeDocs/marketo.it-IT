@@ -4,9 +4,9 @@ title: Gestione agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ In Gestione agenti, visualizza un elenco di agenti nell’istanza di Dynamic Cha
 
 ## Agenti {#agents}
 
-Questa scheda elenca tutti gli agenti nell’istanza del Dynamic Chat e include informazioni quali nome, indirizzo e-mail, stato della chat in tempo reale e altro ancora.
+Questa scheda elenca tutti gli agenti nell’istanza di Dynamic Chat e include informazioni quali nome, indirizzo e-mail, stato della chat in tempo reale e altro ancora.
 
 PICC2 - SCHERMATA NECESSARIA DAI RAGAZZI
 
@@ -63,7 +63,7 @@ Seleziona un messaggio standard (di sistema) o scrivine uno personalizzato che i
 
 >[!NOTE]
 >
->Selezione del **Includi opzione di prenotazione riunione** La casella di controllo genera un widget per la prenotazione di una riunione per il visitatore della chat.
+>Selezione del **Includi opzione di prenotazione riunione** la casella di controllo consente al visitatore della chat di prenotare una riunione quando non sono disponibili agenti per la chat in diretta.
 
 >[!TIP]
 >
