@@ -4,30 +4,28 @@ title: Creare un flusso conversazionale
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Creare un flusso conversazionale {#create-a-conversational-flow}
 
-Progetta un flusso conversazionale e attivalo per qualsiasi visitatore in base a un’azione specifica (ad esempio, clic su un pulsante di invito all’azione, al caricamento della pagina, tempo trascorso sulla pagina, ecc.).
-
-Menzionare la differenza rispetto alle finestre di dialogo???????????
+Ecco come creare un nuovo flusso conversazionale.
 
 1. In Chat automatizzata, fai clic su **Flussi conversazionali**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. Clic **Crea flusso conversazionale**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. Scegli un flusso conversazionale vuoto o uno dei modelli precompilati. Immetti un nome (la descrizione è facoltativa), cambia la lingua (facoltativo) e fai clic su **Crea**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >

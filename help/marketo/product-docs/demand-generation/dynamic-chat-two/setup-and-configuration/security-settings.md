@@ -4,9 +4,9 @@ title: Impostazioni di protezione
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,6 @@ Nelle impostazioni di protezione è possibile aggiungere domini a un elenco Cons
 1. Seleziona la **Abilita convalida** cursore per attivare il inserisco nell&#39;elenco Bloccati di. Inserisci fino a 50 domini e fai clic su **Salva**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->Accertarsi che **NOT** da aggiungere `adobeeventlab.com` all&#39;elenco Bloccati o??? DISATTIVA CHAT???
 
 ## Domini consentiti {#allowed-domains}
 
