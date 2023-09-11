@@ -4,7 +4,7 @@ title: Designer flusso
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -56,8 +56,8 @@ Lo stream designer contiene più schede che è possibile aggiungere per modellar
  <tr>
   <td><strong>Chat in tempo reale</strong></td>
   <td>Utilizza la scheda chat in diretta quando desideri che i visitatori chattino con un agente in diretta.
-  <li>La scheda della chat live deve essere l’ultima scheda del ramo</li>
-  <li>I visitatori verranno indirizzati a un agente non appena raggiungeranno questa scheda nel flusso, pertanto si consiglia di anteporre a questa scheda una scheda con le domande che chiedono ai visitatori se desiderano chattare con un agente live</li></td>
+  <li>La scheda chat live deve essere l'ultima scheda del ramo.</li>
+  <li>I visitatori verranno indirizzati a un agente non appena raggiungono questa scheda nel flusso, pertanto si consiglia di anteporre a questa scheda una scheda con le domande che chiedono ai visitatori se desiderano chattare con un agente live.</li></td>
  </tr>
 </table>
 

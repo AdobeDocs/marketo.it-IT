@@ -4,9 +4,9 @@ title: Gestione agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,10 @@ Selezionare un messaggio standard (di sistema) o scriverne uno personalizzato ch
 Seleziona un messaggio standard (di sistema) o scrivine uno personalizzato che i visitatori visualizzino quando la chat in diretta non è disponibile.
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>Selezione del **Includi opzione di prenotazione riunione** La casella di controllo genera un widget per la prenotazione di una riunione per il visitatore della chat.
 
 >[!TIP]
 >
