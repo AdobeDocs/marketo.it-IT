@@ -4,9 +4,9 @@ title: Adobe Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '260'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## Dynamic Chat di connessione {#connecting-dynamic-chat}
 
-Dopo aver completato la [configurazione iniziale](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, è ora di eseguire il Dynamic Chat di connessione per la sincronizzazione una tantum con la sottoscrizione a Marketo.
+Dopo aver completato la [configurazione iniziale](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, è ora di eseguire il Dynamic Chat di connessione per la sincronizzazione una tantum con la sottoscrizione a Adobe Marketo Engage.
 
 1. In Il mio Marketo, fai clic su **Dynamic Chat** affiancare.
 

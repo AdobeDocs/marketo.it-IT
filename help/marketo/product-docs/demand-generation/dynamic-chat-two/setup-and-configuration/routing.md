@@ -4,7 +4,7 @@ title: Indirizzamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 1%
@@ -54,7 +54,6 @@ In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA
 1. Dopo aver selezionato tutti i valori desiderati, fai clic su **Salva**.
 
    ![](assets/routing-8.png)
-
 
 ## Indirizzamento account {#account-routing}
 

@@ -4,7 +4,7 @@ title: Panoramica chat in diretta
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 2%
@@ -26,7 +26,7 @@ Utilizza la scheda della chat in tempo reale in [stream designer](/help/marketo/
 **Best practice**
 
 * Utilizza una scheda domande prima della scheda chat in diretta in cui si chiede al visitatore se desidera connettersi.
-* Una volta che il visitatore accetta di connettersi, utilizza la scheda di acquisizione informazioni per ottenere alcune delle sue informazioni, come nome/cognome, indirizzo e-mail, qualifica del lavoro, ecc. (si consiglia di richiedere almeno nome e indirizzo e-mail)
+* Una volta che il visitatore accetta di connettersi, utilizza la scheda di acquisizione delle informazioni per raccogliere alcune delle sue informazioni, come nome/cognome, indirizzo e-mail, qualifica professionale, ecc. (si consiglia di richiedere almeno nome e indirizzo e-mail).
 
 ## Opzioni scheda chat in diretta {#live-chat-card-options}
 

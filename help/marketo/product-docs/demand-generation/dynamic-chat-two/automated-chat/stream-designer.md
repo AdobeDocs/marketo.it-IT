@@ -4,9 +4,9 @@ title: Designer flusso
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,11 @@ Lo stream designer contiene più schede che è possibile aggiungere per modellar
  </tr>
  <tr>
   <td><strong>Modulo di programmazione appuntamenti</strong></td>
-  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">il prossimo agente in linea</a>.</td>
+  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">il prossimo agente in linea</a>. È inoltre disponibile un'opzione per trasmettere attributi quali il nome o l'indirizzo e-mail dell'agente.</td>
+ </tr>
+ <tr>
+  <td><strong>Prenotazione riunione</strong></td>
+  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, di un agente specifico o utilizzando regole personalizzate.</td>
  </tr>
  <tr>
   <td><strong>Obiettivo</strong></td>
@@ -68,19 +72,19 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Aggiunge una griglia allo sfondo per coloro che preferiscono tale visualizzazione</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Ingrandisce, creando schede più grandi</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Esegue lo zoom indietro, creando schede più piccole</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Apre una finestra per il test della chat (premere lo stesso pulsante per chiudere)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Consente di cercare tipi di schede o contenuti all’interno del flusso</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 >* [Criteri di audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Rapporti](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [Utilizzo della scheda documento](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

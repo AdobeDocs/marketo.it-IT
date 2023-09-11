@@ -4,9 +4,9 @@ title: Criteri di audience
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,6 @@ La priorità determina quale finestra di dialogo riceve un lead nel caso in cui 
 
 ## Eventi {#events}
 
-![](assets/audience-criteria-2.png)
-
 Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimento o alla durata della loro presenza sulla pagina/sito. Nell’esempio seguente, eseguiamo il targeting dei visitatori che si trovano su una pagina specifica da più di 20 secondi.
 
 1. Acquisisci **Tempo sulla pagina** e trascinarlo a destra.
@@ -40,8 +38,6 @@ Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimen
    ![](assets/audience-criteria-5.png)
 
 ## Attributi {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **Persone note**
 
@@ -96,6 +92,18 @@ Esiste un modo semplice per eseguire il targeting specifico delle persone che no
 1. _È_ è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-15.png)
+
+## Iscrizione {#membership}
+
+Utilizza gli elenchi avanzati di Marketo Engage per il pubblico di destinazione della finestra di dialogo.
+
+1. In Iscrizione, accedi **Membro di elenco avanzato** e lo rilasci sull&#39;area di lavoro.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Selezionare l&#39;elenco avanzato desiderato.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Aggiungi gruppi {#add-groups}
 
