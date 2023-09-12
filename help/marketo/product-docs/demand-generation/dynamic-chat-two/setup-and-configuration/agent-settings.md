@@ -4,9 +4,9 @@ title: Impostazioni agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ Impostare il fuso orario e l&#39;ora/giorno della settimana per ricevere le pren
  <tbody> 
   <tr> 
    <td><b>Durata riunione</b></td>
-   <td>Lunghezza massima della riunione. - COSA SUCCEDE? L'AUTO SI FERMA COME ZOOM?</td>
+   <td>Determina il periodo di tempo che i visitatori visualizzeranno negli spazi riunioni disponibili.</td>
   </tr> 
   <tr> 
    <td><b>Tempo di buffer tra riunioni</b></td>
