@@ -4,7 +4,7 @@ title: Impostazioni del flusso conversazionale per Marketi Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Rendi conversazionale Forms di Marketo Engage integrandolo con Flussi conversazi
 
    >[!NOTE]
    >
-   >[Ulteriori informazioni sui flussi conversazionali](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md){target="_blank"}
+   >[Ulteriori informazioni sui flussi conversazionali](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
 
    **PASSAGGIO FACOLTATIVO**: puoi fare clic su Aggiungi scelta per rivolgerti ai visitatori della chat che soddisfano un criterio specifico.
 
