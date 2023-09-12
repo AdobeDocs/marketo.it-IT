@@ -4,9 +4,9 @@ title: Impostazioni del flusso conversazionale per Marketi Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Impostazioni del flusso conversazionale per Marketi Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}
 
 Rendi conversazionale Forms di Marketo Engage integrandolo con Flussi conversazionali di Dynamic Chat. Qualifica immediatamente i lead utilizzando i dati del modulo o l&#39;iscrizione a elenchi avanzati per prenotazioni di riunioni, collegamenti a white paper o obiettivi personalizzati.
-
->[!PREREQUISITES]
->
->AGGIUNGI PREREQ QUI
 
 >[!AVAILABILITY]
 >

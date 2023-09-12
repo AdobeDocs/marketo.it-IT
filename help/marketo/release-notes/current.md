@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 2%
 
 ---
@@ -328,6 +328,6 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 ## Annunci {#announcements}
 
-* **Attiva/disattiva opzione obsoleta per Design Studio Assets**: lo switch di attivazione che consente agli utenti di passare dall’interfaccia classica all’esperienza UX moderna per Design Studio diventerà obsoleto, insieme alla vecchia versione dell’esperienza Design Studio, consentendo agli utenti di migrare completamente all’esperienza UX moderna.
+* **Attiva/disattiva opzione obsoleta per Design Studio Assets**: lo switch di attivazione che consente agli utenti di passare dall’interfaccia classica all’esperienza UX moderna per Design Studio diventerà obsoleto, insieme alla vecchia versione dell’esperienza Design Studio, consentendo agli utenti di migrare completamente all’esperienza UX moderna. [Fai clic qui per ulteriori informazioni](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_Webinar sulla versione del prodotto_**: Unisciti a noi il 6 settembre 2023, alle 9:00 PT / 12:00 PM ET per un [webinar live](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} organizzato dal nostro team di prodotto, dove scoprirai come utilizzare tutte le ultime innovazioni dei prodotti.

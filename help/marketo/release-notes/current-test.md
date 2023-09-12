@@ -4,9 +4,9 @@ title: Test note sulla versione corrente
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 2%
 
 ---
@@ -117,11 +117,9 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 * più spazio
 
-* fine del test... PER IL MOMENTO
-
 * **Colonna Utilizzato da conteggio per le risorse di Design Studio**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Stato</b></td>
    <td><b>Aggiornamenti alla documentazione</b></td>
@@ -135,7 +133,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 * **Utilizzo dei miglioramenti apportati alle schede per le risorse di Design Studio**: la scheda Utilizzato da miglioramento fornisce una visualizzazione più dettagliata del tipo e del nome di una risorsa, insieme alla posizione in cui viene utilizzata. Questo è applicabile per i dettagli e-mail e immagini e file.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Stato</b></td>
    <td><b>Aggiornamenti alla documentazione</b></td>
@@ -146,6 +144,12 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   </tbody>
 </table>
+
+* spazio
+
+* più spazio
+
+* fine del test... PER IL MOMENTO
 
 * **Servizio fase flusso formula di calcolo**: la formula di calcolo è un servizio Fase di flusso basato sulla piattaforma IO Runtime di Adobe per l’utilizzo con campagne Marketi Engage intelligenti. I client Adobe con il runtime I/O possono distribuire il servizio e installarlo nelle sottoscrizioni di Marketo Engage, consentendo loro di calcolare formule simili a Excel in Marketo Smart Campaigns.
 
