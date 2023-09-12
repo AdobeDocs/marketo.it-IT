@@ -4,9 +4,9 @@ title: Designer flusso
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1084'
 ht-degree: 2%
 
 ---
@@ -39,15 +39,11 @@ Lo stream designer contiene più schede che è possibile aggiungere per modellar
  </tr>
  <tr>
   <td><strong>Acquisizione delle informazioni</strong></td>
-  <td>Utilizzare quando si desidera raccogliere informazioni. I tre campi tra cui scegliere sono Indirizzo e-mail, Numero di telefono e Testo (che consente al visitatore di scrivere il proprio messaggio).</td>
- </tr>
- <tr>
-  <td><strong>Modulo di programmazione appuntamenti</strong></td>
-  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare un follow-up. La disponibilità del calendario riflette <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">il prossimo agente in linea</a>. È inoltre disponibile un'opzione per trasmettere attributi quali il nome o l'indirizzo e-mail dell'agente.</td>
+  <td>Utilizzare quando si desidera raccogliere informazioni (ad esempio, nome, indirizzo e-mail, qualifica, ecc.). Dopo aver scelto il campo a cui attribuire la risposta, puoi scegliere se consentire al visitatore di digitare il testo nella risposta o selezionare le opzioni da un elenco a discesa che hai determinato (suggerimento: quest’ultimo può essere utile per la pulizia del database). Puoi anche scegliere di sovrascrivere i dati attualmente elencati con la relativa risposta, oppure puoi saltare completamente la domanda se disponi già di un valore per essi.</td>
  </tr>
  <tr>
   <td><strong>Prenotazione riunione</strong></td>
-  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, di un agente specifico o utilizzando regole personalizzate.</td>
+  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, un agente specifico o utilizzando regole personalizzate. Clic <b>Aggiungi attributo</b> se desideri acquisire il nome o l’indirizzo e-mail dell’agente e assegnarlo al record persona del visitatore della chat per eseguire query future (suggerimento: creare un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizzato</a> per mappare le informazioni dell’agente su in modo da non sovrascrivere un campo di Marketo Engage standard).</td>
  </tr>
  <tr>
   <td><strong>Obiettivo</strong></td>

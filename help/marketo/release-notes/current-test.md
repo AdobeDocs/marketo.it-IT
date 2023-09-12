@@ -4,9 +4,9 @@ title: Test note sulla versione corrente
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1209'
 ht-degree: 2%
 
 ---
@@ -41,8 +41,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 <table>
   <tr> 
-   <td><b>Funzione</b></td>
-   <td><strong>Colonna Utilizzato da conteggio per le risorse di Design Studio</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td>
+   <td style="width:20%"><b>Funzione</b></td>
+   <td style="width:80%"><strong>Colonna Utilizzato da conteggio per le risorse di Design Studio</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td>
   </tr>
   <tr> 
    <td><b>Stato</b></td>
@@ -58,9 +58,9 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Funzione</th> 
-   <th>Stato</th>
-   <th>Documentazione</th>
+   <th style="width:70%">Funzione</th> 
+   <th style="width:15%">Stato</th>
+   <th style="width:15%">Documentazione</th>
   </tr> 
   <tr> 
    <td><strong>Libreria di riferimento Marketo</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td> 
@@ -80,9 +80,44 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
  </tbody> 
 </table>
 
+* spazio
 
+* spazio
 
+* più spazio
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Funzione</th> 
+   <th style="width:15%">Stato</th>
+   <th style="width:20%">Documentazione</th>
+  </tr> 
+  <tr> 
+   <td><strong>Libreria di riferimento Marketo</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Panoramica della libreria di importazione del programma</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Colonna Utilizzato da conteggio per le risorse di Design Studio</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* spazio
+
+* spazio
+
+* più spazio
+
+* fine del test... PER IL MOMENTO
 
 * **Colonna Utilizzato da conteggio per le risorse di Design Studio**:
 
