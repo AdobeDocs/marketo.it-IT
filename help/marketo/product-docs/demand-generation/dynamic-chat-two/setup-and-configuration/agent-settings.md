@@ -4,9 +4,9 @@ title: Impostazioni agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 2%
 
 ---
@@ -64,11 +64,11 @@ Impostare il fuso orario e l&#39;ora/giorno della settimana per ricevere le pren
  <tbody> 
   <tr> 
    <td><b>Durata riunione</b></td>
-   <td>Lunghezza massima della riunione. - COSA SUCCEDE? FINE AUTOMATICA?</td>
+   <td>Lunghezza massima della riunione. - COSA SUCCEDE? L'AUTO SI FERMA COME ZOOM?</td>
   </tr> 
   <tr> 
    <td><b>Tempo di buffer tra riunioni</b></td>
-   <td>Quantità di tempo impostata come buffer per dopo la riunione. Se si imposta la durata di 30 minuti, nessuno potrà prenotare una riunione con l'utente fino a 31 minuti dopo la fine pianificata di una riunione nel calendario. - 31 o 30???????????</td>
+   <td>Quantità di tempo impostata come buffer per dopo la riunione. Se si imposta la durata di 30 minuti, nessuno potrà prenotare una riunione con l'utente fino a 30 minuti dopo la fine pianificata di una riunione nel calendario.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Imposta il tuo fuso orario e l’ora/giorno della settimana per ricevere le chat
 
 ![](assets/agent-settings-5.png)
 
-Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una chat in arrivo. Se non hai effettuato l&#39;accesso, riceverai una notifica dal browser.
+Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una chat in arrivo. Se non hai effettuato l&#39;accesso, riceverai una notifica dal browser (se hai [configuralo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->Il [attivazione/disattivazione della disponibilità](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} nella casella in entrata dell’agente **sostituirà** nella scheda Disponibilità chat in diretta. Pertanto, se si è programmati come disponibili a partire da 1p-5p, ma si deve fare una breve pausa a 3p, non è necessario modificare le impostazioni dell&#39;agente. Lo stato di attivazione/disattivazione della disponibilità rimarrà fino al passaggio manuale o al raggiungimento del blocco di tempo successivo nella disponibilità.
+>Il [attivazione/disattivazione della disponibilità](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} nella casella in entrata dell’agente **sostituirà** nella scheda Disponibilità chat in diretta. Pertanto, se si è programmati come disponibili a partire da 1p-5p, ma si deve fare una breve pausa a 3p, non è necessario modificare le impostazioni dell&#39;agente. Lo stato di attivazione/disattivazione della disponibilità rimarrà fino alla modifica manuale o al raggiungimento del blocco di tempo successivo nella disponibilità.
 
 >[!TIP]
 >

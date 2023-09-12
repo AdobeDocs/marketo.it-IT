@@ -4,9 +4,9 @@ title: Designer flusso
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1102'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Ci sono _molti_ combinazioni di flusso possibili. Questo articolo contiene un es
 
 >[!PREREQUISITES]
 >
->Prima di poter utilizzare la scheda Documento, è necessario [configurarlo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} nel tuo account di Adobe.
+>Prima di poter utilizzare la scheda Documento, è necessario [configurarlo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} nel tuo account di Adobe.
 
 ## Schede di Stream Designer {#stream-designer-cards}
 
@@ -90,7 +90,9 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
 ## Creare un flusso {#create-a-stream}
 
-1. Dopo aver [ha creato la tua finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, fare clic su **Progettazione flussi** scheda.
+È possibile creare flussi per le finestre di dialogo o [Forms per conversazioni](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. In questo esempio ne creeremo uno per un dialogo.
+
+1. Dopo aver [ha creato il tuo dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, fare clic su **Progettazione flussi** scheda.
 
    ![](assets/stream-designer-6.png)
 

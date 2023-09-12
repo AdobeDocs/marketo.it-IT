@@ -4,9 +4,9 @@ title: Panoramica della finestra di dialogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ Il [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-c
 
 ## Rapporti {#reports}
 
-Il [Rapporti](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} In una sezione di una finestra di dialogo è possibile visualizzare metriche sulle prestazioni della finestra di dialogo.
+Nella scheda Rapporti potrai vedere le metriche relative alle prestazioni della finestra di dialogo.
 
 ![](assets/dialogue-overview-3.png)
 

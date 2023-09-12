@@ -4,10 +4,10 @@ title: Indirizzamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '231'
+ht-degree: 0%
 
 ---
 
@@ -61,6 +61,18 @@ Identifica e carica il tuo account di destinazione e i rispettivi proprietari de
 
 ![](assets/routing-9.png)
 
-Team routing: ASSEGNA PER IL MOMENTO LE DELETE A QUESTI RIFERIMENTI
+### Aggiungi un account {#add-an-account}
 
-Membro del routing dell’elenco smart - EVENTUALMENTE RITARDATO
+In questo esempio, indirizzeremo tutti i dipendenti della Lego direttamente all&#39;agente Steven.
+
+1. Nella scheda Instradamento account fare clic su **+ Aggiungi account**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >Puoi creare più account contemporaneamente facendo clic su **Carica elenco account** e il caricamento di un file CSV.
+
+1. Immetti il nome della società, il dominio e seleziona l’agente desiderato.
+
+   ![](assets/routing-11.png)

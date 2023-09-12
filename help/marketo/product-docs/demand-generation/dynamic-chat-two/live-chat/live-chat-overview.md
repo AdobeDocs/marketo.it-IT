@@ -4,16 +4,16 @@ title: Panoramica chat in diretta
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
 
 # Panoramica chat in diretta {#live-chat-overview}
 
-Utilizza la scheda della chat in tempo reale in [stream designer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} quando desideri che i visitatori chattino con un agente live.
+Utilizza la scheda della chat in tempo reale in [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} quando desideri che i visitatori chattino con un agente live.
 
 ## Utilizzo della scheda Live Chat {#using-the-live-chat-card}
 
@@ -23,7 +23,7 @@ Utilizza la scheda della chat in tempo reale in [stream designer](/help/marketo/
 >
 >La scheda della chat in diretta deve essere sempre l’ultima scheda del ramo. Se la scheda viene posizionata in un punto casuale nel ramo, potrebbe sorprendere il visitatore collegandolo improvvisamente a un agente.
 
-**Best practice**
+### Best practice {#best-practices}
 
 * Utilizza una scheda domande prima della scheda chat in diretta in cui si chiede al visitatore se desidera connettersi.
 * Una volta che il visitatore accetta di connettersi, utilizza la scheda di acquisizione delle informazioni per raccogliere alcune delle sue informazioni, come nome/cognome, indirizzo e-mail, qualifica professionale, ecc. (si consiglia di richiedere almeno nome e indirizzo e-mail).
@@ -46,7 +46,7 @@ Facendo clic sulla scheda della chat dal vivo nel flusso, puoi scegliere come in
   </tr>
     <tr> 
    <td><b>Regole personalizzate</b></td>
-   <td>Tutte le regole personalizzate vengono esaminate ogni volta che si considera dove indirizzare il visitatore. Se il visitatore non soddisfa nessuno dei criteri, eseguirà una REGOLA DI FALLBACK???</td>
+   <td>Tutte le regole personalizzate vengono esaminate ogni volta che si considera dove indirizzare il visitatore. Se il visitatore non è idoneo per alcuna regola personalizzata, ottiene il <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">messaggio di fallback di live chat</a>.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>
