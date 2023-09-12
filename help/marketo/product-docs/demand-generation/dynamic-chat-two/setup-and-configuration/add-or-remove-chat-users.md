@@ -4,7 +4,7 @@ title: Aggiungi o rimuovi utenti chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Per aggiungere o rimuovere utenti chat, segui la procedura riportata di seguito.
 
 ## Aggiungi un utente di chat {#add-a-chat-user}
 
-1. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -71,7 +71,7 @@ Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone dell&#39
 
 ## Rimuovere un utente di chat {#remove-a-chat-user}
 
-1. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -101,5 +101,5 @@ Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone dell&#39
 
 >[!MORELIKETHIS]
 >
->* [Utenti Adobe Admin Console](https://helpx.adobe.com/enterprise/using/users.html)
->* [Gestisci Singolarmente Gli Utenti](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Utenti Adobe Admin Console](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Gestisci Singolarmente Gli Utenti](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

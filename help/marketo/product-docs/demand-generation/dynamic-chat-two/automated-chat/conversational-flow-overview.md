@@ -4,7 +4,7 @@ title: Panoramica del flusso conversazionale
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Progetta un flusso conversazionale e attivalo per qualsiasi visitatore in base a
 
 Le finestre di dialogo e i flussi conversazionali hanno diverse somiglianze, ma sono due funzioni separate.
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th style="width:50%">Dialogo</th> 

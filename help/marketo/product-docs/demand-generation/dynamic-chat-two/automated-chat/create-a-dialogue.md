@@ -4,10 +4,10 @@ title: Creare una finestra di dialogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '79'
+ht-degree: 5%
 
 ---
 
@@ -31,10 +31,9 @@ Ecco come creare una nuova finestra di dialogo.
 >
 >La priorità determina quale finestra di dialogo verrà visualizzata a un visitatore quando si qualifica per più finestre di dialogo contemporaneamente.
 
-Quindi, scopri come [creare un flusso](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#create-a-stream){target="_blank"}.
+Quindi, scopri come [creare un flusso](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Criteri di audience](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
->* [Designer flusso](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [Rapporti](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Criteri di audience](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md){target="_blank"}
+>* [Designer flusso](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

@@ -4,10 +4,10 @@ title: Test note sulla versione corrente
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '1212'
-ht-degree: 2%
+source-wordcount: '901'
+ht-degree: 0%
 
 ---
 
@@ -21,71 +21,8 @@ Di seguito sono elencate tutte le funzioni incluse nella versione di settembre 2
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **8 settembre 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **8 settembre 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 </br>
-<table>
-  <tr> 
-   <td><b>Funzione</b></td>
-   <td><strong>Libreria di riferimento Marketo</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td>
-  </tr>
-  <tr> 
-   <td><b>Stato</b></td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><b>Aggiornamenti doc</b></td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Panoramica della libreria di importazione del programma</a></td>
-  </tr>
-  </tbody>
-</table>
-
-<table>
-  <tr> 
-   <td style="width:20%"><b>Funzione</b></td>
-   <td style="width:80%"><strong>Colonna Utilizzato da conteggio per le risorse di Design Studio</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td>
-  </tr>
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  <tr> 
-   <td><b>Aggiornamenti doc</b></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  </tbody>
-</table>
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:70%">Funzione</th> 
-   <th style="width:15%">Stato</th>
-   <th style="width:15%">Documentazione</th>
-  </tr> 
-  <tr> 
-   <td><strong>Libreria di riferimento Marketo</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Panoramica della libreria di importazione del programma</a></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>Colonna Utilizzato da conteggio per le risorse di Design Studio</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
- </tbody> 
-</table>
-
-* spazio
-
-* spazio
-
-* più spazio
-
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -108,307 +45,213 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Utilizzo dei miglioramenti apportati alle schede per le risorse di Design Studio</strong>: la scheda Utilizzato da miglioramento fornisce una visualizzazione più dettagliata del tipo e del nome di una risorsa, insieme alla posizione in cui viene utilizzata. Questo è applicabile per i dettagli e-mail e immagini e file.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Servizio fase flusso formula di calcolo</strong>: la formula di calcolo è un servizio Fase di flusso basato sulla piattaforma IO Runtime di Adobe per l’utilizzo con campagne Marketi Engage intelligenti. I client Adobe con il runtime I/O possono distribuire il servizio e installarlo nelle sottoscrizioni di Marketo Engage, consentendo loro di calcolare formule simili a Excel in Marketo Smart Campaigns.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
  </tbody> 
 </table>
 
-* spazio
+## Funzioni di rilascio Agile {#agile-release-features}
 
-* spazio
-
-* più spazio
-
-* **Colonna Utilizzato da conteggio per le risorse di Design Studio**:
-
-<table width="400">
+Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in varie date prima o dopo la data di rilascio standard. Verifica lo stato di ciascuna funzionalità.
+</br>
+<table style="table-layout:auto"> 
+ <tbody> 
   <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
+   <th style="width:65%">Funzione</th> 
+   <th style="width:15%">Stato</th>
+   <th style="width:20%">Documentazione</th>
+  </tr> 
   <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Utilizzo dei miglioramenti apportati alle schede per le risorse di Design Studio**: la scheda Utilizzato da miglioramento fornisce una visualizzazione più dettagliata del tipo e del nome di una risorsa, insieme alla posizione in cui viene utilizzata. Questo è applicabile per i dettagli e-mail e immagini e file.
-
-<table width="400px">
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* spazio
-
-* più spazio
-
-* fine del test... PER IL MOMENTO
-
-* **Servizio fase flusso formula di calcolo**: la formula di calcolo è un servizio Fase di flusso basato sulla piattaforma IO Runtime di Adobe per l’utilizzo con campagne Marketi Engage intelligenti. I client Adobe con il runtime I/O possono distribuire il servizio e installarlo nelle sottoscrizioni di Marketo Engage, consentendo loro di calcolare formule simili a Excel in Marketo Smart Campaigns.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  </tbody>
-</table>
-
-## Funzioni di rilascio Agile
-
-Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date prima o dopo la data di rilascio standard. Di seguito è riportato lo stato di ciascuna funzionalità.
-
-* **Integrazione Marketo + Workfront**: per gli utenti di Marketo e Workfront, ora puoi utilizzare i modelli Workfront Fusion per integrare i due prodotti e sbloccare nuovi flussi di lavoro di automazione per semplificare l’esecuzione della campagna.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
-  <tr> 
+   <td><strong>Integrazione Marketo + Workfront</strong>: per gli utenti di Marketo e Workfront, ora puoi utilizzare i modelli Workfront Fusion per integrare i due prodotti e sbloccare nuovi flussi di lavoro di automazione per semplificare l’esecuzione della campagna.</td> 
    <td>Spedito</td>
    <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Revisione e approvazione del blueprint</a></td>
   </tr>
-  </tbody>
+ </tbody> 
 </table>
 
 ### Dynamic Chat {#dynamic-chat}
 
-</br>
-
-* **Scheda azioni in Progettazione flussi**: gli addetti al marketing possono utilizzare le schede delle azioni nel flusso Finestra di dialogo per trasmettere valori nascosti al record persona del Marketo Engage quando i visitatori interagiscono con una Finestra di dialogo.
-
-<table> 
+<table style="table-layout:auto"> 
+ <tbody> 
   <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
-  </tr>
+   <th style="width:65%">Funzione</th> 
+   <th style="width:15%">Stato</th>
+   <th style="width:20%">Documentazione</th>
+  </tr> 
   <tr> 
+   <td><strong>Scheda azioni in Progettazione flussi</strong>: gli addetti al marketing possono utilizzare le schede delle azioni nel flusso Finestra di dialogo per trasmettere valori nascosti al record persona del Marketo Engage quando i visitatori interagiscono con una Finestra di dialogo.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Pagina risorsa flusso conversazionale**: nella pagina delle risorse di Design Studio sono ora elencati i flussi conversazionali di Dynamic Chat. Scopri quali flussi possono essere integrati nelle risorse di Marketo Engage e collegati direttamente al loro editor.
-
-<table>
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+   <tr> 
+   <td><strong>Forms per conversazioni con Marketi Engage Forms</strong>: rendi conversazionale Forms di Marketo Engage integrandolo con Flussi conversazionali di Dynamic Chat. Qualifica immediatamente i lead utilizzando i dati del modulo o l'iscrizione a elenchi avanzati per prenotazioni di riunioni, collegamenti a white paper o obiettivi personalizzati.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Forms per conversazioni con Marketi Engage Forms**: rendi conversazionale Forms di Marketo Engage integrandolo con Flussi conversazionali di Dynamic Chat. Qualifica immediatamente i lead utilizzando i dati del modulo o l&#39;iscrizione a elenchi avanzati per prenotazioni di riunioni, collegamenti a white paper o obiettivi personalizzati.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>SDK conversazioni</strong>: trasforma qualsiasi modulo, pagina di destinazione o quasi qualsiasi pagina web in esperienze di prenotazione di riunioni coinvolgenti.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **SDK conversazioni**: trasforma qualsiasi modulo, pagina di destinazione o quasi qualsiasi pagina web in esperienze di prenotazione di riunioni coinvolgenti.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
   <tr> 
+   <td><strong>Impostazioni prenotazione riunione personalizzata</strong>: gli agenti possono impostare impostazioni personalizzate per la prenotazione delle riunioni, ad esempio la disponibilità, la durata della riunione e il tempo di buffer tra una riunione e l’altra.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Impostazioni prenotazione riunione personalizzata**: gli agenti possono impostare impostazioni personalizzate per la prenotazione delle riunioni, ad esempio la disponibilità, la durata della riunione e il tempo di buffer tra una riunione e l’altra.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+   <tr> 
+   <td><strong>Impostazioni di fallback</strong>: gli amministratori possono impostare impostazioni di fallback personalizzate per definire cosa visualizzano i visitatori quando gli agenti non sono disponibili per la chat.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Impostazioni di fallback**: gli amministratori possono impostare impostazioni di fallback personalizzate per definire cosa visualizzano i visitatori quando gli agenti non sono disponibili per la chat.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>Dashboard delle prestazioni globali</strong>: scopri le prestazioni delle finestre di dialogo, comprese le metriche di coinvolgimento e prestazioni (totale e nel tempo), le pagine con prestazioni migliori e le finestre di dialogo con le prestazioni migliori.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Dashboard delle prestazioni globali**: scopri le prestazioni delle finestre di dialogo, comprese le metriche di coinvolgimento e prestazioni (totale e nel tempo), le pagine con prestazioni migliori e le finestre di dialogo con le prestazioni migliori.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+   <tr> 
+   <td><strong>Chat live</strong>: i visitatori web possono chattare con gli agenti di vendita in tempo reale per ottenere risposte alle loro domande.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Chat live**: i visitatori web possono chattare con gli agenti di vendita in tempo reale per ottenere risposte alle loro domande.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+   <tr> 
+   <td><strong>Dashboard delle prestazioni della chat in diretta</strong>: visualizza quante conversazioni hanno avuto i tuoi agenti di vendita live e quali team stanno ottenendo i migliori risultati.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Dashboard delle prestazioni della chat in diretta**: visualizza quante conversazioni hanno avuto i tuoi agenti di vendita live e quali team stanno ottenendo i migliori risultati.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>Targeting elenco avanzato Marketo Engage</strong>: gli addetti al marketing possono eseguire il targeting dei membri degli elenchi avanzati del Marketo Engage nei criteri di pubblico di una finestra di dialogo.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Targeting elenco avanzato Marketo Engage**: gli addetti al marketing possono eseguire il targeting dei membri degli elenchi avanzati del Marketo Engage nei criteri di pubblico di una finestra di dialogo.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
   <tr> 
+   <td><strong>Dashboard prestazioni riunione</strong>: scopri quante riunioni vengono prenotate e con chi vengono prenotate.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Dashboard prestazioni riunione**: scopri quante riunioni vengono prenotate e con chi vengono prenotate.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+   <tr> 
+   <td><strong>Attività nuovo Dynamic Chat</strong>: nuove attività per supportare flussi conversazionali, chat in diretta e altre nuove funzioni.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Attività nuovo Dynamic Chat**: nuove attività per supportare flussi conversazionali, chat in diretta e altre nuove funzioni.
-
-<table> 
-  <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>Notifiche Live Chat in tempo reale</strong>: quando i visitatori richiedono di partecipare a una chat dal vivo, gli agenti ricevono notifiche in-app e dal browser in tempo reale.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Notifiche Live Chat in tempo reale**: quando i visitatori richiedono di partecipare a una chat dal vivo, gli agenti ricevono notifiche in-app e dal browser in tempo reale.
-
-<table> 
   <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>Team</strong>: crea team di agenti a cui i visitatori possono essere indirizzati per prenotazioni di chat o riunioni in tempo reale.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Notifiche azioni approfondimento vendite**: gli agenti con azioni di approfondimento sulle vendite riceveranno notifiche di richiesta live chat in tempo reale nel pannello Azioni di approfondimento sulle vendite.
-
-<table>
   <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>Attiva token per nuove attività</strong>: sono disponibili nuovi token di attivazione per supportare le nuove attività di Dynamic Chat.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Team**: crea team di agenti a cui i visitatori possono essere indirizzati per prenotazioni di chat o riunioni in tempo reale.
-
-<table> 
   <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>Pagina risorsa flusso conversazionale</strong>: nella pagina delle risorse di Design Studio sono ora elencati i flussi conversazionali di Dynamic Chat. Scopri quali flussi possono essere integrati nelle risorse di Marketo Engage e collegati direttamente al loro editor.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
-</table>
-
-* **Attiva token per nuove attività**: sono disponibili nuovi token di attivazione per supportare le nuove attività di Dynamic Chat.
-
-<table style="margin-left:10px" width="400px"> 
   <tr> 
-   <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
+    <tr> 
+   <td><strong>Notifiche azioni approfondimento vendite</strong>: gli agenti con azioni di approfondimento sulle vendite riceveranno notifiche di richiesta live chat in tempo reale nel pannello Azioni di approfondimento sulle vendite.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  </tbody>
+ </tbody> 
 </table>
 
 ## Annunci {#announcements}
