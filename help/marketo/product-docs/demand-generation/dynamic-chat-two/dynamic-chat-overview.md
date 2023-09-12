@@ -4,9 +4,9 @@ title: Panoramica del Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
@@ -65,7 +65,7 @@ Lo snippet JavaScript di Dynamic Chat può essere installato su qualsiasi sito W
 
 **Per quanto tempo vengono memorizzati i dati per i rapporti?**
 
-90 giorni (vedere l&#39;elenco completo dei limiti [sotto](#limits-in-dynamic-chat)).
+90 giorni.
 
 **Il Dynamic Chat consente la chat in diretta?**
 
