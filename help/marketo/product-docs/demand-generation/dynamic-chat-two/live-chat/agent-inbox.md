@@ -4,9 +4,9 @@ title: Casella in entrata agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
@@ -25,17 +25,24 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 
 >[!IMPORTANT]
 >
->**Questo sostituirà** il [disponibilità live chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) è stato stabilito in Impostazioni agente. Lo stato rimarrà fino al ripristino o al successivo blocco di tempo della disponibilità.
+>**Questo sostituirà** il [disponibilità live chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} è stato stabilito in Impostazioni agente. Lo stato rimarrà fino al ripristino o al successivo blocco di tempo della disponibilità.
 
 >[!NOTE]
 >
 >Se imposti lo stato su Non disponibile, le chat attive non verranno influenzate.
 
-## Accettazione di una chat in diretta {#accepting-a-live-chat}
+## Notifiche chat in diretta {#live-chat-notifications}
 
-Quando una chat in diretta viene indirizzata all&#39;agente, vede un banner blu nella parte superiore dello schermo che chiede di accettare.
+Quando una chat in diretta viene indirizzata a un agente, vede un banner blu nella parte superiore dello schermo che chiede di accettare.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>Puoi anche impostare le notifiche del browser, che ti invieranno un avviso nel caso in cui non sia stato effettuato l’accesso al Dynamic Chat.
+>
+>* Abilitare le notifiche del browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Abilitare le notifiche del browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Aspetti da considerare {#things-to-note}
 

@@ -4,9 +4,9 @@ title: Impostazioni agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 2%
 
 ---
@@ -83,7 +83,7 @@ Imposta il tuo fuso orario e l’ora/giorno della settimana per ricevere le chat
 
 ![](assets/agent-settings-5.png)
 
-Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una chat in arrivo. Se non hai effettuato l’accesso, riceverai una notifica dal browser (in Google Chrome).
+Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una chat in arrivo. Se non hai effettuato l&#39;accesso, riceverai una notifica dal browser.
 
 >[!IMPORTANT]
 >

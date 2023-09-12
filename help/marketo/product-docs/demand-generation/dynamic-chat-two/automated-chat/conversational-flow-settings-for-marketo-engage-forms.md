@@ -4,9 +4,9 @@ title: Impostazioni del flusso conversazionale per Marketi Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Rendi conversazionale Forms di Marketo Engage integrandolo con Flussi conversazi
 
 >[!AVAILABILITY]
 >
->Il membro di un elenco avanzato o il criterio del membro di un elenco richiede Dynamic Chat Prime. Adobe team account!!!!!!!!!!!!!!
+>Il membro di un elenco avanzato o il criterio del membro di un elenco richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 1. Individuare e selezionare il modulo (o crearne uno nuovo).
 
