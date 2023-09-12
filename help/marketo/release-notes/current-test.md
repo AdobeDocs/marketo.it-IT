@@ -4,7 +4,7 @@ title: Test note sulla versione corrente
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
@@ -22,7 +22,6 @@ Di seguito sono elencate tutte le funzioni incluse nella versione di settembre 2
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
 Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **8 settembre 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -72,7 +71,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in varie date prima o dopo la data di rilascio standard. Verifica lo stato di ciascuna funzionalità.
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">Funzione</th> 
@@ -89,7 +88,7 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+<table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">Funzione</th> 
