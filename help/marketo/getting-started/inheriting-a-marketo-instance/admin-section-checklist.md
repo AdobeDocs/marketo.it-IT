@@ -3,7 +3,7 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 1%
@@ -60,7 +60,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   <tr> 
    <td>Utenti</td> 
    <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Quanti utenti</a> ci sono?</li>
-<li>Ci sono utenti che dovrebbero essere scaduti?</li>
+<li>Sono presenti utenti da rimuovere?</li>
 <li>La tua azienda applica delle policy sull’eliminazione degli utenti?</li> 
 <li>Quanti utenti hanno <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Autorizzazioni amministratore</a>?</li>
 <li>Se uno di questi utenti deve essere modificato in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">altri ruoli?</a></li> 

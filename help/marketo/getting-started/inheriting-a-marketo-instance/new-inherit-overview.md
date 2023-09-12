@@ -3,9 +3,9 @@ description: Scopri come ottimizzare e scalare un’istanza di Marketo Engage es
 title: Avvia un'istanza di Marketo Engage ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 0%
 
 Avviare un nuovo processo o rilevare un’istanza esistente da un altro amministratore? Assumere il controllo di un’istanza live in esecuzione da un po’ può sembrare un po’ complicato, ma questa guida ti aiuterà a iniziare subito.
 
-## Elementi da disattivare {#items-to-check-off}
+## Effettuare la configurazione nella nazione di marketing {#get-set-up-in-the-marketing-nation}
 
-Assicurati di essere configurato correttamente con i giusti tipi di accesso e informazioni.
+Assicurati di essere configurato correttamente nella community Marketo.
 
-* Guarda una breve panoramica di **attività di Marketo** - KG - TROVA VIDEO O DELETE MIGLIORI
+* **[Configurare il profilo]**(https://nation.marketo.com/){target="_blank"}.
 
-* **Configurare il profilo** nel [**Nazione marketing**](https://nation.marketo.com/){target="_blank"} community (nome utente e password richiesti).
+* [**Configurare il profilo**](https://nation.marketo.com/){target="_blank"}.
 
-* Consulta la sezione [**Linee guida per la community marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* **[Configurare il profilo](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[Configurare il profilo](https://nation.marketo.com/){target="_blank"}**.
+
+* Consulta la sezione [**Linee guida per il marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Clic **[!UICONTROL I tuoi luoghi]** sul profilo della community Marketo Nation per controllare la pagina dell’account della tua azienda.
 
 * Scopri come [**invia un caso di supporto**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**Gestione utenti**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} ed eliminare gli utenti che hanno lasciato la tua azienda.
 
 ## Guide di controllo istanze ereditate {#inherited-instance-audit-guides}
 
