@@ -4,9 +4,9 @@ title: Indirizzamento
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Le riunioni prenotate in Dynamic Chat possono essere instradate in due modi. Rou
 Round robin: le riunioni vengono assegnate agli agenti in sequenza. Quindi se hai cinque agenti e l&#39;agente tre ha preso l&#39;ultima riunione, l&#39;agente quattro prenderà la prossima, seguita dall&#39;agente cinque, e poi di nuovo dall&#39;agente uno.
 
 Regola personalizzata: è possibile scegliere agenti specifici per ricevere riunioni in base agli attributi selezionati.
+
+>[!NOTE]
+>
+>All’Instradamento dell’account viene assegnata la priorità più elevata. Quando un visitatore raggiunge il punto della conversazione per prenotare una riunione o avviare una chat in tempo reale, [Indirizzamento account](#account-routing) viene selezionato prima di prendere in considerazione altre opzioni di instradamento.
 
 ## Creare una regola personalizzata {#create-a-custom-rule}
 
