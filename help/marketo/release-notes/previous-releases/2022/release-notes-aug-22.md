@@ -3,7 +3,7 @@ description: Note sulla versione - Agosto 2022 - Documentazione Marketo - Docume
 title: Note sulla versione - Agosto 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Qui sotto trovi tutte le funzioni incluse nella versione di agosto 2022. Verific
 
 Le seguenti funzioni hanno iniziato un rollout graduale il **26 agosto 2022**.
 
-## Orchestrazione cross-channel {#cross-channel-orchestration}
+## Orchestrazione cross-channel {#cross-channel-orchestration}
 
-* **[Attiva/Disattiva tutte le finestre di dialogo pubblicate contemporaneamente per il Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: attiva/disattiva globalmente tutte le finestre di dialogo pubblicate contemporaneamente dalla pagina Configurazione, premendo un pulsante.
+* **[Attiva/Disattiva tutte le finestre di dialogo pubblicate contemporaneamente per il Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: attiva/disattiva globalmente tutte le finestre di dialogo pubblicate contemporaneamente dalla pagina Configurazione, premendo un pulsante.
 
-* **[Avatar personalizzati per Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**: carica un avatar chatbot personalizzato che può essere personalizzato per il tuo marchio.
+* **[Avatar personalizzati per Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#agent-settings){target="_blank"}**: carica un avatar chatbot personalizzato che può essere personalizzato per il tuo marchio.
 
 * **Trascrizioni chat per Dynamic Chat**: visualizza le trascrizioni delle chat per ogni conversazione per ottenere informazioni più approfondite su ciò a cui è interessato ogni visitatore web.
 

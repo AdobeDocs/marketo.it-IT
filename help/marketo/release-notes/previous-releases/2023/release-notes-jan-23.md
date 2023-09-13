@@ -3,7 +3,7 @@ description: Note sulla versione - Gennaio 2023 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 3%
@@ -184,7 +184,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/demand-generation/dynamic-chat/meeting-list.md">Riunioni</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Riunioni</a></td>
   </tr>
   </tbody>
 </table>
