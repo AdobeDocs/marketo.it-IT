@@ -2,7 +2,7 @@
 description: Analytics - Documentazione di Marketo - Documentazione del prodotto
 title: Analytics
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
@@ -43,6 +43,6 @@ Visualizza quante conversazioni hanno avuto i tuoi agenti di vendita dal vivo e 
 
 ![](assets/analytics-6.png)
 
-Visualizzare finestre di dialogo, flussi conversazionali o tutti. Seleziona un predefinito o un intervallo di date personalizzato. Esporta i risultati facendo clic su un pulsante.
+Visualizzare finestre di dialogo, flussi conversazionali o tutti. Seleziona un predefinito o un intervallo di date personalizzato. Esporta i risultati con un clic.
 
 ![](assets/analytics-7.png)
