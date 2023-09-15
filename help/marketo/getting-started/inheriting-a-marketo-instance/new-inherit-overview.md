@@ -3,9 +3,9 @@ description: Scopri come ottimizzare e scalare un’istanza di Marketo Engage es
 title: Avvia un'istanza di Marketo Engage ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,9 @@ Avviare un nuovo processo o rilevare un’istanza esistente da un altro amminist
 
 ## Effettuare la configurazione nella nazione di marketing {#get-set-up-in-the-marketing-nation}
 
-Assicurati di essere configurato correttamente nella community Marketo.
-
-* **[Configurare il profilo]**(https://nation.marketo.com/){target="_blank"}.
+Assicurati di essere configurato correttamente nella community delle nazioni marketing.
 
 * [**Configurare il profilo**](https://nation.marketo.com/){target="_blank"}.
-
-* **[Configurare il profilo](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[Configurare il profilo](https://nation.marketo.com/){target="_blank"}**.
 
 * Consulta la sezione [**Linee guida per il marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Assicurati di essere configurato correttamente nella community Marketo.
 
 * Scopri come [**invia un caso di supporto**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## Guide di controllo istanze ereditate {#inherited-instance-audit-guides}
+## Controllo dell’istanza ereditata  {#audit-your-inherited-instance}
 
-Le checklist qui sotto sono state compilate con i suggerimenti dei campioni di Marketo per aiutarti a imparare rapidamente a usare al meglio. Scopri come navigare nelle diverse aree del Marketo Engage ed eseguire le varie attività necessarie per eseguire un controllo di audit, con i collegamenti alla documentazione di aiuto consigliata inclusa.
+Adobe Professional Services (con l’input di Marketo Champions) ha creato diverse liste di controllo ereditate di istanza del Marketo Engage per aiutarti a imparare a lavorare rapidamente. Scopri come navigare nelle diverse aree del Marketo Engage ed eseguire le varie attività necessarie per eseguire un controllo di audit, con i collegamenti alla documentazione di aiuto consigliata inclusa.
 
 Puoi scaricare le liste di controllo anche sotto forma di foglio di calcolo.
 

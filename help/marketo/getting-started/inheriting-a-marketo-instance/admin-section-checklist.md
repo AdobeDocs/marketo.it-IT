@@ -3,22 +3,26 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1566'
 ht-degree: 1%
 
 ---
 
 # Istanza ereditata: elenco di controllo sezione amministratore {#inherited-instance-admin-section-checklist}
 
-Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state compilate insieme ai suggerimenti degli Champions Marketo per aiutarti a imparare a usare al meglio la tecnologia. Puoi anche scaricare gli elenchi di controllo e tenere traccia dell’avanzamento.
+Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state create da Adobe Professional Services con il contributo dei campioni Marketo per aiutarti a imparare a usare al meglio la funzione. Puoi anche scaricare gli elenchi di controllo e tenere traccia dell’avanzamento.
 
 >[!TIP]
 >
 >Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
+
+>[!NOTE]
+>
+>Questo è applicabile solo agli abbonamenti a cui è stato effettuato l’onboarding [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Amministratore > Utenti e ruoli.
 
 <table> 
  <tbody> 
@@ -28,23 +32,22 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   </tr> 
   <tr> 
    <td>Abbonamento</td> 
-   <td><li>Il tuo abbonamento al Marketo Engage è <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe di sistema Identity Management</a> (Adobe IMS) già? 
-<br/>     In caso affermativo, l'amministratore di sistema di Adobe Admin Console ti ha assegnato il ruolo di "Amministratore di prodotto Adobe Admin Console"? Se non sai chi dispone dei privilegi di amministratore nella console all’interno della tua organizzazione, contatta <a href="https://helpx.adobe.com/contact.html" target="_blank">Assistenza clienti Adobe</a>.  
-<br/>     In caso contrario, si procederà con <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">esperienza ruoli utente e autorizzazioni legacy</a> in Marketo Engage &gt; Amministratore &gt; Utenti e ruoli fino al rinnovo dell’abbonamento.</li></td>
+   <td><li>È stata effettuata la migrazione della sottoscrizione di Marketo Engage a <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> già? 
+<br/>     In caso affermativo, l'amministratore di sistema di Adobe Admin Console ti ha assegnato il ruolo di "Amministratore di prodotto Adobe Admin Console"? Se non sai chi dispone dei privilegi di amministratore nella console all’interno della tua organizzazione, contatta <a href="https://helpx.adobe.com/contact.html" target="_blank">Assistenza clienti Adobe</a>.</li>
+<li>Hai accettato l’invito "Amministratore prodotto di Marketo Engage"? L’e-mail viene inviata quando il ruolo viene assegnato nel Adobe Admin Console.
+<br/>     In caso contrario, cercare <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">e-mail di benvenuto</a> nella tua casella in entrata e accetta l’invito ad attivare il tuo Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Profilo prodotto</td> 
-   <td>(Abbonamenti su Adobe IMS <b>solo</b>)
-<p>
-<li>Ti è stato assegnato il ruolo di "Amministratore di prodotto Marketo Engage" in Marketo Engage/Amministratore/Utenti e ruoli?</li> 
-<li>Hai assegnato il Marketo Engage a tutti i profili di prodotto degli utenti appropriati in Adobe Admin Console?
-<br/>     In caso contrario, assicurati di assegnare il Marketo Engage al loro profilo di prodotto Adobe IMS prima di assegnare i loro ruoli in Marketo Engage/Amministratore/Utenti e ruoli.</li>
-<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: se il tuo abbonamento ha più di 75 utenti ed è stato appena migrato ad Adobe IMS, puoi selezionare gli utenti da migrare in batch e amministrare il loro Adobe Identify in gruppi o tutti contemporaneamente. Ulteriori informazioni su cosa aspettarsi da <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Giorno della migrazione Adobe IMS</a>.</td>
+   <td><li>Tutti gli utenti appropriati sono assegnati al profilo di prodotto del Marketo Engage in Adobe Admin Console?
+<br/>     In caso contrario, assicurarsi di <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">aggiungere e/o rimuovere utenti</a> dai profili di prodotto di Marketo Engage in Adobe Admin Console. Non puoi assegnare i ruoli degli utenti in Marketo Engage &gt; Amministratore &gt; Utenti e ruoli se sono stati aggiunti a un profilo di prodotto.</li>
+<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: se un utente indesiderato viene aggiunto a più profili di prodotto, devi rimuoverlo da tutti i profili di prodotto. Altrimenti avranno ancora accesso al Marketo Engage.</td>
   </tr>
   <tr> 
    <td>API User Management</td> 
-   <td><li>Il tuo abbonamento ha utilizzato qualche API di gestione utenti di Marketo?
-<br/>     In tal caso, dovrai utilizzare <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">API di Adobe IMS</a> per invitare, aggiornare ed eliminare gli utenti da un momento all'altro.</li></td>
+   <td><li>Il tuo abbonamento utilizza qualche API di gestione utenti di Marketo?
+<br/>     In tal caso, dovrai utilizzare <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">API di Adobe IMS</a> per invitare, aggiornare ed eliminare gli utenti da un momento all'altro.</li>
+<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: "Gestione dei ruoli" rimane nel Marketo Engage e le API di gestione utenti Marketo possono ancora essere utilizzate per la gestione dei ruoli.</td>
   </tr>
  </tbody> 
 </table>
@@ -59,8 +62,10 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   </tr> 
   <tr> 
    <td>Utenti</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Quanti utenti</a> ci sono?</li>
-<li>Sono presenti utenti da rimuovere?</li>
+   <td><img src="assets/note-icon.png" alt="icona nota"> NOTA: se il tuo abbonamento è già in Adobe IMS, procedi alla seguente revisione della gestione utenti in Adobe Admin Console. In caso contrario, passa ad Amministratore &gt; Utenti e ruoli &gt; Utenti nel Marketo Engage.
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Quanti utenti</a> ci sono?</li>
+<li>Ci sono utenti che dovrebbero essere <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">rimosso</a>?</li>
 <li>La tua azienda applica delle policy sull’eliminazione degli utenti?</li> 
 <li>Quanti utenti hanno <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Autorizzazioni amministratore</a>?</li>
 <li>Se uno di questi utenti deve essere modificato in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">altri ruoli?</a></li> 
@@ -68,12 +73,13 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   </tr>
   <tr> 
    <td>Ruoli</td> 
-   <td><li>Quanti ruoli ci sono?</li>  
+   <td><img src="assets/note-icon.png" alt="icona nota"> NOTA: indipendentemente dal fatto che si utilizzi Marketo con Adobe Identity o meno, procedere con la revisione delle autorizzazioni dei ruoli nel Marketo Engage in Amministratore &gt; Utenti e ruoli &gt; Ruoli.
+   <p><li>Quanti ruoli ci sono?</li>  
 <li>Cosa <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">autorizzazioni/accesso</a> ciascun ruolo dispone di? Qualcosa dovrebbe essere regolato?</li>
 <li>Quanti utenti ci sono per ruolo?</li>
 <li>Con quale frequenza gli utenti <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">accesso</a>?</li>
 <li>Ogni utente API ha il proprio <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">ruolo utente proprio</a>? In caso contrario, è consigliabile implementarlo per semplificare la risoluzione dei problemi.</li> 
-<li>I ruoli utente e le autorizzazioni sono allineati ai dati aziendali <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">informativa sulla privacy</a>?</li></td>
+<li>I ruoli utente e le autorizzazioni sono in linea con le politiche sulla privacy dei dati aziendali per garantire la conformità alle normative (ad esempio, <a href="https://gdpr-info.eu/" target="_blank">RGPD</a>)? I dati aziendali <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">informativa sulla privacy</a> consentire agli utenti di scaricare e condividere i dati utente del Marketo Engage? È necessaria l’attività di autorizzazione?</li></td>
   </tr>
   <tr> 
    <td>Utenti di supporto</td> 
