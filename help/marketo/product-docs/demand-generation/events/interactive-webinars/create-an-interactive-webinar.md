@@ -3,9 +3,9 @@ description: Creazione di un webinar interattivo - Documentazione di Marketo - D
 title: Creare un webinar interattivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,13 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Fai clic sul menu a discesa Canale e seleziona **Webinar**.
+1. Fai clic sul menu a discesa Canale e seleziona un canale con _Evento con webinar_ nella colonna &quot;Si applica a&quot;. In questo esempio, stiamo scegliendo **Webinar**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >Per vedere a quali canali applicare _Evento con webinar_, vai a **Amministratore** > **Tag**. &quot;Si applica a&quot; deve essere la colonna centrale. Ulteriori informazioni su &quot;Si applica a&quot; nel passaggio 5 di [questo articolo](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. Scegli **Webinar interattivi** e fai clic su **Successivo**.
 
@@ -46,6 +50,6 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Viene creato il webinar interattivo. Ora è il momento di [progettarlo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+Viene creato il webinar interattivo. Ora è il momento di [progettarlo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 ![](assets/create-an-interactive-webinar-8.png)
