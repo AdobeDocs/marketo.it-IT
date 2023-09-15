@@ -3,9 +3,9 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
+source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1560'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
    <td><li>È stata effettuata la migrazione della sottoscrizione di Marketo Engage a <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> già? 
 <br/>     In caso affermativo, l'amministratore di sistema di Adobe Admin Console ti ha assegnato il ruolo di "Amministratore di prodotto Adobe Admin Console"? Se non sai chi dispone dei privilegi di amministratore nella console all’interno della tua organizzazione, contatta <a href="https://helpx.adobe.com/contact.html" target="_blank">Assistenza clienti Adobe</a>.</li>
 <li>Hai accettato l’invito "Amministratore prodotto di Marketo Engage"? L’e-mail viene inviata quando il ruolo viene assegnato nel Adobe Admin Console.
-<br/>     In caso contrario, cercare <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">e-mail di benvenuto</a> nella tua casella in entrata e accetta l’invito ad attivare il tuo Adobe ID.</li></td>
+<br/>     In caso contrario, cercare <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">e-mail di benvenuto</a> nella tua casella in entrata e accetta l’invito ad attivare il tuo Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Profilo prodotto</td> 
