@@ -3,7 +3,7 @@ description: Elenco di controllo delle attività di marketing dell’istanza ere
 title: Elenco di controllo delle attività di marketing dell’istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
 
 ## Organizzazione {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Area</th> 
-   <th style="width:80%">Rivedi focus</th>
+   <th style="width:30%">Area</th> 
+   <th style="width:70%">Rivedi focus</th>
   </tr> 
   <tr> 
    <td>Convenzioni di denominazione</td> 
@@ -61,12 +61,12 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
 
 ## Risorse {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Area</th> 
-   <th style="width:80%">Rivedi focus</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Area</th>
+   <th style="width:70%">Rivedi focus</th>
+  </tr>
   <tr> 
    <td>Token</td> 
    <td><li>Sono <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">token</a> utilizzati nei tipi di programmi più comunemente utilizzati? 
@@ -114,12 +114,12 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
 
 ## Programmi operativi {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Area</th> 
-   <th style="width:80%">Rivedi focus</th>
-  </tr> 
+   <th style="width:30%">Area</th> 
+   <th style="width:70%">Rivedi focus</th>
+  </tr>
   <tr> 
    <td>Punteggio della persona</td> 
    <td><li>Avete un sistema <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">punteggio della persona</a> programma attivo?</li>

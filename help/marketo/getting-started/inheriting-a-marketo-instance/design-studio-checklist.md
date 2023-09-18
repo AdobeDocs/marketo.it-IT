@@ -3,9 +3,9 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '553'
 ht-degree: 1%
 
 ---
@@ -55,7 +55,11 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <li>La maggior parte dei programmi utilizza moduli globali o locali?</li>
 <li>Tutti i moduli raccolgono i dati giusti per il marketing e le vendite?</li>
 <li>I valori nascosti vengono utilizzati in modo appropriato?</li>
-<li>Sul sito web vengono utilizzati moduli di Marketo Engage (non pagine di destinazione del Marketo Engage)?</li></td>
+<li>Sono utilizzati moduli di Marketo Engage su pagine di destinazione non appartenenti al Marketo Engage? Come vengono referenziati?</li>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: aggiorna le pagine in cui incorpori i moduli di Marketo Engage con il nuovo codice di incorporamento introdotto (richiede pagine di destinazione protette).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>Standardizzazione dati</td> 

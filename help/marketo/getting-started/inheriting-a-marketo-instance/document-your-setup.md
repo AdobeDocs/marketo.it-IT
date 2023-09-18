@@ -3,16 +3,16 @@ description: Documento istanza ereditato La tua configurazione - Documentazione 
 title: Documento istanza ereditata Configurazione
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
 
 # Istanza ereditata: documenta la configurazione {#inherited-instance-document-your-setup}
 
-Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita un’istanza stabilita, il passaggio successivo consiste nel creare o aggiornare la documentazione sulla configurazione dell’istanza e sullo stack tecnologico. La documentazione, sia che venga creata tramite foglio di calcolo o un’applicazione di gestione dei progetti, è un’ottima risorsa per tenere traccia dell’avanzamento e registrare i dettagli.
+Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita un’istanza stabilita, il passaggio successivo consiste nel creare o aggiornare la documentazione sulla configurazione dell’istanza e sullo stack tecnologico. Sia che la crei tramite foglio di calcolo o un’applicazione di gestione dei progetti, la documentazione sarà un’ottima risorsa per monitorare lo stato di avanzamento e registrare i dettagli, nonché per mantenere strutturata e sostenibile l’istanza.
 
 ## Dati {#data}
 
@@ -51,11 +51,12 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr> 
    <td>Organizzazione</td> 
     <td><li>Hai una solida documentazione su come è organizzata la tua istanza di Marketo Engage e perché?</li>
-   <p><p><img src="assets/action-item-icon.png" alt="icona azione">Azione: crea la documentazione che contiene la struttura delle cartelle, la convenzione di denominazione e i canali utilizzati nell’istanza.</td>
+   <p><img src="assets/action-item-icon.png" alt="icona azione">Azione: crea la documentazione che contiene la struttura delle cartelle, la convenzione di denominazione e i canali utilizzati nell’istanza.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>Si dispone di un registro delle modifiche in cui è possibile documentare le modifiche apportate all'istanza e il motivo?</li></td>
+    <td><li>Si dispone di un registro delle modifiche in cui è possibile documentare le modifiche apportate all'istanza e il motivo?</li>
+    <p><img src="assets/action-item-icon.png" alt="icona azione">Azione: scarica questo esempio per creare un changelog e documentare le modifiche apportate alla configurazione dell’istanza.</td>
   </tr>
   <tr> 
    <td>Playbook</td> 
@@ -65,7 +66,8 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr> 
    <td>Conversazioni con le parti interessate interne</td> 
     <td><li>Quali sono le aspettative interne del team Marketing della tua azienda? Corrispondono a quale Marketo Engage viene consegnato?</li>
-   <li>Quali team sono interessati nella tua istanza di Marketo Engage?</li></td>
+   <li>Quali team sono interessati nella tua istanza di Marketo Engage?</li>
+   <p><img src="assets/action-item-icon.png" alt="icona azione">Azione: scarica <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Modello per la guida alle comunicazioni con le parti interessate</a> per documentare gli obiettivi e le aspettative delle principali parti interessate.</td>
   </tr>
  </tbody> 
 </table>
