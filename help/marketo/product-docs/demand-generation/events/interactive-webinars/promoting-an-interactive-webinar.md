@@ -1,10 +1,12 @@
 ---
 description: Promozione di un webinar interattivo - Documentazione di Marketo - Documentazione del prodotto
 title: Promozione di un webinar interattivo
+hide: true
+hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -31,4 +33,4 @@ Entro pochi minuti dalla registrazione, l’URL del webinar per il membro viene 
 
 Puoi utilizzare i token per includere l’URL del webinar per singoli membri in una campagna e-mail per comunicare che sono stati registrati nell’evento e per utilizzare l’URL di unione per accedere al webinar all’ora pianificata. I token del calendario possono essere utilizzati nella stessa campagna e-mail per garantire che la pianificazione del webinar possa essere aggiunta ai calendari dei membri.
 
-Sono stati forniti collegamenti speciali nella sezione [Pagina Panoramica](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) per creare una pagina di destinazione e una campagna e-mail. Le altre promozioni relative a un evento rimangono invariate rispetto ai webinar dei partner che utilizzano l’integrazione Launchpoint.
+Sono stati forniti collegamenti in [Pagina Panoramica](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) per creare una pagina di destinazione e una campagna e-mail. Le altre promozioni relative a un evento rimangono invariate rispetto ai webinar dei partner che utilizzano l’integrazione Launchpoint.
