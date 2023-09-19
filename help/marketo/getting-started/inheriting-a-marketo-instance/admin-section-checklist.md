@@ -3,7 +3,7 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Istanza ereditata: elenco di controllo sezione amministratore {#inherited-instance-admin-section-checklist}
 
-Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state create da Adobe Professional Services con il contributo dei campioni Marketo per aiutarti a imparare a usare al meglio la funzione. Puoi anche scaricare gli elenchi di controllo e tenere traccia dell’avanzamento.
+Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state create da Adobe Professional Services con il contributo dei campioni Marketo per aiutarti a imparare a usare al meglio la funzione. È inoltre possibile [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) e tieni traccia dei tuoi progressi.
 
 >[!TIP]
 >

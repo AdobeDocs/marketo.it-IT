@@ -3,9 +3,9 @@ description: Scopri come ottimizzare e scalare un’istanza di Marketo Engage es
 title: Avvia un'istanza di Marketo Engage ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Assicurati di essere configurato correttamente nella community delle nazioni mar
 * [**Configurare il profilo**](https://nation.marketo.com/){target="_blank"}.
 
 * Consulta la sezione [**Linee guida per il marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* Clic **[!UICONTROL I tuoi luoghi]** sul profilo della community Marketo Nation per controllare la pagina dell’account della tua azienda.
 
 * Scopri come [**invia un caso di supporto**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
@@ -46,7 +44,7 @@ Il team della community unirà i profili della community in 4-6 giorni lavorativ
 
 Ad Adobe, con l’input di Marketo Champions, ha creato diverse liste di controllo ereditate di istanza del Marketo Engage per aiutarti a imparare a lavorare rapidamente. Scopri come navigare nelle diverse aree del Marketo Engage ed eseguire le varie attività necessarie per eseguire un controllo di audit, con i collegamenti alla documentazione di aiuto consigliata inclusa.
 
-Puoi scaricare le liste di controllo anche sotto forma di foglio di calcolo.
+È inoltre possibile [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) sotto forma di foglio di calcolo.
 
 * [Sezione Amministratore](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 

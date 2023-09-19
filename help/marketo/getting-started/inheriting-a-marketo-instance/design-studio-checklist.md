@@ -3,7 +3,7 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 1%
@@ -30,7 +30,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   </tr>
   <tr> 
    <td>Modelli</td> 
-   <td><li>Quanti <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Modelli di pagina di destinazione</a> ci sono? Vengono sfruttati?</li></td>
+   <td><li>Quanti <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Modelli di pagina di destinazione</a> ci sono? Vengono sfruttati?</li></td>
   </tr>
   <tr> 
    <td>Gruppi di test</td> 
@@ -84,7 +84,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <li>I valori nascosti vengono utilizzati in modo appropriato?</li>
 <li>Sono utilizzati moduli di Marketo Engage su pagine di destinazione non appartenenti al Marketo Engage? Come vengono referenziati?</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: aggiorna le pagine in cui incorpori i moduli di Marketo Engage con il nuovo codice di incorporamento introdotto (richiede pagine di destinazione protette).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="miniatura codice"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniatura codice"></a>
 </td>
   </tr>
   <tr> 
