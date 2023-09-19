@@ -3,10 +3,10 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
+source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -84,9 +84,9 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <li>I valori nascosti vengono utilizzati in modo appropriato?</li>
 <li>Sono utilizzati moduli di Marketo Engage su pagine di destinazione non appartenenti al Marketo Engage? Come vengono referenziati?</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: aggiorna le pagine in cui incorpori i moduli di Marketo Engage con il nuovo codice di incorporamento introdotto (richiede pagine di destinazione protette).
-<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<blockquote><form id="mktoForm_1"></form></blockquote>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<form id="mktoForm_1"></form>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
 </td>
   </tr>
   <tr> 
