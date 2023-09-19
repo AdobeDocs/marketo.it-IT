@@ -2,7 +2,7 @@
 description: Elenco di controllo del database delle istanze ereditate - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco di controllo del database delle istanze ereditate
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # Istanza ereditata: elenco di controllo del database {#inherited-instance-database-checklist}
 
-Comprendi il numero totale di persone, persone commerciabili e principali sorgenti di acquisizione persone nel tuo abbonamento. Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
+Comprendi il numero totale di persone, persone commerciabili e principali sorgenti di acquisizione persone nel tuo abbonamento. Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
 
 ## Elenchi smart di sistema {#system-smart-lists}
 
@@ -117,6 +117,6 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 
 <br> 
 
-[◄ audit di un’istanza ereditata: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄ audit di un’istanza ereditata: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Audit di un’istanza ereditata: ► delle attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Audit di un’istanza ereditata: ► delle attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

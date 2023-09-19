@@ -2,7 +2,7 @@
 description: Elenco di controllo delle attività di marketing dell’istanza ereditata - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco di controllo delle attività di marketing dell’istanza ereditata
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Istanza ereditata: elenco di controllo delle attività di marketing {#inherited-instance-marketing-activities-checklist}
 
-Organizza correttamente la sezione Attività di marketing per aiutare gli altri a trovare e gestire vari programmi all’interno dell’istanza del Marketo Engage e garantire che le persone vengano elaborate per passare dal reparto marketing a quello vendite. Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
+Organizza correttamente la sezione Attività di marketing per aiutare gli altri a trovare e gestire vari programmi all’interno dell’istanza del Marketo Engage e garantire che le persone vengano elaborate per passare dal reparto marketing a quello vendite. Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
 
 ## Organizzazione {#organization}
 
@@ -167,6 +167,6 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
 
 <br> 
 
-[◄ Audit di un&#39;istanza ereditata: database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[◄ Audit di un&#39;istanza ereditata: database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[Controllo di un&#39;istanza ereditata: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[Controllo di un&#39;istanza ereditata: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

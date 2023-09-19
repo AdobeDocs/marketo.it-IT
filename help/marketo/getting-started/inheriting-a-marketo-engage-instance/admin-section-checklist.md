@@ -2,16 +2,16 @@
 description: Elenco di controllo dell’amministratore dell’istanza ereditata - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
-source-wordcount: '1592'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Istanza ereditata: elenco di controllo sezione amministratore {#inherited-instance-admin-section-checklist}
 
-Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state create da Adobe Professional Services con il contributo dei campioni Marketo per aiutarti a imparare a usare al meglio la funzione. È inoltre possibile [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
+Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun articolo) sono state create da Adobe Professional Services con il contributo dei campioni Marketo per aiutarti a imparare a usare al meglio la funzione. È inoltre possibile [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 
 <br> 
 
-[Controllo di un&#39;istanza ereditata: ► database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[Controllo di un&#39;istanza ereditata: ► database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
