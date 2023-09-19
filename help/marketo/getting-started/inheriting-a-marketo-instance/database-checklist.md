@@ -3,9 +3,9 @@ description: Elenco di controllo del database delle istanze ereditate - Document
 title: Elenco di controllo del database delle istanze ereditate
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '421'
 ht-degree: 1%
 
 ---
@@ -74,6 +74,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   <tr> 
    <td>Elenchi smart</td> 
    <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Elenchi smart</a> ci sono? Come vengono utilizzati in questa istanza?</li>
+   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: nella sezione Database, gli elenchi smart di gruppo sono generati dall'utente e gli elenchi smart di sistema sono elenchi predefiniti creati dal Marketo Engage.
 <li>Gli elenchi sono organizzati in una struttura di cartelle coesa? 
 <br/>     Se disponi di elenchi orfani, puoi organizzare la struttura in modo che le risorse siano facili da trovare.</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiviare</a> Gli elenchi avanzati che non sono più necessari aiuteranno con l’organizzazione e le prestazioni.</td>
@@ -91,7 +92,8 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr> 
   <tr> 
    <td>Elenchi statici</td> 
-   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Elenchi statici</a> ci sono? Come vengono utilizzati in questa istanza?</li></td>
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Elenchi statici</a> ci sono? Come vengono utilizzati in questa istanza?</li>
+   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: nella sezione Database gli elenchi di gruppi sono elenchi statici.</td>
   </tr>
  </tbody> 
 </table>

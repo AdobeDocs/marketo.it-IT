@@ -3,7 +3,7 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 1%
@@ -94,6 +94,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr> 
    <td>Test e-mail</td> 
    <td><li>Come si utilizza <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">test e-mail</a>? Il vostro metodo è ancora efficace?</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>Privacy e conformità</td> 

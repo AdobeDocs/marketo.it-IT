@@ -4,9 +4,9 @@ description: Configurare i protocolli per Marketo - Documentazione Marketo - Doc
 title: Configurazione dei protocolli per Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 232895f3d07b2b076100eeaaabaea0ed7560c7b2
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '1028'
 ht-degree: 3%
 
 ---
@@ -108,7 +108,7 @@ Il team marketing avrebbe dovuto inviarti anche informazioni DKIM da aggiungere 
 
    Sostituisci il dominio dell’azienda con il dominio principale del tuo sito web (ad esempio: &quot;`(company.com/)`&quot;) e CorpIP con l&#39;indirizzo IP del server e-mail aziendale (ad es. &quot;255.255.255.255&quot;). Se intendi inviare e-mail da più domini tramite Marketo, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).
 
-1. Per DKIM, crea i record di risorse DNS per ogni dominio che desideri impostare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per cui firmeremo:
+1. Per DKIM, crea record di risorse DNS per ogni dominio che desideri impostare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per cui firmeremo:
 
    `[DKIMDomain1]`: il record host è `[HostRecord1]` e il valore TXT è `[TXTValue1]`.
 

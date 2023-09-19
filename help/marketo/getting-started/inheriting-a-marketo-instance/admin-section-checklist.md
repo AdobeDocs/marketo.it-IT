@@ -3,9 +3,9 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
@@ -231,6 +231,21 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
    <td>Oggetti personalizzati</td> 
    <td><li>Quanti <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">oggetti personalizzati</a> ci sono? Come vengono sincronizzati con il tuo sistema CRM?</li>
 <li>In che modo questi oggetti personalizzati vengono utilizzati dai programmi e dalle query elenco?</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## E-mail {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Area</th>
+   <th>Rivedi focus</th>
+  </tr> 
+  <tr> 
+   <td>Impostazioni predefinite e-mail</td> 
+   <td><li>In Amministratore &gt; E-mail, tutte le impostazioni predefinite sono aggiornate (ad esempio, <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">E-mail/etichetta "da"</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">dominio di branding</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">messaggio di annullamento iscrizione</a>, ecc.)?</li></td>
   </tr>
  </tbody> 
 </table>

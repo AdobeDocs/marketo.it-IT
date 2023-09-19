@@ -3,9 +3,9 @@ description: Documento istanza ereditato La tua configurazione - Documentazione 
 title: Documento istanza ereditata Configurazione
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr> 
    <td>Changelog</td> 
     <td><li>Si dispone di un registro delle modifiche in cui è possibile documentare le modifiche apportate all'istanza e il motivo?</li>
-    <p><img src="assets/action-item-icon.png" alt="icona azione">Azione: scarica questo esempio per creare un changelog e documentare le modifiche apportate alla configurazione dell’istanza.</td>
+    <p><img src="assets/action-item-icon.png" alt="icona azione">Azione: crea un registro modifiche e documenta le modifiche apportate alla configurazione dell’istanza.</td>
   </tr>
   <tr> 
    <td>Playbook</td> 
@@ -67,7 +67,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
    <td>Conversazioni con le parti interessate interne</td> 
     <td><li>Quali sono le aspettative interne del team Marketing della tua azienda? Corrispondono a quale Marketo Engage viene consegnato?</li>
    <li>Quali team sono interessati nella tua istanza di Marketo Engage?</li>
-   <p><img src="assets/action-item-icon.png" alt="icona azione">Azione: scarica <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Modello per la guida alle comunicazioni con le parti interessate</a> per documentare gli obiettivi e le aspettative delle principali parti interessate.</td>
+   <p><img src="assets/action-item-icon.png" alt="icona azione">Oggetto azione: documenta gli obiettivi e le aspettative delle principali parti interessate e li aggiorna durante l’archiviazione con le controparti nel corso dell’anno.</td>
   </tr>
  </tbody> 
 </table>
