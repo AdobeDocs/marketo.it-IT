@@ -3,9 +3,9 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,9 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   </tr> 
   <tr> 
    <td>Pagine di destinazione globali</td> 
-   <td><li>Quanti globali <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Pagine di destinazione</a> ci sono? Vengono utilizzati dai programmi?</li></td>
+   <td><li>Quanti globali <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Pagine di destinazione</a> ci sono? Vengono utilizzati dai programmi?</li>
+   <li>Hai un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centro sottoscrizioni</a> configurarlo?
+   <br/>     In caso contrario, puoi crearne una.</li></td>
   </tr>
   <tr> 
    <td>Modelli</td> 
@@ -83,7 +85,8 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 <li>Sono utilizzati moduli di Marketo Engage su pagine di destinazione non appartenenti al Marketo Engage? Come vengono referenziati?</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: aggiorna le pagine in cui incorpori i moduli di Marketo Engage con il nuovo codice di incorporamento introdotto (richiede pagine di destinazione protette).
 <br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<blockquote><form id="mktoForm_1"></form></blockquote>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
 </td>
   </tr>
   <tr> 
