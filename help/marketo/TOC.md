@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '9098'
+source-wordcount: '9106'
 ht-degree: 1%
 
 ---
@@ -1239,6 +1239,7 @@ ht-degree: 1%
             + [Posizione destinatario errata](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Panoramica dei feed live](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Annulla iscrizione {#unsubscribes}
+            + [Aggiungi automaticamente l’impostazione del messaggio di annullamento dell’iscrizione](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
             + [Personalizza messaggio di collegamento per annullare l’abbonamento](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Verifica annullamento iscrizione Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Risottoscrizione e annullamento dell’abbonamento](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
@@ -1402,6 +1403,7 @@ ht-degree: 1%
                + [Configurare un canale di consegna personalizzato per il team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Annulla iscrizione {#unsubscribes}
                + [Panoramica sull’annullamento dell’abbonamento](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+               + [Aggiungi automaticamente l’impostazione del messaggio di annullamento dell’iscrizione](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [Personalizza messaggio di collegamento per annullare l’abbonamento](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Verifica annullamento iscrizione Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronizzazione degli annullamenti di abbonamenti con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)

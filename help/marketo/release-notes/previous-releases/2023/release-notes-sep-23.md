@@ -2,9 +2,9 @@
 description: Note sulla versione - Settembre 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2023
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 1%
 
 ---
@@ -52,16 +52,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><strong>Utilizzo dei miglioramenti apportati alle schede per le risorse di Design Studio</strong>: la scheda Utilizzato da miglioramento fornisce una visualizzazione più dettagliata del tipo e del nome di una risorsa, insieme alla posizione in cui viene utilizzata. Questo è applicabile per i dettagli e-mail e immagini e file.</td> 
    <td>Spedito</td>
    <td>n/d</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Servizio fase flusso formula di calcolo</strong>: la formula di calcolo è un servizio Fase di flusso basato sulla piattaforma IO Runtime di Adobe per l’utilizzo con campagne Marketi Engage intelligenti. I client Adobe con il runtime I/O possono distribuire il servizio e installarlo nelle sottoscrizioni di Marketo Engage, consentendo loro di calcolare formule simili a Excel in Marketo Smart Campaigns.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
   </tr>
  </tbody> 
 </table>
