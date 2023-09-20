@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 362aba77e372ff5ae09878c6a57d6ce97b019421
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <th style="width:20%">Documentazione</th>
   </tr> 
   <tr> 
-   <td><strong>Nuova progettazione per la configurazione dei rapporti nell’interfaccia utente moderna</strong>: quando imposti una risorsa di rapporto, avrai una nuova struttura di risorse nel menu di configurazione e la possibilità di filtrare in base alla data di creazione e di modifica.</td> 
+   <td><strong>Nuova progettazione per la configurazione dei rapporti nell’interfaccia utente moderna</strong>: quando imposti una risorsa di rapporto, avrai <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nuova struttura risorse</a> nel menu di configurazione, nonché la possibilità di filtrare in base alla data di creazione e di modifica.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
