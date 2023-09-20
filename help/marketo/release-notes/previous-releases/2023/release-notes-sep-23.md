@@ -2,9 +2,9 @@
 description: Note sulla versione - Settembre 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2023
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Colonna Utilizzato da conteggio per le risorse di Design Studio</strong>: la Libreria di riferimento dei programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td> 
+   <td><strong>Colonna Utilizzato da conteggio per le risorse di Design Studio</strong>: la colonna Utilizzato dal conteggio per le visualizzazioni elenco in Design Studio evidenzia il numero di risorse utilizzate. Questo è applicabile per snippet, modelli e-mail, Forms e modelli di pagina di destinazione.</td> 
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
