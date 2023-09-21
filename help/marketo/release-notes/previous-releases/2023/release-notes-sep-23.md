@@ -2,9 +2,9 @@
 description: Note sulla versione - Settembre 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2023
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,26 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td><strong>Utilizzo dei miglioramenti apportati alle schede per le risorse di Design Studio</strong>: la scheda Utilizzato da miglioramento fornisce una visualizzazione più dettagliata del tipo e del nome di una risorsa, insieme alla posizione in cui viene utilizzata. Questo è applicabile per i dettagli e-mail e immagini e file.</td> 
    <td>Spedito</td>
    <td>n/d</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Localizzazione per webinar interattivi</strong>: consente di visualizzare i dettagli del programma Marketo Interactive Webinar Event nella lingua desiderata, nonché di scegliere la lingua di consegna in modo che possa essere diversa dalla lingua dell’utente Marketo che ha creato il programma Event.</td> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Domande frequenti sui webinar interattivi</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Gestione degli accessi utente per i webinar interattivi</strong>: la gestione dell’accesso degli utenti consente agli utenti dei webinar interattivi di accedere solo ai programmi evento a cui sono autorizzati, contribuendo a impedire l’accesso non autorizzato.</td> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Accesso utente</a></td>
   </tr>
  </tbody> 
 </table>
