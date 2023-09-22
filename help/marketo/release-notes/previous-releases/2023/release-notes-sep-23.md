@@ -2,7 +2,7 @@
 description: Note sulla versione - Settembre 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2023
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -59,7 +59,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>Localizzazione per webinar interattivi</strong>: consente di visualizzare i dettagli del programma Marketo Interactive Webinar Event nella lingua desiderata, nonché di scegliere la lingua di consegna in modo che possa essere diversa dalla lingua dell’utente Marketo che ha creato il programma Event.</td> 
+   <td><strong>Localizzazione per webinar interattivi</strong>: consente di visualizzare i dettagli del programma Marketo Interactive Webinar Event nella lingua desiderata, nonché di scegliere la lingua di consegna se desideri che sia diversa dalla lingua dell’utente Marketo che ha creato il programma Event.</td> 
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Domande frequenti sui webinar interattivi</a></td>
   </tr>
