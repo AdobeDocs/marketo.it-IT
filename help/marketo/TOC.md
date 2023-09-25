@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 1%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 1%
          + Configurazione e configurazione {#setup-and-configuration}
             + [Configurazione iniziale](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Aggiungi o rimuovi utenti chat](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Autorizzazioni](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Configurazione](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Impostazioni agente](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Gestione agente](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -980,7 +981,7 @@ ht-degree: 1%
             + [Pubblicare una puntata](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Selezionate i vincitori delle puntate](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-mail marketing {#email-marketing}
-      + Recapito messaggi {#deliverability}
+      + Recapito dei messaggi {#deliverability}
          + [Annulla iscrizione durevole](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack: come importare un elenco di seed](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Mancati recapiti permanenti e non permanenti nelle e-mail](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1851,7 +1852,7 @@ ht-degree: 1%
       + Coinvolgi {#engage}
          + [Filtri account](product-docs/target-account-management/engage/account-filters.md)
          + [Attivatori account](product-docs/target-account-management/engage/account-triggers.md)
-      + Misura {#measure}
+      + Misurare {#measure}
          + [Dashboard principale TAM](product-docs/target-account-management/measure/tam-main-dashboard.md)
          + [Impostazione report TAM](product-docs/target-account-management/measure/tam-report-setup.md)
          + [Report vendite TAM](product-docs/target-account-management/measure/tam-sales-report.md)

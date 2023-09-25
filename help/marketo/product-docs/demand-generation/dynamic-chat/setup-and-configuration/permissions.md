@@ -4,649 +4,116 @@ title: Autorizzazioni
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 48%
+source-wordcount: '299'
+ht-degree: 5%
 
 ---
 
 # Autorizzazioni {#permissions}
 
-Tabella
+Gestire l&#39;accesso degli utenti alle varie aree del Dynamic Chat.
+
+1. In [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, fai clic su **Dynamic Chat**.
+
+   ![](assets/permissions-1.png)
+
+1. In **Profili di prodotto** , selezionare il profilo da modificare. In questo esempio, stiamo scegliendo **Agente live**.
+
+   ![](assets/permissions-2.png)
+
+1. Fai clic su **Autorizzazioni** scheda.
+
+   ![](assets/permissions-3.png)
+
+1. Selezionare l&#39;area del Dynamic Chat da modificare. Poiché abbiamo scelto il profilo Live Agent, stiamo selezionando Live Chat. Fai clic sull’icona della matita.
+
+   ![](assets/permissions-4.png)
+
+1. Tutti gli elementi di autorizzazione disponibili sono a sinistra. Puoi scegliere di aggiungere le autorizzazioni una alla volta o tutte contemporaneamente. In questo esempio, scegliamo tutti. Fai clic su **+ Aggiungi tutto** pulsante.
+
+   ![](assets/permissions-5.png)
+
+   >[!NOTE]
+   >
+   >L’abilitazione dell’inclusione automatica aggiungerà tutte le autorizzazioni all’elenco incluso. Quando diventano disponibili nuovi elementi di autorizzazione, questi vengono automaticamente inclusi per quel profilo di prodotto.
+
+1. Fai clic su **Salva**.
+
+   ![](assets/permissions-6.png)
+
+È ora possibile ripetere questa procedura per tutte le altre aree del Dynamic Chat.
+
+![](assets/permissions-7.png)
+
+## Elenco di autorizzazioni {#list-of-permissions}
+
+Di seguito è riportato un elenco di tutte le autorizzazioni disponibili ordinate per area.
 
 <table>
-  <tbody>
-    <tr>
-      <th>S.No.</th>
-      <th>Nome funzione</th>
-      <th>Descrizione</th>
-      <th>Autorizzazioni</th>
-      <th>Pacchetto prezzi</th>
-      <td>Utente marketing</td>
-      <td>Agente live</td>
-      <td>Agente calendario</td>
-      <td>Amministratore marketing</td>
-      <td>Amministratore vendite</td>
-      <td>Utente GenAI</td>
-      <td>Autorizzazioni predefinite</td>
-    </tr>
-    <tr>
-      <td>1.</td>
-      <td>Gestione conversazioni</td>
-      <td>Gestire l’accesso alle finestre di dialogo, incluse le azioni di visualizzazione, modifica e pubblicazione</td>
-      <td>Finestra di dialogo Visualizza</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Finestra di dialogo Gestisci (Crea, Elimina)</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Pubblica dialogo</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td>Gestire l’accesso ai flussi di conversazione, incluse le azioni di visualizzazione, modifica e pubblicazione</td>
-      <td>Visualizza flussi conversazionali</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestire i flussi conversazionali (Crea, Elimina)</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Pubblicare flussi conversazionali</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>2.</td>
-      <td>Chat in tempo reale</td>
-      <td>Gestisce l’accesso alla casella in entrata degli agenti in cui gli agenti possono intrattenere conversazioni live con i visitatori</td>
-      <td>Casella in entrata agente</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza conversazioni personali</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza tutte le conversazioni</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza riepilogo conversazioni</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza risposte assistite</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>3.</td>
-      <td>IA generativa</td>
-      <td>Gestire l’accesso ai flussi di lavoro di risposte assistite basate su GenAI</td>
-      <td>Visualizza libreria di risposte</td>
-      <td>Dynamic Chat Prime</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestisci libreria di risposte (Modifica, Importa, Elimina)</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Genera nuove domande e risposte (Crea, Esporta)</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Pubblica domande e risposte</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza domande senza risposta</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza Knowledge Base</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestisci Knowledge Base (Aggiungi, Modifica, Elimina)</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>4.</td>
-      <td>Riunioni</td>
-      <td>Gestire l'accesso alle informazioni sulle riunioni pianificate nel Dynamic Chat</td>
-      <td>Gestisci tutte le riunioni</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestisci le mie riunioni</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>5.</td>
-      <td>Analytics</td>
-      <td>Gestire l’accesso ai rapporti</td>
-      <td>Visualizzare i rapporti sulle prestazioni globali</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizzare rapporti di chat in diretta</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza report riunioni</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Esportare rapporti</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>6.</td>
-      <td>Impostazioni agente</td>
-      <td>Abilita l'accesso per configurare i profili e la disponibilità del singolo agente</td>
-      <td>Gestire la disponibilità della chat in diretta</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Connetti calendario</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestire la disponibilità del calendario</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>7.</td>
-      <td>Impostazioni di amministrazione</td>
-      <td>Gestire l’accesso a configurazioni di sistema, integrazioni e branding</td>
-      <td>Visualizza aree di lavoro</td>
-      <td>Dynamic Chat Prime</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestisci aree di lavoro (Crea, Modifica, Elimina)</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza round robin</td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizzare le regole personalizzate</p>
-      </td>
-      <td>Versione inclusa</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestire le regole personalizzate (aggiungere, modificare, eliminare)</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza elenco account</td>
-      <td>Dynamic Chat Prime</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestire gli account (aggiungere, modificare, eliminare)</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestione impostazioni chatbot</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestione impostazioni flussi conversazionali</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestire le impostazioni di IA generativa</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestire privacy e sicurezza</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestire le integrazioni</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestisci lingue</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestisci agenti</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza team agenti</td>
-      <td>Dynamic Chat Prime</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gestisci team agenti (aggiungere, modificare, eliminare)</td>
-      <td>Dynamic Chat Prime</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Visualizza limiti di utilizzo</td>
-      <td>Versione inclusa</td>
-      <td>No</td>
-      <td>No</td>
-      <td>No</td>
-      <td>Sì</td>
-      <td>Sì</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-  </tbody>
+<thead>
+  <tr>
+    <th>Area Dynamic Chat</th>
+    <th>Autorizzazioni</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Gestione conversazioni</td>
+    <td><li>Visualizza finestre di dialogo</li>
+    <li>Gestisci finestre di dialogo (crea, elimina)</li>
+    <li>Finestre di dialogo di pubblicazione</li>
+    <li>Visualizza flussi conversazionali</li>
+    <li>Gestisci flussi conversazionali (crea, elimina)</li>
+    <li>Pubblica flussi conversazionali</li></td>
+  </tr>
+  <tr>
+    <td>Chat in tempo reale</td>
+    <td><li>Casella in entrata agente</li>
+    <li>Visualizza conversazioni personali</li>
+    <li>Visualizza tutte le conversazioni</li>
+    <li>Visualizza riepilogo conversazioni<b>*</b></li>
+    <li>Visualizza risposte assistite<b>*</b></li></td>
+  </tr>
+  <tr>
+    <td>Riunioni</td>
+    <td><li>Gestisci tutte le riunioni</li>
+    <li>Gestisci le mie riunioni</li></td>
+  </tr>
+  <tr>
+    <td>Analytics</td>
+    <td><li>Visualizza i Report Prestazioni Globali</li>
+    <li>Visualizzare i rapporti di chat in diretta</li>
+    <li>Visualizza report riunioni</li>
+    <li>Esporta rapporti</li></td>
+  </tr>
+  <tr>
+    <td>Impostazioni agente</td>
+    <td><li>Gestire la disponibilità della chat in tempo reale</li>
+    <li>Connetti calendario</li>
+    <li>Gestisci disponibilità calendario</li></td>
+  </tr>
+  <tr>
+    <td>Impostazioni di amministrazione</td>
+    <td><li>Visualizza aree di lavoro<b>*</b></li>
+    <li>Gestisci aree di lavoro (crea, modifica, elimina)<b>*</b></li>
+    <li>Visualizza round robin</li>
+    <li>Visualizza regole personalizzate</li>
+    <li>Gestire le regole personalizzate (aggiungere, modificare, eliminare)</li>
+    <li>Visualizza elenco account<b>*</b></li>
+    <li>Gestisci account (aggiungere, modificare, eliminare)<b>*</b></li>
+    <li>Gestione impostazioni chatbot</li>
+    <li>Gestione impostazioni flussi conversazionali</li>
+    <li>Gestire privacy e sicurezza</li>
+    <li>Gestire le integrazioni</li>
+    <li>Gestisci lingue<b>*</b></li>
+    <li>Gestisci agenti</li>
+    <li>Visualizza team agenti<b>*</b></li>
+    <li>Gestisci team agenti (aggiungere, modificare, eliminare)<b>*</b></li>
+    <li>Visualizza limiti di utilizzo</li></td>
+  </tr>
+</tbody>
 </table>
+
+**&#42;** Attualmente disponibile solo per gli utenti di Dynamic Prime
