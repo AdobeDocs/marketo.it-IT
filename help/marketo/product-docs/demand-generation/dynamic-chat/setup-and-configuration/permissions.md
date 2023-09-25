@@ -4,16 +4,18 @@ title: Autorizzazioni
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 5%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 
 # Autorizzazioni {#permissions}
 
 Gestire l&#39;accesso degli utenti alle varie aree del Dynamic Chat.
+
+## Personalizza autorizzazioni {#customize-permissions}
 
 1. In [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, fai clic su **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ Gestire l&#39;accesso degli utenti alle varie aree del Dynamic Chat.
 
 ## Elenco di autorizzazioni {#list-of-permissions}
 
-Di seguito è riportato un elenco di tutte le autorizzazioni disponibili ordinate per area.
+Di seguito è riportato un elenco di tutte le autorizzazioni disponibili per ogni area.
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ Di seguito è riportato un elenco di tutte le autorizzazioni disponibili ordinat
     <td><li>Casella in entrata agente</li>
     <li>Visualizza conversazioni personali</li>
     <li>Visualizza tutte le conversazioni</li>
-    <li>Visualizza riepilogo conversazioni<b>*</b></li>
-    <li>Visualizza risposte assistite<b>*</b></li></td>
+    <li>Visualizza riepilogo conversazioni <b>*</b></li>
+    <li>Visualizza risposte assistite <b>*</b></li></td>
   </tr>
   <tr>
     <td>Riunioni</td>
@@ -96,21 +98,21 @@ Di seguito è riportato un elenco di tutte le autorizzazioni disponibili ordinat
   </tr>
   <tr>
     <td>Impostazioni di amministrazione</td>
-    <td><li>Visualizza aree di lavoro<b>*</b></li>
-    <li>Gestisci aree di lavoro (crea, modifica, elimina)<b>*</b></li>
+    <td><li>Visualizza aree di lavoro <b>*</b></li>
+    <li>Gestisci aree di lavoro (crea, modifica, elimina) <b>*</b></li>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Gestire le regole personalizzate (aggiungere, modificare, eliminare)</li>
-    <li>Visualizza elenco account<b>*</b></li>
-    <li>Gestisci account (aggiungere, modificare, eliminare)<b>*</b></li>
+    <li>Visualizza elenco account <b>*</b></li>
+    <li>Gestisci account (aggiungere, modificare, eliminare) <b>*</b></li>
     <li>Gestione impostazioni chatbot</li>
     <li>Gestione impostazioni flussi conversazionali</li>
     <li>Gestire privacy e sicurezza</li>
     <li>Gestire le integrazioni</li>
-    <li>Gestisci lingue<b>*</b></li>
+    <li>Gestisci lingue <b>*</b></li>
     <li>Gestisci agenti</li>
-    <li>Visualizza team agenti<b>*</b></li>
-    <li>Gestisci team agenti (aggiungere, modificare, eliminare)<b>*</b></li>
+    <li>Visualizza team agenti <b>*</b></li>
+    <li>Gestisci team agenti (aggiungere, modificare, eliminare) <b>*</b></li>
     <li>Visualizza limiti di utilizzo</li></td>
   </tr>
 </tbody>
