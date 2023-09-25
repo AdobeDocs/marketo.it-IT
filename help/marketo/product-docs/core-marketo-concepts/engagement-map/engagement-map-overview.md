@@ -2,16 +2,16 @@
 description: Panoramica di Engagement Map - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Engagement Map
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
 
 # Panoramica di Engagement Map {#engagement-map-overview}
 
-La mappa del coinvolgimento consente di creare campagne intelligenti riutilizzabili con l’aiuto di elementi visivi intuitivi. Offre piena compatibilità con le versioni precedenti di tutte le campagne Smart di Marketo Engage esistenti, senza la perdita di funzioni correnti.
+La Mappa di coinvolgimento consente di visualizzare in modo intuitivo le campagne intelligenti. Offre piena compatibilità con le versioni precedenti di tutte le campagne Smart di Marketo Engage esistenti, senza la perdita di funzioni correnti.
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ No. Engagement Map è completamente compatibile con le versioni precedenti. Face
 
 **Avere Engagement Map nel Marketo Engage significa che perderò l’accesso alla struttura delle cartelle e dovrò imparare di nuovo a creare una campagna intelligente?**
 
-No. La cosa fantastica di Engagement Map è che ti offre il meglio di entrambi i mondi; è complementare al modo attuale di creare campagne. Puoi scegliere se utilizzare l’interfaccia esistente o generare/visualizzare nella nuova interfaccia. Tutti gli utenti riceveranno comunque il potente set di funzioni del Marketo Engage, ora integrato da uno strumento di creazione visiva.
+No. La cosa fantastica di Engagement Map è che ti offre il meglio di entrambi i mondi; è complementare al modo attuale di creare campagne. Tutti gli utenti potranno ancora usufruire del potente set di funzioni del Marketo Engage, ora integrato da immagini chiare.
 
 **Engagement Map è un componente aggiuntivo a pagamento?**
 
@@ -86,10 +86,6 @@ No. Tutti gli utenti del Marketo Engage nuovi ed esistenti in tutti gli abboname
 **In qualità di amministratore di Marketo Engage, sono responsabile dell’attivazione/disattivazione di Engagement Map?**
 
 No. Engagement Map sarà disponibile per tutti gli utenti nelle loro istanze. Non sarà possibile attivarla o disattivarla per determinati utenti, aree di lavoro e così via.
-
-**Tutto ciò che è attualmente disponibile in Smart Campaigns è disponibile anche in Engagement Map?**
-
-Sì. Engagement Map dispone della parità completa delle funzioni con le campagne intelligenti.
 
 **In che modo questo è diverso da altri costruttori visivi?**
 

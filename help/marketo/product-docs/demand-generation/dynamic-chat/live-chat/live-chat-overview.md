@@ -2,18 +2,20 @@
 description: Panoramica della chat in diretta - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica chat in diretta
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
 
 # Panoramica chat in diretta {#live-chat-overview}
 
-Utilizza la scheda della chat in tempo reale in [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} quando desideri che i visitatori chattino con un agente live.
+La chat in tempo reale consente ai visitatori del sito web di intrattenere conversazioni in chat in tempo reale con i tuoi agenti di vendita.
 
 ## Utilizzo della scheda Live Chat {#using-the-live-chat-card}
+
+Utilizza la scheda della chat in tempo reale in [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} quando desideri che i visitatori chattino con un agente live.
 
 ![](assets/live-chat-overview-1.png)
 
