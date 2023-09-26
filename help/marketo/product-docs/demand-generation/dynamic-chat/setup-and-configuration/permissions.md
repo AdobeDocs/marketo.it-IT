@@ -2,9 +2,9 @@
 description: Autorizzazioni - Documentazione di Marketo - Documentazione del prodotto
 title: Autorizzazioni
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che �
 
    ![](assets/permissions-6.png)
 
-È ora possibile ripetere questa procedura per qualsiasi altra area del Dynamic Chat.
+È ora possibile ripetere questa procedura per tutte le altre aree del Dynamic Chat.
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ Di seguito è riportato un elenco di tutte le autorizzazioni disponibili per ogn
 <table>
 <thead>
   <tr>
-    <th>Area Dynamic Chat</th>
+    <th style="width:30%">Area Dynamic Chat</th>
     <th>Autorizzazioni</th>
   </tr>
 </thead>
