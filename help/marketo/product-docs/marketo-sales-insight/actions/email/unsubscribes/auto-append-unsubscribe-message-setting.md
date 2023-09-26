@@ -4,7 +4,7 @@ title: Aggiungi automaticamente l’impostazione del messaggio di annullamento d
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Assicurati che ogni e-mail di Sales Insight Actions (Azioni di approfondimento s
 
 >[!TIP]
 >
->Se disattivi l’impostazione di aggiunta del messaggio di annullamento dell’iscrizione, ti consigliamo di aggiungere ai modelli un piè di pagina di annullamento dell’iscrizione per garantire che la comunicazione disponga di un’opzione di rinuncia. A tale scopo, puoi aggiungere un messaggio personalizzato a ciascun modello oppure utilizzare `{{team_unsubscribe}}` campo dinamico.
+>Se disattivi l’impostazione di aggiunta del messaggio di annullamento dell’iscrizione, ti consigliamo di aggiungere ai modelli un piè di pagina di annullamento dell’iscrizione per garantire che la comunicazione disponga di un’opzione di rinuncia. A tale scopo, puoi aggiungere un messaggio personalizzato a ciascun modello oppure utilizzare `{{team_unsubscribe}}` [campo dinamico](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
