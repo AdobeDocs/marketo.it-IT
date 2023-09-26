@@ -2,16 +2,16 @@
 description: Panoramica del Dynamic Chat - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica del Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
+source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '696'
 ht-degree: 1%
 
 ---
 
 # Panoramica del Dynamic Chat {#dynamic-chat-overview}
 
-Il Dynamic Chat ti consente di sfruttare un’interfaccia di facile utilizzo per eseguire il targeting sia delle persone che degli account che visitano il tuo sito web. Raccogli contenuti rilevanti come nome, informazioni di contatto e testo libero. I visitatori del sito possono inoltre prenotare riunioni con il team vendite. I dati relativi all’attività e al coinvolgimento del Dynamic Chat possono essere utilizzati per aggiungere membri ai programmi Marketo e attivare attività cross-channel.
+Il Dynamic Chat ti consente di sfruttare un’interfaccia di facile utilizzo per eseguire il targeting sia delle persone che degli account che visitano il tuo sito web. Raccogli contenuti rilevanti come nome, informazioni di contatto e testo libero. I visitatori del sito possono anche chattare con un agente live e persino prenotare riunioni con il team di vendita. I dati relativi all’attività e al coinvolgimento del Dynamic Chat possono essere utilizzati per aggiungere membri ai programmi Marketo e attivare attività cross-channel.
 
 >[!TIP]
 >
@@ -122,7 +122,7 @@ Lo snippet JavaScript di Dynamic Chat può essere installato su qualsiasi sito W
 
 **Il Dynamic Chat supporta altre lingue oltre all&#39;inglese?**
 
-Sì. Il Dynamic Chat supporta le seguenti lingue: francese, tedesco, giapponese, spagnolo, italiano, portoghese brasiliano, coreano, cinese semplificato e cinese tradizionale. Per ulteriori informazioni, consulta [sezione successiva](#changing-the-language).
+Sì. Il Dynamic Chat supporta le seguenti lingue: francese, tedesco, giapponese, spagnolo, italiano, portoghese brasiliano, coreano, cinese semplificato e cinese tradizionale. Ulteriori informazioni in [Modifica della lingua](#changing-the-language).
 
 **È supportata la funzionalità AI/NLP?**
 
