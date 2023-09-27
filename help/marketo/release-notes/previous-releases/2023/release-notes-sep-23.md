@@ -2,9 +2,9 @@
 description: Note sulla versione - Settembre 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2023
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 1%
 
 ---
@@ -267,3 +267,5 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 ## Annunci {#announcements}
 
 * **Attiva/disattiva opzione obsoleta per Design Studio Assets**: lo switch di attivazione che consente agli utenti di passare dall’interfaccia classica all’esperienza UX moderna per Design Studio diventerà obsoleto, insieme alla vecchia versione dell’esperienza Design Studio, consentendo agli utenti di migrare completamente all’esperienza UX moderna. [Fai clic qui per ulteriori informazioni](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+
+* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione del Marketo Engage di luglio e settembre 2023](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
