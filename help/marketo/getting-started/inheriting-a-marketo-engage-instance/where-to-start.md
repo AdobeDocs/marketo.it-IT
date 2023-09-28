@@ -2,9 +2,10 @@
 description: Scopri come ottimizzare e scalare un’istanza di Marketo Engage esistente che hai ereditato. Segui l’elenco di controllo per controllare le impostazioni di amministrazione e mantenere l’igiene del database.
 title: Da dove iniziare
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---

@@ -1,10 +1,11 @@
 ---
 description: Aggiungi pulsanti di azione alla visualizzazione elenco Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Aggiungi pulsanti di azione alla vista a elenco Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+exl-id: 347cc5d2-dd7a-4221-b00f-812cf484938a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -32,7 +33,7 @@ I pulsanti di azione da installare includono:
 1. Selezionare Layout pulsanti visualizzazione elenco.
 1. Seleziona **Modifica** accanto al layout a cui si desidera aggiungere i pulsanti.
 1. Per modificare gli elementi visibili nella pagina, spostare i pulsanti da Pulsanti disponibili a Pulsanti selezionati utilizzando il pulsante Aggiungi. I pulsanti Azioni includono &quot;Aggiungi a campagna di vendita&quot; e &quot;Invia e-mail di vendita&quot;.
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 1. Se l&#39;operazione è stata eseguita solo per lead o contatti, ripetere i passaggi seguenti per completare l&#39;operazione per l&#39;altro oggetto.
 
 ## In Salesforce Classic {#salesforce-classic}
@@ -42,11 +43,11 @@ I pulsanti di azione da installare includono:
 1. Nella casella Ricerca rapida cercare l&#39;oggetto che si desidera modificare (lead o contatto) e selezionarlo.
 1. Fare clic su per modificare la vista a elenco (lead o contatto).
 1. Per modificare gli elementi visibili nella pagina, spostare i pulsanti da Pulsanti disponibili a Pulsanti selezionati utilizzando il pulsante Aggiungi. I pulsanti Azioni includono &quot;Aggiungi a campagna di vendita&quot; e &quot;Invia e-mail di vendita&quot;.
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 1. Se l&#39;operazione è stata eseguita solo per lead o contatti, ripetere i passaggi seguenti per completare l&#39;operazione per l&#39;altro oggetto.
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo dell’e-mail per le vendite in blocco in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Utilizzo dell’e-mail per vendite in blocco in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
 >* [Utilizzo di Bulk Add to Sales Campaign in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Installare il pacchetto Marketo Sales Insight nell’AppExchange di Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

@@ -1,7 +1,8 @@
 ---
 description: Note sulla versione - Maggio 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2023
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 1%
@@ -56,7 +57,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date prima o dopo la data di rilascio standard. Di seguito è riportato lo stato di ciascuna funzionalità.
 
-### Orchestrazione cross-channel {#cross-channel-orchestration}
+### Orchestrazione tra canali diversi {#cross-channel-orchestration}
 
 </br>
 

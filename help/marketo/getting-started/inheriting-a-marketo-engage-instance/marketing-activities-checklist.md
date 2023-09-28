@@ -2,7 +2,8 @@
 description: Elenco di controllo delle attività di marketing dell’istanza ereditata - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco di controllo delle attività di marketing dell’istanza ereditata
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%

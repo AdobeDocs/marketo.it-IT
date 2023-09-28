@@ -2,7 +2,8 @@
 description: NUR-YYYY-MM-Simple Nurture - Documentazione di Marketo - Documentazione del prodotto
 title: NUR-YYYY-MM-Statura semplice
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 4%
@@ -26,7 +27,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <th>Tipo di programma</th>
   </tr> 
   <tr> 
-   <td>Allevamento</td> 
+   <td>Attività di nurturing</td> 
    <td>01 - Membro 
 <br/>02 - Coinvolto - Completato</td>
    <td>Inclusivo</td>

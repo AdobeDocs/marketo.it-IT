@@ -1,14 +1,15 @@
 ---
 description: Utilizzo dell’invio in blocco di e-mail per le vendite in Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo dell’e-mail per le vendite in blocco in Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+title: Utilizzo dell’e-mail per vendite in blocco in Salesforce
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
 
 ---
 
-# Utilizzo dell’e-mail per le vendite in blocco in Salesforce {#using-bulk-send-sales-email-in-salesforce}
+# Utilizzo dell’e-mail per vendite in blocco in Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
 Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare le comunicazioni in uscita utilizzando le azioni di vendita.
 

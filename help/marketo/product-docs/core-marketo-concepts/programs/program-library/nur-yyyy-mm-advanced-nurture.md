@@ -2,7 +2,8 @@
 description: NUR-YYYY-MM-Advanced Nurture - Documentazione Marketo - Documentazione del prodotto
 title: NUR-YYYY-MM-Sviluppo avanzato
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 3%
@@ -26,7 +27,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <th>Tipo di programma</th>
   </tr> 
   <tr> 
-   <td>Allevamento</td> 
+   <td>Attività di nurturing</td> 
    <td>01 - Membro 
 <br/>02 - Coinvolto - Completato</td>
    <td>Inclusivo</td>

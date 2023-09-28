@@ -2,7 +2,8 @@
 description: Programma WBN-YYYY-MM-DD-Webinar - Documentazione di Marketo - Documentazione del prodotto
 title: Programma del webinar WBN-YYYY-MM-DD
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 5%
