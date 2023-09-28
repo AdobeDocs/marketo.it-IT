@@ -3,7 +3,7 @@ description: Autorizzazioni - Documentazione di Marketo - Documentazione del pro
 title: Autorizzazioni
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%
@@ -67,7 +67,6 @@ Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che Ã
    ![](assets/permissions-11.png)
 
 1. Ora seguire i punti 3-6 della [sezione precedente](#edit-existing-permissions) per ogni area desiderata.
-
 
 ## Elenco di autorizzazioni {#list-of-permissions}
 

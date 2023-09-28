@@ -3,7 +3,7 @@ description: Mappatura campo Dynamics predefinita - Documenti Marketo - Document
 title: Mappatura campo Dynamics predefinita
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 18%
@@ -200,7 +200,7 @@ Quando sincronizzi inizialmente l’account Marketo con Microsoft, Marketo crea 
     </tr>
     <tr>
       <td>Azienda</td>
-      <td>Nome azienda</td>
+      <td>Nome della società</td>
       <td>nome società</td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>parentcustomerid</td>
-      <td>Nome azienda</td>
+      <td>Nome della società</td>
     </tr>
   </tbody>
 </table>
@@ -579,8 +579,8 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>Azienda</td>
-      <td>name</td>
       <td>Nome account</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Numero dipendenti</td>
