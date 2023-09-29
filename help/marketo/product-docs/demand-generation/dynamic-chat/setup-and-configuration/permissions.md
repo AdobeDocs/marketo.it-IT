@@ -3,7 +3,7 @@ description: Autorizzazioni - Documentazione di Marketo - Documentazione del pro
 title: Autorizzazioni
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -148,7 +148,6 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
   <tr>
     <td>Utente marketing</td>
     <td><i>Gestione conversazioni</i>
-    <p>
     <li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
     <li>Finestre di dialogo di pubblicazione</li>
@@ -156,21 +155,21 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
     <li>Pubblica flussi conversazionali</li>
     <p>
-    <p><i>Chat in tempo reale</i></p>
+    <i>Chat in tempo reale</i>
     <li>n/d</li>
     <p>
-    <p><i>Riunioni</i></p>
+    <br/><i>Riunioni</i>
     <li>n/d</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
     <p>
-    <p><i>Impostazioni agente</i></p>
+    <br/><i>Impostazioni agente</i>
     <li>n/d</li>
     <p>
-    <p><i>Impostazioni di amministrazione</i></p>
+    <br/><i>Impostazioni di amministrazione</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
