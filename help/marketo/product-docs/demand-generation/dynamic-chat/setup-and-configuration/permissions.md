@@ -3,7 +3,7 @@ description: Autorizzazioni - Documentazione di Marketo - Documentazione del pro
 title: Autorizzazioni
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -75,7 +75,7 @@ Di seguito è riportato un elenco di tutte le autorizzazioni disponibili per ogn
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Area Dynamic Chat</th>
+    <th style="width:25%">Area Dynamic Chat</th>
     <th>Autorizzazioni</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Profilo</th>
+    <th style="width:25%">Profilo</th>
     <th>Autorizzazioni predefinite</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
     <li>Pubblica flussi conversazionali</li>
-    <p>
+    <br/>
+    <br/>
     <i>Chat in tempo reale</i>
     <li>n/d</li>
-    <p>
+    <br>
     <br/><i>Riunioni</i>
     <li>n/d</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
-    <p>
-    <br/><i>Impostazioni agente</i>
+    <br>
+    <br><i>Impostazioni agente</i>
     <li>n/d</li>
-    <p>
-    <br/><i>Impostazioni di amministrazione</i>
+    <br><i>Impostazioni di amministrazione</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
