@@ -3,7 +3,7 @@ description: Autorizzazioni - Documentazione di Marketo - Documentazione del pro
 title: Autorizzazioni
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -154,22 +154,22 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
     <li>Pubblica flussi conversazionali</li>
-    <br/>
-    <br/>
+    <br>
     <i>Chat in tempo reale</i>
     <li>n/d</li>
     <br>
-    <br/><i>Riunioni</i>
+    <i>Riunioni</i>
     <li>n/d</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
     <br>
-    <br><i>Impostazioni agente</i>
+    <i>Impostazioni agente</i>
     <li>n/d</li>
-    <br><i>Impostazioni di amministrazione</i>
+    <br>
+    <i>Impostazioni di amministrazione</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
@@ -179,27 +179,26 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
   <tr>
     <td><b>Agente live</b></td>
     <td><i>Gestione conversazioni</i>
-    <p>
     <li>Visualizza finestre di dialogo</li>
     <li>Visualizza flussi conversazionali</li>
-    <p>
-    <p><i>Chat in tempo reale</i></p>
+    <br>
+    <i>Chat in tempo reale</i>
     <li>Visualizza conversazioni personali</li>
-    <p>
-    <p><i>Riunioni</i></p>
+    <br>
+    <i>Riunioni</i>
     <li>n/d</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
-    <p>
-    <p><i>Impostazioni agente</i></p>
+    <br>
+    <i>Impostazioni agente</i>
     <li>Gestire la disponibilità della chat in tempo reale</li>
     <li>Connetti calendario</li>
     <li>Gestisci disponibilità calendario</li>
-    <p>
-    <p><i>Impostazioni di amministrazione</i></p>
+    <br>
+    <i>Impostazioni di amministrazione</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
@@ -209,26 +208,25 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
   <tr>
     <td><b>Agente calendario</b></td>
     <td><i>Gestione conversazioni</i>
-    <p>
     <li>Visualizza finestre di dialogo</li>
     <li>Visualizza flussi conversazionali</li>
-    <p>
-    <p><i>Chat in tempo reale</i></p>
+    <br>
+    <i>Chat in tempo reale</i>
     <li>n/d</li>
-    <p>
-    <p><i>Riunioni</i></p>
+    <br>
+    <i>Riunioni</i>
     <li>n/d</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
-    <p>
-    <p><i>Impostazioni agente</i></p>
+    <br>
+    <i>Impostazioni agente</i>
     <li>Connetti calendario</li>
     <li>Gestisci disponibilità calendario</li>
-    <p>
-    <p><i>Impostazioni di amministrazione</i></p>
+    <br>
+    <i>Impostazioni di amministrazione</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
@@ -238,30 +236,29 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
   <tr>
     <td><b>Amministratore marketing</b></td>
     <td><i>Gestione conversazioni</i>
-    <p>
     <li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
     <li>Finestre di dialogo di pubblicazione</li>
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
     <li>Pubblica flussi conversazionali</li>
-    <p>
-    <p><i>Chat in tempo reale</i></p>
+    <br>
+    <i>Chat in tempo reale</i>
     <li>n/d</li>
-    <p>
-    <p><i>Riunioni</i></p>
+    <br>
+    <i>Riunioni</i>
     <li>n/d</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
     <li>Esporta rapporti</li>
-    <p>
-    <p><i>Impostazioni agente</i></p>
+    <br>
+    <i>Impostazioni agente</i>
     <li>n/d</li>
-    <p>
-    <p><i>Impostazioni di amministrazione</i></p>
+    <br>
+    <i>Impostazioni di amministrazione</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Gestire le regole personalizzate (aggiungere, modificare, eliminare)</li>
@@ -277,29 +274,28 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
   <tr>
     <td><b>Amministratore vendite</b></td>
     <td><i>Gestione conversazioni</i>
-    <p>
     <li>Visualizza finestre di dialogo</li>
     <li>Visualizza flussi conversazionali</li>
-    <p>
-    <p><i>Chat in tempo reale</i></p>
+    <br>
+    <i>Chat in tempo reale</i>
     <li>Visualizza conversazioni personali</li>
     <li>Visualizza tutte le conversazioni</li>
-    <p>
-    <p><i>Riunioni</i></p>
+    <br>
+    <i>Riunioni</i>
     <li>Gestisci tutte le riunioni</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
     <li>Esporta rapporti</li>
-    <p>
-    <p><i>Impostazioni agente</i></p>
+    <br>
+    <i>Impostazioni agente</i>
     <li>Gestire la disponibilità della chat in tempo reale</li>
     <li>Connetti calendario</li>
     <li>Gestisci disponibilità calendario</li>
-    <p>
-    <p><i>Impostazioni di amministrazione</i></p>
+    <br>
+    <i>Impostazioni di amministrazione</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Gestire le regole personalizzate (aggiungere, modificare, eliminare)</li>
