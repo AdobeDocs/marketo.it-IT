@@ -4,16 +4,16 @@ description: Requisiti minimi di sistema - Documentazione di Marketo - Documenta
 title: Requisiti minimi di sistema
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Requisiti minimi di sistema {#minimum-system-requirements}
 
-Se ti stai chiedendo cosa devi effettuare per accedere e utilizzare Marketo, ecco le informazioni che stai cercando.
+Se ti stai chiedendo cosa devi effettuare l’accesso e utilizzare il Marketo Engage, ecco le informazioni che stai cercando.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Se ti stai chiedendo cosa devi effettuare per accedere e utilizzare Marketo, ecc
 
 >[!NOTE]
 >
->Se il tuo team IT limita l’accesso web utilizzando un inserisco nell&#39;elenco Consentiti di, chiedi loro di aggiungere `*.marketo.com` per consentire tutte le risorse Marketo e i websockets.
+>Se il tuo team IT limita l’accesso web utilizzando un inserisco nell&#39;elenco Consentiti di, chiedi loro di aggiungere `*.marketo.com`, `*.adobe.com`, e `*.adobe.net` per consentire tutte le risorse di Marketo Engage e i websockets.
