@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
+source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---
@@ -64,4 +64,4 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 * **Marketi Engage Forms jQuery 1.x**: nella versione di gennaio 2024, aggiorneremo jQuery per Marketi Engage Forms a jQuery 3.x. Questo può influire sull’implementazione di moduli personalizzati basati su versioni precedenti di jQuery.
 
-* **Eventi Marketo e Momenti Marketo obsoleti**: a partire dal 2 ottobre 2023, Adobe rimuoverà gli eventi Marketo e i momenti Marketo da tutti gli app store. Utenti esistenti: puoi continuare a utilizzare queste app fino a quando non esegui la migrazione dell’istanza di Marketo Engage a Adobe Identity. Queste app non supportano l’accesso con Adobe ID.
+* **Eventi Marketo e Momenti Marketo obsoleti**: Adobe è [rimozione di eventi Marketo e momenti Marketo](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} da tutti gli app store a partire dal 2 ottobre 2023. Utenti esistenti: puoi continuare a utilizzare queste app fino a quando non esegui la migrazione dell’istanza di Marketo Engage a Adobe Identity. Queste app non supportano l’accesso con Adobe ID.
