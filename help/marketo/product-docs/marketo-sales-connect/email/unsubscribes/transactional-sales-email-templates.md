@@ -4,9 +4,9 @@ title: Modelli e-mail per vendite transazionali
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: ee0f005bb00a7233725d788c318630af90616174
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -17,42 +17,40 @@ Se il team invia e-mail transazionali o non commerciali, puoi contrassegnare un 
 
 ## Aspetti da considerare {#things-to-note}
 
-* Le e-mail non commerciali ignoreranno gli annullamenti delle vendite e [Verifica annullamento iscrizione Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Le e-mail non commerciali ignoreranno gli annullamenti delle vendite e [Verifica annullamento iscrizione Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
-* I messaggi di annullamento dell’abbonamento non verranno aggiunti automaticamente alle e-mail non commerciali, anche se [aggiungi impostazione di amministrazione messaggi di annullamento iscrizione](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} compilerà comunque il messaggio di annullamento dell’iscrizione del team.
+* I messaggi di annullamento dell’abbonamento non verranno aggiunti automaticamente alle e-mail non commerciali, anche se [aggiungi impostazione di amministrazione messaggi di annullamento iscrizione](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} compilerà comunque il messaggio di annullamento dell’iscrizione del team.
 
 ## Configurare un modello di e-mail per uso non commerciale {#configure-an-email-template-for-non-commercial-use}
 
 1. Nell’intestazione, fai clic su **Modelli**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. Cercare il modello che si desidera aggiornare.
+1. Trova e seleziona il modello da aggiornare.
 
-PICC
-
-1. Seleziona il modello.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. Abilita l’interruttore dell’e-mail non commerciale in Impostazioni modello.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## Invia un messaggio e-mail non commerciale {#send-a-non-commercial-email}
 
-Quando viene selezionata una persona non iscritta, questa viene evidenziata in arancione.
+>[!NOTE]
+>
+>Quando viene selezionata una persona non iscritta, questa viene evidenziata in arancione.
 
-1. Nella finestra di composizione selezionare il modello non commerciale che si desidera visualizzare.
+1. Nell’intestazione, fai clic su **Componi**. Trova e seleziona il modello non commerciale desiderato.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
 1. Gli utenti visualizzeranno un banner che mostra loro di aver selezionato un modello e-mail non commerciale.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. Clic **Invia**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 L’e-mail verrà comunque inviata anche se la persona non è abbonata.
