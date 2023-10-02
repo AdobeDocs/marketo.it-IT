@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 1%
 
 ---
@@ -1408,6 +1408,7 @@ ht-degree: 1%
                + [Personalizza messaggio di collegamento per annullare l’abbonamento](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Verifica annullamento iscrizione Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronizzazione degli annullamenti di abbonamenti con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+               + [Modelli e-mail per vendite transazionali](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
             + Utilizzo della finestra Componi {#using-the-compose-window}
                + [Aggiungere un allegato o un contenuto tracciabile all’e-mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [Opzioni di invio e-mail in blocco](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
