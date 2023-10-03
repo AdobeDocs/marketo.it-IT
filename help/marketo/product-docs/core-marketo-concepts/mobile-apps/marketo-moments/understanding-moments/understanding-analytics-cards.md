@@ -4,9 +4,9 @@ description: Informazioni sulle schede di Analytics - Documentazione di Marketo 
 title: Informazioni sulle schede di Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Informazioni sulle schede di Analytics {#understanding-analytics-cards}
 
 All’inizio di ogni mese, Marketo Moments fornisce tre diverse schede di rapporti: lead acquisiti, nuovi lead e annullamenti degli abbonamenti. Ciascuno mostra le prestazioni mensili e la tendenza su un periodo di sei mesi.
+
+>[!IMPORTANT]
+>
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Schede di Analytics {#analytics-cards}
 

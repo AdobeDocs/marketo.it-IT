@@ -4,16 +4,20 @@ description: Informazioni sulle schede evento - Documentazione di Marketo - Docu
 title: Informazioni sulle schede evento
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 1%
 
 ---
 
 # Informazioni sulle schede evento {#understanding-event-cards}
 
 Utilizza Marketo Moments per visualizzare i programmi dell’evento sul telefono o su iPad.
+
+>[!IMPORTANT]
+>
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Quando tocchi una scheda del programma e-mail, puoi:
 

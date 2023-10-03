@@ -4,18 +4,22 @@ description: Informazioni sulle schede per campagne intelligenti - Documentazion
 title: Informazioni sulle schede per campagne avanzate
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # Informazioni sulle schede per campagne avanzate {#understanding-smart-campaign-cards}
 
-Utilizza Marketo Moments per visualizzare ogni esecuzione delle campagne intelligenti dal tuo smartphone o iPad. La smart card Moments di Marketo rappresenta una singola esecuzione di una campagna; viene visualizzata una nuova smart card ogni volta che la smart campaign viene eseguita. Le smart campaign card sono contrassegnate da una lampadina in alto a sinistra.
+Utilizza Marketo Moments per visualizzare ogni esecuzione delle campagne Smart dal tuo smartphone o iPad. La scheda Smart Campaign di Marketo Moments rappresenta una singola esecuzione di una campagna; viene visualizzata una nuova scheda ogni volta che la campagna Smart viene eseguita. Le schede Smart Campaign sono contrassegnate da una lampadina in alto a sinistra.
 
-Per le future campagne intelligenti pianificate ma non ancora eseguite, la scheda Marketo Moments non mostra ancora alcuno stato della campagna. Verranno visualizzati in una versione futura.
+>[!IMPORTANT]
+>
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Marketo Moments non mostra ancora alcuna statistica della campagna. Verranno visualizzati in una versione futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -51,7 +55,7 @@ Per le future campagne intelligenti pianificate ma non ancora eseguite, la sched
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Vedi quei due punti in basso? Indicano che ci sono due e-mail connesse a questa campagna intelligente. Per visualizzare i risultati per l’altra e-mail, scorri lo schermo verso sinistra. Ecco i risultati della seconda e-mail.
+1. Vedi quei due punti in basso? Indicano che a questa Smart Campaign sono collegate due e-mail. Per visualizzare i risultati per l’altra e-mail, scorri lo schermo verso sinistra. Ecco i risultati della seconda e-mail.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -73,9 +77,9 @@ Per le future campagne intelligenti pianificate ma non ancora eseguite, la sched
 
 ## Conferma dell’esecuzione di una campagna avanzata {#confirming-a-smart-campaign-run}
 
-Le schede per le campagne intelligenti non confermate sono grigie fino a quando non le confermi. Poi diventano arancioni.
+Le schede per le campagne Smart Campaign non confermate sono grigie fino a quando non le confermi. Poi diventano arancioni.
 
-1. Per confermare una smart card non confermata, tocca il menu Azioni con tre punti.
+1. Per confermare una scheda di Smart Campaign non confermata, tocca il menu Azioni con tre punti.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -93,7 +97,7 @@ Le schede per le campagne intelligenti non confermate sono grigie fino a quando 
 
 ## Annullamento di un’esecuzione di una campagna avanzata {#canceling-a-smart-campaign-run}
 
-Puoi annullare un’esecuzione confermata e pianificata di una campagna intelligente.
+Puoi annullare un’esecuzione confermata e pianificata di Smart Campaign.
 
 1. Tocca il menu Azioni con tre punti.
 
@@ -103,7 +107,7 @@ Puoi annullare un’esecuzione confermata e pianificata di una campagna intellig
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tocca **Annulla esecuzione**. Se decidi all’ultimo minuto di non annullare l’esecuzione, tocca **Non importa** e la campagna intelligente verrà eseguita come pianificato.
+1. Tocca **Annulla esecuzione**. Se decidi all’ultimo minuto di non annullare l’esecuzione, tocca **Non importa**, e la campagna avanzata verrà eseguita come pianificato.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 

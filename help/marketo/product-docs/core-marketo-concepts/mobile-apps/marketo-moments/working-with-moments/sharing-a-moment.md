@@ -4,16 +4,20 @@ description: Condivisione di un momento - Documentazione di Marketo - Documentaz
 title: Condivisione di un momento
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '157'
 ht-degree: 2%
 
 ---
 
 # Condivisione di un momento {#sharing-a-moment}
 
-Vuoi fornire un aggiornamento al tuo team? Sono disponibili due opzioni per selezionare la condivisione:
+Vuoi fornire un aggiornamento al tuo team? Sono disponibili due opzioni per selezionare la condivisione.
+
+>[!IMPORTANT]
+>
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Tocca il **Condividi** sulla scheda.
 
