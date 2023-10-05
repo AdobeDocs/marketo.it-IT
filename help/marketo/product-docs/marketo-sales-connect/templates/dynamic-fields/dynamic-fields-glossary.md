@@ -4,9 +4,9 @@ description: Glossario dei campi dinamici - Documentazione di Marketo - Document
 title: Glossario dei campi dinamici
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Questo strumento viene utilizzato per `auto-personalize your email` e risparmia 
 * Se le informazioni di un contatto non vengono immesse correttamente o non sono presenti nella pagina Persone, non verranno inserite correttamente nel modello.
 * La differenza tra `{{company}}` e `{{company_friendly}}` è questo `{{company_friendly}}` rimuoverà qualsiasi titolo formale, come Inc., LLC., ecc., dal nome della società del contatto.
 * Quando si utilizza `{{company_friendly}}`, assicurati di separare Inc. o Co. con una virgola nei dettagli di contatto. In questo modo Sales Connect sa cosa rimuovere quando si richiama il valore.
-* Se si utilizza `{{my_signature}}` dinamico, il sistema non aggiunge automaticamente la firma dell&#39;utente per evitare duplicati.
+* Il sistema aggiunge automaticamente la firma dell&#39;utente a ogni e-mail inviata. Se l’utente utilizza un modello con `{{my_signature}}` dinamico, il sistema compilerà la firma in cui il `{{my_signature}}` è stato inserito un campo dinamico. Viene aggiunto solo per evitare duplicazioni. Il sistema gestirà `{{team_unsubscribe}}` nello stesso modo in cui è abilitata l’impostazione globale di aggiunta annullamento iscrizione.
 
 >[!TIP]
 >
