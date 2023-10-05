@@ -3,9 +3,9 @@ description: Campi dinamici - Documentazione di Marketo - Documentazione del pro
 title: Campi dinamici
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -54,14 +54,16 @@ Questo strumento viene utilizzato per `auto-personalize your email` e risparmia 
 
 | Campo dinamico | Esempio di cosa viene visualizzato nell’e-mail |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Se non vuoi più sentirmi dire qualcosa, fammelo sapere |
-| `{{my_name}}` | Alan Bradley |
+| `{{team_unsubscribe}}` | Se non desideri più ricevere e-mail da noi, fai clic qui |
+| `{{friendly_unsubscribe}}` | Stanco di tutte le email? Per favore, fammelo sapere qui |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Scrittore tecnico senior |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Aspetti da considerare**:
 
@@ -69,6 +71,7 @@ Questo strumento viene utilizzato per `auto-personalize your email` e risparmia 
 * La differenza tra `{{company}}` e `{{company_friendly}}` è questo `{{company_friendly}}` rimuoverà qualsiasi titolo formale, come Inc., LLC., ecc., dal nome della società del contatto.
 * Quando si utilizza `{{company_friendly}}`, assicurati di separare Inc. o Co. con una virgola nei dettagli di contatto. In questo modo le azioni di approfondimento sulle vendite sanno cosa rimuovere quando si richiama il valore.
 * Ti consentiamo di personalizzare i modelli e-mail con attributi predefiniti come `{{my_name}}` o `{{my_title}}`. Questi campi ti consentono di fare rapidamente riferimento a te stesso nei tuoi modelli e-mail.
+* Se si utilizza `{{my_signature}}` dinamico, il sistema non aggiunge automaticamente la firma dell&#39;utente per evitare duplicati.
 
 >[!TIP]
 >
