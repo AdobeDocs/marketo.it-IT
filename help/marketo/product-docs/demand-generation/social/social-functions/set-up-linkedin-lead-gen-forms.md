@@ -4,9 +4,9 @@ description: Configurare LinkedIn Lead Gen Forms - Documentazione Marketo - Docu
 title: Configurare LinkedIn Lead Gen Forms
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
+
+>[!NOTE]
+>
+>Un lead LinkedIn non entra nel Marketo Engage se corrisponde a un record persona esistente in Marketo associato a un record azienda creato utilizzando le API aziendali e la sottoscrizione Marketo non è connessa a un CRM.
 
 1. Vai a Marketo **Amministratore**.
 
@@ -47,7 +51,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Noterai che ora sei autorizzato. Clic **Successivo**.
+1. Noterai che ora sei autorizzato. Fai clic su **Avanti**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
@@ -67,7 +71,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    >[!CAUTION]
    >
-   >Marketo supporta la mappatura di due campi LinkedIn in un singolo campo Marketo, **ma solo quando** i due campi di LinkedIn non si trovano nello stesso modulo. Se si esegue il mapping di due campi dello stesso modulo di LinkedIn a un singolo campo di Marketo, è possibile che gli utenti non siano in grado di immettere il database di Marketo.
+   >Marketo supporta la mappatura di due campi LinkedIn in un singolo campo Marketo, **ma solo quando** i due campi di LinkedIn non si trovano nello stesso modulo. Se si esegue il mapping di due campi dello stesso modulo di LinkedIn a un singolo campo di Marketo, è possibile che l&#39;immissione del database di Marketo non venga eseguita correttamente.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
