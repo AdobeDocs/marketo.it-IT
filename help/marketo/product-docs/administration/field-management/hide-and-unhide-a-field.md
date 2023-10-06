@@ -4,16 +4,16 @@ description: Nascondere e scoprire un campo - Documentazione di Marketo - Docume
 title: Nascondere e scoprire un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
 # Nascondere e scoprire un campo {#hide-and-unhide-a-field}
 
-Se non utilizzi più un campo in Marketo, puoi nasconderlo dall’interfaccia utente in modo che non venga più visualizzato nell’applicazione.
+Se non utilizzi più un campo in Marketi Engage, puoi nasconderlo dall’interfaccia utente in modo che non venga più visualizzato nell’applicazione.
 
 ## Nascondi campo {#hide-a-field}
 
@@ -35,7 +35,8 @@ Se non utilizzi più un campo in Marketo, puoi nasconderlo dall’interfaccia ut
 
    >[!NOTE]
    >
-   >Per nascondere un campo, non deve essere associato ad altre risorse (comprese quelle archiviate). Assicurati di rimuovere il campo da tutti gli elenchi avanzati, le scelte delle fasi di flusso, i moduli, le e-mail, ecc., prima di nasconderli.
+   >* Per nascondere un campo, non deve essere associato ad altre risorse (comprese quelle archiviate). Assicurati di rimuovere il campo da tutti gli elenchi avanzati, le scelte delle fasi di flusso, i moduli, le e-mail, ecc., prima di nasconderli.
+   >* Non è possibile nascondere i campi standard (di sistema).
 
 1. Clic **[!UICONTROL Nascondi]** per confermare.
 
@@ -59,8 +60,5 @@ Se non utilizzi più un campo in Marketo, puoi nasconderlo dall’interfaccia ut
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   Ottimo lavoro! Ora sai come rendere visibili i campi nell’interfaccia utente di Marketo.
+   Ottimo lavoro! Ora puoi scoprire i campi e renderli nuovamente visibili.
 
-   >[!TIP]
-   >
-   >È necessario eseguire un&#39;operazione di mascheramento/scoperta di massa? Contattare Marketo Professional Services: services@marketo.com.
