@@ -4,9 +4,9 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '142'
 ht-degree: 5%
 
 ---
@@ -37,39 +37,45 @@ _Le date di rilascio sono soggette a modifiche_
    <th width="250px">Data di rilascio</th>
    <th width="250px">Stato</th>
   </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">Ottobre '22</a></td>
-   <td>14 ottobre 2022</td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-jan-23.md">Gennaio '23</a></td>
-   <td>20 gennaio 2023</td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">Marzo '23</a></td>
-   <td>31 marzo 2023</td>
-   <td>Spedito</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-may-23.md">Maggio '23</a></td>
-   <td>12 maggio 2023</td>
-   <td>Spedito</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">Luglio '23</a></td>
-   <td>21 luglio 2023</td>
-   <td>Spedito</td>
-  </tr>
-  <tr>
+
+<tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">Settembre '23</a></td>
    <td>8 settembre 2023</td>
-   <td>In corso</td>
+   <td>Spedito</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Ottobre '23</a></td>
    <td>6 ottobre 2023</td>
+   <td>In corso</td>
+  </tr>
+  <tr> 
+   <td>Gennaio '24</td>
+   <td>12 gennaio 2024</td>
+   <td>Su pianificazione</td>
+  </tr>
+  <tr> 
+   <td>Marzo '24</td>
+   <td>8 marzo 2024</td>
+   <td>Su pianificazione</td>
+  </tr>
+  <tr> 
+   <td>Aprile '24</td>
+   <td>26 aprile 2024</td>
+   <td>Su pianificazione</td>
+  </tr>
+  <tr>
+   <td>Giugno '24</td>
+   <td>7 giugno 2024</td>
+   <td>Su pianificazione</td>
+  </tr>
+  <tr> 
+   <td>Agosto '24</td>
+   <td>9 agosto 2024</td>
+   <td>Su pianificazione</td>
+  </tr>
+  <tr> 
+   <td>Ottobre '24</td>
+   <td>4 ottobre 2024</td>
    <td>Su pianificazione</td>
   </tr>
  </tbody>
