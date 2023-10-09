@@ -3,18 +3,18 @@ description: Accesso utente con Adobe ID - Documentazione Marketo - Documentazio
 title: Accesso utente con Adobe ID
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: d1ea45826d9ddf55a67d615b757b6deb9b5c6fc2
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Accesso utente con Adobe ID {#user-sign-in-with-adobe-id}
 
-Quando un utente con Adobe Identity deve effettuare l’accesso all’applicazione di Marketo Engage, deve effettuare l’accesso tramite il collegamento Accesso di Adobe ID rispetto al login tipico nella pagina di accesso di Marketo. Facendo clic sul collegamento, l&#39;utente viene indirizzato all&#39;applicazione di Marketo Engage.
+Quando un utente con Adobe Identity deve effettuare l’accesso all’applicazione di Marketo Engage, deve effettuare l’accesso tramite il collegamento di accesso Adobe ID anziché il login tipico nella pagina di accesso del Marketo Engage. Facendo clic sul collegamento, l&#39;utente viene indirizzato all&#39;applicazione di Marketo Engage.
 
-1. Fai clic su **[!UICONTROL Accedi con un Adobe ID]** nella pagina di accesso di Marketo.
+1. Clic **[!UICONTROL Continua con Adobe ID]** nella pagina di accesso al Marketo Engage.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 
