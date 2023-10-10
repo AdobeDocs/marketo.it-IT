@@ -4,9 +4,9 @@ description: Priorità ordine di segmentazione - Documenti Marketo - Documentazi
 title: Priorità ordine di segmentazione
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0dd2aa60bd1cac141d57188d0e618702143e2671
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -20,26 +20,24 @@ ht-degree: 0%
 >[Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >[Definire le regole del segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
+>[!NOTE]
+>
+>Puoi modificare una segmentazione solo in modalità bozza.
+
 1. Vai a **Database**.
 
-   ![](assets/image2017-3-29-8-3a9-3a33.png)
+   ![](assets/segmentation-order-priority-1.png)
 
 1. Seleziona il **Segmentazione**. In entrata **Azioni di segmentazione**, fai clic su **Modifica segmenti**.
 
-   ![](assets/image2014-9-16-10-3a11-3a55.png)
-
-   >[!NOTE]
-   >
-   >Puoi modificare solo una bozza della segmentazione.
+   ![](assets/segmentation-order-priority-2.png)
 
    Da questa schermata puoi controllare o modificare l’ordine dei segmenti.
 
-   ![](assets/image2014-9-16-10-3a12-3a3.png)
+   ![](assets/segmentation-order-priority-3.png)
 
 >[!NOTE]
 >
 >* I segmenti si escludono a vicenda. Una persona può essere membro di un solo segmento alla volta.
 >* Quando una persona è idonea per due segmenti, apparterrà solo al primo segmento dell’elenco.
 >* Se una persona non è idonea per alcun segmento, diventa membro del segmento predefinito.
-
-Fantastico, eh? Puoi utilizzare i segmenti per contenuti dinamici, reporting e anche in elenchi avanzati.
