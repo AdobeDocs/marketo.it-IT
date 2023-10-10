@@ -4,9 +4,9 @@ description: Utilizzo di un ID universale per l’accesso in abbonamento - Docum
 title: Utilizzo di un ID universale per l’accesso in abbonamento
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Con un ID universale per più abbonamenti, solo tu puoi modificare la password.
 
 >[!NOTE]
 >
->Marketo chiederà agli utenti che desiderano usare un Universal ID di reimpostare la propria password se la password dell’abbonamento corrente non è conforme ai criteri della password del secondo abbonamento a cui vengono invitati.
+>Marketo chiederà agli utenti che desiderano usare un Universal ID di reimpostare la propria password se la password dell&#39;abbonamento corrente non è conforme ai criteri della password del secondo abbonamento a cui sono stati invitati.
 
 ## Passaggio tra le sottoscrizioni {#switching-between-subscriptions}
 
@@ -61,10 +61,10 @@ Se disponi di più abbonamenti, puoi avere più profili community. È consigliab
 
 ## Piattaforma mobile {#mobile-platform}
 
-Gli utenti con ID universale possono visualizzare i propri dati in Marketo Moments e nell’applicazione di archiviazione degli eventi di iPad dall’ultimo abbonamento a cui hanno effettuato l’accesso. Non è possibile modificare gli abbonamenti dalla piattaforma Mobile stessa.
+Gli utenti con ID universale possono visualizzare i propri dati su [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} dall’ultimo accesso effettuato a. Non è possibile modificare gli abbonamenti dalla piattaforma Mobile stessa.
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere il Single Sign-On a un portale](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Limita l&#39;accesso degli utenti solo all&#39;SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invito degli utenti di Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Aggiungere il Single Sign-On a un portale](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [Limita l&#39;accesso degli utenti solo all&#39;SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Invito degli utenti di Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
