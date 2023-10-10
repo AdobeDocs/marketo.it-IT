@@ -3,7 +3,7 @@ description: Come posso risolvere il problema "Impossibile autenticare la richie
 title: Come posso risolvere il problema "Impossibile autenticare la richiesta" durante la connessione a Salesforce?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Se l’istanza a cui stai tentando di connetterti è un dominio Sandbox Salesfor
 
 ## Risolvi app OAuth bloccata {#resolve-oauth-app-blocked}
 
-Se ricevi il messaggio di errore &quot;Non siamo in grado di autenticare la tua richiesta&quot; con il tipo di errore Bloccato dall’app OAuth o un altro tipo nell’URL, potrebbe esserci una restrizione nell’accesso all’API di Salesforce. Rivolgiti all’amministratore di Salesforce per verificare che siano presenti i seguenti elementi.
+Se ricevi il messaggio di errore &quot;Non siamo in grado di autenticare la tua richiesta&quot; con il tipo di errore Oauth App Blocked (o di altro tipo) nell’URL, potrebbe esserci una restrizione nell’accesso all’API di Salesforce. Rivolgiti all’amministratore di Salesforce per verificare che i seguenti elementi siano corretti.
 
 ### Abilitare l’API nelle autorizzazioni utente {#enable-api-in-user-permissions}
 
