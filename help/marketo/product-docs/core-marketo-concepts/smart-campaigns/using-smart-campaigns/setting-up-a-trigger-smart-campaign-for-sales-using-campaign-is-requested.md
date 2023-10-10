@@ -4,9 +4,9 @@ description: Configurazione di una campagna avanzata di attivazione per le vendi
 title: Impostazione di una campagna avanzata di attivazione per le vendite tramite "È richiesta la campagna"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -26,24 +26,24 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 
 1. Creare un **Campagna intelligente.**
 
-   ![](assets/image2015-5-20-16-3a3-3a25.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Trova e trascina **Campagna richiesta** nell’area di lavoro.
+1. Trova e trascina **Campagna richiesta** attiva l’area di lavoro.
 
-   ![](assets/campaignfilterdrag.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
 1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurati di scegliere **Vendite** **Insight**.
 
    >[!TIP]
    >
-   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne o sviluppatori avanzati. Scegli **È qualsiasi** nella prima casella se desideri consentire le richieste da tutte le origini.
+   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegli **È qualsiasi** nella prima casella se desideri consentire le richieste da tutte le origini.
    >
    >**Ricorda**, scegliendo Insight vendite, magicamente apparirà nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
 
-   ![](assets/image2015-5-20-17-3a56-3a56.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
 È un ottimo modo per estendere la tua portata di marketing ad altri reparti. Imposta tutti i tipi di campagne per l’automazione.
 
 >[!TIP]
 >
->Non dimenticare di dare un nome chiaro alle campagne intelligenti. In Sales Insight verranno mostrati esattamente come li si chiama.
+>Non dimenticare di dare un nome chiaro alle campagne avanzate. In Sales Insight verranno mostrati esattamente come li si chiama.

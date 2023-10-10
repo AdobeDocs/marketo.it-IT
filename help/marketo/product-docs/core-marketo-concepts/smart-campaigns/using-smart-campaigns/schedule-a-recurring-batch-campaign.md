@@ -4,43 +4,45 @@ description: Pianificazione di una campagna batch ricorrente - Documentazione di
 title: Pianificare una campagna batch ricorrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # Pianificare una campagna batch ricorrente {#schedule-a-recurring-batch-campaign}
 
-La ricorrenza ti consente di eseguire una campagna batch intelligente su una pianificazione regolare. Ad esempio: una volta alla settimana, lunedì alle 12:00.
+La ricorrenza consente di eseguire una campagna in batch secondo una pianificazione regolare. Ad esempio: una volta alla settimana, martedì alle 00:00.
 
-1. Seleziona la campagna, vai alla scheda Pianificazione e fai clic su **Pianifica Ricorrenza**.
+1. Seleziona la campagna avanzata, vai alla **Pianificazione** e fai clic su **Pianifica Ricorrenza**.
 
-   ![](assets/recurrencehands-sendemail.png)
+   ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Fai clic sull’elenco a discesa Pianifica e seleziona **Ogni settimana**.
+1. Fai clic su **Pianificazione** a discesa e selezionare **Ogni settimana**.
 
-   ![](assets/image2014-9-22-11-3a41-3a42.png)
+   ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
-1. Fai clic sull’icona del calendario e seleziona il giorno della prima esecuzione. Per questo esempio, utilizzeremo il prossimo lunedì disponibile.
+1. Fai clic sull’icona del calendario e seleziona il giorno desiderato per la prima esecuzione.
 
-   ![](assets/image2014-9-22-11-3a41-3a46.png)
+   ![](assets/schedule-a-recurring-batch-campaign-3.png)
 
 1. Seleziona l’ora in cui deve essere eseguito.
 
-   ![](assets/image2014-9-22-11-3a41-3a49.png)
+   ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Lascia Ripeti ogni come 1, seleziona Lunedì e fai clic su **Salva**.
+1. Lascia Ripeti ogni come 1, seleziona Martedì e fai clic su **Salva**.
 
-   ![](assets/image2014-9-22-11-3a41-3a53.png)
+   ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
-1. Puoi visualizzare le ricorrenze pianificate nella scheda Pianificazione per la convalida.
+   >[!NOTE]
+   >
+   >Per una durata di esecuzione specifica, puoi fare clic sull’icona del calendario accanto a **Fine il** e scegliere la data di fine.
 
-   ![](assets/recurrence.jpg)
+Le ricorrenze pianificate vengono visualizzate nella parte inferiore della scheda Pianificazione.
+
+![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->Nella scheda Pianificazione vengono visualizzate le tre occorrenze successive come riferimento.
-
-Ed è tutto! La campagna batch verrà ora eseguita ogni lunedì a mezzogiorno.
+>Nella scheda Pianificazione vengono visualizzate le tre occorrenze successive come riferimento. Clic sul rosso **X** annullerà l’esecuzione specifica.
