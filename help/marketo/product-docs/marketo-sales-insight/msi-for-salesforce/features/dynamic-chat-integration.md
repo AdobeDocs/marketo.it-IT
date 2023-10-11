@@ -3,9 +3,9 @@ description: Integrazione dei Dynamic Chat - Documentazione Marketo - Documentaz
 title: Integrazione Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '396'
 ht-degree: 5%
 
 ---
@@ -16,9 +16,11 @@ Ulteriori informazioni sull’integrazione del Dynamic Chat con Sales Insight.
 
 >[!PREREQUISITES]
 >
->* La versione del pacchetto SFDC Sales Insight deve essere [1.9 o superiore](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* La versione del pacchetto SFDC Sales Insight deve essere [2.4.0 o versione successiva](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* È necessario disporre di [Integrazione del Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} configurazione
+>
+>* Assicurati in Sales Insight [Impostazioni operative](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Scheda Configurazione di Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
