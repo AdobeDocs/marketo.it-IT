@@ -2,9 +2,10 @@
 description: Domande frequenti sul Dynamic Chat - Documentazione Marketo - Documentazione del prodotto
 title: Domande frequenti sul Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Lo snippet JavaScript di Dynamic Chat può essere installato su qualsiasi sito W
 
 **Il Dynamic Chat supporta altre lingue oltre all&#39;inglese?**
 
-Sì. Il Dynamic Chat supporta le seguenti lingue: francese, tedesco, giapponese, spagnolo, italiano, portoghese brasiliano, coreano, cinese semplificato e cinese tradizionale. Ulteriori informazioni in [Modifica della lingua](#changing-the-language).
+Sì. Il Dynamic Chat supporta le seguenti lingue: francese, tedesco, giapponese, spagnolo, italiano, portoghese brasiliano, coreano, cinese semplificato e cinese tradizionale. Ulteriori informazioni in [Modifica della lingua](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **È supportata la funzionalità AI/NLP?**
 
@@ -80,6 +81,10 @@ Questo probabilmente indica che la connessione al calendario deve essere autenti
 **Qual è la differenza tra un dialogo e un flusso conversazionale?**
 
 Una finestra di dialogo è una conversazione che viene visualizzata automaticamente ai visitatori Web che soddisfano un set definito di criteri di targeting. Un flusso conversazionale viene visualizzato solo ai visitatori che eseguono un’azione specifica sul web, ad esempio la pressione di un pulsante.
+
+**È possibile utilizzare il Dynamic Chat per prenotare le riunioni direttamente da un&#39;e-mail?**
+
+Sì. [Scopri come](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Posso usare il Dynamic Chat senza Marketo Engage?**
 

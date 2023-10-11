@@ -3,9 +3,9 @@ description: Flussi di lavoro per eventi - Documentazione di Marketo - Documenta
 title: Flussi di lavoro eventi
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -32,30 +32,41 @@ Il dashboard è costituito da quattro widget.
 
 **Attività di download dei clic e dei file**: fornisce il numero di download del file e dei collegamenti web su cui è stato fatto clic durante il webinar con tecnologia Adobe Connect da parte di vari membri che hanno partecipato al webinar e intrapreso tale azione specifica.
 
+## Registrazione webinar {#webinar-recording}
+
+Vai alla scheda Panoramica per visualizzare il webinar registrato, ottenere il relativo collegamento per condividerlo, anche scaricare una copia.
+
+![](assets/event-workflows-2.png)
+
+>[!NOTE]
+>
+>* La registrazione viene scaricata in formato MP4.
+>* Quando condividi la registrazione, questa sarà visibile a chiunque abbia il collegamento, quindi accertati che sia condivisa con il pubblico a cui è destinata.
+
 ## Trigger e filtri {#triggers-and-filters}
 
 Utilizza i trigger e i filtri relativi al webinar interattivo per individuare gruppi specifici di persone all’interno del programma di eventi.
 
-![](assets/event-workflows-2.png)
+![](assets/event-workflows-3.png)
 
 Ogni trigger/filtro è dotato di vincoli aggiuntivi che consentono di acquisire un sottoinsieme mirato di quel gruppo.
 
 **Pone domande durante l’evento** (Versione filtro: Ha posto domande durante l’evento)
 
-![](assets/event-workflows-3.png)
+![](assets/event-workflows-4.png)
 
 **Partecipa all&#39;evento** (Versione filtro: ha partecipato all’evento)
 
-![](assets/event-workflows-4.png)
+![](assets/event-workflows-5.png)
 
 **Clic su un collegamento** (Versione filtro: Selezionato su un collegamento)
 
-![](assets/event-workflows-5.png)
+![](assets/event-workflows-6.png)
 
 **Scarica una risorsa** (Versione filtro: Scaricata una risorsa)
 
-![](assets/event-workflows-6.png)
+![](assets/event-workflows-7.png)
 
 **Risponde a un sondaggio** (Versione filtro: Risposta a un sondaggio)
 
-![](assets/event-workflows-7.png)
+![](assets/event-workflows-8.png)

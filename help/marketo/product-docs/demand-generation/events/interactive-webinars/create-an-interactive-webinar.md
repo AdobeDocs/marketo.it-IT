@@ -3,9 +3,9 @@ description: Creazione di un webinar interattivo - Documentazione di Marketo - D
 title: Creare un webinar interattivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Viene creato il webinar interattivo. Ora è il momento di [progettarlo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Viene creato il webinar interattivo. Puoi aggiungere relatori e/o co-host.
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+Ora è il momento di [progettare il webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
