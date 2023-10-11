@@ -3,7 +3,7 @@ description: Flussi di lavoro per eventi - Documentazione di Marketo - Documenta
 title: Flussi di lavoro eventi
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Il dashboard è costituito da quattro widget.
 
 ## Registrazione webinar {#webinar-recording}
 
-Vai alla scheda Panoramica per visualizzare il webinar registrato, ottenere il relativo collegamento per condividerlo, anche scaricare una copia.
+Vai alla scheda Panoramica per visualizzare il webinar registrato, ottieni il collegamento per condividerlo, anche scaricare una copia.
 
 ![](assets/event-workflows-2.png)
 
