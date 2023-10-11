@@ -2,10 +2,10 @@
 description: Progettazione flussi - Documentazione di Marketo - Documentazione del prodotto
 title: Designer flusso
 feature: Dynamic Chat
-exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1107'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Lo stream designer contiene più schede che è possibile aggiungere per modellar
  </tr>
  <tr>
   <td><strong>Azione</strong></td>
-  <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile popolare qualsiasi attributo del lead o dell’azienda con valori impliciti che si desidera acquisire in base a un record del lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.</td>
+  <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile compilare qualsiasi attributo del lead o dell’azienda (che presenta un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo di dati string</a>) con valori impliciti che si desidera acquisire in base a un record lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.</td>
  </tr>
  <tr>
   <td><strong>Chat in tempo reale</strong></td>
