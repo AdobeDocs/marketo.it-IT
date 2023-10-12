@@ -4,36 +4,32 @@ description: Aggiungere un passaggio di flusso a una campagna avanzata - Documen
 title: Aggiungere un passaggio di flusso a una campagna avanzata
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # Aggiungere un passaggio di flusso a una campagna avanzata {#add-a-flow-step-to-a-smart-campaign}
 
-I passaggi di flusso indicano a Marketo cosa desideri che accada a un gruppo di persone qualificate. Sono le tue istruzioni, e la campagna intelligente farà la tua offerta!
+I passaggi di flusso indicano a Marketo cosa desideri che accada a un gruppo di persone qualificate. Sono le tue istruzioni, e Smart Campaign farà la tua offerta!
 
 1. Vai a **Attività di marketing**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. Seleziona la tua campagna intelligente e fai clic su **Flusso**.
+1. Seleziona la tua campagna avanzata e fai clic su **Flusso**.
 
-   ![](assets/image2014-9-19-16-3a27-3a1.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
-   Digita per cercare un passaggio di flusso, quindi trascinalo e rilascialo nell’area di lavoro. Puoi aggiungere più passaggi di flusso, ripetili con ogni passaggio che desideri eseguire nella campagna.
+1. Digita per cercare un passaggio di flusso, quindi trascinalo e rilascialo nell’area di lavoro. Puoi aggiungere più passaggi di flusso, ripetili con ogni passaggio che desideri eseguire nella campagna.
 
-   ![](assets/image2014-9-19-16-3a27-3a7.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-3.png)
 
-1. Fai clic sull’elenco a discesa e scegli un’opzione appropriata.
+1. Fai clic sull’opzione e sul valore desiderati.
 
-   ![](assets/four-1.png)
-
-1. Immetti il valore.
-
-   ![](assets/changescorevalue-cursor.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-4.png)
 
 >[!NOTE]
 >
@@ -43,7 +39,7 @@ I passaggi di flusso indicano a Marketo cosa desideri che accada a un gruppo di 
 >
 >In caso di voce non valida, viene visualizzata una linea ondulata rossa. Passa il cursore del mouse sulla riga per vedere come correggerla.
 
-Fantastico! Assicurati di [rivedere e convalidare la campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) prima di programmarlo o attivarlo.
+Fantastico! Assicurati di [rivedere e convalidare Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) prima di programmarlo o attivarlo.
 
 >[!MORELIKETHIS]
 >
