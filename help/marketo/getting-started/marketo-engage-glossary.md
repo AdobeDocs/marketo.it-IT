@@ -4,7 +4,7 @@ description: Glossario del Marketo Engage - Documentazione di Marketo - Document
 title: Glossario Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 1%
@@ -132,7 +132,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Campagna</strong></td> 
+   <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">"Campagna" potrebbe significare alcune cose in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagna</a> è un termine più breve per campagna intelligente. In entrata <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagne</a> sono una serie di passaggi di corrispondenza multicanale. In entrata <strong>Personalizzazione web</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagne</a> sono reazioni personalizzate associate a un segmento specifico.</td> 
   </tr> 
   <tr> 
@@ -172,7 +172,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td colspan="1">In Marketo puoi creare duplicati di diversi tipi di entità all’interno dell’istanza. È possibile clonare <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programmi</a>, un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">risorsa all’interno di un programma</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">flusso</a>, e altro ancora.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">La parte anteriore dell’URL. L'unica parola (più YourCompany.com) è denominata CNAME (ad esempio, <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td colspan="1">Un tipo di programma in Marketo. Un programma generico da utilizzare quando un programma di e-mail, evento o coinvolgimento non è rilevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Recapito messaggi</strong></td> 
+   <td colspan="1"><strong>Recapito dei messaggi</strong></td> 
    <td colspan="1">La capacità di un messaggio e-mail di raggiungere la casella in entrata del destinatario, che può essere influenzata da <strong>spam</strong> e i filtri lato client. Diverso da "Consegnato", che indica solo che l’e-mail è stata consegnata al server del destinatario.</td> 
   </tr> 
   <tr> 
