@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -42,8 +42,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
    <tr> 
    <td><strong>Servizio fase flusso formula di calcolo</strong>: la formula di calcolo è un servizio Fase di flusso basato sulla piattaforma di Adobe IO Runtime per l’utilizzo con campagne Marketi Engage intelligenti. Chi dispone di un runtime di I/O può distribuire il servizio e installarlo nelle sottoscrizioni di Marketo Engage, consentendo di calcolare formule simili a Excel nelle campagne Smart di Marketo Engage.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Guida utente di Calcola formula</a></td>
   </tr>
   <tr> 
    <td> </td> 
