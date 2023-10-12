@@ -1,20 +1,20 @@
 ---
 unique-page-id: 1147318
-description: Glossario delle scelte rapide da tastiera - Documenti Marketo - Documentazione del prodotto
+description: Glossario delle scelte rapide da tastiera - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario delle scelte rapide da tastiera
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 4%
+source-wordcount: '114'
+ht-degree: 5%
 
 ---
 
 # Glossario delle scelte rapide da tastiera {#keyboard-shortcuts-glossary}
 
-Lei è una persona con le scelte rapide da tastiera? Ti abbiamo coperto!
+Sei una persona che lavora con le scelte rapide da tastiera? Ti copriamo!
 
-## Navigazione in area: {#area-navigation}
+## Navigazione area {#area-navigation}
 
 | Scelta rapida da tastiera | Area |
 |---|---|
@@ -24,22 +24,21 @@ Lei è una persona con le scelte rapide da tastiera? Ti abbiamo coperto!
 | Alt/Opt + F | Ricerca globale |
 | Alt/Opt + L | Database |
 | Alt/Opt + M | Attività di marketing |
-| Opt + N | Amministratore |
-| Opt + O | My Marketo |
-| Alt/Opt + S | Menu a discesa Superball |
+| Opt+N | Amministratore |
+| Opt+O | Il mio Marketo |
 
-## Navigazione in visualizzazione Calendario/Pianificazione:  {#calendar-schedule-view-navigation}
-
-| Scelta rapida da tastiera | Azione |
-|---|---|
-| Alt/Opt + freccia su | Indietro nel tempo |
-| Alt/Opt + Freccia giù | Avanti nel tempo |
-| Alt/Opt + T | Vai a &#39;Today&#39; |
-
-## Varie: {#miscellaneous}
+## Navigazione visualizzazione calendario/pianificazione  {#calendar-schedule-view-navigation}
 
 | Scelta rapida da tastiera | Azione |
 |---|---|
-| ESC | Chiudi pop-up |
-| Invio/Invio | Finestra a comparsa Invia |
-| Ctrl+Alt/Opt+H | Nascondere/visualizzare un campo nell’editor moduli |
+| Alt/Opt + Freccia Su | Indietro nel tempo |
+| Alt/Opt + Freccia giù | Avanza nel tempo |
+| Alt/Opt + T | Vai a &#39;Oggi&#39; |
+
+## Varie {#miscellaneous}
+
+| Scelta rapida da tastiera | Azione |
+|---|---|
+| ESC | Chiudi finestra a comparsa |
+| Invio/Ritorno | Invia pop-up |
+| Ctrl + Alt/Opt + H | Nascondere/mostrare un campo nell’editor di moduli |

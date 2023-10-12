@@ -4,9 +4,9 @@ description: Anteprima di un’e-mail - Documenti Marketo - Documentazione del p
 title: Anteprima di un’e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Tocca **Anteprima e-mail**.
+1. Tocca **[!UICONTROL Anteprima e-mail]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -34,5 +34,3 @@ Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne
    >[!NOTE]
    >
    >Per inviare un campione direttamente dalla pagina di anteprima e-mail, tocca l’icona dell’aeroplano di carta in alto a destra.
-
-   Eccellente!

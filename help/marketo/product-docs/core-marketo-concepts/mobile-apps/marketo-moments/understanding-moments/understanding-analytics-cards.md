@@ -4,9 +4,9 @@ description: Informazioni sulle schede di Analytics - Documentazione di Marketo 
 title: Informazioni sulle schede di Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -51,17 +51,15 @@ Il **Lead acquisiti** La scheda mostra un rapporto sul numero di nuovi lead, mes
 
 ## Nuovi lead {#new-leads}
 
-Il **Nuovi lead** La scheda mostra un rapporto sulle tendenze rispetto al mese precedente del numero totale di nuovi lead nella tua istanza negli ultimi sei mesi.
+Il **[!UICONTROL Nuovi lead]** La scheda mostra un rapporto sulle tendenze rispetto al mese precedente del numero totale di nuovi lead nella tua istanza negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Annulla iscrizione {#unsubscribes}
 
-Il **Annulla iscrizione** mostra un rapporto sulla tendenza mensile del tasso di annullamento degli abbonamenti negli ultimi sei mesi.
+Il **[!UICONTROL Annulla iscrizione]** mostra un rapporto sulla tendenza mensile del tasso di annullamento degli abbonamenti negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-Ora lo sai.
 
 >[!MORELIKETHIS]
 >

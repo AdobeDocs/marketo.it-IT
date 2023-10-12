@@ -4,9 +4,9 @@ description: Informazioni sulle schede evento - Documentazione di Marketo - Docu
 title: Informazioni sulle schede evento
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,9 @@ Quando tocchi una scheda del programma e-mail, puoi:
 * [Contrassegna un evento come completato](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Condivisione di una scheda dei momenti dell’evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Sono disponibili due schede evento. La scheda sul deck, inviata poche ore prima dell’evento, mostra il numero di persone iscritte. Nella scheda Risultati, inviata successivamente, viene visualizzato il numero di partecipanti effettivi.
+Sono disponibili due schede evento. Il [!UICONTROL Sul deck] , inviata poche ore prima dell’evento, mostra il numero di persone iscritte. Il [!UICONTROL Risultati] , inviata in seguito, mostra il numero di partecipanti effettivi.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
-
-Sei brava!
 
 >[!MORELIKETHIS]
 >

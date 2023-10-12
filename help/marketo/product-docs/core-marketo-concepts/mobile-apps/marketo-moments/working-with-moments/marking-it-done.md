@@ -4,16 +4,16 @@ description: Contrassegno completato - Documentazione Marketo - Documentazione d
 title: Contrassegno completato
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 # Contrassegno completato {#marking-it-done}
 
-Contrassegna un programma e-mail, un evento o una scheda di analisi come completato per rimuoverlo dal flusso. Ci sono due modi per farlo.
+Contrassegna un programma e-mail, un evento o una scheda di analisi come [!UICONTROL Fine] per rimuoverlo dal flusso. Ci sono due modi per farlo.
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ Contrassegna un programma e-mail, un evento o una scheda di analisi come complet
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Tocca **Fine**.
+1. Tocca **[!UICONTROL Fine]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ Contrassegna un programma e-mail, un evento o una scheda di analisi come complet
    >[!NOTE]
    >
    >Se si contrassegna una scheda come Completata, non viene eliminata l’e-mail, l’evento o la smart campaign. Lo sposta solo dal flusso Momenti/Più tardi al flusso Fatto (Done).
-
-Un pezzo di torta!

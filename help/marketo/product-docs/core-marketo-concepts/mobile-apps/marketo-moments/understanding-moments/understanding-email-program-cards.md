@@ -4,9 +4,9 @@ description: Informazioni sulle schede del programma e-mail - Documentazione di 
 title: Informazioni sulle schede del programma e-mail
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Dopo l’invio dell’e-mail, la scheda mostra altre informazioni importanti, tr
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tocca **Conferma**.
+1. Tocca **[!UICONTROL Conferma]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tocca **Conferma** per terminare il lavoro, oppure **Non importa** se ha avuto dei ripensamenti.
+1. Tocca **[!UICONTROL Conferma]** per terminare il lavoro, oppure **[!UICONTROL Non importa]** se ha avuto dei ripensamenti.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Dopo l’invio dell’e-mail, la scheda mostra altre informazioni importanti, tr
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tocca **Annulla invio**.
+1. Tocca **[!UICONTROL Annulla invio]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Puoi riprogrammare le schede e-mail confermate o non confermate.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tocca **Riprogramma**.
+1. Tocca **[!UICONTROL Riprogramma]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Seleziona una data nel calendario e tocca **Riprogramma**.
+1. Seleziona una data nel calendario e tocca **[!UICONTROL Riprogramma]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcun
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocca **Invia esempio**.
+1. Tocca **[!UICONTROL Invia esempio]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Inserisci un indirizzo e-mail e fai clic su **Invia esempio**.
+1. Inserisci un indirizzo e-mail e fai clic su **[!UICONTROL Invia esempio]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,17 +105,13 @@ Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcun
 
 Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l’anteprima.
 
-1. Tocca **Anteprima e-mail**.
+1. Tocca **[!UICONTROL Anteprima e-mail]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
    In questo modo, sai che la tua e-mail è perfetta prima di premere il grilletto!
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
-
-   Eccellente!
-
-E questo è lo scoop sulla visualizzazione delle tue campagne e-mail. Ora, sei un professionista!
 
 >[!MORELIKETHIS]
 >

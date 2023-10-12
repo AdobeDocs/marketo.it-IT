@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2953207
-description: Crea nuova cartella campagna - Documentazione Marketo - Documentazione del prodotto
+description: Creare una nuova cartella di campagne - Documentazione di Marketo - Documentazione del prodotto
 title: Crea nuova cartella campagna
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -12,33 +12,33 @@ ht-degree: 0%
 
 # Crea nuova cartella campagna {#create-new-campaign-folder}
 
-Le cartelle di Campaign ti consentono di mantenere un’area di lavoro ordinata. Segui questi semplici passi e sei sulla strada verso la magia dell&#39;automazione.
+Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Segui questi semplici passaggi e stai andando verso la magia dell’automazione.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Attività di marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona **Nuovo**.
+1. Seleziona **[!UICONTROL Nuovo]**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Seleziona **Nuova cartella campagna**.
+1. Seleziona **[!UICONTROL Nuova cartella Campaign]**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Inserisci un **Nome** per la cartella della campagna.
+1. Immetti un **[!UICONTROL Nome]** per la cartella campaign.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facoltativo: Inserisci un **Descrizione** e fai clic su **Crea**.
+1. Facoltativo: immettere un valore **[!UICONTROL Descrizione]** e fai clic su **[!UICONTROL Crea]**.
 
    >[!TIP]
    >
-   >Le descrizioni sono per altri utenti dell’abbonamento. Il messaggio non verrà visualizzato dai clienti.
+   >Le descrizioni sono per altri utenti dell’abbonamento. I clienti non visualizzeranno questo messaggio.
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Fantastico! È stata appena creata una cartella della campagna. Guardate nell&#39;albero.
+   Fantastico! Hai appena creato una cartella della campagna. Controllalo nell&#39;albero.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
@@ -48,4 +48,3 @@ Le cartelle di Campaign ti consentono di mantenere un’area di lavoro ordinata.
 >
 >* [Creare un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Creare una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
