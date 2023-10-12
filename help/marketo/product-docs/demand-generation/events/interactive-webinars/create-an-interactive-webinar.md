@@ -3,9 +3,9 @@ description: Creazione di un webinar interattivo - Documentazione di Marketo - D
 title: Creare un webinar interattivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,10 @@ Crea un webinar interattivo in pochi semplici passaggi.
 Viene creato il webinar interattivo. Puoi aggiungere relatori e/o co-host.
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+>[!NOTE]
+>
+>I co-host e i relatori possono essere utenti esterni e non devono avere accesso al Marketo Engage. Dovrai solo fornire loro l’URL del webinar.
 
 <br>
 
