@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: 639bb1404117607af116122b410479d37ae32fad
 workflow-type: tm+mt
-source-wordcount: '9102'
+source-wordcount: '9094'
 ht-degree: 1%
 
 ---
@@ -192,7 +192,6 @@ ht-degree: 1%
          + [Modifica la password di Marketo](product-docs/administration/settings/change-your-marketo-password.md)
          + [Modifica le impostazioni di protezione tramite password](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Creazione di una scheda personalizzata per la pagina Dettagli persona](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Personalizzare gli URL della pagina di destinazione con un CNAME](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [Modifica impostazioni account](product-docs/administration/settings/edit-account-settings.md)
          + [Modifica impostazioni di supporto browser &quot;Do Not Track&quot; (Non tenere traccia)](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Modifica impostazioni pagina di destinazione](product-docs/administration/settings/edit-landing-page-settings.md)
