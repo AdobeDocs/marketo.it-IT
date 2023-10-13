@@ -4,20 +4,20 @@ description: Utilizzo della scheda Risorse - Documentazione di Marketo - Documen
 title: Utilizzo della scheda Risorse
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # Utilizzo della scheda Risorse {#using-the-assets-tab}
 
-L’area di lavoro delle risorse è una rappresentazione visiva del programma. Puoi utilizzarlo per aggiungere risorse locali e interagire con quelle esistenti.
+L’area di lavoro delle risorse è una rappresentazione visiva del programma predefinito o dell’evento. Puoi utilizzarlo per aggiungere risorse locali e interagire con quelle esistenti.
 
 ## Aggiunta di risorse {#adding-assets}
 
-Dalla sezione **Attività di marketing** , fare clic sul pulsante **Risorse** scheda. Scegli una delle risorse seguenti e aggiungile al programma.
+Fai clic su **[!UICONTROL Risorse]** nel programma desiderato. Scegli una delle risorse seguenti e aggiungile al programma.
 
 ![](assets/programassets.png)
 

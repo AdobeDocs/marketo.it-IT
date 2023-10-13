@@ -3,7 +3,7 @@ description: Informazioni sul tracciamento degli obiettivi e sulle registrazioni
 title: Informazioni sul tracciamento degli obiettivi e sulle registrazioni previste
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Informazioni sul tracciamento degli obiettivi e sulle registrazioni previste {#understanding-goal-tracking-and-projected-registrations}
 
-Ecco come tenere traccia dell’avanzamento dell’obiettivo e comprendere le previsioni di Marketo.
+Ecco come tracciare i progressi del tuo obiettivo e comprendere le previsioni di Marketo.
 
 >[!PREREQUISITES]
 >
@@ -44,17 +44,17 @@ Se non hai attivato l’interruttore di attivazione, ecco come apparirà nell’
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-Tutti i membri (registrati e non ancora registrati) sono classificati in base alla probabilità di registrazione. Passa il cursore del mouse sull’icona delle informazioni per vedere come vengono definite queste categorie di probabilità.
+Tutti i membri (registrati e non ancora registrati) sono classificati in base alla probabilità di registrazione. Passa il cursore del mouse sull’icona delle informazioni per vedere come vengono definite queste categorie di probabilità.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->I numeri di previsione vengono aggiornati ogni 24 ore fino al giorno dell’evento. Tutti i membri elencati come _Elaborazione_ sarà incluso nel successivo ciclo di calcolo.
+>I numeri di previsione vengono aggiornati ogni 24 ore fino al giorno dell’evento. Tutti i membri elencati come _Elaborazione_ sarà incluso nel successivo ciclo di calcolo.
 
 ## Programmi simili
 
-Puoi ottenere informazioni approfondite sull’evento corrente osservando le prestazioni di programmi simili in passato. Questa sezione mostra fino a 5 programmi simili degli ultimi 6 mesi, con il numero/percentuale di membri che sono stati _Registrato_ o superiore.
+Puoi ottenere informazioni approfondite sull’evento corrente osservando le prestazioni di programmi simili in passato. Questa sezione mostra fino a 5 programmi simili degli ultimi 6 mesi, con il numero/percentuale di membri che sono stati _Registrato_ o superiore.
 
 Nel calcolare programmi simili, includiamo i seguenti fattori, tra gli altri:
 
@@ -69,13 +69,13 @@ Nel calcolare programmi simili, includiamo i seguenti fattori, tra gli altri:
 
 ## Recommendations
 
-Nella parte superiore della pagina Rapporti, puoi trovare consigli basati su AI/ML in base all’avanzamento. Controlla periodicamente la disponibilità di suggerimenti e informazioni utili.
+Nella parte superiore della sezione [!UICONTROL Rapporti] pagina, puoi trovare consigli basati su AI/ML in base all’avanzamento. Controlla periodicamente la disponibilità di suggerimenti e informazioni utili.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Previsioni a livello di persona
 
-Fai clic su **[!UICONTROL Membri]** per visualizzare tutti i membri del programma. Passa il puntatore del mouse sopra **[!UICONTROL Probabilità di registrazione]** o **[!UICONTROL Probabilità di partecipazione]** barre per visualizzare percentuali e categorizzazioni esatte. Potrai quindi intervenire sui membri di una particolare categoria (ad esempio, tutti coloro che rientrano nella categoria &quot;Meno probabili&quot; per la registrazione) e indirizzarli in modo specifico per aumentare potenzialmente i numeri di registrazione.
+Fai clic su **[!UICONTROL Membri]** per visualizzare tutti i membri del programma. Passa il puntatore del mouse sopra **[!UICONTROL Probabilità di registrazione]** o **[!UICONTROL Probabilità di partecipazione]** barre per visualizzare percentuali e categorizzazioni esatte. Potrai quindi intervenire sui membri di una particolare categoria (ad esempio, tutti coloro che rientrano nella categoria &quot;Meno probabili&quot; per la registrazione) e indirizzarli in modo specifico per aumentare potenzialmente i numeri di registrazione.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
