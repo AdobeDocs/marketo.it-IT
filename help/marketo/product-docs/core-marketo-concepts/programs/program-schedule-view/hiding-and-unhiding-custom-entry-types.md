@@ -4,7 +4,7 @@ description: Nascondere e rendere visibili i tipi di voce personalizzati - Docum
 title: Nascondere e rendere visibili i tipi di voce personalizzati
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,11 +17,11 @@ I tipi di voce personalizzati possono essere nascosti nella sezione Amministrato
 
 ## Nascondi un tipo di voce personalizzato {#hide-a-custom-entry-type}
 
-1. Vai a **Amministratore** e fai clic su **Voce calendario** **Tipi**.
+1. Vai a **[!UICONTROL Amministratore]** e fai clic su **[!UICONTROL Tipi di voci del calendario]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Fare clic con il pulsante destro del mouse sulla voce personalizzata e scegliere **Nascondi**.
+1. Fare clic con il pulsante destro del mouse sulla voce personalizzata e scegliere **[!UICONTROL Nascondi]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ I tipi di voce personalizzati possono essere nascosti nella sezione Amministrato
 
 Se si desidera rendere visibile un tipo di voce personalizzato, è anche facile.
 
-1. Fai clic con il pulsante destro del mouse sulla voce e seleziona **Scopri**.
+1. Fai clic con il pulsante destro del mouse sulla voce e seleziona **[!UICONTROL Scopri]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

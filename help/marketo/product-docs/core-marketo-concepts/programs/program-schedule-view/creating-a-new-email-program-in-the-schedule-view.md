@@ -4,9 +4,9 @@ description: Creazione di un nuovo programma e-mail nella vista Pianificazione -
 title: Creazione di un nuovo programma e-mail nella vista Pianificazione
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi creare un programma e-mail dalla vista pianificazione del programma. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Attività di marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ Puoi creare un programma e-mail dalla vista pianificazione del programma. Ecco c
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Immetti un nome. Seleziona **Programma e-mail**.
+1. Immetti un nome. Seleziona **[!UICONTROL Programma e-mail]**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +35,8 @@ Puoi creare un programma e-mail dalla vista pianificazione del programma. Ecco c
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configurare il programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e fai clic su **Approva programma**.
+1. [Configurare il programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} e fai clic su **[!UICONTROL Approva programma]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Oltre alla dashboard dettagliata, un vantaggio è l’utilizzo di un’ [programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) invece di una campagna intelligente è la capacità di implementare facilmente un’ [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Buon lavoro!
+   Oltre alla dashboard dettagliata, un vantaggio è l’utilizzo di un’ [programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Buon lavoro!

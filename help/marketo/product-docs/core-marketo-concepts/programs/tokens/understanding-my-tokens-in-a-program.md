@@ -4,7 +4,7 @@ description: Informazioni sui token in un programma - Documentazione di Marketo 
 title: Informazioni sui token in un programma
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Un token è una variabile che puoi utilizzare nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare la tua vita.
 
-Oltre a I miei token, nei programmi puoi utilizzare anche qualsiasi token incorporato. Consulta la sezione [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+Oltre a I miei token, nei programmi puoi utilizzare anche qualsiasi token incorporato. Consulta la sezione [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## I miei token  {#my-tokens}
 
-I miei token sono variabili personalizzate che chiunque può creare. Sono [creato](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) nelle cartelle o nei programmi di campaign.
+I miei token sono variabili personalizzate che chiunque può creare. Sono [creato](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} nelle cartelle o nei programmi di campaign.
 
 I miei token sono visualizzati così: `{{my.Name Of Token}}`
 
@@ -93,5 +93,5 @@ Lo spostamento di programmi e cartelle influisce anche sui token. Verificare sem
 
 >[!MORELIKETHIS]
 >
->* [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Gestione dei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Gestione dei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

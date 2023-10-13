@@ -4,10 +4,10 @@ description: Modifica delle voci nella visualizzazione Pianificazione programma 
 title: Modifica delle voci nella vista Pianificazione programma
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Puoi apportare modifiche ai diversi elementi del programma nella vista Pianifica
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Digita un nuovo nome e premi **Invio/Ritorno** per confermare la modifica.
+1. Digita un nuovo nome e premi **[!UICONTROL Invio/Ritorno]** per confermare la modifica.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -35,7 +35,7 @@ Puoi apportare modifiche ai diversi elementi del programma nella vista Pianifica
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Modifica la descrizione. Clic **Salva**.
+1. Modifica la descrizione. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 

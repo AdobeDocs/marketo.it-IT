@@ -4,9 +4,9 @@ description: Creazione di una voce nella visualizzazione Pianificazione programm
 title: Creazione di una voce nella vista Programmazione programma
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Creare una voce di base {#create-a-basic-entry}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Attività di marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il programma. Fai clic su **Visualizza** a discesa. Seleziona **Pianificazione**.
+1. Seleziona il programma. Fai clic su **[!UICONTROL Visualizza]** a discesa. Seleziona **[!UICONTROL Pianificazione]**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Denomina la voce. Premi **Invio** per confermare il nome.
+1. Denomina la voce. Premi **[!UICONTROL Invio]** per confermare il nome.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. Inserisci la descrizione e fai clic su **Salva**.
+1. Inserisci la descrizione e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,15 +51,15 @@ ht-degree: 0%
 
 ## Cambia tipo di voce {#change-entry-type}
 
-1. Selezionare una voce di base dalla **Agenda** visualizzazione.
+1. Selezionare una voce di base dalla **[!UICONTROL Agenda]** visualizzazione.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Seleziona la **Tipo** a discesa. Scegliere un nuovo tipo di voce.
+1. Seleziona la **[!UICONTROL Tipo]** a discesa. Scegliere un nuovo tipo di voce.
 
    >[!NOTE]
    >
-   >Da fare è un [voce personalizzata](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Puoi creare una sezione da fare e altre voci personalizzate per tenere traccia di voci dell’agenda non Marketo.
+   >Da fare è un [voce personalizzata](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. Puoi creare una sezione da fare e altre voci personalizzate per tenere traccia di voci dell’agenda non Marketo.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Puoi anche creare una [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o [programma e-mail](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) dalla vista pianificazione.
+> Puoi anche creare una [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} or [email program](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} dalla vista pianificazione.

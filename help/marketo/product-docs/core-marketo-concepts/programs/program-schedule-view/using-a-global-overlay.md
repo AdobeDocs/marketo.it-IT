@@ -4,9 +4,9 @@ description: Utilizzo di una sovrapposizione globale - Documentazione di Marketo
 title: Utilizzo di una sovrapposizione globale
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
 >[!PREREQUISITES]
 >
->È necessario disporre di [Licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) per utilizzare questa funzione.
+>È necessario disporre di [Licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} per utilizzare questa funzione.
 
 ## Utilizzare la sovrapposizione globale {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Seleziona **Sovrapposizione** nell’angolo in basso a destra.
+1. Seleziona **[!UICONTROL Sovrapposizione]** nell’angolo in basso a destra.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,16 +39,16 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
 ## Utilizzare un filtro salvato come sovrapposizione {#use-a-saved-filter-as-an-overlay}
 
-Se hai [ha salvato un filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), è possibile utilizzarlo come sovrapposizione nella visualizzazione della pianificazione del programma.
+Se hai [ha salvato un filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, è possibile utilizzarlo come sovrapposizione nella visualizzazione della pianificazione del programma.
 
-1. Fai clic su **Sovrapposizione** e seleziona la definizione del filtro.
+1. Fai clic su **[!UICONTROL Sovrapposizione]** e seleziona la definizione del filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   Così facile! Ora vedrai una sovrapposizione definita dal filtro salvato e selezionato.
+   Ora vedrai una sovrapposizione definita dal filtro salvato e selezionato.
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >[Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

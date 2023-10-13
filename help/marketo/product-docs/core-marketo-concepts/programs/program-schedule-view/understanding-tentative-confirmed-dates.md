@@ -4,7 +4,7 @@ description: Informazioni sulle date provvisorie/confermate - Documentazione Mar
 title: Informazioni sulle date provvisorie/confermate
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informazioni sulle date provvisorie/confermate {#understanding-tentative-confirmed-dates}
 
-Le campagne intelligenti e i programmi e-mail hanno una potente funzionalità per essere contrassegnati come **Provvisorio** o **Confermato**. Ecco come funzionano.
+Le campagne intelligenti e i programmi e-mail hanno una potente funzionalità per essere contrassegnati come **[!UICONTROL Provvisorio]** o **[!UICONTROL Confermato]**. Ecco come funzionano.
 
 ## Provvisorio {#tentative}
 
@@ -47,7 +47,7 @@ Le voci confermate verranno sicuramente eseguite. Hanno regole, risorse approvat
 
 ## Completato  {#finished}
 
-Le voci completate sono già state eseguite. Possono essere solo nel passato (ovviamente). Una volta che una voce è stata eseguita e **Completato**, non è possibile spostarlo o renderlo provvisorio. (Nessuna realtà mutevole e interruzione del flusso temporale).
+Le voci completate sono già state eseguite. Possono essere solo nel passato (ovviamente). Una volta che una voce è stata eseguita e **[!UICONTROL Completato]**, non è possibile spostarlo o renderlo provvisorio. (Nessuna realtà mutevole e interruzione del flusso temporale).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
