@@ -4,7 +4,7 @@ description: Riordinare i passaggi del flusso in una campagna avanzata - Documen
 title: Riordinare i passaggi del flusso in una campagna avanzata
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 17662d6c45ced21053fe18506ee79bb4b8f10c10
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -21,7 +21,7 @@ I passaggi del flusso vengono eseguiti dall’alto verso il basso. Ecco come rio
 
 1. Nella scheda Flusso campagne avanzato, trascina e rilascia il passaggio di flusso nel punto in cui lo desideri.
 
-![](assets/image2014-9-22-13-3a49-3a11.png)
+![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
