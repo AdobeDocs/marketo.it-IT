@@ -3,9 +3,9 @@ description: Esportazione di metadati di oggetti personalizzati - Documentazione
 title: Esportazione metadati oggetti personalizzati
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Se utilizzi l’API SOAP o l’API Munchkin, puoi esportare lo schema metadati o
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 1. Vai a **[!UICONTROL Amministratore]** area.
 

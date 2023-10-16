@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949281
-description: Rilasciare una licenza di Marketo Email Add-in - Documentazione di Marketo - Documentazione del prodotto
+description: Rilasciare una licenza di Marketo Email Add-in - Documenti Marketo - Documentazione del prodotto
 title: Rilasciare una licenza di Marketo Email Add-in
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ A tutti gli utenti che desiderano utilizzare il componente aggiuntivo Outlook di
 
 >[!AVAILABILITY]
 >
->Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Gestire i dati del profilo social - Documentazione di Marketo - Doc
 title: Gestione dati profilo social network
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '310'
 ht-degree: 5%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 5%
 
 Quando qualcuno interagisce con un Marketo [app social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), o autorizza il proprio social network a precompilare un modulo Marketo con [compilazione modulo social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo acquisisce tutti i dati disponibili dal loro profilo social. È possibile visualizzare queste informazioni su [Pagina Dettagli persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)o aggiungerlo come colonna in una [visualizzazione personalizzata di un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
-Il riempimento dei moduli social e le app social network acquisiscono set di campi leggermente diversi; vedi la sezione per ciascuno di essi.
+La compilazione dei moduli social e le app social network acquisiscono set di campi leggermente diversi; vedi la sezione per ciascuno di essi.
 
 >[!AVAILABILITY]
 >
->Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 ## Acquisito tramite app social {#captured-via-social-app}
 
@@ -29,7 +29,7 @@ A seconda delle impostazioni della rete e della privacy dell&#39;utente, vengono
 >
 >Le informazioni aggiuntive provenienti dai social network vengono visualizzate nella pagina Dettagli persona circa cinque minuti dopo l’autorizzazione della persona.
 
-## Da Twitter: {#from-twitter}
+## Dal Twitter: {#from-twitter}
 
 * Nome (analizzato da Nome visualizzato)
 * Cognome (analizzato da Nome visualizzato)
@@ -58,7 +58,7 @@ A seconda delle impostazioni della rete e della privacy dell&#39;utente, vengono
 >
 >I dati acquisiti dal riempimento del modulo social network sovrascrivono i campi corrispondenti a meno che tu non [blocca gli aggiornamenti a tali campi a livello di modulo](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## Da Twitter: {#from-twitter-1}
+## Dal Twitter: {#from-twitter-1}
 
 * Nome (analizzato da Nome visualizzato)
 * Cognome (analizzato da Nome visualizzato)

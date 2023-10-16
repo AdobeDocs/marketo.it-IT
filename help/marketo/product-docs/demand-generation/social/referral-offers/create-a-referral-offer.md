@@ -4,9 +4,9 @@ description: Creare un’offerta di riferimento - Documentazione di Marketo - Do
 title: Creare un’offerta di riferimento
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le offerte di referral forniscono alle persone un incentivo per indirizzare i lo
 
 >[!AVAILABILITY]
 >
->Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 1. Nel programma, seleziona **Nuovo** > **Nuova risorsa locale**.
 

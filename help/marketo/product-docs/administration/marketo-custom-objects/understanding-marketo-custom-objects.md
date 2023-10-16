@@ -4,9 +4,9 @@ description: Informazioni sugli oggetti personalizzati di Marketo - Documentazio
 title: Informazioni sugli oggetti personalizzati di Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Utilizza oggetti personalizzati per tenere traccia delle metriche specifiche del
 
 >[!AVAILABILITY]
 >
->Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 Utilizza oggetti personalizzati come filtri e attivatori nelle campagne intelligenti. Ad esempio:
 
@@ -31,7 +31,7 @@ Utilizza oggetti personalizzati come filtri e attivatori nelle campagne intellig
 
 Una struttura uno-a-molti utilizza un singolo campo di collegamento per collegare l’oggetto personalizzato a una persona o a un’azienda.
 
-Gli oggetti personalizzati &quot;da molti a molti&quot; utilizzano due campi di collegamento, parte di un oggetto intermedio. Un campo Collegamento è connesso alla persona o all’azienda e un altro all’oggetto personalizzato, ad esempio il catalogo dei corsi. Questo oggetto intermedio può contenere campi personalizzati aggiuntivi, ad esempio un livello di corso o una data di partecipazione, che definiscono ulteriormente la natura della connessione.
+Gli oggetti personalizzati &quot;da molti a molti&quot; utilizzano due campi di collegamento, parte di un oggetto intermedio. Un campo Collegamento è connesso alla persona o all’azienda, mentre un altro campo è connesso all’oggetto personalizzato, ad esempio il catalogo dei corsi. Questo oggetto intermedio può contenere campi personalizzati aggiuntivi, ad esempio un livello di corso o una data di partecipazione, che definiscono ulteriormente la natura della connessione.
 
 >[!TIP]
 >

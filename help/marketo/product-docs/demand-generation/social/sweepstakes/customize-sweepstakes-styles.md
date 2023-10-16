@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2359807
-description: Personalizzare gli stili di Sweepstakes - Marketo Docs - Documentazione del prodotto
-title: Personalizzare gli stili degli sweep
+description: Personalizzare gli stili di Sweepstakes - Documentazione di Marketo - Documentazione del prodotto
+title: Personalizzare gli stili di Sweepstakes
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Personalizzare gli stili degli sweep {#customize-sweepstakes-styles}
+# Personalizzare gli stili di Sweepstakes {#customize-sweepstakes-styles}
 
-Quando [creare una sweep](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi personalizzare l’aspetto della pagina di destinazione.
+Quando [creare una sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi personalizzarne l’aspetto sulla pagina di destinazione.
 
 >[!AVAILABILITY]
 >
->Non tutti i clienti hanno acquistato questa funzionalità. Contatta il tuo rappresentante commerciale per i dettagli.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 1. Vai a **Attività di marketing**.
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona la posta in gioco e fai clic su **Modifica bozza**.
+1. Selezionate le sweepstakes e fate clic su **Modifica bozza**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Nell&#39;editor Sweepstakes, vai a **Impostazioni app** > **Aspetto**.
+1. Nell’editor di punteggi, vai a **Impostazioni app** > **Aspetto**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -46,16 +46,16 @@ Quando [creare una sweep](/help/marketo/product-docs/demand-generation/social/sw
 
    >[!NOTE]
    >
-   >Se utilizzi un’immagine con testo su di essa, ricorda di rimuovere il testo dal **Pulsante Invio** campo sotto Testo sopra.
+   >Se utilizzi un’immagine con del testo, ricorda di rimuoverla dal **Pulsante Invio** in Testo sopra.
 
-1. Man mano che apporti ogni modifica, il risultato viene visualizzato nell’anteprima Visualizza e modifica .
+1. Ogni volta che apportate una modifica, il risultato viene visualizzato nell&#39;anteprima Visualizza e modifica.
 
    ![](assets/image2014-9-25-17-3a55-3a3.png)
 
    >[!NOTE]
    >
-   >Testa il pulsante in diversi browser, incluse le versioni precedenti.
+   >Prova il pulsante in diversi browser, incluse le versioni precedenti.
 
    >[!MORELIKETHIS]
    >
-   >Il passaggio successivo consiste nell’aggiungere [e-mail di iscrizione e di evasione per i vostri dolci](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Il passaggio successivo consiste nell’aggiungere [e-mail di iscrizione e di evasione ai tuoi interessi](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

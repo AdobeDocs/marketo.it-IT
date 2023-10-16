@@ -4,9 +4,9 @@ description: Personalizzare una presentazione - Documenti Marketo - Documentazio
 title: Personalizzare una presentazione
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Imposta la presentazione del calendario in modo che rifletta gli obiettivi e le 
 >[!AVAILABILITY]
 >
 >
->Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ Dopo aver inserito le viste desiderate nella presentazione, impostare la frequen
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. Immetti un orario in minuti. Clic **[!UICONTROL Salva]**.
+1. Immetti un orario in minuti. Fai clic su **[!UICONTROL Salva]**.
 
    >[!NOTE]
    >

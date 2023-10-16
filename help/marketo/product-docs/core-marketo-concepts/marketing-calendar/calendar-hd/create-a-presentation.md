@@ -4,9 +4,9 @@ description: Creazione di una presentazione - Documenti Marketo - Documentazione
 title: Creare una presentazione
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '87'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Crea una presentazione per proiettare le visualizzazioni e gli obiettivi del cal
 >[!AVAILABILITY]
 >
 >
->Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 1. Vai a **[!UICONTROL Calendario]**.
 

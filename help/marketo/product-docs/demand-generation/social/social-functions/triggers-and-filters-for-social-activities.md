@@ -4,9 +4,9 @@ description: Attivatori e filtri per le attività social - Documentazione Market
 title: Attivatori e filtri per le attività social
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le app social in Marketo dispongono di attivatori e filtri specifici.
 
 >[!AVAILABILITY]
 >
->Questa funzionalità non è stata acquistata da tutti i clienti. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 1. Per utilizzare il social network _trigger_, seleziona la tua campagna intelligente e fai clic su **Elenco avanzato** scheda. A destra, fai clic su + per espandere **Triggers**, quindi **Social**.
 
