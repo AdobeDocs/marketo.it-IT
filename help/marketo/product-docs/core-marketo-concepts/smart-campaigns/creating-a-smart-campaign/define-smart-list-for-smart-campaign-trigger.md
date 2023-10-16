@@ -4,7 +4,7 @@ description: Definire un elenco avanzato per Smart Campaign | Trigger - Document
 title: Definire un elenco avanzato per Smart Campaign | Attivatore
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Fai in modo che una campagna avanzata venga eseguita su una persona alla volta in base agli eventi live aggiungendo trigger.
 
-1. In Smart Campaign, fai clic su **Elenco avanzato** scheda.
+1. In Smart Campaign, fai clic su **[!UICONTROL Elenco avanzato]** scheda.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -25,11 +25,11 @@ Fai in modo che una campagna avanzata venga eseguita su una persona alla volta i
 
    >[!NOTE]
    >
-   >Viene eseguita una campagna avanzata con trigger in **Trigger** modalità. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
+   >Viene eseguita una campagna avanzata con trigger in _Trigger_ modalità. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
 
    >[!IMPORTANT]
    >
-   >Quando utilizzi un campo booleano in un elenco avanzato della campagna di attivazione, devi impostarlo esplicitamente su &quot;false&quot; affinché il campo possa essere valutato correttamente durante l’esecuzione della campagna.
+   >Quando utilizzi un campo booleano in un elenco avanzato di una campagna di trigger, devi impostarlo esplicitamente su &quot;false&quot; affinché il campo possa essere valutato correttamente durante l’esecuzione della campagna.
 
 1. Fai clic sull’elenco a discesa e scegli un operatore.
 
@@ -49,10 +49,10 @@ Fai in modo che una campagna avanzata venga eseguita su una persona alla volta i
 
    >[!NOTE]
    >
-   >Con più trigger, una persona passa attraverso il flusso se **QUALSIASI** viene attivato uno dei trigger.
+   >Con più trigger, una persona passa attraverso il flusso se _QUALSIASI_ viene attivato uno dei trigger.
 
-Per eseguire la campagna su un set di persone contemporaneamente, scopri come [Definire un elenco avanzato per Smart Campaign | Lotto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Per eseguire la campagna su un set di persone contemporaneamente, scopri come [Definire un elenco avanzato per Smart Campaign | Lotto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

@@ -4,9 +4,9 @@ description: Informazioni sui costi dei periodi - Documentazione di Marketo - Do
 title: Informazioni sui costi del periodo
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ I costi del periodo si riferiscono al denaro speso in un mese specifico per un p
 >
 >Se si spendono $ 1000 per assumere un illustratore per un eBook che viene lanciato a luglio, il programma eBook avrebbe un costo di periodo di $ 1000 a luglio.
 >
->Se spendi 200 dollari al mese in Google Adwords, il programma Google Adwords avrà un costo di periodo di 200 dollari **ogni mese**.
+>Se spendi $200 al mese per [!DNL Google Adwords] - il [!DNL Google Adwords] il programma avrebbe un costo di periodo di 200 dollari _ogni mese_.
 
 >[!NOTE]
 >

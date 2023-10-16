@@ -4,7 +4,7 @@ description: Informazioni sulle campagne intelligenti batch e trigger - Document
 title: Informazioni sulle campagne avanzate batch e trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -27,14 +27,14 @@ Le campagne batch avranno solo filtri all’interno della sezione dell’elenco 
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Facendo clic su **Pianificazione** confermerà che Smart Campaign è impostato su &quot;Batch&quot;.
+Facendo clic su **[!UICONTROL Pianificazione]** confermerà che Smart Campaign è impostato su &quot;Batch&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campagne avanzate in batch**
 
 * Può essere programmato per le ricorrenze, ad esempio giornaliere, settimanali e mensili. È inoltre possibile eseguirli una sola volta.
-* Sono visibili sul [visualizzazione pianificazione programmi](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Qualsiasi elemento che risulti dopo un passaggio &quot;Attendi&quot; all’interno di Smart Campaign non verrà incluso nella visualizzazione.
+* Sono visibili sul [visualizzazione pianificazione programmi](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Qualsiasi elemento che risulti dopo un passaggio &quot;Attendi&quot; all’interno di Smart Campaign non verrà incluso nella visualizzazione.
 
 <br> 
 
@@ -50,7 +50,7 @@ Se una campagna avanzata utilizza almeno un trigger nella sezione Elenco avanzat
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Facendo clic su **Pianificazione** confermerà che Smart Campaign è impostato su &quot;Triggered&quot; (Attivato).
+Facendo clic su **[!UICONTROL Pianificazione]** confermerà che Smart Campaign è impostato su &quot;Triggered&quot; (Attivato).
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
@@ -61,4 +61,4 @@ Facendo clic su **Pianificazione** confermerà che Smart Campaign è impostato s
 
 >[!TIP]
 >
->Utilizza il [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) per vedere cosa è successo passo dopo passo all’interno delle campagne avanzate. Puoi trovare il registro attività nell’ultima scheda della pagina dei dettagli di una persona.
+>Utilizza il [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} per vedere cosa è successo passo dopo passo all’interno delle campagne avanzate. Puoi trovare il registro attività nell’ultima scheda della pagina dei dettagli di una persona.

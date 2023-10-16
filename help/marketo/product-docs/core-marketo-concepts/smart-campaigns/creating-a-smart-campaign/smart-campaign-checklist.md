@@ -4,7 +4,7 @@ description: Elenco di controllo per campagne avanzate - Documentazione di Marke
 title: Elenco di controllo di Smart Campaign
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Segui i passaggi seguenti per garantire un’esecuzione fluida di Smart Campaign
 
 ## Eliminazione degli errori degli elenchi avanzati {#get-rid-of-smart-list-errors}
 
-In Smart Campaign, fai clic su **Elenco avanzato**. Eliminare le linee rosse ondulate che vengono visualizzate correggendo gli errori.
+In Smart Campaign, fai clic su **[!UICONTROL Elenco avanzato]**. Eliminare le linee rosse ondulate che vengono visualizzate correggendo gli errori.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -25,15 +25,15 @@ In Smart Campaign, fai clic su **Elenco avanzato**. Eliminare le linee rosse ond
 >
 >Le linee rosse ondulate indicano errori o informazioni mancanti. Se non viene corretta, la campagna non sarà valida e non verrà eseguita.
 >
->Inoltre, **mantenere la semplicità**. Se hai decine o centinaia di filtri, è difficile mantenerli e tenerne traccia. Un numero inferiore di filtri è anche più veloce da caricare.
+>Inoltre, è importante semplificare le operazioni. Se hai decine o centinaia di filtri, è difficile mantenerli e tenerne traccia. Un numero inferiore di filtri è anche più veloce da caricare.
 
 >[!NOTE]
 >
->Utilizzo di **Membro di elenco avanzato** potrebbero contenere errori nell&#39;altro elenco. Controlla anche lì.
+>Utilizzo di **[!UICONTROL Membro di elenco avanzato]** potrebbero contenere errori nell&#39;altro elenco. Controlla anche lì.
 
 ## Eliminazione degli errori di flusso {#get-rid-of-flow-errors}
 
-In Smart Campaign, fai clic su **Flusso**. Eliminare le linee rosse ondulate che vengono visualizzate correggendo gli errori.
+In Smart Campaign, fai clic su **[!UICONTROL Flusso]**. Eliminare le linee rosse ondulate che vengono visualizzate correggendo gli errori.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ In Smart Campaign, fai clic su **Flusso**. Eliminare le linee rosse ondulate che
 
 ## Esaminare la scheda Pianificazione {#review-the-schedule-tab}
 
-In **Pianificazione** scheda, spunta **Smart** **Elenco** **Stato** per eventuali errori in Smart Campaign che devono essere corretti.
+In **[!UICONTROL Pianificazione]** scheda, spunta **[!UICONTROL Stato elenco avanzato]** per eventuali errori in Smart Campaign che devono essere corretti.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Controlla limite restrizioni persona {#check-person-restrictions-limit}
 
-In **Pianificazione** , assicurati che il numero di persone qualificate non superi il limite di restrizione della persona.
+In **[!UICONTROL Pianificazione]** , assicurati che il numero di persone qualificate non superi il limite di restrizione della persona.
 
 ![](assets/smart-campaign-checklist-4.png)
 

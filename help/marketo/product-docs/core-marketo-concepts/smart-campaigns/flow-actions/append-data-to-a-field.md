@@ -4,7 +4,7 @@ description: Aggiungere dati a un campo - Documentazione Marketo - Documentazion
 title: Aggiungere dati a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creare una campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[Creare una campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->I passaggi seguenti si applicano anche a [Modifica dati membro programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>I passaggi seguenti si applicano anche a [Modifica dati membro programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. Sotto **Flusso** , trascina nella scheda **Modifica valore dati** passaggio di flusso.
+1. Sotto **[!UICONTROL Flusso]** , trascina nella scheda **[!UICONTROL Modifica valore dati]** passaggio di flusso.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

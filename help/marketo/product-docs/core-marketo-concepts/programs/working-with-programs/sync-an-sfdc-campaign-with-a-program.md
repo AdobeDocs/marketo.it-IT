@@ -4,9 +4,9 @@ description: Sincronizzare una campagna SFDC con un programma - Documenti Market
 title: Sincronizzare una campagna SFDC con un programma
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketi Engage consente di sincronizzare i programmi con [!DNL Salesforce] campa
 
 >[!PREREQUISITES]
 >
->Sarà necessario [abilita [!DNL Salesforce] sincronizzazione campagne](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) prima.
+>Sarà necessario [abilita [!DNL Salesforce] sincronizzazione campagne](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} prima.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketi Engage consente di sincronizzare i programmi con [!DNL Salesforce] campa
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Seleziona **[!UICONTROL Crea nuovo]** o scegli una campagna Salesforce esistente.
+1. Seleziona **[!UICONTROL Crea nuovo]** o scegli un elemento esistente [!DNL Salesforce] campagna.
 
    >[!TIP]
    >
-   >Se selezioni una campagna Salesforce esistente, assicurati di [corrisponde agli stati del programma della campagna Salesforce e del programma Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Se si seleziona un elemento esistente [!DNL Salesforce] campagna, assicurati di [corrisponde agli stati del programma di [!DNL Salesforce] e il programma Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Immetti un nome per la nuova campagna e fai clic su **[!UICONTROL Salva]**.
 
