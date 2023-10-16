@@ -4,10 +4,10 @@ description: 'Best practice: come organizzare i programmi - Documentazione di Ma
 title: 'Best practice: come organizzare i programmi'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 0%
+source-wordcount: '844'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Esistono diversi modi per organizzare la struttura nelle attività di marketing 
 
 >[!TIP]
 >
->Un giorno, (quando ricevi una promozione!) qualcun altro cercherà di dare un senso ai vostri programmi. Una buona organizzazione li aiuterà a essere produttivi rapidamente.
+>Un giorno (quando ti promuovono!), qualcun altro cercherà di dare un senso ai tuoi programmi. Una buona organizzazione li aiuterà a essere produttivi rapidamente.
 
 ## Cartelle {#folders}
 
@@ -34,7 +34,7 @@ In Attività di marketing è necessario utilizzare le cartelle per organizzare i
 >      * Fiere
 >      * Webinar
 >   * Newsletter
->   * Allevamento
+>   * Attività di nurturing
 >   * Contenuto web
 >   * Moduli web
 >* Apprendimento
@@ -55,7 +55,7 @@ Ognuno di questi elementi menzionati nell’esempio è una cartella. Osserva com
 
 >[!TIP]
 >
->La cartella &quot;Archivia&quot; è un tipo speciale di cartella progettata per rimuovere elementi da elenchi selezionati e rapporti. In questo modo il sistema sarà più veloce. Scopri [ulteriori informazioni sulle cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>La cartella &quot;Archivia&quot; è un tipo speciale di cartella progettata per rimuovere elementi da elenchi selezionati e rapporti. In questo modo il sistema sarà più veloce. Scopri [ulteriori informazioni sulle cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Puoi certamente aggiungere altre cartelle in base alle tue esigenze. Tieni presente che le generazioni future di esperti di marketing nella tua azienda convivranno con le tue decisioni su come denominare/organizzare le cose.
 
@@ -75,7 +75,7 @@ La denominazione è fondamentale, in quanto tutte le funzionalità di Marketo ut
 >1. Newsletter NL 2015-06
 >1. Webinar WBN 2015-12-01 Argomento qui
 
-I nomi dei programmi devono essere univoci nell’abbonamento, anche in [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Per le risorse locali all’interno dei programmi, la regola è **mantieni il nome semplice**. È sufficiente denominare un invito &quot;Invito&quot; invece di &quot;Invito al webinar di giugno 2015&quot;. Poiché questi elementi sono inclusi in un programma, il programma padre fa automaticamente parte del nome quando lo si sceglie altrove. In altre parole, le risorse locali devono essere univoche all’interno del programma. Puoi avere centinaia di risorse denominate &quot;Invita&quot;, ciascuna in un programma diverso e non ti disturberà.
+I nomi dei programmi devono essere univoci nell’abbonamento, anche in [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Per le risorse locali all’interno dei programmi, la regola è **mantieni il nome semplice**. È sufficiente denominare un invito &quot;Invito&quot; invece di &quot;Invito al webinar di giugno 2015&quot;. Poiché questi elementi sono inclusi in un programma, il programma padre fa automaticamente parte del nome quando lo si sceglie altrove. In altre parole, le risorse locali devono essere univoche all’interno del programma. Puoi avere centinaia di risorse denominate &quot;Invita&quot;, ciascuna in un programma diverso e non ti disturberà.
 
 ## Token {#tokens}
 
@@ -97,7 +97,7 @@ Un evento in genere include molte parti mobili, tra cui inviti, pagine di destin
 
 ## Programmi di coinvolgimento {#engagement-programs}
 
-Scopri [tutto sui programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). Il modo migliore per organizzare il programma di coinvolgimento è con le cartelle. Crea una cartella per ogni flusso, quindi inserisci le e-mail o i programmi in tale cartella. Includi una cartella di archivio in ogni flusso quando il contenuto diventa obsoleto e desideri rimuoverlo.
+Scopri [tutto sui programmi di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Il modo migliore per organizzare il programma di coinvolgimento è con le cartelle. Crea una cartella per ogni flusso, quindi inserisci le e-mail o i programmi in tale cartella. Includi una cartella di archivio in ogni flusso quando il contenuto diventa obsoleto e desideri rimuoverlo.
 
 ## Programmi operativi {#operational-programs}
 
@@ -121,4 +121,4 @@ Alcuni utenti astraggono persino la maggior parte del testo nelle e-mail e nelle
 
 ## Riepilogo {#summary}
 
-Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma consideriamo alcune [servizi aggiuntivi forniti dagli esperti Marketo](https://www.marketo.com/services/) per perfezionare la sintonizzazione e prepararsi al successo.
+Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma consideriamo servizi aggiuntivi offerti da [Esperti Marketi Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarsi per il successo.

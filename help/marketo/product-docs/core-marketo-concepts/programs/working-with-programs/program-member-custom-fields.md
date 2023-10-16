@@ -4,7 +4,7 @@ description: Campi personalizzati dei membri del programma - Documentazione di M
 title: Campi personalizzati del membro del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -17,15 +17,15 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 
 ## Crea un campo personalizzato membro del programma {#create-a-program-member-custom-field}
 
-1. In Marketo, fai clic su **Amministratore**.
+1. In Marketo, fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/one.png)
 
-1. Clic **Gestione dei campi**.
+1. Clic **[!UICONTROL Gestione dei campi]**.
 
    ![](assets/two.png)
 
-1. Clic **Nuovo campo personalizzato**.
+1. Clic **[!UICONTROL Nuovo campo personalizzato]**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
    >
    >I campi personalizzati della persona e del membro del programma non possono condividere lo stesso nome.
 
-1. Compila i campi rimanenti e fai clic su **Crea**.
+1. Compila i campi rimanenti e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/five.png)
 

@@ -4,9 +4,9 @@ description: Eliminare un programma - Documentazione di Marketo - Documentazione
 title: Eliminare un programma
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Clic **Azioni del programma**. Clic **Elimina**.
+1. Fai clic su **[!UICONTROL Azioni del programma]** a discesa e selezionare **[!UICONTROL Elimina]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Seleziona l’opzione Elimina tutto. Rivedi gli effetti collaterali dell’eliminazione del programma, quindi fai clic su **Elimina** per confermare.
+1. Selezionare il pulsante di opzione Elimina tutto... Controlla gli effetti dell’eliminazione del programma, quindi fai clic su **[!UICONTROL Elimina]** per confermare.
 
 >[!TIP]
 >
->**Archiviazione di programmi** conserva i dati del programma ma lo mette fuori gioco. Seleziona tale opzione e fai clic su **Successivo** per ulteriori dettagli sull&#39;archiviazione.
+>L&#39;archiviazione dei programmi consente di conservare i dati del programma, ma ne impedisce l&#39;utilizzo. Seleziona tale opzione e fai clic su **[!UICONTROL Successivo]** per ulteriori dettagli sull&#39;archiviazione.
 
 ![](assets/2017-05-05-15-04-15.png)
 
 Completato. È come se il programma non fosse mai esistito.
 
-## Perché non è possibile eliminare il programma? {#why-cant-i-delete-my-program}
+## Perché non posso eliminare il mio programma? {#why-cant-i-delete-my-program}
 
 I programmi possono contenere risorse utilizzate altrove nel sistema, il che impedisce l’eliminazione di un programma.
 
@@ -43,7 +43,7 @@ Per risolvere il problema, potrebbe essere necessario eseguire un drill-down e a
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Clic **Utilizzato da** per vedere dove viene utilizzata la risorsa.
+1. Clic **[!UICONTROL Utilizzato da]** per vedere dove viene utilizzata la risorsa.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

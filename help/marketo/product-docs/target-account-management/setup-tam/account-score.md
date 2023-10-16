@@ -4,7 +4,7 @@ description: Punteggio account - Documentazione di Marketo - Documentazione del 
 title: Punteggio account
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Dopo aver configurato il punteggio del lead, procedi seguendo i passaggi seguent
 
 1. Clic **Amministratore**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. Clic **Gestione account di destinazione**.
 
@@ -75,12 +75,12 @@ Dopo aver configurato il punteggio del lead, procedi seguendo i passaggi seguent
 
 1. Inserisci il nome del Punteggio account, fai clic su **Seleziona punteggio persona** e selezionare il punteggio corrispondente.
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
 1. Clic **+Aggiungi** per aggiungere altri punteggi.
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. Aggiungi tutti i punteggi desiderati. Clic **Salva** al termine.
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)

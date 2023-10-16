@@ -3,10 +3,10 @@ description: Sincronizzazione campi personalizzati membro del programma - Docume
 title: Sincronizzazione campo personalizzato membro programma
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '353'
+ht-degree: 6%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 5%
 
 ## Mappa i campi Salesforce ai campi personalizzati dei membri del programma {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. In Marketo, fai clic su **Amministratore**.
+1. In Marketo, fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Clic **Salesforce**, quindi fai clic su **Modifica** accanto a Sincronizzazione campi personalizzati membro programma.
+1. Clic **[!DNL Salesforce]**, quindi fai clic su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro programma.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 5%
 
 1. Per ulteriori mappature dei campi, deseleziona la casella di ricerca e ripeti i passaggi da 3 a 5.
 
-1. Clic **Salva** al termine.
+1. Clic **[!UICONTROL Salva]** al termine.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 5%
 
 Se desideri liberare un campo per sostituirlo o semplicemente apportare una modifica generale, devi prima eseguire una rimozione dalla mappatura. Ecco come.
 
-1. In Marketo, fai clic su **Amministratore**.
+1. In Marketo, fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Clic **Salesforce**, quindi fai clic su **Modifica** accanto a Sincronizzazione campi personalizzati membro programma.
+1. Clic **[!DNL Salesforce]**, quindi fai clic su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro programma.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ Se desideri liberare un campo per sostituirlo o semplicemente apportare una modi
 
    >[!TIP]
    >
-   >È possibile selezionare **Mappato** per visualizzare solo i campi mappati.
+   >È possibile selezionare **[!UICONTROL Mappato]** per visualizzare solo i campi mappati.
 
 1. Per annullare la mappatura, fai clic su **X** accanto al campo.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. La mappatura viene rimossa. Clic **Salva**.
+1. La mappatura viene rimossa. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 
