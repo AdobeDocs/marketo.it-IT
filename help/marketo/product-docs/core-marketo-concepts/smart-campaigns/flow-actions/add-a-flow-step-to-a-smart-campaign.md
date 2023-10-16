@@ -4,7 +4,7 @@ description: Aggiungere un passaggio di flusso a una campagna avanzata - Documen
 title: Aggiungere un passaggio di flusso a una campagna avanzata
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -33,7 +33,7 @@ I passaggi di flusso indicano al Marketo Engage cosa si desidera che accada a un
 
 >[!NOTE]
 >
->I passaggi di flusso vengono eseguiti nell’ordine in cui sono elencati. [Riordinare i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} per assicurarsi che siano nella sequenza corretta.
+>I passaggi di flusso vengono eseguiti nell’ordine in cui sono elencati. [Riordinare i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} per assicurarsi che siano nella sequenza corretta.
 
 >[!TIP]
 >
@@ -44,4 +44,4 @@ Fantastico! Assicurati di [rivedere e convalidare Smart Campaign](/help/marketo/
 >[!MORELIKETHIS]
 >
 >* [Utilizzare Aggiungi scelta in un passaggio di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [Riordinare i passaggi del flusso in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [Riordinare i passaggi del flusso in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
