@@ -4,9 +4,9 @@ description: Applicare limiti di comunicazione a Smart Campaign - Documentazione
 title: Applicare limiti di comunicazione a Smart Campaign
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Abilita limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+>[Abilita limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-Non è una buona idea mandare email a qualcuno più volte al giorno, o troppe volte in una settimana, giusto? Fortunatamente, il Marketo Engage ha dei limiti di comunicazione per aiutare. Ecco come funzionano.
+Non è una buona idea mandare email a qualcuno più volte al giorno, o troppe volte in una settimana, giusto? Fortunatamente, il Marketo Engage ha dei limiti di comunicazione per aiutare.
 
 >[!NOTE]
 >
 >Quando una persona supera i limiti di comunicazione impostati, Marketo blocca le e-mail non operative (le e-mail operative vengono sempre inviate).
 
-1. In Smart Campaign, fai clic su **Pianificazione** e quindi **Modifica impostazioni**.
+1. In Smart Campaign, fai clic su **[!UICONTROL Pianificazione]** e quindi **[!UICONTROL Modifica impostazioni]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Controlla la **Blocca e-mail non operative** e quindi fare clic su **Salva**.
+1. Controlla la **[!UICONTROL Blocca e-mail non operative]** e quindi fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ Non è una buona idea mandare email a qualcuno più volte al giorno, o troppe vo
 
 >[!TIP]
 >
->Per impostare questa impostazione come predefinita, modifica  [limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) nella sezione Amministratore.
+>Per impostare questa impostazione come predefinita, modifica [limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} nella sezione Amministratore.
 
 Ora puoi stare certo che non invii accidentalmente troppe e-mail al pubblico.

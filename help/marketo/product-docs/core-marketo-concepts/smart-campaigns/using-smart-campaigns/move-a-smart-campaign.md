@@ -4,7 +4,7 @@ description: Spostare una campagna avanzata - Documentazione Marketo - Documenta
 title: Spostare una campagna avanzata
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Spostare una campagna avanzata {#move-a-smart-campaign}
 
-Sposta una campagna intelligente tra diversi programmi o cartelle utilizzando il trascinamento della selezione o la funzione Sposta nella struttura. Le regole della tua campagna intelligente non cambieranno, ma saranno nidificate in un luogo diverso.
+Spostare una campagna avanzata tra programmi o cartelle diversi utilizzando il trascinamento della selezione o la funzione Sposta nella struttura. Le regole della tua Smart Campaign non cambieranno, ma verranno nidificate in una posizione diversa.
 
 >[!CAUTION]
 >
->Poiché le regole non cambiano, se l’elenco avanzato o i passaggi del flusso della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente tali informazioni per riflettere il nuovo programma, come accadrà **non** aggiornamento automatico.
+>Poiché le regole non cambiano, se l’elenco avanzato o i passaggi del flusso della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente tali informazioni per riflettere il nuovo programma, come accadrà _non_ aggiornamento automatico.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Attività di marketing]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Individua la campagna avanzata da spostare, fai clic con il pulsante destro del mouse su di essa e seleziona **Sposta**.
+1. Individua la campagna avanzata da spostare, fai clic con il pulsante destro del mouse su di essa e seleziona **[!UICONTROL Sposta]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Seleziona la **A** (destinazione), **Programma**, e facoltativo **Cartella**. Seleziona **Sposta**.
+1. Seleziona la **[!UICONTROL A]** (destinazione), **[!UICONTROL Programma]**, e facoltativo **[!UICONTROL Cartella]**. Seleziona **[!UICONTROL Sposta]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

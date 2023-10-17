@@ -4,7 +4,7 @@ description: Pulizia automatica delle campagne tramite trigger - Documentazione 
 title: Pulizia automatica campagna trigger
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -17,21 +17,21 @@ Marketo dispone di un servizio gratuito per disattivare le campagne intelligenti
 
 ## Cosa succede? {#what-happens}
 
-Una volta al trimestre, Marketo troverà campagne intelligenti che sono rimaste inattive (senza persone) per 6 mesi o più e le disattiverà.
+Una volta al trimestre, Marketo troverà le campagne avanzate che sono rimaste inattive (senza persone) per 6 mesi o più e le disattiverà.
 
 ## Mi avviserà prima? {#will-you-notify-me-first}
 
 Certo! Una volta al trimestre, riceverai una notifica con una settimana di anticipo, indicando ogni campagna che prevediamo di disattivare.
 
-1. Fai clic su **Notifiche** icona.
+1. Fai clic su **[!UICONTROL Notifiche]** icona.
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Clic **Pianificazione pulizia campagna attivazione inattività**. Quindi fai clic su **Queste campagne con trigger di inattività verranno disattivate** collegamento.
+1. Clic **[!UICONTROL Pianificazione pulizia campagna attivazione inattività]**. Quindi fai clic su **[!UICONTROL Queste campagne con trigger di inattività verranno disattivate]** collegamento.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
-   Viene visualizzato un elenco delle campagne intelligenti pianificate per la disattivazione.
+   Viene visualizzato un elenco delle campagne Smart pianificate per la disattivazione.
 
    ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
@@ -41,7 +41,7 @@ Disattiveremo solo le campagne trigger che sono state attive per oltre 6 mesi ma
 
 ## Aspetta! Non questa campagna! {#wait-not-this-campaign}
 
-Non preoccuparti: l’orologio di qualsiasi campagna intelligente può essere reimpostato da:
+Non preoccuparti: l’orologio su qualsiasi campagna avanzata può essere reimpostato da:
 
 * Persona qualificata per la campagna.
 * Disattivazione e riattivazione manuale della campagna.
@@ -52,7 +52,7 @@ In entrambi i casi verrà reimpostato il contatore di 6 mesi.
 
 Assolutamente - una settimana dopo la notifica originale, disattiveremo le campagne elencate (meno quelle che hanno qualificato almeno una persona o che sono state disattivate/riattivate) e invieremo una notifica di conferma.
 
-1. Seleziona la **Pianificazione pulizia campagna attivazione inattività** notifica. Fai clic su **Queste campagne con trigger inattivi** collegamento.
+1. Seleziona la **[!UICONTROL Pianificazione pulizia campagna attivazione inattività]** notifica. Fai clic su **[!UICONTROL Queste campagne con trigger inattivi]** collegamento.
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

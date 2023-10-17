@@ -4,7 +4,7 @@ description: Attivare una campagna avanzata tramite trigger | Scheda Schedule - 
 title: Attivare una campagna avanzata tramite trigger | Scheda Schedule
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Attivare una campagna avanzata è come attivarla. Ecco cosa fare.
 
-1. Nel di Smart Campaign **Pianificazione** , fare clic su **Attiva**.
+1. Nel di Smart Campaign **[!UICONTROL Pianificazione]** , fare clic su **[!UICONTROL Attiva]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,11 +23,11 @@ Attivare una campagna avanzata è come attivarla. Ecco cosa fare.
    >
    >Controlla la campagna avanzata prima di attivarla.
 
-1. Clic **Attiva** di nuovo.
+1. Clic **[!UICONTROL Attiva]** di nuovo.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-   >[!CAUTION]
+   >[!TIP]
    >
    >Assicurati che la campagna sia pronta prima di attivarla.
 
