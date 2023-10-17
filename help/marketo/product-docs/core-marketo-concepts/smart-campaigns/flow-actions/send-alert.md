@@ -4,9 +4,9 @@ description: Inviare un avviso - Documentazione di Marketo - Documentazione del 
 title: Invia avviso
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '154'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ## Panoramica {#overview}
 
-Marketo può inviare un messaggio e-mail di notifica con le informazioni personali a chiunque: il proprietario, un partner o un altro utente. Utilizza il **Invia avviso** passaggio di flusso.
+Marketo può inviare un messaggio e-mail di notifica con le informazioni personali a chiunque: il proprietario, un partner o un altro utente. Utilizza la &quot;[!UICONTROL Invia avviso]&quot; passaggio di flusso.
 
 ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Marketo può inviare un messaggio e-mail di notifica con le informazioni persona
 
    >[!NOTE]
    >
-   >L&#39;avviso e-mail deve contenere tutte le informazioni di intestazione ed essere in **Approvato** stato.
+   >L&#39;avviso e-mail deve contenere tutte le informazioni di intestazione ed essere in **[!UICONTROL Approvato]** stato.
 
 1. Puoi fare clic sull’icona di anteprima per assicurarti di aver selezionato l’e-mail corretta.
 
@@ -35,9 +35,9 @@ Marketo può inviare un messaggio e-mail di notifica con le informazioni persona
 
    >[!NOTE]
    >
-   >Assicurati di utilizzare il **Invia informazioni avviso** token nell’e-mail.
+   >Assicurati di utilizzare la &quot;[!UICONTROL Invia informazioni avviso]token &quot; nell’e-mail.
 
-1. Selezionare il destinatario dell&#39;avviso. È possibile scegliere Proprietario vendite o Proprietario conto.
+1. Selezionare il destinatario dell&#39;avviso. Puoi scegliere [!UICONTROL Proprietario vendite] o [!UICONTROL Proprietario account].
 
    ![](assets/four-2.png)
 
@@ -47,10 +47,8 @@ Marketo può inviare un messaggio e-mail di notifica con le informazioni persona
 
    >[!TIP]
    >
-   >Nelle campagne trigger puoi utilizzare i token in **Ad Altre E-Mail** come `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. Token in **Ad Altre E-Mail** non funzionerà in una campagna batch.
-
-Tutto qui! Ora sai come utilizzare il **Invia avviso** passaggio di flusso.
+   >Nelle campagne trigger puoi utilizzare i token in **[!UICONTROL Ad Altre E-Mail]** come `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` purché i valori siano indirizzi e-mail validi. Token in **[!UICONTROL Ad Altre E-Mail]** non funzionerà in una campagna batch.
 
 >[!MORELIKETHIS]
 >
->[Creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>[Creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}

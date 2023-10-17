@@ -3,9 +3,9 @@ description: Servizio Flusso - Documentazione Marketo - Documentazione del prodo
 title: Servizio passaggio di flusso
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Passaggi di flusso self-service è un framework e un set di funzioni per l’aut
 
 ## Servizi di onboarding e gestione {#onboarding-and-managing-services}
 
-L’installazione di un passaggio di flusso personalizzato richiede le autorizzazioni di amministratore in Marketo (**Gestione webhook** nella versione del 21 gennaio, Modifica nella versione dell’11 marzo). Oltre all’URL di installazione, dopo aver completato l’onboarding iniziale è possibile modificare tutti gli altri aspetti di un servizio servito, espandendo la schermata dei dettagli del servizio dalla griglia dei service provider.
+L’installazione di un passaggio di flusso personalizzato richiede le autorizzazioni di amministratore in Marketo. Oltre all’URL di installazione, dopo aver completato l’onboarding iniziale è possibile modificare tutti gli altri aspetti di un servizio servito, espandendo la schermata dei dettagli del servizio dalla griglia dei service provider.
 
 ## URL di installazione {#installation-url}
 
 Per iniziare l’installazione, devi prima ottenere l’URL del documento OpenAPI che definisce il servizio. Il provider di servizi dovrebbe essere in grado di fornirtelo e in genere avrà un URL che termina con `/openapi.json`. Gli URL completi avranno un aspetto simile a `https://www.example.com/OpenAPI.json`. Una volta ottenuto questo URL, vai al menu Service Providers (Fornitori di servizi) nella sezione Admin (Amministratore).
 
-Clic **Successivo** per passare alla sezione Immettere le credenziali del servizio.
+Clic **[!UICONTROL Successivo]** per passare alla sezione Immettere le credenziali del servizio.
 
 ![](assets/flow-step-service-1.png)
 

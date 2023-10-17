@@ -4,7 +4,7 @@ description: Utilizzare i token nei passaggi del flusso - Documentazione di Mark
 title: Utilizzare i token nei passaggi del flusso
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare il lavoro. È possibile utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Puoi utilizzare i token per includere il contenuto delle variabili nei seguenti passaggi del flusso:
+Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare il lavoro. È possibile utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Puoi utilizzare i token per includere il contenuto delle variabili nei seguenti passaggi del flusso:
 
 * Modifica valore dati
 * Modifica dati membro programma
 * Momento di interesse
 * Passaggi della campagna Salesforce (aggiungere, rimuovere, modificare lo stato)
 * Crea attività
-* Invia avviso (solo nelle campagne trigger)
+* Invia avviso (solo in Campagne con trigger)
 
 1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie dei token.
 
@@ -32,7 +32,7 @@ Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destin
 
    >[!NOTE]
    >
-   >Estrai [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per un elenco di diversi token disponibili.
+   >Estrai [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} per un elenco di diversi token disponibili.
 
 1. Continua a digitare finché non trovi il token desiderato e fai clic per selezionarlo.
 
@@ -50,5 +50,5 @@ Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destin
 
    >[!MORELIKETHIS]
    >
-   >* [Gestione dei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
-   >* [Informazioni sui token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Gestione dei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+   >* [Informazioni sui token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}

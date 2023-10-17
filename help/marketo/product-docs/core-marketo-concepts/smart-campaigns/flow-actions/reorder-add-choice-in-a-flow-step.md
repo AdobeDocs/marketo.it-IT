@@ -4,9 +4,9 @@ description: Riordinare la scelta di aggiunta in un passaggio di flusso - Docume
 title: Riordinare la scelta di aggiunta in un passaggio di flusso
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -19,20 +19,20 @@ Poiché solo la prima scelta corrispondente si applica a una persona, l’ordine
 
    ![](assets/one.png)
 
-1. Sposta la scelta 3 sopra la scelta 2. Fai clic su **Scelta 3** quindi fai clic su **Sposta su**.
-
-   >[!NOTE]
-   >
-   >Durante il riordinamento, puoi **Sposta su**, **Sposta giù**, o **Sposta in**.
+1. In questo esempio, spostiamo la scelta 3 sopra la scelta 2. Fai clic su **[!UICONTROL Scelta 3]** quindi fai clic su **[!UICONTROL Sposta su]**.
 
    ![](assets/two.png)
 
-   Bel lavoro! Ora sai come spostare una scelta verso l’alto o il basso di singoli incrementi. Tutto qui! È molto semplice riorganizzare l’ordine delle scelte dei passaggi del flusso.
+   >[!NOTE]
+   >
+   >Durante il riordinamento, puoi **[!UICONTROL Sposta su]**, **[!UICONTROL Sposta giù]**, o **[!UICONTROL Sposta in]**.
+
+   Bel lavoro! Ora sai come spostare una scelta verso l’alto o il basso di singoli incrementi.
 
    ![](assets/three.png)
 
-1. Se si dispone di molte opzioni e si desidera spostare uno o più livelli verso l&#39;alto o verso il basso, è possibile utilizzare questo metodo alternativo per risparmiare tempo. Fai clic sulla scelta che desideri spostare, quindi in **Sposta in**, trascinare il dispositivo di scorrimento nella posizione in cui si desidera spostare la scelta.
+**PASSAGGIO FACOLTATIVO**: se hai numerose scelte e devi spostare uno o più livelli verso l’alto o il basso, puoi utilizzare questo metodo alternativo per risparmiare tempo. Fai clic sulla scelta che desideri spostare, quindi in **[!UICONTROL Sposta in]**, trascinare il dispositivo di scorrimento nella posizione in cui si desidera spostare la scelta.
 
-   ![](assets/four.png)
+![](assets/four.png)
 
 È molto semplice riorganizzare l’ordine delle scelte dei passaggi del flusso.

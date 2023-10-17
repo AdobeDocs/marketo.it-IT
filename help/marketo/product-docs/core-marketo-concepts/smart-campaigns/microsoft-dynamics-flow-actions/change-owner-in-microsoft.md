@@ -4,7 +4,7 @@ description: Cambia proprietario in Microsoft - Documentazione Marketo - Documen
 title: Cambia proprietario in Microsoft
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Se esistono persone già assegnate a un proprietario, è possibile utilizzare qu
 
 >[!NOTE]
 >
->Questo passaggio di flusso **funziona solo con i trigger**, non i filtri, nella tua campagna avanzata.
+>Questo passaggio di flusso _funziona solo con i trigger_, non i filtri, nella tua Smart Campaign.
 
 ![](assets/one-1.png)
 

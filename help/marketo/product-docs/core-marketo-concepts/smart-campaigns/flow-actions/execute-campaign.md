@@ -3,7 +3,7 @@ description: Eseguire una campagna - Documentazione di Marketo - Documentazione 
 title: Esegui campagna
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 0%
@@ -32,17 +32,17 @@ L’esecuzione di Campaign è un miglioramento rispetto a [Richiedi campagna](/h
 
 ## Come creare una campagna eseguibile {#how-to-create-an-executable-campaign}
 
-1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona (Condividi) **Nuova campagna avanzata**.
+1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona (Condividi) **[!UICONTROL Nuova campagna avanzata]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Assegna un nome, seleziona la **Eseguibile** e fai clic su **Crea**.
+1. Assegna un nome, seleziona la **[!UICONTROL Eseguibile]** e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definisci l’elenco avanzato e il flusso, come per qualsiasi altra campagna avanzata.
 
-Puoi anche clonare una campagna avanzata esistente. Se cloni una campagna eseguibile esistente, dovrai comunque selezionare **Eseguibile** dopo averlo denominato.
+Puoi anche clonare una campagna avanzata esistente. Se cloni una campagna eseguibile esistente, dovrai comunque selezionare **[!UICONTROL Eseguibile]** dopo averlo denominato.
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ Quando si utilizza Pianifica o Richiedi campagna [nell’API](https://developers
 
 >[!CAUTION]
 >
->Non lasciare mai i tuoi elenchi avanzati per le campagne eseguibili non validi, altrimenti **nessuno** si qualificherà per essa. Si consiglia di creare risorse di elenchi avanzati separate, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di elenco avanzato&quot; nella campagna eseguibile in modo da poter scambiare la definizione dell’elenco avanzato.
+>Non lasciare mai i tuoi elenchi avanzati per le campagne eseguibili non validi, altrimenti _nessuno_ si qualificherà per essa. Si consiglia di creare risorse di elenchi avanzati separate, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di elenco avanzato&quot; nella campagna eseguibile in modo da poter scambiare la definizione dell’elenco avanzato.
 
 ## Esempio di ereditarietà del token {#token-inheritance-example}
 
-Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: una con il contesto del token impostato su **Vero**, l&#39;altro a **Falso**.
+Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: una con il contesto del token impostato su **[!UICONTROL Vero]**, l&#39;altro a **[!UICONTROL Falso]**.
 
 Campagna figlio con un punteggio di modifica tokenizzato.
 
@@ -87,7 +87,7 @@ La campagna per bambini è My Tokens (I miei token).
 
 ![](assets/execute-campaign-4.png)
 
-**Esempio 1 - True**
+### Esempio 1 - True {#example-one-true}
 
 Nel passaggio del flusso Esegui campagna della prima campagna principale, l’opzione &quot;Usa contesto token campagna principale&quot; è impostata su **Vero**.
 
@@ -101,7 +101,7 @@ I risultati: punteggio cambiato di +10.
 
 ![](assets/execute-campaign-7.png)
 
-**Esempio 2: False**
+### Esempio 2: False {#example-two-false}
 
 Nel passaggio di flusso Esegui campagna della seconda campagna principale, &quot;Usa contesto token campagna principale&quot; è impostato su **Falso**.
 

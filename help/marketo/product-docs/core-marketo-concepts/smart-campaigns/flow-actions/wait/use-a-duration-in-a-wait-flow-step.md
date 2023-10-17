@@ -4,18 +4,18 @@ description: Utilizzare una durata in un passaggio del flusso di attesa - Docume
 title: Utilizzare una durata in un passaggio del flusso di attesa
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Utilizzare una durata in un passaggio del flusso di attesa {#use-a-duration-in-a-wait-flow-step}
 
-Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso di una persona in una campagna intelligente per un certo periodo di tempo. Puoi anche specificare i criteri per il giorno della settimana e l’ora in cui termina.
+Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso di una persona in una campagna avanzata per un certo periodo di tempo. Puoi anche specificare i criteri per il giorno della settimana e l’ora in cui termina.
 
-1. Nella tua campagna intelligente **Flusso** , trascina sulla scheda **Wait** passaggio di flusso.
+1. Nella tua Smart Campaign **[!UICONTROL Flusso]** , trascina sulla scheda **[!UICONTROL Wait]** passaggio di flusso.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -31,7 +31,7 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Facoltativamente, specifica l’ora. Clic **Salva**.
+1. Facoltativamente, specifica l’ora. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -49,5 +49,5 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
 
    >[!MORELIKETHIS]
    >
-   >* [Utilizzare una data specifica in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-   >* [Utilizzare un token di data in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+   >* [Utilizzare una data specifica in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
+   >* [Utilizzare un token di data in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

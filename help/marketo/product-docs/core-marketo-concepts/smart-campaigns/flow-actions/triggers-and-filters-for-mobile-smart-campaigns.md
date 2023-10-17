@@ -4,18 +4,18 @@ description: Attivatori e filtri per campagne intelligenti mobile - Documentazio
 title: Attivatori e filtri per campagne intelligenti mobile
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
 
 # Attivatori e filtri per campagne intelligenti mobile {#triggers-and-filters-for-mobile-smart-campaigns}
 
-Puoi impostare trigger e filtri per una campagna intelligente per app mobili.
+Puoi impostare trigger e filtri per una campagna avanzata dell’app mobile.
 
-Per la maggior parte delle attività, esistono un trigger, un filtro e un filtro di inattività. Utilizzare i filtri di inattività per tenere traccia di un’azione, ad esempio toccare una notifica push, che *non ha* Accadrà.
+Per la maggior parte delle attività, esistono un trigger, un filtro e un filtro di inattività. Utilizzare i filtri di inattività per tenere traccia di un’azione, ad esempio toccare una notifica push, che _non ha_ Accadrà.
 
 * L&#39;App Mobile È/È Stata Installata
 * L&#39;App Mobile È/È Stata Aperta
@@ -27,7 +27,7 @@ Esistono solo filtri per questa attività:
 
 * Notifica push inviata: filtro e filtro di inattività
 
-Cerca **app mobile** nel pannello a destra per elencare tutti i trigger e i filtri dell’app mobile.
+Cerca &quot;app mobile&quot; nel pannello di destra per elencare tutti i trigger e i filtri dell’app mobile.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ L&#39;App Mobile È/È Stata Aperta
 
 Ha/Ha Avuto Attività Di App Mobile
 
-Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento [per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) e [per iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento [per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * Ha un&#39;attività in app mobile - trigger
 
@@ -192,5 +192,5 @@ Notifica push toccata
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere un vincolo a un filtro elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Utilizzare i filtri di inattività in un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Aggiungere un vincolo a un filtro elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Utilizzare i filtri di inattività in un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

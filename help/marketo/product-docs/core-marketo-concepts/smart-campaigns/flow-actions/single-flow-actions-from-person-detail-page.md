@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Oltre a eseguire azioni a flusso singolo da un elenco avanzato, è possibile eseguirle direttamente in una pagina Dettagli persona.
 
-1. Clic **Database**.
+1. Clic **[!UICONTROL Database]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,11 +24,11 @@ Oltre a eseguire azioni a flusso singolo da un elenco avanzato, è possibile ese
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Fai clic su **Azioni della persona** e selezionare il passaggio di flusso desiderato. In questo esempio utilizzeremo [Invia e-mail](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Fai clic su **[!UICONTROL Azioni della persona]** e selezionare il passaggio di flusso desiderato. In questo esempio utilizzeremo [Invia e-mail](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Seleziona l’e-mail desiderata e fai clic su **Esegui ora**.
+1. Seleziona l’e-mail desiderata e fai clic su **[!UICONTROL Esegui ora]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
