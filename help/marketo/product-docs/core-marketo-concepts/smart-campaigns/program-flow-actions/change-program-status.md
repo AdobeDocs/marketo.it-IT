@@ -4,9 +4,9 @@ description: Modifica stato del programma - Documentazione di Marketo - Document
 title: Modifica stato programma
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ## Panoramica {#overview}
 
-Gli stati del programma consentono di tenere traccia dell&#39;avanzamento delle persone in un programma o un evento. Ulteriori informazioni in [Personalizzare, Creare E Gestire I Canali](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Gli stati del programma consentono di tenere traccia dell&#39;avanzamento delle persone in un programma o un evento. Ulteriori informazioni in [Personalizzare, Creare E Gestire I Canali](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ Gli stati del programma consentono di tenere traccia dell&#39;avanzamento delle 
 
 ## Utilizzo {#usage}
 
-1. Trascina nella **Modifica stato programma** passaggio di flusso.
+1. Trascina nella **[!UICONTROL Modifica stato programma]** passaggio di flusso.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Seleziona la **Nuovo stato** si desidera impostare. La persona sarà anche resa membro del programma, se non lo era già.
+1. Seleziona la **[!UICONTROL Nuovo stato]** si desidera impostare. La persona sarà anche resa membro del programma, se non lo era già.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
@@ -37,4 +37,4 @@ Le scelte sono limitate agli stati validi per quel programma.
 >
 >Una persona non può tornare indietro a uno stato di programma precedente come definito nell’Editor canali in Admin.
 
-Gli stati sono strumenti potenti per tenere traccia delle persone e generare rapporti. Vale il tuo tempo.
+Gli stati sono strumenti potenti per tenere traccia delle persone e generare rapporti.

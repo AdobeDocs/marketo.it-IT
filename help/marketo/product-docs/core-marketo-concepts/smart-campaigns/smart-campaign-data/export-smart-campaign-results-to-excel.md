@@ -4,22 +4,22 @@ description: Esportare i risultati della campagna avanzata in Excel - Documentaz
 title: Esportare i risultati della campagna avanzata in Excel
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # Esportare i risultati della campagna avanzata in Excel {#export-smart-campaign-results-to-excel}
 
-Esporta i risultati della campagna avanzata in Excel per l’utilizzo al di fuori di Marketo.
+Esporta i risultati di Smart Campaign in Excel per l’utilizzo al di fuori di Marketo.
 
-1. Nella tua campagna avanzata, fai clic su **Risultati** e quindi l’icona esporta in basso.
+1. In Smart Campaign, fai clic su **[!UICONTROL Risultati]** , quindi l&#39;icona di esportazione in basso.
 
    ![](assets/exportexcel-hands.png)
 
-   In un batter d&#39;occhio, i risultati vengono esportati e pronti per l&#39;uso!
+   I risultati vengono esportati e pronti per l&#39;uso.
 
    >[!NOTE]
    >

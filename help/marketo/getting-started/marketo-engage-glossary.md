@@ -4,9 +4,9 @@ description: Glossario del Marketo Engage - Documentazione di Marketo - Document
 title: Glossario Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 1%
 
 ---
@@ -118,10 +118,6 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo sta cambiando termini come Blacklist e Whitelist per Inserire nell&#39;elenco Bloccati e Inserire nell&#39;elenco Consentiti il nostro prodotto in modo da. Durante questo aggiornamento, potresti visualizzare i vecchi termini nell’interfaccia utente e nelle schermate della documentazione, nonché i nuovi termini nel testo della documentazione. Ci scusiamo per qualsiasi confusione.
 
 ## C {#c}
 

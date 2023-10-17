@@ -4,7 +4,7 @@ description: Successo del programma di modifica - Documentazione di Marketo - Do
 title: Modifica programma completata
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Se hai un gruppo di persone contrassegnate accidentalmente con Program Success (
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Seleziona **Completato** o **Data di completamento** come attributo.
+1. Seleziona **[!UICONTROL Completato]** o **[!UICONTROL Data di completamento]** come attributo.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ Se hai un gruppo di persone contrassegnate accidentalmente con Program Success (
    >
    >Se si imposta la data di successo su un valore qualsiasi, l’opzione Success viene impostata automaticamente su true. Se si imposta Success su true, la data di successo viene impostata automaticamente sulla data corrente.
 
-1. Imposta il **Nuovo valore** a **Vero** o **Falso**.
+1. Imposta il **[!UICONTROL Nuovo valore]** a **[!UICONTROL Vero]** o **[!UICONTROL Falso]**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 

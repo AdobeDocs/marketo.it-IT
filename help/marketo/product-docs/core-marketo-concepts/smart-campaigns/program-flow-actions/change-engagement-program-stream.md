@@ -4,7 +4,7 @@ description: Flusso del programma di modifica del coinvolgimento - Documentazion
 title: Flusso del programma di modifica del coinvolgimento
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## Panoramica {#overview}
 
-Normalmente si utilizza [stream regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) a questo scopo, ma se desideri spostare manualmente le persone da un flusso all’altro, questo è il passaggio di flusso da utilizzare.
+Normalmente, si utilizza [stream regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) per ottenere questo risultato. Ma se desideri spostare manualmente le persone da un flusso all’altro, questo è il passaggio di flusso da utilizzare.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 

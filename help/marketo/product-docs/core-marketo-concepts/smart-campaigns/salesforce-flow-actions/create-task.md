@@ -4,7 +4,7 @@ description: Crea attività - Documenti Marketo - Documentazione del prodotto
 title: Crea attività
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -19,7 +19,7 @@ In qualità di addetto al marketing, hai a disposizione informazioni che possono
 
 >[!NOTE]
 >
->Quando l&#39;utente di Marketo Sync sta creando attività, **Scade tra** è un campo obbligatorio per la creazione dell’attività in Salesforce. Marketo inserirà cinque giorni per impostazione predefinita se non è presente alcun valore.
+>Quando l&#39;utente di Marketo Sync sta creando attività, **[!UICONTROL Scade tra]** è un campo obbligatorio per la creazione dell’attività in Salesforce. Marketo inserirà cinque giorni per impostazione predefinita se non è presente alcun valore.
 
 Per impostazione predefinita, il passaggio del flusso si presenta così:
 
@@ -31,4 +31,4 @@ Personalizzare tutti i campi per creare l&#39;attività nel modo desiderato.
 
 >[!TIP]
 >
->È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nel **Oggetto** e **Descrizione**. Consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) per ulteriori dettagli.
+>È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nel **[!UICONTROL Oggetto]** e **[!UICONTROL Descrizione]**. Consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} per ulteriori dettagli.

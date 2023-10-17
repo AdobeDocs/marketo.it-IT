@@ -4,9 +4,9 @@ description: Utilizzare elenchi avanzati incorporati/di sistema - Documentazione
 title: Usa elenchi avanzati incorporati/di sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # Usa elenchi avanzati incorporati/di sistema {#use-built-in-system-smart-lists}
 
 Marketo dispone di alcuni elenchi avanzati incorporati molto utili. Vediamo di cosa si tratta!
-
->[!NOTE]
->
->Marketo sta cambiando termini come Blacklist e Whitelist per Inserire nell&#39;elenco Bloccati e Inserire nell&#39;elenco Consentiti il nostro prodotto in modo da. Durante questo aggiornamento, potresti visualizzare i vecchi termini nell’interfaccia utente e nelle schermate della documentazione, nonché i nuovi termini nel testo della documentazione. Ci scusiamo per qualsiasi confusione.
 
 1. Vai a **Database**.
 

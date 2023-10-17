@@ -4,9 +4,9 @@ description: Informazioni sull’annullamento dell’iscrizione - Documentazione
 title: Informazioni sull’annullamento dell’iscrizione
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # Informazioni sull’annullamento dell’iscrizione {#understanding-unsubscribe}
 
 In realtà esistono diversi tipi di annullamento di abbonamenti incorporati in Marketo. Sono tutti rappresentati da campi sull’oggetto persona, proprio come Nome.
-
->[!NOTE]
->
->Marketo sta cambiando termini come Blacklist e Whitelist per Inserire nell&#39;elenco Bloccati e Inserire nell&#39;elenco Consentiti il nostro prodotto in modo da. Durante questo aggiornamento, potresti visualizzare i vecchi termini nell’interfaccia utente e nelle schermate della documentazione, nonché i nuovi termini nel testo della documentazione. Ci scusiamo per qualsiasi confusione.
 
 Tutti questi campi sono incorporati nel tuo abbonamento Marketo. Sono tutti di tipo booleano (casella di controllo). Possono essere utilizzati in Forms o [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) passaggi del flusso.
 
