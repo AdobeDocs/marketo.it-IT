@@ -4,9 +4,9 @@ description: Sostituire un’immagine o un file caricato - Documentazione di Mar
 title: Sostituire un'immagine o un file caricato
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. Trascinare o sfogliare il computer per trovare il file sostitutivo.
+1. Trascinare o sfogliare il computer per la sostituzione dell&#39;immagine o del file.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Il tipo di file sostitutivo deve essere lo stesso dell’originale (ad esempio, .jpg)
 
-1. Dopo aver selezionato il file sostitutivo, fare clic su **[!UICONTROL Sostituisci]**.
+1. Dopo aver selezionato l&#39;immagine o il file sostitutivo, fare clic su **[!UICONTROL Sostituisci]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
