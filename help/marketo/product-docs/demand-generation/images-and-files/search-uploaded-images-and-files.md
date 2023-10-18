@@ -4,9 +4,9 @@ description: Cercare immagini e file caricati - Documentazione di Marketo - Docu
 title: Cerca immagini e file caricati
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,21 @@ In Marketo, trovare immagini e file è un gioco da ragazzi.
 
 1. Vai a **Design Studio**.
 
-   ![](assets/designstudio-1.png)
+   ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Clic **Immagini e file** per visualizzare un elenco completo di tutti i file caricati.
+1. Clic **Immagini e file** per l’elenco completo di tutti i file caricati.
 
-   ![](assets/image2014-9-16-11-3a44-3a4.png)
+   ![](assets/search-uploaded-images-and-files-2.png)
 
-1. In **Ricerca rapida** nella parte inferiore della schermata, digita il nome del file che stai cercando e fai clic su **Invio**.
+1. Nella casella Cerca digitare la parola iniziale del file e premere **Invio**.
 
-   ![](assets/image2014-9-16-11-3a46-3a32.png)
+   ![](assets/search-uploaded-images-and-files-3.png)
 
->[!TIP]
+>[!NOTE]
 >
->Per avviare una nuova ricerca, fare clic su **x** nel **Ricerca rapida** casella.
-
-Alza i piedi, hai finito!
+>Nella ricerca di immagini e file viene utilizzata solo la funzionalità &quot;inizia con&quot;.
 
 >[!MORELIKETHIS]
 >
->* [Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Organizzazione di immagini e file mediante le cartelle](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Organizzazione di immagini e file mediante le cartelle](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
