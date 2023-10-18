@@ -4,31 +4,33 @@ description: Trovare l’URL di un’immagine o di un file caricato - Documentaz
 title: Trovare l’URL di un’immagine o di un file caricato
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Trovare l’URL di un’immagine o di un file caricato {#find-the-url-of-an-uploaded-image-or-file}
 
-Cerchi l’indirizzo web (URL) di un’immagine o di un file che hai caricato? Marketo ti ha coperto.
+Cerchi l’indirizzo web (URL) di un’immagine o di un file che hai caricato?
 
-1. Vai a **Design Studio**.
+1. Vai a **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-4.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Clic **Immagini e file** nel menu a sinistra, quindi seleziona il file per il quale desideri ottenere l’URL.
+1. Clic **[!UICONTROL Immagini e file]**.
 
-   ![](assets/image2014-9-25-14-3a47-3a53.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. Il **URL** nella pagina dei dettagli. Fare clic con il pulsante destro del mouse **URL** e fai clic su **Copia** nel menu visualizzato.
+1. Seleziona la risorsa desiderata.
 
-   ![](assets/image2014-9-25-14-3a48-3a16.png)
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-Datti una pacca sulla schiena per un lavoro ben fatto!
+1. Il **[!UICONTROL URL]** nella pagina dei dettagli.
+
+   ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>[Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
