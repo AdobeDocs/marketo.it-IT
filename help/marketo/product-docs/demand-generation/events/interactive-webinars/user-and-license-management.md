@@ -3,7 +3,7 @@ description: Gestione di utenti e licenze - Documentazione di Marketo - Document
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Scopri come aggiungere e rimuovere utenti e visualizzare le licenze correnti.
 
    ![](assets/user-and-license-management-8.png)
 
-## Utilizzo licenze {#license-usage}
+## Utilizzo delle licenze {#license-usage}
 
 I webinar interattivi offrono licenze specifiche per la creazione di eventi basati su Adobe Connect. Ogni volta che viene aggiunta una licenza, viene visualizzata una nuova casella di utilizzo della licenza. Gli amministratori di Marketo possono visualizzare (non modificare) le licenze seguendo la procedura riportata di seguito. Contatta l’Adobe Account Team (il tuo Account Manager) per ottenere ulteriori licenze.
 
@@ -67,32 +67,32 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
    ![](assets/user-and-license-management-11.png)
 
 <table> 
-  <tr> 
-   <td><b>Data inizio</b></td>
+  <tr>
+   <td width="20%"><b>Data inizio</b></td>
    <td>Data di inizio della licenza.</td>
   </tr>
   <tr> 
-   <td><b>Data di scadenza</b></td>
+   <td width="20%"><b>Data di scadenza</b></td>
    <td>Data di scadenza della licenza.</td>
   </tr>
   <tr> 
-   <td><b>Tipo</b></td>
+   <td width="20%"><b>Tipo</b></td>
    <td>Tipo di licenza acquistata. Sono disponibili tre tipi di licenza: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
   <tr> 
-   <td><b>Capacità evento</b></td>
+   <td width="20%"><b>Capacità evento</b></td>
    <td>Il numero massimo di partecipanti che possono essere ospitati in un evento.</td>
   </tr>
   <tr> 
-   <td><b>Eventi totali</b></td>
+   <td width="20%"><b>Eventi totali</b></td>
    <td>Numero totale di eventi per i quali è stato eseguito il provisioning con questa licenza.</td>
   </tr>
   <tr> 
-   <td><b>Eventi utilizzati</b></td>
+   <td width="20%"><b>Eventi utilizzati</b></td>
    <td>Numero totale di eventi completati.</td>
   </tr>
   <tr> 
-   <td><b>Capacità di archiviazione</b></td>
+   <td width="20%"><b>Capacità di archiviazione</b></td>
    <td>Quantità di storage disponibile per l'archiviazione di registrazioni, materiale collaterale, heri images, documentazione e altre risorse.</td>
   </tr>
   </tbody>

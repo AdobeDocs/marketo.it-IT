@@ -3,9 +3,9 @@ description: Flussi di lavoro per eventi - Documentazione di Marketo - Documenta
 title: Flussi di lavoro eventi
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Vai alla scheda Panoramica per visualizzare il webinar registrato, ottieni il co
 
 >[!NOTE]
 >
+>* I webinar interattivi non vengono registrati automaticamente. Dopo l’inizio del webinar, fai clic sul menu a discesa accanto al nome del webinar e seleziona **Registra sessione**.
 >* La registrazione viene scaricata in formato MP4.
 >* Quando condividi la registrazione, questa sarà visibile a chiunque abbia il collegamento, quindi accertati che sia condivisa con il pubblico a cui è destinata.
 
