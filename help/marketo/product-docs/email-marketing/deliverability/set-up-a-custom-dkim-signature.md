@@ -4,10 +4,10 @@ description: Configurare una firma DKIM personalizzata - Documentazione Marketo 
 title: Impostare una firma DKIM personalizzata
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 1%
+source-wordcount: '345'
+ht-degree: 0%
 
 ---
 
@@ -33,9 +33,9 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1, fai clic su **SPF/DKIM** , quindi **Aggiungi dominio**.
+1. Fai clic su **SPF/DKIM** , quindi **Aggiungi dominio**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. Immetti il dominio che utilizzerai nelle e-mail Marketo come Indirizzo mittente. Scegli un selettore e una dimensione chiave. Clic **Aggiungi** al termine.
 
@@ -45,6 +45,18 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
    >
    >* È consigliabile impostare la dimensione della chiave su 2048.
    >* Se utilizzi un dominio diverso nell’indirizzo Da, verrà utilizzata la firma DKIM condivisa di Marketo.
+
+   <table> 
+   <tr>
+   <td width="20%"><b>Selettore</b></td>
+   <td>Stringa o identificatore univoco utilizzato per individuare la parte della chiave pubblica del record DKIM. Può trattarsi di una stringa arbitraria o di un identificatore univoco per separare e identificare lo scopo di tale chiave/record DKIM.</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>Dimensione chiave</b></td>
+   <td>Livello di protezione con cui crittografare la firma DKIM.</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. Invia il **Record host** e **Valore TXT** al tuo IT. Chiedere loro di creare il record e assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
 
