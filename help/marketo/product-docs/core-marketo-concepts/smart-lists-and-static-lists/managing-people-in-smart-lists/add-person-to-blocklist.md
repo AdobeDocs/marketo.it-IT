@@ -4,9 +4,9 @@ description: Aggiunta di una persona al Inserisco nell'elenco Bloccati di - Docu
 title: Aggiungi persona al Inserisco nell'elenco Bloccati di
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 1%
 
 L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la tua corrispondenza.
 
-1. [Crea un nuovo programma predefinito](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) e denominalo **Aggiungi al Inserisco nell&#39;elenco Bloccati di**.
+1. Crea un nuovo [programma predefinito](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} e denominalo &quot;Aggiungi a Inserisce nell&#39;elenco Bloccati di&quot;.
 
-1. Clic **Nuovo** e seleziona **Nuova risorsa locale**.
+1. Clic **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Seleziona **Elenco avanzato**.
+1. Seleziona **[!UICONTROL Elenco avanzato]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. Denomina l’elenco e fai clic su **Crea**.
+1. Denomina l’elenco e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/add-person-to-blocklist-3.png)
 
-1. Aggiungi tutte le persone al tuo **Elenco avanzato** desideri aggiungerlo al tuo Inserisco nell&#39;elenco Bloccati di.
+1. Aggiungi tutte le persone al tuo elenco avanzato che desideri aggiungere al tuo Inserisco nell&#39;elenco Bloccati di.
 
    ![](assets/add-person-to-blocklist-4.png)
 
@@ -41,15 +41,15 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Clic **Nuovo** e seleziona **Nuova campagna avanzata**.
+1. Clic **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova campagna avanzata]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
-1. Denomina il **Nuova campagna avanzata**. Fai clic su **Crea**.
+1. Assegna un nome alla nuova Smart Campaign. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Trascina **Membro di elenco avanzato**.
+1. Trascina **[!UICONTROL Membro di elenco avanzato]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Fai clic su **Flusso** scheda. Trascina la **Modifica valore dati** Azione di flusso.
+1. Fai clic su **[!UICONTROL Flusso]** scheda. Trascina la **[!UICONTROL Modifica valore dati]** Azione di flusso.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. In **Attributo** selezione a discesa **Blocca nell&#39;elenco** e imposta **Nuovo valore** a **true**.
+1. In **[!UICONTROL Attributo]** selezione a discesa **[!UICONTROL Blocca nell&#39;elenco]** e imposta **[!UICONTROL Nuovo valore]** a **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Fai clic su **Pianificazione** e seleziona **Esegui una volta**.
+1. Fai clic su **[!UICONTROL Pianificazione]** e seleziona **[!UICONTROL Esegui una volta]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Seleziona **Esegui ora** e fai clic su **Esegui**.
+1. Seleziona **[!UICONTROL Esegui ora]** e fai clic su **[!UICONTROL Esegui]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Clic **Esegui** di nuovo.
+1. Clic **[!UICONTROL Esegui]** di nuovo.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Queste persone non riceveranno più e-mail.
 
 >[!TIP]
 >
->Creare un [attiva campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) utilizzo **Modifica valore dati** con **Blocca nell’elenco è true** per tutte le persone che in futuro avranno attributi che possono essere inseriti nell&#39;elenco Bloccati in modo da poter essere utilizzati in modo più efficiente.
+>Creare un [Attiva campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} utilizzo **Modifica valore dati** con **Blocca nell’elenco è true** per tutte le persone che in futuro avranno attributi che possono essere inseriti nell&#39;elenco Bloccati in modo da poter essere utilizzati in modo più efficiente.
