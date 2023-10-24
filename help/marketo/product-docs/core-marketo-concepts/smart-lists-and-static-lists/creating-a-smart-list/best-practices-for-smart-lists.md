@@ -4,7 +4,7 @@ description: Best practice per elenchi avanzati - Documentazione di Marketo - Do
 title: Best practice per gli elenchi avanzati
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Gli elenchi avanzati sono lo strumento di query più potente nell’universo del marketing. Trovano le persone che stai cercando con velocità e facilità magiche.
 
-Per semplificarne l&#39;utilizzo e ottimizzare le prestazioni, è stato creato un elenco di buone pratiche. Buon lavoro!
+Per semplificarne l’utilizzo e ottimizzare le prestazioni, abbiamo creato un elenco di best practice. Buon lavoro!
 
 >[!NOTE]
 >

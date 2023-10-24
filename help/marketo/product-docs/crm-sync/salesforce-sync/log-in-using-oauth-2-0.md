@@ -3,7 +3,7 @@ description: Accedi con OAuth 2.0 - Documentazione Marketo - Documentazione del 
 title: Accedi con OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 3a60db261cb6bb8b04b22abaa531b31fbc148493
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 
 >[!CAUTION]
 >
->Mentre ti trovi ancora nella pagina Nuova app connessa, scorri verso il basso e accertati che la casella di controllo &quot;Require Proof Key for Code Exchange (PKCE)&quot; (Richiedi chiave di bozza per lo scambio di codice) sia _NOT_ selezionato, in quanto impedirebbe la configurazione.
+>Mentre ti trovi ancora nella pagina Nuova app connessa, scorri verso il basso e accertati che la casella di controllo &quot;Require Proof Key for Code Exchange (PKCE)&quot; (Richiedi chiave di bozza per lo scambio di codice) sia _NOT_ selezionato, poiché interferirebbe con la configurazione.
 
 ## Configurare Marketo {#set-up-marketo}
 

@@ -4,7 +4,7 @@ description: Glossario degli operatori di filtri per elenchi avanzati - Document
 title: Glossario degli operatori di filtro elenchi avanzati
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 11%
@@ -37,8 +37,8 @@ Quando scegli un operatore, il lato destro cambia in modo dinamico.
 | prima di | Data singola | Tutti i record prima di quello specificato |
 | il o dopo il | Data singola | Come &quot;dopo&quot; ma inclusivo |
 | entro | Data singola | Come &quot;prima&quot; ma inclusivo |
-| è vuoto | Nessuna | Tutti i record senza data |
-| non è vuoto | Nessuna | Tutti i record con qualsiasi data |
+| è vuoto | Nessuno | Tutti i record senza data |
+| non è vuoto | Nessuno | Tutti i record con qualsiasi data |
 
 &#42; L&#39;input del linguaggio naturale è figo. Di seguito sono riportati alcuni dei pattern che è possibile immettere:
 
@@ -52,11 +52,11 @@ Basta digitare il numero e l&#39;unità e funzionerà!
 
 >[!NOTE]
 >
->&quot;Nel passato&quot; **fa** includi il giorno (fino all’ora, non dopo) in cui hai creato l’elenco avanzato.
+>&quot;Nel passato&quot; _fa_ includere il giorno (fino all’ora, non dopo) in cui si crea l’elenco avanzato.
 
 >[!CAUTION]
 >
->Quando crei un elenco avanzato utilizzando un filtro per campo data (ad esempio, Data di nascita, Data di creazione SFDC) e utilizzi i vincoli **prima di**, **il o prima del**, o **in passato prima di**, l’elenco avanzato includerà anche le persone che non hanno valore in detto campo data.
+>Quando crei un elenco avanzato utilizzando un filtro campo data (ad esempio Data di nascita, Data di creazione SFDC) e utilizzi i vincoli **[!UICONTROL prima di]**, **[!UICONTROL il o prima del]**, o **[!UICONTROL in passato prima di]**, nell’elenco avanzato saranno incluse anche le persone che non hanno valore in detto campo data.
 
 Utilizza il diagramma seguente per comprendere la differenza tra gli operatori di data.
 
@@ -68,11 +68,11 @@ Utilizza il diagramma seguente per comprendere la differenza tra gli operatori d
 >
 >I campi data possono diventare complessi quando si lavora con eventi passati e futuri. Ecco un paio di esempi.
 >
->**In passato prima di**
+>**[!UICONTROL In passato prima di]**
 >
 >Per la tua nuova promozione, utilizza questo operatore per inviare e-mail solo a persone che non si sono abbonate o hanno rinnovato il servizio entro un anno o non sono mai state abbonate.
 >
->**In futuro dopo**
+>**[!UICONTROL In futuro dopo]**
 >
 >Se vuoi vedere clienti che sono pronti per il rinnovo entro 90 giorni, Puoi utilizzare due filtri separati. Prima utilizzare &quot;In futuro dopo 90 giorni&quot; e seconda, &quot;In futuro 91 giorni&quot;. In questo modo chiunque abbia una data compresa tra 90 giorni.
 
