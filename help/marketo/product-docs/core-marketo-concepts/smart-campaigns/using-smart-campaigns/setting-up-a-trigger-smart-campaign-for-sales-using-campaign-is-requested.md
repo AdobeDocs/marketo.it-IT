@@ -4,7 +4,7 @@ description: Configurazione di una campagna avanzata di attivazione per le vendi
 title: Impostazione di una campagna avanzata di attivazione per le vendite tramite "È richiesta la campagna"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -24,21 +24,21 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 >
 >Sii creativo. Cosa vorrebbe automatizzare il venditore? Chiedetelo a loro e collegatelo!
 
-1. Creare un **Campagna intelligente.**
+1. Creare una campagna avanzata.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Trova e trascina **Campagna richiesta** attiva l’area di lavoro.
+1. Trova e trascina **[!UICONTROL Campagna richiesta]** attiva l’area di lavoro.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurati di scegliere **Vendite** **Insight**.
+1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurati di scegliere **[!UICONTROL Insight sulle vendite]**.
 
    >[!TIP]
    >
-   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegli **È qualsiasi** nella prima casella se desideri consentire le richieste da tutte le origini.
+   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegli **[!UICONTROL È qualsiasi]** nella prima casella se desideri consentire le richieste da tutte le origini.
    >
-   >**Ricorda**, scegliendo Insight vendite, magicamente apparirà nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
+   >_Ricorda_, scegliendo Insight vendite, magicamente apparirà nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
