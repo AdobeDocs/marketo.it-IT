@@ -4,9 +4,9 @@ description: SEO - Aggiungi parole chiave - Documentazione di Marketo - Document
 title: SEO - Aggiungi parole chiave
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,12 @@ Le parole chiave sono frasi digitate dagli utenti nei motori di ricerca. Aggiung
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 Ottimo lavoro! Verranno visualizzate le nuove aggiunte all&#39;elenco delle parole chiave.
+
+>[!NOTE]
+>
+>I dati vengono visualizzati solo per le parole chiave con classificazione da 1 a 100.
+
+>[!MORELIKETHIS]
+>
+>[Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

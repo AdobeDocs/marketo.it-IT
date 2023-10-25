@@ -4,9 +4,9 @@ description: 'Dashboard SEO: istantanea SEO, documenti Marketo, documentazione d
 title: Informazioni sulla dashboard SEO - Snapshot SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,9 @@ Questa sezione mostra come il tuo sito viene classificato per il [parole chiave 
 >
 >È inoltre possibile visualizzare come [elenco specifico](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) di parole chiave in esecuzione. Fai clic sull’elenco a discesa e seleziona quello che ti interessa.
 
-Forza, forza! Continuiamo a muoverci.
+>[!NOTE]
+>
+>I dati vengono visualizzati solo per le parole chiave con classificazione da 1 a 100.
 
 ## [!UICONTROL Punteggio medio di ottimizzazione pagina] {#average-page-optimization-score}
 
