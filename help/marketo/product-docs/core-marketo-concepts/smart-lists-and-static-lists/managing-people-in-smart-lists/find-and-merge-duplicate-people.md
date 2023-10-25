@@ -4,7 +4,7 @@ description: Trovare e unire persone duplicate - Documentazione di Marketo - Doc
 title: Trova e unisci persone duplicate
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Trova e unisci persone duplicate {#find-and-merge-duplicate-people}
 
-Marketo esegue automaticamente la deduplicazione quando nuove persone entrano nel sistema. Tuttavia, il CRM potrebbe aver inizialmente inviato duplicati a Marketo. Ecco come unirle.
+Il Marketo Engage esegue automaticamente la deduplicazione quando nuove persone entrano nel sistema. Tuttavia, il CRM potrebbe inizialmente aver inviato più duplicati. Ecco come unirle.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ Marketo esegue automaticamente la deduplicazione quando nuove persone entrano ne
 
 ## Trova duplicati {#find-duplicates}
 
-1. Vai a **Database** area.
+1. Vai a **[!UICONTROL Database]** area.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ Marketo esegue automaticamente la deduplicazione quando nuove persone entrano ne
    >
    >L’unione di persone in Marketo potrebbe non funzionare se utilizzi un account Salesforce Person. Unisci i record in Salesforce se possibile.
 
-1. Seleziona la **Possibili duplicati** elenco avanzato di sistema e fare clic sul pulsante **Persone** scheda.
+1. Seleziona la **[!UICONTROL Possibili duplicati]** System Smart List e fare clic sul pulsante **[!UICONTROL Persone]** scheda.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ Marketo esegue automaticamente la deduplicazione quando nuove persone entrano ne
 
 >[!CAUTION]
 >
->Quando si uniscono le persone, se la persona perdente ha un oggetto personalizzato Marketo, **non** vengono riassociate alla persona vincente. Prima di eseguire l&#39;unione, rieseguire l&#39;oggetto personalizzato.
+>Quando si uniscono le persone, se la persona perdente ha un oggetto personalizzato Marketo, _non_ vengono riassociate alla persona vincente. Prima di eseguire l&#39;unione, rieseguire l&#39;oggetto personalizzato.
 
-1. Selezionare i duplicati tenendo premuto Ctrl/Comando e facendo clic su, quindi fare clic su **Unisci persone**.
+1. Selezionare i duplicati tenendo premuto Ctrl/Comando e facendo clic su, quindi fare clic su **[!UICONTROL Unisci persone]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo esegue automaticamente la deduplicazione quando nuove persone entrano ne
    >
    >Potresti avere due o più duplicati per la stessa persona: selezionali tutti contemporaneamente.
 
-1. Verranno visualizzati i valori tra i record che _non_ corrisponde a. Selezionare il valore da mantenere per ogni campo. Clic **Unisci** al termine. Se non desideri entrambi i valori, puoi selezionare **Personalizzato** e inserisci un valore a tua scelta.
+1. Verranno visualizzati i valori tra i record che _non_ corrisponde a. Selezionare il valore da mantenere per ogni campo. Clic **[!UICONTROL Unisci]** al termine. Se non desideri entrambi i valori, puoi selezionare **[!UICONTROL Personalizzato]** e inserisci un valore a tua scelta.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

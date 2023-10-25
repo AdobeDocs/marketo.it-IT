@@ -4,30 +4,30 @@ description: Creazione manuale di una persona - Documentazione di Marketo - Docu
 title: Creare manualmente una persona
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
 # Creare manualmente una persona {#create-a-person-manually}
 
-Esistono molti modi per coinvolgere una persona in Marketo. Se devi crearne uno manualmente, ecco come farlo.
+Ci sono molti modi per far entrare una persona nel Marketo Engage. Se devi crearne uno manualmente, ecco come farlo.
 
 >[!CAUTION]
 >
->Marketo sì **non** supporta gli indirizzi e-mail che contengono emoji.
+>Marketo non supporta gli indirizzi e-mail che contengono emoticon.
 
-1. Vai a **Database**.
+1. Vai a **[!UICONTROL Database]**.
 
    ![](assets/db-1.png)
 
-1. Sotto **Nuovo**, fai clic su **Nuova persona**.
+1. Sotto **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuova persona]**.
 
    ![](assets/two-2.png)
 
-1. Inserisci le informazioni della persona, quindi fai clic su **Crea**.
+1. Inserisci le informazioni della persona, quindi fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/three-2.png)
 

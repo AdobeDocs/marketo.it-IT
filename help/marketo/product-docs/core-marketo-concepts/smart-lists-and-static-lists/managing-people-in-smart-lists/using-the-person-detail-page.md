@@ -4,7 +4,7 @@ description: Utilizzo della pagina dei dettagli della persona - Documentazione d
 title: Utilizzo della pagina Dettagli persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 22%
@@ -20,7 +20,7 @@ La pagina dei dettagli della persona contiene tutte le informazioni che Marketo 
 Ci sono molti modi per aprire persone specifiche. Alcuni esempi sono:
 
 * Dalla sezione **Database**, è possibile eseguire una ricerca in Ricerca rapida
-* Qualsiasi smart **list** o elenco
+* Qualsiasi **Elenco avanzato** o elenco
 * **Membri** scheda di un programma
 * **Visualizza membri della campagna** in una campagna avanzata
 * Alcuni **rapporti**
@@ -73,7 +73,7 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 |   |  |  |  |  |
 |---|---|---|---|---|
 | Indirizzo | Entrata annuale | IP anonimo | Indirizzo di fatturazione | Città di fatturazione |
-| Paese di fatturazione | Codice postale di fatturazione | Stato di fatturazione | Città | Nome azienda |
+| Paese di fatturazione | Codice postale di fatturazione | Stato di fatturazione | Città | Nome della società |
 | Paese | Data creazione | Data di nascita | Dipartimento | Non effettuare la chiamata |
 | Non chiamare causa | Motivo per cui non effettuare la chiamata | Indirizzo e-mail | E-mail non valida | E-mail causa non valida |
 | ID azienda esterna | ID dell&#39;addetto alle vendite esterno | Numero di fax | Nome | Nome completo |
@@ -84,8 +84,8 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 | URL foto Marketo Social Facebook | URL profilo Marketo Social Facebook | Marketo Social Facebook Reach | Iscrizioni con riferimenti a Marketo Social Facebook | Visite di riferimento di Marketo Social Facebook |
 | Genere social Marketo | Ultima iscrizione riferimento a Marketo Social | Ultima visita di riferimento di Marketo Social | Nome visualizzato Marketo Social LinkedIn | ID Marketo Social LinkedIn |
 | URL foto Marketo Social LinkedIn | URL profilo Marketo Social LinkedIn | Marketo Social LinkedIn Reach | Iscrizioni con riferimenti a Marketo Social LinkedIn | Visite di riferimento di Marketo Social LinkedIn |
-| ID Marketo Social Syndication | Totale iscrizioni inoltrate Social Marketo | Totale visite inoltrate Social Marketo | Nome visualizzato Marketo Social Twitter | ID Marketo Social Twitter |
-| URL foto Marketo Social Twitter | URL profilo Marketo Social Twitter | Marketo Social Twitter Reach | Iscrizioni con riferimenti a Marketo Social Twitter | Visite di riferimento di Marketo Social Twitter |
+| ID Marketo Social Syndication | Totale iscrizioni inoltrate Social Marketo | Totale visite inoltrate Social Marketo | Nome visualizzato Twitter social network Marketo | ID Twitter social network Marketo |
+| URL foto Twitter Marketo Social | URL profilo Twitter social network Marketo | Marketo - Raggiungimento Twitter social network | Iscrizioni di riferimento a Marketo Social Twitter | Visite di riferimento per Twitter social network Marketo |
 | Secondo nome | Numero di cellulare | Numero dipendenti | Numero di telefono | Codice postale |
 | Priorità | Punteggio relativo | Ruolo | Formula di saluto | Codice SIC (Standard Industrial Classification) |
 | Sito | Stato | Annulla l&#39;iscrizione | Motivo di annullamento dell&#39;iscrizione | Data di aggiornamento |
@@ -100,8 +100,8 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 >* Opportunità per i contatti SFDC
 >* Alcuni campi specifici di Marketo, come Data di creazione e Tipo di origine originale.
 >
->Ulteriori informazioni su [Campi gestiti dal sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Ulteriori informazioni su [Campi gestiti dal sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Creazione di una scheda personalizzata per la pagina Dettagli persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Creazione di una scheda personalizzata per la pagina Dettagli persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

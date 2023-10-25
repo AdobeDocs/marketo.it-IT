@@ -4,28 +4,28 @@ description: Utilizzare la Ricerca rapida in un elenco o in un elenco avanzato -
 title: Utilizzare la ricerca rapida in un elenco o in un elenco avanzato
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Utilizzare la ricerca rapida in un elenco o in un elenco avanzato {#use-quick-find-in-a-list-or-smart-list}
 
-Trova una persona dai risultati di un elenco o di un elenco avanzato utilizzando la funzione di ricerca rapida.
+Trova una persona dai risultati di un elenco o di un elenco avanzato utilizzando la ricerca rapida.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Attività di marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare l&#39;elenco smart che si desidera cercare e quindi fare clic su **Persone** scheda.
+1. Selezionare l&#39;elenco smart che si desidera cercare e quindi fare clic su **[!UICONTROL Persone]** scheda.
 
    ![](assets/smartlistpeople.png)
 
 ## Trova persone utilizzando le informazioni personali {#find-people-using-personal-info}
 
-1. In **Ricerca rapida** nella parte inferiore dello schermo, digitare una parola chiave (**nome personale**, **indirizzo e-mail**, o **qualifica**).
+1. In **[!UICONTROL Ricerca rapida]** nella parte inferiore dello schermo, digitare una parola chiave (**nome personale**, **indirizzo e-mail**, o **qualifica**).
 
    ![](assets/searchpeople.png)
 
@@ -33,10 +33,8 @@ Trova una persona dai risultati di un elenco o di un elenco avanzato utilizzando
 
 ## Trovare persone utilizzando il nome di una società {#find-people-using-a-company-name}
 
-1. Per trovare una società, digitare [**azienda**] nel **Ricerca rapida** seguito da qualsiasi parte del nome dell&#39;azienda che si sta cercando.
+1. Per trovare una società, digitare `[company]` nella casella Ricerca rapida, seguita da qualsiasi parte del nome dell&#39;azienda che si sta cercando.
 
    ![](assets/supersmartlistsearch.jpg)
 
 1. Al termine, premi Invio o fai clic sull’icona di ricerca.
-
-Congratulazioni — lavoro veloce!

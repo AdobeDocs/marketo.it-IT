@@ -4,7 +4,7 @@ description: Informazioni sugli elenchi avanzati - Documentazione di Marketo - D
 title: Informazioni sugli elenchi avanzati
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -20,21 +20,21 @@ Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzan
 
 I passaggi principali per la creazione di un elenco avanzato sono i seguenti:
 
-1. [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-1. [Trovare e aggiungere filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-1. [Definire i filtri per elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+1. [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+1. [Trovare e aggiungere filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+1. [Definire i filtri per elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
-Ecco un esempio di un elenco avanzato.
+Di seguito è riportato un esempio dell&#39;aspetto di un elenco avanzato.
 
 ## Scheda Principale {#main-tab}
 
-Qui è possibile [modifica il nome dell’elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) e visualizzare informazioni sull&#39;elenco avanzato.
+Qui è possibile [modificare il nome dell’elenco smart](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} e vedere informazioni sull&#39;elenco avanzato.
 
 ![](assets/smartlist.png)
 
 ## Scheda Persone {#people-tab}
 
-Qui vengono visualizzati i risultati; ovvero, tutte le persone che si qualificano per i filtri che si [aggiunto e definito](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) nella scheda Elenco avanzato.
+Qui vengono visualizzati i risultati; ovvero, tutte le persone che si qualificano per i filtri che si [aggiunto e definito](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} nella scheda Elenco avanzato.
 
 ![](assets/smartlist-people.png)
 
@@ -48,5 +48,5 @@ OK, iniziamo!
 
 >[!MORELIKETHIS]
 >
->* [Usa elenchi avanzati incorporati/di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
->* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Usa elenchi avanzati incorporati/di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
