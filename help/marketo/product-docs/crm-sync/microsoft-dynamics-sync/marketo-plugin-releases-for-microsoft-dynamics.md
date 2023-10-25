@@ -4,7 +4,7 @@ description: Rilasci di plug-in Marketo per Microsoft Dynamics - Documentazione 
 title: Rilasci di plug-in Marketo per Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi la versione più recente dei plug-in per Marketo. Periodicamente, Marketo aggiorna questi plug-in, in modo da poter tornare nella stessa posizione per scaricare la nuova versione.
 
-[Scarica il plug-in più recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) corrisponde alla versione di Dynamics.
+[Scarica il plug-in più recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} corrisponde alla versione di Dynamics.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
@@ -120,4 +120,4 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi l
 
 >[!MORELIKETHIS]
 >
->[Scarica la soluzione di gestione dei lead Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Scarica la soluzione di gestione dei lead Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Stato di sincronizzazione - Documentazione di Marketo - Documentazi
 title: Stato sincronizzazione
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Nelle schede Stato sincronizzazione ed Errori di sincronizzazione è possibile m
 
 ## Scheda Stato sincronizzazione {#sync-status-tab}
 
-1. Clic **Amministratore** e **Microsoft Dynamics**.
+1. Clic **[!UICONTROL Amministratore]**, quindi **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Fai clic su **Stato sincronizzazione** scheda.
+1. Fai clic su **[!UICONTROL Stato sincronizzazione]** scheda.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ Nelle schede Stato sincronizzazione ed Errori di sincronizzazione è possibile m
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Fai clic su **Visualizza:** a discesa e selezionare **Ultima ora** per visualizzare le informazioni sulla velocità effettiva.
+1. Fai clic su **[!UICONTROL Visualizza]** a discesa e selezionare **[!UICONTROL Ultima ora]** per visualizzare le informazioni sulla velocità effettiva.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ Sfogliare, cercare o esportare i lead (e altri oggetti) che non sono stati sincr
 
 >[!MORELIKETHIS]
 >
->[Tipi di notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Tipi di notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

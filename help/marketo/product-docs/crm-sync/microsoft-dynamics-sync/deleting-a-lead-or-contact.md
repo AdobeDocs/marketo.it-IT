@@ -4,9 +4,9 @@ description: Eliminazione di un lead o di un contatto - Documenti Marketo - Docu
 title: Eliminazione di un lead o di un contatto
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando si tratta di eliminare lead/contatti in Microsoft Dynamics, è necessario conoscere alcuni aspetti.
 
-* Marketo non elimina automaticamente le persone solo perché i lead sono stati eliminati in Dynamics. Piuttosto, il flag &quot;Microsoft is Deleted&quot; del campo è impostato su true. Se necessario, puoi disattivare questo campo per eliminare il record in Marketo.
+* Il Marketo Engage non elimina automaticamente le persone solo perché i lead sono stati eliminati in Dynamics. Piuttosto, il flag &quot;Microsoft is Deleted&quot; del campo è impostato su true. Se necessario, puoi disattivare questo campo per eliminare il record in Marketo.
 
 * Azione di flusso &quot;Elimina persona&quot;: questa azione elimina solo una persona in Marketo (non è disponibile un’opzione per eliminarla anche in Dynamics).
 

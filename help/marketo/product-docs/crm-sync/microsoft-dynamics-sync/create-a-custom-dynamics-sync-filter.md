@@ -4,7 +4,7 @@ description: Creare un filtro di sincronizzazione Dynamics personalizzato - Docu
 title: Creare un filtro di sincronizzazione Dynamics personalizzato
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Marketo cerca questo campo durante la sincronizzazione in background automatica 
 
 ## Crea campo SyncToMkto {#create-synctomkto-field}
 
-1. Accedi a Dynamics CRM. Clic **Impostazioni** e quindi fare clic su **Personalizzazioni**.
+1. Accedi a Dynamics CRM. Clic **Impostazioni**, quindi fai clic su **Personalizzazioni**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -67,7 +67,7 @@ Marketo cerca questo campo durante la sincronizzazione in background automatica 
 
    >[!NOTE]
    >
-   >Scegliere un nome visualizzato per questo campo, ma il campo Nome deve essere esattamente **new_synctomkto**. È necessario utilizzare **nuovo** come prefisso predefinito. Se hai modificato il valore predefinito, vai qui per [reimpostare il prefisso predefinito per i nomi dei campi personalizzati](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Puoi ripristinarla dopo aver creato i nuovi campi.
+   >Scegliere un nome visualizzato per questo campo, ma il campo Nome deve essere esattamente **new_synctomkto**. È necessario utilizzare **nuovo** come prefisso predefinito. Se hai modificato il valore predefinito, vai qui per [reimpostare il prefisso predefinito per i nomi dei campi personalizzati](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. Puoi ripristinarla dopo aver creato i nuovi campi.
 
    >[!NOTE]
    >
@@ -79,15 +79,15 @@ Marketo cerca questo campo durante la sincronizzazione in background automatica 
 
 Anche se la sincronizzazione iniziale è già stata eseguita, accedere e selezionare i campi da sincronizzare con Marketo.
 
-1. Vai a Amministratore e seleziona **Microsoft Dynamics**.
+1. Vai a Amministratore e seleziona **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clic **Modifica** in Dettagli sincronizzazione campi.
+1. Clic **[!UICONTROL Modifica]** in Dettagli sincronizzazione campi.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Clic **Salva**.
+1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
@@ -103,7 +103,7 @@ Bene, ora hai attivato il filtro di sincronizzazione per Marketo.
 >
 >Un flusso di lavoro Dynamics funziona solo sui nuovi record creati in futuro, non sui dati storici. Utilizzare un aggiornamento batch per spostarsi sui record esistenti.
 
-1. Passare a Dynamics CRM. Clic **Impostazioni** quindi fai clic su **Processi**.
+1. Vai a Dynamics CRM. Clic **Impostazioni**, quindi **Processi**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -129,26 +129,26 @@ Bene, ora hai attivato il filtro di sincronizzazione per Marketo.
 
    >[!TIP]
    >
-   >Consulta [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) per impostare regole per sincronizzare solo i record per le persone con indirizzi e-mail.
+   >Consulta [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} per impostare regole per sincronizzare solo i record per le persone con indirizzi e-mail.
 
 ## Dettagli filtro di sincronizzazione {#sync-filter-details}
 
 Di seguito sono riportati alcuni dettagli di implementazione che pensavamo dovessi conoscere:
 
-1. Avvia un&#39;operazione di sincronizzazione
+* Avvia un&#39;operazione di sincronizzazione
 
-   Quando **SyncToMkto** il valore cambia da **No** a **Sì**, Dynamics notifica immediatamente a Marketo l&#39;avvio della sincronizzazione del record. Se il record esiste già, Marketo lo aggiorna. In caso contrario, Marketo crea il record.
+  Quando **SyncToMkto** il valore cambia da **No** a **Sì**, Dynamics notifica immediatamente a Marketo l&#39;avvio della sincronizzazione del record. Se il record esiste già, Marketo lo aggiorna. In caso contrario, Marketo crea il record.
 
-   >[!TIP]
-   >
-   >A `Create [StartSync]` Questa operazione viene aggiunta al registro di Marketo quando ciò accade.
+  >[!TIP]
+  >
+  >A `Create [StartSync]` Questa operazione viene aggiunta al registro di Marketo quando ciò accade.
 
-1. Interrompere un&#39;operazione di sincronizzazione
+* Interrompere un&#39;operazione di sincronizzazione
 
-   Quando il valore SyncToMkto di un record viene modificato da Sì a No, a Marketo viene notificato di interrompere la sincronizzazione del record. Tuttavia, il record non viene eliminato, ma smette di ricevere aggiornamenti e diventa obsoleto.
+  Quando il valore SyncToMkto di un record viene modificato da Sì a No, a Marketo viene notificato di interrompere la sincronizzazione del record. Tuttavia, il record non viene eliminato, ma smette di ricevere aggiornamenti e diventa obsoleto.
 
 >[!MORELIKETHIS]
 >
->* [Filtro sincronizzazione Microsoft Dynamics: qualificato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Filtro sincronizzazione Microsoft Dynamics: Unisci](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
+>* [Filtro sincronizzazione Microsoft Dynamics: qualificato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Filtro sincronizzazione Microsoft Dynamics: Unisci](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

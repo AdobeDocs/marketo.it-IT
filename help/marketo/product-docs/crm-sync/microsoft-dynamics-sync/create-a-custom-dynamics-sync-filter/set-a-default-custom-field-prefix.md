@@ -4,7 +4,7 @@ description: Impostare un prefisso di campo personalizzato predefinito - Documen
 title: Imposta un prefisso di campo personalizzato predefinito
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Imposta un prefisso di campo personalizzato predefinito {#set-a-default-custom-field-prefix}
 
-Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve essere **nuovo** per consentire la corretta sincronizzazione dei campi proprietari di Marketo. Per modificare il prefisso predefinito, procedere come segue.
+Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve essere _nuovo_ per consentire la corretta sincronizzazione dei campi proprietari di Marketo. Per modificare il prefisso predefinito, procedere come segue.
 
-1. Vai a Impostazioni e seleziona **Personalizzazioni.**
+1. Vai a Impostazioni e seleziona **Personalizzazioni**.
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 

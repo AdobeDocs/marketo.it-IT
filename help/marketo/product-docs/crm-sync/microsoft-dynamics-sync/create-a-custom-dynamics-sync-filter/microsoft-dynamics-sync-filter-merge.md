@@ -4,7 +4,7 @@ description: Filtro di sincronizzazione Microsoft Dynamics - Unione - Documenti 
 title: Filtro sincronizzazione Microsoft Dynamics - Unione
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -22,6 +22,6 @@ I record dei lead diventano true o false in base alle regole del flusso di lavor
 | Se il filtro di sincronizzazione per il record perdente è: | e il filtro di sincronizzazione per il record vincente è: | Questo è il risultato in Marketo |
 |---|---|---|
 | True | True | Il record vincente continua la sincronizzazione con Marketo |
-| False | False | Il record vincente continua a **non** sincronizza con Marketo |
+| False | False | Il record vincente continua a _non_ sincronizza con Marketo |
 | False | True | Il record vincente verrà sincronizzato con Marketo |
 | True | False | Il record vincente non verrà sincronizzato con Marketo |

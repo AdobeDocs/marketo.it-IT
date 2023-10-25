@@ -3,16 +3,16 @@ description: Mappatura campo Dynamics predefinita - Documenti Marketo - Document
 title: Mappatura campo Dynamics predefinita
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 18%
 
 ---
 
 # Mappatura campo Dynamics predefinita {#default-dynamics-field-mapping}
 
-Quando sincronizzi inizialmente l’account Marketo con Microsoft, Marketo crea automaticamente queste associazioni tra i campi Dynamics e Marketo incorporati.  Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
+Quando sincronizzi inizialmente l’account di Marketo Engage con Microsoft, Marketo crea automaticamente queste associazioni tra i campi Dynamics e Marketo incorporati.  Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
 
 ## Campi lead {#lead-fields}
 
@@ -244,7 +244,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario </td>
+      <td>Proprietario</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Note della persona</td>
       <td>Descrizione</td>
-      <td>descrizione </td>
+      <td>descrizione</td>
     </tr>
     <tr>
       <td>Punteggio della persona</td>
@@ -441,7 +441,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Note della persona</td>
       <td>Descrizione</td>
-      <td>descrizione </td>
+      <td>descrizione</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario </td>
+      <td>Proprietario</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ I campi Account riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario </td>
+      <td>Proprietario</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ I campi Account riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario </td>
+      <td>Proprietario</td>
       <td>ownerid</td>
     </tr>
     <tr>
