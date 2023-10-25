@@ -4,7 +4,7 @@ description: Fare riferimento a un elenco o a un elenco avanzato in più aree di
 title: Fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Gli elenchi e gli elenchi avanzati possono essere condivisi e utilizzati come ri
 
 >[!NOTE]
 >
->Vengono applicate le regole di partizione della persona (gli elenchi smart e gli elenchi statici in un&#39;area di lavoro mostrano solo gli utenti che sono entrambi membri dell&#39;elenco *e* membri del workspace corrente).
+>Si applicano le regole di partizione della persona (gli elenchi smart e gli elenchi statici in un’area di lavoro mostrano solo gli utenti che sono entrambi membri dell’elenco _e_ membri del workspace corrente).
 
-## Condividere un elenco o un elenco avanzato  {#share-a-list-or-smart-list}
+## Condividere un elenco o un elenco avanzato {#share-a-list-or-smart-list}
 
-1. Vai a **Database**.
+1. Vai a **[!UICONTROL Database]**.
 
    ![](assets/db-1.png)
 
@@ -33,15 +33,15 @@ Gli elenchi e gli elenchi avanzati possono essere condivisi e utilizzati come ri
 
    ![](assets/two-4.png)
 
-1. Trascina nella nuova cartella un elenco o un elenco avanzato da condividere.
+1. Trascina e rilascia un elenco o un elenco avanzato da condividere nella nuova cartella.
 
    ![](assets/three-4.png)
 
-1. Clic con il pulsante destro **Nuova cartella** e seleziona **Condividi cartella**.
+1. Clic con il pulsante destro **[!UICONTROL Nuova cartella]** e seleziona **[!UICONTROL Condividi cartella]**.
 
    ![](assets/four-3.png)
 
-1. Scegli un **Workspace** da condividere con. Seleziona **Salva**.
+1. Scegli un **[!UICONTROL Workspace]** da condividere con. Seleziona **[!UICONTROL Salva]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 

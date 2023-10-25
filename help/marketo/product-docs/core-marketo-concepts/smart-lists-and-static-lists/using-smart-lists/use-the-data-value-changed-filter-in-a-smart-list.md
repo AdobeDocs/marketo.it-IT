@@ -4,7 +4,7 @@ description: Utilizzare il filtro Data Value Changed in uno Smart List - Marketo
 title: Utilizzare il filtro Valore dati modificato in un elenco avanzato
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -17,22 +17,22 @@ I valori cambiano e vengono aggiornati costantemente nel database di Marketo. A 
 
 >[!PREREQUISITES]
 >
->[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vai a **Attività di marketing** area.
+1. Vai a **[!UICONTROL Attività di marketing]** area.
 
    ![](assets/ma.png)
 
-1. Seleziona l’elenco avanzato e fai clic su **Elenco avanzato** scheda.
+1. Seleziona lo Smart List e fai clic su **[!UICONTROL Elenco avanzato]** scheda.
 
    ![](assets/two-1.png)
 
-1. Trova il **Valore dati modificato** e trascinarlo nell’area di lavoro.
+1. Trova il **[!UICONTROL Valore dati modificato]** e trascinarlo nell’area di lavoro.
 
    ![](assets/three-1.png)
 
-1. Imposta **Attributo** al campo in cui desideri cercare le modifiche al valore dei dati.
+1. Imposta **[!UICONTROL Attributo]** al campo in cui desideri cercare le modifiche al valore dei dati.
 
    ![](assets/four.png)
 
-Questo filtro cercherà tutte le persone il cui Stato è stato modificato (o modificato). Se vuoi ottenere ancora più fantasia, prova [aggiunta di un vincolo a un filtro elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
+Questo filtro cercherà tutte le persone il cui Stato è stato modificato (o modificato). Se vuoi ottenere ancora più fantasia, prova [aggiunta di un vincolo a un filtro Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
