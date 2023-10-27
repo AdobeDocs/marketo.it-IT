@@ -4,9 +4,9 @@ description: Configurare i protocolli per Marketo - Documentazione Marketo - Doc
 title: Configurazione dei protocolli per Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 3%
 
 Se l&#39;utente o l&#39;organizzazione utilizza impostazioni restrittive per il firewall o il server proxy, potrebbe essere necessario inserire nell&#39;elenco Consentiti alcuni domini e intervalli di indirizzi IP per garantire il corretto funzionamento di Adobe Marketo Engage.
 
-## Pagine di destinazione e e-mail per campagne con marchio {#branded-campaign-landing-pages-and-emails}
-
-Il gruppo marketing utilizza Marketo per creare pagine di destinazione e e-mail per le campagne con marchio. Per garantire il funzionamento di tali pagine di destinazione e e-mail, è necessario un piccolo aiuto da parte dell’IT. Imposta i seguenti protocolli, con le informazioni che il gruppo di marketing ti avrebbe dovuto inviare tramite e-mail.
-
-Questo articolo deve essere condiviso con il reparto IT dell’azienda che desidera implementare questi protocolli.
-
-Se il tuo team IT limita l’accesso web utilizzando un inserisco nell&#39;elenco Consentiti di, chiedi loro di aggiungere i seguenti domini (incluso l’asterisco) per consentire tutte le risorse e i websockets di Marketo:
+Per assistenza nell’implementazione dei protocolli riportati di seguito, condividi questo articolo con il tuo reparto IT. Se limitano l’accesso web utilizzando un inserisco nell&#39;elenco Consentiti di, accertati di aggiungere i seguenti domini (incluso l’asterisco) per consentire tutte le risorse e i websockets di Marketo:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
