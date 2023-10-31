@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9104'
 ht-degree: 1%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 1%
          + [Aggiungere il codice di tracciamento Munchkin al sito Web](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Domande frequenti sul tracciamento Munchkin di nuova generazione](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Aggiungere il Single Sign-On a un portale](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Aggiungere WebEx come servizio LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+         + [Aggiungere Webex as a LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Aggiungere l’area di lavoro di Facebook come servizio LaunchPoint](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Aggiungere zoom come servizio LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Configurazione delle impostazioni API SOAP](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
@@ -659,7 +659,7 @@ ht-degree: 1%
          + Integrazioni {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [API Adobe PDF Embed](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
-         + Chat in tempo reale {#live-chat}
+         + Chat live {#live-chat}
             + [Panoramica chat in diretta](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Casella in entrata agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
          + Configurazione e configurazione {#setup-and-configuration}
@@ -684,7 +684,8 @@ ht-degree: 1%
             + [Creare un evento con Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Creare un evento con il webinar Goto](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Creare un evento con una riunione Web di livello 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [Creare un evento con WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Creare un evento con Webex](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+              [Creare un evento con Webex 2](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [Creare un evento con zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Creazione di un evento con la scheda Marketo ON24 {#create-an-event-with-the-marketo-on24-adapter}
                + [Configurare l&#39;integrazione ON24 con Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
