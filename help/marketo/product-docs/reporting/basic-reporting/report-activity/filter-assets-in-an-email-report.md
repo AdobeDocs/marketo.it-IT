@@ -4,9 +4,9 @@ description: Filtrare le risorse in un rapporto e-mail - Documenti Marketo - Doc
 title: Filtrare le risorse in un rapporto e-mail
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrare le risorse in un rapporto e-mail {#filter-assets-in-an-email-report}
 
 Metti a fuoco [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) creare rapporti sulle e-mail nei programmi (&quot;risorse locali&quot;), su quelle in Design Studio (&quot;risorse globali&quot;) o su quelle archiviate.
+
+>[!NOTE]
+>
+>Il filtro delle risorse nei rapporti non è supportato in modalità Satellite (l’icona &quot;apri in una nuova finestra&quot; a destra della pagina dei dettagli della risorsa).
 
 1. Vai a **Analytics** (o **Attività di marketing**).
 
