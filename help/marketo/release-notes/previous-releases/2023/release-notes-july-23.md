@@ -2,10 +2,10 @@
 description: Note sulla versione - Luglio 2023 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Luglio 2023
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '654'
 ht-degree: 2%
 
 ---
@@ -92,7 +92,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 </br>
 
-* **Annulla iscrizione Aggiungi impostazioni**: ora puoi avere un maggiore controllo sui messaggi di annullamento dell’abbonamento con nuove opzioni di configurazione su Annullamento dell’abbonamento. Le nuove funzionalità consentono agli amministratori di controllare quando, dove e quali messaggi di annullamento dell’abbonamento verranno visualizzati nelle e-mail di vendita.
+* **Annulla iscrizione Aggiungi impostazioni per le azioni Sales Insight**: ora puoi avere un maggiore controllo sui messaggi di annullamento dell’abbonamento con nuove opzioni di configurazione su Annullamento dell’abbonamento. Le nuove funzionalità consentono agli amministratori di controllare quando, dove e quali messaggi di annullamento dell’abbonamento verranno visualizzati nelle e-mail di vendita.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
    <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Aggiungi automaticamente l’impostazione del messaggio di annullamento dell’iscrizione</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Prompt dei campi dinamici**: ora puoi richiedere al team vendite di personalizzare ulteriormente parti specifiche di un’e-mail con nuovi Prompt dei campi disponibili per l’aggiunta ai modelli e-mail in Azioni approfondimento vendite.
+* **Prompt dei campi dinamici per le azioni di approfondimento sulle vendite**: ora puoi richiedere al team vendite di personalizzare ulteriormente parti specifiche di un’e-mail con nuovi Prompt dei campi disponibili per l’aggiunta ai modelli e-mail in Azioni approfondimento vendite.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Campi dinamici predefiniti**: i campi dinamici predefiniti ti consentono di configurare un valore di fallback che un campo dinamico può risolvere se non è disponibile alcun valore da compilare. Questo consente di garantire che le e-mail vengano inviate con tutta la personalizzazione compilata.
+* **Campi dinamici predefiniti per le azioni di approfondimento vendite**: i campi dinamici predefiniti ti consentono di configurare un valore di fallback che un campo dinamico può risolvere se non è disponibile alcun valore da compilare. Questo consente di garantire che le e-mail vengano inviate con tutta la personalizzazione compilata.
 
 <table> 
   <tr> 
