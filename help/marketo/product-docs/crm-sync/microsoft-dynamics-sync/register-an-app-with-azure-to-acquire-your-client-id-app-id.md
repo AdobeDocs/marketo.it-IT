@@ -4,9 +4,9 @@ description: Registrare un'app con Azure per acquisire l'ID client/ID app - Docu
 title: Registra un’app con Azure per acquisire l’ID client/ID app
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Azure Active Directory estende le directory locali nel cloud, fornendo supporto 
 
 ## Registrazione di una nuova app {#registering-a-new-app}
 
-1. [Accedi](https://login.microsoftonline.com/){target="_blank"} al portale di gestione di Microsoft Azure utilizzando un account con autorizzazioni di amministratore. È inoltre possibile accedere al portale di Microsoft Azure tramite l&#39;Admin Center di Office 365 espandendo **Amministratore** elemento nel riquadro di spostamento a sinistra e selezione **Azure AD**.
+1. [Accedi](https://login.microsoftonline.com/){target="_blank"} al portale di gestione di Microsoft Azure utilizzando un account con autorizzazioni di amministratore. È inoltre possibile accedere al portale di Microsoft Azure tramite l&#39;Admin Center di Office 365 espandendo **[!UICONTROL Amministratore]** elemento nel riquadro di spostamento a sinistra e selezione **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >
@@ -30,45 +30,45 @@ Azure Active Directory estende le directory locali nel cloud, fornendo supporto 
    >
    >Se disponi di un account di Azure ma la sottoscrizione a Office 365 con Microsoft Dynamics 365 non è disponibile nella sottoscrizione di Azure, segui [queste istruzioni](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} per associare i due account.
 
-1. Trova e fai clic su **Azure Active Directory** nel riquadro di spostamento a sinistra.
+1. Trova e fai clic su **[!UICONTROL Azure Active Directory]** nel riquadro di spostamento a sinistra.
 
    ![](assets/two.png)
 
-1. In Gestisci, fai clic su **Registrazioni app**.
+1. In Gestisci, fai clic su **[!UICONTROL Registrazioni app]**.
 
    ![](assets/three.png)
 
-1. Clic **Nuova registrazione** nella parte superiore della pagina.
+1. Clic **[!UICONTROL Nuova registrazione]** nella parte superiore della pagina.
 
    ![](assets/four.png)
 
-1. Immetti un nome per l&#39;app, scegli il tipo di account applicabile e immetti un URL di reindirizzamento. Quindi fai clic su **Registrati** nella parte inferiore della pagina.
+1. Immetti un nome per l&#39;app, scegli il tipo di account applicabile e immetti un URL di reindirizzamento. Quindi fai clic su **[!UICONTROL Registrati]** nella parte inferiore della pagina.
 
    ![](assets/five.png)
 
-1. Ora dovresti visualizzare l’app in **Registrazioni app** scheda.
+1. Ora dovresti visualizzare l’app in **[!UICONTROL Registrazioni app]** scheda.
 
    ![](assets/six.png)
 
 ## Configurazione delle autorizzazioni dell’app {#configuring-app-permissions}
 
-1. Sotto **Registrazioni app** in Active Directory, fare clic sull&#39;app per la quale si desidera configurare le autorizzazioni.
+1. Sotto **[!UICONTROL Registrazioni app]** in Active Directory, fare clic sull&#39;app per la quale si desidera configurare le autorizzazioni.
 
    ![](assets/seven.png)
 
-1. In Gestisci, fai clic su **Autorizzazioni API**.
+1. In Gestisci, fai clic su **[!UICONTROL Autorizzazioni API]**.
 
    ![](assets/eight.png)
 
-1. Fai clic su **Aggiungere un’autorizzazione** pulsante.
+1. Fai clic su **[!UICONTROL Aggiungere un’autorizzazione]** pulsante.
 
    ![](assets/nine.png)
 
-1. Scegli **Dynamics CRM**.
+1. Scegli **[!UICONTROL Dynamics CRM]**.
 
    ![](assets/ten.png)
 
-1. Controlla la **Accedere a Common Data Service come utente****i dell’organizzazione** , quindi fare clic su **Aggiungere le autorizzazioni.**
+1. Controlla la **[!UICONTROL Accedere a Common Data Service come utenti dell’organizzazione]** , quindi fare clic su **[!UICONTROL Aggiungere autorizzazioni]**.
 
    ![](assets/eleven.png)
 
@@ -76,11 +76,11 @@ Azure Active Directory estende le directory locali nel cloud, fornendo supporto 
 
    ![](assets/twelve.png)
 
-1. Fai clic su **Concedere il consenso dell’amministratore** pulsante.
+1. Fai clic su **[!UICONTROL Concedere il consenso dell’amministratore]** pulsante.
 
    ![](assets/thirteen.png)
 
-1. Clic **Sì** per confermare.
+1. Clic **[!UICONTROL Sì]** per confermare.
 
    ![](assets/fourteen.png)
 

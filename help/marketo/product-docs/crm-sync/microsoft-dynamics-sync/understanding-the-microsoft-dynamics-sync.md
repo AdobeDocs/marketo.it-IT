@@ -4,16 +4,16 @@ description: Informazioni su Microsoft Dynamics Sync - Documentazione di Marketo
 title: Informazioni su Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Informazioni su Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
-Marketo e Microsoft Dynamics funzionano insieme. Manteniamo sincronizzati i dati di vendita e marketing.
+Marketi Engage e Microsoft Dynamics si uniscono. Manteniamo sincronizzati i dati di vendita e marketing.
 
 >[!NOTE]
 >

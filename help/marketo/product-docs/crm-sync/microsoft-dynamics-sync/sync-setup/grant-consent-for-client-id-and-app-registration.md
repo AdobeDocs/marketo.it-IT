@@ -3,14 +3,16 @@ description: Concedere il consenso per la registrazione di ID client e app - Doc
 title: Concedere il consenso per la registrazione di ID client e app
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Concedere il consenso per la registrazione di ID client e app {#grant-consent-for-client-id-and-app-registration}
+
+Segui i passaggi seguenti per scoprire come concedere il consenso/le autorizzazioni necessari.
 
 ## Concedere le autorizzazioni agli utenti delegati per l&#39;utente di sincronizzazione {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 0%
    >
    >Se hai già effettuato l’accesso ad Azure come Amministratore in un’altra scheda, dovrai utilizzare un browser diverso o la modalità in incognito per accedere come utente di sincronizzazione.
 
-1. Clic **Accetta**.
+1. Clic **[!UICONTROL Accetta]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ In qualità di amministratore, puoi anche acconsentire alle autorizzazioni deleg
 
 1. Nel portale di Azure, passa alla home page dell’applicazione.
 
-1. In Gestisci, fai clic su **Autorizzazioni API**.
+1. In Gestisci, fai clic su **[!UICONTROL Autorizzazioni API]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Fai clic su **Concedere il consenso dell’amministratore** (per tenant).
+1. Fai clic su **[!UICONTROL Concedere il consenso dell’amministratore]** (per tenant).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Clic **Sì** per confermare.
+1. Clic **[!UICONTROL Sì]** per confermare.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

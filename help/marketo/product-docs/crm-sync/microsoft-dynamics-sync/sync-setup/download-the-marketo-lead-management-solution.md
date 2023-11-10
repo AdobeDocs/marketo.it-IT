@@ -4,9 +4,9 @@ description: Scaricare la soluzione di gestione dei lead Marketo - Documentazion
 title: Scarica la soluzione di gestione dei lead Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-Per avviare la sincronizzazione, è necessario scaricare e installare una soluzione Marketo nell&#39;account Microsoft Dynamics.
+Per avviare la sincronizzazione, è necessario scaricare e installare una soluzione di Marketo Engage nell&#39;account Microsoft Dynamics.
 
 >[!CAUTION]
 >
@@ -27,19 +27,19 @@ Per avviare la sincronizzazione, è necessario scaricare e installare una soluzi
 >
 >Al momento, Marketo supporta solo i certificati SSL compatibili con Java 7.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. Fai clic su **CRM**.
+1. Fai clic su **[!UICONTROL CRM]**.
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Seleziona **Microsoft**.
+1. Seleziona **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Seleziona **Scarica la soluzione Marketo**.
+1. Seleziona **[!UICONTROL Scarica la soluzione Marketo]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
