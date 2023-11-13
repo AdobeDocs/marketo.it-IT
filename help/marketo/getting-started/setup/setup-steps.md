@@ -4,9 +4,9 @@ description: Passaggi di configurazione - Documentazione di Marketo - Documentaz
 title: Passaggi di configurazione
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ Alcuni passaggi richiedono l’aiuto del team IT.
 
 ## Accedi e crea altri utenti Marketo {#log-in-and-create-additional-marketo-users}
 
+>[!IMPORTANT]
+>
+>Se la sottoscrizione a Marketo è stata creata il/dopo il 31 luglio 2023 o è già stata migrata a [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} invece.
+
 Accedi a Marketo [qui](https://app.marketo.com/){target="_blank"} utilizzando le credenziali ricevute tramite e-mail.
 
 ![](assets/setup-steps-1.png)
@@ -62,7 +66,7 @@ Clic **[!UICONTROL Invita nuovo utente]**.
 
 ![](assets/setup-steps-4.png)
 
-Compila l’indirizzo e-mail, il nome e il cognome del tuo collega. _L&#39;impostazione di una data di scadenza di accesso è facoltativa_. Clic **[!UICONTROL Successivo]**.
+Compila l’indirizzo e-mail, il nome e il cognome del tuo collega. _L&#39;impostazione di una data di scadenza di accesso è facoltativa_. Fai clic su **[!UICONTROL Avanti]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -313,7 +317,7 @@ Scorri verso il basso fino a [!UICONTROL Domini di branding]. Seleziona il domin
 
 Nel campo Dominio, immetti il dominio di tracciamento e-mail. Il modulo dovrebbe essere:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Clic **[!UICONTROL Salva]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Fai clic su **[!UICONTROL Salva]**.
 
 ![](assets/setup-steps-21.png)
 
