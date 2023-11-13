@@ -3,22 +3,16 @@ description: Panoramica di Adobe Identity Management - Documentazione di Marketo
 title: Panoramica di Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Panoramica di Adobe Identity Management {#adobe-identity-management-overview}
 
-Se a partire dal 15 febbraio 2022 disponi di un nuovo account con Adobe Marketo Engage (nuovo account, non solo una nuova istanza per un account esistente), questo potrebbe essere integrato con Identity Management System di Adobe, a seconda del pacchetto di prodotti acquistato. Per sapere se ne sei in possesso, contatta l’Adobe Account Team (il tuo Account Manager).
-
-Gli abbonamenti Marketo esistenti inizieranno a essere migrati al sistema Identity Management Adobe nella seconda metà del 2023.
-
-Se si dispone di [nuovo account](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (non solo una nuova istanza per un account esistente) con Adobe Marketo Engage a partire dal 15 febbraio 2022, potrebbe essere integrato con Adobe Identity Management System (IMS), a seconda del pacchetto di prodotto acquistato. Per sapere se ne sei in possesso, contatta l’Adobe Account Team (il tuo Account Manager).
-
-La migrazione delle sottoscrizioni Marketo esistenti al sistema Identity Management di Adobe inizierà alla fine del 2023. Inizialmente, queste migrazioni possono verificarsi solo dopo aver riassegnato l’abbonamento a Marketo. Adobe pianifica di avviare la migrazione degli utenti di Marketo al di fuori degli eventi di riassegnazione intorno alla metà del 2024.
+Tutte le nuove sottoscrizioni a Adobe Marketo Engage (31 luglio 2023 o versioni successive) sono integrate con il sistema Identity Management di Adobe. È in corso la migrazione degli abbonamenti Marketo esistenti al sistema Identity Management Adobe al momento del rinnovo e/o del riappalto degli eventi. Al momento non sono supportate le migrazioni al di fuori di un evento di rinnovo o di riassegnazione.
 
 >[!NOTE]
 >
