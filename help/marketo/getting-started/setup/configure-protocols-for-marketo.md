@@ -4,7 +4,7 @@ description: Configurare i protocolli per Marketo - Documentazione Marketo - Doc
 title: Configurazione dei protocolli per Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
 source-wordcount: '968'
 ht-degree: 3%
@@ -217,4 +217,3 @@ Le tabelle seguenti descrivono tutti i server di Marketo Engage che effettuano c
 
 </tbody>
 </table>
-
