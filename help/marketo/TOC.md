@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '9099'
 ht-degree: 1%
@@ -565,7 +565,7 @@ ht-degree: 1%
             + [Stato sincronizzazione](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Panoramica sulla sincronizzazione di Campaign](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Abilita sincronizzazione campagne](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + Dettagli filtro di sincronizzazione Dynamics personalizzato {#custom-dynmaics-sync-filter-details}
+         + Dettagli filtro di sincronizzazione Dynamics personalizzato {#custom-dynamics-sync-filter-details}
             + [Creare un filtro di sincronizzazione Dynamics personalizzato](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Filtro sincronizzazione Microsoft Dynamics: Unisci](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
