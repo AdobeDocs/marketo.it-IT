@@ -4,9 +4,9 @@ description: Aggiungere/rimuovere valori dall’elenco di selezione - Documentaz
 title: Aggiungi/Rimuovi valori elenco a discesa
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Di seguito sono riportati alcuni aspetti da considerare sull’aggiunta e la rim
 
 ## Aggiunta di valori di elenco a discesa {#adding-picklist-values}
 
-1. Se in Salesforce viene aggiunto un valore aggiuntivo a un tipo di campo dell’elenco a discesa, riceverai un’ [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificando i moduli su cui questo influirà.
+1. Se in Salesforce viene aggiunto un valore aggiuntivo a un tipo di campo dell’elenco a discesa, riceverai un’ [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identificando i moduli su cui questo influirà.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Passa all’editor dei moduli e [aggiungi il valore aggiuntivo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) all’elenco dei suggerimenti.
+1. Passa all’editor dei moduli e [aggiungi il valore aggiuntivo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} all’elenco dei suggerimenti.
 
 ## Rimuovi valori elenco a discesa {#remove-picklist-values}
 
@@ -29,7 +29,7 @@ Quando un valore dell’elenco a discesa viene rimosso da un campo in Salesforce
 
 >[!NOTE]
 >
->Se un campo lead e un campo contatto in Salesforce hanno valori diversi, i valori in comune saranno disponibili per l’utilizzo in Marketo.
+>Se un campo lead e un campo contatto in Salesforce hanno valori diversi, i valori in comune saranno disponibili per l’uso in Marketo Engage.
 
 Se un campo lead e un campo contatto in Salesforce hanno valori diversi:
 

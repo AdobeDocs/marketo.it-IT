@@ -4,7 +4,7 @@ description: Azioni Salesforce implicite - Documenti Marketo - Documentazione de
 title: Azioni Salesforce implicite
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando viene eseguito un passaggio di flusso specifico per Salesforce, a volte vengono eseguiti automaticamente passaggi aggiuntivi. Ecco le regole, quindi sai:
 
-Queste regole verranno applicate _quando la persona non è attualmente in [Salesforce.com](https://Salesforce.com)_ come contatto o lead.
+Queste regole verranno applicate quando la persona non si trova attualmente in [Salesforce.com](https://Salesforce.com){target="_blank"} come contatto o lead.
 
 <table> 
  <thead> 
@@ -48,6 +48,6 @@ Queste regole verranno applicate _quando la persona non è attualmente in [Sales
  </tbody> 
 </table>
 
-È possibile filtrare i record SFDC in un elenco avanzato utilizzando **Tipo SFDC** Filtra con l’operatore impostato su &quot;non è vuoto&quot;. Tutti i record SFDC contengono un valore in questo campo.
+È possibile filtrare i record SFDC in un elenco avanzato utilizzando **[!UICONTROL Tipo SFDC]** Filtra con l’operatore impostato su &quot;non è vuoto&quot;. Tutti i record SFDC contengono un valore in questo campo.
 
-Ricorda che queste azioni automatiche si verificano solo se il lead non è attualmente in [Salesforce.com](https://salesforce.com)
+Ricorda che queste azioni automatiche si verificano solo se il lead non è attualmente in [Salesforce.com](https://salesforce.com){target="_blank"}

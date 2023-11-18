@@ -3,10 +3,10 @@ description: Stato di sincronizzazione Salesforce - Documenti Marketo - Document
 title: Stato di sincronizzazione Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 3%
+source-wordcount: '554'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 Utilizza il dashboard Stato di sincronizzazione per visualizzare le statistiche di sincronizzazione come parte dei passaggi di sincronizzazione e il relativo stato di completamento.
 
-I passaggi di sincronizzazione riflettono le operazioni di push o pull di ciascun tipo di oggetto per lo schema dell’oggetto e i dati stessi. Le statistiche riguardano nuovi record, aggiornamenti, eliminazioni e conteggi di errori durante la sincronizzazione. Gli utenti possono filtrare per data, tipo di operazione o tipo di oggetto. Il dashboard Stato di sincronizzazione mostra lo stato dei cicli di sincronizzazione per gli ultimi cinque giorni.
+I passaggi di sincronizzazione riflettono le operazioni di push o pull di ciascun tipo di oggetto per lo schema dell’oggetto e i dati stessi. Le statistiche riguardano nuovi record, aggiornamenti, eliminazioni e conteggi di errori durante la sincronizzazione. Gli utenti possono filtrare per data, tipo di operazione o tipo di oggetto. Il dashboard Stato di sincronizzazione mostra lo stato dei cicli di sincronizzazione per gli ultimi cinque giorni.
 
 >[!NOTE]
 >
@@ -22,15 +22,15 @@ I passaggi di sincronizzazione riflettono le operazioni di push o pull di ciascu
 
 ## Visualizza stato di sincronizzazione {#view-sync-status}
 
-1. Clic **Amministratore**.
+1. Clic **[!UICONTROL Amministratore]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. In Integrazione, fai clic su Salesforce, quindi sulla scheda Stato di sincronizzazione.
+1. Sotto [!UICONTROL Integrazione], fai clic su **Salesforce**, quindi **[!UICONTROL Stato sincronizzazione]** scheda.
 
    ![](assets/salesforce-sync-status-2.png)
 
-Per impostazione predefinita, le statistiche vengono ordinate in base all’ultimo avvio. È possibile ordinare in base a Iniziato o Terminato alle, dal più recente al meno recente, facendo clic sull&#39;icona di ordinamento.
+Per impostazione predefinita, le statistiche vengono ordinate in base all’ultimo avvio. È possibile ordinare in base alle voci Iniziato o Terminato alle (dal più recente al meno recente) facendo clic sull&#39;icona di ordinamento.
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -40,15 +40,15 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’ulti
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Selezionare l&#39;intervallo di date e ore, quindi fare clic sull&#39;elenco a discesa per filtrare in base al tipo di oggetto, al tipo di operazione e/o al tipo di stato.
+1. Seleziona l’intervallo di date e ora, quindi fai clic sull’elenco a discesa in base al quale filtrare [!UICONTROL Tipo di oggetto], [!UICONTROL Tipo di operazione], e/o [!UICONTROL Tipo di stato].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Clic **Applica**.
+1. Clic **[!UICONTROL Applica]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fai clic su **Esporta**. I dati verranno esportati come file CSV.
+**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fai clic su **[!UICONTROL Esporta]**. I dati verranno esportati come file CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -138,7 +138,7 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’ulti
    <td colspan="1">Oggetti personalizzati</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Campagna</td> 
+   <td colspan="1">Campaign</td> 
   </tr>  
   <tr> 
    <td colspan="1">Stato membro della campagna</td> 
@@ -188,9 +188,9 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’ulti
   </tr> 
   <tr> 
    <td colspan="1">Collegamento iniziale con il programma</td> 
-   <td colspan="1">Campagna</td> 
+   <td colspan="1">Campaign</td> 
    <td colspan="1">Collegamento di campagne a programmi</td> 
-   <td colspan="1">Aggiorna</td>
+   <td colspan="1">Aggiornamento</td>
   </tr>  
   <tr> 
    <td colspan="1">Conversioni pull</td> 

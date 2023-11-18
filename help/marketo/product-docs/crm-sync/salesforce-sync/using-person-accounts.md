@@ -4,16 +4,16 @@ description: Utilizzo degli account persona - Documentazione di Marketo - Docume
 title: Utilizzo degli account persona
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # Utilizzo degli account persona {#using-person-accounts}
 
-Gli account della persona possono essere impostati in Salesforce in base alle esigenze della tua organizzazione. Ecco come Marketo tratta gli account personali.
+Gli account della persona possono essere impostati in Salesforce in base alle esigenze della tua organizzazione. Ecco come il Marketo Engage tratta gli account personali.
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ Un account persona viene sincronizzato in Marketo come azienda e come persona.
 
 ## Come posso distinguere gli account aziendali da quelli personali? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilizza il **È account persona** filtrare nell&#39;elenco avanzato per separare gli account persona dagli account aziendali standard.
+Utilizza il filtro &quot;Account persona&quot; nell’elenco avanzato per separare gli account persona dagli account aziendali standard.
 
 ## Dove vengono visualizzate le informazioni sugli account personali in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Le attività relative agli account persona vengono visualizzate nel **Account** pannello.
+Le attività relative agli account persona vengono visualizzate nel **[!UICONTROL Account]** pannello.
 
 >[!NOTE]
 >
->Marketo Sales Insight **Aggiungi a Marketo Campaign** e **Invia e-mail** Le opzioni non sono attualmente disponibili per gli account persona.
+>Marketo Sales Insight **[!UICONTROL Aggiungi a Marketo Campaign]** e **[!UICONTROL Invia e-mail]** Le opzioni non sono attualmente disponibili per gli account persona.
 
 ## Come si associano le opportunità a un account personale? {#how-do-i-associate-opportunities-to-a-person-account}
 

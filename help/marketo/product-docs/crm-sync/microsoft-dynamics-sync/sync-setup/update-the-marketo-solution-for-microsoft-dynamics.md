@@ -4,9 +4,9 @@ description: Aggiornamento della soluzione Marketo per Microsoft Dynamics - Docu
 title: Aggiornare la soluzione Marketo per Microsoft Dynamics
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 >
 >È fondamentale scaricare la soluzione Marketo più recente _prima di_ esecuzione di eventuali aggiornamenti.
 
-1. Vai a **Amministratore** area.
+1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/admin.png)
 
-1. Clic **Microsoft Dynamics**.
+1. Clic **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Seleziona **Scarica la soluzione Marketo**.
+1. Seleziona **[!UICONTROL Scarica la soluzione Marketo]**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -45,10 +45,10 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio, se la versione di Dynamics CRM è 1.4 e quella più recente è 1.5, puoi importare _oltre_ versione 1.4).
 
-1. Viene visualizzata la seguente finestra a comparsa. Seleziona **Aggiorna** e **Gestisci personalizzazioni**, quindi fai clic su **Importa**.
+1. Viene visualizzata la seguente finestra a comparsa. Seleziona **[!UICONTROL Aggiorna]** e **[!UICONTROL Gestisci personalizzazioni]**, quindi fai clic su **[!UICONTROL Importa]**.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->Se si seleziona Aggiorna invece di Aggiorna, i dati potrebbero danneggiarsi nell’ambiente Dynamics. **Assicurati di scegliere Aggiorna** in Opzioni di importazione.
+>Se si seleziona Aggiorna invece di Aggiorna, i dati potrebbero danneggiarsi nell’ambiente Dynamics. _Assicurati di scegliere Aggiorna_ in Opzioni di importazione.
