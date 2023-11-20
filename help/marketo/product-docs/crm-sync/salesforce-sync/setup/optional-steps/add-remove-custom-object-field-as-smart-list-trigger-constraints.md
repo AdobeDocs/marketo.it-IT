@@ -4,7 +4,7 @@ description: Aggiungere/rimuovere un campo oggetto personalizzato come vincoli d
 title: Aggiungi/Rimuovi campo oggetto personalizzato come vincoli di elenco avanzato/trigger
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Aggiungi/Rimuovi campo oggetto personalizzato come vincoli di elenco avanzato/trigger {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo offre un controllo granulare sulla sincronizzazione personalizzata degli oggetti di Salesforce. Questo ti consente di selezionare i campi disponibili come vincoli nei filtri di oggetti personalizzati e di utilizzarli come attivatori nelle campagne intelligenti.
+Marketi Engage offre un controllo granulare sulla sincronizzazione personalizzata degli oggetti Salesforce. Questo consente di selezionare i campi disponibili come vincoli nei filtri oggetto personalizzati e di utilizzarli come attivatori nelle campagne avanzate.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Clic **Amministratore**
+1. Clic **[!UICONTROL Amministratore]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Clic **Amministratore** e poi **Sincronizzazione oggetti Salesforce.**
+1. Clic **[!UICONTROL Amministratore]** e poi **[!UICONTROL Sincronizzazione oggetti Salesforce]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **Sincronizzazione oggetti Salesforce** viene visualizzato nella colonna sinistra.
+1. **[!UICONTROL Sincronizzazione oggetti Salesforce]** viene visualizzato nella colonna sinistra.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,19 +35,19 @@ Marketo offre un controllo granulare sulla sincronizzazione personalizzata degli
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Clic **Modifica campi visibili**.
+1. Clic **[!UICONTROL Modifica campi visibili]**.
 
    >[!TIP]
    >
-   >Se il **Modifica campi visibili** è disattivato, l’oggetto è attualmente in uso in un elenco avanzato o in una campagna avanzata. Rimuovere tutte le associazioni per continuare.
+   >Se il **[!UICONTROL Modifica campi visibili]** è disattivato, l’oggetto è attualmente in uso in un elenco avanzato o in una campagna avanzata. Rimuovere tutte le associazioni per continuare.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Se la sincronizzazione globale è attivata, fare clic su **Disattiva sincronizzazione globale**.
+1. Se la sincronizzazione globale è attivata, fare clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Seleziona le caselle accanto ai vincoli di filtro/trigger necessari e fai clic su **Salva**.
+1. Seleziona le caselle accanto ai vincoli di filtro/trigger necessari e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo offre un controllo granulare sulla sincronizzazione personalizzata degli
    >
    >Per impostazione predefinita, tutti i campi sono selezionati come vincoli sui filtri.
 
-1. Fai clic sul pulsante **Campi** per confermare le modifiche.
+1. Fai clic sul pulsante **[!UICONTROL Campi]** per confermare le modifiche.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
@@ -63,8 +63,8 @@ Marketo offre un controllo granulare sulla sincronizzazione personalizzata degli
    >
    >Non dimenticare di riattivare la sincronizzazione globale.
 
-Wow! Ora i tuoi elenchi avanzati e le campagne intelligenti hanno ancora più potere.
+Ora i tuoi elenchi avanzati e le campagne avanzate hanno ancora più potenza.
 
 >[!MORELIKETHIS]
 >
->[Abilita/Disabilita sincronizzazione oggetti personalizzati](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
+>[Abilita/Disabilita sincronizzazione oggetti personalizzati](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}

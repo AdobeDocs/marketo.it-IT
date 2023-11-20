@@ -4,7 +4,7 @@ description: Impostare il cognome e il nome società della persona predefinita -
 title: Imposta cognome persona e nome società predefiniti
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -15,20 +15,20 @@ ht-degree: 0%
 
 Salesforce richiede (almeno) il cognome e il nome della società per i lead e i contatti. I record incompleti non verranno sincronizzati con Salesforce. Se si desidera sincronizzare record parziali, è necessario impostare i valori predefiniti per Marketo da utilizzare con Salesforce.
 
-1. Vai a **Amministratore** e fai clic su **Salesforce**.
+1. Vai a **[!UICONTROL Amministratore]** e fai clic su **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Clic **Modifica opzioni di sincronizzazione**.
+1. Clic **[!UICONTROL Modifica opzioni di sincronizzazione]**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Immetti un **Cognome persona predefinito** e un **Società persona predefinita** quindi fai clic su **Salva**.
+1. Immetti un **[!UICONTROL Cognome persona predefinito]** e un **[!UICONTROL Società persona predefinita]**, quindi fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/sync-options-hands.png)
 
    >[!NOTE]
    >
-   >Marketo assegna un valore predefinito solo quando il record viene sincronizzato inizialmente con Salesforce e solo se uno dei campi obbligatori è vuoto.
+   >Il Marketo Engage assegna un valore predefinito solo quando il record viene sincronizzato inizialmente con Salesforce e solo se uno dei campi obbligatori è vuoto.
 
 E questo è quanto! Ogni volta che a una persona mancano un cognome e/o il nome della società, Marketo aggiungerà il valore predefinito mentre sincronizza il record.
