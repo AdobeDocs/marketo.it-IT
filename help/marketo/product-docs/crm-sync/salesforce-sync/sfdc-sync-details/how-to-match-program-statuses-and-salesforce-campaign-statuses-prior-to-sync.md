@@ -4,7 +4,7 @@ description: Come abbinare gli stati del programma e degli stati delle campagne 
 title: Come abbinare gli stati del programma e degli stati delle campagne Salesforce prima della sincronizzazione
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Da questo messaggio di errore, puoi scegliere di:
 1. È possibile annullare l&#39;operazione, correggere gli errori di stato e provare a eseguire la sincronizzazione una volta corretti gli errori. Per correggere gli errori di stato, effettuare una delle seguenti operazioni:
 
    * Accedi a Salesforce, quindi rimuovi o rinomina gli Stati membri della campagna incompatibili da mappare sugli stati del programma Marketo utilizzati per il tipo di canale associato al programma Marketo.
-   * Modifica gli stati del programma in Marketo per eseguire il mapping agli stati membri della campagna Salesforce impostati. Questa è una funzione di amministrazione di Marketo. Per ulteriori informazioni, consulta [Creare un canale del programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * Modifica gli stati del programma in Marketo per eseguire il mapping agli stati membri della campagna Salesforce impostati. Questa è una funzione di amministrazione di Marketo. Per ulteriori informazioni, consulta [Creare un canale del programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.

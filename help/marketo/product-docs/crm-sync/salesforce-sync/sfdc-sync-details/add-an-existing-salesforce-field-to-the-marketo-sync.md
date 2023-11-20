@@ -4,7 +4,7 @@ description: Aggiungere un campo Salesforce esistente a Marketo Sync - Marketo D
 title: Aggiungi un campo Salesforce esistente a Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-In genere, i nuovi campi personalizzati in Salesforce vengono sincronizzati automaticamente con Marketo. In caso contrario, i campi potrebbero non essere visibili all&#39;utente di Marketo Sync. Ecco come si può risolvere il problema.
+In genere, i nuovi campi personalizzati in Salesforce vengono sincronizzati automaticamente con il Marketo Engage. In caso contrario, i campi potrebbero non essere visibili all&#39;utente di Marketo Sync. Ecco come si può risolvere il problema.
 
-1. Fai clic sul tuo nome e seleziona **Configurazione**.
+1. Fai clic sul tuo nome e seleziona **[!UICONTROL Configurazione]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Invio **profilo** nella barra di ricerca a sinistra e fai clic su **Profili** in **Gestisci utenti**.
+1. Immetti &quot;profile&quot; nella barra di ricerca a sinistra e fai clic su **[!UICONTROL Profili]** in **[!UICONTROL Gestisci utenti]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -31,19 +31,19 @@ In genere, i nuovi campi personalizzati in Salesforce vengono sincronizzati auto
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Sotto **Sicurezza a livello di campo** , fare clic su **Visualizza** accanto all&#39;oggetto che contiene il campo.
+1. Sotto **[!UICONTROL Sicurezza a livello di campo]** , fare clic su **[!UICONTROL Visualizza]** accanto all&#39;oggetto che contiene il campo.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. Clic **Modifica**.
+1. Clic **[!UICONTROL Modifica]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. Controlla la **Visibile** casella di controllo per il campo da aggiungere alla sincronizzazione e fare clic su **Salva**.
+1. Controlla la **[!UICONTROL Visibile]** casella di controllo per il campo da aggiungere alla sincronizzazione e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
-   Dolce! Al prossimo ciclo di sincronizzazione, Marketo visualizzerà il campo e avvierà la magia.
+   Al prossimo ciclo di sincronizzazione, Marketo visualizzerà il campo e avvierà la magia.
 
    >[!NOTE]
    >

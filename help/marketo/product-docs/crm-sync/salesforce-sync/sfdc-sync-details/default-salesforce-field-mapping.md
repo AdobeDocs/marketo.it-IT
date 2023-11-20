@@ -4,16 +4,16 @@ description: Mappatura dei campi Salesforce predefinita - Documenti Marketo - Do
 title: Mappatura campo Salesforce predefinita
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '363'
 ht-degree: 43%
 
 ---
 
 # Mappatura campo Salesforce predefinita {#default-salesforce-field-mapping}
 
-Quando sincronizzi inizialmente l’account Marketo con Salesforce, Marketo crea automaticamente queste associazioni tra i campi Salesforce e Marketo incorporati. Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
+Quando sincronizzi inizialmente l’account di Marketo Engage con Salesforce, Marketo crea automaticamente queste associazioni tra i campi Salesforce e Marketo incorporati. Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
 
 ## Campi lead {#lead-fields}
 
@@ -21,7 +21,7 @@ Quando sincronizzi inizialmente l’account Marketo con Salesforce, Marketo crea
 |---|---|
 | Entrata annuale | Entrata annuale |
 | Città | Città |
-| Azienda | Nome azienda |
+| Azienda | Nome della società |
 | Data di conversione | Data di conversione SFDC |
 | Paese | Paese |
 | Data di creazione | Data di creazione SFDC |
@@ -86,7 +86,7 @@ Quando sincronizzi inizialmente l’account Marketo con Salesforce, Marketo crea
 | Descrizione account | Note società |
 | Settore | Settore |
 | Eliminato | SFDC è stato eliminato |
-| Nome account | Nome azienda |
+| Nome account | Nome della società |
 | Dipendenti | Numero dipendenti |
 | Telefono account | Numero di telefono |
 | Codice SIC (Standard Industrial Classification) | Codice SIC (Standard Industrial Classification) |
