@@ -4,7 +4,7 @@ description: Aggiungere un passaggio di flusso per SMS - Documentazione di Marke
 title: Aggiungere un passaggio di flusso per SMS
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Di seguito sono riportate le nozioni di base sull’utilizzo degli SMS.
 
 1. In Il mio Marketo, fai clic su **Attività di marketing**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
 1. Trova la campagna intelligente a cui desideri aggiungere il flusso SMS. Fai clic su **Flusso** scheda.
 
