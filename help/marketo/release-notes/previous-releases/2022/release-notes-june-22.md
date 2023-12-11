@@ -3,9 +3,9 @@ description: Note sulla versione - Giugno 2022 - Documenti Marketo - Documentazi
 title: Note sulla versione - Giugno 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Le seguenti funzioni inizieranno ad essere rilasciate il **24 giugno 2022**, con
 
 * **Esposizione dei campi CreatedAt/UpdatedAt per gli oggetti personalizzati**: consente di esaminare questi campi nella schermata Dettagli persona per ottenere ulteriori informazioni.
 
-## Orchestrazione cross-channel {#cross-channel-orchestration}
+## Orchestrazione cross-channel {#cross-channel-orchestration}
 
 * **Miglioramento della facilità d&#39;uso di Stream Designer per il Dynamic Chat**: aggiungi le schede direttamente dall’area di lavoro di Progettazione flussi senza dover essere trascinate. È stata migliorata anche l’interfaccia di Dynamic Chat per offrire una migliore visibilità dei contenuti nelle singole schede.
 
@@ -32,7 +32,7 @@ Le seguenti funzioni inizieranno ad essere rilasciate il **24 giugno 2022**, con
 
 * **Generazione di rapporti per finestre di dialogo avanzate per Dynamic Chat**: visualizza le prestazioni delle campagne di Dynamic Chat in modo più dettagliato utilizzando visualizzazioni di dati completamente nuove per le metriche di coinvolgimento e conversione.
 
-* **Annulla sincronizzazione attributi di Marketo Engage non utilizzati per il Dynamic Chat**: dissincronizza gli attributi di Marketo Engage non utilizzati dalla sottoscrizione del Dynamic Chat, per facilitare la pulizia dei dati e consentire la sincronizzazione di attributi alternativi in base alle esigenze.
+* **Annulla sincronizzazione attributi di Marketo Engage non utilizzati per il Dynamic Chat**: annulla la sincronizzazione degli attributi di Marketo Engage non utilizzati dalla sottoscrizione di Dynamic Chat, per facilitare la pulizia dei dati e consentire la sincronizzazione di attributi alternativi in base alle esigenze.
 
 ## Esperienza di nuova generazione
 

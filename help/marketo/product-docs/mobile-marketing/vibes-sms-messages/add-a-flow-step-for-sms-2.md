@@ -4,9 +4,9 @@ title: Aggiungere un passaggio di flusso per SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,23 @@ ht-degree: 0%
 
 Il Marketo Engage dispone di tre passaggi di flusso che puoi utilizzare nelle campagne SMS Smart:
 
-* **Invia messaggio SMS** - Questa azione di flusso invia messaggi agli utenti iscritti a un elenco di iscrizioni Vibes con consenso esplicito di Marketo Smart List. Non avvia il processo di abbonamento.
-* **Iscriviti all’elenco delle vibrazioni** : questa azione di flusso avvia il processo di abbonamento SMS tramite una campagna di acquisizione Vibes selezionata dall’utente. Vibes invia quindi un messaggio di conferma; il destinatario deve rispondere &quot;Y&quot; per confermare l’opt-in entro 24 ore. Una volta che l’utente ha acconsentito, diventerà membro dell’elenco di iscrizioni Vibes associato.
-* **Annulla iscrizione all’elenco delle vibrazioni** : questa azione di flusso annulla l’abbonamento di ogni persona da un elenco di abbonamenti Vibes con consenso esplicito dell’utente. Quando un utente scrive &quot;stop&quot; al codice, il record della persona viene aggiornato per indicare che non è più membro dell’elenco di abbonamento a Vibes.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">Invia messaggio SMS</td>
+    <td>Questa azione di flusso invia messaggi agli utenti di Marketo Smart List che sono abbonati a un elenco di abbonamenti Vibes con consenso dell’utente. Non avvia il processo di abbonamento. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Ulteriori informazioni</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">Iscriviti all’elenco delle vibrazioni</td>
+    <td>Questa azione di flusso avvia il processo di abbonamento SMS tramite una campagna di acquisizione Vibes selezionata dall’utente. Vibes invia quindi un messaggio di conferma e il destinatario deve rispondere con "Y" entro 24 ore per confermare l’opt-in. Una volta che l’utente ha acconsentito, diventerà membro dell’elenco di iscrizioni Vibes associato.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Annulla iscrizione all’elenco delle vibrazioni</td>
+    <td>Questa azione di flusso annulla l’abbonamento di ogni persona da un elenco di abbonamenti Vibes con consenso esplicito dell’utente. Quando un utente scrive "STOP" al codice, il record della persona viene aggiornato per indicare che non è più membro dell’elenco di abbonamento a Vibes.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >

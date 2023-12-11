@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '9099'
-ht-degree: 1%
+source-wordcount: '9267'
+ht-degree: 0%
 
 ---
 
@@ -974,13 +974,13 @@ ht-degree: 1%
             + [Utilizzare i filtri e i trigger per moduli di generazione lead di LinkedIn in una campagna avanzata](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Utilizza codici promozionali per l’evasione dell’offerta](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Visualizza prestazioni social](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + Lotterie {#sweepstakes}
+         + Paletti {#sweepstakes}
             + [Crea punteggi](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Personalizzare gli stili di Sweepstakes](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [Pubblicare una puntata](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Selezionate i vincitori delle puntate](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-mail marketing {#email-marketing}
-      + Recapito dei messaggi {#deliverability}
+      + Recapito messaggi {#deliverability}
          + [Annulla iscrizione durevole](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack: come importare un elenco di seed](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Mancati recapiti permanenti e non permanenti nelle e-mail](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1679,7 +1679,7 @@ ht-degree: 1%
          + [Modifica contenuto predittivo per le e-mail](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Modifica contenuto predittivo per contenuti rich media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Modifica contenuto predittivo per la barra dei consigli](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Reporting {#reporting}
+   + Generazione rapporti {#reporting}
       + [Panoramica sul reporting](product-docs/reporting/reporting-overview.md)
       + Reporting di base {#basic-reporting}
          + Creazione di rapporti {#creating-reports}
@@ -1852,7 +1852,7 @@ ht-degree: 1%
       + Coinvolgi {#engage}
          + [Filtri account](product-docs/target-account-management/engage/account-filters.md)
          + [Attivatori account](product-docs/target-account-management/engage/account-triggers.md)
-      + Misurare {#measure}
+      + Misura {#measure}
          + [Dashboard principale TAM](product-docs/target-account-management/measure/tam-main-dashboard.md)
          + [Impostazione report TAM](product-docs/target-account-management/measure/tam-report-setup.md)
          + [Report vendite TAM](product-docs/target-account-management/measure/tam-sales-report.md)
@@ -1943,6 +1943,7 @@ ht-degree: 1%
 + Note sulla versione {#release-notes}
    + [Pianificazione rilascio](release-notes/release-schedule.md)
    + [Versione corrente](release-notes/current.md)
+   + [Pagina della versione corrente: Temp.](release-notes/current-temp.md)
    + Versioni precedenti {#previous-releases}
       + 2023 {#2023}
          + [Note sulla versione: gennaio 2023](release-notes/previous-releases/2023/release-notes-jan-23.md)
