@@ -1,9 +1,9 @@
 ---
 description: Note sulla versione - Marzo 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Marzo 2023
-exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -136,7 +136,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Attributi dedotti per Dynamic Chat**: assicura che i dati IP dedotti (città, stato, paese, ecc.) viene scritto nel record persona per le nuove persone acquisite dal Dynamic Chat.
+* **Attributi dedotti per il Dynamic Chat**: assicura che i dati IP dedotti (città, stato, paese, ecc.) viene scritto nel record persona per le nuove persone acquisite dal Dynamic Chat.
 
 <table> 
   <tr> 
@@ -150,7 +150,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Supporto linguistico aggiuntivo per Dynamic Chat**: ora puoi scegliere tra nove lingue supportate per visualizzare il contenuto statico del Dynamic Chat in.
+* **Supporto linguistico aggiuntivo per il Dynamic Chat**: ora puoi scegliere tra nove lingue supportate per visualizzare il contenuto statico del Dynamic Chat in.
 
 <table> 
   <tr> 
