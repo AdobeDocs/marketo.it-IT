@@ -4,9 +4,9 @@ title: Utilizzare i messaggi Vibes SMS in Smart List Triggers and Filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: 6b8c54dbe95c7bc6e2f68a48de11306f3f678cb6
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 NUOVO DOCUMENTO
 
-Dopo di te [creare un messaggio Vibes SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, per ottenere i vantaggi desiderati, è necessario utilizzare i trigger e i filtri dell’elenco avanzato all’interno di una campagna avanzata. Ecco come.
+Dopo di te [creare un messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, per ottenere i vantaggi desiderati, è necessario utilizzare i trigger e i filtri dell’elenco avanzato all’interno di una campagna avanzata. Ecco come.
 
 1. In Il mio Marketo, fai clic su **Attività di marketing**.
 
