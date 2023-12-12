@@ -4,9 +4,9 @@ description: Autorizzare il plug-in di Marketo Outlook - Documentazione di Marke
 title: Autorizzare il plug-in di Marketo Outlook
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Per utilizzare il plug-in MSI di Marketo in Outlook, è necessario autorizzarlo.
 >[!PREREQUISITES]
 >
 >Il plug-in deve essere già installato e l’amministratore di Marketo deve autorizzare l’utente come utente del plug-in.
+
+>[!IMPORTANT]
+>
+>Microsoft ha rilasciato un [nuova versione di Outlook per Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Fare clic su uno dei pulsanti Messaggio di Marketo.
 
