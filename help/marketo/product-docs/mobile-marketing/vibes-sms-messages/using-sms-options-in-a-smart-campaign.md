@@ -4,7 +4,7 @@ title: Utilizzo delle opzioni SMS in una campagna avanzata
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -25,10 +25,10 @@ Dopo di te [creare un messaggio SMS](/help/marketo/product-docs/mobile-marketing
 
 ## Trigger SMS {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ Il **Clic sul collegamento nel messaggio SMS** attiva avvia un flusso quando una
 
 ## Filtri SMS {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ Per contro, la **Membro dell’elenco Vibes** risultati del filtro _chiunque_ at
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">Invia messaggio SMS</td>
+    <td style="width:20%"><b>Invia messaggio SMS</b></td>
     <td>Questa azione di flusso invia messaggi agli utenti di Marketo Smart List che sono abbonati a un elenco di abbonamenti Vibes con consenso dell’utente. Non avvia il processo di abbonamento. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">Ulteriori informazioni</a>.</td>
   </tr>
 
 <tr>
-    <td style="width:25%">Iscriviti all’elenco delle vibrazioni</td>
+    <td style="width:20%"><b>Iscriviti all’elenco delle vibrazioni</b></td>
     <td>Questa azione di flusso avvia il processo di abbonamento SMS tramite una campagna di acquisizione Vibes selezionata dall’utente. Vibes invia quindi un messaggio di conferma e il destinatario deve rispondere con "Y" entro 24 ore per confermare l’opt-in. Una volta che l’utente ha acconsentito, diventerà membro dell’elenco di iscrizioni Vibes associato.</td>
   </tr>
   <tr>
-    <td style="width:25%">Annulla iscrizione all’elenco delle vibrazioni</td>
+    <td style="width:20%"><b>Annulla iscrizione all’elenco delle vibrazioni</b></td>
     <td>Questa azione di flusso annulla l’abbonamento di ogni persona da un elenco di abbonamenti Vibes con consenso esplicito dell’utente. Quando un utente scrive "STOP" al codice, il record della persona viene aggiornato per indicare che non è più membro dell’elenco di abbonamento a Vibes.</td>
   </tr>
   </tbody>
