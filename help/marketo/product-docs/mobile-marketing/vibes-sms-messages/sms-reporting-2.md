@@ -4,16 +4,16 @@ title: Segnalazione SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Segnalazione SMS {#sms-reporting}
 
-Il dashboard dei messaggi SMS fornisce utili analisi della generazione di rapporti sui messaggi.
+Il dashboard dei messaggi SMS fornisce utili analisi dei messaggi.
 
 ## Accedere al dashboard {#access-the-dashboard}
 
