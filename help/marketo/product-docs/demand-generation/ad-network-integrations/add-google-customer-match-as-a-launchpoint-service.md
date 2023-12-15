@@ -4,38 +4,38 @@ description: Aggiunta di Google Customer Match as a LaunchPoint Service - Docume
 title: Aggiungere Google Customer Match come servizio LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 0%
 
 ---
 
 # Aggiungere Google Customer Match come servizio LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
-Con questa integrazione, puoi inviare un pubblico Marketo a Google per il targeting utilizzando Google AdWords, nonché per il re-targeting del pubblico in YouTube, Search e Gmail.
+Con questa integrazione, puoi inviare un pubblico di Marketo Engage a Google per il targeting utilizzando Google AdWords, nonché per il re-targeting dei tipi di pubblico in YouTube, Search e Gmail.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore**.
+1. Vai a **[!UICONTROL Amministratore]**.
 
    ![](assets/admin.png)
 
-1. Clic **LaunchPoint**.
+1. Clic **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleziona **Nuovo** allora **Nuovo servizio**.
+1. Seleziona **[!UICONTROL Nuovo]** allora **[!UICONTROL Nuovo servizio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immetti un **Nome visualizzato** e seleziona **Customer Match di Google** dal **Servizio** a discesa. Fai clic su **Crea**.
+1. Immetti un **[!UICONTROL Nome visualizzato]** e seleziona **[!UICONTROL Customer Match di Google]** dal **[!UICONTROL Servizio]** a discesa. Clic **[!UICONTROL Crea]**.
 
    ![](assets/chooseservice.png)
 
-1. Per collegare un account Google AdWords, fai clic su **Autorizza**.
+1. Per collegare un account Google AdWords, fai clic su **[!UICONTROL Autorizza]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,11 +47,11 @@ Con questa integrazione, puoi inviare un pubblico Marketo a Google per il target
 
    ![](assets/chooseaccount.png)
 
-1. Rivedi le autorizzazioni richieste, quindi fai clic su **Consenti**.
+1. Rivedi le autorizzazioni richieste, quindi fai clic su **[!UICONTROL Consenti]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Il tuo account Google AdWords è ora connesso a Marketo. Fai clic su **Crea**.
+1. Il tuo account Google AdWords è ora connesso a Marketo. Clic **[!UICONTROL Crea]**.
 
    ![](assets/authorizesuccess.png)
 

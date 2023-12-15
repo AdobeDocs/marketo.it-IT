@@ -3,9 +3,9 @@ description: Informazioni su Veeva CRM Sync - Marketo Docs - Documentazione del 
 title: Informazioni su Veeva CRM Sync
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ La sincronizzazione tra Veeva e Marketi Engage è bidirezionale solo per i campi
 
 * Veeva CRM è basato su force.com e il Marketo Engage di esperienza avanzato con la piattaforma è ereditato in questa sincronizzazione.
 
-* Il CRM Veeva mostra: lead, contatto, account (account aziendali, opportunità, campagna e attività). Tuttavia, non sono supportati nella sincronizzazione con il Marketo Engage.
+* Il CRM Veeva mostra: lead, contatto, account, account aziendali, opportunità, campagna e attività. Tuttavia, non sono supportati nella sincronizzazione con il Marketo Engage.

@@ -4,10 +4,10 @@ description: Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio L
 title: Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 2%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 2%
 >
 >**Autorizzazioni amministratore richieste**
 
-Connetti il tuo account Marketo con LinkedIn Matched Audiences per utilizzare un elenco statico di Marketo o un elenco avanzato come segmento di pubblico di LinkedIn.
+Connetti l’account di Marketo Engage con LinkedIn Matched Audiences per utilizzare un elenco statico di Marketo o un elenco avanzato come segmento di pubblico di LinkedIn.
 
-1. Vai a **Amministratore** sezione.
+1. Vai a **[!UICONTROL Amministratore]** sezione.
 
    ![](assets/admin.png)
 
-1. Seleziona **Launchpoint**.
+1. Seleziona **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleziona **Nuovo** e **Nuovo servizio**.
+1. Seleziona **[!UICONTROL Nuovo]** e **[!UICONTROL Nuovo servizio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immetti un **Nome visualizzato** e scegli **Tipi di pubblico di linkedIn corrispondenti**. Fai clic su **Crea**.
+1. Immetti un **[!UICONTROL Nome visualizzato]** e scegli **[!UICONTROL Tipi di pubblico di linkedIn corrispondenti]**. Clic **[!UICONTROL Crea]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Per connettere un account LinkedIn, fai clic su **Autorizza**.
+1. Per connettere un account LinkedIn, fai clic su **[!UICONTROL Autorizza]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -47,11 +47,11 @@ Connetti il tuo account Marketo con LinkedIn Matched Audiences per utilizzare un
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Rivedi le autorizzazioni richieste, quindi fai clic su **Consenti**.
+1. Rivedi le autorizzazioni richieste, quindi fai clic su **[!UICONTROL Consenti]**.
 
    ![](assets/li-permissions.png)
 
-1. Il tuo account LinkedIn è ora connesso a Marketo. Fai clic su **Crea**.
+1. Il tuo account LinkedIn è ora connesso a Marketo. Clic **[!UICONTROL Crea]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -61,4 +61,4 @@ Connetti il tuo account Marketo con LinkedIn Matched Audiences per utilizzare un
 
 >[!MORELIKETHIS]
 >
->[Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
