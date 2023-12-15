@@ -4,9 +4,9 @@ description: Aree di lavoro e partizioni delle persone - Documentazione di Marke
 title: Informazioni sulle aree di lavoro e sulle partizioni delle persone
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -84,12 +84,16 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 
 ## Clonazione in più aree di lavoro {#cloning-across-workspaces}
 
-Per le risorse che non sono modelli, è consigliabile clonarle come risorse locali all’interno di un programma.  Con il livello di accesso appropriato, puoi trascinare queste risorse in un’altra area di lavoro:
+Per le risorse che non sono modelli, è meglio clonarle come risorse locali all’interno di un programma. Con il livello di accesso appropriato, puoi trascinare queste risorse in un’altra area di lavoro:
 
 * Programmi
 * E-mail
 * Pagine di destinazione
 * Forms
+
+>[!IMPORTANT]
+>
+>Tutti gli elementi elencati sopra possono essere clonati in Workspace, e-mail, moduli e pagine di destinazione _deve trovarsi all&#39;interno di un programma_ al momento della clonazione.
 
 >[!NOTE]
 >
