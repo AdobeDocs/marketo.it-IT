@@ -2,10 +2,10 @@
 description: Configurazione - Documentazione di Marketo - Documentazione del prodotto
 title: Configurazione
 feature: Dynamic Chat
-exl-id: 824cd1de-a407-4250-8777-33eec0777361
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
+source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ Per far sì che il chatbot venga visualizzato sul sito web, devi innanzitutto in
 
 >[!TIP]
 >
->Se il sito utilizza un criterio sulla sicurezza dei contenuti, potrebbe essere necessario inserire in una whitelist i seguenti URL affinché il chatbot funzioni come previsto:
+>Se il sito utilizza un criterio sulla sicurezza dei contenuti, potrebbe essere necessario inserire nell&#39;elenco Consentiti i seguenti URL affinché il chatbot funzioni come previsto:
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
