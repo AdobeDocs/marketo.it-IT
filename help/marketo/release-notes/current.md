@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
+source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '649'
 ht-degree: 2%
 
 ---
@@ -84,6 +84,21 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Aggiornamento API per importazione lead in blocco</strong>: è stata apportata una modifica minore al comportamento dell’API Importazione lead in blocco quando <b>id</b> è specificato come <b>lookupField</b> durante la creazione di posti di lavoro. Se un record persona collegato al <b>id</b> non è presente nel database di Marketo Engage, non verrà eseguito alcun aggiornamento del record, poiché non è possibile individuare il record. Il comportamento aggiornato ora include l’incremento del conteggio nel <b>numOfRowsFailed</b> all’interno della risposta, segnalando che in questi casi l’operazione non è riuscita.</td> 
+   <td><i>In arrivo</i></td>
+   <td>n/d</td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
   </tbody> 
 </table>
 
