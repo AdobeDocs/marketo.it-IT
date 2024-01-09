@@ -2,10 +2,10 @@
 description: Casella in entrata agente - Documentazione Marketo - Documentazione del prodotto
 title: Casella in entrata agente
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -32,21 +32,7 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 
 ## Notifiche chat in diretta {#live-chat-notifications}
 
-Quando una chat in diretta viene indirizzata a un agente, vede un banner blu nella parte superiore dello schermo che chiede di accettare.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->Puoi anche impostare le notifiche del browser, che ti invieranno un avviso nel caso in cui non sia stato effettuato l’accesso al Dynamic Chat.
->
->* Abilitare le notifiche del browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Abilitare le notifiche del browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Aspetti da considerare {#things-to-note}
-
-* Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accept chat&quot; (Accetta chat).
-* Al momento esiste un limite di 10 chat live per agente
+Per ulteriori informazioni sulle notifiche, consulta [Panoramica chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversazioni {#conversations}
 

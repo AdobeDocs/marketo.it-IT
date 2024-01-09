@@ -3,9 +3,9 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -65,6 +65,42 @@ Facendo clic sulla scheda della chat dal vivo nel flusso, puoi scegliere come in
   </tr>
  </tbody> 
 </table>
+
+## Notifiche chat in diretta {#live-chat-notifications}
+
+Quando una chat in diretta viene indirizzata a un agente, vede un banner blu nella parte superiore dello schermo che chiede di accettare.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>Puoi anche impostare le notifiche del browser, che ti invieranno un avviso nel caso in cui non sia stato effettuato l’accesso al Dynamic Chat.
+>
+>* Abilitare le notifiche del browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Abilitare le notifiche del browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Abilita notifiche
+
+Per ricevere le notifiche del browser per la chat in tempo reale, tutti gli agenti chat in tempo reale devono abilitare le notifiche del browser per il Dynamic Chat quando richiesto.
+
+Gli agenti di chat live visualizzeranno un banner nella parte superiore dello schermo quando effettuano l’accesso che recita &quot;Abilita le notifiche del browser per ricevere le notifiche di chat live&quot;. Clic **Abilita**.
+
+![](assets/live-chat-overview-4.png)
+
+Agli agenti di chat live verrà quindi richiesto dal browser di visualizzare le notifiche. Clic **Consenti**.
+
+![](assets/live-chat-overview-5.png)
+
+Se gli agenti non ricevono le notifiche del browser anche dopo averlo consentito nel browser, potrebbe essere necessario abilitare le notifiche per il browser nelle impostazioni di notifica del sistema operativo:
+
+[Passaggi per Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Passaggi per Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### Aspetti da considerare {#things-to-note}
+
+* Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accetta chat&quot;
+* Al momento esiste un limite di 10 chat live per agente
 
 >[!MORELIKETHIS]
 >
