@@ -4,9 +4,9 @@ title: Filtraggio dell’attività bot e-mail
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ A seconda del clic sul collegamento e-mail e dell’attività di apertura e-mail
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Scegli per **[!UICONTROL Corrispondenza con elenco IAB]**, **[!UICONTROL Corrispondenza con pattern di prossimità]**, o entrambi. Scegli se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot]. Imposta la quantità di secondi per **Durata tra attività** da 0 a 3 secondi (il valore predefinito è 0).
+1. Sono disponibili due cursori tra cui scegliere. Puoi abilitare solo uno o entrambi. Se si abilita **[!UICONTROL Corrispondenza con elenco IAB]**, scegliere se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. Se si abilita **[!UICONTROL Corrispondenza con pattern di prossimità]**, scegliere se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot]. Puoi anche impostare la quantità di secondi per **Durata tra attività** Il valore predefinito è 0, il massimo è 3.
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >Con **Durata tra attività** impostata su 0 secondi, identificheremo le attività e-mail che si verificano esattamente nello stesso secondo. Se si verificano più attività e-mail entro la quantità di secondi specificata, queste vengono identificate come attività bot.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* Se si sceglie [!UICONTROL Filtra attività bot], potrebbe verificarsi un calo nelle aperture delle e-mail e nei clic quando le attività false vengono eliminate.
 
-**PASSAGGIO FACOLTATIVO**: per disattivare questa funzione, è sufficiente deselezionare i dispositivi di scorrimento. Se si disattiva, i dati non vengono ripristinati.
+**PASSAGGIO FACOLTATIVO**: per disattivare una delle due funzioni, è sufficiente deselezionare il cursore corrispondente. In tal caso, i dati non vengono ripristinati.
 
 >[!TIP]
 >
