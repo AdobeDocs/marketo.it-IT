@@ -4,14 +4,14 @@ description: Rimuovi il testo per l’annullamento dell’iscrizione dalla sezio
 title: Rimuovi il testo per l’annullamento dell’iscrizione dalla sezione E-mail amministratore
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Rimuovi il testo per l’annullamento dell’iscrizione dalla sezione E-mail amministratore {#remove-unsubscribe-text-from-the-admin-email-section}
+# Rimuovi il testo per annullare l’iscrizione dalla sezione Amministratore > E-mail {#remove-unsubscribe-text-from-the-admin-email-section}
 
 L’unico motivo per cui dovresti mai rimuovere completamente il contenuto per cui hai annullato l’abbonamento dal **[!UICONTROL Amministratore]** > **[!UICONTROL E-mail]** L’area è utile per creare il collegamento di annullamento all’abbonamento nei modelli e-mail stessi. La convalida della casella di testo non consente il salvataggio senza contenuto. Per ovviare a questo problema, aggiungi un piccolo commento HTML. Il commento di HTML non verrà visualizzato nel client e-mail, perché esegue il rendering dell’e-mail in HTML e i commenti vengono omessi. Ecco come farlo.
 
