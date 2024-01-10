@@ -4,16 +4,16 @@ description: Creare e utilizzare un campo Stringa concatenata (formula) - Docume
 title: Creare e utilizzare un campo Stringa concatenata (formula)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Creare e utilizzare un campo Stringa concatenata (formula) {#create-and-use-a-concatenated-string-formula-field}
 
-È possibile combinare valori provenienti da più campi o creare un valore condizionale utilizzando un campo Formula di Marketo.
+È possibile combinare valori provenienti da più campi o creare un valore condizionale utilizzando un campo formula di Marketo Engage.
 
 1. Vai a **[!UICONTROL Amministratore]** area.
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->I campi formula possono essere utilizzati nelle colonne delle pagine di destinazione, delle e-mail e dell’elenco avanzato (non vengono esportati). Le e-mail con campi formula possono _non_ essere inviato utilizzando una campagna batch. Utilizza un [token di script e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in questo scenario.
+>I campi formula possono essere utilizzati nelle colonne Pagine di destinazione, E-mail ed Elenco avanzato. Le e-mail con campi formula possono _non_ essere inviato utilizzando una campagna batch. Utilizza un [token di script e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in questo scenario.
 
 Ottimo lavoro! Ora hai un campo intelligente che sa quale formula di saluto includere in base al sesso. Divertitevi e diventate creativi.
