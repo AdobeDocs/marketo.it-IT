@@ -4,9 +4,9 @@ description: Configurare una firma DKIM personalizzata - Documentazione Marketo 
 title: Impostare una firma DKIM personalizzata
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* È consigliabile impostare la dimensione della chiave su 2048.
-   >* Se utilizzi un dominio diverso nell’indirizzo Da, verrà utilizzata la firma DKIM condivisa di Marketo.
-
    <table> 
    <tr>
    <td width="20%"><b>Selettore</b></td>
@@ -59,6 +54,17 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* È consigliabile impostare la dimensione della chiave su 2048.
+   >* Se utilizzi un dominio diverso nell’indirizzo Da, verrà utilizzata la firma DKIM condivisa di Marketo.
+
+   >[!IMPORTANT]
+   >
+   >Se è necessario aggiornare il selettore DKIM o la dimensione di crittografia DKIM per il dominio, è necessario eliminare il record esistente e ripubblicare il record appena generato con i nuovi valori.
+   >
+   >Tieni presente che, in questo caso, DKIM non verrà firmato per il dominio fino a quando il nuovo record non verrà pubblicato e convalidato dal sistema. Pianifica la modifica di conseguenza, in quanto possono essere necessarie da 24 a 48 ore prima che il nuovo record DKIM venga completamente propagato su Internet.
 
 1. Invia il **Record host** e **Valore TXT** al tuo IT. Chiedere loro di creare il record e assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
 
