@@ -3,10 +3,10 @@ description: Configurazione - Documentazione di Marketo - Documentazione del pro
 title: Configurazione
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Scopri come personalizzare l’aspetto della finestra di dialogo del chatbot.
 
-Per iniziare, fai clic su **Configurazione**.
+Per iniziare, fai clic su **Impostazioni chatbot** in **Configurazione**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ L’ancoraggio consente al visitatore del sito di aprire/chiudere la chatbox. Pu
 
 ![](assets/configuration-4.png)
 
-### Impostazioni agente {#agent-settings}
+### Impostazioni bot {#agent-settings}
 
-In Impostazioni agente, puoi aggiungere un’etichetta alla chatbox (ad esempio, &quot;bot Adobe&quot;) che verrà visualizzata nella parte superiore. Puoi anche determinare il ritardo di risposta (in secondi) e modificare l’avatar della chat. Per caricare la tua immagine avatar, fai clic su **+** pulsante.
+In Impostazioni bot, puoi aggiungere alla chatbox un’etichetta (ad esempio, &quot;Assistente Adobe&quot;) che verrà visualizzata nella parte superiore. Puoi anche determinare il ritardo di risposta (in secondi) e modificare l’avatar della chat. Per caricare la tua immagine avatar, fai clic su **+** pulsante.
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ Per far sì che il chatbot venga visualizzato sul sito web, devi innanzitutto in
 
 >[!TIP]
 >
->Se il sito utilizza un criterio sulla sicurezza dei contenuti, potrebbe essere necessario inserire nell&#39;elenco Consentiti i seguenti URL affinché il chatbot funzioni come previsto:
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Di seguito è riportato il codice da aggiungere se il sito utilizza Content-Security-Policy (CSP).
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ title: Webinar on demand
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect, la tecnologia che alimenta i webinar interattivi, tiene traccia d
 
 Marketo fornisce le statistiche di controllo per i webinar on-demand sulla scheda Dashboard con l’aiuto dei seguenti widget:
 
-* Riepilogo on-demand: fornisce un riepilogo giornaliero del numero di visitatori (no-show) che guardano la registrazione dopo l’evento.
+* Riepilogo on-demand: fornisce un riepilogo del numero di visitatori (no-show) che guardano la registrazione dopo l’evento in un dato giorno/i
 
 * Statistiche on-demand: questo widget fornisce informazioni su:
    * Giorni in cui è disponibile per la visualizzazione la registrazione su richiesta: consente agli addetti al marketing di eseguire azioni, ad esempio eseguire campagne e-mail prossime alla fine della durata di disponibilità della registrazione di 30 giorni.
