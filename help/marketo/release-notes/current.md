@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6e121b10c38517aabc9dd46235aed3103525a551
+source-git-commit: 0180723fdbe8dbf4855666b5c465ce17709afda4
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '646'
 ht-degree: 2%
 
 ---
@@ -32,8 +32,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
     <tr> 
    <td><strong>Webinar on demand per webinar interattivi</strong>: i webinar on-demand ti consentono di pubblicare la registrazione del webinar e di tracciarne visite/orologi. Questo ti aiuterà a ottenere più lead attraverso gli utenti che non hanno partecipato al webinar (no-show) ma sono ancora interessati a scoprire ulteriori dettagli e visualizzare la registrazione.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinar on demand</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -55,9 +55,9 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
    </tr>
     <tr> 
-   <td><strong>Filtro attività bot e-mail</strong>: acquisisce meglio le attività bot per il coinvolgimento nelle e-mail consentendoti di scegliere il livello di aggressività desiderato per il filtro di identificazione delle attività bot.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><strong>Filtraggio dell’attività bot e-mail</strong>: acquisisce meglio le attività bot per il coinvolgimento nelle e-mail consentendoti di scegliere il livello di aggressività desiderato per il filtro di identificazione delle attività bot.</td> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtraggio dell’attività bot e-mail</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -125,8 +125,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
    </tr>
     <tr> 
    <td><strong>Opzioni colore font chatbot</strong>: personalizza i colori dei font in una configurazione chatbot.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">Configurazione</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
     </tr>
     <tr> 
    <td><strong>Terminazione manuale di chat in diretta</strong>: sia i visitatori che gli agenti ora possono terminare manualmente una sessione di chat in diretta.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Casella in entrata agente</a></td>
   </tr>
   <tr> 
    <td> </td> 
