@@ -3,9 +3,9 @@ description: Casella in entrata agente - Documentazione Marketo - Documentazione
 title: Casella in entrata agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -50,11 +50,17 @@ Sul lato destro della schermata Casella in entrata agente, potrai vedere (dall&#
 
 ![](assets/agent-inbox-5.png)
 
+## Termina una sessione {#end-a-session}
+
+Gli agenti possono terminare manualmente una sessione semplicemente facendo clic sul pulsante **Termina sessione** accanto alle informazioni sul visitatore.
+
+![](assets/agent-inbox-6.png)
+
 ## Cronologia attività {#activity-history}
 
 Sotto le informazioni sul visitatore si trova la cronologia delle attività. Visualizza i tipi di attività e le date, e anche le trascrizioni delle chat.
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti c
 
 1. Fai clic sull’icona del calendario.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Scegli il calendario agente desiderato e fai clic su **Invia**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. Il visitatore della chat sarà in grado di prenotare una riunione.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)

@@ -3,10 +3,10 @@ description: Filtraggio dell’attività bot e-mail - Documentazione di Marketo 
 title: Filtraggio dell’attività bot e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 11%
+source-wordcount: '534'
+ht-degree: 0%
 
 ---
 
@@ -43,15 +43,23 @@ A seconda del clic sul collegamento e-mail e dell’attività di apertura e-mail
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Scegli per **[!UICONTROL Corrispondenza con elenco IAB]**, **[!UICONTROL Corrispondenza con pattern di prossimità]**, o entrambi. Scegli se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot].
+1. Sono disponibili due cursori tra cui scegliere. Puoi abilitare solo uno o entrambi. Se si abilita **[!UICONTROL Corrispondenza con elenco IAB]**, scegliere se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
+1. Se si abilita **[!UICONTROL Corrispondenza con pattern di prossimità]**, scegliere se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot]. Puoi anche impostare la quantità di secondi per **Durata tra attività** Il valore predefinito è 0, il massimo è 3.
+
+   ![](assets/filtering-email-bot-activity-5.png)
+
 >[!NOTE]
 >
->Se si sceglie [!UICONTROL Filtra attività bot], potrebbe verificarsi un calo nelle aperture delle e-mail e nei clic quando le attività false vengono eliminate.
+>Con **Durata tra attività** impostata su 0 secondi, identificheremo le attività e-mail che si verificano esattamente nello stesso secondo. Se si verificano più attività e-mail entro la quantità di secondi specificata, queste vengono identificate come attività bot.
 
-**PASSAGGIO FACOLTATIVO**: per disattivare questa funzione, è sufficiente deselezionare i dispositivi di scorrimento. Se si disattiva, i dati non vengono ripristinati.
+>[!IMPORTANT]
+>
+>* Se si sceglie [!UICONTROL Filtra attività bot], potrebbe verificarsi un calo nelle aperture delle e-mail e nei clic quando le attività false vengono eliminate.
+
+**PASSAGGIO FACOLTATIVO**: per disattivare una delle due funzioni, è sufficiente deselezionare il cursore corrispondente. In tal caso, i dati non vengono ripristinati.
 
 >[!TIP]
 >
@@ -61,57 +69,57 @@ A seconda del clic sul collegamento e-mail e dell’attività di apertura e-mail
 
 Abbiamo compilato un elenco di indirizzi IP responsabili della generazione di milioni di falsi impegni, in quanto tali impegni ricevuti da uno qualsiasi dei seguenti IP vengono automaticamente filtrati e non aggiunti all’istanza di Marketo Engage. Questo può comportare una riduzione delle aperture delle e-mail, dei clic e di altre attività correlate. L&#39;elenco in appresso può essere aggiornato periodicamente.
 
-* 40.94.34.52
-* 40.94.34.86
+* 40 94 34 52
+* 40 94 34 86
 * 52.34.76.65
-* 54.70.53.60
-* 54.71.187.124
+* 54,70 53,60
+* 54 71 187 124
 * 60.28.2.248
-* 64.235.150.252
-* 64.235.153.10
-* 64.235.153.2
-* 64.235.154.105
-* 64.235.154.109
-* 64.235.154.140
+* 64 235 150 252
+* 64 235 153 10
+* 64 235 153,2
+* 64 235 154 105
+* 64 235 154 109
+* 64 235 154 140
 * 64.74.215.1
-* 64.74.215.100
-* 64.74.215.138
-* 64.74.215.139
-* 64.74.215.142
-* 64.74.215.146
-* 64.74.215.150
-* 64.74.215.154
-* 64.74.215.158
-* 64.74.215.162
-* 64.74.215.164
-* 64.74.215.166
-* 64.74.215.170
-* 64.74.215.174
-* 64.74.215.176
-* 64.74.215.178
-* 64.74.215.51
+* 64 74 215 100
+* 64 74 215 138
+* 64 74 215 139
+* 64 74 215 142
+* 64 74 215 146
+* 64 74 215 150
+* 64 74 215 154
+* 64 74 215 158
+* 64 74 215 162
+* 64 74 215 164
+* 64 74 215 166
+* 64 74 215 170
+* 64 74 215 174
+* 64 74 215 176
+* 64 74 215 178
+* 64 74 215 51
 * 64.74.215.56
 * 64.74.215.58
 * 64.74.215.59
 * 64.74.215.86
 * 64.74.215.98
-* 65.154.226.101
-* 66.249.91.149
-* 70.42.131.106
-* 74.125.217.116
-* 74.217.90.250
-* 104.129.41.4
-* 104.47.55.126
-* 104.47.58.126
-* 104.47.70.126
-* 104.47.73.126
-* 104.47.73.254
-* 104.47.74.126
-* 128.220.160.1
-* 155.70.39.101
-* 162.129.251.14
-* 162.129.251.42
-* 208.52.157.204
+* 65 154 226 101
+* 66 249 91 149
+* 70 42 131 106
+* 74 125 217 116
+* 74 217 90 250
+* 104 129 41,4
+* 104 47 55 126
+* 104 47 58 126
+* 104 47 70 126
+* 104 47 73 126
+* 104 47 73 254
+* 104 47 74 126
+* 128.220.160,1
+* 155 70 39 101
+* 162 129 251 14
+* 162 129 251 42
+* 208 52 157 204
 
 >[!NOTE]
 >

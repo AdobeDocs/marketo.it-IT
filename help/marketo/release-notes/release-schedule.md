@@ -4,7 +4,7 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione rilascio
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 5%
@@ -51,7 +51,7 @@ _Le date e le funzioni di rilascio sono soggette a modifiche_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">Gennaio '24</a></td>
    <td>12 gennaio 2024</td>
-   <td>Su pianificazione</td>
+   <td>In corso</td>
   </tr>
   <tr> 
    <td>Marzo '24</td>
