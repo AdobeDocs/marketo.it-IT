@@ -2,10 +2,10 @@
 description: Elenco di controllo dell’amministratore dell’istanza ereditata - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
-exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1832'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 
 >[!NOTE]
 >
->Questo è applicabile solo agli abbonamenti a cui è stato effettuato l’onboarding [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Amministratore > Utenti e ruoli.
+>Questo è applicabile solo agli abbonamenti di Marketo Engage a cui è stato effettuato l’onboarding [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Amministratore > Utenti e ruoli.
 
 <table> 
  <tbody> 
@@ -288,11 +288,31 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
    <td>Servizi Web</td> 
    <td><li>Sono <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">Restrizioni IP</a> abilitato? Dovrebbero esserlo?</li>
 <li>Quali utenti/app eseguono chiamate API nell’istanza?</li>
-<li>Stai raggiungendo o stai per raggiungere il limite API? 
+<li>Stai raggiungendo o stai per raggiungere il limite API?
 <br/>     In tal caso, puoi aumentarlo o controllare l’istanza per ridurre tali chiamate API.</li></td>
   </tr>
   <tr> 
-   <td>Marketo Sales Insight (se applicabile)</td> 
+   <td>Adobe Dynamic Chat (se applicabile)</td> 
+<td><li>Hai accettato il <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Amministratore prodotto Dynamic Chat</a> invitare? L’e-mail viene inviata quando il Dynamic Chat è abilitato nell’istanza del Marketo Engage e sei designato come Amministratore di sistema.
+<br/>     In caso contrario, cerca l’e-mail di benvenuto nella tua casella in entrata e accetta l’invito a configurare il tuo Adobe ID.</li>   
+<li>Hai aggiunto la <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">utenti desiderati</a> al profilo di prodotto di Dynamic Chat in Adobe Admin Console?
+<ul>
+<li>Assicurati che gli utenti idonei abbiano aggiunto il Profilo di prodotto Dynamic Chat alla loro Identità Adobe. Non puoi assegnare i ruoli "Dynamic Chat di accesso" in Marketo Engage &gt; Amministratore &gt; Utenti e ruoli se sono stati aggiunti a un profilo di prodotto.</li>
+<li>Nella scheda "Profili di prodotto", le Autorizzazioni profilo predefinite sono allineate alle esigenze della tua organizzazione?<br/> 
+In caso contrario, modifica le autorizzazioni per il profilo specifico. </li>
+<li>Se disponi di più di un abbonamento, gli utenti vengono aggiunti agli abbonamenti corretti?</li>
+</ul>
+</li>
+Dopo aver completato il controllo delle impostazioni Utenti e ruoli, accedi al Dynamic Chat per continuare il controllo di audit.  
+<li>Nella scheda "Integrazioni", la sincronizzazione di Marketo Engage e Dynamic Chat è ancora abilitata?</li>
+<li>I cinque profili predefiniti con autorizzazioni predefinite sono applicabili alla tua organizzazione?<br/> 
+     In caso contrario, <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">modificarli nel Dynamic Chat</a>. È inoltre possibile <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">creare un profilo personalizzato</a> con un set personalizzato di autorizzazioni.</li>
+<li>Per consentire agli utenti di accedere al Dynamic Chat, hai selezionato "Dynamic Chat di accesso" al ruolo di Marketo Engage applicabile in Amministratore &gt; Utenti e ruoli &gt; Ruoli?
+<br/><img src="assets/note-icon.png" alt="icona nota"> NOTA: i ruoli "Amministratore" e "Utente marketing" devono avere accesso al Dynamic Chat.</li>
+<li>Hai <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">ha connesso l’istanza di Marketo Engage</a> al Dynamic Chat?</li>
+</td>
+  </tr>
+  <td>Marketo Sales Insight (se applicabile)</td> 
    <td><li>Ha <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Pacchetto MSI installato</a>?</li>
 <li>Hai <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">aggiornato all’ultima versione di Sales Insight</a>?</li>
 <li>Hai completato la configurazione di Sales Insight? <br/>     Utenti Enterprise/Unlimited <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">fai clic qui</a>, utenti professionali <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">fai clic qui</a>.</li>
