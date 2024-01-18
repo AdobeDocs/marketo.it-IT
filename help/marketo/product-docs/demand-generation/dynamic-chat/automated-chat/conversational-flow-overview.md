@@ -2,10 +2,10 @@
 description: Panoramica del flusso conversazionale - Documentazione di Marketo - Documentazione di prodotto
 title: Panoramica del flusso conversazionale
 feature: Dynamic Chat
-exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c741886d-d672-471f-8902-208d25898afa
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 Progetta un flusso conversazionale e attivalo per qualsiasi visitatore in base a un’azione specifica (ad esempio, clic su un pulsante di invito all’azione, al caricamento della pagina, tempo trascorso sulla pagina, ecc.).
 
 ![](assets/conversational-flow-overview-1.png)
+
+>[!NOTE]
+>
+>I flussi conversazionali e la chat in diretta sono funzionalità di prova condivise che hanno un limite di durata combinato di 100 impegni per coloro che fanno parte del pacchetto Selezione Dynamic Chat. Quando questo limite viene raggiunto, tutti i flussi conversazionali pubblicati smetteranno di essere attivati e i visitatori che richiedono di chattare con un agente live riceveranno il messaggio di fallback globale. Per aumentare questo limite, contatta il rappresentante del tuo account per informazioni sulle opzioni di aggiornamento del pacchetto.
 
 ## Finestre di dialogo e flussi conversazionali {#dialogues-vs-conversational-flows}
 

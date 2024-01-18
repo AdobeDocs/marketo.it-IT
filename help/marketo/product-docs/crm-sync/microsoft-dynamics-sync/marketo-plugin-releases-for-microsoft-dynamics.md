@@ -4,7 +4,7 @@ description: Rilasci di plug-in Marketo per Microsoft Dynamics - Documentazione 
 title: Rilasci di plug-in Marketo per Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,99 +36,99 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi l
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">Versione</th> 
-   <th colspan="1">Data di rilascio</th> 
+   <th>Versione</th> 
+   <th>Data di rilascio</th> 
    <th>Note</th> 
   </tr>
   <tr> 
-   <td colspan="1">5.0.2.1.</td> 
-   <td colspan="1">10/13/23</td> 
-   <td colspan="1">Correzione bug: sono stati corretti alcuni bug relativi alla sincronizzazione di entità personalizzate.</td> 
+   <td>5.0.2.1.</td> 
+   <td>10/13/23</td> 
+   <td>Correzione bug: sono stati corretti alcuni bug relativi alla sincronizzazione di entità personalizzate.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.2.0</td> 
-   <td colspan="1">03/24/23</td> 
-   <td colspan="1">Correzione bug: sono stati corretti alcuni bug che impedivano l’unione dei contatti in MS Dynamics.</td> 
+   <td>5.0.2.0</td> 
+   <td>03/24/23</td> 
+   <td>Correzione bug: sono stati corretti alcuni bug che impedivano l’unione dei contatti in MS Dynamics.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.1.8.</td> 
-   <td colspan="1">03/27/23</td> 
-   <td colspan="1">Correzione bug: impedisce al plug-in di sovrascrivere altre personalizzazioni sugli elementi dell’interfaccia utente in MS Dynamics.</td> 
+   <td>5.0.1.8.</td> 
+   <td>03/27/23</td> 
+   <td>Correzione bug: impedisce al plug-in di sovrascrivere altre personalizzazioni sugli elementi dell’interfaccia utente in MS Dynamics.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.1.1.</td> 
-   <td colspan="1">02/04/21</td> 
-   <td colspan="1">Supporto per la sincronizzazione di campi Set di opzioni a selezione multipla (questa funzione è disponibile solo per versione 9.X e successive).</td> 
+   <td>5.0.1.1.</td> 
+   <td>02/04/21</td> 
+   <td>Supporto per la sincronizzazione di campi Set di opzioni a selezione multipla (questa funzione è disponibile solo per versione 9.X e successive).</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.2.0.0</td> 
-   <td colspan="1">10/16/20</td> 
-   <td colspan="1">È stato aggiunto il supporto per la sincronizzazione di Campaign con MS Dynamics.</td> 
+   <td>4.2.0.0</td> 
+   <td>10/16/20</td> 
+   <td>È stato aggiunto il supporto per la sincronizzazione di Campaign con MS Dynamics.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.24</td> 
-   <td colspan="1">8/22/18</td> 
-   <td colspan="1">È stato aggiunto il supporto per il lead idoneo predefinito per il processo di contatto per Microsoft Dynamics versione 9.x.</td> 
+   <td>4.0.0.24</td> 
+   <td>8/22/18</td> 
+   <td>È stato aggiunto il supporto per il lead idoneo predefinito per il processo di contatto per Microsoft Dynamics versione 9.x.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.23</td> 
-   <td colspan="1">6/27/18</td> 
-   <td colspan="1">Correzione bug: errore del processo aziendale durante il tentativo di installare le soluzioni Marketo per Dynamics 2013.</td> 
+   <td>4.0.0.23</td> 
+   <td>6/27/18</td> 
+   <td>Correzione bug: errore del processo aziendale durante il tentativo di installare le soluzioni Marketo per Dynamics 2013.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.22</td> 
-   <td colspan="1">9/29/17</td> 
-   <td colspan="1">Correzione bug: revisione interna.</td> 
+   <td>4.0.0.22</td> 
+   <td>9/29/17</td> 
+   <td>Correzione bug: revisione interna.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>4.0.0.21</p></td> 
-   <td colspan="1">11/9/16</td> 
-   <td colspan="1">Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per Dynamics CRM On Premise 2011.</td> 
+   <td><p>4.0.0.21</p></td> 
+   <td>11/9/16</td> 
+   <td>Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per Dynamics CRM On Premise 2011.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.20</td> 
-   <td colspan="1">7/22/16</td> 
-   <td colspan="1">Correzione bug: gli aggiornamenti del ruolo di contatto dell’opportunità non venivano acquisiti completamente.</td> 
+   <td>4.0.0.20</td> 
+   <td>7/22/16</td> 
+   <td>Correzione bug: gli aggiornamenti del ruolo di contatto dell’opportunità non venivano acquisiti completamente.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.19</td> 
-   <td colspan="1">6/28/16</td> 
-   <td colspan="1">Correzione bug: al momento della creazione dell’opportunità è stata notata una transazione di aggiornamento non necessaria sul ruolo customeropportunityrole nel registro marketo.<p>Correzione bug: è stata registrata una transazione di eliminazione aggiuntiva durante l’eliminazione dell’entità customeropportunityrole.</td> 
+   <td>4.0.0.19</td> 
+   <td>6/28/16</td> 
+   <td>Correzione bug: al momento della creazione dell’opportunità è stata notata una transazione di aggiornamento non necessaria sul ruolo customeropportunityrole nel registro marketo.<p>Correzione bug: è stata registrata una transazione di eliminazione aggiuntiva durante l’eliminazione dell’entità customeropportunityrole.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.18</td> 
-   <td colspan="1">5/31/16</td> 
-   <td colspan="1">Correzione bug: l’aggiornamento e l’eliminazione degli oggetti personalizzati sono stati resi asincroni.</td> 
+   <td>4.0.0.18</td> 
+   <td>5/31/16</td> 
+   <td>Correzione bug: l’aggiornamento e l’eliminazione degli oggetti personalizzati sono stati resi asincroni.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.17</td> 
-   <td colspan="1">4/8/16</td> 
-   <td colspan="1">Correzione bug: quando il lead aveva un filtro di sincronizzazione impostato su NO e l’opportunità e il contatto non avevano un filtro di sincronizzazione, il registro di creazione non veniva generato per il contatto e l’opportunità quando il lead era qualificato.</td> 
+   <td>4.0.0.17</td> 
+   <td>4/8/16</td> 
+   <td>Correzione bug: quando il lead aveva un filtro di sincronizzazione impostato su NO e l’opportunità e il contatto non avevano un filtro di sincronizzazione, il registro di creazione non veniva generato per il contatto e l’opportunità quando il lead era qualificato.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
-   <td colspan="1">3/29/16</td> 
+   <td>4.0.0.16</td> 
+   <td>3/29/16</td> 
    <td>Correzione bug: è stato registrato un evento Assign quando il filtro di sincronizzazione è stato disattivato.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.15</td> 
-   <td colspan="1">3/3/16</td> 
-   <td colspan="1">Correzione bug: il cliente non ha potuto creare un lead in CRM perché l'utente di accesso non disponeva dell'autorizzazione Configurazione Marketo.</td> 
+   <td>4.0.0.15</td> 
+   <td>3/3/16</td> 
+   <td>Correzione bug: il cliente non ha potuto creare un lead in CRM perché l'utente di accesso non disponeva dell'autorizzazione Configurazione Marketo.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.14</td> 
-   <td colspan="1">1/18/16</td> 
-   <td colspan="1">Correzione bug: sono stati creati limiti di accesso per gli utenti normali di Dynamics per risolvere i problemi di sicurezza.</td> 
+   <td>4.0.0.14</td> 
+   <td>1/18/16</td> 
+   <td>Correzione bug: sono stati creati limiti di accesso per gli utenti normali di Dynamics per risolvere i problemi di sicurezza.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.13</td> 
-   <td colspan="1">12/30/15</td> 
+   <td>4.0.0.13</td> 
+   <td>12/30/15</td> 
    <td>Correzione bug: gli aggiornamenti in Dynamics non venivano sincronizzati con Marketo per passaggi e immagini.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.12</td> 
-   <td colspan="1">11/12/15</td> 
-   <td colspan="1">Correzione bug: i record lead venivano sincronizzati in Marketo quando il filtro di sincronizzazione era impostato su false.</td> 
+   <td>4.0.0.12</td> 
+   <td>11/12/15</td> 
+   <td>Correzione bug: i record lead venivano sincronizzati in Marketo quando il filtro di sincronizzazione era impostato su false.</td> 
   </tr> 
  </tbody> 
 </table>

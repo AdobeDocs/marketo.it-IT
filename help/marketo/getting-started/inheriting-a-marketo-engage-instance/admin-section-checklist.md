@@ -3,9 +3,9 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 1%
 
 ---
@@ -304,12 +304,11 @@ In caso contrario, modifica le autorizzazioni per il profilo specifico. </li>
 </ul>
 </li>
 Dopo aver completato il controllo delle impostazioni Utenti e ruoli, accedi al Dynamic Chat per continuare il controllo di audit.  
-<li>Nella scheda "Integrazioni", la sincronizzazione di Marketo Engage e Dynamic Chat è ancora abilitata?</li>
+<li>Hai <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">ha connesso l’istanza di Marketo Engage</a> al Dynamic Chat?</li>
 <li>I cinque profili predefiniti con autorizzazioni predefinite sono applicabili alla tua organizzazione?<br/> 
      In caso contrario, <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">modificarli nel Dynamic Chat</a>. È inoltre possibile <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">creare un profilo personalizzato</a> con un set personalizzato di autorizzazioni.</li>
 <li>Per consentire agli utenti di accedere al Dynamic Chat, hai selezionato "Dynamic Chat di accesso" al ruolo di Marketo Engage applicabile in Amministratore &gt; Utenti e ruoli &gt; Ruoli?
 <br/><img src="assets/note-icon.png" alt="icona nota"> NOTA: i ruoli "Amministratore" e "Utente marketing" devono avere accesso al Dynamic Chat.</li>
-<li>Hai <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">ha connesso l’istanza di Marketo Engage</a> al Dynamic Chat?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight (se applicabile)</td> 

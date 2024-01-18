@@ -3,9 +3,9 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Panoramica chat in diretta {#live-chat-overview}
 
 La chat in tempo reale consente ai visitatori del sito web di intrattenere conversazioni in chat in tempo reale con i tuoi agenti di vendita.
+
+>[!NOTE]
+>
+>I flussi conversazionali e la chat in diretta sono funzionalità di prova condivise che hanno un limite di durata combinato di 100 impegni per coloro che fanno parte del pacchetto Selezione Dynamic Chat. Quando questo limite viene raggiunto, tutti i flussi conversazionali pubblicati smetteranno di essere attivati e i visitatori che richiedono di chattare con un agente live riceveranno il messaggio di fallback globale. Per aumentare questo limite, contatta il rappresentante del tuo account per informazioni sulle opzioni di aggiornamento del pacchetto.
 
 ## Aggiungi agenti chat in tempo reale {#add-live-chat-agents}
 
