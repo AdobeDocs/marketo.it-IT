@@ -4,10 +4,10 @@ description: Rilasci di plug-in Marketo per Microsoft Dynamics - Documentazione 
 title: Rilasci di plug-in Marketo per Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 7%
+source-wordcount: '464'
+ht-degree: 0%
 
 ---
 
@@ -39,11 +39,26 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi l
    <th colspan="1">Versione</th> 
    <th colspan="1">Data di rilascio</th> 
    <th>Note</th> 
+  </tr>
+  <tr> 
+   <td colspan="1">5.0.2.1.</td> 
+   <td colspan="1">10/13/23</td> 
+   <td colspan="1">Correzione bug: sono stati corretti alcuni bug relativi alla sincronizzazione di entità personalizzate.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">5.0.1.1</td> 
+   <td colspan="1">5.0.2.0</td> 
+   <td colspan="1">03/24/23</td> 
+   <td colspan="1">Correzione bug: sono stati corretti alcuni bug che impedivano l’unione dei contatti in MS Dynamics.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.8.</td> 
+   <td colspan="1">03/27/23</td> 
+   <td colspan="1">Correzione bug: impedisce al plug-in di sovrascrivere altre personalizzazioni sugli elementi dell’interfaccia utente in MS Dynamics.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.1.</td> 
    <td colspan="1">02/04/21</td> 
-   <td colspan="1">Supporto per la sincronizzazione di campi Set di opzioni a selezione multipla (questa funzione è disponibile solo per versione 9.X e successive). .</td> 
+   <td colspan="1">Supporto per la sincronizzazione di campi Set di opzioni a selezione multipla (questa funzione è disponibile solo per versione 9.X e successive).</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -68,7 +83,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi l
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per Dynamics CRM On Premise 2011. </td> 
+   <td colspan="1">Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per Dynamics CRM On Premise 2011.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -78,7 +93,7 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi l
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>Correzione bug: al momento della creazione dell’opportunità è stata notata una transazione di aggiornamento non necessaria sul ruolo customeropportunityrole nel registro marketo. </p><p>Correzione bug: è stata registrata una transazione di eliminazione aggiuntiva durante l’eliminazione dell’entità customeropportunityrole.</p></td> 
+   <td colspan="1">Correzione bug: al momento della creazione dell’opportunità è stata notata una transazione di aggiornamento non necessaria sul ruolo customeropportunityrole nel registro marketo.<p>Correzione bug: è stata registrata una transazione di eliminazione aggiuntiva durante l’eliminazione dell’entità customeropportunityrole.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
