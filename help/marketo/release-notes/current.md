@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdc13eac0a8f3c57e53ef6352409aab6645ee0f0
+source-git-commit: f49158e8b180641c1202b39b091ef8dd4088074e
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '681'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 <br/>
 
 ## Annunci {#announcements}
+
+* **Sincronizza aggiornamento API lead**: il comportamento dell’API Lead di sincronizzazione è stato leggermente regolato per quanto riguarda gli aggiornamenti del `unsubscribed` campo. Ora, quando si passa `null` come valore, è uguale al passaggio di un valore di `false`.
 
 * **Marketi Engage Forms jQuery 1.x**: nella versione di gennaio 2024, aggiorneremo jQuery per Marketi Engage Forms a jQuery 3.x. Questo può influire sull’implementazione di moduli personalizzati basati su versioni precedenti di jQuery. [Fai clic qui per ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
