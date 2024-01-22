@@ -2,7 +2,7 @@
 description: Utilizzo delle opzioni SMS in una campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo delle opzioni SMS in una campagna avanzata
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Utilizzo delle opzioni SMS in una campagna avanzata {#using-sms-options-in-a-smart-campaign}
 
-Dopo di te [creare un messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}, per ottenere i vantaggi desiderati, è necessario utilizzare i trigger e i filtri dell’elenco avanzato all’interno di una campagna avanzata.
+Dopo di te [creare un messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, per ottenere i vantaggi desiderati, è necessario utilizzare i trigger e i filtri dell’elenco avanzato all’interno di una campagna avanzata.
 
 >[!NOTE]
 >

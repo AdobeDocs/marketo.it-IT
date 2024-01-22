@@ -4,7 +4,7 @@ description: Note sulla versione - Estate del 16 - Documentazione Marketo - Docu
 title: Note sulla versione - Estate 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Audit trail fornisce una cronologia completa delle modifiche apportate all’int
 
 ![](assets/audit-trail.png)
 
-## [Integrazione Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Integrazione Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Creazione semplice di messaggi SMS direttamente in Marketo. Personalizza e indirizza il messaggio utilizzando dati Marketo avanzati e monitorane facilmente le prestazioni tramite la dashboard dei messaggi SMS.
 
