@@ -4,9 +4,9 @@ description: Note sulla versione -Inverno '17 - Documentazione Marketo - Documen
 title: Note sulla versione - Inverno '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Filtra i contenuti predittivi abilitati per e-mail, contenuti multimediali avanz
 
 **[Filtra analisi per origine](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtrare l’analisi predittiva dei contenuti per origini specifiche: e-mail, contenuti multimediali avanzati o barra dei consigli.
+Filtra l’analisi predittiva dei contenuti per origini specifiche: e-mail, contenuti multimediali avanzati o barra dei consigli.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
@@ -85,7 +85,7 @@ L’URL dell’immagine e i metadati vengono ora utilizzati nel processo di rile
 
 Gli sviluppatori ora hanno un controllo aggiuntivo sulla distribuzione delle notifiche push con l’aggiunta di una nuova chiamata API SDK che consente agli sviluppatori di rimuovere i token push.
 
-## [Integrazione Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Integrazione Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Migliora il targeting con una nuova opzione di filtro, &quot;Membro dell’elenco delle vibrazioni&quot;.
 
