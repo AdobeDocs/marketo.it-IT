@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Nella sezione Verifica e-mail utente, un amministratore può trovare lo stato co
 
 Un amministratore può visualizzare lo stato di verifica e-mail dell’abbonamento, la percentuale di utenti nell’abbonamento che hanno completato la verifica e-mail e il numero di utenti contrassegnati come ignorati. Lo stato viene segnalato in base allo stato della verifica e-mail di tutti gli utenti nell’abbonamento. L’amministratore può fare clic sul numero di utenti ignorati e passare alla scheda Migrazione utenti per visualizzarli.
 
-L’e-mail di verifica può essere inviata nuovamente da un amministratore nelle schede Migrazione utenti della console di migrazione e Utente e ruoli dell’area Amministratore di Marketo, oppure dall’utente nelle Impostazioni account. Come le e-mail di invito dell’utente, il collegamento nell’e-mail di verifica scade tra 3 giorni. Ulteriori informazioni sulla verifica tramite e-mail sono disponibili sul sito [Community](nation.marketo.com) e nella [documentazione di verifica via e-mail](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+L’e-mail di verifica può essere inviata nuovamente da un amministratore nelle schede Migrazione utenti della console di migrazione e Utente e ruoli dell’area Amministratore di Marketo, oppure dall’utente nelle Impostazioni account. Come le e-mail di invito dell’utente, il collegamento nell’e-mail di verifica scade tra 3 giorni. Ulteriori informazioni sulla verifica tramite e-mail sono disponibili sul sito [Community](https://nation.marketo.com/) e nella [documentazione di verifica via e-mail](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
