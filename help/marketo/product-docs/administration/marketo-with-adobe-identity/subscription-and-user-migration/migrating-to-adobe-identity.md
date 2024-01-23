@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
+source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
 workflow-type: tm+mt
-source-wordcount: '2329'
+source-wordcount: '2269'
 ht-degree: 0%
 
 ---
@@ -71,31 +71,29 @@ Nella sezione successiva della scheda Stato di migrazione sono disponibili due b
 
 Successivamente, l’amministratore visualizzerà tre sezioni dello Stato.
 
-La prima sezione riguarda lo stato di verifica e-mail degli utenti all’interno dell’abbonamento.
+* **Verifica e-mail utente**: verifica dello stato degli utenti all’interno dell’abbonamento.
+* **Migrazione e attivazione degli utenti**: stato di migrazione e attivazione (migrazione e adesione al prodotto di Marketo Engage) degli utenti all’interno dell’abbonamento.
+* **Conferma della migrazione**: stato di completamento della migrazione della sottoscrizione.
 
-La seconda sezione riguarda lo stato di migrazione e attivazione degli utenti (ovvero migrazione e adesione al prodotto di Marketo Engage) all’interno dell’abbonamento.
-
-La terza sezione riguarda lo stato di completamento della migrazione dell’abbonamento.
-
-Verifica e-mail utente
+**Verifica e-mail utente**
 
 Nella sezione Verifica e-mail utente, un amministratore può trovare lo stato corrente della verifica e-mail per gli utenti nell’abbonamento, prima della migrazione all’identità Adobe.
 
 Un amministratore può visualizzare lo stato di verifica e-mail dell’abbonamento, la percentuale di utenti nell’abbonamento che hanno completato la verifica e-mail e il numero di utenti contrassegnati come ignorati. Lo stato viene segnalato in base allo stato della verifica e-mail di tutti gli utenti nell’abbonamento. L’amministratore può fare clic sul numero di utenti ignorati e passare alla scheda Migrazione utenti per visualizzarli.
 
-L’e-mail di verifica può essere inviata nuovamente da un amministratore nelle schede Migrazione utenti della console di migrazione e Utente e ruoli dell’area Amministratore di Marketo, oppure dall’utente nelle Impostazioni account. Come le e-mail di invito dell’utente, il collegamento nell’e-mail di verifica scadrà tra 3 giorni. Ulteriori informazioni sulla verifica tramite e-mail sono disponibili nella community &lt;nation.marketo.com> e nella documentazione di verifica via e-mail &lt; https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/email-verification.html?lang=en>.
+L’e-mail di verifica può essere inviata nuovamente da un amministratore nelle schede Migrazione utenti della console di migrazione e Utente e ruoli dell’area Amministratore di Marketo, oppure dall’utente nelle Impostazioni account. Come le e-mail di invito dell’utente, il collegamento nell’e-mail di verifica scade tra 3 giorni. Ulteriori informazioni sulla verifica tramite e-mail sono disponibili sul sito [Community](nation.marketo.com) e nella [documentazione di verifica via e-mail](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
-IMPORTANTE
+>[!IMPORTANT]
+>
+>Se un utente del Marketo Engage non verifica il proprio indirizzo e-mail, non può effettuare la migrazione a un Adobe ID e perderà l’accesso all’abbonamento a Marketo al termine della migrazione. Per recuperare l’accesso, un amministratore di prodotto Marketo deve aggiungerli come nuovo utente.
 
-Se un utente del Marketo Engage non verifica il proprio indirizzo e-mail, non può effettuare la migrazione a un Adobe ID e perderà l’accesso all’abbonamento a Marketo al termine della migrazione. Per recuperare l’accesso al termine della migrazione degli utenti, un amministratore di prodotto Marketo dovrà aggiungerli come nuovo utente.
-
-Migrazione e attivazione degli utenti
+**Migrazione e attivazione degli utenti**
 
 Nella sezione Migrazione e attivazione utenti, un amministratore può trovare lo stato corrente della migrazione utente totale e l’adesione all’Adobe Identity Management System.
 
 Un amministratore può visualizzare la percentuale di utenti nella sottoscrizione che sono stati trasferiti a un Adobe ID o contrassegnati come Ignorati. Lo stato viene segnalato sullo stato della migrazione di tutti gli utenti a un Adobe ID nell’abbonamento, oppure viene contrassegnato come Ignorato e non verrà migrato. Quando gli utenti vengono trasferiti e autorizzati al Marketo Engage, o saltati, questo stato viene aggiornato.
 
-Conferma della migrazione
+**Conferma della migrazione**
 
 Nella sezione Conferma della migrazione, verrà richiesto a un amministratore di confermare il completamento della migrazione utente per l’abbonamento.
 
@@ -103,7 +101,7 @@ Una volta conteggiati tutti gli utenti della sottoscrizione (trasferiti o ignora
 
 SCHERMATA
 
-L’amministratore che esegue la migrazione deve completare la conferma della migrazione facendo clic sul pulsante &quot;Completa migrazione&quot;. Verrà richiesto di confermare il completamento della migrazione.
+L’amministratore che esegue la migrazione deve completare la conferma della migrazione facendo clic sul pulsante **Migrazione completa** pulsante.
 
 SCHERMATA
 
@@ -111,17 +109,17 @@ Una volta confermato il completamento della migrazione utente, la console di mig
 
 ### Scadenza migrazione utenti {#user-migration-expiration}
 
-Adobe richiede ai clienti di completare le migrazioni self-service entro 30 giorni. La migrazione degli utenti o il completamento della migrazione non verrà impedito agli amministratori se la data di scadenza è stata superata, ma potranno eseguire la migrazione solo su richiesta.  Se un amministratore ha bisogno di più tempo, può estendere la data di scadenza dell’abbonamento.
+Adobe richiede ai clienti di completare le migrazioni self-service entro 30 giorni. La migrazione degli utenti o il completamento della migrazione non verrà impedito agli amministratori se la data di scadenza è stata superata. Tuttavia, potranno eseguire la migrazione degli utenti solo su richiesta. Se un amministratore ha bisogno di più tempo, può estendere la data di scadenza dell’abbonamento.
 
 SCHERMATA
 
-Facendo clic sul pulsante &quot;Estendi scadenza&quot;, la data verrà aggiornata a una settimana dopo. Un amministratore può estendere la scadenza fino a tre volte.
+Facendo clic su **Estendi scadenza** , la data verrà aggiornata a una settimana dopo. Un amministratore può estendere la scadenza fino a tre volte.
 
 SCHERMATA
 
 SCHERMATA
 
-L’estensione per Adobe si verifica dopo che un cliente non completa la migrazione entro la data di scadenza.
+Se non completi la migrazione entro la data di scadenza, verrà visualizzato un Adobe.
 
 ### Scheda Migrazione utenti {#user-migration-tab}
 
@@ -129,102 +127,98 @@ La scheda Migrazione utenti fornisce agli amministratori gli strumenti necessari
 
 Gli amministratori possono:
 
-Attiva le e-mail di verifica per gli utenti non verificati tramite il pulsante &quot;Verifica e-mail&quot;
-
-Salta la migrazione degli utenti se gli utenti sanno che l’amministratore non può/non deve verificare la loro e-mail o non deve essere migrata tramite il pulsante &quot;Salta migrazione&quot;
-
-Eseguire la migrazione degli utenti selezionati su richiesta tramite il pulsante &quot;Esegui migrazione ora&quot;
-
-Pianifica la migrazione degli utenti per gli utenti selezionati per una data specifica tramite il pulsante &quot;Pianifica migrazione&quot;
-
-Esegui la migrazione di tutti gli utenti idonei su richiesta (non è necessaria alcuna selezione di utenti) tramite il pulsante &quot;Migra tutti gli utenti&quot;
+* Attiva le e-mail di verifica per gli utenti non verificati tramite il pulsante &quot;Verifica e-mail&quot;
+* Salta la migrazione degli utenti se gli utenti sanno che l’amministratore può/non verificherà la loro e-mail o non deve essere migrata tramite il pulsante &quot;Salta migrazione&quot;
+* Eseguire la migrazione degli utenti selezionati su richiesta tramite il pulsante &quot;Esegui migrazione ora&quot;
+* Pianifica la migrazione degli utenti per gli utenti selezionati per una data specifica tramite il pulsante &quot;Pianifica migrazione&quot;
+* Esegui la migrazione di tutti gli utenti idonei su richiesta (non è necessaria alcuna selezione di utenti) tramite il pulsante &quot;Migra tutti gli utenti&quot;
 
 SCHERMATA
 
-Verifica e-mail
+**Verifica e-mail**
 
-La verifica e-mail è necessaria per la migrazione di un utente a un Adobe ID. Se alcuni utenti non hanno verificato il proprio indirizzo e-mail e devono essere trasferiti, l’amministratore può attivare l’invio dell’e-mail di verifica all’utente. Selezionando un utente non verificato, si attiva il pulsante &quot;Verifica e-mail&quot;, a cui viene richiesto di inviare l’e-mail.
-
-SCHERMATA
-
-Quando l’amministratore fa clic sul pulsante &quot;Verifica e-mail&quot;, riceve una notifica dell’invio dell’e-mail.
+La verifica e-mail è necessaria per la migrazione di un utente a un Adobe ID. Se alcuni utenti non hanno verificato il proprio indirizzo e-mail e devono essere trasferiti, l’amministratore può attivare l’invio dell’e-mail di verifica all’utente. Selezionando un utente non verificato, sarà possibile fare clic sul pulsante &quot;Verifica e-mail&quot;.
 
 SCHERMATA
 
-Ignora e rimuovi migrazione utenti
+Quando l’amministratore fa clic su **Verifica e-mail** , riceveranno una notifica dell&#39;invio dell&#39;e-mail.
 
-Durante la migrazione degli utenti, è necessario eseguire o saltare la migrazione di tutti gli utenti. In base all&#39;Adobe, gli amministratori devono confermare che non verrà eseguita la migrazione di un utente e devono contrassegnare l&#39;utente come ignorato. In caso contrario, l’amministratore non sarà in grado di confermare il completamento della migrazione degli utenti. Al termine della migrazione, tutti gli utenti ignorati perderanno l’accesso a Marketo.
+SCHERMATA
 
-IMPORTANTE
+**Ignora e rimuovi migrazione utenti**
 
-Un amministratore deve ignorare tutti gli utenti con e-mail non verificate. Se alcuni utenti hanno verificato le e-mail, ma l’amministratore non desidera eseguirne la migrazione per alcun motivo, deve contrassegnarle come ignorate.
+Durante la migrazione degli utenti, è necessario eseguire o saltare la migrazione di tutti gli utenti. In base all&#39;Adobe, gli amministratori devono confermare che non verrà eseguita la migrazione di un utente e devono contrassegnare l&#39;utente come ignorato. In caso contrario, l’amministratore non sarà in grado di confermare il completamento della migrazione utente. Al termine della migrazione, tutti gli utenti ignorati perderanno l’accesso a Marketo.
 
-Per saltare un utente, l’amministratore può selezionare gli utenti desiderati. Il pulsante &quot;Ignora migrazione&quot; si attiva. Facendo clic sul pulsante &quot;Salta migrazione&quot;, la pagina si aggiorna e lo stato di verifica e migrazione dell’utente selezionato viene aggiornato a &quot;Ignorato&quot;.
+>[!IMPORTANT]
+>
+>Un amministratore deve ignorare tutti gli utenti con e-mail non verificate. Se alcuni utenti hanno verificato le e-mail, ma l’amministratore non desidera eseguirne la migrazione per alcun motivo, deve contrassegnarle come ignorate.
+
+Per saltare un utente, l’amministratore può selezionare gli utenti desiderati. Il pulsante &quot;Ignora migrazione&quot; diventa selezionabile. Facendo clic su **Ignora migrazione** , la pagina verrà aggiornata e lo stato di verifica e di migrazione dell’utente selezionato verrà aggiornato a &quot;Ignorato&quot;.
 
 SCHERMATA
 
 Un amministratore può annullare il salto di un utente precedentemente ignorato, se è determinato che l’utente deve essere migrato.
 
-Per non saltare un utente, l’amministratore può selezionare l’utente desiderato. Il pulsante &#39;Unskip Migration&#39; (Annulla migrazione) verrà attivato. Facendo clic sul pulsante &quot;Unskip Migration&quot; (Annulla migrazione), la pagina viene aggiornata.  Lo stato di verifica dell’utente selezionato verrà aggiornato al suo stato corrente, &quot;Verificato&quot; o &quot;Non verificato&quot;, e lo stato di migrazione dell’utente verrà aggiornato a &quot;Non avviato&quot;.
+Per non saltare un utente, l’amministratore può selezionare l’utente desiderato. Il pulsante &#39;Unskip Migration&#39; (Annulla migrazione) diventerà cliccabile. Facendo clic su **Annulla migrazione** , la pagina verrà aggiornata.  Lo stato di verifica dell&#39;utente selezionato verrà aggiornato al suo stato corrente, ovvero &#39;Verificato&#39; o &#39;Non verificato&#39;, e lo stato di migrazione dell&#39;utente verrà aggiornato a &#39;Non avviato&#39;.
 
 SCHERMATA
 
-NOTA
+>[!NOTE]
+>
+>Il pulsante &#39;Annulla migrazione&#39; sarà attivo solo se tutti gli utenti selezionati hanno uno stato di migrazione &#39;Ignorato&#39;.
 
-Il pulsante &#39;Annulla migrazione&#39; sarà attivo solo se tutti gli utenti selezionati hanno uno stato di migrazione &#39;Ignorato&#39;.
+### Migrazione degli utenti Marketo agli ID Adobe {#migrating-marketo-users-to-adobe-ids}
 
-Migrazione degli utenti Marketo agli ID Adobe
+Per coloro che desiderano un maggiore controllo durante il processo di migrazione degli utenti, Marketo supporta un approccio self-service per gli abbonamenti con 75 o più utenti. Gli amministratori di prodotto Marketo potranno selezionare gli utenti da migrare in batch o tutti gli utenti idonei contemporaneamente. Una volta selezionati gli utenti, gli amministratori possono scegliere &quot;Migra ora&quot; o &quot;Pianifica migrazione&quot; per una data successiva, offrendo agli amministratori flessibilità e controllo su quali utenti vengono migrati e quando. Agli amministratori viene inoltre offerta l’opzione &quot;Migra tutti gli utenti&quot; in un abbonamento.
 
-Per i clienti che desiderano un maggiore controllo durante il processo di migrazione, Marketo supporta un approccio self-service per gli abbonamenti con 75 o più utenti. Gli amministratori di prodotto Marketo potranno selezionare gli utenti da migrare in batch o tutti gli utenti idonei contemporaneamente. Una volta selezionati gli utenti, gli amministratori possono scegliere &quot;Migra ora&quot; o &quot;Pianifica migrazione&quot; per una data successiva, offrendo agli amministratori la massima flessibilità e il controllo su quali utenti vengono migrati e quando. Agli amministratori viene inoltre offerta l’opzione &quot;Migra tutti gli utenti&quot; in un abbonamento.
+Ad esempio, un amministratore può selezionare un gruppo di &quot;utenti avanzati&quot; di cui si desidera eseguire prima la migrazione. Una volta completate correttamente le migrazioni utente, è possibile selezionare gruppi diversi in base a variabili quali workspace/funzione/ruolo aziendale per eseguire ulteriori migrazioni batch degli utenti. In alternativa, potrebbe decidere di eseguire la migrazione degli altri utenti degli abbonamenti dopo il completamento del primo batch. L’obiettivo è fornire agli utenti la massima flessibilità nella distribuzione degli ID Adobi.
 
-Ad esempio, un amministratore può selezionare un gruppo di utenti &quot;avanzati&quot; che desidera migrare per primi. Una volta completate correttamente le migrazioni degli utenti, è possibile selezionare gruppi diversi in base a elementi quali l’area di lavoro, la funzione aziendale o il ruolo per eseguire ulteriori migrazioni batch degli utenti in base a. In alternativa, potrebbe decidere di eseguire la migrazione di tutti gli altri utenti degli abbonamenti dopo il completamento del primo batch. L’obiettivo è fornire agli utenti la massima flessibilità nella distribuzione degli ID Adobi.
-
-Tutte le migrazioni degli utenti avvengono contemporaneamente e dovrebbero essere completate correttamente entro sessanta secondi. Durante la migrazione di un utente specifico, l’utente potrebbe perdere l’accesso per un massimo di 1 minuto e ciò solo se ha effettuato l’accesso all’applicazione. Al termine della migrazione utente, l’utente riceverà un’e-mail su come accedere al Marketo Engage con un’identità Adobe. L’utente deve accettare l’invito tramite il collegamento del pulsante nell’e-mail. Dopo aver accettato l’invito, l’utente deve accedere con un Adobe ID. Le istruzioni su come accedere al Marketo Engage con un Adobe ID sono disponibili qui. &lt; https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.html>
-
-SCHERMATA
-
-Le migrazioni degli utenti vengono elaborate in modo indipendente; pertanto, se una migrazione non riesce, Adobe continuerà a elaborare le migrazioni degli altri utenti. Se si verifica un errore di migrazione utente, non è richiesta alcuna azione da parte di un amministratore. Il team ingegneristico Adobe sarà al lavoro per risolvere il problema il prima possibile. L’amministratore riceverà una notifica e-mail relativa all’errore e verrà avvisato che l’Adobe è in grado di risolvere il problema immediatamente. Se la migrazione di un utente non riesce e l’utente è connesso al Marketo Engage, potrebbe perdere l’accesso per un massimo di 2 minuti, durante i nuovi tentativi di migrazione.  Se la migrazione di un utente non riesce, l’utente può continuare ad accedere al Marketo Engage con la propria identità Marketo fino a quando non riceve una notifica e-mail di avvenuta migrazione e viene invitato ad accedere con un Adobe ID.
+Tutte le migrazioni degli utenti avvengono contemporaneamente e dovrebbero essere completate correttamente entro sessanta secondi. Durante la migrazione di un utente specifico, l’utente potrebbe perdere l’accesso per un massimo di 1 minuto e ciò solo se ha effettuato l’accesso all’applicazione. Al termine della migrazione utente, l’utente riceverà un’e-mail su come accedere al Marketo Engage con un’identità Adobe. L’utente deve accettare l’invito tramite il collegamento del pulsante nell’e-mail. Dopo aver accettato l’invito, l’utente deve accedere con un Adobe ID. Istruzioni su come accedere al Marketo Engage con un Adobe ID [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 SCHERMATA
 
-Migra ora
-
-Un amministratore può selezionare uno o più utenti per la migrazione su richiesta. Questo attiverà immediatamente la migrazione degli utenti. Per eseguire la migrazione di uno o più utenti, l&#39;amministratore seleziona gli utenti desiderati e viene attivato il pulsante &quot;Esegui migrazione ora&quot;.
+Le migrazioni degli utenti vengono elaborate in modo indipendente; pertanto, se una migrazione non riesce, Adobe continuerà a elaborare le migrazioni degli altri utenti. Se si verifica un errore di migrazione utente, non è richiesta alcuna azione da parte di un amministratore. L’amministratore riceverà una notifica e-mail relativa all’errore e verrà avvisato che l’Adobe è in grado di risolvere il problema immediatamente. Se la migrazione di un utente non riesce e l’utente è connesso al Marketo Engage, potrebbe perdere l’accesso per un massimo di due minuti durante i nuovi tentativi di migrazione. Se la migrazione di un utente non riesce, l’utente può continuare ad accedere al Marketo Engage con la propria identità Marketo fino a quando non riceve una notifica e-mail di avvenuta migrazione e viene invitato ad accedere con un Adobe ID.
 
 SCHERMATA
 
-NOTA
+**Migra ora**
 
-Il pulsante &quot;Esegui migrazione ora&quot; sarà attivo solo se tutti gli utenti selezionati dispongono di uno stato di verifica &quot;Verificato&quot;.
-
-Facendo clic sul pulsante Migra ora, all&#39;amministratore verrà richiesto di confermare la migrazione degli utenti selezionati. Una volta confermata dall’amministratore, le migrazioni degli utenti inizieranno l’elaborazione il prima possibile.
+Un amministratore può selezionare uno o più utenti per la migrazione su richiesta. Questo attiverà immediatamente la migrazione degli utenti. Per eseguire la migrazione di uno o più utenti, l&#39;amministratore può selezionare gli utenti desiderati e fare clic sul pulsante Migra ora.
 
 SCHERMATA
 
-Pianifica migrazione
+>[!NOTE]
+>
+>Il pulsante &quot;Esegui migrazione ora&quot; sarà attivo solo se tutti gli utenti selezionati dispongono di uno stato di verifica &quot;Verificato&quot;.
 
-Un amministratore può selezionare uno o più utenti per pianificare la migrazione in una data successiva. Per pianificare la migrazione per uno o più utenti, l’amministratore seleziona gli utenti desiderati e viene attivato il pulsante &quot;Pianifica migrazione&quot;.
-
-SCHERMATA
-
-NOTA
-
-Il pulsante &quot;Pianifica migrazione&quot; sarà attivo solo se tutti gli utenti selezionati dispongono di uno stato di verifica &quot;Verificato&quot;.
-
-Facendo clic sul pulsante &quot;Pianifica migrazione&quot;, all’amministratore viene richiesto di selezionare la data di migrazione desiderata per gli utenti selezionati. L’amministratore può selezionare solo date precedenti alla data di scadenza della migrazione della sottoscrizione. Una volta confermata la conferma da parte dell’amministratore, l’elaborazione delle migrazioni utente verrà pianificata per la data selezionata.
+Facendo clic su **Migra ora** all&#39;amministratore verrà richiesto di confermare la migrazione degli utenti selezionati. Una volta confermata dall’amministratore, le migrazioni degli utenti inizieranno l’elaborazione il prima possibile.
 
 SCHERMATA
 
-NOTA
+**Pianifica migrazione**
 
-Tutti gli abbonamenti Marketo con fuso orario negli Stati Uniti verranno migrati a partire dalla mezzanotte (ora standard del Pacifico) della data di inizio della migrazione. La migrazione degli utenti per tutti gli altri abbonamenti inizierà alla mezzanotte del fuso orario specificato per l’abbonamento.
-
-Migra tutti gli utenti
-
-Un amministratore può scegliere di eseguire la migrazione di tutti gli utenti idonei in un abbonamento in qualsiasi momento. Questo attiverà immediatamente la migrazione degli utenti idonei. Gli utenti idonei sono quelli con e-mail verificate, che non sono ancora stati trasferiti.
+Un amministratore può selezionare uno o più utenti per pianificare la migrazione in una data successiva. Per pianificare la migrazione per uno o più utenti, l’amministratore seleziona gli utenti desiderati e sarà possibile fare clic sul pulsante &quot;Pianifica migrazione&quot;.
 
 SCHERMATA
 
-Facendo clic sul pulsante &quot;Migra tutti gli utenti&quot;, all’amministratore verrà richiesto di confermare la migrazione di tutti gli utenti idonei. Una volta confermata dall’amministratore, le migrazioni degli utenti inizieranno l’elaborazione il prima possibile.
+>[!NOTE]
+>
+>Il pulsante &quot;Pianifica migrazione&quot; sarà attivo solo se tutti gli utenti selezionati hanno lo stato di verifica &quot;Verificato&quot;.
+
+Facendo clic su **Pianifica migrazione** , all’amministratore verrà richiesto di selezionare la data di migrazione desiderata per gli utenti selezionati. L’amministratore può selezionare solo date precedenti alla data di scadenza della migrazione della sottoscrizione. Quando l’amministratore conferma, l’elaborazione delle migrazioni utente verrà pianificata per la data selezionata.
+
+SCHERMATA
+
+>[!NOTE]
+>
+>Tutti gli abbonamenti Marketo con fuso orario negli Stati Uniti verranno migrati a partire dalla mezzanotte (ora standard del Pacifico) della data di inizio della migrazione. La migrazione degli utenti per tutti gli altri abbonamenti inizierà alla mezzanotte del fuso orario specificato per l’abbonamento.
+
+**Migra tutti gli utenti**
+
+Un amministratore può scegliere di eseguire la migrazione di tutti gli utenti idonei in un abbonamento in qualsiasi momento. Questo attiverà immediatamente la migrazione degli utenti idonei. Gli utenti idonei sono gli utenti con e-mail verificate che non sono ancora stati trasferiti.
+
+SCHERMATA
+
+Facendo clic su **Migra tutti gli utenti** , all’amministratore verrà richiesto di confermare la migrazione di tutti gli utenti idonei. Quando l’amministratore conferma, le migrazioni degli utenti inizieranno l’elaborazione il prima possibile.
 
 SCHERMATA
