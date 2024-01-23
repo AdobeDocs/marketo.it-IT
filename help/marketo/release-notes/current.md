@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 <br/>
 
 ## Annunci {#announcements}
+
+* [Webinar sulla versione del Marketo Engage di gennaio 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **Sincronizza aggiornamento API lead**: Il [Sincronizza API lead](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Il comportamento di è stato leggermente regolato per quanto riguarda gli aggiornamenti `unsubscribed` campo. Ora, quando si passa `null` come valore, è uguale al passaggio di un valore di `false`.
 
