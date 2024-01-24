@@ -4,9 +4,9 @@ description: Gestione degli utenti di Marketo - Documentazione di Marketo - Docu
 title: Gestione degli utenti di Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Il nuovo utente è ora elencato nella scheda Utenti e riceverà un’e-mail con 
 
 ## Elimina utenti {#delete-users}
 
+>[!NOTE]
+>
+>Se l&#39;utente che desideri eliminare è anche un utente del Dynamic Chat, devi [rimuovili dal Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) nell’Admin Console prima di eliminarli in Marketo Engage.
+
 1. Vai a **[!UICONTROL Amministratore]** area.
 
    ![](assets/managing-marketo-users-10.png)
@@ -123,7 +127,7 @@ L’utente riceverà un’e-mail con le istruzioni per la reimpostazione della p
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Puoi modificare le informazioni utente e il ruolo associato. Clic **[!UICONTROL Salva]**.
+1. Puoi modificare le informazioni utente e il ruolo associato. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/managing-marketo-users-21.png)
 

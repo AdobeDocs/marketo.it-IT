@@ -4,9 +4,9 @@ description: Creazione di un utente solo API - Documentazione di Marketo - Docum
 title: Creare un utente solo API
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Se desideri effettuare l’integrazione con Marketo tramite [API REST](https://developers.marketo.com/documentation/rest/){target="_blank"}, sarà necessario creare un utente solo API. Ecco come.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Se stai creando solo utenti API in una sottoscrizione a cui è stato effettuato l’onboarding in Adobe Identity, i tuoi passaggi [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Se crei solo utenti API in una sottoscrizione a cui è stato effettuato l’onboarding in Adobe Identity, i passaggi sono diversi e [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >

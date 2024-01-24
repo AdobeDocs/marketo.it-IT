@@ -3,9 +3,9 @@ description: Abbonamento a Marketo e migrazione degli utenti al Adobe Admin Cons
 title: Abbonamento a Marketo e migrazione degli utenti a Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,11 @@ Per ridurre al minimo l’impatto sugli utenti di Marketo, gli amministratori di
 
 * Se gestisci già altri prodotti Adobe nel Adobe Admin Console, Adobe potrebbe richiedere il consenso per migrare automaticamente gli utenti alla console esistente. Per accedere alla pagina del consenso, fai clic sul pulsante &quot;Inizia&quot; nell’e-mail.
 
-Al momento non vi sono modifiche alla gestione degli utenti. Gli amministratori di Marketo continueranno a gestire gli utenti nell’area di amministrazione di Marketo e gli utenti continueranno ad accedere con la loro identità Marketo fino a quando la migrazione degli utenti non sarà completata.
+Al momento non vi sono modifiche alla gestione degli utenti. Anche se i prodotti Marketo compaiono nell’Admin Console, gli amministratori di Marketo continueranno a gestire gli utenti nell’area di amministrazione di Marketo e gli utenti continueranno ad accedere con la propria identità Marketo fino a quando la migrazione degli utenti non sarà completata. Durante questo periodo, i prodotti Marketo non possono essere amministrati in Admin Console finché non inizia la migrazione degli utenti. Ciò include l’istanza di Dynamic Chat associata all’abbonamento.
+
+>[!NOTE]
+>
+>Se al momento non utilizzi l’SSO ma stai pensando di implementarlo, ti consigliamo di farlo prima che si verifichi la migrazione degli utenti. Se desideri implementare il Single Sign-On e l’abbonamento è stato effettuato all’onboarding per Adobe Identity senza l’SSO implementato nell’organizzazione Adobe, invia un ticket a [Supporto Marketo](https://nation.marketo.com/){target="_blank"} e specifica l’argomento come &quot;Marketo su Admin Console, implementazione dell’SSO&quot;.
 
 ### Pianifica migrazione utenti {#schedule-user-migration}
 

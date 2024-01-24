@@ -4,9 +4,9 @@ description: Aggiunta del Single Sign-On a un portale - Documentazione Marketo -
 title: Aggiungere il Single Sign-On a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
+
+>[!IMPORTANT]
+>
+>Questo non si applica alle sottoscrizioni a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. [Fai clic qui per ulteriori informazioni](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -83,7 +87,7 @@ SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configura
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Clic **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -101,7 +105,7 @@ SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configura
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Immetti un **[!UICONTROL URL errore]**. Questo è l’URL a cui desideri indirizzare l’utente nel caso in cui l’accesso a Marketo non riesca. Clic **[!UICONTROL Salva]**.
+1. Immetti un **[!UICONTROL URL errore]**. Questo è l’URL a cui desideri indirizzare l’utente nel caso in cui l’accesso a Marketo non riesca. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
