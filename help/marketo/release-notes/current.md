@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
+source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '691'
 ht-degree: 2%
 
 ---
@@ -68,7 +68,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    </tr>
     <tr> 
    <td><strong>Aggiornamento API per importazione lead in blocco</strong>: è stata apportata una modifica minore al comportamento dell’API Importazione lead in blocco quando <b>id</b> è specificato come <b>lookupField</b> durante la creazione di posti di lavoro. Se un record persona collegato al <b>id</b> non è presente nel database di Marketo Engage, non verrà eseguito alcun aggiornamento del record, poiché non è possibile individuare il record. Il comportamento aggiornato ora include l’incremento del conteggio nel <b>numOfRowsFailed</b> all’interno della risposta, segnalando che in questi casi l’operazione non è riuscita.</td> 
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
    <td>n/d</td>
   </tr>
  </tbody> 
@@ -177,10 +177,10 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 
 ## Annunci {#announcements}
 
-* [Webinar sulla versione del Marketo Engage di gennaio 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
-
 * **Sincronizza aggiornamento API lead**: Il [Sincronizza API lead](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Il comportamento di è stato leggermente regolato per quanto riguarda gli aggiornamenti `unsubscribed` campo. Ora, quando si passa `null` come valore, è uguale al passaggio di un valore di `false`.
 
 * **Marketi Engage Forms jQuery 1.x**: nella versione di gennaio 2024, aggiorneremo jQuery per Marketi Engage Forms a jQuery 3.x. Questo può influire sull’implementazione di moduli personalizzati basati su versioni precedenti di jQuery. [Fai clic qui per ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **Verifica e-mail solo per utenti SSO**: Solo gli utenti SSO venivano verificati automaticamente, consentendo loro di utilizzare un account e-mail inaccessibile. A partire dalla metà di gennaio, tutti gli utenti SSO Only esistenti non saranno più verificati e verrà richiesto di ricontrollare la posta elettronica tramite un collegamento inviato all&#39;account di posta elettronica. Tutti i nuovi utenti Solo SSO dovranno verificare i propri indirizzi e-mail in futuro.
+
+* Osserva [Webinar sulla versione del Marketo Engage di gennaio 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
