@@ -3,10 +3,10 @@ description: Progettazione flussi - Documentazione di Marketo - Documentazione d
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 2%
+source-wordcount: '1108'
+ht-degree: 1%
 
 ---
 
@@ -24,36 +24,36 @@ Lo stream designer contiene più schede che è possibile aggiungere per modellar
 
 <table>
  <tr>
-  <td><strong>Messaggio</strong></td>
+  <td style="width:25%"><strong>Messaggio</strong></td>
   <td>Da utilizzare quando si desidera effettuare una dichiarazione senza bisogno di risposta (ad esempio: "Ciao! Tutti gli articoli hanno il 25% di sconto oggi con il codice SAVE25").
 </td>
  </tr>
  <tr>
-  <td><strong>Domanda</strong></td>
+  <td style="width:25%"><strong>Domanda</strong></td>
   <td>Da utilizzare quando si desidera porre una domanda a scelta multipla, di cui si forniscono le risposte disponibili (ad esempio: Quale tipo di veicolo si è interessati? Risposte = SUV, Compatto, Camion, ecc.).</td>
  </tr>
  <tr>
-  <td><strong>Documento</strong></td>
+  <td style="width:25%"><strong>Documento</strong></td>
   <td>Consente di incorporare documenti PDF nelle finestre di dialogo e di tenere traccia dell’attività di coinvolgimento dei visitatori nei documenti (quante pagine sono state visualizzate, se il documento è stato scaricato e/o qualsiasi termine di ricerca utilizzato).</td>
  </tr>
  <tr>
-  <td><strong>Acquisizione delle informazioni</strong></td>
+  <td style="width:25%"><strong>Acquisizione delle informazioni</strong></td>
   <td>Utilizzare quando si desidera raccogliere informazioni (ad esempio, nome, indirizzo e-mail, qualifica, ecc.). Dopo aver scelto il campo a cui attribuire la risposta, puoi scegliere se consentire al visitatore di digitare il testo nella risposta o selezionare le opzioni da un elenco a discesa che hai determinato (suggerimento: quest’ultimo può essere utile per la pulizia del database). Puoi anche scegliere di sovrascrivere i dati attualmente elencati con la relativa risposta, oppure puoi saltare completamente la domanda se disponi già di un valore per essi.</td>
  </tr>
  <tr>
-  <td><strong>Prenotazione riunione</strong></td>
+  <td style="width:25%"><strong>Prenotazione riunione</strong></td>
   <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, un agente specifico o utilizzando regole personalizzate. Clic <b>Aggiungi attributo</b> se desideri acquisire il nome o l’indirizzo e-mail dell’agente e assegnarlo al record persona del visitatore della chat per eseguire query future (suggerimento: creare un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizzato</a> per mappare le informazioni dell’agente su in modo da non sovrascrivere un campo di Marketo Engage standard).</td>
  </tr>
  <tr>
-  <td><strong>Obiettivo</strong></td>
+  <td style="width:25%"><strong>Obiettivo</strong></td>
   <td>Questa è l'unica carta che i visitatori non vedranno. Sta a te determinare a quale punto un obiettivo viene raggiunto all’interno della chat specifica (ad esempio, se l’obiettivo è la raccolta dell’e-mail del visitatore, inserisci la scheda Obiettivo immediatamente dopo Info Capture nel flusso).</td>
  </tr>
  <tr>
-  <td><strong>Azione</strong></td>
+  <td style="width:25%"><strong>Azione</strong></td>
   <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile compilare qualsiasi attributo del lead o dell’azienda (che presenta un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo di dati string</a>) con valori impliciti che si desidera acquisire in base a un record lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.</td>
  </tr>
  <tr>
-  <td><strong>Chat in tempo reale</strong></td>
+  <td style="width:25%"><strong>Chat live</strong></td>
   <td>Utilizza la scheda chat in diretta quando desideri che i visitatori chattino con un agente in diretta.
   <li>La scheda chat live deve essere l'ultima scheda del ramo.</li>
   <li>I visitatori verranno indirizzati a un agente non appena raggiungono questa scheda nel flusso, pertanto si consiglia di anteporre a questa scheda una scheda con le domande che chiedono ai visitatori se desiderano chattare con un agente live.</li></td>
@@ -66,23 +66,23 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>Ingrandisce, creando schede più grandi</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>Esegue lo zoom indietro, creando schede più piccole</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>Apre una finestra per il test della chat (premere lo stesso pulsante per chiudere)</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>Consente di cercare tipi di schede o contenuti all’interno del flusso</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>Dispone tutte le schede nel flusso</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
    <table>
     <tr>
-     <td><strong>Tipo</strong></td>
+     <td style="width:30%"><strong>Tipo</strong></td>
      <td>Tipo di informazioni da acquisire: telefono, testo, e-mail.</td>
     </tr>
     <tr>
-     <td><strong>Messaggio del chatbot</strong></td>
+     <td style="width:30%"><strong>Messaggio del chatbot</strong></td>
      <td>Il messaggio visualizzato dal visitatore che gli chiede di fornire le informazioni.</td>
     </tr>
     <tr>
-     <td><strong>Placeholder</strong></td>
+     <td style="width:30%"><strong>Placeholder</strong></td>
      <td>Testo di esempio che aiuta il visitatore a vedere cosa inserire.</td>
     </tr>
     <tr>
-     <td><strong>Mappa risposta su attributo</strong></td>
+     <td style="width:30%"><strong>Mappa risposta su attributo</strong></td>
      <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento Marketo.</td>
     </tr>
    </table>
@@ -209,5 +209,5 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 >[!MORELIKETHIS]
 >
 >* [Creare una finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Criteri di audience](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [API Adobe PDF Embed](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [Criteri di pubblico](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [API di incorporamento Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}

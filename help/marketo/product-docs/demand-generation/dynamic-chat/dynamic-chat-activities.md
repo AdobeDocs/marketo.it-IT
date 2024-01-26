@@ -3,9 +3,9 @@ description: Attività di Dynamic Chat - Documentazione Marketo - Documentazione
 title: Attività Dynamic Chat
 feature: Dynamic Chat
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,43 @@ ht-degree: 0%
 Il Dynamic Chat offre diversi filtri e attivatori da utilizzare negli elenchi avanzati.
 
 ![](assets/dynamic-chat-activities-1.png)
+
+## Definizioni {#definitions}
+
+<table>
+<thead>
+<tbody>
+  <tr>
+    <td><b>Attivato</b></td>
+    <td>Un evento trigger si verifica quando un visitatore soddisfa i criteri di targeting per un dialogo o un flusso conversazionale e viene visualizzato nel dialogo.
+    <br>Un evento trigger per visitatore, per sessione.</td>
+  </tr>
+  <tr>
+    <td><b>Coinvolto con un flusso/finestra di dialogo per conversazione</b></td>
+    <td>Un coinvolgimento si verifica la prima volta che un visitatore web fa clic su un prompt in una finestra di dialogo o in un flusso conversazionale (facendo clic su un’opzione a scelta multipla, inviando informazioni, prenotando una riunione, aprendo un documento, ecc). Se un visitatore apre una finestra di dialogo o un flusso conversazionale, ma non fa clic su un prompt, il coinvolgimento è <b>non</b> registrato. 
+    <br>Un evento di coinvolgimento per visitatore, per sessione.</td>
+  </tr>
+   <tr>
+    <td><b>Coinvolto con un agente</b></td>
+    <td>Si verifica quando un visitatore è connesso correttamente a un agente di chat in tempo reale.
+    <br>Uno impegnato con un evento agente per visitatore, per sessione.</td>
+  </tr>
+  <tr>
+    <td><b>Interazione con il documento</b></td>
+    <td>Si verifica quando un visitatore fa clic su un documento in una scheda del documento.
+    <br>È possibile che esistano più interazioni con i documenti per visitatore e per sessione.</td>
+  </tr>
+  <tr>
+    <td><b>Obiettivo/i raggiunto</b></td>
+    <td>Si verifica quando un visitatore raggiunge un obiettivo. <br>Possono essere presenti più eventi con obiettivo per visitatore, per sessione.</td>
+  </tr>
+  <tr>
+    <td><b>Riunione pianificata</b></td>
+    <td>Si verifica quando un visitatore registra una riunione con un agente di Dynamic Chat.
+    <br>Possono esserci più eventi prenotati per la riunione per visitatore, per sessione.</td>
+  </tr>
+</tbody>
+</table>
 
 ## Aspetti da considerare {#things-to-note}
 
