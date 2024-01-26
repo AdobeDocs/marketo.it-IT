@@ -3,7 +3,7 @@ description: Domande frequenti sul Dynamic Chat - Documentazione Marketo - Docum
 title: Domande frequenti sul Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Sì. [Scopri come](https://nation.marketo.com/t5/product-blogs/using-dynamic-cha
 **Cosa significano esattamente termini come &quot;Coinvolto&quot; o &quot;Persone acquisite&quot;?**
 
 Nel Dynamic Chat vengono utilizzati più termini. Le definizioni per molti di loro si trovano negli articoli di aiuto delle rispettive aree.
-* Termini di Analytics come &quot;Persone acquisite&quot; [si trova qui](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Definizioni di attivatori/filtri elenchi avanzati [si trova qui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Descrizione delle varie schede di Stream Designer [si trova qui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Termini di Analytics come &quot;Persone acquisite&quot; [si trova qui](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Definizioni di attivatori/filtri elenchi avanzati [si trova qui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Descrizione delle varie schede di Stream Designer [si trova qui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Posso usare il Dynamic Chat senza Marketo Engage?**
 
