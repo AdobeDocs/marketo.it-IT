@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Successivamente, l’amministratore visualizzerà tre sezioni dello Stato.
 * **Migrazione e attivazione degli utenti**: stato di migrazione e attivazione (migrazione e adesione al prodotto di Marketo Engage) degli utenti all’interno dell’abbonamento.
 * **Conferma della migrazione**: stato di completamento della migrazione della sottoscrizione.
 
-**Verifica e-mail utente**
+#### Verifica e-mail utente {#user-email-verification}
 
 Nella sezione Verifica e-mail utente, un amministratore può trovare lo stato corrente della verifica e-mail per gli utenti nell’abbonamento, prima della migrazione all’identità Adobe.
 
@@ -87,13 +87,13 @@ L’e-mail di verifica può essere inviata nuovamente da un amministratore nelle
 >
 >Se un utente del Marketo Engage non verifica il proprio indirizzo e-mail, non può effettuare la migrazione a un Adobe ID e perderà l’accesso all’abbonamento a Marketo al termine della migrazione. Per recuperare l’accesso, un amministratore di prodotto Marketo deve aggiungerli come nuovo utente.
 
-**Migrazione e attivazione degli utenti**
+#### Migrazione e attivazione degli utenti {#user-migration-and-activation}
 
 Nella sezione Migrazione e attivazione utenti, un amministratore può trovare lo stato corrente della migrazione utente totale e l’adesione all’Adobe Identity Management System.
 
 Un amministratore può visualizzare la percentuale di utenti nella sottoscrizione che sono stati trasferiti a un Adobe ID o contrassegnati come Ignorati. Lo stato viene segnalato sullo stato della migrazione di tutti gli utenti a un Adobe ID nell’abbonamento, oppure viene contrassegnato come Ignorato e non verrà migrato. Quando gli utenti vengono trasferiti e autorizzati al Marketo Engage, o saltati, questo stato viene aggiornato.
 
-**Conferma della migrazione**
+#### Conferma della migrazione {#migration-confirmation}
 
 Nella sezione Conferma della migrazione, verrà richiesto a un amministratore di confermare il completamento della migrazione utente per l’abbonamento.
 
