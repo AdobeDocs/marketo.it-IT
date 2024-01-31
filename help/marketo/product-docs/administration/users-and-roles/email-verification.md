@@ -3,9 +3,9 @@ description: Verifica e-mail - Documentazione di Marketo - Documentazione del pr
 title: Verifica e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Il Marketo Engage sta continuando il rollout di Verifica e-mail in preparazione 
 ## Invito utente {#user-invite}
 
 Quando un amministratore invita un utente, quest’ultimo viene verificato automaticamente dopo aver fatto clic sul collegamento di invito.
+
+>[!IMPORTANT]
+>
+>L’eccezione di quanto sopra è che, in una sottoscrizione solo SSO, gli amministratori riceveranno un nuovo invito utente, mentre i non amministratori no. Gli utenti non amministratori devono seguire il processo di verifica e-mail per garantire la migrazione dei propri record utente. Un amministratore può inviare il collegamento di verifica e-mail facendo clic sul pulsante **Invia di nuovo verifica e-mail** accanto al nome utente.
 
 ## E-mail di verifica {#verification-email}
 
