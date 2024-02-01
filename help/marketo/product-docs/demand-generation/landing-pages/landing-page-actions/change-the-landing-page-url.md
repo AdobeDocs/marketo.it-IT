@@ -4,24 +4,28 @@ description: Modificare l’URL della pagina di destinazione - Documentazione di
 title: Modificare l’URL della pagina di destinazione
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Modificare l’URL della pagina di destinazione {#change-the-landing-page-url}
 
-Puoi modificare l’URL di una pagina di destinazione. Questo può aiutare a rendere l’URL più facile da ricordare e a migliorare la SEO (Search Engine Optimization).
+Puoi modificare l’URL di una pagina di destinazione. Questo può aiutare a rendere l’URL più facile da ricordare e migliorare la SEO (Search Engine Optimization).
 
-1. Seleziona la pagina di destinazione. Fai clic su **Azioni pagina di destinazione** a discesa, scorri fino a **Strumenti URL** e seleziona **Modifica impostazioni URL**.
+1. Trova e seleziona la pagina di destinazione desiderata.
 
-   ![](assets/one.png)
+   ![](assets/change-the-landing-page-url-1.png)
+
+1. Fai clic su **Azioni pagina di destinazione** a discesa, scorri fino a **Strumenti URL** e seleziona **Impostazioni URL**.
+
+   ![](assets/change-the-landing-page-url-2.png)
 
 1. Inserisci il **Nuovo URL**, scegli di eliminare o reindirizzare il vecchio URL e fai clic su **Salva**.
 
-   ![](assets/two.png)
+   ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
