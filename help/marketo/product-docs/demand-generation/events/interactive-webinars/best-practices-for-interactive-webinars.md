@@ -4,9 +4,9 @@ title: Best practice per i webinar interattivi
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 * I Pod personalizzati sono app di terze parti che possono essere utilizzate per estendere le funzionalità di una room di Adobe Connect. I Pod personalizzati possono essere scaricati da `apps.adobeconnect.com` come file .pod o .zip che possono quindi essere condivisi nel pod di condivisione.
    * Alcuni pod personalizzati popolari sono Timer conto alla rovescia, Orologio, Forbici carta roccia, Word Cloud, Titolazione.
-   * Fai clic qui per un breve video sull’utilizzo dei pod personalizzati.
+   * [Fai clic qui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} per guardare un breve video sull’utilizzo dei pod personalizzati.
 
 **Privacy: per mantenere riservate le informazioni sul partecipante, controlla le impostazioni qui sotto:**
 

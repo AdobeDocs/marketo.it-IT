@@ -3,9 +3,9 @@ description: Verifica e-mail - Documentazione di Marketo - Documentazione del pr
 title: Verifica e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,19 @@ Quando un amministratore invita un utente, quest’ultimo viene verificato autom
 
 >[!IMPORTANT]
 >
->L’eccezione di quanto sopra è che, in una sottoscrizione solo SSO, gli amministratori riceveranno un nuovo invito utente, mentre i non amministratori no. Gli utenti non amministratori devono seguire il processo di verifica e-mail per garantire la migrazione dei propri record utente. Un amministratore può inviare il collegamento di verifica e-mail facendo clic sul pulsante **Invia di nuovo verifica e-mail** accanto al nome utente.
-
-## E-mail di verifica {#verification-email}
-
-Gli utenti riceveranno il seguente messaggio e-mail quando la verifica e-mail viene attivata per un abbonamento o se è attivata da un amministratore/utente:
+>L’eccezione a quanto sopra è, _in un abbonamento solo SSO_, gli amministratori riceveranno un nuovo invito utente, ma gli utenti non amministratori no. Gli utenti che non sono amministratori devono comunque seguire il processo di verifica e-mail per garantire la migrazione dei propri record. Gli utenti possono inviare a se stessi il collegamento di verifica e-mail andando in **Amministratore** > **Il mio account** > **Impostazioni account** e clic **Invia di nuovo la verifica**.
 
 ![](assets/email-verification-1.png)
 
->[!NOTE]
+## E-mail di verifica {#verification-email}
+
+Gli utenti riceveranno l’e-mail seguente quando la verifica e-mail viene attivata per un abbonamento o se è attivata da un amministratore/utente.
+
+Per il completamento della verifica e-mail è necessaria una sessione utente attiva. L’utente deve prima accedere alla sottoscrizione Marketo utilizzando il proprio URL del provider di identità (IdP). Una volta stabilita una sessione, _allora_ fai clic su **Verifica indirizzo e-mail** nell’e-mail.
+
+![](assets/email-verification-2.png)
+
+>[!TIP]
 >
 >Per inviare di nuovo un messaggio e-mail di verifica a un utente non verificato, selezionane il record e fai clic su **[!UICONTROL Verifica e-mail]** pulsante.
 
@@ -40,15 +44,15 @@ Gli utenti riceveranno il seguente messaggio e-mail quando la verifica e-mail vi
 
 Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail che consentirà di eseguire nuovamente la verifica. Gli utenti possono inviare nuovamente tale e-mail facendo clic su **[!UICONTROL Invia di nuovo la verifica]**.
 
-![](assets/email-verification-2.png)
-
 ![](assets/email-verification-3.png)
+
+![](assets/email-verification-4.png)
 
 ## Utenti e ruoli {#users-and-roles}
 
 In entrata **[!UICONTROL Amministratore]** > **[!UICONTROL Utenti e ruoli]**, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
 
-![](assets/email-verification-4.png)
+![](assets/email-verification-5.png)
 
 ## ID di accesso per più utenti {#multiple-user-login-ids}
 
@@ -58,7 +62,7 @@ A un singolo indirizzo e-mail può essere associato un solo account utente. Se a
 * Utilizza una nuova e-mail per l&#39;ID di accesso utente corrente
 * Posticipa la decisione al prossimo accesso
 
-  ![](assets/email-verification-5.png)
+  ![](assets/email-verification-6.png)
 
 >[!NOTE]
 >
