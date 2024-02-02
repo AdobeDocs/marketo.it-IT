@@ -5,9 +5,9 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
+source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
 workflow-type: tm+mt
-source-wordcount: '1674'
+source-wordcount: '1644'
 ht-degree: 0%
 
 ---
@@ -69,54 +69,54 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 * Se si desidera registrare la sessione, attivare il promemoria di registrazione in Preferenze stanza. Se la registrazione non è stata avviata, il promemoria verrà visualizzato 5 minuti dopo l&#39;inizio della riunione.
 
 * Abilita l’area Host e Presenter e configurala con i relativi pod. Quest&#39;area è visibile solo agli host e ai relatori e può essere utilizzata per collaborare nel backstage. Alcuni baccelli da includere qui sarebbero:
-   * Dashboard di coinvolgimento per monitorare il coinvolgimento dei partecipanti in tempo reale. [Fai clic qui](https://www.youtube.com/watch?v=gf5fu0JK9Hk) per un breve video su come utilizzare il dashboard Coinvolgimento.
+   * Dashboard di coinvolgimento per monitorare il coinvolgimento dei partecipanti in tempo reale. [Fai clic qui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} per guardare un breve video su come utilizzare la dashboard Coinvolgimento.
    * Chat pod per consentire conversazioni private tra i membri del team della presentazione.
    * Nota Pod per inviare messaggi di promemoria, domande per il relatore o risposte alle domande standard che è possibile copiare e incollare per risposte rapide alle domande comuni.
 
-MODIFICA QUI INTERROTTA
+* I Pod personalizzati sono app di terze parti che possono essere utilizzate per estendere le funzionalità di una room di Adobe Connect. I Pod personalizzati possono essere scaricati da `apps.adobeconnect.com` come file .pod o .zip che possono quindi essere condivisi nel pod di condivisione.
+   * Alcuni pod personalizzati popolari sono Timer conto alla rovescia, Orologio, Forbici carta roccia, Word Cloud, Titolazione.
+   * Fai clic qui per un breve video sull’utilizzo dei pod personalizzati.
 
-* I Pod personalizzati sono app di terze parti che possono essere utilizzate per estendere le funzionalità di una room di Adobe Connect. I pod personalizzati possono essere scaricati da apps.adobeconnect.com come file .pod o .zip che possono quindi essere condivisi nel pod di condivisione.
+**Privacy: per mantenere riservate le informazioni sul partecipante, controlla le impostazioni qui sotto:**
 
-o Alcuni pod personalizzati popolari sono Timer conto alla rovescia, Orologio, Forbici di carta di roccia, Word Cloud, Titolazione. o Fai clic qui per un breve video sull’utilizzo dei pod personalizzati.
+* **Ticker attività**: Activity Ticker mostra informazioni su chi sta parlando in quel momento e avvisa quando i partecipanti entrano o escono dalla stanza. È possibile rimuovere il ticker di attività deselezionando &quot;Mostra ticker di attività&quot; nella sezione &quot;Barra dei menu&quot; in Preferenze stanza.
 
-* Privacy: per mantenere riservate le informazioni sul partecipante, controlla le impostazioni seguenti:
+* **Pod domande e risposte**: è possibile nascondere sia il nome del partecipante che ha inviato la domanda sia il nome dell’host/relatore che ha risposto. Per farlo, deseleziona le opzioni relative alla privacy nella sezione &quot;Q&amp;A Pod&quot; in Preferenze della stanza.
 
-o Ticker attività: Ticker attività visualizza informazioni su chi sta parlando in questo momento e avvisi sui partecipanti che entrano o escono dalla stanza. Per rimuovere il ticker di attività, deseleziona Mostra ticker di attività nella sezione Barra dei menu in Preferenze della stanza.
+* **Pannello chat**: il pannello di chat è un’area di chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fai clic qui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
 
-o Pod domande e risposte: è possibile nascondere sia il nome del partecipante che ha inviato la domanda sia il nome dell’host/presentatore che ha risposto. Per farlo, deseleziona le opzioni relative alla privacy nella sezione &quot;Pod domande e risposte&quot; in Preferenze della stanza.
+* **Chat privata**: disattiva la chat privata per impedire ai partecipanti di eseguire il ping di un altro partecipante. A tale scopo, deselezionare &quot;Consenti ai partecipanti di chattare in privato&quot; nella sezione &quot;Chat&quot; in Preferenze della stanza.
 
-o Pannello chat: il pannello chat è un’area di chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. Fai clic qui per ulteriori informazioni sull’utilizzo del pannello Chat.
+* **Pod partecipante**: sposta il pod Partecipanti nell&#39;area Host e Presenter.
 
-o Chat privata: disattiva la chat privata per impedire ai partecipanti di eseguire il ping di un altro partecipante. Per ottenere questo risultato, deselezionare &quot;Consenti ai partecipanti di chattare in privato&quot; nella sezione &quot;Chat&quot; in Preferenze della stanza.
+## Distribuzione {#delivery}
 
-o Pod partecipanti: spostare il pod Partecipanti nell&#39;area Host e Presenter.
+* Esegui alcune esecuzioni per testare la tua configurazione audio/video e per conoscere Adobe Connect se non l’hai già utilizzata in precedenza. Non dimenticare di includere anche i relatori e i co-presentatori durante le prove.
 
-B. Consegna
+* Chiedere a host e relatori di arrivare almeno 30 minuti prima dell&#39;ora di inizio e assicurarsi che tutto funzioni correttamente.
+   * Decidi chi modererà i pod di domande e risposte e chat.
+   * Popola le domande e risposte e le chat Pod con qualsiasi domanda seed/chat.
 
-* Esegui alcune esecuzioni per testare la configurazione audio-video e per conoscere Adobe Connect se non l’hai mai utilizzato prima. Non dimenticare di includere anche i relatori e i co-presentatori durante le prove.
+* I programmi che si stanno condividendo su schermo devono essere aperti nella finestra appropriata e pronti per la dimostrazione. Evita di avviare e accedere ai programmi durante la condivisione dello schermo.
 
-* Chiedere a host e relatori di arrivare almeno 30 minuti prima dell&#39;ora di inizio e assicurarsi che tutto funzioni correttamente e che vi sia un coordinamento finale.
+* I partecipanti possono entrare nella stanza 15 minuti prima dell&#39;inizio programmato. Passa al layout della hall 15 minuti prima dell’inizio pianificato per i partecipanti che arrivano in anticipo.
 
-o Decidere chi dovrà moderare i pod di domande e risposte e chat.
+* Utilizzate l&#39;area Host e l&#39;area Presenter come area backstage per coordinarsi privatamente. [Fai clic qui](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} per guardare un breve video sull&#39;area Host e Presenter.
 
-o Popola le domande e risposte e le chat Pod con qualsiasi domanda/chat seed.
+* Utilizza la modalità Prepara per apportare privatamente eventuali modifiche dell’ultimo minuto. [Fai clic qui](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} per guardare un breve video sulla modalità Prepara.
 
-* I programmi in cui si condivide lo schermo sono aperti nella finestra appropriata e pronti per la dimostrazione: evitare di avviarli e accedervi durante la condivisione dello schermo.
+* Utilizzare il dashboard Coinvolgimento per mantenere una scheda sui livelli di interesse dei partecipanti. Passa a un sondaggio, fai una domanda d’accordo/in disaccordo, invia una domanda nel pod Chat, oppure utilizza il pod personalizzato di Word Cloud per ottenere risposte dai partecipanti e aumentare i livelli di coinvolgimento.
 
-* I partecipanti possono entrare nella stanza 15 minuti prima dell&#39;inizio programmato. Passa al layout della hall 15 minuti prima dell’inizio pianificato per i partecipanti che arrivano in anticipo. · Utilizzare Host e Presenter Area come area backstage per coordinare privatamente. Fai clic qui per un breve video sull’area Host e Presenter. · Utilizza la modalità Prepara per apportare privatamente qualsiasi modifica dell’ultimo minuto. Fai clic qui per un breve video sulla modalità di preparazione.
+* Tieni una scheda sulla chat del presentatore (Chat pod nell’area Host e Presenter) per coordinarti continuamente con il tuo team.
 
-* Utilizzare il dashboard Coinvolgimento per mantenere una scheda sui livelli di interesse dei partecipanti. Passa a un sondaggio, fai una domanda d’accordo/in disaccordo, invia una domanda nel pod di chat o utilizza il pod personalizzato di Word Cloud per ottenere risposte dai partecipanti e aumentare i livelli di coinvolgimento.
+## Post-consegna {#post-delivery}
 
-* Mantieni una scheda sulla chat del presentatore (Chat pod nell’area Host e Presenter) per coordinarti continuamente con il tuo team.
+* Una volta consegnato il webinar, i dati di coinvolgimento insieme alla registrazione saranno resi disponibili in Marketo Engage generalmente entro 1-2 ore. Convalida la registrazione e conferma se l’output video completo del webinar è stato acquisito in modo appropriato, in modo che lo stesso possa essere utilizzato per condividere con il pubblico e tenere traccia dei dati del webinar on-demand.
 
-C. Consegna successiva - Nilesh
-
-* Una volta consegnato il webinar, i dati sul coinvolgimento e la registrazione sono resi disponibili in Marketo in genere entro 1-2 ore. Convalida la registrazione e conferma se l’output video completo del webinar è stato acquisito in modo appropriato, in modo che lo stesso possa essere utilizzato per condividere con il pubblico e tenere traccia dei dati del webinar on-demand.
-
-* Crea campagne di sviluppo per qualificare ulteriormente i lead dei partecipanti in base al loro coinvolgimento utilizzando i filtri e i trigger dei webinar interattivi e fai in modo che le campagne di ringraziamento per chi non ha partecipato forniscano ulteriori informazioni sull’evento, il collegamento di registrazione, le statistiche dell’evento e gli eventi futuri per sollecitare i No-Show a riconnettersi all’organizzazione. Le attività per i No-Show che visitano la registrazione possono essere tracciate come parte dei webinar on-demand e ulteriori campagne di crescita possono essere create per i No-Show attraverso i filtri e i trigger dei Webinar on-demand.
+* Crea campagne di sviluppo per qualificare ulteriormente i lead dei partecipanti in base al loro coinvolgimento utilizzando filtri/trigger dei webinar interattivi e fai in modo che le campagne di ringraziamento/Mancato contatto forniscano ulteriori informazioni dall’evento, dal collegamento di registrazione, dalle statistiche dell’evento e dagli eventi futuri per invitare i No-Show a riconnettersi all’organizzazione. Le attività per i No-Show che visitano la registrazione possono essere tracciate come parte dei webinar On-Demand e ulteriori campagne Nurture possono essere create per i No-Show attraverso i filtri/trigger dei Webinar On-Demand.
 
 * Utilizzare i dati del registro attività per ogni membro nella scheda Membri per esaminare le attività di coinvolgimento eseguite da partecipanti diversi durante il webinar.
 
-* Scarica la registrazione e pubblicala su varie pagine di destinazione, micrositi o portali per un pubblico più ampio.
+* Scarica la registrazione e pubblicala su varie pagine di destinazione, micrositi o portali, per un pubblico più ampio.
 
-* Utilizza la dashboard per ottenere una visualizzazione aggregata delle prestazioni del webinar in termini di stato del programma, distribuzione della partecipazione, risposte ai sondaggi, download di file e clic sui collegamenti. Identifica le aree positive e migliorative durante il webinar e assicura che le lezioni possano essere utilizzate nel prossimo webinar da condurre.
+* Utilizza la dashboard per ottenere una visualizzazione aggregata delle prestazioni del webinar in termini di stato del programma, distribuzione della partecipazione, risposte ai sondaggi, download di file e clic sui collegamenti. Identifica le aree positive e di miglioramento durante il webinar e assicurati che le lezioni possano essere utilizzate nel prossimo webinar.
