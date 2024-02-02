@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '718'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 <br/>
 
 ## Annunci {#announcements}
+
+* **Aggiornamento annullamento iscrizione mailing list con un solo clic**: Gmail e Yahoo hanno implementato diversi nuovi requisiti del mittente che sono entrati in vigore il 1° febbraio 2024. Scopri [che cosa sono e come influiscono su di lei](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
 * **Sincronizza aggiornamento API lead**: Il [Sincronizza API lead](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Il comportamento di è stato leggermente regolato per quanto riguarda gli aggiornamenti `unsubscribed` campo. Ora, quando si passa `null` come valore, è uguale al passaggio di un valore di `false`.
 
