@@ -3,9 +3,9 @@ description: Migrazione a Identità Adobe - Documentazione Marketo - Documentazi
 title: Migrazione all’identità Adobe
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 1663f2e5fab9c5d5157d0e50d20fe527bd57d31a
+source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
 workflow-type: tm+mt
-source-wordcount: '2253'
+source-wordcount: '2230'
 ht-degree: 0%
 
 ---
@@ -167,7 +167,7 @@ Per non saltare un utente, l’amministratore può selezionare l’utente deside
 
 ### Migrazione degli utenti Marketo agli ID Adobe {#migrating-marketo-users-to-adobe-ids}
 
-Per coloro che desiderano un maggiore controllo durante il processo di migrazione degli utenti, Marketo supporta un approccio self-service per gli abbonamenti con 75 o più utenti. Gli amministratori di prodotto Marketo potranno selezionare gli utenti da migrare in batch o tutti gli utenti idonei contemporaneamente. Una volta selezionati gli utenti, gli amministratori possono scegliere &quot;Migra ora&quot; o &quot;Pianifica migrazione&quot; per una data successiva, offrendo agli amministratori flessibilità e controllo su quali utenti vengono migrati e quando. Agli amministratori viene inoltre offerta l’opzione &quot;Migra tutti gli utenti&quot; in un abbonamento.
+Gli amministratori di prodotto Marketo potranno selezionare gli utenti da migrare in batch o tutti gli utenti idonei contemporaneamente. Una volta selezionati gli utenti, gli amministratori possono scegliere &quot;Migra ora&quot; o &quot;Pianifica migrazione&quot; per una data successiva, offrendo agli amministratori flessibilità e controllo su quali utenti vengono migrati e quando. Agli amministratori viene inoltre offerta l’opzione &quot;Migra tutti gli utenti&quot; in un abbonamento.
 
 Ad esempio, un amministratore può selezionare un gruppo di &quot;utenti avanzati&quot; di cui si desidera eseguire prima la migrazione. Una volta completate correttamente le migrazioni degli utenti, è possibile selezionare diversi gruppi di utenti in base a variabili quali workspace/business o funzione/ruolo per eseguire ulteriori migrazioni batch degli utenti. In alternativa, può decidere di eseguire la migrazione degli altri utenti degli abbonamenti dopo il completamento del primo batch. L’obiettivo è fornire agli utenti la massima flessibilità nella distribuzione degli ID Adobi.
 
