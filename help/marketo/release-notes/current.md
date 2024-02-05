@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <th style="width:65%">Funzione</th> 
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>Webinar on demand per webinar interattivi</strong>: i webinar on-demand ti consentono di pubblicare la registrazione del webinar e di tracciarne visite/orologi. Questo ti aiuterà a ottenere più lead attraverso gli utenti che non hanno partecipato al webinar (no-show) ma sono ancora interessati a scoprire ulteriori dettagli e visualizzare la registrazione.</td> 
@@ -40,8 +39,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>Pagine di destinazione conversazionali</strong>: incorpora un flusso conversazionale di Dynamic Chat direttamente in una pagina di destinazione del Marketo Engage, in modo che i visitatori possano pianificare una riunione attraverso il Dynamic Chat senza dover compilare un modulo o interagire con un chatbot.</td> 
    <td><i>In arrivo</i></td>
@@ -52,8 +49,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>Filtraggio dell’attività bot e-mail</strong>: acquisisce meglio le attività bot per il coinvolgimento nelle e-mail consentendoti di scegliere il livello di aggressività desiderato per il filtro di identificazione delle attività bot.</td> 
    <td>Spedito</td>
@@ -63,11 +58,29 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>Aggiornamento API per importazione lead in blocco</strong>: è stata apportata una modifica minore al comportamento dell’API Importazione lead in blocco quando <b>id</b> è specificato come <b>lookupField</b> durante la creazione di posti di lavoro. Se un record persona collegato al <b>id</b> non è presente nel database di Marketo Engage, non verrà eseguito alcun aggiornamento del record, poiché non è possibile individuare il record. Il comportamento aggiornato ora include l’incremento del conteggio nel <b>numOfRowsFailed</b> all’interno della risposta, segnalando che in questi casi l’operazione non è riuscita.</td> 
+   <td>Spedito</td>
+   <td>n/d</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>Co-host per webinar interattivi</strong>: i co-host nella sezione Team di webinar dei webinar interattivi consentono al creatore dell’evento di aggiungere utenti interni o esterni al programma Webinar interattivi per condividere responsabilità amministrative e di consegna.</td> 
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Aggiunta di un team di webinar</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Rimuovere un utente nei webinar interattivi</strong>: un amministratore di Marketo Engage può ora rimuovere uno o più utenti specifici nei webinar interattivi.</td> 
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
