@@ -4,9 +4,9 @@ description: Limitare gli accessi Marketo basati su IP - Documentazione Marketo 
 title: Limita gli accessi a Marketo in base all’IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Puoi limitare o consentire agli utenti di accedere a Marketo in base ai loro ind
 >
 >**Autorizzazioni amministratore richieste**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Le informazioni contenute in questo articolo si applicano solo ai login diretti all’indirizzo login.marketo.com. Al momento non è possibile applicare restrizioni IP ai login Single Sign-On (SSO).
+>Le informazioni contenute in questo articolo sono destinate agli utenti che accedono direttamente a login.marketo.com e non sono applicabili a coloro che effettuano l’autenticazione con Adobe ID. Al momento non è possibile applicare restrizioni IP agli accessi Single Sign-On (SSO).
 
 1. Vai a **[!UICONTROL Amministratore]** area.
 
