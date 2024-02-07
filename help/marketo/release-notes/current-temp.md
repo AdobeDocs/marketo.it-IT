@@ -4,9 +4,9 @@ title: Note sulla versione corrente
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Metadati attività API</strong>: ora in sono inclusi i metadati come agente utente, piattaforma, browser e dispositivo <i>tutto</i> attività basate su browser, per fornire informazioni coerenti sulle attività basate su browser tramite API REST di Marketo.</td> 
+   <td><strong>Metadati attività API</strong>: i metadati come Agente utente, Platform e Device sono ora inclusi nelle attività web ed e-mail, consentendo di ottenere informazioni coerenti su queste attività tramite l’API REST di Marketo.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
