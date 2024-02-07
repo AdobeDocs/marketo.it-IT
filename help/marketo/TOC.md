@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: ce8b46126478fe9b2afcf9d475607ee71f64e111
+source-git-commit: 94afeacfdecf71e6985daccc31dd67e3d19953ac
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9272'
 ht-degree: 0%
 
 ---
@@ -1126,6 +1126,8 @@ ht-degree: 0%
       + [Icona Glossario](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [Utilizzo della ricerca globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Attiva/Disattiva](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+   + Notifiche Marketo {#marketo-notifications}
+      + [Notifica: connessione Websocket](product-docs/marketo-notifications/notification-websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Guida introduttiva {#getting-started}
          + [Panoramica di Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
