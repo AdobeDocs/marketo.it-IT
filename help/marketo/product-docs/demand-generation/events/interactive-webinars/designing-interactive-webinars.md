@@ -3,9 +3,9 @@ description: Progettazione di webinar interattivi - Documentazione di Marketo - 
 title: Progettazione di webinar interattivi
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Scopri come progettare il webinar in base alle tue esigenze.
 1. Verrà visualizzata l’anteprima del webinar.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >Per impostazione predefinita, il nome della room indicato nel campo &quot;Nome della room del webinar interattivo&quot; è uguale al nome del programma di eventi del webinar interattivo. Puoi modificarlo per riflettere il titolo del webinar stesso, poiché questo nome è visibile al pubblico.
 
    >[!TIP]
    >
