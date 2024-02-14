@@ -4,9 +4,9 @@ description: Utilizzo di un ID universale per l’accesso in abbonamento - Docum
 title: Utilizzo di un ID universale per l’accesso in abbonamento
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ Quando esci e accedi di nuovo, Marketo ti accede automaticamente all’ultimo ab
 ## Profili community {#community-profiles}
 
 Se disponi di più abbonamenti, puoi avere più profili community. È consigliabile scegliere l&#39;account di accesso collegato al profilo community più attivo.
-
-## Piattaforma mobile {#mobile-platform}
-
-Gli utenti con ID universale possono visualizzare i propri dati su [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} dall’ultimo accesso effettuato a. Non è possibile modificare gli abbonamenti dalla piattaforma Mobile stessa.
 
 >[!MORELIKETHIS]
 >
