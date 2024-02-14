@@ -4,9 +4,9 @@ description: Utilizzo di un ID universale per l’accesso in abbonamento - Docum
 title: Utilizzo di un ID universale per l’accesso in abbonamento
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Tutti gli abbonamenti Marketo sono forniti con la funzione Universal ID opzional
 
 Quando accedi per accettare un invito a un secondo abbonamento utilizzando un ID universale, viene visualizzata la pagina di accesso di Opt-in. In questo caso, seleziona una casella di controllo per accettare i termini e le condizioni. Dopo aver accettato, verrà visualizzata la normale pagina di reimpostazione, non questa, per gli accessi successivi. Accettando i termini e le condizioni, Marketo consente di distribuire i dati di profilo di base (come nome, cognome e indirizzo e-mail) ai centri dati in posizioni diverse in cui è ospitato l’abbonamento.
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Con un ID universale per più abbonamenti, solo tu puoi modificare la password.
 
 Utilizzando un ID universale, puoi visualizzare l’abbonamento a cui hai effettuato l’accesso e selezionare altri abbonamenti a cui hai accesso. Nella maggior parte dei casi, è possibile passare da una all’altra senza dover disconnettersi ed effettuare nuovamente l’accesso.
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 Quando esci e accedi di nuovo, Marketo ti accede automaticamente all’ultimo abbonamento a cui hai effettuato l’accesso. Se necessario, puoi quindi passare a un abbonamento diverso.
 
