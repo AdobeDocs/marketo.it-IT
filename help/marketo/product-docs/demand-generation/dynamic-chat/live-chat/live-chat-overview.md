@@ -3,9 +3,9 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -105,8 +105,8 @@ Quando una chat in diretta viene indirizzata a un agente, vede un banner blu nel
 
 ### Aspetti da considerare {#things-to-note}
 
-* Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accetta chat&quot;
-* Al momento esiste un limite di 10 chat live per agente
+* Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accept chat&quot; (Accetta chat). Successivamente, i visitatori riceveranno la [messaggio di fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Per gli abbonati Dynamic Prime che hanno l’opzione di indirizzamento impostata su **Team**, verrà tentato un altro agente prima che venga visualizzato il messaggio di fallback.
+* Al momento esiste un limite di 10 chat live per agente.
 
 >[!MORELIKETHIS]
 >
