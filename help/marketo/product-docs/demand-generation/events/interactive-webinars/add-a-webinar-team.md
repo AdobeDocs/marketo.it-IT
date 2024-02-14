@@ -1,10 +1,8 @@
 ---
 description: Aggiungere un team al webinar - Documentazione di Marketo - Documentazione del prodotto
 title: Aggiungi un team di webinar
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -17,9 +15,9 @@ Un team di webinar nei webinar interattivi è costituito da tutti i ruoli che co
 
 >[!NOTE]
 >
->I relatori e i co-host in Marketo si associano esattamente ai ruoli di presentatore e co-host durante il webinar in Adobe Connect.
+>I relatori e i co-host in Marketo corrispondono esattamente ai ruoli di presentatore e host durante la consegna del webinar in Adobe Connect.
 
-Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’esperienza del webinar, mentre i co-host possono fungere da presentatore e gestire gli aspetti amministrativi della distribuzione del webinar. I co-host possono essere sia interni che esterni. I co-host esterni non avranno accesso ai programmi di eventi di webinar interattivi in Marketo, ma disporranno delle autorizzazioni co-host durante la consegna in Adobe Connect. I co-host interni avranno accesso sia al programma Interactive Webinar Event in Marketo sia alle autorizzazioni co-host durante la consegna. Questo aiuta a garantire che i co-host interni possano prendere le redini del programma di eventi del webinar interattivo quando il creatore originale del programma del webinar interattivo non fa più parte del set di utenti del webinar interattivo o non fa nemmeno parte di un utente Marketo.
+Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’esperienza del webinar, mentre i co-host possono fungere da presentatore e gestire gli aspetti amministrativi della distribuzione del webinar. I co-host possono essere sia interni che esterni. I co-host esterni non avranno accesso ai programmi di eventi di webinar interattivi in Marketo, ma disporranno delle autorizzazioni host durante la consegna in Adobe Connect. I co-host interni avranno accesso sia al programma Interactive Webinar Event in Marketo sia alle autorizzazioni host durante la consegna. Questo aiuta a garantire che i co-host interni possano prendere le redini del programma di eventi del webinar interattivo quando il creatore originale del programma del webinar interattivo non fa più parte del set di utenti del webinar interattivo o non fa nemmeno parte di un utente Marketo.
 
 >[!PREREQUISITES]
 >
