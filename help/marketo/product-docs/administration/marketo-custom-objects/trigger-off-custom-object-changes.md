@@ -4,9 +4,9 @@ description: Attivare Le Modifiche Agli Oggetti Personalizzati - Documentazione 
 title: Attivazione Di Modifiche All'Oggetto Personalizzato
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,12 @@ ht-degree: 0%
 >
 >Questa funzione è disponibile solo:
 >
->* Per i clienti su [!DNL Orion] infrastruttura
 >* Da utilizzare solo con oggetti personalizzati di Marketo, non con oggetti personalizzati sincronizzati tramite il [!DNL Salesforce] o [!DNL Microsoft Dynamics] integrazione
 >* Come attivatore, non come filtro
 >
 >Contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per attivare i trigger di modifica degli oggetti personalizzati.
 
-Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda. È inoltre possibile creare un elenco avanzato che utilizza *modifica* in un oggetto personalizzato come trigger. Ad esempio, utilizzalo per inviare un’e-mail quando il nome di un corso viene aggiornato.
+Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda. È inoltre possibile creare un elenco avanzato che utilizza _modifica_ in un oggetto personalizzato come trigger. Ad esempio, utilizzalo per inviare un’e-mail quando il nome di un corso viene aggiornato.
 
 >[!NOTE]
 >
