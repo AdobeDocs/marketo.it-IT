@@ -4,16 +4,20 @@ description: Importare un programma - Documentazione di Marketo - Documentazione
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
 
 # Importare un programma {#import-a-program}
 
-Un programma può essere importato da un abbonamento Marketo a un altro. Ad esempio, puoi creare un programma in una sandbox e quindi importarlo nel tuo abbonamento live. Inoltre, puoi importare un programma predefinito da [Libreria programmi Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Un programma può essere importato da un abbonamento di Marketo Engage a un altro. Ad esempio, puoi creare un programma in una sandbox e quindi importarlo nel tuo abbonamento live. Inoltre, puoi importare un programma predefinito da [Libreria programmi Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>I programmi che dispongono di elenchi avanzati contenenti un trigger &quot;L’oggetto personalizzato è aggiornato&quot; causeranno l’interruzione dell’importazione. Rimuovi questo trigger da tutti gli elenchi smart prima di seguire i passaggi descritti di seguito.
 
 ## Importazione di un programma {#importing-a-program}
 
@@ -27,15 +31,15 @@ Un programma può essere importato da un abbonamento Marketo a un altro. Ad esem
 
    >[!NOTE]
    >
-   >Importazione programmi è disponibile solo per gli utenti che dispongono di ruoli con l&#39;autorizzazione Importazione programmi abilitata. Ulteriori informazioni su [gestione di ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* Importazione programmi è disponibile solo per gli utenti che dispongono di ruoli con l&#39;autorizzazione Importazione programmi abilitata. Ulteriori informazioni su [gestione di ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Per collegare un account sandbox al tuo abbonamento live, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Per collegare un account sandbox al tuo abbonamento live, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Seleziona un Marketo **[!UICONTROL Abbonamento]** e un programma da importare. Fai clic su **[!UICONTROL Avanti]**.
+1. Seleziona un Marketo **[!UICONTROL Abbonamento]** e un programma da importare. Clic **[!UICONTROL Successivo]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Specifica un **[!UICONTROL Cartella campagna]** per il programma importato. Fai clic su **[!UICONTROL Avanti]**.
+1. Specifica un **[!UICONTROL Cartella campagna]** per il programma importato. Clic **[!UICONTROL Successivo]**.
 
    ![](assets/import-a-program-4.png)
 
