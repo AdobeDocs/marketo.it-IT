@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: c4ac853f552142a245ba3fe754551b0f1b3cb3fa
+source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9287'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,9 @@ ht-degree: 0%
       + [Istanza ereditata: elenco di controllo di Design Studio](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [Istanza ereditata: documenta la configurazione](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Revisione delle abilità principali](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
+   + Area introduttiva TEMP {#temp-getting-started-area}
+      + [Amministratore](getting-started/temp-getting-started-area/admin.md)
+      + [Database](getting-started/temp-getting-started-area/database.md)
 + Documentazione del prodotto {#product-docs}
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
