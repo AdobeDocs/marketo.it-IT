@@ -4,9 +4,9 @@ description: Note sulla versione - Primavera del 1916 - Documentazione di Market
 title: Note sulla versione - Primavera 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le seguenti funzioni sono incluse nella versione di primavera del 1916. Fai clic
 
 ## [Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-Email Insights è una nuovissima esperienza di analisi dei dati aggregati e-mail, riprogettata end-to-end per prestazioni incredibilmente veloci come parte di Project Orion. Offre un design dell’interfaccia utente completamente nuovo, ottimizzato per soddisfare le esigenze e il flusso di lavoro degli esperti di e-mail marketing.
+Email Insights è una nuovissima esperienza di analisi dei dati aggregati e-mail, riprogettata end-to-end per offrire prestazioni incredibilmente veloci. Offre un design dell’interfaccia utente completamente nuovo, ottimizzato per soddisfare le esigenze e il flusso di lavoro degli esperti di e-mail marketing.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Analogamente alla funzione di inserire nell&#39;elenco Consentiti dell’IP per 
 
 ## [Nuovo connettore di sincronizzazione per Microsoft Dynamics ad alta velocità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Progettato sulla base dell&#39;architettura Orion, il nuovo connettore dinamico ad alta velocità offre velocità fino a 20 volte superiori per la sincronizzazione iniziale e fino a 5 volte superiori per la sincronizzazione incrementale. Tutti i nuovi clienti effettueranno l’onboarding a questo connettore alla data di rilascio e lo distribuiremo gradualmente ai clienti esistenti nel periodo di rilascio estivo.
+Il nuovo connettore Dynamics ad alta velocità offre velocità fino a 20 volte superiori per la sincronizzazione iniziale e fino a 5 volte superiori per la sincronizzazione incrementale. Tutti i nuovi clienti effettueranno l’onboarding a questo connettore alla data di rilascio e lo distribuiremo gradualmente ai clienti esistenti nel periodo di rilascio estivo.
 
 **Aggiorna dati per nuovi campi**: ora puoi abilitare nuovi campi di sincronizzazione in qualsiasi momento e tutti i valori dei dati per quel campo verranno aggiornati da Dynamics CRM in Marketo. Nessun ulteriore problema sulla necessità di selezionare tutti i campi durante la configurazione iniziale. Se si disattiva un campo di sincronizzazione esistente e lo si riattiva in un secondo momento, tutti i valori dei dati per tale campo verranno aggiornati da Dynamics CRM in Marketo.
 

@@ -4,9 +4,9 @@ description: Configurare Marketo Sales Insight in Salesforce Professional Editio
 title: Configurare Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,8 @@ Ecco i passaggi da seguire per configurare Marketo Sales Insight in Salesforce P
 ## Configurare Sales Insight in Marketo {#configure-sales-insight-in-marketo}
 
 1. Apri una nuova finestra del browser per ottenere le credenziali di Marketo Sales Insight dal tuo account Marketo.
-1. Vai all’area Amministratore e seleziona **Insight sulle vendite**.
+
+1. Vai a **Amministratore** area e selezione **Insight sulle vendite**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -76,52 +77,6 @@ Ecco i passaggi da seguire per configurare Marketo Sales Insight in Salesforce P
 
 1. Immetti il nome del sito remoto (può essere ad esempio &quot;MarketoRestAPI&quot;). Immetti l’URL del sito remoto, che è l’URL dell’API dal pannello Configurazione API REST in Marketo. Clic **Salva**. Sono state create le impostazioni del sito remoto per l’API REST.
 
-## Configurare Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Accedi all’istanza di Marketo e fai clic su **Amministratore**.
-
-   ![](assets/login-admin-1.png)
-
-1. Clic **Insight sulle vendite**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. Clic **Modifica configurazione API**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. Immetti un **Chiave segreta API** e fai clic su **Salva**.
-
-   >[!CAUTION]
-   >
-   >Non utilizzare una e commerciale (&amp;) nella chiave segreta API.
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >Tieni aperta questa finestra. Queste informazioni saranno necessarie più avanti in Salesforce.
-
-1. Torna a Salesforce, fai clic su **Configurazione**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. Cercare &quot;sito remoto&quot; e fare clic su **Impostazione sito remoto** in **Controlli di sicurezza**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Clic **Nuovo sito remoto**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Invio **Nome sito remoto** e **URL sito remoto**, quindi fai clic su **Salva**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >Scegli il tuo **Nome sito remoto** (MarketoAPI viene utilizzato qui). Il **URL sito remoto** sono disponibili nel campo Host Marketo della finestra di dialogo Modifica configurazione API dal passaggio 4.
-
 ## Concedi agli utenti di Sales Insight l&#39;accesso al profilo agli oggetti Salesforce standard {#grant-sales-insight-users-profile-access}
 
 A causa dei miglioramenti apportati alla sicurezza di Salesforce, i pacchetti di Scambio app non possono più concedere l’autorizzazione agli oggetti standard e sarà necessario concedere l’accesso agli oggetti Salesforce pertinenti dal profilo dell’utente Salesforce. Per concedere le autorizzazioni necessarie, segui la procedura riportata di seguito.
@@ -134,7 +89,7 @@ A causa dei miglioramenti apportati alla sicurezza di Salesforce, i pacchetti di
 
 1. Nella sezione Autorizzazione oggetto standard, abilitare l&#39;accesso in lettura per i seguenti oggetti: lead, contatto, account e opportunità.
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
 ## Personalizza layout di pagina {#customize-page-layouts}
 
