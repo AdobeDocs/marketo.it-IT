@@ -4,9 +4,9 @@ description: "Aggiungi [!DNL Munchkin] Codice di tracciamento per il tuo sito we
 title: "Aggiungi [!DNL Munchkin] Codice di tracciamento per il tuo sito web"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Mu
 
 >[!NOTE]
 >
->I clienti Adobe Experience Cloud possono inoltre utilizzare l’integrazione di Marketo in Adobe Launch per includere [!DNL Munchkin] nelle loro pagine web. Scarica l’app [qui](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Gli utenti di Adobe Experience Cloud possono inoltre utilizzare [Integrazione di Marketo in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} da includere [!DNL Munchkin] nelle loro pagine web. Se utilizzi Adobe Launch, _il [!DNL Munchkin] lo script viene aggiunto automaticamente_, quindi non è necessario aggiungerlo manualmente.
 
 1. Vai a **[!UICONTROL Amministratore]** area.
 
@@ -59,7 +59,7 @@ Codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Mu
 
    >[!TIP]
    >
-   >Per i siti che registrano un elevato volume di traffico (ad esempio centinaia di migliaia di visite al mese), ti consigliamo di scegliere di non tenere traccia delle persone anonime. [Ulteriori informazioni](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >Per i siti che registrano un elevato volume di traffico (ad esempio centinaia di migliaia di visite al mese), ti consigliamo di scegliere di non tenere traccia delle persone anonime. [Ulteriori informazioni](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## Aggiungi Codice Di Tracciamento Quando Si Utilizzano Più Aree Di Lavoro {#add-tracking-code-when-using-multiple-workspaces}
 
