@@ -4,9 +4,9 @@ description: Nascondere e scoprire un campo - Documentazione di Marketo - Docume
 title: Nascondere e scoprire un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ Se non utilizzi più un campo in Marketi Engage, puoi nasconderlo dall’interfa
    >
    >* Per nascondere un campo, non deve essere associato ad altre risorse (comprese quelle archiviate). Assicurati di rimuovere il campo da tutti gli elenchi avanzati, le scelte delle fasi di flusso, i moduli, le e-mail, ecc., prima di nasconderli.
    >* Non è possibile nascondere i campi standard (di sistema).
+   >* Non puoi nascondere i campi di informazioni sull’opportunità.
 
 1. Clic **[!UICONTROL Nascondi]** per confermare.
 
