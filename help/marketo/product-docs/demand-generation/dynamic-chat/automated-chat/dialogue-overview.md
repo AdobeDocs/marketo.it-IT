@@ -2,8 +2,8 @@
 description: Panoramica della finestra di dialogo - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica della finestra di dialogo
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 5%
@@ -64,10 +64,10 @@ Nella scheda Rapporti potrai vedere le metriche relative alle prestazioni della 
 
 È possibile disattivare (e riattivare) tutte le finestre di dialogo pubblicate contemporaneamente.
 
-1. In Dynamic Chat, fai clic su **Configurazione** scheda.
+1. In Dynamic Chat, fai clic su **[!UICONTROL Configurazione]** scheda.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Attiva/disattiva **Chat abilitata** disattiva per disattivare (e riattiva per riattivare) tutte le finestre di dialogo.
+1. Attiva/disattiva **[!UICONTROL Chat abilitata]** disattiva per disattivare (e riattiva per riattivare) tutte le finestre di dialogo.
 
    ![](assets/dialogue-overview-5.png)

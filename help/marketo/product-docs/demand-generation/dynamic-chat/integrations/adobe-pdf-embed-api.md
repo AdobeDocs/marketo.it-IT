@@ -2,10 +2,10 @@
 description: API per l’incorporamento di Adobe PDF - Documentazione di Marketo - Documentazione del prodotto
 title: API Adobe PDF Embed
 feature: Dynamic Chat
-exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ La scheda Documento consente di incorporare documenti PDF nelle finestre di dial
 
 1. Accedi a [API di incorporamento Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Clic **Ottieni credenziali**.
+1. Clic **[!UICONTROL Ottieni credenziali]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ La scheda Documento consente di incorporare documenti PDF nelle finestre di dial
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Immetti le credenziali, accetta i termini e fai clic su **Crea credenziali**.
+1. Immetti le credenziali, accetta i termini e fai clic su **[!UICONTROL Crea credenziali]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,15 +32,15 @@ La scheda Documento consente di incorporare documenti PDF nelle finestre di dial
    >
    >Dovrai utilizzare il dominio in cui ospiterai il chatbot (ad esempio, se ospiti il chatbot su mycompany.com, assicurati di immetterlo nel passaggio 4).
 
-1. Clic **Copia** per copiare l&#39;ID client.
+1. Clic **[!UICONTROL Copia]** per copiare l&#39;ID client.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. Nel Dynamic Chat, fai clic su **Integrazioni**. Nella scheda Adobe PDF Embed API, fai clic su **Attiva**.
+1. Nel Dynamic Chat, fai clic su **[!UICONTROL Integrazioni]**. Nella scheda Adobe PDF Embed API, fai clic su **[!UICONTROL Attiva]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. Incolla l’ID client e fai clic su **Salva**.
+1. Incolla [!UICONTROL ID client] e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

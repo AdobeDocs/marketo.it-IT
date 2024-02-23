@@ -3,10 +3,10 @@ description: Criteri di pubblico - Documentazione di Marketo - Documentazione de
 title: Criteri di audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 2%
+source-wordcount: '597'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Analogamente agli elenchi avanzati dei Marketi Engage, gli attributi dei criteri
 
 ## Priorità {#priority}
 
-La priorità determina quale finestra di dialogo riceve un lead nel caso in cui sia idoneo per più di una. Viene stabilito quando si inizia [creare la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Per modificare la priorità di una finestra di dialogo esistente, aprila e vai a **Dettagli finestra di dialogo** nella scheda Criteri del pubblico.
+La priorità determina quale finestra di dialogo riceve un lead nel caso in cui sia idoneo per più di una. Viene stabilito quando si inizia [creare la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Per modificare la priorità di una finestra di dialogo esistente, aprila e vai a **[!UICONTROL Dettagli finestra di dialogo]** nella scheda Criteri del pubblico.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ La priorità determina quale finestra di dialogo riceve un lead nel caso in cui 
 
 Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimento o alla durata della loro presenza sulla pagina/sito. Nell’esempio seguente, eseguiamo il targeting dei visitatori che si trovano su una pagina specifica da più di 20 secondi.
 
-1. Acquisisci **Tempo sulla pagina** e trascinarlo a destra.
+1. Acquisisci **[!UICONTROL Tempo sulla pagina]** e trascinarlo a destra.
 
    ![](assets/audience-criteria-3.png)
 
@@ -40,9 +40,9 @@ Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimen
 
 **Persone note**
 
-Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio seguente, eseguiamo il targeting di tutti **persone note** in California che lavorano in un&#39;azienda con più di 50 dipendenti.
+Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio seguente, il targeting riguarda tutte le persone note in California che lavorano in un’azienda con più di 50 dipendenti.
 
-1. Acquisisci **Stato della persona** e trascinarlo verso destra.
+1. Acquisisci **[!UICONTROL Stato della persona]** e trascinarlo verso destra.
 
    ![](assets/audience-criteria-7.png)
 
@@ -50,7 +50,7 @@ Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio segu
 
    ![](assets/audience-criteria-8.png)
 
-1. Acquisisci **Dimensioni società** e trascinarlo nel punto in cui è indicato _trascina e rilascia qui un attributo_.
+1. Acquisisci **[!UICONTROL Dimensioni società]** e trascinarlo nel punto in cui è indicato _trascina e rilascia qui un attributo_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -58,7 +58,7 @@ Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio segu
    >
    >È inoltre possibile scegliere un attributo facendo clic sul relativo **+** icona.
 
-1. Fai clic sul menu a discesa operatore e seleziona **Maggiore di**.
+1. Fai clic sul menu a discesa operatore e seleziona **[!UICONTROL Maggiore di]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -70,17 +70,17 @@ Ed è tutto!
 
 **Persone anonime**
 
-Esiste un modo semplice per eseguire il targeting specifico delle persone che non sono ancora presenti nel database. In questo esempio, eseguiamo il targeting di tutti **persone anonime** si trova nella zona di New York.
+Esiste un modo semplice per eseguire il targeting specifico delle persone che non sono ancora presenti nel database. In questo esempio, il targeting riguarda tutte le persone anonime che si trovano nell&#39;area di New York.
 
-1. Acquisisci **E-mail della persona** e trascinarlo verso destra.
+1. Acquisisci **[!UICONTROL E-mail della persona]** e trascinarlo verso destra.
 
    ![](assets/audience-criteria-12.png)
 
-1. Fai clic sul menu a discesa operatore e seleziona **È vuoto**.
+1. Fai clic sul menu a discesa operatore e seleziona **[!UICONTROL È vuoto]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Acquisisci **Stato dedotto** e trascinarlo nel punto in cui è indicato _trascina e rilascia qui un attributo_.
+1. Acquisisci **[!UICONTROL Stato dedotto]** e trascinarlo nel punto in cui è indicato _trascina e rilascia qui un attributo_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -100,7 +100,7 @@ Utilizza gli elenchi avanzati di Marketo Engage per il pubblico di destinazione 
 >
 >Il membro di un elenco avanzato o il criterio del membro di un elenco richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-1. In Iscrizione, accedi **Membro di elenco avanzato** e lo rilasci sull&#39;area di lavoro.
+1. In Iscrizione, accedi **[!UICONTROL Membro di elenco avanzato]** e lo rilasci sull&#39;area di lavoro.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -133,11 +133,11 @@ Formati accettabili:
 
 **Esclusioni**
 
-Utilizza le esclusioni per assicurarti che la finestra di dialogo **non** in una pagina o area specifica del sito. Le esclusioni seguono lo stesso formato delle inclusioni.
+Utilizza le esclusioni per assicurarti che la finestra di dialogo _non_ in una pagina o area specifica del sito. Le esclusioni seguono lo stesso formato delle inclusioni.
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
 >* [Creare una finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Designer flusso](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
