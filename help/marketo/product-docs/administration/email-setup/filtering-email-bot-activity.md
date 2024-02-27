@@ -3,7 +3,7 @@ description: Filtraggio dell’attività bot e-mail - Documentazione di Marketo 
 title: Filtraggio dell’attività bot e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A volte, l’attività di bot su e-mail può erroneamente gonfiare le aperture d
 Per confermare l’attività da bot usiamo due metodi separati:
 
 * Corrispondenza con [Elenco dei bot di Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: le attività che corrispondono a qualcosa nell’elenco IAB UA/IP (agente utente/indirizzo IP) verranno contrassegnate come bot.
-* Corrispondenza con pattern di prossimità: quando più di due attività si verificano contemporaneamente (in meno di un secondo), vengono identificate come bot. Attributi considerati durante il confronto:
+* Corrispondenza con pattern di prossimità: quando due o più attività si verificano contemporaneamente (in meno di un secondo), vengono identificate come bot. Attributi considerati durante il confronto:
    * ID lead (deve essere lo stesso)
    * Risorsa e-mail (deve essere la stessa)
    * Clic collegamento o apertura e-mail
