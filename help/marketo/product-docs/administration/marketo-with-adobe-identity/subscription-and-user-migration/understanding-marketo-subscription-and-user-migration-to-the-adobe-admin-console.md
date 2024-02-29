@@ -3,9 +3,9 @@ description: Abbonamento a Marketo e migrazione degli utenti al Adobe Admin Cons
 title: Abbonamento a Marketo e migrazione degli utenti a Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1323'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,9 @@ Tutti gli abbonamenti Marketo con fuso orario negli Stati Uniti verranno migrati
 
 **Adobe eseguirà automaticamente prima la migrazione degli amministratori di Marketo**. Quando gli amministratori di Marketo vengono migrati a Adobe Identity, ad essi verrà assegnato il ruolo di amministratore del prodotto di Adobe all’interno dell’applicazione Marketo insieme a tutti gli altri ruoli che avevano in precedenza.
 
-**Se il tuo abbonamento a Marketo ha meno di 75 utenti**, Adobe eseguirà automaticamente la migrazione degli altri utenti. Questo flusso di lavoro mira a fornire il massimo livello di automazione per ridurre al minimo il sovraccarico per gli utenti di Marketo, ad Adobe. Non è richiesta alcuna azione da parte tua per eseguire la migrazione.
+**Se il tuo abbonamento a Marketo ha meno di 75 utenti e non dispone di SSO in Marketo e/o nell’organizzazione di Adobe**, Adobe eseguirà automaticamente la migrazione degli altri utenti. Questo flusso di lavoro mira a fornire il massimo livello di automazione per ridurre al minimo il sovraccarico per gli utenti di Marketo, ad Adobe. Non è richiesta alcuna azione da parte tua per eseguire la migrazione.
 
-**Se il tuo abbonamento a Marketo ha più di 75 utenti**, gli amministratori di prodotto Marketo avranno accesso all’area Self-Service User Migration di Marketo Migration Console, che si trova nell’area di amministrazione di Marketo. Per coloro che necessitano di un maggiore controllo durante il processo di migrazione degli utenti, gli amministratori di prodotto Marketo potranno iniziare a selezionare gli utenti da migrare in batch o tutti in una sola volta. Una volta selezionati gli utenti, gli amministratori possono scegliere &quot;Migra ora&quot; o &quot;Pianifica migrazione&quot; per una data successiva, offrendo agli amministratori flessibilità e controllo massimi su quali utenti vengono migrati quando.
+**Se il tuo abbonamento a Marketo ha più di 75 utenti o ha un SSO in Marketo e/o nell’organizzazione Adobe**, gli amministratori di prodotto Marketo avranno accesso all’area Self-Service User Migration di Marketo Migration Console, che si trova nell’area di amministrazione di Marketo. Per coloro che necessitano di un maggiore controllo durante il processo di migrazione degli utenti, gli amministratori di prodotto Marketo potranno iniziare a selezionare gli utenti da migrare in batch o tutti in una sola volta. Una volta selezionati gli utenti, gli amministratori possono scegliere &quot;Migra ora&quot; o &quot;Pianifica migrazione&quot; per una data successiva, offrendo agli amministratori flessibilità e controllo massimi su quali utenti vengono migrati quando.
 
 >[!NOTE]
 >
