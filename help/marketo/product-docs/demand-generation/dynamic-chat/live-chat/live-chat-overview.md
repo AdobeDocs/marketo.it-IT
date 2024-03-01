@@ -3,7 +3,7 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ Facendo clic sulla scheda della chat dal vivo nel flusso, puoi scegliere come in
 
 ## Notifiche chat in diretta {#live-chat-notifications}
 
-Per ricevere le notifiche del browser per la chat in tempo reale, tutti gli agenti chat in tempo reale devono abilitare le notifiche del browser per il Dynamic Chat quando richiesto.
+>[!IMPORTANT]
+>
+>Per ricevere le notifiche del browser per la chat in tempo reale, tutti gli agenti chat in tempo reale devono abilitare le notifiche del browser per il Dynamic Chat quando richiesto.
 
 ### Abilitazione delle notifiche {#enabling-notifications}
 
