@@ -1,20 +1,24 @@
 ---
-description: Tutorials di tracciamento casella in entrata - Documentazione Marketo - Documentazione del prodotto
+description: Testare, monitorare e comprendere i problemi di recapito dei messaggi con il Powerpack Marketo Engage di recapito dei messaggi e-mail.
 title: Tutorials di tracciamento casella in entrata
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Tutorials di tracciamento casella in entrata {#inbox-tracker-tutorials.md}
+# Tutorials di tracciamento casella in entrata {#inbox-tracker-tutorials}
 
-Test, monitoraggio e comprensione dei problemi di recapito messaggi con Marketo Email Deliverability Powerpack, basato sulla piattaforma di tracciamento della casella in entrata di MessageBird. Inbox Tracker è un’unica applicazione che combina l’intelligenza del programma e la previsione del rendering e del test della casella in entrata delle e-mail per massimizzare le prestazioni delle e-mail.
+Testare, monitorare e comprendere i problemi di recapito dei messaggi con il Powerpack di Marketo Engage Email Deliverability, basato sulla piattaforma di tracciamento della casella in entrata di Bird (precedentemente MessageBird). Inbox Tracker è un’unica applicazione che combina l’intelligenza del programma e la previsione del rendering e del test della casella in entrata delle e-mail per massimizzare le prestazioni delle e-mail.
 
-MessageBird ha creato diversi video di formazione per aiutarti a ottenere il massimo da questo potente strumento.
+>[!AVAILABILITY]
+>
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+
+Bird ha creato diversi video di formazione per aiutarti a ottenere il massimo da questo potente strumento.
 
 ## Panoramica di Inbox Tracker {#inbox-tracker-overview}
 

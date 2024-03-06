@@ -4,9 +4,9 @@ description: Email Deliverability Power Pack - Come importare un elenco di seed 
 title: 'Power Pack per il recapito messaggi e-mail: come importare un elenco di seed'
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Un elenco seed è un elenco di account e-mail presso più provider di caselle postali, tra cui Google Apps, Hotmail, Yahoo! e così via, utilizzati per approssimare la velocità di consegna della casella in entrata rispetto a quella della cartella di posta indesiderata. Ecco come inserire l’elenco nell’istanza Marketo.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Questo articolo è per coloro che hanno un abbonamento Everest attivo in questo momento. Se utilizzi Inbox Tracker by Bird (già MessageBird), i tutorial [si trova qui](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importare un elenco di seed {#import-a-seed-list}
 
@@ -41,7 +41,7 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
    >
    >Utilizza il Seed List Optimizer (Ottimizzatore elenco seed), nella parte superiore della pagina, se desideri che Everest ottimizzi la tua lista.
 
-1. Dopo l’esportazione, l’elenco viene visualizzato come file .txt nella cartella dei download del browser. Recuperalo, e [importa](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) nell’istanza Marketo come elenco statico.
+1. Dopo l&#39;esportazione, l&#39;elenco verrà visualizzato come file .txt nella cartella dei download del browser. Recuperalo, e [importa](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) nell’istanza Marketo come elenco statico.
 
    ![](assets/email-deliverability-power-pack-5.png)
 
