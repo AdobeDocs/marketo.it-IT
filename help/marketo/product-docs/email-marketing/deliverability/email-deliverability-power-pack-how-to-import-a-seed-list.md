@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: Email Deliverability Power Pack - Come importare un elenco di seed - Documenti Marketo - Documentazione del prodotto
-title: 'Power Pack per il recapito messaggi e-mail: come importare un elenco di seed'
+description: Scopri come importare un elenco di seed nell’istanza di Marketo Engage.
+title: Email Deliverability Power Pack - Come importare un elenco di seed
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # Email Deliverability Power Pack: come importare un elenco di seed {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-Un elenco seed è un elenco di account e-mail presso più provider di caselle postali, tra cui Google Apps, Hotmail, Yahoo! e così via, utilizzati per approssimare la velocità di consegna della casella in entrata rispetto a quella della cartella di posta indesiderata. Ecco come inserire l’elenco nell’istanza Marketo.
+Un elenco seed è un elenco di account e-mail presso più provider di caselle postali, tra cui Google Apps, Hotmail, Yahoo! e così via, utilizzati per approssimare la velocità di consegna della casella in entrata rispetto a quella della cartella di posta indesiderata. Di seguito sono riportati i passaggi per inserire l’elenco nell’istanza di Marketo Engage.
 
 >[!IMPORTANT]
 >

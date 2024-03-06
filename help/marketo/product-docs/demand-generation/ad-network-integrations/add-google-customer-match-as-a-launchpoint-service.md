@@ -4,7 +4,7 @@ description: Aggiunta di Google Customer Match as a LaunchPoint Service - Docume
 title: Aggiungere Google Customer Match come servizio LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Con questa integrazione, puoi inviare un pubblico di Marketo Engage a Google per
 
 >[!IMPORTANT]
 >
->A causa del recente aggiornamento dell’API di Google Ads, la funzionalità di sincronizzazione tra Adobe e Google è temporaneamente disabilitata.  Adobe sta attualmente esaminando i requisiti di Google relativi all’aggiornamento.
+>A causa del recente aggiornamento dell’API di Google Ads, la funzionalità di sincronizzazione tra Adobe e Google è temporaneamente disabilitata. Adobe sta attualmente esaminando i requisiti di Google relativi all’aggiornamento.
 
 >[!NOTE]
 >
