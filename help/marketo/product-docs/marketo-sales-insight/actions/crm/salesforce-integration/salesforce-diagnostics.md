@@ -3,9 +3,9 @@ description: Diagnostica Salesforce - Documentazione Marketo - Documentazione de
 title: Diagnostica Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1374'
 ht-degree: 0%
 
 ---
@@ -143,7 +143,7 @@ Parte dell’integrazione con Salesforce include una pagina di diagnostica Sales
 
 **Errore:** INVALID_TYPE\
 **Categoria:** Accesso/convalida\
-**Messaggio:** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE E-mail=&#39;emailid&#39;^ERROR at Row:1:Column:53sIl tipo &#39;Lead&#39; di oggetto non è supportato. Se tenti di utilizzare un oggetto personalizzato, assicurati di aggiungere &quot;__c&quot; dopo il nome dell’entità. Fai riferimento al tuo WSDL o alla chiamata descrittiva per i nomi appropriati
+**Messaggio:** CreatedDate, (SELECT Id FROM Tasks) FROM Lead WHERE E-mail=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` Il tipo &quot;Lead&quot; non è supportato. Se tenti di utilizzare un oggetto personalizzato, assicurati di aggiungere &quot;__c&quot; dopo il nome dell’entità. Fai riferimento al tuo WSDL o alla chiamata descrittiva per i nomi appropriati
 **Cosa sta succedendo:** Stiamo tentando di eseguire una query su un tipo di oggetto da Salesforce a cui l’utente non ha accesso. Ciò è probabilmente dovuto al fatto che l’utente non dispone del diritto di accesso all’oggetto lead.\
 **Passaggi per la risoluzione dei problemi:** Concedi l’accesso in lettura e aggiornamento all’oggetto Lead in Salesforce, oppure disattiva la registrazione e-mail e la registrazione delle attività più recenti per i record dei lead.
 
