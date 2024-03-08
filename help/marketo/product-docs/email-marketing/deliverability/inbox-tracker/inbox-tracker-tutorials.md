@@ -1,18 +1,18 @@
 ---
-description: Testare, monitorare e comprendere i problemi di recapito dei messaggi con il Powerpack Marketo Engage di recapito dei messaggi e-mail.
+description: Test, monitoraggio e comprensione dei problemi di recapito messaggi con Inbox Tracker.
 title: Tutorials di tracciamento casella in entrata
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Tutorials di tracciamento casella in entrata {#inbox-tracker-tutorials}
 
-Testare, monitorare e comprendere i problemi di recapito dei messaggi con il Powerpack di Marketo Engage Email Deliverability, basato sulla piattaforma di tracciamento della casella in entrata di Bird (precedentemente MessageBird). Inbox Tracker è un’unica applicazione che combina l’intelligenza del programma e la previsione del rendering e del test della casella in entrata delle e-mail per massimizzare le prestazioni delle e-mail.
+Test, monitoraggio e comprensione dei problemi di recapito messaggi con gli strumenti di recapito messaggi e-mail basati sulla piattaforma di tracciamento della casella in entrata di Bird (precedentemente MessageBird). Inbox Tracker è un’unica applicazione che combina l’intelligenza del programma e la previsione del rendering e del test della casella in entrata delle e-mail per massimizzare le prestazioni delle e-mail.
 
 >[!AVAILABILITY]
 >

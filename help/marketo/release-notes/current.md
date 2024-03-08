@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '216'
 ht-degree: 4%
 
 ---
@@ -31,8 +31,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td><strong>Logica di flusso conversazionale avanzata</strong>: aggiungi ulteriori campi per la valutazione in un’unica scelta per il follow-up del flusso conversazionale.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni di flusso conversazionale per Forms Marketo Engage</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    </tr>
     <tr> 
    <td><strong>Riordina logica di flusso conversazionale</strong>: in Forms per Marketi Engage, è ora possibile riordinare le scelte di Flusso conversazionale, invece di dover eliminare e aggiungere di nuovo.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni di flusso conversazionale per Forms Marketo Engage</a></td>
    </tr>
   <tr> 
    <td> </td> 

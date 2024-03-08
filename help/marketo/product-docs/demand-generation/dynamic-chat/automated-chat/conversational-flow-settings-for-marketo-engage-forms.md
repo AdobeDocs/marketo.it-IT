@@ -3,9 +3,9 @@ description: Impostazioni Del Flusso Di Conversazione Per Forms Di Marketo Engag
 title: Impostazioni del flusso conversazionale per Marketi Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Rendi conversazionale Forms di Marketo Engage integrandolo con Flussi conversazi
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Seleziona il flusso conversazionale e il tipo di consegna desiderati.
+1. Seleziona il **[!UICONTROL Flusso conversazionale]** e **[!UICONTROL Tipo di consegna]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Rendi conversazionale Forms di Marketo Engage integrandolo con Flussi conversazi
    >
    >[Ulteriori informazioni sui flussi conversazionali](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **PASSAGGIO FACOLTATIVO**: puoi fare clic su Aggiungi scelta per rivolgerti ai visitatori della chat che soddisfano un criterio specifico.
+   **PASSAGGIO FACOLTATIVO**: puoi fare clic su **[!UICONTROL Aggiungi scelta]** per eseguire il targeting dei visitatori della chat che soddisfano un criterio specifico. Puoi aggiungere fino a nove scelte per un totale di dieci.
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >Il browser del visitatore deve essere utilizzato come cookie come persona nota prima dell’invio del modulo per essere idoneo a essere membro di Static/Smart List.
 
-1. Clic **[!UICONTROL Fine]** al termine.
+   **PASSAGGIO FACOLTATIVO**: fai clic su **+** firma all’interno di ogni passaggio per aggiungere altri attributi, che ti consentono di restringere il pubblico di destinazione (gli attributi disponibili sono i campi scelti per il modulo). In questo esempio, il targeting riguarda gli Adobi tecnici scrittori in California.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >Criterio Logica impostata su &quot;all&quot; significa che ogni attributo deve essere soddisfatto per essere qualificato. La logica dei criteri impostata su &quot;any&quot; indica che è sufficiente uno qualsiasi degli attributi.
+
+   **PASSAGGIO FACOLTATIVO**: se aggiungi due o più scelte, puoi riordinarle facendo clic sulle relative frecce su/giù.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. Clic **[!UICONTROL Fine]** al termine.
+
+   ![](assets/conversational-flow-settings-10.png)
