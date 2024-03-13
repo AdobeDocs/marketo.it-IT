@@ -4,9 +4,9 @@ description: Note sulla versione - Primavera del 18 - Documentazione di Marketo 
 title: Note sulla versione - Primavera 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -76,10 +76,6 @@ La navigazione ottimizzata e i flussi di lavoro migliorati consentono di visuali
 Imposta l’obiettivo dell’algoritmo di ottimizzazione ContentAI per distribuire più visualizzazioni, clic o conversioni.
 
 ## Integrazione e API {#integration-and-apis}
-
-[Integrazione di facebook Workplace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Inviare notifiche di sistema e momenti interessanti a Facebook Workplace.
 
 [API di elenco statico](https://developers.marketo.com/rest-api/assets/static-lists/)
 
