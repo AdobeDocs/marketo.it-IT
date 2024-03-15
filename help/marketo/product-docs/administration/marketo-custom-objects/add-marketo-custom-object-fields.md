@@ -4,7 +4,7 @@ description: Aggiungere campi oggetto personalizzati Marketo - Documentazione Ma
 title: Aggiungi campi oggetto personalizzati Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -29,7 +29,7 @@ I campi definiscono le informazioni specifiche utilizzate da un oggetto personal
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Campi]** , quindi **[!UICONTROL Nuovo campo]**.
+1. Fai clic su **[!UICONTROL Campi]** , quindi **[!UICONTROL Nuovo campo]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 

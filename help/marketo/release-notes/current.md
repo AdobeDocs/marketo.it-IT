@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 4%
+source-wordcount: '296'
+ht-degree: 3%
 
 ---
 
@@ -60,5 +60,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 <br/>
 
 ## Annunci {#announcements}
+
+* **Recupera correzione API membro del programma**: di recente è stata apportata una modifica per correggere il comportamento di [Ottieni membri del programma](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} endpoint. In precedenza, quando si utilizzava il tipo di filtro updateAt per specificare un intervallo di date, c’era la possibilità che i record di appartenenza al programma aggiornati all’interno di tale intervallo non venissero inclusi nella risposta. Inoltre, è possibile che i record di iscrizione al programma aggiornati al di fuori dell’intervallo di date specificato non vengano inclusi correttamente nella risposta. Entrambi i problemi sono stati risolti.
 
 * **Plug-in di Account Insight Browser obsoleto**: l’Adobe sta rimuovendo la gestione dell’account Target [Plug-in del browser Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
