@@ -4,9 +4,9 @@ description: Champion/Challenger - Indirizzo mittente - Documenti Marketo - Docu
 title: Champion/Challenger - Indirizzo mittente
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ Vuoi provare un indirizzo diverso da senza complicazioni? Ecco come.
    >
    >**Esempio**
    >
-   >Nella distribuzione mostrata sopra, il 15% del pubblico totale specificato nell’elenco avanzato riceve una delle e-mail con uno sfidante Dall’indirizzo e l’85% riceve l’e-mail con il campione Dall’indirizzo. Le e-mail per più sfidanti dagli indirizzi condividono il 15% equamente. Al termine del test, puoi dichiarare manualmente un vincitore. Da quel momento in poi, tutte le persone future riceveranno i contenuti con le prestazioni migliori.
+   >Nella distribuzione mostrata sopra, il 15% del pubblico totale specificato nella Lista Smart riceve una delle e-mail con uno sfidante Dall’indirizzo e l’85% riceve l’e-mail con il campione Dall’indirizzo. Le e-mail per più sfidanti dagli indirizzi condividono il 15% equamente. Al termine del test, puoi dichiarare manualmente un vincitore. Da quel momento in poi, tutte le persone future riceveranno i contenuti con le prestazioni migliori. In Trigger campagne, la percentuale realizzata può differire dalla percentuale selezionata, in quanto la distribuzione potrebbe non essere allineata con precisione alle percentuali scelte. Ciò può accadere quando una variante elabora un numero significativo di persone non abbonate o quando una variante è un’e-mail operativa mentre le altre non lo sono.
 
-   Per ottenere l’affidabilità statistica, assicurati di scegliere una percentuale che includa un numero sufficiente di persone per la validità del test. Non fatevi ingannare da risultati inconcludenti. [Più informazioni di quante ne aveste mai desiderate sull&#39;affidabilità statistica](https://en.wikipedia.org/wiki/Confidence_interval).
+   Per ottenere l’affidabilità statistica, assicurati di scegliere una percentuale che includa un numero sufficiente di persone per la validità del test. Non fatevi ingannare da risultati inconcludenti.
 
 1. Clic **Successivo**.
 

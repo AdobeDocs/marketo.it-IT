@@ -4,9 +4,9 @@ description: Champion/Challenger - Oggetto - Documentazione Marketo - Documentaz
 title: Champion/Challenger - Oggetto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ ht-degree: 0%
    >
    >**Esempio**
    >
-   >Nella distribuzione mostrata sopra, il 10% del pubblico totale specificato nella lista smart riceve una delle e-mail con l’oggetto della sfida e il 90% riceve e-mail con l’oggetto principale. Le e-mail con più righe di oggetti sfidanti condividono il 10% in parti uguali. Al termine del test, puoi dichiarare manualmente un vincitore. Da quel momento in poi, tutte le persone future riceveranno i contenuti con le prestazioni migliori.
+   >Nella distribuzione mostrata sopra, il 10% del pubblico totale specificato nella Lista Smart riceve una delle e-mail con l’oggetto della sfida e il 90% riceve e-mail con l’oggetto principale. Le e-mail con più righe di oggetti sfidanti condividono il 10% in parti uguali. Al termine del test, puoi dichiarare manualmente un vincitore. Da quel momento in poi, tutte le persone future riceveranno i contenuti con le prestazioni migliori. In Trigger campagne, la percentuale realizzata può differire dalla percentuale selezionata, in quanto la distribuzione potrebbe non essere allineata con precisione alle percentuali scelte. Ciò può accadere quando una variante elabora un numero significativo di persone non abbonate o quando una variante è un’e-mail operativa mentre le altre non lo sono.
 
-   Per ottenere affidabilità statistica, assicurati che la percentuale scelta includa un numero sufficiente di persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti. [Più informazioni di quante ne aveste mai desiderate sull&#39;affidabilità statistica](https://en.wikipedia.org/wiki/Confidence_interval).
+   Per ottenere affidabilità statistica, assicurati che la percentuale scelta includa un numero sufficiente di persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti.
 
 1. Clic **Successivo**.
 

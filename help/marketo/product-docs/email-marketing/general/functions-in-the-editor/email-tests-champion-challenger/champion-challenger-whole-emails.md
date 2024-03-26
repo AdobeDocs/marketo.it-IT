@@ -4,9 +4,9 @@ description: Champion/Challenger - E-mail intere - Documenti Marketo - Documenta
 title: Champion/Challenger - E-mail intere
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,9 @@ Verifica e-mail intere tra loro. Al termine del test, invia l&#39;esecutore prin
    >
    >**Esempio**
    >
-   >Nella distribuzione mostrata sopra, il 15% del pubblico totale specificato nella lista intelligente riceve una delle e-mail della sfida e l’85% riceve l’e-mail del campione. Più e-mail di sfida condividono il 15% in parti uguali. Al termine del test, puoi dichiarare manualmente un vincitore. Da quel momento in poi, tutte le persone future riceveranno i contenuti con le prestazioni migliori.
+   >Nella distribuzione mostrata sopra, il 15% del pubblico totale specificato nella Lista Smart riceve una delle e-mail della sfida e l’85% riceve l’e-mail del campione. Più e-mail di sfida condividono il 15% in parti uguali. Al termine del test, puoi dichiarare manualmente un vincitore. Da quel momento in poi, tutte le persone future riceveranno i contenuti con le prestazioni migliori. In Trigger campagne, la percentuale realizzata può differire dalla percentuale selezionata, in quanto la distribuzione potrebbe non essere allineata con precisione alle percentuali scelte. Ciò può accadere quando una variante elabora un numero significativo di persone non abbonate o quando una variante è un’e-mail operativa mentre le altre non lo sono.
 
    Per ottenere la sicurezza statistica, assicurati che la percentuale assegnata agli sfidanti includa un numero sufficiente di persone per la validità del test. Non fatevi ingannare da risultati inconcludenti.
-
-   [Più informazioni di quante ne aveste mai desiderate sull&#39;affidabilità statistica](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Clic **Successivo**.
 
