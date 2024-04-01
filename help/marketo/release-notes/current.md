@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 3%
+source-wordcount: '380'
+ht-degree: 2%
 
 ---
 
@@ -68,3 +68,70 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
  </tbody> 
 </table>
 <br/>
+
+## Annunci {#announcements}
+
+* **Aggiornamento API delle attività**: il 26 aprile, stiamo aggiungendo diversi nuovi attributi alle attività basate su web e e-mail che vengono restituiti quando recuperi le attività utilizzando [API REST di Marketo](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} endpoint per rivedere i dettagli dell&#39;attributo per ogni attività.
+
+**Attività basate sul web**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Attività</th> 
+   <th style="width:70%">Attributi appena aggiunti</th>
+   </tr>
+  <tr> 
+   <td>Visita pagina Web</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+   <tr> 
+   <td>Compila modulo</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+  <tr> 
+   <td>Fai clic sul collegamento</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+ </tbody> 
+</table>
+
+**Attività basate su e-mail**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Attività</th> 
+   <th style="width:70%">Attributi appena aggiunti</th>
+  </tr>
+   <tr> 
+   <td>Invia e-mail</td> 
+   <td>Browser, Platform, Device, Agente utente</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>E-mail consegnata</td> 
+   <td>Browser, Platform, Device, Agente utente</td>
+  </tr>
+   <tr> 
+   <td>E-mail non recapitata</td> 
+   <td>Browser, Platform, Device, Agente utente</td>
+  </tr>
+  <tr> 
+   <td>Annulla iscrizione e-mail</td> 
+   <td>Browser, Platform, Device</td>
+  </tr>
+  <tr> 
+   <td>Apri e-mail</td> 
+   <td>Browser</td>
+  </tr>
+   <tr> 
+   <td>Fai clic su E-mail</td> 
+   <td>Browser</td>
+  </tr>
+  <tr> 
+   <td>E-mail non recapitata temporaneamente</td> 
+   <td>Browser, Platform, Device, Agente utente</td>
+  </tr>
+ </tbody> 
+</table>

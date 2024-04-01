@@ -4,7 +4,7 @@ title: NUOVO AREA DESIGN STUDIO
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 4%
@@ -141,7 +141,7 @@ TABELLA
 <tbody>
   <tr>
     <td>Struttura delle cartelle</td>
-    <td><li>Creare sottocartelle per ciascun tipo di risorsa e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizzare risorse globali</a>(ad esempio modelli e-mail, e-mail, moduli, immagini e file, pagina di destinazione e modelli di pagina di destinazione) in modo appropriato e semplice da cercare.</li></td>
+    <td><li>Creare sottocartelle per ciascun tipo di risorsa e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizzare risorse globali</a> (ad esempio modelli e-mail, e-mail, moduli, immagini e file, pagina di destinazione e modelli di pagina di destinazione) in modo appropriato e semplice da cercare.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organizzazione di immagini e file mediante le cartelle</a></td>
   </tr>
 </tbody>
