@@ -3,9 +3,9 @@ description: Progettazione flussi - Documentazione di Marketo - Documentazione d
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -156,7 +156,7 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
    ![](assets/stream-designer-17.png)
 
-1. Inserisci un messaggio chatbot e un segnaposto. Assicurati che l’attributo sia mappato al campo appropriato in Marketo e fai clic su **[!UICONTROL Salva]**.
+1. Inserisci un messaggio chatbot e un segnaposto. Assicurati che l’attributo sia mappato al campo appropriato nel Marketo Engage e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
     </tr>
     <tr>
      <td style="width:30%"><strong>Mappa risposta su attributo</strong></td>
-     <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento Marketo.</td>
+     <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento di Marketo Engage.</td>
     </tr>
    </table>
 
