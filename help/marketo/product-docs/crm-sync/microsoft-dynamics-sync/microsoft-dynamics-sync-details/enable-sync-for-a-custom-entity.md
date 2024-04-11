@@ -4,9 +4,9 @@ description: Abilitare la sincronizzazione per un’entità personalizzata - Doc
 title: Abilitare la sincronizzazione per un'entità personalizzata
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
    >
    >Per abilitare o disabilitare un’entità personalizzata, è necessario disabilitare temporaneamente la sincronizzazione globale.
 
-1. In Gestione database fare clic su **[!UICONTROL Sincronizzazione entità Dynamics]** collegamento.
+1. In Gestione database fare clic su **[!UICONTROL Sincronizzazione entità Dynamics]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Fai clic su **[!UICONTROL Sincronizza schema]** collegamento.
+1. Clic **[!UICONTROL Sincronizza schema]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} e/o trigger negli elenchi smart. Al termine, fai clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o trigger (per i record aggiunti, _non_ aggiornato) negli elenchi smart. Al termine, fai clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
@@ -60,7 +60,7 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
    >
    >Durante il processo di sincronizzazione, è possibile notare che &quot;[!UICONTROL Sincronizzazione entità dinamiche]L&#39;elemento &quot; scompare dalla struttura di navigazione. Si tratta di un comportamento previsto che verrà visualizzato nuovamente al termine della sincronizzazione.
 
-1. L’entità ora presenta un segno di spunta verde.
+1. L’entità ora dispone di un segno di spunta verde.
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
