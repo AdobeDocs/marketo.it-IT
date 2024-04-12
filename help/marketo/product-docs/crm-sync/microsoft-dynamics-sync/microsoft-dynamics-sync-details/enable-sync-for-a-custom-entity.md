@@ -4,9 +4,9 @@ description: Abilitare la sincronizzazione per un’entità personalizzata - Doc
 title: Abilitare la sincronizzazione per un'entità personalizzata
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
 
    >[!NOTE]
    >
-   >Per abilitare o disabilitare un’entità personalizzata, è necessario disabilitare temporaneamente la sincronizzazione globale.
+   >È necessario disattivare temporaneamente la sincronizzazione globale per abilitare o disabilitare un&#39;entità personalizzata.
 
 1. In Gestione database fare clic su **[!UICONTROL Sincronizzazione entità Dynamics]**.
 

@@ -1,16 +1,16 @@
 ---
-description: Panoramica - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica
+description: Panoramica di Marketi Engage Modern UX - Documentazione di Marketo - Documentazione del prodotto
+title: Panoramica di Marketi Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 2%
+source-wordcount: '447'
+ht-degree: 1%
 
 ---
 
-# Panoramica {#overview}
+# Panoramica di Marketi Engage Modern UX {#overview}
 
 Benvenuti in Adobe Marketo Engage Modern UX (user experience), un’interfaccia aggiornata che offre una migliore usabilità e un nuovo aspetto sulla piattaforma del Marketo Engage.
 
