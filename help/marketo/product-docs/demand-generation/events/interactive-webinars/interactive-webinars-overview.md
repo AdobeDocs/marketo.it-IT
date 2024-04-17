@@ -3,9 +3,9 @@ description: Panoramica dei webinar interattivi - Documentazione di Marketo - Do
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,10 @@ Sì, puoi controllare quali utenti di Marketo ottengono l’autorizzazione per c
 **È necessario associare nuovamente il webinar con tecnologia Adobe Connect al programma di eventi del webinar interattivo, come per i programmi di eventi Launchpoint?**
 
 No, i programmi di eventi di webinar interattivi creano l’associazione per te.
+
+**Perché alcuni dei miei lead hanno uno stato di &quot;Errore di registrazione&quot; invece di &quot;Registrato&quot;?**
+
+Se il campo &quot;first name&quot; del lead è vuoto, non è possibile registrarsi al webinar. Per risolvere il problema, immettere un nome valido.
 
 **I webinar interattivi vengono registrati automaticamente?**
 
