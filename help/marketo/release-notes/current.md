@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 2%
+source-wordcount: '356'
+ht-degree: 3%
 
 ---
 
@@ -29,17 +29,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
   </tr>
-   <tr> 
-   <td><strong>Modelli per webinar interattivi</strong>: consente di risparmiare tempo creando modelli personalizzati per i layout delle stanze con specifiche adatte alla propria organizzazione.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Miglioramenti ai webinar interattivi</strong>: ora puoi fornire a host e relatori la possibilità di aggiungere un titolo del webinar, rinominare una room e sincronizzare manualmente i dati del coinvolgimento dopo la consegna dell’evento.</td> 
    <td><i>In arrivo</i></td>
