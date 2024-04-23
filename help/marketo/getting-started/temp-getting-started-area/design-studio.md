@@ -4,9 +4,9 @@ title: NUOVO AREA DESIGN STUDIO
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---
@@ -28,16 +28,15 @@ Testo...
   <tr>
     <td>Pagine di destinazione globali</td>
     <td><li>Creare pagine di destinazione globali (in formato libero/guidato).</li>
-    <li>Crea una pagina di test per testare A/B il modello di pagina di destinazione vincente (se applicabile).</li>
-    <li>Imposta il tuo centro di abbonamento Pagina di destinazione entro Marketo Engage (se applicabile).</li></td>
+    <li>Crea una pagina di test per testare A/B il modello di pagina di destinazione vincente (se applicabile).</li></td>
   </tr>
   <tr>
     <td>Modelli</td>
-    <td><li>Crea un design per le pagine di destinazione globali.</li></td>
+    <td><li>Crea una progettazione per le pagine di destinazione globali.</li></td>
   </tr>
   <tr>
     <td>Privacy e conformità</td>
-    <td><li>Includi piè di pagina appropriato tramite <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippet</a> o Token nelle pagine di destinazione per la conformità alla privacy.</li></td>
+    <td><li>Creare un piè di pagina utilizzando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippet</a> o Token nelle pagine di destinazione per la conformità alla privacy.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +53,7 @@ Testo...
 <tbody>
   <tr>
     <td>Forms globale</td>
-    <td><li>Configurazione <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">moduli globali</a> per casi d’uso come preferenze di abbonamento, download di contenuti gestiti, richiesta demo, registrazione a webinar, ecc.</li></td>
+    <td><li>Configurazione <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">moduli globali</a> per casi d’uso come preferenze di abbonamento, download di contenuti gestiti, richieste demo, registrazioni di webinar, ecc.</li></td>
   </tr>
   <tr>
     <td>Privacy e conformità</td>
@@ -62,7 +61,7 @@ Testo...
   </tr>
   <tr>
     <td>Standardizzazione dati</td>
-    <td><li>Valuta l’applicazione di elenchi a discesa al <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">campi modulo</a> invece di campi di testo aperti per evitare problemi di dati.</li></td>
+    <td><li>Valuta l’applicazione di elenchi a discesa al <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">campi modulo</a> invece di campi di testo aperti per evitare problemi di dati.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,12 +82,12 @@ Testo...
   </tr>
   <tr>
     <td>Modelli</td>
-    <td><li>Progettare un modulo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">modello e-mail</a> con un designer/sviluppatore o inserisci un tuo HTML.</li>
-    <li>Crea un modello e-mail testato per testare A/B il modello e-mail vincente (se applicabile).</li></td>
+    <td><li>Progettare un modulo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">modello e-mail</a> con un designer/sviluppatore o utilizza il tuo HTML.</li>
+    <li>Crea un modello e-mail testato per testare A/B il modello vincente (se applicabile).</li></td>
   </tr>
   <tr>
     <td>Privacy e conformità</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">Aggiungi snippet</a> i modelli e-mail per controllare blocchi riutilizzabili come l’anno del copyright, la posizione globale e il linguaggio specifico per la conformità. Aggiungi token per personalizzare il contenuto in base al pubblico di destinazione.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Aggiungi snippet</a> ai modelli e-mail per controllare blocchi riutilizzabili come l’anno del copyright, la posizione globale e il linguaggio specifico per la conformità. Aggiungi token per personalizzare il contenuto in base al pubblico di destinazione.</li></td>
   </tr>
 </tbody>
 </table>
@@ -105,7 +104,7 @@ Testo...
 <tbody>
   <tr>
     <td>Snippet</td>
-    <td><li>Crea <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Snippet</a> per creare blocchi di contenuto riutilizzabili che possono essere utilizzati per più casi d’uso, ad esempio informazioni di contatto, collegamenti ai social media, informazioni sul marchio, nonché note sulla privacy e sulla conformità nelle e-mail e nelle pagine di destinazione.</li></td>
+    <td><li>Crea <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Snippet</a> disporre di blocchi di contenuto riutilizzabili che possono essere utilizzati per più casi d’uso, ad esempio informazioni di contatto, collegamenti ai social media, informazioni sul marchio e note sulla privacy e sulla conformità nelle e-mail e nelle pagine di destinazione.</li></td>
   </tr>
 </tbody>
 </table>
@@ -142,7 +141,7 @@ Testo...
 <tbody>
   <tr>
     <td>Struttura delle cartelle </td>
-    <td><li>Creare sottocartelle per ciascun tipo di risorsa e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizzare risorse globali</a> (ad esempio, flussi di conversazione, modelli e-mail, e-mail, moduli, immagini e file, pagine di destinazione, modelli di pagina di destinazione, snippet) in modo appropriato e facile da cercare.</li></td>
+    <td><li>Creare sottocartelle per ciascun tipo di risorsa e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizzare risorse globali</a> (ad esempio, flussi di conversazione, modelli e-mail, e-mail, moduli, immagini e file, pagine di destinazione, modelli di pagine di destinazione, snippet, ecc.) in modo appropriato.</li></td>
   </tr>
 </tbody>
 </table>
