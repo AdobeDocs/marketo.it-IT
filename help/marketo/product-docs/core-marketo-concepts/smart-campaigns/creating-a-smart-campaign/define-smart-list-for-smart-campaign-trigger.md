@@ -1,19 +1,23 @@
 ---
 unique-page-id: 1146942
-description: Definire un elenco avanzato per Smart Campaign | Trigger - Documentazione Marketo - Documentazione del prodotto
-title: Definire un elenco avanzato per Smart Campaign | Attivatore
+description: Definire un elenco avanzato per Smart Campaign | Trigger - Documentazione di Marketo - Documentazione del prodotto
+title: Definire un elenco avanzato per Smart Campaign | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-# Definire un elenco avanzato per Smart Campaign | Attivatore {#define-smart-list-for-smart-campaign-trigger}
+# Definire un elenco avanzato per Smart Campaign | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
 Fai in modo che una campagna avanzata venga eseguita su una persona alla volta in base agli eventi live aggiungendo trigger.
+
+>[!CAUTION]
+>
+>Apportare modifiche a un elenco avanzato o a una fase del flusso in una campagna attiva può potenzialmente comprometterne la funzionalità. Se scegli di farlo, procedi con cautela.
 
 1. In Smart Campaign, fai clic su **[!UICONTROL Elenco avanzato]** scheda.
 
@@ -51,7 +55,7 @@ Fai in modo che una campagna avanzata venga eseguita su una persona alla volta i
    >
    >Con più trigger, una persona passa attraverso il flusso se _QUALSIASI_ viene attivato uno dei trigger.
 
-Per eseguire la campagna su un set di persone contemporaneamente, scopri come [Definire un elenco avanzato per Smart Campaign | Lotto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Per eseguire la campagna su un set di persone contemporaneamente, scopri come [Definire un elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

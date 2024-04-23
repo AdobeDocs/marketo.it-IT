@@ -4,7 +4,7 @@ title: NUOVO AREA DESIGN STUDIO
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 3%
@@ -20,8 +20,8 @@ Testo...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Elementi azione</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Elementi azione</th>
   </tr>
 </thead>
 <tbody>
@@ -47,8 +47,8 @@ Testo...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Elementi azione</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Elementi azione</th>
   </tr>
 </thead>
 <tbody>
@@ -72,8 +72,8 @@ Testo...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Oggetto Azione</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Elementi azione</th>
   </tr>
 </thead>
 <tbody>
@@ -98,8 +98,8 @@ Testo...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Oggetto Azione</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Elementi azione</th>
   </tr>
 </thead>
 <tbody>
@@ -115,8 +115,8 @@ Testo...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Elementi azione</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Elementi azione</th>
   </tr>
 </thead>
 <tbody>
@@ -135,8 +135,8 @@ Testo...
 <table>
 <thead>
   <tr>
-    <th>Area</th>
-    <th>Elementi azione</th>
+    <th style="width:20%">Area</th>
+    <th style="width:80%">Elementi azione</th>
   </tr>
 </thead>
 <tbody>
