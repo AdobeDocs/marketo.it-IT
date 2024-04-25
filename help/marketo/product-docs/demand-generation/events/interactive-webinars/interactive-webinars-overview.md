@@ -3,9 +3,9 @@ description: Panoramica dei webinar interattivi - Documentazione di Marketo - Do
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
+source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ No, i programmi di eventi di webinar interattivi creano l’associazione per te.
 **Perché alcuni dei miei lead hanno uno stato di &quot;Errore di registrazione&quot; invece di &quot;Registrato&quot;?**
 
 Se il campo &quot;first name&quot; del lead è vuoto, non è possibile registrarsi al webinar. Per risolvere il problema, immettere un nome valido.
+
+**Si verificano problemi audio/video durante la presentazione di un webinar durante l’accesso alla VPN della mia organizzazione. Cosa devo fare?**
+
+Adobe Connect, la piattaforma di consegna dei webinar interattivi, utilizza WebRTC per la condivisione di audio, video e schermate. È probabile che il firewall di rete dell’organizzazione stia bloccando gli indirizzi/le porte IP utilizzati per la comunicazione basata su WebRTC. Il team IT deve consentire il funzionamento di queste porte per WebRTC. [Ulteriori informazioni](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **I webinar interattivi vengono registrati automaticamente?**
 
