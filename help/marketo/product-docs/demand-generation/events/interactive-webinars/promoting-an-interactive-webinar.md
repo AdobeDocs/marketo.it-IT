@@ -2,10 +2,10 @@
 description: Promozione di un webinar interattivo - Documentazione di Marketo - Documentazione del prodotto
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ Puoi utilizzare i token per includere l’URL del webinar per singoli membri in 
 Sul lato destro della scheda Panoramica nel programma dell’evento sono disponibili collegamenti per creare una pagina di destinazione e una campagna e-mail. Le altre promozioni relative a un evento rimangono invariate rispetto ai webinar dei partner che utilizzano l’integrazione Launchpoint.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+I webinar interattivi consentono di richiedere la registrazione prima, durante o dopo un webinar. In tutti i casi, dovrai semplicemente condividere l’URL del webinar con il lead. Facendo clic sul collegamento prima dell’inizio del webinar, vengono inviate a una pagina di destinazione precedente al webinar. Facendo clic su di esso durante il webinar, vengono indirizzati al webinar in corso. Facendo clic su di esso dopo il webinar, viene visualizzata una registrazione del webinar.

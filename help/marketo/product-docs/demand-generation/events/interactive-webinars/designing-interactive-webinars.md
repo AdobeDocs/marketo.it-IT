@@ -3,9 +3,9 @@ description: Progettazione di webinar interattivi - Documentazione di Marketo - 
 title: Progettazione di webinar interattivi
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '475'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,9 @@ Scopri come progettare il webinar in base alle tue esigenze.
 
    >[!NOTE]
    >
-   >Una stanza è uno spazio online utilizzato per condurre riunioni.
+   >* Una stanza è uno spazio online utilizzato per condurre riunioni.
+   >
+   >* Se scegli una room di webinar esistente e devi rinominarla, fai clic sul pulsante **Rinomina sala webinar** a destra.
 
 1. Scegli un modello.
 
