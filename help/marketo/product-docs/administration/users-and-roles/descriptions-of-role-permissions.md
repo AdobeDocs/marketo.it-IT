@@ -4,9 +4,9 @@ description: Descrizioni delle autorizzazioni per il ruolo - Documentazione di M
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
 workflow-type: tm+mt
-source-wordcount: '1137'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,18 @@ Quando [creare o modificare un ruolo](/help/marketo/product-docs/administration/
 
 Visualizza e modifica le impostazioni nella sezione Account personale dell’amministratore.
 
+* Accedere ad Adobe Connect: consente agli utenti di accedere alla schermata Adobe Connect
+* Accedere a Adobe Experience Manager&#42; - Consente agli utenti di accedere alla schermata Adobe Experience Manager
+* Mappatura organizzazione Adobe di accesso&#42; - Consente agli utenti di accedere alla schermata Mappatura organizzazione Adobe
+* Accedi ad Admin Audit Trail&#42; - Consente agli utenti di accedere alla schermata Admin Audit Trail (Admin Audit Trail)
+* Accedi a prova di verifica dell’accesso&#42; - Consente agli utenti di accedere ad Access Audit Trail
 * Accedi a Audit Trail: consente agli utenti di accedere sia ad Asset Audit Trail che ad Admin Audit Trail
+* Accedere a CAPTCHA: accedere alla schermata CAPTCHA
 * Accesso ai canali: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
 * Limite di comunicazione di accesso: consente agli utenti di abilitare un limite di comunicazione in Admin
 * Accesso al CRM: consente agli utenti di accedere al CRM, ad esempio [!DNL Salesforce] o [!DNL Microsoft Dynamics], in Admin
-* Accesso [[!DNL Data.com]](https://Data.com) - Consente agli utenti di accedere all’azione di flusso Data.com
-* Accedi ad Amministrazione e-mail: consente agli utenti di accedere ad Amministratore e-mail per modificare le impostazioni predefinite, ad esempio i domini di annullamento dell’abbonamento e di branding
+* Accesso [[!DNL Data.com]](https://data.com) - Consente agli utenti di accedere all’azione di flusso Data.com
+* Accedi a Amministrazione e-mail: consente agli utenti di accedere a Amministrazione e-mail per modificare le impostazioni predefinite, ad esempio i domini di annullamento dell’abbonamento e di branding
 * Accesso ai partner eventi: consente agli utenti di accedere a LaunchPoint in Admin
 * Accesso alla gestione dei campi: consente agli utenti di accedere alla gestione dei campi in Admin
 * Caricamento file di accesso: consente agli utenti di caricare immagini e file in Design Studio
@@ -44,9 +50,11 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Posizione di accesso: consente agli utenti di accedere alla posizione in Amministratore per impostare lingua, lingua, fuso orario e valuta predefiniti
 * Cronologia accesso - Consente agli utenti di accedere alla Cronologia accesso utente in Audit Trail
 * Impostazioni di accesso - Consente agli utenti di accedere alle impostazioni di accesso in Amministratore per sicurezza, restrizioni IP e impostazioni dei rapporti degli elenchi avanzati
+* Accedi a nuova esperienza&#42; - Consente agli utenti di accedere alla schermata Nuova esperienza
 * Accedi all’attività personalizzata di Marketo: consente agli utenti di accedere alle attività personalizzate di Marketo in Amministratore
 * Accedi a oggetto personalizzato Marketo: consente agli utenti di accedere a oggetti personalizzati Marketo in Amministrazione
 * Accesso [!DNL Munchkin] - Accesso degli utenti di GIves a [!DNL Munchkin] in Admin, per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
+* Accedere a Predictive Audiences&#42; - Consente agli utenti di accedere alla schermata Predictive Audiences (Tipi di pubblico predittivi)
 * Accedere ad Analytics per il ciclo dei ricavi: consente agli utenti di accedere ad Analytics per il ciclo dei ricavi in Admin, per impostare Riepilogo sincronizzazione e Attribuzione
 * Ruoli di accesso: consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
 * Accedi a Sales Insight: consente agli utenti di gestire Sales Insight in Admin (Amministrazione) per impostare lo stato, la configurazione API, il punteggio persona e altre impostazioni
@@ -58,6 +66,8 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accesso agli utenti: consente agli utenti di modificare e gestire gli utenti (ma non i ruoli) in Amministratore
 * Accedi ai webhook: consente agli utenti di accedere ai webhook in Admin, per impostare dettagli e mappature di risposta
 * Accesso alle aree di lavoro e alle partizioni: consente agli utenti di creare, modificare ed eliminare aree di lavoro e partizioni in Admin
+
+_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## API di accesso  {#access-api}
 
@@ -91,8 +101,11 @@ Offre agli utenti le **Solo API** **Ruolo** accedere alle singole API elencate d
 Consente agli utenti di accedere alle schede di Analytics, a Informazioni e-mail, ai rapporti e ai tre elementi seguenti, a meno che non siano deselezionati.
 
 * Accesso a Gestione ricavi: l&#39;annullamento della selezione comporta la rimozione dell&#39;accesso dell&#39;utente a Gestione ricavi
+* Crea rapporto&#42; : consente agli utenti di creare, clonare, leggere, aggiornare e spostare le risorse dei rapporti in Analytics e nelle attività di marketing, nonché le risorse di Revenue Cycle Modeler
 * Elimina rapporto: se si deseleziona, viene rimossa la possibilità dell’utente di eliminare rapporti
 * Esporta dati di Analytics: se si deseleziona, viene rimossa la possibilità dell’utente di esportare dati di Analytics
+
+_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Accedi a Calendar Presentations {#access-calendar-presentations}
 
@@ -164,6 +177,9 @@ Visualizzare il database e visualizzare e modificare gli elenchi smart/static.
    * Modifica segmentazione
 
 * Elimina persona
+* Crea elenco&#42;
+   * Accesso per creare una risorsa elenco nelle attività di database e marketing
+   * Accesso per creare una risorsa di elenco avanzato in attività di database e marketing
 * Elimina elenco
 * Modifica persona: impedisce la modifica manuale e l’esecuzione di passaggi a flusso singolo; è comunque possibile modificare le persone eseguendo campagne su di esse
 * Esporta persona - Esporta fogli di calcolo con dagli elenchi del database
@@ -173,6 +189,8 @@ Visualizzare il database e visualizzare e modificare gli elenchi smart/static.
 * Eseguire azioni a flusso singolo: consente agli utenti di eseguire **Modifica valore dati** passaggio di flusso sulle persone dal database
 
 * Visualizza dati opportunità: nasconde le informazioni sull’opportunità nella pagina dei dettagli della persona.
+
+_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Accedere alle attività di marketing {#access-marketing-activities}
 
@@ -197,6 +215,7 @@ Visualizza la scheda Attività di marketing, le campagne e le cartelle delle cam
 * Elimina risorsa di marketing
 * Modifica restrizioni campagna
 * Modifica risorsa marketing
+* Esporta attività campagna&#42;
 * Importa programma
 * Importazione elenco
 * Pianifica campagna batch
@@ -205,6 +224,8 @@ Accedere a SEO
 
 * Amministrare SEO
 * SEO standard
+
+_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Targeting e personalizzazione {#targeting-and-personalization}
 
