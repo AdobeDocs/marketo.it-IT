@@ -4,9 +4,9 @@ description: Descrizioni delle autorizzazioni per il ruolo - Documentazione di M
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
+source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accedi ai webhook: consente agli utenti di accedere ai webhook in Admin, per impostare dettagli e mappature di risposta
 * Accesso alle aree di lavoro e alle partizioni: consente agli utenti di creare, modificare ed eliminare aree di lavoro e partizioni in Admin
 
-_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
+_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## API di accesso  {#access-api}
 
@@ -105,7 +105,7 @@ Consente agli utenti di accedere alle schede di Analytics, a Informazioni e-mail
 * Elimina rapporto: se si deseleziona, viene rimossa la possibilità dell’utente di eliminare rapporti
 * Esporta dati di Analytics: se si deseleziona, viene rimossa la possibilità dell’utente di esportare dati di Analytics
 
-_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
+_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Accedi a Calendar Presentations {#access-calendar-presentations}
 
@@ -190,7 +190,7 @@ Visualizzare il database e visualizzare e modificare gli elenchi smart/static.
 
 * Visualizza dati opportunità: nasconde le informazioni sull’opportunità nella pagina dei dettagli della persona.
 
-_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
+_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Accedere alle attività di marketing {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Accedere a SEO
 * Amministrare SEO
 * SEO standard
 
-_&#42;Questa autorizzazione viene introdotta in modalità passiva e non è al momento accessibile, per evitare interruzioni per gli utenti esistenti. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
+_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Targeting e personalizzazione {#targeting-and-personalization}
 
