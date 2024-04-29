@@ -1,11 +1,12 @@
 ---
-description: Centro assistenza - Documentazione di Marketo - Documentazione del prodotto
+description: Centro assistenza - Documentazione del Marketo Engage - Documentazione del prodotto
 title: Centro assistenza
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 4%
 
 ---
@@ -18,39 +19,39 @@ L&#39;Help Center di Adobe Marketo Engage funge da sede centralizzata per l&#39;
 
 Dopo aver effettuato l&#39;accesso al Marketo Engage, fare clic sull&#39;icona Aiuto.
 
-![](assets/help-center-1.png)
+SCHERMATA
 
 ### Guide {#guides}
 
 Le guide fungono da procedure dettagliate rapide per le funzioni più comuni.
 
-![](assets/help-center-2.png)
+SCHERMATA
 
 1. Fai clic sulla guida desiderata per visualizzarla.
 
-   ![](assets/help-center-3.png)
+SCHERMATA
 
 1. Clic **Introduzione**.
 
-   ![](assets/help-center-4.png)
+SCHERMATA
 
 1. Clic **Successivo** per continuare.
 
-   ![](assets/help-center-5.png)
+SCHERMATA
 
 1. Clic **Fine** per uscire dalla procedura dettagliata.
 
-   ![](assets/help-center-6.png)
+SCHERMATA
 
-   >[!TIP]
-   >
-   >Esci dalla guida in qualsiasi momento facendo clic su **Ignora**.
+>[!TIP]
+>
+>Esci dalla guida in qualsiasi momento facendo clic su **Ignora**.
 
 ### Novità {#whats-new}
 
 La scheda Novità contiene tutti i dettagli dell’ultima versione del Marketo Engage.
 
-![](assets/help-center-7.png)
+SCHERMATA
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ La scheda Novità contiene tutti i dettagli dell’ultima versione del Marketo E
 
 La scheda Risorse consente di accedere in modo rapido e diretto a vari modi per ottenere ulteriore assistenza sull’istanza di Marketo Engage.
 
-![](assets/help-center-8.png)
+SCHERMATA
