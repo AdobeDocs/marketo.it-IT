@@ -1,17 +1,17 @@
 ---
 description: Imposta la sezione Attività di marketing per la nuova istanza di Marketo Engage.
-title: Nuova istanza - Elenco di controllo delle attività di marketing
+title: Best practice per le nuove istanze - Elenco di controllo delle attività di marketing
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
 
-# Nuova istanza: elenco di controllo delle attività di marketing {#new-instance-marketing-activities-checklist}
+# Best practice per la nuova istanza: elenco di controllo delle attività di marketing {#new-instance-best-practices-marketing-activities-checklist}
 
 Le attività di marketing ospitano tutte le risorse e i contenuti che compongono i programmi di marketing automatizzato. Quando imposti una nuova istanza di Marketo Engage, un’organizzazione pulita e chiara garantisce a tutti gli utenti di poter trovare e gestire facilmente vari programmi.
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
       + [Configurazione utente](getting-started-2/initial-setup/user-setup.md)
    + Implementazione di una nuova istanza di Marketo Engage {#implementing-a-new-marketo-engage-instance}
       + [Da dove iniziare](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [Nuova istanza: elenco di controllo sezione amministratore](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [Nuova istanza: elenco di controllo del database](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Nuova istanza: elenco di controllo delle attività di marketing](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [Nuova istanza: Elenco di controllo di Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Nuova istanza: documentare la configurazione](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [Best practice per le nuove istanze: elenco di controllo sezione amministratore](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Best practice per le nuove istanze: elenco di controllo del database](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Best practice per la nuova istanza: elenco di controllo delle attività di marketing](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Best practice per le nuove istanze: Elenco di controllo di Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Tecniche consigliate per le nuove istanze: documenta la configurazione](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Aspetti da considerare {#things-to-know}
       + [Glossario Marketo Engage](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [Icona Glossario](getting-started-2/things-to-know/icon-glossary.md)

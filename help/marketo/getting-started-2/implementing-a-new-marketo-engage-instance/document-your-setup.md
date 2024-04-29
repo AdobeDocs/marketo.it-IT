@@ -1,17 +1,17 @@
 ---
 description: Documenta la configurazione della nuova istanza di Marketo Engage.
-title: Nuova istanza - Documenta la configurazione
+title: Tecniche consigliate per le nuove istanze - Documentare la configurazione
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
-# Nuova istanza: documentare la configurazione {#new-instancei-document-your-setup}
+# Tecniche consigliate per le nuove istanze: documenta la configurazione {#new-instance-best-practices-document-your-setup}
 
 Dopo aver appreso le aree principali del prodotto da configurare per una nuova istanza di Marketo Engage, il passaggio successivo consiste nel creare la documentazione per la configurazione dell’istanza e lo stack tecnologico. La documentazione, sia che venga creata tramite foglio di calcolo o un’applicazione di gestione dei progetti, sarà un’ottima risorsa per monitorare lo stato di avanzamento e registrare i dettagli, nonché per mantenere la struttura e la sostenibilità della tua istanza per gli esperti di marketing futuri all’interno della tua organizzazione.
 

@@ -1,17 +1,17 @@
 ---
 description: Imposta la sezione Amministratore per la nuova istanza di Marketo Engage.
-title: Nuova istanza - Elenco di controllo sezione amministratore
+title: Best practice per le nuove istanze - Elenco di controllo sezione amministratore
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 1%
 
 ---
 
-# Nuova istanza: elenco di controllo sezione amministratore {#new-instance-admin-section-checklist}
+# Best practice per le nuove istanze: elenco di controllo sezione amministratore {#new-instance-best-practices-admin-section-checklist}
 
 In qualità di nuovo amministratore che naviga in una nuova istanza del Marketo Engage, applica l’elenco di controllo seguente per aiutarti a guidare attraverso il processo di implementazione. Come per tutte queste guide, puoi scaricare gli elenchi di controllo [LINK] e tieni traccia dei tuoi progressi.
 

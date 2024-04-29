@@ -4,9 +4,9 @@ title: Da dove iniziare
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Benvenuto nella nuova istanza di Adobe Marketo Engage. Preparati a semplificare, automatizzare e misurare le attività e i flussi di lavoro di marketing con potenti funzionalità di automazione del marketing.
 
-In questa guida &quot;Implementazione di una nuova istanza di Marketo Engage&quot;, scopri come implementare senza problemi l’istanza per garantire l’igiene a lungo termine e l’efficienza operativa. Ogni elenco di controllo fornisce passaggi utili per tenere traccia dell’avanzamento della configurazione. Utilizza gli elenchi di controllo scaricabili per documentare il tuo lavoro durante il percorso per i futuri controlli e onboarding delle istanze.
+In questa guida all’implementazione di una nuova istanza di Marketo Engage, scopri le best practice per implementare facilmente l’istanza in modo da garantire l’igiene a lungo termine e l’efficienza operativa. Ogni elenco di controllo fornisce passaggi utili per tenere traccia dell’avanzamento della configurazione. Utilizza gli elenchi di controllo scaricabili per documentare il tuo lavoro durante il percorso per i futuri controlli e onboarding delle istanze.
 
 ## Elenchi Di Controllo Delle Best Practice Per La Nuova Istanza Di Marketo Engage {#best-practice-checklists-new-instance}
 

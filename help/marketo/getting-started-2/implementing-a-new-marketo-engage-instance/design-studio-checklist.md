@@ -1,17 +1,17 @@
 ---
 description: Configurare la sezione Design Studio per la nuova istanza di Marketo Engage.
-title: Nuova istanza - Elenco di controllo di Design Studio
+title: Best practice per le nuove istanze - Elenco di controllo di Design Studio
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 3%
 
 ---
 
-# Nuova istanza: Elenco di controllo di Design Studio {#new-instance-design-studio-checklist}
+# Best practice per le nuove istanze: Elenco di controllo di Design Studio {#new-instance-best-practices-design-studio-checklist}
 
 Nella sezione Design Studio dovrebbero trovarsi le &quot;risorse globali&quot; riutilizzabili. Crea le risorse globali che la tua organizzazione prevede di utilizzare nei programmi, utilizza una convenzione di denominazione coerente e organizzale nelle sottocartelle per semplificare le ricerche.
 

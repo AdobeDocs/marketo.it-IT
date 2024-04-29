@@ -1,17 +1,17 @@
 ---
 description: Impostare la sezione Database per la nuova istanza di Marketo Engage.
-title: Nuova istanza - Elenco di controllo del database
+title: Best practice per le nuove istanze - Elenco di controllo del database
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
 
-# Nuova istanza: elenco di controllo del database {#new-instance-database-checklist}
+# Best practice per le nuove istanze: elenco di controllo del database {#new-instance-best-practices-database-checklist}
 
 La sezione Database fornisce un’istantanea degli attributi chiave relativi alle persone nell’istanza. Scopri i passaggi necessari per spostarti tra i diversi elenchi e segmentazioni nel tuo database e come gestire i record di persone.
 
