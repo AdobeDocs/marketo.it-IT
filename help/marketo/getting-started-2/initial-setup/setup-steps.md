@@ -4,9 +4,9 @@ title: Passaggi di configurazione
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
+source-wordcount: '1735'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ La prima parte (in grassetto) è `[LandingPageCNAME]`. Ne avrai bisogno al punto
 
 Per recuperare l’ID Munchkin che sostituirai con il CNAME della pagina di destinazione, passa all’area Amministratore.
 
-![](assets/setup-steps-9.png)
+SCREENSHOT: setup-steps-9.png
 
 Clic **Il mio account**.
 
-![](assets/setup-steps-10.png)
+SCREENSHOT: setup-steps-10.png
 
 Copia il [!UICONTROL Stringa account] dalle impostazioni della pagina di destinazione.
 
-![](assets/setup-steps-11.png)
+SCREENSHOT: setup-steps-11.png
 
 Questo è il `[Munchkin ID]`. Salvatela. Sarà necessario consegnarlo al reparto IT nel passaggio 5.
 
@@ -100,17 +100,17 @@ La prima parte è il CNAME di tracciamento e-mail, `[EmailTrackingCNAME]`. Sarà
 
 Per trovare il collegamento di tracciamento di Marketo, vai al **[!UICONTROL Amministratore]** area.
 
-![](assets/setup-steps-12.png)
+SCREENSHOT: setup-steps-12.png
 
 Clic **[!UICONTROL E-mail]**.
 
-![](assets/setup-steps-13.png)
+SCREENSHOT: setup-steps-13.png
 
 Copia il [!UICONTROL Collegamento di tracciamento] dalle impostazioni e-mail.
 
 Il [!UICONTROL Collegamento di tracciamento] è nel formato: `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+SCREENSHOT: setup-steps-14.png
 
 Questo è il tuo `[MktoTrackingLink]`. Salvatela. Sarà necessario consegnarlo al reparto IT nel passaggio 5.
 
@@ -215,35 +215,35 @@ Una volta completate le attività, segui questi passaggi per aggiungere la pagin
 
 Vai a **[!UICONTROL Amministratore]** area per aggiungere il CNAME della pagina di destinazione
 
-![](assets/setup-steps-15.png)
+SCREENSHOT: setup-steps-15.png
 
 Seleziona le pagine di destinazione e fai clic su **[!UICONTROL Modifica]** nel [!UICONTROL Impostazioni] area.
 
-![](assets/setup-steps-16.png)
+SCREENSHOT: setup-steps-16.png
 
 Immetti il nuovo nome di dominio nel campo **[!UICONTROL Nome di dominio per le pagine di destinazione]**. Il modulo dovrebbe essere:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+SCREENSHOT: setup-steps-17.png
 
 In **[!UICONTROL Fallback]** pagina, immetti l’URL a cui desideri che le persone accedano se una pagina di destinazione non è disponibile. Se non disponi di una pagina di fallback, puoi utilizzare la home page dell’azienda. In **[!UICONTROL Homepage]** , immettere il sito Web della società.
 
-![](assets/setup-steps-18.png)
+SCREENSHOT: setup-steps-18.png
 
 In [!UICONTROL Amministratore] area, seleziona **[!UICONTROL E-mail]** per aggiungere il CNAME e-mail
 
-![](assets/setup-steps-19.png)
+SCREENSHOT: setup-steps-19.png
 
 Scorri verso il basso fino a [!UICONTROL Domini di branding]. Seleziona il dominio e fai clic su **[!UICONTROL Modifica]**.
 
-![](assets/setup-steps-20.png)
+SCREENSHOT: setup-steps-20.png
 
 Nel campo Dominio, immetti il dominio di tracciamento e-mail. Il modulo dovrebbe essere:
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Fai clic su **[!UICONTROL Salva]**.
 
-![](assets/setup-steps-21.png)
+SCREENSHOT: setup-steps-21.png
 
 ## Integrare il CRM {#integrate-your-crm}
 
