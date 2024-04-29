@@ -4,7 +4,7 @@ title: Da dove iniziare
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,15 +21,15 @@ In questa guida &quot;Implementazione di una nuova istanza di Marketo Engage&quo
 
 Scarica gli elenchi di controllo per l’amministratore della nuova implementazione dell’istanza di Marketo Engage[INSERISCI COLLEGAMENTO], oppure segui le guide online riportate di seguito.
 
-* [Sezione Amministratore](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin.md){target="_blank"}
+* [Sezione Amministratore](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Database](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database.md){target="_blank"}
+* [Database](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Attività di marketing](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities.md){target="_blank"}
+* [Attività di marketing](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio.md){target="_blank"}
+* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Documentare la configurazione della nuova istanza](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/documentation.md){target="_blank"}
+* [Documentare la configurazione della nuova istanza](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Connetti con i tuoi colleghi {#connect-with-your-peers}
 
