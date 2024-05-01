@@ -3,9 +3,9 @@ description: Funzioni di callback - Documentazione di Marketo - Documentazione d
 title: Funzioni callback
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
+source-git-commit: fd070322b6741268595d460318246abd3768dd3d
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '616'
 ht-degree: 3%
 
 ---
@@ -284,7 +284,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### Timeout chat in tempo reale {#live-chat-timeout}
 
-Questo evento viene attivato quando una conversazione live chat scade perché il visitatore non risponde o non risponde.
+Questo evento viene attivato quando una conversazione live chat scade perché il visitatore non risponde più o perché il visitatore non risponde più.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
