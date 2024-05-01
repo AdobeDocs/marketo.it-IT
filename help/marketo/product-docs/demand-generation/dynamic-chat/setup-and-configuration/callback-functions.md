@@ -1,12 +1,11 @@
 ---
 description: Funzioni di callback - Documentazione di Marketo - Documentazione del prodotto
 title: Funzioni callback
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 3%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L&#39;argomento &#39;event&#39; nell&#39;evento è un oggetto con metadati relativi alla conversazione. Puoi accedere ai metadati per event.data
+Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui puoi accedere:
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L&#39;argomento &#39;event&#39; nell&#39;evento è un oggetto con metadati relativi alla conversazione. Puoi accedere ai metadati per event.data
+Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui puoi accedere.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L&#39;argomento &#39;event&#39; nell&#39;evento è un oggetto con metadati relativi alla conversazione. Puoi accedere ai metadati per event.data
+Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui puoi accedere.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-L&#39;argomento &#39;event&#39; nell&#39;evento è un oggetto con metadati relativi alla conversazione. Puoi accedere ai metadati per event.data
+Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui puoi accedere.
 
@@ -338,7 +337,7 @@ Di seguito sono riportati alcuni valori di metadati chiave a cui puoi accedere.
 </tbody>
 </table>
 
-Se desideri inviare uno di questi eventi a una piattaforma di terze parti come Adobe Analytics o Google Analytics, devi aggiungere la rispettiva chiamata di tracciamento all&#39;interno di questi eventi di Dynamic Chat. Avrebbe un aspetto simile all’esempio di seguito.
+Se desideri inviare uno di questi eventi a una piattaforma di analisi come Adobe Analytics o Google Analytics, devi aggiungere la rispettiva chiamata di tracciamento all&#39;interno di questi eventi di Dynamic Chat. Avrebbe un aspetto simile all’esempio di seguito.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
