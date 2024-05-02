@@ -4,9 +4,10 @@ title: Best practice per le nuove istanze - Elenco di controllo di Design Studio
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 3%
 
 ---
@@ -29,8 +30,8 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
 <tbody>
   <tr>
     <td>Pagine di destinazione globali</td>
-    <td><li>Creare pagine di destinazione globali (in formato libero/guidato).</li>
-    <li>Crea una pagina di test per testare A/B il modello di pagina di destinazione vincente (se applicabile).</li></td>
+    <td><li>Crea <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">pagine di destinazione globali (formato libero/guidato)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Creare una pagina di test</a> per eseguire un test A/B del modello di pagina di destinazione vincente (se applicabile).</li></td>
   </tr>
   <tr>
     <td>Modelli</td>
@@ -38,7 +39,7 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
   </tr>
   <tr>
     <td>Privacy e conformità</td>
-    <td><li>Creare un piè di pagina utilizzando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippet</a> o Token nelle pagine di destinazione per la conformità alla privacy.</li></td>
+    <td><li>Creare un piè di pagina utilizzando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Snippet</a> o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Token</a> nelle pagine di destinazione per la conformità alla privacy.</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
     <td>Convenzioni di denominazione</td>
     <td><li>Utilizza convenzioni di denominazione coerenti per immagini e file.</li>  
     <br>Esempi:  
-    <br>Convenzione Di Denominazione Dei File: Tipo Di Risorsa-Nome Risorsa (Es.: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-On-Board) 
-    <p>Convenzione Di Denominazione Delle Immagini: Tipo Di Immagine-Risorsa-Tipo-Nome Risorsa (Ad Es.: Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-On-Board)</td>
+    <br><ul><li>Convenzione Di Denominazione Dei File: Tipo Di Risorsa-Nome Risorsa (Es.: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-On-Board)</li>
+    <p><li>Convenzione Di Denominazione Delle Immagini: Tipo Di Immagine-Risorsa-Tipo-Nome Risorsa (Ad Es.: Thumbnail-White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-On-Board)</li></td>
   </tr>
 </tbody>
 </table>

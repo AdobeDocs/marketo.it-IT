@@ -4,9 +4,10 @@ title: Tecniche consigliate per le nuove istanze - Documentare la configurazione
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 1%
 
 ---
@@ -55,7 +56,7 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
     <br>Tipo ID
     <br>Profilo/i prodotto/i
     <p>
-    <li>In qualità di amministratore di prodotto del Marketo Engage, sviluppa un processo interno per controllare e aggiornare l’elenco degli utenti del Marketo Engage a cadenza regolare. Per apportare modifiche all’elenco degli utenti in Adobe Admin Console, considera <a href="https://helpx.adobe.com/it/enterprise/using/users.html" target="_blank">caricamento del file .csv</a> in blocco.</li></td>
+    <li>In qualità di amministratore di prodotto del Marketo Engage, sviluppa un processo interno per controllare e aggiornare l’elenco degli utenti del Marketo Engage a cadenza regolare. Per apportare modifiche all’elenco degli utenti in Adobe Admin Console, considera <a href="https://helpx.adobe.com/it/enterprise/using/users.html" target="_blank">azioni in blocco</a>, ad esempio il caricamento di un file CSV, l’utilizzo dell’API REST per la gestione utente, ecc.</li></td>
   </tr>
   <tr>
     <td>Organizzazione</td>

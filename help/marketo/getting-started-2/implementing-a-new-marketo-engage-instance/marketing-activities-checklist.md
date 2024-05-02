@@ -4,9 +4,10 @@ title: Best practice per le nuove istanze - Elenco di controllo delle attività 
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '758'
 ht-degree: 1%
 
 ---
@@ -29,20 +30,20 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
 <tbody>
   <tr>
     <td>Convenzioni di denominazione</td>
-    <td><li>Definisci una convenzione di denominazione coerente per la sottoscrizione prima di creare la struttura di cartelle.</li></td>
+    <td><li>Definisci un <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes">convenzione di denominazione coerente</a> per l’abbonamento prima di creare la struttura di cartelle.</li></td>
   </tr>
   <tr>
     <td>Struttura delle cartelle</td>
-    <td><li>Crea una struttura di cartelle coerente e facilmente navigabile facendo riferimento a questo esempio.</td>
+    <td><li>Crea una struttura di cartelle coerente e facilmente navigabile facendo riferimento a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders">questo esempio</a>.</td>
   </tr>
   <tr>
     <td>Programmi</td>
-    <td><li>Crea modelli di programma per ogni canale creato nella sezione di amministrazione. Puoi iniziare facilmente importando il programma dalla Libreria dei programmi. Consulta le specifiche nella tabella "Risorse" di seguito.</li>
-    <li>Determina quali passaggi di flusso delle campagne intelligenti possono essere all’interno di un programma globale rispetto a un programma locale.</li> <li>Includi l’acquisizione, l’iscrizione e il tracciamento del successo come parte del modello di programma per standardizzare il processo.</li></td>
+    <td><li>Creare modelli di programma per <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">ogni canale</a> hai creato nella sezione amministrazione. Puoi iniziare con <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">importazione di programmi</a> dalla Libreria dei programmi. Consulta le specifiche nella tabella "Risorse" di seguito.</li>
+    <li>Determinare quale <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign">passaggi del flusso delle campagne intelligenti</a> può trovarsi in un programma globale o in un programma locale.</li> <li>Includi l’acquisizione, l’iscrizione e il tracciamento del successo come parte del modello di programma per standardizzare il processo.</li></td>
   </tr>
   <tr>
     <td>Archivia</td>
-    <td><li>Determinare una policy su quando archiviare programmi e risorse. Una volta archiviati, gli elementi vengono rimossi sia dagli elenchi selezionati che dai rapporti.</li></td>
+    <td><li>Determinare una policy su quando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder">archiviare programmi e risorse</a>. Una volta archiviati, gli elementi vengono rimossi sia dagli elenchi selezionati che dai rapporti.</li></td>
   </tr>
   <tr>
     <td>Notifiche</td>
@@ -52,6 +53,10 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
 </table>
 
 ## Risorse {#assets}
+
+>[!TIP]
+>
+>Per memorizzare risorse di marketing come programmi, pagine di destinazione ed e-mail in aree separate, consulta la checklist della sezione Amministratore [LINK] per scoprire come impostare le aree di lavoro.
 
 <table>
 <thead>
@@ -65,13 +70,14 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
     <td>Tipi di programmi</td>
     <td><li>Comprendere la <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs">Quattro tipi di programmi</a>.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">Importa modelli di programma</a> dal <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview">Libreria programmi</a> per iniziare.</li>
-    <li>Programma e-mail: nella scheda "Configurazione", <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">abilita limiti di comunicazione</a>(consigliato).</li>
-    <li>Creare un <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">Webinar interattivo</a>, la piattaforma di webinar incorporata, utilizzando un Programma evento e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">associare una room al webinar interattivo</a> programma (consigliato).  <li>Configurazione <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">programmi con punteggio</a> per controllare i segnali di acquisto sul sito web e con i contenuti.</li></td>
+    <li>Programma e-mail: nella scheda "Configurazione", <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">abilita limiti di comunicazione</a> (consigliato).</li>
+    <li>Creare un <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">Webinar interattivo</a>, la piattaforma di webinar incorporata, utilizzando un Programma evento e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">associare una room al webinar interattivo</a> (consigliato).</li>
+    <li>Configurazione <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">programmi con punteggio</a> per controllare i segnali di acquisto sul sito web e con i contenuti.</li></td>
   </tr>
   <tr>
     <td>Token</td>
-    <td><li>Configurazione <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Token</a></li>.
-    <li>Utilizza i token nei tipi di programmi utilizzati regolarmente per aumentare l’efficienza. Valuta l’implementazione di token di cui l’organizzazione ha regolarmente bisogno nel <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html#nesting-tokens">cartella globale</a>.</li></td>
+    <td><li>Configurazione <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Token</a>.</li>
+    <li>Utilizza i token nei tipi di programmi utilizzati regolarmente per aumentare l’efficienza. Valuta l’implementazione di token di cui l’organizzazione ha regolarmente bisogno nel <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens">cartella globale</a>.</li></td>
   </tr>
   <tr>
     <td>Campagne batch</td>
@@ -80,7 +86,7 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
   </tr>
   <tr>
     <td>Attivare campagne</td>
-    <td><li>Configurazione <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html#trigger-campaign">Attivare campagne avanzate</a> utilizzando almeno un trigger all’interno della sezione Elenco avanzato.</li>
+    <td><li>Configurazione <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign">Attivare campagne avanzate</a> utilizzando almeno un trigger all’interno della sezione Elenco avanzato.</li>
     <li>Attiva le campagne avanzate nella scheda "Pianifica" per eseguire le azioni della campagna.</li></td>
   </tr>
   <tr>
@@ -120,8 +126,8 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
   </tr>
   <tr>
     <td>Origine persona</td>
-    <td><li>Creare un programma centralizzato che assegna valori all’origine lead/persona in <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html" target="_blank"> Campi gestiti dal sistema</a></li>.  
-    <li>Importare un programma di gestione dati operativi</a> dalla libreria dei programmi di Marketo per iniziare.</li></td>
+    <td><li>Creare un programma centralizzato che assegna valori all'origine lead/persona nei campi gestiti dal sistema.</li>  
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management">Importare un programma di gestione dati operativi</a> dalla libreria dei programmi di Marketo per iniziare.</li></td>
   </tr>
   <tr>
     <td>Standardizzazione dati</td>
@@ -131,7 +137,7 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
   <tr>
     <td>Gestione delle e-mail non consegnate</td>
     <td><li>Crea un programma operativo per la gestione dei messaggi non recapitati per acquisire tutti i dettagli dei messaggi non recapitati.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.html">Importare un programma di gestione del recapito messaggi</a> dalla libreria dei programmi di Marketo per iniziare.</li></td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management">Importare un programma di gestione del recapito messaggi</a> dalla libreria dei programmi di Marketo per iniziare.</li></td>
   </tr>
   <tr>
     <td>Privacy e conformità</td>
@@ -153,7 +159,7 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
   </tr>
   <tr>
     <td>Recapito e-mail</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html">Creare un rapporto sulle prestazioni delle e-mail</a> per monitorare gli invii di e-mail e le tendenze di recapito messaggi.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report">Creare un rapporto sulle prestazioni delle e-mail</a> per monitorare gli invii di e-mail e le tendenze di recapito messaggi.</li></td>
   </tr>
 </tbody>
 </table>
