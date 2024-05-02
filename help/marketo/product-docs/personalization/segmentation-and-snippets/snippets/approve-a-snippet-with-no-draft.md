@@ -4,9 +4,9 @@ description: Approvare un frammento senza bozza - Documentazione di Marketo - Do
 title: Approvare un frammento senza bozza
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,22 @@ Il comando No-Draft viene attivato ogni volta che viene approvato uno snippet. Q
 
 1. Vai a **Design Studio**.
 
-   ![](assets/go-to-design-studio.png)
+   ![](assets/approve-the-snippet-1.png)
 
-1. Seleziona uno snippet e nel **Azioni snippet** a discesa, scegli **Approva**.
+1. Trova e seleziona lo snippet desiderato.
 
-   ![](assets/approve-snippet.png)
+   ![](assets/approve-the-snippet-2.png)
 
-1. Selezionate un&#39;opzione nella finestra di dialogo Approva snippet (Approve Snippet) e fate clic su **Approva**:
+1. In **Azioni snippet** a discesa, scegli **Approva bozza**.
+
+   ![](assets/approve-the-snippet-3.png)
+
+1. Selezionate un&#39;opzione nella finestra di dialogo Approva snippet (Approve snippet) e fate clic su **Approva**:
 
    * **Aggiorna tutto**: con questa opzione non vengono create bozze delle risorse approvate utilizzando lo snippet. Tutte le risorse ricevono gli aggiornamenti e mantengono gli stati precedenti. Un modulo di avanzamento viene visualizzato sul lato destro superiore dello schermo e può essere chiuso in qualsiasi momento. Per ripristinarlo, fare clic con il pulsante destro del mouse sul nome del frammento e selezionare Mostra stato approvazione.
    * **Creare bozze**: con questa opzione vengono create le bozze delle risorse approvate utilizzando lo snippet. Selezionare questa opzione se è necessario rivedere prima le modifiche apportate al frammento. Tutte le bozze devono essere approvate manualmente
 
-   ![](assets/snippet-dialog-box.png)
+   ![](assets/approve-the-snippet-4.png)
 
    >[!NOTE]
    >
@@ -38,8 +42,8 @@ Il comando No-Draft viene attivato ogni volta che viene approvato uno snippet. Q
 
 >[!CAUTION]
 >
->Questa funzione consente di risparmiare tempo con il flusso di lavoro di approvazione degli snippet. Tuttavia, ci sono alcune limitazioni di cui essere a conoscenza. Consulta [questo documento](https://nation.marketo.com/docs/DOC-4415) per i dettagli. Il documento contiene anche informazioni sulla gestione degli errori e sulla risoluzione dei problemi.
+>Questa funzione consente di risparmiare tempo con il flusso di lavoro di approvazione degli snippet. Tuttavia, ci sono alcune limitazioni di cui essere a conoscenza. Consulta [questo articolo](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} per i dettagli.
 
 >[!MORELIKETHIS]
 >
->[Abilita bozza senza testo per snippet](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
+>[Abilita bozza senza testo per snippet](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
