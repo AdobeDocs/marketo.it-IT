@@ -4,7 +4,7 @@ description: Approvare un frammento senza bozza - Documentazione di Marketo - Do
 title: Approvare un frammento senza bozza
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
+source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Il comando No-Draft viene attivato ogni volta che viene approvato uno snippet. Questo include uno snippet condiviso o a cui fanno riferimento le risorse in altre aree di lavoro.
 
-1. Vai a **Design Studio**.
+1. Vai a **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ Il comando No-Draft viene attivato ogni volta che viene approvato uno snippet. Q
 
    ![](assets/approve-the-snippet-2.png)
 
-1. In **Azioni snippet** a discesa, scegli **Approva bozza**.
+1. In **[!UICONTROL Azioni snippet]** a discesa, scegli **[!UICONTROL Approva bozza]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Selezionate un&#39;opzione nella finestra di dialogo Approva snippet (Approve snippet) e fate clic su **Approva**:
+1. Selezionate un&#39;opzione nella finestra di dialogo Approva snippet (Approve snippet) e fate clic su **[!UICONTROL Approva]**:
 
-   * **Aggiorna tutto**: con questa opzione non vengono create bozze delle risorse approvate utilizzando lo snippet. Tutte le risorse ricevono gli aggiornamenti e mantengono gli stati precedenti. Un modulo di avanzamento viene visualizzato sul lato destro superiore dello schermo e può essere chiuso in qualsiasi momento. Per ripristinarlo, fare clic con il pulsante destro del mouse sul nome del frammento e selezionare Mostra stato approvazione.
-   * **Creare bozze**: con questa opzione vengono create le bozze delle risorse approvate utilizzando lo snippet. Selezionare questa opzione se è necessario rivedere prima le modifiche apportate al frammento. Tutte le bozze devono essere approvate manualmente
+   * **[!UICONTROL Aggiorna tutto]**: con questa opzione non vengono create bozze delle risorse approvate utilizzando lo snippet. Tutte le risorse ricevono gli aggiornamenti e mantengono gli stati precedenti. Un modulo di avanzamento viene visualizzato sul lato destro superiore dello schermo e può essere chiuso in qualsiasi momento. Per ripristinarlo, fare clic con il pulsante destro del mouse sul nome del frammento e selezionare Mostra stato approvazione.
+   * **[!UICONTROL Creare bozze]**: con questa opzione vengono create le bozze delle risorse approvate utilizzando lo snippet. Selezionare questa opzione se è necessario rivedere prima le modifiche apportate al frammento. Tutte le bozze devono essere approvate manualmente
 
    ![](assets/approve-the-snippet-4.png)
 
