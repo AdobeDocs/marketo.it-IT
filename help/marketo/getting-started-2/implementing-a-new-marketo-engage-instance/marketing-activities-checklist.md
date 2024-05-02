@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---
@@ -54,9 +54,9 @@ Ricordati di scaricare le liste di controllo [LINK] e tieni traccia dei tuoi pro
 
 ## Risorse {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->Per memorizzare risorse di marketing come programmi, pagine di destinazione ed e-mail in aree separate, consulta la checklist della sezione Amministratore [LINK] per scoprire come impostare le aree di lavoro.
+>Per memorizzare risorse di marketing come programmi, pagine di destinazione ed e-mail in aree separate, fai riferimento a [Elenco di controllo sezione amministratore](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) per scoprire come impostare le aree di lavoro.
 
 <table>
 <thead>
