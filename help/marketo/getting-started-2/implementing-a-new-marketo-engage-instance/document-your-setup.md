@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 2%
 
 ---
 
@@ -51,18 +51,18 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
   <tr>
     <td>Utenti</td>
     <td><li>Documenta il <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utenti correnti</a> nel tuo caso per motivi di sicurezza. I seguenti dettagli devono essere inclusi come minimo (e sono tutti visibili andando in Adobe Admin Console &gt; Utenti):</li>
-    <br>Nome
-    <br>E-mail
-    <br>Login
-    <br>Ruolo
-    <br>Data di scadenza dell’accesso
-    <br>Data di creazione utente
-    <br>Data di accesso più recente
-
-NOTA: i clienti possono anche approfondire la questione per includere la documentazione su ruoli/autorizzazioni.
-<p>
-<li>In qualità di amministratore di prodotto del Marketo Engage, sviluppa un processo interno per controllare e aggiornare l’elenco degli utenti del Marketo Engage a cadenza regolare. Per apportare modifiche all’elenco degli utenti in Adobe Admin Console, considera <a href="https://helpx.adobe.com/it/enterprise/using/users.html" target="_blank">azioni in blocco</a>, ad esempio il caricamento di un file CSV, l’utilizzo dell’API REST per la gestione utente, ecc.</li></td>
-</tr>
+    <ul>
+    <li>Nome</li>
+    <li>E-mail</li>
+    <li>Login</li>
+    <li>Ruolo</li>
+    <li>Data di scadenza dell’accesso</li>
+    <li>Data di creazione utente</li>
+    <li>Data di accesso più recente</li></ul>
+    <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: puoi anche approfondire questo argomento per includere la documentazione su ruoli/autorizzazioni.
+    <p>
+    <li>In qualità di amministratore di prodotto del Marketo Engage, sviluppa un processo interno per controllare e aggiornare l’elenco degli utenti del Marketo Engage a cadenza regolare. Per apportare modifiche all’elenco degli utenti in Adobe Admin Console, considera <a href="https://helpx.adobe.com/it/enterprise/using/users.html" target="_blank">azioni in blocco</a>, ad esempio il caricamento di un file CSV, l’utilizzo dell’API REST per la gestione utente, ecc.</li></td>
+  </tr>
   <tr>
     <td>Organizzazione</td>
     <td><li>Documenta la struttura di cartelle concordata, le convenzioni di denominazione standard per programmi, risorse e così via e il motivo delle decisioni adottate. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Ulteriori informazioni sulle best practice disponibili qui.</a></li></td>

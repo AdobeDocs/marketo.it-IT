@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ Benvenuto nella nuova istanza di Adobe Marketo Engage. Preparati a semplificare,
 
 In questa guida all’implementazione di una nuova istanza di Marketo Engage, scopri le best practice per implementare facilmente l’istanza in modo da garantire l’igiene a lungo termine e l’efficienza operativa. Ogni elenco di controllo fornisce passaggi utili per tenere traccia dell’avanzamento della configurazione. Utilizza gli elenchi di controllo scaricabili per documentare il tuo lavoro durante il percorso per i futuri controlli delle istanze e l’onboarding degli utenti.
 
-## Passaggi richiesti
+## Configurazione iniziale {#initial-setup}
 
-AGGIUNGI PAROLA A QUESTA SEZIONE E RINOMINA
+Prima di immergerti negli elenchi di controllo delle best practice riportati di seguito, assicurati di aver seguito i passaggi descritti nella sezione Configurazione iniziale.
+
+* [Attività di configurazione iniziali](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [Configurazione utente](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## Elenchi Di Controllo Delle Best Practice Per La Nuova Istanza Di Marketo Engage {#best-practice-checklists-new-instance}
 

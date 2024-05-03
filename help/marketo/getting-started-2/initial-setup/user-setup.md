@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,12 @@ I tuoi nuovi abbonamenti al Marketo Engage sono stati integrati in [Sistema Adob
     <td><li>Creare un criterio per determinare quando <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">creare un utente</a>.</li> <li>Crea un criterio per determinare quando rimuovere gli utenti.</li>
     <li>Determina chi deve avere <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe di autorizzazioni di amministratore di sistema e amministratore di prodotto di Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Aggiungi utenti</a> al profilo di prodotto desiderato.</li>
     <li>Crea un utente API per ogni caso d’uso dell’API.</li></td>
+  </tr>
+  <tr>
+    <td>API User Management (se applicabile)</td>
+    <td><li>Utilizza il <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">API per la gestione degli utenti Adobe</a> per invitare, aggiornare ed eliminare utenti.</li>
+    <li>Utilizza il <a href="https://developer.adobe.com/umapi/">API per la gestione degli utenti Adobe</a> per aggiungere o rimuovere ruoli (ad esempio, Amministratori, Amministratori di supporto, Sviluppatori).</li>
+    </td>
   </tr>
   <tr>
     <td>Amministratore del supporto del prodotto </td>
