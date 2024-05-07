@@ -3,9 +3,9 @@ description: Promozione di un webinar interattivo - Documentazione di Marketo - 
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,11 @@ La promozione di un webinar interattivo è simile alla promozione di un webinar 
 
 Dopo l’aggiunta o l’importazione dei membri nel programma, puoi creare una campagna e-mail all’interno del programma di eventi del webinar interattivo per inviare un invito a tutti i membri del programma e modificarne lo stato come &quot;invitato&quot; una volta che l’e-mail è stata consegnata.
 
-L’e-mail può contenere dettagli specifici del programma e includere un URL della pagina di destinazione che reindirizzerebbe il destinatario a una pagina specifica in cui ulteriori informazioni sul webinar (ad esempio, contenuto, informazioni sul presentatore, ecc.) possono essere aggiunti. Questa pagina di destinazione può essere creata come risorsa locale nel programma di eventi dei webinar interattivi.
+>[!NOTE]
+>
+>Se desideri aggiungere un co-host o un presentatore come membro del pubblico al programma di eventi del webinar interattivo, devi utilizzare un ID e-mail diverso per loro, altrimenti riceveranno un errore &quot;Questa e-mail è già registrata&quot;.
+
+L’e-mail può contenere dettagli specifici del programma e includere un URL della pagina di destinazione che reindirizzerebbe il destinatario a una pagina specifica in cui ulteriori informazioni relative al webinar (ad esempio, contenuto, informazioni sul presentatore, ecc.) possono essere aggiunti. Questa pagina di destinazione può essere creata come risorsa locale nel programma di eventi dei webinar interattivi.
 
 Per richiedere la registrazione a questo webinar, abilita un modulo nella pagina di destinazione e collega i clic del modulo alla registrazione abilitata nel programma di eventi del webinar interattivo. È quindi possibile creare una campagna che utilizza l’invio dei moduli come attivatore e cambia lo stato del programma da &quot;invitato&quot; a &quot;registrato&quot;.
 
