@@ -3,7 +3,7 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 1%
@@ -41,7 +41,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
    <td>Profilo di prodotto</td> 
    <td><li>Tutti gli utenti appropriati sono assegnati al profilo di prodotto del Marketo Engage in Adobe Admin Console?
 <br/>     In caso contrario, assicurarsi di <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">aggiungere e/o rimuovere utenti</a> dai profili di prodotto di Marketo Engage in Adobe Admin Console. Non puoi assegnare i ruoli degli utenti in Marketo Engage &gt; Amministratore &gt; Utenti e ruoli se sono stati aggiunti a un profilo di prodotto.</li>
-<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: se un utente indesiderato viene aggiunto a più profili di prodotto, devi rimuoverlo da tutti i profili di prodotto. Altrimenti avranno ancora accesso al Marketo Engage.</td>
+<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: se un utente indesiderato viene aggiunto a più profili di prodotto, devi rimuoverlo da tutti. Altrimenti avranno ancora accesso al Marketo Engage.</td>
   </tr>
   <tr> 
    <td>API User Management</td> 

@@ -3,16 +3,16 @@ description: Prima di immergerti nella nuova istanza di Marketo Engage, devi com
 title: Elenco di controllo per l'impostazione dell'utente
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
 # Elenco di controllo per l&#39;impostazione dell&#39;utente {#user-setup-checklist}
 
-Ora che hai completato tutte le [passaggi di configurazione iniziali](/help/marketo/getting-started/initial-setup/setup-steps.md)È ora di stabilire alcuni elementi fondamentali per garantire un utilizzo continuo e senza problemi. In questo modo, il percorso potrà disporre delle basi necessarie per il Marketo Engage e sarà possibile sfruttarne al meglio le funzionalità. Iniziamo!
+Ora che hai completato tutte le [passaggi di configurazione iniziali](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}È ora di stabilire alcuni elementi fondamentali per garantire un utilizzo continuo e senza problemi. In questo modo, il percorso potrà disporre delle basi necessarie per il Marketo Engage e sarà possibile sfruttarne al meglio le funzionalità. Iniziamo!
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ I tuoi nuovi abbonamenti al Marketo Engage sono stati integrati in [Sistema Adob
     <td>Amministratore prodotti abbonamento e Marketo Engage</td>
     <td><li>Conferma di aver ottenuto il ruolo di amministratore di prodotto Adobe dall’amministratore di sistema dell’organizzazione Adobe.</li>  
     <ul>
-    <li>Contatto <a href="https://helpx.adobe.com/contact.html">Assistenza clienti Adobe</a> per scoprire chi dispone di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Amministratore di sistema Adobe Admin Console</a> privilegi.</li></ul>
+    <li>Contatta il team dell’account Adobe (il tuo Account Manager) o invia un’e-mail a <code>customercare@marketo.com</code> o invia un messaggio e-mail a customercare@marketo.comto per scoprire chi dispone di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Amministratore di sistema Adobe Admin Console</a> privilegi.</li></ul>
     <li>Accetta l’invito "Amministratore di prodotto di Marketo Engage" per attivare il tuo Adobe ID. Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">e-mail di benvenuto</a> viene inviato quando il ruolo viene assegnato in Adobe Admin Console.</li></td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ I tuoi nuovi abbonamenti al Marketo Engage sono stati integrati in [Sistema Adob
 
 ## Dynamic Chat nella configurazione di Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Da utilizzare [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), il canale di automazione della conversazione nativo in Marketi Engage, procedi con la configurazione delle autorizzazioni utente seguendo i passaggi riportati di seguito nel [Adobe Admin Console](https://adminconsole.adobe.com/).
+Da utilizzare [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), il canale di automazione della conversazione nativo in Marketi Engage, procedi con la configurazione delle autorizzazioni utente seguendo i passaggi riportati di seguito nel [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -79,7 +79,8 @@ Da utilizzare [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/usi
 <tbody>
   <tr>
     <td>Amministratore prodotti abbonamento e Dynamic Chat (se applicabile)</td>
-    <td><li>Conferma di aver ottenuto il ruolo di amministratore di prodotto Adobe dall’amministratore di sistema dell’organizzazione Adobe. Contatto <a href="https://helpx.adobe.com/contact.html">Assistenza clienti Adobe</a> per scoprire chi dispone dei privilegi di amministratore nella console all’interno della tua organizzazione.</li>
+    <td><li>Conferma di aver ottenuto il ruolo di amministratore di prodotto Adobe dall’amministratore di sistema dell’organizzazione Adobe.</li> 
+    <ul><li>Contatta il team dell’account Adobe (il tuo Account Manager) o invia un’e-mail a <code>customercare@marketo.com</code> per scoprire chi dispone di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Amministratore di sistema Adobe Admin Console</a> privilegi.</li></ul>
     <li>Accetta <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Amministratore prodotto di Dynamic Chat'</a> invitare. Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">e-mail di benvenuto</a> viene inviato quando il Dynamic Chat è abilitato nell’istanza del Marketo Engage e si è designati come amministratore di sistema.</li></td>
   </tr>
   <tr>
@@ -121,4 +122,4 @@ Da utilizzare [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/usi
 
 <p>
 
-Ora che il tuo account di Marketo Engage è pronto, rivedi il nostro [Best practice per una nuova istanza di Marketo Engage](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md) sezione per trarre il massimo dall’investimento e prepararsi per il successo a lungo termine.
+Ora che il tuo account di Marketo Engage è pronto, rivedi il nostro [Best practice per una nuova istanza di Marketo Engage](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} sezione per trarre il massimo dall’investimento e prepararsi per il successo a lungo termine.
