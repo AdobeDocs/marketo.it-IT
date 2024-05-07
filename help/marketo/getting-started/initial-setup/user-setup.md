@@ -3,9 +3,9 @@ description: Prima di immergerti nella nuova istanza di Marketo Engage, devi com
 title: Elenco di controllo per l'impostazione dell'utente
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ I tuoi nuovi abbonamenti al Marketo Engage sono stati integrati in [Sistema Adob
     <td>Amministratore prodotti abbonamento e Marketo Engage</td>
     <td><li>Conferma di aver ottenuto il ruolo di amministratore di prodotto Adobe dall’amministratore di sistema dell’organizzazione Adobe.</li>  
     <ul>
-    <li>Contatta il team dell’account Adobe (il tuo Account Manager) o invia un’e-mail a <code>customercare@marketo.com</code> o invia un messaggio e-mail a customercare@marketo.comto per scoprire chi dispone di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Amministratore di sistema Adobe Admin Console</a> privilegi.</li></ul>
+    <li>Contatta il team dell’account Adobe (il tuo Account Manager) o invia un’e-mail a <code>customercare@marketo.com</code> per scoprire chi dispone di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Amministratore di sistema Adobe Admin Console</a> privilegi.</li></ul>
     <li>Accetta l’invito "Amministratore di prodotto di Marketo Engage" per attivare il tuo Adobe ID. Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">e-mail di benvenuto</a> viene inviato quando il ruolo viene assegnato in Adobe Admin Console.</li></td>
   </tr>
   <tr>
