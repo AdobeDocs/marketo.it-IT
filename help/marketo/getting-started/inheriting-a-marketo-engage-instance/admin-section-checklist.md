@@ -3,7 +3,7 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 
 >[!TIP]
 >
->Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>Se sei un nuovo utente del Marketo Engage e non conosci molti dei termini, controlla [Glossario Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -38,7 +38,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <br/>     In caso contrario, cercare <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">e-mail di benvenuto</a> nella tua casella in entrata e accetta l’invito ad attivare il tuo Adobe ID.</li></td>
   </tr>
   <tr> 
-   <td>Profilo prodotto</td> 
+   <td>Profilo di prodotto</td> 
    <td><li>Tutti gli utenti appropriati sono assegnati al profilo di prodotto del Marketo Engage in Adobe Admin Console?
 <br/>     In caso contrario, assicurarsi di <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">aggiungere e/o rimuovere utenti</a> dai profili di prodotto di Marketo Engage in Adobe Admin Console. Non puoi assegnare i ruoli degli utenti in Marketo Engage &gt; Amministratore &gt; Utenti e ruoli se sono stati aggiunti a un profilo di prodotto.</li>
 <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: se un utente indesiderato viene aggiunto a più profili di prodotto, devi rimuoverlo da tutti i profili di prodotto. Altrimenti avranno ancora accesso al Marketo Engage.</td>
@@ -83,7 +83,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   </tr>
   <tr> 
    <td>Utenti di supporto</td> 
-   <td><li>Hai impostato il <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contatti autorizzati</a> nel portale di assistenza?</li></td>
+   <td><li>Hai impostato il <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contatti autorizzati</a> nel portale di assistenza?</li></td>
   </tr>
   <tr> 
    <td>Documentazione interna</td> 

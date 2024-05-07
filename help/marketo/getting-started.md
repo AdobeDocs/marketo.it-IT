@@ -2,12 +2,14 @@
 unique-page-id: 1147226
 description: Guida introduttiva - Documentazione di Marketo - Documentazione del prodotto
 title: Guida introduttiva
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
@@ -23,7 +25,7 @@ Che cos&#39;è il Marketo Engage? Ottima domanda!
 
 Con un piccolo aiuto dal tuo team IT, potrai completarlo in breve tempo.
 
-[Avvia configurazione](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Avvia configurazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Ottieni alcuni risultati in breve {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Importa" src="getting-started/assets/getting-started-2.png" />
+       <img alt="Importa" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. Inviare un’e-mail</a>
     </div>

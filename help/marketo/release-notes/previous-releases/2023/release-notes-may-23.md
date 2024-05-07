@@ -1,10 +1,10 @@
 ---
 description: Note sulla versione - Maggio 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2023
-exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '345'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr> 
    <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Centro assistenza</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centro assistenza</a></td>
   </tr>
   </tbody>
 </table>
@@ -57,7 +57,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date prima o dopo la data di rilascio standard. Di seguito è riportato lo stato di ciascuna funzionalità.
 
-### Orchestrazione tra canali diversi {#cross-channel-orchestration}
+### Orchestrazione cross-channel {#cross-channel-orchestration}
 
 </br>
 

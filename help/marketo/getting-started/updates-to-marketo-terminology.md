@@ -1,25 +1,27 @@
 ---
 unique-page-id: 11387674
-description: Aggiornamenti alla terminologia di Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Aggiornamenti alla terminologia di Marketo - Documenti Marketo - Documentazione del prodotto
+hide: true
+hidefromtoc: true
 title: Aggiornamenti alla terminologia di Marketo
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '328'
 ht-degree: 1%
 
 ---
 
 # Aggiornamenti alla terminologia di Marketo {#updates-to-marketo-terminology}
 
-Stiamo apportando alcune modifiche alla nostra piattaforma, che influiranno su ciò che alcune cose vengono chiamate. Se disponi di una nuova istanza di Marketo a partire da marzo 2016 o se la tua azienda è stata rinnovata dopo luglio 2016, potresti visualizzare la nuova terminologia ora.
+Stiamo apportando alcune modifiche alla nostra piattaforma, che influenzeranno ciò che alcuni elementi vengono chiamati. Se disponi di una nuova istanza di Marketo a partire da marzo 2016, o se la tua azienda è stata rinnovata dopo luglio 2016, ora potresti vedere la nuova terminologia.
 
-Anche se potresti trovare una terminologia diversa nella documentazione di Marketo, assicurati che tutti gli articoli verranno presto aggiornati per riflettere queste modifiche. Tutte le istruzioni sono le stesse.
+Anche se nella documentazione di Marketo potresti notare una terminologia diversa, presto ogni articolo verrà aggiornato per riflettere queste modifiche. Tutte le istruzioni sono uguali.
 
 Allora, cosa è cambiato?
 
-## Il lead è ora una persona {#lead-is-now-person}
+## Il lead è ora la persona {#lead-is-now-person}
 
-Il cambiamento più importante è la ridenominazione di Lead/Lead a persona/persone.
+Il cambiamento più importante è la ridenominazione di lead/lead in persona/persone.
 
 <table> 
  <colgroup> 
@@ -28,7 +30,7 @@ Il cambiamento più importante è la ridenominazione di Lead/Lead a persona/pers
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Antico</strong></td> 
+   <td><strong>Vecchio</strong></td> 
    <td><strong>Nuovo</strong></td> 
   </tr> 
   <tr> 
@@ -53,7 +55,7 @@ In alcuni casi, la parola &quot;lead&quot; viene semplicemente rimossa.
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Antico</strong></td> 
+   <td><strong>Vecchio</strong></td> 
    <td><strong>Nuovo</strong></td> 
   </tr> 
   <tr> 
@@ -73,15 +75,15 @@ Lead e persona **sono la stessa cosa**.
 
 ## Token {#tokens}
 
-Token con la parola lead **non vengono modificati**. Ci scusiamo per ogni confusione; tuttavia, cambiare tutti i token in modo che corrispondano alla nuova terminologia interromperebbe molti token attualmente in uso. Quindi vedrai ancora token come &quot;`{{lead.First Name}}`.&quot; Non sono disponibili token specifici per una persona.
+Token contenenti la parola lead **non vengono modificati**. Ci scusiamo per qualsiasi confusione; tuttavia, cambiare tutti i token in modo che corrispondano alla nuova terminologia causerebbe la rottura di un sacco di token attualmente in uso. Potrai ancora visualizzare token come &quot;`{{lead.First Name}}`.&quot; Non sono presenti token specifici per le persone.
 
 >[!NOTE]
 >
->Là *è* un token chiamato &quot;Note personali&quot;, tuttavia quel token era sempre presente. In genere viene utilizzato per un campo di descrizione nel CRM, se del caso.
+>Lì *è* un token denominato &quot;Person Notes&quot; (Note della persona), tuttavia quel token era sempre presente. In genere viene utilizzato per un campo di descrizione nel CRM, se del caso.
 
 ## Gestione dei campi {#field-management}
 
-I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la parola Lead è stata rilasciata. Un’eccezione rilevante è tuttavia il campo &quot;Proprietario lead&quot;. È ora noto come &quot;Proprietario vendite&quot;.
+I campi contenenti il termine Lead sono stati sostituiti con Person oppure la parola Lead è stata eliminata. Tuttavia, un’eccezione degna di nota è il campo &quot;Proprietario lead&quot;. Ora è noto come &quot;Proprietario vendite&quot;.
 
 <table> 
  <colgroup> 
@@ -90,7 +92,7 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Antico</strong></td> 
+   <td><strong>Vecchio</strong></td> 
    <td><strong>Nuovo</strong></td> 
   </tr> 
   <tr> 
@@ -108,9 +110,9 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
 
 >[!NOTE]
 >
->Per un elenco completo dei nomi di campo interessati, visita questo [Articolo di supporto](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
+>Per un elenco completo dei nomi dei campi interessati, visitare questo sito [Articolo di supporto](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## La personalizzazione in tempo reale (RTP, Real-Time Personalization) è ora la personalizzazione web {#real-time-personalization-rtp-is-now-web-personalization}
+## La personalizzazione in tempo reale (RTP) è ora la personalizzazione web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -119,7 +121,7 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Antico</strong></td> 
+   <td><strong>Vecchio</strong></td> 
    <td><strong>Nuovo</strong></td> 
   </tr> 
   <tr> 
@@ -137,14 +139,14 @@ I campi contenenti il termine Lead sono stati sostituiti con Persona oppure la p
 
 Oltre alla modifica del nome, ora è costituito da quattro app separate:
 
-| **[Personalizzazione web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Ha un proprio riquadro sullo schermo home |
+| **[Personalizzazione web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Ha un riquadro proprio nella schermata iniziale |
 |---|---|
-| **[Web Marketing basato su account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Accessibile tramite il riquadro di personalizzazione web |
-| **[Retargeting personalizzato](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Accessibile tramite il riquadro di personalizzazione web |
-| **[Contenuto predittivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Ha un proprio riquadro sullo schermo home |
+| **[Marketing Web basato su account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Accessibile tramite riquadro di personalizzazione web |
+| **[Retargeting personalizzato](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Accessibile tramite riquadro di personalizzazione web |
+| **[Contenuto predittivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Ha un riquadro proprio nella schermata iniziale |
 
 >[!NOTE]
 >
->I riquadri visibili nella schermata iniziale rifletteranno i moduli acquistati.
+>Le tessere visibili nella schermata iniziale rifletteranno i moduli acquistati.
 
-Grazie per la pazienza durante questo aggiornamento.
+Grazie per la pazienza dimostrata durante l&#39;aggiornamento.

@@ -1,18 +1,18 @@
 ---
-description: Icona Glossario - Documentazione di Marketo - Documentazione del prodotto
+description: Icona Glossario - Documentazione del Marketo Engage - Documentazione del prodotto
 title: Icona Glossario
-exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-feature: Modern UX
+feature: Getting Started
+exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 21%
 
 ---
 
-# Icona Glossario {#new-icon-glossary}
+# Glossario icona Marketo Engage {#icon-glossary}
 
-Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage. Se hai bisogno di fare riferimento alle icone di Marketo Classic, possono essere [trovato qui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marketo Engage. Se hai bisogno di fare riferimento alle icone di Marketo Classic, possono essere [trovato qui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Icone generali {#general-icons}
 
