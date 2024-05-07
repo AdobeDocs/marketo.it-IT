@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,18 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Nuovi utenti e ruoli - Autorizzazioni</strong>: sono disponibili nuove autorizzazioni che forniscono agli utenti un accesso più granulare al Marketo Engage. Controlla le parti dell’amministratore non gestite in precedenza, ad esempio Nuova esperienza e Predictive Audiences, divide le autorizzazioni per concedere separatamente l’accesso all’Asset Audit Trail e all’Admin Audit Trail e utilizza le nuove autorizzazioni di creazione e spostamento per le risorse e le cartelle per impedire che gli utenti di sola lettura apportino modifiche. Le nuove autorizzazioni appariranno nell’istanza di Marketo Engage a partire dal 26 aprile, ma per il momento sono passive e diventeranno accessibili più avanti nel corso del trimestre.</td> 
+   <td><strong>Nuovi utenti e ruoli - Autorizzazioni</strong>: sono disponibili nuove autorizzazioni che forniscono agli utenti un accesso più granulare al Marketo Engage. Controlla le parti dell’amministratore non gestite in precedenza, ad esempio Nuova esperienza e Predictive Audiences, divide le autorizzazioni per concedere separatamente l’accesso all’Asset Audit Trail e all’Admin Audit Trail e utilizza le nuove autorizzazioni di creazione e spostamento per le risorse e le cartelle per impedire che gli utenti di sola lettura apportino modifiche. 
+   <p>Le nuove autorizzazioni appariranno nell’istanza di Marketo Engage a partire dal 26 aprile, ma per il momento sono passive e diventeranno accessibili più avanti nel corso del trimestre.
+   <li>Accedere a Adobe Experience Manager</li>
+   <li>Mappatura organizzazione Adobe di accesso</li>
+   <li>Accedi ad Admin Audit Trail</li>
+   <li>Accedere ad Asset Audit Trail</li>
+   <li>Accedi a nuova esperienza</li>
+   <li>Accedere a Predictive Audiences</li>
+   <li>Crea rapporto</li>
+   <li>Crea elenco</li>
+   <li>Esporta attività campagna</li>
+   </td> 
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descrizioni delle autorizzazioni per il ruolo</a></td>
   </tr>
