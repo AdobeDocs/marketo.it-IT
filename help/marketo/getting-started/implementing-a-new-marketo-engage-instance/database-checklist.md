@@ -3,7 +3,7 @@ description: Impostare la sezione Database per la nuova istanza di Marketo Engag
 title: Best practice per le nuove istanze - Elenco di controllo del database
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Nella sezione Database sono disponibili gli attributi chiave delle persone presenti nell&#39;istanza. Scopri i passaggi necessari per spostarti tra i diversi elenchi e segmentazioni nel tuo database e come gestire i record di persone.
 
-Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
+Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
 
 ## Elenchi smart di sistema {#system-smart-lists}
 

@@ -3,7 +3,7 @@ description: Configurare la sezione Design Studio per la nuova istanza di Market
 title: Best practice per le nuove istanze - Elenco di controllo di Design Studio
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Nella sezione Design Studio dovrebbero trovarsi le &quot;risorse globali&quot; riutilizzabili. Crea le risorse globali che la tua organizzazione prevede di utilizzare nei programmi, utilizza una convenzione di denominazione coerente e organizzale nelle sottocartelle per semplificare le ricerche.
 
-Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
+Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
 
 ## Pagine di destinazione {#landing-pages}
 

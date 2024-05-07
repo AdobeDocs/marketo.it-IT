@@ -3,7 +3,7 @@ description: Scopri le best practice per l’implementazione di una nuova istanz
 title: Da dove iniziare
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Benvenuto nella nuova istanza di Adobe Marketo Engage. Preparati a semplificare, automatizzare e misurare le attività e i flussi di lavoro di marketing con potenti funzionalità di automazione del marketing.
 
-In questa guida all’implementazione di una nuova istanza di Marketo Engage, scopri le best practice per implementare facilmente l’istanza in modo da garantire l’igiene a lungo termine e l’efficienza operativa. Ogni elenco di controllo fornisce passaggi utili per tenere traccia dell’avanzamento della configurazione. Utilizza il [elenchi di controllo scaricabili](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} per documentare il tuo lavoro in vista di futuri controlli delle istanze e onboarding degli utenti.
+In questa guida all’implementazione di una nuova istanza di Marketo Engage, scopri le best practice per implementare facilmente l’istanza in modo da garantire l’igiene a lungo termine e l’efficienza operativa. Ogni elenco di controllo fornisce passaggi utili per tenere traccia dell’avanzamento della configurazione. Utilizza il [elenchi di controllo scaricabili](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} per documentare il tuo lavoro in vista di futuri controlli delle istanze e onboarding degli utenti.
 
 ## Configurazione iniziale {#initial-setup}
 
@@ -28,7 +28,7 @@ Prima di immergerti negli elenchi di controllo delle best practice riportati di 
 
 ## Elenchi Di Controllo Delle Best Practice Per La Nuova Istanza Di Marketo Engage {#best-practice-checklists-new-instance}
 
-Scarica l’istanza di Marketo Engage [Nuovi elenchi di controllo per l’amministrazione dell’implementazione](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}, oppure segui le guide online riportate di seguito.
+Scarica l’istanza di Marketo Engage [Nuovi elenchi di controllo per l’amministrazione dell’implementazione](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}, oppure segui le guide online riportate di seguito.
 
 * [Sezione Amministratore](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 

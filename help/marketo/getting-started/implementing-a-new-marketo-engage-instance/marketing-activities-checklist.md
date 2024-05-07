@@ -3,7 +3,7 @@ description: Imposta la sezione Attività di marketing per la nuova istanza di M
 title: Best practice per le nuove istanze - Elenco di controllo delle attività di marketing
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Le attività di marketing ospitano tutte le risorse e i contenuti che compongono i programmi di marketing automatizzato. Quando imposti una nuova istanza di Marketo Engage, un’organizzazione pulita e chiara garantisce a tutti gli utenti di poter trovare e gestire facilmente vari programmi.
 
-Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
+Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
 
 ## Organizzazione {#organization}
 
