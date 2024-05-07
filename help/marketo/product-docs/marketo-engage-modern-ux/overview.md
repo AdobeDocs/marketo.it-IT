@@ -3,7 +3,7 @@ description: Panoramica di Marketi Engage Modern UX - Documentazione di Marketo 
 title: Panoramica di Marketi Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Nell’esperienza utente moderna sono presenti molte nuove funzionalità, proget
 
 **Icone**
 
-La nuova interfaccia presenta un&#39;iconografia migliorata ed estesa. Per saperne di più: [Icona Glossario](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md).
+La nuova interfaccia presenta un&#39;iconografia migliorata ed estesa. Per saperne di più: [Icona Glossario](/help/marketo/getting-started/things-to-know/icon-glossary.md).
 
 ![](assets/overview-2.png)
 

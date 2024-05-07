@@ -4,7 +4,7 @@ description: Modifica il dominio di branding predefinito - Documentazione di Mar
 title: Modifica il dominio di branding predefinito
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La modifica del dominio di branding predefinito è il primo passaggio nell’uti
 
 >[!PREREQUISITES]
 >
->Assicurati di aver [configurare un CNAME nel DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) prima di aggiungere i domini di branding in Marketo.
+>Assicurati di aver [configurare un CNAME nel DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) prima di aggiungere i domini di branding in Marketo.
 
 1. Vai a **[!UICONTROL Amministratore]** area.
 

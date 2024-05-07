@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2071'
 ht-degree: 0%
@@ -206,7 +206,7 @@ Ora disponi di tutte le informazioni necessarie per inviare la richiesta al repa
 
 Una volta raccolte tutte le informazioni necessarie, puoi inviare una richiesta al reparto IT. È possibile utilizzare il testo seguente come modello, sostituendo il testo in grassetto con le proprie informazioni.
 
-[Includi un collegamento a questo articolo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[Includi un collegamento a questo articolo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 Incolla questo testo nell’e-mail e sostituisci i segnaposto in grassetto:
 
