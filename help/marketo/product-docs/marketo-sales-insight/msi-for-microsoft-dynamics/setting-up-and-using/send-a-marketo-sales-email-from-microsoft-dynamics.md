@@ -4,9 +4,9 @@ description: Inviare un messaggio e-mail per le vendite di Marketo da Microsoft 
 title: Inviare un messaggio e-mail Marketo Sales da Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,13 @@ Il team vendite può inviare e-mail e tenerle traccia per aperture e clic dirett
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   Puoi fare clic su **Invia e-mail di prova** prima di inviare l’e-mail, riceverai l’indirizzo e-mail principale in Microsoft Dynamics.
+   >[!TIP]
+   >
+   >Puoi fare clic su **Invia e-mail di prova** prima di inviare l’e-mail, riceverai l’indirizzo e-mail principale in Microsoft Dynamics.
+
+   >[!NOTE]
+   >
+   >Puoi inviare fino a 2000 e-mail Marketo alla volta.
 
 Ben fatto! Ora sai come inviare e-mail tracciate di Marketo direttamente da Microsoft Dynamics.
 
