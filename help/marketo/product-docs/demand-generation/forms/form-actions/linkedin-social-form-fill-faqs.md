@@ -2,11 +2,13 @@
 unique-page-id: 10098238
 description: Domande frequenti sulla compilazione dei moduli social network per linkedIn - Documentazione di Marketo - Documentazione del prodotto
 title: Domande frequenti sulla compilazione dei moduli social network per linkedIn
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -37,9 +39,9 @@ Prima di apportare questa modifica, abbiamo inviato notifiche settimanali alla c
 
 Sì. La modifica interessa solo la funzionalità di riempimento dei moduli social network di LinkedIn.
 
-## Facebook e Twitter Social Form Fill funzionano ancora? {#do-facebook-and-twitter-social-form-fill-still-work}
+## Facebook e il Twitter compilano ancora i moduli social? {#do-facebook-and-twitter-social-form-fill-still-work}
 
-Sì. La modalità di compilazione dei moduli social network per facebook e Twitter non è stata modificata.
+Sì. Il riempimento dei moduli social network per facebook e Twitter non è stato modificato.
 
 ## È successo qualcosa ai dati che abbiamo già acquisito tramite LinkedIn Social Form Fill? {#did-anything-happen-to-the-data-we-already-captured-via-linkedin-social-form-fill}
 
@@ -61,11 +63,11 @@ No, i moduli in cui è stata rimossa questa funzionalità sono rimasti pubblicat
 
 No, rimuoveremo solo il pulsante LinkedIn dal modulo. Ogni volta che a un modulo viene applicato il riempimento di un modulo social, viene creato un contenitore al di sopra del quale sono presenti i pulsanti Riempimento modulo social. Prima del 28 aprile 2016, se LinkedIn era l’unica opzione, l’aspetto del contenitore somigliava a questa immagine:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Dopo il 28 aprile 2016, è rimasto un contenitore vuoto nella parte superiore di qualsiasi modulo da cui è stato rimosso il riempimento del modulo social di LinkedIn:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >

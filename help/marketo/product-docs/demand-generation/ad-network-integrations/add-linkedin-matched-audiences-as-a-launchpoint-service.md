@@ -4,14 +4,18 @@ description: Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio L
 title: Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketi Engage LinkedIn. Queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel tuo **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024, per evitare interruzioni del servizio. Per ulteriori informazioni, vedere [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
