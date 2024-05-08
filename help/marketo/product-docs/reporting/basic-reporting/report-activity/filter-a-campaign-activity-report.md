@@ -4,7 +4,7 @@ description: Filtrare un rapporto sull’attività di una campagna - Documentazi
 title: Filtrare un rapporto di attività campagna
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ Metti a fuoco [Rapporto sull’attività della campagna](/help/marketo/product-d
 
 1. Vai a **Attività di marketing** (o **Analytics**) e seleziona il rapporto sull’attività della campagna.
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. Fai clic su **Configurazione** e doppio clic **Campagne**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. Scegli le cartelle e le campagne intelligenti specifiche da includere nel rapporto. Clic **Applica**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ Metti a fuoco [Rapporto sull’attività della campagna](/help/marketo/product-d
 
 1. Hai finito! Fai clic su **Report** scheda da visualizzare _solo_ le campagne intelligenti selezionate nel rapporto.
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
