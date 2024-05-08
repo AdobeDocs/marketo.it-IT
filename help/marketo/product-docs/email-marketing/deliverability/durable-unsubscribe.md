@@ -4,9 +4,9 @@ description: Annullamento duraturo dell’abbonamento - Documentazione di Market
 title: Annulla iscrizione durevole
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Se modifichi l’indirizzo e-mail per il quale non hai effettuato l’abbonament
 ## Ri-iscrizione {#re-subscribing}
 
 Proprio come un annullamento dell’iscrizione causerebbe la cancellazione di tutte le persone con lo stesso indirizzo e-mail, un nuovo abbonamento comporterebbe in realtà la reiscrizione di ogni persona con lo stesso indirizzo e-mail.
-
-## Registro attività {#activity-log}
-
-Definizioni modifica valore dati per _updateLeadEmailStatus_ e _resetLeadEmailStatus_ si trova in [questo articolo della community](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
